@@ -1,17 +1,17 @@
-REGIO DECRETO 07 dicembre 1919 n. 2446
+---
+tipo: REGIO DECRETO
+numero: 2446
+data: 1919-12-07
+titolo: "Erezione in Ente morale (019U2446)"
+urn: urn:nir:stato:regio.decreto:1919-12-07;2446
+codice_redazionale: 019U2446
+vigente: true
+---
 
-
-REGIO DECRETO 07 dicembre 1919 n. 2446
-======================================
-
-Erezione in Ente morale (019U2446)
-----------------------------------
-
-Entrata in vigore del provvedimento: 29/01/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2446. Regio decreto 7 dicembre 1919, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, la «Casa degli orfani di guerra del Molise» con sede in Campobasso, viene eretta in ente morale, e ne e' approvato lo statuto organico relativo.
+2446.
+
+Regio decreto 7 dicembre 1919, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, la «Casa degli orfani di guerra del Molise» con sede in Campobasso, viene eretta in ente morale, e ne e' approvato lo statuto organico relativo.

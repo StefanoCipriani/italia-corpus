@@ -1,16 +1,14 @@
-REGIO DECRETO 14 marzo 1880 n. 5338
-
-
-REGIO DECRETO 14 marzo 1880 n. 5338
-===================================
-
-Che separa il comune di Bovolone dalla sezione elettorale di Isola della Scala e forma una sezione distinta del collegio di Isola della Scala. (080U5338)
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/04/1880
+---
+tipo: REGIO DECRETO
+numero: 5338
+data: 1880-03-14
+titolo: "Che separa il comune di Bovolone dalla sezione elettorale di Isola della Scala e forma una sezione distinta del collegio di Isola della Scala. (080U5338)"
+urn: urn:nir:stato:regio.decreto:1880-03-14;5338
+codice_redazionale: 080U5338
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Ritenuto che gli elettori del comune di Bovolone sono 74, e cosi' in numero supe
 
 Considerando che per la istituzione di una sezione elettorale in Bovolone sara' reso piu' agevole agli elettori di quel comune l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Bovolone e' separato dalla sezione elettorale di Isola della Scala e formera' una sezione distinta del Collegio di Isola della Scala.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 marzo 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il comune di Bovolone e' separato dalla sezione elettorale di Isola della Scala e formera' una sezione distinta del Collegio di Isola della Scala. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

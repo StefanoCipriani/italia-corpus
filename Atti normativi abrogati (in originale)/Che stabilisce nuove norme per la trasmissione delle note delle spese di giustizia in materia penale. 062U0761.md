@@ -1,16 +1,14 @@
-REGIO DECRETO 14 agosto 1862 n. 761
-
-
-REGIO DECRETO 14 agosto 1862 n. 761
-===================================
-
-Che stabilisce nuove norme per la trasmissione delle note delle spese di giustizia in materia penale. (062U0761)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/09/1862
+---
+tipo: REGIO DECRETO
+numero: 761
+data: 1862-08-14
+titolo: "Che stabilisce nuove norme per la trasmissione delle note delle spese di giustizia in materia penale. (062U0761)"
+urn: urn:nir:stato:regio.decreto:1862-08-14;761
+codice_redazionale: 062U0761
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,29 +18,22 @@ Visto l'articolo 126 del Regolamento per la tariffa delle spese di giustizia in 
 
 Visti i Regi Decreti 12 giugno 1853, n.° 1550, e 6 maggio 1862, n.° 611;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti, di concerto con quello delle Finanze; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti, di concerto con quello delle Finanze; Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Segretari delle Corti, dei Tribunali di Circondario e dei Giudici di Mandamento dovranno trasmettere le note delle spese di giustizia in materia penale di cui nel succitato art. 126 a quell'Ufficio dipendente dall'Amministrazione finanziaria, che con particolari istruzioni sara' determinato dal Ministero delle Finanze di concerto con quello di Grazia e Giustizia e dei Culti.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 14 agosto 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 16 agosto 1862   
-  
-Reg.° 20 Atti del Governo a c. 181. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
-  
-Raffaele Conforti.   
-  
+I Segretari delle Corti, dei Tribunali di Circondario e dei Giudici di Mandamento dovranno trasmettere le note delle spese di giustizia in materia penale di cui nel succitato art. 126 a quell'Ufficio dipendente dall'Amministrazione finanziaria, che con particolari istruzioni sara' determinato dal Ministero delle Finanze di concerto con quello di Grazia e Giustizia e dei Culti. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 14 agosto 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 16 agosto 1862 
+ 
+ Reg.° 20 Atti del Governo a c. 181. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ Raffaele Conforti.

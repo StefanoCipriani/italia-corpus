@@ -1,16 +1,14 @@
-REGIO DECRETO 22 aprile 1880 n. 5436
-
-
-REGIO DECRETO 22 aprile 1880 n. 5436
-====================================
-
-Che proroga a tutto dicembre 1880 la facolta' alla provincia di Girgenti di riscuotere il pedaggio nelle tredici barriere ivi indicate. (080U5436)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/06/1880
+---
+tipo: REGIO DECRETO
+numero: 5436
+data: 1880-04-22
+titolo: "Che proroga a tutto dicembre 1880 la facolta' alla provincia di Girgenti di riscuotere il pedaggio nelle tredici barriere ivi indicate. (080U5436)"
+urn: urn:nir:stato:regio.decreto:1880-04-22;5436
+codice_redazionale: 080U5436
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,7 +20,7 @@ Parte di provvedimento in formato grafico
 
 Veduta la deliberazione 9 gennaio 1880, con la quale la Deputazione provinciale di Girgenti, usando della facolta' concessale dall'art. 180, n. 9, della legge comunale e provinciale, a nome del Consiglio, chiede che sia prorogata di altri dieci anni la concessione di riscuotere pedaggi lungo le barriere sopraindicate;
 
-Visto l'[art. 38 della legge 20 marzo 1865, numero 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art38), allegato F;
+Visto l'[art. 38 della legge 20 marzo 1865, numero 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_38), allegato F;
 
 Considerando che allo stato degli atti prodotti la domanda della provincia di Girgenti non risulta accompagnata dagli elementi necessari per poter determinare quale sia stata effettivamente la spesa incontrata per ciascuna delle strade o dei ponti, lungo i quali sono collocate le barriere, ed il reddito di queste;
 
@@ -30,26 +28,21 @@ Che pertanto non si potrebbe accogliere interamente la domanda suddetta, ma torn
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Sono prorogati fino al 31 dicembre prossimo venturo gli effetti del sopracitato Regio decreto 13 febbraio
 
-1870. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 aprile 1880.   
-  
-UMBERTO.   
-  
-A. Baccarini.   
-  
-Visto - Il Guardasigilli   
-T. Villa.
+1870.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 aprile 1880. 
+ 
+ UMBERTO. 
+ 
+ A. Baccarini. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

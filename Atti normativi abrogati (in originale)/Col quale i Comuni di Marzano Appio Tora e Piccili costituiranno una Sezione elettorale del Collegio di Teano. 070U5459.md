@@ -1,16 +1,14 @@
-REGIO DECRETO 15 gennaio 1870 n. 5459
-
-
-REGIO DECRETO 15 gennaio 1870 n. 5459
-=====================================
-
-Col quale i Comuni di Marzano Appio, Tora e Piccili costituiranno una Sezione elettorale del Collegio di Teano. (070U5459)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/02/1870
+---
+tipo: REGIO DECRETO
+numero: 5459
+data: 1870-01-15
+titolo: "Col quale i Comuni di Marzano Appio, Tora e Piccili costituiranno una Sezione elettorale del Collegio di Teano. (070U5459)"
+urn: urn:nir:stato:regio.decreto:1870-01-15;5459
+codice_redazionale: 070U5459
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,27 +24,20 @@ Noverandosi nei Comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Marzano Appio, Tora e Piccai costituiranno d'ora in poi una Sezione elettorale separata del Collegio di Teano, con sede nel capoluogo del Comune di Marzano Appio.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi, e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 15 gennaio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 24 gennaio 1870   
-Reg. 50 Atti del Governo a c. 9. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Lanza.   
-  
+I Comuni di Marzano Appio, Tora e Piccai costituiranno d'ora in poi una Sezione elettorale separata del Collegio di Teano, con sede nel capoluogo del Comune di Marzano Appio. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi, e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 15 gennaio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 24 gennaio 1870 
+ Reg. 50 Atti del Governo a c. 9. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Lanza.

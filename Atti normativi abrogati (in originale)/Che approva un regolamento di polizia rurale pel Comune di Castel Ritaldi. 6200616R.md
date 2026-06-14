@@ -1,19 +1,15 @@
-REGIO DECRETO 14 dicembre 1862 n. DCXVI
+---
+tipo: REGIO DECRETO
+numero: DCXVI
+data: 1862-12-14
+titolo: "Che approva un regolamento di polizia rurale pel Comune di Castel Ritaldi. (6200616R)"
+urn: urn:nir:stato:regio.decreto:1862-12-14;616
+codice_redazionale: 6200616R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 dicembre 1862 n. DCXVI
-=======================================
-
-Che approva un regolamento di polizia rurale pel Comune di Castel Ritaldi. (6200616R)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/12/1862
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia rurale adottato dalla Comunita' di Castel Ritaldi(Provincia di Perugia) con deliberazione del 17 novembre corrente anno.   
-  
-Torino 14 dicembre 1862   
-  
+Che approva il regolamento di polizia rurale adottato dalla Comunita' di Castel Ritaldi(Provincia di Perugia) con deliberazione del 17 novembre corrente anno. 
+ 
+ Torino 14 dicembre 1862

@@ -1,16 +1,14 @@
-REGIO DECRETO 31 gennaio 1877 n. 3652
-
-
-REGIO DECRETO 31 gennaio 1877 n. 3652
-=====================================
-
-Col quale il comune di Massa di Somma e' separato dalla sezione elettorale di S. Sebastiano al Vesuvio ed e' costituito in sezione distinta dell'XI collegio di Napoli. (077U3652)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/02/1877
+---
+tipo: REGIO DECRETO
+numero: 3652
+data: 1877-01-31
+titolo: "Col quale il comune di Massa di Somma e' separato dalla sezione elettorale di S. Sebastiano al Vesuvio ed e' costituito in sezione distinta dell'XI collegio di Napoli. (077U3652)"
+urn: urn:nir:stato:regio.decreto:1877-01-31;3652
+codice_redazionale: 077U3652
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Massa di Somma e' separato dalla sezione elettorale di S. Sebastiano al Vesuvio e formera' una sezione distinta dell'XI Collegio di Napoli.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli, addi' 31 gennaio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-Depretis.   
-  
+Il comune di Massa di Somma e' separato dalla sezione elettorale di S. Sebastiano al Vesuvio e formera' una sezione distinta dell'XI Collegio di Napoli. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli, addi' 31 gennaio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Depretis.

@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 12 ottobre 1916 n. 1493
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1493
+data: 1916-10-12
+titolo: "Applicazione di tassa sul bestiame. (016U1493)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-10-12;1493
+codice_redazionale: 016U1493
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 12 ottobre 1916 n. 1493
-===============================================
-
-Applicazione di tassa sul bestiame. (016U1493)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 30/11/1916
-
-Art. 1
-------
-
-  
-N. 1493   
-  
-Decreto Luogotenenziale 12 ottobre 1916, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Finale nell'Emilia (Modena) di applicare per l'anno 1916 la tassa sul bestiame con eccedenza del doppio del limite massimo normale.   
-  
+N. 1493 
+ 
+ Decreto Luogotenenziale 12 ottobre 1916, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Finale nell'Emilia (Modena) di applicare per l'anno 1916 la tassa sul bestiame con eccedenza del doppio del limite massimo normale.

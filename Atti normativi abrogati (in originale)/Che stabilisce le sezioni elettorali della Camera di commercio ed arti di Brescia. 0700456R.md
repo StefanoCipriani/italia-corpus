@@ -1,38 +1,25 @@
-REGIO DECRETO 17 ottobre 1907 n. CCCCLVI
+---
+tipo: REGIO DECRETO
+numero: CCCCLVI
+data: 1907-10-17
+titolo: "Che stabilisce le sezioni elettorali della Camera di commercio ed arti di Brescia. (0700456R)"
+urn: urn:nir:stato:regio.decreto:1907-10-17;456
+codice_redazionale: 0700456R
+vigente: true
+---
 
+## Articolo unico.
 
-REGIO DECRETO 17 ottobre 1907 n. CCCCLVI
-========================================
-
-Che stabilisce le sezioni elettorali della Camera di commercio ed arti di Brescia. (0700456R)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/12/1907
-
-Articolo unico
---------------
-
-  
-  
-Le sezioni elettorali della Camera di commercio ed arti di Brescia sono stabilite dall'unita tabella, vista, d'ordine Nostro, dal ministro proponente.   
-  
-La tabella approvata con [R. decreto 15 ottobre 1875, n. 2758](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-10-15;2758) (serie 2ª), e' abrogata.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 17 ottobre 1907.   
-  
-VITTORIO EMANUELE.   
-  
-COCCO-ORTU.   
-  
-Visto, Il guardasigilli: ORLANDO.   
-  
-
-Elenco
-
-  
-ELENCO delle sezioni elettorali della Camera di commercio di Brescia.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=0700456R00100010110001&dgu=1907-11-21&art.dataPubblicazioneGazzetta=1907-11-21&art.codiceRedazionale=0700456R)
-  
+Le sezioni elettorali della Camera di commercio ed arti di Brescia sono stabilite dall'unita tabella, vista, d'ordine Nostro, dal ministro proponente. 
+ 
+ La tabella approvata con [R. decreto 15 ottobre 1875, n. 2758](Che%20modifica%20la%20circoscrizione%20elettorale%20delle%20camere%20di%20commercio%20ed%20arti%20del%20Regno.%20075U2758.md) (serie 2ª), e' abrogata. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 ottobre 1907. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ COCCO-ORTU. 
+ 
+ Visto, Il guardasigilli: ORLANDO.

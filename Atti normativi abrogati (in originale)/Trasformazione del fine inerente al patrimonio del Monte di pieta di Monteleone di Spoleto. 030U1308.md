@@ -1,19 +1,19 @@
-REGIO DECRETO 08 agosto 1930 n. 1308
+---
+tipo: REGIO DECRETO
+numero: 1308
+data: 1930-08-08
+titolo: "Trasformazione del fine inerente al patrimonio del Monte di pieta' di Monteleone di Spoleto. (030U1308)"
+urn: urn:nir:stato:regio.decreto:1930-08-08;1308
+codice_redazionale: 030U1308
+vigente: true
+---
 
-
-REGIO DECRETO 08 agosto 1930 n. 1308
-====================================
-
-Trasformazione del fine inerente al patrimonio del Monte di pieta' di Monteleone di Spoleto. (030U1308)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/10/1930
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1308. R. decreto 8 agosto 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, il fine inerente al patrimonio del Monte pieta' di Monteleone di Spoleto e' trasformato a favore della locale Congregazione di carita'.   
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 23 settembre 1930 - Anno VIII
+1308.
+
+R. decreto 8 agosto 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, il fine inerente al patrimonio del Monte pieta' di Monteleone di Spoleto e' trasformato a favore della locale Congregazione di carita'. 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 23 settembre 1930 - Anno VIII

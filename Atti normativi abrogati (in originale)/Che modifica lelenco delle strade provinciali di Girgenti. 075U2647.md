@@ -1,16 +1,14 @@
-REGIO DECRETO 29 luglio 1875 n. 2647
-
-
-REGIO DECRETO 29 luglio 1875 n. 2647
-====================================
-
-Che modifica l'elenco delle strade provinciali di Girgenti. (075U2647)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/09/1875
+---
+tipo: REGIO DECRETO
+numero: 2647
+data: 1875-07-29
+titolo: "Che modifica l'elenco delle strade provinciali di Girgenti. (075U2647)"
+urn: urn:nir:stato:regio.decreto:1875-07-29;2647
+codice_redazionale: 075U2647
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -72,48 +70,30 @@ Veduti gli articoli 13 e 44 della legge 20 marzo 1865 sulle opere pubbliche;
 
 Inteso il parere del Consiglio Superiore dei Lavori Pubblici e del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvato il nuovo elenco che segue delle strade provinciali della provincia di Girgenti, in sostituzione di quello approvato con Nostro decreto 16 febbraio 1868: 
+ 
+ Parte di provvedimento in formato grafico
 
-  
-  
-E' approvato il nuovo elenco che segue delle strade provinciali della provincia di Girgenti, in sostituzione di quello approvato con Nostro decreto 16 febbraio 1868:   
-  
-Parte di provvedimento in formato grafico  
+## Art. 2.
 
-Art. 2
-------
+E' riservata per le considerazioni che precedono ogni determinazione circa alla classificazione fra le provinciali della strada da Portella-Misilbesi al confine della provincia di Palermo e circa al ricorso del comune di Menti per la classificazione della strada successiva da Portella-Misilbesi a Porto Palo.
 
-  
-  
-E' riservata per le considerazioni che precedono ogni determinazione circa alla classificazione fra le provinciali della strada da Portella-Misilbesi al confine della provincia di Palermo e circa al ricorso del comune di Menti per la classificazione della strada successiva da Portella-Misilbesi a Porto Palo.   
-  
+## Art. 3.
 
-Art. 3
-------
+E' riservato il diritto del comune di Girgenti di rivendicare il provento dei pedaggi delle strade che da provinciali diventano comunali attorno a Girgenti.
 
-  
-  
-E' riservato il diritto del comune di Girgenti di rivendicare il provento dei pedaggi delle strade che da provinciali diventano comunali attorno a Girgenti.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Sono respinti i ricorsi contro la nuova classificazione dei comuni i cui reclami sono dimostrati non fondati o inattendibili dalle considerazioni che precedono.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, addi' 29 luglio 1875.   
-  
-VITTORIO EMANUELE.   
-  
-S. Spaventa.   
-  
+Sono respinti i ricorsi contro la nuova classificazione dei comuni i cui reclami sono dimostrati non fondati o inattendibili dalle considerazioni che precedono. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, addi' 29 luglio 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ S. Spaventa.

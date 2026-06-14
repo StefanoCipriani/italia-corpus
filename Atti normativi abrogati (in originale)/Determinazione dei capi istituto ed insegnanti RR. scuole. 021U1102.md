@@ -1,17 +1,17 @@
-REGIO DECRETO 16 giugno 1921 n. 1102
+---
+tipo: REGIO DECRETO
+numero: 1102
+data: 1921-06-16
+titolo: "Determinazione dei capi istituto ed insegnanti RR. scuole. (021U1102)"
+urn: urn:nir:stato:regio.decreto:1921-06-16;1102
+codice_redazionale: 021U1102
+vigente: true
+---
 
-
-REGIO DECRETO 16 giugno 1921 n. 1102
-====================================
-
-Determinazione dei capi istituto ed insegnanti RR. scuole. (021U1102)
----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/09/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1102. Regio decreto 16 giugno 1921, col quale, sulla proposta del ministro della istruzione pubblica, viene stabilito, a decorrere dal 1° ottobre 1921, il numero dei capi di Istituto e degli insegnanti delle RR scuole medie e normali e dei corsi magistrali.
+1102.
+
+Regio decreto 16 giugno 1921, col quale, sulla proposta del ministro della istruzione pubblica, viene stabilito, a decorrere dal 1° ottobre 1921, il numero dei capi di Istituto e degli insegnanti delle RR scuole medie e normali e dei corsi magistrali.

@@ -1,16 +1,14 @@
-REGIO DECRETO 02 gennaio 1881 n. 3
-
-
-REGIO DECRETO 02 gennaio 1881 n. 3
-==================================
-
-Che assegna agli impiegati telegrafici incaricati dei magazzini, una indennita' annua (081U0003)
-------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/02/1881
+---
+tipo: REGIO DECRETO
+numero: 3
+data: 1881-01-02
+titolo: "Che assegna agli impiegati telegrafici incaricati dei magazzini, una indennita' annua (081U0003)"
+urn: urn:nir:stato:regio.decreto:1881-01-02;3
+codice_redazionale: 081U0003
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,25 +20,19 @@ Considerando che anche l'incarico di magazziniere dal 1876 in poi e' dato ex-tem
 
 Sentito il consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' assegnata agli impiegati telegrafici incaricati dei magazzini una indennita' annua, la quale avra' per base il valore del materiale esistente in magazzino al 1° dell'anno od all'atto della sua consegna all'incaricato, piu' quello del materiale entrato successivamente, e sara' conteggiata, come quella dei cassieri, in ragione di due per mille sovra le prime lire centomila, e di uno per mille sovra il resto, senza pero' ch'essa possa oltrepassare in verun caso la somma di lire cinquecento.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Date a Roma, addi' 2 gennaio 1881.   
-  
-UMBERTO.   
-  
-A. Baccarini.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
+E' assegnata agli impiegati telegrafici incaricati dei magazzini una indennita' annua, la quale avra' per base il valore del materiale esistente in magazzino al 1° dell'anno od all'atto della sua consegna all'incaricato, piu' quello del materiale entrato successivamente, e sara' conteggiata, come quella dei cassieri, in ragione di due per mille sovra le prime lire centomila, e di uno per mille sovra il resto, senza pero' ch'essa possa oltrepassare in verun caso la somma di lire cinquecento. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Date a Roma, addi' 2 gennaio 1881. 
+ 
+ UMBERTO. 
+ 
+ A. Baccarini. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

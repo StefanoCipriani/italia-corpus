@@ -1,16 +1,14 @@
-REGIO DECRETO 23 luglio 1894 n. 334
-
-
-REGIO DECRETO 23 luglio 1894 n. 334
-===================================
-
-Che chiude l'attuale sessione legislativa del Senato del Regno e della Camera dei deputati. (094U0334)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/08/1894
+---
+tipo: REGIO DECRETO
+numero: 334
+data: 1894-07-23
+titolo: "Che chiude l'attuale sessione legislativa del Senato del Regno e della Camera dei deputati. (094U0334)"
+urn: urn:nir:stato:regio.decreto:1894-07-23;334
+codice_redazionale: 094U0334
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Visto l'articolo 9 dello Statuto fondamentale del Regno;
 
 Sulla proposta del Presidente del Consiglio, Ministro Segretario di Stato per gli affari dello Interno;
 
-Udito
------
+Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'attuale sessione legislativa del Senato del Regno e della Camera dei deputati e' chiusa.   
-  
-Con altro Nostro decreto sara' stabilito il giorno della riconvocazione del Parlamento.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 luglio 1894.   
-  
-UMBERTO.   
-  
-Crispi.   
-  
-Visto, Il Guardasigilli: V. Calenda di Tavani.   
-  
+L'attuale sessione legislativa del Senato del Regno e della Camera dei deputati e' chiusa. 
+ 
+ Con altro Nostro decreto sara' stabilito il giorno della riconvocazione del Parlamento. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 luglio 1894. 
+ 
+ UMBERTO. 
+ 
+ Crispi. 
+ 
+ Visto, Il Guardasigilli: V. Calenda di Tavani.

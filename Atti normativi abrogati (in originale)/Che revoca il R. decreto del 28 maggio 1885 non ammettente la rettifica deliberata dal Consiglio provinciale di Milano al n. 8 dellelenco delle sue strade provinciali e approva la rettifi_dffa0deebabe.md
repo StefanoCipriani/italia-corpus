@@ -1,16 +1,14 @@
-REGIO DECRETO 10 luglio 1887 n. 4950
-
-
-REGIO DECRETO 10 luglio 1887 n. 4950
-====================================
-
-Che revoca il R. decreto del 28 maggio 1885 non ammettente la rettifica deliberata dal Consiglio provinciale di Milano al n. 8 dell'elenco delle sue strade provinciali e approva la rettificazione del suddetto. (087U4950)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/10/1887
+---
+tipo: REGIO DECRETO
+numero: 4950
+data: 1887-07-10
+titolo: "Che revoca il R. decreto del 28 maggio 1885 non ammettente la rettifica deliberata dal Consiglio provinciale di Milano al n. 8 dell'elenco delle sue strade provinciali e approva la rettificazione del suddetto. (087U4950)"
+urn: urn:nir:stato:regio.decreto:1887-07-10;4950
+codice_redazionale: 087U4950
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -38,33 +36,22 @@ Vista la legge 20 marzo 1865 sui Lavori Pubblici, allegati D ed F;
 
 Udito l'avviso del Consiglio Superiore dei Lavori Pubblici e del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' revocato il Nostro decreto del 28 maggio 1885 che non ammise la rettificazione deliberata dal Consiglio provinciale di Milano al n. 8 dell'elenco delle sue strade provinciali.
 
-  
-  
-E' revocato il Nostro decreto del 28 maggio 1885 che non ammise la rettificazione deliberata dal Consiglio provinciale di Milano al n. 8 dell'elenco delle sue strade provinciali.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' approvata la rettificazione predetta, per la quale e' stabilito che la strada provinciale dalle Fornaci al confine Bergamasco avra' termine alla meta' del ponte sull'Adda fra Vaprio e Canonica.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 10 luglio 1887.   
-  
-UMBERTO.   
-  
-Saracco.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+E' approvata la rettificazione predetta, per la quale e' stabilito che la strada provinciale dalle Fornaci al confine Bergamasco avra' termine alla meta' del ponte sull'Adda fra Vaprio e Canonica. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 luglio 1887. 
+ 
+ UMBERTO. 
+ 
+ Saracco. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

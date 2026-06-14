@@ -1,19 +1,15 @@
-REGIO DECRETO 30 dicembre 1906 n. DXIII
+---
+tipo: REGIO DECRETO
+numero: DXIII
+data: 1906-12-30
+titolo: "Erezione in ente morale. (0600513R)"
+urn: urn:nir:stato:regio.decreto:1906-12-30;513
+codice_redazionale: 0600513R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 dicembre 1906 n. DXIII
-=======================================
-
-Erezione in ente morale. (0600513R)
------------------------------------
-
-Entrata in vigore del provvedimento: 23/03/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. DXIII (Dato a Roma, il 30 dicembre 1906), col quale il legato elemosiniero «Fiesco Lavagnino» esistente nel comune di Pontremoli (Massa Carrara), e' stato eretto in ente morale e contemporaneamente concentrato nella Congregazione di carita' del luogo.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. DXIII (Dato a Roma, il 30 dicembre 1906), col quale il legato elemosiniero «Fiesco Lavagnino» esistente nel comune di Pontremoli (Massa Carrara), e' stato eretto in ente morale e contemporaneamente concentrato nella Congregazione di carita' del luogo.

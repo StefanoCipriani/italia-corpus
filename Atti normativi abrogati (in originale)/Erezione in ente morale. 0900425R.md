@@ -1,19 +1,15 @@
-REGIO DECRETO 11 novembre 1909 n. CCCCXXV
+---
+tipo: REGIO DECRETO
+numero: CCCCXXV
+data: 1909-11-11
+titolo: "Erezione in ente morale. (0900425R)"
+urn: urn:nir:stato:regio.decreto:1909-11-11;425
+codice_redazionale: 0900425R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 novembre 1909 n. CCCCXXV
-=========================================
-
-Erezione in ente morale. (0900425R)
------------------------------------
-
-Entrata in vigore del provvedimento: 21/12/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCCXXV (Dato a San Rossore, l'11 novembre 1909), col quale l'orfanotrofio «Ricciarelli» in Volterra e' eretto in ente morale ed e' approvato lo statuto organico relativo.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCCXXV (Dato a San Rossore, l'11 novembre 1909), col quale l'orfanotrofio «Ricciarelli» in Volterra e' eretto in ente morale ed e' approvato lo statuto organico relativo.

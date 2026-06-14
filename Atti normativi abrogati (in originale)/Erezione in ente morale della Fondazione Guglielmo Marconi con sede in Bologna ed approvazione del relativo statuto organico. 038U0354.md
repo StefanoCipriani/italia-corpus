@@ -1,21 +1,21 @@
-REGIO DECRETO 11 aprile 1938 n. 354
+---
+tipo: REGIO DECRETO
+numero: 354
+data: 1938-04-11
+titolo: "Erezione in ente morale della Fondazione «Guglielmo Marconi», con sede in Bologna, ed approvazione del relativo statuto organico. (038U0354)"
+urn: urn:nir:stato:regio.decreto:1938-04-11;354
+codice_redazionale: 038U0354
+vigente: true
+---
 
-
-REGIO DECRETO 11 aprile 1938 n. 354
-===================================
-
-Erezione in ente morale della Fondazione «Guglielmo Marconi», con sede in Bologna, ed approvazione del relativo statuto organico. (038U0354)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/05/1938
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-354. R. decreto 11 aprile 1938, col quale, sulla proposta del Duce, la Fondazione «Guglielmo Marconi», con sede in Bologna, viene eretta in ente morale e ne viene approvato il relativo statuto organico.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 22 aprile 1938 - Anno XVI
+354.
+
+R. decreto 11 aprile 1938, col quale, sulla proposta del Duce, la Fondazione «Guglielmo Marconi», con sede in Bologna, viene eretta in ente morale e ne viene approvato il relativo statuto organico. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 22 aprile 1938 - Anno XVI

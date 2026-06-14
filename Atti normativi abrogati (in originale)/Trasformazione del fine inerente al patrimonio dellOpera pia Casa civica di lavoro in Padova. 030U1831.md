@@ -1,21 +1,21 @@
-REGIO DECRETO 17 ottobre 1930 n. 1831
+---
+tipo: REGIO DECRETO
+numero: 1831
+data: 1930-10-17
+titolo: "Trasformazione del fine inerente al patrimonio dell'Opera pia «Casa civica di lavoro», in Padova. (030U1831)"
+urn: urn:nir:stato:regio.decreto:1930-10-17;1831
+codice_redazionale: 030U1831
+vigente: true
+---
 
-
-REGIO DECRETO 17 ottobre 1930 n. 1831
-=====================================
-
-Trasformazione del fine inerente al patrimonio dell'Opera pia «Casa civica di lavoro», in Padova. (030U1831)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/02/1931
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1831. R. decreto 17 ottobre 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, il fine inerente al patrimonio dell'Opera pia «Casa civica di lavoro», in Padova, e' trasformato a favore dell'Opera pia «Istituto Rossi Camerini», con sede nel Comune medesimo.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 22 gennaio 1931 - Anno IX
+1831.
+
+R. decreto 17 ottobre 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, il fine inerente al patrimonio dell'Opera pia «Casa civica di lavoro», in Padova, e' trasformato a favore dell'Opera pia «Istituto Rossi Camerini», con sede nel Comune medesimo. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 22 gennaio 1931 - Anno IX

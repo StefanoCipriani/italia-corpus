@@ -1,17 +1,17 @@
-REGIO DECRETO 25 luglio 1920 n. 1195
+---
+tipo: REGIO DECRETO
+numero: 1195
+data: 1920-07-25
+titolo: "Erezione in Ente morale. (020U1195)"
+urn: urn:nir:stato:regio.decreto:1920-07-25;1195
+codice_redazionale: 020U1195
+vigente: true
+---
 
-
-REGIO DECRETO 25 luglio 1920 n. 1195
-====================================
-
-Erezione in Ente morale. (020U1195)
------------------------------------
-
-Entrata in vigore del provvedimento: 24/09/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1195. Regio decreto 25 luglio 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'asilo infantile «Marchesa Fanny Stanga», con sede nella frazione Vergo del comune di Besana Brianza, e' eretto in ente morale, e ne e' approvato lo statuto organico relativo.
+1195.
+
+Regio decreto 25 luglio 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'asilo infantile «Marchesa Fanny Stanga», con sede nella frazione Vergo del comune di Besana Brianza, e' eretto in ente morale, e ne e' approvato lo statuto organico relativo.

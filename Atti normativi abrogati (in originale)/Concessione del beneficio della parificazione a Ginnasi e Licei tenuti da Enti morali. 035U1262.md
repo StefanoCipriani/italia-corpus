@@ -1,17 +1,14 @@
-REGIO DECRETO 20 giugno 1935 n. 1262
-
-
-REGIO DECRETO 20 giugno 1935 n. 1262
-====================================
-
-Concessione del beneficio della parificazione a Ginnasi e Licei tenuti da Enti morali. (035U1262)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/08/1935.  
-Il presente provvedimento cessa di avere vigore il 01/01/1936.
+---
+tipo: REGIO DECRETO
+numero: 1262
+data: 1935-06-20
+titolo: "Concessione del beneficio della parificazione a Ginnasi e Licei tenuti da Enti morali. (035U1262)"
+urn: urn:nir:stato:regio.decreto:1935-06-20;1262
+codice_redazionale: 035U1262
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -27,34 +24,25 @@ Sentito il parere del Consiglio di Stato;
 
 Udito il Consiglio dei Ministri:
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Le disposizioni del R. decreto 25 aprile 1929-VII, n. 647, riguardanti la concessione del beneficio del valore legale degli studi e degli esami ad Istituti privati di istruzione media sono rimesse in vigore limitatamente agli alunni che frequentino Ginnasi o Licei classici mantenuti da Provincie, Comuni, Opere ed Associazioni.
 
-  
-  
-Le disposizioni del R. decreto 25 aprile 1929-VII, n. 647, riguardanti la concessione del beneficio del valore legale degli studi e degli esami ad Istituti privati di istruzione media sono rimesse in vigore limitatamente agli alunni che frequentino Ginnasi o Licei classici mantenuti da Provincie, Comuni, Opere ed Associazioni.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto cessera' di aver vigore il 1° gennaio 1936-XIV.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 20 giugno 1935 - Anno XIII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel - De Vecchi di Val Cismon   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 13 luglio 1935 - Anno XIII   
-Atti del Governo, registro 362, foglio 65. - Mancini.   
+Il presente decreto cessera' di aver vigore il 1° gennaio 1936-XIV. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 20 giugno 1935 - Anno XIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel - De Vecchi di Val Cismon 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 13 luglio 1935 - Anno XIII  
+ Atti del Governo, registro 362, foglio 65. - Mancini.

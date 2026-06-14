@@ -1,23 +1,19 @@
-REGIO DECRETO 25 dicembre 1898 n. CCCCXVIII
+---
+tipo: REGIO DECRETO
+numero: CCCCXVIII
+data: 1898-12-25
+titolo: "Che trasforma il monte frumentario di Pietrastornina in una cassa di prestanze agrarie. (9800418R)"
+urn: urn:nir:stato:regio.decreto:1898-12-25;418
+codice_redazionale: 9800418R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 dicembre 1898 n. CCCCXVIII
-===========================================
-
-Che trasforma il monte frumentario di Pietrastornina in una cassa di prestanze agrarie. (9800418R)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/02/1899
-
-Art. 1
-------
-
-  
-Che trasforma il monte frumentario di Pietrastornina (Avellino) in cassa di prestanze agrarie, concentra la cassa stessa nella congregazione di carita' del luogo, e ne approva lo statuto organico.  
-- Firmato UMBERTO - Controfirmati Pelloux, A. Fortis - Visto C.  
-Finocchiaro Aprile.   
-  
-Registrato alla Corte dei Conti addi' 21 gennaio 1899.   
-  
-Reg. 218. Atti del Governo a f. 98.   
-  
+Che trasforma il monte frumentario di Pietrastornina (Avellino) in cassa di prestanze agrarie, concentra la cassa stessa nella congregazione di carita' del luogo, e ne approva lo statuto organico.
+- Firmato UMBERTO - Controfirmati Pelloux, A. Fortis - Visto C.
+Finocchiaro Aprile. 
+ 
+ Registrato alla Corte dei Conti addi' 21 gennaio 1899. 
+ 
+ Reg. 218. Atti del Governo a f. 98.

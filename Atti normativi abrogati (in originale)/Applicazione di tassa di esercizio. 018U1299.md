@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 11 agosto 1918 n. 1299
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1299
+data: 1918-08-11
+titolo: "Applicazione di tassa di esercizio. (018U1299)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-08-11;1299
+codice_redazionale: 018U1299
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 11 agosto 1918 n. 1299
-==============================================
-
-Applicazione di tassa di esercizio. (018U1299)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 13/10/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1299. Decreto Luogotenenziale 11 agosto 1918, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Sarezzo (Brescia) di applicare dal 1° gennaio 1916 al 31 dicembre dell'anno in cui cessera' la guerra, la tassa di esercizio col limite massimo di L. 1500.
+1299.
+
+Decreto Luogotenenziale 11 agosto 1918, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Sarezzo (Brescia) di applicare dal 1° gennaio 1916 al 31 dicembre dell'anno in cui cessera' la guerra, la tassa di esercizio col limite massimo di L. 1500.

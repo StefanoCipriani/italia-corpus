@@ -1,16 +1,14 @@
-REGIO DECRETO 12 agosto 1878 n. 4489
-
-
-REGIO DECRETO 12 agosto 1878 n. 4489
-====================================
-
-Interpretativo della facolta' gia' concessa al comune di Viguzzolo (Alessandria) di praticare una derivazione d'acqua dalla Roggia Volpedo. (078U4489)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/09/1878
+---
+tipo: REGIO DECRETO
+numero: 4489
+data: 1878-08-12
+titolo: "Interpretativo della facolta' gia' concessa al comune di Viguzzolo (Alessandria) di praticare una derivazione d'acqua dalla Roggia Volpedo. (078U4489)"
+urn: urn:nir:stato:regio.decreto:1878-08-12;4489
+codice_redazionale: 078U4489
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,23 +20,16 @@ Visto che il detto comune di Viguzzolo con sua istanza, espresso il timore di un
 
 Udito il parere del Consiglio di Stato,
 
-Sulla
------
+Sulla proposta del Ministro del Tesoro, Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Ministro del Tesoro, Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La facolta' che, senza pregiudizio dei legittimi diritti dei terzi, venne fatta al comune di Viguzzolo col Reale decreto 21 giugno 1876, verso il pagamento dell'annuo canone di lire 159, s'intende estesa all'uso di tutte le acque derivanti dalle opere contemplate nel progetto Bruno 25 novembre 1865, comprese quelle latenti e provenienti dalla costruenda botte sotterranea, si' e come esplicitamente risulta dai relativi atti di sottomissione in quel decreto enunciati.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Venezia, addi' 12 agosto 1878.   
-  
-UMBERTO.   
-  
-F. Seismit-Doda.   
-  
+La facolta' che, senza pregiudizio dei legittimi diritti dei terzi, venne fatta al comune di Viguzzolo col Reale decreto 21 giugno 1876, verso il pagamento dell'annuo canone di lire 159, s'intende estesa all'uso di tutte le acque derivanti dalle opere contemplate nel progetto Bruno 25 novembre 1865, comprese quelle latenti e provenienti dalla costruenda botte sotterranea, si' e come esplicitamente risulta dai relativi atti di sottomissione in quel decreto enunciati. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Venezia, addi' 12 agosto 1878. 
+ 
+ UMBERTO. 
+ 
+ F. Seismit-Doda.

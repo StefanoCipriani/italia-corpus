@@ -1,182 +1,105 @@
-LEGGE 21 agosto 1862 n. 793
+---
+tipo: LEGGE
+numero: 793
+data: 1862-08-21
+titolo: "Che autorizza il Governo ad alienare i beni demaniali che non sono destinati ad uso pubblico o richiesti pel pubblico servizio. (062U0793)"
+urn: urn:nir:stato:legge:1862-08-21;793
+codice_redazionale: 062U0793
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 21 agosto 1862 n. 793
-===========================
+Il Governo del Re e' autorizzato ad alienare i beni rurali ed urbani posseduti dallo Stato che non sono destinati ad uso pubblico o richiesti dal pubblico servizio.
 
-Che autorizza il Governo ad alienare i beni demaniali che non sono destinati ad uso pubblico o richiesti pel pubblico servizio. (062U0793)
-------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 20/09/1862
+Il valore dei beni sara' desunto da regolari registri, catasti e contratti, ed in caso di mancanza o d'insufficienza di tali elementi, da perizie sommarie, colle norme che saranno prescritte dal regolamento.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Il Governo del Re e' autorizzato ad alienare i beni rurali ed urbani posseduti dallo Stato che non sono destinati ad uso pubblico o richiesti dal pubblico servizio.   
-  
+I beni saranno divisi in piccoli lotti per quanto sia compatibile cogli interessi economici, colle condizioni agrarie e colle circostanze locali.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-Il valore dei beni sara' desunto da regolari registri, catasti e contratti, ed in caso di mancanza o d'insufficienza di tali elementi, da perizie sommarie, colle norme che saranno prescritte dal regolamento.   
-  
+Le vendite si faranno con pubblico incanto, che sara' aperto sul valore estimativo. Rimanendo deserta la prima prova, ne sara' tentata una seconda coll'intervallo non minore di un mese. Qualora anche questa non abbia effetto, si potra' procedere alla vendita per trattative private. L'aggiudicazione avvenuta al maggior offerente nel primo o nel secondo incanto sara' definitiva.
 
-Art. 3
-------
+## Art. 5.
 
-  
-  
-I beni saranno divisi in piccoli lotti per quanto sia compatibile cogli interessi economici, colle condizioni agrarie e colle circostanze locali.   
-  
+L'incanto si fara' nel capoluogo della Provincia, se il valore dei beni superi la somma di diecimila lire, e nel capoluogo del Circondario o del Mandamento se il valore non ecceda quella somma.
 
-Art. 4
-------
+## Art. 6.
 
-  
-  
-Le vendite si faranno con pubblico incanto, che sara' aperto sul valore estimativo. Rimanendo deserta la prima prova, ne sara' tentata una seconda coll'intervallo non minore di un mese. Qualora anche questa non abbia effetto, si potra' procedere alla vendita per trattative private. L'aggiudicazione avvenuta al maggior offerente nel primo o nel secondo incanto sara' definitiva.   
-  
+Nessuno potra' essere ammesso agl' incanti senza un deposito in denaro od in titoli di credito per una somma corrispondente al decimo del valore estimativo.
 
-Art. 5
-------
+## Art. 7.
 
-  
-  
-L'incanto si fara' nel capoluogo della Provincia, se il valore dei beni superi la somma di diecimila lire, e nel capoluogo del Circondario o del Mandamento se il valore non ecceda quella somma.   
-  
+In ogni Provincia, nella quale si trovino beni da alienare, sara' istituita una Commissione gratuita composta del Prefetto, presidente, di due delegati dal Ministro delle finanze, e di altri due eletti dal Consiglio provinciale anche fuori del suo seno.
 
-Art. 6
-------
+## Art. 8.
 
-  
-  
-Nessuno potra' essere ammesso agl' incanti senza un deposito in denaro od in titoli di credito per una somma corrispondente al decimo del valore estimativo.   
-  
+La Commissione sara' sempre udita per la compilazione degli elenchi e delle stime, per la divisione dei beni in lotti, e per la opportunita' del tempo degl'incanti e delle trattative private. 
+ 
+ Essa da' inoltre il suo parere intorno a quelle quistioni sulle quali fosse richiesta, o che credesse utile di proporre.
 
-Art. 7
-------
+## Art. 9.
 
-  
-  
-In ogni Provincia, nella quale si trovino beni da alienare, sara' istituita una Commissione gratuita composta del Prefetto, presidente, di due delegati dal Ministro delle finanze, e di altri due eletti dal Consiglio provinciale anche fuori del suo seno.   
-  
+Il prezzo dello stabile sara' pagato in cinque rate uguali se il valore estimativo superi la somma di diecimila lire, ed in dieci rate se non ecceda quella somma. 
+ 
+ Nell'atto della stipulazione si paghera' la prima rata del prezzo dello stabile, e l'intiero importare dei relativi accessori. 
+ 
+ L'aumento che si verifichera' negl' incanti s'intendera' ripartito proporzionatamente al valore del fondo ed a quello dei suoi accessori. 
+ 
+ Il pagamento delle altre rate si fara' anticipatamente di anno in anno e coi frutti scalari alla ragione del 5 per 100.
 
-Art. 8
-------
+## Art. 10.
 
-  
-  
-La Commissione sara' sempre udita per la compilazione degli elenchi e delle stime, per la divisione dei beni in lotti, e per la opportunita' del tempo degl'incanti e delle trattative private.   
-  
-Essa da' inoltre il suo parere intorno a quelle quistioni sulle quali fosse richiesta, o che credesse utile di proporre.   
-  
+I boschi d'alto fusto potranno essere tagliati soltanto dopo che l'aggiudicatario ne avra' pagato l'intiero prezzo o data sufficiente garanzia, uniformandosi in ogni caso alle disposizioni delle leggi forestali.
 
-Art. 9
-------
+## Art. 11.
 
-  
-  
-Il prezzo dello stabile sara' pagato in cinque rate uguali se il valore estimativo superi la somma di diecimila lire, ed in dieci rate se non ecceda quella somma.   
-  
-Nell'atto della stipulazione si paghera' la prima rata del prezzo dello stabile, e l'intiero importare dei relativi accessori.   
-  
-L'aumento che si verifichera' negl' incanti s'intendera' ripartito proporzionatamente al valore del fondo ed a quello dei suoi accessori.   
-  
-Il pagamento delle altre rate si fara' anticipatamente di anno in anno e coi frutti scalari alla ragione del 5 per 100.   
-  
+Sara' dato l'abbuono del 7 per 100 sulle rate che si anticipano a saldo del prezzo nell'atto della stipulazione, e l'abbuono del 3 per cento a chi anticipasse le rate successive entro due anni dal giorno della stipulazione se il valore estimativo dei beni superi la somma di diecimila lire, e dentro cinque anni se il valore non ecceda quella somma.
 
-Art. 10
--------
+## Art. 12.
 
-  
-  
-I boschi d'alto fusto potranno essere tagliati soltanto dopo che l'aggiudicatario ne avra' pagato l'intiero prezzo o data sufficiente garanzia, uniformandosi in ogni caso alle disposizioni delle leggi forestali.   
-  
+Ritardandosi di tre mesi il pagamento di una rata qualunque, il Governo procedera' a nuovi incanti del fondo a rischio e spese dell'aggiudicatario, il quale sara' tenuto alla refusione dei danni, e perdera' la prima rata del prezzo.
 
-Art. 11
--------
+## Art. 13.
 
-  
-  
-Sara' dato l'abbuono del 7 per 100 sulle rate che si anticipano a saldo del prezzo nell'atto della stipulazione, e l'abbuono del 3 per cento a chi anticipasse le rate successive entro due anni dal giorno della stipulazione se il valore estimativo dei beni superi la somma di diecimila lire, e dentro cinque anni se il valore non ecceda quella somma.   
-  
+Per l'alienazione dei beni e per gli effetti tutti della presente legge viene derogato alla facolta' del riscatto che, giusta le vigenti leggi, possa competere al Demanio dello Stato.
 
-Art. 12
--------
+## Art. 14.
 
-  
-  
-Ritardandosi di tre mesi il pagamento di una rata qualunque, il Governo procedera' a nuovi incanti del fondo a rischio e spese dell'aggiudicatario, il quale sara' tenuto alla refusione dei danni, e perdera' la prima rata del prezzo.   
-  
+L'approvazione dei contratti si fara' con Decreto del Ministro delle finanze o dei suoi delegati. 
+ 
+ Se il valore del contratto eccede la somma di venticinquemila lire, all'approvazione suddetta dovra' precedere il parere del Consiglio di Stato.
 
-Art. 13
--------
+## Art. 15.
 
-  
-  
-Per l'alienazione dei beni e per gli effetti tutti della presente legge viene derogato alla facolta' del riscatto che, giusta le vigenti leggi, possa competere al Demanio dello Stato.   
-  
+Gli atti relativi agl' incanti, alle vendite ed alle formalita' richieste negli Uffizi del censo e delle ipoteche rimarranno esenti da qualunque tassa proporzionale, e saranno sottoposti al solo dritto fisso di una lira italiana. Il pagamento di questo dritto e delle spese dell'aggiudicazione o del contratto sara' a carico del compratore.
 
-Art. 14
--------
+## Art. 16.
 
-  
-  
-L'approvazione dei contratti si fara' con Decreto del Ministro delle finanze o dei suoi delegati.   
-  
-Se il valore del contratto eccede la somma di venticinquemila lire, all'approvazione suddetta dovra' precedere il parere del Consiglio di Stato.   
-  
+In pendenza delle operazioni di vendita, la facolta' data al Ministro delle finanze colla legge del 30 giugno 1862 di emettere buoni del Tesoro, e' estesa fino alla concorrenza di altri cento milioni.
 
-Art. 15
--------
+## Art. 17.
 
-  
-  
-Gli atti relativi agl' incanti, alle vendite ed alle formalita' richieste negli Uffizi del censo e delle ipoteche rimarranno esenti da qualunque tassa proporzionale, e saranno sottoposti al solo dritto fisso di una lira italiana. Il pagamento di questo dritto e delle spese dell'aggiudicazione o del contratto sara' a carico del compratore.   
-  
+Con regolamento sancito per Decreto Reale si provvedera' alla esecuzione della presente legge.
 
-Art. 16
--------
+## Art. 18.
 
-  
-  
-In pendenza delle operazioni di vendita, la facolta' data al Ministro delle finanze colla legge del 30 giugno 1862 di emettere buoni del Tesoro, e' estesa fino alla concorrenza di altri cento milioni.   
-  
+Sara' disposto con leggi speciali del Tavoliere di Puglia, della Sila di Calabria e delle Maremme.
 
-Art. 17
--------
+## Art. 19.
 
-  
-  
-Con regolamento sancito per Decreto Reale si provvedera' alla esecuzione della presente legge.   
-  
-
-Art. 18
--------
-
-  
-  
-Sara' disposto con leggi speciali del Tavoliere di Puglia, della Sila di Calabria e delle Maremme.   
-  
-
-Art. 19
--------
-
-  
-  
-E' derogato a tutte le leggi anteriori per cio' che potesse essere contrario alle disposizioni della presente.   
-  
-Ordiniamo che la presente, munita del Sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Dat. a Torino addi' 21 agosto 1862.   
-  
-VITTORIO EMANUELE   
-  
-Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
-  
-Quintino Sella.   
-  
+E' derogato a tutte le leggi anteriori per cio' che potesse essere contrario alle disposizioni della presente. 
+ 
+ Ordiniamo che la presente, munita del Sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Dat. a Torino addi' 21 agosto 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ Quintino Sella.

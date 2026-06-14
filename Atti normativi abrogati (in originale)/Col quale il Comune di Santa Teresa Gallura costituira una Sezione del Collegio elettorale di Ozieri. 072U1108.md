@@ -1,16 +1,14 @@
-REGIO DECRETO 25 novembre 1872 n. 1108
-
-
-REGIO DECRETO 25 novembre 1872 n. 1108
-======================================
-
-Col quale il Comune di Santa Teresa Gallura costituira' una Sezione del Collegio elettorale di Ozieri. (072U1108)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/12/1872
+---
+tipo: REGIO DECRETO
+numero: 1108
+data: 1872-11-25
+titolo: "Col quale il Comune di Santa Teresa Gallura costituira' una Sezione del Collegio elettorale di Ozieri. (072U1108)"
+urn: urn:nir:stato:regio.decreto:1872-11-25;1108
+codice_redazionale: 072U1108
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,24 +24,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Santa Teresa Gallura costituira' d'ora in poi una sezione del collegio elettorale di Ozieri, n. 368, con sede nel capoluogo del comune stesso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 novembre 1872.   
-  
-VITTORIO EMANUELE.   
-  
-G. Lanza.   
-  
-  
+Il comune di Santa Teresa Gallura costituira' d'ora in poi una sezione del collegio elettorale di Ozieri, n. 368, con sede nel capoluogo del comune stesso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 novembre 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Lanza.

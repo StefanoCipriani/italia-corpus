@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 18 maggio 1916 n. 659
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 659
+data: 1916-05-18
+titolo: "Approvazione di statuto. (016U0659)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-05-18;659
+codice_redazionale: 016U0659
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 18 maggio 1916 n. 659
-=============================================
-
-Approvazione di statuto. (016U0659)
------------------------------------
-
-Entrata in vigore del provvedimento: 21/06/1916
-
-Art. 1
-------
-
-  
-N. 659   
-  
-Decreto Luogotenenziale 18 maggio 1916, col quale, sulla proposta del ministro di agricoltura, industria e commercio, sono approvate alcune modificazioni allo statuto della Cassa di risparmio di San Clemente.   
-  
+N. 659 
+ 
+ Decreto Luogotenenziale 18 maggio 1916, col quale, sulla proposta del ministro di agricoltura, industria e commercio, sono approvate alcune modificazioni allo statuto della Cassa di risparmio di San Clemente.

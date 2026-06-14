@@ -1,22 +1,18 @@
-REGIO DECRETO 08 dicembre 1901 n. CCCLX
+---
+tipo: REGIO DECRETO
+numero: CCCLX
+data: 1901-12-08
+titolo: "Con cui il museo nazionale del Risorgimento italiano, in Torino, e' eretto in ente morale ed e' approvato il relativo statuto organico. (0100360R)"
+urn: urn:nir:stato:regio.decreto:1901-12-08;360
+codice_redazionale: 0100360R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 dicembre 1901 n. CCCLX
-=======================================
-
-Con cui il museo nazionale del Risorgimento italiano, in Torino, e' eretto in ente morale ed e' approvato il relativo statuto organico. (0100360R)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/03/1902
-
-Art. 1
-------
-
-  
-Con cui il museo nazionale del Risorgimento italiano, in Torino, e' eretto in ente morale ed e' approvato il relativo statuto organico. - Firmato VITTORIO EMANUELE -Controfirmato Giolitti - Visto F.  
-Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 19 dicembre 1901.   
-  
-Reg. 231. Atti del Governo a f. 201.   
-  
+Con cui il museo nazionale del Risorgimento italiano, in Torino, e' eretto in ente morale ed e' approvato il relativo statuto organico. - Firmato VITTORIO EMANUELE -Controfirmato Giolitti - Visto F.
+Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 19 dicembre 1901. 
+ 
+ Reg. 231. Atti del Governo a f. 201.

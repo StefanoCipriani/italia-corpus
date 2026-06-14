@@ -1,16 +1,14 @@
-REGIO DECRETO 02 settembre 1900 n. 333
-
-
-REGIO DECRETO 02 settembre 1900 n. 333
-======================================
-
-Col quale viene istituito un secondo posto di notaro nel Comune di Roccamonfina, distretto notarile di Cassino. (000U0333)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/10/1900
+---
+tipo: REGIO DECRETO
+numero: 333
+data: 1900-09-02
+titolo: "Col quale viene istituito un secondo posto di notaro nel Comune di Roccamonfina, distretto notarile di Cassino. (000U0333)"
+urn: urn:nir:stato:regio.decreto:1900-09-02;333
+codice_redazionale: 000U0333
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Visto l'articolo 4, alinea, della legge notarile, 25 maggio 1879, n. 4900, e la 
 
 Ritenuta dimostrata la necessita' della chiesta istituzione;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un secondo posto di notaro nel Comune di Roccamonfina, distretto notarile di Cassino.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Capodimonte (Napoli), addi' 2 settembre 1900.   
-  
-VITTORIO EMANUELE.   
-  
-Gianturco.   
-  
-Visto, Il Guardasigilli: Gianturco.   
-  
+E' istituito un secondo posto di notaro nel Comune di Roccamonfina, distretto notarile di Cassino. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Capodimonte (Napoli), addi' 2 settembre 1900. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Gianturco. 
+ 
+ Visto, Il Guardasigilli: Gianturco.

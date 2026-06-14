@@ -1,27 +1,24 @@
-REGIO DECRETO-LEGGE 07 aprile 1921 n. 641
-
-
-REGIO DECRETO-LEGGE 07 aprile 1921 n. 641
-=========================================
-
-Che abbrevia il corso di istruzione pei vincitori del concorso bandito con decreto Ministeriale 25 ottobre 1919, per sottispettore aggiunto nel corpo Reale delle foreste. (021U0641)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/06/1921  
-Regio Decreto-Legge convertito dalla [L. 9 aprile 1922, n. 516](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1922-04-09;516) (in G.U. 28/04/1922, n. 100).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 641
+data: 1921-04-07
+titolo: "Che abbrevia il corso di istruzione pei vincitori del concorso bandito con decreto Ministeriale 25 ottobre 1919, per sottispettore aggiunto nel corpo Reale delle foreste. (021U0641)"
+urn: urn:nir:stato:regio.decreto.legge:1921-04-07;641
+codice_redazionale: 021U0641
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 14 luglio 1912, n. 834](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-14;834), per l'istruzione forestale;
+Vista la [legge 14 luglio 1912, n. 834](Concernente%20provvedimenti%20per%20listruzione%20forestale%20012U0834.md), per l'istruzione forestale;
 
-Visto il regolamento approvato con [R. decreto 6 febbraio 1913, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-02-06;212), per l'applicazione dei titoli I e IV della legge suddetta;
+Visto il regolamento approvato con [R. decreto 6 febbraio 1913, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-02-06;212), per l'applicazione dei titoli I e IV della legge suddetta;
 
-Visto il [R. decreto 7 giugno 1920, n. 922](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-07;922), che estende i ruoli aperti al personale tecnico forestale;
+Visto il [R. decreto 7 giugno 1920, n. 922](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-07;922), che estende i ruoli aperti al personale tecnico forestale;
 
 Visto il decreto Ministeriale 25 ottobre 1919, registrato alla Corte dei conti il 14 novembre successivo con cui fu bandito un concorso per 20 posti di sottispettore aggiunto nel corpo Reale delle foreste;
 
@@ -31,43 +28,26 @@ Ritenuta l'opportunita' di abbreviare la durata del corso d'istruzione anzidetto
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, di concerto con i ministri per la istruzione pubblica e per il tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per l'agricoltura, di concerto con i ministri per la istruzione pubblica e per il tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il corso d'istruzione biennale dei vincitori del concorso bandito con decreto Ministeriale 25 ottobre 1919 per sottispettore aggiunto nel corpo Reale delle foreste, avra' la durata di quattordici mesi.
 
-  
-  
-  
-Il corso d'istruzione biennale dei vincitori del concorso bandito con decreto Ministeriale 25 ottobre 1919 per sottispettore aggiunto nel corpo Reale delle foreste, avra' la durata di quattordici mesi.   
+## Art. 2.
 
-Art. 2
-------
+I sottispettori aggiunti che conseguiranno l'idoneita' in tutte le materie d'insegnamento e nell'esame generale saranno confermati definitivamente nei ruoli, quelli che non ottengano l'approvazione cesseranno di far parte del corpo Reale delle foreste.
 
-  
-  
-  
-I sottispettori aggiunti che conseguiranno l'idoneita' in tutte le materie d'insegnamento e nell'esame generale saranno confermati definitivamente nei ruoli, quelli che non ottengano l'approvazione cesseranno di far parte del corpo Reale delle foreste.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-  
-Il ministro del tesoro e' autorizzato a introdurre nello stato di previsione della spesa del Ministero di agricoltura le variazioni necessarie per l'applicazione del presente decreto, che sara' presentato al Parlamento per la sua conversione in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 aprile 1921.   
-  
-VITTORIO EMANUELE.   
-  
-GIOLITTI - MICHELI - BONOMI - CROCE.   
-  
-Visto, Il guardasigilli: FERA.   
-  
+Il ministro del tesoro e' autorizzato a introdurre nello stato di previsione della spesa del Ministero di agricoltura le variazioni necessarie per l'applicazione del presente decreto, che sara' presentato al Parlamento per la sua conversione in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 aprile 1921. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ GIOLITTI - MICHELI - BONOMI - CROCE. 
+ 
+ Visto, Il guardasigilli: FERA.

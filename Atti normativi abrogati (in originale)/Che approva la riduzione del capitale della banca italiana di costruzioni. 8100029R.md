@@ -1,16 +1,14 @@
-REGIO DECRETO 06 febbraio 1881 n. XXIX
-
-
-REGIO DECRETO 06 febbraio 1881 n. XXIX
-======================================
-
-Che approva la riduzione del capitale della banca italiana di costruzioni. (8100029R)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/03/1881
+---
+tipo: REGIO DECRETO
+numero: XXIX
+data: 1881-02-06
+titolo: "Che approva la riduzione del capitale della banca italiana di costruzioni. (8100029R)"
+urn: urn:nir:stato:regio.decreto:1881-02-06;29
+codice_redazionale: 8100029R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA'DELLA NAZIONE
 
@@ -22,36 +20,28 @@ Visto lo statuto di detta societa' e il regio decreto che la riguarda del 1° ot
 
 Visto il titolo VII, libro I del codice di commercio;
 
-Visti i [regi decreti del 30 dicembre 1865, numero 2727](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-12-30;2727) e del [5 settembre 1869, n. 5256](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1869-09-05;5256);
+Visti i [regi decreti del 30 dicembre 1865, numero 2727](Contenente%20norme%20relative%20allautorizzazione%20delle%20Societa%20anonime%20ed%20in%20accomandita%20per%20azioni%20ed%20alla%20sorveglianza%20governativa%20sulle%20medesime.%20065U2727.md) e del [5 settembre 1869, n. 5256](Che%20sopprime%20gli%20Uffizi%20di%20sindacato%20sulle%20Societa%20commerciali%20e%20sugli%20Istituti%20di%20credito.%20069U5256.md);
 
 Sentito il consiglio di Stato;
 
-Sulla
------
+Sulla proposta del ministro d'agricoltura, industria e commercio; Abbiamo decretato e decretiamo:
 
-proposta del ministro d'agricoltura, industria e commercio; Abbiamo decretato e decretiamo:
+## Art. 1. — null
 
-Art. 1
-------
-
-null
-
-Art. 2
-------
+## Art. 2.
 
 Il contributo nelle spese degli uffici d'ispezione e' ridotto da lire 200 a lire
 
-150. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 febbraio 1881.   
-  
-UMBERTO   
-  
-Registrato e' la Corte dei conti addi' 16 febbraio 1881 Reg. 12 Atti del Governo a f. 69. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli T. Villa.   
-  
-Miceli.
+150.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 febbraio 1881. 
+ 
+ UMBERTO 
+ 
+ Registrato e' la Corte dei conti addi' 16 febbraio 1881 Reg. 12 Atti del Governo a f. 69. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli T. Villa. 
+ 
+ Miceli.

@@ -1,21 +1,21 @@
-REGIO DECRETO 04 luglio 1935 n. 1507
+---
+tipo: REGIO DECRETO
+numero: 1507
+data: 1935-07-04
+titolo: "Approvazione del nuovo statuto organico della Cassa di maternita' di Milano. (035U1507)"
+urn: urn:nir:stato:regio.decreto:1935-07-04;1507
+codice_redazionale: 035U1507
+vigente: true
+---
 
-
-REGIO DECRETO 04 luglio 1935 n. 1507
-====================================
-
-Approvazione del nuovo statuto organico della Cassa di maternita' di Milano. (035U1507)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/09/1935
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1507. R. decreto 4 luglio 1935, col quale, sulla proposta del Ministro per le corporazioni, viene approvato il nuovo statuto organico della Cassa di maternita' di Milano.   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 12 agosto 1935 - Anno XIII
+1507.
+
+R. decreto 4 luglio 1935, col quale, sulla proposta del Ministro per le corporazioni, viene approvato il nuovo statuto organico della Cassa di maternita' di Milano. 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 12 agosto 1935 - Anno XIII

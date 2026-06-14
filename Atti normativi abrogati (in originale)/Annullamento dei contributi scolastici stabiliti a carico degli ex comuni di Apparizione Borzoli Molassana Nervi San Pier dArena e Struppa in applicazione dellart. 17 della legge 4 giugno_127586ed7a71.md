@@ -1,22 +1,15 @@
-REGIO DECRETO 09 agosto 1929 n. 1872
+---
+tipo: REGIO DECRETO
+numero: 1872
+data: 1929-08-09
+titolo: "Annullamento dei contributi scolastici stabiliti a carico degli ex comuni di Apparizione, Borzoli, Molassana, Nervi, San Pier d'Arena e Struppa in applicazione dell'art. 17 della legge 4 giugno 1911, n. 487. (029U1872)"
+urn: urn:nir:stato:regio.decreto:1929-08-09;1872
+codice_redazionale: 029U1872
+vigente: true
+---
 
+## Art. 1. — null
 
-REGIO DECRETO 09 agosto 1929 n. 1872
-====================================
-
-Annullamento dei contributi scolastici stabiliti a carico degli ex comuni di Apparizione, Borzoli, Molassana, Nervi, San Pier d'Arena e Struppa in applicazione dell'art. 17 della legge 4 giugno 1911, n. 487. (029U1872)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/11/1929
-
-Art. 1
-------
-
-null
-
-  
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 28 ottobre 1929 - Anno VII   
-  
+Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 28 ottobre 1929 - Anno VII

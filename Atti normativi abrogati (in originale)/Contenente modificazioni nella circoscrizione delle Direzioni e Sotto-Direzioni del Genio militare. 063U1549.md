@@ -1,16 +1,14 @@
-REGIO DECRETO 22 novembre 1863 n. 1549
-
-
-REGIO DECRETO 22 novembre 1863 n. 1549
-======================================
-
-Contenente modificazioni nella circoscrizione delle Direzioni e Sotto-Direzioni del Genio militare. (063U1549)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/12/1863
+---
+tipo: REGIO DECRETO
+numero: 1549
+data: 1863-11-22
+titolo: "Contenente modificazioni nella circoscrizione delle Direzioni e Sotto-Direzioni del Genio militare. (063U1549)"
+urn: urn:nir:stato:regio.decreto:1863-11-22;1549
+codice_redazionale: 063U1549
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,45 +22,32 @@ Considerato essere conveniente che la Direzione del Genio militare del 3.° Dipa
 
 Considerato che la creazione della Sotto-Divisione militare di Caltanissetta rende possibile un miglior riparto del territorio dell'Isola di Sicilia fra le tre Sotto-Direzioni del Genio che vi sono instituite;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+La Direzione del Genio militare nel 3.° Dipartimento ora residente a Parma prendera' sede nella citta' di Piacenza.
 
-  
-  
-La Direzione del Genio militare nel 3.° Dipartimento ora residente a Parma prendera' sede nella citta' di Piacenza.   
-  
+## Art. 2.
 
-Art. 2
-------
+Il territorio assegnato con Decreto 27 settembre 1862 alla Sotto-Divisione militare di Caltanissetta s'intendera' staccato dalla Sotto-Direzione del Genio di Palermo ed aggiunto a quello della Sotto-Direzione di Siracusa, rimanendo in quest'ultima citta' la sede della Sotto-Direzione.
 
-  
-  
-Il territorio assegnato con Decreto 27 settembre 1862 alla Sotto-Divisione militare di Caltanissetta s'intendera' staccato dalla Sotto-Direzione del Genio di Palermo ed aggiunto a quello della Sotto-Direzione di Siracusa, rimanendo in quest'ultima citta' la sede della Sotto-Direzione.   
-  
-
-Art. 3
-------
+## Art. 3.
 
 Le precitate disposizioni avranno effetto a cominciare dal 1.° gennaio
 
-1864. 
-  
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 22 novembre 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 1.° dicembre 1863   
-  
-Reg.° 27 Atti del Governo a c. 20. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-A. Della Rovere.
+1864.
+
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 22 novembre 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 1.° dicembre 1863 
+ 
+ Reg.° 27 Atti del Governo a c. 20. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ A. Della Rovere.

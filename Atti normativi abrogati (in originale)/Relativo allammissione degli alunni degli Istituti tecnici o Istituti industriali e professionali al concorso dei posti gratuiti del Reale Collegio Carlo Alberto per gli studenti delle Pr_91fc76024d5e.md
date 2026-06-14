@@ -1,16 +1,14 @@
-REGIO DECRETO 11 aprile 1869 n. 5014
-
-
-REGIO DECRETO 11 aprile 1869 n. 5014
-====================================
-
-Relativo all'ammissione degli alunni degli Istituti tecnici o Istituti industriali e professionali, al concorso dei posti gratuiti del Reale Collegio Carlo Alberto per gli studenti delle Provincie in Torino. (069U5014)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/05/1869
+---
+tipo: REGIO DECRETO
+numero: 5014
+data: 1869-04-11
+titolo: "Relativo all'ammissione degli alunni degli Istituti tecnici o Istituti industriali e professionali, al concorso dei posti gratuiti del Reale Collegio Carlo Alberto per gli studenti delle Provincie in Torino. (069U5014)"
+urn: urn:nir:stato:regio.decreto:1869-04-11;5014
+codice_redazionale: 069U5014
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -42,37 +40,26 @@ Ritenuto tuttavia che per ragione degli studi compiuti, gli alunni dei Licei e q
 
 Sentito il parere del Consiglio superiore di Pubblica Istruzione;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Agli alunni degl'Istituti tecnici o Istituti industriali e professionali, che sono nelle condizioni richieste per essere ammessi alla Facolta' di scienze fisiche, matematiche e naturali, e' aperto ogni anno l'adito al concorso di uno dei posti gratuiti per gli studi della Facolta' medesima, che saranno vacanti nel Reale Collegio Carlo Alberto per gli studenti delle Provincie in Torino.
 
-  
-  
-Agli alunni degl'Istituti tecnici o Istituti industriali e professionali, che sono nelle condizioni richieste per essere ammessi alla Facolta' di scienze fisiche, matematiche e naturali, e' aperto ogni anno l'adito al concorso di uno dei posti gratuiti per gli studi della Facolta' medesima, che saranno vacanti nel Reale Collegio Carlo Alberto per gli studenti delle Provincie in Torino.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il conferimento del posto sara' fatto ai predetti alunni in seguito ad esame di concorso, le cui prove saranno stabilite con Decreto Ministeriale.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 11 aprile 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 22 aprile 1869   
-  
-Reg. 46 Atti del Governo a c. 137. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-Broglio.   
-  
+Il conferimento del posto sara' fatto ai predetti alunni in seguito ad esame di concorso, le cui prove saranno stabilite con Decreto Ministeriale. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 11 aprile 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 22 aprile 1869 
+ 
+ Reg. 46 Atti del Governo a c. 137. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ Broglio.

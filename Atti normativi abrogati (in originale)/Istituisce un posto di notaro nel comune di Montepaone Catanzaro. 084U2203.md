@@ -1,16 +1,14 @@
-REGIO DECRETO 13 aprile 1884 n. 2203
-
-
-REGIO DECRETO 13 aprile 1884 n. 2203
-====================================
-
-Istituisce un posto di notaro nel comune di Montepaone (Catanzaro). (084U2203)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/05/1884
+---
+tipo: REGIO DECRETO
+numero: 2203
+data: 1884-04-13
+titolo: "Istituisce un posto di notaro nel comune di Montepaone (Catanzaro). (084U2203)"
+urn: urn:nir:stato:regio.decreto:1884-04-13;2203
+codice_redazionale: 084U2203
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,24 +22,18 @@ Veduta la domanda fatta dal comune di Montepaone per la istituzione di un posto 
 
 Ritenuto che sarebbe giustificata la convenienza ed opportunita' dell'anzidetta domanda;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un posto di notaro nel comune di Montepaone, distretto del Collegio notarile di Catanzaro.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 aprile 1884.   
-  
-UMBERTO.   
-  
-FERRACCIU'.   
-  
-Visto, Il Guardasigilli: FERRACCIU'.   
+E' istituito un posto di notaro nel comune di Montepaone, distretto del Collegio notarile di Catanzaro. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 aprile 1884. 
+ 
+ UMBERTO. 
+ 
+ FERRACCIU'. 
+ 
+ Visto, Il Guardasigilli: FERRACCIU'.

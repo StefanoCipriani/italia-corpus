@@ -1,16 +1,14 @@
-REGIO DECRETO 06 luglio 1939 n. 1404
-
-
-REGIO DECRETO 06 luglio 1939 n. 1404
-====================================
-
-Proroga delle disposizioni concernenti i requisiti per l'ammissione alla Regia Accademia aeronautica. (039U1404)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/10/1939
+---
+tipo: REGIO DECRETO
+numero: 1404
+data: 1939-07-06
+titolo: "Proroga delle disposizioni concernenti i requisiti per l'ammissione alla Regia Accademia aeronautica. (039U1404)"
+urn: urn:nir:stato:regio.decreto:1939-07-06;1404
+codice_redazionale: 039U1404
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,28 +28,22 @@ Udito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Ministro per l'aeronautica e' autorizzato ad avvalersi per tutto l'anno 1939 della facolta' concessa con R. decreto 7 agosto 1936-XIV, n. 1595, circa i concorsi per l'ammissione ai corsi regolari della Regia Accademia aeronautica con riserva di presentazione del titolo di studio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 6 luglio 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte del conti, addi' 27 settembre 1939-XVII   
-  
-Atti del Governo, registro 413, foglio 121. - Mancini   
+Il Ministro per l'aeronautica e' autorizzato ad avvalersi per tutto l'anno 1939 della facolta' concessa con R. decreto 7 agosto 1936-XIV, n. 1595, circa i concorsi per l'ammissione ai corsi regolari della Regia Accademia aeronautica con riserva di presentazione del titolo di studio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 6 luglio 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte del conti, addi' 27 settembre 1939-XVII 
+ 
+ Atti del Governo, registro 413, foglio 121. - Mancini

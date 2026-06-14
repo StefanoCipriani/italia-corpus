@@ -1,22 +1,20 @@
-REGIO DECRETO 14 marzo 1880 n. 5354
-
-
-REGIO DECRETO 14 marzo 1880 n. 5354
-===================================
-
-Col quale si provvede per la conservazione dell'attuale archivio notarile di Bassano Vicentino come sussidiario all'archivio notarile provinciale di Vicenza. (080U5354)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/04/1880
+---
+tipo: REGIO DECRETO
+numero: 5354
+data: 1880-03-14
+titolo: "Col quale si provvede per la conservazione dell'attuale archivio notarile di Bassano Vicentino come sussidiario all'archivio notarile provinciale di Vicenza. (080U5354)"
+urn: urn:nir:stato:regio.decreto:1880-03-14;5354
+codice_redazionale: 080U5354
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'articolo 3, alinea 3°, della [legge 6 aprile 1879, numero 4817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-04-06;4817) (Serie 2ª), modificatrice della [legge 25 luglio 1875, n. 2786](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1875-07-25;2786) (Serie 2ª), il quale dispone che gli Archivi provinciali possono avere Archivi sussidiari in altre citta' del distretto;
+Visto l'articolo 3, alinea 3°, della [legge 6 aprile 1879, numero 4817](Che%20modifica%20la%20legge%20del%2025%20luglio%201875%20sul%20riordinamento%20del%20notariato.%20079U4817.md) (Serie 2ª), modificatrice della [legge 25 luglio 1875, n. 2786](Sul%20notariato.%20075U2786.md) (Serie 2ª), il quale dispone che gli Archivi provinciali possono avere Archivi sussidiari in altre citta' del distretto;
 
 Visto il nostro decreto 22 maggio 1879, n. 4898 (Serie 2ª), col quale il Collegio, il Consiglio e l'Archivio notarile di Bassano Vicentino furono soppressi e riuniti al distretto notarile di Vicenza, salvi i definitivi provvedimenti quanto alla effettiva concentrazione dell'Archivio; all'epoca in cui il Governo, inteso il voto del Collegio notarile e della Corte di appello, fosse in grado di disporre per la eventuale sua conservazione come sussidiario, ai termini del 3° alinea dell'articolo 3 sovracitato, ovvero per la sua trasformazione in Archivio mandamentale o comunale, quando concorressero gli estremi richiesti dagli articoli 101 e 146 della legge notarile vigente;
 
@@ -24,26 +22,19 @@ Vedute le deliberazioni del Collegio notarile dei distretti riuniti di Vicenza e
 
 Veduta la deliberazione presa dal Consiglio comunale di Bassano Vicentino in adunanza del 16 febbraio 1880, approvata il 28 stesso mese dalla Deputazione provinciale di Vicenza, con cui quel comune si assume in via stabile la spesa del fitto pel locale dell'Archivio, salvo l'eventuale concorso degli altri comuni interessati;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'attuale Archivio notarile di Bassano Vicentino e' conservato come sussidiario all'Archivio notarile provinciale di Vicenza.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 marzo 1880.   
-  
-UMBERTO.   
-  
-T. Villa.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+L'attuale Archivio notarile di Bassano Vicentino e' conservato come sussidiario all'Archivio notarile provinciale di Vicenza. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ T. Villa. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

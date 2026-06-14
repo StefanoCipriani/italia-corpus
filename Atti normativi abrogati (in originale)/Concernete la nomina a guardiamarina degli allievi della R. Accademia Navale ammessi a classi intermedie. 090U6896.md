@@ -1,22 +1,20 @@
-REGIO DECRETO 05 giugno 1890 n. 6896
-
-
-REGIO DECRETO 05 giugno 1890 n. 6896
-====================================
-
-Concernete la nomina a guardiamarina degli allievi della R. Accademia Navale ammessi a classi intermedie. (090U6896)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/07/1890
+---
+tipo: REGIO DECRETO
+numero: 6896
+data: 1890-06-05
+titolo: "Concernete la nomina a guardiamarina degli allievi della R. Accademia Navale ammessi a classi intermedie. (090U6896)"
+urn: urn:nir:stato:regio.decreto:1890-06-05;6896
+codice_redazionale: 090U6896
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'art. 21 del nuovo ordinamento della R. Accademia Navale, approvato con [R. decreto 5 settembre 1886 n. 4094](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1886-09-05;4094), serie 3ª;
+Visto l'art. 21 del nuovo ordinamento della R. Accademia Navale, approvato con [R. decreto 5 settembre 1886 n. 4094](Apportante%20modificazioni%20al%20riordinamento%20della%20R.%20Accademia%20navale.%20086U4094.md), serie 3ª;
 
 Considerando che gli allievi i quali sono ammessi nella detta R.
 
@@ -26,25 +24,18 @@ Ritenendo equo che gli allievi suddetti non siano posposti nell'ordine di preced
 
 Sentito il Consiglio superiore di Marina;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Marina; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Marina; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Per gli allievi della R. Accademia Navale ammessi a classi intermedie e' bastevole, a fine di conseguire la nomina a guardiamarina, il tempo d'imbarco compiuto prendendo parte a tutte le campagne annuali d'istruzione delle classi, cui appartennero.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 giugno 1890.   
-  
-UMBERTO.   
-  
-B. Brin.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+Per gli allievi della R. Accademia Navale ammessi a classi intermedie e' bastevole, a fine di conseguire la nomina a guardiamarina, il tempo d'imbarco compiuto prendendo parte a tutte le campagne annuali d'istruzione delle classi, cui appartennero. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 giugno 1890. 
+ 
+ UMBERTO. 
+ 
+ B. Brin. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

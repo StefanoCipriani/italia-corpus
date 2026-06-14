@@ -1,21 +1,21 @@
-REGIO DECRETO 18 dicembre 1930 n. 1914
+---
+tipo: REGIO DECRETO
+numero: 1914
+data: 1930-12-18
+titolo: "Erezione in ente morale dell'Opera pia «Borsa di studio Guglielmo Romiti», con sede in Livorno. (030U1914)"
+urn: urn:nir:stato:regio.decreto:1930-12-18;1914
+codice_redazionale: 030U1914
+vigente: true
+---
 
-
-REGIO DECRETO 18 dicembre 1930 n. 1914
-======================================
-
-Erezione in ente morale dell'Opera pia «Borsa di studio Guglielmo Romiti», con sede in Livorno. (030U1914)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/03/1931
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1914. R. decreto 18 dicembre 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, l'Opera pia «Borsa di studio Guglielmo Romiti», con sede in Livorno, viene eretta in ente morale sotto l'amministrazione della Congregazione di carita', e ne e' approvato con modifica lo statuto organico.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 11 febbraio 1931 - Anno IX
+1914.
+
+R. decreto 18 dicembre 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, l'Opera pia «Borsa di studio Guglielmo Romiti», con sede in Livorno, viene eretta in ente morale sotto l'amministrazione della Congregazione di carita', e ne e' approvato con modifica lo statuto organico. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 11 febbraio 1931 - Anno IX

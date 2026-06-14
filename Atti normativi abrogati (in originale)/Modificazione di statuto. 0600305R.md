@@ -1,19 +1,15 @@
-REGIO DECRETO 21 agosto 1906 n. CCCV
+---
+tipo: REGIO DECRETO
+numero: CCCV
+data: 1906-08-21
+titolo: "Modificazione di statuto. (0600305R)"
+urn: urn:nir:stato:regio.decreto:1906-08-21;305
+codice_redazionale: 0600305R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 agosto 1906 n. CCCV
-====================================
-
-Modificazione di statuto. (0600305R)
-------------------------------------
-
-Entrata in vigore del provvedimento: 20/09/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CCCV (Dato a Sant'Anna di Valdieri, il 21 agosto 1906), col quale si modifica lo statuto della Cassa di risparmio di Parma.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CCCV (Dato a Sant'Anna di Valdieri, il 21 agosto 1906), col quale si modifica lo statuto della Cassa di risparmio di Parma.

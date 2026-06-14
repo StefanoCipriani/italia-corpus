@@ -1,16 +1,14 @@
-REGIO DECRETO 06 maggio 1875 n. 2497
-
-
-REGIO DECRETO 06 maggio 1875 n. 2497
-====================================
-
-Col quale l'opera-scuole in Alassio e' dichiarata istituzione scolastica ed e' eretta in corpo morale. (075U2497)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/06/1875
+---
+tipo: REGIO DECRETO
+numero: 2497
+data: 1875-05-06
+titolo: "Col quale l'opera-scuole in Alassio e' dichiarata istituzione scolastica ed e' eretta in corpo morale. (075U2497)"
+urn: urn:nir:stato:regio.decreto:1875-05-06;2497
+codice_redazionale: 075U2497
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,39 +28,24 @@ Riconosciuta la necessita' di migliorare l'ordinamento della istituzione di cui 
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'Opera scuola esistente nel comune di Alassio pei lasciti di Giovanni Ambrogio Airaldi e Vittore Durante e' considerata come istituzione scolastica ed e' eretta in corpo morale sotto il nome che ora ritiene.
 
-  
-  
-L'Opera scuola esistente nel comune di Alassio pei lasciti di Giovanni Ambrogio Airaldi e Vittore Durante e' considerata come istituzione scolastica ed e' eretta in corpo morale sotto il nome che ora ritiene.   
-  
+## Art. 2.
 
-Art. 2
-------
+Entro due mesi dalla pubblicazione del presente decreto il comune di Alassio, quale amministratore del patrimonio dell'Opera, presentera' all'approvazione del Nostro Ministro per la Pubblica Istruzione uno statuto nel quale siano stabilite le norme per l'amministrazione del patrimonio e per l'ordinamento delle scuole che colle rendite dello stesso patrimonio debbono essere istituite.
 
-  
-  
-Entro due mesi dalla pubblicazione del presente decreto il comune di Alassio, quale amministratore del patrimonio dell'Opera, presentera' all'approvazione del Nostro Ministro per la Pubblica Istruzione uno statuto nel quale siano stabilite le norme per l'amministrazione del patrimonio e per l'ordinamento delle scuole che colle rendite dello stesso patrimonio debbono essere istituite.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-I bilanci della detta Opera dovranno essere distinti da quelli del comune e saranno sottoposti all'approvazione della competente autorita' scolastica a norma di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 maggio 1875.   
-  
-VITTORIO EMANUELE.   
-  
-R. Bonghi.   
-  
+I bilanci della detta Opera dovranno essere distinti da quelli del comune e saranno sottoposti all'approvazione della competente autorita' scolastica a norma di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 maggio 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ R. Bonghi.

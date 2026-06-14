@@ -1,17 +1,13 @@
-REGIO DECRETO 24 giugno 1920 n. 978
+---
+tipo: REGIO DECRETO
+numero: 978
+data: 1920-06-24
+titolo: "Erezione in ente morale. (020U0978)"
+urn: urn:nir:stato:regio.decreto:1920-06-24;978
+codice_redazionale: 020U0978
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 giugno 1920 n. 978
-===================================
-
-Erezione in ente morale. (020U0978)
------------------------------------
-
-Entrata in vigore del provvedimento: 05/08/1920
-
-Art. 1
-------
-
-  
-N.978. Regio decreto 24 giugno 1920, col quale, sulla proposta del ministro per l'industria, il commercio e il lavoro, l'Istituto autonomo per case popolari di Santa Croce sull'Arno (Firenze), e' riconosciuto come Corpo morale e se ne approva il suo statuto organico.   
-  
+N.978. Regio decreto 24 giugno 1920, col quale, sulla proposta del ministro per l'industria, il commercio e il lavoro, l'Istituto autonomo per case popolari di Santa Croce sull'Arno (Firenze), e' riconosciuto come Corpo morale e se ne approva il suo statuto organico.

@@ -1,16 +1,14 @@
-REGIO DECRETO 13 settembre 1893 n. 690
-
-
-REGIO DECRETO 13 settembre 1893 n. 690
-======================================
-
-Che dichiara monumento nazionale le case degli Alighieri nel popolo di S. Martino in Firenze. (093U0690)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/01/1894
+---
+tipo: REGIO DECRETO
+numero: 690
+data: 1893-09-13
+titolo: "Che dichiara monumento nazionale le case degli Alighieri nel popolo di S. Martino in Firenze. (093U0690)"
+urn: urn:nir:stato:regio.decreto:1893-09-13;690
+codice_redazionale: 093U0690
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,25 +18,18 @@ Viste le ricerche fatte e i documenti raccolti per cura del Municipio di Firenze
 
 Considerata la singolare importanza storica delle case stesse;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le case degli Alighieri nel popolo di S. Martino in Firenze, sono dichiarate monumento nazionale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 13 settembre 1893.   
-  
-UMBERTO.   
-  
-Martini.   
-  
-Visto, Il Guardasigilli: G. Armo'.   
-  
+Le case degli Alighieri nel popolo di S. Martino in Firenze, sono dichiarate monumento nazionale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 13 settembre 1893. 
+ 
+ UMBERTO. 
+ 
+ Martini. 
+ 
+ Visto, Il Guardasigilli: G. Armo'.

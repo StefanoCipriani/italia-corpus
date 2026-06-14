@@ -1,16 +1,14 @@
-REGIO DECRETO 19 maggio 1938 n. 617
-
-
-REGIO DECRETO 19 maggio 1938 n. 617
-===================================
-
-Integrazioni alle norme sulla promozione al grado ottavo del personale civile di gruppo A delle Amministrazioni statali. (038U0617)
------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/06/1938
+---
+tipo: REGIO DECRETO
+numero: 617
+data: 1938-05-19
+titolo: "Integrazioni alle norme sulla promozione al grado ottavo del personale civile di gruppo A delle Amministrazioni statali. (038U0617)"
+urn: urn:nir:stato:regio.decreto:1938-05-19;617
+codice_redazionale: 038U0617
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,36 +28,28 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Duce e del Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Duce e del Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La promozione ai posti di grado 8°, spettanti ai sensi dell'art. 1 del R. decreto 22 novembre 1937-XVI, n. 1933, ai funzionari inclusi nella graduatoria di merito prevista dalla lettera c) dello stesso articolo, puo' essere conferita indipendentemente da quelle da effettuarsi a norma delle lettere a) e b) dell'articolo medesimo.   
-  
-Detta promozione e' in tal caso conferita con riserva di all'intuita, rispetto ai funzionari che ai termini del secondo e del terzo comma del citato articolo abbiano diritto di precedere, nell'ordine definitivo di ruolo nel grado 8°, quelli promossi in base alla cennata graduatoria di merito.   
-  
-I funzionari promossi con riserva di anzianita', ai sensi dei precedenti commi, non potranno essere scrutinati per l'eventuale promozione al grado 7°, fino a quando non siano scrutinabili, per compiuto prescritto periodo di permanenza nel grado 8°, anche i funzionari che, quantunque promossi successivamente a quest'ultimo grado in base agli esami di cui alle suindicate lettere a) e b), li precedano in ruolo.   
-  
-Le disposizioni del presente decreto hanno efficacia dallo stesso giorno di entrata in vigore del citato R. decreto 22 novembre 1937-XVI, n. 1933.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 maggio 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Solmi   
-  
-Registrato alla Corte dei conti, addi' 30 maggio 1938 - Anno XVI   
-  
-Atti del Governo, registro 397, foglio 170. - Mancini.   
-  
-  
+La promozione ai posti di grado 8°, spettanti ai sensi dell'art. 1 del R. decreto 22 novembre 1937-XVI, n. 1933, ai funzionari inclusi nella graduatoria di merito prevista dalla lettera c) dello stesso articolo, puo' essere conferita indipendentemente da quelle da effettuarsi a norma delle lettere a) e b) dell'articolo medesimo. 
+ 
+ Detta promozione e' in tal caso conferita con riserva di all'intuita, rispetto ai funzionari che ai termini del secondo e del terzo comma del citato articolo abbiano diritto di precedere, nell'ordine definitivo di ruolo nel grado 8°, quelli promossi in base alla cennata graduatoria di merito. 
+ 
+ I funzionari promossi con riserva di anzianita', ai sensi dei precedenti commi, non potranno essere scrutinati per l'eventuale promozione al grado 7°, fino a quando non siano scrutinabili, per compiuto prescritto periodo di permanenza nel grado 8°, anche i funzionari che, quantunque promossi successivamente a quest'ultimo grado in base agli esami di cui alle suindicate lettere a) e b), li precedano in ruolo. 
+ 
+ Le disposizioni del presente decreto hanno efficacia dallo stesso giorno di entrata in vigore del citato R. decreto 22 novembre 1937-XVI, n. 1933. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 maggio 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi 
+ 
+ Registrato alla Corte dei conti, addi' 30 maggio 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 397, foglio 170. - Mancini.

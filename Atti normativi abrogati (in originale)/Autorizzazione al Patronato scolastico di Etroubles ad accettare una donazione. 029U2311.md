@@ -1,21 +1,21 @@
-REGIO DECRETO 23 dicembre 1929 n. 2311
+---
+tipo: REGIO DECRETO
+numero: 2311
+data: 1929-12-23
+titolo: "Autorizzazione al Patronato scolastico di Etroubles ad accettare una donazione. (029U2311)"
+urn: urn:nir:stato:regio.decreto:1929-12-23;2311
+codice_redazionale: 029U2311
+vigente: true
+---
 
-
-REGIO DECRETO 23 dicembre 1929 n. 2311
-======================================
-
-Autorizzazione al Patronato scolastico di Etroubles ad accettare una donazione. (029U2311)
-------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/02/1930
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2311. R. decreto 23 dicembre 1929, col quale, sulla proposta del Ministro per l'educazione nazionale, il Patronato scolastico di Etroubles viene autorizzato ad accettare la donazione del certificato del Debito pubblico italiano consolidato 5% di nominali L. 4000, disposta a favore del Patronato stesso dal sig. Maurizio Bertin per l'istituzione di tre premi annui a favore dei migliori alunni della 5ª classe del corso elementare di quel Comune.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 24 gennaio 1930 - Anno VIII
+2311.
+
+R. decreto 23 dicembre 1929, col quale, sulla proposta del Ministro per l'educazione nazionale, il Patronato scolastico di Etroubles viene autorizzato ad accettare la donazione del certificato del Debito pubblico italiano consolidato 5% di nominali L. 4000, disposta a favore del Patronato stesso dal sig. Maurizio Bertin per l'istituzione di tre premi annui a favore dei migliori alunni della 5ª classe del corso elementare di quel Comune. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 24 gennaio 1930 - Anno VIII

@@ -1,17 +1,13 @@
-REGIO DECRETO 27 giugno 1920 n. 998
+---
+tipo: REGIO DECRETO
+numero: 998
+data: 1920-06-27
+titolo: "Approvazione di statuto. (020U0998)"
+urn: urn:nir:stato:regio.decreto:1920-06-27;998
+codice_redazionale: 020U0998
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 giugno 1920 n. 998
-===================================
-
-Approvazione di statuto. (020U0998)
------------------------------------
-
-Entrata in vigore del provvedimento: 06/08/1920
-
-Art. 1
-------
-
-  
-N. 998 Regio decreto 27 giugno 1920, col quale, sulla proposta del ministro per l'industria e il commercio, si approva il nuovo statuto organico del Monte di Pieta' di Pistoia   
-  
+N. 998 Regio decreto 27 giugno 1920, col quale, sulla proposta del ministro per l'industria e il commercio, si approva il nuovo statuto organico del Monte di Pieta' di Pistoia

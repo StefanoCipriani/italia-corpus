@@ -1,16 +1,14 @@
-REGIO DECRETO 12 febbraio 1882 n. 642
-
-
-REGIO DECRETO 12 febbraio 1882 n. 642
-=====================================
-
-Che approva il capitolato tipo pei lavori del genio militare da eseguirsi nel territorio dipendente dal comando locale di Chieti. (082U0642)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/04/1882
+---
+tipo: REGIO DECRETO
+numero: 642
+data: 1882-02-12
+titolo: "Che approva il capitolato tipo pei lavori del genio militare da eseguirsi nel territorio dipendente dal comando locale di Chieti. (082U0642)"
+urn: urn:nir:stato:regio.decreto:1882-02-12;642
+codice_redazionale: 082U0642
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,27 +24,20 @@ Vista la deliberazione in riguardo emessa dal Comitato delle armi d'artiglieria 
 
 Visto il parere favorevole espresso dal Consiglio di Stato in sua adunanza del 3 corrente febbraio;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari della Guerra, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari della Guerra, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvato il capitolato pei lavori del genio militare da eseguirsi nel territorio soggetto al Comando locale di Chieti, portante la data del 24 gennaio 1882, d'ordine Nostro firmato dal Ministro della Guerra, e depositato, per originale, presso l'Archivio di Stato, e, per copia autentica, presso la Corte dei conti, non che presso la Direzione del genio militare di Roma.   
-  
-Restano invariate le disposizioni di cui agli articoli 2 e 3 del succitato [Regio decreto 10 novembre 1875, n. 2793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-11-10;2793) (Serie 2ª).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 febbraio 1882.   
-  
-UMBERTO.   
-  
-Ferrero.   
-  
-Visto, Il Guardasigilli: G. Zanardelli.   
-  
+E' approvato il capitolato pei lavori del genio militare da eseguirsi nel territorio soggetto al Comando locale di Chieti, portante la data del 24 gennaio 1882, d'ordine Nostro firmato dal Ministro della Guerra, e depositato, per originale, presso l'Archivio di Stato, e, per copia autentica, presso la Corte dei conti, non che presso la Direzione del genio militare di Roma. 
+ 
+ Restano invariate le disposizioni di cui agli articoli 2 e 3 del succitato [Regio decreto 10 novembre 1875, n. 2793](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-11-10;2793) (Serie 2ª). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 febbraio 1882. 
+ 
+ UMBERTO. 
+ 
+ Ferrero. 
+ 
+ Visto, Il Guardasigilli: G. Zanardelli.

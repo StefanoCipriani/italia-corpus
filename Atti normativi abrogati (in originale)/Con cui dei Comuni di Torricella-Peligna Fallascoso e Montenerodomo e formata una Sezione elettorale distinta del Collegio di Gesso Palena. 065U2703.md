@@ -1,17 +1,14 @@
-REGIO DECRETO 28 dicembre 1865 n. 2703
-
-
-REGIO DECRETO 28 dicembre 1865 n. 2703
-======================================
-
-Con cui dei Comuni di Torricella-Peligna, Fallascoso e Montenerodomo e' formata una Sezione elettorale distinta del Collegio di Gesso Palena. (065U2703)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/01/1866  
-Il presente decreto e' stato erroneamente pubblicato in Gazzetta Ufficiale senza l'indicazione del numero di inserzione nella Raccolta Ufficiale delle leggi e dei decreti del Regno.
+---
+tipo: REGIO DECRETO
+numero: 2703
+data: 1865-12-28
+titolo: "Con cui dei Comuni di Torricella-Peligna, Fallascoso e Montenerodomo e' formata una Sezione elettorale distinta del Collegio di Gesso Palena. (065U2703)"
+urn: urn:nir:stato:regio.decreto:1865-12-28;2703
+codice_redazionale: 065U2703
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -23,29 +20,22 @@ Vedute le istanze dei Comuni di Torricella-Peligna, Fallascoso e Montenerodomo, 
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Torricella-Peligna, Fallascoso e Montenerodomo, che fin qui fecero parte della Sezione detta di Gesso Palena del Collegio elettorale di Gesso Palena, n.° 5, costituiranno d'ora in poi una Sezione del Collegio medesimo che avra' sede in Torricella-Peligna.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 28 dicembre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 4 gennaio 1866   
-  
-Reg.° 35 Atti del Governo a c. 4. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Chiaves.   
-  
+I Comuni di Torricella-Peligna, Fallascoso e Montenerodomo, che fin qui fecero parte della Sezione detta di Gesso Palena del Collegio elettorale di Gesso Palena, n.° 5, costituiranno d'ora in poi una Sezione del Collegio medesimo che avra' sede in Torricella-Peligna. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 28 dicembre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 4 gennaio 1866 
+ 
+ Reg.° 35 Atti del Governo a c. 4. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Chiaves.

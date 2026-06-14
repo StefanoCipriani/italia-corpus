@@ -1,59 +1,39 @@
-DECRETO-LEGGE 29 dicembre 1990 n. 412
-
-
-DECRETO-LEGGE 29 dicembre 1990 n. 412
-=====================================
-
-Proroga del termine previsto dall'articolo 114 della legge 1 aprile 1981, n. 121, concernente nuovo ordinamento dell'Amministrazione della pubblica sicurezza.
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 31/12/1990.Decreto-Legge decaduto per mancata conversione.
+---
+tipo: DECRETO-LEGGE
+numero: 153
+data: 1987-04-27
+titolo: "Proroga del termine previsto dall'articolo 114 della legge 1 aprile 1981, n. 121, concernente nuovo ordinamento dell'Amministrazione della pubblica sicurezza."
+urn: urn:nir:stato:decreto.legge:1987-04-27;153
+codice_redazionale: 087U0153
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di prorogare il termine previsto dall'articolo 114 della legge 1' aprile 1981, n. 121, concernente il divieto di iscrizione ai partiti politici per gli appartenenti alle Forze di polizia, nonche' di disporre di ulteriori risorse per il potenziamento tecnico-logistico delle medesime Forze di polizia;
+Ritenuta la straordinaria necessita' ed urgenza di prorogare il termine previsto dall'[articolo 114 della legge 1° aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_114), concernente nuovo ordinamento dell'Amministrazione della pubblica sicurezza;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 dicembre 1990;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 aprile 1987;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'interno, di concerto con i Ministri del tesoro e del bilancio e della programmazione economica;
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'interno;
 
-E M A N A il seguente decreto-legge:
+EMANA il seguente decreto:
 
-Art. 1
-------
+## Art. 1.
 
-1. Fermo restando quanto previsto dalla [legge 15 dicembre 1990, n. 395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-15;395), sull'ordinamento del Corpo di polizia penitenziaria, il termine di cui all'articolo 114 della legge 1' aprile 1981, n. 121, da ultimo prorogato al 31 dicembre 1990 dall'[articolo 1 del decreto-legge 21 aprile 1990, n. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-04-21;81~art1), convertito, con modificazioni, dalla [legge 20 giugno 1990, n. 159](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-20;159), e' ulteriormente prorogato fino alla data di entrata in vigore della normativa organica di cui all'articolo 98, terzo comma, della Costituzione.
+1.
 
-Art. 2
-------
+Il termine di cui all'[articolo 114 della legge 1° aprile 1981, n. 121](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121#art_114), concernente nuovo ordinamento dell'Amministrazione della pubblica sicurezza, prorogato da ultimo dall'[articolo 1 del decreto-legge 18 aprile 1986, n. 118](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-04-18;118#art_1), convertito, con modificazioni, dalla [legge 17 giugno 1986, n. 284](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-06-17;284), e' ulteriormente prorogato di un anno.
 
-1. Per le necessita' prioritarie di potenziamento tecnico-logistico delle forze di polizia, e' autorizzata nell'anno finanziario 1990 la spesa di lire 37 miliardi, da utilizzare, da parte del Ministero dell'interno, con le modalita' previste dal capo I della [legge 5 dicembre 1988, n. 521](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-12-05;521).
+## Art. 2.
 
-2. All'onere di cui al comma 1 si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 4295 dello stato di previsione del Ministero dell'interno per l'anno 1990.
+1.
 
-3. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
-
-Art. 3
-------
-
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 dicembre 1990
+Dato a Roma, addi' 27 aprile 1987
 
-COSSIGA
-
-ANDREOTTI, Presidente del Consiglio dei Ministri
-
-SCOTTI, Ministro dell'interno
-
-CARLI, Ministro del tesoro
-
-CIRINO POMICINO, Ministro del bilancio e della programmazione economica
-
-Visto, il Guardasigilli: VASSALLI
+COSSIGA FANFANI, Presidente del Consiglio dei Ministri SCALFARO, Ministro dell'interno Visto, il Guardasigilli: ROGNONI Registrato alla Corte dei conti, addi' 27 aprile 1987 Atti di Governo, registro n. 64, foglio n. 31

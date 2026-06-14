@@ -1,16 +1,14 @@
-REGIO DECRETO 09 dicembre 1940 n. 1835
-
-
-REGIO DECRETO 09 dicembre 1940 n. 1835
-======================================
-
-Disposizioni transitorie per il conferimento di posti nel grado iniziale del ruolo della carriera amministrativa dell'Amministrazione centrale delle finanze. (040U1835)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/02/1941
+---
+tipo: REGIO DECRETO
+numero: 1835
+data: 1940-12-09
+titolo: "Disposizioni transitorie per il conferimento di posti nel grado iniziale del ruolo della carriera amministrativa dell'Amministrazione centrale delle finanze. (040U1835)"
+urn: urn:nir:stato:regio.decreto:1940-12-09;1835
+codice_redazionale: 040U1835
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -40,30 +38,24 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I posti che, nella prima applicazione della legge 25 gennaio 1940-XVIII, n. 4, sul riordinamento dei ruoli del personale dell'Amministrazione finanziaria risultano disponibili nel grado iniziale della carriera amministrativa dell'Amministrazione centrale delle finanze di cui alla tabella A dell'allegato 1 alla legge medesima, possono essere conferiti mediante concorso per titoli da indire fra il personale dei ruoli dei gruppi A e B del Ministero delle finanze, che rivesta il grado undecimo o decino, che possieda una delle lauree all'uopo prescritte e che abbia compiuto almeno un anno di servizio in uno dei predetti ruoli, compreso il periodo di prova e quello di richiamo alle armi per esigenze militari di carattere eccezionale.   
-  
-La composizione della Commissione giudicatrice sara' stabilita col bando di concorso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 dicembre 1940-XIX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 10 gennaio 1941-XIX   
-  
-Atti del Governo, registro 429, foglio 82. - MANCINI   
+I posti che, nella prima applicazione della legge 25 gennaio 1940-XVIII, n. 4, sul riordinamento dei ruoli del personale dell'Amministrazione finanziaria risultano disponibili nel grado iniziale della carriera amministrativa dell'Amministrazione centrale delle finanze di cui alla tabella A dell'allegato 1 alla legge medesima, possono essere conferiti mediante concorso per titoli da indire fra il personale dei ruoli dei gruppi A e B del Ministero delle finanze, che rivesta il grado undecimo o decino, che possieda una delle lauree all'uopo prescritte e che abbia compiuto almeno un anno di servizio in uno dei predetti ruoli, compreso il periodo di prova e quello di richiamo alle armi per esigenze militari di carattere eccezionale. 
+ 
+ La composizione della Commissione giudicatrice sara' stabilita col bando di concorso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 dicembre 1940-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 10 gennaio 1941-XIX 
+ 
+ Atti del Governo, registro 429, foglio 82. - MANCINI

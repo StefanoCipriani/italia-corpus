@@ -1,16 +1,14 @@
-REGIO DECRETO 07 maggio 1874 n. 1919
-
-
-REGIO DECRETO 07 maggio 1874 n. 1919
-====================================
-
-Che porta alcune modificazioni al Regolamento per gli esami di concorso ai posti gratuiti nel Regio Collegio Carlo Alberto, approvato con R. Decreto 10 maggio 1858, n. 2844 (074U1919)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/06/1874
+---
+tipo: REGIO DECRETO
+numero: 1919
+data: 1874-05-07
+titolo: "Che porta alcune modificazioni al Regolamento per gli esami di concorso ai posti gratuiti nel Regio Collegio Carlo Alberto, approvato con R. Decreto 10 maggio 1858, n. 2844 (074U1919)"
+urn: urn:nir:stato:regio.decreto:1874-05-07;1919
+codice_redazionale: 074U1919
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,31 +20,20 @@ Riconosciuta la necessita' di concordare i programmi degli esami di concorso ai 
 
 Sentito il Consiglio accademico della Regia Universita' di Torino;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Interno, reggente il Ministero della Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Interno, reggente il Ministero della Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Gli articoli 9 e 11 del regolamento precitato sono abrogati.
 
-  
-  
-Gli articoli 9 e 11 del regolamento precitato sono abrogati.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Gli esami verbali dei concorrenti (che provengono da liceo) ai posti gratuiti nel Collegio delle provincie in Torino, verseranno sui programmi degli esami di licenza liceale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 maggio 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
+Gli esami verbali dei concorrenti (che provengono da liceo) ai posti gratuiti nel Collegio delle provincie in Torino, verseranno sui programmi degli esami di licenza liceale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 maggio 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

@@ -1,21 +1,21 @@
-REGIO DECRETO 27 dicembre 1934 n. 2303
+---
+tipo: REGIO DECRETO
+numero: 2303
+data: 1934-12-27
+titolo: "Approvazione dello statuto organico dell'Opera pia « Fondazione senatore Pascale », con sede in Napoli. (034U2303)"
+urn: urn:nir:stato:regio.decreto:1934-12-27;2303
+codice_redazionale: 034U2303
+vigente: true
+---
 
-
-REGIO DECRETO 27 dicembre 1934 n. 2303
-======================================
-
-Approvazione dello statuto organico dell'Opera pia « Fondazione senatore Pascale », con sede in Napoli. (034U2303)
-------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/03/1935
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2303. R. decreto 27 dicembre 1934, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato lo statuto organico dell'Opera pia « Fondazione senatore Pescale », con sede in Napoli.   
-  
-Visto, il guardasigilli: SOLMI   
-  
-Registrato alla Corte dei conti, addi' 11 febbraio 1935 - Anno XIII
+2303.
+
+R. decreto 27 dicembre 1934, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato lo statuto organico dell'Opera pia « Fondazione senatore Pescale », con sede in Napoli. 
+ 
+ Visto, il guardasigilli: SOLMI 
+ 
+ Registrato alla Corte dei conti, addi' 11 febbraio 1935 - Anno XIII

@@ -1,16 +1,14 @@
-REGIO DECRETO 08 febbraio 1863 n. 1152
-
-
-REGIO DECRETO 08 febbraio 1863 n. 1152
-======================================
-
-Sulla ricomposizione parziale della Commissione dei Presidenti in Palermo. (063U1152)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/03/1863
+---
+tipo: REGIO DECRETO
+numero: 1152
+data: 1863-02-08
+titolo: "Sulla ricomposizione parziale della Commissione dei Presidenti in Palermo. (063U1152)"
+urn: urn:nir:stato:regio.decreto:1863-02-08;1152
+codice_redazionale: 063U1152
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,37 +20,26 @@ Considerando che alcuni titolari componenti la detta Commissione si troverebbero
 
 Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, di concerto con quello delle Finanze;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il Presidente della Sezione del Contenzioso amministrativo in Palermo, o chi ne fa le veci, a tenore dell'art. 3 del Nostro Decreto 21 settembre ultimo, n.° 822, fara' parte ordinaria della Commissione dei Presidenti in luogo del Presidente della cessata Gran Corte dei conti in Palermo.
 
-  
-  
-Il Presidente della Sezione del Contenzioso amministrativo in Palermo, o chi ne fa le veci, a tenore dell'art. 3 del Nostro Decreto 21 settembre ultimo, n.° 822, fara' parte ordinaria della Commissione dei Presidenti in luogo del Presidente della cessata Gran Corte dei conti in Palermo.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Uno dei componenti della Commissione temporanea di Palermo per la revisione dei conti arretrati, che sara' da Noi designato, e il Direttore dell'Ufficio del Contenzioso nella stessa citta', o chi ne tiene le veci, faranno anche parte rispettivamente della detta Commissione in luogo del Vicepresidente e del Procuratore del Re presso la cessata Gran Corte dei conti.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Torino, addi' 8 febbraio 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 20 febbraio 1863   
-  
-Reg.° 22 Atti del Governo a c. 83. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-U. Peruzzi.   
-  
+Uno dei componenti della Commissione temporanea di Palermo per la revisione dei conti arretrati, che sara' da Noi designato, e il Direttore dell'Ufficio del Contenzioso nella stessa citta', o chi ne tiene le veci, faranno anche parte rispettivamente della detta Commissione in luogo del Vicepresidente e del Procuratore del Re presso la cessata Gran Corte dei conti. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Torino, addi' 8 febbraio 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 20 febbraio 1863 
+ 
+ Reg.° 22 Atti del Governo a c. 83. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ U. Peruzzi.

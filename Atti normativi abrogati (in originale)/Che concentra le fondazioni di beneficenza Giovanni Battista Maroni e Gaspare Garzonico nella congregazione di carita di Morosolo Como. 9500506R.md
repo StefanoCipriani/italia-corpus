@@ -1,21 +1,17 @@
-REGIO DECRETO 18 luglio 1895 n. DVI
+---
+tipo: REGIO DECRETO
+numero: DVI
+data: 1895-07-18
+titolo: "Che concentra le fondazioni di beneficenza Giovanni Battista Maroni e Gaspare Garzonico, nella congregazione di carita' di Morosolo (Como). (9500506R)"
+urn: urn:nir:stato:regio.decreto:1895-07-18;506
+codice_redazionale: 9500506R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 luglio 1895 n. DVI
-===================================
-
-Che concentra le fondazioni di beneficenza Giovanni Battista Maroni e Gaspare Garzonico, nella congregazione di carita' di Morosolo (Como). (9500506R)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/12/1895
-
-Art. 1
-------
-
-  
-Con cui le fondazioni di beneficenza Giovanni Battista Maroni e Gaspare Garzonico, sono concentrate nella congregazione di carita' di Morosolo (Como). - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 2 dicembre 1895.   
-  
-Reg. 202. Atti del Governo a f. 38.   
-  
+Con cui le fondazioni di beneficenza Giovanni Battista Maroni e Gaspare Garzonico, sono concentrate nella congregazione di carita' di Morosolo (Como). - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 2 dicembre 1895. 
+ 
+ Reg. 202. Atti del Governo a f. 38.

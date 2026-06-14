@@ -1,16 +1,14 @@
-REGIO DECRETO 25 aprile 1877 n. 3778
-
-
-REGIO DECRETO 25 aprile 1877 n. 3778
-====================================
-
-Col quale il collegio elettorale di Clusone e' convocato per la votazione di ballottaggio. (077U3778)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/05/1877
+---
+tipo: REGIO DECRETO
+numero: 3778
+data: 1877-04-25
+titolo: "Col quale il collegio elettorale di Clusone e' convocato per la votazione di ballottaggio. (077U3778)"
+urn: urn:nir:stato:regio.decreto:1877-04-25;3778
+codice_redazionale: 077U3778
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,23 +18,16 @@ Veduto il messaggio in data 18 aprile 1877, col quale l'ufficio di presidenza de
 
 Veduto l'articolo 63 della legge elettorale 17 dicembre 1860;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Collegio elettorale di Clusone e' convocato pel giorno venti maggio milleottocentosettantasette, affinche' proceda alla votazione di ballottaggio tra i suddetti candidati.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Rossore, addi' 25 aprile 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il Collegio elettorale di Clusone e' convocato pel giorno venti maggio milleottocentosettantasette, affinche' proceda alla votazione di ballottaggio tra i suddetti candidati. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Rossore, addi' 25 aprile 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

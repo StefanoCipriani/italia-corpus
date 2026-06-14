@@ -1,16 +1,14 @@
-REGIO DECRETO 10 gennaio 1901 n. 61
-
-
-REGIO DECRETO 10 gennaio 1901 n. 61
-===================================
-
-Coi quali si aprono concorsi a premi per l'assicurazione contro i danni derivanti dalla mortalita' del bestiame agrario. (001U0061)
------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/03/1901
+---
+tipo: REGIO DECRETO
+numero: 61
+data: 1901-01-10
+titolo: "Coi quali si aprono concorsi a premi per l'assicurazione contro i danni derivanti dalla mortalita' del bestiame agrario. (001U0061)"
+urn: urn:nir:stato:regio.decreto:1901-01-10;61
+codice_redazionale: 001U0061
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,69 +24,46 @@ Considerato che, ad accrescere efficacia all'assicurazione esercitata dalle Asso
 
 Vista la relazione presentata dalla Commissione giudicatrice del concorso bandito col R. decreto in data 28 agosto 1896;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, l'industria ed il Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, l'industria ed il Commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' aperto un concorso a premi fra le Associazioni mutue di proprietari ed agricoltori che esercitino l'assicurazione contro i danni derivanti dalla mortalita' del bestiame agrario. 
+ 
+ Al concorso possono prender parte anche le istituzioni che si propongano la riassicurazione o la federazione delle Associazioni allo scopo di equilibrare i rischi.
 
-  
-  
-E' aperto un concorso a premi fra le Associazioni mutue di proprietari ed agricoltori che esercitino l'assicurazione contro i danni derivanti dalla mortalita' del bestiame agrario.   
-  
-Al concorso possono prender parte anche le istituzioni che si propongano la riassicurazione o la federazione delle Associazioni allo scopo di equilibrare i rischi.   
-  
+## Art. 2.
 
-Art. 2
-------
+Sono stabiliti per questo concorso: 
+ 
+ un premio di L. 2000; 
+ 
+ due premi di L. 1000 ciascuno; 
+ 
+ tre premi di L. 700 ciascuno; 
+ 
+ sei premi di L. 500 ciascuno. 
+ 
+ Sono messe, inoltre, a disposizione della Commissione giudicatrice del concorso una medaglia d'oro, cinque d'argento e sei di bronzo.
 
-  
-  
-Sono stabiliti per questo concorso:   
-  
-un premio di L. 2000;   
-  
-due premi di L. 1000 ciascuno;   
-  
-tre premi di L. 700 ciascuno;   
-  
-sei premi di L. 500 ciascuno.   
-  
-Sono messe, inoltre, a disposizione della Commissione giudicatrice del concorso una medaglia d'oro, cinque d'argento e sei di bronzo.   
-  
+## Art. 3.
 
-Art. 3
-------
+Le domande di ammissione al concorso dovranno essere presentate entro il 31 marzo 1902.
 
-  
-  
-Le domande di ammissione al concorso dovranno essere presentate entro il 31 marzo 1902.   
-  
+## Art. 4.
 
-Art. 4
-------
+Un decreto del Nostro Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio fissera' le condizioni per l'ammissione al concorso, pel conferimento dei premi, nonche' le norme che dovranno disciplinare il concorso stesso.
 
-  
-  
-Un decreto del Nostro Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio fissera' le condizioni per l'ammissione al concorso, pel conferimento dei premi, nonche' le norme che dovranno disciplinare il concorso stesso.   
-  
+## Art. 5.
 
-Art. 5
-------
-
-  
-  
-Alla spesa occorrente, per i premi in denaro, per le medaglie e le indennita' alla Commissione giudicatrice, e' assegnata la somma di L. 10,000, che sara' pagata sul capitolo 32 del bilancio del Ministero d'Agricoltura, Industria e Commercio per l'esercizio corrente e sui capitoli corrispondenti degli esercizi successivi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 10 gennaio 1901.   
-  
-VITTORIO EMANUELE.   
-  
-Carcano.   
-  
-Visto, Il Guardasigilli: Gianturco.   
-  
+Alla spesa occorrente, per i premi in denaro, per le medaglie e le indennita' alla Commissione giudicatrice, e' assegnata la somma di L. 10,000, che sara' pagata sul capitolo 32 del bilancio del Ministero d'Agricoltura, Industria e Commercio per l'esercizio corrente e sui capitoli corrispondenti degli esercizi successivi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 gennaio 1901. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Carcano. 
+ 
+ Visto, Il Guardasigilli: Gianturco.

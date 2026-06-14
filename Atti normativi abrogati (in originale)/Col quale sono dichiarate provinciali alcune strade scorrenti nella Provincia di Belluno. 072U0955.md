@@ -1,16 +1,14 @@
-REGIO DECRETO 04 agosto 1872 n. 955
-
-
-REGIO DECRETO 04 agosto 1872 n. 955
-===================================
-
-Col quale sono dichiarate provinciali alcune strade scorrenti nella Provincia di Belluno. (072U0955)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/09/1872
+---
+tipo: REGIO DECRETO
+numero: 955
+data: 1872-08-04
+titolo: "Col quale sono dichiarate provinciali alcune strade scorrenti nella Provincia di Belluno. (072U0955)"
+urn: urn:nir:stato:regio.decreto:1872-08-04;955
+codice_redazionale: 072U0955
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,31 +24,24 @@ Visto l'art. 14 della legge 20 marzo 1865 sulle opere pubbliche;
 
 Udito l'avviso del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate provinciali per la provincia di Belluno le quattro seguenti strade, cioe':   
-  
-Strada da Arten a Fonzaso,   
-  
-Strada da Belluno ad Agordo,   
-  
-Strada da Tai ad Auronzo per Pieve,   
-  
-Strada dal confine colla provincia di Udine, per Sappada e Comelico, al confine Tirolese di Monte Croce.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, addi' 4 agosto 1872.   
-  
-VITTORIO EMANUELE.   
-  
-G. Devincenzi.   
-  
+Sono dichiarate provinciali per la provincia di Belluno le quattro seguenti strade, cioe': 
+ 
+ Strada da Arten a Fonzaso, 
+ 
+ Strada da Belluno ad Agordo, 
+ 
+ Strada da Tai ad Auronzo per Pieve, 
+ 
+ Strada dal confine colla provincia di Udine, per Sappada e Comelico, al confine Tirolese di Monte Croce. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, addi' 4 agosto 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Devincenzi.

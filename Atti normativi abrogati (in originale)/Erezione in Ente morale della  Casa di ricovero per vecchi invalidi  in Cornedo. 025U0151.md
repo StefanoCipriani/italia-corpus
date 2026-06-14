@@ -1,21 +1,21 @@
-REGIO DECRETO 25 gennaio 1925 n. 151
+---
+tipo: REGIO DECRETO
+numero: 151
+data: 1925-01-25
+titolo: "Erezione in Ente morale della « Casa di ricovero per vecchi invalidi », in Cornedo. (025U0151)"
+urn: urn:nir:stato:regio.decreto:1925-01-25;151
+codice_redazionale: 025U0151
+vigente: true
+---
 
-
-REGIO DECRETO 25 gennaio 1925 n. 151
-====================================
-
-Erezione in Ente morale della « Casa di ricovero per vecchi invalidi », in Cornedo. (025U0151)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/03/1925
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-151. R. decreto 25 gennaio 1925, col quale, sulla proposta del Ministro per l'interno, la « Casa di ricovero per vecchi invalidi », con sede nel comune di Cornedo, viene eretta in Ente morale sotto l'amministrazione della Congregazione di carita' di Cornedo, e ne e' approvato lo statuto organico.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 25 febbraio 1925.
+151.
+
+R. decreto 25 gennaio 1925, col quale, sulla proposta del Ministro per l'interno, la « Casa di ricovero per vecchi invalidi », con sede nel comune di Cornedo, viene eretta in Ente morale sotto l'amministrazione della Congregazione di carita' di Cornedo, e ne e' approvato lo statuto organico. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 25 febbraio 1925.

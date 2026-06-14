@@ -1,21 +1,21 @@
-REGIO DECRETO 04 aprile 1940 n. 926
+---
+tipo: REGIO DECRETO
+numero: 926
+data: 1940-04-04
+titolo: "Erezione in ente morale della fondazione «Lascito Sgarallino» a Rifredi, frazione del comune di Firenze. (040U0926)"
+urn: urn:nir:stato:regio.decreto:1940-04-04;926
+codice_redazionale: 040U0926
+vigente: true
+---
 
-
-REGIO DECRETO 04 aprile 1940 n. 926
-===================================
-
-Erezione in ente morale della fondazione «Lascito Sgarallino» a Rifredi, frazione del comune di Firenze. (040U0926)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/08/1940
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-926. R. decreto 4 aprile 1940, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, la fondazione «Lascito Sgarallino» a Rifredi, frazione del comune di Firenze, viene eretta in ente morale, sotto amministrazione autonoma e ne e' approvato lo statuto organico.   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 10 giugno 1940-XVIII
+926.
+
+R. decreto 4 aprile 1940, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, la fondazione «Lascito Sgarallino» a Rifredi, frazione del comune di Firenze, viene eretta in ente morale, sotto amministrazione autonoma e ne e' approvato lo statuto organico. 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 10 giugno 1940-XVIII

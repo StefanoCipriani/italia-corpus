@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 07 ottobre 1917 n. 1722
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1722
+data: 1917-10-07
+titolo: "Applicazione di tassa di famiglia. (017U1722)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-10-07;1722
+codice_redazionale: 017U1722
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 07 ottobre 1917 n. 1722
-===============================================
-
-Applicazione di tassa di famiglia. (017U1722)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 21/11/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1722. Decreto Luogotenenziale 7 ottobre 1917, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Imola (Bologna), di applicare nell'anno 1917 la tassa di famiglia con eccedenza dei limiti massimi normali, con una aliquota percentuale minima di L. 0,80 e con una massima di L. 2.
+1722.
+
+Decreto Luogotenenziale 7 ottobre 1917, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Imola (Bologna), di applicare nell'anno 1917 la tassa di famiglia con eccedenza dei limiti massimi normali, con una aliquota percentuale minima di L. 0,80 e con una massima di L. 2.

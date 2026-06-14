@@ -1,17 +1,17 @@
-REGIO DECRETO 16 novembre 1922 n. 1579
+---
+tipo: REGIO DECRETO
+numero: 1579
+data: 1922-11-16
+titolo: "Soppressione ed istituzione di Regio consolato. (022U1579)"
+urn: urn:nir:stato:regio.decreto:1922-11-16;1579
+codice_redazionale: 022U1579
+vigente: true
+---
 
-
-REGIO DECRETO 16 novembre 1922 n. 1579
-======================================
-
-Soppressione ed istituzione di Regio consolato. (022U1579)
-----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/12/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1579. Regio decreto 18 novembre, 1922, col quale, sulla proposta del ministro degli affari esteri, viene istituito un R. Consolato di seconda categoria a Valenza, con giurisdizione sulle provincie di Valenza, Almeria, Alicante, Castellon, Murcia, Albaceto, Jaön, Malaga, Granada.
+1579.
+
+Regio decreto 18 novembre, 1922, col quale, sulla proposta del ministro degli affari esteri, viene istituito un R. Consolato di seconda categoria a Valenza, con giurisdizione sulle provincie di Valenza, Almeria, Alicante, Castellon, Murcia, Albaceto, Jaön, Malaga, Granada.

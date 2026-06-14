@@ -1,56 +1,55 @@
-REGIO DECRETO 23 dicembre 1865 n. MDCCVIII
+---
+tipo: REGIO DECRETO
+numero: MDCCVIII
+data: 1865-12-23
+titolo: "Che autorizza la Camera di commercio e d'arti di Porto Maurizio ad imporre un'annua tassa sugli esercenti commerci ed industrie nel territorio dipendente dalla medesima. (6501708R)"
+urn: urn:nir:stato:regio.decreto:1865-12-23;1708
+codice_redazionale: 6501708R
+vigente: true
+---
 
+VITTORIO EMANUELE II
 
-REGIO DECRETO 23 dicembre 1865 n. MDCCVIII
-==========================================
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
-Che autorizza la Camera di commercio e d'arti di Porto Maurizio ad imporre un'annua tassa sugli esercenti commerci ed industrie nel territorio dipendente dalla medesima. (6501708R)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RE D'ITALIA
 
-Entrata in vigore del provvedimento: 28/01/1866
+Veduto l'art. 31 della Legge 6 luglio 1862, n.° 680;
 
-Art. 1
-------
+Veduta la deliberazione della Camera di commercio e d'arti di Porto Maurizio in data 11 novembre 1865;
 
-  
-  
-La Camera di commercio e d'arti di Porto Maurizio e' autorizzata ad imporre un'annua tassa sugli esercenti commercio ed industrie nel territorio dipendente dalla medesima.   
-  
+Veduto il Nostro Decreto del di' 10 agosto 1865, n.° 2441;
 
-Art. 2
-------
+Sentito il parere del Consiglio di Stato;
 
-  
-  
-Detta imposta, il cui ammontare sara' stabilito sulla base dei bilanci annuali della Camera debitamente approvati, verra' ripartita in ragione dei redditi industriali e commerciali desunti dalla categoria B della tabella dei redditi formata per l'applicazione della tassa di ricchezza mobile.   
-  
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-Art. 3
-------
+## Art. 1.
 
-  
-  
-Lo spoglio dei redditi suddetti sara' fatto a cura e spesa della Camera, presso gli agenti delle Tasse, i quali dovranno autenticarlo, e saranno, a cura e spese della Camera stessa, formati appositi ruoli di riscossione, i quali diventeranno esecutorii dopo che siano stati approvati dal Prefetto e pubblicati.   
-  
+La Camera di commercio e d'arti di Porto Maurizio e' autorizzata ad imporre un'annua tassa sugli esercenti commercio ed industrie nel territorio dipendente dalla medesima.
 
-Art. 4
-------
+## Art. 2.
 
-  
-  
-Il regolamento da redigersi per l'esecuzione del presente Decreto sara' sottoposto al visto del Ministro delle Finanze innanzi che venga applicato.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze li 23 dicembre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 4 gennaio 1866   
-  
-Reg.° 35 Atti del Governo a c. 5. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Quintino Sella.   
-  
+Detta imposta, il cui ammontare sara' stabilito sulla base dei bilanci annuali della Camera debitamente approvati, verra' ripartita in ragione dei redditi industriali e commerciali desunti dalla categoria B della tabella dei redditi formata per l'applicazione della tassa di ricchezza mobile.
+
+## Art. 3.
+
+Lo spoglio dei redditi suddetti sara' fatto a cura e spesa della Camera, presso gli agenti delle Tasse, i quali dovranno autenticarlo, e saranno, a cura e spese della Camera stessa, formati appositi ruoli di riscossione, i quali diventeranno esecutorii dopo che siano stati approvati dal Prefetto e pubblicati.
+
+## Art. 4.
+
+Il regolamento da redigersi per l'esecuzione del presente Decreto sara' sottoposto al visto del Ministro delle Finanze innanzi che venga applicato. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze li 23 dicembre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 4 gennaio 1866 
+ 
+ Reg.° 35 Atti del Governo a c. 5. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Quintino Sella.

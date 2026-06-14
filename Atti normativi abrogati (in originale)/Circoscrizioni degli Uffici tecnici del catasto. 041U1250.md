@@ -1,16 +1,14 @@
-REGIO DECRETO 24 ottobre 1941 n. 1250
-
-
-REGIO DECRETO 24 ottobre 1941 n. 1250
-=====================================
-
-Circoscrizioni degli Uffici tecnici del catasto. (041U1250)
------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/12/1941
+---
+tipo: REGIO DECRETO
+numero: 1250
+data: 1941-10-24
+titolo: "Circoscrizioni degli Uffici tecnici del catasto. (041U1250)"
+urn: urn:nir:stato:regio.decreto:1941-10-24;1250
+codice_redazionale: 041U1250
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,37 +30,26 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Gli Uffici tecnici del catasto di Forli', Pescara e Ragusa sono soppressi.
 
-  
-  
-Gli Uffici tecnici del catasto di Forli', Pescara e Ragusa sono soppressi.   
-  
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Le sedi e le circoscrizioni territoriali degli Uffici tecnici del catasto sono stabilite come appresso:   
-  
-Parte di provvedimento in formato grafico  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 24 ottobre 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-Registralo alla Corte dei conti, addi' 20 novembre 1941-XX   
-Atti del Governo, registro 439, foglio 76. - Mancini   
+Le sedi e le circoscrizioni territoriali degli Uffici tecnici del catasto sono stabilite come appresso: 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 24 ottobre 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ Registralo alla Corte dei conti, addi' 20 novembre 1941-XX 
+ Atti del Governo, registro 439, foglio 76. - Mancini

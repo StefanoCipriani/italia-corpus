@@ -1,19 +1,15 @@
-REGIO DECRETO 15 aprile 1909 n. CXXXIX
+---
+tipo: REGIO DECRETO
+numero: CXXXIX
+data: 1909-04-15
+titolo: "Riflettente approvazione di statuto. (0900139R)"
+urn: urn:nir:stato:regio.decreto:1909-04-15;139
+codice_redazionale: 0900139R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 aprile 1909 n. CXXXIX
-======================================
-
-Riflettente approvazione di statuto. (0900139R)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/06/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N.CXXXIX (Dato a Roma, il 15 aprile 1909) col quale si approva lo statuto della Cassa agraria di Balvano.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N.CXXXIX (Dato a Roma, il 15 aprile 1909) col quale si approva lo statuto della Cassa agraria di Balvano.

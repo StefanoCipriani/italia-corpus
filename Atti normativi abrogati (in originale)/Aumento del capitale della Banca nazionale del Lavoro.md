@@ -1,32 +1,29 @@
-REGIO DECRETO LEGISLATIVO 21 maggio 1946 n. 421
+---
+tipo: REGIO DECRETO LEGISLATIVO
+numero: 421
+data: 1946-05-21
+titolo: "Aumento del capitale della Banca nazionale del Lavoro."
+urn: urn:nir:stato:regio.decreto.legislativo:1946-05-21;421
+codice_redazionale: 046U0421
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO LEGISLATIVO 21 maggio 1946 n. 421
-===============================================
+Il Tesoro dello Stato e' autorizzato a conferire la somma di lire 500 milioni in aumento del capitale della Banca nazionale del Lavoro.
+ A tale conferimento verra' provveduto con stanziamenti da iscriversi nel bilancio del Ministero del tesoro, in ragione di lire 100 milioni per ciascuno degli esercizi finanziari dal 1946-47 al 1950-51.
 
-Aumento del capitale della Banca nazionale del Lavoro.
-------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+Con decreti del Ministro per il tesoro sara' provveduto alle occorrenti variazioni di bilancio.
 
-  
-Il Tesoro dello Stato e' autorizzato a conferire la somma di lire 500 milioni in aumento del capitale della Banca nazionale del Lavoro.  
-A tale conferimento verra' provveduto con stanziamenti da iscriversi nel bilancio del Ministero del tesoro, in ragione di lire 100 milioni per ciascuno degli esercizi finanziari dal 1946-47 al 1950-51.  
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
 
-Art. 2
-------
+ Dato a Roma, addi' 21 maggio 1946
 
-  
-Con decreti del Ministro per il tesoro sara' provveduto alle occorrenti variazioni di bilancio.  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.  
-  
-Dato a Roma, addi' 21 maggio 1946  
-  
-UMBERTO  
-  
-DE GASPERI - CORBINO - SCOCCIMARRO   
-Visto, il Guardasigilli: TOGLIATTI  
-Registrato alla Corte dei conti, addi' 5 giugno 1946  
-Atti del Governo, registro n. 10, foglio n. 185. - FRASCA  
+ UMBERTO
+
+ DE GASPERI - CORBINO - SCOCCIMARRO 
+Visto, il Guardasigilli: TOGLIATTI
+ Registrato alla Corte dei conti, addi' 5 giugno 1946
+ Atti del Governo, registro n. 10, foglio n. 185. - FRASCA

@@ -1,16 +1,14 @@
-REGIO DECRETO 19 maggio 1938 n. 1258
-
-
-REGIO DECRETO 19 maggio 1938 n. 1258
-====================================
-
-Modificazione della composizione della Commissione centrale per i collaudi in appello delle sostanze alimentari, dei materiali del corredo o vari, occorrenti alle Forze armate dello Stato. (038U1258)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/09/1938
+---
+tipo: REGIO DECRETO
+numero: 1258
+data: 1938-05-19
+titolo: "Modificazione della composizione della Commissione centrale per i collaudi in appello delle sostanze alimentari, dei materiali del corredo o vari, occorrenti alle Forze armate dello Stato. (038U1258)"
+urn: urn:nir:stato:regio.decreto:1938-05-19;1258
+codice_redazionale: 038U1258
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,31 +28,25 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra e Ministro Segretario di Stato per l'interno, per la marina e per l'aeronautica, di concerto con i Ministri Segretari di Stato per la grazia e giustizia, per le finanze, per l'agricoltura e le foreste, per le comunicazioni e per le corporazioni: Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra e Ministro Segretario di Stato per l'interno, per la marina e per l'aeronautica, di concerto con i Ministri Segretari di Stato per la grazia e giustizia, per le finanze, per l'agricoltura e le foreste, per le comunicazioni e per le corporazioni: Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La lettera a) dell'art. 1 del Regio decreto 30 dicembre 1929-VIII, n. 2431, recante modifiche alla composizione della Commissione centrale per i collaudi in appello, e' sostituita dalla seguente:   
-  
-«a) un tenente generale commissario del Regio esercito, della Regia marina o della Regia aeronautica, presidente».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 maggio 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Solmi - Di Revel   
-- Rossoni - Benni - Lantini   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 19 agosto 1938 - Anno XVI   
-  
-Atti del Governo, registro 400, foglio 87. - Mancini.   
+La lettera a) dell'art. 1 del Regio decreto 30 dicembre 1929-VIII, n. 2431, recante modifiche alla composizione della Commissione centrale per i collaudi in appello, e' sostituita dalla seguente: 
+ 
+ «a) un tenente generale commissario del Regio esercito, della Regia marina o della Regia aeronautica, presidente». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 maggio 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Solmi - Di Revel 
+ - Rossoni - Benni - Lantini 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 19 agosto 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 400, foglio 87. - Mancini.

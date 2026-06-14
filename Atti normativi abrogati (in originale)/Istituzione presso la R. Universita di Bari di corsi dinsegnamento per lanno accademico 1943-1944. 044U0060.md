@@ -1,112 +1,81 @@
-REGIO DECRETO 27 gennaio 1944 n. 60
+---
+tipo: REGIO DECRETO
+numero: 60
+data: 1944-01-27
+titolo: "Istituzione presso la R. Universita' di Bari di corsi d'insegnamento per l'anno accademico 1943-1944. (044U0060)"
+urn: urn:nir:stato:regio.decreto:1944-01-27;60
+codice_redazionale: 044U0060
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 gennaio 1944 n. 60
-===================================
+Presso la R. Universita' di Bari sono istituiti i seguenti corsi di insegnamento per l'anno accademico 1943-1944: 
+ 
+ 1) Corso per la laurea in Lettere: indirizzo classico e moderno; primi due anni di corso; 
+ 
+ 2) Corso per la laurea in Filosofia: primi due anni di corso; 
+ 
+ 3) Corso per la laurea in Chimica; 
+ 
+ 4) Corso per la laurea in Scienze Matematiche: primo anno di corso; 
+ 
+ 5) Corso per la laurea in Matematica e Fisica: primo anno di corso; 
+ 
+ 6) Corso per la laurea in Scienze Naturali; 
+ 
+ 7) Corso per la laurea in Ingegneria: biennio propedeutico; 
+ 
+ 8) Corso per la laurea in Medicina Veterinaria: primo biennio; 
+ 
+ 9) Corso per la laurea in Pedagogia: primi due anni di corso.
 
-Istituzione presso la R. Universita' di Bari di corsi d'insegnamento per l'anno accademico 1943-1944. (044U0060)
-----------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/02/1944
+I corsi hanno valore legale.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Presso la R. Universita' di Bari sono istituiti i seguenti corsi di insegnamento per l'anno accademico 1943-1944:   
-  
-1) Corso per la laurea in Lettere: indirizzo classico e moderno; primi due anni di corso;   
-  
-2) Corso per la laurea in Filosofia: primi due anni di corso;   
-  
-3) Corso per la laurea in Chimica;   
-  
-4) Corso per la laurea in Scienze Matematiche: primo anno di corso;   
-  
-5) Corso per la laurea in Matematica e Fisica: primo anno di corso;   
-  
-6) Corso per la laurea in Scienze Naturali;   
-  
-7) Corso per la laurea in Ingegneria: biennio propedeutico;   
-  
-8) Corso per la laurea in Medicina Veterinaria: primo biennio;   
-  
-9) Corso per la laurea in Pedagogia: primi due anni di corso.   
+I corsi sono costituiti dagli insegnamenti indicati dalle tabelle annesse al [R. decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md). 
+ 
+ Gli insegnamenti fondamentali sono impartiti in numero proporzionale agli anni di corso e quelli complementari sono indicati dai piani di studio di cui al seguente articolo.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-I corsi hanno valore legale.   
+I Piani di studio per ciascuno dei corsi di laurea indicati nell'art. 1 sono formulati e pubblicati dal Rettore, con proprio decreto, udito il Senato Accademico.
 
-Art. 3
-------
+## Art. 5.
 
-  
-  
-I corsi sono costituiti dagli insegnamenti indicati dalle tabelle annesse al [R. decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652).   
-  
-Gli insegnamenti fondamentali sono impartiti in numero proporzionale agli anni di corso e quelli complementari sono indicati dai piani di studio di cui al seguente articolo.   
+Ai primi anni di corso sono ammessi gli studenti in possesso dei titoli indicati per ciascun corso dalle tabelle annesse al [R. decreto 30 settembre 1938, n. 1652](Disposizioni%20sullordinamento%20didattico%20universitario.%20038U1652.md), ed agli anni successivi sono ammessi i provenienti da altre Universita' o Istituti di istruzione superiore, iscritti ai corrispondenti corsi di laurea.
 
-Art. 4
-------
+## Art. 6.
 
-  
-  
-I Piani di studio per ciascuno dei corsi di laurea indicati nell'art. 1 sono formulati e pubblicati dal Rettore, con proprio decreto, udito il Senato Accademico.   
+Il termine per le iscrizioni scade un mese dopo la data di pubblicazione del presente decreto.
 
-Art. 5
-------
+## Art. 7.
 
-  
-  
-Ai primi anni di corso sono ammessi gli studenti in possesso dei titoli indicati per ciascun corso dalle tabelle annesse al [R. decreto 30 settembre 1938, n. 1652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1652), ed agli anni successivi sono ammessi i provenienti da altre Universita' o Istituti di istruzione superiore, iscritti ai corrispondenti corsi di laurea.   
+La iscrizione ai corsi comporta la rinuncia a continuare gli studi, nell'anno accademico 1943-44, presso altra Universita' o Istituto di istruzione superiore e contemporanea nullita' di eventuali iscrizioni presso le Universita' o gli Istituti medesimi.
 
-Art. 6
-------
+## Art. 8.
 
-  
-  
-Il termine per le iscrizioni scade un mese dopo la data di pubblicazione del presente decreto.   
+Ai corsi si applicano le disposizioni delle leggi e dei regolamenti in vigore non in contrasto con quelle del presente decreto.
 
-Art. 7
-------
+## Art. 9.
 
-  
-  
-La iscrizione ai corsi comporta la rinuncia a continuare gli studi, nell'anno accademico 1943-44, presso altra Universita' o Istituto di istruzione superiore e contemporanea nullita' di eventuali iscrizioni presso le Universita' o gli Istituti medesimi.   
+Per il funzionamento dei corsi, e' assegnato alla R. Universita' di Bari un contributo di L. 150.000 da gravare sul bilancio del Ministero della Educazione Nazionale.
 
-Art. 8
-------
+## Art. 10.
 
-  
-  
-Ai corsi si applicano le disposizioni delle leggi e dei regolamenti in vigore non in contrasto con quelle del presente decreto.   
-
-Art. 9
-------
-
-  
-  
-Per il funzionamento dei corsi, e' assegnato alla R. Universita' di Bari un contributo di L. 150.000 da gravare sul bilancio del Ministero della Educazione Nazionale.   
-
-Art. 10
--------
-
-  
-  
-Il presente decreto entra in vigore dalla data della sua pubblicazione nella Gazzetta Ufficiale del Regno -serie speciale.   
-  
-Ordiniamo, a chiunque spetti, di osservare il presente decreto e di farlo osservare come legge dello Stato.   
-  
-Dal Comando Supremo, 27 gennaio 1944   
-  
-VITTORIO EMANUELE   
-  
-BADOGLIO - CUOMO   
-  
-Visto: (ai sensi del [R.D. 30 ottobre 1943, n. 1/B](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1943-10-30;1))   
-  
-Il Guardasigilli: BADOGLIO   
+Il presente decreto entra in vigore dalla data della sua pubblicazione nella Gazzetta Ufficiale del Regno -serie speciale. 
+ 
+ Ordiniamo, a chiunque spetti, di osservare il presente decreto e di farlo osservare come legge dello Stato. 
+ 
+ Dal Comando Supremo, 27 gennaio 1944 
+ 
+ VITTORIO EMANUELE 
+ 
+ BADOGLIO - CUOMO 
+ 
+ Visto: (ai sensi del [R.D. 30 ottobre 1943, n. 1/B](Apposizione%20del%20Visto%20alle%20leggi%20e%20ai%20decreti%20durante%20lassenza%20del%20Ministro%20Guardasigilli%20per%20contingenze%20di%20guerra.%20043U0001.md)) 
+ 
+ Il Guardasigilli: BADOGLIO

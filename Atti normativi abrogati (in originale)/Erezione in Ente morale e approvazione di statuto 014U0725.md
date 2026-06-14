@@ -1,19 +1,15 @@
-REGIO DECRETO 25 giugno 1914 n. 725
+---
+tipo: REGIO DECRETO
+numero: 725
+data: 1914-06-25
+titolo: "Erezione in Ente morale e approvazione di statuto (014U0725)"
+urn: urn:nir:stato:regio.decreto:1914-06-25;725
+codice_redazionale: 014U0725
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 giugno 1914 n. 725
-===================================
-
-Erezione in Ente morale e approvazione di statuto (014U0725)
-------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/08/1914
-
-Art. 1
-------
-
-  
-N. 725   
-  
-Regio Decreto 25 giugno 1914, col quale, sulla proposta del ministro dell'interno, l'asilo infantile di Rebbio (Como) e' eretto in ente morale, con amministrazione autonoma, e ne e' approvato lo statuto organico.   
-  
+N. 725 
+ 
+ Regio Decreto 25 giugno 1914, col quale, sulla proposta del ministro dell'interno, l'asilo infantile di Rebbio (Como) e' eretto in ente morale, con amministrazione autonoma, e ne e' approvato lo statuto organico.

@@ -1,16 +1,14 @@
-REGIO DECRETO 22 marzo 1877 n. 3733
-
-
-REGIO DECRETO 22 marzo 1877 n. 3733
-===================================
-
-Che separa la frazione di Cava Tigozzi, comune di Due Miglia, dalla sezione principale del collegio elettorale di Pizzighettone, e la aggrega a quella di Sesto e Uniti. (077U3733)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/04/1877
+---
+tipo: REGIO DECRETO
+numero: 3733
+data: 1877-03-22
+titolo: "Che separa la frazione di Cava Tigozzi, comune di Due Miglia, dalla sezione principale del collegio elettorale di Pizzighettone, e la aggrega a quella di Sesto e Uniti. (077U3733)"
+urn: urn:nir:stato:regio.decreto:1877-03-22;3733
+codice_redazionale: 077U3733
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Veduta l'istanza del comune di Due Miglia per la separazione della frazione di C
 
 Udito il consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del ministro segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
 
-proposta del ministro segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La frazione di Cava Tigozzi, appartenente al comune di Due Miglia, e' separata dalla sezione principale del collegio elettorale di Pizzighettone ed aggregata a quella di Sesto e Uniti.   
-  
-Ordiniamo che il presente decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 22 marzo 1877.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 3 aprile 1877   
-  
-Reg. 90 Atti del Governo a f. 81. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Mancini.   
-  
-G. NICOTERA.   
-  
+La frazione di Cava Tigozzi, appartenente al comune di Due Miglia, e' separata dalla sezione principale del collegio elettorale di Pizzighettone ed aggregata a quella di Sesto e Uniti. 
+ 
+ Ordiniamo che il presente decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 22 marzo 1877. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 3 aprile 1877 
+ 
+ Reg. 90 Atti del Governo a f. 81. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Mancini. 
+ 
+ G. NICOTERA.

@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 13 novembre 1940 n. 1619
-
-
-REGIO DECRETO-LEGGE 13 novembre 1940 n. 1619
-============================================
-
-Maggiore assegnazione allo stato di previsione della spesa del Ministero dell'interno per l'esercizio finanziario 1940-41. (040U1619)
--------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/12/1940.  
-Regio Decreto-Legge convertito dalla [L. 30 gennaio 1941, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-01-30;140) (in G.U. 29/03/1941, n. 76).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1619
+data: 1940-11-13
+titolo: "Maggiore assegnazione allo stato di previsione della spesa del Ministero dell'interno per l'esercizio finanziario 1940-41. (040U1619)"
+urn: urn:nir:stato:regio.decreto.legge:1940-11-13;1619
+codice_redazionale: 040U1619
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -27,32 +24,26 @@ Ritenuta la necessita' di urgenti misure di carattere finanziario;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Lo stanziamento del capitolo n. 84 «Spese per il servizio d'investigazione politica» dello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1940-41, e' aumentato di L. 13.000.000.   
-  
-Questo decreto andra' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato alle Assemblee legislative per la sua conversione in legge.   
-  
-Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 novembre 1910-XIX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 2 dicembre 1940-XIX   
-  
-Atti del Governo, registro 428, foglio 5. - MANCINI   
+Lo stanziamento del capitolo n. 84 «Spese per il servizio d'investigazione politica» dello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1940-41, e' aumentato di L. 13.000.000. 
+ 
+ Questo decreto andra' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato alle Assemblee legislative per la sua conversione in legge. 
+ 
+ Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 novembre 1910-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 2 dicembre 1940-XIX 
+ 
+ Atti del Governo, registro 428, foglio 5. - MANCINI

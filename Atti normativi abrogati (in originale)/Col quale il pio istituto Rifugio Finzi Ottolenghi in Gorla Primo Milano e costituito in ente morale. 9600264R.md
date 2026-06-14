@@ -1,21 +1,17 @@
-REGIO DECRETO 30 giugno 1896 n. CCLXIV
+---
+tipo: REGIO DECRETO
+numero: CCLXIV
+data: 1896-06-30
+titolo: "Col quale il pio istituto «Rifugio Finzi Ottolenghi» in Gorla Primo (Milano), e' costituito in ente morale. (9600264R)"
+urn: urn:nir:stato:regio.decreto:1896-06-30;264
+codice_redazionale: 9600264R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 giugno 1896 n. CCLXIV
-======================================
-
-Col quale il pio istituto «Rifugio Finzi Ottolenghi» in Gorla Primo (Milano), e' costituito in ente morale. (9600264R)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/08/1896
-
-Art. 1
-------
-
-  
-Col quale il pio istituto «Rifugio Finzi Ottolenghi» in Gorla Primo (Milano), e' costituito in ente morale, autorizzato ad accettare la donazione disposta dalla fondatrice e ne viene approvato lo statuto organico in data 8 agosto 1895, composto di 21 articoli. - Firmato UMBERTO - Contrassegnato Rudini' - Visto G. Costa.   
-  
-Registrato alla Corte dei Conti addi' 18 luglio 1896.   
-  
-Reg. 206. Atti del Governo a f. 205.   
-  
+Col quale il pio istituto «Rifugio Finzi Ottolenghi» in Gorla Primo (Milano), e' costituito in ente morale, autorizzato ad accettare la donazione disposta dalla fondatrice e ne viene approvato lo statuto organico in data 8 agosto 1895, composto di 21 articoli. - Firmato UMBERTO - Contrassegnato Rudini' - Visto G. Costa. 
+ 
+ Registrato alla Corte dei Conti addi' 18 luglio 1896. 
+ 
+ Reg. 206. Atti del Governo a f. 205.

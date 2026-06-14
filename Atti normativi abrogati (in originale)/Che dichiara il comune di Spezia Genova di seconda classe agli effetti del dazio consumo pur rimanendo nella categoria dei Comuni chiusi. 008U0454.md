@@ -1,22 +1,20 @@
-REGIO DECRETO 26 luglio 1908 n. 454
-
-
-REGIO DECRETO 26 luglio 1908 n. 454
-===================================
-
-Che dichiara il comune di Spezia (Genova), di seconda classe agli effetti del dazio consumo, pur rimanendo nella categoria dei Comuni chiusi. (008U0454)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/08/1908
+---
+tipo: REGIO DECRETO
+numero: 454
+data: 1908-07-26
+titolo: "Che dichiara il comune di Spezia (Genova), di seconda classe agli effetti del dazio consumo, pur rimanendo nella categoria dei Comuni chiusi. (008U0454)"
+urn: urn:nir:stato:regio.decreto:1908-07-26;454
+codice_redazionale: 008U0454
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D' ITALIA
 
-Veduti gli articoli 2 e 3 del testo unico di legge sui dazi consumo approvato con [R. decreto 7 maggio 1908, n. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-05-07;248) e [13 del regolamento](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1908-05-07;13) generale 27 febbraio 1898, n. 84;
+Veduti gli articoli 2 e 3 del testo unico di legge sui dazi consumo approvato con [R. decreto 7 maggio 1908, n. 248](Che%20approva%20lannesso%20testo%20unico%20di%20legge%20sui%20dazi%20interni%20di%20consumo.%20008U0248.md) e [13 del regolamento](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1908-05-07;13) generale 27 febbraio 1898, n. 84;
 
 Veduti i RR. decreti 22 luglio 1870, n. 5781 e 23 novembre 1885, n. 3542 (serie 3ª), coi quali furono approvate le tabelle di classificazione e di qualificazione dei Comuni rispetto al dazio consumo;
 
@@ -30,33 +28,22 @@ Veduto il Nostro decreto 22 luglio 1906, n. 442, col quale venne elevato ad annu
 
 Veduta la deliberazione in data 21 luglio 1908 della Commissione centrale del dazio consumo, adottata ai sensi e per gli effetti previsti negli articoli 87, 88 e 110 del sopra citato testo unico di legge 7 maggio 1908;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A decorrere dal tre agosto 1908, il comune di Spezia, in provincia di Genova, e' dichiarato di seconda classe agli effetti del dazio consumo, rimanendo nella categoria dei Comuni chiusi.
 
-  
-  
-A decorrere dal tre agosto 1908, il comune di Spezia, in provincia di Genova, e' dichiarato di seconda classe agli effetti del dazio consumo, rimanendo nella categoria dei Comuni chiusi.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Dal detto giorno, il canone daziario corrisposto allo Stato dal detto Comune e' aumentato da annue lire duecentoventunmilaottocentosessantatre e centesimi novantasette (L. 221,863.97), ad annue lire duecentosessantacinquemilatrecentoquarantasei e centesimi sessantasette (L. 265,346.67).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 26 luglio 1908.   
-  
-VITTORIO EMANUELE.   
-  
-Lacava.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+Dal detto giorno, il canone daziario corrisposto allo Stato dal detto Comune e' aumentato da annue lire duecentoventunmilaottocentosessantatre e centesimi novantasette (L. 221,863.97), ad annue lire duecentosessantacinquemilatrecentoquarantasei e centesimi sessantasette (L. 265,346.67). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 26 luglio 1908. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Lacava. 
+ 
+ Visto, Il guardasigilli: Orlando.

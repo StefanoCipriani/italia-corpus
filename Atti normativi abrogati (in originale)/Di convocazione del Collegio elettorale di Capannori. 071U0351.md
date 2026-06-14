@@ -1,16 +1,14 @@
-REGIO DECRETO 19 luglio 1871 n. 351
-
-
-REGIO DECRETO 19 luglio 1871 n. 351
-===================================
-
-Di convocazione del Collegio elettorale di Capannori. (071U0351)
-----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/08/1871
+---
+tipo: REGIO DECRETO
+numero: 351
+data: 1871-07-19
+titolo: "Di convocazione del Collegio elettorale di Capannori. (071U0351)"
+urn: urn:nir:stato:regio.decreto:1871-07-19;351
+codice_redazionale: 071U0351
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,33 +18,26 @@ Veduto il Messaggio in data del 7 luglio corrente, col quale l'Ufficio di Presid
 
 Veduto l'articolo 63 della Legge per le elezioni politiche 17 dicembre 1860, n. 4513;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Collegio elettorale di Capannori, n. 209, e' convocato pel giorno 6 agosto 1871, affinche' proceda alla elezione del proprio Deputato.   
-  
-Occorrendo una seconda votazione, essa avra' luogo giorno 13 dello stesso mese.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque   
-  
-spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche addi' 19 luglio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei con addi' 27 luglio 1871   
-  
-Reg. 57 Atti del Governo a c. 7. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+Il Collegio elettorale di Capannori, n. 209, e' convocato pel giorno 6 agosto 1871, affinche' proceda alla elezione del proprio Deputato. 
+ 
+ Occorrendo una seconda votazione, essa avra' luogo giorno 13 dello stesso mese. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque 
+ 
+ spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche addi' 19 luglio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei con addi' 27 luglio 1871 
+ 
+ Reg. 57 Atti del Governo a c. 7. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

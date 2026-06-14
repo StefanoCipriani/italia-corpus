@@ -1,16 +1,14 @@
-REGIO DECRETO 14 marzo 1880 n. 5343
-
-
-REGIO DECRETO 14 marzo 1880 n. 5343
-===================================
-
-Separa i comuni di Paderno Milanese e Cusano sul Seveso dalla sezione elettorale di Desio e forma una sezione distinta del collegio di Desio con sede in Paderno Milanese. (080U5343)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/04/1880
+---
+tipo: REGIO DECRETO
+numero: 5343
+data: 1880-03-14
+titolo: "Separa i comuni di Paderno Milanese e Cusano sul Seveso dalla sezione elettorale di Desio e forma una sezione distinta del collegio di Desio con sede in Paderno Milanese. (080U5343)"
+urn: urn:nir:stato:regio.decreto:1880-03-14;5343
+codice_redazionale: 080U5343
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,26 +26,19 @@ Ritenuto che gli elettori dei detti due comuni sommano a 83, e cosi' un numero s
 
 Considerando che per l'istituzione di una sezione elettorale in Paderno Milanese sara' reso piu' agevole l'esercizio del loro diritto agli elettori del comune stesso e del comune di Cusano sul Seveso;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Paderno Milanese e Cusano sul Seveso sono separati dalla sezione elettorale di Desio, e costituiranno una sezione distinta del Collegio di Desio, con sede in Paderno Milanese.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 marzo 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+I comuni di Paderno Milanese e Cusano sul Seveso sono separati dalla sezione elettorale di Desio, e costituiranno una sezione distinta del Collegio di Desio, con sede in Paderno Milanese. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

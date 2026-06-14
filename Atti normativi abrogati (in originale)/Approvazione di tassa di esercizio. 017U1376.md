@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 09 agosto 1917 n. 1376
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1376
+data: 1917-08-09
+titolo: "Approvazione di tassa di esercizio. (017U1376)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-08-09;1376
+codice_redazionale: 017U1376
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 09 agosto 1917 n. 1376
-==============================================
-
-Approvazione di tassa di esercizio. (017U1376)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 22/09/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1376. Decreto Luogotenenziale 9 agosto 1917, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Villa d'Alme' (Bergamo) di applicare la tassa di esercizio nella misura massima di L. 2000 dal 1° gennaio 1916 al 31 dicembre dell'anno in cui cessera' la guerra.
+1376.
+
+Decreto Luogotenenziale 9 agosto 1917, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Villa d'Alme' (Bergamo) di applicare la tassa di esercizio nella misura massima di L. 2000 dal 1° gennaio 1916 al 31 dicembre dell'anno in cui cessera' la guerra.

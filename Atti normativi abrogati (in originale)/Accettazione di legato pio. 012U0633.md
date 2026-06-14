@@ -1,19 +1,15 @@
-REGIO DECRETO 06 giugno 1912 n. 633
+---
+tipo: REGIO DECRETO
+numero: 633
+data: 1912-06-06
+titolo: "Accettazione di legato pio. (012U0633)"
+urn: urn:nir:stato:regio.decreto:1912-06-06;633
+codice_redazionale: 012U0633
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 giugno 1912 n. 633
-===================================
-
-Accettazione di legato pio. (012U0633)
---------------------------------------
-
-Entrata in vigore del provvedimento: 16/07/1912
-
-Art. 1
-------
-
-  
-N. 633   
-  
-Regio Decreto 6 giugno 1912, col quale, sulla proposta del ministro dell'interno, la Societa' di patronato pei liberati dal carcere nel circondario di Lodi, e' autorizzata ad eccettare il legato di lire mille, disposto in favore di essa dal defunto ingegnere cav. Angelo Bulloni.   
-  
+N. 633 
+ 
+ Regio Decreto 6 giugno 1912, col quale, sulla proposta del ministro dell'interno, la Societa' di patronato pei liberati dal carcere nel circondario di Lodi, e' autorizzata ad eccettare il legato di lire mille, disposto in favore di essa dal defunto ingegnere cav. Angelo Bulloni.

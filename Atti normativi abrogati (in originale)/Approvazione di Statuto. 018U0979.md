@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 23 giugno 1918 n. 979
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 979
+data: 1918-06-23
+titolo: "Approvazione di Statuto. (018U0979)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-06-23;979
+codice_redazionale: 018U0979
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 23 giugno 1918 n. 979
-=============================================
-
-Approvazione di Statuto. (018U0979)
------------------------------------
-
-Entrata in vigore del provvedimento: 09/08/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-979. Decreto Luogotenenziale 23 giugno 1918, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, e' approvato il nuovo statuto organico del Monte di pieta' di Montecosaro (Macerata).
+979.
+
+Decreto Luogotenenziale 23 giugno 1918, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, e' approvato il nuovo statuto organico del Monte di pieta' di Montecosaro (Macerata).

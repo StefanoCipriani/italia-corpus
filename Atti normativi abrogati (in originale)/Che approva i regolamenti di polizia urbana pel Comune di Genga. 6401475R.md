@@ -1,19 +1,15 @@
-REGIO DECRETO 11 dicembre 1864 n. MCCCCLXXV
+---
+tipo: REGIO DECRETO
+numero: MCCCCLXXV
+data: 1864-12-11
+titolo: "Che approva i regolamenti di polizia urbana pel Comune di Genga. (6401475R)"
+urn: urn:nir:stato:regio.decreto:1864-12-11;1475
+codice_redazionale: 6401475R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 dicembre 1864 n. MCCCCLXXV
-===========================================
-
-Che approva i regolamenti di polizia urbana pel Comune di Genga. (6401475R)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/12/1864
-
-Art. 1
-------
-
-  
-Che approva i regolamenti di polizia urbana deliberati dal Consiglio comunale di Genga.   
-  
-Torino 11 dicembre 1864   
-  
+Che approva i regolamenti di polizia urbana deliberati dal Consiglio comunale di Genga. 
+ 
+ Torino 11 dicembre 1864

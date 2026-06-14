@@ -1,16 +1,14 @@
-REGIO DECRETO 16 dicembre 1941 n. 1557
-
-
-REGIO DECRETO 16 dicembre 1941 n. 1557
-======================================
-
-Modificazione, per il tempo di guerra, dell'art. 81 del regolamento sui lavori del Genio militare, approvato con R. decreto 17 marzo 1932-X, n. 365. (041U1557)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/02/1942
+---
+tipo: REGIO DECRETO
+numero: 1557
+data: 1941-12-16
+titolo: "Modificazione, per il tempo di guerra, dell'art. 81 del regolamento sui lavori del Genio militare, approvato con R. decreto 17 marzo 1932-X, n. 365. (041U1557)"
+urn: urn:nir:stato:regio.decreto:1941-12-16;1557
+codice_redazionale: 041U1557
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di dio e per volonta' della nazione
 
@@ -28,39 +26,33 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, d'intesa col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, d'intesa col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Per la durata dell'attuale stato di guerra e fino a sei mesi dopo la cessazione di esso, l'art. 81 del regolamento sui lavori del Genio militare, approvato con R. decreto 17 marzo 1932-X, n. 365, e' sostituito dal seguente:   
-  
-«Ai comandanti del genio e' devoluto il collaudo di tutti i lavori del Genio militare nel territorio di loro competenza, tanto se eseguiti ad impresa quanto se eseguiti ad economia (in amministrazione, a cottimo o con le truppe).   
-  
-La designazione del collaudatore e' fatta invece dal Ministero della guerra:   
-  
-a) nei casi di prolungata assenza del comandante del genio titolare; ed in questi casi la designazione deve essere provocata in tempo utile da chi fa le veci del titolare;   
-b) nei casi speciali in cui, a giudizio del Ministero stesso, il comandante del genio abbia avuto diretta ingerenza nella condotta dei lavori;   
-c) in tutti i casi in cui il Ministero ritiene di nominare altro collaudatore.   
-Ciascun Comando del genio, per i lavori del proprio territorio, puo' pero' delegare lo stesso capo dell'ufficio esecutivo a compiere il collaudo od autorizzarlo ad ometterlo quando si tratti di lavori di mantenimento eseguiti ad economia (in amministrazione). Puo' provvedere personalmente o delegare ufficiali dipendenti (di grado non inferiore a quello del capo dell'ufficio esecutivo a cui furono affidati i lavori e che non abbiano avuto la sorveglianza o la direzione dei medesimi) al collaudo di lavori ad impresa di importo complessivo non superiore a L. 200.000; se l'importo dei lavori non supera le 25.000 lire puo' autorizzare l'omissione del collaudo.   
-  
-Quando, ai sensi del comma precedente, il collaudo venga omesso, il conto finale sara' munito dal capo dell'ufficio esecutivo di una dichiarazione di buona esecuzione conforme al mod. 33».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 dicembre 1941-XX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte del conti, addi' 28 gennaio 1942-XX   
-  
-Atti del Governo, registro 441, foglio 92. - MANCINI   
+Per la durata dell'attuale stato di guerra e fino a sei mesi dopo la cessazione di esso, l'art. 81 del regolamento sui lavori del Genio militare, approvato con R. decreto 17 marzo 1932-X, n. 365, e' sostituito dal seguente: 
+ 
+ «Ai comandanti del genio e' devoluto il collaudo di tutti i lavori del Genio militare nel territorio di loro competenza, tanto se eseguiti ad impresa quanto se eseguiti ad economia (in amministrazione, a cottimo o con le truppe). 
+ 
+ La designazione del collaudatore e' fatta invece dal Ministero della guerra: 
+ 
+a) nei casi di prolungata assenza del comandante del genio titolare; ed in questi casi la designazione deve essere provocata in tempo utile da chi fa le veci del titolare; 
+b) nei casi speciali in cui, a giudizio del Ministero stesso, il comandante del genio abbia avuto diretta ingerenza nella condotta dei lavori; 
+c) in tutti i casi in cui il Ministero ritiene di nominare altro collaudatore. 
+ Ciascun Comando del genio, per i lavori del proprio territorio, puo' pero' delegare lo stesso capo dell'ufficio esecutivo a compiere il collaudo od autorizzarlo ad ometterlo quando si tratti di lavori di mantenimento eseguiti ad economia (in amministrazione). Puo' provvedere personalmente o delegare ufficiali dipendenti (di grado non inferiore a quello del capo dell'ufficio esecutivo a cui furono affidati i lavori e che non abbiano avuto la sorveglianza o la direzione dei medesimi) al collaudo di lavori ad impresa di importo complessivo non superiore a L. 200.000; se l'importo dei lavori non supera le 25.000 lire puo' autorizzare l'omissione del collaudo. 
+ 
+ Quando, ai sensi del comma precedente, il collaudo venga omesso, il conto finale sara' munito dal capo dell'ufficio esecutivo di una dichiarazione di buona esecuzione conforme al mod. 33». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 dicembre 1941-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte del conti, addi' 28 gennaio 1942-XX 
+ 
+ Atti del Governo, registro 441, foglio 92. - MANCINI

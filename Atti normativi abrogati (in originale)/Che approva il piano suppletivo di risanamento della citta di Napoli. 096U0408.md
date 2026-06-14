@@ -1,16 +1,14 @@
-REGIO DECRETO 31 agosto 1896 n. 408
-
-
-REGIO DECRETO 31 agosto 1896 n. 408
-===================================
-
-Che approva il piano suppletivo di risanamento della citta' di Napoli. (096U0408)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/10/1896
+---
+tipo: REGIO DECRETO
+numero: 408
+data: 1896-08-31
+titolo: "Che approva il piano suppletivo di risanamento della citta' di Napoli. (096U0408)"
+urn: urn:nir:stato:regio.decreto:1896-08-31;408
+codice_redazionale: 096U0408
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,35 +24,24 @@ Veduta la deliberazione in data 7 gennaio 1896, con la quale il Consiglio comuna
 
 Veduto il parere emesso dal Consiglio superiore dei Lavori Pubblici nella sua adunanza del 14 agosto 1896;
 
-Veduta la [legge 15 gennaio 1885 n. 2892](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892) (serie 3ª);
+Veduta la [legge 15 gennaio 1885 n. 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892) (serie 3ª);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il predetto piano suppletivo di risanamento della citta' di Napoli, composto di n. 4 tavole planimetriche portanti la data del 2 luglio 1896 e firmate dall'Ispettore Capo comm. Adolfo Giambarba, e' approvato.
 
-  
-  
-Il predetto piano suppletivo di risanamento della citta' di Napoli, composto di n. 4 tavole planimetriche portanti la data del 2 luglio 1896 e firmate dall'Ispettore Capo comm. Adolfo Giambarba, e' approvato.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Le dette planimetrie saranno firmate, d' ordine Nostro, dal Ministro proponente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 31 agosto 1896.   
-  
-UMBERTO.   
-  
-Rudini'.   
-  
-Visto, Il Guardasigilli: G. Costa.   
-  
+Le dette planimetrie saranno firmate, d' ordine Nostro, dal Ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 31 agosto 1896. 
+ 
+ UMBERTO. 
+ 
+ Rudini'. 
+ 
+ Visto, Il Guardasigilli: G. Costa.

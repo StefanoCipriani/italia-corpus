@@ -1,16 +1,14 @@
-REGIO DECRETO 27 giugno 1861 n. 241
-
-
-REGIO DECRETO 27 giugno 1861 n. 241
-===================================
-
-Relativo agli stranieri che fanno parte del Corpo dei Volontari italiani (061U0241)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/11/1861
+---
+tipo: REGIO DECRETO
+numero: 241
+data: 1861-06-27
+titolo: "Relativo agli stranieri che fanno parte del Corpo dei Volontari italiani (061U0241)"
+urn: urn:nir:stato:regio.decreto:1861-06-27;241
+codice_redazionale: 061U0241
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,31 +20,20 @@ Visto il parere emesso con processo verbale in data 12 giugno corrente dalla Com
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio, reggente il portafoglio della Guerra; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio, reggente il portafoglio della Guerra; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Fra gli stranieri che fanno tuttora parte del Corpo dei volontari italiani potranno in via d'eccezione essere conservati tutti quelli che hanno prestati distinti servizi o che sono emigrati politici.
 
-  
-  
-Fra gli stranieri che fanno tuttora parte del Corpo dei volontari italiani potranno in via d'eccezione essere conservati tutti quelli che hanno prestati distinti servizi o che sono emigrati politici.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Per gli stranieri che, non trovandosi nelle condizioni dell'articolo precedente, debbono essere congedati, la gratificazione di cui all'art. 2 del Nostro Decreto 11 novembre 1860 potra' estendersi da sei mesi ad un anno di stipendio, a seconda dei singoli casi, avuto riguardo ai lunghi viaggi per ripatriare.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 27 giugno 1861.   
-  
-VITTORIO EMANUELE   
-  
-B. RICASOLI.   
-  
+Per gli stranieri che, non trovandosi nelle condizioni dell'articolo precedente, debbono essere congedati, la gratificazione di cui all'art. 2 del Nostro Decreto 11 novembre 1860 potra' estendersi da sei mesi ad un anno di stipendio, a seconda dei singoli casi, avuto riguardo ai lunghi viaggi per ripatriare. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 27 giugno 1861. 
+ 
+ VITTORIO EMANUELE 
+ 
+ B. RICASOLI.

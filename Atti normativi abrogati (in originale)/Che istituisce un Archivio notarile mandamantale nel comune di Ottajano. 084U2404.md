@@ -1,16 +1,14 @@
-REGIO DECRETO 08 giugno 1884 n. 2404
-
-
-REGIO DECRETO 08 giugno 1884 n. 2404
-====================================
-
-Che istituisce un Archivio notarile mandamantale nel comune di Ottajano. (084U2404)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/07/1884
+---
+tipo: REGIO DECRETO
+numero: 2404
+data: 1884-06-08
+titolo: "Che istituisce un Archivio notarile mandamantale nel comune di Ottajano. (084U2404)"
+urn: urn:nir:stato:regio.decreto:1884-06-08;2404
+codice_redazionale: 084U2404
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,24 +18,18 @@ Visti gli articoli 3, 101 e 105 del testo unico delle leggi sul riordinamento de
 
 Vista la domanda inoltrata dal comune di Ottajano, unico interessato, per la istituzione di un Archivio notarile mandamentale in quel luogo, e l'analoga deliberazione debitamente approvata dalla Deputazione provinciale di Napoli;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un Archivio notarile mandamentale nel comune di Ottajano, capoluogo di mandamento, distretto di Napoli.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 giugno 1884.   
-  
-UMBERTO.   
-  
-N. Ferracciu'.   
-  
-Visto, Il Guardasigilli: Ferracciu'.   
+E' istituito un Archivio notarile mandamentale nel comune di Ottajano, capoluogo di mandamento, distretto di Napoli. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 giugno 1884. 
+ 
+ UMBERTO. 
+ 
+ N. Ferracciu'. 
+ 
+ Visto, Il Guardasigilli: Ferracciu'.

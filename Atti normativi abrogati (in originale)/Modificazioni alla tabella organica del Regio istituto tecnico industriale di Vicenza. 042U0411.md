@@ -1,16 +1,14 @@
-REGIO DECRETO 23 febbraio 1942 n. 411
-
-
-REGIO DECRETO 23 febbraio 1942 n. 411
-=====================================
-
-Modificazioni alla tabella organica del Regio istituto tecnico industriale di Vicenza. (042U0411)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/05/1942
+---
+tipo: REGIO DECRETO
+numero: 411
+data: 1942-02-23
+titolo: "Modificazioni alla tabella organica del Regio istituto tecnico industriale di Vicenza. (042U0411)"
+urn: urn:nir:stato:regio.decreto:1942-02-23;411
+codice_redazionale: 042U0411
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,37 +24,24 @@ Considerata la necessita' di modificare la parte I della tabella annessa al cita
 
 Su proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-Art. 1
-------
+## Art. 1.
 
-  
-  
-A decorrere dal 16 ottobre 1941-XIX presso il Regio istituto tecnico industriale di Vicenza e' istituito un posto di ruolo (ruolo A, gruppo A, gradi dal 10° al 7°) per l'insegnamento delle seguenti materie: costruzioni radioelettriche e tecnologie relative - telegrafia e telefonia - disegno in tutte le classi del corso di specializzazione per radiotecnici.   
-  
-Dalla stessa data l'incarico per l'insegnamento della telegrafia e telefonia viene soppresso.   
-  
-Conseguentemente la tabella organica annessa al citato R. decreto 24 agosto 1933-XI, n. 2195, viene sostituita da quella allegata al presente decreto vista e firmata, d'ordine Nostro, dal Ministro proponente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 febbraio 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-BOTTAI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 2 maggio 1942-XX   
-  
-Atti del Governo, registro 445, foglio 6. - MANCINI   
-  
-  
-
-Tabella organica
-
- Tabella organica   
-del R. Istituto tecnico industriale di Vicenza (a).   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=042U041100100010110001&dgu=1942-05-05&art.dataPubblicazioneGazzetta=1942-05-05&art.codiceRedazionale=042U0411)
-  
+A decorrere dal 16 ottobre 1941-XIX presso il Regio istituto tecnico industriale di Vicenza e' istituito un posto di ruolo (ruolo A, gruppo A, gradi dal 10° al 7°) per l'insegnamento delle seguenti materie: costruzioni radioelettriche e tecnologie relative - telegrafia e telefonia - disegno in tutte le classi del corso di specializzazione per radiotecnici. 
+ 
+ Dalla stessa data l'incarico per l'insegnamento della telegrafia e telefonia viene soppresso. 
+ 
+ Conseguentemente la tabella organica annessa al citato R. decreto 24 agosto 1933-XI, n. 2195, viene sostituita da quella allegata al presente decreto vista e firmata, d'ordine Nostro, dal Ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 febbraio 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ BOTTAI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 2 maggio 1942-XX 
+ 
+ Atti del Governo, registro 445, foglio 6. - MANCINI

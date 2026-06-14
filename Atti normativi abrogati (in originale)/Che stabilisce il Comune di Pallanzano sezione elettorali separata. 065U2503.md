@@ -1,16 +1,14 @@
-REGIO DECRETO 18 settembre 1865 n. 2503
-
-
-REGIO DECRETO 18 settembre 1865 n. 2503
-=======================================
-
-Che stabilisce il Comune di Pallanzano sezione elettorali separata. (065U2503)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/10/1865
+---
+tipo: REGIO DECRETO
+numero: 2503
+data: 1865-09-18
+titolo: "Che stabilisce il Comune di Pallanzano sezione elettorali separata. (065U2503)"
+urn: urn:nir:stato:regio.decreto:1865-09-18;2503
+codice_redazionale: 065U2503
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune di Pallanzano piu' di 40 elettori e piu' di altrettanti n
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Pallanzano che sino ad ora fece parte della sezione detta di Corniglio del Collegio elettorale di Langhirano, n.° 311, costituira' d'ora in poi sezione separata del Collegio medesimo.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Firenze addi' 18 settembre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 30 settembre 1865   
-  
-Reg.° 33 Atti del Governo a c. 220. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
-  
+Il Comune di Pallanzano che sino ad ora fece parte della sezione detta di Corniglio del Collegio elettorale di Langhirano, n.° 311, costituira' d'ora in poi sezione separata del Collegio medesimo. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Firenze addi' 18 settembre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 30 settembre 1865 
+ 
+ Reg.° 33 Atti del Governo a c. 220. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli.

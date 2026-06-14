@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 15 ottobre 1916 n. 1438
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1438
+data: 1916-10-15
+titolo: "Erezione in ente morale. (016U1438)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-10-15;1438
+codice_redazionale: 016U1438
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 15 ottobre 1916 n. 1438
-===============================================
-
-Erezione in ente morale. (016U1438)
------------------------------------
-
-Entrata in vigore del provvedimento: 21/11/1916
-
-Art. 1
-------
-
-  
-N. 1438   
-  
-Decreto Luogotenenziale 15 ottobre 1916, col quale, sulla proposta del ministro dell'interno, l'ospizio di San Giuseppe di Bordighera e' eretto in ente morale e ne e' approvato lo statuto organico.   
-  
+N. 1438 
+ 
+ Decreto Luogotenenziale 15 ottobre 1916, col quale, sulla proposta del ministro dell'interno, l'ospizio di San Giuseppe di Bordighera e' eretto in ente morale e ne e' approvato lo statuto organico.

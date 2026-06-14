@@ -1,19 +1,15 @@
-REGIO DECRETO 08 febbraio 1914 n. 112
+---
+tipo: REGIO DECRETO
+numero: 112
+data: 1914-02-08
+titolo: "Dichiarazione di opere di pubblica utilita'. (014U0112)"
+urn: urn:nir:stato:regio.decreto:1914-02-08;112
+codice_redazionale: 014U0112
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 febbraio 1914 n. 112
-=====================================
-
-Dichiarazione di opere di pubblica utilita'. (014U0112)
--------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/03/1914
-
-Art. 1
-------
-
-  
-N. 112   
-  
-Regio Decreto 8 febbraio 1914, col quale, sulla proposta del ministro della guerra, sono dichiarate di pubblica utilita' le opere occorrenti per la sistemazione dei servizi aeronautici nella provincia di Roma.   
-  
+N. 112 
+ 
+ Regio Decreto 8 febbraio 1914, col quale, sulla proposta del ministro della guerra, sono dichiarate di pubblica utilita' le opere occorrenti per la sistemazione dei servizi aeronautici nella provincia di Roma.

@@ -1,22 +1,19 @@
-REGIO DECRETO 28 luglio 1895 n. DXVII
+---
+tipo: REGIO DECRETO
+numero: DXVII
+data: 1895-07-28
+titolo: "Che concentra l'opera pia Delfino nella congregazione di carita' di Genova. (9500517R)"
+urn: urn:nir:stato:regio.decreto:1895-07-28;517
+codice_redazionale: 9500517R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 luglio 1895 n. DXVII
-=====================================
+Con cui l'opera pia Delfino e' concentrata nella congregazione di carita' di Genova. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 2 dicembre
 
-Che concentra l'opera pia Delfino nella congregazione di carita' di Genova. (9500517R)
---------------------------------------------------------------------------------------
+1895.
 
-Entrata in vigore del provvedimento: 26/12/1895
-
-Art. 1
-------
-
-Con cui l'opera pia Delfino e' concentrata nella congregazione di carita' di Genova. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 2 dicembre
-
-1895. 
-  
-  
 Reg. 202. Atti del Governo a f. 69.

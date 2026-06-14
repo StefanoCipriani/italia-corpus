@@ -1,32 +1,27 @@
-REGIO DECRETO 09 aprile 1893 n. CCVIII
+---
+tipo: REGIO DECRETO
+numero: CCVIII
+data: 1893-04-09
+titolo: "Che concentra nella congregazione di carita' di Vinadio (Cuneo) i legati Fiori ed Arnaud. (9300208R)"
+urn: urn:nir:stato:regio.decreto:1893-04-09;208
+codice_redazionale: 9300208R
+vigente: true
+---
 
+## Articolo unico.
 
-REGIO DECRETO 09 aprile 1893 n. CCVIII
-======================================
-
-Che concentra nella congregazione di carita' di Vinadio (Cuneo) i legati Fiori ed Arnaud. (9300208R)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/05/1893
-
-Articolo unico
---------------
-
-  
-  
-I legati Fiore ed Arnaud sono concentrati nella congregazione di carita' di Vinadio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 aprile 1893.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 21 aprile 1893.   
-  
-Reg. 191. Atti del Governo a f. 70. Gaffino.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Bonacci.   
-  
-G. Giolitti.   
-  
+I legati Fiore ed Arnaud sono concentrati nella congregazione di carita' di Vinadio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 aprile 1893. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 21 aprile 1893. 
+ 
+ Reg. 191. Atti del Governo a f. 70. Gaffino. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Bonacci. 
+ 
+ G. Giolitti.

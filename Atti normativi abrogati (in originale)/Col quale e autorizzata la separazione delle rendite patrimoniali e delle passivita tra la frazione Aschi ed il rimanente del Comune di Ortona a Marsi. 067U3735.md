@@ -1,16 +1,14 @@
-REGIO DECRETO 09 maggio 1867 n. 3735
-
-
-REGIO DECRETO 09 maggio 1867 n. 3735
-====================================
-
-Col quale e' autorizzata la separazione delle rendite patrimoniali e delle passivita' tra la frazione Aschi ed il rimanente del Comune di Ortona a Marsi. (067U3735)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/06/1867
+---
+tipo: REGIO DECRETO
+numero: 3735
+data: 1867-05-09
+titolo: "Col quale e' autorizzata la separazione delle rendite patrimoniali e delle passivita' tra la frazione Aschi ed il rimanente del Comune di Ortona a Marsi. (067U3735)"
+urn: urn:nir:stato:regio.decreto:1867-05-09;3735
+codice_redazionale: 067U3735
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Vista la domanda sporta dalla maggioranza dei contribuenti della frazione d'Asch
 
 Vista la deliberazione del Consiglio comunale di Ortona a Marsi in data 31 agosto 1865;
 
-Visto
------
+Visto l'articolo 16 della Legge sull'amministrazione comunale e provinciale in data 20 marzo 1865; Abbiamo decretato e decretiamo:
 
-l'articolo 16 della Legge sull'amministrazione comunale e provinciale in data 20 marzo 1865; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' autorizzata la separazione delle rendite patrimoniali e delle passivita' tra la frazione Aschi ed il rimanente del Comune di Ortona a Marsi.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 9 maggio 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 8 giugno 1867   
-  
-Reg. 40 Atti del Governo a c. 72. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Tecchio.   
-  
-U. Rattazzi.   
-  
+E' autorizzata la separazione delle rendite patrimoniali e delle passivita' tra la frazione Aschi ed il rimanente del Comune di Ortona a Marsi. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 9 maggio 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 8 giugno 1867 
+ 
+ Reg. 40 Atti del Governo a c. 72. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Tecchio. 
+ 
+ U. Rattazzi.

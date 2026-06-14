@@ -1,16 +1,14 @@
-REGIO DECRETO 20 ottobre 1876 n. 3428
-
-
-REGIO DECRETO 20 ottobre 1876 n. 3428
-=====================================
-
-Col quale il comune di Degagna e' separato dalla sezione principale del Collegio elettorale di Salo', e quello di Vobarno e' separato dalla sezione elettorale di Toscolano, e formeranno una sezione elettorale distinta di detto Collegio colla sede a Vobarno. (076U3428)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/11/1876
+---
+tipo: REGIO DECRETO
+numero: 3428
+data: 1876-10-20
+titolo: "Col quale il comune di Degagna e' separato dalla sezione principale del Collegio elettorale di Salo', e quello di Vobarno e' separato dalla sezione elettorale di Toscolano, e formeranno una sezione elettorale distinta di detto Collegio colla sede a Vobarno. (076U3428)"
+urn: urn:nir:stato:regio.decreto:1876-10-20;3428
+codice_redazionale: 076U3428
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Degagna e' separato dalla sezione principale del Collegio elettorale di Salo', e quello di Vobarno e' separato dalla sezione elettorale di Toscolano, e formeranno una sezione elettorale distinta di detto Collegio, colla sede a Vobarno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 20 ottobre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
-  
+Il comune di Degagna e' separato dalla sezione principale del Collegio elettorale di Salo', e quello di Vobarno e' separato dalla sezione elettorale di Toscolano, e formeranno una sezione elettorale distinta di detto Collegio, colla sede a Vobarno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 20 ottobre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

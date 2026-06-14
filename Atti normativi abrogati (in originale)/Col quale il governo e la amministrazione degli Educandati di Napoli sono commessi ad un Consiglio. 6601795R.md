@@ -1,58 +1,41 @@
-REGIO DECRETO 22 agosto 1866 n. MDCCXCV
+---
+tipo: REGIO DECRETO
+numero: MDCCXCV
+data: 1866-08-22
+titolo: "Col quale il governo e la amministrazione degli Educandati di Napoli sono commessi ad un Consiglio. (6601795R)"
+urn: urn:nir:stato:regio.decreto:1866-08-22;1795
+codice_redazionale: 6601795R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 agosto 1866 n. MDCCXCV
-=======================================
+Il governo degli Educandati di Napoli e' commesso ad un Consiglio al quale spetta pure l'amministrazione di tutti i beni mobili ed immobili, effetti, censi e cediti che ne formano la dotazione. 
+ 
+ Questo Consiglio e' composto di un Presidente nominato dal Re, di un Consigliere provinciale, di due Consiglieri comunali di Napoli eletti dai rispettivi Consigli e di tre altre persone elette dal Ministero della pubblica Istruzione. Il Presidente e li Consiglieri durano in ufficio tre anni e possono essere riconfermati.
 
-Col quale il governo e la amministrazione degli Educandati di Napoli sono commessi ad un Consiglio. (6601795R)
---------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 02/10/1866
+Il Ministro designera' tre Consiglieri a ciascuno dei quali sara' specialmente affidata la vigilanza di uno dei tre Educandati tanto per cio' che riguarda il governo economico come altresi' per la disciplina ed istruzione. L'azione del Consiglio sui tre Istituti sara' esclusivamente esercitata per mezzo dei tre Consiglieri delegati.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Il governo degli Educandati di Napoli e' commesso ad un Consiglio al quale spetta pure l'amministrazione di tutti i beni mobili ed immobili, effetti, censi e cediti che ne formano la dotazione.   
-  
-Questo Consiglio e' composto di un Presidente nominato dal Re, di un Consigliere provinciale, di due Consiglieri comunali di Napoli eletti dai rispettivi Consigli e di tre altre persone elette dal Ministero della pubblica Istruzione. Il Presidente e li Consiglieri durano in ufficio tre anni e possono essere riconfermati.   
-  
+L'attuale Consiglio cessa per essere riordinato secondo le norme prescritte nel presente Decreto.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-Il Ministro designera' tre Consiglieri a ciascuno dei quali sara' specialmente affidata la vigilanza di uno dei tre Educandati tanto per cio' che riguarda il governo economico come altresi' per la disciplina ed istruzione. L'azione del Consiglio sui tre Istituti sara' esclusivamente esercitata per mezzo dei tre Consiglieri delegati.   
-  
-
-Art. 3
-------
-
-  
-  
-L'attuale Consiglio cessa per essere riordinato secondo le norme prescritte nel presente Decreto.   
-  
-
-Art. 4
-------
-
-  
-  
-Uno speciale Regolamento determinera' le attribuzioni del Consiglio e dei Delegati.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 22 agosto 1866.   
-  
-EUGENIO DI SAVOJA   
-  
-Registrato alla Corte dei conti addi' 5 settembre 1866   
-  
-Reg.° 37 Atti del Governo a c. 78. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Borgatti.   
-  
-Berti.   
-  
+Uno speciale Regolamento determinera' le attribuzioni del Consiglio e dei Delegati. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 22 agosto 1866. 
+ 
+ EUGENIO DI SAVOJA 
+ 
+ Registrato alla Corte dei conti addi' 5 settembre 1866 
+ 
+ Reg.° 37 Atti del Governo a c. 78. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ Berti.

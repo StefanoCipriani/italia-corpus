@@ -1,21 +1,17 @@
-REGIO DECRETO 10 settembre 1923 n. 2111
+---
+tipo: REGIO DECRETO
+numero: 2111
+data: 1923-09-10
+titolo: "Istituzione del Regio museo d'etnografia, in Tivoli. (023U2111)"
+urn: urn:nir:stato:regio.decreto:1923-09-10;2111
+codice_redazionale: 023U2111
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 settembre 1923 n. 2111
-=======================================
-
-Istituzione del Regio museo d'etnografia, in Tivoli. (023U2111)
----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/11/1923
-
-Art. 1
-------
-
- N. 2111 R. decreto 10 settembre 1923, col quale, sulla proposta del Ministro dell'istruzione pubblica viene istituito il Regio museo d'etnografia italiana, con sede nei locali della Villa d'Este in Tivoli.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 11 ottobre 1923.   
-  
-  
+N. 2111 R. decreto 10 settembre 1923, col quale, sulla proposta del Ministro dell'istruzione pubblica viene istituito il Regio museo d'etnografia italiana, con sede nei locali della Villa d'Este in Tivoli. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 11 ottobre 1923.

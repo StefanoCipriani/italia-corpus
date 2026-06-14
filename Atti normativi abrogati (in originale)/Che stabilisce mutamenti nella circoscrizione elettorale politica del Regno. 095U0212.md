@@ -1,19 +1,15 @@
-REGIO DECRETO 21 aprile 1895 n. 212
+---
+tipo: REGIO DECRETO
+numero: 212
+data: 1895-04-21
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0212)"
+urn: urn:nir:stato:regio.decreto:1895-04-21;212
+codice_redazionale: 095U0212
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 aprile 1895 n. 212
-===================================
-
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0212)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/05/1895
-
-Art. 1
-------
-
-  
-Colla data 21 aprile 1895:   
-  
-N. 212. Il Comune di Canzano e' aggregato alla 3ª Sezione elettorale di Teramo del Collegio di Teramo.   
-  
+Colla data 21 aprile 1895: 
+ 
+ N. 212. Il Comune di Canzano e' aggregato alla 3ª Sezione elettorale di Teramo del Collegio di Teramo.

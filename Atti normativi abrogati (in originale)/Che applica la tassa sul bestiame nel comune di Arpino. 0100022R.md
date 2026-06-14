@@ -1,21 +1,17 @@
-REGIO DECRETO 24 gennaio 1901 n. XXII
+---
+tipo: REGIO DECRETO
+numero: XXII
+data: 1901-01-24
+titolo: "Che applica la tassa sul bestiame nel comune di Arpino. (0100022R)"
+urn: urn:nir:stato:regio.decreto:1901-01-24;22
+codice_redazionale: 0100022R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 gennaio 1901 n. XXII
-=====================================
-
-Che applica la tassa sul bestiame nel comune di Arpino. (0100022R)
-------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/02/1901
-
-Art. 1
-------
-
-  
-E' data facolta' al comune di Arpino di applicare nel 1900 la tassa sul bestiame con limiti massimi superiori del doppio a quelli normali. - Firmato VITTORIO EMANUELE - Controfirmato Chimirri - Visto E. Gianturco.   
-  
-Registrato alla Corte dei conti addi' 6 febbraio 1901.   
-  
-Reg. 227. Atti del Governo a f. 97.   
-  
+E' data facolta' al comune di Arpino di applicare nel 1900 la tassa sul bestiame con limiti massimi superiori del doppio a quelli normali. - Firmato VITTORIO EMANUELE - Controfirmato Chimirri - Visto E. Gianturco. 
+ 
+ Registrato alla Corte dei conti addi' 6 febbraio 1901. 
+ 
+ Reg. 227. Atti del Governo a f. 97.

@@ -1,19 +1,15 @@
-REGIO DECRETO 08 gennaio 1914 n. 32
+---
+tipo: REGIO DECRETO
+numero: 32
+data: 1914-01-08
+titolo: "Erezione in ente morale. (014U0032)"
+urn: urn:nir:stato:regio.decreto:1914-01-08;32
+codice_redazionale: 014U0032
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 gennaio 1914 n. 32
-===================================
-
-Erezione in ente morale. (014U0032)
------------------------------------
-
-Entrata in vigore del provvedimento: 19/02/1914
-
-Art. 1
-------
-
-  
-N. 32   
-  
-Regio Decreto 8 gennaio 1914, col quale, sulla proposta del ministro dell'interno, l'opera Pia Arcangelo Taurino di Sancesario (Lecco), e' eretta in ente morale sotto la gestione della locale Congregazione di carita' e ne e' approvato lo statuto organico.   
-  
+N. 32 
+ 
+ Regio Decreto 8 gennaio 1914, col quale, sulla proposta del ministro dell'interno, l'opera Pia Arcangelo Taurino di Sancesario (Lecco), e' eretta in ente morale sotto la gestione della locale Congregazione di carita' e ne e' approvato lo statuto organico.

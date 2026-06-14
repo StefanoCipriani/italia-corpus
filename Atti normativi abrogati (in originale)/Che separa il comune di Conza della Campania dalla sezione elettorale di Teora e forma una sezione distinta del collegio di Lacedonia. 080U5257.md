@@ -1,16 +1,14 @@
-REGIO DECRETO 22 gennaio 1880 n. 5257
-
-
-REGIO DECRETO 22 gennaio 1880 n. 5257
-=====================================
-
-Che separa il comune di Conza della Campania dalla sezione elettorale di Teora e forma una sezione distinta del collegio di Lacedonia. (080U5257)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/02/1880
+---
+tipo: REGIO DECRETO
+numero: 5257
+data: 1880-01-22
+titolo: "Che separa il comune di Conza della Campania dalla sezione elettorale di Teora e forma una sezione distinta del collegio di Lacedonia. (080U5257)"
+urn: urn:nir:stato:regio.decreto:1880-01-22;5257
+codice_redazionale: 080U5257
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Che Conza conta 47 elettori, numero questo superiore al minimo stabilito dall'ar
 
 Considerato che la istituzione della sezione elettorale di Conza della Campania giova a rendere piu' facile l'esercizio del diritto elettorale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Conza della Campania e' separato dalla sezione elettorale di Teora, e formera', una sezione distinta del Collegio di Lacedonia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 gennaio 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il comune di Conza della Campania e' separato dalla sezione elettorale di Teora, e formera', una sezione distinta del Collegio di Lacedonia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 gennaio 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

@@ -1,16 +1,14 @@
-REGIO DECRETO 23 novembre 1869 n. 5376
-
-
-REGIO DECRETO 23 novembre 1869 n. 5376
-======================================
-
-Di convocazione del Collegio elettorale di S. Angelo dei Lombardi (069U5376)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/12/1869
+---
+tipo: REGIO DECRETO
+numero: 5376
+data: 1869-11-23
+titolo: "Di convocazione del Collegio elettorale di S. Angelo dei Lombardi (069U5376)"
+urn: urn:nir:stato:regio.decreto:1869-11-23;5376
+codice_redazionale: 069U5376
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,31 +18,24 @@ Veduto il Messaggio in data del 22 novembre 1869, col quale l'Ufficio di Preside
 
 Veduto l'articolo 63 della Legge per le elezioni politiche 17 dicembre 1860, n. 4513;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Collegio elettorale di S. Angelo dei Lombardi, n. 354, e' convocato pel giorno 19 dicembre, affinche' proceda alla elezione del proprio Deputato.   
-  
-Occorrendo una seconda votazione, essa avra' luogo il giorno 26 stesso mese.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore addi' 23 novembre 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 dicembre 1869   
-  
-Reg. 49 Atti del Governo a c. 95. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli: Vigliani.   
-  
-Rudini'.   
-  
+Il Collegio elettorale di S. Angelo dei Lombardi, n. 354, e' convocato pel giorno 19 dicembre, affinche' proceda alla elezione del proprio Deputato. 
+ 
+ Occorrendo una seconda votazione, essa avra' luogo il giorno 26 stesso mese. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore addi' 23 novembre 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 dicembre 1869 
+ 
+ Reg. 49 Atti del Governo a c. 95. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli: Vigliani. 
+ 
+ Rudini'.

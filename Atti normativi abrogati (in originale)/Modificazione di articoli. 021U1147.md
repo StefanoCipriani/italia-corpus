@@ -1,17 +1,17 @@
-REGIO DECRETO 04 agosto 1921 n. 1147
+---
+tipo: REGIO DECRETO
+numero: 1147
+data: 1921-08-04
+titolo: "Modificazione di articoli. (021U1147)"
+urn: urn:nir:stato:regio.decreto:1921-08-04;1147
+codice_redazionale: 021U1147
+vigente: true
+---
 
-
-REGIO DECRETO 04 agosto 1921 n. 1147
-====================================
-
-Modificazione di articoli. (021U1147)
--------------------------------------
-
-Entrata in vigore del provvedimento: 17/09/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1147. Regio decreto 4 agosto 1921, col quale sulla proposta del ministro dell'istruzione pubblica, viene modificato l'art. 29 dello statuto organico del Regio Collegio della SS. Annunziata di Firenze.
+1147.
+
+Regio decreto 4 agosto 1921, col quale sulla proposta del ministro dell'istruzione pubblica, viene modificato l'art. 29 dello statuto organico del Regio Collegio della SS. Annunziata di Firenze.

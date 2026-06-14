@@ -1,19 +1,15 @@
-REGIO DECRETO 13 ottobre 1912 n. 1226
+---
+tipo: REGIO DECRETO
+numero: 1226
+data: 1912-10-13
+titolo: "Erezione in ente morale e approvazione di statuto. (012U1226)"
+urn: urn:nir:stato:regio.decreto:1912-10-13;1226
+codice_redazionale: 012U1226
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 ottobre 1912 n. 1226
-=====================================
-
-Erezione in ente morale e approvazione di statuto. (012U1226)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/12/1912
-
-Art. 1
-------
-
-  
-N. 1226   
-  
-Regio Decreto 13 ottobre 1912, col quale, sulla proposta del ministro dell'interno di concerto col ministro di agricoltura, industria e commercio, e' approvato il nuovo statuto della Cassa di prestanza agraria di San Buono (Chieti).   
-  
+N. 1226 
+ 
+ Regio Decreto 13 ottobre 1912, col quale, sulla proposta del ministro dell'interno di concerto col ministro di agricoltura, industria e commercio, e' approvato il nuovo statuto della Cassa di prestanza agraria di San Buono (Chieti).

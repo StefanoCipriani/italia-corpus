@@ -1,19 +1,15 @@
-REGIO DECRETO 08 novembre 1914 n. 1288
+---
+tipo: REGIO DECRETO
+numero: 1288
+data: 1914-11-08
+titolo: "Applicazione di tassa sul bestiame. (014U1288)"
+urn: urn:nir:stato:regio.decreto:1914-11-08;1288
+codice_redazionale: 014U1288
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 novembre 1914 n. 1288
-======================================
-
-Applicazione di tassa sul bestiame. (014U1288)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 11/12/1914
-
-Art. 1
-------
-
-  
-N. 1288   
-  
-Regio Decreto 8 novembre 1914, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Monopoli (Bari) di applicare, nel 1914, la tassa sul bestiame in base alla tariffa deliberata nell'adunanza consiliare 22 gennaio 1914.   
-  
+N. 1288 
+ 
+ Regio Decreto 8 novembre 1914, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Monopoli (Bari) di applicare, nel 1914, la tassa sul bestiame in base alla tariffa deliberata nell'adunanza consiliare 22 gennaio 1914.

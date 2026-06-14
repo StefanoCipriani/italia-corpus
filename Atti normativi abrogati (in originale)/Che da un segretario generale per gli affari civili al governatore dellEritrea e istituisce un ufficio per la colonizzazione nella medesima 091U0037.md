@@ -1,16 +1,14 @@
-REGIO DECRETO 25 gennaio 1891 n. 37
-
-
-REGIO DECRETO 25 gennaio 1891 n. 37
-===================================
-
-Che da' un segretario generale per gli affari civili al governatore dell'Eritrea e istituisce un ufficio per la colonizzazione nella medesima (091U0037)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/01/1891
+---
+tipo: REGIO DECRETO
+numero: 37
+data: 1891-01-25
+titolo: "Che da' un segretario generale per gli affari civili al governatore dell'Eritrea e istituisce un ufficio per la colonizzazione nella medesima (091U0037)"
+urn: urn:nir:stato:regio.decreto:1891-01-25;37
+codice_redazionale: 091U0037
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,57 +18,34 @@ Visto il Nostro decreto del primo gennaio 1890, n. 6592 (serie 3ª) e la legge d
 
 Sulla proposta del Presidente del Consiglio, Ministro ad interim degli Affari Esteri;
 
-Udito
------
+Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il Governatore dell'Eritrea avra' un segretario generale per gli affari civili;
 
-  
-  
-Il Governatore dell'Eritrea avra' un segretario generale per gli affari civili;   
-  
+## Art. 2.
 
-Art. 2
-------
+E' istituito nel Governo dell'Eritrea un ufficio per la colonizzazione;
 
-  
-  
-E' istituito nel Governo dell'Eritrea un ufficio per la colonizzazione;   
-  
+## Art. 3.
 
-Art. 3
-------
+L'ufficio sopra detto della colonizzazione sara' affidato a Consigliere per l'agricoltura, il quale fara' le proposte relative alle concessioni di terreni demaniali nei possedimenti italiani nel Mar Rosso.
 
-  
-  
-L'ufficio sopra detto della colonizzazione sara' affidato a Consigliere per l'agricoltura, il quale fara' le proposte relative alle concessioni di terreni demaniali nei possedimenti italiani nel Mar Rosso.   
-  
+## Art. 4.
 
-Art. 4
-------
+La direzione e l'incoraggiamento delle industrie e de commercio, la sorveglianza delle strade carovaniere, il transito a traverso le differenti tribu' e simili attribuzioni saranno affidate ad un ufficiale coloniale sotto la dipendenza del Governatore.
 
-  
-  
-La direzione e l'incoraggiamento delle industrie e de commercio, la sorveglianza delle strade carovaniere, il transito a traverso le differenti tribu' e simili attribuzioni saranno affidate ad un ufficiale coloniale sotto la dipendenza del Governatore.   
-  
+## Art. 5.
 
-Art. 5
-------
-
-  
-  
-Il presente decreto avra' vigore a partire dalla sua data.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando e chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 gennaio 1891.   
-  
-UMBERTO.   
-  
-Crispi.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+Il presente decreto avra' vigore a partire dalla sua data. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando e chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 gennaio 1891. 
+ 
+ UMBERTO. 
+ 
+ Crispi. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

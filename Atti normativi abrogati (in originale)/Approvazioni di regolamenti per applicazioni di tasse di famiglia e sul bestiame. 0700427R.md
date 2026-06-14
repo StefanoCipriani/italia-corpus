@@ -1,19 +1,15 @@
-REGIO DECRETO 23 settembre 1907 n. CCCCXXVII
+---
+tipo: REGIO DECRETO
+numero: CCCCXXVII
+data: 1907-09-23
+titolo: "Approvazioni di regolamenti per applicazioni di tasse di famiglia e sul bestiame. (0700427R)"
+urn: urn:nir:stato:regio.decreto:1907-09-23;427
+codice_redazionale: 0700427R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 settembre 1907 n. CCCCXXVII
-============================================
-
-Approvazioni di regolamenti per applicazioni di tasse di famiglia e sul bestiame. (0700427R)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/11/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CCCCXXVII (Dato a Racconigi, il 23 settembre 1907), col quale e' approvato il regolamento per l'applicazione della tassa di famiglia nei comuni della provincia di Trapani, deliberato da quella Giunta provinciale amministrativa nelle adunanze in data 6 novembre 1906, 5 marzo e 11 giugno 1907, in sostituzione del regolamento approvato con decreto reale 21 gennaio 1904, n. CXVI.   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CCCCXXVII (Dato a Racconigi, il 23 settembre 1907), col quale e' approvato il regolamento per l'applicazione della tassa di famiglia nei comuni della provincia di Trapani, deliberato da quella Giunta provinciale amministrativa nelle adunanze in data 6 novembre 1906, 5 marzo e 11 giugno 1907, in sostituzione del regolamento approvato con decreto reale 21 gennaio 1904, n. CXVI.

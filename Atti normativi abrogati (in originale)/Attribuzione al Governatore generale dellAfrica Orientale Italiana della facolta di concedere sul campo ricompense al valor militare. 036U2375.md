@@ -1,16 +1,14 @@
-REGIO DECRETO 19 novembre 1936 n. 2375
-
-
-REGIO DECRETO 19 novembre 1936 n. 2375
-======================================
-
-Attribuzione al Governatore generale dell'Africa Orientale Italiana della facolta' di concedere sul campo ricompense al valor militare. (036U2375)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/02/1937
+---
+tipo: REGIO DECRETO
+numero: 2375
+data: 1936-11-19
+titolo: "Attribuzione al Governatore generale dell'Africa Orientale Italiana della facolta' di concedere sul campo ricompense al valor militare. (036U2375)"
+urn: urn:nir:stato:regio.decreto:1936-11-19;2375
+codice_redazionale: 036U2375
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,31 +32,22 @@ Visto il R. decreto 1° ottobre 1936-XIV, con il quale viene conferita al Capo d
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra, per la marina e per l'aeronautica, e del Ministro Segretario di Stato per le colonie, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra, per la marina e per l'aeronautica, e del Ministro Segretario di Stato per le colonie, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La facolta' di cui all'art. 1 del Regio decreto 24 marzo 1936-XIV, n. 923, e' estesa alle concessioni di medaglie di argento e di bronzo e di croci di guerra al valor militare in favore di ufficiali superiori e generali con le decorrenze stabilite dall'art. 3 del decreto medesimo.
 
-  
-  
-La facolta' di cui all'art. 1 del Regio decreto 24 marzo 1936-XIV, n. 923, e' estesa alle concessioni di medaglie di argento e di bronzo e di croci di guerra al valor militare in favore di ufficiali superiori e generali con le decorrenze stabilite dall'art. 3 del decreto medesimo.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-La facolta' di cui all'art. 1 del Regio decreto 24 marzo 1936-XIV, n. 923, con le estensioni stabilite dal precedente articolo, e' attribuita, dal 1° luglio 1936-XIV, al Governatore generale dell'Africa Orientale Italiana.   
-Con successivo decreto Reale sara' fissata la data di cessazione dell'esercizio di tale facolta'.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Roma, addi' 19 novembre 1936 - Anno XV,   
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: SOLMI.   
-Registrato alla Corte dei conti, addi' 2 febbraio 1937 - Anno XV   
-Atti del Governo, registro 382, foglio 3. - MANCINI.   
+La facolta' di cui all'art. 1 del Regio decreto 24 marzo 1936-XIV, n. 923, con le estensioni stabilite dal precedente articolo, e' attribuita, dal 1° luglio 1936-XIV, al Governatore generale dell'Africa Orientale Italiana. 
+ Con successivo decreto Reale sara' fissata la data di cessazione dell'esercizio di tale facolta'. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 19 novembre 1936 - Anno XV, 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ Registrato alla Corte dei conti, addi' 2 febbraio 1937 - Anno XV 
+ Atti del Governo, registro 382, foglio 3. - MANCINI.

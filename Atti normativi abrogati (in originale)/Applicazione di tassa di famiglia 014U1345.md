@@ -1,19 +1,15 @@
-REGIO DECRETO 26 novembre 1914 n. 1345
+---
+tipo: REGIO DECRETO
+numero: 1345
+data: 1914-11-26
+titolo: "Applicazione di tassa di famiglia (014U1345)"
+urn: urn:nir:stato:regio.decreto:1914-11-26;1345
+codice_redazionale: 014U1345
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 novembre 1914 n. 1345
-======================================
-
-Applicazione di tassa di famiglia (014U1345)
---------------------------------------------
-
-Entrata in vigore del provvedimento: 29/12/1914
-
-Art. 1
-------
-
-  
-N. 1345   
-  
-Regio Decreto 26 novembre 1914, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Turrita (Siena) di applicare nell'anno 1915 la tassa di famiglia col limite massimo di L. 250.   
-  
+N. 1345 
+ 
+ Regio Decreto 26 novembre 1914, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Turrita (Siena) di applicare nell'anno 1915 la tassa di famiglia col limite massimo di L. 250.

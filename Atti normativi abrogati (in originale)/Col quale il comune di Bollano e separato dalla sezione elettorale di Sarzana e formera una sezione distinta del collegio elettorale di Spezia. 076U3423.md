@@ -1,16 +1,14 @@
-REGIO DECRETO 15 ottobre 1876 n. 3423
-
-
-REGIO DECRETO 15 ottobre 1876 n. 3423
-=====================================
-
-Col quale il comune di Bollano e' separato dalla sezione elettorale di Sarzana e formera' una sezione distinta del collegio elettorale di Spezia. (076U3423)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/11/1876
+---
+tipo: REGIO DECRETO
+numero: 3423
+data: 1876-10-15
+titolo: "Col quale il comune di Bollano e' separato dalla sezione elettorale di Sarzana e formera' una sezione distinta del collegio elettorale di Spezia. (076U3423)"
+urn: urn:nir:stato:regio.decreto:1876-10-15;3423
+codice_redazionale: 076U3423
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nel comune steso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-il comune di Bollano e' separato dalla sezione elettorale di Sarzana e formera' una sezione distinta del Collegio elettorale di Spezia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Pollenzo, addi' 15 ottobre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
-  
+il comune di Bollano e' separato dalla sezione elettorale di Sarzana e formera' una sezione distinta del Collegio elettorale di Spezia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Pollenzo, addi' 15 ottobre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

@@ -1,19 +1,15 @@
-REGIO DECRETO 28 giugno 1914 n. 739
+---
+tipo: REGIO DECRETO
+numero: 739
+data: 1914-06-28
+titolo: "Erezione in Ente morale e relativa approvazione di statuto. (014U0739)"
+urn: urn:nir:stato:regio.decreto:1914-06-28;739
+codice_redazionale: 014U0739
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 giugno 1914 n. 739
-===================================
-
-Erezione in Ente morale e relativa approvazione di statuto. (014U0739)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/08/1914
-
-Art. 1
-------
-
-  
-N. 739   
-  
-Regio Decreto 28 giugno 1914, col quale, sulla proposta del ministro dell'interno, la «Casa benefica per i fanciulli abbandonati» di Verona e' eretta in ente morale sotto la gestione della Congregazione di carita' e ne e' approvato lo statuto organico.   
-  
+N. 739 
+ 
+ Regio Decreto 28 giugno 1914, col quale, sulla proposta del ministro dell'interno, la «Casa benefica per i fanciulli abbandonati» di Verona e' eretta in ente morale sotto la gestione della Congregazione di carita' e ne e' approvato lo statuto organico.

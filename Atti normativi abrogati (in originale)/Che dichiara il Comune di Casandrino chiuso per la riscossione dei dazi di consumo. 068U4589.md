@@ -1,16 +1,14 @@
-REGIO DECRETO 26 agosto 1868 n. 4589
-
-
-REGIO DECRETO 26 agosto 1868 n. 4589
-====================================
-
-Che dichiara il Comune di Casandrino chiuso per la riscossione dei dazi di consumo. (068U4589)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/10/1868
+---
+tipo: REGIO DECRETO
+numero: 4589
+data: 1868-08-26
+titolo: "Che dichiara il Comune di Casandrino chiuso per la riscossione dei dazi di consumo. (068U4589)"
+urn: urn:nir:stato:regio.decreto:1868-08-26;4589
+codice_redazionale: 068U4589
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Visti l'articolo 5 della Legge 3 luglio 1864, e l'articolo 3 del Decreto legisla
 
 Visto il Nostro Decreto del 25 novembre 1866, n. 3355, per la classificazione e qualifica dei Comuni rispetto ai dazi di consumo;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Casandrino, della Provincia di Napoli, e' dichiarato chiuso, per la riscossione dei dazi di consumo, dal primo del mese successivo alla pubblicazione del presente.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 26 agosto 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 14 settembre 1868   
-  
-Reg. 43 Atti del Governo a c. 166. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-L. G. Cambray Digny.   
-  
+Il Comune di Casandrino, della Provincia di Napoli, e' dichiarato chiuso, per la riscossione dei dazi di consumo, dal primo del mese successivo alla pubblicazione del presente. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 26 agosto 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 14 settembre 1868 
+ 
+ Reg. 43 Atti del Governo a c. 166. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ L. G. Cambray Digny.

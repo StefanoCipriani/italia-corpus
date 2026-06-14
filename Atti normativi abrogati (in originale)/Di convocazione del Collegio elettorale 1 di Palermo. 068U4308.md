@@ -1,16 +1,14 @@
-REGIO DECRETO 26 marzo 1868 n. 4308
-
-
-REGIO DECRETO 26 marzo 1868 n. 4308
-===================================
-
-Di convocazione del Collegio elettorale 1° di Palermo. (068U4308)
------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/04/1868
+---
+tipo: REGIO DECRETO
+numero: 4308
+data: 1868-03-26
+titolo: "Di convocazione del Collegio elettorale 1° di Palermo. (068U4308)"
+urn: urn:nir:stato:regio.decreto:1868-03-26;4308
+codice_redazionale: 068U4308
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,31 +18,24 @@ Veduto il Messaggio in data del 24 marzo corrente, col quale l'Ufficio di Presid
 
 Veduto l'articolo 63 della Legge per le elezioni politiche 17 dicembre 1860 n. 4513;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno: Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno: Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Collegio elettorale 1° di Palermo, n. 296, e' convocato pel giorno 19 aprile prossimo venturo, affinche' proceda alla elezione del proprio Deputato.   
-  
-Occorrendo una seconda votazione, essa avra' luogo il giorno 26 dello stesso mese.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 26 marzo 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 1° aprile 1868   
-  
-Reg. 42 Atti del Governo a c. 155. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-C. Cadorna.   
-  
+Il Collegio elettorale 1° di Palermo, n. 296, e' convocato pel giorno 19 aprile prossimo venturo, affinche' proceda alla elezione del proprio Deputato. 
+ 
+ Occorrendo una seconda votazione, essa avra' luogo il giorno 26 dello stesso mese. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 26 marzo 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 1° aprile 1868 
+ 
+ Reg. 42 Atti del Governo a c. 155. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ C. Cadorna.

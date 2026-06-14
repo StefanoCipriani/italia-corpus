@@ -1,16 +1,14 @@
-REGIO DECRETO 26 maggio 1870 n. 5680
-
-
-REGIO DECRETO 26 maggio 1870 n. 5680
-====================================
-
-Dichiara provinciali alcune strade scorrenti nella Provincia di Siracusa. (070U5680)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/07/1870
+---
+tipo: REGIO DECRETO
+numero: 5680
+data: 1870-05-26
+titolo: "Dichiara provinciali alcune strade scorrenti nella Provincia di Siracusa. (070U5680)"
+urn: urn:nir:stato:regio.decreto:1870-05-26;5680
+codice_redazionale: 070U5680
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,37 +32,22 @@ Che contro l'ultimo Elenco, pubblicato il 12 gennaio 1869, non sorse altra oppos
 
 Che tanto il prefato Consiglio, quanto il Consiglio di Stato, furono concordi nel pronunziarsi per l'approvazione dell'Elenco anzidetto, con la esclusione pero' della traversa da Buscemi alla strada nazionale, siccome quella che interessa esclusivamente il Comune di Buscemi;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate provinciali le 27 strade della Provincia di Siracusa, descritte nell'Elenco annesso al presente Decreto, visto d'ordine Nostro dal predetto Ministro.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 26 maggio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 7 giugno 1870   
-  
-Reg. 51 Atti del Governo a c. 104. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Gadda.   
-  
-
-Elenco
-
-  
-ELENCO delle strade provinciali di Siracusa, dichiarate tali con Regio decreto in data d'oggi.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=070U568000100010110001&dgu=1870-06-22&art.dataPubblicazioneGazzetta=1870-06-22&art.codiceRedazionale=070U5680)
-  
+Sono dichiarate provinciali le 27 strade della Provincia di Siracusa, descritte nell'Elenco annesso al presente Decreto, visto d'ordine Nostro dal predetto Ministro. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 26 maggio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 7 giugno 1870 
+ 
+ Reg. 51 Atti del Governo a c. 104. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Gadda.

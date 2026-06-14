@@ -1,21 +1,21 @@
-REGIO DECRETO 12 agosto 1937 n. 1530
+---
+tipo: REGIO DECRETO
+numero: 1530
+data: 1937-08-12
+titolo: "Autorizzazione alla Reale Accademia Virgiliana di Mantova ad accettare una donazione. (037U1530)"
+urn: urn:nir:stato:regio.decreto:1937-08-12;1530
+codice_redazionale: 037U1530
+vigente: true
+---
 
-
-REGIO DECRETO 12 agosto 1937 n. 1530
-====================================
-
-Autorizzazione alla Reale Accademia Virgiliana di Mantova ad accettare una donazione. (037U1530)
-------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/09/1937
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1530. R. decreto 12 agosto 1937, col quale, sulla proposta del Ministro per l'educazione nazionale, la Reale Accademia Virgiliana di Mantova viene autorizzata ad accettare la donazione della somma di L. 20.000 (ventimila) disposta dall'on. sen. marchese Baldassare Castiglioni fu Carlo allo scopo di premiare, con le rendite della somma donata, gli autori di edizioni di fonti e studi originali di notevole mole.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 7 settembre 1937 - Anno XV
+1530.
+
+R. decreto 12 agosto 1937, col quale, sulla proposta del Ministro per l'educazione nazionale, la Reale Accademia Virgiliana di Mantova viene autorizzata ad accettare la donazione della somma di L. 20.000 (ventimila) disposta dall'on. sen. marchese Baldassare Castiglioni fu Carlo allo scopo di premiare, con le rendite della somma donata, gli autori di edizioni di fonti e studi originali di notevole mole. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 7 settembre 1937 - Anno XV

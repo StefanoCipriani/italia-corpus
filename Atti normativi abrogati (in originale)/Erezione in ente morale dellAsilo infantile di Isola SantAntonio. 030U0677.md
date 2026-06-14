@@ -1,22 +1,22 @@
-REGIO DECRETO 26 maggio 1930 n. 677
+---
+tipo: REGIO DECRETO
+numero: 677
+data: 1930-05-26
+titolo: "Erezione in ente morale dell'Asilo infantile di Isola Sant'Antonio. (030U0677)"
+urn: urn:nir:stato:regio.decreto:1930-05-26;677
+codice_redazionale: 030U0677
+vigente: true
+---
 
-
-REGIO DECRETO 26 maggio 1930 n. 677
-===================================
-
-Erezione in ente morale dell'Asilo infantile di Isola Sant'Antonio. (030U0677)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/06/1930
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-677. R. decreto 26 maggio 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, l'Asilo infantile di Isola Sant'Antonio (Alessandria) viene eretto in ente morale con amministrazione autonoma, e ne e' approvato, con alcune modifiche, lo statuto organico.   
-  
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 31 maggio 1930 - Anno VIII
+677.
+
+R. decreto 26 maggio 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, l'Asilo infantile di Isola Sant'Antonio (Alessandria) viene eretto in ente morale con amministrazione autonoma, e ne e' approvato, con alcune modifiche, lo statuto organico. 
+ 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 31 maggio 1930 - Anno VIII

@@ -1,16 +1,14 @@
-REGIO DECRETO 22 maggio 1898 n. 183
-
-
-REGIO DECRETO 22 maggio 1898 n. 183
-===================================
-
-Che aumenta il numero dei posti di Volontario amministrativo nel Ministero del Tesoro. (098U0183)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/06/1898
+---
+tipo: REGIO DECRETO
+numero: 183
+data: 1898-05-22
+titolo: "Che aumenta il numero dei posti di Volontario amministrativo nel Ministero del Tesoro. (098U0183)"
+urn: urn:nir:stato:regio.decreto:1898-05-22;183
+codice_redazionale: 098U0183
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,25 +20,18 @@ Riconosciuta la convenienza di aumentare il numero dei posti di Volontario ammin
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A datare dal 1° giugno 1898 i posti di Volontario amministrativo nel Ministero del Tesoro sono aumentati da venti a venticinque.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque sputi di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 maggio 1898.   
-  
-UMBERTO.   
-  
-L. Luzzatti.   
-  
-Visto, Il Guardasigilli: G. Zanardelli.   
-  
+A datare dal 1° giugno 1898 i posti di Volontario amministrativo nel Ministero del Tesoro sono aumentati da venti a venticinque. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque sputi di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 maggio 1898. 
+ 
+ UMBERTO. 
+ 
+ L. Luzzatti. 
+ 
+ Visto, Il Guardasigilli: G. Zanardelli.

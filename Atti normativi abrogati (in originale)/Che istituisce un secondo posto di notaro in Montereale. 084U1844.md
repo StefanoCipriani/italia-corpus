@@ -1,17 +1,14 @@
-REGIO DECRETO 06 gennaio 1884 n. 1844
-
-
-REGIO DECRETO 06 gennaio 1884 n. 1844
-=====================================
-
-Che istituisce un secondo posto di notaro in Montereale. (084U1844)
--------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/02/1884  
-Il presente decreto e' stato erroneamente pubblicato in Gazzetta Ufficiale con il numero "18".
+---
+tipo: REGIO DECRETO
+numero: 1844
+data: 1884-01-06
+titolo: "Che istituisce un secondo posto di notaro in Montereale. (084U1844)"
+urn: urn:nir:stato:regio.decreto:1884-01-06;1844
+codice_redazionale: 084U1844
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -25,25 +22,18 @@ Veduta la domanda fatta dal comune di Montereale per l'istituzione di un secondo
 
 Ritenuto che sarebbe giustificata la convenienza ed opportunita' dell'anzidetta domanda;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un secondo posto di notaro nel comune di Montereale, distretto del Collegio notarile di Aquila degli Abruzzi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 gennaio 1884.   
-  
-UMBERTO.   
-  
-Savelli.   
-  
-Visto, Il Guardasigilli: Savelli.   
-  
+E' istituito un secondo posto di notaro nel comune di Montereale, distretto del Collegio notarile di Aquila degli Abruzzi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 gennaio 1884. 
+ 
+ UMBERTO. 
+ 
+ Savelli. 
+ 
+ Visto, Il Guardasigilli: Savelli.

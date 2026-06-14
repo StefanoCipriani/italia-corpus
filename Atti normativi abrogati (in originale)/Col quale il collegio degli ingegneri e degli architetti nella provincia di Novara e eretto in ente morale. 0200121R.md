@@ -1,21 +1,17 @@
-REGIO DECRETO 01 maggio 1902 n. CXXI
+---
+tipo: REGIO DECRETO
+numero: CXXI
+data: 1902-05-01
+titolo: "Col quale il collegio degli ingegneri e degli architetti nella provincia di Novara e' eretto in ente morale. (0200121R)"
+urn: urn:nir:stato:regio.decreto:1902-05-01;121
+codice_redazionale: 0200121R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 maggio 1902 n. CXXI
-====================================
-
-Col quale il collegio degli ingegneri e degli architetti nella provincia di Novara e' eretto in ente morale. (0200121R)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/06/1902
-
-Art. 1
-------
-
-  
-Col quale il collegio degli ingegneri e degli architetti nella provincia di Novara e' eretto in ente morale. - Firmato VITTORIO EMANUELE - Controfirmato Nasi - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 19 maggio 1902.   
-  
-Reg. 3. Atti del Governo a f. 92.   
-  
+Col quale il collegio degli ingegneri e degli architetti nella provincia di Novara e' eretto in ente morale. - Firmato VITTORIO EMANUELE - Controfirmato Nasi - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 19 maggio 1902. 
+ 
+ Reg. 3. Atti del Governo a f. 92.

@@ -1,21 +1,17 @@
-REGIO DECRETO 22 maggio 1898 n. CLV
+---
+tipo: REGIO DECRETO
+numero: CLV
+data: 1898-05-22
+titolo: "Con cui viene eretto in ente morale il lascito Rigamonti in Casatenovo (Como) e viene approvato il relativo statuto organico. (9800155R)"
+urn: urn:nir:stato:regio.decreto:1898-05-22;155
+codice_redazionale: 9800155R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 maggio 1898 n. CLV
-===================================
-
-Con cui viene eretto in ente morale il lascito Rigamonti in Casatenovo (Como) e viene approvato il relativo statuto organico. (9800155R)
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/06/1898
-
-Art. 1
-------
-
-  
-Con cui viene eretto in ente morale il lascito Rigamonti in Casatenovo (Como) e viene approvato il relativo statuto organico. - Firmato UMBERTO - Controfirmato Rudini' - Visto G. Zanardelli.   
-  
-Registrato alla Corte dei Conti addi' 31 maggio 1898.   
-  
-Reg. 215. Atti del Governo a f. 173.   
-  
+Con cui viene eretto in ente morale il lascito Rigamonti in Casatenovo (Como) e viene approvato il relativo statuto organico. - Firmato UMBERTO - Controfirmato Rudini' - Visto G. Zanardelli. 
+ 
+ Registrato alla Corte dei Conti addi' 31 maggio 1898. 
+ 
+ Reg. 215. Atti del Governo a f. 173.

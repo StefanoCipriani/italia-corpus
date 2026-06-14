@@ -1,19 +1,15 @@
-REGIO DECRETO 24 novembre 1861 n. CCIV
+---
+tipo: REGIO DECRETO
+numero: CCIV
+data: 1861-11-24
+titolo: "Che approva il regolamento di polizia urbana pel Comune di Laveno. (6100204R)"
+urn: urn:nir:stato:regio.decreto:1861-11-24;204
+codice_redazionale: 6100204R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 novembre 1861 n. CCIV
-======================================
-
-Che approva il regolamento di polizia urbana pel Comune di Laveno. (6100204R)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/11/1861
-
-Art. 1
-------
-
-  
-Che approva un regolamento di polizia urbana deliberato dal Municipio di Laveno (Provincia di Como) in seduta delli 11 settembre prossimo passato.   
-  
-Torino 24 novembre 1861   
-  
+Che approva un regolamento di polizia urbana deliberato dal Municipio di Laveno (Provincia di Como) in seduta delli 11 settembre prossimo passato. 
+ 
+ Torino 24 novembre 1861

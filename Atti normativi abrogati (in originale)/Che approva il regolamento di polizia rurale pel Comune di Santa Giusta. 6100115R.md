@@ -1,20 +1,17 @@
-REGIO DECRETO 28 luglio 1861 n. CXV
+---
+tipo: REGIO DECRETO
+numero: CXV
+data: 1861-07-28
+titolo: "Che approva il regolamento di polizia rurale pel Comune di Santa Giusta. (6100115R)"
+urn: urn:nir:stato:regio.decreto:1861-07-28;115
+codice_redazionale: 6100115R
+vigente: true
+---
 
-
-REGIO DECRETO 28 luglio 1861 n. CXV
-===================================
-
-Che approva il regolamento di polizia rurale pel Comune di Santa Giusta. (6100115R)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/07/1861
-
-Art. 1
-------
+## Art. 1.
 
 Che approva il regolamento di polizia rurale deliberato dal Municipio di Santa Giusta con ordinato del 18 ottobre
 
-1860. 
-  
-  
+1860.
+
 Torino 28 luglio 1861

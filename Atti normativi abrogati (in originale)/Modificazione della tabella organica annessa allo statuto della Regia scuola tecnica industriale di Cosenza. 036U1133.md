@@ -1,16 +1,14 @@
-REGIO DECRETO 18 maggio 1936 n. 1133
-
-
-REGIO DECRETO 18 maggio 1936 n. 1133
-====================================
-
-Modificazione della tabella organica annessa allo statuto della Regia scuola tecnica industriale di Cosenza. (036U1133)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/07/1936
+---
+tipo: REGIO DECRETO
+numero: 1133
+data: 1936-05-18
+titolo: "Modificazione della tabella organica annessa allo statuto della Regia scuola tecnica industriale di Cosenza. (036U1133)"
+urn: urn:nir:stato:regio.decreto:1936-05-18;1133
+codice_redazionale: 036U1133
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,36 +24,26 @@ Considerata l'opportunita' di modificare i posti di ruolo e di incarico del pers
 
 Su proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-Art. 1
-------
+## Art. 1.
 
-  
-  
-L'incarico di capofficina per l'aggiustaggio di cui al n. 4 della tabella organica del personale tecnico e amministrativo annessa allo statuto della Regia scuola tecnica a indirizzo industriale di Cosenza, approvato con R. decreto 31 agosto 1933-XI, n. 2028. e' convertito in posto di capofficina titolare per l'aggiustaggio.   
-  
-  
+L'incarico di capofficina per l'aggiustaggio di cui al n. 4 della tabella organica del personale tecnico e amministrativo annessa allo statuto della Regia scuola tecnica a indirizzo industriale di Cosenza, approvato con R. decreto 31 agosto 1933-XI, n. 2028. e' convertito in posto di capofficina titolare per l'aggiustaggio.
 
-Art. 2
-------
+## Art. 2.
 
-  
-  
-Il posto di segretario-economo titolare previsto al n. 10 della tabella organica di cui al precedente articolo e' convertito in posto di segretario-economo incaricato.   
-  
-Il presente decreto avra' effetto a decorrere dal 16 settembre 1935-XI II.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 maggio 1936 - Anno XIV   
-  
-VITTORIO EMANUELE.   
-  
-De Vecchi Di Val Cismon - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 18 giugno 1936 - Anno XIV   
-  
-Atti del Governo, registro 374, foglio 117. - Mancini.   
-  
-  
+Il posto di segretario-economo titolare previsto al n. 10 della tabella organica di cui al precedente articolo e' convertito in posto di segretario-economo incaricato. 
+ 
+ Il presente decreto avra' effetto a decorrere dal 16 settembre 1935-XI II. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 maggio 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE. 
+ 
+ De Vecchi Di Val Cismon - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 18 giugno 1936 - Anno XIV 
+ 
+ Atti del Governo, registro 374, foglio 117. - Mancini.

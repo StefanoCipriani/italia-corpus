@@ -1,16 +1,14 @@
-REGIO DECRETO 13 giugno 1875 n. 2585
-
-
-REGIO DECRETO 13 giugno 1875 n. 2585
-====================================
-
-Col quale e' riformato il reparto dei consiglieri provinciali dei due mandamenti di Fossombrone e pergola nella provincia di Pesaro e Urbino. (075U2585)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/08/1875
+---
+tipo: REGIO DECRETO
+numero: 2585
+data: 1875-06-13
+titolo: "Col quale e' riformato il reparto dei consiglieri provinciali dei due mandamenti di Fossombrone e pergola nella provincia di Pesaro e Urbino. (075U2585)"
+urn: urn:nir:stato:regio.decreto:1875-06-13;2585
+codice_redazionale: 075U2585
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,23 +26,16 @@ Visti tutti gli atti relativi allo affare, e la tabella annessa al Nostro decret
 
 Vista la legge 20 marzo 1865, allegato A, n. 2248;
 
-Sentito
--------
+Sentito il Consiglio di Stato, Abbiamo decretato e decretiamo:
 
-il Consiglio di Stato, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La tabella annessa al [R. decreto 15 maggio 1867, n. 3712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1867-05-15;3712), in quanto si riferisce alla provincia di Pesaro ed Urbino, e' modificata, restando assegnati tre consiglieri provinciali al mandamento di Fossombrone e due al mandamento di Pergola.   
-  
-Ordiniamo che il presente decreto, Munito del sigillo della Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 giugno 1875.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
+La tabella annessa al [R. decreto 15 maggio 1867, n. 3712](Che%20approva%20la%20nuova%20tabella%20di%20reparto%20dei%20Consiglieri%20provinciali%20nelle%20varie%20Provincie%20del%20Regno%20eccettuate%20quelle%20della%20Toscana%20della%20Venezia%20e%20quella%20di%20Mantova.%20067U3712.md), in quanto si riferisce alla provincia di Pesaro ed Urbino, e' modificata, restando assegnati tre consiglieri provinciali al mandamento di Fossombrone e due al mandamento di Pergola. 
+ 
+ Ordiniamo che il presente decreto, Munito del sigillo della Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 giugno 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

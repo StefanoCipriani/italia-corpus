@@ -1,16 +1,14 @@
-REGIO DECRETO 25 luglio 1941 n. 1027
-
-
-REGIO DECRETO 25 luglio 1941 n. 1027
-====================================
-
-Approvazione di variante al piano regolatore di massima di Milano per la sistemazione della zona compresa tra il viale Monza, la via Erlembardo ed il parco comunale di Villa Finzi. (041U1027)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/10/1941
+---
+tipo: REGIO DECRETO
+numero: 1027
+data: 1941-07-25
+titolo: "Approvazione di variante al piano regolatore di massima di Milano per la sistemazione della zona compresa tra il viale Monza, la via Erlembardo ed il parco comunale di Villa Finzi. (041U1027)"
+urn: urn:nir:stato:regio.decreto:1941-07-25;1027
+codice_redazionale: 041U1027
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -46,7 +44,7 @@ Considerato che, in conformita' del suggerimento contenuto nel parere del Consig
 
 Considerato che per l'attuazione della variante deve rimanere fermo il termine vigente per il piano originario sopraindicato;
 
-Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md);
 
 Visto l'art. 4 del R. decreto-legge 21 giugno 1938-XVI, n. 1094, convertito nella legge 5 gennaio 1939-XVII, n. 35;
 
@@ -54,35 +52,29 @@ Visto il voto n. 686 del 28 aprile 1941-XIX del Consiglio superiore dei lavori p
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Con le osservazioni di cui alle premesse da tenersi presenti all'atto esecutivo, e' approvata, ai sensi e per gli effetti della citata legge 19 febbraio 1934-XII, n. 433, la variante al piano regolatore di massima di Milano per la sistemazione della zona compresa tra il viale Monza, la via Erlembardo ed il parco comunale di Villa Finzi, in Milano, destinata alla costruzione di un quartiere di case popolari per le famiglie numerose della Fondazione Crespi-Morbio.   
-  
-Detto piano di variante, visto d'ordine Nostro dal Ministro proponente in una planimetria in iscala 1:2000 ed in uno schema di lottizzazione in iscala 1:500 (in unico allegato) a firma dell'ing.  
-G. Baselli, sara' depositato all'Archivio di Stato.   
-  
-Tutte le costruzioni e ricostruzioni eseguite sia dai privati che dal Comune o suoi concessionari, per l'attuazione del presente piano di variante, saranno esenti per venticinque anni dalla normale imposta sui fabbricati e dalle relative sovrimposte, comunale e provinciale.   
-  
-Per l'attuazione della variante resta fermo il termine vigente stabilito per il piano regolatore originario.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 25 luglio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Gorla - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 27 settembre 1941-XIX   
-  
-Atti del Governo, registro 437, foglio 83. - Mancini   
+Con le osservazioni di cui alle premesse da tenersi presenti all'atto esecutivo, e' approvata, ai sensi e per gli effetti della citata legge 19 febbraio 1934-XII, n. 433, la variante al piano regolatore di massima di Milano per la sistemazione della zona compresa tra il viale Monza, la via Erlembardo ed il parco comunale di Villa Finzi, in Milano, destinata alla costruzione di un quartiere di case popolari per le famiglie numerose della Fondazione Crespi-Morbio. 
+ 
+ Detto piano di variante, visto d'ordine Nostro dal Ministro proponente in una planimetria in iscala 1:2000 ed in uno schema di lottizzazione in iscala 1:500 (in unico allegato) a firma dell'ing.
+G. Baselli, sara' depositato all'Archivio di Stato. 
+ 
+ Tutte le costruzioni e ricostruzioni eseguite sia dai privati che dal Comune o suoi concessionari, per l'attuazione del presente piano di variante, saranno esenti per venticinque anni dalla normale imposta sui fabbricati e dalle relative sovrimposte, comunale e provinciale. 
+ 
+ Per l'attuazione della variante resta fermo il termine vigente stabilito per il piano regolatore originario. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 25 luglio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Gorla - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 27 settembre 1941-XIX 
+ 
+ Atti del Governo, registro 437, foglio 83. - Mancini

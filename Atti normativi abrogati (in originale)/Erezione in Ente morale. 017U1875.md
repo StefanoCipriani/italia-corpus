@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 04 novembre 1917 n. 1875
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1875
+data: 1917-11-04
+titolo: "Erezione in Ente morale. (017U1875)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-11-04;1875
+codice_redazionale: 017U1875
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 04 novembre 1917 n. 1875
-================================================
-
-Erezione in Ente morale. (017U1875)
------------------------------------
-
-Entrata in vigore del provvedimento: 18/12/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1875. Decreto Luogotenenziale 4 novembre 1917, col quale, sulla proposta del ministro dell'interno, la fondazione «Alessandro Manoni», di Venezia, e' eretta in ente morale sotto l'amministrazione della Giunta municipale di quella citta', con esclusione del sindaco, e sotto la presidenza dell'assessore anziano.
+1875.
+
+Decreto Luogotenenziale 4 novembre 1917, col quale, sulla proposta del ministro dell'interno, la fondazione «Alessandro Manoni», di Venezia, e' eretta in ente morale sotto l'amministrazione della Giunta municipale di quella citta', con esclusione del sindaco, e sotto la presidenza dell'assessore anziano.

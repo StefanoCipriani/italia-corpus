@@ -1,19 +1,15 @@
-REGIO DECRETO 23 giugno 1923 n. 1529
+---
+tipo: REGIO DECRETO
+numero: 1529
+data: 1923-06-23
+titolo: "Modificazione dell'art. 7 dello statuto del Monte di Pieta' di Pistoia. (023U1529)"
+urn: urn:nir:stato:regio.decreto:1923-06-23;1529
+codice_redazionale: 023U1529
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 giugno 1923 n. 1529
-====================================
-
-Modificazione dell'art. 7 dello statuto del Monte di Pieta' di Pistoia. (023U1529)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/08/1923
-
-Art. 1
-------
-
-  
-N. 1529 R. decreto 23 giugno 1923, col quale, sulla proposta del Ministro per l'industria, il commercio ed il lavoro, viene modificato l'art. 7 del vigente statuto organico del Monte di Pieta' di Pistoia.   
-  
-Registrato alla [Corte dei conti il 21 luglio 1923](https://e-justice.europa.eu/ecli/ECLI::::).   
-  
+N. 1529 R. decreto 23 giugno 1923, col quale, sulla proposta del Ministro per l'industria, il commercio ed il lavoro, viene modificato l'art. 7 del vigente statuto organico del Monte di Pieta' di Pistoia. 
+ 
+ Registrato alla Corte dei conti il 21 luglio 1923.

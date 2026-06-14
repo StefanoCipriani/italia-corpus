@@ -1,31 +1,25 @@
-REGIO DECRETO 16 novembre 1870 n. MMCCCCLX
+---
+tipo: REGIO DECRETO
+numero: MMCCCCLX
+data: 1870-11-16
+titolo: "Che approva il Regolamento per la tassa sul bestiame nella Provincia di Ferrara. (7002460R)"
+urn: urn:nir:stato:regio.decreto:1870-11-16;2460
+codice_redazionale: 7002460R
+vigente: true
+---
 
+## Articolo unico.
 
-REGIO DECRETO 16 novembre 1870 n. MMCCCCLX
-==========================================
-
-Che approva il Regolamento per la tassa sul bestiame nella Provincia di Ferrara. (7002460R)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/01/1871
-
-Articolo unico
---------------
-
-  
-  
-E' approvato il Regolamento per l'applicazione della tassa sul bestiame, adottato dalla Deputaziorie provinciale di Ferrara, per uso dei Comuni della Provincia.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 16 novembre 1870.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 24 novembre 1870   
-Reg. 53 Atti del Governo a c. 66. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli M. RAELI.   
-  
-QUINTINO SELLA.   
-  
-  
+E' approvato il Regolamento per l'applicazione della tassa sul bestiame, adottato dalla Deputaziorie provinciale di Ferrara, per uso dei Comuni della Provincia. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 16 novembre 1870. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 24 novembre 1870 
+ Reg. 53 Atti del Governo a c. 66. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli M. RAELI. 
+ 
+ QUINTINO SELLA.

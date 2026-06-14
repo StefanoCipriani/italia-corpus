@@ -1,16 +1,14 @@
-REGIO DECRETO 19 febbraio 1942 n. 227
-
-
-REGIO DECRETO 19 febbraio 1942 n. 227
-=====================================
-
-Istituzione di Uffici tecnici speciali per il classamento dei terreni e soppressioni di alcuni Uffici tecnici del catasto. (042U0227)
--------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/04/1942
+---
+tipo: REGIO DECRETO
+numero: 227
+data: 1942-02-19
+titolo: "Istituzione di Uffici tecnici speciali per il classamento dei terreni e soppressioni di alcuni Uffici tecnici del catasto. (042U0227)"
+urn: urn:nir:stato:regio.decreto:1942-02-19;227
+codice_redazionale: 042U0227
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -38,101 +36,82 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono istituiti «Uffici tecnici speciali per il classamento dei terreni» nelle sedi sotto distinte per le circoscrizioni contro ciascuna sede indicata. 
+ 
 
-  
-  
-Sono istituiti «Uffici tecnici speciali per il classamento dei terreni» nelle sedi sotto distinte per le circoscrizioni contro ciascuna sede indicata.   
-  
-  
-Uffici tecnici  
-speciali per il  
-classamento dei  
-terreni Circoscrizioni  
-- -  
-1) Como Provincie di Como, Sondrio, Varese  
-2) Milano » » Milano, Bergamo  
-3) Brescia » » Brescia, Cremona  
-4) Verona » » Verona, Mantova  
-5) Trieste » » Trieste, Gorizia, Udine  
-6) Imiperia » » Imperia, Genova, Savona,  
-La Spezia  
-7) Modena » » Modena, Parma, Piacenza,  
-Reggio Emilia  
-8) Firenze » » Firenze, Apuania, Arezzo, Grosseto, Lucca, Pisa,  
-Pistoia, Siena  
-9) Terni » » Terni, Ascoli Piceno,  
-Perugia, Rieti, Roma,  
-Viterbo  
-10) Frosinone » » Frosinone, L'Aquila,  
-Littoria  
-11) Chieti » » Chieti, Benevento,  
-Campobasso  
-12) Catanzaro » » Catanzaro, Cosenza,  
-Messina, Reggio Calabria   
-  
-Tali Uffici, come gli altri che occorrera' istituire in seguito, verranno soppressi con la ultimazione dei lavori ad essi affidati.   
+Uffici tecnici
+speciali per il
+classamento dei
+ terreni Circoscrizioni
+ - -
+ 1) Como Provincie di Como, Sondrio, Varese
+ 2) Milano » » Milano, Bergamo
+ 3) Brescia » » Brescia, Cremona
+ 4) Verona » » Verona, Mantova
+ 5) Trieste » » Trieste, Gorizia, Udine
+ 6) Imiperia » » Imperia, Genova, Savona,
+ La Spezia
+ 7) Modena » » Modena, Parma, Piacenza,
+ Reggio Emilia
+ 8) Firenze » » Firenze, Apuania, Arezzo, Grosseto, Lucca, Pisa,
+ Pistoia, Siena
+ 9) Terni » » Terni, Ascoli Piceno,
+ Perugia, Rieti, Roma,
+ Viterbo
+ 10) Frosinone » » Frosinone, L'Aquila,
+ Littoria
+ 11) Chieti » » Chieti, Benevento,
+ Campobasso
+ 12) Catanzaro » » Catanzaro, Cosenza,
+ Messina, Reggio Calabria 
+ 
+ Tali Uffici, come gli altri che occorrera' istituire in seguito, verranno soppressi con la ultimazione dei lavori ad essi affidati.
 
-Art. 2
-------
+## Art. 2.
 
-  
-  
-Sono soppressi gli Uffici tecnici del catasto di:   
-  
-1) Agrigento 7) Grosseto   
-  
-2) Arezzo 8) Livorno   
-  
-3) Ascoli Piceno 9) Macerata   
-  
-4) Benevento 10) Rieti   
-  
-5) Caltanissetta 11) Teramo   
-  
-6) Ferrara 12) Trapani   
-  
-  
+Sono soppressi gli Uffici tecnici del catasto di: 
+ 
+ 1) Agrigento 7) Grosseto 
+ 
+ 2) Arezzo 8) Livorno 
+ 
+ 3) Ascoli Piceno 9) Macerata 
+ 
+ 4) Benevento 10) Rieti 
+ 
+ 5) Caltanissetta 11) Teramo 
+ 
+ 6) Ferrara 12) Trapani
 
-Art. 3
-------
+## Art. 3.
 
-  
-  
-Sono modificate le circoscrizioni degli Uffici tecnici del catasto seguenti nel modo contro ciascuno indicato:   
-  
-  
-Uffici tecnici del catasto Circoscrizioni  
-- -  
-1) Campobasso Provincie di Campobasso e Benevento  
-2) Chieti » » Chieti ed Ascoli Piceno 3) Firenze » » Firenze, Forli', Arezzo 4) Messina » » Messina ed Agrigento  
-5) Roma » » Roma, Rieti, Viterbo  
-6) Siena » » Siena, Grosseto  
-  
-  
+Sono modificate le circoscrizioni degli Uffici tecnici del catasto seguenti nel modo contro ciascuno indicato: 
+ 
 
-Art. 4
-------
+Uffici tecnici del catasto Circoscrizioni
+ - -
+1) Campobasso Provincie di Campobasso e Benevento
+2) Chieti » » Chieti ed Ascoli Piceno 3) Firenze » » Firenze, Forli', Arezzo 4) Messina » » Messina ed Agrigento
+5) Roma » » Roma, Rieti, Viterbo
+6) Siena » » Siena, Grosseto
 
-  
-  
-Il presente decreto entra in vigore alla data del 1° aprile 1942-XX.   
-  
-Ordiniamo che il presente decreto, munito del Sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 febbraio 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 20 Marzo 1942-XX   
-Atti del Governo, registro 443, foglio 111. - MANCINI   
+## Art. 4.
+
+Il presente decreto entra in vigore alla data del 1° aprile 1942-XX. 
+ 
+ Ordiniamo che il presente decreto, munito del Sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 febbraio 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 20 Marzo 1942-XX 
+ Atti del Governo, registro 443, foglio 111. - MANCINI

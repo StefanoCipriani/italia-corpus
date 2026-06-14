@@ -1,16 +1,14 @@
-REGIO DECRETO 10 gennaio 1864 n. 1629
-
-
-REGIO DECRETO 10 gennaio 1864 n. 1629
-=====================================
-
-Che ordina l'iscrizione sul Gran Libro del Debito pubblico di una rendita di L. 2,226,000 a favore della Compagnia delle strade ferrate Vittorio Emanuele. (064U1629)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/02/1864
+---
+tipo: REGIO DECRETO
+numero: 1629
+data: 1864-01-10
+titolo: "Che ordina l'iscrizione sul Gran Libro del Debito pubblico di una rendita di L. 2,226,000 a favore della Compagnia delle strade ferrate Vittorio Emanuele. (064U1629)"
+urn: urn:nir:stato:regio.decreto:1864-01-10;1629
+codice_redazionale: 064U1629
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,55 +24,36 @@ Che per le norme vigenti sul Debito pubblico le inscrizioni di rendita devono fa
 
 Che infine in forza del succitato art. 4 della legge deve essere presa ipoteca nell'interesse dello Stato sui Certificati della rendita suavvertita all'effetto degli obblighi imposti dalla mentovata Convenzione alla Societa' suddetta;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio, Ministro delle Finanze; Abbiamo ordinato ed ordiniamo:
 
-proposta del Presidente del Consiglio, Ministro delle Finanze; Abbiamo ordinato ed ordiniamo:
+## Art. 1.
 
-Art. 1
-------
+La Direzione Generale del Debito pubblico inscrivera' sul Gran Libro, al consolidato 5 p. % una rendita di lire duemilioni duecento ventiseimila con decorrenza dal 1.° gennaio 1864 a favore della Compagnia delle strade ferrate Vittorio Emanuele.
 
-  
-  
-La Direzione Generale del Debito pubblico inscrivera' sul Gran Libro, al consolidato 5 p. % una rendita di lire duemilioni duecento ventiseimila con decorrenza dal 1.° gennaio 1864 a favore della Compagnia delle strade ferrate Vittorio Emanuele.   
-  
+## Art. 2.
 
-Art. 2
-------
+Il relativo certificato di rendita sara' vincolato a favore del Governo per l'effetto degli obblighi assunti dalla surripetuta Societa' nella Convenzione approvata colla legge 25 agosto 1863, n.° 1440.
 
-  
-  
-Il relativo certificato di rendita sara' vincolato a favore del Governo per l'effetto degli obblighi assunti dalla surripetuta Societa' nella Convenzione approvata colla legge 25 agosto 1863, n.° 1440.   
-  
+## Art. 3.
 
-Art. 3
-------
+L'Amministrazione del Debito pubblico provvedera' con mandato a parte al pagamento degl'interessi sulla rendita suddetta pel trimestre dal 1.° ottobre al 31 dicembre 1863.
 
-  
-  
-L'Amministrazione del Debito pubblico provvedera' con mandato a parte al pagamento degl'interessi sulla rendita suddetta pel trimestre dal 1.° ottobre al 31 dicembre 1863.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Pel servizio di detta rendita e' fatta sulla Tesoreria Centrale del Regno, cominciando dal 1.° gennaio 1864 l'annua assegnazione di lire duemilioni duecento ventiseimila   
-  
-Dalla stessa Tesoreria Centrale saranno altresi' somministrati i fondi occorrenti pel pagamento del trimestre di cui al precedente art. 3.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino il 10 gennaio 1864.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 22 gennaio 1864   
-  
-Reg.° 28 Atti del Governo a c. 19. Salvaja.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-M. Minghetti.   
-  
+Pel servizio di detta rendita e' fatta sulla Tesoreria Centrale del Regno, cominciando dal 1.° gennaio 1864 l'annua assegnazione di lire duemilioni duecento ventiseimila 
+ 
+ Dalla stessa Tesoreria Centrale saranno altresi' somministrati i fondi occorrenti pel pagamento del trimestre di cui al precedente art. 3. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino il 10 gennaio 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 22 gennaio 1864 
+ 
+ Reg.° 28 Atti del Governo a c. 19. Salvaja. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ M. Minghetti.

@@ -1,17 +1,13 @@
-REGIO DECRETO 19 maggio 1922 n. 737
+---
+tipo: REGIO DECRETO
+numero: 737
+data: 1922-05-19
+titolo: "Riconoscimento di corpo morale. (022U0737)"
+urn: urn:nir:stato:regio.decreto:1922-05-19;737
+codice_redazionale: 022U0737
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 maggio 1922 n. 737
-===================================
-
-Riconoscimento di corpo morale. (022U0737)
-------------------------------------------
-
-Entrata in vigore del provvedimento: 08/07/1922
-
-Art. 1
-------
-
-  
-N.737.Regio decreto 19 maggio 1922, col quale, sulla proposta del ministro per l'industria e il commercio, l'Istituto autonomo per le case popolari di Tolmezzo, e' riconosciuto come corpo morale e ne e' approvato lo statuto organico.   
-  
+N.737.Regio decreto 19 maggio 1922, col quale, sulla proposta del ministro per l'industria e il commercio, l'Istituto autonomo per le case popolari di Tolmezzo, e' riconosciuto come corpo morale e ne e' approvato lo statuto organico.

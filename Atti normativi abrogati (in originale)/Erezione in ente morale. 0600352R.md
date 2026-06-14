@@ -1,19 +1,15 @@
-REGIO DECRETO 16 agosto 1906 n. CCCLII
+---
+tipo: REGIO DECRETO
+numero: CCCLII
+data: 1906-08-16
+titolo: "Erezione in ente morale. (0600352R)"
+urn: urn:nir:stato:regio.decreto:1906-08-16;352
+codice_redazionale: 0600352R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 agosto 1906 n. CCCLII
-======================================
-
-Erezione in ente morale. (0600352R)
------------------------------------
-
-Entrata in vigore del provvedimento: 25/10/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCLII (Dato a Sant'Anna di Valdieri, il 16 agosto 1906), col quale il ricovero di mendicita' «Antonio Zucchi e Maria Falcina» di Soresina (Cremona) e' eretto in ente morale e ne e' approvato lo statuto organico.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCLII (Dato a Sant'Anna di Valdieri, il 16 agosto 1906), col quale il ricovero di mendicita' «Antonio Zucchi e Maria Falcina» di Soresina (Cremona) e' eretto in ente morale e ne e' approvato lo statuto organico.

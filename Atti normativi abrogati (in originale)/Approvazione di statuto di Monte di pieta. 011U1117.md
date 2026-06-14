@@ -1,19 +1,15 @@
-REGIO DECRETO 07 settembre 1911 n. 1117
+---
+tipo: REGIO DECRETO
+numero: 1117
+data: 1911-09-07
+titolo: "Approvazione di statuto di Monte di pieta'. (011U1117)"
+urn: urn:nir:stato:regio.decreto:1911-09-07;1117
+codice_redazionale: 011U1117
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 settembre 1911 n. 1117
-=======================================
-
-Approvazione di statuto di Monte di pieta'. (011U1117)
-------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/11/1911
-
-Art. 1
-------
-
-  
-N. 1117   
-  
-Regio Decreto 7 settembre 1911, col quale, sulla proposta del ministro di agricoltura industria e commercio viene approvato lo statuto del Monte di pieta' Rovigo.   
-  
+N. 1117 
+ 
+ Regio Decreto 7 settembre 1911, col quale, sulla proposta del ministro di agricoltura industria e commercio viene approvato lo statuto del Monte di pieta' Rovigo.

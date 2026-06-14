@@ -1,19 +1,15 @@
-REGIO DECRETO 13 aprile 1862 n. CCCLXII
+---
+tipo: REGIO DECRETO
+numero: CCCLXII
+data: 1862-04-13
+titolo: "Col quale si autorizza il Comune di Mirandola a riscuotere una tassa sui cani. (6200362R)"
+urn: urn:nir:stato:regio.decreto:1862-04-13;362
+codice_redazionale: 6200362R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 aprile 1862 n. CCCLXII
-=======================================
-
-Col quale si autorizza il Comune di Mirandola a riscuotere una tassa sui cani. (6200362R)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/04/1862
-
-Art. 1
-------
-
-  
-Col quale si autorizza il Comune di Mirandola a riscuotere una tassa sui cani.   
-  
-Torino 13 aprile 1862   
-  
+Col quale si autorizza il Comune di Mirandola a riscuotere una tassa sui cani. 
+ 
+ Torino 13 aprile 1862

@@ -1,16 +1,14 @@
-REGIO DECRETO 02 agosto 1943 n. 725
-
-
-REGIO DECRETO 02 agosto 1943 n. 725
-===================================
-
-Autorizzazione al comune di Borgo Valsugana ad applicare, fino al 31 dicembre 1943, le imposte di consumo con la tariffa della classe superiore «G». (043U0725)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/08/1943
+---
+tipo: REGIO DECRETO
+numero: 725
+data: 1943-08-02
+titolo: "Autorizzazione al comune di Borgo Valsugana ad applicare, fino al 31 dicembre 1943, le imposte di consumo con la tariffa della classe superiore «G». (043U0725)"
+urn: urn:nir:stato:regio.decreto:1943-08-02;725
+codice_redazionale: 043U0725
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,24 @@ Udita la Commissione centrale per la finanza locale che nell'adunanza del 4 giug
 
 Ritenuto che la domanda del Comune e' giustificata da imprescindibili necessita' di bilancio;
 
-Visto l'art. 26 del testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175);
+Visto l'art. 26 del testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il comune di Borgo Valsugana e' autorizzato ad applicare le imposte di consumo con la tariffa della classe superiore G, alla quale apparteneva, fino al 31 dicembre
 
-1943. 
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Roma, addi' 2 agosto 1943   
-  
-VITTORIO EMANUELE   
-  
-BARTOLINI   
-  
-Visto, il Guardasigilli: AZZARITI   
-  
-Registrato alla Corte dei conti, addi' 20 agosto 1943   
-Atti del Governo, registro 460, foglio 16. - MANCINI
+1943.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 2 agosto 1943 
+ 
+ VITTORIO EMANUELE 
+ 
+ BARTOLINI 
+ 
+ Visto, il Guardasigilli: AZZARITI 
+ 
+ Registrato alla Corte dei conti, addi' 20 agosto 1943 
+ Atti del Governo, registro 460, foglio 16. - MANCINI

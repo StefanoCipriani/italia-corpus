@@ -1,16 +1,14 @@
-REGIO DECRETO 15 dicembre 1938 n. 2101
-
-
-REGIO DECRETO 15 dicembre 1938 n. 2101
-======================================
-
-Autorizzazione al comune di S. Stefano di Rogliano ad applicare fino a tutto l'anno 1940, le imposte di consumo in base alla tariffa della classe G. (038U2101)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/02/1939
+---
+tipo: REGIO DECRETO
+numero: 2101
+data: 1938-12-15
+titolo: "Autorizzazione al comune di S. Stefano di Rogliano ad applicare fino a tutto l'anno 1940, le imposte di consumo in base alla tariffa della classe G. (038U2101)"
+urn: urn:nir:stato:regio.decreto:1938-12-15;2101
+codice_redazionale: 038U2101
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,22 @@ Vista l'istanza avanzata dal comune di S. Stefano di Rogliano per avvalersi dell
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di S. Stefano di Rogliano e' autorizzato ad applicare, fino a tutto l'anno 1940, le imposte di consumo in base alla tariffa stabilita per i comuni di classe G.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 15 dicembre 1938-XVII   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Solmi   
-  
-Registrato alla Corte dei conti, addi' 31 gennaio 1939-XVII   
-  
-Atti del Governo, registro 405, foglio 138. - Mancini   
+Il comune di S. Stefano di Rogliano e' autorizzato ad applicare, fino a tutto l'anno 1940, le imposte di consumo in base alla tariffa stabilita per i comuni di classe G. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 15 dicembre 1938-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi 
+ 
+ Registrato alla Corte dei conti, addi' 31 gennaio 1939-XVII 
+ 
+ Atti del Governo, registro 405, foglio 138. - Mancini

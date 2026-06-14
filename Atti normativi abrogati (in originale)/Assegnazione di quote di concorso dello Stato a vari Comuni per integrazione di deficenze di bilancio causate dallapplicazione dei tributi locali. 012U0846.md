@@ -1,19 +1,15 @@
-REGIO DECRETO 18 luglio 1912 n. 846
+---
+tipo: REGIO DECRETO
+numero: 846
+data: 1912-07-18
+titolo: "Assegnazione di quote di concorso dello Stato a vari Comuni per integrazione di deficenze di bilancio causate dall'applicazione dei tributi locali. (012U0846)"
+urn: urn:nir:stato:regio.decreto:1912-07-18;846
+codice_redazionale: 012U0846
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 luglio 1912 n. 846
-===================================
-
-Assegnazione di quote di concorso dello Stato a vari Comuni per integrazione di deficenze di bilancio causate dall'applicazione dei tributi locali. (012U0846)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/08/1912
-
-Art. 1
-------
-
-  
-N. 846   
-  
-Regio Decreto 18 luglio 1912, col quale, sulla proposta del ministro delle finanze, vengono assegnate a vari Comuni delle Provincie del Mezzogiorno continentale e della Sicilia le quote di concorso governativo per gli anni 1907, 1908, 1909, 1910 e 1911 per l'integrazione provvisoria delle deficienze di bilancio causate dall'applicazione delle disposizioni sui tributi locali contenute nelle leggi 25 giugno e 15 luglio 1906, nn. 255 e 383.   
-  
+N. 846 
+ 
+ Regio Decreto 18 luglio 1912, col quale, sulla proposta del ministro delle finanze, vengono assegnate a vari Comuni delle Provincie del Mezzogiorno continentale e della Sicilia le quote di concorso governativo per gli anni 1907, 1908, 1909, 1910 e 1911 per l'integrazione provvisoria delle deficienze di bilancio causate dall'applicazione delle disposizioni sui tributi locali contenute nelle leggi 25 giugno e 15 luglio 1906, nn. 255 e 383.

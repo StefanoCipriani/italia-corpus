@@ -1,58 +1,54 @@
-REGIO DECRETO 23 giugno 1930 n. 847
+---
+tipo: REGIO DECRETO
+numero: 847
+data: 1930-06-23
+titolo: "Maggiori assegnazioni allo stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1929-30. (030U0847)"
+urn: urn:nir:stato:regio.decreto:1930-06-23;847
+codice_redazionale: 030U0847
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 giugno 1930 n. 847
-===================================
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Vista la [legge 27 giugno 1929, n. 1034](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20finanze%20e%20stato%20di%20previsione%20dellentrata%20per%20lesercizio%20finanziario%20dal%201%20luglio%201929%20al%2030%20giugno%201930.%20029U1034.md); 
+ 
+ Visto l'[art. 41, primo comma, del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41-com1), sulla contabilita' generale dello Stato; 
+ 
+ Udito il Consiglio dei Ministri; 
+ 
+ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ Nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1929-30, sono apportate le seguenti variazioni in aumento: 
+ 
 
-Maggiori assegnazioni allo stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1929-30. (030U0847)
---------------------------------------------------------------------------------------------------------------------------------------
+Cap. n. 182 - Restituzioni e rimborsi(Imposte dirette) . . . L. 20.000.000
+Cap. n. 219 Vincite al lotto . . . . . . . . . . . . . . . » 10.000.000
+ -------------
+ Totale . . . . . . . . . . . . . . . . . . . . L. 30.000.000
+ -------------
 
-Entrata in vigore del provvedimento: 23/06/1930
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
-  
-RE D'ITALIA   
-  
-Vista la [legge 27 giugno 1929, n. 1034](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-27;1034);   
-  
-Visto l'[art. 41, primo comma, del R. decreto 18 novembre 1923, n. 2440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440~art41-com1), sulla contabilita' generale dello Stato;   
-  
-Udito il Consiglio dei Ministri;   
-  
-Sulla proposta del Nostro Ministro Segretario di Stato per le finanze;   
-  
-Abbiamo decretato e decretiamo:   
-  
-Nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1929-30, sono apportate le seguenti variazioni in aumento:   
-  
-  
-Cap. n. 182 - Restituzioni e rimborsi(Imposte dirette) . . . L. 20.000.000  
-Cap. n. 219 Vincite al lotto . . . . . . . . . . . . . . . » 10.000.000  
--------------  
-Totale . . . . . . . . . . . . . . . . . . . . L. 30.000.000  
--------------  
-  
-  
-  
-Il presente decreto andra' in vigore il giorno della sua data.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 giugno 1930 - Anno VIII   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 27 giugno 1930 - Anno VIII   
-  
-Atti del Governo, registro 297, foglio 112. - Mancini.   
-  
+ 
+ 
+ Il presente decreto andra' in vigore il giorno della sua data. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 giugno 1930 - Anno VIII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 27 giugno 1930 - Anno VIII 
+ 
+ Atti del Governo, registro 297, foglio 112. - Mancini.

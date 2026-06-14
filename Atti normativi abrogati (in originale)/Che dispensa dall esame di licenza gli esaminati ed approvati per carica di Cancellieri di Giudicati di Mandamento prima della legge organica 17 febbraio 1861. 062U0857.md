@@ -1,16 +1,14 @@
-REGIO DECRETO 25 settembre 1862 n. 857
-
-
-REGIO DECRETO 25 settembre 1862 n. 857
-======================================
-
-Che dispensa dall' esame di licenza gli esaminati ed approvati per carica di Cancellieri di Giudicati di Mandamento prima della legge organica 17 febbraio 1861. (062U0857)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/10/1862
+---
+tipo: REGIO DECRETO
+numero: 857
+data: 1862-09-25
+titolo: "Che dispensa dall' esame di licenza gli esaminati ed approvati per carica di Cancellieri di Giudicati di Mandamento prima della legge organica 17 febbraio 1861. (062U0857)"
+urn: urn:nir:stato:regio.decreto:1862-09-25;857
+codice_redazionale: 062U0857
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Visto l'art. 5 del R. Decreto del 19 gennaio 1862, pel quale e' fatta facolta' a
 
 Considerando esservi tuttavia un numero di eleggibili a cariche di Cancellieri di Giudicati di Mandamento, i quali, trovandosi gia' esaminati ed approvati per siffatte piazze pria della pubblicazione della cennata legge organica, non potrebbero conseguire la carica per la quale concorsero, stante la mancanza della licenza richiesta dalla nuova legge sopravvenuta, per lo che fa mestieri di una disposizione transitoria pel passaggio dall'antica alla novella legge;
 
-Sulla
------
+Sulla proposizione del Nostro Guardasigilli, Ministro Segretario di Stato di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposizione del Nostro Guardasigilli, Ministro Segretario di Stato di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Tutti gli esaminati ed approvati per carica di Cancelliere di Giudicato di Mandamento anteriormente alla pubblicazione della novella legge organica per l'ordinamento giudiziario nelle Provincie Napoletane del 17 febbraio 1861 sono dispensati dalla licenza in giurisprudenza, qualora in loro concorrano tutti gli altri requisiti necessari per conseguire la carica per la quale vennero esaminati ed approvati.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 25 settembre 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 29 settembre 1862   
-  
-Reg.° 20 Atti del Governo a c. 309. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
-  
-Raffaele Conforti.   
-  
+Tutti gli esaminati ed approvati per carica di Cancelliere di Giudicato di Mandamento anteriormente alla pubblicazione della novella legge organica per l'ordinamento giudiziario nelle Provincie Napoletane del 17 febbraio 1861 sono dispensati dalla licenza in giurisprudenza, qualora in loro concorrano tutti gli altri requisiti necessari per conseguire la carica per la quale vennero esaminati ed approvati. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 25 settembre 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 29 settembre 1862 
+ 
+ Reg.° 20 Atti del Governo a c. 309. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ Raffaele Conforti.

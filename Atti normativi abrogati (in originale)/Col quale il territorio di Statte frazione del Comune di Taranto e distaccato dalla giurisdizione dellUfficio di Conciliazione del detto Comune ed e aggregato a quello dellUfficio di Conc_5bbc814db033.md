@@ -1,16 +1,14 @@
-REGIO DECRETO 19 giugno 1898 n. 314
-
-
-REGIO DECRETO 19 giugno 1898 n. 314
-===================================
-
-Col quale il territorio di Statte, frazione del Comune di Taranto, e' distaccato dalla giurisdizione dell'Ufficio di Conciliazione del detto Comune, ed e' aggregato a quello dell'Ufficio di Conciliazione della frazione di Crispiano. (098U0314)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/08/1898
+---
+tipo: REGIO DECRETO
+numero: 314
+data: 1898-06-19
+titolo: "Col quale il territorio di Statte, frazione del Comune di Taranto, e' distaccato dalla giurisdizione dell'Ufficio di Conciliazione del detto Comune, ed e' aggregato a quello dell'Ufficio di Conciliazione della frazione di Crispiano. (098U0314)"
+urn: urn:nir:stato:regio.decreto:1898-06-19;314
+codice_redazionale: 098U0314
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Vista la deliberazione del Consiglio comunale di Taranto, in data 4 novembre 189
 
 Visto il rapporto del Primo Presidente della Corte d'appello di Trani, in data 30 maggio corrente anno;
 
-Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;261~art1), e 1 del regolamento 26 dicembre stesso anno, n. 728;
+Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del regolamento 26 dicembre stesso anno, n. 728;
 
-Sulla
------
+Sulla preposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-preposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal 1° agosto 1898 il territorio di Statte, frazione del Comune di Taranto, e' distaccato dalla giurisdizione dell'Ufficio di Conciliazione del detto Comune, ed e' aggregato a quello dell'Ufficio di Conciliazione della frazione di Crispiano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto cha Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 giugno 1898.   
-  
-UMBERTO.   
-  
-T. Bonacci.   
-  
-Visto, Il Guardasigilli: T. Bonacci.   
-  
+Dal 1° agosto 1898 il territorio di Statte, frazione del Comune di Taranto, e' distaccato dalla giurisdizione dell'Ufficio di Conciliazione del detto Comune, ed e' aggregato a quello dell'Ufficio di Conciliazione della frazione di Crispiano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto cha Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 giugno 1898. 
+ 
+ UMBERTO. 
+ 
+ T. Bonacci. 
+ 
+ Visto, Il Guardasigilli: T. Bonacci.

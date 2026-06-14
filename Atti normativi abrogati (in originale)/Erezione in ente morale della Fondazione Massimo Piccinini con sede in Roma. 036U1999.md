@@ -1,21 +1,21 @@
-REGIO DECRETO 08 ottobre 1936 n. 1999
+---
+tipo: REGIO DECRETO
+numero: 1999
+data: 1936-10-08
+titolo: "Erezione in ente morale della Fondazione «Massimo Piccinini», con sede in Roma. (036U1999)"
+urn: urn:nir:stato:regio.decreto:1936-10-08;1999
+codice_redazionale: 036U1999
+vigente: true
+---
 
-
-REGIO DECRETO 08 ottobre 1936 n. 1999
-=====================================
-
-Erezione in ente morale della Fondazione «Massimo Piccinini», con sede in Roma. (036U1999)
-------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/12/1936
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1999. R. decreto 8 ottobre 1936, col quale, sulla proposta del Ministro per l'educazione nazionale, la Fondazione «Massimo Piccinini», istituita presso l'Accademia di storia dell'arte sanitaria, con sede in Roma, viene eretta in ente morale, e ne viene approvato lo statuto.   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 3 novembre 1936 - Anno XV
+1999.
+
+R. decreto 8 ottobre 1936, col quale, sulla proposta del Ministro per l'educazione nazionale, la Fondazione «Massimo Piccinini», istituita presso l'Accademia di storia dell'arte sanitaria, con sede in Roma, viene eretta in ente morale, e ne viene approvato lo statuto. 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 3 novembre 1936 - Anno XV

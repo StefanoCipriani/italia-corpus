@@ -1,16 +1,14 @@
-REGIO DECRETO-LEGGE 31 dicembre 1923 n. 3177
-
-
-REGIO DECRETO-LEGGE 31 dicembre 1923 n. 3177
-============================================
-
-Autorizzazione della gestione diretta, in deroga alla contabilita' generale dello Stato, della ferrovia Calalzo-Dobbiaco e della navigazione sul lago di Garda. (023U3177)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/02/1924 Regio Decreto-Legge convertito dalla [L. 17 aprile 1925, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473) (in G.U. 05/05/1925, n.104).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 3177
+data: 1923-12-31
+titolo: "Autorizzazione della gestione diretta, in deroga alla contabilita' generale dello Stato, della ferrovia Calalzo-Dobbiaco e della navigazione sul lago di Garda. (023U3177)"
+urn: urn:nir:stato:regio.decreto.legge:1923-12-31;3177
+codice_redazionale: 023U3177
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,55 +26,36 @@ Viste le nuove disposizioni sull'amministrazione e sulla contabilita' generale d
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto col Nostro Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto col Nostro Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A decorrere dal 1° gennaio 1924, il Ministero dei lavori pubblici e' autorizzato a proseguire direttamente l'esercizio della ferrovia Calalzo-Dobbiaco e della navigazione sul lago di Garda fino a quando non siasi provveduto alla concessione di esse all'industria privata, ed in ogni caso, non oltre il 30 giugno 1924.
 
-  
-  
-A decorrere dal 1° gennaio 1924, il Ministero dei lavori pubblici e' autorizzato a proseguire direttamente l'esercizio della ferrovia Calalzo-Dobbiaco e della navigazione sul lago di Garda fino a quando non siasi provveduto alla concessione di esse all'industria privata, ed in ogni caso, non oltre il 30 giugno 1924.   
-  
+## Art. 2.
 
-Art. 2
-------
+La gestione sara' fatta a mezzo di Commissari governativi, i quali potranno condurla in deroga ed all'infuori delle norme di contabilita' generale dello Stato, salvo resa di conti alla fine della gestione stessa.
 
-  
-  
-La gestione sara' fatta a mezzo di Commissari governativi, i quali potranno condurla in deroga ed all'infuori delle norme di contabilita' generale dello Stato, salvo resa di conti alla fine della gestione stessa.   
-  
+## Art. 3.
 
-Art. 3
-------
+La spesa occorrente per colmare eventuali deficienze di esercizio, sara' imputata sul capitolo 131 del bilancio passivo del predetto Ministero per l'esercizio 1923-924. 
+ 
+ Il Nostro Ministro per le finanze e' autorizzato ad introdurre con proprio decreto le necessarie modificazioni nella denominazione del suindicato capitolo.
 
-  
-  
-La spesa occorrente per colmare eventuali deficienze di esercizio, sara' imputata sul capitolo 131 del bilancio passivo del predetto Ministero per l'esercizio 1923-924.   
-  
-Il Nostro Ministro per le finanze e' autorizzato ad introdurre con proprio decreto le necessarie modificazioni nella denominazione del suindicato capitolo.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Il presente decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 31 dicembre 1923.   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Carnazza - De' Stefani.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, con riserva, addi' 9 febbraio 1924.   
-  
-Atti del Governo, registro 221, foglio 116. - Granata.   
-  
+Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 31 dicembre 1923. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Carnazza - De' Stefani. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, con riserva, addi' 9 febbraio 1924. 
+ 
+ Atti del Governo, registro 221, foglio 116. - Granata.

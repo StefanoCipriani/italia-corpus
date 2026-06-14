@@ -1,22 +1,18 @@
-REGIO DECRETO 01 dicembre 1901 n. CCCLII
+---
+tipo: REGIO DECRETO
+numero: CCCLII
+data: 1901-12-01
+titolo: "Che trasforma in istituzione elemosiniera l'opera pia di culto in Rignano Garganico. (0100352R)"
+urn: urn:nir:stato:regio.decreto:1901-12-01;352
+codice_redazionale: 0100352R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 dicembre 1901 n. CCCLII
-========================================
-
-Che trasforma in istituzione elemosiniera l'opera pia di culto in Rignano Garganico. (0100352R)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/01/1902
-
-Art. 1
-------
-
-  
-Con cui viene trasformata in istituzione elemosiniera a favore dei poveri l'opera pia di culto costituita in Rignano Garganico con atto pubblico 28 settembre 1858 rogato Saverio De Majo e la medesima e' concentrata nella congregazione di carita' di Rignano Garganico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F.  
-Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 13 dicembre 1901.   
-  
-Reg. 231. Atti del Governo a f. 186.   
-  
+Con cui viene trasformata in istituzione elemosiniera a favore dei poveri l'opera pia di culto costituita in Rignano Garganico con atto pubblico 28 settembre 1858 rogato Saverio De Majo e la medesima e' concentrata nella congregazione di carita' di Rignano Garganico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F.
+Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 13 dicembre 1901. 
+ 
+ Reg. 231. Atti del Governo a f. 186.

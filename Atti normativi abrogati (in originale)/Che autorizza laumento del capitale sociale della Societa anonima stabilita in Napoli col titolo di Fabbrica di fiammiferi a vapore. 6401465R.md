@@ -1,31 +1,39 @@
-REGIO DECRETO 18 dicembre 1864 n. MCCCCLXV
+---
+tipo: REGIO DECRETO
+numero: MCCCCLXV
+data: 1864-12-18
+titolo: "Che autorizza l'aumento del capitale sociale della Societa' anonima stabilita in Napoli col titolo di Fabbrica di fiammiferi a vapore. (6401465R)"
+urn: urn:nir:stato:regio.decreto:1864-12-18;1465
+codice_redazionale: 6401465R
+vigente: true
+---
 
+VITTORIO EMANUELE II
 
-REGIO DECRETO 18 dicembre 1864 n. MCCCCLXV
-==========================================
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
-Che autorizza l'aumento del capitale sociale della Societa' anonima stabilita in Napoli col titolo di Fabbrica di fiammiferi a vapore. (6401465R)
--------------------------------------------------------------------------------------------------------------------------------------------------
+RE D'ITALIA
 
-Entrata in vigore del provvedimento: 28/01/1865
+Vista la deliberazione presa in adunanza del 6 novembre 1864 dagli Azionisti della Societa' stabilita in Napoli col titolo di Fabbrica di fiammiferi a vapore;
 
-Articolo unico
---------------
+Visto il Nostro Decreto del 10 luglio 1864 di autorizzazione della Societa' stessa;
 
-  
-  
-La Societa' anonima stabilita in Napoli col titolo di Fabbrica di fiammiferi a vapore e' autorizzata ad aumentare di lire centomila il suo capitale sociale, mediante l'emissione di altre 500 azioni da L. 200 caduna.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 18 dicembre 1864.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 8 gennaio 1865   
-Reg.° 32 Atti del Governo a c. 24. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli VACCA.   
-  
-TORELLI.   
-  
-  
+Sentito il parere del Consiglio di Stato;
+
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+
+## Articolo unico.
+
+La Societa' anonima stabilita in Napoli col titolo di Fabbrica di fiammiferi a vapore e' autorizzata ad aumentare di lire centomila il suo capitale sociale, mediante l'emissione di altre 500 azioni da L. 200 caduna. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 18 dicembre 1864. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 8 gennaio 1865 
+ Reg.° 32 Atti del Governo a c. 24. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli VACCA. 
+ 
+ TORELLI.

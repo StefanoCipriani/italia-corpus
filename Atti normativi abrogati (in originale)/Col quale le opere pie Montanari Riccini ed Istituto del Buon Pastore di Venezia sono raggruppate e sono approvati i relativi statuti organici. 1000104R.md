@@ -1,19 +1,15 @@
-REGIO DECRETO 03 marzo 1910 n. CIV
+---
+tipo: REGIO DECRETO
+numero: CIV
+data: 1910-03-03
+titolo: "Col quale le opere pie Montanari Riccini ed Istituto del Buon Pastore di Venezia sono raggruppate e sono approvati i relativi statuti organici. (1000104R)"
+urn: urn:nir:stato:regio.decreto:1910-03-03;104
+codice_redazionale: 1000104R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 marzo 1910 n. CIV
-==================================
-
-Col quale le opere pie Montanari Riccini ed Istituto del Buon Pastore di Venezia sono raggruppate e sono approvati i relativi statuti organici. (1000104R)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/05/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CIV (Dato a Roma, il 3 marzo 1910), col quale le opere pie Montanari Riccini ed Istituto del Buon Pastore di Venezia sono raggruppate e sono approvati i relativi statuti organici.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CIV (Dato a Roma, il 3 marzo 1910), col quale le opere pie Montanari Riccini ed Istituto del Buon Pastore di Venezia sono raggruppate e sono approvati i relativi statuti organici.

@@ -1,17 +1,17 @@
-REGIO DECRETO 16 febbraio 1922 n. 1181
+---
+tipo: REGIO DECRETO
+numero: 1181
+data: 1922-02-16
+titolo: "Erezione in Ente morale. (022U1181)"
+urn: urn:nir:stato:regio.decreto:1922-02-16;1181
+codice_redazionale: 022U1181
+vigente: true
+---
 
-
-REGIO DECRETO 16 febbraio 1922 n. 1181
-======================================
-
-Erezione in Ente morale. (022U1181)
------------------------------------
-
-Entrata in vigore del provvedimento: 20/09/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1181. Regio decreto 16 febbraio 1922, col quale sulla proposta del ministro per l'industria ed il commercio, si autorizza la erezione in Ente morale della istituenda scuola di arti e mestieri «Morini Pedrina» di Este.
+1181.
+
+Regio decreto 16 febbraio 1922, col quale sulla proposta del ministro per l'industria ed il commercio, si autorizza la erezione in Ente morale della istituenda scuola di arti e mestieri «Morini Pedrina» di Este.

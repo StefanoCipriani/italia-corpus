@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 17 febbraio 1916 n. 408
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 408
+data: 1916-02-17
+titolo: "Annullamento di contributi a carico del comune di Seregno. (016U0408)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-02-17;408
+codice_redazionale: 016U0408
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 17 febbraio 1916 n. 408
-===============================================
-
-Annullamento di contributi a carico del comune di Seregno. (016U0408)
----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/05/1916
-
-Art. 1
-------
-
-null
+## Art. 1. — null

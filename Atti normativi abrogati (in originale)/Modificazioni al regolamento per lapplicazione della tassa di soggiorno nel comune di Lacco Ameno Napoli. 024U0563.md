@@ -1,22 +1,22 @@
-REGIO DECRETO 17 febbraio 1924 n. 563
+---
+tipo: REGIO DECRETO
+numero: 563
+data: 1924-02-17
+titolo: "Modificazioni al regolamento per l'applicazione della tassa di soggiorno nel comune di Lacco Ameno (Napoli). (024U0563)"
+urn: urn:nir:stato:regio.decreto:1924-02-17;563
+codice_redazionale: 024U0563
+vigente: true
+---
 
-
-REGIO DECRETO 17 febbraio 1924 n. 563
-=====================================
-
-Modificazioni al regolamento per l'applicazione della tassa di soggiorno nel comune di Lacco Ameno (Napoli). (024U0563)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/05/1924
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-563. R. decreto 17 febbraio 1924, col quale, sulla proposta del Ministro per l'interno, Presidente del Consiglio dei Ministri, vengono apportate modificazioni al regolamento per l'applicazione della tassa di soggiorno nel comune di Lacco Ameno (Napoli).   
-  
-  
-Visto, Il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 29 aprile 1924.
+563.
+
+R. decreto 17 febbraio 1924, col quale, sulla proposta del Ministro per l'interno, Presidente del Consiglio dei Ministri, vengono apportate modificazioni al regolamento per l'applicazione della tassa di soggiorno nel comune di Lacco Ameno (Napoli). 
+ 
+ 
+ Visto, Il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 29 aprile 1924.

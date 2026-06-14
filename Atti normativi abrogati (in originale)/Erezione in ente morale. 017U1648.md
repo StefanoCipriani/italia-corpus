@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 09 agosto 1917 n. 1648
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1648
+data: 1917-08-09
+titolo: "Erezione in ente morale. (017U1648)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-08-09;1648
+codice_redazionale: 017U1648
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 09 agosto 1917 n. 1648
-==============================================
-
-Erezione in ente morale. (017U1648)
------------------------------------
-
-Entrata in vigore del provvedimento: 13/11/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1648. Decreto Luogotenenziale 9 agosto 1917, col quale, sulla proposta del ministro dell'interno, l'Orfanotrofio israelitico italiano di Roma e' eretto in ente morale e ne e' approvato lo statuto organico.
+1648.
+
+Decreto Luogotenenziale 9 agosto 1917, col quale, sulla proposta del ministro dell'interno, l'Orfanotrofio israelitico italiano di Roma e' eretto in ente morale e ne e' approvato lo statuto organico.

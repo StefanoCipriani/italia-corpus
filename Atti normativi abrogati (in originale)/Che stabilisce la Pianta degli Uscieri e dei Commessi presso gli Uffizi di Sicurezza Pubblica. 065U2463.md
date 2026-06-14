@@ -1,16 +1,14 @@
-REGIO DECRETO 24 agosto 1865 n. 2463
-
-
-REGIO DECRETO 24 agosto 1865 n. 2463
-====================================
-
-Che stabilisce la Pianta degli Uscieri e dei Commessi presso gli Uffizi di Sicurezza Pubblica. (065U2463)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/09/1865
+---
+tipo: REGIO DECRETO
+numero: 2463
+data: 1865-08-24
+titolo: "Che stabilisce la Pianta degli Uscieri e dei Commessi presso gli Uffizi di Sicurezza Pubblica. (065U2463)"
+urn: urn:nir:stato:regio.decreto:1865-08-24;2463
+codice_redazionale: 065U2463
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,38 +24,31 @@ Veduti i Regii Decreti del 27 aprile 1865, n.i 2283 e 2284, coi quali vennero is
 
 Considerando che e' necessario, nell' interesse del pubblico servizio, che il personale degli Uscieri e Commessi di Questura di Sicurezza Pubblica sia determinato in modo uniforme per tutto il Regno e meglio corrispondente alle esigenze del servizio;
 
-Sulla
------
+Sulla proposizione del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Pianta degli Uscieri e dei Commessi presso gli Uffizi di Questura e di Sezione dell'Amministrazione di Pubblica Sicurezza rimane stabilita per tutto il Regno come infra:   
-  
-N.° 7 Uscieri a . . . . . . . . . . . . . L. 1,000 . . L. 7,000   
-» 30 Commessi a . . . . . . . . . . . . » 800 . . » 24,000   
-» 45 Id. a . . . . . . . . . . . . » 600 . . » 27,000   
-» 19 Id. a . . . . . . . . . . . . » 500 . . » 9,500   
-» 22 Id. a . . . . . . . . . . . . » 400 . . » 8,800   
---- ------   
-N.° 123 L. 76,300   
---- ------   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 24 agosto 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 9 settembre 1865   
-  
-Reg.° 33 Atti del Governo a c. 176. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-G. Lanza.   
-  
+La Pianta degli Uscieri e dei Commessi presso gli Uffizi di Questura e di Sezione dell'Amministrazione di Pubblica Sicurezza rimane stabilita per tutto il Regno come infra: 
+ 
+ N.° 7 Uscieri a . . . . . . . . . . . . . L. 1,000 . . L. 7,000 
+ » 30 Commessi a . . . . . . . . . . . . » 800 . . » 24,000 
+ » 45 Id. a . . . . . . . . . . . . » 600 . . » 27,000 
+ » 19 Id. a . . . . . . . . . . . . » 500 . . » 9,500 
+ » 22 Id. a . . . . . . . . . . . . » 400 . . » 8,800 
+ --- ------ 
+ N.° 123 L. 76,300 
+ --- ------ 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 24 agosto 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 9 settembre 1865 
+ 
+ Reg.° 33 Atti del Governo a c. 176. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ G. Lanza.

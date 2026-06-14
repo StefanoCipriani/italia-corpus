@@ -1,16 +1,14 @@
-REGIO DECRETO 12 febbraio 1863 n. 1147
-
-
-REGIO DECRETO 12 febbraio 1863 n. 1147
-======================================
-
-Che scioglie la Commissione Superiore provvisoria per l'Amministrazione della Marina mercantile nelle Provincie Napoletane. (063U1147)
---------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/03/1863
+---
+tipo: REGIO DECRETO
+numero: 1147
+data: 1863-02-12
+titolo: "Che scioglie la Commissione Superiore provvisoria per l'Amministrazione della Marina mercantile nelle Provincie Napoletane. (063U1147)"
+urn: urn:nir:stato:regio.decreto:1863-02-12;1147
+codice_redazionale: 063U1147
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Visti gli articoli 4 e 10 del Regio Decreto 22 dicembre 1861, n.° 387, col prim
 
 Ritenuto che a seguito dei suddetti provvedimenti il servizio giudiziario ed amministrativo della Marina mercantile sarebbe convenientemente assicurato;
 
-Sulla
------
+Sulla proposizione del Ministro della Marina; Abbiamo decretato e decretiamo quanto segue:
 
-proposizione del Ministro della Marina; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Commissione Superiore provvisoria per l'Amministrazione della Marina mercantile nelle Provincie Napoletane, creata con Nostro Decreto del 21 marzo 1861, e' sciolta a far tempo dal 1.° del prossimo venturo mese di marzo.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 12 febbraio 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 19 febbraio 1863   
-  
-Reg.° 22 Atti del Governo a c. 79. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-O. Di Negro.   
-  
+La Commissione Superiore provvisoria per l'Amministrazione della Marina mercantile nelle Provincie Napoletane, creata con Nostro Decreto del 21 marzo 1861, e' sciolta a far tempo dal 1.° del prossimo venturo mese di marzo. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 12 febbraio 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 19 febbraio 1863 
+ 
+ Reg.° 22 Atti del Governo a c. 79. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ O. Di Negro.

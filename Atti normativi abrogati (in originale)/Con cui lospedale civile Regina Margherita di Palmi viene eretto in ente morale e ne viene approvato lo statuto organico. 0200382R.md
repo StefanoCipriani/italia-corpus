@@ -1,21 +1,17 @@
-REGIO DECRETO 20 ottobre 1902 n. CCCLXXXII
+---
+tipo: REGIO DECRETO
+numero: CCCLXXXII
+data: 1902-10-20
+titolo: "Con cui l'ospedale civile «Regina Margherita» di Palmi viene eretto in ente morale e ne viene approvato lo statuto organico. (0200382R)"
+urn: urn:nir:stato:regio.decreto:1902-10-20;382
+codice_redazionale: 0200382R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 ottobre 1902 n. CCCLXXXII
-==========================================
-
-Con cui l'ospedale civile «Regina Margherita» di Palmi viene eretto in ente morale e ne viene approvato lo statuto organico. (0200382R)
----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/12/1902
-
-Art. 1
-------
-
-  
-Con cui l'ospedale civile «Regina Margherita» di Palmi viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 9 novembre 1902.   
-  
-Reg. 6. Atti del Governo a f. 135.   
-  
+Con cui l'ospedale civile «Regina Margherita» di Palmi viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 9 novembre 1902. 
+ 
+ Reg. 6. Atti del Governo a f. 135.

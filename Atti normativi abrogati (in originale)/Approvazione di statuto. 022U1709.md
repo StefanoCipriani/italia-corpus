@@ -1,17 +1,17 @@
-REGIO DECRETO 07 dicembre 1922 n. 1709
+---
+tipo: REGIO DECRETO
+numero: 1709
+data: 1922-12-07
+titolo: "Approvazione di statuto. (022U1709)"
+urn: urn:nir:stato:regio.decreto:1922-12-07;1709
+codice_redazionale: 022U1709
+vigente: true
+---
 
-
-REGIO DECRETO 07 dicembre 1922 n. 1709
-======================================
-
-Approvazione di statuto. (022U1709)
------------------------------------
-
-Entrata in vigore del provvedimento: 25/01/1923
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1709. Regio decreto 7 dicembre 1922, col quale, sulla proposta del Ministro dell'interno, presidente del Consiglio dei ministri, viene approvato lo statuto organico in data 1° febbraio 1921 dell'asilo infantile di Cadibona.
+1709.
+
+Regio decreto 7 dicembre 1922, col quale, sulla proposta del Ministro dell'interno, presidente del Consiglio dei ministri, viene approvato lo statuto organico in data 1° febbraio 1921 dell'asilo infantile di Cadibona.

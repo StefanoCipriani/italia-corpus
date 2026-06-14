@@ -1,16 +1,14 @@
-REGIO DECRETO 18 dicembre 1869 n. 5406
-
-
-REGIO DECRETO 18 dicembre 1869 n. 5406
-======================================
-
-Col quale i Comuni di Riva Valdobbia e di Alagna costituiranno una Sezione elettorale separata del Collegio elettorale di Varallo. (069U5406)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/01/1870
+---
+tipo: REGIO DECRETO
+numero: 5406
+data: 1869-12-18
+titolo: "Col quale i Comuni di Riva Valdobbia e di Alagna costituiranno una Sezione elettorale separata del Collegio elettorale di Varallo. (069U5406)"
+urn: urn:nir:stato:regio.decreto:1869-12-18;5406
+codice_redazionale: 069U5406
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nei Comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Riva Valdobbia e di Alagna costituiranno d'ora innanzi una Sezione elettorale separata del Collegio elettorale di Varallo, con sede nel capoluogo di Riva Valdobbia.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 18 dicembre 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 24 dicembre 1869   
-  
-Reg. 49 Atti del Governo a c. 123. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Lanza.   
-  
+I Comuni di Riva Valdobbia e di Alagna costituiranno d'ora innanzi una Sezione elettorale separata del Collegio elettorale di Varallo, con sede nel capoluogo di Riva Valdobbia. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 18 dicembre 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 24 dicembre 1869 
+ 
+ Reg. 49 Atti del Governo a c. 123. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Lanza.

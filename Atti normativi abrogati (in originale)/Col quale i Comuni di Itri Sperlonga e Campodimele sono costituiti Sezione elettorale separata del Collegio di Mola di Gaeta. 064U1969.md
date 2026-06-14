@@ -1,16 +1,14 @@
-REGIO DECRETO 09 ottobre 1864 n. 1969
-
-
-REGIO DECRETO 09 ottobre 1864 n. 1969
-=====================================
-
-Col quale i Comuni di Itri, Sperlonga e Campodimele sono costituiti Sezione elettorale separata del Collegio di Mola di Gaeta. (064U1969)
------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/11/1864
+---
+tipo: REGIO DECRETO
+numero: 1969
+data: 1864-10-09
+titolo: "Col quale i Comuni di Itri, Sperlonga e Campodimele sono costituiti Sezione elettorale separata del Collegio di Mola di Gaeta. (064U1969)"
+urn: urn:nir:stato:regio.decreto:1864-10-09;1969
+codice_redazionale: 064U1969
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,30 +24,22 @@ Noverandosi nei Comuni di Itri, Sperlonga e Campodimele piu' di 40 elettori, e p
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Itri, Sperlonga e Campodimele, che sin qui fecero parte della sezione del Collegio elettorale di Mola di Gaeta, oggi Formia, n.° 391, detta di Fondi, costituiranno d'ora in poi una Sezione del Collegio medesimo che si radunera' in Itri.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Torino addi' 9 ottobre 1864.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 27 ottobre 1864   
-  
-Reg.° 31 Atti del Governo a c. 101. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-G. Lanza.   
-  
-  
+I Comuni di Itri, Sperlonga e Campodimele, che sin qui fecero parte della sezione del Collegio elettorale di Mola di Gaeta, oggi Formia, n.° 391, detta di Fondi, costituiranno d'ora in poi una Sezione del Collegio medesimo che si radunera' in Itri. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Torino addi' 9 ottobre 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 ottobre 1864 
+ 
+ Reg.° 31 Atti del Governo a c. 101. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ G. Lanza.

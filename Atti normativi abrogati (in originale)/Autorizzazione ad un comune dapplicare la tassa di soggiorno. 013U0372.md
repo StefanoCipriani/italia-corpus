@@ -1,19 +1,15 @@
-REGIO DECRETO 03 aprile 1913 n. 372
+---
+tipo: REGIO DECRETO
+numero: 372
+data: 1913-04-03
+titolo: "Autorizzazione ad un comune d'applicare la tassa di soggiorno. (013U0372)"
+urn: urn:nir:stato:regio.decreto:1913-04-03;372
+codice_redazionale: 013U0372
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 aprile 1913 n. 372
-===================================
-
-Autorizzazione ad un comune d'applicare la tassa di soggiorno. (013U0372)
--------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/05/1913
-
-Art. 1
-------
-
-  
-N. 372   
-  
-Regio Decreto 3 aprile 1913, con il quale, sulla proposta del ministro dell'interno, di concerto col ministro delle finanze, il comune di Castiglione dei Pepoli (Bologna), viene autorizzato ad applicare la tassa di soggiorno, ai sensi della [legge 11 dicembre 1910, n. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-11;863), e ne e' approvato il regolamento.   
-  
+N. 372 
+ 
+ Regio Decreto 3 aprile 1913, con il quale, sulla proposta del ministro dell'interno, di concerto col ministro delle finanze, il comune di Castiglione dei Pepoli (Bologna), viene autorizzato ad applicare la tassa di soggiorno, ai sensi della [legge 11 dicembre 1910, n. 863](Che%20da%20facolta%20ai%20Comuni%20di%20istituire%20una%20tassa%20di%20soggiorno.%20010U0863.md), e ne e' approvato il regolamento.

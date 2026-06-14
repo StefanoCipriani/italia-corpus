@@ -1,16 +1,14 @@
-REGIO DECRETO 11 gennaio 1863 n. 1146
-
-
-REGIO DECRETO 11 gennaio 1863 n. 1146
-=====================================
-
-Che stabilisce il riparto della rendita di L. 8,000 inscritta sul Debito pubblico per riscatto dei feudi di Senis e Posada in Sardegna. (063U1146)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/03/1863
+---
+tipo: REGIO DECRETO
+numero: 1146
+data: 1863-01-11
+titolo: "Che stabilisce il riparto della rendita di L. 8,000 inscritta sul Debito pubblico per riscatto dei feudi di Senis e Posada in Sardegna. (063U1146)"
+urn: urn:nir:stato:regio.decreto:1863-01-11;1146
+codice_redazionale: 063U1146
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,63 +20,52 @@ Veduta la transazione in data 25 maggio 1860, per la quale gli eredi della Duche
 
 Vedute le convenzioni 24 e 30 gennaio 1861 stipulate fra gli anzidetti eredi pel riparto della rendita a ciascuno di essi spettante;
 
-Sulla
------
+Sulla relazione del Ministro delle Finanze; Abbiamo ordinato ed ordiniamo:
 
-relazione del Ministro delle Finanze; Abbiamo ordinato ed ordiniamo:
+## Art. 1.
 
-Art. 1
-------
+La rendita al 5 p. % da emettersi su quella di L. 576,000 creata coi Regii Editti 21 agosto 1838 e 27 maggio 1843, con decorrenza dal 1.° gennaio 1862, e' stabilita in L. 8,000, ed il corrispondente fondo di estinzione e' determinato in L. 1,600.
 
-  
-  
-La rendita al 5 p. % da emettersi su quella di L. 576,000 creata coi Regii Editti 21 agosto 1838 e 27 maggio 1843, con decorrenza dal 1.° gennaio 1862, e' stabilita in L. 8,000, ed il corrispondente fondo di estinzione e' determinato in L. 1,600.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Pel servizio della rendita di cui all'articolo precedente e' fatta sulla Tesoreria Centrale del Regno, incominciando dal 1.° gennaio 1862, l'annua assegnazione di L. 8,000 da intestarsi nel modo e nelle proporzioni seguenti:   
-  
-A favore del Notaio Manca Vincenzo di Cagliari   
-  
-Cedola della rendita di L. 172.80   
-Id. id. » 80.64   
-Id. id. » 403.20   
-Id. id. » 240. »   
-Id. id. » 1,003.36   
-Id. id. » 500. »   
-Id. id. » 50. »   
-  
-A favore di Donna Gabriella dell'Alcazar, Duchessa di Sotto-Mayor, Marchesa vedova della Casa di Yrujo   
-  
-Cedola della rendita di L. 2.216.   
-  
-A favore di Donna Maria della Concezione Nero', Duchessa della Roca   
-  
-Cedola della rendita di L. 555.   
-  
-A favore di Donna Maria della Concezione Nero', Duchessa della Roca, come Amministratrice giudiziale dei beni del marito Don Vincenzo dell'Alcazar, Duca della Roca   
-  
-Cedola della rendita di L. 1,915. 70,   
-  
-Ed a favore di Don Serapio dell'Alcazar, Marchese di Pennafuente   
-  
-Cedola della rendita di L. 863. 30.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 11 gennaio 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 18 febbraio 1863   
-  
-Reg.° 22 Atti del Governo a c. 77. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-M. Minghetti.   
-  
+Pel servizio della rendita di cui all'articolo precedente e' fatta sulla Tesoreria Centrale del Regno, incominciando dal 1.° gennaio 1862, l'annua assegnazione di L. 8,000 da intestarsi nel modo e nelle proporzioni seguenti: 
+ 
+ A favore del Notaio Manca Vincenzo di Cagliari 
+ 
+ Cedola della rendita di L. 172.80 
+ Id. id. » 80.64 
+ Id. id. » 403.20 
+ Id. id. » 240. » 
+ Id. id. » 1,003.36 
+ Id. id. » 500. » 
+ Id. id. » 50. » 
+ 
+ A favore di Donna Gabriella dell'Alcazar, Duchessa di Sotto-Mayor, Marchesa vedova della Casa di Yrujo 
+ 
+ Cedola della rendita di L. 2.216. 
+ 
+ A favore di Donna Maria della Concezione Nero', Duchessa della Roca 
+ 
+ Cedola della rendita di L. 555. 
+ 
+ A favore di Donna Maria della Concezione Nero', Duchessa della Roca, come Amministratrice giudiziale dei beni del marito Don Vincenzo dell'Alcazar, Duca della Roca 
+ 
+ Cedola della rendita di L. 1,915. 70, 
+ 
+ Ed a favore di Don Serapio dell'Alcazar, Marchese di Pennafuente 
+ 
+ Cedola della rendita di L. 863. 30. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 11 gennaio 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 18 febbraio 1863 
+ 
+ Reg.° 22 Atti del Governo a c. 77. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ M. Minghetti.

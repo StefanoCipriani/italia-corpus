@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 14 ottobre 1915 n. 1698
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1698
+data: 1915-10-14
+titolo: "Annullamento di partite di consolidamento. (015U1698)"
+urn: urn:nir:stato:decreto.luogotenenziale:1915-10-14;1698
+codice_redazionale: 015U1698
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 14 ottobre 1915 n. 1698
-===============================================
-
-Annullamento di partite di consolidamento. (015U1698)
------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/12/1915
-
-Art. 1
-------
-
-null
+## Art. 1. — null

@@ -1,16 +1,14 @@
-REGIO DECRETO 07 luglio 1866 n. 3068
-
-
-REGIO DECRETO 07 luglio 1866 n. 3068
-====================================
-
-Di proroga della Sessione Parlamentare. (066U3068)
---------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/08/1866
+---
+tipo: REGIO DECRETO
+numero: 3068
+data: 1866-07-07
+titolo: "Di proroga della Sessione Parlamentare. (066U3068)"
+urn: urn:nir:stato:regio.decreto:1866-07-07;3068
+codice_redazionale: 066U3068
+vigente: true
+---
 
 EUGENIO
--------
 
 PRINCIPE DI SAVOJA-CARIGNANO
 
@@ -28,31 +26,24 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Ministro dell'Interno;
 
 Sentito il Consiglio dei Ministri;
 
-Visto
------
+Visto l'articolo 9 dello Statuto fondamentale del Regno; Abbiamo decretato e decretiamo quanto segue:
 
-l'articolo 9 dello Statuto fondamentale del Regno; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Sessione legislativa pel corrente anno del Senato del Regno e della Camera dei Deputati e' prorogata.   
-  
-Un altro Nostro posteriore Decreto stabilira' il giorno della sua riconvocazione.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze il 7 luglio 1866.   
-  
-EUGENIO DI SAVOJA   
-  
-Registrato alla Corte dei conti addi' 23 luglio 1866   
-  
-Reg.° 36 Atti del Governo a c. 195. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Borgatti.   
-  
-Ricasoli.   
-  
+La Sessione legislativa pel corrente anno del Senato del Regno e della Camera dei Deputati e' prorogata. 
+ 
+ Un altro Nostro posteriore Decreto stabilira' il giorno della sua riconvocazione. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze il 7 luglio 1866. 
+ 
+ EUGENIO DI SAVOJA 
+ 
+ Registrato alla Corte dei conti addi' 23 luglio 1866 
+ 
+ Reg.° 36 Atti del Governo a c. 195. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ Ricasoli.

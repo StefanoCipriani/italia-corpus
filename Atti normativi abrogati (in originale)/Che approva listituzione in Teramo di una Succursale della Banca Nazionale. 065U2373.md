@@ -1,16 +1,14 @@
-REGIO DECRETO 18 giugno 1865 n. 2373
-
-
-REGIO DECRETO 18 giugno 1865 n. 2373
-====================================
-
-Che approva l'istituzione in Teramo di una Succursale della Banca Nazionale. (065U2373)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/07/1865
+---
+tipo: REGIO DECRETO
+numero: 2373
+data: 1865-06-18
+titolo: "Che approva l'istituzione in Teramo di una Succursale della Banca Nazionale. (065U2373)"
+urn: urn:nir:stato:regio.decreto:1865-06-18;2373
+codice_redazionale: 065U2373
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,29 +16,22 @@ RE D'ITALIA
 
 Veduta la deliberazione 13 giugno 1865 del Consiglio Superiore della Banca Nazionale;
 
-Sulla
------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata l'istituzione nella citta' di Teramo di una Succursale della Banca Nazionale, in conformita' dell'anzidetta deliberazione.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 18 giugno 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 29 giugno 1865   
-  
-Reg.° 33 Atti del Governo a c. 38. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-Torelli.   
-  
+E' approvata l'istituzione nella citta' di Teramo di una Succursale della Banca Nazionale, in conformita' dell'anzidetta deliberazione. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 18 giugno 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 29 giugno 1865 
+ 
+ Reg.° 33 Atti del Governo a c. 38. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ Torelli.

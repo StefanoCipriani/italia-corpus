@@ -1,16 +1,14 @@
-REGIO DECRETO 21 giugno 1869 n. 5154
-
-
-REGIO DECRETO 21 giugno 1869 n. 5154
-====================================
-
-Che autorizza le frazioni di Ceriano, Solaro e Cogliate a tener separate tra loro le proprie rendite patrimoniali e passivita'. (069U5154)
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/07/1869
+---
+tipo: REGIO DECRETO
+numero: 5154
+data: 1869-06-21
+titolo: "Che autorizza le frazioni di Ceriano, Solaro e Cogliate a tener separate tra loro le proprie rendite patrimoniali e passivita'. (069U5154)"
+urn: urn:nir:stato:regio.decreto:1869-06-21;5154
+codice_redazionale: 069U5154
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Vista la deliberazione emessa dal Consiglio comunale di Ceriano Laghetto, in dat
 
 Visto l'articolo 16 della Legge comunale e provinciale, 20 marzo 1865;
 
-Sulla
------
+Sulla proposta del Ministro dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le frazioni di Ceriano, Solaro e Cogliate sono autorizzate a tener le proprie rendite patrimoniali e passivita' separate tra loro.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 21 giugno 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 3 luglio 1869   
-  
-Reg. 47 Atti del Governo a c. 124. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Pironti.   
-  
-Luigi Ferraris.   
-  
+Le frazioni di Ceriano, Solaro e Cogliate sono autorizzate a tener le proprie rendite patrimoniali e passivita' separate tra loro. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 21 giugno 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 3 luglio 1869 
+ 
+ Reg. 47 Atti del Governo a c. 124. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Pironti. 
+ 
+ Luigi Ferraris.

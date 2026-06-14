@@ -1,16 +1,14 @@
-REGIO DECRETO 13 agosto 1876 n. 3284
-
-
-REGIO DECRETO 13 agosto 1876 n. 3284
-====================================
-
-Col quale il comune di Macchia Valfortore e' distaccato dalla sezione elettorale di Sant'Elia a Pianisi, e costituito in sezione separata del collegio elettorale di Riccia. (076U3284)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/09/1876
+---
+tipo: REGIO DECRETO
+numero: 3284
+data: 1876-08-13
+titolo: "Col quale il comune di Macchia Valfortore e' distaccato dalla sezione elettorale di Sant'Elia a Pianisi, e costituito in sezione separata del collegio elettorale di Riccia. (076U3284)"
+urn: urn:nir:stato:regio.decreto:1876-08-13;3284
+codice_redazionale: 076U3284
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Macchiavalfortore e' separato dalla sezione di S. Elia a Pianisi e costituira' d'oggi innanzi una sezione distinta del Collegio elettorale di Riccia n. 253.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Cogne, addi' 13 agosto 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il comune di Macchiavalfortore e' separato dalla sezione di S. Elia a Pianisi e costituira' d'oggi innanzi una sezione distinta del Collegio elettorale di Riccia n. 253. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Cogne, addi' 13 agosto 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

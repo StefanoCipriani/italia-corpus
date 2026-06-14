@@ -1,16 +1,14 @@
-REGIO DECRETO 11 luglio 1866 n. 3075
-
-
-REGIO DECRETO 11 luglio 1866 n. 3075
-====================================
-
-Col quale le disposizioni dell'art. 72 delle Istruzioni doganali approvate col R. Decreto 30 ottobre 1862 sono estese alle derrate coloniali. (066U3075)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/08/1866
+---
+tipo: REGIO DECRETO
+numero: 3075
+data: 1866-07-11
+titolo: "Col quale le disposizioni dell'art. 72 delle Istruzioni doganali approvate col R. Decreto 30 ottobre 1862 sono estese alle derrate coloniali. (066U3075)"
+urn: urn:nir:stato:regio.decreto:1866-07-11;3075
+codice_redazionale: 066U3075
+vigente: true
+---
 
 EUGENIO
--------
 
 PRINCIPE DI SAVOJA-CARIGNANO
 
@@ -28,27 +26,20 @@ Visto l'articolo 49 del Regolamento doganale 11 settembre 1862 che ebbe provviso
 
 Visto l'art. 72 delle Istruzioni doganali approvate col Reale Decreto 30 ottobre 1862;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le disposizioni dell'art. 72 delle Istruzioni doganali suddette sugli articoli che si spediscono in cabottaggio da racchiudersi in colli bollati, sono estese alle derrate coloniali.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Firenze addi' 11 luglio 1866.   
-  
-EUGENIO DI SAVOJA   
-  
-Registrato alla Corte dei conti addi' 20 luglio 1866   
-  
-Reg.° 36 Atti del Governo a c. 182. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Borgatti.   
-  
-A. Scialoja.   
-  
+Le disposizioni dell'art. 72 delle Istruzioni doganali suddette sugli articoli che si spediscono in cabottaggio da racchiudersi in colli bollati, sono estese alle derrate coloniali. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Firenze addi' 11 luglio 1866. 
+ 
+ EUGENIO DI SAVOJA 
+ 
+ Registrato alla Corte dei conti addi' 20 luglio 1866 
+ 
+ Reg.° 36 Atti del Governo a c. 182. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ A. Scialoja.

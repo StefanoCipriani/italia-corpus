@@ -1,16 +1,14 @@
-REGIO DECRETO 06 marzo 1884 n. 2214
-
-
-REGIO DECRETO 06 marzo 1884 n. 2214
-===================================
-
-Col quale e' concessa la facolta' al Consorzio irriguo di Borgolavezzaro di riscuotere i contributi coi privilegi fiscali. (084U2214)
--------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/05/1884
+---
+tipo: REGIO DECRETO
+numero: 2214
+data: 1884-03-06
+titolo: "Col quale e' concessa la facolta' al Consorzio irriguo di Borgolavezzaro di riscuotere i contributi coi privilegi fiscali. (084U2214)"
+urn: urn:nir:stato:regio.decreto:1884-03-06;2214
+codice_redazionale: 084U2214
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,26 +20,20 @@ Visto l'atto di costituzione del 28 gennaio 1882, a rogito del dottor notaio Bal
 
 Visto il processo verbale della seduta 24 agosto 1883 dell'assemblea generale del Consorzio irriguo di Borgolavezzaro, nella quale furono accettate le modificazioni suggerite allo statuto del Consorzio stesso con la nota Ministeriale del 23 luglio 1883, n. 13747;
 
-Vista la [legge 29 maggio 1873, n. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (Serie 2ª);
+Vista la [legge 29 maggio 1873, n. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md) (Serie 2ª);
 
-Sulla
------
+Sulla proposta del Ministro d'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Ministro d'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al Consorzio irriguo di Borgolavezzaro (provincia di Novara), costituitosi con atto rogato dal notaio Balsari Carlo, per la irrigazione di terreni situati nel detto comune di Borgolavezzaro con acqua derivata dai canali Cavour, diramatone Quintino Sella, e' concessa la facolta', di riscuotere il contributo dei soci coi privilegi e nelle forme fiscali.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 marzo 1884.   
-  
-UMBERTO.   
-  
-BERTI.   
-  
-Visto, Il Guardasigilli: SAVELLI.   
+Al Consorzio irriguo di Borgolavezzaro (provincia di Novara), costituitosi con atto rogato dal notaio Balsari Carlo, per la irrigazione di terreni situati nel detto comune di Borgolavezzaro con acqua derivata dai canali Cavour, diramatone Quintino Sella, e' concessa la facolta', di riscuotere il contributo dei soci coi privilegi e nelle forme fiscali. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 marzo 1884. 
+ 
+ UMBERTO. 
+ 
+ BERTI. 
+ 
+ Visto, Il Guardasigilli: SAVELLI.

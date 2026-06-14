@@ -1,19 +1,15 @@
-REGIO DECRETO 16 maggio 1907 n. CLXXXVII
+---
+tipo: REGIO DECRETO
+numero: CLXXXVII
+data: 1907-05-16
+titolo: "Erezione in ente morale. (0700187R)"
+urn: urn:nir:stato:regio.decreto:1907-05-16;187
+codice_redazionale: 0700187R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 maggio 1907 n. CLXXXVII
-========================================
-
-Erezione in ente morale. (0700187R)
------------------------------------
-
-Entrata in vigore del provvedimento: 23/06/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CLXXXVII (Dato a Roma, il 16 maggio 1907), col quale la fondazione «Grimani nob. Leonardo» di Venezia e' eretta in ente morale.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CLXXXVII (Dato a Roma, il 16 maggio 1907), col quale la fondazione «Grimani nob. Leonardo» di Venezia e' eretta in ente morale.

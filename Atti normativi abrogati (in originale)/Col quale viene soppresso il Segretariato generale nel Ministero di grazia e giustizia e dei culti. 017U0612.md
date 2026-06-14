@@ -1,28 +1,23 @@
-DECRETO LUOGOTENENZIALE 12 aprile 1917 n. 612
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 612
+data: 1917-04-12
+titolo: "Col quale viene soppresso il Segretariato generale nel Ministero di grazia e giustizia e dei culti. (017U0612)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-04-12;612
+codice_redazionale: 017U0612
+vigente: true
+---
 
+## Articolo unico.
 
-DECRETO LUOGOTENENZIALE 12 aprile 1917 n. 612
-=============================================
-
-Col quale viene soppresso il Segretariato generale nel Ministero di grazia e giustizia e dei culti. (017U0612)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/05/1917
-
-Articolo unico
---------------
-
-  
-  
-Il Segretariato generale nel Ministero di grazia e giustizia e' soppresso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 aprile 1917.   
-  
-TOMASO DI SAVOIA.   
-  
-Boselli - Sacchi.   
-  
-Visto, II guardasigilli: Sacchi.   
-  
+Il Segretariato generale nel Ministero di grazia e giustizia e' soppresso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 aprile 1917. 
+ 
+ TOMASO DI SAVOIA. 
+ 
+ Boselli - Sacchi. 
+ 
+ Visto, II guardasigilli: Sacchi.

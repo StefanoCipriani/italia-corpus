@@ -1,30 +1,28 @@
-REGIO DECRETO 20 luglio 1928 n. 2023
-
-
-REGIO DECRETO 20 luglio 1928 n. 2023
-====================================
-
-Concessione alla Societa' per le forze idrauliche della Sila, con sede in Napoli, dell'impianto e dell'esercizio di due stazioni radiotelefoniche a onde guidate da installarsi nella cabina di Cerignola e in quella di Terlizzi. (028U2023)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/10/1928
+---
+tipo: REGIO DECRETO
+numero: 2023
+data: 1928-07-20
+titolo: "Concessione alla Societa' per le forze idrauliche della Sila, con sede in Napoli, dell'impianto e dell'esercizio di due stazioni radiotelefoniche a onde guidate da installarsi nella cabina di Cerignola e in quella di Terlizzi. (028U2023)"
+urn: urn:nir:stato:regio.decreto:1928-07-20;2023
+codice_redazionale: 028U2023
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto n. 1067 dell'8 febbraio 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-02-08;1067);
+Visto il [R. decreto n. 1067 dell'8 febbraio 1923](Che%20reca%20norme%20per%20il%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1067.md);
 
-Visto il [R. decreto n. 1488 del 14 giugno 1923](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1488);
+Visto il [R. decreto n. 1488 del 14 giugno 1923](Modificazioni%20ed%20aggiunte%20al%20R.%20decreto%208%20febbraio%201923%20n.%201067%20sul%20servizio%20delle%20comunicazioni%20senza%20filo.%20023U1488.md);
 
-Visto il [R. decreto-legge n. 655 del 1° maggio 1924](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-01;655), convertito nella [legge 17 aprile 1925, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
+Visto il [R. decreto-legge n. 655 del 1° maggio 1924](Modificazioni%20ed%20aggiunte%20ai%20Regi%20decreti%208%20febbraio%201923%20n.%201067%20e%2027%20settembre%201923%20n.%202351%20relativi%20alle%20comunicazioni%20senza%20filo.%20024U0655.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);
 
-Visto il [R. decreto n. 1226 del 10 luglio 1924](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-07-10;1226);
+Visto il [R. decreto n. 1226 del 10 luglio 1924](Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20Regio%20decreto%208%20febbraio%201923%20n.%201067%20e%20successive%20modificazioni%20riflettenti%20le%20comunicazioni%20senza%20filo.%20024U1226.md);
 
-Visto il [R. decreto-legge n. 520 del 23 aprile 1925](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-23;520), convertito nella [legge 21 marzo 1926, n. 597](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il [R. decreto-legge n. 520 del 23 aprile 1925](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
 
 Vista la domanda con la quale la Societa' per le forze idrauliche della Sila di Napoli chiede la concessione per l'impianto e l'esercizio di due stazioni radiotelefoniche ad onde guidate;
 
@@ -34,164 +32,98 @@ Visto l'atto di sottomissione con il quale la Societa' suddetta accetta le condi
 
 Udito il Consiglio di amministrazione delle poste e dei telegrafi;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con i Ministri per la guerra e per la marina; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con i Ministri per la guerra e per la marina; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Le Stato accorda alla Societa' per le forze idrauliche della Sila con sede in Napoli, via Medina n. 61, la concessione per l'impianto e l'esercizio di due stazioni radiotelefoniche a onde guidate da installarsi una nella cabina di Cerignola e l'altra nella cabina di Terlizzi che corrisponderanno con analoga stazione gia' installata nella cabina di Bari.
 
-  
-  
-Le Stato accorda alla Societa' per le forze idrauliche della Sila con sede in Napoli, via Medina n. 61, la concessione per l'impianto e l'esercizio di due stazioni radiotelefoniche a onde guidate da installarsi una nella cabina di Cerignola e l'altra nella cabina di Terlizzi che corrisponderanno con analoga stazione gia' installata nella cabina di Bari.   
-  
+## Art. 2.
 
-Art. 2
-------
+La concessione ha la durata di anni 10 a decorrere dalla data di pubblicazione nella Gazzetta Ufficiale del Regno del presente decreto, salvo a prorogarla con le eventuali modificazioni che potranno essere suggerite dalla tecnica.
 
-  
-  
-La concessione ha la durata di anni 10 a decorrere dalla data di pubblicazione nella Gazzetta Ufficiale del Regno del presente decreto, salvo a prorogarla con le eventuali modificazioni che potranno essere suggerite dalla tecnica.   
-  
+## Art. 3.
 
-Art. 3
-------
+La concessione e' accordata alla condizione della completa osservanza, da parte della Societa', di tutte le disposizioni legislative, regolamentari e di qualsiasi genere esistenti o che potranno essere, in seguito, emanate in merito alla radiotelegrafia e radiotelefonia.
 
-  
-  
-La concessione e' accordata alla condizione della completa osservanza, da parte della Societa', di tutte le disposizioni legislative, regolamentari e di qualsiasi genere esistenti o che potranno essere, in seguito, emanate in merito alla radiotelegrafia e radiotelefonia.   
-  
+## Art. 4.
 
-Art. 4
-------
+Le stazioni date in concessione devono essere adibite alla sola corrispondenza di servizio tra le sottostazioni di Cerignola e di Terlizzi con quella di Bari, restando assolutamente vietata qualsiasi comunicazione per conto di terzi.
 
-  
-  
-Le stazioni date in concessione devono essere adibite alla sola corrispondenza di servizio tra le sottostazioni di Cerignola e di Terlizzi con quella di Bari, restando assolutamente vietata qualsiasi comunicazione per conto di terzi.   
-  
-
-Art. 5
-------
+## Art. 5.
 
 La lunghezza d'onda assegnata a ciascuna stazione e' quella di m.
 
-1000. Tale onda dovra' essere variata nel caso arrecasse disturbi.
+1000.
 
-Art. 6
-------
+Tale onda dovra' essere variata nel caso arrecasse disturbi.
 
-  
-  
-La potenza dei macchinari di ciascuna stazione dovra' essere quella strettamente necessaria per assicurare buone comunicazioni in condizioni normali, di disturbi atmosferici, ed in ogni modo non superiore a 5 watt-antenna.   
-  
+## Art. 6.
 
-Art. 7
-------
+La potenza dei macchinari di ciascuna stazione dovra' essere quella strettamente necessaria per assicurare buone comunicazioni in condizioni normali, di disturbi atmosferici, ed in ogni modo non superiore a 5 watt-antenna.
 
-  
-  
-Le stazioni dovranno essere dotate dei necessari apparecchi di protezione contro l'alta tensione della linea elettrica e contro le scariche elettriche temporalesche.   
-  
+## Art. 7.
 
-Art. 8
-------
+Le stazioni dovranno essere dotate dei necessari apparecchi di protezione contro l'alta tensione della linea elettrica e contro le scariche elettriche temporalesche.
 
-  
-  
-La concessione e' esclusivamente accordata alla Societa' per le forze idrauliche della Sila, la quale non dovra' affittare o cedere ad altri, parzialmente o totalmente, la concessione stessa, senza espressa autorizzazione del Ministero delle comunicazioni.   
-  
+## Art. 8.
 
-Art. 9
-------
+La concessione e' esclusivamente accordata alla Societa' per le forze idrauliche della Sila, la quale non dovra' affittare o cedere ad altri, parzialmente o totalmente, la concessione stessa, senza espressa autorizzazione del Ministero delle comunicazioni.
 
-  
-  
-Le stazioni date in concessione sono sottoposte ad un controllo permanente o saltuario da parte del Ministero delle comunicazioni.   
-  
+## Art. 9.
 
-Art. 10
--------
+Le stazioni date in concessione sono sottoposte ad un controllo permanente o saltuario da parte del Ministero delle comunicazioni.
 
-  
-  
-I funzionari e gli agenti del Ministero delle comunicazioni hAnno il diritto di accedere in qualsiasi ora nei locali delle stazioni date in concessione per eseguire operazioni di controllo. La Societa' concessionaria si obbliga di dare tutte le spiegazioni che potranno esserle richieste.   
-  
+## Art. 10.
 
-Art. 11
--------
+I funzionari e gli agenti del Ministero delle comunicazioni hAnno il diritto di accedere in qualsiasi ora nei locali delle stazioni date in concessione per eseguire operazioni di controllo. La Societa' concessionaria si obbliga di dare tutte le spiegazioni che potranno esserle richieste.
 
-  
-  
-Le stazioni date in concessione saranno mantenute a cura e spese della Societa' concessionaria, la quale sara' legalmente responsabile del funzionamento degli impianti e delle sue conseguenze, compresi gli eventuali danni ed infortuni, al personale dipendente ed a terzi.   
-  
+## Art. 11.
 
-Art. 12
--------
+Le stazioni date in concessione saranno mantenute a cura e spese della Societa' concessionaria, la quale sara' legalmente responsabile del funzionamento degli impianti e delle sue conseguenze, compresi gli eventuali danni ed infortuni, al personale dipendente ed a terzi.
 
-  
-  
-Gli impianti saranno eseguiti in conformita' del progetto tecnico, approvato dal Ministero delle comunicazioni. Qualsiasi cambiamento che dovesse eventualmente apportarsi all'ubicazione o all'equipaggiamento delle stazioni sara' precedentemente partecipato dalla Societa' concessionaria al Ministero delle comunicazioni per la necessaria autorizzazione.   
-  
+## Art. 12.
 
-Art. 13
--------
+Gli impianti saranno eseguiti in conformita' del progetto tecnico, approvato dal Ministero delle comunicazioni. Qualsiasi cambiamento che dovesse eventualmente apportarsi all'ubicazione o all'equipaggiamento delle stazioni sara' precedentemente partecipato dalla Societa' concessionaria al Ministero delle comunicazioni per la necessaria autorizzazione.
 
-  
-  
-Il Regio Governo potra' in qualsiasi momento sospendere o revocare la concessione nei casi e con le modalita' previste dalle leggi e dal regolamento sulle comunicazioni senza filo, qualora la Societa' concessionaria non ottemperi a ciascuna delle condizioni considerate nel presente decreto.   
-  
-Sara' in facolta' degli agenti del Regio Governo di asportare, occorrendo, parti essenziali degli apparecchi impiantati, per la maggiore garanzia della sospensione del funzionamento delle stazioni.   
-  
+## Art. 13.
 
-Art. 14
--------
+Il Regio Governo potra' in qualsiasi momento sospendere o revocare la concessione nei casi e con le modalita' previste dalle leggi e dal regolamento sulle comunicazioni senza filo, qualora la Societa' concessionaria non ottemperi a ciascuna delle condizioni considerate nel presente decreto. 
+ 
+ Sara' in facolta' degli agenti del Regio Governo di asportare, occorrendo, parti essenziali degli apparecchi impiantati, per la maggiore garanzia della sospensione del funzionamento delle stazioni.
 
-  
-  
-La Societa' concessionaria dovra' provvedere sotto la propria responsabilita' a che non siano divulgate o portate a conoscenza di chicchessia le notizie o i messaggi che potranno percepirsi mediante gli apparecchi costituenti l'impianto e che non siano a lei dirette ed a non farne alcuna uso.   
-  
+## Art. 14.
 
-Art. 15
--------
+La Societa' concessionaria dovra' provvedere sotto la propria responsabilita' a che non siano divulgate o portate a conoscenza di chicchessia le notizie o i messaggi che potranno percepirsi mediante gli apparecchi costituenti l'impianto e che non siano a lei dirette ed a non farne alcuna uso.
 
-  
-  
-La Societa' concessionaria sara' in ogni caso responsabile dell'operato suo e dei suoi dipendenti nei rapporti con lo Stato e coi terzi, senza pregiudizio delle sanzioni comminate dalle attuali leggi sulle comunicazioni senza filo e dal [Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398) ai singoli responsabili delle infrazioni di cui all'articolo precedente ed in generale della violazione del segreto telegrafico e telefonico.   
-  
+## Art. 15.
 
-Art. 16
--------
+La Societa' concessionaria sara' in ogni caso responsabile dell'operato suo e dei suoi dipendenti nei rapporti con lo Stato e coi terzi, senza pregiudizio delle sanzioni comminate dalle attuali leggi sulle comunicazioni senza filo e dal [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) ai singoli responsabili delle infrazioni di cui all'articolo precedente ed in generale della violazione del segreto telegrafico e telefonico.
 
-  
-  
-Il personale adibito all'esercizio delle stazioni date in concessione dovra' essere munito del brevetto o dei certificati indicati all'art. 15 del regolamento sulle comunicazioni senza filo, approvato con [R. decreto n. 1226 del 10 luglio 1924](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-07-10;1226), oppure essere abilitato con certificato rilasciato dal Ministero delle comunicazioni mediante esame su programma di cui al citato art. 15.   
-  
-Il Ministero delle comunicazioni e' in facolta' di imporre il licenziamento del personale di esercizio che per motivi di pubblica sicurezza non ritenga piu' idoneo a tale impiego ed altresi' a vietarne l'assunzione per le stesse ragioni.   
-  
+## Art. 16.
 
-Art. 17
--------
+Il personale adibito all'esercizio delle stazioni date in concessione dovra' essere munito del brevetto o dei certificati indicati all'art. 15 del regolamento sulle comunicazioni senza filo, approvato con [R. decreto n. 1226 del 10 luglio 1924](Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20Regio%20decreto%208%20febbraio%201923%20n.%201067%20e%20successive%20modificazioni%20riflettenti%20le%20comunicazioni%20senza%20filo.%20024U1226.md), oppure essere abilitato con certificato rilasciato dal Ministero delle comunicazioni mediante esame su programma di cui al citato art. 15. 
+ 
+ Il Ministero delle comunicazioni e' in facolta' di imporre il licenziamento del personale di esercizio che per motivi di pubblica sicurezza non ritenga piu' idoneo a tale impiego ed altresi' a vietarne l'assunzione per le stesse ragioni.
 
-  
-  
-La Societa' concessionaria si obbliga di pagare, mediante vaglia di servizio intestato al cassiere provinciale delle poste e dei telegrafi di Roma, il canone annuo di L. 1010, le quali verrAnno imputate sul capitolo 14 del bilancio di entrata per l'esercizio 1928-1929 e sui corrispondenti capitoli degli esercizi successivi.   
-  
-La decorrenza di detto canone sara' quella della data di pubblicazione nella Gazzetta Ufficiale del presente decreto.   
-  
-A garanzia del pagamento di detto canone la Societa' concessionaria unisce la quietanza del deposito cauzionale pari ad un'annata del canone stesso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Anna di Valdieri, addi' 20 luglio 1928 - Anno VI   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Ciano.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 13 settembre 1928 - Anno VI   
-  
-Atti del Governo, registro 276, foglio 59. - Casati.   
-  
+## Art. 17.
+
+La Societa' concessionaria si obbliga di pagare, mediante vaglia di servizio intestato al cassiere provinciale delle poste e dei telegrafi di Roma, il canone annuo di L. 1010, le quali verrAnno imputate sul capitolo 14 del bilancio di entrata per l'esercizio 1928-1929 e sui corrispondenti capitoli degli esercizi successivi. 
+ 
+ La decorrenza di detto canone sara' quella della data di pubblicazione nella Gazzetta Ufficiale del presente decreto. 
+ 
+ A garanzia del pagamento di detto canone la Societa' concessionaria unisce la quietanza del deposito cauzionale pari ad un'annata del canone stesso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Anna di Valdieri, addi' 20 luglio 1928 - Anno VI 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Ciano. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 13 settembre 1928 - Anno VI 
+ 
+ Atti del Governo, registro 276, foglio 59. - Casati.

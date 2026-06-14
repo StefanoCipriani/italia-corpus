@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 14 maggio 1916 n. 1091
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1091
+data: 1916-05-14
+titolo: "Annullamento di partite scolastiche per vari Comuni. (016U1091)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-05-14;1091
+codice_redazionale: 016U1091
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 14 maggio 1916 n. 1091
-==============================================
-
-Annullamento di partite scolastiche per vari Comuni. (016U1091)
----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/09/1916
-
-Art. 1
-------
-
-null
+## Art. 1. — null

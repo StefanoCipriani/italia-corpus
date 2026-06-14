@@ -1,16 +1,14 @@
-REGIO DECRETO 20 ottobre 1866 n. 3277
-
-
-REGIO DECRETO 20 ottobre 1866 n. 3277
-=====================================
-
-Col quale la parte del lago di Garda che appartiene al Regno d'Italia, ed il territorio lungo le sponde del lago stesso sono, per la larghezza di cinque chilometri, compresi nella zona di vigilanza doganale. (066U3277)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/11/1866
+---
+tipo: REGIO DECRETO
+numero: 3277
+data: 1866-10-20
+titolo: "Col quale la parte del lago di Garda che appartiene al Regno d'Italia, ed il territorio lungo le sponde del lago stesso sono, per la larghezza di cinque chilometri, compresi nella zona di vigilanza doganale. (066U3277)"
+urn: urn:nir:stato:regio.decreto:1866-10-20;3277
+codice_redazionale: 066U3277
+vigente: true
+---
 
 EUGENIO
--------
 
 PRINCIPE DI SAVOJA-CARIGNANO
 
@@ -24,34 +22,26 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto l'art. 2 del Regolamento doganale 11 settembre 1862, approvato colla [Legge 21 dicembre 1862, n° 1061](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-12-21;1061);
+Veduto l'art. 2 del Regolamento doganale 11 settembre 1862, approvato colla [Legge 21 dicembre 1862, n° 1061](Che%20prescrive%20la%20provvisoria%20osservanza%20del%20Regolamento%20doganale%20approvato%20col%20R.%20Decreto%2011%20settembre%201862.%20062U1061.md);
 
 Veduto il Nostro Decreto 26 settembre n. s., n° 3227;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La parte del lago di Garda che appartiene al Regno d'Italia, ed il territorio lungo le sponde del lago stesso, per la larghezza di cinque chilometri, sono compresi nella zona di vigilanza doganale.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 20 ottobre 1866.   
-  
-EUGENIO DI SAVOJA   
-  
-Registrato alla Corte dei conti addi' 26 ottobre 1866   
-  
-Reg. 57 Atti del Governo a c. 206. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Borgatti.   
-  
-A. Scialoja.   
-  
-  
+La parte del lago di Garda che appartiene al Regno d'Italia, ed il territorio lungo le sponde del lago stesso, per la larghezza di cinque chilometri, sono compresi nella zona di vigilanza doganale. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 20 ottobre 1866. 
+ 
+ EUGENIO DI SAVOJA 
+ 
+ Registrato alla Corte dei conti addi' 26 ottobre 1866 
+ 
+ Reg. 57 Atti del Governo a c. 206. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ A. Scialoja.

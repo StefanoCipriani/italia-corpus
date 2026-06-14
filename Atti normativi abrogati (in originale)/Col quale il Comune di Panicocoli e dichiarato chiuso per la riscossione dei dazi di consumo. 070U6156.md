@@ -1,16 +1,14 @@
-REGIO DECRETO 18 dicembre 1870 n. 6156
-
-
-REGIO DECRETO 18 dicembre 1870 n. 6156
-======================================
-
-Col quale il Comune di Panicocoli e' dichiarato chiuso per la riscossione dei dazi di consumo. (070U6156)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/01/1871
+---
+tipo: REGIO DECRETO
+numero: 6156
+data: 1870-12-18
+titolo: "Col quale il Comune di Panicocoli e' dichiarato chiuso per la riscossione dei dazi di consumo. (070U6156)"
+urn: urn:nir:stato:regio.decreto:1870-12-18;6156
+codice_redazionale: 070U6156
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,23 +20,18 @@ Veduta la domanda del comune di Panicocoli pel cambiamento di qualifica da apert
 
 Veduta la legge 3 luglio 1864;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il comune di Panicocoli in provincia di Napoli, appartenente alla quarta classe, e' dichiarato chiaro per la riscossione dei dazi di consumo a far tempo dal primo gennaio
 
-1871. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo delle Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 18 dicembre 1870.   
-  
-VITTORIO EMANUELE.   
-  
-Quintino Sella.
+1871.
+
+Ordiniamo che il presente decreto, munito del sigillo delle Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 18 dicembre 1870. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Quintino Sella.

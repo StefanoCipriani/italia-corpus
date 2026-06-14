@@ -1,16 +1,14 @@
-REGIO DECRETO 04 giugno 1864 n. 1816
-
-
-REGIO DECRETO 04 giugno 1864 n. 1816
-====================================
-
-Circa il completamento e ricomposizione delle liste dei Giurati ordinari nelle Provincie Siciliane. (064U1816)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/07/1864
+---
+tipo: REGIO DECRETO
+numero: 1816
+data: 1864-06-04
+titolo: "Circa il completamento e ricomposizione delle liste dei Giurati ordinari nelle Provincie Siciliane. (064U1816)"
+urn: urn:nir:stato:regio.decreto:1864-06-04;1816
+codice_redazionale: 064U1816
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,51 +20,32 @@ Visto l'articolo 4 della legge del 19 gennaio 1862, con cui il Governo fu autori
 
 Considerando che e' stato necessario stabilire delle Corti d'Assisie straordinarie nelle suddette Provincie a fin di definire un maggior numero di cause penali, e pero' esaurendosi facilmente la lista dei Giurati ordinari di ciascun Circolo, e' uopo permetterne la rinnovazione nel corso dell'anno, come il menzionato articolo 71 dispone pei Giurati supplenti;
 
-Sulla
------
+Sulla proposizione del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Nelle Provincie Siciliane ogni Presidente del Tribunale di citta', capo-luogo di un Circolo d'Assisie, potra' occorrendo il bisogno, richiedere che le Commissioni comunali e provinciali completino o ricompongano con nuove scelte la lista dei Giurati ordinari.
 
-  
-  
-Nelle Provincie Siciliane ogni Presidente del Tribunale di citta', capo-luogo di un Circolo d'Assisie, potra' occorrendo il bisogno, richiedere che le Commissioni comunali e provinciali completino o ricompongano con nuove scelte la lista dei Giurati ordinari.   
-  
+## Art. 2.
 
-Art. 2
-------
+A tale effetto saranno osservate le disposizioni contenute negli articoli 64, 65, 66, 67, 68, 69 della suddetta legge 17 febbraio 1861.
 
-  
-  
-A tale effetto saranno osservate le disposizioni contenute negli articoli 64, 65, 66, 67, 68, 69 della suddetta legge 17 febbraio 1861.   
-  
+## Art. 3.
 
-Art. 3
-------
+Il termine, entro il quale le Commissioni comunali e provinciali debbono procedere alle operazioni loro commesse, e' di 15 giorni dalla ricevuta richiesta, e trascorso il quale si dara' luogo al disposto dell'articolo 72 della suddetta legge.
 
-  
-  
-Il termine, entro il quale le Commissioni comunali e provinciali debbono procedere alle operazioni loro commesse, e' di 15 giorni dalla ricevuta richiesta, e trascorso il quale si dara' luogo al disposto dell'articolo 72 della suddetta legge.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-I Giurati ordinari, che saranno estratti dalle novelle liste, di cui nell' articolo 1, faranno il servizio delle Assisie che in seguito si apriranno.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 4 giugno 1864.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 15 giugno 1864   
-Reg.° 29 Atti del Governo a c. 141. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-G. Pisanelli.   
-  
+I Giurati ordinari, che saranno estratti dalle novelle liste, di cui nell' articolo 1, faranno il servizio delle Assisie che in seguito si apriranno. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 4 giugno 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 15 giugno 1864 
+ Reg.° 29 Atti del Governo a c. 141. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ G. Pisanelli.

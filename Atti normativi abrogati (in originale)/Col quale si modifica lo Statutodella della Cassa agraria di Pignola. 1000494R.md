@@ -1,19 +1,15 @@
-REGIO DECRETO 09 ottobre 1910 n. CCCCXCIV
+---
+tipo: REGIO DECRETO
+numero: CCCCXCIV
+data: 1910-10-09
+titolo: "Col quale si modifica lo Statutodella della Cassa agraria di Pignola. (1000494R)"
+urn: urn:nir:stato:regio.decreto:1910-10-09;494
+codice_redazionale: 1000494R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 ottobre 1910 n. CCCCXCIV
-=========================================
-
-Col quale si modifica lo Statutodella della Cassa agraria di Pignola. (1000494R)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/02/1911
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. CCCCXCIV (Dato a San Rossore, il 9 ottobre 1910), col quale si approvano alcune modificazioni allo statuto della Cassa agraria di Pignola.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. CCCCXCIV (Dato a San Rossore, il 9 ottobre 1910), col quale si approvano alcune modificazioni allo statuto della Cassa agraria di Pignola.

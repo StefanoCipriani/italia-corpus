@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 30 giugno 1918 n. 1059
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1059
+data: 1918-06-30
+titolo: "Approvazione di Statuto. (018U1059)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-06-30;1059
+codice_redazionale: 018U1059
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 30 giugno 1918 n. 1059
-==============================================
-
-Approvazione di Statuto. (018U1059)
------------------------------------
-
-Entrata in vigore del provvedimento: 23/08/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1059. Decreto Luogotenenziale 30 giugno 1918, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, e' approvato il nuovo statuto della Societa' d'istruzione, di educazione, di mutuo soccorso e di beneficenza fra gli insegnanti dello Stato, con sede in Torino.
+1059.
+
+Decreto Luogotenenziale 30 giugno 1918, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, e' approvato il nuovo statuto della Societa' d'istruzione, di educazione, di mutuo soccorso e di beneficenza fra gli insegnanti dello Stato, con sede in Torino.

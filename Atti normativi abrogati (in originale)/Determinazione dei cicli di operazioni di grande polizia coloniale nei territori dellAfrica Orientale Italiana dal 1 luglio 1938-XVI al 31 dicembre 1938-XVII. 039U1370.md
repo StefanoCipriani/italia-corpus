@@ -1,16 +1,14 @@
-REGIO DECRETO 28 luglio 1939 n. 1370
-
-
-REGIO DECRETO 28 luglio 1939 n. 1370
-====================================
-
-Determinazione dei cicli di operazioni di grande polizia coloniale nei territori dell'Africa Orientale Italiana dal 1° luglio 1938-XVI al 31 dicembre 1938-XVII. (039U1370)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/09/1939
+---
+tipo: REGIO DECRETO
+numero: 1370
+data: 1939-07-28
+titolo: "Determinazione dei cicli di operazioni di grande polizia coloniale nei territori dell'Africa Orientale Italiana dal 1° luglio 1938-XVI al 31 dicembre 1938-XVII. (039U1370)"
+urn: urn:nir:stato:regio.decreto:1939-07-28;1370
+codice_redazionale: 039U1370
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,32 +32,26 @@ Visti i Regi decreti 10 maggio 1938-XVI, n. 627, e 28 novembre 1938-XVII, n. 199
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra e Ministro per l'Africa italiana, per la marina e per l'aeronautica, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra e Ministro per l'Africa italiana, per la marina e per l'aeronautica, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono da ritenersi utili, per il personale che vi abbia preso parte e agli effetti della concessione dei benefici di cui alle vigenti disposizioni di legge, i seguenti cicli di operazioni di grande polizia coloniale nei territori dell'Africa Orientale italiana, ad immediato contatto col nemico:   
-  
-Parte di provvedimento in formato grafico  
-  
-Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 luglio 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 22 settembre 1939-XVII   
-  
-Atti del Governo, registro 413, foglio 96 - Mancini   
+Sono da ritenersi utili, per il personale che vi abbia preso parte e agli effetti della concessione dei benefici di cui alle vigenti disposizioni di legge, i seguenti cicli di operazioni di grande polizia coloniale nei territori dell'Africa Orientale italiana, ad immediato contatto col nemico: 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 luglio 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 22 settembre 1939-XVII 
+ 
+ Atti del Governo, registro 413, foglio 96 - Mancini

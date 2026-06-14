@@ -1,16 +1,14 @@
-REGIO DECRETO 03 marzo 1867 n. 3576
-
-
-REGIO DECRETO 03 marzo 1867 n. 3576
-===================================
-
-Col quale e' costituita nel Collegio elettorale 4° di Firenze una nuova sezione con sede nel luogo detto dell'Impruneta e comprendera' gli Elettori di Bagnolo, Colline, Impruneta, Nizzano, Quintole, Sangersole', Strada e Tegolaia. (067U3576)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/03/1867
+---
+tipo: REGIO DECRETO
+numero: 3576
+data: 1867-03-03
+titolo: "Col quale e' costituita nel Collegio elettorale 4° di Firenze una nuova sezione con sede nel luogo detto dell'Impruneta e comprendera' gli Elettori di Bagnolo, Colline, Impruneta, Nizzano, Quintole, Sangersole', Strada e Tegolaia. (067U3576)"
+urn: urn:nir:stato:regio.decreto:1867-03-03;3576
+codice_redazionale: 067U3576
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Considerando che una sezione elettorale nel luogo dell'Impruneta comprendente gl
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' costituita nel Collegio elettorale di Firenze n° 170 una nuova sezione, che avra' sede nel luogo detto dell'Impruneta e comprendera' gli Elettori di Bagnolo, Colline, Impruneta, Nizzano, Quintole, Sangersole', Strada e Tegolaia.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 3 marzo 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 12 marzo 1867   
-  
-Reg. 39 Atti del Governo a c. 139. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Ricasoli.   
-  
-Ricasoli.   
-  
+E' costituita nel Collegio elettorale di Firenze n° 170 una nuova sezione, che avra' sede nel luogo detto dell'Impruneta e comprendera' gli Elettori di Bagnolo, Colline, Impruneta, Nizzano, Quintole, Sangersole', Strada e Tegolaia. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 3 marzo 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 12 marzo 1867 
+ 
+ Reg. 39 Atti del Governo a c. 139. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Ricasoli. 
+ 
+ Ricasoli.

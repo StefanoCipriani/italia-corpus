@@ -1,45 +1,67 @@
-REGIO DECRETO 24 febbraio 1895 n. CCCLXI
+---
+tipo: REGIO DECRETO
+numero: CCCLXI
+data: 1895-02-24
+titolo: "Che modifica gli statuti organici delle fondazioni di beneficenza Jacob Diaz Mercado Pinto, Abramo Jsraele Passarinho, Josef Gonzales ed alte in Livorno. (9500361R)"
+urn: urn:nir:stato:regio.decreto:1895-02-24;361
+codice_redazionale: 9500361R
+vigente: true
+---
 
-
-REGIO DECRETO 24 febbraio 1895 n. CCCLXI
-========================================
-
-Che modifica gli statuti organici delle fondazioni di beneficenza Jacob Diaz Mercado Pinto, Abramo Jsraele Passarinho, Josef Gonzales ed alte in Livorno. (9500361R)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/12/1895
-
-Art. 1
-------
+## Art. 1.
 
 Che modifica gli statuti organici delle fondazioni di beneficenza:
 
-1. Jacob Diaz Mercado Pinto;
+1.
 
-2. Abramo Jsraele Passarinho;
+Jacob Diaz Mercado Pinto;
 
-3. Josef Gonzales;
+2.
 
-4. Beneficenza Israelitica;
+Abramo Jsraele Passarinho;
 
-5. Abramo Lobregan;
+3.
 
-6. Jacob ed Isac fax Abramo Haim Pegna;
+Josef Gonzales;
 
-7. Rachel q. Jacob Ergas;
+4.
 
-8. Raffael e Sara Ergas;
+Beneficenza Israelitica;
 
-9. Abramo Da Costa;
+5.
 
-10. Bianca Simha Rodriguez Enriquez;
+Abramo Lobregan;
 
-11. Moise Vita q. Semac Duran;
+6.
 
-12. Abramo Vita Levi Sonsino;   
-  
-tutte amministrate dall'universita' israelitica di Livorno, con la disposizione che la somma devoluta dall'opera pia pel conferimento di doti dovra' essere versata nella Cassa della detta universita' per raccogliere i contributi delle diverse opere pie dotali o miste ed erogarli in doti di L. 500 ciascuna e se ne approva lo statuto della cassa dotale composto di 12 articoli. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 27 novembre 1895.   
-  
-Reg. 201. Atti del Governo a f. 136.
+Jacob ed Isac fax Abramo Haim Pegna;
+
+7.
+
+Rachel q. Jacob Ergas;
+
+8.
+
+Raffael e Sara Ergas;
+
+9.
+
+Abramo Da Costa;
+
+10.
+
+Bianca Simha Rodriguez Enriquez;
+
+11.
+
+Moise Vita q. Semac Duran;
+
+12.
+
+Abramo Vita Levi Sonsino; 
+ 
+ tutte amministrate dall'universita' israelitica di Livorno, con la disposizione che la somma devoluta dall'opera pia pel conferimento di doti dovra' essere versata nella Cassa della detta universita' per raccogliere i contributi delle diverse opere pie dotali o miste ed erogarli in doti di L. 500 ciascuna e se ne approva lo statuto della cassa dotale composto di 12 articoli. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 27 novembre 1895. 
+ 
+ Reg. 201. Atti del Governo a f. 136.

@@ -1,19 +1,19 @@
-REGIO DECRETO 18 gennaio 1932 n. 102
+---
+tipo: REGIO DECRETO
+numero: 102
+data: 1932-01-18
+titolo: "Modificazione dell'art. 6 dello statuto della Cassa scolastica del Regio liceo scientifico di Ferrara. (032U0102)"
+urn: urn:nir:stato:regio.decreto:1932-01-18;102
+codice_redazionale: 032U0102
+vigente: true
+---
 
-
-REGIO DECRETO 18 gennaio 1932 n. 102
-====================================
-
-Modificazione dell'art. 6 dello statuto della Cassa scolastica del Regio liceo scientifico di Ferrara. (032U0102)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/03/1932
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-102. R. decreto 18 gennaio 1932, col quale, sulla proposta del Ministro per l'educazione nazionale, viene modificato l'art. 6 dello statuto della Cassa scolastica del Regio liceo scientifico di Ferrara.   
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 18 febbraio 1932 - Anno X
+102.
+
+R. decreto 18 gennaio 1932, col quale, sulla proposta del Ministro per l'educazione nazionale, viene modificato l'art. 6 dello statuto della Cassa scolastica del Regio liceo scientifico di Ferrara. 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 18 febbraio 1932 - Anno X

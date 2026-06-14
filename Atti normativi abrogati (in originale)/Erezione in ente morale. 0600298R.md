@@ -1,19 +1,15 @@
-REGIO DECRETO 08 luglio 1906 n. CCXCVIII
+---
+tipo: REGIO DECRETO
+numero: CCXCVIII
+data: 1906-07-08
+titolo: "Erezione in ente morale. (0600298R)"
+urn: urn:nir:stato:regio.decreto:1906-07-08;298
+codice_redazionale: 0600298R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 luglio 1906 n. CCXCVIII
-========================================
-
-Erezione in ente morale. (0600298R)
------------------------------------
-
-Entrata in vigore del provvedimento: 20/09/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CCXCVIII (Dato a Roma, l'8 luglio 1906), col quale si erige in ente morale il Monte di pieta' di Alatri.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CCXCVIII (Dato a Roma, l'8 luglio 1906), col quale si erige in ente morale il Monte di pieta' di Alatri.

@@ -1,19 +1,15 @@
-REGIO DECRETO 15 luglio 1909 n. CCXLVII
+---
+tipo: REGIO DECRETO
+numero: CCXLVII
+data: 1909-07-15
+titolo: "Che erige in ente morale il legato « Cassandra » in Frignano Piccolo. (0900247R)"
+urn: urn:nir:stato:regio.decreto:1909-07-15;247
+codice_redazionale: 0900247R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 luglio 1909 n. CCXLVII
-=======================================
-
-Che erige in ente morale il legato « Cassandra » in Frignano Piccolo. (0900247R)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/08/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCXLVII (Dato a Roma, il 15 luglio 1909), col quale il legato Cassandra di Frignano Piccolo e' eretto in ente morale sotto l'amministrazione del parroco pro tempore.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCXLVII (Dato a Roma, il 15 luglio 1909), col quale il legato Cassandra di Frignano Piccolo e' eretto in ente morale sotto l'amministrazione del parroco pro tempore.

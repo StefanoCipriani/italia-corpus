@@ -1,19 +1,15 @@
-REGIO DECRETO 03 maggio 1908 n. CLXXXV
+---
+tipo: REGIO DECRETO
+numero: CLXXXV
+data: 1908-05-03
+titolo: "Riflettente approvazione di regolamento. (0800185R)"
+urn: urn:nir:stato:regio.decreto:1908-05-03;185
+codice_redazionale: 0800185R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 maggio 1908 n. CLXXXV
-======================================
-
-Riflettente approvazione di regolamento. (0800185R)
----------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/06/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CLXXXV (Dato a Roma, il 3 maggio 1908), col quale e' approvato il regolamento per l'applicazione della tassa sul bestiame deliberato dalla Giunta provinciale amministrativa di Messina, nelle adunanze del 16 novembre 1906 e 27 novembre 1907, in sostituzione del regolamento approvato con R. decreto 29 giugno 1897, del ministro Commissario civile.   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CLXXXV (Dato a Roma, il 3 maggio 1908), col quale e' approvato il regolamento per l'applicazione della tassa sul bestiame deliberato dalla Giunta provinciale amministrativa di Messina, nelle adunanze del 16 novembre 1906 e 27 novembre 1907, in sostituzione del regolamento approvato con R. decreto 29 giugno 1897, del ministro Commissario civile.

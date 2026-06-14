@@ -1,19 +1,15 @@
-REGIO DECRETO 22 dicembre 1912 n. 1374
+---
+tipo: REGIO DECRETO
+numero: 1374
+data: 1912-12-22
+titolo: "Erezione in Ente morale e relativa approvazione di statuto. (012U1374)"
+urn: urn:nir:stato:regio.decreto:1912-12-22;1374
+codice_redazionale: 012U1374
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 dicembre 1912 n. 1374
-======================================
-
-Erezione in Ente morale e relativa approvazione di statuto. (012U1374)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/01/1913
-
-Art. 1
-------
-
-  
-N. 1374   
-  
-Regio Decreto 22 dicembre 1912, col quale, sulla proposta del ministro dell'interno, l'Asilo infantile di Dervio (Como) e' eretto in ente morale con amministrazione propria e ne e' approvato lo statuto organico.   
-  
+N. 1374 
+ 
+ Regio Decreto 22 dicembre 1912, col quale, sulla proposta del ministro dell'interno, l'Asilo infantile di Dervio (Como) e' eretto in ente morale con amministrazione propria e ne e' approvato lo statuto organico.

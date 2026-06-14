@@ -1,16 +1,14 @@
-REGIO DECRETO-LEGGE 13 giugno 1942 n. 859
-
-
-REGIO DECRETO-LEGGE 13 giugno 1942 n. 859
-=========================================
-
-Modificazione dell'art. 2 del R. decreto-legge 12 marzo 1941-XIX, n. 142, inteso a vietare l'aumento del canone di locazione per gli immobili urbani di vecchia costruzione in conseguenza dell'apprestamento del rifugio antiaereo. (042U0859)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/08/1942. Regio Decreto-Legge convertito dalla [L. 5 maggio 1949, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-05-05;178) (in G.U. 07/05/1949, n. 105).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 859
+data: 1942-06-13
+titolo: "Modificazione dell'art. 2 del R. decreto-legge 12 marzo 1941-XIX, n. 142, inteso a vietare l'aumento del canone di locazione per gli immobili urbani di vecchia costruzione in conseguenza dell'apprestamento del rifugio antiaereo. (042U0859)"
+urn: urn:nir:stato:regio.decreto.legge:1942-06-13;859
+codice_redazionale: 042U0859
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,32 +26,26 @@ Ritenuta la necessita' urgente ed assoluta di provvedere;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo e Ministro per l'interno e del Ministro per le corporazioni, d'intesa coi Ministri per la grazia e giustizia, per le finanze, per l'agricoltura e le foreste, per le comunicazioni, per i lavori pubblici e per la cultura popolare; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo e Ministro per l'interno e del Ministro per le corporazioni, d'intesa coi Ministri per la grazia e giustizia, per le finanze, per l'agricoltura e le foreste, per le comunicazioni, per i lavori pubblici e per la cultura popolare; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'art. 2, comma 5°, del R. decreto-legge 12 marzo 1941-XIX, n. 142, e' modificato come segue:   
-  
-«Per gli immobili urbani, ai quali siano apportate trasformazioni o migliorie - escluse pero' le opere di apprestamento del rifugio antiaereo, nonche' quelle di ripulitura, manutenzione e simili - il pretore puo', ad istanza del locatore, consentire che all'affitto venga aggiunta una quota commisurata alla spesa sostenuta dal locatore».   
-  
-Il presente decreto entrera' in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato alle Assemblee legislative per la sua conversione in legge. I Ministri proponenti sono autorizzati alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 13 giugno 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - RICCI - GRANDI - DI REVEL -   
-PARESCHI - HOST VENTURI - GORLA - PAVOLINI   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte del conti, addi' 7 agosto 1942-XX   
-Atti del Governo, registro 448, foglio 7. - MANCINI   
+L'art. 2, comma 5°, del R. decreto-legge 12 marzo 1941-XIX, n. 142, e' modificato come segue: 
+ 
+ «Per gli immobili urbani, ai quali siano apportate trasformazioni o migliorie - escluse pero' le opere di apprestamento del rifugio antiaereo, nonche' quelle di ripulitura, manutenzione e simili - il pretore puo', ad istanza del locatore, consentire che all'affitto venga aggiunta una quota commisurata alla spesa sostenuta dal locatore». 
+ 
+ Il presente decreto entrera' in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato alle Assemblee legislative per la sua conversione in legge. I Ministri proponenti sono autorizzati alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 13 giugno 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - RICCI - GRANDI - DI REVEL - 
+ PARESCHI - HOST VENTURI - GORLA - PAVOLINI 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte del conti, addi' 7 agosto 1942-XX 
+ Atti del Governo, registro 448, foglio 7. - MANCINI

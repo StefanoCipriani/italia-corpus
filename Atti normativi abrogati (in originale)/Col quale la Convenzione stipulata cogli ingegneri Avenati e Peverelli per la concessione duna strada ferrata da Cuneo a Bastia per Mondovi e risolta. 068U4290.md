@@ -1,16 +1,14 @@
-REGIO DECRETO 05 marzo 1868 n. 4290
-
-
-REGIO DECRETO 05 marzo 1868 n. 4290
-===================================
-
-Col quale la Convenzione stipulata cogli ingegneri Avenati e Peverelli, per la concessione d'una strada ferrata da Cuneo a Bastia per Mondovi', e' risolta. (068U4290)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/04/1868
+---
+tipo: REGIO DECRETO
+numero: 4290
+data: 1868-03-05
+titolo: "Col quale la Convenzione stipulata cogli ingegneri Avenati e Peverelli, per la concessione d'una strada ferrata da Cuneo a Bastia per Mondovi', e' risolta. (068U4290)"
+urn: urn:nir:stato:regio.decreto:1868-03-05;4290
+codice_redazionale: 068U4290
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Ritenuta la domanda presentata dai concessionari per la rescissione della Conven
 
 Avuto il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Convenzione stipulata in data del 18 maggio 1866 cogli ingegneri Avenati e Peverelli, per la concessione della ferrovia da Cuneo a Bastia per Mondovi, e' risolta.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 5 marzo 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 23 marzo 1868   
-  
-Reg. 42 Atti del Governo a c. 136. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-G. Cantelli.   
-  
+La Convenzione stipulata in data del 18 maggio 1866 cogli ingegneri Avenati e Peverelli, per la concessione della ferrovia da Cuneo a Bastia per Mondovi, e' risolta. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 5 marzo 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 23 marzo 1868 
+ 
+ Reg. 42 Atti del Governo a c. 136. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ G. Cantelli.

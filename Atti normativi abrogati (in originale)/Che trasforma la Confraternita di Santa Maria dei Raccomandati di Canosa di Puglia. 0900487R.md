@@ -1,19 +1,15 @@
-REGIO DECRETO 16 dicembre 1909 n. CCCCLXXXVII
+---
+tipo: REGIO DECRETO
+numero: CCCCLXXXVII
+data: 1909-12-16
+titolo: "Che trasforma la Confraternita di Santa Maria dei Raccomandati di Canosa di Puglia. (0900487R)"
+urn: urn:nir:stato:regio.decreto:1909-12-16;487
+codice_redazionale: 0900487R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 dicembre 1909 n. CCCCLXXXVII
-=============================================
-
-Che trasforma la Confraternita di Santa Maria dei Raccomandati di Canosa di Puglia. (0900487R)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/02/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCCLXXXVII (Dato a Roma, il 16 dicembre 1909), col quale la Confraternita di Santa Maria dei Raccomandati di Canosa di Puglia (Bari) e' stata trasformata a favore del locale Ospedale.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCCLXXXVII (Dato a Roma, il 16 dicembre 1909), col quale la Confraternita di Santa Maria dei Raccomandati di Canosa di Puglia (Bari) e' stata trasformata a favore del locale Ospedale.

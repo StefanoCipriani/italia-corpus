@@ -1,21 +1,21 @@
-REGIO DECRETO 27 aprile 1942 n. 543
+---
+tipo: REGIO DECRETO
+numero: 543
+data: 1942-04-27
+titolo: "Autorizzazione al Regio Conservatorio di musica «S. Pietro a Maiella» di Napoli ad accettare una donazione. (042U0543)"
+urn: urn:nir:stato:regio.decreto:1942-04-27;543
+codice_redazionale: 042U0543
+vigente: true
+---
 
-
-REGIO DECRETO 27 aprile 1942 n. 543
-===================================
-
-Autorizzazione al Regio Conservatorio di musica «S. Pietro a Maiella» di Napoli ad accettare una donazione. (042U0543)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/06/1942
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-543. R. decreto 27 aprile 1942, col quale, sulla proposta del Ministro per l'educazione nazionale, il Regio Conservatorio di musica «S. Pietro a Maiella,» di Napoli, viene autorizzato ad accettare la donazione di un flauto di argento novecento disposta dal professore Mattia Francesco, di un dipinto ad olio di Domenico Morelli disposta dal prof. Pinto Ferdinando, e di un pianoforte di marca «Evard» disposta dalla signora Cera Maria.   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 31 maggio 1942-XX
+543.
+
+R. decreto 27 aprile 1942, col quale, sulla proposta del Ministro per l'educazione nazionale, il Regio Conservatorio di musica «S. Pietro a Maiella,» di Napoli, viene autorizzato ad accettare la donazione di un flauto di argento novecento disposta dal professore Mattia Francesco, di un dipinto ad olio di Domenico Morelli disposta dal prof. Pinto Ferdinando, e di un pianoforte di marca «Evard» disposta dalla signora Cera Maria. 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 31 maggio 1942-XX

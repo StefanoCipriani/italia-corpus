@@ -1,17 +1,17 @@
-REGIO DECRETO 26 ottobre 1922 n. 1498
+---
+tipo: REGIO DECRETO
+numero: 1498
+data: 1922-10-26
+titolo: "Soppressioni ed estensioni di Regi consolati (022U1498)"
+urn: urn:nir:stato:regio.decreto:1922-10-26;1498
+codice_redazionale: 022U1498
+vigente: true
+---
 
-
-REGIO DECRETO 26 ottobre 1922 n. 1498
-=====================================
-
-Soppressioni ed estensioni di Regi consolati (022U1498)
--------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/12/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1498. Regio decreto 26 ottobre 1922, col quale, sulla proposta del ministro degli affari esteri, il Nostro vice-consolato in Toronto alla dipendenza del Regio consolato in Montreal viene soppresso.
+1498.
+
+Regio decreto 26 ottobre 1922, col quale, sulla proposta del ministro degli affari esteri, il Nostro vice-consolato in Toronto alla dipendenza del Regio consolato in Montreal viene soppresso.

@@ -1,16 +1,14 @@
-REGIO DECRETO 19 maggio 1941 n. 637
-
-
-REGIO DECRETO 19 maggio 1941 n. 637
-===================================
-
-Assegnazione di una indennita' al Consigliere presso la Regia ambasciata in Berlino che riveste il grado di Inviato straordinario e Ministro plenipotenziario. (041U0637)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/08/1941
+---
+tipo: REGIO DECRETO
+numero: 637
+data: 1941-05-19
+titolo: "Assegnazione di una indennita' al Consigliere presso la Regia ambasciata in Berlino che riveste il grado di Inviato straordinario e Ministro plenipotenziario. (041U0637)"
+urn: urn:nir:stato:regio.decreto:1941-05-19;637
+codice_redazionale: 041U0637
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,30 +30,24 @@ Sentito il Consiglio di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari esteri, di concerto col Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari esteri, di concerto col Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' data facolta' al Ministro per gli affari esteri di assegnare, con suo proprio decreto al Consigliere presso la Nostra Ambasciata in Berlino che rivesta il grado di Inviato straordinario e Ministro plenipotenziario, un'indennita' annuale massima di L. 60.000 fino al 31 dicembre 1941.   
-  
-Il presente decreto ha effetto dal 1° settembre 1940-XVIII.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nello Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 maggio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Ciano - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 15 luglio 1941-XIX   
-  
-Atti del Governo, registro 435, foglio 47, - Mancini   
+E' data facolta' al Ministro per gli affari esteri di assegnare, con suo proprio decreto al Consigliere presso la Nostra Ambasciata in Berlino che rivesta il grado di Inviato straordinario e Ministro plenipotenziario, un'indennita' annuale massima di L. 60.000 fino al 31 dicembre 1941. 
+ 
+ Il presente decreto ha effetto dal 1° settembre 1940-XVIII. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nello Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 maggio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Ciano - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 15 luglio 1941-XIX 
+ 
+ Atti del Governo, registro 435, foglio 47, - Mancini

@@ -1,16 +1,14 @@
-REGIO DECRETO 27 novembre 1890 n. 7296
-
-
-REGIO DECRETO 27 novembre 1890 n. 7296
-======================================
-
-Con il quale, per un quinquennio, al comune di Terni e' affidata la riscossione del dazio di consumo, tanto nel suo territorio quanto in quello del comune di Papigno. (090U7296)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/01/1891
+---
+tipo: REGIO DECRETO
+numero: 7296
+data: 1890-11-27
+titolo: "Con il quale, per un quinquennio, al comune di Terni e' affidata la riscossione del dazio di consumo, tanto nel suo territorio quanto in quello del comune di Papigno. (090U7296)"
+urn: urn:nir:stato:regio.decreto:1890-11-27;7296
+codice_redazionale: 090U7296
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -18,9 +16,9 @@ RE D'ITALIA
 
 Sulla proposta del Nostro Ministro Segretario di Stato per il Tesoro ad interim per le Finanze;
 
-Veduto l'art. 4 dell'allegate L alla [legge 11 agosto 1870, N. 5784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784);
+Veduto l'art. 4 dell'allegate L alla [legge 11 agosto 1870, N. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md);
 
-Veduto il regolamento generale sui dazi interni di consumo, approvato col [R. decreto 25 agosto 1870 N. 5840](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-08-25;5840);
+Veduto il regolamento generale sui dazi interni di consumo, approvato col [R. decreto 25 agosto 1870 N. 5840](Che%20approva%20il%20Regolamento%20generale%20sui%20dazi%20interni%20di%20consumo.%20070U5840.md);
 
 Veduto il Nostro decreto 3 dicembre 1885, N. 3589;
 
@@ -32,33 +30,22 @@ Veduto il ricorso a noi diretto del Comune di Terni il 21 luglio 1890;
 
 Veduta la deliberazione 21 agosto 1890 del Consiglio comunale di Terni per l'abbonamento del dazio di consumo col Governo durante il suddetto quinquennio;
 
-Udito
------
+Udito il Consiglio di Stato; Abbiamo decretato e decretiamo:
 
-il Consiglio di Stato; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' affidata al comune chiuso di Terni la riscossione del dazio di consumo tanto nel suo territorio, quanto in quello del comune aperto contermine di Papigno per la durata dal 1° gennaio 1891 a tutto il 31 dicembre 1895.
 
-  
-  
-E' affidata al comune chiuso di Terni la riscossione del dazio di consumo tanto nel suo territorio, quanto in quello del comune aperto contermine di Papigno per la durata dal 1° gennaio 1891 a tutto il 31 dicembre 1895.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' approvata la deliberazione 21 agosto 1890 emessa dal Consiglio comunale di Terni per la riscossione del dazio di consumo in quel comune ed in quello aperto contermine di Papigno durante il suindicato quinquennio dietro corresponsione dell'annuo canone di lire centoquindicimila (L. 115,000) da parte dello stesso comune di Terni.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 novembre 1890.   
-  
-UMBERTO.   
-  
-Giolitti.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+E' approvata la deliberazione 21 agosto 1890 emessa dal Consiglio comunale di Terni per la riscossione del dazio di consumo in quel comune ed in quello aperto contermine di Papigno durante il suindicato quinquennio dietro corresponsione dell'annuo canone di lire centoquindicimila (L. 115,000) da parte dello stesso comune di Terni. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 novembre 1890. 
+ 
+ UMBERTO. 
+ 
+ Giolitti. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

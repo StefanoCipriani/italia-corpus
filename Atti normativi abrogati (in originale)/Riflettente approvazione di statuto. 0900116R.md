@@ -1,19 +1,15 @@
-REGIO DECRETO 15 aprile 1909 n. CXVI
+---
+tipo: REGIO DECRETO
+numero: CXVI
+data: 1909-04-15
+titolo: "Riflettente approvazione di statuto. (0900116R)"
+urn: urn:nir:stato:regio.decreto:1909-04-15;116
+codice_redazionale: 0900116R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 aprile 1909 n. CXVI
-====================================
-
-Riflettente approvazione di statuto. (0900116R)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/05/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. CXVI (Dato a Roma, il 15 aprile 1909), col quale si approva lo statuto organico della Cassa ademprivile di Sassari.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. CXVI (Dato a Roma, il 15 aprile 1909), col quale si approva lo statuto organico della Cassa ademprivile di Sassari.

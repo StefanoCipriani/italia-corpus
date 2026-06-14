@@ -1,16 +1,14 @@
-REGIO DECRETO 19 maggio 1932 n. 534
-
-
-REGIO DECRETO 19 maggio 1932 n. 534
-===================================
-
-Autorizzazione ai comuni di Pesaro, Grosseto e Vercelli a riscuotere le imposte di consumo in base alla tariffa immediatamente superiore. (032U0534)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/06/1932
+---
+tipo: REGIO DECRETO
+numero: 534
+data: 1932-05-19
+titolo: "Autorizzazione ai comuni di Pesaro, Grosseto e Vercelli a riscuotere le imposte di consumo in base alla tariffa immediatamente superiore. (032U0534)"
+urn: urn:nir:stato:regio.decreto:1932-05-19;534
+codice_redazionale: 032U0534
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,34 +20,23 @@ Viste le motivate domande avanzate dai comuni di Pesaro Vercelli e Grosseto per 
 
 Visto il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stati per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stati per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono autorizzati a riscuotere le imposte di consumo co le aliquote stabilite per la classe D il comune di Pesaro per la classe E il comune di Grosseto.
 
-  
-  
-Sono autorizzati a riscuotere le imposte di consumo co le aliquote stabilite per la classe D il comune di Pesaro per la classe E il comune di Grosseto.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il comune di Vercelli e' autorizzato a riscuotere le imposte di consumo con le aliquote stabilite per la classe E aumentate della meta della differenza fra le aliquote della classe E e quelle della classe D.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Roma, addi' 19 maggio 1932 - Anno X   
-  
-VITTORIO EMANUELE.   
-  
-  
-Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 30 maggio 1932 - Anno X   
-Atti del Governo, registro 320, foglio 106. - Mancini.   
-  
+Il comune di Vercelli e' autorizzato a riscuotere le imposte di consumo con le aliquote stabilite per la classe E aumentate della meta della differenza fra le aliquote della classe E e quelle della classe D. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 19 maggio 1932 - Anno X 
+ 
+ VITTORIO EMANUELE. 
+ 
+ 
+ Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 30 maggio 1932 - Anno X 
+ Atti del Governo, registro 320, foglio 106. - Mancini.

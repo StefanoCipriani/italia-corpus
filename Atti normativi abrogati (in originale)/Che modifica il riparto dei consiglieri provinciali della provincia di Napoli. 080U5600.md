@@ -1,16 +1,14 @@
-REGIO DECRETO 04 agosto 1880 n. 5600
-
-
-REGIO DECRETO 04 agosto 1880 n. 5600
-====================================
-
-Che modifica il riparto dei consiglieri provinciali della provincia di Napoli. (080U5600)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/09/1880
+---
+tipo: REGIO DECRETO
+numero: 5600
+data: 1880-08-04
+titolo: "Che modifica il riparto dei consiglieri provinciali della provincia di Napoli. (080U5600)"
+urn: urn:nir:stato:regio.decreto:1880-08-04;5600
+codice_redazionale: 080U5600
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,21 @@ Vista la legge 15 giugno 1879, con la quale il comune di Boscoreale venne stacca
 
 Visto che per effetto di siffatta disposizione venne ad essere variata anche la circoscrizione territoriale, e conseguentemente la popolazione dei detti due mandamenti, in guisa che quello di Torre Annunziata ha ora una popolazione di soli 17,680 abitanti, mentre quello di Boscotrecase ha invece una popolazione di 20,650 abitanti;
 
-Vista
------
+Vista la legge comunale e provinciale, Abbiamo decretato e decretiamo:
 
-la legge comunale e provinciale, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il riparto dei consiglieri per la provincia di Napoli, stabilito coi succitati Nostri Sovrani decreti, e' riformato nel senso che al mandamento di Boscotrecase sono assegnati due consiglieri ed uno al mandamento di Torre Annunziata.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello   
-  
-Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 4 agosto 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il riparto dei consiglieri per la provincia di Napoli, stabilito coi succitati Nostri Sovrani decreti, e' riformato nel senso che al mandamento di Boscotrecase sono assegnati due consiglieri ed uno al mandamento di Torre Annunziata. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello 
+ 
+ Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 4 agosto 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

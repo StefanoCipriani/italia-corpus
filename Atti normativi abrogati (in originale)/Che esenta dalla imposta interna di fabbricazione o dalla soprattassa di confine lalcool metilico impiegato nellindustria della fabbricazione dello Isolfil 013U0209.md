@@ -1,16 +1,14 @@
-REGIO DECRETO 06 marzo 1913 n. 209
-
-
-REGIO DECRETO 06 marzo 1913 n. 209
-==================================
-
-Che esenta dalla imposta interna di fabbricazione o dalla soprattassa di confine l'alcool metilico impiegato nell'industria della fabbricazione dello «Isolfil» (013U0209)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/04/1913
+---
+tipo: REGIO DECRETO
+numero: 209
+data: 1913-03-06
+titolo: "Che esenta dalla imposta interna di fabbricazione o dalla soprattassa di confine l'alcool metilico impiegato nell'industria della fabbricazione dello «Isolfil» (013U0209)"
+urn: urn:nir:stato:regio.decreto:1913-03-06;209
+codice_redazionale: 013U0209
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Visti gli articoli 18 e seguenti del testo unico di leggi sugli spiriti, approva
 
 Visti gli articoli 2 e 4 del Nostro decreto 30 novembre 1911, n. 1259, convalidato con la legge 23 giugno 1.912, n. 644;
 
-Visti gli [articoli 118 e seguenti del regolamento 25 novembre 1909, n. 762](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1909-11-25;762~art118), per l'applicazione dell'anzidetto testo di legge;
+Visti gli [articoli 118 e seguenti del regolamento 25 novembre 1909, n. 762](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1909-11-25;762#art_118), per l'applicazione dell'anzidetto testo di legge;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'industria della fabbricazione dell'isolfil e' ammessa a godere della esenzione dalla imposta interna di fabbricazione o dalla soprattassa di confine all'alcool metilico in essa impiegato come solvente per l'applicazione dell'isolfil medesimo ai turaccioli. Le condizioni e le norme per godere di tale agevolezza saranno determinate dal suddetto ministro proponente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 marzo 1913.   
-  
-VITTORIO EMANUELE.   
-  
-Facta.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+L'industria della fabbricazione dell'isolfil e' ammessa a godere della esenzione dalla imposta interna di fabbricazione o dalla soprattassa di confine all'alcool metilico in essa impiegato come solvente per l'applicazione dell'isolfil medesimo ai turaccioli. Le condizioni e le norme per godere di tale agevolezza saranno determinate dal suddetto ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 marzo 1913. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Facta. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

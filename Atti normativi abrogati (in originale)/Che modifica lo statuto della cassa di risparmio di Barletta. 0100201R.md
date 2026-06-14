@@ -1,21 +1,17 @@
-REGIO DECRETO 16 giugno 1901 n. CCI
+---
+tipo: REGIO DECRETO
+numero: CCI
+data: 1901-06-16
+titolo: "Che modifica lo statuto della cassa di risparmio di Barletta. (0100201R)"
+urn: urn:nir:stato:regio.decreto:1901-06-16;201
+codice_redazionale: 0100201R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 giugno 1901 n. CCI
-===================================
-
-Che modifica lo statuto della cassa di risparmio di Barletta. (0100201R)
-------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/08/1901
-
-Art. 1
-------
-
-  
-Col quale si modifica lo statuto della nuova cassa di risparmio di Barletta. - Firmato VITTORIO EMANUELE - Controfirmato G. Zanardelli - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 12 luglio 1901.   
-  
-Reg. 229. Atti del Governo a f. 150.   
-  
+Col quale si modifica lo statuto della nuova cassa di risparmio di Barletta. - Firmato VITTORIO EMANUELE - Controfirmato G. Zanardelli - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 12 luglio 1901. 
+ 
+ Reg. 229. Atti del Governo a f. 150.

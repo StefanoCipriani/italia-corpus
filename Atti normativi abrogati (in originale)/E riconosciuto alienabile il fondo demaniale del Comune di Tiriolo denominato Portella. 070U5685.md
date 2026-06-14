@@ -1,16 +1,14 @@
-REGIO DECRETO 22 maggio 1870 n. 5685
-
-
-REGIO DECRETO 22 maggio 1870 n. 5685
-====================================
-
-E' riconosciuto alienabile il fondo demaniale del Comune di Tiriolo, denominato Portella. (070U5685)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/07/1870
+---
+tipo: REGIO DECRETO
+numero: 5685
+data: 1870-05-22
+titolo: "E' riconosciuto alienabile il fondo demaniale del Comune di Tiriolo, denominato Portella. (070U5685)"
+urn: urn:nir:stato:regio.decreto:1870-05-22;5685
+codice_redazionale: 070U5685
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Vista la deliberazione presa dal Consiglio comunale di Tiriolo, in Calabria Ulte
 
 Visto l'avviso del Consiglio di Stato, nella sua adunanza generale del 28 agosto 1869;
 
-Sulla
------
+Sulla proposizione del Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposizione del Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il fondo demaniale del Comune di Tiriolo in Calabria Ulteriore 2ª, denominato Portella, della estensione di ettari 51, e' riconosciuto alienabile con le medesime formalita' e cautele necessarie per l'alienazione degli altri fondi comunali, in adempimento della [Legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato A.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 22 maggio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 8 giugno 1870   
-  
-Reg. 51 Atti del Governo a c. 105. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-Castagnola.   
-  
+Il fondo demaniale del Comune di Tiriolo in Calabria Ulteriore 2ª, denominato Portella, della estensione di ettari 51, e' riconosciuto alienabile con le medesime formalita' e cautele necessarie per l'alienazione degli altri fondi comunali, in adempimento della [Legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato A. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 22 maggio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 8 giugno 1870 
+ 
+ Reg. 51 Atti del Governo a c. 105. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ Castagnola.

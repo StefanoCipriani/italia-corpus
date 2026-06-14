@@ -1,16 +1,14 @@
-REGIO DECRETO 07 maggio 1915 n. 585
-
-
-REGIO DECRETO 07 maggio 1915 n. 585
-===================================
-
-Col quale l'attuale sessione del Senato del Regno e della Camera dei deputati e' prorogata al giorno 20 corrente mese. (015U0585)
----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/05/1915
+---
+tipo: REGIO DECRETO
+numero: 585
+data: 1915-05-07
+titolo: "Col quale l'attuale sessione del Senato del Regno e della Camera dei deputati e' prorogata al giorno 20 corrente mese. (015U0585)"
+urn: urn:nir:stato:regio.decreto:1915-05-07;585
+codice_redazionale: 015U0585
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,25 +18,18 @@ Visto l'art. 9 dello Statuto fondamentale del Regno;
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del presidente del Consiglio dei ministri, ministro segretario di Stato per gli affari dell'interno, di concerto con gli altri Nostri ministri, segretari di Stato componenti il Consiglio medesimo; Abbiamo decretato e decretiamo:
 
-proposta del presidente del Consiglio dei ministri, ministro segretario di Stato per gli affari dell'interno, di concerto con gli altri Nostri ministri, segretari di Stato componenti il Consiglio medesimo; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'attuale sessione del Senato del Regno e della Camera dei deputati e' prorogata al giorno 20 corrente mese.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 maggio 1915.   
-  
-VITTORIO EMANUELE.   
-  
-Salandra.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+L'attuale sessione del Senato del Regno e della Camera dei deputati e' prorogata al giorno 20 corrente mese. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 maggio 1915. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Salandra. 
+ 
+ Visto, Il guardasigilli: Orlando.

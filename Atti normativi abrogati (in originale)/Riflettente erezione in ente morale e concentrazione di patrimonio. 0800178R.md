@@ -1,19 +1,15 @@
-REGIO DECRETO 03 maggio 1908 n. CLXXVIII
+---
+tipo: REGIO DECRETO
+numero: CLXXVIII
+data: 1908-05-03
+titolo: "Riflettente erezione in ente morale e concentrazione di patrimonio. (0800178R)"
+urn: urn:nir:stato:regio.decreto:1908-05-03;178
+codice_redazionale: 0800178R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 maggio 1908 n. CLXXVIII
-========================================
-
-Riflettente erezione in ente morale e concentrazione di patrimonio. (0800178R)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/06/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CLXXVIII (Dato a Roma, il 3 maggio 1908), col quale il pio legato Finaldi Casoria di Camposano (Caserta), e' eretto in ente morale e concentrato nella Congregazione di carita' del luogo.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CLXXVIII (Dato a Roma, il 3 maggio 1908), col quale il pio legato Finaldi Casoria di Camposano (Caserta), e' eretto in ente morale e concentrato nella Congregazione di carita' del luogo.

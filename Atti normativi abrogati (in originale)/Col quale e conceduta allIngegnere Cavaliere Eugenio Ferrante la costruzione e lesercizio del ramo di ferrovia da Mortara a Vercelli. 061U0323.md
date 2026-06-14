@@ -1,16 +1,14 @@
-REGIO DECRETO 25 agosto 1861 n. 323
-
-
-REGIO DECRETO 25 agosto 1861 n. 323
-===================================
-
-Col quale e' conceduta all'Ingegnere Cavaliere Eugenio Ferrante la costruzione e l'esercizio del ramo di ferrovia da Mortara a Vercelli. (061U0323)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/12/1861
+---
+tipo: REGIO DECRETO
+numero: 323
+data: 1861-08-25
+titolo: "Col quale e' conceduta all'Ingegnere Cavaliere Eugenio Ferrante la costruzione e l'esercizio del ramo di ferrovia da Mortara a Vercelli. (061U0323)"
+urn: urn:nir:stato:regio.decreto:1861-08-25;323
+codice_redazionale: 061U0323
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,23 +22,16 @@ Ritenuto non essersi presentata al Governo domanda alcuna per la costruzione e l
 
 Sulla proposizione del Nostro Ministro Segretario di Stato per i Lavori Pubblici,
 
-Sentito
--------
+Sentito il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' conceduta all'Ingegnere Cav. Eugenio Ferrante la costruzione e l'esercizio del ramo di ferrovia da Mortara a Vercelli alle condizioni stesse contenute nel Capitolato del 25 maggio 1864, approvato colla legge 17 ultimo scorso luglio, n. 100.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 25 agosto 1861.   
-  
-VITTORIO EMANUELE.   
-  
-P. Bastogi.   
-  
+E' conceduta all'Ingegnere Cav. Eugenio Ferrante la costruzione e l'esercizio del ramo di ferrovia da Mortara a Vercelli alle condizioni stesse contenute nel Capitolato del 25 maggio 1864, approvato colla legge 17 ultimo scorso luglio, n. 100. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 25 agosto 1861. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ P. Bastogi.

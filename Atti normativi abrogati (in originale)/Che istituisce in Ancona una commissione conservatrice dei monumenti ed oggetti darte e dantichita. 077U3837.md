@@ -1,16 +1,14 @@
-REGIO DECRETO 06 maggio 1877 n. 3837
-
-
-REGIO DECRETO 06 maggio 1877 n. 3837
-====================================
-
-Che istituisce in Ancona una commissione conservatrice dei monumenti ed oggetti d'arte e d'antichita'. (077U3837)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/06/1877
+---
+tipo: REGIO DECRETO
+numero: 3837
+data: 1877-05-06
+titolo: "Che istituisce in Ancona una commissione conservatrice dei monumenti ed oggetti d'arte e d'antichita'. (077U3837)"
+urn: urn:nir:stato:regio.decreto:1877-05-06;3837
+codice_redazionale: 077U3837
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,24 +18,16 @@ Visto il Nostro decreto del 5 marzo 1876, n. 3028 (Serie 2ª);
 
 Visto l'altro Nostro decreto in data 29 aprile 1877, col quale fu sciolta la Commissione conservatrice dei monumenti storici e letterari e degli oggetti d'antichita' e belle arti nelle Marche;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 maggio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-M. Coppino.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 maggio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. Coppino.

@@ -1,37 +1,28 @@
-LEGGE 03 giugno 1884 n. 2354
+---
+tipo: LEGGE
+numero: 2354
+data: 1884-06-03
+titolo: "Che unisce il comune di Castagneto (Torino) al mandamento di Chivasso. (084U2354)"
+urn: urn:nir:stato:legge:1884-06-03;2354
+codice_redazionale: 084U2354
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 03 giugno 1884 n. 2354
-============================
+A cominciare dal primo gennaio 1885, il comune di Castagneto, in provincia di Torino, e' distaccato dal mandamento di Casalborgone, ed unito al mandamento di Chivasso per tutti i rapporti amministrativi e giudiziari.
 
-Che unisce il comune di Castagneto (Torino) al mandamento di Chivasso. (084U2354)
----------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 29/06/1884
-
-Art. 1
-------
-
-  
-  
-A cominciare dal primo gennaio 1885, il comune di Castagneto, in provincia di Torino, e' distaccato dal mandamento di Casalborgone, ed unito al mandamento di Chivasso per tutti i rapporti amministrativi e giudiziari.   
-  
-
-Art. 2
-------
-
-  
-  
-Il Governo del Re fara', con decreto Reale, quanto occorre per la esecuzione della presenta legge.   
-  
-Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Roma, addi' 3 giugno 1884.   
-  
-UMBERTO.   
-  
-DEPRETIS.   
-N. FERRACCIU'.   
-  
-Visto, Il Guardasigilli: FERRACCIU'.   
-  
+Il Governo del Re fara', con decreto Reale, quanto occorre per la esecuzione della presenta legge. 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Roma, addi' 3 giugno 1884. 
+ 
+ UMBERTO. 
+ 
+ DEPRETIS. 
+ N. FERRACCIU'. 
+ 
+ Visto, Il Guardasigilli: FERRACCIU'.

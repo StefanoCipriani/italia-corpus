@@ -1,16 +1,14 @@
-REGIO DECRETO 20 novembre 1941 n. 1496
-
-
-REGIO DECRETO 20 novembre 1941 n. 1496
-======================================
-
-Avanzamento a scelta degli ufficiali della Regia aeronautica durante l'attuale stato di guerra. (041U1496)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/01/1942
+---
+tipo: REGIO DECRETO
+numero: 1496
+data: 1941-11-20
+titolo: "Avanzamento a scelta degli ufficiali della Regia aeronautica durante l'attuale stato di guerra. (041U1496)"
+urn: urn:nir:stato:regio.decreto:1941-11-20;1496
+codice_redazionale: 041U1496
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,32 +24,24 @@ Visto l'art. 3, n. 1, della legge 31 gennaio 1926-IV, n. 100;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le disposizioni dell'art. 1, commi 2° e 3° e dell'art. 2 del R. decreto 9 novembre 1940-XIX, n. 1945, si applicano anche agli ufficiali in servizio permanente effettivo della Regia aeronautica compresi nei limiti per la iscrizione sui quadri di avanzamento a scelta per l'anno 1942.   
-  
-Ferme rimanendo tutte le altre condizioni stabilite dalle norme in vigore, quelli di detti ufficiali che non abbiano chiesto o non siano stati ammessi agli esami per l'anno 1941, non potranno concorrere all'avanzamento a scelta se non per l'anno 1942.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 20 novembre 1941-XX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 14 gennaio 1942-XX   
-  
-Atti del Governo, registro 441, foglio 51. - MANCINI   
-  
-  
+Le disposizioni dell'art. 1, commi 2° e 3° e dell'art. 2 del R. decreto 9 novembre 1940-XIX, n. 1945, si applicano anche agli ufficiali in servizio permanente effettivo della Regia aeronautica compresi nei limiti per la iscrizione sui quadri di avanzamento a scelta per l'anno 1942. 
+ 
+ Ferme rimanendo tutte le altre condizioni stabilite dalle norme in vigore, quelli di detti ufficiali che non abbiano chiesto o non siano stati ammessi agli esami per l'anno 1941, non potranno concorrere all'avanzamento a scelta se non per l'anno 1942. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 20 novembre 1941-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 14 gennaio 1942-XX 
+ 
+ Atti del Governo, registro 441, foglio 51. - MANCINI

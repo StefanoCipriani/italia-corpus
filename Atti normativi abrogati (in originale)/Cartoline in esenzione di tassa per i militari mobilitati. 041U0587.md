@@ -1,16 +1,14 @@
-REGIO DECRETO 22 maggio 1941 n. 587
-
-
-REGIO DECRETO 22 maggio 1941 n. 587
-===================================
-
-Cartoline in esenzione di tassa per i militari mobilitati. (041U0587)
----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/07/1941
+---
+tipo: REGIO DECRETO
+numero: 587
+data: 1941-05-22
+titolo: "Cartoline in esenzione di tassa per i militari mobilitati. (041U0587)"
+urn: urn:nir:stato:regio.decreto:1941-05-22;587
+codice_redazionale: 041U0587
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,43 +28,34 @@ Sentito il Consiglio di amministrazione delle poste e dei telegrafi;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La concessione accordata col [R. decreto 19 giugno 1940, numero 885](Esenzione%20temporanea%20dalle%20tasse%20postali%20delle%20cartoline%20militari%20appartenenti%20ad%20unita%20servite%20dalla%20posta%20militare.%20040U0885.md), ai militari delle unita' che si appoggiano al servizio della posta militare di spedire speciali cartoline in esenzione di tassa viene estesa: 
+ 
+ 1) ai reparti mobilitati nel territorio disimpegnanti servizi di guerra; 
+ 
+ 2) agli ospedali militari, convalescenziari e treni ospedali; 
+ 
+ 3) alle organizzazioni mobilitate della Croce Rossa Italiana. 
+ 
+ Il numero di dette cartoline da distribuire a ciascun militare viene elevato da due a tre per ogni settimana.
 
-  
-  
-La concessione accordata col [R. decreto 19 giugno 1940, numero 885](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-06-19;885), ai militari delle unita' che si appoggiano al servizio della posta militare di spedire speciali cartoline in esenzione di tassa viene estesa:   
-  
-1) ai reparti mobilitati nel territorio disimpegnanti servizi di guerra;   
-  
-2) agli ospedali militari, convalescenziari e treni ospedali;   
-  
-3) alle organizzazioni mobilitate della Croce Rossa Italiana.   
-  
-Il numero di dette cartoline da distribuire a ciascun militare viene elevato da due a tre per ogni settimana.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 maggio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Host Venturi - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 1° luglio 1941-XIX   
-  
-Atti del Governo, registro 435, foglio 1. - Mancini   
+Il presente decreto andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 maggio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Host Venturi - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 1° luglio 1941-XIX 
+ 
+ Atti del Governo, registro 435, foglio 1. - Mancini

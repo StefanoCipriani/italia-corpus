@@ -1,16 +1,14 @@
-REGIO DECRETO 30 ottobre 1940 n. 1950
-
-
-REGIO DECRETO 30 ottobre 1940 n. 1950
-=====================================
-
-Istituzione di un posto di vice segretario presso il Regio istituto tecnico commerciale ad indirizzo mercantile «Massimo Tortelli» di Genova ed approvazione della nuova tabella organica. (040U1950)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/02/1941
+---
+tipo: REGIO DECRETO
+numero: 1950
+data: 1940-10-30
+titolo: "Istituzione di un posto di vice segretario presso il Regio istituto tecnico commerciale ad indirizzo mercantile «Massimo Tortelli» di Genova ed approvazione della nuova tabella organica. (040U1950)"
+urn: urn:nir:stato:regio.decreto:1940-10-30;1950
+codice_redazionale: 040U1950
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,39 +28,26 @@ Veduto il R. decreto 23 novembre 1939-XVIII, n. 2239, col quale, a decorrere dal
 
 Considerata la necessita' di istituire presso l'Istituto predetto un posto di ruolo di vice segretario;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A decorrere dal 16 ottobre 1939-XVII, e' istituito presso il Regio istituto tecnico commerciale ad indirizzo mercantile «Massimo Tortelli» di Genova un posto di vice segretario.   
-  
-Con la stessa decorrenza la tabella organica del predetto Istituto, approvata con R. decreto 14 gennaio 1937-XV, n. 676, e' sostituita da quella allegata al presente decreto approvata, vista e firmata d'ordine Nostro dal Ministro Segretario di Stato per l'educazione nazionale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 30 ottobre 1940-XIX   
-  
-VITTORIO EMANUELE   
-  
-Bottai - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 3 febbraio 1941-XIX   
-  
-Atti del Governo, registro 430, foglio 12. - Mancini   
-  
-Tabella organica del Regio istituto tecnico commerciale mercantile «Massimo Tortelli» di Genova   
-
-Tabella
-
-Tabella organica del Regio istituto tecnico commerciale mercantile " Massimo Tortelli " di Genova   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=040U195000100010110001&dgu=1941-02-08&art.dataPubblicazioneGazzetta=1941-02-08&art.codiceRedazionale=040U1950)
-  
+A decorrere dal 16 ottobre 1939-XVII, e' istituito presso il Regio istituto tecnico commerciale ad indirizzo mercantile «Massimo Tortelli» di Genova un posto di vice segretario. 
+ 
+ Con la stessa decorrenza la tabella organica del predetto Istituto, approvata con R. decreto 14 gennaio 1937-XV, n. 676, e' sostituita da quella allegata al presente decreto approvata, vista e firmata d'ordine Nostro dal Ministro Segretario di Stato per l'educazione nazionale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 30 ottobre 1940-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Bottai - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 3 febbraio 1941-XIX 
+ 
+ Atti del Governo, registro 430, foglio 12. - Mancini 
+ 
+ Tabella organica del Regio istituto tecnico commerciale mercantile «Massimo Tortelli» di Genova

@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 14 febbraio 1918 n. 344
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 344
+data: 1918-02-14
+titolo: "Variazione a tabelle relative al numero di capi di Istituto. (018U0344)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-02-14;344
+codice_redazionale: 018U0344
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 14 febbraio 1918 n. 344
-===============================================
-
-Variazione a tabelle relative al numero di capi di Istituto. (018U0344)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/04/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-344. Decreto Luogotenenziale 14 febbraio 1918, col quale, sulla proposta del ministro dell'istruzione pubblica, sono apportate variazioni alle tabelle annesse al [decreto Luogotenenziale 30 gennaio 1916, n. 251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-01-30;251), relativo al numero dei capi di Istituto e degli insegnanti delle Regie scuole tecniche.
+344.
+
+Decreto Luogotenenziale 14 febbraio 1918, col quale, sulla proposta del ministro dell'istruzione pubblica, sono apportate variazioni alle tabelle annesse al [decreto Luogotenenziale 30 gennaio 1916, n. 251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-01-30;251), relativo al numero dei capi di Istituto e degli insegnanti delle Regie scuole tecniche.

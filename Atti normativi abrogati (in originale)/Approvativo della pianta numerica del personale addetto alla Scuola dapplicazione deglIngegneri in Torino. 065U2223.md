@@ -1,16 +1,14 @@
-REGIO DECRETO 26 marzo 1865 n. 2223
-
-
-REGIO DECRETO 26 marzo 1865 n. 2223
-===================================
-
-Approvativo della pianta numerica del personale addetto alla Scuola d'applicazione degl'Ingegneri in Torino. (065U2223)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/04/1865
+---
+tipo: REGIO DECRETO
+numero: 2223
+data: 1865-03-26
+titolo: "Approvativo della pianta numerica del personale addetto alla Scuola d'applicazione degl'Ingegneri in Torino. (065U2223)"
+urn: urn:nir:stato:regio.decreto:1865-03-26;2223
+codice_redazionale: 065U2223
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 Per grazia di Dio e per volonta' della Nazione
 
@@ -24,31 +22,16 @@ Visto il Regolamento per la Scuola d'applicazione degli Ingegneri in Torino, app
 
 Visto il Bilancio passivo della Pubblica Istruzione;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata per la Scuola d'applicazione degli Ingegneri in Torino la pianta numerica degli Insegnanti, altri Impiegati e Serventi, annessa al presente Decreto, e firmata d'ordine Nostro dal predetto Ministro Segretario di Stato per la Pubblica Istruzione.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella Raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 26 marzo 1865.   
-  
-VITTORIO EMANUELE.   
-  
-Natoli.   
-  
-
-Tabella
-
-  
-PIANTA NUMERICA degli Insegnanti, altri Impiegati e Serventi della Scuola d'applicazione degli Ingegneri in Torino.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=065U222300100010110001&dgu=1865-04-15&art.dataPubblicazioneGazzetta=1865-04-15&art.codiceRedazionale=065U2223)
-  
+E' approvata per la Scuola d'applicazione degli Ingegneri in Torino la pianta numerica degli Insegnanti, altri Impiegati e Serventi, annessa al presente Decreto, e firmata d'ordine Nostro dal predetto Ministro Segretario di Stato per la Pubblica Istruzione. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella Raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 26 marzo 1865. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Natoli.

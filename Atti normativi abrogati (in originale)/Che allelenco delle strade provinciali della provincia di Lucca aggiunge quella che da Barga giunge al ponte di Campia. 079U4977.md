@@ -1,16 +1,14 @@
-REGIO DECRETO 08 giugno 1879 n. 4977
-
-
-REGIO DECRETO 08 giugno 1879 n. 4977
-====================================
-
-Che all'elenco delle strade provinciali della provincia di Lucca, aggiunge quella che da Barga giunge al ponte di Campia. (079U4977)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/08/1879
+---
+tipo: REGIO DECRETO
+numero: 4977
+data: 1879-06-08
+titolo: "Che all'elenco delle strade provinciali della provincia di Lucca, aggiunge quella che da Barga giunge al ponte di Campia. (079U4977)"
+urn: urn:nir:stato:regio.decreto:1879-06-08;4977
+codice_redazionale: 079U4977
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,7 +22,7 @@ Veduto il ricorso del comune di Borgo a Buggiano contro la sopracitata deliberaz
 
 Veduto il parere 3 maggio 1879 del Consiglio superiore dei Lavori Pubblici,
 
-Veduti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della legge 20 marzo 1865, numero 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato F;
+Veduti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [14 della legge 20 marzo 1865, numero 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), allegato F;
 
 Considerando:
 
@@ -36,22 +34,16 @@ Che verificandosi nella strada suddetta gli estremi indicati dall'articolo 13 (D
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' aggiunta all'elenco delle strade provinciali della provincia di Lucca quella che da Barga giunge a ponte di Campia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 giugno 1879.   
-  
-UMBERTO.   
-  
-R. MEZZANOTTE.   
+E' aggiunta all'elenco delle strade provinciali della provincia di Lucca quella che da Barga giunge a ponte di Campia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 giugno 1879. 
+ 
+ UMBERTO. 
+ 
+ R. MEZZANOTTE.

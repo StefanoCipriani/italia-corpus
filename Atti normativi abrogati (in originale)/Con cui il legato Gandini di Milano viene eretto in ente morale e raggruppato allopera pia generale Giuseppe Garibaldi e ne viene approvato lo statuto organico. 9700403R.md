@@ -1,21 +1,17 @@
-REGIO DECRETO 05 dicembre 1897 n. CCCCIII
+---
+tipo: REGIO DECRETO
+numero: CCCCIII
+data: 1897-12-05
+titolo: "Con cui il legato Gandini di Milano viene eretto in ente morale e raggruppato all'opera pia generale Giuseppe Garibaldi e ne viene approvato lo statuto organico. (9700403R)"
+urn: urn:nir:stato:regio.decreto:1897-12-05;403
+codice_redazionale: 9700403R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 dicembre 1897 n. CCCCIII
-=========================================
-
-Con cui il legato Gandini di Milano viene eretto in ente morale e raggruppato all'opera pia generale Giuseppe Garibaldi e ne viene approvato lo statuto organico. (9700403R)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/01/1898
-
-Art. 1
-------
-
-  
-Con cui il legato Gandini di Milano viene eretto in ente morale e raggruppato all'opera pia generale Giuseppe Garibaldi e ne viene approvato lo statuto organico. - Firmato UMBERTO - Controfirmato Rudini' - Visto G. Zanardelli.   
-  
-Registrato alla Corte dei Conti addi' 10 gennaio 1898.   
-  
-Reg. 214. Atti del Governo a f. 11.   
-  
+Con cui il legato Gandini di Milano viene eretto in ente morale e raggruppato all'opera pia generale Giuseppe Garibaldi e ne viene approvato lo statuto organico. - Firmato UMBERTO - Controfirmato Rudini' - Visto G. Zanardelli. 
+ 
+ Registrato alla Corte dei Conti addi' 10 gennaio 1898. 
+ 
+ Reg. 214. Atti del Governo a f. 11.

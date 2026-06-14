@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 04 ottobre 1917 n. 1742
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1742
+data: 1917-10-04
+titolo: "Approvazione di Statuto. (017U1742)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-10-04;1742
+codice_redazionale: 017U1742
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 04 ottobre 1917 n. 1742
-===============================================
-
-Approvazione di Statuto. (017U1742)
------------------------------------
-
-Entrata in vigore del provvedimento: 21/11/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1742. Decreto Luogotenenziale 4 ottobre 1917, col quale, sulla proposta del ministro per l'industria, il commer ed il lavoro, si approva il nuovo statuto organico dell'Istituto per le case popolari in Roma.
+1742.
+
+Decreto Luogotenenziale 4 ottobre 1917, col quale, sulla proposta del ministro per l'industria, il commer ed il lavoro, si approva il nuovo statuto organico dell'Istituto per le case popolari in Roma.

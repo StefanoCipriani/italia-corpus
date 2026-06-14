@@ -1,16 +1,14 @@
-REGIO DECRETO 17 marzo 1872 n. 749
-
-
-REGIO DECRETO 17 marzo 1872 n. 749
-==================================
-
-Che dichiara provinciali alcune strade scorrenti nella Provincia di Cagliari. (072U0749)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/05/1872
+---
+tipo: REGIO DECRETO
+numero: 749
+data: 1872-03-17
+titolo: "Che dichiara provinciali alcune strade scorrenti nella Provincia di Cagliari. (072U0749)"
+urn: urn:nir:stato:regio.decreto:1872-03-17;749
+codice_redazionale: 072U0749
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,7 +24,7 @@ Vista la relazione, colla quale l'Ufficio tecnico provinciale di Cagliari esamin
 
 Visti i pareri emessi dal Consiglio superiore dei Lavori Pubblici nelle adunanze generali delli 20 agosto 1870, 12 agosto e 9 settembre 1871;
 
-Visti gli [articoli 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art11), [13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13), [14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), [15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art15), [37](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art37) e [86 della Legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art86), allegato F;
+Visti gli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_11), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), [15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_15), [37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_37) e [86 della Legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_86), allegato F;
 
 Considerando:
 
@@ -44,41 +42,24 @@ Che dal combinato disposto degli articoli 11 e 15 della sopracitata Legge e' per
 
 Sentito l'avviso del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate provinciali, per la Provincia di Cagliari, le strade descritte nell'unito Elenco, visto d'ordine Nostro dal predetto Ministro.   
-  
-La manutenzione delle strade comunali-consorziali, che in forza del presente Decreto passano fra le provinciali, stara' a carico della predetta Provincia a partire dal 1° gennaio del prossimo anno 1873.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 17 marzo 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 6 aprile 1872   
-  
-Reg. 60 Atti del Governo a c. 87. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Devincenzi.   
-  
-
-Tabella
-
-  
-PROVINCIA DI CAGLIARI - Elenco delle strade provinciali.   
-  
-Parte I - Strade esistenti e passate provinciali in virtu' dell'art. 86 della legge 20 Raggio 1865, numero 2248, Allegato F.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U074900100010110001&dgu=1872-04-19&art.dataPubblicazioneGazzetta=1872-04-19&art.codiceRedazionale=072U0749)
-  
+Sono dichiarate provinciali, per la Provincia di Cagliari, le strade descritte nell'unito Elenco, visto d'ordine Nostro dal predetto Ministro. 
+ 
+ La manutenzione delle strade comunali-consorziali, che in forza del presente Decreto passano fra le provinciali, stara' a carico della predetta Provincia a partire dal 1° gennaio del prossimo anno 1873. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 17 marzo 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 6 aprile 1872 
+ 
+ Reg. 60 Atti del Governo a c. 87. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Devincenzi.

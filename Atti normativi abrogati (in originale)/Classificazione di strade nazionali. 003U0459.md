@@ -1,26 +1,24 @@
-REGIO DECRETO 23 ottobre 1903 n. 459
-
-
-REGIO DECRETO 23 ottobre 1903 n. 459
-====================================
-
-Classificazione di strade nazionali. (003U0459)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/12/1903
+---
+tipo: REGIO DECRETO
+numero: 459
+data: 1903-10-23
+titolo: "Classificazione di strade nazionali. (003U0459)"
+urn: urn:nir:stato:regio.decreto:1903-10-23;459
+codice_redazionale: 003U0459
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduta la [legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato F, sui Lavori Pubblici;
+Veduta la [legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato F, sui Lavori Pubblici;
 
-Veduta la legge comunale e provinciale, testo unico, approvato col [R. decreto 4 maggio 1898, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-05-04;164);
+Veduta la legge comunale e provinciale, testo unico, approvato col [R. decreto 4 maggio 1898, n. 164](Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md);
 
-Veduto il [R. decreto 23 marzo 1884, n. 2197](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-03-23;2197), di approvazione dell'elenco generale delle strade nazionali del Regno;
+Veduto il [R. decreto 23 marzo 1884, n. 2197](Che%20approva%20lannessovi%20elenco%20generale%20delle%20strade%20nazionali%20del%20Regno.%20084U2197.md), di approvazione dell'elenco generale delle strade nazionali del Regno;
 
 Ritenuto che, in conseguenza dell'apertura all'esercizio dei tronchi di ferrovia da Barcellona a Milazzo e da Olivieri a Barcellona, appartenenti alla linea Termini-Patti-Messina, passo' all'Amministrazione Provinciale di Messina il tronco della strada nazionale n. 72 Randazzo-Milazzo, compreso fra l'innesto con la provinciale delle Marine, presso il torrente Mazzarra', e l'abitato di Milazzo;
 
@@ -42,47 +40,32 @@ Sentito il Consiglio Superiore dei Lavori Pubblici;
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono classificati nazionali e facenti parte della strada nazionale n. 72: 
+ 
+ 1° il tratto di strada provinciale compreso fra l'innesto della nazionale n. 72 con la provinciale delle Marine in contrada Salica' ed il principio della strada di accesso alla stazione ferroviaria di Furnari; 
+ 
+ 2° il tratto di strada comunale compreso fra la detta provinciale delle Marine e la stazione ferroviaria di Furnari.
 
-  
-  
-Sono classificati nazionali e facenti parte della strada nazionale n. 72:   
-  
-1° il tratto di strada provinciale compreso fra l'innesto della nazionale n. 72 con la provinciale delle Marine in contrada Salica' ed il principio della strada di accesso alla stazione ferroviaria di Furnari;   
-  
-2° il tratto di strada comunale compreso fra la detta provinciale delle Marine e la stazione ferroviaria di Furnari.   
-  
+## Art. 2.
 
-Art. 2
-------
+I limiti della predetta strada nazionale n. 72, di cui all'elenco approvato col [R. decreto 23 marzo 1884, n. 2197](Che%20approva%20lannessovi%20elenco%20generale%20delle%20strade%20nazionali%20del%20Regno.%20084U2197.md), sono conseguentemente stabiliti come segue: 
+ 
+ «Da Passo Pisciaro, sulla nazionale n. 70, alla stazione ferroviaria di Furnari».
 
-  
-  
-I limiti della predetta strada nazionale n. 72, di cui all'elenco approvato col [R. decreto 23 marzo 1884, n. 2197](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-03-23;2197), sono conseguentemente stabiliti come segue:   
-  
-«Da Passo Pisciaro, sulla nazionale n. 70, alla stazione ferroviaria di Furnari».   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-E' cancellato dall'elenco delle strade provinciali di Messina, il tratto di strada compreso fra la nazionale n. 72 in contrada Salica' ed il principio della strada di accesso alla stazione ferroviaria di Furnari.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 23 ottobre 1903.   
-  
-VITTORIO EMANUELE.   
-  
-N. BALENZANO.   
-  
-Visto, Il Guardasigilli: COCCO-ORTU.   
-  
+E' cancellato dall'elenco delle strade provinciali di Messina, il tratto di strada compreso fra la nazionale n. 72 in contrada Salica' ed il principio della strada di accesso alla stazione ferroviaria di Furnari. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 23 ottobre 1903. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ N. BALENZANO. 
+ 
+ Visto, Il Guardasigilli: COCCO-ORTU.

@@ -1,51 +1,35 @@
-REGIO DECRETO 05 maggio 1895 n. 278
+---
+tipo: REGIO DECRETO
+numero: 278
+data: 1895-05-05
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno (095U0278)"
+urn: urn:nir:stato:regio.decreto:1895-05-05;278
+codice_redazionale: 095U0278
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 maggio 1895 n. 278
-===================================
+Il Comune di Bellizzi, con 50 elettori, e' aggregato alla 4ª Sezione elettorale di Avellino. 
+ 
+ I Comuni di Chianche, Chianchietella e San Pietro Indelicato, con 48, 24 e 9 elettori, sono aggregati alla 4ª Sezione elettorale di Petruro. 
+ 
+ Il Comune di Torrioni, con 22 elettori, e' aggregato alla Sezione elettorale di Montefusco.
 
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno (095U0278)
---------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/05/1895
+Nel Collegio di Atripalda: Il Comune di Tavernola S. Felice, con 23 elettori, e' aggregato alla Sezione elettorale di Ajello del Sabato. 
+ 
+ Il Comune di S. Agata di Sotto, con 39 elettori, e' aggregato alla Sezione elettorale di Solofra.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Il Comune di Bellizzi, con 50 elettori, e' aggregato alla 4ª Sezione elettorale di Avellino.   
-  
-I Comuni di Chianche, Chianchietella e San Pietro Indelicato, con 48, 24 e 9 elettori, sono aggregati alla 4ª Sezione elettorale di Petruro.   
-  
-Il Comune di Torrioni, con 22 elettori, e' aggregato alla Sezione elettorale di Montefusco.   
-  
+Nel Collegio di Baiano: Il Comune di Sperone, con 42 elettori, e' aggregato alla Sezione elettorale di Avella. 
+ 
+ Il Comune di Pago del Vallo di Lauro, con 37 elettori, e' aggregato alla Sezione elettorale di Marzano di Nola. 
+ 
+ Il Comune di Taurano, con 47 elettori, e' aggregato alla Sezione elettorale di Lauro.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-Nel Collegio di Atripalda: Il Comune di Tavernola S. Felice, con 23 elettori, e' aggregato alla Sezione elettorale di Ajello del Sabato.   
-  
-Il Comune di S. Agata di Sotto, con 39 elettori, e' aggregato alla Sezione elettorale di Solofra.   
-  
-
-Art. 3
-------
-
-  
-  
-Nel Collegio di Baiano: Il Comune di Sperone, con 42 elettori, e' aggregato alla Sezione elettorale di Avella.   
-  
-Il Comune di Pago del Vallo di Lauro, con 37 elettori, e' aggregato alla Sezione elettorale di Marzano di Nola.   
-  
-Il Comune di Taurano, con 47 elettori, e' aggregato alla Sezione elettorale di Lauro.   
-  
-
-Art. 4
-------
-
-  
-  
-Nel Collegio di Sant'Angelo dei Lombardi: Il Comune di Quaglietta, con 42 elettori, e' aggregato alla Sezione elettorale di Calabritto.   
+Nel Collegio di Sant'Angelo dei Lombardi: Il Comune di Quaglietta, con 42 elettori, e' aggregato alla Sezione elettorale di Calabritto.

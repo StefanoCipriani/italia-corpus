@@ -1,16 +1,14 @@
-REGIO DECRETO 02 marzo 1879 n. 4760
-
-
-REGIO DECRETO 02 marzo 1879 n. 4760
-===================================
-
-Che separa il comune di Grottole dalla sezione principale del collegio elettorale di Tricarico e forma una sezione distinta dello stesso collegio. (079U4760)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/03/1879
+---
+tipo: REGIO DECRETO
+numero: 4760
+data: 1879-03-02
+titolo: "Che separa il comune di Grottole dalla sezione principale del collegio elettorale di Tricarico e forma una sezione distinta dello stesso collegio. (079U4760)"
+urn: urn:nir:stato:regio.decreto:1879-03-02;4760
+codice_redazionale: 079U4760
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Che quel comune dista da Tricarico 30 chilometri, e che tale straordinaria dista
 
 Considerato che con la istituzione di una sezione elettorale in Grottole, riparandosi al predetto inconveniente, si rende piu' facile l'esercizio del diritto elettorale;
 
-Sulla
------
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Grottole e' separato dalla sezione principale del Collegio elettorale di Tricarico, e formera' una sezione distinta dello stesso Collegio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 marzo 1879.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
+Il comune di Grottole e' separato dalla sezione principale del Collegio elettorale di Tricarico, e formera' una sezione distinta dello stesso Collegio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 marzo 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.

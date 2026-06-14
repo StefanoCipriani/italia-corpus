@@ -1,19 +1,19 @@
-REGIO DECRETO 20 ottobre 1932 n. 1477
+---
+tipo: REGIO DECRETO
+numero: 1477
+data: 1932-10-20
+titolo: "Riconoscimento della personalita' giuridica del Monastero di S. Magno delle Benedettine, in Amelia. (032U1477)"
+urn: urn:nir:stato:regio.decreto:1932-10-20;1477
+codice_redazionale: 032U1477
+vigente: true
+---
 
-
-REGIO DECRETO 20 ottobre 1932 n. 1477
-=====================================
-
-Riconoscimento della personalita' giuridica del Monastero di S. Magno delle Benedettine, in Amelia. (032U1477)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/12/1932
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1477. R. decreto 20 ottobre 1932, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene concesso il riconoscimento della personalita' giuridica del Monastero di S. Magno delle Benedettine in Amelia ed e' autorizzato il trasferimento al Monastero medesimo di alcuni immobili attualmente intestati a privati.   
-Visto, il Guardasigilli: DE FRANCISCI.   
-Registrato alla Corte dei conti, addi' 19 novembre 1932 - Anno XI
+1477.
+
+R. decreto 20 ottobre 1932, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene concesso il riconoscimento della personalita' giuridica del Monastero di S. Magno delle Benedettine in Amelia ed e' autorizzato il trasferimento al Monastero medesimo di alcuni immobili attualmente intestati a privati. 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ Registrato alla Corte dei conti, addi' 19 novembre 1932 - Anno XI

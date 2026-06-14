@@ -1,16 +1,14 @@
-REGIO DECRETO 10 dicembre 1868 n. 4753
-
-
-REGIO DECRETO 10 dicembre 1868 n. 4753
-======================================
-
-Risguardante gli studi e gli esami degli aspiranti al diploma d'Ingegnere Architetto nelle Universita' di Catania e Messina. (068U4753)
----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/01/1869
+---
+tipo: REGIO DECRETO
+numero: 4753
+data: 1868-12-10
+titolo: "Risguardante gli studi e gli esami degli aspiranti al diploma d'Ingegnere Architetto nelle Universita' di Catania e Messina. (068U4753)"
+urn: urn:nir:stato:regio.decreto:1868-12-10;4753
+codice_redazionale: 068U4753
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,39 +32,28 @@ A norma delle disposizioni date col Nostro Decreto 8 maggio 1864, n. 1779, relat
 
 Sentito il parere del Consiglio superiore della Pubblica Istruzione;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Cessano d'aver vigore le Disposizioni Ministeriali 5 e 7 maggio e 17 agosto 1863, concernenti gli studi e le pratiche cui erano obbligati coloro che, dopo aver conseguito la licenza in matematiche pure nelle Universita' di Catania e Messina, aspiravano al diploma d'Ingegnere Architetto. 
+ 
+ Gli aspiranti predetti dovranno percio' compiere gli studi in una delle Scuole d'applicazione del Regno, ed ivi sostenere gli esami che sono prescritti dai rispettivi Regolamenti.
 
-  
-  
-Cessano d'aver vigore le Disposizioni Ministeriali 5 e 7 maggio e 17 agosto 1863, concernenti gli studi e le pratiche cui erano obbligati coloro che, dopo aver conseguito la licenza in matematiche pure nelle Universita' di Catania e Messina, aspiravano al diploma d'Ingegnere Architetto.   
-  
-Gli aspiranti predetti dovranno percio' compiere gli studi in una delle Scuole d'applicazione del Regno, ed ivi sostenere gli esami che sono prescritti dai rispettivi Regolamenti.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Gli studenti tuttavia che al momento della pubblicazione del presente Decreto hanno gia' fatto in tutto o in parte il corso di matematiche pure, o sono inscritti al primo anno del corso stesso, hanno facolta' di compiere gli studi e le pratiche per conseguire il diploma d'Ingegnere secondo le Disposizioni preaccennate.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 10 dicembre 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 21 dicembre 1868   
-  
-Reg. 45 Atti del Governo a c. 43. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-Broglio.   
-  
+Gli studenti tuttavia che al momento della pubblicazione del presente Decreto hanno gia' fatto in tutto o in parte il corso di matematiche pure, o sono inscritti al primo anno del corso stesso, hanno facolta' di compiere gli studi e le pratiche per conseguire il diploma d'Ingegnere secondo le Disposizioni preaccennate. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 10 dicembre 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 21 dicembre 1868 
+ 
+ Reg. 45 Atti del Governo a c. 43. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ Broglio.

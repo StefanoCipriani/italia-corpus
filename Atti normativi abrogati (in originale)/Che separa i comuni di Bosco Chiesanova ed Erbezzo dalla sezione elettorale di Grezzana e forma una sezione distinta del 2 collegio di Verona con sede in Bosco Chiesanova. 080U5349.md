@@ -1,16 +1,14 @@
-REGIO DECRETO 14 marzo 1880 n. 5349
-
-
-REGIO DECRETO 14 marzo 1880 n. 5349
-===================================
-
-Che separa i comuni di Bosco Chiesanova ed Erbezzo dalla sezione elettorale di Grezzana, e forma una sezione distinta del 2° collegio di Verona con sede in Bosco Chiesanova. (080U5349)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/04/1880
+---
+tipo: REGIO DECRETO
+numero: 5349
+data: 1880-03-14
+titolo: "Che separa i comuni di Bosco Chiesanova ed Erbezzo dalla sezione elettorale di Grezzana, e forma una sezione distinta del 2° collegio di Verona con sede in Bosco Chiesanova. (080U5349)"
+urn: urn:nir:stato:regio.decreto:1880-03-14;5349
+codice_redazionale: 080U5349
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,26 +24,19 @@ Che Bosco Chiesanova conta 59 elettori e Erbezzo 27, di guisa che complessivamen
 
 Considerato che con la istituzione di una sezione elettorale in Bosco Chiesanova si rende piu' facile agli elettori l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Bosco Chiesanova ed Erbezzo sono separati dalla sezione elettorale di Grezzana e formeranno una sezione distinta del 2° Collegio elettorale di Verona, con sede a Bosco Chiesanova.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 marzo 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+I comuni di Bosco Chiesanova ed Erbezzo sono separati dalla sezione elettorale di Grezzana e formeranno una sezione distinta del 2° Collegio elettorale di Verona, con sede a Bosco Chiesanova. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

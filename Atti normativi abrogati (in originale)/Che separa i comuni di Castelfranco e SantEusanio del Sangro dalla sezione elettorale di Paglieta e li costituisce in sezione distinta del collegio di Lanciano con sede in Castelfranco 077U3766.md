@@ -1,16 +1,14 @@
-REGIO DECRETO 12 aprile 1877 n. 3766
-
-
-REGIO DECRETO 12 aprile 1877 n. 3766
-====================================
-
-Che separa i comuni di Castelfranco e Sant'Eusanio del Sangro dalla sezione elettorale di Paglieta e li costituisce in sezione distinta del collegio di Lanciano con sede in Castelfranco (077U3766)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/04/1877
+---
+tipo: REGIO DECRETO
+numero: 3766
+data: 1877-04-12
+titolo: "Che separa i comuni di Castelfranco e Sant'Eusanio del Sangro dalla sezione elettorale di Paglieta e li costituisce in sezione distinta del collegio di Lanciano con sede in Castelfranco (077U3766)"
+urn: urn:nir:stato:regio.decreto:1877-04-12;3766
+codice_redazionale: 077U3766
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Castelfrentano e Sant'Eusanio del Sangro sono separati dalla sezione elettorale di Paglieta e formeranno una sezione distinta del Collegio elettorale di Lanciano colla sede in Castelfrentano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 aprile 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+I comuni di Castelfrentano e Sant'Eusanio del Sangro sono separati dalla sezione elettorale di Paglieta e formeranno una sezione distinta del Collegio elettorale di Lanciano colla sede in Castelfrentano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 aprile 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

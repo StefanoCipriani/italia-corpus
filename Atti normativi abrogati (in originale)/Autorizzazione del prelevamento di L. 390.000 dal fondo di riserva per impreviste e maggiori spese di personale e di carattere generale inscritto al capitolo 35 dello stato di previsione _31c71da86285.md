@@ -1,16 +1,14 @@
-REGIO DECRETO 16 luglio 1940 n. 1057
-
-
-REGIO DECRETO 16 luglio 1940 n. 1057
-====================================
-
-Autorizzazione del prelevamento di L. 390.000 dal fondo di riserva per impreviste e maggiori spese di personale e di carattere generale inscritto al capitolo 35 dello stato di previsione della spesa dell'Azienda autonoma statale della strada per l'esercizio finanziario 1939-40-XVIII. (040U1057)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/08/1940
+---
+tipo: REGIO DECRETO
+numero: 1057
+data: 1940-07-16
+titolo: "Autorizzazione del prelevamento di L. 390.000 dal fondo di riserva per impreviste e maggiori spese di personale e di carattere generale inscritto al capitolo 35 dello stato di previsione della spesa dell'Azienda autonoma statale della strada per l'esercizio finanziario 1939-40-XVIII. (040U1057)"
+urn: urn:nir:stato:regio.decreto:1940-07-16;1057
+codice_redazionale: 040U1057
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,50 +24,44 @@ Ritenuto che sul fondo di riserva inscritto al capitolo 35 dello stato di previs
 
 Sentito il Consiglio di amministrazione dell'Azienda autonoma statale della strada;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal fondo di riserva per impreviste e maggiori spese di personale e di carattere generale, inscritto al capitolo 35 dello stato di previsione della spesa dell'Azienda autonoma statale della strada, per l'esercizio 1939-40-XVIII e' autorizzato il Prelevamento di L. 390.000 che vengono assegnate ai seguenti capitoli dello stato di previsione stesso:   
-  
-Cap. 11. - Indennita' di tramutamento, di missione, pernottazione e dislocamento, premi di rafferme ed eventuali compensi per maggiori prestazioni   
-  
-L. 50.000   
-  
-Cap. 17. - Indennita' e competenza ai consiglieri di amministrazione e indennita' al direttore generale a norma dei Regi decreti 17 agosto 1928-VI, n. 2180, 21 gennaio 1929-VII, n. 98 e Regio decreto-legge 16 giugno 1935-XVI, n. 1302, convertito nella legge 30 gennaio 1939-XVII, n. 394   
-  
-» 5.000   
-  
-Cap. 18. - Manutenzione e riparazione di locali - Riparazione, manutenzione e trasporto di mobili e di strumenti geodetici - Spese di cancelleria e di stampa - Spese postali, telegrafiche e telefoniche, illuminazione, riscaldamento ed altre varie relative al funzionamento degli uffici   
-  
-» 25.000   
-  
-Cap. n. 23. - Premi di diligenza alla Milizia stradale ai funzionari, ufficiali ed agenti indicati nell'art. 122 del R. decreto 8 dicembre 1933-XII, n. 1740, e premi di manutenzione ai capi cantonieri e contributo alla Cassa pensioni dei cantonieri, in relazione ai proventi delle contravvenzioni, a termini dell'art. 119 dello stesso Regio decreto   
-  
-L. 310.000   
-  
-----------   
-  
-L. 390.000   
-  
-Questo decreto sara' comunicato alle Assemblee legislative, unitamente al conto consuntivo dell'Azienda autonoma statale della strada, per l'esercizio 1939-40-XVIII.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 16 luglio 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-Serena - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registralo alla Corte dei conti, addi' 8 agosto 1940-XVIII   
-  
-Atti del Governo, registro 424 foglio 25. - Mancini   
+Dal fondo di riserva per impreviste e maggiori spese di personale e di carattere generale, inscritto al capitolo 35 dello stato di previsione della spesa dell'Azienda autonoma statale della strada, per l'esercizio 1939-40-XVIII e' autorizzato il Prelevamento di L. 390.000 che vengono assegnate ai seguenti capitoli dello stato di previsione stesso: 
+ 
+ Cap. 11. - Indennita' di tramutamento, di missione, pernottazione e dislocamento, premi di rafferme ed eventuali compensi per maggiori prestazioni 
+ 
+ L. 50.000 
+ 
+ Cap. 17. - Indennita' e competenza ai consiglieri di amministrazione e indennita' al direttore generale a norma dei Regi decreti 17 agosto 1928-VI, n. 2180, 21 gennaio 1929-VII, n. 98 e Regio decreto-legge 16 giugno 1935-XVI, n. 1302, convertito nella legge 30 gennaio 1939-XVII, n. 394 
+ 
+ » 5.000 
+ 
+ Cap. 18. - Manutenzione e riparazione di locali - Riparazione, manutenzione e trasporto di mobili e di strumenti geodetici - Spese di cancelleria e di stampa - Spese postali, telegrafiche e telefoniche, illuminazione, riscaldamento ed altre varie relative al funzionamento degli uffici 
+ 
+ » 25.000 
+ 
+ Cap. n. 23. - Premi di diligenza alla Milizia stradale ai funzionari, ufficiali ed agenti indicati nell'art. 122 del R. decreto 8 dicembre 1933-XII, n. 1740, e premi di manutenzione ai capi cantonieri e contributo alla Cassa pensioni dei cantonieri, in relazione ai proventi delle contravvenzioni, a termini dell'art. 119 dello stesso Regio decreto 
+ 
+ L. 310.000 
+ 
+ ---------- 
+ 
+ L. 390.000 
+ 
+ Questo decreto sara' comunicato alle Assemblee legislative, unitamente al conto consuntivo dell'Azienda autonoma statale della strada, per l'esercizio 1939-40-XVIII. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 16 luglio 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Serena - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registralo alla Corte dei conti, addi' 8 agosto 1940-XVIII 
+ 
+ Atti del Governo, registro 424 foglio 25. - Mancini

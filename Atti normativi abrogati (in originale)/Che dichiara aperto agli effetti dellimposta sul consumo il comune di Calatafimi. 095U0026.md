@@ -1,16 +1,14 @@
-REGIO DECRETO 20 gennaio 1895 n. 26
-
-
-REGIO DECRETO 20 gennaio 1895 n. 26
-===================================
-
-Che dichiara aperto agli effetti dell'imposta sul consumo il comune di Calatafimi. (095U0026)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/02/1895
+---
+tipo: REGIO DECRETO
+numero: 26
+data: 1895-01-20
+titolo: "Che dichiara aperto agli effetti dell'imposta sul consumo il comune di Calatafimi. (095U0026)"
+urn: urn:nir:stato:regio.decreto:1895-01-20;26
+codice_redazionale: 095U0026
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,22 @@ Vedute le deliberazioni delli 13 maggio e 5 dicembre 1894, con le quali il Consi
 
 Ritenuto che il detto Comune e' inscritto nella classe 3ª di quelli qualificati chiusi;
 
-Veduto l'[art. 5 della legge 3 luglio 1864, n. 1827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1864-07-03;1827~art5);
+Veduto l'[art. 5 della legge 3 luglio 1864, n. 1827](Sulla%20tassa%20governativa%20e%20dazio%20comunale%20di%20consumo.%20064U1827.md);
 
-Udito
------
+Udito il parere del Consiglio di Stato; Abbiamo decretato e decretiamo:
 
-il parere del Consiglio di Stato; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il Comune di Calatafimi, agli effetti dell'imposta sul consumo, e' dichiarato aperto, rimanendo di 3ª classe, a partire dal 1° gennaio
 
-1895. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 20 gennaio 1895.   
-  
-UMBERTO.   
-  
-P. Boselli.   
-  
-Visto, Il Guardasigilli: V. Calenda Di Tavani.
+1895.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 20 gennaio 1895. 
+ 
+ UMBERTO. 
+ 
+ P. Boselli. 
+ 
+ Visto, Il Guardasigilli: V. Calenda Di Tavani.

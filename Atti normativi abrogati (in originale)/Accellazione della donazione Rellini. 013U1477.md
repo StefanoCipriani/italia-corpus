@@ -1,19 +1,15 @@
-REGIO DECRETO 05 giugno 1913 n. 1477
+---
+tipo: REGIO DECRETO
+numero: 1477
+data: 1913-06-05
+titolo: "Accellazione della donazione «Rellini». (013U1477)"
+urn: urn:nir:stato:regio.decreto:1913-06-05;1477
+codice_redazionale: 013U1477
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 giugno 1913 n. 1477
-====================================
-
-Accellazione della donazione «Rellini». (013U1477)
---------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/02/1914
-
-Art. 1
-------
-
-  
-N. 1477   
-  
-Regio Decreto 5 giugno 1913, col quale, sulla proposta del ministro dell'istruzione pubblica, e' accettata, a favore del R. liceo-ginnasio di Modena, una donazione di oggetti e libri di storia naturale fatta dal cav. prof. Ugo Rellini.   
-  
+N. 1477 
+ 
+ Regio Decreto 5 giugno 1913, col quale, sulla proposta del ministro dell'istruzione pubblica, e' accettata, a favore del R. liceo-ginnasio di Modena, una donazione di oggetti e libri di storia naturale fatta dal cav. prof. Ugo Rellini.

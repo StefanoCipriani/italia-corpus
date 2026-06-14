@@ -1,19 +1,15 @@
-REGIO DECRETO 27 giugno 1912 n. 753
+---
+tipo: REGIO DECRETO
+numero: 753
+data: 1912-06-27
+titolo: "Applicazione di tassa sul bestiame (012U0753)"
+urn: urn:nir:stato:regio.decreto:1912-06-27;753
+codice_redazionale: 012U0753
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 giugno 1912 n. 753
-===================================
-
-Applicazione di tassa sul bestiame (012U0753)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 02/08/1912
-
-Art. 1
-------
-
-  
-N. 753   
-  
-Regio Decreto 27 giugno 1912, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Triora di applicare nell'anno 1912 la tassa sul bestiame in base alla tariffa deliberata in adunanza del 5 marzo 1911.   
-  
+N. 753 
+ 
+ Regio Decreto 27 giugno 1912, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Triora di applicare nell'anno 1912 la tassa sul bestiame in base alla tariffa deliberata in adunanza del 5 marzo 1911.

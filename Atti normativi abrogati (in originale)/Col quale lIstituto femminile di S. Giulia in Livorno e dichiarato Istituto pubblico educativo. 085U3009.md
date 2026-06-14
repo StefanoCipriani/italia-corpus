@@ -1,16 +1,14 @@
-REGIO DECRETO 11 gennaio 1885 n. 3009
-
-
-REGIO DECRETO 11 gennaio 1885 n. 3009
-=====================================
-
-Col quale l'Istituto femminile di S. Giulia in Livorno e' dichiarato Istituto pubblico educativo. (085U3009)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/04/1885
+---
+tipo: REGIO DECRETO
+numero: 3009
+data: 1885-01-11
+titolo: "Col quale l'Istituto femminile di S. Giulia in Livorno e' dichiarato Istituto pubblico educativo. (085U3009)"
+urn: urn:nir:stato:regio.decreto:1885-01-11;3009
+codice_redazionale: 085U3009
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,49 +22,31 @@ Sentito il parere del Consiglio di Stato,
 
 Volendo dare al predetto Istituto un ordinamento il quale meglio risponda al fine suo primitivo e sia ad un tempo piu' conforme alle discipline vigenti per gli Istituti di educazione e di istruzione femminile;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'istituto femminile di S. Giulia, o altrimenti detto scuola del Paradisino in Livorno, e' dichiarato istituto pubblico educativo dipendente dal Ministero della Pubblica Istruzione.
 
-  
-  
-L'istituto femminile di S. Giulia, o altrimenti detto scuola del Paradisino in Livorno, e' dichiarato istituto pubblico educativo dipendente dal Ministero della Pubblica Istruzione.   
-  
+## Art. 2.
 
-Art. 2
-------
+L'istituto stesso sara' governato e diretto da una Commissione amministrativa composta di un presidente e due consiglieri, dei quali ultimi uno curera' piu' direttamente l'amministrazione e la disciplina e l'altro la scuola, l'istruzione e l'indirizzo educativo.
+Tale Commissione esercitera' il suo ufficio secondo le norme contenute nel [R. decreto 6 ottobre 1867, n. 1941](Regio%20Decreto%20che%20approva%20il%20Regolamento%20pei%20Conservatorii%20femminili.%206701941R.md), dove queste sieno applicabili, e pel resto secondo la vigente legislazione scolastica.
 
-  
-  
-L'istituto stesso sara' governato e diretto da una Commissione amministrativa composta di un presidente e due consiglieri, dei quali ultimi uno curera' piu' direttamente l'amministrazione e la disciplina e l'altro la scuola, l'istruzione e l'indirizzo educativo.  
-Tale Commissione esercitera' il suo ufficio secondo le norme contenute nel [R. decreto 6 ottobre 1867, n. 1941](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1867-10-06;1941), dove queste sieno applicabili, e pel resto secondo la vigente legislazione scolastica.   
+## Art. 3.
 
-Art. 3
-------
+Il presidente e i consiglieri della Commissione amministrativa saranno nominati con R. decreto, resteranno in carica tre anni e potranno essere rieletti.
 
-  
-  
-Il presidente e i consiglieri della Commissione amministrativa saranno nominati con R. decreto, resteranno in carica tre anni e potranno essere rieletti.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Tutte le disposizioni contrarie alle presenti sono abrogate.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 gennaio 1885.   
-  
-UMBERTO.   
-  
-COPPINO.   
-  
-Visto, Il Guardasigilli: PESSINA.   
-  
+Tutte le disposizioni contrarie alle presenti sono abrogate. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 gennaio 1885. 
+ 
+ UMBERTO. 
+ 
+ COPPINO. 
+ 
+ Visto, Il Guardasigilli: PESSINA.

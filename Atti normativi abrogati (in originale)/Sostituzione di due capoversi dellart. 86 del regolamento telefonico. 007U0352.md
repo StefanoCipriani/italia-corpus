@@ -1,16 +1,14 @@
-REGIO DECRETO 01 maggio 1907 n. 352
-
-
-REGIO DECRETO 01 maggio 1907 n. 352
-===================================
-
-Sostituzione di due capoversi dell'art. 86 del regolamento telefonico. (007U0352)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/07/1907
+---
+tipo: REGIO DECRETO
+numero: 352
+data: 1907-05-01
+titolo: "Sostituzione di due capoversi dell'art. 86 del regolamento telefonico. (007U0352)"
+urn: urn:nir:stato:regio.decreto:1907-05-01;352
+codice_redazionale: 007U0352
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,29 +22,21 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato, per le poste ed i telegrafi; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato, per le poste ed i telegrafi; Abbiamo decretato e decretiamo:
+## Articolo unico. — null
 
-Articolo unico
---------------
-
-null
-
-  
-  
-«Le unita' di conversazioni non usufruite a causa d'interruzione del servizio, potranno essere concesse, se le condizioni del lavoro lo permettano, in ora posteriore a quella stabilita nel contratto, ma non oltre i limiti fissati per l'orario notturno.   
-  
-«Trascorso tale periodo di tempo l'abbonato ha diritto al rimborso delle tasse relative alle unita' non utilizzate».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 1° maggio 1907.   
-  
-VITTORIO EMANUELE.   
-  
-GIOLITTI.   
-SCHANZER.   
-  
-Visto, Il guardasigilli: ORLANDO.   
+«Le unita' di conversazioni non usufruite a causa d'interruzione del servizio, potranno essere concesse, se le condizioni del lavoro lo permettano, in ora posteriore a quella stabilita nel contratto, ma non oltre i limiti fissati per l'orario notturno. 
+ 
+ «Trascorso tale periodo di tempo l'abbonato ha diritto al rimborso delle tasse relative alle unita' non utilizzate». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° maggio 1907. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ GIOLITTI. 
+ SCHANZER. 
+ 
+ Visto, Il guardasigilli: ORLANDO.

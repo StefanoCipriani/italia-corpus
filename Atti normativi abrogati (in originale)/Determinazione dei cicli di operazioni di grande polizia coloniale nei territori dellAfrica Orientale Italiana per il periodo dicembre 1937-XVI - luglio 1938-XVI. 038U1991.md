@@ -1,16 +1,14 @@
-REGIO DECRETO 28 novembre 1938 n. 1991
-
-
-REGIO DECRETO 28 novembre 1938 n. 1991
-======================================
-
-Determinazione dei cicli di operazioni di grande polizia coloniale nei territori dell'Africa Orientale Italiana, per il periodo dicembre 1937-XVI - luglio 1938-XVI. (038U1991)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/01/1939
+---
+tipo: REGIO DECRETO
+numero: 1991
+data: 1938-11-28
+titolo: "Determinazione dei cicli di operazioni di grande polizia coloniale nei territori dell'Africa Orientale Italiana, per il periodo dicembre 1937-XVI - luglio 1938-XVI. (038U1991)"
+urn: urn:nir:stato:regio.decreto:1938-11-28;1991
+codice_redazionale: 038U1991
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,30 +32,24 @@ Visto il R. decreto 10 maggio 1938-XVI, n. 627, riguardante la determinazione de
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra, per l'Africa Italiana, per la marina e per l'aeronautica, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra, per l'Africa Italiana, per la marina e per l'aeronautica, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono da ritenersi utili, per il personale che vi abbia preso parte e agli effetti della concessione dei benefici di cui alle vigenti disposizioni di legge, i seguenti cicli di operazioni di grande polizia coloniale nei territori dell'Africa Orientale Italiana, ad immediato contatto col nemico.   
-  
-Parte di provvedimento in formato grafico  
-  
-Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 novembre 1938-XVII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Solmi   
-Registrato alla Corte dei conti, addi' 9 gennaio 1939-XVII   
-Atti del Governo, registro 405, foglio 39. - Mancini.   
+Sono da ritenersi utili, per il personale che vi abbia preso parte e agli effetti della concessione dei benefici di cui alle vigenti disposizioni di legge, i seguenti cicli di operazioni di grande polizia coloniale nei territori dell'Africa Orientale Italiana, ad immediato contatto col nemico. 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 novembre 1938-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi 
+ Registrato alla Corte dei conti, addi' 9 gennaio 1939-XVII 
+ Atti del Governo, registro 405, foglio 39. - Mancini.

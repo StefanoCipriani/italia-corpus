@@ -1,16 +1,14 @@
-REGIO DECRETO 08 novembre 1914 n. 1341
-
-
-REGIO DECRETO 08 novembre 1914 n. 1341
-======================================
-
-Col quale viene modificato l'art. 148 del regolamento generale sul servizio postale. (014U1341)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/12/1914
+---
+tipo: REGIO DECRETO
+numero: 1341
+data: 1914-11-08
+titolo: "Col quale viene modificato l'art. 148 del regolamento generale sul servizio postale. (014U1341)"
+urn: urn:nir:stato:regio.decreto:1914-11-08;1341
+codice_redazionale: 014U1341
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -18,7 +16,7 @@ RE D'ITALIA
 
 Visti i RR. decreti 24 dicembre 1899, n. 501, e 10 febbraio 1901, n. 120, coi quali furono approvati il testo unico delle leggi postali ed il relativo regolamento di esecuzione;
 
-Vista la [legge 2 luglio 1912, n. 748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-02;748), colla quale fu modificato il predetto testo unico;
+Vista la [legge 2 luglio 1912, n. 748](Che%20apporta%20riforme%20nel%20servizio%20postale%20012U0748.md), colla quale fu modificato il predetto testo unico;
 
 Vista la impossibilita', dato lo sviluppo raggiunto dal servizio, di mantenere per la spedizione e trasmissione delle raccomandate l'obbligo della scritturazione dettagliata di ogni singolo oggetto sui fogli di accompagnamento;
 
@@ -36,31 +34,24 @@ Sentito il Consiglio di Stato, in adunanza generale;
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per le poste ed i telegrafi; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per le poste ed i telegrafi; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'art. 148 del regolamento generale intorno al servizio postale, approvato con [R. decreto 10 febbraio 1901, n. 120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-10;120), viene cosi' modificato:   
-  
-Indipendentemente dal disposto dell'art. 54 della legge postale (testo unico) per la trasmissione dei fondi dello Stato, le corrispondenze menzionate nell'articolo precedente che contengono valori, possono essere spedite con analoga dichiarazione e sono sottoposte alle norme ed alle cautele delle corrispondenze assicurate, con esenzione di tasse. Le corrispondenze che contengono documenti di carattere riservato, od eccezionalmente importanti e non duplicabili, spedite da autorita' ed uffici governativi ad altre autorita' od uffici coi quali hanno diritto di corrispondere in esenzione di tassa, possono aver corso come assicurate del valore convenzionale di L. 100.   
-  
-Hanno del pari corso coll'assicurazione di L. 100 i pieghi contenenti le matrici delle giuocate del lotto.   
-  
-E' vietato di spedire in via ordinaria carte di valore. Essendone spedite sono sottoposte al trattamento di cui all'art. 42 (modificato) del testo unico, e la relativa tassa fa carico ai mittenti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 novembre 1914.   
-  
-VITTORIO EMANUELE.   
-  
-Salandra - Riccio.   
-  
-Visto, il guardasigilli: Orlando.   
-  
+L'art. 148 del regolamento generale intorno al servizio postale, approvato con [R. decreto 10 febbraio 1901, n. 120](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20del%20servizio%20postale.%20001U0120.md), viene cosi' modificato: 
+ 
+ Indipendentemente dal disposto dell'art. 54 della legge postale (testo unico) per la trasmissione dei fondi dello Stato, le corrispondenze menzionate nell'articolo precedente che contengono valori, possono essere spedite con analoga dichiarazione e sono sottoposte alle norme ed alle cautele delle corrispondenze assicurate, con esenzione di tasse. Le corrispondenze che contengono documenti di carattere riservato, od eccezionalmente importanti e non duplicabili, spedite da autorita' ed uffici governativi ad altre autorita' od uffici coi quali hanno diritto di corrispondere in esenzione di tassa, possono aver corso come assicurate del valore convenzionale di L. 100. 
+ 
+ Hanno del pari corso coll'assicurazione di L. 100 i pieghi contenenti le matrici delle giuocate del lotto. 
+ 
+ E' vietato di spedire in via ordinaria carte di valore. Essendone spedite sono sottoposte al trattamento di cui all'art. 42 (modificato) del testo unico, e la relativa tassa fa carico ai mittenti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 novembre 1914. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Salandra - Riccio. 
+ 
+ Visto, il guardasigilli: Orlando.

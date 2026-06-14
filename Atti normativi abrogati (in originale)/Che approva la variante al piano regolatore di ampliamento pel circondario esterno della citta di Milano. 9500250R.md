@@ -1,21 +1,17 @@
-REGIO DECRETO 10 ottobre 1895 n. CCL
+---
+tipo: REGIO DECRETO
+numero: CCL
+data: 1895-10-10
+titolo: "Che approva la variante al piano regolatore di ampliamento pel circondario esterno della citta' di Milano. (9500250R)"
+urn: urn:nir:stato:regio.decreto:1895-10-10;250
+codice_redazionale: 9500250R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 ottobre 1895 n. CCL
-====================================
-
-Che approva la variante al piano regolatore di ampliamento pel circondario esterno della citta' di Milano. (9500250R)
----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/11/1895
-
-Art. 1
-------
-
-  
-Che approva la variante deliberata dal Consiglio comunale di Milano nell'adunanza 8 maggio anno corrente, al piano regolatore di ampliamento pel circondario esterno della citta', approvato colla [legge 11 luglio 1889, n. 6210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-07-11;6210), quale variante risulta dal tipo compilato dall'ingegnere Giovanni Masera, restando fisso per l'esecuzione di detta variante il termine stabilito dalla citata legge. - Firmato UMBERTO - Contrassegnato G. Saracco - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 2 novembre 1895.   
-  
-Reg. 200. Atti del Governo a f. 169.   
-  
+Che approva la variante deliberata dal Consiglio comunale di Milano nell'adunanza 8 maggio anno corrente, al piano regolatore di ampliamento pel circondario esterno della citta', approvato colla [legge 11 luglio 1889, n. 6210](Che%20approva%20il%20piano%20regolatore%20di%20ampliamento%20pel%20circondario%20esterno%20della%20citta%20di%20Milano.%20089U6210.md), quale variante risulta dal tipo compilato dall'ingegnere Giovanni Masera, restando fisso per l'esecuzione di detta variante il termine stabilito dalla citata legge. - Firmato UMBERTO - Contrassegnato G. Saracco - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 2 novembre 1895. 
+ 
+ Reg. 200. Atti del Governo a f. 169.

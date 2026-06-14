@@ -1,17 +1,17 @@
-REGIO DECRETO 03 novembre 1921 n. 1532
+---
+tipo: REGIO DECRETO
+numero: 1532
+data: 1921-11-03
+titolo: "Erezioni in Ente morale. (021U1532)"
+urn: urn:nir:stato:regio.decreto:1921-11-03;1532
+codice_redazionale: 021U1532
+vigente: true
+---
 
-
-REGIO DECRETO 03 novembre 1921 n. 1532
-======================================
-
-Erezioni in Ente morale. (021U1532)
------------------------------------
-
-Entrata in vigore del provvedimento: 04/12/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1532. Regie decreto 3 novembre 1920, col quale, sulla proposta del ministro per la giustizia e per gli affari di culto e' eretto in Ente morale il collegio di Sant'Alessio Falconieri dei Servi di Maria, con sede in Roma, instituito per le missioni apostoliche all'estero e specialmente nelle Americhe e nell'Africa, e ne e' approvato lo statuto organico.
+1532.
+
+Regie decreto 3 novembre 1920, col quale, sulla proposta del ministro per la giustizia e per gli affari di culto e' eretto in Ente morale il collegio di Sant'Alessio Falconieri dei Servi di Maria, con sede in Roma, instituito per le missioni apostoliche all'estero e specialmente nelle Americhe e nell'Africa, e ne e' approvato lo statuto organico.

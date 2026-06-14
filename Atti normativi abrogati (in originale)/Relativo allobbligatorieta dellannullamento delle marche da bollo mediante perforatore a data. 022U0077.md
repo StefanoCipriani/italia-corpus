@@ -1,16 +1,14 @@
-REGIO DECRETO 09 febbraio 1922 n. 77
-
-
-REGIO DECRETO 09 febbraio 1922 n. 77
-====================================
-
-Relativo all'obbligatorieta' dell'annullamento delle marche da bollo mediante perforatore a data. (022U0077)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/03/1922
+---
+tipo: REGIO DECRETO
+numero: 77
+data: 1922-02-09
+titolo: "Relativo all'obbligatorieta' dell'annullamento delle marche da bollo mediante perforatore a data. (022U0077)"
+urn: urn:nir:stato:regio.decreto:1922-02-09;77
+codice_redazionale: 022U0077
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,25 +18,16 @@ Veduto il Nostro decreto 29 dicembre 1921, n. 2061, col quale in esecuzione dell
 
 Ritenuta l'opportunita' di dare all'industria meccanica un termine maggiore per l'introduzione nel mercato di un numero adeguato di perforatori, e per rendere possibile fra gli industriali meccanici quella azione di libera concorrenza che valga a determinare nell'interesse dei contribuenti, il minor costo dei perforatori;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico. — null
 
-Articolo unico
---------------
-
-null
-
-  
-  
-Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 febbraio 1922.   
-  
-VITTORIO EMANUELE.   
-  
-SOLERI.   
-  
-Visto, il guardasigilli: RODINO'.   
-  
+Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 febbraio 1922. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ SOLERI. 
+ 
+ Visto, il guardasigilli: RODINO'.

@@ -1,49 +1,33 @@
-DECRETO LUOGOTENENZIALE 15 aprile 1917 n. 634
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 634
+data: 1917-04-15
+titolo: "Recante norme per l'applicazione dell'art. 5 dell'allegato G al decreto Luogotenenziale 9 novembre 1916, n. 1525, concernente il diritto di guerra sulla riscossione degli affitti dei fabbricati. (017U0634)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-04-15;634
+codice_redazionale: 017U0634
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 15 aprile 1917 n. 634
-=============================================
+In adempimento al disposto dell'art. 5 dell'allegato G al [decreto Luogotenenziale 9 novembre 1916, n. 1525](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-11-09;1525), su richiesta anche verbale del locatore, con ordinanza stesa in calce all'originale contratto di affitto esibito, il pretore potra' disporre che il cancelliere apponga all'originale stesso la formula esecutiva indicata dall'[art. 556 del Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_556).
 
-Recante norme per l'applicazione dell'art. 5 dell'allegato G al decreto Luogotenenziale 9 novembre 1916, n. 1525, concernente il diritto di guerra sulla riscossione degli affitti dei fabbricati. (017U0634)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 27/04/1917
+La formula esecutiva puo', giusta l'articolo precedente, essere apposta non solo agli effetti del pagamento delle rate di affitto gia' scadute, ma anche a quelli della risoluzione del contratto e del rilascio dell'immobile, quando nel contratto medesimo sia stata espressamente convenuta la risoluzione come immediata conseguenza del mancato pagamento della pigione. 
+ 
+ Qualora la risoluzione non sia convenuta nel contratto, il proprietario, per ottenere il rilascio dell'immobile, puo' sperimentare la procedura stabilita dalla [legge 24 dicembre 1896, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-12-24;547) decorsi due mesi dalla scadenza del termine convenuto per il pagamento del canone di affitto, senza che questo sia stato soddisfatto.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-  
-In adempimento al disposto dell'art. 5 dell'allegato G al [decreto Luogotenenziale 9 novembre 1916, n. 1525](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-11-09;1525), su richiesta anche verbale del locatore, con ordinanza stesa in calce all'originale contratto di affitto esibito, il pretore potra' disporre che il cancelliere apponga all'originale stesso la formula esecutiva indicata dall'[art. 556 del Codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art556).   
-  
-
-Art. 2
-------
-
-  
-  
-  
-La formula esecutiva puo', giusta l'articolo precedente, essere apposta non solo agli effetti del pagamento delle rate di affitto gia' scadute, ma anche a quelli della risoluzione del contratto e del rilascio dell'immobile, quando nel contratto medesimo sia stata espressamente convenuta la risoluzione come immediata conseguenza del mancato pagamento della pigione.   
-  
-Qualora la risoluzione non sia convenuta nel contratto, il proprietario, per ottenere il rilascio dell'immobile, puo' sperimentare la procedura stabilita dalla [legge 24 dicembre 1896, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-12-24;547) decorsi due mesi dalla scadenza del termine convenuto per il pagamento del canone di affitto, senza che questo sia stato soddisfatto.   
-  
-
-Art. 3
-------
-
-  
-  
-  
-Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta ufficiale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 15 aprile 1917.   
-  
-TOMASO DI SAVOIA.   
-  
-Boselli - Sacchi - Meda.   
-  
-Visto, Il guardasigilli: Sacchi.   
-  
+Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta ufficiale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 15 aprile 1917. 
+ 
+ TOMASO DI SAVOIA. 
+ 
+ Boselli - Sacchi - Meda. 
+ 
+ Visto, Il guardasigilli: Sacchi.

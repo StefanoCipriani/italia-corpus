@@ -1,37 +1,27 @@
-LEGGE 31 gennaio 1954 n. 3
-
-
-LEGGE 31 gennaio 1954 n. 3
-==========================
-
-Conversione in legge, con modificazione, del decreto-legge 3 dicembre 1953, n. 879, concernente modificazioni all'imposta di fabbricazione e ai diritti erariali sugli alcoli.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 3
+data: 1954-01-31
+titolo: "Conversione in legge, con modificazione, del decreto-legge 3 dicembre 1953, n. 879, concernente modificazioni all'imposta di fabbricazione e ai diritti erariali sugli alcoli."
+urn: urn:nir:stato:legge:1954-01-31;3
+codice_redazionale: 054U0003
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il [decreto-legge 3 dicembre 1953, n. 879](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1953-12-03;879), concernente modificazioni all'imposta di fabbricazione e ai diritti erariali sugli alcoli, e' convertito in legge con la seguente modificazione:  
-All'art. 12 e' sostituito il seguente:  
-"Sono abrogati l'[art. 7 del decreto-legge 6 ottobre 1948, n. 1200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-10-06;1200~art7), convertito, con aggiunte, nella [legge 3 dicembre 1948, n. 1388, e l'art. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-12-03;1388~art17) del [decreto-legge 18 aprile 1950, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1950-04-18;142), convertito nella [legge 16 giugno 1950, n. 331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-06-16;331)".  
-  
+Il [decreto-legge 3 dicembre 1953, n. 879](Modificazioni%20allimposta%20di%20fabbricazione%20e%20ai%20diritti%20erariali%20sugli%20alcoli.md), concernente modificazioni all'imposta di fabbricazione e ai diritti erariali sugli alcoli, e' convertito in legge con la seguente modificazione:
+ All'art. 12 e' sostituito il seguente:
+ "Sono abrogati l'[art. 7 del decreto-legge 6 ottobre 1948, n. 1200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1948-10-06;1200#art_7), convertito, con aggiunte, nella [legge 3 dicembre 1948, n. 1388, e l'art. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1948-12-03;1388#art_17) del [decreto-legge 18 aprile 1950, n. 142](Modificazioni%20al%20regime%20fiscale%20degli%20spiriti%20per%20agevolare%20la%20distillazione%20del%20vino%20e%20alle%20disposizioni%20relative%20alla%20minuta%20vendita%20degli%20estratti%20ed%20essenze%20per%20la%20preparazione%20di%20liquori.md), convertito nella [legge 16 giugno 1950, n. 331](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-06-16;331)".
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 31 gennaio 1954
+Data a Roma, addi' 31 gennaio 1954
 
-EINAUDI FANFANI - ZOLI - VANONI - GAVA - MEDICI - ALDISIO - DELL'AMORE
-
-Visto, il Guardasigilli: DE PIETRO
+EINAUDI FANFANI - ZOLI - VANONI - GAVA - MEDICI - ALDISIO - DELL'AMORE Visto, il Guardasigilli: DE PIETRO

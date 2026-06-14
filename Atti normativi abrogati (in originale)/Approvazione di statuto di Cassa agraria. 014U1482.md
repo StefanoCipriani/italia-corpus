@@ -1,19 +1,15 @@
-REGIO DECRETO 31 dicembre 1914 n. 1482
+---
+tipo: REGIO DECRETO
+numero: 1482
+data: 1914-12-31
+titolo: "Approvazione di statuto di Cassa agraria. (014U1482)"
+urn: urn:nir:stato:regio.decreto:1914-12-31;1482
+codice_redazionale: 014U1482
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 dicembre 1914 n. 1482
-======================================
-
-Approvazione di statuto di Cassa agraria. (014U1482)
-----------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/02/1915
-
-Art. 1
-------
-
-  
-N. 1482   
-  
-Regio Decreto 31 dicembre 1914, col quale, sulla proposta del ministro di agricoltura, industria e commercio, e' approvato lo statuto della Cassa agraria per il mandamento di Pergola.   
-  
+N. 1482 
+ 
+ Regio Decreto 31 dicembre 1914, col quale, sulla proposta del ministro di agricoltura, industria e commercio, e' approvato lo statuto della Cassa agraria per il mandamento di Pergola.

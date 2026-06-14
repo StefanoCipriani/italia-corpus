@@ -1,16 +1,14 @@
-REGIO DECRETO 03 agosto 1890 n. 7035
-
-
-REGIO DECRETO 03 agosto 1890 n. 7035
-====================================
-
-Che istituisce un posto di notaro nel comune di Sant'Angelo in Lizzola distretto notarile di Pesaro. (090U7035)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/09/1890
+---
+tipo: REGIO DECRETO
+numero: 7035
+data: 1890-08-03
+titolo: "Che istituisce un posto di notaro nel comune di Sant'Angelo in Lizzola distretto notarile di Pesaro. (090U7035)"
+urn: urn:nir:stato:regio.decreto:1890-08-03;7035
+codice_redazionale: 090U7035
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Visto l'articolo 4 della legge sul notariato, approvato con Nostro decreto 25 ma
 
 Ritenuto essere dimostrata la necessita' della istituzione del posto anzidetto;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E istituito un posto di notaro nel comune di Sant'Angelo in Lizzola, distretto notarile di Pesaro.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 3 agosto 1890.   
-  
-UMBERTO.   
-  
-G. Zanardelli.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+E istituito un posto di notaro nel comune di Sant'Angelo in Lizzola, distretto notarile di Pesaro. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 3 agosto 1890. 
+ 
+ UMBERTO. 
+ 
+ G. Zanardelli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

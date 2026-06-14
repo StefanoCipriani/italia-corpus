@@ -1,16 +1,14 @@
-REGIO DECRETO 19 maggio 1941 n. 603
-
-
-REGIO DECRETO 19 maggio 1941 n. 603
-===================================
-
-Promozione ad Ispettore scolastico dei direttori didattici idonei al concorso di merito distinto indetto con decreto Ministeriale 21 dicembre 1936-XV. (041U0603)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/07/1941
+---
+tipo: REGIO DECRETO
+numero: 603
+data: 1941-05-19
+titolo: "Promozione ad Ispettore scolastico dei direttori didattici idonei al concorso di merito distinto indetto con decreto Ministeriale 21 dicembre 1936-XV. (041U0603)"
+urn: urn:nir:stato:regio.decreto:1941-05-19;603
+codice_redazionale: 041U0603
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,30 +28,24 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le Finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ai funzionari del ruolo del personale ispettivo e direttivo delle scuole elementari, che abbiano conseguito l'idoneita' nel concorso per merito distinto indetto con decreto Ministeriale 21 dicembre 1936-XV per la promozione al grado di ispettore scolastico potra', quando abbiano raggiunta l'anzianita' necessaria per l'ammissione agli esami di idoneita', essere conferita dal Ministero dell'educazionale nazionale la promozione al grado medesimo, entro il limite dei due terzi dei posti di ispettore scolastico vacanti alla data di pubblicazione del decreto Ministeriale predetto.   
-  
-La promozione avra' luogo, con riserva di anzianita', a favore di coloro che in base alla graduatoria unica, prevista dall'art. 42 del R. decreto 30 dicembre 1923-II, n. 2960, avranno diritto di precederti nell'ordine definitivo di ruolo nel grado 9°. Detti funzionari non potranno essere scrutinati per la eventuale promozione al grado 8°, fino a quando non siano scrutinabili anche i funzionari che quantunque promossi successivamente al grado 9°, abbiano diritto di precederli nell'ordine definitivo di ruolo in quest'ultimo grado.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 maggio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Bottai - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 4 luglio 1941-XIX   
-  
-Atti del Governo, registro 435, foglio 11 - Mancini.   
+Ai funzionari del ruolo del personale ispettivo e direttivo delle scuole elementari, che abbiano conseguito l'idoneita' nel concorso per merito distinto indetto con decreto Ministeriale 21 dicembre 1936-XV per la promozione al grado di ispettore scolastico potra', quando abbiano raggiunta l'anzianita' necessaria per l'ammissione agli esami di idoneita', essere conferita dal Ministero dell'educazionale nazionale la promozione al grado medesimo, entro il limite dei due terzi dei posti di ispettore scolastico vacanti alla data di pubblicazione del decreto Ministeriale predetto. 
+ 
+ La promozione avra' luogo, con riserva di anzianita', a favore di coloro che in base alla graduatoria unica, prevista dall'art. 42 del R. decreto 30 dicembre 1923-II, n. 2960, avranno diritto di precederti nell'ordine definitivo di ruolo nel grado 9°. Detti funzionari non potranno essere scrutinati per la eventuale promozione al grado 8°, fino a quando non siano scrutinabili anche i funzionari che quantunque promossi successivamente al grado 9°, abbiano diritto di precederli nell'ordine definitivo di ruolo in quest'ultimo grado. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 maggio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Bottai - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 4 luglio 1941-XIX 
+ 
+ Atti del Governo, registro 435, foglio 11 - Mancini.

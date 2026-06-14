@@ -1,16 +1,14 @@
-REGIO DECRETO 19 ottobre 1865 n. 2533
-
-
-REGIO DECRETO 19 ottobre 1865 n. 2533
-=====================================
-
-Che forma una Sezione elettorale separata dei Comuni di Diano Castello, Diano Aretino, Diano Borello, Diano San Pietro e Villafaraldi. (065U2533)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/11/1865
+---
+tipo: REGIO DECRETO
+numero: 2533
+data: 1865-10-19
+titolo: "Che forma una Sezione elettorale separata dei Comuni di Diano Castello, Diano Aretino, Diano Borello, Diano San Pietro e Villafaraldi. (065U2533)"
+urn: urn:nir:stato:regio.decreto:1865-10-19;2533
+codice_redazionale: 065U2533
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,22 @@ Considerando che la distanza fra i detti Comuni e l'attuale sede della Sezione c
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari Interni; Abbiamo decretato e decretiamo;
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari Interni; Abbiamo decretato e decretiamo;
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Diano Castello, Diano Aretino, Diano Borello, Diano San Pietro e Villafaraldi, che sin qui fecero parte della Sezione del Collegio elettorale di Oneglia, numero 334, detta di Diano Marina, costituiranno d'ora in poi una Sezione separata del Collegio medesimo che si radunera' in Diano Castello.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Firenze addi' 19 ottobre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 25 ottobre 1865   
-  
-Reg.° 34 Atti del Governo a c. 4. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
-  
-  
+I Comuni di Diano Castello, Diano Aretino, Diano Borello, Diano San Pietro e Villafaraldi, che sin qui fecero parte della Sezione del Collegio elettorale di Oneglia, numero 334, detta di Diano Marina, costituiranno d'ora in poi una Sezione separata del Collegio medesimo che si radunera' in Diano Castello. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Firenze addi' 19 ottobre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 25 ottobre 1865 
+ 
+ Reg.° 34 Atti del Governo a c. 4. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli.

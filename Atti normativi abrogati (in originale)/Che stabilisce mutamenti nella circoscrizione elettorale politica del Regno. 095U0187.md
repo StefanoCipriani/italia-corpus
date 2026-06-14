@@ -1,17 +1,17 @@
-REGIO DECRETO 21 aprile 1895 n. 187
+---
+tipo: REGIO DECRETO
+numero: 187
+data: 1895-04-21
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0187)"
+urn: urn:nir:stato:regio.decreto:1895-04-21;187
+codice_redazionale: 095U0187
+vigente: true
+---
 
-
-REGIO DECRETO 21 aprile 1895 n. 187
-===================================
-
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0187)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1895
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-187. Il Comune di Giardinello e' aggregato alla Sezione elettorale di Montelepre del Collegio di Partinico.
+187.
+
+Il Comune di Giardinello e' aggregato alla Sezione elettorale di Montelepre del Collegio di Partinico.

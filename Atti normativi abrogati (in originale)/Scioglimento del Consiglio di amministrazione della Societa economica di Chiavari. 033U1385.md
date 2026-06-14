@@ -1,16 +1,14 @@
-REGIO DECRETO 28 settembre 1933 n. 1385
-
-
-REGIO DECRETO 28 settembre 1933 n. 1385
-=======================================
-
-Scioglimento del Consiglio di amministrazione della «Societa' economica» di Chiavari. (033U1385)
-------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/11/1933
+---
+tipo: REGIO DECRETO
+numero: 1385
+data: 1933-09-28
+titolo: "Scioglimento del Consiglio di amministrazione della «Societa' economica» di Chiavari. (033U1385)"
+urn: urn:nir:stato:regio.decreto:1933-09-28;1385
+codice_redazionale: 033U1385
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,24 @@ Ritenuta la opportunita' di sciogliere il Consiglio di amministrazione della Soc
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per le corporazioni; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per le corporazioni; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Consiglio di amministrazione della «Societa' economica» di Chiavari e' sciolto.   
-  
-Il prefetto di Genova provvedera' alla nomina di un commissario straordinario con l'incarico di provvedere all'amministrazione provvisoria dell'Ente e di apportare modifiche al relativo statuto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 28 settembre 1933 - Anno XI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 26 ottobre 1933 - Anno XI   
-  
-Atti del Governo, registro 339, foglio 108. - Mancini.   
+Il Consiglio di amministrazione della «Societa' economica» di Chiavari e' sciolto. 
+ 
+ Il prefetto di Genova provvedera' alla nomina di un commissario straordinario con l'incarico di provvedere all'amministrazione provvisoria dell'Ente e di apportare modifiche al relativo statuto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 28 settembre 1933 - Anno XI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 26 ottobre 1933 - Anno XI 
+ 
+ Atti del Governo, registro 339, foglio 108. - Mancini.

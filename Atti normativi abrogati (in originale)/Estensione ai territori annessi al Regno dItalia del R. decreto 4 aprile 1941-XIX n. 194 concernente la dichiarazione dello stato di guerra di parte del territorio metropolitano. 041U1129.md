@@ -1,16 +1,14 @@
-REGIO DECRETO 03 ottobre 1941 n. 1129
-
-
-REGIO DECRETO 03 ottobre 1941 n. 1129
-=====================================
-
-Estensione ai territori annessi al Regno d'Italia del R. decreto 4 aprile 1941-XIX, n. 194, concernente la dichiarazione dello stato di guerra di parte del territorio metropolitano. (041U1129)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/11/1941
+---
+tipo: REGIO DECRETO
+numero: 1129
+data: 1941-10-03
+titolo: "Estensione ai territori annessi al Regno d'Italia del R. decreto 4 aprile 1941-XIX, n. 194, concernente la dichiarazione dello stato di guerra di parte del territorio metropolitano. (041U1129)"
+urn: urn:nir:stato:regio.decreto:1941-10-03;1129
+codice_redazionale: 041U1129
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,22 @@ Visto il R. decreto 4 aprile 1941-XIX, n. 194, concernente la dichiarazione dell
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro Segretario di Stato per l'interno, per la guerra, per la marina e per l'aeronautica; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro Segretario di Stato per l'interno, per la guerra, per la marina e per l'aeronautica; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
-
-  
-  
-Nei territori annessi al Regno d'Italia con i Regi decreti-legge 3 maggio 1941-XIX, n. 291, e 18 maggio 1941-XIX, numero 452, deve considerarsi in vigore, per effetto dell'annessione, la disposizione dell'art. 1 del R. decreto 4 aprile 1941-XIX, n. 194, concernente la dichiarazione dello stato di guerra nel territorio dello Stato ad oriente del fiume Tagliamento.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 3 ottobre 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 19 ottobre 1941-XIX   
-  
-Atti del Governo, registro 438, foglio 44. - Mancini   
-  
-  
+Nei territori annessi al Regno d'Italia con i Regi decreti-legge 3 maggio 1941-XIX, n. 291, e 18 maggio 1941-XIX, numero 452, deve considerarsi in vigore, per effetto dell'annessione, la disposizione dell'art. 1 del R. decreto 4 aprile 1941-XIX, n. 194, concernente la dichiarazione dello stato di guerra nel territorio dello Stato ad oriente del fiume Tagliamento. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 3 ottobre 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 19 ottobre 1941-XIX 
+ 
+ Atti del Governo, registro 438, foglio 44. - Mancini

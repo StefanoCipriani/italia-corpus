@@ -1,21 +1,21 @@
-REGIO DECRETO 29 aprile 1937 n. 1146
+---
+tipo: REGIO DECRETO
+numero: 1146
+data: 1937-04-29
+titolo: "Approvazione del nuovo statuto della Cassa scolastica della Regia scuola secondaria di avviamento professionale di Chiavari. (037U1146)"
+urn: urn:nir:stato:regio.decreto:1937-04-29;1146
+codice_redazionale: 037U1146
+vigente: true
+---
 
-
-REGIO DECRETO 29 aprile 1937 n. 1146
-====================================
-
-Approvazione del nuovo statuto della Cassa scolastica della Regia scuola secondaria di avviamento professionale di Chiavari. (037U1146)
----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/08/1937
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1146. R. decreto 29 aprile 1937, col quale, sulla proposta del Ministro per la educazione nazionale, viene abrogato lo statuto della Cassa scolastica della Regia scuola secondaria di avviamento professionale «G. Garibaldi» di Chiavari e viene approvato il nuovo statuto della Cassa scolastica della Regia scuola tecnica industriale e dell'annessa Regia scuola secondaria di avviamento professionale di Chiavari.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 15 giugno 1937 - Anno XV
+1146.
+
+R. decreto 29 aprile 1937, col quale, sulla proposta del Ministro per la educazione nazionale, viene abrogato lo statuto della Cassa scolastica della Regia scuola secondaria di avviamento professionale «G. Garibaldi» di Chiavari e viene approvato il nuovo statuto della Cassa scolastica della Regia scuola tecnica industriale e dell'annessa Regia scuola secondaria di avviamento professionale di Chiavari. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 15 giugno 1937 - Anno XV

@@ -1,19 +1,15 @@
-REGIO DECRETO 01 giugno 1861 n. XLI
+---
+tipo: REGIO DECRETO
+numero: XLI
+data: 1861-06-01
+titolo: "Che approva il regolamento di polizia urbana pel Comune di Massama. (6100041R)"
+urn: urn:nir:stato:regio.decreto:1861-06-01;41
+codice_redazionale: 6100041R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 giugno 1861 n. XLI
-===================================
-
-Che approva il regolamento di polizia urbana pel Comune di Massama. (6100041R)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/06/1861
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia urbana deliberato dal Municipio di Massama (Provincia di Cagliari) in seduta del 3 novembre ultimo scorso.   
-  
-Torino 1.° giugno 1861   
-  
+Che approva il regolamento di polizia urbana deliberato dal Municipio di Massama (Provincia di Cagliari) in seduta del 3 novembre ultimo scorso. 
+ 
+ Torino 1.° giugno 1861

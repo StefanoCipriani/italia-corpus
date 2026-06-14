@@ -1,16 +1,14 @@
-REGIO DECRETO 13 luglio 1886 n. 3996
-
-
-REGIO DECRETO 13 luglio 1886 n. 3996
-====================================
-
-Pel quale resta definitivamente approvato a tutti gli effetti di legge lo schema di riparto del contributo a carico dei comuni per la costruzione della ferrovia Vercelli-Mortara-Cava-Manara Bressana-Broni col prolungamento Stradella e Pavia. (086U3996)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/08/1886
+---
+tipo: REGIO DECRETO
+numero: 3996
+data: 1886-07-13
+titolo: "Pel quale resta definitivamente approvato a tutti gli effetti di legge lo schema di riparto del contributo a carico dei comuni per la costruzione della ferrovia Vercelli-Mortara-Cava-Manara Bressana-Broni col prolungamento Stradella e Pavia. (086U3996)"
+urn: urn:nir:stato:regio.decreto:1886-07-13;3996
+codice_redazionale: 086U3996
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -18,7 +16,7 @@ RE D'ITALIA
 
 Veduti i ricorsi prodotti dai comuni di Alagna, Albaredo, Borgarello, Carbonara, Campo-Spinoso, Castana, Castelnovetto, Castelletto-Po, Cava-Manara, Cergnago, Cerretto, Cilavegna, Domo, Gambolo', Mezzana-Rabattone, Mirabello, Montescano, Olevano, Ottobiano, Parona, Pietra de'Giorgi, Pizzale, Redavalle, Rosasco, S.
 
-Angelo-Lomellina, San Cipriano-Po, S. Genesio, S. Giulietta, Sommo, Torre d'Isola, Travaco-Siccomario, Valeggio, Valle-Salimbene, Verretto, Villanova-Ardenghi, Zenevredo, e S. Zenone-Po contro il riparto delle quote di contributo obbligatorio provinciale stabilite dalla Deputazione provinciale di Pavia colla deliberazione 20 marzo 1882 e 6 settembre 1883 a senso degli [articoli 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-07-29;5002~art5) e [7 della legge 29 luglio 1879, n. 5002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-07-29;5002~art7) (Serie 2ª) per la costruzione della ferrovia Vercelli-Mortara-Pavia, segnata al n. 5 della tabella C, annessa alla detta legge.
+Angelo-Lomellina, San Cipriano-Po, S. Genesio, S. Giulietta, Sommo, Torre d'Isola, Travaco-Siccomario, Valeggio, Valle-Salimbene, Verretto, Villanova-Ardenghi, Zenevredo, e S. Zenone-Po contro il riparto delle quote di contributo obbligatorio provinciale stabilite dalla Deputazione provinciale di Pavia colla deliberazione 20 marzo 1882 e 6 settembre 1883 a senso degli [articoli 5](Che%20autorizza%20la%20costruzione%20di%20linee%20ferroviarie%20di%20complemento.%20079U5002.md) e [7 della legge 29 luglio 1879, n. 5002](Che%20autorizza%20la%20costruzione%20di%20linee%20ferroviarie%20di%20complemento.%20079U5002.md) (Serie 2ª) per la costruzione della ferrovia Vercelli-Mortara-Pavia, segnata al n. 5 della tabella C, annessa alla detta legge.
 
 Veduta la deliberazione successiva della detta rappresentanza provinciale in data 7 aprile 1884, colla quale il comune di S. Zenone veniva escluso dall'obbligo di concorrere nel contributo e venivano rettificati alcuni errori di calcolo riscontrati nel riparto, ed in ispecie le quote a carico dei comuni di Gambolo' e Cava-Manara;
 
@@ -34,29 +32,22 @@ Considerando che il fatto di non essere ancora aperto allo esercizio un tratto d
 
 Considerando per conseguenza che i reclami dei comuni sono infondati, e quindi e' loro obbligo di concorrere a norma di legge nella spesa per la costruzione della ferrovia Vercelli-Mortara-Pavia;
 
-Visti gli [articoli 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-07-29;5002~art5) e [7 della legge 29 luglio 1879, numero 5002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-07-29;5002~art7) (Serie 2ª);
+Visti gli [articoli 5](Che%20autorizza%20la%20costruzione%20di%20linee%20ferroviarie%20di%20complemento.%20079U5002.md) e [7 della legge 29 luglio 1879, numero 5002](Che%20autorizza%20la%20costruzione%20di%20linee%20ferroviarie%20di%20complemento.%20079U5002.md) (Serie 2ª);
 
 Sentito il parere del Consiglio Superiore dei Lavori Pubblici e del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono respinti i ricorsi dei comuni di Alagna, Albaredo, Borgarello, Carbonara, Campo-Spinoso, Castana, Castelnovetto, Castelletto-Po, Cergnago, Cerretto, Cilavegna, Dorno, Mezzana-Rabattone, Mirabello, Monte-scano, Olevano, Ottobiano, Parona, Pietra de' Giorgi, Pizzale, Redavalle, Rosasco, S. Angelo-Lomellina, San Cipriano-Po, S. Genesio, S. Giulietta, Sommo, Torre d'Isola, Travaco-Siccomario, Valeggio, Valle-Salimbene, Verretto, Villanova-Ardenghi, Zenevredo, restando definitivamente approvato a tutti gli effetti di legge lo schema di riparto del contributo a carico dei comuni per la costruzione della ferrovia Vercelli-Mortara-Cava-Manara-Bressana-Broni col prolungamento Stradella e Pavia, schema redatto in data del 23 marzo 1884 dall'ufficio del Genio civile di Pavia e da quella Deputazione provinciale accettato con deliberazione 7 aprile 1884, per effetto del quale vennero ridotte le quote a carico dei comuni di Gambolo' e Cava-Manara accogliendo in parte il loro ricorso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 13 luglio 1886.   
-  
-UMBERTO.   
-  
-Genala.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+Sono respinti i ricorsi dei comuni di Alagna, Albaredo, Borgarello, Carbonara, Campo-Spinoso, Castana, Castelnovetto, Castelletto-Po, Cergnago, Cerretto, Cilavegna, Dorno, Mezzana-Rabattone, Mirabello, Monte-scano, Olevano, Ottobiano, Parona, Pietra de' Giorgi, Pizzale, Redavalle, Rosasco, S. Angelo-Lomellina, San Cipriano-Po, S. Genesio, S. Giulietta, Sommo, Torre d'Isola, Travaco-Siccomario, Valeggio, Valle-Salimbene, Verretto, Villanova-Ardenghi, Zenevredo, restando definitivamente approvato a tutti gli effetti di legge lo schema di riparto del contributo a carico dei comuni per la costruzione della ferrovia Vercelli-Mortara-Cava-Manara-Bressana-Broni col prolungamento Stradella e Pavia, schema redatto in data del 23 marzo 1884 dall'ufficio del Genio civile di Pavia e da quella Deputazione provinciale accettato con deliberazione 7 aprile 1884, per effetto del quale vennero ridotte le quote a carico dei comuni di Gambolo' e Cava-Manara accogliendo in parte il loro ricorso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 13 luglio 1886. 
+ 
+ UMBERTO. 
+ 
+ Genala. 
+ 
+ Visto, Il Guardasigilli: Tajani.

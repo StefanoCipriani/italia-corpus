@@ -1,21 +1,17 @@
-REGIO DECRETO 20 maggio 1897 n. CLVII
+---
+tipo: REGIO DECRETO
+numero: CLVII
+data: 1897-05-20
+titolo: "Che erige in ente morale la fondazione Guiot in Fenestrelle. (9700157R)"
+urn: urn:nir:stato:regio.decreto:1897-05-20;157
+codice_redazionale: 9700157R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 maggio 1897 n. CLVII
-=====================================
-
-Che erige in ente morale la fondazione Guiot in Fenestrelle. (9700157R)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/07/1897
-
-Art. 1
-------
-
-  
-Con cui la fondazione Guiot di Fenestrelle (Torino) viene eretta in corpo morale e ne viene approvato lo statuto organico. - Firmato UMBERTO - Controfirmato Rudini' - Visto G. Costa.   
-  
-Registrato alla Corte dei Conti addi' 22 giugno 1897.   
-  
-Reg. 211. Atti del Governo a f. 33.   
-  
+Con cui la fondazione Guiot di Fenestrelle (Torino) viene eretta in corpo morale e ne viene approvato lo statuto organico. - Firmato UMBERTO - Controfirmato Rudini' - Visto G. Costa. 
+ 
+ Registrato alla Corte dei Conti addi' 22 giugno 1897. 
+ 
+ Reg. 211. Atti del Governo a f. 33.

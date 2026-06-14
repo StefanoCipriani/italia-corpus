@@ -1,17 +1,17 @@
-REGIO DECRETO 06 aprile 1922 n. 445
+---
+tipo: REGIO DECRETO
+numero: 445
+data: 1922-04-06
+titolo: "Inserzione di tariffe daziarie. (022U0445)"
+urn: urn:nir:stato:regio.decreto:1922-04-06;445
+codice_redazionale: 022U0445
+vigente: true
+---
 
-
-REGIO DECRETO 06 aprile 1922 n. 445
-===================================
-
-Inserzione di tariffe daziarie. (022U0445)
-------------------------------------------
-
-Entrata in vigore del provvedimento: 05/05/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-445. Regio decreto 6 aprile 1922, col quale, sulla proposta del ministro delle finanze, nella vigente tariffa daziaria del comune di Roma viene inserita la voce 81 per la tassazione dei surrogati del caffe' nella misura di lire 23 al quintale.
+445.
+
+Regio decreto 6 aprile 1922, col quale, sulla proposta del ministro delle finanze, nella vigente tariffa daziaria del comune di Roma viene inserita la voce 81 per la tassazione dei surrogati del caffe' nella misura di lire 23 al quintale.

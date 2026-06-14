@@ -1,24 +1,22 @@
-REGIO DECRETO 27 novembre 1890 n. 7297
-
-
-REGIO DECRETO 27 novembre 1890 n. 7297
-======================================
-
-Che affida al comune chiuso di Palermo la riscossione del dazio di consumo tanto nel suo quanto nel territorio dei comuni aperti indicati. (090U7297)
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/01/1891
+---
+tipo: REGIO DECRETO
+numero: 7297
+data: 1890-11-27
+titolo: "Che affida al comune chiuso di Palermo la riscossione del dazio di consumo tanto nel suo quanto nel territorio dei comuni aperti indicati. (090U7297)"
+urn: urn:nir:stato:regio.decreto:1890-11-27;7297
+codice_redazionale: 090U7297
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'[art. 4 della legge 11 agosto 1870, n. 5784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784~art4) (allegato L);
+Visto l'[art. 4 della legge 11 agosto 1870, n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md) (allegato L);
 
-Visto il regolamento sui dazi interni di consumo approvato col [R. decreto 25 agosto 1870, n. 5840](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-08-25;5840);
+Visto il regolamento sui dazi interni di consumo approvato col [R. decreto 25 agosto 1870, n. 5840](Che%20approva%20il%20Regolamento%20generale%20sui%20dazi%20interni%20di%20consumo.%20070U5840.md);
 
 Visto il Nostro decreto 3 giugno 1886, n. 3927;
 
@@ -34,33 +32,22 @@ Sulla proposta del Nostro Ministro Segretario di Stato per il Tesoro ad interim 
 
 Udito il parere del Consiglio di Stato;
 
-Udito
------
+Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' affidata al comune chiuso di Palermo la riscossione del dazio di consumo tanto nel suo quanto nel territorio dei comuni aperti di Capaci, Ficarazzi, Isola delle Femmine, Parco, Torretta e Villabate dal 1º gennaio 1891 al 31 dicembre 1895.
 
-  
-  
-E' affidata al comune chiuso di Palermo la riscossione del dazio di consumo tanto nel suo quanto nel territorio dei comuni aperti di Capaci, Ficarazzi, Isola delle Femmine, Parco, Torretta e Villabate dal 1º gennaio 1891 al 31 dicembre 1895.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' approvata e resa esecutoria la deliberazione del 30 agosto 1890 emessa dal Consiglio comunale di Palermo per l'abbonamento alla riscossione del dazio di consumo in quel comune e negli altri sei aperti ad esso aggregati durante il quinquennio dal 1° gennaio 1891 a tutto il dicembre 1895 dietro pagamento dell'annuo canone di lire un milione novecentottantamila (1,980,000) che dovra' eseguire lo stesso comune di Palermo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 novembre 1890.   
-  
-UMBERTO.   
-  
-Giolitti.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+E' approvata e resa esecutoria la deliberazione del 30 agosto 1890 emessa dal Consiglio comunale di Palermo per l'abbonamento alla riscossione del dazio di consumo in quel comune e negli altri sei aperti ad esso aggregati durante il quinquennio dal 1° gennaio 1891 a tutto il dicembre 1895 dietro pagamento dell'annuo canone di lire un milione novecentottantamila (1,980,000) che dovra' eseguire lo stesso comune di Palermo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 novembre 1890. 
+ 
+ UMBERTO. 
+ 
+ Giolitti. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

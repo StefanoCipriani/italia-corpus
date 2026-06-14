@@ -1,19 +1,15 @@
-REGIO DECRETO 05 gennaio 1913 n. 110
+---
+tipo: REGIO DECRETO
+numero: 110
+data: 1913-01-05
+titolo: "Riconoscimento in ente morale. (013U0110)"
+urn: urn:nir:stato:regio.decreto:1913-01-05;110
+codice_redazionale: 013U0110
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 gennaio 1913 n. 110
-====================================
-
-Riconoscimento in ente morale. (013U0110)
------------------------------------------
-
-Entrata in vigore del provvedimento: 12/03/1913
-
-Art. 1
-------
-
-  
-N. 110   
-  
-Regio Decreto 5 gennaio 1913, col quale, sulla proposta del ministro d'agricoltura, industria e commercio, d'accordo col ministro della pubblica istruzione, viene riconosciuta come ente morale la Societa' scolastica di mutuo soccorso, «Mutualita' scolastica Saviglianese» in Savigliano e ne e' approvato lo statuto.   
-  
+N. 110 
+ 
+ Regio Decreto 5 gennaio 1913, col quale, sulla proposta del ministro d'agricoltura, industria e commercio, d'accordo col ministro della pubblica istruzione, viene riconosciuta come ente morale la Societa' scolastica di mutuo soccorso, «Mutualita' scolastica Saviglianese» in Savigliano e ne e' approvato lo statuto.

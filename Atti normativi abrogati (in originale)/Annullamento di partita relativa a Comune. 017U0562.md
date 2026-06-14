@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 04 febbraio 1917 n. 562
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 562
+data: 1917-02-04
+titolo: "Annullamento di partita relativa a Comune. (017U0562)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-02-04;562
+codice_redazionale: 017U0562
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 04 febbraio 1917 n. 562
-===============================================
-
-Annullamento di partita relativa a Comune. (017U0562)
------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/05/1917
-
-Art. 1
-------
-
-  
-N. 562   
-  
-Decreto Luogotenenziale 4 febbraio 1917, col quale, in seguito all'autonomia scolastica concessa al comune di Gignod, della provincia di Torino, sulla proposta del ministro dell'istruzione, di concerto con il ministro del tesoro, nell'elenco annesso al [Regio decreto 14 gennaio 1915, n. 618](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-14;618), e' annullata la partita n. 133 relativa al Comune suddetto, a datare dal 1° marzo 1917.   
-  
+N. 562 
+ 
+ Decreto Luogotenenziale 4 febbraio 1917, col quale, in seguito all'autonomia scolastica concessa al comune di Gignod, della provincia di Torino, sulla proposta del ministro dell'istruzione, di concerto con il ministro del tesoro, nell'elenco annesso al [Regio decreto 14 gennaio 1915, n. 618](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-14;618), e' annullata la partita n. 133 relativa al Comune suddetto, a datare dal 1° marzo 1917.

@@ -1,16 +1,14 @@
-REGIO DECRETO 10 agosto 1919 n. 1455
-
-
-REGIO DECRETO 10 agosto 1919 n. 1455
-====================================
-
-Che costituisce il reggimento San Marco e il raggruppamento artiglierie R. marina in un unico corpo ad effettivi ridotti sotto il nome di «Battaglione San Marco». (019U1455)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/09/1919
+---
+tipo: REGIO DECRETO
+numero: 1455
+data: 1919-08-10
+titolo: "Che costituisce il reggimento San Marco e il raggruppamento artiglierie R. marina in un unico corpo ad effettivi ridotti sotto il nome di «Battaglione San Marco». (019U1455)"
+urn: urn:nir:stato:regio.decreto:1919-08-10;1455
+codice_redazionale: 019U1455
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione.
 
@@ -22,71 +20,44 @@ Affinche' siano Meglio custodite le gloriose tradizioni che reparti della Regia 
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro della marina; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro della marina; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il reggimento San Marco ed il raggruppamento artiglieri Regia marina, sono costituiti sul piede di pace in un unico corpo ad effettivi ridotti, che assumono il nome di «Battaglione San Marco».
 
-  
-  
-  
-Il reggimento San Marco ed il raggruppamento artiglieri Regia marina, sono costituiti sul piede di pace in un unico corpo ad effettivi ridotti, che assumono il nome di «Battaglione San Marco».   
+## Art. 2.
 
-Art. 2
-------
+Il battaglione e' costituito come segue: 
+ 
+ Comando; 
+ 
+ Quattro compagnie miste di fucilieri e mitraglieri che assumono i nomi di «Bafile», «Golametto», «Caorle» e «Grado»; 
+ 
+ Una batteria su quattro pezzi da 76/17. 
+ 
+ Servizi ausiliari. 
+ 
+ Al comando delle compagnie e dei plotoni possono essere destinati ufficiali del R. esercito.
 
-  
-  
-  
-Il battaglione e' costituito come segue:   
-  
-Comando;   
-  
-Quattro compagnie miste di fucilieri e mitraglieri che assumono i nomi di «Bafile», «Golametto», «Caorle» e «Grado»;   
-  
-Una batteria su quattro pezzi da 76/17.   
-  
-Servizi ausiliari.   
-  
-Al comando delle compagnie e dei plotoni possono essere destinati ufficiali del R. esercito.   
-  
+## Art. 3.
 
-Art. 3
-------
+In tempo di pace i reparti del battaglione prestano servizio nelle piazze marittime; essi costituiscono nucleo per la formazione di reparti piu' complessi e numerosi quando questa risulti opportuna.
 
-  
-  
-  
-In tempo di pace i reparti del battaglione prestano servizio nelle piazze marittime; essi costituiscono nucleo per la formazione di reparti piu' complessi e numerosi quando questa risulti opportuna.   
-  
+## Art. 4.
 
-Art. 4
-------
+La divisa normale del battaglione sara' quella grigioverde. Il personale del battaglione portera' un distintivo speciale costituito dal Leone di San Marco.
 
-  
-  
-  
-La divisa normale del battaglione sara' quella grigioverde. Il personale del battaglione portera' un distintivo speciale costituito dal Leone di San Marco.   
-  
+## Art. 5.
 
-Art. 5
-------
-
-  
-  
-  
-Con apposito regolamento, firmato, d'ordine Nostro, dal ministro della marina saranno stabilite le modalita' Per l'applicazione del presente decreto.   
-  
-Ordiniamo che il presente decreto; munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 10 agosto 1919.   
-  
-VITTORIO EMANUELE:   
-  
-NITTI - SECHI.   
-  
-Visto, Il guardasigilli: MORTARA.   
-  
+Con apposito regolamento, firmato, d'ordine Nostro, dal ministro della marina saranno stabilite le modalita' Per l'applicazione del presente decreto. 
+ 
+ Ordiniamo che il presente decreto; munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 agosto 1919. 
+ 
+ VITTORIO EMANUELE: 
+ 
+ NITTI - SECHI. 
+ 
+ Visto, Il guardasigilli: MORTARA.

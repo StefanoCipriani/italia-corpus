@@ -1,16 +1,14 @@
-REGIO DECRETO 29 gennaio 1891 n. 60
-
-
-REGIO DECRETO 29 gennaio 1891 n. 60
-===================================
-
-Che approva il ruolo organico degli insegnanti e degli impiegati per il R. Conservatorio di musica di Parma, annesso al presente decreto. (091U0060)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/03/1891
+---
+tipo: REGIO DECRETO
+numero: 60
+data: 1891-01-29
+titolo: "Che approva il ruolo organico degli insegnanti e degli impiegati per il R. Conservatorio di musica di Parma, annesso al presente decreto. (091U0060)"
+urn: urn:nir:stato:regio.decreto:1891-01-29;60
+codice_redazionale: 091U0060
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,33 +20,18 @@ Veduto il Ruolo organico approvato per il Conservatorio medesimo con Nostro Decr
 
 Veduto il fondo iscritto al cap. 44 del Bilancio passivo del Ministero della Pubblica Istruzione per l'anno finanziario 1890-91;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Per il Conservatorio di musica di Parma e' approvato il Ruolo organico degli insegnanti ed impiegati annesso al presente Decreto e firmato d'ordine Nostro dal Ministro Segretario di Stato per la Pubblica Istruzione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 gennaio 1891.   
-  
-UMBERTO.   
-  
-P. Boselli.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
-
-Ruolo organico
-
-  
-RUOLO ORGANICO degli insegnanti ed impiegati del R. Conservatorio di musica di Parma.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=091U006000100010110001&dgu=1891-02-24&art.dataPubblicazioneGazzetta=1891-02-24&art.codiceRedazionale=091U0060)
-  
+Per il Conservatorio di musica di Parma e' approvato il Ruolo organico degli insegnanti ed impiegati annesso al presente Decreto e firmato d'ordine Nostro dal Ministro Segretario di Stato per la Pubblica Istruzione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 gennaio 1891. 
+ 
+ UMBERTO. 
+ 
+ P. Boselli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

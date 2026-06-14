@@ -1,19 +1,15 @@
-REGIO DECRETO 26 luglio 1863 n. DCCCXLV
+---
+tipo: REGIO DECRETO
+numero: DCCCXLV
+data: 1863-07-26
+titolo: "Che approva il regolamento di polizia rurale del Comune di Castellaneta. (6300845R)"
+urn: urn:nir:stato:regio.decreto:1863-07-26;845
+codice_redazionale: 6300845R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 luglio 1863 n. DCCCXLV
-=======================================
-
-Che approva il regolamento di polizia rurale del Comune di Castellaneta. (6300845R)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/07/1863
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia rurale del Comune di Castellaneta, in Terra d'Otranto, in data 25 giugno corrente anno.   
-  
-Torino 26 luglio 1863.   
-  
+Che approva il regolamento di polizia rurale del Comune di Castellaneta, in Terra d'Otranto, in data 25 giugno corrente anno. 
+ 
+ Torino 26 luglio 1863.

@@ -1,16 +1,14 @@
-REGIO DECRETO 01 settembre 1898 n. 381
-
-
-REGIO DECRETO 01 settembre 1898 n. 381
-======================================
-
-Coi quali i Comandanti il III e l'VIII Corpo d'Armata cessano dall'incarico temporaneo della direzione generale della Polizia nei territori delle Provincie di Milano e Firenze. (098U0381)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/09/1898
+---
+tipo: REGIO DECRETO
+numero: 381
+data: 1898-09-01
+titolo: "Coi quali i Comandanti il III e l'VIII Corpo d'Armata cessano dall'incarico temporaneo della direzione generale della Polizia nei territori delle Provincie di Milano e Firenze. (098U0381)"
+urn: urn:nir:stato:regio.decreto:1898-09-01;381
+codice_redazionale: 098U0381
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,25 +24,18 @@ Visto l'articolo 5 dello Statuto fondamentale del Regno;
 
 Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli Affari dell'Interno;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dalla data della pubblicazione del presente decreto, il Comandante il III Corpo d'Armata cessa dall'incarico temporaneo della direzione generale della Polizia anche nel territorio della Provincia di Milano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sarre, addi' 1° settembre 1898.   
-  
-UMBERTO.   
-  
-Pelloux.   
-  
-Visto, Il Guardasigilli: C. Finocchiaro-Aprile.   
-  
+Dalla data della pubblicazione del presente decreto, il Comandante il III Corpo d'Armata cessa dall'incarico temporaneo della direzione generale della Polizia anche nel territorio della Provincia di Milano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sarre, addi' 1° settembre 1898. 
+ 
+ UMBERTO. 
+ 
+ Pelloux. 
+ 
+ Visto, Il Guardasigilli: C. Finocchiaro-Aprile.

@@ -1,21 +1,18 @@
-REGIO DECRETO 17 ottobre 1892 n. 601
+---
+tipo: REGIO DECRETO
+numero: 601
+data: 1892-10-17
+titolo: "Concernente la circoscrizione elettorale politica del Regno. (092U0601)"
+urn: urn:nir:stato:regio.decreto:1892-10-17;601
+codice_redazionale: 092U0601
+vigente: true
+---
 
-
-REGIO DECRETO 17 ottobre 1892 n. 601
-====================================
-
-Concernente la circoscrizione elettorale politica del Regno. (092U0601)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1892
-
-Art. 1
-------
+## Art. 1.
 
 Dato a Monza il 17 ottobre
 
-1892. 
-  
-  
-N. 601. R. D. che separa il comune di Mozzo dalla sezione elettorale di Curno, e lo aggrega alla sezione elettorale di Ponte S.  
+1892.
+
+N. 601. R. D. che separa il comune di Mozzo dalla sezione elettorale di Curno, e lo aggrega alla sezione elettorale di Ponte S.
 Pietro, del Collegio di Caprino Bergamasco (Bergamo 2°).

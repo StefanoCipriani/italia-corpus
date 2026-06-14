@@ -1,91 +1,62 @@
-REGIO DECRETO 29 dicembre 1898 n. 503
+---
+tipo: REGIO DECRETO
+numero: 503
+data: 1898-12-29
+titolo: "Col quale vengono condonate le pene restrittive sulla liberta' personale non superiori ai 2 anni inflitte dai Tribunali militari di Milano, Firenze e Napoli. (098U0503)"
+urn: urn:nir:stato:regio.decreto:1898-12-29;503
+codice_redazionale: 098U0503
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 dicembre 1898 n. 503
-=====================================
+Sono condonate le pene restrittive della liberta' personale non superiori a due anni inflitte dai Tribunali militari di Milano, Firenze e Napoli in forza dei decreti dei RR. Commissari straordinari, nominati coi Nostri decreti 7 e 9 maggio 1898, nn. 147, 150 e 157 pei seguenti reati: 
+ 
+ 1° delitti contro la liberta' del lavoro; 
+ 
+ 2° delitti di oltraggio, violenza, resistenza contro persone rivestite di pubblica autorita', o danneggiamento, commessi in occasione di pubbliche dimostrazioni o tumulti; 
+ 
+ 3° delitti preveduti dagli [articoli 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_125) e [126 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_126);  
+ 4° delitti contro l'ordine pubblico, preveduti dal Titolo V, libro II, del Codice medesimo.
 
-Col quale vengono condonate le pene restrittive sulla liberta' personale non superiori ai 2 anni inflitte dai Tribunali militari di Milano, Firenze e Napoli. (098U0503)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 13/01/1899
+Sono condonate le pene restrittive della liberta' personale non superiori a due anni, inflitte o che saranno inflitte dai Tribunali ordinari per delitti commessi fino alla data del presente decreto, di cui nei nn. 1, 2 e 3 dell'articolo precedente e negli articoli 246, 247 e 251 a 255 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398).
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Sono condonate le pene restrittive della liberta' personale non superiori a due anni inflitte dai Tribunali militari di Milano, Firenze e Napoli in forza dei decreti dei RR. Commissari straordinari, nominati coi Nostri decreti 7 e 9 maggio 1898, nn. 147, 150 e 157 pei seguenti reati:   
-  
-1° delitti contro la liberta' del lavoro;   
-  
-2° delitti di oltraggio, violenza, resistenza contro persone rivestite di pubblica autorita', o danneggiamento, commessi in occasione di pubbliche dimostrazioni o tumulti;   
-  
-3° delitti preveduti dagli [articoli 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art125) e [126 del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art126);   
-4° delitti contro l'ordine pubblico, preveduti dal Titolo V, libro II, del Codice medesimo.   
-  
+Le pene che abbiano una durata superiore sono diminuite di due anni.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-Sono condonate le pene restrittive della liberta' personale non superiori a due anni, inflitte o che saranno inflitte dai Tribunali ordinari per delitti commessi fino alla data del presente decreto, di cui nei nn. 1, 2 e 3 dell'articolo precedente e negli articoli 246, 247 e 251 a 255 del [Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398).   
-  
+Per le donne e per coloro che alla data del presente decreto non hanno compiuto i 18 anni od hanno superato i 70 anni, il condono o la diminuzione di cui negli articoli 1, 2 e 3, si estendono alle condanne fino a tre anni.
 
-Art. 3
-------
+## Art. 5.
 
-  
-  
-Le pene che abbiano una durata superiore sono diminuite di due anni.   
-  
+Sono condonate le pene pecuniarie inflitte pei suddetti reati.
 
-Art. 4
-------
+## Art. 6.
 
-  
-  
-Per le donne e per coloro che alla data del presente decreto non hanno compiuto i 18 anni od hanno superato i 70 anni, il condono o la diminuzione di cui negli articoli 1, 2 e 3, si estendono alle condanne fino a tre anni.   
-  
+Le disposizioni del presente decreto non si applicano: 
+ 
+ a) a coloro che abbiano riportato una precedente condanna per delitto entro i termini stabiliti nell'[articolo 80 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_80); 
+ 
+ b) agli ammoniti ai termini della legge di pubblica sicurezza quali oziosi, vagabondi o diffamati; 
+ 
+ c) agli imputati o condannati per i delitti indicati nei precedenti articoli 1 e 2, quando questi siano accompagnati o connessi a delitti contro le persone o le proprieta' perseguibili d'ufficio.
 
-Art. 5
-------
+## Art. 7.
 
-  
-  
-Sono condonate le pene pecuniarie inflitte pei suddetti reati.   
-  
-
-Art. 6
-------
-
-  
-  
-Le disposizioni del presente decreto non si applicano:   
-  
-a) a coloro che abbiano riportato una precedente condanna per delitto entro i termini stabiliti nell'[articolo 80 del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art80);   
-  
-b) agli ammoniti ai termini della legge di pubblica sicurezza quali oziosi, vagabondi o diffamati;   
-  
-c) agli imputati o condannati per i delitti indicati nei precedenti articoli 1 e 2, quando questi siano accompagnati o connessi a delitti contro le persone o le proprieta' perseguibili d'ufficio.   
-  
-
-Art. 7
-------
-
-  
-  
-Il presente decreto non pregiudica alle azioni civili ed ai diritti dei terzi derivanti dai reati che ne formano l'oggetto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 dicembre 1898.   
-  
-UMBERTO.   
-  
-Pelloux.   
-C. Finocchiaro-Aprile.   
-A. Di San Marzano.   
-  
-Visto, Il Guardasigilli: C. Finocchiaro-Aprile.   
-  
+Il presente decreto non pregiudica alle azioni civili ed ai diritti dei terzi derivanti dai reati che ne formano l'oggetto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 dicembre 1898. 
+ 
+ UMBERTO. 
+ 
+ Pelloux. 
+ C. Finocchiaro-Aprile. 
+ A. Di San Marzano. 
+ 
+ Visto, Il Guardasigilli: C. Finocchiaro-Aprile.

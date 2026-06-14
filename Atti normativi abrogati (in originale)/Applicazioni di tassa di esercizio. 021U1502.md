@@ -1,17 +1,17 @@
-REGIO DECRETO 16 ottobre 1921 n. 1502
+---
+tipo: REGIO DECRETO
+numero: 1502
+data: 1921-10-16
+titolo: "Applicazioni di tassa di esercizio. (021U1502)"
+urn: urn:nir:stato:regio.decreto:1921-10-16;1502
+codice_redazionale: 021U1502
+vigente: true
+---
 
-
-REGIO DECRETO 16 ottobre 1921 n. 1502
-=====================================
-
-Applicazioni di tassa di esercizio. (021U1502)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 02/12/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1502. Regio decreto 16 ottobre 1921, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Gaggiano (Milano), di applicare dal 1° gennaio al 31 dicembre 1921 la tassa di esercizio nella misura massima di L. 1000.
+1502.
+
+Regio decreto 16 ottobre 1921, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Gaggiano (Milano), di applicare dal 1° gennaio al 31 dicembre 1921 la tassa di esercizio nella misura massima di L. 1000.

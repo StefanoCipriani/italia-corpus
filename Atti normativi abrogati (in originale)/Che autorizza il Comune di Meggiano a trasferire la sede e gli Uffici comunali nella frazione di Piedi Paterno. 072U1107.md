@@ -1,16 +1,14 @@
-REGIO DECRETO 17 novembre 1872 n. 1107
-
-
-REGIO DECRETO 17 novembre 1872 n. 1107
-======================================
-
-Che autorizza il Comune di Meggiano a trasferire la sede e gli Uffici comunali nella frazione di Piedi Paterno. (072U1107)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/12/1872
+---
+tipo: REGIO DECRETO
+numero: 1107
+data: 1872-11-17
+titolo: "Che autorizza il Comune di Meggiano a trasferire la sede e gli Uffici comunali nella frazione di Piedi Paterno. (072U1107)"
+urn: urn:nir:stato:regio.decreto:1872-11-17;1107
+codice_redazionale: 072U1107
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,24 +20,16 @@ Vista la deliberazione del Consiglio comunale di Meggiano, in data del 19 novemb
 
 Vista la deliberazione emessa dal Consiglio provinciale di Perugia, in data del 9 settembre 1872;
 
-Vista
------
+Vista la legge 20 marzo 1865, allegato A; Abbiamo decretato e decretiamo:
 
-la legge 20 marzo 1865, allegato A; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Meggiano (Perugia) e' autorizzato a trasferire la sede e gli uffici comunali nella frazione di Piedi Paterno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli, addi' 17 novembre 1872.   
-  
-VITTORIO EMANUELE.   
-  
-G. Lanza.   
-  
-  
+Il comune di Meggiano (Perugia) e' autorizzato a trasferire la sede e gli uffici comunali nella frazione di Piedi Paterno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli, addi' 17 novembre 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Lanza.

@@ -1,16 +1,14 @@
-REGIO DECRETO 01 settembre 1920 n. 1280
-
-
-REGIO DECRETO 01 settembre 1920 n. 1280
-=======================================
-
-Che autorizza una 3ª prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1920 - 921. (020U1280)
---------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/10/1920
+---
+tipo: REGIO DECRETO
+numero: 1280
+data: 1920-09-01
+titolo: "Che autorizza una 3ª prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1920 - 921. (020U1280)"
+urn: urn:nir:stato:regio.decreto:1920-09-01;1280
+codice_redazionale: 020U1280
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,20 @@ Visto che sul fondo di riserva per le spese impreviste inscritto in L. 10.000.00
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta dei Nostro ministro segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
 
-proposta dei Nostro ministro segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal fondo di riserva per le spese impreviste inscritto al capitolo n. 140 dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1920-921, e' autorizzata una 3ª prelevazione nella somma di lire trecentomila (L. 300.000), da assegnarsi al seguente capitolo di nuova istituzione n 230-VII: «Spese per la Delegazione italiana alla Conferenza di Bruxelles», dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario medesimo.   
-  
-Questo decreto sara' presentato al Parlamento per la sua convalidazione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant' Anna di Valdieri, addi' 1° settembre 1920.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti - Meda.   
-  
-Visto, Il guardasigilli: Fera.   
-  
+Dal fondo di riserva per le spese impreviste inscritto al capitolo n. 140 dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1920-921, e' autorizzata una 3ª prelevazione nella somma di lire trecentomila (L. 300.000), da assegnarsi al seguente capitolo di nuova istituzione n 230-VII: «Spese per la Delegazione italiana alla Conferenza di Bruxelles», dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario medesimo. 
+ 
+ Questo decreto sara' presentato al Parlamento per la sua convalidazione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant' Anna di Valdieri, addi' 1° settembre 1920. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti - Meda. 
+ 
+ Visto, Il guardasigilli: Fera.

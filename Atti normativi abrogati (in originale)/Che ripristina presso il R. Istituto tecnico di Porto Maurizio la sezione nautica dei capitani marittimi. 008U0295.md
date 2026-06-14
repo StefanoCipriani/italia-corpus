@@ -1,16 +1,14 @@
-REGIO DECRETO 09 aprile 1908 n. 295
-
-
-REGIO DECRETO 09 aprile 1908 n. 295
-===================================
-
-Che ripristina presso il R. Istituto tecnico di Porto Maurizio la sezione nautica dei capitani marittimi. (008U0295)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/07/1908
+---
+tipo: REGIO DECRETO
+numero: 295
+data: 1908-04-09
+titolo: "Che ripristina presso il R. Istituto tecnico di Porto Maurizio la sezione nautica dei capitani marittimi. (008U0295)"
+urn: urn:nir:stato:regio.decreto:1908-04-09;295
+codice_redazionale: 008U0295
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,45 +24,31 @@ Veduto che la detta sezione fu di fatto ripristinata dal 1° ottobre 1905 e che 
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Presso il R. Istituto tecnico di Porto Maurizio e' ripristinata la sezione nautica dei capitani marittimi con l'obbligo da parte di quella Provincia di versare all'Erario l'annuo contributo di L. 6812.50 per gli stipendi al personale insegnante e di provvedere direttamente a quanto altro le incombe per legge. 
+ 
+ Il comune di Porto Maurizio rimborsera' annualmente alla Provincia la somma di L. 3406.25 provvedendo direttamente ai locali ed al materiale non scientifico necessario per il buon andamento della sezione.
 
-  
-  
-Presso il R. Istituto tecnico di Porto Maurizio e' ripristinata la sezione nautica dei capitani marittimi con l'obbligo da parte di quella Provincia di versare all'Erario l'annuo contributo di L. 6812.50 per gli stipendi al personale insegnante e di provvedere direttamente a quanto altro le incombe per legge.   
-  
-Il comune di Porto Maurizio rimborsera' annualmente alla Provincia la somma di L. 3406.25 provvedendo direttamente ai locali ed al materiale non scientifico necessario per il buon andamento della sezione.   
-  
+## Art. 2.
 
-Art. 2
-------
+Ai ruoli organici per le scuole medie per l'anno scolastico 1907-908 approvati con Nostro decreto 29 settembre 1907 sono aggiunti i seguenti posti: 
+ 
+ professori ordinari o straordinari del 2° ordine di ruoli n. 4, dei quali: 1 per la lingua italiana o la storia, 1 per la matematica, 1 per la navigazione, trigonometria sferica, geografia astronomica e astronomia nautica e 1 per la fisica, la meccanica e la meteorologia.
 
-  
-  
-Ai ruoli organici per le scuole medie per l'anno scolastico 1907-908 approvati con Nostro decreto 29 settembre 1907 sono aggiunti i seguenti posti:   
-  
-professori ordinari o straordinari del 2° ordine di ruoli n. 4, dei quali: 1 per la lingua italiana o la storia, 1 per la matematica, 1 per la navigazione, trigonometria sferica, geografia astronomica e astronomia nautica e 1 per la fisica, la meccanica e la meteorologia.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il presente decreto avra' effetto nei rapporti finanziari fra lo Stato e la provincia di Porto Maurizio dal 1° ottobre 1905 e sara' quindi stanziata nella parte straordinaria del bilancio passivo della pubblica istruzione per il corrente esercizio la somma di L. 8650 da pagarsi alla detta Provincia a titolo di rimborso delle somme anticipato per conto dello Stato durante gli anni scolastici 1905-906, 1906-907 per stipendi e rimunerazioni agli insegnanti della seziono nautica dei capitani marittimi annessa al R. Istituto tecnico di Porto Maurizio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 aprile 1908   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti.   
-Rava.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+Il presente decreto avra' effetto nei rapporti finanziari fra lo Stato e la provincia di Porto Maurizio dal 1° ottobre 1905 e sara' quindi stanziata nella parte straordinaria del bilancio passivo della pubblica istruzione per il corrente esercizio la somma di L. 8650 da pagarsi alla detta Provincia a titolo di rimborso delle somme anticipato per conto dello Stato durante gli anni scolastici 1905-906, 1906-907 per stipendi e rimunerazioni agli insegnanti della seziono nautica dei capitani marittimi annessa al R. Istituto tecnico di Porto Maurizio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 aprile 1908 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti. 
+ Rava. 
+ 
+ Visto, Il guardasigilli: Orlando.

@@ -1,16 +1,14 @@
-REGIO DECRETO 29 aprile 1868 n. 4359
-
-
-REGIO DECRETO 29 aprile 1868 n. 4359
-====================================
-
-Con cui e' approvata l'instituzione di Succursali della Banca Nazionale nelle Citta' di Caserta, Benevento e Campobasso. (068U4359)
------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/05/1868
+---
+tipo: REGIO DECRETO
+numero: 4359
+data: 1868-04-29
+titolo: "Con cui e' approvata l'instituzione di Succursali della Banca Nazionale nelle Citta' di Caserta, Benevento e Campobasso. (068U4359)"
+urn: urn:nir:stato:regio.decreto:1868-04-29;4359
+codice_redazionale: 068U4359
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Veduta la deliberazione dell'assemblea generale degli azionisti della Banca sudd
 
 Veduta la deliberazione del Consiglio superiore suddetto in data 27 novembre 1867;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata l'instituzione di Succursali della Banca Nazionale nel Regno d'Italia nelle Citta' di Caserta, Benevento e Campobasso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 29 aprile 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 9 maggio 1868   
-  
-Reg. 42 Atti del Governo a c. 215. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-L. G. Cambray Digny.   
-  
+E' approvata l'instituzione di Succursali della Banca Nazionale nel Regno d'Italia nelle Citta' di Caserta, Benevento e Campobasso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 29 aprile 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 9 maggio 1868 
+ 
+ Reg. 42 Atti del Governo a c. 215. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ L. G. Cambray Digny.

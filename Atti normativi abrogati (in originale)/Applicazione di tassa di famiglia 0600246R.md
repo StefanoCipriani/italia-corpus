@@ -1,19 +1,15 @@
-REGIO DECRETO 12 luglio 1906 n. CCXLVI
+---
+tipo: REGIO DECRETO
+numero: CCXLVI
+data: 1906-07-12
+titolo: "Applicazione di tassa di famiglia (0600246R)"
+urn: urn:nir:stato:regio.decreto:1906-07-12;246
+codice_redazionale: 0600246R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 luglio 1906 n. CCXLVI
-======================================
-
-Applicazione di tassa di famiglia (0600246R)
---------------------------------------------
-
-Entrata in vigore del provvedimento: 15/08/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CCXLVI (Dato a Racconigi, il 12 luglio 1906), col quale e' data facolta' al comune di Feletto Umberto di applicare, nel biennio 1906, la tassa di famiglia col limite massimo di lire 100 (cento).   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CCXLVI (Dato a Racconigi, il 12 luglio 1906), col quale e' data facolta' al comune di Feletto Umberto di applicare, nel biennio 1906, la tassa di famiglia col limite massimo di lire 100 (cento).

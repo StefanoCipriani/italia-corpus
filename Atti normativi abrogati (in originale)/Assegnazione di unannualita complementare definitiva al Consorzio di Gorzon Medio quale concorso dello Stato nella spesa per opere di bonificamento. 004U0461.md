@@ -1,22 +1,20 @@
-REGIO DECRETO 14 aprile 1904 n. 461
-
-
-REGIO DECRETO 14 aprile 1904 n. 461
-===================================
-
-Assegnazione di un'annualita' complementare definitiva al Consorzio di Gorzon Medio quale concorso dello Stato nella spesa per opere di bonificamento. (004U0461)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/09/1904
+---
+tipo: REGIO DECRETO
+numero: 461
+data: 1904-04-14
+titolo: "Assegnazione di un'annualita' complementare definitiva al Consorzio di Gorzon Medio quale concorso dello Stato nella spesa per opere di bonificamento. (004U0461)"
+urn: urn:nir:stato:regio.decreto:1904-04-14;461
+codice_redazionale: 004U0461
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 18 luglio 1893, n. 567](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-07-18;567), col quale fu concesso al Consorzio di Gorzon Medio, in provincia di Padova, di eseguire, a termini dell'art. 1° della [legge 4 luglio 1886, n. 3962](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1886-07-04;3962), le opere di bonificazione del suo territorio classificate in prima categoria dai [Regi decreti 11 gennaio 1887, n. 4324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-01-11;4324), ed [11 ottobre 1885, n. 3455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-10-11;3455), assegnandosi al Consorzio stesso, come concorso dello Stato, a' sensi dell'art. 4 della predetta legge, e per la durata di anni venticinque, un'annualita' fissata in via presuntiva e salva liquidazione in L. 12,149.96, corrispondenti al 3,50%, dell'importo di L. 347,141.78 risultante dal piano generale di massima e dalla relativa appendice;
+Visto il [R. decreto 18 luglio 1893, n. 567](Che%20concede%20al%20Consorzio%20Gordon%20Medio%20Padova%20la%20esecuzione%20delle%20opere%20di%20bonificamento%20del%20suo%20territorio.%20093U0567.md), col quale fu concesso al Consorzio di Gorzon Medio, in provincia di Padova, di eseguire, a termini dell'art. 1° della [legge 4 luglio 1886, n. 3962](Concernente%20la%20bonificazione%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20086U3962.md), le opere di bonificazione del suo territorio classificate in prima categoria dai [Regi decreti 11 gennaio 1887, n. 4324](Che%20classifica%20in%20prima%20categoria%20le%20opere%20di%20bonificazione%20designate%20nellannesso%20elenco.%20087U4324.md), ed [11 ottobre 1885, n. 3455](Che%20classifica%20di%20prima%20categoria%20ai%20termini%20dellarticolo%204%20della%20legge%2025%20giugno%201882%20numero%20869%20le%20opere%20di%20bonificazione%20designate%20nellannesso%20elenco.%20085U3455.md), assegnandosi al Consorzio stesso, come concorso dello Stato, a' sensi dell'art. 4 della predetta legge, e per la durata di anni venticinque, un'annualita' fissata in via presuntiva e salva liquidazione in L. 12,149.96, corrispondenti al 3,50%, dell'importo di L. 347,141.78 risultante dal piano generale di massima e dalla relativa appendice;
 
 Visti i RR. decreti 12 luglio 1896, n. 347 e 31 marzo 1898, n. 167, coi quali il termine di tre anni, concesso col R. decreto 18 luglio 1893 per l'ultimazione dei lavori, venne prorogato a tutto il 30 giugno 1899, epoca in cui i lavori risultarono effettivamente ultimati;
 
@@ -24,7 +22,7 @@ Visti gli atti di liquidazione finale dei lavori eseguiti, ammontanti complessiv
 
 Visto il rapporto dell'ispettore compartimentale del Genio civile di Venezia in data 8 novembre 1901;
 
-Vista la relazione 28 febbraio 1903, colla quale venne accertato il compimento della bonifica a norma degli [articoli 48 della legge 25 giugno 1882, n. 869 e 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1882-06-25;6~art48) della [legge 4 luglio 1886, n. 3962](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1886-07-04;3962);
+Vista la relazione 28 febbraio 1903, colla quale venne accertato il compimento della bonifica a norma degli [articoli 48 della legge 25 giugno 1882, n. 869 e 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1882-06-25;6#art_48) della [legge 4 luglio 1886, n. 3962](Concernente%20la%20bonificazione%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20086U3962.md);
 
 Visto il risultato della pubblicazione della relazione suddetta, che ebbe luogo nei comuni interessati, senza dar luogo ad opposizioni o reclami;
 
@@ -38,25 +36,18 @@ Ritenuto che, essendosi la detta collaudazione effettuata l'8 novembre 1901, il 
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
-
-  
-  
-A complemento dell'annualita' assegnata al Consorzio di Gorzon Medio (Padova), col Nostro decreto 18 luglio 1893, n. 567, quale concorso dello Stato nella spesa occorsa per l'esecuzione delle opere di bonificazione concesse al Consorzio medesimo col citato decreto, e' accordata un'annualita' complementare definitiva di L. 4558.20 (lire quattromilacinquecentocinquantotto e cent. venti), per la durata di anni venticinque a decorrere dall'esercizio finanziario 1902-903.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 aprile 1904.   
-  
-VITTORIO EMANUELE.   
-  
-TEDESCO.   
-  
-Visto, Il Guardasigilli: RONCHETTI.   
-  
+A complemento dell'annualita' assegnata al Consorzio di Gorzon Medio (Padova), col Nostro decreto 18 luglio 1893, n. 567, quale concorso dello Stato nella spesa occorsa per l'esecuzione delle opere di bonificazione concesse al Consorzio medesimo col citato decreto, e' accordata un'annualita' complementare definitiva di L. 4558.20 (lire quattromilacinquecentocinquantotto e cent. venti), per la durata di anni venticinque a decorrere dall'esercizio finanziario 1902-903. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 aprile 1904. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ TEDESCO. 
+ 
+ Visto, Il Guardasigilli: RONCHETTI.

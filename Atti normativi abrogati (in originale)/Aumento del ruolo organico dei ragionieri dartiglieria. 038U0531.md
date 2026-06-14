@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 21 marzo 1938 n. 531
-
-
-REGIO DECRETO-LEGGE 21 marzo 1938 n. 531
-========================================
-
-Aumento del ruolo organico dei ragionieri d'artiglieria. (038U0531)
--------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/05/1938.  
-Regio Decreto-Legge convertito dalla [L. 22 dicembre 1938, n. 2146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-12-22;2146) (in G.U. 13/02/1939, n.36).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 531
+data: 1938-03-21
+titolo: "Aumento del ruolo organico dei ragionieri d'artiglieria. (038U0531)"
+urn: urn:nir:stato:regio.decreto.legge:1938-03-21;531
+codice_redazionale: 038U0531
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -35,50 +32,39 @@ Visto il R. decreto 16 marzo 1938-XVI, con cui viene conferita al Duce, Primo Mi
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Al ruolo organico dei ragionieri di artiglieria (gruppo B), di cui al testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti, approvato con R. decreto 23 febbraio 1928-VI, n. 327, e' apportata la seguente modificazione: 
+ 
+ 
 
-  
-  
-Al ruolo organico dei ragionieri di artiglieria (gruppo B), di cui al testo unico delle leggi sull'ordinamento dell'Amministrazione centrale della guerra e dei personali civili dipendenti, approvato con R. decreto 23 febbraio 1928-VI, n. 327, e' apportata la seguente modificazione:   
-  
-  
-  
-  
-  
-Grado Numero dei posti in aumento  
-  
-9° Primi ragionieri ................... 15  
-10° Ragionieri ........................\  
-15  
-11° Vice ragionieri .................../  
-----  
-30  
-  
-  
 
-Art. 2
-------
 
-  
-  
-Il presente decreto entrera' in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 marzo 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 13 maggio 1938 - Anno XVI   
-  
-Atti del Governo, registro 397, foglio 75 - MANCINI.   
+Grado Numero dei posti in aumento
+
+9° Primi ragionieri ................... 15
+10° Ragionieri ........................\
+ 15
+11° Vice ragionieri .................../
+ ----
+ 30
+
+## Art. 2.
+
+Il presente decreto entrera' in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 21 marzo 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 13 maggio 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 397, foglio 75 - MANCINI.

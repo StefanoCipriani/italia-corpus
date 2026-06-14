@@ -1,17 +1,14 @@
-DECRETO-LEGGE LUOGOTENENZIALE 23 febbraio 1919 n. 349
-
-
-DECRETO-LEGGE LUOGOTENENZIALE 23 febbraio 1919 n. 349
-=====================================================
-
-Che chiama a far parte del Consiglio ippico conte membro di diritto l'ispettore superiore addetto ai servizi zootecnici presso il Ministero di agricoltura. (019U0349)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/04/1919  
-Decreto-Legge Luogotenenziale convertito dalla [L. 18 maggio 1922, n. 661](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1922-05-18;661) (in G.U. 31/05/1922, n.127).
+---
+tipo: DECRETO-LEGGE LUOGOTENENZIALE
+numero: 349
+data: 1919-02-23
+titolo: "Che chiama a far parte del Consiglio ippico conte membro di diritto l'ispettore superiore addetto ai servizi zootecnici presso il Ministero di agricoltura. (019U0349)"
+urn: urn:nir:stato:decreto.legge.luogotenenziale:1919-02-23;349
+codice_redazionale: 019U0349
+vigente: true
+---
 
 TOMASO DI SAVOIA DUCA DI GENOVA
--------------------------------
 
 Luogotenente Generale di Sua Maesta'
 
@@ -23,35 +20,28 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto l'[art. 7 della legge 26 giugno 1887, n. 4644](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-06-26;4644~art7) (serie 3ª);
+Visto l'[art. 7 della legge 26 giugno 1887, n. 4644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-06-26;4644#art_7) (serie 3ª);
 
-Vista la [legge 11 luglio 1904 n. 359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;359);
+Vista la [legge 11 luglio 1904 n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;359);
 
 Ritenuta la opportunita' che del Consiglio ippico faccia parte anche l'ispettore superiore addetto ai servizi zootecnici;
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del ministro segretario di Stato per l'agricoltura; Abbiamo decretato e decretiamo:
 
-proposta del ministro segretario di Stato per l'agricoltura; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'ispettore superiore addetto ai servizi zootecnici presso il Ministero per l'agricoltura e' chiamato a far parte del Consiglio ippico come membro di diritto.   
-  
-Il presente decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 febbraio 1919.   
-  
-TOMASO Dl SAVOIA   
-  
-Orlando - Riccio.   
-  
-Visto, Il guardasigilli: Facta.   
-  
+L'ispettore superiore addetto ai servizi zootecnici presso il Ministero per l'agricoltura e' chiamato a far parte del Consiglio ippico come membro di diritto. 
+ 
+ Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 febbraio 1919. 
+ 
+ TOMASO Dl SAVOIA 
+ 
+ Orlando - Riccio. 
+ 
+ Visto, Il guardasigilli: Facta.

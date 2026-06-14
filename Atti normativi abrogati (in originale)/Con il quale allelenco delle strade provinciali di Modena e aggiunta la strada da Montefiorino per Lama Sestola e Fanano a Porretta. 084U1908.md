@@ -1,22 +1,20 @@
-REGIO DECRETO 24 gennaio 1884 n. 1908
-
-
-REGIO DECRETO 24 gennaio 1884 n. 1908
-=====================================
-
-Con il quale all'elenco delle strade provinciali di Modena e' aggiunta la strada da Montefiorino per Lama, Sestola e Fanano a Porretta. (084U1908)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/03/1884
+---
+tipo: REGIO DECRETO
+numero: 1908
+data: 1884-01-24
+titolo: "Con il quale all'elenco delle strade provinciali di Modena e' aggiunta la strada da Montefiorino per Lama, Sestola e Fanano a Porretta. (084U1908)"
+urn: urn:nir:stato:regio.decreto:1884-01-24;1908
+codice_redazionale: 084U1908
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333), nella quale al n. 40 dell'elenco 3°, annesso alla tabella B, trovasi iscritta la strada da Montefiorino per Lama Sestola e Fanano a Porretta con diramazione da Sestola a Pieve Pelago;
+Vista la [legge 23 luglio 1881, n. 333](Che%20autorizza%20la%20spesa%20di%20lire%20225126704%20per%20la%20costruzione%20di%20nuove%20opere%20straordinarie%20stradali%20ed%20idrauliche%20nel%20quindicennio%201881-1895.%20081U0333.md), nella quale al n. 40 dell'elenco 3°, annesso alla tabella B, trovasi iscritta la strada da Montefiorino per Lama Sestola e Fanano a Porretta con diramazione da Sestola a Pieve Pelago;
 
 Vista la deliberazione del Consiglio provinciale di Modena del 4 dicembre 1882, e la lettera di quella Deputazione provinciale, in data 5 settembre 1883, n. 1661;
 
@@ -28,26 +26,18 @@ Visto l'articolo 14 della legge 20 marzo 1865 sulle opere pubbliche;
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-All'elenco delle strade provinciali di Modena e' aggiunta, per la parte che riguarda la provincia stessa, la strada da Montefiorino per Lama, Sestola e Fanano a Porretta, con diramazione da Sestola a Pieve Pelago, iscritta al n. 40 dello elenco 3°, annesso alla tabella B della [legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333)
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 gennaio 1884.   
-  
-UMBERTO.   
-  
-Genala.   
-  
-Visto, Il Guardasigilli: Savelli.   
-  
+All'elenco delle strade provinciali di Modena e' aggiunta, per la parte che riguarda la provincia stessa, la strada da Montefiorino per Lama, Sestola e Fanano a Porretta, con diramazione da Sestola a Pieve Pelago, iscritta al n. 40 dello elenco 3°, annesso alla tabella B della [legge 23 luglio 1881, n. 333](Che%20autorizza%20la%20spesa%20di%20lire%20225126704%20per%20la%20costruzione%20di%20nuove%20opere%20straordinarie%20stradali%20ed%20idrauliche%20nel%20quindicennio%201881-1895.%20081U0333.md) 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 gennaio 1884. 
+ 
+ UMBERTO. 
+ 
+ Genala. 
+ 
+ Visto, Il Guardasigilli: Savelli.

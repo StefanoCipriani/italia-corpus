@@ -1,16 +1,14 @@
-REGIO DECRETO 17 marzo 1941 n. 336
-
-
-REGIO DECRETO 17 marzo 1941 n. 336
-==================================
-
-Approvazione di variante al piano regolatore di massima della citta' di Milano per la formazione di due nuove vie tra la via Montebello e la via Moscova. (041U0336)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/05/1941
+---
+tipo: REGIO DECRETO
+numero: 336
+data: 1941-03-17
+titolo: "Approvazione di variante al piano regolatore di massima della citta' di Milano per la formazione di due nuove vie tra la via Montebello e la via Moscova. (041U0336)"
+urn: urn:nir:stato:regio.decreto:1941-03-17;336
+codice_redazionale: 041U0336
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -42,7 +40,7 @@ Considerato che la variante puo' essere attuata nella durata del piano di massim
 
 Visto il parere n. 433 del 15 febbraio 1940-XVIII del Consiglio superiore dei lavori pubblici;
 
-Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md);
 
 Visto l'art. 4 del R. decreto-legge 21 giugno 1938-XVI, n. 1094, convertito nella legge 5 gennaio 1939-XVII, n. 35;
 
@@ -50,36 +48,30 @@ Sentito il Consiglio dei Ministri;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con i Ministri per la grazia e giustizia e per le finanze;
 
-Viste
------
+Viste le deleghe rilasciate ai Sottosegretari di Stato per i Ministeri di grazia e giustizia, delle finanze e dei lavori pubblici; Abbiamo decretato e decretiamo:
 
-le deleghe rilasciate ai Sottosegretari di Stato per i Ministeri di grazia e giustizia, delle finanze e dei lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ai sensi e per gli effetti della citata legge 19 febbraio 1934-XII, n. 433, e successive modificazioni, e' approvata la variante al piano regolatore di massima della citta' di Milano per la formazione di due nuove vie di piano regolatore tra la via Montebello e la via Moscova e per la conseguente rettifica del fronte fabbricabile nord della via Montebello per renderlo parallelo a quello sud.   
-  
-Detto piano di variante, vistato d'ordine Nostro dal Ministro proponente in una planimetria in iscala 1:1000, in data 20 dicembre 1938-XVII ed a firma dell'ingegnere Bonicatti, sara' depositata all'Archivio di Stato.   
-  
-Tutte le costruzioni e ricostruzioni, eseguite sia dai privati che dal Comune o suoi concessionari per l'attuazione delle presenti varianti, che saranno compiute entro dieci anni dalla data del presente decreto, godranno della esenzione venticinquennale dalla normale imposta sui fabbricati e dalle relative sovrimposte, comunale e provinciale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 17 marzo 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - CALLETTI - PUTZOLU - LISSIA   
-  
-Visto:   
-  
-(ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76)   
-  
-MUSSOLINI   
-  
-Registrato alla Corte dei conti, addi' 11 maggio 1941-XIX   
-  
-Atti del Governo, registro 433, foglio 53. - MANCINI   
+Ai sensi e per gli effetti della citata legge 19 febbraio 1934-XII, n. 433, e successive modificazioni, e' approvata la variante al piano regolatore di massima della citta' di Milano per la formazione di due nuove vie di piano regolatore tra la via Montebello e la via Moscova e per la conseguente rettifica del fronte fabbricabile nord della via Montebello per renderlo parallelo a quello sud. 
+ 
+ Detto piano di variante, vistato d'ordine Nostro dal Ministro proponente in una planimetria in iscala 1:1000, in data 20 dicembre 1938-XVII ed a firma dell'ingegnere Bonicatti, sara' depositata all'Archivio di Stato. 
+ 
+ Tutte le costruzioni e ricostruzioni, eseguite sia dai privati che dal Comune o suoi concessionari per l'attuazione delle presenti varianti, che saranno compiute entro dieci anni dalla data del presente decreto, godranno della esenzione venticinquennale dalla normale imposta sui fabbricati e dalle relative sovrimposte, comunale e provinciale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 marzo 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - CALLETTI - PUTZOLU - LISSIA 
+ 
+ Visto: 
+ 
+ (ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76) 
+ 
+ MUSSOLINI 
+ 
+ Registrato alla Corte dei conti, addi' 11 maggio 1941-XIX 
+ 
+ Atti del Governo, registro 433, foglio 53. - MANCINI

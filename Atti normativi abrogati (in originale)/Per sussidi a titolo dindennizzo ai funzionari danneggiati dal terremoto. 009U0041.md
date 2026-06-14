@@ -1,16 +1,14 @@
-REGIO DECRETO 04 febbraio 1909 n. 41
-
-
-REGIO DECRETO 04 febbraio 1909 n. 41
-====================================
-
-Per sussidi a titolo d'indennizzo ai funzionari danneggiati dal terremoto. (009U0041)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/02/1909
+---
+tipo: REGIO DECRETO
+numero: 41
+data: 1909-02-04
+titolo: "Per sussidi a titolo d'indennizzo ai funzionari danneggiati dal terremoto. (009U0041)"
+urn: urn:nir:stato:regio.decreto:1909-02-04;41
+codice_redazionale: 009U0041
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,34 +24,27 @@ Viste le leggi 24 maggio e 30 giugno 1908, nn. 205 e 311, che approvano rispetti
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-  
-E' autorizzata la prelevazione delle eccedenze di cassa provenienti dagli avanzi dell'esercizio 1907 - 908, della somma di lire settantottomila (L.78,000), in conto dell'assegnazione di L. 30,000,000 stabilita dall'[art. 1 della legge 12 gennaio 1909, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-01-12;12~art1).   
-  
-Tale somma verra' inscritta ai seguenti capitoli dello stato di previsione dell'entrata e di quello della spesa del Ministero delle finanze per l' esercizio finanziario 1908-909;   
-  
-Entrata: Cap. n. 193-bis «Prelevamenti dalle eccedenze di Cassa provenienti dagli avanzi dell'esercizio 1907-908 da destinarsi a bisogni ed opere urgenti o a riparare o ricostruire edifici pubblici danneggiati dal terremoto del 28 dicembre 1908, a termini dell'[art.1 della legge 12 gennaio 1909, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-01-12;12~art1)».   
-  
-Ministero delle finanze   
-  
-Spesa: Cap. n. 258-bis «Assegnazione prelevata dal fondo di L. 30,000,000, di cui all'[art. 1 della legge 12 gennaio 1909, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-01-12;12~art1), per corrispondere sussidi a titolo d'indennizzo ai funzionari danneggiati dal terremoto del 28 dicembre 1908».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 febbraio 1909.   
-  
-VITTORIO EMANUELE.   
-  
-GIOLITTI.   
-CARCANO.   
-  
-Visto, Il guardasigilli: ORLANDO.   
-  
+E' autorizzata la prelevazione delle eccedenze di cassa provenienti dagli avanzi dell'esercizio 1907 - 908, della somma di lire settantottomila (L.78,000), in conto dell'assegnazione di L. 30,000,000 stabilita dall'[art. 1 della legge 12 gennaio 1909, n. 12](Concernente%20provvedimenti%20a%20sollievo%20dei%20danneggiali%20dal%20terremoto%20del%2028%20dicembre%201908.%20009U0012.md). 
+ 
+ Tale somma verra' inscritta ai seguenti capitoli dello stato di previsione dell'entrata e di quello della spesa del Ministero delle finanze per l' esercizio finanziario 1908-909; 
+ 
+ Entrata: Cap. n. 193-bis «Prelevamenti dalle eccedenze di Cassa provenienti dagli avanzi dell'esercizio 1907-908 da destinarsi a bisogni ed opere urgenti o a riparare o ricostruire edifici pubblici danneggiati dal terremoto del 28 dicembre 1908, a termini dell'[art.1 della legge 12 gennaio 1909, n. 12](Concernente%20provvedimenti%20a%20sollievo%20dei%20danneggiali%20dal%20terremoto%20del%2028%20dicembre%201908.%20009U0012.md)». 
+ 
+ Ministero delle finanze 
+ 
+ Spesa: Cap. n. 258-bis «Assegnazione prelevata dal fondo di L. 30,000,000, di cui all'[art. 1 della legge 12 gennaio 1909, n. 12](Concernente%20provvedimenti%20a%20sollievo%20dei%20danneggiali%20dal%20terremoto%20del%2028%20dicembre%201908.%20009U0012.md), per corrispondere sussidi a titolo d'indennizzo ai funzionari danneggiati dal terremoto del 28 dicembre 1908». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 febbraio 1909. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ GIOLITTI. 
+ CARCANO. 
+ 
+ Visto, Il guardasigilli: ORLANDO.

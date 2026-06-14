@@ -1,16 +1,14 @@
-REGIO DECRETO 11 marzo 1880 n. 5347
-
-
-REGIO DECRETO 11 marzo 1880 n. 5347
-===================================
-
-Che separa i comuni di Sant'Antonino di Susa e Vayes dalla sezione elettorale di Bussoleno, e forma una sezione distinta del collegio di Susa con sede in Sant'Antonino. (080U5347)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/04/1880
+---
+tipo: REGIO DECRETO
+numero: 5347
+data: 1880-03-11
+titolo: "Che separa i comuni di Sant'Antonino di Susa e Vayes dalla sezione elettorale di Bussoleno, e forma una sezione distinta del collegio di Susa con sede in Sant'Antonino. (080U5347)"
+urn: urn:nir:stato:regio.decreto:1880-03-11;5347
+codice_redazionale: 080U5347
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,26 +24,19 @@ Che i due comuni contano complessivamente 51 elettori, numero questo superiore a
 
 Considerata la convenienza d'istituire una sezione elettorale in Sant'Antonino, al fine di rendere piu' facile agli elettori l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Sant'Antonino di Susa e Vayes sono separati dalla sezione elettorale di Bussoleno e formeranno una sezione distinta del Collegio elettorale Susa, con sede in Sant'Antonino.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 marzo 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+I comuni di Sant'Antonino di Susa e Vayes sono separati dalla sezione elettorale di Bussoleno e formeranno una sezione distinta del Collegio elettorale Susa, con sede in Sant'Antonino. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

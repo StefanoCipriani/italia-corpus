@@ -1,18 +1,18 @@
-DECRETO LUOGOTENENZIALE 30 giugno 1918 n. 1055
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1055
+data: 1918-06-30
+titolo: "Sostituzione di Delegazione internazionale. (018U1055)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-06-30;1055
+codice_redazionale: 018U1055
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 30 giugno 1918 n. 1055
-==============================================
-
-Sostituzione di Delegazione internazionale. (018U1055)
-------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/08/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1055. Decreto Luogotenenziale 30 giugno 1918, col quale, sulla proposta del ministro dei lavori pubblici, in sostituzione del comm.  
+1055.
+
+Decreto Luogotenenziale 30 giugno 1918, col quale, sulla proposta del ministro dei lavori pubblici, in sostituzione del comm.
 ing. Alberto Brandani, e' chiamato a far parte della rappresentanza italiana nella delegazione internazionale per gli affari della ferrovia del Sempione, il comm. ingegnere Celestino Fasolini, capo compartimento delle ferrovie dello Stato.

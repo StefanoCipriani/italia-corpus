@@ -1,16 +1,14 @@
-REGIO DECRETO 23 settembre 1874 n. 2183
-
-
-REGIO DECRETO 23 settembre 1874 n. 2183
-=======================================
-
-Che modifica l'elenco delle strade provinciali di Campobasso (074U2183)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/11/1874
+---
+tipo: REGIO DECRETO
+numero: 2183
+data: 1874-09-23
+titolo: "Che modifica l'elenco delle strade provinciali di Campobasso (074U2183)"
+urn: urn:nir:stato:regio.decreto:1874-09-23;2183
+codice_redazionale: 074U2183
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,7 +30,7 @@ Veduto il rapporto 14 gennaio 1874 dello ingegnerecapo governativo di Campobasso
 
 Veduto il parere 14 febbraio successivo del Consiglio superiore dei Lavori Pubblici;
 
-Veduti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13), [14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), [15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art15), [21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art21) e [25 della legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art25) (Allegato F);
+Veduti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), [15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_15), [21](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_21) e [25 della legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_25) (Allegato F);
 
 Considerando
 
@@ -46,31 +44,20 @@ Che il tracciato per Bonefro e Rotello, se non e' quello desiderato dalla provin
 
 Udito l'avviso del Consiglio di Stato,
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' modificato l'elenco delle strade provinciali di Campobasso con sostituire al n. 6 dell'elenco stesso la strada «dalla Nazionale Sannitica presso Cerrosecco per Bonefro e Rotello al confine della provincia di Foggia nel piano Cantalupo» a quella «da Cerrosecco a Santa Croce di Magliano».
 
-  
-  
-E' modificato l'elenco delle strade provinciali di Campobasso con sostituire al n. 6 dell'elenco stesso la strada «dalla Nazionale Sannitica presso Cerrosecco per Bonefro e Rotello al confine della provincia di Foggia nel piano Cantalupo» a quella «da Cerrosecco a Santa Croce di Magliano».   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' approvato il tracciamento generale della suddetta prima linea secondo il piano e progetto 14 giugno 1873 dell'ufficio tecnico provinciale di Campobasso, quale piano sara' vidimato d'ordine Nostro dal predetto Ministro.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sommariva Perno, addi' 23 settembre 1874.   
-  
-VITTORIO EMANUELE.   
-  
-S. Spaventa.   
-  
+E' approvato il tracciamento generale della suddetta prima linea secondo il piano e progetto 14 giugno 1873 dell'ufficio tecnico provinciale di Campobasso, quale piano sara' vidimato d'ordine Nostro dal predetto Ministro. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sommariva Perno, addi' 23 settembre 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ S. Spaventa.

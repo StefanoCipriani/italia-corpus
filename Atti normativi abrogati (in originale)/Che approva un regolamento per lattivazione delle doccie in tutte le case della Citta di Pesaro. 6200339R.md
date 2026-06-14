@@ -1,19 +1,15 @@
-REGIO DECRETO 30 marzo 1862 n. CCCXXXIX
+---
+tipo: REGIO DECRETO
+numero: CCCXXXIX
+data: 1862-03-30
+titolo: "Che approva un regolamento per l'attivazione delle doccie in tutte le case della Citta' di Pesaro. (6200339R)"
+urn: urn:nir:stato:regio.decreto:1862-03-30;339
+codice_redazionale: 6200339R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 marzo 1862 n. CCCXXXIX
-=======================================
-
-Che approva un regolamento per l'attivazione delle doccie in tutte le case della Citta' di Pesaro. (6200339R)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/03/1862
-
-Art. 1
-------
-
-  
-Che approva un regolamento per l'attivazione delle doccie in tutte le case della Citta' di Pesaro deliberato da quel Municipio in seduta del 21 gennaio p. p.   
-  
-Torino 30 marzo 1862   
-  
+Che approva un regolamento per l'attivazione delle doccie in tutte le case della Citta' di Pesaro deliberato da quel Municipio in seduta del 21 gennaio p. p. 
+ 
+ Torino 30 marzo 1862

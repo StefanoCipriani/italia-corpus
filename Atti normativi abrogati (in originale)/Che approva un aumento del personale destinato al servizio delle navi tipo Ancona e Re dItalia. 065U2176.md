@@ -1,16 +1,14 @@
-REGIO DECRETO 26 febbraio 1865 n. 2176
-
-
-REGIO DECRETO 26 febbraio 1865 n. 2176
-======================================
-
-Che approva un aumento del personale destinato al servizio delle navi tipo Ancona e Re d'Italia. (065U2176)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/03/1865
+---
+tipo: REGIO DECRETO
+numero: 2176
+data: 1865-02-26
+titolo: "Che approva un aumento del personale destinato al servizio delle navi tipo Ancona e Re d'Italia. (065U2176)"
+urn: urn:nir:stato:regio.decreto:1865-02-26;2176
+codice_redazionale: 065U2176
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,40 +18,33 @@ Vista la tabella n.° 1 annessa al Regolamento 14 giugno 1863;
 
 Visto il Regio Decreto delli 7 settembre 1864;
 
-Sulla
------
+Sulla proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvato l'aumento del Personale destinato al servizio delle navi tipo Ancona e Re d'Italia, colonna C, colle modifiche seguenti:   
-sul tipo Ancona   
-  
-da 2 a 4 il numero degli operai fuochisti;   
-  
-da 8 a 12 il numero dei marinari fuochisti.   
-  
-sul tipo Re d'Italia   
-  
-da 2 a 4 il numero degli operai fuochisti;   
-  
-da 8 a 14 il numero dei marinari fuochisti.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Torino addi' 26 febbraio 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 8 marzo 1865   
-  
-Reg.° 32 Atti del Governo a c. 163. Salvaja.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-D. Angioletti.   
-  
+E' approvato l'aumento del Personale destinato al servizio delle navi tipo Ancona e Re d'Italia, colonna C, colle modifiche seguenti:  
+ sul tipo Ancona 
+ 
+ da 2 a 4 il numero degli operai fuochisti; 
+ 
+ da 8 a 12 il numero dei marinari fuochisti. 
+ 
+ sul tipo Re d'Italia 
+ 
+ da 2 a 4 il numero degli operai fuochisti; 
+ 
+ da 8 a 14 il numero dei marinari fuochisti. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Torino addi' 26 febbraio 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 8 marzo 1865 
+ 
+ Reg.° 32 Atti del Governo a c. 163. Salvaja. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ D. Angioletti.

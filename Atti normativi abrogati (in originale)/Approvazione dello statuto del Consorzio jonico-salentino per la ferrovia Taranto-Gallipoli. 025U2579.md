@@ -1,16 +1,14 @@
-REGIO DECRETO 27 dicembre 1925 n. 2579
-
-
-REGIO DECRETO 27 dicembre 1925 n. 2579
-======================================
-
-Approvazione dello statuto del Consorzio jonico-salentino per la ferrovia Taranto-Gallipoli. (025U2579)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/03/1926
+---
+tipo: REGIO DECRETO
+numero: 2579
+data: 1925-12-27
+titolo: "Approvazione dello statuto del Consorzio jonico-salentino per la ferrovia Taranto-Gallipoli. (025U2579)"
+urn: urn:nir:stato:regio.decreto:1925-12-27;2579
+codice_redazionale: 025U2579
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,49 +24,34 @@ Visto il citato testo unico approvato con Nostro decreto 9 maggio 1912, n. 1447;
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici e per l'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici e per l'interno; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvato lo statuto del Consorzio costituito fra i comuni di Taranto, Nardo', Gallipoli, Sava, Lizzano, San Giorgio, San Marzano di San Giuseppe, Avetrana, Fragagnano, Faggiano, Carosino, Monteparano, Manduria, Pulsano e Leporano per la costruzione e l'esercizio della ferrovia Taranto-Gallipoli, nei termini dello schema approvato dall'assemblea dei rappresentanti consorziali nell'adunanza del 15 giugno 1925.
 
-  
-  
-E' approvato lo statuto del Consorzio costituito fra i comuni di Taranto, Nardo', Gallipoli, Sava, Lizzano, San Giorgio, San Marzano di San Giuseppe, Avetrana, Fragagnano, Faggiano, Carosino, Monteparano, Manduria, Pulsano e Leporano per la costruzione e l'esercizio della ferrovia Taranto-Gallipoli, nei termini dello schema approvato dall'assemblea dei rappresentanti consorziali nell'adunanza del 15 giugno 1925.   
+## Art. 2.
 
-Art. 2
-------
+Con l'approvazione del predetto statuto s'intende impregiudicata ogni determinazione del Governo circa la concessione della costruzione e dell'esercizio della ferrovia.
 
-  
-  
-Con l'approvazione del predetto statuto s'intende impregiudicata ogni determinazione del Governo circa la concessione della costruzione e dell'esercizio della ferrovia.   
+## Art. 3.
 
-Art. 3
-------
+I comuni di Taranto, Nardo', Gallipoli, Sava, Lizzano, San Giorgio, San Marzano di San Giuseppe, Avetrana, Fragagnano, Faggiano, Carosino, Monteparano, Manduria, Pulsano, Leporano e le provincie di Lecce e di Taranto sono autorizzati a stanziare nei bilanci dal 1926 al 1975 incluso, le quote annue per la costituzione del capitale consorziale apportato da ciascuno dei detti Enti a norma dell'art. 7 dello statuto.
 
-  
-  
-I comuni di Taranto, Nardo', Gallipoli, Sava, Lizzano, San Giorgio, San Marzano di San Giuseppe, Avetrana, Fragagnano, Faggiano, Carosino, Monteparano, Manduria, Pulsano, Leporano e le provincie di Lecce e di Taranto sono autorizzati a stanziare nei bilanci dal 1926 al 1975 incluso, le quote annue per la costituzione del capitale consorziale apportato da ciascuno dei detti Enti a norma dell'art. 7 dello statuto.   
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Un esemplare del predetto statuto viene vistato, d'ordine Nostro, dal Ministro Segretario di Stato per i lavori pubblici, e costituisce parte integrante del presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 dicembre 1925.   
-  
-VITTORIO EMANUELE.   
-  
-Giuriati - Federzoni.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 4 marzo 1926.   
-  
-Atti del Governo, registro 246, foglio 31. - Coop.   
+Un esemplare del predetto statuto viene vistato, d'ordine Nostro, dal Ministro Segretario di Stato per i lavori pubblici, e costituisce parte integrante del presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 dicembre 1925. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giuriati - Federzoni. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 4 marzo 1926. 
+ 
+ Atti del Governo, registro 246, foglio 31. - Coop.

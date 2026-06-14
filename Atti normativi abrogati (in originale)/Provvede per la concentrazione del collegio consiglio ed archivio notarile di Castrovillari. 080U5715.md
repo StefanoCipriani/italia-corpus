@@ -1,16 +1,14 @@
-REGIO DECRETO 04 novembre 1880 n. 5715
-
-
-REGIO DECRETO 04 novembre 1880 n. 5715
-======================================
-
-Provvede per la concentrazione del collegio, consiglio ed archivio notarile di Castrovillari. (080U5715)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/12/1880
+---
+tipo: REGIO DECRETO
+numero: 5715
+data: 1880-11-04
+titolo: "Provvede per la concentrazione del collegio, consiglio ed archivio notarile di Castrovillari. (080U5715)"
+urn: urn:nir:stato:regio.decreto:1880-11-04;5715
+codice_redazionale: 080U5715
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,25 +22,19 @@ Ritenuto che in tale condizione di cose diventa imprescindibile necessita' di fa
 
 Considerando che il distretto notarile di Castrovillari, per le sue condizioni locali e per il voto espresso dalla maggior parte dei comuni che lo compongono, e' opportuno che venga riunito al distretto di Cosenza, capoluogo della provincia;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Collegio, il Consiglio e l'Archivio notarile di Castrovillari sono soppressi e riuniti al distretto notarile di Cosenza, capoluogo della provincia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 4 novembre 1880.   
-  
-UMBERTO.   
-  
-T. Villa.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
+Il Collegio, il Consiglio e l'Archivio notarile di Castrovillari sono soppressi e riuniti al distretto notarile di Cosenza, capoluogo della provincia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 4 novembre 1880. 
+ 
+ UMBERTO. 
+ 
+ T. Villa. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

@@ -1,16 +1,14 @@
-REGIO DECRETO 04 aprile 1878 n. 4338
-
-
-REGIO DECRETO 04 aprile 1878 n. 4338
-====================================
-
-Che separa il comune di Camposano dalla sezione principale del collegio elettorale di Cicciano e lo costituisce in sezione distinta dello stesso collegio. (078U4338)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/04/1878
+---
+tipo: REGIO DECRETO
+numero: 4338
+data: 1878-04-04
+titolo: "Che separa il comune di Camposano dalla sezione principale del collegio elettorale di Cicciano e lo costituisce in sezione distinta dello stesso collegio. (078U4338)"
+urn: urn:nir:stato:regio.decreto:1878-04-04;4338
+codice_redazionale: 078U4338
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Camposano e' separato dalla sezione principale del Collegio elettorale di Cicciano, e formera' una sezione distinta dello stesso Collegio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 aprile 1878.   
-  
-UMBERTO.   
-  
-G. Zanardelli.   
-  
+Il comune di Camposano e' separato dalla sezione principale del Collegio elettorale di Cicciano, e formera' una sezione distinta dello stesso Collegio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 aprile 1878. 
+ 
+ UMBERTO. 
+ 
+ G. Zanardelli.

@@ -1,19 +1,15 @@
-REGIO DECRETO 08 febbraio 1863 n. DCLXXXI
+---
+tipo: REGIO DECRETO
+numero: DCLXXXI
+data: 1863-02-08
+titolo: "Che approva alcune disposizioni di polizia urbana adottate dal Consiglio Comunale di Cento. (6300681R)"
+urn: urn:nir:stato:regio.decreto:1863-02-08;681
+codice_redazionale: 6300681R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 febbraio 1863 n. DCLXXXI
-=========================================
-
-Che approva alcune disposizioni di polizia urbana adottate dal Consiglio Comunale di Cento. (6300681R)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/02/1863
-
-Art. 1
-------
-
-  
-Che approva la deliberazione presa dal Consiglio Comunale di Cento nella seduta 19 settembre 1862, colla quale vennero adottate alcune disposizioni di polizia urbana.   
-  
-Torino 8 febbraio 1863.   
-  
+Che approva la deliberazione presa dal Consiglio Comunale di Cento nella seduta 19 settembre 1862, colla quale vennero adottate alcune disposizioni di polizia urbana. 
+ 
+ Torino 8 febbraio 1863.

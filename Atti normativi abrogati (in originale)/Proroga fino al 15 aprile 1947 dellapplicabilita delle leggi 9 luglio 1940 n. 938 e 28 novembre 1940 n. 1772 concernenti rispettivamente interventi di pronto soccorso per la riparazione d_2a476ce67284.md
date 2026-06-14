@@ -1,14 +1,14 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 12 aprile 1946 n. 256
-
-
-DECRETO LEGISLATIVO LUOGOTENENZIALE 12 aprile 1946 n. 256
-=========================================================
-
-Proroga, fino al 15 aprile 1947, dell'applicabilita' delle leggi 9 luglio 1940, n. 938, e 28 novembre 1940, n. 1772, concernenti, rispettivamente, interventi di pronto soccorso per la riparazione di opere pubbliche danneggiate in conseguenza di azioni belliche, e la sospensione durante lo stato di guerra, di opere pubbliche appaltate.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 256
+data: 1946-04-12
+titolo: "Proroga, fino al 15 aprile 1947, dell'applicabilita' delle leggi 9 luglio 1940, n. 938, e 28 novembre 1940, n. 1772, concernenti, rispettivamente, interventi di pronto soccorso per la riparazione di opere pubbliche danneggiate in conseguenza di azioni belliche, e la sospensione durante lo stato di guerra, di opere pubbliche appaltate."
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-12;256
+codice_redazionale: 046U0256
+vigente: true
+---
 
 UMBERTO DI SAVOIA
------------------
 
 PRINCIPE DI PIEMONTE
 
@@ -16,41 +16,35 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 9 luglio 1940, n. 938](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-09;938), concernente interventi di pronto soccorso per la riparazione di opere pubbliche danneggiate in conseguenza di azioni belliche;
+Vista la [legge 9 luglio 1940, n. 938](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-07-09;938), concernente interventi di pronto soccorso per la riparazione di opere pubbliche danneggiate in conseguenza di azioni belliche;
 
-Vista la [legge 28 novembre 1940, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-11-28;1772), concernente la sospensione durante lo stato di guerra di opere pubbliche appaltate;
+Vista la [legge 28 novembre 1940, n. 1772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-11-28;1772), concernente la sospensione durante lo stato di guerra di opere pubbliche appaltate;
 
-Visto il [decreto legislativo Luogotenenziale 8 febbraio 1946, n 49](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;49), relativo alla cessazione dello stato di guerra e passaggio della legislazione di guerra a quella di pace;
+Visto il [decreto legislativo Luogotenenziale 8 febbraio 1946, n 49](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-02-08;49), relativo alla cessazione dello stato di guerra e passaggio della legislazione di guerra a quella di pace;
 
 Ritenuta la necessita' di prorogare per un anno l'applicabilita' delle disposizioni contenute nelle citate leggi 9 luglio 1940 e 28 novembre 1940, che cesseranno di avere effetto al 15 aprile 1946;
 
-Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
+Visto il [decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151);
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-01;58);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Vista la deliberazione del Consiglio dei Ministri:
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per i lavori pubblici, di concerto con i Ministri Segretari di Stato per l'interno, per il tesoro, per le finanze, per la guerra, per la marina, per l'aeronautica, per l'agricoltura e foreste e per i trasporti; Abbiamo sanzionato e promulghiamo quanto segue:
 
-proposta del Ministro Segretario di Stato per i lavori pubblici, di concerto con i Ministri Segretari di Stato per l'interno, per il tesoro, per le finanze, per la guerra, per la marina, per l'aeronautica, per l'agricoltura e foreste e per i trasporti; Abbiamo sanzionato e promulghiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
+Le disposizioni contenute nelle [leggi 9 luglio 1940, n. 938 e 28 novembre 1940, n. 1772](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-11-28;1772), sono applicabili fino al 15 aprile 1947.
+ Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno.
 
-  
-  
-Le disposizioni contenute nelle [leggi 9 luglio 1940, n. 938 e 28 novembre 1940, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-11-28;1772), sono applicabili fino al 15 aprile 1947.  
-Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno.  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.  
-  
-Dato a Roma, addi' 12 aprile 1946  
-  
-UMBERTO DI SAVOIA  
-  
-DE GASPERI - CATTANI - ROMITA CORBINO - SCOCCIMARRO - BROSIO - DE COURTEN - CEVOLOTTO - GULLO - LOMBARDI   
-Visto, il Guardasigilli: TOGLIATTI  
-  
-Registrato alla Corte dei conti, addi' 6 maggio 1946  
-Atti del Governo, registro n. 10, foglio n. 34. - FRASCA  
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
+
+ Dato a Roma, addi' 12 aprile 1946
+
+ UMBERTO DI SAVOIA
+
+ DE GASPERI - CATTANI - ROMITA CORBINO - SCOCCIMARRO - BROSIO - DE COURTEN - CEVOLOTTO - GULLO - LOMBARDI 
+Visto, il Guardasigilli: TOGLIATTI
+
+ Registrato alla Corte dei conti, addi' 6 maggio 1946
+ Atti del Governo, registro n. 10, foglio n. 34. - FRASCA

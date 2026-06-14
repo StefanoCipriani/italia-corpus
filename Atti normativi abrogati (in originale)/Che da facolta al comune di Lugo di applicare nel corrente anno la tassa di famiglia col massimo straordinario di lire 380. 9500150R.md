@@ -1,21 +1,17 @@
-REGIO DECRETO 30 giugno 1895 n. CL
+---
+tipo: REGIO DECRETO
+numero: CL
+data: 1895-06-30
+titolo: "Che da' facolta' al comune di Lugo di applicare nel corrente anno la tassa di famiglia col massimo straordinario di lire 380. (9500150R)"
+urn: urn:nir:stato:regio.decreto:1895-06-30;150
+codice_redazionale: 9500150R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 giugno 1895 n. CL
-==================================
-
-Che da' facolta' al comune di Lugo di applicare nel corrente anno la tassa di famiglia col massimo straordinario di lire 380. (9500150R)
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/07/1895
-
-Art. 1
-------
-
-  
-Che da' facolta' al comune di Lugo di applicare nel corrente anno la tassa di famiglia col massimo straordinario di lire trecentottanta (L. 380) - Firmato UMBERTO - Contrassegnato P. Boselli - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 10 luglio 1895.   
-  
-Reg. 199. Atti del Governo a f. 54.   
-  
+Che da' facolta' al comune di Lugo di applicare nel corrente anno la tassa di famiglia col massimo straordinario di lire trecentottanta (L. 380) - Firmato UMBERTO - Contrassegnato P. Boselli - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 10 luglio 1895. 
+ 
+ Reg. 199. Atti del Governo a f. 54.

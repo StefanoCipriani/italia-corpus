@@ -1,16 +1,14 @@
-REGIO DECRETO 18 luglio 1867 n. 3846
-
-
-REGIO DECRETO 18 luglio 1867 n. 3846
-====================================
-
-Con cui e' soppressa la scuola di musica presso la Casa Reale Invalidi e Compagnie Veterani e Asti. (067U3846)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/09/1867
+---
+tipo: REGIO DECRETO
+numero: 3846
+data: 1867-07-18
+titolo: "Con cui e' soppressa la scuola di musica presso la Casa Reale Invalidi e Compagnie Veterani e Asti. (067U3846)"
+urn: urn:nir:stato:regio.decreto:1867-07-18;3846
+codice_redazionale: 067U3846
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,37 +22,26 @@ Visto che nell'intendimento di procedere alla soppressione della scuola stessa, 
 
 Ritenuto che per non essersi piu' fatto luogo ad ammissioni di nuovi allievi in detta scuola, per le destinazioni gia' date a vari di essi, e per lo scarso numero di quelli che tuttora vi rimangono, si presenterebbe ora la convenienza e l'opportunita' di addivenire senz'altro alla soppressione del mentovato istituto;
 
-Sulla
------
+Sulla proposta del Ministro della Guerra; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Ministro della Guerra; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+La scuola di musica istituita presso la Casa Reale Invalidi e Compagnie Veterani d'Asti e' soppressa a datare dal 1° del volgente mese di luglio.
 
-  
-  
-La scuola di musica istituita presso la Casa Reale Invalidi e Compagnie Veterani d'Asti e' soppressa a datare dal 1° del volgente mese di luglio.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il Ministro della Guerra provvedera' per le destinazioni da darsi ai personali addetti alla suindicata scuola ed agli allievi che ancora vi appartengono, gia' arruolati per la ferma d'ordinanza, o prossimi a compiere il 17° anno, i quali siano riconosciuti idonei a proseguire il servizio militare e sufficientemente istruiti per fare riuscita nella musica.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 18 luglio 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 27 luglio 1867   
-  
-Reg. 40 Atti del Governo a c. 169. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Tecchio.   
-  
-G. Di Revel.   
-  
+Il Ministro della Guerra provvedera' per le destinazioni da darsi ai personali addetti alla suindicata scuola ed agli allievi che ancora vi appartengono, gia' arruolati per la ferma d'ordinanza, o prossimi a compiere il 17° anno, i quali siano riconosciuti idonei a proseguire il servizio militare e sufficientemente istruiti per fare riuscita nella musica. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 18 luglio 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 luglio 1867 
+ 
+ Reg. 40 Atti del Governo a c. 169. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Tecchio. 
+ 
+ G. Di Revel.

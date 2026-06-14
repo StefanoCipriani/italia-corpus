@@ -1,19 +1,19 @@
-REGIO DECRETO 19 febbraio 1931 n. 274
+---
+tipo: REGIO DECRETO
+numero: 274
+data: 1931-02-19
+titolo: "Modificazione dello statuto per il conferimento del posto di studio « Michele Valteroni », in Scansano. (031U0274)"
+urn: urn:nir:stato:regio.decreto:1931-02-19;274
+codice_redazionale: 031U0274
+vigente: true
+---
 
-
-REGIO DECRETO 19 febbraio 1931 n. 274
-=====================================
-
-Modificazione dello statuto per il conferimento del posto di studio « Michele Valteroni », in Scansano. (031U0274)
-------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/04/1931
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-274. R. decreto 19 febbraio 1931, col quale, sulla proposta del Ministro per l'educazione nazionale, vengono apportate alcune modificazioni allo statuto per il conferimento del posto di studio « Michele Valteroni » in Scansano.   
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 31 marzo 1931 - Anno IX
+274.
+
+R. decreto 19 febbraio 1931, col quale, sulla proposta del Ministro per l'educazione nazionale, vengono apportate alcune modificazioni allo statuto per il conferimento del posto di studio « Michele Valteroni » in Scansano. 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 31 marzo 1931 - Anno IX

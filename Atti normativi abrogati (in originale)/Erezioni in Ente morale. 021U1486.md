@@ -1,17 +1,13 @@
-REGIO DECRETO 19 settembre 1921 n. 1486
+---
+tipo: REGIO DECRETO
+numero: 1486
+data: 1921-09-19
+titolo: "Erezioni in Ente morale. (021U1486)"
+urn: urn:nir:stato:regio.decreto:1921-09-19;1486
+codice_redazionale: 021U1486
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 settembre 1921 n. 1486
-=======================================
-
-Erezioni in Ente morale. (021U1486)
------------------------------------
-
-Entrata in vigore del provvedimento: 27/11/1921
-
-Art. 1
-------
-
-  
-Col quale, su proposta del ministro dell'interno, presidente del Consiglio dei ministri l'istituzione «Ente figli del popolo» di Firenze, e' eretta in ente morale, con amministrazione autonoma, e ne e' approvato lo statuto organico con l'aggiunta di un comma all'art. 24   
-  
+Col quale, su proposta del ministro dell'interno, presidente del Consiglio dei ministri l'istituzione «Ente figli del popolo» di Firenze, e' eretta in ente morale, con amministrazione autonoma, e ne e' approvato lo statuto organico con l'aggiunta di un comma all'art. 24

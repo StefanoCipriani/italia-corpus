@@ -1,19 +1,15 @@
-REGIO DECRETO 04 febbraio 1906 n. XXV
+---
+tipo: REGIO DECRETO
+numero: XXV
+data: 1906-02-04
+titolo: "Erezione in ente morale. (0600025R)"
+urn: urn:nir:stato:regio.decreto:1906-02-04;25
+codice_redazionale: 0600025R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 febbraio 1906 n. XXV
-=====================================
-
-Erezione in ente morale. (0600025R)
------------------------------------
-
-Entrata in vigore del provvedimento: 27/03/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. XXV (Dato a Roma, il 4 febbraio 1906), col quale la fondazione Durini Litta Binmi Resta, in comune di Fabbrica Durini viene eretta in ente morale e ne viene approvato lo statuto organico.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. XXV (Dato a Roma, il 4 febbraio 1906), col quale la fondazione Durini Litta Binmi Resta, in comune di Fabbrica Durini viene eretta in ente morale e ne viene approvato lo statuto organico.

@@ -1,16 +1,14 @@
-REGIO DECRETO 04 aprile 1863 n. 1206
-
-
-REGIO DECRETO 04 aprile 1863 n. 1206
-====================================
-
-Contenente disposizioni provvisorie relative alle Pratiche legali nelle Provincie Toscane. (063U1206)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/04/1863
+---
+tipo: REGIO DECRETO
+numero: 1206
+data: 1863-04-04
+titolo: "Contenente disposizioni provvisorie relative alle Pratiche legali nelle Provincie Toscane. (063U1206)"
+urn: urn:nir:stato:regio.decreto:1863-04-04;1206
+codice_redazionale: 063U1206
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,37 +26,26 @@ Considerando che essendo da qualche tempo a questa parte rimaste senza personale
 
 Considerando che nello stato attuale delle cose e fino a che non sia provveduto con una Legge generale ed uniforme in tutto il Regno all'ordinamento di tali studi, apparisca di tutta giustizia l'accogliere favorevolmente le numerose petizioni avanzate dai giovani laureati dimoranti nel territorio giurisdizionale della Corte d'Appello di Lucca per riconseguire il beneficio loro attribuito dai regolamenti anteriori, e che la presente condizione di fatto dell'Istituto superiore di Firenze fa implicitamente e necessariamente rivivere;
 
-Sulla
------
+Sulla proposizione del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo quanto segue:
 
-proposizione del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+Provvisoriamente, e fino a nuove disposizioni, le Pratiche legali potranno farsi nelle Provincie Toscane dai giovani laureati in legge, nel modo e per tutto il quadriennio prescritto dai regolamenti in vigore, tanto presso la Corte d'Appello di Firenze come presso la Corte d'Appello di Lucca.
 
-  
-  
-Provvisoriamente, e fino a nuove disposizioni, le Pratiche legali potranno farsi nelle Provincie Toscane dai giovani laureati in legge, nel modo e per tutto il quadriennio prescritto dai regolamenti in vigore, tanto presso la Corte d'Appello di Firenze come presso la Corte d'Appello di Lucca.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-In cio' che non e' contrario alla disposizione dello articolo precedente rimarranno in vigore le norme stabilite dalle leggi e regolamenti sovracitati.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 4 aprile 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 9 aprile 1863   
-  
-Reg.° 23 Atti del Governo a c. 29bis. Salvaja.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-G. Pisanelli.   
-  
+In cio' che non e' contrario alla disposizione dello articolo precedente rimarranno in vigore le norme stabilite dalle leggi e regolamenti sovracitati. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 4 aprile 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 9 aprile 1863 
+ 
+ Reg.° 23 Atti del Governo a c. 29bis. Salvaja. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ G. Pisanelli.

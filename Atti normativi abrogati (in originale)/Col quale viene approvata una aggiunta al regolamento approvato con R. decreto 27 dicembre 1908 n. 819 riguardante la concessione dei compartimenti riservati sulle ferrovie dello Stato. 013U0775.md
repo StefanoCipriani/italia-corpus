@@ -1,16 +1,14 @@
-REGIO DECRETO 22 giugno 1913 n. 775
-
-
-REGIO DECRETO 22 giugno 1913 n. 775
-===================================
-
-Col quale viene approvata una aggiunta al regolamento approvato con R. decreto 27 dicembre 1908, n. 819, riguardante la concessione dei compartimenti riservati sulle ferrovie dello Stato. (013U0775)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/07/1913
+---
+tipo: REGIO DECRETO
+numero: 775
+data: 1913-06-22
+titolo: "Col quale viene approvata una aggiunta al regolamento approvato con R. decreto 27 dicembre 1908, n. 819, riguardante la concessione dei compartimenti riservati sulle ferrovie dello Stato. (013U0775)"
+urn: urn:nir:stato:regio.decreto:1913-06-22;775
+codice_redazionale: 013U0775
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,25 +20,18 @@ Udito il Consiglio d'amministrazione delle ferrovie dello Stato;
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per i lavori pubblici, di concerto col ministro del tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per i lavori pubblici, di concerto col ministro del tesoro; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata la seguente aggiunta alla lettera b) dell'art. 2 del regolamento annesso al [R. decreto 27 dicembre 1908, n. 819](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-12-27;819): «i tenenti generali in posizione ausiliaria, gia' designati pel comando di un'armata in guerra, richiamati in temporaneo servizio per incarichi speciali e finche' perdurino gli incarichi stessi».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 giugno 1913.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti - Sacchi - Tedesco.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+E' approvata la seguente aggiunta alla lettera b) dell'art. 2 del regolamento annesso al [R. decreto 27 dicembre 1908, n. 819](Che%20approva%20lannesso%20regolamento%20per%20la%20concessione%20di%20compartimenti%20riservati%20sulle%20ferrovie%20dello%20Stato.%20008U0819.md): «i tenenti generali in posizione ausiliaria, gia' designati pel comando di un'armata in guerra, richiamati in temporaneo servizio per incarichi speciali e finche' perdurino gli incarichi stessi». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 giugno 1913. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti - Sacchi - Tedesco. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

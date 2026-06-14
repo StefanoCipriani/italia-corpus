@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 19 novembre 1936 n. 2175
-
-
-REGIO DECRETO-LEGGE 19 novembre 1936 n. 2175
-============================================
-
-Temporanee modificazioni all'ordinamento del personale del ruolo di Governo dell'Amministrazione coloniale. (036U2175)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/01/1937.  
-Regio Decreto-Legge convertito dalla [L. 10 giugno 1937, n. 1064](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-06-10;1064) (in G.U. 15/07/1937, n.162).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 2175
+data: 1936-11-19
+titolo: "Temporanee modificazioni all'ordinamento del personale del ruolo di Governo dell'Amministrazione coloniale. (036U2175)"
+urn: urn:nir:stato:regio.decreto.legge:1936-11-19;2175
+codice_redazionale: 036U2175
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -35,33 +32,27 @@ Visto il R. decreto 1° ottobre 1936-XIV, con il quale viene conferita al Capo d
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per le colonie, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per le colonie, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Fino al 30 giugno 1937-XV, il Ministro per le colonie ha facolta' di procedere, su voto unanime del Consiglio di amministrazione, a promozioni per meriti eccezionali ai gradi 5°, 6° e 7° del personale del ruolo di Governo dell'Amministrazione coloniale prescindendo dai termini di servizio stabiliti dai due primi comma dell'art. 9 del R. decreto-legge 26 febbraio 1928-VI, n. 355, modificato dall'art. 1 del R. decreto-legge 21 dicembre 1933-XII, n. 1992.   
-  
-Ciascun funzionario non potra' conseguire piu' di una promozione per meriti eccezionali.   
-  
-Le disposizioni del precedente primo comma non sono applicabili ai funzionari promossi per meriti eccezionali in virtu' del disposto del secondo comma dell'art. 17 del Regio decreto-legge 2 giugno 1936-XIV, n. 1020.   
-  
-Il presente decreto entrera' in vigore dalla data della sua pubblicazione nella Gazzetta Ufficiale del Regno, e sara' presentato al Parlamento per la conversione in legge; il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo o di farlo osservare.   
-  
-Dato a Roma, addi' 19 novembre 1936 - Anno XV   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 31 dicembre 1936 - Anno XV   
-Atti dei Governo, registro 380, foglio 156. - Mancini   
+Fino al 30 giugno 1937-XV, il Ministro per le colonie ha facolta' di procedere, su voto unanime del Consiglio di amministrazione, a promozioni per meriti eccezionali ai gradi 5°, 6° e 7° del personale del ruolo di Governo dell'Amministrazione coloniale prescindendo dai termini di servizio stabiliti dai due primi comma dell'art. 9 del R. decreto-legge 26 febbraio 1928-VI, n. 355, modificato dall'art. 1 del R. decreto-legge 21 dicembre 1933-XII, n. 1992. 
+ 
+ Ciascun funzionario non potra' conseguire piu' di una promozione per meriti eccezionali. 
+ 
+ Le disposizioni del precedente primo comma non sono applicabili ai funzionari promossi per meriti eccezionali in virtu' del disposto del secondo comma dell'art. 17 del Regio decreto-legge 2 giugno 1936-XIV, n. 1020. 
+ 
+ Il presente decreto entrera' in vigore dalla data della sua pubblicazione nella Gazzetta Ufficiale del Regno, e sara' presentato al Parlamento per la conversione in legge; il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo o di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 novembre 1936 - Anno XV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 31 dicembre 1936 - Anno XV  
+ Atti dei Governo, registro 380, foglio 156. - Mancini

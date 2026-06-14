@@ -1,19 +1,15 @@
-REGIO DECRETO 29 novembre 1863 n. MXXIII
+---
+tipo: REGIO DECRETO
+numero: MXXIII
+data: 1863-11-29
+titolo: "Con cui e' approvato il regolamento di polizia rurale pel Comune di Roccaforte. (6301023R)"
+urn: urn:nir:stato:regio.decreto:1863-11-29;1023
+codice_redazionale: 6301023R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 novembre 1863 n. MXXIII
-========================================
-
-Con cui e' approvato il regolamento di polizia rurale pel Comune di Roccaforte. (6301023R)
-------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/11/1863
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia rurale del Comune di Roccaforte, Provincia di Cuneo, in data del 2 novembre corrente anno.   
-  
-Torino 29 novembre 1863.   
-  
+Che approva il regolamento di polizia rurale del Comune di Roccaforte, Provincia di Cuneo, in data del 2 novembre corrente anno. 
+ 
+ Torino 29 novembre 1863.

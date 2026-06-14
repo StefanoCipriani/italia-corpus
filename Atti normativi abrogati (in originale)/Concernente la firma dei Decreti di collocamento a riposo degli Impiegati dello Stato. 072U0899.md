@@ -1,22 +1,20 @@
-REGIO DECRETO 02 luglio 1872 n. 899
-
-
-REGIO DECRETO 02 luglio 1872 n. 899
-===================================
-
-Concernente la firma dei Decreti di collocamento a riposo degli Impiegati dello Stato. (072U0899)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/07/1872
+---
+tipo: REGIO DECRETO
+numero: 899
+data: 1872-07-02
+titolo: "Concernente la firma dei Decreti di collocamento a riposo degli Impiegati dello Stato. (072U0899)"
+urn: urn:nir:stato:regio.decreto:1872-07-02;899
+codice_redazionale: 072U0899
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 4 della legge 14 aprile 1864, numero 1731](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1864-04-14;1731~art4);
+Visto l'[art. 4 della legge 14 aprile 1864, numero 1731](Con%20cui%20sono%20regolate%20le%20pensioni%20deglImpiegati%20civili%20ed%20e%20vietato%20il%20sequestro%20degli%20stipendi%20dei%20medesimi.%20064U1731.md);
 
 Visto il decreto Reale del 23 dicembre 1871, n. 639, concernente il riparto tra i diversi Ministeri del fondo occorrente per il servizio delle pensioni ordinarie;
 
@@ -24,26 +22,18 @@ Ritenuta la convenienza di circondare delle maggiori guarentigie possibili tutti
 
 Sulla proposta del Ministro delle Finanze,
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I decreti per il collocamento a riposo e la dispensa dal servizio di impiegati ed agenti dello Stato non nominati con decreto Reale, saranno d'ora innanzi firmati personalmente dal Ministro competente, esclusa qualunque delegazione.   
-  
-Sona abrogate tutte le disposizioni che diano facolta' ai capi di amministrazione di firmare per i Ministri i decreti di collocamento a riposo o di dispensa dal servizio con diritto a pensione vitalizia, o all'indennita' di quiescenza previste dalle vigenti leggi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 2 luglio 1872.   
-  
-VITTORIO EMANUELE.   
-  
-QUINTINO SELLA.   
-  
-  
+I decreti per il collocamento a riposo e la dispensa dal servizio di impiegati ed agenti dello Stato non nominati con decreto Reale, saranno d'ora innanzi firmati personalmente dal Ministro competente, esclusa qualunque delegazione. 
+ 
+ Sona abrogate tutte le disposizioni che diano facolta' ai capi di amministrazione di firmare per i Ministri i decreti di collocamento a riposo o di dispensa dal servizio con diritto a pensione vitalizia, o all'indennita' di quiescenza previste dalle vigenti leggi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 2 luglio 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ QUINTINO SELLA.

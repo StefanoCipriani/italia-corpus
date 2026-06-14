@@ -1,19 +1,15 @@
-REGIO DECRETO 13 luglio 1914 n. 786
+---
+tipo: REGIO DECRETO
+numero: 786
+data: 1914-07-13
+titolo: "Trasformazione di patrimoni pii. (014U0786)"
+urn: urn:nir:stato:regio.decreto:1914-07-13;786
+codice_redazionale: 014U0786
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 luglio 1914 n. 786
-===================================
-
-Trasformazione di patrimoni pii. (014U0786)
--------------------------------------------
-
-Entrata in vigore del provvedimento: 27/08/1914
-
-Art. 1
-------
-
-  
-N. 786   
-  
-Regio Decreto 13 luglio 1914, col quale, sulla proposta del ministro dell'interno, il fine inerente al patrimonio della Confraternita dei Sette Dolori di Casamarciano (Caserta) viene trasformato a favore degli inabili al lavoro, e il patrimonio stesso viene concentrato nella locale Congregazione di carita'.   
-  
+N. 786 
+ 
+ Regio Decreto 13 luglio 1914, col quale, sulla proposta del ministro dell'interno, il fine inerente al patrimonio della Confraternita dei Sette Dolori di Casamarciano (Caserta) viene trasformato a favore degli inabili al lavoro, e il patrimonio stesso viene concentrato nella locale Congregazione di carita'.

@@ -1,38 +1,31 @@
-LEGGE 19 marzo 1979 n. 78
-
-
-LEGGE 19 marzo 1979 n. 78
-=========================
-
-Proroga del termine previsto dall'articolo 4, primo comma, della legge 30 marzo 1978, n. 96, istitutiva della commissione parlamentare d'inchiesta sull'attuazione degli interventi per la ricostruzione e la ripresa socio-economica dei territori della Valle del Belice colpiti dai terremoti del gennaio 1968.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 78
+data: 1979-03-19
+titolo: "Proroga del termine previsto dall'articolo 4, primo comma, della legge 30 marzo 1978, n. 96, istitutiva della commissione parlamentare d'inchiesta sull'attuazione degli interventi per la ricostruzione e la ripresa socio-economica dei territori della Valle del Belice colpiti dai terremoti del gennaio 1968."
+urn: urn:nir:stato:legge:1979-03-19;78
+codice_redazionale: 079U0078
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno
-----------------------------------------------------------
 
 approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Articolo unico
 
-Articolo unico
---------------
+La scadenza del termine previsto dal [primo comma dell'articolo 4 della legge 30 marzo 1978, n. 96](Istituzione%20di%20una%20Commissione%20parlamentare%20di%20inchiesta%20sullattuazione%20degli%20interventi%20per%20la%20ricostruzione%20e%20la%20ripresa%20socio-economica%20dei%20territori%20della%20Valle%20del%20Belice%20colpiti%20dai_99c2b8645451.md), e' prorogata al 31 dicembre
 
-La scadenza del termine previsto dal [primo comma dell'articolo 4 della legge 30 marzo 1978, n. 96](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-03-30;96~art4-com1), e' prorogata al 31 dicembre
+1979.
 
-1979. 
-  
 La presente legge entra in vigore lo stesso giorno della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 19 marzo 1979
+Data a Roma, addi' 19 marzo 1979
 
-PERTINI ANDREOTTI
-
-Visto, il Guardasigilli: BONIFACIO
+PERTINI ANDREOTTI Visto, il Guardasigilli: BONIFACIO

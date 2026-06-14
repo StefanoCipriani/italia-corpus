@@ -1,17 +1,13 @@
-REGIO DECRETO 18 febbraio 1909 n. LXVIII
+---
+tipo: REGIO DECRETO
+numero: LXVIII
+data: 1909-02-18
+titolo: "Riflettente cambiamento di denominazione. (0900068R)"
+urn: urn:nir:stato:regio.decreto:1909-02-18;68
+codice_redazionale: 0900068R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 febbraio 1909 n. LXVIII
-========================================
-
-Riflettente cambiamento di denominazione. (0900068R)
-----------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/04/1909
-
-Art. 1
-------
-
-  
-N. LXVIII (Dato a Roma, il 18 febbraio 1909), col quale si autorizza il comune di Tavarnelle (Firenze) a cambiare la sua denominazione in quella di Tavarnello Val di Pesa.   
-  
+N. LXVIII (Dato a Roma, il 18 febbraio 1909), col quale si autorizza il comune di Tavarnelle (Firenze) a cambiare la sua denominazione in quella di Tavarnello Val di Pesa.

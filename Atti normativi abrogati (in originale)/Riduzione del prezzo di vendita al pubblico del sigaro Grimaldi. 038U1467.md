@@ -1,16 +1,14 @@
-REGIO DECRETO 05 settembre 1938 n. 1467
-
-
-REGIO DECRETO 05 settembre 1938 n. 1467
-=======================================
-
-Riduzione del prezzo di vendita al pubblico del sigaro «Grimaldi». (038U1467)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/10/1938
+---
+tipo: REGIO DECRETO
+numero: 1467
+data: 1938-09-05
+titolo: "Riduzione del prezzo di vendita al pubblico del sigaro «Grimaldi». (038U1467)"
+urn: urn:nir:stato:regio.decreto:1938-09-05;1467
+codice_redazionale: 038U1467
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,22 @@ Sentito il Consiglio di amministrazione dei monopoli di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A decorrere dal 25 settembre 1938-XVI, il prezzo di vendita al pubblico del sigaro «Grimaldi» e' ridotto da L. 160 a L. 140 al chilogrammo e, cioe', da L. 0,80 a L. 0,70 per ogni sigaro.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 5 settembre 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 22 settembre 1938 - Anno XVI   
-  
-Atti del Governo, registro 401, foglio 124. - MANCINI.   
-  
-  
+A decorrere dal 25 settembre 1938-XVI, il prezzo di vendita al pubblico del sigaro «Grimaldi» e' ridotto da L. 160 a L. 140 al chilogrammo e, cioe', da L. 0,80 a L. 0,70 per ogni sigaro. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 5 settembre 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 22 settembre 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 401, foglio 124. - MANCINI.

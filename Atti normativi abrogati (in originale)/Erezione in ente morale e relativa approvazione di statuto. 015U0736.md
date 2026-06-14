@@ -1,19 +1,15 @@
-REGIO DECRETO 09 maggio 1915 n. 736
+---
+tipo: REGIO DECRETO
+numero: 736
+data: 1915-05-09
+titolo: "Erezione in ente morale e relativa approvazione di statuto. (015U0736)"
+urn: urn:nir:stato:regio.decreto:1915-05-09;736
+codice_redazionale: 015U0736
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 maggio 1915 n. 736
-===================================
-
-Erezione in ente morale e relativa approvazione di statuto. (015U0736)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/06/1915
-
-Art. 1
-------
-
-  
-N. 736   
-  
-Regio Decreto 9 maggio 1915, col quale, sulla proposta del ministro dell'interno, il Comitato piemontese, con sede in Torino, per soccorsi ai danneggiati dal terremoto del 13 gennaio 1915, e' eretto in ente morale e ne e' approvato lo statuto organico.   
-  
+N. 736 
+ 
+ Regio Decreto 9 maggio 1915, col quale, sulla proposta del ministro dell'interno, il Comitato piemontese, con sede in Torino, per soccorsi ai danneggiati dal terremoto del 13 gennaio 1915, e' eretto in ente morale e ne e' approvato lo statuto organico.

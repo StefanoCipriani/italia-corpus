@@ -1,60 +1,42 @@
-REGIO DECRETO 01 agosto 1889 n. 6349
+---
+tipo: REGIO DECRETO
+numero: 6349
+data: 1889-08-01
+titolo: "Che istituisce in Roma un Comando superiore del Genio militare per i lavori della R. Marina. (089U6349)"
+urn: urn:nir:stato:regio.decreto:1889-08-01;6349
+codice_redazionale: 089U6349
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 agosto 1889 n. 6349
-====================================
+E' instituito in Roma con diretta dipendenza dal Nostro Ministro per la Marina un Comando Superiore del Genio militare per i lavori della R. Marina per esercitare, rispetto alle Direzioni straordinarie dell'arma in servizio della Regia Marina, le funzioni attribuite ai Comandi territoriali del Genio militare per le Direzioni territoriali in servizio del R. esercito.
 
-Che istituisce in Roma un Comando superiore del Genio militare per i lavori della R. Marina. (089U6349)
--------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 14/09/1889
+Comandante Superiore del Genio militare per la Regia Marina sara' un uffiziale generale del R. esercito. Il suo ufficio sara' costituito da un uffiziale superiore e da un capitano dell'arma del Genio, da due ragionieri geometri del Genio e da un capo-tecnico.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-E' instituito in Roma con diretta dipendenza dal Nostro Ministro per la Marina un Comando Superiore del Genio militare per i lavori della R. Marina per esercitare, rispetto alle Direzioni straordinarie dell'arma in servizio della Regia Marina, le funzioni attribuite ai Comandi territoriali del Genio militare per le Direzioni territoriali in servizio del R. esercito.   
+Gli uffiziali e gli impiegati menzionati nell'articolo precedente saranno dal Nostro Ministro della Guerra messi a disposizione di quello della Marina, s'intenderanno in eccedenza ai quadri organici in vigore e riceveranno le loro competenze a carico del bilancio della Marina.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-Comandante Superiore del Genio militare per la Regia Marina sara' un uffiziale generale del R. esercito. Il suo ufficio sara' costituito da un uffiziale superiore e da un capitano dell'arma del Genio, da due ragionieri geometri del Genio e da un capo-tecnico.   
-  
+Al Comando Superiore del Genio per la R. Marina cosi' costituito e' affidata la revisione delle contabilita' dei lavori eseguiti dalle Direzioni straordinarie del Genio per la Regia Marina.
 
-Art. 3
-------
-
-  
-  
-Gli uffiziali e gli impiegati menzionati nell'articolo precedente saranno dal Nostro Ministro della Guerra messi a disposizione di quello della Marina, s'intenderanno in eccedenza ai quadri organici in vigore e riceveranno le loro competenze a carico del bilancio della Marina.   
-  
-
-Art. 4
-------
-
-  
-  
-Al Comando Superiore del Genio per la R. Marina cosi' costituito e' affidata la revisione delle contabilita' dei lavori eseguiti dalle Direzioni straordinarie del Genio per la Regia Marina.   
-  
-
-Art. 5
-------
+## Art. 5.
 
 Le disposizioni del presente decreto avranno effetto dal 1° settembre
 
-1889. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 1° agosto 1889.   
-  
-UMBERTO   
-  
-B. Brin.   
-Bertole'-Viale.   
-  
-Visto, Il Guardasigilli: Zanardelli.
+1889.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 1° agosto 1889. 
+ 
+ UMBERTO 
+ 
+ B. Brin. 
+ Bertole'-Viale. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

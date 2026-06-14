@@ -1,16 +1,14 @@
-REGIO DECRETO 19 novembre 1899 n. 415
-
-
-REGIO DECRETO 19 novembre 1899 n. 415
-=====================================
-
-Che provvede alla sostituzione di uno dei membri della Commissione centrale incaricata di determinare le variazioni occorrenti ai canoni comunali del dazio consumo. (099U0415)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/12/1899
+---
+tipo: REGIO DECRETO
+numero: 415
+data: 1899-11-19
+titolo: "Che provvede alla sostituzione di uno dei membri della Commissione centrale incaricata di determinare le variazioni occorrenti ai canoni comunali del dazio consumo. (099U0415)"
+urn: urn:nir:stato:regio.decreto:1899-11-19;415
+codice_redazionale: 099U0415
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Visti i Nostri decreti in data 14 agosto 1898, n. 388, e 15 giugno 1899, n. 246,
 
 Ritenuta l'opportunita' di provvedere per la sostituzione di uno dei suoi membri, che ha cessato di appartenervi;
 
-Visti gli articoli 77 del testo unico di legge sui dazi interni di consumo 15 aprile 1897, n. 161, e 6 della [legge 14 luglio 1898, n. 302](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-07-14;302);
+Visti gli articoli 77 del testo unico di legge sui dazi interni di consumo 15 aprile 1897, n. 161, e 6 della [legge 14 luglio 1898, n. 302](Riforma%20dei%20dazi%20comunali%20di%20consumo.%20098U0302.md);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le Finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-In sostituzione del comm. dott. Cesare Salvarezza e' chiamato a far parte della Commissione predetta il cav. avv. Arnaldo Raimoldi, Direttore Capo di Divisione nel Ministero dell'Interno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 novembre 1899.   
-  
-UMBERTO.   
-  
-Carmine.   
-  
-Visto, Il Guardasigilli: A. Bonasi.   
-  
+In sostituzione del comm. dott. Cesare Salvarezza e' chiamato a far parte della Commissione predetta il cav. avv. Arnaldo Raimoldi, Direttore Capo di Divisione nel Ministero dell'Interno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 novembre 1899. 
+ 
+ UMBERTO. 
+ 
+ Carmine. 
+ 
+ Visto, Il Guardasigilli: A. Bonasi.

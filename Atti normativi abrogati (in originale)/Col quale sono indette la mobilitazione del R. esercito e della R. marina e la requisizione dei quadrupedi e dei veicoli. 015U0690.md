@@ -1,16 +1,14 @@
-REGIO DECRETO 22 maggio 1915 n. 690
-
-
-REGIO DECRETO 22 maggio 1915 n. 690
-===================================
-
-Col quale sono indette la mobilitazione del R. esercito e della R. marina e la requisizione dei quadrupedi e dei veicoli. (015U0690)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/06/1915
+---
+tipo: REGIO DECRETO
+numero: 690
+data: 1915-05-22
+titolo: "Col quale sono indette la mobilitazione del R. esercito e della R. marina e la requisizione dei quadrupedi e dei veicoli. (015U0690)"
+urn: urn:nir:stato:regio.decreto:1915-05-22;690
+codice_redazionale: 015U0690
+vigente: true
+---
 
 VITTORIO EMANUELE
------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -18,37 +16,26 @@ RE D'ITALIA
 
 Visto l'art. 5 dello statuto fondamentale del Regno;
 
-Vista la [legge 22 giugno 1913, n. 693](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-22;693), sulla requisizione dei quadrupedi e dei veicoli per il R. esercito;
+Vista la [legge 22 giugno 1913, n. 693](Concernente%20la%20requisizione%20dei%20quadrupedi%20e%20dei%20veicoli%20per%20il%20R.%20esercito.%20013U0693.md), sulla requisizione dei quadrupedi e dei veicoli per il R. esercito;
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del presidente del Consiglio dei ministri, ministro dell'interno, di concerto coi ministri della guerra e della marina; Abbiamo decretato e decretiamo:
 
-proposta del presidente del Consiglio dei ministri, ministro dell'interno, di concerto coi ministri della guerra e della marina; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' indetta la mobilitazione generale del R. esercito e della R. marina e la requisizione quadrupedi e veicoli.
 
-  
-  
-E' indetta la mobilitazione generale del R. esercito e della R. marina e la requisizione quadrupedi e veicoli.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-I Nostri ministri, segretari di Stato per gli affari della guerra e della marina, sono incaricati di fissare d'accordo la data del 1° giorno di mobilitazione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 maggio 1915.   
-  
-VITTORIO EMANUELE.   
-  
-Salandra - Zupelli - Viale.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+I Nostri ministri, segretari di Stato per gli affari della guerra e della marina, sono incaricati di fissare d'accordo la data del 1° giorno di mobilitazione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 maggio 1915. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Salandra - Zupelli - Viale. 
+ 
+ Visto, Il guardasigilli: Orlando.

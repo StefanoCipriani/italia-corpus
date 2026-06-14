@@ -1,21 +1,17 @@
-REGIO DECRETO 13 marzo 1902 n. XC
+---
+tipo: REGIO DECRETO
+numero: XC
+data: 1902-03-13
+titolo: "Con cui il monte frumentario di Calatabiano (Catania) viene trasformato in cassa di prestanze agrarie ed e' approvato lo statuto organico per il governo del nuovo ente. (0200090R)"
+urn: urn:nir:stato:regio.decreto:1902-03-13;90
+codice_redazionale: 0200090R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 marzo 1902 n. XC
-=================================
-
-Con cui il monte frumentario di Calatabiano (Catania) viene trasformato in cassa di prestanze agrarie ed e' approvato lo statuto organico per il governo del nuovo ente. (0200090R)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/05/1902
-
-Art. 1
-------
-
-  
-Con cui il monte frumentario di Calatabiano (Catania) viene trasformato in cassa di prestanze agrarie ed e' approvato lo statuto organico per il governo del nuovo ente. - Firmato VITTORIO EMANUELE - Controfirmati Giolitti, G. Baccelli - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 17 aprile 1902.   
-  
-Reg. 3. Atti del Governo a f. 35.   
-  
+Con cui il monte frumentario di Calatabiano (Catania) viene trasformato in cassa di prestanze agrarie ed e' approvato lo statuto organico per il governo del nuovo ente. - Firmato VITTORIO EMANUELE - Controfirmati Giolitti, G. Baccelli - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 17 aprile 1902. 
+ 
+ Reg. 3. Atti del Governo a f. 35.

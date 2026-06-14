@@ -1,19 +1,15 @@
-REGIO DECRETO 01 novembre 1914 n. 1263
+---
+tipo: REGIO DECRETO
+numero: 1263
+data: 1914-11-01
+titolo: "Assegni locali ad interpreti del Cairo e Beirut. (014U1263)"
+urn: urn:nir:stato:regio.decreto:1914-11-01;1263
+codice_redazionale: 014U1263
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 novembre 1914 n. 1263
-======================================
-
-Assegni locali ad interpreti del Cairo e Beirut. (014U1263)
------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/12/1914
-
-Art. 1
-------
-
-  
-N. 1263   
-  
-Regio Decreto 1° novembre 1914, col quale, sulla proposta del ministro degli affari esteri, gli assegni locali annui da corrispondersi agli interpreti di 1ª categoria in Cairo (Agenzia) e Beirut, sono fissati rispettivamente in L. 12 000 e 5000, ed e' modificata la circoscrizione dei RR. consolati in San Francisco (California) e Seattle.   
-  
+N. 1263 
+ 
+ Regio Decreto 1° novembre 1914, col quale, sulla proposta del ministro degli affari esteri, gli assegni locali annui da corrispondersi agli interpreti di 1ª categoria in Cairo (Agenzia) e Beirut, sono fissati rispettivamente in L. 12 000 e 5000, ed e' modificata la circoscrizione dei RR. consolati in San Francisco (California) e Seattle.

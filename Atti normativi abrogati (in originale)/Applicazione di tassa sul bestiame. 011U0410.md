@@ -1,20 +1,17 @@
-REGIO DECRETO 23 aprile 1911 n. 410
+---
+tipo: REGIO DECRETO
+numero: 410
+data: 1911-04-23
+titolo: "Applicazione di tassa sul bestiame. (011U0410)"
+urn: urn:nir:stato:regio.decreto:1911-04-23;410
+codice_redazionale: 011U0410
+vigente: true
+---
 
-
-REGIO DECRETO 23 aprile 1911 n. 410
-===================================
-
-Applicazione di tassa sul bestiame. (011U0410)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 24/06/1911
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-410. 
-  
-  
+410.
+
 Regio decreto 23 aprile 1911, col quale, su proposta del ministro delle finanze, si autorizza il comune di Montefelcino ad eccedere nell'anno 1911 i limiti massimi normali della tariffa per l'applicazione della tassa sul bestiame.

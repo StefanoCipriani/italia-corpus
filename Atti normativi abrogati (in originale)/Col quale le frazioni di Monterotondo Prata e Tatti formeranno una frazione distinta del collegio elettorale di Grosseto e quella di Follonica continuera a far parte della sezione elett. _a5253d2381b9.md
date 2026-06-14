@@ -1,16 +1,14 @@
-REGIO DECRETO 08 ottobre 1876 n. 3386
-
-
-REGIO DECRETO 08 ottobre 1876 n. 3386
-=====================================
-
-Col quale le frazioni di Monterotondo, Prata e Tatti formeranno una frazione distinta del collegio elettorale di Grosseto, e quella di Follonica continuera' a far parte della sezione elett. di Massa Marittima appartenente al collegio stesso. (076U3386)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/10/1876
+---
+tipo: REGIO DECRETO
+numero: 3386
+data: 1876-10-08
+titolo: "Col quale le frazioni di Monterotondo, Prata e Tatti formeranno una frazione distinta del collegio elettorale di Grosseto, e quella di Follonica continuera' a far parte della sezione elett. di Massa Marittima appartenente al collegio stesso. (076U3386)"
+urn: urn:nir:stato:regio.decreto:1876-10-08;3386
+codice_redazionale: 076U3386
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,43 +20,24 @@ Veduto il R. decreto 22 settembre 1876, col quale le frazioni del comune di Mass
 
 Vista la istanza del comune di Massa Marittima per la riforma della circoscrizione elettorale di dette frazioni;
 
-Visto
------
+Visto gli articoli 63, 64, 65 e 66 della legge elettorale politica 17 dicembre 1860, n. 4513, Abbiamo decretato e decretiamo:
 
-gli articoli 63, 64, 65 e 66 della legge elettorale politica 17 dicembre 1860, n. 4513, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La frazione di Monte Rotondo, appartenente al comune di Massa Marittima, formera' una sezione distinta del Collegio elettorale di Grosseto.
 
-  
-  
-  
-La frazione di Monte Rotondo, appartenente al comune di Massa Marittima, formera' una sezione distinta del Collegio elettorale di Grosseto.   
-  
+## Art. 2.
 
-Art. 2
-------
+Le frazioni di Prata e Tatti formeranno pure una sezione distinta dello stesso Collegio elettorale, colla sede a Prata.
 
-  
-  
-  
-Le frazioni di Prata e Tatti formeranno pure una sezione distinta dello stesso Collegio elettorale, colla sede a Prata.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-  
-La frazione di Follonica continuera' a far parte della sezione elettorale di Massa Marittima appartenente al detto Collegio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 8 ottobre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
-  
+La frazione di Follonica continuera' a far parte della sezione elettorale di Massa Marittima appartenente al detto Collegio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 8 ottobre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

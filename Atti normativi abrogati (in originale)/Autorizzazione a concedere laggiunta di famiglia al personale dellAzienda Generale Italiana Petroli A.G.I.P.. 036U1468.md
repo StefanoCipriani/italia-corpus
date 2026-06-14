@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 09 luglio 1936 n. 1468
-
-
-REGIO DECRETO-LEGGE 09 luglio 1936 n. 1468
-==========================================
-
-Autorizzazione a concedere l'aggiunta di famiglia al personale dell'Azienda Generale Italiana Petroli (A.G.I.P.). (036U1468)
-----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/08/1936.  
-Regio Decreto-Legge convertito dalla [L. 4 gennaio 1937, n. 109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-01-04;109) (in G.U. 23/02/1937, n. 45).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1468
+data: 1936-07-09
+titolo: "Autorizzazione a concedere l'aggiunta di famiglia al personale dell'Azienda Generale Italiana Petroli (A.G.I.P.). (036U1468)"
+urn: urn:nir:stato:regio.decreto.legge:1936-07-09;1468
+codice_redazionale: 036U1468
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -27,32 +24,24 @@ Ritenuta l'urgente ed assoluta necessita' di consentire che al personale dell'Az
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e del Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato e del Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Consiglio di amministrazione dell'Azienda Generale Italiana Petroli (A.G.I.P.) e' autorizzato a concedere al personale dipendente l'aggiunta di famiglia con le stesse modalita' ed in misura non maggiore di quella prevista dalle norme vigenti per il personale delle Amministrazioni dello Stato a decorrere dal 1° gennaio 1936-XIV.   
-  
-Il presente decreto sara' presentato al Parlamento per la conversione in legge ed i Ministri proponenti sono autorizzati alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 9 luglio 1936 - Anno XIV   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 4 agosto 1936 - Anno XIV   
-  
-Atti del Governo, registro 376, foglio 15. - Mancini.   
-  
-  
+Il Consiglio di amministrazione dell'Azienda Generale Italiana Petroli (A.G.I.P.) e' autorizzato a concedere al personale dipendente l'aggiunta di famiglia con le stesse modalita' ed in misura non maggiore di quella prevista dalle norme vigenti per il personale delle Amministrazioni dello Stato a decorrere dal 1° gennaio 1936-XIV. 
+ 
+ Il presente decreto sara' presentato al Parlamento per la conversione in legge ed i Ministri proponenti sono autorizzati alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 9 luglio 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 4 agosto 1936 - Anno XIV 
+ 
+ Atti del Governo, registro 376, foglio 15. - Mancini.

@@ -1,19 +1,15 @@
-REGIO DECRETO 31 agosto 1908 n. CCCLXXXVIII
+---
+tipo: REGIO DECRETO
+numero: CCCLXXXVIII
+data: 1908-08-31
+titolo: "Erezione in ente morale del Comitato esecutivo per le feste commemorative del 1911. (0800388R)"
+urn: urn:nir:stato:regio.decreto:1908-08-31;388
+codice_redazionale: 0800388R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 agosto 1908 n. CCCLXXXVIII
-===========================================
-
-Erezione in ente morale del Comitato esecutivo per le feste commemorative del 1911. (0800388R)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/10/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCLXXXVIII (Dato a bordo della R. nave «Vittorio Emanuele, addi' 31 agosto 1908), con cui si erige in ente morale il Comitato esecutivo per le feste commemorative del 1911 in Roma e si approva il relativo statuto organico.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCLXXXVIII (Dato a bordo della R. nave «Vittorio Emanuele, addi' 31 agosto 1908), con cui si erige in ente morale il Comitato esecutivo per le feste commemorative del 1911 in Roma e si approva il relativo statuto organico.

@@ -1,16 +1,14 @@
-REGIO DECRETO 21 luglio 1872 n. 935
-
-
-REGIO DECRETO 21 luglio 1872 n. 935
-===================================
-
-Con cui i Comuni di S. Luce e Riparbella costituiranno una Sezione del Collegio elettorale di Lari. (072U0935)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/09/1872
+---
+tipo: REGIO DECRETO
+numero: 935
+data: 1872-07-21
+titolo: "Con cui i Comuni di S. Luce e Riparbella costituiranno una Sezione del Collegio elettorale di Lari. (072U0935)"
+urn: urn:nir:stato:regio.decreto:1872-07-21;935
+codice_redazionale: 072U0935
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Noverandosi in cadauno dei comuni stessi piu' di quaranta elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ciascheduno dei prementovati due comuni di S. Luce e Riparbella costituira' d'ora in poi una sezione del Collegio elettorale di Lari, n. 329, con sede nei rispettivi capoluoghi dei comuni stessi, ferma sempre rimanendo la sezione principale a Lari.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, addi' 21 luglio 1872.   
-  
-VITTORIO EMANUELE.   
-  
-G. Lanza.   
-  
+Ciascheduno dei prementovati due comuni di S. Luce e Riparbella costituira' d'ora in poi una sezione del Collegio elettorale di Lari, n. 329, con sede nei rispettivi capoluoghi dei comuni stessi, ferma sempre rimanendo la sezione principale a Lari. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, addi' 21 luglio 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Lanza.

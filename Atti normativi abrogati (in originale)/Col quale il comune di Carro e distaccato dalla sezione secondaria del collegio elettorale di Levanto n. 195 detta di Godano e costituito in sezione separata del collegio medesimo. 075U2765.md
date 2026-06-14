@@ -1,16 +1,14 @@
-REGIO DECRETO 10 novembre 1875 n. 2765
-
-
-REGIO DECRETO 10 novembre 1875 n. 2765
-======================================
-
-Col quale il comune di Carro e' distaccato dalla sezione secondaria del collegio elettorale di Levanto n. 195, detta di Godano, e costituito in sezione separata del collegio medesimo. (075U2765)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/12/1875
+---
+tipo: REGIO DECRETO
+numero: 2765
+data: 1875-11-10
+titolo: "Col quale il comune di Carro e' distaccato dalla sezione secondaria del collegio elettorale di Levanto n. 195, detta di Godano, e costituito in sezione separata del collegio medesimo. (075U2765)"
+urn: urn:nir:stato:regio.decreto:1875-11-10;2765
+codice_redazionale: 075U2765
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori inscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Carro e' distaccato dalla sezione secondaria del Collegio elettorale di Levanto n. 195, detta di Godano, e costituito in sezione separata del Collegio medesimo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 10 novembre 1875.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
+Il comune di Carro e' distaccato dalla sezione secondaria del Collegio elettorale di Levanto n. 195, detta di Godano, e costituito in sezione separata del Collegio medesimo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 10 novembre 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

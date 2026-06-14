@@ -1,16 +1,14 @@
-REGIO DECRETO 18 maggio 1933 n. 839
-
-
-REGIO DECRETO 18 maggio 1933 n. 839
-===================================
-
-Contributo del Consiglio provinciale dell'economia corporativa in Reggio Emilia a favore della Regia scuola secondaria di avviamento professionale. (033U0839)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/08/1933
+---
+tipo: REGIO DECRETO
+numero: 839
+data: 1933-05-18
+titolo: "Contributo del Consiglio provinciale dell'economia corporativa in Reggio Emilia a favore della Regia scuola secondaria di avviamento professionale. (033U0839)"
+urn: urn:nir:stato:regio.decreto:1933-05-18;839
+codice_redazionale: 033U0839
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,30 +20,22 @@ Visto il Nostro decreto 22 marzo 1928, n. 1002, concernente l'aggregazione alla 
 
 Vista la deliberazione del Comitato di presidenza del Consiglio provinciale dell'economia corporativa in Reggio nell'Emilia in data del 15 dicembre 1931;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il contributo del Consiglio provinciale dell'economia corporativa in Reggio nell'Emilia a favore della Regia scuola secondaria di avviamento professionale nella stessa citta', e' fissato nella somma di lire 6000 a decorrere dal 1° gennaio 1932.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 maggio 1933 - Anno XI   
-  
-VITTORIO EMANUELE   
-  
-ERCOLE   
-  
-Visto, il Guardasigilli: DE FRANCISCI.   
-  
-Registrato alla Corte dei conti, addi' 10 luglio 1933 - Anno XI   
-  
-Atti del Governo, registro 334, foglio 56. - MANCINI.   
-  
-  
+Il contributo del Consiglio provinciale dell'economia corporativa in Reggio nell'Emilia a favore della Regia scuola secondaria di avviamento professionale nella stessa citta', e' fissato nella somma di lire 6000 a decorrere dal 1° gennaio 1932. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 maggio 1933 - Anno XI 
+ 
+ VITTORIO EMANUELE 
+ 
+ ERCOLE 
+ 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ 
+ Registrato alla Corte dei conti, addi' 10 luglio 1933 - Anno XI 
+ 
+ Atti del Governo, registro 334, foglio 56. - MANCINI.

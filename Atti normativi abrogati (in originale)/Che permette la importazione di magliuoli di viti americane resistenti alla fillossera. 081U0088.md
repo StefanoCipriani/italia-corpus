@@ -1,16 +1,14 @@
-REGIO DECRETO 03 marzo 1881 n. 88
-
-
-REGIO DECRETO 03 marzo 1881 n. 88
-=================================
-
-Che permette la importazione di magliuoli di viti americane resistenti alla fillossera. (081U0088)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/03/1881
+---
+tipo: REGIO DECRETO
+numero: 88
+data: 1881-03-03
+titolo: "Che permette la importazione di magliuoli di viti americane resistenti alla fillossera. (081U0088)"
+urn: urn:nir:stato:regio.decreto:1881-03-03;88
+codice_redazionale: 081U0088
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,32 +26,21 @@ Considerata l'urgenza di provvedere per l'impianto del vivaio;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro d'Agricoltura, Industria e Commercio, d'accordo col Ministro delle Finanze, Abbiamo decretato e decretiamo:
 
-proposta del Ministro d'Agricoltura, Industria e Commercio, d'accordo col Ministro delle Finanze, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' data facolta' al Ministero d'Agricoltura, Industria e Commercio d'introdurre in un'isola magliuoli di specie o varieta' di viti americane riconosciute resistenti alla fillossera, allo esclusivo scopo di formarvi un vivaio a spese e sotto la direzione dell'Amministrazione dell'Agricoltura e previe le cautele che, udito il parere della Commissione per la fillossera, saranno riconosciute necessarie.
 
-  
-  
-E' data facolta' al Ministero d'Agricoltura, Industria e Commercio d'introdurre in un'isola magliuoli di specie o varieta' di viti americane riconosciute resistenti alla fillossera, allo esclusivo scopo di formarvi un vivaio a spese e sotto la direzione dell'Amministrazione dell'Agricoltura e previe le cautele che, udito il parere della Commissione per la fillossera, saranno riconosciute necessarie.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 marzo 1881.   
-  
-UMBERTO   
-  
-L. MICELI.   
-A. MAGLIANI.   
-  
+Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 marzo 1881. 
+ 
+ UMBERTO 
+ 
+ L. MICELI. 
+ A. MAGLIANI.

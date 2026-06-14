@@ -1,16 +1,14 @@
-REGIO DECRETO 10 ottobre 1867 n. 3972
-
-
-REGIO DECRETO 10 ottobre 1867 n. 3972
-=====================================
-
-Col quale il Comune di Lentiai costituira' una Sezione del Collegio elettorale di Feltre, con sede nel capo-luogo del Comune stesso. (067U3972)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/11/1867
+---
+tipo: REGIO DECRETO
+numero: 3972
+data: 1867-10-10
+titolo: "Col quale il Comune di Lentiai costituira' una Sezione del Collegio elettorale di Feltre, con sede nel capo-luogo del Comune stesso. (067U3972)"
+urn: urn:nir:stato:regio.decreto:1867-10-10;3972
+codice_redazionale: 067U3972
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Lentiai costituira' d'ora in poi una Sezione del Collegio elettorale di Feltre, n. 445, la quale avra' sede nel capo-luogo del Comune stesso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 10 ottobre 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 19 ottobre 1867   
-  
-Reg. 41 Atti del Governo a c. 36. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Tecchio.   
-  
-U. Rattazzi.   
-  
+Il Comune di Lentiai costituira' d'ora in poi una Sezione del Collegio elettorale di Feltre, n. 445, la quale avra' sede nel capo-luogo del Comune stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 10 ottobre 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 19 ottobre 1867 
+ 
+ Reg. 41 Atti del Governo a c. 36. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Tecchio. 
+ 
+ U. Rattazzi.

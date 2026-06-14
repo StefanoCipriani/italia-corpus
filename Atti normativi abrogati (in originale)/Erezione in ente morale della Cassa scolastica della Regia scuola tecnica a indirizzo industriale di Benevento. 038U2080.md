@@ -1,21 +1,21 @@
-REGIO DECRETO 01 dicembre 1938 n. 2080
+---
+tipo: REGIO DECRETO
+numero: 2080
+data: 1938-12-01
+titolo: "Erezione in ente morale della Cassa scolastica della Regia scuola tecnica a indirizzo industriale di Benevento. (038U2080)"
+urn: urn:nir:stato:regio.decreto:1938-12-01;2080
+codice_redazionale: 038U2080
+vigente: true
+---
 
-
-REGIO DECRETO 01 dicembre 1938 n. 2080
-======================================
-
-Erezione in ente morale della Cassa scolastica della Regia scuola tecnica a indirizzo industriale di Benevento. (038U2080)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/02/1939
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2080. R. decreto 1° dicembre 1938, col quale, sulla proposta del Ministro per l'educazione nazionale, la Cassa scolastica della Regia scuola tecnica a indirizzo industriale di Benevento viene eretta in ente morale e ne viene approvato lo statuto.   
-  
-Visto, il Guardasigilli: Solmi   
-  
-Registrato alla Corte dei conti, addi' 9 gennaio 1939-XVII
+2080.
+
+R. decreto 1° dicembre 1938, col quale, sulla proposta del Ministro per l'educazione nazionale, la Cassa scolastica della Regia scuola tecnica a indirizzo industriale di Benevento viene eretta in ente morale e ne viene approvato lo statuto. 
+ 
+ Visto, il Guardasigilli: Solmi 
+ 
+ Registrato alla Corte dei conti, addi' 9 gennaio 1939-XVII

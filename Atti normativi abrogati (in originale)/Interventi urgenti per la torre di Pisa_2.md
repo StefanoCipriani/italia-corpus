@@ -1,18 +1,16 @@
-DECRETO-LEGGE 05 ottobre 1990 n. 279
-
-
-DECRETO-LEGGE 05 ottobre 1990 n. 279
-====================================
-
-Interventi urgenti per la torre di Pisa.
-----------------------------------------
-
-Entrata in vigore del decreto: 5/10/1990.Decreto-Legge convertito con modificazioni dalla [L. 30 novembre 1990, n. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-30;360) (in G.U. 03/12/1990, n.282).
+---
+tipo: DECRETO-LEGGE
+numero: 279
+data: 1990-10-05
+titolo: "Interventi urgenti per la torre di Pisa."
+urn: urn:nir:stato:decreto.legge:1990-10-05;279
+codice_redazionale: 090G0333
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
 Ritenuta la straordinaria necessita' ed urgenza di provvedere alla immediata individuazione e definizione degli interventi necessari per il consolidamento ed il restauro della torre di Pisa;
 
@@ -22,47 +20,44 @@ Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri per i be
 
 E M A N A il seguente decreto-legge:
 
-Art. 1
-------
+## Art. 1.
 
-1. Per gli interventi di consolidamento e restauro della torre di Pisa, il comitato di undici esperti di alta qualificazione scientifica, italiani e stranieri, integrato da due membri scelti tra storici dell'arte medievale, istituito per le operazioni propedeutiche dal Presidente del Consiglio dei Ministri, su proposta congiunta del Ministro per i beni culturali e ambientali e del Ministro dei lavori pubblici, provvede, anche in deroga alla normativa vigente, sulla base dell'esame della documentazione esistente in materia presso il Ministero dei lavori pubblici, all'individuazione e definizione del progetto di massima e di quello esecutivo, stabilendo i tempi, i costi e le modalita' di esecuzione e designando, anche nel proprio seno, il soggetto responsabile della direzione dei lavori, nonche' all'attuazione dei necessari interventi e all'indicazione delle modalita' per la successiva fruizione del monumento.
+1.
 
-2. Il comitato espleta i propri compiti entro il termine di tre mesi, decorrenti dalla data di entrata in vigore del presente decreto.
+Per gli interventi di consolidamento e restauro della torre di Pisa, il comitato di undici esperti di alta qualificazione scientifica, italiani e stranieri, integrato da due membri scelti tra storici dell'arte medievale, istituito per le operazioni propedeutiche dal Presidente del Consiglio dei Ministri, su proposta congiunta del Ministro per i beni culturali e ambientali e del Ministro dei lavori pubblici, provvede, anche in deroga alla normativa vigente, sulla base dell'esame della documentazione esistente in materia presso il Ministero dei lavori pubblici, all'individuazione e definizione del progetto di massima e di quello esecutivo, stabilendo i tempi, i costi e le modalita' di esecuzione e designando, anche nel proprio seno, il soggetto responsabile della direzione dei lavori, nonche' all'attuazione dei necessari interventi e all'indicazione delle modalita' per la successiva fruizione del monumento.
 
-3. La competenza del comitato sostituisce ogni altra competenza collegiale in materia.
+2.
 
-Art. 2
-------
+Il comitato espleta i propri compiti entro il termine di tre mesi, decorrenti dalla data di entrata in vigore del presente decreto.
 
-1. Al fine di assicurare la continuita' degli interventi di competenza dell'Opera Primaziale di Pisa e' corrisposto all'ente stesso per l'anno 1990 un contributo di lire 3.000 milioni.
+3.
 
-Art. 3
-------
+La competenza del comitato sostituisce ogni altra competenza collegiale in materia.
 
-1. Per l'attuazione del presente decreto e' autorizzata la spesa di lire 40.000 milioni per l'anno 1990, alla cui copertura si provvede mediante riduzione degli stanziamenti iscritti, rispettivamente per gli importi di lire 37.000 milioni e di lire 3.000 milioni, ai capitoli 8652 e 8712 dello stato di previsione del Ministero dei lavori pubblici per l'anno 1990.
+## Art. 2.
 
-2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+1.
 
-Art. 4
-------
+Al fine di assicurare la continuita' degli interventi di competenza dell'Opera Primaziale di Pisa e' corrisposto all'ente stesso per l'anno 1990 un contributo di lire 3.000 milioni.
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+## Art. 3.
+
+1.
+
+Per l'attuazione del presente decreto e' autorizzata la spesa di lire 40.000 milioni per l'anno 1990, alla cui copertura si provvede mediante riduzione degli stanziamenti iscritti, rispettivamente per gli importi di lire 37.000 milioni e di lire 3.000 milioni, ai capitoli 8652 e 8712 dello stato di previsione del Ministero dei lavori pubblici per l'anno 1990.
+
+2.
+
+Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+## Art. 4.
+
+1.
+
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 5 ottobre 1990
+Dato a Roma, addi' 5 ottobre 1990
 
-COSSIGA
-
-ANDREOTTI, Presidente del Consiglio dei Ministri
-
-FACCHIANO, Ministro per i beni culturali e ambientali
-
-PRANDINI, Ministro dei lavori pubblici
-
-CIRINO POMICINO, Ministro del bilancio e della programmazione economica
-
-CARLI, Ministro del tesoro
-
-Visto, il Guardasigilli: VASSALLI
+COSSIGA ANDREOTTI, Presidente del Consiglio dei Ministri FACCHIANO, Ministro per i beni culturali e ambientali PRANDINI, Ministro dei lavori pubblici CIRINO POMICINO, Ministro del bilancio e della programmazione economica CARLI, Ministro del tesoro Visto, il Guardasigilli: VASSALLI

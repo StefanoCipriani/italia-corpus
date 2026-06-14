@@ -1,16 +1,14 @@
-REGIO DECRETO 22 aprile 1868 n. 4357
-
-
-REGIO DECRETO 22 aprile 1868 n. 4357
-====================================
-
-Col quale sono aggiunte altre spese alla Nota di quelle riguardanti la riscossione delle entrate, che pel 1868 possono pagarsi dai Contabili incaricati della riscossione medesima. (068U4357)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/05/1868
+---
+tipo: REGIO DECRETO
+numero: 4357
+data: 1868-04-22
+titolo: "Col quale sono aggiunte altre spese alla Nota di quelle riguardanti la riscossione delle entrate, che pel 1868 possono pagarsi dai Contabili incaricati della riscossione medesima. (068U4357)"
+urn: urn:nir:stato:regio.decreto:1868-04-22;4357
+codice_redazionale: 068U4357
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Ritenuto che nella Nota predetta, e fra le spese pagabili dei Contabili della Di
 
 Sulla proposizione del Ministro delle Finanze;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Alle spese pagabili coi fondi della riscossione dai Contabili della Direzione generale del Demanio e delle Tasse sugli affari, ed apparenti ai n. 33 al 45 inclusivo della Nota annessa al Reale Nostro Decreto del 19 gennaio 1868, n. 4198, dovranno aggiungersi quelle relative alle imposte d'ogni natura sui beni urbani e rustici dello Stato.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 22 aprile 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 9 maggio 1868   
-  
-Reg. 42 Atti del Governo a c. 216. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-L. G. Cambray Digny.   
-  
+Alle spese pagabili coi fondi della riscossione dai Contabili della Direzione generale del Demanio e delle Tasse sugli affari, ed apparenti ai n. 33 al 45 inclusivo della Nota annessa al Reale Nostro Decreto del 19 gennaio 1868, n. 4198, dovranno aggiungersi quelle relative alle imposte d'ogni natura sui beni urbani e rustici dello Stato. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 22 aprile 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 9 maggio 1868 
+ 
+ Reg. 42 Atti del Governo a c. 216. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ L. G. Cambray Digny.

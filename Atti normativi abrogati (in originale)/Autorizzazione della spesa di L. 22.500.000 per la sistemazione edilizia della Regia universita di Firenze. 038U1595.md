@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 05 settembre 1938 n. 1595
-
-
-REGIO DECRETO-LEGGE 05 settembre 1938 n. 1595
-=============================================
-
-Autorizzazione della spesa di L. 22.500.000 per la sistemazione edilizia della Regia universita' di Firenze. (038U1595)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/11/1938.  
-Regio Decreto-Legge convertito dalla [L. 16 gennaio 1939, n. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-01-16;101) (in G.U. 07/02/1939, n. 31).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1595
+data: 1938-09-05
+titolo: "Autorizzazione della spesa di L. 22.500.000 per la sistemazione edilizia della Regia universita' di Firenze. (038U1595)"
+urn: urn:nir:stato:regio.decreto.legge:1938-09-05;1595
+codice_redazionale: 038U1595
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -27,54 +24,35 @@ Ritenuta la necessita' urgente ed assoluta di provvedere al finanziamento di tal
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con quelli per le finanze e per l'educazione nazionale. Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con quelli per le finanze e per l'educazione nazionale. Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' autorizzata la spesa di L. 22.500.000 per la sistemazione edilizia e l'arredamento della Regia universita' di Firenze.
 
-  
-  
-E' autorizzata la spesa di L. 22.500.000 per la sistemazione edilizia e l'arredamento della Regia universita' di Firenze.   
+## Art. 2.
 
-Art. 2
-------
+All'esecuzione dei lavori provvedera' il Consorzio interessato con le norme di cui alla convenzione 20 luglio 1933-XI, approvata con R. decreto 29 luglio 1938-XI, n. 1003, convertito nella legge 21 dicembre 1933-XII, n. 1857.
 
-  
-  
-All'esecuzione dei lavori provvedera' il Consorzio interessato con le norme di cui alla convenzione 20 luglio 1933-XI, approvata con R. decreto 29 luglio 1938-XI, n. 1003, convertito nella legge 21 dicembre 1933-XII, n. 1857.   
+## Art. 3.
 
-Art. 3
-------
+Il Ministro per le finanze con proprio decreto provvedera' alla iscrizione nella parte straordinaria del bilancio del Ministero dei lavori pubblici della somma di cui all'art. 1 in ragione di L. 4.500.000 per ciascuno dei cinque esercizi finanziari decorrenti dal 1938-1939 al 1942-1943.
 
-  
-  
-Il Ministro per le finanze con proprio decreto provvedera' alla iscrizione nella parte straordinaria del bilancio del Ministero dei lavori pubblici della somma di cui all'art. 1 in ragione di L. 4.500.000 per ciascuno dei cinque esercizi finanziari decorrenti dal 1938-1939 al 1942-1943.   
-  
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Il presente decreto sara' presentato al Parlamento per la conversione in legge.   
-  
-Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Rossore, addi' 5 settembre 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Cobolli-Gigli - Di Revel - Bottai   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 13 ottobre 1938 - Anno XVI   
-Atti del Governo, registro 402, foglio 64. - Mancini.   
-  
-  
+Il presente decreto sara' presentato al Parlamento per la conversione in legge. 
+ 
+ Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Rossore, addi' 5 settembre 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Cobolli-Gigli - Di Revel - Bottai 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 13 ottobre 1938 - Anno XVI  
+ Atti del Governo, registro 402, foglio 64. - Mancini.

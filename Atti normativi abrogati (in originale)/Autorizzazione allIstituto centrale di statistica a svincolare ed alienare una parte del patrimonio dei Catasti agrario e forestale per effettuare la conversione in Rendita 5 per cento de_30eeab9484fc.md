@@ -1,16 +1,14 @@
-REGIO DECRETO 03 febbraio 1936 n. 383
-
-
-REGIO DECRETO 03 febbraio 1936 n. 383
-=====================================
-
-Autorizzazione all'Istituto centrale di statistica a svincolare ed alienare una parte del patrimonio dei Catasti agrario e forestale per effettuare la conversione in Rendita 5 per cento della rimanente quota di patrimonio. (036U0383)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/04/1936
+---
+tipo: REGIO DECRETO
+numero: 383
+data: 1936-02-03
+titolo: "Autorizzazione all'Istituto centrale di statistica a svincolare ed alienare una parte del patrimonio dei Catasti agrario e forestale per effettuare la conversione in Rendita 5 per cento della rimanente quota di patrimonio. (036U0383)"
+urn: urn:nir:stato:regio.decreto:1936-02-03;383
+codice_redazionale: 036U0383
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -38,36 +36,28 @@ Ritenuto che il detto patrimonio non ha disponibilita' liquide che possono conse
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo Primo Ministro Segretario di Stato di concerto con i Ministri per le finanze e per l'agricoltura e per le foreste; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo Primo Ministro Segretario di Stato di concerto con i Ministri per le finanze e per l'agricoltura e per le foreste; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'Istituto contrale di statistica e' autorizzato ad effettuare le seguenti operazioni sul certificato ad esso intestato n. 489431, in data 23 settembre 1935-XIII, comprendente titoli del prestito redimibile 3,50% per L. 8.300.000 di capitale nominale, residuo del capitale assegnato sul patrimonio della Fondazione per la sperimentazione e la ricerca agraria dopo lo svincolo autorizzato con R. decreto 9 maggio 1935-XIII, n. 1377:   
-  
-1) a svincolare e tramutare al portatore fino a 2.000.000 di lire del suddetto capitale nominale in prestito redimibile 3,50%, onde ottenere una anticipazione che consenta di convertire in Rendita 5% l'ammontare dell'intero capitale complessivo di L. 8.300.000;   
-  
-2) ad alienare a suo tempo quella parte dei titoli tramutata al portatore, come al numero precedente, che sara' necessaria per estinguere l'anticipazione suddetta:   
-  
-3) a vincolare, come gia' per il certificato nominativo suddetto n. 489431, i titoli nominativi provenienti dalla effettuata conversione e ad intestare e vincolare quelli che restassero disponibili sui titoli al portatore di cui al n. 1, dopo effettuata l'alienazione di cui al n. 2.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 febbraio 1936 - Anno XIV   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel - Rossoni.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 12 marzo 1936 - Anno XIV   
-  
-Atti del Governo, registro 370, foglio 80. - Mancini.   
-  
-  
+L'Istituto contrale di statistica e' autorizzato ad effettuare le seguenti operazioni sul certificato ad esso intestato n. 489431, in data 23 settembre 1935-XIII, comprendente titoli del prestito redimibile 3,50% per L. 8.300.000 di capitale nominale, residuo del capitale assegnato sul patrimonio della Fondazione per la sperimentazione e la ricerca agraria dopo lo svincolo autorizzato con R. decreto 9 maggio 1935-XIII, n. 1377: 
+ 
+ 1) a svincolare e tramutare al portatore fino a 2.000.000 di lire del suddetto capitale nominale in prestito redimibile 3,50%, onde ottenere una anticipazione che consenta di convertire in Rendita 5% l'ammontare dell'intero capitale complessivo di L. 8.300.000; 
+ 
+ 2) ad alienare a suo tempo quella parte dei titoli tramutata al portatore, come al numero precedente, che sara' necessaria per estinguere l'anticipazione suddetta: 
+ 
+ 3) a vincolare, come gia' per il certificato nominativo suddetto n. 489431, i titoli nominativi provenienti dalla effettuata conversione e ad intestare e vincolare quelli che restassero disponibili sui titoli al portatore di cui al n. 1, dopo effettuata l'alienazione di cui al n. 2. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 febbraio 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel - Rossoni. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 12 marzo 1936 - Anno XIV 
+ 
+ Atti del Governo, registro 370, foglio 80. - Mancini.

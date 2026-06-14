@@ -1,19 +1,15 @@
-REGIO DECRETO 10 marzo 1912 n. 395
+---
+tipo: REGIO DECRETO
+numero: 395
+data: 1912-03-10
+titolo: "Approvazione di statuto. (012U0395)"
+urn: urn:nir:stato:regio.decreto:1912-03-10;395
+codice_redazionale: 012U0395
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 marzo 1912 n. 395
-==================================
-
-Approvazione di statuto. (012U0395)
------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1912
-
-Art. 1
-------
-
-  
-N. 395   
-  
-Regio Decreto 10 marzo 1912, col quale, sulla proposta del ministro dell'istruzione pubblica, viene approvato il nuovo statuto della Societa' medico-chirurgica di Bologna.   
-  
+N. 395 
+ 
+ Regio Decreto 10 marzo 1912, col quale, sulla proposta del ministro dell'istruzione pubblica, viene approvato il nuovo statuto della Societa' medico-chirurgica di Bologna.

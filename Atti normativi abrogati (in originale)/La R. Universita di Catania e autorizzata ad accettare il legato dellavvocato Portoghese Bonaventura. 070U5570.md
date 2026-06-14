@@ -1,16 +1,14 @@
-REGIO DECRETO 06 marzo 1870 n. 5570
-
-
-REGIO DECRETO 06 marzo 1870 n. 5570
-===================================
-
-La R. Universita' di Catania e' autorizzata ad accettare il legato dell'avvocato Portoghese Bonaventura. (070U5570)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/04/1870
+---
+tipo: REGIO DECRETO
+numero: 5570
+data: 1870-03-06
+titolo: "La R. Universita' di Catania e' autorizzata ad accettare il legato dell'avvocato Portoghese Bonaventura. (070U5570)"
+urn: urn:nir:stato:regio.decreto:1870-03-06;5570
+codice_redazionale: 070U5570
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Veduto il parere favorevole della Prefettura di Catania;
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La R. Universita' degli studi di Catania, e per essa il suo Rettore, e' abilitata ad accettare il legato ad essa fatto col testamento sovraccennato dall'avvocato Portoghese Bonaventura.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 6 marzo 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 23 marzo 1870   
-  
-Reg. 50 Atti del Governo a c. 158. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-C. Correnti.   
-  
+La R. Universita' degli studi di Catania, e per essa il suo Rettore, e' abilitata ad accettare il legato ad essa fatto col testamento sovraccennato dall'avvocato Portoghese Bonaventura. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 6 marzo 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 23 marzo 1870 
+ 
+ Reg. 50 Atti del Governo a c. 158. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ C. Correnti.

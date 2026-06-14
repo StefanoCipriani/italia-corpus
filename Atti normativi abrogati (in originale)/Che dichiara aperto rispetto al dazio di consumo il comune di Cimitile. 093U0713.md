@@ -1,16 +1,14 @@
-REGIO DECRETO 28 dicembre 1893 n. 713
-
-
-REGIO DECRETO 28 dicembre 1893 n. 713
-=====================================
-
-Che dichiara aperto, rispetto al dazio di consumo, il comune di Cimitile. (093U0713)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/01/1894
+---
+tipo: REGIO DECRETO
+numero: 713
+data: 1893-12-28
+titolo: "Che dichiara aperto, rispetto al dazio di consumo, il comune di Cimitile. (093U0713)"
+urn: urn:nir:stato:regio.decreto:1893-12-28;713
+codice_redazionale: 093U0713
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,20 @@ Vista la deliberazione 26 agosto 1893, colla quale il Consiglio comunale di Cimi
 
 Ritenuto che il comune di Cimitile, in ragione della sua popolazione agglomerata appartiene al novero dei comuni di quarta classe;
 
-Veduti gli [articoli 5 della legge del 3 luglio 1864 n 1827 e 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1864-07-03;3~art5) del legislativo decreto del 28 giugno 1866 n. 3018;
+Veduti gli [articoli 5 della legge del 3 luglio 1864 n 1827 e 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1864-07-03;3#art_5) del legislativo decreto del 28 giugno 1866 n. 3018;
 
-Udito
------
+Udito il Consiglio di Stato; Abbiamo decretato e decretiamo:
 
-il Consiglio di Stato; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Cimitile, in provincia di Caserta, e' dichiarato aperto, rispetto al dazio di consumo, a far data dal 1° gennaio 1894, pur rimanendo inscritto fra quelli di quarta classe.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 dicembre 1893.   
-  
-UMBERTO.   
-  
-Sidney Sonnino.   
-  
-Visto, Il Guardasigilli: V. Calenda Di Tavani.   
-  
+Il comune di Cimitile, in provincia di Caserta, e' dichiarato aperto, rispetto al dazio di consumo, a far data dal 1° gennaio 1894, pur rimanendo inscritto fra quelli di quarta classe. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 dicembre 1893. 
+ 
+ UMBERTO. 
+ 
+ Sidney Sonnino. 
+ 
+ Visto, Il Guardasigilli: V. Calenda Di Tavani.

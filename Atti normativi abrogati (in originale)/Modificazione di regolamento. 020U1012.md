@@ -1,17 +1,17 @@
-REGIO DECRETO 25 giugno 1920 n. 1012
+---
+tipo: REGIO DECRETO
+numero: 1012
+data: 1920-06-25
+titolo: "Modificazione di regolamento. (020U1012)"
+urn: urn:nir:stato:regio.decreto:1920-06-25;1012
+codice_redazionale: 020U1012
+vigente: true
+---
 
-
-REGIO DECRETO 25 giugno 1920 n. 1012
-====================================
-
-Modificazione di regolamento. (020U1012)
-----------------------------------------
-
-Entrata in vigore del provvedimento: 11/08/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1012. Regio decreto 25 giugno 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, si approva la modificazione dell'art. 5 del regolamento del comune di Cossila (Novara), per l'applicazione della tassa di soggiorno.
+1012.
+
+Regio decreto 25 giugno 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, si approva la modificazione dell'art. 5 del regolamento del comune di Cossila (Novara), per l'applicazione della tassa di soggiorno.

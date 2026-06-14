@@ -1,15 +1,11 @@
-REGIO DECRETO 10 aprile 1921 n. 664
+---
+tipo: REGIO DECRETO
+numero: 664
+data: 1921-04-10
+titolo: "Annullamento di deliberazioni. (021U0664)"
+urn: urn:nir:stato:regio.decreto:1921-04-10;664
+codice_redazionale: 021U0664
+vigente: true
+---
 
-
-REGIO DECRETO 10 aprile 1921 n. 664
-===================================
-
-Annullamento di deliberazioni. (021U0664)
------------------------------------------
-
-Entrata in vigore del provvedimento: 21/06/1921
-
-Art. 1
-------
-
-null
+## Art. 1. — null

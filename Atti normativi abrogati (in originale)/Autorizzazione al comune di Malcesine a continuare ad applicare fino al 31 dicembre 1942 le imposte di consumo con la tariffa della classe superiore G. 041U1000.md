@@ -1,16 +1,14 @@
-REGIO DECRETO 17 agosto 1941 n. 1000
-
-
-REGIO DECRETO 17 agosto 1941 n. 1000
-====================================
-
-Autorizzazione al comune di Malcesine a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo con la tariffa della classe superiore G. (041U1000)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/10/1941
+---
+tipo: REGIO DECRETO
+numero: 1000
+data: 1941-08-17
+titolo: "Autorizzazione al comune di Malcesine a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo con la tariffa della classe superiore G. (041U1000)"
+urn: urn:nir:stato:regio.decreto:1941-08-17;1000
+codice_redazionale: 041U1000
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,37 +24,26 @@ Udito il parere della Commissione centrale per la finanza locale espresso nella 
 
 Visto l'art. 28 del testo unico per la finanza locale, approvato con Nostro decreto 14 settembre 1931-IX, n. 1175;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto con il Ministro per l'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto con il Ministro per l'interno; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il comune di Malcesine e' autorizzato a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo con la tariffa della classe superiore G.
 
-  
-  
-Il comune di Malcesine e' autorizzato a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo con la tariffa della classe superiore G.   
-  
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-All'Azienda autonoma di soggiorno del comune di Malcesine e' devoluto un quinto del maggior provento netto derivante dall'autorizzazione di cui al precedente articolo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 17 agosto 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 21 settembre 1941-XIX   
-  
-Atti del Governo, registro 437, foglio 68. - Mancini   
+All'Azienda autonoma di soggiorno del comune di Malcesine e' devoluto un quinto del maggior provento netto derivante dall'autorizzazione di cui al precedente articolo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 17 agosto 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 21 settembre 1941-XIX 
+ 
+ Atti del Governo, registro 437, foglio 68. - Mancini

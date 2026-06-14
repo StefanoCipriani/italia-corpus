@@ -1,22 +1,18 @@
-REGIO DECRETO 06 settembre 1902 n. CCCXXII
+---
+tipo: REGIO DECRETO
+numero: CCCXXII
+data: 1902-09-06
+titolo: "Con cui il «Rifugio Re Carlo Alberto» in Luserna San Giovanni viene eretto in ente morale e ne viene approvato lo statuto organico. (0200322R)"
+urn: urn:nir:stato:regio.decreto:1902-09-06;322
+codice_redazionale: 0200322R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 settembre 1902 n. CCCXXII
-==========================================
-
-Con cui il «Rifugio Re Carlo Alberto» in Luserna San Giovanni viene eretto in ente morale e ne viene approvato lo statuto organico. (0200322R)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/10/1902
-
-Art. 1
-------
-
-  
-Con cui il «Rifugio Re Carlo Alberto» in Luserna San Giovanni viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F.  
-Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 23 settembre 1902.   
-  
-Reg. 6. Atti del Governo a f. 15.   
-  
+Con cui il «Rifugio Re Carlo Alberto» in Luserna San Giovanni viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F.
+Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 23 settembre 1902. 
+ 
+ Reg. 6. Atti del Governo a f. 15.

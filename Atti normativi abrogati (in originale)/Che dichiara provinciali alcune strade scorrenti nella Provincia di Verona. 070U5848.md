@@ -1,16 +1,14 @@
-REGIO DECRETO 25 agosto 1870 n. 5848
-
-
-REGIO DECRETO 25 agosto 1870 n. 5848
-====================================
-
-Che dichiara provinciali alcune strade scorrenti nella Provincia di Verona. (070U5848)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/10/1870
+---
+tipo: REGIO DECRETO
+numero: 5848
+data: 1870-08-25
+titolo: "Che dichiara provinciali alcune strade scorrenti nella Provincia di Verona. (070U5848)"
+urn: urn:nir:stato:regio.decreto:1870-08-25;5848
+codice_redazionale: 070U5848
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,7 +24,7 @@ Vista la deliberazione presa dal Consiglio provinciale sopra i predetti ricorsi 
 
 Visto il parere esternato dal Consiglio superiore dei Lavori Pubblici il 2 luglio p. p.;
 
-Visti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della Legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato F;
+Visti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [14 della Legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), allegato F;
 
 Considerando:
 
@@ -40,37 +38,22 @@ Che non sono fondati i reclami degli altri Comuni sopraindicati per ottenere la 
 
 Sentito l'avviso del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate provinciali le otto strade della Provincia di Verona, descritte nell'unito Elenco, visto d'ordine Nostro dal predetto Ministro.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 25 agosto 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 5 settembre 1870   
-  
-Reg. 52 Atti del Governo a c. 88. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli   
-  
-G. Gadda.   
-  
-
-Elenco
-
-  
-Elenco delle strade provinciali nella provincia di Verona.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=070U584800100010110001&dgu=1870-09-26&art.dataPubblicazioneGazzetta=1870-09-26&art.codiceRedazionale=070U5848)
-  
+Sono dichiarate provinciali le otto strade della Provincia di Verona, descritte nell'unito Elenco, visto d'ordine Nostro dal predetto Ministro. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 25 agosto 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 5 settembre 1870 
+ 
+ Reg. 52 Atti del Governo a c. 88. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli 
+ 
+ G. Gadda.

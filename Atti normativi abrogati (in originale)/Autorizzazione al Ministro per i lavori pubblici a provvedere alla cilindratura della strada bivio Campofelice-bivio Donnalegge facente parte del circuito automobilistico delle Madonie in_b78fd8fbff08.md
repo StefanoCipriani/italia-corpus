@@ -1,16 +1,14 @@
-REGIO DECRETO-LEGGE 08 gennaio 1925 n. 131
-
-
-REGIO DECRETO-LEGGE 08 gennaio 1925 n. 131
-==========================================
-
-Autorizzazione al Ministro per i lavori pubblici a provvedere alla cilindratura della strada «bivio Campofelice-bivio Donnalegge» facente parte del circuito automobilistico delle Madonie, in provincia di Palermo. (025U0131)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/03/1925 Regio Decreto-Legge convertito dalla [L. 21 marzo 1926, n. 597](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597) (in G.U. 20/04/1926, n. 92).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 131
+data: 1925-01-08
+titolo: "Autorizzazione al Ministro per i lavori pubblici a provvedere alla cilindratura della strada «bivio Campofelice-bivio Donnalegge» facente parte del circuito automobilistico delle Madonie, in provincia di Palermo. (025U0131)"
+urn: urn:nir:stato:regio.decreto.legge:1925-01-08;131
+codice_redazionale: 025U0131
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,43 +20,32 @@ Ritenuto che delle strade componenti il cosi' detto circuito delle Madonie, in c
 
 Considerato che l'interesse nazionale delle gare svolgentisi nel circuito delle Madonie, col concorso anche di ditte straniere, consiglia e giustifica un provvedimento di eccezione in vista della prossima corsa per la Targa Florio, estendendo i menzionati lavori di sistemazione e cilindratura al tratto del circuito medesimo non iscritto in 1ª classe;
 
-Visto l'[art. 2 del R. decreto 11 novembre 1924, n. 1932](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-11;1932~art2), il quale mantiene ferme le assegnazioni risultanti da provvedimenti legislativi per opere speciali emanati successivamente al. [R. decreto 3 maggio 1924, n. 1285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-03;1285);
+Visto l'[art. 2 del R. decreto 11 novembre 1924, n. 1932](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-11;1932#art_2), il quale mantiene ferme le assegnazioni risultanti da provvedimenti legislativi per opere speciali emanati successivamente al. [R. decreto 3 maggio 1924, n. 1285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-05-03;1285);
 
 Ritenuto che alla presumibile spesa occorrente per la sistemazione e cilindratura della strada bivio Campofelice-bivio Donnalegge si potra' provvedere mediante le economie conseguibili nel complesso dei lavori da eseguire col fondo di L. 200,000,000 di cui al citato Nostro decreto 2 dicembre 1923, n. 3185;
 
 Su proposta del Nostro Ministro Segretario di Stato per i lavori pubblici di concerto col Ministro per le finanze;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il Ministro per i lavori pubblici e' autorizzato a provvedere col fondo di L. 200,000,000 di cui al Nostro decreto 2 dicembre 1923, n. 3185, anche alla sistemazione e cilindratura della strada facente parte del circuito automobilistico, detto delle Madonie, in provincia di Palermo, e compresa fra la strada di 1ª classe litoranea sicula n. 103 presso il bivio Campofelice e la strada di 1ª classe n. 107 presso il bivio Donnalegge.
 
-  
-  
-Il Ministro per i lavori pubblici e' autorizzato a provvedere col fondo di L. 200,000,000 di cui al Nostro decreto 2 dicembre 1923, n. 3185, anche alla sistemazione e cilindratura della strada facente parte del circuito automobilistico, detto delle Madonie, in provincia di Palermo, e compresa fra la strada di 1ª classe litoranea sicula n. 103 presso il bivio Campofelice e la strada di 1ª classe n. 107 presso il bivio Donnalegge.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 gennaio 1925.   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Giuriati - De' Stefani.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, con riserva, addi' 20 febbraio 1925.   
-  
-Atti del Governo, registro 233, foglio 135. - Granata.   
-  
+Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 gennaio 1925. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Giuriati - De' Stefani. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, con riserva, addi' 20 febbraio 1925. 
+ 
+ Atti del Governo, registro 233, foglio 135. - Granata.

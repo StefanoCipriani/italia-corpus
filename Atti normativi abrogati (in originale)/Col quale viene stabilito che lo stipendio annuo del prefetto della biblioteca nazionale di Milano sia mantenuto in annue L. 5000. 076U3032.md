@@ -1,16 +1,14 @@
-REGIO DECRETO 19 marzo 1876 n. 3032
-
-
-REGIO DECRETO 19 marzo 1876 n. 3032
-===================================
-
-Col quale viene stabilito che lo stipendio annuo del prefetto della biblioteca nazionale di Milano sia mantenuto in annue L. 5,000. (076U3032)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/04/1876
+---
+tipo: REGIO DECRETO
+numero: 3032
+data: 1876-03-19
+titolo: "Col quale viene stabilito che lo stipendio annuo del prefetto della biblioteca nazionale di Milano sia mantenuto in annue L. 5,000. (076U3032)"
+urn: urn:nir:stato:regio.decreto:1876-03-19;3032
+codice_redazionale: 076U3032
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,23 +20,16 @@ Veduto che al prefetto della detta Biblioteca e' assegnato lo stipendio annuo di
 
 Veduta la necessita' di rendere uniformi i provvedimenti sulle Biblioteche governative;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Lo stipendio annuo del prefetto della Biblioteca Nazionale di Milano e' mantenuto in annue lire cinquemila, ma senza l'alloggio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 marzo 1876.   
-  
-VITTORIO EMANUELE.   
-  
-R. Bonghi.   
-  
+Lo stipendio annuo del prefetto della Biblioteca Nazionale di Milano e' mantenuto in annue lire cinquemila, ma senza l'alloggio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 marzo 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ R. Bonghi.

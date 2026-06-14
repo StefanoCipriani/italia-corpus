@@ -1,16 +1,14 @@
-REGIO DECRETO 07 dicembre 1942 n. 1503
-
-
-REGIO DECRETO 07 dicembre 1942 n. 1503
-======================================
-
-Istituzione di' un nuovo posto di direttore generale nel ruolo centrale dell'Amministrazione delle corporazioni. (042U1503)
----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/01/1943
+---
+tipo: REGIO DECRETO
+numero: 1503
+data: 1942-12-07
+titolo: "Istituzione di' un nuovo posto di direttore generale nel ruolo centrale dell'Amministrazione delle corporazioni. (042U1503)"
+urn: urn:nir:stato:regio.decreto:1942-12-07;1503
+codice_redazionale: 042U1503
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,37 +28,28 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per le corporazioni, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per le corporazioni, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Nel ruolo del personale amministrativo gruppo A, dell'Amministrazione centrale del Ministero delle corporazioni, di cui alla tabella A annessa al R. decreto-legge 9 febbraio 1939-XVII, n. 271, modificata con l'articolo 2 del R. decreto 23 marzo 1940-XVIII, n. 245, e con l'art. 2 della legge 1° settembre 1940-XVIII, numero 1367, e' aumentato un posto di direttore generale (grado 4°). 
+ 
+ Uno dei direttori generali sara' preposto ai servizi dell'Ispettorato corporativo.
 
-  
-  
-Nel ruolo del personale amministrativo gruppo A, dell'Amministrazione centrale del Ministero delle corporazioni, di cui alla tabella A annessa al R. decreto-legge 9 febbraio 1939-XVII, n. 271, modificata con l'articolo 2 del R. decreto 23 marzo 1940-XVIII, n. 245, e con l'art. 2 della legge 1° settembre 1940-XVIII, numero 1367, e' aumentato un posto di direttore generale (grado 4°).   
-  
-Uno dei direttori generali sara' preposto ai servizi dell'Ispettorato corporativo.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Nella tabella del gruppo A dei ruoli dell'Ispettorato corporativo annessa alla legge 1° settembre 1940-XVIII, n. 1337, il numero dei posti di ispettore generale provinciale e' ridotto da cinque a quattro.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 dicembre 1942-XXI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - RICCI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 31 dicembre 1942-XXI   
-  
-Atti del Governo, registro 452, foglio 151. - MANCINI   
+Nella tabella del gruppo A dei ruoli dell'Ispettorato corporativo annessa alla legge 1° settembre 1940-XVIII, n. 1337, il numero dei posti di ispettore generale provinciale e' ridotto da cinque a quattro. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 dicembre 1942-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - RICCI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 31 dicembre 1942-XXI 
+ 
+ Atti del Governo, registro 452, foglio 151. - MANCINI

@@ -1,32 +1,27 @@
-REGIO DECRETO 21 giugno 1869 n. MMCLXV
+---
+tipo: REGIO DECRETO
+numero: MMCLXV
+data: 1869-06-21
+titolo: "Che approva il Regolamento per l'applicazione della tassa di famiglia o di fuocatico nella Provincia di Parma. (6902165R)"
+urn: urn:nir:stato:regio.decreto:1869-06-21;2165
+codice_redazionale: 6902165R
+vigente: true
+---
 
+## Articolo unico.
 
-REGIO DECRETO 21 giugno 1869 n. MMCLXV
-======================================
-
-Che approva il Regolamento per l'applicazione della tassa di famiglia o di fuocatico nella Provincia di Parma. (6902165R)
--------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/08/1869
-
-Articolo unico
---------------
-
-  
-  
-E' approvato il Regolamento per l'applicazione della tassa di famiglia o di fuocatico, deliberato dalla Deputazione provinciale di Parma.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 21 giugno 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 28 giugno 1869   
-  
-Reg. 47 Atti del Governo a c. 99. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Pironti.   
-  
-L. G. Cambray Digny.   
-  
+E' approvato il Regolamento per l'applicazione della tassa di famiglia o di fuocatico, deliberato dalla Deputazione provinciale di Parma. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 21 giugno 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 28 giugno 1869 
+ 
+ Reg. 47 Atti del Governo a c. 99. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Pironti. 
+ 
+ L. G. Cambray Digny.

@@ -1,22 +1,20 @@
-REGIO DECRETO 19 gennaio 1873 n. 1257
-
-
-REGIO DECRETO 19 gennaio 1873 n. 1257
-=====================================
-
-che concerne la classificazione delle strade provinciali di Roma. (073U1257)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/03/1873
+---
+tipo: REGIO DECRETO
+numero: 1257
+data: 1873-01-19
+titolo: "che concerne la classificazione delle strade provinciali di Roma. (073U1257)"
+urn: urn:nir:stato:regio.decreto:1873-01-19;1257
+codice_redazionale: 073U1257
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'Elenco delle strade provinciali di Roma, deliberato e successivamente modificato dalla Rappresentanza della Provincia nelle sedute 11 dicembre 1871, 29 febbraio, 29 e 31 maggio e 25 settembre 1872, a sensi degli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della Legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato F;
+Visto l'Elenco delle strade provinciali di Roma, deliberato e successivamente modificato dalla Rappresentanza della Provincia nelle sedute 11 dicembre 1871, 29 febbraio, 29 e 31 maggio e 25 settembre 1872, a sensi degli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [14 della Legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), allegato F;
 
 Visti i reclami elevati da parecchi Comuni della Provincia in seguito alla pubblicazione di detto Elenco;
 
@@ -30,37 +28,22 @@ Che le strade reclamate dagli altri Comuni non hanno i caratteri richiesti dalla
 
 Sentito l'avviso del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata la classificazione delle strade provinciali per la Provincia di Roma secondo l'Elenco visto d'ordine Nostro dal predetto Ministro ed unito al presente Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 49 gennaio 1873.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 31 gennaio 1873   
-  
-Vol. 66 Atti del Governo a c. 79. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Devincenzi.   
-  
-
-Elenco
-
-  
-ELENCO delle strade provinciali della Provincia di Roma.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=073U125700100010110001&dgu=1873-02-18&art.dataPubblicazioneGazzetta=1873-02-18&art.codiceRedazionale=073U1257)
-  
+E' approvata la classificazione delle strade provinciali per la Provincia di Roma secondo l'Elenco visto d'ordine Nostro dal predetto Ministro ed unito al presente Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 49 gennaio 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 31 gennaio 1873 
+ 
+ Vol. 66 Atti del Governo a c. 79. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Devincenzi.

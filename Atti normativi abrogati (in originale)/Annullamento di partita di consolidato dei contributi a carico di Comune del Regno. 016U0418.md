@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 17 febbraio 1916 n. 418
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 418
+data: 1916-02-17
+titolo: "Annullamento di partita di consolidato dei contributi a carico di Comune del Regno. (016U0418)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-02-17;418
+codice_redazionale: 016U0418
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 17 febbraio 1916 n. 418
-===============================================
-
-Annullamento di partita di consolidato dei contributi a carico di Comune del Regno. (016U0418)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/05/1916
-
-Art. 1
-------
-
-null
+## Art. 1. — null

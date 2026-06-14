@@ -1,22 +1,20 @@
-REGIO DECRETO 16 agosto 1906 n. 528
-
-
-REGIO DECRETO 16 agosto 1906 n. 528
-===================================
-
-Aumento del contributo annuo del Governo nei lavori di rimboscamento nella provincia di Torino. (006U0528)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/10/1906
+---
+tipo: REGIO DECRETO
+numero: 528
+data: 1906-08-16
+titolo: "Aumento del contributo annuo del Governo nei lavori di rimboscamento nella provincia di Torino. (006U0528)"
+urn: urn:nir:stato:regio.decreto:1906-08-16;528
+codice_redazionale: 006U0528
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto in data 28 luglio 1901 n. 396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-07-28;396), col quale veniva istituito in Torino un Comitato forestale onde procedere al rimboscamento, col concorso del Governo, dei terreni che per la loro natura e situazione influiscono a disordinare il corso delle acque e ad alterare la consistenza del suolo;
+Visto il [R. decreto in data 28 luglio 1901 n. 396](Autorizzante%20il%20Comitato%20forestale%20della%20provincia%20di%20Torino%20a%20promuovere%20il%20rimboscamento%20ed%20il%20rinsaldamento%20di%20terreni%20montani%20i%20quali%20per%20la%20loro%20situazione%20e%20natura%20compromettano%20la%20_c8855bdeb96f.md), col quale veniva istituito in Torino un Comitato forestale onde procedere al rimboscamento, col concorso del Governo, dei terreni che per la loro natura e situazione influiscono a disordinare il corso delle acque e ad alterare la consistenza del suolo;
 
 Visto che col suddetto R. decreto si stabiliva che il Governo concorresse nella meta' delle spese per i lavori di rimboscamento su indicati e fino alla somma annua di L. 15,000, e che l'altra meta' rimanesse a carico della Provincia;
 
@@ -24,27 +22,20 @@ Vista la deliberazione in data 23 novembre 1905 del Consiglio provinciale di Tor
 
 Visti gli articoli 5 ed 11 della legge forestale vigente 20 giugno 1877, n. 3917 (serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro ministro per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il contributo annuo del Governo nei lavori di rimboscamento da eseguirsi nella provincia di Torino, cura di quel Comitato forestale, determinato fino alla somma di L. 15,000, col [R. decreto 28 luglio 1901, n. 396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-07-28;396), e' aumentato, a decorrere dal corrente esercizio finanziario, fino alla somma di L. 25,000 corrispondente al contributo stabilito dalla Provincia interessata.   
-  
-La somma di L. 25,000 anzidetta, sara' prelevata dal fondo stanziato nel bilancio passivo del Ministero di agricoltura, industria e commercio al capitolo 94 per l'esercizio finanziario 1906-907 ed al capitolo corrispondente dei bilanci per gli esercizi futuri.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 16 agosto 1906.   
-  
-VITTORIO EMANUELE.   
-  
-Cocco-Ortu.   
-  
-Visto, Il guardasigilli: Gallo.   
-  
+Il contributo annuo del Governo nei lavori di rimboscamento da eseguirsi nella provincia di Torino, cura di quel Comitato forestale, determinato fino alla somma di L. 15,000, col [R. decreto 28 luglio 1901, n. 396](Autorizzante%20il%20Comitato%20forestale%20della%20provincia%20di%20Torino%20a%20promuovere%20il%20rimboscamento%20ed%20il%20rinsaldamento%20di%20terreni%20montani%20i%20quali%20per%20la%20loro%20situazione%20e%20natura%20compromettano%20la%20_c8855bdeb96f.md), e' aumentato, a decorrere dal corrente esercizio finanziario, fino alla somma di L. 25,000 corrispondente al contributo stabilito dalla Provincia interessata. 
+ 
+ La somma di L. 25,000 anzidetta, sara' prelevata dal fondo stanziato nel bilancio passivo del Ministero di agricoltura, industria e commercio al capitolo 94 per l'esercizio finanziario 1906-907 ed al capitolo corrispondente dei bilanci per gli esercizi futuri. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 16 agosto 1906. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Cocco-Ortu. 
+ 
+ Visto, Il guardasigilli: Gallo.

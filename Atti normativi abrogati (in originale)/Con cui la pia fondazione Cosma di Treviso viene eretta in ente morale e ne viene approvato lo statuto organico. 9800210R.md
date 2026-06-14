@@ -1,21 +1,17 @@
-REGIO DECRETO 07 luglio 1898 n. CCX
+---
+tipo: REGIO DECRETO
+numero: CCX
+data: 1898-07-07
+titolo: "Con cui la pia fondazione Cosma di Treviso viene eretta in ente morale e ne viene approvato lo statuto organico. (9800210R)"
+urn: urn:nir:stato:regio.decreto:1898-07-07;210
+codice_redazionale: 9800210R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 luglio 1898 n. CCX
-===================================
-
-Con cui la pia fondazione Cosma di Treviso viene eretta in ente morale e ne viene approvato lo statuto organico. (9800210R)
----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/08/1898
-
-Art. 1
-------
-
-  
-Con cui la pia fondazione Cosma di Treviso viene eretta in ente morale e ne viene approvato lo statuto organico. - Firmato UMBERTO - Controfirmato Pelloux - Visto C. Finocchiaro Aprile.   
-  
-Registrato alla Corte dei Conti addi' 21 luglio 1898.   
-  
-Reg. 216. Atti del Governo a f. 47.   
-  
+Con cui la pia fondazione Cosma di Treviso viene eretta in ente morale e ne viene approvato lo statuto organico. - Firmato UMBERTO - Controfirmato Pelloux - Visto C. Finocchiaro Aprile. 
+ 
+ Registrato alla Corte dei Conti addi' 21 luglio 1898. 
+ 
+ Reg. 216. Atti del Governo a f. 47.

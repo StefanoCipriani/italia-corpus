@@ -1,16 +1,14 @@
-REGIO DECRETO 09 gennaio 1879 n. 4689
-
-
-REGIO DECRETO 09 gennaio 1879 n. 4689
-=====================================
-
-Separa dalla sezione principale del collegio elettorale di Amalfi il comune di Atrani e ne forma una sezione distinta dello stesso collegio. (079U4689)
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/02/1879
+---
+tipo: REGIO DECRETO
+numero: 4689
+data: 1879-01-09
+titolo: "Separa dalla sezione principale del collegio elettorale di Amalfi il comune di Atrani e ne forma una sezione distinta dello stesso collegio. (079U4689)"
+urn: urn:nir:stato:regio.decreto:1879-01-09;4689
+codice_redazionale: 079U4689
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Ritenuto che il comune di Atrani conta 210 elettori, numero questo molto superio
 
 Considerando che, istituendo una sezione elettorale in Atrani si rende piu' facile l'esercizio del diritto elettorale ad un'agguardevole numero di elettori;
 
-Sulla
------
+Sulla proposta del nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Atrani e' separato dalla sezione principale del Collegio elettorale di Amalfi, e formera' una sezione distinta dello stesso Collegio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 gennaio 1879.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
+Il comune di Atrani e' separato dalla sezione principale del Collegio elettorale di Amalfi, e formera' una sezione distinta dello stesso Collegio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 gennaio 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.

@@ -1,19 +1,15 @@
-REGIO DECRETO 11 gennaio 1914 n. 20
+---
+tipo: REGIO DECRETO
+numero: 20
+data: 1914-01-11
+titolo: "Soppressione di consolato. (014U0020)"
+urn: urn:nir:stato:regio.decreto:1914-01-11;20
+codice_redazionale: 014U0020
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 gennaio 1914 n. 20
-===================================
-
-Soppressione di consolato. (014U0020)
--------------------------------------
-
-Entrata in vigore del provvedimento: 13/02/1914
-
-Art. 1
-------
-
-  
-N. 20   
-  
-Regio Decreto 11 gennaio 1914, col quale, sulla proposta del ministro degli affari esteri, e' soppresso il Consolato in Colonia ed e' istituito un Consolato in Gondar (Abissinia).   
-  
+N. 20 
+ 
+ Regio Decreto 11 gennaio 1914, col quale, sulla proposta del ministro degli affari esteri, e' soppresso il Consolato in Colonia ed e' istituito un Consolato in Gondar (Abissinia).

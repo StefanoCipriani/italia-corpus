@@ -1,16 +1,14 @@
-REGIO DECRETO 16 maggio 1871 n. 223
-
-
-REGIO DECRETO 16 maggio 1871 n. 223
-===================================
-
-Col quale i Comuni di Piazza al Serchio, Giuncugnano e Sillano costituiranno una Sezione elettorale separata del Collegio di Castelnuovo Garfagnana. (071U0223)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/06/1871
+---
+tipo: REGIO DECRETO
+numero: 223
+data: 1871-05-16
+titolo: "Col quale i Comuni di Piazza al Serchio, Giuncugnano e Sillano costituiranno una Sezione elettorale separata del Collegio di Castelnuovo Garfagnana. (071U0223)"
+urn: urn:nir:stato:regio.decreto:1871-05-16;223
+codice_redazionale: 071U0223
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,28 +24,20 @@ Noverandosi nei Comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Piazza al Serchio, Giuncugnano e Sillano costituiranno d'ora in poi una Sezione elettorale separata del Collegio di Castelnuovo Garfagnana, n. 218, con sede nel capoluogo del Comune di Piazza al Serchio, ferma rimanendo la Sezione di Minucciano per gli elettori di quel Comune.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 16 maggio 1871.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 25 maggio 1871   
-Reg. 56 Atti del Governo a c. 16. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli DE FALCO.   
-  
-G. LANZA.   
-  
-  
+I Comuni di Piazza al Serchio, Giuncugnano e Sillano costituiranno d'ora in poi una Sezione elettorale separata del Collegio di Castelnuovo Garfagnana, n. 218, con sede nel capoluogo del Comune di Piazza al Serchio, ferma rimanendo la Sezione di Minucciano per gli elettori di quel Comune. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 16 maggio 1871. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 25 maggio 1871 
+ Reg. 56 Atti del Governo a c. 16. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli DE FALCO. 
+ 
+ G. LANZA.

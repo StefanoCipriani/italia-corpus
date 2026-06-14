@@ -1,20 +1,17 @@
-REGIO DECRETO 09 ottobre 1861 n. CLXXVII
+---
+tipo: REGIO DECRETO
+numero: CLXXVII
+data: 1861-10-09
+titolo: "Che approva il regolamento di polizia rurale pel Comune di Ossi. (6100177R)"
+urn: urn:nir:stato:regio.decreto:1861-10-09;177
+codice_redazionale: 6100177R
+vigente: true
+---
 
-
-REGIO DECRETO 09 ottobre 1861 n. CLXXVII
-========================================
-
-Che approva il regolamento di polizia rurale pel Comune di Ossi. (6100177R)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/10/1861
-
-Art. 1
-------
+## Art. 1.
 
 Che approva il regolamento di polizia rurale deliberato dalla Comunita' di Ossi (Circondario di Sassari) in adunanza del 18 agosto
 
-1861. 
-  
-  
+1861.
+
 Torino 9 ottobre 1861

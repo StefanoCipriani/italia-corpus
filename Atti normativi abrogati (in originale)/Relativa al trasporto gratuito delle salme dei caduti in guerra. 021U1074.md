@@ -1,112 +1,69 @@
-LEGGE 11 agosto 1921 n. 1074
+---
+tipo: LEGGE
+numero: 1074
+data: 1921-08-11
+titolo: "Relativa al trasporto gratuito delle salme dei caduti in guerra. (021U1074)"
+urn: urn:nir:stato:legge:1921-08-11;1074
+codice_redazionale: 021U1074
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 11 agosto 1921 n. 1074
-============================
+Lo Stato assume a suo carico, su richiesta della famiglia, il trasporto di tutti i militari del R. esercito e della R. marina che cessarono di vivere, per ferite, in conseguenza dell'ultima guerra mondiale. 
+ 
+ I trasporti dall'estero saranno subordinati agli accordi da convenirsi cogli altri Stati. 
+ 
+ Il provvedimento e' esteso al trasporto delle salme dei militari deceduti per malattia e sepolti nel territorio gia' dichiarato zona di guerra.
 
-Relativa al trasporto gratuito delle salme dei caduti in guerra. (021U1074)
----------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 04/09/1921
+I trasporti saranno effettuati collettivamente e gradualmente in rapporto alle condizioni dei servizi ferroviari e marittimi, ed alla capacita' dell'area di inumazione nei cimiteri di destinazione.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-  
-Lo Stato assume a suo carico, su richiesta della famiglia, il trasporto di tutti i militari del R. esercito e della R. marina che cessarono di vivere, per ferite, in conseguenza dell'ultima guerra mondiale.   
-  
-I trasporti dall'estero saranno subordinati agli accordi da convenirsi cogli altri Stati.   
-  
-Il provvedimento e' esteso al trasporto delle salme dei militari deceduti per malattia e sepolti nel territorio gia' dichiarato zona di guerra.   
-  
+Nel caso che l'area di inumazione nei cimiteri comunali non sia sufficiente per ricevere le salme dei caduti, i Comuni dovranno procedere al necessario ampliamento e per la spesa relativa i Comuni con popolazione non superiore ai 100 mila abitanti, potranno ottenere la concessione di un mutuo di favore a termine della [legge 25 giugno 1911, n. 586](Che%20concede%20agevolezze%20ai%20comuni%20del%20Regno%20per%20la%20provvista%20di%20acque%20potabili%20per%20la%20esecuzione%20di%20opere%20digiene%20e%20per%20la%20costruzione%20o%20sistemazione%20di%20ospedali%20comunali%20e%20consorziali.%20011U0586.md), e del [R. decreto 6 ottobre 1919, n. 1909](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-06;1909). 
+ 
+ Nei casi di ritardo provvedera' di ufficio la Giunta provinciale amministrativa a termini dell'art. 220 testo unico legge comunale e provinciale 4 febbraio 1915, n. 148.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-  
-I trasporti saranno effettuati collettivamente e gradualmente in rapporto alle condizioni dei servizi ferroviari e marittimi, ed alla capacita' dell'area di inumazione nei cimiteri di destinazione.   
-  
+L'autorizzazione al trasporto delle salme dei caduti in guerra e' esente dalle tasse di bollo e di concessione governativa. 
+ 
+ Le esumazioni e le inumazioni sono esenti da ogni tassa comunale.
 
-Art. 3
-------
+## Art. 5.
 
-  
-  
-  
-Nel caso che l'area di inumazione nei cimiteri comunali non sia sufficiente per ricevere le salme dei caduti, i Comuni dovranno procedere al necessario ampliamento e per la spesa relativa i Comuni con popolazione non superiore ai 100 mila abitanti, potranno ottenere la concessione di un mutuo di favore a termine della [legge 25 giugno 1911, n. 586](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-25;586), e del [R. decreto 6 ottobre 1919, n. 1909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-10-06;1909).   
-  
-Nei casi di ritardo provvedera' di ufficio la Giunta provinciale amministrativa a termini dell'art. 220 testo unico legge comunale e provinciale 4 febbraio 1915, n. 148.   
-  
+Le esumazioni delle salme dei caduti potranno per il trasporto, essere autorizzate anche nei mesi dal maggio al settembre, ove non ostino particolari ragioni di ordine igienico.
 
-Art. 4
-------
+## Art. 6.
 
-  
-  
-  
-L'autorizzazione al trasporto delle salme dei caduti in guerra e' esente dalle tasse di bollo e di concessione governativa.   
-  
-Le esumazioni e le inumazioni sono esenti da ogni tassa comunale.   
+Le istanze per l'autorizzazione al trasporto e la concessione gratuita di esso potranno essere presentate, per mezzo delle prefetture, dagli ascendenti, discendenti, vedove, fratelli e sorelle dei caduti della cui salma si chiede il trasporto, nel termine di sei mesi dalla data del R. decreto di cui al primo comma del successivo art. 8.
 
-Art. 5
-------
+## Art. 7.
 
-  
-  
-  
-Le esumazioni delle salme dei caduti potranno per il trasporto, essere autorizzate anche nei mesi dal maggio al settembre, ove non ostino particolari ragioni di ordine igienico.   
-  
+Il Ministero della guerra provvede ai vari servizi per il trasporto delle salme.
 
-Art. 6
-------
+## Art. 8.
 
-  
-  
-  
-Le istanze per l'autorizzazione al trasporto e la concessione gratuita di esso potranno essere presentate, per mezzo delle prefetture, dagli ascendenti, discendenti, vedove, fratelli e sorelle dei caduti della cui salma si chiede il trasporto, nel termine di sei mesi dalla data del R. decreto di cui al primo comma del successivo art. 8.   
+Il servizio dei trasporti sara' regolato con norme da stabilirsi con R. decreto, su proposta del Ministero della guerra, d'intesa con quelli dell'interno e della marina, delle colonie, del tesoro, dei lavori pubblici, dell'industria e degli affari esteri. 
+ 
+ Con altro R. decreto sara' fissata la data in cui saranno iniziati i trasporti gratuiti, sara' stabilita la partecipazione dei servizi comunali di polizia mortuaria e fissato il contributo dello Stato ai Comuni per le spese relative.
 
-Art. 7
-------
+## Art. 9.
 
-  
-  
-  
-Il Ministero della guerra provvede ai vari servizi per il trasporto delle salme.   
-  
-
-Art. 8
-------
-
-  
-  
-  
-Il servizio dei trasporti sara' regolato con norme da stabilirsi con R. decreto, su proposta del Ministero della guerra, d'intesa con quelli dell'interno e della marina, delle colonie, del tesoro, dei lavori pubblici, dell'industria e degli affari esteri.   
-  
-Con altro R. decreto sara' fissata la data in cui saranno iniziati i trasporti gratuiti, sara' stabilita la partecipazione dei servizi comunali di polizia mortuaria e fissato il contributo dello Stato ai Comuni per le spese relative.   
-
-Art. 9
-------
-
-  
-  
-  
-Per l'esecuzione della presente legge e' autorizzata l'assegnazione straordinaria di lire 90 milioni.   
-  
-La detta somma sara', con decreto del ministro del tesoro, inscritta in apposito capitolo dello Stato di previsione del Ministero della guerra per l'esercizio 1921-922 e successivi in relazione ai bisogni presumibili per ogni esercizio.   
-  
-Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Roma, addi' 11 agosto 1921.   
-  
-VITTORIO EMANUELE.   
-  
-Bonomi - Gasparotto - Da Nava -   
-Girardini - Micheli - Belotti   
-- Bergamasco.   
-  
-Visto, Il guardasigilli: Rodino'.   
-  
+Per l'esecuzione della presente legge e' autorizzata l'assegnazione straordinaria di lire 90 milioni. 
+ 
+ La detta somma sara', con decreto del ministro del tesoro, inscritta in apposito capitolo dello Stato di previsione del Ministero della guerra per l'esercizio 1921-922 e successivi in relazione ai bisogni presumibili per ogni esercizio. 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Roma, addi' 11 agosto 1921. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Bonomi - Gasparotto - Da Nava - 
+ Girardini - Micheli - Belotti 
+ - Bergamasco. 
+ 
+ Visto, Il guardasigilli: Rodino'.

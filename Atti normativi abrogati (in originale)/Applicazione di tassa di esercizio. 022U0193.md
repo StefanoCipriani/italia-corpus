@@ -1,17 +1,17 @@
-REGIO DECRETO 05 gennaio 1922 n. 193
+---
+tipo: REGIO DECRETO
+numero: 193
+data: 1922-01-05
+titolo: "Applicazione di tassa di esercizio. (022U0193)"
+urn: urn:nir:stato:regio.decreto:1922-01-05;193
+codice_redazionale: 022U0193
+vigente: true
+---
 
-
-REGIO DECRETO 05 gennaio 1922 n. 193
-====================================
-
-Applicazione di tassa di esercizio. (022U0193)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 09/04/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-193. Regio decreto 5 gennaio 1922, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Lonate Ceppino (Como) di applicare dal 1° gennaio al 31 dicembre 1921 la tassa di esercizio col limite massimo fino a lire 1500.
+193.
+
+Regio decreto 5 gennaio 1922, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Lonate Ceppino (Como) di applicare dal 1° gennaio al 31 dicembre 1921 la tassa di esercizio col limite massimo fino a lire 1500.

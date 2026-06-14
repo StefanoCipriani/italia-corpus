@@ -1,16 +1,14 @@
-REGIO DECRETO 13 ottobre 1864 n. 1960
-
-
-REGIO DECRETO 13 ottobre 1864 n. 1960
-=====================================
-
-Circa la destinazione a darsi dell'assegnamento gia' fissato per l'istruzione della nautica pratica nella Scuola preparatoria di Marina in Livorno. (064U1960)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/11/1864
+---
+tipo: REGIO DECRETO
+numero: 1960
+data: 1864-10-13
+titolo: "Circa la destinazione a darsi dell'assegnamento gia' fissato per l'istruzione della nautica pratica nella Scuola preparatoria di Marina in Livorno. (064U1960)"
+urn: urn:nir:stato:regio.decreto:1864-10-13;1960
+codice_redazionale: 064U1960
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Considerando l'opportunita' di sopprimere l'insegnamento della nautica pratica i
 
 Considerando la convenienza di erogare i fondi pel predetto insegnamento a quello di un altro ramo di matematica;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio, Ministro degli Affari Esteri, incaricato interinalmente del portafoglio della Marina; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio, Ministro degli Affari Esteri, incaricato interinalmente del portafoglio della Marina; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'assegnamento fissato dal R. Decreto 6 gennaio 1861 per l'istruzione della nautica pratica nella Scuola preparatoria di Marina in Livorno, a far tempo dall'anno scolastico 1864-1865, sara' devoluto invece ad un Professore incaricato dell'istruzione di un altro ramo di matematica nella Scuola suddetta, rimanendo cosi' fermo il numero dei tre Professori pei quali e' inscritta sul bilancio della Marina la somma di L. 3,600.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 13 ottobre 1864.   
-  
-VITTORIO EMANUELE   
-  
-Alfonso La Marmora.   
-  
-Registrato alla Corte dei conti addi' 18 ottobre 1864   
-  
-Reg.° 31 Atti del Governo a c. 81. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
+L'assegnamento fissato dal R. Decreto 6 gennaio 1861 per l'istruzione della nautica pratica nella Scuola preparatoria di Marina in Livorno, a far tempo dall'anno scolastico 1864-1865, sara' devoluto invece ad un Professore incaricato dell'istruzione di un altro ramo di matematica nella Scuola suddetta, rimanendo cosi' fermo il numero dei tre Professori pei quali e' inscritta sul bilancio della Marina la somma di L. 3,600. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 13 ottobre 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Alfonso La Marmora. 
+ 
+ Registrato alla Corte dei conti addi' 18 ottobre 1864 
+ 
+ Reg.° 31 Atti del Governo a c. 81. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca.

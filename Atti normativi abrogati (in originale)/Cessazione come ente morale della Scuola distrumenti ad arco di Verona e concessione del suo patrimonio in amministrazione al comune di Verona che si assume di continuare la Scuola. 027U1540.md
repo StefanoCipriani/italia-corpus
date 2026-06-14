@@ -1,16 +1,14 @@
-REGIO DECRETO 16 giugno 1927 n. 1540
-
-
-REGIO DECRETO 16 giugno 1927 n. 1540
-====================================
-
-Cessazione come ente morale della Scuola d'istrumenti ad arco di Verona, e concessione del suo patrimonio in amministrazione al comune di Verona, che si assume di continuare la Scuola. (027U1540)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/09/1927
+---
+tipo: REGIO DECRETO
+numero: 1540
+data: 1927-06-16
+titolo: "Cessazione come ente morale della Scuola d'istrumenti ad arco di Verona, e concessione del suo patrimonio in amministrazione al comune di Verona, che si assume di continuare la Scuola. (027U1540)"
+urn: urn:nir:stato:regio.decreto:1927-06-16;1540
+codice_redazionale: 027U1540
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,31 +26,24 @@ Vista la lettera 15 luglio 1926, n. 2153, diretta dal prefetto di Verona al Mini
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'istruzione pubblica; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'istruzione pubblica; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Scuola d'istrumenti ad arco di Verona cessa come ente morale e al comune di Verona, che si assume di continuare la Scuola stessa come Istituto proprio, si concede in amministrazione il patrimonio della Scuola. A tal fine si dispone che i capitali rappresentati dai libretti della locale Cassa di risparmio portanti il n. 176037 con L. 1261.12; n. 176038 con L. 2548.93; n. 156279 con L. 3.45; n. 239115 con L. 1020 ; n. 228548 con L. 727, variamente intestati, ma tutti appartenenti alla Scuola, vengano investiti in uno o piu' titoli di rendita pubblica ed intestati al «Comune di Verona per la Scuola di strumenti ad arco», e che la cartella nominativa del Debito pubblico 3.50% n. 118053 del valore nominale di L. 10,000 e l'altra col n. 650213 del valore nominale di L. 9200 vengano pure intestate come si e' ora detto.   
-  
-La Scuola sara' vigilata dal Ministero proponente cui e' conferita la facolta' di approvare il regolamento della Scuola, ed ogni modifica di esso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 16 giugno 1927 - Anno V   
-  
-VITTORIO EMANUELE.   
-  
-Fedele.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 30 agosto 1927 - Anno V   
-  
-Atti del Governo, registro 263, foglio 239. - Casati.   
-  
+La Scuola d'istrumenti ad arco di Verona cessa come ente morale e al comune di Verona, che si assume di continuare la Scuola stessa come Istituto proprio, si concede in amministrazione il patrimonio della Scuola. A tal fine si dispone che i capitali rappresentati dai libretti della locale Cassa di risparmio portanti il n. 176037 con L. 1261.12; n. 176038 con L. 2548.93; n. 156279 con L. 3.45; n. 239115 con L. 1020 ; n. 228548 con L. 727, variamente intestati, ma tutti appartenenti alla Scuola, vengano investiti in uno o piu' titoli di rendita pubblica ed intestati al «Comune di Verona per la Scuola di strumenti ad arco», e che la cartella nominativa del Debito pubblico 3.50% n. 118053 del valore nominale di L. 10,000 e l'altra col n. 650213 del valore nominale di L. 9200 vengano pure intestate come si e' ora detto. 
+ 
+ La Scuola sara' vigilata dal Ministero proponente cui e' conferita la facolta' di approvare il regolamento della Scuola, ed ogni modifica di esso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 16 giugno 1927 - Anno V 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Fedele. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 30 agosto 1927 - Anno V 
+ 
+ Atti del Governo, registro 263, foglio 239. - Casati.

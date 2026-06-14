@@ -1,17 +1,17 @@
-REGIO DECRETO 11 ottobre 1920 n. 1535
+---
+tipo: REGIO DECRETO
+numero: 1535
+data: 1920-10-11
+titolo: "Erezione in Ente morale. (020U1535)"
+urn: urn:nir:stato:regio.decreto:1920-10-11;1535
+codice_redazionale: 020U1535
+vigente: true
+---
 
-
-REGIO DECRETO 11 ottobre 1920 n. 1535
-=====================================
-
-Erezione in Ente morale. (020U1535)
------------------------------------
-
-Entrata in vigore del provvedimento: 26/11/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1535. Regio decreto 11 ottobre 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, la Fondazione Giacomo Gridi, con sede nel comune di Lecce, e' eretta in ente morale con amministrazione autonoma.
+1535.
+
+Regio decreto 11 ottobre 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, la Fondazione Giacomo Gridi, con sede nel comune di Lecce, e' eretta in ente morale con amministrazione autonoma.

@@ -1,16 +1,14 @@
-REGIO DECRETO 11 luglio 1877 n. 3956
-
-
-REGIO DECRETO 11 luglio 1877 n. 3956
-====================================
-
-Che dichiara governativi il liceo ginnasiale e il convitto Tulliano di Arpino. (077U3956)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/08/1877
+---
+tipo: REGIO DECRETO
+numero: 3956
+data: 1877-07-11
+titolo: "Che dichiara governativi il liceo ginnasiale e il convitto Tulliano di Arpino. (077U3956)"
+urn: urn:nir:stato:regio.decreto:1877-07-11;3956
+codice_redazionale: 077U3956
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,39 +24,24 @@ Visto che il Governo piglierebbe la direzione cosi' del Liceo Ginnasiale che del
 
 Vista la legge del nostro Luogotenente per le provincie Napoletane del 10 febbraio 1861 e il relativo regolamento approvato in data 10 aprile stesso anno;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il Liceo Ginnasiale e il Convitto Tulliano di Arpino sono dichiarati governativi.
 
-  
-  
-  
-Il Liceo Ginnasiale e il Convitto Tulliano di Arpino sono dichiarati governativi.   
+## Art. 2.
 
-Art. 2
-------
+Il Governo avra' la direzione dei due Istituti scolastico ed educativo, provvedera' al personale a norma delle vigenti leggi, senza obbligo di concorrere alla spesa.
 
-  
-  
-  
-Il Governo avra' la direzione dei due Istituti scolastico ed educativo, provvedera' al personale a norma delle vigenti leggi, senza obbligo di concorrere alla spesa.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-  
-Gli Istituti saranno mantenuti colle rendite onde sono provvisti, e con gli assegni deliberati dalla provincia di Caserta e dal municipio di Arpino.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Anna di Valdieri, addi' 11 luglio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-M. Coppino.   
+Gli Istituti saranno mantenuti colle rendite onde sono provvisti, e con gli assegni deliberati dalla provincia di Caserta e dal municipio di Arpino. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Anna di Valdieri, addi' 11 luglio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. Coppino.

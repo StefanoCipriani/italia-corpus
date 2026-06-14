@@ -1,16 +1,14 @@
-REGIO DECRETO 15 giugno 1877 n. 3886
-
-
-REGIO DECRETO 15 giugno 1877 n. 3886
-====================================
-
-Che separa il comune di Rocca S. Giovanni dalla sezione elettorale di Fossacesia e lo costituisce in sezione distinta del collegio di Lanciano. (077U3886)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/07/1877
+---
+tipo: REGIO DECRETO
+numero: 3886
+data: 1877-06-15
+titolo: "Che separa il comune di Rocca S. Giovanni dalla sezione elettorale di Fossacesia e lo costituisce in sezione distinta del collegio di Lanciano. (077U3886)"
+urn: urn:nir:stato:regio.decreto:1877-06-15;3886
+codice_redazionale: 077U3886
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Rocca S. Giovanni e' separato dalla sezione elettorale di Fossacesia, e formera' una sezione distinta del Collegio elettorale di Lanciano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Pollenzo, addi' 15 giugno 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il comune di Rocca S. Giovanni e' separato dalla sezione elettorale di Fossacesia, e formera' una sezione distinta del Collegio elettorale di Lanciano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Pollenzo, addi' 15 giugno 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

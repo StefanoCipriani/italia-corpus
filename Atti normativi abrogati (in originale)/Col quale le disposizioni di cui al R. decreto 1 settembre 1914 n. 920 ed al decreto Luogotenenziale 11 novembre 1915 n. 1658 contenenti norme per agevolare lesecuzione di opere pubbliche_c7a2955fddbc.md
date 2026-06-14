@@ -1,17 +1,14 @@
-DECRETO-LEGGE LUOGOTENENZIALE 18 maggio 1916 n. 660
-
-
-DECRETO-LEGGE LUOGOTENENZIALE 18 maggio 1916 n. 660
-===================================================
-
-Col quale le disposizioni di cui al R. decreto 1 settembre 1914, n. 920, ed al decreto Luogotenenziale 11 novembre 1915, n. 1658, contenenti norme per agevolare l'esecuzione di opere pubbliche per conto dello Stato, delle Provincie e dei Comuni sono prorogate per tutta la durata della guerra (016U0660)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/06/1916  
-Decreto-Legge Luogotenenziale convertito dalla [L. 15 ottobre 1923, n. 2293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-10-15;2293) (in G.U. 12/11/1923, n.265).
+---
+tipo: DECRETO-LEGGE LUOGOTENENZIALE
+numero: 660
+data: 1916-05-18
+titolo: "Col quale le disposizioni di cui al R. decreto 1 settembre 1914, n. 920, ed al decreto Luogotenenziale 11 novembre 1915, n. 1658, contenenti norme per agevolare l'esecuzione di opere pubbliche per conto dello Stato, delle Provincie e dei Comuni sono prorogate per tutta la durata della guerra (016U0660)"
+urn: urn:nir:stato:decreto.legge.luogotenenziale:1916-05-18;660
+codice_redazionale: 016U0660
+vigente: true
+---
 
 TOMASO DI SAVOIA DUCA DI GENOVA
--------------------------------
 
 Luogotenente Generale di Sua Maesta'
 
@@ -27,35 +24,22 @@ Ritenuta la necessita' di prorogare per tutta la durata della guerra le norme di
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del ministro segretario di Stato per i lavori pubblici, di concerto col presidente del Consiglio, ministro dell'interno, e col ministro del tesoro; Abbiamo decretato e decretiamo:
 
-proposta del ministro segretario di Stato per i lavori pubblici, di concerto col presidente del Consiglio, ministro dell'interno, e col ministro del tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Le disposizioni di cui al [R. decreto 1° settembre 1914, n. 920](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-01;920), ed al decreto Luogotenenziale 11 novem- 1915, n. 1658, contenenti norme per agevolare l'esecuzione di opere pubbliche per conto dello Stato, delle Provincie e dei Comuni, avranno vigore per tutta la durata della guerra.
 
-  
-  
-  
-Le disposizioni di cui al [R. decreto 1° settembre 1914, n. 920](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-01;920), ed al decreto Luogotenenziale 11 novem- 1915, n. 1658, contenenti norme per agevolare l'esecuzione di opere pubbliche per conto dello Stato, delle Provincie e dei Comuni, avranno vigore per tutta la durata della guerra.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-  
-Il presente decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 maggio 1916.   
-  
-TOMASO DI SAVOIA.   
-  
-Salandra - Carcano - Ciuffelli.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 maggio 1916. 
+ 
+ TOMASO DI SAVOIA. 
+ 
+ Salandra - Carcano - Ciuffelli. 
+ 
+ Visto, Il guardasigilli: Orlando.

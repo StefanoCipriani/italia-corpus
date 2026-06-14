@@ -1,22 +1,20 @@
-REGIO DECRETO 27 ottobre 1884 n. 2832
-
-
-REGIO DECRETO 27 ottobre 1884 n. 2832
-=====================================
-
-Con cui e' modificato l'elenco delle strade provinciali di Pisa. (084U2832)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/01/1885
+---
+tipo: REGIO DECRETO
+numero: 2832
+data: 1884-10-27
+titolo: "Con cui e' modificato l'elenco delle strade provinciali di Pisa. (084U2832)"
+urn: urn:nir:stato:regio.decreto:1884-10-27;2832
+codice_redazionale: 084U2832
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la deliberazione 4 gennaio 1882 del Consiglio provinciale di Pisa, con cui si stabilisce, tra l'altro, di aggiungere all'elenco delle provinciali, per la parte scorrente nel territorio di quella provincia, le strade seguenti, iscritte nella [legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333), tabella B, elenco III, sotto i numeri 127, 128, 129 e 156:
+Vista la deliberazione 4 gennaio 1882 del Consiglio provinciale di Pisa, con cui si stabilisce, tra l'altro, di aggiungere all'elenco delle provinciali, per la parte scorrente nel territorio di quella provincia, le strade seguenti, iscritte nella [legge 23 luglio 1881, n. 333](Che%20autorizza%20la%20spesa%20di%20lire%20225126704%20per%20la%20costruzione%20di%20nuove%20opere%20straordinarie%20stradali%20ed%20idrauliche%20nel%20quindicennio%201881-1895.%20081U0333.md), tabella B, elenco III, sotto i numeri 127, 128, 129 e 156:
 
 a) Strada da Altopascio a Bientina, con diramazione alla provinciale del Tiglio (N. 127);
 
@@ -42,33 +40,22 @@ Vista la legge 20 marzo 1865, allegato F, e l'altra 23 luglio 1881, n. 333, nonc
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+All'elenco delle strade provinciali di Pisa sono aggiunte, per la parte scorrente nel territorio di quella provincia, le quattro strade gia' menzionate, ed iscritte nella [legge 23 luglio 1881, n. 333](Che%20autorizza%20la%20spesa%20di%20lire%20225126704%20per%20la%20costruzione%20di%20nuove%20opere%20straordinarie%20stradali%20ed%20idrauliche%20nel%20quindicennio%201881-1895.%20081U0333.md), elenco III, annesso alla tabella B, sotto i numeri 127, 128, 129 e 156.
 
-  
-  
-All'elenco delle strade provinciali di Pisa sono aggiunte, per la parte scorrente nel territorio di quella provincia, le quattro strade gia' menzionate, ed iscritte nella [legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333), elenco III, annesso alla tabella B, sotto i numeri 127, 128, 129 e 156.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Sono respinti i ricorsi dei comuni di Buti e Peccioli contro la deliberazione 4 gennaio 1882 del Consiglio provinciale di Pisa, relativa all'anzidetta classificazione, la quale resta di conseguenza pienamente confermata.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 27 ottobre 1884.   
-  
-UMBERTO.   
-  
-Genala.   
-  
-Visto, Il Guardasigilli: Ferracciu'.   
-  
+Sono respinti i ricorsi dei comuni di Buti e Peccioli contro la deliberazione 4 gennaio 1882 del Consiglio provinciale di Pisa, relativa all'anzidetta classificazione, la quale resta di conseguenza pienamente confermata. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 27 ottobre 1884. 
+ 
+ UMBERTO. 
+ 
+ Genala. 
+ 
+ Visto, Il Guardasigilli: Ferracciu'.

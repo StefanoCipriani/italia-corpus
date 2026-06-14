@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 07 gennaio 1917 n. 195
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 195
+data: 1917-01-07
+titolo: "Annullamento di partita. (017U0195)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-01-07;195
+codice_redazionale: 017U0195
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 07 gennaio 1917 n. 195
-==============================================
-
-Annullamento di partita. (017U0195)
------------------------------------
-
-Entrata in vigore del provvedimento: 09/03/1917
-
-Art. 1
-------
-
-  
-N. 195   
-  
-Decreto Luogotenenziale 7 gennaio 1917, col quale, in seguito all'autonomia scolastica concessa al comune di Montanaro, della provincia di Torino, sulla proposta del ministro dell'istruzione pubblica, di concerto con quello del tesoro, nell'elenco annesso al decreto Reale 14 gennaio 1915, n. 618, e' annullata la partita relativa al Comune suddetto, a datare dall'1 settembre 1916.   
-  
+N. 195 
+ 
+ Decreto Luogotenenziale 7 gennaio 1917, col quale, in seguito all'autonomia scolastica concessa al comune di Montanaro, della provincia di Torino, sulla proposta del ministro dell'istruzione pubblica, di concerto con quello del tesoro, nell'elenco annesso al decreto Reale 14 gennaio 1915, n. 618, e' annullata la partita relativa al Comune suddetto, a datare dall'1 settembre 1916.

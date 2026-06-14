@@ -1,19 +1,15 @@
-REGIO DECRETO 22 dicembre 1904 n. DLIV
+---
+tipo: REGIO DECRETO
+numero: DLIV
+data: 1904-12-22
+titolo: "Trasformazione di rendite a scopi elemosinieri. (0400554R)"
+urn: urn:nir:stato:regio.decreto:1904-12-22;554
+codice_redazionale: 0400554R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 dicembre 1904 n. DLIV
-======================================
-
-Trasformazione di rendite a scopi elemosinieri. (0400554R)
-----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/02/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. DLIV (Dato a Roma, il 22 dicembre 1904), col quale il fine, cui sono attualmente destinate le rendite dei legati Cantelli, Gennari e Borsani, amministrati dalla Congregazione di carita' di Parma, viene trasformato in quelle indicate alle [lettere a](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972~art55-leta), [b](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972~art55-letb) [e](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972~art55-lete) [c dell'art. 55 della legge 17 luglio 1890, n. 6972](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972~art55-letc).   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. DLIV (Dato a Roma, il 22 dicembre 1904), col quale il fine, cui sono attualmente destinate le rendite dei legati Cantelli, Gennari e Borsani, amministrati dalla Congregazione di carita' di Parma, viene trasformato in quelle indicate alle [lettere a](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972#art_55-leta), [b](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972#art_55-letb) [e](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972#art_55-lete) [c dell'art. 55 della legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972#art_55-letc).

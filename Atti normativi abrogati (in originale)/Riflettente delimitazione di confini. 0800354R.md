@@ -1,18 +1,15 @@
-REGIO DECRETO 21 agosto 1908 n. CCCLIV
+---
+tipo: REGIO DECRETO
+numero: CCCLIV
+data: 1908-08-21
+titolo: "Riflettente delimitazione di confini. (0800354R)"
+urn: urn:nir:stato:regio.decreto:1908-08-21;354
+codice_redazionale: 0800354R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 agosto 1908 n. CCCLIV
-======================================
-
-Riflettente delimitazione di confini. (0800354R)
-------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/10/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCLIV (Dato a Sant'Anna di Valdieri, il 21 agosto 1908), sulla delimitazione dei confini tra i comuni di Gorla I e Turro Milanese.   
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCLIV (Dato a Sant'Anna di Valdieri, il 21 agosto 1908), sulla delimitazione dei confini tra i comuni di Gorla I e Turro Milanese.

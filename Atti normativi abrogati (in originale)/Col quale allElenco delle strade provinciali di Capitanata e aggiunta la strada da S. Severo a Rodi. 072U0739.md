@@ -1,16 +1,14 @@
-REGIO DECRETO 10 marzo 1872 n. 739
-
-
-REGIO DECRETO 10 marzo 1872 n. 739
-==================================
-
-Col quale all'Elenco delle strade provinciali di Capitanata e' aggiunta la strada da S. Severo a Rodi. (072U0739)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/04/1872
+---
+tipo: REGIO DECRETO
+numero: 739
+data: 1872-03-10
+titolo: "Col quale all'Elenco delle strade provinciali di Capitanata e' aggiunta la strada da S. Severo a Rodi. (072U0739)"
+urn: urn:nir:stato:regio.decreto:1872-03-10;739
+codice_redazionale: 072U0739
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -38,37 +36,26 @@ Visti gli articoli 14 e 25 della Legge sui lavori pubblici;
 
 Sentiti gli avvisi del Consiglio superiore dei Lavori Pubblici e del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvata l'aggiunta all'Elenco delle strade provinciali di Capitanata di quella da S. Severo a Rodi, che partendo dal casolato fuori l'abitato di S. Severo, per Apricena, S. Nicandro e Cagnano-Varano, giunge alla marina di Rodi, compreso il nuovo tratto di rettifica dalle rampe di Cagnano-Varano fino al ponte Romondato di Rodi.
 
-  
-  
-E' approvata l'aggiunta all'Elenco delle strade provinciali di Capitanata di quella da S. Severo a Rodi, che partendo dal casolato fuori l'abitato di S. Severo, per Apricena, S. Nicandro e Cagnano-Varano, giunge alla marina di Rodi, compreso il nuovo tratto di rettifica dalle rampe di Cagnano-Varano fino al ponte Romondato di Rodi.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' pure approvato il tracciamento generale della rettificazione del tratto suddetto, dalle rampe di Cagnano-Varano alle vicinanze del ponte Romondato di Rodi, giusta il progetto compilato da quell'Ufficio tecnico provinciale, e visto d'ordine Nostro dal predetto Ministro.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli addi' 10 marzo 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 27 marzo 1872   
-  
-Reg. 60 Atti del Governo c. 57. Ayeres.   
-  
-Luogo del sigillo. V. Il Guardasigilli: De Falco.   
-  
-G. Devincenzi.   
-  
+E' pure approvato il tracciamento generale della rettificazione del tratto suddetto, dalle rampe di Cagnano-Varano alle vicinanze del ponte Romondato di Rodi, giusta il progetto compilato da quell'Ufficio tecnico provinciale, e visto d'ordine Nostro dal predetto Ministro. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli addi' 10 marzo 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 marzo 1872 
+ 
+ Reg. 60 Atti del Governo c. 57. Ayeres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli: De Falco. 
+ 
+ G. Devincenzi.

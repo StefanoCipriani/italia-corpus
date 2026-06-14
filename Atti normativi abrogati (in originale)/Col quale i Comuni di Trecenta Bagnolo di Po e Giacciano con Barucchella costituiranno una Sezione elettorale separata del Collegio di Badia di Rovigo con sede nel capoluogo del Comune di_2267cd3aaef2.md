@@ -1,16 +1,14 @@
-REGIO DECRETO 19 marzo 1871 n. 134
-
-
-REGIO DECRETO 19 marzo 1871 n. 134
-==================================
-
-Col quale i Comuni di Trecenta, Bagnolo di Po e Giacciano con Barucchella costituiranno una Sezione elettorale separata del Collegio di Badia di Rovigo, con sede nel capoluogo del Comune di Trecenta. (071U0134)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/04/1871
+---
+tipo: REGIO DECRETO
+numero: 134
+data: 1871-03-19
+titolo: "Col quale i Comuni di Trecenta, Bagnolo di Po e Giacciano con Barucchella costituiranno una Sezione elettorale separata del Collegio di Badia di Rovigo, con sede nel capoluogo del Comune di Trecenta. (071U0134)"
+urn: urn:nir:stato:regio.decreto:1871-03-19;134
+codice_redazionale: 071U0134
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nei Comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Trecenta, Bagnolo di Po e Giacciano con Barucchella costituiranno d'ora in poi una Sezione separata con sede nel capoluogo del Comune di Trecenta.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 19 marzo 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 25 marzo 1871   
-  
-Reg. 55 Atti del Governo a c. 51. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+I Comuni di Trecenta, Bagnolo di Po e Giacciano con Barucchella costituiranno d'ora in poi una Sezione separata con sede nel capoluogo del Comune di Trecenta. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 19 marzo 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 25 marzo 1871 
+ 
+ Reg. 55 Atti del Governo a c. 51. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

@@ -1,21 +1,17 @@
-REGIO DECRETO 08 ottobre 1898 n. CCCXXVI
+---
+tipo: REGIO DECRETO
+numero: CCCXXVI
+data: 1898-10-08
+titolo: "Che costituisce in ente morale il lascito Maraldi a favore delle classi povere di Cesena (Forli') e lo concentra in quella congregazione di carita'. (9800326R)"
+urn: urn:nir:stato:regio.decreto:1898-10-08;326
+codice_redazionale: 9800326R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 ottobre 1898 n. CCCXXVI
-========================================
-
-Che costituisce in ente morale il lascito Maraldi a favore delle classi povere di Cesena (Forli') e lo concentra in quella congregazione di carita'. (9800326R)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/11/1898
-
-Art. 1
-------
-
-  
-Che costituisce in ente morale il lascito Maraldi a favore delle classi povere di Cesena (Forli') e lo concentra in quella congregazione di carita'. - Firmato UMBERTO - Controfirmato Pelloux - Visto C. Finocchiaro Aprile.   
-  
-Registrato alla Corte dei Conti addi' 28 ottobre 1898.   
-  
-Reg. 217. Atti del Governo a f. 115.   
-  
+Che costituisce in ente morale il lascito Maraldi a favore delle classi povere di Cesena (Forli') e lo concentra in quella congregazione di carita'. - Firmato UMBERTO - Controfirmato Pelloux - Visto C. Finocchiaro Aprile. 
+ 
+ Registrato alla Corte dei Conti addi' 28 ottobre 1898. 
+ 
+ Reg. 217. Atti del Governo a f. 115.

@@ -1,16 +1,14 @@
-REGIO DECRETO 03 maggio 1868 n. 4372
-
-
-REGIO DECRETO 03 maggio 1868 n. 4372
-====================================
-
-Col quale il Comizio agrario di Camerino e' autorizzato ad acquistare un terreno demaniale. (068U4372)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/06/1868
+---
+tipo: REGIO DECRETO
+numero: 4372
+data: 1868-05-03
+titolo: "Col quale il Comizio agrario di Camerino e' autorizzato ad acquistare un terreno demaniale. (068U4372)"
+urn: urn:nir:stato:regio.decreto:1868-05-03;4372
+codice_redazionale: 068U4372
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Veduto il parere del Consiglio di Stato, parimente favorevole al disegnato acqui
 
 Veduto l'articolo 3 del Real Decreto 26 giugno 1864;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comizio agrario di Camerino e' autorizzato ad acquistare, nel modo di Legge, il terreno che forma il lotto 3° dell'elenco 54 dei beni demaniali in detto Comune.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 3 maggio 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 16 maggio 1868   
-  
-Reg. 42 Atti del Governo a c. 229. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-Broglio.   
-  
+Il Comizio agrario di Camerino e' autorizzato ad acquistare, nel modo di Legge, il terreno che forma il lotto 3° dell'elenco 54 dei beni demaniali in detto Comune. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 3 maggio 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 16 maggio 1868 
+ 
+ Reg. 42 Atti del Governo a c. 229. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ Broglio.

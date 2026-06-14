@@ -1,19 +1,15 @@
-REGIO DECRETO 23 aprile 1908 n. CLXV
+---
+tipo: REGIO DECRETO
+numero: CLXV
+data: 1908-04-23
+titolo: "Riflettente estensione di beneficio. (0800165R)"
+urn: urn:nir:stato:regio.decreto:1908-04-23;165
+codice_redazionale: 0800165R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 aprile 1908 n. CLXV
-====================================
-
-Riflettente estensione di beneficio. (0800165R)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/06/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CLXV (Dato a Roma, il 23 aprile 1908), col quale si estendono i benefici della [legge 31 maggio 1903, n. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-05-31;254), ad un gruppo di case popolari, costruite dalla Societa' cooperativa edificatrice in Pozzolatico (Comune di Galluzzo).   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CLXV (Dato a Roma, il 23 aprile 1908), col quale si estendono i benefici della [legge 31 maggio 1903, n. 254](Sulle%20case%20popolari.%20003U0254.md), ad un gruppo di case popolari, costruite dalla Societa' cooperativa edificatrice in Pozzolatico (Comune di Galluzzo).

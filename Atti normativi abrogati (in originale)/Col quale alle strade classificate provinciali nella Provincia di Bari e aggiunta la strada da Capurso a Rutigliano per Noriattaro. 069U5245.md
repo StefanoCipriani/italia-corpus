@@ -1,16 +1,14 @@
-REGIO DECRETO 14 agosto 1869 n. 5245
-
-
-REGIO DECRETO 14 agosto 1869 n. 5245
-====================================
-
-Col quale alle strade classificate provinciali nella Provincia di Bari e' aggiunta la strada da Capurso a Rutigliano per Noriattaro. (069U5245)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/09/1869
+---
+tipo: REGIO DECRETO
+numero: 5245
+data: 1869-08-14
+titolo: "Col quale alle strade classificate provinciali nella Provincia di Bari e' aggiunta la strada da Capurso a Rutigliano per Noriattaro. (069U5245)"
+urn: urn:nir:stato:regio.decreto:1869-08-14;5245
+codice_redazionale: 069U5245
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Veduto il voto del Consiglio superiore dei Lavori Pubblici, emesso nell'adunanza
 
 Veduto l'articolo 14 della Legge 20 marzo 1865 sui lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Alle strade provinciali nella Provincia di Bari, classificate tali col precitato Nostro Decreto del 28 maggio 1867, e' aggiunta la strada da Capurso a Rutigliano per Noriattaro.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 14 agosto 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 28 agosto 1869   
-  
-Reg. 48 Atti del Governo a c. 61. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Pironti.   
-  
-A. Mordini.   
-  
+Alle strade provinciali nella Provincia di Bari, classificate tali col precitato Nostro Decreto del 28 maggio 1867, e' aggiunta la strada da Capurso a Rutigliano per Noriattaro. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 14 agosto 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 28 agosto 1869 
+ 
+ Reg. 48 Atti del Governo a c. 61. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Pironti. 
+ 
+ A. Mordini.

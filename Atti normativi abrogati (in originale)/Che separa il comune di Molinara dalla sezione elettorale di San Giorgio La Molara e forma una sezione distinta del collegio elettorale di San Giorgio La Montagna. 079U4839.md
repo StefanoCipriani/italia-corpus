@@ -1,16 +1,14 @@
-REGIO DECRETO 03 aprile 1879 n. 4839
-
-
-REGIO DECRETO 03 aprile 1879 n. 4839
-====================================
-
-Che separa il comune di Molinara dalla sezione elettorale di San Giorgio La Molara, e forma una sezione distinta del collegio elettorale di San Giorgio La Montagna. (079U4839)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/05/1879
+---
+tipo: REGIO DECRETO
+numero: 4839
+data: 1879-04-03
+titolo: "Che separa il comune di Molinara dalla sezione elettorale di San Giorgio La Molara, e forma una sezione distinta del collegio elettorale di San Giorgio La Montagna. (079U4839)"
+urn: urn:nir:stato:regio.decreto:1879-04-03;4839
+codice_redazionale: 079U4839
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Che Molinara dista da San Giorgio la Molara chilometri 3 700, e la strada e' cat
 
 Considerato che istituendo una sezione elettorale di Molinara si rende piu' facile l'esercizio del diritto elettorale;
 
-Sulla
------
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Molinara e' separato dalla sezione elettorale di San Giorgio la Molara, e formera' una sezione distinta del Collegio elettorale di San Giorgio la Montagna.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 aprile 1879.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
+Il comune di Molinara e' separato dalla sezione elettorale di San Giorgio la Molara, e formera' una sezione distinta del Collegio elettorale di San Giorgio la Montagna. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 aprile 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.

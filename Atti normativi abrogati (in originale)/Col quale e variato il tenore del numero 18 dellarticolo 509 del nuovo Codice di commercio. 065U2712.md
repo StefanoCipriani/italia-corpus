@@ -1,16 +1,14 @@
-REGIO DECRETO 23 dicembre 1865 n. 2712
-
-
-REGIO DECRETO 23 dicembre 1865 n. 2712
-======================================
-
-Col quale e' variato il tenore del numero 18 dell'articolo 509 del nuovo Codice di commercio. (065U2712)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/01/1866
+---
+tipo: REGIO DECRETO
+numero: 2712
+data: 1865-12-23
+titolo: "Col quale e' variato il tenore del numero 18 dell'articolo 509 del nuovo Codice di commercio. (065U2712)"
+urn: urn:nir:stato:regio.decreto:1865-12-23;2712
+codice_redazionale: 065U2712
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,32 +26,24 @@ Considerando che le premesse osservazioni dimostrano pure che la congiuntiva e, 
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli Ministro Segretario di Stato per gli Affari di Grazia e Giustizia dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli Ministro Segretario di Stato per gli Affari di Grazia e Giustizia dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al surriferito numero 18 dell'articolo 509 del nuovo Codice di commercio approvato col Nostro Decreto del 25 giugno 1865, n.° 2364, e' surrogato il seguente:   
-  
-«I premi e gli interessi del cambio marittimo i contratti per far fronte alle spese annoverate tra le avarie comuni, o i premi di assicurazione delle dette spese, come pure la perdita che dovesse rimborsarsi al proprietario delle merci vendute durante il viaggio in un porto di rilascio forzato per far fronte alle spese stesse.»   
-  
-Nelle successive ristampe del detto Codice sara' modificata la lezione del numero 18 dell'articolo 509 conformemente al testo acchiuso nel presente articolo.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 23 dicembre 1865.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 6 gennaio 1866   
-Reg.° 35 Atti del Governo a c. 7. Crodara-Visconti.   
-Luogo del sigillo. V. Il Guardasigilli CORTESE.   
-  
-CORTESE.   
-  
-  
+Al surriferito numero 18 dell'articolo 509 del nuovo Codice di commercio approvato col Nostro Decreto del 25 giugno 1865, n.° 2364, e' surrogato il seguente: 
+ 
+ «I premi e gli interessi del cambio marittimo i contratti per far fronte alle spese annoverate tra le avarie comuni, o i premi di assicurazione delle dette spese, come pure la perdita che dovesse rimborsarsi al proprietario delle merci vendute durante il viaggio in un porto di rilascio forzato per far fronte alle spese stesse.» 
+ 
+ Nelle successive ristampe del detto Codice sara' modificata la lezione del numero 18 dell'articolo 509 conformemente al testo acchiuso nel presente articolo. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 23 dicembre 1865. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 6 gennaio 1866 
+ Reg.° 35 Atti del Governo a c. 7. Crodara-Visconti. 
+ Luogo del sigillo. V. Il Guardasigilli CORTESE. 
+ 
+ CORTESE.

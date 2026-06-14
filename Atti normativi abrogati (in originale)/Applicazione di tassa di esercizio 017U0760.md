@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 12 aprile 1917 n. 760
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 760
+data: 1917-04-12
+titolo: "Applicazione di tassa di esercizio (017U0760)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-04-12;760
+codice_redazionale: 017U0760
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 12 aprile 1917 n. 760
-=============================================
-
-Applicazione di tassa di esercizio (017U0760)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 07/06/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-760. Decreto Luogotenenziale 12 aprile 1917, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Santa Maria a Vico (Caserta) di applicare la tassa di esercizio nella misura massima di L. 2000 dal 1° gennaio 1917 al 31 dicembre dell'anno in cui cessera' la guerra.
+760.
+
+Decreto Luogotenenziale 12 aprile 1917, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Santa Maria a Vico (Caserta) di applicare la tassa di esercizio nella misura massima di L. 2000 dal 1° gennaio 1917 al 31 dicembre dell'anno in cui cessera' la guerra.

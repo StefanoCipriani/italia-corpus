@@ -1,16 +1,14 @@
-REGIO DECRETO 26 ottobre 1864 n. 1985
-
-
-REGIO DECRETO 26 ottobre 1864 n. 1985
-=====================================
-
-Approvativo di una spesa suppletoria per primo stabilimento delle Casse dei Depositi e Prestiti. (064U1985)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/11/1864
+---
+tipo: REGIO DECRETO
+numero: 1985
+data: 1864-10-26
+titolo: "Approvativo di una spesa suppletoria per primo stabilimento delle Casse dei Depositi e Prestiti. (064U1985)"
+urn: urn:nir:stato:regio.decreto:1864-10-26;1985
+codice_redazionale: 064U1985
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,30 +24,22 @@ Veduto il Reale Decreto del 27 settembre 1863, n.° 1485, col quale fu stabilita
 
 Sentita la Commissione di vigilanza;
 
-Sulla
------
+Sulla proposizione del Ministro delle Finanze; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposizione del Ministro delle Finanze; Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-In aggiunzione alla somma di lire centomila stabilita col precedente Nostro Decreto del 27 settembre 1863, e' approvata la spesa suppletoria di altre lire diecimila trecento trentasette e centesimi nove per primo stabilimento ed altre spese delle Casse di Depositi e Prestiti di cui al capitolo 2.° della tabella annessa al mentovato Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 26 ottobre 1864.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 7 novembre 1864   
-  
-Reg.° 31 Atti del Governo a c. 125. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-Quintino Sella.   
-  
-  
+In aggiunzione alla somma di lire centomila stabilita col precedente Nostro Decreto del 27 settembre 1863, e' approvata la spesa suppletoria di altre lire diecimila trecento trentasette e centesimi nove per primo stabilimento ed altre spese delle Casse di Depositi e Prestiti di cui al capitolo 2.° della tabella annessa al mentovato Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 26 ottobre 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 7 novembre 1864 
+ 
+ Reg.° 31 Atti del Governo a c. 125. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ Quintino Sella.

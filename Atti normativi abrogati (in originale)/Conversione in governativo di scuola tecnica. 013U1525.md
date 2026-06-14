@@ -1,19 +1,15 @@
-REGIO DECRETO 28 settembre 1913 n. 1525
+---
+tipo: REGIO DECRETO
+numero: 1525
+data: 1913-09-28
+titolo: "Conversione in governativo di scuola tecnica. (013U1525)"
+urn: urn:nir:stato:regio.decreto:1913-09-28;1525
+codice_redazionale: 013U1525
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 settembre 1913 n. 1525
-=======================================
-
-Conversione in governativo di scuola tecnica. (013U1525)
---------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/03/1914
-
-Art. 1
-------
-
-  
-N. 1525   
-  
-Regio Decreto 28 settembre 1913, col quale, sulla proposta dei ministri dell'istruzione pubblica e del tesoro, la scuola tecnica di Vigevano viene convertita in governativa.   
-  
+N. 1525 
+ 
+ Regio Decreto 28 settembre 1913, col quale, sulla proposta dei ministri dell'istruzione pubblica e del tesoro, la scuola tecnica di Vigevano viene convertita in governativa.

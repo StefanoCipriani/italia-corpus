@@ -1,16 +1,14 @@
-REGIO DECRETO 10 gennaio 1877 n. 3630
-
-
-REGIO DECRETO 10 gennaio 1877 n. 3630
-=====================================
-
-Che dispensa i conservatori delle ipoteche dalla vendita della carta filigranata e bollata e delle marche da bollo. (077U3630)
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/02/1877
+---
+tipo: REGIO DECRETO
+numero: 3630
+data: 1877-01-10
+titolo: "Che dispensa i conservatori delle ipoteche dalla vendita della carta filigranata e bollata e delle marche da bollo. (077U3630)"
+urn: urn:nir:stato:regio.decreto:1877-01-10;3630
+codice_redazionale: 077U3630
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,23 +18,16 @@ Visto l'articolo 6 del regolamento approvato col Nostro decreto 25 settembre 187
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze, Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A partire dal primo aprile 1877 i conservatori delle ipoteche sono dispensati dalla vendita della carta filigranata e bollata e delle marche da bollo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Rossore, addi' 10 gennaio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-Depretis.   
-  
+A partire dal primo aprile 1877 i conservatori delle ipoteche sono dispensati dalla vendita della carta filigranata e bollata e delle marche da bollo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Rossore, addi' 10 gennaio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Depretis.

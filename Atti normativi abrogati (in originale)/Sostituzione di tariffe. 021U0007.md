@@ -1,17 +1,17 @@
-REGIO DECRETO 13 gennaio 1921 n. 7
+---
+tipo: REGIO DECRETO
+numero: 7
+data: 1921-01-13
+titolo: "Sostituzione di tariffe. (021U0007)"
+urn: urn:nir:stato:regio.decreto:1921-01-13;7
+codice_redazionale: 021U0007
+vigente: true
+---
 
-
-REGIO DECRETO 13 gennaio 1921 n. 7
-==================================
-
-Sostituzione di tariffe. (021U0007)
------------------------------------
-
-Entrata in vigore del provvedimento: 10/02/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-7. Regio decreto 13 gennaio 1921, col quale, sulla proposta del ministro per il lavoro e la previdenza sociale, vengono sostituite le tariffe, annesse allo statuto dell'Associazione degli industriali d'Italia per prevenire gli infortuni sul lavoro, approvato con R. decreto 25 aprile 1897, n. CXLV.
+7.
+
+Regio decreto 13 gennaio 1921, col quale, sulla proposta del ministro per il lavoro e la previdenza sociale, vengono sostituite le tariffe, annesse allo statuto dell'Associazione degli industriali d'Italia per prevenire gli infortuni sul lavoro, approvato con R. decreto 25 aprile 1897, n. CXLV.

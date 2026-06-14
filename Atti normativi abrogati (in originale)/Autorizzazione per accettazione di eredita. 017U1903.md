@@ -1,18 +1,18 @@
-DECRETO LUOGOTENENZIALE 28 ottobre 1917 n. 1903
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1903
+data: 1917-10-28
+titolo: "Autorizzazione per accettazione di eredita'. (017U1903)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-10-28;1903
+codice_redazionale: 017U1903
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 28 ottobre 1917 n. 1903
-===============================================
-
-Autorizzazione per accettazione di eredita'. (017U1903)
--------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/12/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1903. Decreto Luogotenenziale 28 ottobre 1917, col quale, sulla proposta del ministro dell'istruzione pubblica, il rettore della R.  
+1903.
+
+Decreto Luogotenenziale 28 ottobre 1917, col quale, sulla proposta del ministro dell'istruzione pubblica, il rettore della R.
 Universita' di Roma e' autorizzato ad accettare l'eredita' ammontante a circa lire trentamila (L. 30.000) lasciata dal fu Teodorico Ruspantini all'Universita' medesima, perche' con gli interessi annui venga bandito, ogni triennio, un concorso di poesia latina.

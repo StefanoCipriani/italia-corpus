@@ -1,16 +1,14 @@
-REGIO DECRETO 27 dicembre 1928 n. 3380
-
-
-REGIO DECRETO 27 dicembre 1928 n. 3380
-======================================
-
-Concessione al gr. uff. Lincoln Nodari della esclusivita' della lavorazione industriale delle piante da fecola in Tripolitania. (028U3380)
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/02/1929
+---
+tipo: REGIO DECRETO
+numero: 3380
+data: 1928-12-27
+titolo: "Concessione al gr. uff. Lincoln Nodari della esclusivita' della lavorazione industriale delle piante da fecola in Tripolitania. (028U3380)"
+urn: urn:nir:stato:regio.decreto:1928-12-27;3380
+codice_redazionale: 028U3380
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,63 +24,42 @@ Udito il parere del Consiglio superiore coloniale;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le colonie; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le colonie; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Al gr. uff. Lincoln Nodari e' concessa, per il periodo di anni trenta, a decorrere dalla data del presente decreto: 
+ 
+ a) l'esclusivita' di sottoporre a lavorazione industriale in Tripolitania i tuberi, rizomi o radici carnose da fecola e di esportarne sotto qualunque forma i prodotti; 
+ 
+ b) l'esenzione in Tripolitania, da qualunque imposta diretta, sia governativa che municipale, avente per oggetto l'industria predetta.
 
-  
-  
-Al gr. uff. Lincoln Nodari e' concessa, per il periodo di anni trenta, a decorrere dalla data del presente decreto:   
-  
-a) l'esclusivita' di sottoporre a lavorazione industriale in Tripolitania i tuberi, rizomi o radici carnose da fecola e di esportarne sotto qualunque forma i prodotti;   
-  
-b) l'esenzione in Tripolitania, da qualunque imposta diretta, sia governativa che municipale, avente per oggetto l'industria predetta.   
+## Art. 2.
 
-Art. 2
-------
+I diritti conferiti al Nodari col precedente articolo sono trasmissibili ai suoi legittimi eredi.
 
-  
-  
-I diritti conferiti al Nodari col precedente articolo sono trasmissibili ai suoi legittimi eredi.   
-  
+## Art. 3.
 
-Art. 3
-------
+Entro i limiti di tempo suddetti e' fatto divieto a chiunque di esportare dalla Tripolitania tuberi, rizomi o radici carnose, intieri o affettati, derivanti dalle piante tropicali introdotte o da introdurre in Tripolitania, quali la Manihot esculenta, l'Ipomoca batatas, la Canna edulis, la Polimia edulis e altre piante similari.
 
-  
-  
-Entro i limiti di tempo suddetti e' fatto divieto a chiunque di esportare dalla Tripolitania tuberi, rizomi o radici carnose, intieri o affettati, derivanti dalle piante tropicali introdotte o da introdurre in Tripolitania, quali la Manihot esculenta, l'Ipomoca batatas, la Canna edulis, la Polimia edulis e altre piante similari.   
+## Art. 4.
 
-Art. 4
-------
+La concessione presente sara' revocata qualora il gr. uff. Nodari, entro il termine di anni cinque dalla data del presente decreto, non abbia messo in piena efficienza la sua industria.
 
-  
-  
-La concessione presente sara' revocata qualora il gr. uff. Nodari, entro il termine di anni cinque dalla data del presente decreto, non abbia messo in piena efficienza la sua industria.   
-  
+## Art. 5.
 
-Art. 5
-------
-
-  
-  
-E' data facolta' al Governatore della Tripolitania di emanare le norme che si rendessero necessarie per l'applicazione del presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 dicembre 1928 - Anno VII   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 5 febbraio 1929 - Anno VII   
-  
-Atti del Governo, registro 281, foglio 56. - Ferzi.   
-  
+E' data facolta' al Governatore della Tripolitania di emanare le norme che si rendessero necessarie per l'applicazione del presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 dicembre 1928 - Anno VII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 5 febbraio 1929 - Anno VII 
+ 
+ Atti del Governo, registro 281, foglio 56. - Ferzi.

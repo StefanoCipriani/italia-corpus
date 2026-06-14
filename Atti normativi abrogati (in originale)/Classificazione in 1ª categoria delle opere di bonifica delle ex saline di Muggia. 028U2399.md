@@ -1,22 +1,20 @@
-REGIO DECRETO 13 settembre 1928 n. 2399
-
-
-REGIO DECRETO 13 settembre 1928 n. 2399
-=======================================
-
-Classificazione in 1ª categoria delle opere di bonifica delle ex saline di Muggia. (028U2399)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/11/1928
+---
+tipo: REGIO DECRETO
+numero: 2399
+data: 1928-09-13
+titolo: "Classificazione in 1ª categoria delle opere di bonifica delle ex saline di Muggia. (028U2399)"
+urn: urn:nir:stato:regio.decreto:1928-09-13;2399
+codice_redazionale: 028U2399
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256~art2) e [3 del testo unico 30 dicembre 1923, n. 3256](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256~art3), delle leggi sulle bonificazioni delle paludi e dei terreni paludosi;
+Visti gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256#art_2) e [3 del testo unico 30 dicembre 1923, n. 3256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256#art_3), delle leggi sulle bonificazioni delle paludi e dei terreni paludosi;
 
 Considerata la necessita' di provvedere al bonificamento della zona paludosa di circa 154 ettari anticamente occupata dalle saline di Muggia e situata parte in comune di Muggia, parte in comune di Plavia (provincia di Trieste);
 
@@ -28,31 +26,24 @@ Che percio' sussistono gli estremi per la classifica in 1ª categoria delle oper
 
 Ritenuto che sulla necessita di tale classifica si sono favorevolmente pronunciati il Consiglio superiore dei lavori pubblici e il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono classificate in 1ª categoria, a termini del combinato disposto degli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256~art2) e [3 del testo unico 30 dicembre 1923, n. 3256](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256~art3), le opere di bonifica delle ex saline di Muggia in provincia di Trieste.   
-  
-Il presente decreto avra' effetto dal giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 13 settembre 1928 - Anno VI   
-  
-VITTORIO EMANUELE.   
-  
-Giuriati.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 9 novembre 1928 - Anno VII   
-  
-Atti del Governo, registro 278, foglio 88. - Sirovich.   
-  
+Sono classificate in 1ª categoria, a termini del combinato disposto degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256#art_2) e [3 del testo unico 30 dicembre 1923, n. 3256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256#art_3), le opere di bonifica delle ex saline di Muggia in provincia di Trieste. 
+ 
+ Il presente decreto avra' effetto dal giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 13 settembre 1928 - Anno VI 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giuriati. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 9 novembre 1928 - Anno VII 
+ 
+ Atti del Governo, registro 278, foglio 88. - Sirovich.

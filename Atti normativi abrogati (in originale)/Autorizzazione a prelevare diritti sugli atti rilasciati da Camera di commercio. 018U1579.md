@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 26 settembre 1918 n. 1579
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1579
+data: 1918-09-26
+titolo: "Autorizzazione a prelevare diritti sugli atti rilasciati da Camera di commercio. (018U1579)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-09-26;1579
+codice_redazionale: 018U1579
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 26 settembre 1918 n. 1579
-=================================================
-
-Autorizzazione a prelevare diritti sugli atti rilasciati da Camera di commercio. (018U1579)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/11/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1579. Decreto Luogotenenziale del 26 settembre 1918, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, la Camera di commercio e industria di Campobasso e' autorizzata a prelevare un diritto sui certificati e sugli atti da essa rilasciati.
+1579.
+
+Decreto Luogotenenziale del 26 settembre 1918, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, la Camera di commercio e industria di Campobasso e' autorizzata a prelevare un diritto sui certificati e sugli atti da essa rilasciati.

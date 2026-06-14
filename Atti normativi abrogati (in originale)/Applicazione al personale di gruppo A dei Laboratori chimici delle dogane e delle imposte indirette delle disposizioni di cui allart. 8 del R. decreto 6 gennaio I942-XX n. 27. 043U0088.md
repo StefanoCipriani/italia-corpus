@@ -1,16 +1,14 @@
-REGIO DECRETO 11 febbraio 1943 n. 88
-
-
-REGIO DECRETO 11 febbraio 1943 n. 88
-====================================
-
-Applicazione al personale di gruppo A dei Laboratori chimici delle dogane e delle imposte indirette, delle disposizioni di cui all'art. 8 del R. decreto 6 gennaio I942-XX, n. 27. (043U0088)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/03/1943
+---
+tipo: REGIO DECRETO
+numero: 88
+data: 1943-02-11
+titolo: "Applicazione al personale di gruppo A dei Laboratori chimici delle dogane e delle imposte indirette, delle disposizioni di cui all'art. 8 del R. decreto 6 gennaio I942-XX, n. 27. (043U0088)"
+urn: urn:nir:stato:regio.decreto:1943-02-11;88
+codice_redazionale: 043U0088
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,30 +32,24 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo;
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo;
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Fino alla data di cessazione dell'attuale stato di guerra le promozioni al grado di chimico principale (8°) nel ruolo di gruppo A del personale dei Laboratori chimici delle dogane e delle imposte indirette, sono conferite, su designazione del Consiglio di amministrazione, per merito comparativo, ai chimici (grado 9°) del ruolo medesimo, che abbiano compiuto almeno otto anni di servizio complessivo nei gradi 9° e 10°, tenuto conto dell'eventuale periodo di prova e delle abbreviazioni o riduzioni dei periodi minimi di anzianita' concessi dalle vigenti disposizioni per l'ammissione all'esame di idoneita' per la promozione al grado 8° dei ruoli di gruppo A.   
-  
-Il presente decreto ha vigore dalla data della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 febbraio 1943-XXI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - ACERBO   
-  
-Visto, il Guardasigilli: DE MARSICO   
-  
-Registrato alla Corte dei conti, addi' 17 marzo 1943-XXI   
-  
-Atti del Governo, registro 455, foglio 54. - MANCINI   
+Fino alla data di cessazione dell'attuale stato di guerra le promozioni al grado di chimico principale (8°) nel ruolo di gruppo A del personale dei Laboratori chimici delle dogane e delle imposte indirette, sono conferite, su designazione del Consiglio di amministrazione, per merito comparativo, ai chimici (grado 9°) del ruolo medesimo, che abbiano compiuto almeno otto anni di servizio complessivo nei gradi 9° e 10°, tenuto conto dell'eventuale periodo di prova e delle abbreviazioni o riduzioni dei periodi minimi di anzianita' concessi dalle vigenti disposizioni per l'ammissione all'esame di idoneita' per la promozione al grado 8° dei ruoli di gruppo A. 
+ 
+ Il presente decreto ha vigore dalla data della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 febbraio 1943-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - ACERBO 
+ 
+ Visto, il Guardasigilli: DE MARSICO 
+ 
+ Registrato alla Corte dei conti, addi' 17 marzo 1943-XXI 
+ 
+ Atti del Governo, registro 455, foglio 54. - MANCINI

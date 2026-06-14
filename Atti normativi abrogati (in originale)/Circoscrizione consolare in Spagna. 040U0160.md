@@ -1,21 +1,21 @@
-REGIO DECRETO 26 febbraio 1940 n. 160
+---
+tipo: REGIO DECRETO
+numero: 160
+data: 1940-02-26
+titolo: "Circoscrizione consolare in Spagna. (040U0160)"
+urn: urn:nir:stato:regio.decreto:1940-02-26;160
+codice_redazionale: 040U0160
+vigente: true
+---
 
-
-REGIO DECRETO 26 febbraio 1940 n. 160
-=====================================
-
-Circoscrizione consolare in Spagna. (040U0160)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 16/04/1940
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-160. R. decreto 26 febbraio 1940, col quale, sulla proposta del Ministro per gli affari esteri, viene stabilita la circoscrizione consolare in Spagna.   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 28 marzo 1940-XVIII
+160.
+
+R. decreto 26 febbraio 1940, col quale, sulla proposta del Ministro per gli affari esteri, viene stabilita la circoscrizione consolare in Spagna. 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 28 marzo 1940-XVIII

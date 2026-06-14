@@ -1,21 +1,21 @@
-REGIO DECRETO 14 novembre 1935 n. 2365
+---
+tipo: REGIO DECRETO
+numero: 2365
+data: 1935-11-14
+titolo: "Dichiarazione di istituzione pubblica di assistenza e beneficenza dell'Asilo infantile « Giovannini Urbani Maria », con sede in Flavon. (035U2365)"
+urn: urn:nir:stato:regio.decreto:1935-11-14;2365
+codice_redazionale: 035U2365
+vigente: true
+---
 
-
-REGIO DECRETO 14 novembre 1935 n. 2365
-======================================
-
-Dichiarazione di istituzione pubblica di assistenza e beneficenza dell'Asilo infantile « Giovannini Urbani Maria », con sede in Flavon. (035U2365)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/02/1936
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2365. R. decreto 14 novembre 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, l'Asilo infantile « Giovannini Urbani Maria », con sede in Flavon, viene dichiarato istituzione pubblica di assistenza e beneficenza.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 10 gennaio 1936 - Anno XIV
+2365.
+
+R. decreto 14 novembre 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, l'Asilo infantile « Giovannini Urbani Maria », con sede in Flavon, viene dichiarato istituzione pubblica di assistenza e beneficenza. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 10 gennaio 1936 - Anno XIV

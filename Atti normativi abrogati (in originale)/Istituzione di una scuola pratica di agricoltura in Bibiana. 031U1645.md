@@ -1,19 +1,19 @@
-REGIO DECRETO 02 dicembre 1931 n. 1645
+---
+tipo: REGIO DECRETO
+numero: 1645
+data: 1931-12-02
+titolo: "Istituzione di una scuola pratica di agricoltura in Bibiana. (031U1645)"
+urn: urn:nir:stato:regio.decreto:1931-12-02;1645
+codice_redazionale: 031U1645
+vigente: true
+---
 
-
-REGIO DECRETO 02 dicembre 1931 n. 1645
-======================================
-
-Istituzione di una scuola pratica di agricoltura in Bibiana. (031U1645)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/02/1932
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1645. R. decreto 2 dicembre 1931, col quale, sulla proposta del Ministro per l'educazione nazionale, viene istituita in Bibiana (Torino) la Scuola pratica di agricoltura «Malva Liborio e Arnaldi Virginia» con un corso annuale di avviamento al lavoro agricolo, a programmi ridotti ai sensi dell'[art. 3 del R. decreto-legge 6 ottobre 1930, n. 1379](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-10-06;1379~art3), e ne e' approvato lo statuto organico.   
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 13 gennaio 1932 - Anno X
+1645.
+
+R. decreto 2 dicembre 1931, col quale, sulla proposta del Ministro per l'educazione nazionale, viene istituita in Bibiana (Torino) la Scuola pratica di agricoltura «Malva Liborio e Arnaldi Virginia» con un corso annuale di avviamento al lavoro agricolo, a programmi ridotti ai sensi dell'[art. 3 del R. decreto-legge 6 ottobre 1930, n. 1379](Riordinamento%20della%20Scuola%20secondaria%20di%20avviamento%20al%20lavoro.%20030U1379.md), e ne e' approvato lo statuto organico. 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 13 gennaio 1932 - Anno X

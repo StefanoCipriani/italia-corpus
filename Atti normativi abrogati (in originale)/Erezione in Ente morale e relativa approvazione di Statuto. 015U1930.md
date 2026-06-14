@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 31 dicembre 1915 n. 1930
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1930
+data: 1915-12-31
+titolo: "Erezione in Ente morale e relativa approvazione di Statuto. (015U1930)"
+urn: urn:nir:stato:decreto.luogotenenziale:1915-12-31;1930
+codice_redazionale: 015U1930
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 31 dicembre 1915 n. 1930
-================================================
-
-Erezione in Ente morale e relativa approvazione di Statuto. (015U1930)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/02/1916
-
-Art. 1
-------
-
-  
-N. 1930   
-  
-Decreto Luogotenenziale 31 dicembre 1915, col quale, sulla proposta del ministro di agricoltura, industria e commercio, e' approvato lo statuto della Cassa agraria del mandamento di Foligno, eretta in ente morale.   
-  
+N. 1930 
+ 
+ Decreto Luogotenenziale 31 dicembre 1915, col quale, sulla proposta del ministro di agricoltura, industria e commercio, e' approvato lo statuto della Cassa agraria del mandamento di Foligno, eretta in ente morale.

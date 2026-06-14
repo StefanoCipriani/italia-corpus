@@ -1,16 +1,14 @@
-REGIO DECRETO 10 maggio 1863 n. 1257
-
-
-REGIO DECRETO 10 maggio 1863 n. 1257
-====================================
-
-Che ordina la traslazione nel Comune di Corsico della sede del Mandamento 10.mo di Milano. (063U1257)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/06/1863
+---
+tipo: REGIO DECRETO
+numero: 1257
+data: 1863-05-10
+titolo: "Che ordina la traslazione nel Comune di Corsico della sede del Mandamento 10.mo di Milano. (063U1257)"
+urn: urn:nir:stato:regio.decreto:1863-05-10;1257
+codice_redazionale: 063U1257
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,28 +18,20 @@ Viste le deliberazioni dei dodici Comuni costituenti l'attuale X Mandamento di M
 
 Vista la conforme deliberazione del Consiglio Provinciale di Milano;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A partire dal 1.° prossimo ottobre la sede del Mandamento X di Milano e' trasferita nel Comune di Corsico.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 10 maggio 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 19 maggio 1863   
-Reg.° 23 Atti del Governo a c. 106. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI.   
-  
-G. PISANELLI.   
-  
-  
+A partire dal 1.° prossimo ottobre la sede del Mandamento X di Milano e' trasferita nel Comune di Corsico. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 10 maggio 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 19 maggio 1863 
+ Reg.° 23 Atti del Governo a c. 106. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI. 
+ 
+ G. PISANELLI.

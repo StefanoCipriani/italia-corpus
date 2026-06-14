@@ -1,17 +1,17 @@
-REGIO DECRETO 08 settembre 1922 n. 1348
+---
+tipo: REGIO DECRETO
+numero: 1348
+data: 1922-09-08
+titolo: "Riconoscimento corpo morale. (022U1348)"
+urn: urn:nir:stato:regio.decreto:1922-09-08;1348
+codice_redazionale: 022U1348
+vigente: true
+---
 
-
-REGIO DECRETO 08 settembre 1922 n. 1348
-=======================================
-
-Riconoscimento corpo morale. (022U1348)
----------------------------------------
-
-Entrata in vigore del provvedimento: 11/11/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1348. Regio decreto 8 settembre 1922, col quale, sulla proposta del ministro per l'industria ed il commercio, l'Istituto autonomo per le case popolari di Fucecchio viene riconosciuto come corpo morale e ne e' approvato lo statuto organico.
+1348.
+
+Regio decreto 8 settembre 1922, col quale, sulla proposta del ministro per l'industria ed il commercio, l'Istituto autonomo per le case popolari di Fucecchio viene riconosciuto come corpo morale e ne e' approvato lo statuto organico.

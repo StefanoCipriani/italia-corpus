@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 12 dicembre 1915 n. 1834
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1834
+data: 1915-12-12
+titolo: "Soppressione e istituzione di RR. Consolati. (015U1834)"
+urn: urn:nir:stato:decreto.luogotenenziale:1915-12-12;1834
+codice_redazionale: 015U1834
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 12 dicembre 1915 n. 1834
-================================================
-
-Soppressione e istituzione di RR. Consolati. (015U1834)
--------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/01/1916
-
-Art. 1
-------
-
-  
-N. 1834   
-  
-Col quale, sulla proposta del ministro degli affari esteri, e' soppresso il R. consolato in Besançon, ed e' istituito un R. consolato in Dijon, con giurisdizione nei dipartimenti di Côte d'Or, Jura, Doubs, Haute-Saône.   
-  
+N. 1834 
+ 
+ Col quale, sulla proposta del ministro degli affari esteri, e' soppresso il R. consolato in Besançon, ed e' istituito un R. consolato in Dijon, con giurisdizione nei dipartimenti di Côte d'Or, Jura, Doubs, Haute-Saône.

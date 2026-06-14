@@ -1,22 +1,20 @@
-REGIO DECRETO 07 agosto 1921 n. 1191
-
-
-REGIO DECRETO 07 agosto 1921 n. 1191
-====================================
-
-Che autorizza la Camera di commercio e industria di Cosenza ad imporre la tassa camerale. (021U1191)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/10/1921
+---
+tipo: REGIO DECRETO
+numero: 1191
+data: 1921-08-07
+titolo: "Che autorizza la Camera di commercio e industria di Cosenza ad imporre la tassa camerale. (021U1191)"
+urn: urn:nir:stato:regio.decreto:1921-08-07;1191
+codice_redazionale: 021U1191
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 20 marzo 1910, n. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-03-20;121), sull'ordinamento delle Camere di commercio e industria;
+Vista la [legge 20 marzo 1910, n. 121](Sul%20riordinamento%20delle%20Camere%20di%20commercio%20ed%20arti%20del%20Regno.%20010U0121.md), sull'ordinamento delle Camere di commercio e industria;
 
 Visto il R. decreto 19 aprile 1907, n. CXXVI (parte supplementare), che autorizza la Camera di commercio e industria di Cosenza a imporre una tassa sui redditi di natura commerciale e industriale del distretto camerale;
 
@@ -26,34 +24,23 @@ Udito il parere del Comitato permanente del Consiglio superiore del commercio;
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per l'industria e il commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per l'industria e il commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La Camera di commercio e industria di Cosenza e' autorizzata ad imporre una tassa sugli esercenti industrie e commerci nel proprio distretto in conformita' della seguente tabella.
 
-  
-  
-  
-La Camera di commercio e industria di Cosenza e' autorizzata ad imporre una tassa sugli esercenti industrie e commerci nel proprio distretto in conformita' della seguente tabella.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-  
-Il R. decreto 19 aprile 1907, n. CXXVI, e' abrogato.   
-  
-Parte di provvedimento in formato grafico  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Roma, addi' 7 agosto 1921.   
-  
-VITTORIO EMANUELE.   
-  
-Belotti.   
-  
-Visto, Il guardasigilli: Rodino'.   
+Il R. decreto 19 aprile 1907, n. CXXVI, e' abrogato. 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 7 agosto 1921. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Belotti. 
+ 
+ Visto, Il guardasigilli: Rodino'.

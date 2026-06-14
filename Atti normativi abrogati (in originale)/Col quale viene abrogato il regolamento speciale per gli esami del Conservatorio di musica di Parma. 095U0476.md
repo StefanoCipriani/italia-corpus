@@ -1,16 +1,14 @@
-REGIO DECRETO 21 luglio 1895 n. 476
-
-
-REGIO DECRETO 21 luglio 1895 n. 476
-===================================
-
-Col quale viene abrogato il regolamento speciale per gli esami del Conservatorio di musica di Parma. (095U0476)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/08/1895
+---
+tipo: REGIO DECRETO
+numero: 476
+data: 1895-07-21
+titolo: "Col quale viene abrogato il regolamento speciale per gli esami del Conservatorio di musica di Parma. (095U0476)"
+urn: urn:nir:stato:regio.decreto:1895-07-21;476
+codice_redazionale: 095U0476
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,33 +20,22 @@ Veduto il regolamento speciale per gli esami del Conservatorio predetto, approva
 
 Udita la Commissione permanente per le arti musicale e drammatica, sezione musicale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il regolamento speciale per gli esami del Conservatorio di musica di Parma, approvato con Nostro decreto 19 giugno 1890, n. 6975 (serie 3ª), e' abrogato.
 
-  
-  
-Il regolamento speciale per gli esami del Conservatorio di musica di Parma, approvato con Nostro decreto 19 giugno 1890, n. 6975 (serie 3ª), e' abrogato.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Le disposizioni riguardanti gli esami del Conservatorio suddetto saranno stabilite da un regolamento speciale, da approvarsi dal predetto Nostro Ministro.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 luglio 1895.   
-  
-UMBERTO.   
-  
-G. Baccelli.   
-  
-Visto, Il Guardasigilli: V. Calenda di Tavani.   
-  
+Le disposizioni riguardanti gli esami del Conservatorio suddetto saranno stabilite da un regolamento speciale, da approvarsi dal predetto Nostro Ministro. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 21 luglio 1895. 
+ 
+ UMBERTO. 
+ 
+ G. Baccelli. 
+ 
+ Visto, Il Guardasigilli: V. Calenda di Tavani.

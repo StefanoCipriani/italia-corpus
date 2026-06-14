@@ -1,16 +1,14 @@
-REGIO DECRETO 13 maggio 1877 n. 3838
-
-
-REGIO DECRETO 13 maggio 1877 n. 3838
-====================================
-
-Concernente la nomina dei professori effettivi e dei ripetitori della regia scuola di marina. (077U3838)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/06/1877
+---
+tipo: REGIO DECRETO
+numero: 3838
+data: 1877-05-13
+titolo: "Concernente la nomina dei professori effettivi e dei ripetitori della regia scuola di marina. (077U3838)"
+urn: urn:nir:stato:regio.decreto:1877-05-13;3838
+codice_redazionale: 077U3838
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,21 +18,14 @@ Visto il R. decreto 20 settembre 1868 sull'ordinamento della R. scuola di marina
 
 Sentito il parere del Consiglio Superiore di Marina;
 
-Sulla
------
+Sulla proposta del Nostro Ministro della Marina, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro della Marina, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 maggio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-B. Brin.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 maggio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ B. Brin.

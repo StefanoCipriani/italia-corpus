@@ -1,16 +1,14 @@
-REGIO DECRETO 06 maggio 1862 n. 683
-
-
-REGIO DECRETO 06 maggio 1862 n. 683
-===================================
-
-Con cui sono instituiti quattro nuovi Depositi di cavalli stalloni. (062U0683)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/08/1862
+---
+tipo: REGIO DECRETO
+numero: 683
+data: 1862-05-06
+titolo: "Con cui sono instituiti quattro nuovi Depositi di cavalli stalloni. (062U0683)"
+urn: urn:nir:stato:regio.decreto:1862-05-06;683
+codice_redazionale: 062U0683
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,49 +20,34 @@ Visto il Nostro Decreto di questo stesso giorno relativo al Personale ed alla fo
 
 Considerata la utilita' di presto provvedere al miglioramento della razza cavallina nelle Provincie meridionali del Regno;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+Sono instituiti quattro nuovi Depositi di cavalli stalloni, cioe': 
+ 
+ Tre nelle Provincie Napolitane; 
+ 
+ Uno nell'Isola di Sicilia.
 
-  
-  
-Sono instituiti quattro nuovi Depositi di cavalli stalloni, cioe':   
-  
-Tre nelle Provincie Napolitane;   
-  
-Uno nell'Isola di Sicilia.   
-  
+## Art. 2.
 
-Art. 2
-------
+La sede di ciascheduno di questi Depositi verra' stabilita con apposito provvedimento del Nostro Ministro della Guerra.
 
-  
-  
-La sede di ciascheduno di questi Depositi verra' stabilita con apposito provvedimento del Nostro Ministro della Guerra.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Alle spese di istituzione di detti Depositi si provvedera' coi fondi appositamente stanziati nel bilancio passivo del corrente anno.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Napoli addi' 6 maggio 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 20 maggio 1862   
-  
-Reg.° 19 Atti del Governo a c. 320. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
-  
-A. Petitti.   
-  
+Alle spese di istituzione di detti Depositi si provvedera' coi fondi appositamente stanziati nel bilancio passivo del corrente anno. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Napoli addi' 6 maggio 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 20 maggio 1862 
+ 
+ Reg.° 19 Atti del Governo a c. 320. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ A. Petitti.

@@ -1,19 +1,15 @@
-REGIO DECRETO 30 novembre 1913 n. 1398
+---
+tipo: REGIO DECRETO
+numero: 1398
+data: 1913-11-30
+titolo: "Autorizzazione ad un Consorzio solfiero di rilasciare titoli rappresentativi di diritti. (013U1398)"
+urn: urn:nir:stato:regio.decreto:1913-11-30;1398
+codice_redazionale: 013U1398
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 novembre 1913 n. 1398
-======================================
-
-Autorizzazione ad un Consorzio solfiero di rilasciare titoli rappresentativi di diritti. (013U1398)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/01/1914
-
-Art. 1
-------
-
-  
-N. 1398   
-  
-Regio Decreto 30 novembre 1913, col quale, sulla proposta del ministro di agricoltura, industria e commercio, d'accordo col ministro del tesoro, il Consorzio obbligatorio per l'industria solfifera siciliana, viene autorizzato a rilasciare ai consorziati i titoli rappresentativi dei loro diritti.   
-  
+N. 1398 
+ 
+ Regio Decreto 30 novembre 1913, col quale, sulla proposta del ministro di agricoltura, industria e commercio, d'accordo col ministro del tesoro, il Consorzio obbligatorio per l'industria solfifera siciliana, viene autorizzato a rilasciare ai consorziati i titoli rappresentativi dei loro diritti.

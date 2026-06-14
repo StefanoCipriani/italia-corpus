@@ -1,41 +1,32 @@
-REGIO DECRETO 31 luglio 1892 n. DLXXII
+---
+tipo: REGIO DECRETO
+numero: DLXXII
+data: 1892-07-31
+titolo: "Che concentra nella congregazione di carita' di Noviglio (Milano) l'opera pia Bozzi e Torelli per meta' e per l'altra meta' in quella di Zibido S. Giacomo. (9200572R)"
+urn: urn:nir:stato:regio.decreto:1892-07-31;572
+codice_redazionale: 9200572R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 luglio 1892 n. DLXXII
-======================================
+L'opera pia Bozzi e' concentrata nella congregazione di carita' di Noviglio.
 
-Che concentra nella congregazione di carita' di Noviglio (Milano) l'opera pia Bozzi e Torelli per meta' e per l'altra meta' in quella di Zibido S. Giacomo. (9200572R)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 09/09/1892
-
-Art. 1
-------
-
-  
-  
-L'opera pia Bozzi e' concentrata nella congregazione di carita' di Noviglio.   
-  
-
-Art. 2
-------
-
-  
-  
-L'opera pia Torelli e' concentrata per meta' nella congregazione di carita' di Noviglio e per l'altra meta' in quella di Zibido S.  
-Giacomo, con obbligo alle congregazioni medesime di devenire alla regolare divisione del relativo patrimonio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 31 luglio 1892.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 17 agosto 1892.   
-  
-Reg. 187. Atti del Governo a f. 175. Gaffino.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Bonacci.   
-  
-G. Giolitti.   
-  
+L'opera pia Torelli e' concentrata per meta' nella congregazione di carita' di Noviglio e per l'altra meta' in quella di Zibido S.
+Giacomo, con obbligo alle congregazioni medesime di devenire alla regolare divisione del relativo patrimonio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 31 luglio 1892. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 17 agosto 1892. 
+ 
+ Reg. 187. Atti del Governo a f. 175. Gaffino. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Bonacci. 
+ 
+ G. Giolitti.

@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 19 aprile 1917 n. 962
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 962
+data: 1917-04-19
+titolo: "Autorizzazione ad accettare donazione. (017U0962)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-04-19;962
+codice_redazionale: 017U0962
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 19 aprile 1917 n. 962
-=============================================
-
-Autorizzazione ad accettare donazione. (017U0962)
--------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/07/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-962. Decreto Luogotenenziale 19 aprile 1917, col quale, sulla proposta del ministro dell'istruzione pubblica, la Societa' «Canottieri Adda», di Lodi, e' autorizzata ad accettare la donazione di un terreno fattale dalla signora Caterina Canna.
+962.
+
+Decreto Luogotenenziale 19 aprile 1917, col quale, sulla proposta del ministro dell'istruzione pubblica, la Societa' «Canottieri Adda», di Lodi, e' autorizzata ad accettare la donazione di un terreno fattale dalla signora Caterina Canna.

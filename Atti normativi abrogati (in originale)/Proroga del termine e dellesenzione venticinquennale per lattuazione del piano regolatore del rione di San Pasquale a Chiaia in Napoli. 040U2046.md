@@ -1,16 +1,14 @@
-REGIO DECRETO 21 ottobre 1940 n. 2046
-
-
-REGIO DECRETO 21 ottobre 1940 n. 2046
-=====================================
-
-Proroga del termine e dell'esenzione venticinquennale per l'attuazione del piano regolatore del rione di San Pasquale a Chiaia in Napoli. (040U2046)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/05/1941
+---
+tipo: REGIO DECRETO
+numero: 2046
+data: 1940-10-21
+titolo: "Proroga del termine e dell'esenzione venticinquennale per l'attuazione del piano regolatore del rione di San Pasquale a Chiaia in Napoli. (040U2046)"
+urn: urn:nir:stato:regio.decreto:1940-10-21;2046
+codice_redazionale: 040U2046
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E VOLONTA' DELLA NAZIONE
 
@@ -28,38 +26,32 @@ Vista la domanda 6 maggio 1940-XVIII, con la quale il podesta' di Napoli, in bas
 
 Considerato che la domanda di proroga trova giustificazione in circostanze indipendenti dalla volonta' del Comune e specie per difficolta' sorte nella procedura di espropriazione del «Palazzo Forquet»;
 
-Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md);
 
 Visto l'art. 4 del R. decreto-legge 21 giugno 1938-XVI, n. 1094, convertito nella legge 5 gennaio 1939-XVII, n. 35;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' prorogato di due anni, fino a tutto il 30 luglio 1942-XX, il termine assegnato al comune di Napoli, con il citato R. decreto 31 agosto 1938-XVI, per l'attuazione del piano regolatore del rione di San Pasquale a Chiaia nella citta' di Napoli, ed esteso alla variante approvata con il R. decreto 22 luglio 1939-XVII, n. 1285, su richiamato.   
-  
-Tutte le costruzioni e ricostruzioni, che saranno eseguite per l'attuazione della variante suddetta entro il 30 luglio 1942-XX, godranno della esenzione venticinquennale dalla normale imposta sui fabbricati e dalle relative sovrimposte, comunale e provinciale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 ottobre 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-SERENA - DI REVEL   
-  
-Visto:   
-  
-(ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76)   
-  
-MUSSOLINI   
-  
-Registrato alla Corte dei conti, addi' 19 aprile 1941-XIX   
-  
-Atti del Governo, registro 432, foglio 34. - MANCINI   
+E' prorogato di due anni, fino a tutto il 30 luglio 1942-XX, il termine assegnato al comune di Napoli, con il citato R. decreto 31 agosto 1938-XVI, per l'attuazione del piano regolatore del rione di San Pasquale a Chiaia nella citta' di Napoli, ed esteso alla variante approvata con il R. decreto 22 luglio 1939-XVII, n. 1285, su richiamato. 
+ 
+ Tutte le costruzioni e ricostruzioni, che saranno eseguite per l'attuazione della variante suddetta entro il 30 luglio 1942-XX, godranno della esenzione venticinquennale dalla normale imposta sui fabbricati e dalle relative sovrimposte, comunale e provinciale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 21 ottobre 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ SERENA - DI REVEL 
+ 
+ Visto: 
+ 
+ (ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76) 
+ 
+ MUSSOLINI 
+ 
+ Registrato alla Corte dei conti, addi' 19 aprile 1941-XIX 
+ 
+ Atti del Governo, registro 432, foglio 34. - MANCINI

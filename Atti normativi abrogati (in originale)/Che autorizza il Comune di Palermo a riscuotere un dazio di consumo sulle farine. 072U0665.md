@@ -1,16 +1,14 @@
-REGIO DECRETO 25 gennaio 1872 n. 665
-
-
-REGIO DECRETO 25 gennaio 1872 n. 665
-====================================
-
-Che autorizza il Comune di Palermo a riscuotere un dazio di consumo sulle farine. (072U0665)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/02/1872
+---
+tipo: REGIO DECRETO
+numero: 665
+data: 1872-01-25
+titolo: "Che autorizza il Comune di Palermo a riscuotere un dazio di consumo sulle farine. (072U0665)"
+urn: urn:nir:stato:regio.decreto:1872-01-25;665
+codice_redazionale: 072U0665
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,24 @@ Ritenuta la necessita' in cui versa quel Comune d'accrescere le proprie entrate,
 
 Visto il parere a tale riguardo pronunciato dalla rispettiva Deputazione provinciale in data del 31 dicembre predetto;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il Comune di Palermo e' autorizzato ad esigere un dazio di consumo sulle farine, in ragione di lire 5.50 per ogni cento chilogrammi, durante tutto l'anno
 
-1872. 
-  
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 25 gennaio 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 2 febbraio 1872   
-  
-Reg. 59 Atti del Governo a c. 99. D. Gherardi.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-Quintino Sella.
+1872.
+
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 25 gennaio 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 2 febbraio 1872 
+ 
+ Reg. 59 Atti del Governo a c. 99. D. Gherardi. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ Quintino Sella.

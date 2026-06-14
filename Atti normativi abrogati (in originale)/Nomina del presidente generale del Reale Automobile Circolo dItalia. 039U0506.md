@@ -1,16 +1,14 @@
-REGIO DECRETO 06 marzo 1939 n. 506
-
-
-REGIO DECRETO 06 marzo 1939 n. 506
-==================================
-
-Nomina del presidente generale del Reale Automobile Circolo d'Italia. (039U0506)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/04/1939
+---
+tipo: REGIO DECRETO
+numero: 506
+data: 1939-03-06
+titolo: "Nomina del presidente generale del Reale Automobile Circolo d'Italia. (039U0506)"
+urn: urn:nir:stato:regio.decreto:1939-03-06;506
+codice_redazionale: 039U0506
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,28 +26,22 @@ Visti i Regi decreti-legge 27 gennaio 1938-XVI, n. 115, e 5 settembre 1938-XVI, 
 
 Visto l'art. 5 dello statuto del R.A.C.I. approvato con decreto interministeriale 31 dicembre 1938-XVII;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la cultura popolare; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la cultura popolare; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il conte ing. Alberto Bonacossa e' nominato presidente generale del Reale Automobile Circolo d'Italia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreto del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 marzo 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-Alfieri   
-  
-Visto, il Guardasigilli: Solmi   
-  
-Registrato alla Corte dei conti, addi' 24 marzo 1939-XVII   
-  
-Atti del Governo, registro 407, foglio 70. - Mancini   
+Il conte ing. Alberto Bonacossa e' nominato presidente generale del Reale Automobile Circolo d'Italia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreto del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 marzo 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Alfieri 
+ 
+ Visto, il Guardasigilli: Solmi 
+ 
+ Registrato alla Corte dei conti, addi' 24 marzo 1939-XVII 
+ 
+ Atti del Governo, registro 407, foglio 70. - Mancini

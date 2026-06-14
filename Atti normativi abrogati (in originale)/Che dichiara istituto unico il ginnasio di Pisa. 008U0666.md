@@ -1,16 +1,14 @@
-REGIO DECRETO 22 settembre 1908 n. 666
-
-
-REGIO DECRETO 22 settembre 1908 n. 666
-======================================
-
-Che dichiara istituto unico il ginnasio di Pisa. (008U0666)
------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/12/1908
+---
+tipo: REGIO DECRETO
+numero: 666
+data: 1908-09-22
+titolo: "Che dichiara istituto unico il ginnasio di Pisa. (008U0666)"
+urn: urn:nir:stato:regio.decreto:1908-09-22;666
+codice_redazionale: 008U0666
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,33 +20,22 @@ Veduto il Nostro decreto 17 settembre 1908, numero CCCXC (parte supplementare) c
 
 Riconosciuta la opportunita' che il detto ginnasio sia unito al preesistente R. liceo in unico Istituto e sotto la medesima direzione;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il R. liceo ed il R. ginnasio di Pisa sono dal 1° ottobre 1908 dichiarati Istituto unico sotto la direzione del capo d'Istituto del liceo.
 
-  
-  
-Il R. liceo ed il R. ginnasio di Pisa sono dal 1° ottobre 1908 dichiarati Istituto unico sotto la direzione del capo d'Istituto del liceo.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Con altro Nostro decreto sara' provveduto alla occorrente variazione delle tabelle organiche per l'anno scolastico 1908-909.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 22 settembre 1908.   
-  
-VITTORIO EMANUELE.   
-  
-Rava.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+Con altro Nostro decreto sara' provveduto alla occorrente variazione delle tabelle organiche per l'anno scolastico 1908-909. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 22 settembre 1908. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Rava. 
+ 
+ Visto, Il guardasigilli: Orlando.

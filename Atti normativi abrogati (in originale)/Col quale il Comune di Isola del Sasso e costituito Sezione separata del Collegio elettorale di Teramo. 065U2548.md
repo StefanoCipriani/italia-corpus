@@ -1,16 +1,14 @@
-REGIO DECRETO 19 ottobre 1865 n. 2548
-
-
-REGIO DECRETO 19 ottobre 1865 n. 2548
-=====================================
-
-Col quale il Comune di Isola del Sasso e' costituito Sezione separata del Collegio elettorale di Teramo. (065U2548)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/11/1865
+---
+tipo: REGIO DECRETO
+numero: 2548
+data: 1865-10-19
+titolo: "Col quale il Comune di Isola del Sasso e' costituito Sezione separata del Collegio elettorale di Teramo. (065U2548)"
+urn: urn:nir:stato:regio.decreto:1865-10-19;2548
+codice_redazionale: 065U2548
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,22 @@ Considerando che la distanza fra il detto Comune di Isola del Sasso e l'attuale 
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Isola del Sasso che fino ad ora fece parte della Sezione detta di Tossicia, del Collegio elettorale di Teramo, n.° 8, costituira' d'ora in poi una Sezione separata del Collegio medesimo.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 19 ottobre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 25 ottobre 1865   
-  
-Reg.° 34 Atti dei Governo a c. 12. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
-  
-  
+Il Comune di Isola del Sasso che fino ad ora fece parte della Sezione detta di Tossicia, del Collegio elettorale di Teramo, n.° 8, costituira' d'ora in poi una Sezione separata del Collegio medesimo. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 19 ottobre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 25 ottobre 1865 
+ 
+ Reg.° 34 Atti dei Governo a c. 12. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli.

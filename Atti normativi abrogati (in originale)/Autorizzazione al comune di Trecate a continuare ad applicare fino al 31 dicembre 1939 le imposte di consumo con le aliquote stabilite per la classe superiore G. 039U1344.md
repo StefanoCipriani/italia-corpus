@@ -1,16 +1,14 @@
-REGIO DECRETO 18 agosto 1939 n. 1344
-
-
-REGIO DECRETO 18 agosto 1939 n. 1344
-====================================
-
-Autorizzazione al comune di Trecate a continuare ad applicare fino al 31 dicembre 1939 le imposte di consumo con le aliquote stabilite per la classe superiore G. (039U1344)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/10/1939
+---
+tipo: REGIO DECRETO
+numero: 1344
+data: 1939-08-18
+titolo: "Autorizzazione al comune di Trecate a continuare ad applicare fino al 31 dicembre 1939 le imposte di consumo con le aliquote stabilite per la classe superiore G. (039U1344)"
+urn: urn:nir:stato:regio.decreto:1939-08-18;1344
+codice_redazionale: 039U1344
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,22 @@ Vista la domanda del comune di Trecate, tendente ad ottenere l'autorizzazione a 
 
 Udito il parere della Commissione centrale per la finanza, locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Trecate e' autorizzato a continuare ad applicare fino al 31 dicembre 1939-XVIII le imposte di consumo con le aliquote stabilite per la classe superiore G.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 18 agosto 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 14 settembre 1939-XVII   
-  
-Atti del Governo, registro 413, foglio 57. - Mancini.   
-  
-  
+Il comune di Trecate e' autorizzato a continuare ad applicare fino al 31 dicembre 1939-XVIII le imposte di consumo con le aliquote stabilite per la classe superiore G. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 18 agosto 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 14 settembre 1939-XVII 
+ 
+ Atti del Governo, registro 413, foglio 57. - Mancini.

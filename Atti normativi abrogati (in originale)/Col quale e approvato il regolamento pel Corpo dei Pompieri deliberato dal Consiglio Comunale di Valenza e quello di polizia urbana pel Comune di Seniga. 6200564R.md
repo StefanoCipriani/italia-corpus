@@ -1,23 +1,19 @@
-REGIO DECRETO 30 ottobre 1862 n. DLXIV
+---
+tipo: REGIO DECRETO
+numero: DLXIV
+data: 1862-10-30
+titolo: "Col quale e' approvato il regolamento pel Corpo dei Pompieri deliberato dal Consiglio Comunale di Valenza, e quello di polizia urbana pel Comune di Seniga. (6200564R)"
+urn: urn:nir:stato:regio.decreto:1862-10-30;564
+codice_redazionale: 6200564R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 ottobre 1862 n. DLXIV
-======================================
-
-Col quale e' approvato il regolamento pel Corpo dei Pompieri deliberato dal Consiglio Comunale di Valenza, e quello di polizia urbana pel Comune di Seniga. (6200564R)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/10/1862
-
-Art. 1
-------
-
-  
-Col quale sono approvati:   
-  
-1.° Il regolamento pel Corpo dei Pompieri deliberato dal Consiglio Comunale di Valenza (Alessandria) in seduta 2 corrente ottobre;   
-  
-2.° Il regolamento di polizia urbana stato deliberato dal Consiglio Comunale di Seniga (Brescia) nelle adunanze 21 maggio e 9 ottobre corrente.   
-  
-Torino 30 ottobre 1862   
-  
+Col quale sono approvati: 
+ 
+ 1.° Il regolamento pel Corpo dei Pompieri deliberato dal Consiglio Comunale di Valenza (Alessandria) in seduta 2 corrente ottobre; 
+ 
+ 2.° Il regolamento di polizia urbana stato deliberato dal Consiglio Comunale di Seniga (Brescia) nelle adunanze 21 maggio e 9 ottobre corrente. 
+ 
+ Torino 30 ottobre 1862

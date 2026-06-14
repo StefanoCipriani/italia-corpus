@@ -1,16 +1,14 @@
-REGIO DECRETO 24 agosto 1928 n. 2149
-
-
-REGIO DECRETO 24 agosto 1928 n. 2149
-====================================
-
-Aumento dei contributi al Consorzio pei rimboschimenti della provincia di Piacenza. (028U2149)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/10/1928
+---
+tipo: REGIO DECRETO
+numero: 2149
+data: 1928-08-24
+titolo: "Aumento dei contributi al Consorzio pei rimboschimenti della provincia di Piacenza. (028U2149)"
+urn: urn:nir:stato:regio.decreto:1928-08-24;2149
+codice_redazionale: 028U2149
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,38 +18,27 @@ Visto il Nostro decreto 10 marzo 1907, n. 128, relativo alla costituzione del Co
 
 Visto che la provincia di Piacenza ha elevato il suo contributo al detto Consorzio a L. 30,000 annue, come dalla deliberazione del 5 luglio 1924 del Consiglio provinciale;
 
-Visto l'[art. 75 del R. decreto 30 dicembre 1923, n. 3267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267~art75), sul riordinamento e riforma della legislazione in materia di boschi e di terreni montani;
+Visto l'[art. 75 del R. decreto 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267#art_75), sul riordinamento e riforma della legislazione in materia di boschi e di terreni montani;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il contributo dello Stato al Consorzio pei rimboscamenti da eseguirsi nella provincia di Piacenza, determinato fino alla somma di L. 5000 col [R. decreto 10 marzo 1907, n. 128](Incarico%20al%20Comitato%20forestale%20della%20provincia%20di%20Piacenza%20di%20promuovere%20il%20rimboschimento%20e%20il%20consolidamento%20dei%20terreni%20montani%20007U0128.md), e' elevato, a decorrere dall'esercizio 1928-29, fino alla somma di L. 30,000, corrispondente al contributo della Provincia interessata di cui alla precitata deliberazione 5 luglio 1924 del Consiglio provinciale.
 
-  
-  
-Il contributo dello Stato al Consorzio pei rimboscamenti da eseguirsi nella provincia di Piacenza, determinato fino alla somma di L. 5000 col [R. decreto 10 marzo 1907, n. 128](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-03-10;128), e' elevato, a decorrere dall'esercizio 1928-29, fino alla somma di L. 30,000, corrispondente al contributo della Provincia interessata di cui alla precitata deliberazione 5 luglio 1924 del Consiglio provinciale.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-La somma predetta di L. 30,000 sara' prelevata dal fondo stanziato al capitolo 83 del bilancio passivo del Ministero dell'economia nazionale per l'esercizio finanziario corrente, ed ai capitoli corrispondenti pei bilanci degli esercizi futuri.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle reggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Anna di Valdieri, addi' 24 agosto 1928 - Anno VI   
-  
-VITTORIO EMANUELE.   
-  
-Martelli.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 1 ottobre 1928 - Anno VI   
-Atti del Governo, registro 277, foglio 1. - Casati.   
-  
+La somma predetta di L. 30,000 sara' prelevata dal fondo stanziato al capitolo 83 del bilancio passivo del Ministero dell'economia nazionale per l'esercizio finanziario corrente, ed ai capitoli corrispondenti pei bilanci degli esercizi futuri. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle reggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Anna di Valdieri, addi' 24 agosto 1928 - Anno VI 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Martelli. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 1 ottobre 1928 - Anno VI  
+ Atti del Governo, registro 277, foglio 1. - Casati.

@@ -1,16 +1,14 @@
-REGIO DECRETO 26 novembre 1884 n. 2838
-
-
-REGIO DECRETO 26 novembre 1884 n. 2838
-======================================
-
-Che autorizza la iscrizione di una somma sul Gran Libro del Debito Pubblico in aumento al consolidato 5 per cento. (084U2838)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/01/1885
+---
+tipo: REGIO DECRETO
+numero: 2838
+data: 1884-11-26
+titolo: "Che autorizza la iscrizione di una somma sul Gran Libro del Debito Pubblico in aumento al consolidato 5 per cento. (084U2838)"
+urn: urn:nir:stato:regio.decreto:1884-11-26;2838
+codice_redazionale: 084U2838
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,36 +22,26 @@ Vista la stima compilata dall'ufficio del Genio civile in data 3 maggio 1884, da
 
 Ritenuto, che per quanto riguarda la rendita da soddisfarsi al predetto Regio Commissariato dalle tre epoche sovracitate in cui ebbe luogo la retrocessione dei locali in discorso a tutto il mese di maggio 1884, si e' calcolato dall'ufficio del Genio civile un compenso di lire 3798 31, come viene esposto nella stima sovramenzionata;
 
-Ritenuto pero' che, a termini del [Regio decreto 8 luglio 1883, n. 1484](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1883-07-08;1484) (Seria 3ª) l'iscrizione sul Gran Libro del Debito Pubblico del consolidato 5 per cento della predetta annua rendita di lire 1228 05 dovendo eseguirsi col godimento dal primo giorno del semestre in cui sara' accesa e nel caso attuale dal 1° luglio 1884, il compenso per arretrati di detta rendita spettante al detto Regio Commissariato dovra' essere calcolato a tutto il mese di giugno 1884 nella complessiva somma di lire 3905 87;
+Ritenuto pero' che, a termini del [Regio decreto 8 luglio 1883, n. 1484](Concernente%20la%20decorrenza%20dellinteresse%20ed%20il%20prezzo%20di%20borsa%20delle%20cartelle%20di%20rendita%20pubblica.%20083U1484.md) (Seria 3ª) l'iscrizione sul Gran Libro del Debito Pubblico del consolidato 5 per cento della predetta annua rendita di lire 1228 05 dovendo eseguirsi col godimento dal primo giorno del semestre in cui sara' accesa e nel caso attuale dal 1° luglio 1884, il compenso per arretrati di detta rendita spettante al detto Regio Commissariato dovra' essere calcolato a tutto il mese di giugno 1884 nella complessiva somma di lire 3905 87;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari delle Finanze, interim del Tesoro, Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari delle Finanze, interim del Tesoro, Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+E' autorizzata la inscrizione nel Gran Libro del Debito Pubblico in aumento al consolidato 5 per cento di una rendita di lire milleduecentoventotto e centesimi cinque (lire 1228 05) con decorrenza di godimento dal 1° luglio 1884 a favore del Regio Commissariato per la liquidazione dell'Asse ecclesiastico in Roma in rappresentanza dell'ex Convento dei Filippini in detta citta'.
 
-  
-  
-E' autorizzata la inscrizione nel Gran Libro del Debito Pubblico in aumento al consolidato 5 per cento di una rendita di lire milleduecentoventotto e centesimi cinque (lire 1228 05) con decorrenza di godimento dal 1° luglio 1884 a favore del Regio Commissariato per la liquidazione dell'Asse ecclesiastico in Roma in rappresentanza dell'ex Convento dei Filippini in detta citta'.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Con Buoni a parte la Direzione generale del Debito Pubblico provvedera' al soddisfacimento dei prorata di interessi sulla rendita di lire 1228 05 nella complessiva somma di lire tremilanovecentocinque e centesimi ottantasette (lire 3905 87) nel modo seguente:   
-  
-Parte di provvedimento in formato grafico  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stata, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 26 novembre 1884.   
-  
-UMBERTO.   
-  
-A. Magliani.   
-  
-Visto, Il Guardasigilli: Pessina.   
+Con Buoni a parte la Direzione generale del Debito Pubblico provvedera' al soddisfacimento dei prorata di interessi sulla rendita di lire 1228 05 nella complessiva somma di lire tremilanovecentocinque e centesimi ottantasette (lire 3905 87) nel modo seguente: 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stata, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 novembre 1884. 
+ 
+ UMBERTO. 
+ 
+ A. Magliani. 
+ 
+ Visto, Il Guardasigilli: Pessina.

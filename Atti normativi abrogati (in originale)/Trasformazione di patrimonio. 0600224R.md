@@ -1,19 +1,15 @@
-REGIO DECRETO 10 giugno 1906 n. CCXXIV
+---
+tipo: REGIO DECRETO
+numero: CCXXIV
+data: 1906-06-10
+titolo: "Trasformazione di patrimonio. (0600224R)"
+urn: urn:nir:stato:regio.decreto:1906-06-10;224
+codice_redazionale: 0600224R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 giugno 1906 n. CCXXIV
-======================================
-
-Trasformazione di patrimonio. (0600224R)
-----------------------------------------
-
-Entrata in vigore del provvedimento: 31/07/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCXXIV (Dato a Roma, il 10 giugno 1906), col quale il fine inerente al patrimonio delle Confraternite della Carita', del Rosario, del Gonfalone, della Coroncina, del Sacramento e del Crocifisso, esistenti in Marino (Roma) e' parzialmente trasformato in favore dell'ospedale civile del predetto Comune.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCXXIV (Dato a Roma, il 10 giugno 1906), col quale il fine inerente al patrimonio delle Confraternite della Carita', del Rosario, del Gonfalone, della Coroncina, del Sacramento e del Crocifisso, esistenti in Marino (Roma) e' parzialmente trasformato in favore dell'ospedale civile del predetto Comune.

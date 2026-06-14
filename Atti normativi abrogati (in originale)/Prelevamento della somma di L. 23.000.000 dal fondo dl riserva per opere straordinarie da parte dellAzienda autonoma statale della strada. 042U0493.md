@@ -1,16 +1,14 @@
-REGIO DECRETO 15 aprile 1942 n. 493
-
-
-REGIO DECRETO 15 aprile 1942 n. 493
-===================================
-
-Prelevamento della somma di L. 23.000.000 dal fondo dl riserva per opere straordinarie da parte dell'Azienda autonoma statale della strada. (042U0493)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/06/1942
+---
+tipo: REGIO DECRETO
+numero: 493
+data: 1942-04-15
+titolo: "Prelevamento della somma di L. 23.000.000 dal fondo dl riserva per opere straordinarie da parte dell'Azienda autonoma statale della strada. (042U0493)"
+urn: urn:nir:stato:regio.decreto:1942-04-15;493
+codice_redazionale: 042U0493
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,85 +28,71 @@ Ritenuto che di detta disponibilita', L. 33.816.848,28 sono depositate in conto 
 
 Sentito il Consiglio di amministrazione dell'Azienda suddetta;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' autorizzato il prelevamento della somma di L. 23.000.000 (lire ventitre milioni) dal fondo di riserva per opere straordinarie depositato in conto corrente speciale presso la Cassa depositi e prestiti.
 
-  
-  
-E' autorizzato il prelevamento della somma di L. 23.000.000 (lire ventitre milioni) dal fondo di riserva per opere straordinarie depositato in conto corrente speciale presso la Cassa depositi e prestiti.   
+## Art. 2.
 
-Art. 2
-------
+Gli stanziamenti di competenza dello stato di previsione della entrata e della spesa dell'Azienda autonoma statale della strada per l'esercizio 1941-42 sono aumentati come segue: 
+ 
+ Entrata: 
+ 
+ 
+ 
+ 
 
-  
-  
-Gli stanziamenti di competenza dello stato di previsione della entrata e della spesa dell'Azienda autonoma statale della strada per l'esercizio 1941-42 sono aumentati come segue:   
-  
-Entrata:   
-  
-  
-  
-  
-  
-Cap. n. 20. - Prelevamento dal fondo di riserva per  
-opere straordinarie . . . . . . . . . . . . . . . L. 23.000.000   
-  
-  
-  
-Spesa:   
-  
-  
-  
-  
-  
-Cap. n. 40. - Riparazioni straordinarie, consolidamenti  
-e opere di difesa, rettifiche e sistemazioni saltuarie.  
-Costruzioni di ponti, ecc. . . . . . . . . . . . L. 23.000.000   
+Cap. n. 20. - Prelevamento dal fondo di riserva per
+ opere straordinarie . . . . . . . . . . . . . . . L. 23.000.000 
+ 
+ 
+ 
+ Spesa: 
+ 
+ 
+ 
+ 
 
-Art. 3
-------
+Cap. n. 40. - Riparazioni straordinarie, consolidamenti
+ e opere di difesa, rettifiche e sistemazioni saltuarie.
+ Costruzioni di ponti, ecc. . . . . . . . . . . . L. 23.000.000
 
-  
-  
-La consistenza dei residui al 1° luglio 1941-XIX e' diminuita come segue:   
-  
-Entrata:   
-  
-  
-  
-Cap. n. 33. - Conto corrente speciale presso la Cassa  
-depositi prestiti pel versamento del fondo di  
-riserva per opere straordinarie . . . . . . . . . L. 23.000.000   
-  
-  
-Spesa:   
-  
-  
-  
-Cap. n. 43. - Fondo di riserva per opere straordinarie,  
-da versare in conto corrente speciale presso la  
-Cassa depositi e prestiti . . . . . . . . . . . L. 23.000.000   
-  
-  
-Questo decreto sara' presentato alle Assemblee legislative col conto consuntivo dell'Azienda autonoma statale della strada per l'esercizio 1941-42.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 15 aprile 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-GORLA - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 21 maggio 1942-XX   
-  
-Atti del Governo, registro 445, foglio 68. - MANCINI   
-  
-  
+## Art. 3.
+
+La consistenza dei residui al 1° luglio 1941-XIX e' diminuita come segue: 
+ 
+ Entrata: 
+ 
+ 
+
+Cap. n. 33. - Conto corrente speciale presso la Cassa
+ depositi prestiti pel versamento del fondo di
+ riserva per opere straordinarie . . . . . . . . . L. 23.000.000 
+ 
+ 
+ Spesa: 
+ 
+ 
+
+Cap. n. 43. - Fondo di riserva per opere straordinarie,
+ da versare in conto corrente speciale presso la
+ Cassa depositi e prestiti . . . . . . . . . . . L. 23.000.000 
+ 
+ 
+ Questo decreto sara' presentato alle Assemblee legislative col conto consuntivo dell'Azienda autonoma statale della strada per l'esercizio 1941-42. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 15 aprile 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ GORLA - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 21 maggio 1942-XX 
+ 
+ Atti del Governo, registro 445, foglio 68. - MANCINI

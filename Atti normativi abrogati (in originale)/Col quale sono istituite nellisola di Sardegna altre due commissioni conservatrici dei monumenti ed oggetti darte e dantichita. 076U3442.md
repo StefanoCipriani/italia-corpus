@@ -1,16 +1,14 @@
-REGIO DECRETO 08 ottobre 1876 n. 3442
-
-
-REGIO DECRETO 08 ottobre 1876 n. 3442
-=====================================
-
-Col quale sono istituite nell'isola di Sardegna altre due commissioni conservatrici dei monumenti ed oggetti d'arte e d'antichita'. (076U3442)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/12/1876
+---
+tipo: REGIO DECRETO
+numero: 3442
+data: 1876-10-08
+titolo: "Col quale sono istituite nell'isola di Sardegna altre due commissioni conservatrici dei monumenti ed oggetti d'arte e d'antichita'. (076U3442)"
+urn: urn:nir:stato:regio.decreto:1876-10-08;3442
+codice_redazionale: 076U3442
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,50 +20,32 @@ Visto l'altro Nostro decreto 16 maggio 1875, che istituisce un Commissariato spe
 
 Visto il Nostro decreto 5 marzo 1876, num. 3028 (Serie 2ª) sull'ordinamento delle Commissioni conservatrici dei monumenti ed oggetti d'arte e di antichita';
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' revocato il Nostro decreto 22 settembre 1866, che istituiva in Sardegna due Commissioni conservatrici dei monumenti di antichita' e belle arti, composte di dodici persone ciascuna.
 
-  
-  
-E' revocato il Nostro decreto 22 settembre 1866, che istituiva in Sardegna due Commissioni conservatrici dei monumenti di antichita' e belle arti, composte di dodici persone ciascuna.   
-  
+## Art. 2.
 
-Art. 2
-------
+In luogo delle suddette Commissioni sono istituite nell'isola di Sardegna altre due Commissioni conservatrici dei monumenti ed oggetti d'arte e d'antichita', l'una nella provincia di Cagliari e l'altra nella provincia di Sassari, colle attribuzioni indicate dal decreto 5 marzo 1876.
 
-  
-  
-In luogo delle suddette Commissioni sono istituite nell'isola di Sardegna altre due Commissioni conservatrici dei monumenti ed oggetti d'arte e d'antichita', l'una nella provincia di Cagliari e l'altra nella provincia di Sassari, colle attribuzioni indicate dal decreto 5 marzo 1876.   
-  
+## Art. 3.
 
-Art. 3
-------
+Queste Commissioni si comporranno ciascuna di quattro commissari, due eletti dal Governo e due dal Consiglio provinciale della rispettiva provincia; saranno presiedute dal prefetto ed un impiegato della Prefettura compira' l'ufficio di segretario.
 
-  
-  
-Queste Commissioni si comporranno ciascuna di quattro commissari, due eletti dal Governo e due dal Consiglio provinciale della rispettiva provincia; saranno presiedute dal prefetto ed un impiegato della Prefettura compira' l'ufficio di segretario.   
-  
-
-Art. 4
-------
+## Art. 4.
 
 Gli scavi ed i musei dell'isola continueranno ad essere amministrati colle norme stabilite dal decreto 16 maggio
 
-1875. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 8 ottobre
+1875.
 
-1876. 
-  
-  
-VITTORIO EMANUELE.   
-  
-M. COPPINO.
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 8 ottobre
+
+1876.
+
+VITTORIO EMANUELE. 
+ 
+ M. COPPINO.

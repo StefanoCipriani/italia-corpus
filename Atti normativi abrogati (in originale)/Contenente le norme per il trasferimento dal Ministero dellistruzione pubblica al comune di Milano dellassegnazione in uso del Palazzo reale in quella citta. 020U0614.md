@@ -1,22 +1,20 @@
-REGIO DECRETO 11 maggio 1920 n. 614
-
-
-REGIO DECRETO 11 maggio 1920 n. 614
-===================================
-
-Contenente le norme per il trasferimento dal Ministero dell'istruzione pubblica al comune di Milano dell'assegnazione in uso del Palazzo reale in quella citta'. (020U0614)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/06/1920
+---
+tipo: REGIO DECRETO
+numero: 614
+data: 1920-05-11
+titolo: "Contenente le norme per il trasferimento dal Ministero dell'istruzione pubblica al comune di Milano dell'assegnazione in uso del Palazzo reale in quella citta'. (020U0614)"
+urn: urn:nir:stato:regio.decreto:1920-05-11;614
+codice_redazionale: 020U0614
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [decreto-legge 3 ottobre 1919, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-10-03;1792), concernente la retrocessione al demanio dello Stato e la assegnazione di beni immobili e mobili gia' attribuiti alla dotazione della Corona;
+Visto il [decreto-legge 3 ottobre 1919, n. 1792](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-10-03;1792), concernente la retrocessione al demanio dello Stato e la assegnazione di beni immobili e mobili gia' attribuiti alla dotazione della Corona;
 
 Visto il decreto del presidente del Consiglio dei ministri di concerto col ministro delle finanze, in data 30 aprile 1920, e la tabella annessa al medesimo;
 
@@ -30,59 +28,36 @@ Considerato che in tal guida sarebbe assicurata alla Biblioteca nazionale di Bre
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del presidente del Consiglio dei ministri, di concerto coi ministri delle finanze e della istruzione pubblica; Abbiamo decretato e decretiamo:
 
-proposta del presidente del Consiglio dei ministri, di concerto coi ministri delle finanze e della istruzione pubblica; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Con decreto del presidente del Consiglio dei ministri, di concerto coi ministri delle finanze e dell'istruzione pubblica, sara' trasferita dal Ministero dell'istruzione pubblica al comune di Milano l'assegnazione in uso del palazzo Reale in quella citta', rimanendo invariata la destinazione della parte monumentale del medesimo, con le garanzie e modalita' che all'uopo saranno stabilite nell'emanando decreto.
 
-  
-  
-  
-Con decreto del presidente del Consiglio dei ministri, di concerto coi ministri delle finanze e dell'istruzione pubblica, sara' trasferita dal Ministero dell'istruzione pubblica al comune di Milano l'assegnazione in uso del palazzo Reale in quella citta', rimanendo invariata la destinazione della parte monumentale del medesimo, con le garanzie e modalita' che all'uopo saranno stabilite nell'emanando decreto.   
-  
+## Art. 2.
 
-Art. 2
-------
+Il trasferimento dell'assegnazione del palazzo Reale di Milano dovra' essere preceduto da legale obbligo che il comune di Milano assumera': 
+ 
+ 1° di provvedere alla nuova sede della biblioteca nazionale di Brera in palazzo Marino a proprie spese, in conformita' a quanto e' espresso nella parte preliminare del presente decreto; 
+ 
+ 2° di designare, con le opere di adattamento e ricostruzione necessarie. La parte posteriore del palazzo Reale a sede degli uffici municipali, in conformita' alla richiesta fatta dal sindaco di Milano al presidente del Consiglio dei ministri, con lettera dal 23 febbraio 1920; 
+ 
+ 3° di osservare e far osservare scrupolosamente tutte le prescrizioni del Ministero dell'istruzione pubblica per la tutela della parte anteriore monumentale del palazzo e per la destinazione artistica della medesima, con le garanzie e modalita' che saranno stabilite a norma dell'articolo precedente, nonche' per l'adattamento artistico della parte costruenda.
 
-  
-  
-  
-Il trasferimento dell'assegnazione del palazzo Reale di Milano dovra' essere preceduto da legale obbligo che il comune di Milano assumera':   
-  
-1° di provvedere alla nuova sede della biblioteca nazionale di Brera in palazzo Marino a proprie spese, in conformita' a quanto e' espresso nella parte preliminare del presente decreto;   
-  
-2° di designare, con le opere di adattamento e ricostruzione necessarie. La parte posteriore del palazzo Reale a sede degli uffici municipali, in conformita' alla richiesta fatta dal sindaco di Milano al presidente del Consiglio dei ministri, con lettera dal 23 febbraio 1920;   
-  
-3° di osservare e far osservare scrupolosamente tutte le prescrizioni del Ministero dell'istruzione pubblica per la tutela della parte anteriore monumentale del palazzo e per la destinazione artistica della medesima, con le garanzie e modalita' che saranno stabilite a norma dell'articolo precedente, nonche' per l'adattamento artistico della parte costruenda.   
-  
+## Art. 3.
 
-Art. 3
-------
+Nello stesso decreto del presidente del Consiglio dei ministri, in altro successivo saranno stabiliti i termini per l'adempimento degli obblighi del comune di Milano e saranno impartite le dispense necessarie per l'esecuzione del presente.
 
-  
-  
-  
-Nello stesso decreto del presidente del Consiglio dei ministri, in altro successivo saranno stabiliti i termini per l'adempimento degli obblighi del comune di Milano e saranno impartite le dispense necessarie per l'esecuzione del presente.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-  
-Il presente decreto entrera' in vigore il giorno successivo alla sua pubblicazione nella Gazzetta ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 maggio 1920.   
-  
-VITTORIO EMANUELE.   
-  
-Nitti - Schanzer - Torre.   
-  
-Visto, Il guardasigilli: Mortara.   
-  
+Il presente decreto entrera' in vigore il giorno successivo alla sua pubblicazione nella Gazzetta ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 maggio 1920. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Nitti - Schanzer - Torre. 
+ 
+ Visto, Il guardasigilli: Mortara.

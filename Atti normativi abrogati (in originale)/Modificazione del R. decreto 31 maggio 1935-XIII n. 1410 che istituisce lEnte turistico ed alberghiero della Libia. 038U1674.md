@@ -1,16 +1,14 @@
-REGIO DECRETO 05 settembre 1938 n. 1674
-
-
-REGIO DECRETO 05 settembre 1938 n. 1674
-=======================================
-
-Modificazione del R. decreto 31 maggio 1935-XIII, n. 1410, che istituisce l'Ente turistico ed alberghiero della Libia. (038U1674)
----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/11/1938
+---
+tipo: REGIO DECRETO
+numero: 1674
+data: 1938-09-05
+titolo: "Modificazione del R. decreto 31 maggio 1935-XIII, n. 1410, che istituisce l'Ente turistico ed alberghiero della Libia. (038U1674)"
+urn: urn:nir:stato:regio.decreto:1938-09-05;1674
+codice_redazionale: 038U1674
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,32 +24,26 @@ Udito il parere del Consiglio superiore coloniale;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE, Ministro Segretario di Stato per l'Africa Italiana, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE, Ministro Segretario di Stato per l'Africa Italiana, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La lettera a) dell'art. 2 del R. decreto 31 maggio 1935-XIII, n. 1410, e' modificata come segue:   
-  
-« a) da un contributo del Governo della Libia sino alla concorrenza di sette milioni, che potra' essere ripartito in piu' esercizi finanziari».   
-  
-Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nel Bollettino ufficiale del Governo della Libia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 5 settembre 1938-XVI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - DI Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 2 novembre 1938-XVII   
-  
-Atti del Governo, registro 403, foglio 6. - Mancini.   
+La lettera a) dell'art. 2 del R. decreto 31 maggio 1935-XIII, n. 1410, e' modificata come segue: 
+ 
+ « a) da un contributo del Governo della Libia sino alla concorrenza di sette milioni, che potra' essere ripartito in piu' esercizi finanziari». 
+ 
+ Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nel Bollettino ufficiale del Governo della Libia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 5 settembre 1938-XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - DI Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 2 novembre 1938-XVII 
+ 
+ Atti del Governo, registro 403, foglio 6. - Mancini.

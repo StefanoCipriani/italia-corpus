@@ -1,16 +1,14 @@
-REGIO DECRETO 02 agosto 1898 n. 343
-
-
-REGIO DECRETO 02 agosto 1898 n. 343
-===================================
-
-Col quale il Comandante l'VIII Corpo d'Armata cessa dall'incarico temporaneo della direzione generale della Polizia nel Circondario di Rocca San Casciano. (098U0343)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/08/1898
+---
+tipo: REGIO DECRETO
+numero: 343
+data: 1898-08-02
+titolo: "Col quale il Comandante l'VIII Corpo d'Armata cessa dall'incarico temporaneo della direzione generale della Polizia nel Circondario di Rocca San Casciano. (098U0343)"
+urn: urn:nir:stato:regio.decreto:1898-08-02;343
+codice_redazionale: 098U0343
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Visto l'articolo 5 dello Statuto fondamentale del Regno;
 
 Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli Affari dell'Interno;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dalla data della pubblicazione del presente decreto, il Comandante l'VIII Corpo d'Armata cessa dall'incarico temporaneo della direzione generale della Polizia nel territorio del Circondario di Rocca San Casciano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valprato, addi' 2 agosto 1898.   
-  
-UMBERTO.   
-  
-Pelloux.   
-  
-Visto, Il Guardasigilli: C. Finocchiaro-Aprile.   
-  
+Dalla data della pubblicazione del presente decreto, il Comandante l'VIII Corpo d'Armata cessa dall'incarico temporaneo della direzione generale della Polizia nel territorio del Circondario di Rocca San Casciano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valprato, addi' 2 agosto 1898. 
+ 
+ UMBERTO. 
+ 
+ Pelloux. 
+ 
+ Visto, Il Guardasigilli: C. Finocchiaro-Aprile.

@@ -1,17 +1,17 @@
-REGIO DECRETO 18 aprile 1895 n. 167
+---
+tipo: REGIO DECRETO
+numero: 167
+data: 1895-04-18
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0167)"
+urn: urn:nir:stato:regio.decreto:1895-04-18;167
+codice_redazionale: 095U0167
+vigente: true
+---
 
-
-REGIO DECRETO 18 aprile 1895 n. 167
-===================================
-
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0167)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1895
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-167. Il Comune di Paroldo e' aggregato alla 2ª Sezione elettorale di Ceva del Collegio di Ceva.
+167.
+
+Il Comune di Paroldo e' aggregato alla 2ª Sezione elettorale di Ceva del Collegio di Ceva.

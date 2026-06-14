@@ -1,16 +1,14 @@
-REGIO DECRETO 20 febbraio 1898 n. 71
-
-
-REGIO DECRETO 20 febbraio 1898 n. 71
-====================================
-
-Che sostituisce con altro l'articolo 93 dell'elenco delle imperfezioni ed infermita' che motivano l'inabilita' al servizio militare. (098U0071)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/04/1898
+---
+tipo: REGIO DECRETO
+numero: 71
+data: 1898-02-20
+titolo: "Che sostituisce con altro l'articolo 93 dell'elenco delle imperfezioni ed infermita' che motivano l'inabilita' al servizio militare. (098U0071)"
+urn: urn:nir:stato:regio.decreto:1898-02-20;71
+codice_redazionale: 098U0071
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,27 +22,20 @@ Visto il Nostro decreto del 30 aprile 1896 n. 104 col quale furono sostituti alc
 
 Riconosciuta la convenienza di portare qualche altra modificazione all'elenco stesso;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-All'articolo 93 dell'elenco delle imperfezioni ed infermita' che motivano l'inabilita' al servizio militare, e' sostituito il seguente:   
-  
-«Articolo 93 - L'eccessiva convergenza o divergenza dei ginocchi, la deviazione dei piedi conosciuti col nome di piede equino, varo, valgo, il piede schiacciato con inclinazione al lato interno dell'articolazione tibio-tarsea».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 20 febbraio 1898.   
-  
-UMBERTO.   
-  
-A. Di San Marzano.   
-  
-Visto, Il Guardasigilli: G. Zanardelli.   
-  
+All'articolo 93 dell'elenco delle imperfezioni ed infermita' che motivano l'inabilita' al servizio militare, e' sostituito il seguente: 
+ 
+ «Articolo 93 - L'eccessiva convergenza o divergenza dei ginocchi, la deviazione dei piedi conosciuti col nome di piede equino, varo, valgo, il piede schiacciato con inclinazione al lato interno dell'articolazione tibio-tarsea». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 20 febbraio 1898. 
+ 
+ UMBERTO. 
+ 
+ A. Di San Marzano. 
+ 
+ Visto, Il Guardasigilli: G. Zanardelli.

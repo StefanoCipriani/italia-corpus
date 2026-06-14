@@ -1,16 +1,14 @@
-REGIO DECRETO 30 agosto 1863 n. 1466
-
-
-REGIO DECRETO 30 agosto 1863 n. 1466
-====================================
-
-Col quale si estende ed e' resa applicabile a tutte le Provincie del Regno la tariffa A annessa alla legge 16 novembre 1859, n.° 3723. (063U1466)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/10/1863
+---
+tipo: REGIO DECRETO
+numero: 1466
+data: 1863-08-30
+titolo: "Col quale si estende ed e' resa applicabile a tutte le Provincie del Regno la tariffa A annessa alla legge 16 novembre 1859, n.° 3723. (063U1466)"
+urn: urn:nir:stato:regio.decreto:1863-08-30;1466
+codice_redazionale: 063U1466
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,34 +24,24 @@ Considerata la necessita' di provvedere prontamente all'oggetto;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno;
 
-Udito
------
+Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+E' estesa ed applicabile a tutte le Provincie del Reame la tariffa A annessa alla legge del 16 novembre 1859, n.° 3723, con le relative disposizioni della legge medesima e regolamenti dipendenti per la riscossione dei diritti dovuti agli Uffici delle Prefetture e Sotto-Prefetture ed agli Uscieri presso i medesimi stabiliti.
 
-  
-  
-E' estesa ed applicabile a tutte le Provincie del Reame la tariffa A annessa alla legge del 16 novembre 1859, n.° 3723, con le relative disposizioni della legge medesima e regolamenti dipendenti per la riscossione dei diritti dovuti agli Uffici delle Prefetture e Sotto-Prefetture ed agli Uscieri presso i medesimi stabiliti.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Le disposizioni del presente Decreto saranno presentate al Parlamento nella prossima riapertura della Sessione per essere convertite in legge.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 30 agosto 1863.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 21 settembre 1863   
-Reg° 25 Atti del Governo a c. 116. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli: G. PISANELLI.   
-  
-U. PERUZZI.   
-  
+Le disposizioni del presente Decreto saranno presentate al Parlamento nella prossima riapertura della Sessione per essere convertite in legge. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 30 agosto 1863. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 21 settembre 1863 
+ Reg° 25 Atti del Governo a c. 116. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli: G. PISANELLI. 
+ 
+ U. PERUZZI.

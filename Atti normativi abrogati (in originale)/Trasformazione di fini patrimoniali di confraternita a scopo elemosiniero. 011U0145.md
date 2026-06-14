@@ -1,19 +1,15 @@
-REGIO DECRETO 19 febbraio 1911 n. 145
+---
+tipo: REGIO DECRETO
+numero: 145
+data: 1911-02-19
+titolo: "Trasformazione di fini patrimoniali di confraternita a scopo elemosiniero. (011U0145)"
+urn: urn:nir:stato:regio.decreto:1911-02-19;145
+codice_redazionale: 011U0145
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 febbraio 1911 n. 145
-=====================================
-
-Trasformazione di fini patrimoniali di confraternita a scopo elemosiniero. (011U0145)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/04/1911
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. 145 (Dato a Roma, il 19 febbraio 1911), col quale si e' disposta la parziale trasformazione a scopi di beneficenza delle Confraternite di Santa Croce, del Sacramento e del Suffragio di Canino (Roma).   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. 145 (Dato a Roma, il 19 febbraio 1911), col quale si e' disposta la parziale trasformazione a scopi di beneficenza delle Confraternite di Santa Croce, del Sacramento e del Suffragio di Canino (Roma).

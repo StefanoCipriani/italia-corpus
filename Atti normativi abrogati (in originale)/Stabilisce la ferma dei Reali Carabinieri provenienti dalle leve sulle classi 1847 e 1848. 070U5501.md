@@ -1,16 +1,14 @@
-REGIO DECRETO 13 febbraio 1870 n. 5501
-
-
-REGIO DECRETO 13 febbraio 1870 n. 5501
-======================================
-
-Stabilisce la ferma dei Reali Carabinieri provenienti dalle leve sulle classi 1847 e 1848. (070U5501)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/03/1870
+---
+tipo: REGIO DECRETO
+numero: 5501
+data: 1870-02-13
+titolo: "Stabilisce la ferma dei Reali Carabinieri provenienti dalle leve sulle classi 1847 e 1848. (070U5501)"
+urn: urn:nir:stato:regio.decreto:1870-02-13;5501
+codice_redazionale: 070U5501
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Visti i Nostri Regi Decreti 17 giugno 1859, 14 novembre 1860, 22 febbraio e 21 o
 
 Considerata la necessita' di agevolare il reclutamento dell'Arma dei Carabinieri Reali, onde tenerla al numero stabilito;
 
-Sulla
------
+Sulla proposta del Nostro Ministro per gli Affari della Guerra; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro per gli Affari della Guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Gli uomini provenienti dalle due leve sui nati nel 1847 e nel 1848, ammessi nell'Arma dei Carabinieri Reali, e gl'individui che si sono arruolati o che si arruoleranno nell'Arma stessa per conto di dette due leve, contrarranno, come quelli delle classi dal 1838 a quella del 1846, la ferma di anni otto di ordinanza, nella quale verra' computato il tempo da trascorrere come allievi Carabinieri, decorrendo tale ferma dal giorno dell'assento.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 13 febbraio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 22 febbraio 1870   
-  
-Reg. 50 Atti del Governo a c. 78. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-Govone.   
-  
+Gli uomini provenienti dalle due leve sui nati nel 1847 e nel 1848, ammessi nell'Arma dei Carabinieri Reali, e gl'individui che si sono arruolati o che si arruoleranno nell'Arma stessa per conto di dette due leve, contrarranno, come quelli delle classi dal 1838 a quella del 1846, la ferma di anni otto di ordinanza, nella quale verra' computato il tempo da trascorrere come allievi Carabinieri, decorrendo tale ferma dal giorno dell'assento. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 13 febbraio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 22 febbraio 1870 
+ 
+ Reg. 50 Atti del Governo a c. 78. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ Govone.

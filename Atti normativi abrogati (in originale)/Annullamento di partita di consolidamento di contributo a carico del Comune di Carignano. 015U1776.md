@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 11 novembre 1915 n. 1776
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1776
+data: 1915-11-11
+titolo: "Annullamento di partita di consolidamento di contributo a carico del Comune di Carignano. (015U1776)"
+urn: urn:nir:stato:decreto.luogotenenziale:1915-11-11;1776
+codice_redazionale: 015U1776
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 11 novembre 1915 n. 1776
-================================================
-
-Annullamento di partita di consolidamento di contributo a carico del Comune di Carignano. (015U1776)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/01/1916
-
-Art. 1
-------
-
-null
+## Art. 1. — null

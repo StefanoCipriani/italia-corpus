@@ -1,16 +1,14 @@
-REGIO DECRETO 05 giugno 1865 n. MDCXXVIII
-
-
-REGIO DECRETO 05 giugno 1865 n. MDCXXVIII
-=========================================
-
-Approvativo della tariffa dei diritti di Segreteria spettanti alla Camera di commercio e d'arti di Aquila. (6501628R)
----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/07/1865
+---
+tipo: REGIO DECRETO
+numero: MDCXXVIII
+data: 1865-06-05
+titolo: "Approvativo della tariffa dei diritti di Segreteria spettanti alla Camera di commercio e d'arti di Aquila. (6501628R)"
+urn: urn:nir:stato:regio.decreto:1865-06-05;1628
+codice_redazionale: 6501628R
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,34 +20,28 @@ Veduta la deliberazione della Camera di commercio e d'arti di Aquila del 26 marz
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata e resa esecutoria la seguente tariffa dei dritti di Segreteria spettanti alla Camera di commercio e d'arti di Aquila:   
-  
-1.° Per le copie delle deliberazioni o degli altri atti della Camera o dei documenti depositati nei suoi uffici per ogni foglio di due facciate non compresa la carta bollata, L. 1. 20.   
-  
-2.° Per ogni certificato (dritto fisso) L. 2.   
-  
-3.° Per ogni legalizzazione di firma, centesimi 50.   
-  
-4.° Per la ricerca di un atto della Camera L. 1.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 5 giugno 1865.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 22 giugno 1865   
-Reg.° 33 Atti del Governo a c. 13. Crodara-Visconti.   
-Luogo del Sigillo. V. Il Guardasigilli VACCA.   
-  
-TORELLI.   
+E' approvata e resa esecutoria la seguente tariffa dei dritti di Segreteria spettanti alla Camera di commercio e d'arti di Aquila: 
+ 
+ 1.° Per le copie delle deliberazioni o degli altri atti della Camera o dei documenti depositati nei suoi uffici per ogni foglio di due facciate non compresa la carta bollata, L. 1. 20. 
+ 
+ 2.° Per ogni certificato (dritto fisso) L. 2. 
+ 
+ 3.° Per ogni legalizzazione di firma, centesimi 50. 
+ 
+ 4.° Per la ricerca di un atto della Camera L. 1. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 5 giugno 1865. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 22 giugno 1865 
+ Reg.° 33 Atti del Governo a c. 13. Crodara-Visconti. 
+ Luogo del Sigillo. V. Il Guardasigilli VACCA. 
+ 
+ TORELLI.

@@ -1,19 +1,15 @@
-REGIO DECRETO 31 maggio 1908 n. CCXXXV
+---
+tipo: REGIO DECRETO
+numero: CCXXXV
+data: 1908-05-31
+titolo: "Riflettente erezione in ente morale. (0800235R)"
+urn: urn:nir:stato:regio.decreto:1908-05-31;235
+codice_redazionale: 0800235R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 maggio 1908 n. CCXXXV
-======================================
-
-Riflettente erezione in ente morale. (0800235R)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/07/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. CCXXXV (Dato a Roma, il 31 maggio 1908), col quale si erige in ente morale la Societa' reduci e fratellanza militare di Montalcino, e se ne approva lo statuto organico.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. CCXXXV (Dato a Roma, il 31 maggio 1908), col quale si erige in ente morale la Societa' reduci e fratellanza militare di Montalcino, e se ne approva lo statuto organico.

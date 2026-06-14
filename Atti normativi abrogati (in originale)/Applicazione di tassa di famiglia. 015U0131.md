@@ -1,19 +1,15 @@
-REGIO DECRETO 04 febbraio 1915 n. 131
+---
+tipo: REGIO DECRETO
+numero: 131
+data: 1915-02-04
+titolo: "Applicazione di tassa di famiglia. (015U0131)"
+urn: urn:nir:stato:regio.decreto:1915-02-04;131
+codice_redazionale: 015U0131
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 febbraio 1915 n. 131
-=====================================
-
-Applicazione di tassa di famiglia. (015U0131)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 09/03/1915
-
-Art. 1
-------
-
-  
-N. 131   
-  
-Regio Decreto 4 febbraio 1915, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Reggello (Firenze), di applicare agli effetti del 1914 la tassa di famiglia in base alla tariffa deliberata nel detto anno in adunanza 13 dicembre 1913.   
-  
+N. 131 
+ 
+ Regio Decreto 4 febbraio 1915, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Reggello (Firenze), di applicare agli effetti del 1914 la tassa di famiglia in base alla tariffa deliberata nel detto anno in adunanza 13 dicembre 1913.

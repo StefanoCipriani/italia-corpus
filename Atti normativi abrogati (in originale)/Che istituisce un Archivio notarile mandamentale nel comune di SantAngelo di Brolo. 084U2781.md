@@ -1,16 +1,14 @@
-REGIO DECRETO 20 novembre 1884 n. 2781
-
-
-REGIO DECRETO 20 novembre 1884 n. 2781
-======================================
-
-Che istituisce un Archivio notarile mandamentale nel comune di Sant'Angelo di Brolo. (084U2781)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/12/1884
+---
+tipo: REGIO DECRETO
+numero: 2781
+data: 1884-11-20
+titolo: "Che istituisce un Archivio notarile mandamentale nel comune di Sant'Angelo di Brolo. (084U2781)"
+urn: urn:nir:stato:regio.decreto:1884-11-20;2781
+codice_redazionale: 084U2781
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,24 +18,18 @@ Visti gli articoli 3, 101 e 105 del testo unico delle leggi sul riordinamento de
 
 Viste le deliberazioni dei comuni interessati per la istituzione di un Archivio notarile mandamentale in Sant'Angelo di Brolo, debitamente approvate dalla Deputazione provinciale di Messina;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un Archivio notarile mandamentale nel comune di Sant'Angelo di Brolo, capoluogo di mandamento, distretto di Patti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 20 novembre 1884,   
-  
-UMBERTO.   
-  
-Ferracciu'.   
-  
-Visto, Il Guardasigilli: Ferracciu'.   
+E' istituito un Archivio notarile mandamentale nel comune di Sant'Angelo di Brolo, capoluogo di mandamento, distretto di Patti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 20 novembre 1884, 
+ 
+ UMBERTO. 
+ 
+ Ferracciu'. 
+ 
+ Visto, Il Guardasigilli: Ferracciu'.

@@ -1,44 +1,35 @@
-REGIO DECRETO 10 luglio 1921 n. 1145
-
-
-REGIO DECRETO 10 luglio 1921 n. 1145
-====================================
-
-Che proroga la durata in carica degli attuali membri del Consiglio superiore dell'industria. (021U1145)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/09/1921
+---
+tipo: REGIO DECRETO
+numero: 1145
+data: 1921-07-10
+titolo: "Che proroga la durata in carica degli attuali membri del Consiglio superiore dell'industria. (021U1145)"
+urn: urn:nir:stato:regio.decreto:1921-07-10;1145
+codice_redazionale: 021U1145
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [decreto Luogotenenziale in data 15 giugno 1919, n. 1113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-06-15;1113), che istituisce il Consiglio superiore dell'industria;
+Visto il [decreto Luogotenenziale in data 15 giugno 1919, n. 1113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-06-15;1113), che istituisce il Consiglio superiore dell'industria;
 
 Ritenuta la necessita' di prorogare la durata in carica degli attuali membri nominati per la prima costituzione del Consiglio, data la impossibilita' di procedere in tempo utile alle elezioni previste dall'art. 7 del decreto stesso, di nuovi consiglieri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per l'industria e il commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per l'industria e il commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A deroga dell'[art. 8 del decreto Luogotenenziale 15 giugno 1919, n. 1113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-06-15;1113~art8), e' prorogata fino al 31 luglio 1922 la durata in carica dei membri nominati per la prima costituzione del Consiglio superiore dell'industria.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 10 luglio 1921.   
-  
-VITTORIO EMANUELE.   
-  
-Belotti.   
-  
-Visto, Il guardasigilli: Rodino'.   
-  
+A deroga dell'[art. 8 del decreto Luogotenenziale 15 giugno 1919, n. 1113](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-06-15;1113#art_8), e' prorogata fino al 31 luglio 1922 la durata in carica dei membri nominati per la prima costituzione del Consiglio superiore dell'industria. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 luglio 1921. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Belotti. 
+ 
+ Visto, Il guardasigilli: Rodino'.

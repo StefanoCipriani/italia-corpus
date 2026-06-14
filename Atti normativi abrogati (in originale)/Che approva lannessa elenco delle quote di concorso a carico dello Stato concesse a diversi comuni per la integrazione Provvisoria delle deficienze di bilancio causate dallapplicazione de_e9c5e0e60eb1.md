@@ -1,66 +1,39 @@
-REGIO DECRETO 15 giugno 1911 n. 699
+---
+tipo: REGIO DECRETO
+numero: 699
+data: 1911-06-15
+titolo: "Che approva l'annessa elenco delle quote di concorso a carico dello Stato, concesse a diversi comuni per la integrazione Provvisoria delle deficienze di bilancio causate dall'applicazione delle disposizioni sui tributi locali. (011U0699)"
+urn: urn:nir:stato:regio.decreto:1911-06-15;699
+codice_redazionale: 011U0699
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 giugno 1911 n. 699
-===================================
-
-Che approva l'annessa elenco delle quote di concorso a carico dello Stato, concesse a diversi comuni per la integrazione Provvisoria delle deficienze di bilancio causate dall'applicazione delle disposizioni sui tributi locali. (011U0699)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/08/1911
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-per grazia di Dio e per volonta' della Nazione   
-  
-RE D'ITALIA   
-  
-Visti gli [articoli 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-03-24;6~art5) e [6 della legge 24 marzo 1907, n. 116, 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-03-24;6~art6) della legge 14 luglio stesso anno, n. 538 e 3 della [legge 9 luglio 1908, n. 442](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;442);   
-  
-Vista la relazione della commissione centrale istituita ai termini dell'art. 101 del testo unico di [legge 7 maggio 1908, n. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-05-07;248);   
-  
-Visto l'[art. 384 del regolamento 17 giugno 1909, n. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1909-06-17;455~art384);   
-  
-Sulla proposta del Nostro ministro, segretario di Stato per le finanze;   
-  
-Abbiamo decretato e decretiamo:   
-  
-Sono approvati gli annessi elenchi, visti, d'ordine Nostro, dal ministro proponente, delle quote di concorso a carico dello Stato, per gli anni 1907, 1908, 1009 e 1910 concesse ai comuni indicati negli elenchi medesimi per l'integrazione provvisoria delle deficienze di bilancio causate dall'applicazione delle disposizioni sui tributi locali contenute nelle leggi 25 giugno e 15 luglio 1906, nn. 255 e 383.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addii 15 giugno 1911.   
-  
-VITTORIO EMANUELE.   
-  
-FACTA.   
-  
-Visto, Il guardasigilli: FINOCCHIARO-APRILE.   
-  
-
-Elenchi
-
-  
-ELENCO delle somme da corrispondersi ai sottoindicati Comuni per l'anno 1907, come quota di concorso dello Stato per l'integrazione provvisoria delle deficienze di bilancio causate dall'applicazione delle disposizioni sui tributi locali contenute nelle leggi 25 giugno e 15 luglio 1906, numeri 255 e 383.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=011U069900100010110001&dgu=1911-07-22&art.dataPubblicazioneGazzetta=1911-07-22&art.codiceRedazionale=011U0699)
-  
-  
-ELENCO delle somme da' Corrispondersi i sottoindicati Comuni per l'anno 1908, come quota di concorso dello Stato per l'integrazione provvisoria delle deficienze di bilancio causate dall'applicazione delle disposizioni sui tributi locali contenute nelle leggi 25 giugno e 15 luglio 1906, numeri 255 e 383.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=011U069900100010110002&dgu=1911-07-22&art.dataPubblicazioneGazzetta=1911-07-22&art.codiceRedazionale=011U0699)
-  
-  
-ELENCO delle somme da corrispondersi ai sottoindicati Comuni per l'anno 1909, come quota di' concorso dello Stato per l'integrazione provvisoria delle deficienze di bilancio causate dall'applicazione delle disposizioni sui tributi locali contenute nelle leggi 25 giugno e 15 luglio 1906, nn. 255 e 383.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=011U069900100010110003&dgu=1911-07-22&art.dataPubblicazioneGazzetta=1911-07-22&art.codiceRedazionale=011U0699)
-  
-  
-ELENCO delle somme da corrispondersi ai sottoindicati comuni per l'anno 1910, come quota di concorso dello Stato per l'integrazione provvisoria delle deficienze di bilancio causate dall'applicazione delle disposizioni sui tributi locali contenute nelle leggi 25 giugno e 15 luglio 1906, nn. 255 e 383.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=011U069900100010110004&dgu=1911-07-22&art.dataPubblicazioneGazzetta=1911-07-22&art.codiceRedazionale=011U0699)
-  
+VITTORIO EMANUELE III 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Visti gli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-03-24;6#art_5) e [6 della legge 24 marzo 1907, n. 116, 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-03-24;6#art_6) della legge 14 luglio stesso anno, n. 538 e 3 della [legge 9 luglio 1908, n. 442](Disposizioni%20sulle%20sovrimposte%20provinciali%20e%20comunali%20nei%20compartimenti%20catastali%20napoletano%20siciliano%20e%20sardo%20e%20sui%20crediti%20delle%20Provincie%20verso%20i%20Comuni%20per%20contributi%20nelle%20spese%20obbl_c14bb8291c39.md); 
+ 
+ Vista la relazione della commissione centrale istituita ai termini dell'art. 101 del testo unico di [legge 7 maggio 1908, n. 248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-05-07;248); 
+ 
+ Visto l'[art. 384 del regolamento 17 giugno 1909, n. 455](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1909-06-17;455#art_384); 
+ 
+ Sulla proposta del Nostro ministro, segretario di Stato per le finanze; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ Sono approvati gli annessi elenchi, visti, d'ordine Nostro, dal ministro proponente, delle quote di concorso a carico dello Stato, per gli anni 1907, 1908, 1009 e 1910 concesse ai comuni indicati negli elenchi medesimi per l'integrazione provvisoria delle deficienze di bilancio causate dall'applicazione delle disposizioni sui tributi locali contenute nelle leggi 25 giugno e 15 luglio 1906, nn. 255 e 383. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addii 15 giugno 1911. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ FACTA. 
+ 
+ Visto, Il guardasigilli: FINOCCHIARO-APRILE.

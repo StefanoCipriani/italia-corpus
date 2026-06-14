@@ -1,16 +1,14 @@
-REGIO DECRETO 10 giugno 1940 n. 645
-
-
-REGIO DECRETO 10 giugno 1940 n. 645
-===================================
-
-Autorizzazione al comune di Rovereto ad applicare fino al 31 dicembre 1941 le imposte di consumo con la tariffa della classe superiore E. (040U0645)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/07/1940
+---
+tipo: REGIO DECRETO
+numero: 645
+data: 1940-06-10
+titolo: "Autorizzazione al comune di Rovereto ad applicare fino al 31 dicembre 1941 le imposte di consumo con la tariffa della classe superiore E. (040U0645)"
+urn: urn:nir:stato:regio.decreto:1940-06-10;645
+codice_redazionale: 040U0645
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,24 @@ Udita la Commissione centrale per la finanza locale che ha espresso parere favor
 
 Visto l'art. 28 del testo unico per la finanza locale 14 settembre 1931, n. 1175;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il comune di Rovereto e' autorizzato ad applicare le imposte di consumo con la tariffa della classe superiore E per il biennio 1° gennaio 1940-31 dicembre
 
-1941. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 10 giugno 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 23 giugno 1940-XVIII   
-  
-Atti del Governo, registro 422, foglio 111. - Mancini
+1941.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 giugno 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 23 giugno 1940-XVIII 
+ 
+ Atti del Governo, registro 422, foglio 111. - Mancini

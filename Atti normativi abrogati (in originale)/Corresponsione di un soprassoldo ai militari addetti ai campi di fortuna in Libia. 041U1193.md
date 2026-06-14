@@ -1,16 +1,14 @@
-REGIO DECRETO 14 giugno 1941 n. 1193
-
-
-REGIO DECRETO 14 giugno 1941 n. 1193
-====================================
-
-Corresponsione di un soprassoldo ai militari addetti ai campi di fortuna in Libia. (041U1193)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/11/1941
+---
+tipo: REGIO DECRETO
+numero: 1193
+data: 1941-06-14
+titolo: "Corresponsione di un soprassoldo ai militari addetti ai campi di fortuna in Libia. (041U1193)"
+urn: urn:nir:stato:regio.decreto:1941-06-14;1193
+codice_redazionale: 041U1193
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,41 +30,28 @@ Sentito il Consiglio di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica, di intesa con i Ministri per l'Africa Italiana e per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica, di intesa con i Ministri per l'Africa Italiana e per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Al capo V del titolo I delle norme riguardanti il personale dell'Aeronautica della Libia, approvate con R. decreto 5 settembre 1938-XVI, n. 1598, e' aggiunto il seguente art. 33-bis: 
+ 
+ «Il Comando di aeronautica della Libia, puo' nella misura e nei modi da stabilirsi dal Ministero dell'aeronautica di intesa col Ministero delle finanze, autorizzare la corresponsione di speciali rimunerazioni ai sottufficiali e militari di truppa nazionali e libici delle Forze armate, incaricati di istruzioni o servizi speciali e straordinari che non rientrino nelle normali attribuzioni del grado o della carica da essi rivestita e pei quali non trovisi stabilito apposito compenso da altre disposizioni».
 
-  
-  
-Al capo V del titolo I delle norme riguardanti il personale dell'Aeronautica della Libia, approvate con R. decreto 5 settembre 1938-XVI, n. 1598, e' aggiunto il seguente art. 33-bis:   
-  
-«Il Comando di aeronautica della Libia, puo' nella misura e nei modi da stabilirsi dal Ministero dell'aeronautica di intesa col Ministero delle finanze, autorizzare la corresponsione di speciali rimunerazioni ai sottufficiali e militari di truppa nazionali e libici delle Forze armate, incaricati di istruzioni o servizi speciali e straordinari che non rientrino nelle normali attribuzioni del grado o della carica da essi rivestita e pei quali non trovisi stabilito apposito compenso da altre disposizioni».   
-  
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' abrogato il R. decreto 6 luglio 1939-XVII, n. 1403.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 14 giugno 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Teruzzi - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 9 novembre 1941-XX   
-  
-Atti del Governo, registro 439, foglio 29. - Mancini   
-  
-  
+E' abrogato il R. decreto 6 luglio 1939-XVII, n. 1403. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 14 giugno 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Teruzzi - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 9 novembre 1941-XX 
+ 
+ Atti del Governo, registro 439, foglio 29. - Mancini

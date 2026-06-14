@@ -1,16 +1,14 @@
-REGIO DECRETO 20 giugno 1871 n. 325
-
-
-REGIO DECRETO 20 giugno 1871 n. 325
-===================================
-
-Concernente gli annui soprassoldi dei Consiglieri di Prefettura, incaricati di rappresentare il Prefetto assente o impedito. (071U0325)
----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/08/1871
+---
+tipo: REGIO DECRETO
+numero: 325
+data: 1871-06-20
+titolo: "Concernente gli annui soprassoldi dei Consiglieri di Prefettura, incaricati di rappresentare il Prefetto assente o impedito. (071U0325)"
+urn: urn:nir:stato:regio.decreto:1871-06-20;325
+codice_redazionale: 071U0325
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,52 +24,34 @@ Veduto il Reale decreto in data d'oggi, n. 323 (Serie 2ª), con cui e' stabilito
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Gli annui soprassoldi dei Consiglieri di Prefettura, incaricati di rappresentare il Prefetto assente o impedito, non saranno minori di lire 800, ne' maggiori di lire 2000.
 
-  
-  
-Gli annui soprassoldi dei Consiglieri di Prefettura, incaricati di rappresentare il Prefetto assente o impedito, non saranno minori di lire 800, ne' maggiori di lire 2000.   
+## Art. 2.
 
-Art. 2
-------
+La somma totale pel pagamento di questi soprassoldi e' fissata in lire 68,000.
 
-  
-  
-La somma totale pel pagamento di questi soprassoldi e' fissata in lire 68,000.   
-  
+## Art. 3.
 
-Art. 3
-------
+La somma da corrispondersi ai singoli Consiglieri Delegati sara' stabilita con altro Decreto.
 
-  
-  
-La somma da corrispondersi ai singoli Consiglieri Delegati sara' stabilita con altro Decreto.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-All'aumento dei soprassoldi sara' provveduto gradatamente, secondo che lo consentiranno i risparmi derivanti dalle riduzioni oggi decretate nel numero degli impiegati.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 20 giugno 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 29 giugno 1871   
-  
-Reg. 56 Atti del Governo a c. 89. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+All'aumento dei soprassoldi sara' provveduto gradatamente, secondo che lo consentiranno i risparmi derivanti dalle riduzioni oggi decretate nel numero degli impiegati. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 20 giugno 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 29 giugno 1871 
+ 
+ Reg. 56 Atti del Governo a c. 89. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

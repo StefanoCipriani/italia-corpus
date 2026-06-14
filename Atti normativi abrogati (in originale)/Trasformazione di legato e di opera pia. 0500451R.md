@@ -1,19 +1,15 @@
-REGIO DECRETO 28 dicembre 1905 n. CCCCLI
+---
+tipo: REGIO DECRETO
+numero: CCCCLI
+data: 1905-12-28
+titolo: "Trasformazione di legato e di opera pia. (0500451R)"
+urn: urn:nir:stato:regio.decreto:1905-12-28;451
+codice_redazionale: 0500451R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 dicembre 1905 n. CCCCLI
-========================================
-
-Trasformazione di legato e di opera pia. (0500451R)
----------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/03/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCCLI (Dato a Roma, il 28 dicembre 1905), col quale si dispone la parziale trasformazione del pio legato Toscan Girolamo esistente in Cimadolmo (Treviso).   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCCLI (Dato a Roma, il 28 dicembre 1905), col quale si dispone la parziale trasformazione del pio legato Toscan Girolamo esistente in Cimadolmo (Treviso).

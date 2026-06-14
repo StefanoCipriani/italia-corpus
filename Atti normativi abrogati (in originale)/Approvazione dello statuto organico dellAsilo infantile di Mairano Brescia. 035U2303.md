@@ -1,21 +1,21 @@
-REGIO DECRETO 30 agosto 1935 n. 2303
+---
+tipo: REGIO DECRETO
+numero: 2303
+data: 1935-08-30
+titolo: "Approvazione dello statuto organico dell'Asilo infantile di Mairano (Brescia). (035U2303)"
+urn: urn:nir:stato:regio.decreto:1935-08-30;2303
+codice_redazionale: 035U2303
+vigente: true
+---
 
-
-REGIO DECRETO 30 agosto 1935 n. 2303
-====================================
-
-Approvazione dello statuto organico dell'Asilo infantile di Mairano (Brescia). (035U2303)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/01/1936
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2303. R. decreto 30 agosto 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato lo statuto organico dell'Asilo infantile di Mairano (Brescia).   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 20 dicembre 1935 - Anno XIV
+2303.
+
+R. decreto 30 agosto 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato lo statuto organico dell'Asilo infantile di Mairano (Brescia). 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 20 dicembre 1935 - Anno XIV

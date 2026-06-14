@@ -1,19 +1,15 @@
-REGIO DECRETO 23 giugno 1910 n. CCXXXIII
+---
+tipo: REGIO DECRETO
+numero: CCXXXIII
+data: 1910-06-23
+titolo: "Col quale e' data facolta' al comune di Vico di applicare, nell'anno 1910, la tassa sul bestiame. (1000233R)"
+urn: urn:nir:stato:regio.decreto:1910-06-23;233
+codice_redazionale: 1000233R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 giugno 1910 n. CCXXXIII
-========================================
-
-Col quale e' data facolta' al comune di Vico di applicare, nell'anno 1910, la tassa sul bestiame. (1000233R)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/08/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CCXXXIII (Dato a Roma, il 23 giugno 1910), col quale e' data facolta' al comune di Fossato di Vico di applicare, nell'anno 1910, la tassa sul bestiame in base alla tariffa deliberata nell'adunanza consiliare del 28 novembre 1909.   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CCXXXIII (Dato a Roma, il 23 giugno 1910), col quale e' data facolta' al comune di Fossato di Vico di applicare, nell'anno 1910, la tassa sul bestiame in base alla tariffa deliberata nell'adunanza consiliare del 28 novembre 1909.

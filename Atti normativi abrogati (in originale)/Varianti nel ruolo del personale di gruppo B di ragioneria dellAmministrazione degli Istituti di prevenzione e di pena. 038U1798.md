@@ -1,16 +1,14 @@
-REGIO DECRETO 15 novembre 1938 n. 1798
-
-
-REGIO DECRETO 15 novembre 1938 n. 1798
-======================================
-
-Varianti nel ruolo del personale di gruppo B di ragioneria dell'Amministrazione degli Istituti di prevenzione e di pena. (038U1798)
------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/12/1938
+---
+tipo: REGIO DECRETO
+numero: 1798
+data: 1938-11-15
+titolo: "Varianti nel ruolo del personale di gruppo B di ragioneria dell'Amministrazione degli Istituti di prevenzione e di pena. (038U1798)"
+urn: urn:nir:stato:regio.decreto:1938-11-15;1798
+codice_redazionale: 038U1798
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,86 +16,40 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visti i [Regi decreti 11 novembre 1923, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e [30 dicembre 1923, n. 3084](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3084), sull'ordinamento gerarchico dell'Amministrazione dello Stato ed il [R. decreto-legge 30 dicembre 1923, n. 2960](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;2960), sullo stato giuridico degli impiegati civili dello Stato, e successive variazioni;
+Visti i [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 3084](Norme%20esecutive%20interpretative%20ed%20integrative%20di%20quelle%20concernenti%20il%20trattamento%20economico%20e%20di%20carriera%20del%20personale%20dellAmministrazione%20dello%20Stato.%20023U3084.md), sull'ordinamento gerarchico dell'Amministrazione dello Stato ed il [R. decreto-legge 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;2960), sullo stato giuridico degli impiegati civili dello Stato, e successive variazioni;
 
-Visto il [R. decreto 4 aprile 1935, n. 497](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-04;497);
+Visto il [R. decreto 4 aprile 1935, n. 497](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1935-04-04;497);
 
 Ritenuta la necessita di apportai varianti al ruolo del personale di gruppo B di ragioneria dell'Amministrazione degli Istituti di prevenzione e di pena;
 
-Vista la [legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100);
+Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri:
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la grazia e giustizia, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la grazia e giustizia, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il ruolo di gruppo B di ragioneria dell'Amministrazione degli Istituti di prevenzione e di pena di cui al n. 4 della tabella allegata al R. decreto 4 aprile 1935. n. 497, e' sostituito da quello di cui alla tabella annessa al presente decreto firmata, d'ordine Nostro, dai Ministri proponenti.
 
-  
-  
-Il ruolo di gruppo B di ragioneria dell'Amministrazione degli Istituti di prevenzione e di pena di cui al n. 4 della tabella allegata al R. decreto 4 aprile 1935. n. 497, e' sostituito da quello di cui alla tabella annessa al presente decreto firmata, d'ordine Nostro, dai Ministri proponenti.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Le promozioni ai diversi gradi sono conferite con l'osservanza delle norme generali vigenti per gli avanzamenti del personale dell'Amministrazione dello Stato, contenute nei [Regi decreti 11 novembre 1923, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), e [30 dicembre 1923, n. 2960](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni.   
-  
-Il presente decreto entra in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e del decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 15 novembre 1938-XVII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Solmi - Di Revel   
-  
-Visto, il Guardasigilli: Solmi   
-  
-Registrato alla Corte dei conti, addi' 29 novembre 1938-XVII   
-  
-Atti del Governo, registro 403, foglio 107. - Mancini.   
-  
-  
-
-Allegato 1
-
- Allegato 1.   
-  
-  
-N. 4. - Ruolo di ragioneria  
-  
-Gruppo B  
-=====================================================================  
-Grado Numero dei posti  
-=====================================================================  
-7° Ragionieri capi di 1ª classe . . . . . . . . . . . 26  
-8° Ragionieri capi di 2ª classe . . . . . . . . . . . 33  
-9° Primi ragionieri . . . . . . . . . . . . . . . . 58  
--------------------------------  
-10° Ragionieri . . . . . . . . . . . . . . . . . . .  
-63  
-11° Vice ragionieri . . . . . . . . . . . . . . . . .  
--------------------------------  
-----  
-180  
-=====================================================================  
-  
-  
-Visto, d'ordine di Sua Maesta' il Re d'Italia   
-Imperatore d'Etiopia   
-  
-Il Ministro per la grazia e giustizia   
-Solmi   
-  
-Il Ministro per le finanze   
-Di Revel   
-  
-  
+Le promozioni ai diversi gradi sono conferite con l'osservanza delle norme generali vigenti per gli avanzamenti del personale dell'Amministrazione dello Stato, contenute nei [Regi decreti 11 novembre 1923, n. 2395](Ordinamento%20gerarchico%20delle%20amministrazioni%20dello%20Stato%20023U2395.md), e [30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), e successive modificazioni. 
+ 
+ Il presente decreto entra in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e del decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 15 novembre 1938-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Solmi - Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi 
+ 
+ Registrato alla Corte dei conti, addi' 29 novembre 1938-XVII 
+ 
+ Atti del Governo, registro 403, foglio 107. - Mancini.

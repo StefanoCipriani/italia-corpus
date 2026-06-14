@@ -1,16 +1,14 @@
-REGIO DECRETO 27 ottobre 1861 n. 292
-
-
-REGIO DECRETO 27 ottobre 1861 n. 292
-====================================
-
-Che estende agli stipendi dei Funzionari Superiori dell' Amministrazione nelle Provincie Meridionali le disposizioni della legge 28 maggio 1852. (061U0292)
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/11/1861
+---
+tipo: REGIO DECRETO
+numero: 292
+data: 1861-10-27
+titolo: "Che estende agli stipendi dei Funzionari Superiori dell' Amministrazione nelle Provincie Meridionali le disposizioni della legge 28 maggio 1852. (061U0292)"
+urn: urn:nir:stato:regio.decreto:1861-10-27;292
+codice_redazionale: 061U0292
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 Per grazia di Dio e per volonta' della Nazione
 
@@ -32,32 +30,21 @@ Considerando che tanto la ritenuta complessiva nelle Provincie Napolitane del do
 
 Sulla preposta del Presidente del Consiglio dei Ministri, Ministro per gli Affari Intenti, e del Ministro delle Finanze,
 
-Sentito
--------
+Sentito il Consiglio medesimo, Abbiamo decretato e decretiamo:
 
-il Consiglio medesimo, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Per l'effetto della legge 9 ottobre 1841 saranno applicabili agli stipendi del Capi di Provincia e rispettivamente del capi di Circondario e dei Consiglieri di Governo nelle Provincie Napolitane e Siciliane le disposizioni della Legge 28 maggio 1852, le quali entreranno in vigore dal giorno della pubblicazione che ne sara' fatta congiuntamente al presente Decreto.
 
-  
-  
-Per l'effetto della legge 9 ottobre 1841 saranno applicabili agli stipendi del Capi di Provincia e rispettivamente del capi di Circondario e dei Consiglieri di Governo nelle Provincie Napolitane e Siciliane le disposizioni della Legge 28 maggio 1852, le quali entreranno in vigore dal giorno della pubblicazione che ne sara' fatta congiuntamente al presente Decreto.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' abrogata ogni contraria disposizioni vigente nelle stesse Provincie.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Torino addi' 27 ottobre 1861.   
-  
-VITTORIO EMANUELE   
-  
-Ricasoli.   
-P. Bastogi.   
-  
+E' abrogata ogni contraria disposizioni vigente nelle stesse Provincie. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Torino addi' 27 ottobre 1861. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Ricasoli. 
+ P. Bastogi.

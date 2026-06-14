@@ -1,16 +1,14 @@
-REGIO DECRETO 08 marzo 1877 n. 3741
-
-
-REGIO DECRETO 08 marzo 1877 n. 3741
-===================================
-
-Col quale la scuola di ostetricia di Novara e' pareggiata alle governative. (077U3741)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/05/1877
+---
+tipo: REGIO DECRETO
+numero: 3741
+data: 1877-03-08
+titolo: "Col quale la scuola di ostetricia di Novara e' pareggiata alle governative. (077U3741)"
+urn: urn:nir:stato:regio.decreto:1877-03-08;3741
+codice_redazionale: 077U3741
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,23 +20,16 @@ Veduto il parere della Facolta' medico-chirurgica della Regia Universita' di Tor
 
 Veduto che l'Amministrazione dell'Ospedale Maggiore di Novara, dove e' la detta Scuola, ha stanziato nel proprio bilancio la somma di lire 300 per dotazione alla Scuola medesima;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Regia Scuola di ostetricia, annessa all'Ospedale Maggiore di Novara, e' per ogni effetto pareggiata alle Scuole governative.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 marzo 1877.   
-  
-VITTORIO EMANUELE.   
-  
-Coppino.   
-  
+La Regia Scuola di ostetricia, annessa all'Ospedale Maggiore di Novara, e' per ogni effetto pareggiata alle Scuole governative. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 marzo 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Coppino.

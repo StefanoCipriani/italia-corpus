@@ -1,17 +1,17 @@
-REGIO DECRETO 04 gennaio 1920 n. 44
+---
+tipo: REGIO DECRETO
+numero: 44
+data: 1920-01-04
+titolo: "Approvazione di statuto. (020U0044)"
+urn: urn:nir:stato:regio.decreto:1920-01-04;44
+codice_redazionale: 020U0044
+vigente: true
+---
 
-
-REGIO DECRETO 04 gennaio 1920 n. 44
-===================================
-
-Approvazione di statuto. (020U0044)
------------------------------------
-
-Entrata in vigore del provvedimento: 20/02/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-44. Regio decreto 4 gennaio 1920, col quale, sulla proposta del ministro per l'industria, il commercio e il lavoro, viene approvato il nuovo statuto organico della Cassa di risparmio di Venezia.
+44.
+
+Regio decreto 4 gennaio 1920, col quale, sulla proposta del ministro per l'industria, il commercio e il lavoro, viene approvato il nuovo statuto organico della Cassa di risparmio di Venezia.

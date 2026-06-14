@@ -1,17 +1,17 @@
-REGIO DECRETO 21 aprile 1895 n. 190
+---
+tipo: REGIO DECRETO
+numero: 190
+data: 1895-04-21
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0190)"
+urn: urn:nir:stato:regio.decreto:1895-04-21;190
+codice_redazionale: 095U0190
+vigente: true
+---
 
-
-REGIO DECRETO 21 aprile 1895 n. 190
-===================================
-
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0190)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1895
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-190. Il Comune di Godrano e' aggregato alla Sezione elettorale di Mezzojuso del Collegio di Corleone.
+190.
+
+Il Comune di Godrano e' aggregato alla Sezione elettorale di Mezzojuso del Collegio di Corleone.

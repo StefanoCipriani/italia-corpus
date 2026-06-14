@@ -1,16 +1,14 @@
-REGIO DECRETO 19 giugno 1913 n. 691
-
-
-REGIO DECRETO 19 giugno 1913 n. 691
-===================================
-
-Col quale viene autorizzato il passaggio dalla terza alla seconda classe del comune di Marsala (Trapani) agli effetti del dazio consumo (013U0691)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/07/1913
+---
+tipo: REGIO DECRETO
+numero: 691
+data: 1913-06-19
+titolo: "Col quale viene autorizzato il passaggio dalla terza alla seconda classe del comune di Marsala (Trapani) agli effetti del dazio consumo (013U0691)"
+urn: urn:nir:stato:regio.decreto:1913-06-19;691
+codice_redazionale: 013U0691
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,33 +26,22 @@ Vista la tabella approvata col Nostro decreto 15 dicembre 1910 n. 882, nella qua
 
 Vista la decisione 5 giugno 1913 della Commissione centrale del dazio consumo, emessa ai sensi e per gli effetti previsti dagli articoli 87, 89 e 110 del testo unico di legge sopraindicato;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il Comune di Marsala (provincia di Trapani) in conformita' alla mentovata deliberazione del commissario prefettizio e' dichiarato di seconda classe agli effetti del dazio consumo, a decorrere dal giorno successivo a quello della pubblicazione del presente decreto nella Gazzetta ufficiale del Regno.
 
-  
-  
-Il Comune di Marsala (provincia di Trapani) in conformita' alla mentovata deliberazione del commissario prefettizio e' dichiarato di seconda classe agli effetti del dazio consumo, a decorrere dal giorno successivo a quello della pubblicazione del presente decreto nella Gazzetta ufficiale del Regno.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Dal detto giorno, il canone annuo di dazio consumo corrisposto allo Stato dal detto Comune e' elevato da lire quarantaquattromilanovecentotrentasette e centesimi 91 (L. 44.937.91), a lire cinquantamilacinquecento-ventidue e centesimi 9 (L. 50.522.09).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 giugno 1913.   
-  
-VITTORIO EMANUELE.   
-  
-Facta.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+Dal detto giorno, il canone annuo di dazio consumo corrisposto allo Stato dal detto Comune e' elevato da lire quarantaquattromilanovecentotrentasette e centesimi 91 (L. 44.937.91), a lire cinquantamilacinquecento-ventidue e centesimi 9 (L. 50.522.09). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 giugno 1913. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Facta. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

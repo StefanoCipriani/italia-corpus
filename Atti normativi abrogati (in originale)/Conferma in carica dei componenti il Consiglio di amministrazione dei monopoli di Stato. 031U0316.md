@@ -1,16 +1,14 @@
-REGIO DECRETO 26 marzo 1931 n. 316
-
-
-REGIO DECRETO 26 marzo 1931 n. 316
-==================================
-
-Conferma in carica dei componenti il Consiglio di amministrazione dei monopoli di Stato. (031U0316)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/05/1931
+---
+tipo: REGIO DECRETO
+numero: 316
+data: 1931-03-26
+titolo: "Conferma in carica dei componenti il Consiglio di amministrazione dei monopoli di Stato. (031U0316)"
+urn: urn:nir:stato:regio.decreto:1931-03-26;316
+codice_redazionale: 031U0316
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,27 +24,20 @@ Ritenuta la necessita' di provvedere al completamento del predetto Consiglio di 
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il gr. uff. dott. Luigi Barile, consigliere di Stato, il comm. ing.  
-Augusto Rubietti, ispettore generale tecnico dei monopoli di Stato, ed il comm. rag. Carlo Civati, ispettore generale amministrativo dei monopoli di Stato, sono confermati quali componenti il Consiglio di amministrazione dei monopoli di Stato, ai sensi e per gli effetti dell'[art. 2, nn. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258~art2-num3) e [6, del R. decreto-legge 8 dicembre 1927, n. 2258](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258~art2-num6), per il triennio 1° marzo 1931 - 28 febbraio 1934.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Roma, addi' 26 marzo 1931 - Anno IX   
-  
-VITTORIO EMANUELE   
-  
-  
-Mussolini - Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 13 aprile 1931 - Anno IX   
-Atti del Governo, registro 307, foglio 34. - Mancini.   
-  
+Il gr. uff. dott. Luigi Barile, consigliere di Stato, il comm. ing.
+Augusto Rubietti, ispettore generale tecnico dei monopoli di Stato, ed il comm. rag. Carlo Civati, ispettore generale amministrativo dei monopoli di Stato, sono confermati quali componenti il Consiglio di amministrazione dei monopoli di Stato, ai sensi e per gli effetti dell'[art. 2, nn. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258#art_2-num3) e [6, del R. decreto-legge 8 dicembre 1927, n. 2258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258#art_2-num6), per il triennio 1° marzo 1931 - 28 febbraio 1934. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 26 marzo 1931 - Anno IX 
+ 
+ VITTORIO EMANUELE 
+ 
+ 
+ Mussolini - Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 13 aprile 1931 - Anno IX 
+ Atti del Governo, registro 307, foglio 34. - Mancini.

@@ -1,18 +1,20 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 22 ottobre 1946 n. 583
+---
+tipo: DECRETO DEL CAPO PROVVISORIO DELLO STATO
+numero: 583
+data: 1946-10-22
+titolo: "Erezione in ente morale dell'asilo infantile \"Ing Erminio Valverti\" con sede in Breno (Brescia)."
+urn: urn:nir:stato:decreto.del.capo.provvisorio.dello.stato:1946-10-22;583
+codice_redazionale: 046U0583
+vigente: true
+---
 
-
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 22 ottobre 1946 n. 583
-===============================================================
-
-Erezione in ente morale dell'asilo infantile "Ing Erminio Valverti" con sede in Breno (Brescia).
-------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-583. Decreto del Capo provvisorio dello Stato 22 ottobre 1946, col quale, sulla proposta del Ministro per l'interno, l'asilo infantile "Ing. Erminio Valverti" con sede in Breno (Brescia), viene eretto in ente morale, sotto l'amministrazione autonoma.  
-  
-Visto, il Guardasigilli: GULLO  
-Registrato alla Corte dei Conti, addi' 15 gennaio 1947
+583.
+
+Decreto del Capo provvisorio dello Stato 22 ottobre 1946, col quale, sulla proposta del Ministro per l'interno, l'asilo infantile "Ing. Erminio Valverti" con sede in Breno (Brescia), viene eretto in ente morale, sotto l'amministrazione autonoma.
+
+Visto, il Guardasigilli: GULLO
+ Registrato alla Corte dei Conti, addi' 15 gennaio 1947

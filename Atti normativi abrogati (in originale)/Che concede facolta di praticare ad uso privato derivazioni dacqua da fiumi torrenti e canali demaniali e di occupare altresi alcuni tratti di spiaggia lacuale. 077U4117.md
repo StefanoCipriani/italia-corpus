@@ -1,16 +1,14 @@
-REGIO DECRETO 24 ottobre 1877 n. 4117
-
-
-REGIO DECRETO 24 ottobre 1877 n. 4117
-=====================================
-
-Che concede facolta' di praticare, ad uso privato derivazioni d'acqua da fiumi, torrenti e canali demaniali e di occupare altresi' alcuni tratti di spiaggia lacuale. (077U4117)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/12/1877
+---
+tipo: REGIO DECRETO
+numero: 4117
+data: 1877-10-24
+titolo: "Che concede facolta' di praticare, ad uso privato derivazioni d'acqua da fiumi, torrenti e canali demaniali e di occupare altresi' alcuni tratti di spiaggia lacuale. (077U4117)"
+urn: urn:nir:stato:regio.decreto:1877-10-24;4117
+codice_redazionale: 077U4117
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,31 +20,16 @@ Visto l'unito elenco in cui trovansi descritte n. 12 domande dirette ad ottenere
 
 Viste le inchieste amministrative regolarmente istrutte per ciascuna delle relative domande, dalle quali risulta che le derivazioni ed occupazioni richieste non recano alcun pregiudizio al buon governo si' della pubblica, come della privata proprieta', quando si osservino le prescritte cautele;
 
-Udito
------
+Udito il parere del Consiglio di Stato, Abbiamo decretato e decretiamo quanto segue:
 
-il parere del Consiglio di Stato, Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' concessa facolta', senza pregiudizio dei legittimi diritti dei terzi, agli individui, alla ditta di commercio ed all'Ente morale indicati nell'unito elenco vidimato d'ordine Nostro dal Presidente del Consiglio dei Ministri, Ministro delle Finanze, di poter derivare le acque ed occupare le aree ivi descritte, ciascuno per l'uso, la durata e l'annua prestazione nello elenco stesso notati, e sotto l'osservanza delle altre condizioni contenute nei singoli atti di sottomissione all'uopo stipulati.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 24 ottobre 1877.   
-  
-VITTORIO EMANUELE.   
-  
-Depretis.   
-  
-
-Elenco
-
-  
-ELENCO di numero 12 domande dirette ad ottenere la facolta' di praticare ad uso privato alcune derivazioni d'acqua da fiumi, torrenti e canali del pubblico Demanio, e di occupare altresi' ad uso privato due tratti di spiaggia lacuale, annesso al Reale decreto del 24 ottobre 1877.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=077U411700100010110001&dgu=1877-11-26&art.dataPubblicazioneGazzetta=1877-11-26&art.codiceRedazionale=077U4117)
-  
+E' concessa facolta', senza pregiudizio dei legittimi diritti dei terzi, agli individui, alla ditta di commercio ed all'Ente morale indicati nell'unito elenco vidimato d'ordine Nostro dal Presidente del Consiglio dei Ministri, Ministro delle Finanze, di poter derivare le acque ed occupare le aree ivi descritte, ciascuno per l'uso, la durata e l'annua prestazione nello elenco stesso notati, e sotto l'osservanza delle altre condizioni contenute nei singoli atti di sottomissione all'uopo stipulati. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 24 ottobre 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Depretis.

@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 21 marzo 1916 n. 378
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 378
+data: 1916-03-21
+titolo: "Erezione in Ente morale e approvazione di statuto (016U0378)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-03-21;378
+codice_redazionale: 016U0378
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 21 marzo 1916 n. 378
-============================================
-
-Erezione in Ente morale e approvazione di statuto (016U0378)
-------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/04/1916
-
-Art. 1
-------
-
-  
-N. 378   
-  
-Decreto Luogotenenziale 21 marzo 1916, col quale, sulla proposta del ministro dell'interno, l'opera pia «Teresa Celli Dutuit», per beneficenza ai poveri della parrocchia di San Giovanni in Augusta di Roma, e' eretta in ente morale con amministrazione autonoma, e ne e' approvato lo statuto organico.   
-  
+N. 378 
+ 
+ Decreto Luogotenenziale 21 marzo 1916, col quale, sulla proposta del ministro dell'interno, l'opera pia «Teresa Celli Dutuit», per beneficenza ai poveri della parrocchia di San Giovanni in Augusta di Roma, e' eretta in ente morale con amministrazione autonoma, e ne e' approvato lo statuto organico.

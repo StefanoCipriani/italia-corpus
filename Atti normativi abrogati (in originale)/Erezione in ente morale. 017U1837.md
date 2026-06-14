@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 25 ottobre 1917 n. 1837
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1837
+data: 1917-10-25
+titolo: "Erezione in ente morale. (017U1837)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-10-25;1837
+codice_redazionale: 017U1837
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 25 ottobre 1917 n. 1837
-===============================================
-
-Erezione in ente morale. (017U1837)
------------------------------------
-
-Entrata in vigore del provvedimento: 06/12/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1837. Decreto Luogotenenziale 25 ottobre 1917, col quale, sulla proposta del ministro dell'interno, l'opera pia Cesira Allagosta, in Seravezza, e' eretta in ente morale con amministrazione autonoma e ne e' approvato lo statuto organico.
+1837.
+
+Decreto Luogotenenziale 25 ottobre 1917, col quale, sulla proposta del ministro dell'interno, l'opera pia Cesira Allagosta, in Seravezza, e' eretta in ente morale con amministrazione autonoma e ne e' approvato lo statuto organico.

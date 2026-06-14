@@ -1,17 +1,17 @@
-REGIO DECRETO 21 gennaio 1923 n. 366
+---
+tipo: REGIO DECRETO
+numero: 366
+data: 1923-01-21
+titolo: "Erezione in Ente morale. (023U0366)"
+urn: urn:nir:stato:regio.decreto:1923-01-21;366
+codice_redazionale: 023U0366
+vigente: true
+---
 
-
-REGIO DECRETO 21 gennaio 1923 n. 366
-====================================
-
-Erezione in Ente morale. (023U0366)
------------------------------------
-
-Entrata in vigore del provvedimento: 12/04/1923
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-366. Regio decreto 21 gennaio 1923 col quale, sulla proposta del Ministro dell'interno, presidente del Consiglio dei ministri, l'Orfanotrofio S. Giuseppe in Polistena, e' eretto in Ente morale con amministrazione autonoma e ne e' approvato lo statuto organico in data 18 novembre 1922.
+366.
+
+Regio decreto 21 gennaio 1923 col quale, sulla proposta del Ministro dell'interno, presidente del Consiglio dei ministri, l'Orfanotrofio S. Giuseppe in Polistena, e' eretto in Ente morale con amministrazione autonoma e ne e' approvato lo statuto organico in data 18 novembre 1922.

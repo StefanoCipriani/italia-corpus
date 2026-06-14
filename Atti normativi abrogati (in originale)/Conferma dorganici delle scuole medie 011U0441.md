@@ -1,19 +1,15 @@
-REGIO DECRETO 11 maggio 1911 n. 441
+---
+tipo: REGIO DECRETO
+numero: 441
+data: 1911-05-11
+titolo: "Conferma d'organici delle scuole medie (011U0441)"
+urn: urn:nir:stato:regio.decreto:1911-05-11;441
+codice_redazionale: 011U0441
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 maggio 1911 n. 441
-===================================
-
-Conferma d'organici delle scuole medie (011U0441)
--------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/06/1911
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro della pubblica istruzione:   
-  
-N. 441. R. decreto, col quale gli organici delle scuole medie si intendono confermati per tutto l'anno scolastico 1910-911.   
-  
+Sulla proposta del ministro della pubblica istruzione: 
+ 
+ N. 441. R. decreto, col quale gli organici delle scuole medie si intendono confermati per tutto l'anno scolastico 1910-911.

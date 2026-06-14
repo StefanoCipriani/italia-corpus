@@ -1,19 +1,15 @@
-REGIO DECRETO 26 giugno 1864 n. MCCLXXVIII
+---
+tipo: REGIO DECRETO
+numero: MCCLXXVIII
+data: 1864-06-26
+titolo: "Che approva il regolamento di polizia urbana pel Comune di Giarre. (6401278R)"
+urn: urn:nir:stato:regio.decreto:1864-06-26;1278
+codice_redazionale: 6401278R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 giugno 1864 n. MCCLXXVIII
-==========================================
-
-Che approva il regolamento di polizia urbana pel Comune di Giarre. (6401278R)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/06/1864
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia urbana deliberato dal Consiglio comunale di Giarre (Catania) nella seduta delli 10 maggio p. p.   
-  
-Torino 26 giugno 1864   
-  
+Che approva il regolamento di polizia urbana deliberato dal Consiglio comunale di Giarre (Catania) nella seduta delli 10 maggio p. p. 
+ 
+ Torino 26 giugno 1864

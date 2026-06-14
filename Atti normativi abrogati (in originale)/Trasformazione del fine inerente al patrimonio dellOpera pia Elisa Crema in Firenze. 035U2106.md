@@ -1,21 +1,21 @@
-REGIO DECRETO 30 agosto 1935 n. 2106
+---
+tipo: REGIO DECRETO
+numero: 2106
+data: 1935-08-30
+titolo: "Trasformazione del fine inerente al patrimonio dell'Opera pia «Elisa Crema» in Firenze. (035U2106)"
+urn: urn:nir:stato:regio.decreto:1935-08-30;2106
+codice_redazionale: 035U2106
+vigente: true
+---
 
-
-REGIO DECRETO 30 agosto 1935 n. 2106
-====================================
-
-Trasformazione del fine inerente al patrimonio dell'Opera pia «Elisa Crema» in Firenze. (035U2106)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/01/1936
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2106. R. decreto 30 agosto 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, il fine inerente al patrimonio dell'Opera pia «Elisa Crema» in Firenze, viene parzialmente trasformato e ne viene approvato lo statuto organico.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 10 dicembre 1935 - Anno XIV
+2106.
+
+R. decreto 30 agosto 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, il fine inerente al patrimonio dell'Opera pia «Elisa Crema» in Firenze, viene parzialmente trasformato e ne viene approvato lo statuto organico. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 10 dicembre 1935 - Anno XIV

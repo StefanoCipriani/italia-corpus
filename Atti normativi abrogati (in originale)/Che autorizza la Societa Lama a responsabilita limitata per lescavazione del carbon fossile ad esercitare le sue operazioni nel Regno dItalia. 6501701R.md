@@ -1,78 +1,65 @@
-REGIO DECRETO 21 novembre 1865 n. MDCCI
+---
+tipo: REGIO DECRETO
+numero: MDCCI
+data: 1865-11-21
+titolo: "Che autorizza la Societa' Lama a responsabilita' limitata per l'escavazione del carbon fossile ad esercitare le sue operazioni nel Regno d'Italia. (6501701R)"
+urn: urn:nir:stato:regio.decreto:1865-11-21;1701
+codice_redazionale: 6501701R
+vigente: true
+---
 
+VITTORIO EMANUELE II
 
-REGIO DECRETO 21 novembre 1865 n. MDCCI
-=======================================
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
-Che autorizza la Societa' Lama a responsabilita' limitata per l'escavazione del carbon fossile ad esercitare le sue operazioni nel Regno d'Italia. (6501701R)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+RE D'ITALIA
 
-Entrata in vigore del provvedimento: 30/12/1865
+Vista la domanda della Societa' Lama (in Italia) per la escavazione del carbon fossile, sedente in Londra, e gli atti da essa presentati;
 
-Art. 1
-------
+Vista la Legge ed il Nostro Decreto del 27 ottobre 1860, n.i 4387 e 4388, sulle Societa' commerciali, industriali e finanziarie estere;
 
-  
-  
-La Societa' a responsabilita' limitata col titolo di Societa' Lama (in Italia) per l'escavazione del carbon fossile - The Lama (Italian) coal Company limited - costituita in Londra con atto del 10 febbraio 1865, ed inscritta il 13 dello stesso mese nelle Societa' con capitale limitato a tenore della Legge inglese del 1862, e' autorizzata ad esercitare nel Regno d'Italia le sue operazioni di escavazione e commercio di carbone o di altre sostanze, specialmente rivolte alle terre situate nella valle di Cecina ed in quelle circonvicine.   
-  
+Visto il Nostro Decreto 14 gennaio 1864, n.° MLXII, sulla vigilanza delle Societa' sottoposte alla Nostra approvazione;
 
-Art. 2
-------
+Udito il parere del Consiglio di Stato;
 
-  
-  
-Detta Societa' non potra' emettere obbligazioni, ne' altri titoli di credito senza esserne stata specialmente autorizzata dal Governo.   
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-Art. 3
-------
+## Art. 1.
 
-  
-  
-Nei contratti da stipularsi dalla Societa' stessa verranno osservate le Leggi del Regno; e le contestazioni che potessero insorgere tra la Societa' e i terzi dovranno essere decise secondo le Leggi e dai Tribunali di esso.   
-  
+La Societa' a responsabilita' limitata col titolo di Societa' Lama (in Italia) per l'escavazione del carbon fossile - The Lama (Italian) coal Company limited - costituita in Londra con atto del 10 febbraio 1865, ed inscritta il 13 dello stesso mese nelle Societa' con capitale limitato a tenore della Legge inglese del 1862, e' autorizzata ad esercitare nel Regno d'Italia le sue operazioni di escavazione e commercio di carbone o di altre sostanze, specialmente rivolte alle terre situate nella valle di Cecina ed in quelle circonvicine.
 
-Art. 4
-------
+## Art. 2.
 
-  
-  
-Le variazioni che la Societa' fosse per recare ai suoi Statuti dovranno essere notificate al Ministero di Agricoltura, Industria e Commercio nei tre primi mesi dalla data della relativa risoluzione della Assemblea generale.   
-  
+Detta Societa' non potra' emettere obbligazioni, ne' altri titoli di credito senza esserne stata specialmente autorizzata dal Governo.
 
-Art. 5
-------
+## Art. 3.
 
-  
-  
-Essa dovra' far constare nel termine di tre mesi dalla pubblicazione del presente Decreto presso il Ministero anzidetto di avere stabilito il suo domicilio legale in una delle citta' del Regno e di avervi nominato un Rap- presentante rimpetto al Governo ed ai terzi.   
-  
+Nei contratti da stipularsi dalla Societa' stessa verranno osservate le Leggi del Regno; e le contestazioni che potessero insorgere tra la Societa' e i terzi dovranno essere decise secondo le Leggi e dai Tribunali di esso.
 
-Art. 6
-------
+## Art. 4.
 
-  
-  
-La Societa' e' sottoposta alla vigilanza governativa e contribuira' annualmente nelle relative spese per lire cento cinquanta.   
-  
+Le variazioni che la Societa' fosse per recare ai suoi Statuti dovranno essere notificate al Ministero di Agricoltura, Industria e Commercio nei tre primi mesi dalla data della relativa risoluzione della Assemblea generale.
 
-Art. 7
-------
+## Art. 5.
 
-  
-  
-In caso di inosservanza delle Leggi dello Stato e delle precedenti disposizioni il Governo potra' rivocare la presente autorizzazione, salvi i diritti dei terzi.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 21 novembre 1865.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 4 dicembre 1865   
-Reg.° 34 Atti del Governo a c. 84. Ayres.   
-Luogo dal Sigillo. V. Il Guardasigilli CORTESE.   
-  
-TORELLI.   
-  
-  
+Essa dovra' far constare nel termine di tre mesi dalla pubblicazione del presente Decreto presso il Ministero anzidetto di avere stabilito il suo domicilio legale in una delle citta' del Regno e di avervi nominato un Rap- presentante rimpetto al Governo ed ai terzi.
+
+## Art. 6.
+
+La Societa' e' sottoposta alla vigilanza governativa e contribuira' annualmente nelle relative spese per lire cento cinquanta.
+
+## Art. 7.
+
+In caso di inosservanza delle Leggi dello Stato e delle precedenti disposizioni il Governo potra' rivocare la presente autorizzazione, salvi i diritti dei terzi. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 21 novembre 1865. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 4 dicembre 1865 
+ Reg.° 34 Atti del Governo a c. 84. Ayres. 
+ Luogo dal Sigillo. V. Il Guardasigilli CORTESE. 
+ 
+ TORELLI.

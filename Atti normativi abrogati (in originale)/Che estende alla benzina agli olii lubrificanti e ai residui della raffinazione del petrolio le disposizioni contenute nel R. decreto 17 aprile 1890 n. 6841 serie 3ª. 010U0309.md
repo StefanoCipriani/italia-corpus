@@ -1,16 +1,14 @@
-REGIO DECRETO 19 maggio 1910 n. 309
-
-
-REGIO DECRETO 19 maggio 1910 n. 309
-===================================
-
-Che estende alla benzina, agli olii lubrificanti e ai residui della raffinazione del petrolio, le disposizioni contenute nel R. decreto 17 aprile 1890, n. 6841 (serie 3ª). (010U0309)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/07/1910
+---
+tipo: REGIO DECRETO
+numero: 309
+data: 1910-05-19
+titolo: "Che estende alla benzina, agli olii lubrificanti e ai residui della raffinazione del petrolio, le disposizioni contenute nel R. decreto 17 aprile 1890, n. 6841 (serie 3ª). (010U0309)"
+urn: urn:nir:stato:regio.decreto:1910-05-19;309
+codice_redazionale: 010U0309
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,25 +18,18 @@ Visto il R. decreto n. 6841 (serie 3ª) del 17 aprile 1890 col quale venne autor
 
 Vista la domanda in data 20 gennaio 1910 presentata dal sindaco di Genova al ministro delle finanze;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le disposizioni del R. decreto n. 6841 (serie 3ª) del 17 aprile 1890 sono estese alla benzina, agli olii lubrificanti ed ai residui della raffinazione del petrolio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 maggio 1910.   
-  
-VITTORIO EMANUELE.   
-  
-Facta.   
-  
-Visto, Il guardasigilli: Fani.   
-  
+Le disposizioni del R. decreto n. 6841 (serie 3ª) del 17 aprile 1890 sono estese alla benzina, agli olii lubrificanti ed ai residui della raffinazione del petrolio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 maggio 1910. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Facta. 
+ 
+ Visto, Il guardasigilli: Fani.

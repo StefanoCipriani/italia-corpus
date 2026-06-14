@@ -1,211 +1,57 @@
-REGIO DECRETO 17 marzo 1895 n. XLVI
+---
+tipo: REGIO DECRETO
+numero: XLVI
+data: 1895-03-17
+titolo: "Che approva la riforma sul sistema tributario della camera di commercio ed arti di Firenze. (9500046R)"
+urn: urn:nir:stato:regio.decreto:1895-03-17;46
+codice_redazionale: 9500046R
+vigente: true
+---
 
+UMBERTO I
 
-REGIO DECRETO 17 marzo 1895 n. XLVI
-===================================
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
-Che approva la riforma sul sistema tributario della camera di commercio ed arti di Firenze. (9500046R)
-------------------------------------------------------------------------------------------------------
+RE D'ITALIA
 
-Entrata in vigore del provvedimento: 20/04/1895
+Visto l'art. 31 della legge 6 luglio 1862;
 
-Art. 1
-------
+Visto il [regio decreto 1° dicembre 1892, n. 882](Che%20autorizza%20la%20camera%20di%20commercio%20ed%20arti%20di%20Firenze%20ad%20imporre%20una%20tassa%20annua%20sui%20commercianti%20ed%20industriali.%209200882R.md);
 
-  
-  
-La camera di commercio ed arti di Firenze e' autorizzata ad imporre una tassa annua sui commercianti e su gli industriali, ragguagliata ai redditi loro provenienti dall'esercizio del commercio e dell'industria nel territorio della camera stessa dipendente, quali risultano dai ruoli per l'applicazione della tassa di ricchezza mobile nelle categorie B e C.   
-  
-Sono esenti dalla tassa coloro che hanno un reddito imponibile inferiore a lire 400.   
+Vista la deliberazione della camera di commercio ed arti di Firenze in data 20 dicembre 1894;
 
-Art. 2
-------
+Udito il parere del consiglio di Stato;
 
-  
-  
-L'aliquota di detta tassa non potra' oltrepassare il limite massimo di sette millesimi per ogni lira di reddito imponibile. Entro il limite accennato la camera di commercio ed arti di Firenze stabilira' ogni anno - previa approvazione del ministro di agricoltura, industria e commercio - l'aliquota da sovraimporsi, tenuto conto delle esigenze del proprio bilancio.   
+Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, industria e commercio; Abbiamo decretato e decretiamo:
 
-Art. 3
-------
+## Art. 1.
 
-  
-  
-La tassa sara' riscossa con le medesime forme delle imposte dirette dello Stato, in base ad appositi ruoli formati dalla camera di commercio e resi esecutorii dal prefetto, e con le norme indicate nell'unito regolamento, visto, di ordine Nostro, dal ministro proponente.   
+La camera di commercio ed arti di Firenze e' autorizzata ad imporre una tassa annua sui commercianti e su gli industriali, ragguagliata ai redditi loro provenienti dall'esercizio del commercio e dell'industria nel territorio della camera stessa dipendente, quali risultano dai ruoli per l'applicazione della tassa di ricchezza mobile nelle categorie B e C. 
+ 
+ Sono esenti dalla tassa coloro che hanno un reddito imponibile inferiore a lire 400.
 
-Art. 4
-------
+## Art. 2.
 
-  
-  
-La tassa anzidetta sostituira' quella approvata con regio decreto 1° dicembre 1892, n. DCCCLXXXII, il quale rimane abrogato.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 17 marzo 1895.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 28 marzo 1895.   
-  
-Reg. 197. Atti del Governo a f. 200. G. Cappiello.   
-  
-Luogo del Sigillo. V. Il Guardasigilli V. CALENDA.   
-  
-A. Barazzuoli.   
+L'aliquota di detta tassa non potra' oltrepassare il limite massimo di sette millesimi per ogni lira di reddito imponibile. Entro il limite accennato la camera di commercio ed arti di Firenze stabilira' ogni anno - previa approvazione del ministro di agricoltura, industria e commercio - l'aliquota da sovraimporsi, tenuto conto delle esigenze del proprio bilancio.
 
-Regolamento-art. 1
+## Art. 3.
 
-  
-REGOLAMENTO   
-per la riscossione della tassa a favore della camera di commercio ed arti di Firenze sugli esercenti industrie e commercio del proprio distretto.   
-  
-Art. 1.   
-  
-Alla tassa annua stabilita a favore della camera di commercio ed arti di Firenze sono soggetti indistintamente tutti gli esercenti commercio, industrie, arti belle ed altre arti e speculazioni in genere, quando abbiano un reddito imponibile per ricchezza mobile non inferiore alle lire quattrocento, sia che abbiano nel distretto della camera la sede principale dei loro affari, sia che figurino come case filiali di stabilimenti industriali e commerciali, o di societa' di assicurazioni o di altre ditte aventi altrove la loro sede principale.   
-  
-I procuratori di case estere o nazionali e le agenzie di commercio di qualsivoglia specie sono soggetti agli stessi obblighi per l'esercizio da loro rappresentato.   
+La tassa sara' riscossa con le medesime forme delle imposte dirette dello Stato, in base ad appositi ruoli formati dalla camera di commercio e resi esecutorii dal prefetto, e con le norme indicate nell'unito regolamento, visto, di ordine Nostro, dal ministro proponente.
 
-Regolamento-art. 2
+## Art. 4.
 
-  
-Art. 2.   
-  
-Il semplice fatto che in un comune soggetto alla giurisdizione della camera esista un esercizio in genere che cada sotto l'una o l'altra delle specie enumerate di sopra, o che, per analogia, possa classificarsi fra esse sotto qualunque forma si svolga, sia che apparisca in pubblico o si mantenga latente a domicilio o in altri locali, basta a costituire nella camera il diritto di assoggettarlo a quella tassa che essa credera' giustamente applicabile.   
-  
-Di questa tassa rispondera' sempre l'ente che forma oggetto di commercio, industria, speculazione, ecc., ecc., e non soltanto il nome della ditta o societa', sotto il quale figurasse.   
-
-Regolamento-art. 3
-
-  
-Art. 3.   
-  
-La camera, nel formare il bilancio di previsione, stabilira' in apposito capitolo l'ammontare della imposta, nei limiti fissati dal decreto reale.   
-
-Regolamento-art. 4
-
-  
-Art. 4.   
-  
-A cura della camera saranno fatti annualmente, o per mezzo dei suoi impiegati o di speciali incaricati, e prendendo a base i ruoli della tassa di ricchezza mobile, i ruoli della propria tassa, iscrivendo in questi i contribuenti il cui reddito industriale e commerciale imponibile, desunto dalla categoria di lettere B e C degli indicati ruoli della tassa di ricchezza mobile, sia di lire quattrocento o piu'.   
-  
-Allo stesso modo saranno fatti i ruoli suppletivi e complementari, nelle epoche e nelle forme in cui si fanno per la riscossione della imposta sui redditi di ricchezza mobile.   
-
-Regolamento-art. 5
-
-  
-Art. 5.   
-  
-I ruoli dovranno indicare:   
-  
-a) Il numero d'ordine;   
-  
-b) Il numero del ruolo corrispondente con quello dell'agenzia delle imposte dirette;   
-  
-c) Il cognome e nome dell'esercente o la ditta commerciale;   
-  
-d) La qualita' ed il luogo dell'esercizio;   
-  
-e) La somma di reddito desunto dal ruolo suddetto dell'agenzia;   
-  
-f) Le osservazioni.   
-  
-Conterranno anche una colonna che servira' per segnare la quota di tassa, che verra' attribuita dalla camera, in base all'aliquota fissata per ogni lira di reddito imponibile, e per annotare i fatti pagamenti.   
-
-Regolamento-art. 6
-
-  
-Art. 6.   
-  
-La camera in apposita seduta procedera' alla approvazione dei ruoli.   
-
-Regolamento-art. 7
-
-  
-Art. 7.   
-  
-La camera aggiungera' d'ufficio nei ruoli dei contribuenti come sopra formati i nomi di quegli esercenti o di quelle ditte, societa', od agenzie, che figurano come filiali di stabilimenti industriali o commerciali aventi la loro sede principale fuori del distretto camerale, e di cui e' parola nell'art. 1° del presente regolamento.   
-  
-Parimente saranno cancellati d'ufficio i nomi degli iscritti, i cui redditi professionali non fossero per propria natura soggetti all'imposta camerale.   
-  
-Per altro, nessuna variazione sara' fatta alla cifra o entita' dei redditi attribuiti dagli agenti delle imposte, e riconosciuti dalla camera come tassabili, finche' non intervenga decisione delle commissioni comunali o delle commissioni provinciale o centrale di appello per le imposte dirette.   
-
-Regolamento-art. 8
-
-  
-Art. 8.   
-  
-I ruoli approvati dalla camera e resi esecutorii dalla autorita' competente saranno pubblicati in ogni comune nelle epoche in cui si pubblicano i ruoli dei contribuenti all'imposta sui redditi di ricchezza mobile.   
-  
-Tale pubblicazione costituira' il debitore legalmente obbligato al pagamento dell'imposta alle scadenze fissate dalla camera.   
-  
-Un avviso del presidente della camera, da pubblicarsi in ogni comune, annunziera' che i ruoli sono ostensibili agli interessati ed indichera' il termine entro il quale essi potranno presentare i loro reclami.   
-  
-Tale avviso indichera' pure le epoche nelle quali si dovra' fare il pagamento di ciascuna rata dell'imposta.   
-
-Regolamento-art. 9
-
-  
-Art. 9.   
-  
-I contribuenti iscritti nei ruoli non potranno presentare reclami che circa alla propria tassabilita', ossia circa alla natura del reddito ad essi attribuito. Quanto alla cifra o entita' del reddito, dovranno esibire copia delle dichiarazioni ottenute dalle commissioni per le imposte dirette, di cui sopra, all'art. 7, relativamente alla tassa di ricchezza mobile.   
-
-Regolamento-art. 10
-
-  
-Art. 10.   
-  
-I reclami saranno fatti pervenire alla cassa per mezzo del sindaco del comune entro 20 giorni da quello in cui fu incominciata la pubblicazione dei ruoli.   
-  
-Le istanze saranno scritte in carta bollata da centesimi cinquanta e dovranno essere corredate dei documenti valevoli a provare l'esposto.   
-
-Regolamento-art. 11
-
-  
-Art. 11.   
-  
-I reclami non sospendono il pagamento della tassa. In caso di decisione favorevole, il reclamante avra' diritto a rimborso.   
-
-Regolamento-art. 12
-
-  
-Art. 12.   
-  
-Una commissione speciale, nominata annualmente dalla camera, e composta di tre dei suoi membri, oltre al preparare i lavori, di cui agli articoli 6 e 7, riferira', in seguito a questa, sui reclami presentati, formulando le proprie proposte.   
-
-Regolamento-art. 13
-
-  
-Art. 13.   
-  
-La decisione della camera verra' notificata ai reclamanti entro 10 giorni dalla sua data.   
-
-Regolamento-art. 14
-
-  
-Art. 14.   
-  
-Per altro, se si tratti di cessazione totale o parziale di redditi, che sia accertata dall'agenzia delle imposte, non sara' necessaria la decisione della camera, e bastera' un ordine del presidente di essa. 
-
-Regolamento-art. 15
-
-  
-Art. 15.   
-  
-Contro le decisioni della camera e' aperto ricorso al tribunale civile e penale, il quale giudichera' inappellabilmente.   
-
-Regolamento-art. 16
-
-  
-Art. 16.   
-  
-La percezione della tassa camerale e' regolata colle stesse norme, cogli stessi principii e privilegi, non escluse le multe a carico dei morosi, coi quali vien regolata la percezione delle tasse governative, e sara' fatta, di regola, per mezzo degli esattori comunali e consorziali.   
-  
-La camera potra', per altro, valersi dell'opera di altre persone, sempre pero' coi privilegi annessi alla riscossione delle pubbliche imposte.   
-  
-Gli stampati necessari saranno somministrati dalla camera a sue spese.   
-  
-Roma, 17 marzo 1895.   
-  
-Visto: d'ordine di S. M.   
-Il ministro d'agricoltura, industria e commercio   
-A. BARAZZUOLI.   
+La tassa anzidetta sostituira' quella approvata con regio decreto 1° dicembre 1892, n. DCCCLXXXII, il quale rimane abrogato. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 marzo 1895. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 28 marzo 1895. 
+ 
+ Reg. 197. Atti del Governo a f. 200. G. Cappiello. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli V. CALENDA. 
+ 
+ A. Barazzuoli.

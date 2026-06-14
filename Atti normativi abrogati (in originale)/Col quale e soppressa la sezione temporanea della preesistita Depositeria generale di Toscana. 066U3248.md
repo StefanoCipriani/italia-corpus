@@ -1,16 +1,14 @@
-REGIO DECRETO 06 ottobre 1866 n. 3248
-
-
-REGIO DECRETO 06 ottobre 1866 n. 3248
-=====================================
-
-Col quale e' soppressa la sezione temporanea della preesistita Depositeria generale di Toscana. (066U3248)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/11/1866
+---
+tipo: REGIO DECRETO
+numero: 3248
+data: 1866-10-06
+titolo: "Col quale e' soppressa la sezione temporanea della preesistita Depositeria generale di Toscana. (066U3248)"
+urn: urn:nir:stato:regio.decreto:1866-10-06;3248
+codice_redazionale: 066U3248
+vigente: true
+---
 
 EUGENIO
--------
 
 PRINCIPE DI SAVOJA-CARIGNANO
 
@@ -24,41 +22,32 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Veduto il [R. Decreto del 3 novembre 1861, n° 303](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1861-11-03;303);
+Veduto il [R. Decreto del 3 novembre 1861, n° 303](Col%20quale%20vengono%20soppressi%20gli%20Uffizi%20di%20Contabilita%20Generale%20in%20Napoli%20Palermo%20e%20Firenze%20ed%20approvato%20un%20regolamento%20per%20lapplicazione%20del%20Regio%20Decreto%20doggi%20n.%20302%20nelle%20Provincie%20Tos_fcaf97b3d882.md);
 
 Sulla proposizione del Ministro delle Finanze;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+La sezione temporanea della preesistita Depositeria generale di Toscana e' soppressa a cominciare dal 16 ottobre corrente.
 
-  
-  
-La sezione temporanea della preesistita Depositeria generale di Toscana e' soppressa a cominciare dal 16 ottobre corrente.   
-  
-
-Art. 2
-------
+## Art. 2.
 
 Il Direttore compartimentale del Tesoro di Firenze si occupera' delle pendenze relative ai conti dell'Amministrazione toscana anteriori al
 
-1862. 
-  
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 6 ottobre 1866.   
-  
-EUGENIO DI SAVOJA   
-  
-Registrato alla Corte dei conti addi' 11 ottobre 1866   
-  
-Reg° 37 Atti del Governo a c. 165. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Borgatti.   
-  
-A. Scialoja.
+1862.
+
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 6 ottobre 1866. 
+ 
+ EUGENIO DI SAVOJA 
+ 
+ Registrato alla Corte dei conti addi' 11 ottobre 1866 
+ 
+ Reg° 37 Atti del Governo a c. 165. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ A. Scialoja.

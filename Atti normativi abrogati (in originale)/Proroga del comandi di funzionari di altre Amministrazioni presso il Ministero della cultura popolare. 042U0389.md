@@ -1,16 +1,14 @@
-REGIO DECRETO 16 febbraio 1942 n. 389
-
-
-REGIO DECRETO 16 febbraio 1942 n. 389
-=====================================
-
-Proroga del comandi di funzionari di altre Amministrazioni presso il Ministero della cultura popolare. (042U0389)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/05/1942
+---
+tipo: REGIO DECRETO
+numero: 389
+data: 1942-02-16
+titolo: "Proroga del comandi di funzionari di altre Amministrazioni presso il Ministero della cultura popolare. (042U0389)"
+urn: urn:nir:stato:regio.decreto:1942-02-16;389
+codice_redazionale: 042U0389
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,36 +20,28 @@ Visto il R. decreto-legge 11 gennaio 1937-XV, n. 3, convertito nella legge 30 di
 
 Visti i Regi decreti 25 gennaio 1940-XVIII, n. 106, e 13 gennaio 1941-XIX, n. 72, coi quali furono disposte successive proroghe alla facolta' del Ministero della cultura popolare di valersi dell'opera di funzionari di altre Amministrazioni comandati ai sensi dell'art. 8 del R. decreto-legge sopra citato;
 
-Visto l'art. 1, n. 3, d'ella [legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100);
+Visto l'art. 1, n. 3, d'ella [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la cultura popolare, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la cultura popolare, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ferme restando le condizioni e modalita' previste dal R. decreto 13 gennaio 1941-XIX, 72, e' prorogata di un anno, a decorrere dall'11 gennaio 1942-XX, la facolta' concessa al Ministero della cultura popolare di avvalersi dell'opera di funzionari di gruppo A e B di altre Amministrazioni, particolarmente competenti nei servizi di materia tecnica del Ministero stesso.   
-  
-Ordiniamo che il presente decreto, munito dei sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 febbraio 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - PAVOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI.   
-  
-Registrato alla Corte dei conti, addi' 30 aprile 1942-XX   
-  
-Atti del Governo, registro 444, foglio 97. - MANCINI   
-  
-  
+Ferme restando le condizioni e modalita' previste dal R. decreto 13 gennaio 1941-XIX, 72, e' prorogata di un anno, a decorrere dall'11 gennaio 1942-XX, la facolta' concessa al Ministero della cultura popolare di avvalersi dell'opera di funzionari di gruppo A e B di altre Amministrazioni, particolarmente competenti nei servizi di materia tecnica del Ministero stesso. 
+ 
+ Ordiniamo che il presente decreto, munito dei sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 febbraio 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - PAVOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI. 
+ 
+ Registrato alla Corte dei conti, addi' 30 aprile 1942-XX 
+ 
+ Atti del Governo, registro 444, foglio 97. - MANCINI

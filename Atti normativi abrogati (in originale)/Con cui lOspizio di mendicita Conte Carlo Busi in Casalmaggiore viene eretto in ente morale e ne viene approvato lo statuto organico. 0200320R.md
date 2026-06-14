@@ -1,23 +1,19 @@
-REGIO DECRETO 06 settembre 1902 n. CCCXX
+---
+tipo: REGIO DECRETO
+numero: CCCXX
+data: 1902-09-06
+titolo: "Con cui l'«Ospizio di mendicita' Conte Carlo Busi» in Casalmaggiore viene eretto in ente morale e ne viene approvato lo statuto organico. (0200320R)"
+urn: urn:nir:stato:regio.decreto:1902-09-06;320
+codice_redazionale: 0200320R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 settembre 1902 n. CCCXX
-========================================
-
-Con cui l'«Ospizio di mendicita' Conte Carlo Busi» in Casalmaggiore viene eretto in ente morale e ne viene approvato lo statuto organico. (0200320R)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/10/1902
-
-Art. 1
-------
-
-  
-Con cui l'«Ospizio di mendicita' Conte Carlo Busi» in Casalmaggiore viene eretto in ente morale e ne viene approvato lo statuto organico.  
-- Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F.  
-Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 23 settembre 1902.   
-  
-Reg. 6. Atti del Governo a f. 6.   
-  
+Con cui l'«Ospizio di mendicita' Conte Carlo Busi» in Casalmaggiore viene eretto in ente morale e ne viene approvato lo statuto organico.
+- Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F.
+Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 23 settembre 1902. 
+ 
+ Reg. 6. Atti del Governo a f. 6.

@@ -1,16 +1,14 @@
-REGIO DECRETO 23 giugno 1877 n. 3929
-
-
-REGIO DECRETO 23 giugno 1877 n. 3929
-====================================
-
-Che separa il comune di Pietralcina dalla sezione elettorale di Pascolamazza e lo costituisce in sezione distinta del collegio di San Giorgio la Montagna. (077U3929)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/07/1877
+---
+tipo: REGIO DECRETO
+numero: 3929
+data: 1877-06-23
+titolo: "Che separa il comune di Pietralcina dalla sezione elettorale di Pascolamazza e lo costituisce in sezione distinta del collegio di San Giorgio la Montagna. (077U3929)"
+urn: urn:nir:stato:regio.decreto:1877-06-23;3929
+codice_redazionale: 077U3929
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,21 +22,14 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Torino, addi' 23 giugno 1877.   
-  
-VITTORIO EMANUELE.   
-  
-  
-G. NICOTERA.   
-  
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Torino, addi' 23 giugno 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ 
+ G. NICOTERA.

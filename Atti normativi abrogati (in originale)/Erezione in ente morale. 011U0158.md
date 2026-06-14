@@ -1,19 +1,15 @@
-REGIO DECRETO 19 febbraio 1911 n. 158
+---
+tipo: REGIO DECRETO
+numero: 158
+data: 1911-02-19
+titolo: "Erezione in ente morale. (011U0158)"
+urn: urn:nir:stato:regio.decreto:1911-02-19;158
+codice_redazionale: 011U0158
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 febbraio 1911 n. 158
-=====================================
-
-Erezione in ente morale. (011U0158)
------------------------------------
-
-Entrata in vigore del provvedimento: 11/04/1911
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. 158 (Dato a Roma, il 19 febbraio 1911), col quale la Pia eredita' Ferretti di Siena, e' eretta in ente morale ed e' concentrata nella locale Congregazione di carita'.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. 158 (Dato a Roma, il 19 febbraio 1911), col quale la Pia eredita' Ferretti di Siena, e' eretta in ente morale ed e' concentrata nella locale Congregazione di carita'.

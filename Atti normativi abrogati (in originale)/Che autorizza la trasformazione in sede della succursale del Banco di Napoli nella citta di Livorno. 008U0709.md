@@ -1,16 +1,14 @@
-REGIO DECRETO 12 novembre 1908 n. 709
-
-
-REGIO DECRETO 12 novembre 1908 n. 709
-=====================================
-
-Che autorizza la trasformazione in sede della succursale del Banco di Napoli nella citta' di Livorno. (008U0709)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/01/1909
+---
+tipo: REGIO DECRETO
+numero: 709
+data: 1908-11-12
+titolo: "Che autorizza la trasformazione in sede della succursale del Banco di Napoli nella citta' di Livorno. (008U0709)"
+urn: urn:nir:stato:regio.decreto:1908-11-12;709
+codice_redazionale: 008U0709
+vigente: true
+---
 
 VITTORIO EMANUELE
------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,20 +22,16 @@ Vista la deliberazione del 27 ottobre 1908 colla quale il Consiglio generale del
 
 Su proposta del Nostro ministro segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
 
-Articolo unico
---------------
+## Articolo unico.
 
-  
-  
-E' autorizzata la trasformazione in sede della succursale del Banco di Napoli nella Citta' di Livorno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 12 novembre 1908.   
-  
-VITTORIO EMANUELE.   
-  
-Carcano.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+E' autorizzata la trasformazione in sede della succursale del Banco di Napoli nella Citta' di Livorno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 12 novembre 1908. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Carcano. 
+ 
+ Visto, Il guardasigilli: Orlando.

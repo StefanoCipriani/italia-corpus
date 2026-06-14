@@ -1,21 +1,17 @@
-REGIO DECRETO 05 giugno 1902 n. CLVI
+---
+tipo: REGIO DECRETO
+numero: CLVI
+data: 1902-06-05
+titolo: "Che approva lo statuto organico del monte di pieta' di Padova. (0200156R)"
+urn: urn:nir:stato:regio.decreto:1902-06-05;156
+codice_redazionale: 0200156R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 giugno 1902 n. CLVI
-====================================
-
-Che approva lo statuto organico del monte di pieta' di Padova. (0200156R)
--------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/07/1902
-
-Art. 1
-------
-
-  
-Che approva lo statuto organico del monte di pieta' di Padova - Firmato VITTORIO EMANUELE - Controfirmati G. Baccelli, Giolitti - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 12 giugno 1902.   
-  
-Reg. 3. Atti del Governo a f. 143.   
-  
+Che approva lo statuto organico del monte di pieta' di Padova - Firmato VITTORIO EMANUELE - Controfirmati G. Baccelli, Giolitti - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 12 giugno 1902. 
+ 
+ Reg. 3. Atti del Governo a f. 143.

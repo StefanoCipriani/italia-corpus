@@ -1,16 +1,14 @@
-REGIO DECRETO 10 giugno 1880 n. 5510
-
-
-REGIO DECRETO 10 giugno 1880 n. 5510
-====================================
-
-Che revoca il Regio decreto 20 dicembre 1874, che distacca la frazione Fondatore dal comune di Pallanza. (080U5510)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/07/1880
+---
+tipo: REGIO DECRETO
+numero: 5510
+data: 1880-06-10
+titolo: "Che revoca il Regio decreto 20 dicembre 1874, che distacca la frazione Fondatore dal comune di Pallanza. (080U5510)"
+urn: urn:nir:stato:regio.decreto:1880-06-10;5510
+codice_redazionale: 080U5510
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,24 +24,17 @@ Visti i nuovi ricorsi prodotti da Pallanza e dai frazionisti di Fondatore per la
 
 Vedute le leggi 20 marzo 1865, allegati A e D;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 10 giugno 1880.   
-  
-UMBERTO.   
-  
-DEPRETIS.   
-  
-Visto - Il Guardasigilli   
-T. VILLA.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 giugno 1880. 
+ 
+ UMBERTO. 
+ 
+ DEPRETIS. 
+ 
+ Visto - Il Guardasigilli 
+ T. VILLA.

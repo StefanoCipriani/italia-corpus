@@ -1,19 +1,15 @@
-REGIO DECRETO 06 marzo 1913 n. 256
+---
+tipo: REGIO DECRETO
+numero: 256
+data: 1913-03-06
+titolo: "Dichiarazione di promiscuita' di scuola normale. (013U0256)"
+urn: urn:nir:stato:regio.decreto:1913-03-06;256
+codice_redazionale: 013U0256
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 marzo 1913 n. 256
-==================================
-
-Dichiarazione di promiscuita' di scuola normale. (013U0256)
------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/04/1913
-
-Art. 1
-------
-
-  
-N. 256   
-  
-Regio Decreto 6 marzo 1913, col quale, sulla proposta del ministro dell'istruzione pubblica, la R. scuola normale maschile di Fano, viene dichiarata promiscua per tutti gli effetti di legge dal 1° ottobre 1912.   
-  
+N. 256 
+ 
+ Regio Decreto 6 marzo 1913, col quale, sulla proposta del ministro dell'istruzione pubblica, la R. scuola normale maschile di Fano, viene dichiarata promiscua per tutti gli effetti di legge dal 1° ottobre 1912.

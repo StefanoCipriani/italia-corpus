@@ -1,32 +1,30 @@
-REGIO DECRETO 24 marzo 1910 n. 190
-
-
-REGIO DECRETO 24 marzo 1910 n. 190
-==================================
-
-Portante variazioni nello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1909-910. (010U0190)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/05/1910
+---
+tipo: REGIO DECRETO
+numero: 190
+data: 1910-03-24
+titolo: "Portante variazioni nello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1909-910. (010U0190)"
+urn: urn:nir:stato:regio.decreto:1910-03-24;190
+codice_redazionale: 010U0190
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 8 aprile 1906, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141), sullo stato giuridico degli insegnanti delle scuole medie governative e pareggiate;
+Vista la [legge 8 aprile 1906, n. 141](Sullo%20stato%20giuridico%20degli%20insegnanti%20delle%20scuole%20medie%20regie%20e%20pareggiate.%20006U0141.md), sullo stato giuridico degli insegnanti delle scuole medie governative e pareggiate;
 
-Vista la [legge 8 aprile 1906, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142), che stabilisce le disposizioni sugli stipendi e sulla carriera del personale delle scuole medie governative;
+Vista la [legge 8 aprile 1906, n. 142](Per%20disposizioni%20sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20delle%20scuole%20medie%20governative.%20006U0142.md), che stabilisce le disposizioni sugli stipendi e sulla carriera del personale delle scuole medie governative;
 
 Visto il Nostro decreto 3 agosto 1908, n. 623, che approva il regolamento per la esecuzione di dette leggi;
 
-Visto il testo unico, approvato con Nostro decreto 25 luglio 1907, n. 645, delle [leggi 16 luglio 1904, nn. 397 e 13 giugno 1907, n. 342](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;342), portanti norme e provvedimenti per la istituzione e la conversione in governative di scuole medie dipendenti da Provincie, da Comuni, o da altri enti;
+Visto il testo unico, approvato con Nostro decreto 25 luglio 1907, n. 645, delle [leggi 16 luglio 1904, nn. 397 e 13 giugno 1907, n. 342](Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md), portanti norme e provvedimenti per la istituzione e la conversione in governative di scuole medie dipendenti da Provincie, da Comuni, o da altri enti;
 
 Visto il regolamento per l'applicazione di detto testo unico, approvato con Nostro decreto 15 settembre 1907, n. 652;
 
-Visto il Nostro decreto 30 maggio 1909, n. 285, col quale vennero inscritte complessive L. 1,485,900 in aumento alla dotazione del capitolo n. 123 dello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1908-909, quale maggiore fabbisogno per l'applicazione delle norme contenute nelle [leggi 8 aprile 1906, nn. 141 e 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142) e nel Nostro decreto 3 agosto 1908, n. 623 suindicati;
+Visto il Nostro decreto 30 maggio 1909, n. 285, col quale vennero inscritte complessive L. 1,485,900 in aumento alla dotazione del capitolo n. 123 dello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1908-909, quale maggiore fabbisogno per l'applicazione delle norme contenute nelle [leggi 8 aprile 1906, nn. 141 e 142](Per%20disposizioni%20sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20delle%20scuole%20medie%20governative.%20006U0142.md) e nel Nostro decreto 3 agosto 1908, n. 623 suindicati;
 
 Visto il Nostro decreto 10 giugno 1909, n. 451, che provvede a variazioni nel bilancio per l'esercizio finanziario 1908-909, in dipendenza della regificazione delle scuole medie nel decreto stesso elencate, con effetto dal 1° ottobre 1908, ossia per nove dodicesimi del carico annuale;
 
@@ -40,41 +38,34 @@ al capitolo 140 dello stato di previsione medesimo, per cessazione di assegni, l
 
 Visto che i rimborsi e concorsi a carico degli enti locali per la regificazione delle scuole medie di cui trattasi trovansi gia' inscritti nello stato di previsione dell'entrata per l'esercizio 1909-910 ai capitoli n. 72 e 73;
 
-Ritenuta la necessita' di stanziare la somma di L. 229,500 nel bilancio della pubblica istruzione per provvedere agli aumenti anticipati di stipendio, accordati per merito distinto per gli anni 1909 e 1910 agli insegnanti ordinari che si trovino ancora a distanza di uno o due anni dalla scadenza normale degli aumenti quinquennali a termini dell'art. 7 della citata [legge 8 aprile 1906, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142);
+Ritenuta la necessita' di stanziare la somma di L. 229,500 nel bilancio della pubblica istruzione per provvedere agli aumenti anticipati di stipendio, accordati per merito distinto per gli anni 1909 e 1910 agli insegnanti ordinari che si trovino ancora a distanza di uno o due anni dalla scadenza normale degli aumenti quinquennali a termini dell'art. 7 della citata [legge 8 aprile 1906, n. 142](Per%20disposizioni%20sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20delle%20scuole%20medie%20governative.%20006U0142.md);
 
-Vista la [legge 13 marzo 1910, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-03-13;91), che approva lo stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1909-910;
+Vista la [legge 13 marzo 1910, n. 91](Sullo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellistruzione%20pubblica%20per%20lesercizio%20finanziario%201909-910.%20010U0091.md), che approva lo stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1909-910;
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per il tesoro, di concerto con quello della pubblica istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per il tesoro, di concerto con quello della pubblica istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1909-910 sono introdotte le seguenti variazioni:   
-  
-In aumento.   
-  
-Capitolo n. 130. - «Scuole medie governative - Personale, stipendi, assegni indennita', ecc.» lire duemilionicentoventiquattromila duecentoventicinque (L. 2,124,225).   
-  
-Capitolo n. 157. - «Insegnamento della ginnastica nelle scuole medie governative - Personale, stipendi e retribuzioni, ecc.» lire quindicimila cinquecentocinquanta (L. 15,550).   
-  
-In diminuzione.   
-  
-Capitolo n. 140. - «Sussidi a Provincie, a Comuni e ad altri corpi morali pel mantenimento di scuole tecniche» lire ventiseimilacentosessantasei e centesimi sessantasei (L. 26,166.66).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 marzo 1910.   
-  
-VITTORIO EMANUELE.   
-  
-Sonnino - Salandra - Daneo.   
-  
-Visto, Il guardasigilli: Scialoja.   
-  
+Nello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1909-910 sono introdotte le seguenti variazioni: 
+ 
+ In aumento. 
+ 
+ Capitolo n. 130. - «Scuole medie governative - Personale, stipendi, assegni indennita', ecc.» lire duemilionicentoventiquattromila duecentoventicinque (L. 2,124,225). 
+ 
+ Capitolo n. 157. - «Insegnamento della ginnastica nelle scuole medie governative - Personale, stipendi e retribuzioni, ecc.» lire quindicimila cinquecentocinquanta (L. 15,550). 
+ 
+ In diminuzione. 
+ 
+ Capitolo n. 140. - «Sussidi a Provincie, a Comuni e ad altri corpi morali pel mantenimento di scuole tecniche» lire ventiseimilacentosessantasei e centesimi sessantasei (L. 26,166.66). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 marzo 1910. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Sonnino - Salandra - Daneo. 
+ 
+ Visto, Il guardasigilli: Scialoja.

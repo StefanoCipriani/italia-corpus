@@ -1,19 +1,15 @@
-REGIO DECRETO 02 aprile 1905 n. XCIV
+---
+tipo: REGIO DECRETO
+numero: XCIV
+data: 1905-04-02
+titolo: "Erezione in ente morale. (0500094R)"
+urn: urn:nir:stato:regio.decreto:1905-04-02;94
+codice_redazionale: 0500094R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 aprile 1905 n. XCIV
-====================================
-
-Erezione in ente morale. (0500094R)
------------------------------------
-
-Entrata in vigore del provvedimento: 28/05/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. XCIV (Dato a Roma, il 2 aprile 1905), col quale il legato Garzotti e' eretto in ente morale e concentrato nella Congregazione di carita' di Isola della Scala.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. XCIV (Dato a Roma, il 2 aprile 1905), col quale il legato Garzotti e' eretto in ente morale e concentrato nella Congregazione di carita' di Isola della Scala.

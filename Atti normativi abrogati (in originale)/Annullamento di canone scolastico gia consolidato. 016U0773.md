@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 04 maggio 1916 n. 773
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 773
+data: 1916-05-04
+titolo: "Annullamento di canone scolastico gia' consolidato. (016U0773)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-05-04;773
+codice_redazionale: 016U0773
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 04 maggio 1916 n. 773
-=============================================
-
-Annullamento di canone scolastico gia' consolidato. (016U0773)
---------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/07/1916
-
-Art. 1
-------
-
-null
+## Art. 1. — null

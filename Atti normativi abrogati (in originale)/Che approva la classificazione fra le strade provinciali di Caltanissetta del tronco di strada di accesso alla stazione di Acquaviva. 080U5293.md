@@ -1,16 +1,14 @@
-REGIO DECRETO 22 gennaio 1880 n. 5293
-
-
-REGIO DECRETO 22 gennaio 1880 n. 5293
-=====================================
-
-Che approva la classificazione fra le strade provinciali di Caltanissetta del tronco di strada di accesso alla stazione di Acquaviva. (080U5293)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/03/1880
+---
+tipo: REGIO DECRETO
+numero: 5293
+data: 1880-01-22
+titolo: "Che approva la classificazione fra le strade provinciali di Caltanissetta del tronco di strada di accesso alla stazione di Acquaviva. (080U5293)"
+urn: urn:nir:stato:regio.decreto:1880-01-22;5293
+codice_redazionale: 080U5293
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,25 +30,19 @@ Vista la legge 20 marzo 1865 sui Lavori Pubblici;
 
 Inteso il Consiglio superiore dei Lavori Pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo;
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo;
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata la classificazione del tronco di strada di accesso alla stazione di Acquaviva, tra le strade provinciali di Caltanissetta, come ultimo tronco della strada provinciale n. 15 del relativo elenco.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 gennaio 1880.   
-  
-UMBERTO.   
-  
-A. Baccarini.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
+E' approvata la classificazione del tronco di strada di accesso alla stazione di Acquaviva, tra le strade provinciali di Caltanissetta, come ultimo tronco della strada provinciale n. 15 del relativo elenco. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 gennaio 1880. 
+ 
+ UMBERTO. 
+ 
+ A. Baccarini. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

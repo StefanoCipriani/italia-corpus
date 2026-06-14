@@ -1,16 +1,14 @@
-REGIO DECRETO 15 agosto 1867 n. 3883
-
-
-REGIO DECRETO 15 agosto 1867 n. 3883
-====================================
-
-Che dichiara Provinciali alcune strade scorrenti nella Provincia di Macerata. (067U3883)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/10/1867
+---
+tipo: REGIO DECRETO
+numero: 3883
+data: 1867-08-15
+titolo: "Che dichiara Provinciali alcune strade scorrenti nella Provincia di Macerata. (067U3883)"
+urn: urn:nir:stato:regio.decreto:1867-08-15;3883
+codice_redazionale: 067U3883
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,37 +30,22 @@ Veduti i voti del Consiglio superiore dei lavori pubblici sotto le date 22 dicem
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate Provinciali per la Provincia di Macerata le sedici strade indicate nell'estratto dell'Elenco preaccennato, annesso al presente Decreto, visto d'ordine Nostro dal predetto Ministro.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 15 agosto 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 30 agosto 1867   
-  
-Reg. 40 Atti del Governo a c. 217. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Tecchio.   
-  
-Giovanola.   
-  
-
-Elenco
-
-  
-ELENCO delle strade provinciali di Macerata, dichiarate tali col Regio Decreto in data d'oggi giorno 15 agosto 1867.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U388300100010110001&dgu=1867-09-21&art.dataPubblicazioneGazzetta=1867-09-21&art.codiceRedazionale=067U3883)
-  
+Sono dichiarate Provinciali per la Provincia di Macerata le sedici strade indicate nell'estratto dell'Elenco preaccennato, annesso al presente Decreto, visto d'ordine Nostro dal predetto Ministro. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 15 agosto 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 30 agosto 1867 
+ 
+ Reg. 40 Atti del Governo a c. 217. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Tecchio. 
+ 
+ Giovanola.

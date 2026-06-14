@@ -1,18 +1,16 @@
-DECRETO-LEGGE 15 gennaio 1993 n. 5
-
-
-DECRETO-LEGGE 15 gennaio 1993 n. 5
-==================================
-
-Disposizioni urgenti per il personale di enti pubblici trasformati in societa' per azioni, comandato presso amministrazioni pubbliche.
---------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 16/1/1993.Decreto-Legge convertito dalla [L. 17 marzo 1993, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-17;62) (in G.U. 18/03/1993, n.64).
+---
+tipo: DECRETO-LEGGE
+numero: 5
+data: 1993-01-15
+titolo: "Disposizioni urgenti per il personale di enti pubblici trasformati in societa' per azioni, comandato presso amministrazioni pubbliche."
+urn: urn:nir:stato:decreto.legge:1993-01-15;5
+codice_redazionale: 092G0028
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
 Ritenuta la straordinaria necessita' ed urgenza di assicurare la continuita' delle funzioni svolte presso pubbliche amministrazioni, in posizione di comando, dal personale dipendente da enti pubblici trasformati in societa' per azioni;
 
@@ -22,33 +20,20 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la f
 
 E M A N A il seguente decreto-legge:
 
-Art. 1
-------
+## Art. 1.
 
-1. Il personale dipendente dagli enti pubblici trasformati in societa' di diritto privato ai sensi della [legge 30 luglio 1990, n. 218, e degli articoli 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-30;218~art15) e [18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-30;218~art18) del [decreto-legge 11 luglio 1992, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359), nonche' dalle societa' da essi controllate, comandato in forza di disposizioni di legge presso le pubbliche amministrazioni ed in servizio alla data dell'11 luglio 1992, continua a prestare servizio presso le medesime amministrazioni per un periodo massimo di sei mesi decorrente dalla data di entrata in vigore del presente decreto. Per lo stesso periodo nulla e' innovato in ordine alla corresponsione del trattamento economico al personale interessato.
+1.
 
-Art. 2
-------
+Il personale dipendente dagli enti pubblici trasformati in societa' di diritto privato ai sensi della [legge 30 luglio 1990, n. 218, e degli articoli 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-30;218#art_15) e [18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-30;218#art_18) del [decreto-legge 11 luglio 1992, n. 333](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-11;333), convertito, con modificazioni, dalla [legge 8 agosto 1992, n. 359](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-08-08;359), nonche' dalle societa' da essi controllate, comandato in forza di disposizioni di legge presso le pubbliche amministrazioni ed in servizio alla data dell'11 luglio 1992, continua a prestare servizio presso le medesime amministrazioni per un periodo massimo di sei mesi decorrente dalla data di entrata in vigore del presente decreto. Per lo stesso periodo nulla e' innovato in ordine alla corresponsione del trattamento economico al personale interessato.
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+## Art. 2.
+
+1.
+
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 15 gennaio 1993
+Dato a Roma, addi' 15 gennaio 1993
 
-SCALFARO
-
-AMATO, Presidente del Consiglio dei Ministri
-
-BARUCCI, Ministro per la funzione pubblica
-
-GUARINO, Ministro dell'industria,
-
-del commercio e dell'artigianato e,
-
-ad interim, delle partecipazioni statali
-
-RIPA DI MEANA, Ministro dell'ambiente
-
-Visto, il Guardasigilli: MARTELLI
+SCALFARO AMATO, Presidente del Consiglio dei Ministri BARUCCI, Ministro per la funzione pubblica GUARINO, Ministro dell'industria, del commercio e dell'artigianato e, ad interim, delle partecipazioni statali RIPA DI MEANA, Ministro dell'ambiente Visto, il Guardasigilli: MARTELLI

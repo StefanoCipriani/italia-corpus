@@ -1,22 +1,18 @@
-REGIO DECRETO 19 febbraio 1899 n. XLIV
+---
+tipo: REGIO DECRETO
+numero: XLIV
+data: 1899-02-19
+titolo: "Che applica la tassa di famiglia nel comune di Chieti. (9900044R)"
+urn: urn:nir:stato:regio.decreto:1899-02-19;44
+codice_redazionale: 9900044R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 febbraio 1899 n. XLIV
-======================================
-
-Che applica la tassa di famiglia nel comune di Chieti. (9900044R)
------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/03/1899
-
-Art. 1
-------
-
-  
-Con cui e' data facolta' al comune di Chieti di applicare per il 1899 la tassa di famiglia col limite massimo di lire cinquecento (L. 500). - Firmato UMBERTO - Controfirmato Carcano - Visto C.  
-Finocchiaro Aprile.   
-  
-Registrato alla Corte dei conti addi' 2 marzo 1899.   
-  
-Reg. 218. Atti del Governo a f. 212.   
-  
+Con cui e' data facolta' al comune di Chieti di applicare per il 1899 la tassa di famiglia col limite massimo di lire cinquecento (L. 500). - Firmato UMBERTO - Controfirmato Carcano - Visto C.
+Finocchiaro Aprile. 
+ 
+ Registrato alla Corte dei conti addi' 2 marzo 1899. 
+ 
+ Reg. 218. Atti del Governo a f. 212.

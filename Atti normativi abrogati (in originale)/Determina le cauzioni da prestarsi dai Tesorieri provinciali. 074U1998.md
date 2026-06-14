@@ -1,16 +1,14 @@
-REGIO DECRETO 28 giugno 1874 n. 1998
-
-
-REGIO DECRETO 28 giugno 1874 n. 1998
-====================================
-
-Determina le cauzioni da prestarsi dai Tesorieri provinciali. (074U1998)
-------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/07/1874
+---
+tipo: REGIO DECRETO
+numero: 1998
+data: 1874-06-28
+titolo: "Determina le cauzioni da prestarsi dai Tesorieri provinciali. (074U1998)"
+urn: urn:nir:stato:regio.decreto:1874-06-28;1998
+codice_redazionale: 074U1998
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,25 +24,18 @@ Considerata la opportunita' di affrettare la sistemazione secondo le norme stess
 
 Sulla proposta del Ministro delle Finanze;
 
-Sentito
--------
+Sentito il Consiglio di Stato, Abbiamo decretato e decretiamo quanto segue:
 
-il Consiglio di Stato, Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le cauzioni dei tesorieri provinciali continueranno ad essere rette dalle norme stabilite dal [R. decreto 9 novembre 1872, n. 1089](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1872-11-09;1089) (Serie 2ª), salva la seguente modificazione al secondo alinea dell'articolo 7 del decreto stesso. Il valore del consolidato sara' ragguagliato sulla media dei corsi fatti nel semestre anteriore a quello in cui viene emanato il decreto di nomina, promozione e traslocamento del tesoriere, ed ammesso per nove decimi del detto valore.   
-  
-Percio' non sono applicabili alle cauzioni suddette i Nostri Reali decreti 8 giugno 1873, n. 1447, e 5 marzo 1874, n. 1825.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 28 giugno 1874.   
-  
-VITTORIO EMANUELE.   
-  
-M. Minghetti.   
-  
+Le cauzioni dei tesorieri provinciali continueranno ad essere rette dalle norme stabilite dal [R. decreto 9 novembre 1872, n. 1089](Concernente%20la%20istituzione%20delle%20Tesorerie%20nelle%20Provincie%20Meridionali%20e%20la%20modificazione%20dellordinamento%20delle%20altre%20Tesorerie%20del%20Regno.%20072U1089.md) (Serie 2ª), salva la seguente modificazione al secondo alinea dell'articolo 7 del decreto stesso. Il valore del consolidato sara' ragguagliato sulla media dei corsi fatti nel semestre anteriore a quello in cui viene emanato il decreto di nomina, promozione e traslocamento del tesoriere, ed ammesso per nove decimi del detto valore. 
+ 
+ Percio' non sono applicabili alle cauzioni suddette i Nostri Reali decreti 8 giugno 1873, n. 1447, e 5 marzo 1874, n. 1825. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 28 giugno 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. Minghetti.

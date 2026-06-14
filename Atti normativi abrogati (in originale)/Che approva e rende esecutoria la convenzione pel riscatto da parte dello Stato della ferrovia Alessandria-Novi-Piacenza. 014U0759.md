@@ -1,16 +1,14 @@
-REGIO DECRETO 25 giugno 1914 n. 759
-
-
-REGIO DECRETO 25 giugno 1914 n. 759
-===================================
-
-Che approva e rende esecutoria la convenzione pel riscatto da parte dello Stato della ferrovia Alessandria-Novi-Piacenza. (014U0759)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/08/1914
+---
+tipo: REGIO DECRETO
+numero: 759
+data: 1914-06-25
+titolo: "Che approva e rende esecutoria la convenzione pel riscatto da parte dello Stato della ferrovia Alessandria-Novi-Piacenza. (014U0759)"
+urn: urn:nir:stato:regio.decreto:1914-06-25;759
+codice_redazionale: 014U0759
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -40,7 +38,7 @@ Ritenuto:
 
 5° che, mediante formale atto di diffida 20 dicembre 1903, fu dichiarato alla societa' che il Governo intendeva riscattare l'intera ferrovia;
 
-Vista la [legge 11 luglio 1909, n. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-11;488), che, fra l'altro, approvo' la detta diffida e dichiaro' effettuato il riscatto della ferrovia in parola, autorizzando il ministro del tesoro a valersi dei mezzi indicati negli [articoli 3 della legge 23 dicembre 1906, n. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-12-23;638~art3), e 3 della [legge 24 dicembre 1908, n. 731](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-12-24;731), per la provvista dei fondi necessari al pagamento del corrispettivo di riscatto, dei relativi interessi e delle provvisionali da versare alla Societa' concessionaria, fino a completa definizione delle controversie, insorte, relativamente al riscatto medesimo ed alla liquidazione dell'indennita', salvo conguaglio;
+Vista la [legge 11 luglio 1909, n. 488](Pel%20riscatto%20di%20alcune%20linee%20ferroviarie%20concesse%20allindustria%20privata.%20009U0488.md), che, fra l'altro, approvo' la detta diffida e dichiaro' effettuato il riscatto della ferrovia in parola, autorizzando il ministro del tesoro a valersi dei mezzi indicati negli [articoli 3 della legge 23 dicembre 1906, n. 638](Spese%20straordinarie%20occorrenti%20per%20le%20ferrovie%20esercitate%20dallo%20Stato%20e%20relativa%20provvista%20di%20fondi.%20006U0638.md), e 3 della [legge 24 dicembre 1908, n. 731](Provvedimenti%20per%20le%20spese%20ferroviarie%20viarie%20e%20per%20debiti%20redimibili.%20008U0731.md), per la provvista dei fondi necessari al pagamento del corrispettivo di riscatto, dei relativi interessi e delle provvisionali da versare alla Societa' concessionaria, fino a completa definizione delle controversie, insorte, relativamente al riscatto medesimo ed alla liquidazione dell'indennita', salvo conguaglio;
 
 Considerato che, in seguito ai computi fatti, il prezzo capitale di riscatto della intera ferrovia al 1° gennaio 1905, e' risultato di L. 43.970.417,84 (lire quarantatremilioni novecentosettantamila quattrocentodiciassette e centesimi ottantaquattro) pur tenuto calcolo - in deduzione - del valore del materiale rotabile occorso per l'esercizio della linea, in relazione all'incremento del traffico - ed in aumento - del rimborso, a favore della Societa', delle maggiori somme versate allo Stato, a titolo di partecipazione agli utili dell'azienda, essendo stata la detta partecipazione liquidata senza tener conto, fra le spese dell'azienda, dell'onere derivante dal concorso della ex-concessionaria nelle spese pel materiale rotabile;
 
@@ -58,35 +56,22 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta dei Nostri ministri, segretari di Stato per i lavori pubblici e pel tesoro; Abbiamo decretato e decretiamo:
 
-proposta dei Nostri ministri, segretari di Stato per i lavori pubblici e pel tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvata e resa esecutoria la convenzione 27 gennaio 1912, stipulata fra l'Amministrazione governativa e la Societa' anonima, gia' concessionaria della ferrovia da Alessandria e Novi a Piacenza, pel riscatto della ferrovia stessa, con effetto retroattivo al 1° gennaio 1905, e per la liquidazione delle somme, dovute dalla Societa' suddetta per i lavori di primo impianto, eseguiti sulla ferrovia sino al 1° gennaio 1905 stesso.
 
-  
-  
-  
-E' approvata e resa esecutoria la convenzione 27 gennaio 1912, stipulata fra l'Amministrazione governativa e la Societa' anonima, gia' concessionaria della ferrovia da Alessandria e Novi a Piacenza, pel riscatto della ferrovia stessa, con effetto retroattivo al 1° gennaio 1905, e per la liquidazione delle somme, dovute dalla Societa' suddetta per i lavori di primo impianto, eseguiti sulla ferrovia sino al 1° gennaio 1905 stesso.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-  
-Con separati decreti Ministeriali sara' provveduto all'iscrizione di apposito capitolo nello stato di previsione della spesa del Ministero del tesoro, pel pagamento delle somme dovute alla Societa' anonima gia' concessionaria della ferrovia da Alessandria e Novi a Piacenza, in dipendenza del riscatto suaccennato, in base alla convenzione, approvata con l'articolo 1 e salve le risultanze del conto di conguaglio pel periodo dal 1° gennaio 1911 in avanti, nonche' all'autorizzazione del detto pagamento.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 giugno 1914.   
-  
-VITTORIO EMANUELE.   
-  
-Salandra - Ciuffelli - Rubini.   
-  
-Visto, Il guardasigilli: Dari.   
-  
+Con separati decreti Ministeriali sara' provveduto all'iscrizione di apposito capitolo nello stato di previsione della spesa del Ministero del tesoro, pel pagamento delle somme dovute alla Societa' anonima gia' concessionaria della ferrovia da Alessandria e Novi a Piacenza, in dipendenza del riscatto suaccennato, in base alla convenzione, approvata con l'articolo 1 e salve le risultanze del conto di conguaglio pel periodo dal 1° gennaio 1911 in avanti, nonche' all'autorizzazione del detto pagamento. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 giugno 1914. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Salandra - Ciuffelli - Rubini. 
+ 
+ Visto, Il guardasigilli: Dari.

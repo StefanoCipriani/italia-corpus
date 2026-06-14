@@ -1,16 +1,14 @@
-REGIO DECRETO 27 ottobre 1873 n. 1755
-
-
-REGIO DECRETO 27 ottobre 1873 n. 1755
-=====================================
-
-Che approva la vendita di alcuni beni demaniali alla Ditta Malcolm ed alla Chiesa di Sant'Alvise in Venezia. (073U1755)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/01/1874
+---
+tipo: REGIO DECRETO
+numero: 1755
+data: 1873-10-27
+titolo: "Che approva la vendita di alcuni beni demaniali alla Ditta Malcolm ed alla Chiesa di Sant'Alvise in Venezia. (073U1755)"
+urn: urn:nir:stato:regio.decreto:1873-10-27;1755
+codice_redazionale: 073U1755
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Visto l'altro contratto 31 luglio 1872 stipulato presso l'Intendenza di finanza 
 
 Considerato che tali cessioni erano gia' convenute in massima col Governo austriaco, anteriormente alla riunione delle provincie venete al Regno d'Italia;
 
-Sentito
--------
+Sentito il parere del Consiglio di Stato, Abbiamo ordinato ed ordiniamo quanto segue:
 
-il parere del Consiglio di Stato, Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarati esecutorii i contratti precitati dell'11 dicembre 1867 con la Ditta Malcolm di Venezia, e 31 luglio 1872 con la Fabbriceria della chiesa parrocchiale di San Marziale per conto della chiesa di Sant'Alvise in Venezia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 27 ottobre 1873.   
-  
-VITTORIO EMANUELE.   
-  
-M. Minghetti.   
-  
+Sono dichiarati esecutorii i contratti precitati dell'11 dicembre 1867 con la Ditta Malcolm di Venezia, e 31 luglio 1872 con la Fabbriceria della chiesa parrocchiale di San Marziale per conto della chiesa di Sant'Alvise in Venezia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 27 ottobre 1873. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. Minghetti.

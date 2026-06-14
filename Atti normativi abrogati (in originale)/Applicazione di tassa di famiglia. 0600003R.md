@@ -1,19 +1,15 @@
-REGIO DECRETO 14 gennaio 1906 n. III
+---
+tipo: REGIO DECRETO
+numero: III
+data: 1906-01-14
+titolo: "Applicazione di tassa di famiglia. (0600003R)"
+urn: urn:nir:stato:regio.decreto:1906-01-14;3
+codice_redazionale: 0600003R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 gennaio 1906 n. III
-====================================
-
-Applicazione di tassa di famiglia. (0600003R)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 22/02/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. III (Dato a Roma, il 14 gennaio 1906), col quale e' data facola al comune di Ponte di Nossa di applicare, pel triennio 1905-907, la tassa di famiglia, col limite massimo di L. 100 (cento).   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. III (Dato a Roma, il 14 gennaio 1906), col quale e' data facola al comune di Ponte di Nossa di applicare, pel triennio 1905-907, la tassa di famiglia, col limite massimo di L. 100 (cento).

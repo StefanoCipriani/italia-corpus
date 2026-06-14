@@ -1,19 +1,15 @@
-REGIO DECRETO 23 giugno 1912 n. 760
+---
+tipo: REGIO DECRETO
+numero: 760
+data: 1912-06-23
+titolo: "Erezione in ente morale ed approvazione di statuto (012U0760)"
+urn: urn:nir:stato:regio.decreto:1912-06-23;760
+codice_redazionale: 012U0760
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 giugno 1912 n. 760
-===================================
-
-Erezione in ente morale ed approvazione di statuto (012U0760)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/08/1912
-
-Art. 1
-------
-
-  
-N. 760   
-  
-Regio Decreto 23 giugno 1912, col quale, sulla proposta del ministro di agricoltura, industria e commercio, di concerto col ministro dell'interno, viene approvato lo statuto del Monte nuovo di pieta' di Brescia.   
-  
+N. 760 
+ 
+ Regio Decreto 23 giugno 1912, col quale, sulla proposta del ministro di agricoltura, industria e commercio, di concerto col ministro dell'interno, viene approvato lo statuto del Monte nuovo di pieta' di Brescia.

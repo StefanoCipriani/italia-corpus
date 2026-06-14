@@ -1,21 +1,21 @@
-REGIO DECRETO 19 maggio 1930 n. 874
+---
+tipo: REGIO DECRETO
+numero: 874
+data: 1930-05-19
+titolo: "Erezione in ente morale dell'Asilo infantile « Tani-Treggiari », con sede in Amandola. (030U0874)"
+urn: urn:nir:stato:regio.decreto:1930-05-19;874
+codice_redazionale: 030U0874
+vigente: true
+---
 
-
-REGIO DECRETO 19 maggio 1930 n. 874
-===================================
-
-Erezione in ente morale dell'Asilo infantile « Tani-Treggiari », con sede in Amandola. (030U0874)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/07/1930
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-874. R. decreto 19 maggio 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, l'Asilo infantile « Tani-Treggiari », in Amandola (Ascoli Piceno), viene eretto in ente morale con amministrazione autonoma e ne e' approvato lo statuto organico.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 2 luglio 1930 - Anno VIII
+874.
+
+R. decreto 19 maggio 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, l'Asilo infantile « Tani-Treggiari », in Amandola (Ascoli Piceno), viene eretto in ente morale con amministrazione autonoma e ne e' approvato lo statuto organico. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 2 luglio 1930 - Anno VIII

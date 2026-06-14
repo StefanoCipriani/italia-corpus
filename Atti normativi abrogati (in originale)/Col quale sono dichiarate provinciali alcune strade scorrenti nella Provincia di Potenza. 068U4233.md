@@ -1,16 +1,14 @@
-REGIO DECRETO 30 gennaio 1868 n. 4233
-
-
-REGIO DECRETO 30 gennaio 1868 n. 4233
-=====================================
-
-Col quale sono dichiarate provinciali alcune strade scorrenti nella Provincia di Potenza. (068U4233)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/03/1868
+---
+tipo: REGIO DECRETO
+numero: 4233
+data: 1868-01-30
+titolo: "Col quale sono dichiarate provinciali alcune strade scorrenti nella Provincia di Potenza. (068U4233)"
+urn: urn:nir:stato:regio.decreto:1868-01-30;4233
+codice_redazionale: 068U4233
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,36 +30,22 @@ Vista la deliberazione del giorno 28 ottobre ultimo, colla quale il Consiglio pr
 
 Visto l'avviso del Consiglio di Stato del giorno 21 del corrente mese;
 
-Sulla
------
+Sulla proposta del Nostro Ministro dei Lavori Pubblici; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Ministro dei Lavori Pubblici; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate provinciali le 19 strade della Provincia di Potenza descritte nell'Elenco del 25 corrente, il quale restera' unito al presente Decreto, visto d'ordine Nostro dal Ministro Segretario di Stato pei Lavori Pubblici.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 30 gennaio 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 22 febbraio 1868   
-  
-Reg. 42 Atti del Governo a c. 78 Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-G. Cantelli.   
-
-Elenco
-
-  
-ELENCO delle strade provinciali di Potenza   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=068U423300100010110001&dgu=1868-03-07&art.dataPubblicazioneGazzetta=1868-03-07&art.codiceRedazionale=068U4233)
-  
+Sono dichiarate provinciali le 19 strade della Provincia di Potenza descritte nell'Elenco del 25 corrente, il quale restera' unito al presente Decreto, visto d'ordine Nostro dal Ministro Segretario di Stato pei Lavori Pubblici. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 30 gennaio 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 22 febbraio 1868 
+ 
+ Reg. 42 Atti del Governo a c. 78 Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ G. Cantelli.

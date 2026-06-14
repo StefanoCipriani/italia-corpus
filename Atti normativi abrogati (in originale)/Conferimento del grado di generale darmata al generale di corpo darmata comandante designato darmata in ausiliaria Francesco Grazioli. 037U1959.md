@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 21 ottobre 1937 n. 1959
-
-
-REGIO DECRETO-LEGGE 21 ottobre 1937 n. 1959
-===========================================
-
-Conferimento del grado di generale d'armata al generale di corpo d'armata comandante designato d'armata in ausiliaria Francesco Grazioli. (037U1959)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/12/1937.  
-Regio Decreto-Legge convertito dalla [L. 23 dicembre 1937, n. 2423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-12-23;2423) (in G.U. 10/02/1938, n. 33).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1959
+data: 1937-10-21
+titolo: "Conferimento del grado di generale d'armata al generale di corpo d'armata comandante designato d'armata in ausiliaria Francesco Grazioli. (037U1959)"
+urn: urn:nir:stato:regio.decreto.legge:1937-10-21;1959
+codice_redazionale: 037U1959
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -35,29 +32,23 @@ Visto l'art. 3, n. 2, della legge 31 gennaio 1926-IV, numero 100;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al generale di corpo d'armata comandante designato d'armata in ausiliaria Grazioli Francesco e' conferito il grado di generale d'armata con anzianita' decorrente del giorno del suo collocamento in ausiliaria (18 dicembre 1935-XIV).   
-  
-Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 21 ottobre 1937 - Anno XV   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 30 novembre 1937 - Anno XVI   
-Atti del Governo, registro 391, foglio 198. - Mancini.   
+Al generale di corpo d'armata comandante designato d'armata in ausiliaria Grazioli Francesco e' conferito il grado di generale d'armata con anzianita' decorrente del giorno del suo collocamento in ausiliaria (18 dicembre 1935-XIV). 
+ 
+ Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 21 ottobre 1937 - Anno XV 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 30 novembre 1937 - Anno XVI  
+ Atti del Governo, registro 391, foglio 198. - Mancini.

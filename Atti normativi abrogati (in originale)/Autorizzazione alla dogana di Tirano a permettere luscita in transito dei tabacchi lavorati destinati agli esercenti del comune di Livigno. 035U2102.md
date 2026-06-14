@@ -1,16 +1,14 @@
-REGIO DECRETO 05 dicembre 1935 n. 2102
-
-
-REGIO DECRETO 05 dicembre 1935 n. 2102
-======================================
-
-Autorizzazione alla dogana di Tirano a permettere l'uscita in transito dei tabacchi lavorati destinati agli esercenti del comune di Livigno. (035U2102)
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/01/1936
+---
+tipo: REGIO DECRETO
+numero: 2102
+data: 1935-12-05
+titolo: "Autorizzazione alla dogana di Tirano a permettere l'uscita in transito dei tabacchi lavorati destinati agli esercenti del comune di Livigno. (035U2102)"
+urn: urn:nir:stato:regio.decreto:1935-12-05;2102
+codice_redazionale: 035U2102
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,27 +20,21 @@ Sentito il parere del Consiglio di amministrazione dei monopoli di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La dogana di Tirano e' autorizzata a permettere l'uscita in transito dei tabacchi lavorati destinati agli esercenti del comune di Livigno muniti della prescritta licenza di detenzione e di vendita di tabacchi; i colli contenenti detti tabacchi verranno assicurati con piombo e scortati da un milite della Regia guardia di finanza sino agli esercizi dei destinatari, che dovranno esibirgli la licenza sopraindicata.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 dicembre 1935 - Anno XIV.   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 16 dicembre 1935 - Anno XIV   
-Atti del Governo, registro 367, foglio 86. - Mancini.   
+La dogana di Tirano e' autorizzata a permettere l'uscita in transito dei tabacchi lavorati destinati agli esercenti del comune di Livigno muniti della prescritta licenza di detenzione e di vendita di tabacchi; i colli contenenti detti tabacchi verranno assicurati con piombo e scortati da un milite della Regia guardia di finanza sino agli esercizi dei destinatari, che dovranno esibirgli la licenza sopraindicata. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 dicembre 1935 - Anno XIV. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 16 dicembre 1935 - Anno XIV  
+ Atti del Governo, registro 367, foglio 86. - Mancini.

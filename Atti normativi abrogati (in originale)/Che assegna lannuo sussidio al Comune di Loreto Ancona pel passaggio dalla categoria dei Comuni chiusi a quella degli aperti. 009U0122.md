@@ -1,16 +1,14 @@
-REGIO DECRETO 21 febbraio 1909 n. 122
-
-
-REGIO DECRETO 21 febbraio 1909 n. 122
-=====================================
-
-Che assegna l'annuo sussidio al Comune di Loreto (Ancona) pel passaggio dalla categoria dei Comuni chiusi a quella degli aperti. (009U0122)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/04/1909
+---
+tipo: REGIO DECRETO
+numero: 122
+data: 1909-02-21
+titolo: "Che assegna l'annuo sussidio al Comune di Loreto (Ancona) pel passaggio dalla categoria dei Comuni chiusi a quella degli aperti. (009U0122)"
+urn: urn:nir:stato:regio.decreto:1909-02-21;122
+codice_redazionale: 009U0122
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,29 +18,22 @@ Viste le deliberazioni del Consiglio comunale di Loreto (provincia di Ancona) in
 
 Visti gli articoli 95 e 101 del testo unico di legge sui dazi interni di consumo del 7 maggio 1908, n. 248;
 
-Visto l'[art. 8 del regolamento 9 marzo 1902, n. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1902-03-09;90~art8);
+Visto l'[art. 8 del regolamento 9 marzo 1902, n. 90](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1902-03-09;90#art_8);
 
 Vista la decisione in data 6 febbraio 1909 della Commissione centrale nominata con Nostro decreto 10 aprile 1902, n. 134;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' assegnato al comune di Loreto (provincia di Ancona) il sussidio a carico dello Stato di annue lire sedicimilaquarantuna e centesimi diciassette (L.16,041.17) dal l° gennaio 1909 in poi, per il passaggio dalla categoria dei Comuni chiusi a quella degli aperti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 febbraio 1909.   
-  
-VITTORIO EMANUELE.   
-  
-LACAVA.   
-  
-Visto, Il Guardasigilli: ORLANDO.   
-  
+E' assegnato al comune di Loreto (provincia di Ancona) il sussidio a carico dello Stato di annue lire sedicimilaquarantuna e centesimi diciassette (L.16,041.17) dal l° gennaio 1909 in poi, per il passaggio dalla categoria dei Comuni chiusi a quella degli aperti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 21 febbraio 1909. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ LACAVA. 
+ 
+ Visto, Il Guardasigilli: ORLANDO.

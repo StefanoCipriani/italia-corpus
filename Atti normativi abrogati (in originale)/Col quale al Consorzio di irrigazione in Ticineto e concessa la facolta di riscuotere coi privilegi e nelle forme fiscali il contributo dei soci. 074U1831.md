@@ -1,16 +1,14 @@
-REGIO DECRETO 01 marzo 1874 n. 1831
-
-
-REGIO DECRETO 01 marzo 1874 n. 1831
-===================================
-
-Col quale al Consorzio di irrigazione in Ticineto e' concessa la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci. (074U1831)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/03/1874
+---
+tipo: REGIO DECRETO
+numero: 1831
+data: 1874-03-01
+titolo: "Col quale al Consorzio di irrigazione in Ticineto e' concessa la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci. (074U1831)"
+urn: urn:nir:stato:regio.decreto:1874-03-01;1831
+codice_redazionale: 074U1831
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,26 +20,20 @@ Visto l'atto di costituzione del Consorzio in data 11 maggio 1873, rogato in Tic
 
 Vista la deliberazione dell'assemblea generale del di' 25 gennaio 1874, con cui vengono approvate le modificazioni allo statuto consegnale, suggerite con Ministeriale del 6 dicembre 1873, numeri 56919/16868;
 
-Vista la [legge 29 maggio 1873, num. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (Serie 2ª);
+Vista la [legge 29 maggio 1873, num. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md) (Serie 2ª);
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al Consorzio costituitosi in Ticineto, provincia di Alessandria, con atto 11 maggio 1873, rogato dal notaio Federico Tabucchi, per la irrigazione di terreni in quel comune, con acqua derivata dal canale alla sponda destra del Po, mediante acquisto dell'acqua stessa dalla Compagnia generale dei canali d'irrigazione italiani (canale Cavour), e' concessa a facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei socii.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 1° marzo 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. Finali.   
+Al Consorzio costituitosi in Ticineto, provincia di Alessandria, con atto 11 maggio 1873, rogato dal notaio Federico Tabucchi, per la irrigazione di terreni in quel comune, con acqua derivata dal canale alla sponda destra del Po, mediante acquisto dell'acqua stessa dalla Compagnia generale dei canali d'irrigazione italiani (canale Cavour), e' concessa a facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei socii. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° marzo 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Finali.

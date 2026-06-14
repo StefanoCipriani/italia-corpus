@@ -1,16 +1,14 @@
-REGIO DECRETO 30 novembre 1862 n. 1080
-
-
-REGIO DECRETO 30 novembre 1862 n. 1080
-======================================
-
-Estende l'amnistia concessa pei fatti di ribellione commessi nelle Provincie Meridionali a quelli che occasionarono e susseguirono lo scioglimento del Consiglio comunale di Casalmaggiore. (062U1080)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/01/1863
+---
+tipo: REGIO DECRETO
+numero: 1080
+data: 1862-11-30
+titolo: "Estende l'amnistia concessa pei fatti di ribellione commessi nelle Provincie Meridionali a quelli che occasionarono e susseguirono lo scioglimento del Consiglio comunale di Casalmaggiore. (062U1080)"
+urn: urn:nir:stato:regio.decreto:1862-11-30;1080
+codice_redazionale: 062U1080
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,29 +18,22 @@ Visti i Nostri Decreti di amnistia in data 5 ottobre p. p., n.° 849, e 30 stess
 
 Considerato che i fatti che occasionarono e susseguirono lo scioglimento del Consiglio comunale di Casalmaggiore ebbero la loro origine nei fatti e tentativi di ribellione che ebbero luogo principalmente nelle Provincie Meridionali nello scorso mese di agosto, e pei quali fu concessa amnistia coi Decreti succitati;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'amnistia concessa coi succitati Decreti e' estesa ai fatti che occasionarono e susseguirono lo scioglimento del Consiglio comunale di Casalmaggiore, e pei quali fu iniziata penale processura.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 30 novembre 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 6 gennaio 1863   
-  
-Reg.° 21 Atti del Governo a c. 306. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli U. Rattazzi.   
-  
-U. Rattazzi.   
-  
+L'amnistia concessa coi succitati Decreti e' estesa ai fatti che occasionarono e susseguirono lo scioglimento del Consiglio comunale di Casalmaggiore, e pei quali fu iniziata penale processura. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 30 novembre 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 6 gennaio 1863 
+ 
+ Reg.° 21 Atti del Governo a c. 306. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli U. Rattazzi. 
+ 
+ U. Rattazzi.

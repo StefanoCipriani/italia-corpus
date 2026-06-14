@@ -1,16 +1,14 @@
-REGIO DECRETO 16 agosto 1943 n. 749
-
-
-REGIO DECRETO 16 agosto 1943 n. 749
-===================================
-
-Autorizzazione al comune di Cavriglia a continuare ad applicare, fino al 31 dicembre 1943, le imposte di consumo con la tariffa della classe superiore «G». (043U0749)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/09/1943
+---
+tipo: REGIO DECRETO
+numero: 749
+data: 1943-08-16
+titolo: "Autorizzazione al comune di Cavriglia a continuare ad applicare, fino al 31 dicembre 1943, le imposte di consumo con la tariffa della classe superiore «G». (043U0749)"
+urn: urn:nir:stato:regio.decreto:1943-08-16;749
+codice_redazionale: 043U0749
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,31 +20,26 @@ Vista l'istanza con la quale il comune di Cavriglia (Arezzo), gia' autorizzato c
 
 Sentita la Commissione centrale per la finanza locale;
 
-Visto l'art. 26 del testo unico per la finanza locale approvato con [R. decreto 14 Settembre 1931, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1).175;
+Visto l'art. 26 del testo unico per la finanza locale approvato con [R. decreto 14 Settembre 1931, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1).175;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di State per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di State per le finanze; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il comune di Cavriglia e' autorizzato a continuare ad applicare le imposte di consumo con la tariffa della Classe superiore G fino al 31 dicembre
 
-1943. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo, osservare.   
-  
-Dato a Roma, addi' 16 agosto 1943.   
-  
-VITTORIO EMANUELE   
-  
-Bartolini   
-  
-Visto, il Guardasigilli: Azzariti.   
-  
-Registrato alla Corte dei conti, addi' 8 settembre 1943   
-  
-Atti del Governo, registro 461, foglio 9. - Mancini
+1943.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo, osservare. 
+ 
+ Dato a Roma, addi' 16 agosto 1943. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Bartolini 
+ 
+ Visto, il Guardasigilli: Azzariti. 
+ 
+ Registrato alla Corte dei conti, addi' 8 settembre 1943 
+ 
+ Atti del Governo, registro 461, foglio 9. - Mancini

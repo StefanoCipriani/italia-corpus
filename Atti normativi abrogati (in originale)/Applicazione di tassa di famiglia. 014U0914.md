@@ -1,19 +1,15 @@
-REGIO DECRETO 13 agosto 1914 n. 914
+---
+tipo: REGIO DECRETO
+numero: 914
+data: 1914-08-13
+titolo: "Applicazione di tassa di famiglia. (014U0914)"
+urn: urn:nir:stato:regio.decreto:1914-08-13;914
+codice_redazionale: 014U0914
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 agosto 1914 n. 914
-===================================
-
-Applicazione di tassa di famiglia. (014U0914)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 18/09/1914
-
-Art. 1
-------
-
-  
-N. 914   
-  
-Regio Decreto 13 agosto 1914, col quale sulla proposta del ministro delle finanze, e' data facolta' al comune di Sala Consilina (Salerno) di applicare nel 1914 la tassa di famiglia con l'aliquota progressiva da L. 1 a L. 2 %.   
-  
+N. 914 
+ 
+ Regio Decreto 13 agosto 1914, col quale sulla proposta del ministro delle finanze, e' data facolta' al comune di Sala Consilina (Salerno) di applicare nel 1914 la tassa di famiglia con l'aliquota progressiva da L. 1 a L. 2 %.

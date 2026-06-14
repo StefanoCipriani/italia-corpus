@@ -1,16 +1,14 @@
-REGIO DECRETO 23 giugno 1910 n. 540
-
-
-REGIO DECRETO 23 giugno 1910 n. 540
-===================================
-
-Che dichiara di terza classe il comune aperto di Campobello di Mazzara nei riguardi del dazio consumo. (010U0540)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/08/1910
+---
+tipo: REGIO DECRETO
+numero: 540
+data: 1910-06-23
+titolo: "Che dichiara di terza classe il comune aperto di Campobello di Mazzara nei riguardi del dazio consumo. (010U0540)"
+urn: urn:nir:stato:regio.decreto:1910-06-23;540
+codice_redazionale: 010U0540
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,7 +18,7 @@ Veduti gli articoli 2 e 3 del testo unico delle leggi daziarie 7 maggio 1908, n.
 
 Vedute le tabelle di classificazione e qualificazione dei Comuni, approvate coi RR. decreti 22 luglio 1870, n. 5781 e 23 novembre 1885, n. 3512 (serie 3ª);
 
-Veduto il censimento della popolazione del Regno, approvato col [R. decreto 29 dicembre 1901, n. 565](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-12-29;565);
+Veduto il censimento della popolazione del Regno, approvato col [R. decreto 29 dicembre 1901, n. 565](Col%20quale%20viene%20fissata%20la%20popolazione%20legale%20dei%20singoli%20Comuni%20del%20Regno.%20001U0565.md);
 
 Vista la statistica del censimento stesso pubblicata nel 1902 dal Ministero di agricoltura, industria e commercio;
 
@@ -30,33 +28,22 @@ Vista la tabella approvata col Nostro decreto 21 dicembre 1905, n. 614, nella qu
 
 Vista la decisione in data 10 giugno 1910 della Commissione centrale del dazio consumo, adottata a sensi e per gli effetti previsti agli articoli 87, 88 e 110 del testo unico di legge del 7 maggio 1908;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A decorrere dal 1° gennaio 1909 il comune aperto di Campobello di Mazzara, in provincia di Trapani, e' dichiarato di terza classe nei riguardi del dazio consumo.
 
-  
-  
-A decorrere dal 1° gennaio 1909 il comune aperto di Campobello di Mazzara, in provincia di Trapani, e' dichiarato di terza classe nei riguardi del dazio consumo.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Dal detto giorno, il canone daziario corrisposto allo Stato dal summentovato Comune e' aumentato da annue lire milleottocentonovantasei e cent. 46 (L. 1896.46) ad annue lire duemilatrentasette e cent. 37 (L. 2037.37).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 giugno 1910.   
-  
-VITTORIO EMANUELE.   
-  
-Facta.   
-  
-Visto, il guardasigilli: Fani.   
-  
+Dal detto giorno, il canone daziario corrisposto allo Stato dal summentovato Comune e' aumentato da annue lire milleottocentonovantasei e cent. 46 (L. 1896.46) ad annue lire duemilatrentasette e cent. 37 (L. 2037.37). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 giugno 1910. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Facta. 
+ 
+ Visto, il guardasigilli: Fani.

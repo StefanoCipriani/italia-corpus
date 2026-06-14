@@ -1,21 +1,21 @@
-REGIO DECRETO 11 maggio 1924 n. 1028
+---
+tipo: REGIO DECRETO
+numero: 1028
+data: 1924-05-11
+titolo: "Modificazioni allo statuto dell'Istituto friulano per gli orfani di guerra, in Rubignacco di Cividale. (024U1028)"
+urn: urn:nir:stato:regio.decreto:1924-05-11;1028
+codice_redazionale: 024U1028
+vigente: true
+---
 
-
-REGIO DECRETO 11 maggio 1924 n. 1028
-====================================
-
-Modificazioni allo statuto dell'Istituto friulano per gli orfani di guerra, in Rubignacco di Cividale. (024U1028)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/07/1924
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1028. R. decreto 11 maggio 1924, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene modificato lo statuto organico dell'Istituto friulano per gli orfani di guerra, in Rubignacco di Cividale.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 2 luglio 1924.
+1028.
+
+R. decreto 11 maggio 1924, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene modificato lo statuto organico dell'Istituto friulano per gli orfani di guerra, in Rubignacco di Cividale. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 2 luglio 1924.

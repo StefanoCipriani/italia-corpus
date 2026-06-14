@@ -1,21 +1,17 @@
-REGIO DECRETO 01 agosto 1904 n. CCCLIII
+---
+tipo: REGIO DECRETO
+numero: CCCLIII
+data: 1904-08-01
+titolo: "Con cui la commissione pedagogica forense di Milano viene eretta in ente morale e ne viene approvato lo statuto organico. (0400353R)"
+urn: urn:nir:stato:regio.decreto:1904-08-01;353
+codice_redazionale: 0400353R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 agosto 1904 n. CCCLIII
-=======================================
-
-Con cui la commissione pedagogica forense di Milano viene eretta in ente morale e ne viene approvato lo statuto organico. (0400353R)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/09/1904
-
-Art. 1
-------
-
-  
-Con cui la commissione pedagogica forense di Milano viene eretta in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 9 settembre 1904.   
-  
-Reg. 18. Atti del Governo a f. 111.   
-  
+Con cui la commissione pedagogica forense di Milano viene eretta in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 9 settembre 1904. 
+ 
+ Reg. 18. Atti del Governo a f. 111.

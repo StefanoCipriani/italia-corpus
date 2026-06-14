@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 09 agosto 1917 n. 1415
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1415
+data: 1917-08-09
+titolo: "Applicazione di tassa sul bestiame. (017U1415)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-08-09;1415
+codice_redazionale: 017U1415
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 09 agosto 1917 n. 1415
-==============================================
-
-Applicazione di tassa sul bestiame. (017U1415)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 17/10/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1415. Decreto Luogotenenziale 9 agosto 1917, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Saludecio (Forli') di applicare pel solo anno 1917 la tassa sul bestiame con eccedenza dei massimi limiti normali per le due categorie «cavalli e muli» e «vitelli e vitelle».
+1415.
+
+Decreto Luogotenenziale 9 agosto 1917, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Saludecio (Forli') di applicare pel solo anno 1917 la tassa sul bestiame con eccedenza dei massimi limiti normali per le due categorie «cavalli e muli» e «vitelli e vitelle».

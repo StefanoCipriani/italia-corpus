@@ -1,17 +1,17 @@
-REGIO DECRETO 13 gennaio 1921 n. 114
+---
+tipo: REGIO DECRETO
+numero: 114
+data: 1921-01-13
+titolo: "Applicazione di tassa di esercizio. (021U0114)"
+urn: urn:nir:stato:regio.decreto:1921-01-13;114
+codice_redazionale: 021U0114
+vigente: true
+---
 
-
-REGIO DECRETO 13 gennaio 1921 n. 114
-====================================
-
-Applicazione di tassa di esercizio. (021U0114)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 11/03/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-114. Regio decreto 13 gennaio 1921, col quale, sulla proposta del Ministro delle finanze, e' data facolta' al comune di Cassina Mariaga (Como), di applicare dal 1° gennaio 1919 al 31 dicembre 1921, la tassa di esercizio col limite massimo fino a L. 2000.
+114.
+
+Regio decreto 13 gennaio 1921, col quale, sulla proposta del Ministro delle finanze, e' data facolta' al comune di Cassina Mariaga (Como), di applicare dal 1° gennaio 1919 al 31 dicembre 1921, la tassa di esercizio col limite massimo fino a L. 2000.

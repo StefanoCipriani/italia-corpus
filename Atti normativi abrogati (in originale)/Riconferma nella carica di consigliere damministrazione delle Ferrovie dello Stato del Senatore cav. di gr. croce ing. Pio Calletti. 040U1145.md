@@ -1,19 +1,19 @@
-REGIO DECRETO 12 luglio 1940 n. 1145
+---
+tipo: REGIO DECRETO
+numero: 1145
+data: 1940-07-12
+titolo: "Riconferma nella carica di consigliere d'amministrazione delle Ferrovie dello Stato del Senatore cav. di gr. croce ing. Pio Calletti. (040U1145)"
+urn: urn:nir:stato:regio.decreto:1940-07-12;1145
+codice_redazionale: 040U1145
+vigente: true
+---
 
-
-REGIO DECRETO 12 luglio 1940 n. 1145
-====================================
-
-Riconferma nella carica di consigliere d'amministrazione delle Ferrovie dello Stato del Senatore cav. di gr. croce ing. Pio Calletti. (040U1145)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/09/1940
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1145. R. decreto 12 luglio 1940, col quale, sulla proposta del Ministro per le comunicazioni, il Senatore cav. di gr. croce ing. Pio Calletti, viene riconfermato nella carica di consigliere d'amministrazione delle Ferrovie dello Stato.   
-Visto, il Guardasigilli: Grandi   
-Registrato alla Corte dei conti, addi' 10 agosto 1040-XVIII
+1145.
+
+R. decreto 12 luglio 1940, col quale, sulla proposta del Ministro per le comunicazioni, il Senatore cav. di gr. croce ing. Pio Calletti, viene riconfermato nella carica di consigliere d'amministrazione delle Ferrovie dello Stato. 
+ Visto, il Guardasigilli: Grandi 
+ Registrato alla Corte dei conti, addi' 10 agosto 1040-XVIII

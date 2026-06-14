@@ -1,16 +1,14 @@
-REGIO DECRETO 10 settembre 1908 n. 565
-
-
-REGIO DECRETO 10 settembre 1908 n. 565
-======================================
-
-Che autorizza prelevamenti di somme dal fondo di riserva per le «spese impreviste» dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1908-909. (008U0565)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/10/1908
+---
+tipo: REGIO DECRETO
+numero: 565
+data: 1908-09-10
+titolo: "Che autorizza prelevamenti di somme dal fondo di riserva per le «spese impreviste» dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1908-909. (008U0565)"
+urn: urn:nir:stato:regio.decreto:1908-09-10;565
+codice_redazionale: 008U0565
+vigente: true
+---
 
 Relazione di S. E. il ministro del tesoro a S. M. il Re, in udienza del 10 settembre 1908, sul decreto che autorizza un prelevamento dal fondo di riserva delle «spese impreviste» occorrenti per le spese pei servizi profilattici.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Sire!
 
@@ -28,34 +26,27 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'art. 38 del testo unico della legge sull'amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016);
+Visto l'art. 38 del testo unico della legge sull'amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md);
 
 Visto che sul fondo di riserva per le spese impreviste inscritto in L. 1,000,000 nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1908-909, in conseguenza delle prelevazioni gia' autorizzate in L. 68,500 rimane disponibile la somma di L. 931,500;
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal fondar di riserva per le spese impreviste inscritto al capitolo n. 126 dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1908-1909, e' autorizzata una 8ª prelevazione nella somma di lire, settantacinquemila (L. 75,000), da portarsi in aumento al capitolo n. 67: «Sussidi per provvedimenti profilattici in casi di endemie e di epidemie - Spese per acquisto, preparazione, trasporto, magazzinaggio e conservazione di materiale profilattico», dello stato di previsione della spesa del Ministero dell'intorno per l'esercizio finanziario predetto.   
-  
-Questo decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 10 settembre 1908.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti.   
-Carcano.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+Dal fondar di riserva per le spese impreviste inscritto al capitolo n. 126 dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1908-1909, e' autorizzata una 8ª prelevazione nella somma di lire, settantacinquemila (L. 75,000), da portarsi in aumento al capitolo n. 67: «Sussidi per provvedimenti profilattici in casi di endemie e di epidemie - Spese per acquisto, preparazione, trasporto, magazzinaggio e conservazione di materiale profilattico», dello stato di previsione della spesa del Ministero dell'intorno per l'esercizio finanziario predetto. 
+ 
+ Questo decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 10 settembre 1908. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti. 
+ Carcano. 
+ 
+ Visto, Il guardasigilli: Orlando.

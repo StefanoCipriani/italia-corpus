@@ -1,47 +1,43 @@
-REGIO DECRETO 08 febbraio 1906 n. 256
+---
+tipo: REGIO DECRETO
+numero: 256
+data: 1906-02-08
+titolo: "Nomina di tre rappresentanti della Commissione pel porto di Venezia (006U0256)"
+urn: urn:nir:stato:regio.decreto:1906-02-08;256
+codice_redazionale: 006U0256
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 febbraio 1906 n. 256
-=====================================
-
-Nomina di tre rappresentanti della Commissione pel porto di Venezia (006U0256)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/07/1906
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-per grazia di Dio e per volonta' della Nazione   
-  
-RE D'ITALIA   
-  
-Visto il [R. decreto 9 giugno 1898, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-06-09;285), che istituisce una Commissione permanente per la direzione dei servizi del porto di Venezia;   
-  
-Su proposta del Nostro ministro segretario di Stato pei lavori pubblici, di concerto coi ministri dell'interno, delle finanze, della marina e dell'agricoltura, industria e commercio;   
-  
-Abbiamo decretato e decretiamo:   
-  
-Ferme restando tutte le altre disposizioni del decreto 9 giugno 1898, n. 285, sono chiamati a far parte della ammissione pel porto di Venezia, in luogo dei rappresentanti designati al n. 7 e 8 dell'art. 2:   
-  
-due funzionari superiori dell'Amministrazione delle ferrovie di Stato;   
-  
-un funzionario superiore dell'ufficio speciale delle ferrovie.   
-  
-Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 febbraio 1906.   
-  
-VITTORIO EMANUELE.   
-  
-A. Fortis.   
-Tedesco.   
-C. Malvezzi.   
-Vacchelli.   
-C. Mirabello.   
-  
-Visto, Il guardasigilli: C. Finocchiaro-Aprile.   
-  
+VITTORIO EMANUELE III 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Visto il [R. decreto 9 giugno 1898, n. 285](Che%20approva%20il%20Regolamento%20per%20la%20Commissione%20permanente%20dei%20servizi%20del%20porto%20di%20Venezia.%20098U0285.md), che istituisce una Commissione permanente per la direzione dei servizi del porto di Venezia; 
+ 
+ Su proposta del Nostro ministro segretario di Stato pei lavori pubblici, di concerto coi ministri dell'interno, delle finanze, della marina e dell'agricoltura, industria e commercio; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ Ferme restando tutte le altre disposizioni del decreto 9 giugno 1898, n. 285, sono chiamati a far parte della ammissione pel porto di Venezia, in luogo dei rappresentanti designati al n. 7 e 8 dell'art. 2: 
+ 
+ due funzionari superiori dell'Amministrazione delle ferrovie di Stato; 
+ 
+ un funzionario superiore dell'ufficio speciale delle ferrovie. 
+ 
+ Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 febbraio 1906. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ A. Fortis. 
+ Tedesco. 
+ C. Malvezzi. 
+ Vacchelli. 
+ C. Mirabello. 
+ 
+ Visto, Il guardasigilli: C. Finocchiaro-Aprile.

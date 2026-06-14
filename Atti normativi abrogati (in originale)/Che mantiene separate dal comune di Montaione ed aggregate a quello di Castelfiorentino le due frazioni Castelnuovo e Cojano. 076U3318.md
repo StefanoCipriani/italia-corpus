@@ -1,16 +1,14 @@
-REGIO DECRETO 26 agosto 1876 n. 3318
-
-
-REGIO DECRETO 26 agosto 1876 n. 3318
-====================================
-
-Che mantiene separate dal comune di Montaione ed aggregate a quello di Castelfiorentino le due frazioni Castelnuovo e Cojano. (076U3318)
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/10/1876
+---
+tipo: REGIO DECRETO
+numero: 3318
+data: 1876-08-26
+titolo: "Che mantiene separate dal comune di Montaione ed aggregate a quello di Castelfiorentino le due frazioni Castelnuovo e Cojano. (076U3318)"
+urn: urn:nir:stato:regio.decreto:1876-08-26;3318
+codice_redazionale: 076U3318
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,39 +26,24 @@ Veduti gli altri atti tutti della pratica;
 
 Sentito il parere del Consiglio di Stato;
 
-Ritenuto
---------
+Ritenuto che le eccezioni sollevate dal comune di Montaione ne' suoi richiami non presentano nessuna nuova circostanza che induca ad adottare criteri diversi da quelli cui e' informato l'anzidetto R. decreto, Abbiamo decretato e decretiamo:
 
-che le eccezioni sollevate dal comune di Montaione ne' suoi richiami non presentano nessuna nuova circostanza che induca ad adottare criteri diversi da quelli cui e' informato l'anzidetto R. decreto, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I ricorsi presentati dal comune di Montaione per la revoca del R. decreto 5 marzo 1876 sono respinti.
 
-  
-  
-I ricorsi presentati dal comune di Montaione per la revoca del R. decreto 5 marzo 1876 sono respinti.   
-  
+## Art. 2.
 
-Art. 2
-------
+La carta topografica stata vidimata dal Nostro Ministro proponente in data 5 marzo 1876 verra' modificata secondo la pianta geometrica redatta dall'ingegnere capo del Genio civile della provincia di Firenze in data 2 agosto 1876 nella zona della frazione S. Stefano velata in bleu e distinta colle lettere A, B, C, D, E, F, la quale zona continuera' percio' a far parte della frazione anzidetta appartenente al comune di Montaione.
 
-  
-  
-La carta topografica stata vidimata dal Nostro Ministro proponente in data 5 marzo 1876 verra' modificata secondo la pianta geometrica redatta dall'ingegnere capo del Genio civile della provincia di Firenze in data 2 agosto 1876 nella zona della frazione S. Stefano velata in bleu e distinta colle lettere A, B, C, D, E, F, la quale zona continuera' percio' a far parte della frazione anzidetta appartenente al comune di Montaione.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-L'esecuzione del R. decreto 5 marzo 1876 rimane prorogata al 1° novembre p. v.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 26 agosto 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+L'esecuzione del R. decreto 5 marzo 1876 rimane prorogata al 1° novembre p. v. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 26 agosto 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

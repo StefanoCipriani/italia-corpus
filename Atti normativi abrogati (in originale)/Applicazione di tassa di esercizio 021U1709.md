@@ -1,17 +1,17 @@
-REGIO DECRETO 19 novembre 1921 n. 1709
+---
+tipo: REGIO DECRETO
+numero: 1709
+data: 1921-11-19
+titolo: "Applicazione di tassa di esercizio (021U1709)"
+urn: urn:nir:stato:regio.decreto:1921-11-19;1709
+codice_redazionale: 021U1709
+vigente: true
+---
 
-
-REGIO DECRETO 19 novembre 1921 n. 1709
-======================================
-
-Applicazione di tassa di esercizio (021U1709)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 06/01/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1709. Regio decreto 19 novembre 1921, col quale sulla proposta del ministro delle finanze, e' data facolta' al comune di Arcellasco (Como), di applicare dal 1° gennaio al 31 dicembre 1921, la tassa di esercizio, col limite massimo fino a L. 1000.
+1709.
+
+Regio decreto 19 novembre 1921, col quale sulla proposta del ministro delle finanze, e' data facolta' al comune di Arcellasco (Como), di applicare dal 1° gennaio al 31 dicembre 1921, la tassa di esercizio, col limite massimo fino a L. 1000.

@@ -1,16 +1,14 @@
-REGIO DECRETO 26 maggio 1878 n. 4413
-
-
-REGIO DECRETO 26 maggio 1878 n. 4413
-====================================
-
-Che istituisce un museo di antichita' nella regia universita' di Sassari. (078U4413)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/07/1878
+---
+tipo: REGIO DECRETO
+numero: 4413
+data: 1878-05-26
+titolo: "Che istituisce un museo di antichita' nella regia universita' di Sassari. (078U4413)"
+urn: urn:nir:stato:regio.decreto:1878-05-26;4413
+codice_redazionale: 078U4413
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,31 +20,20 @@ Considerando che il Ministero gia' ebbe a contribuire ragguardevole somma per ad
 
 Considerando essere di grandissima utilita' per gli studi archeologici l'avere in regione cosi' ferace di scoperte, qual e' quella di Sassari, luogo acconcio ad accogliere e conservare altresi' i monumenti che man mano si andranno scoprendo per ragione degli scavi che quivi si eseguiranno per opera del Governo;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' istituito nella Universita' di Sassari un Regio Museo di antichita'.
 
-  
-  
-E' istituito nella Universita' di Sassari un Regio Museo di antichita'.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' assegnata la somma di lire 500 (cinquecento) a titolo di dotazione pel detto Museo, da prelevarsi dalle quote di sussidio che il Municipio e la provincia di Sassari si obbligarono di annualmente corrispondere ad incremento degli studi universitari di quella citta'.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 26 maggio 1878.   
-  
-UMBERTO.   
-  
-F. De Sanctis.   
-  
+E' assegnata la somma di lire 500 (cinquecento) a titolo di dotazione pel detto Museo, da prelevarsi dalle quote di sussidio che il Municipio e la provincia di Sassari si obbligarono di annualmente corrispondere ad incremento degli studi universitari di quella citta'. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 maggio 1878. 
+ 
+ UMBERTO. 
+ 
+ F. De Sanctis.

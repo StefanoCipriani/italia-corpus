@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 08 settembre 1918 n. 1411
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1411
+data: 1918-09-08
+titolo: "Erezione in ente morale. (018U1411)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-09-08;1411
+codice_redazionale: 018U1411
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 08 settembre 1918 n. 1411
-=================================================
-
-Erezione in ente morale. (018U1411)
------------------------------------
-
-Entrata in vigore del provvedimento: 27/10/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1411. Decreto Luogotenenziale 8 settembre 1918, col quale, sulla proposta del ministro della marina, l'eredita' del cav. Pasquale Romano fu Antonio a favore di un erigendo Istituto nautico in Brindisi e' costituita in ente morale, e ne e' approvato lo statuto organico relativo.
+1411.
+
+Decreto Luogotenenziale 8 settembre 1918, col quale, sulla proposta del ministro della marina, l'eredita' del cav. Pasquale Romano fu Antonio a favore di un erigendo Istituto nautico in Brindisi e' costituita in ente morale, e ne e' approvato lo statuto organico relativo.

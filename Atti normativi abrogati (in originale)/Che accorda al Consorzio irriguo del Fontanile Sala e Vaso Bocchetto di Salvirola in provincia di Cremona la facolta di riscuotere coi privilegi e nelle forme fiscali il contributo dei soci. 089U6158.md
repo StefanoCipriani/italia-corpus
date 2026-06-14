@@ -1,16 +1,14 @@
-REGIO DECRETO 07 giugno 1889 n. 6158
-
-
-REGIO DECRETO 07 giugno 1889 n. 6158
-====================================
-
-Che accorda al Consorzio irriguo del Fontanile, Sala e Vaso Bocchetto di Salvirola, in provincia di Cremona, la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci. (089U6158)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/07/1889
+---
+tipo: REGIO DECRETO
+numero: 6158
+data: 1889-06-07
+titolo: "Che accorda al Consorzio irriguo del Fontanile, Sala e Vaso Bocchetto di Salvirola, in provincia di Cremona, la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci. (089U6158)"
+urn: urn:nir:stato:regio.decreto:1889-06-07;6158
+codice_redazionale: 089U6158
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,20 @@ Veduto l'atto di costituzione del 27 marzo 1879 nei rogiti del notaio dott. Luig
 
 Vedute le deliberazioni del 10 febbraio e 12 maggio 1889 dell'assemblea generale dei soci, colle quali sono accettate le modificazioni allo statuto suggerite dal Ministero di Agricoltura, Industria e Commercio con note 7 dicembre 1888, N. 36320, e 2 aprile 1889, N. 8688;
 
-Veduta la [legge 29 maggio 1873, N. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (Serie 3ª);
+Veduta la [legge 29 maggio 1873, N. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md) (Serie 3ª);
 
-Sulla
------
+Sulla proposta del Nostro Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' accordata al Consorzio irriguo del Fontanile, Sala e Vaso Bocchetto di Salvirola, in provincia di Cremona, la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 giugno 1889.   
-  
-UMBERTO.   
-  
-L. Miceli.   
-  
-Visto, Il Guardasigilli: ZANARDELLI.   
-  
+E' accordata al Consorzio irriguo del Fontanile, Sala e Vaso Bocchetto di Salvirola, in provincia di Cremona, la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 giugno 1889. 
+ 
+ UMBERTO. 
+ 
+ L. Miceli. 
+ 
+ Visto, Il Guardasigilli: ZANARDELLI.

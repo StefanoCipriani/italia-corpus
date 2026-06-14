@@ -1,16 +1,14 @@
-REGIO DECRETO 16 dicembre 1940 n. 1860
-
-
-REGIO DECRETO 16 dicembre 1940 n. 1860
-======================================
-
-Limite di eta' per la nomina nei ruoli del personale subalterno del Ministero delle finanze. (040U1860)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/02/1941
+---
+tipo: REGIO DECRETO
+numero: 1860
+data: 1940-12-16
+titolo: "Limite di eta' per la nomina nei ruoli del personale subalterno del Ministero delle finanze. (040U1860)"
+urn: urn:nir:stato:regio.decreto:1940-12-16;1860
+codice_redazionale: 040U1860
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,28 +30,22 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Per le nomine nei ruoli del personale subalterno ai sensi dell'articolo 39, ultimo comma, della legge 25 gennaio 1940-XVIII, n. 4, e' concesso un nuovo termine fino al 30 giugno 1941-XIX.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 dicembre 1940-XIX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - Di REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 21 gennaio 1941-XIX   
-  
-Atti del Governo, registro 429, foglio 106. - MANCINI   
+Per le nomine nei ruoli del personale subalterno ai sensi dell'articolo 39, ultimo comma, della legge 25 gennaio 1940-XVIII, n. 4, e' concesso un nuovo termine fino al 30 giugno 1941-XIX. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 dicembre 1940-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - Di REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 21 gennaio 1941-XIX 
+ 
+ Atti del Governo, registro 429, foglio 106. - MANCINI

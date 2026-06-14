@@ -1,16 +1,14 @@
-REGIO DECRETO 04 giugno 1864 n. 1805
-
-
-REGIO DECRETO 04 giugno 1864 n. 1805
-====================================
-
-Col quale e' autorizzata l'iscrizione di un nuovo fondo sul bilancio del Ministero dei Lavori pubblici per sussidio alla Societa' concessionaria delle strade ferrate Calabro-Sicule. (064U1805)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/07/1864
+---
+tipo: REGIO DECRETO
+numero: 1805
+data: 1864-06-04
+titolo: "Col quale e' autorizzata l'iscrizione di un nuovo fondo sul bilancio del Ministero dei Lavori pubblici per sussidio alla Societa' concessionaria delle strade ferrate Calabro-Sicule. (064U1805)"
+urn: urn:nir:stato:regio.decreto:1864-06-04;1805
+codice_redazionale: 064U1805
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Visto l'articolo 3.° della precitata legge 25 agosto 1863, e considerato:
 
 2.° Che in conto di questa somma gia' venne con Decreto Reale del 13 dicembre 1863 autorizzata l'inscrizione di un primo fondo di tre milioni di lire nel bilancio 1863 del Ministero dei Lavori pubblici e non rimarrebbero per cio' a stanziarsi che lire 1,536,729. 31;
 
-Sulla
------
+Sulla proposizione del Ministro delle Finanze; Abbiamo ordinato ed ordiniamo:
 
-proposizione del Ministro delle Finanze; Abbiamo ordinato ed ordiniamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' autorizzata l'inscrizione di un nuovo fondo di lire un milione cinquecento trentasei mila, settecento ventinove, e centesimi trentuno nella parte straordinaria del bilancio 1863 del Ministero dei Lavori pubblici con applicazione al capitolo 175ter - Sussidio alla Societa' concessionaria delle strade ferrate Calabro-Sicule.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 4 giugno 1864.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 14 giugno 1864   
-  
-Reg.° 29 Atti del Governo a c. 142. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-M. Minghetti.   
-  
+E' autorizzata l'inscrizione di un nuovo fondo di lire un milione cinquecento trentasei mila, settecento ventinove, e centesimi trentuno nella parte straordinaria del bilancio 1863 del Ministero dei Lavori pubblici con applicazione al capitolo 175ter - Sussidio alla Societa' concessionaria delle strade ferrate Calabro-Sicule. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 4 giugno 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 14 giugno 1864 
+ 
+ Reg.° 29 Atti del Governo a c. 142. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ M. Minghetti.

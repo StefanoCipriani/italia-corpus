@@ -1,16 +1,14 @@
-REGIO DECRETO 30 maggio 1875 n. 2515
-
-
-REGIO DECRETO 30 maggio 1875 n. 2515
-====================================
-
-Col quale il comune di Praduro e Passo e' distaccato dalla sezione principale del collegio elettorale di Vergato e costituito in sezione separata del collegio medesimo. (075U2515)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/06/1875
+---
+tipo: REGIO DECRETO
+numero: 2515
+data: 1875-05-30
+titolo: "Col quale il comune di Praduro e Passo e' distaccato dalla sezione principale del collegio elettorale di Vergato e costituito in sezione separata del collegio medesimo. (075U2515)"
+urn: urn:nir:stato:regio.decreto:1875-05-30;2515
+codice_redazionale: 075U2515
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Praduro e Sasso e' distaccato dalla sezione principale del Collegio elettorale di Vergato n. 72, e costituito in sezione separata del Collegio medesimo.   
-  
-Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 30 maggio 1875.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
+Il comune di Praduro e Sasso e' distaccato dalla sezione principale del Collegio elettorale di Vergato n. 72, e costituito in sezione separata del Collegio medesimo. 
+ 
+ Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 30 maggio 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

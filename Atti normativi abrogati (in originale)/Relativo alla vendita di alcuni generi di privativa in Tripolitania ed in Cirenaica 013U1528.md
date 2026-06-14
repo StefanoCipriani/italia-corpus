@@ -1,22 +1,20 @@
-REGIO DECRETO 28 dicembre 1913 n. 1528
-
-
-REGIO DECRETO 28 dicembre 1913 n. 1528
-======================================
-
-Relativo alla vendita di alcuni generi di privativa in Tripolitania ed in Cirenaica (013U1528)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/03/1914
+---
+tipo: REGIO DECRETO
+numero: 1528
+data: 1913-12-28
+titolo: "Relativo alla vendita di alcuni generi di privativa in Tripolitania ed in Cirenaica (013U1528)"
+urn: urn:nir:stato:regio.decreto:1913-12-28;1528
+codice_redazionale: 013U1528
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 5 novembre 1911, n. 1247](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-11-05;1247), convertito nella [legge 25 febbraio 1912, n. 83](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-02-25;83);
+Visto il [R. decreto 5 novembre 1911, n. 1247](Che%20pone%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20regno%20dItalia%20la%20Tripolitania%20e%20la%20Cirenaica.%20011U1247.md), convertito nella [legge 25 febbraio 1912, n. 83](Che%20converte%20in%20legge%20il%20Regio%20decreto%205%20novembre%201911%20n.%201247%20col%20quale%20la%20Tripolitania%20e%20la%20Cirenaica%20sono%20poste%20sotto%20la%20sovranita%20piena%20ed%20intera%20del%20Regno%20dItalia.%20012U0083.md);
 
 Visti i decreti del governatore generale della Tripolitania e della Cirenaica, in data 1° novembre e 20 dicembre 1911, per lo smercio al pubblico dei generi di privativa;
 
@@ -28,63 +26,48 @@ Considerato che nell'interesse dell'industria agricola e zootecnica necessita me
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per le colonie; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per le colonie; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A partire dal giorno che verra' fissato dai rispettivi governi, saranno posti in vendita in Tripolitania e in Cirenaica i seguenti generi di privativa ai prezzi pel pubblico qui sotto indicati; 
+ 
+ Tabacchi da naso del monopolio del Regno: 
+ 
+ Superiori a L. 15 al kg. - in boette da gr. 100; 
+ 
+ 1ª qualita' a L. 10 al kg. - in boette da gr. 500 e 100; 
+ 
+ 2ª qualita' a L. 6 al kg. - in boette da gr. 500; 
+ 
+ Trinciato Samsun 2ª qualita' a L. 5 al kg. - in pacchetti da gr. 20 e 10; 
+ 
+ Sigari fermentati superiori attenuati di nicotina: 
+ 
+ a L. 24 al kg. - (centesimi 12 per sigaro). 
+ 
+ Estratto di tabacco fenicato: 
+ 
+ a L. 1,80 al kg. - in latte da kg. 1; 
+ 
+ a L. 1,70 al kg. - in latte da kg. 2; 
+ 
+ a L. 1,60 al kg. - in latte da kg. 5.
 
-  
-  
-A partire dal giorno che verra' fissato dai rispettivi governi, saranno posti in vendita in Tripolitania e in Cirenaica i seguenti generi di privativa ai prezzi pel pubblico qui sotto indicati;   
-  
-Tabacchi da naso del monopolio del Regno:   
-  
-Superiori a L. 15 al kg. - in boette da gr. 100;   
-  
-1ª qualita' a L. 10 al kg. - in boette da gr. 500 e 100;   
-  
-2ª qualita' a L. 6 al kg. - in boette da gr. 500;   
-  
-Trinciato Samsun 2ª qualita' a L. 5 al kg. - in pacchetti da gr. 20 e 10;   
-  
-Sigari fermentati superiori attenuati di nicotina:   
-  
-a L. 24 al kg. - (centesimi 12 per sigaro).   
-  
-Estratto di tabacco fenicato:   
-  
-a L. 1,80 al kg. - in latte da kg. 1;   
-  
-a L. 1,70 al kg. - in latte da kg. 2;   
-  
-a L. 1,60 al kg. - in latte da kg. 5.   
-  
+## Art. 2.
 
-Art. 2
-------
+L'attuale trinciato Samsun, in pacchetti da 20 grammi, prendera' la denominazione di Samsun 1ª qualita'.
 
-  
-  
-L'attuale trinciato Samsun, in pacchetti da 20 grammi, prendera' la denominazione di Samsun 1ª qualita'.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Come per tutti gli altri tabacchi compresi in tariffa, sul prezzo al pubblico dei suddetti generi e' accordato ai rivenditori lo sconto del 5 %.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 dicembre 1913.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti - Bertolini.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+Come per tutti gli altri tabacchi compresi in tariffa, sul prezzo al pubblico dei suddetti generi e' accordato ai rivenditori lo sconto del 5 %. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 dicembre 1913. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti - Bertolini. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

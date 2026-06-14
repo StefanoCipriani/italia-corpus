@@ -1,20 +1,17 @@
-REGIO DECRETO 20 ottobre 1892 n. 614
+---
+tipo: REGIO DECRETO
+numero: 614
+data: 1892-10-20
+titolo: "Concernente la circoscrizione elettorale politica del Regno. (092U0614)"
+urn: urn:nir:stato:regio.decreto:1892-10-20;614
+codice_redazionale: 092U0614
+vigente: true
+---
 
-
-REGIO DECRETO 20 ottobre 1892 n. 614
-====================================
-
-Concernente la circoscrizione elettorale politica del Regno. (092U0614)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/11/1892
-
-Art. 1
-------
+## Art. 1.
 
 Dato a Monza il 20 ottobre
 
-1892. 
-  
-  
+1892.
+
 N. 614. R. D. che aggrega la frazione di Cerdomare del comune di Poggio Mojano alla sezione elettorale di Poggio Nativo, del Collegio di Poggio Mirteto (Perugia 6º).

@@ -1,16 +1,14 @@
-REGIO DECRETO 05 marzo 1868 n. 4262
-
-
-REGIO DECRETO 05 marzo 1868 n. 4262
-===================================
-
-Di convocazione del Collegio elettorale di Dronero. (068U4262)
---------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/03/1868
+---
+tipo: REGIO DECRETO
+numero: 4262
+data: 1868-03-05
+titolo: "Di convocazione del Collegio elettorale di Dronero. (068U4262)"
+urn: urn:nir:stato:regio.decreto:1868-03-05;4262
+codice_redazionale: 068U4262
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,31 +18,24 @@ Veduto il Messaggio in data del 2 marzo corrente, col quale l'Ufficio di Preside
 
 Veduto l'articolo 63 della Legge per le elezioni politiche 17 dicembre 1860, n. 4513;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Collegio elettorale di Dronero, n. 158, e' convocato pel giorno 22 marzo, affinche' proceda alla elezione del proprio Deputato.   
-  
-Occorrendo una seconda votazione, essa avra' luogo il giorno 29 dello stesso mese.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 5 marzo 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 14 marzo 1868   
-  
-Reg. 42 Atti del Governo a c. 124. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-C. Cadorna.   
-  
+Il Collegio elettorale di Dronero, n. 158, e' convocato pel giorno 22 marzo, affinche' proceda alla elezione del proprio Deputato. 
+ 
+ Occorrendo una seconda votazione, essa avra' luogo il giorno 29 dello stesso mese. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 5 marzo 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 14 marzo 1868 
+ 
+ Reg. 42 Atti del Governo a c. 124. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ C. Cadorna.

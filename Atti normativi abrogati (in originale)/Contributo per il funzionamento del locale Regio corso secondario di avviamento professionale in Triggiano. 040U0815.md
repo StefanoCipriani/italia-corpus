@@ -1,16 +1,14 @@
-REGIO DECRETO 11 gennaio 1940 n. 815
-
-
-REGIO DECRETO 11 gennaio 1940 n. 815
-====================================
-
-Contributo per il funzionamento del locale Regio corso secondario di avviamento professionale in Triggiano. (040U0815)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/07/1940
+---
+tipo: REGIO DECRETO
+numero: 815
+data: 1940-01-11
+titolo: "Contributo per il funzionamento del locale Regio corso secondario di avviamento professionale in Triggiano. (040U0815)"
+urn: urn:nir:stato:regio.decreto:1940-01-11;815
+codice_redazionale: 040U0815
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,26 +20,20 @@ Veduto il R. decreto 21 marzo 1938-XVI, n. 1588 col quale veniva approvata fra a
 
 Considerato che successivamente l'anzidetto comune di Triggiano ha documentato di avere sostenute spese per lire 1340,12 per il funzionamento di quel Regio corso secondario di avviamento professionale, percio' il suindicato contributo gia' liquidato in complessive L. 10.500 va diminuito dell'ammontare delle spese sostenute;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quelli per l'interno e per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quelli per l'interno e per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La tabella annessa al R. decreto 21 marzo 1938-XVI, n. 1588 per quanto riguarda il comune di Triggiano e' modificata conte segue:   
-  
-Parte di provvedimento in formato grafico  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Roma, addi' 11 gennaio 1940-XVIII   
-VITTORIO EMANUELE   
-  
-Mussolini - Bottai - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-Registrato alla Corte dei conti, addi' 12 luglio 1940-XVIII   
-Atti del Governo, registro 423, foglio 79. - Mancini   
+La tabella annessa al R. decreto 21 marzo 1938-XVI, n. 1588 per quanto riguarda il comune di Triggiano e' modificata conte segue: 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 11 gennaio 1940-XVIII 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Bottai - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ Registrato alla Corte dei conti, addi' 12 luglio 1940-XVIII 
+ Atti del Governo, registro 423, foglio 79. - Mancini

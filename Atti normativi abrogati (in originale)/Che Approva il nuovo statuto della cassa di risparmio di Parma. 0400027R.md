@@ -1,22 +1,19 @@
-REGIO DECRETO 28 gennaio 1904 n. XXVII
+---
+tipo: REGIO DECRETO
+numero: XXVII
+data: 1904-01-28
+titolo: "Che Approva il nuovo statuto della cassa di risparmio di Parma. (0400027R)"
+urn: urn:nir:stato:regio.decreto:1904-01-28;27
+codice_redazionale: 0400027R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 gennaio 1904 n. XXVII
-======================================
+Che Approva il nuovo statuto della cassa di risparmio di Parma. - Firmato VITTORIO EMANUELE - Controfirmato Rava - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 11 febbraio
 
-Che Approva il nuovo statuto della cassa di risparmio di Parma. (0400027R)
---------------------------------------------------------------------------
+1904.
 
-Entrata in vigore del provvedimento: 05/03/1904
-
-Art. 1
-------
-
-Che Approva il nuovo statuto della cassa di risparmio di Parma. - Firmato VITTORIO EMANUELE - Controfirmato Rava - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 11 febbraio
-
-1904. 
-  
-  
 Reg. 15. Atti del Governo a f. 53.

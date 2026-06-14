@@ -1,16 +1,14 @@
-REGIO DECRETO 05 settembre 1877 n. 4064
-
-
-REGIO DECRETO 05 settembre 1877 n. 4064
-=======================================
-
-Che autorizza la provincia di Caltanissetta a continuare provvisoriamente per tre anni la percezione del pedaggio lungo la strada Caltanissetta - Piazza ed a trasportare la barriera di percezione del medesimo in localita' diversa da quella ove attualmente esiste. (077U4064)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/10/1877
+---
+tipo: REGIO DECRETO
+numero: 4064
+data: 1877-09-05
+titolo: "Che autorizza la provincia di Caltanissetta a continuare provvisoriamente per tre anni la percezione del pedaggio lungo la strada Caltanissetta - Piazza ed a trasportare la barriera di percezione del medesimo in localita' diversa da quella ove attualmente esiste. (077U4064)"
+urn: urn:nir:stato:regio.decreto:1877-09-05;4064
+codice_redazionale: 077U4064
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,7 +18,7 @@ Vista la domanda inoltrata dall'Amministrazione provinciale di Caltanissetta, di
 
 Visto il Regio decreto 29 settembre 1867, con cui fu autorizzata per tre anni, pure in via provvisoria, l'istituzione della predetta barriera al bivio di Barrafranca;
 
-Visto l'[articolo 38 della legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art38), allegato F;
+Visto l'[articolo 38 della legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_38), allegato F;
 
 Considerando, che essendo dimostrato come il prodotto del pedaggio durante il termine stabilito dal Regio decreto 29 settembre 1867 abbia dato un minimo introito ben lungi dall'indennizzare la provincia delle spese di costruzione della strada, e' percio' giustificata la domanda di proroga, provvisoria per tre anni, salvo alla scadenza dei medesimi di produrre i dati di tale prodotto, onde in base agli stessi ed alle spese di costruzione stabilire il numero d'anni preciso per rimborsare la provincia della totalita' di tali spese a termini di legge;
 
@@ -28,23 +26,16 @@ Che lo spostamento della barriera ha per fine di esigere il pedaggio da un maggi
 
 Uditi gli avvisi del Consiglio Superiore dei Lavori Pubblici e del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' autorizzata la provincia di Caltanissetta a continuare provvisoriamente per tre anni, e sotto l'osservanza del Regio decreto 29 settembre 1867, la percezione del pedaggio lungo la strada Caltanissetta-Piazza, come pure e' autorizzata a trasportare la barriera di percezione di detto pedaggio dal bivio di Barrafranca, ove attualmente esiste, al limite dell'ex-feudo Albano lungo la strada stessa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 5 settembre 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Zanardelli.   
-  
+E' autorizzata la provincia di Caltanissetta a continuare provvisoriamente per tre anni, e sotto l'osservanza del Regio decreto 29 settembre 1867, la percezione del pedaggio lungo la strada Caltanissetta-Piazza, come pure e' autorizzata a trasportare la barriera di percezione di detto pedaggio dal bivio di Barrafranca, ove attualmente esiste, al limite dell'ex-feudo Albano lungo la strada stessa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 5 settembre 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Zanardelli.

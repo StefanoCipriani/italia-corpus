@@ -1,16 +1,14 @@
-REGIO DECRETO 29 gennaio 1922 n. 52
-
-
-REGIO DECRETO 29 gennaio 1922 n. 52
-===================================
-
-Che istituisce un Segretariato generale per la preparazione e il coordinamento dei servizi e dei lavori della Conferenza economica e finanziaria internazionale di Genova. (022U0052)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/02/1922
+---
+tipo: REGIO DECRETO
+numero: 52
+data: 1922-01-29
+titolo: "Che istituisce un Segretariato generale per la preparazione e il coordinamento dei servizi e dei lavori della Conferenza economica e finanziaria internazionale di Genova. (022U0052)"
+urn: urn:nir:stato:regio.decreto:1922-01-29;52
+codice_redazionale: 022U0052
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,39 +22,24 @@ Ritenuta l'opportunita' di affidare ad un apposito organo del Governo la prepara
 
 Su proposta del presidente del Consiglio dei ministri, ministro per l'interno, di concerto coi ministri per gli affari esteri e per il tesoro; Abbiamo decretato e decretiamo:
 
-Art. 1
-------
+## Art. 1.
 
-  
-  
-  
-Per la preparazione ed il coordinamento dei servizi e dei lavori della conferenza economica e finanziaria internazionale di Genova e' temporaneamente istituito un Segretariato generale della conferenza medesima.   
-  
+Per la preparazione ed il coordinamento dei servizi e dei lavori della conferenza economica e finanziaria internazionale di Genova e' temporaneamente istituito un Segretariato generale della conferenza medesima.
 
-Art. 2
-------
+## Art. 2.
 
-  
-  
-  
-Il Segretariato generale e' posto alla dipendenza del presidente del Consiglio dei ministri, il quale corrisponde per suo mezzo coi ministri competenti alla preparazione ed allo svolgimento dei servizi e dei lavori della conferenza di Genova.   
-  
+Il Segretariato generale e' posto alla dipendenza del presidente del Consiglio dei ministri, il quale corrisponde per suo mezzo coi ministri competenti alla preparazione ed allo svolgimento dei servizi e dei lavori della conferenza di Genova.
 
-Art. 3
-------
+## Art. 3.
 
-  
-  
-  
-Il presidente del Consiglio dei ministri e' incaricato dell'esecuzione del presente decreto, che sara' registrato alla Corte dei conti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 gennaio 1922.   
-  
-VITTORIO EMANUELE.   
-  
-BONOMI - DELLA TORRETTA - DE NAVA.   
-  
-Visto, Il guardasigilli: RODINO.   
-  
+Il presidente del Consiglio dei ministri e' incaricato dell'esecuzione del presente decreto, che sara' registrato alla Corte dei conti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 gennaio 1922. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ BONOMI - DELLA TORRETTA - DE NAVA. 
+ 
+ Visto, Il guardasigilli: RODINO.

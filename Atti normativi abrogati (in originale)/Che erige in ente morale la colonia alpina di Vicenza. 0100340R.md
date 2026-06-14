@@ -1,21 +1,17 @@
-REGIO DECRETO 03 novembre 1901 n. CCCXL
+---
+tipo: REGIO DECRETO
+numero: CCCXL
+data: 1901-11-03
+titolo: "Che erige in ente morale la colonia alpina di Vicenza. (0100340R)"
+urn: urn:nir:stato:regio.decreto:1901-11-03;340
+codice_redazionale: 0100340R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 novembre 1901 n. CCCXL
-=======================================
-
-Che erige in ente morale la colonia alpina di Vicenza. (0100340R)
------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/12/1901
-
-Art. 1
-------
-
-  
-Con cui la colonia alpina di Vicenza «Umberto I» viene eretta in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 4 dicembre 1901.   
-  
-Reg. 231. Atti del Governo a f. 164.   
-  
+Con cui la colonia alpina di Vicenza «Umberto I» viene eretta in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 4 dicembre 1901. 
+ 
+ Reg. 231. Atti del Governo a f. 164.

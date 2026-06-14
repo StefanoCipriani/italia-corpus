@@ -1,16 +1,14 @@
-REGIO DECRETO 20 ottobre 1894 n. 462
-
-
-REGIO DECRETO 20 ottobre 1894 n. 462
-====================================
-
-Sul conferimento delle decorazioni dell'Ordine Militare di Savoia. (094U0462)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/11/1894
+---
+tipo: REGIO DECRETO
+numero: 462
+data: 1894-10-20
+titolo: "Sul conferimento delle decorazioni dell'Ordine Militare di Savoia. (094U0462)"
+urn: urn:nir:stato:regio.decreto:1894-10-20;462
+codice_redazionale: 094U0462
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Capo e Gran Maestro dell'Ordine Militare dl Savoia
 
 Visto il R. decreto 28 settembre 1855, relativo alla ricostituzione dell'Ordine Militare di Savoia;
 
-Sulla
------
+Sulla proposta del Ministro della Guerra, Cancelliere dell'Ordine medesimo; Abbiamo decretato e decretiamo:
 
-proposta del Ministro della Guerra, Cancelliere dell'Ordine medesimo; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-All'articolo 17 del suddetto R. decreto e' sostituito il seguente:   
-  
-Riservatine i casi indicati agli articoli 16, 20, 28, ed i casi urgenti che saranno a Noi direttamente segnalati, la decorazione di Cavaliere e di Uffiziale, e sempre poi quella di Gran Croce e di Commendatore, sono conferite da Noi sulla proposta del Ministro della Guerra, sentito il parere del Consiglio dell'Ordine.   
-  
-Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 20 ottobre 1894.   
-  
-UMBERTO.   
-  
-Mocenni.   
-  
-Visto, Il Guardasigilli: V. Calenda di Tavani.   
-  
+All'articolo 17 del suddetto R. decreto e' sostituito il seguente: 
+ 
+ Riservatine i casi indicati agli articoli 16, 20, 28, ed i casi urgenti che saranno a Noi direttamente segnalati, la decorazione di Cavaliere e di Uffiziale, e sempre poi quella di Gran Croce e di Commendatore, sono conferite da Noi sulla proposta del Ministro della Guerra, sentito il parere del Consiglio dell'Ordine. 
+ 
+ Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 20 ottobre 1894. 
+ 
+ UMBERTO. 
+ 
+ Mocenni. 
+ 
+ Visto, Il Guardasigilli: V. Calenda di Tavani.

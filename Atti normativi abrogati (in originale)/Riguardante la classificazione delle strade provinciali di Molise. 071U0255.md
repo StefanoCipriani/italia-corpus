@@ -1,16 +1,14 @@
-REGIO DECRETO 25 maggio 1871 n. 255
-
-
-REGIO DECRETO 25 maggio 1871 n. 255
-===================================
-
-Riguardante la classificazione delle strade provinciali di Molise. (071U0255)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/06/1871
+---
+tipo: REGIO DECRETO
+numero: 255
+data: 1871-05-25
+titolo: "Riguardante la classificazione delle strade provinciali di Molise. (071U0255)"
+urn: urn:nir:stato:regio.decreto:1871-05-25;255
+codice_redazionale: 071U0255
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -38,31 +36,24 @@ Sentiti il Consiglio superiore dei Lavori Pubblici ed il Consiglio di Stato;
 
 Visto l'articolo 14 della Legge 20 marzo 1865, alleg. F;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' aggiunto all'elenco delle strade provinciali di Molise il tronco di strada scorrente dalla meta' del ponte Reale sul Volturno fino all'incontro della nazionale degli Abruzzi.   
-  
-Lo stesso ponte s'intendera', per l'altra meta', come facente parte della strada provinciale n. 30 dell'elenco della Provincia di Caserta.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 25 maggio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 6 giugno 1871   
-  
-Reg. 56 Atti del Governo a c. 39. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-Castagnola.   
-  
+E' aggiunto all'elenco delle strade provinciali di Molise il tronco di strada scorrente dalla meta' del ponte Reale sul Volturno fino all'incontro della nazionale degli Abruzzi. 
+ 
+ Lo stesso ponte s'intendera', per l'altra meta', come facente parte della strada provinciale n. 30 dell'elenco della Provincia di Caserta. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 25 maggio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 6 giugno 1871 
+ 
+ Reg. 56 Atti del Governo a c. 39. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ Castagnola.

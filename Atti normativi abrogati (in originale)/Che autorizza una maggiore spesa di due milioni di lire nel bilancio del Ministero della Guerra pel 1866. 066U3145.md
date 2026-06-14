@@ -1,16 +1,14 @@
-REGIO DECRETO 01 agosto 1866 n. 3145
-
-
-REGIO DECRETO 01 agosto 1866 n. 3145
-====================================
-
-Che autorizza una maggiore spesa di due milioni di lire nel bilancio del Ministero della Guerra pel 1866. (066U3145)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/09/1866
+---
+tipo: REGIO DECRETO
+numero: 3145
+data: 1866-08-01
+titolo: "Che autorizza una maggiore spesa di due milioni di lire nel bilancio del Ministero della Guerra pel 1866. (066U3145)"
+urn: urn:nir:stato:regio.decreto:1866-08-01;3145
+codice_redazionale: 066U3145
+vigente: true
+---
 
 EUGENIO
--------
 
 PRINCIPE DI SAVOJA-CARIGNANO
 
@@ -22,32 +20,25 @@ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-In virtu' dell'autorita' a Noi delegata, e della facolta' conceduta al Governo del Re colla [Legge del 28 giugno 1866, n° 2987](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1866-06-28;2987);
+In virtu' dell'autorita' a Noi delegata, e della facolta' conceduta al Governo del Re colla [Legge del 28 giugno 1866, n° 2987](Per%20la%20prorogazione%20e%20pel%20conferimento%20di%20facolta%20straordinarie%20al%20Governo%20durante%20la%20guerra.%20066U2987.md);
 
-Sulla
------
+Sulla proposizione del Ministro delle Finanze, a seguito di deliberazione presa in Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-proposizione del Ministro delle Finanze, a seguito di deliberazione presa in Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al capitolo 40bis del bilancio della Guerra pel 1866, denominato Opere di fortificazioni e fabbricati dipendenti a difesa dello Stato e spese diverse pel servizio del Genio, e' autorizzata una maggiore spesa di due milioni di lire.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 1° agosto 1866.   
-  
-EUGENIO DI SAVOJA   
-  
-Registrato alla Corte dei conti addi' 16 agosto 1866   
-  
-Reg.° 37 Atti del Governo a c. 30 Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Borgatti.   
-  
-A. Scialoja.   
-I. Pettinengo.   
-  
+Al capitolo 40bis del bilancio della Guerra pel 1866, denominato Opere di fortificazioni e fabbricati dipendenti a difesa dello Stato e spese diverse pel servizio del Genio, e' autorizzata una maggiore spesa di due milioni di lire. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 1° agosto 1866. 
+ 
+ EUGENIO DI SAVOJA 
+ 
+ Registrato alla Corte dei conti addi' 16 agosto 1866 
+ 
+ Reg.° 37 Atti del Governo a c. 30 Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ A. Scialoja. 
+ I. Pettinengo.

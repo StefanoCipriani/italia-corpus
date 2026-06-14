@@ -1,16 +1,14 @@
-REGIO DECRETO 30 novembre 1879 n. 5171
-
-
-REGIO DECRETO 30 novembre 1879 n. 5171
-======================================
-
-Col quale si provvede alla concentrazione del Collegio, Consiglio ed Archivio notarile di Pavullo nel Frignano. (079U5171)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/12/1879
+---
+tipo: REGIO DECRETO
+numero: 5171
+data: 1879-11-30
+titolo: "Col quale si provvede alla concentrazione del Collegio, Consiglio ed Archivio notarile di Pavullo nel Frignano. (079U5171)"
+urn: urn:nir:stato:regio.decreto:1879-11-30;5171
+codice_redazionale: 079U5171
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,21 @@ Considerato che il distretto notarile di Pavullo nel Frignano deve necessariamen
 
 In virtu' della facolta' concessa dall'art. 145 della legge surricordata sul riordinamento del Notariato, per la quale il Governo del Re e' autorizzato a provvedere con decreto Reale alla sistemazione degli Archivi notarili attualmente esistenti;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+## Art. 2.
 
-Art. 2
-------
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 30 novembre 1879.   
-  
-UMBERTO.   
-  
-T. Villa.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 30 novembre 1879. 
+ 
+ UMBERTO. 
+ 
+ T. Villa. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

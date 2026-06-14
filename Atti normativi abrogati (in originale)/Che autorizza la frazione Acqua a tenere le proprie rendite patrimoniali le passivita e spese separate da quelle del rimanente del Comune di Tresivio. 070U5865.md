@@ -1,16 +1,14 @@
-REGIO DECRETO 04 settembre 1870 n. 5865
-
-
-REGIO DECRETO 04 settembre 1870 n. 5865
-=======================================
-
-Che autorizza la frazione Acqua a tenere le proprie rendite patrimoniali, le passivita  e spese separate da quelle del rimanente del Comune di Tresivio. (070U5865)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/10/1870
+---
+tipo: REGIO DECRETO
+numero: 5865
+data: 1870-09-04
+titolo: "Che autorizza la frazione Acqua a tenere le proprie rendite patrimoniali, le passivita e spese separate da quelle del rimanente del Comune di Tresivio. (070U5865)"
+urn: urn:nir:stato:regio.decreto:1870-09-04;5865
+codice_redazionale: 070U5865
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,21 @@ Vista la deliberazione del Consiglio comunale di Tresivio in data 10 gennaio 186
 
 Visto l'articolo 16 della Legge sull'amministrazione comunale e provinciale, in data 20 marzo 1865, allegato A;
 
-Vista
------
+Vista la Legge in data 18 agosto 1870, n. 5815; Abbiamo decretato e decretiamo:
 
-la Legge in data 18 agosto 1870, n. 5815; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La frazione Acqua e' autorizzata a tenere le proprie rendite patrimoniali, le passivita&#160; e le spese separate da quelle del  
-rimanente del Comune di Tresivio, in Provincia di Sondrio.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 4 settembre 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 15 settembre 1870   
-Reg. 52 Atti del Governo a c. 116. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Lanza.   
-  
+La frazione Acqua e' autorizzata a tenere le proprie rendite patrimoniali, le passivita  e le spese separate da quelle del
+rimanente del Comune di Tresivio, in Provincia di Sondrio. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 4 settembre 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 15 settembre 1870 
+ Reg. 52 Atti del Governo a c. 116. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Lanza.

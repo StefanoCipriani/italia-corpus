@@ -1,16 +1,14 @@
-REGIO DECRETO 31 dicembre 1864 n. 2098
-
-
-REGIO DECRETO 31 dicembre 1864 n. 2098
-======================================
-
-Col quale sono sciolte le Sezioni circondariali dei Militi a cavallo della Provincia di Trapani. (064U2098)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/02/1865
+---
+tipo: REGIO DECRETO
+numero: 2098
+data: 1864-12-31
+titolo: "Col quale sono sciolte le Sezioni circondariali dei Militi a cavallo della Provincia di Trapani. (064U2098)"
+urn: urn:nir:stato:regio.decreto:1864-12-31;2098
+codice_redazionale: 064U2098
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,45 +22,30 @@ Ritenuto che intanto il relativo servizio della Sicurezza Pubblica puo' essere a
 
 Sulla proposizione del Nostro Ministro Segretario di Stato per gli affari dell'Interno;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono sciolte le attuali tre Sezioni circondariali dei Militi a cavallo della Provincia di Trapani.
 
-  
-  
-Sono sciolte le attuali tre Sezioni circondariali dei Militi a cavallo della Provincia di Trapani.   
-  
+## Art. 2.
 
-Art. 2
-------
+Colla data del primo gennaio 1865 cessa la decorrenza degli stipendi a favore degl'individui componenti dette Sezioni; si procedera' indi alla liquidazione dei conti di amministrazione ed alla sistemazione della incorsa risponsabilita' pei danni e furti.
 
-  
-  
-Colla data del primo gennaio 1865 cessa la decorrenza degli stipendi a favore degl'individui componenti dette Sezioni; si procedera' indi alla liquidazione dei conti di amministrazione ed alla sistemazione della incorsa risponsabilita' pei danni e furti.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-L' ammontare dei compensi che il Nostro Ministro trovasse equo di accordare agli individui colpiti dalla misura del predetto scioglimento, sara' prelevato dai fondi collocati nel Bilancio del Ministero dell'Interno - esercizio 1865 - al Capitolo relativo alle Guardie a cavallo nelle Provincie Siciliane.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 31 dicembre 1864.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corti dei conti addi' 11 gennaio 1865   
-  
-Reg.° 32 Atti del Governo a c. 29. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-G. Lanza.   
-  
+L' ammontare dei compensi che il Nostro Ministro trovasse equo di accordare agli individui colpiti dalla misura del predetto scioglimento, sara' prelevato dai fondi collocati nel Bilancio del Ministero dell'Interno - esercizio 1865 - al Capitolo relativo alle Guardie a cavallo nelle Provincie Siciliane. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 31 dicembre 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corti dei conti addi' 11 gennaio 1865 
+ 
+ Reg.° 32 Atti del Governo a c. 29. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ G. Lanza.

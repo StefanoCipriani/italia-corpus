@@ -1,16 +1,14 @@
-REGIO DECRETO 09 maggio 1912 n. 510
-
-
-REGIO DECRETO 09 maggio 1912 n. 510
-===================================
-
-Col quale viene modificato l'articolo 2 del R. decreto 2 luglio 1911, n. 719, concernente norme per il funzionamento della Commissione di statistica e di legislazione presso il Ministero di grazia e giustizia e dei culti. (012U0510)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/06/1912
+---
+tipo: REGIO DECRETO
+numero: 510
+data: 1912-05-09
+titolo: "Col quale viene modificato l'articolo 2 del R. decreto 2 luglio 1911, n. 719, concernente norme per il funzionamento della Commissione di statistica e di legislazione presso il Ministero di grazia e giustizia e dei culti. (012U0510)"
+urn: urn:nir:stato:regio.decreto:1912-05-09;510
+codice_redazionale: 012U0510
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,25 +20,18 @@ Visto il Nostro decreto del 18 gennaio 1912, n. 31, che da' norme per la costitu
 
 Riconosciuto opportuno che il Consiglio superiore di statistica continui ad essere rappresentato in modo permanente nella Commissione di statistica e legislazione presso il Ministero di grazia e giustizia e dei culti;
 
-Sulla
------
+Sulla proposta del Nostro guardasigilli, ministro segretario di Stato per gli affari di grazia e giustizia e dei culti, di concerto col ministro di agricoltura, industria e commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro guardasigilli, ministro segretario di Stato per gli affari di grazia e giustizia e dei culti, di concerto col ministro di agricoltura, industria e commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nell'art. 2 del Nostro decreto in data del 2 luglio 1911, n. 719, alle parole «il presidente del Consiglio superiore della statistica» sono sostituite le parole «un rappresentante del Consiglio superiore di statistica, designato dal ministro di agricoltura, industria e commercio».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 maggio 1912.   
-  
-VITTORIO EMANUELE.   
-  
-Finocchiaro-Aprile - Nitti.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+Nell'art. 2 del Nostro decreto in data del 2 luglio 1911, n. 719, alle parole «il presidente del Consiglio superiore della statistica» sono sostituite le parole «un rappresentante del Consiglio superiore di statistica, designato dal ministro di agricoltura, industria e commercio». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 maggio 1912. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Finocchiaro-Aprile - Nitti. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

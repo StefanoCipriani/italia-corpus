@@ -1,67 +1,54 @@
-REGIO DECRETO 30 agosto 1919 n. 1625
-
-
-REGIO DECRETO 30 agosto 1919 n. 1625
-====================================
-
-Concernente la riversibilita' del soprassoldo annesso alle medaglie al valore. (019U1625)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/09/1919
+---
+tipo: REGIO DECRETO
+numero: 1625
+data: 1919-08-30
+titolo: "Concernente la riversibilita' del soprassoldo annesso alle medaglie al valore. (019U1625)"
+urn: urn:nir:stato:regio.decreto:1919-08-30;1625
+codice_redazionale: 019U1625
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 22 maggio 1915, n. 671](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);
+Vista la [legge 22 maggio 1915, n. 671](Riflettente%20il%20conferimento%20al%20Governo%20del%20Re%20di%20poteri%20straordinari%20in%20caso%20di%20guerra.%20015U0671.md);
 
 Visto il Regio viglietto 26 marzo 1833 per la istituzione della medaglia in oro e in argento al valore militare;
 
-Visto il [R. decreto 8 dicembre 1887, n. 5100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-12-08;5100) (serie 3ª) per la istituzione della medaglia di bronzo al valor militare;
+Visto il [R. decreto 8 dicembre 1887, n. 5100](Che%20instituisce%20una%20medaglia%20in%20bronzo%20al%20valor%20militare.%20087U5100.md) (serie 3ª) per la istituzione della medaglia di bronzo al valor militare;
 
 Vista la legge 31 dicembre 1848, n. 863, circa il soprassoldo assegnato ai militari fregiati della medaglia d'oro e di argento al valore militare;
 
-Vista la [legge 13 gennaio 1918, n. 17](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1918-01-13;17), per l'autorizzazione al Governo del Re di aumentare il soprassoldo ai decorati della medaglia d'oro e di argento, e di istituire un soprassoldo anche a favore dei militari decorati della medaglia di bronzo al valor militare;
+Vista la [legge 13 gennaio 1918, n. 17](Che%20autorizza%20il%20Governo%20ad%20aumentare%20i%20soprassoldi%20dei%20militari%20e%20degli%20ex-militari%20decorati%20dellOrdine%20militare%20di%20Savoia%20e%20della%20medaglia%20doro%20e%20dargento%20al%20valor%20militare%20ed%20a%20istitui_fc007710aae9.md), per l'autorizzazione al Governo del Re di aumentare il soprassoldo ai decorati della medaglia d'oro e di argento, e di istituire un soprassoldo anche a favore dei militari decorati della medaglia di bronzo al valor militare;
 
-Visto il [decreto Luogotenenziale 10 febbraio 1918, n. 264](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-10;264), per la misura dei soprassoldi delle medaglie d'oro, argento e bronzo al valor militare;
+Visto il [decreto Luogotenenziale 10 febbraio 1918, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-02-10;264), per la misura dei soprassoldi delle medaglie d'oro, argento e bronzo al valor militare;
 
-Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, num. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70);
+Visto il testo unico delle leggi sulle pensioni civili e militari approvato con [R. decreto 21 febbraio 1895, num. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-02-21;70);
 
 Sentito il Consiglio dei ministri:
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'assistenza militare e le pensioni di guerra, di concerto coi ministri della guerra, della marina e del tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per gli affari dell'assistenza militare e le pensioni di guerra, di concerto coi ministri della guerra, della marina e del tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+In caso di morte di un decorato di medaglia al valore militare, il soprassoldo annesso alla medaglia stessa spetta alla vedova, finche' non passi a nuove nozze; ed in mancanza di essa, ai figli legittimi del decorato, cumulativamente, finche' siano minorenni e, se femmine, anche di stato nubili. 
+ 
+ Quando la vedova viva separata, per una ragione qualsiasi, da tutti o da taluno dei detti figli, sia dell'ultimo che di precedente matrimonio, si procede al riparto del soprassoldo ai sensi dell'art. 105 del testo unico 1895, n. 70.
 
-  
-  
-In caso di morte di un decorato di medaglia al valore militare, il soprassoldo annesso alla medaglia stessa spetta alla vedova, finche' non passi a nuove nozze; ed in mancanza di essa, ai figli legittimi del decorato, cumulativamente, finche' siano minorenni e, se femmine, anche di stato nubili.   
-  
-Quando la vedova viva separata, per una ragione qualsiasi, da tutti o da taluno dei detti figli, sia dell'ultimo che di precedente matrimonio, si procede al riparto del soprassoldo ai sensi dell'art. 105 del testo unico 1895, n. 70.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Sono abrogate le disposizioni contrarie al presente decreto, il quale andra' in vigore dal giorno della sua pubblicazione nella Gazzetta ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 30 agosto 1919.   
-  
-VITTORIO EMANUELE.   
-  
-NITTI - DA COMO - ALBRICCI -   
-SECHI - SCHANZER.   
-  
-Visto, Il guardasigilli: MORTARA.   
-  
+Sono abrogate le disposizioni contrarie al presente decreto, il quale andra' in vigore dal giorno della sua pubblicazione nella Gazzetta ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 30 agosto 1919. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ NITTI - DA COMO - ALBRICCI - 
+ SECHI - SCHANZER. 
+ 
+ Visto, Il guardasigilli: MORTARA.

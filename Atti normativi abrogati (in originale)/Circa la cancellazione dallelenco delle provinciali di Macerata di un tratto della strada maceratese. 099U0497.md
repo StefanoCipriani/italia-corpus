@@ -1,26 +1,24 @@
-REGIO DECRETO 24 dicembre 1899 n. 497
-
-
-REGIO DECRETO 24 dicembre 1899 n. 497
-=====================================
-
-Circa la cancellazione dall'elenco delle provinciali di Macerata di un tratto della strada maceratese. (099U0497)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/02/1900
+---
+tipo: REGIO DECRETO
+numero: 497
+data: 1899-12-24
+titolo: "Circa la cancellazione dall'elenco delle provinciali di Macerata di un tratto della strada maceratese. (099U0497)"
+urn: urn:nir:stato:regio.decreto:1899-12-24;497
+codice_redazionale: 099U0497
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduta la [legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato F, sui lavori pubblici;
+Veduta la [legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato F, sui lavori pubblici;
 
-Veduta la legge Comunale e Provinciale, testo unico approvato col [R. decreto 4 maggio 1898, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-05-04;164);
+Veduta la legge Comunale e Provinciale, testo unico approvato col [R. decreto 4 maggio 1898, n. 164](Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md);
 
-Veduto il [R. decreto 23 marzo 1884, n. 2197](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-03-23;2197), di approvazione dell'elenco generale delle strade nazionali del Regno;
+Veduto il [R. decreto 23 marzo 1884, n. 2197](Che%20approva%20lannessovi%20elenco%20generale%20delle%20strade%20nazionali%20del%20Regno.%20084U2197.md), di approvazione dell'elenco generale delle strade nazionali del Regno;
 
 Ritenuto che, in conseguenza dell'apertura all'esercizio della ferrovia da Albacina a Macerata, passo' alla provincia di Macerata il tronco della strada nazionale n. 46 compreso fra Tolentino e Macerata;
 
@@ -42,35 +40,24 @@ Sentito il Consiglio Superiore dei Lavori Pubblici;
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I limiti della strada nazionale n. 46, di cui nell'elenco approvato col [R. decreto 23 marzo 1884, n. 2197](Che%20approva%20lannessovi%20elenco%20generale%20delle%20strade%20nazionali%20del%20Regno.%20084U2197.md), sono stabiliti come segue: 
+ 
+ «Dalla stazione ferroviaria di Foligno all'incontro della strada comunale d'accesso alla stazione di Tolentino, e dalla stazione di Macerata a quella di Loreto».
 
-  
-  
-I limiti della strada nazionale n. 46, di cui nell'elenco approvato col [R. decreto 23 marzo 1884, n. 2197](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-03-23;2197), sono stabiliti come segue:   
-  
-«Dalla stazione ferroviaria di Foligno all'incontro della strada comunale d'accesso alla stazione di Tolentino, e dalla stazione di Macerata a quella di Loreto».   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' cancellato dall'elenco delle strade provinciali di Macerata il tratto della provinciale Maceratese compreso fra la strada nazionale n. 46 e l'incontro della strada di accesso alla stazione ferroviaria di Macerata.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 dicembre 1899.   
-  
-UMBERTO.   
-  
-Lacava.   
-  
-Visto, Il Guardasigilli: A. Bonasi.   
-  
+E' cancellato dall'elenco delle strade provinciali di Macerata il tratto della provinciale Maceratese compreso fra la strada nazionale n. 46 e l'incontro della strada di accesso alla stazione ferroviaria di Macerata. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 dicembre 1899. 
+ 
+ UMBERTO. 
+ 
+ Lacava. 
+ 
+ Visto, Il Guardasigilli: A. Bonasi.

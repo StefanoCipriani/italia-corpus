@@ -1,16 +1,14 @@
-REGIO DECRETO 30 dicembre 1865 n. 2746
-
-
-REGIO DECRETO 30 dicembre 1865 n. 2746
-======================================
-
-Che autorizza l'iscrizione di una rendita consolidata 5 per % per L. 1,400,000 a favore della Cassa Ecclesiastica. (065U2746)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/02/1866
+---
+tipo: REGIO DECRETO
+numero: 2746
+data: 1865-12-30
+titolo: "Che autorizza l'iscrizione di una rendita consolidata 5 per % per L. 1,400,000 a favore della Cassa Ecclesiastica. (065U2746)"
+urn: urn:nir:stato:regio.decreto:1865-12-30;2746
+codice_redazionale: 065U2746
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,37 +24,25 @@ Volendo provvedere alle istanze della Cassa Ecclesiastica per un maggiore abbuon
 
 Sulla proposizione dei Ministri delle Finanze e di Grazia e Giustizia e dei Culti;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il Ministro delle Finanze e' autorizzato a fare inscrivere sul Gran Libro del Debito pubblico dello Stato una rendita consolidata 5 per % intestata a favore della Cassa Ecclesiastica dello Stato per L. 1,400,000 attribuibile per le antiche Provincie dello Stato, delle Marche e dell'Umbria in L. 670,000, e per le Provincie Napoletane in L. 730,000 in acconto del correspettivo dei beni gia' passati al Demanio dello Stato.
 
-  
-  
-Il Ministro delle Finanze e' autorizzato a fare inscrivere sul Gran Libro del Debito pubblico dello Stato una rendita consolidata 5 per % intestata a favore della Cassa Ecclesiastica dello Stato per L. 1,400,000 attribuibile per le antiche Provincie dello Stato, delle Marche e dell'Umbria in L. 670,000, e per le Provincie Napoletane in L. 730,000 in acconto del correspettivo dei beni gia' passati al Demanio dello Stato.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Pel servizio di esse rendite da inscriversi nel corrente semestre con decorrenza dal 1° luglio 1865, e' fatto sulla Tesoreria Centrale dello Stato l'annuo assegno di L. 1,400.000.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze li 30 dicembre 1865.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 25 gennaio 1866   
-Reg.° 35 Atti del Governo a c. 58. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli CORTESE.   
-  
-CORTESE.   
-QUINTINO SELLA.   
-  
-  
+Pel servizio di esse rendite da inscriversi nel corrente semestre con decorrenza dal 1° luglio 1865, e' fatto sulla Tesoreria Centrale dello Stato l'annuo assegno di L. 1,400.000. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze li 30 dicembre 1865. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 25 gennaio 1866 
+ Reg.° 35 Atti del Governo a c. 58. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli CORTESE. 
+ 
+ CORTESE. 
+ QUINTINO SELLA.

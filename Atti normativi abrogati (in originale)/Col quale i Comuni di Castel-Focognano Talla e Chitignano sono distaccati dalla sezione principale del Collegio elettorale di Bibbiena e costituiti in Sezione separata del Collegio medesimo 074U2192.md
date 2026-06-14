@@ -1,16 +1,14 @@
-REGIO DECRETO 29 ottobre 1874 n. 2192
-
-
-REGIO DECRETO 29 ottobre 1874 n. 2192
-=====================================
-
-Col quale i Comuni di Castel-Focognano, Talla e Chitignano sono distaccati dalla sezione principale del Collegio elettorale di Bibbiena e costituiti in Sezione separata del Collegio medesimo (074U2192)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/11/1874
+---
+tipo: REGIO DECRETO
+numero: 2192
+data: 1874-10-29
+titolo: "Col quale i Comuni di Castel-Focognano, Talla e Chitignano sono distaccati dalla sezione principale del Collegio elettorale di Bibbiena e costituiti in Sezione separata del Collegio medesimo (074U2192)"
+urn: urn:nir:stato:regio.decreto:1874-10-29;2192
+codice_redazionale: 074U2192
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Castel Focognano, Talla e Chitignano sono distaccati dalla sezione principale del Collegio elettorale di Bibbiena n. 39, e costituiti in sezione separata del Collegio medesimo, con sede nel capoluogo del primo dei detti comuni.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 29 ottobre 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
+I comuni di Castel Focognano, Talla e Chitignano sono distaccati dalla sezione principale del Collegio elettorale di Bibbiena n. 39, e costituiti in sezione separata del Collegio medesimo, con sede nel capoluogo del primo dei detti comuni. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 29 ottobre 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

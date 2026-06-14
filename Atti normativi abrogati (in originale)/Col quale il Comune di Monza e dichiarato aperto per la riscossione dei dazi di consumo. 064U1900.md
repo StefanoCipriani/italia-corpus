@@ -1,16 +1,14 @@
-REGIO DECRETO 28 agosto 1864 n. 1900
-
-
-REGIO DECRETO 28 agosto 1864 n. 1900
-====================================
-
-Col quale il Comune di Monza e' dichiarato aperto per la riscossione dei dazi di consumo. (064U1900)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/09/1864
+---
+tipo: REGIO DECRETO
+numero: 1900
+data: 1864-08-28
+titolo: "Col quale il Comune di Monza e' dichiarato aperto per la riscossione dei dazi di consumo. (064U1900)"
+urn: urn:nir:stato:regio.decreto:1864-08-28;1900
+codice_redazionale: 064U1900
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Visto il Nostro Decreto 30 stesso mese, n.° 1868;
 
 Sulla proposizione del Presidente del Consiglio, Ministro delle Finanze;
 
-Sentito
--------
+Sentito il parere del Consiglio di Stato; Abbiamo ordinato ed ordiniamo quanto segue:
 
-il parere del Consiglio di Stato; Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Monza, appartenente alla 4.ª classe, e' dichiarato aperto per la riscossione dei dazi di consumo, a datare dal 1.° settembre p. v.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 28 agosto 1864.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 3 settembre 1864   
-  
-Reg.° 30 Atti del Governo a c. 164. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-M. Minghetti.   
-  
+Il Comune di Monza, appartenente alla 4.ª classe, e' dichiarato aperto per la riscossione dei dazi di consumo, a datare dal 1.° settembre p. v. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 28 agosto 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 3 settembre 1864 
+ 
+ Reg.° 30 Atti del Governo a c. 164. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ M. Minghetti.

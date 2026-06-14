@@ -1,16 +1,14 @@
-REGIO DECRETO 06 ottobre 1919 n. 1975
-
-
-REGIO DECRETO 06 ottobre 1919 n. 1975
-=====================================
-
-Che sostituisce l'art. 144 del regolamento generale universitario, approvato con Regio decreto 9 agosto 1910, n. 796, relativamente alla composizione delle Commissioni esaminatrici per gli esami di laurea. (019U1975)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/11/1919
+---
+tipo: REGIO DECRETO
+numero: 1975
+data: 1919-10-06
+titolo: "Che sostituisce l'art. 144 del regolamento generale universitario, approvato con Regio decreto 9 agosto 1910, n. 796, relativamente alla composizione delle Commissioni esaminatrici per gli esami di laurea. (019U1975)"
+urn: urn:nir:stato:regio.decreto:1919-10-06;1975
+codice_redazionale: 019U1975
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,26 +26,20 @@ Sentito il Consiglio di Stato;
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per l'istruzione pubblica; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per l'istruzione pubblica; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-All'art. 144 del regolamento generale universitario, approvato con [Regio decreto 9 agosto 1910, n. 796](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-09;796), e' sostituito il seguente articolo:   
-  
-«Ogni Commissione per gli esami di laurea deve essere composta di undici membri, compreso il preside delle Facolta' che la presiede. Di questi membri, sei sono scelti dalla Facolta' tra i membri ordinari e straordinari e anche fra i professori incaricati che insegnino le discipline a cui si riferiscono la dissertazione e le tesi scelte dal candidato, o che a giudizio della Facolta' possono recare nella discussione una particolare competenza. Gli altri quattro sono nominati dal rettore sulla proposta della Facolta' fra i professori emeriti ed onorari, tra i dottori aggregati ed i liberi docenti, con preferenza per quelli che abbiano esercitato l'insegnamento nell'anno scolastico, ed anche tra altre persone estranee alla Facolta'».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 6 ottobre 1919.   
-  
-VITTORIO EMANUELE.   
-  
-Nitti - Baccelli.   
-  
-Visto, Il guardasigilli: Mortara.   
+All'art. 144 del regolamento generale universitario, approvato con [Regio decreto 9 agosto 1910, n. 796](Che%20approva%20lannesso%20regolamento%20generale%20universitario.%20010U0796.md), e' sostituito il seguente articolo: 
+ 
+ «Ogni Commissione per gli esami di laurea deve essere composta di undici membri, compreso il preside delle Facolta' che la presiede. Di questi membri, sei sono scelti dalla Facolta' tra i membri ordinari e straordinari e anche fra i professori incaricati che insegnino le discipline a cui si riferiscono la dissertazione e le tesi scelte dal candidato, o che a giudizio della Facolta' possono recare nella discussione una particolare competenza. Gli altri quattro sono nominati dal rettore sulla proposta della Facolta' fra i professori emeriti ed onorari, tra i dottori aggregati ed i liberi docenti, con preferenza per quelli che abbiano esercitato l'insegnamento nell'anno scolastico, ed anche tra altre persone estranee alla Facolta'». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 6 ottobre 1919. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Nitti - Baccelli. 
+ 
+ Visto, Il guardasigilli: Mortara.

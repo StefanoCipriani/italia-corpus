@@ -1,16 +1,14 @@
-REGIO DECRETO 19 dicembre 1940 n. 1925
-
-
-REGIO DECRETO 19 dicembre 1940 n. 1925
-======================================
-
-Approvazione del piano particolareggiato di variante al piano di massima della citta' di Milano per la zona tra piazza S. Babila, via Monforte, piazza Risorgimento, via Borgogna, piazza Beccaria e corso Vittorio Emanuele. (040U1925)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/02/1941
+---
+tipo: REGIO DECRETO
+numero: 1925
+data: 1940-12-19
+titolo: "Approvazione del piano particolareggiato di variante al piano di massima della citta' di Milano per la zona tra piazza S. Babila, via Monforte, piazza Risorgimento, via Borgogna, piazza Beccaria e corso Vittorio Emanuele. (040U1925)"
+urn: urn:nir:stato:regio.decreto:1940-12-19;1925
+codice_redazionale: 040U1925
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -56,7 +54,7 @@ c) i ricorsi n. 3 della ditta Emilia Lorek, ved. Faccanoni; n. 9 della ditta Cas
 
 Considerato, circa la contestata necessita' dell'attuazione del piano, che questa e' evidente, come ha dimostrato il comune di Milano e come hanno confermato tutti gli organi riferenti, con i loro pareri e da ultimo il Consiglio superiore dei lavori pubblici;
 
-Considerato, circa il richiesto diritto di prelazione, che questo e' garantito dall'[art. 11 della legge 19 febbraio 1934, n. 433](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-19;433~art11), e pertanto questa questione non riguarda la fase attuale del piano, ma quello della esecuzione, demandata al Comune;
+Considerato, circa il richiesto diritto di prelazione, che questo e' garantito dall'[art. 11 della legge 19 febbraio 1934, n. 433](Approvazione%20del%20piano%20regolatore%20di%20massima%20edilizio%20e%20di%20ampliamento%20di%20Milano%20e%20delle%20norme%20per%20la%20sua%20attuazione.%20034U0433.md), e pertanto questa questione non riguarda la fase attuale del piano, ma quello della esecuzione, demandata al Comune;
 
 Per tali motivi i ricorsi stessi sono da respingere in questa sede;
 
@@ -70,40 +68,34 @@ Ritenuto che appare ammissibile il termine di anni dieci richiesto per l'attuazi
 
 Visti i voti n.ro 884 del 15 aprile 1940-XVIII, e n. 1979 del 28 agosto 1940-XVIII, del Consiglio superiore dei lavori pubblici;
 
-Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md);
 
 Visto l'art. 4 del R. decreto-legge 21 giugno 1938-XVI, n. 1094, convertito nella legge 5 gennaio 1939-XVII, n. 35;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con il Ministro per le finanze e col Ministro per l'educazione nazionale; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con il Ministro per le finanze e col Ministro per l'educazione nazionale; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Respinti tutti i ricorsi prodotti, e con le osservazioni di cui alle premesse, sono approvati, ai sensi e per gli effetti della citata legge 19 febbraio 1934-XII, n. 433, e successive modificazioni, il piano particolareggiato di variante al piano di massima della citta' di Milano per la formazione della nuova via fra piazza Beccaria e San Babila, con diramazione in allacciamento alla via San Pietro all'Orto; per il completamento della piazza S. Babila, con lieve allargamento del tronco di via Monforte compreso tra il corso Venezia e la via degli Arditi; per la formazione della nuova via in allargamento e prolungamento della via Borgogna fino al viale Bianca Maria; per l'allargamento della via Conservatorio e del tronco di via Monforte compreso tra la via Conservatorio e la via Donizetti per rettifica della via Vivaio verso via Monforte e per l'isolamento del Palazzo del Governo in parte del confine ovest, nonche' la variante al piano di massima per il prolungamento della via Borgogna predetta fino al piazzale Risorgimento.   
-  
-Detto piano particolareggiato e di variante, visto, d'ordine Nostro, dal Ministro proponente in una planimetria e in un elenco dei beni da espropriare e soggetti a contributo, in data 12 luglio 1939-XVII e a firma dell'ing. A. Bonicatti, sara' depositato all'Archivio di Stato.   
-  
-E' assegnato al comune di Milano il termine di anni dieci dalla data del presente decreto per compiere tanto le espropriazioni quanto i lavori occorrenti per la esecuzione del piano particolareggiato.   
-  
-Tutte le costruzioni e ricostruzioni, eseguite sia dai privati che dal Comune o suoi concessionari, per l'attuazione del presente piano particolareggiato, saranno esenti per venticinque anni dalla normale imposta sui fabbricati e dalle relative sovrimposte comunale e provinciale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 dicembre 1940-XIX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - GORLA - DI REVEL - BOTTAI   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 22 gennaio 1941-XIX   
-  
-Atti del Governo, registro 429, foglio 109. - MANCINI   
+Respinti tutti i ricorsi prodotti, e con le osservazioni di cui alle premesse, sono approvati, ai sensi e per gli effetti della citata legge 19 febbraio 1934-XII, n. 433, e successive modificazioni, il piano particolareggiato di variante al piano di massima della citta' di Milano per la formazione della nuova via fra piazza Beccaria e San Babila, con diramazione in allacciamento alla via San Pietro all'Orto; per il completamento della piazza S. Babila, con lieve allargamento del tronco di via Monforte compreso tra il corso Venezia e la via degli Arditi; per la formazione della nuova via in allargamento e prolungamento della via Borgogna fino al viale Bianca Maria; per l'allargamento della via Conservatorio e del tronco di via Monforte compreso tra la via Conservatorio e la via Donizetti per rettifica della via Vivaio verso via Monforte e per l'isolamento del Palazzo del Governo in parte del confine ovest, nonche' la variante al piano di massima per il prolungamento della via Borgogna predetta fino al piazzale Risorgimento. 
+ 
+ Detto piano particolareggiato e di variante, visto, d'ordine Nostro, dal Ministro proponente in una planimetria e in un elenco dei beni da espropriare e soggetti a contributo, in data 12 luglio 1939-XVII e a firma dell'ing. A. Bonicatti, sara' depositato all'Archivio di Stato. 
+ 
+ E' assegnato al comune di Milano il termine di anni dieci dalla data del presente decreto per compiere tanto le espropriazioni quanto i lavori occorrenti per la esecuzione del piano particolareggiato. 
+ 
+ Tutte le costruzioni e ricostruzioni, eseguite sia dai privati che dal Comune o suoi concessionari, per l'attuazione del presente piano particolareggiato, saranno esenti per venticinque anni dalla normale imposta sui fabbricati e dalle relative sovrimposte comunale e provinciale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 dicembre 1940-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - GORLA - DI REVEL - BOTTAI 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 22 gennaio 1941-XIX 
+ 
+ Atti del Governo, registro 429, foglio 109. - MANCINI

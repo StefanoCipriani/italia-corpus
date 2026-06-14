@@ -1,19 +1,15 @@
-REGIO DECRETO 16 ottobre 1862 n. DLVIII
+---
+tipo: REGIO DECRETO
+numero: DLVIII
+data: 1862-10-16
+titolo: "Con cui viene dichiarata opera di utilita' pubblica la costruzione di una caserma e magazzini per uso dell'Artiglieria nel Borgo Dora di Torino. (6200558R)"
+urn: urn:nir:stato:regio.decreto:1862-10-16;558
+codice_redazionale: 6200558R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 ottobre 1862 n. DLVIII
-=======================================
-
-Con cui viene dichiarata opera di utilita' pubblica la costruzione di una caserma e magazzini per uso dell'Artiglieria nel Borgo Dora di Torino. (6200558R)
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/10/1862
-
-Art. 1
-------
-
-  
-Con cui viene dichiarata opera di utilita' pubblica la costruzione di una Caserma e Magazzini per uso dell'Artiglieria nel Borgo Dora di Torino, sotto l'osservanza delle norme prescritte dalle leggi vigenti.   
-  
-Torino 16 ottobre 1862   
-  
+Con cui viene dichiarata opera di utilita' pubblica la costruzione di una Caserma e Magazzini per uso dell'Artiglieria nel Borgo Dora di Torino, sotto l'osservanza delle norme prescritte dalle leggi vigenti. 
+ 
+ Torino 16 ottobre 1862

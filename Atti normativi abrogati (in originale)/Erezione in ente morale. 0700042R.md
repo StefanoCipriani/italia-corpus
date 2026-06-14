@@ -1,19 +1,15 @@
-REGIO DECRETO 27 gennaio 1907 n. XLII
+---
+tipo: REGIO DECRETO
+numero: XLII
+data: 1907-01-27
+titolo: "Erezione in ente morale. (0700042R)"
+urn: urn:nir:stato:regio.decreto:1907-01-27;42
+codice_redazionale: 0700042R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 gennaio 1907 n. XLII
-=====================================
-
-Erezione in ente morale. (0700042R)
------------------------------------
-
-Entrata in vigore del provvedimento: 26/03/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. XLII (Dato a Roma, il 27 gennaio 1907), col quale l'orfanotrofio femminile «Famiglia Germano'» di Oppido Mamertina (Reggio Calabria) e' eretto in ente morale ed e' approvato lo statuto organico relativo.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. XLII (Dato a Roma, il 27 gennaio 1907), col quale l'orfanotrofio femminile «Famiglia Germano'» di Oppido Mamertina (Reggio Calabria) e' eretto in ente morale ed e' approvato lo statuto organico relativo.

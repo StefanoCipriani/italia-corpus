@@ -1,16 +1,14 @@
-REGIO DECRETO 03 giugno 1884 n. 2415
-
-
-REGIO DECRETO 03 giugno 1884 n. 2415
-====================================
-
-Concernente il Museo Archeologico e la Galleria degli Arazzi in Firenze. (084U2415)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/07/1884
+---
+tipo: REGIO DECRETO
+numero: 2415
+data: 1884-06-03
+titolo: "Concernente il Museo Archeologico e la Galleria degli Arazzi in Firenze. (084U2415)"
+urn: urn:nir:stato:regio.decreto:1884-06-03;2415
+codice_redazionale: 084U2415
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,33 +20,22 @@ Visto il R. decreto del 10 giugno dello stesso anno, n. 2554 (Serie 2ª), nonche
 
 Vista la possibilita' e la convenienza di dare al Museo Archeologico e alla Galleria degli Arazzi l'ingresso comune che ora non hanno;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il Museo Archeologico e la Galleria degli Arazzi in Firenze avranno un ingresso comune.
 
-  
-  
-Il Museo Archeologico e la Galleria degli Arazzi in Firenze avranno un ingresso comune.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-La tassa per questi due Istituti e' complessivamente fissata in lire una.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 giugno 1884.   
-  
-UMBERTO.   
-  
-Coppino.   
-  
-Visto, Il Guardasigilli: Ferracciu'.   
-  
+La tassa per questi due Istituti e' complessivamente fissata in lire una. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 giugno 1884. 
+ 
+ UMBERTO. 
+ 
+ Coppino. 
+ 
+ Visto, Il Guardasigilli: Ferracciu'.

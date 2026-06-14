@@ -1,16 +1,14 @@
-REGIO DECRETO 26 febbraio 1871 n. 94
-
-
-REGIO DECRETO 26 febbraio 1871 n. 94
-====================================
-
-Per l'applicazione nella Provincia di Roma delle disposizioni afferenti alla retribuzione alle Casse Invalidi. (071U0094)
--------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/03/1871
+---
+tipo: REGIO DECRETO
+numero: 94
+data: 1871-02-26
+titolo: "Per l'applicazione nella Provincia di Roma delle disposizioni afferenti alla retribuzione alle Casse Invalidi. (071U0094)"
+urn: urn:nir:stato:regio.decreto:1871-02-26;94
+codice_redazionale: 071U0094
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,29 +18,22 @@ Visto il Nostro Decreto del 1° novembre 1870, n. 5993, col quale furono mandate
 
 Considerato che col secondo comma dell'articolo 2 di quel Decreto fu stabilito che uno speciale Decreto Reale avrebbe determinato il tempo in cui dovrebbe cominciarsi ad imporre agli equipaggi dei legni ascritti al litorale romano la retribuzione alle Casse Invalidi, stabilita dalla Tabella annessa alla seconda delle menzionate Leggi;
 
-Sulla
------
+Sulla proposta del Ministro della Marina; Abbiamo decretato e decretiamo:
 
-proposta del Ministro della Marina; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La retribuzione alle Casse Invalidi, portata dalla Tabella annessa alla [Legge 28 luglio 1861, n. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1861-07-28;360), cominciera' ad imporsi agli individui inscritti sui ruoli d'equipaggio dei legni appartenenti al Compartimento marittimo di Civitavecchia, che dal 1° aprile prossimo venturo verranno rilasciati dagli Uffici portuarii del Compartimento marittimo medesimo.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 26 febbraio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 6 marzo 1871   
-  
-Reg. 55 Atti del Governo a c. 2. Ayres.   
-  
-Luogo del sigillo V. Il Guardasigilli De Falco.   
-  
-G. Acton.   
-  
+La retribuzione alle Casse Invalidi, portata dalla Tabella annessa alla [Legge 28 luglio 1861, n. 360](Per%20listituzione%20di%20Casse%20degli%20Invalidi%20della%20Marina%20mercantile%20in%20Genova%20Livorno%20Napoli%20Palermo%20e%20Ancona.%20061U0360.md), cominciera' ad imporsi agli individui inscritti sui ruoli d'equipaggio dei legni appartenenti al Compartimento marittimo di Civitavecchia, che dal 1° aprile prossimo venturo verranno rilasciati dagli Uffici portuarii del Compartimento marittimo medesimo. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 26 febbraio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 6 marzo 1871 
+ 
+ Reg. 55 Atti del Governo a c. 2. Ayres. 
+ 
+ Luogo del sigillo V. Il Guardasigilli De Falco. 
+ 
+ G. Acton.

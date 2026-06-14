@@ -1,16 +1,14 @@
-REGIO DECRETO 27 ottobre 1873 n. 1658
-
-
-REGIO DECRETO 27 ottobre 1873 n. 1658
-=====================================
-
-Col quale viene respinto un ricorso del Comune di San Giorgio Albanese in materia di dazio consumo. (073U1658)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/12/1873
+---
+tipo: REGIO DECRETO
+numero: 1658
+data: 1873-10-27
+titolo: "Col quale viene respinto un ricorso del Comune di San Giorgio Albanese in materia di dazio consumo. (073U1658)"
+urn: urn:nir:stato:regio.decreto:1873-10-27;1658
+codice_redazionale: 073U1658
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,23 +26,16 @@ Consultate le Leggi vigenti in materia di dazio consumo;
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il predetto ricorso del Comune di S. Giorgio Albanese viene respinto, restando pienamente confermata la suddetta deliberazione della Deputazione provinciale.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 27 ottobre 1873.   
-  
-VITTORIO EMANUELE   
-  
-M. Minghetti.   
-  
+Il predetto ricorso del Comune di S. Giorgio Albanese viene respinto, restando pienamente confermata la suddetta deliberazione della Deputazione provinciale. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 27 ottobre 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ M. Minghetti.

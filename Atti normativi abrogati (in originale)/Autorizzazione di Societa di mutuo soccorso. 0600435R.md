@@ -1,19 +1,15 @@
-REGIO DECRETO 15 novembre 1906 n. CCCCXXXV
+---
+tipo: REGIO DECRETO
+numero: CCCCXXXV
+data: 1906-11-15
+titolo: "Autorizzazione di Societa' di mutuo soccorso. (0600435R)"
+urn: urn:nir:stato:regio.decreto:1906-11-15;435
+codice_redazionale: 0600435R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 novembre 1906 n. CCCCXXXV
-==========================================
-
-Autorizzazione di Societa' di mutuo soccorso. (0600435R)
---------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/12/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CCCCXXXV (Dato a San Rossore, il 15 novembre 1906), col quale si autorizza «La Mutua Sicurta'», Societa' di soccorso in caso di morte, con sedo in Bologna, ad operare in base alla [legge 26 gennaio 1902, n. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-01-26;9) ed al relativo regolamento, e se ne approva lo statuto.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CCCCXXXV (Dato a San Rossore, il 15 novembre 1906), col quale si autorizza «La Mutua Sicurta'», Societa' di soccorso in caso di morte, con sedo in Bologna, ad operare in base alla [legge 26 gennaio 1902, n. 9](Sulle%20associazioni%20o%20imprese%20tontinarie%20o%20di%20ripartizione.%20002U0009.md) ed al relativo regolamento, e se ne approva lo statuto.

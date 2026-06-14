@@ -1,43 +1,26 @@
-REGIO DECRETO 05 maggio 1895 n. 312
+---
+tipo: REGIO DECRETO
+numero: 312
+data: 1895-05-05
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0312)"
+urn: urn:nir:stato:regio.decreto:1895-05-05;312
+codice_redazionale: 095U0312
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 maggio 1895 n. 312
-===================================
+Il Comune di S. Cono e' aggregato alla Sezione elettorale di S.
+Michele di Ganzaria, del Collegio di Caltagirone.
 
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0312)
----------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 29/05/1895
+Il Comune di Nissoria e' aggregato alla Sezione elettorale di Leonforte, del Collegio di Nicosia.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Il Comune di S. Cono e' aggregato alla Sezione elettorale di S.  
-Michele di Ganzaria, del Collegio di Caltagirone.   
-  
+Il Comune di Raddusa e' aggregato alla sezione elettorale di Rammacca, del Collegio di Regalbuto.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-Il Comune di Nissoria e' aggregato alla Sezione elettorale di Leonforte, del Collegio di Nicosia.   
-  
-
-Art. 3
-------
-
-  
-  
-Il Comune di Raddusa e' aggregato alla sezione elettorale di Rammacca, del Collegio di Regalbuto.   
-  
-
-Art. 4
-------
-
-  
-  
-Il Comune di Aci Castello e' aggregato alla Sezione elettorale di Aci Catena, il Comune di Aci Bonaccorsi alla Sezione elettorale di Aci Sant'Antonio, del Collegio di Acireale.   
-  
+Il Comune di Aci Castello e' aggregato alla Sezione elettorale di Aci Catena, il Comune di Aci Bonaccorsi alla Sezione elettorale di Aci Sant'Antonio, del Collegio di Acireale.

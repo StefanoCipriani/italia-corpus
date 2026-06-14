@@ -1,16 +1,14 @@
-REGIO DECRETO 27 febbraio 1913 n. 167
-
-
-REGIO DECRETO 27 febbraio 1913 n. 167
-=====================================
-
-Col quale il comune di Cornigliano Ligure viene dichiarato in 3ª classe agli effetti del dazio consumo (013U0167)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/03/1913
+---
+tipo: REGIO DECRETO
+numero: 167
+data: 1913-02-27
+titolo: "Col quale il comune di Cornigliano Ligure viene dichiarato in 3ª classe agli effetti del dazio consumo (013U0167)"
+urn: urn:nir:stato:regio.decreto:1913-02-27;167
+codice_redazionale: 013U0167
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,31 +26,22 @@ Vista la tabella approvata col nostro decreto 1° dicembre 1910, n. 846, nella q
 
 Vista la decisione in data 24 febbraio 1912 della Commissione centrale del dazio consumo, emessa ai sensi e per gli effetti previsti dagli articoli 87, 88 e 110 del testo unico delle leggi daziarie sovraindicato;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il comune di Cornigliano Ligure, in provincia di Genova, in conformita' alle mentovate deliberazioni del Consiglio comunale, e' dichiarato di terza classe nei riguardi del dazio consumo, a decorrere dal giorno successivo a quello della pubblicazione del presente decreto nella Gazzetta ufficiale del Regno.
 
-  
-  
-Il comune di Cornigliano Ligure, in provincia di Genova, in conformita' alle mentovate deliberazioni del Consiglio comunale, e' dichiarato di terza classe nei riguardi del dazio consumo, a decorrere dal giorno successivo a quello della pubblicazione del presente decreto nella Gazzetta ufficiale del Regno.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Dal detto giorno, il canone daziario corrisposto dal detto Comune e' aumentato da annue lire undicimilacinquecentoventotto e cent. cinquantadue (L.11.528,52) ad annue lire dodicimilasettecentonovantanove e centesimi novantasette (L. 12.799,97).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 febbraio 1913.   
-  
-VITTORIO EMANUELE.   
-  
-Facta.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
+Dal detto giorno, il canone daziario corrisposto dal detto Comune e' aumentato da annue lire undicimilacinquecentoventotto e cent. cinquantadue (L.11.528,52) ad annue lire dodicimilasettecentonovantanove e centesimi novantasette (L. 12.799,97). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 febbraio 1913. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Facta. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

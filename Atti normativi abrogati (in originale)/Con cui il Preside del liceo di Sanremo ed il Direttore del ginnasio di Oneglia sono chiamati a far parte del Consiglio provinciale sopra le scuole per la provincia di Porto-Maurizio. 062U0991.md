@@ -1,16 +1,14 @@
-REGIO DECRETO 20 novembre 1862 n. 991
-
-
-REGIO DECRETO 20 novembre 1862 n. 991
-=====================================
-
-Con cui il Preside del liceo di Sanremo ed il Direttore del ginnasio di Oneglia sono chiamati a far parte del Consiglio provinciale sopra le scuole per la provincia di Porto-Maurizio. (062U0991)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/12/1862
+---
+tipo: REGIO DECRETO
+numero: 991
+data: 1862-11-20
+titolo: "Con cui il Preside del liceo di Sanremo ed il Direttore del ginnasio di Oneglia sono chiamati a far parte del Consiglio provinciale sopra le scuole per la provincia di Porto-Maurizio. (062U0991)"
+urn: urn:nir:stato:regio.decreto:1862-11-20;991
+codice_redazionale: 062U0991
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Vista la legge 15 luglio 1860, che autorizza il Governo del Re a provvedere con 
 
 Considerato che nel Consiglio provinciale sopra le scuole per la provincia di Porto-Maurizio non hanno i loro rappresentanti diretti gli studi secondari classici, perche' la sede dell'unico liceo della Provincia e' in Sanremo, e nessun ginnasio e' aperto nella citta' di Porto-Maurizio, mentre il piu' vicino e' quello di Oneglia;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del Nostro Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A far parte del Consiglio provinciale sopra le scuole per la Provincia di Porto-Maurizio sono pure chiamati il Preside del liceo di Sanremo e il Direttore del ginnasio di Oneglia.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 20 novembre 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 25 novembre 1862   
-  
-Reg.° 21 Atti del Governo a c. 163. Wehrlin.   
-  
-Luogo del sigillo. V. Il Guardasigilli U. Rattazzi.   
-  
-C. Matteucci.   
-  
+A far parte del Consiglio provinciale sopra le scuole per la Provincia di Porto-Maurizio sono pure chiamati il Preside del liceo di Sanremo e il Direttore del ginnasio di Oneglia. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 20 novembre 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 25 novembre 1862 
+ 
+ Reg.° 21 Atti del Governo a c. 163. Wehrlin. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli U. Rattazzi. 
+ 
+ C. Matteucci.

@@ -1,19 +1,15 @@
-REGIO DECRETO 21 gennaio 1909 n. XVI
+---
+tipo: REGIO DECRETO
+numero: XVI
+data: 1909-01-21
+titolo: "Riflettente approvazione di tassa di famiglia. (0900016R)"
+urn: urn:nir:stato:regio.decreto:1909-01-21;16
+codice_redazionale: 0900016R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 gennaio 1909 n. XVI
-====================================
-
-Riflettente approvazione di tassa di famiglia. (0900016R)
----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/02/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. XVI (Dato a Roma, il 21 gennaio 1909), col quale e' data facolta' al comune di Livorno di applicare, nell'anno 1909, la tassa di famiglia col limite massimo di L. 1100 (millecento).   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. XVI (Dato a Roma, il 21 gennaio 1909), col quale e' data facolta' al comune di Livorno di applicare, nell'anno 1909, la tassa di famiglia col limite massimo di L. 1100 (millecento).

@@ -1,16 +1,14 @@
-REGIO DECRETO 21 luglio 1864 n. 1855
-
-
-REGIO DECRETO 21 luglio 1864 n. 1855
-====================================
-
-Convocazione del Collegio elettorale di Langhirano. (064U1855)
---------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/08/1864
+---
+tipo: REGIO DECRETO
+numero: 1855
+data: 1864-07-21
+titolo: "Convocazione del Collegio elettorale di Langhirano. (064U1855)"
+urn: urn:nir:stato:regio.decreto:1864-07-21;1855
+codice_redazionale: 064U1855
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,31 +18,24 @@ Veduto il Messaggio in data del 12 luglio corrente, col quale l'Ufficio di Presi
 
 Veduto l'articolo 63 della legge per le elezioni politiche 17 dicembre 1860, n.° 4513;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Collegio elettorale di Langhirano, n.° 311, e' convocato pel giorno 14 p. v. agosto affinche' proceda alla elezione del proprio Deputato.   
-  
-Occorrendo una seconda votazione, essa avra' luogo il giorno ventuno stesso mese.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Torino addi' 21 luglio 1864.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 1° agosto 1864   
-  
-Reg.° 30 Atti del Governo a c. 84. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-U. Peruzzi.   
-  
+Il Collegio elettorale di Langhirano, n.° 311, e' convocato pel giorno 14 p. v. agosto affinche' proceda alla elezione del proprio Deputato. 
+ 
+ Occorrendo una seconda votazione, essa avra' luogo il giorno ventuno stesso mese. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Torino addi' 21 luglio 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 1° agosto 1864 
+ 
+ Reg.° 30 Atti del Governo a c. 84. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ U. Peruzzi.

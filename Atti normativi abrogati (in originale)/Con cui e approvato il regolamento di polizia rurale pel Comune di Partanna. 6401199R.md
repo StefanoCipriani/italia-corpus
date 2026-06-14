@@ -1,19 +1,15 @@
-REGIO DECRETO 10 aprile 1864 n. MCXCIX
+---
+tipo: REGIO DECRETO
+numero: MCXCIX
+data: 1864-04-10
+titolo: "Con cui e' approvato il regolamento di polizia rurale pel Comune di Partanna. (6401199R)"
+urn: urn:nir:stato:regio.decreto:1864-04-10;1199
+codice_redazionale: 6401199R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 aprile 1864 n. MCXCIX
-======================================
-
-Con cui e' approvato il regolamento di polizia rurale pel Comune di Partanna. (6401199R)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/04/1864
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia rurale del Comune di Partanna, Provincia di Trapani, in data del 4 marzo corrente anno.   
-  
-Torino 10 aprile 1864   
-  
+Che approva il regolamento di polizia rurale del Comune di Partanna, Provincia di Trapani, in data del 4 marzo corrente anno. 
+ 
+ Torino 10 aprile 1864

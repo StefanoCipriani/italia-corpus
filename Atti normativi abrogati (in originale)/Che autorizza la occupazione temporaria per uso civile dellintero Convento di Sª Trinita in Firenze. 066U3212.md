@@ -1,16 +1,14 @@
-REGIO DECRETO 30 giugno 1866 n. 3212
-
-
-REGIO DECRETO 30 giugno 1866 n. 3212
-====================================
-
-Che autorizza la occupazione temporaria per uso civile dell'intero Convento di Sª Trinita in Firenze. (066U3212)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/10/1866
+---
+tipo: REGIO DECRETO
+numero: 3212
+data: 1866-06-30
+titolo: "Che autorizza la occupazione temporaria per uso civile dell'intero Convento di Sª Trinita in Firenze. (066U3212)"
+urn: urn:nir:stato:regio.decreto:1866-06-30;3212
+codice_redazionale: 066U3212
+vigente: true
+---
 
 EUGENIO
--------
 
 PRINCIPE DI SAVOJA-CARIGNANO
 
@@ -30,30 +28,22 @@ Veduta la deliberazione del Municipio di Firenze in data del 25 aprile p. p., co
 
 Considerando che il crescente numero dei giovani, i quali frequentano le Scuole predette, rende indispensabile di assegnare alle medesime una piu' ampia sede;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' data facolta' al predetto Ministro di occupare temporaneamente l'intero Convento di Sª Trinita in Firenze per uso delle Scuole ginnasiali e liceali del Liceo Dante, provvedendo ai termini dell'art. 1 della Legge precitata 22 dicembre per cio' che concerne il culto, e la conservazione delle opere di arte.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 30 giugno 1866.   
-  
-EUGENIO DI SAVOJA   
-  
-Registrato alla Corte dei conti addi' 27 settembre 1866   
-  
-Reg.º 37 Atti del Governo a. c. 121 Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Borgatti.   
-  
-Berti.   
-  
-  
+E' data facolta' al predetto Ministro di occupare temporaneamente l'intero Convento di Sª Trinita in Firenze per uso delle Scuole ginnasiali e liceali del Liceo Dante, provvedendo ai termini dell'art. 1 della Legge precitata 22 dicembre per cio' che concerne il culto, e la conservazione delle opere di arte. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 30 giugno 1866. 
+ 
+ EUGENIO DI SAVOJA 
+ 
+ Registrato alla Corte dei conti addi' 27 settembre 1866 
+ 
+ Reg.º 37 Atti del Governo a. c. 121 Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ Berti.

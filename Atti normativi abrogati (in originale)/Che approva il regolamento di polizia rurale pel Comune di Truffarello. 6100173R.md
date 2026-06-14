@@ -1,19 +1,15 @@
-REGIO DECRETO 09 ottobre 1861 n. CLXXIII
+---
+tipo: REGIO DECRETO
+numero: CLXXIII
+data: 1861-10-09
+titolo: "Che approva il regolamento di polizia rurale pel Comune di Truffarello. (6100173R)"
+urn: urn:nir:stato:regio.decreto:1861-10-09;173
+codice_redazionale: 6100173R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 ottobre 1861 n. CLXXIII
-========================================
-
-Che approva il regolamento di polizia rurale pel Comune di Truffarello. (6100173R)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/10/1861
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia rurale deliberato dalla Comunita' di Truffarello (Provincia di Torino) con ordinato 18 novembre 1860, modificato nell'adunanza del 21 giugno corrente anno.   
-  
-Torino 9 ottobre 1861   
-  
+Che approva il regolamento di polizia rurale deliberato dalla Comunita' di Truffarello (Provincia di Torino) con ordinato 18 novembre 1860, modificato nell'adunanza del 21 giugno corrente anno. 
+ 
+ Torino 9 ottobre 1861

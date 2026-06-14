@@ -1,21 +1,17 @@
-REGIO DECRETO 16 febbraio 1862 n. CCXCV
+---
+tipo: REGIO DECRETO
+numero: CCXCV
+data: 1862-02-16
+titolo: "Che autorizza i Comuni di Pramollo, Isili, Postua e Nuchis a provvedere, mediante sovraimposta alle contribuzioni dirette, al pagamento del loro canone gabellario; e quello di Grignasco a riscuotere i diritti di gabella. (6200295R)"
+urn: urn:nir:stato:regio.decreto:1862-02-16;295
+codice_redazionale: 6200295R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 febbraio 1862 n. CCXCV
-=======================================
-
-Che autorizza i Comuni di Pramollo, Isili, Postua e Nuchis a provvedere, mediante sovraimposta alle contribuzioni dirette, al pagamento del loro canone gabellario; e quello di Grignasco a riscuotere i diritti di gabella. (6200295R)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/02/1862
-
-Art. 1
-------
-
-  
-Che autorizza i Comuni di Pramollo, Isili, Postua e Nuchis a provvedere, mediante sovraimposta alle contribuzioni dirette, al pagamento del loro canone gabellario;   
-  
-Ed il Comune di Grignasco a riscuotere per tre anni e mezzo i diritti di gabella sul vino, sugli spiriti, sui liquori, sulle carni, e sulla fabbricazione della birra.   
-  
-Torino 16 febbraio 1862   
-  
+Che autorizza i Comuni di Pramollo, Isili, Postua e Nuchis a provvedere, mediante sovraimposta alle contribuzioni dirette, al pagamento del loro canone gabellario; 
+ 
+ Ed il Comune di Grignasco a riscuotere per tre anni e mezzo i diritti di gabella sul vino, sugli spiriti, sui liquori, sulle carni, e sulla fabbricazione della birra. 
+ 
+ Torino 16 febbraio 1862

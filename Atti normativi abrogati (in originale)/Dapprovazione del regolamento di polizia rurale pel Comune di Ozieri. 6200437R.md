@@ -1,19 +1,15 @@
-REGIO DECRETO 18 giugno 1862 n. CCCCXXXVII
+---
+tipo: REGIO DECRETO
+numero: CCCCXXXVII
+data: 1862-06-18
+titolo: "D'approvazione del regolamento di polizia rurale pel Comune di Ozieri. (6200437R)"
+urn: urn:nir:stato:regio.decreto:1862-06-18;437
+codice_redazionale: 6200437R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 giugno 1862 n. CCCCXXXVII
-==========================================
-
-D'approvazione del regolamento di polizia rurale pel Comune di Ozieri. (6200437R)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/06/1862
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia rurale deliberato dalla Comunita' di Ozieri (Provincia di Sassari) in adunanza dell'11 luglio 1861 colle modificazioni adottate cogli ordinati 20 gennaio e 13 maggio corrente anno.   
-  
-Torino 18 giugno 1862   
-  
+Che approva il regolamento di polizia rurale deliberato dalla Comunita' di Ozieri (Provincia di Sassari) in adunanza dell'11 luglio 1861 colle modificazioni adottate cogli ordinati 20 gennaio e 13 maggio corrente anno. 
+ 
+ Torino 18 giugno 1862

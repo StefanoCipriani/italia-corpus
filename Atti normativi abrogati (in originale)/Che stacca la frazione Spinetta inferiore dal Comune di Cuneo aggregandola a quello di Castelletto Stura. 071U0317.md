@@ -1,16 +1,14 @@
-REGIO DECRETO 25 giugno 1871 n. 317
-
-
-REGIO DECRETO 25 giugno 1871 n. 317
-===================================
-
-Che stacca la frazione Spinetta inferiore dal Comune di Cuneo aggregandola a quello di Castelletto Stura. (071U0317)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/08/1871
+---
+tipo: REGIO DECRETO
+numero: 317
+data: 1871-06-25
+titolo: "Che stacca la frazione Spinetta inferiore dal Comune di Cuneo aggregandola a quello di Castelletto Stura. (071U0317)"
+urn: urn:nir:stato:regio.decreto:1871-06-25;317
+codice_redazionale: 071U0317
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,39 +22,28 @@ Viste le deliberazioni dei Consigli comunali di Cuneo e Castelletto Stura, in da
 
 Visto il 2° § dell'articolo 15 della Legge sull'amministrazione comunale e provinciale in data 20 marzo 1865, allegato A;
 
-Vista
------
+Vista la Legge 18 agosto 1870, n. 5815; Abbiamo decretato e decretiamo:
 
-la Legge 18 agosto 1870, n. 5815; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A partire dal 1° settembre 1871, la frazione Spinetta inferiore e' staccata dal Comune di Cuneo ed unita a quello di Castelletto Stura in Provincia di Cuneo. 
+ 
+ I confini territoriali dei Comuni di Cuneo e di Castelletto Stura sono rispettivamente diminuiti ed accresciuti della porzione di territorio, i cui limiti sono segnati in color verde nel tipo planimetrico redatto dal geometra Giovanni Derossi, in data 25 marzo 1870, che sara' d'ordine Nostro vidimato dal Ministro proponente.
 
-  
-  
-A partire dal 1° settembre 1871, la frazione Spinetta inferiore e' staccata dal Comune di Cuneo ed unita a quello di Castelletto Stura in Provincia di Cuneo.   
-  
-I confini territoriali dei Comuni di Cuneo e di Castelletto Stura sono rispettivamente diminuiti ed accresciuti della porzione di territorio, i cui limiti sono segnati in color verde nel tipo planimetrico redatto dal geometra Giovanni Derossi, in data 25 marzo 1870, che sara' d'ordine Nostro vidimato dal Ministro proponente.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Fino alla costituzione dei novelli Consigli comunali di Cuneo e Castelletto Stura, cui si procedera' a cura del Prefetto della Provincia entro il mese di agosto, in base alle attuali liste elettorali amministrative riformate a norma dell'articolo 17 della Legge comunale, le attuali Rappresentanze dei Comuni sunnominati continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione dei futuri Consigli.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 25 giugno 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 8 luglio 1871   
-  
-Reg. 56 Atti del Governo a c. 117. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+Fino alla costituzione dei novelli Consigli comunali di Cuneo e Castelletto Stura, cui si procedera' a cura del Prefetto della Provincia entro il mese di agosto, in base alle attuali liste elettorali amministrative riformate a norma dell'articolo 17 della Legge comunale, le attuali Rappresentanze dei Comuni sunnominati continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione dei futuri Consigli. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 25 giugno 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 8 luglio 1871 
+ 
+ Reg. 56 Atti del Governo a c. 117. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

@@ -1,16 +1,14 @@
-REGIO DECRETO 25 febbraio 1872 n. 698
-
-
-REGIO DECRETO 25 febbraio 1872 n. 698
-=====================================
-
-Col quale il 2° Collegio elettorale di Padova e' diviso in tre Sezioni. (072U0698)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/03/1872
+---
+tipo: REGIO DECRETO
+numero: 698
+data: 1872-02-25
+titolo: "Col quale il 2° Collegio elettorale di Padova e' diviso in tre Sezioni. (072U0698)"
+urn: urn:nir:stato:regio.decreto:1872-02-25;698
+codice_redazionale: 072U0698
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,39 +28,32 @@ Noverandosi tanto nei Comuni indicati sotto la lettera a, come in quelli sotto l
 
 Considerando che per la distanza che intercede fra i Comuni stessi e la sede delle attuali loro Sezioni, Limena, riesce sempre assai malagevole a quegli elettori l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il secondo Collegio elettorale di Padova, n. 451, sara' d'ora in poi diviso in tre Sezioni, ripartite come in appresso:   
-  
-La prima con sede a Limena, composta dei Comuni di Campo S.  
-Martino, Curtarolo, Campo d'Arsego, Vigodarzere, Razzola, Villafranca, Campolungo, Veggian, Mestrin e Rubano.   
-  
-La seconda con sede ad Abano, composta dei Comuni di Cervarese, Saccolungo, Selvazzano, Torreglia, Albignasego, Massera', Carrara S.  
-Giorgio e Carrara S. Stefano.   
-  
-La terza con sede a Noventa, composta dei Comuni di Villanova, Cadoneghe, Vigonza, Saonara, Ponte S. Nicolo', e Casal di Ser Ugo.   
-  
-Ferma rimanendo la Sezione principale di Limena.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 25 febbraio 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 1º marzo 1872   
-  
-Reg. 60 Atti del Governo a c. 1. D. Gherardi.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+Il secondo Collegio elettorale di Padova, n. 451, sara' d'ora in poi diviso in tre Sezioni, ripartite come in appresso: 
+ 
+ La prima con sede a Limena, composta dei Comuni di Campo S.
+Martino, Curtarolo, Campo d'Arsego, Vigodarzere, Razzola, Villafranca, Campolungo, Veggian, Mestrin e Rubano. 
+ 
+ La seconda con sede ad Abano, composta dei Comuni di Cervarese, Saccolungo, Selvazzano, Torreglia, Albignasego, Massera', Carrara S.
+Giorgio e Carrara S. Stefano. 
+ 
+ La terza con sede a Noventa, composta dei Comuni di Villanova, Cadoneghe, Vigonza, Saonara, Ponte S. Nicolo', e Casal di Ser Ugo. 
+ 
+ Ferma rimanendo la Sezione principale di Limena. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 25 febbraio 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 1º marzo 1872 
+ 
+ Reg. 60 Atti del Governo a c. 1. D. Gherardi. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

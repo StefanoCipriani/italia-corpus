@@ -1,16 +1,14 @@
-REGIO DECRETO 13 febbraio 1879 n. 4739
-
-
-REGIO DECRETO 13 febbraio 1879 n. 4739
-======================================
-
-Separa il comune di Fusignano dalla sezione elettorale di Bagnacavallo, e forma una sezione distinta del 2° collegio elettorale di Ravenna. (079U4739)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/03/1879
+---
+tipo: REGIO DECRETO
+numero: 4739
+data: 1879-02-13
+titolo: "Separa il comune di Fusignano dalla sezione elettorale di Bagnacavallo, e forma una sezione distinta del 2° collegio elettorale di Ravenna. (079U4739)"
+urn: urn:nir:stato:regio.decreto:1879-02-13;4739
+codice_redazionale: 079U4739
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Che il capoluogo del detto comune dista da Bagnacavallo chilometri 6 50, ed alcu
 
 Considerato che con la istituzione di una sezione elettorale in Fusignano si rende piu' facile a molti elettori l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Fusignano e' separato dalla sezione elettorale di Bagnacavallo, e formera' una sezione distinta del 2° Collegio elettorale di Ravenna.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 febbraio 1879.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
+Il comune di Fusignano e' separato dalla sezione elettorale di Bagnacavallo, e formera' una sezione distinta del 2° Collegio elettorale di Ravenna. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 febbraio 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.

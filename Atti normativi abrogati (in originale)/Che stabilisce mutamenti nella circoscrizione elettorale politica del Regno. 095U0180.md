@@ -1,17 +1,17 @@
-REGIO DECRETO 18 aprile 1895 n. 180
+---
+tipo: REGIO DECRETO
+numero: 180
+data: 1895-04-18
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0180)"
+urn: urn:nir:stato:regio.decreto:1895-04-18;180
+codice_redazionale: 095U0180
+vigente: true
+---
 
-
-REGIO DECRETO 18 aprile 1895 n. 180
-===================================
-
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0180)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1895
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-180. Il Comune di Montanera e' aggregato alla Sezione elettorale di Marozzo del Collegio di Mondovi'.
+180.
+
+Il Comune di Montanera e' aggregato alla Sezione elettorale di Marozzo del Collegio di Mondovi'.

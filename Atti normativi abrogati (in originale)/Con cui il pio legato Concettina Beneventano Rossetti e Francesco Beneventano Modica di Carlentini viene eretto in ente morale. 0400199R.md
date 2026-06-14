@@ -1,21 +1,17 @@
-REGIO DECRETO 08 maggio 1904 n. CXCIX
+---
+tipo: REGIO DECRETO
+numero: CXCIX
+data: 1904-05-08
+titolo: "Con cui il pio legato Concettina Beneventano Rossetti e Francesco Beneventano Modica di Carlentini, viene eretto in ente morale. (0400199R)"
+urn: urn:nir:stato:regio.decreto:1904-05-08;199
+codice_redazionale: 0400199R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 maggio 1904 n. CXCIX
-=====================================
-
-Con cui il pio legato Concettina Beneventano Rossetti e Francesco Beneventano Modica di Carlentini, viene eretto in ente morale. (0400199R)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/06/1904
-
-Art. 1
-------
-
-  
-Con cui il pio legato Concettina Beneventano Rossetti e Francesco Beneventano Modica di Carlentini, viene eretto in ente morale. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 25 maggio 1904.   
-  
-Reg. 16. Atti del Governo a f. 172.   
-  
+Con cui il pio legato Concettina Beneventano Rossetti e Francesco Beneventano Modica di Carlentini, viene eretto in ente morale. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 25 maggio 1904. 
+ 
+ Reg. 16. Atti del Governo a f. 172.

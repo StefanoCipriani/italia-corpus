@@ -1,39 +1,35 @@
-LEGGE 29 novembre 1928 n. 2755
+---
+tipo: LEGGE
+numero: 2755
+data: 1928-11-29
+titolo: "Conversione in legge del R. decreto-legge 22 dicembre 1927, n. 2407, concernente proroga al 31 dicembre 1928 dei termini di prescrizione in materia di tasse sugli affari. (028U2755)"
+urn: urn:nir:stato:legge:1928-11-29;2755
+codice_redazionale: 028U2755
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 29 novembre 1928 n. 2755
-==============================
-
-Conversione in legge del R. decreto-legge 22 dicembre 1927, n. 2407, concernente proroga al 31 dicembre 1928 dei termini di prescrizione in materia di tasse sugli affari. (028U2755)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/12/1928
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
-  
-RE D'ITALIA   
-  
-Il Senato e la Camera dei deputati hanno approvato;   
-  
-Noi abbiamo sanzionato e promulghiamo quanto segue :   
-  
-Articolo unico.   
-  
-E' convertito in legge il [R. decreto-legge 22 dicembre 1927, n. 2407](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-22;2407), concernente proroga al 31 dicembre 1928 dei termini di prescrizione in materia di tasse sugli affari.   
-  
-Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Roma, addi' 29 novembre 1928 - Anno VII   
-  
-VITTORIO EMANUELE.   
-  
-Mosconi   
-  
-Visto, il Guardasigilli: Rocco.   
-  
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Il Senato e la Camera dei deputati hanno approvato; 
+ 
+ Noi abbiamo sanzionato e promulghiamo quanto segue : 
+ 
+ Articolo unico. 
+ 
+ E' convertito in legge il [R. decreto-legge 22 dicembre 1927, n. 2407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-22;2407), concernente proroga al 31 dicembre 1928 dei termini di prescrizione in materia di tasse sugli affari. 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Roma, addi' 29 novembre 1928 - Anno VII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mosconi 
+ 
+ Visto, il Guardasigilli: Rocco.

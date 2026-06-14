@@ -1,16 +1,14 @@
-REGIO DECRETO 06 marzo 1884 n. 2023
-
-
-REGIO DECRETO 06 marzo 1884 n. 2023
-===================================
-
-Che istituisce un Archivio notarile mandamentale nel comune di Buccheri. (084U2023)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/04/1884
+---
+tipo: REGIO DECRETO
+numero: 2023
+data: 1884-03-06
+titolo: "Che istituisce un Archivio notarile mandamentale nel comune di Buccheri. (084U2023)"
+urn: urn:nir:stato:regio.decreto:1884-03-06;2023
+codice_redazionale: 084U2023
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,24 +18,18 @@ Visti gli articoli 3, 101 e 105 del testo unico delle leggi sul riordinamento de
 
 Vista la domanda inoltrata dal comune di Buccheri, unico interessato, per la istituzione dell'Archivio notarile mandamentale e l'analoga deliberazione, debitamente approvata dalla Deputazione provinciale di Siracusa;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un Archivio notarile mandamentale nel comune di Buccheri, capoluogo di mandamento, distretto di Siracusa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 marzo 1884.   
-  
-UMBERTO.   
-  
-Savelli.   
-  
-Visto, Il Guardasigilli, Savelli.   
+E' istituito un Archivio notarile mandamentale nel comune di Buccheri, capoluogo di mandamento, distretto di Siracusa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 marzo 1884. 
+ 
+ UMBERTO. 
+ 
+ Savelli. 
+ 
+ Visto, Il Guardasigilli, Savelli.

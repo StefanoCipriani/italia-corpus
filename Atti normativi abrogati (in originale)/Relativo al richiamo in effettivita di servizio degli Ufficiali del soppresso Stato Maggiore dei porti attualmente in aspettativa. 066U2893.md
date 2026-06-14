@@ -1,16 +1,14 @@
-REGIO DECRETO 06 maggio 1866 n. 2893
-
-
-REGIO DECRETO 06 maggio 1866 n. 2893
-====================================
-
-Relativo al richiamo in effettivita' di servizio degli Ufficiali del soppresso Stato Maggiore dei porti attualmente in aspettativa. (066U2893)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/05/1866
+---
+tipo: REGIO DECRETO
+numero: 2893
+data: 1866-05-06
+titolo: "Relativo al richiamo in effettivita' di servizio degli Ufficiali del soppresso Stato Maggiore dei porti attualmente in aspettativa. (066U2893)"
+urn: urn:nir:stato:regio.decreto:1866-05-06;2893
+codice_redazionale: 066U2893
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,27 +20,20 @@ Considerato che se col Nostro recente Decreto del 3 volgente mese, il quale stab
 
 Sulla proposta del Nostro Ministro della Marina;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Gli Ufficiali del soppresso Stato Maggiore dei porti, ora in aspettativa per scioglimento di Corpo, potranno essere richiamati in effettivita' di servizio nel rispettivo loro grado e classe restando aggregati allo Stato Maggiore Generale della R. Marina.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Firenze il 6 maggio 1866.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 12 maggio 1866   
-Reg.° 36 Atti del Governo a c. 18. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli DE FALCO.   
-  
-D. ANGIOLETTI.   
-  
+Gli Ufficiali del soppresso Stato Maggiore dei porti, ora in aspettativa per scioglimento di Corpo, potranno essere richiamati in effettivita' di servizio nel rispettivo loro grado e classe restando aggregati allo Stato Maggiore Generale della R. Marina. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Firenze il 6 maggio 1866. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 12 maggio 1866 
+ Reg.° 36 Atti del Governo a c. 18. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli DE FALCO. 
+ 
+ D. ANGIOLETTI.

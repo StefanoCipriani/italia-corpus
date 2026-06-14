@@ -1,19 +1,15 @@
-REGIO DECRETO 23 ottobre 1913 n. 1272
+---
+tipo: REGIO DECRETO
+numero: 1272
+data: 1913-10-23
+titolo: "Erezione in Ente morale e approvazione di statuto (013U1272)"
+urn: urn:nir:stato:regio.decreto:1913-10-23;1272
+codice_redazionale: 013U1272
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 ottobre 1913 n. 1272
-=====================================
-
-Erezione in Ente morale e approvazione di statuto (013U1272)
-------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/12/1913
-
-Art. 1
-------
-
-  
-N. 1272   
-  
-Regio Decreto 23 ottobre 1913, col quale, sulla proposta del Ministro dell'interno, viene eretto in ente morale l'Albergo dei poveri di Caccamo e raggruppato con l'Albergo delle povere vecchie ed e' approvato altresi' lo statuto del nuovo ente.   
-  
+N. 1272 
+ 
+ Regio Decreto 23 ottobre 1913, col quale, sulla proposta del Ministro dell'interno, viene eretto in ente morale l'Albergo dei poveri di Caccamo e raggruppato con l'Albergo delle povere vecchie ed e' approvato altresi' lo statuto del nuovo ente.

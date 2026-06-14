@@ -1,16 +1,14 @@
-REGIO DECRETO 06 gennaio 1901 n. 12
-
-
-REGIO DECRETO 06 gennaio 1901 n. 12
-===================================
-
-Che classifica in prima categoria la bonificazione della Pianura Settentrionale Pisana. (001U0012)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/02/1901
+---
+tipo: REGIO DECRETO
+numero: 12
+data: 1901-01-06
+titolo: "Che classifica in prima categoria la bonificazione della Pianura Settentrionale Pisana. (001U0012)"
+urn: urn:nir:stato:regio.decreto:1901-01-06;12
+codice_redazionale: 001U0012
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Veduto il parere del Consiglio provinciale sanitario;
 
 Sentito il Consiglio Superiore dei Lavori Pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' classificata di prima categoria, a' termini e per gli effetti dei precitati articoli di legge, la bonificazione della Pianura Settentrionale Pisana (Fiume morto).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 gennaio 1901.   
-  
-VITTORIO EMANUELE.   
-  
-Branca.   
-  
-Visto, Il Guardasigilli: Gianturco.   
-  
+E' classificata di prima categoria, a' termini e per gli effetti dei precitati articoli di legge, la bonificazione della Pianura Settentrionale Pisana (Fiume morto). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 gennaio 1901. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Branca. 
+ 
+ Visto, Il Guardasigilli: Gianturco.

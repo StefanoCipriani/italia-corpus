@@ -1,19 +1,15 @@
-REGIO DECRETO 12 luglio 1912 n. 819
+---
+tipo: REGIO DECRETO
+numero: 819
+data: 1912-07-12
+titolo: "Applicazione di tassa di famiglia. (012U0819)"
+urn: urn:nir:stato:regio.decreto:1912-07-12;819
+codice_redazionale: 012U0819
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 luglio 1912 n. 819
-===================================
-
-Applicazione di tassa di famiglia. (012U0819)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 18/08/1912
-
-Art. 1
-------
-
-  
-N. 819   
-  
-Regio decreto 12 luglio 1912, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Feltre di applicare nell' anno 1912, la tassa di famiglia col limite massimo di L. 400.   
-  
+N. 819 
+ 
+ Regio decreto 12 luglio 1912, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Feltre di applicare nell' anno 1912, la tassa di famiglia col limite massimo di L. 400.

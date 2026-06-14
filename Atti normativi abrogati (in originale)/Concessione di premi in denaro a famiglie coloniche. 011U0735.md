@@ -1,19 +1,15 @@
-REGIO DECRETO 25 giugno 1911 n. 735
+---
+tipo: REGIO DECRETO
+numero: 735
+data: 1911-06-25
+titolo: "Concessione di premi in denaro a famiglie coloniche. (011U0735)"
+urn: urn:nir:stato:regio.decreto:1911-06-25;735
+codice_redazionale: 011U0735
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 giugno 1911 n. 735
-===================================
-
-Concessione di premi in denaro a famiglie coloniche. (011U0735)
----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/08/1911
-
-Art. 1
-------
-
-  
-N. 735   
-  
-R. decreto 25 giugno 1911, col quale, sulla proposta del ministro di agricoltura, industria e commercio, si fissano i premi in danaro alle famiglie coloniche immigrate nelle provincie meridionali, Sicilia, Sardegna, Grosseto e Roma.   
-  
+N. 735 
+ 
+ R. decreto 25 giugno 1911, col quale, sulla proposta del ministro di agricoltura, industria e commercio, si fissano i premi in danaro alle famiglie coloniche immigrate nelle provincie meridionali, Sicilia, Sardegna, Grosseto e Roma.

@@ -1,16 +1,14 @@
-REGIO DECRETO 16 gennaio 1936 n. 106
-
-
-REGIO DECRETO 16 gennaio 1936 n. 106
-====================================
-
-Autorizzazione al comune di Pratovecchio a riscuotere le imposte di consumo con la tariffa della classe G. (036U0106)
----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/02/1936
+---
+tipo: REGIO DECRETO
+numero: 106
+data: 1936-01-16
+titolo: "Autorizzazione al comune di Pratovecchio a riscuotere le imposte di consumo con la tariffa della classe G. (036U0106)"
+urn: urn:nir:stato:regio.decreto:1936-01-16;106
+codice_redazionale: 036U0106
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,21 @@ Visto il Nostro decreto 12 luglio 1934, n. 1435, relativo alla ricostituzione de
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Pratovecchio e' autorizzato a continuare a riscuotere, fino al 31 dicembre 1939, le imposte di consumo entro i limiti stabiliti per i Comuni della classe G.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 gennaio 1936 - Anno XIV   
-  
-Vittorio Emanuele.   
-  
-Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 1° febbraio 1936 - Anno XIV   
-Atti del Governo, registro 369, foglio 4. - Mancini.   
-  
-  
+Il comune di Pratovecchio e' autorizzato a continuare a riscuotere, fino al 31 dicembre 1939, le imposte di consumo entro i limiti stabiliti per i Comuni della classe G. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 gennaio 1936 - Anno XIV 
+ 
+ Vittorio Emanuele. 
+ 
+ Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 1° febbraio 1936 - Anno XIV  
+ Atti del Governo, registro 369, foglio 4. - Mancini.

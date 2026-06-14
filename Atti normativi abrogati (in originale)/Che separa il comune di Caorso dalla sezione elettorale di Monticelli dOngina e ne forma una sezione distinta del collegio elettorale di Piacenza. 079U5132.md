@@ -1,16 +1,14 @@
-REGIO DECRETO 11 settembre 1879 n. 5132
-
-
-REGIO DECRETO 11 settembre 1879 n. 5132
-=======================================
-
-Che separa il comune di Caorso dalla sezione elettorale di Monticelli d'Ongina, e ne forma una sezione distinta del collegio elettorale di Piacenza. (079U5132)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/11/1879
+---
+tipo: REGIO DECRETO
+numero: 5132
+data: 1879-09-11
+titolo: "Che separa il comune di Caorso dalla sezione elettorale di Monticelli d'Ongina, e ne forma una sezione distinta del collegio elettorale di Piacenza. (079U5132)"
+urn: urn:nir:stato:regio.decreto:1879-09-11;5132
+codice_redazionale: 079U5132
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,25 +24,19 @@ Che Caorso dista 10 chilometri da Monticelli d'Ongina, per cui riesce incomodo a
 
 Considerato che, istituendo una sezione elettorale in Caorso, si rende piu' facile l'esercizio del diritto elettorale ad un notevole numero di elettori;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Caorso e' separato dalla sezione elettorale di Monticelli d'Ongina, e formera' una sezione distinta del Collegio elettorale di Piacenza.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 11 settembre 1879.   
-  
-UMBERTO   
-  
-T. VILLA.   
-  
-Visto - Il Guardasigilli   
-VARE'.   
+Il comune di Caorso e' separato dalla sezione elettorale di Monticelli d'Ongina, e formera' una sezione distinta del Collegio elettorale di Piacenza. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 11 settembre 1879. 
+ 
+ UMBERTO 
+ 
+ T. VILLA. 
+ 
+ Visto - Il Guardasigilli 
+ VARE'.

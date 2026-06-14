@@ -1,16 +1,14 @@
-REGIO DECRETO 08 novembre 1901 n. CCCLXVII
-
-
-REGIO DECRETO 08 novembre 1901 n. CCCLXVII
-==========================================
-
-Che stabilisce le sezioni elettorali della camera di commercio ed arti di Caserta. (0100367R)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/01/1902
+---
+tipo: REGIO DECRETO
+numero: CCCLXVII
+data: 1901-11-08
+titolo: "Che stabilisce le sezioni elettorali della camera di commercio ed arti di Caserta. (0100367R)"
+urn: urn:nir:stato:regio.decreto:1901-11-08;367
+codice_redazionale: 0100367R
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,45 +18,26 @@ Visto il regio decreto in data 13 novembre 1898, numero CCCLXXVI (parte suppleme
 
 Viste le deliberazioni della camera di commercio ed arti di Caserta in data 1° maggio, 12 luglio e 4 settembre 1901;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' abrogata la tabella delle sezioni elettorali della camera di commercio ed arti di Caserta annessa al regio decreto del 13 novembre 1898, n. CCCLXXVI (parte supplementare).
 
-  
-  
-E' abrogata la tabella delle sezioni elettorali della camera di commercio ed arti di Caserta annessa al regio decreto del 13 novembre 1898, n. CCCLXXVI (parte supplementare).   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Le sezioni elettorali della camera di commercio ed arti di Caserta sono stabilite dall'unita tabella vista d'ordine Nostro dal ministro proponente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Capodimonte (Napoli), addi' 8 novembre 1901.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 26 dicembre 1901.   
-  
-Reg. 231. Atti del Governo a f. 211, F. Rostagno.   
-  
-Luogo del Sigillo. V. Il Guardasigilli F. Cocco-Ortu.   
-  
-G. Baccelli.   
-
-Tabella
-
-  
-TABELLA   
-  
-della circoscrizione elettorale della camera di commercio ed arti di Terra di Lavoro e Benevento residente in Caserta.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=0100367R00100010110001&dgu=1902-01-07&art.dataPubblicazioneGazzetta=1902-01-07&art.codiceRedazionale=0100367R)
-  
+Le sezioni elettorali della camera di commercio ed arti di Caserta sono stabilite dall'unita tabella vista d'ordine Nostro dal ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Capodimonte (Napoli), addi' 8 novembre 1901. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 26 dicembre 1901. 
+ 
+ Reg. 231. Atti del Governo a f. 211, F. Rostagno. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli F. Cocco-Ortu. 
+ 
+ G. Baccelli.

@@ -1,21 +1,17 @@
-REGIO DECRETO 15 maggio 1898 n. CLX
+---
+tipo: REGIO DECRETO
+numero: CLX
+data: 1898-05-15
+titolo: "Con cui il legato Franchini in Napoli viene eretto in ente morale e ne viene approvato lo statuto organico. (9800160R)"
+urn: urn:nir:stato:regio.decreto:1898-05-15;160
+codice_redazionale: 9800160R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 maggio 1898 n. CLX
-===================================
-
-Con cui il legato Franchini in Napoli viene eretto in ente morale e ne viene approvato lo statuto organico. (9800160R)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/06/1898
-
-Art. 1
-------
-
-  
-Con cui il legato Franchini in Napoli viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato UMBERTO - Controfirmato Rudini' - Visto G. Zanardelli.   
-  
-Registrato alla Corte dei Conti addi' 6 giugno 1898.   
-  
-Reg. 215. Atti del Governo a f. 187.   
-  
+Con cui il legato Franchini in Napoli viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato UMBERTO - Controfirmato Rudini' - Visto G. Zanardelli. 
+ 
+ Registrato alla Corte dei Conti addi' 6 giugno 1898. 
+ 
+ Reg. 215. Atti del Governo a f. 187.

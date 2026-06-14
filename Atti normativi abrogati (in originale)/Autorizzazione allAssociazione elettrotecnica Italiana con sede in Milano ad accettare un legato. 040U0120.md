@@ -1,21 +1,21 @@
-REGIO DECRETO 15 febbraio 1940 n. 120
+---
+tipo: REGIO DECRETO
+numero: 120
+data: 1940-02-15
+titolo: "Autorizzazione all'Associazione elettrotecnica Italiana, con sede in Milano, ad accettare un legato. (040U0120)"
+urn: urn:nir:stato:regio.decreto:1940-02-15;120
+codice_redazionale: 040U0120
+vigente: true
+---
 
-
-REGIO DECRETO 15 febbraio 1940 n. 120
-=====================================
-
-Autorizzazione all'Associazione elettrotecnica Italiana, con sede in Milano, ad accettare un legato. (040U0120)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/03/1940
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-120. R. decreto 15 febbraio 1940, col quale, sulla proposta del Ministro per l'educazione nazionale, l'Associazione elettrotecnica italiana, con sede in Milano, viene autorizzata ad accettare il legato di L. 25.000 nominali di rendita italiana 5 % disposto in suo favore dal compianto proc. Gino Rebora.   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 10 marzo 1940-XVIII
+120.
+
+R. decreto 15 febbraio 1940, col quale, sulla proposta del Ministro per l'educazione nazionale, l'Associazione elettrotecnica italiana, con sede in Milano, viene autorizzata ad accettare il legato di L. 25.000 nominali di rendita italiana 5 % disposto in suo favore dal compianto proc. Gino Rebora. 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 10 marzo 1940-XVIII

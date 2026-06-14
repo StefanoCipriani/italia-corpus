@@ -1,16 +1,14 @@
-REGIO DECRETO 14 maggio 1925 n. 812
-
-
-REGIO DECRETO 14 maggio 1925 n. 812
-===================================
-
-Aggregazione degli elettori politici del comune di Deggiano alla sezione elettorale politica intercomunale di Mestriago (Trento). (025U0812)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/06/1925
+---
+tipo: REGIO DECRETO
+numero: 812
+data: 1925-05-14
+titolo: "Aggregazione degli elettori politici del comune di Deggiano alla sezione elettorale politica intercomunale di Mestriago (Trento). (025U0812)"
+urn: urn:nir:stato:regio.decreto:1925-05-14;812
+codice_redazionale: 025U0812
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,31 +28,24 @@ Ritenuto che gli elettori politici dei comuni di Mestriago.
 
 Almazzago, Mastellina, Piano e Reggiano non superano complessivamente il massimo prescritto dalla legge;
 
-Visto l'art. 29 della legge elettorale politica, [testo unico 13 dicembre 1923, n. 2694](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-13;2694);
+Visto l'art. 29 della legge elettorale politica, [testo unico 13 dicembre 1923, n. 2694](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-13;2694);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Gli elettori politici di Deggiano in provincia di Trento sono aggregati alla sezione elettorale politica intercomunale comprendente i comuni di Mestriago, Almazzago, Mastellina e Piano con sede in Mestriago.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare,   
-  
-Dato a Roma, addi' 14 maggio 1925.   
-  
-VITTORIO EMANUELE.   
-  
-Federzoni.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 6 giugno 1925.   
-  
-Atti dei Governo, registro 237, foglio 31 - Granata.   
-  
+Gli elettori politici di Deggiano in provincia di Trento sono aggregati alla sezione elettorale politica intercomunale comprendente i comuni di Mestriago, Almazzago, Mastellina e Piano con sede in Mestriago. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare, 
+ 
+ Dato a Roma, addi' 14 maggio 1925. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Federzoni. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 6 giugno 1925. 
+ 
+ Atti dei Governo, registro 237, foglio 31 - Granata.

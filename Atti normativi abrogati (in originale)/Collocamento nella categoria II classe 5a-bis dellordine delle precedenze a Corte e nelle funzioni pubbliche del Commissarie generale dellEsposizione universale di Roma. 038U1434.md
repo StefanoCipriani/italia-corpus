@@ -1,16 +1,14 @@
-REGIO DECRETO 05 settembre 1938 n. 1434
-
-
-REGIO DECRETO 05 settembre 1938 n. 1434
-=======================================
-
-Collocamento nella categoria II, classe 5a-bis, dell'ordine delle precedenze a Corte e nelle funzioni pubbliche del Commissarie generale dell'Esposizione universale di Roma. (038U1434)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/10/1938
+---
+tipo: REGIO DECRETO
+numero: 1434
+data: 1938-09-05
+titolo: "Collocamento nella categoria II, classe 5a-bis, dell'ordine delle precedenze a Corte e nelle funzioni pubbliche del Commissarie generale dell'Esposizione universale di Roma. (038U1434)"
+urn: urn:nir:stato:regio.decreto:1938-09-05;1434
+codice_redazionale: 038U1434
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,28 +20,22 @@ Visto il R. decreto 16 dicembre 1927-VI, n. 2210, e successive modificazioni, su
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Duce, Primo Ministro Segretario di Stato; Abbiamo decretato e decretiamo:
 
-proposta del Duce, Primo Ministro Segretario di Stato; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Commissario generale dell'Esposizione universale di Roma e' collocato nella categoria 2a, classe 5a-bis, dell'ordine delle precedenze a Corte e nelle funzioni pubbliche, approvato con R. decreto 16 dicembre 1927-VI, n. 2210, e successive modificazioni.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 5 settembre 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 15 settembre 1938 - Anno XVI   
-  
-Atti del Governo, registro 401, foglio 88. - MANCINI.   
+Il Commissario generale dell'Esposizione universale di Roma e' collocato nella categoria 2a, classe 5a-bis, dell'ordine delle precedenze a Corte e nelle funzioni pubbliche, approvato con R. decreto 16 dicembre 1927-VI, n. 2210, e successive modificazioni. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 5 settembre 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 15 settembre 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 401, foglio 88. - MANCINI.

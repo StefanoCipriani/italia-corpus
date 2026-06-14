@@ -1,16 +1,14 @@
-REGIO DECRETO 21 giugno 1883 n. 1412
-
-
-REGIO DECRETO 21 giugno 1883 n. 1412
-====================================
-
-Che istituisce un secondo posto di notaro nel comune di Galati Mamertino, distretto di Patti. (083U1412)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/07/1883
+---
+tipo: REGIO DECRETO
+numero: 1412
+data: 1883-06-21
+titolo: "Che istituisce un secondo posto di notaro nel comune di Galati Mamertino, distretto di Patti. (083U1412)"
+urn: urn:nir:stato:regio.decreto:1883-06-21;1412
+codice_redazionale: 083U1412
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Veduta la domanda fatta dal comune di Galati Mamertino per la istituzione di un 
 
 Ritenuto che sarebbe giustificata la convenienza ed opportunita' della anzidetta domanda;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un secondo posto di notaro nel comune di Galati Mamertino, distretto del Collegio notarile di Patti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 giugno 1883.   
-  
-UMBERTO.   
-  
-Savelli.   
-  
-Visto, Il Guardasigilli: Savelli.   
-  
+E' istituito un secondo posto di notaro nel comune di Galati Mamertino, distretto del Collegio notarile di Patti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 21 giugno 1883. 
+ 
+ UMBERTO. 
+ 
+ Savelli. 
+ 
+ Visto, Il Guardasigilli: Savelli.

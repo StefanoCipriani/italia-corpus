@@ -1,16 +1,14 @@
-REGIO DECRETO 29 dicembre 1941 n. 1526
-
-
-REGIO DECRETO 29 dicembre 1941 n. 1526
-======================================
-
-Autorizzazione al comune di Calascibetta a continuare ad applicare, fino al 31 dicembre 1942, le imposto di consumo entro i limiti stabiliti per la classe G. (041U1526)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/02/1942
+---
+tipo: REGIO DECRETO
+numero: 1526
+data: 1941-12-29
+titolo: "Autorizzazione al comune di Calascibetta a continuare ad applicare, fino al 31 dicembre 1942, le imposto di consumo entro i limiti stabiliti per la classe G. (041U1526)"
+urn: urn:nir:stato:regio.decreto:1941-12-29;1526
+codice_redazionale: 041U1526
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,24 @@ Udita la Commissione centrale per la finanza locale;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per le finanze;
 
-Visto
------
+Visto l'art. 26 del testo unico predetto; Abbiamo decretato e decretiamo:
 
-l'art. 26 del testo unico predetto; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il comune di Calascibetta e' autorizzato a continuare ad applicare le imposte di consumo entro i limiti stabiliti per la classe G, fino al 31 dicembre
 
-1942. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 dicembre 1941-XX   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 20 gennaio 1942-XX   
-  
-Atti del Governo, registro 441, foglio 61. - MANCINI
+1942.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 dicembre 1941-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 20 gennaio 1942-XX 
+ 
+ Atti del Governo, registro 441, foglio 61. - MANCINI

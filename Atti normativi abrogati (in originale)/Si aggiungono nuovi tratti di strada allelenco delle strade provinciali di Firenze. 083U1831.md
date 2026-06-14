@@ -1,16 +1,14 @@
-REGIO DECRETO 16 dicembre 1883 n. 1831
-
-
-REGIO DECRETO 16 dicembre 1883 n. 1831
-======================================
-
-Si aggiungono nuovi tratti di strada all'elenco delle strade provinciali di Firenze. (083U1831)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/02/1884
+---
+tipo: REGIO DECRETO
+numero: 1831
+data: 1883-12-16
+titolo: "Si aggiungono nuovi tratti di strada all'elenco delle strade provinciali di Firenze. (083U1831)"
+urn: urn:nir:stato:regio.decreto:1883-12-16;1831
+codice_redazionale: 083U1831
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,7 +20,7 @@ Vista la deliberazione 27 giugno 1881 della Giunta comunale di Firenzuola, debit
 
 Vista la seguente deliberazione 9 settembre stesso anno del Consiglio provinciale, che voto', sull'istanza del Comune, l'ordine del giorno puro e semplice;
 
-Visto il R. decreto 17 maggio 1883, con cui, in esecuzione della [legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333), vennero iscritte nel numero delle provinciali di serie talune fra le strade contemplate nella citata deliberazione 2 aprile 1881 del Consiglio predetto;
+Visto il R. decreto 17 maggio 1883, con cui, in esecuzione della [legge 23 luglio 1881, n. 333](Che%20autorizza%20la%20spesa%20di%20lire%20225126704%20per%20la%20costruzione%20di%20nuove%20opere%20straordinarie%20stradali%20ed%20idrauliche%20nel%20quindicennio%201881-1895.%20081U0333.md), vennero iscritte nel numero delle provinciali di serie talune fra le strade contemplate nella citata deliberazione 2 aprile 1881 del Consiglio predetto;
 
 Visto il parere dell'ufficio del Genio civile di Firenze, in data 10 luglio 1883;
 
@@ -42,45 +40,42 @@ Visto l'art. 14 della legge 20 marzo 1865, allegato F;
 
 Udito il Consiglio di Stato nel suo voto 14 novembre 1883;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato poi Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato poi Lavori Pubblici, Abbiamo decretato e decretiamo:
-
-Art. 1
-------
+## Art. 1.
 
 Sono aggiunte all'elenco delle strade provinciali di Firenze le seguenti:
 
-1. Tratto della strada Val di Bisenzio, da San Quirico a Montepiano;
+1.
 
-2. Strada dal ponte di San Zeno alla Cantina;
+Tratto della strada Val di Bisenzio, da San Quirico a Montepiano;
 
-3. Strada da San Piero a Sarsino;
+2.
 
-4. Strada Tosco-Romagnola, da San Piero in Bagno ai Mandrioli.
+Strada dal ponte di San Zeno alla Cantina;
 
-Art. 2
-------
+3.
 
-  
-  
-E' radiato invece dal detto elenco il tratto di strada provinciale Valleriana, dal Castagno al confine della provincia di Pisa.   
+Strada da San Piero a Sarsino;
 
-Art. 3
-------
+4.
 
-null
+Strada Tosco-Romagnola, da San Piero in Bagno ai Mandrioli.
 
-1881. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 dicembre 1883.   
-  
-UMBERTO.   
-  
-Genala.   
-  
-Visto, Il Guardasigilli: Savelli.
+## Art. 2.
+
+E' radiato invece dal detto elenco il tratto di strada provinciale Valleriana, dal Castagno al confine della provincia di Pisa.
+
+## Art. 3. — null
+
+1881.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 dicembre 1883. 
+ 
+ UMBERTO. 
+ 
+ Genala. 
+ 
+ Visto, Il Guardasigilli: Savelli.

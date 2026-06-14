@@ -1,21 +1,21 @@
-REGIO DECRETO 04 novembre 1938 n. 2021
+---
+tipo: REGIO DECRETO
+numero: 2021
+data: 1938-11-04
+titolo: "Erezione in ente morale della Cassa scolastica del Regio istituto tecnico a indirizzo industriale di Foggia. (038U2021)"
+urn: urn:nir:stato:regio.decreto:1938-11-04;2021
+codice_redazionale: 038U2021
+vigente: true
+---
 
-
-REGIO DECRETO 04 novembre 1938 n. 2021
-======================================
-
-Erezione in ente morale della Cassa scolastica del Regio istituto tecnico a indirizzo industriale di Foggia. (038U2021)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/01/1939
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2021. R. decreto 4 novembre 1938, col quale, sulla proposta del Ministro per l'educazione nazionale, la Cassa scolastica del Regio istituto tecnico a indirizzo industriale di Foggia viene eretta in ente morale e ne viene approvato lo statuto.   
-  
-Visto, il Guardasigilli: Solmi   
-  
-Registrato alla Corte dei conti, addi' 29 dicembre 1938-XVII
+2021.
+
+R. decreto 4 novembre 1938, col quale, sulla proposta del Ministro per l'educazione nazionale, la Cassa scolastica del Regio istituto tecnico a indirizzo industriale di Foggia viene eretta in ente morale e ne viene approvato lo statuto. 
+ 
+ Visto, il Guardasigilli: Solmi 
+ 
+ Registrato alla Corte dei conti, addi' 29 dicembre 1938-XVII

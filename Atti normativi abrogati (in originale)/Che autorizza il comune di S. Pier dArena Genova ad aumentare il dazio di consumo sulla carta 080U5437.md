@@ -1,16 +1,14 @@
-REGIO DECRETO 06 maggio 1880 n. 5437
-
-
-REGIO DECRETO 06 maggio 1880 n. 5437
-====================================
-
-Che autorizza il comune di S. Pier d'Arena (Genova) ad aumentare il dazio di consumo sulla carta (080U5437)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/07/1880
+---
+tipo: REGIO DECRETO
+numero: 5437
+data: 1880-05-06
+titolo: "Che autorizza il comune di S. Pier d'Arena (Genova) ad aumentare il dazio di consumo sulla carta (080U5437)"
+urn: urn:nir:stato:regio.decreto:1880-05-06;5437
+codice_redazionale: 080U5437
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,32 +18,25 @@ Vista la deliberazione del 26 ottobre 1879, colla quale il Consiglio comunale di
 
 Visto il precitato Regio decreto;
 
-Visto l'articolo 11 dell'allegato L alla [legge 11 agosto 1870, n. 5784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784);
+Visto l'articolo 11 dell'allegato L alla [legge 11 agosto 1870, n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md);
 
 Visto il parere della Camera di commercio ed arti di Genova;
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di San Pier d'Arena e' autorizzato ad elevare il dazio di consumo sulla carta da lire 2 a lire 5 per quintale.   
-  
-Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 maggio 1880.   
-  
-UMBERTO.   
-  
-A. Magliani.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il comune di San Pier d'Arena e' autorizzato ad elevare il dazio di consumo sulla carta da lire 2 a lire 5 per quintale. 
+ 
+ Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 maggio 1880. 
+ 
+ UMBERTO. 
+ 
+ A. Magliani. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

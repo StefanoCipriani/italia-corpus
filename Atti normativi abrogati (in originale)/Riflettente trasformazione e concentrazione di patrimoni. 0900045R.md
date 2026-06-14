@@ -1,19 +1,15 @@
-REGIO DECRETO 10 gennaio 1909 n. XLV
+---
+tipo: REGIO DECRETO
+numero: XLV
+data: 1909-01-10
+titolo: "Riflettente trasformazione e concentrazione di patrimoni. (0900045R)"
+urn: urn:nir:stato:regio.decreto:1909-01-10;45
+codice_redazionale: 0900045R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 gennaio 1909 n. XLV
-====================================
-
-Riflettente trasformazione e concentrazione di patrimoni. (0900045R)
---------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/03/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. XLV (Dato a Roma, il 10 gennaio 1909), col quale il fine inerente al patrimonio delle Confraternite del SS. Sacramento, del SS. Rosario e del SS. Gonfalone di Roccadimezzo (Aquila) e' parzialmente trasformato a favore degli inabili lavoro e dell'infanzia abbandonata ed il patrimonio delle Confraternite stesse e' concentrato nella locale Congregazione di carita'.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. XLV (Dato a Roma, il 10 gennaio 1909), col quale il fine inerente al patrimonio delle Confraternite del SS. Sacramento, del SS. Rosario e del SS. Gonfalone di Roccadimezzo (Aquila) e' parzialmente trasformato a favore degli inabili lavoro e dell'infanzia abbandonata ed il patrimonio delle Confraternite stesse e' concentrato nella locale Congregazione di carita'.

@@ -1,19 +1,15 @@
-REGIO DECRETO 01 giugno 1862 n. CCCCXXV
+---
+tipo: REGIO DECRETO
+numero: CCCCXXV
+data: 1862-06-01
+titolo: "Con cui si autorizza la istituzione di una tasa sui cani nelle Citta' di Spoleto e di Ancona. (6200425R)"
+urn: urn:nir:stato:regio.decreto:1862-06-01;425
+codice_redazionale: 6200425R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 giugno 1862 n. CCCCXXV
-=======================================
-
-Con cui si autorizza la istituzione di una tasa sui cani nelle Citta' di Spoleto e di Ancona. (6200425R)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/06/1862
-
-Art. 1
-------
-
-  
-Col quale si approva un regolamento per la riscossione d'una tassa sui cani nella Citta' di Spoleto nell'Umbria; ed un altro per l'imposizione di una simile tassa a favore della Citta' di Ancona.   
-  
-Torino 1.° giugno 1862   
-  
+Col quale si approva un regolamento per la riscossione d'una tassa sui cani nella Citta' di Spoleto nell'Umbria; ed un altro per l'imposizione di una simile tassa a favore della Citta' di Ancona. 
+ 
+ Torino 1.° giugno 1862

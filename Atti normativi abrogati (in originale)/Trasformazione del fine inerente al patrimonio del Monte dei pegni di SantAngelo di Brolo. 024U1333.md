@@ -1,21 +1,21 @@
-REGIO DECRETO 19 luglio 1924 n. 1333
+---
+tipo: REGIO DECRETO
+numero: 1333
+data: 1924-07-19
+titolo: "Trasformazione del fine inerente al patrimonio del Monte dei pegni di Sant'Angelo di Brolo. (024U1333)"
+urn: urn:nir:stato:regio.decreto:1924-07-19;1333
+codice_redazionale: 024U1333
+vigente: true
+---
 
-
-REGIO DECRETO 19 luglio 1924 n. 1333
-====================================
-
-Trasformazione del fine inerente al patrimonio del Monte dei pegni di Sant'Angelo di Brolo. (024U1333)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/09/1924
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1333. R. decreto 19 luglio 1924, col quale, sulla proposta del Ministro per l'interno, il fine inerente al patrimonio del Monte dei pegni di Sant'Angelo di Brolo viene trasformato in favore del locale Asilo infantile.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 3 settembre 1924.
+1333.
+
+R. decreto 19 luglio 1924, col quale, sulla proposta del Ministro per l'interno, il fine inerente al patrimonio del Monte dei pegni di Sant'Angelo di Brolo viene trasformato in favore del locale Asilo infantile. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 3 settembre 1924.

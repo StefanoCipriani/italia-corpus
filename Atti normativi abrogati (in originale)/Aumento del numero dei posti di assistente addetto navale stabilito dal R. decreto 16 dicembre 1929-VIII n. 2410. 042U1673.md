@@ -1,16 +1,14 @@
-REGIO DECRETO 13 novembre 1942 n. 1673
-
-
-REGIO DECRETO 13 novembre 1942 n. 1673
-======================================
-
-Aumento del numero dei posti di assistente addetto navale stabilito dal R. decreto 16 dicembre 1929-VIII, n. 2410. (042U1673)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/02/1943
+---
+tipo: REGIO DECRETO
+numero: 1673
+data: 1942-11-13
+titolo: "Aumento del numero dei posti di assistente addetto navale stabilito dal R. decreto 16 dicembre 1929-VIII, n. 2410. (042U1673)"
+urn: urn:nir:stato:regio.decreto:1942-11-13;1673
+codice_redazionale: 042U1673
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -40,31 +38,24 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la marina e del Ministro per gli affari esteri, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per la marina e del Ministro per gli affari esteri, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il numero dei posti di assistente addetto navale stabilito dal R. decreto 16 dicembre 1929-VIII, n. 2410, e' elevato definitivamente da, due a tre a decorrere dal 1° gennaio 1942-XX.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e del decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 novembre 1942-XXI   
-  
-VITTORIO EMANUELE   
-  
-  
-MUSSOLINI - CIANO - DI REVEL   
-  
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 25 gennaio 1943-XXI   
-  
-Atti del Governo, registro 453, foglio 116. - MANCINI   
-  
+Il numero dei posti di assistente addetto navale stabilito dal R. decreto 16 dicembre 1929-VIII, n. 2410, e' elevato definitivamente da, due a tre a decorrere dal 1° gennaio 1942-XX. 
+ 
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e del decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+Dato a Roma, addi' 13 novembre 1942-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ 
+ MUSSOLINI - CIANO - DI REVEL 
+ 
+ 
+Visto, il Guardasigilli: GRANDI 
+ 
+Registrato alla Corte dei conti, addi' 25 gennaio 1943-XXI 
+ 
+Atti del Governo, registro 453, foglio 116. - MANCINI

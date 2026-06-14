@@ -1,16 +1,14 @@
-REGIO DECRETO 21 maggio 1876 n. 3134
-
-
-REGIO DECRETO 21 maggio 1876 n. 3134
-====================================
-
-Che costituisce una giunta di vigilanza presso l'istituto tecnico di Palermo. (076U3134)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/06/1876
+---
+tipo: REGIO DECRETO
+numero: 3134
+data: 1876-05-21
+titolo: "Che costituisce una giunta di vigilanza presso l'istituto tecnico di Palermo. (076U3134)"
+urn: urn:nir:stato:regio.decreto:1876-05-21;3134
+codice_redazionale: 076U3134
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,31 +24,20 @@ Veduta la deliberazione del Consiglio di perfezionamento in data del giorno 13 o
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Presso l'Istituto tecnico di Palermo e' costituita una Giunta di vigilanza in conformita' e colle attribuzioni designate dal regolamento per l'istruzione industriale e professionale approvato col Nostro decreto del 18 ottobre 1865.
 
-  
-  
-Presso l'Istituto tecnico di Palermo e' costituita una Giunta di vigilanza in conformita' e colle attribuzioni designate dal regolamento per l'istruzione industriale e professionale approvato col Nostro decreto del 18 ottobre 1865.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' abrogata ogni disposizione contraria al presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 maggio 1876.   
-  
-VITTORIO EMANUELE.   
-  
-Maiorana-Calatabiano.   
-  
+E' abrogata ogni disposizione contraria al presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 21 maggio 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Maiorana-Calatabiano.

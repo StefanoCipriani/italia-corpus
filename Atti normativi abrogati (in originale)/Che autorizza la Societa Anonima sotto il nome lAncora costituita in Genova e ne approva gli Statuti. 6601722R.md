@@ -1,45 +1,47 @@
-REGIO DECRETO 18 febbraio 1866 n. MDCCXXII
+---
+tipo: REGIO DECRETO
+numero: MDCCXXII
+data: 1866-02-18
+titolo: "Che autorizza la Societa' Anonima sotto il nome l'Ancora costituita in Genova, e ne approva gli Statuti. (6601722R)"
+urn: urn:nir:stato:regio.decreto:1866-02-18;1722
+codice_redazionale: 6601722R
+vigente: true
+---
 
+VITTORIO EMANUELE II
 
-REGIO DECRETO 18 febbraio 1866 n. MDCCXXII
-==========================================
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
-Che autorizza la Societa' Anonima sotto il nome l'Ancora costituita in Genova, e ne approva gli Statuti. (6601722R)
--------------------------------------------------------------------------------------------------------------------
+RE D'ITALIA
 
-Entrata in vigore del provvedimento: 29/03/1866
+Visti i documenti comprovanti la costituzione legale della Compagnia l'Ancora per le assicurazioni marittime, con sede in Genova;
 
-Art. 1
-------
+Visto il titolo VII del libro I del Codice di Commercio, ed il Nostro Decreto del 30 dicembre 1865 n.° 2727;
 
-  
-  
-La Societa' Anonima per le assicurazioni marittime, costituita in Genova sotto il nome l'Ancora con atto pubblico 11 novembre 1865, rogato Grasso, e' autorizzata, e ne sono approvati gli Statuti inserti nell'atto medesimo.   
-  
+Sentito il Consiglio di Stato;
 
-Art. 2
-------
+Sulla proposta del Ministro dell'Istruzione Pubblica, reggente il Ministero di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-null
+## Art. 1.
 
-Art. 3
-------
+La Societa' Anonima per le assicurazioni marittime, costituita in Genova sotto il nome l'Ancora con atto pubblico 11 novembre 1865, rogato Grasso, e' autorizzata, e ne sono approvati gli Statuti inserti nell'atto medesimo.
 
-  
-  
-La Societa' contribuira' nelle spese di vigilanza governativa, alla quale e' sottoposta per annue lire cento cinquanta.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 18 febbraio 1866.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 4 marzo 1866   
-  
-Reg° 35 Atti del Governo a c. 115. Ayres.   
-  
-Luogo del Sigillo. V Il Guardasigilli De Falco.   
-  
-Berti.   
-  
+## Art. 2. — null
+
+## Art. 3.
+
+La Societa' contribuira' nelle spese di vigilanza governativa, alla quale e' sottoposta per annue lire cento cinquanta. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 18 febbraio 1866. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 4 marzo 1866 
+ 
+ Reg° 35 Atti del Governo a c. 115. Ayres. 
+ 
+ Luogo del Sigillo. V Il Guardasigilli De Falco. 
+ 
+ Berti.

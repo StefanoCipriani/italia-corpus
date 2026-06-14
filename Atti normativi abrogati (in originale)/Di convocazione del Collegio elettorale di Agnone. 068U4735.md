@@ -1,16 +1,14 @@
-REGIO DECRETO 09 dicembre 1868 n. 4735
-
-
-REGIO DECRETO 09 dicembre 1868 n. 4735
-======================================
-
-Di convocazione del Collegio elettorale di Agnone. (068U4735)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/12/1868
+---
+tipo: REGIO DECRETO
+numero: 4735
+data: 1868-12-09
+titolo: "Di convocazione del Collegio elettorale di Agnone. (068U4735)"
+urn: urn:nir:stato:regio.decreto:1868-12-09;4735
+codice_redazionale: 068U4735
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,30 +18,22 @@ Visto il Messaggio in data del 5 dicembre corrente, col quale l'Ufficio di Presi
 
 Veduto l'articolo 63 della Legge per le elezioni politiche 17 dicembre 1860, n. 4513;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Collegio elettorale di Agnone, n. 256, e' convocato pel giorno 5 gennaio prossimo venturo, affinche' proceda alla elezione del proprio Deputato.   
-  
-Occorrendo una seconda votazione, essa avra' luogo il giorno 10 dello stesso mese.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 9 dicembre 1868.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 13 dicembre 1868   
-Reg. 45 Atti del Governo a c. Ayres.   
-Luogo del sigillo. V. Guardasigilli DE FILIPPO.   
-  
-G. CANTELLI.   
-  
-  
+Il Collegio elettorale di Agnone, n. 256, e' convocato pel giorno 5 gennaio prossimo venturo, affinche' proceda alla elezione del proprio Deputato. 
+ 
+ Occorrendo una seconda votazione, essa avra' luogo il giorno 10 dello stesso mese. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 9 dicembre 1868. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 13 dicembre 1868 
+ Reg. 45 Atti del Governo a c. Ayres. 
+ Luogo del sigillo. V. Guardasigilli DE FILIPPO. 
+ 
+ G. CANTELLI.

@@ -1,19 +1,15 @@
-REGIO DECRETO 01 luglio 1909 n. CCXXXIII
+---
+tipo: REGIO DECRETO
+numero: CCXXXIII
+data: 1909-07-01
+titolo: "Che erige in ente morale le Opere pie « d'Onigo » in Pederobba. (0900233R)"
+urn: urn:nir:stato:regio.decreto:1909-07-01;233
+codice_redazionale: 0900233R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 luglio 1909 n. CCXXXIII
-========================================
-
-Che erige in ente morale le Opere pie « d'Onigo » in Pederobba. (0900233R)
---------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/08/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCXXXIII (Dato a Roma, il 1° luglio 1909), col quale l'istituzione intitolata Opere pie d'Onigo in Pederobba (Treviso) e' eretta in ente morale e ne e' approvato lo statuto organico.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCXXXIII (Dato a Roma, il 1° luglio 1909), col quale l'istituzione intitolata Opere pie d'Onigo in Pederobba (Treviso) e' eretta in ente morale e ne e' approvato lo statuto organico.

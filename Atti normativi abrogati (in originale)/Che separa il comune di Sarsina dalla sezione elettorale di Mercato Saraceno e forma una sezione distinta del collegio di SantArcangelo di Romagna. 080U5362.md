@@ -1,16 +1,14 @@
-REGIO DECRETO 25 marzo 1880 n. 5362
-
-
-REGIO DECRETO 25 marzo 1880 n. 5362
-===================================
-
-Che separa il comune di Sarsina dalla sezione elettorale di Mercato Saraceno e forma una sezione distinta del collegio di Sant'Arcangelo di Romagna. (080U5362)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/05/1880
+---
+tipo: REGIO DECRETO
+numero: 5362
+data: 1880-03-25
+titolo: "Che separa il comune di Sarsina dalla sezione elettorale di Mercato Saraceno e forma una sezione distinta del collegio di Sant'Arcangelo di Romagna. (080U5362)"
+urn: urn:nir:stato:regio.decreto:1880-03-25;5362
+codice_redazionale: 080U5362
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Che Sarsina conta 48 elettori, numero questo superiore a quello fissato per mini
 
 Considerato che con la istituzione di una sezione elettorale in Sarsina sara' reso piu' facile a quegli elettori l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Sarsina e' separato dalla sezione elettorale di Mercato Saraceno e formera' una sezione distinta del Collegio elettorale di Sant'Arcangelo di Romagna.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 marzo 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il comune di Sarsina e' separato dalla sezione elettorale di Mercato Saraceno e formera' una sezione distinta del Collegio elettorale di Sant'Arcangelo di Romagna. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

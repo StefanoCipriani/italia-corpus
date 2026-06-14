@@ -1,16 +1,14 @@
-REGIO DECRETO 08 febbraio 1866 n. 2798
-
-
-REGIO DECRETO 08 febbraio 1866 n. 2798
-======================================
-
-Col quale il Comune di Cefala Diana e' aggregato al Comune di Villafrati, per le operazioni concernenti la nomina del Deputato al Parlamento Nazionale. (066U2798)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/02/1866
+---
+tipo: REGIO DECRETO
+numero: 2798
+data: 1866-02-08
+titolo: "Col quale il Comune di Cefala Diana e' aggregato al Comune di Villafrati, per le operazioni concernenti la nomina del Deputato al Parlamento Nazionale. (066U2798)"
+urn: urn:nir:stato:regio.decreto:1866-02-08;2798
+codice_redazionale: 066U2798
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,27 +24,20 @@ Considerando che nelle liste elettorali politiche del Comune di Cefala Diana in 
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Cefala Diana, Provincia di Palermo, appartenente al Collegio elettorale di Corleone, n.° 303, e' aggregato al Comune vicino di Villafrati, per le operazioni concernenti la nomina del Deputato al Parlamento Nazionale.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 8 febbraio 1866.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 13 febbraio 1866   
-Reg.° 33 Atti del Governo a c. 101. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli DE FALCO.   
-  
-CHIAVES.   
-  
+Il Comune di Cefala Diana, Provincia di Palermo, appartenente al Collegio elettorale di Corleone, n.° 303, e' aggregato al Comune vicino di Villafrati, per le operazioni concernenti la nomina del Deputato al Parlamento Nazionale. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 8 febbraio 1866. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 13 febbraio 1866 
+ Reg.° 33 Atti del Governo a c. 101. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli DE FALCO. 
+ 
+ CHIAVES.

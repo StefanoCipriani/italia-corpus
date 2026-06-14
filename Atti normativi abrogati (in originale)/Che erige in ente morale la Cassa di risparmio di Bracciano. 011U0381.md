@@ -1,19 +1,15 @@
-REGIO DECRETO 23 aprile 1911 n. 381
+---
+tipo: REGIO DECRETO
+numero: 381
+data: 1911-04-23
+titolo: "Che erige in ente morale la Cassa di risparmio di Bracciano. (011U0381)"
+urn: urn:nir:stato:regio.decreto:1911-04-23;381
+codice_redazionale: 011U0381
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 aprile 1911 n. 381
-===================================
-
-Che erige in ente morale la Cassa di risparmio di Bracciano. (011U0381)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/05/1911
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. 381 (Dato a Roma, il 23 aprile 1911), col quale si erige in ente morale la Cassa di risparmio di Bracciano e se ne approva lo statuto organico.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. 381 (Dato a Roma, il 23 aprile 1911), col quale si erige in ente morale la Cassa di risparmio di Bracciano e se ne approva lo statuto organico.

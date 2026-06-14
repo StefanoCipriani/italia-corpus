@@ -1,39 +1,36 @@
-LEGGE 08 luglio 1929 n. 1191
+---
+tipo: LEGGE
+numero: 1191
+data: 1929-07-08
+titolo: "Autorizzazione al Consiglio provinciale dell'economia di Milano a rilasciare delegazioni sulle imposte e sui tributi consigliari a garanzia di mutui da contrarre con le Casse ordinarie di risparmio. (029U1191)"
+urn: urn:nir:stato:legge:1929-07-08;1191
+codice_redazionale: 029U1191
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 08 luglio 1929 n. 1191
-============================
-
-Autorizzazione al Consiglio provinciale dell'economia di Milano a rilasciare delegazioni sulle imposte e sui tributi consigliari a garanzia di mutui da contrarre con le Casse ordinarie di risparmio. (029U1191)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/08/1929
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
-  
-RE D'ITALIA   
-  
-Il Senato e la Camera dei deputati hanno approvato;   
-  
-Noi abbiamo sanzionato e promulghiamo quanto segue:   
-  
-Articolo unico.   
-  
-Il Consiglio provinciale dell'economia di Milano e' autorizzato a rilasciare delegazioni sulle imposte e sui tributi consigliari a garanzia di mutui da assumere con le Casse di risparmio ordinarie.  
-Tali delegazioni avranno gli stessi privilegi e garanzie stabiliti all'[art. 16 della legge 11 dicembre 1910, n. 855](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-11;855~art16), e dal [R. decreto-legge 23 ottobre 1927, n. 2047](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;2047), per le delegazioni sulla sovraimposta fondiaria a favore delle Casse di risparmio ordinarie per mutui concessi a Comuni e Provincie.   
-  
-Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Roma, addi' 8 luglio 1929 - Anno VII   
-  
-VITTORIO EMANUELE.   
-  
-Martelli - Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Il Senato e la Camera dei deputati hanno approvato; 
+ 
+ Noi abbiamo sanzionato e promulghiamo quanto segue: 
+ 
+ Articolo unico. 
+ 
+ Il Consiglio provinciale dell'economia di Milano e' autorizzato a rilasciare delegazioni sulle imposte e sui tributi consigliari a garanzia di mutui da assumere con le Casse di risparmio ordinarie.
+Tali delegazioni avranno gli stessi privilegi e garanzie stabiliti all'[art. 16 della legge 11 dicembre 1910, n. 855](Concernente%20disposizioni%20varie%20per%20la%20Cassa%20dei%20depositi%20e%20prestiti%20e%20le%20gestioni%20annesse.%20010U0855.md), e dal [R. decreto-legge 23 ottobre 1927, n. 2047](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-23;2047), per le delegazioni sulla sovraimposta fondiaria a favore delle Casse di risparmio ordinarie per mutui concessi a Comuni e Provincie. 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Roma, addi' 8 luglio 1929 - Anno VII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Martelli - Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco.

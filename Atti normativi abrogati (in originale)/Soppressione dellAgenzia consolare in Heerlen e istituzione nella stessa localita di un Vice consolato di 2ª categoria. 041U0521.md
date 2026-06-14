@@ -1,21 +1,21 @@
-REGIO DECRETO 19 aprile 1941 n. 521
+---
+tipo: REGIO DECRETO
+numero: 521
+data: 1941-04-19
+titolo: "Soppressione dell'Agenzia consolare in Heerlen e istituzione nella stessa localita' di un Vice consolato di 2ª categoria. (041U0521)"
+urn: urn:nir:stato:regio.decreto:1941-04-19;521
+codice_redazionale: 041U0521
+vigente: true
+---
 
-
-REGIO DECRETO 19 aprile 1941 n. 521
-===================================
-
-Soppressione dell'Agenzia consolare in Heerlen e istituzione nella stessa localita' di un Vice consolato di 2ª categoria. (041U0521)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/07/1941
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-521. R. decreto 19 aprile 1941, col quale, sulla proposta del Ministro per gli affari esteri, viene soppressa l'Agenzia consolare in Heerlen e istituito nella stessa localita' un Vice consolato di 2ª categoria.   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 3 giugno 1941-XIX
+521.
+
+R. decreto 19 aprile 1941, col quale, sulla proposta del Ministro per gli affari esteri, viene soppressa l'Agenzia consolare in Heerlen e istituito nella stessa localita' un Vice consolato di 2ª categoria. 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 3 giugno 1941-XIX

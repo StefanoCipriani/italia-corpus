@@ -1,16 +1,14 @@
-REGIO DECRETO 26 luglio 1876 n. 3248
-
-
-REGIO DECRETO 26 luglio 1876 n. 3248
-====================================
-
-Col quale il comune di Buonalbergo e' distaccato dalla sezione del collegio elettorale di Paduli, e costituito in sezione separata del collegio elettorale di San Giorgio la Montagna, n. 352. (076U3248)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/08/1876
+---
+tipo: REGIO DECRETO
+numero: 3248
+data: 1876-07-26
+titolo: "Col quale il comune di Buonalbergo e' distaccato dalla sezione del collegio elettorale di Paduli, e costituito in sezione separata del collegio elettorale di San Giorgio la Montagna, n. 352. (076U3248)"
+urn: urn:nir:stato:regio.decreto:1876-07-26;3248
+codice_redazionale: 076U3248
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Buonalbergo e' separato dalla sezione di Paduli e costituira' da oggi in poi una sezione distinta del Collegio elettorale di San Giorgio la Montagna n. 352.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 26 luglio 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il comune di Buonalbergo e' separato dalla sezione di Paduli e costituira' da oggi in poi una sezione distinta del Collegio elettorale di San Giorgio la Montagna n. 352. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 26 luglio 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

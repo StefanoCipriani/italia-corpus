@@ -1,16 +1,14 @@
-REGIO DECRETO 25 settembre 1895 n. 609
-
-
-REGIO DECRETO 25 settembre 1895 n. 609
-======================================
-
-Che istituisce nel Comune di Cariati (Cosenza) un secondo posto di notaro. (095U0609)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/10/1895
+---
+tipo: REGIO DECRETO
+numero: 609
+data: 1895-09-25
+titolo: "Che istituisce nel Comune di Cariati (Cosenza) un secondo posto di notaro. (095U0609)"
+urn: urn:nir:stato:regio.decreto:1895-09-25;609
+codice_redazionale: 095U0609
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Visto l'art. 4 della legge notarile 25 maggio 1879 n. 4900, e la tabella del num
 
 Ritenuto esser dimostrata la necessita' dell'istituzione del posto anzidetto;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti. Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti. Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un secondo posto di notaro nel Comune di Cariati, distretto notarile di Rossano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 settembre 1895.   
-  
-UMBERTO.   
-  
-Calenda.   
-  
-Visto, Il Guardasigilli: V. Calenda Di Tavani.   
-  
+E' istituito un secondo posto di notaro nel Comune di Cariati, distretto notarile di Rossano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 settembre 1895. 
+ 
+ UMBERTO. 
+ 
+ Calenda. 
+ 
+ Visto, Il Guardasigilli: V. Calenda Di Tavani.

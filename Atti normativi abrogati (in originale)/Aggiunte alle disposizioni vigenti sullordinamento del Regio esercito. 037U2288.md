@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 21 ottobre 1937 n. 2288
-
-
-REGIO DECRETO-LEGGE 21 ottobre 1937 n. 2288
-===========================================
-
-Aggiunte alle disposizioni vigenti sull'ordinamento del Regio esercito. (037U2288)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/10/1937.  
-Regio Decreto-Legge convertito dalla [L. 17 maggio 1938, n. 865](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-05-17;865) (in G.U. 02/07/1938, n. 148).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 2288
+data: 1937-10-21
+titolo: "Aggiunte alle disposizioni vigenti sull'ordinamento del Regio esercito. (037U2288)"
+urn: urn:nir:stato:regio.decreto.legge:1937-10-21;2288
+codice_redazionale: 037U2288
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -33,52 +30,41 @@ Visto l'art. 3, n. 2, della legge 31 gennaio 1926-IV, n. 100;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra, di concerto con i Ministri Segretari di Stato per l'Africa Italiana e per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra, di concerto con i Ministri Segretari di Stato per l'Africa Italiana e per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E autorizzata la costituzione permanente delle seguenti Unita' e Comandi del Regio esercito metropolitano, in aggiunta a quelle previste dalle vigenti disposizioni sull'ordinamento del Regio esercito stesso e dal R. decreto-legge 8 luglio 1937-XV, 2280: 
+ 
+ un Comando di corpo d'armata; 
+ 
+ un Comando di divisione di fanteria; 
+ 
+ due Reggimenti di fanteria divisionale; 
+ 
+ un Comando di artiglieria di corpo d'armata; 
+ 
+ un Reggimento di artiglieria divisionale; 
+ 
+ un Reggimento di artiglieria di corpo d'armata; 
+ 
+ un Comando del genio di corpo d'armata; 
+ 
+ un Reggimento genio di corpo d'armata.
 
-  
-  
-E autorizzata la costituzione permanente delle seguenti Unita' e Comandi del Regio esercito metropolitano, in aggiunta a quelle previste dalle vigenti disposizioni sull'ordinamento del Regio esercito stesso e dal R. decreto-legge 8 luglio 1937-XV, 2280:   
-  
-un Comando di corpo d'armata;   
-  
-un Comando di divisione di fanteria;   
-  
-due Reggimenti di fanteria divisionale;   
-  
-un Comando di artiglieria di corpo d'armata;   
-  
-un Reggimento di artiglieria divisionale;   
-  
-un Reggimento di artiglieria di corpo d'armata;   
-  
-un Comando del genio di corpo d'armata;   
-  
-un Reggimento genio di corpo d'armata.   
-  
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto avra' vigore dal 1° ottobre 1937-XV e sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge,   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia, inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 21 ottobre 1937 - Anno XV,   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - LESSONA - DI REVEL   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 19 gennaio 1938 - Anno XVI   
-Atti del Governo, registro 393, foglio 101. - MANCINI.   
+Il presente decreto avra' vigore dal 1° ottobre 1937-XV e sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge, 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia, inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 21 ottobre 1937 - Anno XV, 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - LESSONA - DI REVEL 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 19 gennaio 1938 - Anno XVI  
+ Atti del Governo, registro 393, foglio 101. - MANCINI.

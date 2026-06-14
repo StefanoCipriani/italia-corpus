@@ -1,21 +1,21 @@
-REGIO DECRETO 02 gennaio 1927 n. 108
+---
+tipo: REGIO DECRETO
+numero: 108
+data: 1927-01-02
+titolo: "Approvazione dello statuto della Congregazione di carita' di Orsera. (027U0108)"
+urn: urn:nir:stato:regio.decreto:1927-01-02;108
+codice_redazionale: 027U0108
+vigente: true
+---
 
-
-REGIO DECRETO 02 gennaio 1927 n. 108
-====================================
-
-Approvazione dello statuto della Congregazione di carita' di Orsera. (027U0108)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/03/1927
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-108. R. decreto 2 gennaio 1927, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato lo statuto organico della Congregazione di carita' di Orsera.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 12 febbraio 1927 - Anno V
+108.
+
+R. decreto 2 gennaio 1927, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato lo statuto organico della Congregazione di carita' di Orsera. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 12 febbraio 1927 - Anno V

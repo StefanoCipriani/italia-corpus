@@ -1,21 +1,17 @@
-REGIO DECRETO 15 maggio 1898 n. CLVII
+---
+tipo: REGIO DECRETO
+numero: CLVII
+data: 1898-05-15
+titolo: "Con cui viene approvato il regolamento per il conferimento del premio Passaglia agli studenti di lettere e filosofia della regia universita' di Torino. (9800157R)"
+urn: urn:nir:stato:regio.decreto:1898-05-15;157
+codice_redazionale: 9800157R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 maggio 1898 n. CLVII
-=====================================
-
-Con cui viene approvato il regolamento per il conferimento del premio Passaglia agli studenti di lettere e filosofia della regia universita' di Torino. (9800157R)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/06/1898
-
-Art. 1
-------
-
-  
-Con cui viene approvato il regolamento per il conferimento del premio Passaglia agli studenti di lettere e filosofia della regia universita' di Torino. - Firmato UMBERTO - Controfirmato Gallo - Visto G. Zanardelli.   
-  
-Registrato alla Corte dei Conti addi' 1° giugno 1898.   
-  
-Reg. 215. Atti del Governo a f. 177.   
-  
+Con cui viene approvato il regolamento per il conferimento del premio Passaglia agli studenti di lettere e filosofia della regia universita' di Torino. - Firmato UMBERTO - Controfirmato Gallo - Visto G. Zanardelli. 
+ 
+ Registrato alla Corte dei Conti addi' 1° giugno 1898. 
+ 
+ Reg. 215. Atti del Governo a f. 177.

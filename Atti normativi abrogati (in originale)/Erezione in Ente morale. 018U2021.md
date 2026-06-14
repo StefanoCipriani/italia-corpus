@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 08 dicembre 1918 n. 2021
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 2021
+data: 1918-12-08
+titolo: "Erezione in Ente morale. (018U2021)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-12-08;2021
+codice_redazionale: 018U2021
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 08 dicembre 1918 n. 2021
-================================================
-
-Erezione in Ente morale. (018U2021)
------------------------------------
-
-Entrata in vigore del provvedimento: 13/02/1919
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2021. Decreto Luogotenenziale 8 dicembre 1918, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, il Consorzio fra cooperative di produzione e lavoro con sede in Napoli, e' eretto in ente morale e ne e' approvato lo statuto organico relativo.
+2021.
+
+Decreto Luogotenenziale 8 dicembre 1918, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, il Consorzio fra cooperative di produzione e lavoro con sede in Napoli, e' eretto in ente morale e ne e' approvato lo statuto organico relativo.

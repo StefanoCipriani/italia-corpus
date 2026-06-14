@@ -1,16 +1,14 @@
-REGIO DECRETO 03 marzo 1895 n. 55
-
-
-REGIO DECRETO 03 marzo 1895 n. 55
-=================================
-
-Che nomina il Direttore del Banco di Napoli (Sede di Genova). (095U0055)
-------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/03/1895
+---
+tipo: REGIO DECRETO
+numero: 55
+data: 1895-03-03
+titolo: "Che nomina il Direttore del Banco di Napoli (Sede di Genova). (095U0055)"
+urn: urn:nir:stato:regio.decreto:1895-03-03;55
+codice_redazionale: 095U0055
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,20 +26,16 @@ Tenuto conto dei precedenti servizi che designano al detto ufficio il cav. Raffa
 
 Su proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
 
-Articolo unico
---------------
+## Articolo unico.
 
-  
-  
-Il cav. Raffaele Salvio, attualmente Segretario Generale del Banco di Napoli, e' nominato Direttore della Sede di Genova del Banco stesso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 marzo 1895.   
-  
-UMBERTO.   
-  
-Sidney Sonnino.   
-  
-Visto, Il Guardasigilli: V. Calenda di Tavani.   
-  
+Il cav. Raffaele Salvio, attualmente Segretario Generale del Banco di Napoli, e' nominato Direttore della Sede di Genova del Banco stesso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 marzo 1895. 
+ 
+ UMBERTO. 
+ 
+ Sidney Sonnino. 
+ 
+ Visto, Il Guardasigilli: V. Calenda di Tavani.

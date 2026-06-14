@@ -1,16 +1,14 @@
-REGIO DECRETO 02 gennaio 1881 n. 21
-
-
-REGIO DECRETO 02 gennaio 1881 n. 21
-===================================
-
-Che autorizza il comune di Migliaro (Ferrara) a trasferire la propria sede nella frazione di Migliarino. (081U0021)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/02/1881
+---
+tipo: REGIO DECRETO
+numero: 21
+data: 1881-01-02
+titolo: "Che autorizza il comune di Migliaro (Ferrara) a trasferire la propria sede nella frazione di Migliarino. (081U0021)"
+urn: urn:nir:stato:regio.decreto:1881-01-02;21
+codice_redazionale: 081U0021
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,26 +18,19 @@ Sulla proposizione del Nostro Ministro Segretario di Stato per gli affari dell'I
 
 Vedute le deliberazioni del Consiglio comunale di Migliaro e del Consiglio provinciale di Ferrara relative al trasferimento della sede di detto comune nella frazione di Migliarino;
 
-Veduta
-------
+Veduta la legge sull'ordinamento comunale e provinciale 20 marzo 1865, allegato A, Abbiamo decretato e decretiamo:
 
-la legge sull'ordinamento comunale e provinciale 20 marzo 1865, allegato A, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La sede del comune di Migliaro e' trasferita nella frazione di Migliarino.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 gennaio 1881.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+La sede del comune di Migliaro e' trasferita nella frazione di Migliarino. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 gennaio 1881. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

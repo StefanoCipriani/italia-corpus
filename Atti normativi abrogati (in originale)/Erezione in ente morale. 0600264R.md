@@ -1,18 +1,15 @@
-REGIO DECRETO 28 giugno 1906 n. CCLXIV
+---
+tipo: REGIO DECRETO
+numero: CCLXIV
+data: 1906-06-28
+titolo: "Erezione in ente morale. (0600264R)"
+urn: urn:nir:stato:regio.decreto:1906-06-28;264
+codice_redazionale: 0600264R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 giugno 1906 n. CCLXIV
-======================================
-
-Erezione in ente morale. (0600264R)
------------------------------------
-
-Entrata in vigore del provvedimento: 04/09/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCLXIV (Dato a Roma, il 28 giugno 1906), col quale si provvede all'erezione in ente morale del pio legato Di Tursi, esistente nel comune di Andria (Bari) e contemporaneamente si concentra il legato stesso nella Congregazione di carita' del luogo.   
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCLXIV (Dato a Roma, il 28 giugno 1906), col quale si provvede all'erezione in ente morale del pio legato Di Tursi, esistente nel comune di Andria (Bari) e contemporaneamente si concentra il legato stesso nella Congregazione di carita' del luogo.

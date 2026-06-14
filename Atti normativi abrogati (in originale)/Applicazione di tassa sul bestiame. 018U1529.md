@@ -1,17 +1,13 @@
-DECRETO LUOGOTENENZIALE 22 settembre 1918 n. 1529
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1529
+data: 1918-09-22
+titolo: "Applicazione di tassa sul bestiame. (018U1529)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-09-22;1529
+codice_redazionale: 018U1529
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 22 settembre 1918 n. 1529
-=================================================
-
-Applicazione di tassa sul bestiame. (018U1529)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 12/11/1918
-
-Art. 1
-------
-
-  
-Col quale, sulla proposta del ministro delle finanze e' data facolta' al comune di Gattatico (Reggio Emilia) di applicare per l'anno 1918, la tassa sul bestiame in base alla tariffa stabilita con la deliberazione consiliare dell'11 marzo 1918.   
-  
+Col quale, sulla proposta del ministro delle finanze e' data facolta' al comune di Gattatico (Reggio Emilia) di applicare per l'anno 1918, la tassa sul bestiame in base alla tariffa stabilita con la deliberazione consiliare dell'11 marzo 1918.

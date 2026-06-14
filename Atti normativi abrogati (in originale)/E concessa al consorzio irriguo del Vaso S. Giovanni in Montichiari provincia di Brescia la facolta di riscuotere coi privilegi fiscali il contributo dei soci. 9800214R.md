@@ -1,21 +1,17 @@
-REGIO DECRETO 19 maggio 1898 n. CCXIV
+---
+tipo: REGIO DECRETO
+numero: CCXIV
+data: 1898-05-19
+titolo: "E' concessa al consorzio irriguo del Vaso S. Giovanni in Montichiari (provincia di Brescia) la facolta' di riscuotere coi privilegi fiscali il contributo dei soci. (9800214R)"
+urn: urn:nir:stato:regio.decreto:1898-05-19;214
+codice_redazionale: 9800214R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 maggio 1898 n. CCXIV
-=====================================
-
-E' concessa al consorzio irriguo del Vaso S. Giovanni in Montichiari (provincia di Brescia) la facolta' di riscuotere coi privilegi fiscali il contributo dei soci. (9800214R)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/08/1898
-
-Art. 1
-------
-
-  
-E' concessa al consorzio irriguo del Vaso S. Giovanni in Montichiari (provincia di Brescia) la facolta' di riscuotere coi privilegi fiscali il contributo dei soci. - Firmato UMBERTO Controfirmato F. Cocco Ortu - Visto G. Zanardelli.   
-  
-Registrato alla Corte dei Conti addi' 26 luglio 1898.   
-  
-Reg. 216. Atti del Governo a f. 64.   
-  
+E' concessa al consorzio irriguo del Vaso S. Giovanni in Montichiari (provincia di Brescia) la facolta' di riscuotere coi privilegi fiscali il contributo dei soci. - Firmato UMBERTO Controfirmato F. Cocco Ortu - Visto G. Zanardelli. 
+ 
+ Registrato alla Corte dei Conti addi' 26 luglio 1898. 
+ 
+ Reg. 216. Atti del Governo a f. 64.

@@ -1,16 +1,14 @@
-REGIO DECRETO 28 febbraio 1875 n. 2392
-
-
-REGIO DECRETO 28 febbraio 1875 n. 2392
-======================================
-
-Che abolisce l'ufficio di bibliotecario nella biblioteca Marciana di Venezia. (075U2392)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/04/1875
+---
+tipo: REGIO DECRETO
+numero: 2392
+data: 1875-02-28
+titolo: "Che abolisce l'ufficio di bibliotecario nella biblioteca Marciana di Venezia. (075U2392)"
+urn: urn:nir:stato:regio.decreto:1875-02-28;2392
+codice_redazionale: 075U2392
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,23 +16,16 @@ RE D'ITALIA
 
 Visto il ruolo della Biblioteca Marciana di Venezia, approvato con Nostro decreto del 25 giugno 1873, num. 1492 (Serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'ufficio di bibliotecario nella Biblioteca Marciana di Venezia e' abolito, ed in suo luogo e' posto quello di vicebibliotecario, collo stipendio annuo di lire duemilaottocento (L. 2800).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 febbraio 1875.   
-  
-VITTORIO EMANUELE.   
-  
-R. Borghi.   
-  
+L'ufficio di bibliotecario nella Biblioteca Marciana di Venezia e' abolito, ed in suo luogo e' posto quello di vicebibliotecario, collo stipendio annuo di lire duemilaottocento (L. 2800). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 febbraio 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ R. Borghi.

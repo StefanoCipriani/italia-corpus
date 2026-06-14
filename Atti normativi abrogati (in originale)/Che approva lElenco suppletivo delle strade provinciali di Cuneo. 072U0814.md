@@ -1,16 +1,14 @@
-REGIO DECRETO 06 maggio 1872 n. 814
-
-
-REGIO DECRETO 06 maggio 1872 n. 814
-===================================
-
-Che approva l'Elenco suppletivo delle strade provinciali di Cuneo. (072U0814)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/06/1872
+---
+tipo: REGIO DECRETO
+numero: 814
+data: 1872-05-06
+titolo: "Che approva l'Elenco suppletivo delle strade provinciali di Cuneo. (072U0814)"
+urn: urn:nir:stato:regio.decreto:1872-05-06;814
+codice_redazionale: 072U0814
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,32 +24,16 @@ Veduti gli articoli 13 e 14 della legge 20 marzo 1865 sulle opere pubbliche;
 
 Risultando non essere insorta alcuna opposizione contro la classificazione fra le provinciali delle mentovate due strade;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono aggiunte all'elenco delle strade provinciali, nella provincia di Cuneo, la strada gia' consortile della Pedaggera e quella detta di Valle di Gesso, come dall'unito elenco suppletivo che, visto d'ordine Nostro dal predetto Ministro, sara' unito al presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli, addi' 6 maggio 1872.   
-  
-VITTORIO EMANUELE.   
-  
-G. DEVINCENZI.   
-  
-  
-
-Elenco
-
-  
-ELENCO suppletivo delle strade provinciali di Cuneo.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U081400100010110001&dgu=1872-06-12&art.dataPubblicazioneGazzetta=1872-06-12&art.codiceRedazionale=072U0814)
-  
+Sono aggiunte all'elenco delle strade provinciali, nella provincia di Cuneo, la strada gia' consortile della Pedaggera e quella detta di Valle di Gesso, come dall'unito elenco suppletivo che, visto d'ordine Nostro dal predetto Ministro, sara' unito al presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli, addi' 6 maggio 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. DEVINCENZI.

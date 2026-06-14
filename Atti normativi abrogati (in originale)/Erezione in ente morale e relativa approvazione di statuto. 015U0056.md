@@ -1,19 +1,15 @@
-REGIO DECRETO 10 gennaio 1915 n. 56
+---
+tipo: REGIO DECRETO
+numero: 56
+data: 1915-01-10
+titolo: "Erezione in ente morale e relativa approvazione di statuto. (015U0056)"
+urn: urn:nir:stato:regio.decreto:1915-01-10;56
+codice_redazionale: 015U0056
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 gennaio 1915 n. 56
-===================================
-
-Erezione in ente morale e relativa approvazione di statuto. (015U0056)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/02/1915
-
-Art. 1
-------
-
-  
-N. 56   
-  
-Regio Decreto 10 gennaio 1915, col quale, sulla proposta del ministro dell'interno, il «Legato di beneficenza Giulio Jatta» di Ruvo di Puglia, e' eretto in ente morale sotto l'amministrazione della Congregazione di carita', e ne e' approvato lo statuto organico.   
-  
+N. 56 
+ 
+ Regio Decreto 10 gennaio 1915, col quale, sulla proposta del ministro dell'interno, il «Legato di beneficenza Giulio Jatta» di Ruvo di Puglia, e' eretto in ente morale sotto l'amministrazione della Congregazione di carita', e ne e' approvato lo statuto organico.

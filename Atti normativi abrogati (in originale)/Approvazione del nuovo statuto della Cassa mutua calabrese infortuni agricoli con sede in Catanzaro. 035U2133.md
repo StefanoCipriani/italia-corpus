@@ -1,21 +1,21 @@
-REGIO DECRETO 31 ottobre 1935 n. 2133
+---
+tipo: REGIO DECRETO
+numero: 2133
+data: 1935-10-31
+titolo: "Approvazione del nuovo statuto della Cassa mutua calabrese infortuni agricoli con sede in Catanzaro. (035U2133)"
+urn: urn:nir:stato:regio.decreto:1935-10-31;2133
+codice_redazionale: 035U2133
+vigente: true
+---
 
-
-REGIO DECRETO 31 ottobre 1935 n. 2133
-=====================================
-
-Approvazione del nuovo statuto della Cassa mutua calabrese infortuni agricoli con sede in Catanzaro. (035U2133)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/01/1936
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2133. R. decreto 31 ottobre 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per le corporazioni, viene approvato il nuovo statuto della Cassa Mutua calabrese infortuni agricoli, con sede in Catanzaro.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 11 dicembre 1935 - Anno XIV
+2133.
+
+R. decreto 31 ottobre 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per le corporazioni, viene approvato il nuovo statuto della Cassa Mutua calabrese infortuni agricoli, con sede in Catanzaro. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 11 dicembre 1935 - Anno XIV

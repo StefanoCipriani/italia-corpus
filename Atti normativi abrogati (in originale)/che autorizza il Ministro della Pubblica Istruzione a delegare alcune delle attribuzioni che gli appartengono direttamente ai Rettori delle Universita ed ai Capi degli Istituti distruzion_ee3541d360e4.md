@@ -1,16 +1,14 @@
-REGIO DECRETO 26 febbraio 1865 n. 2185
-
-
-REGIO DECRETO 26 febbraio 1865 n. 2185
-======================================
-
-che autorizza il Ministro della Pubblica Istruzione a delegare alcune delle attribuzioni che gli appartengono direttamente ai Rettori delle Universita' ed ai Capi degli Istituti d'istruzione superiore. (065U2185)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/04/1865
+---
+tipo: REGIO DECRETO
+numero: 2185
+data: 1865-02-26
+titolo: "che autorizza il Ministro della Pubblica Istruzione a delegare alcune delle attribuzioni che gli appartengono direttamente ai Rettori delle Universita' ed ai Capi degli Istituti d'istruzione superiore. (065U2185)"
+urn: urn:nir:stato:regio.decreto:1865-02-26;2185
+codice_redazionale: 065U2185
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Visti i Regolamenti per gli studi universitari approvati con i Nostri Decreti 14
 
 Nell'intento di rendere l'amministrazione dell'istruzione pubblica piu' semplice e piu' spedita a norma di quanto venne gia' stabilito per altri rami di servizio;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Ministro della Pubblica Istruzione e' autorizzato a delegare con ispeciali istruzioni alcune delle attribuzioni che direttamente gli appartengono ai Rettori delle Universita' ed ai Capi degli Stabilimenti d'istruzione superiore per quanto concerne gli studi degli Istituti medesimi.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 26 febbraio 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 12 marzo 1865   
-  
-Reg.° 32 Atti del Governo a c. 4 77. Salvaja.   
-  
-Luogo del Sigillo. V. Il guardasigilli Vacca.   
-  
-Natoli.   
-  
+Il Ministro della Pubblica Istruzione e' autorizzato a delegare con ispeciali istruzioni alcune delle attribuzioni che direttamente gli appartengono ai Rettori delle Universita' ed ai Capi degli Stabilimenti d'istruzione superiore per quanto concerne gli studi degli Istituti medesimi. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 26 febbraio 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 12 marzo 1865 
+ 
+ Reg.° 32 Atti del Governo a c. 4 77. Salvaja. 
+ 
+ Luogo del Sigillo. V. Il guardasigilli Vacca. 
+ 
+ Natoli.

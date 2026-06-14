@@ -1,16 +1,14 @@
-REGIO DECRETO 23 maggio 1886 n. 3918
-
-
-REGIO DECRETO 23 maggio 1886 n. 3918
-====================================
-
-Col quale viene autorizzato un prelevamento di somma dal fondo per le Spese impreviste. (086U3918)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/06/1886
+---
+tipo: REGIO DECRETO
+numero: 3918
+data: 1886-05-23
+titolo: "Col quale viene autorizzato un prelevamento di somma dal fondo per le Spese impreviste. (086U3918)"
+urn: urn:nir:stato:regio.decreto:1886-05-23;3918
+codice_redazionale: 086U3918
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' dalla Nazione
 
@@ -22,27 +20,20 @@ Visto che sul fondo di riserva per le Spese impreviste inscritto in lire 4,000,0
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze ed incaricato degli affari del Tesoro, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le Finanze ed incaricato degli affari del Tesoro, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal fondo di riserva per le Spese impreviste, inscritto al capitolo n. 84 dello stato di previsione della spesa del Ministero del Tesoro per l'esercizio finanziario 1885-86, e' autorizzata una 33ª prelevazione nella somma di lire quattromila (4,000) da portarsi in aumento al capitolo num. 11 Spese casuali dello stato di previsione della spesa del Ministero dell'Interno per l'esercizio medesimo.   
-  
-Questo decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 maggio 1886.   
-  
-UMBERTO.   
-  
-A. Magliani.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+Dal fondo di riserva per le Spese impreviste, inscritto al capitolo n. 84 dello stato di previsione della spesa del Ministero del Tesoro per l'esercizio finanziario 1885-86, e' autorizzata una 33ª prelevazione nella somma di lire quattromila (4,000) da portarsi in aumento al capitolo num. 11 Spese casuali dello stato di previsione della spesa del Ministero dell'Interno per l'esercizio medesimo. 
+ 
+ Questo decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 maggio 1886. 
+ 
+ UMBERTO. 
+ 
+ A. Magliani. 
+ 
+ Visto, Il Guardasigilli: Tajani.

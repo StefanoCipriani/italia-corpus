@@ -1,58 +1,49 @@
-REGIO DECRETO 18 agosto 1902 n. 358
-
-
-REGIO DECRETO 18 agosto 1902 n. 358
-===================================
-
-Che determina il numero e la divisione in classi degli assistenti locali del Genio militare. (002U0358)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/09/1902
+---
+tipo: REGIO DECRETO
+numero: 358
+data: 1902-08-18
+titolo: "Che determina il numero e la divisione in classi degli assistenti locali del Genio militare. (002U0358)"
+urn: urn:nir:stato:regio.decreto:1902-08-18;358
+codice_redazionale: 002U0358
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la legge d'ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della Guerra, testo unico, approvato con [R. decreto 14 luglio 1898, n. 525](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;525), modificata con la [legge del 7 luglio 1901, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-07-07;285), e con [legge del 21 luglio 1902, n. 303](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-07-21;303);
+Vista la legge d'ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della Guerra, testo unico, approvato con [R. decreto 14 luglio 1898, n. 525](Che%20approva%20il%20nuovo%20testo%20unico%20delle%20leggi%20sullordinamento%20del%20Regio%20Esercito%20098U0525.md), modificata con la [legge del 7 luglio 1901, n. 285](Modificazioni%20alle%20leggi%20sullordinamento%20militare%20Compagnie%20di%20disciplina%20e%20stabilimenti%20militari%20di%20pena.%20001U0285.md), e con [legge del 21 luglio 1902, n. 303](Che%20porta%20modificazioni%20allordinamento%20del%20R.%20Esercito.%20002U0303.md);
 
-Vista la legge sugli stipendi ed assegni fissi pel R. esercito, testo unico, approvato con [R. decreto 14 luglio 1898, n. 380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;380), modificata dalla [legge del 7 luglio 1901, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-07-07;286);
+Vista la legge sugli stipendi ed assegni fissi pel R. esercito, testo unico, approvato con [R. decreto 14 luglio 1898, n. 380](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20Regio%20Esercito.%20098U0380.md), modificata dalla [legge del 7 luglio 1901, n. 286](Modificazioni%20alle%20leggi%20sugli%20stipendi%20ed%20assegni%20fissi%20pel%20R.%20Esercito.%20001U0286.md);
 
-Vista la [legge del 22 giugno 1902, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-06-22;196), che approva lo stato di previsione della spesa del Ministero della Guerra, per l'esercizio finanziario 1902-903;
+Vista la [legge del 22 giugno 1902, n. 196](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20della%20Guerra%20per%20lesercizio%20finanziario%201902-903.%20002U0196.md), che approva lo stato di previsione della spesa del Ministero della Guerra, per l'esercizio finanziario 1902-903;
 
-Visto il [R. decreto 30 dicembre 1900, n. 503](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-12-30;503), che determina il numero e la divisione in classi degli assistenti locali del genio;
+Visto il [R. decreto 30 dicembre 1900, n. 503](Determinante%20il%20numero%20e%20la%20divisione%20in%20classi%20degli%20assistenti%20locali%20del%20Genio.%20000U0503.md), che determina il numero e la divisione in classi degli assistenti locali del genio;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il numero e la divisione in classi degli assistenti locali del genio, sono determinati come in appresso:   
-  
-1ª classe . . . . . . . . . . . . N. 113   
-  
-2ª id. . . . . . . . . . . . . » 75   
-  
-3ª id. . . . . . . . . . . . . » 48   
-  
-------   
-  
-Totale . . . N. 236   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 18 agosto 1902.   
-  
-VITTORIO EMANUELE.   
-  
-Ottolenghi.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.   
-  
+Il numero e la divisione in classi degli assistenti locali del genio, sono determinati come in appresso: 
+ 
+ 1ª classe . . . . . . . . . . . . N. 113 
+ 
+ 2ª id. . . . . . . . . . . . . » 75 
+ 
+ 3ª id. . . . . . . . . . . . . » 48 
+ 
+ ------ 
+ 
+ Totale . . . N. 236 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 18 agosto 1902. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Ottolenghi. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

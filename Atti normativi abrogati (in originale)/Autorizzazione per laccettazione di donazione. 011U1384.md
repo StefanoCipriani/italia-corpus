@@ -1,19 +1,15 @@
-REGIO DECRETO 03 dicembre 1911 n. 1384
+---
+tipo: REGIO DECRETO
+numero: 1384
+data: 1911-12-03
+titolo: "Autorizzazione per l'accettazione di donazione. (011U1384)"
+urn: urn:nir:stato:regio.decreto:1911-12-03;1384
+codice_redazionale: 011U1384
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 dicembre 1911 n. 1384
-======================================
-
-Autorizzazione per l'accettazione di donazione. (011U1384)
-----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/01/1912
-
-Art. 1
-------
-
-  
-N. 1384   
-  
-Regio Decreto 3 dicembre 1911, col quale, sulla proposta del ministro della pubblica istruzione, l'Ateneo veneto e' autorizzato ad accettare la donazione Nani-Mocenigo di L. 10,000, la quale viene eretta in ente morale col nome di «Fondazione Filippo Nani-Mocenigo fu Mario», e ne e' approvato lo statuto.   
-  
+N. 1384 
+ 
+ Regio Decreto 3 dicembre 1911, col quale, sulla proposta del ministro della pubblica istruzione, l'Ateneo veneto e' autorizzato ad accettare la donazione Nani-Mocenigo di L. 10,000, la quale viene eretta in ente morale col nome di «Fondazione Filippo Nani-Mocenigo fu Mario», e ne e' approvato lo statuto.

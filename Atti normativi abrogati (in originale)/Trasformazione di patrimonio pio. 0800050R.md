@@ -1,19 +1,15 @@
-REGIO DECRETO 09 gennaio 1908 n. L
+---
+tipo: REGIO DECRETO
+numero: L
+data: 1908-01-09
+titolo: "Trasformazione di patrimonio pio. (0800050R)"
+urn: urn:nir:stato:regio.decreto:1908-01-09;50
+codice_redazionale: 0800050R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 gennaio 1908 n. L
-==================================
-
-Trasformazione di patrimonio pio. (0800050R)
---------------------------------------------
-
-Entrata in vigore del provvedimento: 27/03/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. L (Dato a Roma, il 9 gennaio 1908), col quale l'arciconfraternita di Maria SS. Assunta, esistente nel comune di Mola (Bari) e' stata trasformata a favore del Civico ospedale del Comune medesimo.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. L (Dato a Roma, il 9 gennaio 1908), col quale l'arciconfraternita di Maria SS. Assunta, esistente nel comune di Mola (Bari) e' stata trasformata a favore del Civico ospedale del Comune medesimo.

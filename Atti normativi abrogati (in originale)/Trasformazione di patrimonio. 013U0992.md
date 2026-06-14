@@ -1,19 +1,15 @@
-REGIO DECRETO 25 luglio 1913 n. 992
+---
+tipo: REGIO DECRETO
+numero: 992
+data: 1913-07-25
+titolo: "Trasformazione di patrimonio. (013U0992)"
+urn: urn:nir:stato:regio.decreto:1913-07-25;992
+codice_redazionale: 013U0992
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 luglio 1913 n. 992
-===================================
-
-Trasformazione di patrimonio. (013U0992)
-----------------------------------------
-
-Entrata in vigore del provvedimento: 12/09/1913
-
-Art. 1
-------
-
-  
-N. 992   
-  
-Regio Decreto 25 luglio 1913, col quale, sulla proposta del ministro dell'interno, il fine inerente ai patrimoni delle Confraternite del Sacramento e del Suffragio di Montappone, viene trasformato a favore dell'erigendo Ospedale, dell'Ambulatorio per gli infermi poveri e degli inabili al lavoro, e viene inoltre ordinato il concentramento di tali patrimoni nella Congregazione di carita' del luogo.   
-  
+N. 992 
+ 
+ Regio Decreto 25 luglio 1913, col quale, sulla proposta del ministro dell'interno, il fine inerente ai patrimoni delle Confraternite del Sacramento e del Suffragio di Montappone, viene trasformato a favore dell'erigendo Ospedale, dell'Ambulatorio per gli infermi poveri e degli inabili al lavoro, e viene inoltre ordinato il concentramento di tali patrimoni nella Congregazione di carita' del luogo.

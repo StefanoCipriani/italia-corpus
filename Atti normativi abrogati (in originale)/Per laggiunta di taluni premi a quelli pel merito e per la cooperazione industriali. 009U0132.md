@@ -1,16 +1,14 @@
-REGIO DECRETO 28 febbraio 1909 n. 132
-
-
-REGIO DECRETO 28 febbraio 1909 n. 132
-=====================================
-
-Per l'aggiunta di taluni premi a quelli pel merito e per la cooperazione industriali. (009U0132)
-------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/04/1909
+---
+tipo: REGIO DECRETO
+numero: 132
+data: 1909-02-28
+titolo: "Per l'aggiunta di taluni premi a quelli pel merito e per la cooperazione industriali. (009U0132)"
+urn: urn:nir:stato:regio.decreto:1909-02-28;132
+codice_redazionale: 009U0132
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,30 +18,24 @@ Visto il Nostro decreto in data 27 giugno 1907, numero 580, con cui fu aperto un
 
 Vedute le conclusioni adottate nelle adunanze tenute il 4 e 5 febbraio del corrente anno dalla Commissione giudicatrice dei concorsi predetti nominata col decreto Ministeriale in data 8 maggio 1908;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ai premi al merito industriale ed alla cooperazione industriale stabiliti col Nostro decreto del 27 giugno 1907, n. 580, sono aggiunti i seguenti:   
-  
-otto medaglie d'oro di 1ª classe con diploma d'onore al merito industriale;   
-  
-una medaglia d'argento, con diploma al merito industriale;   
-  
-quattro medaglie d'argento alla cooperazione industriale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare   
-  
-Dato a Roma, addi' 28 febbraio 1909.   
-  
-VITTORIO EMANUELE.   
-  
-COCCO-ORTU.   
-  
-Visto, Il guardasigilli: ORLANDO.   
+Ai premi al merito industriale ed alla cooperazione industriale stabiliti col Nostro decreto del 27 giugno 1907, n. 580, sono aggiunti i seguenti: 
+ 
+ otto medaglie d'oro di 1ª classe con diploma d'onore al merito industriale; 
+ 
+ una medaglia d'argento, con diploma al merito industriale; 
+ 
+ quattro medaglie d'argento alla cooperazione industriale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare 
+ 
+ Dato a Roma, addi' 28 febbraio 1909. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ COCCO-ORTU. 
+ 
+ Visto, Il guardasigilli: ORLANDO.

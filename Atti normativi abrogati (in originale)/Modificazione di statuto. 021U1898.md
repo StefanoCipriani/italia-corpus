@@ -1,17 +1,17 @@
-REGIO DECRETO 04 dicembre 1921 n. 1898
+---
+tipo: REGIO DECRETO
+numero: 1898
+data: 1921-12-04
+titolo: "Modificazione di statuto. (021U1898)"
+urn: urn:nir:stato:regio.decreto:1921-12-04;1898
+codice_redazionale: 021U1898
+vigente: true
+---
 
-
-REGIO DECRETO 04 dicembre 1921 n. 1898
-======================================
-
-Modificazione di statuto. (021U1898)
-------------------------------------
-
-Entrata in vigore del provvedimento: 29/01/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1898. Regio decreto 4 dicembre 1921, col quale sulla proposta del ministro per il lavoro e la previdenza sociale, viene modificato lo statuto della Societa' Mariana di mutuo soccorso fra i sacerdoti della Diocesi di Treviso, con sede nella Citta' stessa.
+1898.
+
+Regio decreto 4 dicembre 1921, col quale sulla proposta del ministro per il lavoro e la previdenza sociale, viene modificato lo statuto della Societa' Mariana di mutuo soccorso fra i sacerdoti della Diocesi di Treviso, con sede nella Citta' stessa.

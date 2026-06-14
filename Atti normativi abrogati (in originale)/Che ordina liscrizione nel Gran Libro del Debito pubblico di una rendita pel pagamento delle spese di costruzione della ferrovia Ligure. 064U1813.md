@@ -1,16 +1,14 @@
-REGIO DECRETO 16 giugno 1864 n. 1813
-
-
-REGIO DECRETO 16 giugno 1864 n. 1813
-====================================
-
-Che ordina l'iscrizione nel Gran Libro del Debito pubblico di una rendita pel pagamento delle spese di costruzione della ferrovia Ligure. (064U1813)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/07/1864
+---
+tipo: REGIO DECRETO
+numero: 1813
+data: 1864-06-16
+titolo: "Che ordina l'iscrizione nel Gran Libro del Debito pubblico di una rendita pel pagamento delle spese di costruzione della ferrovia Ligure. (064U1813)"
+urn: urn:nir:stato:regio.decreto:1864-06-16;1813
+codice_redazionale: 064U1813
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONF
 
@@ -26,27 +24,20 @@ Che con Decreti Reali in data 18 giugno 1862, n.° 670, 19 luglio 1863, n.° 136
 
 Che a compiere il capitale effettivo di 61 milioni corrispondente agli assegni anzicitati occorre l'emissione di altra rendita 5 p. % di circa lire 2,100/m.
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del Ministro delle Finanze; Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sara' inscritta nel Gran Libro del Debito pubblico del Regno d'Italia una rendita consolidata 5 p. % di lire duemilioni centomila con decorrenza dal 1.° gennaio 1864 pel pagamento delle spese di costruzione della ferrovia Ligure.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 16 giugno 1864.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 27 giugno 1864   
-Reg.° 30 Atti del Governo a c. 3. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-M. Minghetti.   
-  
+Sara' inscritta nel Gran Libro del Debito pubblico del Regno d'Italia una rendita consolidata 5 p. % di lire duemilioni centomila con decorrenza dal 1.° gennaio 1864 pel pagamento delle spese di costruzione della ferrovia Ligure. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 16 giugno 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 giugno 1864 
+ Reg.° 30 Atti del Governo a c. 3. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ M. Minghetti.

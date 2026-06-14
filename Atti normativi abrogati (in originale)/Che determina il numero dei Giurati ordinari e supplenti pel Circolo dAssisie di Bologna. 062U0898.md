@@ -1,16 +1,14 @@
-REGIO DECRETO 19 ottobre 1862 n. 898
-
-
-REGIO DECRETO 19 ottobre 1862 n. 898
-====================================
-
-Che determina il numero dei Giurati ordinari e supplenti pel Circolo d'Assisie di Bologna. (062U0898)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/11/1862
+---
+tipo: REGIO DECRETO
+numero: 898
+data: 1862-10-19
+titolo: "Che determina il numero dei Giurati ordinari e supplenti pel Circolo d'Assisie di Bologna. (062U0898)"
+urn: urn:nir:stato:regio.decreto:1862-10-19;898
+codice_redazionale: 062U0898
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,24 @@ Visti gli articoli 69 e 70 della legge sull'ordinamento giudiziario del 13 novem
 
 Considerato che quando fu pubblicata nelle Romagne la legge giudiziaria succitata non fu in modo particolare determinato il numero dei Giurati pel Circolo d'Assisie di Bologna in ragione della popolazione e del numero degli affari del Circolo stesso;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, reggente il Ministero di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo:
 
-proposta del Presidente del Consiglio dei Ministri, reggente il Ministero di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Pel Circolo d'Assisie di Bologna la lista annuale dei Giurati ordinari sara' di 400, quella dei Giurati supplenti sara' di
 
-80. 
-  
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 19 ottobre 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 24 ottobre 1862   
-  
-Reg.° 21 Atti dei Governo a c. 19. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli U. Rattazzi.   
-  
-U. Rattazzi.
+80.
+
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 19 ottobre 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 24 ottobre 1862 
+ 
+ Reg.° 21 Atti dei Governo a c. 19. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli U. Rattazzi. 
+ 
+ U. Rattazzi.

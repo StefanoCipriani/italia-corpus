@@ -1,16 +1,14 @@
-REGIO DECRETO 08 marzo 1877 n. 3731
-
-
-REGIO DECRETO 08 marzo 1877 n. 3731
-===================================
-
-Col quale il comune di S. Odorico e' autorizzato a trasferire la sede municipale dalla frazione di S. Odorico a quella di Flaibano. (077U3731)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/04/1877
+---
+tipo: REGIO DECRETO
+numero: 3731
+data: 1877-03-08
+titolo: "Col quale il comune di S. Odorico e' autorizzato a trasferire la sede municipale dalla frazione di S. Odorico a quella di Flaibano. (077U3731)"
+urn: urn:nir:stato:regio.decreto:1877-03-08;3731
+codice_redazionale: 077U3731
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,23 +20,16 @@ Vedute le deliberazioni del Consiglio comunale di S. Odorico in data 16 maggio e
 
 Vista la deliberazione emessa dal Consiglio provinciale di Udine in data 15 agosto 1876, in coerenza al disposto dell'articolo 176, n. 1, della legge comunale e provinciale 20 marzo 1865, allegato A;
 
-Udito
------
+Udito il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
 
-il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di S. Odorico nella provincia di Udine e' autorizzato a trasferire la sede municipale dalla frazione di S. Odorico a quella di Flaibano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 marzo 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il comune di S. Odorico nella provincia di Udine e' autorizzato a trasferire la sede municipale dalla frazione di S. Odorico a quella di Flaibano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 marzo 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

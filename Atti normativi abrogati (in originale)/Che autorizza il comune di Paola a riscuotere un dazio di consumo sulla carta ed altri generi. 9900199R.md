@@ -1,22 +1,18 @@
-REGIO DECRETO 18 giugno 1899 n. CXCIX
+---
+tipo: REGIO DECRETO
+numero: CXCIX
+data: 1899-06-18
+titolo: "Che autorizza il comune di Paola a riscuotere un dazio di consumo sulla carta ed altri generi. (9900199R)"
+urn: urn:nir:stato:regio.decreto:1899-06-18;199
+codice_redazionale: 9900199R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 giugno 1899 n. CXCIX
-=====================================
-
-Che autorizza il comune di Paola a riscuotere un dazio di consumo sulla carta ed altri generi. (9900199R)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/07/1899
-
-Art. 1
-------
-
-  
-Col quale il comune di Paola e' autorizzato a riscuotere un dazio di consumo sulla carta ed altri generi non appartenenti alle solite categorie. - Firmato UMBERTO - Controfirmato Carmine - Visto A.  
-Bonasi.   
-  
-Registrato alla Corte dei conti addi' 1° luglio 1899.   
-  
-Reg. 220. Atti del Governo a f. 43.   
-  
+Col quale il comune di Paola e' autorizzato a riscuotere un dazio di consumo sulla carta ed altri generi non appartenenti alle solite categorie. - Firmato UMBERTO - Controfirmato Carmine - Visto A.
+Bonasi. 
+ 
+ Registrato alla Corte dei conti addi' 1° luglio 1899. 
+ 
+ Reg. 220. Atti del Governo a f. 43.

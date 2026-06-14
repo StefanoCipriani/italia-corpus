@@ -1,56 +1,39 @@
-REGIO DECRETO 29 luglio 1875 n. MLXXXI
+---
+tipo: REGIO DECRETO
+numero: MLXXXI
+data: 1875-07-29
+titolo: "Che riconosce in ente morale la fondazione del collegio Sabino in Roma sotto la sorveglianza del Ministero dell'istruzione pubblica, e rimove da ogni ingerenza nel collegio e nell'amministrazione della fondazione la congregazione del patriziato sabino. (7501081R)"
+urn: urn:nir:stato:regio.decreto:1875-07-29;1081
+codice_redazionale: 7501081R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 luglio 1875 n. MLXXXI
-======================================
+La fondazione del collegio Sabino in Roma e' riconosciuta in ente morale sotto la sorveglianza del Ministero della pubblica istruzione.
 
-Che riconosce in ente morale la fondazione del collegio Sabino in Roma sotto la sorveglianza del Ministero dell'istruzione pubblica, e rimove da ogni ingerenza nel collegio e nell'amministrazione della fondazione la congregazione del patriziato sabino. (7501081R)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 29/08/1875
+La congregazione del patriziato sabino e' remossa da ogni ingerenza nel collegio e nell'amministrazione della fondazione.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-La fondazione del collegio Sabino in Roma e' riconosciuta in ente morale sotto la sorveglianza del Ministero della pubblica istruzione.   
-  
+Una commissione, composta di quattro delegati della provincia dell'Umbria e di un delegato della provincia di Roma, assumera' temporaneamente l'amministrazione della fondazione medesima.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-La congregazione del patriziato sabino e' remossa da ogni ingerenza nel collegio e nell'amministrazione della fondazione.   
-  
-
-Art. 3
-------
-
-  
-  
-Una commissione, composta di quattro delegati della provincia dell'Umbria e di un delegato della provincia di Roma, assumera' temporaneamente l'amministrazione della fondazione medesima.   
-  
-
-Art. 4
-------
-
-  
-  
-Con altro nostro decreto sara' provveduto definitivamente ai modi di esistenza del collegio, e alle norme con le quali i redditi della fondazione potessero essere distribuiti in pensioni di studio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche addi' 29 luglio 1875.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 agosto 1875   
-  
-Vol. 82 Atti del Governo a c. 79. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Vigliani.   
-  
-R. Bonghi.   
-  
+Con altro nostro decreto sara' provveduto definitivamente ai modi di esistenza del collegio, e alle norme con le quali i redditi della fondazione potessero essere distribuiti in pensioni di studio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche addi' 29 luglio 1875. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 agosto 1875 
+ 
+ Vol. 82 Atti del Governo a c. 79. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Vigliani. 
+ 
+ R. Bonghi.

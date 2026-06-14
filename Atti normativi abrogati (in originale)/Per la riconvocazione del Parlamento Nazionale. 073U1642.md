@@ -1,16 +1,14 @@
-REGIO DECRETO 19 ottobre 1873 n. 1642
-
-
-REGIO DECRETO 19 ottobre 1873 n. 1642
-=====================================
-
-Per la riconvocazione del Parlamento Nazionale. (073U1642)
-----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/11/1873
+---
+tipo: REGIO DECRETO
+numero: 1642
+data: 1873-10-19
+titolo: "Per la riconvocazione del Parlamento Nazionale. (073U1642)"
+urn: urn:nir:stato:regio.decreto:1873-10-19;1642
+codice_redazionale: 073U1642
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,23 +20,16 @@ Veduto il Nostro Decreto in data d'oggi, n. 1641, con cui la Sessione parlamenta
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Senato del Regno e la Camera dei Deputati sono riconvocati pel giorno 15 del prossimo mese di novembre.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 19 ottobre 1873.   
-  
-VITTORIO EMANUELE   
-  
-G. Cantelli.   
-  
+Il Senato del Regno e la Camera dei Deputati sono riconvocati pel giorno 15 del prossimo mese di novembre. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 19 ottobre 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ G. Cantelli.

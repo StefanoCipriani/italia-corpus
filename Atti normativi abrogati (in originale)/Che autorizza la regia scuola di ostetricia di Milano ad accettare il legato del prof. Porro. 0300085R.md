@@ -1,21 +1,17 @@
-REGIO DECRETO 01 marzo 1903 n. LXXXV
+---
+tipo: REGIO DECRETO
+numero: LXXXV
+data: 1903-03-01
+titolo: "Che autorizza la regia scuola di ostetricia di Milano ad accettare il legato del prof. Porro. (0300085R)"
+urn: urn:nir:stato:regio.decreto:1903-03-01;85
+codice_redazionale: 0300085R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 marzo 1903 n. LXXXV
-====================================
-
-Che autorizza la regia scuola di ostetricia di Milano ad accettare il legato del prof. Porro. (0300085R)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/04/1903
-
-Art. 1
-------
-
-  
-Con cui si autorizza la regia scuola di ostetricia di Milano ad accettare il legato dell'armamentario ostetrico ginecologico del professore Eduardo Porro. - Firmato VITTORIO EMANUELE - Controfirmato Nasi - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 1° aprile 1903.   
-  
-Reg. 9. Atti del Governo a f. 17.   
-  
+Con cui si autorizza la regia scuola di ostetricia di Milano ad accettare il legato dell'armamentario ostetrico ginecologico del professore Eduardo Porro. - Firmato VITTORIO EMANUELE - Controfirmato Nasi - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 1° aprile 1903. 
+ 
+ Reg. 9. Atti del Governo a f. 17.

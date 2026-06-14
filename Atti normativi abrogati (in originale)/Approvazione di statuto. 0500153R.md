@@ -1,19 +1,15 @@
-REGIO DECRETO 27 aprile 1905 n. CLIII
+---
+tipo: REGIO DECRETO
+numero: CLIII
+data: 1905-04-27
+titolo: "Approvazione di statuto. (0500153R)"
+urn: urn:nir:stato:regio.decreto:1905-04-27;153
+codice_redazionale: 0500153R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 aprile 1905 n. CLIII
-=====================================
-
-Approvazione di statuto. (0500153R)
------------------------------------
-
-Entrata in vigore del provvedimento: 13/07/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CLIII (Dato Roma, il 27 aprile 1905), col quale si approva il nuovo statuto del Monte di pieta' di Massa Lombarda.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CLIII (Dato Roma, il 27 aprile 1905), col quale si approva il nuovo statuto del Monte di pieta' di Massa Lombarda.

@@ -1,16 +1,14 @@
-REGIO DECRETO 10 marzo 1889 n. 6111
-
-
-REGIO DECRETO 10 marzo 1889 n. 6111
-===================================
-
-Che approva il nuovo capitolato tipo 14 giugno 1888 per i lavori da eseguirsi nel territorio della Direzione territoriale del Genio militare di Torino. (089U6111)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/07/1889
+---
+tipo: REGIO DECRETO
+numero: 6111
+data: 1889-03-10
+titolo: "Che approva il nuovo capitolato tipo 14 giugno 1888 per i lavori da eseguirsi nel territorio della Direzione territoriale del Genio militare di Torino. (089U6111)"
+urn: urn:nir:stato:regio.decreto:1889-03-10;6111
+codice_redazionale: 089U6111
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,25 +18,18 @@ Visto il nuovo capitolato tipo in data 14 giugno 1888 pei lavori dipendenti dall
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E'approvato il nuovo capitolato tipo 14 giugno 1888 per i lavori da eseguirsi nel territorio della Direzione territoriale del Genio militare di Torino.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 10 marzo 1889.   
-  
-UMBERTO.   
-  
-Bertole'-Viale   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+E'approvato il nuovo capitolato tipo 14 giugno 1888 per i lavori da eseguirsi nel territorio della Direzione territoriale del Genio militare di Torino. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 marzo 1889. 
+ 
+ UMBERTO. 
+ 
+ Bertole'-Viale 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

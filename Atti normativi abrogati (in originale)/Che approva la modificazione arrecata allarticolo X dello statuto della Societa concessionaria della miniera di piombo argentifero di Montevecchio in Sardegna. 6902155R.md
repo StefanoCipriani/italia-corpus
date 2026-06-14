@@ -1,16 +1,14 @@
-REGIO DECRETO 03 giugno 1869 n. MMCLV
-
-
-REGIO DECRETO 03 giugno 1869 n. MMCLV
-=====================================
-
-Che approva la modificazione arrecata all'articolo X dello statuto della Societa' concessionaria della miniera di piombo argentifero di Montevecchio in Sardegna. (6902155R)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/08/1869
+---
+tipo: REGIO DECRETO
+numero: MMCLV
+data: 1869-06-03
+titolo: "Che approva la modificazione arrecata all'articolo X dello statuto della Societa' concessionaria della miniera di piombo argentifero di Montevecchio in Sardegna. (6902155R)"
+urn: urn:nir:stato:regio.decreto:1869-06-03;2155
+codice_redazionale: 6902155R
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,28 +26,22 @@ Visto il titolo VII, libro I, del Codice di commercio;
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata e resa esecutoria, nella parte in cui riforma il sistema di votazione stabilito dall'articolo X dello statuto sociale, la deliberazione presa in assemblea generale, il giorno 5 novembre 1868, dagli azionisti della Societa' in accomandita, concessionaria della miniera di Montevecchio di Sardegna, avente sede in Livorno sotto la ragione sociale F. M. Guerrazzi e Compagni.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 3 giugno 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 14 giugno 1869   
-  
-Reg. 47 Atti del Governo a c. 84. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Pironti.   
-  
-Marco Minghetti.   
+E' approvata e resa esecutoria, nella parte in cui riforma il sistema di votazione stabilito dall'articolo X dello statuto sociale, la deliberazione presa in assemblea generale, il giorno 5 novembre 1868, dagli azionisti della Societa' in accomandita, concessionaria della miniera di Montevecchio di Sardegna, avente sede in Livorno sotto la ragione sociale F. M. Guerrazzi e Compagni. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 3 giugno 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 14 giugno 1869 
+ 
+ Reg. 47 Atti del Governo a c. 84. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Pironti. 
+ 
+ Marco Minghetti.

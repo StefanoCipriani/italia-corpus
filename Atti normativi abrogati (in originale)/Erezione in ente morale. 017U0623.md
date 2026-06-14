@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 27 marzo 1917 n. 623
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 623
+data: 1917-03-27
+titolo: "Erezione in ente morale. (017U0623)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-03-27;623
+codice_redazionale: 017U0623
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 27 marzo 1917 n. 623
-============================================
-
-Erezione in ente morale. (017U0623)
------------------------------------
-
-Entrata in vigore del provvedimento: 15/05/1917
-
-Art. 1
-------
-
-  
-N. 623   
-  
-Decreto Luogotenenziale del 27 marzo 1917, col quale, sulla proposta del ministro dell'interno, l'ospedale Umberto I, di Tagliacozzo e' eretto in ente morale e ne e' approvato lo statuto organico.   
-  
+N. 623 
+ 
+ Decreto Luogotenenziale del 27 marzo 1917, col quale, sulla proposta del ministro dell'interno, l'ospedale Umberto I, di Tagliacozzo e' eretto in ente morale e ne e' approvato lo statuto organico.

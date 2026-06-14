@@ -1,16 +1,14 @@
-REGIO DECRETO 07 aprile 1901 n. 122
-
-
-REGIO DECRETO 07 aprile 1901 n. 122
-===================================
-
-Che istituisce in Vittoria un Archivio notarile mandamentale. (001U0122)
-------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/05/1901
+---
+tipo: REGIO DECRETO
+numero: 122
+data: 1901-04-07
+titolo: "Che istituisce in Vittoria un Archivio notarile mandamentale. (001U0122)"
+urn: urn:nir:stato:regio.decreto:1901-04-07;122
+codice_redazionale: 001U0122
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Viste le deliberazioni dei Consigli comunali interessati per la istituzione di u
 
 Visto il parere emesso al riguardo dalla Deputazione provinciale di Siracusa;
 
-Visti gli [articoli 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-05-25;4900~art3), [101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-05-25;4900~art101) e [105 della legge 25 maggio 1879, n. 4900](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-05-25;4900~art105) (serie 2ª), e 94 del relativo Regolamento 23 novembre stesso anno, n. 3170 (serie 2ª);
+Visti gli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-05-25;4900#art_3), [101](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-05-25;4900#art_101) e [105 della legge 25 maggio 1879, n. 4900](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-05-25;4900#art_105) (serie 2ª), e 94 del relativo Regolamento 23 novembre stesso anno, n. 3170 (serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un Archivio notarile mandamentale nel Comune di Vittoria, capoluogo del mandamento, distretto notarile di Siracusa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 aprile 1901.   
-  
-VITTORIO EMANUELE.   
-  
-Cocco-Ortu.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.   
-  
+E' istituito un Archivio notarile mandamentale nel Comune di Vittoria, capoluogo del mandamento, distretto notarile di Siracusa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 aprile 1901. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Cocco-Ortu. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

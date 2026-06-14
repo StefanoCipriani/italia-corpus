@@ -1,16 +1,14 @@
-REGIO DECRETO 03 ottobre 1876 n. 3394
-
-
-REGIO DECRETO 03 ottobre 1876 n. 3394
-=====================================
-
-Col quale il comune di Palaja e' separato dalla sezione elettorale di Ponsacco e formera' una sezione distinta del collegio elettorale di Pontedera. (076U3394)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/10/1876
+---
+tipo: REGIO DECRETO
+numero: 3394
+data: 1876-10-03
+titolo: "Col quale il comune di Palaja e' separato dalla sezione elettorale di Ponsacco e formera' una sezione distinta del collegio elettorale di Pontedera. (076U3394)"
+urn: urn:nir:stato:regio.decreto:1876-10-03;3394
+codice_redazionale: 076U3394
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Palaja e' separato dalla sezione elettorale di Ponsacco formera' una sezione distinta del Collegio elettorale di Pontedera.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 3 ottobre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
-  
+Il comune di Palaja e' separato dalla sezione elettorale di Ponsacco formera' una sezione distinta del Collegio elettorale di Pontedera. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 3 ottobre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

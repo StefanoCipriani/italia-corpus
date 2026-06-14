@@ -1,16 +1,14 @@
-REGIO DECRETO 27 giugno 1941 n. 845
-
-
-REGIO DECRETO 27 giugno 1941 n. 845
-===================================
-
-Modificazione dell'organico del personale civile tecnico dell'Istituto geografico militare. (041U0845)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/09/1941
+---
+tipo: REGIO DECRETO
+numero: 845
+data: 1941-06-27
+titolo: "Modificazione dell'organico del personale civile tecnico dell'Istituto geografico militare. (041U0845)"
+urn: urn:nir:stato:regio.decreto:1941-06-27;845
+codice_redazionale: 041U0845
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -38,75 +36,69 @@ Udito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, d'intesa col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, d'intesa col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
+L'organico del personale civile tecnico dell'Istituto geografico militare, di cui al testo unico approvato con R. decreto 23 febbraio 1928-VI, n. 327, modificato dai Regi decreti 27 aprile 1931-IX, n. 985, e 27 giugno 1935-XIII, n. 1337, e dal R. decreto-legge 7 agosto 1938-XVI, n. 1301, e' sostituito dal seguente: 
+ 
+ Personale di gruppo A 
+ 
 
-  
-  
-L'organico del personale civile tecnico dell'Istituto geografico militare, di cui al testo unico approvato con R. decreto 23 febbraio 1928-VI, n. 327, modificato dai Regi decreti 27 aprile 1931-IX, n. 985, e 27 giugno 1935-XIII, n. 1337, e dal R. decreto-legge 7 agosto 1938-XVI, n. 1301, e' sostituito dal seguente:   
-  
-Personale di gruppo A   
-  
-  
-Numero  
-Grado dei posti - -  
-4° \  
-5° > Geodeta capo .................................... 1 6° /  
-6° Ingegnere geografo superiore ...................... 1  
-7° Ingegnere geografo capo ........................... 2  
-8° Ingegnere geografo principale ..................... 2  
-9° Ingegnere geografo ................................ 2  
-10° Ingegnere geografo aggiunto ....................... 3  
----  
-11  
----   
-  
-  
-Rimangono ferme le disposizioni contenute nel R. decreto-legge 27 novembre 1933-XII, n. 1709, convertito in legge con la legge 25 gennaio 1934-XII, n. 250, nei riguardi del geodeta capo dell'Istituto geografico militare.   
-  
-Personale di gruppo B   
-  
-Topografi   
-  
-  
-Numero  
-Grado dei posti - -  
-8° Topografi capi ...................................... 16  
-9° Primi topografi ..................................... 24  
-10° Topografi ........ \  
-11° Topografi aggiunti / ................................ 20  
----  
-69  
----  
-  
-  
-  
-Cartografi   
-  
-  
-8° Capi cartografi principali .......................... 4  
-9° capi cartografi ..................................... 13  
-10° Cartografi ........ \  
-11° Oartografi aggiunti / ............................... 29  
----  
-46  
----  
-  
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 27 giugno 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-Registrato alla Corte dei conti, addi' 23 agosto 1941-XIX   
-Atti del Governo, registro 436, foglio 84. - MANCINI   
+ Numero
+Grado dei posti - -
+ 4° \
+ 5° > Geodeta capo .................................... 1 6° /
+ 6° Ingegnere geografo superiore ...................... 1
+ 7° Ingegnere geografo capo ........................... 2
+ 8° Ingegnere geografo principale ..................... 2
+ 9° Ingegnere geografo ................................ 2
+ 10° Ingegnere geografo aggiunto ....................... 3
+ ---
+ 11
+ --- 
+
+ 
+ Rimangono ferme le disposizioni contenute nel R. decreto-legge 27 novembre 1933-XII, n. 1709, convertito in legge con la legge 25 gennaio 1934-XII, n. 250, nei riguardi del geodeta capo dell'Istituto geografico militare. 
+ 
+ Personale di gruppo B 
+ 
+ Topografi 
+ 
+
+ Numero
+Grado dei posti - -
+ 8° Topografi capi ...................................... 16
+ 9° Primi topografi ..................................... 24
+ 10° Topografi ........ \
+ 11° Topografi aggiunti / ................................ 20
+ ---
+ 69
+ ---
+
+
+ 
+ Cartografi 
+ 
+
+ 8° Capi cartografi principali .......................... 4
+ 9° capi cartografi ..................................... 13
+ 10° Cartografi ........ \
+ 11° Oartografi aggiunti / ............................... 29
+ ---
+ 46
+ ---
+ 
+
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 27 giugno 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ Registrato alla Corte dei conti, addi' 23 agosto 1941-XIX 
+ Atti del Governo, registro 436, foglio 84. - MANCINI

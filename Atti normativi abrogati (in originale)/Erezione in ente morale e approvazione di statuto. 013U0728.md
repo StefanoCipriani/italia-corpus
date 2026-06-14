@@ -1,19 +1,15 @@
-REGIO DECRETO 12 giugno 1913 n. 728
+---
+tipo: REGIO DECRETO
+numero: 728
+data: 1913-06-12
+titolo: "Erezione in ente morale e approvazione di statuto. (013U0728)"
+urn: urn:nir:stato:regio.decreto:1913-06-12;728
+codice_redazionale: 013U0728
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 giugno 1913 n. 728
-===================================
-
-Erezione in ente morale e approvazione di statuto. (013U0728)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/07/1913
-
-Art. 1
-------
-
-  
-N. 728   
-  
-Regio Decreto 12 giugno 1913, col quale, sulla proposta del ministro dell'interno, l'Asilo infantile Alvazzi-Dresco in Varzo (Novara), e' eretto in ente morale con amministrazione propria e ne e' approvato lo statuto organico.   
-  
+N. 728 
+ 
+ Regio Decreto 12 giugno 1913, col quale, sulla proposta del ministro dell'interno, l'Asilo infantile Alvazzi-Dresco in Varzo (Novara), e' eretto in ente morale con amministrazione propria e ne e' approvato lo statuto organico.

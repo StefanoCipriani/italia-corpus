@@ -1,16 +1,14 @@
-REGIO DECRETO 31 maggio 1874 n. 1949
-
-
-REGIO DECRETO 31 maggio 1874 n. 1949
-====================================
-
-Che fissa le Sovrintendenze per gli Archivi di Stato e designa le Provincie comprese nella circoscrizione rispettiva. (074U1949)
---------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/07/1874
+---
+tipo: REGIO DECRETO
+numero: 1949
+data: 1874-05-31
+titolo: "Che fissa le Sovrintendenze per gli Archivi di Stato e designa le Provincie comprese nella circoscrizione rispettiva. (074U1949)"
+urn: urn:nir:stato:regio.decreto:1874-05-31;1949
+codice_redazionale: 074U1949
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,32 +18,22 @@ Veduto il Nostro decreto 5 marzo ultimo scorso, n, 1861;
 
 Udito il Consiglio per gli Archivi;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Le Sovrintendenze agli Archivi di Stato sono dieci.
 
-  
-  
-Le Sovrintendenze agli Archivi di Stato sono dieci.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il territorio di ciascuna Sovrintendenza e' stabilito in conformita' della tabella seguente:   
-  
-Parte di provvedimento in formato grafico  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 31 maggio 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
+Il territorio di ciascuna Sovrintendenza e' stabilito in conformita' della tabella seguente: 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 31 maggio 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

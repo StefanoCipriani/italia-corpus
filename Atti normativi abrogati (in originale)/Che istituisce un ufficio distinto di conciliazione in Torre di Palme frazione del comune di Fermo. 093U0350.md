@@ -1,16 +1,14 @@
-REGIO DECRETO 02 luglio 1893 n. 350
-
-
-REGIO DECRETO 02 luglio 1893 n. 350
-===================================
-
-Che istituisce un ufficio distinto di conciliazione in Torre di Palme, frazione del comune di Fermo. (093U0350)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/07/1893
+---
+tipo: REGIO DECRETO
+numero: 350
+data: 1893-07-02
+titolo: "Che istituisce un ufficio distinto di conciliazione in Torre di Palme, frazione del comune di Fermo. (093U0350)"
+urn: urn:nir:stato:regio.decreto:1893-07-02;350
+codice_redazionale: 093U0350
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,20 @@ Vista la deliberazione del Consiglio comunale di Fermo in data 29 marzo u. s. co
 
 Visto il rapporto del Primo Presidente della Corte di appello di Ancona in data 18 maggio n. s. n. 884;
 
-Visti gli [articoli 1 della legge 16 giugno 1892 n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;261~art1), e 1 del regolamento 26 dicembre detto anno, n. 728;
+Visti gli [articoli 1 della legge 16 giugno 1892 n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del regolamento 26 dicembre detto anno, n. 728;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal primo agosto 1893 in Torre di Palme, frazione del comune di Fermo, e' istituito un ufficio distinto di conciliazione, con giurisdizione sull'intero territorio a cui si estende la frazione suddetta.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, aia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 luglio 1893.   
-  
-UMBERTO.   
-  
-Giolitti.   
-  
-Visto, Pel Guardasigilli: Giolitti.   
-  
+Dal primo agosto 1893 in Torre di Palme, frazione del comune di Fermo, e' istituito un ufficio distinto di conciliazione, con giurisdizione sull'intero territorio a cui si estende la frazione suddetta. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, aia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 luglio 1893. 
+ 
+ UMBERTO. 
+ 
+ Giolitti. 
+ 
+ Visto, Pel Guardasigilli: Giolitti.

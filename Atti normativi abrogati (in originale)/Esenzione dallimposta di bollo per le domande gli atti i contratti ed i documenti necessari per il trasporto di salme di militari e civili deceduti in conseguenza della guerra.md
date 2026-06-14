@@ -1,35 +1,25 @@
-LEGGE 23 ottobre 1956 n. 1249
-
-
-LEGGE 23 ottobre 1956 n. 1249
-=============================
-
-Esenzione dall'imposta di bollo per le domande, gli atti, i contratti ed i documenti necessari per il trasporto di salme di militari e civili deceduti in conseguenza della guerra.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 1249
+data: 1956-10-23
+titolo: "Esenzione dall'imposta di bollo per le domande, gli atti, i contratti ed i documenti necessari per il trasporto di salme di militari e civili deceduti in conseguenza della guerra."
+urn: urn:nir:stato:legge:1956-10-23;1249
+codice_redazionale: 056U1249
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le domande, gli atti, i contratti ed i documenti necessari per il trasporto di salme di militari e civili deceduti in conseguenza della guerra, sono esenti da imposta di bollo.  
-  
+Le domande, gli atti, i contratti ed i documenti necessari per il trasporto di salme di militari e civili deceduti in conseguenza della guerra, sono esenti da imposta di bollo.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 23 ottobre 1956
+Data a Roma, addi' 23 ottobre 1956
 
-GRONCHI SEGNI - ANDREOTTI
-
-Visto, il Guardasigilli: MORO
+GRONCHI SEGNI - ANDREOTTI Visto, il Guardasigilli: MORO

@@ -1,46 +1,37 @@
-REGIO DECRETO 26 maggio 1898 n. 175
-
-
-REGIO DECRETO 26 maggio 1898 n. 175
-===================================
-
-Concernente i funzionari degli Economati Generali dei beneficii vacanti. (098U0175)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/06/1898
+---
+tipo: REGIO DECRETO
+numero: 175
+data: 1898-05-26
+titolo: "Concernente i funzionari degli Economati Generali dei beneficii vacanti. (098U0175)"
+urn: urn:nir:stato:regio.decreto:1898-05-26;175
+codice_redazionale: 098U0175
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [Regio decreto del 25 agosto 1893, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-08-25;502);
+Visto il [Regio decreto del 25 agosto 1893, n. 502](Che%20abolisce%20i%20posti%20di%20segretario%20generale%20e%20di%20segretario%20capo%20negli%20Economati%20generali%20dei%20benefici%20vacanti%20e%20stabilisce%20norme%20circa%20gli%20impiegati%20in%20soprannumero%20e%20gli%20scrivani%20straor_228115922d65.md);
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo ordinato e ordiniamo quanto segue:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo ordinato e ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Gli attuali funzionari degli Economati Generali dei benefici vacanti, che, per la riforma dei ruoli organici, non siano collocati nell'Amministrazione alla quale appartengono, potranno essere nominati in soprannumero in un altro Economato.   
-  
-A misura che si approveranno i nuovi ruoli organici, cessera' la facolta' delle nomine predette nell'Amministrazione riordinata.   
-  
-Gli impiegati in soprannumero, nell'entrare in pianta, dovranno prendere l'ultimo posto fra i colleghi del loro grado e della loro classe, qualunque sia l'Economato cui verranno destinati.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 26 maggio 1898.   
-  
-UMBERTO.   
-  
-G. ZANARDELLI.   
-  
-Visto, Il Guardasigilli: G. ZANARDELLI.   
-  
+Gli attuali funzionari degli Economati Generali dei benefici vacanti, che, per la riforma dei ruoli organici, non siano collocati nell'Amministrazione alla quale appartengono, potranno essere nominati in soprannumero in un altro Economato. 
+ 
+ A misura che si approveranno i nuovi ruoli organici, cessera' la facolta' delle nomine predette nell'Amministrazione riordinata. 
+ 
+ Gli impiegati in soprannumero, nell'entrare in pianta, dovranno prendere l'ultimo posto fra i colleghi del loro grado e della loro classe, qualunque sia l'Economato cui verranno destinati. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 maggio 1898. 
+ 
+ UMBERTO. 
+ 
+ G. ZANARDELLI. 
+ 
+ Visto, Il Guardasigilli: G. ZANARDELLI.

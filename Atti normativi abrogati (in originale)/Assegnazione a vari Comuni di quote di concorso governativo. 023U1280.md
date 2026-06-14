@@ -1,17 +1,17 @@
-REGIO DECRETO 10 maggio 1923 n. 1280
+---
+tipo: REGIO DECRETO
+numero: 1280
+data: 1923-05-10
+titolo: "Assegnazione a vari Comuni di quote di concorso governativo. (023U1280)"
+urn: urn:nir:stato:regio.decreto:1923-05-10;1280
+codice_redazionale: 023U1280
+vigente: true
+---
 
-
-REGIO DECRETO 10 maggio 1923 n. 1280
-====================================
-
-Assegnazione a vari Comuni di quote di concorso governativo. (023U1280)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/07/1923
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1280. Regio decreto 10 maggio 1923, col quale, sulla proposta del Ministro delle finanze vengono, assegnate a vari Comuni del Mezzogiorno continentale e della Sicilia, le quote di concorso governativo per gli anni dal 1915 al 1922, per l'integrazione provvisoria delle deficienze di bilancio causate dall'applicazione delle disposizioni sui tributi locali contenute nelle leggi 25 giugno e 15 luglio 1906, nn. 255 e 383.
+1280.
+
+Regio decreto 10 maggio 1923, col quale, sulla proposta del Ministro delle finanze vengono, assegnate a vari Comuni del Mezzogiorno continentale e della Sicilia, le quote di concorso governativo per gli anni dal 1915 al 1922, per l'integrazione provvisoria delle deficienze di bilancio causate dall'applicazione delle disposizioni sui tributi locali contenute nelle leggi 25 giugno e 15 luglio 1906, nn. 255 e 383.

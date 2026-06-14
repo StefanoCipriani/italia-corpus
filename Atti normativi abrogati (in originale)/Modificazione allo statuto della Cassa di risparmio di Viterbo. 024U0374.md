@@ -1,21 +1,21 @@
-REGIO DECRETO 09 marzo 1924 n. 374
+---
+tipo: REGIO DECRETO
+numero: 374
+data: 1924-03-09
+titolo: "Modificazione allo statuto della Cassa di risparmio di Viterbo. (024U0374)"
+urn: urn:nir:stato:regio.decreto:1924-03-09;374
+codice_redazionale: 024U0374
+vigente: true
+---
 
-
-REGIO DECRETO 09 marzo 1924 n. 374
-==================================
-
-Modificazione allo statuto della Cassa di risparmio di Viterbo. (024U0374)
---------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/04/1924
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-374. R. decreto 9 marzo 1924, col quale, sulla proposta del Ministro per l'economia nazionale, viene modificato l'art. 10 dello statuto organico della Cassa risparmio di Viterbo.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 25 marzo 1924.
+374.
+
+R. decreto 9 marzo 1924, col quale, sulla proposta del Ministro per l'economia nazionale, viene modificato l'art. 10 dello statuto organico della Cassa risparmio di Viterbo. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 25 marzo 1924.

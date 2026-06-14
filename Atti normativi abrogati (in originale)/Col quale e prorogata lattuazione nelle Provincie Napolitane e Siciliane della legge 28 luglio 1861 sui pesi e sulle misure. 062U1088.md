@@ -1,16 +1,14 @@
-REGIO DECRETO 31 dicembre 1862 n. 1088
-
-
-REGIO DECRETO 31 dicembre 1862 n. 1088
-======================================
-
-Col quale e' prorogata l'attuazione nelle Provincie Napolitane e Siciliane della legge 28 luglio 1861 sui pesi e sulle misure. (062U1088)
------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/01/1863
+---
+tipo: REGIO DECRETO
+numero: 1088
+data: 1862-12-31
+titolo: "Col quale e' prorogata l'attuazione nelle Provincie Napolitane e Siciliane della legge 28 luglio 1861 sui pesi e sulle misure. (062U1088)"
+urn: urn:nir:stato:regio.decreto:1862-12-31;1088
+codice_redazionale: 062U1088
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,44 +20,30 @@ Considerando che gravi circostanze hanno impedito di poter disporre quanto occor
 
 Sulla proposizione del Ministro d'Agricoltura, Industria e Commercio;
 
-Udito
------
+Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+E' prorogata al 1.° luglio 1863 l'attuazione nelle Provincie Napolitane e Siciliane della legge 28 luglio 1861, n.° 132, sui pesi e sulle misure.
 
-  
-  
-E' prorogata al 1.° luglio 1863 l'attuazione nelle Provincie Napolitane e Siciliane della legge 28 luglio 1861, n.° 132, sui pesi e sulle misure.   
+## Art. 2.
 
-Art. 2
-------
+Entrera' pero' in vigore il 1.° gennaio 1863 il regolamento per la fabbricazione dei pesi e delle misure approvato col Regio Decreto 13 ottobre 1861, n.° 320.
 
-  
-  
-Entrera' pero' in vigore il 1.° gennaio 1863 il regolamento per la fabbricazione dei pesi e delle misure approvato col Regio Decreto 13 ottobre 1861, n.° 320.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-La conversione in legge del presente Decreto sara' proposta al Parlamento all'apertura della prossima sessione.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 31 dicembre 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 gennaio 1863   
-  
-Reg.° 21 Atti del Governo a c. 316. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-Manna.   
-  
+La conversione in legge del presente Decreto sara' proposta al Parlamento all'apertura della prossima sessione. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 31 dicembre 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 gennaio 1863 
+ 
+ Reg.° 21 Atti del Governo a c. 316. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ Manna.

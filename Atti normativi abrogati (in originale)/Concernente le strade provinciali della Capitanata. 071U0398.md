@@ -1,16 +1,14 @@
-REGIO DECRETO 05 agosto 1871 n. 398
-
-
-REGIO DECRETO 05 agosto 1871 n. 398
-===================================
-
-Concernente le strade provinciali della Capitanata. (071U0398)
---------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/09/1871
+---
+tipo: REGIO DECRETO
+numero: 398
+data: 1871-08-05
+titolo: "Concernente le strade provinciali della Capitanata. (071U0398)"
+urn: urn:nir:stato:regio.decreto:1871-08-05;398
+codice_redazionale: 071U0398
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,31 +26,20 @@ Veduto il voto emesso dal Consiglio superiore dei Lavori Pubblici nell'adunanza 
 
 Veduti gli articoli 14 e 25 della Legge 20 marzo 1865 sui Lavori Pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+Alle strade provinciali della Capitanata, e classificate tali col precitato Nostro decreto, sono aggiunti i due tronchi della nuova strada dalla diramazione della provinciale Lucera-Troia, presso il ponte Forenzo, all'abitato di Faeto.
 
-  
-  
-Alle strade provinciali della Capitanata, e classificate tali col precitato Nostro decreto, sono aggiunti i due tronchi della nuova strada dalla diramazione della provinciale Lucera-Troia, presso il ponte Forenzo, all'abitato di Faeto.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' approvato il tracciamento generale dei due tronchi suddetti, secondo i progetti avanti accennati del 23 novembre 1869 e 24 gennaio 1870, visti d'ordine Nostro dal predetto Ministro.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 5 agosto 1871.   
-  
-VITTORIO EMANUELE.   
-  
-G. Gadda.   
-  
+E' approvato il tracciamento generale dei due tronchi suddetti, secondo i progetti avanti accennati del 23 novembre 1869 e 24 gennaio 1870, visti d'ordine Nostro dal predetto Ministro. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 5 agosto 1871. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Gadda.

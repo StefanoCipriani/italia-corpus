@@ -1,19 +1,15 @@
-REGIO DECRETO 24 marzo 1910 n. CXVIII
+---
+tipo: REGIO DECRETO
+numero: CXVIII
+data: 1910-03-24
+titolo: "Col quale il fine inerente al patrimonio della Confraternita della Concezione di Molfetta, e' stato parzialmente trasformato a favore del locale Ricovero di mendicita'. (1000118R)"
+urn: urn:nir:stato:regio.decreto:1910-03-24;118
+codice_redazionale: 1000118R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 marzo 1910 n. CXVIII
-=====================================
-
-Col quale il fine inerente al patrimonio della Confraternita della Concezione di Molfetta, e' stato parzialmente trasformato a favore del locale Ricovero di mendicita'. (1000118R)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/05/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CXVIII (Dato a Roma, il 24 marzo 1910), col quale il fine inerente al patrimonio della Confraternita della Concezione di Molfetta, e' stato parzialmente trasformato a favore del locale Ricovero di mendicita'.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CXVIII (Dato a Roma, il 24 marzo 1910), col quale il fine inerente al patrimonio della Confraternita della Concezione di Molfetta, e' stato parzialmente trasformato a favore del locale Ricovero di mendicita'.

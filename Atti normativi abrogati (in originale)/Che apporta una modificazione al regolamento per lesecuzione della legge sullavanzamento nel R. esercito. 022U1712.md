@@ -1,22 +1,20 @@
-REGIO DECRETO 21 dicembre 1922 n. 1712
-
-
-REGIO DECRETO 21 dicembre 1922 n. 1712
-======================================
-
-Che apporta una modificazione al regolamento per l'esecuzione della legge sull'avanzamento nel R. esercito. (022U1712)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/01/1923
+---
+tipo: REGIO DECRETO
+numero: 1712
+data: 1922-12-21
+titolo: "Che apporta una modificazione al regolamento per l'esecuzione della legge sull'avanzamento nel R. esercito. (022U1712)"
+urn: urn:nir:stato:regio.decreto:1922-12-21;1712
+codice_redazionale: 022U1712
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 2 luglio 1886, n. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1886-07-02;254), sull'avanzamento nel R. esercito, e successive modificazioni;
+Vista la [legge 2 luglio 1886, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1886-07-02;254), sull'avanzamento nel R. esercito, e successive modificazioni;
 
 Visto il regolamento per l'esecuzione della legge sull'avanzamento nel R. esercito, approvato con Nostro decreto 21 luglio 1907, n. 626, e successive modificazioni;
 
@@ -26,27 +24,20 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro segretario di Stato per gli affari della guerra; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro segretario di Stato per gli affari della guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata la seguente variante al regolamento per l'esecuzione della legge sull'avanzamento nel R. esercito:   
-  
-Paragrafo 30 (n. 2 lettera a) «cinque mesi di servizio effettivo alle armi per la nomina ad appuntato».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 dicembre 1922.   
-  
-VITTORIO EMANUELE.   
-  
-MUSSOLINI - DIAZ.   
-  
-Visto, il guardasigilli: OVIGLIO.   
-  
+E' approvata la seguente variante al regolamento per l'esecuzione della legge sull'avanzamento nel R. esercito: 
+ 
+ Paragrafo 30 (n. 2 lettera a) «cinque mesi di servizio effettivo alle armi per la nomina ad appuntato». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 21 dicembre 1922. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ MUSSOLINI - DIAZ. 
+ 
+ Visto, il guardasigilli: OVIGLIO.

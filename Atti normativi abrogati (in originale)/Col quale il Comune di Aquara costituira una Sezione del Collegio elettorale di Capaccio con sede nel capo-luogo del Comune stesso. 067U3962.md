@@ -1,16 +1,14 @@
-REGIO DECRETO 06 ottobre 1867 n. 3962
-
-
-REGIO DECRETO 06 ottobre 1867 n. 3962
-=====================================
-
-Col quale il Comune di Aquara costituira' una Sezione del Collegio elettorale di Capaccio, con sede nel capo-luogo del Comune stesso. (067U3962)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/11/1867
+---
+tipo: REGIO DECRETO
+numero: 3962
+data: 1867-10-06
+titolo: "Col quale il Comune di Aquara costituira' una Sezione del Collegio elettorale di Capaccio, con sede nel capo-luogo del Comune stesso. (067U3962)"
+urn: urn:nir:stato:regio.decreto:1867-10-06;3962
+codice_redazionale: 067U3962
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune d'Aquara costituira' d'ora in poi una Sezione del Collegio elettorale di Capaccio, n. 343, la quale avra' sede nel capo-luogo del Comune stesso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Firenze addi' 6 ottobre 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Come dei conti addi' 17 ottobre 1867   
-  
-Reg. 41 Atti dei Governo a c. 23. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Tecchio.   
-  
-U. Rattazzi.   
-  
+Il Comune d'Aquara costituira' d'ora in poi una Sezione del Collegio elettorale di Capaccio, n. 343, la quale avra' sede nel capo-luogo del Comune stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Firenze addi' 6 ottobre 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Come dei conti addi' 17 ottobre 1867 
+ 
+ Reg. 41 Atti dei Governo a c. 23. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Tecchio. 
+ 
+ U. Rattazzi.

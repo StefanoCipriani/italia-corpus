@@ -1,16 +1,14 @@
-REGIO DECRETO 23 dicembre 1940 n. 1861
-
-
-REGIO DECRETO 23 dicembre 1940 n. 1861
-======================================
-
-Incorporazione della Cassa di risparmio di Ivrea in quella di Torino. (040U1861)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/02/1941
+---
+tipo: REGIO DECRETO
+numero: 1861
+data: 1940-12-23
+titolo: "Incorporazione della Cassa di risparmio di Ivrea in quella di Torino. (040U1861)"
+urn: urn:nir:stato:regio.decreto:1940-12-23;1861
+codice_redazionale: 040U1861
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,28 +24,22 @@ Considerato che, nei riguardi della Cassa di risparmio di Ivrea, con sede in Ivr
 
 Veduta la deliberazione del Comitato dei Ministri per la difesa del risparmio e per l'esercizio del credito, in data 20 luglio 1939-XVII, che ha designato la Cassa di risparmio di Torino quale Istituto incorporante della predetta Cassa di risparmio di Ivrea;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Presidente del Comitato dei Ministri per la difesa del risparmio e per l'esercizio del credito; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Presidente del Comitato dei Ministri per la difesa del risparmio e per l'esercizio del credito; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Cassa di risparmio di Ivrea, con sede in Ivrea, e' incorporata nella Cassa di risparmio di Torino, con sede in Torino. Le modalita' della incorporazione e le eventuali modificazioni dello statuto della Cassa incorporante saranno approvate con decreto del DUCE del Fascismo, Capo del Governo, Presidente del Comitato dei Ministri, a norma dell'[art. 47, comma 1°, del R. decreto-legge 12 marzo 1936, n. 375](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375~art47-com1), modificato con le leggi 7 marzo 1938-XVI, n. 141, e 7 aprile 1938-XVI, n. 636.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 dicembre 1940-XIX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 21 gennaio 1941-XIX   
-  
-Atti del Governo, registro 429, foglio 105. - MANCINI   
+La Cassa di risparmio di Ivrea, con sede in Ivrea, e' incorporata nella Cassa di risparmio di Torino, con sede in Torino. Le modalita' della incorporazione e le eventuali modificazioni dello statuto della Cassa incorporante saranno approvate con decreto del DUCE del Fascismo, Capo del Governo, Presidente del Comitato dei Ministri, a norma dell'[art. 47, comma 1°, del R. decreto-legge 12 marzo 1936, n. 375](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-03-12;375#art_47-com1), modificato con le leggi 7 marzo 1938-XVI, n. 141, e 7 aprile 1938-XVI, n. 636. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 dicembre 1940-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 21 gennaio 1941-XIX 
+ 
+ Atti del Governo, registro 429, foglio 105. - MANCINI

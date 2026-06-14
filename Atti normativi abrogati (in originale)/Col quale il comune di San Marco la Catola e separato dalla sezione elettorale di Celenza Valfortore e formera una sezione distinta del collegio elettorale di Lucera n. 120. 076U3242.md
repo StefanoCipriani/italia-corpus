@@ -1,16 +1,14 @@
-REGIO DECRETO 17 luglio 1876 n. 3242
-
-
-REGIO DECRETO 17 luglio 1876 n. 3242
-====================================
-
-Col quale il comune di San Marco la Catola e' separato dalla sezione elettorale di Celenza Valfortore e formera' una sezione distinta del collegio elettorale di Lucera, n. 120. (076U3242)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/08/1876
+---
+tipo: REGIO DECRETO
+numero: 3242
+data: 1876-07-17
+titolo: "Col quale il comune di San Marco la Catola e' separato dalla sezione elettorale di Celenza Valfortore e formera' una sezione distinta del collegio elettorale di Lucera, n. 120. (076U3242)"
+urn: urn:nir:stato:regio.decreto:1876-07-17;3242
+codice_redazionale: 076U3242
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,23 +20,16 @@ Vedute le istanze del comune di San Marco la Catola onde essere costituito sezio
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli stati dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli stati dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di S. Marco la Catola e' separato dalla sezione elettorale di Celenza Valfortore e formera' da oggi in poi una sezione distinta del Collegio elettorale di Lucera n. 120.   
-  
-Ordiniamo che il presente, decreto, munito del sigilla dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 17 luglio 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera   
-  
+Il comune di S. Marco la Catola e' separato dalla sezione elettorale di Celenza Valfortore e formera' da oggi in poi una sezione distinta del Collegio elettorale di Lucera n. 120. 
+ 
+ Ordiniamo che il presente, decreto, munito del sigilla dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 17 luglio 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera

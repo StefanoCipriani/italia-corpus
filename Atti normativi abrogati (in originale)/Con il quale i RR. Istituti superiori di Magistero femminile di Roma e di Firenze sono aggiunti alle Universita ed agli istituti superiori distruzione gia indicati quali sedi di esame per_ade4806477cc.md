@@ -1,16 +1,14 @@
-REGIO DECRETO 13 marzo 1890 n. 6794
-
-
-REGIO DECRETO 13 marzo 1890 n. 6794
-===================================
-
-Con il quale, i RR. Istituti superiori di Magistero femminile di Roma e di Firenze sono aggiunti alle Universita' ed agli istituti superiori d'istruzione gia' indicati, quali sedi di esame per l'abilitazione all'insegnamento nelle Scuole secondarie, per le maestre elementari che aspirano a conseguire un diploma per insegnare nelle Scuole normali. (090U6794)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/05/1890
+---
+tipo: REGIO DECRETO
+numero: 6794
+data: 1890-03-13
+titolo: "Con il quale, i RR. Istituti superiori di Magistero femminile di Roma e di Firenze sono aggiunti alle Universita' ed agli istituti superiori d'istruzione gia' indicati, quali sedi di esame per l'abilitazione all'insegnamento nelle Scuole secondarie, per le maestre elementari che aspirano a conseguire un diploma per insegnare nelle Scuole normali. (090U6794)"
+urn: urn:nir:stato:regio.decreto:1890-03-13;6794
+codice_redazionale: 090U6794
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,25 +18,18 @@ Visto il regolamento approvato con Nostro decreto in data 7 aprile 1889, n. 6095
 
 Veduta l'opportunita' che anche i Regi Istituti superiori di magistero femminile di Roma e Firenze siano sedi di tali esami per le maestre elementari che, trovandosi nelle condizioni accennate dall'art. 6 del detto regolamento, aspirano al Diploma di abilitazione all'insegnamento nelle Scuole normali;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Decreta:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Alle Universita' ed agli Istituti superiori d'istruzione indicati dall'art. 1° del regolamento approvato col succitato Nostro decreto 7 aprile 1889, quali sedi di esame per l'abilitazione all'insegnamento nelle Scuole secondarie, debbonsi aggiungere per le maestre elementari che aspirano a conseguire un Diploma per insegnare nelle Scuole normali, i RR. Istituti superiori di Magistero femminile di Roma e Firenze.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 marzo 1890.   
-  
-UMBERTO.   
-  
-P. Boselli.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+Alle Universita' ed agli Istituti superiori d'istruzione indicati dall'art. 1° del regolamento approvato col succitato Nostro decreto 7 aprile 1889, quali sedi di esame per l'abilitazione all'insegnamento nelle Scuole secondarie, debbonsi aggiungere per le maestre elementari che aspirano a conseguire un Diploma per insegnare nelle Scuole normali, i RR. Istituti superiori di Magistero femminile di Roma e Firenze. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 marzo 1890. 
+ 
+ UMBERTO. 
+ 
+ P. Boselli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

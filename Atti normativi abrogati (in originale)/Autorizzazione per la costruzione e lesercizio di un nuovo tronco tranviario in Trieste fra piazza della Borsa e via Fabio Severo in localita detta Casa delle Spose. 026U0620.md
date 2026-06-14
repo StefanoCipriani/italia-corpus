@@ -1,16 +1,14 @@
-REGIO DECRETO 21 marzo 1926 n. 620
-
-
-REGIO DECRETO 21 marzo 1926 n. 620
-==================================
-
-Autorizzazione per la costruzione e l'esercizio di un nuovo tronco tranviario in Trieste fra piazza della Borsa e via Fabio Severo in localita' detta Casa delle Spose. (026U0620)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/05/1926
+---
+tipo: REGIO DECRETO
+numero: 620
+data: 1926-03-21
+titolo: "Autorizzazione per la costruzione e l'esercizio di un nuovo tronco tranviario in Trieste fra piazza della Borsa e via Fabio Severo in localita' detta Casa delle Spose. (026U0620)"
+urn: urn:nir:stato:regio.decreto:1926-03-21;620
+codice_redazionale: 026U0620
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,37 +20,26 @@ Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'in
 
 Sentito il Consiglio superiore dei lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'Azienda tranviaria municipale di Trieste e' autorizzata a costruire ed esercitare un nuovo tronco tranviario fra piazza della Borsa e via Fabio Severo, in localita' detta Casa delle Spose, in Trieste.
 
-  
-  
-L'Azienda tranviaria municipale di Trieste e' autorizzata a costruire ed esercitare un nuovo tronco tranviario fra piazza della Borsa e via Fabio Severo, in localita' detta Casa delle Spose, in Trieste.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-La costruzione di cui sopra dovra' essere eseguita in conformita' al progetto all'uopo presentato in data 28 agosto 1925 dall'Azienda tranviaria municipale anzidetta, tenute presenti le riserve fatte sul progetto medesimo dal Consiglio superiore dei lavori pubblici con il voto 2 marzo 1926, n. 360.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 marzo 1926.   
-  
-VITTORIO EMANUELE.   
-  
-Giuriati.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 16 aprile 1926.   
-  
-Atti dei Governo, registro 247, foglio 92. - Coop   
-  
+La costruzione di cui sopra dovra' essere eseguita in conformita' al progetto all'uopo presentato in data 28 agosto 1925 dall'Azienda tranviaria municipale anzidetta, tenute presenti le riserve fatte sul progetto medesimo dal Consiglio superiore dei lavori pubblici con il voto 2 marzo 1926, n. 360. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 21 marzo 1926. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giuriati. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 16 aprile 1926. 
+ 
+ Atti dei Governo, registro 247, foglio 92. - Coop

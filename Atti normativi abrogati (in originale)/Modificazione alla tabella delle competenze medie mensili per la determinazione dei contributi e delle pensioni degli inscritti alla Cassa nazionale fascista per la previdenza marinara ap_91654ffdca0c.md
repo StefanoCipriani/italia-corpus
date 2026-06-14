@@ -1,16 +1,14 @@
-REGIO DECRETO 24 marzo 1941 n. 554
-
-
-REGIO DECRETO 24 marzo 1941 n. 554
-==================================
-
-Modificazione alla tabella delle competenze medie mensili per la determinazione dei contributi e delle pensioni degli inscritti alla Cassa nazionale fascista per la previdenza marinara, approvata con R. decreto 18 febbraio 1937-XV, n. 319. (041U0554)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/07/1941
+---
+tipo: REGIO DECRETO
+numero: 554
+data: 1941-03-24
+titolo: "Modificazione alla tabella delle competenze medie mensili per la determinazione dei contributi e delle pensioni degli inscritti alla Cassa nazionale fascista per la previdenza marinara, approvata con R. decreto 18 febbraio 1937-XV, n. 319. (041U0554)"
+urn: urn:nir:stato:regio.decreto:1941-03-24;554
+codice_redazionale: 041U0554
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,36 +22,30 @@ Vista la legge 25 agosto 1940-XVIII, n. 1404;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto coi Ministri per la marina e per le corporazioni;
 
-Vista
------
+Vista la delega rilasciata al Sottosegretario di Stato per le corporazioni in data 23 febbraio 1941-XIX; Abbiamo decretato e decretiamo:
 
-la delega rilasciata al Sottosegretario di Stato per le corporazioni in data 23 febbraio 1941-XIX; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La lettera G della tabella delle competenze medie mensili per la determinazione dei contributi e delle pensioni degli inscritti alla Cassa nazionale fascista per la previdenza marinara, approvata con R. decreto 18 febbraio 1937-XV, n. 319, e' cosi' modificata:   
-  
-G - Personale borghese imbarcato su Regie navi.   
-  
-1ª categoria:   
-  
-primi cuochi, primi maestri di casa, cuochi e maestri di casa unici e dirigenti il servizio della panificazione a bordo L. 400   
-  
-2ª categoria: secondi cuochi e secondi maestri di casa L. 350   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 marzo 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Host Venturi - Amicucci   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 22 giugno 1941-XIX   
-  
-Atti del Governo, registro 434, foglio 90. - Mancini   
+La lettera G della tabella delle competenze medie mensili per la determinazione dei contributi e delle pensioni degli inscritti alla Cassa nazionale fascista per la previdenza marinara, approvata con R. decreto 18 febbraio 1937-XV, n. 319, e' cosi' modificata: 
+ 
+ G - Personale borghese imbarcato su Regie navi. 
+ 
+ 1ª categoria: 
+ 
+ primi cuochi, primi maestri di casa, cuochi e maestri di casa unici e dirigenti il servizio della panificazione a bordo L. 400 
+ 
+ 2ª categoria: secondi cuochi e secondi maestri di casa L. 350 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 marzo 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Host Venturi - Amicucci 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 22 giugno 1941-XIX 
+ 
+ Atti del Governo, registro 434, foglio 90. - Mancini

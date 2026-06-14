@@ -1,19 +1,15 @@
-REGIO DECRETO 07 giugno 1906 n. CCLXII
+---
+tipo: REGIO DECRETO
+numero: CCLXII
+data: 1906-06-07
+titolo: "Approvazione di statuto. (0600262R)"
+urn: urn:nir:stato:regio.decreto:1906-06-07;262
+codice_redazionale: 0600262R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 giugno 1906 n. CCLXII
-======================================
-
-Approvazione di statuto. (0600262R)
------------------------------------
-
-Entrata in vigore del provvedimento: 04/09/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CCLXII (Dato a Roma, il 7 giugno 1906), col quale si approva lo statuto del Monte di pieta' di Rossano.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CCLXII (Dato a Roma, il 7 giugno 1906), col quale si approva lo statuto del Monte di pieta' di Rossano.

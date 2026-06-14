@@ -1,19 +1,15 @@
-REGIO DECRETO 22 ottobre 1911 n. 1189
+---
+tipo: REGIO DECRETO
+numero: 1189
+data: 1911-10-22
+titolo: "Applicazione di tasse di famiglia. (011U1189)"
+urn: urn:nir:stato:regio.decreto:1911-10-22;1189
+codice_redazionale: 011U1189
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 ottobre 1911 n. 1189
-=====================================
-
-Applicazione di tasse di famiglia. (011U1189)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 26/11/1911
-
-Art. 1
-------
-
-  
-N. 1189   
-  
-Regio Decreto 22 ottobre 1911, col quale, sulla proposta del ministro delle finanze, e' approvato il regolamento per l'applicazione della tassa di famiglia deliberato dalla Giunta provinciale amministrativa di Brescia in adunanza del 26 luglio 1911, in sostituzione del regolamento approvato col R. decreto 17 gennaio, n. 3.   
-  
+N. 1189 
+ 
+ Regio Decreto 22 ottobre 1911, col quale, sulla proposta del ministro delle finanze, e' approvato il regolamento per l'applicazione della tassa di famiglia deliberato dalla Giunta provinciale amministrativa di Brescia in adunanza del 26 luglio 1911, in sostituzione del regolamento approvato col R. decreto 17 gennaio, n. 3.

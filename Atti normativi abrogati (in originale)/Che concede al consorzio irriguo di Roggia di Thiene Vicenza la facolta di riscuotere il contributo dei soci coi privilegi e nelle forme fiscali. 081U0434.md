@@ -1,16 +1,14 @@
-REGIO DECRETO 02 ottobre 1881 n. 434
-
-
-REGIO DECRETO 02 ottobre 1881 n. 434
-====================================
-
-Che concede al consorzio irriguo di Roggia di Thiene (Vicenza), la facolta' di riscuotere il contributo dei soci coi privilegi e nelle forme fiscali. (081U0434)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/11/1881
+---
+tipo: REGIO DECRETO
+numero: 434
+data: 1881-10-02
+titolo: "Che concede al consorzio irriguo di Roggia di Thiene (Vicenza), la facolta' di riscuotere il contributo dei soci coi privilegi e nelle forme fiscali. (081U0434)"
+urn: urn:nir:stato:regio.decreto:1881-10-02;434
+codice_redazionale: 081U0434
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,27 +20,20 @@ Visto il regolamento del Consorzio e gli altri atti relativi;
 
 Vista la deliberazione dell'assemblea generale dei soci del 22 luglio 1881, con cui vengono accettate le modificazioni suggerite con nota Ministeriale 2 luglio 1881, n. 10856;
 
-Vista la [legge 29 maggio 1873, n. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (Serie 2ª);
+Vista la [legge 29 maggio 1873, n. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md) (Serie 2ª);
 
-Sulla
------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al Consorzio irriguo Roggia di Thiene (Vicenza) e' concessa la facolta' di riscuotere il contributo dei soci coi privilegi e nelle forme fiscali.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 2 ottobre 1881.   
-  
-UMBERTO.   
-  
-Berti.   
-  
-Visto, il Guardasigilli: Zanardelli.   
-  
+Al Consorzio irriguo Roggia di Thiene (Vicenza) e' concessa la facolta' di riscuotere il contributo dei soci coi privilegi e nelle forme fiscali. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 2 ottobre 1881. 
+ 
+ UMBERTO. 
+ 
+ Berti. 
+ 
+ Visto, il Guardasigilli: Zanardelli.

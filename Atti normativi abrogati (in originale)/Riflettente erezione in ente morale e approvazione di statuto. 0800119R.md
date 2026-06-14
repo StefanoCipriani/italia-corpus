@@ -1,19 +1,15 @@
-REGIO DECRETO 02 aprile 1908 n. CXIX
+---
+tipo: REGIO DECRETO
+numero: CXIX
+data: 1908-04-02
+titolo: "Riflettente erezione in ente morale e approvazione di statuto. (0800119R)"
+urn: urn:nir:stato:regio.decreto:1908-04-02;119
+codice_redazionale: 0800119R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 aprile 1908 n. CXIX
-====================================
-
-Riflettente erezione in ente morale e approvazione di statuto. (0800119R)
--------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/05/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CXIX (Dato a Roma, il 2 aprile 1908), col quale il pio lascito Voggi di Roma, e' eretto in ente morale, concentrato nella locale Congregazione di carita' e ne e' approvato lo statuto organico.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CXIX (Dato a Roma, il 2 aprile 1908), col quale il pio lascito Voggi di Roma, e' eretto in ente morale, concentrato nella locale Congregazione di carita' e ne e' approvato lo statuto organico.

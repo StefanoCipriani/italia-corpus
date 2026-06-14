@@ -1,16 +1,14 @@
-REGIO DECRETO 04 settembre 1898 n. 419
-
-
-REGIO DECRETO 04 settembre 1898 n. 419
-======================================
-
-Riflettente la istituzione in Battipaglia, frazione del Comune di Eboli, di un Ufficio distinto di Conciliazione. (098U0419)
-----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/10/1898
+---
+tipo: REGIO DECRETO
+numero: 419
+data: 1898-09-04
+titolo: "Riflettente la istituzione in Battipaglia, frazione del Comune di Eboli, di un Ufficio distinto di Conciliazione. (098U0419)"
+urn: urn:nir:stato:regio.decreto:1898-09-04;419
+codice_redazionale: 098U0419
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,25 +18,18 @@ Vista la deliberazione del Consiglio Comunale di Eboli, in data 20 dicembre 1897
 
 Visto il rapporto del Primo Presidente della Corte d'Appello di Napoli, in data 17 agosto corrente anno;
 
-Visti gli articoli 1° della [legge 16 giugno 1892, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;261), e 1° del Regolamento 26 dicembre stesso anno, n. 728;
+Visti gli articoli 1° della [legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1° del Regolamento 26 dicembre stesso anno, n. 728;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal 1° ottobre 1898 in Battipaglia, frazione del Comune di Eboli, e' istituito un Ufficio distinto di conciliazione con giurisdizione sull'intero territorio della frazione stessa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Monza, addi' 4 settembre 1898.   
-  
-UMBERTO.   
-  
-C. Finocchiaro-Aprile.   
-  
-Visto, Il Guardasigilli: C. Finocchiaro-Aprile.   
-  
+Dal 1° ottobre 1898 in Battipaglia, frazione del Comune di Eboli, e' istituito un Ufficio distinto di conciliazione con giurisdizione sull'intero territorio della frazione stessa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Monza, addi' 4 settembre 1898. 
+ 
+ UMBERTO. 
+ 
+ C. Finocchiaro-Aprile. 
+ 
+ Visto, Il Guardasigilli: C. Finocchiaro-Aprile.

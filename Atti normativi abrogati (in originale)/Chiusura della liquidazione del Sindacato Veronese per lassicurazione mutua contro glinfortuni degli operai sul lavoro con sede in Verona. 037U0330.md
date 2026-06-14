@@ -1,16 +1,14 @@
-REGIO DECRETO 11 marzo 1937 n. 330
-
-
-REGIO DECRETO 11 marzo 1937 n. 330
-==================================
-
-Chiusura della liquidazione del Sindacato Veronese per l'assicurazione mutua contro gl'infortuni degli operai sul lavoro, con sede in Verona. (037U0330)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/04/1937
+---
+tipo: REGIO DECRETO
+numero: 330
+data: 1937-03-11
+titolo: "Chiusura della liquidazione del Sindacato Veronese per l'assicurazione mutua contro gl'infortuni degli operai sul lavoro, con sede in Verona. (037U0330)"
+urn: urn:nir:stato:regio.decreto:1937-03-11;330
+codice_redazionale: 037U0330
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Veduti la legge ([testo unico) 21 gennaio 1904, n. 51](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1904-01-21;51), per gl'infortuni degli operai sul lavoro ed il relativo regolamento approvato col [R. decreto 13 marzo 1904, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-03-13;141), con le successive modificazioni all'una ed all'altro apportate;
+Veduti la legge ([testo unico) 21 gennaio 1904, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1904-01-21;51), per gl'infortuni degli operai sul lavoro ed il relativo regolamento approvato col [R. decreto 13 marzo 1904, n. 141](Che%20approva%20il%20regolamento%20per%20la%20esecuzione%20della%20legge%20sugli%20infortuni%20degli%20operai%20sul%20lavoro.%20004U0141.md), con le successive modificazioni all'una ed all'altro apportate;
 
 Veduto il R. decreto 7 giugno 1928, con il quale fu sciolto e messo in liquidazione il Sindacato Veronese per l'assicurazione mutua contro gl'infortuni degli operai sul lavoro, con sede in Verona;
 
@@ -26,30 +24,22 @@ Veduto il bilancio di chiusura della gestione liquidatrice al 30 settembre 1936 
 
 Ritenuto che, a seguito dell'approvazione del sopradetto bilancio di chiusura, il liquidatore ha adempiuto alle disposizioni impartitegli relativamente alla destinazione del residuo attivo ed alla conservazione degli archivi e che, pertanto, la liquidazione puo' ritenersi definitivamente esaurita;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le corporazioni; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le corporazioni; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La liquidazione del Sindacato Veronese per l'assicurazione mutua contro gl'infortuni degli operai sul lavoro, con sede in Verona, disposta, col R. decreto 7 giugno 1928 e' dichiarata chiusa, a tutti gli effetti di legge, secondo risultanze del bilancio al 30 settembre 1936 reso dal liquidatore Istituto nazionale fascista per l'assicurazione contro gl'infortuni degli operai sul lavoro.   
-  
-Ordiniamo che il presente decreto, munito del sigillo delle Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 marzo 1937 - Anno XV   
-  
-VITTORIO EMANUELE   
-  
-Lantini.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi 27 marzo 1937 - Anno XV.   
-  
-Atti del Governo, registro 383, foglio 144. - Mancini.   
-  
-  
+La liquidazione del Sindacato Veronese per l'assicurazione mutua contro gl'infortuni degli operai sul lavoro, con sede in Verona, disposta, col R. decreto 7 giugno 1928 e' dichiarata chiusa, a tutti gli effetti di legge, secondo risultanze del bilancio al 30 settembre 1936 reso dal liquidatore Istituto nazionale fascista per l'assicurazione contro gl'infortuni degli operai sul lavoro. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo delle Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 marzo 1937 - Anno XV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Lantini. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi 27 marzo 1937 - Anno XV. 
+ 
+ Atti del Governo, registro 383, foglio 144. - Mancini.

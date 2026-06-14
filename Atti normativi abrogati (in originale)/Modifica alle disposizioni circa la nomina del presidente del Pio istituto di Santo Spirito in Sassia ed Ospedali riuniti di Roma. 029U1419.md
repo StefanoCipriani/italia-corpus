@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 26 luglio 1929 n. 1419
-
-
-REGIO DECRETO-LEGGE 26 luglio 1929 n. 1419
-==========================================
-
-Modifica alle disposizioni circa la nomina del presidente del Pio istituto di Santo Spirito in Sassia ed Ospedali riuniti di Roma. (029U1419)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/08/1929   
-Regio Decreto-Legge convertito dalla [L. 13 gennaio 1930, n. 22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-01-13;22) (in G.U. 10/02/1930, n. 33).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1419
+data: 1929-07-26
+titolo: "Modifica alle disposizioni circa la nomina del presidente del Pio istituto di Santo Spirito in Sassia ed Ospedali riuniti di Roma. (029U1419)"
+urn: urn:nir:stato:regio.decreto.legge:1929-07-26;1419
+codice_redazionale: 029U1419
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -27,31 +24,25 @@ Ritenuta la necessita', assoluta ed urgente di provvedere;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno, e del Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno, e del Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al [primo comma dell'art. 2 del decreto-legge Luogotenenziale 26 novembre 1916, n. 1640](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1916-11-26;1640~art2-com1), e' sostituito il seguente:   
-  
-«Il presidente e' nominato con decreto Reale, su proposta del Ministro per l'interno, di concerto col Ministro per le finanze».   
-  
-Il presente decreto entra in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale e sara' presentato al Parlamento per essere convertito in legge. Il Capo del Governo, Ministro proponente, e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Anna di Valdieri, addi' 26 luglio 1929 - Anno VII   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 14 agosto 1929 - Anno VII   
-Atti del Governo, registro 287, foglio 66. - Mancini.   
+Al [primo comma dell'art. 2 del decreto-legge Luogotenenziale 26 novembre 1916, n. 1640](Concernente%20provvedimenti%20per%20lamministrazione%20e%20la%20tutela%20del%20pio%20Istituto%20di%20Santo%20Spirito%20in%20Sassia%20ed%20ospedali%20riuniti%20di%20Roma.%20016U1640.md), e' sostituito il seguente: 
+ 
+ «Il presidente e' nominato con decreto Reale, su proposta del Ministro per l'interno, di concerto col Ministro per le finanze». 
+ 
+ Il presente decreto entra in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale e sara' presentato al Parlamento per essere convertito in legge. Il Capo del Governo, Ministro proponente, e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Anna di Valdieri, addi' 26 luglio 1929 - Anno VII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 14 agosto 1929 - Anno VII  
+ Atti del Governo, registro 287, foglio 66. - Mancini.

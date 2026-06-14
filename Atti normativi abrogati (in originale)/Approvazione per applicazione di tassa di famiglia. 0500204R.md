@@ -1,19 +1,15 @@
-REGIO DECRETO 24 luglio 1905 n. CCIV
+---
+tipo: REGIO DECRETO
+numero: CCIV
+data: 1905-07-24
+titolo: "Approvazione per applicazione di tassa di famiglia. (0500204R)"
+urn: urn:nir:stato:regio.decreto:1905-07-24;204
+codice_redazionale: 0500204R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 luglio 1905 n. CCIV
-====================================
-
-Approvazione per applicazione di tassa di famiglia. (0500204R)
---------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/08/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CCIV (Dato a Racconigi, il 24 luglio 1905), col quale e' data facolta' al comune di Bagnacavallo di applicare, nell'anno 1905, la tassa di famiglia, in base ad una tariffa progressiva con l'aliquota minima di L. 0.80 (cent. ottanta).   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CCIV (Dato a Racconigi, il 24 luglio 1905), col quale e' data facolta' al comune di Bagnacavallo di applicare, nell'anno 1905, la tassa di famiglia, in base ad una tariffa progressiva con l'aliquota minima di L. 0.80 (cent. ottanta).

@@ -1,16 +1,14 @@
-REGIO DECRETO 07 febbraio 1867 n. 3543
-
-
-REGIO DECRETO 07 febbraio 1867 n. 3543
-======================================
-
-Con cui l'attuale Sezione del Collegio elettorale di Sondrio, detta di Traona, e' soppressa, e gli Elettori sono aggregati alla Sezione detta di Morbegno. (067U3543)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/03/1867
+---
+tipo: REGIO DECRETO
+numero: 3543
+data: 1867-02-07
+titolo: "Con cui l'attuale Sezione del Collegio elettorale di Sondrio, detta di Traona, e' soppressa, e gli Elettori sono aggregati alla Sezione detta di Morbegno. (067U3543)"
+urn: urn:nir:stato:regio.decreto:1867-02-07;3543
+codice_redazionale: 067U3543
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Ritenuto che sulle liste elettorali politiche dell'attuale Sezione del Collegio 
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'attuale Sezione del Collegio elettorale di Sondrio, n° 373, detta di Traona, e' soppressa, e gli Elettori suoi sono aggregati alla Sezione piu' vicina dello stesso Collegio detta di Morbegno.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia , mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 7 febbraio 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 21 febbraio 1867   
-  
-Reg° 39 Atti del Governo a c. 95. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Borgatti.   
-  
-Ricasoli.   
-  
+L'attuale Sezione del Collegio elettorale di Sondrio, n° 373, detta di Traona, e' soppressa, e gli Elettori suoi sono aggregati alla Sezione piu' vicina dello stesso Collegio detta di Morbegno. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia , mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 7 febbraio 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 21 febbraio 1867 
+ 
+ Reg° 39 Atti del Governo a c. 95. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ Ricasoli.

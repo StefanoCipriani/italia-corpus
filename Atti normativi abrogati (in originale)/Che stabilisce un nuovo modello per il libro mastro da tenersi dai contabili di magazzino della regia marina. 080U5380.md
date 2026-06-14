@@ -1,16 +1,14 @@
-REGIO DECRETO 04 aprile 1880 n. 5380
-
-
-REGIO DECRETO 04 aprile 1880 n. 5380
-====================================
-
-Che stabilisce un nuovo modello per il libro mastro da tenersi dai contabili di magazzino della regia marina. (080U5380)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/05/1880
+---
+tipo: REGIO DECRETO
+numero: 5380
+data: 1880-04-04
+titolo: "Che stabilisce un nuovo modello per il libro mastro da tenersi dai contabili di magazzino della regia marina. (080U5380)"
+urn: urn:nir:stato:regio.decreto:1880-04-04;5380
+codice_redazionale: 080U5380
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,42 +24,31 @@ Ritenuto che all'articolo 11 del precitato Regio decreto 19 novembre 1876 e' sta
 
 Considerando essere necessario dare a questi conti una forma per la quale sia piu' chiaramente dimostrata la somma delle operazioni d'entrata e d'uscita dei materiali durante l'anno;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari della Marina, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari della Marina, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I contabili dei magazzini della Regia marina dovranno, a datare dal 1° gennaio 1880, tenere un libro mastro conforme al modulo annesso al presente decreto. 
+ 
+ Questo libro mastro, nel quale dovranno essere trimestralmente riportati i risultati delle operazioni d'entrata e d'uscita dei materiali per ciascun magazzino, costituira', coi relativi documenti giustificativi, l'annuo conto giudiziale da presentarsi alla Corte dei conti.
 
-  
-  
-I contabili dei magazzini della Regia marina dovranno, a datare dal 1° gennaio 1880, tenere un libro mastro conforme al modulo annesso al presente decreto.   
-  
-Questo libro mastro, nel quale dovranno essere trimestralmente riportati i risultati delle operazioni d'entrata e d'uscita dei materiali per ciascun magazzino, costituira', coi relativi documenti giustificativi, l'annuo conto giudiziale da presentarsi alla Corte dei conti.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Dal 1° gennaio 1880 sono soppressi i seguenti registri ed abrogate le disposizioni dei Regi decreti 16 novembre 1869 e 19 novembre 1876, colle quali erano prescritti, cioe':   
-  
-Registro recapitolativo, modello 6;   
-  
-Sommari trimestrali, modello 7;   
-  
-Libro mastro, modello 9.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 aprile 1880.   
-  
-UMBERTO.   
-  
-F. Acton.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Dal 1° gennaio 1880 sono soppressi i seguenti registri ed abrogate le disposizioni dei Regi decreti 16 novembre 1869 e 19 novembre 1876, colle quali erano prescritti, cioe': 
+ 
+ Registro recapitolativo, modello 6; 
+ 
+ Sommari trimestrali, modello 7; 
+ 
+ Libro mastro, modello 9. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 aprile 1880. 
+ 
+ UMBERTO. 
+ 
+ F. Acton. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

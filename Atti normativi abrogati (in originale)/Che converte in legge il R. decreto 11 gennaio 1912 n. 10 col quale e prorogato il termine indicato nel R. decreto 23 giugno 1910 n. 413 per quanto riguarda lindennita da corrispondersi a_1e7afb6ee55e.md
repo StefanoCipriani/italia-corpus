@@ -1,39 +1,35 @@
-LEGGE 31 marzo 1912 n. 238
+---
+tipo: LEGGE
+numero: 238
+data: 1912-03-31
+titolo: "Che converte in legge il R. decreto 11 gennaio 1912, n. 10, col quale e' prorogato il termine indicato nel R. decreto 23 giugno 1910, n. 413, per quanto riguarda l'indennita' da corrispondersi ai giurati che prestano servizio nella Corte d'assise di Palmi. (012U0238)"
+urn: urn:nir:stato:legge:1912-03-31;238
+codice_redazionale: 012U0238
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 31 marzo 1912 n. 238
-==========================
-
-Che converte in legge il R. decreto 11 gennaio 1912, n. 10, col quale e' prorogato il termine indicato nel R. decreto 23 giugno 1910, n. 413, per quanto riguarda l'indennita' da corrispondersi ai giurati che prestano servizio nella Corte d'assise di Palmi. (012U0238)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/04/1912
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-per grazia di Dio e per volonta' della Nazione   
-  
-RE D'ITALIA   
-  
-Il Senato e la Camera dei deputati hanno approvato;   
-  
-Noi abbiamo sanzionato e promulghiamo quanto segue:   
-  
-Articolo unico.   
-  
-E' convertito in legge il [R. decreto 11 gennaio 1912, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-01-11;10), col quale e' prorogato fino a tutto il 31 dicembre 1912 il termine indicato nel [R. decreto 23 giugno 1910, n. 413](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-06-23;413), per quanto riguarda l'indennita' da corrispondersi ai giurati che prestano servizio nella Corte d'assise straordinaria in Palmi.   
-  
-Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Roma, addi' 31 marzo 1912.   
-  
-VITTORIO EMANUELE.   
-  
-Finocchiaro-Aprile.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+VITTORIO EMANUELE III 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Il Senato e la Camera dei deputati hanno approvato; 
+ 
+ Noi abbiamo sanzionato e promulghiamo quanto segue: 
+ 
+ Articolo unico. 
+ 
+ E' convertito in legge il [R. decreto 11 gennaio 1912, n. 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-01-11;10), col quale e' prorogato fino a tutto il 31 dicembre 1912 il termine indicato nel [R. decreto 23 giugno 1910, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-06-23;413), per quanto riguarda l'indennita' da corrispondersi ai giurati che prestano servizio nella Corte d'assise straordinaria in Palmi. 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Roma, addi' 31 marzo 1912. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Finocchiaro-Aprile. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

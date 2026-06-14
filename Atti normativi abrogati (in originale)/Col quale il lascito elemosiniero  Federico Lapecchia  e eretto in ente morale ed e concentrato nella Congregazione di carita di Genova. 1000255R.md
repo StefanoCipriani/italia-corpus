@@ -1,19 +1,15 @@
-REGIO DECRETO 07 luglio 1910 n. CCLV
+---
+tipo: REGIO DECRETO
+numero: CCLV
+data: 1910-07-07
+titolo: "Col quale il lascito elemosiniero « Federico Lapecchia » e' eretto in ente morale ed e' concentrato nella Congregazione di carita' di Genova. (1000255R)"
+urn: urn:nir:stato:regio.decreto:1910-07-07;255
+codice_redazionale: 1000255R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 luglio 1910 n. CCLV
-====================================
-
-Col quale il lascito elemosiniero « Federico Lapecchia » e' eretto in ente morale ed e' concentrato nella Congregazione di carita' di Genova. (1000255R)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/08/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCLV (Dato a Roma, il 7 luglio 1910), col quale il lascito elemosiniero « Federico Lapecchia » e' eretto in ente morale ed e' concentrato nella Congregazione di carita' di Genova.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCLV (Dato a Roma, il 7 luglio 1910), col quale il lascito elemosiniero « Federico Lapecchia » e' eretto in ente morale ed e' concentrato nella Congregazione di carita' di Genova.

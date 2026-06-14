@@ -1,16 +1,14 @@
-REGIO DECRETO 08 settembre 1867 n. 3917
-
-
-REGIO DECRETO 08 settembre 1867 n. 3917
-=======================================
-
-Col quale il Comune di Bernalda costituira' una Sezione del Collegio elettorale di era con sede nel capoluogo del Comune stesso. (067U3917)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/10/1867
+---
+tipo: REGIO DECRETO
+numero: 3917
+data: 1867-09-08
+titolo: "Col quale il Comune di Bernalda costituira' una Sezione del Collegio elettorale di era con sede nel capoluogo del Comune stesso. (067U3917)"
+urn: urn:nir:stato:regio.decreto:1867-09-08;3917
+codice_redazionale: 067U3917
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune stesso piu' di 40 elettori inscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Bernalda costituira' d'ora in poi una Sezione del Collegio elettorale di Matera n. 53, la quale avra' sede nel capoluogo del Comune stesso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sommariva Perno addi' 8 settembre 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 20 settembre 1867   
-  
-Reg. 40 Atti del Governo a c. 250. Crodara Visconti.   
-  
-Luogo del sigillo. V. Il Guardasigilli Tecchio.   
-  
-U. Rattazzi.   
-  
+Il Comune di Bernalda costituira' d'ora in poi una Sezione del Collegio elettorale di Matera n. 53, la quale avra' sede nel capoluogo del Comune stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sommariva Perno addi' 8 settembre 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 20 settembre 1867 
+ 
+ Reg. 40 Atti del Governo a c. 250. Crodara Visconti. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Tecchio. 
+ 
+ U. Rattazzi.

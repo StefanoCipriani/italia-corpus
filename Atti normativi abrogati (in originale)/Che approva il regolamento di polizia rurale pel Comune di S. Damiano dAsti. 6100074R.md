@@ -1,19 +1,15 @@
-REGIO DECRETO 23 giugno 1861 n. LXXIV
+---
+tipo: REGIO DECRETO
+numero: LXXIV
+data: 1861-06-23
+titolo: "Che approva il regolamento di polizia rurale pel Comune di S. Damiano d'Asti. (6100074R)"
+urn: urn:nir:stato:regio.decreto:1861-06-23;74
+codice_redazionale: 6100074R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 giugno 1861 n. LXXIV
-=====================================
-
-Che approva il regolamento di polizia rurale pel Comune di S. Damiano d'Asti. (6100074R)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/06/1861
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia rurale deliberato dal Comune di S. Damiano d'Asti nella sua adunanza del 24 febbraio 1861 colle modificazioni adottate con ordinato del 28 successivo maggio.   
-  
-Torino 23 giugno 1861   
-  
+Che approva il regolamento di polizia rurale deliberato dal Comune di S. Damiano d'Asti nella sua adunanza del 24 febbraio 1861 colle modificazioni adottate con ordinato del 28 successivo maggio. 
+ 
+ Torino 23 giugno 1861

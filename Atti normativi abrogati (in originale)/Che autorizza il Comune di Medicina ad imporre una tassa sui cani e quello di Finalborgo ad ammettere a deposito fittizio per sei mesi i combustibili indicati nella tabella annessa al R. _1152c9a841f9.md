@@ -1,19 +1,15 @@
-REGIO DECRETO 05 settembre 1861 n. CXLI
+---
+tipo: REGIO DECRETO
+numero: CXLI
+data: 1861-09-05
+titolo: "Che autorizza il Comune di Medicina ad imporre una tassa sui cani; e quello di Finalborgo ad ammettere a deposito fittizio per sei mesi i combustibili indicati nella tabella annessa al R. Decreto 18 dicembre 1855. (6100141R)"
+urn: urn:nir:stato:regio.decreto:1861-09-05;141
+codice_redazionale: 6100141R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 settembre 1861 n. CXLI
-=======================================
-
-Che autorizza il Comune di Medicina ad imporre una tassa sui cani; e quello di Finalborgo ad ammettere a deposito fittizio per sei mesi i combustibili indicati nella tabella annessa al R. Decreto 18 dicembre 1855. (6100141R)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/09/1861
-
-Art. 1
-------
-
-  
-Che autorizza il Comune di Medicina della Provincia di Bologna ad imporre una tassa sui cani, ed il Comune di Finalborgo del Circondario d'Albenga ad ammettere a deposito fittizio per sei mesi i combustibili indicati nella tabella annessa al R. Decreto 18 dicembre 1855.   
-  
-Torino 5 settembre 1861   
-  
+Che autorizza il Comune di Medicina della Provincia di Bologna ad imporre una tassa sui cani, ed il Comune di Finalborgo del Circondario d'Albenga ad ammettere a deposito fittizio per sei mesi i combustibili indicati nella tabella annessa al R. Decreto 18 dicembre 1855. 
+ 
+ Torino 5 settembre 1861

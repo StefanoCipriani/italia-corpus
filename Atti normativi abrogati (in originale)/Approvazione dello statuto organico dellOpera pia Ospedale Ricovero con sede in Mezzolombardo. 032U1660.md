@@ -1,21 +1,21 @@
-REGIO DECRETO 10 novembre 1932 n. 1660
+---
+tipo: REGIO DECRETO
+numero: 1660
+data: 1932-11-10
+titolo: "Approvazione dello statuto organico dell'Opera pia «Ospedale Ricovero» con sede in Mezzolombardo. (032U1660)"
+urn: urn:nir:stato:regio.decreto:1932-11-10;1660
+codice_redazionale: 032U1660
+vigente: true
+---
 
-
-REGIO DECRETO 10 novembre 1932 n. 1660
-======================================
-
-Approvazione dello statuto organico dell'Opera pia «Ospedale Ricovero» con sede in Mezzolombardo. (032U1660)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/01/1933
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1660. R. decreto 10 novembre 1932, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene approvato lo statuto organico dell'Opera pia «Ospedale Ricovero», con sede in Mezzolombardo (Trento).   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 23 dicembre 1932 - Anno XI
+1660.
+
+R. decreto 10 novembre 1932, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene approvato lo statuto organico dell'Opera pia «Ospedale Ricovero», con sede in Mezzolombardo (Trento). 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 23 dicembre 1932 - Anno XI

@@ -1,21 +1,21 @@
-REGIO DECRETO 21 gennaio 1929 n. 137
+---
+tipo: REGIO DECRETO
+numero: 137
+data: 1929-01-21
+titolo: "Erezione in ente morale del Pontificio collegio «Beda», in Roma. (029U0137)"
+urn: urn:nir:stato:regio.decreto:1929-01-21;137
+codice_redazionale: 029U0137
+vigente: true
+---
 
-
-REGIO DECRETO 21 gennaio 1929 n. 137
-====================================
-
-Erezione in ente morale del Pontificio collegio «Beda», in Roma. (029U0137)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/03/1929
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-137. R. decreto 21 gennaio 1929, col quale, sulla proposta del Guardasigilli, Ministro per la giustizia e gli affari di culto, il Pontificio collegio «Beda», con sede in Roma, viene eretto in ente morale e n'e' approvato lo statuto.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 14 febbraio 1929 - Anno VII
+137.
+
+R. decreto 21 gennaio 1929, col quale, sulla proposta del Guardasigilli, Ministro per la giustizia e gli affari di culto, il Pontificio collegio «Beda», con sede in Roma, viene eretto in ente morale e n'e' approvato lo statuto. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 14 febbraio 1929 - Anno VII

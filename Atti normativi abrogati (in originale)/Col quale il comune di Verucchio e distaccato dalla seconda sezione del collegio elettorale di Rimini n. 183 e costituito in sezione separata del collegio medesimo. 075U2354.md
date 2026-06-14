@@ -1,16 +1,14 @@
-REGIO DECRETO 25 febbraio 1875 n. 2354
-
-
-REGIO DECRETO 25 febbraio 1875 n. 2354
-======================================
-
-Col quale il comune di Verucchio e' distaccato dalla seconda sezione del collegio elettorale di Rimini n. 183 e costituito in sezione separata del collegio medesimo. (075U2354)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/03/1875
+---
+tipo: REGIO DECRETO
+numero: 2354
+data: 1875-02-25
+titolo: "Col quale il comune di Verucchio e' distaccato dalla seconda sezione del collegio elettorale di Rimini n. 183 e costituito in sezione separata del collegio medesimo. (075U2354)"
+urn: urn:nir:stato:regio.decreto:1875-02-25;2354
+codice_redazionale: 075U2354
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Verucchio e' distaccato dalla 2ª sezione del Collegio elettorale di Rimini num. 183, e costituito in sezione separata del Collegio medesimo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiali delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 febbraio 1875.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
+Il comune di Verucchio e' distaccato dalla 2ª sezione del Collegio elettorale di Rimini num. 183, e costituito in sezione separata del Collegio medesimo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiali delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 febbraio 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

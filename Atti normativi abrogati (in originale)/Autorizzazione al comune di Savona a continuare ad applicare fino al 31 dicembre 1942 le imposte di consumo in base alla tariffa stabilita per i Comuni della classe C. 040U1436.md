@@ -1,16 +1,14 @@
-REGIO DECRETO 08 ottobre 1940 n. 1436
-
-
-REGIO DECRETO 08 ottobre 1940 n. 1436
-=====================================
-
-Autorizzazione al comune di Savona a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo in base alla tariffa stabilita per i Comuni della classe C. (040U1436)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/11/1940
+---
+tipo: REGIO DECRETO
+numero: 1436
+data: 1940-10-08
+titolo: "Autorizzazione al comune di Savona a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo in base alla tariffa stabilita per i Comuni della classe C. (040U1436)"
+urn: urn:nir:stato:regio.decreto:1940-10-08;1436
+codice_redazionale: 040U1436
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,25 +26,20 @@ Udito il parere della Commissione centrale per la finanza locale;
 
 Su proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-Articolo unico
---------------
+## Articolo unico.
 
-  
-  
-Il comune di Savona e' autorizzato a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo con le aliquote stabilite per la classe C.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 8 ottobre 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 22 ottobre 1940-XVIII   
-  
-Atti del Governo, registro 426, foglio 51. - MANCINI   
-  
-  
+Il comune di Savona e' autorizzato a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo con le aliquote stabilite per la classe C. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 8 ottobre 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 22 ottobre 1940-XVIII 
+ 
+ Atti del Governo, registro 426, foglio 51. - MANCINI

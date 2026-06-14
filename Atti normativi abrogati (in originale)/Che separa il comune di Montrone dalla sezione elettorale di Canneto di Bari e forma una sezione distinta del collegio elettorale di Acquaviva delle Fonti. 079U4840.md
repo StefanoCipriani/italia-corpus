@@ -1,16 +1,14 @@
-REGIO DECRETO 10 aprile 1879 n. 4840
-
-
-REGIO DECRETO 10 aprile 1879 n. 4840
-====================================
-
-Che separa il comune di Montrone dalla sezione elettorale di Canneto di Bari e forma una sezione distinta del collegio elettorale di Acquaviva delle Fonti. (079U4840)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/05/1879
+---
+tipo: REGIO DECRETO
+numero: 4840
+data: 1879-04-10
+titolo: "Che separa il comune di Montrone dalla sezione elettorale di Canneto di Bari e forma una sezione distinta del collegio elettorale di Acquaviva delle Fonti. (079U4840)"
+urn: urn:nir:stato:regio.decreto:1879-04-10;4840
+codice_redazionale: 079U4840
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Ritenuto che il comune di Montrone conta 124 elettori politici, numero questo mo
 
 Considerato quindi che con la istituzione di una sezione elettorale in Montrone si rende piu' facile l'esercizio del diritto elettorale ad un numero assai notevole di elettori;
 
-Sulla
------
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Montrone e' separato dalla sezione elettorale di Canneto di Bari, e formera' una sezione distinta del Collegio elettorale di Acquaviva delle Fonti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 10 aprile 1879.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
+Il comune di Montrone e' separato dalla sezione elettorale di Canneto di Bari, e formera' una sezione distinta del Collegio elettorale di Acquaviva delle Fonti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 aprile 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.

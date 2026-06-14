@@ -1,17 +1,17 @@
-REGIO DECRETO 17 febbraio 1921 n. 250
+---
+tipo: REGIO DECRETO
+numero: 250
+data: 1921-02-17
+titolo: "Applicazione di tassa di esercizio. (021U0250)"
+urn: urn:nir:stato:regio.decreto:1921-02-17;250
+codice_redazionale: 021U0250
+vigente: true
+---
 
-
-REGIO DECRETO 17 febbraio 1921 n. 250
-=====================================
-
-Applicazione di tassa di esercizio. (021U0250)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 10/04/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-250. Regio decreto 17 febbraio 1921, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Nova (Milano), di applicare dal 1° gennaio al 31 dicembre 1921, la tassa di esercizio col limite massimo fino a L. 2000.
+250.
+
+Regio decreto 17 febbraio 1921, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Nova (Milano), di applicare dal 1° gennaio al 31 dicembre 1921, la tassa di esercizio col limite massimo fino a L. 2000.

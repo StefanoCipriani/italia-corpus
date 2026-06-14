@@ -1,16 +1,14 @@
-REGIO DECRETO 17 settembre 1911 n. 1091
-
-
-REGIO DECRETO 17 settembre 1911 n. 1091
-=======================================
-
-Che istituisce un ufficio di conciliazione in Rosburgo, frazione del comune di Montepagano (Teramo). (011U1091)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/11/1911
+---
+tipo: REGIO DECRETO
+numero: 1091
+data: 1911-09-17
+titolo: "Che istituisce un ufficio di conciliazione in Rosburgo, frazione del comune di Montepagano (Teramo). (011U1091)"
+urn: urn:nir:stato:regio.decreto:1911-09-17;1091
+codice_redazionale: 011U1091
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Viste le deliberazioni del Consiglio comunale di Montepagano in data 19 dicembre
 
 Viste le proposte del primo presidente della Corte d'appello di Aquila in data 4 agosto corrente anno;
 
-Visti gli [articoli 1 della legge 16 giugno 1892, n. 261 e 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;1~art1) del relativo regolamento approvato col R. decreto 26 dicembre stesso anno, n. 728;
+Visti gli [articoli 1 della legge 16 giugno 1892, n. 261 e 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;1#art_1) del relativo regolamento approvato col R. decreto 26 dicembre stesso anno, n. 728;
 
-Sulla
------
+Sulla proposta del Nostro guardasigilli, ministro segretario di Stato per gli affari di grazia e giustizia e dei culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro guardasigilli, ministro segretario di Stato per gli affari di grazia e giustizia e dei culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal 1° gennaio 1912 in Rosburgo, frazione del comune di Montepagano, e' istituito un ufficio distinto di conciliazione, con giurisdizione sul territorio della frazione stessa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 17 settembre 1911.   
-  
-VITTORIO EMANUELE.   
-  
-Finocchiaro-Aprile.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+Dal 1° gennaio 1912 in Rosburgo, frazione del comune di Montepagano, e' istituito un ufficio distinto di conciliazione, con giurisdizione sul territorio della frazione stessa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 17 settembre 1911. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Finocchiaro-Aprile. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

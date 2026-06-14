@@ -1,22 +1,22 @@
-REGIO DECRETO 15 febbraio 1940 n. 141
+---
+tipo: REGIO DECRETO
+numero: 141
+data: 1940-02-15
+titolo: "Autorizzazione al Regio liceo-ginnasio di Arpino ad accettare una donazione. (040U0141)"
+urn: urn:nir:stato:regio.decreto:1940-02-15;141
+codice_redazionale: 040U0141
+vigente: true
+---
 
-
-REGIO DECRETO 15 febbraio 1940 n. 141
-=====================================
-
-Autorizzazione al Regio liceo-ginnasio di Arpino ad accettare una donazione. (040U0141)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/04/1940
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-141. R. decreto 15 febbraio 1940, col quale, sulla proposta del Ministro per l'educazione nazionale, il preside dei Regio liceo-ginnasio di Arpino viene autorizzato ad accettare la donazione di L. 20.000 nominali in titoli di rendita italiana 5 %, del prof.  
-Francesco Martini, per la costituzione di due borse di studio.   
-  
-Dato, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, acidi 20 marzo 1940-XVIII
+141.
+
+R. decreto 15 febbraio 1940, col quale, sulla proposta del Ministro per l'educazione nazionale, il preside dei Regio liceo-ginnasio di Arpino viene autorizzato ad accettare la donazione di L. 20.000 nominali in titoli di rendita italiana 5 %, del prof.
+Francesco Martini, per la costituzione di due borse di studio. 
+ 
+ Dato, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, acidi 20 marzo 1940-XVIII

@@ -1,17 +1,17 @@
-REGIO DECRETO 31 agosto 1921 n. 1307
+---
+tipo: REGIO DECRETO
+numero: 1307
+data: 1921-08-31
+titolo: "Applicazione di tassa di soggiorno. (021U1307)"
+urn: urn:nir:stato:regio.decreto:1921-08-31;1307
+codice_redazionale: 021U1307
+vigente: true
+---
 
-
-REGIO DECRETO 31 agosto 1921 n. 1307
-====================================
-
-Applicazione di tassa di soggiorno. (021U1307)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 21/10/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1307. Regio decreto 31 agosto 1921, col quale, su proposta del ministro dell'interno, presidente del Consiglio dei ministri, il comune di Giulianova (Teramo) viene autorizzato ad applicare la tassa di soggiorno e se ne omologa il regolamento.
+1307.
+
+Regio decreto 31 agosto 1921, col quale, su proposta del ministro dell'interno, presidente del Consiglio dei ministri, il comune di Giulianova (Teramo) viene autorizzato ad applicare la tassa di soggiorno e se ne omologa il regolamento.

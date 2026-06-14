@@ -1,18 +1,15 @@
-REGIO DECRETO 19 maggio 1907 n. CLXXXVIII
+---
+tipo: REGIO DECRETO
+numero: CLXXXVIII
+data: 1907-05-19
+titolo: "Applicazione di tassa di famiglia. (0700188R)"
+urn: urn:nir:stato:regio.decreto:1907-05-19;188
+codice_redazionale: 0700188R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 maggio 1907 n. CLXXXVIII
-=========================================
-
-Applicazione di tassa di famiglia. (0700188R)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 23/06/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CLXXXVIII (Dato a Roma, il 19 maggio 1907), col quale e' data facolta' al comune di Chianciano di applicare, nel biennio 1907-1908, la tassa di famiglia col limite massimo di L. 150 (centocinquanta).   
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CLXXXVIII (Dato a Roma, il 19 maggio 1907), col quale e' data facolta' al comune di Chianciano di applicare, nel biennio 1907-1908, la tassa di famiglia col limite massimo di L. 150 (centocinquanta).

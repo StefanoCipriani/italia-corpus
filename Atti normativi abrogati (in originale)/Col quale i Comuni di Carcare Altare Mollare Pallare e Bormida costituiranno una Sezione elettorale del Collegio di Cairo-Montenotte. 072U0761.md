@@ -1,16 +1,14 @@
-REGIO DECRETO 11 aprile 1872 n. 761
-
-
-REGIO DECRETO 11 aprile 1872 n. 761
-===================================
-
-Col quale i Comuni di Carcare, Altare, Mollare, Pallare e Bormida costituiranno una Sezione elettorale del Collegio di Cairo-Montenotte. (072U0761)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/05/1872
+---
+tipo: REGIO DECRETO
+numero: 761
+data: 1872-04-11
+titolo: "Col quale i Comuni di Carcare, Altare, Mollare, Pallare e Bormida costituiranno una Sezione elettorale del Collegio di Cairo-Montenotte. (072U0761)"
+urn: urn:nir:stato:regio.decreto:1872-04-11;761
+codice_redazionale: 072U0761
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nei Comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Carcare, Altare, Mollare, Pallare e Bormida costituiranno d'ora in poi una Sezione elettorale con sede nel capoluogo del Comune di Carcare, ferme rimanendo la Sezione principale in Cairo-Montenotte.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggii e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 11 aprile 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 18 aprile 1872   
-  
-Reg. 60 Atti del Governo a c. 97. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+I Comuni di Carcare, Altare, Mollare, Pallare e Bormida costituiranno d'ora in poi una Sezione elettorale con sede nel capoluogo del Comune di Carcare, ferme rimanendo la Sezione principale in Cairo-Montenotte. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggii e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 11 aprile 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 18 aprile 1872 
+ 
+ Reg. 60 Atti del Governo a c. 97. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

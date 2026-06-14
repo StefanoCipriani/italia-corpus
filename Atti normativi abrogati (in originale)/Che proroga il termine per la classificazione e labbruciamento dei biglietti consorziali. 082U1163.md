@@ -1,24 +1,22 @@
-REGIO DECRETO 30 dicembre 1882 n. 1163
-
-
-REGIO DECRETO 30 dicembre 1882 n. 1163
-======================================
-
-Che proroga il termine per la classificazione e l'abbruciamento dei biglietti consorziali. (082U1163)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/01/1883
+---
+tipo: REGIO DECRETO
+numero: 1163
+data: 1882-12-30
+titolo: "Che proroga il termine per la classificazione e l'abbruciamento dei biglietti consorziali. (082U1163)"
+urn: urn:nir:stato:regio.decreto:1882-12-30;1163
+codice_redazionale: 082U1163
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduta la [legge 7 aprile 1881, n. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-04-07;133) (Serie 3ª), che provvede per l'abolizione del corso forzoso;
+Veduta la [legge 7 aprile 1881, n. 133](Che%20provvede%20per%20labolizione%20del%20corso%20forzoso%20081U0133.md) (Serie 3ª), che provvede per l'abolizione del corso forzoso;
 
-Veduti gli articoli 8 e 103 del regolamento per l'esecuzione della legge dianzi detta, approvato con [R. decreto 16 giugno 1881, n. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1881-06-16;253) (Serie 3ª);
+Veduti gli articoli 8 e 103 del regolamento per l'esecuzione della legge dianzi detta, approvato con [R. decreto 16 giugno 1881, n. 253](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sui%20provvedimenti%20per%20labolizione%20del%20corso%20forzoso.%20081U0253.md) (Serie 3ª);
 
 Ritenuta la impossibilita' in cui si trovarono i delegati del disciolto Consorzio degli Istituti di emissione di compiere entro il corrente anno, giusta l'articolo 8 del regolamento succitato, la classificazione e l'abbruciamento dei biglietti consorziali ritirati a tutto giugno 1881;
 
@@ -32,36 +30,25 @@ Considerato come le ragioni di limitare la elencazione per numero reggono anche 
 
 Sentiti la Corte dei conti, il Consiglio di Stato e infine la Commissione permanente, di cui all'art. 24 della legge 7 aprile 1881, che provvede per l'abolizione del corso forzoso;
 
-Sulla
------
+Sulla proposta del Ministro delle finanze, interim del Tesoro, e del Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle finanze, interim del Tesoro, e del Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Art. 1. — null
 
-Art. 1
-------
+1883.
 
-null
-
-1883. 
-  
-  
 La classificazione dei biglietti da lire 5 e da lire 10, si fara' per quantita', per valore e per serie. Quando pero' siano ritirati piu' di 991 biglietti da lire 10 per ogni mille, e piu' di 994 per ogni mille da lire 5, si classificheranno anche per numero i biglietti non ancora abbruciati e quelli che si ritirassero in piu' delle suddette proporzioni, rispettivamente per ognuno dei suddetti due tagli.
 
-Art. 2
-------
+## Art. 2.
 
-  
-  
-Sara' autorizzata la Cassa speciale dei biglietti a debito dello Stato, istituita con l'articolo 34 del regolamento 16 giugno 1881, a fare, con le stesse norme indicate dallo articolo precedente, la classifica dei biglietti consorziali gia' consorziali da lire cinque e da lire dieci, ritirati ed annullati dopo il 1° luglio 1881, restando ferme le altre disposizioni di cui all'articolo 103 del regolamento sopra menzionato.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 30 dicembre 1882.   
-  
-UMBERTO.   
-  
-A. Magliani.   
-Berti.   
-  
-Visto, Il Guardasigilli: G. Zanardelli.   
-  
+Sara' autorizzata la Cassa speciale dei biglietti a debito dello Stato, istituita con l'articolo 34 del regolamento 16 giugno 1881, a fare, con le stesse norme indicate dallo articolo precedente, la classifica dei biglietti consorziali gia' consorziali da lire cinque e da lire dieci, ritirati ed annullati dopo il 1° luglio 1881, restando ferme le altre disposizioni di cui all'articolo 103 del regolamento sopra menzionato. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 30 dicembre 1882. 
+ 
+ UMBERTO. 
+ 
+ A. Magliani. 
+ Berti. 
+ 
+ Visto, Il Guardasigilli: G. Zanardelli.

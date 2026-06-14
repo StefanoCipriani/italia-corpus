@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 23 marzo 1919 n. 744
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 744
+data: 1919-03-23
+titolo: "Modificazione di statuto. (019U0744)"
+urn: urn:nir:stato:decreto.luogotenenziale:1919-03-23;744
+codice_redazionale: 019U0744
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 23 marzo 1919 n. 744
-============================================
-
-Modificazione di statuto. (019U0744)
-------------------------------------
-
-Entrata in vigore del provvedimento: 10/06/1919
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-744. Decreto Luogotenenziale 23 marzo 1919, col quale, sulla proposta del ministro dell'agricoltura, viene apportata una modificazione allo statuto della Cassa agraria di Miglionico, relativamente alla durata in carica del presidente della Cassa medesima.
+744.
+
+Decreto Luogotenenziale 23 marzo 1919, col quale, sulla proposta del ministro dell'agricoltura, viene apportata una modificazione allo statuto della Cassa agraria di Miglionico, relativamente alla durata in carica del presidente della Cassa medesima.

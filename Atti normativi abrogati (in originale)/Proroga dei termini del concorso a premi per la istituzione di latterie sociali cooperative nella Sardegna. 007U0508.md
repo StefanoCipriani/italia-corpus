@@ -1,16 +1,14 @@
-REGIO DECRETO 30 giugno 1907 n. 508
-
-
-REGIO DECRETO 30 giugno 1907 n. 508
-===================================
-
-Proroga dei termini del concorso a premi per la istituzione di latterie sociali cooperative nella Sardegna. (007U0508)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/08/1907
+---
+tipo: REGIO DECRETO
+numero: 508
+data: 1907-06-30
+titolo: "Proroga dei termini del concorso a premi per la istituzione di latterie sociali cooperative nella Sardegna. (007U0508)"
+urn: urn:nir:stato:regio.decreto:1907-06-30;508
+codice_redazionale: 007U0508
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,25 +20,18 @@ Visto l'art. 7 del detto Nostro decreto, col quale si stabilisce che le domande 
 
 Considerata la opportunita' di prorogare i termini anzidetti per dare agio alle latterie della Sardegna di concorrere numerose alla gara e di assicurarne la buona riuscita;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il termine utile per la presentazione delle domande di ammissione al concorso a premi, bandito con Nostro decreto del 1° settembre 1906, per promuovere, nella Sardegna, la istituzione di latterie sociali cooperative, e quello per la presentazione, da parte delle latterie concorrenti, del bilancio di esercizio per un periodo non minore di un semestre, sono prorogati rispettivamente, al 31 dicembre 1907 e al 30 giugno 1908.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 30 giugno 1907.   
-  
-VITTORIO EMANUELE.   
-  
-F. COCCO-ORTU.   
-  
-Visto, Il guardasigilli: ORLANDO.   
-  
+Il termine utile per la presentazione delle domande di ammissione al concorso a premi, bandito con Nostro decreto del 1° settembre 1906, per promuovere, nella Sardegna, la istituzione di latterie sociali cooperative, e quello per la presentazione, da parte delle latterie concorrenti, del bilancio di esercizio per un periodo non minore di un semestre, sono prorogati rispettivamente, al 31 dicembre 1907 e al 30 giugno 1908. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 30 giugno 1907. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ F. COCCO-ORTU. 
+ 
+ Visto, Il guardasigilli: ORLANDO.

@@ -1,19 +1,15 @@
-REGIO DECRETO 23 gennaio 1913 n. 54
+---
+tipo: REGIO DECRETO
+numero: 54
+data: 1913-01-23
+titolo: "Approvazione di organico di Liceo ginnasio. (013U0054)"
+urn: urn:nir:stato:regio.decreto:1913-01-23;54
+codice_redazionale: 013U0054
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 gennaio 1913 n. 54
-===================================
-
-Approvazione di organico di Liceo ginnasio. (013U0054)
-------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/03/1913
-
-Art. 1
-------
-
-  
-N. 54   
-  
-Regio Decreto 23 gennaio 1913, col quale, sulla proposta del ministro della pubblica istruzione, viene provveduto alla approvazione dell'organico per il Liceo ginnasio di Alatri.   
-  
+N. 54 
+ 
+ Regio Decreto 23 gennaio 1913, col quale, sulla proposta del ministro della pubblica istruzione, viene provveduto alla approvazione dell'organico per il Liceo ginnasio di Alatri.

@@ -1,16 +1,14 @@
-REGIO DECRETO 14 agosto 1931 n. 1210
-
-
-REGIO DECRETO 14 agosto 1931 n. 1210
-====================================
-
-Aumento del contributo annuo del Consiglio provinciale dell'economia in Napoli, a favore del Regio istituto nazionale per le industrie tessili "Benito Mussolini", della citta' stessa. (031U1210)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/10/1931
+---
+tipo: REGIO DECRETO
+numero: 1210
+data: 1931-08-14
+titolo: "Aumento del contributo annuo del Consiglio provinciale dell'economia in Napoli, a favore del Regio istituto nazionale per le industrie tessili \"Benito Mussolini\", della citta' stessa. (031U1210)"
+urn: urn:nir:stato:regio.decreto:1931-08-14;1210
+codice_redazionale: 031U1210
+vigente: true
+---
 
 VITTORIO EMANUELE -III
-----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,25 +20,18 @@ Visto il Nostro decreto 29 marzo 1928, n. 1015, concernente la determinazione de
 
 Vista la deliberazione del Consiglio provinciale dell'economia in Napoli, in data del 23 aprile 1930, n. 495-399;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A decorrere dal 1° gennaio 1931 il contributo annuo ordinario del Consiglio provinciale dell'economia in Napoli a favore del Regio istituto nazionale per le industrie tessili "Benito Mussolini" in Napoli, e' elevato da L. 33.124 a L. 45.000.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a S. Anna di Valdieri, addi' 14 agosto 1931- Anno IX   
-  
-VITTORIO EMANUELE.   
-  
-  
-Giuliano.   
-  
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 30 settembre 1931 - Anno IX Atti del Governo, registro 312, foglio 139. - Mancini.   
-  
+A decorrere dal 1° gennaio 1931 il contributo annuo ordinario del Consiglio provinciale dell'economia in Napoli a favore del Regio istituto nazionale per le industrie tessili "Benito Mussolini" in Napoli, e' elevato da L. 33.124 a L. 45.000. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a S. Anna di Valdieri, addi' 14 agosto 1931- Anno IX 
+ 
+ VITTORIO EMANUELE. 
+ 
+ 
+ Giuliano. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 30 settembre 1931 - Anno IX  Atti del Governo, registro 312, foglio 139. - Mancini.

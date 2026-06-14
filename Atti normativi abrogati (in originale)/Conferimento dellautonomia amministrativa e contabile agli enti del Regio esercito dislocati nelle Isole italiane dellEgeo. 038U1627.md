@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 05 settembre 1938 n. 1627
-
-
-REGIO DECRETO-LEGGE 05 settembre 1938 n. 1627
-=============================================
-
-Conferimento dell'autonomia amministrativa e contabile agli enti del Regio esercito dislocati nelle Isole italiane dell'Egeo. (038U1627)
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/10/1938.  
-Regio Decreto-Legge convertito dalla [L. 22 dicembre 1938, n. 2226](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-12-22;2226) (in G.U. 17/03/1939, n. 65).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1627
+data: 1938-09-05
+titolo: "Conferimento dell'autonomia amministrativa e contabile agli enti del Regio esercito dislocati nelle Isole italiane dell'Egeo. (038U1627)"
+urn: urn:nir:stato:regio.decreto.legge:1938-09-05;1627
+codice_redazionale: 038U1627
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -19,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Vista la [legge 17 luglio 1910, n. 511](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;511), sull'amministrazione e la contabilita' dei Corpi, Istituti e Stabilimenti militari;
+Vista la [legge 17 luglio 1910, n. 511](Amministrazione%20e%20contabilita%20dei%20corpi%20istituti%20e%20stabilimenti%20militari%20e%20modificazioni%20alla%20legge%20per%20lamministrazione%20e%20la%20contabilita%20generale%20dello%20Stato.%20010U0511.md), sull'amministrazione e la contabilita' dei Corpi, Istituti e Stabilimenti militari;
 
 Visto il R. decreto 18 novembre 1923-II, n. 2440, recante le nuove disposizioni sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato ed il relativo regolamento, approvato con il decreto 23 maggio 1924-II, n. 827, e successive modificazioni;
 
@@ -41,69 +38,45 @@ Visto l'art. 3, n. 2, della legge 31 gennaio 1926-IV, n. 100;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra, di concerto con i Ministri Segretari di Stato per gli affari esteri per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra, di concerto con i Ministri Segretari di Stato per gli affari esteri per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono estese al Comando delle truppe Regio esercito delle Isole italiane dell'Egeo le facolta' e le attribuzioni devolute ai Comandi di corpo d'armata ed al Comando generale dell'arma dei carabinieri Reali, a tenore del testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei Corpi, Istituti e Stabilimenti militari, approvato con R. decreto 2 febbraio 1928-VI, n. 263, del R. decreto-legge 28 settembre 1934-XII, n. 1635, e del Regio decreto-legge 14 ottobre 1937-XV, n. 1963.
 
-  
-  
-Sono estese al Comando delle truppe Regio esercito delle Isole italiane dell'Egeo le facolta' e le attribuzioni devolute ai Comandi di corpo d'armata ed al Comando generale dell'arma dei carabinieri Reali, a tenore del testo unico delle disposizioni legislative concernenti l'amministrazione e la contabilita' dei Corpi, Istituti e Stabilimenti militari, approvato con R. decreto 2 febbraio 1928-VI, n. 263, del R. decreto-legge 28 settembre 1934-XII, n. 1635, e del Regio decreto-legge 14 ottobre 1937-XV, n. 1963.   
+## Art. 2.
 
-Art. 2
-------
+Le facolta' e le attribuzioni decentrate sul Comando truppe Regio esercito delle Isole italiane dell'Egeo in forza del recente decreto sono disimpegnate presso il Comando stesso da un « ufficio amministrativo » che funzionera' alla immediata dipendenza del comandante delle truppe stesse e sara' diretto da un funzionario facente parte del ruolo amministrativo dell'Amministrazione centrale della guerra di grado non superiore al settimo, coadiuvato da altro funzionario di grado inferiore.
 
-  
-  
-Le facolta' e le attribuzioni decentrate sul Comando truppe Regio esercito delle Isole italiane dell'Egeo in forza del recente decreto sono disimpegnate presso il Comando stesso da un « ufficio amministrativo » che funzionera' alla immediata dipendenza del comandante delle truppe stesse e sara' diretto da un funzionario facente parte del ruolo amministrativo dell'Amministrazione centrale della guerra di grado non superiore al settimo, coadiuvato da altro funzionario di grado inferiore.   
+## Art. 3.
 
-Art. 3
-------
+Presso il Comando truppe Regio esercito dell'Egeo, e' istituito, alla diretta dipendenza del Comando stesso, un ufficio di contabilita' e di revisione, il quale sara' diretto da un tenente colonnello o maggiore del corpo di amministrazione ed esercitera' le attribuzioni previste dal R. decreto 19 luglio 1923-I, n. 1857, e correlative disposizioni.
 
-  
-  
-Presso il Comando truppe Regio esercito dell'Egeo, e' istituito, alla diretta dipendenza del Comando stesso, un ufficio di contabilita' e di revisione, il quale sara' diretto da un tenente colonnello o maggiore del corpo di amministrazione ed esercitera' le attribuzioni previste dal R. decreto 19 luglio 1923-I, n. 1857, e correlative disposizioni.   
+## Art. 4.
 
-Art. 4
-------
+Le ispezioni ordinarie tecnico-militari, tecniche, amministrative e contabili relative alle truppe ed ai servizi dell'Egeo, saranno affidate dal Ministro per la guerra a funzionari militari o civili da lui di volta in volta espressamente designati, salva al comandante delle truppe la facolta' di ordinare, in casi speciali, ispezioni straordinarie, informandone poi il Ministero.
 
-  
-  
-Le ispezioni ordinarie tecnico-militari, tecniche, amministrative e contabili relative alle truppe ed ai servizi dell'Egeo, saranno affidate dal Ministro per la guerra a funzionari militari o civili da lui di volta in volta espressamente designati, salva al comandante delle truppe la facolta' di ordinare, in casi speciali, ispezioni straordinarie, informandone poi il Ministero.   
+## Art. 5.
 
-Art. 5
-------
+Le disposizioni vigenti in merito al funzionamento amministrativo e contabile dei Comandi di corpo d'armata e del rimando generale dell'arma dei carabinieri Reali si intendono estese al Comando truppe Regio esercito delle Isole italiane dell'Egeo.
 
-  
-  
-Le disposizioni vigenti in merito al funzionamento amministrativo e contabile dei Comandi di corpo d'armata e del rimando generale dell'arma dei carabinieri Reali si intendono estese al Comando truppe Regio esercito delle Isole italiane dell'Egeo.   
+## Art. 6.
 
-Art. 6
-------
+Con successivi provvedimenti, il Ministro per la guerra e' autorizzato a designare, di concerto con quello per le finanze, i reparti del Regio esercito delle Isole italiane dell'Egeo che avranno amministrazione autonoma, a stabilire la dipendenza amministrativa per i reparti che dovranno funzionare come distaccamenti.
 
-  
-  
-Con successivi provvedimenti, il Ministro per la guerra e' autorizzato a designare, di concerto con quello per le finanze, i reparti del Regio esercito delle Isole italiane dell'Egeo che avranno amministrazione autonoma, a stabilire la dipendenza amministrativa per i reparti che dovranno funzionare come distaccamenti.   
+## Art. 7.
 
-Art. 7
-------
-
-  
-  
-Il presente decreto - che entrera' in vigore dal 1° ottobre 1938-XVI - sara' presentato al Parlamento per la sua conversione in legge. Il DUCE, proponente, e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 5 settembre 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Ciano - Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 13 ottobre 1938 - Anno XVI   
-Atti del Governo, registro 402, foglio 61. - Mancini.   
+Il presente decreto - che entrera' in vigore dal 1° ottobre 1938-XVI - sara' presentato al Parlamento per la sua conversione in legge. Il DUCE, proponente, e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 5 settembre 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Ciano - Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 13 ottobre 1938 - Anno XVI  
+ Atti del Governo, registro 402, foglio 61. - Mancini.

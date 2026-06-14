@@ -1,26 +1,24 @@
-REGIO DECRETO 21 marzo 1915 n. 443
-
-
-REGIO DECRETO 21 marzo 1915 n. 443
-==================================
-
-Col quale sono introdotte alcune variazioni nel bilancio della spesa del Ministero del tesoro per l'esercizio finanziario 1914-915 (015U0443)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/05/1915
+---
+tipo: REGIO DECRETO
+numero: 443
+data: 1915-03-21
+titolo: "Col quale sono introdotte alcune variazioni nel bilancio della spesa del Ministero del tesoro per l'esercizio finanziario 1914-915 (015U0443)"
+urn: urn:nir:stato:regio.decreto:1915-03-21;443
+codice_redazionale: 015U0443
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'[art. 1 della legge 21 dicembre 1903, n. 483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-21;483~art1), col quale fu autorizzata la conversione della rendita consolidata 4,50 per cento netto in altra del consolidato 3,50 per cento netto;
+Visto l'[art. 1 della legge 21 dicembre 1903, n. 483](relativa%20alla%20conversione%20del%20consolidato%20450%20per%20cento%20interno%20in%20350%20netto.%20003U0483.md), col quale fu autorizzata la conversione della rendita consolidata 4,50 per cento netto in altra del consolidato 3,50 per cento netto;
 
 Visto l'art. 2, della stessa legge, col quale furono dichiarate esenti dalla conversione suddetta le rendite 4,50 per cento possedute dalle pubbliche istituzioni, di beneficenza in quanto non vengano successivamente, per effetto di qualsiasi operazione, ad essere trasferite ad altri intestatari, ovvero tramutate al portatore;
 
-Visto il regolamento approvato con [R. decreto 21 dicembre 1903, n. 486](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-12-21;486), per l'esecuzione della legge suddetta;
+Visto il regolamento approvato con [R. decreto 21 dicembre 1903, n. 486](Che%20disciplina%20la%20conversione%20del%20consolidato%20450%20in%20consolidato%20350%20per%20cento.%20003U0486.md), per l'esecuzione della legge suddetta;
 
 Visti i RR. decreti 1° marzo 1914, n. 273, e, 2 agosto 1914, n. 905, relativi a variazioni del bilancio della spesa del Ministero del tesoro, per l'esercizio finanziario 1913-914 dipendenti dalle conversioni di rendite del consolidato 4,50 per cento netto in altre del consolidato 3,50 per cento netto eseguite nello stesso esercizio;
 
@@ -60,9 +58,9 @@ per cento netto (categoria A, creazione 1902), di
 
 annue . . . . . . . . . . . . . . . . . . . . . . . . L. 1844 03
 
-Vista la [legge 26 giugno 1914, n. 578](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-06-26;578), che autorizza ad esercitare in via provvisoria, sino a che non siano tradotti, in legge e non oltre il 31 dicembre 1914, gli stati di previsione della entrata e della spesa per l'esercizio finanziario 1914-915, non approvati entro il 30 giugno 1914;
+Vista la [legge 26 giugno 1914, n. 578](Che%20autorizza%20ad%20esercitare%20in%20via%20provvisoria%20gli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lesercizio%20finanziario%201914-915%20che%20non%20fossero%20tradotti%20in%20legge%20entro%20il%2030%20giugno%201914.%20014U0578.md), che autorizza ad esercitare in via provvisoria, sino a che non siano tradotti, in legge e non oltre il 31 dicembre 1914, gli stati di previsione della entrata e della spesa per l'esercizio finanziario 1914-915, non approvati entro il 30 giugno 1914;
 
-Vista la [legge 16 dicembre 1914, n. 1354](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-12-16;1354), che proroga le disposizioni della ricordata legge per l'esercizio provvisorio, anche per il secondo semestre dell'esercizio finanziario 1914-915, sino a quando i singoli stati di previsione delle spese e delle entrate non siano stati approvati per legge;
+Vista la [legge 16 dicembre 1914, n. 1354](Per%20la%20proroga%20dellesercizio%20provvisorio%20dei%20bilanci%20e%20provvedimenti%20finanziari.%20014U1354.md), che proroga le disposizioni della ricordata legge per l'esercizio provvisorio, anche per il secondo semestre dell'esercizio finanziario 1914-915, sino a quando i singoli stati di previsione delle spese e delle entrate non siano stati approvati per legge;
 
 Ritenuto che nel corso del semestre dal 1° luglio al 31 dicembre 1914, in seguito ad ulteriori accertamenti da parte della Direzione generale del debito pubblico, venne riconosciuto che tra le rendite conservate provvisoriamente, nel consolidato 4,50 per cento netto dovevano essere e vennero di fatto, convertite nel consolidato 3,50 per cento netto iscrizioni:
 
@@ -112,76 +110,69 @@ Ritenuto che nel medesimo semestre la Direzione generale del debito pubblico ebb
 
 Ritenuto che in cambio delle suindicate rendite furono reiscritte e consegnate le rendite 4,50 per cento netto, con godimento dal 1° ottobre 1914, per annue L. 75, con diritto alle competenze differenziali dal 9 luglio 1913;
 
-Ritenuto che trattandosi di operazioni gia' definitivamente compiute in virtu' della citata [legge 21 dicembre 1903, n. 483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-21;483), devesi ora provvedere soltanto per le variazioni dei due capitoli dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1914-915, relativi ai debiti consolidati anzidetti;
+Ritenuto che trattandosi di operazioni gia' definitivamente compiute in virtu' della citata [legge 21 dicembre 1903, n. 483](relativa%20alla%20conversione%20del%20consolidato%20450%20per%20cento%20interno%20in%20350%20netto.%20003U0483.md), devesi ora provvedere soltanto per le variazioni dei due capitoli dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1914-915, relativi ai debiti consolidati anzidetti;
 
 Visto l'art. 14 del regolamento sopra ricordato;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
-
-  
-  
-Per effetto delle conversioni eseguite dalla Direzione generale del debito pubblico durante l'anno finanziario 1913-914 e nel secondo semestre 1914 di rendite conservate provvisoriamente nel consolidato 4,50 per cento netto, in altre del consolidato 3,50 per cento netto, saranno introdotte nel bilancio della spesa del Ministero del tesoro per l'esercizio finanziario 1914-915 le seguenti variazioni:   
-  
-al capitolo n. 3: «Antiche rendite consolidate nominative 4,50 per cento netto conservate esclusivamente a favore delle pubbliche istituzioni di beneficenza» (spesa obbligatoria);   
-  
-in diminuzione:   
-a) Annata d'interessi sulla rendita   
-di L. 2370,92 annullata in piu' di   
-quella reiscritta nel consolidato 4,50   
-per cento netto durante l'esercizio   
-1913-914 . . . . . . . . . L. 2370 92   
-b) Annata d'interessi   
-sulla rendita di L. 594,24   
-annullata con decorrenza   
-dal 1° luglio 1914 . . . . » 591 24   
-c) Tre trimestri d'interessi   
-sulla rendita di lire 102,   
-annullata in piu' di quella   
-reiscritta nel consolidato   
-4,50% netto, con decorrenza   
-dal 1° ottobre 1914 . . . . » 76 50   
----------- L. 3041 66   
-In aumento: competenze differenziali   
-tra la rendita di L. 75,00, reiscritta   
-nel 4,50% e quella di L. 58,33 annullata   
-nel 3,50% dal 9 luglio al 30 settembre   
-1914 . . . . . . . . . . . . . . . . . L. 20 46   
------------   
-Diminuzione risultante . . L. 3021 20   
------------   
-al capitolo n. 4: Rendita consolidata   
-3,50% netto creata in «virtu' delle [leggi   
-12 giugno 1902, n. 166 e 21 dicembre 1903,   
-n. 483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-21;483) (spesa obbligatoria)».   
-In aumento:   
-a) Annata d'interessi sulla rendita di   
-L. 1844 03 inscritta per conversione dal   
-4,50% in piu' di quella annullata durante   
-l'esercizio 1913-914 L. 1841 03   
-b) Annata d'interessi sulla rendita   
-di L. 462,18 inscritta con decorrenza   
-dal 1° luglio 1914 . . . . . . . . . . » 462 18   
-c) Tre trimestri d'interessi sulla rendita   
-di L. 79,34 inscritta in piu' di quella   
-annullata con decorrenza dal 1° ottobre   
-1914 . . . . . . . . . . . . . . . . . » 59 51   
------------   
-Aumento in complesso . . L. 2365 72   
------------   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 marzo 1915.   
-  
-VITTORIO EMANUELE.   
-  
-Carcano.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+Per effetto delle conversioni eseguite dalla Direzione generale del debito pubblico durante l'anno finanziario 1913-914 e nel secondo semestre 1914 di rendite conservate provvisoriamente nel consolidato 4,50 per cento netto, in altre del consolidato 3,50 per cento netto, saranno introdotte nel bilancio della spesa del Ministero del tesoro per l'esercizio finanziario 1914-915 le seguenti variazioni: 
+ 
+ al capitolo n. 3: «Antiche rendite consolidate nominative 4,50 per cento netto conservate esclusivamente a favore delle pubbliche istituzioni di beneficenza» (spesa obbligatoria); 
+ 
+ in diminuzione: 
+ a) Annata d'interessi sulla rendita 
+ di L. 2370,92 annullata in piu' di 
+ quella reiscritta nel consolidato 4,50 
+ per cento netto durante l'esercizio 
+ 1913-914 . . . . . . . . . L. 2370 92 
+ b) Annata d'interessi 
+ sulla rendita di L. 594,24 
+ annullata con decorrenza 
+ dal 1° luglio 1914 . . . . » 591 24 
+ c) Tre trimestri d'interessi 
+ sulla rendita di lire 102, 
+ annullata in piu' di quella 
+ reiscritta nel consolidato 
+ 4,50% netto, con decorrenza 
+ dal 1° ottobre 1914 . . . . » 76 50 
+ ---------- L. 3041 66 
+ In aumento: competenze differenziali 
+ tra la rendita di L. 75,00, reiscritta 
+ nel 4,50% e quella di L. 58,33 annullata 
+ nel 3,50% dal 9 luglio al 30 settembre 
+ 1914 . . . . . . . . . . . . . . . . . L. 20 46 
+ ----------- 
+ Diminuzione risultante . . L. 3021 20 
+ ----------- 
+ al capitolo n. 4: Rendita consolidata 
+ 3,50% netto creata in «virtu' delle [leggi 
+ 12 giugno 1902, n. 166 e 21 dicembre 1903, 
+ n. 483](relativa%20alla%20conversione%20del%20consolidato%20450%20per%20cento%20interno%20in%20350%20netto.%20003U0483.md) (spesa obbligatoria)». 
+ In aumento: 
+ a) Annata d'interessi sulla rendita di 
+ L. 1844 03 inscritta per conversione dal 
+ 4,50% in piu' di quella annullata durante 
+ l'esercizio 1913-914 L. 1841 03 
+ b) Annata d'interessi sulla rendita 
+ di L. 462,18 inscritta con decorrenza 
+ dal 1° luglio 1914 . . . . . . . . . . » 462 18 
+ c) Tre trimestri d'interessi sulla rendita 
+ di L. 79,34 inscritta in piu' di quella 
+ annullata con decorrenza dal 1° ottobre 
+ 1914 . . . . . . . . . . . . . . . . . » 59 51 
+ ----------- 
+ Aumento in complesso . . L. 2365 72 
+ ----------- 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 21 marzo 1915. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Carcano. 
+ 
+ Visto, Il guardasigilli: Orlando.

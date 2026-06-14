@@ -1,17 +1,17 @@
-REGIO DECRETO 18 marzo 1920 n. 438
+---
+tipo: REGIO DECRETO
+numero: 438
+data: 1920-03-18
+titolo: "Trasformazione di fini inerenti a patrimoni di Confraternite. (020U0438)"
+urn: urn:nir:stato:regio.decreto:1920-03-18;438
+codice_redazionale: 020U0438
+vigente: true
+---
 
-
-REGIO DECRETO 18 marzo 1920 n. 438
-==================================
-
-Trasformazione di fini inerenti a patrimoni di Confraternite. (020U0438)
-------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/05/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-438. Regio decreto 18 marzo 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il fine inerente al patrimonio della Confraternita della Resurrezione in Spoleto (Perugia) e' parzialmente trasformato a favore del locale Ospedale civile.
+438.
+
+Regio decreto 18 marzo 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il fine inerente al patrimonio della Confraternita della Resurrezione in Spoleto (Perugia) e' parzialmente trasformato a favore del locale Ospedale civile.

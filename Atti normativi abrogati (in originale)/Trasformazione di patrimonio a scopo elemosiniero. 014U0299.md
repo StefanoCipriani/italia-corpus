@@ -1,19 +1,15 @@
-REGIO DECRETO 29 marzo 1914 n. 299
+---
+tipo: REGIO DECRETO
+numero: 299
+data: 1914-03-29
+titolo: "Trasformazione di patrimonio a scopo elemosiniero. (014U0299)"
+urn: urn:nir:stato:regio.decreto:1914-03-29;299
+codice_redazionale: 014U0299
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 marzo 1914 n. 299
-==================================
-
-Trasformazione di patrimonio a scopo elemosiniero. (014U0299)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/05/1914
-
-Art. 1
-------
-
-  
-N. 299   
-  
-Regio Decreto 29 marzo 1914, col quale, sulla proposta del ministro dell'interno, il fine inerente al patrimonio della confraternita del SS. Sacramento di Corinaldo (Ancona) e' trasformato a favore del locale ospedale.   
-  
+N. 299 
+ 
+ Regio Decreto 29 marzo 1914, col quale, sulla proposta del ministro dell'interno, il fine inerente al patrimonio della confraternita del SS. Sacramento di Corinaldo (Ancona) e' trasformato a favore del locale ospedale.

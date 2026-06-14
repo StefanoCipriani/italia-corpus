@@ -1,21 +1,21 @@
-REGIO DECRETO 27 febbraio 1896 n. LXII
+---
+tipo: REGIO DECRETO
+numero: LXII
+data: 1896-02-27
+titolo: "Che da' facolta' al comune di Locorotondo di applicare nel corrente anno la tassa di famiglia col limite massimo di lire 180. (9600062R)"
+urn: urn:nir:stato:regio.decreto:1896-02-27;62
+codice_redazionale: 9600062R
+vigente: true
+---
 
-
-REGIO DECRETO 27 febbraio 1896 n. LXII
-======================================
-
-Che da' facolta' al comune di Locorotondo di applicare nel corrente anno la tassa di famiglia col limite massimo di lire 180. (9600062R)
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/04/1896
-
-Art. 1
-------
+## Art. 1.
 
 Che da' facolta' al comune di Locorotondo di applicare nel corrente anno la tassa di famiglia col limite massimo di lire
 
-180. - Firmato UMBERTO - Contrassegnato P. Boselli - Visto Calenda.   
-  
-Registrato alla Corte dei conti addi' 9 marzo 1896.   
-  
-Reg. 205. Atti del Governo a f. 28.
+180.
+
+- Firmato UMBERTO - Contrassegnato P. Boselli - Visto Calenda. 
+ 
+ Registrato alla Corte dei conti addi' 9 marzo 1896. 
+ 
+ Reg. 205. Atti del Governo a f. 28.

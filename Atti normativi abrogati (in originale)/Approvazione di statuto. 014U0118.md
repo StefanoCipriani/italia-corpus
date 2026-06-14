@@ -1,19 +1,15 @@
-REGIO DECRETO 25 gennaio 1914 n. 118
+---
+tipo: REGIO DECRETO
+numero: 118
+data: 1914-01-25
+titolo: "Approvazione di statuto. (014U0118)"
+urn: urn:nir:stato:regio.decreto:1914-01-25;118
+codice_redazionale: 014U0118
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 gennaio 1914 n. 118
-====================================
-
-Approvazione di statuto. (014U0118)
------------------------------------
-
-Entrata in vigore del provvedimento: 25/03/1914
-
-Art. 1
-------
-
-  
-N. 118   
-  
-Regio Decreto 25 gennaio 1914, col quale, sulla proposta del ministro di agricoltura, industria e commercio, viene approvato lo statuto del Monte frumentario di Parco.   
-  
+N. 118 
+ 
+ Regio Decreto 25 gennaio 1914, col quale, sulla proposta del ministro di agricoltura, industria e commercio, viene approvato lo statuto del Monte frumentario di Parco.

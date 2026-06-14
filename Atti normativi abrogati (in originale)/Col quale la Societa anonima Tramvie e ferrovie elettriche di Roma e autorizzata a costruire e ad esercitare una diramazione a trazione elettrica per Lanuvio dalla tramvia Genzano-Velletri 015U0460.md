@@ -1,16 +1,14 @@
-REGIO DECRETO 28 marzo 1915 n. 460
-
-
-REGIO DECRETO 28 marzo 1915 n. 460
-==================================
-
-Col quale la Societa' anonima «Tramvie e ferrovie elettriche di Roma» e' autorizzata a costruire e ad esercitare una diramazione a trazione elettrica per Lanuvio dalla tramvia Genzano-Velletri (015U0460)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/05/1915
+---
+tipo: REGIO DECRETO
+numero: 460
+data: 1915-03-28
+titolo: "Col quale la Societa' anonima «Tramvie e ferrovie elettriche di Roma» e' autorizzata a costruire e ad esercitare una diramazione a trazione elettrica per Lanuvio dalla tramvia Genzano-Velletri (015U0460)"
+urn: urn:nir:stato:regio.decreto:1915-03-28;460
+codice_redazionale: 015U0460
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,25 +20,18 @@ Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'in
 
 Sentito il parere del Consiglio superiore dei lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato pei lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato pei lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata e resa esecutoria la convenzione aggiuntiva stipulata in data 4 luglio 1914, fra l'ispettore generale direttore dell'ufficio speciale delle ferrovie, per conto dell'Amministrazione dello Stato, ed i legali rappresentanti della Societa' anonima tramvie e ferrovie elettriche di Roma per la concessione della costruzione e dell'esercizio di una diramazione a trazione elettrica per Lanuvio (gia' Civita Lavinia), dalla tramvia Genzano-Velletri, concessa alla medesima Societa' con Nostro decreto 20 ottobre 1912, n. 1285.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 marzo 1915.   
-  
-VITTORIO EMANUELE.   
-  
-Ciuffelli.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+E' approvata e resa esecutoria la convenzione aggiuntiva stipulata in data 4 luglio 1914, fra l'ispettore generale direttore dell'ufficio speciale delle ferrovie, per conto dell'Amministrazione dello Stato, ed i legali rappresentanti della Societa' anonima tramvie e ferrovie elettriche di Roma per la concessione della costruzione e dell'esercizio di una diramazione a trazione elettrica per Lanuvio (gia' Civita Lavinia), dalla tramvia Genzano-Velletri, concessa alla medesima Societa' con Nostro decreto 20 ottobre 1912, n. 1285. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 marzo 1915. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Ciuffelli. 
+ 
+ Visto, Il guardasigilli: Orlando.

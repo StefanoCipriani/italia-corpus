@@ -1,16 +1,14 @@
-REGIO DECRETO 31 maggio 1863 n. 1288
-
-
-REGIO DECRETO 31 maggio 1863 n. 1288
-====================================
-
-Relativo all'applicazione di quello in data 21 settembre 1862, n.° 821, ai Militari e Guardie nobili d'onore delle Provincie Modenesi che seguirono Francesco V d'Austria d'Este. (063U1288)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/06/1863
+---
+tipo: REGIO DECRETO
+numero: 1288
+data: 1863-05-31
+titolo: "Relativo all'applicazione di quello in data 21 settembre 1862, n.° 821, ai Militari e Guardie nobili d'onore delle Provincie Modenesi che seguirono Francesco V d'Austria d'Este. (063U1288)"
+urn: urn:nir:stato:regio.decreto:1863-05-31;1288
+codice_redazionale: 063U1288
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,27 +20,20 @@ Visto il Nostro Decreto 21 settembre 1862, n.° 821;
 
 Sulla proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti;
 
-Udito
------
+Udito il Consiglio dei Ministri; Abbiamo ordinato ed ordiniamo:
 
-il Consiglio dei Ministri; Abbiamo ordinato ed ordiniamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Militari e Guardie nobili d'onore in attivita' di servigio delle Provincie Modenesi, che seguirono Francesco V d'Austria d'Este godranno degli effetti del Nostro Decreto 21 settembre 1862 n.° 821, purche' entro il corrente anno 4863 adempiano alle singole prescrizioni designate dal Decreto stesso.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 31 maggio 1863.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 6 giugno 1863   
-Reg.° 21 Atti del Governo a c. 3. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI.   
-  
-G. PISANELLI.   
-  
+I Militari e Guardie nobili d'onore in attivita' di servigio delle Provincie Modenesi, che seguirono Francesco V d'Austria d'Este godranno degli effetti del Nostro Decreto 21 settembre 1862 n.° 821, purche' entro il corrente anno 4863 adempiano alle singole prescrizioni designate dal Decreto stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 31 maggio 1863. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 6 giugno 1863 
+ Reg.° 21 Atti del Governo a c. 3. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI. 
+ 
+ G. PISANELLI.

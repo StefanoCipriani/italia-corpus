@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 04 luglio 1915 n. 1122
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1122
+data: 1915-07-04
+titolo: "Erezioni in ente morale e relative approvazioni di statuto (015U1122)"
+urn: urn:nir:stato:decreto.luogotenenziale:1915-07-04;1122
+codice_redazionale: 015U1122
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 04 luglio 1915 n. 1122
-==============================================
-
-Erezioni in ente morale e relative approvazioni di statuto (015U1122)
----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/08/1915
-
-Art. 1
-------
-
-  
-N. 1122   
-  
-Decreto Luogotenenziale 4 luglio 1915, col quale, sulla proposta del ministro dell'interno, l'«Istituto per l'Infanzia abbandonata» di Bari, e' eretto in ente morale e ne e' approvato lo statuto organico.   
-  
+N. 1122 
+ 
+ Decreto Luogotenenziale 4 luglio 1915, col quale, sulla proposta del ministro dell'interno, l'«Istituto per l'Infanzia abbandonata» di Bari, e' eretto in ente morale e ne e' approvato lo statuto organico.

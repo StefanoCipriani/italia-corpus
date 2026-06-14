@@ -1,18 +1,14 @@
-REGIO DECRETO 19 dicembre 1865 n. 2661
-
-
-REGIO DECRETO 19 dicembre 1865 n. 2661
-======================================
-
-Col quale sono create tre nuove Sezioni elettorali del Collegio di Salo'. (065U2661)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/01/1866  
-  
-Il presente Regio Decreto è stato erroneamente pubblicato in Gazzetta Ufficiale senza l'indicazione del numero di inserzione nella Raccolta Ufficiale delle leggi e dei decreti del Regno.
+---
+tipo: REGIO DECRETO
+numero: 2661
+data: 1865-12-19
+titolo: "Col quale sono create tre nuove Sezioni elettorali del Collegio di Salo'. (065U2661)"
+urn: urn:nir:stato:regio.decreto:1865-12-19;2661
+codice_redazionale: 065U2661
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,45 +28,30 @@ Noverandosi nei Comuni che comporrebbero le nuove Sezioni piu' di 40 Elettori e 
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I Comuni di Gavardo, Soprazocco, Sopraponte e Vallio, che sin qui fecero parte della Sezione del Collegio elettorale di Salo', n.° 81, detta di Salo', costituiranno d'ora in poi una Sezione del Collegio medesimo che si radunera' in Gavardo.
 
-  
-  
-I Comuni di Gavardo, Soprazocco, Sopraponte e Vallio, che sin qui fecero parte della Sezione del Collegio elettorale di Salo', n.° 81, detta di Salo', costituiranno d'ora in poi una Sezione del Collegio medesimo che si radunera' in Gavardo.   
-  
+## Art. 2.
 
-Art. 2
-------
+I Comuni di Toscolano e Maderno che sin qui fecero parte della Sezione del Collegio elettorale di Salo', n.° 81, detta di Gargnano, costituiranno d'ora in poi una Sezione del Collegio medesimo che si radunera' in Toscolano.
 
-  
-  
-I Comuni di Toscolano e Maderno che sin qui fecero parte della Sezione del Collegio elettorale di Salo', n.° 81, detta di Gargnano, costituiranno d'ora in poi una Sezione del Collegio medesimo che si radunera' in Toscolano.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-I Comuni di Limone San Giovanni e di Tremosine, che sin qui fecero parte della Sezione del Collegio elettorale di Salo', n.° 81, detta di Gargnano, costituiranno d'ora in poi una Sezione del Collegio medesimo, che si radunera' in Limone San Giovanni.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Torino, addi' 19 dicembre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 22 dicembre 1865   
-  
-Reg.° 34 Atti del Governo a c. 130. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Chiaves.   
-  
+I Comuni di Limone San Giovanni e di Tremosine, che sin qui fecero parte della Sezione del Collegio elettorale di Salo', n.° 81, detta di Gargnano, costituiranno d'ora in poi una Sezione del Collegio medesimo, che si radunera' in Limone San Giovanni. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Torino, addi' 19 dicembre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 22 dicembre 1865 
+ 
+ Reg.° 34 Atti del Governo a c. 130. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Chiaves.

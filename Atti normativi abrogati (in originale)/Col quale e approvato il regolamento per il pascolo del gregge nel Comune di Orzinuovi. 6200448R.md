@@ -1,19 +1,15 @@
-REGIO DECRETO 26 giugno 1862 n. CCCCXLVIII
+---
+tipo: REGIO DECRETO
+numero: CCCCXLVIII
+data: 1862-06-26
+titolo: "Col quale e' approvato il regolamento per il pascolo del gregge nel Comune di Orzinuovi. (6200448R)"
+urn: urn:nir:stato:regio.decreto:1862-06-26;448
+codice_redazionale: 6200448R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 giugno 1862 n. CCCCXLVIII
-==========================================
-
-Col quale e' approvato il regolamento per il pascolo del gregge nel Comune di Orzinuovi. (6200448R)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/06/1862
-
-Art. 1
-------
-
-  
-Che approva il regolamento per il pascolo del gregge montano deliberato dalla Comunita' di Orzinuovi (Provincia di Brescia) con ordinato del 5 giugno 1861, colle modificazioni adottate nell'adunanza del 20 maggio ultimo passato.   
-  
-Torino 26 giugno 1862   
-  
+Che approva il regolamento per il pascolo del gregge montano deliberato dalla Comunita' di Orzinuovi (Provincia di Brescia) con ordinato del 5 giugno 1861, colle modificazioni adottate nell'adunanza del 20 maggio ultimo passato. 
+ 
+ Torino 26 giugno 1862

@@ -1,16 +1,14 @@
-REGIO DECRETO 18 marzo 1877 n. 3729
-
-
-REGIO DECRETO 18 marzo 1877 n. 3729
-===================================
-
-Che separa i comuni di Chiaravalle, Camerata Picena e Falconara Marittima dalla sezione elettorale di Monte Marciano e li costituisce in sezione distinta del collegio di Jesi colla sede in Chiaravalle. (077U3729)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/04/1877
+---
+tipo: REGIO DECRETO
+numero: 3729
+data: 1877-03-18
+titolo: "Che separa i comuni di Chiaravalle, Camerata Picena e Falconara Marittima dalla sezione elettorale di Monte Marciano e li costituisce in sezione distinta del collegio di Jesi colla sede in Chiaravalle. (077U3729)"
+urn: urn:nir:stato:regio.decreto:1877-03-18;3729
+codice_redazionale: 077U3729
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Chiaravalle, Camerata Picena, Falconara Marittima sono separati dalla sezione elettorale di Montemarciano e formeranno una sezione distinta del Collegio elettorale di Jesi colla sede in Chiaravalle.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 marzo 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+I comuni di Chiaravalle, Camerata Picena, Falconara Marittima sono separati dalla sezione elettorale di Montemarciano e formeranno una sezione distinta del Collegio elettorale di Jesi colla sede in Chiaravalle. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 marzo 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

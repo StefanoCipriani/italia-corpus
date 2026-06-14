@@ -1,19 +1,15 @@
-REGIO DECRETO 28 aprile 1912 n. 425
+---
+tipo: REGIO DECRETO
+numero: 425
+data: 1912-04-28
+titolo: "Erezione in ente morale e relativa approvazione di statuto (012U0425)"
+urn: urn:nir:stato:regio.decreto:1912-04-28;425
+codice_redazionale: 012U0425
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 aprile 1912 n. 425
-===================================
-
-Erezione in ente morale e relativa approvazione di statuto (012U0425)
----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/06/1912
-
-Art. 1
-------
-
-  
-N. 425   
-  
-Regio Decreto 28 aprile 1912, col quale, sulla proposta del ministro dell'interno, l'asilo infantile di Cassina Ferrara (frazione di Saronno), viene eretto in ente morale, e ne e' approvato lo statuto organico.   
-  
+N. 425 
+ 
+ Regio Decreto 28 aprile 1912, col quale, sulla proposta del ministro dell'interno, l'asilo infantile di Cassina Ferrara (frazione di Saronno), viene eretto in ente morale, e ne e' approvato lo statuto organico.

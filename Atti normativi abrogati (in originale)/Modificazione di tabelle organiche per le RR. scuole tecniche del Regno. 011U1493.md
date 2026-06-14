@@ -1,19 +1,15 @@
-REGIO DECRETO 02 ottobre 1911 n. 1493
+---
+tipo: REGIO DECRETO
+numero: 1493
+data: 1911-10-02
+titolo: "Modificazione di tabelle organiche per le RR. scuole tecniche del Regno. (011U1493)"
+urn: urn:nir:stato:regio.decreto:1911-10-02;1493
+codice_redazionale: 011U1493
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 ottobre 1911 n. 1493
-=====================================
-
-Modificazione di tabelle organiche per le RR. scuole tecniche del Regno. (011U1493)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/03/1912
-
-Art. 1
-------
-
-  
-N. 1493   
-  
-Col quale, sulla proposta del ministro della pubblica istruzione, in seguito al movimento del personale insegnante e dirigente delle Regie scuole tecniche, si apportano modificazioni dal 1° ottobre 1911 al 30 settembre 1912, alle tabelle organiche per le Regie scuole tecniche per l'anno scolastico 1911-1912, approvato con decreto Reale del 6 agosto 1911.   
-  
+N. 1493 
+ 
+ Col quale, sulla proposta del ministro della pubblica istruzione, in seguito al movimento del personale insegnante e dirigente delle Regie scuole tecniche, si apportano modificazioni dal 1° ottobre 1911 al 30 settembre 1912, alle tabelle organiche per le Regie scuole tecniche per l'anno scolastico 1911-1912, approvato con decreto Reale del 6 agosto 1911.

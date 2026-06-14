@@ -1,23 +1,19 @@
-REGIO DECRETO 04 agosto 1861 n. CXXI
+---
+tipo: REGIO DECRETO
+numero: CXXI
+data: 1861-08-04
+titolo: "Che autorizza le Citta' di Chiavari e di Sassari, ed il Comune di Taggia a modificare i loro regolamenti e tariffe del dazio; ed i Comuni di Cairo e Lavagna ad imporre una imposta sui cani. (6100121R)"
+urn: urn:nir:stato:regio.decreto:1861-08-04;121
+codice_redazionale: 6100121R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 agosto 1861 n. CXXI
-====================================
-
-Che autorizza le Citta' di Chiavari e di Sassari, ed il Comune di Taggia a modificare i loro regolamenti e tariffe del dazio; ed i Comuni di Cairo e Lavagna ad imporre una imposta sui cani. (6100121R)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/08/1861
-
-Art. 1
-------
-
-  
-Che autorizza:   
-  
-Le Citta' di Chiavari e di Sassari, ed il Comune di Taggia (Porto Maurizio) a modificare i loro regolamenti e tariffe del dazio;   
-  
-Ed i Comuni di Cairo e Lavagna (Genova) ad imporre una imposta sui cani.   
-  
-Torino 4 agosto 1861   
-  
+Che autorizza: 
+ 
+ Le Citta' di Chiavari e di Sassari, ed il Comune di Taggia (Porto Maurizio) a modificare i loro regolamenti e tariffe del dazio; 
+ 
+ Ed i Comuni di Cairo e Lavagna (Genova) ad imporre una imposta sui cani. 
+ 
+ Torino 4 agosto 1861

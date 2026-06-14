@@ -1,21 +1,21 @@
-REGIO DECRETO 27 dicembre 1933 n. 2257
+---
+tipo: REGIO DECRETO
+numero: 2257
+data: 1933-12-27
+titolo: "Approvazione dello statuto organico dell'Opera pia « Societa' contro la tubercolosi », con sede in Trieste. (033U2257)"
+urn: urn:nir:stato:regio.decreto:1933-12-27;2257
+codice_redazionale: 033U2257
+vigente: true
+---
 
-
-REGIO DECRETO 27 dicembre 1933 n. 2257
-======================================
-
-Approvazione dello statuto organico dell'Opera pia « Societa' contro la tubercolosi », con sede in Trieste. (033U2257)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/03/1934
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2257. R. decreto 27 dicembre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato lo statuto organico dell'Opera pia « Societa' contro la tubercolosi », con sede in Trieste.   
-  
-Visto, il Guardasigilli: DE FRANCISCI.   
-  
-Registrato alla Corte dei conti, addi' 2 febbraio 1934 - Anno XII
+2257.
+
+R. decreto 27 dicembre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato lo statuto organico dell'Opera pia « Societa' contro la tubercolosi », con sede in Trieste. 
+ 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ 
+ Registrato alla Corte dei conti, addi' 2 febbraio 1934 - Anno XII

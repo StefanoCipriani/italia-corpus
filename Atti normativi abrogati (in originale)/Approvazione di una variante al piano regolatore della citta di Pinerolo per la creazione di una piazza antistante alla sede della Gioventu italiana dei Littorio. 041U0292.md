@@ -1,16 +1,14 @@
-REGIO DECRETO 17 marzo 1941 n. 292
-
-
-REGIO DECRETO 17 marzo 1941 n. 292
-==================================
-
-Approvazione di una variante al piano regolatore della citta' di Pinerolo per la creazione di una piazza antistante alla sede della Gioventu' italiana dei Littorio. (041U0292)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/05/1941
+---
+tipo: REGIO DECRETO
+numero: 292
+data: 1941-03-17
+titolo: "Approvazione di una variante al piano regolatore della citta' di Pinerolo per la creazione di una piazza antistante alla sede della Gioventu' italiana dei Littorio. (041U0292)"
+urn: urn:nir:stato:regio.decreto:1941-03-17;292
+codice_redazionale: 041U0292
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Vista la [legge 31 marzo 1921, n. 377](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-03-31;377), con la quale fu approvato il piano regolatore e di ampliamento della citta' di Pinerolo (Torino) e furono dettate norme per la sua attuazione;
+Vista la [legge 31 marzo 1921, n. 377](Che%20approva%20il%20piano%20regolatore%20e%20di%20ampliamento%20della%20citta%20di%20Pinerolo.%20021U0377.md), con la quale fu approvato il piano regolatore e di ampliamento della citta' di Pinerolo (Torino) e furono dettate norme per la sua attuazione;
 
 Vista la domanda 5 maggio 1939-XVII con la quale il podesta' del comune di Pinerolo, in base alla propria deliberazione 2 gennaio 1939-XVII, n. 9, ha chiesto che sia approvata una variante al detto piano regolatore per la creazione di una piazza antistante alla sede della Gioventu' italiana del Littorio;
 
@@ -36,7 +34,7 @@ Considerato, quanto al termine di attuazione, che deve rimanere fermo quello sta
 
 Visto il voto n. 339 del 26 febbraio 1940-XVIII del Consiglio superiore dei lavori pubblici;
 
-Vista la [legge 25 giugno 1865; n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);
+Vista la [legge 25 giugno 1865; n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -44,36 +42,30 @@ Sentito il Consiglio dei Ministri;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici;
 
-Vista
------
+Vista la delega rilasciata al Sottosegretario di Stato per il Ministero dei lavori pubblici; Abbiamo decretato e decretiamo:
 
-la delega rilasciata al Sottosegretario di Stato per il Ministero dei lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata la suindicata variante al piano regolatore della citta' di Pinerolo (Torino), sancito con la [legge 31 marzo 1921, n. 377](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-03-31;377), per la creazione di una piazza antistante alla sede della Gioventu' italiana del Littorio.   
-  
-Tale variante e' descritta nella planimetria in scala 1.500 in data marzo 1938-XVI che, vistata d'ordine Nostro dal Ministro proponente, sara' depositata all'Archivio di Stato.   
-  
-Per l'attuazione della variante resta fermo il termine stabilito per il piano regolatore di Pinerolo con la richiamata [legge 31 marzo 1921, n. 377](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-03-31;377).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 17 marzo 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Galletti   
-  
-Visto:   
-  
-(ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76)   
-  
-MUSSOLINI   
-  
-Registrato alla Corte dei conti, addi 1° maggio 1941-XIX   
-  
-Atti del Governo, registro 433, foglio 2. - Mancini   
+E' approvata la suindicata variante al piano regolatore della citta' di Pinerolo (Torino), sancito con la [legge 31 marzo 1921, n. 377](Che%20approva%20il%20piano%20regolatore%20e%20di%20ampliamento%20della%20citta%20di%20Pinerolo.%20021U0377.md), per la creazione di una piazza antistante alla sede della Gioventu' italiana del Littorio. 
+ 
+ Tale variante e' descritta nella planimetria in scala 1.500 in data marzo 1938-XVI che, vistata d'ordine Nostro dal Ministro proponente, sara' depositata all'Archivio di Stato. 
+ 
+ Per l'attuazione della variante resta fermo il termine stabilito per il piano regolatore di Pinerolo con la richiamata [legge 31 marzo 1921, n. 377](Che%20approva%20il%20piano%20regolatore%20e%20di%20ampliamento%20della%20citta%20di%20Pinerolo.%20021U0377.md). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 marzo 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Galletti 
+ 
+ Visto: 
+ 
+ (ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76) 
+ 
+ MUSSOLINI 
+ 
+ Registrato alla Corte dei conti, addi 1° maggio 1941-XIX 
+ 
+ Atti del Governo, registro 433, foglio 2. - Mancini

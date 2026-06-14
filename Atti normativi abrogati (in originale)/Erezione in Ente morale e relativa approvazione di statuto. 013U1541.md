@@ -1,19 +1,15 @@
-REGIO DECRETO 11 dicembre 1913 n. 1541
+---
+tipo: REGIO DECRETO
+numero: 1541
+data: 1913-12-11
+titolo: "Erezione in Ente morale e relativa approvazione di statuto. (013U1541)"
+urn: urn:nir:stato:regio.decreto:1913-12-11;1541
+codice_redazionale: 013U1541
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 dicembre 1913 n. 1541
-======================================
-
-Erezione in Ente morale e relativa approvazione di statuto. (013U1541)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/04/1914
-
-Art. 1
-------
-
-  
-N. 1541   
-  
-Regio Decreto 11 dicembre 1913, col quale, sulla proposta del ministro di agricoltura, industria e commercio d'accordo col ministro della pubblica istruzione, viene riconosciuta come ente morale la societa' scolastica di mutuo soccorso «Mutualita' Scolastica Novarese», con sede in Novara, e ne e' approvato lo statuto.   
-  
+N. 1541 
+ 
+ Regio Decreto 11 dicembre 1913, col quale, sulla proposta del ministro di agricoltura, industria e commercio d'accordo col ministro della pubblica istruzione, viene riconosciuta come ente morale la societa' scolastica di mutuo soccorso «Mutualita' Scolastica Novarese», con sede in Novara, e ne e' approvato lo statuto.

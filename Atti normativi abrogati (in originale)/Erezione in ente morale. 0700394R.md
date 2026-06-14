@@ -1,19 +1,15 @@
-REGIO DECRETO 26 agosto 1907 n. CCCXCIV
+---
+tipo: REGIO DECRETO
+numero: CCCXCIV
+data: 1907-08-26
+titolo: "Erezione in ente morale. (0700394R)"
+urn: urn:nir:stato:regio.decreto:1907-08-26;394
+codice_redazionale: 0700394R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 agosto 1907 n. CCCXCIV
-=======================================
-
-Erezione in ente morale. (0700394R)
------------------------------------
-
-Entrata in vigore del provvedimento: 29/10/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCXCIV (Dato a Racconigi, il 26 agosto 1907), col quale l'ospedale Dozzio di Belgioioso (Pavia), e' eretto in ente morale ed e' approvato lo statuto organico relativo.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCXCIV (Dato a Racconigi, il 26 agosto 1907), col quale l'ospedale Dozzio di Belgioioso (Pavia), e' eretto in ente morale ed e' approvato lo statuto organico relativo.

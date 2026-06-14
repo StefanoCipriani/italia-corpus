@@ -1,21 +1,17 @@
-REGIO DECRETO 17 gennaio 1904 n. XVI
+---
+tipo: REGIO DECRETO
+numero: XVI
+data: 1904-01-17
+titolo: "Con il quale le rendite della confraternita, del SS. Sacramento di Poggio Nativo (Perugia) sono, sino alla concorrenza dell'annua somma di' lire 500 e fermi restando gli altri assegni gia' attualmente destinati a scopo di beneficenza, trasformati al fino di soccorrere gli indigenti inabili al lavoro con sussidi da distribuirsi a cura della congregazione di carita' del luogo. (0400016R)"
+urn: urn:nir:stato:regio.decreto:1904-01-17;16
+codice_redazionale: 0400016R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 gennaio 1904 n. XVI
-====================================
-
-Con il quale le rendite della confraternita, del SS. Sacramento di Poggio Nativo (Perugia) sono, sino alla concorrenza dell'annua somma di' lire 500 e fermi restando gli altri assegni gia' attualmente destinati a scopo di beneficenza, trasformati al fino di soccorrere gli indigenti inabili al lavoro con sussidi da distribuirsi a cura della congregazione di carita' del luogo. (0400016R)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/02/1904
-
-Art. 1
-------
-
-  
-Con il quale le rendite della confraternita, del SS. Sacramento di Poggio Nativo (Perugia) sono, sino alla concorrenza dell'annua somma di' lire 500 e fermi restando gli altri assegni gia' attualmente destinati a scopo di beneficenza, trasformati al fino di soccorrere gli indigenti inabili al lavoro con sussidi da distribuirsi a cura della congregazione di carita' del luogo. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 2 febbraio 1904.   
-  
-Reg. 15. Atti del Governo a f. 27.   
-  
+Con il quale le rendite della confraternita, del SS. Sacramento di Poggio Nativo (Perugia) sono, sino alla concorrenza dell'annua somma di' lire 500 e fermi restando gli altri assegni gia' attualmente destinati a scopo di beneficenza, trasformati al fino di soccorrere gli indigenti inabili al lavoro con sussidi da distribuirsi a cura della congregazione di carita' del luogo. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 2 febbraio 1904. 
+ 
+ Reg. 15. Atti del Governo a f. 27.

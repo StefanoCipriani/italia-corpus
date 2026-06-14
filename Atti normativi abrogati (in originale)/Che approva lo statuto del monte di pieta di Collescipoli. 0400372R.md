@@ -1,22 +1,19 @@
-REGIO DECRETO 11 luglio 1904 n. CCCLXXII
+---
+tipo: REGIO DECRETO
+numero: CCCLXXII
+data: 1904-07-11
+titolo: "Che approva lo statuto del monte di pieta' di Collescipoli. (0400372R)"
+urn: urn:nir:stato:regio.decreto:1904-07-11;372
+codice_redazionale: 0400372R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 luglio 1904 n. CCCLXXII
-========================================
+Che approva lo statuto del monte di pieta' di Collescipoli. - Firmato VITTORIO EMANUELE - Controfirmati Rava - Giolitti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 29 settembre
 
-Che approva lo statuto del monte di pieta' di Collescipoli. (0400372R)
-----------------------------------------------------------------------
+1904.
 
-Entrata in vigore del provvedimento: 19/10/1904
-
-Art. 1
-------
-
-Che approva lo statuto del monte di pieta' di Collescipoli. - Firmato VITTORIO EMANUELE - Controfirmati Rava - Giolitti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 29 settembre
-
-1904. 
-  
-  
 Reg. 18. Atti del Governo a f. 171.

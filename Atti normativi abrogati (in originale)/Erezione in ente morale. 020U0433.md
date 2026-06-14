@@ -1,17 +1,17 @@
-REGIO DECRETO 21 marzo 1920 n. 433
+---
+tipo: REGIO DECRETO
+numero: 433
+data: 1920-03-21
+titolo: "Erezione in ente morale. (020U0433)"
+urn: urn:nir:stato:regio.decreto:1920-03-21;433
+codice_redazionale: 020U0433
+vigente: true
+---
 
-
-REGIO DECRETO 21 marzo 1920 n. 433
-==================================
-
-Erezione in ente morale. (020U0433)
------------------------------------
-
-Entrata in vigore del provvedimento: 13/05/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-433. Regio decreto 21 marzo 1920, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, il Consorzio Federazione Laziale fra le Cooperative di produzione e lavoro, con sede in Roma, viene eretto in ente morale, e ne e' approvato lo statuto organico relativo.
+433.
+
+Regio decreto 21 marzo 1920, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, il Consorzio Federazione Laziale fra le Cooperative di produzione e lavoro, con sede in Roma, viene eretto in ente morale, e ne e' approvato lo statuto organico relativo.

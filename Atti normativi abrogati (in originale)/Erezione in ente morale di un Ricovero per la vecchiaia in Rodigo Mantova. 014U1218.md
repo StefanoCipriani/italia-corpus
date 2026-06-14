@@ -1,19 +1,15 @@
-REGIO DECRETO 15 ottobre 1914 n. 1218
+---
+tipo: REGIO DECRETO
+numero: 1218
+data: 1914-10-15
+titolo: "Erezione in ente morale di un Ricovero per la vecchiaia in Rodigo (Mantova). (014U1218)"
+urn: urn:nir:stato:regio.decreto:1914-10-15;1218
+codice_redazionale: 014U1218
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 ottobre 1914 n. 1218
-=====================================
-
-Erezione in ente morale di un Ricovero per la vecchiaia in Rodigo (Mantova). (014U1218)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/11/1914
-
-Art. 1
-------
-
-  
-N. 1218   
-  
-Regio Decreto 15 ottobre 1914, col quale, sulla proposta del ministro dell'interno, il «Ricovero intercomunale per la vecchiaia» in Rodigo (Mantova) e' eretto in ente morale con amministrazione autonoma e ne e' approvato lo statuto organico.   
-  
+N. 1218 
+ 
+ Regio Decreto 15 ottobre 1914, col quale, sulla proposta del ministro dell'interno, il «Ricovero intercomunale per la vecchiaia» in Rodigo (Mantova) e' eretto in ente morale con amministrazione autonoma e ne e' approvato lo statuto organico.

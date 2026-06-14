@@ -1,16 +1,14 @@
-REGIO DECRETO 03 gennaio 1878 n. 4255
-
-
-REGIO DECRETO 03 gennaio 1878 n. 4255
-=====================================
-
-Che proroga la sessione del Senato del Regno e della Camera dei Deputati. (078U4255)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/01/1878Il presente decreto e' stato erroneamente pubblicato in Gazzetta Ufficiale senza l'indicazione del numero di inserzione nella Raccolta Ufficiale delle leggi e dei decreti del Regno.
+---
+tipo: REGIO DECRETO
+numero: 4255
+data: 1878-01-03
+titolo: "Che proroga la sessione del Senato del Regno e della Camera dei Deputati. (078U4255)"
+urn: urn:nir:stato:regio.decreto:1878-01-03;4255
+codice_redazionale: 078U4255
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,23 +18,16 @@ Veduto l'articolo 9 dello statuto fondamentale del Regno;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del nostro Ministro Segretario di Stato per gli affari dell'Interno; Abbiamo decretato e decretiamo;
 
-proposta del nostro Ministro Segretario di Stato per gli affari dell'Interno; Abbiamo decretato e decretiamo;
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'attuale Sessione del Senato del regno e della camera dei deputati e' prorogata.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del regno d'Italia, mandando a chiunque spetti di osservarlo e farlo osservare.   
-  
-Dato a Roma, addi' 3 gennaio 1878.   
-  
-VITTORIO EMANUELE.   
-  
-F. Crispi.   
-  
+L'attuale Sessione del Senato del regno e della camera dei deputati e' prorogata. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del regno d'Italia, mandando a chiunque spetti di osservarlo e farlo osservare. 
+ 
+ Dato a Roma, addi' 3 gennaio 1878. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ F. Crispi.

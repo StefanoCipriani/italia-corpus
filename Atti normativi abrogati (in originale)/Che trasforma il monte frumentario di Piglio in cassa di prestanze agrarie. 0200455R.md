@@ -1,21 +1,17 @@
-REGIO DECRETO 27 novembre 1902 n. CCCCLV
+---
+tipo: REGIO DECRETO
+numero: CCCCLV
+data: 1902-11-27
+titolo: "Che trasforma il monte frumentario di Piglio in cassa di prestanze agrarie. (0200455R)"
+urn: urn:nir:stato:regio.decreto:1902-11-27;455
+codice_redazionale: 0200455R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 novembre 1902 n. CCCCLV
-========================================
-
-Che trasforma il monte frumentario di Piglio in cassa di prestanze agrarie. (0200455R)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/01/1903
-
-Art. 1
-------
-
-  
-Con cui il monte frumentario di Piglio (Roma) viene trasformato in cassa di prestanza agrarie; la cassa e' concentrata nella congregazione di carita' del luogo, e viene approvato lo statuto per il governo del pio ente. - Firmato VITTORIO EMANUELE - Controfirmati Giolitti, G. Baccelli - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 12 gennaio 1903.   
-  
-Reg. 7. Atti del Governo a f. 118.   
-  
+Con cui il monte frumentario di Piglio (Roma) viene trasformato in cassa di prestanza agrarie; la cassa e' concentrata nella congregazione di carita' del luogo, e viene approvato lo statuto per il governo del pio ente. - Firmato VITTORIO EMANUELE - Controfirmati Giolitti, G. Baccelli - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 12 gennaio 1903. 
+ 
+ Reg. 7. Atti del Governo a f. 118.

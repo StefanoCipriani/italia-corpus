@@ -1,21 +1,17 @@
-REGIO DECRETO 24 novembre 1901 n. CCCLXXII
+---
+tipo: REGIO DECRETO
+numero: CCCLXXII
+data: 1901-11-24
+titolo: "Con cui, su proposta di Sua Eccellenza il Ministro dell'interno, la societa' di patronato pei liberati dal carcere di Alessandria viene eretta in ente morale e se ne approva lo statuto organico. (0100372R)"
+urn: urn:nir:stato:regio.decreto:1901-11-24;372
+codice_redazionale: 0100372R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 novembre 1901 n. CCCLXXII
-==========================================
-
-Con cui, su proposta di Sua Eccellenza il Ministro dell'interno, la societa' di patronato pei liberati dal carcere di Alessandria viene eretta in ente morale e se ne approva lo statuto organico. (0100372R)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/01/1902
-
-Art. 1
-------
-
-  
-Con cui, su proposta di Sua Eccellenza il Ministro dell'interno, la societa' di patronato pei liberati dal carcere di Alessandria viene eretta in ente morale e se ne approva lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 30 dicembre 1901.   
-  
-Reg. 232. Atti del Governo a f. 4.   
-  
+Con cui, su proposta di Sua Eccellenza il Ministro dell'interno, la societa' di patronato pei liberati dal carcere di Alessandria viene eretta in ente morale e se ne approva lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 30 dicembre 1901. 
+ 
+ Reg. 232. Atti del Governo a f. 4.

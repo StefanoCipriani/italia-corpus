@@ -1,19 +1,19 @@
-REGIO DECRETO 28 agosto 1930 n. 1392
+---
+tipo: REGIO DECRETO
+numero: 1392
+data: 1930-08-28
+titolo: "Autorizzazione alla Scuola media di agricoltura «Stanga» di Cremona ad accettare una donazione. (030U1392)"
+urn: urn:nir:stato:regio.decreto:1930-08-28;1392
+codice_redazionale: 030U1392
+vigente: true
+---
 
-
-REGIO DECRETO 28 agosto 1930 n. 1392
-====================================
-
-Autorizzazione alla Scuola media di agricoltura «Stanga» di Cremona ad accettare una donazione. (030U1392)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/11/1930
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1392. R. decreto 28 agosto 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, la Scuola media di agricoltura «Stanga» di Cremona, viene autorizzata ad accettare la somma di L. 10.000 donata dalla Banca popolare di Cremona.   
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 21 ottobre 1930 - Anno VIII
+1392.
+
+R. decreto 28 agosto 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, la Scuola media di agricoltura «Stanga» di Cremona, viene autorizzata ad accettare la somma di L. 10.000 donata dalla Banca popolare di Cremona. 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 21 ottobre 1930 - Anno VIII

@@ -1,19 +1,15 @@
-REGIO DECRETO 09 gennaio 1913 n. 80
+---
+tipo: REGIO DECRETO
+numero: 80
+data: 1913-01-09
+titolo: "Approvazione di statuto. (013U0080)"
+urn: urn:nir:stato:regio.decreto:1913-01-09;80
+codice_redazionale: 013U0080
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 gennaio 1913 n. 80
-===================================
-
-Approvazione di statuto. (013U0080)
------------------------------------
-
-Entrata in vigore del provvedimento: 07/03/1913
-
-Art. 1
-------
-
-  
-N. 80   
-  
-Regio Decreto 9 gennaio 1913, col quale, sulla proposta del ministro di agricoltura industria e commercio, di concerto col ministro dell'interno, viene approvato lo statuto del Monte di pieta' di Genova.   
-  
+N. 80 
+ 
+ Regio Decreto 9 gennaio 1913, col quale, sulla proposta del ministro di agricoltura industria e commercio, di concerto col ministro dell'interno, viene approvato lo statuto del Monte di pieta' di Genova.

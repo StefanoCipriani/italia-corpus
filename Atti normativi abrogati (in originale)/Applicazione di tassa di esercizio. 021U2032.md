@@ -1,18 +1,18 @@
-REGIO DECRETO 11 dicembre 1921 n. 2032
+---
+tipo: REGIO DECRETO
+numero: 2032
+data: 1921-12-11
+titolo: "Applicazione di tassa di esercizio. (021U2032)"
+urn: urn:nir:stato:regio.decreto:1921-12-11;2032
+codice_redazionale: 021U2032
+vigente: true
+---
 
-
-REGIO DECRETO 11 dicembre 1921 n. 2032
-======================================
-
-Applicazione di tassa di esercizio. (021U2032)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 14/02/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2032. Regio decreto 11 dicembre 1921, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Montieri (Grosseto), di applicare, dal 1° gennaio al 31 dicembre 1921, la tassa di esercizio col limite massimo fino a L. 4000, anziche' di L.  
+2032.
+
+Regio decreto 11 dicembre 1921, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Montieri (Grosseto), di applicare, dal 1° gennaio al 31 dicembre 1921, la tassa di esercizio col limite massimo fino a L. 4000, anziche' di L.
 2000.

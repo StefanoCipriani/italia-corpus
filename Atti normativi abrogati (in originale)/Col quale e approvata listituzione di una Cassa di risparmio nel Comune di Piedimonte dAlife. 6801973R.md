@@ -1,32 +1,41 @@
-REGIO DECRETO 09 febbraio 1868 n. MDCCCCLXXIII
+---
+tipo: REGIO DECRETO
+numero: MDCCCCLXXIII
+data: 1868-02-09
+titolo: "Col quale e' approvata l'istituzione di una Cassa di risparmio nel Comune di Piedimonte d'Alife. (6801973R)"
+urn: urn:nir:stato:regio.decreto:1868-02-09;1973
+codice_redazionale: 6801973R
+vigente: true
+---
 
+VITTORIO EMANUELE II
 
-REGIO DECRETO 09 febbraio 1868 n. MDCCCCLXXIII
-==============================================
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
-Col quale e' approvata l'istituzione di una Cassa di risparmio nel Comune di Piedimonte d'Alife. (6801973R)
------------------------------------------------------------------------------------------------------------
+RE D'ITALIA
 
-Entrata in vigore del provvedimento: 01/04/1868
+Vedute le deliberazioni del 27 dicembre 1861, 21 maggio e 11 ottobre 1867, del Consiglio comunale di Piedimonte d'Alife;
 
-Articolo unico
---------------
+Veduta la deliberazione del 16 settembre 1867 della Deputazione provinciale di Terra di Lavoro;
 
-  
-  
-E' approvata l'istituzione di una Cassa di risparmio nel Comune di Piedimonte d' Alife, Provincia di Terra di Lavoro, in conformita' dello statuto visto d'ordine Nostro dal Ministro predetto.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo devo Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 9 febbraio 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 19 febbraio 1868   
-  
-Reg. 42 Atti del Governo a c. 64. Ayres.   
-  
-Luogo del sigillo. V. il Guardasigilli De Filippo.   
-  
-Broglio.   
-  
+Sentito il Consiglio di Stato;
+
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+
+## Articolo unico.
+
+E' approvata l'istituzione di una Cassa di risparmio nel Comune di Piedimonte d' Alife, Provincia di Terra di Lavoro, in conformita' dello statuto visto d'ordine Nostro dal Ministro predetto. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo devo Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 9 febbraio 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 19 febbraio 1868 
+ 
+ Reg. 42 Atti del Governo a c. 64. Ayres. 
+ 
+ Luogo del sigillo. V. il Guardasigilli De Filippo. 
+ 
+ Broglio.

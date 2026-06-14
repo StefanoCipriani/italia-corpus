@@ -1,16 +1,14 @@
-REGIO DECRETO 27 giugno 1869 n. 5265
-
-
-REGIO DECRETO 27 giugno 1869 n. 5265
-====================================
-
-Che erige a Corpo morale il legato del Sacerdote Paolo Arata a pro dell'istruzione primaria in piu' frazioni dei Comuni di Cicagna e d'Orero. (069U5265)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/10/1869
+---
+tipo: REGIO DECRETO
+numero: 5265
+data: 1869-06-27
+titolo: "Che erige a Corpo morale il legato del Sacerdote Paolo Arata a pro dell'istruzione primaria in piu' frazioni dei Comuni di Cicagna e d'Orero. (069U5265)"
+urn: urn:nir:stato:regio.decreto:1869-06-27;5265
+codice_redazionale: 069U5265
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,45 +26,30 @@ Vista la Legge delle Opere pie 3 agosto 1862;
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il legato d'annue lire quattrocento (400), fatto dal fu Sacerdote Paolo Arata a pro dell'istruzione primaria in piu' frazioni dei Comuni di Cicagna e d'Orero, e' eretto in Corpo morale.
 
-  
-  
-Il legato d'annue lire quattrocento (400), fatto dal fu Sacerdote Paolo Arata a pro dell'istruzione primaria in piu' frazioni dei Comuni di Cicagna e d'Orero, e' eretto in Corpo morale.   
-  
+## Art. 2.
 
-Art. 2
-------
+Gli Amministratori pro tempore dell'Oratorio di San Rocco a Pianezza, frazione del Comune di Cicagna, sono autorizzati ad accettare quel lascito nell'interesse della scuola voluta dal testatore.
 
-  
-  
-Gli Amministratori pro tempore dell'Oratorio di San Rocco a Pianezza, frazione del Comune di Cicagna, sono autorizzati ad accettare quel lascito nell'interesse della scuola voluta dal testatore.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Lo statuto per questa fondazione, redatto dagli Amministratori dell'Oratorio di San Rocco, e sottoposto al voto della Deputazione provinciale, verra' approvato dal Nostro Ministro Segretario di Stato per la Istruzione Pubblica entro due mesi dalla data del presente Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 27 giugno 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 16 settembre 1869   
-  
-Reg. 48 Atti del Governo a c. 103. M. Rondanini.   
-  
-Luogo del sigillo. V. Il Guardasigilli Pironti.   
-  
-A. Bargoni.   
-  
+Lo statuto per questa fondazione, redatto dagli Amministratori dell'Oratorio di San Rocco, e sottoposto al voto della Deputazione provinciale, verra' approvato dal Nostro Ministro Segretario di Stato per la Istruzione Pubblica entro due mesi dalla data del presente Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 27 giugno 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 16 settembre 1869 
+ 
+ Reg. 48 Atti del Governo a c. 103. M. Rondanini. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Pironti. 
+ 
+ A. Bargoni.

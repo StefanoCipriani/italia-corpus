@@ -1,16 +1,14 @@
-REGIO DECRETO 05 novembre 1876 n. 3511
-
-
-REGIO DECRETO 05 novembre 1876 n. 3511
-======================================
-
-Che approva il riordinamento ed i nuovi programmi degli istituti tecnici. (076U3511)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/12/1876
+---
+tipo: REGIO DECRETO
+numero: 3511
+data: 1876-11-05
+titolo: "Che approva il riordinamento ed i nuovi programmi degli istituti tecnici. (076U3511)"
+urn: urn:nir:stato:regio.decreto:1876-11-05;3511
+codice_redazionale: 076U3511
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,34 +22,23 @@ Udito il parere del Consiglio Superiore per l'istruzione industriale e professio
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Gli insegnamenti in ciascuna sezione d'Istituto tecnico sono dati secondo l'ordinamento e i programmi qui uniti, visti d'ordine Nostro dal Ministro di Agricoltura, Industria e Commercio.
 
-  
-  
-Gli insegnamenti in ciascuna sezione d'Istituto tecnico sono dati secondo l'ordinamento e i programmi qui uniti, visti d'ordine Nostro dal Ministro di Agricoltura, Industria e Commercio.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Le sezioni d'Istituto tecnico sono cinque, cioe':  
-Fisico-matematica, di agronomia, di agrimensura, industriale, e di commercio e ragioneria.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 novembre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-MAIORANA-CALATABIANO.   
-  
-(Il Regolamento sara' pubblicato nei successivi numeri)   
-  
+Le sezioni d'Istituto tecnico sono cinque, cioe':
+Fisico-matematica, di agronomia, di agrimensura, industriale, e di commercio e ragioneria. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 novembre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ MAIORANA-CALATABIANO. 
+ 
+ (Il Regolamento sara' pubblicato nei successivi numeri)

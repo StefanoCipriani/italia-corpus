@@ -1,15 +1,13 @@
-REGIO DECRETO 26 dicembre 1926 n. 2212
+---
+tipo: REGIO DECRETO
+numero: 2212
+data: 1926-12-26
+titolo: "Regio decreto emanato in applicazione dei Regi decreti 5 giugno 1926, n. 990, e 3 dicembre 1926, n. 2029. (026U2212)"
+urn: urn:nir:stato:regio.decreto:1926-12-26;2212
+codice_redazionale: 026U2212
+vigente: true
+---
 
-
-REGIO DECRETO 26 dicembre 1926 n. 2212
-======================================
-
-Regio decreto emanato in applicazione dei Regi decreti 5 giugno 1926, n. 990, e 3 dicembre 1926, n. 2029. (026U2212)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/02/1927
-
-Art. 1
-------
+## Art. 1.
 
 ((IL PROVVEDIMENTO, SIA IN GAZZETTA UFFICIALE SIA NELLA RACCOLTA UFFICIALE DEGLI ATTI NORMATIVI, RISULTA PUBBLICATO NEI SUOI SOLI ESTREMI))

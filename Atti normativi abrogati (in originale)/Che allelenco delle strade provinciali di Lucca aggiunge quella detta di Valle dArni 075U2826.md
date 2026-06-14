@@ -1,16 +1,14 @@
-REGIO DECRETO 28 novembre 1875 n. 2826
-
-
-REGIO DECRETO 28 novembre 1875 n. 2826
-======================================
-
-Che all'elenco delle strade provinciali di Lucca aggiunge quella detta di Valle d'Arni (075U2826)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/01/1876
+---
+tipo: REGIO DECRETO
+numero: 2826
+data: 1875-11-28
+titolo: "Che all'elenco delle strade provinciali di Lucca aggiunge quella detta di Valle d'Arni (075U2826)"
+urn: urn:nir:stato:regio.decreto:1875-11-28;2826
+codice_redazionale: 075U2826
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -38,31 +36,20 @@ Che eseguite le pubblicazioni prescritte dal successivo articolo 14 della stessa
 
 Che il tracciamento generale della strada, gia' riconosciuto ammessibile secondo il primitivo progetto, riesce coll'adottata variante indubbiamente migliorato nelle condizioni planimetriche ed altimetriche sebbene ne derivi un qualche allungamento di tragitto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' aggiunta alle strade provinciali di Lucca quella detta di Valle d'Arni, dalla provinciale di Marina, sotto il ponte Stazzemese, ad Arni.
 
-  
-  
-E' aggiunta alle strade provinciali di Lucca quella detta di Valle d'Arni, dalla provinciale di Marina, sotto il ponte Stazzemese, ad Arni.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' approvato il tracciamento generale della predetta strada, come risulta dalle planimetrie annesse al progetto 28 febbraio 1874 dell'ingegnere capo di Lucca ed a quello della variante portata dall'altro progetto dell'ingegnere Francesconi in data 1° agosto 1875, quali planimetrie saranno d'ordine Nostro vidimate dal predetto Ministro.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 novembre 1875.   
-  
-VITTORIO EMANUELE.   
-  
-S. Spaventa.   
-  
+E' approvato il tracciamento generale della predetta strada, come risulta dalle planimetrie annesse al progetto 28 febbraio 1874 dell'ingegnere capo di Lucca ed a quello della variante portata dall'altro progetto dell'ingegnere Francesconi in data 1° agosto 1875, quali planimetrie saranno d'ordine Nostro vidimate dal predetto Ministro. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 novembre 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ S. Spaventa.

@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 18 giugno 1940 n. 632
-
-
-REGIO DECRETO-LEGGE 18 giugno 1940 n. 632
-=========================================
-
-Militarizzazione dell'Unione Nazionale Protezione Antiaerea (U.N.P.A.) durante lo stato di guerra. (040U0632)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/06/1940.  
-Regio Decreto-Legge convertito dalla [L. 25 agosto 1940, n. 1307](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-08-25;1307) (in G.U. 24/09/1940, n. 224).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 632
+data: 1940-06-18
+titolo: "Militarizzazione dell'Unione Nazionale Protezione Antiaerea (U.N.P.A.) durante lo stato di guerra. (040U0632)"
+urn: urn:nir:stato:regio.decreto.legge:1940-06-18;632
+codice_redazionale: 040U0632
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -31,46 +28,32 @@ Ritenuto lo stato di necessita' per causa di guerra;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Durante l'attuale stato di guerra, l'Unione Nazionale Protezione Antiaerea (U.N.P.A.) e' militarizzata e posta alla diretta dipendenza del Ministero della guerra.
 
-  
-  
-Durante l'attuale stato di guerra, l'Unione Nazionale Protezione Antiaerea (U.N.P.A.) e' militarizzata e posta alla diretta dipendenza del Ministero della guerra.   
+## Art. 2.
 
-Art. 2
-------
+Le norme relativo alla militarizzazione dell'U.N.P.A. saranno emanate con decreto Reale, nella forma prevista dall'art. 3, n. 1, della legge 31 gennaio 1926-IV, n. 100.
 
-  
-  
-Le norme relativo alla militarizzazione dell'U.N.P.A. saranno emanate con decreto Reale, nella forma prevista dall'art. 3, n. 1, della legge 31 gennaio 1926-IV, n. 100.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il presente decreto, che entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno, sara' presentato alle Assemblee legislative per la conversione in legge.   
-  
-Il DUCE, proponente, e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dalla Zona di operazioni, addi' 18 giugno 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 23 giugno 1940-XVIII   
-  
-Atti del Governo, registro 422, foglio 113. - Mancini   
-  
-  
+Il presente decreto, che entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno, sara' presentato alle Assemblee legislative per la conversione in legge. 
+ 
+ Il DUCE, proponente, e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dalla Zona di operazioni, addi' 18 giugno 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 23 giugno 1940-XVIII 
+ 
+ Atti del Governo, registro 422, foglio 113. - Mancini

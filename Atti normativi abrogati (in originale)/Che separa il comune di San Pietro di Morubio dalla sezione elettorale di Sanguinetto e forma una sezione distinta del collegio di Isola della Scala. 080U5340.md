@@ -1,16 +1,14 @@
-REGIO DECRETO 14 marzo 1880 n. 5340
-
-
-REGIO DECRETO 14 marzo 1880 n. 5340
-===================================
-
-Che separa il comune di San Pietro di Morubio dalla sezione elettorale di Sanguinetto e forma una sezione distinta del collegio di Isola della Scala. (080U5340)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/04/1880
+---
+tipo: REGIO DECRETO
+numero: 5340
+data: 1880-03-14
+titolo: "Che separa il comune di San Pietro di Morubio dalla sezione elettorale di Sanguinetto e forma una sezione distinta del collegio di Isola della Scala. (080U5340)"
+urn: urn:nir:stato:regio.decreto:1880-03-14;5340
+codice_redazionale: 080U5340
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Ritenuto che gli elettori del comune di San Pietro di Morubio sono 67, e cosi' i
 
 Considerando che per la istituzione di una sezione elettorale in San Pietro di Morubio sara' agevolato l'esercizio del loro diritto agli elettori di quel comune;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di San Pietro di Morubio e' separato dalla sezione elettorale di Sanguinetto, e formera' una sezione distinta del Collegio di Isola della Scala.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 marzo 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il comune di San Pietro di Morubio e' separato dalla sezione elettorale di Sanguinetto, e formera' una sezione distinta del Collegio di Isola della Scala. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

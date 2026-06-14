@@ -1,21 +1,17 @@
-REGIO DECRETO 28 luglio 1895 n. DXIX
+---
+tipo: REGIO DECRETO
+numero: DXIX
+data: 1895-07-28
+titolo: "Che concentra i lasciti dotalizi Miniati e Laschetti nella congregazione di carita' di Incisa Valdarno. (9500519R)"
+urn: urn:nir:stato:regio.decreto:1895-07-28;519
+codice_redazionale: 9500519R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 luglio 1895 n. DXIX
-====================================
-
-Che concentra i lasciti dotalizi Miniati e Laschetti nella congregazione di carita' di Incisa Valdarno. (9500519R)
-------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/12/1895
-
-Art. 1
-------
-
-  
-Con cui i lasciti dotalizi Miniati e Laschetti sono concentrati nella congregazione di carita' di Incisa Valdarno. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 2 dicembre 1895.   
-  
-Reg. 202. Atti del Governo a f. 66.   
-  
+Con cui i lasciti dotalizi Miniati e Laschetti sono concentrati nella congregazione di carita' di Incisa Valdarno. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 2 dicembre 1895. 
+ 
+ Reg. 202. Atti del Governo a f. 66.

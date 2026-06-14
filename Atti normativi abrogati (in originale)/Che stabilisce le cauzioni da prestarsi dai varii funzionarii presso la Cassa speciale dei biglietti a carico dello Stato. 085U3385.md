@@ -1,16 +1,14 @@
-REGIO DECRETO 01 ottobre 1885 n. 3385
-
-
-REGIO DECRETO 01 ottobre 1885 n. 3385
-=====================================
-
-Che stabilisce le cauzioni da prestarsi dai varii funzionarii presso la Cassa speciale dei biglietti a carico dello Stato. (085U3385)
--------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/11/1885
+---
+tipo: REGIO DECRETO
+numero: 3385
+data: 1885-10-01
+titolo: "Che stabilisce le cauzioni da prestarsi dai varii funzionarii presso la Cassa speciale dei biglietti a carico dello Stato. (085U3385)"
+urn: urn:nir:stato:regio.decreto:1885-10-01;3385
+codice_redazionale: 085U3385
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,41 +22,26 @@ Veduto l'art. 229 e seguenti del regolamento approvato col Nostro decreto del 4 
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze interim del Tesoro, Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze interim del Tesoro, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il delegato controllore, il vicedelegato controllore ed i ragionieri dell'ufficio di Delegazione del Ministero del Tesoro presso la Cassa speciale dei biglietti a debito dello Stato, presenteranno a garanzia della rispettiva gestione una cauzione che per il primo non potra' essere inferiore alla somma capitale di lire dodicimila, per il secondo di lire ottomila e per gli altri di lire quattromila per ciascuno.
 
-  
-  
-Il delegato controllore, il vicedelegato controllore ed i ragionieri dell'ufficio di Delegazione del Ministero del Tesoro presso la Cassa speciale dei biglietti a debito dello Stato, presenteranno a garanzia della rispettiva gestione una cauzione che per il primo non potra' essere inferiore alla somma capitale di lire dodicimila, per il secondo di lire ottomila e per gli altri di lire quattromila per ciascuno.   
-  
+## Art. 2.
 
-Art. 2
-------
+La cauzione di cui al precedente art. 1 sara' prestata a norma del disposto col primo comma dell'art. 231 del regolamento di Contabilita' generale dello Stato, approvato col Nostro decreto del 4 maggio scorso, n. 3074 (Serie 3ª).
 
-  
-  
-La cauzione di cui al precedente art. 1 sara' prestata a norma del disposto col primo comma dell'art. 231 del regolamento di Contabilita' generale dello Stato, approvato col Nostro decreto del 4 maggio scorso, n. 3074 (Serie 3ª).   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Tanto in rapporto alle formalita' e procedimento per la prestazione, revisione ed approvazione della cauzione, quanto riguardo alle norme disciplinari, saranno applicate ai funzionari tutti del suaccennato ufficio di Delegazione del Ministero del Tesoro, le disposizioni contenute nel decreto Reale 4 aprile 1880, n. 5399 (Serie 2ª) ed annessovi regolamento.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 1° ottobre 1885.   
-  
-UMBERTO.   
-  
-A. Magliani.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+Tanto in rapporto alle formalita' e procedimento per la prestazione, revisione ed approvazione della cauzione, quanto riguardo alle norme disciplinari, saranno applicate ai funzionari tutti del suaccennato ufficio di Delegazione del Ministero del Tesoro, le disposizioni contenute nel decreto Reale 4 aprile 1880, n. 5399 (Serie 2ª) ed annessovi regolamento. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° ottobre 1885. 
+ 
+ UMBERTO. 
+ 
+ A. Magliani. 
+ 
+ Visto, Il Guardasigilli: Tajani.

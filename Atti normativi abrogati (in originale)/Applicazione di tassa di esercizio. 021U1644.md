@@ -1,17 +1,17 @@
-REGIO DECRETO 28 ottobre 1921 n. 1644
+---
+tipo: REGIO DECRETO
+numero: 1644
+data: 1921-10-28
+titolo: "Applicazione di tassa di esercizio. (021U1644)"
+urn: urn:nir:stato:regio.decreto:1921-10-28;1644
+codice_redazionale: 021U1644
+vigente: true
+---
 
-
-REGIO DECRETO 28 ottobre 1921 n. 1644
-=====================================
-
-Applicazione di tassa di esercizio. (021U1644)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 20/12/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1644. Regio decreto 28 ottobre 1921, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Parravicino (Como), di applicare dal 1° gennaio al 31 dicembre 1921, la tassa di esercizio col limite massimo fino a L. 2000.
+1644.
+
+Regio decreto 28 ottobre 1921, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Parravicino (Como), di applicare dal 1° gennaio al 31 dicembre 1921, la tassa di esercizio col limite massimo fino a L. 2000.

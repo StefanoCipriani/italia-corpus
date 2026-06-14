@@ -1,16 +1,14 @@
-REGIO DECRETO 06 marzo 1879 n. 4766
-
-
-REGIO DECRETO 06 marzo 1879 n. 4766
-===================================
-
-Che separa il comune di Fontanetto-Po dalla sezione principale del collegio elettorale di Crescentino e forma una sezione distinta del collegio stesso. (079U4766)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/04/1879
+---
+tipo: REGIO DECRETO
+numero: 4766
+data: 1879-03-06
+titolo: "Che separa il comune di Fontanetto-Po dalla sezione principale del collegio elettorale di Crescentino e forma una sezione distinta del collegio stesso. (079U4766)"
+urn: urn:nir:stato:regio.decreto:1879-03-06;4766
+codice_redazionale: 079U4766
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Che quel comune dista da Crescentino sette chilometri, e tale distanza rende mal
 
 Considerato che istituendo una sezione elettorale in Fontanetto Po si rende piu' facile l'esercizio del diritto elettorale ad un numero di elettori molto ragguardevole;
 
-Sulla
------
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-il comune di Fontanetto Po e' separato dalla sezione principale del Collegio elettorale di Crescentino, e formera' una sezione distinta dello stesso Collegio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 marzo 1879.   
-  
-UMBERTO.   
-  
-Depetris.   
-  
+il comune di Fontanetto Po e' separato dalla sezione principale del Collegio elettorale di Crescentino, e formera' una sezione distinta dello stesso Collegio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 marzo 1879. 
+ 
+ UMBERTO. 
+ 
+ Depetris.

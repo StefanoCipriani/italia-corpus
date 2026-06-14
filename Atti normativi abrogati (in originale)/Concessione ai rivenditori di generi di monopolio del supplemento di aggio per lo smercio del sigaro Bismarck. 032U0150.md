@@ -1,16 +1,14 @@
-REGIO DECRETO 18 febbraio 1932 n. 150
-
-
-REGIO DECRETO 18 febbraio 1932 n. 150
-=====================================
-
-Concessione ai rivenditori di generi di monopolio del supplemento di aggio per lo smercio del sigaro "Bismarck". (032U0150)
----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/03/1932
+---
+tipo: REGIO DECRETO
+numero: 150
+data: 1932-02-18
+titolo: "Concessione ai rivenditori di generi di monopolio del supplemento di aggio per lo smercio del sigaro \"Bismarck\". (032U0150)"
+urn: urn:nir:stato:regio.decreto:1932-02-18;150
+codice_redazionale: 032U0150
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,26 +22,19 @@ Sentito il Consiglio di amministrazione dei monopoli di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' concesso ai rivenditori dei generi di monopolio sul prezzo di vendita al pubblico dei sigari "Bismarck", oltre l'aggio normale, il supplemento di aggio nella misura del 4,50%.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Roma, addi' 18 febbraio 1932 - Anno X   
-  
-VITTORIO EMANUELE.   
-  
-  
-Mussolini - Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 8 marzo 1932 - Anno X   
-Atti del Governo, registro 318, foglio 36. - Mancini   
-  
+E' concesso ai rivenditori dei generi di monopolio sul prezzo di vendita al pubblico dei sigari "Bismarck", oltre l'aggio normale, il supplemento di aggio nella misura del 4,50%. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 18 febbraio 1932 - Anno X 
+ 
+ VITTORIO EMANUELE. 
+ 
+ 
+ Mussolini - Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 8 marzo 1932 - Anno X 
+ Atti del Governo, registro 318, foglio 36. - Mancini

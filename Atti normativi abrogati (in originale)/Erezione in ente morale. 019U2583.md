@@ -1,17 +1,17 @@
-REGIO DECRETO 20 novembre 1919 n. 2583
+---
+tipo: REGIO DECRETO
+numero: 2583
+data: 1919-11-20
+titolo: "Erezione in ente morale. (019U2583)"
+urn: urn:nir:stato:regio.decreto:1919-11-20;2583
+codice_redazionale: 019U2583
+vigente: true
+---
 
-
-REGIO DECRETO 20 novembre 1919 n. 2583
-======================================
-
-Erezione in ente morale. (019U2583)
------------------------------------
-
-Entrata in vigore del provvedimento: 20/02/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2583. Regio decreto 20 novembre 1919, col quale, sulla proposta del ministro dell'istruzione pubblica, la biblioteca Di Venere-Ricchetti in Bari viene eretta in ente morale e ne e' approvato lo statuto organico relativo.
+2583.
+
+Regio decreto 20 novembre 1919, col quale, sulla proposta del ministro dell'istruzione pubblica, la biblioteca Di Venere-Ricchetti in Bari viene eretta in ente morale e ne e' approvato lo statuto organico relativo.

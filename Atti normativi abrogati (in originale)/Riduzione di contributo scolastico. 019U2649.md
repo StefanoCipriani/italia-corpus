@@ -1,17 +1,17 @@
-REGIO DECRETO 21 dicembre 1919 n. 2649
+---
+tipo: REGIO DECRETO
+numero: 2649
+data: 1919-12-21
+titolo: "Riduzione di contributo scolastico. (019U2649)"
+urn: urn:nir:stato:regio.decreto:1919-12-21;2649
+codice_redazionale: 019U2649
+vigente: true
+---
 
-
-REGIO DECRETO 21 dicembre 1919 n. 2649
-======================================
-
-Riduzione di contributo scolastico. (019U2649)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 04/04/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2649. Regio decreto 21 dicembre 1919, col quale, sulla proposta del ministro della istruzione pubblica, il contributo scolastico consolidato a carico del comune di Stresa (Novara), in L. 5154 viene ridotto a L. 2477,55 dal 1° maggio 1915.
+2649.
+
+Regio decreto 21 dicembre 1919, col quale, sulla proposta del ministro della istruzione pubblica, il contributo scolastico consolidato a carico del comune di Stresa (Novara), in L. 5154 viene ridotto a L. 2477,55 dal 1° maggio 1915.

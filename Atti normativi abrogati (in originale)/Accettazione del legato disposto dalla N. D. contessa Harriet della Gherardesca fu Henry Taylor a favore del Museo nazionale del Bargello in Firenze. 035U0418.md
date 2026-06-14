@@ -1,21 +1,21 @@
-REGIO DECRETO 21 marzo 1935 n. 418
+---
+tipo: REGIO DECRETO
+numero: 418
+data: 1935-03-21
+titolo: "Accettazione del legato disposto dalla N. D. contessa Harriet della Gherardesca fu Henry Taylor, a favore del Museo nazionale del Bargello, in Firenze. (035U0418)"
+urn: urn:nir:stato:regio.decreto:1935-03-21;418
+codice_redazionale: 035U0418
+vigente: true
+---
 
-
-REGIO DECRETO 21 marzo 1935 n. 418
-==================================
-
-Accettazione del legato disposto dalla N. D. contessa Harriet della Gherardesca fu Henry Taylor, a favore del Museo nazionale del Bargello, in Firenze. (035U0418)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/05/1935
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-418. R. decreto 21 marzo 1935, col quale, sulla proposta del Ministro per l'educazione nazionale, viene accettato il legato disposto dalla N. D. contessa Harriet della Gherardesca fu Henry Taylor, a favore del Museo nazionale del Bargello, in Firenze, di un bassorilievo quattrocentesco in terracotta, raffigurante la Madonna col Bambino.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 13 aprile 1935 - Anno XIII
+418.
+
+R. decreto 21 marzo 1935, col quale, sulla proposta del Ministro per l'educazione nazionale, viene accettato il legato disposto dalla N. D. contessa Harriet della Gherardesca fu Henry Taylor, a favore del Museo nazionale del Bargello, in Firenze, di un bassorilievo quattrocentesco in terracotta, raffigurante la Madonna col Bambino. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 13 aprile 1935 - Anno XIII

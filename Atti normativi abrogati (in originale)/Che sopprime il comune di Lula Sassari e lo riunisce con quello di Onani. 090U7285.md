@@ -1,16 +1,14 @@
-REGIO DECRETO 13 novembre 1890 n. 7285
-
-
-REGIO DECRETO 13 novembre 1890 n. 7285
-======================================
-
-Che sopprime il comune di Lula (Sassari) e lo riunisce con quello di Onani. (090U7285)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/12/1890
+---
+tipo: REGIO DECRETO
+numero: 7285
+data: 1890-11-13
+titolo: "Che sopprime il comune di Lula (Sassari) e lo riunisce con quello di Onani. (090U7285)"
+urn: urn:nir:stato:regio.decreto:1890-11-13;7285
+codice_redazionale: 090U7285
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,31 +20,22 @@ Vedute le deliberazioni del consiglio comunale di Onani in data 4 settembre e 1�
 
 Veduta la deliberazione del Consiglio Provinciale di Sassari in data 6 ottobre 1889;
 
-Veduta
-------
+Veduta la legge comunale e provinciale vigente; Abbiamo decretato e decretiamo:
 
-la legge comunale e provinciale vigente; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A partire dal 1° gennaio 1891 il comune di Lula e' soppresso e riunito a quello di Onani alle condizioni stabilite dalle suddette deliberazioni.
 
-  
-  
-A partire dal 1° gennaio 1891 il comune di Lula e' soppresso e riunito a quello di Onani alle condizioni stabilite dalle suddette deliberazioni.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Fino alla costituzione del nuovo consiglio comunale di Onani a cui si procedera' in base alle liste elettorali riformate giusta le prescrizioni della legge, le attuali rappresentanze dei due comuni continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione del futuro consiglio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 13 novembre 1890.   
-  
-UMBERTO.   
-  
-Crispi.   
-  
-Visto: Il Guardasigilli: Zanardelli.   
+Fino alla costituzione del nuovo consiglio comunale di Onani a cui si procedera' in base alle liste elettorali riformate giusta le prescrizioni della legge, le attuali rappresentanze dei due comuni continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione del futuro consiglio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 13 novembre 1890. 
+ 
+ UMBERTO. 
+ 
+ Crispi. 
+ 
+ Visto: Il Guardasigilli: Zanardelli.

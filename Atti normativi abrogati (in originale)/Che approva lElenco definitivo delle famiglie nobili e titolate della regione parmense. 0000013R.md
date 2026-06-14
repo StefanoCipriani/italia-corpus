@@ -1,80 +1,51 @@
-REGIO DECRETO 11 gennaio 1900 n. XIII
+---
+tipo: REGIO DECRETO
+numero: XIII
+data: 1900-01-11
+titolo: "Che approva l'Elenco definitivo delle famiglie nobili e titolate della regione parmense. (0000013R)"
+urn: urn:nir:stato:regio.decreto:1900-01-11;13
+codice_redazionale: 0000013R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 gennaio 1900 n. XIII
-=====================================
+L'Elenco definitivo delle famiglie nobili e titolate della regione parmense e' approvato.
 
-Che approva l'Elenco definitivo delle famiglie nobili e titolate della regione parmense. (0000013R)
----------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 17/02/1900
+Un esemplare del detto Elenco stampato dalla tipografia Giuseppe Civelli, in Roma, e firmato, d'ordine Nostro, dal ministro dell'interno, servira' di originale e verra' custodito e depositato nell'archivio della Consulta Araldica presso il Ministero dell'interno.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-L'Elenco definitivo delle famiglie nobili e titolate della regione parmense e' approvato.   
-  
+La pubblicazione del detto Elenco si eseguira' col trasmetterne un esemplare stampato a tutte le Prefetture, le Sottoprefetture e i Commissariati distrettuali del Regno per esservi tenuto depositato durante un mese a disposizione di chiunque voglia prenderne cognizione.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-Un esemplare del detto Elenco stampato dalla tipografia Giuseppe Civelli, in Roma, e firmato, d'ordine Nostro, dal ministro dell'interno, servira' di originale e verra' custodito e depositato nell'archivio della Consulta Araldica presso il Ministero dell'interno.   
-  
+I prefetti, sottoprefetti e commissari distrettuali daranno notizia al pubblico di tale deposito mediante un manifesto da affiggersi alla porta esterna dei loro uffici, e da inserirsi nel foglio periodico degli annunzi legali delle rispettive provincie.
 
-Art. 3
-------
+## Art. 5.
 
-  
-  
-La pubblicazione del detto Elenco si eseguira' col trasmetterne un esemplare stampato a tutte le Prefetture, le Sottoprefetture e i Commissariati distrettuali del Regno per esservi tenuto depositato durante un mese a disposizione di chiunque voglia prenderne cognizione.   
-  
+Un esemplare a stampa del detto Elenco sara' pure rimesso a tutti i Ministeri, a tutti gli Archivi notarili del Regno ed agli Archivi di Stato di Roma e di Parma.
 
-Art. 4
-------
+## Art. 6.
 
-  
-  
-I prefetti, sottoprefetti e commissari distrettuali daranno notizia al pubblico di tale deposito mediante un manifesto da affiggersi alla porta esterna dei loro uffici, e da inserirsi nel foglio periodico degli annunzi legali delle rispettive provincie.   
-  
+Spirato il termine fissato pel suddetto deposito, l'Elenco diventera' esecutivo ai sensi e per gli effetti dell'art. 14 del regolamento 15 giugno 1889 sopracitato.
 
-Art. 5
-------
+## Art. 7.
 
-  
-  
-Un esemplare a stampa del detto Elenco sara' pure rimesso a tutti i Ministeri, a tutti gli Archivi notarili del Regno ed agli Archivi di Stato di Roma e di Parma.   
-  
-
-Art. 6
-------
-
-  
-  
-Spirato il termine fissato pel suddetto deposito, l'Elenco diventera' esecutivo ai sensi e per gli effetti dell'art. 14 del regolamento 15 giugno 1889 sopracitato.   
-  
-
-Art. 7
-------
-
-  
-  
-Rimarra' quindi vietato alle autorita' governative, agli ufficiali di stato civile ed ai notai di attribuire, in atti pubblici, alle famiglie appartenenti alla regione parmense titoli nobiliari non inseriti nel detto Elenco.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 gennaio 1900.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 26 gennaio 1900.   
-  
-Reg. 222. Atti del Governo a f. 66. F. Rostagno.   
-  
-Luogo del Sigillo. V. Il Guardasigilli A. BONASI.   
-  
-Pelloux.   
-  
+Rimarra' quindi vietato alle autorita' governative, agli ufficiali di stato civile ed ai notai di attribuire, in atti pubblici, alle famiglie appartenenti alla regione parmense titoli nobiliari non inseriti nel detto Elenco. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 gennaio 1900. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 26 gennaio 1900. 
+ 
+ Reg. 222. Atti del Governo a f. 66. F. Rostagno. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli A. BONASI. 
+ 
+ Pelloux.

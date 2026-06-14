@@ -1,19 +1,15 @@
-REGIO DECRETO 10 gennaio 1909 n. XI
+---
+tipo: REGIO DECRETO
+numero: XI
+data: 1909-01-10
+titolo: "Riflettente erezione in ente morale. (0900011R)"
+urn: urn:nir:stato:regio.decreto:1909-01-10;11
+codice_redazionale: 0900011R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 gennaio 1909 n. XI
-===================================
-
-Riflettente erezione in ente morale. (0900011R)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/02/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. XI (Dato a Roma, il 10 gennaio 1909), col quale il pio legato Bricito di Treviso e' eretto in ente morale e concentrato nella Congregazione di carita' del luogo.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. XI (Dato a Roma, il 10 gennaio 1909), col quale il pio legato Bricito di Treviso e' eretto in ente morale e concentrato nella Congregazione di carita' del luogo.

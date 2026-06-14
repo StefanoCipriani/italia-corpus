@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 24 ottobre 1918 n. 1761
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1761
+data: 1918-10-24
+titolo: "Applicazione di tassa sul bestiame (018U1761)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-10-24;1761
+codice_redazionale: 018U1761
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 24 ottobre 1918 n. 1761
-===============================================
-
-Applicazione di tassa sul bestiame (018U1761)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 04/01/1919
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1761. Decreto Luogotenenziale 24 ottobre 1918, col quale, sulla proposta del ministro per le finanze, e' data facolta' al comune di Cabras (Cagliari), di applicare agli effetti dell'anno 1918, la tassa sul bestiame con eccedenza dei limiti massimi normali, in base alla tariffa deliberata nell'adunanza consiliare 29 giugno 1918.
+1761.
+
+Decreto Luogotenenziale 24 ottobre 1918, col quale, sulla proposta del ministro per le finanze, e' data facolta' al comune di Cabras (Cagliari), di applicare agli effetti dell'anno 1918, la tassa sul bestiame con eccedenza dei limiti massimi normali, in base alla tariffa deliberata nell'adunanza consiliare 29 giugno 1918.

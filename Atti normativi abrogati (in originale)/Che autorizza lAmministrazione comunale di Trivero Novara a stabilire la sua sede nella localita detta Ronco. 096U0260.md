@@ -1,16 +1,14 @@
-REGIO DECRETO 21 giugno 1896 n. 260
-
-
-REGIO DECRETO 21 giugno 1896 n. 260
-===================================
-
-Che autorizza l'Amministrazione comunale di Trivero (Novara) a stabilire la sua sede nella localita' detta «Ronco». (096U0260)
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/07/1896
+---
+tipo: REGIO DECRETO
+numero: 260
+data: 1896-06-21
+titolo: "Che autorizza l'Amministrazione comunale di Trivero (Novara) a stabilire la sua sede nella localita' detta «Ronco». (096U0260)"
+urn: urn:nir:stato:regio.decreto:1896-06-21;260
+codice_redazionale: 096U0260
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,33 +22,22 @@ Vista la legge comunale e provinciale e la legge 5 giugno 1850 n. 1037;
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'Amministrazione comunale di Trivero e' autorizzata a stabilire la sede comunale nella localita' denominata «Ronco».
 
-  
-  
-L'Amministrazione comunale di Trivero e' autorizzata a stabilire la sede comunale nella localita' denominata «Ronco».   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-L'Amministrazione stessa e' autorizzata ad acquistare dai signori Barberis Castello Pietro e Maria e da Foglia Taverna Pietro, il terreno necessario per costruire, nella localita' di Ronco, la nuova casa comunale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 giugno 1896.   
-  
-UMBERTO.   
-  
-Rudini'.   
-  
-Visto, Il Guardasigilli: G. Costa.   
-  
+L'Amministrazione stessa e' autorizzata ad acquistare dai signori Barberis Castello Pietro e Maria e da Foglia Taverna Pietro, il terreno necessario per costruire, nella localita' di Ronco, la nuova casa comunale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 21 giugno 1896. 
+ 
+ UMBERTO. 
+ 
+ Rudini'. 
+ 
+ Visto, Il Guardasigilli: G. Costa.

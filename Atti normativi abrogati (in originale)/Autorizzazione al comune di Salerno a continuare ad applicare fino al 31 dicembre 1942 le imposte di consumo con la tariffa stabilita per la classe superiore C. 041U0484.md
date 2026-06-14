@@ -1,16 +1,14 @@
-REGIO DECRETO 29 maggio 1941 n. 484
-
-
-REGIO DECRETO 29 maggio 1941 n. 484
-===================================
-
-Autorizzazione al comune di Salerno a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo con la tariffa stabilita per la classe superiore C. (041U0484)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/06/1941
+---
+tipo: REGIO DECRETO
+numero: 484
+data: 1941-05-29
+titolo: "Autorizzazione al comune di Salerno a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo con la tariffa stabilita per la classe superiore C. (041U0484)"
+urn: urn:nir:stato:regio.decreto:1941-05-29;484
+codice_redazionale: 041U0484
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,28 +24,22 @@ Udito il parere favorevole della Commissione centrale per la finanza locale;
 
 Visto l'art. 27 del testo unico per la finanza locale 14 settembre 1931, n. 1175;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Salerno e' autorizzato a continuare ad applicare fino al 31 dicembre 1942 le imposte di consumo con la tariffa stabilita per la classe superiore C.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 maggio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 11 giugno 1941-XIX   
-  
-Atti del Governo, registro 434, foglio 53. - Mancini   
+Il comune di Salerno e' autorizzato a continuare ad applicare fino al 31 dicembre 1942 le imposte di consumo con la tariffa stabilita per la classe superiore C. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 maggio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 11 giugno 1941-XIX 
+ 
+ Atti del Governo, registro 434, foglio 53. - Mancini

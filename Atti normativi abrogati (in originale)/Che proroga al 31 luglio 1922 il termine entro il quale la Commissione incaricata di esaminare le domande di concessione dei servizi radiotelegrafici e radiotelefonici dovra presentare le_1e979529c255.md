@@ -1,16 +1,14 @@
-REGIO DECRETO 28 maggio 1922 n. 867
-
-
-REGIO DECRETO 28 maggio 1922 n. 867
-===================================
-
-Che proroga al 31 luglio 1922 il termine entro il quale la Commissione incaricata di esaminare le domande di concessione dei servizi radiotelegrafici e radiotelefonici dovra' presentare le sue proposte di cui al R. decreto 26 marzo 1922, n. 425. (022U0867)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/07/1922
+---
+tipo: REGIO DECRETO
+numero: 867
+data: 1922-05-28
+titolo: "Che proroga al 31 luglio 1922 il termine entro il quale la Commissione incaricata di esaminare le domande di concessione dei servizi radiotelegrafici e radiotelefonici dovra' presentare le sue proposte di cui al R. decreto 26 marzo 1922, n. 425. (022U0867)"
+urn: urn:nir:stato:regio.decreto:1922-05-28;867
+codice_redazionale: 022U0867
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,25 +20,20 @@ Visti i decreti 11 dicembre 1921, n. 2083, e 26 marzo 1922, n. 425, coi quali fu
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per le poste e per i telegrafi, di concerto con il ministro della marina; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per le poste e per i telegrafi, di concerto con il ministro della marina; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il termine stabilito dal Nostro decreto del 26 marzo 1922, n. 425, e' prorogato al 31 luglio
 
-1922. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 maggio 1922.   
-  
-VITTORIO EMANUELE.   
-  
-FACTA - FULCI - DE VITO.   
-  
-Visto, il guardasigilli: LUIGI ROSSI.
+1922.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 maggio 1922. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ FACTA - FULCI - DE VITO. 
+ 
+ Visto, il guardasigilli: LUIGI ROSSI.

@@ -1,16 +1,14 @@
-REGIO DECRETO 17 dicembre 1876 n. 3563
-
-
-REGIO DECRETO 17 dicembre 1876 n. 3563
-======================================
-
-Col quale la giurisdizione del tribunale di commercio di Palermo e' provvisoriamente devoluta al tribunale civile e correzionale. (076U3563)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/01/1877
+---
+tipo: REGIO DECRETO
+numero: 3563
+data: 1876-12-17
+titolo: "Col quale la giurisdizione del tribunale di commercio di Palermo e' provvisoriamente devoluta al tribunale civile e correzionale. (076U3563)"
+urn: urn:nir:stato:regio.decreto:1876-12-17;3563
+codice_redazionale: 076U3563
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,30 +20,20 @@ Attesoche' mancando i giudici ordinari e supplenti nel tribunale di commercio di
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Ministro di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+La giurisdizione del tribunale di commercio di Palermo e' provvisoriamente devoluta al tribunale civile e correzionale dello stesso circondario.
 
-  
-  
-La giurisdizione del tribunale di commercio di Palermo e' provvisoriamente devoluta al tribunale civile e correzionale dello stesso circondario.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Con altro Nostro decreto sara' stabilito il giorno in cui il detto tribunale riprendera' le sue funzioni.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Rossore, addi' 17 dicembre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-Mancini.   
-  
+Con altro Nostro decreto sara' stabilito il giorno in cui il detto tribunale riprendera' le sue funzioni. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Rossore, addi' 17 dicembre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mancini.

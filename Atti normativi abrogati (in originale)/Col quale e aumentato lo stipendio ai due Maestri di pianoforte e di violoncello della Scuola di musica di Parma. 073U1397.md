@@ -1,16 +1,14 @@
-REGIO DECRETO 22 maggio 1873 n. 1397
-
-
-REGIO DECRETO 22 maggio 1873 n. 1397
-====================================
-
-Col quale e' aumentato lo stipendio ai due Maestri di pianoforte e di violoncello della Scuola di musica di Parma. (073U1397)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/06/1873
+---
+tipo: REGIO DECRETO
+numero: 1397
+data: 1873-05-22
+titolo: "Col quale e' aumentato lo stipendio ai due Maestri di pianoforte e di violoncello della Scuola di musica di Parma. (073U1397)"
+urn: urn:nir:stato:regio.decreto:1873-05-22;1397
+codice_redazionale: 073U1397
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,37 +20,26 @@ Visto il Ruolo normale della Scuola di musica di Parma, approvato col Nostro Dec
 
 Visto il bilancio del Ministero della Pubblica Istruzione;
 
-Sulla
------
+Sulla proposizione del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Lo stipendio annuo del Maestro di pianoforte della Scuola di musica di Parma e' portato da lire 820 a lire milletrecento, e quello del Maestro di violoncello della stessa Scuola e' portato da lire 800 a lire milletrecentoventi.
 
-  
-  
-Lo stipendio annuo del Maestro di pianoforte della Scuola di musica di Parma e' portato da lire 820 a lire milletrecento, e quello del Maestro di violoncello della stessa Scuola e' portato da lire 800 a lire milletrecentoventi.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-L'aumento di lire 980 apportato ai due predetti stipendi sara' levato dal fondo giacente assegnato all'Accompagnatore del pianoforte dell'Orchestra gia' ducale di Parma, e da quello similmente giacente assegnato al Maestro di violoncello della stessa Orchestra.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 22 maggio 1873.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 3 giugno 1873   
-  
-Vol. 69 Atti del Governo a c. 67. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-A. Scialoja.   
-  
+L'aumento di lire 980 apportato ai due predetti stipendi sara' levato dal fondo giacente assegnato all'Accompagnatore del pianoforte dell'Orchestra gia' ducale di Parma, e da quello similmente giacente assegnato al Maestro di violoncello della stessa Orchestra. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 22 maggio 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 3 giugno 1873 
+ 
+ Vol. 69 Atti del Governo a c. 67. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ A. Scialoja.

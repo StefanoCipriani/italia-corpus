@@ -1,19 +1,15 @@
-REGIO DECRETO 21 ottobre 1906 n. CCCXCIII
+---
+tipo: REGIO DECRETO
+numero: CCCXCIII
+data: 1906-10-21
+titolo: "Autorizzazione ad estendere dazi su lavori in cartonaggio ed altri. (0600393R)"
+urn: urn:nir:stato:regio.decreto:1906-10-21;393
+codice_redazionale: 0600393R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 ottobre 1906 n. CCCXCIII
-=========================================
-
-Autorizzazione ad estendere dazi su lavori in cartonaggio ed altri. (0600393R)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/11/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CCCXCIII (Dato a Racconigi, il 21 ottobre 1906), col quale il comune di Piacenza, a seconda della sua deliberazione, in data 13 gennaio 1905, e' autorizzato ad estendere ai lavori di cartonaggio, alle cartelle e borse per la custodia di libri e quaderni, e alle scatole di cartone di ogni qualita' e forma, sempre quando queste ultime siano introdotte a se' e non come recipienti ed involucri per custodia delle merci, il dazio di L. 2.50 a quintale, stabilito alla voce 91 della tariffa in vigore nel detto Comune per la carta, i cartoni ed i cartoncini di qualunque qualita' tanto fini che ordinari.   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CCCXCIII (Dato a Racconigi, il 21 ottobre 1906), col quale il comune di Piacenza, a seconda della sua deliberazione, in data 13 gennaio 1905, e' autorizzato ad estendere ai lavori di cartonaggio, alle cartelle e borse per la custodia di libri e quaderni, e alle scatole di cartone di ogni qualita' e forma, sempre quando queste ultime siano introdotte a se' e non come recipienti ed involucri per custodia delle merci, il dazio di L. 2.50 a quintale, stabilito alla voce 91 della tariffa in vigore nel detto Comune per la carta, i cartoni ed i cartoncini di qualunque qualita' tanto fini che ordinari.

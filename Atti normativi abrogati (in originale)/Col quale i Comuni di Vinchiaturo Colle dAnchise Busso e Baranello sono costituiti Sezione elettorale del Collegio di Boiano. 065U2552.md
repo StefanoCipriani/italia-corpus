@@ -1,16 +1,14 @@
-REGIO DECRETO 01 ottobre 1865 n. 2552
-
-
-REGIO DECRETO 01 ottobre 1865 n. 2552
-=====================================
-
-Col quale i Comuni di Vinchiaturo, Colle d'Anchise, Busso e Baranello sono costituiti Sezione elettorale del Collegio di Boiano. (065U2552)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1865
+---
+tipo: REGIO DECRETO
+numero: 2552
+data: 1865-10-01
+titolo: "Col quale i Comuni di Vinchiaturo, Colle d'Anchise, Busso e Baranello sono costituiti Sezione elettorale del Collegio di Boiano. (065U2552)"
+urn: urn:nir:stato:regio.decreto:1865-10-01;2552
+codice_redazionale: 065U2552
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,31 +18,23 @@ Veduto l'art. 64 della Legge elettorale 17 dicembre 1860, n.° 4513, e l'annessa
 
 Veduto il Decreto Reale 26 marzo ultimo scorso, n.° 2265, col quale venne trasferita la sede mandamentale del Comune di Baranello in quella di Vinchiaturo;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Vinchiaturo, Colle d'Anchise, Busso e Baranello, costituiranno una Sezione elettorale del Collegio di Boiano, n.° 255, che si radunera' in Vinchiaturo.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 1.° ottobre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 19 ottobre 1863   
-  
-Reg.° 33 Atti del Governo a c. 232. Crodara-Visconti.   
-  
-Luogo del sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
-Quintino Sella.   
-  
-  
+I Comuni di Vinchiaturo, Colle d'Anchise, Busso e Baranello, costituiranno una Sezione elettorale del Collegio di Boiano, n.° 255, che si radunera' in Vinchiaturo. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 1.° ottobre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 19 ottobre 1863 
+ 
+ Reg.° 33 Atti del Governo a c. 232. Crodara-Visconti. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli. 
+ Quintino Sella.

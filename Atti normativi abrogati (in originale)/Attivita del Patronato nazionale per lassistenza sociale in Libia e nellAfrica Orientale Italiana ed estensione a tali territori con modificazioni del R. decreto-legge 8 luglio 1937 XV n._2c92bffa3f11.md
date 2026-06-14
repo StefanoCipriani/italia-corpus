@@ -1,16 +1,14 @@
-REGIO DECRETO 01 novembre 1938 n. 2029
-
-
-REGIO DECRETO 01 novembre 1938 n. 2029
-======================================
-
-Attivita' del Patronato nazionale per l'assistenza sociale in Libia e nell'Africa Orientale Italiana ed estensione a tali territori, con modificazioni, del R. decreto-legge 8 luglio 1937 XV, n. 1735, relativo al recupero a favore del Patronato stesso delle spese per documentazioni. (038U2029)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/02/1939
+---
+tipo: REGIO DECRETO
+numero: 2029
+data: 1938-11-01
+titolo: "Attivita' del Patronato nazionale per l'assistenza sociale in Libia e nell'Africa Orientale Italiana ed estensione a tali territori, con modificazioni, del R. decreto-legge 8 luglio 1937 XV, n. 1735, relativo al recupero a favore del Patronato stesso delle spese per documentazioni. (038U2029)"
+urn: urn:nir:stato:regio.decreto:1938-11-01;2029
+codice_redazionale: 038U2029
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,54 +28,38 @@ Udito il parere del Consiglio superiore coloniale;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE, Ministro Segretario di Stato per l'Africa Italiana, di concerto con i Ministri Segretari di Stato per le finanze e per le corporazioni; Abbiamo decretato e decretiamo:
 
-proposta del DUCE, Ministro Segretario di Stato per l'Africa Italiana, di concerto con i Ministri Segretari di Stato per le finanze e per le corporazioni; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il Patronato nazionale per l'assistenza sociale e' autorizzato a svolgere la sua attivita' nell'Africa Italiana.
 
-  
-  
-Il Patronato nazionale per l'assistenza sociale e' autorizzato a svolgere la sua attivita' nell'Africa Italiana.   
+## Art. 2.
 
-Art. 2
-------
+Sono estese alla Libia ed all'Africa Orientale Italiana, in quanto applicabili e con le modificazioni contenute nell'articolo seguente, le disposizioni del R. decreto-legge 8 luglio 1937-XV, n. 1735, relativo al ricupero delle spese a favore del Patronato nazionale per l'assistenza sociale.
 
-  
-  
-Sono estese alla Libia ed all'Africa Orientale Italiana, in quanto applicabili e con le modificazioni contenute nell'articolo seguente, le disposizioni del R. decreto-legge 8 luglio 1937-XV, n. 1735, relativo al ricupero delle spese a favore del Patronato nazionale per l'assistenza sociale.   
+## Art. 3.
 
-Art. 3
-------
+Il Ministro per l'Africa Italiana, di concerto con il Ministro per le corporazioni, stabilira', con suo decreto, la misura delle quote dovute al Patronato nazionale per l'assistenza sociale e le modalita' per la trattenuta di esse ed il loro versamento, sentiti il Governo generale della Libia e quello dell'Africa Orientale Italiana e gli enti e gli istituti interessati. 
+ 
+ La misura delle quote sara' riveduta ogni anno.
 
-  
-  
-Il Ministro per l'Africa Italiana, di concerto con il Ministro per le corporazioni, stabilira', con suo decreto, la misura delle quote dovute al Patronato nazionale per l'assistenza sociale e le modalita' per la trattenuta di esse ed il loro versamento, sentiti il Governo generale della Libia e quello dell'Africa Orientale Italiana e gli enti e gli istituti interessati.   
-  
-La misura delle quote sara' riveduta ogni anno.   
-  
-  
-
-Art. 4
-------
+## Art. 4.
 
 Il presente decreto entrera' in vigore il 1° febbraio
 
-1939. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo della Stato, sia inserto nella raccolta ufficiale delle leggi e del decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 1° novembre 1938-XVII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel - Lantini   
-  
-Visto, il Guardasigilli: Solmi   
-  
-Registrato alla Corte dei conti, addi' 14 gennaio 1939-XVII   
-  
-Atti del Governo, registro 405, foglio 64. - Mancini
+1939.
+
+Ordiniamo che il presente decreto, munito del sigillo della Stato, sia inserto nella raccolta ufficiale delle leggi e del decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 1° novembre 1938-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel - Lantini 
+ 
+ Visto, il Guardasigilli: Solmi 
+ 
+ Registrato alla Corte dei conti, addi' 14 gennaio 1939-XVII 
+ 
+ Atti del Governo, registro 405, foglio 64. - Mancini

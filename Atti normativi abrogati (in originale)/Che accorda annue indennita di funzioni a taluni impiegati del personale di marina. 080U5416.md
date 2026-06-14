@@ -1,16 +1,14 @@
-REGIO DECRETO 22 aprile 1880 n. 5416
-
-
-REGIO DECRETO 22 aprile 1880 n. 5416
-====================================
-
-Che accorda annue indennita' di funzioni a taluni impiegati del personale di marina. (080U5416)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/06/1880
+---
+tipo: REGIO DECRETO
+numero: 5416
+data: 1880-04-22
+titolo: "Che accorda annue indennita' di funzioni a taluni impiegati del personale di marina. (080U5416)"
+urn: urn:nir:stato:regio.decreto:1880-04-22;5416
+codice_redazionale: 080U5416
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,34 +20,27 @@ Visto il regolamento provvisorio per la contabilita' del materiale della Marina 
 
 Vista la tabella annessa al Regio decreto 24 dicembre 1868 che stabilisce degli assegnamenti straordinari al personale di Marina, impiegato a terra;
 
-Sulla
------
+Sulla proposta del Nostro Ministro per la Marina, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro per la Marina, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A datare dal 1° aprile 1880 sono accordate le seguenti annue indennita' di funzioni:   
-  
-Al comandante il Regio cantiere di Castallammare, lire cinquecento;   
-  
-Al presidente della Giunta di ricezione nei tre dipartimenti marittimi, lire cinquecento;   
-  
-Ai sotto direttori degli armamenti nei tre dipartimenti marittimi, lire cinquecento;   
-  
-Al comandante del distaccamento del corpo Reale Equipaggi a Capo Miseno, lire trecento.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 aprile 1880.   
-  
-UMBERTO.   
-  
-F. Acton.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+A datare dal 1° aprile 1880 sono accordate le seguenti annue indennita' di funzioni: 
+ 
+ Al comandante il Regio cantiere di Castallammare, lire cinquecento; 
+ 
+ Al presidente della Giunta di ricezione nei tre dipartimenti marittimi, lire cinquecento; 
+ 
+ Ai sotto direttori degli armamenti nei tre dipartimenti marittimi, lire cinquecento; 
+ 
+ Al comandante del distaccamento del corpo Reale Equipaggi a Capo Miseno, lire trecento. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 aprile 1880. 
+ 
+ UMBERTO. 
+ 
+ F. Acton. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

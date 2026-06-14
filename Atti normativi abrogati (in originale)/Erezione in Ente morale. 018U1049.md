@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 23 giugno 1918 n. 1049
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1049
+data: 1918-06-23
+titolo: "Erezione in Ente morale. (018U1049)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-06-23;1049
+codice_redazionale: 018U1049
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 23 giugno 1918 n. 1049
-==============================================
-
-Erezione in Ente morale. (018U1049)
------------------------------------
-
-Entrata in vigore del provvedimento: 20/08/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1049. Decreto Luogotenenziale 23 giugno 1918, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'asilo infantile di Vittadone (Milano) e' eretto in ente morale, sotto l'amministrazione della locale Congregazione di carita', e ne e' approvato lo statuto organico relativo.
+1049.
+
+Decreto Luogotenenziale 23 giugno 1918, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'asilo infantile di Vittadone (Milano) e' eretto in ente morale, sotto l'amministrazione della locale Congregazione di carita', e ne e' approvato lo statuto organico relativo.

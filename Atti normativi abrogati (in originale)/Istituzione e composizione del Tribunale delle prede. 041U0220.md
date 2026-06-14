@@ -1,16 +1,14 @@
-REGIO DECRETO 01 aprile 1941 n. 220
-
-
-REGIO DECRETO 01 aprile 1941 n. 220
-===================================
-
-Istituzione e composizione del Tribunale delle prede. (041U0220)
-----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/05/1941
+---
+tipo: REGIO DECRETO
+numero: 220
+data: 1941-04-01
+titolo: "Istituzione e composizione del Tribunale delle prede. (041U0220)"
+urn: urn:nir:stato:regio.decreto:1941-04-01;220
+codice_redazionale: 041U0220
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,103 +32,91 @@ Sentito il Consiglio dei Ministri;
 
 Sulla proposta del DUCE del Fascismo, Capo del Governo e Ministro per la marina d'intesa col Ministro per la grazia e giustizia;
 
-Vista
------
+Vista la delega rilasciata al Sottosegretario di Stato per il Ministero di grazia e giustizia in data 23 febbraio 1941-XIX; Abbiamo decretato e decretiamo:
 
-la delega rilasciata al Sottosegretario di Stato per il Ministero di grazia e giustizia in data 23 febbraio 1941-XIX; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' istituito il Tribunale delle prede.
 
-  
-  
-E' istituito il Tribunale delle prede.   
+## Art. 2.
 
-Art. 2
-------
+Il Tribunale delle prede e' cosi' composto: 
+ 
+ Presidente: 
+ 
+ Foschini Senatore Antonio, ammiraglio di squadra in ausiliaria; 
+ 
+ Vice presidente: 
+ 
+ Messina dott. Salvatore, presidente di Sezione della Corte di cassazione; 
+ 
+ Membri effettivi: 
+ 
+ Costamagna Consigliere nazionale Carlo, consigliere di Cassazione; 
+ 
+ Piga dott. Emanuele, consigliere di Cassazione; 
+ 
+ Piccardi dott. Leopoldo, consigliere di Stato; 
+ 
+ Raineri Biscia Giuseppe, ammiraglio di divisione; 
+ 
+ Ingianni Giulio, tenente generale di porto, direttore generale della Marina mercantile; 
+ 
+ Cambi dott. Ettore, ragioniere generale dello Stato; 
+ 
+ Membri supplenti: 
+ 
+ Pittiruti dott. Pietro, consigliere di Corte d'appello; 
+ 
+ Faccini dott. Renato, sostituto procuratore generale di Corte d'appello; 
+ 
+ Sciacca dott. Aurelio, consigliere di Corte d'appello; 
+ 
+ De Martino dott. Enrico, consigliere di Stato; 
+ 
+ Stumpo dott. Giuseppe, 1° referendario al Consiglio di Stato; 
+ 
+ Vetrano dott. Gaetano, 1° referendario al Consiglio di Stato; 
+ 
+ Mengotti Augusto, ammiraglio di divisione; 
+ 
+ Ballanti dott. Pietro, direttore generale nell'Amministrazione della marina mercantile; 
+ 
+ Lazzari dott. Tommaso, ispettore generale capo di finanza; 
+ 
+ Bertucci dott. Enrico, direttore capo Ragioneria centrale; 
+ 
+ Commissario del Re: 
+ 
+ Ciancarini dott. Ovidio, Regio avvocato generale militare; 
+ 
+ Sostituti del Commissario del Re: 
+ 
+ Bitetti dott. Leopoldo, consigliere relatore del Tribunale supremo militare; 
+ 
+ Sucato dott. Gaetano, Regio avvocato militare; 
+ 
+ Segretario: 
+ 
+ Musotto dott. Salvatore, segretario di Sezione del Consiglio di Stato.
 
-  
-  
-Il Tribunale delle prede e' cosi' composto:   
-  
-Presidente:   
-  
-Foschini Senatore Antonio, ammiraglio di squadra in ausiliaria;   
-  
-Vice presidente:   
-  
-Messina dott. Salvatore, presidente di Sezione della Corte di cassazione;   
-  
-Membri effettivi:   
-  
-Costamagna Consigliere nazionale Carlo, consigliere di Cassazione;   
-  
-Piga dott. Emanuele, consigliere di Cassazione;   
-  
-Piccardi dott. Leopoldo, consigliere di Stato;   
-  
-Raineri Biscia Giuseppe, ammiraglio di divisione;   
-  
-Ingianni Giulio, tenente generale di porto, direttore generale della Marina mercantile;   
-  
-Cambi dott. Ettore, ragioniere generale dello Stato;   
-  
-Membri supplenti:   
-  
-Pittiruti dott. Pietro, consigliere di Corte d'appello;   
-  
-Faccini dott. Renato, sostituto procuratore generale di Corte d'appello;   
-  
-Sciacca dott. Aurelio, consigliere di Corte d'appello;   
-  
-De Martino dott. Enrico, consigliere di Stato;   
-  
-Stumpo dott. Giuseppe, 1° referendario al Consiglio di Stato;   
-  
-Vetrano dott. Gaetano, 1° referendario al Consiglio di Stato;   
-  
-Mengotti Augusto, ammiraglio di divisione;   
-  
-Ballanti dott. Pietro, direttore generale nell'Amministrazione della marina mercantile;   
-  
-Lazzari dott. Tommaso, ispettore generale capo di finanza;   
-  
-Bertucci dott. Enrico, direttore capo Ragioneria centrale;   
-  
-Commissario del Re:   
-  
-Ciancarini dott. Ovidio, Regio avvocato generale militare;   
-  
-Sostituti del Commissario del Re:   
-  
-Bitetti dott. Leopoldo, consigliere relatore del Tribunale supremo militare;   
-  
-Sucato dott. Gaetano, Regio avvocato militare;   
-  
-Segretario:   
-  
-Musotto dott. Salvatore, segretario di Sezione del Consiglio di Stato.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il Tribunale delle prede avra' sede presso il Ministero della marina e le spese relative al suo funzionamento, nonche' quelle per le competenze spettanti ai componenti, faranno carico al bilancio dell'Amministrazione della marina.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 1° aprile 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - PUTZOLU   
-  
-Visto:   
-  
-(ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76)   
-  
-MUSSOLINI   
-  
-Registrato alla Corte dei conti, addi 17 aprile 1941-XIX   
-Atti del Governo, registro 432, foglio 23. - MANCINI.   
+Il Tribunale delle prede avra' sede presso il Ministero della marina e le spese relative al suo funzionamento, nonche' quelle per le competenze spettanti ai componenti, faranno carico al bilancio dell'Amministrazione della marina. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° aprile 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - PUTZOLU 
+ 
+ Visto: 
+ 
+ (ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76) 
+ 
+ MUSSOLINI 
+ 
+ Registrato alla Corte dei conti, addi 17 aprile 1941-XIX 
+ Atti del Governo, registro 432, foglio 23. - MANCINI.

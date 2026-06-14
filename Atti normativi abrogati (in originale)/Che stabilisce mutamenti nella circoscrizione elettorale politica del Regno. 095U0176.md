@@ -1,17 +1,17 @@
-REGIO DECRETO 18 aprile 1895 n. 176
+---
+tipo: REGIO DECRETO
+numero: 176
+data: 1895-04-18
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0176)"
+urn: urn:nir:stato:regio.decreto:1895-04-18;176
+codice_redazionale: 095U0176
+vigente: true
+---
 
-
-REGIO DECRETO 18 aprile 1895 n. 176
-===================================
-
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0176)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1895
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-176. Il Comune di Ostana e' aggregato alla Sezione elettorale di Crissolo del Collegio di Barge.
+176.
+
+Il Comune di Ostana e' aggregato alla Sezione elettorale di Crissolo del Collegio di Barge.

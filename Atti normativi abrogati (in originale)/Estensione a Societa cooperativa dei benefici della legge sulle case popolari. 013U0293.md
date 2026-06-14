@@ -1,18 +1,15 @@
-REGIO DECRETO 20 marzo 1913 n. 293
+---
+tipo: REGIO DECRETO
+numero: 293
+data: 1913-03-20
+titolo: "Estensione a Societa' cooperativa dei benefici della legge sulle case popolari. (013U0293)"
+urn: urn:nir:stato:regio.decreto:1913-03-20;293
+codice_redazionale: 013U0293
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 marzo 1913 n. 293
-==================================
-
-Estensione a Societa' cooperativa dei benefici della legge sulle case popolari. (013U0293)
-------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/05/1913
-
-Art. 1
-------
-
-  
-N. 293   
-  
-Regio decreto 20 marzo 1913, col quale, sulla proposta del ministro d'agricoltura, industria e commercio, si estendono i benefici della legge sulle case popolari a due corpi di casa di proprieta' della Societa' cooperativa edificatrice «La Benefica» in Novate Milanese.   
+N. 293 
+ 
+ Regio decreto 20 marzo 1913, col quale, sulla proposta del ministro d'agricoltura, industria e commercio, si estendono i benefici della legge sulle case popolari a due corpi di casa di proprieta' della Societa' cooperativa edificatrice «La Benefica» in Novate Milanese.

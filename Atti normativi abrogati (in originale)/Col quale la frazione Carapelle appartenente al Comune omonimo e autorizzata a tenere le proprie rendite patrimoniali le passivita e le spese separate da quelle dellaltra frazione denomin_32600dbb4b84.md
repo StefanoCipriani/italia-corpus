@@ -1,16 +1,14 @@
-REGIO DECRETO 11 maggio 1873 n. 1377
-
-
-REGIO DECRETO 11 maggio 1873 n. 1377
-====================================
-
-Col quale la frazione Carapelle, appartenente al Comune omonimo e' autorizzata a tenere le proprie rendite patrimoniali, le passivita' e le spese separate da quelle dell'altra frazione denominata Castelvecchio. (073U1377)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/06/1873
+---
+tipo: REGIO DECRETO
+numero: 1377
+data: 1873-05-11
+titolo: "Col quale la frazione Carapelle, appartenente al Comune omonimo e' autorizzata a tenere le proprie rendite patrimoniali, le passivita' e le spese separate da quelle dell'altra frazione denominata Castelvecchio. (073U1377)"
+urn: urn:nir:stato:regio.decreto:1873-05-11;1377
+codice_redazionale: 073U1377
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Vista la deliberazione del Consiglio provinciale di Aquila, in data 8 settembre 
 
 Visto l'articolo 16 della Legge comunale e provinciale, in data 20 marzo 1865, allegato A;
 
-Vista
------
+Vista la Legge 18 agosto 1870, n. 5815; Abbiamo decretato e decretiamo:
 
-la Legge 18 agosto 1870, n. 5815; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La frazione del Comune di Carapelle, nella Provincia di Aquila, denominata Carapelle, e' autorizzata a tenere le proprie rendite patrimoniali, le passivita' e le spese, di che nel terzo paragrafo dell'articolo 13 della Legge comunale, separate da quelle della frazione Castelvecchio.   
-  
-I limiti territoriali delle due frazioni rimangono determinati come trovansi designati nella pianta topografica redatta dall'Ingegnere Giuseppe Brunetti, che sara' d'ordine Nostro vidimata dal Ministro proponente.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 11 maggio 1873.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 23 maggio 1973   
-Vol. 69 Atti del Governo a c. 37. Ayres.   
-Luogo del sigillo. V. il Guardasigilli De Falco.   
-  
-G. Lanza   
-  
+La frazione del Comune di Carapelle, nella Provincia di Aquila, denominata Carapelle, e' autorizzata a tenere le proprie rendite patrimoniali, le passivita' e le spese, di che nel terzo paragrafo dell'articolo 13 della Legge comunale, separate da quelle della frazione Castelvecchio. 
+ 
+ I limiti territoriali delle due frazioni rimangono determinati come trovansi designati nella pianta topografica redatta dall'Ingegnere Giuseppe Brunetti, che sara' d'ordine Nostro vidimata dal Ministro proponente. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 11 maggio 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 23 maggio 1973 
+ Vol. 69 Atti del Governo a c. 37. Ayres. 
+ Luogo del sigillo. V. il Guardasigilli De Falco. 
+ 
+ G. Lanza

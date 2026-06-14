@@ -1,21 +1,21 @@
-REGIO DECRETO 03 aprile 1926 n. 1169
+---
+tipo: REGIO DECRETO
+numero: 1169
+data: 1926-04-03
+titolo: "Erezione in Ente morale della Societa' di pubblica assistenza «Croce Bianca», in Molfetta. (026U1169)"
+urn: urn:nir:stato:regio.decreto:1926-04-03;1169
+codice_redazionale: 026U1169
+vigente: true
+---
 
-
-REGIO DECRETO 03 aprile 1926 n. 1169
-====================================
-
-Erezione in Ente morale della Societa' di pubblica assistenza «Croce Bianca», in Molfetta. (026U1169)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/08/1926
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1169. R. decreto 3 aprile 1926, col quale, sulla proposta del Ministro per l'interno, la Societa' di pubblica assistenza «Croce Bianca» di Molfetta, viene eretta in Ente morale con amministrazione autonoma, e ne e' approvato lo statuto organico.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 13 luglio 1926.
+1169.
+
+R. decreto 3 aprile 1926, col quale, sulla proposta del Ministro per l'interno, la Societa' di pubblica assistenza «Croce Bianca» di Molfetta, viene eretta in Ente morale con amministrazione autonoma, e ne e' approvato lo statuto organico. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 13 luglio 1926.

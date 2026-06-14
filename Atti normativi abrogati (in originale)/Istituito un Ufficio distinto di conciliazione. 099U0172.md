@@ -1,16 +1,14 @@
-REGIO DECRETO 27 aprile 1899 n. 172
-
-
-REGIO DECRETO 27 aprile 1899 n. 172
-===================================
-
-Istituito un Ufficio distinto di conciliazione. (099U0172)
-----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/06/1899
+---
+tipo: REGIO DECRETO
+numero: 172
+data: 1899-04-27
+titolo: "Istituito un Ufficio distinto di conciliazione. (099U0172)"
+urn: urn:nir:stato:regio.decreto:1899-04-27;172
+codice_redazionale: 099U0172
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Vista la deliberazione del Consiglio Comunale di Solopaca, in data 14 ottobre 18
 
 Visto il rapporto del Primo Presidente della Corte di Appello di Napoli, in data 9 febbraio corrente anno;
 
-Visti gli articoli 1° della [legge 16 giugno 1892, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;261), e 1° del Regolamento 26 dicembre stesso anno, n. 728;
+Visti gli articoli 1° della [legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1° del Regolamento 26 dicembre stesso anno, n. 728;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal 1° giugno 1899 in Telese, frazione del Comune di Solopaca, e' istituito un Ufficio distinto di conciliazione con giurisdizione sul territorio della frazione stessa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 aprile 1899.   
-  
-UMBERTO.   
-  
-C. FINOCCHIARO-APRILE.   
-  
-Visto, Il Guardasigilli: C. FINOCCHIARO-APRILE.   
-  
+Dal 1° giugno 1899 in Telese, frazione del Comune di Solopaca, e' istituito un Ufficio distinto di conciliazione con giurisdizione sul territorio della frazione stessa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 aprile 1899. 
+ 
+ UMBERTO. 
+ 
+ C. FINOCCHIARO-APRILE. 
+ 
+ Visto, Il Guardasigilli: C. FINOCCHIARO-APRILE.

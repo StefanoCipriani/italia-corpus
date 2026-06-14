@@ -1,16 +1,14 @@
-REGIO DECRETO 12 aprile 1871 n. 206
-
-
-REGIO DECRETO 12 aprile 1871 n. 206
-===================================
-
-Col quale e' concessa la istituzione di una barriera di pedaggio a beneficio della Provincia di Catania. (071U0206)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/05/1871
+---
+tipo: REGIO DECRETO
+numero: 206
+data: 1871-04-12
+titolo: "Col quale e' concessa la istituzione di una barriera di pedaggio a beneficio della Provincia di Catania. (071U0206)"
+urn: urn:nir:stato:regio.decreto:1871-04-12;206
+codice_redazionale: 071U0206
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,38 +28,22 @@ Sentito il Consiglio superiore dei Lavori Pubblici ed il Consiglio di Stato;
 
 Visto l'articolo 38 della Legge 20 marzo 1865, allegato F;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' concessa la istituzione di una barriera di pedaggio, a beneficio della Provincia di Catania, sulla strada che dal capo-luogo di detta Provincia mena alla Barca dei Monaci, colla Tariffa deliberata dal Consiglio provinciale 24 settembre 1869, vista d'ordine Nostro dal predetto Ministro, e per la durata di anni dieci dalla data del presente.   
-  
-Questa durata potra' essere protratta, quando dal presentato complessivo prodotto di un novennio venga accertato come e quanto possa far d'uopo di un maggior tempo per riuscire alla indennizzazione della spesa sostenuta per la costruzione di quella strada provinciale.   
-  
-Lo stesso Ministro e' incaricato della esecuzione del presente Decreto, che sara' registrato presso la Corte dei conti, pubblicato ed inserto nella raccolta delle Leggi e dei Decreti del Regno d'Italia.   
-  
-Dato a Firenze addi' 12 aprile 1871.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 6 maggio 1871   
-Reg. 55 Atti del Governo a c. 130. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli DE FALCO.   
-  
-CASTAGNOLA.   
-  
-  
-
-Tariffa
-
-  
-Tariffa del diritto di pedaggio dovuto dai transitanti nelle barriere della provincia di Catania, estratta dal capitolato d'oneri approvato dalla Deputazione provinciale nella seduta del 24 settembre 1869.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=071U020600100010110001&dgu=1871-05-13&art.dataPubblicazioneGazzetta=1871-05-13&art.codiceRedazionale=071U0206)
-  
+E' concessa la istituzione di una barriera di pedaggio, a beneficio della Provincia di Catania, sulla strada che dal capo-luogo di detta Provincia mena alla Barca dei Monaci, colla Tariffa deliberata dal Consiglio provinciale 24 settembre 1869, vista d'ordine Nostro dal predetto Ministro, e per la durata di anni dieci dalla data del presente. 
+ 
+ Questa durata potra' essere protratta, quando dal presentato complessivo prodotto di un novennio venga accertato come e quanto possa far d'uopo di un maggior tempo per riuscire alla indennizzazione della spesa sostenuta per la costruzione di quella strada provinciale. 
+ 
+ Lo stesso Ministro e' incaricato della esecuzione del presente Decreto, che sara' registrato presso la Corte dei conti, pubblicato ed inserto nella raccolta delle Leggi e dei Decreti del Regno d'Italia. 
+ 
+ Dato a Firenze addi' 12 aprile 1871. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 6 maggio 1871 
+ Reg. 55 Atti del Governo a c. 130. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli DE FALCO. 
+ 
+ CASTAGNOLA.

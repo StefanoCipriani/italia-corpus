@@ -1,16 +1,14 @@
-REGIO DECRETO 31 agosto 1879 n. 5065
-
-
-REGIO DECRETO 31 agosto 1879 n. 5065
-====================================
-
-Col quale il comune di Trapani e' autorizzato a riscuotere un dazio di consumo su alcuni generi. (079U5065)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/10/1879
+---
+tipo: REGIO DECRETO
+numero: 5065
+data: 1879-08-31
+titolo: "Col quale il comune di Trapani e' autorizzato a riscuotere un dazio di consumo su alcuni generi. (079U5065)"
+urn: urn:nir:stato:regio.decreto:1879-08-31;5065
+codice_redazionale: 079U5065
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,52 +24,19 @@ Visto il parere emesso dalla Camera di commercio ed arti di Trapani;
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze, Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del Ministro delle Finanze, Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Trapani e' autorizzato a riscuotere un dazio di consumo sopra gli oggetti indicati nella unita tariffa, vista d'ordine Nostro dal Ministro delle Finanze.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 31 agosto 1879.   
-  
-UMBERTO.   
-  
-B. GRIMALDI.   
-  
-Visto - Il Guardasigilli   
-VARE'.   
-
-Tariffa
-
-  
-Tariffa:   
-  
-  
-Buste di qualunque dimensione e qualita', registri in  
-carta bianca o colorata, e quaderni in bianco o lineati,  
-legati o non al chilogramma. . . . . . . . . . . . . . . . L. 0 10   
-Lavori di porcellana, con o senza doratura; di argilla,  
-terra cotta e simili con dorature o altrimenti decorate,  
-al quintale . . . . . . . . . . . . . . . . . . . . . . . » 10 »   
-Maioliche, stoviglie nazionali ed estere:  
-  
-In oggetti ognuno dei quali non pesi piu' di tre  
-chilogrammi, al quintale . . . . . . . . . . . . . . . . . » 2 50   
-In oggetti ognuno dei quali pesi oltre chilogrammi tre,  
-ma non piu' dei cinque, id. . . . . . . . . . . . . . » 2 »   
-In oggetti ognuno dei quali pesi piu' di chilogrammi  
-cinque, id. . . . . . . . . . . . . . . . . . . . . . . . » 1 »   
-Visto d'ordine di S.M.  
-  
-Il Ministro delle Finanze  
-A. GRIMALDI.  
-  
-  
+Il comune di Trapani e' autorizzato a riscuotere un dazio di consumo sopra gli oggetti indicati nella unita tariffa, vista d'ordine Nostro dal Ministro delle Finanze. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 31 agosto 1879. 
+ 
+ UMBERTO. 
+ 
+ B. GRIMALDI. 
+ 
+ Visto - Il Guardasigilli 
+ VARE'.

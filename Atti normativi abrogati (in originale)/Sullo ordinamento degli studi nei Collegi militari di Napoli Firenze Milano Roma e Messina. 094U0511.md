@@ -1,16 +1,14 @@
-REGIO DECRETO 19 ottobre 1894 n. 511
-
-
-REGIO DECRETO 19 ottobre 1894 n. 511
-====================================
-
-Sullo ordinamento degli studi nei Collegi militari di Napoli, Firenze, Milano, Roma e Messina. (094U0511)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/12/1894
+---
+tipo: REGIO DECRETO
+numero: 511
+data: 1894-10-19
+titolo: "Sullo ordinamento degli studi nei Collegi militari di Napoli, Firenze, Milano, Roma e Messina. (094U0511)"
+urn: urn:nir:stato:regio.decreto:1894-10-19;511
+codice_redazionale: 094U0511
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,36 +26,27 @@ Considerata l'opportunita' di ordinare gli studi dei Collegi militari in guisa c
 
 Su la proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, d'accordo con quello della Guerra; Abbiamo decretato e decretiamo:
 
-Art. 1
-------
+## Art. 1.
 
-  
-  
-Nei Collegi militari di Napoli, Firenze, Milano, Roma e Messina gli studi durano tre anni e si fanno in conformita' dei programmi assegnati ai corsi 2°, 3° e 4° della sezione fisico-matematica degli Istituti tecnici.   
+Nei Collegi militari di Napoli, Firenze, Milano, Roma e Messina gli studi durano tre anni e si fanno in conformita' dei programmi assegnati ai corsi 2°, 3° e 4° della sezione fisico-matematica degli Istituti tecnici.
 
-Art. 2
-------
+## Art. 2.
 
-  
-  
-Per essere ammessi alla 1ª classe dei Collegi militari giovani dovranno sostenere un esame di ammissione sul programma assegnato alla 1ª classe degli Istituti tecnici ne' modi e secondo le norme in detti Istituti vigenti.   
+Per essere ammessi alla 1ª classe dei Collegi militari giovani dovranno sostenere un esame di ammissione sul programma assegnato alla 1ª classe degli Istituti tecnici ne' modi e secondo le norme in detti Istituti vigenti.
 
-Art. 3
-------
+## Art. 3.
 
-  
-  
-I collegi militari sono per tutti gli effetti legali parificati interamente agli Istituti tecnici.   
-  
-Il Ministero della Pubblica Istruzione li fara' visitare da persone di sua fiducia, e, d'accordo col Ministero della Guerra, potra' farsi rappresentare dai suoi Commissari negli esami finali.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 19 ottobre 1894.   
-  
-UMBERTO.   
-  
-MOCENNI.   
-G. BACCELLI.   
-  
-Visto: Il Guardasigilli: V. CALENDA DI TAVANI.   
+I collegi militari sono per tutti gli effetti legali parificati interamente agli Istituti tecnici. 
+ 
+ Il Ministero della Pubblica Istruzione li fara' visitare da persone di sua fiducia, e, d'accordo col Ministero della Guerra, potra' farsi rappresentare dai suoi Commissari negli esami finali. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 19 ottobre 1894. 
+ 
+ UMBERTO. 
+ 
+ MOCENNI. 
+ G. BACCELLI. 
+ 
+ Visto: Il Guardasigilli: V. CALENDA DI TAVANI.

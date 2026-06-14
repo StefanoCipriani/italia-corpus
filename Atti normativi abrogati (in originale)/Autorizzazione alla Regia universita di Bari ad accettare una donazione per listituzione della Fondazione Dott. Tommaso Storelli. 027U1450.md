@@ -1,21 +1,21 @@
-REGIO DECRETO 16 giugno 1927 n. 1450
+---
+tipo: REGIO DECRETO
+numero: 1450
+data: 1927-06-16
+titolo: "Autorizzazione alla Regia universita' di Bari ad accettare una donazione per l'istituzione della Fondazione «Dott. Tommaso Storelli». (027U1450)"
+urn: urn:nir:stato:regio.decreto:1927-06-16;1450
+codice_redazionale: 027U1450
+vigente: true
+---
 
-
-REGIO DECRETO 16 giugno 1927 n. 1450
-====================================
-
-Autorizzazione alla Regia universita' di Bari ad accettare una donazione per l'istituzione della Fondazione «Dott. Tommaso Storelli». (027U1450)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/09/1927
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1450. R. decreto 16 giugno 1927, col quale, su proposta del Ministro per la pubblica istruzione, la Regia universita' di Bari viene autorizzata ad accettare una donazione per l'istituzione della Fondazione «Dott. Tommaso Storelli».   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 19 agosto 1927 - Anno V
+1450.
+
+R. decreto 16 giugno 1927, col quale, su proposta del Ministro per la pubblica istruzione, la Regia universita' di Bari viene autorizzata ad accettare una donazione per l'istituzione della Fondazione «Dott. Tommaso Storelli». 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 19 agosto 1927 - Anno V

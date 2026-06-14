@@ -1,16 +1,14 @@
-REGIO DECRETO 19 ottobre 1865 n. 2565
-
-
-REGIO DECRETO 19 ottobre 1865 n. 2565
-=====================================
-
-Con cui vari Comuni gia' aggregati alla Sezione elettorale di Busto Arsizio sono costituiti Sezione elettorale distinta. (065U2565)
------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1865
+---
+tipo: REGIO DECRETO
+numero: 2565
+data: 1865-10-19
+titolo: "Con cui vari Comuni gia' aggregati alla Sezione elettorale di Busto Arsizio sono costituiti Sezione elettorale distinta. (065U2565)"
+urn: urn:nir:stato:regio.decreto:1865-10-19;2565
+codice_redazionale: 065U2565
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Viste le istanze dei Comuni di Legnano, Castellana, Castegnate Olona, Fagnano Ol
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Legnano, Castellanza, Castegnate Olona, Fagnano Olona, Gorla Maggiore, Gorla Minore, Marnate, Olgiate Olona, Prospiano, Solbiate, che sin qui fecero parte della Sezione del Collegio elettorale di Busto Arsizio, n.° 235, detta di Busto Arsizio, costituiranno d'ora in poi una Sezione separata del Collegio medesimo, che si radunera' in Legnano.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 19 ottobre 1865.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 25 ottobre 1865   
-  
-Reg.° 31 Atti del Governo a c. 33. Crodaro-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
-  
+I Comuni di Legnano, Castellanza, Castegnate Olona, Fagnano Olona, Gorla Maggiore, Gorla Minore, Marnate, Olgiate Olona, Prospiano, Solbiate, che sin qui fecero parte della Sezione del Collegio elettorale di Busto Arsizio, n.° 235, detta di Busto Arsizio, costituiranno d'ora in poi una Sezione separata del Collegio medesimo, che si radunera' in Legnano. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 19 ottobre 1865. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 25 ottobre 1865 
+ 
+ Reg.° 31 Atti del Governo a c. 33. Crodaro-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli.

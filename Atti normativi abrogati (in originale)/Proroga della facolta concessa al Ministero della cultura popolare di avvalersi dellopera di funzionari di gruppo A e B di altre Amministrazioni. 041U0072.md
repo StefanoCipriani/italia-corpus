@@ -1,16 +1,14 @@
-REGIO DECRETO 13 gennaio 1941 n. 72
-
-
-REGIO DECRETO 13 gennaio 1941 n. 72
-===================================
-
-Proroga della facolta' concessa al Ministero della cultura popolare di avvalersi dell'opera di funzionari di gruppo A e B di altre Amministrazioni. (041U0072)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/03/1941
+---
+tipo: REGIO DECRETO
+numero: 72
+data: 1941-01-13
+titolo: "Proroga della facolta' concessa al Ministero della cultura popolare di avvalersi dell'opera di funzionari di gruppo A e B di altre Amministrazioni. (041U0072)"
+urn: urn:nir:stato:regio.decreto:1941-01-13;72
+codice_redazionale: 041U0072
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,28 +26,22 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la cultura popolare di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la cultura popolare di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ferme restando le condizioni e modalita' previste dal R. decreto 25 gennaio 1940-XVIII, n. 106, e' prorogata di un anno a decorrere dall'11 gennaio 1941-XIX, la facolta' concessa al Ministero della cultura popolare di avvalersi dell'opera di funzionari di gruppo A e B di altre Amministrazioni, particolarmente competenti nei servizi di materia tecnica del Ministero stesso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 gennaio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - PAVOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 28 febbraio 1941-XIX   
-  
-Atti del Governo, registro 430, foglio 114. - MANCINI   
+Ferme restando le condizioni e modalita' previste dal R. decreto 25 gennaio 1940-XVIII, n. 106, e' prorogata di un anno a decorrere dall'11 gennaio 1941-XIX, la facolta' concessa al Ministero della cultura popolare di avvalersi dell'opera di funzionari di gruppo A e B di altre Amministrazioni, particolarmente competenti nei servizi di materia tecnica del Ministero stesso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 gennaio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - PAVOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 28 febbraio 1941-XIX 
+ 
+ Atti del Governo, registro 430, foglio 114. - MANCINI

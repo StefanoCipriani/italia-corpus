@@ -1,16 +1,14 @@
-REGIO DECRETO 05 settembre 1938 n. 1678
-
-
-REGIO DECRETO 05 settembre 1938 n. 1678
-=======================================
-
-Passaggio di personale insegnante di materie grafiche e scientifiche e di personale tecnico dalle Regie scuole d'arte alle Regie scuole d'istruzione media tecnica e viceversa. (038U1678)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/11/1938
+---
+tipo: REGIO DECRETO
+numero: 1678
+data: 1938-09-05
+titolo: "Passaggio di personale insegnante di materie grafiche e scientifiche e di personale tecnico dalle Regie scuole d'arte alle Regie scuole d'istruzione media tecnica e viceversa. (038U1678)"
+urn: urn:nir:stato:regio.decreto:1938-09-05;1678
+codice_redazionale: 038U1678
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,32 +32,26 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il personale insegnante di materie scientifiche e grafiche e il personale tecnico delle Regie scuole d'arte, purche' classificate, puo' essere trasferito su domanda degli interessati a posti di uguale gruppo e grado nelle Regie scuole d'istruzione media tecnica e viceversa, sempreche' trattisi di posti per i quali sia previsto uguale sviluppo di carriera.   
-  
-Tale possibilita', per quanto riguarda gli insegnanti di materie scientifiche, e' limitata al personale provvisto di laurea.   
-  
-Il personale trasferito conserva tutti i diritti acquisiti di carriera.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 5 settembre 1938-XVII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Bottai - Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 5 novembre 1938-XVII   
-  
-Atti del Governo, registro 403, foglio 9. - Mancini   
+Il personale insegnante di materie scientifiche e grafiche e il personale tecnico delle Regie scuole d'arte, purche' classificate, puo' essere trasferito su domanda degli interessati a posti di uguale gruppo e grado nelle Regie scuole d'istruzione media tecnica e viceversa, sempreche' trattisi di posti per i quali sia previsto uguale sviluppo di carriera. 
+ 
+ Tale possibilita', per quanto riguarda gli insegnanti di materie scientifiche, e' limitata al personale provvisto di laurea. 
+ 
+ Il personale trasferito conserva tutti i diritti acquisiti di carriera. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 5 settembre 1938-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Bottai - Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 5 novembre 1938-XVII 
+ 
+ Atti del Governo, registro 403, foglio 9. - Mancini

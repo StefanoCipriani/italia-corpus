@@ -1,16 +1,14 @@
-REGIO DECRETO 27 novembre 1890 n. 7331
-
-
-REGIO DECRETO 27 novembre 1890 n. 7331
-======================================
-
-Che approva l'aggiunta di due nuovi articoli al vigente regolamento per la costruzione, manutenzione e sorveglianza delle strade provinciali, comunali e consortili della provincia di Genova. (090U7331)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/01/1891
+---
+tipo: REGIO DECRETO
+numero: 7331
+data: 1890-11-27
+titolo: "Che approva l'aggiunta di due nuovi articoli al vigente regolamento per la costruzione, manutenzione e sorveglianza delle strade provinciali, comunali e consortili della provincia di Genova. (090U7331)"
+urn: urn:nir:stato:regio.decreto:1890-11-27;7331
+codice_redazionale: 090U7331
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,29 +24,22 @@ Sentito il Consiglio superiore dei Lavori Pubblici;
 
 Vista la precitata legge sui Lavori Pubblici 20 marzo 1865, n. 2248, allegato F;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata l'aggiunta dei due nuovi articoli seguenti, al vigente Regolamento per la costruzione, manutenzione e sorveglianza delle strade provinciali, comunali e consortili della provincia di Genova: quali articoli costituiranno il capo II della parte quarta del Regolamento stesso, sotto il titolo di polizia delle strade.   
-  
-«Articolo 83. Per la polizia delle strade provinciali, comunali e consortili, saranno in tutto applicate le disposizioni della Legge sui Lavori Pubblici, 20 marzo 1865, n. 2248, allegato F del Regolamento di polizia stradale, approvato con [R. decreto 10 marzo 1881, num. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1881-03-10;124) (serie 3ª).   
-  
-«Articolo 84. Agli effetti dell'art. 66 della legge suddetta, sono considerate come strade di pianura, in tutto il loro percorso le strade provinciali da Genova a Nervi, da Genova a Voltri, da Genova a Pontedecimo».   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 novembre 1890.   
-  
-UMBERTO.   
-  
-G. Finali.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+E' approvata l'aggiunta dei due nuovi articoli seguenti, al vigente Regolamento per la costruzione, manutenzione e sorveglianza delle strade provinciali, comunali e consortili della provincia di Genova: quali articoli costituiranno il capo II della parte quarta del Regolamento stesso, sotto il titolo di polizia delle strade. 
+ 
+ «Articolo 83. Per la polizia delle strade provinciali, comunali e consortili, saranno in tutto applicate le disposizioni della Legge sui Lavori Pubblici, 20 marzo 1865, n. 2248, allegato F del Regolamento di polizia stradale, approvato con [R. decreto 10 marzo 1881, num. 124](Che%20riforma%20il%20regolamento%20per%20la%20polizia%20stradale.%20081U0124.md) (serie 3ª). 
+ 
+ «Articolo 84. Agli effetti dell'art. 66 della legge suddetta, sono considerate come strade di pianura, in tutto il loro percorso le strade provinciali da Genova a Nervi, da Genova a Voltri, da Genova a Pontedecimo». 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 novembre 1890. 
+ 
+ UMBERTO. 
+ 
+ G. Finali. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

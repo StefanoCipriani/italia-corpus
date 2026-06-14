@@ -1,21 +1,21 @@
-REGIO DECRETO 21 marzo 1938 n. 1103
+---
+tipo: REGIO DECRETO
+numero: 1103
+data: 1938-03-21
+titolo: "Autorizzazione all'Istituto dei ciechi in Torino ad accettare un legato. (038U1103)"
+urn: urn:nir:stato:regio.decreto:1938-03-21;1103
+codice_redazionale: 038U1103
+vigente: true
+---
 
-
-REGIO DECRETO 21 marzo 1938 n. 1103
-===================================
-
-Autorizzazione all'Istituto dei ciechi in Torino ad accettare un legato. (038U1103)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/08/1938
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1103. R. decreto 21 marzo 1938, col quale, sulla proposta del Ministro per l'educazione nazionale, il vice presidente dell'istituto dei ciechi in Torino viene autorizzato ad accettare il legato di L. 15.000 disposto a favore dell'Istituto medesimo dalla signorina Maria Laura Germanetto.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 5 luglio 1938 - Anno XVI
+1103.
+
+R. decreto 21 marzo 1938, col quale, sulla proposta del Ministro per l'educazione nazionale, il vice presidente dell'istituto dei ciechi in Torino viene autorizzato ad accettare il legato di L. 15.000 disposto a favore dell'Istituto medesimo dalla signorina Maria Laura Germanetto. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 5 luglio 1938 - Anno XVI

@@ -1,19 +1,15 @@
-REGIO DECRETO 08 dicembre 1904 n. DXXXIX
+---
+tipo: REGIO DECRETO
+numero: DXXXIX
+data: 1904-12-08
+titolo: "Trasformazione di patrimonio a scopo elemosiniero. (0400539R)"
+urn: urn:nir:stato:regio.decreto:1904-12-08;539
+codice_redazionale: 0400539R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 dicembre 1904 n. DXXXIX
-========================================
-
-Trasformazione di patrimonio a scopo elemosiniero. (0400539R)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/02/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. DXXXIX (Dato a Roma, l'8 dicembre 1904), col quale il fine del Monte frumentario di Fratta Todina e' trasformato in quello di sussidiare malati poveri.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. DXXXIX (Dato a Roma, l'8 dicembre 1904), col quale il fine del Monte frumentario di Fratta Todina e' trasformato in quello di sussidiare malati poveri.

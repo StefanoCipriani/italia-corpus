@@ -1,16 +1,14 @@
-REGIO DECRETO 16 febbraio 1939 n. 438
-
-
-REGIO DECRETO 16 febbraio 1939 n. 438
-=====================================
-
-Autorizzazione al comune di Cremona ad applicare fino a tutto il 1939 le imposte di consumo con la tariffa della classe C. (039U0438)
--------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/03/1939
+---
+tipo: REGIO DECRETO
+numero: 438
+data: 1939-02-16
+titolo: "Autorizzazione al comune di Cremona ad applicare fino a tutto il 1939 le imposte di consumo con la tariffa della classe C. (039U0438)"
+urn: urn:nir:stato:regio.decreto:1939-02-16;438
+codice_redazionale: 039U0438
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA DELLA NAZIONE
 
@@ -24,29 +22,24 @@ Vista l'istanza con la quale il Comune stesso chiede di continuare ad applicare 
 
 Udita la Commissione centrale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il comune di Cremona e' autorizzata ad. applicare le imposte di consumo in base alla tariffa della classe superiore C, fino a tutto il
 
-1939. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 febbraio 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 8 marzo 1939-XVII   
-  
-Atti del Governo, registro 407, foglio 26 - Mancini.
+1939.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 febbraio 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 8 marzo 1939-XVII 
+ 
+ Atti del Governo, registro 407, foglio 26 - Mancini.

@@ -1,19 +1,15 @@
-REGIO DECRETO 23 dicembre 1909 n. DIII
+---
+tipo: REGIO DECRETO
+numero: DIII
+data: 1909-12-23
+titolo: "Che trasforma la Confraternita del SS. Sagramento in Santa Maria, del SS. Sagramento in Sant'Angelo, della Carita' del Rosario, dei Battenti in Sant'Angelo, di San Giovanni in Santa Maria in Sermoneta. (0900503R)"
+urn: urn:nir:stato:regio.decreto:1909-12-23;503
+codice_redazionale: 0900503R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 dicembre 1909 n. DIII
-======================================
-
-Che trasforma la Confraternita del SS. Sagramento in Santa Maria, del SS. Sagramento in Sant'Angelo, della Carita' del Rosario, dei Battenti in Sant'Angelo, di San Giovanni in Santa Maria in Sermoneta. (0900503R)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/02/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. DIII (Dato a Roma, il 23 dicembre 1909), col quale i fini inerenti ai patrimoni delle Confraternite del SS. Sagramento in Santa Maria, del SS. Sagramento in Sant'Angelo, della Carita', del Rosario, dei Battenti in Sant'Angelo, di San Giovanni in Santa Maria di Sermoneta (Roma), sono stati parzialmente trasformati a scopi di beneficenza e con cui i patrimoni predetti sono stati concentrati nella locale Congregazione di carita'.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. DIII (Dato a Roma, il 23 dicembre 1909), col quale i fini inerenti ai patrimoni delle Confraternite del SS. Sagramento in Santa Maria, del SS. Sagramento in Sant'Angelo, della Carita', del Rosario, dei Battenti in Sant'Angelo, di San Giovanni in Santa Maria di Sermoneta (Roma), sono stati parzialmente trasformati a scopi di beneficenza e con cui i patrimoni predetti sono stati concentrati nella locale Congregazione di carita'.

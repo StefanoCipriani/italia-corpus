@@ -1,16 +1,14 @@
-REGIO DECRETO 26 gennaio 1912 n. 45
-
-
-REGIO DECRETO 26 gennaio 1912 n. 45
-===================================
-
-Che da' facolta' alle amministrazioni di Tripoli e di Bengasi di concedere l'esercizio dei piu' urgenti servizi pubblici nelle citta' stesse. (012U0045)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/02/1912
+---
+tipo: REGIO DECRETO
+numero: 45
+data: 1912-01-26
+titolo: "Che da' facolta' alle amministrazioni di Tripoli e di Bengasi di concedere l'esercizio dei piu' urgenti servizi pubblici nelle citta' stesse. (012U0045)"
+urn: urn:nir:stato:regio.decreto:1912-01-26;45
+codice_redazionale: 012U0045
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,28 +20,21 @@ Ritenuta la convenienza di provvedere nelle citta' di Tripoli e di Bengasi alla 
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del presidente del Consiglio dei ministri e dei ministri degli affari esteri, di grazia e giustizia e della guerra; Abbiamo decretato e decretiamo:
 
-proposta del presidente del Consiglio dei ministri e dei ministri degli affari esteri, di grazia e giustizia e della guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Fino alla promulgazione della legge che fissera' le norme definitive per l'ordinamento della Tripolitania e della Cirenaica e' concessa facolta' alle amministrazioni di Tripoli e di Bengasi di concedere l'esercizio dei piu' urgenti servizi pubblici per un termine necessario a renderne possibile lo stabilimento, l'organizzazione ed il funzionamento a condizione che le concessioni siano sottoposte all'approvazione del Governatore ed alla omologazione del Governo centrale.   
-  
-Il presente decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 26 gennaio 1912.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti - Di San Giuliano - Finocchiaro-Aprile -   
-Spingardi.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+Fino alla promulgazione della legge che fissera' le norme definitive per l'ordinamento della Tripolitania e della Cirenaica e' concessa facolta' alle amministrazioni di Tripoli e di Bengasi di concedere l'esercizio dei piu' urgenti servizi pubblici per un termine necessario a renderne possibile lo stabilimento, l'organizzazione ed il funzionamento a condizione che le concessioni siano sottoposte all'approvazione del Governatore ed alla omologazione del Governo centrale. 
+ 
+ Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 gennaio 1912. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti - Di San Giuliano - Finocchiaro-Aprile - 
+ Spingardi. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

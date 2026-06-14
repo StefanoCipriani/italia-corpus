@@ -1,16 +1,14 @@
-REGIO DECRETO 23 gennaio 1908 n. 38
-
-
-REGIO DECRETO 23 gennaio 1908 n. 38
-===================================
-
-Concernente cauzione da prestarsi dai gestori dei fondi anticipati per le Accademie di Belle Arti di Carrara e di Lucca (008U0038)
-----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/03/1908
+---
+tipo: REGIO DECRETO
+numero: 38
+data: 1908-01-23
+titolo: "Concernente cauzione da prestarsi dai gestori dei fondi anticipati per le Accademie di Belle Arti di Carrara e di Lucca (008U0038)"
+urn: urn:nir:stato:regio.decreto:1908-01-23;38
+codice_redazionale: 008U0038
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,33 +22,22 @@ Considerata l'opportunita' di stabilire per il gerente dei fondi assegnati all'A
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per la pubblica istruzione Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La cauzione da prestarsi dal gestore dei fondi anticipati dal Ministero della pubblica istruzione per l'Accademia Reale di Belle Arti in Carrara, e' fissata in L. 60.
 
-  
-  
-La cauzione da prestarsi dal gestore dei fondi anticipati dal Ministero della pubblica istruzione per l'Accademia Reale di Belle Arti in Carrara, e' fissata in L. 60.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-La cauzione sara' data mediante deposito in danaro o in cartella di rendita dello Stato vincolata a favore dell'erario e valutata secondo le disposizioni di cui all'articolo 231 del regolamento di contabilita' generale dello Stato.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 gennaio 1908.   
-  
-VITTORIO EMANUELE.   
-  
-Rava.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+La cauzione sara' data mediante deposito in danaro o in cartella di rendita dello Stato vincolata a favore dell'erario e valutata secondo le disposizioni di cui all'articolo 231 del regolamento di contabilita' generale dello Stato. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 gennaio 1908. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Rava. 
+ 
+ Visto, Il guardasigilli: Orlando.

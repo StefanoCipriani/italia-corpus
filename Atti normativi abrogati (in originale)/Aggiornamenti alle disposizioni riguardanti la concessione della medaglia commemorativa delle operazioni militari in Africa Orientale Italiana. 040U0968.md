@@ -1,16 +1,14 @@
-REGIO DECRETO 02 maggio 1940 n. 968
-
-
-REGIO DECRETO 02 maggio 1940 n. 968
-===================================
-
-Aggiornamenti alle disposizioni riguardanti la concessione della medaglia commemorativa delle operazioni militari in Africa Orientale Italiana. (040U0968)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/08/1940
+---
+tipo: REGIO DECRETO
+numero: 968
+data: 1940-05-02
+titolo: "Aggiornamenti alle disposizioni riguardanti la concessione della medaglia commemorativa delle operazioni militari in Africa Orientale Italiana. (040U0968)"
+urn: urn:nir:stato:regio.decreto:1940-05-02;968
+codice_redazionale: 040U0968
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,51 +26,35 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del governo, Ministro per la guerra, per la marina e per l'aeronautica, di concerto col Ministro Segretario del Partito Nazionale Fascista e con i Ministri per l'Africa Italiana, per le finanze, per i lavori pubblici, per le comunicazioni e per le corporazioni; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del governo, Ministro per la guerra, per la marina e per l'aeronautica, di concerto col Ministro Segretario del Partito Nazionale Fascista e con i Ministri per l'Africa Italiana, per le finanze, per i lavori pubblici, per le comunicazioni e per le corporazioni; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'art. 7 del R. decreto 10 maggio 1937-XV, n. 2463, e' sostituito dal seguente: 
+ 
+ «La medaglia commemorativa delle operazioni militari in Africa Orientale puo' altresi' essere concessa, con nastro privo di gladio romano, agli, appartenenti alle Forze armate dello Stato, ai militarizzati, agli assimilati e al personale civile addetto ai servizi civili dipendenti dai Governi e dagli altri Enti pubblici, dall'Ispettorato del Partito Nazionale Fascista per l'Africa Orientale italiana, dalle Federazioni del Partito Nazionale Fascista e dalle Organizzazioni che dipendono da esse i quali posteriormente al 5 maggio 1936-XIV, abbiano compiuto per ragioni di servizio almeno due anni di permanenza ininterrotta nell'Africa Orientale Italiana.  
+ «La stessa medaglia commemorativa puo' essere concessa, qualunque sia la durata di permanenza nell'Africa Orientale Italiana, a coloro che abbiano esercitato posteriormente al 5 maggio 1936-XIV la carica di Governatore generale, Vice Governatore generale, Comandante superiore delle Forze armate, Governatore, Vice Governatore, Capo di Stato Maggiore del Governo generale, Ispettore del P. N.F., Ispettore del lavoro, Comandante delle Forze navali, Comandante superiore di marina, Comandante superiore di aeronautica, Comandante delle truppe di ciascun Governo, Segretario federale del P.N.F.».
 
-  
-  
-L'art. 7 del R. decreto 10 maggio 1937-XV, n. 2463, e' sostituito dal seguente:   
-  
-«La medaglia commemorativa delle operazioni militari in Africa Orientale puo' altresi' essere concessa, con nastro privo di gladio romano, agli, appartenenti alle Forze armate dello Stato, ai militarizzati, agli assimilati e al personale civile addetto ai servizi civili dipendenti dai Governi e dagli altri Enti pubblici, dall'Ispettorato del Partito Nazionale Fascista per l'Africa Orientale italiana, dalle Federazioni del Partito Nazionale Fascista e dalle Organizzazioni che dipendono da esse i quali posteriormente al 5 maggio 1936-XIV, abbiano compiuto per ragioni di servizio almeno due anni di permanenza ininterrotta nell'Africa Orientale Italiana.   
-«La stessa medaglia commemorativa puo' essere concessa, qualunque sia la durata di permanenza nell'Africa Orientale Italiana, a coloro che abbiano esercitato posteriormente al 5 maggio 1936-XIV la carica di Governatore generale, Vice Governatore generale, Comandante superiore delle Forze armate, Governatore, Vice Governatore, Capo di Stato Maggiore del Governo generale, Ispettore del P. N.F., Ispettore del lavoro, Comandante delle Forze navali, Comandante superiore di marina, Comandante superiore di aeronautica, Comandante delle truppe di ciascun Governo, Segretario federale del P.N.F.».   
+## Art. 2.
 
-Art. 2
-------
+L'art. 8 del R. decreto predetto e' sostituito dal seguente: 
+ 
+ «Per ogni anno fascista o frazione di anno fascista di campagna o di partecipazione ad operazioni di grande polizia coloniale nell'Africa Orientale viene apposta sul nastro della medaglia una fascetta d'argento con l'indicazione dell'anno fascista medesimo».
 
-  
-  
-L'art. 8 del R. decreto predetto e' sostituito dal seguente:   
-  
-«Per ogni anno fascista o frazione di anno fascista di campagna o di partecipazione ad operazioni di grande polizia coloniale nell'Africa Orientale viene apposta sul nastro della medaglia una fascetta d'argento con l'indicazione dell'anno fascista medesimo».   
-  
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il presente decreto ha effetto dal 10 luglio 1936-XIV.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo o di farlo osservare.   
-  
-Dato a Roma, addi' 2 maggio 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Muti - Teruzzi - Di Revel - Serena - Host - Venturi - Ricci   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 29 luglio 1940-XVIII   
-  
-Atti del Caverna, registro 423, foglio 144. - Mancini   
-  
-  
+Il presente decreto ha effetto dal 10 luglio 1936-XIV. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo o di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 maggio 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+Mussolini - Muti - Teruzzi - Di Revel - Serena - Host - Venturi - Ricci 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 29 luglio 1940-XVIII 
+ 
+ Atti del Caverna, registro 423, foglio 144. - Mancini

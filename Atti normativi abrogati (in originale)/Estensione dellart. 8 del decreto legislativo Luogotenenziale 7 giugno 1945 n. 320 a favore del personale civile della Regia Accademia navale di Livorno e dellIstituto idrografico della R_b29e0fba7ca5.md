@@ -1,14 +1,14 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 29 marzo 1946 n. 380
-
-
-DECRETO LEGISLATIVO LUOGOTENENZIALE 29 marzo 1946 n. 380
-========================================================
-
-Estensione dell'art. 8 del decreto legislativo Luogotenenziale 7 giugno 1945, n. 320, a favore del personale civile della Regia Accademia navale di Livorno e dell'Istituto idrografico della Regia marina in Genova.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 380
+data: 1946-03-29
+titolo: "Estensione dell'art. 8 del decreto legislativo Luogotenenziale 7 giugno 1945, n. 320, a favore del personale civile della Regia Accademia navale di Livorno e dell'Istituto idrografico della Regia marina in Genova."
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-29;380
+codice_redazionale: 046U0380
+vigente: true
+---
 
 UMBERTO DI SAVOIA
------------------
 
 PRINCIPE DI PIEMONTE
 
@@ -16,35 +16,29 @@ LUOGOTENENTE GENERALE DEL REGNO
 
 In virtu' dell'autorita' a Noi delegata;
 
-Visto il [decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320), sul trattamento di missione e di trasferimento a favore del personale statale;
+Visto il [decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320), sul trattamento di missione e di trasferimento a favore del personale statale;
 
-Visto il decreto del Presidente del Consiglio dei Ministri 28 giugno 1945, contenente norme di applicazione del [decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320);
+Visto il decreto del Presidente del Consiglio dei Ministri 28 giugno 1945, contenente norme di applicazione del [decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320);
 
-Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151~art4);
+Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-01;58);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
-Sulle
------
+Sulle proposta del Ministro per la marina, di concerto con i Ministri per il tesoro e per la pubblica istruzione; Abbiamo sanzionato e promulghiamo quanto segue:
 
-proposta del Ministro per la marina, di concerto con i Ministri per il tesoro e per la pubblica istruzione; Abbiamo sanzionato e promulghiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
+Il trattamento di cui all' [art. 8 del decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320#art_8), e' concesso, con decorrenza dal 1° gennaio 1945, al personale civile della Regia Accademia navale di Livorno e dell'Istituto idrografico della Regia marina in Genova, tenuto a prestare servizio fuori della rispettiva sede normale di Livorno e di Genova.
 
-  
-  
-Il trattamento di cui all' [art. 8 del decreto legislativo Luogotenenziale 7 giugno 1945, n. 320](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-06-07;320~art8), e' concesso, con decorrenza dal 1° gennaio 1945, al personale civile della Regia Accademia navale di Livorno e dell'Istituto idrografico della Regia marina in Genova, tenuto a prestare servizio fuori della rispettiva sede normale di Livorno e di Genova.  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.  
-  
-Dato a Roma, addi' 29 marzo 1946  
-  
-UMBERTO DI SAVOIA  
-  
-DE GASPERI - DE COURTEN - CORBINO - MOLE'   
-Visto, il Guardasigilli: TOGLIATTI  
-Registrato alla Corte dei conti, addi' 28 maqgio 1946  
-Atti del Governo, registro n. 10, foglio n. 126. - FRASCA  
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
+
+ Dato a Roma, addi' 29 marzo 1946
+
+ UMBERTO DI SAVOIA
+
+ DE GASPERI - DE COURTEN - CORBINO - MOLE' 
+Visto, il Guardasigilli: TOGLIATTI
+ Registrato alla Corte dei conti, addi' 28 maqgio 1946
+ Atti del Governo, registro n. 10, foglio n. 126. - FRASCA

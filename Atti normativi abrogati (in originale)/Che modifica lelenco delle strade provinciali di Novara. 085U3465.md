@@ -1,16 +1,14 @@
-REGIO DECRETO 28 ottobre 1885 n. 3465
-
-
-REGIO DECRETO 28 ottobre 1885 n. 3465
-=====================================
-
-Che modifica l'elenco delle strade provinciali di Novara. (085U3465)
---------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/12/1885
+---
+tipo: REGIO DECRETO
+numero: 3465
+data: 1885-10-28
+titolo: "Che modifica l'elenco delle strade provinciali di Novara. (085U3465)"
+urn: urn:nir:stato:regio.decreto:1885-10-28;3465
+codice_redazionale: 085U3465
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -34,25 +32,18 @@ Che pertanto nulla asta ad accogliere la domanda del Consiglio provinciale di No
 
 Visti gli articoli 13 e 14 della legge 20 marzo 1865, allegato F;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La strada da Bioglio alla provinciale da Biella al Lago Maggiore per Piatto e Valdengo e' cancellata dall'elenco delle provinciali di Novara, restando in tal senso modificato l'elenco medesimo, ed il Nostro decreto 18 luglio 1882, col quale detta strada fu dichiarata provinciale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 28 ottobre 1885.   
-  
-UMBERTO.   
-  
-Genala.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+La strada da Bioglio alla provinciale da Biella al Lago Maggiore per Piatto e Valdengo e' cancellata dall'elenco delle provinciali di Novara, restando in tal senso modificato l'elenco medesimo, ed il Nostro decreto 18 luglio 1882, col quale detta strada fu dichiarata provinciale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 28 ottobre 1885. 
+ 
+ UMBERTO. 
+ 
+ Genala. 
+ 
+ Visto, Il Guardasigilli: Tajani.

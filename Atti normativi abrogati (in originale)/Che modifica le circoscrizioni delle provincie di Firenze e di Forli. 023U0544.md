@@ -1,49 +1,33 @@
-REGIO DECRETO 04 marzo 1923 n. 544
+---
+tipo: REGIO DECRETO
+numero: 544
+data: 1923-03-04
+titolo: "Che modifica le circoscrizioni delle provincie di Firenze e di Forli'. (023U0544)"
+urn: urn:nir:stato:regio.decreto:1923-03-04;544
+codice_redazionale: 023U0544
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 marzo 1923 n. 544
-==================================
+Il circondario di Rocca San Casciano, attualmente appartenente alla provincia di Firenze, e' aggregato alla provincia di Forli'.
 
-Che modifica le circoscrizioni delle provincie di Firenze e di Forli'. (023U0544)
----------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 11/04/1923
+I prefetti di Firenze e di Forli' provvederanno alla nuova ripartizione dei consiglieri delle rispettive Provincie per mandamenti, ai Sensi dell'art. 92 della legge comunale e provinciale [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148). 
+ 
+ Nella provincia di Firenze si procedera' ad elezioni suppletive in quei mandamenti che per effetto della nuova ripartizione aumentino di rappresentanza.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-  
-Il circondario di Rocca San Casciano, attualmente appartenente alla provincia di Firenze, e' aggregato alla provincia di Forli'.   
-  
-
-Art. 2
-------
-
-  
-  
-  
-I prefetti di Firenze e di Forli' provvederanno alla nuova ripartizione dei consiglieri delle rispettive Provincie per mandamenti, ai Sensi dell'art. 92 della legge comunale e provinciale [testo unico 4 febbraio 1915, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148).   
-  
-Nella provincia di Firenze si procedera' ad elezioni suppletive in quei mandamenti che per effetto della nuova ripartizione aumentino di rappresentanza.   
-  
-
-Art. 3
-------
-
-  
-  
-  
-Con successivi decreti, da promuoversi dai Ministri competenti, verranno approvati i progetti che dovranno concordarsi fra le rappresentanze provinciali di Firenze e di Forli' relativi alla separazione del patrimonio ed al reparto delle attivita' e passivita' e sara' provveduto a quanto altro occorra per l'esecuzione del presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 marzo 1923.   
-  
-VITTORIO EMANUELE.   
-  
-MUSSOLINI.   
-  
-Visto, il guardasigilli: OVIGLIO.   
-  
+Con successivi decreti, da promuoversi dai Ministri competenti, verranno approvati i progetti che dovranno concordarsi fra le rappresentanze provinciali di Firenze e di Forli' relativi alla separazione del patrimonio ed al reparto delle attivita' e passivita' e sara' provveduto a quanto altro occorra per l'esecuzione del presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 marzo 1923. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ MUSSOLINI. 
+ 
+ Visto, il guardasigilli: OVIGLIO.

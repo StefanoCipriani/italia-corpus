@@ -1,16 +1,14 @@
-REGIO DECRETO 27 luglio 1903 n. 369
-
-
-REGIO DECRETO 27 luglio 1903 n. 369
-===================================
-
-Aggiunta di stazioni ferroviarie a quelle indicate nel decreto 24 giugno 1903, agli effetti dell'applicazione delle tariffe eccezionali per la regione meridionale. (003U0369)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/09/1903
+---
+tipo: REGIO DECRETO
+numero: 369
+data: 1903-07-27
+titolo: "Aggiunta di stazioni ferroviarie a quelle indicate nel decreto 24 giugno 1903, agli effetti dell'applicazione delle tariffe eccezionali per la regione meridionale. (003U0369)"
+urn: urn:nir:stato:regio.decreto:1903-07-27;369
+codice_redazionale: 003U0369
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,34 +24,25 @@ Considerato essere urgente chiarire e completare il detto decreto;
 
 Sulla proposta del Presidente del Consiglio e dei Ministri dei Lavori Pubblici, del Tesoro e dell'Agricoltura, Industria e Commercio;
 
-Udito
------
+Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Alle stazioni indicate nelle tabelle allegate al precedente Nostro decreto 24 giugno 1903, agli effetti dell'applicazione delle tariffe eccezionali approvate col decreto stesso, sono aggiunte quelle appartenenti ai tronchi di ferrovia da Castellammare Adriatico a Tortoneto-Nereto questa inclusa, da Teramo a Giulianova, da Cittaducale a Sulmona e da Isoletta a Roccasecca.
 
-  
-  
-Alle stazioni indicate nelle tabelle allegate al precedente Nostro decreto 24 giugno 1903, agli effetti dell'applicazione delle tariffe eccezionali approvate col decreto stesso, sono aggiunte quelle appartenenti ai tronchi di ferrovia da Castellammare Adriatico a Tortoneto-Nereto questa inclusa, da Teramo a Giulianova, da Cittaducale a Sulmona e da Isoletta a Roccasecca.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto sara' presentato al Parlamento per la conversione in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 27 luglio 1903.   
-  
-VITTORIO EMANUELE.   
-  
-Zanardelli.   
-Di Broglio.   
-N. Balenzano.   
-G. Baccelli.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.   
+Il presente decreto sara' presentato al Parlamento per la conversione in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 27 luglio 1903. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Zanardelli. 
+ Di Broglio. 
+ N. Balenzano. 
+ G. Baccelli. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

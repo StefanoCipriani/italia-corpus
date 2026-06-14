@@ -1,16 +1,14 @@
-REGIO DECRETO 07 marzo 1880 n. 5321
-
-
-REGIO DECRETO 07 marzo 1880 n. 5321
-===================================
-
-Che separa il comune di Roverchiara dalla sezione elettorale di Legnago e forma una sezione distinta del collegio di Legnago. (080U5321)
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/04/1880
+---
+tipo: REGIO DECRETO
+numero: 5321
+data: 1880-03-07
+titolo: "Che separa il comune di Roverchiara dalla sezione elettorale di Legnago e forma una sezione distinta del collegio di Legnago. (080U5321)"
+urn: urn:nir:stato:regio.decreto:1880-03-07;5321
+codice_redazionale: 080U5321
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Che Roverchiara conta 51 elettori, numero superiore al minimo stabilito dall'art
 
 Considerando che con la istituzione di una sezione in Roverchiara si rende piu' agevole agli elettori l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Roverchiara e' separato dalla sezione elettorale di Legnago e formera' una sezione distinta del Collegio elettorale di Legnago.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 marzo 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il comune di Roverchiara e' separato dalla sezione elettorale di Legnago e formera' una sezione distinta del Collegio elettorale di Legnago. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

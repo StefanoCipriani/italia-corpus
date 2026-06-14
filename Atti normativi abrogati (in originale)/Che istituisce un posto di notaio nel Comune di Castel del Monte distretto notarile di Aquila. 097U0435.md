@@ -1,16 +1,14 @@
-REGIO DECRETO 02 ottobre 1897 n. 435
-
-
-REGIO DECRETO 02 ottobre 1897 n. 435
-====================================
-
-Che istituisce un posto di notaio nel Comune di Castel del Monte, distretto notarile di Aquila. (097U0435)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1897
+---
+tipo: REGIO DECRETO
+numero: 435
+data: 1897-10-02
+titolo: "Che istituisce un posto di notaio nel Comune di Castel del Monte, distretto notarile di Aquila. (097U0435)"
+urn: urn:nir:stato:regio.decreto:1897-10-02;435
+codice_redazionale: 097U0435
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,29 +18,22 @@ Vista la deliberazione in data 9 luglio 1897, colla quale il Consiglio Comunale 
 
 Viste le deliberazioni dei Consigli provinciale e notarile di Aquila;
 
-Visto l'[art. 4 della legge 25 maggio 1879 n. 4900](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-05-25;4900~art4) e la tabella del numero e delle residenze dei notai del Regno, approvata con Nostro decreto 11 giugno 1882 n. 810;
+Visto l'[art. 4 della legge 25 maggio 1879 n. 4900](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-05-25;4900#art_4) e la tabella del numero e delle residenze dei notai del Regno, approvata con Nostro decreto 11 giugno 1882 n. 810;
 
 Ritenuta dimostrata la necessita' di istituire un posto di notaio nel Comune di Castel del Monte;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un posto di notaio nel Comune di Castel del Monte, distretto notarile di Aquila.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 2 ottobre 1897.   
-  
-UMBERTO.   
-  
-E. Gianturco.   
-  
-Visto, Il Guardasigilli: E. Gianturco.   
-  
+E' istituito un posto di notaio nel Comune di Castel del Monte, distretto notarile di Aquila. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 2 ottobre 1897. 
+ 
+ UMBERTO. 
+ 
+ E. Gianturco. 
+ 
+ Visto, Il Guardasigilli: E. Gianturco.

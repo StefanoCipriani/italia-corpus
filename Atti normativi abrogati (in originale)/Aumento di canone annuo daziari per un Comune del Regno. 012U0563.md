@@ -1,19 +1,15 @@
-REGIO DECRETO 23 maggio 1912 n. 563
+---
+tipo: REGIO DECRETO
+numero: 563
+data: 1912-05-23
+titolo: "Aumento di canone annuo daziari per un Comune del Regno. (012U0563)"
+urn: urn:nir:stato:regio.decreto:1912-05-23;563
+codice_redazionale: 012U0563
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 maggio 1912 n. 563
-===================================
-
-Aumento di canone annuo daziari per un Comune del Regno. (012U0563)
--------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/07/1912
-
-Art. 1
-------
-
-  
-N. 563   
-  
-Regio Decreto 23 maggio 1912, col quale, sulla proposta del ministro delle finanze, e' stato alimentato da L. 60.664,20 a L. 62.552,44 il canone annuo di dazio consumo dovuto allo Stato dal Comune di Macerata, a decorrere dal 24 settembre 1911.   
-  
+N. 563 
+ 
+ Regio Decreto 23 maggio 1912, col quale, sulla proposta del ministro delle finanze, e' stato alimentato da L. 60.664,20 a L. 62.552,44 il canone annuo di dazio consumo dovuto allo Stato dal Comune di Macerata, a decorrere dal 24 settembre 1911.

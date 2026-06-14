@@ -1,20 +1,18 @@
-DECRETO-LEGGE 08 agosto 1994 n. 493
-
-
-DECRETO-LEGGE 08 agosto 1994 n. 493
-===================================
-
-Modificazioni delle leggi 21 novembre 1991, n. 374, istitutiva del giudice di pace, e 26 novembre 1990, n. 353, concernente provvedimenti urgenti per il processo civile.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 12/8/1994.Decreto-Legge decaduto per mancata conversione.
+---
+tipo: DECRETO-LEGGE
+numero: 493
+data: 1994-08-08
+titolo: "Modificazioni delle leggi 21 novembre 1991, n. 374, istitutiva del giudice di pace, e 26 novembre 1990, n. 353, concernente provvedimenti urgenti per il processo civile."
+urn: urn:nir:stato:decreto.legge:1994-08-08;493
+codice_redazionale: 094G0544
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di emanare norme di modifica delle disposizioni delle [leggi 26 novembre 1990, n. 353, e 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374), al fine di differire le date di avvio delle riforme concernenti il giudice di pace ed il processo civile, cosi' da consentire il completamento delle necessarie procedure;
+Ritenuta la straordinaria necessita' ed urgenza di emanare norme di modifica delle disposizioni delle [leggi 26 novembre 1990, n. 353, e 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374), al fine di differire le date di avvio delle riforme concernenti il giudice di pace ed il processo civile, cosi' da consentire il completamento delle necessarie procedure;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 agosto 1994;
 
@@ -22,156 +20,194 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro di grazi
 
 E M A N A il seguente decreto-legge:
 
-Art. 1
-------
+## Art. 1.
 
-1. Nell'[articolo 166 del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art166), come modificato dall'[articolo 10 della legge 26 novembre 1990, n. 353](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353~art10), dopo le parole: "dell'articolo 163-bis" sono inserite le seguenti: "ovvero almeno venti giorni prima dell'udienza fissata a norma dell'articolo 168-bis, quinto comma".
+1.
 
-Art. 2
-------
+Nell'[articolo 166 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_166), come modificato dall'[articolo 10 della legge 26 novembre 1990, n. 353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353#art_10), dopo le parole: "dell'articolo 163-bis" sono inserite le seguenti: "ovvero almeno venti giorni prima dell'udienza fissata a norma dell'articolo 168-bis, quinto comma".
 
-1. Nell'[articolo 168-bis, comma quinto, del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art168bis-com5), come modificato dall'[articolo 12 della legge 26 novembre 1990, n. 353](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353~art12), sono soppresse le parole: "Restano ferme le decadenze riferite alla data di udienza fissata nella citazione".
+## Art. 2.
 
-Art. 3
-------
+1.
 
-1. Nell'[articolo 89 della legge 26 novembre 1990, n. 353](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353~art89), gia' modificato dall'[articolo 2, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477~art2-com1) e [2, della legge 4 dicembre 1992, n. 477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477~art2-com2), le parole: "A far data dal 2 gennaio 1994", laddove ricorrenti, sono sostituite dalle seguenti: "A far data dal 18 dicembre 1994".
+Nell'[articolo 168-bis, comma quinto, del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_168bis-com5), come modificato dall'[articolo 12 della legge 26 novembre 1990, n. 353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353#art_12), sono soppresse le parole: "Restano ferme le decadenze riferite alla data di udienza fissata nella citazione".
 
-Art. 4
-------
+## Art. 3.
 
-1. Nell'[articolo 90 della legge 26 novembre 1990, n. 353](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353~art90), gia' modificato dall'[articolo 2, comma 3, della legge 4 dicembre 1992, n. 477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477~art2-com3), le parole: "alla data del 2 gennaio 1994", laddove ricorrenti, sono sostituite dalle seguenti: "alla data del 18 dicembre 1994".
+1.
 
-2. Al [comma 3 dell'articolo 90 della legge 26 novembre 1990, n. 353](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353~art90-com3), cosi' come modificato dall'[articolo 2, comma 3, della legge 4 dicembre 1992, n. 477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477~art2-com3), e' aggiunto, in fine, il seguente periodo: "L'istanza non va proposta nelle cause in cui siano gia' state precisate le conclusioni ai sensi dell'[articolo 189 del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art189)".
+Nell'[articolo 89 della legge 26 novembre 1990, n. 353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353#art_89), gia' modificato dall'[articolo 2, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477#art_2-com1) e [2, della legge 4 dicembre 1992, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477#art_2-com2), le parole: "A far data dal 2 gennaio 1994", laddove ricorrenti, sono sostituite dalle seguenti: "A far data dal 18 dicembre 1994".
 
-3. Nel [comma 4 dell'articolo 90 della legge 26 novembre 1990, n. 353](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353~art90-com4), gia' modificato dall'[articolo 2, comma 3, della legge 4 dicembre 1992, n. 477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477~art2-com3), le parole: "non superiore a quaranta giorni" sono soppresse.
+## Art. 4.
 
-4. Salvo quanto disposto dalla [legge 4 dicembre 1992, n. 477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477), per i giudizi iniziati successivamente al [1 gennaio 1993, alle sentenze](https://e-justice.europa.eu/ecli/ECLI::::) di primo grado pubblicate anteriormente al 18 dicembre 1994 si applicano gli [articoli 282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art282), [283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art283) e [337 del codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443~art337) nel testo anteriormente vigente.
+1.
 
-5. Gli [articoli 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353~art74), [75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353~art75), [76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353~art76), [77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353~art77), [85](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353~art85) e [86 della legge 26 novembre 1990, n. 353](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353~art86), e successive modifiche ed integrazioni, si applicano, in quanto compatibili, ai giudizi pendenti alla data di entrata in vigore del presente decreto; tutti i sequestri anteriormente autorizzati perdono la loro efficacia se con sentenza, anche non passata in giudicato, e' rigettata l'istanza di convalida ovvero e' dichiarato inesistente il diritto a cautela del quale erano stati concessi.
+Nell'[articolo 90 della legge 26 novembre 1990, n. 353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353#art_90), gia' modificato dall'[articolo 2, comma 3, della legge 4 dicembre 1992, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477#art_2-com3), le parole: "alla data del 2 gennaio 1994", laddove ricorrenti, sono sostituite dalle seguenti: "alla data del 18 dicembre 1994".
 
-Art. 5
-------
+2.
 
-1. Nell'[articolo 91 della legge 26 novembre 1990, n. 353](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353~art91), gia' sostituito dall'[articolo 2, comma 4, della legge 4 dicembre 1992, n. 477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477~art2-com4), le parole: "alla data del 2 gennaio 1994", laddove ricorrenti, sono sostituite dalle seguenti: "alla data del 18 dicembre 1994".
+Al [comma 3 dell'articolo 90 della legge 26 novembre 1990, n. 353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353#art_90-com3), cosi' come modificato dall'[articolo 2, comma 3, della legge 4 dicembre 1992, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477#art_2-com3), e' aggiunto, in fine, il seguente periodo: "L'istanza non va proposta nelle cause in cui siano gia' state precisate le conclusioni ai sensi dell'[articolo 189 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_189)".
 
-Art. 6
-------
+3.
 
-1. Nell'[articolo 92 della legge 26 novembre 1990, n. 353](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353~art92), gia' sostituito dall'[articolo 2, comma 5, della legge 4 dicembre 1992, n. 477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477~art2-com5), le parole: "2 gennaio 1994", laddove ricorrenti, sono sostituite dalle seguenti: "18 dicembre 1994".
+Nel [comma 4 dell'articolo 90 della legge 26 novembre 1990, n. 353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353#art_90-com4), gia' modificato dall'[articolo 2, comma 3, della legge 4 dicembre 1992, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477#art_2-com3), le parole: "non superiore a quaranta giorni" sono soppresse.
 
-Art. 7
-------
+4.
 
-1. Nell'articolo 76 delle disposizioni di attuazione del [codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443) le parole: "regolarmente costituiti" sono sostituite dalle seguenti: "muniti di procura".
+Salvo quanto disposto dalla [legge 4 dicembre 1992, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477), per i giudizi iniziati successivamente al 1 gennaio 1993, alle sentenze di primo grado pubblicate anteriormente al 18 dicembre 1994 si applicano gli [articoli 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_282), [283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_283) e [337 del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_337) nel testo anteriormente vigente.
 
-Art. 8
-------
+5.
 
-1. Dopo il [comma 5 dell'articolo 4 della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art4-com5), e' aggiunto il seguente:   
-"5-bis. In sede di prima applicazione il magistrato onorario chiamato a ricoprire le funzioni di giudice di pace assume possesso dell'ufficio nel termine che verra' stabilito dal Ministro di grazia e giustizia".
+Gli [articoli 74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353#art_74), [75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353#art_75), [76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353#art_76), [77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353#art_77), [85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353#art_85) e [86 della legge 26 novembre 1990, n. 353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353#art_86), e successive modifiche ed integrazioni, si applicano, in quanto compatibili, ai giudizi pendenti alla data di entrata in vigore del presente decreto; tutti i sequestri anteriormente autorizzati perdono la loro efficacia se con sentenza, anche non passata in giudicato, e' rigettata l'istanza di convalida ovvero e' dichiarato inesistente il diritto a cautela del quale erano stati concessi.
 
-Art. 9
-------
+## Art. 5.
 
-1. La [lettera e) del comma 1 dell'articolo 5 della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art5-com1-lete), e' sostituita dalla seguente:   
-" e) avere eta' non inferiore a 40 e non superiore a 73 anni;".
+1.
 
-Art. 10
--------
+Nell'[articolo 91 della legge 26 novembre 1990, n. 353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353#art_91), gia' sostituito dall'[articolo 2, comma 4, della legge 4 dicembre 1992, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477#art_2-com4), le parole: "alla data del 2 gennaio 1994", laddove ricorrenti, sono sostituite dalle seguenti: "alla data del 18 dicembre 1994".
 
-1. Nel [comma 1 dell'articolo 6 della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art6-com1), le parole: "dieci giorni" sono sostituite dalle seguenti: "venti giorni".
+## Art. 6.
 
-2. All'[articolo 6 della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art6), e' aggiunto, in fine, il seguente comma:   
-"5-bis. Intervenuta la delibera di nomina del Consiglio superiore della magistratura, i giudici di pace possono essere ammessi ai corsi anche prima dell'assunzione delle funzioni".
+1.
 
-Art. 11
--------
+Nell'[articolo 92 della legge 26 novembre 1990, n. 353](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-26;353#art_92), gia' sostituito dall'[articolo 2, comma 5, della legge 4 dicembre 1992, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477#art_2-com5), le parole: "2 gennaio 1994", laddove ricorrenti, sono sostituite dalle seguenti: "18 dicembre 1994".
 
-1. Nel [comma 2 dell'articolo 8 della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art8-com2), le parole: "nel distretto di corte d'appello" sono sostituite dalle seguenti: "nel circondario".
+## Art. 7.
 
-2. Dopo l'[articolo 8 della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art8), e' inserito il seguente:   
-"Art. 8-bis (Limiti all'esercizio della professione forense) . - 1.  
+1.
+
+Nell'articolo 76 delle disposizioni di attuazione del [codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443) le parole: "regolarmente costituiti" sono sostituite dalle seguenti: "muniti di procura".
+
+## Art. 8.
+
+1.
+
+Dopo il [comma 5 dell'articolo 4 della legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374#art_4-com5), e' aggiunto il seguente: 
+ "5-bis. In sede di prima applicazione il magistrato onorario chiamato a ricoprire le funzioni di giudice di pace assume possesso dell'ufficio nel termine che verra' stabilito dal Ministro di grazia e giustizia".
+
+## Art. 9.
+
+1.
+
+La [lettera e) del comma 1 dell'articolo 5 della legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374#art_5-com1-lete), e' sostituita dalla seguente: 
+ " e) avere eta' non inferiore a 40 e non superiore a 73 anni;".
+
+## Art. 10.
+
+1.
+
+Nel [comma 1 dell'articolo 6 della legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374#art_6-com1), le parole: "dieci giorni" sono sostituite dalle seguenti: "venti giorni".
+
+2.
+
+All'[articolo 6 della legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374#art_6), e' aggiunto, in fine, il seguente comma: 
+ "5-bis. Intervenuta la delibera di nomina del Consiglio superiore della magistratura, i giudici di pace possono essere ammessi ai corsi anche prima dell'assunzione delle funzioni".
+
+## Art. 11.
+
+1.
+
+Nel [comma 2 dell'articolo 8 della legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374#art_8-com2), le parole: "nel distretto di corte d'appello" sono sostituite dalle seguenti: "nel circondario".
+
+2.
+
+Dopo l'[articolo 8 della legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374#art_8), e' inserito il seguente: 
+ "Art. 8-bis (Limiti all'esercizio della professione forense) . - 1.
 Gli avvocati e i procuratori legali che svolgono le funzioni di giudice di pace non possono esercitare la professione forense dinanzi al conciliatore, al giudice di pace, al pretore e al tribunale ricompresi nel circondario ove e' situato l'ufficio del giudice di pace al quale appartengono e non possono rappresentare, assistere o difendere le parti di procedimenti svolti dinanzi al medesimo ufficio, nei successivi gradi di giudizio".
 
-Art. 12
--------
+## Art. 12.
 
-1. L'[articolo 35 della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art35), e' sostituito dal seguente:   
-"Art. 35 (Delega al Governo in materia penale) . - 1. Il Governo della Repubblica e' delegato ad emanare, entro il 30 dicembre 1994, norme concernenti la competenza del giudice di pace in materia penale ed il relativo procedimento unitamente alle norme di attuazione, di coordinamento e transitorie, sulla base dei principi e criteri direttivi previsti dagli articoli 36, 37 e 38".
+1.
 
-2. L'[articolo 38 della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art38), e' sostituito dal seguente:   
-"Art. 38 (Entrata in vigore del decreto legislativo). -   
-1. Il decreto legislativo emanato ai sensi dell'articolo 35 entra in vigore il 1 gennaio 1996".
+L'[articolo 35 della legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374#art_35), e' sostituito dal seguente: 
+ "Art. 35 (Delega al Governo in materia penale) . - 1. Il Governo della Repubblica e' delegato ad emanare, entro il 30 dicembre 1994, norme concernenti la competenza del giudice di pace in materia penale ed il relativo procedimento unitamente alle norme di attuazione, di coordinamento e transitorie, sulla base dei principi e criteri direttivi previsti dagli articoli 36, 37 e 38".
 
-Art. 13
--------
+2.
 
-1. L'[articolo 49 della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art49), gia' sostituito dall'[articolo 1, comma 3, della legge 4 dicembre 1992, n. 477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477~art1-com3), e' sostituito dal seguente:   
-"Art. 49 (Efficacia di singole disposizioni) . - 1. Le disposizioni di cui agli articoli 3, commi 2 e 3; 7; 9; 10; 11; 13; da 15 a 34; da 39 a 41 e da 43 a 47 hanno efficacia a partire dal 19 dicembre 1994".
+L'[articolo 38 della legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374#art_38), e' sostituito dal seguente: 
+ "Art. 38 (Entrata in vigore del decreto legislativo). - 
+ 1. Il decreto legislativo emanato ai sensi dell'articolo 35 entra in vigore il 1 gennaio 1996".
 
-Art. 14
--------
+## Art. 13.
 
-1. Le disposizioni previste dalla [lettera e) del comma 1 dell'articolo 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art5-com1-lete) e dal [comma 2 dell'articolo 8 della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art8-com2), come modificate dagli articoli 9 e 11, si applicano con riferimento alle vacanze pubblicate mediante affissione successivamente alla data di entrata in vigore del presente decreto.
+1.
 
-2. Alla pubblicazione dei posti previsti dal comma 1 si procede con avviso nella Gazzetta Ufficiale della Repubblica italiana. Da tale pubblicazione decorre il termine di cui all'[articolo 4, comma 2, della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art4-com2), per la presentazione delle domande.
+L'[articolo 49 della legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374#art_49), gia' sostituito dall'[articolo 1, comma 3, della legge 4 dicembre 1992, n. 477](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-04;477#art_1-com3), e' sostituito dal seguente: 
+ "Art. 49 (Efficacia di singole disposizioni) . - 1. Le disposizioni di cui agli articoli 3, commi 2 e 3; 7; 9; 10; 11; 13; da 15 a 34; da 39 a 41 e da 43 a 47 hanno efficacia a partire dal 19 dicembre 1994".
 
-Art. 15
--------
+## Art. 14.
 
-1. All'[articolo 11 della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art11), dopo il comma 4 e' aggiunto, in fine, il seguente:   
-"4-bis. Le indennita' previste dal presente articolo sono cumulabili con i trattamenti pensionistici e di quiescenza comunque denominati".
+1.
 
-2. Ai giudici di pace che abbiano presentato la domanda di nomina entro il 15 ottobre 1993 non si applica la disposizione di cui all'[articolo 11, comma 16, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art11-com16). Il beneficio viene meno qualora il giudice di pace decada dall'incarico nel corso del primo quadriennio.
+Le disposizioni previste dalla [lettera e) del comma 1 dell'articolo 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374#art_5-com1-lete) e dal [comma 2 dell'articolo 8 della legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374#art_8-com2), come modificate dagli articoli 9 e 11, si applicano con riferimento alle vacanze pubblicate mediante affissione successivamente alla data di entrata in vigore del presente decreto.
 
-3. Al personale che cessa dal servizio per assumere l'ufficio di giudice di pace non si applicano le disposizioni di cui all'[articolo 1, commi 2-bis](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384~art1-com2bis) e [2-ter, del decreto-legge 19 settembre 1992, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384~art1-com2ter), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 438](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-14;438).  
+2.
+
+Alla pubblicazione dei posti previsti dal comma 1 si procede con avviso nella Gazzetta Ufficiale della Repubblica italiana. Da tale pubblicazione decorre il termine di cui all'[articolo 4, comma 2, della legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374#art_4-com2), per la presentazione delle domande.
+
+## Art. 15.
+
+1.
+
+All'[articolo 11 della legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374#art_11), dopo il comma 4 e' aggiunto, in fine, il seguente: 
+ "4-bis. Le indennita' previste dal presente articolo sono cumulabili con i trattamenti pensionistici e di quiescenza comunque denominati".
+
+2.
+
+Ai giudici di pace che abbiano presentato la domanda di nomina entro il 15 ottobre 1993 non si applica la disposizione di cui all'[articolo 11, comma 16, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_11-com16). Il beneficio viene meno qualora il giudice di pace decada dall'incarico nel corso del primo quadriennio.
+
+3.
+
+Al personale che cessa dal servizio per assumere l'ufficio di giudice di pace non si applicano le disposizioni di cui all'[articolo 1, commi 2-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384#art_1-com2bis) e [2-ter, del decreto-legge 19 settembre 1992, n. 384](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-09-19;384#art_1-com2ter), convertito, con modificazioni, dalla [legge 14 novembre 1992, n. 438](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-14;438).
 Il beneficio viene meno qualora il giudice di pace decada dall'incarico entro i termini previsti dalle disposizioni innanzi indicate.
 
-Art. 16
--------
+## Art. 16.
 
-1. Dopo il [comma 5-bis dell'articolo 6 della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art6-com5bis), e' aggiunto, in fine, il seguente:   
-"5-ter. Il Ministro di grazia e giustizia e il Consiglio superiore della magistratura organizzano corsi di specializzazione professionale, di durata non inferiore a tre mesi, per i giudici di pace nominati in sede di prima applicazione della legge, nei limiti di disponibilita' di bilancio".
+1.
 
-Art. 17
--------
+Dopo il [comma 5-bis dell'articolo 6 della legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374#art_6-com5bis), e' aggiunto, in fine, il seguente: 
+ "5-ter. Il Ministro di grazia e giustizia e il Consiglio superiore della magistratura organizzano corsi di specializzazione professionale, di durata non inferiore a tre mesi, per i giudici di pace nominati in sede di prima applicazione della legge, nei limiti di disponibilita' di bilancio".
 
-1. I provvedimenti relativi al personale di cui all'[articolo 12 della legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374~art12), sono adottati in modo che tale personale prenda servizio nel periodo compreso tra il 20 ed il 30 ottobre 1994.
+## Art. 17.
 
-Art. 18
--------
+1.
 
-1. In deroga a quanto previsto dall'[articolo 3, comma 22, della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art3-com22), il Ministro di grazia e giustizia e' autorizzato, sino al 31 dicembre 1996, a procedere alla copertura dei posti vacanti nelle dotazioni organiche del personale delle cancellerie e segreterie giudiziarie e degli uffici notificazioni e protesti, utilizzando le graduatorie dei concorsi pubblicate a decorrere dal 1 gennaio 1994.
+I provvedimenti relativi al personale di cui all'[articolo 12 della legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374#art_12), sono adottati in modo che tale personale prenda servizio nel periodo compreso tra il 20 ed il 30 ottobre 1994.
 
-2. In deroga a quanto previsto dall'[articolo 43 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art43), come sostituito dall'[articolo 20 del decreto legislativo 23 dicembre 1993, n. 546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-23;546~art20), per i trasferimenti di personale da operare ai fini della copertura degli organici degli uffici del giudice di pace in sede di prima applicazione della [legge 21 novembre 1991, n. 374](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374), e comunque non oltre dodici mesi dalla entrata in funzione degli uffici stessi, si prescinde dai requisiti temporali di permanenza nella sede di prima destinazione.
+## Art. 18.
 
-Art. 19
--------
+1.
 
-1. L'elencazione dei comuni, sul cui territorio hanno giurisdizione il tribunale ordinario e la pretura di Nola, contenuta nell'[articolo 1, comma 2, della legge 11 febbraio 1992, n. 125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-11;125~art1-com2), deve intendersi comprensiva del comune di Massa di Somma gia' frazione del comune di Cercola. Il Ministro di grazia e giustizia e' autorizzato ad apportare le conseguenti variazioni alle tabelle A e B annesse al [regio decreto 30 gennaio 1941, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), come sostituite dalle tabelle A e B annesse alla [legge 1 febbraio 1989, n. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-01;30).
+In deroga a quanto previsto dall'[articolo 3, comma 22, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_3-com22), il Ministro di grazia e giustizia e' autorizzato, sino al 31 dicembre 1996, a procedere alla copertura dei posti vacanti nelle dotazioni organiche del personale delle cancellerie e segreterie giudiziarie e degli uffici notificazioni e protesti, utilizzando le graduatorie dei concorsi pubblicate a decorrere dal 1 gennaio 1994.
 
-2. Le disposizioni di cui agli [articoli 3 delle leggi 11 febbraio 1992, n. 125, n. 126 e n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-11;127~art3), relative alla devoluzione degli affari civili e penali pendenti alla data di inizio di funzionamento degli uffici giudiziari di cui all'articolo 1 delle leggi stesse, devono intendersi nel senso che restano di competenza della pretura circondariale di Napoli e della pretura circondariale di Salerno e sono trattati nella sede del capoluogo i procedimenti penali per i quali, alla data predetta, era stato dichiarato aperto il dibattimento e le cause civili che erano passate in decisione a tale data, anche se trattati presso uffici giudiziari gia' costituenti sezioni distaccate della pretura circondariale di Napoli e di quella di Salerno.
+2.
 
-Art. 20
--------
+In deroga a quanto previsto dall'[articolo 43 del decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come sostituito dall'[articolo 20 del decreto legislativo 23 dicembre 1993, n. 546](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-12-23;546#art_20), per i trasferimenti di personale da operare ai fini della copertura degli organici degli uffici del giudice di pace in sede di prima applicazione della [legge 21 novembre 1991, n. 374](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-11-21;374), e comunque non oltre dodici mesi dalla entrata in funzione degli uffici stessi, si prescinde dai requisiti temporali di permanenza nella sede di prima destinazione.
 
-1. Le disposizioni del presente decreto sostituiscono quelle del [decreto-legge 18 giugno 1994, n. 380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-06-18;380).
+## Art. 19.
 
-Art. 21
--------
+1.
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+L'elencazione dei comuni, sul cui territorio hanno giurisdizione il tribunale ordinario e la pretura di Nola, contenuta nell'[articolo 1, comma 2, della legge 11 febbraio 1992, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-11;125#art_1-com2), deve intendersi comprensiva del comune di Massa di Somma gia' frazione del comune di Cercola. Il Ministro di grazia e giustizia e' autorizzato ad apportare le conseguenti variazioni alle tabelle A e B annesse al [regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12), come sostituite dalle tabelle A e B annesse alla [legge 1 febbraio 1989, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-01;30).
+
+2.
+
+Le disposizioni di cui agli [articoli 3 delle leggi 11 febbraio 1992, n. 125, n. 126 e n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-11;127#art_3), relative alla devoluzione degli affari civili e penali pendenti alla data di inizio di funzionamento degli uffici giudiziari di cui all'articolo 1 delle leggi stesse, devono intendersi nel senso che restano di competenza della pretura circondariale di Napoli e della pretura circondariale di Salerno e sono trattati nella sede del capoluogo i procedimenti penali per i quali, alla data predetta, era stato dichiarato aperto il dibattimento e le cause civili che erano passate in decisione a tale data, anche se trattati presso uffici giudiziari gia' costituenti sezioni distaccate della pretura circondariale di Napoli e di quella di Salerno.
+
+## Art. 20.
+
+1.
+
+Le disposizioni del presente decreto sostituiscono quelle del [decreto-legge 18 giugno 1994, n. 380](Modificazioni%20delle%20leggi%2021%20novembre%201991%20n.%20374%20istitutiva%20del%20giudice%20di%20pace%20e%2026%20novembre%201990%20n.%20353%20concernente%20provvedimenti%20urgenti%20per%20il%20processo%20civile_4.md).
+
+## Art. 21.
+
+1.
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 agosto 1994
+Dato a Roma, addi' 8 agosto 1994
 
-SCALFARO
-
-BERLUSCONI, Presidente del Consiglio dei Ministri
-
-BIONDI, Ministro di grazia e giustizia
-
-Visto, il Guardasigilli: BIONDI
+SCALFARO BERLUSCONI, Presidente del Consiglio dei Ministri BIONDI, Ministro di grazia e giustizia Visto, il Guardasigilli: BIONDI

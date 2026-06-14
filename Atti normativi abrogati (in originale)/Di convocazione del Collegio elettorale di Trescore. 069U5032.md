@@ -1,16 +1,14 @@
-REGIO DECRETO 26 aprile 1869 n. 5032
-
-
-REGIO DECRETO 26 aprile 1869 n. 5032
-====================================
-
-Di convocazione del Collegio elettorale di Trescore. (069U5032)
----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/05/1869
+---
+tipo: REGIO DECRETO
+numero: 5032
+data: 1869-04-26
+titolo: "Di convocazione del Collegio elettorale di Trescore. (069U5032)"
+urn: urn:nir:stato:regio.decreto:1869-04-26;5032
+codice_redazionale: 069U5032
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,31 +18,24 @@ Veduto il Messaggio in dati del 21 aprile, col quale l'Ufficio di Presidenza del
 
 Veduto l'articolo 63 della Legge per le elezioni politiche 17 dicembre 1860, n. 4513;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Collegio elettorale di Trescore, n. 62, e' convocato pel giorno 23 maggio, affinche' proceda alla elezione del proprio Deputato.   
-  
-Occorrendo una seconda votazione, essa avra' luogo il giorno 30 stesso mese.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 26 aprile 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 5 maggio 1869   
-  
-Reg. 46 Atti del Governo a c. 166. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-G. Cantelli.   
-  
+Il Collegio elettorale di Trescore, n. 62, e' convocato pel giorno 23 maggio, affinche' proceda alla elezione del proprio Deputato. 
+ 
+ Occorrendo una seconda votazione, essa avra' luogo il giorno 30 stesso mese. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 26 aprile 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 5 maggio 1869 
+ 
+ Reg. 46 Atti del Governo a c. 166. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ G. Cantelli.

@@ -1,16 +1,14 @@
-REGIO DECRETO 10 marzo 1938 n. 444
-
-
-REGIO DECRETO 10 marzo 1938 n. 444
-==================================
-
-Modificazioni al R. Decreto 3 aprile 1930-VIII, n. 437, sulla composizione del Consiglio superiore coloniale. (038U0444)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/12/1937
+---
+tipo: REGIO DECRETO
+numero: 444
+data: 1938-03-10
+titolo: "Modificazioni al R. Decreto 3 aprile 1930-VIII, n. 437, sulla composizione del Consiglio superiore coloniale. (038U0444)"
+urn: urn:nir:stato:regio.decreto:1938-03-10;444
+codice_redazionale: 038U0444
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,39 +24,28 @@ Udito il parere del Consiglio di Stato;
 
 Sentito Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per l'Africa Italiana; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per l'Africa Italiana; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il n. 3 della disposizione contenuta nell'art. 1 del R. decreto 3 aprile 1930-VIII, n. 437, e' sostituito dal seguente: 
+ 
+ « 3° del presidente o del vice presidente dell'Istituto Fascista dell'Africa Italiana».
 
-  
-  
-Il n. 3 della disposizione contenuta nell'art. 1 del R. decreto 3 aprile 1930-VIII, n. 437, e' sostituito dal seguente:   
-  
-« 3° del presidente o del vice presidente dell'Istituto Fascista dell'Africa Italiana».   
-  
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto ha vigore dal 14 dicembre 1937-XVI.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addl 10 marzo 1938 - - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 5 maggio 1938 - Anno XVI   
-  
-Atti del Governo, registro 397, foglio 12. - MANCINI.   
+Il presente decreto ha vigore dal 14 dicembre 1937-XVI. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addl 10 marzo 1938 - - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 5 maggio 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 397, foglio 12. - MANCINI.

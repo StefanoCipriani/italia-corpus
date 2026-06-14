@@ -1,22 +1,19 @@
-REGIO DECRETO 05 maggio 1895 n. 314
+---
+tipo: REGIO DECRETO
+numero: 314
+data: 1895-05-05
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0314)"
+urn: urn:nir:stato:regio.decreto:1895-05-05;314
+codice_redazionale: 095U0314
+vigente: true
+---
 
-
-REGIO DECRETO 05 maggio 1895 n. 314
-===================================
-
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0314)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/05/1895
-
-Art. 1
-------
+## Art. 1.
 
 Colla data del 5 maggio
 
-1895. 
-  
-  
-N. 314. Il Comune di Castelvenere e' aggregato alla Sezione elettorale di S. Salvatore Telesino, del Collegio di Cerreto Sannita.   
-  
-Il Comune di Tocco Caudio e' aggregato alla Sezione elettorale di Cantano, ed il Comune di Limatola alla Sezione elettorale di Sant'Agata dei Goti, del Collegio di Montesarchio.
+1895.
+
+N. 314. Il Comune di Castelvenere e' aggregato alla Sezione elettorale di S. Salvatore Telesino, del Collegio di Cerreto Sannita. 
+ 
+ Il Comune di Tocco Caudio e' aggregato alla Sezione elettorale di Cantano, ed il Comune di Limatola alla Sezione elettorale di Sant'Agata dei Goti, del Collegio di Montesarchio.

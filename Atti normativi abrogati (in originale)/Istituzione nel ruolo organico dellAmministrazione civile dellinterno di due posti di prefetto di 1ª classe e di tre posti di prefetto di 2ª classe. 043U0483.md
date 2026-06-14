@@ -1,16 +1,14 @@
-REGIO DECRETO 12 aprile 1943 n. 483
-
-
-REGIO DECRETO 12 aprile 1943 n. 483
-===================================
-
-Istituzione nel ruolo organico dell'Amministrazione civile dell'interno di due posti di prefetto di 1ª classe e di tre posti di prefetto di 2ª classe. (043U0483)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/07/1943
+---
+tipo: REGIO DECRETO
+numero: 483
+data: 1943-04-12
+titolo: "Istituzione nel ruolo organico dell'Amministrazione civile dell'interno di due posti di prefetto di 1ª classe e di tre posti di prefetto di 2ª classe. (043U0483)"
+urn: urn:nir:stato:regio.decreto:1943-04-12;483
+codice_redazionale: 043U0483
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,28 +26,22 @@ Udito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro Segretario di Stato per l'interno, d'intesa col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro Segretario di Stato per l'interno, d'intesa col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nella tabella A dell'allegato 1° alla legge 16 giugno 1940-XVIII, n. 721, modificata dai Regi decreti 14 novembre 1941-XX, n. 1355, e 18 ottobre 1942-XX, n. 1274, sono aumentati due posti di prefetto di 1ª classe (grado 3°, gruppo A) e tre posti di prefetto di 2ª classe (grado 4°, gruppo A) con effetto dal giorno 1° febbraio 1943-XXI.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare:   
-  
-Dato a Roma, addi' 12 aprile 1943-XXI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - ACERBO   
-  
-Visto, il Guardasigilli: De Marsico   
-  
-Registrato alla Corte del conti, addi' 16 giugno 1943-XXI   
-  
-Atti del Governo, registro 458, foglio 60. - MANCINI   
+Nella tabella A dell'allegato 1° alla legge 16 giugno 1940-XVIII, n. 721, modificata dai Regi decreti 14 novembre 1941-XX, n. 1355, e 18 ottobre 1942-XX, n. 1274, sono aumentati due posti di prefetto di 1ª classe (grado 3°, gruppo A) e tre posti di prefetto di 2ª classe (grado 4°, gruppo A) con effetto dal giorno 1° febbraio 1943-XXI. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare: 
+ 
+ Dato a Roma, addi' 12 aprile 1943-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - ACERBO 
+ 
+ Visto, il Guardasigilli: De Marsico 
+ 
+ Registrato alla Corte del conti, addi' 16 giugno 1943-XXI 
+ 
+ Atti del Governo, registro 458, foglio 60. - MANCINI

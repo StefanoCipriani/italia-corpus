@@ -1,16 +1,14 @@
-REGIO DECRETO 26 ottobre 1940 n. 1718
-
-
-REGIO DECRETO 26 ottobre 1940 n. 1718
-=====================================
-
-Chiusura a tutti gli effetti di legge della gestione liquidatrice del Sindacato infortuni «Cisalpino Adriatico» con sede in Venezia. (040U1718)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/01/1941
+---
+tipo: REGIO DECRETO
+numero: 1718
+data: 1940-10-26
+titolo: "Chiusura a tutti gli effetti di legge della gestione liquidatrice del Sindacato infortuni «Cisalpino Adriatico» con sede in Venezia. (040U1718)"
+urn: urn:nir:stato:regio.decreto:1940-10-26;1718
+codice_redazionale: 040U1718
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,38 +16,30 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Veduto il [R. decreto-legge 23 marzo 1933, n. 264](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-23;264), convertito nella [legge 29 giugno 1933, n. 860](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1933-06-29;860), concernente l'unificazione degli istituti per l'assicurazione obbligatoria contro gli infortuni degli operai sul lavoro;
+Veduto il [R. decreto-legge 23 marzo 1933, n. 264](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-23;264), convertito nella [legge 29 giugno 1933, n. 860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1933-06-29;860), concernente l'unificazione degli istituti per l'assicurazione obbligatoria contro gli infortuni degli operai sul lavoro;
 
-Veduto il [R. decreto 29 maggio 1933, n. 516](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-05-29;516), che detta le norme per la liquidazione dei Sindacati di assicurazione mutua contro gli infortuni sul lavoro;
+Veduto il [R. decreto 29 maggio 1933, n. 516](Norme%20per%20la%20liquidazione%20dei%20Sindacati%20di%20assicurazione%20mutua%20contro%20gli%20infortuni%20sul%20lavoro.%20033U0516.md), che detta le norme per la liquidazione dei Sindacati di assicurazione mutua contro gli infortuni sul lavoro;
 
 Veduto il R. decreto 6 luglio 1933-XI, con il quale fu sciolto e messo in liquidazione il Sindacato infortuni «Cisalpino Adriatico» con sede in Venezia;
 
 Ritenuto che, a seguito dell'approvazione del rendiconto finale della gestione liquidatrice, il liquidatore ha adempiuto alle disposizioni impartitegli relativamente alla destinazione del residuo attivo ed alla conservazione degli archivi e che pertanto la gestione stessa puo' ritenersi definitivamente esauranrita;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le corporazioni; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le corporazioni; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' dichiarata chiusa a tutti gli effetti di legge la gestione liquidatrice del Sindacato infortuni «Cisalpino Adriatico» con sede in Venezia, disposta con il Regio decreto 6 luglio 1933-XI.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 26 ottobre 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-RICCI   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 24 dicembre 1940-XIX   
-  
-Atti dei Governo, registro 428, foglio 79. - MANCINI   
-  
-  
+E' dichiarata chiusa a tutti gli effetti di legge la gestione liquidatrice del Sindacato infortuni «Cisalpino Adriatico» con sede in Venezia, disposta con il Regio decreto 6 luglio 1933-XI. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 26 ottobre 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ RICCI 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 24 dicembre 1940-XIX 
+ 
+ Atti dei Governo, registro 428, foglio 79. - MANCINI

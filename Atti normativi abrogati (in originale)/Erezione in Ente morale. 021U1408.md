@@ -1,17 +1,17 @@
-REGIO DECRETO 29 settembre 1921 n. 1408
+---
+tipo: REGIO DECRETO
+numero: 1408
+data: 1921-09-29
+titolo: "Erezione in Ente morale. (021U1408)"
+urn: urn:nir:stato:regio.decreto:1921-09-29;1408
+codice_redazionale: 021U1408
+vigente: true
+---
 
-
-REGIO DECRETO 29 settembre 1921 n. 1408
-=======================================
-
-Erezione in Ente morale. (021U1408)
------------------------------------
-
-Entrata in vigore del provvedimento: 10/11/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1408. Regio decreto 29 settembre 1921, col quale, sulla proposta del ministro per il lavoro e la previdenza sociale, il Consorzio delle Cooperative autonome della provincia di Treviso, con sede nel comune stesso, viene eretto in ente morale e ne e' approvato lo statuto organico.
+1408.
+
+Regio decreto 29 settembre 1921, col quale, sulla proposta del ministro per il lavoro e la previdenza sociale, il Consorzio delle Cooperative autonome della provincia di Treviso, con sede nel comune stesso, viene eretto in ente morale e ne e' approvato lo statuto organico.

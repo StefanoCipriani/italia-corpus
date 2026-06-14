@@ -1,19 +1,15 @@
-REGIO DECRETO 30 ottobre 1906 n. CCCCLXVIII
+---
+tipo: REGIO DECRETO
+numero: CCCCLXVIII
+data: 1906-10-30
+titolo: "Erezione in ente morale. (0600468R)"
+urn: urn:nir:stato:regio.decreto:1906-10-30;468
+codice_redazionale: 0600468R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 ottobre 1906 n. CCCCLXVIII
-===========================================
-
-Erezione in ente morale. (0600468R)
------------------------------------
-
-Entrata in vigore del provvedimento: 24/01/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCCLXVIII (Dato a San Rossore, il 30 ottobre 1906), col quale l'opera pia «Alpi Gaetano» di Vigonovo e' eretta in ente morale e ne e' approvato lo statuto organico.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCCLXVIII (Dato a San Rossore, il 30 ottobre 1906), col quale l'opera pia «Alpi Gaetano» di Vigonovo e' eretta in ente morale e ne e' approvato lo statuto organico.

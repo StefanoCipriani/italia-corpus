@@ -1,20 +1,17 @@
-REGIO DECRETO 25 agosto 1861 n. CXXXIII
+---
+tipo: REGIO DECRETO
+numero: CXXXIII
+data: 1861-08-25
+titolo: "Che approva il regolamento di polizia rurale pel Comune di Chiaramonte. (6100133R)"
+urn: urn:nir:stato:regio.decreto:1861-08-25;133
+codice_redazionale: 6100133R
+vigente: true
+---
 
-
-REGIO DECRETO 25 agosto 1861 n. CXXXIII
-=======================================
-
-Che approva il regolamento di polizia rurale pel Comune di Chiaramonte. (6100133R)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/08/1861
-
-Art. 1
-------
+## Art. 1.
 
 Che approva il regolamento di polizia rurale deliberato dalla Comunita' di Chiaramonte (Provincia di Sassari) con ordinato del 25 giugno
 
-1861. 
-  
-  
+1861.
+
 Torino 25 agosto 1861

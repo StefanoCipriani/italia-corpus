@@ -1,16 +1,14 @@
-REGIO DECRETO 14 luglio 1937 n. 1347
-
-
-REGIO DECRETO 14 luglio 1937 n. 1347
-====================================
-
-Modificazione dell'articolo 35 dello statuto della Societa' italiana autori ed editori. (037U1347)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/08/1937
+---
+tipo: REGIO DECRETO
+numero: 1347
+data: 1937-07-14
+titolo: "Modificazione dell'articolo 35 dello statuto della Societa' italiana autori ed editori. (037U1347)"
+urn: urn:nir:stato:regio.decreto:1937-07-14;1347
+codice_redazionale: 037U1347
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,25 +24,19 @@ Ritenuta la necessita' di prorogare al 31 luglio 1938-XVI il termine previsto da
 
 Udito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la cultura popolare; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la cultura popolare; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La disposizione contenuta nel primo comma dell'art. 35 dello statuto sociale della Societa' italiana autori ed editori, approvato con [R. decreto 30 marzo 1936, n. 636](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-03-30;636), e' sostituita dalla seguente:   
-«Entro il 31 luglio 1938-XVI saranno emanati il regolamento generale della Societa' e il regolamento del personale».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 14 luglio 1937 - Anno XV,   
-  
-VITTORIO EMANUELE.   
-  
-Visto, il Guardasigilli: Solmi.   
-Registrato alla Corte dei conti, addi' 30 luglio 1937 - Anno XV   
-Atti del Governo, registro 387, foglio 163. - Mancini.   
+La disposizione contenuta nel primo comma dell'art. 35 dello statuto sociale della Societa' italiana autori ed editori, approvato con [R. decreto 30 marzo 1936, n. 636](Nuovo%20statuto%20della%20Societa%20italiana%20degli%20autori%20ed%20editori.%20036U0636.md), e' sostituita dalla seguente:  
+ «Entro il 31 luglio 1938-XVI saranno emanati il regolamento generale della Societa' e il regolamento del personale». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 14 luglio 1937 - Anno XV, 
+ 
+ VITTORIO EMANUELE. 
+ 
+Visto, il Guardasigilli: Solmi. 
+ Registrato alla Corte dei conti, addi' 30 luglio 1937 - Anno XV 
+ Atti del Governo, registro 387, foglio 163. - Mancini.

@@ -1,16 +1,14 @@
-REGIO DECRETO 31 agosto 1887 n. 5006
-
-
-REGIO DECRETO 31 agosto 1887 n. 5006
-====================================
-
-Che dichiara governativo l'Istituto tecnico provinciale Salvatore Calvino di Trapani. (087U5006)
-------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/11/1887
+---
+tipo: REGIO DECRETO
+numero: 5006
+data: 1887-08-31
+titolo: "Che dichiara governativo l'Istituto tecnico provinciale Salvatore Calvino di Trapani. (087U5006)"
+urn: urn:nir:stato:regio.decreto:1887-08-31;5006
+codice_redazionale: 087U5006
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,43 +20,28 @@ Vista la legge 13 novembre 1859 sulla pubblica istruzione;
 
 Visto il regolamento per gli Istituti tecnici approvato con R. decreto 21 giugno 1885;
 
-Vista la [legge 28 giugno 1887, n. 4619](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-06-28;4619), che approva il bilancio passivo del Ministero della Pubblica Istruzione per l'esercizio finanziario 1887-88;
+Vista la [legge 28 giugno 1887, n. 4619](Col%20quale%20viene%20approvato%20lannesso%20Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellIstruzione%20pubblica%20087U4619.md), che approva il bilancio passivo del Ministero della Pubblica Istruzione per l'esercizio finanziario 1887-88;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'Istituto tecnico provinciale Salvatore Calvino di Trapani e' dichiarato governativo dal 1° ottobre 1887 con le sezioni fisico-matematica, agrimensura e amministrazione e ragioneria pubblica.
 
-  
-  
-L'Istituto tecnico provinciale Salvatore Calvino di Trapani e' dichiarato governativo dal 1° ottobre 1887 con le sezioni fisico-matematica, agrimensura e amministrazione e ragioneria pubblica.   
-  
+## Art. 2.
 
-Art. 2
-------
+Il ruolo organico degli insegnanti e gli stipendi ed assegni per il personale insegnante e dirigente dell'Istituto saranno fissati con altro Nostro decreto.
 
-  
-  
-Il ruolo organico degli insegnanti e gli stipendi ed assegni per il personale insegnante e dirigente dell'Istituto saranno fissati con altro Nostro decreto.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Alla spesa per gli stipendi ed assegni sovraccennati sara' provveduto dal 1° ottobre 1887 coi fondi appositamente inscritti al capitolo 41 del bilancio passivo del Ministero di Pubblica Istruzione per l'esercizio finanziario 1887-88 e per gli esercizi successivi coi fondi che saranno a questo titolo inscritti in bilancio ai capitoli corrispondenti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 31 agosto 1887.   
-  
-UMBERTO.   
-  
-COPPINO.   
-  
-Visto, Il Guardasigilli: ZANARDELLI.   
-  
+Alla spesa per gli stipendi ed assegni sovraccennati sara' provveduto dal 1° ottobre 1887 coi fondi appositamente inscritti al capitolo 41 del bilancio passivo del Ministero di Pubblica Istruzione per l'esercizio finanziario 1887-88 e per gli esercizi successivi coi fondi che saranno a questo titolo inscritti in bilancio ai capitoli corrispondenti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 31 agosto 1887. 
+ 
+ UMBERTO. 
+ 
+ COPPINO. 
+ 
+ Visto, Il Guardasigilli: ZANARDELLI.

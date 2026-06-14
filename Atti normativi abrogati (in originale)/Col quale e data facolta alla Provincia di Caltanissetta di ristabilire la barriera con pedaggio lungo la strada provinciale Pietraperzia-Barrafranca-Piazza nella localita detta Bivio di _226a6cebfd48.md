@@ -1,16 +1,14 @@
-REGIO DECRETO 13 settembre 1874 n. 2104
-
-
-REGIO DECRETO 13 settembre 1874 n. 2104
-=======================================
-
-Col quale e' data facolta' alla Provincia di Caltanissetta di ristabilire la barriera con pedaggio lungo la strada provinciale Pietraperzia-Barrafranca-Piazza nella localita' detta Bivio di Barrafranca. (074U2104)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/10/1874
+---
+tipo: REGIO DECRETO
+numero: 2104
+data: 1874-09-13
+titolo: "Col quale e' data facolta' alla Provincia di Caltanissetta di ristabilire la barriera con pedaggio lungo la strada provinciale Pietraperzia-Barrafranca-Piazza nella localita' detta Bivio di Barrafranca. (074U2104)"
+urn: urn:nir:stato:regio.decreto:1874-09-13;2104
+codice_redazionale: 074U2104
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,25 +22,18 @@ Che pero' non conoscendosi ancora precisamente la spesa sostenuta dalla provinci
 
 Sentito l'avviso del Consiglio Superiore dei Lavori Pubblici e del Consiglio di Stato;
 
-Veduto l'[art. 38 della legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art38), allegato F;
+Veduto l'[art. 38 della legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_38), allegato F;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' fatta facolta' alla provincia di Caltanissetta di ristabilire la barriera con pedaggio, gia' autorizzata col Nostro decreto 29 settembre 1867, lungo la strada provinciale Pietraperzia-Barrafranca-Piazza, nella localita' detta Bivio di Barrafranca, da riscuotersi tale pedaggio nei modi e nei limiti stabiliti dal decreto medesimo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, il 13 settembre 1874.   
-  
-VITTORIO EMANUELE.   
-  
-S. Spaventa.   
-  
+E' fatta facolta' alla provincia di Caltanissetta di ristabilire la barriera con pedaggio, gia' autorizzata col Nostro decreto 29 settembre 1867, lungo la strada provinciale Pietraperzia-Barrafranca-Piazza, nella localita' detta Bivio di Barrafranca, da riscuotersi tale pedaggio nei modi e nei limiti stabiliti dal decreto medesimo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, il 13 settembre 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ S. Spaventa.

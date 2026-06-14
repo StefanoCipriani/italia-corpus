@@ -1,16 +1,14 @@
-REGIO DECRETO 25 settembre 1888 n. 5886
-
-
-REGIO DECRETO 25 settembre 1888 n. 5886
-=======================================
-
-Col quale la R. scuola normale maschile di Lodi e' trasferita nella citta' di Milano. (088U5886)
-------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/02/1889
+---
+tipo: REGIO DECRETO
+numero: 5886
+data: 1888-09-25
+titolo: "Col quale la R. scuola normale maschile di Lodi e' trasferita nella citta' di Milano. (088U5886)"
+urn: urn:nir:stato:regio.decreto:1888-09-25;5886
+codice_redazionale: 088U5886
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,33 +22,22 @@ Veduto che per accordi interceduti tra il Ministero della Istruzione Pubblica, l
 
 Considerato altresi' l'opportunita' di dare alla Metropoli Lombarda una scuola di magistero maschile la quale completa la serie di quegli istituti che ivi provvedono alla istruzione popolare;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione;. Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione;. Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La R. Scuola Normale maschile di Lodi e' trasferita, a far tempo dal 1. ottobre prossimo venturo, nella citta' di Milano.
 
-  
-  
-La R. Scuola Normale maschile di Lodi e' trasferita, a far tempo dal 1. ottobre prossimo venturo, nella citta' di Milano.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il comune di Milano, assumera', in sostituzione di quello di Lodi, tutti gli oneri che ad esso derivano per effetto del trasferimento della detta scuola, quali sono determinati dalla Legge e dagli articoli 2, 7 e seguenti del precitato Regolamento del 21 giugno 1883.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 25 settembre 1888.   
-  
-UMBERTO.   
-  
-P. Boselli.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+Il comune di Milano, assumera', in sostituzione di quello di Lodi, tutti gli oneri che ad esso derivano per effetto del trasferimento della detta scuola, quali sono determinati dalla Legge e dagli articoli 2, 7 e seguenti del precitato Regolamento del 21 giugno 1883. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 25 settembre 1888. 
+ 
+ UMBERTO. 
+ 
+ P. Boselli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

@@ -1,16 +1,14 @@
-REGIO DECRETO 19 settembre 1866 n. 3211
-
-
-REGIO DECRETO 19 settembre 1866 n. 3211
-=======================================
-
-Col quale e' fatta una aggiunta al primo alinea del Reale Decreto 11 agosto 1866, n° 3173, concernente l'ordinamento del Banco di Napoli. (066U3211)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/10/1866
+---
+tipo: REGIO DECRETO
+numero: 3211
+data: 1866-09-19
+titolo: "Col quale e' fatta una aggiunta al primo alinea del Reale Decreto 11 agosto 1866, n° 3173, concernente l'ordinamento del Banco di Napoli. (066U3211)"
+urn: urn:nir:stato:regio.decreto:1866-09-19;3211
+codice_redazionale: 066U3211
+vigente: true
+---
 
 EUGENIO
--------
 
 PRINCIPE DI SAVOJA-CARIGNANO
 
@@ -26,30 +24,23 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto il Nostro Decreto 11 agosto 1866, n° 3173;
 
-Sulla
------
+Sulla proposizione del Ministro per l'Agricoltura, l'Industria ed il Commercio, d'accordo con quello delle Finanze; Abbiamo decretato e decretiamo:
 
-proposizione del Ministro per l'Agricoltura, l'Industria ed il Commercio, d'accordo con quello delle Finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nel primo alinea del Nostro Decreto 11 agosto 1866, n° 3173, dopo le parole del Presidente della Camera di Commercio, sono aggiunte queste e di quattro Membri eletti dalla Camera stessa.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 19 settembre 1866.   
-  
-EUGENIO DI SAVOJA   
-  
-Registrato alla Corte dei conti addi' 27 settembre 1866   
-  
-Reg.° 57 Atti del Governo a c. 119. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Borgatti.   
-  
-Cordova.   
-A. Scialoja.   
-  
+Nel primo alinea del Nostro Decreto 11 agosto 1866, n° 3173, dopo le parole del Presidente della Camera di Commercio, sono aggiunte queste e di quattro Membri eletti dalla Camera stessa. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 19 settembre 1866. 
+ 
+ EUGENIO DI SAVOJA 
+ 
+ Registrato alla Corte dei conti addi' 27 settembre 1866 
+ 
+ Reg.° 57 Atti del Governo a c. 119. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ Cordova. 
+ A. Scialoja.

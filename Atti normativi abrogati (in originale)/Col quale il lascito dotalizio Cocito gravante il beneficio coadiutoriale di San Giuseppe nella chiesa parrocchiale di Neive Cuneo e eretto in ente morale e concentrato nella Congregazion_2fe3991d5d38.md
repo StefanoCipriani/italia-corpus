@@ -1,19 +1,15 @@
-REGIO DECRETO 21 aprile 1910 n. CLXVII
+---
+tipo: REGIO DECRETO
+numero: CLXVII
+data: 1910-04-21
+titolo: "Col quale il lascito dotalizio Cocito, gravante il beneficio coadiutoriale di San Giuseppe nella chiesa parrocchiale di Neive (Cuneo) e' eretto in ente morale e concentrato nella Congregazione di carita' locale. (1000167R)"
+urn: urn:nir:stato:regio.decreto:1910-04-21;167
+codice_redazionale: 1000167R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 aprile 1910 n. CLXVII
-======================================
-
-Col quale il lascito dotalizio Cocito, gravante il beneficio coadiutoriale di San Giuseppe nella chiesa parrocchiale di Neive (Cuneo) e' eretto in ente morale e concentrato nella Congregazione di carita' locale. (1000167R)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/06/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CLXVII (Dato a Roma, il 21 aprile 1910), col quale il lascito dotalizio Cocito, gravante il beneficio coadiutoriale di San Giuseppe nella chiesa parrocchiale di Neive (Cuneo) e' eretto in ente morale e concentrato nella Congregazione di carita' locale.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CLXVII (Dato a Roma, il 21 aprile 1910), col quale il lascito dotalizio Cocito, gravante il beneficio coadiutoriale di San Giuseppe nella chiesa parrocchiale di Neive (Cuneo) e' eretto in ente morale e concentrato nella Congregazione di carita' locale.

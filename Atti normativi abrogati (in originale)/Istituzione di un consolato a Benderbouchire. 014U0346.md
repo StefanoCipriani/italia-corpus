@@ -1,19 +1,15 @@
-REGIO DECRETO 24 aprile 1914 n. 346
+---
+tipo: REGIO DECRETO
+numero: 346
+data: 1914-04-24
+titolo: "Istituzione di un consolato a Benderbouchire. (014U0346)"
+urn: urn:nir:stato:regio.decreto:1914-04-24;346
+codice_redazionale: 014U0346
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 aprile 1914 n. 346
-===================================
-
-Istituzione di un consolato a Benderbouchire. (014U0346)
---------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/05/1914
-
-Art. 1
-------
-
-  
-346   
-  
-Regio Decreto 24 aprile 1914, col quale, sulla proposta del ministro degli affari esteri, e' istituito un consolato di seconda categoria in Benderbouchire, con giurisdizione sulla citta' stessa e distretto.   
-  
+346 
+ 
+ Regio Decreto 24 aprile 1914, col quale, sulla proposta del ministro degli affari esteri, e' istituito un consolato di seconda categoria in Benderbouchire, con giurisdizione sulla citta' stessa e distretto.

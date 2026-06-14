@@ -1,16 +1,14 @@
-REGIO DECRETO 25 agosto 1899 n. 375
-
-
-REGIO DECRETO 25 agosto 1899 n. 375
-===================================
-
-Che approva il nuovo Regolamento sul servizio delle Intendenze in tempo di guerra. (099U0375)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/11/1899
+---
+tipo: REGIO DECRETO
+numero: 375
+data: 1899-08-25
+titolo: "Che approva il nuovo Regolamento sul servizio delle Intendenze in tempo di guerra. (099U0375)"
+urn: urn:nir:stato:regio.decreto:1899-08-25;375
+codice_redazionale: 099U0375
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,29 +22,22 @@ Visto il R. decreto del 16 settembre 1896, col quale venne approvato un nuovo Re
 
 Servizio delle truppe, - il quale sostituisce alcune parti del predetto Regolamento approvato col R. decreto 26 novembre 1882;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvato l'annesso Regolamento, d'ordine Nostro firmato dal Ministro della Guerra, comprendente le Norme generali per il servizio delle Intendenze e l'Istruzione intorno agli atti di morte, di nascita ed ai testamenti in guerra, che fa parte del Regolamento di servizio in guerra - Parte II: Servizio delle Intendenze, - e che sostituisce i libri I e II del sopraindicato Regolamento sul servizio delle Intendenze, approvato con R. decreto del 14 gennaio 1881, ed i capi I e II dell'appendice II annessa alla sopracitata Parte I del Regolamento di servizio in guerra - Servizio delle truppe, approvato con R. decreto 26 novembre 1882.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 25 agosto 1899.   
-  
-UMBERTO.   
-  
-G. Mirri.   
-  
-Visto, Il Guardasigilli: A. Bonasi.   
-  
----------------   
-  
-N. B. Il Regolamento e' integralmente inserito nella Raccolta ufficiale degli atti del Governo.   
-  
+E' approvato l'annesso Regolamento, d'ordine Nostro firmato dal Ministro della Guerra, comprendente le Norme generali per il servizio delle Intendenze e l'Istruzione intorno agli atti di morte, di nascita ed ai testamenti in guerra, che fa parte del Regolamento di servizio in guerra - Parte II: Servizio delle Intendenze, - e che sostituisce i libri I e II del sopraindicato Regolamento sul servizio delle Intendenze, approvato con R. decreto del 14 gennaio 1881, ed i capi I e II dell'appendice II annessa alla sopracitata Parte I del Regolamento di servizio in guerra - Servizio delle truppe, approvato con R. decreto 26 novembre 1882. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 25 agosto 1899. 
+ 
+ UMBERTO. 
+ 
+ G. Mirri. 
+ 
+ Visto, Il Guardasigilli: A. Bonasi. 
+ 
+ --------------- 
+ 
+ N. B. Il Regolamento e' integralmente inserito nella Raccolta ufficiale degli atti del Governo.

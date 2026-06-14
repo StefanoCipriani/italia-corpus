@@ -1,51 +1,45 @@
-REGIO DECRETO 06 agosto 1926 n. 1640
-
-
-REGIO DECRETO 06 agosto 1926 n. 1640
-====================================
-
-Aumento del prezzo massimo di vendita al pubblico dei tabacchi lavorati esteri. (026U1640)
-------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/10/1926
+---
+tipo: REGIO DECRETO
+numero: 1640
+data: 1926-08-06
+titolo: "Aumento del prezzo massimo di vendita al pubblico dei tabacchi lavorati esteri. (026U1640)"
+urn: urn:nir:stato:regio.decreto:1926-08-06;1640
+codice_redazionale: 026U1640
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 2 della legge 21 aprile 1862, n. 563](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-04-21;563~art2);
+Visto l'[art. 2 della legge 21 aprile 1862, n. 563](Colla%20quale%20e%20approvata%20la%20Tariffa%20dei%20prezzi%20di%20privativa%20dei%20Sali%20e%20dei%20Tabacchi.%20062U0563.md);
 
-Visti i [Regi decreti n. 1267 del 13 agosto 1921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-08-13;1267), e [n. 3 del 1° gennaio 1926](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-01;3);
+Visti i [Regi decreti n. 1267 del 13 agosto 1921](Che%20autorizza%20il%20ministro%20delle%20finanze%20a%20stabilire%20i%20prezzi%20di%20vendita%20al%20pubblico%20di%20tutte%20le%20varieta%20di%20tabacchi%20lavorati%20esteri.%20021U1267.md), e [n. 3 del 1° gennaio 1926](Aumento%20del%20limite%20massimo%20di%20tariffa%20dei%20trinciati%20e%20delle%20sigarette%20estere.%20026U0003.md);
 
 Sentito il Consiglio dei Ministri;
 
 Su proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-Articolo unico
---------------
+## Articolo unico.
 
-  
-  
-Il Ministro per le finanze e' autorizzato ad elevare il prezzo massimo di vendita al pubblico dei trinciati, dei sigari e delle sigarette estere, nella misura qui appresso indicata: Trinciati: da Lit. 250 a Lit. 350 il kg.   
-  
-Sigari: da Lit. 3200 a Lit. 4000 il kg. e da Lit. 16 a Lit. 20 per ogni sigaro.   
-  
-Sigarette: da Lit. 1000 a Lit. 1500 il kg. e da Lit. 1 a Lit. 1.50 per ogni sigaretta.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 6 agosto 1926.   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Volpi.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 29 settembre 1926.   
-  
-Atti del Governo, registro 252, foglio 170. - Casati.   
-  
+Il Ministro per le finanze e' autorizzato ad elevare il prezzo massimo di vendita al pubblico dei trinciati, dei sigari e delle sigarette estere, nella misura qui appresso indicata: Trinciati: da Lit. 250 a Lit. 350 il kg. 
+ 
+ Sigari: da Lit. 3200 a Lit. 4000 il kg. e da Lit. 16 a Lit. 20 per ogni sigaro. 
+ 
+ Sigarette: da Lit. 1000 a Lit. 1500 il kg. e da Lit. 1 a Lit. 1.50 per ogni sigaretta. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 6 agosto 1926. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Volpi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 29 settembre 1926. 
+ 
+ Atti del Governo, registro 252, foglio 170. - Casati.

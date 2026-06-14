@@ -1,16 +1,14 @@
-REGIO DECRETO 27 giugno 1941 n. 831
-
-
-REGIO DECRETO 27 giugno 1941 n. 831
-===================================
-
-Approvazione della variante al piano regolatore, di Milano per l'apertura e sistemazione di una nuova via in prolungamento della via Giovanni Cena. (041U0831)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/09/1941
+---
+tipo: REGIO DECRETO
+numero: 831
+data: 1941-06-27
+titolo: "Approvazione della variante al piano regolatore, di Milano per l'apertura e sistemazione di una nuova via in prolungamento della via Giovanni Cena. (041U0831)"
+urn: urn:nir:stato:regio.decreto:1941-06-27;831
+codice_redazionale: 041U0831
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -48,41 +46,35 @@ Che pertanto il ricorso stesso e' da respingere in questa sede;
 
 Visto il voto n. 800 del 28 aprile 1941-XIX del Consiglio superiore dei lavori pubblici;
 
-Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md);
 
 Visto l'art. 4 del R. decreto-legge 21 giugno 1938-XVI, n. 1094, convertito nella, legge 5 gennaio 1939-XVII, n. 35;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Respinto il ricorso prodotto dalla ditta eredi Colombo, e' approvato, ai sensi e per gli effetti della citata legge 19 febbraio 1934-XII, n. 433, il piano particolareggiato per la apertura e sistemazione della nuova via di piano regolatore, in prolungamento della via Giovanni Cena in Milano, con variante al piano regolatore di massima.   
-  
-Detto piano particolareggiato e di variante, visto, d'ordine Nostro, dal Ministro proponente in una planimetria in iscala 1:2000 ed in un elenco descrittivo dei beni da espropriare e soggetti a contributo, in data 7 marzo 1940-XVIII, ed a firma dell'ing. G.  
-Baselli, sara' depositato all'Archivio di Stato.   
-  
-E' assegnato al comune di Milano il termine di anni tre dalla data di pubblicazione del presente decreto per compiere tanto le espropriazioni quanto i lavori occorrenti per la esecuzione del piano particolareggiato.   
-  
-Tutte le costruzioni e ricostruzioni, eseguite sia dai privati che dal Comune o suoi concessionari, per l'attuazione del presente piano particolareggiato, saranno esenti per venticinque anni dalla normale imposta sui fabbricati e dalle relative sovrimposte comunale e provinciale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 27 giugno 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - GORLA - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 20 agosto 1941-XIX   
-  
-Atti del Governo, registro 436, foglio 61. - MANCINI   
+Respinto il ricorso prodotto dalla ditta eredi Colombo, e' approvato, ai sensi e per gli effetti della citata legge 19 febbraio 1934-XII, n. 433, il piano particolareggiato per la apertura e sistemazione della nuova via di piano regolatore, in prolungamento della via Giovanni Cena in Milano, con variante al piano regolatore di massima. 
+ 
+ Detto piano particolareggiato e di variante, visto, d'ordine Nostro, dal Ministro proponente in una planimetria in iscala 1:2000 ed in un elenco descrittivo dei beni da espropriare e soggetti a contributo, in data 7 marzo 1940-XVIII, ed a firma dell'ing. G.
+Baselli, sara' depositato all'Archivio di Stato. 
+ 
+ E' assegnato al comune di Milano il termine di anni tre dalla data di pubblicazione del presente decreto per compiere tanto le espropriazioni quanto i lavori occorrenti per la esecuzione del piano particolareggiato. 
+ 
+ Tutte le costruzioni e ricostruzioni, eseguite sia dai privati che dal Comune o suoi concessionari, per l'attuazione del presente piano particolareggiato, saranno esenti per venticinque anni dalla normale imposta sui fabbricati e dalle relative sovrimposte comunale e provinciale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 27 giugno 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - GORLA - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 20 agosto 1941-XIX 
+ 
+ Atti del Governo, registro 436, foglio 61. - MANCINI

@@ -1,23 +1,20 @@
-REGIO DECRETO 31 marzo 1898 n. LXXXIX
+---
+tipo: REGIO DECRETO
+numero: LXXXIX
+data: 1898-03-31
+titolo: "Che pone in liquidazione la cassa di risparmio di Vallo della Lucania. (9800089R)"
+urn: urn:nir:stato:regio.decreto:1898-03-31;89
+codice_redazionale: 9800089R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 marzo 1898 n. LXXXIX
-=====================================
+Che pone in liquidazione la cassa di risparmio di Vallo della Lucania. - Firmato UMBERTO - Controfirmato F. Cocco-Ortu. - Visto G.
+Zanardelli. 
+ 
+ Registrato alla Corte dei conti addi' 9 aprile
 
-Che pone in liquidazione la cassa di risparmio di Vallo della Lucania. (9800089R)
----------------------------------------------------------------------------------
+1898.
 
-Entrata in vigore del provvedimento: 30/04/1898
-
-Art. 1
-------
-
-Che pone in liquidazione la cassa di risparmio di Vallo della Lucania. - Firmato UMBERTO - Controfirmato F. Cocco-Ortu. - Visto G.  
-Zanardelli.   
-  
-Registrato alla Corte dei conti addi' 9 aprile
-
-1898. 
-  
-  
 Reg. 215. Atti del Governo a f. 30.

@@ -1,16 +1,14 @@
-REGIO DECRETO 15 ottobre 1874 n. 2165
-
-
-REGIO DECRETO 15 ottobre 1874 n. 2165
-=====================================
-
-Col quale i comuni di Nepi e di Castel Sant'Elia sono distaccati dalla Sezione elettorale di Sutri e costituiti in Sezione separata del Collegio di Civitavecchia, con sede nel primo dei detti Comuni. (074U2165)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/11/1874
+---
+tipo: REGIO DECRETO
+numero: 2165
+data: 1874-10-15
+titolo: "Col quale i comuni di Nepi e di Castel Sant'Elia sono distaccati dalla Sezione elettorale di Sutri e costituiti in Sezione separata del Collegio di Civitavecchia, con sede nel primo dei detti Comuni. (074U2165)"
+urn: urn:nir:stato:regio.decreto:1874-10-15;2165
+codice_redazionale: 074U2165
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Nepi e di Castel Sant'Elia sono distaccati dalla sezione elettorale di Sutri e costituiti in sezione separata del Collegio di Civitavecchia n. 502, con sede nel primo dei detti comuni.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 15 ottobre 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
-  
+I comuni di Nepi e di Castel Sant'Elia sono distaccati dalla sezione elettorale di Sutri e costituiti in sezione separata del Collegio di Civitavecchia n. 502, con sede nel primo dei detti comuni. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 15 ottobre 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

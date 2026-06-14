@@ -1,16 +1,14 @@
-REGIO DECRETO 16 gennaio 1876 n. 2934
-
-
-REGIO DECRETO 16 gennaio 1876 n. 2934
-=====================================
-
-Concernente la riforma dei due conservatorii della Presentazione e di Santa Maria delle Grazie in Reggio di Calabria. (076U2934)
---------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/02/1876
+---
+tipo: REGIO DECRETO
+numero: 2934
+data: 1876-01-16
+titolo: "Concernente la riforma dei due conservatorii della Presentazione e di Santa Maria delle Grazie in Reggio di Calabria. (076U2934)"
+urn: urn:nir:stato:regio.decreto:1876-01-16;2934
+codice_redazionale: 076U2934
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,33 +24,22 @@ Viste le deliberazioni del Consiglio comunale di Reggio-Calabria in data del 15 
 
 Vista la deliberazione della Deputazione provinciale in data dell'11 febbraio 1875;
 
-Visto il [parere del Consiglio di Stato in data dell'11 giugno 1875](https://e-justice.europa.eu/ecli/ECLI::::);
+Visto il parere del Consiglio di Stato in data dell'11 giugno 1875;
 
-Vista
------
+Vista la legge 3 agosto 1862 sulle Opere pie, Abbiamo decretato e decretiamo:
 
-la legge 3 agosto 1862 sulle Opere pie, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I due Conservatorii della Presentazione, e di Santa Maria delle Grazie in Reggio-Calabria sono riuniti in un'unica Opera pia che assumera' il nome La Provvidenza.
 
-  
-  
-I due Conservatorii della Presentazione, e di Santa Maria delle Grazie in Reggio-Calabria sono riuniti in un'unica Opera pia che assumera' il nome La Provvidenza.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' approvato lo statuto organico della predetta Opera pia La Provvidenza in data del 28 ottobre 1875, composto di articoli trentadue, il quale sara' munito del visto del Nostro Ministro dell'Interno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 gennaio 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
+E' approvato lo statuto organico della predetta Opera pia La Provvidenza in data del 28 ottobre 1875, composto di articoli trentadue, il quale sara' munito del visto del Nostro Ministro dell'Interno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 gennaio 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

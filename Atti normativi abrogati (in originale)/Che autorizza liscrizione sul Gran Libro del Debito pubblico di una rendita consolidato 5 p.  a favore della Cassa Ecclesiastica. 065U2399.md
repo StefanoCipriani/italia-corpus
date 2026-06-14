@@ -1,16 +1,14 @@
-REGIO DECRETO 15 giugno 1865 n. 2399
-
-
-REGIO DECRETO 15 giugno 1865 n. 2399
-====================================
-
-Che autorizza l'iscrizione sul Gran Libro del Debito pubblico di una rendita consolidato 5 p. % a favore della Cassa Ecclesiastica. (065U2399)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/08/1865
+---
+tipo: REGIO DECRETO
+numero: 2399
+data: 1865-06-15
+titolo: "Che autorizza l'iscrizione sul Gran Libro del Debito pubblico di una rendita consolidato 5 p. % a favore della Cassa Ecclesiastica. (065U2399)"
+urn: urn:nir:stato:regio.decreto:1865-06-15;2399
+codice_redazionale: 065U2399
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,38 +24,27 @@ Volendo provvedere alle istanze della Cassa Ecclesiastica per un maggiore abbuon
 
 Sulla proposizione dei Nostri Ministri delle Finanze e di Grazia e Giustizia e dei Culti;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+Il Ministro delle Finanze e' autorizzato a far inscrivere sul Gran Libro del Debito pubblico dello Stato una rendita consolidato 5 p. % intestata a favore della Cassa Ecclesiastica dello Stato per L. 1,350,000 attribuibile per le antiche Provincie dello Stato, delle Marche e dell'Umbria in L. 550,000, e per le Provincie Napolitane L. 800,000, in acconto del corrispettivo dei beni gia' passati al Demanio dello Stato.
 
-  
-  
-Il Ministro delle Finanze e' autorizzato a far inscrivere sul Gran Libro del Debito pubblico dello Stato una rendita consolidato 5 p. % intestata a favore della Cassa Ecclesiastica dello Stato per L. 1,350,000 attribuibile per le antiche Provincie dello Stato, delle Marche e dell'Umbria in L. 550,000, e per le Provincie Napolitane L. 800,000, in acconto del corrispettivo dei beni gia' passati al Demanio dello Stato.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Pel servizio di esse rendite da inscriversi nel corrente semestre con decorrenza dal 1.° gennaio 1865 e' fatto sulla Tesoreria centrale l'annuo assegno di L. 1,350,000.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 15 giugno 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dai conti addi' 15 luglio 1865   
-  
-Reg.° 33 Atti del Governo a c. 33. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-Quintino Sella.   
-G. Vacca.   
-  
+Pel servizio di esse rendite da inscriversi nel corrente semestre con decorrenza dal 1.° gennaio 1865 e' fatto sulla Tesoreria centrale l'annuo assegno di L. 1,350,000. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 15 giugno 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dai conti addi' 15 luglio 1865 
+ 
+ Reg.° 33 Atti del Governo a c. 33. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ Quintino Sella. 
+ G. Vacca.

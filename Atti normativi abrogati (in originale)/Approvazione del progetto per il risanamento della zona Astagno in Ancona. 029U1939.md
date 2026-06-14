@@ -1,28 +1,26 @@
-REGIO DECRETO 10 ottobre 1929 n. 1939
-
-
-REGIO DECRETO 10 ottobre 1929 n. 1939
-=====================================
-
-Approvazione del progetto per il risanamento della zona Astagno, in Ancona. (029U1939)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/12/1929
+---
+tipo: REGIO DECRETO
+numero: 1939
+data: 1929-10-10
+titolo: "Approvazione del progetto per il risanamento della zona Astagno, in Ancona. (029U1939)"
+urn: urn:nir:stato:regio.decreto:1929-10-10;1939
+codice_redazionale: 029U1939
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduti gli atti prodotti dal podesta' del Comune di Ancona, diretti ad ottenere, a norma della [legge 27 giugno 1929, n. 1274](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-27;1274), la dichiarazione di pubblica utilita' delle opere contemplate nel progetto relativo al risanamento della zona Astagno in quella citta' e l'approvazione del progetto stesso;
+Veduti gli atti prodotti dal podesta' del Comune di Ancona, diretti ad ottenere, a norma della [legge 27 giugno 1929, n. 1274](Provvedimenti%20per%20il%20risanamento%20igienico%20della%20zona%20Astagno%20in%20Ancona.%20029U1274.md), la dichiarazione di pubblica utilita' delle opere contemplate nel progetto relativo al risanamento della zona Astagno in quella citta' e l'approvazione del progetto stesso;
 
 Veduto il progetto all'uopo redatto dall'ingegnere Luigi Battiati, vistato dal Genio civile di Ancona;
 
 Vedute le deliberazioni 22 settembre e 26 dicembre 1928, con le quali il podesta' di Ancona approvava il progetto anzidetto;
 
-Veduti gli atti delle pubblicazioni eseguite a norma della [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), modifica dalla [legge 18 dicembre 1879, n. 5188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-12-18;5188);
+Veduti gli atti delle pubblicazioni eseguite a norma della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), modifica dalla [legge 18 dicembre 1879, n. 5188](Che%20approva%20alcune%20modificazioni%20alla%20legge%20sulle%20espropriazioni%20per%20pubblica%20utilita%20del%2025%20giugno%201865%20n.%202359.%20079U5188.md);
 
 Ritenuto che in seguito alla pubblicazione, regolarmente avvenuta, sono state prodotte opposizioni da:
 
@@ -110,7 +108,7 @@ a) che il progetto depositato a visione del pubblico non e' quello approvato dal
 
 b) che le misure delle indennita' di espropriazioni previste in progetto non sono adeguate;
 
-c) che le disposizioni della [legge 15 gennaio 1885, numero 2892](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892), non dovrebbero essere applicate a tutte le espropriazioni necessarie per la esecuzione del progetto, dovendone restare escluse quelle non necessarie all'apertura della nuova strada;
+c) che le disposizioni della [legge 15 gennaio 1885, numero 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892), non dovrebbero essere applicate a tutte le espropriazioni necessarie per la esecuzione del progetto, dovendone restare escluse quelle non necessarie all'apertura della nuova strada;
 
 d) che debba essere data la preferenza ai proprietari espropriati nella ricostruzione degli edifici che dovranno sorgere sui suoli di risulta;
 
@@ -118,9 +116,9 @@ e) che il progetto tecnico presenta delle deficienze per quanto concerne la larg
 
 Considerato che il progetto depositato dal Comune a visione del pubblico e', giusta quanto dichiara il podesta', quello approvato con atto 26 dicembre 1928, e cioe' quello modificato secondo i suggerimenti dati dai corpi competenti;
 
-Considerato che gli interessati potranno far valere le loro ragioni circa la misura delle indennita' di esproprio dopo la pubblicazione dell'elenco dei prezzi proposti, che il Comune, a' sensi dell'[art. 24 della legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359~art24), dovra' pubblicare, essendosi detto ente limitato per ora a chiedere l'approvazione del progetto ai soli fini della dichiarazione di pubblica utilita' delle opere, e che, pertanto, sono intempestive per questa parte le fatte opposizioni;
+Considerato che gli interessati potranno far valere le loro ragioni circa la misura delle indennita' di esproprio dopo la pubblicazione dell'elenco dei prezzi proposti, che il Comune, a' sensi dell'[art. 24 della legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), dovra' pubblicare, essendosi detto ente limitato per ora a chiedere l'approvazione del progetto ai soli fini della dichiarazione di pubblica utilita' delle opere, e che, pertanto, sono intempestive per questa parte le fatte opposizioni;
 
-Considerato che, in virtu' della [legge 27 giugno 1929, numero 1274](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-27;1274), le disposizioni degli [articoli 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892~art12) e [13 della legge 15 gennaio 1885, n. 2892](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892~art13), sul risanamento di Napoli furono estese a tutte le espropriazioni necessarie per il risanamento della zona Astagno e che appunto pel completo risanamento di detta zona si rendono necessarie tutte le opere comprese nel piano di esproprio, e che pertanto non sono fondati i reclami presentati contro l'applicazione di tali norme alla espropriazione degli stabili compresi nella zona tra via Leopardi e piazza Garibaldi;
+Considerato che, in virtu' della [legge 27 giugno 1929, numero 1274](Provvedimenti%20per%20il%20risanamento%20igienico%20della%20zona%20Astagno%20in%20Ancona.%20029U1274.md), le disposizioni degli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_12) e [13 della legge 15 gennaio 1885, n. 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_13), sul risanamento di Napoli furono estese a tutte le espropriazioni necessarie per il risanamento della zona Astagno e che appunto pel completo risanamento di detta zona si rendono necessarie tutte le opere comprese nel piano di esproprio, e che pertanto non sono fondati i reclami presentati contro l'applicazione di tali norme alla espropriazione degli stabili compresi nella zona tra via Leopardi e piazza Garibaldi;
 
 Considerato che le richieste di alcuni ricorrenti di essere autorizzati a costruire sulle aree risultanti dagli espropri potranno eventualmente ed in prosieguo di tempo essere prese in considerazione dal comune di Ancona, ma che comunque nessun diritto di preferenza hanno gli attuali proprietari di edifici espropriandi sui suoli risultanti dall'abbattimento degli attuali stabili;
 
@@ -128,48 +126,34 @@ Considerato che nessun fondamento e' da attribuire alle critiche di natura tecni
 
 Veduto il parere emesso dal Consiglio superiore dei lavori pubblici nell'adunanza del 12 febbraio 1929;
 
-Vedute le [leggi 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), modificata dalla [legge 18 dicembre 1879, n. 5188, e 27 giugno 1929, n. 1274](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-27;1274);
+Vedute le [leggi 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), modificata dalla [legge 18 dicembre 1879, n. 5188, e 27 giugno 1929, n. 1274](Provvedimenti%20per%20il%20risanamento%20igienico%20della%20zona%20Astagno%20in%20Ancona.%20029U1274.md);
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno, e del Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno, e del Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono respinte tutte le opposizioni prodotte dalle persone indicate nel presente decreto.
 
-  
-  
-Sono respinte tutte le opposizioni prodotte dalle persone indicate nel presente decreto.   
-  
+## Art. 2.
 
-Art. 2
-------
+E' approvato, agli effetti della [legge 27 giugno 1929, numero 1274](Provvedimenti%20per%20il%20risanamento%20igienico%20della%20zona%20Astagno%20in%20Ancona.%20029U1274.md), il progetto, col relativo piano delle espropriazioni, per il risanamento della zona di Astagno in Ancona di cui nella narrativa, e sono dichiarate di pubblica utilita' a tutti gli effetti della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), modificata con la [legge 18 dicembre 1879, n. 5188](Che%20approva%20alcune%20modificazioni%20alla%20legge%20sulle%20espropriazioni%20per%20pubblica%20utilita%20del%2025%20giugno%201865%20n.%202359.%20079U5188.md), le opere contemplate nel detto progetto. 
+ 
+ Un esemplare del progetto, col relativo piano di espropriazioni, sara', d'ordine Nostro, munito della firma del Capo del Governo, Ministro proponente.
 
-  
-  
-E' approvato, agli effetti della [legge 27 giugno 1929, numero 1274](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-27;1274), il progetto, col relativo piano delle espropriazioni, per il risanamento della zona di Astagno in Ancona di cui nella narrativa, e sono dichiarate di pubblica utilita' a tutti gli effetti della [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), modificata con la [legge 18 dicembre 1879, n. 5188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-12-18;5188), le opere contemplate nel detto progetto.   
-  
-Un esemplare del progetto, col relativo piano di espropriazioni, sara', d'ordine Nostro, munito della firma del Capo del Governo, Ministro proponente.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-E' assegnato al comune di Ancona il termine di anni cinque per la esecuzione dei lavori e per le occorrenti espropriazioni degli immobili.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 10 ottobre 1929 - Anno VII   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Bianchi.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 13 novembre 1929 - Anno VIII   
-  
-Atti del Governo, registro 290, foglio 54. - Mancini.   
+E' assegnato al comune di Ancona il termine di anni cinque per la esecuzione dei lavori e per le occorrenti espropriazioni degli immobili. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 10 ottobre 1929 - Anno VII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Bianchi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 13 novembre 1929 - Anno VIII 
+ 
+ Atti del Governo, registro 290, foglio 54. - Mancini.

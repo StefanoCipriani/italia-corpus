@@ -1,16 +1,14 @@
-REGIO DECRETO 08 luglio 1880 n. 5584
-
-
-REGIO DECRETO 08 luglio 1880 n. 5584
-====================================
-
-Che fa un'aggiunta all'elenco delle strade provinciali scorrenti nella provincia di Pesaro. (080U5584)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/09/1880
+---
+tipo: REGIO DECRETO
+numero: 5584
+data: 1880-07-08
+titolo: "Che fa un'aggiunta all'elenco delle strade provinciali scorrenti nella provincia di Pesaro. (080U5584)"
+urn: urn:nir:stato:regio.decreto:1880-07-08;5584
+codice_redazionale: 080U5584
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,7 +22,7 @@ Veduti i ricorsi prodotti dai comuni di Pennabilli e di Scavolino contro la sopr
 
 Veduto il parere 10 aprile 1880 del Consiglio Superiore dei Lavori Pubblici;
 
-Veduti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della legge 20 marzo 1865, numero 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato F;
+Veduti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [14 della legge 20 marzo 1865, numero 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), allegato F;
 
 Ritenuto che i comuni di Pennabilli e Scavolino coi loro reclami sostengono che essendo gia' costruita la strada obbligatoria consortile dalla sponda destra del Marecchia fino a Pennabilli e gia' approvato il progetto di massima per la costruzione di essa fino al confine della provincia di Arezzo, dove metterebbe capo il tratto di strada che il Consiglio provinciale coll'impegnata deliberazione ha classificato fra le provinciali, la costruzione di questo stesso tratto tornerebbe di danno alla progettata strada obbligatoria consortile, mentre se il tracciato della strada provinciale oppugnata abbandonasse il corso del Marecchia per salire a Pennabilli, e quindi discendere fino al Molino di Bascio presso il confine Aretino, si servirebbe egualmente all'interesse generale della provincia, e nel medesimo tempo all'interesse dei due comuni ricorrenti, i quali altrimenti veggono compromessa la costruzione della strada consortile preindicata;
 
@@ -36,34 +34,23 @@ Che non ha fondamento il timore che la costruzione di questo tratto di strada pr
 
 Udito l'avviso del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono respinti i ricorsi prodotti dai comuni di Pennabilli e Scavolino contro la precitata deliberazione 12 settembre 1878 del Consiglio provinciale di Pesaro-Urbino.
 
-  
-  
-Sono respinti i ricorsi prodotti dai comuni di Pennabilli e Scavolino contro la precitata deliberazione 12 settembre 1878 del Consiglio provinciale di Pesaro-Urbino.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' aggiunto all'elenco delle strade provinciali della provincia di Pesaro il tratto, che in continuazione della strada gia' esistente lungo la Valle del fiume Marecchia, risalendo il fiume stesso sulla sponda destra presso il Molino Baffoni, andera' a raggiungere presso il Molino di Bascio il confine della provincia di Arezzo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 luglio 1880.   
-  
-UMBERTO.   
-  
-A. Baccarini.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+E' aggiunto all'elenco delle strade provinciali della provincia di Pesaro il tratto, che in continuazione della strada gia' esistente lungo la Valle del fiume Marecchia, risalendo il fiume stesso sulla sponda destra presso il Molino Baffoni, andera' a raggiungere presso il Molino di Bascio il confine della provincia di Arezzo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 luglio 1880. 
+ 
+ UMBERTO. 
+ 
+ A. Baccarini. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

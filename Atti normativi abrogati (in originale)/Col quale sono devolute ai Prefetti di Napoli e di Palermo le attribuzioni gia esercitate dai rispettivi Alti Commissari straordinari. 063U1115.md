@@ -1,16 +1,14 @@
-REGIO DECRETO 15 gennaio 1863 n. 1115
-
-
-REGIO DECRETO 15 gennaio 1863 n. 1115
-=====================================
-
-Col quale sono devolute ai Prefetti di Napoli e di Palermo le attribuzioni gia' esercitate dai rispettivi Alti Commissari straordinari. (063U1115)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/02/1863
+---
+tipo: REGIO DECRETO
+numero: 1115
+data: 1863-01-15
+titolo: "Col quale sono devolute ai Prefetti di Napoli e di Palermo le attribuzioni gia' esercitate dai rispettivi Alti Commissari straordinari. (063U1115)"
+urn: urn:nir:stato:regio.decreto:1863-01-15;1115
+codice_redazionale: 063U1115
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Veduti i successivi Nostri Decreti del 16 novembre 1862, n.° 954, e dell'11 cor
 
 Sulla proposizione del Nostro Ministro Segretario di Stato per gli Affari dell'Interno;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le attribuzioni devolute agli Alti Commissari straordinari per le Provincie Napolitane e Siciliane col Nostro Decreto del 9 ottobre 1862, n.° 875, saranno esercitate rispettivamente dai Prefetti di Napoli e Palermo.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 15 gennaio 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 27 gennaio 1863   
-  
-Reg.° 22 Atti del Governo a c. 38. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-U. Peruzzi.   
-  
+Le attribuzioni devolute agli Alti Commissari straordinari per le Provincie Napolitane e Siciliane col Nostro Decreto del 9 ottobre 1862, n.° 875, saranno esercitate rispettivamente dai Prefetti di Napoli e Palermo. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 15 gennaio 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 gennaio 1863 
+ 
+ Reg.° 22 Atti del Governo a c. 38. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ U. Peruzzi.

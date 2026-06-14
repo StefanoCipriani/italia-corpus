@@ -1,16 +1,14 @@
-REGIO DECRETO 30 dicembre 1865 n. 2717
-
-
-REGIO DECRETO 30 dicembre 1865 n. 2717
-======================================
-
-Col quale e' costituita in Castelleone una Sezione elettorale del Collegio di Soresina Composta dei Comuni di Castelleone, Gombito, Frigolo ed altri sette. (065U2717)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/01/1866
+---
+tipo: REGIO DECRETO
+numero: 2717
+data: 1865-12-30
+titolo: "Col quale e' costituita in Castelleone una Sezione elettorale del Collegio di Soresina Composta dei Comuni di Castelleone, Gombito, Frigolo ed altri sette. (065U2717)"
+urn: urn:nir:stato:regio.decreto:1865-12-30;2717
+codice_redazionale: 065U2717
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,27 +20,20 @@ Vedute le istanze dei Comuni di Castelleone, Gombito, Frigolo, Fiesco, Montodine
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposizione del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Castelleone, Gombito, Frigolo, Fiesco, Montodine, Moscazzano, Ripalta Arpina, Ripalta Nuova, Ripalta Guerrina, Ripalta Vecchia, costituiranno d'ora in poi una Sezione del Collegio elettorale di Soresina n.° 150, che si radunera' in Castelleone.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Firenze addi' 30 dicembre 1865.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 4 gennaio 1866   
-Reg.° 35 Atti del Governo a c. 1. Crodara-Visconti.   
-Luogo del Sigillo. V. Il Guardasigilli: CORTESE.   
-  
-CHIAVES.   
-  
+I Comuni di Castelleone, Gombito, Frigolo, Fiesco, Montodine, Moscazzano, Ripalta Arpina, Ripalta Nuova, Ripalta Guerrina, Ripalta Vecchia, costituiranno d'ora in poi una Sezione del Collegio elettorale di Soresina n.° 150, che si radunera' in Castelleone. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Firenze addi' 30 dicembre 1865. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 4 gennaio 1866 
+ Reg.° 35 Atti del Governo a c. 1. Crodara-Visconti. 
+ Luogo del Sigillo. V. Il Guardasigilli: CORTESE. 
+ 
+ CHIAVES.

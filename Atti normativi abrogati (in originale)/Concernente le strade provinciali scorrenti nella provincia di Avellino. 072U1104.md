@@ -1,16 +1,14 @@
-REGIO DECRETO 17 novembre 1872 n. 1104
-
-
-REGIO DECRETO 17 novembre 1872 n. 1104
-======================================
-
-Concernente le strade provinciali scorrenti nella provincia di Avellino. (072U1104)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/12/1872
+---
+tipo: REGIO DECRETO
+numero: 1104
+data: 1872-11-17
+titolo: "Concernente le strade provinciali scorrenti nella provincia di Avellino. (072U1104)"
+urn: urn:nir:stato:regio.decreto:1872-11-17;1104
+codice_redazionale: 072U1104
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,7 +22,7 @@ Vista l'altra deliberazione 8 agosto corrente anno, colla quale il Consiglio pro
 
 Visti i Nostri decreti 23 agosto e 20 ottobre 1868, 17 gennaio 1869 e 17 marzo 1870, riguardanti la classificazione delle strade provinciali della provincia di Avellino;
 
-Visti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato F;
+Visti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [14 della legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), allegato F;
 
 Considerando:
 
@@ -42,32 +40,16 @@ Che, eseguite tutte le formalita' prescritte dalla legge, nessuna opposizione fu
 
 Sentito l'avviso del Consiglio Superiore dei Lavori Pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono aggiunte alle strade provinciali della provincia di Principato Ultra (Avellino) le cinque descritte nell'unito Elenco, il quale, visto d'ordine Nostro dal predetto Ministro, sara' unito a questo decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli, addi' 17 novembre 1872.   
-  
-VITTORIO EMANUELE   
-  
-G. De Vincenzi.   
-  
-  
-
-Elenco
-
-  
-Elenco delle strade che si aggiungono alle provinciali della provincia di Principato Ultra (Avellino).   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U110400100010110001&dgu=1872-12-11&art.dataPubblicazioneGazzetta=1872-12-11&art.codiceRedazionale=072U1104)
-  
+Sono aggiunte alle strade provinciali della provincia di Principato Ultra (Avellino) le cinque descritte nell'unito Elenco, il quale, visto d'ordine Nostro dal predetto Ministro, sara' unito a questo decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli, addi' 17 novembre 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ G. De Vincenzi.

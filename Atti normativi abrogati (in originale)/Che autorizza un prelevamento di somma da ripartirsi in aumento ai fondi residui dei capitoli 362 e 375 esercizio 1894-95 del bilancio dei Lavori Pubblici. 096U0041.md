@@ -1,24 +1,22 @@
-REGIO DECRETO 20 febbraio 1896 n. 41
-
-
-REGIO DECRETO 20 febbraio 1896 n. 41
-====================================
-
-Che autorizza un prelevamento di somma da ripartirsi in aumento ai fondi residui dei capitoli 362 e 375, esercizio 1894-95, del bilancio dei Lavori Pubblici. (096U0041)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/03/1896
+---
+tipo: REGIO DECRETO
+numero: 41
+data: 1896-02-20
+titolo: "Che autorizza un prelevamento di somma da ripartirsi in aumento ai fondi residui dei capitoli 362 e 375, esercizio 1894-95, del bilancio dei Lavori Pubblici. (096U0041)"
+urn: urn:nir:stato:regio.decreto:1896-02-20;41
+codice_redazionale: 096U0041
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'[articolo 3 della legge 12 luglio 1894 n. 318](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-12;318~art3);
+Visto l'[articolo 3 della legge 12 luglio 1894 n. 318](Ripartizioni%20delle%20somme%20per%20le%20costruzioni%20ferroviarie.%20094U0318.md);
 
-Visto l'articolo 38 del testo unico della legge per l'Amministrazione e la Contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884 n. 2016](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016);
+Visto l'articolo 38 del testo unico della legge per l'Amministrazione e la Contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884 n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md);
 
 Ritenuto che il complessivo fondo approvato al n. 81 della tabella annessa alla succitata legge 12 luglio 1894 per aumenti di liquidazione, per transazioni di vertenze, per interessi e per altre maggiori spese impreviste relative alle ferrovie complementari ed ai titoli di spesa descritti nell'anzidetta tabella, ammonta alla somma di lire 28,555,128, delle quali lire 16,463,503 per l'esercizio finanziario 1893-94 e lire 12,091,625 per l'esercizio 1894-95;
 
@@ -28,28 +26,22 @@ Che occorre di provvedere al pagamento di altre spese relative alla costruzione 
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal fondo complessivo di lire 28,555,128 approvato per gli esercizi finanziari 1893-94 e 1894-95 al n. 81 della tabella unita alla [legge 12 luglio 1894 n. 318](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-12;318), e' autorizzato un tredicesimo prelevamento di lire seicento settantaduemila ottocento settantadue e centesimi sedici (lire 672,872.16) che verra' ripartito in aumento ai fondi residui dell'esercizio 1894-95 per le linee di cui nella seguente tabella:   
-  
-Parte di provvedimento in formato grafico  
-  
-Questo decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 20 febbraio 1896.   
-  
-UMBERTO.   
-  
-G. Saracco.   
-  
-Visto, Il Guardasigilli: V. Calenda di Tavani.   
+Dal fondo complessivo di lire 28,555,128 approvato per gli esercizi finanziari 1893-94 e 1894-95 al n. 81 della tabella unita alla [legge 12 luglio 1894 n. 318](Ripartizioni%20delle%20somme%20per%20le%20costruzioni%20ferroviarie.%20094U0318.md), e' autorizzato un tredicesimo prelevamento di lire seicento settantaduemila ottocento settantadue e centesimi sedici (lire 672,872.16) che verra' ripartito in aumento ai fondi residui dell'esercizio 1894-95 per le linee di cui nella seguente tabella: 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ Questo decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 20 febbraio 1896. 
+ 
+ UMBERTO. 
+ 
+ G. Saracco. 
+ 
+ Visto, Il Guardasigilli: V. Calenda di Tavani.

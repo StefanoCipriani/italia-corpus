@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 03 febbraio 1918 n. 178
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 178
+data: 1918-02-03
+titolo: "Aplicazione di tassa di esercizio (018U0178)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-02-03;178
+codice_redazionale: 018U0178
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 03 febbraio 1918 n. 178
-===============================================
-
-Aplicazione di tassa di esercizio (018U0178)
---------------------------------------------
-
-Entrata in vigore del provvedimento: 27/03/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-178. Decreto Luogotenenziale 3 febbraio 1918, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Murano (Venezia) di applicare la tassa di esercizio nella misura massima di L. 2000 dal 1° gennaio 1917 al 31 dicembre dell'anno in cui cessera' la guerra.
+178.
+
+Decreto Luogotenenziale 3 febbraio 1918, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Murano (Venezia) di applicare la tassa di esercizio nella misura massima di L. 2000 dal 1° gennaio 1917 al 31 dicembre dell'anno in cui cessera' la guerra.

@@ -1,16 +1,14 @@
-REGIO DECRETO 21 agosto 1940 n. 1277
-
-
-REGIO DECRETO 21 agosto 1940 n. 1277
-====================================
-
-Radiazione dalla tariffa di vendita dei sali del tipo di sale denominato «Gemma». (040U1277)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/10/1940
+---
+tipo: REGIO DECRETO
+numero: 1277
+data: 1940-08-21
+titolo: "Radiazione dalla tariffa di vendita dei sali del tipo di sale denominato «Gemma». (040U1277)"
+urn: urn:nir:stato:regio.decreto:1940-08-21;1277
+codice_redazionale: 040U1277
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,30 +24,22 @@ Sentito il Consiglio di amministrazione dei Monopoli di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il tipo di sale denominato «Gemma», di produzione delle Regie terme di Salsomaggiore, e' radiato dalla tariffa di vendita dei sali.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 21 agosto 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 15 settembre 1940-XVIII   
-  
-Atti del Governo, registro 425, foglio 53. - Mancini   
-  
-  
+Il tipo di sale denominato «Gemma», di produzione delle Regie terme di Salsomaggiore, e' radiato dalla tariffa di vendita dei sali. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 21 agosto 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 15 settembre 1940-XVIII 
+ 
+ Atti del Governo, registro 425, foglio 53. - Mancini

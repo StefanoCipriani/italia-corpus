@@ -1,17 +1,13 @@
-REGIO DECRETO 29 luglio 1906 n. CCXC
+---
+tipo: REGIO DECRETO
+numero: CCXC
+data: 1906-07-29
+titolo: "Che erige in ente morale l'opera pia Forquet di Napoli. (0600290R)"
+urn: urn:nir:stato:regio.decreto:1906-07-29;290
+codice_redazionale: 0600290R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 luglio 1906 n. CCXC
-====================================
-
-Che erige in ente morale l'opera pia Forquet di Napoli. (0600290R)
-------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/09/1906
-
-Art. 1
-------
-
-  
-Col quale l'opera pia Forquet, di Napoli, e' eretta in ente morale ed e' approvato lo statuto organico relativo.   
-  
+Col quale l'opera pia Forquet, di Napoli, e' eretta in ente morale ed e' approvato lo statuto organico relativo.

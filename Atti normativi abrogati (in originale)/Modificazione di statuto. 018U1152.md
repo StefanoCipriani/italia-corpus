@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 28 luglio 1918 n. 1152
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1152
+data: 1918-07-28
+titolo: "Modificazione di statuto. (018U1152)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-07-28;1152
+codice_redazionale: 018U1152
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 28 luglio 1918 n. 1152
-==============================================
-
-Modificazione di statuto. (018U1152)
-------------------------------------
-
-Entrata in vigore del provvedimento: 12/09/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1152. Decreto Luogotenenziale 28 luglio 1918, col quale, sulla proposta del ministro per l'industria il commercio ed il lavoro sono approvate alcune modificazioni allo statuto organico della Cassa di risparmio di Cento (Ferrara).
+1152.
+
+Decreto Luogotenenziale 28 luglio 1918, col quale, sulla proposta del ministro per l'industria il commercio ed il lavoro sono approvate alcune modificazioni allo statuto organico della Cassa di risparmio di Cento (Ferrara).

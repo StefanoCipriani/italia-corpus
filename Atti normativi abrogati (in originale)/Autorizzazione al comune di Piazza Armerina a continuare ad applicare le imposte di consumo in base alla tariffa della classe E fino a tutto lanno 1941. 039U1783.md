@@ -1,16 +1,14 @@
-REGIO DECRETO 16 novembre 1939 n. 1783
-
-
-REGIO DECRETO 16 novembre 1939 n. 1783
-======================================
-
-Autorizzazione al comune di Piazza Armerina a continuare ad applicare le imposte di consumo in base alla tariffa della classe E, fino a tutto l'anno 1941. (039U1783)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/12/1939
+---
+tipo: REGIO DECRETO
+numero: 1783
+data: 1939-11-16
+titolo: "Autorizzazione al comune di Piazza Armerina a continuare ad applicare le imposte di consumo in base alla tariffa della classe E, fino a tutto l'anno 1941. (039U1783)"
+urn: urn:nir:stato:regio.decreto:1939-11-16;1783
+codice_redazionale: 039U1783
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,24 @@ Visto il Nostro precedente decreto 22 aprile 1937-XV con il quale il Comune sudd
 
 Vista la domanda avanzata dal comune di Piazza Armerina per continuare ad avvalersi delle disposizioni di cui al predetto articolo;
 
-Udito
------
+Udito il parere della Commissione centrale per la finanza locale, sulla proposta del Nostro Ministro Segretario di stato per le finanze; Abbiamo decretato e decretiamo:
 
-il parere della Commissione centrale per la finanza locale, sulla proposta del Nostro Ministro Segretario di stato per le finanze; Abbiamo decretato e decretiamo:
-
-Art. 1
-------
+## Art. 1.
 
 Il comune di Piazza Armerina e' autorizzato a continuare ad applicare le imposte di consumo in base alla tariffa della classe E, fino a tutto l'anno
 
-1941. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 novembre 1939-XVIII   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 9 dicembre 1939-XVIII   
-  
-Atti del Governo, registro 416, foglio 38. - MANCINI
+1941.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 novembre 1939-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 9 dicembre 1939-XVIII 
+ 
+ Atti del Governo, registro 416, foglio 38. - MANCINI

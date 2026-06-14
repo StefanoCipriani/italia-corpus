@@ -1,16 +1,14 @@
-REGIO DECRETO 31 agosto 1879 n. 5055
-
-
-REGIO DECRETO 31 agosto 1879 n. 5055
-====================================
-
-Col quale si provvede per la concentrazione dei collegi, consigli ed archivi notarili di Pordenone e Conegliano. (079U5055)
----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/09/1879
+---
+tipo: REGIO DECRETO
+numero: 5055
+data: 1879-08-31
+titolo: "Col quale si provvede per la concentrazione dei collegi, consigli ed archivi notarili di Pordenone e Conegliano. (079U5055)"
+urn: urn:nir:stato:regio.decreto:1879-08-31;5055
+codice_redazionale: 079U5055
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,27 +20,20 @@ Ritenuto che le summentovate speciali circostanze concorrono per i distretti di 
 
 Considerato che i distretti di Pordenone e Conegliano debbono necessariamente essere riuniti ai distretti dei rispettivi capiluoghi delle provincie di Udine e di Treviso, perche' nei territori delle provincie stesse non esistono altri distretti notarili;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Grazia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Grazia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Collegi, i Consigli e gli Archivi notarili di Pordenone e di Conegliano sono soppressi, e riuniti rispettivamente al distretto notarile di Udine e di Treviso capiluoghi di provincia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 31 agosto 1879.   
-  
-UMBERTO.   
-  
-Vare'.   
-  
-Visto - Il Guardasigilli   
-  
-Vare'.   
-  
+I Collegi, i Consigli e gli Archivi notarili di Pordenone e di Conegliano sono soppressi, e riuniti rispettivamente al distretto notarile di Udine e di Treviso capiluoghi di provincia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 31 agosto 1879. 
+ 
+ UMBERTO. 
+ 
+ Vare'. 
+ 
+ Visto - Il Guardasigilli 
+ 
+ Vare'.

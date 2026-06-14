@@ -1,26 +1,24 @@
-REGIO DECRETO 29 aprile 1923 n. 1119
-
-
-REGIO DECRETO 29 aprile 1923 n. 1119
-====================================
-
-Che approva alcune varianti in altre localita' della seconda e terza zona del piano regolatore di Milano ed estende alle varianti stesse le disposizioni della legge 12 luglio 1912, n. 866. (023U1119)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/06/1923
+---
+tipo: REGIO DECRETO
+numero: 1119
+data: 1923-04-29
+titolo: "Che approva alcune varianti in altre localita' della seconda e terza zona del piano regolatore di Milano ed estende alle varianti stesse le disposizioni della legge 12 luglio 1912, n. 866. (023U1119)"
+urn: urn:nir:stato:regio.decreto:1923-04-29;1119
+codice_redazionale: 023U1119
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 12 luglio 1912, n. 866](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-12;866), che approvo' il piano generale edilizio e d'ampliamento della citta' di Milano stabilendo termini diversi per le tre zone in cui era diviso e dando facolta' al Governo di approvare, previa la procedura prescritta dalle vigenti norme organiche, le varianti che il Comune avesse riconosciute opportune e di estendere alle medesime le disposizioni della legge stessa;
+Vista la [legge 12 luglio 1912, n. 866](Che%20approva%20il%20piano%20generale%20edilizio%20regolatore%20e%20di%20ampliamento%20della%20citta%20di%20Milano.%20012U0866.md), che approvo' il piano generale edilizio e d'ampliamento della citta' di Milano stabilendo termini diversi per le tre zone in cui era diviso e dando facolta' al Governo di approvare, previa la procedura prescritta dalle vigenti norme organiche, le varianti che il Comune avesse riconosciute opportune e di estendere alle medesime le disposizioni della legge stessa;
 
-Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), sulle espropriazioni a causa di pubblica utilita';
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), sulle espropriazioni a causa di pubblica utilita';
 
-Visto il [decreto Luog. 17 novembre 1918, n. 1837](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-11-17;1837), col quale furono apportate alcune varianti al piano suddetto in localita' della seconda e terza zona;
+Visto il [decreto Luog. 17 novembre 1918, n. 1837](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-11-17;1837), col quale furono apportate alcune varianti al piano suddetto in localita' della seconda e terza zona;
 
 Ritenuto che in seguito si e' verificata la necessita' di introdurre e al piano stesso in altre localita' delle medesime zone alcune modificazioni in aggiunta a quelle introdotte col succitato decreto Luogotenenziale;
 
@@ -38,45 +36,27 @@ Visti i voti 15 maggio e 15 novembre 1922 dal Consiglio superiore dei lavori pub
 
 Udito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono approvate le varianti che il comune di Milano ha apportato al piano generale edilizio e d'ampliamento della citta', quali risultano dalle sette planimetrie in data 26 maggio 1921 a firma dell'ing.
+Giovanni Masera e vistato d'ordine Nostro dal Nostro Ministro proponente.
 
-  
-  
-  
-Sono approvate le varianti che il comune di Milano ha apportato al piano generale edilizio e d'ampliamento della citta', quali risultano dalle sette planimetrie in data 26 maggio 1921 a firma dell'ing.  
-Giovanni Masera e vistato d'ordine Nostro dal Nostro Ministro proponente.   
-  
+## Art. 2.
 
-Art. 2
-------
+Alle varianti stesse sono estese le disposizioni della [legge 12 luglio 1912, n. 866](Che%20approva%20il%20piano%20generale%20edilizio%20regolatore%20e%20di%20ampliamento%20della%20citta%20di%20Milano.%20012U0866.md).
 
-  
-  
-  
-Alle varianti stesse sono estese le disposizioni della [legge 12 luglio 1912, n. 866](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-12;866).   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-  
-Restano fermi i termini fissati dalla detta legge e dalla [legge 14 agosto 1920, n. 1156](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-08-14;1156), per l'attuazione del piano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 aprile 1923.   
-  
-VITTORIO EMANUELE.   
-  
-CARNAZZA.   
-  
-Visto, il guardasigilli: OVIGLIO.   
-  
+Restano fermi i termini fissati dalla detta legge e dalla [legge 14 agosto 1920, n. 1156](Che%20proroga%20fino%20al%2016%20agosto%201942%20il%20termine%20stabilito%20dallart.%203%20della%20legge%2012%20luglio%201912%20n.%20866%20per%20lesecuzione%20delle%20opere%20comprese%20nella%20seconda%20zona%20del%20piano%20generale%20edilizio%20re_17ccdf23f273.md), per l'attuazione del piano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 aprile 1923. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ CARNAZZA. 
+ 
+ Visto, il guardasigilli: OVIGLIO.

@@ -1,16 +1,14 @@
-REGIO DECRETO 31 dicembre 1911 n. 1483
-
-
-REGIO DECRETO 31 dicembre 1911 n. 1483
-======================================
-
-Che approva la convenzione pel riscatto della ferrovia da Torreberretti al Gravellone presso Pavia. (011U1483)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/02/1912
+---
+tipo: REGIO DECRETO
+numero: 1483
+data: 1911-12-31
+titolo: "Che approva la convenzione pel riscatto della ferrovia da Torreberretti al Gravellone presso Pavia. (011U1483)"
+urn: urn:nir:stato:regio.decreto:1911-12-31;1483
+codice_redazionale: 011U1483
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,7 +20,7 @@ Veduto l'art. 2 di tale capitolato, con cui fu riservata ai concessionari la fac
 
 Veduto che di tale facolta' il prof. Angelo Vegni e compagnia avvalsero, sostituendo a loro, nei menzionati diritti e ragioni, la «Societa' anonima della strada ferrata da Torreberetti al Gravellone, presso Pavia» costituita con atto pubblico 23 luglio 1860, rogito Turvano;
 
-Veduto il Nostro decreto 19 settembre 1860, registrato alla [Corte dei conti il 28 settembre 1860](https://e-justice.europa.eu/ecli/ECLI::::), registro 42, decreti amministrativi, foglio 199, col quale venne autorizzata la costituzione di tale Societa' e fu approvato il relativo statuto;
+Veduto il Nostro decreto 19 settembre 1860, registrato alla Corte dei conti il 28 settembre 1860, registro 42, decreti amministrativi, foglio 199, col quale venne autorizzata la costituzione di tale Societa' e fu approvato il relativo statuto;
 
 Ritenuto che, con l'art. 75 del suddetto capitolato di concessione, si stabili' che, dopo il periodo di trenta anni, il Governo potesse riscattare in qualunque tempo la concessione della strada ferrata, dandone pero' avviso ai concessionari almeno un anno prima;
 
@@ -30,7 +28,7 @@ Che, essendo stata la ferrovia aperta all'esercizio pubblica il 10 maggio 1862, 
 
 Visti gli atti di diffida 22 e 29 dicembre 1904, mediante i quali il Governo dichiaro' alla societa' che intendeva riscattare la ferrovia da Torreberretti al Gravellone, entrando nel pieno possesso di essa col 1° gennaio 1906;
 
-Vista la [legge 11 luglio 1909, n. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-11;488) che, fra l'altro, approvo' la diffida notificata; e dichiaro' effettuato il riscatto della linea ferroviaria in parola, autorizzando il ministro del tesoro a valersi dei mezzi indicati negli [articoli 3 della legge 23 dicembre 1906, n. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-12-23;638~art3), e 3 della legga 24 dicembre 1908 n. 731, per la provvista dei fondi necessari al pagamento del corrispettivo di riscatto, dei relativi interessi, e delle provvisionali da versare alla societa' concessionaria, fino a completa definizione delle controversie insorte relativamente al riscatto medesimo ed alla liquidazione dell'indennita', salvo conguaglio;
+Vista la [legge 11 luglio 1909, n. 488](Pel%20riscatto%20di%20alcune%20linee%20ferroviarie%20concesse%20allindustria%20privata.%20009U0488.md) che, fra l'altro, approvo' la diffida notificata; e dichiaro' effettuato il riscatto della linea ferroviaria in parola, autorizzando il ministro del tesoro a valersi dei mezzi indicati negli [articoli 3 della legge 23 dicembre 1906, n. 638](Spese%20straordinarie%20occorrenti%20per%20le%20ferrovie%20esercitate%20dallo%20Stato%20e%20relativa%20provvista%20di%20fondi.%20006U0638.md), e 3 della legga 24 dicembre 1908 n. 731, per la provvista dei fondi necessari al pagamento del corrispettivo di riscatto, dei relativi interessi, e delle provvisionali da versare alla societa' concessionaria, fino a completa definizione delle controversie insorte relativamente al riscatto medesimo ed alla liquidazione dell'indennita', salvo conguaglio;
 
 Viste le norme del capitolato di concessione, in base a cui deve calcolarsi il compenso di riscatto;
 
@@ -44,33 +42,22 @@ Gerolamo Serina, di Milano, dalla quale risulta che la convenzione stessa fu deb
 
 Sentiti il Consiglio di Stato ed il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta dei Nostri ministri, segretari di Stato per i lavori pubblici e pel tesoro; Abbiamo decretato e decretiamo:
 
-proposta dei Nostri ministri, segretari di Stato per i lavori pubblici e pel tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvata e resa esecutoria la convenzione 28 ottobre 1911, stipulata fra l'amministrazione governativa e la societa' anonima della strada ferrata da Torreberretti al Gravellone, presso Pavia, per il riscatto di tale linea ferroviaria, con effetto retroattivo al 1° gennaio 1906, mediante il pagamento della somma di lire 2.210.043,48 (lire duemilioni duecentodiecimila e quarantatre e centesimi quarantotto) nonche' dell'interesse 5 % lordo, dal 1° luglio 1911 alla data dell' ammissione del mandato a pagamento.
 
-  
-  
-E' approvata e resa esecutoria la convenzione 28 ottobre 1911, stipulata fra l'amministrazione governativa e la societa' anonima della strada ferrata da Torreberretti al Gravellone, presso Pavia, per il riscatto di tale linea ferroviaria, con effetto retroattivo al 1° gennaio 1906, mediante il pagamento della somma di lire 2.210.043,48 (lire duemilioni duecentodiecimila e quarantatre e centesimi quarantotto) nonche' dell'interesse 5 % lordo, dal 1° luglio 1911 alla data dell' ammissione del mandato a pagamento.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Con successivi decreti ministeriali sara' provveduto all'inscrizione di apposito capitolo nello stato di previsione della spesa del ministero del tesoro, per l'esercizio finanziario corrente, pel pagamento delle somme dovute alla societa' anonima della strada ferrata da Torreberretti al Gravellone, presso Pavia, in dipendenza del riscatto suaccennato ed in base alla convenzione, approvata con l'art. 1; come pure sara' provveduto all'autorizzazione del detto pagamento.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 31 dicembre 1911.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti - Sacchi - Tedesco.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+Con successivi decreti ministeriali sara' provveduto all'inscrizione di apposito capitolo nello stato di previsione della spesa del ministero del tesoro, per l'esercizio finanziario corrente, pel pagamento delle somme dovute alla societa' anonima della strada ferrata da Torreberretti al Gravellone, presso Pavia, in dipendenza del riscatto suaccennato ed in base alla convenzione, approvata con l'art. 1; come pure sara' provveduto all'autorizzazione del detto pagamento. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 31 dicembre 1911. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti - Sacchi - Tedesco. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

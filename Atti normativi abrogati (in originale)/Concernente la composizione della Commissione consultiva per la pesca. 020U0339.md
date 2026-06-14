@@ -1,16 +1,14 @@
-REGIO DECRETO 07 marzo 1920 n. 339
-
-
-REGIO DECRETO 07 marzo 1920 n. 339
-==================================
-
-Concernente la composizione della Commissione consultiva per la pesca. (020U0339)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/04/1920
+---
+tipo: REGIO DECRETO
+numero: 339
+data: 1920-03-07
+titolo: "Concernente la composizione della Commissione consultiva per la pesca. (020U0339)"
+urn: urn:nir:stato:regio.decreto:1920-03-07;339
+codice_redazionale: 020U0339
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,20 +22,16 @@ Comitato talassografico italiano;
 
 Su proposta del Nostro ministro segretario di Stato per l'agricoltura; Abbiamo decretato e decretiamo:
 
-Articolo unico
---------------
+## Articolo unico.
 
-  
-  
-Fanno parte di diritto della «Commissione consultiva per la pesca» il direttore dell'Istituto idrografico della R. marina, il segretario del R. Comitato talassografico italiano e l'ispettore superiore tecnico del servizio della pesca presso il Ministero per l'agricoltura.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 marzo 1920.   
-  
-VITTORIO EMANUELE   
-  
-VISOCCHI   
-  
-Visto, Il Guardasigilli: MORTARA.   
-  
+Fanno parte di diritto della «Commissione consultiva per la pesca» il direttore dell'Istituto idrografico della R. marina, il segretario del R. Comitato talassografico italiano e l'ispettore superiore tecnico del servizio della pesca presso il Ministero per l'agricoltura. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 marzo 1920. 
+ 
+ VITTORIO EMANUELE 
+ 
+ VISOCCHI 
+ 
+ Visto, Il Guardasigilli: MORTARA.

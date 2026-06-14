@@ -1,20 +1,17 @@
-REGIO DECRETO 20 giugno 1901 n. CCXXXI
+---
+tipo: REGIO DECRETO
+numero: CCXXXI
+data: 1901-06-20
+titolo: "Che radia la cinta magistrale della piazza di Alessandria dal novero delle fortificazioni dello Stato. (0100231R)"
+urn: urn:nir:stato:regio.decreto:1901-06-20;231
+codice_redazionale: 0100231R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 giugno 1901 n. CCXXXI
-======================================
-
-Che radia la cinta magistrale della piazza di Alessandria dal novero delle fortificazioni dello Stato. (0100231R)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/08/1901
-
-Art. 1
-------
-
-  
-Che radia la cinta magistrale della piazza di Alessandria dal novero delle fortificazioni dello Stato - Firmato VITTORIO EMANUELE - Controfirmati C. di San Martino, Di Broglio - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 7 agosto 1901.   
-  
-Reg. 230. Atti del Governo a f. 67.   
+Che radia la cinta magistrale della piazza di Alessandria dal novero delle fortificazioni dello Stato - Firmato VITTORIO EMANUELE - Controfirmati C. di San Martino, Di Broglio - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 7 agosto 1901. 
+ 
+ Reg. 230. Atti del Governo a f. 67.

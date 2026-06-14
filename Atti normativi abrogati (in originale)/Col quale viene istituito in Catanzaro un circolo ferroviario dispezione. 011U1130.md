@@ -1,16 +1,14 @@
-REGIO DECRETO 02 ottobre 1911 n. 1130
-
-
-REGIO DECRETO 02 ottobre 1911 n. 1130
-=====================================
-
-Col quale viene istituito in Catanzaro un circolo ferroviario d'ispezione. (011U1130)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/11/1911
+---
+tipo: REGIO DECRETO
+numero: 1130
+data: 1911-10-02
+titolo: "Col quale viene istituito in Catanzaro un circolo ferroviario d'ispezione. (011U1130)"
+urn: urn:nir:stato:regio.decreto:1911-10-02;1130
+codice_redazionale: 011U1130
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,33 +20,22 @@ Ritenuto che per la sorveglianza delle linee ferroviarie, tranviarie e automobil
 
 Visto l'art. 3 del regolamento per l'ufficio speciale delle ferrovie approvato con Nostro decreto 7 agosto 1909, n. 711;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato pei lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato pei lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A decorrere dal 1° marzo 1912, e' istituito in Catanzaro un circolo ferroviario d'ispezione.
 
-  
-  
-A decorrere dal 1° marzo 1912, e' istituito in Catanzaro un circolo ferroviario d'ispezione.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' data facolta' al ministro proponente di stabilire la circoscrizione dell'ufficio predetto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 2 ottobre 1911.   
-  
-VITTORIO EMANUELE.   
-  
-Sacchi.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+E' data facolta' al ministro proponente di stabilire la circoscrizione dell'ufficio predetto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 2 ottobre 1911. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Sacchi. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

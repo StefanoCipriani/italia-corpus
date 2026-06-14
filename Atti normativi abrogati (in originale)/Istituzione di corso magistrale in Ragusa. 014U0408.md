@@ -1,19 +1,15 @@
-REGIO DECRETO 15 marzo 1914 n. 408
+---
+tipo: REGIO DECRETO
+numero: 408
+data: 1914-03-15
+titolo: "Istituzione di corso magistrale in Ragusa. (014U0408)"
+urn: urn:nir:stato:regio.decreto:1914-03-15;408
+codice_redazionale: 014U0408
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 marzo 1914 n. 408
-==================================
-
-Istituzione di corso magistrale in Ragusa. (014U0408)
------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/06/1914
-
-Art. 1
-------
-
-  
-N. 408   
-  
-Regio Decreto 15 marzo 1914, col quale, sulla proposta del ministro dell'istruzione pubblica, viene istituito un corso magistrale in Ragusa.   
-  
+N. 408 
+ 
+ Regio Decreto 15 marzo 1914, col quale, sulla proposta del ministro dell'istruzione pubblica, viene istituito un corso magistrale in Ragusa.

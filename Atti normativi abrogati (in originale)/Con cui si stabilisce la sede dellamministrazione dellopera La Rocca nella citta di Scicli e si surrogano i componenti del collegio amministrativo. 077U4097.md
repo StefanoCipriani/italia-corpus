@@ -1,16 +1,14 @@
-REGIO DECRETO 05 settembre 1877 n. 4097
-
-
-REGIO DECRETO 05 settembre 1877 n. 4097
-=======================================
-
-Con cui si stabilisce la sede dell'amministrazione dell'opera La Rocca nella citta' di Scicli e si surrogano i componenti del collegio amministrativo. (077U4097)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/11/1877
+---
+tipo: REGIO DECRETO
+numero: 4097
+data: 1877-09-05
+titolo: "Con cui si stabilisce la sede dell'amministrazione dell'opera La Rocca nella citta' di Scicli e si surrogano i componenti del collegio amministrativo. (077U4097)"
+urn: urn:nir:stato:regio.decreto:1877-09-05;4097
+codice_redazionale: 077U4097
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,31 +26,20 @@ Riconosciuto che i tre commissari ai quali sara' affidata definitivamente l'oper
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposizione del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La sede dell'Amministrazione dell'Opera La Rocca stabilita nella citta' di Scicli.
 
-  
-  
-La sede dell'Amministrazione dell'Opera La Rocca stabilita nella citta' di Scicli.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Alle persone chiamate dall'articolo 6 del Regio decreto 20 settembre 1871 a comporre il Collegio amministrativo della Fondazione sono surrogati il sindaco, il presidente della Congregazione di carita' e il pretore di Scicli.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 5 settembre 1877.   
-  
-VITTORIO EMANUELE.   
-  
-M. Coppino.   
-  
+Alle persone chiamate dall'articolo 6 del Regio decreto 20 settembre 1871 a comporre il Collegio amministrativo della Fondazione sono surrogati il sindaco, il presidente della Congregazione di carita' e il pretore di Scicli. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 5 settembre 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. Coppino.

@@ -1,21 +1,17 @@
-REGIO DECRETO 17 agosto 1901 n. CCLII
+---
+tipo: REGIO DECRETO
+numero: CCLII
+data: 1901-08-17
+titolo: "Che erige in ente morale il legato Ruffinoni in Roma. (0100252R)"
+urn: urn:nir:stato:regio.decreto:1901-08-17;252
+codice_redazionale: 0100252R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 agosto 1901 n. CCLII
-=====================================
-
-Che erige in ente morale il legato Ruffinoni in Roma. (0100252R)
-----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/09/1901
-
-Art. 1
-------
-
-  
-Con cui il pio legato ospitaliero Giambattista Ruffinoni di Roma viene eretto in ente morale. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 29 agosto 1901.   
-  
-Reg. 230. Atti del Governo a f. 119.   
-  
+Con cui il pio legato ospitaliero Giambattista Ruffinoni di Roma viene eretto in ente morale. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 29 agosto 1901. 
+ 
+ Reg. 230. Atti del Governo a f. 119.

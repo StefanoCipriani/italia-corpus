@@ -1,16 +1,14 @@
-REGIO DECRETO 03 maggio 1937 n. 760
-
-
-REGIO DECRETO 03 maggio 1937 n. 760
-===================================
-
-Autorizzazione al comune di Piacenza ad applicare le imposte di consumo con le aliquote stabilite per la classe C. (037U0760)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/06/1937
+---
+tipo: REGIO DECRETO
+numero: 760
+data: 1937-05-03
+titolo: "Autorizzazione al comune di Piacenza ad applicare le imposte di consumo con le aliquote stabilite per la classe C. (037U0760)"
+urn: urn:nir:stato:regio.decreto:1937-05-03;760
+codice_redazionale: 037U0760
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,22 @@ Vista la domanda avanzata dal comune di Piacenza per avvalersi della disposizion
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Piacenza e' autorizzato ad applicare, fino al 31 dicembre 1939, le imposte di consumo con le aliquote stabilite per la classe C.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 maggio 1937 - Anno XV,   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 29 maggio 1937 - Anno XV   
-  
-Atti del Governo, registro 385, foglio 168.- Mancini.   
+Il comune di Piacenza e' autorizzato ad applicare, fino al 31 dicembre 1939, le imposte di consumo con le aliquote stabilite per la classe C. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 maggio 1937 - Anno XV, 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 29 maggio 1937 - Anno XV 
+ 
+ Atti del Governo, registro 385, foglio 168.- Mancini.

@@ -1,16 +1,14 @@
-REGIO DECRETO 25 novembre 1866 n. 3341
-
-
-REGIO DECRETO 25 novembre 1866 n. 3341
-======================================
-
-Col quale le terre demaniali dello Stato e le acque pubbliche con le loro dipendenze, di cui nel Decreto 30 aprile 1861, ritornano alla Amministrazione del Demanio. (066U3341)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/12/1866
+---
+tipo: REGIO DECRETO
+numero: 3341
+data: 1866-11-25
+titolo: "Col quale le terre demaniali dello Stato e le acque pubbliche con le loro dipendenze, di cui nel Decreto 30 aprile 1861, ritornano alla Amministrazione del Demanio. (066U3341)"
+urn: urn:nir:stato:regio.decreto:1866-11-25;3341
+codice_redazionale: 066U3341
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,37 +24,26 @@ Volendo rimuovere ogni dubbio in proposito;
 
 Sulla proposta del Ministro di Agricoltura, Industria e Commercio;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Le terre demaniali dello Stato e le acque pubbliche con le loro dipendenze, di cui nel Decreto del 30 aprile 1861, ritornano all'Amministrazione del Demanio quando siano esaurite le operazioni per cui furono affidate all'Amministrazione delle opere di bonificamento nelle Provincie meridionali.
 
-  
-  
-Le terre demaniali dello Stato e le acque pubbliche con le loro dipendenze, di cui nel Decreto del 30 aprile 1861, ritornano all'Amministrazione del Demanio quando siano esaurite le operazioni per cui furono affidate all'Amministrazione delle opere di bonificamento nelle Provincie meridionali.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il passaggio da un'Amministrazione all'altra, per le sue conseguenze amministrative e giuridiche, si verifica col verbale di consegna approvato dai Ministeri competenti.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarle e di farlo osservare.   
-  
-Dato a Firenze addi' 25 novembre 1866.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 30 novembre 1866   
-  
-Reg. 38 Atti dei Governo a c. 81. Ayres.   
-  
-Luogo del Sigillo, V. Il Guardasigilli Borgatti.   
-  
-Cordova.   
-  
+Il passaggio da un'Amministrazione all'altra, per le sue conseguenze amministrative e giuridiche, si verifica col verbale di consegna approvato dai Ministeri competenti. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarle e di farlo osservare. 
+ 
+ Dato a Firenze addi' 25 novembre 1866. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 30 novembre 1866 
+ 
+ Reg. 38 Atti dei Governo a c. 81. Ayres. 
+ 
+ Luogo del Sigillo, V. Il Guardasigilli Borgatti. 
+ 
+ Cordova.

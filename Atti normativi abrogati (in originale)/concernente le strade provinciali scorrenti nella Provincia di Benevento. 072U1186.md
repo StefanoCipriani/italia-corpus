@@ -1,16 +1,14 @@
-REGIO DECRETO 30 dicembre 1872 n. 1186
-
-
-REGIO DECRETO 30 dicembre 1872 n. 1186
-======================================
-
-concernente le strade provinciali scorrenti nella Provincia di Benevento. (072U1186)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/01/1873
+---
+tipo: REGIO DECRETO
+numero: 1186
+data: 1872-12-30
+titolo: "concernente le strade provinciali scorrenti nella Provincia di Benevento. (072U1186)"
+urn: urn:nir:stato:regio.decreto:1872-12-30;1186
+codice_redazionale: 072U1186
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Veduti gli articoli 13 e 14 della Legge sulle opere pubbliche 20 marzo 1865;
 
 Risultando non essere insorta alcuna opposizione contro la classificazione fra le strade provinciali della traversa predetta;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' aggiunta all'Elenco delle strade provinciali di Benevento la traversa di S. Lorenzo Maggiore, che, partendo da rimpetto l'osteria della Starza sulla nazionale Sannitica, va a terminare presso il ponte Paolella sulla Sannitica stessa.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 30 dicembre 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 5 gennaio 1873   
-  
-Vol. 66 Atti del Governo a c. 22. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco   
-  
-G. Devincenzi.   
-  
+E' aggiunta all'Elenco delle strade provinciali di Benevento la traversa di S. Lorenzo Maggiore, che, partendo da rimpetto l'osteria della Starza sulla nazionale Sannitica, va a terminare presso il ponte Paolella sulla Sannitica stessa. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 30 dicembre 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 5 gennaio 1873 
+ 
+ Vol. 66 Atti del Governo a c. 22. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco 
+ 
+ G. Devincenzi.

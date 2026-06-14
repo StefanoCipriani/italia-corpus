@@ -1,16 +1,14 @@
-REGIO DECRETO 13 aprile 1874 n. 1885
-
-
-REGIO DECRETO 13 aprile 1874 n. 1885
-====================================
-
-Che ripartisce la somma di lire 16,093, iscritta nel Bilancio del Ministero della Pubblica Istruzione per le Orfane camerali oggi raccolte nel Conservatorio della Divina Provvidenza in Roma. (074U1885)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/05/1874
+---
+tipo: REGIO DECRETO
+numero: 1885
+data: 1874-04-13
+titolo: "Che ripartisce la somma di lire 16,093, iscritta nel Bilancio del Ministero della Pubblica Istruzione per le Orfane camerali oggi raccolte nel Conservatorio della Divina Provvidenza in Roma. (074U1885)"
+urn: urn:nir:stato:regio.decreto:1874-04-13;1885
+codice_redazionale: 074U1885
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,59 +26,40 @@ Considerando d'altra parte quanto sia opportuno e giusto il concedere le maggior
 
 Veduto d'altra parte che per Decreto Sovrano del 2 giugno 1852 fu assegnato alla signora Luisa Apolloni, gia' Superiora del Conservatorio Camerale di S. Paolo 1° Eremita, una pensione di L. 774 all'anno sui fondi destinati al mantenimento dello stesso Conservatorio;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Interno, Reggente il Dicastero della Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Interno, Reggente il Dicastero della Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A cominciare dal 1° gennaio 1875, la somma di lire sedicimila e novantatre, inscritta nel capitolo 32 del Bilancio passivo del Ministero della Istruzione Pubblica per le Orfane Camerali oggi raccolte nel Conservatorio della Divina Provvidenza a Roma, sara' ripartita nel modo seguente: 
+ 
+ Per 25 rette annue, di L. 480 l'una, ad 
+ altrettante Orfane di Impiegati civili dello 
+ Stato . . . . . . . . . . . . . . . . . . . . . . L. 12,000 
+ Per 25 sussidi annui, di L. 132.76 l'uno, alle 
+ dette Orfane affinche' possano far la provvista 
+ ed occorrere alle spese del vestiario e di altri 
+ oggetti necessari . . . . . . . . . . . . . . . . » 3,319 
+ Per la pensione vitalizia alla signora Luisa 
+ Apolloni . . . . . . . . . . . . . . . . . . . . .» 774 
+ -------- 
+ L. 16,093
 
-  
-  
-A cominciare dal 1° gennaio 1875, la somma di lire sedicimila e novantatre, inscritta nel capitolo 32 del Bilancio passivo del Ministero della Istruzione Pubblica per le Orfane Camerali oggi raccolte nel Conservatorio della Divina Provvidenza a Roma, sara' ripartita nel modo seguente:   
-  
-Per 25 rette annue, di L. 480 l'una, ad   
-altrettante Orfane di Impiegati civili dello   
-Stato . . . . . . . . . . . . . . . . . . . . . . L. 12,000   
-Per 25 sussidi annui, di L. 132.76 l'uno, alle   
-dette Orfane affinche' possano far la provvista   
-ed occorrere alle spese del vestiario e di altri   
-oggetti necessari . . . . . . . . . . . . . . . . » 3,319   
-Per la pensione vitalizia alla signora Luisa   
-Apolloni . . . . . . . . . . . . . . . . . . . . .» 774   
---------   
-L. 16,093   
-  
+## Art. 2.
 
-Art. 2
-------
+Al Nostro Ministro Segretario di Stato per la Pubblica Istruzione e' data facolta' di distribuire le rette e i sussidi anzidetti, di mano in mano che si renderanno disponibili, mediante un pubblico concorso da esser bandito nella Gazzetta ufficiale del Regno.
 
-  
-  
-Al Nostro Ministro Segretario di Stato per la Pubblica Istruzione e' data facolta' di distribuire le rette e i sussidi anzidetti, di mano in mano che si renderanno disponibili, mediante un pubblico concorso da esser bandito nella Gazzetta ufficiale del Regno.   
-  
+## Art. 3.
 
-Art. 3
-------
+Per le Orfane sinora raccolte nel Conservatorio della Divina Provvidenza in Roma, il Ministro stesso provvedera' in quel modo che si convenga meglio alla educazione di esse, cosi' morale come civile, e che possibilmente torni piu' accetto alle loro famiglie.
 
-  
-  
-Per le Orfane sinora raccolte nel Conservatorio della Divina Provvidenza in Roma, il Ministro stesso provvedera' in quel modo che si convenga meglio alla educazione di esse, cosi' morale come civile, e che possibilmente torni piu' accetto alle loro famiglie.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Le disposizioni anteriori che fossero contrarie alle presenti sono abrogate.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli addi' 13 aprile 1874.   
-  
-VITTORIO EMANUELE   
-  
-G. Cantelli.   
-  
+Le disposizioni anteriori che fossero contrarie alle presenti sono abrogate. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli addi' 13 aprile 1874. 
+ 
+ VITTORIO EMANUELE 
+ 
+ G. Cantelli.

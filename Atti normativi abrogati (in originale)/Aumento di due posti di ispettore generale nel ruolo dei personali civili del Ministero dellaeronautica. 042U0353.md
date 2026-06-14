@@ -1,16 +1,14 @@
-REGIO DECRETO 07 aprile 1942 n. 353
-
-
-REGIO DECRETO 07 aprile 1942 n. 353
-===================================
-
-Aumento di due posti di ispettore generale nel ruolo dei personali civili del Ministero dell'aeronautica. (042U0353)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/05/1942
+---
+tipo: REGIO DECRETO
+numero: 353
+data: 1942-04-07
+titolo: "Aumento di due posti di ispettore generale nel ruolo dei personali civili del Ministero dell'aeronautica. (042U0353)"
+urn: urn:nir:stato:regio.decreto:1942-04-07;353
+codice_redazionale: 042U0353
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,30 +30,24 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Per tutta la durata dell'attuale guerra e fino a un anno dopo la cessazione dello stato di guerra, il numero dei posti di ispettore generale nel ruolo dei personali civili del Ministero dell'aeronautica, stabilito dall'articolo 1 del R. decreto 20 dicembre 1937-XVI, n. 2104, e' elevato da tre a cinque. Tale aumento sara' riassorbito con le prime due vacanze che si verificheranno nel grado di ispettore generale dopo la scadenza dell'indicato termine.   
-  
-Durante tutto il periodo in cui avra' attuazione l'aumento previsto dal precedente comma, sara' lasciato vacante, nello stesso ruolo, un corrispondente numero di posti nel grado di direttore capo divisione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 7 aprile 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti addi' 23 aprile 1942-XX   
-  
-Atti del Governo, registro 444, foglio 77. - MANCINI   
+Per tutta la durata dell'attuale guerra e fino a un anno dopo la cessazione dello stato di guerra, il numero dei posti di ispettore generale nel ruolo dei personali civili del Ministero dell'aeronautica, stabilito dall'articolo 1 del R. decreto 20 dicembre 1937-XVI, n. 2104, e' elevato da tre a cinque. Tale aumento sara' riassorbito con le prime due vacanze che si verificheranno nel grado di ispettore generale dopo la scadenza dell'indicato termine. 
+ 
+ Durante tutto il periodo in cui avra' attuazione l'aumento previsto dal precedente comma, sara' lasciato vacante, nello stesso ruolo, un corrispondente numero di posti nel grado di direttore capo divisione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 7 aprile 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti addi' 23 aprile 1942-XX 
+ 
+ Atti del Governo, registro 444, foglio 77. - MANCINI

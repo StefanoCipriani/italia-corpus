@@ -1,16 +1,14 @@
-REGIO DECRETO 22 settembre 1862 n. 889
-
-
-REGIO DECRETO 22 settembre 1862 n. 889
-======================================
-
-Che riduce a cinque le Divisioni componenti il Ministero della pubblica Istruzione. (062U0889)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/11/1862
+---
+tipo: REGIO DECRETO
+numero: 889
+data: 1862-09-22
+titolo: "Che riduce a cinque le Divisioni componenti il Ministero della pubblica Istruzione. (062U0889)"
+urn: urn:nir:stato:regio.decreto:1862-09-22;889
+codice_redazionale: 062U0889
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Visto il successivo Nostro Decreto del 28 novembre 1861, in forza del quale gl'I
 
 Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica Istruzione;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le Divisioni componenti il Ministero della pubblica Istruzione da sei sono ridotte a cinque, i cui titolari saranno due di prima classe e tre di seconda.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 22 settembre 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 20 ottobre 1862   
-  
-Reg.° 21 Atti del Governo a c. 3. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
-  
-C. Matteucci.   
-  
+Le Divisioni componenti il Ministero della pubblica Istruzione da sei sono ridotte a cinque, i cui titolari saranno due di prima classe e tre di seconda. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 22 settembre 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 20 ottobre 1862 
+ 
+ Reg.° 21 Atti del Governo a c. 3. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ C. Matteucci.

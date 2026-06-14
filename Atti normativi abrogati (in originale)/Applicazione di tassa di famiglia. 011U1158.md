@@ -1,19 +1,15 @@
-REGIO DECRETO 13 ottobre 1911 n. 1158
+---
+tipo: REGIO DECRETO
+numero: 1158
+data: 1911-10-13
+titolo: "Applicazione di tassa di famiglia. (011U1158)"
+urn: urn:nir:stato:regio.decreto:1911-10-13;1158
+codice_redazionale: 011U1158
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 ottobre 1911 n. 1158
-=====================================
-
-Applicazione di tassa di famiglia. (011U1158)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 19/11/1911
-
-Art. 1
-------
-
-  
-N. 1158   
-  
-Regio decreto 13 ottobre 1911, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Calvanico di applicare nell'anno 1911, la tassa di famiglia coll'aliquota del 2 % di ridurre il minimo imponibile alla somma di L. 200 (duecento).   
-  
+N. 1158 
+ 
+ Regio decreto 13 ottobre 1911, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Calvanico di applicare nell'anno 1911, la tassa di famiglia coll'aliquota del 2 % di ridurre il minimo imponibile alla somma di L. 200 (duecento).

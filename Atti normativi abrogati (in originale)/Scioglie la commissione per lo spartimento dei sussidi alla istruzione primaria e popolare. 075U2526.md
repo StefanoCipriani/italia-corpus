@@ -1,16 +1,14 @@
-REGIO DECRETO 23 maggio 1875 n. 2526
-
-
-REGIO DECRETO 23 maggio 1875 n. 2526
-====================================
-
-Scioglie la commissione per lo spartimento dei sussidi alla istruzione primaria e popolare. (075U2526)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/07/1875
+---
+tipo: REGIO DECRETO
+numero: 2526
+data: 1875-05-23
+titolo: "Scioglie la commissione per lo spartimento dei sussidi alla istruzione primaria e popolare. (075U2526)"
+urn: urn:nir:stato:regio.decreto:1875-05-23;2526
+codice_redazionale: 075U2526
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,81 +20,47 @@ Veduto l'art. 3, § 8 del regolamento per il Consiglio Superiore di Pubblica Ist
 
 Volendo che la ripartizione dei sussidi a cui si riferisce l'articolo 29 del bilancio passivo del Ministero della Pubblica Istruzione proceda piu' speditamente al fine a cui fu preordinata;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La Commissione per la distribuzione dei sussidi alla istruzione primaria e popolare e' disciolta.
 
-  
-  
-La Commissione per la distribuzione dei sussidi alla istruzione primaria e popolare e' disciolta.   
-  
+## Art. 2.
 
-Art. 2
-------
+Il Consiglio Superiore di Pubblica Istruzione determina d'anno in anno i criteri e le norme della distribuzione dei sussidi, e in conformita' di quelli ripartisce in articoli il capitolo 29 del bilancio passivo del Ministero d'Istruzione Pubblica. 
+ 
+ Il Ministro potra' decretare durante l'anno una mutazione nella detta ripartizione in articoli, informandone il Consiglio Superiore.
 
-  
-  
-Il Consiglio Superiore di Pubblica Istruzione determina d'anno in anno i criteri e le norme della distribuzione dei sussidi, e in conformita' di quelli ripartisce in articoli il capitolo 29 del bilancio passivo del Ministero d'Istruzione Pubblica.   
-  
-Il Ministro potra' decretare durante l'anno una mutazione nella detta ripartizione in articoli, informandone il Consiglio Superiore.   
+## Art. 3.
 
-Art. 3
-------
+I provveditori centrali riuniti collegialmente delibereranno il conferimento dei sussidi, secondo le norme e i criteri determinati dal Consiglio Superiore, nei limiti degli articoli stabiliti da esso.
+La proposta degli assegni spetta al Provveditorato della istruzione elementare.
 
-  
-  
-I provveditori centrali riuniti collegialmente delibereranno il conferimento dei sussidi, secondo le norme e i criteri determinati dal Consiglio Superiore, nei limiti degli articoli stabiliti da esso.  
-La proposta degli assegni spetta al Provveditorato della istruzione elementare.   
-  
+## Art. 4.
 
-Art. 4
-------
+Il Ministro potra' associare ai provveditori centrali altre persone ragguardevoli ed esperte della materia.
 
-  
-  
-Il Ministro potra' associare ai provveditori centrali altre persone ragguardevoli ed esperte della materia.   
-  
+## Art. 5.
 
-Art. 5
-------
+I sussidi per tal modo distribuiti verranno distinti per regioni, categorie e somme: e ne sara' pubblicato ogni mese uno specchio dimostrativo nella Gazzetta Ufficiale del Regno e nel Bollettino del Ministero della Pubblica Istruzione.
 
-  
-  
-I sussidi per tal modo distribuiti verranno distinti per regioni, categorie e somme: e ne sara' pubblicato ogni mese uno specchio dimostrativo nella Gazzetta Ufficiale del Regno e nel Bollettino del Ministero della Pubblica Istruzione.   
-  
+## Art. 6.
 
-Art. 6
-------
+Uno dei provveditori centrali designato dal Ministro esercitera' ufficio di segretario presso il Consiglio Superiore, ogni volta che da questo si tratti della materia di sussidi.
 
-  
-  
-Uno dei provveditori centrali designato dal Ministro esercitera' ufficio di segretario presso il Consiglio Superiore, ogni volta che da questo si tratti della materia di sussidi.   
-  
+## Art. 7.
 
-Art. 7
-------
+Il Ministro della Pubblica Istruzione fissera' per via di regolamento, che sara' firmato d'ordine Nostro, tutte quelle regole particolari che siano stimate giovevoli a raccogliere le notizie necessarie per ben conferire o ripartire i sussidi.
 
-  
-  
-Il Ministro della Pubblica Istruzione fissera' per via di regolamento, che sara' firmato d'ordine Nostro, tutte quelle regole particolari che siano stimate giovevoli a raccogliere le notizie necessarie per ben conferire o ripartire i sussidi.   
-  
+## Art. 8.
 
-Art. 8
-------
-
-  
-  
-Tutte le anteriori disposizioni contrarie al presente decreto sono abrogate.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 maggio 1875.   
-  
-VITTORIO EMANUELE.   
-  
-R. Bonghi.   
-  
+Tutte le anteriori disposizioni contrarie al presente decreto sono abrogate. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 maggio 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ R. Bonghi.

@@ -1,19 +1,15 @@
-REGIO DECRETO 31 maggio 1914 n. 534
+---
+tipo: REGIO DECRETO
+numero: 534
+data: 1914-05-31
+titolo: "Approvazione di statuto. (014U0534)"
+urn: urn:nir:stato:regio.decreto:1914-05-31;534
+codice_redazionale: 014U0534
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 maggio 1914 n. 534
-===================================
-
-Approvazione di statuto. (014U0534)
------------------------------------
-
-Entrata in vigore del provvedimento: 04/07/1914
-
-Art. 1
-------
-
-  
-N. 534   
-  
-Regio Decreto 31 maggio 1914, col quale, sulla proposta del ministro d'agricoltura, industria e commercio, e' approvato lo statuto della Cassa di risparmio di Sassuolo.   
-  
+N. 534 
+ 
+ Regio Decreto 31 maggio 1914, col quale, sulla proposta del ministro d'agricoltura, industria e commercio, e' approvato lo statuto della Cassa di risparmio di Sassuolo.

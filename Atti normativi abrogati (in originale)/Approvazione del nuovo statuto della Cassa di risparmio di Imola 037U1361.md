@@ -1,21 +1,21 @@
-REGIO DECRETO 14 luglio 1937 n. 1361
+---
+tipo: REGIO DECRETO
+numero: 1361
+data: 1937-07-14
+titolo: "Approvazione del nuovo statuto della Cassa di risparmio di Imola (037U1361)"
+urn: urn:nir:stato:regio.decreto:1937-07-14;1361
+codice_redazionale: 037U1361
+vigente: true
+---
 
-
-REGIO DECRETO 14 luglio 1937 n. 1361
-====================================
-
-Approvazione del nuovo statuto della Cassa di risparmio di Imola (037U1361)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/08/1937
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1361. R. decreto 14 luglio 1937, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, viene approvato il nuovo testo dello statuto della Cassa di risparmio di Imola   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti addi' 3 agosto 1937 - Anno XV
+1361.
+
+R. decreto 14 luglio 1937, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, viene approvato il nuovo testo dello statuto della Cassa di risparmio di Imola 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti addi' 3 agosto 1937 - Anno XV

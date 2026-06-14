@@ -1,17 +1,17 @@
-REGIO DECRETO 08 febbraio 1920 n. 176
+---
+tipo: REGIO DECRETO
+numero: 176
+data: 1920-02-08
+titolo: "Modificazione di statuto. (020U0176)"
+urn: urn:nir:stato:regio.decreto:1920-02-08;176
+codice_redazionale: 020U0176
+vigente: true
+---
 
-
-REGIO DECRETO 08 febbraio 1920 n. 176
-=====================================
-
-Modificazione di statuto. (020U0176)
-------------------------------------
-
-Entrata in vigore del provvedimento: 14/04/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-176. Regio decreto 8 febbraio 1920, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, vengono apportate modificazioni allo statuto della «Mutualita' scolastica Santhiatese», con sede in Santhia'.
+176.
+
+Regio decreto 8 febbraio 1920, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, vengono apportate modificazioni allo statuto della «Mutualita' scolastica Santhiatese», con sede in Santhia'.

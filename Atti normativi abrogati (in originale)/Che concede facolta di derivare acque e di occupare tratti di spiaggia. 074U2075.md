@@ -1,16 +1,14 @@
-REGIO DECRETO 19 luglio 1874 n. 2075
-
-
-REGIO DECRETO 19 luglio 1874 n. 2075
-====================================
-
-Che concede facolta' di derivare acque e di occupare tratti di spiaggia. (074U2075)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/10/1874
+---
+tipo: REGIO DECRETO
+numero: 2075
+data: 1874-07-19
+titolo: "Che concede facolta' di derivare acque e di occupare tratti di spiaggia. (074U2075)"
+urn: urn:nir:stato:regio.decreto:1874-07-19;2075
+codice_redazionale: 074U2075
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,34 +20,19 @@ Visto l'elenco in cui trovansi descritte n. 12 domande dirette ad ottenere la fa
 
 Viste le inchieste amministrative regolarmente istruite per ciascuna delle relative domande, dai quali atti risulta che le derivazioni ed occupazioni richieste non recano alcun pregiudizio al buon governo si della pubblica come della privata proprieta', quando si osservino le opportune cautele;
 
-Udito
------
+Udito il parere del Consiglio di Stato, Abbiamo decretato e decretiamo quanto segue:
 
-il parere del Consiglio di Stato, Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' concessa facolta', senza pregiudizio di legittimi diritti di terzi, all'ospedale, ai comuni, ed agli individui indicati nell'annesso elenco (\*), vidimato d'ordine Nostro dal Presidente del Consiglio dei Ministri, Ministro delle Finanze, di poter derivare le acque ed occupare le aree di spiaggia ivi descritte, ciascuno per l'uso, la durata, e l'annua prestazione nello stesso elenco notati e sotto l'esatta osservanza delle altre condizioni contenute nei singoli atti d'obbligazione all'uopo stipulati.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi a dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Data a Valsavaranche, addi' 19 luglio 1874.   
-  
-VITTORIO EMANUELE.   
-  
-M. Minghetti.   
-  
----------------   
-(\*) Vedi l'elenco in 3ª pagina   
-  
-
-Elenco
-
-  
-ELENCO di numero 12 domande dirette ad ottenere la facolta' di praticare ad uso privato alcune derivazioni d'acqua da fiumi e torrenti del pubblico Demanio e di occupare altresi' ad uso privato alcuni tratti di spiaggia marina e lacuale, annesso al Reale decreto del 19 luglio 1874.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=074U207500100010110001&dgu=1874-10-02&art.dataPubblicazioneGazzetta=1874-10-02&art.codiceRedazionale=074U2075)
-  
+E' concessa facolta', senza pregiudizio di legittimi diritti di terzi, all'ospedale, ai comuni, ed agli individui indicati nell'annesso elenco (*), vidimato d'ordine Nostro dal Presidente del Consiglio dei Ministri, Ministro delle Finanze, di poter derivare le acque ed occupare le aree di spiaggia ivi descritte, ciascuno per l'uso, la durata, e l'annua prestazione nello stesso elenco notati e sotto l'esatta osservanza delle altre condizioni contenute nei singoli atti d'obbligazione all'uopo stipulati. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi a dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Data a Valsavaranche, addi' 19 luglio 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. Minghetti. 
+ 
+ --------------- 
+ (*) Vedi l'elenco in 3ª pagina

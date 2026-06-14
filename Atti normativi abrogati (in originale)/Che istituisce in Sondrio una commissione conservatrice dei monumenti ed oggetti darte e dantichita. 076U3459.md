@@ -1,16 +1,14 @@
-REGIO DECRETO 22 settembre 1876 n. 3459
-
-
-REGIO DECRETO 22 settembre 1876 n. 3459
-=======================================
-
-Che istituisce in Sondrio una commissione conservatrice dei monumenti ed oggetti d'arte e d'antichita'. (076U3459)
-------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/11/1876
+---
+tipo: REGIO DECRETO
+numero: 3459
+data: 1876-09-22
+titolo: "Che istituisce in Sondrio una commissione conservatrice dei monumenti ed oggetti d'arte e d'antichita'. (076U3459)"
+urn: urn:nir:stato:regio.decreto:1876-09-22;3459
+codice_redazionale: 076U3459
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,32 +16,20 @@ RE D'ITALIA
 
 Visto il Nostro decreto del 5 marzo 1876, numero 3028 (Serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' instituita in Sondrio una Commissione conservatrice dei monumenti ed oggetti d'arte e di antichita' di quella provincia, colle facolta' ed incumbenze stabilite dal suddetto decreto.
 
-  
-  
-E' instituita in Sondrio una Commissione conservatrice dei monumenti ed oggetti d'arte e di antichita' di quella provincia, colle facolta' ed incumbenze stabilite dal suddetto decreto.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Detta Commissione sara' composta di quattro commissari, due eletti dal Consiglio provinciale, e due da Noi, oltre il prefetto che ne sara' il presidente, il quale nominera' un impiegato della Prefettura a compiere l'ufficio di segretario.   
-  
-Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Pollenzo, addi' 22 settembre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-M. COPPINO.   
-  
-  
+Detta Commissione sara' composta di quattro commissari, due eletti dal Consiglio provinciale, e due da Noi, oltre il prefetto che ne sara' il presidente, il quale nominera' un impiegato della Prefettura a compiere l'ufficio di segretario. 
+ 
+ Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Pollenzo, addi' 22 settembre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. COPPINO.

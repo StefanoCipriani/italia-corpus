@@ -1,16 +1,14 @@
-REGIO DECRETO 04 dicembre 1870 n. 6164
-
-
-REGIO DECRETO 04 dicembre 1870 n. 6164
-======================================
-
-Riguardante il litorale della Provincia di Roma. (070U6164)
------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/01/1871
+---
+tipo: REGIO DECRETO
+numero: 6164
+data: 1870-12-04
+titolo: "Riguardante il litorale della Provincia di Roma. (070U6164)"
+urn: urn:nir:stato:regio.decreto:1870-12-04;6164
+codice_redazionale: 070U6164
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,29 +26,22 @@ Considerato che col disposto nel primo comma dell'articolo 2 del precitato Nostr
 
 Sulla proposta del Nostro Ministro della Marina;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' abrogata la disposizione contenuta nel primo comma dell'articolo 2 del Nostro Decreto 1° novembre 1870, colla quale il litorale della Provincia Romana era aggregato a quello su cui spande i suoi effetti la Cassa degl'Invalidi avente sede in Napoli, e resta invece il litorale medesimo, a forma del prescritto dalla [Legge 28 luglio 1861, n. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1861-07-28;360), aggregato alla circoscrizione della Cassa degl'Invalidi stabilita in Livorno.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 4 dicembre 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 29 dicembre 1870   
-  
-Reg. 54 Atti del Governo a c. 18. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Acton.   
-  
+E' abrogata la disposizione contenuta nel primo comma dell'articolo 2 del Nostro Decreto 1° novembre 1870, colla quale il litorale della Provincia Romana era aggregato a quello su cui spande i suoi effetti la Cassa degl'Invalidi avente sede in Napoli, e resta invece il litorale medesimo, a forma del prescritto dalla [Legge 28 luglio 1861, n. 360](Per%20listituzione%20di%20Casse%20degli%20Invalidi%20della%20Marina%20mercantile%20in%20Genova%20Livorno%20Napoli%20Palermo%20e%20Ancona.%20061U0360.md), aggregato alla circoscrizione della Cassa degl'Invalidi stabilita in Livorno. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 4 dicembre 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 29 dicembre 1870 
+ 
+ Reg. 54 Atti del Governo a c. 18. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Acton.

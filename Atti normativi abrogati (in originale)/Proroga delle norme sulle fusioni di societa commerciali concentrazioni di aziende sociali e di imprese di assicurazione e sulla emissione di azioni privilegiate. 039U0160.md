@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 03 gennaio 1939 n. 160
-
-
-REGIO DECRETO-LEGGE 03 gennaio 1939 n. 160
-==========================================
-
-Proroga delle norme sulle fusioni di societa' commerciali, concentrazioni di aziende sociali e di imprese di assicurazione e sulla emissione di azioni privilegiate. (039U0160)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/02/1939.  
-Regio Decreto-Legge convertito dalla [L. 2 giugno 1939, n. 739](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-06-02;739) (in G.U. 05/06/1939, n. 131).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 160
+data: 1939-01-03
+titolo: "Proroga delle norme sulle fusioni di societa' commerciali, concentrazioni di aziende sociali e di imprese di assicurazione e sulla emissione di azioni privilegiate. (039U0160)"
+urn: urn:nir:stato:regio.decreto.legge:1939-01-03;160
+codice_redazionale: 039U0160
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -19,58 +16,40 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100~art3-num2);
+Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Ritenuta la necessita' urgente ed assoluta di prorogare ulteriormente le disposizioni vigenti sulle fusioni di societa' commerciali, concentrazioni di aziende, concentrazioni di imprese di assicurazione e sulla emissione di azioni privilegiate;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia, di concerto con i Ministri per le finanze e per le corporazioni; Abbiamo decretato e decretiamo:
 
-proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia, di concerto con i Ministri per le finanze e per le corporazioni; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'efficacia del [R. decreto-legge 13 febbraio 1930, n. 37](Provvedimenti%20temporanei%20per%20le%20fusioni%20di%20societa%20commerciali.%20030U0037.md), convertito nella [legge 15 maggio 1930, n. 678](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20febbraio%201930%20n.%2037%20contenente%20provvedimenti%20temporanei%20per%20le%20fusioni%20di%20societa%20commerciali.%20030U0678.md), concernente le fusioni di societa' commerciali; del [R. decreto-legge 1° maggio 1930, n. 520](Onorari%20dei%20notari%20per%20gli%20atti%20di%20fusione%20di%20societa.%20030U0520.md), convertito nella [legge 3 luglio 1930, n. 975](Conversione%20in%20legge%20del%20Regio%20decreto-legge%201%20maggio%201930%20n.%20520%20concernente%20gli%20onorari%20dei%20notari%20per%20gli%20atti%20di%20fusione%20di%20societa.%20030U0975.md), relativo agli onorari notarili per gli atti di fusione di societa'; del [R. decreto-legge 13 novembre 1931, n. 1434](Provvedimenti%20per%20la%20concentrazione%20di%20aziende%20sociali.%20031U1434.md), convertito nella [legge 24 marzo 1932, n. 380](Conversione%20in%20legge%20del%20R.%20decreto-legge%2013%20novembre%201931%20n.%201434%20concernente%20provvedimenti%20per%20la%20concentrazione%20di%20aziende%20sociali.%20032U0380.md), riguardante le concentrazioni di aziende sociali, e dei provvedimenti in essi richiamati, gia' prorogata fino al 31 dicembre 1938 in virtu' del R. decreto-legge 1° luglio 1937-XV, n. 1362, e' ulteriormente prorogata al 31 dicembre 1939-XVIII. Sono altresi' prorogate al 31 dicembre 1939-XVIII le norme del [R. decreto-legge 16 giugno 1938, n. 1133](Norme%20sulle%20concentrazioni%20di%20imprese%20di%20assicurazione.%20038U1133.md), sulle concentrazioni delle imprese di assicurazione. 
+ 
+ Le agevolazioni tributarie concesse dai detti provvedimenti legislativi per le operazioni di fusione e di concentrazione, sono applicabili alle societa' commerciali gia' regolarmente costituite alla data del 30 giugno 1936, ma non sono ammessi rimborsi per tasse ordinarie relative a fusioni e concentrazioni gia' avvenute.
 
-  
-  
-L'efficacia del [R. decreto-legge 13 febbraio 1930, n. 37](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-02-13;37), convertito nella [legge 15 maggio 1930, n. 678](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-05-15;678), concernente le fusioni di societa' commerciali; del [R. decreto-legge 1° maggio 1930, n. 520](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-05-01;520), convertito nella [legge 3 luglio 1930, n. 975](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-07-03;975), relativo agli onorari notarili per gli atti di fusione di societa'; del [R. decreto-legge 13 novembre 1931, n. 1434](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-11-13;1434), convertito nella [legge 24 marzo 1932, n. 380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-03-24;380), riguardante le concentrazioni di aziende sociali, e dei provvedimenti in essi richiamati, gia' prorogata fino al 31 dicembre 1938 in virtu' del R. decreto-legge 1° luglio 1937-XV, n. 1362, e' ulteriormente prorogata al 31 dicembre 1939-XVIII. Sono altresi' prorogate al 31 dicembre 1939-XVIII le norme del [R. decreto-legge 16 giugno 1938, n. 1133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-06-16;1133), sulle concentrazioni delle imprese di assicurazione.   
-  
-Le agevolazioni tributarie concesse dai detti provvedimenti legislativi per le operazioni di fusione e di concentrazione, sono applicabili alle societa' commerciali gia' regolarmente costituite alla data del 30 giugno 1936, ma non sono ammessi rimborsi per tasse ordinarie relative a fusioni e concentrazioni gia' avvenute.   
-  
-  
+## Art. 2.
 
-Art. 2
-------
+E' ulteriormente prorogata al 31 dicembre 1939-XVIII l'efficacia del [R. decreto-legge 21 novembre 1932, n. 1623](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-11-21;1623), convertito nella [legge 30 marzo 1933, n. 330](Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20novembre%201932%20n.%201623%20recante%20provvedimenti%20temporanei%20per%20le%20deliberazioni%20di%20aumento%20di%20capitale%20mediante%20emissione%20di%20azioni%20privilegiate%20n_3d48c975efbf.md), contenente provvedimenti per le deliberazioni di aumento di capitale mediante emissione di azioni privilegiate.
 
-  
-  
-E' ulteriormente prorogata al 31 dicembre 1939-XVIII l'efficacia del [R. decreto-legge 21 novembre 1932, n. 1623](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1932-11-21;1623), convertito nella [legge 30 marzo 1933, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1933-03-30;330), contenente provvedimenti per le deliberazioni di aumento di capitale mediante emissione di azioni privilegiate.   
-  
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il presente decreto entra in vigore nel giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la sua conversione in legge.   
-  
-Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 gennaio 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Solmi - Di Revel - Lantini   
-  
-Visto, il Guardasigilli: Solmi   
-  
-Registrato alta Corte dei conti, addi' 13 febbraio 1939-XVII   
-  
-Atti del Governo, registro 406, foglio 51. - Mancini.   
-  
-  
+Il presente decreto entra in vigore nel giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la sua conversione in legge. 
+ 
+ Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 gennaio 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Solmi - Di Revel - Lantini 
+ 
+ Visto, il Guardasigilli: Solmi 
+ 
+ Registrato alta Corte dei conti, addi' 13 febbraio 1939-XVII 
+ 
+ Atti del Governo, registro 406, foglio 51. - Mancini.

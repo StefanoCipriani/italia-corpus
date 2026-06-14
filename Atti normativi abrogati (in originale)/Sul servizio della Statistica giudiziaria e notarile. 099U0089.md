@@ -1,16 +1,14 @@
-REGIO DECRETO 02 marzo 1899 n. 89
-
-
-REGIO DECRETO 02 marzo 1899 n. 89
-=================================
-
-Sul servizio della Statistica giudiziaria e notarile. (099U0089)
-----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/04/1899
+---
+tipo: REGIO DECRETO
+numero: 89
+data: 1899-03-02
+titolo: "Sul servizio della Statistica giudiziaria e notarile. (099U0089)"
+urn: urn:nir:stato:regio.decreto:1899-03-02;89
+codice_redazionale: 099U0089
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,26 +20,19 @@ Visto il decreto 26 gennaio 1899, n. 23, che stabilisce il nuovo ruolo organico 
 
 Ritenuta la convenienza di far intervenire nella predetta Commissione, come membri di diritto, i due Direttori Generali del Ministero stesso;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti, di concerto col Ministro d'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti, di concerto col Ministro d'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I due Direttori Generali del Ministero di Grazia e Giustizia e dei Culti, sono chiamati a far parte, come membri di diritto, della Commissione per la statistica giudiziaria e notarile.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 marzo 1899.   
-  
-UMBERTO.   
-  
-C. Finocchiaro-Aprile.   
-A. Fortis.   
-  
-Visto, Il Guardasigilli: C. Finocchiaro-Aprile.   
-  
+I due Direttori Generali del Ministero di Grazia e Giustizia e dei Culti, sono chiamati a far parte, come membri di diritto, della Commissione per la statistica giudiziaria e notarile. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 marzo 1899. 
+ 
+ UMBERTO. 
+ 
+ C. Finocchiaro-Aprile. 
+ A. Fortis. 
+ 
+ Visto, Il Guardasigilli: C. Finocchiaro-Aprile.

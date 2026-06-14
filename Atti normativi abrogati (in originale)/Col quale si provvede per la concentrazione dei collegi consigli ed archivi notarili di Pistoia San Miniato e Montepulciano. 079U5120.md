@@ -1,16 +1,14 @@
-REGIO DECRETO 13 ottobre 1879 n. 5120
-
-
-REGIO DECRETO 13 ottobre 1879 n. 5120
-=====================================
-
-Col quale si provvede per la concentrazione dei collegi, consigli ed archivi notarili di Pistoia, San Miniato e Montepulciano. (079U5120)
------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/11/1879
+---
+tipo: REGIO DECRETO
+numero: 5120
+data: 1879-10-13
+titolo: "Col quale si provvede per la concentrazione dei collegi, consigli ed archivi notarili di Pistoia, San Miniato e Montepulciano. (079U5120)"
+urn: urn:nir:stato:regio.decreto:1879-10-13;5120
+codice_redazionale: 079U5120
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,26 +20,19 @@ Ritenuto che le summentovate speciali circostanze concorrono per i distretti not
 
 Considerato che i distretti di Pistoia, San Miniato e Montepulciano debbono essere necessariamente riuniti ai distretti dei rispettivi capiluoghi delle provincie di Firenze e di Siena, perche' nei territori delle provincie stesse non esistono altri distretti notarili;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Collegi, i Consigli e gli Archivi notarili di Pistoia, di San Miniato e di Montepulciano sono soppressi e riuniti rispettivamente ai distretti notarili dei capiluoghi delle provincie di Firenze i due primi e di Siena il terzo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 13 ottobre 1879.   
-  
-UMBERTO.   
-  
-Vare'.   
-  
-Visto - Il Guardasigilli   
-Vare'.   
-  
+I Collegi, i Consigli e gli Archivi notarili di Pistoia, di San Miniato e di Montepulciano sono soppressi e riuniti rispettivamente ai distretti notarili dei capiluoghi delle provincie di Firenze i due primi e di Siena il terzo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 13 ottobre 1879. 
+ 
+ UMBERTO. 
+ 
+ Vare'. 
+ 
+ Visto - Il Guardasigilli 
+ Vare'.

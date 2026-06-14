@@ -1,21 +1,21 @@
-REGIO DECRETO 29 gennaio 1931 n. 124
+---
+tipo: REGIO DECRETO
+numero: 124
+data: 1931-01-29
+titolo: "Autorizzazione alla Cassa scolastica del Regio liceo-ginnasio di Spoleto ad accettare una donazione. (031U0124)"
+urn: urn:nir:stato:regio.decreto:1931-01-29;124
+codice_redazionale: 031U0124
+vigente: true
+---
 
-
-REGIO DECRETO 29 gennaio 1931 n. 124
-====================================
-
-Autorizzazione alla Cassa scolastica del Regio liceo-ginnasio di Spoleto ad accettare una donazione. (031U0124)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/03/1931
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-124. R. decreto 29 gennaio 1931, col quale, sulla proposta del Ministro per l'educazione nazionale, la Cassa scolastica del Regio liceo-ginnasio di Spoleto viene intitolata al nome di Livio Tumodei, ed autorizzata ad accettare la donazione di L. 5000 nominali, disposta in suo favore dalla signora Anna Cerini vedova Tumodei.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 21 febbraio 1931 - Anno IX
+124.
+
+R. decreto 29 gennaio 1931, col quale, sulla proposta del Ministro per l'educazione nazionale, la Cassa scolastica del Regio liceo-ginnasio di Spoleto viene intitolata al nome di Livio Tumodei, ed autorizzata ad accettare la donazione di L. 5000 nominali, disposta in suo favore dalla signora Anna Cerini vedova Tumodei. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 21 febbraio 1931 - Anno IX

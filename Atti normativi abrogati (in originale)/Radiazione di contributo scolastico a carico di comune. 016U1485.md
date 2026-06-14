@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 01 ottobre 1916 n. 1485
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1485
+data: 1916-10-01
+titolo: "Radiazione di contributo scolastico a carico di comune. (016U1485)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-10-01;1485
+codice_redazionale: 016U1485
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 01 ottobre 1916 n. 1485
-===============================================
-
-Radiazione di contributo scolastico a carico di comune. (016U1485)
-------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/11/1916
-
-Art. 1
-------
-
-null
+## Art. 1. — null

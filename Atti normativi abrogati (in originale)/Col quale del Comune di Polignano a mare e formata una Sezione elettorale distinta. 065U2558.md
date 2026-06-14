@@ -1,16 +1,14 @@
-REGIO DECRETO 08 ottobre 1865 n. 2558
-
-
-REGIO DECRETO 08 ottobre 1865 n. 2558
-=====================================
-
-Col quale del Comune di Polignano a mare e' formata una Sezione elettorale distinta. (065U2558)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1865
+---
+tipo: REGIO DECRETO
+numero: 2558
+data: 1865-10-08
+titolo: "Col quale del Comune di Polignano a mare e' formata una Sezione elettorale distinta. (065U2558)"
+urn: urn:nir:stato:regio.decreto:1865-10-08;2558
+codice_redazionale: 065U2558
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA RAZIONE
 
@@ -26,30 +24,22 @@ Noverandosi nel Comune di Polignano a mare piu' di 40 Elettori e piu' di altrett
 
 Udito il Consiglio de' Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Polignano a mare che sino ad ora fece parte della Sezione detta di Monopoli del Collegio elettorale di Monopoli, n.° 376, costituira' d'ora in poi una Sezione separata del Collegio medesimo.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Torino addi' 8 ottobre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 19 ottobre 1865   
-  
-Reg.° 33 Atti del Governo a c. 258. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
-  
-  
+Il Comune di Polignano a mare che sino ad ora fece parte della Sezione detta di Monopoli del Collegio elettorale di Monopoli, n.° 376, costituira' d'ora in poi una Sezione separata del Collegio medesimo. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Torino addi' 8 ottobre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 19 ottobre 1865 
+ 
+ Reg.° 33 Atti del Governo a c. 258. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli.

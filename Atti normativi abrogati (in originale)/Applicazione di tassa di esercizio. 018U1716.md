@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 15 settembre 1918 n. 1716
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1716
+data: 1918-09-15
+titolo: "Applicazione di tassa di esercizio. (018U1716)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-09-15;1716
+codice_redazionale: 018U1716
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 15 settembre 1918 n. 1716
-=================================================
-
-Applicazione di tassa di esercizio. (018U1716)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 20/12/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1716. Decreto Luogotenenziale 15 settembre 1918, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Arzignano (Vicenza) di applicare del 1° gennaio 1918 al 31 dicembre dell'anno in cui cessera' la guerra la tassa di esercizio col limite massimo di L. 2000.
+1716.
+
+Decreto Luogotenenziale 15 settembre 1918, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Arzignano (Vicenza) di applicare del 1° gennaio 1918 al 31 dicembre dell'anno in cui cessera' la guerra la tassa di esercizio col limite massimo di L. 2000.

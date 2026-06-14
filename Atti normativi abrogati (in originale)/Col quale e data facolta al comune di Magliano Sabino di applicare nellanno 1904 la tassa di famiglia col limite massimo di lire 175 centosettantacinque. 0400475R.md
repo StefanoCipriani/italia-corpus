@@ -1,21 +1,17 @@
-REGIO DECRETO 31 ottobre 1904 n. CCCCLXXV
+---
+tipo: REGIO DECRETO
+numero: CCCCLXXV
+data: 1904-10-31
+titolo: "Col quale e' data facolta' al comune di Magliano Sabino di applicare nell'anno 1904 la tassa di famiglia col limite massimo di lire 175 (centosettantacinque). (0400475R)"
+urn: urn:nir:stato:regio.decreto:1904-10-31;475
+codice_redazionale: 0400475R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 ottobre 1904 n. CCCCLXXV
-=========================================
-
-Col quale e' data facolta' al comune di Magliano Sabino di applicare nell'anno 1904 la tassa di famiglia col limite massimo di lire 175 (centosettantacinque). (0400475R)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/12/1904
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di Magliano Sabino di applicare nell'anno 1904 la tassa di famiglia col limite massimo di lire 175 (centosettantacinque). - Firmato VITTORIO EMANUELE - Controfirmato L. Luzzatti - Visto Ronchetti.   
-  
-Registrato alla Corte dei Conti addi' 28 novembre 1904.   
-  
-Reg. 19. Atti del GoVerno a f. 172.   
-  
+Col quale e' data facolta' al comune di Magliano Sabino di applicare nell'anno 1904 la tassa di famiglia col limite massimo di lire 175 (centosettantacinque). - Firmato VITTORIO EMANUELE - Controfirmato L. Luzzatti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei Conti addi' 28 novembre 1904. 
+ 
+ Reg. 19. Atti del GoVerno a f. 172.

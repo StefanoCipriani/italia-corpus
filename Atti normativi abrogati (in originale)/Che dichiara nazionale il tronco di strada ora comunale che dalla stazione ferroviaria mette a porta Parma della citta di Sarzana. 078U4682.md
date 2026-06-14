@@ -1,16 +1,14 @@
-REGIO DECRETO 08 dicembre 1878 n. 4682
-
-
-REGIO DECRETO 08 dicembre 1878 n. 4682
-======================================
-
-Che dichiara nazionale il tronco di strada, ora comunale, che dalla stazione ferroviaria mette a porta Parma della citta' di Sarzana. (078U4682)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/02/1879
+---
+tipo: REGIO DECRETO
+numero: 4682
+data: 1878-12-08
+titolo: "Che dichiara nazionale il tronco di strada, ora comunale, che dalla stazione ferroviaria mette a porta Parma della citta' di Sarzana. (078U4682)"
+urn: urn:nir:stato:regio.decreto:1878-12-08;4682
+codice_redazionale: 078U4682
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,7 +18,7 @@ Visto il ricorso presentato dal comune di Sarzana in data 27 marzo ultimo scorso
 
 Vista la legge suaccennata in data 20 marzo 1865, numero 2248, allegato F;
 
-Visto il voto espresso dal Consiglio Superiore dei Lavori Pubblici nell'adunanza del [28 settembre 1878, ed il parere del Consiglio di Stato](https://e-justice.europa.eu/ecli/ECLI::::) emesso nell'adunanza del 2 novembre corrente;
+Visto il voto espresso dal Consiglio Superiore dei Lavori Pubblici nell'adunanza del 28 settembre 1878, ed il parere del Consiglio di Stato emesso nell'adunanza del 2 novembre corrente;
 
 Considerando che non puo' mettersi in dubbio che l'indicato tratto di strada, il quale, partendo dalla stazione ferroviaria, attraversa la citta' di Sarzana, abbia tutti i caratteri dalla legge sovrallegata voluti per essere dichiarato nazionale;
 
@@ -28,23 +26,16 @@ Considerando che la strada nazionale Spezia-Cremona, mentre puo' tornare anche u
 
 Considerando che dalle disposizioni dell'articolo 11 della legge gia' citata si deduce che, quando fra due punti del territorio dello Stato le comunicazioni possono farsi piu' agevolmente parte per strada ordinaria e parte per ferrovia, e la strada ordinaria che congiunge uno dei due punti ha i caratteri di nazionale, questa deve considerarsi come tale sino alla stazione piu' vicina della ferrovia;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stati pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stati pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il tratto di strada che parte dalla stazione ferroviaria e per via della Marina, via Spina, olim degli Asili e Piazza San Giorgio, mette alla Porta Parma della citta' di Sarzana, e' dichiarato nazionale a partire dal 1° gennaio 1880, e come tale unito alla strada nazionale n. 22 da Spezia a Cremona, per tutti gli effetti previsti dalla vigente legge sulle opere pubbliche.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 dicembre 1878.   
-  
-UMBERTO.   
-  
-A. Baccarini.   
-  
+Il tratto di strada che parte dalla stazione ferroviaria e per via della Marina, via Spina, olim degli Asili e Piazza San Giorgio, mette alla Porta Parma della citta' di Sarzana, e' dichiarato nazionale a partire dal 1° gennaio 1880, e come tale unito alla strada nazionale n. 22 da Spezia a Cremona, per tutti gli effetti previsti dalla vigente legge sulle opere pubbliche. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 dicembre 1878. 
+ 
+ UMBERTO. 
+ 
+ A. Baccarini.

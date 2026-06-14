@@ -1,17 +1,17 @@
-REGIO DECRETO 31 gennaio 1921 n. 226
+---
+tipo: REGIO DECRETO
+numero: 226
+data: 1921-01-31
+titolo: "Applicazione di tasse di soggiorno. (021U0226)"
+urn: urn:nir:stato:regio.decreto:1921-01-31;226
+codice_redazionale: 021U0226
+vigente: true
+---
 
-
-REGIO DECRETO 31 gennaio 1921 n. 226
-====================================
-
-Applicazione di tasse di soggiorno. (021U0226)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 05/04/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-226. Regio decreto 31 gennaio 1921, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, si autorizza il comune di Fano (Pesaro) ad applicare la tassa di soggiorno e se ne omologa il regolamento.
+226.
+
+Regio decreto 31 gennaio 1921, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, si autorizza il comune di Fano (Pesaro) ad applicare la tassa di soggiorno e se ne omologa il regolamento.

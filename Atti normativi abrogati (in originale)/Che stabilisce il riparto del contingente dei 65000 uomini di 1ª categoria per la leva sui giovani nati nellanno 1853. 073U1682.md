@@ -1,52 +1,33 @@
-REGIO DECRETO 13 novembre 1873 n. 1682
-
-
-REGIO DECRETO 13 novembre 1873 n. 1682
-======================================
-
-Che stabilisce il riparto del contingente dei 65,000 uomini di 1ª categoria per la leva sui giovani nati nell'anno 1853. (073U1682)
------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/12/1873
+---
+tipo: REGIO DECRETO
+numero: 1682
+data: 1873-11-13
+titolo: "Che stabilisce il riparto del contingente dei 65,000 uomini di 1ª categoria per la leva sui giovani nati nell'anno 1853. (073U1682)"
+urn: urn:nir:stato:regio.decreto:1873-11-13;1682
+codice_redazionale: 073U1682
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [Legge 2 luglio 1873, n. 1408](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-07-02;1408);
+Vista la [Legge 2 luglio 1873, n. 1408](Che%20autorizza%20la%20leva%20militare%20sui%20giovani%20nati%20nellanno%201853.%20073U1408.md);
 
 Visto l'articolo 9 della Legge organica sul reclutamento in data 20 marzo 1854;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il riparto del contingente dei 65,000 uomini di 1ª categoria, per la leva sui giovani nati nell'anno 1853, e' stabilito dalla qui annessa Tabella, firmata d'ordine Nostro dal Ministro della Guerra.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 13 novembre 1873.   
-  
-VITTORIO EMANUELE   
-  
-Ricotti.   
-  
-
-Tabella
-
-  
-LEVA SUI GIOVANI NATI NELL'ANNO 1853   
-  
-TABELLA indicante il riparto del contingente di 1ª categoria   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=073U168200100010110001&dgu=1873-11-29&art.dataPubblicazioneGazzetta=1873-11-29&art.codiceRedazionale=073U1682)
-  
+Il riparto del contingente dei 65,000 uomini di 1ª categoria, per la leva sui giovani nati nell'anno 1853, e' stabilito dalla qui annessa Tabella, firmata d'ordine Nostro dal Ministro della Guerra. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 13 novembre 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Ricotti.

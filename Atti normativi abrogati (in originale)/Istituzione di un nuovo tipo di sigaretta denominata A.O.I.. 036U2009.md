@@ -1,16 +1,14 @@
-REGIO DECRETO 29 ottobre 1936 n. 2009
-
-
-REGIO DECRETO 29 ottobre 1936 n. 2009
-=====================================
-
-Istituzione di un nuovo tipo di sigaretta denominata «A.O.I.». (036U2009)
--------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/12/1936
+---
+tipo: REGIO DECRETO
+numero: 2009
+data: 1936-10-29
+titolo: "Istituzione di un nuovo tipo di sigaretta denominata «A.O.I.». (036U2009)"
+urn: urn:nir:stato:regio.decreto:1936-10-29;2009
+codice_redazionale: 036U2009
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,21 @@ Sentito il Consiglio di amministrazione dei monopoli di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Alla tariffa di vendita dei tabacchi lavorati nazionali e' aggiunto un nuovo tipo di sigaretta denominata «A. O. I.», da vendersi al pubblico a L. 200 il chilogrammo e, cioe', a centesimi 20 ogni sigaretta.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando, a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 29 ottobre 1936 - Anno XV   
-  
-VITTORIO EMANUELE.   
-  
-MUSSOLINI - DI REVEL.   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 25 novembre 1936 - Anno XV   
-Atti del Governo, registro 379, foglio 132. - MANCINI.   
-  
-  
+Alla tariffa di vendita dei tabacchi lavorati nazionali e' aggiunto un nuovo tipo di sigaretta denominata «A. O. I.», da vendersi al pubblico a L. 200 il chilogrammo e, cioe', a centesimi 20 ogni sigaretta. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando, a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 29 ottobre 1936 - Anno XV 
+ 
+ VITTORIO EMANUELE. 
+ 
+ MUSSOLINI - DI REVEL. 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 25 novembre 1936 - Anno XV  
+ Atti del Governo, registro 379, foglio 132. - MANCINI.

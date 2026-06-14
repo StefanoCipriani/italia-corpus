@@ -1,17 +1,17 @@
-REGIO DECRETO 18 maggio 1922 n. 765
+---
+tipo: REGIO DECRETO
+numero: 765
+data: 1922-05-18
+titolo: "Istituzione di Consolato. (022U0765)"
+urn: urn:nir:stato:regio.decreto:1922-05-18;765
+codice_redazionale: 022U0765
+vigente: true
+---
 
-
-REGIO DECRETO 18 maggio 1922 n. 765
-===================================
-
-Istituzione di Consolato. (022U0765)
-------------------------------------
-
-Entrata in vigore del provvedimento: 13/07/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-765. Regio decreto 18 maggio 1922, col quale, sulla proposta del ministro per gli affari esteri, e' istituito un Nostro Consolato di seconda categoria in Strasburgo, con giurisdizione su l'Alsazia.
+765.
+
+Regio decreto 18 maggio 1922, col quale, sulla proposta del ministro per gli affari esteri, e' istituito un Nostro Consolato di seconda categoria in Strasburgo, con giurisdizione su l'Alsazia.

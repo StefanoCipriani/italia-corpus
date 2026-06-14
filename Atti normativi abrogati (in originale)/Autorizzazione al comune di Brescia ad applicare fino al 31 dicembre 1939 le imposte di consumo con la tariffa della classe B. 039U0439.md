@@ -1,16 +1,14 @@
-REGIO DECRETO 16 febbraio 1939 n. 439
-
-
-REGIO DECRETO 16 febbraio 1939 n. 439
-=====================================
-
-Autorizzazione al comune di Brescia ad applicare fino al 31 dicembre 1939 le imposte di consumo con la tariffa della classe B. (039U0439)
------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/03/1939
+---
+tipo: REGIO DECRETO
+numero: 439
+data: 1939-02-16
+titolo: "Autorizzazione al comune di Brescia ad applicare fino al 31 dicembre 1939 le imposte di consumo con la tariffa della classe B. (039U0439)"
+urn: urn:nir:stato:regio.decreto:1939-02-16;439
+codice_redazionale: 039U0439
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,22 @@ Vista l'istanza in data 12 settembre 1938-XVII con la quale il podesta' del Comu
 
 Udita la Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Brescia e' autorizzato ad applicare le imposte di consumo in base alla tariffa, della classe B, fino al 31 dicembre 1939-XVIII.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 febbraio 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 10 marzo 1939-XVII   
-  
-Atti del Governo, registro 407, foglio 30. - Mancini.   
+Il comune di Brescia e' autorizzato ad applicare le imposte di consumo in base alla tariffa, della classe B, fino al 31 dicembre 1939-XVIII. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 febbraio 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 10 marzo 1939-XVII 
+ 
+ Atti del Governo, registro 407, foglio 30. - Mancini.

@@ -1,16 +1,14 @@
-REGIO DECRETO 02 aprile 1871 n. 155
-
-
-REGIO DECRETO 02 aprile 1871 n. 155
-===================================
-
-Col quale il Comune di Quigliano costituira' una Sezione del Collegio elettorale di Savona. (071U0155)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/04/1871
+---
+tipo: REGIO DECRETO
+numero: 155
+data: 1871-04-02
+titolo: "Col quale il Comune di Quigliano costituira' una Sezione del Collegio elettorale di Savona. (071U0155)"
+urn: urn:nir:stato:regio.decreto:1871-04-02;155
+codice_redazionale: 071U0155
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Quigliano costituira' d'ora in poi una Sezione del Collegio elettorale di Savona, con sede nel capoluogo del Comune stesso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 2 aprile 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 6 aprile 1871   
-  
-Reg. 55 Atti del Governo a c. 74. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+Il Comune di Quigliano costituira' d'ora in poi una Sezione del Collegio elettorale di Savona, con sede nel capoluogo del Comune stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 2 aprile 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 6 aprile 1871 
+ 
+ Reg. 55 Atti del Governo a c. 74. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

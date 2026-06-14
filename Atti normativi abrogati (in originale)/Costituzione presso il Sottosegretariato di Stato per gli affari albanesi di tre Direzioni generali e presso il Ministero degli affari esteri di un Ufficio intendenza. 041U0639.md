@@ -1,16 +1,14 @@
-REGIO DECRETO 19 maggio 1941 n. 639
-
-
-REGIO DECRETO 19 maggio 1941 n. 639
-===================================
-
-Costituzione presso il Sottosegretariato di Stato per gli affari albanesi di tre Direzioni generali e presso il Ministero degli affari esteri di un Ufficio intendenza. (041U0639)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/07/1941
+---
+tipo: REGIO DECRETO
+numero: 639
+data: 1941-05-19
+titolo: "Costituzione presso il Sottosegretariato di Stato per gli affari albanesi di tre Direzioni generali e presso il Ministero degli affari esteri di un Ufficio intendenza. (041U0639)"
+urn: urn:nir:stato:regio.decreto:1941-05-19;639
+codice_redazionale: 041U0639
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,63 +30,42 @@ Sentito il Consiglio di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari esteri di concerto col Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari esteri di concerto col Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il Sottosegretariato di Stato per gli affari albanesi e' costituito da tre Direzioni generali ripartite complessivamente in otto uffici, e da un Servizio, denominati e composti come appresso: 
+ 
+ 1) Direzione generale degli affari generali e politici per l'Albania, con tre uffici; 
+ 
+ 2) Direzione generale degli affari economici e delle opere pubbliche per l'Albania, con tre uffici; 
+ 
+ 3) Direzione generale degli affari amministrativi e del personale per l'Albania, con due uffici; 
+ 
+ 4) Servizio stampa, propaganda e turismo.
 
-  
-  
-Il Sottosegretariato di Stato per gli affari albanesi e' costituito da tre Direzioni generali ripartite complessivamente in otto uffici, e da un Servizio, denominati e composti come appresso:   
-  
-1) Direzione generale degli affari generali e politici per l'Albania, con tre uffici;   
-  
-2) Direzione generale degli affari economici e delle opere pubbliche per l'Albania, con tre uffici;   
-  
-3) Direzione generale degli affari amministrativi e del personale per l'Albania, con due uffici;   
-  
-4) Servizio stampa, propaganda e turismo.   
+## Art. 2.
 
-Art. 2
-------
+E' istituito presso l'Amministrazione centrale degli affari esteri un Servizio intendenza.
 
-  
-  
-E' istituito presso l'Amministrazione centrale degli affari esteri un Servizio intendenza.   
-  
-  
+## Art. 3.
 
-Art. 3
-------
+Il numero complessivo dei Servizi e degli Uffici dell'Amministrazione centrale degli affari esteri e' fissato pertanto in 39.
 
-  
-  
-Il numero complessivo dei Servizi e degli Uffici dell'Amministrazione centrale degli affari esteri e' fissato pertanto in 39.   
-  
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Il presente decreto ha vigore dalla data della pubblicazione nella Gazzetta Ufficiale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 maggio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Ciano - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 15 luglio 1941-XIX   
-  
-Atti del Governo, registro 435, foglio 49. - Mancini   
-  
-  
+Il presente decreto ha vigore dalla data della pubblicazione nella Gazzetta Ufficiale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 maggio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Ciano - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 15 luglio 1941-XIX 
+ 
+ Atti del Governo, registro 435, foglio 49. - Mancini

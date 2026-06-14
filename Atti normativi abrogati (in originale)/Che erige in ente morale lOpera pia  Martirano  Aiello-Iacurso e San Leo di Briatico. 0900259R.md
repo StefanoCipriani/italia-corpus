@@ -1,19 +1,15 @@
-REGIO DECRETO 20 giugno 1909 n. CCLIX
+---
+tipo: REGIO DECRETO
+numero: CCLIX
+data: 1909-06-20
+titolo: "Che erige in ente morale l'Opera pia « Martirano » Aiello-Iacurso e San Leo di Briatico. (0900259R)"
+urn: urn:nir:stato:regio.decreto:1909-06-20;259
+codice_redazionale: 0900259R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 giugno 1909 n. CCLIX
-=====================================
-
-Che erige in ente morale l'Opera pia « Martirano » Aiello-Iacurso e San Leo di Briatico. (0900259R)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/08/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCLIX (Dato a Roma, il 20 giugno 1909), col quale l'opera pia di Martirano - Aiello - Jacurso e San Leo di Briatico viene eretta in ente morale e ne viene approvato lo statuto organico.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCLIX (Dato a Roma, il 20 giugno 1909), col quale l'opera pia di Martirano - Aiello - Jacurso e San Leo di Briatico viene eretta in ente morale e ne viene approvato lo statuto organico.

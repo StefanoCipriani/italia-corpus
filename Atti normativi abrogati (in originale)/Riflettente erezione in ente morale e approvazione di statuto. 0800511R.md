@@ -1,19 +1,15 @@
-REGIO DECRETO 20 novembre 1908 n. DXI
+---
+tipo: REGIO DECRETO
+numero: DXI
+data: 1908-11-20
+titolo: "Riflettente erezione in ente morale e approvazione di statuto. (0800511R)"
+urn: urn:nir:stato:regio.decreto:1908-11-20;511
+codice_redazionale: 0800511R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 novembre 1908 n. DXI
-=====================================
-
-Riflettente erezione in ente morale e approvazione di statuto. (0800511R)
--------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/01/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. DXI (Dato a San Rossore, il 20 novembre 1908), col quale l'opera pia Baldanzi di Porto Longone (Livorno) e' eretta in ente morale e ne e' approvato lo statuto organico.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. DXI (Dato a San Rossore, il 20 novembre 1908), col quale l'opera pia Baldanzi di Porto Longone (Livorno) e' eretta in ente morale e ne e' approvato lo statuto organico.

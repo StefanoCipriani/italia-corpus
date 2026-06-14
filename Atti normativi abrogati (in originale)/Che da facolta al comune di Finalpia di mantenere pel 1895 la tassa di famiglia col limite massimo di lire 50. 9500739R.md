@@ -1,21 +1,17 @@
-REGIO DECRETO 15 dicembre 1895 n. DCCXXXIX
+---
+tipo: REGIO DECRETO
+numero: DCCXXXIX
+data: 1895-12-15
+titolo: "Che da' facolta' al comune di Finalpia di mantenere pel 1895, la tassa di famiglia col limite massimo di lire 50. (9500739R)"
+urn: urn:nir:stato:regio.decreto:1895-12-15;739
+codice_redazionale: 9500739R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 dicembre 1895 n. DCCXXXIX
-==========================================
-
-Che da' facolta' al comune di Finalpia di mantenere pel 1895, la tassa di famiglia col limite massimo di lire 50. (9500739R)
-----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/01/1896
-
-Art. 1
-------
-
-  
-Che da' facolta' al comune di Finalpia di mantenere pel 1895, la tassa di famiglia col limite massimo di lire cinquanta (L. 50). - Firmato UMBERTO - Contrassegnato P. Boselli - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 27 dicembre 1895.   
-  
-Reg. 203. Atti del Governo a f. 57.   
-  
+Che da' facolta' al comune di Finalpia di mantenere pel 1895, la tassa di famiglia col limite massimo di lire cinquanta (L. 50). - Firmato UMBERTO - Contrassegnato P. Boselli - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 27 dicembre 1895. 
+ 
+ Reg. 203. Atti del Governo a f. 57.

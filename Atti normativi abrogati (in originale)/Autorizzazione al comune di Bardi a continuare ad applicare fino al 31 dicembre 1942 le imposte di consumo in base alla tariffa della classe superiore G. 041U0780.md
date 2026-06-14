@@ -1,16 +1,14 @@
-REGIO DECRETO 25 luglio 1941 n. 780
-
-
-REGIO DECRETO 25 luglio 1941 n. 780
-===================================
-
-Autorizzazione al comune di Bardi a continuare ad applicare fino al 31 dicembre 1942, le imposte di consumo in base alla tariffa della classe superiore G. (041U0780)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/08/1941
+---
+tipo: REGIO DECRETO
+numero: 780
+data: 1941-07-25
+titolo: "Autorizzazione al comune di Bardi a continuare ad applicare fino al 31 dicembre 1942, le imposte di consumo in base alla tariffa della classe superiore G. (041U0780)"
+urn: urn:nir:stato:regio.decreto:1941-07-25;780
+codice_redazionale: 041U0780
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,24 @@ Ritenuto che la domanda e' giustificata da imprescindibili necessita' della civi
 
 Udita la Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il comune di Bardi e' autorizzato a continuare ad applicare le imposte di consumo in base alla tariffa della classe superiore G fino al 31 dicembre
 
-1942. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 25 luglio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 11 agosto 1941-XIX   
-  
-Atti del Governo, registro 430, foglio 32. - MANCINI
+1942.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 25 luglio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 11 agosto 1941-XIX 
+ 
+ Atti del Governo, registro 430, foglio 32. - MANCINI

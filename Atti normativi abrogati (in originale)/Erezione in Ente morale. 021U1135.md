@@ -1,17 +1,17 @@
-REGIO DECRETO 28 luglio 1921 n. 1135
+---
+tipo: REGIO DECRETO
+numero: 1135
+data: 1921-07-28
+titolo: "Erezione in Ente morale. (021U1135)"
+urn: urn:nir:stato:regio.decreto:1921-07-28;1135
+codice_redazionale: 021U1135
+vigente: true
+---
 
-
-REGIO DECRETO 28 luglio 1921 n. 1135
-====================================
-
-Erezione in Ente morale. (021U1135)
------------------------------------
-
-Entrata in vigore del provvedimento: 16/09/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1135. Regio decreto 28 luglio 1921, col quale, sulla proposta del ministro per l'industria e il commercio, l'Istituto autonomo per le case popolari antisismiche, in Pontremoli, viene eretto in Ente morale ed approvato lo statuto organico relativo.
+1135.
+
+Regio decreto 28 luglio 1921, col quale, sulla proposta del ministro per l'industria e il commercio, l'Istituto autonomo per le case popolari antisismiche, in Pontremoli, viene eretto in Ente morale ed approvato lo statuto organico relativo.

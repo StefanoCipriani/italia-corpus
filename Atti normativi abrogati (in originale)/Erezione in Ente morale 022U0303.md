@@ -1,17 +1,13 @@
-REGIO DECRETO 16 febbraio 1922 n. 303
+---
+tipo: REGIO DECRETO
+numero: 303
+data: 1922-02-16
+titolo: "Erezione in Ente morale (022U0303)"
+urn: urn:nir:stato:regio.decreto:1922-02-16;303
+codice_redazionale: 022U0303
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 febbraio 1922 n. 303
-=====================================
-
-Erezione in Ente morale (022U0303)
-----------------------------------
-
-Entrata in vigore del provvedimento: 18/04/1922
-
-Art. 1
-------
-
-  
-N.303. Regio decreto 16 febbraio 1922, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'Opera pia Diviani in Milano, viene eretta in Ente morale con amministrazione autonoma, e ne e' approvato lo statuto organico.   
-  
+N.303. Regio decreto 16 febbraio 1922, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'Opera pia Diviani in Milano, viene eretta in Ente morale con amministrazione autonoma, e ne e' approvato lo statuto organico.

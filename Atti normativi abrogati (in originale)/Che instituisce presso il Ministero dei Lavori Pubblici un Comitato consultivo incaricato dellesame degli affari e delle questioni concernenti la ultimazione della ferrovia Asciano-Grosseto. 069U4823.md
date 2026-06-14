@@ -1,16 +1,14 @@
-REGIO DECRETO 14 gennaio 1869 n. 4823
-
-
-REGIO DECRETO 14 gennaio 1869 n. 4823
-=====================================
-
-Che instituisce presso il Ministero dei Lavori Pubblici un Comitato consultivo, incaricato dell'esame degli affari e delle questioni concernenti la ultimazione della ferrovia Asciano-Grosseto. (069U4823)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/03/1869
+---
+tipo: REGIO DECRETO
+numero: 4823
+data: 1869-01-14
+titolo: "Che instituisce presso il Ministero dei Lavori Pubblici un Comitato consultivo, incaricato dell'esame degli affari e delle questioni concernenti la ultimazione della ferrovia Asciano-Grosseto. (069U4823)"
+urn: urn:nir:stato:regio.decreto:1869-01-14;4823
+codice_redazionale: 069U4823
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,59 +32,44 @@ Avuto riguardo all'efficace concorso per tanti titoli prestato dai Membri del de
 
 Considerata la convenienza di valersi, nell'interesse pubblico, dei lumi e dei consigli dei detti Membri per l'assestamento della contabilita' passata, e per giovare al proseguimento dei lavori sino alla totale ultimazione della linea;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+E' instituito presso il Ministero dei Lavori Pubblici un Comitato consultivo, incaricato dell'esame degli affari e delle quistioni concernenti la ultimazione della ferrovia Asciano-Grosseto, e la liquidazione delle contabilita' dei lavori sin qui eseguiti.
 
-  
-  
-E' instituito presso il Ministero dei Lavori Pubblici un Comitato consultivo, incaricato dell'esame degli affari e delle quistioni concernenti la ultimazione della ferrovia Asciano-Grosseto, e la liquidazione delle contabilita' dei lavori sin qui eseguiti.   
-  
+## Art. 2.
 
-Art. 2
-------
+Formeranno il detto Comitato i Membri appartenenti al Consiglio di amministrazione della ferrovia Centrale Toscana, qui appresso indicati. 
+ 
+ Giovanni Montorselli, Presidente, 
+ 
+ Augusto De Gori, Vice-Presidente, 
+ 
+ Carlo Corredino Ghigi, Assessore, 
+ 
+ Luigi Bargagli, Assessore, 
+ 
+ Odoardo Grottanelli, Assessore supplente, 
+ 
+ Pietro Nencini, Cassiere, 
+ 
+ Policarpo Bandini, Segretario gerente.
 
-  
-  
-Formeranno il detto Comitato i Membri appartenenti al Consiglio di amministrazione della ferrovia Centrale Toscana, qui appresso indicati.   
-  
-Giovanni Montorselli, Presidente,   
-  
-Augusto De Gori, Vice-Presidente,   
-  
-Carlo Corredino Ghigi, Assessore,   
-  
-Luigi Bargagli, Assessore,   
-  
-Odoardo Grottanelli, Assessore supplente,   
-  
-Pietro Nencini, Cassiere,   
-  
-Policarpo Bandini, Segretario gerente.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Con Decreto del Ministro dei Lavori Pubblici verra' stabilito l'ordinamento della Direzione tecnico-amministrativa, per provvedere al regolare andamento dei lavori che restano da compiersi.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 14 gennaio 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 1° febbraio 1869   
-  
-Reg. 45 Atti del Governo a c. 126. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-L. Pasini.   
-  
+Con Decreto del Ministro dei Lavori Pubblici verra' stabilito l'ordinamento della Direzione tecnico-amministrativa, per provvedere al regolare andamento dei lavori che restano da compiersi. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 14 gennaio 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 1° febbraio 1869 
+ 
+ Reg. 45 Atti del Governo a c. 126. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ L. Pasini.

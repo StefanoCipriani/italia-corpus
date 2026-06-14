@@ -1,16 +1,14 @@
-REGIO DECRETO 18 febbraio 1923 n. 334
-
-
-REGIO DECRETO 18 febbraio 1923 n. 334
-=====================================
-
-Che autorizza la soppresione del tronco Modena-S. Agnese-Vaciglio della tramvia a vapore Modena-Maranello e la immissione di quest'ultima, fino a Vaciglio nella ferrovia Modena- Vignola mediante opportuno raccordo. (023U0334)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/04/1923
+---
+tipo: REGIO DECRETO
+numero: 334
+data: 1923-02-18
+titolo: "Che autorizza la soppresione del tronco Modena-S. Agnese-Vaciglio della tramvia a vapore Modena-Maranello e la immissione di quest'ultima, fino a Vaciglio nella ferrovia Modena- Vignola mediante opportuno raccordo. (023U0334)"
+urn: urn:nir:stato:regio.decreto:1923-02-18;334
+codice_redazionale: 023U0334
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -34,35 +32,22 @@ Sentito il Consiglio Superiore dei Lavori pubblici;
 
 Visto il Testo Unico delle disposizioni di leggo per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con Nostro decreto 9 maggio 1912, n. 1447; nonche' il regolamento, approvato pure con Nostro decreto 17 giugno 1900, n. 306;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La Societa' Emiliana di ferrovie, tramvie ed automobili, concessionaria della linea tramviaria Modena-Maranello e della linea ferroviaria Modena-Vignola, e' autorizzata a sopprimere il tronco Modena-S. Agnese-Vaciglio della tramvia Modena-Maranello e ad immettere quest'ultima sulla linea ferroviaria Modena-Vignola fino a Vaciglio, mediante la esecuzione di un opportuno allacciamento presso quest'ultima localita', in base al progetto portante il bollo dell'ufficio del registro di Modena in data 24 aprile 1922.
 
-  
-  
-  
-La Societa' Emiliana di ferrovie, tramvie ed automobili, concessionaria della linea tramviaria Modena-Maranello e della linea ferroviaria Modena-Vignola, e' autorizzata a sopprimere il tronco Modena-S. Agnese-Vaciglio della tramvia Modena-Maranello e ad immettere quest'ultima sulla linea ferroviaria Modena-Vignola fino a Vaciglio, mediante la esecuzione di un opportuno allacciamento presso quest'ultima localita', in base al progetto portante il bollo dell'ufficio del registro di Modena in data 24 aprile 1922.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-  
-Per l'impianto del binario di raccordo e per l'immissione della tramvia sulla linea ferroviaria fino a Vaciglio dovranno osservarsi, oltre le disposizioni della legge e del regolamento sopra citati, anche le prescrizioni contenute nel Voto 28 giugno 1922, n. 888, del Consiglio Superiore del LL. PP., nonche' le speciali norme di sicurezza, che si riconoscessero necessarie all'atto dell'esecuzione e del Collaudo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 febbraio 1923.   
-  
-VITTORIO EMANUELE.   
-  
-CARNAZZA.   
-  
-Visto il Guardasigilli: OVIGLIO.   
-  
+Per l'impianto del binario di raccordo e per l'immissione della tramvia sulla linea ferroviaria fino a Vaciglio dovranno osservarsi, oltre le disposizioni della legge e del regolamento sopra citati, anche le prescrizioni contenute nel Voto 28 giugno 1922, n. 888, del Consiglio Superiore del LL. PP., nonche' le speciali norme di sicurezza, che si riconoscessero necessarie all'atto dell'esecuzione e del Collaudo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 febbraio 1923. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ CARNAZZA. 
+ 
+ Visto il Guardasigilli: OVIGLIO.

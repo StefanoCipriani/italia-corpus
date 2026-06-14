@@ -1,17 +1,17 @@
-REGIO DECRETO 09 febbraio 1922 n. 317
+---
+tipo: REGIO DECRETO
+numero: 317
+data: 1922-02-09
+titolo: "Erezione in Ente morale. (022U0317)"
+urn: urn:nir:stato:regio.decreto:1922-02-09;317
+codice_redazionale: 022U0317
+vigente: true
+---
 
-
-REGIO DECRETO 09 febbraio 1922 n. 317
-=====================================
-
-Erezione in Ente morale. (022U0317)
------------------------------------
-
-Entrata in vigore del provvedimento: 15/04/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-317. Regio decreto 9 febbraio 1922, col quale, sulla proposta del ministro dell'interno presidente del Consiglio dei ministri, viene eretta in Ente morale l'«Associazione liberale per la tutela degli interessi liguri» ed e' approvato lo statuto organico dell'Ente stesso.
+317.
+
+Regio decreto 9 febbraio 1922, col quale, sulla proposta del ministro dell'interno presidente del Consiglio dei ministri, viene eretta in Ente morale l'«Associazione liberale per la tutela degli interessi liguri» ed e' approvato lo statuto organico dell'Ente stesso.

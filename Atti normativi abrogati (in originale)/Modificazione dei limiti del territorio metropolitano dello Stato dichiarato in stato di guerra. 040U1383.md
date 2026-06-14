@@ -1,16 +1,14 @@
-REGIO DECRETO 13 agosto 1940 n. 1383
-
-
-REGIO DECRETO 13 agosto 1940 n. 1383
-====================================
-
-Modificazione dei limiti del territorio metropolitano dello Stato dichiarato in stato di guerra. (040U1383)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/10/1940
+---
+tipo: REGIO DECRETO
+numero: 1383
+data: 1940-08-13
+titolo: "Modificazione dei limiti del territorio metropolitano dello Stato dichiarato in stato di guerra. (040U1383)"
+urn: urn:nir:stato:regio.decreto:1940-08-13;1383
+codice_redazionale: 040U1383
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,36 +28,30 @@ Ritenuta la necessita' di modificare i limiti del territorio metropolitano dello
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo e Ministro per l'interno, per la guerra, per la marina e per l'aeronautica, di concerto con i Ministri per gli affari esteri o per l'Africa Italiana; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo e Ministro per l'interno, per la guerra, per la marina e per l'aeronautica, di concerto con i Ministri per gli affari esteri o per l'Africa Italiana; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Fermo quanto e' disposto dall'art. 2 del R. decreto 1° luglio 1940-XVIII, n. 804, a decorrere dal 21 luglio 1940-XVIII, i territori metropolitani dello Stato dichiarati, a ogni effetto, in stato di guerra sono:   
-  
-a) il territorio delle provincie di Torino, Aosta, Cuneo, Asti, Imperia, Savona;   
-  
-b) il territorio, per una profondita' di 15 km. dalla costa, corrispondente agli interi versanti tirrenico e ionico e al versante adriatico fino al limite settentrionale Gioia del Colle-Monopoli;   
-  
-c) il territorio della provincia di Roma;   
-  
-d) il territorio della Sicilia, della Sardegna e delle Isole degli arcipelaghi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 13 agosto 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - CIANO - TERUZZI   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 12 ottobre 1940-XVIII   
-  
-Atti del Governo, registro 426, foglio 31. - MANCINI   
+Fermo quanto e' disposto dall'art. 2 del R. decreto 1° luglio 1940-XVIII, n. 804, a decorrere dal 21 luglio 1940-XVIII, i territori metropolitani dello Stato dichiarati, a ogni effetto, in stato di guerra sono: 
+ 
+ a) il territorio delle provincie di Torino, Aosta, Cuneo, Asti, Imperia, Savona; 
+ 
+ b) il territorio, per una profondita' di 15 km. dalla costa, corrispondente agli interi versanti tirrenico e ionico e al versante adriatico fino al limite settentrionale Gioia del Colle-Monopoli; 
+ 
+ c) il territorio della provincia di Roma; 
+ 
+ d) il territorio della Sicilia, della Sardegna e delle Isole degli arcipelaghi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 13 agosto 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - CIANO - TERUZZI 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 12 ottobre 1940-XVIII 
+ 
+ Atti del Governo, registro 426, foglio 31. - MANCINI

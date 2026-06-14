@@ -1,19 +1,15 @@
-REGIO DECRETO 20 dicembre 1908 n. DXXIV
+---
+tipo: REGIO DECRETO
+numero: DXXIV
+data: 1908-12-20
+titolo: "Approvazione di statuto. (0800524R)"
+urn: urn:nir:stato:regio.decreto:1908-12-20;524
+codice_redazionale: 0800524R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 dicembre 1908 n. DXXIV
-=======================================
-
-Approvazione di statuto. (0800524R)
------------------------------------
-
-Entrata in vigore del provvedimento: 31/01/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. DXXIV (Dato a Roma, il 20 dicembre 1908), col quale si approva lo statuto organico del Monte di pieta' di Marcianise.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. DXXIV (Dato a Roma, il 20 dicembre 1908), col quale si approva lo statuto organico del Monte di pieta' di Marcianise.

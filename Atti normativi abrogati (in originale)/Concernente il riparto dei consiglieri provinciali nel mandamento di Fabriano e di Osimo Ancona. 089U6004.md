@@ -1,16 +1,14 @@
-REGIO DECRETO 24 marzo 1889 n. 6004
-
-
-REGIO DECRETO 24 marzo 1889 n. 6004
-===================================
-
-Concernente il riparto dei consiglieri provinciali nel mandamento di Fabriano e di Osimo (Ancona). (089U6004)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/05/1889
+---
+tipo: REGIO DECRETO
+numero: 6004
+data: 1889-03-24
+titolo: "Concernente il riparto dei consiglieri provinciali nel mandamento di Fabriano e di Osimo (Ancona). (089U6004)"
+urn: urn:nir:stato:regio.decreto:1889-03-24;6004
+codice_redazionale: 089U6004
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,25 +18,18 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Inter
 
 Visto il decreto Reale 15 maggio 1867, N. 3712, concernente il riparto dei consiglieri provinciali;
 
-Vista
------
+Vista la tabella annessa al decreto medesimo che porta il riparto dei consiglieri assegnati alla provincia di Ancona; Abbiamo decretato e decretiamo:
 
-la tabella annessa al decreto medesimo che porta il riparto dei consiglieri assegnati alla provincia di Ancona; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al mandamento di Fabriano sono annessi quattro consiglieri ed altri quattro al mandamento di Osimo, fermo restando nel resto il riparto dei consiglieri risultante dalla tabella suddetta.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 marzo 1889.   
-  
-UMBERTO.   
-  
-CRISPI.   
-  
-Visto, Il Guardasigilli: ZANARDELLI.   
-  
+Al mandamento di Fabriano sono annessi quattro consiglieri ed altri quattro al mandamento di Osimo, fermo restando nel resto il riparto dei consiglieri risultante dalla tabella suddetta. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 marzo 1889. 
+ 
+ UMBERTO. 
+ 
+ CRISPI. 
+ 
+ Visto, Il Guardasigilli: ZANARDELLI.

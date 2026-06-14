@@ -1,16 +1,14 @@
-REGIO DECRETO 13 aprile 1905 n. 165
-
-
-REGIO DECRETO 13 aprile 1905 n. 165
-===================================
-
-Per la proroga del termine consentito ai pescatori dei laghi di Como, Garlate, Moggio ed Olginate. (005U0165)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/05/1905
+---
+tipo: REGIO DECRETO
+numero: 165
+data: 1905-04-13
+titolo: "Per la proroga del termine consentito ai pescatori dei laghi di Como, Garlate, Moggio ed Olginate. (005U0165)"
+urn: urn:nir:stato:regio.decreto:1905-04-13;165
+codice_redazionale: 005U0165
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,26 +26,19 @@ Udito il Consiglio dei ministri;
 
 Ritenuta la opportunita' di concedere una dilazione maggiore (che il Consiglio di Stato ritiene sufficiente se accordata per un altro anno) di quella consentita dall'art. 2 del su citato decreto Reale, ai pescatori, per uniformarsi alle disposizioni sulla misura delle reti permesse e sull'ampiezza delle maglie di queste nelle dette acque;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, l'industria e il commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per l'agricoltura, l'industria e il commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il termine consentito dal [R. decreto 8 maggio 1904, n. 176](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-05-08;176), ai pescatori del lago di Como e dei laghi di Garlate, di Moggio e di Olginate per uniformarsi alle nuove disposizioni riguardanti la misura delle reti permesse e l'ampiezza delle maglie di queste in quelle acque, e' prorogato fino a tutto maggio 1906.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia insorto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 aprile 1905.   
-  
-VITTORIO EMANUELE.   
-  
-A. Fortis.   
-Rava.   
-  
-Visto, Il guardasigilli: C. Finocchiaro-Aprile.   
-  
+Il termine consentito dal [R. decreto 8 maggio 1904, n. 176](Che%20disciplina%20la%20pesca%20nel%20lago%20di%20Como.%20004U0176.md), ai pescatori del lago di Como e dei laghi di Garlate, di Moggio e di Olginate per uniformarsi alle nuove disposizioni riguardanti la misura delle reti permesse e l'ampiezza delle maglie di queste in quelle acque, e' prorogato fino a tutto maggio 1906. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia insorto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 aprile 1905. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ A. Fortis. 
+ Rava. 
+ 
+ Visto, Il guardasigilli: C. Finocchiaro-Aprile.

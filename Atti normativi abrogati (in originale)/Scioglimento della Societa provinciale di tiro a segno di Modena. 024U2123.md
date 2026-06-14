@@ -1,22 +1,18 @@
-REGIO DECRETO 04 dicembre 1924 n. 2123
+---
+tipo: REGIO DECRETO
+numero: 2123
+data: 1924-12-04
+titolo: "Scioglimento della Societa' provinciale di tiro a segno di Modena. (024U2123)"
+urn: urn:nir:stato:regio.decreto:1924-12-04;2123
+codice_redazionale: 024U2123
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 dicembre 1924 n. 2123
-======================================
-
-Scioglimento della Societa' provinciale di tiro a segno di Modena. (024U2123)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/01/1925
-
-Art. 1
-------
-
-  
-N. 2123 R. decreto 4 dicembre 1924, col quale, su proposta del Ministro per la guerra, viene sciolta la Societa' provinciale di tiro a segno di Modena.   
-  
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 2 gennaio 1925.   
-  
+N. 2123 R. decreto 4 dicembre 1924, col quale, su proposta del Ministro per la guerra, viene sciolta la Societa' provinciale di tiro a segno di Modena. 
+ 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 2 gennaio 1925.

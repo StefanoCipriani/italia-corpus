@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 11 giugno 1916 n. 984
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 984
+data: 1916-06-11
+titolo: "Annullamento di partite di consolidamento scolastico per vari Comuni. (016U0984)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-06-11;984
+codice_redazionale: 016U0984
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 11 giugno 1916 n. 984
-=============================================
-
-Annullamento di partite di consolidamento scolastico per vari Comuni. (016U0984)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/09/1916
-
-Art. 1
-------
-
-null
+## Art. 1. — null

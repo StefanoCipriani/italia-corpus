@@ -1,16 +1,14 @@
-REGIO DECRETO 07 marzo 1880 n. 5330
-
-
-REGIO DECRETO 07 marzo 1880 n. 5330
-===================================
-
-Che separa il comune di Quargnento dalla sezione elettorale di Felizzano e forma una sezione distinta del collegio di Oviglio. (080U5330)
------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/04/1880
+---
+tipo: REGIO DECRETO
+numero: 5330
+data: 1880-03-07
+titolo: "Che separa il comune di Quargnento dalla sezione elettorale di Felizzano e forma una sezione distinta del collegio di Oviglio. (080U5330)"
+urn: urn:nir:stato:regio.decreto:1880-03-07;5330
+codice_redazionale: 080U5330
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Che Quargnento conta 163 elettori, numero di molto superiore al minimo stabilito
 
 Considerato che con la istituzione di una sezione in Quargnento si rende piu' agevole agli elettori l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Quargnento e' separato dalla sezione elettorale di Felizzano, e formera' sezione distinta del Collegio elettorale di Oviglio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 marzo 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il comune di Quargnento e' separato dalla sezione elettorale di Felizzano, e formera' sezione distinta del Collegio elettorale di Oviglio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

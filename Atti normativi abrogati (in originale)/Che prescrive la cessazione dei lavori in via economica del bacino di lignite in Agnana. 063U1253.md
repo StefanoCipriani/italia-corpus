@@ -1,16 +1,14 @@
-REGIO DECRETO 03 maggio 1863 n. 1253
-
-
-REGIO DECRETO 03 maggio 1863 n. 1253
-====================================
-
-Che prescrive la cessazione dei lavori in via economica del bacino di lignite in Agnana. (063U1253)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/06/1863
+---
+tipo: REGIO DECRETO
+numero: 1253
+data: 1863-05-03
+titolo: "Che prescrive la cessazione dei lavori in via economica del bacino di lignite in Agnana. (063U1253)"
+urn: urn:nir:stato:regio.decreto:1863-05-03;1253
+codice_redazionale: 063U1253
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,45 +24,31 @@ Considerato che la coltivazione in via economica del bacino di lignite in Agnana
 
 Avuto riguardo alla sorte del personale addetto alle officine di quel bacino;
 
-Sulla
------
+Sulla proposizione del Ministro delle Finanze, di concerto con quello di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposizione del Ministro delle Finanze, di concerto con quello di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I lavori in via economica del bacino di lignite in Agnana cesseranno completamente.
 
-  
-  
-I lavori in via economica del bacino di lignite in Agnana cesseranno completamente.   
+## Art. 2.
 
-Art. 2
-------
+Il Ministero di Finanze assumera' l'amministrazione delle proprieta' stabili e mobili del bacino suddetto, e di concerto con quello di Agricoltura, Industria e Commercio provvedera' all'appuramento dei conti della cessata amministrazione, ed alla concessione del bacino colle sue pertinenze alla privata industria.
 
-  
-  
-Il Ministero di Finanze assumera' l'amministrazione delle proprieta' stabili e mobili del bacino suddetto, e di concerto con quello di Agricoltura, Industria e Commercio provvedera' all'appuramento dei conti della cessata amministrazione, ed alla concessione del bacino colle sue pertinenze alla privata industria.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Dal 1.° aprile 1863 cessera' la decorrenza degli assegni di cui erano provveduti i membri del personale addetto precedentemente all'amministrazione ed ai lavori di Agnana, salva la facolta' di far valere i loro titoli pel collocamento a riposo, in quanto concorrano a loro favore il tempo di servizio e le altre condizioni a cio' richieste.   
-  
-Coloro che non si trovassero in tali condizioni riceveranno, quando siano ultimati i conti di cui all'articolo precedente, un trimestre della paga giornaliera o dell'assegno mensile di cui erano ultimamente provvisti.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 3 maggio 1863.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 15 maggio 1863   
-Reg.° 23 Atti del Governo a c. 95. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI.   
-  
-M. MINGHETTI.   
-MANNA.   
-  
-  
+Dal 1.° aprile 1863 cessera' la decorrenza degli assegni di cui erano provveduti i membri del personale addetto precedentemente all'amministrazione ed ai lavori di Agnana, salva la facolta' di far valere i loro titoli pel collocamento a riposo, in quanto concorrano a loro favore il tempo di servizio e le altre condizioni a cio' richieste. 
+ 
+ Coloro che non si trovassero in tali condizioni riceveranno, quando siano ultimati i conti di cui all'articolo precedente, un trimestre della paga giornaliera o dell'assegno mensile di cui erano ultimamente provvisti. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 3 maggio 1863. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 15 maggio 1863 
+ Reg.° 23 Atti del Governo a c. 95. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI. 
+ 
+ M. MINGHETTI. 
+ MANNA.

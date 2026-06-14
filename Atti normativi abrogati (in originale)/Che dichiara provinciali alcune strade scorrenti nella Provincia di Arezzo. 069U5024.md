@@ -1,16 +1,14 @@
-REGIO DECRETO 15 aprile 1869 n. 5024
-
-
-REGIO DECRETO 15 aprile 1869 n. 5024
-====================================
-
-Che dichiara provinciali alcune strade scorrenti nella Provincia di Arezzo. (069U5024)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/06/1869
+---
+tipo: REGIO DECRETO
+numero: 5024
+data: 1869-04-15
+titolo: "Che dichiara provinciali alcune strade scorrenti nella Provincia di Arezzo. (069U5024)"
+urn: urn:nir:stato:regio.decreto:1869-04-15;5024
+codice_redazionale: 069U5024
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -36,37 +34,22 @@ Veduto il terzo voto del Consiglio superiore dei Lavori Pubblici, in data del 30
 
 Veduto il definitivo parere del Consiglio di Stato del 4 marzo ultimo scorso, con cui si accettavano i risultamenti degli studi fatti per la strada Umbra-Cortonese;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate provinciali nella Provincia di Arezzo le nove strade indicate nell'Elenco che, visto d'ordine Nostro dal predetto Ministro, sta annesso al presente Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 15 aprile 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 27 aprile 1869   
-  
-Reg. 46 Atti del Governo a c. 152. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-L. Pasini.   
-  
-
-Elenco
-
-  
-Elenco delle strade provinciali di Arezzo classificate tali con Regio decreto in data d'oggi.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=069U502400100010110001&dgu=1869-05-21&art.dataPubblicazioneGazzetta=1869-05-21&art.codiceRedazionale=069U5024)
-  
+Sono dichiarate provinciali nella Provincia di Arezzo le nove strade indicate nell'Elenco che, visto d'ordine Nostro dal predetto Ministro, sta annesso al presente Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 15 aprile 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 aprile 1869 
+ 
+ Reg. 46 Atti del Governo a c. 152. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ L. Pasini.

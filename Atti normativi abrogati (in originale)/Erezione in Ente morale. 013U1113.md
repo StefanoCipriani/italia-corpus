@@ -1,19 +1,15 @@
-REGIO DECRETO 25 agosto 1913 n. 1113
+---
+tipo: REGIO DECRETO
+numero: 1113
+data: 1913-08-25
+titolo: "Erezione in Ente morale. (013U1113)"
+urn: urn:nir:stato:regio.decreto:1913-08-25;1113
+codice_redazionale: 013U1113
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 agosto 1913 n. 1113
-====================================
-
-Erezione in Ente morale. (013U1113)
------------------------------------
-
-Entrata in vigore del provvedimento: 16/10/1913
-
-Art. 1
-------
-
-  
-N. 1113   
-  
-Regio Decreto 25 agosto 1913, col quale, sulla proposta del ministro di agricoltura, industria e commercio d'accordo col ministro della pubblica istruzione, e' riconosciuta come ente morale la Societa' scolastica di mutuo soccorso «Mutualita' scolastica sanremese», con sede in San Remo, e ne e' approvato lo statuto.   
-  
+N. 1113 
+ 
+ Regio Decreto 25 agosto 1913, col quale, sulla proposta del ministro di agricoltura, industria e commercio d'accordo col ministro della pubblica istruzione, e' riconosciuta come ente morale la Societa' scolastica di mutuo soccorso «Mutualita' scolastica sanremese», con sede in San Remo, e ne e' approvato lo statuto.

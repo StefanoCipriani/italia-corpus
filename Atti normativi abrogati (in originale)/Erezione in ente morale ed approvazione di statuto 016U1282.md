@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 27 agosto 1916 n. 1282
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1282
+data: 1916-08-27
+titolo: "Erezione in ente morale ed approvazione di statuto (016U1282)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-08-27;1282
+codice_redazionale: 016U1282
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 27 agosto 1916 n. 1282
-==============================================
-
-Erezione in ente morale ed approvazione di statuto (016U1282)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/10/1916
-
-Art. 1
-------
-
-  
-N. 1282   
-  
-Decreto Luogotenenziale 27 agosto 1916, col quale, sulla proposta del ministro dell'interno, la pia fondazione «Luigi Bartocci», con sede in Foligno, e' eretta in ente morale e ne e' approvato lo statuto organico.   
-  
+N. 1282 
+ 
+ Decreto Luogotenenziale 27 agosto 1916, col quale, sulla proposta del ministro dell'interno, la pia fondazione «Luigi Bartocci», con sede in Foligno, e' eretta in ente morale e ne e' approvato lo statuto organico.

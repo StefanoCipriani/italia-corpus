@@ -1,19 +1,15 @@
-REGIO DECRETO 13 giugno 1909 n. CCXLIII
+---
+tipo: REGIO DECRETO
+numero: CCXLIII
+data: 1909-06-13
+titolo: "Che trasforma il Monte frumentario di Bovino in Cassa di prestanze agrarie. (0900243R)"
+urn: urn:nir:stato:regio.decreto:1909-06-13;243
+codice_redazionale: 0900243R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 giugno 1909 n. CCXLIII
-=======================================
-
-Che trasforma il Monte frumentario di Bovino in Cassa di prestanze agrarie. (0900243R)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/08/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCXLIII (Dato a Roma, il 13 giugno 1909), col quale il Monte frumentario di Bovino (Foggia) e' stato trasformato in Cassa di prestanze agrarie e col quale altresi' e' stato approvato lo statuto organico del nuovo ente.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCXLIII (Dato a Roma, il 13 giugno 1909), col quale il Monte frumentario di Bovino (Foggia) e' stato trasformato in Cassa di prestanze agrarie e col quale altresi' e' stato approvato lo statuto organico del nuovo ente.

@@ -1,17 +1,17 @@
-REGIO DECRETO 24 marzo 1921 n. 936
+---
+tipo: REGIO DECRETO
+numero: 936
+data: 1921-03-24
+titolo: "Erezione in Ente morale. (021U0936)"
+urn: urn:nir:stato:regio.decreto:1921-03-24;936
+codice_redazionale: 021U0936
+vigente: true
+---
 
-
-REGIO DECRETO 24 marzo 1921 n. 936
-==================================
-
-Erezione in Ente morale. (021U0936)
------------------------------------
-
-Entrata in vigore del provvedimento: 09/08/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-936. Regio decreto 24 marzo 1921, col quale sulla proposta del ministro per l'agricoltura, la Federazione agricola siciliana con sede centrale in Catania, viene eretta in Ente morale, e ne e' approvato lo statuto organico.
+936.
+
+Regio decreto 24 marzo 1921, col quale sulla proposta del ministro per l'agricoltura, la Federazione agricola siciliana con sede centrale in Catania, viene eretta in Ente morale, e ne e' approvato lo statuto organico.

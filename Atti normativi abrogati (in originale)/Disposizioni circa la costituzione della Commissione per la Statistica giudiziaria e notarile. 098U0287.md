@@ -1,16 +1,14 @@
-REGIO DECRETO 07 luglio 1898 n. 287
-
-
-REGIO DECRETO 07 luglio 1898 n. 287
-===================================
-
-Disposizioni circa la costituzione della Commissione per la Statistica giudiziaria e notarile. (098U0287)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/07/1898
+---
+tipo: REGIO DECRETO
+numero: 287
+data: 1898-07-07
+titolo: "Disposizioni circa la costituzione della Commissione per la Statistica giudiziaria e notarile. (098U0287)"
+urn: urn:nir:stato:regio.decreto:1898-07-07;287
+codice_redazionale: 098U0287
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,26 +20,19 @@ Visto il Nostro decreto 27 febbraio 1898, n. 120, concernente la costituzione e 
 
 Ritenuta la convenienza che il Presidente del Consiglio Superiore di Statistica faccia parte, come membro di diritto, della Commissioni per la statistica giudiziaria;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti, di concerto col Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti, di concerto col Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Presidente del Consiglio Superiore di Statistica e' chiamato a far parte, come membro di diritto, della Commissione per la Statistica giudiziaria e notarile.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 luglio 1898.   
-  
-UMBERTO.   
-  
-C. Finocchiaro-Aprile.   
-Fortis.   
-  
-Visto, Il Guardasigilli: C. Finocchiaro-Aprile.   
-  
+Il Presidente del Consiglio Superiore di Statistica e' chiamato a far parte, come membro di diritto, della Commissione per la Statistica giudiziaria e notarile. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 luglio 1898. 
+ 
+ UMBERTO. 
+ 
+ C. Finocchiaro-Aprile. 
+ Fortis. 
+ 
+ Visto, Il Guardasigilli: C. Finocchiaro-Aprile.

@@ -1,72 +1,47 @@
-REGIO DECRETO 31 marzo 1898 n. CXXII
+---
+tipo: REGIO DECRETO
+numero: CXXII
+data: 1898-03-31
+titolo: "Che apre un concorso a premi fra le aziende agrarie del circondario di Torino. (9800122R)"
+urn: urn:nir:stato:regio.decreto:1898-03-31;122
+codice_redazionale: 9800122R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 marzo 1898 n. CXXII
-====================================
+E' aperto un concorso a premi fra le aziende agrarie del circondario di Torino.
 
-Che apre un concorso a premi fra le aziende agrarie del circondario di Torino. (9800122R)
------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 25/05/1898
+Per il detto concorso si assegnano un diploma d'onore con medaglia d'oro, una medaglia d'oro, una d'argento, piu' lire cinquecento da distribuirsi fra i direttori, fattori ed operai delle aziende, alle quali siano aggiudicati i premi medesimi.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-E' aperto un concorso a premi fra le aziende agrarie del circondario di Torino.   
-  
+Il concorso sara' chiuso il 30 giugno 1898.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-Per il detto concorso si assegnano un diploma d'onore con medaglia d'oro, una medaglia d'oro, una d'argento, piu' lire cinquecento da distribuirsi fra i direttori, fattori ed operai delle aziende, alle quali siano aggiudicati i premi medesimi.   
-  
+I premi saranno conferiti nell'anno 1898.
 
-Art. 3
-------
+## Art. 5.
 
-  
-  
-Il concorso sara' chiuso il 30 giugno 1898.   
-  
+Le spese necessarie per il conferimento dei premi assegnati per questo concorso graveranno nel prossimo esercizio finanziario sul capitolo corrispondente al 32 del corrente esercizio.
 
-Art. 4
-------
+## Art. 6.
 
-  
-  
-I premi saranno conferiti nell'anno 1898.   
-  
-
-Art. 5
-------
-
-  
-  
-Le spese necessarie per il conferimento dei premi assegnati per questo concorso graveranno nel prossimo esercizio finanziario sul capitolo corrispondente al 32 del corrente esercizio.   
-  
-
-Art. 6
-------
-
-  
-  
-Con decreto ministeriale saranno fissate le norme regolatrici del concorso e del conferimento dei premi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 31 marzo 1898.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 4 maggio 1898.   
-  
-Reg. 215. Atti del Governo a f. 87 G. Cappiello   
-  
-Luogo del Sigillo. V. Il Guardasigilli G Zanardelli.   
-  
-F. Cocco-Ortu.   
-  
+Con decreto ministeriale saranno fissate le norme regolatrici del concorso e del conferimento dei premi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 31 marzo 1898. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 4 maggio 1898. 
+ 
+ Reg. 215. Atti del Governo a f. 87 G. Cappiello 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G Zanardelli. 
+ 
+ F. Cocco-Ortu.

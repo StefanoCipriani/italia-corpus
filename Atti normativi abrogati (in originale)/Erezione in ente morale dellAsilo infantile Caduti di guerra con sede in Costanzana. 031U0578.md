@@ -1,19 +1,19 @@
-REGIO DECRETO 23 aprile 1931 n. 578
+---
+tipo: REGIO DECRETO
+numero: 578
+data: 1931-04-23
+titolo: "Erezione in ente morale dell'Asilo infantile «Caduti di guerra» con sede in Costanzana. (031U0578)"
+urn: urn:nir:stato:regio.decreto:1931-04-23;578
+codice_redazionale: 031U0578
+vigente: true
+---
 
-
-REGIO DECRETO 23 aprile 1931 n. 578
-===================================
-
-Erezione in ente morale dell'Asilo infantile «Caduti di guerra» con sede in Costanzana. (031U0578)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/06/1931
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-578. R. decreto 23 aprile 1931, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, l'Asilo infantile «Caduti di guerra», di Costanzana (Vercelli) viene eretto in ente morale, con amministrazione autonoma, e ne e' approvato con alcune modifiche lo statuto organico.   
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 29 maggio 1931 - Anno IX
+578.
+
+R. decreto 23 aprile 1931, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, l'Asilo infantile «Caduti di guerra», di Costanzana (Vercelli) viene eretto in ente morale, con amministrazione autonoma, e ne e' approvato con alcune modifiche lo statuto organico. 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 29 maggio 1931 - Anno IX

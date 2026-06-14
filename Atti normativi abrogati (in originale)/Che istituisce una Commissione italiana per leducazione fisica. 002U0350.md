@@ -1,16 +1,14 @@
-REGIO DECRETO 23 febbraio 1902 n. 350
-
-
-REGIO DECRETO 23 febbraio 1902 n. 350
-=====================================
-
-Che istituisce una Commissione italiana per l'educazione fisica. (002U0350)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/09/1902
+---
+tipo: REGIO DECRETO
+numero: 350
+data: 1902-02-23
+titolo: "Che istituisce una Commissione italiana per l'educazione fisica. (002U0350)"
+urn: urn:nir:stato:regio.decreto:1902-02-23;350
+codice_redazionale: 002U0350
+vigente: true
+---
 
 VITTORIO EMANUELE
------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,65 +24,42 @@ Considerando l'avvenuta costituzione di una Commissione internazionale permanent
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' istituita una Commissione italiana per l'educazione fisica, con l'incarico di studiare tutte le questioni attinenti all'educazione fisica ed alle relative riforme.
 
-  
-  
-E' istituita una Commissione italiana per l'educazione fisica, con l'incarico di studiare tutte le questioni attinenti all'educazione fisica ed alle relative riforme.   
-  
+## Art. 2.
 
-Art. 2
-------
+La Commissione dipendera' dal Ministero della Pubblica Istruzione, nei cui Uffici avra' sede, e si comporra' di undici persone, nominate con decreto Reale. 
+ 
+ Il Presidente sara' scelto fra di esse, pure con decreto Reale. 
+ 
+ Della Commissione fara' parte il capo della Divisione per l'educazione fisica e morale. 
+ 
+ Un impiegato della Divisione stessa funzionera' da segretario della Commissione.
 
-  
-  
-La Commissione dipendera' dal Ministero della Pubblica Istruzione, nei cui Uffici avra' sede, e si comporra' di undici persone, nominate con decreto Reale.   
-  
-Il Presidente sara' scelto fra di esse, pure con decreto Reale.   
-  
-Della Commissione fara' parte il capo della Divisione per l'educazione fisica e morale.   
-  
-Un impiegato della Divisione stessa funzionera' da segretario della Commissione.   
-  
+## Art. 3.
 
-Art. 3
-------
+Il mandato dei commissari scadra' col 31 dicembre di ciascun anno, ma potra' essere riconfermato.
 
-  
-  
-Il mandato dei commissari scadra' col 31 dicembre di ciascun anno, ma potra' essere riconfermato.   
-  
+## Art. 4.
 
-Art. 4
-------
+La Commissione si riunira' per invito del Ministro o del Presidente quante volte lo svolgimento dei suoi lavori lo rendera' necessario.
+Due sessioni ordinarie, sotto la presidenza del Ministro o del Sottosegretario di Stato, saranno tenute una entro il mese di giugno ed una entro il mese di dicembre, per riferire sull'esito degli studi fatti e sulle proposte maturate.
 
-  
-  
-La Commissione si riunira' per invito del Ministro o del Presidente quante volte lo svolgimento dei suoi lavori lo rendera' necessario.  
-Due sessioni ordinarie, sotto la presidenza del Ministro o del Sottosegretario di Stato, saranno tenute una entro il mese di giugno ed una entro il mese di dicembre, per riferire sull'esito degli studi fatti e sulle proposte maturate.   
-  
+## Art. 5.
 
-Art. 5
-------
-
-  
-  
-L'Ufficio della Divisione VII del Ministero della Pubblica Istruzione provvedera' al disbrigo delle pratiche necessarie per il regolare andamento dei lavori della Commissione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 febbraio 1902.   
-  
-VITTORIO EMANUELE.   
-  
-G. Zanardelli.   
-N. Nasi.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.   
-  
+L'Ufficio della Divisione VII del Ministero della Pubblica Istruzione provvedera' al disbrigo delle pratiche necessarie per il regolare andamento dei lavori della Commissione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 febbraio 1902. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Zanardelli. 
+ N. Nasi. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

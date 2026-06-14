@@ -1,44 +1,40 @@
-REGIO DECRETO 19 dicembre 1926 n. 2363
+---
+tipo: REGIO DECRETO
+numero: 2363
+data: 1926-12-19
+titolo: "Radiazione dal quadro del Regio naviglio della Regia nave « Capitano Verri ». (026U2363)"
+urn: urn:nir:stato:regio.decreto:1926-12-19;2363
+codice_redazionale: 026U2363
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 dicembre 1926 n. 2363
-======================================
-
-Radiazione dal quadro del Regio naviglio della Regia nave « Capitano Verri ». (026U2363)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/02/1927
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
-  
-RE D'ITALIA   
-  
-Vista la [legge 8 luglio 1926, n. 1178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-07-08;1178);   
-  
-Udito il parere del Comitato degli ammiragli;   
-  
-Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la marina;   
-  
-Abbiamo decretato e decretiamo:   
-  
-La Regia nave sussidiaria « Capitano Verri » e' radiata dal quadro del naviglio da guerra dello Stato.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 dicembre 1926 - Anno V   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 29 gennaio 1927 - Anno V   
-Atti del Governo, registro 256, foglio 186. - Ferretti.   
-  
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Vista la [legge 8 luglio 1926, n. 1178](Ordinamento%20della%20Regia%20marina.%20026U1178.md); 
+ 
+ Udito il parere del Comitato degli ammiragli; 
+ 
+ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la marina; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ La Regia nave sussidiaria « Capitano Verri » e' radiata dal quadro del naviglio da guerra dello Stato. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 dicembre 1926 - Anno V 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 29 gennaio 1927 - Anno V  
+ Atti del Governo, registro 256, foglio 186. - Ferretti.

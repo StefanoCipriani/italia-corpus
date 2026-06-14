@@ -1,20 +1,17 @@
-REGIO DECRETO 17 ottobre 1892 n. 551
+---
+tipo: REGIO DECRETO
+numero: 551
+data: 1892-10-17
+titolo: "Concernente la circoscrizione elettorale politica del Regno. (092U0551)"
+urn: urn:nir:stato:regio.decreto:1892-10-17;551
+codice_redazionale: 092U0551
+vigente: true
+---
 
-
-REGIO DECRETO 17 ottobre 1892 n. 551
-====================================
-
-Concernente la circoscrizione elettorale politica del Regno. (092U0551)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1892
-
-Art. 1
-------
+## Art. 1.
 
 Dato a Monza il 17 ottobre
 
-1892. 
-  
-  
+1892.
+
 N. 551. R. Dr che trasferisce la sede della sezione elettorale del Collegio di Treviglio (Bergamo 6°), costituita dai due comuni di Cajrate d'Adda e di Arsago, da Arsago a Cajrate d'Adda.

@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 03 giugno 1915 n. 878
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 878
+data: 1915-06-03
+titolo: "Retezione di ricorso al Governo del Re. (015U0878)"
+urn: urn:nir:stato:decreto.luogotenenziale:1915-06-03;878
+codice_redazionale: 015U0878
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 03 giugno 1915 n. 878
-=============================================
-
-Retezione di ricorso al Governo del Re. (015U0878)
---------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/07/1915
-
-Art. 1
-------
-
-null
+## Art. 1. — null

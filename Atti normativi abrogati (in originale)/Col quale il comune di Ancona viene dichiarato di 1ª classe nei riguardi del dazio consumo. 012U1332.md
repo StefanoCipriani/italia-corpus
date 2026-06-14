@@ -1,16 +1,14 @@
-REGIO DECRETO 19 dicembre 1912 n. 1332
-
-
-REGIO DECRETO 19 dicembre 1912 n. 1332
-======================================
-
-Col quale il comune di Ancona viene dichiarato di 1ª classe nei riguardi del dazio consumo. (012U1332)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/01/1913
+---
+tipo: REGIO DECRETO
+numero: 1332
+data: 1912-12-19
+titolo: "Col quale il comune di Ancona viene dichiarato di 1ª classe nei riguardi del dazio consumo. (012U1332)"
+urn: urn:nir:stato:regio.decreto:1912-12-19;1332
+codice_redazionale: 012U1332
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,33 +26,22 @@ Vista la tabella approvata col Nostro decreto 20 novembre 1910, n. 817, nella qu
 
 Vista la decisione 14 dicembre 1912 della Commissione centrale del dazio-consumo, emessa ai sensi, e per gli effetti previsti dagli articoli 87 e 110 del testo unico delle leggi daziarie sovracitato;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il comune di Ancona e' dichiarato di prima classe nei riguardi del dazio-consumo, a decorrere dal giorno successivo a quello della pubblicazione del presente decreto nella Gazzetta ufficiale del Regno.
 
-  
-  
-Il comune di Ancona e' dichiarato di prima classe nei riguardi del dazio-consumo, a decorrere dal giorno successivo a quello della pubblicazione del presente decreto nella Gazzetta ufficiale del Regno.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Dal detto giorno, il canone daziario corrisposto allo Stato dal mentovato Comune, e' aumentato da annue lire duecentocinquantanovemila settantuno e centesimi 61 (L. 259.071,61) ad annue lire duecentonovantamila seicentoquaranta e centesimi 55 (L. 290.640,55).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 dicembre 1912.   
-  
-VITTORIO EMANUELE.   
-  
-Facta.   
-  
-Visto, II guardasigilli: Finocchiaro-Aprile.   
-  
+Dal detto giorno, il canone daziario corrisposto allo Stato dal mentovato Comune, e' aumentato da annue lire duecentocinquantanovemila settantuno e centesimi 61 (L. 259.071,61) ad annue lire duecentonovantamila seicentoquaranta e centesimi 55 (L. 290.640,55). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 dicembre 1912. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Facta. 
+ 
+ Visto, II guardasigilli: Finocchiaro-Aprile.

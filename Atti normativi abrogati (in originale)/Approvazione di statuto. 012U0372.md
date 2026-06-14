@@ -1,18 +1,15 @@
-REGIO DECRETO 24 marzo 1912 n. 372
+---
+tipo: REGIO DECRETO
+numero: 372
+data: 1912-03-24
+titolo: "Approvazione di statuto. (012U0372)"
+urn: urn:nir:stato:regio.decreto:1912-03-24;372
+codice_redazionale: 012U0372
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 marzo 1912 n. 372
-==================================
-
-Approvazione di statuto. (012U0372)
------------------------------------
-
-Entrata in vigore del provvedimento: 17/05/1912
-
-Art. 1
-------
-
-  
-N. 372   
-  
-Regio Decreto 24 marzo 1912, col quale, sulla proposta del ministro di agricoltura, industria e commercio, di concerto col ministro dell'interno, si approva lo statuto del Monte di pieta' di Camerino.   
+N. 372 
+ 
+ Regio Decreto 24 marzo 1912, col quale, sulla proposta del ministro di agricoltura, industria e commercio, di concerto col ministro dell'interno, si approva lo statuto del Monte di pieta' di Camerino.

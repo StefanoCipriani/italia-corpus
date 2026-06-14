@@ -1,16 +1,14 @@
-REGIO DECRETO 18 agosto 1939 n. 1346
-
-
-REGIO DECRETO 18 agosto 1939 n. 1346
-====================================
-
-Autorizzazione al comune di Procida (Napoli) a continuare ad applicare fino al 31 dicembre 1941 le imposte di consumo in base alla tariffa stabilita per i Comuni di classe G. (039U1346)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/10/1939
+---
+tipo: REGIO DECRETO
+numero: 1346
+data: 1939-08-18
+titolo: "Autorizzazione al comune di Procida (Napoli) a continuare ad applicare fino al 31 dicembre 1941 le imposte di consumo in base alla tariffa stabilita per i Comuni di classe G. (039U1346)"
+urn: urn:nir:stato:regio.decreto:1939-08-18;1346
+codice_redazionale: 039U1346
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,30 +20,22 @@ Visto il Nostro decreto in data 10 agosto 1934-XII, n. 1433, con cui ai sensi de
 
 Visto il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Procida e' autorizzato a continuare ad applicare fino al 31 dicembre 1941-XX le imposte di consumo entro i limiti stabiliti per la classe G.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 18 agosto 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 14 settembre 1939-XVII   
-  
-Atti del Governo, registro 413, foglio 58. - Mancini   
-  
-  
+Il comune di Procida e' autorizzato a continuare ad applicare fino al 31 dicembre 1941-XX le imposte di consumo entro i limiti stabiliti per la classe G. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 18 agosto 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 14 settembre 1939-XVII 
+ 
+ Atti del Governo, registro 413, foglio 58. - Mancini

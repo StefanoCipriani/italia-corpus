@@ -1,16 +1,14 @@
-REGIO DECRETO 07 settembre 1870 n. 5878
-
-
-REGIO DECRETO 07 settembre 1870 n. 5878
-=======================================
-
-Che dichiara chiuso il Comune di Sinigallia per la riscossione del dazio di consumo. (070U5878)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/10/1870
+---
+tipo: REGIO DECRETO
+numero: 5878
+data: 1870-09-07
+titolo: "Che dichiara chiuso il Comune di Sinigallia per la riscossione del dazio di consumo. (070U5878)"
+urn: urn:nir:stato:regio.decreto:1870-09-07;5878
+codice_redazionale: 070U5878
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,31 +18,24 @@ Veduto il Nostro Decreto 22 luglio 1870, n. 5781, col quale furono approvate le 
 
 Veduta la deliberazione 27 agosto prossimo passato del Consiglio comunale di Sinigallia, colla quale, rivocando l'altra deliberazione del 15 luglio corrente anno, invoca che gli sia mantenuta l'attuale qualifica di chiuso;
 
-Veduti l'[articolo 5 della Legge 3 luglio 1864, n. 1827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1864-07-03;1827~art5), e l'articolo 3 del legislativo Decreto 28 giugno 1866, n. 3018;
+Veduti l'[articolo 5 della Legge 3 luglio 1864, n. 1827](Sulla%20tassa%20governativa%20e%20dazio%20comunale%20di%20consumo.%20064U1827.md), e l'articolo 3 del legislativo Decreto 28 giugno 1866, n. 3018;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' mantenuta al Comune di Sinigallia, appartenente alla 4ª classe, la qualifica di chiuso per la riscossione dei dazi di consumo.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 7 settembre 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 14 settembre 1870   
-  
-Reg. 52 Atti del Governo a c. 105 Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-Quintino Sella.   
-  
+E' mantenuta al Comune di Sinigallia, appartenente alla 4ª classe, la qualifica di chiuso per la riscossione dei dazi di consumo. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 7 settembre 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 14 settembre 1870 
+ 
+ Reg. 52 Atti del Governo a c. 105 Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ Quintino Sella.

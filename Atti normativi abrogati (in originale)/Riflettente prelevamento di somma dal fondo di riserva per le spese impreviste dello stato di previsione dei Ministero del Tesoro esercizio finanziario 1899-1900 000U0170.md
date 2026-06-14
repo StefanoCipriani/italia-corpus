@@ -1,16 +1,14 @@
-REGIO DECRETO 03 maggio 1900 n. 170
-
-
-REGIO DECRETO 03 maggio 1900 n. 170
-===================================
-
-Riflettente prelevamento di somma dal fondo di riserva per le «spese impreviste» dello stato di previsione dei Ministero del Tesoro (esercizio finanziario 1899-1900) (000U0170)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/05/1900
+---
+tipo: REGIO DECRETO
+numero: 170
+data: 1900-05-03
+titolo: "Riflettente prelevamento di somma dal fondo di riserva per le «spese impreviste» dello stato di previsione dei Ministero del Tesoro (esercizio finanziario 1899-1900) (000U0170)"
+urn: urn:nir:stato:regio.decreto:1900-05-03;170
+codice_redazionale: 000U0170
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,20 @@ Visto che sul fondo di riserva per le spese impreviste, inscritto in L. 1,000,00
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal fondo di riserva per le spese impreviste inscritto al capitolo n. 95 dello stato di previsione della spesa del Ministero del Tesoro per l'esercizio finanziario 1899-1900,e' autorizzata una 35ª prelevazione nella somma di lire quindicimila (L. 15,000), da inscriversi ad un nuovo capitolo col n. 236 quater e con la denominazione «Spese per le Commissioni Reali istituite in dipendenza della [legge 29 marzo 1900, n.101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-03-29;101), circa i provvedimenti definitivi per gli Istituti di previdenza del personale ferroviario» (decreti Reali dell' 8 aprile 1900, nn. 136 e 137), dello stato di previsione della spesa del Ministero dei Lavori Pubblici, per l'esercizio finanziario predetto.   
-  
-Questo decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 maggio 1900.   
-  
-UMBERTO.   
-  
-Boselli.   
-  
-Visto, Il Guardasigilli: A. Bonasi.   
-  
+Dal fondo di riserva per le spese impreviste inscritto al capitolo n. 95 dello stato di previsione della spesa del Ministero del Tesoro per l'esercizio finanziario 1899-1900,e' autorizzata una 35ª prelevazione nella somma di lire quindicimila (L. 15,000), da inscriversi ad un nuovo capitolo col n. 236 quater e con la denominazione «Spese per le Commissioni Reali istituite in dipendenza della [legge 29 marzo 1900, n.101](Circa%20i%20provvedimenti%20definitivi%20per%20gli%20Istituti%20di%20previdenza%20del%20personale%20ferroviario.%20000U0101.md), circa i provvedimenti definitivi per gli Istituti di previdenza del personale ferroviario» (decreti Reali dell' 8 aprile 1900, nn. 136 e 137), dello stato di previsione della spesa del Ministero dei Lavori Pubblici, per l'esercizio finanziario predetto. 
+ 
+ Questo decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 maggio 1900. 
+ 
+ UMBERTO. 
+ 
+ Boselli. 
+ 
+ Visto, Il Guardasigilli: A. Bonasi.

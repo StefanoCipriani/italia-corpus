@@ -1,16 +1,14 @@
-REGIO DECRETO 15 ottobre 1876 n. 3421
-
-
-REGIO DECRETO 15 ottobre 1876 n. 3421
-=====================================
-
-Col quale i comuni di Nettuno e Porto d'Anzio sono separati dalla sezione principale del collegio elettorale di Albano e formeranno una sezione distinta dello stesso collegio, colla sede a Porto d'Anzio. (076U3421)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/11/1876
+---
+tipo: REGIO DECRETO
+numero: 3421
+data: 1876-10-15
+titolo: "Col quale i comuni di Nettuno e Porto d'Anzio sono separati dalla sezione principale del collegio elettorale di Albano e formeranno una sezione distinta dello stesso collegio, colla sede a Porto d'Anzio. (076U3421)"
+urn: urn:nir:stato:regio.decreto:1876-10-15;3421
+codice_redazionale: 076U3421
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta dei Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta dei Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Nettuno e Porto d'Anzio sono separati dalla sezione principale del Collegio elettorale di Albano e formeranno una sezione distinta dello stesso Collegio, colla sede a Porto d'Anzio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Pollenzo, addi' 15 ottobre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
-  
+I comuni di Nettuno e Porto d'Anzio sono separati dalla sezione principale del Collegio elettorale di Albano e formeranno una sezione distinta dello stesso Collegio, colla sede a Porto d'Anzio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Pollenzo, addi' 15 ottobre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

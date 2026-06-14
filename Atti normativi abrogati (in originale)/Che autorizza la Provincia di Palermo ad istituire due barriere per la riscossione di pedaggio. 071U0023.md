@@ -1,16 +1,14 @@
-REGIO DECRETO 08 gennaio 1871 n. 23
-
-
-REGIO DECRETO 08 gennaio 1871 n. 23
-===================================
-
-Che autorizza la Provincia di Palermo ad istituire due barriere per la riscossione di pedaggio. (071U0023)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/02/1871
+---
+tipo: REGIO DECRETO
+numero: 23
+data: 1871-01-08
+titolo: "Che autorizza la Provincia di Palermo ad istituire due barriere per la riscossione di pedaggio. (071U0023)"
+urn: urn:nir:stato:regio.decreto:1871-01-08;23
+codice_redazionale: 071U0023
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,29 +26,22 @@ Sentiti il Consiglio superiore dei Lavori Pubblici ed il Consiglio di Stato;
 
 Visto l'articolo 38 della Legge 20 marzo 1865, allegato F;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Provincia di Palermo e' autorizzata ad instituire due barriere per la riscossione di pedaggio, per la durata di anni venti a partire dal 1° febbraio 1871, colla tariffa annessa al Regio Decreto 15 gennaio 1870, lungo le suddette strade da Passo di Rignano a Partinico, e da Terrasini a Partinico.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 8 gennaio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 28 gennaio 1871   
-  
-Reg. 54 Atti del Governo a c. 90. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Gadda.   
-  
+La Provincia di Palermo e' autorizzata ad instituire due barriere per la riscossione di pedaggio, per la durata di anni venti a partire dal 1° febbraio 1871, colla tariffa annessa al Regio Decreto 15 gennaio 1870, lungo le suddette strade da Passo di Rignano a Partinico, e da Terrasini a Partinico. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 8 gennaio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 28 gennaio 1871 
+ 
+ Reg. 54 Atti del Governo a c. 90. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Gadda.

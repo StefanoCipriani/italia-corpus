@@ -1,16 +1,14 @@
-REGIO DECRETO 22 maggio 1879 n. 4910
-
-
-REGIO DECRETO 22 maggio 1879 n. 4910
-====================================
-
-Istituisce una barriera di pedaggio sul nuovo ponte in ferro sull'Oglio, dirimpetto a Gazzuolo, lungo la strada provinciale di Mantova-Viadana. (079U4910)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/07/1879
+---
+tipo: REGIO DECRETO
+numero: 4910
+data: 1879-05-22
+titolo: "Istituisce una barriera di pedaggio sul nuovo ponte in ferro sull'Oglio, dirimpetto a Gazzuolo, lungo la strada provinciale di Mantova-Viadana. (079U4910)"
+urn: urn:nir:stato:regio.decreto:1879-05-22;4910
+codice_redazionale: 079U4910
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,33 +28,18 @@ Udito il parere del Consiglio di Stato;
 
 Visto l'articolo 38 della legge sui lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'Amministrazione provinciale di Mantova e' autorizzata a stabilire una barriera di pedaggio sul nuovo ponte in ferro sull'Oglio, dirimpetto a Gazzuolo, lungo la strada provinciale Mantova-Viadana.   
-  
-Tale concessione, fatta in base alla tariffa, vidimata d'ordine Nostro dal Ministro dei Lavori Pubblici, avra' la durata di anni dieci.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 maggio 1879.   
-  
-UMBERTO.   
-  
-R. Mezzanotte.   
-  
-
-Tariffa
-
-  
-Tariffa dei diritti di pedaggio da riscuotersi pel passaggio del ponte provinciale sul fiume Oglio, di fronte al paese di Gazzuolo.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=079U491000100010110001&dgu=1879-06-21&art.dataPubblicazioneGazzetta=1879-06-21&art.codiceRedazionale=079U4910)
-  
+L'Amministrazione provinciale di Mantova e' autorizzata a stabilire una barriera di pedaggio sul nuovo ponte in ferro sull'Oglio, dirimpetto a Gazzuolo, lungo la strada provinciale Mantova-Viadana. 
+ 
+ Tale concessione, fatta in base alla tariffa, vidimata d'ordine Nostro dal Ministro dei Lavori Pubblici, avra' la durata di anni dieci. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 maggio 1879. 
+ 
+ UMBERTO. 
+ 
+ R. Mezzanotte.

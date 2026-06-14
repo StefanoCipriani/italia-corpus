@@ -1,16 +1,14 @@
-REGIO DECRETO 29 gennaio 1880 n. 5539
-
-
-REGIO DECRETO 29 gennaio 1880 n. 5539
-=====================================
-
-Che stabilisce nuove norme circa la decorrenza dell'aumento del decimo dello stipendio a favore degli impiegati che vi hanno diritto. (080U5539)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/08/1880
+---
+tipo: REGIO DECRETO
+numero: 5539
+data: 1880-01-29
+titolo: "Che stabilisce nuove norme circa la decorrenza dell'aumento del decimo dello stipendio a favore degli impiegati che vi hanno diritto. (080U5539)"
+urn: urn:nir:stato:regio.decreto:1880-01-29;5539
+codice_redazionale: 080U5539
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,25 +20,19 @@ Ritenuta la convenienza di cambiare tale prima decorrenza conformandola alla reg
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze, incaricato interinalmente delle funzioni di Ministro del Tesoro, Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Ministro Segretario di Stato per le Finanze, incaricato interinalmente delle funzioni di Ministro del Tesoro, Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A cominciare dal 1° gennaio 1880 l'aumento del decimo dello stipendio incominciera' a decorrere a favore degli impiegati che vi hanno diritto dal mese successivo a' quello in cui essi avranno compiuto il sessennio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 gennaio 1880.   
-  
-UMBERTO.   
-  
-A. MAGLIANI.   
-  
-Visto - Il Guardasigilli   
-T. VILLA.   
+A cominciare dal 1° gennaio 1880 l'aumento del decimo dello stipendio incominciera' a decorrere a favore degli impiegati che vi hanno diritto dal mese successivo a' quello in cui essi avranno compiuto il sessennio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 gennaio 1880. 
+ 
+ UMBERTO. 
+ 
+ A. MAGLIANI. 
+ 
+ Visto - Il Guardasigilli 
+ T. VILLA.

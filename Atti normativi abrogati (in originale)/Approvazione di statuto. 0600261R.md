@@ -1,19 +1,15 @@
-REGIO DECRETO 07 giugno 1906 n. CCLXI
+---
+tipo: REGIO DECRETO
+numero: CCLXI
+data: 1906-06-07
+titolo: "Approvazione di statuto. (0600261R)"
+urn: urn:nir:stato:regio.decreto:1906-06-07;261
+codice_redazionale: 0600261R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 giugno 1906 n. CCLXI
-=====================================
-
-Approvazione di statuto. (0600261R)
------------------------------------
-
-Entrata in vigore del provvedimento: 04/09/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CCLXI (Dato a Roma, il 7 giugno 1906), col quale si approva lo statuto del Monte di pieta' di Eboli.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CCLXI (Dato a Roma, il 7 giugno 1906), col quale si approva lo statuto del Monte di pieta' di Eboli.

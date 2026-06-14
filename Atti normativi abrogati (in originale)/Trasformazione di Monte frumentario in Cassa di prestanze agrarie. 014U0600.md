@@ -1,19 +1,15 @@
-REGIO DECRETO 30 aprile 1914 n. 600
+---
+tipo: REGIO DECRETO
+numero: 600
+data: 1914-04-30
+titolo: "Trasformazione di Monte frumentario in Cassa di prestanze agrarie. (014U0600)"
+urn: urn:nir:stato:regio.decreto:1914-04-30;600
+codice_redazionale: 014U0600
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 aprile 1914 n. 600
-===================================
-
-Trasformazione di Monte frumentario in Cassa di prestanze agrarie. (014U0600)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/07/1914
-
-Art. 1
-------
-
-  
-N. 600   
-  
-Col quale, sulla proposta del ministro dell'interno, di concerto col ministro d'agricoltura, industria e commercio, il Monte frumentario di San Rufo (Salerno), e' trasformato a favore del locale Monte pecuniario, da denominarsi quind'innanzi «Cassa di prestante agrarie», ed e' altresi' approvato lo statuto organico pel governo della Cassa.   
-  
+N. 600 
+ 
+ Col quale, sulla proposta del ministro dell'interno, di concerto col ministro d'agricoltura, industria e commercio, il Monte frumentario di San Rufo (Salerno), e' trasformato a favore del locale Monte pecuniario, da denominarsi quind'innanzi «Cassa di prestante agrarie», ed e' altresi' approvato lo statuto organico pel governo della Cassa.

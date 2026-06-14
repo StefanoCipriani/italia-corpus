@@ -1,16 +1,14 @@
-REGIO DECRETO 21 luglio 1864 n. 1861
-
-
-REGIO DECRETO 21 luglio 1864 n. 1861
-====================================
-
-Di convocazione del Collegio elettorale di Caccamo. (064U1861)
---------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/08/1864
+---
+tipo: REGIO DECRETO
+numero: 1861
+data: 1864-07-21
+titolo: "Di convocazione del Collegio elettorale di Caccamo. (064U1861)"
+urn: urn:nir:stato:regio.decreto:1864-07-21;1861
+codice_redazionale: 064U1861
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,31 +18,24 @@ Veduto il Messaggio in data del 18 luglio corrente, col quale l'Ufficio di Presi
 
 Veduto l'articolo 63 della legge per le elezioni politiche 17 dicembre 1860, n.° 4513;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Collegio elettorale di Caccamo, n.° 304, e' convocato pel giorno 15 p. v. agosto affinche' proceda alla elezione del proprio Deputato.   
-  
-Occorrendo una seconda votazione, essa avra' luogo il giorno ventuno stesso mese.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Torino addi' 21 luglio 1864.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 1.° agosto 1864   
-  
-Reg.° 30 Atti del Governo a c. 89. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-U. Peruzzi.   
-  
+Il Collegio elettorale di Caccamo, n.° 304, e' convocato pel giorno 15 p. v. agosto affinche' proceda alla elezione del proprio Deputato. 
+ 
+ Occorrendo una seconda votazione, essa avra' luogo il giorno ventuno stesso mese. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Torino addi' 21 luglio 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 1.° agosto 1864 
+ 
+ Reg.° 30 Atti del Governo a c. 89. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ U. Peruzzi.

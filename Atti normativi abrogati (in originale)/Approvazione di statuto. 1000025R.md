@@ -1,19 +1,15 @@
-REGIO DECRETO 27 gennaio 1910 n. XXV
+---
+tipo: REGIO DECRETO
+numero: XXV
+data: 1910-01-27
+titolo: "Approvazione di statuto. (1000025R)"
+urn: urn:nir:stato:regio.decreto:1910-01-27;25
+codice_redazionale: 1000025R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 gennaio 1910 n. XXV
-====================================
-
-Approvazione di statuto. (1000025R)
------------------------------------
-
-Entrata in vigore del provvedimento: 06/03/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. XXV (Dato a Roma, il 27 gennaio 1910), col quale si approva lo statuto della Cassa di risparmio di Caldarola.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. XXV (Dato a Roma, il 27 gennaio 1910), col quale si approva lo statuto della Cassa di risparmio di Caldarola.

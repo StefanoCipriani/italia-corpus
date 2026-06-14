@@ -1,16 +1,14 @@
-REGIO DECRETO 31 dicembre 1883 n. 1833
-
-
-REGIO DECRETO 31 dicembre 1883 n. 1833
-======================================
-
-Sulla costituzione del Consorzio per la costruzione e l'esercizio della ferrovia denominata Circumetnea, da Catania a Giarre e Riposto. (083U1833)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/02/1884
+---
+tipo: REGIO DECRETO
+numero: 1833
+data: 1883-12-31
+titolo: "Sulla costituzione del Consorzio per la costruzione e l'esercizio della ferrovia denominata Circumetnea, da Catania a Giarre e Riposto. (083U1833)"
+urn: urn:nir:stato:regio.decreto:1883-12-31;1833
+codice_redazionale: 083U1833
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -44,23 +42,16 @@ Ritenute le disposizioni dell'art. 7, alinea, della legge citata, e degli artico
 
 Sentito il Consiglio superiore dei lavori pubblici, ed il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 31 dicembre 1883.   
-  
-UMBERTO.   
-  
-Genala.   
-  
-Visto, Il Guardasigilli: Savelli.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 31 dicembre 1883. 
+ 
+ UMBERTO. 
+ 
+ Genala. 
+ 
+ Visto, Il Guardasigilli: Savelli.

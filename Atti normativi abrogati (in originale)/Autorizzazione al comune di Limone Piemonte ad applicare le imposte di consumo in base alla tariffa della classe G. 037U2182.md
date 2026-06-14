@@ -1,16 +1,14 @@
-REGIO DECRETO 25 novembre 1937 n. 2182
-
-
-REGIO DECRETO 25 novembre 1937 n. 2182
-======================================
-
-Autorizzazione al comune di Limone Piemonte ad applicare le imposte di consumo in base alla tariffa della classe G. (037U2182)
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/01/1938
+---
+tipo: REGIO DECRETO
+numero: 2182
+data: 1937-11-25
+titolo: "Autorizzazione al comune di Limone Piemonte ad applicare le imposte di consumo in base alla tariffa della classe G. (037U2182)"
+urn: urn:nir:stato:regio.decreto:1937-11-25;2182
+codice_redazionale: 037U2182
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,33 +24,24 @@ Visto il decreto Ministeriale 13 febbraio 1936, pubblicato nella Gazzetta Uffici
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il comune di Limone Piemonte e' autorizzato ad applicare le imposte di consumo in base alla tariffa della classe G;
 
-  
-  
-Il comune di Limone Piemonte e' autorizzato ad applicare le imposte di consumo in base alla tariffa della classe G;   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-All'Azienda autonoma di soggiorno e turismo e' devoluta la meta' del maggior provento netto derivante dall'autorizzazione di cui al precedente articolo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 novembre 1937 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: SOLMI   
-  
-Registrato alla Corte dei conti, addi' 30 dicembre 1937 - Anno XVI Atti del Governo, registro 392, foglio 184. - MANCINI.   
+All'Azienda autonoma di soggiorno e turismo e' devoluta la meta' del maggior provento netto derivante dall'autorizzazione di cui al precedente articolo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 novembre 1937 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: SOLMI 
+ 
+ Registrato alla Corte dei conti, addi' 30 dicembre 1937 - Anno XVI Atti del Governo, registro 392, foglio 184. - MANCINI.

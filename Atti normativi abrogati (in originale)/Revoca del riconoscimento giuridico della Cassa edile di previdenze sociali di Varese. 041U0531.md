@@ -1,16 +1,14 @@
-REGIO DECRETO 19 maggio 1941 n. 531
-
-
-REGIO DECRETO 19 maggio 1941 n. 531
-===================================
-
-Revoca del riconoscimento giuridico della Cassa edile di previdenze sociali di Varese. (041U0531)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/07/1941
+---
+tipo: REGIO DECRETO
+numero: 531
+data: 1941-05-19
+titolo: "Revoca del riconoscimento giuridico della Cassa edile di previdenze sociali di Varese. (041U0531)"
+urn: urn:nir:stato:regio.decreto:1941-05-19;531
+codice_redazionale: 041U0531
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 25 aprile 1929, n. 924](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-04-25;924), con il quale la Cassa edile di previdenze sociali di Varese e' stata eretta in ente morale e ne e' stato approvato il relativo statuto;
+Visto il [R. decreto 25 aprile 1929, n. 924](Riconoscimento%20giuridico%20della%20Cassa%20edile%20di%20previdenze%20sociali%20di%20Varese%20con%20sede%20in%20Varese.%20029U0924.md), con il quale la Cassa edile di previdenze sociali di Varese e' stata eretta in ente morale e ne e' stato approvato il relativo statuto;
 
 Considerato che con contratto collettivo 24 settembre 1937 e' stata costituita la Cassa mutua paritetica interprofessionale operai addetti alle industrie edilizie ed affini, estrattive, dei laterizi, del cemento, della calce, del gesso e dei manufatti in cemento della provincia di Varese, successivamente incorporata nella Mutua malattia per gli operai delle aziende industriali, artigiane e cooperative della provincia di Varese in forza del contratto collettivo nazionale 3 gennaio 1939 per la disciplina del trattamento mutualistico di malattia degli operai dell'industria;
 
@@ -30,39 +28,26 @@ Vista la domanda in data 10 marzo 1941 del commissario prefettizio della Cassa e
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le corporazioni; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le corporazioni; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' revocato il riconoscimento giuridico della Cassa edile di previdenze sociali di Varese concesso con [R. decreto 25 aprile 1929, n. 924](Riconoscimento%20giuridico%20della%20Cassa%20edile%20di%20previdenze%20sociali%20di%20Varese%20con%20sede%20in%20Varese.%20029U0924.md).
 
-  
-  
-E' revocato il riconoscimento giuridico della Cassa edile di previdenze sociali di Varese concesso con [R. decreto 25 aprile 1929, n. 924](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-04-25;924).   
+## Art. 2.
 
-Art. 2
-------
+Il patrimonio netto di L. 1.259.380,60 risultante dalla liquidazione della Cassa e' devoluto alla Federazione nazionale fascista delle Casse mutue di malattia per i lavoratori dell'industria, che lo destinera' all'assistenza in provincia di Varese, con la condizione di erogare la somma di L. 200.000, secondo le modalita' di cui sopra, al Fondo per le indennita' complementari di disoccupazione involontaria.
 
-  
-  
-Il patrimonio netto di L. 1.259.380,60 risultante dalla liquidazione della Cassa e' devoluto alla Federazione nazionale fascista delle Casse mutue di malattia per i lavoratori dell'industria, che lo destinera' all'assistenza in provincia di Varese, con la condizione di erogare la somma di L. 200.000, secondo le modalita' di cui sopra, al Fondo per le indennita' complementari di disoccupazione involontaria.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il prefetto di Varese e' incaricato dell'esecuzione del presente decreto.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Roma, addi' 19 maggio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Ricci   
-  
-Visto, il Guardasigilli: Grandi   
-Registrato alla Corte dei conti, addi' 20 giugno 1941-XIX   
-Atti del Governo, registro 434, foglio 75. - Mancini   
+Il prefetto di Varese e' incaricato dell'esecuzione del presente decreto. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 19 maggio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Ricci 
+ 
+ Visto, il Guardasigilli: Grandi 
+ Registrato alla Corte dei conti, addi' 20 giugno 1941-XIX 
+ Atti del Governo, registro 434, foglio 75. - Mancini

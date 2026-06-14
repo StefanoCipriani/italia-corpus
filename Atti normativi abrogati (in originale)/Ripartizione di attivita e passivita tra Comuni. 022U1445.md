@@ -1,17 +1,17 @@
-REGIO DECRETO 19 ottobre 1922 n. 1445
+---
+tipo: REGIO DECRETO
+numero: 1445
+data: 1922-10-19
+titolo: "Ripartizione di attivita' e passivita' tra Comuni. (022U1445)"
+urn: urn:nir:stato:regio.decreto:1922-10-19;1445
+codice_redazionale: 022U1445
+vigente: true
+---
 
-
-REGIO DECRETO 19 ottobre 1922 n. 1445
-=====================================
-
-Ripartizione di attivita' e passivita' tra Comuni. (022U1445)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/12/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1445. Regio decreto 19 ottobre 1922, col quale, sulla proposta del ministro dell'interno, vengono ripartite le attivita' e passivita' tra i comuni di Casal-maggiore e Rivarolo del Re ed Uniti (Cremona).
+1445.
+
+Regio decreto 19 ottobre 1922, col quale, sulla proposta del ministro dell'interno, vengono ripartite le attivita' e passivita' tra i comuni di Casal-maggiore e Rivarolo del Re ed Uniti (Cremona).

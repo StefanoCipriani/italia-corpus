@@ -1,16 +1,14 @@
-REGIO DECRETO 31 maggio 1877 n. 3859
-
-
-REGIO DECRETO 31 maggio 1877 n. 3859
-====================================
-
-Col quale i comuni di Casamicciola e Lacco Ameno sono separati dalla sezione elettorale di Forio e costituiti in sezione distinta del collegio di Pozzuoli colla sede a Casamicciola. (077U3859)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/06/1877
+---
+tipo: REGIO DECRETO
+numero: 3859
+data: 1877-05-31
+titolo: "Col quale i comuni di Casamicciola e Lacco Ameno sono separati dalla sezione elettorale di Forio e costituiti in sezione distinta del collegio di Pozzuoli colla sede a Casamicciola. (077U3859)"
+urn: urn:nir:stato:regio.decreto:1877-05-31;3859
+codice_redazionale: 077U3859
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,21 +22,14 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 31 maggio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 31 maggio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

@@ -1,50 +1,37 @@
-REGIO DECRETO 20 luglio 1905 n. 424
+---
+tipo: REGIO DECRETO
+numero: 424
+data: 1905-07-20
+titolo: "Riguardante provvedimenti per la continuazione e la regolarita' del servizio sulle ferrovie costituenti la rete Meridionale. (005U0424)"
+urn: urn:nir:stato:regio.decreto:1905-07-20;424
+codice_redazionale: 005U0424
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 luglio 1905 n. 424
-===================================
+Una Commissione composta di tre delegati del Governo e di tre delegati della Societa' e del presidente, scelto d'accordo fra le parti, procedera' al riparto del personale della rete Adriatica fra la rete dello Stato e quella della Societa' per le strade ferrate Meridionali.
 
-Riguardante provvedimenti per la continuazione e la regolarita' del servizio sulle ferrovie costituenti la rete Meridionale. (005U0424)
----------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 20/08/1905
+Transitoriamente e fino a che non sara' coll'approvazione del Parlamento stabilito intorno al definitivo assetto delle ferrovie Meridionali: 
+ 
+ a) Si continueranno ad applicare al traffico della rete Meridionale le tariffe e condizioni di trasporto attualmente in vigore colle relative sopratasse a vantaggio degli Istituti di previdenza del personale giusta il disposto degli [articoli 21](Circa%20i%20provvedimenti%20definitivi%20per%20gli%20Istituti%20di%20previdenza%20del%20personale%20ferroviario.%20000U0101.md) e [22 della legge 29 marzo 1900, n. 101](Circa%20i%20provvedimenti%20definitivi%20per%20gli%20Istituti%20di%20previdenza%20del%20personale%20ferroviario.%20000U0101.md); 
+ 
+ b) Sara' fatto al personale della rete Meridionale ed a quello che sara' assunto in servizio della rete medesima lo stesso trattamento che avra' il personale ferroviario alla dipendenza dello Stato.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Una Commissione composta di tre delegati del Governo e di tre delegati della Societa' e del presidente, scelto d'accordo fra le parti, procedera' al riparto del personale della rete Adriatica fra la rete dello Stato e quella della Societa' per le strade ferrate Meridionali.   
-  
-
-Art. 2
-------
-
-  
-  
-Transitoriamente e fino a che non sara' coll'approvazione del Parlamento stabilito intorno al definitivo assetto delle ferrovie Meridionali:   
-  
-a) Si continueranno ad applicare al traffico della rete Meridionale le tariffe e condizioni di trasporto attualmente in vigore colle relative sopratasse a vantaggio degli Istituti di previdenza del personale giusta il disposto degli [articoli 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-03-29;101~art21) e [22 della legge 29 marzo 1900, n. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-03-29;101~art22);   
-  
-b) Sara' fatto al personale della rete Meridionale ed a quello che sara' assunto in servizio della rete medesima lo stesso trattamento che avra' il personale ferroviario alla dipendenza dello Stato.   
-  
-
-Art. 3
-------
-
-  
-  
-Sono dichiarati salvi ed impregiudicati i diritti dello Stato e della Societa' per ogni conseguenza derivante dall'applicazione delle disposizioni che precedono.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 20 luglio 1905.   
-  
-VITTORIO EMANUELE.   
-  
-A. Fortis.   
-C. Ferraris.   
-Carcano.   
-  
-Visto, il guardasigilli: C. Finocchiaro-Aprile.   
-  
+Sono dichiarati salvi ed impregiudicati i diritti dello Stato e della Societa' per ogni conseguenza derivante dall'applicazione delle disposizioni che precedono. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 20 luglio 1905. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ A. Fortis. 
+ C. Ferraris. 
+ Carcano. 
+ 
+ Visto, il guardasigilli: C. Finocchiaro-Aprile.

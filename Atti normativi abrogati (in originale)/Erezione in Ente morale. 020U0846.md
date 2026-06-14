@@ -1,17 +1,17 @@
-REGIO DECRETO 30 maggio 1920 n. 846
+---
+tipo: REGIO DECRETO
+numero: 846
+data: 1920-05-30
+titolo: "Erezione in Ente morale. (020U0846)"
+urn: urn:nir:stato:regio.decreto:1920-05-30;846
+codice_redazionale: 020U0846
+vigente: true
+---
 
-
-REGIO DECRETO 30 maggio 1920 n. 846
-===================================
-
-Erezione in Ente morale. (020U0846)
------------------------------------
-
-Entrata in vigore del provvedimento: 16/07/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-846. Regio decreto 30 maggio 1920, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, la «Mutualita' scolastica vignolese», con sede in Vignola, viene eretta in ente morale, approvandosene lo statuto organico relativo.
+846.
+
+Regio decreto 30 maggio 1920, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, la «Mutualita' scolastica vignolese», con sede in Vignola, viene eretta in ente morale, approvandosene lo statuto organico relativo.

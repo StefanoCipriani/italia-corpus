@@ -1,36 +1,29 @@
-REGIO DECRETO 06 settembre 1890 n. MMMDCCCCXIII
+---
+tipo: REGIO DECRETO
+numero: MMMDCCCCXIII
+data: 1890-09-06
+titolo: "Che pone in liquidazione la cassa di risparmio di Molfetta. (9003913R)"
+urn: urn:nir:stato:regio.decreto:1890-09-06;3913
+codice_redazionale: 9003913R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 settembre 1890 n. MMMDCCCCXIII
-===============================================
+La cassa di risparmio di Molfetta e' posta in liquidazione.
 
-Che pone in liquidazione la cassa di risparmio di Molfetta. (9003913R)
-----------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 16/10/1890
-
-Art. 1
-------
-
-  
-  
-La cassa di risparmio di Molfetta e' posta in liquidazione.   
-
-Art. 2
-------
-
-  
-  
-Il liquidatore della cassa di risparmio predetta sara' nominato dal ministro proponente, come prescrivono l'[articolo 26 della legge 15 luglio 1888, n. 5546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-07-15;5546~art26) (serie 3ª) e l'articolo 26 del regolamento per la esecuzione della medesima, approvato con regio decreto 4 aprile 1889, numero MMMCCXC (serie 3ª parte supplementare).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 6 settembre 1890.   
-  
-UMBERTO.   
-  
-Registrato alla Corte dei conti addi' 23 settembre 1890.   
-Reg. 175. Atti del Governo a f. 131. Fumagalli.   
-Luogo del Sigillo. V. Il Guardasigilli G. ZANARDELLI.   
-  
-L. MICELI.   
+Il liquidatore della cassa di risparmio predetta sara' nominato dal ministro proponente, come prescrivono l'[articolo 26 della legge 15 luglio 1888, n. 5546](Concernente%20il%20riordinamento%20delle%20Casse%20di%20risparmio.%20088U5546.md) (serie 3ª) e l'articolo 26 del regolamento per la esecuzione della medesima, approvato con regio decreto 4 aprile 1889, numero MMMCCXC (serie 3ª parte supplementare). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 6 settembre 1890. 
+ 
+ UMBERTO. 
+ 
+ Registrato alla Corte dei conti addi' 23 settembre 1890. 
+ Reg. 175. Atti del Governo a f. 131. Fumagalli. 
+ Luogo del Sigillo. V. Il Guardasigilli G. ZANARDELLI. 
+ 
+ L. MICELI.

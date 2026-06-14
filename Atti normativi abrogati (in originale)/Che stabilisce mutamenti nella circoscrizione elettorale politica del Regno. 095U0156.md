@@ -1,17 +1,17 @@
-REGIO DECRETO 18 aprile 1895 n. 156
+---
+tipo: REGIO DECRETO
+numero: 156
+data: 1895-04-18
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0156)"
+urn: urn:nir:stato:regio.decreto:1895-04-18;156
+codice_redazionale: 095U0156
+vigente: true
+---
 
-
-REGIO DECRETO 18 aprile 1895 n. 156
-===================================
-
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0156)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1895
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-156. Il Comune di Buso Sarzano e' aggregato alla 3ª Sezione elettorale di Rovigo del Collegio di Rovigo.
+156.
+
+Il Comune di Buso Sarzano e' aggregato alla 3ª Sezione elettorale di Rovigo del Collegio di Rovigo.

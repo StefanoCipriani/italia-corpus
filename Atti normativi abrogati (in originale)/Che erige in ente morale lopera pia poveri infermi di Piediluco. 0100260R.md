@@ -1,21 +1,17 @@
-REGIO DECRETO 26 agosto 1901 n. CCLX
+---
+tipo: REGIO DECRETO
+numero: CCLX
+data: 1901-08-26
+titolo: "Che erige in ente morale l'opera pia poveri infermi di Piediluco. (0100260R)"
+urn: urn:nir:stato:regio.decreto:1901-08-26;260
+codice_redazionale: 0100260R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 agosto 1901 n. CCLX
-====================================
-
-Che erige in ente morale l'opera pia poveri infermi di Piediluco. (0100260R)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/09/1901
-
-Art. 1
-------
-
-  
-Con cui l'opera pia Poveri infermi di Piediluco viene eretta in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 7 settembre 1901.   
-  
-Reg. 231. Atti del Governo a f. 9.   
-  
+Con cui l'opera pia Poveri infermi di Piediluco viene eretta in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 7 settembre 1901. 
+ 
+ Reg. 231. Atti del Governo a f. 9.

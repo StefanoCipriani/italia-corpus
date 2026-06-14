@@ -1,16 +1,14 @@
-REGIO DECRETO 18 giugno 1936 n. 1317
-
-
-REGIO DECRETO 18 giugno 1936 n. 1317
-====================================
-
-Nomina del presidente e dei presidenti di sezione del Consiglio superiore della Marina mercantile. (036U1317)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/07/1936
+---
+tipo: REGIO DECRETO
+numero: 1317
+data: 1936-06-18
+titolo: "Nomina del presidente e dei presidenti di sezione del Consiglio superiore della Marina mercantile. (036U1317)"
+urn: urn:nir:stato:regio.decreto:1936-06-18;1317
+codice_redazionale: 036U1317
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,22 @@ Visto il R. decreto 18 giugno 1936-XIV che provvede alla costituzione del Consig
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le comunicazioni; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-- In applicazione all'art. 2, terz'ultimo comma, del R. decreto 8 novembre 1928-VII, n. 2641, surricordato, modificato con R. decreto 11 luglio 1935-XIII, n. 1495, l'on. marchese Ferdinando Del Carretto, senatore del Regno, il prof. avv. Francesco Berlingieri, ed il marchese Renzo De La Penne, sono rispettivamente confermati nella carica di presidente del Consiglio superiore della Marina mercantile, di presidente della sezione 1ª (giuridica, economica e sociale) di detto Consiglio, e presidente della sezione 2ª (tecnica) del Consiglio stesso, dal 25 aprile 1936-XIV al 24 aprile 1938-XVI.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 18 giugno 1936 - Anno XIV   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - BENNI   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 11 luglio 1936 - Anno XIV   
-  
-Atti del Governo, registro 375, foglio 50. - MANCINI.   
+- In applicazione all'art. 2, terz'ultimo comma, del R. decreto 8 novembre 1928-VII, n. 2641, surricordato, modificato con R. decreto 11 luglio 1935-XIII, n. 1495, l'on. marchese Ferdinando Del Carretto, senatore del Regno, il prof. avv. Francesco Berlingieri, ed il marchese Renzo De La Penne, sono rispettivamente confermati nella carica di presidente del Consiglio superiore della Marina mercantile, di presidente della sezione 1ª (giuridica, economica e sociale) di detto Consiglio, e presidente della sezione 2ª (tecnica) del Consiglio stesso, dal 25 aprile 1936-XIV al 24 aprile 1938-XVI. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 18 giugno 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - BENNI 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 11 luglio 1936 - Anno XIV 
+ 
+ Atti del Governo, registro 375, foglio 50. - MANCINI.

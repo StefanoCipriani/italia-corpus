@@ -1,47 +1,45 @@
-REGIO DECRETO 02 aprile 1865 n. MDXCV
+---
+tipo: REGIO DECRETO
+numero: MDXCV
+data: 1865-04-02
+titolo: "Col quale e' autorizzata la Societa' anonima costituita in Firenze sotto il titolo di Banca del popolo. (6501595R)"
+urn: urn:nir:stato:regio.decreto:1865-04-02;1595
+codice_redazionale: 6501595R
+vigente: true
+---
 
+VITTORIO EMANUELE II
 
-REGIO DECRETO 02 aprile 1865 n. MDXCV
-=====================================
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
-Col quale e' autorizzata la Societa' anonima costituita in Firenze sotto il titolo di Banca del popolo. (6501595R)
-------------------------------------------------------------------------------------------------------------------
+RE D'ITALIA
 
-Entrata in vigore del provvedimento: 14/05/1865
+Veduto l'atto pubblico ricevuto il 24 febbraio 1865 dal Notaio Bacci di Firenze;
 
-Art. 1
-------
+Sentito il Consiglio di Stato di Firenze;
 
-  
-  
-La Societa' anonima sotto il titolo di Banca del popolo costituita in Firenze coll'atto predetto e' autorizzata, e ne sono approvati gli statuti inserti nell'atto medesimo sotto l'osservanza delle condizioni seguenti.   
-  
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-Art. 2
-------
+## Art. 1.
 
-  
-  
-All'art. 67 dello Statuto sociale saranno aggiunte le parole: salva, ove occorra, l'approvazione governativa.   
-  
+La Societa' anonima sotto il titolo di Banca del popolo costituita in Firenze coll'atto predetto e' autorizzata, e ne sono approvati gli statuti inserti nell'atto medesimo sotto l'osservanza delle condizioni seguenti.
 
-Art. 3
-------
+## Art. 2.
 
-  
-  
-Quando la Societa' sia sottoposta a speciale vigilanza governativa, sara' chiamata a concorrere per annue lire 100 nelle spese commissariali.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 2 aprile 1865.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 11 aprile 1865   
-Reg.° 32 Atti del Governo e c. 212. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli VACCA.   
-  
-TORELLI.   
-  
-  
+All'art. 67 dello Statuto sociale saranno aggiunte le parole: salva, ove occorra, l'approvazione governativa.
+
+## Art. 3.
+
+Quando la Societa' sia sottoposta a speciale vigilanza governativa, sara' chiamata a concorrere per annue lire 100 nelle spese commissariali. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 2 aprile 1865. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 11 aprile 1865 
+ Reg.° 32 Atti del Governo e c. 212. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli VACCA. 
+ 
+ TORELLI.

@@ -1,22 +1,20 @@
-REGIO DECRETO 12 marzo 1899 n. 91
-
-
-REGIO DECRETO 12 marzo 1899 n. 91
-=================================
-
-Autorizzante l'annullamento, Sul Gran Libro del Debito Pubblico, dell'annua rendita Consolidata 4,50 % di L. 8265 inscritta a favore del Tesoro dello Stato. (099U0091)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/04/1899
+---
+tipo: REGIO DECRETO
+numero: 91
+data: 1899-03-12
+titolo: "Autorizzante l'annullamento, Sul Gran Libro del Debito Pubblico, dell'annua rendita Consolidata 4,50 % di L. 8265 inscritta a favore del Tesoro dello Stato. (099U0091)"
+urn: urn:nir:stato:regio.decreto:1899-03-12;91
+codice_redazionale: 099U0091
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il Nostro decreto 3 agosto 1898, n. 362, col quale fu autorizzata l'inscrizione sul Gran Libro del Debito Pubblico della rendita Consolidata 4,50% netto di L. 486,000, ritenuta necessaria per ricavare la somma di L. 11,638,259.39, che, insieme a quella da ricavarsi con l'alienazione della residua rendita Consolidata 5 % di L. 300,000, a disposizione del Tesoro, doveva servire a procurare la totale somma di L. 18,118,259.39 a compimento della maggior somma di L. 132,000,000, autorizzata dagli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-03-26;76~art1) e [2 della legge 26 marzo 1896, n. 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-03-26;76~art2); 4 della [legge 2 luglio 1896, n. 256](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;256), e 7 della [legge 3 luglio 1898, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-07-03;266);
+Veduto il Nostro decreto 3 agosto 1898, n. 362, col quale fu autorizzata l'inscrizione sul Gran Libro del Debito Pubblico della rendita Consolidata 4,50% netto di L. 486,000, ritenuta necessaria per ricavare la somma di L. 11,638,259.39, che, insieme a quella da ricavarsi con l'alienazione della residua rendita Consolidata 5 % di L. 300,000, a disposizione del Tesoro, doveva servire a procurare la totale somma di L. 18,118,259.39 a compimento della maggior somma di L. 132,000,000, autorizzata dagli [articoli 1](Che%20autorizza%20il%20Governo%20del%20Re%20ad%20emettere%20dei%20titoli%20di%20Consolidato%20450%20per%20cento%20netto%20fino%20alla%20concorrenza%20di%20lire%20140%20milioni%20per%20far%20fronte%20alle%20spese%20straordinarie%20occorrenti%20per%20_9a1eda91f332.md) e [2 della legge 26 marzo 1896, n. 76](Che%20autorizza%20il%20Governo%20del%20Re%20ad%20emettere%20dei%20titoli%20di%20Consolidato%20450%20per%20cento%20netto%20fino%20alla%20concorrenza%20di%20lire%20140%20milioni%20per%20far%20fronte%20alle%20spese%20straordinarie%20occorrenti%20per%20_9a1eda91f332.md); 4 della [legge 2 luglio 1896, n. 256](Sulle%20pensioni%20per%20le%20famiglie%20dei%20presunti%20morti%20nella%20guerra%20dAfrica.%20096U0256.md), e 7 della [legge 3 luglio 1898, n. 266](Approvazione%20di%20maggiori%20assegnazioni%20di%20spese%20straordinarie%20e%20riduzione%20di%20fondi%20sui%20capitoli%20dei%20conti%20consuntivi%20e%20degli%20stati%20di%20previsione%20della%20spesa%20dei%20vari%20Ministeri%20per%20gli%20eser_d9336be1a24a.md);
 
 Ritenuto che dalla residua rendita Consolidata 5 % di L. 300,000, a disposizione del Tesoro, fu ricavata:
 
@@ -112,30 +110,18 @@ Ritenuto che, a' termini dei succitati articoli di legge, l'inscrizione della re
 
 Ritenuto che, stante la riscossione avvenuta delle sovraindicate rate trimestrali sulla residua rendita Consolidata 4,50 % netto a disposizione del Tesoro, ed il piu' elevato corso di borsa, in base al quale si effettuarono le alienazioni, in confronto di quello previsto col decreto di emissione, si e' verificata l'eccedenza di rendita surrilevata, che deve percio' essere annullata;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
+## Art. 1. — null
 
-Art. 1
-------
+## Art. 2. — null
 
-null
-
-Art. 2
-------
-
-null
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 marzo 1899.   
-  
-UMBERTO.   
-  
-Vacchelli.   
-  
-Visto, Il Guardasigilli: C. Finocchiaro-Aprile.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 marzo 1899. 
+ 
+ UMBERTO. 
+ 
+ Vacchelli. 
+ 
+ Visto, Il Guardasigilli: C. Finocchiaro-Aprile.

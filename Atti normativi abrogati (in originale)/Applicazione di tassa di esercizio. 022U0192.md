@@ -1,17 +1,17 @@
-REGIO DECRETO 05 gennaio 1922 n. 192
+---
+tipo: REGIO DECRETO
+numero: 192
+data: 1922-01-05
+titolo: "Applicazione di tassa di esercizio. (022U0192)"
+urn: urn:nir:stato:regio.decreto:1922-01-05;192
+codice_redazionale: 022U0192
+vigente: true
+---
 
-
-REGIO DECRETO 05 gennaio 1922 n. 192
-====================================
-
-Applicazione di tassa di esercizio. (022U0192)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 09/04/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-192. Regio decreto 5 gennaio 1922, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Cerro Maggiore (Milano) di applicare dal 1° gennaio al 31 dicembre 1921 la tassa di esercizio col limite massimo fino a lire 4000.
+192.
+
+Regio decreto 5 gennaio 1922, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Cerro Maggiore (Milano) di applicare dal 1° gennaio al 31 dicembre 1921 la tassa di esercizio col limite massimo fino a lire 4000.

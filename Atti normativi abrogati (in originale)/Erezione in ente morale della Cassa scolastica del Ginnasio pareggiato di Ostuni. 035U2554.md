@@ -1,21 +1,21 @@
-REGIO DECRETO 04 luglio 1935 n. 2554
+---
+tipo: REGIO DECRETO
+numero: 2554
+data: 1935-07-04
+titolo: "Erezione in ente morale della Cassa scolastica del Ginnasio pareggiato di Ostuni. (035U2554)"
+urn: urn:nir:stato:regio.decreto:1935-07-04;2554
+codice_redazionale: 035U2554
+vigente: true
+---
 
-
-REGIO DECRETO 04 luglio 1935 n. 2554
-====================================
-
-Erezione in ente morale della Cassa scolastica del Ginnasio pareggiato di Ostuni. (035U2554)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/04/1936
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2554. R. decreto 4 luglio 1935, col quale, sulla proposta del Ministro per l'educazione nazionale, viene eretta in ente morale la Cassa scolastica del Ginnasio pareggiato di Ostuni, e ne viene approvato lo statuto.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 25 marzo 1936 - Anno XIV
+2554.
+
+R. decreto 4 luglio 1935, col quale, sulla proposta del Ministro per l'educazione nazionale, viene eretta in ente morale la Cassa scolastica del Ginnasio pareggiato di Ostuni, e ne viene approvato lo statuto. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 25 marzo 1936 - Anno XIV

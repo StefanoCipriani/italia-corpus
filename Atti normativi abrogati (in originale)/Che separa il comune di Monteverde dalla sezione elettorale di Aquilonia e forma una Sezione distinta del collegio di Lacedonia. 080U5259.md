@@ -1,16 +1,14 @@
-REGIO DECRETO 22 gennaio 1880 n. 5259
-
-
-REGIO DECRETO 22 gennaio 1880 n. 5259
-=====================================
-
-Che separa il comune di Monteverde dalla sezione elettorale di Aquilonia e forma una Sezione distinta del collegio di Lacedonia. (080U5259)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/02/1880
+---
+tipo: REGIO DECRETO
+numero: 5259
+data: 1880-01-22
+titolo: "Che separa il comune di Monteverde dalla sezione elettorale di Aquilonia e forma una Sezione distinta del collegio di Lacedonia. (080U5259)"
+urn: urn:nir:stato:regio.decreto:1880-01-22;5259
+codice_redazionale: 080U5259
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Che Monteverde conta 51 elettori, numero questo alquanto superiore al minimo sta
 
 Considerato che con la istituzione di una sezione in Monteverde si rende piu' facile agli elettori l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Monteverde e' separato dalla sezione elettorale di Aquilonia, e formera' una sezione distinta del Collegio elettorale di Lacedonia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 gennaio 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il comune di Monteverde e' separato dalla sezione elettorale di Aquilonia, e formera' una sezione distinta del Collegio elettorale di Lacedonia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 gennaio 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

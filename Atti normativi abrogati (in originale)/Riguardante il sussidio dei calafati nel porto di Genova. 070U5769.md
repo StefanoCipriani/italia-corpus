@@ -1,16 +1,14 @@
-REGIO DECRETO 18 luglio 1870 n. 5769
-
-
-REGIO DECRETO 18 luglio 1870 n. 5769
-====================================
-
-Riguardante il sussidio dei calafati nel porto di Genova. (070U5769)
---------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/08/1870
+---
+tipo: REGIO DECRETO
+numero: 5769
+data: 1870-07-18
+titolo: "Riguardante il sussidio dei calafati nel porto di Genova. (070U5769)"
+urn: urn:nir:stato:regio.decreto:1870-07-18;5769
+codice_redazionale: 070U5769
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,29 +18,22 @@ Veduto il Nostro Decreto 1° febbraio 1866, col quale fu approvato il Regolament
 
 Veduta l'istanza presentata dall'Associazione dei calafati;
 
-Sulla
------
+Sulla proposta del Ministro d'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Ministro d'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I calafati del porto di Genova non avranno diritto a sussidio per impotenza al lavoro, se non dopo dodici anni di effettuato e non interrotto pagamento delle quote mensili.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 18 luglio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 4 agosto 1870   
-  
-Reg. 52 Atti di Governo a c. 16. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-Castagnola.   
-  
+I calafati del porto di Genova non avranno diritto a sussidio per impotenza al lavoro, se non dopo dodici anni di effettuato e non interrotto pagamento delle quote mensili. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 18 luglio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 4 agosto 1870 
+ 
+ Reg. 52 Atti di Governo a c. 16. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ Castagnola.

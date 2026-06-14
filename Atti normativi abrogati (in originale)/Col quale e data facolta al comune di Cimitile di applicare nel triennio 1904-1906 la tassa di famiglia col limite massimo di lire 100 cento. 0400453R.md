@@ -1,21 +1,17 @@
-REGIO DECRETO 20 ottobre 1904 n. CCCCLIII
+---
+tipo: REGIO DECRETO
+numero: CCCCLIII
+data: 1904-10-20
+titolo: "Col quale e' data facolta' al comune di Cimitile di applicare nel triennio 1904-1906 la tassa di famiglia col limite massimo di lire 100 (cento). (0400453R)"
+urn: urn:nir:stato:regio.decreto:1904-10-20;453
+codice_redazionale: 0400453R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 ottobre 1904 n. CCCCLIII
-=========================================
-
-Col quale e' data facolta' al comune di Cimitile di applicare nel triennio 1904-1906 la tassa di famiglia col limite massimo di lire 100 (cento). (0400453R)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/12/1904
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di Cimitile di applicare nel triennio 1904-1906 la tassa di famiglia col limite massimo di lire 100 (cento). - Firmato VITTORIO EMANUELE - Contro firmato L. Luzzatti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 12 novembre 1904.   
-  
-Reg. 19. Atti del Governo a f. 132.   
-  
+Col quale e' data facolta' al comune di Cimitile di applicare nel triennio 1904-1906 la tassa di famiglia col limite massimo di lire 100 (cento). - Firmato VITTORIO EMANUELE - Contro firmato L. Luzzatti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 12 novembre 1904. 
+ 
+ Reg. 19. Atti del Governo a f. 132.

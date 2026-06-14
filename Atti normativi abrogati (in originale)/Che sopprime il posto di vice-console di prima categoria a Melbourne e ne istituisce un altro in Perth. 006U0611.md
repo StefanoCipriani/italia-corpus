@@ -1,52 +1,37 @@
-REGIO DECRETO 22 novembre 1906 n. 611
+---
+tipo: REGIO DECRETO
+numero: 611
+data: 1906-11-22
+titolo: "Che sopprime il posto di vice-console di prima categoria a Melbourne e ne istituisce un altro in Perth. (006U0611)"
+urn: urn:nir:stato:regio.decreto:1906-11-22;611
+codice_redazionale: 006U0611
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 novembre 1906 n. 611
-=====================================
+Il posto di viceconsole di prima categoria a Melbourne, con obbligo di tenere residenza in Perth e con l'annuo assegno locale di lire quindicimila, e' soppresso.
 
-Che sopprime il posto di vice-console di prima categoria a Melbourne e ne istituisce un altro in Perth. (006U0611)
-------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 03/01/1907
+E' istituito un Nostro Consolato in Perth con giurisdizione nello Stato dell'Australia occidentale che viene percio' distaccato dal distretto del Nostro Consolato in Melbourne.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Il posto di viceconsole di prima categoria a Melbourne, con obbligo di tenere residenza in Perth e con l'annuo assegno locale di lire quindicimila, e' soppresso.   
-  
+L'assegno locale da corrispondersi al titolare del Nostro Consolato in Perth e' stabilito in annue lire quindicimila.
 
-Art. 2
-------
-
-  
-  
-E' istituito un Nostro Consolato in Perth con giurisdizione nello Stato dell'Australia occidentale che viene percio' distaccato dal distretto del Nostro Consolato in Melbourne.   
-  
-
-Art. 3
-------
-
-  
-  
-L'assegno locale da corrispondersi al titolare del Nostro Consolato in Perth e' stabilito in annue lire quindicimila.   
-  
-
-Art. 4
-------
+## Art. 4.
 
 Il presente decreto avra' effetto a decorrere dal 1° dicembre
 
-1906. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 novembre 1906.   
-  
-VITTORIO EMANUELE.   
-  
-Tittoni.   
-  
-Visto, Il guardasigilli: Gallo.
+1906.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 novembre 1906. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Tittoni. 
+ 
+ Visto, Il guardasigilli: Gallo.

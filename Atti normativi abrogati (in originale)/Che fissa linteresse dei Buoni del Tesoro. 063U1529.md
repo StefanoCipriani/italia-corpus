@@ -1,46 +1,37 @@
-REGIO DECRETO 08 novembre 1863 n. 1529
-
-
-REGIO DECRETO 08 novembre 1863 n. 1529
-======================================
-
-Che fissa l'interesse dei Buoni del Tesoro. (063U1529)
-------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/11/1863
+---
+tipo: REGIO DECRETO
+numero: 1529
+data: 1863-11-08
+titolo: "Che fissa l'interesse dei Buoni del Tesoro. (063U1529)"
+urn: urn:nir:stato:regio.decreto:1863-11-08;1529
+codice_redazionale: 063U1529
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 2 della legge dell'11 marzo 1863, n. 1166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1863-03-11;1166~art2);
+Visto l'[art. 2 della legge dell'11 marzo 1863, n. 1166](Colla%20quale%20e%20autorizzato%20un%20prestito%20di%20settecento%20milioni%20di%20lire%20ed%20e%20ridotta%20lemissione%20dei%20Buoni%20del%20Tesoro.%20063U1166.md);
 
-Sulla
------
+Sulla proposizione del Ministro delle Finanze; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposizione del Ministro delle Finanze; Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'interesse dei Buoni del Tesoro che il Governo e' autorizzato ad alienare e' fissato a cominciare dall'11 del corrente mese di novembre al 5 p. % per i Buoni aventi una scadenza di 3 a 6 mesi, ed al 6 p. % per quelli aventi una scadenza di 7 sino a 12 mesi.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 8 novembre 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 novembre 1863   
-  
-Reg.° 26 Atti del Governo a c. 127. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-M. Minghetti.   
-  
+L'interesse dei Buoni del Tesoro che il Governo e' autorizzato ad alienare e' fissato a cominciare dall'11 del corrente mese di novembre al 5 p. % per i Buoni aventi una scadenza di 3 a 6 mesi, ed al 6 p. % per quelli aventi una scadenza di 7 sino a 12 mesi. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 8 novembre 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 novembre 1863 
+ 
+ Reg.° 26 Atti del Governo a c. 127. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ M. Minghetti.

@@ -1,16 +1,14 @@
-REGIO DECRETO 13 luglio 1862 n. 699
-
-
-REGIO DECRETO 13 luglio 1862 n. 699
-===================================
-
-Col quale e' convocato il Collegio elettorale di Cerignola. (062U0699)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/08/1862
+---
+tipo: REGIO DECRETO
+numero: 699
+data: 1862-07-13
+titolo: "Col quale e' convocato il Collegio elettorale di Cerignola. (062U0699)"
+urn: urn:nir:stato:regio.decreto:1862-07-13;699
+codice_redazionale: 062U0699
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,31 +18,24 @@ Veduto il Messaggio in data dell'otto volgente luglio, col quale l'Ufficio di Pr
 
 Veduto l'articolo 63 della legge elettorale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Collegio elettorale di Cerignola, n.° 123, e' convocato pel giorno 3 del mese di agosto prossimo affine di procedere alla elezione del proprio Deputato.   
-  
-Occorrendo una seconda votazione, essa avra' luogo il giorno 10 successivo.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Torino addi' 13 luglio 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 18 luglio 1862   
-  
-Reg.° 20 Atti del Governo a c. 114. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
-  
-U. Rattazzi.   
-  
+Il Collegio elettorale di Cerignola, n.° 123, e' convocato pel giorno 3 del mese di agosto prossimo affine di procedere alla elezione del proprio Deputato. 
+ 
+ Occorrendo una seconda votazione, essa avra' luogo il giorno 10 successivo. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Torino addi' 13 luglio 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 18 luglio 1862 
+ 
+ Reg.° 20 Atti del Governo a c. 114. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ U. Rattazzi.

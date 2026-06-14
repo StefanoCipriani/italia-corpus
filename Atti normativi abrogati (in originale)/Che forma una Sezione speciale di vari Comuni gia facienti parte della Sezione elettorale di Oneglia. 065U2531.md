@@ -1,16 +1,14 @@
-REGIO DECRETO 19 ottobre 1865 n. 2531
-
-
-REGIO DECRETO 19 ottobre 1865 n. 2531
-=====================================
-
-Che forma una Sezione speciale di vari Comuni gia' facienti parte della Sezione elettorale di Oneglia. (065U2531)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/11/1865
+---
+tipo: REGIO DECRETO
+numero: 2531
+data: 1865-10-19
+titolo: "Che forma una Sezione speciale di vari Comuni gia' facienti parte della Sezione elettorale di Oneglia. (065U2531)"
+urn: urn:nir:stato:regio.decreto:1865-10-19;2531
+codice_redazionale: 065U2531
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,22 @@ Considerando che la distanza fra i detti Comuni e l'attuale sede della Sezione c
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Pontedassio, Bestagno, Chiusavecchia, Chiusanico, Gazzelli, Olivastri, Sarola, Villaviani, Villaguardia, Borgo Sant'Agata e Costa d'Oneglia che sin qui fecero parte della Sezione del Collegio elettorale di Oneglia, n.° 334, detta di Oneglia, costituiranno d'ora in poi una Sezione separata del Collegio medesimo che si radunera' in Pontedassio.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Firenze addi' 19 ottobre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 25 ottobre 1865   
-  
-Reg.° 34 Atti dei Governo a c. 6. Crodara-Visconti.   
-  
-Luogo del sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
-  
-  
+I Comuni di Pontedassio, Bestagno, Chiusavecchia, Chiusanico, Gazzelli, Olivastri, Sarola, Villaviani, Villaguardia, Borgo Sant'Agata e Costa d'Oneglia che sin qui fecero parte della Sezione del Collegio elettorale di Oneglia, n.° 334, detta di Oneglia, costituiranno d'ora in poi una Sezione separata del Collegio medesimo che si radunera' in Pontedassio. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Firenze addi' 19 ottobre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 25 ottobre 1865 
+ 
+ Reg.° 34 Atti dei Governo a c. 6. Crodara-Visconti. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli.

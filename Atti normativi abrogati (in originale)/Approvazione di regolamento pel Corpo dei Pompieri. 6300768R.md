@@ -1,21 +1,17 @@
-REGIO DECRETO 24 maggio 1863 n. DCCLXVIII
+---
+tipo: REGIO DECRETO
+numero: DCCLXVIII
+data: 1863-05-24
+titolo: "Approvazione di regolamento pel Corpo dei Pompieri. (6300768R)"
+urn: urn:nir:stato:regio.decreto:1863-05-24;768
+codice_redazionale: 6300768R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 maggio 1863 n. DCCLXVIII
-=========================================
-
-Approvazione di regolamento pel Corpo dei Pompieri. (6300768R)
---------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/07/1863
-
-Art. 1
-------
-
-  
-DCCLXVIII.   
-  
-Regio Decreto che approva un regolamento pel Corpo dei Pompieri deliberato dal Consiglio comunale di Ravenna nelle sedute delli 7 agosto 1862 e 5 febbraio p. p.   
-  
-Torino 24 maggio 1863.   
-  
+DCCLXVIII. 
+ 
+ Regio Decreto che approva un regolamento pel Corpo dei Pompieri deliberato dal Consiglio comunale di Ravenna nelle sedute delli 7 agosto 1862 e 5 febbraio p. p. 
+ 
+ Torino 24 maggio 1863.

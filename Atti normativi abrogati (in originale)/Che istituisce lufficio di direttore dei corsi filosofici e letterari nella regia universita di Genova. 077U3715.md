@@ -1,16 +1,14 @@
-REGIO DECRETO 01 marzo 1877 n. 3715
-
-
-REGIO DECRETO 01 marzo 1877 n. 3715
-===================================
-
-Che istituisce l'ufficio di direttore dei corsi filosofici e letterari nella regia universita' di Genova. (077U3715)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/04/1877
+---
+tipo: REGIO DECRETO
+numero: 3715
+data: 1877-03-01
+titolo: "Che istituisce l'ufficio di direttore dei corsi filosofici e letterari nella regia universita' di Genova. (077U3715)"
+urn: urn:nir:stato:regio.decreto:1877-03-01;3715
+codice_redazionale: 077U3715
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,20 @@ Vedute le proposte del Consiglio accademico della Universita' predetta;
 
 Sentito il Consiglio Superiore della Pubblica Istruzione;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Nella R. Universita' di Genova vi sara' un direttore dei corsi filosofici e letterari, il quale, per quanto concerne i corsi medesimi, esercitera' le attribuzioni che sono conferite ai presidi nelle Facolta' universitarie.
 
-  
-  
-Nella R. Universita' di Genova vi sara' un direttore dei corsi filosofici e letterari, il quale, per quanto concerne i corsi medesimi, esercitera' le attribuzioni che sono conferite ai presidi nelle Facolta' universitarie.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il direttore dei corsi filosofici e letterari sara' nominato per decreto Reale fra i professori ordinari degli stessi corsi. Durera' in ufficio tre anni e potra' essere rieletto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dai decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 1° marzo 1877.   
-  
-VITTORIO EMANUELE.   
-  
-Coppino.   
+Il direttore dei corsi filosofici e letterari sara' nominato per decreto Reale fra i professori ordinari degli stessi corsi. Durera' in ufficio tre anni e potra' essere rieletto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dai decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° marzo 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Coppino.

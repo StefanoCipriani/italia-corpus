@@ -1,16 +1,14 @@
-REGIO DECRETO 19 ottobre 1865 n. 2550
-
-
-REGIO DECRETO 19 ottobre 1865 n. 2550
-=====================================
-
-Con cui dei Comuni di Albano di Lucania, Campo Maggiore e Castelmezzano e' formata una Sezione elettorale distinta. (065U2550)
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/11/1865
+---
+tipo: REGIO DECRETO
+numero: 2550
+data: 1865-10-19
+titolo: "Con cui dei Comuni di Albano di Lucania, Campo Maggiore e Castelmezzano e' formata una Sezione elettorale distinta. (065U2550)"
+urn: urn:nir:stato:regio.decreto:1865-10-19;2550
+codice_redazionale: 065U2550
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,30 +20,22 @@ Vedute le istanze del comune di Albano di Lucania (Basilicata), per ottenere che
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari Interni; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari Interni; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Albano di Lucania, Campo Maggiore e Castelmezzano che sin qui fecero parte della Sezione del Collegio elettorale di Potenza, n.° 47, detta di Trivigno, costituiranno d'ora in poi una Sezione separata del Collegio medesimo che si radunera' in Albano di Lucania.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 19 ottobre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 25 ottobre 1865   
-  
-Reg.° 34 Atti del Governo a c. 10. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
-  
-  
+I comuni di Albano di Lucania, Campo Maggiore e Castelmezzano che sin qui fecero parte della Sezione del Collegio elettorale di Potenza, n.° 47, detta di Trivigno, costituiranno d'ora in poi una Sezione separata del Collegio medesimo che si radunera' in Albano di Lucania. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 19 ottobre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 25 ottobre 1865 
+ 
+ Reg.° 34 Atti del Governo a c. 10. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli.

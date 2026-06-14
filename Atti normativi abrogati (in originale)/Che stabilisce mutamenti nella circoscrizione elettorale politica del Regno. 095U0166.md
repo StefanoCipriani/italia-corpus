@@ -1,17 +1,17 @@
-REGIO DECRETO 18 aprile 1895 n. 166
+---
+tipo: REGIO DECRETO
+numero: 166
+data: 1895-04-18
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0166)"
+urn: urn:nir:stato:regio.decreto:1895-04-18;166
+codice_redazionale: 095U0166
+vigente: true
+---
 
-
-REGIO DECRETO 18 aprile 1895 n. 166
-===================================
-
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0166)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1895
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-166. Il Comune di Villanovetta e' aggregato alla Sezione elettorale di Verzuolo del Collegio di Saluzzo.
+166.
+
+Il Comune di Villanovetta e' aggregato alla Sezione elettorale di Verzuolo del Collegio di Saluzzo.

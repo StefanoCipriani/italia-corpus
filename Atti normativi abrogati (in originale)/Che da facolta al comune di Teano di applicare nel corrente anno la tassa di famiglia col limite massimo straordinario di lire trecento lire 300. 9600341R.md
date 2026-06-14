@@ -1,21 +1,17 @@
-REGIO DECRETO 28 agosto 1896 n. CCCXLI
+---
+tipo: REGIO DECRETO
+numero: CCCXLI
+data: 1896-08-28
+titolo: "Che da' facolta' al comune di Teano di applicare nel corrente anno la tassa di famiglia col limite massimo straordinario di lire trecento (lire 300). (9600341R)"
+urn: urn:nir:stato:regio.decreto:1896-08-28;341
+codice_redazionale: 9600341R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 agosto 1896 n. CCCXLI
-======================================
-
-Che da' facolta' al comune di Teano di applicare nel corrente anno la tassa di famiglia col limite massimo straordinario di lire trecento (lire 300). (9600341R)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/09/1896
-
-Art. 1
-------
-
-  
-Che da' facolta' al comune di Teano di applicare nel corrente anno la tassa di famiglia col limite massimo straordinario di lire trecento (L. 300). - Firmato UMBERTO - Contrassegnato Branca - Visto G. Costa.   
-  
-Registrato alla Corte dei Conti addi' 9 settembre 1896.   
-  
-Reg. 207. Atti del Governo a f. 110.   
-  
+Che da' facolta' al comune di Teano di applicare nel corrente anno la tassa di famiglia col limite massimo straordinario di lire trecento (L. 300). - Firmato UMBERTO - Contrassegnato Branca - Visto G. Costa. 
+ 
+ Registrato alla Corte dei Conti addi' 9 settembre 1896. 
+ 
+ Reg. 207. Atti del Governo a f. 110.

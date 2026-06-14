@@ -1,21 +1,21 @@
-REGIO DECRETO 18 marzo 1935 n. 473
+---
+tipo: REGIO DECRETO
+numero: 473
+data: 1935-03-18
+titolo: "Approvazione dello statuto del Monte di pieta' di Rende. (035U0473)"
+urn: urn:nir:stato:regio.decreto:1935-03-18;473
+codice_redazionale: 035U0473
+vigente: true
+---
 
-
-REGIO DECRETO 18 marzo 1935 n. 473
-==================================
-
-Approvazione dello statuto del Monte di pieta' di Rende. (035U0473)
--------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/05/1935
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-473. R. decreto 18 marzo 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato lo statuto organico del Monte di pieta' di Rende.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 20 aprile 1935 - Anno XIII
+473.
+
+R. decreto 18 marzo 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato lo statuto organico del Monte di pieta' di Rende. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 20 aprile 1935 - Anno XIII

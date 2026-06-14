@@ -1,22 +1,20 @@
-REGIO DECRETO 14 giugno 1900 n. 247
-
-
-REGIO DECRETO 14 giugno 1900 n. 247
-===================================
-
-Sulla nomina di Membri della Commissione permanente per la direzione dei servizi del porto di Genova. (000U0247)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/07/1900
+---
+tipo: REGIO DECRETO
+numero: 247
+data: 1900-06-14
+titolo: "Sulla nomina di Membri della Commissione permanente per la direzione dei servizi del porto di Genova. (000U0247)"
+urn: urn:nir:stato:regio.decreto:1900-06-14;247
+codice_redazionale: 000U0247
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 6 dicembre 1888, n. 5881](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-12-06;5881), con cui fu istituita una Commissione permanente per la direzione dei servizi del porto di Genova, della quale fanno parte:
+Visto il [R. decreto 6 dicembre 1888, n. 5881](Che%20istituisce%20una%20Commissione%20permanente%20per%20la%20direzione%20dei%20servizi%20del%20porto%20di%20Genova%20e%20ne%20approva%20lunito%20regolamento.%20088U5881.md), con cui fu istituita una Commissione permanente per la direzione dei servizi del porto di Genova, della quale fanno parte:
 
 1° Il Prefetto della provincia - Presidente;
 
@@ -38,45 +36,34 @@ Visto il Regolamento annesso al precitato decreto;
 
 Ritenuto che, attesa la vastita' della materia ed i complicati e molteplici problemi di carattere tecnico, economico ed amministrativo che vi si connettono, e' stato riconosciuto conveniente, in seguito alla iniziativa presane dal Prefetto, Presidente della Commissione, di chiamare a far parte della stessa l'Intendente di Finanza per quanto riguarda la materia doganale, ora rappresentata soltanto dal Direttore della Dogana, il Direttore dell'Ufficio Idrografico della R. Marina per quelle materie che dipendono dal suo ufficio, ed altre persone (limitandone pero' il numero a due) le quali pur non avendo alcuna rappresentanza ufficiale, possono recare in seno alla Commissione il contributo della personale esperienza e dei lunghi studi sui lavori o sui bisogni del detto porto;
 
-Sulla
------
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, di concerto coi Ministri delle Finanze, dei Lavori Pubblici, della Marina e dell'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Presidente del Consiglio dei Ministri, di concerto coi Ministri delle Finanze, dei Lavori Pubblici, della Marina e dell'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Oltre le Autorita' e Rappresentanze stabilite nell'articolo 2 del precitato decreto 6 dicembre 1888, n. 5881, faranno parte dell'anzidetta Commissione: 
+ 
+ 1° L'Intendente di Finanza di Genova; 
+ 
+ 2° Il Direttore dell'Istituto Idrografico della R. Marina; 
+ 
+ 3° Quelle persone in numero non maggiore di due, da nominarsi con decreto Reale, le quali, su proposta del Prefetto, Presidente della Commissione, saranno riconosciute competenti a giudizio del Presidente del Consiglio dei Ministri e degli altri Ministri interessati.
 
-  
-  
-Oltre le Autorita' e Rappresentanze stabilite nell'articolo 2 del precitato decreto 6 dicembre 1888, n. 5881, faranno parte dell'anzidetta Commissione:   
-  
-1° L'Intendente di Finanza di Genova;   
-  
-2° Il Direttore dell'Istituto Idrografico della R. Marina;   
-  
-3° Quelle persone in numero non maggiore di due, da nominarsi con decreto Reale, le quali, su proposta del Prefetto, Presidente della Commissione, saranno riconosciute competenti a giudizio del Presidente del Consiglio dei Ministri e degli altri Ministri interessati.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il secondo comma dell'articolo 6 del Regolamento annesso al precitato decreto 6 dicembre 1888, e' modificato come appresso:   
-  
-«A rendere valide queste decisioni della Commissione, occorrera' l'intervento di sette almeno dei suoi membri, compreso il Presidente, il cui voto avra' la prevalenza nel caso di parita' numerica».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 giugno 1900.   
-  
-UMBERTO.   
-  
-Pelloux.   
-Carmine.   
-Lacava.   
-Bettolo.   
-Salandra.   
-  
-Visto, Il Guardasigilli: Bonasi.   
-  
+Il secondo comma dell'articolo 6 del Regolamento annesso al precitato decreto 6 dicembre 1888, e' modificato come appresso: 
+ 
+ «A rendere valide queste decisioni della Commissione, occorrera' l'intervento di sette almeno dei suoi membri, compreso il Presidente, il cui voto avra' la prevalenza nel caso di parita' numerica». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 giugno 1900. 
+ 
+ UMBERTO. 
+ 
+ Pelloux. 
+ Carmine. 
+ Lacava. 
+ Bettolo. 
+ Salandra. 
+ 
+ Visto, Il Guardasigilli: Bonasi.

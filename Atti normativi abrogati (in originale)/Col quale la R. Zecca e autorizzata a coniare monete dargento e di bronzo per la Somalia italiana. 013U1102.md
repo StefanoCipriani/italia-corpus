@@ -1,22 +1,20 @@
-REGIO DECRETO 15 agosto 1913 n. 1102
-
-
-REGIO DECRETO 15 agosto 1913 n. 1102
-====================================
-
-Col quale la R. Zecca e' autorizzata a coniare monete d'argento e di bronzo per la Somalia italiana. (013U1102)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/10/1913
+---
+tipo: REGIO DECRETO
+numero: 1102
+data: 1913-08-15
+titolo: "Col quale la R. Zecca e' autorizzata a coniare monete d'argento e di bronzo per la Somalia italiana. (013U1102)"
+urn: urn:nir:stato:regio.decreto:1913-08-15;1102
+codice_redazionale: 013U1102
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 5 aprile 1908, n. 161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-04-05;161), sull'ordinamento della Somalia Italiana;
+Vista la [legge 5 aprile 1908, n. 161](Per%20lordinamento%20della%20Somalia%20italiana.%20008U0161.md), sull'ordinamento della Somalia Italiana;
 
 Visto il Nostro decreto 28 gennaio 1909, n. 95, che istituisce monete nazionali in bronzo (bese) per la Somalia italiana;
 
@@ -32,59 +30,44 @@ Udito il Consiglio coloniale;
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per le colonie, di concerto con quello del tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per le colonie, di concerto con quello del tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La R. zecca e' autorizzata a coniare per la colonia della Somalia italiana: 
+ 
+ n. duecentomila monete da una bese; 
+ 
+ n. trecentomila monete da due bese; 
+ 
+ n. cinquantamila monete da quattro bese; 
+ 
+ secondo le dimensioni, la lega di coniazione ed il peso stabiliti dall'art. 2 del Nostro decreto n. 95 del 28 gennaio 1909 e secondo il tipo ufficiale descritto ed approvato dal Nostro decreto n. 209 del 1° aprile 1909. 
+ 
+ La R. zecca e' autorizzata a coniare inoltre per la stessa colonia: 
+ 
+ n. trecentomila monete da una rupia; 
+ 
+ n. centomila monete da mezza rupia; 
+ 
+ n. centomila monete da un quarto di rupia; 
+ 
+ con le caratteristiche, le dimensioni e il peso e il titolo stabiliti col Nostro decreto 8 dicembre 1910, n. 847, per i pezzi da una rupia, da mezza rupia e da un quarto di rupia.
 
-  
-  
-La R. zecca e' autorizzata a coniare per la colonia della Somalia italiana:   
-  
-n. duecentomila monete da una bese;   
-  
-n. trecentomila monete da due bese;   
-  
-n. cinquantamila monete da quattro bese;   
-  
-secondo le dimensioni, la lega di coniazione ed il peso stabiliti dall'art. 2 del Nostro decreto n. 95 del 28 gennaio 1909 e secondo il tipo ufficiale descritto ed approvato dal Nostro decreto n. 209 del 1° aprile 1909.   
-  
-La R. zecca e' autorizzata a coniare inoltre per la stessa colonia:   
-  
-n. trecentomila monete da una rupia;   
-  
-n. centomila monete da mezza rupia;   
-  
-n. centomila monete da un quarto di rupia;   
-  
-con le caratteristiche, le dimensioni e il peso e il titolo stabiliti col Nostro decreto 8 dicembre 1910, n. 847, per i pezzi da una rupia, da mezza rupia e da un quarto di rupia.   
-  
+## Art. 2.
 
-Art. 2
-------
+Per l'emissione e la circolazione di tali contingenti di monete valgano le norme contenute nei predetti Nostri decreti 28 gennaio 1909, n. 95, e 8 dicembre 1910, n. 847.
 
-  
-  
-Per l'emissione e la circolazione di tali contingenti di monete valgano le norme contenute nei predetti Nostri decreti 28 gennaio 1909, n. 95, e 8 dicembre 1910, n. 847.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il tesoro dello Stato cedera' i detti contingenti di monete al Governo della Somalia italiana dietro rimborso del costo del metallo e delle spese di coniazione, a carico del bilancio della colonia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 15 agosto 1913.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti - Bertolini - Tedesco.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+Il tesoro dello Stato cedera' i detti contingenti di monete al Governo della Somalia italiana dietro rimborso del costo del metallo e delle spese di coniazione, a carico del bilancio della colonia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 15 agosto 1913. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti - Bertolini - Tedesco. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

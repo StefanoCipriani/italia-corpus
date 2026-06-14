@@ -1,19 +1,15 @@
-REGIO DECRETO 13 agosto 1914 n. 924
+---
+tipo: REGIO DECRETO
+numero: 924
+data: 1914-08-13
+titolo: "Applicazione di tassa sul bestiame. (014U0924)"
+urn: urn:nir:stato:regio.decreto:1914-08-13;924
+codice_redazionale: 014U0924
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 agosto 1914 n. 924
-===================================
-
-Applicazione di tassa sul bestiame. (014U0924)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 19/09/1914
-
-Art. 1
-------
-
-  
-N. 924   
-  
-Regio Decreto 13 agosto 1914, col quale, sulla proposta del ministro delle finanze, si da' facolta' al comune di Accumoli (Aquila), di applicare, nel 1914, la tassa sul bestiame in base alla tariffa deliberata il 18 settembre 1913.   
-  
+N. 924 
+ 
+ Regio Decreto 13 agosto 1914, col quale, sulla proposta del ministro delle finanze, si da' facolta' al comune di Accumoli (Aquila), di applicare, nel 1914, la tassa sul bestiame in base alla tariffa deliberata il 18 settembre 1913.

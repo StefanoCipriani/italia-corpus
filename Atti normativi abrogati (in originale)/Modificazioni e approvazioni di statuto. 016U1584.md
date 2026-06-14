@@ -1,20 +1,17 @@
-DECRETO LUOGOTENENZIALE 09 novembre 1916 n. 1584
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1584
+data: 1916-11-09
+titolo: "Modificazioni e approvazioni di statuto. (016U1584)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-11-09;1584
+codice_redazionale: 016U1584
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 09 novembre 1916 n. 1584
-================================================
-
-Modificazioni e approvazioni di statuto. (016U1584)
----------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/12/1916
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1584. 
-  
-  
+1584.
+
 Decreto Luogotenenziale 9 novembre 1916, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, sono approvate alcune modificazioni allo statuto organico della Cassa di risparmio di Lucca.

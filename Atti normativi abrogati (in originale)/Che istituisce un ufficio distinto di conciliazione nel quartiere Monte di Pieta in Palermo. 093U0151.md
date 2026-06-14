@@ -1,16 +1,14 @@
-REGIO DECRETO 19 marzo 1893 n. 151
-
-
-REGIO DECRETO 19 marzo 1893 n. 151
-==================================
-
-Che istituisce un ufficio distinto di conciliazione nel quartiere Monte di Pieta' in Palermo. (093U0151)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/04/1893
+---
+tipo: REGIO DECRETO
+numero: 151
+data: 1893-03-19
+titolo: "Che istituisce un ufficio distinto di conciliazione nel quartiere Monte di Pieta' in Palermo. (093U0151)"
+urn: urn:nir:stato:regio.decreto:1893-03-19;151
+codice_redazionale: 093U0151
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,20 @@ Vista la deliberazione del Consiglio comunale di Palermo in data 17 gennaio scor
 
 Visto il rapporto del Primo presidente della Corte d'appello di Palermo in data 17 febbraio scorso;
 
-Visti gli [articoli 1 della legge 16 giugno 1892 n. 261 e 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;1~art1) del regolamento 26 dicembre detto anno n. 728;
+Visti gli [articoli 1 della legge 16 giugno 1892 n. 261 e 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;1#art_1) del regolamento 26 dicembre detto anno n. 728;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal 1° maggio, 1893 nel quartiere Monte Pieta' in Palermo, e' istituito un ufficio distinto di conciliazione, con giurisdizione sull'intiero quartiere chiuso dalle antiche mura della parte esterna, e nella parte interna confinante col lato diritto della via Vittorio Emanuele, coi Quattro Canti e Porta Nuova, e col lato sinistro della via Macqueda dai Quattro Canti fino a Porta Macqueda.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 marzo 1893.   
-  
-UMBERTO.   
-  
-Bonacci.   
-  
-Visto, Il Guardasigilli: Bonacci.   
-  
+Dal 1° maggio, 1893 nel quartiere Monte Pieta' in Palermo, e' istituito un ufficio distinto di conciliazione, con giurisdizione sull'intiero quartiere chiuso dalle antiche mura della parte esterna, e nella parte interna confinante col lato diritto della via Vittorio Emanuele, coi Quattro Canti e Porta Nuova, e col lato sinistro della via Macqueda dai Quattro Canti fino a Porta Macqueda. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 marzo 1893. 
+ 
+ UMBERTO. 
+ 
+ Bonacci. 
+ 
+ Visto, Il Guardasigilli: Bonacci.

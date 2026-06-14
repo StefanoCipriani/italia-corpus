@@ -1,16 +1,14 @@
-REGIO DECRETO 07 maggio 1882 n. 791
-
-
-REGIO DECRETO 07 maggio 1882 n. 791
-===================================
-
-Che modifica la circoscrizione dei comizi agrari nella provincia di Udine. (082U0791)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/07/1882
+---
+tipo: REGIO DECRETO
+numero: 791
+data: 1882-05-07
+titolo: "Che modifica la circoscrizione dei comizi agrari nella provincia di Udine. (082U0791)"
+urn: urn:nir:stato:regio.decreto:1882-05-07;791
+codice_redazionale: 082U0791
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,33 +24,22 @@ Viste le deliberazioni prese dall'assemblea generale degli agricoltori, tenutasi
 
 Viste le parziali deliberazioni prese dai soci dei Comizi di Spilimbergo e Maniago, da quelli di Pordenone, Sacile e San Vito, e da quelli di Udine, Gemona e Tarcento;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono revocati i RR. decreti 6 agosto 1868, 23 gennaio 1868 e 29 luglio 1868, con i quali vennero riconosciuti rispettivamente come Enti morali i Comizi agrari di Maniago, Sacile e San Vito al Tagliamento.
 
-  
-  
-Sono revocati i RR. decreti 6 agosto 1868, 23 gennaio 1868 e 29 luglio 1868, con i quali vennero riconosciuti rispettivamente come Enti morali i Comizi agrari di Maniago, Sacile e San Vito al Tagliamento.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Saranno riconosciuti tre Comizi, l'uno con sede in Udine per i distretti di Udine, Gemona e Tarcento, l'altro con sede in Spilimbergo per i distretti di Spilimbergo e Maniago, il terzo con sede in Pordenone per i distretti di Pordenone, San Vito e Sacile, a termini dell'art. 34 del regolamento generale dei Comizi agrari, approvato d'ordine Nostro dal Ministro di Agricoltura e Commercio con decreto 23 giugno 1879.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 maggio 1882.   
-  
-UMBERTO.   
-  
-Berti.   
-  
-Visto, il Guardasigilli: G. Zanardelli.   
-  
+Saranno riconosciuti tre Comizi, l'uno con sede in Udine per i distretti di Udine, Gemona e Tarcento, l'altro con sede in Spilimbergo per i distretti di Spilimbergo e Maniago, il terzo con sede in Pordenone per i distretti di Pordenone, San Vito e Sacile, a termini dell'art. 34 del regolamento generale dei Comizi agrari, approvato d'ordine Nostro dal Ministro di Agricoltura e Commercio con decreto 23 giugno 1879. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 maggio 1882. 
+ 
+ UMBERTO. 
+ 
+ Berti. 
+ 
+ Visto, il Guardasigilli: G. Zanardelli.

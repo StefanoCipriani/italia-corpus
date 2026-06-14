@@ -1,16 +1,14 @@
-REGIO DECRETO 23 giugno 1874 n. 1969
-
-
-REGIO DECRETO 23 giugno 1874 n. 1969
-====================================
-
-Col quale la sede del Consolato avente giurisdizione nei dipartimenti francesi del Nord, Passo di Calais, Somma, Aisne ed Ardennes, e' trasferita da Lilla a Dunkerque. (074U1969)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/08/1874
+---
+tipo: REGIO DECRETO
+numero: 1969
+data: 1874-06-23
+titolo: "Col quale la sede del Consolato avente giurisdizione nei dipartimenti francesi del Nord, Passo di Calais, Somma, Aisne ed Ardennes, e' trasferita da Lilla a Dunkerque. (074U1969)"
+urn: urn:nir:stato:regio.decreto:1874-06-23;1969
+codice_redazionale: 074U1969
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,24 +16,16 @@ RE D'ITALIA
 
 Visto l'articolo 1° del regolamento consolare approvato con Nostro decreto 7 giugno 1866;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri, Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri, Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La sede del Nostro Consolato avente giurisdizione nei dipartimenti francesi del nord, Passo di Calais, Somma, Aisne ed Ardennes, e' trasferita da Lilla a Dunkerque.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Anna di Valdieri, addi' 23 giugno 1874.   
-  
-VITTORIO EMANUELE.   
-  
-Visconti-Venosta.   
-  
-  
+La sede del Nostro Consolato avente giurisdizione nei dipartimenti francesi del nord, Passo di Calais, Somma, Aisne ed Ardennes, e' trasferita da Lilla a Dunkerque. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Anna di Valdieri, addi' 23 giugno 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Visconti-Venosta.

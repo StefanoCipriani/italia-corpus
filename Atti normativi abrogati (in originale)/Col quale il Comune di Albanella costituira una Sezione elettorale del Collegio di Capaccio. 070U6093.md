@@ -1,16 +1,14 @@
-REGIO DECRETO 15 dicembre 1870 n. 6093
-
-
-REGIO DECRETO 15 dicembre 1870 n. 6093
-======================================
-
-Col quale il Comune di Albanella costituira' una Sezione elettorale del Collegio di Capaccio. (070U6093)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/01/1871
+---
+tipo: REGIO DECRETO
+numero: 6093
+data: 1870-12-15
+titolo: "Col quale il Comune di Albanella costituira' una Sezione elettorale del Collegio di Capaccio. (070U6093)"
+urn: urn:nir:stato:regio.decreto:1870-12-15;6093
+codice_redazionale: 070U6093
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Albanella costituira' d'ora in poi una Sezione elettorale separata del Collegio di Capaccio, n. 343, con sede nel capoluogo del Comune stesso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 15 dicembre 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 21 dicembre 1870   
-  
-Reg. 53 Atti del Governo a c. 150. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Lanza.   
-  
+Il Comune di Albanella costituira' d'ora in poi una Sezione elettorale separata del Collegio di Capaccio, n. 343, con sede nel capoluogo del Comune stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 15 dicembre 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 21 dicembre 1870 
+ 
+ Reg. 53 Atti del Governo a c. 150. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Lanza.

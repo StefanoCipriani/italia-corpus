@@ -1,16 +1,14 @@
-REGIO DECRETO 23 novembre 1885 n. 3523
-
-
-REGIO DECRETO 23 novembre 1885 n. 3523
-======================================
-
-Col quale vengono autorizzati prelevam. di somme dal fondo Spese impreviste. (085U3523)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/12/1885
+---
+tipo: REGIO DECRETO
+numero: 3523
+data: 1885-11-23
+titolo: "Col quale vengono autorizzati prelevam. di somme dal fondo Spese impreviste. (085U3523)"
+urn: urn:nir:stato:regio.decreto:1885-11-23;3523
+codice_redazionale: 085U3523
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,20 @@ Visto che sul fondo di riserva per le Spese impreviste inscritto in lire 4,000,0
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze ed incaricato degli affari del Tesoro, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le Finanze ed incaricato degli affari del Tesoro, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal fondo di riserva per le Spese impreviste, inscritto al capitolo n. 84 dello stato di previsione della spesa del Ministero del Tesoro per l'esercizio finanziario pel 1885-86, e' autorizzata una ventiquattresima prelevazione nella somma di lire cinquantamila (L. 50,000), da portarsi in aumento al capitolo n. 46, Economato generale - Fornitura di carta, stampe ed oggetti di cancelleria alle Amministrazioni dello Stato, dello stato di previsione della spesa del Ministero di Agricoltura, Industria e Commercio per l'esercizio finanziario 1885-86.   
-  
-Questo decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, li 23 novembre 1885.   
-  
-UMBERTO.   
-  
-A. Magliani.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+Dal fondo di riserva per le Spese impreviste, inscritto al capitolo n. 84 dello stato di previsione della spesa del Ministero del Tesoro per l'esercizio finanziario pel 1885-86, e' autorizzata una ventiquattresima prelevazione nella somma di lire cinquantamila (L. 50,000), da portarsi in aumento al capitolo n. 46, Economato generale - Fornitura di carta, stampe ed oggetti di cancelleria alle Amministrazioni dello Stato, dello stato di previsione della spesa del Ministero di Agricoltura, Industria e Commercio per l'esercizio finanziario 1885-86. 
+ 
+ Questo decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, li 23 novembre 1885. 
+ 
+ UMBERTO. 
+ 
+ A. Magliani. 
+ 
+ Visto, Il Guardasigilli: Tajani.

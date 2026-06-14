@@ -1,17 +1,17 @@
-REGIO DECRETO 10 agosto 1922 n. 1237
+---
+tipo: REGIO DECRETO
+numero: 1237
+data: 1922-08-10
+titolo: "Approvazione di statuto. (022U1237)"
+urn: urn:nir:stato:regio.decreto:1922-08-10;1237
+codice_redazionale: 022U1237
+vigente: true
+---
 
-
-REGIO DECRETO 10 agosto 1922 n. 1237
-====================================
-
-Approvazione di statuto. (022U1237)
------------------------------------
-
-Entrata in vigore del provvedimento: 03/10/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1237. Regio decreto 10 agosto 1922, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, viene approvato lo statuto organico, dell'asilo infantile «Arioli-Dolci di Piazzatorre)» con le modifiche disposte agli articoli 1, 5, 11, 15 e 21.
+1237.
+
+Regio decreto 10 agosto 1922, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, viene approvato lo statuto organico, dell'asilo infantile «Arioli-Dolci di Piazzatorre)» con le modifiche disposte agli articoli 1, 5, 11, 15 e 21.

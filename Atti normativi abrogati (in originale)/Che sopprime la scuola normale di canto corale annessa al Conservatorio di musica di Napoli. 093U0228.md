@@ -1,16 +1,14 @@
-REGIO DECRETO 16 aprile 1893 n. 228
-
-
-REGIO DECRETO 16 aprile 1893 n. 228
-===================================
-
-Che sopprime la scuola normale di canto corale annessa al Conservatorio di musica di Napoli. (093U0228)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/06/1893
+---
+tipo: REGIO DECRETO
+numero: 228
+data: 1893-04-16
+titolo: "Che sopprime la scuola normale di canto corale annessa al Conservatorio di musica di Napoli. (093U0228)"
+urn: urn:nir:stato:regio.decreto:1893-04-16;228
+codice_redazionale: 093U0228
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,33 +24,22 @@ Veduto il ruolo normale del Conservatorio medesimo, approvato con Nostro decreto
 
 Veduto il parere della Commissione permanente musicale contrario al mantenimento di detta scuola;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A cominciare dal 1° luglio 1893 e' soppressa la scuola normale di canto corale, annessa al Conservatorio di musica di Napoli.
 
-  
-  
-A cominciare dal 1° luglio 1893 e' soppressa la scuola normale di canto corale, annessa al Conservatorio di musica di Napoli.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Tutte le disposizioni contrarie al presente decreto sono abrogate.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 aprile 1893.   
-  
-UMBERTO.   
-  
-Martini.   
-  
-Visto, Il Guardasigilli: Bonacci.   
-  
+Tutte le disposizioni contrarie al presente decreto sono abrogate. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 aprile 1893. 
+ 
+ UMBERTO. 
+ 
+ Martini. 
+ 
+ Visto, Il Guardasigilli: Bonacci.

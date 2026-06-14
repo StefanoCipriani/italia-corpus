@@ -1,104 +1,61 @@
-LEGGE 04 gennaio 1937 n. 74
+---
+tipo: LEGGE
+numero: 74
+data: 1937-01-04
+titolo: "Norme relative all'amministrazione della giustizia penale ed ai procedimenti per violazioni finanziarie nei riguardi di coloro che abbiano prestato servizio nell'Africa Orientale per ragioni militari, di impiego o di lavoro. (037U0074)"
+urn: urn:nir:stato:legge:1937-01-04;74
+codice_redazionale: 037U0074
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 04 gennaio 1937 n. 74
-===========================
+Nei procedimenti penali sospesi ai termini del il [R. decreto-legge 24 ottobre 1935, n. 1893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-24;1893), convertito nella [legge 30 marzo 1936, n. 574](Conversione%20in%20legge%20del%20R.%20decreto-legge%2024%20ottobre%201935-XIII%20n.%201893%20contenente%20norme%20temporanee%20per%20conciliare%20le%20esigenze%20della%20giustizia%20penale%20e%20dellamministrazione%20finanziaria%20del%20_364a42c5d45a.md), e che debbono riprendere il loro corso per essere venute a cessare le ragioni della sospensione, qualora sia pronunziata sentenza di condanna a pena detentiva per un tempo non superiore a tre anni o a pena pecuniaria, ovvero sia pronunziato decreto penale di condanna, il giudice, anche nei casi non consentiti da leggi speciali, ordina che l'esecuzione della pena rimanga sospesa per il termine di cinque anni se la condanna e' per delitto, e di due anni, se la condanna e' per contravvenzione, fermo il disposto degli [articoli 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_166), [167](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_167) e [168 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_168).
 
-Norme relative all'amministrazione della giustizia penale ed ai procedimenti per violazioni finanziarie nei riguardi di coloro che abbiano prestato servizio nell'Africa Orientale per ragioni militari, di impiego o di lavoro. (037U0074)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 15/02/1937
+I mandati o gli ordini di cattura o di arresto da eseguirsi o da emettersi in seguito alla ripresa del corso dei procedimenti penali sospesi, devono essere sostituiti con mandati od ordini di comparizione.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Nei procedimenti penali sospesi ai termini del il [R. decreto-legge 24 ottobre 1935, n. 1893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-24;1893), convertito nella [legge 30 marzo 1936, n. 574](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-03-30;574), e che debbono riprendere il loro corso per essere venute a cessare le ragioni della sospensione, qualora sia pronunziata sentenza di condanna a pena detentiva per un tempo non superiore a tre anni o a pena pecuniaria, ovvero sia pronunziato decreto penale di condanna, il giudice, anche nei casi non consentiti da leggi speciali, ordina che l'esecuzione della pena rimanga sospesa per il termine di cinque anni se la condanna e' per delitto, e di due anni, se la condanna e' per contravvenzione, fermo il disposto degli [articoli 166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art166), [167](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art167) e [168 del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art168).   
+Le condanne a pena detentiva per un tempo non superiore a tre anni o a pena pecuniaria, la cui esecuzione sia stata sospesa ai sensi del [R. decreto-legge 24 ottobre 1935, n. 1893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-24;1893), s'intendono pronunciate col beneficio della sospensione condizionale della pena ai sensi dell'art. 1.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-I mandati o gli ordini di cattura o di arresto da eseguirsi o da emettersi in seguito alla ripresa del corso dei procedimenti penali sospesi, devono essere sostituiti con mandati od ordini di comparizione.   
-  
-  
+In caso di concorso di reati comuni con reati militari, il beneficio della sospensione condizionale delle pene relative ai reati comuni e' concesso ai sensi dell'art. 1.
 
-Art. 3
-------
+## Art. 5.
 
-  
-  
-Le condanne a pena detentiva per un tempo non superiore a tre anni o a pena pecuniaria, la cui esecuzione sia stata sospesa ai sensi del [R. decreto-legge 24 ottobre 1935, n. 1893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-24;1893), s'intendono pronunciate col beneficio della sospensione condizionale della pena ai sensi dell'art. 1.   
-  
-  
+Le disposizioni di cui agli articoli 1 e 3 si applicano anche ai decreti penali di condanna all'ammenda emessi o da emettersi dall'intendente di finanza nell'esercizio della sua speciale giurisdizione.
 
-Art. 4
-------
+## Art. 6.
 
-  
-  
-In caso di concorso di reati comuni con reati militari, il beneficio della sospensione condizionale delle pene relative ai reati comuni e' concesso ai sensi dell'art. 1.   
+Nei procedimenti concernenti le violazioni delle leggi finanziarie e dei regolamenti di servizio dell'Amministrazione delle finanze per le quali sia stabilita, come sanzione amministrativa, la pena pecuniaria, sospesi ai termini dell'[art. 8 del R. decreto-legge 24 ottobre 1935, n. 1893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-24;1893#art_8), e che debbono riprendere il loro corso per essere venute a cessare le ragioni della sospensione, la pena pecuniaria inflitta deve essere ridotta alla meta' e, in ogni caso, ad una somma non inferiore alle L. 50. 
+ 
+ Per le violazioni delle norme concernenti le tasse sugli affari, di cui all'art. 1 del decreto Ministeriale 1° settembre 1931, che detta norme per la determinazione della riduzione delle pene pecuniarie, la riduzione alla meta' va applicata sull'ammontare della pena che l'intendente di finanza stabilisce, tenute presenti le norme di cui allo stesso decreto Ministeriale 1° settembre 1931, fermo, in ogni caso, il limite minimo di L. 50.
 
-Art. 5
-------
+## Art. 7.
 
-  
-  
-Le disposizioni di cui agli articoli 1 e 3 si applicano anche ai decreti penali di condanna all'ammenda emessi o da emettersi dall'intendente di finanza nell'esercizio della sua speciale giurisdizione.   
-  
-  
+Le pene pecuniarie applicate dall'intendente di finanza, e non riscosse per effetto della sospensione di cui al [R. decreto-legge 24 ottobre 1935, n. 1893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-24;1893), sono ridotte alla meta', fermo, anche in questo caso, il limite minimo di L. 50.
 
-Art. 6
-------
+## Art. 8.
 
-  
-  
-Nei procedimenti concernenti le violazioni delle leggi finanziarie e dei regolamenti di servizio dell'Amministrazione delle finanze per le quali sia stabilita, come sanzione amministrativa, la pena pecuniaria, sospesi ai termini dell'[art. 8 del R. decreto-legge 24 ottobre 1935, n. 1893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-24;1893~art8), e che debbono riprendere il loro corso per essere venute a cessare le ragioni della sospensione, la pena pecuniaria inflitta deve essere ridotta alla meta' e, in ogni caso, ad una somma non inferiore alle L. 50.   
-  
-Per le violazioni delle norme concernenti le tasse sugli affari, di cui all'art. 1 del decreto Ministeriale 1° settembre 1931, che detta norme per la determinazione della riduzione delle pene pecuniarie, la riduzione alla meta' va applicata sull'ammontare della pena che l'intendente di finanza stabilisce, tenute presenti le norme di cui allo stesso decreto Ministeriale 1° settembre 1931, fermo, in ogni caso, il limite minimo di L. 50.   
+Il beneficio della riduzione di cui agli articoli 6 e 7 e' subordinato alla condizione che, entro cinque anni dal giorno in cui esso viene concesso, l'autore della violazione non commetta una infrazione della stessa specie.
 
-Art. 7
-------
+## Art. 9.
 
-  
-  
-Le pene pecuniarie applicate dall'intendente di finanza, e non riscosse per effetto della sospensione di cui al [R. decreto-legge 24 ottobre 1935, n. 1893](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-10-24;1893), sono ridotte alla meta', fermo, anche in questo caso, il limite minimo di L. 50.   
-  
-  
+Le precedenti disposizioni sono applicabili soltanto a coloro i quali, anche successivamente all'andata in vigore della presente legge, abbiano prestato servizio nell'Africa Orientale per ragioni militari, d'impiego o di lavoro.
 
-Art. 8
-------
+## Art. 10.
 
-  
-  
-Il beneficio della riduzione di cui agli articoli 6 e 7 e' subordinato alla condizione che, entro cinque anni dal giorno in cui esso viene concesso, l'autore della violazione non commetta una infrazione della stessa specie.   
-  
-  
-
-Art. 9
-------
-
-  
-  
-Le precedenti disposizioni sono applicabili soltanto a coloro i quali, anche successivamente all'andata in vigore della presente legge, abbiano prestato servizio nell'Africa Orientale per ragioni militari, d'impiego o di lavoro.   
-  
-  
-
-Art. 10
--------
-
-  
-  
-La presente legge andra' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Roma, addi' 4 gennaio 1937 - Anno XV   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - SOLMI - LESSONA - DI REVEL   
-  
-Visto, il Guardasigilli: SOLMI.   
+La presente legge andra' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Roma, addi' 4 gennaio 1937 - Anno XV 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - SOLMI - LESSONA - DI REVEL 
+ 
+ Visto, il Guardasigilli: SOLMI.

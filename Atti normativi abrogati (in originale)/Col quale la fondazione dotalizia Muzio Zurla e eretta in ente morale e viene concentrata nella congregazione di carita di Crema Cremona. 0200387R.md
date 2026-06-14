@@ -1,21 +1,17 @@
-REGIO DECRETO 27 ottobre 1902 n. CCCLXXXVII
+---
+tipo: REGIO DECRETO
+numero: CCCLXXXVII
+data: 1902-10-27
+titolo: "Col quale la fondazione dotalizia Muzio Zurla e' eretta in ente morale e viene concentrata nella congregazione di carita' di Crema (Cremona). (0200387R)"
+urn: urn:nir:stato:regio.decreto:1902-10-27;387
+codice_redazionale: 0200387R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 ottobre 1902 n. CCCLXXXVII
-===========================================
-
-Col quale la fondazione dotalizia Muzio Zurla e' eretta in ente morale e viene concentrata nella congregazione di carita' di Crema (Cremona). (0200387R)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/12/1902
-
-Art. 1
-------
-
-  
-Col quale la fondazione dotalizia Muzio Zurla e' eretta in ente morale e viene concentrata nella congregazione di carita' di Crema (Cremona). - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 14 novembre 1902.   
-  
-Reg. 6. Atti del Governo a f. 146.   
-  
+Col quale la fondazione dotalizia Muzio Zurla e' eretta in ente morale e viene concentrata nella congregazione di carita' di Crema (Cremona). - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 14 novembre 1902. 
+ 
+ Reg. 6. Atti del Governo a f. 146.

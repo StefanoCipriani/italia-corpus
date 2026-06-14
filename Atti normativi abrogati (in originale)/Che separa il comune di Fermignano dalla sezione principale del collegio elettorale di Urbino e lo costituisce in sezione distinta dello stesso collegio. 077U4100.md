@@ -1,16 +1,14 @@
-REGIO DECRETO 24 ottobre 1877 n. 4100
-
-
-REGIO DECRETO 24 ottobre 1877 n. 4100
-=====================================
-
-Che separa il comune di Fermignano dalla sezione principale del collegio elettorale di Urbino, e lo costituisce in sezione distinta dello stesso collegio. (077U4100)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/11/1877
+---
+tipo: REGIO DECRETO
+numero: 4100
+data: 1877-10-24
+titolo: "Che separa il comune di Fermignano dalla sezione principale del collegio elettorale di Urbino, e lo costituisce in sezione distinta dello stesso collegio. (077U4100)"
+urn: urn:nir:stato:regio.decreto:1877-10-24;4100
+codice_redazionale: 077U4100
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Fermignano e' separato dalla sezione principale del Collegio elettorale di Urbino, e formera' una sezione distinta dello stesso Collegio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 24 ottobre 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il comune di Fermignano e' separato dalla sezione principale del Collegio elettorale di Urbino, e formera' una sezione distinta dello stesso Collegio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 24 ottobre 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

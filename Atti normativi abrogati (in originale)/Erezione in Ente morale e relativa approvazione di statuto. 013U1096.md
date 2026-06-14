@@ -1,19 +1,15 @@
-REGIO DECRETO 03 settembre 1913 n. 1096
+---
+tipo: REGIO DECRETO
+numero: 1096
+data: 1913-09-03
+titolo: "Erezione in Ente morale e relativa approvazione di statuto. (013U1096)"
+urn: urn:nir:stato:regio.decreto:1913-09-03;1096
+codice_redazionale: 013U1096
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 settembre 1913 n. 1096
-=======================================
-
-Erezione in Ente morale e relativa approvazione di statuto. (013U1096)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/10/1913
-
-Art. 1
-------
-
-  
-N. 1096   
-  
-Regio Decreto 3 settembre 1913, col quale, sulla proposta del ministro dell'interno, il «Patronato fanciulli poveri» di Vicenza e' eretto in ente morale sotto l'amministrazione della locale Congregazione di carita' e ne e' approvato lo stato organico.   
-  
+N. 1096 
+ 
+ Regio Decreto 3 settembre 1913, col quale, sulla proposta del ministro dell'interno, il «Patronato fanciulli poveri» di Vicenza e' eretto in ente morale sotto l'amministrazione della locale Congregazione di carita' e ne e' approvato lo stato organico.

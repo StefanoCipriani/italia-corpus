@@ -1,26 +1,24 @@
-REGIO DECRETO 15 gennaio 1920 n. 80
-
-
-REGIO DECRETO 15 gennaio 1920 n. 80
-===================================
-
-Che approva il nuovo piano regolatore edilizio e di ampliamento per la citta' di Torino. (020U0080)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/03/1920
+---
+tipo: REGIO DECRETO
+numero: 80
+data: 1920-01-15
+titolo: "Che approva il nuovo piano regolatore edilizio e di ampliamento per la citta' di Torino. (020U0080)"
+urn: urn:nir:stato:regio.decreto:1920-01-15;80
+codice_redazionale: 020U0080
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359) sulle espropriazioni a causa di pubblica utilita';
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md) sulle espropriazioni a causa di pubblica utilita';
 
-Vista la [legge 5 aprile 1908, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-04-05;141), che approvo' il piano generale edilizio regolatore e di ampliamento di Torino, stabilendo i termini di 20, 30 e 35 anni per l' attuazione di esso rispettivamente nella prima, nella seconda e nella terza zona;
+Vista la [legge 5 aprile 1908, n. 141](Che%20dichiara%20di%20pubblica%20utilita%20le%20opere%20da%20eseguirsi%20in%20conformita%20del%20piano%20generale%20regolatore%20e%20di%20ampliamento%20per%20la%20citta%20di%20Torino.%20008U0141.md), che approvo' il piano generale edilizio regolatore e di ampliamento di Torino, stabilendo i termini di 20, 30 e 35 anni per l' attuazione di esso rispettivamente nella prima, nella seconda e nella terza zona;
 
-Vista la [legge 23 giugno 1912, n. 821](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-23;821) con la quale autorizzavasi la citta' di Torino a dichiarare, agli effetti del dazio, compresi nel Comune chiuso tutti i terreni circoscritti dalla linea approvata dal Consiglio comunale il 3 maggio 1912, e ad estendere ai medesimi, insieme con tutte le disposizioni della legge 5 aprile 1908, il piano edilizio, mediante modificazioni da approvarsi con decreto Reale; e dichiaravansi di pubblica utilita' le opere della cinta daziaria e del coordinamento ad essa del piano edilizio;
+Vista la [legge 23 giugno 1912, n. 821](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-23;821) con la quale autorizzavasi la citta' di Torino a dichiarare, agli effetti del dazio, compresi nel Comune chiuso tutti i terreni circoscritti dalla linea approvata dal Consiglio comunale il 3 maggio 1912, e ad estendere ai medesimi, insieme con tutte le disposizioni della legge 5 aprile 1908, il piano edilizio, mediante modificazioni da approvarsi con decreto Reale; e dichiaravansi di pubblica utilita' le opere della cinta daziaria e del coordinamento ad essa del piano edilizio;
 
 Ritenuto che con deliberazione 30 maggio 1913 il Consiglio comunale di Torino, volendo modificare il piano approvato nel 1908 e coordinarlo con la nuova cinta daziaria, adotto' un primo nuovo piano per il territorio a sinistra del Po e la parte pianeggiante della sponda destra a pie' della collina, fino alle strade di Moncalieri e di Casale;
 
@@ -40,7 +38,7 @@ Che con deliberazione 1° dicembre 1913 il Consiglio comunale di Torino approvo'
 
 Che detto secondo piano comprendeva due zone, una pianeggiante, gia' inclusa nel piano approvato con la legge del 1908 e situata tra le ripetute strade o la nuova cinta daziaria, ed una esclusivamente collinare, di cui solo una parte compare nel piano del 1908;
 
-Che per quest' ultima parte il nuovo piano e' gia' stato approvato col [decreto Luogotenenziale 10 marzo 1918, n. 385](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-03-10;385), cosi' che se ne puo' qui prescindere;
+Che per quest' ultima parte il nuovo piano e' gia' stato approvato col [decreto Luogotenenziale 10 marzo 1918, n. 385](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-03-10;385), cosi' che se ne puo' qui prescindere;
 
 Ritenuto, quanto alla parte pianeggiante, che il piano adottato con la deliberazione 1° dicembre 1913 fu pubblicato nel marzo successivo e che sorsero vari ricorsi, dei quali furono prodotti tempestivamente quelli di Tresca Ernesto, Turina Vittorio, Martinengo Giuseppe, Peila Carlo, Morelli Ettore, Beatrice Engelfred, Re Luigia, Lovera Battista ed L. e M. Calderi, e della Itala Film, Sciamengo ed altri;
 
@@ -102,53 +100,30 @@ Che i limiti della prima e della seconda zona rimangono invariati, mentre quello
 
 Uditi il Consiglio superiore dei lavori pubblici e il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Con le esclusioni e sotto le condizioni e riserve suindicate e' approvato il nuovo piano regolatore di Torino adottato con deliberazione 5 gennaio 1915 di quella Giunta comunale.
 
-  
-  
-  
-Con le esclusioni e sotto le condizioni e riserve suindicate e' approvato il nuovo piano regolatore di Torino adottato con deliberazione 5 gennaio 1915 di quella Giunta comunale.   
-  
+## Art. 2.
 
-Art. 2
-------
+Un esemplare del piano sara' vistato, d' ordine Nostro, dal ministro proponente nelle quattro planimetrie, nelle quattro piante della proprieta' e nei quattro elenchi delle stesse, documenti tutti redatti dall'Ufficio Comunale dei lavori pubblici ed a firma dell'ingegnere Giorgio Scanagatta.
 
-  
-  
-  
-Un esemplare del piano sara' vistato, d' ordine Nostro, dal ministro proponente nelle quattro planimetrie, nelle quattro piante della proprieta' e nei quattro elenchi delle stesse, documenti tutti redatti dall'Ufficio Comunale dei lavori pubblici ed a firma dell'ingegnere Giorgio Scanagatta.   
-  
+## Art. 3.
 
-Art. 3
-------
+Alle modificazioni che il nuovo piano ha apportate a quello approvato con la [legge 5 aprile 1908, n. 141](Che%20dichiara%20di%20pubblica%20utilita%20le%20opere%20da%20eseguirsi%20in%20conformita%20del%20piano%20generale%20regolatore%20e%20di%20ampliamento%20per%20la%20citta%20di%20Torino.%20008U0141.md), sono estese le disposizioni della legge stessa, esclusa pero', quanto alla zona di protezione dello impianto di Millefonti, la facolta' da parte del Comune di espropriare i beni quivi destinati all'edificazione.
 
-  
-  
-  
-Alle modificazioni che il nuovo piano ha apportate a quello approvato con la [legge 5 aprile 1908, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-04-05;141), sono estese le disposizioni della legge stessa, esclusa pero', quanto alla zona di protezione dello impianto di Millefonti, la facolta' da parte del Comune di espropriare i beni quivi destinati all'edificazione.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-  
-Restano fermi i termini stabiliti dalla legge 5 aprile 1908 e decorrenti dalla data della promulgazione della legge stessa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 15 gennaio 1920.   
-  
-VITTORIO EMANUELE.   
-  
-Pantano.   
-  
-Visto, il guardasigilli: Mortara.   
-  
+Restano fermi i termini stabiliti dalla legge 5 aprile 1908 e decorrenti dalla data della promulgazione della legge stessa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 15 gennaio 1920. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Pantano. 
+ 
+ Visto, il guardasigilli: Mortara.

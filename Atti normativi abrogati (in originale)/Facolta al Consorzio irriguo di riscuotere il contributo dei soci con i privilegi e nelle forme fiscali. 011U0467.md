@@ -1,19 +1,15 @@
-REGIO DECRETO 04 maggio 1911 n. 467
+---
+tipo: REGIO DECRETO
+numero: 467
+data: 1911-05-04
+titolo: "Facolta' al Consorzio irriguo di riscuotere il contributo dei soci con i privilegi e nelle forme fiscali. (011U0467)"
+urn: urn:nir:stato:regio.decreto:1911-05-04;467
+codice_redazionale: 011U0467
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 maggio 1911 n. 467
-===================================
-
-Facolta' al Consorzio irriguo di riscuotere il contributo dei soci con i privilegi e nelle forme fiscali. (011U0467)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/06/1911
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. 467. R. decreto 4 maggio 1911, coi quale, al Consorzio irriguo della Vernazza in comune di Sant'Ilario d'Enza, provincia di Reggio Emilia, e' concessa la facolta' di riscuotere il contributo dei soci con i privilegi e nelle forme fiscali.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. 467. R. decreto 4 maggio 1911, coi quale, al Consorzio irriguo della Vernazza in comune di Sant'Ilario d'Enza, provincia di Reggio Emilia, e' concessa la facolta' di riscuotere il contributo dei soci con i privilegi e nelle forme fiscali.

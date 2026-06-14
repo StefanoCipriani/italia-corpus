@@ -1,19 +1,15 @@
-REGIO DECRETO 31 dicembre 1911 n. 1440
+---
+tipo: REGIO DECRETO
+numero: 1440
+data: 1911-12-31
+titolo: "Istituzione di un posto di segretario in un liceo-ginnasio del Regno. (011U1440)"
+urn: urn:nir:stato:regio.decreto:1911-12-31;1440
+codice_redazionale: 011U1440
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 dicembre 1911 n. 1440
-======================================
-
-Istituzione di un posto di segretario in un liceo-ginnasio del Regno. (011U1440)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/02/1912
-
-Art. 1
-------
-
-  
-N. 1440   
-  
-Regio Decreto 31 dicembre 1911, col quale, sulla proposta del ministro della pubblica istruzione viene istituito un posto di segretario di, ruolo con lo stipendio anno di L. 1300 nel R. liceo-ginnasio di Avellino, a decorrere dal 1° ottobre 1911.   
-  
+N. 1440 
+ 
+ Regio Decreto 31 dicembre 1911, col quale, sulla proposta del ministro della pubblica istruzione viene istituito un posto di segretario di, ruolo con lo stipendio anno di L. 1300 nel R. liceo-ginnasio di Avellino, a decorrere dal 1° ottobre 1911.

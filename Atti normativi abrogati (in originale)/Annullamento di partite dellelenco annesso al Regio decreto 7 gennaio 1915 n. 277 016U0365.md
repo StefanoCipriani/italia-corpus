@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 17 febbraio 1916 n. 365
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 365
+data: 1916-02-17
+titolo: "Annullamento di partite dell'elenco annesso al Regio decreto 7 gennaio 1915, n. 277 (016U0365)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-02-17;365
+codice_redazionale: 016U0365
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 17 febbraio 1916 n. 365
-===============================================
-
-Annullamento di partite dell'elenco annesso al Regio decreto 7 gennaio 1915, n. 277 (016U0365)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/04/1916
-
-Art. 1
-------
-
-null
+## Art. 1. — null

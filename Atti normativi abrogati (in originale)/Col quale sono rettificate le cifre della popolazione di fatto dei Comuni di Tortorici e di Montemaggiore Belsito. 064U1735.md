@@ -1,16 +1,14 @@
-REGIO DECRETO 14 aprile 1864 n. 1735
-
-
-REGIO DECRETO 14 aprile 1864 n. 1735
-====================================
-
-Col quale sono rettificate le cifre della popolazione di fatto dei Comuni di Tortorici e di Montemaggiore Belsito. (064U1735)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/05/1864
+---
+tipo: REGIO DECRETO
+numero: 1735
+data: 1864-04-14
+titolo: "Col quale sono rettificate le cifre della popolazione di fatto dei Comuni di Tortorici e di Montemaggiore Belsito. (064U1735)"
+urn: urn:nir:stato:regio.decreto:1864-04-14;1735
+codice_redazionale: 064U1735
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,28 +18,20 @@ Veduto il R. Decreto 10 maggio 1863, col quale furono pubblicate e rese autentic
 
 Vedute le rettificazioni esibite in modo autentico dagli Uffizi temporanei di censimento dei Circondari di Patti, Provincia di Messina, e di Termini Imerese, Provincia di Palermo, sugli spogli delle Commissioni locali di censimento dei Comuni di Tortorici e di Montemaggiore Belsito;
 
-Sulla
------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le cifre della popolazione di fatto del Comune di Tortorici, Circondario di Patti e Provincia di Messina, sono rettificate da 6045 a 6445, e quelle del Comune di Montemaggiore Belsito, Circondario di Termini Imerese, Provincia di Palermo, da 6212 a 6446 abitanti.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Torino addi' 14 aprile 1864.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 18 aprile 1864   
-Reg.° 29 Atti del Governo a c. 36. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI.   
-  
-MANNA.   
-  
-  
+Le cifre della popolazione di fatto del Comune di Tortorici, Circondario di Patti e Provincia di Messina, sono rettificate da 6045 a 6445, e quelle del Comune di Montemaggiore Belsito, Circondario di Termini Imerese, Provincia di Palermo, da 6212 a 6446 abitanti. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Torino addi' 14 aprile 1864. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 18 aprile 1864 
+ Reg.° 29 Atti del Governo a c. 36. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI. 
+ 
+ MANNA.

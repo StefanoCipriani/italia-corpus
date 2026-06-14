@@ -1,21 +1,21 @@
-REGIO DECRETO 25 giugno 1931 n. 971
+---
+tipo: REGIO DECRETO
+numero: 971
+data: 1931-06-25
+titolo: "Erezione in ente morale della «Fondazione Lincoln Nodari» a favore degli orfani di guerra dei militari di truppa del Battaglione Exilles del 3° reggimento alpini. (031U0971)"
+urn: urn:nir:stato:regio.decreto:1931-06-25;971
+codice_redazionale: 031U0971
+vigente: true
+---
 
-
-REGIO DECRETO 25 giugno 1931 n. 971
-===================================
-
-Erezione in ente morale della «Fondazione Lincoln Nodari» a favore degli orfani di guerra dei militari di truppa del Battaglione Exilles del 3° reggimento alpini. (031U0971)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/09/1931
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-971. R. decreto 25 giugno 1931, col quale, sulla proposta del Ministro per la guerra, la «Fondazione Lincoln Nodari», istituita a favore degli orfani di guerra dei militari di truppa del Battaglione Exilles del 3° reggimento alpini, col capitale nominale di L. 41.100, viene eretta in ente morale e ne e' approvato lo statuto.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 11 agosto 1931 - Anno IX
+971.
+
+R. decreto 25 giugno 1931, col quale, sulla proposta del Ministro per la guerra, la «Fondazione Lincoln Nodari», istituita a favore degli orfani di guerra dei militari di truppa del Battaglione Exilles del 3° reggimento alpini, col capitale nominale di L. 41.100, viene eretta in ente morale e ne e' approvato lo statuto. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 11 agosto 1931 - Anno IX

@@ -1,16 +1,14 @@
-REGIO DECRETO 19 ottobre 1865 n. 2532
-
-
-REGIO DECRETO 19 ottobre 1865 n. 2532
-=====================================
-
-Che erige il Comune di Carovigno in Sezione elettorale separata del Collegio di Brindisi. (065U2532)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/11/1865
+---
+tipo: REGIO DECRETO
+numero: 2532
+data: 1865-10-19
+titolo: "Che erige il Comune di Carovigno in Sezione elettorale separata del Collegio di Brindisi. (065U2532)"
+urn: urn:nir:stato:regio.decreto:1865-10-19;2532
+codice_redazionale: 065U2532
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,30 +20,22 @@ Vedute le istanze del Comune di Carovigno (Terra d'Otranto) per ottenere che il 
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari Interni; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari Interni; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Carovigno, che sino ad ora fece parte della Sezione detta di San Vito del Collegio elettorale di Brindisi, n.° 405, costituira' d'ora in poi una Sezione separata del Collegio medesimo.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Firenze addi' 19 ottobre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 25 ottobre 1865   
-  
-Reg.° 34 Atti del Governo a c. 5. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
-  
-  
+Il Comune di Carovigno, che sino ad ora fece parte della Sezione detta di San Vito del Collegio elettorale di Brindisi, n.° 405, costituira' d'ora in poi una Sezione separata del Collegio medesimo. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Firenze addi' 19 ottobre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 25 ottobre 1865 
+ 
+ Reg.° 34 Atti del Governo a c. 5. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli.

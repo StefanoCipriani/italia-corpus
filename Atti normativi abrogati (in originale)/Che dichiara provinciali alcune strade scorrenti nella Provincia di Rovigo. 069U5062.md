@@ -1,16 +1,14 @@
-REGIO DECRETO 05 maggio 1869 n. 5062
-
-
-REGIO DECRETO 05 maggio 1869 n. 5062
-====================================
-
-Che dichiara provinciali alcune strade scorrenti nella Provincia di Rovigo. (069U5062)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/06/1869
+---
+tipo: REGIO DECRETO
+numero: 5062
+data: 1869-05-05
+titolo: "Che dichiara provinciali alcune strade scorrenti nella Provincia di Rovigo. (069U5062)"
+urn: urn:nir:stato:regio.decreto:1869-05-05;5062
+codice_redazionale: 069U5062
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -36,37 +34,22 @@ Veduto l'altro voto del Consiglio superiore in data del 16 gennaio 1869, con cui
 
 Veduto il parere del Consiglio di Stato in data del 12 febbraio ultimo scorso, con cui furono pienamente accettati i voti del Consiglio superiore superiormente citato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato nei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato nei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate provinciali le sei strade nella Provincia di Rovigo indicate nell'Elenco, che, visto d'ordine Nostro dal predetto Ministro, sta annesso al presente Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 5 maggio 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 15 maggio 1869   
-  
-Reg. 47 Atti del Governo a C. 10. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-L. Pasini.   
-  
-
-Elenco
-
-  
-Elenco delle strade provinciali di Rovigo classificate tali con Regio Decreto in data d'oggi.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=069U506200100010110001&dgu=1869-06-08&art.dataPubblicazioneGazzetta=1869-06-08&art.codiceRedazionale=069U5062)
-  
+Sono dichiarate provinciali le sei strade nella Provincia di Rovigo indicate nell'Elenco, che, visto d'ordine Nostro dal predetto Ministro, sta annesso al presente Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 5 maggio 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 15 maggio 1869 
+ 
+ Reg. 47 Atti del Governo a C. 10. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ L. Pasini.

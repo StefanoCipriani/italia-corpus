@@ -1,22 +1,20 @@
-REGIO DECRETO 24 agosto 1921 n. 1407
-
-
-REGIO DECRETO 24 agosto 1921 n. 1407
-====================================
-
-Che autorizza la Camera di commercio e industria di Caltanissetta ad applicare, per il solo anno 1921, la tassa camerale. (021U1407)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/11/1921
+---
+tipo: REGIO DECRETO
+numero: 1407
+data: 1921-08-24
+titolo: "Che autorizza la Camera di commercio e industria di Caltanissetta ad applicare, per il solo anno 1921, la tassa camerale. (021U1407)"
+urn: urn:nir:stato:regio.decreto:1921-08-24;1407
+codice_redazionale: 021U1407
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della nazione
 
 RE D'ITALIA
 
-Vista la [legge 20 marzo 1910, n. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-03-20;121), sull'ordinamento delle Camere di commercio e industria del Regno;
+Vista la [legge 20 marzo 1910, n. 121](Sul%20riordinamento%20delle%20Camere%20di%20commercio%20ed%20arti%20del%20Regno.%20010U0121.md), sull'ordinamento delle Camere di commercio e industria del Regno;
 
 Visto il Nostro decreto 26 aprile 1906 che determina in L. 2 il limite massimo d'aliquota per 100 lire di reddito tassato a ruolo, che la Camera di commercio di Caltanissetta e' autorizzata ad imporre sugli industriali e commercianti del proprio distretto per i redditi di natura commerciale ed industriale;
 
@@ -28,40 +26,26 @@ Ritenuto meritevoli di considerazione le ragioni per le quali la camera di comme
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per l'industria e il commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per l'industria e il commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La Camera di commercio e industria di Caltanissetta e' autorizzata ad applicare per il solo anno 1921 la tassa sugli esercenti industria e commercio nel proprio distretto con l'aliquota massima del 3 per cento sui redditi imponibili di natura commerciale e industriale.
 
-  
-  
-La Camera di commercio e industria di Caltanissetta e' autorizzata ad applicare per il solo anno 1921 la tassa sugli esercenti industria e commercio nel proprio distretto con l'aliquota massima del 3 per cento sui redditi imponibili di natura commerciale e industriale.   
-  
+## Art. 2.
 
-Art. 2
-------
+Entro il limite massimo anzidetto la Camera medesima sottoporra' all'approvazione del Ministero per l'industria e il commercio la misura effettiva di tassa da applicare nell'esercizio 1921, tenuto conto delle effettive esigenze del bilancio camerale di detto anno.
 
-  
-  
-Entro il limite massimo anzidetto la Camera medesima sottoporra' all'approvazione del Ministero per l'industria e il commercio la misura effettiva di tassa da applicare nell'esercizio 1921, tenuto conto delle effettive esigenze del bilancio camerale di detto anno.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il presente decreto 26 aprile 1906, n. CCI, rimane in vigore per tutto quanto non e' diversamente stabilito dal presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarloo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 24 agosto 1921.   
-  
-VITTORIO EMANUELE.   
-  
-BELOTTI.   
-  
-Visto, Il guardasigilli: RODINO'.   
-  
+Il presente decreto 26 aprile 1906, n. CCI, rimane in vigore per tutto quanto non e' diversamente stabilito dal presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarloo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 24 agosto 1921. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ BELOTTI. 
+ 
+ Visto, Il guardasigilli: RODINO'.

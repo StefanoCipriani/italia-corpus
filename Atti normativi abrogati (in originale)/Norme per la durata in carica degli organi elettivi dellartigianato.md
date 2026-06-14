@@ -1,41 +1,30 @@
-LEGGE 06 dicembre 1964 n. 1320
-
-
-LEGGE 06 dicembre 1964 n. 1320
-==============================
-
-Norme per la durata in carica degli organi elettivi dell'artigianato.
----------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 1320
+data: 1964-12-06
+titolo: "Norme per la durata in carica degli organi elettivi dell'artigianato."
+urn: urn:nir:stato:legge:1964-12-06;1320
+codice_redazionale: 064U1320
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Art. 1.
 
-Art. 1
-------
+La durata in carica delle attuali Commissioni provinciali e regionali per l'artigianato e del Comitato centrale dell'artigianato, previsti dalla [legge 25 luglio 1956, n. 860](Norme%20per%20la%20disciplina%20giuridica%20delle%20imprese%20artigiane.md), nonche' degli attuali organi di amministrazione e di controllo provinciali e centrali, previsti dalla [legge 29 dicembre 1956, n. 1533](Assicurazione%20obbligatoria%20contro%20le%20malattie%20per%20gli%20artigiani.md), e' prorogata sino alla data del 31 ottobre 1965.
 
-  
-La durata in carica delle attuali Commissioni provinciali e regionali per l'artigianato e del Comitato centrale dell'artigianato, previsti dalla [legge 25 luglio 1956, n. 860](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-25;860), nonche' degli attuali organi di amministrazione e di controllo provinciali e centrali, previsti dalla [legge 29 dicembre 1956, n. 1533](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-29;1533), e' prorogata sino alla data del 31 ottobre 1965.  
+## Art. 2.
 
-Art. 2
-------
-
-  
-Gli adempimenti elettorali previsti dall'[articolo 9 del decreto del Presidente della Repubblica 23 ottobre 1956, n. 1202](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1956-10-23;1202~art9), e dall'[articolo 20 del decreto del Presidente della Repubblica 18 marzo 1957, n. 266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1957-03-18;266~art20), devono avere inizio entro la data del 30 giugno 1965.  
-Entro la stessa data del 30 giugno 1965, deve essere provveduto, a cura delle Commissioni provinciali per l'artigianato, alla revisione d'ufficio delle imprese iscritte nell'albo di cui all'[articolo 9 della legge 25 luglio 1956, n. 860](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-25;860~art9).  
-  
+Gli adempimenti elettorali previsti dall'[articolo 9 del decreto del Presidente della Repubblica 23 ottobre 1956, n. 1202](Norme%20di%20attuazione%20e%20di%20coordinamento%20della%20legge%2025%20luglio%201956%20n.%20860%20concernente%20la%20definizione%20e%20la%20disciplina%20delle%20imprese%20artigiane%20con%20le%20altre%20norme%20legislative%20vigenti%20per%20lartigianato.md), e dall'[articolo 20 del decreto del Presidente della Repubblica 18 marzo 1957, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-18;266#art_20), devono avere inizio entro la data del 30 giugno 1965.
+ Entro la stessa data del 30 giugno 1965, deve essere provveduto, a cura delle Commissioni provinciali per l'artigianato, alla revisione d'ufficio delle imprese iscritte nell'albo di cui all'[articolo 9 della legge 25 luglio 1956, n. 860](Norme%20per%20la%20disciplina%20giuridica%20delle%20imprese%20artigiane.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 6 dicembre 1164
+Data a Roma, addi' 6 dicembre 1164
 
-Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA MORO - MEDICI - DELLE FAVE
-
-Visto, il Guardasigilli: REALE
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA MORO - MEDICI - DELLE FAVE Visto, il Guardasigilli: REALE

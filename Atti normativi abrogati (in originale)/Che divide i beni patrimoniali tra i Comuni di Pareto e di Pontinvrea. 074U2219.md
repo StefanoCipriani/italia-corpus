@@ -1,16 +1,14 @@
-REGIO DECRETO 02 novembre 1874 n. 2219
-
-
-REGIO DECRETO 02 novembre 1874 n. 2219
-======================================
-
-Che divide i beni patrimoniali tra i Comuni di Pareto e di Pontinvrea. (074U2219)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/12/1874
+---
+tipo: REGIO DECRETO
+numero: 2219
+data: 1874-11-02
+titolo: "Che divide i beni patrimoniali tra i Comuni di Pareto e di Pontinvrea. (074U2219)"
+urn: urn:nir:stato:regio.decreto:1874-11-02;2219
+codice_redazionale: 074U2219
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,31 +30,20 @@ Veduti tutti gli atti e documenti prodotti dai due comuni;
 
 Ritenuto che dalle circostanze di fatto e dalle considerazioni di diritto svolti in atti risulta provato il diritto del comune di Pontinvrea alla partecipazione del patrimonio del comune di Pareto;
 
-Udito
------
+Udito il parere emesso del Consiglio di Stato, Abbiamo decretato e decretiamo:
 
-il parere emesso del Consiglio di Stato, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E'assegnato al comune di Pontinvrea un terzo delle attivita' e passivita' spettanti al comune di Pareto al 24 luglio 1846, in base ai bilanci degli anni 1845 e 1846 e dei relativi documenti.
 
-  
-  
-E'assegnato al comune di Pontinvrea un terzo delle attivita' e passivita' spettanti al comune di Pareto al 24 luglio 1846, in base ai bilanci degli anni 1845 e 1846 e dei relativi documenti.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-La liquidazione del patrimonio sara' fatta a cura del prefetto di Genova.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 2 novembre 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
+La liquidazione del patrimonio sara' fatta a cura del prefetto di Genova. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 2 novembre 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

@@ -1,19 +1,15 @@
-REGIO DECRETO 29 settembre 1912 n. 1366
+---
+tipo: REGIO DECRETO
+numero: 1366
+data: 1912-09-29
+titolo: "Istituzione di scuola normale a Fano. (012U1366)"
+urn: urn:nir:stato:regio.decreto:1912-09-29;1366
+codice_redazionale: 012U1366
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 settembre 1912 n. 1366
-=======================================
-
-Istituzione di scuola normale a Fano. (012U1366)
-------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/01/1913
-
-Art. 1
-------
-
-  
-N. 1366   
-  
-Regio Decreto 29 settembre 1912, col quale, sulla proposta dei ministri dell'istruzione pubblica e del tesoro, e' istituita nel comune di Fano una scuola normale maschile con decorrenza dal 1° ottobre 1912.   
-  
+N. 1366 
+ 
+ Regio Decreto 29 settembre 1912, col quale, sulla proposta dei ministri dell'istruzione pubblica e del tesoro, e' istituita nel comune di Fano una scuola normale maschile con decorrenza dal 1° ottobre 1912.

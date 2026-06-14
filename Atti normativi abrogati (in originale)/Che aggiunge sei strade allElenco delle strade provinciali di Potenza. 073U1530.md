@@ -1,16 +1,14 @@
-REGIO DECRETO 17 agosto 1873 n. 1530
-
-
-REGIO DECRETO 17 agosto 1873 n. 1530
-====================================
-
-Che aggiunge sei strade all'Elenco delle strade provinciali di Potenza. (073U1530)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/09/1873
+---
+tipo: REGIO DECRETO
+numero: 1530
+data: 1873-08-17
+titolo: "Che aggiunge sei strade all'Elenco delle strade provinciali di Potenza. (073U1530)"
+urn: urn:nir:stato:regio.decreto:1873-08-17;1530
+codice_redazionale: 073U1530
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,7 +22,7 @@ Veduti i ricorsi 26 gennaio, 15 febbraio e 18 marzo 1873 dei Comuni di Abriola e
 
 Veduto il parere 31 maggio 1873 del Consiglio superiore dei Lavori Pubblici;
 
-Veduti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della Legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato F;
+Veduti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [14 della Legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), allegato F;
 
 Considerando:
 
@@ -38,38 +36,22 @@ Che riguardo alle altre strade di cui fu deliberata l'aggiunta, non fu sollevata
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono aggiunte all'Elenco delle provinciali di Potenza le sei strade indicate nel Prospetto che, visto d'ordine Nostro dal predetto Ministro, stara' annesso a questo Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche addi' 17 agosto 1873.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 30 agosto 1873   
-  
-Atti del Governo a c. 67. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Vigliani.   
-  
-S. Spaventa.   
-  
-  
-
-Elenco
-
-  
-Elenco suppletivo delle strade provinciali di Potenza.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=073U153000100010110001&dgu=1873-09-04&art.dataPubblicazioneGazzetta=1873-09-04&art.codiceRedazionale=073U1530)
-  
+Sono aggiunte all'Elenco delle provinciali di Potenza le sei strade indicate nel Prospetto che, visto d'ordine Nostro dal predetto Ministro, stara' annesso a questo Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche addi' 17 agosto 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 30 agosto 1873 
+ 
+ Atti del Governo a c. 67. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Vigliani. 
+ 
+ S. Spaventa.

@@ -1,16 +1,14 @@
-REGIO DECRETO 04 giugno 1914 n. 699
-
-
-REGIO DECRETO 04 giugno 1914 n. 699
-===================================
-
-Col quale viene modificato l'art. 1 del R. decreto 16 aprile 1914, n. 356, concernente l'imposizione e la riscossione della tassa a favore della Camera di commercio di Bergamo. (014U0699)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/08/1914
+---
+tipo: REGIO DECRETO
+numero: 699
+data: 1914-06-04
+titolo: "Col quale viene modificato l'art. 1 del R. decreto 16 aprile 1914, n. 356, concernente l'imposizione e la riscossione della tassa a favore della Camera di commercio di Bergamo. (014U0699)"
+urn: urn:nir:stato:regio.decreto:1914-06-04;699
+codice_redazionale: 014U0699
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e por volonta' della Nazione
 
@@ -22,22 +20,16 @@ Vedute le deliberazioni della Camera predetta in data 3 marzo 1913 e 6 febbraio 
 
 Sulla proposta del Nostro ministro, segretario di Stato per l'agricoltura, l'industria ed il commercio;
 
-Abbiamo
--------
+Abbiamo decretato e decretiamo: L'art. 1° del R. decreto 16 aprile 1914, n. 356, e' abrogato e sostituito dal seguente:
 
-decretato e decretiamo: L'art. 1° del R. decreto 16 aprile 1914, n. 356, e' abrogato e sostituito dal seguente:
+## Art. 1.
 
-Art. 1
-------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 giugno 1914.   
-  
-VITTORIO EMANUELE.   
-  
-Cavasola.   
-  
-Visto, il guardasigilli: Dari.   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 giugno 1914. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Cavasola. 
+ 
+ Visto, il guardasigilli: Dari.

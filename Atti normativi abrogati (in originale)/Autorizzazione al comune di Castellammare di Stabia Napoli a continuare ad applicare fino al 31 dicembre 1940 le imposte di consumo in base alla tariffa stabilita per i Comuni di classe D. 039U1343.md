@@ -1,16 +1,14 @@
-REGIO DECRETO 18 agosto 1939 n. 1343
-
-
-REGIO DECRETO 18 agosto 1939 n. 1343
-====================================
-
-Autorizzazione al comune di Castellammare di Stabia (Napoli) a continuare ad applicare fino al 31 dicembre 1940 le imposte di consumo in base alla tariffa stabilita per i Comuni di classe D. (039U1343)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/10/1939
+---
+tipo: REGIO DECRETO
+numero: 1343
+data: 1939-08-18
+titolo: "Autorizzazione al comune di Castellammare di Stabia (Napoli) a continuare ad applicare fino al 31 dicembre 1940 le imposte di consumo in base alla tariffa stabilita per i Comuni di classe D. (039U1343)"
+urn: urn:nir:stato:regio.decreto:1939-08-18;1343
+codice_redazionale: 039U1343
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,22 @@ Vista l'istanza con la quale il Comune suddetto chiede di potere mantenere ulter
 
 Visto il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Castellammare di Stabia e' autorizzato a continuare ad applicare fino al 31 dicembre 1940-XIX le imposte di consumo entro i limiti stabiliti per la classe D.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 18 agosto 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 14 settembre 1939-XVII   
-  
-Atti del Governo, registro 413, foglio 56. - Mancini.   
+Il comune di Castellammare di Stabia e' autorizzato a continuare ad applicare fino al 31 dicembre 1940-XIX le imposte di consumo entro i limiti stabiliti per la classe D. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 18 agosto 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 14 settembre 1939-XVII 
+ 
+ Atti del Governo, registro 413, foglio 56. - Mancini.

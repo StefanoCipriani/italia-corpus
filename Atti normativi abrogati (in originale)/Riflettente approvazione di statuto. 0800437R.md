@@ -1,19 +1,15 @@
-REGIO DECRETO 08 ottobre 1908 n. CCCCXXXVII
+---
+tipo: REGIO DECRETO
+numero: CCCCXXXVII
+data: 1908-10-08
+titolo: "Riflettente approvazione di statuto. (0800437R)"
+urn: urn:nir:stato:regio.decreto:1908-10-08;437
+codice_redazionale: 0800437R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 ottobre 1908 n. CCCCXXXVII
-===========================================
-
-Riflettente approvazione di statuto. (0800437R)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/11/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro per l'agricoltura, l'industria e il commercio:   
-  
-N. CCCCXXXVII (Dato a Racconigi, 1' 8 ottobre 1908), col quale si approva lo statuto della Cassa agraria di Grottole.   
-  
+Sulla proposta del ministro per l'agricoltura, l'industria e il commercio: 
+ 
+ N. CCCCXXXVII (Dato a Racconigi, 1' 8 ottobre 1908), col quale si approva lo statuto della Cassa agraria di Grottole.

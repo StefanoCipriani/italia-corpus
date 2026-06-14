@@ -1,18 +1,15 @@
-REGIO DECRETO 01 dicembre 1907 n. DXXVI
+---
+tipo: REGIO DECRETO
+numero: DXXVI
+data: 1907-12-01
+titolo: "Erezione in ente morale. (0700526R)"
+urn: urn:nir:stato:regio.decreto:1907-12-01;526
+codice_redazionale: 0700526R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 dicembre 1907 n. DXXVI
-=======================================
-
-Erezione in ente morale. (0700526R)
------------------------------------
-
-Entrata in vigore del provvedimento: 14/01/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. DXXVI (Dato a Roma, il 1° dicembre 1907), col quale il ricovero di mendicita' «Giuseppe Raffaele Antonucci» di Popoli (Aquila) e' eretto in ente morale ed e' approvato lo statuto organico relativo.   
+Sulla proposta del ministro dell'interno: 
+ 
+ N. DXXVI (Dato a Roma, il 1° dicembre 1907), col quale il ricovero di mendicita' «Giuseppe Raffaele Antonucci» di Popoli (Aquila) e' eretto in ente morale ed e' approvato lo statuto organico relativo.

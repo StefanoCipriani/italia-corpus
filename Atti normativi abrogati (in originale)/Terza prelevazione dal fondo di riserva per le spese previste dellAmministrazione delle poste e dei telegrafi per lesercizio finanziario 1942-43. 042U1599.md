@@ -1,16 +1,14 @@
-REGIO DECRETO 14 dicembre 1942 n. 1599
-
-
-REGIO DECRETO 14 dicembre 1942 n. 1599
-======================================
-
-Terza prelevazione dal fondo di riserva per le spese previste dell'Amministrazione delle poste e dei telegrafi per l'esercizio finanziario 1942-43. (042U1599)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/01/1943
+---
+tipo: REGIO DECRETO
+numero: 1599
+data: 1942-12-14
+titolo: "Terza prelevazione dal fondo di riserva per le spese previste dell'Amministrazione delle poste e dei telegrafi per l'esercizio finanziario 1942-43. (042U1599)"
+urn: urn:nir:stato:regio.decreto:1942-12-14;1599
+codice_redazionale: 042U1599
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,23 @@ Visto l'art. 21 del R. decreto-legge 23 aprile 1925-III, n. 520, convertito nell
 
 Visto che il fondo di riserva istituito per le spese impreviste della Amministrazione delle poste e dei telegrafi presenta una disponibilita' di L. 12.731.000 depositate in conto corrente speciale presso la Tesoreria centrale del Regno ;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con quello per finanze; Abbiamo decretato e decretiamo :
 
-proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con quello per finanze; Abbiamo decretato e decretiamo :
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal fondo di riserva anzidetto e' autorizzato il prelevamento di L. 48.000 da versarsi all'Amministrazione postale telegrafica, con imputazione al capitolo 19 dello stato di previsione dell'entrata dell'Amministrazione medesima per l'esercizio finanziario 1942-43 e da inscriversi in aumento allo stanziamento del capitolo 101 del bilancio della spesa dell'Amministrazione suddetta per l'esercizio medesimo (spese di pubblicita' per promuovere l'incremento di taluni servizi).   
-  
-Questo decreto sara' comunicato alle Assemblee legislative unitamente al conto consuntivo dell'Azienda delle poste e dei telegrafi per l'esercizio finanziario 1942-43.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 dicembre 1942-XXI   
-  
-VITTORIO EMANUELE   
-  
-HOST VENTURI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 14 gennaio 1943-XXI   
-Atti del Governo, registro 453, foglio 63 - MANCINI   
+Dal fondo di riserva anzidetto e' autorizzato il prelevamento di L. 48.000 da versarsi all'Amministrazione postale telegrafica, con imputazione al capitolo 19 dello stato di previsione dell'entrata dell'Amministrazione medesima per l'esercizio finanziario 1942-43 e da inscriversi in aumento allo stanziamento del capitolo 101 del bilancio della spesa dell'Amministrazione suddetta per l'esercizio medesimo (spese di pubblicita' per promuovere l'incremento di taluni servizi). 
+ 
+Questo decreto sara' comunicato alle Assemblee legislative unitamente al conto consuntivo dell'Azienda delle poste e dei telegrafi per l'esercizio finanziario 1942-43. 
+ 
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+Dato a Roma, addi' 14 dicembre 1942-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ HOST VENTURI - DI REVEL 
+ 
+Visto, il Guardasigilli: GRANDI 
+ 
+Registrato alla Corte dei conti, addi' 14 gennaio 1943-XXI 
+Atti del Governo, registro 453, foglio 63 - MANCINI

@@ -1,22 +1,15 @@
-REGIO DECRETO 08 marzo 1925 n. 710
+---
+tipo: REGIO DECRETO
+numero: 710
+data: 1925-03-08
+titolo: "Annullamento delle partite relative ai comuni di Piani, Caramagna Ligure, Castelvecchio di S. Maria Maggiore, Borgo Sant'Agata, Costa d'Oneglia, Poggi, Torrazza, Moltedo Superiore, Montegrazie ed Oneglia. (025U0710)"
+urn: urn:nir:stato:regio.decreto:1925-03-08;710
+codice_redazionale: 025U0710
+vigente: true
+---
 
+## Art. 1. — null
 
-REGIO DECRETO 08 marzo 1925 n. 710
-==================================
-
-Annullamento delle partite relative ai comuni di Piani, Caramagna Ligure, Castelvecchio di S. Maria Maggiore, Borgo Sant'Agata, Costa d'Oneglia, Poggi, Torrazza, Moltedo Superiore, Montegrazie ed Oneglia. (025U0710)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/06/1925
-
-Art. 1
-------
-
-null
-
-  
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 27 maggio 1925.   
-  
+Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 27 maggio 1925.

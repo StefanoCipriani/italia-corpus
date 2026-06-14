@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 11 giugno 1941 n. 569
-
-
-REGIO DECRETO-LEGGE 11 giugno 1941 n. 569
-=========================================
-
-Maggiore assegnazione allo stato di previsione della spesa del Ministero dell'interno per l'esercizio finanziario 1940-41. (041U0569)
--------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/06/1941.  
-Regio Decreto-Legge convertito dalla [L. 5 dicembre 1941, n. 1394](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-12-05;1394) (in G.U. 31/12/1941, n. 307).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 569
+data: 1941-06-11
+titolo: "Maggiore assegnazione allo stato di previsione della spesa del Ministero dell'interno per l'esercizio finanziario 1940-41. (041U0569)"
+urn: urn:nir:stato:regio.decreto.legge:1941-06-11;569
+codice_redazionale: 041U0569
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -27,32 +24,26 @@ Ritenuta la necessita' di urgenti misure di carattere finanziario;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Lo stanziamento del capitolo n. 84 « Spese per il servizio di investigazione politica » dello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1940-41, e' aumentato di L. 18.000.000.   
-  
-Questo decreto andra' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato alle Assemblee legislative per la sua conversione in legge.   
-  
-Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 11 giugno 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 28 giugno 1941-XIX   
-  
-Atti del Governo, registro 434, foglio 109. - Mancini   
+Lo stanziamento del capitolo n. 84 « Spese per il servizio di investigazione politica » dello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1940-41, e' aumentato di L. 18.000.000. 
+ 
+ Questo decreto andra' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato alle Assemblee legislative per la sua conversione in legge. 
+ 
+ Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 11 giugno 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 28 giugno 1941-XIX 
+ 
+ Atti del Governo, registro 434, foglio 109. - Mancini

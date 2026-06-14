@@ -1,21 +1,21 @@
-REGIO DECRETO 29 novembre 1928 n. 2889
+---
+tipo: REGIO DECRETO
+numero: 2889
+data: 1928-11-29
+titolo: "Trasformazione del fine inerente al patrimonio del Monte di pieta' di Capizzi. (028U2889)"
+urn: urn:nir:stato:regio.decreto:1928-11-29;2889
+codice_redazionale: 028U2889
+vigente: true
+---
 
-
-REGIO DECRETO 29 novembre 1928 n. 2889
-======================================
-
-Trasformazione del fine inerente al patrimonio del Monte di pieta' di Capizzi. (028U2889)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/01/1929
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2889. R. decreto 29 novembre 1928, col quale, su proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, il fine inerente al patrimonio del Monte di pieta' di Capizzi e' trasformato a favore dell'orfanotrofio «Collegio di Maria», esistente nello stesso Comune.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 29 dicembre 1928 - Anno VII
+2889.
+
+R. decreto 29 novembre 1928, col quale, su proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, il fine inerente al patrimonio del Monte di pieta' di Capizzi e' trasformato a favore dell'orfanotrofio «Collegio di Maria», esistente nello stesso Comune. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 29 dicembre 1928 - Anno VII

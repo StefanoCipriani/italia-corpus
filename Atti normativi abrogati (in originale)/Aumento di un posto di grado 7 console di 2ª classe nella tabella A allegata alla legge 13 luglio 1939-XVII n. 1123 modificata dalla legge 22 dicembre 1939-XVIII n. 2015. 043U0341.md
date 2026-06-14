@@ -1,16 +1,14 @@
-REGIO DECRETO 18 marzo 1943 n. 341
-
-
-REGIO DECRETO 18 marzo 1943 n. 341
-==================================
-
-Aumento di un posto di grado 7° (console di 2ª classe) nella tabella A allegata alla legge 13 luglio 1939-XVII, n. 1123, modificata dalla legge 22 dicembre 1939-XVIII, n. 2015. (043U0341)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/05/1943
+---
+tipo: REGIO DECRETO
+numero: 341
+data: 1943-03-18
+titolo: "Aumento di un posto di grado 7° (console di 2ª classe) nella tabella A allegata alla legge 13 luglio 1939-XVII, n. 1123, modificata dalla legge 22 dicembre 1939-XVIII, n. 2015. (043U0341)"
+urn: urn:nir:stato:regio.decreto:1943-03-18;341
+codice_redazionale: 043U0341
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,30 +28,24 @@ Udito il Consiglio di Stato;
 
 Sentito Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Primo Ministro Segretario di Stato, Nostro Ministro Segretario di Stato per gli affari esteri, di concerto col Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato o decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Primo Ministro Segretario di Stato, Nostro Ministro Segretario di Stato per gli affari esteri, di concerto col Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato o decretiamo:
+## Art. 1.
 
-Art. 1
-------
-
-  
-  
-Nella tabella A allegata alla legge 13 luglio 1939-XVII, n. 1123, modificata dalla legge 22 dicembre 1939-XVIII, n. 2015, e' aggiunto transitoriamente un posto di grado 7° (console di 2ª classe) da riassorbirsi con la prima vacanza che si verifichera' nel grado stesso.   
-  
-Il presente decreto ha effetto dal 10 febbraio 1943-XXI.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 marzo 1943-XXI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - ACERBO   
-  
-Visto, il Guardasigilli: DE MARSICO   
-  
-Registrato alla Corte dei conti, addi' 13 maggio 1943-XXI   
-  
-Atti del Governo, registro n. 457, foglio 35. - MANCINI   
+Nella tabella A allegata alla legge 13 luglio 1939-XVII, n. 1123, modificata dalla legge 22 dicembre 1939-XVIII, n. 2015, e' aggiunto transitoriamente un posto di grado 7° (console di 2ª classe) da riassorbirsi con la prima vacanza che si verifichera' nel grado stesso. 
+ 
+ Il presente decreto ha effetto dal 10 febbraio 1943-XXI. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 marzo 1943-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - ACERBO 
+ 
+ Visto, il Guardasigilli: DE MARSICO 
+ 
+ Registrato alla Corte dei conti, addi' 13 maggio 1943-XXI 
+ 
+ Atti del Governo, registro n. 457, foglio 35. - MANCINI

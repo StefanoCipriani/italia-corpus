@@ -1,16 +1,14 @@
-REGIO DECRETO 19 ottobre 1865 n. 2538
-
-
-REGIO DECRETO 19 ottobre 1865 n. 2538
-=====================================
-
-Che dichiara di pubblica utilita' l'occupazione della Chiesa del Convento di S. Domenico del Maglio in Firenze. (065U2538)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/11/1865
+---
+tipo: REGIO DECRETO
+numero: 2538
+data: 1865-10-19
+titolo: "Che dichiara di pubblica utilita' l'occupazione della Chiesa del Convento di S. Domenico del Maglio in Firenze. (065U2538)"
+urn: urn:nir:stato:regio.decreto:1865-10-19;2538
+codice_redazionale: 065U2538
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Visto il Decreto del 1.° luglio 1865 con cui viene autorizzata l'occupazione ad
 
 Considerata la necessita' di ridurre il Convento suddetto nonche' la Chiesa annessavi ad uso di Caserma onde provvedere all'alloggiamento della truppa;
 
-Sulla
------
+Sulla proposta del Nostro Ministro della Guerra; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Ministro della Guerra; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' dichiarata di pubblica utilita' l'occupazione della Chiesa del Convento di San Domenico del Maglio in Firenze.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 19 ottobre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 25 ottobre 1865   
-  
-Reg.° 34 Atti del Governo a c. 31. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-A. Petitti.   
-  
+E' dichiarata di pubblica utilita' l'occupazione della Chiesa del Convento di San Domenico del Maglio in Firenze. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 19 ottobre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 25 ottobre 1865 
+ 
+ Reg.° 34 Atti del Governo a c. 31. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ A. Petitti.

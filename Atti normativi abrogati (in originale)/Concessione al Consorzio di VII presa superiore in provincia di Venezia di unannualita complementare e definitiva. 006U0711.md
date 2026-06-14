@@ -1,24 +1,22 @@
-REGIO DECRETO 04 agosto 1906 n. 711
-
-
-REGIO DECRETO 04 agosto 1906 n. 711
-===================================
-
-Concessione al Consorzio di VII presa superiore in provincia di Venezia di un'annualita' complementare e definitiva. (006U0711)
--------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/02/1907
+---
+tipo: REGIO DECRETO
+numero: 711
+data: 1906-08-04
+titolo: "Concessione al Consorzio di VII presa superiore in provincia di Venezia di un'annualita' complementare e definitiva. (006U0711)"
+urn: urn:nir:stato:regio.decreto:1906-08-04;711
+codice_redazionale: 006U0711
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 9 maggio 1889, n. 6150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-05-09;6150), col quale fu concesso al Consorzio di scolo di VII presa superiore in provincia di Venezia di eseguire a termini dell'[articolo 1 della legge 4 luglio 1886, n. 3962](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1886-07-04;3962~art1), le opere di bonificazione del suo territorio, classificato in prima categoria dal [R. decreto 2 luglio 1885, n. 3261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-07-02;3261), assegnandosi al Consorzio stesso, come concorso dello Stato a sensi dell'art. 4 della predetta legge e per la durata di anni 30, l'annualita' di L. 15,193.75 corrispondente al 3.25 % della spesa preventivata per detta bonifica in L. 467,500;
+Visto il [R. decreto 9 maggio 1889, n. 6150](Che%20concede%20al%20Consorzio%20di%20scolo%20VII%20Presa%20Superiore%20in%20provincia%20di%20Venezia%20la%20esecuzione%20delle%20opere%20per%20la%20bonifica%20dei%20terreni%20paludosi%20nel%20distretto%20di%20Dolo.%20089U6150.md), col quale fu concesso al Consorzio di scolo di VII presa superiore in provincia di Venezia di eseguire a termini dell'[articolo 1 della legge 4 luglio 1886, n. 3962](Concernente%20la%20bonificazione%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20086U3962.md), le opere di bonificazione del suo territorio, classificato in prima categoria dal [R. decreto 2 luglio 1885, n. 3261](Che%20classifica%20di%201ª%20categoria%20le%20opere%20di%20bonificazione%20designate%20nellannesso%20elenco.%20085U3261.md), assegnandosi al Consorzio stesso, come concorso dello Stato a sensi dell'art. 4 della predetta legge e per la durata di anni 30, l'annualita' di L. 15,193.75 corrispondente al 3.25 % della spesa preventivata per detta bonifica in L. 467,500;
 
-Visto il [decreto Ministeriale 18 ottobre 1893 numero 52694](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1893-10-18;52694)-8033, registrato alla Corte dei conti il 16 novembre successivo, reg. 173 fog. 76, col quale, essendo stati regolarmente eseguiti o collaudati i lavori, venne iniziato il pagamento delle annualita' come sopra dovute dallo Stato al Consorzio;
+Visto il [decreto Ministeriale 18 ottobre 1893 numero 52694](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1893-10-18;52694)-8033, registrato alla Corte dei conti il 16 novembre successivo, reg. 173 fog. 76, col quale, essendo stati regolarmente eseguiti o collaudati i lavori, venne iniziato il pagamento delle annualita' come sopra dovute dallo Stato al Consorzio;
 
 Ritenuto che il Consorzio presento' in data 10 febbraio 1897 una prima liquidazione provvisoria della spesa incontrata per la bonifica dell'importo rettificato dall'Ufficio tecnico di revisione, di L. 558,399.04 con un maggior dispendio, cioe', di L. 92,899.04 di fronte alle L. 467,500, preventivate nel citato R. decreto 9 maggio 1889, e chiese al Ministero dei lavori pubblici un supplemento del concorso dello Stato corrispondente alla maggiore spesa incontrata nella esecuzione delle opere;
 
@@ -44,7 +42,7 @@ Visto lo statuto consorziale;
 
 Visti i rapporti 21 settembre 1905, n. 4652-374 dell'avvocatura erariale di Venezia, e 6 maggio 1899, n. 6310, e 5 febbraio 1906, n. 943 dell'avvocatura generale erariale;
 
-Attesoche', senza riassumere tutte le considerazioni di diritto e di equita' svolte nell'atto di citazione, e' certo che nella legge 4 luglio 1886 l'annualita' da corrispondere ai Consorzi trovasi determinata in base al capitale occorso per le opere di bonifica, mentre la successiva [legge 6 agosto 1893, n. 463](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-08-06;463), volendo un'annualita' a corpo, fissa ed invariabile, lo ha esplicitamente dichiarato, si assume, nella specie, che il patto derogo' dalla legge essendo la clausola d'invariabilita' inserita nel verbale 19 gennaio 1889 del Consiglio dei delegati dal Consorzio; ma, da una parte, sta il fatto che si e' riconosciuto in altri casi dalla stessa Amministrazione, equo abbandonare una simile clausola come eccessiva, anche quando trovavisi regolarmente inclusa nel disciplinare, e, dall'altra, colla specie potrebbe avere qualche valore la circostanza che il disciplinare del 2 febbraio 1889 non riproduce la clausola del processo verbale del 19 gennaio 1889. Bene e' vero che il processo verbale si trova allegato al R. decreto di concessione 9 maggio 1889, inserito nella raccolta delle leggi e dei decreti; ma di fronte all'atto successivo che e' quello sanzionato dal decreto Reale e che non riprodusse la clausola d'invariabilita', sorge il dubbio sulla efficacia del consenso, tanto piu' che il Consorzio nell'atto di citazione richiama anche l'altra circostanza che nella Gazzetta ufficiale del 7 agosto 1889, n. 187, trovasi riprodotto come «Faciente seguito immediatamente al decreto e parte integrante del medesimo solamente il disciplinare del 2 febbraio 1889»;
+Attesoche', senza riassumere tutte le considerazioni di diritto e di equita' svolte nell'atto di citazione, e' certo che nella legge 4 luglio 1886 l'annualita' da corrispondere ai Consorzi trovasi determinata in base al capitale occorso per le opere di bonifica, mentre la successiva [legge 6 agosto 1893, n. 463](Concernente%20la%20esecuzione%20delle%20opere%20di%20bonifica%20di%20prima%20categoria.%20093U0463.md), volendo un'annualita' a corpo, fissa ed invariabile, lo ha esplicitamente dichiarato, si assume, nella specie, che il patto derogo' dalla legge essendo la clausola d'invariabilita' inserita nel verbale 19 gennaio 1889 del Consiglio dei delegati dal Consorzio; ma, da una parte, sta il fatto che si e' riconosciuto in altri casi dalla stessa Amministrazione, equo abbandonare una simile clausola come eccessiva, anche quando trovavisi regolarmente inclusa nel disciplinare, e, dall'altra, colla specie potrebbe avere qualche valore la circostanza che il disciplinare del 2 febbraio 1889 non riproduce la clausola del processo verbale del 19 gennaio 1889. Bene e' vero che il processo verbale si trova allegato al R. decreto di concessione 9 maggio 1889, inserito nella raccolta delle leggi e dei decreti; ma di fronte all'atto successivo che e' quello sanzionato dal decreto Reale e che non riprodusse la clausola d'invariabilita', sorge il dubbio sulla efficacia del consenso, tanto piu' che il Consorzio nell'atto di citazione richiama anche l'altra circostanza che nella Gazzetta ufficiale del 7 agosto 1889, n. 187, trovasi riprodotto come «Faciente seguito immediatamente al decreto e parte integrante del medesimo solamente il disciplinare del 2 febbraio 1889»;
 
 Attesoche', risoluta la questione principale circa il diritto del Consorzio all'annualita' complementare, di lieve momento appare la questione del quantum ove si consideri la lieve differenza di L. 8,753.89 esistente tra l'importo della liquidazione finale in L. 587,891.58 ammesso dall'Amministrazione ai puri effetti contabili, e quello di L. 596,645.47 calcolato dal Consorzio; il che importa, nell'annualita' complementare la lieve differenza di L. 284.60, la quale del resto e' compensata dalla rinuncia del Consorzio medesimo alle domande specificate nei capi IV, V e VI della citazione;
 
@@ -52,25 +50,18 @@ Attesoche', riconosciuta l'ammissibilita' della transazione, non puo' giovare ne
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato pei lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato pei lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A complemento delle annualita' assegnate al Consorzio di VII Presa superiore in provincia di Venezia col citato [R. decreto 9 maggio 1889, n. 6150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-05-09;6150), quale concorso dello Stato nella spesa occorsa per la bonifica di quel territorio consortile, a norma dell'[articolo 4 della legge 4 luglio 1886, n. 3962](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1886-07-04;3962~art4), e' accordato al Consorzio medesimo un'annualita' complementare e definitiva di lire quattromilacentonovantasette e centesimi trentadue (L. 4197.32) per la durata di anni trenta a decorrere dal corrente esercizio finanziario 1906-1907.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 4 agosto 1906.   
-  
-VITTORIO EMANUELE.   
-  
-Gianturco.   
-  
-Visto, Il guardasigilli: Gallo.   
-  
+A complemento delle annualita' assegnate al Consorzio di VII Presa superiore in provincia di Venezia col citato [R. decreto 9 maggio 1889, n. 6150](Che%20concede%20al%20Consorzio%20di%20scolo%20VII%20Presa%20Superiore%20in%20provincia%20di%20Venezia%20la%20esecuzione%20delle%20opere%20per%20la%20bonifica%20dei%20terreni%20paludosi%20nel%20distretto%20di%20Dolo.%20089U6150.md), quale concorso dello Stato nella spesa occorsa per la bonifica di quel territorio consortile, a norma dell'[articolo 4 della legge 4 luglio 1886, n. 3962](Concernente%20la%20bonificazione%20delle%20paludi%20e%20dei%20terreni%20paludosi.%20086U3962.md), e' accordato al Consorzio medesimo un'annualita' complementare e definitiva di lire quattromilacentonovantasette e centesimi trentadue (L. 4197.32) per la durata di anni trenta a decorrere dal corrente esercizio finanziario 1906-1907. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 4 agosto 1906. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Gianturco. 
+ 
+ Visto, Il guardasigilli: Gallo.

@@ -1,47 +1,38 @@
-REGIO DECRETO 26 giugno 1902 n. 273
-
-
-REGIO DECRETO 26 giugno 1902 n. 273
-===================================
-
-Che modifica l'art. 1° del regio decreto 4 marzo 1900, n. 111, relativo alla destinazione degli addetti a titolo onorario presso le ambasciate e delegazioni. (002U0273)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/07/1902
+---
+tipo: REGIO DECRETO
+numero: 273
+data: 1902-06-26
+titolo: "Che modifica l'art. 1° del regio decreto 4 marzo 1900, n. 111, relativo alla destinazione degli addetti a titolo onorario presso le ambasciate e delegazioni. (002U0273)"
+urn: urn:nir:stato:regio.decreto:1902-06-26;273
+codice_redazionale: 002U0273
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [regio decreto in data 4 marzo 1900, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-03-04;111);
+Visto il [regio decreto in data 4 marzo 1900, n. 111](Che%20stabilisce%20le%20condizioni%20dammissibilita%20ai%20posti%20di%20Addetto%20presso%20le%20Ambasciate%20e%20Legazioni.%20000U0111.md);
 
 Sulla proposta del Nostro ministro segretario di Stato per gli affari esteri;
 
-Sentito
--------
+Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'articolo 1° del [regio decreto 4 marzo 1900, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-03-04;111), e' modificato come segue:   
-  
-Art. 1. Presso le Nostre ambasciate e legazioni potranno essere destinati addetti a titolo onorario.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 26 giugno 1902.   
-  
-VITTORIO EMANUELE.   
-  
-G. Zanardelli.   
-Prinetti.   
-  
-Visto, Il Guardasigilli: F. Cocco-Ortu.   
-  
+L'articolo 1° del [regio decreto 4 marzo 1900, n. 111](Che%20stabilisce%20le%20condizioni%20dammissibilita%20ai%20posti%20di%20Addetto%20presso%20le%20Ambasciate%20e%20Legazioni.%20000U0111.md), e' modificato come segue: 
+ 
+ Art. 1. Presso le Nostre ambasciate e legazioni potranno essere destinati addetti a titolo onorario. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 giugno 1902. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Zanardelli. 
+ Prinetti. 
+ 
+ Visto, Il Guardasigilli: F. Cocco-Ortu.

@@ -1,16 +1,14 @@
-REGIO DECRETO 20 giugno 1877 n. 3906
-
-
-REGIO DECRETO 20 giugno 1877 n. 3906
-====================================
-
-Che separa il comune di Poggio Marino dalla sezione elettorale di Bosco Trecase e lo costituisce in sezione distinta del collegio di Torre Annunziata. (077U3906)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/07/1877
+---
+tipo: REGIO DECRETO
+numero: 3906
+data: 1877-06-20
+titolo: "Che separa il comune di Poggio Marino dalla sezione elettorale di Bosco Trecase e lo costituisce in sezione distinta del collegio di Torre Annunziata. (077U3906)"
+urn: urn:nir:stato:regio.decreto:1877-06-20;3906
+codice_redazionale: 077U3906
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del ministro segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
 
-proposta del ministro segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Poggio Marino e' separato dalla sezione elettorale di Bosco Trecase, e formera' una sezione distinta del collegio elettorale di Torre Annunziata.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Pollenzo addi' 20 giugno 1877.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 3 luglio 1877   
-  
-Reg. 91 Atti del Governo a f. 45. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Mancini.   
-  
-G. Nicotera.   
-  
+Il comune di Poggio Marino e' separato dalla sezione elettorale di Bosco Trecase, e formera' una sezione distinta del collegio elettorale di Torre Annunziata. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Pollenzo addi' 20 giugno 1877. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 3 luglio 1877 
+ 
+ Reg. 91 Atti del Governo a f. 45. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Mancini. 
+ 
+ G. Nicotera.

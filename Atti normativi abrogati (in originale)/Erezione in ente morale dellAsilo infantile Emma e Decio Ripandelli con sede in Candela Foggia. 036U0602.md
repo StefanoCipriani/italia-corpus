@@ -1,21 +1,21 @@
-REGIO DECRETO 09 marzo 1936 n. 602
+---
+tipo: REGIO DECRETO
+numero: 602
+data: 1936-03-09
+titolo: "Erezione in ente morale dell'Asilo infantile «Emma e Decio Ripandelli» con sede in Candela (Foggia). (036U0602)"
+urn: urn:nir:stato:regio.decreto:1936-03-09;602
+codice_redazionale: 036U0602
+vigente: true
+---
 
-
-REGIO DECRETO 09 marzo 1936 n. 602
-==================================
-
-Erezione in ente morale dell'Asilo infantile «Emma e Decio Ripandelli» con sede in Candela (Foggia). (036U0602)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/05/1936
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-602. R. decreto 9 marzo 1936, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, l'Asilo infantile «Emma e Decio Ripandelli» con sede in Candela (Foggia) viene eretto in ente morale.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 11 aprile 1936 - Anno XIV.
+602.
+
+R. decreto 9 marzo 1936, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, l'Asilo infantile «Emma e Decio Ripandelli» con sede in Candela (Foggia) viene eretto in ente morale. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 11 aprile 1936 - Anno XIV.

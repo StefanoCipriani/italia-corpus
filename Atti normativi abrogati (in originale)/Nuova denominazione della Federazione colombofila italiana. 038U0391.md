@@ -1,16 +1,14 @@
-REGIO DECRETO 14 marzo 1938 n. 391
-
-
-REGIO DECRETO 14 marzo 1938 n. 391
-==================================
-
-Nuova denominazione della «Federazione colombofila italiana». (038U0391)
-------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/05/1938
+---
+tipo: REGIO DECRETO
+numero: 391
+data: 1938-03-14
+titolo: "Nuova denominazione della «Federazione colombofila italiana». (038U0391)"
+urn: urn:nir:stato:regio.decreto:1938-03-14;391
+codice_redazionale: 038U0391
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,27 +24,21 @@ Visto il R. decreto 30 dicembre 1929-VIII, n. 2290 che approva il regolamento pe
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Capo del Governo Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Federazione colombofila italiana muta il nome in quello di «Federazione colombieri d'Italia».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 marzo 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI   
-  
-Visto, il Guardasigilli:Solmi.   
-  
-Registrato alla Corte dei conti, addi', 26 aprile 1938 - Anno XVI   
-Atti del Governo, registro 396, foglio 122 - MANCINI.   
+La Federazione colombofila italiana muta il nome in quello di «Federazione colombieri d'Italia». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 marzo 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI 
+ 
+ Visto, il Guardasigilli:Solmi. 
+ 
+ Registrato alla Corte dei conti, addi', 26 aprile 1938 - Anno XVI  
+ Atti del Governo, registro 396, foglio 122 - MANCINI.

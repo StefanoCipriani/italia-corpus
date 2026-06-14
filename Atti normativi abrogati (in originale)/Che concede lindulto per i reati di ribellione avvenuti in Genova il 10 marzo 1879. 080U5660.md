@@ -1,16 +1,14 @@
-REGIO DECRETO 09 ottobre 1880 n. 5660
-
-
-REGIO DECRETO 09 ottobre 1880 n. 5660
-=====================================
-
-Che concede l'indulto per i reati di ribellione avvenuti in Genova il 10 marzo 1879. (080U5660)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/10/1880
+---
+tipo: REGIO DECRETO
+numero: 5660
+data: 1880-10-09
+titolo: "Che concede l'indulto per i reati di ribellione avvenuti in Genova il 10 marzo 1879. (080U5660)"
+urn: urn:nir:stato:regio.decreto:1880-10-09;5660
+codice_redazionale: 080U5660
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA'DELLA NAZIONE
 
@@ -20,26 +18,19 @@ Veduto l'articolo 8 dello Statuto Costituzionale del Regno;
 
 Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti,
 
-Sentito
--------
+Sentito il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le pene inflitte, per i reati di ribellione che ebbero luogo in Genova il 10 maggio 1879, in occasione della commemorazione per l'anniversario della morte di Giuseppe Mazzini, sono pienamente estinte.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 9 ottobre 1880.   
-  
-UMBERTO.   
-  
-T. Villa.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Le pene inflitte, per i reati di ribellione che ebbero luogo in Genova il 10 maggio 1879, in occasione della commemorazione per l'anniversario della morte di Giuseppe Mazzini, sono pienamente estinte. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 9 ottobre 1880. 
+ 
+ UMBERTO. 
+ 
+ T. Villa. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

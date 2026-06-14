@@ -1,16 +1,14 @@
-REGIO DECRETO 22 gennaio 1863 n. 1130
-
-
-REGIO DECRETO 22 gennaio 1863 n. 1130
-=====================================
-
-Che istituisce un Consolato nella citta' di Rotterdam (Paesi Bassi). (063U1130)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/02/1863
+---
+tipo: REGIO DECRETO
+numero: 1130
+data: 1863-01-22
+titolo: "Che istituisce un Consolato nella citta' di Rotterdam (Paesi Bassi). (063U1130)"
+urn: urn:nir:stato:regio.decreto:1863-01-22;1130
+codice_redazionale: 063U1130
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,27 +18,20 @@ Visto l'art. 3 della legge consolare del 15 agosto 1858, e gli articoli 4 e 2 de
 
 Vista la tabella A annessa al succitato regolamento;
 
-Sulla
------
+Sulla proposizione del Nostro Ministro per gli Affari Esteri; Abbiamo decretato e decretiamo quanto segue:
 
-proposizione del Nostro Ministro per gli Affari Esteri; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' instituito un Nostro Consolato nella citta' di Rotterdam (Paesi Bassi) con giurisdizione nelle Provincie d'Olanda Meridionale, Zelanda, Brabante Settentrionale e nel Ducato di Limbuirg, che vengono percio' staccate dal Distretto Consolare di Amsterdam.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato in Torino addi' 22 gennaio 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 2 febbraio 1863   
-  
-Reg.° 22 Atti del Governo a c. 53. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-G. Pasolini.   
-  
+E' instituito un Nostro Consolato nella citta' di Rotterdam (Paesi Bassi) con giurisdizione nelle Provincie d'Olanda Meridionale, Zelanda, Brabante Settentrionale e nel Ducato di Limbuirg, che vengono percio' staccate dal Distretto Consolare di Amsterdam. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato in Torino addi' 22 gennaio 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 2 febbraio 1863 
+ 
+ Reg.° 22 Atti del Governo a c. 53. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ G. Pasolini.

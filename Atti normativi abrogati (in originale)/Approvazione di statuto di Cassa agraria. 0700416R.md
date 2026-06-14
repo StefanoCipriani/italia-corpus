@@ -1,19 +1,15 @@
-REGIO DECRETO 26 settembre 1907 n. CCCCXVI
+---
+tipo: REGIO DECRETO
+numero: CCCCXVI
+data: 1907-09-26
+titolo: "Approvazione di statuto di Cassa agraria. (0700416R)"
+urn: urn:nir:stato:regio.decreto:1907-09-26;416
+codice_redazionale: 0700416R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 settembre 1907 n. CCCCXVI
-==========================================
-
-Approvazione di statuto di Cassa agraria. (0700416R)
-----------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/11/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CCCCXVI (Dato a Racconigi, il 26 settembre 1907), col quale si approva lo statuto della Cassa agraria di Tramutola.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CCCCXVI (Dato a Racconigi, il 26 settembre 1907), col quale si approva lo statuto della Cassa agraria di Tramutola.

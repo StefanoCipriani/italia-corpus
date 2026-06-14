@@ -1,16 +1,14 @@
-REGIO DECRETO 26 settembre 1912 n. 1150
-
-
-REGIO DECRETO 26 settembre 1912 n. 1150
-=======================================
-
-Col quale si provvede alla emissione di speciali francobolli per la Libia e per le isole dell'Egeo. (012U1150)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/11/1912
+---
+tipo: REGIO DECRETO
+numero: 1150
+data: 1912-09-26
+titolo: "Col quale si provvede alla emissione di speciali francobolli per la Libia e per le isole dell'Egeo. (012U1150)"
+urn: urn:nir:stato:regio.decreto:1912-09-26;1150
+codice_redazionale: 012U1150
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -18,80 +16,92 @@ RE D'ITALIA
 
 Visto l'art. 137 del regolamento generale intorno al servizio postale, approvato col R. decreto dei 10 febbraio del 1901, n. 120;
 
-Vista la tabella di ragguaglio delle tasse, inserita all'art. IV del regolamento di esecuzione della convenzione principale di Roma, approvato con [legge n. 579 del 19 luglio 1907](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-19;579);
+Vista la tabella di ragguaglio delle tasse, inserita all'art. IV del regolamento di esecuzione della convenzione principale di Roma, approvato con [legge n. 579 del 19 luglio 1907](Relativa%20agli%20accordi%20postali%20internazionali%20firmati%20in%20Roma%20il%2026%20maggio%201906.%20007U0579.md);
 
 Tenuto conto delle condizioni monetarie esistenti nelle isole dell'Egeo occupate dalle forze militari italiane;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per le poste e per i telegrafi; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per le poste e per i telegrafi; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvata la emissione di speciali francobolli da servire esclusivamente per gli uffici postali in Libia e nell'Egeo.
 
-  
-  
-E' approvata la emissione di speciali francobolli da servire esclusivamente per gli uffici postali in Libia e nell'Egeo.   
-  
+## Art. 2.
 
-Art. 2
-------
+I francobolli sono identici a quelli in uso nell'interno del Regno, con le soprastampe di cui nel seguente articolo, eseguite ad opera dell'Officina governativa delle carte valori di Torino.
 
-  
-  
-I francobolli sono identici a quelli in uso nell'interno del Regno, con le soprastampe di cui nel seguente articolo, eseguite ad opera dell'Officina governativa delle carte valori di Torino.   
-  
-
-Art. 3
-------
+## Art. 3.
 
 I francobolli sono delle seguenti specie: da centesimi 2, 5, 10, 15, 25, 40 e 50, e sui medesimi verranno fatte le seguenti soprastampe:
 
-1. Libia.
+1.
 
-2. Rodi.
+Libia.
 
-3. Simi.
+2.
 
-4. Cos.
+Rodi.
 
-5. Stampalla.
+3.
 
-6. Calimno.
+Simi.
 
-7. Caso.
+4.
 
-8. Lipso.
+Cos.
 
-9. Patmos.
+5.
 
-10. Piscopi.
+Stampalla.
 
-11. Nisiros.
+6.
 
-12. Scarpanto.
+Calimno.
 
-13. Leros.
+7.
 
-14. Karki.
+Caso.
 
-Art. 4
-------
+8.
 
-  
-  
-Gli uffici postali dell'Egeo cui i francobolli saranno dati in carico al valore nominale li venderanno allo stesso prezzo, fatta eccezione per quelli da cent. 25, 40 e 50 che saranno venduti rispettivamente al prezzo di cent. 20, 35 e 40.   
-  
-La differenza in meno sara' rimborsata ai singoli uffici che li avranno esitati e fara' carico al bilancio passivo del Ministero delle poste e dei telegrafi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 26 settembre 1912.   
-  
-VITTORIO EMANUELE.   
-  
-Calissano.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+Lipso.
+
+9.
+
+Patmos.
+
+10.
+
+Piscopi.
+
+11.
+
+Nisiros.
+
+12.
+
+Scarpanto.
+
+13.
+
+Leros.
+
+14.
+
+Karki.
+
+## Art. 4.
+
+Gli uffici postali dell'Egeo cui i francobolli saranno dati in carico al valore nominale li venderanno allo stesso prezzo, fatta eccezione per quelli da cent. 25, 40 e 50 che saranno venduti rispettivamente al prezzo di cent. 20, 35 e 40. 
+ 
+ La differenza in meno sara' rimborsata ai singoli uffici che li avranno esitati e fara' carico al bilancio passivo del Ministero delle poste e dei telegrafi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 26 settembre 1912. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Calissano. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

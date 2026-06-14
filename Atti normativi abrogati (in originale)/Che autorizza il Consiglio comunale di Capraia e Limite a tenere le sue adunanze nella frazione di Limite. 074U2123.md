@@ -1,16 +1,14 @@
-REGIO DECRETO 23 settembre 1874 n. 2123
-
-
-REGIO DECRETO 23 settembre 1874 n. 2123
-=======================================
-
-Che autorizza il Consiglio comunale di Capraia e Limite a tenere le sue adunanze nella frazione di Limite. (074U2123)
----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/11/1874
+---
+tipo: REGIO DECRETO
+numero: 2123
+data: 1874-09-23
+titolo: "Che autorizza il Consiglio comunale di Capraia e Limite a tenere le sue adunanze nella frazione di Limite. (074U2123)"
+urn: urn:nir:stato:regio.decreto:1874-09-23;2123
+codice_redazionale: 074U2123
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,24 +20,16 @@ Veduta la deliberazione del Consiglio comunale di Capraja e Limite in data del 5
 
 Veduta la deliberazione del Consiglio provinciale di Firenze del 27 agosto p. p.;
 
-Vista
------
+Vista la Legge 20 marzo 1865, allegato A, Abbiamo decretato e decretiamo:
 
-la Legge 20 marzo 1865, allegato A, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' autorizzato il Consiglio comunale di Capraja e Limite a tenere le sue adunanze nella frazione di Limite.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sommariva Perno, addi' 23 settembre 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
-  
+E' autorizzato il Consiglio comunale di Capraja e Limite a tenere le sue adunanze nella frazione di Limite. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sommariva Perno, addi' 23 settembre 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

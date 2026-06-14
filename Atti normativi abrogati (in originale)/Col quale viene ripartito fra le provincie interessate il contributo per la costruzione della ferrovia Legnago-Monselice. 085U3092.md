@@ -1,16 +1,14 @@
-REGIO DECRETO 02 aprile 1885 n. 3092
-
-
-REGIO DECRETO 02 aprile 1885 n. 3092
-====================================
-
-Col quale viene ripartito fra le provincie interessate il contributo per la costruzione della ferrovia Legnago-Monselice. (085U3092)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/06/1885
+---
+tipo: REGIO DECRETO
+numero: 3092
+data: 1885-04-02
+titolo: "Col quale viene ripartito fra le provincie interessate il contributo per la costruzione della ferrovia Legnago-Monselice. (085U3092)"
+urn: urn:nir:stato:regio.decreto:1885-04-02;3092
+codice_redazionale: 085U3092
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -32,34 +30,28 @@ Ritenuto che non sussiste nemmeno l'errore di applicazione eccepito dalla provin
 
 Ritenuto, quanto alla riduzione di quota chiesta dalla provincia di Verona, che tale domanda non ha verun fondamento, ne' puo' essere accolta, come non puo' ammettersi la condizione dalla provincia stessa posta innanzi per l'accettazione della sua quota subordinatamente al collocamento da essa voluto della stazione di Legnago ed alla creazione di una stazione a Minerbe, domande che potrebbero essere esaminate in altra sede;
 
-Veduti gli [articoli 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-07-29;5002~art6) e [7 della legge 29 luglio 1879, numero 5002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-07-29;5002~art7) (Serie 2ª), e le disposizioni degli articoli 46 e seguenti della legge 20 marzo 1665 sui lavori pubblici;
+Veduti gli [articoli 6](Che%20autorizza%20la%20costruzione%20di%20linee%20ferroviarie%20di%20complemento.%20079U5002.md) e [7 della legge 29 luglio 1879, numero 5002](Che%20autorizza%20la%20costruzione%20di%20linee%20ferroviarie%20di%20complemento.%20079U5002.md) (Serie 2ª), e le disposizioni degli articoli 46 e seguenti della legge 20 marzo 1665 sui lavori pubblici;
 
 Avuto il parere del Consiglio superiore dei lavori pubblici e del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il contributo stabilito dalla [legge 29 luglio 1879, n. 5002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-07-29;5002) (Serie 2ª), per la costruzione della ferrovia Legnago-Monselice sara' ripartito fra le provincie interessate nella seguente proporzione:   
-  
-Millesimi 833 a carico della provincia di Padova.   
-  
-» 167 a carico della provincia di Verona,   
-  
-Totale 1000   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 aprile 1885.   
-  
-UMBERTO.   
-  
-Genala.   
-  
-Visto, Il Guardasigilli: Pessina.   
+Il contributo stabilito dalla [legge 29 luglio 1879, n. 5002](Che%20autorizza%20la%20costruzione%20di%20linee%20ferroviarie%20di%20complemento.%20079U5002.md) (Serie 2ª), per la costruzione della ferrovia Legnago-Monselice sara' ripartito fra le provincie interessate nella seguente proporzione: 
+ 
+ Millesimi 833 a carico della provincia di Padova. 
+ 
+ » 167 a carico della provincia di Verona, 
+ 
+ Totale 1000 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 aprile 1885. 
+ 
+ UMBERTO. 
+ 
+ Genala. 
+ 
+ Visto, Il Guardasigilli: Pessina.

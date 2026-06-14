@@ -1,19 +1,15 @@
-REGIO DECRETO 28 maggio 1914 n. 550
+---
+tipo: REGIO DECRETO
+numero: 550
+data: 1914-05-28
+titolo: "Che modifica i ruoli organici delle RR. scuole tecniche per l'anno scolastico 1913-914. (014U0550)"
+urn: urn:nir:stato:regio.decreto:1914-05-28;550
+codice_redazionale: 014U0550
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 maggio 1914 n. 550
-===================================
-
-Che modifica i ruoli organici delle RR. scuole tecniche per l'anno scolastico 1913-914. (014U0550)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/07/1914
-
-Art. 1
-------
-
-  
-N. 550   
-  
-Regio Decreto 28 maggio 1914, col quale, sulla proposta del ministro dell'istruzione pubblica, di concerto col ministro del tesoro, i ruoli organici delle Regie scuole tecniche per l'anno scolastico 1913-914, sono modificati in conseguenza del trasferimento del prof. Giovanni Pasini da Montepulciano a Lentini a decorrere dal 10 novembre 1913.   
-  
+N. 550 
+ 
+ Regio Decreto 28 maggio 1914, col quale, sulla proposta del ministro dell'istruzione pubblica, di concerto col ministro del tesoro, i ruoli organici delle Regie scuole tecniche per l'anno scolastico 1913-914, sono modificati in conseguenza del trasferimento del prof. Giovanni Pasini da Montepulciano a Lentini a decorrere dal 10 novembre 1913.

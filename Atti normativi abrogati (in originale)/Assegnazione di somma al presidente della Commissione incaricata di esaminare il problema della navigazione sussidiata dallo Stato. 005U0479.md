@@ -1,16 +1,14 @@
-REGIO DECRETO 30 luglio 1905 n. 479
-
-
-REGIO DECRETO 30 luglio 1905 n. 479
-===================================
-
-Assegnazione di somma al presidente della Commissione incaricata di esaminare il problema della navigazione sussidiata dallo Stato. (005U0479)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/10/1905
+---
+tipo: REGIO DECRETO
+numero: 479
+data: 1905-07-30
+titolo: "Assegnazione di somma al presidente della Commissione incaricata di esaminare il problema della navigazione sussidiata dallo Stato. (005U0479)"
+urn: urn:nir:stato:regio.decreto:1905-07-30;479
+codice_redazionale: 005U0479
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,28 +18,21 @@ Visti i Nostri decreti del 13 settembre 1902, n. 470, del 21 giugno 1903, n. 372
 
 Considerato che e' stato prorogato al 31 dicembre 1905 il termine pel compimento del mandato affidato alla Commissione incaricata di esaminare il problema della navigazione sussidiata dallo Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per le poste ed i telegrafi, di concerto con quelli di agricoltura, industria e commercio, del tesoro e della marina; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per le poste ed i telegrafi, di concerto con quelli di agricoltura, industria e commercio, del tesoro e della marina; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' messa a disposizione del presidente della Commissione incaricata di esaminare il problema della navigazione sussidiata dallo Stato la somma di lire ventimila, stanziata sul capitolo 81 «Spese per la Commissione Reale pei servizi marittimi», del bilancio passivo del Ministero delle poste e dei telegrafi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 30 luglio 1905.   
-  
-VITTORIO EMANUELE.   
-  
-Morelli-Gualtierotti.   
-Rava.   
-Carcano.   
-C. Mirabello.   
-  
-Visto, Il guardasigilli: C. Finocchiaro-Aprile.   
-  
+E' messa a disposizione del presidente della Commissione incaricata di esaminare il problema della navigazione sussidiata dallo Stato la somma di lire ventimila, stanziata sul capitolo 81 «Spese per la Commissione Reale pei servizi marittimi», del bilancio passivo del Ministero delle poste e dei telegrafi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 30 luglio 1905. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Morelli-Gualtierotti. 
+ Rava. 
+ Carcano. 
+ C. Mirabello. 
+ 
+ Visto, Il guardasigilli: C. Finocchiaro-Aprile.

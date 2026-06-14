@@ -1,16 +1,14 @@
-REGIO DECRETO 20 marzo 1892 n. 222
-
-
-REGIO DECRETO 20 marzo 1892 n. 222
-==================================
-
-Sulla conversione dell'Archivio provinciale di Reggio Emilia in Archivio di Stato. (092U0222)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1892
+---
+tipo: REGIO DECRETO
+numero: 222
+data: 1892-03-20
+titolo: "Sulla conversione dell'Archivio provinciale di Reggio Emilia in Archivio di Stato. (092U0222)"
+urn: urn:nir:stato:regio.decreto:1892-03-20;222
+codice_redazionale: 092U0222
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -32,52 +30,34 @@ Considerato che, con siffatte deliberazioni, i predetti enti chiedono che l'Arch
 
 Udito il Consiglio per gli Archivi;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari interni; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari interni; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'Archivio generale esistente in Reggio d'Emilia e' eretto in Archivio di Stato, a decorrere dal 1° luglio p. v. 
+ 
+ Il personale, che ora vi e' addetto, fara' parte di quello dell'Amministrazione degli Archivi, e sara' classificato secondo il giudizio del Consiglio preposto a tali Istituti.
 
-  
-  
-L'Archivio generale esistente in Reggio d'Emilia e' eretto in Archivio di Stato, a decorrere dal 1° luglio p. v.   
-  
-Il personale, che ora vi e' addetto, fara' parte di quello dell'Amministrazione degli Archivi, e sara' classificato secondo il giudizio del Consiglio preposto a tali Istituti.   
-  
+## Art. 2.
 
-Art. 2
-------
+L'Archivio medesimo avra' il possesso della suppellettile e del materiale di arredamento e di servizio che ora contiene, e conservera' l'uso dei locali che occupa di presente. 
+ 
+ Oltreccio' il comune di Reggio, in rappresentanza di tutti gli enti anzi mentovati, rimborsera' all'erario dello Stato la spesa necessaria per detto Archivio, mediante il complessivo contributo annuo predetto di lire 6000, in due rate semestrali uguali, cominciando dal 1° luglio 1892 salvo ad esso comune la rivalsa delle quote, come sopra assunte dagli altri enti.
 
-  
-  
-L'Archivio medesimo avra' il possesso della suppellettile e del materiale di arredamento e di servizio che ora contiene, e conservera' l'uso dei locali che occupa di presente.   
-  
-Oltreccio' il comune di Reggio, in rappresentanza di tutti gli enti anzi mentovati, rimborsera' all'erario dello Stato la spesa necessaria per detto Archivio, mediante il complessivo contributo annuo predetto di lire 6000, in due rate semestrali uguali, cominciando dal 1° luglio 1892 salvo ad esso comune la rivalsa delle quote, come sopra assunte dagli altri enti.   
+## Art. 3.
 
-Art. 3
-------
+Ciascuno dei detti enti conserva la proprieta' delle sue carte, e rispetto alle carte medesime godra' delle esenzioni delle tasse stabilita dall'[art. 72 del R. decreto 27 maggio 1875 n. 2552](Che%20stabilisce%20le%20regole%20per%20lordinamento%20generale%20degli%20archivi%20di%20Stato.%20075U2552.md).
 
-  
-  
-Ciascuno dei detti enti conserva la proprieta' delle sue carte, e rispetto alle carte medesime godra' delle esenzioni delle tasse stabilita dall'[art. 72 del R. decreto 27 maggio 1875 n. 2552](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-05-27;2552~art72).   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Il contributo pecuniario e l'uso dei locali a favore dello Stato, di cui all'art. 2, sono obbligatori per le Amministrazioni degli enti predetti, sino a che non ne vengano esonerati per disposizione di una legge generale sugli Archivi nazionali.   
-  
-Ordiniamo che il presente secreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 20 marzo 1892.   
-  
-UMBERTO.   
-  
-G. NICOTERA   
-  
-Visto, il Guardasigilli: B. CHIMIRRI.   
-  
+Il contributo pecuniario e l'uso dei locali a favore dello Stato, di cui all'art. 2, sono obbligatori per le Amministrazioni degli enti predetti, sino a che non ne vengano esonerati per disposizione di una legge generale sugli Archivi nazionali. 
+ 
+ Ordiniamo che il presente secreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 20 marzo 1892. 
+ 
+ UMBERTO. 
+ 
+ G. NICOTERA 
+ 
+ Visto, il Guardasigilli: B. CHIMIRRI.

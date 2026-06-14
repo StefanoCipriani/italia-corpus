@@ -1,16 +1,14 @@
-REGIO DECRETO 27 luglio 1862 n. 742
-
-
-REGIO DECRETO 27 luglio 1862 n. 742
-===================================
-
-Col quale e' ristabilita nella citta' di Torino una Direzione per l'amministrazione del Lotto delle antiche Provincie del Regno. (062U0742)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/09/1862
+---
+tipo: REGIO DECRETO
+numero: 742
+data: 1862-07-27
+titolo: "Col quale e' ristabilita nella citta' di Torino una Direzione per l'amministrazione del Lotto delle antiche Provincie del Regno. (062U0742)"
+urn: urn:nir:stato:regio.decreto:1862-07-27;742
+codice_redazionale: 062U0742
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,55 +24,32 @@ Volendo provvedere ad una piu' regolare amministrazione centrale de' Regi Lotti 
 
 Sulla proposizione del Ministro delle Finanze;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo ordinato ed ordiniamo quanto segue:
 
-il Consiglio dei Ministri; Abbiamo ordinato ed ordiniamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+E' ristabilita nella citta' di Torino una Direzione per l'amministrazione del Lotto delle antiche Provincie del Regno colla pianta di Personale stabilita nella tabella annessa al presente Decreto vista d'ordine Nostro dal Ministro delle Finanze.
 
-  
-  
-E' ristabilita nella citta' di Torino una Direzione per l'amministrazione del Lotto delle antiche Provincie del Regno colla pianta di Personale stabilita nella tabella annessa al presente Decreto vista d'ordine Nostro dal Ministro delle Finanze.   
-  
+## Art. 2.
 
-Art. 2
-------
+La Direzione e' posta sotto la immediata dipendenza del Ministero delle Finanze. Essa avra' le attribuzioni e si governera' colle norme e coi regolamenti gia' stabiliti per la soppressa Direzione del Lotto delle antiche Provincie in tutto cio' a cui non sia stato derogato con posteriori disposizioni.
 
-  
-  
-La Direzione e' posta sotto la immediata dipendenza del Ministero delle Finanze. Essa avra' le attribuzioni e si governera' colle norme e coi regolamenti gia' stabiliti per la soppressa Direzione del Lotto delle antiche Provincie in tutto cio' a cui non sia stato derogato con posteriori disposizioni.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-La Direzione imprendera' le sue funzioni a partire dal 1.° agosto del corrente anno.   
-  
-Da tale epoca gli Uffizi contabili e d'ispezione del Lotto delle antiche Provincie dipenderanno direttamente dalla medesima in ogni parte delle loro incumbenze.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 27 luglio 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 1.° agosto 1862.   
-  
-Reg.° 20 Atti del Governo a c. 165. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
-  
-Quintino Sella.   
-  
-
-Tabella
-
-  
-PIANTA numerica del Personale per la Direzione del Lotto delle antiche Provincie.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U074200100010110001&dgu=1862-08-22&art.dataPubblicazioneGazzetta=1862-08-22&art.codiceRedazionale=062U0742)
-  
+La Direzione imprendera' le sue funzioni a partire dal 1.° agosto del corrente anno. 
+ 
+ Da tale epoca gli Uffizi contabili e d'ispezione del Lotto delle antiche Provincie dipenderanno direttamente dalla medesima in ogni parte delle loro incumbenze. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 27 luglio 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 1.° agosto 1862. 
+ 
+ Reg.° 20 Atti del Governo a c. 165. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ Quintino Sella.

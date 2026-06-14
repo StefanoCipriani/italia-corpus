@@ -1,19 +1,15 @@
-REGIO DECRETO 19 gennaio 1905 n. XV
+---
+tipo: REGIO DECRETO
+numero: XV
+data: 1905-01-19
+titolo: "Erezione in ente morale. (0500015R)"
+urn: urn:nir:stato:regio.decreto:1905-01-19;15
+codice_redazionale: 0500015R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 gennaio 1905 n. XV
-===================================
-
-Erezione in ente morale. (0500015R)
------------------------------------
-
-Entrata in vigore del provvedimento: 11/03/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. XV (Dato a Roma, il 19 gennaio 1905), col quale il lascito dotalizio Lodini viene eretto in ente morale e concentrato nella Congregazione di carita' di Samarate (Milano).   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. XV (Dato a Roma, il 19 gennaio 1905), col quale il lascito dotalizio Lodini viene eretto in ente morale e concentrato nella Congregazione di carita' di Samarate (Milano).

@@ -1,21 +1,21 @@
-REGIO DECRETO 09 luglio 1926 n. 1335
+---
+tipo: REGIO DECRETO
+numero: 1335
+data: 1926-07-09
+titolo: "Approvazione dello statuto della Cassa di soccorso per il personale della Tranvia Mantova-Asola e Mantova-Viadana. (026U1335)"
+urn: urn:nir:stato:regio.decreto:1926-07-09;1335
+codice_redazionale: 026U1335
+vigente: true
+---
 
-
-REGIO DECRETO 09 luglio 1926 n. 1335
-====================================
-
-Approvazione dello statuto della Cassa di soccorso per il personale della Tranvia Mantova-Asola e Mantova-Viadana. (026U1335)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/08/1926
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1335. R. decreto 9 luglio 1926, col quale, sulla proposta del Ministro per l'economia nazionale, viene approvato lo statuto della Cassa di soccorso a favore del personale addetto al servizio della Tranvia Mantova-Asola e Mantova-Viadana.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 9 agosto 1926.
+1335.
+
+R. decreto 9 luglio 1926, col quale, sulla proposta del Ministro per l'economia nazionale, viene approvato lo statuto della Cassa di soccorso a favore del personale addetto al servizio della Tranvia Mantova-Asola e Mantova-Viadana. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 9 agosto 1926.

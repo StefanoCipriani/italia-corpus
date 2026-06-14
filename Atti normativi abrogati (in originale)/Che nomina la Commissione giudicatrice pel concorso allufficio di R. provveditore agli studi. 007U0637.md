@@ -1,16 +1,14 @@
-REGIO DECRETO 23 agosto 1907 n. 637
-
-
-REGIO DECRETO 23 agosto 1907 n. 637
-===================================
-
-Che nomina la Commissione giudicatrice pel concorso all'ufficio di R. provveditore agli studi. (007U0637)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/10/1907
+---
+tipo: REGIO DECRETO
+numero: 637
+data: 1907-08-23
+titolo: "Che nomina la Commissione giudicatrice pel concorso all'ufficio di R. provveditore agli studi. (007U0637)"
+urn: urn:nir:stato:regio.decreto:1907-08-23;637
+codice_redazionale: 007U0637
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,19 @@ Ritenuta la convenienza di provvedere con nuove disposizioni alla composizione d
 
 Udito il Consiglio di Stato, ed il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Del concorso all'ufficio di R. provveditore agli studi giudica una Commissione composta di un consigliere di Stato, presidente; di un professore di Universita', membro del Consiglio superiore di pubblica istruzione; del direttore capo della divisione del Ministero dalla quale dipendono i RR. provveditori agli studi; di un R. provveditore agli studi; di un capo di Istituto d'istruzione media.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, li 23 agosto 1907.   
-  
-VITTORIO EMANUELE;   
-  
-Giolitti.   
-Rava.   
-  
-Visto, Il guardasigilli Orlando.   
+Del concorso all'ufficio di R. provveditore agli studi giudica una Commissione composta di un consigliere di Stato, presidente; di un professore di Universita', membro del Consiglio superiore di pubblica istruzione; del direttore capo della divisione del Ministero dalla quale dipendono i RR. provveditori agli studi; di un R. provveditore agli studi; di un capo di Istituto d'istruzione media. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, li 23 agosto 1907. 
+ 
+ VITTORIO EMANUELE; 
+ 
+ Giolitti. 
+ Rava. 
+ 
+ Visto, Il guardasigilli Orlando.

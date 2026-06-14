@@ -1,16 +1,14 @@
-REGIO DECRETO 24 aprile 1870 n. 5631
-
-
-REGIO DECRETO 24 aprile 1870 n. 5631
-====================================
-
-Il Prefetto di Benevento e' delegato per lo scioglimento della promiscuita' demaniale esistente sopra una parte della montagna denominata Piana Maggiore, in contrada Chiaisto, fra alcuni Comuni. (070U5631)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/05/1870
+---
+tipo: REGIO DECRETO
+numero: 5631
+data: 1870-04-24
+titolo: "Il Prefetto di Benevento e' delegato per lo scioglimento della promiscuita' demaniale esistente sopra una parte della montagna denominata Piana Maggiore, in contrada Chiaisto, fra alcuni Comuni. (070U5631)"
+urn: urn:nir:stato:regio.decreto:1870-04-24;5631
+codice_redazionale: 070U5631
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Considerando esser necessario che si proceda allo scioglimento della promiscuita
 
 Considerando che dei Prefetti delle Provincie succennate, quello di Benevento e' interessato per tre Comuni e gli altri per un solo Comune;
 
-Sulla
------
+Sulla proposizione del Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio; Abbiamo decretato e decretiamo.
 
-proposizione del Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio; Abbiamo decretato e decretiamo.
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Prefetto della Provincia di Benevento e' delegato per lo scioglimento della promiscuita' demaniale esistente sopra una parte della montagna denominata Piana Maggiore, in contrada Chiaisto, fra i Comuni di Arpaia, Forchia e Paolisi in Benevento, Rotondi in Principato Ulteriore e Roccarainola in Terra di Lavoro.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 24 aprile 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 6 maggio 1870   
-  
-Reg. 51 Atti del Governo a c. 43. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-Castagnola.   
-  
+Il Prefetto della Provincia di Benevento e' delegato per lo scioglimento della promiscuita' demaniale esistente sopra una parte della montagna denominata Piana Maggiore, in contrada Chiaisto, fra i Comuni di Arpaia, Forchia e Paolisi in Benevento, Rotondi in Principato Ulteriore e Roccarainola in Terra di Lavoro. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 24 aprile 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 6 maggio 1870 
+ 
+ Reg. 51 Atti del Governo a c. 43. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ Castagnola.

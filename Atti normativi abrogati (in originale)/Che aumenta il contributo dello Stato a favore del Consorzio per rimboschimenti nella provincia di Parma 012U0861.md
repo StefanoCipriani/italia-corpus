@@ -1,22 +1,20 @@
-REGIO DECRETO 18 luglio 1912 n. 861
-
-
-REGIO DECRETO 18 luglio 1912 n. 861
-===================================
-
-Che aumenta il contributo dello Stato a favore del Consorzio per rimboschimenti nella provincia di Parma (012U0861)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/08/1912
+---
+tipo: REGIO DECRETO
+numero: 861
+data: 1912-07-18
+titolo: "Che aumenta il contributo dello Stato a favore del Consorzio per rimboschimenti nella provincia di Parma (012U0861)"
+urn: urn:nir:stato:regio.decreto:1912-07-18;861
+codice_redazionale: 012U0861
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto in data 16 agosto 1906, n. 529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-08-16;529), col quale fu costituito il Consorzio fra lo Stato e la provincia di Parma, per procedere, a termini dell'articolo 11 della legge forestale 20 giugno 1877, n. 3917, (serie 2ª) alla sistemazione forestale dei bacini montani di quella provincia;
+Visto il [R. decreto in data 16 agosto 1906, n. 529](Incarico%20al%20Comitato%20forestale%20della%20provincia%20di%20Parma%20di%20promuovere%20rimboscamenti%20e%20consolidamenti%20di%20terreni%20montani.%20006U0529.md), col quale fu costituito il Consorzio fra lo Stato e la provincia di Parma, per procedere, a termini dell'articolo 11 della legge forestale 20 giugno 1877, n. 3917, (serie 2ª) alla sistemazione forestale dei bacini montani di quella provincia;
 
 Visto che col detto R. decreto fu stabilito che la quota del concorso governativo non doveva superare la meta' delle spese fino alla concorrenza di L. 5000, restando l'altra meta' a carico della Provincia;
 
@@ -28,22 +26,18 @@ Visti gli articoli 5 e 11 della legge forestale 20 giugno 1877, n. 3917 (serie 2
 
 Su proposta del Nostro ministro per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo:
 
-Articolo unico
---------------
+## Articolo unico.
 
-  
-  
-Il contributo annuo del Governo pei lavori di sistemazione forestale da eseguirsi nella provincia di Parma, a cura di quel Comitato forestale, determinato dal [R. decreto 16 agosto 1906, n. 529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-08-16;529), in L. 5000, e' aumentato, a decorrere dall'esercizio finanziario 1912-913 a L. 7500 corrispondente alla quota di eguale contributo stabilita dalla Provincia consorziata.   
-  
-Questa somma di L. 7500 sara' prelevata dal fondo stanziato all'art. 2 del bilancio passivo dell'azienda del Demanio forestale di Stato, per l'esercizio finanziario 1912-913, e agli articoli corrispondenti dei bilanci per gli esercizi successivi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 18 luglio 1912.   
-  
-VITTORIO EMANUELE.   
-  
-Nitti.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+Il contributo annuo del Governo pei lavori di sistemazione forestale da eseguirsi nella provincia di Parma, a cura di quel Comitato forestale, determinato dal [R. decreto 16 agosto 1906, n. 529](Incarico%20al%20Comitato%20forestale%20della%20provincia%20di%20Parma%20di%20promuovere%20rimboscamenti%20e%20consolidamenti%20di%20terreni%20montani.%20006U0529.md), in L. 5000, e' aumentato, a decorrere dall'esercizio finanziario 1912-913 a L. 7500 corrispondente alla quota di eguale contributo stabilita dalla Provincia consorziata. 
+ 
+ Questa somma di L. 7500 sara' prelevata dal fondo stanziato all'art. 2 del bilancio passivo dell'azienda del Demanio forestale di Stato, per l'esercizio finanziario 1912-913, e agli articoli corrispondenti dei bilanci per gli esercizi successivi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 18 luglio 1912. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Nitti. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

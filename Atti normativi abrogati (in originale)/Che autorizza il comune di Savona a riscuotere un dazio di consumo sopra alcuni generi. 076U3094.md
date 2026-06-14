@@ -1,16 +1,14 @@
-REGIO DECRETO 05 maggio 1876 n. 3094
-
-
-REGIO DECRETO 05 maggio 1876 n. 3094
-====================================
-
-Che autorizza il comune di Savona a riscuotere un dazio di consumo sopra alcuni generi. (076U3094)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/06/1876
+---
+tipo: REGIO DECRETO
+numero: 3094
+data: 1876-05-05
+titolo: "Che autorizza il comune di Savona a riscuotere un dazio di consumo sopra alcuni generi. (076U3094)"
+urn: urn:nir:stato:regio.decreto:1876-05-05;3094
+codice_redazionale: 076U3094
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,37 +18,22 @@ Vista la deliberazione 7 gennaio p. p. del Consiglio comunale di Savona, con cui
 
 Visto il parere della Camera di commercio di Savona e della Deputazione provinciale di Genova;
 
-Visto l'[articolo 11 della legge 11 agosto 1870, n. 5784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784~art11), allegato L;
+Visto l'[articolo 11 della legge 11 agosto 1870, n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md), allegato L;
 
 Sentito il Consiglio di Stato;
 
 Sulla proposta del Presidente del Consiglio dei Ministri,
 
-Ministro
---------
+Ministro delle Finanze, Abbiamo decretato e decretiamo:
 
-delle Finanze, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Savona viene autorizzato a riscuotere un dazio proprio di consumo, all'introduzione nella sua cinta daziaria sopra alcuni oggetti non appartenenti alle solite categorie, in conformita' della qui unita tariffa, vista d'ordine Nostro dal Ministro delle Finanze.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 maggio 1876.   
-  
-VITTORIO EMANUELE.   
-  
-Depretis.   
-  
-
-Tariffa
-
-  
-TARIFFA.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=076U309400100010110001&dgu=1876-05-19&art.dataPubblicazioneGazzetta=1876-05-19&art.codiceRedazionale=076U3094)
-  
+Il comune di Savona viene autorizzato a riscuotere un dazio proprio di consumo, all'introduzione nella sua cinta daziaria sopra alcuni oggetti non appartenenti alle solite categorie, in conformita' della qui unita tariffa, vista d'ordine Nostro dal Ministro delle Finanze. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 maggio 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Depretis.

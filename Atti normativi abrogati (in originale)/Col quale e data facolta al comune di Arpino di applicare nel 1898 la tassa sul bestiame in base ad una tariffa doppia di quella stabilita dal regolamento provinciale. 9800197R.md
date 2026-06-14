@@ -1,21 +1,17 @@
-REGIO DECRETO 03 luglio 1898 n. CXCVII
+---
+tipo: REGIO DECRETO
+numero: CXCVII
+data: 1898-07-03
+titolo: "Col quale e' data facolta' al comune di Arpino di applicare nel 1898 la tassa sul bestiame in base ad una tariffa doppia di quella stabilita dal regolamento provinciale. (9800197R)"
+urn: urn:nir:stato:regio.decreto:1898-07-03;197
+codice_redazionale: 9800197R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 luglio 1898 n. CXCVII
-======================================
-
-Col quale e' data facolta' al comune di Arpino di applicare nel 1898 la tassa sul bestiame in base ad una tariffa doppia di quella stabilita dal regolamento provinciale. (9800197R)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/08/1898
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di Arpino di applicare nel 1898 la tassa sul bestiame in base ad una tariffa doppia di quella stabilita dal regolamento provinciale. - Firmato UMBERTO - Controfirmato Carcano - Visto C. Finocchiaro Aprile.   
-  
-Registrato alla Corte dei Conti addi' 11 luglio 1898.   
-  
-Reg. 216. Atti del Governo a f. 29.   
-  
+Col quale e' data facolta' al comune di Arpino di applicare nel 1898 la tassa sul bestiame in base ad una tariffa doppia di quella stabilita dal regolamento provinciale. - Firmato UMBERTO - Controfirmato Carcano - Visto C. Finocchiaro Aprile. 
+ 
+ Registrato alla Corte dei Conti addi' 11 luglio 1898. 
+ 
+ Reg. 216. Atti del Governo a f. 29.

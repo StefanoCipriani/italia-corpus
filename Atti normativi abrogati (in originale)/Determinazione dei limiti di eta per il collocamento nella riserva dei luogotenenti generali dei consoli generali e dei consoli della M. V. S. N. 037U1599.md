@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 06 agosto 1937 n. 1599
-
-
-REGIO DECRETO-LEGGE 06 agosto 1937 n. 1599
-==========================================
-
-Determinazione dei limiti di eta' per il collocamento nella riserva dei luogotenenti generali, dei consoli generali e dei consoli della M. V. S. N. (037U1599)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/10/1937.  
-Regio Decreto-Legge convertito con modificazioni dalla [L. 27 dicembre 1937, n. 2321](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-12-27;2321) (in G.U. 27/01/1938, n. 21).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1599
+data: 1937-08-06
+titolo: "Determinazione dei limiti di eta' per il collocamento nella riserva dei luogotenenti generali, dei consoli generali e dei consoli della M. V. S. N. (037U1599)"
+urn: urn:nir:stato:regio.decreto.legge:1937-08-06;1599
+codice_redazionale: 037U1599
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -35,31 +32,25 @@ Ritenuta l'urgente ed assoluta necessita' di regolare il passaggio nella riserva
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro per la guerra, per la marina e per l'aeronautica, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro per la guerra, per la marina e per l'aeronautica, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal 1° gennaio 1937-XV, i luogotenenti generali, i consoli generali e i consoli della Milizia volontaria per la sicurezza nazionale, appartenenti a qualsiasi ruolo, non possono essere trattenuti in servizio rispettivamente oltre il 62°, 60° e 58° anno di eta', e debbono, al raggiungimento di tale eta', essere collocati nella riserva.   
-  
-Ogni altra disposizione contraria e' abrogata.   
-  
-Il presente decreto sara' presentato al Parlamento per la conversione in legge. Il Capo del Governo, proponente, e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 6 agosto 1937-XV   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 22 settembre 1937 - Anno XV   
-Atti del Governo, registro 389, foglio 108. - Mancini.   
+Dal 1° gennaio 1937-XV, i luogotenenti generali, i consoli generali e i consoli della Milizia volontaria per la sicurezza nazionale, appartenenti a qualsiasi ruolo, non possono essere trattenuti in servizio rispettivamente oltre il 62°, 60° e 58° anno di eta', e debbono, al raggiungimento di tale eta', essere collocati nella riserva. 
+ 
+ Ogni altra disposizione contraria e' abrogata. 
+ 
+ Il presente decreto sara' presentato al Parlamento per la conversione in legge. Il Capo del Governo, proponente, e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 6 agosto 1937-XV 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 22 settembre 1937 - Anno XV  
+ Atti del Governo, registro 389, foglio 108. - Mancini.

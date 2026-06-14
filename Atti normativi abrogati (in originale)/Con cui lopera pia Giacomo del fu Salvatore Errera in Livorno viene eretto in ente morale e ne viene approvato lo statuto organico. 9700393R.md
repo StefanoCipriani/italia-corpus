@@ -1,22 +1,18 @@
-REGIO DECRETO 16 dicembre 1897 n. CCCXCIII
+---
+tipo: REGIO DECRETO
+numero: CCCXCIII
+data: 1897-12-16
+titolo: "Con cui l'opera pia Giacomo del fu Salvatore Errera in Livorno viene eretto in ente morale e ne viene approvato lo statuto organico. (9700393R)"
+urn: urn:nir:stato:regio.decreto:1897-12-16;393
+codice_redazionale: 9700393R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 dicembre 1897 n. CCCXCIII
-==========================================
-
-Con cui l'opera pia Giacomo del fu Salvatore Errera in Livorno viene eretto in ente morale e ne viene approvato lo statuto organico. (9700393R)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/01/1898
-
-Art. 1
-------
-
-  
-Con cui l'opera pia Giacomo del fu Salvatore Errera in Livorno viene eretto in ente morale e ne viene approvato lo statuto organico.  
-- Firmato UMBERTO - Controfirmato Rudini' - Visto G. Zanardelli.   
-  
-Registrato alla Corte dei Conti addi' 31 dicembre 1897.   
-  
-Reg. 213. Atti del Governo a f. 225.   
-  
+Con cui l'opera pia Giacomo del fu Salvatore Errera in Livorno viene eretto in ente morale e ne viene approvato lo statuto organico.
+- Firmato UMBERTO - Controfirmato Rudini' - Visto G. Zanardelli. 
+ 
+ Registrato alla Corte dei Conti addi' 31 dicembre 1897. 
+ 
+ Reg. 213. Atti del Governo a f. 225.

@@ -1,21 +1,17 @@
-REGIO DECRETO 30 maggio 1895 n. CCCCLXXV
+---
+tipo: REGIO DECRETO
+numero: CCCCLXXV
+data: 1895-05-30
+titolo: "Che concentra il legato Riccobene nella congregazione di carita' di Pietraperzia (Caltanissetta). (9500475R)"
+urn: urn:nir:stato:regio.decreto:1895-05-30;475
+codice_redazionale: 9500475R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 maggio 1895 n. CCCCLXXV
-========================================
-
-Che concentra il legato Riccobene nella congregazione di carita' di Pietraperzia (Caltanissetta). (9500475R)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/12/1895
-
-Art. 1
-------
-
-  
-Con cui il legato Riccobene e' concentrato nella congregazione di carita' di Pietraperzia (Caltanissetta). - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 2 dicembre 1895.   
-  
-Reg. 202. Atti del Governo a f. 7.   
-  
+Con cui il legato Riccobene e' concentrato nella congregazione di carita' di Pietraperzia (Caltanissetta). - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 2 dicembre 1895. 
+ 
+ Reg. 202. Atti del Governo a f. 7.

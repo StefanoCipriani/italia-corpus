@@ -1,19 +1,15 @@
-REGIO DECRETO 16 ottobre 1910 n. CCCCV
+---
+tipo: REGIO DECRETO
+numero: CCCCV
+data: 1910-10-16
+titolo: "Col quale si approvano alcune modificazioni allo Statuto della Cassa di risparmio « Vittorio Emanuele » in Palermo. (1000405R)"
+urn: urn:nir:stato:regio.decreto:1910-10-16;405
+codice_redazionale: 1000405R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 ottobre 1910 n. CCCCV
-======================================
-
-Col quale si approvano alcune modificazioni allo Statuto della Cassa di risparmio « Vittorio Emanuele » in Palermo. (1000405R)
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/12/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CCCCV (Dato a San Rossore, il 16 ottobre 1910), col quale si approvano alcune modificazioni allo statuto della Cassa di risparmio «Vittorio Emanuele» in Palermo.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CCCCV (Dato a San Rossore, il 16 ottobre 1910), col quale si approvano alcune modificazioni allo statuto della Cassa di risparmio «Vittorio Emanuele» in Palermo.

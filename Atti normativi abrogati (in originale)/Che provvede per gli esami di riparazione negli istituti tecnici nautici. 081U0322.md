@@ -1,16 +1,14 @@
-REGIO DECRETO 07 luglio 1881 n. 322
-
-
-REGIO DECRETO 07 luglio 1881 n. 322
-===================================
-
-Che provvede per gli esami di riparazione negli istituti tecnici nautici. (081U0322)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/08/1881
+---
+tipo: REGIO DECRETO
+numero: 322
+data: 1881-07-07
+titolo: "Che provvede per gli esami di riparazione negli istituti tecnici nautici. (081U0322)"
+urn: urn:nir:stato:regio.decreto:1881-07-07;322
+codice_redazionale: 081U0322
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,47 +22,32 @@ Viste le disposizioni dell'art. 3 del R. decreto 30 gennaio 1881, per le quali i
 
 Ritenuto equo di estendere anche agli esami di ammissione e di promozione le disposizioni del cennato art. 3 del R. decreto 30 gennaio 1881;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I candidati agli esami generali di ammissione e di promozione negli Istituti tecnici e nautici rimasti deficienti in piu' materie hanno facolta' di ripetere per due volte nelle due sessioni piu' prossime d'esami lo esperimento per quelle materie in cui furono riprovati.
 
-  
-  
-I candidati agli esami generali di ammissione e di promozione negli Istituti tecnici e nautici rimasti deficienti in piu' materie hanno facolta' di ripetere per due volte nelle due sessioni piu' prossime d'esami lo esperimento per quelle materie in cui furono riprovati.   
+## Art. 2.
 
-Art. 2
-------
+Compiuti i tre esperimenti senza che il candidato agli esami di ammissione sia riuscito a conseguire l'idoneita' in tutte le materie dell'esame, la Commissione esaminatrice determinera' se ed a quale delle classi inferiori il candidato potra' essere inscritto. 
+ 
+ Gli alunni i quali siano rimasti deficienti negli esami estivi di promozione ed in quelli autunnali di riparazione, ripeteranno senz'altro l'anno di corso nel quale erano prima iscritti; ma nella sessione estiva dell'anno seguente faranno il terzo esperimento soltanto sulle prove fallite nel precedente esame di riparazione.
 
-  
-  
-Compiuti i tre esperimenti senza che il candidato agli esami di ammissione sia riuscito a conseguire l'idoneita' in tutte le materie dell'esame, la Commissione esaminatrice determinera' se ed a quale delle classi inferiori il candidato potra' essere inscritto.   
-  
-Gli alunni i quali siano rimasti deficienti negli esami estivi di promozione ed in quelli autunnali di riparazione, ripeteranno senz'altro l'anno di corso nel quale erano prima iscritti; ma nella sessione estiva dell'anno seguente faranno il terzo esperimento soltanto sulle prove fallite nel precedente esame di riparazione.   
+## Art. 3.
 
-Art. 3
-------
+Per l'iscrizione dei candidati agli esami di ammissione ed a quelli ancora di licenza che avranno fatti i loro studi sotto la vigilanza paterna saranno osservate le norme contenute nel primo comma dell'art. 253 della legge 13 novembre 1859 sulla pubblica istruzione.
 
-  
-  
-Per l'iscrizione dei candidati agli esami di ammissione ed a quelli ancora di licenza che avranno fatti i loro studi sotto la vigilanza paterna saranno osservate le norme contenute nel primo comma dell'art. 253 della legge 13 novembre 1859 sulla pubblica istruzione.   
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Tutte le disposizioni contrarie in materia di esami sono abrogate.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 luglio 1881.   
-  
-UMBERTO.   
-  
-BACCELLI.   
-  
-Visto, il Guardasigilli: ZANARDELLI.   
+Tutte le disposizioni contrarie in materia di esami sono abrogate. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 luglio 1881. 
+ 
+ UMBERTO. 
+ 
+ BACCELLI. 
+ 
+ Visto, il Guardasigilli: ZANARDELLI.

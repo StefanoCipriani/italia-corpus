@@ -1,23 +1,20 @@
-REGIO DECRETO 24 gennaio 1901 n. XLVII
+---
+tipo: REGIO DECRETO
+numero: XLVII
+data: 1901-01-24
+titolo: "Che approva lo statuto pel collegio degli ingegneri di Milano. (0100047R)"
+urn: urn:nir:stato:regio.decreto:1901-01-24;47
+codice_redazionale: 0100047R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 gennaio 1901 n. XLVII
-======================================
+Che approva un nuovo statuto pel collegio degli ingegneri di Milano. - Firmato VITTORIO EMANUELE - Controfirmato Gallo - Visto E.
+Gianturco. 
+ 
+ Registrato alla Corte dei conti addi' 4 marzo
 
-Che approva lo statuto pel collegio degli ingegneri di Milano. (0100047R)
--------------------------------------------------------------------------
+1901.
 
-Entrata in vigore del provvedimento: 24/03/1901
-
-Art. 1
-------
-
-Che approva un nuovo statuto pel collegio degli ingegneri di Milano. - Firmato VITTORIO EMANUELE - Controfirmato Gallo - Visto E.  
-Gianturco.   
-  
-Registrato alla Corte dei conti addi' 4 marzo
-
-1901. 
-  
-  
 Reg. 227. Atti del Governo a f. 169.

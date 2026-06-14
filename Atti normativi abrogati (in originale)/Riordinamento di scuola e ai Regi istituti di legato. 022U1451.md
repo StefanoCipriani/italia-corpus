@@ -1,17 +1,17 @@
-REGIO DECRETO 29 settembre 1922 n. 1451
+---
+tipo: REGIO DECRETO
+numero: 1451
+data: 1922-09-29
+titolo: "Riordinamento di scuola e ai Regi istituti di legato. (022U1451)"
+urn: urn:nir:stato:regio.decreto:1922-09-29;1451
+codice_redazionale: 022U1451
+vigente: true
+---
 
-
-REGIO DECRETO 29 settembre 1922 n. 1451
-=======================================
-
-Riordinamento di scuola e ai Regi istituti di legato. (022U1451)
-----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/12/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1451. Regio decreto 29 settembre 1922, col quale, sulla proposta del ministro dell'industria e commercio, si provvede per il riordinamento del Regio Istituto industriale «Quintino Sella» in Biella.
+1451.
+
+Regio decreto 29 settembre 1922, col quale, sulla proposta del ministro dell'industria e commercio, si provvede per il riordinamento del Regio Istituto industriale «Quintino Sella» in Biella.

@@ -1,16 +1,14 @@
-REGIO DECRETO 07 luglio 1869 n. 5189
-
-
-REGIO DECRETO 07 luglio 1869 n. 5189
-====================================
-
-Che autorizza la frazione di Battaglia a tenere le proprie rendite patrimoniali e le passivita' separate da quelle della frazione di San Pietro. (069U5189)
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/08/1869
+---
+tipo: REGIO DECRETO
+numero: 5189
+data: 1869-07-07
+titolo: "Che autorizza la frazione di Battaglia a tenere le proprie rendite patrimoniali e le passivita' separate da quelle della frazione di San Pietro. (069U5189)"
+urn: urn:nir:stato:regio.decreto:1869-07-07;5189
+codice_redazionale: 069U5189
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,29 +20,22 @@ Vista la domanda della maggioranza dei contribuenti della frazione di Battaglia,
 
 Vista la deliberazione del Consiglio comunale di Battaglia in data 30 novembre 1868;
 
-Visto
------
+Visto l'articolo 16 della Legge comunale e provinciale del 20 marzo 1865; Abbiamo decretato e decretiamo:
 
-l'articolo 16 della Legge comunale e provinciale del 20 marzo 1865; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La frazione di Battaglia, del Comune omonimo, e' autorizzata a tenere le proprie rendite patrimoniali e le passivita' separate da quelle della frazione di San Pietro.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 7 luglio 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 21 luglio 1869   
-  
-Reg. 47 Atti del Governo a c. 169. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Pironti.   
-  
-Luigi Ferraris.   
-  
+La frazione di Battaglia, del Comune omonimo, e' autorizzata a tenere le proprie rendite patrimoniali e le passivita' separate da quelle della frazione di San Pietro. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 7 luglio 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 21 luglio 1869 
+ 
+ Reg. 47 Atti del Governo a c. 169. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Pironti. 
+ 
+ Luigi Ferraris.

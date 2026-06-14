@@ -1,19 +1,15 @@
-REGIO DECRETO 08 giugno 1911 n. 1007
+---
+tipo: REGIO DECRETO
+numero: 1007
+data: 1911-06-08
+titolo: "Approvazione di statuto. (011U1007)"
+urn: urn:nir:stato:regio.decreto:1911-06-08;1007
+codice_redazionale: 011U1007
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 giugno 1911 n. 1007
-====================================
-
-Approvazione di statuto. (011U1007)
------------------------------------
-
-Entrata in vigore del provvedimento: 10/10/1911
-
-Art. 1
-------
-
-  
-N. 1007   
-  
-Regio Decreto 8 giugno 1911, col quale, sulla proposta del ministro di agricoltura, industria e commercio, e' approvato lo statuto del Monte di pieta' di Salerno.   
-  
+N. 1007 
+ 
+ Regio Decreto 8 giugno 1911, col quale, sulla proposta del ministro di agricoltura, industria e commercio, e' approvato lo statuto del Monte di pieta' di Salerno.

@@ -1,16 +1,14 @@
-REGIO DECRETO 07 marzo 1880 n. 5327
-
-
-REGIO DECRETO 07 marzo 1880 n. 5327
-===================================
-
-Che separa il comune di Ferrazzano dalla sezione principale del collegio elettorale di Campobasso e forma una sezione distinta dello stesso collegio. (080U5327)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/04/1880
+---
+tipo: REGIO DECRETO
+numero: 5327
+data: 1880-03-07
+titolo: "Che separa il comune di Ferrazzano dalla sezione principale del collegio elettorale di Campobasso e forma una sezione distinta dello stesso collegio. (080U5327)"
+urn: urn:nir:stato:regio.decreto:1880-03-07;5327
+codice_redazionale: 080U5327
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Che il comune di Ferrazzano conta 62 elettori, numero questo alquanto superiore 
 
 Considerato che istituendo una sezione elettorale in Ferrazzano si rende piu' facile a quegli elettori l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Ferrazzano e' separato dalla sezione principale del Collegio elettorale di Campobasso e formera' una sezione distinta dello stesso Collegio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 marzo 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il comune di Ferrazzano e' separato dalla sezione principale del Collegio elettorale di Campobasso e formera' una sezione distinta dello stesso Collegio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

@@ -1,20 +1,17 @@
-REGIO DECRETO 10 aprile 1862 n. CCCLX
+---
+tipo: REGIO DECRETO
+numero: CCCLX
+data: 1862-04-10
+titolo: "Che approva il regolamento di polizia rurale pel Comune di S. Mauro. (6200360R)"
+urn: urn:nir:stato:regio.decreto:1862-04-10;360
+codice_redazionale: 6200360R
+vigente: true
+---
 
-
-REGIO DECRETO 10 aprile 1862 n. CCCLX
-=====================================
-
-Che approva il regolamento di polizia rurale pel Comune di S. Mauro. (6200360R)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/04/1862
-
-Art. 1
-------
+## Art. 1.
 
 Che approva il regolamento di polizia rurale adottato dalla Comunita' di S. Mauro (Provincia di Torino) colla deliberazione del 14 novembre
 
-1861. 
-  
-  
+1861.
+
 Torino 10 aprile 1862

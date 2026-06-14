@@ -1,16 +1,14 @@
-REGIO DECRETO 16 agosto 1861 n. 260
-
-
-REGIO DECRETO 16 agosto 1861 n. 260
-===================================
-
-Che stabilisce la rendita da inscriversi sul Gran Libro del Debito Pubblico in esecuzione della Legge e del Reale Decreto delli 17 e 21 luglio 1861 (061U0260)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/11/1861
+---
+tipo: REGIO DECRETO
+numero: 260
+data: 1861-08-16
+titolo: "Che stabilisce la rendita da inscriversi sul Gran Libro del Debito Pubblico in esecuzione della Legge e del Reale Decreto delli 17 e 21 luglio 1861 (061U0260)"
+urn: urn:nir:stato:regio.decreto:1861-08-16;260
+codice_redazionale: 061U0260
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,31 +26,20 @@ Per sottoscrizione pubblica . . . » 7,544,190
 
 -------------
 
-Totale
-------
+Totale . . . L. 35,744,190 Abbiamo ordinato ed ordiniamo quanto segue:
 
-. . . L. 35,744,190 Abbiamo ordinato ed ordiniamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+La rendita 5 % da iscriversi sul Gran Libro del Debito pubblico con decorrenza dal 1° luglio 1861, in eseguimento della Legge del 17, e del Decreto Reale del 21 dello stesso mese di luglio, e' stabilita in L. 35,744,190.
 
-  
-  
-La rendita 5 % da iscriversi sul Gran Libro del Debito pubblico con decorrenza dal 1° luglio 1861, in eseguimento della Legge del 17, e del Decreto Reale del 21 dello stesso mese di luglio, e' stabilita in L. 35,744,190.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Pel servizio della rendita, di cui all'articolo precedente, e' fatta sulla Tesoreria centrale del Regno, cominciando dal 1° luglio 1861, l'annua assegnazione di lire trentacinque milioni settecento quarantaquattro mila cento novanta.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 16 agosto 1861.   
-  
-VITTORIO EMANUELE.   
-  
-Pietro Bastogi.   
-  
+Pel servizio della rendita, di cui all'articolo precedente, e' fatta sulla Tesoreria centrale del Regno, cominciando dal 1° luglio 1861, l'annua assegnazione di lire trentacinque milioni settecento quarantaquattro mila cento novanta. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 16 agosto 1861. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Pietro Bastogi.

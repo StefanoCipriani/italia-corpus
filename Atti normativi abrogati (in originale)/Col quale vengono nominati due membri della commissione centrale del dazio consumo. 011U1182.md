@@ -1,16 +1,14 @@
-REGIO DECRETO 27 ottobre 1911 n. 1182
-
-
-REGIO DECRETO 27 ottobre 1911 n. 1182
-=====================================
-
-Col quale vengono nominati due membri della commissione centrale del dazio consumo. (011U1182)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/11/1911
+---
+tipo: REGIO DECRETO
+numero: 1182
+data: 1911-10-27
+titolo: "Col quale vengono nominati due membri della commissione centrale del dazio consumo. (011U1182)"
+urn: urn:nir:stato:regio.decreto:1911-10-27;1182
+codice_redazionale: 011U1182
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Considerato che per l'avvenuta promozione dell'avv. comm. Giuseppe Quarta, e per
 
 Viste le note 11 luglio 1911, di S. E. il primo presidente della Corte di cassazione di Roma, e 14 ottobre 1911, di S. E. il presidente della Corte dei conti;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il signor avv. cav. Tito Sabatini, consigliere della Corte di cassazione di Roma, e il signor avv. commendator Giovanni Solinas-Cossu, consigliere della Corte dei conti, sono nominati membri della Commissione centrale del dazio consumo, in sostituzione dei signori avv. comm. Giuseppe Quarta e on. avv. comm. Enrico Martuscelli.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 27 ottobre 1911.   
-  
-VITTORIO EMANUELE.   
-  
-Facta.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+Il signor avv. cav. Tito Sabatini, consigliere della Corte di cassazione di Roma, e il signor avv. commendator Giovanni Solinas-Cossu, consigliere della Corte dei conti, sono nominati membri della Commissione centrale del dazio consumo, in sostituzione dei signori avv. comm. Giuseppe Quarta e on. avv. comm. Enrico Martuscelli. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 27 ottobre 1911. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Facta. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

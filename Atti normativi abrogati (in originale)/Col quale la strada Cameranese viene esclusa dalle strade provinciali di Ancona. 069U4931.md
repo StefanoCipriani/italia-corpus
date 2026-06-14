@@ -1,16 +1,14 @@
-REGIO DECRETO 28 febbraio 1869 n. 4931
-
-
-REGIO DECRETO 28 febbraio 1869 n. 4931
-======================================
-
-Col quale la strada Cameranese viene esclusa dalle strade provinciali di Ancona. (069U4931)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/04/1869
+---
+tipo: REGIO DECRETO
+numero: 4931
+data: 1869-02-28
+titolo: "Col quale la strada Cameranese viene esclusa dalle strade provinciali di Ancona. (069U4931)"
+urn: urn:nir:stato:regio.decreto:1869-02-28;4931
+codice_redazionale: 069U4931
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -38,29 +36,24 @@ Che ridotta cosi' codesta strada all'uso speciale dei due Comuni di Castelfidard
 
 Che male si potrebbe obbligare l'Amministrazione provinciale d'Ancona a mantenere a suo carico due strade fra due punti medesimi del suo territorio;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 E' esclusa la strada Cameranese dall'Elenco delle strade provinciali d'Ancona, approvato col precitato Decreto del Nostro Luogotenente Generale, in data 20 ottobre
 
-1866. 
-  
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 28 febbraio 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 marzo 1869   
-  
-Reg. 46 Atti del Governo a c. 55. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-L. Pasini.
+1866.
+
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 28 febbraio 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 marzo 1869 
+ 
+ Reg. 46 Atti del Governo a c. 55. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ L. Pasini.

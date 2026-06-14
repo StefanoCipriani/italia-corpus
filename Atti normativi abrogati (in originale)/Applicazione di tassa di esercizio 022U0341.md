@@ -1,17 +1,17 @@
-REGIO DECRETO 19 febbraio 1922 n. 341
+---
+tipo: REGIO DECRETO
+numero: 341
+data: 1922-02-19
+titolo: "Applicazione di tassa di esercizio (022U0341)"
+urn: urn:nir:stato:regio.decreto:1922-02-19;341
+codice_redazionale: 022U0341
+vigente: true
+---
 
-
-REGIO DECRETO 19 febbraio 1922 n. 341
-=====================================
-
-Applicazione di tassa di esercizio (022U0341)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 16/04/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-341. Regio decreto 19 febbraio 1922, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Portomaurizio di applicare dal 1° gennaio al 31 dicembre 1921 la tassa di esercizio col limite massimo fino a L. 4000.
+341.
+
+Regio decreto 19 febbraio 1922, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Portomaurizio di applicare dal 1° gennaio al 31 dicembre 1921 la tassa di esercizio col limite massimo fino a L. 4000.

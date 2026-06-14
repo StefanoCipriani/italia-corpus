@@ -1,16 +1,14 @@
-REGIO DECRETO 14 ottobre 1874 n. 2146
-
-
-REGIO DECRETO 14 ottobre 1874 n. 2146
-=====================================
-
-Col quale il Comune di Porto Tolle e' distaccato dalla Sezione elettorale di Ariano nel Polesine e costituito in Sezione separata del Collegio elettorale di Adria. (074U2146)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/11/1874
+---
+tipo: REGIO DECRETO
+numero: 2146
+data: 1874-10-14
+titolo: "Col quale il Comune di Porto Tolle e' distaccato dalla Sezione elettorale di Ariano nel Polesine e costituito in Sezione separata del Collegio elettorale di Adria. (074U2146)"
+urn: urn:nir:stato:regio.decreto:1874-10-14;2146
+codice_redazionale: 074U2146
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Porto Tolle e' distaccato dalla sezione elettorale di Ariano nel Polesine, e costituito in sezione separata del Collegio elettorale di Adria n. 459.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 14 ottobre 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
-  
+Il comune di Porto Tolle e' distaccato dalla sezione elettorale di Ariano nel Polesine, e costituito in sezione separata del Collegio elettorale di Adria n. 459. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 14 ottobre 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

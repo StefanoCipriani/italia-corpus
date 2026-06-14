@@ -1,16 +1,14 @@
-REGIO DECRETO 03 febbraio 1867 n. 3503
-
-
-REGIO DECRETO 03 febbraio 1867 n. 3503
-======================================
-
-Concernente le dichiarazioni relative alle entrate fondiarie soggette alla tassa del 4 per cento, ed il Comune in cui saranno accertate. (067U3503)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/02/1867
+---
+tipo: REGIO DECRETO
+numero: 3503
+data: 1867-02-03
+titolo: "Concernente le dichiarazioni relative alle entrate fondiarie soggette alla tassa del 4 per cento, ed il Comune in cui saranno accertate. (067U3503)"
+urn: urn:nir:stato:regio.decreto:1867-02-03;3503
+codice_redazionale: 067U3503
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,45 +26,30 @@ Considerando che quando non puo' farsi constare che un debito sia riferibile spe
 
 Considerando che quando non consti se i debiti affiggono la ricchezza mobile o la ricchezza fondiaria, vale la stessa norma per distribuire gl'interessi sulle varie categorie di redditi in parti proporzionali;
 
-Sulla
------
+Sulla proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Le dichiarazioni relative alle entrate fondiarie soggette alla tassa del 4 per cento, fatte nei Comuni ove i beni sono situati, se indicano per principale abitazione un Comune diverso, saranno accertate nel Comune dove fu fatta la dichiarazione; ma dopo l'accertamento saranno inviate all'Agente delle Tasse del Comune dov'e' la principale abitazione del contribuente.
 
-  
-  
-Le dichiarazioni relative alle entrate fondiarie soggette alla tassa del 4 per cento, fatte nei Comuni ove i beni sono situati, se indicano per principale abitazione un Comune diverso, saranno accertate nel Comune dove fu fatta la dichiarazione; ma dopo l'accertamento saranno inviate all'Agente delle Tasse del Comune dov'e' la principale abitazione del contribuente.   
-  
+## Art. 2.
 
-Art. 2
-------
+Il contribuente fara' nel luogo della sua principale abitazione la dichiarazione di tutte le sue annualita' passive. 
+ 
+ Queste saranno dedotte proporzionalmente alle varie categorie di redditi fondiari o non fondiari, quando non possa il contribuente dimostrare che debbono imputarsi su d'un determinato reddito.
 
-  
-  
-Il contribuente fara' nel luogo della sua principale abitazione la dichiarazione di tutte le sue annualita' passive.   
-  
-Queste saranno dedotte proporzionalmente alle varie categorie di redditi fondiari o non fondiari, quando non possa il contribuente dimostrare che debbono imputarsi su d'un determinato reddito.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-La tassa suddetta del 4 per cento sara' pagata sul complesso dei redditi depurati dalle annualita' passive, nel Comune dov'e' la principale abitazione del contribuente.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 3 febbraio 1867.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 4 febbraio 1867   
-R eg.° 39 Atti del Governo a c. 32. Ayres.   
-Luogo del Sigilli. V. Il Guardasigilli Borgatti.   
-  
-A. Scialoja.   
-  
+La tassa suddetta del 4 per cento sara' pagata sul complesso dei redditi depurati dalle annualita' passive, nel Comune dov'e' la principale abitazione del contribuente. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 3 febbraio 1867. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 4 febbraio 1867 
+ R eg.° 39 Atti del Governo a c. 32. Ayres. 
+ Luogo del Sigilli. V. Il Guardasigilli Borgatti. 
+ 
+ A. Scialoja.

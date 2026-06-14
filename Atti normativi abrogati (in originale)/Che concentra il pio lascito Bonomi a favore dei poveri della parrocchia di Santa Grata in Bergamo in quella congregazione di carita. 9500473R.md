@@ -1,21 +1,17 @@
-REGIO DECRETO 25 maggio 1895 n. CCCCLXXIII
+---
+tipo: REGIO DECRETO
+numero: CCCCLXXIII
+data: 1895-05-25
+titolo: "Che concentra il pio lascito Bonomi a favore dei poveri della parrocchia di Santa Grata in Bergamo in quella congregazione di carita'. (9500473R)"
+urn: urn:nir:stato:regio.decreto:1895-05-25;473
+codice_redazionale: 9500473R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 maggio 1895 n. CCCCLXXIII
-==========================================
-
-Che concentra il pio lascito Bonomi a favore dei poveri della parrocchia di Santa Grata in Bergamo in quella congregazione di carita'. (9500473R)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/12/1895
-
-Art. 1
-------
-
-  
-Con cui il pio lascito Bonomi a favore dei poveri della parrocchia di Santa Grata in Bergamo e' concentrato in quella congregazione di carita'. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 9 dicembre 1895.   
-  
-Reg. 202. Atti del Governo a f. 2.   
-  
+Con cui il pio lascito Bonomi a favore dei poveri della parrocchia di Santa Grata in Bergamo e' concentrato in quella congregazione di carita'. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 9 dicembre 1895. 
+ 
+ Reg. 202. Atti del Governo a f. 2.

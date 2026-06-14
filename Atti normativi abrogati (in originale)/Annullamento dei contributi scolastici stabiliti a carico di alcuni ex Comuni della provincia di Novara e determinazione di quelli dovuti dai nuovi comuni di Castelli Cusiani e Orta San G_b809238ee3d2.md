@@ -1,23 +1,15 @@
-REGIO DECRETO 29 agosto 1929 n. 2064
+---
+tipo: REGIO DECRETO
+numero: 2064
+data: 1929-08-29
+titolo: "Annullamento dei contributi scolastici stabiliti a carico di alcuni ex Comuni della provincia di Novara e determinazione di quelli dovuti dai nuovi comuni di Castelli Cusiani e Orta San Giulio. (029U2064)"
+urn: urn:nir:stato:regio.decreto:1929-08-29;2064
+codice_redazionale: 029U2064
+vigente: true
+---
 
+## Art. 1. — null
 
-REGIO DECRETO 29 agosto 1929 n. 2064
-====================================
-
-Annullamento dei contributi scolastici stabiliti a carico di alcuni ex Comuni della provincia di Novara e determinazione di quelli dovuti dai nuovi comuni di Castelli Cusiani e Orta San Giulio. (029U2064)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/12/1929
-
-Art. 1
-------
-
-null
-
-  
-  
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 10 dicembre 1929 - Anno VIII   
-  
+Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 10 dicembre 1929 - Anno VIII

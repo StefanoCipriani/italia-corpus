@@ -1,26 +1,24 @@
-REGIO DECRETO 23 luglio 1893 n. 408
-
-
-REGIO DECRETO 23 luglio 1893 n. 408
-===================================
-
-Che autorizza la creazione di n. 65350 obbligazioni di Stato 4% netto costituente la quarta serie (D) da emettersi per l'esercizio finanziario 1893-94. (093U0408)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/08/1893
+---
+tipo: REGIO DECRETO
+numero: 408
+data: 1893-07-23
+titolo: "Che autorizza la creazione di n. 65350 obbligazioni di Stato 4% netto costituente la quarta serie (D) da emettersi per l'esercizio finanziario 1893-94. (093U0408)"
+urn: urn:nir:stato:regio.decreto:1893-07-23;408
+codice_redazionale: 093U0408
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'[art. 3 della legge 27 aprile 1885, n. 3048](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-04-27;3048~art3) (serie 3ª);
+Visto l'[art. 3 della legge 27 aprile 1885, n. 3048](Concernente%20lesercizio%20delle%20reti%20Mediterranea%20Adriatica%20e%20Sicula%20e%20costruzione%20delle%20strade%20ferrate%20complementari.%20085U3048.md) (serie 3ª);
 
-Veduta la [legge 2 luglio 1890, n. 6930](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-02;6930) (serie 3ª), con la quale venne stabilita la emissione di obbligazioni di Stato 4 per cento esenti da ritenuta per qualsiasi imposta presente e futura;
+Veduta la [legge 2 luglio 1890, n. 6930](Con%20la%20quale%20si%20provvede%20a%20che%20le%20spese%20fatte%20con%20emissione%20di%20Obbligazioni%20ferroviarie%203%20%20siano%20fatte%20da%20ora%20innanzi%20mediante%20emissione%20di%20Obbligazioni%20di%20Stato%20del%20valore%20nominale%20di%20li_0fd73b4fdaa0.md) (serie 3ª), con la quale venne stabilita la emissione di obbligazioni di Stato 4 per cento esenti da ritenuta per qualsiasi imposta presente e futura;
 
-Veduto il [regio decreto 23 agosto 1890, n. 7078](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7078), che stabilisce le norme di esecuzione della succitata [legge 2 luglio 1890, n. 6930](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-02;6930);
+Veduto il [regio decreto 23 agosto 1890, n. 7078](Che%20autorizza%20la%20Direzione%20Generale%20del%20Debito%20pubblico%20ad%20emettere%20le%20obbligazioni%20di%20Stato%20del%20valore%20nominale%20di%20lire%20cinquecento%20di%20cui%20la%20legge%202%20luglio%201890%20n.%206930%20Serie%203ª.%20090U7078.md), che stabilisce le norme di esecuzione della succitata [legge 2 luglio 1890, n. 6930](Con%20la%20quale%20si%20provvede%20a%20che%20le%20spese%20fatte%20con%20emissione%20di%20Obbligazioni%20ferroviarie%203%20%20siano%20fatte%20da%20ora%20innanzi%20mediante%20emissione%20di%20Obbligazioni%20di%20Stato%20del%20valore%20nominale%20di%20li_0fd73b4fdaa0.md);
 
 Veduti i reali decreti 6 settembre 1890, n. 7079, 6 luglio 1891, n. 389, 28 giugno 1892, n. 305, 2 marzo, 4 maggio e 4 giugno 1893, n. 60, 214, 263, con i quali venne provveduto alla creazione di n. 596,226 obbligazioni di Stato 4 per cento netto, di cui n. 323,500 di serie A, n. 193,500 di serie B e n. 79,226 di serie C;
 
@@ -32,7 +30,7 @@ esercizio finanziario 1892-93, fra residui e
 
 competenze, per spese ferroviarie, come al
 
-[regio decreto 2 marzo 1893, n. 60](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-03-02;60), furono
+[regio decreto 2 marzo 1893, n. 60](Che%20autorizza%20la%20emissione%20di%20n.%2017277%20obbligazioni%20di%20Stato%204%20per%20cento%20netto%20in%20conto%20della%20terza%20serie%20C%20per%20lesercizio%20finanziario%201892-93.%20093U0060.md), furono
 
 introitate nell'esercizio medesimo . . . . . » 34,584,716.55
 
@@ -76,41 +74,26 @@ Ritenuto che per procurarsi la detta somma di lire 29,406,887. 63 sono da creare
 
 Salvo e riservato ogni effetto della liquidazione finale e di saldo;
 
-Sulla
------
+Sulla proposta del Nostro ministro del tesoro, di concerto con quello dei lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro del tesoro, di concerto con quello dei lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' autorizzata la creazione di n. 65,350 obbligazioni di Stato, quarta serie (D) ammortizzabili e fruttanti l'interesse del 4 per cento, esenti da ritenuta per qualunque siasi imposta presente e futura, di cui alla [legge 2 luglio 1890, n. 6930](Con%20la%20quale%20si%20provvede%20a%20che%20le%20spese%20fatte%20con%20emissione%20di%20Obbligazioni%20ferroviarie%203%20%20siano%20fatte%20da%20ora%20innanzi%20mediante%20emissione%20di%20Obbligazioni%20di%20Stato%20del%20valore%20nominale%20di%20li_0fd73b4fdaa0.md).
 
-  
-  
-E' autorizzata la creazione di n. 65,350 obbligazioni di Stato, quarta serie (D) ammortizzabili e fruttanti l'interesse del 4 per cento, esenti da ritenuta per qualunque siasi imposta presente e futura, di cui alla [legge 2 luglio 1890, n. 6930](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-02;6930).   
-  
+## Art. 2.
 
-Art. 2
-------
+Le obbligazioni di cui al precedente articolo avranno la decorrenza degli interessi dal 1° ottobre 1893, saranno ripartite per un decimo in titoli unitari da lire 500 ciascuno, per quattro decimi in titoli quintupli da lire 2,500 ciascuno, e per cinque decimi in titoli decupli da lire 5,000 ciascuno, ed avranno gli stessi segni caratteristici indicati nell'[art. 3 del regio decreto 6 settembre 1890, n. 7079](Che%20autorizza%20la%20creazione%20della%20prima%20serie%20A%20di%20numero%20325500%20obbligazioni%20di%20Stato%20ammortizzabili%20fruttanti%20linteresse%20del%204.%20090U7079.md).
 
-  
-  
-Le obbligazioni di cui al precedente articolo avranno la decorrenza degli interessi dal 1° ottobre 1893, saranno ripartite per un decimo in titoli unitari da lire 500 ciascuno, per quattro decimi in titoli quintupli da lire 2,500 ciascuno, e per cinque decimi in titoli decupli da lire 5,000 ciascuno, ed avranno gli stessi segni caratteristici indicati nell'[art. 3 del regio decreto 6 settembre 1890, n. 7079](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-09-06;7079~art3).   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Le obbligazioni di cui al precedente articolo potranno, agli effetti di che all'[art. 4 della legge 29 giugno 1893, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-06-29;330~art4), e cioe' per il loro deposito nella cassa dei depositi e prestiti a garanzia dei biglietti di Stato, essere rappresentate da apposito certificato a firma del Nostro ministro del tesoro col visto della corte dei conti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 luglio 1893.   
-  
-UMBERTO   
-  
-B. Grimaldi.   
-  
-Visto, Il Guardasigilli: F. Santamaria-Nicolini.   
-  
+Le obbligazioni di cui al precedente articolo potranno, agli effetti di che all'[art. 4 della legge 29 giugno 1893, n. 330](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201893-94%20093U0330.md), e cioe' per il loro deposito nella cassa dei depositi e prestiti a garanzia dei biglietti di Stato, essere rappresentate da apposito certificato a firma del Nostro ministro del tesoro col visto della corte dei conti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 luglio 1893. 
+ 
+ UMBERTO 
+ 
+ B. Grimaldi. 
+ 
+ Visto, Il Guardasigilli: F. Santamaria-Nicolini.

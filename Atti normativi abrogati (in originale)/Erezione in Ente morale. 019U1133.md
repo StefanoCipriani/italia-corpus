@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 15 giugno 1919 n. 1133
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1133
+data: 1919-06-15
+titolo: "Erezione in Ente morale. (019U1133)"
+urn: urn:nir:stato:decreto.luogotenenziale:1919-06-15;1133
+codice_redazionale: 019U1133
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 15 giugno 1919 n. 1133
-==============================================
-
-Erezione in Ente morale. (019U1133)
------------------------------------
-
-Entrata in vigore del provvedimento: 02/08/1919
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1133. Decreto Luogotenenziale 15 giugno 1919, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il ricovero di inabili al lavoro Fileno a Manuela Olivieri in Caramanico (Chieti), e' eretto in ente morale sotto l'amministrazione della locale Congregazione di carita', e ne e' approvato lo statuto organico relativo.
+1133.
+
+Decreto Luogotenenziale 15 giugno 1919, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il ricovero di inabili al lavoro Fileno a Manuela Olivieri in Caramanico (Chieti), e' eretto in ente morale sotto l'amministrazione della locale Congregazione di carita', e ne e' approvato lo statuto organico relativo.

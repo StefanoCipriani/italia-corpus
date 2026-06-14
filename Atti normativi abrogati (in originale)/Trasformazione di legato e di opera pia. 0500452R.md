@@ -1,19 +1,15 @@
-REGIO DECRETO 17 dicembre 1905 n. CCCCLII
+---
+tipo: REGIO DECRETO
+numero: CCCCLII
+data: 1905-12-17
+titolo: "Trasformazione di legato e di opera pia. (0500452R)"
+urn: urn:nir:stato:regio.decreto:1905-12-17;452
+codice_redazionale: 0500452R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 dicembre 1905 n. CCCCLII
-=========================================
-
-Trasformazione di legato e di opera pia. (0500452R)
----------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/03/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCCLII (Dato a Roma, il 17 dicembre 1905), col quale l'Opera pia Giuseppe Comploy e' trasformata a favore dell'ospedale civile di Verona.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCCLII (Dato a Roma, il 17 dicembre 1905), col quale l'Opera pia Giuseppe Comploy e' trasformata a favore dell'ospedale civile di Verona.

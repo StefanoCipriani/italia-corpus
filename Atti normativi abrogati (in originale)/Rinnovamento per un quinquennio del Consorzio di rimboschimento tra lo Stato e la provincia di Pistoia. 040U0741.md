@@ -1,16 +1,14 @@
-REGIO DECRETO 11 aprile 1940 n. 741
-
-
-REGIO DECRETO 11 aprile 1940 n. 741
-===================================
-
-Rinnovamento per un quinquennio del Consorzio di rimboschimento tra lo Stato e la provincia di Pistoia. (040U0741)
-------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/07/1940
+---
+tipo: REGIO DECRETO
+numero: 741
+data: 1940-04-11
+titolo: "Rinnovamento per un quinquennio del Consorzio di rimboschimento tra lo Stato e la provincia di Pistoia. (040U0741)"
+urn: urn:nir:stato:regio.decreto:1940-04-11;741
+codice_redazionale: 040U0741
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,7 +20,7 @@ Visto il Nostro decreto 26 luglio 1929, n. 1586, relativo alla costituzione del 
 
 Viste le seguenti deliberazioni:
 
-a) dell'Amministrazione provinciale di Pistoia in data 26 ottobre 1938 approvata con [decreto interministeriale del 13 febbraio 1939, n. 0412](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1939-02-13;0412), con la quale si delibera la rinnovazione del Consorzio di rimboschimenti per la durata di un quinquennio e con il concorso di un contributo annuo di L. 10.000 (diecimila) a decorrere con l'esercizio finanziario della Provincia pel 1940;
+a) dell'Amministrazione provinciale di Pistoia in data 26 ottobre 1938 approvata con [decreto interministeriale del 13 febbraio 1939, n. 0412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1939-02-13;0412), con la quale si delibera la rinnovazione del Consorzio di rimboschimenti per la durata di un quinquennio e con il concorso di un contributo annuo di L. 10.000 (diecimila) a decorrere con l'esercizio finanziario della Provincia pel 1940;
 
 b) del comune di Agliana in data 3 maggio 1939 approvata dalla Giunta provinciale amministrativa in data 16 maggio 1939 con la quale si delibera la partecipazione al Consorzio rimboschimenti con una quota annua di L. 200 (duecento) e per la durata di un quinquennio;
 
@@ -68,38 +66,30 @@ x) del comune di Tizzana in data 3 maggio 1939 approvata dalla Giunta provincial
 
 y) del comune di Uzzano in data 3 giugno 1939 approvata dalla Giunta provinciale amministrativa il 27 giugno 1939 con la quale si delibera la partecipazione al Consorzio con una quota annua di L. 300 (trecento) e per la durata di un quinquennio;
 
-Visto l'[art. 75 del R. decreto 30 dicembre 1923, n. 3267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267~art75);
+Visto l'[art. 75 del R. decreto 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267#art_75);
 
 Su proposta del Nostro Ministro Segretario di Stato per l'agricoltura e per le foreste; Abbiamo decretato e decretiamo:
 
-Art. 1
-------
+## Art. 1.
 
-  
-  
-E' rinnovato per un quinquennio a decorrere dall'esercizio 1939-40 a tutto l'esercizio 1943-44 il Consorzio di rimboschimento tra lo Stato e la provincia di Pistoia ed i comuni di Agliana, Abetone, Buggiana, Cutigliano, Lamporecchio, Larciano, Marliana, Massa e Cozzile, Monsummano, Montale, Montecatini Terme, Montecatini Val di Nievole, Pescia, Pieve a Nievole, Pistoia, Piteglio, Ponte Buggianese, Sambuca Pistoiese, S. Marcello Pistoiese, Serravalle Pistoiese, Tizzana ed Uzzano, e di conseguenza e' fissato in L. 19.190 (diciannovemilacentonovanta) il contributo dello Stato onde provvedere secondo le norme contenute nel Nostro decreto 30 dicembre 1923, n. 3267, e nel [regolamento 16 maggio 1926, numero 1126](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1926-05-16;1126), al rimboschimento dei terreni vincolati ed alla ricostituzione dei boschi estremamente deteriorati anch'essi sottoposti a vincolo, nella suddetta Provincia.   
+E' rinnovato per un quinquennio a decorrere dall'esercizio 1939-40 a tutto l'esercizio 1943-44 il Consorzio di rimboschimento tra lo Stato e la provincia di Pistoia ed i comuni di Agliana, Abetone, Buggiana, Cutigliano, Lamporecchio, Larciano, Marliana, Massa e Cozzile, Monsummano, Montale, Montecatini Terme, Montecatini Val di Nievole, Pescia, Pieve a Nievole, Pistoia, Piteglio, Ponte Buggianese, Sambuca Pistoiese, S. Marcello Pistoiese, Serravalle Pistoiese, Tizzana ed Uzzano, e di conseguenza e' fissato in L. 19.190 (diciannovemilacentonovanta) il contributo dello Stato onde provvedere secondo le norme contenute nel Nostro decreto 30 dicembre 1923, n. 3267, e nel [regolamento 16 maggio 1926, numero 1126](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1926-05-16;1126), al rimboschimento dei terreni vincolati ed alla ricostituzione dei boschi estremamente deteriorati anch'essi sottoposti a vincolo, nella suddetta Provincia.
 
-Art. 2
-------
+## Art. 2.
 
-  
-  
-Lo Stato concorre nella meta della spesa per l'esecuzione dei lavori di cui sopra mediante il fissato contributo annuo di L. 19.190 (diciannovemilacentonovanta) e la spesa stessa e' impegnata sulle autorizzazioni cui ha riferimento il cap. 13 del bilancio del Ministero dell'agricoltura e delle foreste per l'esercizio finanziario in corso.   
-  
-L'altra meta della spesa resta a cariavi della provincia di Pistoia per L. 10.000 (diecimila), del coniane di Agliana per L. 200 (duecento), del Comune di Abetone per L. 10 (dieci), del comune di Buggiano per L. 50 (cinquanta), del comune di Cutigliano per L. 50 (cinquanta), del comune di Lamporecchio per L. 200 (duecento), del comune di Larciano per L. 300 (trecento), del comune di Marliana per L. 100 (cento), del comune di Massa e Cozzile per L. 50 (cinquanta), del comune di Monsummano per L. 500 (cinquecento), del comune di Montale per L. 800 (ottocento), del comune di Montecatini Terme per L. 500 (cinquecento), del comune di Montecatini di Val di Nievole per L. 50 (cinquanta), del comune di Pescia per L. 500 (cinquecento), del comune di Pieve di Nievole per L. 80 (ottanta), del comune di Pistoia per L. 3200 (tremiladnecento), del comune di Piteglia per 1, 100 (cento), del comune di Ponte Buggianese per L. 200 (duecento), del comune di Sambuca Pistoiese per L. 500 (cinquecento), del comune di S. Marcello Pistoiese per L. 500 (cinquecento), del comune di Serravalle Pistoiese per L. 500 (cinquecento), del comune di Tizzana per L. 500 (cinquecento), del comune di Uzzano per L. 300 (trecento).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roana, addi' 11 aprile 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-Tassinari   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 2 luglio 1940-XVIII   
-  
-Atti del Governo, registro 423, foglio 11. - Mancini   
-  
-  
+Lo Stato concorre nella meta della spesa per l'esecuzione dei lavori di cui sopra mediante il fissato contributo annuo di L. 19.190 (diciannovemilacentonovanta) e la spesa stessa e' impegnata sulle autorizzazioni cui ha riferimento il cap. 13 del bilancio del Ministero dell'agricoltura e delle foreste per l'esercizio finanziario in corso. 
+ 
+ L'altra meta della spesa resta a cariavi della provincia di Pistoia per L. 10.000 (diecimila), del coniane di Agliana per L. 200 (duecento), del Comune di Abetone per L. 10 (dieci), del comune di Buggiano per L. 50 (cinquanta), del comune di Cutigliano per L. 50 (cinquanta), del comune di Lamporecchio per L. 200 (duecento), del comune di Larciano per L. 300 (trecento), del comune di Marliana per L. 100 (cento), del comune di Massa e Cozzile per L. 50 (cinquanta), del comune di Monsummano per L. 500 (cinquecento), del comune di Montale per L. 800 (ottocento), del comune di Montecatini Terme per L. 500 (cinquecento), del comune di Montecatini di Val di Nievole per L. 50 (cinquanta), del comune di Pescia per L. 500 (cinquecento), del comune di Pieve di Nievole per L. 80 (ottanta), del comune di Pistoia per L. 3200 (tremiladnecento), del comune di Piteglia per 1, 100 (cento), del comune di Ponte Buggianese per L. 200 (duecento), del comune di Sambuca Pistoiese per L. 500 (cinquecento), del comune di S. Marcello Pistoiese per L. 500 (cinquecento), del comune di Serravalle Pistoiese per L. 500 (cinquecento), del comune di Tizzana per L. 500 (cinquecento), del comune di Uzzano per L. 300 (trecento). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roana, addi' 11 aprile 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Tassinari 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 2 luglio 1940-XVIII 
+ 
+ Atti del Governo, registro 423, foglio 11. - Mancini

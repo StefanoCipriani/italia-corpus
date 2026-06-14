@@ -1,22 +1,18 @@
-REGIO DECRETO 27 novembre 1902 n. CCCCXXXIV
+---
+tipo: REGIO DECRETO
+numero: CCCCXXXIV
+data: 1902-11-27
+titolo: "Con cui il lascito Vincenzo e Carlo Tornielli di Borgomanero viene eretto in ente morale e ne viene approvato lo statuto organico. (0200434R)"
+urn: urn:nir:stato:regio.decreto:1902-11-27;434
+codice_redazionale: 0200434R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 novembre 1902 n. CCCCXXXIV
-===========================================
-
-Con cui il lascito Vincenzo e Carlo Tornielli di Borgomanero viene eretto in ente morale e ne viene approvato lo statuto organico. (0200434R)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/01/1903
-
-Art. 1
-------
-
-  
-Con cui il lascito Vincenzo e Carlo Tornielli di Borgomanero viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F.  
-Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 15 dicembre 1902.   
-  
-Reg. 7. Atti del Governo a f. 71.   
-  
+Con cui il lascito Vincenzo e Carlo Tornielli di Borgomanero viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F.
+Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 15 dicembre 1902. 
+ 
+ Reg. 7. Atti del Governo a f. 71.

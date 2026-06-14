@@ -1,16 +1,14 @@
-REGIO DECRETO 10 febbraio 1902 n. 44
-
-
-REGIO DECRETO 10 febbraio 1902 n. 44
-====================================
-
-Relativo a nuove disposizioni sulla pesca marittima. (002U0044)
----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/03/1902
+---
+tipo: REGIO DECRETO
+numero: 44
+data: 1902-02-10
+titolo: "Relativo a nuove disposizioni sulla pesca marittima. (002U0044)"
+urn: urn:nir:stato:regio.decreto:1902-02-10;44
+codice_redazionale: 002U0044
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,26 +26,20 @@ Visto il parere degli Enti locali, chiesto dalla legge;
 
 Sentito l'avviso della Commissione consultiva per la pesca, del Consiglio superiore dei Lavori Pubblici e del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-All'[articolo 20 del Regolamento 13 novembre 1882, n. 1090](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1882-11-13;1090~art20), per l'applicazione della legge sulla pesca del 4 marzo. 1877, n. 3706, e' aggiunto un capoverso del tenore seguente:   
-  
-«Durante l'esercizio delle tonnare, e' vietato del pari a chiunque di eseguire qualsiasi specie di pesca (compresa quella del corallo) e di accendere fuochi nello spazio acqueo di dieci chilometri verso l'alto mare, a partire da una linea retta che congiunga i punti estremi del ponte delle tonnare medesime con quelli terminali delle due su indicate zone laterali di difesa».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 10 febbraio 1902.   
-  
-VITTORIO EMANUELE.   
-  
-G. Baccelli.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.   
+All'[articolo 20 del Regolamento 13 novembre 1882, n. 1090](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1882-11-13;1090#art_20), per l'applicazione della legge sulla pesca del 4 marzo. 1877, n. 3706, e' aggiunto un capoverso del tenore seguente: 
+ 
+ «Durante l'esercizio delle tonnare, e' vietato del pari a chiunque di eseguire qualsiasi specie di pesca (compresa quella del corallo) e di accendere fuochi nello spazio acqueo di dieci chilometri verso l'alto mare, a partire da una linea retta che congiunga i punti estremi del ponte delle tonnare medesime con quelli terminali delle due su indicate zone laterali di difesa». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 febbraio 1902. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Baccelli. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

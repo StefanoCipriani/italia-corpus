@@ -1,26 +1,24 @@
-REGIO DECRETO 21 giugno 1934 n. 1261
-
-
-REGIO DECRETO 21 giugno 1934 n. 1261
-====================================
-
-Nomina del sig. dott. Riccardo Di Furia a Regio commissario dell'Istituto cosentino per le case popolari di Cosenza, in sostituzione del cav. dott. Felice Ninni dimissionario. (034U1261)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/08/1934
+---
+tipo: REGIO DECRETO
+numero: 1261
+data: 1934-06-21
+titolo: "Nomina del sig. dott. Riccardo Di Furia a Regio commissario dell'Istituto cosentino per le case popolari di Cosenza, in sostituzione del cav. dott. Felice Ninni dimissionario. (034U1261)"
+urn: urn:nir:stato:regio.decreto:1934-06-21;1261
+codice_redazionale: 034U1261
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [articoli 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-30;2318~art12) e [52 del R. decreto-legge 30 novembre 1919, n. 2318](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-30;2318~art52), testo unico, per le case popolari ed economiche e per l'industria edilizia, convertito in [legge 7 febbraio 1926, n. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-02-07;253);
+Visti gli [articoli 12](Che%20riunisce%20in%20testo%20unico%20le%20leggi%20per%20le%20case%20popolari%20e%20per%20lindustria%20edilizia.%20019U2318.md) e [52 del R. decreto-legge 30 novembre 1919, n. 2318](Che%20riunisce%20in%20testo%20unico%20le%20leggi%20per%20le%20case%20popolari%20e%20per%20lindustria%20edilizia.%20019U2318.md), testo unico, per le case popolari ed economiche e per l'industria edilizia, convertito in [legge 7 febbraio 1926, n. 253](Conversione%20in%20legge%20del%20R.%20decreto%2030%20novembre%201919%20n.%202318%20e%20di%20altri%20successivi%20recanti%20provvedimenti%20per%20le%20case%20popolari%20ed%20economiche.%20026U0253.md);
 
-Visto l'[art. 2 del R. decreto 27 settembre 1929, n. 1726](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-09-27;1726~art2);
+Visto l'[art. 2 del R. decreto 27 settembre 1929, n. 1726](Passaggio%20di%20alcuni%20servizi%20gia%20di%20competenza%20del%20Ministero%20delleconomia%20nazionale%20al%20Ministero%20dei%20lavori%20pubblici%20e%20passaggio%20di%20altri%20servizi%20da%20questultimo%20Ministero%20al%20Sottosegretari_3ddfa1b4c30a.md);
 
-Visto il [R. decreto 17 dicembre 1912, n. 1266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-12-17;1266), con il quale l'Istituto cosentino per le case popolari con sede in Cosenza fu riconosciuto come corpo morale e ne fu approvato lo statuto organico;
+Visto il [R. decreto 17 dicembre 1912, n. 1266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-12-17;1266), con il quale l'Istituto cosentino per le case popolari con sede in Cosenza fu riconosciuto come corpo morale e ne fu approvato lo statuto organico;
 
 Visto il R. decreto 30 marzo 1933, con il quale il sig. rag.
 
@@ -36,30 +34,22 @@ Visti i Regi decreti 4 agosto, 21 dicembre 1933 e 12 aprile 1934 con i quali il 
 
 Ritenuta la necessita' di provvedere alla sostituzione;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il sig. cav. dott. Felice Ninni cessa dalla carica di Regio commissario per la gestione straordinaria dell'Istituto cosentino per le case popolari con sede in Cosenza ed in sua sostituzione e' nominato nella carica stessa il sig. dott. Riccardo Di Furia con l'incarico di provvedere entro il 30 settembre 1934 alla sistemazione dell'Ente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo delle, Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore addi' 21 giugno 1934 - Anno XII   
-  
-VITTORIO EMANUELE   
-  
-Di Crollalanza.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 25 luglio 1934 - Anno XII   
-  
-Atti del Governo, registro 349, foglio 127. - Mancini.   
-  
-  
+Il sig. cav. dott. Felice Ninni cessa dalla carica di Regio commissario per la gestione straordinaria dell'Istituto cosentino per le case popolari con sede in Cosenza ed in sua sostituzione e' nominato nella carica stessa il sig. dott. Riccardo Di Furia con l'incarico di provvedere entro il 30 settembre 1934 alla sistemazione dell'Ente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo delle, Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore addi' 21 giugno 1934 - Anno XII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Crollalanza. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 25 luglio 1934 - Anno XII 
+ 
+ Atti del Governo, registro 349, foglio 127. - Mancini.

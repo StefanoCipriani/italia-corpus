@@ -1,16 +1,14 @@
-REGIO DECRETO 04 maggio 1879 n. 4897
-
-
-REGIO DECRETO 04 maggio 1879 n. 4897
-====================================
-
-Che devolve provvisoriamente al tribunale civile dei rispettivi circondari, la giurisdizione dei tribunali di commercio di Trapani, Rimini, Pesaro e Civitavecchia. (079U4897)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/06/1879
+---
+tipo: REGIO DECRETO
+numero: 4897
+data: 1879-05-04
+titolo: "Che devolve provvisoriamente al tribunale civile dei rispettivi circondari, la giurisdizione dei tribunali di commercio di Trapani, Rimini, Pesaro e Civitavecchia. (079U4897)"
+urn: urn:nir:stato:regio.decreto:1879-05-04;4897
+codice_redazionale: 079U4897
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Considerando che per lo scarsissimo numero degli affari trattati dagli anzidetti
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La giurisdizione dei Tribunali di commercio di Trapani, Rimini, Civitavecchia e Pesaro e' provvisoriamente devoluta al Tribunale civile dei rispettivi circondari.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 maggio 1879.   
-  
-UMBERTO.   
-  
-Taiani.   
-  
+La giurisdizione dei Tribunali di commercio di Trapani, Rimini, Civitavecchia e Pesaro e' provvisoriamente devoluta al Tribunale civile dei rispettivi circondari. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 maggio 1879. 
+ 
+ UMBERTO. 
+ 
+ Taiani.

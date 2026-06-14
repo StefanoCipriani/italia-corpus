@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 24 luglio 1936 n. 1630
-
-
-REGIO DECRETO-LEGGE 24 luglio 1936 n. 1630
-==========================================
-
-Assunzione straordinaria, mediante concorso per esami, di personale nel ruolo d'ordine dell'Amministrazione centrale della guerra. (036U1630)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/09/1936.  
-Regio Decreto-Legge convertito dalla [L. 10 febbraio 1937, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-02-10;414) (in G.U. 13/04/1937, n. 86).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1630
+data: 1936-07-24
+titolo: "Assunzione straordinaria, mediante concorso per esami, di personale nel ruolo d'ordine dell'Amministrazione centrale della guerra. (036U1630)"
+urn: urn:nir:stato:regio.decreto.legge:1936-07-24;1630
+codice_redazionale: 036U1630
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -29,38 +26,27 @@ Visto l'art. 3, n. 2, della legge 31 gennaio 1926-IV, n. 100;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' data facolta' al Ministro per la guerra di coprire, mediante pubblico concorso per esami, un quinto dei posti del ruolo degli impiegati d'ordine «gruppo C» presso l'Amministrazione centrale della guerra, vacanti alla data di pubblicazione del presente decreto nella Gazzetta Ufficiale del Regno. 
+ 
+ La nomina dei vincitori al grado tredicesimo (alunno d'ordine) e la promozione al grado superiore saranno disposte con l'osservanza dell'art. 20 del R. decreto 11 novembre 1923-II, n. 2395.
 
-  
-  
-E' data facolta' al Ministro per la guerra di coprire, mediante pubblico concorso per esami, un quinto dei posti del ruolo degli impiegati d'ordine «gruppo C» presso l'Amministrazione centrale della guerra, vacanti alla data di pubblicazione del presente decreto nella Gazzetta Ufficiale del Regno.   
-  
-La nomina dei vincitori al grado tredicesimo (alunno d'ordine) e la promozione al grado superiore saranno disposte con l'osservanza dell'art. 20 del R. decreto 11 novembre 1923-II, n. 2395.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto, che entrera' in vigore dal giorno della pubblicazione nella Gazzetta Ufficiale del Regno, sara' presentato al Parlamento per la sua conversione in legge. Il Ministro proponente e' autorizzato a presentare il relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regna d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 24 luglio 1936 - Anno XIV   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte del conti, addi' 8 settembre 1936 - Anno XIV   
-Atti del Governo, registro, 377, foglio 25. - Mancini.   
-  
-  
+Il presente decreto, che entrera' in vigore dal giorno della pubblicazione nella Gazzetta Ufficiale del Regno, sara' presentato al Parlamento per la sua conversione in legge. Il Ministro proponente e' autorizzato a presentare il relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regna d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 24 luglio 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte del conti, addi' 8 settembre 1936 - Anno XIV  
+ Atti del Governo, registro, 377, foglio 25. - Mancini.

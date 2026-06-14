@@ -1,16 +1,14 @@
-REGIO DECRETO 18 gennaio 1877 n. 3658
-
-
-REGIO DECRETO 18 gennaio 1877 n. 3658
-=====================================
-
-Che autorizza il comune di Navono (Brescia) a trasferire la sede municipale dalla frazione Noffo in quella di Navono. (077U3658)
---------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/02/1877
+---
+tipo: REGIO DECRETO
+numero: 3658
+data: 1877-01-18
+titolo: "Che autorizza il comune di Navono (Brescia) a trasferire la sede municipale dalla frazione Noffo in quella di Navono. (077U3658)"
+urn: urn:nir:stato:regio.decreto:1877-01-18;3658
+codice_redazionale: 077U3658
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,23 +20,16 @@ Vista la deliberazione del Consiglio comunale di Navono in data 24 ottobre 1875,
 
 Vista la deliberazione emessa dal Consiglio provinciale di Brescia in data 19 settembre 1876;
 
-Vista
------
+Vista la legge comunale e provinciale 20 marzo 1865, allegato A, Abbiamo decretato e decretiamo:
 
-la legge comunale e provinciale 20 marzo 1865, allegato A, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Navono, nella provincia di Brescia, e' autorizzato a trasferire la sede municipale dalla frazione di Noffo a quella di Navono.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 gennaio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il comune di Navono, nella provincia di Brescia, e' autorizzato a trasferire la sede municipale dalla frazione di Noffo a quella di Navono. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 gennaio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

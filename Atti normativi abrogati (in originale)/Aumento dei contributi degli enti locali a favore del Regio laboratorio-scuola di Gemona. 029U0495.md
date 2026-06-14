@@ -1,52 +1,42 @@
-REGIO DECRETO 28 marzo 1929 n. 495
-
-
-REGIO DECRETO 28 marzo 1929 n. 495
-==================================
-
-Aumento dei contributi degli enti locali a favore del Regio laboratorio-scuola di Gemona. (029U0495)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/05/1929
+---
+tipo: REGIO DECRETO
+numero: 495
+data: 1929-03-28
+titolo: "Aumento dei contributi degli enti locali a favore del Regio laboratorio-scuola di Gemona. (029U0495)"
+urn: urn:nir:stato:regio.decreto:1929-03-28;495
+codice_redazionale: 029U0495
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 5 agosto 1927, n. 1715](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-05;1715), concernente i contributi dello Stato e degli enti locali a favore del Regio laboratorio-scuola di Gemona;
+Visto il [R. decreto 5 agosto 1927, n. 1715](Modificazione%20dellimporto%20dei%20contributi%20del%20Ministero%20e%20degli%20enti%20locali%20per%20il%20mantenimento%20del%20Laboratorio-scuola%20di%20Gemona.%20027U1715.md), concernente i contributi dello Stato e degli enti locali a favore del Regio laboratorio-scuola di Gemona;
 
 Vista la deliberazione del Consiglio provinciale dell'economia di Udine dell 23 novembre 1928;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
-
-  
-  
-  
-I contributi di cui all'[art. 1 del R. decreto 5 agosto 1927, n. 1715](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-05;1715~art1), a favore del Regio laboratorio-scuola di Gemona, sono modificati come appresso:   
-  
-il Ministero della pubblica istruzione . . . . . . . . L. 102,054-   
-il comune di Gemona . . . . . . . . . . . . . . . . . » 47,281-   
-la provincia di Udine . . . . . . . . . . . . . . . . » 5,139-   
-il Consiglio provinciale dell'economia di Udine . . . » 3,036.75   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 28 marzo 1929 - Anno VII.   
-  
-VITTORIO EMANUELE.   
-  
-BELLUZZO.   
-  
-Visto, il Guardasigilli: ROCCO.   
-  
-Registrato alla Corte dei conti, addi' 16 aprile 1929 - Anno VII   
-Atti del Governo, registro 283, foglio 118. - FERZI.   
-  
+I contributi di cui all'[art. 1 del R. decreto 5 agosto 1927, n. 1715](Modificazione%20dellimporto%20dei%20contributi%20del%20Ministero%20e%20degli%20enti%20locali%20per%20il%20mantenimento%20del%20Laboratorio-scuola%20di%20Gemona.%20027U1715.md), a favore del Regio laboratorio-scuola di Gemona, sono modificati come appresso: 
+ 
+ il Ministero della pubblica istruzione . . . . . . . . L. 102,054-  
+ il comune di Gemona . . . . . . . . . . . . . . . . . » 47,281-  
+ la provincia di Udine . . . . . . . . . . . . . . . . » 5,139-  
+ il Consiglio provinciale dell'economia di Udine . . . » 3,036.75  
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 28 marzo 1929 - Anno VII. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ BELLUZZO. 
+ 
+ Visto, il Guardasigilli: ROCCO. 
+ 
+ Registrato alla Corte dei conti, addi' 16 aprile 1929 - Anno VII  
+ Atti del Governo, registro 283, foglio 118. - FERZI.

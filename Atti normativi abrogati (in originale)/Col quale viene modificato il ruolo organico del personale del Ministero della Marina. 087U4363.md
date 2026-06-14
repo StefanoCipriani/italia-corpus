@@ -1,56 +1,47 @@
-REGIO DECRETO 24 febbraio 1887 n. 4363
-
-
-REGIO DECRETO 24 febbraio 1887 n. 4363
-======================================
-
-Col quale viene modificato il ruolo organico del personale del Ministero della Marina. (087U4363)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/03/1887
+---
+tipo: REGIO DECRETO
+numero: 4363
+data: 1887-02-24
+titolo: "Col quale viene modificato il ruolo organico del personale del Ministero della Marina. (087U4363)"
+urn: urn:nir:stato:regio.decreto:1887-02-24;4363
+codice_redazionale: 087U4363
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 17 febbraio 1887, num. 4331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-02-17;4331) (Serie 3ª), colla quale e' approvato lo stato di previsione della spesa del Ministero della Marina per l'esercizio finanziario 1886-87;
+Vista la [legge 17 febbraio 1887, num. 4331](col%20quale%20viene%20approvato%20lo%20Stato%20di%20previsione%20della%20Spesa%20del%20Ministero%20della%20Marina%20087U4331.md) (Serie 3ª), colla quale e' approvato lo stato di previsione della spesa del Ministero della Marina per l'esercizio finanziario 1886-87;
 
-Visto il [R. decreto in data 24 luglio 1885, num. 3290](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-07-24;3290) (Serie 3ª), che approva il ruolo organico del personale del Ministero della Marina;
+Visto il [R. decreto in data 24 luglio 1885, num. 3290](Che%20stabilisce%20il%20ruolo%20organico%20del%20personale%20del%20Ministero%20della%20Marina.%20085U3290.md) (Serie 3ª), che approva il ruolo organico del personale del Ministero della Marina;
 
 Sulla proposta del Nostro Ministro per la Marina;
 
-Udito
------
+Udito il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il ruolo organico del personale del Ministero della Marina stabilito dal [R. decreto 24 luglio 1885, n. 3290](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-07-24;3290) (Serie 3ª), e' aumentato:   
-  
-di un direttore capo di divisione di 1ª classe,   
-  
-di sei ufficiali d'ordine di 1ª classe,   
-  
-di sei ufficiali d'ordine di 2ª classe,   
-  
-ed e' diminuito:   
-  
-di un direttore capo di divisione (capitano di porto di 1ª classe).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 febbraio 1887.   
-  
-UMBERTO.   
-  
-B. Brin.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+Il ruolo organico del personale del Ministero della Marina stabilito dal [R. decreto 24 luglio 1885, n. 3290](Che%20stabilisce%20il%20ruolo%20organico%20del%20personale%20del%20Ministero%20della%20Marina.%20085U3290.md) (Serie 3ª), e' aumentato: 
+ 
+ di un direttore capo di divisione di 1ª classe, 
+ 
+ di sei ufficiali d'ordine di 1ª classe, 
+ 
+ di sei ufficiali d'ordine di 2ª classe, 
+ 
+ ed e' diminuito: 
+ 
+ di un direttore capo di divisione (capitano di porto di 1ª classe). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 febbraio 1887. 
+ 
+ UMBERTO. 
+ 
+ B. Brin. 
+ 
+ Visto, Il Guardasigilli: Tajani.

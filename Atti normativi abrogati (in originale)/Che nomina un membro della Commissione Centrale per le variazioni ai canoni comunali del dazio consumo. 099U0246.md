@@ -1,16 +1,14 @@
-REGIO DECRETO 15 giugno 1899 n. 246
-
-
-REGIO DECRETO 15 giugno 1899 n. 246
-===================================
-
-Che nomina un membro della Commissione Centrale per le variazioni ai canoni comunali del dazio consumo. (099U0246)
-------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/07/1899
+---
+tipo: REGIO DECRETO
+numero: 246
+data: 1899-06-15
+titolo: "Che nomina un membro della Commissione Centrale per le variazioni ai canoni comunali del dazio consumo. (099U0246)"
+urn: urn:nir:stato:regio.decreto:1899-06-15;246
+codice_redazionale: 099U0246
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Visto il Nostro decreto in data 14 agosto 1898, n. 388, che nomina la Commission
 
 Ritenuta l'opportunita' di provvedere per la sostituzione di uno dei suoi membri, che ha cessato di appartenervi;
 
-Visti gli articoli 77 del testo unico di legge sui dazi interni di consumo, 15 aprile 1897, n. 161, e 6 della [legge 14 luglio 1898, n. 302](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-07-14;302);
+Visti gli articoli 77 del testo unico di legge sui dazi interni di consumo, 15 aprile 1897, n. 161, e 6 della [legge 14 luglio 1898, n. 302](Riforma%20dei%20dazi%20comunali%20di%20consumo.%20098U0302.md);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le Finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-In sostituzione del comm. dott. Onorato Germonio, e' chiamato a far parte della Commissione predetta il comm. dott. Cesare Salvarezza, Direttore Capo di Divisione nel Ministero dell'Interno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 15 giugno 1899.   
-  
-UMBERTO.   
-  
-Carmine.   
-  
-Visto, Il Guardasigilli: A. Bonasi.   
-  
+In sostituzione del comm. dott. Onorato Germonio, e' chiamato a far parte della Commissione predetta il comm. dott. Cesare Salvarezza, Direttore Capo di Divisione nel Ministero dell'Interno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 15 giugno 1899. 
+ 
+ UMBERTO. 
+ 
+ Carmine. 
+ 
+ Visto, Il Guardasigilli: A. Bonasi.

@@ -1,16 +1,14 @@
-REGIO DECRETO 26 ottobre 1884 n. 2733
-
-
-REGIO DECRETO 26 ottobre 1884 n. 2733
-=====================================
-
-Che istituisce un posto di notaro nel comune di Casalgrasso. (084U2733)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/11/1884
+---
+tipo: REGIO DECRETO
+numero: 2733
+data: 1884-10-26
+titolo: "Che istituisce un posto di notaro nel comune di Casalgrasso. (084U2733)"
+urn: urn:nir:stato:regio.decreto:1884-10-26;2733
+codice_redazionale: 084U2733
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Veduta la domanda fatta dal comune di Casalgrasso per la istituzione di un posto
 
 Ritenuto che sarebbe giustificata la convenienza ed opportunita' dell'anzidetta domanda;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un posto di notaro nel comune di Casalgrasso, distretto del Collegio notarile di Saluzzo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 26 ottobre 1884.   
-  
-UMBERTO.   
-  
-Ferracciu'.   
-  
-Visto, Il Guardasigilli: Ferracciu'.   
-  
+E' istituito un posto di notaro nel comune di Casalgrasso, distretto del Collegio notarile di Saluzzo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 26 ottobre 1884. 
+ 
+ UMBERTO. 
+ 
+ Ferracciu'. 
+ 
+ Visto, Il Guardasigilli: Ferracciu'.

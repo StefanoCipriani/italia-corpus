@@ -1,22 +1,19 @@
-REGIO DECRETO 27 marzo 1904 n. CXV
+---
+tipo: REGIO DECRETO
+numero: CXV
+data: 1904-03-27
+titolo: "Che modifica lo statuto della cassa di risparmio e depositi di Pescia. (0400115R)"
+urn: urn:nir:stato:regio.decreto:1904-03-27;115
+codice_redazionale: 0400115R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 marzo 1904 n. CXV
-==================================
+Che modifica lo statuto della cassa di risparmio e depositi di Pescia. - Firmato VITTORIO EMANUELE - Controfirmato Rava - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 7 aprile
 
-Che modifica lo statuto della cassa di risparmio e depositi di Pescia. (0400115R)
----------------------------------------------------------------------------------
+1904.
 
-Entrata in vigore del provvedimento: 28/04/1904
-
-Art. 1
-------
-
-Che modifica lo statuto della cassa di risparmio e depositi di Pescia. - Firmato VITTORIO EMANUELE - Controfirmato Rava - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 7 aprile
-
-1904. 
-  
-  
 Reg. 16. Atti del Governo a f. 29.

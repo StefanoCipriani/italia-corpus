@@ -1,16 +1,14 @@
-REGIO DECRETO 08 ottobre 1876 n. 3402
-
-
-REGIO DECRETO 08 ottobre 1876 n. 3402
-=====================================
-
-Col quale il comune di Pareto e' separato dalla sezione elettorale di Dego e formera' una sezione distinta del collegio elettorale di Cairo Montenotte. (076U3402)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/10/1876
+---
+tipo: REGIO DECRETO
+numero: 3402
+data: 1876-10-08
+titolo: "Col quale il comune di Pareto e' separato dalla sezione elettorale di Dego e formera' una sezione distinta del collegio elettorale di Cairo Montenotte. (076U3402)"
+urn: urn:nir:stato:regio.decreto:1876-10-08;3402
+codice_redazionale: 076U3402
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Pareto e' separato dalla sezione elettorale di Dego e formera' una sezione distinta del Collegio elettorale di Cairo Montenotte.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 8 ottobre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
-  
+Il comune di Pareto e' separato dalla sezione elettorale di Dego e formera' una sezione distinta del Collegio elettorale di Cairo Montenotte. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 8 ottobre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

@@ -1,16 +1,14 @@
-REGIO DECRETO 03 settembre 1865 n. 2491
-
-
-REGIO DECRETO 03 settembre 1865 n. 2491
-=======================================
-
-che abilita gli studenti del corso, di Matematiche pure nelle Universita' del Regno a cominciare lo studio della Fisica nel 1. ° anno del corso medesimo. (065U2491)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/10/1865
+---
+tipo: REGIO DECRETO
+numero: 2491
+data: 1865-09-03
+titolo: "che abilita gli studenti del corso, di Matematiche pure nelle Universita' del Regno a cominciare lo studio della Fisica nel 1. ° anno del corso medesimo. (065U2491)"
+urn: urn:nir:stato:regio.decreto:1865-09-03;2491
+codice_redazionale: 065U2491
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Veduto l'articolo 7 del Regolamento per la facolta' di scienze fisiche, naturali
 
 Volendo dar modo a chiunque il voglia di approfittare della disposizione dell'articolo 3 del Decreto 13 novembre 1862 sovracitato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Gli studenti del corso di Matematiche pure nelle Universita' del Regno possono incominciare lo studio della Fisica nel primo anno del corso stesso, prendendone regolare iscrizione, compierlo nel 2.° e sostenere poscia in fine di questo il relativo esame speciale.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze il 3 settembre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 22 settembre 1865   
-  
-Reg. 33 Atti del Governo a c. 203. Crodara-Visconti   
-  
-Luogo del Sigillo V. il Guardasigilli Cortese   
-  
-Natoli.   
-  
+Gli studenti del corso di Matematiche pure nelle Universita' del Regno possono incominciare lo studio della Fisica nel primo anno del corso stesso, prendendone regolare iscrizione, compierlo nel 2.° e sostenere poscia in fine di questo il relativo esame speciale. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze il 3 settembre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 22 settembre 1865 
+ 
+ Reg. 33 Atti del Governo a c. 203. Crodara-Visconti 
+ 
+ Luogo del Sigillo V. il Guardasigilli Cortese 
+ 
+ Natoli.

@@ -1,17 +1,17 @@
-REGIO DECRETO 31 agosto 1921 n. 1308
+---
+tipo: REGIO DECRETO
+numero: 1308
+data: 1921-08-31
+titolo: "Applicazione di tassa di soggiorno (021U1308)"
+urn: urn:nir:stato:regio.decreto:1921-08-31;1308
+codice_redazionale: 021U1308
+vigente: true
+---
 
-
-REGIO DECRETO 31 agosto 1921 n. 1308
-====================================
-
-Applicazione di tassa di soggiorno (021U1308)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 19/10/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1308. Regio decreto 31 agosto 1921, col quale sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il comune di S. Vito Romano (Roma) viene autorizzato ad applicare la tassa di soggiorno e se ne omologa il regolamento.
+1308.
+
+Regio decreto 31 agosto 1921, col quale sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il comune di S. Vito Romano (Roma) viene autorizzato ad applicare la tassa di soggiorno e se ne omologa il regolamento.

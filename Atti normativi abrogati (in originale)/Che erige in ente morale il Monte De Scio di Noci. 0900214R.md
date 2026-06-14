@@ -1,19 +1,15 @@
-REGIO DECRETO 20 giugno 1909 n. CCXIV
+---
+tipo: REGIO DECRETO
+numero: CCXIV
+data: 1909-06-20
+titolo: "Che erige in ente morale il Monte De Scio di Noci. (0900214R)"
+urn: urn:nir:stato:regio.decreto:1909-06-20;214
+codice_redazionale: 0900214R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 giugno 1909 n. CCXIV
-=====================================
-
-Che erige in ente morale il Monte De Scio di Noci. (0900214R)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/08/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCXIV (Dato a Roma, il 20 giugno 1909), col quale il Monte Scio, con sedo in Noci, e' eretto in ente morale.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCXIV (Dato a Roma, il 20 giugno 1909), col quale il Monte Scio, con sedo in Noci, e' eretto in ente morale.

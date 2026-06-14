@@ -1,17 +1,17 @@
-REGIO DECRETO 04 febbraio 1923 n. 304
+---
+tipo: REGIO DECRETO
+numero: 304
+data: 1923-02-04
+titolo: "Erezioni in Ente morale. (023U0304)"
+urn: urn:nir:stato:regio.decreto:1923-02-04;304
+codice_redazionale: 023U0304
+vigente: true
+---
 
-
-REGIO DECRETO 04 febbraio 1923 n. 304
-=====================================
-
-Erezioni in Ente morale. (023U0304)
------------------------------------
-
-Entrata in vigore del provvedimento: 03/04/1923
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-304. Regio decreto 4 febbraio 1923, col quale, sulla proposta del Ministro della pubblica istruzione, la Fondazione «Angelo Roth» in Sassari e' eretta in Ente morale ed e' approvato il relativo statuto.
+304.
+
+Regio decreto 4 febbraio 1923, col quale, sulla proposta del Ministro della pubblica istruzione, la Fondazione «Angelo Roth» in Sassari e' eretta in Ente morale ed e' approvato il relativo statuto.

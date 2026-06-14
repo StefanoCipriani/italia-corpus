@@ -1,16 +1,14 @@
-REGIO DECRETO 23 marzo 1933 n. 409
-
-
-REGIO DECRETO 23 marzo 1933 n. 409
-==================================
-
-Autorizzazione al comune di Pallanza ad esigere le imposte di consumo con la tariffa superiore. (033U0409)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/05/1933
+---
+tipo: REGIO DECRETO
+numero: 409
+data: 1933-03-23
+titolo: "Autorizzazione al comune di Pallanza ad esigere le imposte di consumo con la tariffa superiore. (033U0409)"
+urn: urn:nir:stato:regio.decreto:1933-03-23;409
+codice_redazionale: 033U0409
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,48 +22,30 @@ Visto il decreto del Nostro Ministro per l'interno 28 ottobre 1927 in base al qu
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il comune di Pallanza e' autorizzato ad applicare le imposte di consumo con le aliquote stabilite per la classe G.
 
-  
-  
-Il comune di Pallanza e' autorizzato ad applicare le imposte di consumo con le aliquote stabilite per la classe G.   
-  
-  
+## Art. 2.
 
-Art. 2
-------
+All'Azienda autonoma di cura del comune di Pallanza e' devoluto il maggior provento, al netto delle spese di riscossione, derivante dall'autorizzazione di cui al precedente articolo.
 
-  
-  
-All'Azienda autonoma di cura del comune di Pallanza e' devoluto il maggior provento, al netto delle spese di riscossione, derivante dall'autorizzazione di cui al precedente articolo.   
-  
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-L'autorizzazione di cui all'art. 1 avra' effetto fino all'ammortamento del prestito obbligazionario di L. 500.000 emesso dall'Azienda autonoma di cura del comune di Pallanza per l'acquisto dello stabile denominato «Villa Giulia».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 marzo 1933 - Anno XI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Jung.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 11 maggio 1933 - Anno XI   
-  
-Atti del Governo, registro 332, foglio 52. - Mancini.   
-  
-  
+L'autorizzazione di cui all'art. 1 avra' effetto fino all'ammortamento del prestito obbligazionario di L. 500.000 emesso dall'Azienda autonoma di cura del comune di Pallanza per l'acquisto dello stabile denominato «Villa Giulia». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 marzo 1933 - Anno XI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Jung. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 11 maggio 1933 - Anno XI 
+ 
+ Atti del Governo, registro 332, foglio 52. - Mancini.

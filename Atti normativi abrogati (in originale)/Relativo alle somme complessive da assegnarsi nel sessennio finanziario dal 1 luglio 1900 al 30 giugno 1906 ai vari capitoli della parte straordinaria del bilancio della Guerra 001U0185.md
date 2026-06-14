@@ -1,16 +1,14 @@
-REGIO DECRETO 12 maggio 1901 n. 185
-
-
-REGIO DECRETO 12 maggio 1901 n. 185
-===================================
-
-Relativo alle somme complessive da assegnarsi, nel sessennio finanziario dal 1° luglio 1900 al 30 giugno 1906, ai vari capitoli della parte straordinaria del bilancio della Guerra (001U0185)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/06/1901
+---
+tipo: REGIO DECRETO
+numero: 185
+data: 1901-05-12
+titolo: "Relativo alle somme complessive da assegnarsi, nel sessennio finanziario dal 1° luglio 1900 al 30 giugno 1906, ai vari capitoli della parte straordinaria del bilancio della Guerra (001U0185)"
+urn: urn:nir:stato:regio.decreto:1901-05-12;185
+codice_redazionale: 001U0185
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,46 +20,39 @@ Visto l'articolo 8 della legge medesima, che destina al rinnovamento dell'artigl
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le somme complessive da assegnarsi nel sessennio finanziario dal 1° luglio 1900 al 30 giugno 1906, ai vari capitoli della parte straordinaria del bilancio della Guerra, sono le seguenti:   
-  
-Armi portatili, relative munizioni, accessori e   
-buffetterie, e trasporti relativi . . . . . . . . L. 6.000.000   
-Carta topografica generale d'Italia . . . . . . . . » 230.000   
-Approvvigionamenti di mobilitazione, riparazione   
-e trasporto dei medesimi . . . . . . . . . . . . » 2.000.000   
-Fabbricazione di artiglierie di gran potenza a   
-difesa delle coste, provviste e trasporti   
-relativi . . . . . . . . . . . . . . . . . . . . » 6.000.000   
-Lavori, strade, ferrovie ed opere militari . . . . » 1.500.000   
-Lavori a difesa delle coste . . . . . . . . . . . . » 4.000.000   
-Forti di sbarramento e lavori a difesa   
-dello Stato . . . . . . . . . . . . . . . . . . . » 4.000.000   
-Fortificazioni di Roma . . . . . . . . . . . . . . » 600.000   
-Armamento delle fortificazioni, materiale per   
-artiglieria da fortezza e relativo trasporto . . » 6.000.000   
-Costruzione e sistemazione di fabbricati   
-militari, impianto e riordinamento di poligoni e   
-piazze d'armi . . . . . . . . . . . . . . . . . . » 5.000.000   
-Materiale per la brigata ferrovieri . . . . . . . . » 670.000   
--------------- L. 36.000.000   
---------------   
-Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 maggio 1901.   
-  
-VITTORIO EMANUELE.   
-  
-C. Di San Martino.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.   
-  
+Le somme complessive da assegnarsi nel sessennio finanziario dal 1° luglio 1900 al 30 giugno 1906, ai vari capitoli della parte straordinaria del bilancio della Guerra, sono le seguenti: 
+ 
+ Armi portatili, relative munizioni, accessori e 
+ buffetterie, e trasporti relativi . . . . . . . . L. 6.000.000 
+ Carta topografica generale d'Italia . . . . . . . . » 230.000 
+ Approvvigionamenti di mobilitazione, riparazione 
+ e trasporto dei medesimi . . . . . . . . . . . . » 2.000.000 
+ Fabbricazione di artiglierie di gran potenza a 
+ difesa delle coste, provviste e trasporti 
+ relativi . . . . . . . . . . . . . . . . . . . . » 6.000.000 
+ Lavori, strade, ferrovie ed opere militari . . . . » 1.500.000 
+ Lavori a difesa delle coste . . . . . . . . . . . . » 4.000.000 
+ Forti di sbarramento e lavori a difesa 
+ dello Stato . . . . . . . . . . . . . . . . . . . » 4.000.000 
+ Fortificazioni di Roma . . . . . . . . . . . . . . » 600.000 
+ Armamento delle fortificazioni, materiale per 
+ artiglieria da fortezza e relativo trasporto . . » 6.000.000 
+ Costruzione e sistemazione di fabbricati 
+ militari, impianto e riordinamento di poligoni e 
+ piazze d'armi . . . . . . . . . . . . . . . . . . » 5.000.000 
+ Materiale per la brigata ferrovieri . . . . . . . . » 670.000 
+ --------------  L. 36.000.000 
+ --------------  
+ Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 maggio 1901. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ C. Di San Martino. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

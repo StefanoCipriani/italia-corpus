@@ -1,16 +1,14 @@
-REGIO DECRETO 01 novembre 1900 n. 362
-
-
-REGIO DECRETO 01 novembre 1900 n. 362
-=====================================
-
-Che modifica i Regolamenti universitario, dei licei e ginnasi, degli istituti tecnici e nautici, delle scuole tecniche, normali ed elementari, in riguardo a determinati giorni di vacanze scolastiche. (000U0362)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/11/1900
+---
+tipo: REGIO DECRETO
+numero: 362
+data: 1900-11-01
+titolo: "Che modifica i Regolamenti universitario, dei licei e ginnasi, degli istituti tecnici e nautici, delle scuole tecniche, normali ed elementari, in riguardo a determinati giorni di vacanze scolastiche. (000U0362)"
+urn: urn:nir:stato:regio.decreto:1900-11-01;362
+codice_redazionale: 000U0362
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,60 +20,58 @@ Veduto il Regolamento universitario, approvato col R. decreto del 26 ottobre 189
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
-
-Art. 1
-------
+## Art. 1.
 
 Al n. 4 dell'articolo 4 del Regolamento universitario e' sostituito il seguente:
 
-4. Il giorno della festa nazionale dello Statuto l'anniversario della morte di Vittorio Emanuele II e della nascita delle LL. MM. il Re, la Regina e la Regina Margherita.
+4.
 
-Art. 2
-------
+Il giorno della festa nazionale dello Statuto l'anniversario della morte di Vittorio Emanuele II e della nascita delle LL. MM. il Re, la Regina e la Regina Margherita.
+
+## Art. 2.
 
 Al n. 6 dell'articolo 6 del Regolamento per i ginnasi ed i licei e' sostituito il seguente:
 
-6. Il giorno natalizio di S. M. la Regina Margherita.
+6.
 
-Art. 3
-------
+Il giorno natalizio di S. M. la Regina Margherita.
+
+## Art. 3.
 
 Al n. 2 del comma 3 dell'articolo 48 del Regolamento per gli istituti tecnici e nautici e' sostituito il seguente:
 
-2. Il giorno natalizio delle LL. MM. il Re, la Regina e la Regina Margherita.
+2.
 
-Art. 4
-------
+Il giorno natalizio delle LL. MM. il Re, la Regina e la Regina Margherita.
+
+## Art. 4.
 
 Al n. 2 del comma 3 dell'articolo 10 del Regolamento per le scuole tecniche e' sostituito il seguente:
 
-2. Il giorno natalizio delle LL. MM. il Re, la Regina e la Regina Margherita.
+2.
 
-Art. 5
-------
+Il giorno natalizio delle LL. MM. il Re, la Regina e la Regina Margherita.
+
+## Art. 5.
 
 Al n. 6 dell'articolo 5 del Regolamento per le scuole normali e' sostituito il seguente:
 
-6. Il giorno natalizio di S. M. la Regina Margherita.
+6.
 
-Art. 6
-------
+Il giorno natalizio di S. M. la Regina Margherita.
 
-  
-  
-Nel calendario scolastico delle scuole elementari del Regno e' aggiunta la vacanza nel giorno natalizio di S. M. la Regina Margherita.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 1° novembre 1900.   
-  
-VITTORIO EMANUELE.   
-  
-GALLO.   
-  
-Visto, Il Guardasigilli: GIANTURCO.   
-  
+## Art. 6.
+
+Nel calendario scolastico delle scuole elementari del Regno e' aggiunta la vacanza nel giorno natalizio di S. M. la Regina Margherita. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° novembre 1900. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ GALLO. 
+ 
+ Visto, Il Guardasigilli: GIANTURCO.

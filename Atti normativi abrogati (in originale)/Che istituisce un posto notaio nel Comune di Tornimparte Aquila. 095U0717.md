@@ -1,16 +1,14 @@
-REGIO DECRETO 15 dicembre 1895 n. 717
-
-
-REGIO DECRETO 15 dicembre 1895 n. 717
-=====================================
-
-Che istituisce un posto notaio nel Comune di Tornimparte (Aquila). (095U0717)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/01/1896
+---
+tipo: REGIO DECRETO
+numero: 717
+data: 1895-12-15
+titolo: "Che istituisce un posto notaio nel Comune di Tornimparte (Aquila). (095U0717)"
+urn: urn:nir:stato:regio.decreto:1895-12-15;717
+codice_redazionale: 095U0717
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Visto l'art. 4 della legge notarile 25 maggio 1879, n. 4900, e la tabella del nu
 
 Ritenuto dimostrata la necessita' dell'istituzione di un posto di notaio nel Comune di Tornimparte;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un posto di notaio nel Comune di Tornimparte, distretto notarile di Aquila.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 15 dicembre 1895.   
-  
-UMBERTO.   
-  
-Calenda.   
-  
-Visto, Il Guardasigilli: V. Calenda Di Tavani.   
-  
+E' istituito un posto di notaio nel Comune di Tornimparte, distretto notarile di Aquila. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 15 dicembre 1895. 
+ 
+ UMBERTO. 
+ 
+ Calenda. 
+ 
+ Visto, Il Guardasigilli: V. Calenda Di Tavani.

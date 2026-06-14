@@ -1,35 +1,25 @@
-LEGGE 27 dicembre 1956 n. 1464
-
-
-LEGGE 27 dicembre 1956 n. 1464
-==============================
-
-Abrogazione dell'art. 63 della legge 9 luglio 1908, n. 445, recante provvidenze a favore della Basilicata e della Calabria.
----------------------------------------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 1464
+data: 1956-12-27
+titolo: "Abrogazione dell'art. 63 della legge 9 luglio 1908, n. 445, recante provvidenze a favore della Basilicata e della Calabria."
+urn: urn:nir:stato:legge:1956-12-27;1464
+codice_redazionale: 056U1464
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'[art. 63 della legge 9 luglio 1908, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445~art63), e' abrogato.  
-  
+L'[art. 63 della legge 9 luglio 1908, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445#art_63), e' abrogato.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 27 dicembre 1956
+Data a Roma, addi' 27 dicembre 1956
 
-GRONCHI SEGNI - ROMITA - TAMBRONI - MEDICI - COLOMBO
-
-Visto, il Guardasigilli: MORO
+GRONCHI SEGNI - ROMITA - TAMBRONI - MEDICI - COLOMBO Visto, il Guardasigilli: MORO

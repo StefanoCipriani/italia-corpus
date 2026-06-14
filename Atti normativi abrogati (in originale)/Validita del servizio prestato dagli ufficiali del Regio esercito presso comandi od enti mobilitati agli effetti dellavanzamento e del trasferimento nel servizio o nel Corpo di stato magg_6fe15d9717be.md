@@ -1,16 +1,14 @@
-REGIO DECRETO 14 novembre 1941 n. 1328
-
-
-REGIO DECRETO 14 novembre 1941 n. 1328
-======================================
-
-Validita' del servizio prestato dagli ufficiali del Regio esercito, presso comandi od enti mobilitati, agli effetti dell'avanzamento e del trasferimento nel servizio o nel Corpo di stato maggiore. (041U1328)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/01/1942
+---
+tipo: REGIO DECRETO
+numero: 1328
+data: 1941-11-14
+titolo: "Validita' del servizio prestato dagli ufficiali del Regio esercito, presso comandi od enti mobilitati, agli effetti dell'avanzamento e del trasferimento nel servizio o nel Corpo di stato maggiore. (041U1328)"
+urn: urn:nir:stato:regio.decreto:1941-11-14;1328
+codice_redazionale: 041U1328
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,35 +28,26 @@ Vista la legge 22 dicembre 1939-XVIII, n. 2038, recante aggiornamenti al R. decr
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A decorrere dal 1° settembre 1940-XVIII, il servizio prestato dai capitani, maggiori e tenenti colonnelli presso qualsiasi comando od ente mobilitato, ovunque e comunque dislocato, e' valido agli effetti dei periodi di comando stabiliti dall'art. 32 della legge 9 maggio 1940-XVIII, n. 370, anche se ridotti in base a quanto previsto dalla legge stessa.
 
-  
-  
-A decorrere dal 1° settembre 1940-XVIII, il servizio prestato dai capitani, maggiori e tenenti colonnelli presso qualsiasi comando od ente mobilitato, ovunque e comunque dislocato, e' valido agli effetti dei periodi di comando stabiliti dall'art. 32 della legge 9 maggio 1940-XVIII, n. 370, anche se ridotti in base a quanto previsto dalla legge stessa.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il servizio prestato dai tenenti colonnelli non provenienti dai maggiori in servizio di Stato Maggiore, presso comandi od enti mobilitati ai sensi del precedente art. 1, qualora sia esuberante rispetto al periodo di comando, prescritto dall'art. 32, e' ritenuto valido ai fini del compimento del periodo di mesi sei di servizio di Stato Maggiore, prescritto dall'art. 3 della legge 22 dicembre 1939-XVIII, n. 2038, per il loro trasferimento nel Corpo di stato maggiore.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 novembre 1941-XX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 14 dicembre 1941-XX   
-  
-Atti del Governo, registro 440, foglio 27. - MANCINI   
+Il servizio prestato dai tenenti colonnelli non provenienti dai maggiori in servizio di Stato Maggiore, presso comandi od enti mobilitati ai sensi del precedente art. 1, qualora sia esuberante rispetto al periodo di comando, prescritto dall'art. 32, e' ritenuto valido ai fini del compimento del periodo di mesi sei di servizio di Stato Maggiore, prescritto dall'art. 3 della legge 22 dicembre 1939-XVIII, n. 2038, per il loro trasferimento nel Corpo di stato maggiore. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 novembre 1941-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 14 dicembre 1941-XX 
+ 
+ Atti del Governo, registro 440, foglio 27. - MANCINI

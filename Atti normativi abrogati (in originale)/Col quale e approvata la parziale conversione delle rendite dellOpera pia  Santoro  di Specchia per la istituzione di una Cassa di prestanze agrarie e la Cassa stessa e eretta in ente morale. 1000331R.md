@@ -1,19 +1,15 @@
-REGIO DECRETO 17 luglio 1910 n. CCCXXXI
+---
+tipo: REGIO DECRETO
+numero: CCCXXXI
+data: 1910-07-17
+titolo: "Col quale e' approvata la parziale conversione delle rendite dell'Opera pia « Santoro » di Specchia, per la istituzione di una Cassa di prestanze agrarie; e la Cassa stessa e' eretta in ente morale. (1000331R)"
+urn: urn:nir:stato:regio.decreto:1910-07-17;331
+codice_redazionale: 1000331R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 luglio 1910 n. CCCXXXI
-=======================================
-
-Col quale e' approvata la parziale conversione delle rendite dell'Opera pia « Santoro » di Specchia, per la istituzione di una Cassa di prestanze agrarie; e la Cassa stessa e' eretta in ente morale. (1000331R)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/10/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCXXXI (Dato a Racconigi, il 17 luglio 1910), col quale e' approvata la parziale conversione delle rendite dell'Opera pia Santoro di Specchia per la istituzione di una Cassa di prestanze agrarie; e' eretta in ente morale la Cassa predetta, ed e' approvato lo statuto organico della medesima.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCXXXI (Dato a Racconigi, il 17 luglio 1910), col quale e' approvata la parziale conversione delle rendite dell'Opera pia Santoro di Specchia per la istituzione di una Cassa di prestanze agrarie; e' eretta in ente morale la Cassa predetta, ed e' approvato lo statuto organico della medesima.

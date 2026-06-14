@@ -1,18 +1,20 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 10 luglio 1947 n. 873
+---
+tipo: DECRETO DEL CAPO PROVVISORIO DELLO STATO
+numero: 873
+data: 1947-07-10
+titolo: "Approvazione del nuovo statuto della Societa' Italiana di antropologia."
+urn: urn:nir:stato:decreto.del.capo.provvisorio.dello.stato:1947-07-10;873
+codice_redazionale: 047U0873
+vigente: true
+---
 
-
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 10 luglio 1947 n. 873
-==============================================================
-
-Approvazione del nuovo statuto della Societa' Italiana di antropologia.
------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-873. Decreto del Capo provvisorio dello Stato 10 luglio 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto della Societa' italiana di antropologia.  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei Conti, addi' 8 settembre 1947
+873.
+
+Decreto del Capo provvisorio dello Stato 10 luglio 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto della Societa' italiana di antropologia.
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei Conti, addi' 8 settembre 1947

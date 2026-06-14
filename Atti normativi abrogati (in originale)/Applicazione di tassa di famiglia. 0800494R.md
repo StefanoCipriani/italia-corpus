@@ -1,19 +1,15 @@
-REGIO DECRETO 12 novembre 1908 n. CCCCXCIV
+---
+tipo: REGIO DECRETO
+numero: CCCCXCIV
+data: 1908-11-12
+titolo: "Applicazione di tassa di famiglia. (0800494R)"
+urn: urn:nir:stato:regio.decreto:1908-11-12;494
+codice_redazionale: 0800494R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 novembre 1908 n. CCCCXCIV
-==========================================
-
-Applicazione di tassa di famiglia. (0800494R)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 29/12/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CCCCXCIV (Dato a San Rossore, il 12 novembre 1908), col quale e' data facolta' al comune di Magliano Sabino di applicare nell'anno 1908 la tassa di famiglia, col limite massimo di L. 180 e col minimo di una lira.   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CCCCXCIV (Dato a San Rossore, il 12 novembre 1908), col quale e' data facolta' al comune di Magliano Sabino di applicare nell'anno 1908 la tassa di famiglia, col limite massimo di L. 180 e col minimo di una lira.

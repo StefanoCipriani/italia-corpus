@@ -1,21 +1,21 @@
-REGIO DECRETO 12 gennaio 1928 n. 246
+---
+tipo: REGIO DECRETO
+numero: 246
+data: 1928-01-12
+titolo: "Erezione in ente morale della Fondazione «Amelia Aimi», con sede in Fidenza. (028U0246)"
+urn: urn:nir:stato:regio.decreto:1928-01-12;246
+codice_redazionale: 028U0246
+vigente: true
+---
 
-
-REGIO DECRETO 12 gennaio 1928 n. 246
-====================================
-
-Erezione in ente morale della Fondazione «Amelia Aimi», con sede in Fidenza. (028U0246)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/03/1928
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-246. R. decreto 12 gennaio 1928, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, la Fondazione «Amelia Aimi», con sede in Fidenza, viene eretta in ente morale con amministrazione autonoma e ne e' approvato lo statuto organico.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 28 febbraio 1928 - Anno VI
+246.
+
+R. decreto 12 gennaio 1928, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, la Fondazione «Amelia Aimi», con sede in Fidenza, viene eretta in ente morale con amministrazione autonoma e ne e' approvato lo statuto organico. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 28 febbraio 1928 - Anno VI

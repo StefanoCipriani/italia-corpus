@@ -1,16 +1,14 @@
-REGIO DECRETO 13 febbraio 1870 n. 5522
-
-
-REGIO DECRETO 13 febbraio 1870 n. 5522
-======================================
-
-Autorizza il Comitato esecutivo per le bonificazioni delle Valli Grandi Veronesi ed Ostigliesi a contrarre un prestito di lire 500,000. (070U5522)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/04/1870
+---
+tipo: REGIO DECRETO
+numero: 5522
+data: 1870-02-13
+titolo: "Autorizza il Comitato esecutivo per le bonificazioni delle Valli Grandi Veronesi ed Ostigliesi a contrarre un prestito di lire 500,000. (070U5522)"
+urn: urn:nir:stato:regio.decreto:1870-02-13;5522
+codice_redazionale: 070U5522
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,30 +28,23 @@ Veduto il Nostro Decreto 13 febbraio 1867;
 
 Veduto l'avviso del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro dei Lavori Pubblici, d'accordo con quello delle Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro dei Lavori Pubblici, d'accordo con quello delle Finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comitato esecutivo per le bonificazioni delle Valli Grandi Veronesi ed Ostigliesi, e pel miglioramento di altri terreni interessati nello scolo in Tartaro, e' autorizzato a contrarre un prestito di italiane lire 500,000, (quarta serie dell'imprestito), mediante la emissione di obbligazioni da lire mille ciascuna, in conformita' del Regolamento annesso al Decreto 13 febbraio 1867 sopraccennato.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 13 febbraio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 5 marzo 1870   
-  
-Reg. 50 Atti del Governo a c. 104. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Gadda.   
-Quintino Sella.   
-  
+Il Comitato esecutivo per le bonificazioni delle Valli Grandi Veronesi ed Ostigliesi, e pel miglioramento di altri terreni interessati nello scolo in Tartaro, e' autorizzato a contrarre un prestito di italiane lire 500,000, (quarta serie dell'imprestito), mediante la emissione di obbligazioni da lire mille ciascuna, in conformita' del Regolamento annesso al Decreto 13 febbraio 1867 sopraccennato. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 13 febbraio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 5 marzo 1870 
+ 
+ Reg. 50 Atti del Governo a c. 104. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Gadda. 
+ Quintino Sella.

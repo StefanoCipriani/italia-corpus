@@ -1,16 +1,14 @@
-REGIO DECRETO 22 aprile 1880 n. 5424
-
-
-REGIO DECRETO 22 aprile 1880 n. 5424
-====================================
-
-Che separa i comuni di Martina Olba e Tiglieto dalla sezione elettorale di Sassello e forma una sezione distinta del collegio di Cairo Montenotte, con sede in Martina Olba. (080U5424)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/05/1880
+---
+tipo: REGIO DECRETO
+numero: 5424
+data: 1880-04-22
+titolo: "Che separa i comuni di Martina Olba e Tiglieto dalla sezione elettorale di Sassello e forma una sezione distinta del collegio di Cairo Montenotte, con sede in Martina Olba. (080U5424)"
+urn: urn:nir:stato:regio.decreto:1880-04-22;5424
+codice_redazionale: 080U5424
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Ritenuto che gli elettori dei due comuni superano il numero fissato per minimo d
 
 Considerato che con la istituzione di una sezione elettorale in Martina Olba sara' reso piu' facile agli elettori l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Martina Olba e Tiglieto sono separati dalla sezione elettorale di Tiglieto, e formeranno una sezione distinta del Collegio elettorale di Cairo Montenotte, con la sede in Martina Olba.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato Roma, addi' 22 aprile 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+I comuni di Martina Olba e Tiglieto sono separati dalla sezione elettorale di Tiglieto, e formeranno una sezione distinta del Collegio elettorale di Cairo Montenotte, con la sede in Martina Olba. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato Roma, addi' 22 aprile 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

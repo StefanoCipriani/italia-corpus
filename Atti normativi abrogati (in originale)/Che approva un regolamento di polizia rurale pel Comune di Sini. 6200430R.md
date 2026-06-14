@@ -1,20 +1,17 @@
-REGIO DECRETO 08 giugno 1862 n. CCCCXXX
+---
+tipo: REGIO DECRETO
+numero: CCCCXXX
+data: 1862-06-08
+titolo: "Che approva un regolamento di polizia rurale pel Comune di Sini. (6200430R)"
+urn: urn:nir:stato:regio.decreto:1862-06-08;430
+codice_redazionale: 6200430R
+vigente: true
+---
 
-
-REGIO DECRETO 08 giugno 1862 n. CCCCXXX
-=======================================
-
-Che approva un regolamento di polizia rurale pel Comune di Sini. (6200430R)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/06/1862
-
-Art. 1
-------
+## Art. 1.
 
 Che approva il regolamento di polizia rurale adottato dalla Comunita' di Sini (Provincia di Cagliari) con deliberazione 17 aprile
 
-1861. 
-  
-  
+1861.
+
 Torino 8 giugno 1862

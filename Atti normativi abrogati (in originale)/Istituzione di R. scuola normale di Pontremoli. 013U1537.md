@@ -1,19 +1,15 @@
-REGIO DECRETO 21 dicembre 1913 n. 1537
+---
+tipo: REGIO DECRETO
+numero: 1537
+data: 1913-12-21
+titolo: "Istituzione di R. scuola normale di Pontremoli. (013U1537)"
+urn: urn:nir:stato:regio.decreto:1913-12-21;1537
+codice_redazionale: 013U1537
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 dicembre 1913 n. 1537
-======================================
-
-Istituzione di R. scuola normale di Pontremoli. (013U1537)
-----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/03/1914
-
-Art. 1
-------
-
-  
-N. 1537   
-  
-Regio Decreto 21 dicembre 1913, col quale, sulla proposta dei ministri dell'istruzione pubblica e del tesoro, viene istituita una R. scuola normale complementare promiscua in Pontremoli.   
-  
+N. 1537 
+ 
+ Regio Decreto 21 dicembre 1913, col quale, sulla proposta dei ministri dell'istruzione pubblica e del tesoro, viene istituita una R. scuola normale complementare promiscua in Pontremoli.

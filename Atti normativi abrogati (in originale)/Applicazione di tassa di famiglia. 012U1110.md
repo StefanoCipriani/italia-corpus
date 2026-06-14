@@ -1,19 +1,15 @@
-REGIO DECRETO 06 ottobre 1912 n. 1110
+---
+tipo: REGIO DECRETO
+numero: 1110
+data: 1912-10-06
+titolo: "Applicazione di tassa di famiglia. (012U1110)"
+urn: urn:nir:stato:regio.decreto:1912-10-06;1110
+codice_redazionale: 012U1110
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 ottobre 1912 n. 1110
-=====================================
-
-Applicazione di tassa di famiglia. (012U1110)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 13/11/1912
-
-Art. 1
-------
-
-  
-N. 1110   
-  
-Regio Decreto 6 ottobre 1912, col quale, sulla proposta del ministro delle finanze, viene data facolta' al comune di Correggio di applicare nel 1912 la tassa di famiglia in base alla tariffa deliberata nell'adunanza consiliare del 6 luglio 1912.   
-  
+N. 1110 
+ 
+ Regio Decreto 6 ottobre 1912, col quale, sulla proposta del ministro delle finanze, viene data facolta' al comune di Correggio di applicare nel 1912 la tassa di famiglia in base alla tariffa deliberata nell'adunanza consiliare del 6 luglio 1912.

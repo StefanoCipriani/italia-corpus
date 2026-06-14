@@ -1,25 +1,21 @@
-REGIO DECRETO 17 luglio 1913 n. 946
+---
+tipo: REGIO DECRETO
+numero: 946
+data: 1913-07-17
+titolo: "Modificazione del ruolo organico della Regia Universita' di Napoli. (013U0946)"
+urn: urn:nir:stato:regio.decreto:1913-07-17;946
+codice_redazionale: 013U0946
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 luglio 1913 n. 946
-===================================
-
-Modificazione del ruolo organico della Regia Universita' di Napoli. (013U0946)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/09/1913
-
-Art. 1
-------
-
-  
-N. 946   
-  
-Regio Decreto 17 luglio 1913, col quale, sulla proposta del ministro dell'istruzione pubblica, il ruolo organico del personale del gabinetto di anatomia patologica della R. Universita' di Napoli, approvato col [R. decreto 7 luglio 1907, n. 594](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-07;594), e' modificato come segue:   
-  
-Direttore . . . . . . . . L. 700   
-2 Bacillari a L. 900 . . . » 1800   
-------   
-L. 2500   
-------   
-  
+N. 946 
+ 
+ Regio Decreto 17 luglio 1913, col quale, sulla proposta del ministro dell'istruzione pubblica, il ruolo organico del personale del gabinetto di anatomia patologica della R. Universita' di Napoli, approvato col [R. decreto 7 luglio 1907, n. 594](Che%20modifica%20il%20ruolo%20organico%20di%20taluni%20Istituti%20scientifici%20annessi%20alle%20RR.%20universita.%20007U0594.md), e' modificato come segue: 
+ 
+ Direttore . . . . . . . . L. 700 
+ 2 Bacillari a L. 900 . . . » 1800 
+ ------ 
+ L. 2500 
+ ------

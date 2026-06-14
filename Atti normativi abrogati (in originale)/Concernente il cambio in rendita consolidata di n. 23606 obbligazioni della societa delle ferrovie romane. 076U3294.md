@@ -1,16 +1,14 @@
-REGIO DECRETO 06 agosto 1876 n. 3294
-
-
-REGIO DECRETO 06 agosto 1876 n. 3294
-====================================
-
-Concernente il cambio in rendita consolidata di n. 23,606 obbligazioni della societa' delle ferrovie romane. (076U3294)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/09/1876
+---
+tipo: REGIO DECRETO
+numero: 3294
+data: 1876-08-06
+titolo: "Concernente il cambio in rendita consolidata di n. 23,606 obbligazioni della societa' delle ferrovie romane. (076U3294)"
+urn: urn:nir:stato:regio.decreto:1876-08-06;3294
+codice_redazionale: 076U3294
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,41 +22,26 @@ Ritenuto che successivamente vennero presentate alla conversione, alle condizion
 
 Considerato che occorre percio' di provvedere alla iscrizione nel Gran Libro del Debito Pubblico della rendita di lire 354,090, in aumento al consolidato 5 per %, e che per le vigenti norme il pagamento della rendita stessa non puo' essere fatto che con decorrenza dal 1° luglio 1876 a carico del capitolo 1° del bilancio definitivo di previsione della spesa delle Finanze per il corrente anno, provvedendosi, al pagamento delle tre rate d'interessi al 1° luglio 1875 e 1° gennaio e 1° luglio 1876, a carico del capitolo 41 del detto bilancio definitivo di previsione;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per le Finanze, Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del Presidente del Consiglio dei Ministri, Ministro per le Finanze, Abbiamo ordinato ed ordiniamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+La Direzione Generale del Debito Pubblico e' autorizzata a tenere a disposizione del Ministero delle Finanze le numero 23606 Obbligazioni comuni della Societa' delle Ferrovie Romane che le furono ultimamente presentate per la conversione in rendita consolidata 5 per %, per la complessiva rendita di lire trecentocinquantaquattromila novanta (L. 354,090), con decorrenza dal 1° gennaio 1873.
 
-  
-  
-La Direzione Generale del Debito Pubblico e' autorizzata a tenere a disposizione del Ministero delle Finanze le numero 23606 Obbligazioni comuni della Societa' delle Ferrovie Romane che le furono ultimamente presentate per la conversione in rendita consolidata 5 per %, per la complessiva rendita di lire trecentocinquantaquattromila novanta (L. 354,090), con decorrenza dal 1° gennaio 1873.   
-  
+## Art. 2.
 
-Art. 2
-------
+In cambio delle Obbligazioni indicate nel precedente articolo sara' iscritta nel Gran Libro del Debito Pubblico, in aumento al consolidato 5 per %, la corrispondente annua rendita di lire trecentocinquantaquattromila novanta (L. 354,090), con decorrenza dal 1° luglio 1876.
 
-  
-  
-In cambio delle Obbligazioni indicate nel precedente articolo sara' iscritta nel Gran Libro del Debito Pubblico, in aumento al consolidato 5 per %, la corrispondente annua rendita di lire trecentocinquantaquattromila novanta (L. 354,090), con decorrenza dal 1° luglio 1876.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il fondo stanziato al capitolo 1° del bilancio definitivo di previsione della spesa del Ministero delle Finanze per l'anno 1876 sara' aumentato di lire centosettantasettemila quarantacinque (Lire 177,045), importo lordo del semestre al 1° gennaio 1877, sulla rendita di cui all'art. 2.   
-  
-Sara' pure aumentato il fondo del capitolo 41 del detto bilancio definitivo di previsione della somma di lire cinquecentotrentunmila centotrentacinque (L. 531,135), per i semestri al 1° luglio 1875 e 1° gennaio e 1° luglio 1876, sulla rendita dovuta in cambio coma sopra.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, addi' 6 agosto 1876.   
-  
-VITTORIO EMANUELE.   
-  
-Depretis.   
-  
+Il fondo stanziato al capitolo 1° del bilancio definitivo di previsione della spesa del Ministero delle Finanze per l'anno 1876 sara' aumentato di lire centosettantasettemila quarantacinque (Lire 177,045), importo lordo del semestre al 1° gennaio 1877, sulla rendita di cui all'art. 2. 
+ 
+ Sara' pure aumentato il fondo del capitolo 41 del detto bilancio definitivo di previsione della somma di lire cinquecentotrentunmila centotrentacinque (L. 531,135), per i semestri al 1° luglio 1875 e 1° gennaio e 1° luglio 1876, sulla rendita dovuta in cambio coma sopra. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, addi' 6 agosto 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Depretis.

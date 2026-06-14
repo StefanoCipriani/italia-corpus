@@ -1,19 +1,15 @@
-REGIO DECRETO 06 giugno 1907 n. CCXL
+---
+tipo: REGIO DECRETO
+numero: CCXL
+data: 1907-06-06
+titolo: "Trasformazione di patrimonio a scopo elemosiniero. (0700240R)"
+urn: urn:nir:stato:regio.decreto:1907-06-06;240
+codice_redazionale: 0700240R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 giugno 1907 n. CCXL
-====================================
-
-Trasformazione di patrimonio a scopo elemosiniero. (0700240R)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/07/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCXL (Dato a Roma, il 6 giugno 1907), col quale il fine inerente al patrimonio della confraternita della Misericordia esistente in Canino (Roma), e' stato parzialmente trasformato a favore dell'ospedale civico del luogo, riservate annue L. 75.00 sulle rendite del pio sodalizio, alla confraternita medesima per spese di culto.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCXL (Dato a Roma, il 6 giugno 1907), col quale il fine inerente al patrimonio della confraternita della Misericordia esistente in Canino (Roma), e' stato parzialmente trasformato a favore dell'ospedale civico del luogo, riservate annue L. 75.00 sulle rendite del pio sodalizio, alla confraternita medesima per spese di culto.

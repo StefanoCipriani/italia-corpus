@@ -1,22 +1,20 @@
-REGIO DECRETO 27 novembre 1910 n. 938
-
-
-REGIO DECRETO 27 novembre 1910 n. 938
-=====================================
-
-Concernente i mandati di anticipazione per indennita' a favore di sopraintendenti e direttori dei monumenti, dei musei e scavi archeologici del Ministero della pubblica istruzione. (010U0938)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/02/1911
+---
+tipo: REGIO DECRETO
+numero: 938
+data: 1910-11-27
+titolo: "Concernente i mandati di anticipazione per indennita' a favore di sopraintendenti e direttori dei monumenti, dei musei e scavi archeologici del Ministero della pubblica istruzione. (010U0938)"
+urn: urn:nir:stato:regio.decreto:1910-11-27;938
+codice_redazionale: 010U0938
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 13 aprile 1882, n. 811](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-04-13;811), che approva il regolamento per le spese da farsi ad economia in servizio del Ministero della pubblica istruzione;
+Visto il [R. decreto 13 aprile 1882, n. 811](Che%20approva%20il%20regolamento%20per%20le%20spese%20da%20farsi%20ad%20economia%20in%20servizio%20del%20Ministero%20della%20pubblica%20istruzione.%20082U0811.md), che approva il regolamento per le spese da farsi ad economia in servizio del Ministero della pubblica istruzione;
 
 Visto l'art. 16 della legge di contabilita' generale dello Stato e gli articoli 318-319 del relativo regolamento;
 
@@ -24,25 +22,18 @@ Ritenuto che per speciali esigenze del Ministero della pubblica istruzione occor
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per la pubblica istruzione, di concerto con il Nostro ministro segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per la pubblica istruzione, di concerto con il Nostro ministro segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Potranno essere tratti mandati di anticipazione a favore dei RR. sopraintendenti ai monumenti, ai musei e scavi archeologici, alle gallerie e alle opere d'arte e dei direttori dei RR. musei e delle RR. gallerie, o per essi, a favore dei rispettivi segretari-economi, sul capitolo del bilancio passivo del Ministero dell'istruzione pubblica riguardante indennita' per ispezioni e missioni in servizio delle antichita' e belle arti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 novembre 1910.   
-  
-VITTORIO EMANUELE.   
-  
-Tedesco - Credaro.   
-  
-Visto, Il guardasigilli: Fani.   
-  
+Potranno essere tratti mandati di anticipazione a favore dei RR. sopraintendenti ai monumenti, ai musei e scavi archeologici, alle gallerie e alle opere d'arte e dei direttori dei RR. musei e delle RR. gallerie, o per essi, a favore dei rispettivi segretari-economi, sul capitolo del bilancio passivo del Ministero dell'istruzione pubblica riguardante indennita' per ispezioni e missioni in servizio delle antichita' e belle arti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 novembre 1910. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Tedesco - Credaro. 
+ 
+ Visto, Il guardasigilli: Fani.

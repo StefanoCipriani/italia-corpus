@@ -1,19 +1,15 @@
-REGIO DECRETO 01 aprile 1906 n. LXXVIII
+---
+tipo: REGIO DECRETO
+numero: LXXVIII
+data: 1906-04-01
+titolo: "Applicazione di tassa di famiglia. (0600078R)"
+urn: urn:nir:stato:regio.decreto:1906-04-01;78
+codice_redazionale: 0600078R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 aprile 1906 n. LXXVIII
-=======================================
-
-Applicazione di tassa di famiglia. (0600078R)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 06/05/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. LXXVIII (Dato a Roma, il 1° aprile 1906), col quale e' data facolta' al comune di Codogno di applicare, nell'anno 1906, la tassa di famiglia col limite massimo di L. 500 (cinquecento).   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. LXXVIII (Dato a Roma, il 1° aprile 1906), col quale e' data facolta' al comune di Codogno di applicare, nell'anno 1906, la tassa di famiglia col limite massimo di L. 500 (cinquecento).

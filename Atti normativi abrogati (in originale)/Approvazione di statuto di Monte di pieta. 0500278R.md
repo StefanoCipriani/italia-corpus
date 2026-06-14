@@ -1,19 +1,15 @@
-REGIO DECRETO 24 luglio 1905 n. CCLXXVIII
+---
+tipo: REGIO DECRETO
+numero: CCLXXVIII
+data: 1905-07-24
+titolo: "Approvazione di statuto di Monte di pieta'. (0500278R)"
+urn: urn:nir:stato:regio.decreto:1905-07-24;278
+codice_redazionale: 0500278R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 luglio 1905 n. CCLXXVIII
-=========================================
-
-Approvazione di statuto di Monte di pieta'. (0500278R)
-------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/10/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. CCLXXVIII (Dato a Racconigi, il 24 luglio 1905), col quale si approva il nuovo statuto del Monte di pieta' di Cesena.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. CCLXXVIII (Dato a Racconigi, il 24 luglio 1905), col quale si approva il nuovo statuto del Monte di pieta' di Cesena.

@@ -1,32 +1,27 @@
-REGIO DECRETO 26 febbraio 1893 n. CXXI
+---
+tipo: REGIO DECRETO
+numero: CXXI
+data: 1893-02-26
+titolo: "Che concentra nella congregazione di carita' di Ormea (Cuneo) l'opera pia Battaglieri e Gallo. (9300121R)"
+urn: urn:nir:stato:regio.decreto:1893-02-26;121
+codice_redazionale: 9300121R
+vigente: true
+---
 
+## Articolo unico.
 
-REGIO DECRETO 26 febbraio 1893 n. CXXI
-======================================
-
-Che concentra nella congregazione di carita' di Ormea (Cuneo) l'opera pia Battaglieri e Gallo. (9300121R)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/04/1893
-
-Articolo unico
---------------
-
-  
-  
-L'opera pia Battaglieri e Gallo del comune di Ormea e' concentrata nella locale congregazione di carita'.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 26 febbraio 1893.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 9 marzo 1893.   
-  
-Reg. 190. Atti del Governo a f. 180. Gaffino.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Bonacci.   
-  
-G. Giolitti.   
-  
+L'opera pia Battaglieri e Gallo del comune di Ormea e' concentrata nella locale congregazione di carita'. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 febbraio 1893. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 9 marzo 1893. 
+ 
+ Reg. 190. Atti del Governo a f. 180. Gaffino. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Bonacci. 
+ 
+ G. Giolitti.

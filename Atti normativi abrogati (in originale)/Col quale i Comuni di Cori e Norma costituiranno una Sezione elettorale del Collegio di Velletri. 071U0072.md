@@ -1,16 +1,14 @@
-REGIO DECRETO 23 febbraio 1871 n. 72
-
-
-REGIO DECRETO 23 febbraio 1871 n. 72
-====================================
-
-Col quale i Comuni di Cori e Norma costituiranno una Sezione elettorale del Collegio di Velletri. (071U0072)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/03/1871
+---
+tipo: REGIO DECRETO
+numero: 72
+data: 1871-02-23
+titolo: "Col quale i Comuni di Cori e Norma costituiranno una Sezione elettorale del Collegio di Velletri. (071U0072)"
+urn: urn:nir:stato:regio.decreto:1871-02-23;72
+codice_redazionale: 071U0072
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nei Comuni stessi piu' di 40 elettori inscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Cori e Norma costituiranno d'ora in poi una Sezione elettorale del Collegio di Velletri, n. 506, con sede nel capoluogo del Comune di Cori.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Rossore addi' 23 febbraio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 27 febbraio 1871   
-  
-Reg. 54 Atti del Governo a c. 167. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+I Comuni di Cori e Norma costituiranno d'ora in poi una Sezione elettorale del Collegio di Velletri, n. 506, con sede nel capoluogo del Comune di Cori. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Rossore addi' 23 febbraio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 febbraio 1871 
+ 
+ Reg. 54 Atti del Governo a c. 167. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

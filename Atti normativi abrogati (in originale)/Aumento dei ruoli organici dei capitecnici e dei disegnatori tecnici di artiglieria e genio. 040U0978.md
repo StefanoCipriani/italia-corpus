@@ -1,16 +1,14 @@
-REGIO DECRETO 02 maggio 1940 n. 978
-
-
-REGIO DECRETO 02 maggio 1940 n. 978
-===================================
-
-Aumento dei ruoli organici dei capitecnici e dei disegnatori tecnici di artiglieria e genio. (040U0978)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/08/1940
+---
+tipo: REGIO DECRETO
+numero: 978
+data: 1940-05-02
+titolo: "Aumento dei ruoli organici dei capitecnici e dei disegnatori tecnici di artiglieria e genio. (040U0978)"
+urn: urn:nir:stato:regio.decreto:1940-05-02;978
+codice_redazionale: 040U0978
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -36,63 +34,51 @@ Sentito il Consiglio dei Ministri;
 
 Sulla proposta del DUCE dei Fascismo, Capo dei Governo, Ministro
 
-per
----
+per la guerra, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-la guerra, di concerto col Ministro le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Gli attuali ruoli organici dei capitecnici d'artiglieria e genio e dei disegnatori tecnici d'artiglieria e genio sono sostituiti da 
+quelli risultanti dalle seguenti tabelle A e D: 
+ 
+ 
 
-  
-  
-Gli attuali ruoli organici dei capitecnici d'artiglieria e genio e dei disegnatori tecnici d'artiglieria e genio sono sostituiti da   
-quelli risultanti dalle seguenti tabelle A e D:   
-  
-  
-  
-Ruolo organico dei capitecnici d'artigheria e genio  
-(gruppo B).  
-Numero Grado del posti  
-8° - Capitecnici capi oficina . . . . . . . . . . . . . . . 20  
-9° - Primi capitecici . . . . . . . . . . . . . . . . . . . 41  
-10°- Capitecnici . . . . . . . . . . . . . . . . . . . . .\  
-70  
-11°- Capitecnici aggiunti . . . . . . . . . . . . . . . . /  
-----  
-Totale . . . . . . . 131  
-  
-TABELLA B.  
-Ruolo organico dei disegnatori tecnici di artiglieria e genio (gruppo B).  
-Numero Grado dei posti  
-8° - Capi disegnatori tecnici principali . . . . . . . . . 22  
-9° - Capi disegnatori tecnici . . . . . . . . . . .. . . . 43  
-10°- Disegnatori tecnici . . . . . . .. . . . . . . . . . \  
-67  
-11°- Disegnatori tecnici aggiunti . . . .. . . . . . . . ./  
------  
-Totale . . . . . . 132  
-  
-  
-  
+ Ruolo organico dei capitecnici d'artigheria e genio
+ (gruppo B).
+ Numero Grado del posti
+ 8° - Capitecnici capi oficina . . . . . . . . . . . . . . . 20
+ 9° - Primi capitecici . . . . . . . . . . . . . . . . . . . 41
+ 10°- Capitecnici . . . . . . . . . . . . . . . . . . . . .\
+ 70
+ 11°- Capitecnici aggiunti . . . . . . . . . . . . . . . . /
+ ----
+ Totale . . . . . . . 131
 
-Art. 2
-------
+ TABELLA B.
+ Ruolo organico dei disegnatori tecnici di artiglieria e genio (gruppo B).
+ Numero Grado dei posti
+ 8° - Capi disegnatori tecnici principali . . . . . . . . . 22
+ 9° - Capi disegnatori tecnici . . . . . . . . . . .. . . . 43
+ 10°- Disegnatori tecnici . . . . . . .. . . . . . . . . . \
+ 67
+ 11°- Disegnatori tecnici aggiunti . . . .. . . . . . . . ./
+ -----
+ Totale . . . . . . 132
 
-  
-  
-Il presente decreto entra in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 maggio 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 30 luglio 1940-XVIII   
-  
-Atti del Governo, registro 423, foglio 152. - Mancini   
+## Art. 2.
+
+Il presente decreto entra in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 maggio 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 30 luglio 1940-XVIII 
+ 
+ Atti del Governo, registro 423, foglio 152. - Mancini

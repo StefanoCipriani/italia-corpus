@@ -1,19 +1,15 @@
-REGIO DECRETO 09 giugno 1907 n. CCXXVI
+---
+tipo: REGIO DECRETO
+numero: CCXXVI
+data: 1907-06-09
+titolo: "Applicazione di tassa di famiglia. (0700226R)"
+urn: urn:nir:stato:regio.decreto:1907-06-09;226
+codice_redazionale: 0700226R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 giugno 1907 n. CCXXVI
-======================================
-
-Applicazione di tassa di famiglia. (0700226R)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 18/07/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CCXXVI (Dato a Roma, il 9 giugno 1907), col quale e' data facolta' al comune di Rutino di applicare, nell'anno 1907, la tassa di famiglia col minimo imponibile di L. 200 (duecento).   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CCXXVI (Dato a Roma, il 9 giugno 1907), col quale e' data facolta' al comune di Rutino di applicare, nell'anno 1907, la tassa di famiglia col minimo imponibile di L. 200 (duecento).

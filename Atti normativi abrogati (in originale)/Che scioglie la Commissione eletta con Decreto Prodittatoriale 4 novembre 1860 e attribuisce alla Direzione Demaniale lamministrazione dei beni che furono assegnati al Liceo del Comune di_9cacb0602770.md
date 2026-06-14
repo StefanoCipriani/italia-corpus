@@ -1,16 +1,14 @@
-REGIO DECRETO 28 gennaio 1864 n. 1718
-
-
-REGIO DECRETO 28 gennaio 1864 n. 1718
-=====================================
-
-Che scioglie la Commissione eletta con Decreto Prodittatoriale 4 novembre 1860, e attribuisce alla Direzione Demaniale l'amministrazione dei beni che furono assegnati al Liceo del Comune di Modica. (064U1718)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/04/1864
+---
+tipo: REGIO DECRETO
+numero: 1718
+data: 1864-01-28
+titolo: "Che scioglie la Commissione eletta con Decreto Prodittatoriale 4 novembre 1860, e attribuisce alla Direzione Demaniale l'amministrazione dei beni che furono assegnati al Liceo del Comune di Modica. (064U1718)"
+urn: urn:nir:stato:regio.decreto:1864-01-28;1718
+codice_redazionale: 064U1718
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,45 +26,29 @@ Visto che secondo il voto del Consiglio Municipale di Modica e il parere conform
 
 Visto il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposizione del Nostro Ministro Segretario di Stato per la pubblica Istruzione, di concerto con quello delle Finanze; Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Ministro Segretario di Stato per la pubblica Istruzione, di concerto con quello delle Finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La Commissione eletta per Decreto Prodittatoriale del 4 novembre 1860 ad amministrare i beni che furono assegnati al Liceo del Comune di Modica con Decreto del di' 23 ottobre dello stesso anno, e' sciolta.
 
-  
-  
-La Commissione eletta per Decreto Prodittatoriale del 4 novembre 1860 ad amministrare i beni che furono assegnati al Liceo del Comune di Modica con Decreto del di' 23 ottobre dello stesso anno, e' sciolta.   
-  
+## Art. 2.
 
-Art. 2
-------
+L'amministrazione de' detti beni a partire dal 1.° febbraio 1864, sara' tenuta dalla Direzione Demaniale, sotto la dipendenza del Ministero delle Finanze.
 
-  
-  
-L'amministrazione de' detti beni a partire dal 1.° febbraio 1864, sara' tenuta dalla Direzione Demaniale, sotto la dipendenza del Ministero delle Finanze.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-I Nostri Ministri Segretari di Stato della pubblica Istruzione e delle Finanze sono incaricati, ciascuno per la parte che lo riguarda, della esecuzione del presente, Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 28 gennaio 1864.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 1° aprile 1864   
-Reg.° 29 Atti del Governo a c. 1. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI.   
-  
-M. AMARI.   
-M. MINGHETTI.   
-  
-  
+I Nostri Ministri Segretari di Stato della pubblica Istruzione e delle Finanze sono incaricati, ciascuno per la parte che lo riguarda, della esecuzione del presente, Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 28 gennaio 1864. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 1° aprile 1864 
+ Reg.° 29 Atti del Governo a c. 1. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI. 
+ 
+ M. AMARI. 
+ M. MINGHETTI.

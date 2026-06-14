@@ -1,21 +1,17 @@
-REGIO DECRETO 15 settembre 1895 n. DCLII
+---
+tipo: REGIO DECRETO
+numero: DCLII
+data: 1895-09-15
+titolo: "Che respinge il ricorso presentato dal municipio e dalla congregazione di carita' di Mozzate contro l'ordinanza dei prefetto di Como e la fondazione disposta dalla defunta signora Teresa Dugnani dei Marchesi Viani, e' dichiarata istituzione pubblica di beneficenza e costituita in ente morale. (9500652R)"
+urn: urn:nir:stato:regio.decreto:1895-09-15;652
+codice_redazionale: 9500652R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 settembre 1895 n. DCLII
-========================================
-
-Che respinge il ricorso presentato dal municipio e dalla congregazione di carita' di Mozzate contro l'ordinanza dei prefetto di Como e la fondazione disposta dalla defunta signora Teresa Dugnani dei Marchesi Viani, e' dichiarata istituzione pubblica di beneficenza e costituita in ente morale. (9500652R)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/12/1895
-
-Art. 1
-------
-
-  
-Col quale il ricorso presentato dal municipio e dalla congregazione di carita' di Mozzate contro l'ordinanza dei prefetto di Como in data 17 ottobre 1893, e' respinto, e la fondazione disposta dalla defunta signora Teresa Dugnani dei Marchesi Viani, e' dichiarata istituzione pubblica di beneficenza e costituita in ente morale. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 6 dicembre 1895.   
-  
-Reg. 202. Atti del Governo a f. 214.   
-  
+Col quale il ricorso presentato dal municipio e dalla congregazione di carita' di Mozzate contro l'ordinanza dei prefetto di Como in data 17 ottobre 1893, e' respinto, e la fondazione disposta dalla defunta signora Teresa Dugnani dei Marchesi Viani, e' dichiarata istituzione pubblica di beneficenza e costituita in ente morale. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 6 dicembre 1895. 
+ 
+ Reg. 202. Atti del Governo a f. 214.

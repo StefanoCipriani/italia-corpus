@@ -1,21 +1,21 @@
-REGIO DECRETO 22 maggio 1930 n. 867
+---
+tipo: REGIO DECRETO
+numero: 867
+data: 1930-05-22
+titolo: "Soppressione dell'«Ente autonomo di assistenza agli orfani di guerra» con sede in Noto. (030U0867)"
+urn: urn:nir:stato:regio.decreto:1930-05-22;867
+codice_redazionale: 030U0867
+vigente: true
+---
 
-
-REGIO DECRETO 22 maggio 1930 n. 867
-===================================
-
-Soppressione dell'«Ente autonomo di assistenza agli orfani di guerra» con sede in Noto. (030U0867)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/07/1930
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-867. R. decreto 22 maggio 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, l'«Ente autonomo di assistenza agli orfani di guerra» in Noto e' soppresso ed il presidente della Cassa scolastica della Regia scuola complementare «G. Melodia» di Noto e' autorizzato ad accettare il residuo fondo dell'ente anzidetto, di L. 3462,54, oltre ai relativi interessi, con l'obbligo di istituire borse di studio.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 1° luglio 1930 - Anno VIII
+867.
+
+R. decreto 22 maggio 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, l'«Ente autonomo di assistenza agli orfani di guerra» in Noto e' soppresso ed il presidente della Cassa scolastica della Regia scuola complementare «G. Melodia» di Noto e' autorizzato ad accettare il residuo fondo dell'ente anzidetto, di L. 3462,54, oltre ai relativi interessi, con l'obbligo di istituire borse di studio. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 1° luglio 1930 - Anno VIII

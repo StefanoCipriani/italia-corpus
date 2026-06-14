@@ -1,19 +1,15 @@
-REGIO DECRETO 13 marzo 1911 n. 265
+---
+tipo: REGIO DECRETO
+numero: 265
+data: 1911-03-13
+titolo: "Applicazione di tassa di famiglia. (011U0265)"
+urn: urn:nir:stato:regio.decreto:1911-03-13;265
+codice_redazionale: 011U0265
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 marzo 1911 n. 265
-==================================
-
-Applicazione di tassa di famiglia. (011U0265)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 28/04/1911
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. 265 (Dato a Roma, il 13 marzo 1911), col quale e' data facolta' al comune di Arzignano (Vicenza) di applicare nel biennio 1911-912 la tassa di famiglia coll'aliquota massima di L. 1.50.   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. 265 (Dato a Roma, il 13 marzo 1911), col quale e' data facolta' al comune di Arzignano (Vicenza) di applicare nel biennio 1911-912 la tassa di famiglia coll'aliquota massima di L. 1.50.

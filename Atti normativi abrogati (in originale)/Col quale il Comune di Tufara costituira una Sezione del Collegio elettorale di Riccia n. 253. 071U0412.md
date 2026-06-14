@@ -1,16 +1,14 @@
-REGIO DECRETO 26 agosto 1871 n. 412
-
-
-REGIO DECRETO 26 agosto 1871 n. 412
-===================================
-
-Col quale il Comune di Tufara costituira' una Sezione del Collegio elettorale di Riccia, n. 253. (071U0412)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/09/1871
+---
+tipo: REGIO DECRETO
+numero: 412
+data: 1871-08-26
+titolo: "Col quale il Comune di Tufara costituira' una Sezione del Collegio elettorale di Riccia, n. 253. (071U0412)"
+urn: urn:nir:stato:regio.decreto:1871-08-26;412
+codice_redazionale: 071U0412
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta Ministro Segretario di Stato per gli Affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta Ministro Segretario di Stato per gli Affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Tufara costituira' d'ora in poi una sezione del collegio di Riccia con sede nel capoluogo dello stesso comune.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 26 agosto 1871.   
-  
-VITTORIO EMANUELE   
-  
-G. Lanza.   
-  
+Il Comune di Tufara costituira' d'ora in poi una sezione del collegio di Riccia con sede nel capoluogo dello stesso comune. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 26 agosto 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ G. Lanza.

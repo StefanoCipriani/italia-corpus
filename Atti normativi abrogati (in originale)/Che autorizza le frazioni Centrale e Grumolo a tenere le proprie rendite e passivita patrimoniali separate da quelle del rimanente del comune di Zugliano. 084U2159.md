@@ -1,16 +1,14 @@
-REGIO DECRETO 02 marzo 1884 n. 2159
-
-
-REGIO DECRETO 02 marzo 1884 n. 2159
-===================================
-
-Che autorizza le frazioni Centrale e Grumolo a tenere le proprie rendite e passivita' patrimoniali separate da quelle del rimanente del comune di Zugliano. (084U2159)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/05/1884
+---
+tipo: REGIO DECRETO
+numero: 2159
+data: 1884-03-02
+titolo: "Che autorizza le frazioni Centrale e Grumolo a tenere le proprie rendite e passivita' patrimoniali separate da quelle del rimanente del comune di Zugliano. (084U2159)"
+urn: urn:nir:stato:regio.decreto:1884-03-02;2159
+codice_redazionale: 084U2159
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,24 +22,18 @@ Veduta la deliberazione del Consiglio comunale di Zugliano in data 20 dicembre 1
 
 Visti gli articoli 13 e 16 della legge comunale e provinciale 20 marzo 1865, allegato A;
 
-Vista
------
+Vista la legge 30 giugno 1880, n. 5516, Abbiamo decretato e decretiamo:
 
-la legge 30 giugno 1880, n. 5516, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
-
-  
-  
-Le frazioni Centrale e Grumolo sono autorizzate a tenere le proprie rendite e passivita' patrimoniali e le spese contemplate dall'ultimo paragrafo dall'art. 13 della legge comunale separate da quelle del rimanente del comune di Zugliano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 marzo 1884.   
-  
-UMBERTO.   
-  
-DEPRETIS.   
-  
-Visto, Il Guardasigilli: SAVELLI.   
+Le frazioni Centrale e Grumolo sono autorizzate a tenere le proprie rendite e passivita' patrimoniali e le spese contemplate dall'ultimo paragrafo dall'art. 13 della legge comunale separate da quelle del rimanente del comune di Zugliano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 marzo 1884. 
+ 
+ UMBERTO. 
+ 
+ DEPRETIS. 
+ 
+ Visto, Il Guardasigilli: SAVELLI.

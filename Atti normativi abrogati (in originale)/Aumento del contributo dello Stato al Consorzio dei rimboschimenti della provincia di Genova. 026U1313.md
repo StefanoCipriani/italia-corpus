@@ -1,16 +1,14 @@
-REGIO DECRETO 25 giugno 1926 n. 1313
-
-
-REGIO DECRETO 25 giugno 1926 n. 1313
-====================================
-
-Aumento del contributo dello Stato al Consorzio dei rimboschimenti della provincia di Genova. (026U1313)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/08/1926
+---
+tipo: REGIO DECRETO
+numero: 1313
+data: 1926-06-25
+titolo: "Aumento del contributo dello Stato al Consorzio dei rimboschimenti della provincia di Genova. (026U1313)"
+urn: urn:nir:stato:regio.decreto:1926-06-25;1313
+codice_redazionale: 026U1313
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,32 +22,26 @@ Visto che la Provincia stessa ha portato il suo contributo a L. 30,000, come ris
 
 Vista la deliberazione 16 marzo 1926 del Comitato di amministrazione dell'Azienda del demanio forestale di Stato;
 
-Visto l'[art. 75 del R. decreto 30 dicembre 1923, n. 3267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267~art75);
+Visto l'[art. 75 del R. decreto 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267#art_75);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il contributo annuo dello Stato nei lavori di rimboschimento da eseguirsi nella provincia di Genova, a cura di quel Comitato forestale, determinato sino alla somma di L. 15.000 col [R. decreto 27 febbraio 1898, n. 93](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-02-27;93), e' aumentato, a decorrere dall'esercizio finanziario 1926-1927, sino alla somma di L. 30,000, corrispondente al contributo stabilito dalla Provincia interessata.   
-  
-La somma di L. 30,000 anzidetta sara' prelevata dal fondo stanziato all'art. 4 del bilancio passivo dell'Azienda del demanio forestale di Stato per l'esercizio 1926-1927 ed all'articolo corrispondente dei bilanci per gli esercizi futuri.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 25 giugno 1926.   
-  
-VITTORIO EMANUELE.   
-  
-Belluzzo.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 2 agosto 1926.   
-  
-Atti del Governo, registro 251, foglio 11. - Coop   
+Il contributo annuo dello Stato nei lavori di rimboschimento da eseguirsi nella provincia di Genova, a cura di quel Comitato forestale, determinato sino alla somma di L. 15.000 col [R. decreto 27 febbraio 1898, n. 93](Che%20aumenta%20il%20contributo%20annuo%20del%20governo%20nei%20lavori%20di%20rimboscamento%20da%20eseguirsi%20nella%20provincia%20di%20Genova.%20098U0093.md), e' aumentato, a decorrere dall'esercizio finanziario 1926-1927, sino alla somma di L. 30,000, corrispondente al contributo stabilito dalla Provincia interessata. 
+ 
+ La somma di L. 30,000 anzidetta sara' prelevata dal fondo stanziato all'art. 4 del bilancio passivo dell'Azienda del demanio forestale di Stato per l'esercizio 1926-1927 ed all'articolo corrispondente dei bilanci per gli esercizi futuri. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 25 giugno 1926. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Belluzzo. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 2 agosto 1926. 
+ 
+ Atti del Governo, registro 251, foglio 11. - Coop

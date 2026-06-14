@@ -1,16 +1,14 @@
-REGIO DECRETO 08 giugno 1905 n. 326
-
-
-REGIO DECRETO 08 giugno 1905 n. 326
-===================================
-
-Proibizione della pesca delle spugne nella zona delle acque marine di Gallipoli. (005U0326)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/07/1905
+---
+tipo: REGIO DECRETO
+numero: 326
+data: 1905-06-08
+titolo: "Proibizione della pesca delle spugne nella zona delle acque marine di Gallipoli. (005U0326)"
+urn: urn:nir:stato:regio.decreto:1905-06-08;326
+codice_redazionale: 005U0326
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,34 +26,23 @@ Udito il Consiglio dei ministri;
 
 Riconosciuta la opportunita' di provvedimenti in favore della conservazione e riproduzione delle spugne in alcune zone delle acque marine di Gallipoli;
 
-Sulla
------
+Sulla proposta del Nostro ministro Segretario di Stato per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro Segretario di Stato per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' vietata la pesca delle spugne nella zona delle acque marine di Gallipoli compresa tra la costa, la congiungente il fanale Sant'Andrea e la torre Calimena, ed il settore fino all'allineamento tra il fanale Sant'Andrea e il campanile di Sant'Agata.
 
-  
-  
-E' vietata la pesca delle spugne nella zona delle acque marine di Gallipoli compresa tra la costa, la congiungente il fanale Sant'Andrea e la torre Calimena, ed il settore fino all'allineamento tra il fanale Sant'Andrea e il campanile di Sant'Agata.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-I trasgressori di questo decreto saranno puniti con le pene sancite negli articoli 90 e 96 del regolamento sulla pesca marittima 13 novembre 1882, n. 1090.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 giugno 1905.   
-  
-VITTORIO EMANUELE.   
-  
-A. Fortis.   
-Rava.   
-  
-Visto, Il guardasigilli: C. Finocchiaro-Aprile.   
-  
+I trasgressori di questo decreto saranno puniti con le pene sancite negli articoli 90 e 96 del regolamento sulla pesca marittima 13 novembre 1882, n. 1090. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 giugno 1905. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ A. Fortis. 
+ Rava. 
+ 
+ Visto, Il guardasigilli: C. Finocchiaro-Aprile.

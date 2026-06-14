@@ -1,21 +1,17 @@
-REGIO DECRETO 08 agosto 1895 n. DLII
+---
+tipo: REGIO DECRETO
+numero: DLII
+data: 1895-08-08
+titolo: "Che concentra l'amministrazione del Monte frumentario di Manopello (Chieti), nella locale congregazione di carita'. (9500552R)"
+urn: urn:nir:stato:regio.decreto:1895-08-08;552
+codice_redazionale: 9500552R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 agosto 1895 n. DLII
-====================================
-
-Che concentra l'amministrazione del Monte frumentario di Manopello (Chieti), nella locale congregazione di carita'. (9500552R)
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/12/1895
-
-Art. 1
-------
-
-  
-Con cui l'amministrazione del Monte frumentario di Manopello (Chieti), e' concentrata nella locale congregazione di carita'. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 6 dicembre 1895.   
-  
-Reg. 202. Atti del Governo a f. 179.   
-  
+Con cui l'amministrazione del Monte frumentario di Manopello (Chieti), e' concentrata nella locale congregazione di carita'. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 6 dicembre 1895. 
+ 
+ Reg. 202. Atti del Governo a f. 179.

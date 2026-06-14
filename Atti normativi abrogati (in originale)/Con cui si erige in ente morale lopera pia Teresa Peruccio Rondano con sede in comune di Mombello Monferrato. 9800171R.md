@@ -1,21 +1,17 @@
-REGIO DECRETO 26 maggio 1898 n. CLXXI
+---
+tipo: REGIO DECRETO
+numero: CLXXI
+data: 1898-05-26
+titolo: "Con cui si erige in ente morale l'opera pia «Teresa Peruccio Rondano» con sede in comune di Mombello Monferrato. (9800171R)"
+urn: urn:nir:stato:regio.decreto:1898-05-26;171
+codice_redazionale: 9800171R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 maggio 1898 n. CLXXI
-=====================================
-
-Con cui si erige in ente morale l'opera pia «Teresa Peruccio Rondano» con sede in comune di Mombello Monferrato. (9800171R)
----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/07/1898
-
-Art. 1
-------
-
-  
-Con cui si erige in ente morale l'opera pia «Teresa Peruccio Rondano» con sede in comune di Mombello Monferrato. - Firmato UMBERTO - Controfirmato Rudini' - Visto G. Zanardelli.   
-  
-Registrato alla Corte dei conti addi' 14 giugno 1898.   
-  
-Reg. 215. Atti del Governo a f. 205.   
-  
+Con cui si erige in ente morale l'opera pia «Teresa Peruccio Rondano» con sede in comune di Mombello Monferrato. - Firmato UMBERTO - Controfirmato Rudini' - Visto G. Zanardelli. 
+ 
+ Registrato alla Corte dei conti addi' 14 giugno 1898. 
+ 
+ Reg. 215. Atti del Governo a f. 205.

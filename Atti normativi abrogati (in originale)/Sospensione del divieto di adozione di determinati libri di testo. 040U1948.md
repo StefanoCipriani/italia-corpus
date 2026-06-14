@@ -1,16 +1,14 @@
-REGIO DECRETO 12 dicembre 1940 n. 1948
-
-
-REGIO DECRETO 12 dicembre 1940 n. 1948
-======================================
-
-Sospensione del divieto di adozione di determinati libri di testo. (040U1948)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/02/1941
+---
+tipo: REGIO DECRETO
+numero: 1948
+data: 1940-12-12
+titolo: "Sospensione del divieto di adozione di determinati libri di testo. (040U1948)"
+urn: urn:nir:stato:regio.decreto:1940-12-12;1948
+codice_redazionale: 040U1948
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,28 +30,22 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il divieto di adozione dei libri di testo compilati dai funzionari investiti di funzioni direttive e ispettive previsto dalle disposizioni vigenti e' sospeso, per i testi di materie scientifiche e tecniche redatti espressamente per gli istituti e per le scuole d'istruzione tecnica, per la durata di un triennio dalla entrata in vigore del presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 dicembre 1940-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Bottai - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 3 febbraio 1941-XIX   
-  
-Atti del Governo, registro 430, foglio 10. - Mancini   
+Il divieto di adozione dei libri di testo compilati dai funzionari investiti di funzioni direttive e ispettive previsto dalle disposizioni vigenti e' sospeso, per i testi di materie scientifiche e tecniche redatti espressamente per gli istituti e per le scuole d'istruzione tecnica, per la durata di un triennio dalla entrata in vigore del presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 dicembre 1940-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Bottai - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 3 febbraio 1941-XIX 
+ 
+ Atti del Governo, registro 430, foglio 10. - Mancini

@@ -1,17 +1,17 @@
-REGIO DECRETO 15 settembre 1922 n. 1330
+---
+tipo: REGIO DECRETO
+numero: 1330
+data: 1922-09-15
+titolo: "Erezione in Ente morale. (022U1330)"
+urn: urn:nir:stato:regio.decreto:1922-09-15;1330
+codice_redazionale: 022U1330
+vigente: true
+---
 
-
-REGIO DECRETO 15 settembre 1922 n. 1330
-=======================================
-
-Erezione in Ente morale. (022U1330)
------------------------------------
-
-Entrata in vigore del provvedimento: 14/11/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1330. Regio decreto 15 settembre 1922, col quale, sulla proposta del ministro dell'interno, la «Casa del Clero», con sede nel comune di Verona, viene eretta in Ente morale con amministrazione autonoma, e ne e' approvato lo statuto organico.
+1330.
+
+Regio decreto 15 settembre 1922, col quale, sulla proposta del ministro dell'interno, la «Casa del Clero», con sede nel comune di Verona, viene eretta in Ente morale con amministrazione autonoma, e ne e' approvato lo statuto organico.

@@ -1,16 +1,14 @@
-REGIO DECRETO 16 gennaio 1876 n. 2918
-
-
-REGIO DECRETO 16 gennaio 1876 n. 2918
-=====================================
-
-Che sopprime l'ufficio tecnico amministrativo per i lavori dell'insediamento del Governo in Roma. (076U2918)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/02/1876
+---
+tipo: REGIO DECRETO
+numero: 2918
+data: 1876-01-16
+titolo: "Che sopprime l'ufficio tecnico amministrativo per i lavori dell'insediamento del Governo in Roma. (076U2918)"
+urn: urn:nir:stato:regio.decreto:1876-01-16;2918
+codice_redazionale: 076U2918
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,25 +18,18 @@ Visto l'articolo 2 del Nostro decreto 31 ottobre 1672, numero 1092;
 
 Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici;
 
-Udito
------
+Udito il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'ufficio tecnico amministrativo esistente presso il Ministero dei Lavori Pubblici per attendere ai lavori dell'insediamento del Governo in Roma e' soppresso col 1° del prossimo mese di febbraio.   
-  
-Le sue attribuzioni passano al Segretariato Generale del predetto Ministero.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 gennaio 1876.   
-  
-VITTORIO EMANUELE.   
-  
-S. Spaventa.   
-  
+L'ufficio tecnico amministrativo esistente presso il Ministero dei Lavori Pubblici per attendere ai lavori dell'insediamento del Governo in Roma e' soppresso col 1° del prossimo mese di febbraio. 
+ 
+ Le sue attribuzioni passano al Segretariato Generale del predetto Ministero. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 gennaio 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ S. Spaventa.

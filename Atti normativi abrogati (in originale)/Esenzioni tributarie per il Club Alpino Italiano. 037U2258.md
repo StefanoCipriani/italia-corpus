@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 06 dicembre 1937 n. 2258
-
-
-REGIO DECRETO-LEGGE 06 dicembre 1937 n. 2258
-============================================
-
-Esenzioni tributarie per il «Club Alpino Italiano». (037U2258)
---------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/02/1938.  
-Regio Decreto-Legge convertito con modificazioni dalla [L. 17 maggio 1938, n. 1072](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-05-17;1072) (in G.U. 28/07/1938, n. 170).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 2258
+data: 1937-12-06
+titolo: "Esenzioni tributarie per il «Club Alpino Italiano». (037U2258)"
+urn: urn:nir:stato:regio.decreto.legge:1937-12-06;2258
+codice_redazionale: 037U2258
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -31,29 +28,23 @@ Visto l'art. 3, n. 2 della legge 31 gennaio 1926-IV, n. 100;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Agli effetti di qualsiasi imposta, tassa o diritto, il «Club Alpino Italiano», nonche' le sue sezioni e sottosezioni, sono, per il conseguimento dei propri fini, parificati alle Amministrazioni dello Stato, escluse le tasse postali, telegrafiche e telefoniche.   
-  
-Agli effetti delle imposte dirette, la equiparazione suddetta riguarda esclusivamente i redditi propri dell'Ente. Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 dicembre 1937 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: SOLMI   
-  
-Registrato alla Corte dei conti, addi' 17 gennaio 1938 - Anno XVI   
-Atti del Governo, registro 393, foglio 82. - MANCINI.   
+Agli effetti di qualsiasi imposta, tassa o diritto, il «Club Alpino Italiano», nonche' le sue sezioni e sottosezioni, sono, per il conseguimento dei propri fini, parificati alle Amministrazioni dello Stato, escluse le tasse postali, telegrafiche e telefoniche. 
+ 
+ Agli effetti delle imposte dirette, la equiparazione suddetta riguarda esclusivamente i redditi propri dell'Ente. Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 dicembre 1937 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: SOLMI 
+ 
+ Registrato alla Corte dei conti, addi' 17 gennaio 1938 - Anno XVI  
+ Atti del Governo, registro 393, foglio 82. - MANCINI.

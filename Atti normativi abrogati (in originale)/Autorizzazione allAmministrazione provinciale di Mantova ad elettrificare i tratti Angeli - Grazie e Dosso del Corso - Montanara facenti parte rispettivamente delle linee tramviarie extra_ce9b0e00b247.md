@@ -1,16 +1,14 @@
-REGIO DECRETO 12 giugno 1930 n. 845
-
-
-REGIO DECRETO 12 giugno 1930 n. 845
-===================================
-
-Autorizzazione all'Amministrazione provinciale di Mantova ad elettrificare i tratti Angeli - Grazie e Dosso del Corso - Montanara facenti parte rispettivamente delle linee tramviarie extra urbane Mantova - Asola e Mantova - Viadana. (030U0845)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/07/1930
+---
+tipo: REGIO DECRETO
+numero: 845
+data: 1930-06-12
+titolo: "Autorizzazione all'Amministrazione provinciale di Mantova ad elettrificare i tratti Angeli - Grazie e Dosso del Corso - Montanara facenti parte rispettivamente delle linee tramviarie extra urbane Mantova - Asola e Mantova - Viadana. (030U0845)"
+urn: urn:nir:stato:regio.decreto:1930-06-12;845
+codice_redazionale: 030U0845
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,37 +22,26 @@ Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'in
 
 Sentito il Consiglio superiore dei lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le comunicazioni; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'Amministrazione provinciale di Mantova e' autorizzata ad elettrificare i tratti Angeli-Grazie (km. 4 + 260) e Dosso del Corso-Montanara (km. 2 + 750) facenti parte rispettivamente delle linee tramviarie extra urbane Mantova-Asola e Mantova-Viadana.
 
-  
-  
-L'Amministrazione provinciale di Mantova e' autorizzata ad elettrificare i tratti Angeli-Grazie (km. 4 + 260) e Dosso del Corso-Montanara (km. 2 + 750) facenti parte rispettivamente delle linee tramviarie extra urbane Mantova-Asola e Mantova-Viadana.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-La elettrificazione di cui sopra dovra' essere eseguita in conformita' al progetto presentato in data 20 marzo 1930-VIII dall'Amministrazione provinciale anzidetta, tenute presenti le osservazioni fatte sul progetto medesimo dal Consiglio superiore dei lavori pubblici con il voto 30 maggio 1930, n. 1633.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 giugno 1930 - Anno VIII   
-  
-VITTORIO EMANUELE.   
-  
-Ciano.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 27 giugno 1930 - Anno VIII   
-  
-Atti del Governo, registro 297, foglio 110. - Mancini.   
-  
+La elettrificazione di cui sopra dovra' essere eseguita in conformita' al progetto presentato in data 20 marzo 1930-VIII dall'Amministrazione provinciale anzidetta, tenute presenti le osservazioni fatte sul progetto medesimo dal Consiglio superiore dei lavori pubblici con il voto 30 maggio 1930, n. 1633. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 giugno 1930 - Anno VIII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Ciano. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 27 giugno 1930 - Anno VIII 
+ 
+ Atti del Governo, registro 297, foglio 110. - Mancini.

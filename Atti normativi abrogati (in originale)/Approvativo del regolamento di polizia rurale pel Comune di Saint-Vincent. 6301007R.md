@@ -1,19 +1,15 @@
-REGIO DECRETO 05 novembre 1863 n. MVII
+---
+tipo: REGIO DECRETO
+numero: MVII
+data: 1863-11-05
+titolo: "Approvativo del regolamento di polizia rurale pel Comune di Saint-Vincent. (6301007R)"
+urn: urn:nir:stato:regio.decreto:1863-11-05;1007
+codice_redazionale: 6301007R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 novembre 1863 n. MVII
-======================================
-
-Approvativo del regolamento di polizia rurale pel Comune di Saint-Vincent. (6301007R)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1863
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia rurale del Comune di Saint-Vincent, Provincia di Torino, in data 14 maggio corrente anno.   
-  
-Torino 5 novembre 1863.   
-  
+Che approva il regolamento di polizia rurale del Comune di Saint-Vincent, Provincia di Torino, in data 14 maggio corrente anno. 
+ 
+ Torino 5 novembre 1863.

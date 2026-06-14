@@ -1,16 +1,14 @@
-REGIO DECRETO 16 ottobre 1886 n. 4162
-
-
-REGIO DECRETO 16 ottobre 1886 n. 4162
-=====================================
-
-Che da' facolta' ai sotto-bibliotecari di 1ª classe, gia' muniti del titolo e grado di vicebibliotecario, di conseguire la nomina a bibliotecario per merito e senza esami (086U4162)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/12/1886
+---
+tipo: REGIO DECRETO
+numero: 4162
+data: 1886-10-16
+titolo: "Che da' facolta' ai sotto-bibliotecari di 1ª classe, gia' muniti del titolo e grado di vicebibliotecario, di conseguire la nomina a bibliotecario per merito e senza esami (086U4162)"
+urn: urn:nir:stato:regio.decreto:1886-10-16;4162
+codice_redazionale: 086U4162
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,23 +18,16 @@ Considerando che il regolamento per le Biblioteche pubbliche governative, da Noi
 
 Visto il parere favorevole del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 16 ottobre 1886.   
-  
-UMBERTO.   
-  
-Coppino.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 16 ottobre 1886. 
+ 
+ UMBERTO. 
+ 
+ Coppino. 
+ 
+ Visto, Il Guardasigilli: Tajani.

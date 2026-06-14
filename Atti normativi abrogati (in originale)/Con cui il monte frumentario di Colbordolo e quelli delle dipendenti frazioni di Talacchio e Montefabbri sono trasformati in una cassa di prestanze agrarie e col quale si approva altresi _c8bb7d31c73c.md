@@ -1,21 +1,17 @@
-REGIO DECRETO 23 giugno 1904 n. CCXCII
+---
+tipo: REGIO DECRETO
+numero: CCXCII
+data: 1904-06-23
+titolo: "Con cui il monte frumentario di Colbordolo e quelli delle dipendenti frazioni di Talacchio e Montefabbri sono trasformati in una cassa di prestanze agrarie, e col quale si approva altresi' lo statuto della cassa. (0400292R)"
+urn: urn:nir:stato:regio.decreto:1904-06-23;292
+codice_redazionale: 0400292R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 giugno 1904 n. CCXCII
-======================================
-
-Con cui il monte frumentario di Colbordolo e quelli delle dipendenti frazioni di Talacchio e Montefabbri sono trasformati in una cassa di prestanze agrarie, e col quale si approva altresi' lo statuto della cassa. (0400292R)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/08/1904
-
-Art. 1
-------
-
-  
-Con cui il monte frumentario di Colbordolo e quelli delle dipendenti frazioni di Talacchio e Montefabbri sono trasformati in una cassa di prestanze agrarie, e col quale si approva altresi' lo statuto della cassa. - Firmato VITTORIO EMANUELE - Controfirmati Giolitti - Rava - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 30 luglio 1904.   
-  
-Reg. 17. Atti del Governo a f. 140.   
-  
+Con cui il monte frumentario di Colbordolo e quelli delle dipendenti frazioni di Talacchio e Montefabbri sono trasformati in una cassa di prestanze agrarie, e col quale si approva altresi' lo statuto della cassa. - Firmato VITTORIO EMANUELE - Controfirmati Giolitti - Rava - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 30 luglio 1904. 
+ 
+ Reg. 17. Atti del Governo a f. 140.

@@ -1,16 +1,14 @@
-REGIO DECRETO 28 dicembre 1890 n. 7354
-
-
-REGIO DECRETO 28 dicembre 1890 n. 7354
-======================================
-
-UMBERTO I (090U7354)
---------------------
-
-Entrata in vigore del provvedimento: 24/01/1891
+---
+tipo: REGIO DECRETO
+numero: 7354
+data: 1890-12-28
+titolo: "UMBERTO I (090U7354)"
+urn: urn:nir:stato:regio.decreto:1890-12-28;7354
+codice_redazionale: 090U7354
+vigente: true
+---
 
 per grazia di Dio e volonta' della Nazione
-------------------------------------------
 
 RE D'ITALIA.
 
@@ -20,24 +18,18 @@ Visti i pareri del Consiglio superiore di Sanita' del 10 dicembre 1876, 31 marzo
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Pei vini di lusso molto alcoolici (come il marsala e simili) di cui all'art. 141 del regolamento su citato, e' prorogato a tutto il 31 dicembre 1896 il vigore della disposizione, concernente la gessatura, contenuta nella circolare ministeriale 24 ottobre 1887.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 dicembre 1890.   
-  
-UMBERTO.   
-  
-Crispi.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
+Pei vini di lusso molto alcoolici (come il marsala e simili) di cui all'art. 141 del regolamento su citato, e' prorogato a tutto il 31 dicembre 1896 il vigore della disposizione, concernente la gessatura, contenuta nella circolare ministeriale 24 ottobre 1887. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 dicembre 1890. 
+ 
+ UMBERTO. 
+ 
+ Crispi. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

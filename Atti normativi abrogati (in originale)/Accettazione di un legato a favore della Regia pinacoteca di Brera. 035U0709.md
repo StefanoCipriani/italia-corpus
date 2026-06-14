@@ -1,21 +1,21 @@
-REGIO DECRETO 01 aprile 1935 n. 709
+---
+tipo: REGIO DECRETO
+numero: 709
+data: 1935-04-01
+titolo: "Accettazione di un legato a favore della Regia pinacoteca di Brera. (035U0709)"
+urn: urn:nir:stato:regio.decreto:1935-04-01;709
+codice_redazionale: 035U0709
+vigente: true
+---
 
-
-REGIO DECRETO 01 aprile 1935 n. 709
-===================================
-
-Accettazione di un legato a favore della Regia pinacoteca di Brera. (035U0709)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/06/1935
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-709. R. decreto 1° aprile 1935, col quale, sulla proposta del Ministro Segretario di Stato per l'educazione nazionale, viene accettato il legato di sei quadri, facenti parte della raccolta Del Mayno-Vassalli, disposto a favore della Regia pinacoteca di Brera dalla contessa Giuseppina Vassalli ved. Del Mayno.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 17 maggio 1935 - Anno XIII
+709.
+
+R. decreto 1° aprile 1935, col quale, sulla proposta del Ministro Segretario di Stato per l'educazione nazionale, viene accettato il legato di sei quadri, facenti parte della raccolta Del Mayno-Vassalli, disposto a favore della Regia pinacoteca di Brera dalla contessa Giuseppina Vassalli ved. Del Mayno. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 17 maggio 1935 - Anno XIII

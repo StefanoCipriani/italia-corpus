@@ -1,16 +1,14 @@
-REGIO DECRETO 06 giugno 1939 n. 1242
-
-
-REGIO DECRETO 06 giugno 1939 n. 1242
-====================================
-
-Trattamento economico del personale delle Forze armate destinato in servizio nell'isola di Pantelleria. (039U1242)
-------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/09/1939
+---
+tipo: REGIO DECRETO
+numero: 1242
+data: 1939-06-06
+titolo: "Trattamento economico del personale delle Forze armate destinato in servizio nell'isola di Pantelleria. (039U1242)"
+urn: urn:nir:stato:regio.decreto:1939-06-06;1242
+codice_redazionale: 039U1242
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,36 +28,28 @@ Visto il R. decreto 6 maggio 1937-XV, n. 775;
 
 Visto il R. decreto 8 luglio 1937-XV, n. 1609, relativo al trattamento economico da corrispondere agli ufficiali generali della Regia aeronautica comandanti le Forze aeree delle Isole italiane dell'Egeo;
 
-Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100~art1);
+Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Udito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica, per la guerra e per la marina, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica, per la guerra e per la marina, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al personale delle Forze armate dello Stato in servizio nell'isola di Pantelleria, sono estese, in quanto applicabili, le norme sul trattamento economico vigenti per il personale in servizio nelle Isole italiane dell'Egeo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 giugno 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Grandi.   
-  
-Registrato alla Corte dei conti, addi' 29 agosto 1939-XVII   
-  
-Atti del Governo, registro 412, foglio 87. - Mancini   
-  
-  
+Al personale delle Forze armate dello Stato in servizio nell'isola di Pantelleria, sono estese, in quanto applicabili, le norme sul trattamento economico vigenti per il personale in servizio nelle Isole italiane dell'Egeo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 giugno 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi. 
+ 
+ Registrato alla Corte dei conti, addi' 29 agosto 1939-XVII 
+ 
+ Atti del Governo, registro 412, foglio 87. - Mancini

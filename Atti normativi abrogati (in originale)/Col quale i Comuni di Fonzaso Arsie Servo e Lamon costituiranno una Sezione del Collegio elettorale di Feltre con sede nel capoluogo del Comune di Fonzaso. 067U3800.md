@@ -1,16 +1,14 @@
-REGIO DECRETO 07 luglio 1867 n. 3800
-
-
-REGIO DECRETO 07 luglio 1867 n. 3800
-====================================
-
-Col quale i Comuni di Fonzaso, Arsie', Servo e Lamon costituiranno una Sezione del Collegio elettorale di Feltre con sede nel capoluogo del Comune di Fonzaso. (067U3800)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/08/1867
+---
+tipo: REGIO DECRETO
+numero: 3800
+data: 1867-07-07
+titolo: "Col quale i Comuni di Fonzaso, Arsie', Servo e Lamon costituiranno una Sezione del Collegio elettorale di Feltre con sede nel capoluogo del Comune di Fonzaso. (067U3800)"
+urn: urn:nir:stato:regio.decreto:1867-07-07;3800
+codice_redazionale: 067U3800
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nei Comuni stessi piu' di 40 elettori inscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Fonzaso, Arsie', Servo e Lamon costituiranno d'ora in poi una Sezione del Collegio elettorale di Feltre n. 445, la quale avra' sede nel capoluogo del Comune di Fonzaso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 7 luglio 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 18 luglio 1867   
-  
-Reg. 40 Atti del Governo a c. 156. Crodara Visconti.   
-  
-Luogo del sigillo. V. Il Guardasigilli Tecchio.   
-  
-U. Rattazzi.   
-  
+I Comuni di Fonzaso, Arsie', Servo e Lamon costituiranno d'ora in poi una Sezione del Collegio elettorale di Feltre n. 445, la quale avra' sede nel capoluogo del Comune di Fonzaso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 7 luglio 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 18 luglio 1867 
+ 
+ Reg. 40 Atti del Governo a c. 156. Crodara Visconti. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Tecchio. 
+ 
+ U. Rattazzi.

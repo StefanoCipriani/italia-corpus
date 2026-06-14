@@ -1,16 +1,14 @@
-REGIO DECRETO 07 luglio 1898 n. 326
-
-
-REGIO DECRETO 07 luglio 1898 n. 326
-===================================
-
-Concernente disposizioni sul Regolamento generale universitario. (098U0326)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/08/1898
+---
+tipo: REGIO DECRETO
+numero: 326
+data: 1898-07-07
+titolo: "Concernente disposizioni sul Regolamento generale universitario. (098U0326)"
+urn: urn:nir:stato:regio.decreto:1898-07-07;326
+codice_redazionale: 098U0326
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,25 +24,18 @@ Considerando che le disposizioni contenute in questo decreto si manifestano di d
 
 Riconosciuta la convenienza di ripristinare queste norme;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' abrogato il [Regio decreto 21 aprile 1898, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-04-21;140), e sono richiamate in vigore le disposizioni del Regolamento generale universitario, approvato col [Regio decreto 26 ottobre 1890, n. 7337](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-10-26;7337) (serie 3ª), che erano state modificate con l'anzidetto decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 luglio 1898.   
-  
-UMBERTO.   
-  
-Baccelli.   
-  
-Visto, Il Guardasigilli: C. Finocchiaro-Aprile.   
-  
+E' abrogato il [Regio decreto 21 aprile 1898, n. 140](Che%20sostituisce%20con%20altri%20varii%20articoli%20del%20Regolamento%20generale%20universitario.%20098U0140.md), e sono richiamate in vigore le disposizioni del Regolamento generale universitario, approvato col [Regio decreto 26 ottobre 1890, n. 7337](Che%20approva%20lannesso%20regolamento%20universitario.%20090U7337.md) (serie 3ª), che erano state modificate con l'anzidetto decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 luglio 1898. 
+ 
+ UMBERTO. 
+ 
+ Baccelli. 
+ 
+ Visto, Il Guardasigilli: C. Finocchiaro-Aprile.

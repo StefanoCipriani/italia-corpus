@@ -1,16 +1,14 @@
-REGIO DECRETO 17 maggio 1900 n. 174
-
-
-REGIO DECRETO 17 maggio 1900 n. 174
-===================================
-
-L'attuale Sezione legislativa del Senato del Regno e della Camera dei Deputati e' chiusa. (000U0174)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/06/1900
+---
+tipo: REGIO DECRETO
+numero: 174
+data: 1900-05-17
+titolo: "L'attuale Sezione legislativa del Senato del Regno e della Camera dei Deputati e' chiusa. (000U0174)"
+urn: urn:nir:stato:regio.decreto:1900-05-17;174
+codice_redazionale: 000U0174
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,25 +18,18 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Inter
 
 Udito il Consiglio dei Ministri;
 
-Visto
------
+Visto l'articolo 9 dello Statuto fondamentale del Regno; Abbiamo decretato e decretiamo:
 
-l'articolo 9 dello Statuto fondamentale del Regno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'attuale Sessione legislativa del Senato del Regno e della Camera dei Deputati e' chiusa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 17 maggio 1900.   
-  
-UMBERTO.   
-  
-Pelloux.   
-  
-Visto, Il Guardasigilli: A. Bonasi.   
-  
+L'attuale Sessione legislativa del Senato del Regno e della Camera dei Deputati e' chiusa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 maggio 1900. 
+ 
+ UMBERTO. 
+ 
+ Pelloux. 
+ 
+ Visto, Il Guardasigilli: A. Bonasi.

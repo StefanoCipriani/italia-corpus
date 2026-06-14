@@ -1,17 +1,17 @@
-REGIO DECRETO 07 agosto 1921 n. 1192
+---
+tipo: REGIO DECRETO
+numero: 1192
+data: 1921-08-07
+titolo: "Erezione in ente morale (021U1192)"
+urn: urn:nir:stato:regio.decreto:1921-08-07;1192
+codice_redazionale: 021U1192
+vigente: true
+---
 
-
-REGIO DECRETO 07 agosto 1921 n. 1192
-====================================
-
-Erezione in ente morale (021U1192)
-----------------------------------
-
-Entrata in vigore del provvedimento: 01/10/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1192. Regio decreto 7 agosto 1921, col quale, sulla proposta del ministro per l'industria ed il commercio, l'Ente autonomo denominato «Istituto per le case popolari in Arezzo» viene eretto in Ente morale e viene approvato lo statuto organico relativo.
+1192.
+
+Regio decreto 7 agosto 1921, col quale, sulla proposta del ministro per l'industria ed il commercio, l'Ente autonomo denominato «Istituto per le case popolari in Arezzo» viene eretto in Ente morale e viene approvato lo statuto organico relativo.

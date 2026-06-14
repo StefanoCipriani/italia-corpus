@@ -1,18 +1,10 @@
-REGIO DECRETO 26 ottobre 1923 n. 2275
+---
+tipo: REGIO DECRETO
+numero: 2275
+data: 1923-10-26
+titolo: "Riforma della tariffa di bollo ed altre disposizioni concernenti la stessa materia. (023U2275)"
+urn: urn:nir:stato:regio.decreto:1923-10-26;2275
+codice_redazionale: 023U2275
+vigente: true
+---
 
-
-REGIO DECRETO 26 ottobre 1923 n. 2275
-=====================================
-
-Riforma della tariffa di bollo ed altre disposizioni concernenti la stessa materia. (023U2275)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/11/1923
-
-Tariffa
-
-  
-Tariffa delle tasse di bollo comprensive di ogni addizionale sulle ricevute ordinarie.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=023U227500100010110001&dgu=1923-10-31&art.dataPubblicazioneGazzetta=1923-10-31&art.codiceRedazionale=023U2275)
-  

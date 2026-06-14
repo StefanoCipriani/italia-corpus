@@ -1,16 +1,14 @@
-REGIO DECRETO 14 gennaio 1897 n. 29
-
-
-REGIO DECRETO 14 gennaio 1897 n. 29
-===================================
-
-Sull'indennita' annuale d'alloggio ai Direttori di Circolo ed ai Direttori degli Stabilimenti carcerarii e Riformatorii governativi. (097U0029)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/02/1897
+---
+tipo: REGIO DECRETO
+numero: 29
+data: 1897-01-14
+titolo: "Sull'indennita' annuale d'alloggio ai Direttori di Circolo ed ai Direttori degli Stabilimenti carcerarii e Riformatorii governativi. (097U0029)"
+urn: urn:nir:stato:regio.decreto:1897-01-14;29
+codice_redazionale: 097U0029
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,50 +20,32 @@ Visto il decreto Reale del 26 luglio 1896 n. 359;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I Direttori di Circolo ed i Direttori degli Stabilimenti carcerari e dei Riformatori governativi che non hanno l'alloggio gratuito nei fabbricati di proprieta' dell'Amministrazione, riceveranno, in luogo di tale alloggio, una indennita' annuale fissa, a seconda del loro stato di famiglia e delle diverse localita', nella misura risultante dalla tavola seguente: 
+ 
+ Parte di provvedimento in formato grafico
 
-  
-  
-I Direttori di Circolo ed i Direttori degli Stabilimenti carcerari e dei Riformatori governativi che non hanno l'alloggio gratuito nei fabbricati di proprieta' dell'Amministrazione, riceveranno, in luogo di tale alloggio, una indennita' annuale fissa, a seconda del loro stato di famiglia e delle diverse localita', nella misura risultante dalla tavola seguente:   
-  
-Parte di provvedimento in formato grafico  
+## Art. 2.
 
-Art. 2
-------
+I Direttori di Circolo ed i Direttori degli Stabilimenti carcerari residenti nelle dette localita', i quali godono di alloggio a carico dell'Amministrazione, riceveranno invece l'indennita' fissa per ogni localita' assegnata di mano in mano che saranno traslocati o che vengano a scadere i contratti in corso.
 
-  
-  
-I Direttori di Circolo ed i Direttori degli Stabilimenti carcerari residenti nelle dette localita', i quali godono di alloggio a carico dell'Amministrazione, riceveranno invece l'indennita' fissa per ogni localita' assegnata di mano in mano che saranno traslocati o che vengano a scadere i contratti in corso.   
-  
+## Art. 3.
 
-Art. 3
-------
+I Direttori di Circolo che, in applicazione dell'[articolo 6 del Regio decreto 26 giugno 1896 n. 273](Che%20approva%20il%20ruolo%20organico%20degli%20impiegati%20dellAmministrazione%20carcerarla%20e%20dei%20Riformatorii%20governativi.%20096U0273.md), fossero esonerati dalla Direzione di uno Stabilimento, conserveranno, cio' non ostante, il diritto all'indennita' di alloggio in una somma che non potra' superare le lire 1000.
 
-  
-  
-I Direttori di Circolo che, in applicazione dell'[articolo 6 del Regio decreto 26 giugno 1896 n. 273](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-06-26;273~art6), fossero esonerati dalla Direzione di uno Stabilimento, conserveranno, cio' non ostante, il diritto all'indennita' di alloggio in una somma che non potra' superare le lire 1000.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-E' derogato alle precedenti disposizioni in quanto siano contrarie alle presenti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 gennaio 1897.   
-  
-UMBERTO.   
-  
-Rudini'.   
-  
-Visto, Il Guardasigilli: G. Costa.   
-  
+E' derogato alle precedenti disposizioni in quanto siano contrarie alle presenti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 gennaio 1897. 
+ 
+ UMBERTO. 
+ 
+ Rudini'. 
+ 
+ Visto, Il Guardasigilli: G. Costa.

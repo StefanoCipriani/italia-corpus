@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 03 agosto 1916 n. 1069
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1069
+data: 1916-08-03
+titolo: "Applicazione di tassa di esercizio. (016U1069)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-08-03;1069
+codice_redazionale: 016U1069
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 03 agosto 1916 n. 1069
-==============================================
-
-Applicazione di tassa di esercizio. (016U1069)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 17/09/1916
-
-Art. 1
-------
-
-  
-N. 1069   
-  
-Decreto Luogotenenziale 3 agosto 1916, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Massa Superiore (Rovigo) di applicare agli esercizi industriali e commerciali la tassa d'esercizio col limite massimo di L. 2000 (duemila) dal 1° gennaio 1916 al 31 dicembre dell'anno in cui cessera' la guerra.   
-  
+N. 1069 
+ 
+ Decreto Luogotenenziale 3 agosto 1916, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Massa Superiore (Rovigo) di applicare agli esercizi industriali e commerciali la tassa d'esercizio col limite massimo di L. 2000 (duemila) dal 1° gennaio 1916 al 31 dicembre dell'anno in cui cessera' la guerra.

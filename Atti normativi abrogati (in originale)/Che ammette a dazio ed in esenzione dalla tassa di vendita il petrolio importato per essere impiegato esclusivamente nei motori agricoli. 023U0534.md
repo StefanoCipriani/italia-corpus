@@ -1,69 +1,50 @@
-REGIO DECRETO 11 marzo 1923 n. 534
-
-
-REGIO DECRETO 11 marzo 1923 n. 534
-==================================
-
-Che ammette a dazio, ed in esenzione dalla tassa di vendita, il petrolio importato per essere impiegato esclusivamente nei motori agricoli. (023U0534)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/04/1923
+---
+tipo: REGIO DECRETO
+numero: 534
+data: 1923-03-11
+titolo: "Che ammette a dazio, ed in esenzione dalla tassa di vendita, il petrolio importato per essere impiegato esclusivamente nei motori agricoli. (023U0534)"
+urn: urn:nir:stato:regio.decreto:1923-03-11;534
+codice_redazionale: 023U0534
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-In virtu' della delegazione dei poteri conferiti al Governo del Re con la [legge 3 dicembre 1922, n. 1601](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1922-12-03;1601);
+In virtu' della delegazione dei poteri conferiti al Governo del Re con la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
-Vista la tariffa generale dei dazi doganali approvata col [R. decreto-legge 9 giugno 1921, n. 806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-06-09;806);
+Vista la tariffa generale dei dazi doganali approvata col [R. decreto-legge 9 giugno 1921, n. 806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md);
 
-Visto il [R. decreto-legge 3 febbraio 1921, n. 54](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-02-03;54);
+Visto il [R. decreto-legge 3 febbraio 1921, n. 54](Che%20ripristina%20la%20liberta%20di%20commercio%20degli%20oli%20minerali%20e%20modifica%20il%20sistema%20di%20tassazione%20della%20benzina%20e%20del%20petrolio.%20021U0054.md);
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro segretario di Stato per le finanze, di concerto con quelli per l'industria e il commercio e per l'agricoltura; Abbiamo decretato o decretiamo:
 
-proposta del Nostro Ministro segretario di Stato per le finanze, di concerto con quelli per l'industria e il commercio e per l'agricoltura; Abbiamo decretato o decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' data facolta' al Ministro delle finanze di autorizzare, in via di esperimento, fino al 31 dicembre 1923, l'applicazione del dazio ridotto di lire oro 10 il quintale e l'esenzione dalla tassa di vendita, per il petrolio importato per essere impiegato esclusivamente nei motori agricoli, sotto l'osservanza delle norme e condizioni che saranno stabilite dallo stesso Ministro delle finanze, di concerto con quello per l'agricoltura.
 
-  
-  
-  
-E' data facolta' al Ministro delle finanze di autorizzare, in via di esperimento, fino al 31 dicembre 1923, l'applicazione del dazio ridotto di lire oro 10 il quintale e l'esenzione dalla tassa di vendita, per il petrolio importato per essere impiegato esclusivamente nei motori agricoli, sotto l'osservanza delle norme e condizioni che saranno stabilite dallo stesso Ministro delle finanze, di concerto con quello per l'agricoltura.   
+## Art. 2.
 
-Art. 2
-------
+Qualora il petrolio ammesso a dazio ridotto e in esenzione dalla tassa di vendita venga impiegato in usi diversi da quello per il quale e' fatta la concessione, si renderanno applicabili le pene comminate per il contrabbando, ai sensi degli articoli 94 e seguenti del testo unico della legge doganale approvato con [R. decreto 26 gennaio 1896, n. 20](Che%20approva%20il%20testo%20unico%20delle%20leggi%20doganali.%20096U0020.md).
 
-  
-  
-  
-Qualora il petrolio ammesso a dazio ridotto e in esenzione dalla tassa di vendita venga impiegato in usi diversi da quello per il quale e' fatta la concessione, si renderanno applicabili le pene comminate per il contrabbando, ai sensi degli articoli 94 e seguenti del testo unico della legge doganale approvato con [R. decreto 26 gennaio 1896, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-01-26;20).   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-  
-Il presente decreto avra' effetto a partire dal giorno successivo a quello della pubblicazione nella Gazzetta ufficiale del decreto con cui il Ministro delle finanze stabilira' le norme di cui all'articolo 1.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 marzo 1923.   
-  
-VITTORIO EMANUELE.   
-  
-MUSSOLINI.   
-DE STEFANI.   
-TEOFILO ROSSI.   
-DE CAPITANI D'ARZAGO.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
+Il presente decreto avra' effetto a partire dal giorno successivo a quello della pubblicazione nella Gazzetta ufficiale del decreto con cui il Ministro delle finanze stabilira' le norme di cui all'articolo 1. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 marzo 1923. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ MUSSOLINI. 
+ DE STEFANI. 
+ TEOFILO ROSSI. 
+ DE CAPITANI D'ARZAGO. 
+ 
+ Visto, il Guardasigilli: Oviglio.

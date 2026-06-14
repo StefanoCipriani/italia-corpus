@@ -1,16 +1,14 @@
-REGIO DECRETO 28 aprile 1867 n. 3675
-
-
-REGIO DECRETO 28 aprile 1867 n. 3675
-====================================
-
-Col quale il Comune di Tito costituira' una Sezione del Collegio elettorale di Potenza, che avra' sede nel capoluogo del Comune stesso. (067U3675)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/05/1867
+---
+tipo: REGIO DECRETO
+numero: 3675
+data: 1867-04-28
+titolo: "Col quale il Comune di Tito costituira' una Sezione del Collegio elettorale di Potenza, che avra' sede nel capoluogo del Comune stesso. (067U3675)"
+urn: urn:nir:stato:regio.decreto:1867-04-28;3675
+codice_redazionale: 067U3675
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Tito costituira' d'ora in poi una Sezione del Collegio elettorale di Potenza n. 47, la quale avra' sede nel capoluogo del Comune stesso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 28 aprile 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 8 maggio 1867   
-  
-Reg. 40 Atti del Governo a c. 16. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Tecchio.   
-  
-U. Rattazzi.   
-  
+Il Comune di Tito costituira' d'ora in poi una Sezione del Collegio elettorale di Potenza n. 47, la quale avra' sede nel capoluogo del Comune stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 28 aprile 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 8 maggio 1867 
+ 
+ Reg. 40 Atti del Governo a c. 16. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Tecchio. 
+ 
+ U. Rattazzi.

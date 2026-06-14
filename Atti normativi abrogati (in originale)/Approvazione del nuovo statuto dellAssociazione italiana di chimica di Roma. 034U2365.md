@@ -1,21 +1,21 @@
-REGIO DECRETO 16 ottobre 1934 n. 2365
+---
+tipo: REGIO DECRETO
+numero: 2365
+data: 1934-10-16
+titolo: "Approvazione del nuovo statuto dell'Associazione italiana di chimica di Roma. (034U2365)"
+urn: urn:nir:stato:regio.decreto:1934-10-16;2365
+codice_redazionale: 034U2365
+vigente: true
+---
 
-
-REGIO DECRETO 16 ottobre 1934 n. 2365
-=====================================
-
-Approvazione del nuovo statuto dell'Associazione italiana di chimica di Roma. (034U2365)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/03/1935
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2365. R. decreto 16 ottobre 1934, col quale, sulla proposta del Ministro per l'educazione nazionale, viene approvato il nuovo statuto dell'Associazione italiana di chimica di Roma.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 26 febbraio 1935 - Anno XIII
+2365.
+
+R. decreto 16 ottobre 1934, col quale, sulla proposta del Ministro per l'educazione nazionale, viene approvato il nuovo statuto dell'Associazione italiana di chimica di Roma. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 26 febbraio 1935 - Anno XIII

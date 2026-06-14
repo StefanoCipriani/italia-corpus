@@ -1,16 +1,14 @@
-REGIO DECRETO 17 febbraio 1941 n. 127
-
-
-REGIO DECRETO 17 febbraio 1941 n. 127
-=====================================
-
-Autorizzazione al comune di Vercelli a continuare ad applicare, fino al 31 dicembre 1943, le imposte di consumo in base alla Tariffa della classe D. (041U0127)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/04/1941
+---
+tipo: REGIO DECRETO
+numero: 127
+data: 1941-02-17
+titolo: "Autorizzazione al comune di Vercelli a continuare ad applicare, fino al 31 dicembre 1943, le imposte di consumo in base alla Tariffa della classe D. (041U0127)"
+urn: urn:nir:stato:regio.decreto:1941-02-17;127
+codice_redazionale: 041U0127
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,24 @@ Udita la Commissione centrale per la finanza locale;
 
 Visto l'art. 27 del testo unico per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il comune di Vercelli e' autorizzato ad applicare le imposte di consumo in base alla tariffa della classe superiore D fino a tutto l'anno
 
-1943. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 17 febbraio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 21 marzo 1941-XIX   
-  
-Atti del Governo, registro 431, foglio 45. - MANCINI
+1943.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 febbraio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 21 marzo 1941-XIX 
+ 
+ Atti del Governo, registro 431, foglio 45. - MANCINI

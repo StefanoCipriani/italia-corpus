@@ -1,22 +1,15 @@
-REGIO DECRETO 13 ottobre 1927 n. 2360
+---
+tipo: REGIO DECRETO
+numero: 2360
+data: 1927-10-13
+titolo: "Annullamento delle partite dei contributi relative ad alcuni Comuni della provincia di Napoli. (027U2360)"
+urn: urn:nir:stato:regio.decreto:1927-10-13;2360
+codice_redazionale: 027U2360
+vigente: true
+---
 
+## Art. 1. — null
 
-REGIO DECRETO 13 ottobre 1927 n. 2360
-=====================================
-
-Annullamento delle partite dei contributi relative ad alcuni Comuni della provincia di Napoli. (027U2360)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/01/1928
-
-Art. 1
-------
-
-null
-
-  
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 23 dicembre 1927 - Anno VI   
-  
+Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 23 dicembre 1927 - Anno VI

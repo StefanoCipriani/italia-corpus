@@ -1,19 +1,19 @@
-REGIO DECRETO 05 giugno 1937 n. 1260
+---
+tipo: REGIO DECRETO
+numero: 1260
+data: 1937-06-05
+titolo: "Modificazione dello statuto del Consorzio cooperativo «Labor» fra le cooperative di produzione e lavoro della provincia di Cremona, con sede in Cremona. (037U1260)"
+urn: urn:nir:stato:regio.decreto:1937-06-05;1260
+codice_redazionale: 037U1260
+vigente: true
+---
 
-
-REGIO DECRETO 05 giugno 1937 n. 1260
-====================================
-
-Modificazione dello statuto del Consorzio cooperativo «Labor» fra le cooperative di produzione e lavoro della provincia di Cremona, con sede in Cremona. (037U1260)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/08/1937
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1260. R. decreto 5 giugno 1937, col quale, sulla proposta del Ministro per le corporazioni, viene approvata la modificazione dello statuto del Consorzio cooperativo «Labor» fra le cooperative di produzione e lavoro della provincia di Cremona, con sede in Cremona.   
-Visto, il Guardasigilli: Solmi.   
-Registrato alla Corte dei conti, addi' 5 luglio 1937 - Anno XV
+1260.
+
+R. decreto 5 giugno 1937, col quale, sulla proposta del Ministro per le corporazioni, viene approvata la modificazione dello statuto del Consorzio cooperativo «Labor» fra le cooperative di produzione e lavoro della provincia di Cremona, con sede in Cremona. 
+ Visto, il Guardasigilli: Solmi. 
+ Registrato alla Corte dei conti, addi' 5 luglio 1937 - Anno XV

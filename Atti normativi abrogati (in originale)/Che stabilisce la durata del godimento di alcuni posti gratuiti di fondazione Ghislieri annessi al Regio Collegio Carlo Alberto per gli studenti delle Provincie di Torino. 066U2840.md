@@ -1,16 +1,14 @@
-REGIO DECRETO 15 aprile 1866 n. 2840
-
-
-REGIO DECRETO 15 aprile 1866 n. 2840
-====================================
-
-Che stabilisce la durata del godimento di alcuni posti gratuiti di fondazione Ghislieri annessi al Regio Collegio Carlo Alberto per gli studenti delle Provincie di Torino. (066U2840)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/05/1866
+---
+tipo: REGIO DECRETO
+numero: 2840
+data: 1866-04-15
+titolo: "Che stabilisce la durata del godimento di alcuni posti gratuiti di fondazione Ghislieri annessi al Regio Collegio Carlo Alberto per gli studenti delle Provincie di Torino. (066U2840)"
+urn: urn:nir:stato:regio.decreto:1866-04-15;2840
+codice_redazionale: 066U2840
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,32 +22,25 @@ Ritenuto essere stata volonta' del benefico Fondatore di assegnare agli allievi 
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il godimento dei posti della fondazione Ghislieri ora annessi al R.  
-Collegio Carlo Alberto per gli studenti delle Provincie in Torino, e riservati a beneficio dei nativi di Alessandria, del Contado alessandrino, di Frugarolo, di Tortona e di Vigevano sara' concesso pel numero di anni necessario agli allievi per compiere gli studi liceali, quando non gli abbiano gia' compiuti, e quelli di una qualsiasi Facolta' universitaria.   
-  
-E' abrogata ogni disposizione contraria al presente Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 15 aprile 1866.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 27 aprile 1866.   
-  
-Reg.º 35 Atti del Governo a c. 165. Ayres.   
-  
-Luogo del Sigillo. v. Il Guardasigilli De Falco.   
-  
-Berti.   
-  
+Il godimento dei posti della fondazione Ghislieri ora annessi al R.
+Collegio Carlo Alberto per gli studenti delle Provincie in Torino, e riservati a beneficio dei nativi di Alessandria, del Contado alessandrino, di Frugarolo, di Tortona e di Vigevano sara' concesso pel numero di anni necessario agli allievi per compiere gli studi liceali, quando non gli abbiano gia' compiuti, e quelli di una qualsiasi Facolta' universitaria. 
+ 
+ E' abrogata ogni disposizione contraria al presente Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 15 aprile 1866. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 aprile 1866. 
+ 
+ Reg.º 35 Atti del Governo a c. 165. Ayres. 
+ 
+ Luogo del Sigillo. v. Il Guardasigilli De Falco. 
+ 
+ Berti.

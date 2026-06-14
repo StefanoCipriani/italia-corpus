@@ -1,16 +1,14 @@
-REGIO DECRETO 13 luglio 1939 n. 1339
-
-
-REGIO DECRETO 13 luglio 1939 n. 1339
-====================================
-
-Proroga del R. decreto 6 maggio 1937-XV, n. 1092, relativo ad agevolazioni in materia di tasse sugli affari nell'Africa Orientale Italiana ed in Libia. (039U1339)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/10/1939
+---
+tipo: REGIO DECRETO
+numero: 1339
+data: 1939-07-13
+titolo: "Proroga del R. decreto 6 maggio 1937-XV, n. 1092, relativo ad agevolazioni in materia di tasse sugli affari nell'Africa Orientale Italiana ed in Libia. (039U1339)"
+urn: urn:nir:stato:regio.decreto:1939-07-13;1339
+codice_redazionale: 039U1339
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,28 +26,22 @@ Udito il parere del Consiglio superiore coloniale;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro Segretario di Stato per l'Africa Italiana di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro Segretario di Stato per l'Africa Italiana di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le disposizioni del R. decreto 6 maggio 1937-XV, n. 1092, recante agevolazioni in materia di tasse sugli affari in Libia e nell'Africa Orientale Italiana, avranno vigore fino al 31 dicembre 1940-XIX.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 13 luglio 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 18 settembre 1939-XVII   
-  
-Atti del Governo, registro 413, foglio 66. - Mancini   
+Le disposizioni del R. decreto 6 maggio 1937-XV, n. 1092, recante agevolazioni in materia di tasse sugli affari in Libia e nell'Africa Orientale Italiana, avranno vigore fino al 31 dicembre 1940-XIX. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 13 luglio 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 18 settembre 1939-XVII 
+ 
+ Atti del Governo, registro 413, foglio 66. - Mancini

@@ -1,22 +1,20 @@
-REGIO DECRETO 01 agosto 1910 n. 916
-
-
-REGIO DECRETO 01 agosto 1910 n. 916
-===================================
-
-Che sostituisce una disposizione nel R. decreto riguardante il laboratorio-scuola di Stia (Arezzo). (010U0916)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/02/1911
+---
+tipo: REGIO DECRETO
+numero: 916
+data: 1910-08-01
+titolo: "Che sostituisce una disposizione nel R. decreto riguardante il laboratorio-scuola di Stia (Arezzo). (010U0916)"
+urn: urn:nir:stato:regio.decreto:1910-08-01;916
+codice_redazionale: 010U0916
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 19 luglio 1907, n. 386](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-19;386) che istituisce in Stia un laboratorio-scuola;
+Visto il [R. decreto 19 luglio 1907, n. 386](Che%20istituisce%20e%20riordina%20scuole%20maschili%20e%20femminili%20di%20commercio%20ed%20industria%20in%20Stia.%200700386R.md) che istituisce in Stia un laboratorio-scuola;
 
 Riconosciuta la necessita' di aumentare le entrate ordinarie del bilancio dell'Istituto per porlo in grado di raggiungere le sue finalita';
 
@@ -24,49 +22,38 @@ Viste le deliberazioni del Consiglio provinciale di Arezzo in data 9 agosto 1909
 
 Visto il parere favorevole del Consiglio superiore dell'insegnamento emesso nell'adunanza del 15 giugno 1910;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per l'agricoltura, l'industria e il commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per l'agricoltura, l'industria e il commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Ai primi tre comma dell'[art. 2 del R. decreto 19 luglio 1907, n. 386](Che%20istituisce%20e%20riordina%20scuole%20maschili%20e%20femminili%20di%20commercio%20ed%20industria%20in%20Stia.%200700386R.md), e' sostituita la seguente disposizione: 
+ 
+ Alle spese di mantenimento annuo del laboratorio-scuola concorrono: 
+ 
+ il Ministero d'agricoltura, industria e commercio con L. 3500; 
+ 
+ la provincia di Arezzo con L. 500; 
+ 
+ il comune di Stia con L. 500; 
+ 
+ il comune di Pratovecchio con L. 500; 
+ 
+ la Camera di commercio di Arezzo con L. 550. 
+ 
+ I comuni di Pratovecchio e Stia, riuniti in Consorzio, provvedono alla manutenzione, al riscaldamento ed alla illuminazione del locale, di cui il laboratorio-scuola e' gia' fornito. 
+ 
+ Nel laboratorio-scuola e' istituita e mantenuta una collezione xilografica ed una raccolta di strumenti da lavoro e di modelli italiani di oggetti costituenti le piccole industrie forestali.
 
-  
-  
-Ai primi tre comma dell'[art. 2 del R. decreto 19 luglio 1907, n. 386](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-19;386~art2), e' sostituita la seguente disposizione:   
-  
-Alle spese di mantenimento annuo del laboratorio-scuola concorrono:   
-  
-il Ministero d'agricoltura, industria e commercio con L. 3500;   
-  
-la provincia di Arezzo con L. 500;   
-  
-il comune di Stia con L. 500;   
-  
-il comune di Pratovecchio con L. 500;   
-  
-la Camera di commercio di Arezzo con L. 550.   
-  
-I comuni di Pratovecchio e Stia, riuniti in Consorzio, provvedono alla manutenzione, al riscaldamento ed alla illuminazione del locale, di cui il laboratorio-scuola e' gia' fornito.   
-  
-Nel laboratorio-scuola e' istituita e mantenuta una collezione xilografica ed una raccolta di strumenti da lavoro e di modelli italiani di oggetti costituenti le piccole industrie forestali.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Alle spese nuove e supplementari d'inizio dell'Istituto e della collezione di cui all'articolo precedente previste in L. 24,700, provvederanno il Ministero d'agricoltura, industria e commercio con L. 12,350 con i fondi del capitolo 146 per l'esercizio 1909-910 ed i comuni di Pratovecchio e di Stia con apposite assegnazioni nei rispettivi bilanci per la somma di L. 6175 per ciascuno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 1° agosto 1910.   
-  
-VITTORIO EMANUELE.   
-  
-Raineri.   
-  
-Visto, Il guardasigilli: Fani.   
-  
+Alle spese nuove e supplementari d'inizio dell'Istituto e della collezione di cui all'articolo precedente previste in L. 24,700, provvederanno il Ministero d'agricoltura, industria e commercio con L. 12,350 con i fondi del capitolo 146 per l'esercizio 1909-910 ed i comuni di Pratovecchio e di Stia con apposite assegnazioni nei rispettivi bilanci per la somma di L. 6175 per ciascuno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 1° agosto 1910. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Raineri. 
+ 
+ Visto, Il guardasigilli: Fani.

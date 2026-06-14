@@ -1,16 +1,14 @@
-REGIO DECRETO 14 novembre 1877 n. 4124
-
-
-REGIO DECRETO 14 novembre 1877 n. 4124
-======================================
-
-Che separa il comune di Casalnuovo Monterotaro dalla sezione elettorale di Castelnuovo della Daunia e lo costituisce in sezione distinta del collegio di San Severo. (077U4124)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/12/1877
+---
+tipo: REGIO DECRETO
+numero: 4124
+data: 1877-11-14
+titolo: "Che separa il comune di Casalnuovo Monterotaro dalla sezione elettorale di Castelnuovo della Daunia e lo costituisce in sezione distinta del collegio di San Severo. (077U4124)"
+urn: urn:nir:stato:regio.decreto:1877-11-14;4124
+codice_redazionale: 077U4124
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Casalnuovo Monterotaro e' separato dalla sezione elettorale di Castelnuovo della Daunia, e formera' una sezione distinta del Collegio elettorale di San Severo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 14 novembre 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il comune di Casalnuovo Monterotaro e' separato dalla sezione elettorale di Castelnuovo della Daunia, e formera' una sezione distinta del Collegio elettorale di San Severo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 14 novembre 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

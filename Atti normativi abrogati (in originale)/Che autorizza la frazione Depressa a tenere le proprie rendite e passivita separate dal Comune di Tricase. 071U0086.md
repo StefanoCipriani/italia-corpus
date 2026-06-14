@@ -1,16 +1,14 @@
-REGIO DECRETO 05 febbraio 1871 n. 86
-
-
-REGIO DECRETO 05 febbraio 1871 n. 86
-====================================
-
-Che autorizza la frazione Depressa a tenere le proprie rendite e passivita' separate dal Comune di Tricase. (071U0086)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/03/1871
+---
+tipo: REGIO DECRETO
+numero: 86
+data: 1871-02-05
+titolo: "Che autorizza la frazione Depressa a tenere le proprie rendite e passivita' separate dal Comune di Tricase. (071U0086)"
+urn: urn:nir:stato:regio.decreto:1871-02-05;86
+codice_redazionale: 071U0086
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Vista la deliberazione del Consiglio comunale di Tricase, in data 3 settembre 18
 
 Visto l'articolo 16 della Legge comunale e provinciale, 20 marzo 1865, allegato A;
 
-Vista
------
+Vista la Legge 18 agosto 1870, n. 5815; Abbiamo decretato e decretiamo:
 
-la Legge 18 agosto 1870, n. 5815; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La frazione Depressa e' autorizzata a tener le proprie rendite patrimoniali, le passivita' e le spese separate da quelle del rimanente del Comune di Tricase.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 5 febbraio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 1° marzo 1871   
-  
-Reg. 54 Atti del Governo a c. 173. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+La frazione Depressa e' autorizzata a tener le proprie rendite patrimoniali, le passivita' e le spese separate da quelle del rimanente del Comune di Tricase. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 5 febbraio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 1° marzo 1871 
+ 
+ Reg. 54 Atti del Governo a c. 173. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

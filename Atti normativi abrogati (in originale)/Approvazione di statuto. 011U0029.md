@@ -1,19 +1,15 @@
-REGIO DECRETO 19 gennaio 1911 n. 29
+---
+tipo: REGIO DECRETO
+numero: 29
+data: 1911-01-19
+titolo: "Approvazione di statuto. (011U0029)"
+urn: urn:nir:stato:regio.decreto:1911-01-19;29
+codice_redazionale: 011U0029
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 gennaio 1911 n. 29
-===================================
-
-Approvazione di statuto. (011U0029)
------------------------------------
-
-Entrata in vigore del provvedimento: 03/03/1911
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. 29 (Dato a Roma, il 19 gennaio 1911), col quale si approva lo statuto della Cassa agraria di San Teodoro.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. 29 (Dato a Roma, il 19 gennaio 1911), col quale si approva lo statuto della Cassa agraria di San Teodoro.

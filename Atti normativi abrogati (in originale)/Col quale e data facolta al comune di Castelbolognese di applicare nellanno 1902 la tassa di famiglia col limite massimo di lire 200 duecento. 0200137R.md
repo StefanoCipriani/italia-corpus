@@ -1,21 +1,17 @@
-REGIO DECRETO 21 maggio 1902 n. CXXXVII
+---
+tipo: REGIO DECRETO
+numero: CXXXVII
+data: 1902-05-21
+titolo: "Col quale e' data facolta' al comune di Castelbolognese di applicare nell'anno 1902 la tassa di famiglia col limite massimo di lire 200 (duecento). (0200137R)"
+urn: urn:nir:stato:regio.decreto:1902-05-21;137
+codice_redazionale: 0200137R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 maggio 1902 n. CXXXVII
-=======================================
-
-Col quale e' data facolta' al comune di Castelbolognese di applicare nell'anno 1902 la tassa di famiglia col limite massimo di lire 200 (duecento). (0200137R)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/06/1902
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di Castelbolognese di applicare nell'anno 1902 la tassa di famiglia col limite massimo di lire 200 (duecento). - Firmato VITTORIO EMANUELE - Controfirmato Carcano - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 4 giugno 1902.   
-  
-Reg. 3. Atti del Governo a f. 120.   
-  
+Col quale e' data facolta' al comune di Castelbolognese di applicare nell'anno 1902 la tassa di famiglia col limite massimo di lire 200 (duecento). - Firmato VITTORIO EMANUELE - Controfirmato Carcano - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 4 giugno 1902. 
+ 
+ Reg. 3. Atti del Governo a f. 120.

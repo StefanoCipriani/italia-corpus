@@ -1,17 +1,17 @@
-REGIO DECRETO 05 dicembre 1920 n. 1876
+---
+tipo: REGIO DECRETO
+numero: 1876
+data: 1920-12-05
+titolo: "Aumento di retta. (020U1876)"
+urn: urn:nir:stato:regio.decreto:1920-12-05;1876
+codice_redazionale: 020U1876
+vigente: true
+---
 
-
-REGIO DECRETO 05 dicembre 1920 n. 1876
-======================================
-
-Aumento di retta. (020U1876)
-----------------------------
-
-Entrata in vigore del provvedimento: 03/02/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1876. Regio decreto 5 dicembre 1920, col quale, sulla proposta del Ministro dell'istruzione pubblica, dal 1° gennaio 1921, viene aumentata la retta per le alunne del R. Collegio «M. Adelaide» di Palermo.
+1876.
+
+Regio decreto 5 dicembre 1920, col quale, sulla proposta del Ministro dell'istruzione pubblica, dal 1° gennaio 1921, viene aumentata la retta per le alunne del R. Collegio «M. Adelaide» di Palermo.

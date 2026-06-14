@@ -1,16 +1,14 @@
-REGIO DECRETO 22 febbraio 1874 n. 1823
-
-
-REGIO DECRETO 22 febbraio 1874 n. 1823
-======================================
-
-Col quale sono aggiunte dieci linee all'Elenco delle strade provinciali di Arezzo. (074U1823)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/04/1874
+---
+tipo: REGIO DECRETO
+numero: 1823
+data: 1874-02-22
+titolo: "Col quale sono aggiunte dieci linee all'Elenco delle strade provinciali di Arezzo. (074U1823)"
+urn: urn:nir:stato:regio.decreto:1874-02-22;1823
+codice_redazionale: 074U1823
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,7 +32,7 @@ Vedute le deliberazioni emesse sui predetti reclami dalla Deputazione provincial
 
 Veduto il parere 12 luglio 1873 del Consiglio superiore del Lavori Pubblici;
 
-Veduti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13), [14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14) e [15 della legge 20 marzo 1865, num. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art15), allegato F;
+Veduti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14) e [15 della legge 20 marzo 1865, num. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_15), allegato F;
 
 Considerando sul ricorso del comune di Cortona:
 
@@ -52,39 +50,20 @@ Che, relativamente all'altra condizione che si vorrebbe apporre a detta costruzi
 
 Udito l'avviso del Consiglio di Stato,
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono aggiunte alle strade provinciali della provincia di Arezzo le dieci linee descritte nell'elenco, che, visto d'ordine Nostro dal predetto Ministro, stara' unito al presente decreto.
 
-  
-  
-Sono aggiunte alle strade provinciali della provincia di Arezzo le dieci linee descritte nell'elenco, che, visto d'ordine Nostro dal predetto Ministro, stara' unito al presente decreto.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' respinto il reclamo del comune di Cortona contro la sopracitata deliberazione 18 ottobre 1872 che non ammise fra le provinciali la strada delle Chianacce, ed e' accolto quello del comune di Pieve Santo Stefano contro la deliberazione stessa e contro l'altra del 20 giugno 1871 nelle parti in cui si riferiscono alle condizioni alle quali si vorrebbe subordinare la costruzione della strada provinciale Tebro-Romagnola, quali deliberazioni sono in dette parti revocate.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli, addi' 22 febbraio 1874.   
-  
-VITTORIO EMANUELE.   
-  
-S. Spaventa.   
-  
-
-Elenco
-
-  
-Elenco delle strade che si aggiungono alle provinciali di Arezzo.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=074U182300100010110001&dgu=1874-03-19&art.dataPubblicazioneGazzetta=1874-03-19&art.codiceRedazionale=074U1823)
-  
+E' respinto il reclamo del comune di Cortona contro la sopracitata deliberazione 18 ottobre 1872 che non ammise fra le provinciali la strada delle Chianacce, ed e' accolto quello del comune di Pieve Santo Stefano contro la deliberazione stessa e contro l'altra del 20 giugno 1871 nelle parti in cui si riferiscono alle condizioni alle quali si vorrebbe subordinare la costruzione della strada provinciale Tebro-Romagnola, quali deliberazioni sono in dette parti revocate. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli, addi' 22 febbraio 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ S. Spaventa.

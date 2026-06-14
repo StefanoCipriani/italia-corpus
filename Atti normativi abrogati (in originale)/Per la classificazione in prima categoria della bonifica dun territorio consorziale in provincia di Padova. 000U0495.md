@@ -1,16 +1,14 @@
-REGIO DECRETO 23 dicembre 1900 n. 495
-
-
-REGIO DECRETO 23 dicembre 1900 n. 495
-=====================================
-
-Per la classificazione in prima categoria della bonifica d'un territorio consorziale in provincia di Padova. (000U0495)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/01/1901
+---
+tipo: REGIO DECRETO
+numero: 495
+data: 1900-12-23
+titolo: "Per la classificazione in prima categoria della bonifica d'un territorio consorziale in provincia di Padova. (000U0495)"
+urn: urn:nir:stato:regio.decreto:1900-12-23;495
+codice_redazionale: 000U0495
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,24 +22,18 @@ Veduto il parere del Consiglio provinciale sanitario;
 
 Sentito il Consiglio Superiore dei Lavori Pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo e decretato decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo e decretato decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' classificata di prima categoria, a termini e per gli effetti dei precitati articoli di legge, la bonificazione del territorio consorziale dei Comuni di Carrara S. Giorgio e Carrara S. Stefano, in provincia di Padova.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 dicembre 1900.   
-  
-VITTORIO EMANUELE.   
-  
-Branca.   
-  
-Visto, Il Guardasigilli: Gianturco.   
+E' classificata di prima categoria, a termini e per gli effetti dei precitati articoli di legge, la bonificazione del territorio consorziale dei Comuni di Carrara S. Giorgio e Carrara S. Stefano, in provincia di Padova. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 dicembre 1900. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Branca. 
+ 
+ Visto, Il Guardasigilli: Gianturco.

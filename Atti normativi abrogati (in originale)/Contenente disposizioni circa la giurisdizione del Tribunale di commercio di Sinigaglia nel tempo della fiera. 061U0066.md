@@ -1,16 +1,14 @@
-REGIO DECRETO 23 giugno 1861 n. 66
-
-
-REGIO DECRETO 23 giugno 1861 n. 66
-==================================
-
-Contenente disposizioni circa la giurisdizione del Tribunale di commercio di Sinigaglia nel tempo della fiera. (061U0066)
--------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/07/1861
+---
+tipo: REGIO DECRETO
+numero: 66
+data: 1861-06-23
+titolo: "Contenente disposizioni circa la giurisdizione del Tribunale di commercio di Sinigaglia nel tempo della fiera. (061U0066)"
+urn: urn:nir:stato:regio.decreto:1861-06-23;66
+codice_redazionale: 061U0066
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,77 +20,46 @@ Visto l'art. 4 del R. Decreto 26 novembre 1860, n.° 4450, e l'art. 4 della legg
 
 Considerato che a fronte di queste sanzioni legislative e' autorizzato il Governo del Re a provvedere nella soggetta materia, la quale tende appunto a mantenere in vigore alcune parti della legislazione antica, con quelle modificazioni pero' richieste dalla necessita' delle mutazioni avvenute sia nei nomi, sia nelle attribuzioni di alcuni dei funzionarii;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli Ministro Segretario di Stato per gli Affari Ecclesiastici, di Grazia e Giustizia; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Guardasigilli Ministro Segretario di Stato per gli Affari Ecclesiastici, di Grazia e Giustizia; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+L'attuale Tribunale di commercio sedente in Sinigaglia conoscera' di tutte le cause anche inferiori alle lire mille che potranno insorgere sulle obbligazioni commerciali relative alla fiera, quelle scadenti nella fiera, e sui contratti e sulle obbligazioni che si faranno in fiera, e negli otto giorni prima e dopo la medesima.
 
-  
-  
-L'attuale Tribunale di commercio sedente in Sinigaglia conoscera' di tutte le cause anche inferiori alle lire mille che potranno insorgere sulle obbligazioni commerciali relative alla fiera, quelle scadenti nella fiera, e sui contratti e sulle obbligazioni che si faranno in fiera, e negli otto giorni prima e dopo la medesima.   
-  
+## Art. 2.
 
-Art. 2
-------
+Il termine ordinario delle citazioni sara' di un sol giorno - Nei casi piu' urgenti il Presidente del Tribunale con ordine scritto potra' permettere che si citi da un'ora all'altra.
 
-  
-  
-Il termine ordinario delle citazioni sara' di un sol giorno - Nei casi piu' urgenti il Presidente del Tribunale con ordine scritto potra' permettere che si citi da un'ora all'altra.   
-  
+## Art. 3.
 
-Art. 3
-------
+Le parti che non sono domiciliate in Sinigaglia dovranno eleggervi il domicilio - in mancanza il domicilio s'intendera' come eletto presso il loro Procuratore anche per l'effetto della intimazione della sentenza, se lo hanno costituito - Qualora non abbiano eletto il domicilio ne' costituito il Procuratore, si procedera' col mezzo dell'affissione degli atti e delle sentenze alla porta dell'uditorio del Tribunale, senza bisogno d'inserirli nei diari o gazzette.
 
-  
-  
-Le parti che non sono domiciliate in Sinigaglia dovranno eleggervi il domicilio - in mancanza il domicilio s'intendera' come eletto presso il loro Procuratore anche per l'effetto della intimazione della sentenza, se lo hanno costituito - Qualora non abbiano eletto il domicilio ne' costituito il Procuratore, si procedera' col mezzo dell'affissione degli atti e delle sentenze alla porta dell'uditorio del Tribunale, senza bisogno d'inserirli nei diari o gazzette.   
-  
+## Art. 4.
 
-Art. 4
-------
+Le forme stabilite dal Codice di procedura per i Giudici di Mandamento saranno applicabili alle cause di fiera, con facolta' inoltre al Presidente del Tribunale di abbreviare i termini, in caso di speciale urgenza.
 
-  
-  
-Le forme stabilite dal Codice di procedura per i Giudici di Mandamento saranno applicabili alle cause di fiera, con facolta' inoltre al Presidente del Tribunale di abbreviare i termini, in caso di speciale urgenza.   
-  
+## Art. 5.
 
-Art. 5
-------
+Per i Procuratori approvati terra' luogo del mandato di procura ad litem l'esibizione di scritture private originali che contengono obbligazione, e servono di fondamento alla domanda.
 
-  
-  
-Per i Procuratori approvati terra' luogo del mandato di procura ad litem l'esibizione di scritture private originali che contengono obbligazione, e servono di fondamento alla domanda.   
-  
+## Art. 6.
 
-Art. 6
-------
+I provvedimenti e le sentenze nelle cause di fiera sono eseguibili provvisoriamente, e non ostante appello. L'esecuzione potra' farsi nel giorno successivo alla notifica, senza la preventiva ingiunzione o comando.
 
-  
-  
-I provvedimenti e le sentenze nelle cause di fiera sono eseguibili provvisoriamente, e non ostante appello. L'esecuzione potra' farsi nel giorno successivo alla notifica, senza la preventiva ingiunzione o comando.   
-  
+## Art. 7.
 
-Art. 7
-------
-
-  
-  
-Le cause che non fossero decise entro gli otto giorni dopo la fiera saranno proseguite nello stato e termini nello stesso Tribunale con le forme della procedura ordinaria.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 23 giugno 1861.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 27 giugno 1861   
-  
-Reg.° 17 Atti del Governo a c. 188. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Miglietti.   
-  
-Miglietti.   
-  
+Le cause che non fossero decise entro gli otto giorni dopo la fiera saranno proseguite nello stato e termini nello stesso Tribunale con le forme della procedura ordinaria. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 23 giugno 1861. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 giugno 1861 
+ 
+ Reg.° 17 Atti del Governo a c. 188. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Miglietti. 
+ 
+ Miglietti.

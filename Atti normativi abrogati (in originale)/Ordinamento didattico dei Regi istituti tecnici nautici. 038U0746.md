@@ -1,16 +1,14 @@
-REGIO DECRETO 14 marzo 1938 n. 746
-
-
-REGIO DECRETO 14 marzo 1938 n. 746
-==================================
-
-Ordinamento didattico dei Regi istituti tecnici nautici. (038U0746)
--------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/07/1938
+---
+tipo: REGIO DECRETO
+numero: 746
+data: 1938-03-14
+titolo: "Ordinamento didattico dei Regi istituti tecnici nautici. (038U0746)"
+urn: urn:nir:stato:regio.decreto:1938-03-14;746
+codice_redazionale: 038U0746
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,65 +32,38 @@ Veduti i Regi decreti-legge 24 agosto 1933-XI, nn. 2331, 2332, 2333, 2334, 2335,
 
 Veduto il R. decreto-legge 17 settembre 1936-XIV, n. 1932;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con i Nostri Ministri Segretari di Stato per l'interno e per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con i Nostri Ministri Segretari di Stato per l'interno e per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A decorrere dal 16 ottobre 1938-XVI, e' istituito un corso completo di classi per la specializzazione macchinisti presso i Regi istituti tecnici nautici di Ancona, Cagliari, Camogli, Fiume e Lussinpiccolo.
 
-  
-  
-A decorrere dal 16 ottobre 1938-XVI, e' istituito un corso completo di classi per la specializzazione macchinisti presso i Regi istituti tecnici nautici di Ancona, Cagliari, Camogli, Fiume e Lussinpiccolo. 
+## Art. 2.
 
-Art. 2
-------
+Dalla stessa data e' soppresso un corso completo di classi per la specializzazione capitani presso i Regi istituti tecnici nautici di Genova, Napoli, Palermo, Trieste e Venezia.
 
-  
-  
-Dalla stessa data e' soppresso un corso completo di classi per la specializzazione capitani presso i Regi istituti tecnici nautici di Genova, Napoli, Palermo, Trieste e Venezia.   
+## Art. 3.
 
-Art. 3
-------
+A decorrere dal 16 ottobre 1938-XVI, per i Regi istituti tecnici nautici i posti di ruolo del personale direttivo ed insegnante sono stabiliti in conformita' della tabella annessa al presente decreto e firmata, d'ordine Nostro, dai Ministri Segretari di Stato per l'educazione nazionale e da quello per le finanze.
 
-  
-  
-A decorrere dal 16 ottobre 1938-XVI, per i Regi istituti tecnici nautici i posti di ruolo del personale direttivo ed insegnante sono stabiliti in conformita' della tabella annessa al presente decreto e firmata, d'ordine Nostro, dai Ministri Segretari di Stato per l'educazione nazionale e da quello per le finanze.   
+## Art. 4.
 
-Art. 4
-------
+E' in facolta' del Ministro per l'educazione nazionale di destinare a cattedre di materie affini nei Regi istituti tecnici nautici ovvero a cattedre delle stesse discipline in altri Istituti di istruzione tecnica, nonche' nelle Scuole e Istituti di istruzione media classica, scientifica e magistrale, con lo modalita' previste dal [R. decreto 11 ottobre 1934, n. 2107](Norme%20circa%20i%20passaggi%20dei%20presidi%20direttori%20e%20professori%20dei%20Regi%20istituti%20distruzione%20media%20tecnica%20alle%20presidenze%20e%20alle%20cattedre%20dei%20Regi%20istituti%20medi%20distruzione%20classica%20scientifi_74cd36cb4b80.md), i professori che, a seguito della nuova distribuzione di posti di ruolo prevista dall'articolo precedente, risultino in soprannumero.
 
-  
-  
-E' in facolta' del Ministro per l'educazione nazionale di destinare a cattedre di materie affini nei Regi istituti tecnici nautici ovvero a cattedre delle stesse discipline in altri Istituti di istruzione tecnica, nonche' nelle Scuole e Istituti di istruzione media classica, scientifica e magistrale, con lo modalita' previste dal [R. decreto 11 ottobre 1934, n. 2107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-10-11;2107), i professori che, a seguito della nuova distribuzione di posti di ruolo prevista dall'articolo precedente, risultino in soprannumero.   
+## Art. 5.
 
-Art. 5
-------
-
-  
-  
-Con successivi Regi decreti saranno modificate le tabelle organiche annesse agli statuti di ciascuno dei Regi istituti tecnici nautici citati nella tabella annessa al presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 marzo 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Bottai - Di Revel   
-  
-Visto, il Guardasigilli: Solmi   
-  
-Registrato alla Corte del conti, addi' 10 giugno 1938 - Anno XVI   
-  
-Atti del Governo, registro 398, foglio 72. - Mancini.   
-
-Tabella
-
-  
-Tabella dei posti di ruolo del personale direttivo e insegnante dei RR. Istituti Tecnici Nautici.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=038U074600100010110001&dgu=1938-06-17&art.dataPubblicazioneGazzetta=1938-06-17&art.codiceRedazionale=038U0746)
-  
-  
+Con successivi Regi decreti saranno modificate le tabelle organiche annesse agli statuti di ciascuno dei Regi istituti tecnici nautici citati nella tabella annessa al presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 marzo 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Bottai - Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi 
+ 
+ Registrato alla Corte del conti, addi' 10 giugno 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 398, foglio 72. - Mancini.

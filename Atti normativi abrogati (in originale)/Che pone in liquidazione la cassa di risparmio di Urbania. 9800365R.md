@@ -1,22 +1,19 @@
-REGIO DECRETO 25 ottobre 1898 n. CCCLXV
+---
+tipo: REGIO DECRETO
+numero: CCCLXV
+data: 1898-10-25
+titolo: "Che pone in liquidazione la cassa di risparmio di Urbania. (9800365R)"
+urn: urn:nir:stato:regio.decreto:1898-10-25;365
+codice_redazionale: 9800365R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 ottobre 1898 n. CCCLXV
-=======================================
+Che pone in liquidazione la cassa di risparmio di Urbania. - Firmato UMBERTO - Controfirmato A. Fortis - Visto C. Finocchiaro Aprile. 
+ 
+ Registrato alla Corte dei Conti addi' 3 dicembre
 
-Che pone in liquidazione la cassa di risparmio di Urbania. (9800365R)
----------------------------------------------------------------------
+1898.
 
-Entrata in vigore del provvedimento: 25/12/1898
-
-Art. 1
-------
-
-Che pone in liquidazione la cassa di risparmio di Urbania. - Firmato UMBERTO - Controfirmato A. Fortis - Visto C. Finocchiaro Aprile.   
-  
-Registrato alla Corte dei Conti addi' 3 dicembre
-
-1898. 
-  
-  
 Reg. 217. Atti del Governo a f. 179.

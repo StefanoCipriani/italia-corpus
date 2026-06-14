@@ -1,21 +1,21 @@
-REGIO DECRETO 05 aprile 1925 n. 512
+---
+tipo: REGIO DECRETO
+numero: 512
+data: 1925-04-05
+titolo: "Approvazione dello statuto della Cassa speciale di previdenza e di mutua assistenza per il personale delle Ferrovie Nord-Milano. (025U0512)"
+urn: urn:nir:stato:regio.decreto:1925-04-05;512
+codice_redazionale: 025U0512
+vigente: true
+---
 
-
-REGIO DECRETO 05 aprile 1925 n. 512
-===================================
-
-Approvazione dello statuto della Cassa speciale di previdenza e di mutua assistenza per il personale delle Ferrovie Nord-Milano. (025U0512)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/05/1925
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-512. R. decreto 5 aprile 1925, col quale, sulla proposta del Ministro per l'economia nazionale, viene approvato lo statuto della Cassa speciale di previdenza e di mutua assistenza fra il personale delle Ferrovie Nord-Milano.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 30 aprile 1925
+512.
+
+R. decreto 5 aprile 1925, col quale, sulla proposta del Ministro per l'economia nazionale, viene approvato lo statuto della Cassa speciale di previdenza e di mutua assistenza fra il personale delle Ferrovie Nord-Milano. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 30 aprile 1925

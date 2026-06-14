@@ -1,16 +1,14 @@
-REGIO DECRETO 23 dicembre 1880 n. 5835
-
-
-REGIO DECRETO 23 dicembre 1880 n. 5835
-======================================
-
-Che autorizza la borgata Gravellona di Pallanza a denominarsi Gravellona Toce, comune di Casale Corte Cerro (Navara). (080U5835)
---------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/03/1881
+---
+tipo: REGIO DECRETO
+numero: 5835
+data: 1880-12-23
+titolo: "Che autorizza la borgata Gravellona di Pallanza a denominarsi Gravellona Toce, comune di Casale Corte Cerro (Navara). (080U5835)"
+urn: urn:nir:stato:regio.decreto:1880-12-23;5835
+codice_redazionale: 080U5835
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,26 +18,21 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Inter
 
 Vedute le deliberazioni del Consiglio comunale di Casale Corte Cerro in data 4 aprile 1879 e 13 ottobre 1880, colle quali chiede d'essere autorizzato a cambiare l'attuale denominezione della borgata Gravellona di Pallanza con quella di Gravellona Toce.
 
-Veduta
-------
+Veduta la legge comunale e provinciale 20 marzo 1865, allegato A; Abbiamo decretato e decretiamo:
 
-la legge comunale e provinciale 20 marzo 1865, allegato A; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 La borgata Gravellona di Pallanza, appartenente al comune di Casale Corte Cerro, in provincia di Novara, cambiera' l'attuale sua denominazione in quella di Gravellona Toce a datare dal 1° gennaio
 
-1881. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 dicembre 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.
+1881.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 dicembre 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

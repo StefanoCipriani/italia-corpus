@@ -1,16 +1,14 @@
-REGIO DECRETO 06 aprile 1862 n. 549
-
-
-REGIO DECRETO 06 aprile 1862 n. 549
-===================================
-
-Che autorizza le Direzioni speciali del Debito pubblico ad operare l'iscrizione sul Gran Libro della rendita sarda di creazione 12-16 giugno 1849, ed il cambio dei relativi titoli. (062U0549)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/05/1862
+---
+tipo: REGIO DECRETO
+numero: 549
+data: 1862-04-06
+titolo: "Che autorizza le Direzioni speciali del Debito pubblico ad operare l'iscrizione sul Gran Libro della rendita sarda di creazione 12-16 giugno 1849, ed il cambio dei relativi titoli. (062U0549)"
+urn: urn:nir:stato:regio.decreto:1862-04-06;549
+codice_redazionale: 062U0549
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,37 +26,26 @@ Considerando che i titoli della rendita sarda di creazione 12-16 giugno 1849 tro
 
 Considerando che ammessa l'iscrizione della rendita di cui e' parola, e il cambio dei relativi titoli presso le Direzioni, oltre di accelerare l'operazione della unificazione e favorire il commercio dei titoli stessi, si diminuirebbe ancora non poco la responsabilita' della Direzione Generale nella trasmissione dei titoli al portatore alle Direzioni;
 
-Sulla
------
+Sulla proposizione del Ministro delle Finanze; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposizione del Ministro delle Finanze; Abbiamo ordinato ed ordiniamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+L'iscrizione sul Gran Libro del Debito pubblico del Regno d'Italia della rendita sarda di creazione 12-16 giugno 1849, di cui al n.° 6 dell'elenco B annesso alla legge del 4 agosto 1861, ed il cambio dei relativi titoli avranno luogo indistintamente presso la Direzione Generale, e presso le Direzioni speciali del Debito pubblico.
 
-  
-  
-L'iscrizione sul Gran Libro del Debito pubblico del Regno d'Italia della rendita sarda di creazione 12-16 giugno 1849, di cui al n.° 6 dell'elenco B annesso alla legge del 4 agosto 1861, ed il cambio dei relativi titoli avranno luogo indistintamente presso la Direzione Generale, e presso le Direzioni speciali del Debito pubblico.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Per la trascrizione sul Gran Libro della rendita sarda 12-16 giugno 1849, le Direzioni speciali apriranno un apposito Registro conforme al modello n.° 44 inserto nel Regolamento approvato col Regio Decreto 3 novembre 1861, uniformandosi alle altre disposizioni generali concernenti il cambio dei titoli, e a quelle relative al trasferimento delle iscrizioni contenute nel titolo nono del Regio Decreto del 28 luglio 1861.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 6 aprile 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 8 aprile 1862   
-  
-Reg.° 19 Atti del Governo a c. 163. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Rattazzi.   
-  
-Quintino Sella.   
-  
+Per la trascrizione sul Gran Libro della rendita sarda 12-16 giugno 1849, le Direzioni speciali apriranno un apposito Registro conforme al modello n.° 44 inserto nel Regolamento approvato col Regio Decreto 3 novembre 1861, uniformandosi alle altre disposizioni generali concernenti il cambio dei titoli, e a quelle relative al trasferimento delle iscrizioni contenute nel titolo nono del Regio Decreto del 28 luglio 1861. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 6 aprile 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 8 aprile 1862 
+ 
+ Reg.° 19 Atti del Governo a c. 163. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Rattazzi. 
+ 
+ Quintino Sella.

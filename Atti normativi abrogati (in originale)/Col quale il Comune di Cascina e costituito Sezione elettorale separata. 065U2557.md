@@ -1,16 +1,14 @@
-REGIO DECRETO 08 ottobre 1865 n. 2557
-
-
-REGIO DECRETO 08 ottobre 1865 n. 2557
-=====================================
-
-Col quale il Comune di Cascina e' costituito Sezione elettorale separata. (065U2557)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1865
+---
+tipo: REGIO DECRETO
+numero: 2557
+data: 1865-10-08
+titolo: "Col quale il Comune di Cascina e' costituito Sezione elettorale separata. (065U2557)"
+urn: urn:nir:stato:regio.decreto:1865-10-08;2557
+codice_redazionale: 065U2557
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,30 +24,22 @@ Noverandosi nel Comune di Cascina piu' di 40 Elettori e piu' di altrettanti nell
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Cascina che fino ad ora fece parte della Sezione detta di Pontedera del Collegio elettorale di Pontedera, n.° 330, costituira' d'ora in poi una Sezione separata del Collegio medesimo.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Torino addi' 8 ottobre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 19 ottobre 1865   
-  
-Reg.° 53 Atti del Governo a c. 237.Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
-  
-  
+Il Comune di Cascina che fino ad ora fece parte della Sezione detta di Pontedera del Collegio elettorale di Pontedera, n.° 330, costituira' d'ora in poi una Sezione separata del Collegio medesimo. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Torino addi' 8 ottobre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 19 ottobre 1865 
+ 
+ Reg.° 53 Atti del Governo a c. 237.Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli.

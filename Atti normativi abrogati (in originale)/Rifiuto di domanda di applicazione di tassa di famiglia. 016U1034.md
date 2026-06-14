@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 27 luglio 1916 n. 1034
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1034
+data: 1916-07-27
+titolo: "Rifiuto di domanda di applicazione di tassa di famiglia. (016U1034)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-07-27;1034
+codice_redazionale: 016U1034
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 27 luglio 1916 n. 1034
-==============================================
-
-Rifiuto di domanda di applicazione di tassa di famiglia. (016U1034)
--------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/09/1916
-
-Art. 1
-------
-
-  
-N. 1034   
-  
-Decreto Luogotenenziale 27 luglio 1916, col quale, sulla proposta del ministro delle finanze, la domanda avanzata dal comune di Bologna, per essere autorizzato ad applicare la tassa di famiglia con un' aliquota percentuale eccedente quella massima normale ed in base alla tariffa stabilita nella deliberazione consiliare 2 aprile 1916, e' respinta.   
-  
+N. 1034 
+ 
+ Decreto Luogotenenziale 27 luglio 1916, col quale, sulla proposta del ministro delle finanze, la domanda avanzata dal comune di Bologna, per essere autorizzato ad applicare la tassa di famiglia con un' aliquota percentuale eccedente quella massima normale ed in base alla tariffa stabilita nella deliberazione consiliare 2 aprile 1916, e' respinta.

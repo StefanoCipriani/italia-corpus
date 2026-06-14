@@ -1,16 +1,14 @@
-REGIO DECRETO 19 ottobre 1865 n. 2563
-
-
-REGIO DECRETO 19 ottobre 1865 n. 2563
-=====================================
-
-Con cui il Comune di S. Giovanni in Marignano viene eretto in Sezione elettorale separata del Collegio di Rimini. (065U2563)
-----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1865
+---
+tipo: REGIO DECRETO
+numero: 2563
+data: 1865-10-19
+titolo: "Con cui il Comune di S. Giovanni in Marignano viene eretto in Sezione elettorale separata del Collegio di Rimini. (065U2563)"
+urn: urn:nir:stato:regio.decreto:1865-10-19;2563
+codice_redazionale: 065U2563
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DILLA NAZIONE
 
@@ -26,30 +24,22 @@ Noverandosi nel Comune di San Giovanni in Marignano piu' di 40 Elettori e piu' d
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di San Giovanni in Marignano, che sino ad ora fece parte della Sezione detta di Saludecio del Collegio elettorale di Rimini, n.° 183, costituira' d'ora in poi una Sezione separata del Collegio medesimo.   
-  
-Ordiniamo che il presente Decreto, muniti del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 19 ottobre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 23 ottobre 1865   
-  
-Reg.° 34 Atti del Governo a c. 17. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
-  
-  
+Il Comune di San Giovanni in Marignano, che sino ad ora fece parte della Sezione detta di Saludecio del Collegio elettorale di Rimini, n.° 183, costituira' d'ora in poi una Sezione separata del Collegio medesimo. 
+ 
+ Ordiniamo che il presente Decreto, muniti del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 19 ottobre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 23 ottobre 1865 
+ 
+ Reg.° 34 Atti del Governo a c. 17. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli.

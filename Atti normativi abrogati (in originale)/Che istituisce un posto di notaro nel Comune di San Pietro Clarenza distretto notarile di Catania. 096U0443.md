@@ -1,16 +1,14 @@
-REGIO DECRETO 24 settembre 1896 n. 443
-
-
-REGIO DECRETO 24 settembre 1896 n. 443
-======================================
-
-Che istituisce un posto di notaro nel Comune di San Pietro Clarenza, distretto notarile di Catania. (096U0443)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/10/1896
+---
+tipo: REGIO DECRETO
+numero: 443
+data: 1896-09-24
+titolo: "Che istituisce un posto di notaro nel Comune di San Pietro Clarenza, distretto notarile di Catania. (096U0443)"
+urn: urn:nir:stato:regio.decreto:1896-09-24;443
+codice_redazionale: 096U0443
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,23 +24,16 @@ Visto l'art. 4 della legge notarile 25 maggio 1879 n. 4900, a la tabella del num
 
 Ritenuta la necessita' dell'istituzione di un posto di notaio nel comune di San Pietro Clarenza.
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un posto di notato nel comune di San Pietro Clarenza distretto notarile di Catania.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Spezia, addi' 24 settembre 1896.   
-  
-UMBERTO.   
-  
-G. Costa.   
-  
-Visto, Il Guardasigilli: G. Costa.   
-  
+E' istituito un posto di notato nel comune di San Pietro Clarenza distretto notarile di Catania. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Spezia, addi' 24 settembre 1896. 
+ 
+ UMBERTO. 
+ 
+ G. Costa. 
+ 
+ Visto, Il Guardasigilli: G. Costa.

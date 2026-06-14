@@ -1,16 +1,14 @@
-REGIO DECRETO 17 febbraio 1870 n. 5518
-
-
-REGIO DECRETO 17 febbraio 1870 n. 5518
-======================================
-
-E' riconosciuto alienabile un fondo demaniale del Comune di Radicena in Calabria Ulteriore 1ª. (070U5518)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/04/1870
+---
+tipo: REGIO DECRETO
+numero: 5518
+data: 1870-02-17
+titolo: "E' riconosciuto alienabile un fondo demaniale del Comune di Radicena in Calabria Ulteriore 1ª. (070U5518)"
+urn: urn:nir:stato:regio.decreto:1870-02-17;5518
+codice_redazionale: 070U5518
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,28 +20,26 @@ Viste le deliberazioni prese dal Consiglio comunale di Radicena, in Calabria Ult
 
 Visto l'avviso del Consiglio di Stato nella sua adunanza generale del 28 agosto 1869;
 
-Sulla
------
+Sulla proposizione del Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposizione del Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il fondo demaniale del Comune di Radicena in Calabria Ulteriore Iª, denominato Bosco Olmo Longo, della estensione di ettari
 
-63. 20, e' riconosciuto alienabile con le medesime formalita' e cautele necessarie per l'alienazione degli altri fondi comunali, in adempimento della [Legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato A.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 17 febbraio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 2 marzo 1870   
-  
-Reg. 50 Atti del Governo a c. 94. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-Castagnola.
+63.
+
+20, e' riconosciuto alienabile con le medesime formalita' e cautele necessarie per l'alienazione degli altri fondi comunali, in adempimento della [Legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato A. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 17 febbraio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 2 marzo 1870 
+ 
+ Reg. 50 Atti del Governo a c. 94. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ Castagnola.

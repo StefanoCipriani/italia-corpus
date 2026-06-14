@@ -1,16 +1,14 @@
-REGIO DECRETO 02 gennaio 1881 n. 20
-
-
-REGIO DECRETO 02 gennaio 1881 n. 20
-===================================
-
-Che accorda un'indennita' di funzioni all'ufficiale addetto alla cordiera di Castellammare. (081U0020)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/02/1881
+---
+tipo: REGIO DECRETO
+numero: 20
+data: 1881-01-02
+titolo: "Che accorda un'indennita' di funzioni all'ufficiale addetto alla cordiera di Castellammare. (081U0020)"
+urn: urn:nir:stato:regio.decreto:1881-01-02;20
+codice_redazionale: 081U0020
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,26 +20,19 @@ Visto lo stato di prima previsione della spesa del Ministero della Marina per l'
 
 Vista la tabella annessa al Regio decreto 24 dicembre 1868, che stabilisce degli assegnamenti straordinari al personale di marina impiegato a terra;
 
-Sulla
------
+Sulla proposta del Nostro Ministro della Marina, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro della Marina, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A decorrere dal 1° gennaio 1881 e' accordata una indennita' di funzioni di lire trecento annue all'ufficiale addetto alla corderia di Castellammare.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 gennaio 1881.   
-  
-UMBERTO.   
-  
-F. Acton.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+A decorrere dal 1° gennaio 1881 e' accordata una indennita' di funzioni di lire trecento annue all'ufficiale addetto alla corderia di Castellammare. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 gennaio 1881. 
+ 
+ UMBERTO. 
+ 
+ F. Acton. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

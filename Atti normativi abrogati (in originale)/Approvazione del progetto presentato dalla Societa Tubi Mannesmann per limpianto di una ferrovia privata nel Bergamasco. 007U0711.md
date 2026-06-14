@@ -1,16 +1,14 @@
-REGIO DECRETO 20 ottobre 1907 n. 711
-
-
-REGIO DECRETO 20 ottobre 1907 n. 711
-====================================
-
-Approvazione del progetto presentato dalla Societa' Tubi Mannesmann per l'impianto di una ferrovia privata nel Bergamasco. (007U0711)
--------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/11/1907
+---
+tipo: REGIO DECRETO
+numero: 711
+data: 1907-10-20
+titolo: "Approvazione del progetto presentato dalla Societa' Tubi Mannesmann per l'impianto di una ferrovia privata nel Bergamasco. (007U0711)"
+urn: urn:nir:stato:regio.decreto:1907-10-20;711
+codice_redazionale: 007U0711
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -40,29 +38,22 @@ h) per la chiusura della linea in prossimita' degli abitati, si dovra', all'atto
 
 i) la locomotiva da adibirsi all'esercizio della ferrovia privata dovra' essere verificata e provata dal Circolo di ispezione ferroviaria di Milano prima dell'apertura all'esercizio, ed i tipi dei carri e delle altre locomotive che eventualmente la Societa' acquistasse dovranno essere sottoposti alla preventiva superiore approvazione, alla quale dovranno pure essere sottoposte le modalita' di esercizio e di sorveglianza della linea da stabilirsi, in uno speciale regolamento, in relazione al traffico ed al servizio che si effettuera' sulla linea stessa;
 
-Viste le [leggi 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248) (allegato F) sui lavori pubblici, 25 giugno 1865, n. 2359, sulle espropriazioni per causa di pubblica utilita' e 30 giugno 1906, n. 272, riguardante disposizioni speciali sulla costruzione e l'esercizio delle strade ferrate, nonche' le dichiarazioni fatte dalla Societa' nella sua domanda suaccennata, di sottoporsi ai regolamenti di cui all'art. 26 di quest'ultima legge;
+Viste le [leggi 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248) (allegato F) sui lavori pubblici, 25 giugno 1865, n. 2359, sulle espropriazioni per causa di pubblica utilita' e 30 giugno 1906, n. 272, riguardante disposizioni speciali sulla costruzione e l'esercizio delle strade ferrate, nonche' le dichiarazioni fatte dalla Societa' nella sua domanda suaccennata, di sottoporsi ai regolamenti di cui all'art. 26 di quest'ultima legge;
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvato, anche agli effetti della dichiarazione di pubblica utilita', assegnando un termine di due anni, a decorrere dalla data del presente decreto, per il completamento delle espropriazioni e dei lavori, e subordinatamente alle condizioni di cui ai precedenti considerando, il progetto 12 giugno o 27 luglio 1907 presentato dalla Societa' Tubi Mannesmann a corredo della sua domanda, per l'impianto e l'esercizio di una ferrovia privata di 2ª categoria, poi raccordo del proprio stabilimento da erigersi in Dalmino (Bergamo) con stazione di Verdello sulla ferrovia Treviglio-Bergamo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo o di farlo osservare.   
-  
-Dato a Roma, addi' 20 ottobre 1907.   
-  
-VITTORIO EMANUELE.   
-  
-Gianturco.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+E' approvato, anche agli effetti della dichiarazione di pubblica utilita', assegnando un termine di due anni, a decorrere dalla data del presente decreto, per il completamento delle espropriazioni e dei lavori, e subordinatamente alle condizioni di cui ai precedenti considerando, il progetto 12 giugno o 27 luglio 1907 presentato dalla Societa' Tubi Mannesmann a corredo della sua domanda, per l'impianto e l'esercizio di una ferrovia privata di 2ª categoria, poi raccordo del proprio stabilimento da erigersi in Dalmino (Bergamo) con stazione di Verdello sulla ferrovia Treviglio-Bergamo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo o di farlo osservare. 
+ 
+ Dato a Roma, addi' 20 ottobre 1907. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Gianturco. 
+ 
+ Visto, Il guardasigilli: Orlando.

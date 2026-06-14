@@ -1,16 +1,14 @@
-REGIO DECRETO 04 maggio 1893 n. 240
-
-
-REGIO DECRETO 04 maggio 1893 n. 240
-===================================
-
-Che accorda al consorzio d'irrigazione di Barco (Reggio Emilia), la facolta' di riscuotere con i privilegi e nelle ferme fiscali, il contributo dei soci. (093U0240)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/06/1893
+---
+tipo: REGIO DECRETO
+numero: 240
+data: 1893-05-04
+titolo: "Che accorda al consorzio d'irrigazione di Barco (Reggio Emilia), la facolta' di riscuotere con i privilegi e nelle ferme fiscali, il contributo dei soci. (093U0240)"
+urn: urn:nir:stato:regio.decreto:1893-05-04;240
+codice_redazionale: 093U0240
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,20 @@ Visto lo statuto del consorzio, approvato dagli utenti in assemblea generale del
 
 Visti gli altri atti relativi;
 
-Vista la [legge 29 maggio 1873 n. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (serie 2ª);
+Vista la [legge 29 maggio 1873 n. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md) (serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro Ministro per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al Consorzio d'irrigazione di Barco, in provincia di Reggio Emilia, e' accordata la facolta' di riscuotere, con i privilegi e nelle forme fiscali, il contributo dei soci.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 maggio 1893.   
-  
-UMBERTO.   
-  
-Lacava.   
-  
-Visto, Il Guardasigilli: Bonacci.   
-  
+Al Consorzio d'irrigazione di Barco, in provincia di Reggio Emilia, e' accordata la facolta' di riscuotere, con i privilegi e nelle forme fiscali, il contributo dei soci. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 maggio 1893. 
+ 
+ UMBERTO. 
+ 
+ Lacava. 
+ 
+ Visto, Il Guardasigilli: Bonacci.

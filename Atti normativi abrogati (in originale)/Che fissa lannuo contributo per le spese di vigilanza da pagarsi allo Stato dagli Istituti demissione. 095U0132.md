@@ -1,24 +1,22 @@
-REGIO DECRETO 18 aprile 1895 n. 132
-
-
-REGIO DECRETO 18 aprile 1895 n. 132
-===================================
-
-Che fissa l'annuo contributo per le spese di vigilanza da pagarsi allo Stato dagli Istituti d'emissione. (095U0132)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/05/1895
+---
+tipo: REGIO DECRETO
+numero: 132
+data: 1895-04-18
+titolo: "Che fissa l'annuo contributo per le spese di vigilanza da pagarsi allo Stato dagli Istituti d'emissione. (095U0132)"
+urn: urn:nir:stato:regio.decreto:1895-04-18;132
+codice_redazionale: 095U0132
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA.
 
-Veduto l'art. 83 del Regolamento approvato con il [R. decreto 21 gennaio 1875 n. 2372](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-01-21;2372);
+Veduto l'art. 83 del Regolamento approvato con il [R. decreto 21 gennaio 1875 n. 2372](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20del%2030%20aprile%201874%20n.%201920%20relativa%20alla%20circolazione%20cartacea%20durante%20il%20corso%20forzoso.%20075U2372.md);
 
-Veduto l'[art. 15, comma 1, della legge 10 agosto 1893 n. 449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-08-10;449~art15-com1);
+Veduto l'[art. 15, comma 1, della legge 10 agosto 1893 n. 449](Sul%20riordinamento%20degli%20Istituti%20di%20emissione.%20093U0449.md);
 
 Veduto il Nostro decreto 12 ottobre 1894 n. 442;
 
@@ -28,39 +26,28 @@ Ritenuto che, per effetto della fusione della Banca Toscana e della Banca Toscan
 
 Sentiti gli Istituti di emissione;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A partire dal 1 gennaio 1895, l'annuo contributo per le spese di vigilanza, da pagarsi allo Stato dagli Istituti di emissione, e' fissato come segue: 
+ 
+ Per la Banca d'Italia, Lire settantamila; 
+ 
+ Per il Banco di Napoli, Lire ventunmila; 
+ 
+ Pe il Banco di Sicilia, Lire cinquemila.
 
-  
-  
-A partire dal 1 gennaio 1895, l'annuo contributo per le spese di vigilanza, da pagarsi allo Stato dagli Istituti di emissione, e' fissato come segue:   
-  
-Per la Banca d'Italia, Lire settantamila;   
-  
-Per il Banco di Napoli, Lire ventunmila;   
-  
-Pe il Banco di Sicilia, Lire cinquemila.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il contributo per le spese di vigilanza, da pagarsi allo Stato dagli Istituti di credito fondiario, appartenenti agli Istituti di emissione, ora in liquidazione, rimane invariato.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 aprile 1895.   
-  
-UMBERTO.   
-  
-Sidney-Sonnino.   
-  
-Visto, Il Guardasigilli: V. Calenda di Tavani.   
-  
+Il contributo per le spese di vigilanza, da pagarsi allo Stato dagli Istituti di credito fondiario, appartenenti agli Istituti di emissione, ora in liquidazione, rimane invariato. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 aprile 1895. 
+ 
+ UMBERTO. 
+ 
+ Sidney-Sonnino. 
+ 
+ Visto, Il Guardasigilli: V. Calenda di Tavani.

@@ -1,16 +1,14 @@
-REGIO DECRETO 06 luglio 1911 n. 819
-
-
-REGIO DECRETO 06 luglio 1911 n. 819
-===================================
-
-Che concede agevolezze alle industrie della preparazione degli oli emulsivi e della raffinazione degli oli minerali. (011U0819)
--------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/08/1911
+---
+tipo: REGIO DECRETO
+numero: 819
+data: 1911-07-06
+titolo: "Che concede agevolezze alle industrie della preparazione degli oli emulsivi e della raffinazione degli oli minerali. (011U0819)"
+urn: urn:nir:stato:regio.decreto:1911-07-06;819
+codice_redazionale: 011U0819
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,25 +18,18 @@ Visto l'art. 18 del testo unico delle leggi sugli spiriti, approvato con Nostro 
 
 Visto l'art. 125 del regolamento per l'esecuzione della detta legge, approvato con Nostro decreto 25 novembre 1909, n. 762;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le industrie della preparazione degli oli emulsivi e della raffinazione degli oli minerali sono ammesse a fruire delle agevolezze consentite all'alcool adulterato, sotto l'osservanza delle condizioni che saranno determinate dal Ministero delle finanze.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 luglio 1911.   
-  
-VITTORIO EMANUELE.   
-  
-Facta.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+Le industrie della preparazione degli oli emulsivi e della raffinazione degli oli minerali sono ammesse a fruire delle agevolezze consentite all'alcool adulterato, sotto l'osservanza delle condizioni che saranno determinate dal Ministero delle finanze. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 luglio 1911. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Facta. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

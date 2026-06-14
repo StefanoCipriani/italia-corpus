@@ -1,17 +1,17 @@
-REGIO DECRETO 29 dicembre 1921 n. 2120
+---
+tipo: REGIO DECRETO
+numero: 2120
+data: 1921-12-29
+titolo: "Applicazione di tassa di esercizio. (021U2120)"
+urn: urn:nir:stato:regio.decreto:1921-12-29;2120
+codice_redazionale: 021U2120
+vigente: true
+---
 
-
-REGIO DECRETO 29 dicembre 1921 n. 2120
-======================================
-
-Applicazione di tassa di esercizio. (021U2120)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 09/04/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2120. Regio decreto 29 dicembre 1921, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Greco Milanese (Milano) di applicare dal 1° gennaio al 31 dicembre 1921 la tassa di esercizio col limite massimo fino a L. 4000.
+2120.
+
+Regio decreto 29 dicembre 1921, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Greco Milanese (Milano) di applicare dal 1° gennaio al 31 dicembre 1921 la tassa di esercizio col limite massimo fino a L. 4000.

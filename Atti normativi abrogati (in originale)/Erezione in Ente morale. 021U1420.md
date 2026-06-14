@@ -1,17 +1,17 @@
-REGIO DECRETO 29 settembre 1921 n. 1420
+---
+tipo: REGIO DECRETO
+numero: 1420
+data: 1921-09-29
+titolo: "Erezione in Ente morale. (021U1420)"
+urn: urn:nir:stato:regio.decreto:1921-09-29;1420
+codice_redazionale: 021U1420
+vigente: true
+---
 
-
-REGIO DECRETO 29 settembre 1921 n. 1420
-=======================================
-
-Erezione in Ente morale. (021U1420)
------------------------------------
-
-Entrata in vigore del provvedimento: 15/11/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1420. Regio decreto 29 settembre 1921, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, la colonia Marina d'Aspra «Cirincione» di Bagheria viene eretta in Ente morale con amministrazione autonoma, e ne e' approvato lo statuto organico.
+1420.
+
+Regio decreto 29 settembre 1921, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, la colonia Marina d'Aspra «Cirincione» di Bagheria viene eretta in Ente morale con amministrazione autonoma, e ne e' approvato lo statuto organico.

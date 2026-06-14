@@ -1,19 +1,15 @@
-REGIO DECRETO 18 giugno 1914 n. 831
+---
+tipo: REGIO DECRETO
+numero: 831
+data: 1914-06-18
+titolo: "Modificazione dello statuto della Cassa di risparmio di Parma. (014U0831)"
+urn: urn:nir:stato:regio.decreto:1914-06-18;831
+codice_redazionale: 014U0831
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 giugno 1914 n. 831
-===================================
-
-Modificazione dello statuto della Cassa di risparmio di Parma. (014U0831)
--------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/09/1914
-
-Art. 1
-------
-
-  
-N. 831   
-  
-Regio Decreto 18 giugno 1914, col quale, sulla proposta del ministro d'agricoltura, industria e commercio, viene approvata una modificazione allo statuto della Cassa di risparmio di Parma.   
-  
+N. 831 
+ 
+ Regio Decreto 18 giugno 1914, col quale, sulla proposta del ministro d'agricoltura, industria e commercio, viene approvata una modificazione allo statuto della Cassa di risparmio di Parma.

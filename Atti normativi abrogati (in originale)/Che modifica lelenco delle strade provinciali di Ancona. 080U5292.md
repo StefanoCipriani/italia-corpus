@@ -1,16 +1,14 @@
-REGIO DECRETO 22 gennaio 1880 n. 5292
-
-
-REGIO DECRETO 22 gennaio 1880 n. 5292
-=====================================
-
-Che modifica l'elenco delle strade provinciali di Ancona. (080U5292)
---------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/03/1880
+---
+tipo: REGIO DECRETO
+numero: 5292
+data: 1880-01-22
+titolo: "Che modifica l'elenco delle strade provinciali di Ancona. (080U5292)"
+urn: urn:nir:stato:regio.decreto:1880-01-22;5292
+codice_redazionale: 080U5292
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,7 +24,7 @@ Veduti i Reali decreti 20 ottobre 1866 e 28 febbraio 1869 riguardanti la classif
 
 Veduto il parere 22 novembre 1879 del Consiglio Superiore dei Lavori Pubblici;
 
-Visti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13), [14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), [13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [25 della legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art25), allegato F;
+Visti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), [13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [25 della legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_25), allegato F;
 
 Ritenuto che il Consiglio provinciale, riconosciuta la convenienza tecnica ed economica di deviare il 3° tronco della strada provinciale Arceviese dalla forte salita di Colgiglioni, approvo' il progetto della linea di che si tratta, la quale, di staccandosi dalla provinciale Sentina presso Sassoferrato per le valli ampie e piane del Rio Bono e della Morena, fa egualmente capo a Fabriano;
 
@@ -44,34 +42,23 @@ Che essendo regolare il procedimento ed avendo il Consiglio Superiore dei Lavori
 
 Udito il parere del Consiglio di Stato,
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretalo e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretalo e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' modificato l'elenco delle strade provinciali di Ancona per quanto riguarda il terzo tratto della via Arceviese fra Sassoferrato e Fabriano nel senso di abbandonare la linea per Genga e Colgiglioni, sostituendovi quella per San Donato e le valli del Rio Bono e della Morena.
 
-  
-  
-E' modificato l'elenco delle strade provinciali di Ancona per quanto riguarda il terzo tratto della via Arceviese fra Sassoferrato e Fabriano nel senso di abbandonare la linea per Genga e Colgiglioni, sostituendovi quella per San Donato e le valli del Rio Bono e della Morena.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' approvato il tracciamento generale della suddetta linea per San Donato e le valli del Rio Bono e della Morena, in conformita' del piano e progetto 19 giugno 1878 dello ufficio tecnico provinciale di Ancona, quale piano, visto d'ordine Nostro dal predetto Ministro Segretario di Stato, stara' unito al presenta decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 gennaio 1880.   
-  
-UMBERTO.   
-  
-A. Baccarini.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+E' approvato il tracciamento generale della suddetta linea per San Donato e le valli del Rio Bono e della Morena, in conformita' del piano e progetto 19 giugno 1878 dello ufficio tecnico provinciale di Ancona, quale piano, visto d'ordine Nostro dal predetto Ministro Segretario di Stato, stara' unito al presenta decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 gennaio 1880. 
+ 
+ UMBERTO. 
+ 
+ A. Baccarini. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

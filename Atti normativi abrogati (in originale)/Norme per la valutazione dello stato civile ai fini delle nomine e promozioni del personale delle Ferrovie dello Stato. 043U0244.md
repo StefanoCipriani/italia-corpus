@@ -1,16 +1,14 @@
-REGIO DECRETO-LEGGE 15 aprile 1943 n. 244
-
-
-REGIO DECRETO-LEGGE 15 aprile 1943 n. 244
-=========================================
-
-Norme per la valutazione dello stato civile ai fini delle nomine e promozioni del personale delle Ferrovie dello Stato. (043U0244)
-----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/05/1943. Regio Decreto-Legge convertito dalla [L. 5 maggio 1949, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-05-05;178) (in G.U. 07/05/1949, n. 105).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 244
+data: 1943-04-15
+titolo: "Norme per la valutazione dello stato civile ai fini delle nomine e promozioni del personale delle Ferrovie dello Stato. (043U0244)"
+urn: urn:nir:stato:regio.decreto.legge:1943-04-15;244
+codice_redazionale: 043U0244
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,37 +30,28 @@ Ritenuto lo stato di necessita' derivante da causa di guerra;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, e del Ministro per le comunicazioni, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, e del Ministro per le comunicazioni, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I1 termine di cui agli articoli 2 e 3 della legge 10 giugno 1939-XVII, n. 915, e' prorogato sino a sei mesi dopo la cessazione dell'attuale stato di guerra.
 
-  
-  
-I1 termine di cui agli articoli 2 e 3 della legge 10 giugno 1939-XVII, n. 915, e' prorogato sino a sei mesi dopo la cessazione dell'attuale stato di guerra.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto, che ha effetto dal 1° gennaio 1943-XXI, sara' presentato alle Assemblee legislative per la sua conversione in legge.   
-  
-Il Ministro per le comunicazioni e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 15 aprile 1943-XXI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - CINI - ACERBO   
-  
-Visto, il Guardasigilli: DE MARSICO   
-  
-Registrato alla Corte dei conti, addi' 23 aprile 1943-XXI   
-  
-Atti del Governo, registro 456, foglio 87. - MANCINI   
+Il presente decreto, che ha effetto dal 1° gennaio 1943-XXI, sara' presentato alle Assemblee legislative per la sua conversione in legge. 
+ 
+ Il Ministro per le comunicazioni e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 15 aprile 1943-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - CINI - ACERBO 
+ 
+ Visto, il Guardasigilli: DE MARSICO 
+ 
+ Registrato alla Corte dei conti, addi' 23 aprile 1943-XXI 
+ 
+ Atti del Governo, registro 456, foglio 87. - MANCINI

@@ -1,16 +1,14 @@
-REGIO DECRETO 27 ottobre 1883 n. 1696
-
-
-REGIO DECRETO 27 ottobre 1883 n. 1696
-=====================================
-
-Che accorda al consorzio irrigno della Bealera Maestra (Cuneo), la facolta' di riscuotere il contributo dei soci coi privilegi del fisco. (083U1696)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/12/1883
+---
+tipo: REGIO DECRETO
+numero: 1696
+data: 1883-10-27
+titolo: "Che accorda al consorzio irrigno della Bealera Maestra (Cuneo), la facolta' di riscuotere il contributo dei soci coi privilegi del fisco. (083U1696)"
+urn: urn:nir:stato:regio.decreto:1883-10-27;1696
+codice_redazionale: 083U1696
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Vista la domanda colla quale il Consorzio della Bealera Maestra, composto dai co
 
 Visto il regolamento del Consorzio e gli altri atti relativi;
 
-Vista la [legge 29 maggio 1873, n. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (Serie 2ª);
+Vista la [legge 29 maggio 1873, n. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md) (Serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' concessa al Consorzio della Bealera Maestra, con sede in Bene Vagienna (Cuneo), la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 27 ottobre 1883.   
-  
-UMBERTO.   
-  
-Berti.   
-  
-Visto, Il Guardasigilli: Savelli.   
-  
+E' concessa al Consorzio della Bealera Maestra, con sede in Bene Vagienna (Cuneo), la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 27 ottobre 1883. 
+ 
+ UMBERTO. 
+ 
+ Berti. 
+ 
+ Visto, Il Guardasigilli: Savelli.

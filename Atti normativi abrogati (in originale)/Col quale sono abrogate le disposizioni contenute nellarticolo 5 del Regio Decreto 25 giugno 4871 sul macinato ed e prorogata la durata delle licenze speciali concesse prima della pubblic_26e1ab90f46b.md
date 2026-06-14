@@ -1,51 +1,41 @@
-REGIO DECRETO 01 maggio 1872 n. 793
-
-
-REGIO DECRETO 01 maggio 1872 n. 793
-===================================
-
-Col quale sono abrogate le disposizioni contenute nell'articolo 5 del Regio Decreto 25 giugno 4871 sul macinato, ed e' prorogata la durata delle licenze speciali concesse prima della pubblicazione del Decreto stesso. (072U0793)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1872   
-Il presente Regio Decreto è stato erroneamente pubblicato in Gazzetta Ufficiale senza numero.
+---
+tipo: REGIO DECRETO
+numero: 793
+data: 1872-05-01
+titolo: "Col quale sono abrogate le disposizioni contenute nell'articolo 5 del Regio Decreto 25 giugno 4871 sul macinato, ed e' prorogata la durata delle licenze speciali concesse prima della pubblicazione del Decreto stesso. (072U0793)"
+urn: urn:nir:stato:regio.decreto:1872-05-01;793
+codice_redazionale: 072U0793
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli articoli 5 e 6 del Nostro [Regio Decreto del 25 giugno 1871, n. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1871-06-25;278) (Serie 2ª);
+Visti gli articoli 5 e 6 del Nostro [Regio Decreto del 25 giugno 1871, n. 278](Che%20stabilisce%20alcune%20norme%20per%20lapplicazione%20della%20tassa%20sulla%20macinazione%20dei%20cereali.%20071U0278.md) (Serie 2ª);
 
 Sulla proposta del Ministro delle Finanze;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono abrogate le disposizioni contenute nell'[articolo 5 del Regio Decreto del 25 giugno 1871, n. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1871-06-25;278~art5).   
-  
-La durata delle licenze speciali, concesse prima della pubblicazione del citato Decreto, e' prorogata di altri dodici mesi oltre quelli accordati coll'articolo 6 del Decreto medesimo.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, aia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli addi' 1° maggio 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 9 maggio 1872   
-  
-Reg. 60 Atti del Governo c. 242. M. Rondanini.   
-  
-Luogo del sigillo. V. Il Guardasigilli: De Falco.   
-  
-Quintino Sella.   
-  
+Sono abrogate le disposizioni contenute nell'[articolo 5 del Regio Decreto del 25 giugno 1871, n. 278](Che%20stabilisce%20alcune%20norme%20per%20lapplicazione%20della%20tassa%20sulla%20macinazione%20dei%20cereali.%20071U0278.md). 
+ 
+ La durata delle licenze speciali, concesse prima della pubblicazione del citato Decreto, e' prorogata di altri dodici mesi oltre quelli accordati coll'articolo 6 del Decreto medesimo. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, aia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli addi' 1° maggio 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 9 maggio 1872 
+ 
+ Reg. 60 Atti del Governo c. 242. M. Rondanini. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli: De Falco. 
+ 
+ Quintino Sella.

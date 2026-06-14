@@ -1,22 +1,18 @@
-REGIO DECRETO 09 giugno 1895 n. CXXXVI
+---
+tipo: REGIO DECRETO
+numero: CXXXVI
+data: 1895-06-09
+titolo: "Che da' facolta' al comune di Ozzero di applicare nel biennio 1895-96 la tassa sul bestiame. (9500136R)"
+urn: urn:nir:stato:regio.decreto:1895-06-09;136
+codice_redazionale: 9500136R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 giugno 1895 n. CXXXVI
-======================================
-
-Che da' facolta' al comune di Ozzero di applicare nel biennio 1895-96 la tassa sul bestiame. (9500136R)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/07/1895
-
-Art. 1
-------
-
-  
-Che da' facolta' al comune di Ozzero di applicare nel biennio 1895-96 la tassa sul bestiame con tariffa inferiore della meta' al limite minimo fissato per ciascuna specie di animali dalla tariffa del regolamento provinciale. - Firmato UMBERTO - Contrassegnato P.  
-Boselli - Visto Calenda.   
-  
-Registrato alla Corte dci Conti addi' 20 giugno 1895.   
-  
-Reg. 199. Atti del Governo a f. 8.   
-  
+Che da' facolta' al comune di Ozzero di applicare nel biennio 1895-96 la tassa sul bestiame con tariffa inferiore della meta' al limite minimo fissato per ciascuna specie di animali dalla tariffa del regolamento provinciale. - Firmato UMBERTO - Contrassegnato P.
+Boselli - Visto Calenda. 
+ 
+ Registrato alla Corte dci Conti addi' 20 giugno 1895. 
+ 
+ Reg. 199. Atti del Governo a f. 8.

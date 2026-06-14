@@ -1,19 +1,15 @@
-REGIO DECRETO 29 agosto 1909 n. CCCXXIX
+---
+tipo: REGIO DECRETO
+numero: CCCXXIX
+data: 1909-08-29
+titolo: "Che riunisce in unico ente le Opere pie « Baccarini e Giovannini-Mignani » in Torre del Sole. (0900329R)"
+urn: urn:nir:stato:regio.decreto:1909-08-29;329
+codice_redazionale: 0900329R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 agosto 1909 n. CCCXXIX
-=======================================
-
-Che riunisce in unico ente le Opere pie « Baccarini e Giovannini-Mignani » in Torre del Sole. (0900329R)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/10/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCXXIX (Dato a Volta Mantovana, il 29 agosto 1909), col quale le Opere pie beneficenza Baccarini e ricovero di mendicita' Giovannini-Mignani sono state fuse in un unico ente denominato «Ricovero di mendicita' Giovannini-Mignani-Giovanni Baccarini» del quale e' stato pure approvato lo statuto.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCXXIX (Dato a Volta Mantovana, il 29 agosto 1909), col quale le Opere pie beneficenza Baccarini e ricovero di mendicita' Giovannini-Mignani sono state fuse in un unico ente denominato «Ricovero di mendicita' Giovannini-Mignani-Giovanni Baccarini» del quale e' stato pure approvato lo statuto.

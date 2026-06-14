@@ -1,21 +1,21 @@
-REGIO DECRETO 20 ottobre 1939 n. 2077
+---
+tipo: REGIO DECRETO
+numero: 2077
+data: 1939-10-20
+titolo: "Approvazione del nuovo statuto della Fondazione artistica «Poldi Pezzoli» in Milano. (039U2077)"
+urn: urn:nir:stato:regio.decreto:1939-10-20;2077
+codice_redazionale: 039U2077
+vigente: true
+---
 
-
-REGIO DECRETO 20 ottobre 1939 n. 2077
-=====================================
-
-Approvazione del nuovo statuto della Fondazione artistica «Poldi Pezzoli» in Milano. (039U2077)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/02/1940
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2077. R. decreto. 20 ottobre 1939, col quale, sulla proposta del Ministro per l'educazione nazionale, viene approvato il nuovo statuto della Fondazione artistica «Poldi Pezzoli» in Milano.   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 20 gennaio 1940-XVIII
+2077.
+
+R. decreto. 20 ottobre 1939, col quale, sulla proposta del Ministro per l'educazione nazionale, viene approvato il nuovo statuto della Fondazione artistica «Poldi Pezzoli» in Milano. 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 20 gennaio 1940-XVIII

@@ -1,16 +1,14 @@
-REGIO DECRETO 21 novembre 1865 n. 2622
-
-
-REGIO DECRETO 21 novembre 1865 n. 2622
-======================================
-
-Col quale e' abolita la carica d'Ispettore pei quattro Asili infantili di Palermo. (065U2622)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/12/1865
+---
+tipo: REGIO DECRETO
+numero: 2622
+data: 1865-11-21
+titolo: "Col quale e' abolita la carica d'Ispettore pei quattro Asili infantili di Palermo. (065U2622)"
+urn: urn:nir:stato:regio.decreto:1865-11-21;2622
+codice_redazionale: 065U2622
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,29 +18,24 @@ Visto il Decreto Prodittatoriale 27 settembre 1860, con cui venne istituita la c
 
 Visto essersi raggiunto lo scopo che si ebbe allora in mira coll'istituzione di uno speciale Ispettorato, e che oggi possono gli Asili predetti rientrare nelle condizioni normali di tutti gli altri stabilimenti di tal genere che sono nel Regno;
 
-Sulla
------
+Sulla proposta del Nostro Ministro dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro dell'Interno; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 La carica d'Ispettore pei quattro Asili infantili di Palermo e' abolita, rimanendo abrogato in questa parte il Decreto Prodittatoriale 27 settembre
 
-1860. 
-  
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 21 novembre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 6 dicembre 1865   
-  
-Reg.° 34 Atti del Governo a c. 92. Vernier.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.
+1860.
+
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 21 novembre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 6 dicembre 1865 
+ 
+ Reg.° 34 Atti del Governo a c. 92. Vernier. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli.

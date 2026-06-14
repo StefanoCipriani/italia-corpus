@@ -1,21 +1,17 @@
-REGIO DECRETO 10 novembre 1897 n. CCCLIV
+---
+tipo: REGIO DECRETO
+numero: CCCLIV
+data: 1897-11-10
+titolo: "Che approva lo statuto organico della fondazione Tortora in Napoli. (9700354R)"
+urn: urn:nir:stato:regio.decreto:1897-11-10;354
+codice_redazionale: 9700354R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 novembre 1897 n. CCCLIV
-========================================
-
-Che approva lo statuto organico della fondazione Tortora in Napoli. (9700354R)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/12/1897
-
-Art. 1
-------
-
-  
-Col quale e' approvato lo statuto organico della fondazione Tortora in Napoli, per un posto di perfezionamento all'estero nello studio della medicina. - Firmato UMBERTO - Controfirmato Codronchi - Visto E. Gianturco.   
-  
-Registrato alla Corte dei conti addi' 4 dicembre 1897.   
-  
-Reg. 213. Atti del Governo a f. 141.   
-  
+Col quale e' approvato lo statuto organico della fondazione Tortora in Napoli, per un posto di perfezionamento all'estero nello studio della medicina. - Firmato UMBERTO - Controfirmato Codronchi - Visto E. Gianturco. 
+ 
+ Registrato alla Corte dei conti addi' 4 dicembre 1897. 
+ 
+ Reg. 213. Atti del Governo a f. 141.

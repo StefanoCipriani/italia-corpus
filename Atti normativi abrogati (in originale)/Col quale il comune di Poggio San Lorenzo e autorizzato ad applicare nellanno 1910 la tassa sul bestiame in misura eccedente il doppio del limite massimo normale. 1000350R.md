@@ -1,19 +1,15 @@
-REGIO DECRETO 31 agosto 1910 n. CCCL
+---
+tipo: REGIO DECRETO
+numero: CCCL
+data: 1910-08-31
+titolo: "Col quale il comune di Poggio San Lorenzo e' autorizzato ad applicare, nell'anno 1910, la tassa sul bestiame in misura eccedente il doppio del limite massimo normale. (1000350R)"
+urn: urn:nir:stato:regio.decreto:1910-08-31;350
+codice_redazionale: 1000350R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 agosto 1910 n. CCCL
-====================================
-
-Col quale il comune di Poggio San Lorenzo e' autorizzato ad applicare, nell'anno 1910, la tassa sul bestiame in misura eccedente il doppio del limite massimo normale. (1000350R)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/10/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CCCL (Dato a Venezia, il 31 agosto 1910), col quale e' data facolta' al comune di Poggio San Lorenzo di applicare, nell'anno 1910, la tassa sul bestiame in misura eccedente il doppio del limite massimo normale.   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CCCL (Dato a Venezia, il 31 agosto 1910), col quale e' data facolta' al comune di Poggio San Lorenzo di applicare, nell'anno 1910, la tassa sul bestiame in misura eccedente il doppio del limite massimo normale.

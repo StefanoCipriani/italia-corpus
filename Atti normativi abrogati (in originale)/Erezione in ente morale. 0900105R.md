@@ -1,19 +1,15 @@
-REGIO DECRETO 01 aprile 1909 n. CV
+---
+tipo: REGIO DECRETO
+numero: CV
+data: 1909-04-01
+titolo: "Erezione in ente morale. (0900105R)"
+urn: urn:nir:stato:regio.decreto:1909-04-01;105
+codice_redazionale: 0900105R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 aprile 1909 n. CV
-==================================
-
-Erezione in ente morale. (0900105R)
------------------------------------
-
-Entrata in vigore del provvedimento: 19/05/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CV (Dato a Roma, il 1° aprile 1909), col quale il pio lascito elemosiniero Paluzzi, di Roma, e' stato eretto in ente morale e concentrato nella Congregazione di carita' del luogo.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CV (Dato a Roma, il 1° aprile 1909), col quale il pio lascito elemosiniero Paluzzi, di Roma, e' stato eretto in ente morale e concentrato nella Congregazione di carita' del luogo.

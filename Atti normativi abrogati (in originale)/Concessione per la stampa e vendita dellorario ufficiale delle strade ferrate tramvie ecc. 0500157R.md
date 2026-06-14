@@ -1,19 +1,15 @@
-REGIO DECRETO 11 maggio 1905 n. CLVII
+---
+tipo: REGIO DECRETO
+numero: CLVII
+data: 1905-05-11
+titolo: "Concessione per la stampa e vendita dell'orario ufficiale delle strade ferrate, tramvie, ecc. (0500157R)"
+urn: urn:nir:stato:regio.decreto:1905-05-11;157
+codice_redazionale: 0500157R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 maggio 1905 n. CLVII
-=====================================
-
-Concessione per la stampa e vendita dell'orario ufficiale delle strade ferrate, tramvie, ecc. (0500157R)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/07/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dei lavori pubblici:   
-  
-N. CLVII (Dato a Roma, l'11 maggio 1905), che approva l'atto 1° febbraio 1905 stipulato fra l'Amministrazione dello Stato e la ditta Fratelli Pozzo di Torino per la concessione a quest'ultima della stampa, pubblicazione e vendita dell'orario ufficiale delle strade ferrate, delle tramvie, delle messaggerie postali e delle linee di navigazione del Regno d'Italia. Decorrenza del contratto 1° gennaio 1905. Durata anni uno.   
-  
+Sulla proposta del ministro dei lavori pubblici: 
+ 
+ N. CLVII (Dato a Roma, l'11 maggio 1905), che approva l'atto 1° febbraio 1905 stipulato fra l'Amministrazione dello Stato e la ditta Fratelli Pozzo di Torino per la concessione a quest'ultima della stampa, pubblicazione e vendita dell'orario ufficiale delle strade ferrate, delle tramvie, delle messaggerie postali e delle linee di navigazione del Regno d'Italia. Decorrenza del contratto 1° gennaio 1905. Durata anni uno.

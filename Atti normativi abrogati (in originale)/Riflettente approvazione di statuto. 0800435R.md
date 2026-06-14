@@ -1,19 +1,15 @@
-REGIO DECRETO 04 ottobre 1908 n. CCCCXXXV
+---
+tipo: REGIO DECRETO
+numero: CCCCXXXV
+data: 1908-10-04
+titolo: "Riflettente approvazione di statuto. (0800435R)"
+urn: urn:nir:stato:regio.decreto:1908-10-04;435
+codice_redazionale: 0800435R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 ottobre 1908 n. CCCCXXXV
-=========================================
-
-Riflettente approvazione di statuto. (0800435R)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/11/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro per l'agricoltura, l'industria e il commercio:   
-  
-N. CCCCXXXV. (Dato a Racconigi, il 4 ottobre 1908), col quale si approva lo statuto della Cassa agraria di Salandra.   
-  
+Sulla proposta del ministro per l'agricoltura, l'industria e il commercio: 
+ 
+ N. CCCCXXXV. (Dato a Racconigi, il 4 ottobre 1908), col quale si approva lo statuto della Cassa agraria di Salandra.

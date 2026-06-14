@@ -1,16 +1,14 @@
-REGIO DECRETO 22 settembre 1876 n. 3359
-
-
-REGIO DECRETO 22 settembre 1876 n. 3359
-=======================================
-
-Col quale i comuni di Teor e Rivignano sono separati dalla sezione di Latisana e costituiti in sezione distinta del collegio elettorale di Palmanova, n.474. (076U3359)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/10/1876
+---
+tipo: REGIO DECRETO
+numero: 3359
+data: 1876-09-22
+titolo: "Col quale i comuni di Teor e Rivignano sono separati dalla sezione di Latisana e costituiti in sezione distinta del collegio elettorale di Palmanova, n.474. (076U3359)"
+urn: urn:nir:stato:regio.decreto:1876-09-22;3359
+codice_redazionale: 076U3359
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Teor e Rivignano sono separati dalla sezione elettorale di Latisana e formeranno una sezione distinta del Collegio elettorale di Palmanova n. 474, colla sede a Rivignano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Pollenzo, addi' 22 settembre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+I comuni di Teor e Rivignano sono separati dalla sezione elettorale di Latisana e formeranno una sezione distinta del Collegio elettorale di Palmanova n. 474, colla sede a Rivignano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Pollenzo, addi' 22 settembre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

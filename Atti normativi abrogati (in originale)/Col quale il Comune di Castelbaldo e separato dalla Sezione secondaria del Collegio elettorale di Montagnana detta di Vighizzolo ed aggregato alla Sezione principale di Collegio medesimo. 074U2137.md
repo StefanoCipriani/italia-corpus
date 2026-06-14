@@ -1,16 +1,14 @@
-REGIO DECRETO 02 novembre 1874 n. 2137
-
-
-REGIO DECRETO 02 novembre 1874 n. 2137
-======================================
-
-Col quale il Comune di Castelbaldo e' separato dalla Sezione secondaria del Collegio elettorale di Montagnana, detta di Vighizzolo, ed aggregato alla Sezione principale di Collegio medesimo. (074U2137)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/11/1874
+---
+tipo: REGIO DECRETO
+numero: 2137
+data: 1874-11-02
+titolo: "Col quale il Comune di Castelbaldo e' separato dalla Sezione secondaria del Collegio elettorale di Montagnana, detta di Vighizzolo, ed aggregato alla Sezione principale di Collegio medesimo. (074U2137)"
+urn: urn:nir:stato:regio.decreto:1874-11-02;2137
+codice_redazionale: 074U2137
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Considerando che la grave distanza del comune predetto da quello di Vighizzolo r
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Castelbaldo e' separato dalla sezione secondaria del Collegio elettorale di Montagnana n. 452, detta di Vighizzolo, ed aggregato alla sezione principale del Collegio medesimo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 2 novembre 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
+Il comune di Castelbaldo e' separato dalla sezione secondaria del Collegio elettorale di Montagnana n. 452, detta di Vighizzolo, ed aggregato alla sezione principale del Collegio medesimo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 2 novembre 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

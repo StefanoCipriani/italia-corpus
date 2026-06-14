@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 13 febbraio 1916 n. 294
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 294
+data: 1916-02-13
+titolo: "Applicazione di tassa di soggiorno. (016U0294)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-02-13;294
+codice_redazionale: 016U0294
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 13 febbraio 1916 n. 294
-===============================================
-
-Applicazione di tassa di soggiorno. (016U0294)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 08/04/1916
-
-Art. 1
-------
-
-  
-N. 294   
-  
-Decreto Luogotenenziale 13 febbraio 1916, col quale, sulla proposta del ministro dell'interno, il comune di Gorzone, e' autorizzato ad applicare la tassa di soggiorno per la stazione idroterapica di Casino Boario, e ne e' approvato il regolamento.   
-  
+N. 294 
+ 
+ Decreto Luogotenenziale 13 febbraio 1916, col quale, sulla proposta del ministro dell'interno, il comune di Gorzone, e' autorizzato ad applicare la tassa di soggiorno per la stazione idroterapica di Casino Boario, e ne e' approvato il regolamento.

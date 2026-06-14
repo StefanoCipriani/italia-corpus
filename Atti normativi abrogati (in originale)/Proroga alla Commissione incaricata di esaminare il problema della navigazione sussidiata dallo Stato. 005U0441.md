@@ -1,16 +1,14 @@
-REGIO DECRETO 30 aprile 1905 n. 441
-
-
-REGIO DECRETO 30 aprile 1905 n. 441
-===================================
-
-Proroga alla Commissione incaricata di esaminare il problema della navigazione sussidiata dallo Stato. (005U0441)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/08/1905
+---
+tipo: REGIO DECRETO
+numero: 441
+data: 1905-04-30
+titolo: "Proroga alla Commissione incaricata di esaminare il problema della navigazione sussidiata dallo Stato. (005U0441)"
+urn: urn:nir:stato:regio.decreto:1905-04-30;441
+codice_redazionale: 005U0441
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,29 +22,22 @@ Considerato che entro il 31 marzo 1905 fu dalla Commissione presentato uno schem
 
 Sulla proposta del Nostro ministro segretario di Stato per le poste ed i telegrafi, di concerto con quelli del tesoro, della marina e dell'agricoltura, industria e commercio;
 
-Sentito
--------
+Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Alla Commissione incaricata di esaminare il problema della navigazione sussidiata dallo Stato e' accordata una proroga a tutto il 31 dicembre 1905 per l'esaurimento dell'incarico affidatole col Nostro decreto 13 settembre 1902, n. 470.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 30 aprile 1905.   
-  
-VITTORIO EMANUELE.   
-  
-A. Fortis.   
-Morelli-Gualtierotti.   
-Carcano.   
-Rava.   
-C. Mirabello.   
-  
-Visto, Il guardasigilli: C. Finocchiaro-Aprile.   
-  
+Alla Commissione incaricata di esaminare il problema della navigazione sussidiata dallo Stato e' accordata una proroga a tutto il 31 dicembre 1905 per l'esaurimento dell'incarico affidatole col Nostro decreto 13 settembre 1902, n. 470. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 30 aprile 1905. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ A. Fortis. 
+ Morelli-Gualtierotti. 
+ Carcano. 
+ Rava. 
+ C. Mirabello. 
+ 
+ Visto, Il guardasigilli: C. Finocchiaro-Aprile.

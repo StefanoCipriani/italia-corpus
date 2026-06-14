@@ -1,16 +1,14 @@
-REGIO DECRETO 20 gennaio 1941 n. 8
-
-
-REGIO DECRETO 20 gennaio 1941 n. 8
-==================================
-
-Disposizione transitoria per l'ammissione dei brigadieri di pubblica sicurezza al concorso per l'avanzamento al grado di maresciallo di terza classe. (041U0008)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/01/1941
+---
+tipo: REGIO DECRETO
+numero: 8
+data: 1941-01-20
+titolo: "Disposizione transitoria per l'ammissione dei brigadieri di pubblica sicurezza al concorso per l'avanzamento al grado di maresciallo di terza classe. (041U0008)"
+urn: urn:nir:stato:regio.decreto:1941-01-20;8
+codice_redazionale: 041U0008
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,32 +26,24 @@ Udito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno e per la guerra, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo;
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno e per la guerra, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo;
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'anzianita' di grado richiesta per l'ammissione dei brigadieri di P. S. al concorso per l'avanzamento al grado di maresciallo di 3° classe di cui al vigente articolo 41 del regolamento per il Corpo degli agenti di P. S. approvato con [R. decreto 30 novembre 1930, n. 1629](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-30;1629), e' ridotta ad un anno per il primo concorso da bandirsi dopo l'emanazione del presente decreto.   
-  
-Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 20 gennaio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 28 gennaio 1941-XIX   
-  
-Atti del Governo, registro 429, foglio 134. - MANCINI   
-  
-  
+L'anzianita' di grado richiesta per l'ammissione dei brigadieri di P. S. al concorso per l'avanzamento al grado di maresciallo di 3° classe di cui al vigente articolo 41 del regolamento per il Corpo degli agenti di P. S. approvato con [R. decreto 30 novembre 1930, n. 1629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-30;1629), e' ridotta ad un anno per il primo concorso da bandirsi dopo l'emanazione del presente decreto. 
+ 
+ Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 20 gennaio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 28 gennaio 1941-XIX 
+ 
+ Atti del Governo, registro 429, foglio 134. - MANCINI

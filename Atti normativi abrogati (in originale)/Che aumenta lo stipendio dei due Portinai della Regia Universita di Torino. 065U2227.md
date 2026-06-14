@@ -1,16 +1,14 @@
-REGIO DECRETO 28 marzo 1865 n. 2227
-
-
-REGIO DECRETO 28 marzo 1865 n. 2227
-===================================
-
-Che aumenta lo stipendio dei due Portinai della Regia Universita' di Torino. (065U2227)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/05/1865
+---
+tipo: REGIO DECRETO
+numero: 2227
+data: 1865-03-28
+titolo: "Che aumenta lo stipendio dei due Portinai della Regia Universita' di Torino. (065U2227)"
+urn: urn:nir:stato:regio.decreto:1865-03-28;2227
+codice_redazionale: 065U2227
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 Per grazia di Dio per volonta' della Nazione
 
@@ -20,23 +18,16 @@ Vista la pianta numerica degli Impiegati e dei Serventi nella Segreteria della R
 
 Visto il bilancio passivo della Pubblica Istruzione pel corrente esercizio;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Lo stipendio dei due Portinai della R. Universita' di Torino dalle lire settecentoventi ciascuno e' portato a lire ottocento.   
-  
-Ordiniamo che il presente Decreto munito del Sigillo dello Stato, sia inserto nella Raccolta ufficiale delle Leggi e dei Decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dat. a Torino, addi' 28 marzo 1865   
-  
-VITTORIO EMANUELE.   
-  
-Natoli.   
-  
+Lo stipendio dei due Portinai della R. Universita' di Torino dalle lire settecentoventi ciascuno e' portato a lire ottocento. 
+ 
+ Ordiniamo che il presente Decreto munito del Sigillo dello Stato, sia inserto nella Raccolta ufficiale delle Leggi e dei Decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dat. a Torino, addi' 28 marzo 1865 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Natoli.

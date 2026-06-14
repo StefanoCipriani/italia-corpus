@@ -1,16 +1,14 @@
-REGIO DECRETO 24 novembre 1867 n. 4074
-
-
-REGIO DECRETO 24 novembre 1867 n. 4074
-======================================
-
-Col quale si stabilisce che il Consiglio provinciale di Ascoli Piceno sara' nuovamente composto di quaranta Consiglieri. (067U4074)
------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/01/1868
+---
+tipo: REGIO DECRETO
+numero: 4074
+data: 1867-11-24
+titolo: "Col quale si stabilisce che il Consiglio provinciale di Ascoli Piceno sara' nuovamente composto di quaranta Consiglieri. (067U4074)"
+urn: urn:nir:stato:regio.decreto:1867-11-24;4074
+codice_redazionale: 067U4074
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,37 +26,22 @@ Ritenuto che la popolazione, comunque risulti inferiore alla competenza di 40 Co
 
 Veduto l'articolo 202 della vigente Legge sull'ordinamento comunale e provinciale 20 marzo 1865, allegato A;
 
-Sulla
------
+Sulla proposta del Nostro Segretario di Stato, Ministro dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Segretario di Stato, Ministro dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Consiglio provinciale di Ascoli Piceno sara' nuovamente composto di quaranta Consiglieri, distribuiti nel modo che risulta dalla annessa Tabella, la quale sara' vidimata d'ordine Nostro dal Ministro dell'Interno.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 24 novembre 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 7 dicembre 1867   
-  
-Reg. 41 Atti del Governo a c. 164. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli A. Mari.   
-  
-Gualterio.   
-  
-
-Tabella
-
-  
-Tabella   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U407400100010110001&dgu=1867-12-23&art.dataPubblicazioneGazzetta=1867-12-23&art.codiceRedazionale=067U4074)
-  
+Il Consiglio provinciale di Ascoli Piceno sara' nuovamente composto di quaranta Consiglieri, distribuiti nel modo che risulta dalla annessa Tabella, la quale sara' vidimata d'ordine Nostro dal Ministro dell'Interno. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 24 novembre 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 7 dicembre 1867 
+ 
+ Reg. 41 Atti del Governo a c. 164. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli A. Mari. 
+ 
+ Gualterio.

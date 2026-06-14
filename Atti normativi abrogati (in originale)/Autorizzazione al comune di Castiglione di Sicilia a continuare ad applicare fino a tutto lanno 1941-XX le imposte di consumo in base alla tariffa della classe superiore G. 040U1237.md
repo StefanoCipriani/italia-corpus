@@ -1,16 +1,14 @@
-REGIO DECRETO 27 agosto 1940 n. 1237
-
-
-REGIO DECRETO 27 agosto 1940 n. 1237
-====================================
-
-Autorizzazione al comune di Castiglione di Sicilia a continuare ad applicare, fino a tutto l'anno 1941-XX, le imposte di consumo in base alla tariffa della classe superiore G. (040U1237)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/09/1940
+---
+tipo: REGIO DECRETO
+numero: 1237
+data: 1940-08-27
+titolo: "Autorizzazione al comune di Castiglione di Sicilia a continuare ad applicare, fino a tutto l'anno 1941-XX, le imposte di consumo in base alla tariffa della classe superiore G. (040U1237)"
+urn: urn:nir:stato:regio.decreto:1940-08-27;1237
+codice_redazionale: 040U1237
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,24 @@ Visti gli articoli 11 e 26 del testo unico per la finanza locale approvato con N
 
 Udita la Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il comune di Castiglione di Sicilia e' autorizzato a continuare ad applicare le imposte di consumo in base alla tariffa della classe superiore G fino a tutto l'anno
 
-1941. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 27 agosto 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 8 settembre 1940-XVIII   
-  
-Atti del Governo, registro 425, foglio 35. - Mancini
+1941.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 27 agosto 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 8 settembre 1940-XVIII 
+ 
+ Atti del Governo, registro 425, foglio 35. - Mancini

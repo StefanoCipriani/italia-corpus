@@ -1,22 +1,20 @@
-REGIO DECRETO 12 marzo 1914 n. 415
-
-
-REGIO DECRETO 12 marzo 1914 n. 415
-==================================
-
-Col quale viene modificato l'art. 1 del regolamento approvato con R. decreto 1 febbraio 1912, n. 180, riguardante la nomina, la carriera e le attribuzioni degli ispettori e dei vice ispettori scolastici. (014U0415)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/06/1914
+---
+tipo: REGIO DECRETO
+numero: 415
+data: 1914-03-12
+titolo: "Col quale viene modificato l'art. 1 del regolamento approvato con R. decreto 1 febbraio 1912, n. 180, riguardante la nomina, la carriera e le attribuzioni degli ispettori e dei vice ispettori scolastici. (014U0415)"
+urn: urn:nir:stato:regio.decreto:1914-03-12;415
+codice_redazionale: 014U0415
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduta la [legge 4 giugno 1911, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487), riguardante provvedimenti per l'istruzione primaria e popolare;
+Veduta la [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), riguardante provvedimenti per l'istruzione primaria e popolare;
 
 Veduto il Nostro decreto 1° febbraio 1912, n. 180, che approva il regolamento riguardante le attribuzioni, la nomina e la carriera degli ispettori e dei vice ispettori scolastici ed il conferimento dei posti di ispettore centrale per l'istruzione primaria e popolare;
 
@@ -24,28 +22,22 @@ Sentito il parere del Consiglio di Stato;
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il primo capoverso dell'art 1 del regolamento approvato con Nostro decreto 1° febbraio 1912, n. 180, inserito nella Gazzetta ufficiale del 25 marzo 1912, n. 72, e' cosi' modificato:   
-  
-«Trascorso il primo triennio dall'applicazione della [legge 4 giugno 1911, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487), il numero delle circoscrizioni scolastiche dovra' corrispondere al numero degli ispettori, fatta deduzione di quelli che, addetti ad uffici scolastici eccessivamente gravati di lavoro, non possano attendere anche al servizio di ispezione, e di quelli occorrenti per le supplenze in circoscrizioni temporaneamente vacanti in seguito ad aspettativa o congedi dei titolari o per speciali incarichi e missioni Questa deduzione nel suo complesso non potra' mai superare la proporzione dell'otto per cento sul numero totale degli ispettori».   
-  
-Nessuna modificazione viene apportata al secondo capoverso dello stesso articolo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 marzo 1914.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti - Credaro.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
+Il primo capoverso dell'art 1 del regolamento approvato con Nostro decreto 1° febbraio 1912, n. 180, inserito nella Gazzetta ufficiale del 25 marzo 1912, n. 72, e' cosi' modificato: 
+ 
+ «Trascorso il primo triennio dall'applicazione della [legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), il numero delle circoscrizioni scolastiche dovra' corrispondere al numero degli ispettori, fatta deduzione di quelli che, addetti ad uffici scolastici eccessivamente gravati di lavoro, non possano attendere anche al servizio di ispezione, e di quelli occorrenti per le supplenze in circoscrizioni temporaneamente vacanti in seguito ad aspettativa o congedi dei titolari o per speciali incarichi e missioni Questa deduzione nel suo complesso non potra' mai superare la proporzione dell'otto per cento sul numero totale degli ispettori». 
+ 
+ Nessuna modificazione viene apportata al secondo capoverso dello stesso articolo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 marzo 1914. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti - Credaro. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

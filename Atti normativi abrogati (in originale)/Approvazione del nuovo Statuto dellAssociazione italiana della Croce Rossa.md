@@ -1,0 +1,89 @@
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 97
+data: 2005-05-06
+titolo: "Approvazione del nuovo Statuto dell'Associazione italiana della Croce Rossa."
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:2005-05-06;97
+codice_redazionale: 005G0122
+vigente: true
+---
+
+IL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+
+Visto il [decreto del Presidente della Repubblica 31 luglio 1980, n. 613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;613), concernente il riordinamento della Croce rossa italiana, e successive modificazioni;
+
+Visto l'[articolo 7, comma 2, del decreto-legge 20 settembre 1995, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-09-20;390#art_7-com2), convertito, con modificazioni, dalla [legge 20 novembre 1995, n. 490](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-20;490);
+
+Visto l'[articolo 13 del decreto legislativo 29 ottobre 1999, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;419#art_13), recante il riordinamento del sistema degli enti pubblici nazionali che ha stabilito che le amministrazioni dello Stato che esercitano la vigilanza sugli enti pubblici promuovono, con le modalita' stabilite per ogni ente dalle norme vigenti, la revisione degli statuti;
+
+Visto il [decreto del Presidente del Consiglio dei Ministri 5 luglio 2002, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2002-07-05;208), concernente il regolamento di approvazione dello statuto dell'Associazione italiana della Croce rossa;
+
+Visto il [decreto-legge 19 novembre 2004, n. 276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-11-19;276), convertito, con modificazioni, dalla [legge 19 gennaio 2005, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-01-19;1);
+
+Ritenuta la necessita' di procedere all'emanazione di un nuovo statuto;
+
+Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
+
+Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 4 aprile 2005;
+
+Sulla proposta del Ministro della salute di concerto con i Ministri della difesa, dell'economia e delle finanze e della funzione pubblica;
+
+Sentito il Commissario straordinario dell'Associazione italiana della Croce rossa; Decreta:
+
+## Art. 1.
+
+1.
+
+E' approvato il nuovo statuto dell'Associazione italiana della Croce rossa, allegato al presente decreto.
+
+2.
+
+Dalla data di entrata in vigore del presente decreto e' abrogato il [decreto del Presidente del Consiglio dei Ministri 5 luglio 2002, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2002-07-05;208).
+
+Avvertenza: 
+ 
+ Il testo delle note qui pubblicato e' stato redatto all'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti. 
+ 
+ Note alle premesse: 
+ 
+ - Il [decreto del Presidente della Repubblica 31 luglio 1980, n. 613](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;613), reca: 
+ «Riordinamento della Croce rossa italiana ([art. 70 della legge n. 833 del 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;833#art_70))». 
+ - Il [comma 2 dell'art. 7 del decreto-legge 20 settembre 1995, n. 390](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-09-20;390#art_7-com2), convertito, con modificazioni, dalla [legge 20 novembre 1995, n. 490](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-20;490), e' il seguente: 
+ «2. Lo statuto della Croce rossa italiana deve essere approvato, entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto del Presidente del Consiglio dei Ministri». 
+ - L'[art. 13 del decreto legislativo 29 ottobre 1999, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;419#art_13), recante il «Riordinamento del sistema degli enti pubblici nazionali, a norma degli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11) e [14 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_14)», e' il seguente: 
+ «Art. 13 (Revisione statutaria). - 1. Le amministrazioni dello Stato che esercitano la vigilanza sugli enti pubblici cui si applica il presente decreto promuovono, con le modalita' stabilite per ogni ente dalle norme vigenti, la revisione degli statuti. La revisione adegua gli statuti stessi alle seguenti norme generali, regolatrici della materia: 
+ a) attribuzione di poteri di programmazione, indirizzo e relativo controllo strategico: al presidente dell'ente, nei casi in cui il carattere monocratico dell'organo e' adeguato alla dimensione organizzativa e finanziaria o rispondente al prevalente carattere tecnico dell'attivita' svolta o giustificato dall'inerenza di quest'ultima a competenze conferite a regioni o enti locali; in mancanza dei presupposti di cui al n. 1), ad un organo collegiale, denominato consiglio di amministrazione, presieduto dal presidente dell'ente e composto da un numero dei membri variabile da due a otto, in relazione al rilievo ed alle dimensioni organizzative e finanziarie dell'ente, fatta salva l'ipotesi della gratuita' degli incarichi; 
+ b) previsione della nomina dei componenti del consiglio di amministrazione dell'ente, con decreto del Ministro vigilante, tra esperti di amministrazione o dei settori di attivita' dell'ente, con esclusione di rappresentanti del Ministero vigilante o di altre amministrazioni pubbliche, di organizzazioni imprenditoriali e sindacali e di altri enti esponenziali; 
+ c) ridefinizione dei poteri di vigilanza secondo criteri idonei a garantire l'effettiva autonomia dell'ente, ferma restando l'attribuzione all'autorita' di vigilanza del potere di approvazione dei bilanci e rendiconti, nonche', per gli enti finanziati in misura prevalente con trasferimenti a carico di bilanci pubblici, di approvazione dei programmi di attivita'; 
+ d) previsione, quando l'ente operi in materia inerente al sistema regionale o locale, di forme di intervento degli enti territorialmente interessati, o della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, ovvero della Conferenza unificata di cui al [decreto legislativo 8 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-08;281), tali comunque da assicurare una adeguata presenza, negli organi collegiali, di esperti designati dagli enti stessi e dalla Conferenza; 
+ e) eventuale attribuzione di compiti di definizione del quadro programmatico generale o di sorveglianza, ovvero di funzioni consultive, a organi assembleari, composti da esperti designati da amministrazioni e organizzazioni direttamente interessate all'attivita' dell'ente, ovvero, per gli enti a vocazione scientifica o culturale, composti in prevalenza da docenti o esperti del settore; 
+ f) determinazione del compenso eventualmente spettante ai componenti degli organi di amministrazione, ordinari o straordinari, con decreto del Ministro competente, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, sulla base di eventuali direttive del Presidente del Consiglio dei Ministri; determinazione, con analogo decreto, di gettoni di presenza per i componenti dell'organo assembleare, salvo rimborso delle spese di missione; 
+ g) attribuzione al presidente dell'ente di poteri di rappresentanza esterna e, negli enti con organo di vertice collegiale, di poteri di convocazione del consiglio di amministrazione; previsione, per i soli enti di grande rilievo o di rilevante dimensione organizzativa o finanziaria e fatta salva l'ipotesi della gratuita' degli incarichi, di un vice-presidente, designato tra i componenti del consiglio; previsione che il presidente possa restare in carica, di norma, il tempo corrispondente a non piu' di due mandati; 
+ h) previsione di un collegio dei revisori composto di tre membri, ovvero cinque per gli enti di notevole rilievo o dimensione organizzativa o finanziaria, uno dei quali in rappresentanza di autorita' ministeriale e gli altri scelti tra iscritti al registro dei revisori contabili o tra persone in possesso di specifica professionalita'; previsione di un membro supplente, ovvero due negli enti di notevole rilievo o dimensione organizzativa o finanziaria; 
+ i) esclusione del direttore generale dal novero degli organi dell'ente ed attribuzione allo stesso, nonche' ad altri dirigenti dell'ente, di poteri coerenti al principio di distinzione tra attivita' di indirizzo e attivita' di gestione, di cui al [decreto legislativo 3 febbraio 1993, n. 
+ 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modificazioni; previsione della responsabilita' dei predetti dirigenti per il conseguimento dei risultati previsti dal consiglio di amministrazione, o organo di vertice, con riferimento, ove possibile, all'assegnazione delle relative risorse finanziarie (budget di spesa) predeterminate nell'ambito del bilancio; 
+ l) istituzione, in aggiunta all'organo di revisione, di un sistema di controlli interni, coerente con i principi fissati dal [decreto legislativo 30 luglio 1999, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;286); 
+ m) istituzione di un ufficio per le relazioni con il pubblico, ai sensi dell'[art. 12 del decreto legislativo 3 febbraio 1993, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29#art_12), e successive modificazioni; 
+ n) determinazione del numero massimo degli uffici dirigenziali e dei criteri generali di organizzazione dell'ente, in coerenza alle esigenze di speditezza, efficienza ed efficacia dell'azione amministrativa, rinviando la disciplina dei residui profili organizzativi, in funzione anche delle dimensioni dell'ente, a regolamenti interni, eventualmente soggetti all'approvazione dell'autorita' i vigilanza, ovvero ad altri atti organizzativi; 
+ o) facolta' dell'ente di adottare regolamenti di contabilita' ispirati a principi civilistici e recanti, ove necessario, deroghe, anche in materia contrattuale, alle disposizioni del [decreto del Presidente della Repubblica 18 dicembre 1979, n. 696](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-18;696), e successive modificazioni; i predetti regolamenti sono soggetti all'approvazione dell'autorita' di vigilanza, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica; 
+ p) previsione della facolta' di attribuire, per motivate esigenze ed entro un limite numerico predeterminato, incarichi di collaborazione ad esperti delle materie di competenza istituzionale; 
+ q) previsione delle ipotesi di commissariamento dell'ente e dei poteri del commissario straordinario, nominato dall'autorita' di vigilanza, ovvero, per gli enti di notevole rilievo o dimensione organizzativa e finanziaria, con decreto del Presidente del Consiglio dei Ministri, su proposta dell'autorita' di vigilanza; previsione, per i soli enti di notevole rilievo o dimensione organizzativa o finanziaria, della possibilita' di nominare uno o piu' sub-commissari; previsione di termini perentori di durata massima del commissariamento, a pena di scioglimento dell'ente. 
+ 2. Nella revisione di cui al comma 1, sono fatte salve le specifiche e motivate esigenze connesse alla natura ed all'attivita' di singoli enti, con particolare riferimento a quelli ad alto tasso di autonomia finanziaria in funzione della prevalenza delle entrate proprie su quelle attinenti a trasferimenti a carico di bilanci pubblici, nonche' le esigenze specifiche degli enti a struttura associativa, ai quali, in particolare, non si applicano i criteri di cui alle lettere a) ed e) del comma 1 ed ai quali i criteri di cui alla lettera b) del medesimo comma si applicano solo se coerenti con la natura e l'attivita' dei singoli enti e per motivate esigenze degli stessi. 
+ 3. Agli enti di cui al presente articolo, relativamente ai quali la revisione statutaria non sia intervenuta alla data del 30 giugno 2001, si applicano, con effetto dal 1° gennaio 2002, le seguenti disposizioni: 
+ a) i consigli di amministrazione sono sciolti, salvo che risultino composti in conformita' ai criteri di cui al comma 1, lettera a); il presidente dell'ente assume, sino a che il regolamento non e' emanato e i nuovi organi non sono nominati, i poteri di amministrazione ordinaria e straordinaria, salva la possibilita' dell'autorita' di vigilanza di nominare un commissario straordinario; 
+ b) i collegi dei revisori, ove non conformi ai criteri di cui al comma 1, lettera h), sono sciolti e le relative competenze sono esercitate, sino alla nomina del nuovo collegio, dai soli rappresentanti del Ministero del tesoro, del bilancio e della programmazione economica e dell'autorita' di vigilanza, ove presenti, ovvero, in caso contrario, dal solo presidente del collegio. 
+ 4. Negli enti di cui al presente articolo per i quali la revisione statutaria risulti intervenuta alla data del 30 giugno 2001, il funzionamento degli organi preesistenti e' prorogato sino alla nomina di quelli di nuova istituzione». 
+ - Il [decreto del Presidente del Consiglio dei Ministri 5 luglio 2002, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2002-07-05;208), abrogato dal presente decreto, recava: 
+ «Approvazione del nuovo statuto dell'Associazione italiana della Croce rossa». 
+ - Il [decreto-legge 19 novembre 2004, n. 276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-11-19;276), convertito, con modificazioni, dalla [legge 19 gennaio 2005, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-01-19;1), reca «Disposizioni urgenti per snellire le strutture ed incrementare la funzionalita' della Croce rossa italiana». 
+ - Il [comma 3 dell'art. 17, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), recante: «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri» e' il seguente: 
+ «3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. 
+ I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo. Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione». 
+ Nota all'[art. 1: 
+ - Per il decreto del Presidente del Consiglio dei Ministri 5 luglio 2002, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2002-07-05;208#art_1), si vedano le note alle premesse.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e farlo osservare.
+
+Roma, 6 maggio 2005
+
+Il Presidente del Consiglio dei Ministri Berlusconi Il Ministro della salute Storace Il Ministro della difesa Martino Il Ministro dell'economia e delle finanze Siniscalco Il Ministro per la funzione pubblica Baccini Visto, il Guardasigilli: Castelli Registrato alla Corte dei conti il 6 giugno 2005 Ministeri istituzionali Presidenza del Consiglio dei Ministri registro n. 7, foglio n. 382

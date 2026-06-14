@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 19 agosto 1915 n. 1465
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1465
+data: 1915-08-19
+titolo: "Erezione in ente morale e approvazione di statuto. (015U1465)"
+urn: urn:nir:stato:decreto.luogotenenziale:1915-08-19;1465
+codice_redazionale: 015U1465
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 19 agosto 1915 n. 1465
-==============================================
-
-Erezione in ente morale e approvazione di statuto. (015U1465)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/10/1915
-
-Art. 1
-------
-
-  
-N. 1465   
-  
-Decreto Luogotenenziale 19 agosto 1915, col quale, sulla proposta del ministro dell'interno, la fondazione Staurenghi in Monza, e' eretta in ente morale con amministrazione autonoma e ne e' approvato lo statuto organico.   
-  
+N. 1465 
+ 
+ Decreto Luogotenenziale 19 agosto 1915, col quale, sulla proposta del ministro dell'interno, la fondazione Staurenghi in Monza, e' eretta in ente morale con amministrazione autonoma e ne e' approvato lo statuto organico.

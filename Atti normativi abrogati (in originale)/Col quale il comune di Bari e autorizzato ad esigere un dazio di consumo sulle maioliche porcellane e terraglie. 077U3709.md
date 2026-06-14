@@ -1,16 +1,14 @@
-REGIO DECRETO 25 febbraio 1877 n. 3709
-
-
-REGIO DECRETO 25 febbraio 1877 n. 3709
-======================================
-
-Col quale il comune di Bari e' autorizzato ad esigere un dazio di consumo sulle maioliche, porcellane e terraglie. (077U3709)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/03/1877
+---
+tipo: REGIO DECRETO
+numero: 3709
+data: 1877-02-25
+titolo: "Col quale il comune di Bari e' autorizzato ad esigere un dazio di consumo sulle maioliche, porcellane e terraglie. (077U3709)"
+urn: urn:nir:stato:regio.decreto:1877-02-25;3709
+codice_redazionale: 077U3709
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,29 +16,22 @@ RE D'ITALIA
 
 Vista la deliberazione 4 dicembre 1874 del Consiglio comunale di Bari, con cui fu proposta l'imposizione di un dazio di consumo all'introduzione in citta' sopra alcuni articoli non appartenenti alle ordinarie categorie;
 
-Visto l'articolo 11 dell'allegato L alla [legge 11 agosto 1870, n. 5784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784);
+Visto l'articolo 11 dell'allegato L alla [legge 11 agosto 1870, n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md);
 
 Visto il parere della Camera di commercio ed arti di quella citta';
 
 Sentito il Consiglio di Stato,
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze, Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Bari e' autorizzato ad esigere un dazio di consumo, all'introduzione nella cinta daziaria, sopra le maioliche, le porcellane e le terraglie in ragione di una lira per ogni quintale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 febbraio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-Depretis.   
-  
+Il comune di Bari e' autorizzato ad esigere un dazio di consumo, all'introduzione nella cinta daziaria, sopra le maioliche, le porcellane e le terraglie in ragione di una lira per ogni quintale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 febbraio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Depretis.

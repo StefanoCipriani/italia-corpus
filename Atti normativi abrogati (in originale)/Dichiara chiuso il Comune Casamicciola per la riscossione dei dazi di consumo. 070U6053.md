@@ -1,16 +1,14 @@
-REGIO DECRETO 20 novembre 1870 n. 6053
-
-
-REGIO DECRETO 20 novembre 1870 n. 6053
-======================================
-
-Dichiara chiuso il Comune Casamicciola per la riscossione dei dazi di consumo. (070U6053)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/12/1870
+---
+tipo: REGIO DECRETO
+numero: 6053
+data: 1870-11-20
+titolo: "Dichiara chiuso il Comune Casamicciola per la riscossione dei dazi di consumo. (070U6053)"
+urn: urn:nir:stato:regio.decreto:1870-11-20;6053
+codice_redazionale: 070U6053
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,24 @@ Vista la domanda del Comune di Casamicciola, colla quale invoca di venire annove
 
 Veduta la Legge 3 luglio 1864;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il Comune di Casamicciola, appartenente alla 4ª classe, e' dichiarato chiuso per la riscossione dei dazi di consumo dal 1° gennaio
 
-1871. 
-  
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 20 novembre 1870.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 26 novembre 1870   
-  
-Reg. 53 Atti del Governo a c. 80. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-Quintino Sella.
+1871.
+
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 20 novembre 1870. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 26 novembre 1870 
+ 
+ Reg. 53 Atti del Governo a c. 80. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ Quintino Sella.

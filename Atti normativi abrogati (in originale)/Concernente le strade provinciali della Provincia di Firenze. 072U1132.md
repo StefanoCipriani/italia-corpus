@@ -1,16 +1,14 @@
-REGIO DECRETO 28 novembre 1872 n. 1132
-
-
-REGIO DECRETO 28 novembre 1872 n. 1132
-======================================
-
-Concernente le strade provinciali della Provincia di Firenze. (072U1132)
-------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/01/1873
+---
+tipo: REGIO DECRETO
+numero: 1132
+data: 1872-11-28
+titolo: "Concernente le strade provinciali della Provincia di Firenze. (072U1132)"
+urn: urn:nir:stato:regio.decreto:1872-11-28;1132
+codice_redazionale: 072U1132
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,7 +22,7 @@ Veduto il Nostro decreto 13 marzo 1870, col quale fu approvato l'annessovi Elenc
 
 Veduto il parere 9 novembre 1872 del Consiglio Superiore dei Lavori Pubblici;
 
-Veduto l'[articolo 14 della legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato F;
+Veduto l'[articolo 14 della legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), allegato F;
 
 Considerando:
 
@@ -38,23 +36,16 @@ Che la strada, che si vuole aggiunta all'Elenco, ha inoltre il vantaggio di coll
 
 Che percio' la strada in questione riunisce in se' i caratteri indicati ai §§ B, C e D dell'art. 13 della legge sulle opere pubbliche, e quindi merita di essere classificata fra le provinciali a preferenza di quella dalla Scala a S. Miniato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata l'aggiunta all'Elenco delle strade provinciali di Firenze di quella che da S. Miniato mette alla Stazione omonima della ferrovia Livorno-Firenze, e quindi al ponte sull'Arno a Fucecchio, in sostituzione dell'altra inscritta precedentemente nell'Elenco suddetto al n. 25, denominata dalla Scala a S. Miniato.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Data a Roma, addi' 28 novembre 1872.   
-  
-VITTORIO EMANUELE   
-  
-G. Devincenzi.   
-  
+E' approvata l'aggiunta all'Elenco delle strade provinciali di Firenze di quella che da S. Miniato mette alla Stazione omonima della ferrovia Livorno-Firenze, e quindi al ponte sull'Arno a Fucecchio, in sostituzione dell'altra inscritta precedentemente nell'Elenco suddetto al n. 25, denominata dalla Scala a S. Miniato. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Data a Roma, addi' 28 novembre 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ G. Devincenzi.

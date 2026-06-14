@@ -1,21 +1,21 @@
-REGIO DECRETO 16 ottobre 1934 n. 2398
+---
+tipo: REGIO DECRETO
+numero: 2398
+data: 1934-10-16
+titolo: "Approvazione del nuovo statuto della Societa' oftalmologica italiana di Roma. (034U2398)"
+urn: urn:nir:stato:regio.decreto:1934-10-16;2398
+codice_redazionale: 034U2398
+vigente: true
+---
 
-
-REGIO DECRETO 16 ottobre 1934 n. 2398
-=====================================
-
-Approvazione del nuovo statuto della Societa' oftalmologica italiana di Roma. (034U2398)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/04/1935
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2398. R. decreto 16 ottobre 1934, col quale, sulla proposta del Ministro per l'educazione nazionale, viene approvato il nuovo statuto della Societa' oftalmologica italiana di Roma.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 12 marzo 1935 - Anno XIII
+2398.
+
+R. decreto 16 ottobre 1934, col quale, sulla proposta del Ministro per l'educazione nazionale, viene approvato il nuovo statuto della Societa' oftalmologica italiana di Roma. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 12 marzo 1935 - Anno XIII

@@ -1,23 +1,19 @@
-REGIO DECRETO 17 marzo 1895 n. CCCXXIV
+---
+tipo: REGIO DECRETO
+numero: CCCXXIV
+data: 1895-03-17
+titolo: "Che approva il nuovo statuto organico del ritiro del Buon Consiglio in Frattamaggiore (Napoli). (9500324R)"
+urn: urn:nir:stato:regio.decreto:1895-03-17;324
+codice_redazionale: 9500324R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 marzo 1895 n. CCCXXIV
-======================================
-
-Che approva il nuovo statuto organico del ritiro del Buon Consiglio in Frattamaggiore (Napoli). (9500324R)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/12/1895
-
-Art. 1
-------
-
-  
-Che approva il nuovo statuto organico del ritiro del Buon Consiglio in Frattamaggiore (Napoli), in data 2 febbraio 1895, composto di 15 articoli il 3° dei quali 1° comma, cosi' modificato:   
-  
-«Saranno accolte come interne, nel conservatorio le fanciulle povere preferibilmente orfane, le quali dimostrino di possedere i seguenti requisiti.» - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 25 novembre 1895.   
-  
-Reg. 201. Atti del Governo a f. 87.   
-  
+Che approva il nuovo statuto organico del ritiro del Buon Consiglio in Frattamaggiore (Napoli), in data 2 febbraio 1895, composto di 15 articoli il 3° dei quali 1° comma, cosi' modificato: 
+ 
+ «Saranno accolte come interne, nel conservatorio le fanciulle povere preferibilmente orfane, le quali dimostrino di possedere i seguenti requisiti.» - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 25 novembre 1895. 
+ 
+ Reg. 201. Atti del Governo a f. 87.

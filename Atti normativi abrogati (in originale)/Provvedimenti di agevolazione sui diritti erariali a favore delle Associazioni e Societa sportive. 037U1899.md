@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 05 novembre 1937 n. 1899
-
-
-REGIO DECRETO-LEGGE 05 novembre 1937 n. 1899
-============================================
-
-Provvedimenti di agevolazione sui diritti erariali a favore delle Associazioni e Societa' sportive. (037U1899)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/11/1937.  
-Regio Decreto-Legge convertito dalla [L. 24 gennaio 1938, n. 26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-01-24;26) (in G.U. 17/02/1938, n. 39).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1899
+data: 1937-11-05
+titolo: "Provvedimenti di agevolazione sui diritti erariali a favore delle Associazioni e Societa' sportive. (037U1899)"
+urn: urn:nir:stato:regio.decreto.legge:1937-11-05;1899
+codice_redazionale: 037U1899
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -31,36 +28,27 @@ Ritenuta la necessita' urgente ed assoluta di adottare provvedimenti di agevolaz
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, e del Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, e del Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Le dotazioni, i sussidi e i contributi corrisposti dallo Stato dalle Provincie, dai Comuni e da altri Enti, nonche' da privati alle Associazioni e Societa' sportive in genere riconosciute dal Comitato Olimpico Nazionale Italiano (C.O.N.I.) sono esenti dal diritto erariale stabilito dall'[art. 4 della legge 30 dicembre 1923, n. 3276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;3276#art_4).
 
-  
-  
-Le dotazioni, i sussidi e i contributi corrisposti dallo Stato dalle Provincie, dai Comuni e da altri Enti, nonche' da privati alle Associazioni e Societa' sportive in genere riconosciute dal Comitato Olimpico Nazionale Italiano (C.O.N.I.) sono esenti dal diritto erariale stabilito dall'[art. 4 della legge 30 dicembre 1923, n. 3276](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-12-30;3276~art4).   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto avra' effetto dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Le disposizioni, peraltro, contenute nell'articolo precedente si applicano anche per i diritti ancora dovuti e non pagati al giorno della entrata in vigore del presente decreto. Il presente decreto sara' presentato al Parlamento per da conversione in legge, restando il Ministro per le finanze autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 5 novembre 1937 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 22 novembre 1937 - Anno XVI   
-Atti del Governo, registro 391, foglio 106. - MANCINI.   
+Il presente decreto avra' effetto dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Le disposizioni, peraltro, contenute nell'articolo precedente si applicano anche per i diritti ancora dovuti e non pagati al giorno della entrata in vigore del presente decreto. Il presente decreto sara' presentato al Parlamento per da conversione in legge, restando il Ministro per le finanze autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 5 novembre 1937 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 22 novembre 1937 - Anno XVI  
+ Atti del Governo, registro 391, foglio 106. - MANCINI.

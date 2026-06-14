@@ -1,26 +1,24 @@
-REGIO DECRETO 09 aprile 1903 n. 165
-
-
-REGIO DECRETO 09 aprile 1903 n. 165
-===================================
-
-Classificazione di strade nazionali (003U0165)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 29/05/1903
+---
+tipo: REGIO DECRETO
+numero: 165
+data: 1903-04-09
+titolo: "Classificazione di strade nazionali (003U0165)"
+urn: urn:nir:stato:regio.decreto:1903-04-09;165
+codice_redazionale: 003U0165
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduta la [legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato F, sui lavori pubblici;
+Veduta la [legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato F, sui lavori pubblici;
 
-Veduta la legge comunale e provinciale, testo unico, approvato con [R. decreto 4 maggio 1898, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-05-04;164);
+Veduta la legge comunale e provinciale, testo unico, approvato con [R. decreto 4 maggio 1898, n. 164](Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md);
 
-Veduto il [R. decreto 23 marzo 1884, n. 2197](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-03-23;2197), di approvazione dell'elenco generale delle strade nazionali del Regno;
+Veduto il [R. decreto 23 marzo 1884, n. 2197](Che%20approva%20lannessovi%20elenco%20generale%20delle%20strade%20nazionali%20del%20Regno.%20084U2197.md), di approvazione dell'elenco generale delle strade nazionali del Regno;
 
 Ritenuto che, in conseguenza dell'apertura all'esercizio della ferrovia Cantalupo-Isernia, passarono all'Amministrazione provinciale di Campobasso i seguenti tratti della strada nazionale n. 52;
 
@@ -46,46 +44,32 @@ Sentito il Consiglio Superiore dei Lavori Pubblici;
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono classificati nazionali e facenti parte della strada nazionale n. 52 denominata Appulo-Sannitica o de Pentri: 
+ 
+ 1° il tratto di strada provinciale di accesso alla stazione di Vinchiaturo; 
+ 
+ 2° il tratto di strada, da costruire, fra la nazionale n. 52 e la stazione di Cantalupo.
 
-  
-  
-Sono classificati nazionali e facenti parte della strada nazionale n. 52 denominata Appulo-Sannitica o de Pentri:   
-  
-1° il tratto di strada provinciale di accesso alla stazione di Vinchiaturo;   
-  
-2° il tratto di strada, da costruire, fra la nazionale n. 52 e la stazione di Cantalupo.   
-  
+## Art. 2.
 
-Art. 2
-------
+I limiti della predetta strada nazionale n. 52, di cui all'elenco approvato col [R. decreto 23 marzo 1884, n. 2197](Che%20approva%20lannessovi%20elenco%20generale%20delle%20strade%20nazionali%20del%20Regno.%20084U2197.md), sono conseguentemente determinati come segue: 
+ 
+ «Dal ponticello San Leonardo, sulla nazionale n. 51, alla stazione ferroviaria di Cantalupo del Sannio; dall'innesto della nazionale n. 53, prima di Vinchiaturo, all'innesto della stessa nazionale verso Campobasso, compresa la traversa di Vinchiaturo per metri 444,80; dalla stazione ferroviaria di Vinchiaturo a Porta Troia di Lucera».
 
-  
-  
-I limiti della predetta strada nazionale n. 52, di cui all'elenco approvato col [R. decreto 23 marzo 1884, n. 2197](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-03-23;2197), sono conseguentemente determinati come segue:   
-  
-«Dal ponticello San Leonardo, sulla nazionale n. 51, alla stazione ferroviaria di Cantalupo del Sannio; dall'innesto della nazionale n. 53, prima di Vinchiaturo, all'innesto della stessa nazionale verso Campobasso, compresa la traversa di Vinchiaturo per metri 444,80; dalla stazione ferroviaria di Vinchiaturo a Porta Troia di Lucera».   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-E' cancellato dall'elenco delle strade provinciali di Campobasso il tratto di strada fra la nazionale n. 52 e la stazione ferroviaria di Vinchiaturo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 aprile 1903.   
-  
-VITTORIO EMANUELE.   
-  
-N. Balenzano.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.   
-  
+E' cancellato dall'elenco delle strade provinciali di Campobasso il tratto di strada fra la nazionale n. 52 e la stazione ferroviaria di Vinchiaturo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 aprile 1903. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ N. Balenzano. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

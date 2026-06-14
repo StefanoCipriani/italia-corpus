@@ -1,16 +1,14 @@
-REGIO DECRETO 17 novembre 1889 n. 6530
-
-
-REGIO DECRETO 17 novembre 1889 n. 6530
-======================================
-
-Che aggiunge le strade da S. Remo a Ceriana, e da Borgomaro alla nazionale del Piemonte, all'elenco delle strade provinciali di Porto Maurizio. (089U6530)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/12/1889
+---
+tipo: REGIO DECRETO
+numero: 6530
+data: 1889-11-17
+titolo: "Che aggiunge le strade da S. Remo a Ceriana, e da Borgomaro alla nazionale del Piemonte, all'elenco delle strade provinciali di Porto Maurizio. (089U6530)"
+urn: urn:nir:stato:regio.decreto:1889-11-17;6530
+codice_redazionale: 089U6530
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,25 +24,18 @@ Visto il parere favorevole del Consiglio superiore dei Lavori Pubblici, emesso n
 
 Visti gli articoli 13 e 14 di detta legge;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-All'elenco delle strade provinciali di Porto Maurizio sono aggiunte le strade da S. Remo a Ceriana, e da Borgomaro alla nazionale del Piemonte.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 17 novembre 1889.   
-  
-UMBERTO.   
-  
-G. Finali.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+All'elenco delle strade provinciali di Porto Maurizio sono aggiunte le strade da S. Remo a Ceriana, e da Borgomaro alla nazionale del Piemonte. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 17 novembre 1889. 
+ 
+ UMBERTO. 
+ 
+ G. Finali. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

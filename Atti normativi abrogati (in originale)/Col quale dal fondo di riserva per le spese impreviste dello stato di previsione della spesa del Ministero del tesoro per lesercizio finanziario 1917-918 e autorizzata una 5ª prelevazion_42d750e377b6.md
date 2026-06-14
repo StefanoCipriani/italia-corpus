@@ -1,16 +1,14 @@
-DECRETO LUOGOTENENZIALE 08 novembre 1917 n. 1885
-
-
-DECRETO LUOGOTENENZIALE 08 novembre 1917 n. 1885
-================================================
-
-Col quale, dal fondo di riserva per le spese impreviste dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1917-918, e' autorizzata una 5ª prelevazione a favore dei bilanci dei Ministeri dell'istruzione pubblica e delle poste e dei telegrafi. (017U1885)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/12/1917
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1885
+data: 1917-11-08
+titolo: "Col quale, dal fondo di riserva per le spese impreviste dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1917-918, e' autorizzata una 5ª prelevazione a favore dei bilanci dei Ministeri dell'istruzione pubblica e delle poste e dei telegrafi. (017U1885)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-11-08;1885
+codice_redazionale: 017U1885
+vigente: true
+---
 
 TOMASO DI SAVOIA DUCA DI GENOVA
--------------------------------
 
 Luogotenente Generale di Sua Maesta'
 
@@ -28,43 +26,37 @@ Visto che sul fondo di riserva per le spese impreviste inscritto in L. 1.000.000
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del ministro segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
 
-proposta del ministro segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
+Dal fondo di riserva per le spese impreviste inscritto al capitolo n. 150 dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1917-918, e' autorizzata una 5ª prelevazione nella somma di lire centoquattordicimila (L. 114.000) da assegnarsi ai seguenti capitoli dei Ministeri infraindicati per l'esercizio medesimo: 
+ 
+ 
 
-  
-  
-Dal fondo di riserva per le spese impreviste inscritto al capitolo n. 150 dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1917-918, e' autorizzata una 5ª prelevazione nella somma di lire centoquattordicimila (L. 114.000) da assegnarsi ai seguenti capitoli dei Ministeri infraindicati per l'esercizio medesimo:   
-  
-  
-  
-Ministero della istruzione pubblica:  
-  
-Cap. n. 257-bis. «Spese per urgenti lavori di  
-restauro dell'edificio a sede della R.  
-Universita' di Bologna» . . . . . . . . . . . . . . . 20,000.--   
-Ministero delle poste e dei telegrafi:  
-  
-Cap. n. 125-VI. «Somma dovuta alla Societa delle  
-ferrovie Nord-Milano a titolo di transazione per  
-minori somme dalla medesima riscosse nel periodo  
-dal 20 gennaio 1894 al 30 giugno 1913 in  
-dipendenza del trasporto di pacchi» . . . . . . . . . 94,000.--  
------------- Totale . . . 114,000.--  
-------------   
-  
-Questo decreto sara' presentato al Parlamento per la sua convalidazione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 novembre 1917.   
-  
-TOMASO DI SAVOIA.   
-  
-Orlando - Nitti.   
-  
-Visto, Il guardasigilli: Sacchi.   
+ Ministero della istruzione pubblica:
+
+ Cap. n. 257-bis. «Spese per urgenti lavori di
+ restauro dell'edificio a sede della R.
+ Universita' di Bologna» . . . . . . . . . . . . . . . 20,000.-- 
+ Ministero delle poste e dei telegrafi:
+
+ Cap. n. 125-VI. «Somma dovuta alla Societa delle
+ ferrovie Nord-Milano a titolo di transazione per
+ minori somme dalla medesima riscosse nel periodo
+ dal 20 gennaio 1894 al 30 giugno 1913 in
+ dipendenza del trasporto di pacchi» . . . . . . . . . 94,000.--
+ ------------ Totale . . . 114,000.--
+ ------------ 
+ 
+ Questo decreto sara' presentato al Parlamento per la sua convalidazione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 novembre 1917. 
+ 
+ TOMASO DI SAVOIA. 
+ 
+ Orlando - Nitti. 
+ 
+ Visto, Il guardasigilli: Sacchi.

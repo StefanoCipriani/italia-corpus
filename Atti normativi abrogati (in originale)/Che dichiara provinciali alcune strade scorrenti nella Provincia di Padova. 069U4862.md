@@ -1,16 +1,14 @@
-REGIO DECRETO 24 gennaio 1869 n. 4862
-
-
-REGIO DECRETO 24 gennaio 1869 n. 4862
-=====================================
-
-Che dichiara provinciali alcune strade scorrenti nella Provincia di Padova. (069U4862)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/03/1869
+---
+tipo: REGIO DECRETO
+numero: 4862
+data: 1869-01-24
+titolo: "Che dichiara provinciali alcune strade scorrenti nella Provincia di Padova. (069U4862)"
+urn: urn:nir:stato:regio.decreto:1869-01-24;4862
+codice_redazionale: 069U4862
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,39 +24,22 @@ Veduta la lettera in data del 9 gennaio corrente della predetta Deputazione, da 
 
 Veduto il voto del Consiglio superiore dei Lavori Pubblici, emesso nell'adunanza del 16 di questo stesso mese;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate provinciali le undici strade nella Provincia di Padova, descritte nell'Estratto dell'Elenco superiormente indicato, il quale Estratto, visto d'ordine Nostro dal predetto Ministro, viene annesso al presente Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 24 gennaio 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 febbraio 1869   
-  
-Reg. 45 Atti dei Governo a c. 154. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-L. Pasini.   
-  
-
-Elenco
-
-  
-PROVINCIA DI PADOVA   
-  
-ELENCO delle strade provinciali classificate tali con Decreto in data d'oggi.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=069U486200100010110001&dgu=1869-03-04&art.dataPubblicazioneGazzetta=1869-03-04&art.codiceRedazionale=069U4862)
-  
+Sono dichiarate provinciali le undici strade nella Provincia di Padova, descritte nell'Estratto dell'Elenco superiormente indicato, il quale Estratto, visto d'ordine Nostro dal predetto Ministro, viene annesso al presente Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 24 gennaio 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 febbraio 1869 
+ 
+ Reg. 45 Atti dei Governo a c. 154. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ L. Pasini.

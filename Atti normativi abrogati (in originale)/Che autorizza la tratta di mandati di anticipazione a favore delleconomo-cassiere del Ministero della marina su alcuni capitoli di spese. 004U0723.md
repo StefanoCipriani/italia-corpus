@@ -1,16 +1,14 @@
-REGIO DECRETO 27 novembre 1904 n. 723
-
-
-REGIO DECRETO 27 novembre 1904 n. 723
-=====================================
-
-Che autorizza la tratta di mandati di anticipazione a favore dell'economo-cassiere del Ministero della marina su alcuni capitoli di spese. (004U0723)
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/03/1905
+---
+tipo: REGIO DECRETO
+numero: 723
+data: 1904-11-27
+titolo: "Che autorizza la tratta di mandati di anticipazione a favore dell'economo-cassiere del Ministero della marina su alcuni capitoli di spese. (004U0723)"
+urn: urn:nir:stato:regio.decreto:1904-11-27;723
+codice_redazionale: 004U0723
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -30,35 +28,24 @@ Ritenuto che a raggiungere gli intenti sopra accennati occorre annoverare fra i 
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per la marina, di concerto con quello del tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per la marina, di concerto con quello del tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Oltreche' per le spese ai cui all'alinea del art. 1° del [Regio decreto 26 novembre 1896 n. 513, e all'art. 1](Relativo%20al%20pagamento%20delle%20spese%20dUfficio%20dei%20Ministeri.%20096U0513.md)° del [Regio decreto 29 maggio 1898 n. 206](Che%20autorizza%20a%20trarre%20anche%20mandati%20di%20anticipazione%20a%20favore%20degli%20economi-cassieri%20dei%20Ministeri%20sui%20capitoli%20di%20spesa%20destinati%20esclusivamente%20ai%20sussidi.%20098U0206.md), potranno essere tratti mandati di anticipazione a favore dell'economo-cassiere del Ministero della marina sui capitoli di spesa relativi alle trasferte e missioni del personale, alle mercedi degli operai, e alla redazione della «Rivista marittima» e degli «Annali di medicina navale», e cio' allo scopo di mettere in grado l'economo stesso di corrispondere l'indennita' di trasferta e missioni, le mercedi agli operai dell'officina autonoma del Ministero e i compensi ai collaboratori dei detti periodici.
 
-  
-  
-Oltreche' per le spese ai cui all'alinea del art. 1° del [Regio decreto 26 novembre 1896 n. 513, e all'art. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-11-26;513~art1)° del [Regio decreto 29 maggio 1898 n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-05-29;206), potranno essere tratti mandati di anticipazione a favore dell'economo-cassiere del Ministero della marina sui capitoli di spesa relativi alle trasferte e missioni del personale, alle mercedi degli operai, e alla redazione della «Rivista marittima» e degli «Annali di medicina navale», e cio' allo scopo di mettere in grado l'economo stesso di corrispondere l'indennita' di trasferta e missioni, le mercedi agli operai dell'officina autonoma del Ministero e i compensi ai collaboratori dei detti periodici.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Alle anticipazioni, di cui nel precedente articolo, sono applicabili le procedure e le cautele speciali prescritte nel gia' citato Reale decreto 26 novembre 1896 per le gestioni degli economi-cassieri dei Ministeri.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 novembre 1904.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti.   
-C. Mirabello.   
-L. Luzzatti.   
-  
-Visto, Il guardasigilli: Ronchetti.   
-  
+Alle anticipazioni, di cui nel precedente articolo, sono applicabili le procedure e le cautele speciali prescritte nel gia' citato Reale decreto 26 novembre 1896 per le gestioni degli economi-cassieri dei Ministeri. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 novembre 1904. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti. 
+ C. Mirabello. 
+ L. Luzzatti. 
+ 
+ Visto, Il guardasigilli: Ronchetti.

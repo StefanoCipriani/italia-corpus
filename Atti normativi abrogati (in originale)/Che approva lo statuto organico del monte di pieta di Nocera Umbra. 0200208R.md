@@ -1,22 +1,18 @@
-REGIO DECRETO 05 giugno 1902 n. CCVIII
+---
+tipo: REGIO DECRETO
+numero: CCVIII
+data: 1902-06-05
+titolo: "Che approva lo statuto organico del monte di pieta' di Nocera Umbra. (0200208R)"
+urn: urn:nir:stato:regio.decreto:1902-06-05;208
+codice_redazionale: 0200208R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 giugno 1902 n. CCVIII
-======================================
-
-Che approva lo statuto organico del monte di pieta' di Nocera Umbra. (0200208R)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/07/1902
-
-Art. 1
-------
-
-  
-Che approva lo statuto organico del monte di pieta' di Nocera Umbra. - Firmato VITTORIO EMANUELE - Controfirmati G. Baccelli - G.  
-Giolitti - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 7 luglio 1902.   
-  
-Reg. 4. Atti del Governo a f. 79.   
-  
+Che approva lo statuto organico del monte di pieta' di Nocera Umbra. - Firmato VITTORIO EMANUELE - Controfirmati G. Baccelli - G.
+Giolitti - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 7 luglio 1902. 
+ 
+ Reg. 4. Atti del Governo a f. 79.

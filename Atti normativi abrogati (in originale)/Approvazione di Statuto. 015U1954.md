@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 05 dicembre 1915 n. 1954
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1954
+data: 1915-12-05
+titolo: "Approvazione di Statuto. (015U1954)"
+urn: urn:nir:stato:decreto.luogotenenziale:1915-12-05;1954
+codice_redazionale: 015U1954
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 05 dicembre 1915 n. 1954
-================================================
-
-Approvazione di Statuto. (015U1954)
------------------------------------
-
-Entrata in vigore del provvedimento: 17/02/1916
-
-Art. 1
-------
-
-  
-N. 1954   
-  
-Decreto Luogotenenziale 5 dicembre 1915, col quale, sulla proposta del ministro dell'interno, e' approvato lo statuto organico della Cassa di prestazioni agrarie di Rutino (Salerno).   
-  
+N. 1954 
+ 
+ Decreto Luogotenenziale 5 dicembre 1915, col quale, sulla proposta del ministro dell'interno, e' approvato lo statuto organico della Cassa di prestazioni agrarie di Rutino (Salerno).

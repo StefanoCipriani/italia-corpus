@@ -1,21 +1,17 @@
-REGIO DECRETO 07 novembre 1898 n. CCCLIII
+---
+tipo: REGIO DECRETO
+numero: CCCLIII
+data: 1898-11-07
+titolo: "Con cui l'ospedale «Don Antonio Mongini» di Soriso, viene eretto in ente morale e ne viene approvato lo statuto organico. (9800353R)"
+urn: urn:nir:stato:regio.decreto:1898-11-07;353
+codice_redazionale: 9800353R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 novembre 1898 n. CCCLIII
-=========================================
-
-Con cui l'ospedale «Don Antonio Mongini» di Soriso, viene eretto in ente morale e ne viene approvato lo statuto organico. (9800353R)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/12/1898
-
-Art. 1
-------
-
-  
-Con cui l'ospedale «Don Antonio Mongini» di Soriso, viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato UMBERTO - Controfirmato Pelloux - Visto C. Finocchiaro Aprile.   
-  
-Registrato alla Corte dei Conti addi' 22 novembre 1898.   
-  
-Reg. 217. Atti del Governo a f. 160.   
-  
+Con cui l'ospedale «Don Antonio Mongini» di Soriso, viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato UMBERTO - Controfirmato Pelloux - Visto C. Finocchiaro Aprile. 
+ 
+ Registrato alla Corte dei Conti addi' 22 novembre 1898. 
+ 
+ Reg. 217. Atti del Governo a f. 160.

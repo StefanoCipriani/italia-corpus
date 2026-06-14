@@ -1,16 +1,14 @@
-REGIO DECRETO 29 marzo 1868 n. 4324
-
-
-REGIO DECRETO 29 marzo 1868 n. 4324
-===================================
-
-Col quale vengono aggiunte altre opere idrauliche di seconda categoria all'Elenco di classificazione delle acque del Regno e delle opere relative. (068U4324)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/05/1868
+---
+tipo: REGIO DECRETO
+numero: 4324
+data: 1868-03-29
+titolo: "Col quale vengono aggiunte altre opere idrauliche di seconda categoria all'Elenco di classificazione delle acque del Regno e delle opere relative. (068U4324)"
+urn: urn:nir:stato:regio.decreto:1868-03-29;4324
+codice_redazionale: 068U4324
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,39 +24,29 @@ Avuti i pareri favorevoli del Consiglio superiore dei Lavori Pubblici e del Cons
 
 Veduto il disposto dall'art. 174 della Legge precitata;
 
-Sulla
------
+Sulla proposta del Segretario di Stato, Ministro dei Lavori Pubblici; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Segretario di Stato, Ministro dei Lavori Pubblici; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+In aggiunta alle opere idrauliche di seconda categoria, descritte nel rispettivo Elenco unito al preaccennato Nostro Decreto, vengono comprese le opere indicate nello specchio seguente: 
+ 
+ Parte di provvedimento in formato grafico
+(Elenco pubblicato nella Raccolta Ufficiale - anno 1868 - Volume Ventesimoprimo)
 
-  
-  
-In aggiunta alle opere idrauliche di seconda categoria, descritte nel rispettivo Elenco unito al preaccennato Nostro Decreto, vengono comprese le opere indicate nello specchio seguente:   
-  
-Parte di provvedimento in formato grafico  
-(Elenco pubblicato nella Raccolta Ufficiale - anno 1868 - Volume Ventesimoprimo)   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Nel bilancio dei Lavori Pubblici, al capitolo del mantenimento delle opere idrauliche, saranno iscritte le somme necessarie alle opere stesse, per gli effetti contemplati dal surriferito articolo 174 di Legge.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 29 marzo 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 8 aprile 1868   
-  
-Reg. 42 Atti del Governo a c. 172. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli: De Filippo   
-  
-G. Cantelli.   
-  
+Nel bilancio dei Lavori Pubblici, al capitolo del mantenimento delle opere idrauliche, saranno iscritte le somme necessarie alle opere stesse, per gli effetti contemplati dal surriferito articolo 174 di Legge. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 29 marzo 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 8 aprile 1868 
+ 
+ Reg. 42 Atti del Governo a c. 172. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli: De Filippo 
+ 
+ G. Cantelli.

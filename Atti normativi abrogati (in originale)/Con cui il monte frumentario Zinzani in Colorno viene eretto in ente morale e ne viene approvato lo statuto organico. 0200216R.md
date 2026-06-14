@@ -1,21 +1,17 @@
-REGIO DECRETO 26 giugno 1902 n. CCXVI
+---
+tipo: REGIO DECRETO
+numero: CCXVI
+data: 1902-06-26
+titolo: "Con cui il monte frumentario Zinzani in Colorno viene eretto in ente morale e ne viene approvato lo statuto organico. (0200216R)"
+urn: urn:nir:stato:regio.decreto:1902-06-26;216
+codice_redazionale: 0200216R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 giugno 1902 n. CCXVI
-=====================================
-
-Con cui il monte frumentario Zinzani in Colorno viene eretto in ente morale e ne viene approvato lo statuto organico. (0200216R)
---------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/07/1902
-
-Art. 1
-------
-
-  
-Con cui il monte frumentario Zinzani in Colorno viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmati Giolitti - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 9 luglio 1902.   
-  
-Reg. 4. Atti del Governo a f. 85.   
-  
+Con cui il monte frumentario Zinzani in Colorno viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmati Giolitti - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 9 luglio 1902. 
+ 
+ Reg. 4. Atti del Governo a f. 85.

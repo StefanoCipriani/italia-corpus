@@ -1,19 +1,15 @@
-REGIO DECRETO 04 giugno 1908 n. CCXXIV
+---
+tipo: REGIO DECRETO
+numero: CCXXIV
+data: 1908-06-04
+titolo: "Riflettente erezione in ente morale. (0800224R)"
+urn: urn:nir:stato:regio.decreto:1908-06-04;224
+codice_redazionale: 0800224R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 giugno 1908 n. CCXXIV
-======================================
-
-Riflettente erezione in ente morale. (0800224R)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/07/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCXXIV (Dato a Roma, il 4 giugno 1908), col quale il legato Ceresoli di Bergamo e' eretto in ente morale e ne e' approvato lo statuto organico.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCXXIV (Dato a Roma, il 4 giugno 1908), col quale il legato Ceresoli di Bergamo e' eretto in ente morale e ne e' approvato lo statuto organico.

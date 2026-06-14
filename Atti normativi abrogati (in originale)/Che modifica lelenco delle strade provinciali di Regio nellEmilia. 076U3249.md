@@ -1,16 +1,14 @@
-REGIO DECRETO 09 luglio 1876 n. 3249
-
-
-REGIO DECRETO 09 luglio 1876 n. 3249
-====================================
-
-Che modifica l'elenco delle strade provinciali di Regio nell'Emilia. (076U3249)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/08/1876
+---
+tipo: REGIO DECRETO
+numero: 3249
+data: 1876-07-09
+titolo: "Che modifica l'elenco delle strade provinciali di Regio nell'Emilia. (076U3249)"
+urn: urn:nir:stato:regio.decreto:1876-07-09;3249
+codice_redazionale: 076U3249
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA'DELLA NAZIONE
 
@@ -26,7 +24,7 @@ Veduti i Nostri decreti 30 giugno 1867, 31 ottobre 1872 e 19 marzo 1874 relativi
 
 Veduto il parere 22 aprile 1876 del Consiglio Superiore dei Lavori Pubblici;
 
-Veduta la [legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato F;
+Veduta la [legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato F;
 
 Considerando:
 
@@ -38,23 +36,16 @@ Che pertanto e' giustificata sia dal lato tecnico, come nei rispetti della conve
 
 Che contro tale deliberazione non vennero sollevate opposizioni o reclami di sorta;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono approvate le modificazioni all'elenco delle strade provinciali di Reggio nell'Emilia, adottate colla deliberazione sopra citata di quel Consiglio provinciale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 9 luglio 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Zanardelli.   
-  
+Sono approvate le modificazioni all'elenco delle strade provinciali di Reggio nell'Emilia, adottate colla deliberazione sopra citata di quel Consiglio provinciale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 9 luglio 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Zanardelli.

@@ -1,16 +1,14 @@
-REGIO DECRETO 22 gennaio 1880 n. 5263
-
-
-REGIO DECRETO 22 gennaio 1880 n. 5263
-=====================================
-
-Che separa i comuni di Tovo S. Giacomo, Bardino vecchio, Bardino nuovo e Magliolo dalla sezione elettorale di Pietra Ligure, e ne forma una sezione distinta del collegio di Albenga con la sede in Tovo S. Giacomo. (080U5263)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/02/1880
+---
+tipo: REGIO DECRETO
+numero: 5263
+data: 1880-01-22
+titolo: "Che separa i comuni di Tovo S. Giacomo, Bardino vecchio, Bardino nuovo e Magliolo dalla sezione elettorale di Pietra Ligure, e ne forma una sezione distinta del collegio di Albenga con la sede in Tovo S. Giacomo. (080U5263)"
+urn: urn:nir:stato:regio.decreto:1880-01-22;5263
+codice_redazionale: 080U5263
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Che gli elettori dei quattro comuni sommano a 131, numero questo molto superiore
 
 Considerato che colla istituzione della sezione di Tovo San Giacomo si rende piu' facile l'esercizio del diritto elettorale ad un ragguardevole numero di elettori;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Tovo San Giacomo, Bardino Vecchio, Bardino Nuovo e Magliolo sono separati dalla sezione elettorale di Pietra Ligure e formeranno una sezione distinta del Collegio di Albenga, con la sede in Tovo San Giacomo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 gennaio 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+I comuni di Tovo San Giacomo, Bardino Vecchio, Bardino Nuovo e Magliolo sono separati dalla sezione elettorale di Pietra Ligure e formeranno una sezione distinta del Collegio di Albenga, con la sede in Tovo San Giacomo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 gennaio 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

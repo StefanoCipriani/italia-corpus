@@ -1,16 +1,14 @@
-REGIO DECRETO 18 gennaio 1863 n. 1123
-
-
-REGIO DECRETO 18 gennaio 1863 n. 1123
-=====================================
-
-Sull'ordinamento dei Tribunali di commercio nelle Provincie delle Romagne, delle Marche e dell'Umbria. (063U1123)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/02/1863
+---
+tipo: REGIO DECRETO
+numero: 1123
+data: 1863-01-18
+titolo: "Sull'ordinamento dei Tribunali di commercio nelle Provincie delle Romagne, delle Marche e dell'Umbria. (063U1123)"
+urn: urn:nir:stato:regio.decreto:1863-01-18;1123
+codice_redazionale: 063U1123
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,55 +24,32 @@ Importando che la circoscrizione territoriale degli attuali Tribunali di commerc
 
 Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e de' Culti;
 
-Udito
------
+Udito il Consiglio dei Ministri; Abbiamo ordinato ed ordiniamo quanto segue:
 
-il Consiglio dei Ministri; Abbiamo ordinato ed ordiniamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+La circoscrizione territoriale dei Tribunali di Commercio nelle Provincie delle Romagne, delle Marche e dell'Umbria e' determinata dalla tabella unita al presente Decreto, firmata d'ordine Nostro dal Ministro Guardasigilli. 
+ 
+ Pei Tribunali di Circondario, funzionanti da Tribunali di commercio, la circoscrizione e' fissata dal Circondario rispettivo, meno il territorio che risultasse assegnato, nella tabella annessa al presente Decreto, ad un Tribunale di commercio.
 
-  
-  
-La circoscrizione territoriale dei Tribunali di Commercio nelle Provincie delle Romagne, delle Marche e dell'Umbria e' determinata dalla tabella unita al presente Decreto, firmata d'ordine Nostro dal Ministro Guardasigilli.   
-  
-Pei Tribunali di Circondario, funzionanti da Tribunali di commercio, la circoscrizione e' fissata dal Circondario rispettivo, meno il territorio che risultasse assegnato, nella tabella annessa al presente Decreto, ad un Tribunale di commercio.   
-  
+## Art. 2.
 
-Art. 2
-------
+Le cause commerciali gia' iniziate che, per effetto del presente Decreto, verranno devolute alla giurisdizione d'altro Tribunale di commercio o di circondario faciente funzioni di Tribunale di commercio, saranno recate avanti il nuovo Tribunale nello stato in cui si trovano, per mezzo di atto di citazione a cura della parte piu' diligente; ed i termini giuridici in corso sono per codeste cause sospesi per giorni trenta, a cominciare dalla pubblicazione del presente Decreto.
 
-  
-  
-Le cause commerciali gia' iniziate che, per effetto del presente Decreto, verranno devolute alla giurisdizione d'altro Tribunale di commercio o di circondario faciente funzioni di Tribunale di commercio, saranno recate avanti il nuovo Tribunale nello stato in cui si trovano, per mezzo di atto di citazione a cura della parte piu' diligente; ed i termini giuridici in corso sono per codeste cause sospesi per giorni trenta, a cominciare dalla pubblicazione del presente Decreto.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-I Segretari e Cancellieri sono tenuti, per quanto puo' loro rispettivamente spettare, di uniformarsi al disposto dell'articolo 22 del Decreto Regio 26 novembre 1860, n. 4452.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 18 gennaio 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 22 gennaio 1863   
-  
-Reg.° 22 Atti del Governo a c. 26. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-G. Pisanelli.   
-  
-
-Tabella
-
-  
-Tabella annessa al Decreto.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=063U112300100010110001&dgu=1863-01-31&art.dataPubblicazioneGazzetta=1863-01-31&art.codiceRedazionale=063U1123)
-  
+I Segretari e Cancellieri sono tenuti, per quanto puo' loro rispettivamente spettare, di uniformarsi al disposto dell'articolo 22 del Decreto Regio 26 novembre 1860, n. 4452. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 18 gennaio 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 22 gennaio 1863 
+ 
+ Reg.° 22 Atti del Governo a c. 26. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ G. Pisanelli.

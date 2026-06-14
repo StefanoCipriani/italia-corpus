@@ -1,16 +1,14 @@
-REGIO DECRETO 04 maggio 1862 n. 584
-
-
-REGIO DECRETO 04 maggio 1862 n. 584
-===================================
-
-Che stabilisce la composizione del Tribunale di Commercio in Milano. (062U0584)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1862
+---
+tipo: REGIO DECRETO
+numero: 584
+data: 1862-05-04
+titolo: "Che stabilisce la composizione del Tribunale di Commercio in Milano. (062U0584)"
+urn: urn:nir:stato:regio.decreto:1862-05-04;584
+codice_redazionale: 062U0584
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,45 +20,30 @@ Volendo provvedere alla costituzione della pianta del Tribunale medesimo, come q
 
 Visto l'articolo 33 della detta legge 27 marzo 1862;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+Il Tribunale di Commercio in Milano consta di due Sezioni ed e' costituito di un Presidente, di un Vice-Presidente, di cinque Giudici, di un Segretario e di quattro Sostituiti Segretari.
 
-  
-  
-Il Tribunale di Commercio in Milano consta di due Sezioni ed e' costituito di un Presidente, di un Vice-Presidente, di cinque Giudici, di un Segretario e di quattro Sostituiti Segretari.   
-  
+## Art. 2.
 
-Art. 2
-------
+Questi funzionari formano parte del personale dei Tribunali di Circondario per tutti gli effetti della legge 20 novembre 1859 sugli stipendi dei funzionari dell'Ordine giudiziario.
 
-  
-  
-Questi funzionari formano parte del personale dei Tribunali di Circondario per tutti gli effetti della legge 20 novembre 1859 sugli stipendi dei funzionari dell'Ordine giudiziario.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il presente Decreto avra' effetto a datare dal 1.° luglio prossimo futuro.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli addi' 4 maggio 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 maggio 1862   
-  
-Reg.° 19 Atti del Governo a c. 282. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
-  
-Raffaele Conforti.   
-  
+Il presente Decreto avra' effetto a datare dal 1.° luglio prossimo futuro. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli addi' 4 maggio 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 maggio 1862 
+ 
+ Reg.° 19 Atti del Governo a c. 282. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ Raffaele Conforti.

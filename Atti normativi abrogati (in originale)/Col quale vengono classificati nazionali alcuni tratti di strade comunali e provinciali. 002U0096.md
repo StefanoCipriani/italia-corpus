@@ -1,26 +1,24 @@
-REGIO DECRETO 02 marzo 1902 n. 96
-
-
-REGIO DECRETO 02 marzo 1902 n. 96
-=================================
-
-Col quale vengono classificati nazionali alcuni tratti di strade comunali e provinciali. (002U0096)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/04/1902
+---
+tipo: REGIO DECRETO
+numero: 96
+data: 1902-03-02
+titolo: "Col quale vengono classificati nazionali alcuni tratti di strade comunali e provinciali. (002U0096)"
+urn: urn:nir:stato:regio.decreto:1902-03-02;96
+codice_redazionale: 002U0096
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduta la [legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato F, sui lavori pubblici;
+Veduta la [legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato F, sui lavori pubblici;
 
-Veduta la legge comunale e provinciale, testo unico approvato col [R. decreto 4 maggio 1898, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-05-04;164);
+Veduta la legge comunale e provinciale, testo unico approvato col [R. decreto 4 maggio 1898, n. 164](Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md);
 
-Veduto il [R. decreto 23 marzo 1884, n. 2197](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-03-23;2197), di approvazione dell'elenco generale delle strade nazionali del Regno;
+Veduto il [R. decreto 23 marzo 1884, n. 2197](Che%20approva%20lannessovi%20elenco%20generale%20delle%20strade%20nazionali%20del%20Regno.%20084U2197.md), di approvazione dell'elenco generale delle strade nazionali del Regno;
 
 Ritenuto che in conseguenza dell'apertura all'esercizio della ferrovia Solmona-Isernia-Ravindola, passarono alla provincia di Aquila il tronco della strada nazionale n. 51 dall'innesto con la strada comunale per la stazione di Solmona alla testata destra a valle del parapetto del nuovo ponte sul torrente Riaccio, presso Pettorano; e quello da Castel di Sangro nel punto in cui dalla nazionale n. 51 si distacca la provinciale Sangrina, per ponte Zittola all'innesto della strada per la stazione d'Alfedena; e passo' alla provincia di Campobasso il tronco della stessa nazionale n. 51 fra la stazione ferroviaria d'Isernia ed il ponte Ravindola;
 
@@ -62,57 +60,42 @@ Sentito il Consiglio Superiore dei Lavori Pubblici;
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, interim per i Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Presidente del Consiglio dei Ministri, interim per i Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono classificati nazionali e facenti parte della strada nazionale n. 51: 
+ 
+ 1.° il tratto della suddetta nazionale abbandonato, fra il ponte sul torrente Riaccio verso Solmona e l'innesto della strada comunale per la stazione di Pettorano sul Gizio; 
+ 
+ 2.° la strada comunale fra l'innesto col detto tratto nazionale abbandonato ed il piazzale della stazione ferroviaria di Pettorano sul Gizio; 
+ 
+ 3.° il tratto della strada provinciale Sangrina, fra l'innesto con la esistente nazionale n. 51 e l'incontro con la strada comunale per la stazione di Castel di Sangro; 
+ 
+ 4.° la strada comunale fra l'incontro con la detta provinciale Sangrina ed il piazzale della stazione ferroviaria di Castel di Sangro; 
+ 
+ 5.° la strada comunale fra l'innesto con la esistente nazionale n. 51 ed il piazzale della stazione ferroviaria di Alfedena-Scontrone; 
+ 
+ 6.° il tratto della strada provinciale per Cajanello, dal ponte Ravindola all'incontro con la strada comunale per la stazione di Roccaravindola; 
+ 
+ 7.° la strada comunale fra l'incontro con la detta provinciale per Cajanello ed il piazzale della stazione ferroviaria di Roccaravindola.
 
-  
-  
-Sono classificati nazionali e facenti parte della strada nazionale n. 51:   
-  
-1.° il tratto della suddetta nazionale abbandonato, fra il ponte sul torrente Riaccio verso Solmona e l'innesto della strada comunale per la stazione di Pettorano sul Gizio;   
-  
-2.° la strada comunale fra l'innesto col detto tratto nazionale abbandonato ed il piazzale della stazione ferroviaria di Pettorano sul Gizio;   
-  
-3.° il tratto della strada provinciale Sangrina, fra l'innesto con la esistente nazionale n. 51 e l'incontro con la strada comunale per la stazione di Castel di Sangro;   
-  
-4.° la strada comunale fra l'incontro con la detta provinciale Sangrina ed il piazzale della stazione ferroviaria di Castel di Sangro;   
-  
-5.° la strada comunale fra l'innesto con la esistente nazionale n. 51 ed il piazzale della stazione ferroviaria di Alfedena-Scontrone;   
-  
-6.° il tratto della strada provinciale per Cajanello, dal ponte Ravindola all'incontro con la strada comunale per la stazione di Roccaravindola;   
-  
-7.° la strada comunale fra l'incontro con la detta provinciale per Cajanello ed il piazzale della stazione ferroviaria di Roccaravindola.   
-  
+## Art. 2.
 
-Art. 2
-------
+I limiti della predetta strada nazionale n. 51, di cui all'elenco approvato col [R. decreto 23 marzo 1884, n. 2197](Che%20approva%20lannessovi%20elenco%20generale%20delle%20strade%20nazionali%20del%20Regno.%20084U2197.md), sono conseguentemente determinati come segue: 
+ 
+ «Dal piazzale della stazione ferroviaria di Pettorano sul Gizio a quello della stazione ferroviaria di Castel del Sangro; dal piazzale della stazione ferroviaria di Alfedena-Scontrone a quello della stazione ferroviaria di Roccaravindola; dal ponte Zittola al ponte Titolo Giove e da questo al piazzale della stazione ferroviaria d'Isernia».
 
-  
-  
-I limiti della predetta strada nazionale n. 51, di cui all'elenco approvato col [R. decreto 23 marzo 1884, n. 2197](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-03-23;2197), sono conseguentemente determinati come segue:   
-  
-«Dal piazzale della stazione ferroviaria di Pettorano sul Gizio a quello della stazione ferroviaria di Castel del Sangro; dal piazzale della stazione ferroviaria di Alfedena-Scontrone a quello della stazione ferroviaria di Roccaravindola; dal ponte Zittola al ponte Titolo Giove e da questo al piazzale della stazione ferroviaria d'Isernia».   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Sono cancellati dall'elenco delle strade provinciali di Aquila, il tratto della strada provinciale Sangrina, fra l'innesto con la esistente nazionale n. 51 e l'incontro con la strada comunale d'accesso alla stazione ferroviaria di Castel di Sangro; e dall'elenco delle strade provinciali di Campobasso il tratto della strada provinciale per Cajanello, dal ponte Ravindola all'innesto della strada comunale di accesso alla stazione ferroviaria di Roccaravindola.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 marzo 1902.   
-  
-VITTORIO EMANUELE.   
-  
-G. Zanardelli.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.   
-  
+Sono cancellati dall'elenco delle strade provinciali di Aquila, il tratto della strada provinciale Sangrina, fra l'innesto con la esistente nazionale n. 51 e l'incontro con la strada comunale d'accesso alla stazione ferroviaria di Castel di Sangro; e dall'elenco delle strade provinciali di Campobasso il tratto della strada provinciale per Cajanello, dal ponte Ravindola all'innesto della strada comunale di accesso alla stazione ferroviaria di Roccaravindola. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 marzo 1902. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Zanardelli. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

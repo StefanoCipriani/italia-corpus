@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 29 ottobre 1916 n. 1556
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1556
+data: 1916-10-29
+titolo: "Abilitazione all'impiego dell'alcool adulterato. (016U1556)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-10-29;1556
+codice_redazionale: 016U1556
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 29 ottobre 1916 n. 1556
-===============================================
-
-Abilitazione all'impiego dell'alcool adulterato. (016U1556)
------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/12/1916
-
-Art. 1
-------
-
-  
-N. 1556   
-  
-Decreto Luogotenenziale 29 ottobre 1916, col quale, sulla proposta del ministro delle finanze, le industrie della fototipia e della galvanotipia vengono abilitate all'impiego dell'alcool adulterato col denaturante generale.   
-  
+N. 1556 
+ 
+ Decreto Luogotenenziale 29 ottobre 1916, col quale, sulla proposta del ministro delle finanze, le industrie della fototipia e della galvanotipia vengono abilitate all'impiego dell'alcool adulterato col denaturante generale.

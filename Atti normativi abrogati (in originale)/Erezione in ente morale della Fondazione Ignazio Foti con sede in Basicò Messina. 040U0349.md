@@ -1,21 +1,21 @@
-REGIO DECRETO 19 febbraio 1940 n. 349
+---
+tipo: REGIO DECRETO
+numero: 349
+data: 1940-02-19
+titolo: "Erezione in ente morale della Fondazione «Ignazio Foti», con sede in Basicò (Messina). (040U0349)"
+urn: urn:nir:stato:regio.decreto:1940-02-19;349
+codice_redazionale: 040U0349
+vigente: true
+---
 
-
-REGIO DECRETO 19 febbraio 1940 n. 349
-=====================================
-
-Erezione in ente morale della Fondazione «Ignazio Foti», con sede in Basicò (Messina). (040U0349)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/05/1940
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-349. R. decreto 19 febbraio 1940, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, la Fondazione «Ignazio Foti», con sede in Basico' (Messina), viene eretta in ente morale sotto amministrazione autonoma.   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 25 aprite 1940-XVIII
+349.
+
+R. decreto 19 febbraio 1940, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, la Fondazione «Ignazio Foti», con sede in Basico' (Messina), viene eretta in ente morale sotto amministrazione autonoma. 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 25 aprite 1940-XVIII

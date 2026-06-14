@@ -1,16 +1,14 @@
-REGIO DECRETO 01 giugno 1862 n. 642
-
-
-REGIO DECRETO 01 giugno 1862 n. 642
-===================================
-
-Con cui si stabilisce che gli avanzamenti di classe dei Capi-Cannonieri abbiano luogo per via di esami. (062U0642)
-------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/07/1862
+---
+tipo: REGIO DECRETO
+numero: 642
+data: 1862-06-01
+titolo: "Con cui si stabilisce che gli avanzamenti di classe dei Capi-Cannonieri abbiano luogo per via di esami. (062U0642)"
+urn: urn:nir:stato:regio.decreto:1862-06-01;642
+codice_redazionale: 062U0642
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,29 +18,22 @@ Vista la legge sull'avanzamento nell'armata di mare, e relativo regolamento in d
 
 Riconosciuto essere utile pel regio servizio che gli avanzamenti di classe dei Capi-Cannonieri abbiano luogo per via di esami;
 
-Sulla
------
+Sulla proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'avanzamento di classe dei Capi-Cannonieri della Real Marina avra' luogo soltanto per merito, in seguito ad esame giusta il programma che verra' emanato a cura del Nostro Ministro della Marina.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Torino addi' 1.° giugno 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 9 giugno 1862   
-  
-Reg.° 19 Atti del Governo a c. 378. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
-  
-C. Di Persano.   
-  
+L'avanzamento di classe dei Capi-Cannonieri della Real Marina avra' luogo soltanto per merito, in seguito ad esame giusta il programma che verra' emanato a cura del Nostro Ministro della Marina. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Torino addi' 1.° giugno 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 9 giugno 1862 
+ 
+ Reg.° 19 Atti del Governo a c. 378. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ C. Di Persano.

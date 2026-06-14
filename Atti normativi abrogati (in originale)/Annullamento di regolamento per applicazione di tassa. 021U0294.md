@@ -1,15 +1,11 @@
-REGIO DECRETO 10 febbraio 1921 n. 294
+---
+tipo: REGIO DECRETO
+numero: 294
+data: 1921-02-10
+titolo: "Annullamento di regolamento per applicazione di tassa. (021U0294)"
+urn: urn:nir:stato:regio.decreto:1921-02-10;294
+codice_redazionale: 021U0294
+vigente: true
+---
 
-
-REGIO DECRETO 10 febbraio 1921 n. 294
-=====================================
-
-Annullamento di regolamento per applicazione di tassa. (021U0294)
------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/04/1921
-
-Art. 1
-------
-
-null
+## Art. 1. — null

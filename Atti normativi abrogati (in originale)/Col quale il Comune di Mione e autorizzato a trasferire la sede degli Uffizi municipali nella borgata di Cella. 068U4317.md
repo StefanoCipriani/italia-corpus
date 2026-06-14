@@ -1,16 +1,14 @@
-REGIO DECRETO 19 marzo 1868 n. 4317
-
-
-REGIO DECRETO 19 marzo 1868 n. 4317
-===================================
-
-Col quale il Comune di Mione e' autorizzato a trasferire la sede degli Uffizi municipali nella borgata di Cella. (068U4317)
----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/04/1868
+---
+tipo: REGIO DECRETO
+numero: 4317
+data: 1868-03-19
+titolo: "Col quale il Comune di Mione e' autorizzato a trasferire la sede degli Uffizi municipali nella borgata di Cella. (068U4317)"
+urn: urn:nir:stato:regio.decreto:1868-03-19;4317
+codice_redazionale: 068U4317
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,29 +18,22 @@ Sulla proposta del Ministro dell'Interno;
 
 Vista la deliberazione emessa dal Consiglio comunale di Mione nella seduta 10 maggio 1867, e quella del Consiglio provinciale di Udine del 14 settembre ultimo;
 
-Vista
------
+Vista la Legge sull'amministrazione comunale e provinciale in data 20 marzo 1865; Abbiamo decretato e decretiamo:
 
-la Legge sull'amministrazione comunale e provinciale in data 20 marzo 1865; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Mione e' autorizzato a trasferire la sede degli Uffizi municipali nella borgata di Cella.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 19 marzo 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 6 aprile 1868   
-  
-Reg. 42 Atti del Governo a c. 164. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-C. Cadorna.   
-  
+Il Comune di Mione e' autorizzato a trasferire la sede degli Uffizi municipali nella borgata di Cella. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 19 marzo 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 6 aprile 1868 
+ 
+ Reg. 42 Atti del Governo a c. 164. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ C. Cadorna.

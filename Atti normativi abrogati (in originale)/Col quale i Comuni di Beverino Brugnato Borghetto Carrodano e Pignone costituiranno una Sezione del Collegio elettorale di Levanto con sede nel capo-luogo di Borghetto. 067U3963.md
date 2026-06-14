@@ -1,16 +1,14 @@
-REGIO DECRETO 06 ottobre 1867 n. 3963
-
-
-REGIO DECRETO 06 ottobre 1867 n. 3963
-=====================================
-
-Col quale i Comuni di Beverino, Brugnato, Borghetto, Carrodano e Pignone costituiranno una Sezione del Collegio elettorale di Levanto con sede nel capo-luogo di Borghetto. (067U3963)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/11/1867
+---
+tipo: REGIO DECRETO
+numero: 3963
+data: 1867-10-06
+titolo: "Col quale i Comuni di Beverino, Brugnato, Borghetto, Carrodano e Pignone costituiranno una Sezione del Collegio elettorale di Levanto con sede nel capo-luogo di Borghetto. (067U3963)"
+urn: urn:nir:stato:regio.decreto:1867-10-06;3963
+codice_redazionale: 067U3963
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nei Comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Beverino, Brugnato, Borghetto, Carrodano e Pignone costituiranno d'ora in poi una Sezione del Collegio elettorale di Levanto, n. 195, la quale avra' sede nel capo-luogo del Comune di Borghetto.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Firenze addi' 6 ottobre 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 17 ottobre 1867   
-  
-Reg. 41 Atti del Governo a c. 26. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Tecchio.   
-  
-U. Rattazzi.   
-  
+I Comuni di Beverino, Brugnato, Borghetto, Carrodano e Pignone costituiranno d'ora in poi una Sezione del Collegio elettorale di Levanto, n. 195, la quale avra' sede nel capo-luogo del Comune di Borghetto. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Firenze addi' 6 ottobre 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 17 ottobre 1867 
+ 
+ Reg. 41 Atti del Governo a c. 26. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Tecchio. 
+ 
+ U. Rattazzi.

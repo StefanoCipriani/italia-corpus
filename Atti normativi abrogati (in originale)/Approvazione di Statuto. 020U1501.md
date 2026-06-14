@@ -1,17 +1,17 @@
-REGIO DECRETO 09 settembre 1920 n. 1501
+---
+tipo: REGIO DECRETO
+numero: 1501
+data: 1920-09-09
+titolo: "Approvazione di Statuto. (020U1501)"
+urn: urn:nir:stato:regio.decreto:1920-09-09;1501
+codice_redazionale: 020U1501
+vigente: true
+---
 
-
-REGIO DECRETO 09 settembre 1920 n. 1501
-=======================================
-
-Approvazione di Statuto. (020U1501)
------------------------------------
-
-Entrata in vigore del provvedimento: 25/11/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1501. Regio decreto 9 settembre 1920, col quale, sulla proposta del ministro dell'industria e commercio, viene approvato il nuovo statuto organico della Cassa di risparmio di Spoleto.
+1501.
+
+Regio decreto 9 settembre 1920, col quale, sulla proposta del ministro dell'industria e commercio, viene approvato il nuovo statuto organico della Cassa di risparmio di Spoleto.

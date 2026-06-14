@@ -1,21 +1,17 @@
-REGIO DECRETO 13 dicembre 1903 n. DVIII
+---
+tipo: REGIO DECRETO
+numero: DVIII
+data: 1903-12-13
+titolo: "Col quale il comune di Portolongone e' autorizzato a continuare per i vetrami e cristallami, per l'amido, la carta e per il piombo da caccia un dazio di consumo. (0300508R)"
+urn: urn:nir:stato:regio.decreto:1903-12-13;508
+codice_redazionale: 0300508R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 dicembre 1903 n. DVIII
-=======================================
-
-Col quale il comune di Portolongone e' autorizzato a continuare per i vetrami e cristallami, per l'amido, la carta e per il piombo da caccia un dazio di consumo. (0300508R)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/01/1904
-
-Art. 1
-------
-
-  
-Col quale il comune di Portolongone e' autorizzato a continuare per i vetrami e cristallami, per l'amido, la carta e per il piombo da caccia un dazio di consumo. - Firmato VITTORIO EMANUELE - Controfirmato L. Luzzatti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 31 dicembre 1903.   
-  
-Reg. 14. Atti del Governo a f. 100.   
-  
+Col quale il comune di Portolongone e' autorizzato a continuare per i vetrami e cristallami, per l'amido, la carta e per il piombo da caccia un dazio di consumo. - Firmato VITTORIO EMANUELE - Controfirmato L. Luzzatti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 31 dicembre 1903. 
+ 
+ Reg. 14. Atti del Governo a f. 100.

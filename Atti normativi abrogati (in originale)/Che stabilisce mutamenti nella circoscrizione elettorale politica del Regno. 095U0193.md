@@ -1,17 +1,17 @@
-REGIO DECRETO 21 aprile 1895 n. 193
+---
+tipo: REGIO DECRETO
+numero: 193
+data: 1895-04-21
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0193)"
+urn: urn:nir:stato:regio.decreto:1895-04-21;193
+codice_redazionale: 095U0193
+vigente: true
+---
 
-
-REGIO DECRETO 21 aprile 1895 n. 193
-===================================
-
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0193)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1895
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-193. Il Comune di S. Pietro a Patierno e' aggregato alla Sezione elettorale di Casoria del Collegio di Casoria.
+193.
+
+Il Comune di S. Pietro a Patierno e' aggregato alla Sezione elettorale di Casoria del Collegio di Casoria.

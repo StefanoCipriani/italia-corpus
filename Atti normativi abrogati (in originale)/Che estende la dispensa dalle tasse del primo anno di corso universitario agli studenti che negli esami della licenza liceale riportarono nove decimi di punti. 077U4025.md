@@ -1,16 +1,14 @@
-REGIO DECRETO 05 agosto 1877 n. 4025
-
-
-REGIO DECRETO 05 agosto 1877 n. 4025
-====================================
-
-Che estende la dispensa dalle tasse del primo anno di corso universitario agli studenti che negli esami della licenza liceale riportarono nove decimi di punti. (077U4025)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/09/1877
+---
+tipo: REGIO DECRETO
+numero: 4025
+data: 1877-08-05
+titolo: "Che estende la dispensa dalle tasse del primo anno di corso universitario agli studenti che negli esami della licenza liceale riportarono nove decimi di punti. (077U4025)"
+urn: urn:nir:stato:regio.decreto:1877-08-05;4025
+codice_redazionale: 077U4025
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,22 +20,16 @@ Ritenuto che anche gli studenti i quali nell'insieme delle prove del detto esame
 
 Sentito il Consiglio superiore della Pubblica Istruzione;
 
-Sulla
------
+Sulla proposizione del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La dispensa dalle tasse del primo anno di corso universitario potra' essere accordata non solo agli studenti segnalati nell'esame di licenza liceale, ma anche a coloro che ottennero nove decimi dei punti nell'insieme delle prove dell'esame medesimo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, addi' 5 agosto 1877.   
-  
-VITTORIO EMANUELE.   
-  
-M. Coppino.   
+La dispensa dalle tasse del primo anno di corso universitario potra' essere accordata non solo agli studenti segnalati nell'esame di licenza liceale, ma anche a coloro che ottennero nove decimi dei punti nell'insieme delle prove dell'esame medesimo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, addi' 5 agosto 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. Coppino.

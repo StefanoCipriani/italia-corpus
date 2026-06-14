@@ -1,16 +1,14 @@
-REGIO DECRETO 20 giugno 1877 n. 3905
-
-
-REGIO DECRETO 20 giugno 1877 n. 3905
-====================================
-
-Che separa i comuni di Cisano sul Neva, Castelbianco, Cenesi e Nasino dalla sezione principale del collegio elettorale di Albenga, e li costituisce in sezione distinta dello stesso collegio, colla sede a Cisano sul Neva. (077U3905)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/07/1877
+---
+tipo: REGIO DECRETO
+numero: 3905
+data: 1877-06-20
+titolo: "Che separa i comuni di Cisano sul Neva, Castelbianco, Cenesi e Nasino dalla sezione principale del collegio elettorale di Albenga, e li costituisce in sezione distinta dello stesso collegio, colla sede a Cisano sul Neva. (077U3905)"
+urn: urn:nir:stato:regio.decreto:1877-06-20;3905
+codice_redazionale: 077U3905
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del ministro segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
 
-proposta del ministro segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Cisano sul Neva, Castelbianco, Cenesi e Nasino sono separati dalla sezione principale del collegio elettorale di Albenga, e formeranno una sezione distinta dello stesso collegio, colla sede a Cisano sul Neva.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Pollenzo addi' 20 giugno 1877.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 3 luglio 1877   
-  
-Reg. 91 Atti del Governo a f. 44. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Mancini.   
-  
-G. Nicotera.   
-  
+I comuni di Cisano sul Neva, Castelbianco, Cenesi e Nasino sono separati dalla sezione principale del collegio elettorale di Albenga, e formeranno una sezione distinta dello stesso collegio, colla sede a Cisano sul Neva. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Pollenzo addi' 20 giugno 1877. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 3 luglio 1877 
+ 
+ Reg. 91 Atti del Governo a f. 44. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Mancini. 
+ 
+ G. Nicotera.

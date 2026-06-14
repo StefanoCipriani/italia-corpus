@@ -1,16 +1,14 @@
-REGIO DECRETO 16 dicembre 1894 n. 573
-
-
-REGIO DECRETO 16 dicembre 1894 n. 573
-=====================================
-
-Che accorda al Consorzio di irrigazione della Bealera Piozza Inferiore di Fossano, provincia di Cuneo, la facolta' di riscuotere, con i privilegi e nelle forme fiscali, il contributo dei soci. (094U0573)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/01/1895
+---
+tipo: REGIO DECRETO
+numero: 573
+data: 1894-12-16
+titolo: "Che accorda al Consorzio di irrigazione della Bealera Piozza Inferiore di Fossano, provincia di Cuneo, la facolta' di riscuotere, con i privilegi e nelle forme fiscali, il contributo dei soci. (094U0573)"
+urn: urn:nir:stato:regio.decreto:1894-12-16;573
+codice_redazionale: 094U0573
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,27 +22,20 @@ Visto lo statuto e gli altri atti relativi;
 
 Veduta la deliberazione dell'assemblea generale dei soci del 28 novembre 1894, con cui sono accettate le modificazioni allo statuto, suggerite dal Nostro Ministro per l'Agricoltura, Industria e Commercio;
 
-Vista la [legge 29 maggio 1873 n. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (serie 2ª);
+Vista la [legge 29 maggio 1873 n. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md) (serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, l'Industria e il Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, l'Industria e il Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al Consorzio di irrigazione della Bealera Piozza Inferiore di Fossano, in provincia di Cuneo, e' accordata la facolta' di riscuotere, con i privilegi e nelle forme fiscali, il contributo dei soci.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 dicembre 1894.   
-  
-UMBERTO.   
-  
-A. Barazzuoli.   
-  
-Visto, Il Guardasigilli: V. Calenda di Tavani.   
-  
+Al Consorzio di irrigazione della Bealera Piozza Inferiore di Fossano, in provincia di Cuneo, e' accordata la facolta' di riscuotere, con i privilegi e nelle forme fiscali, il contributo dei soci. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 dicembre 1894. 
+ 
+ UMBERTO. 
+ 
+ A. Barazzuoli. 
+ 
+ Visto, Il Guardasigilli: V. Calenda di Tavani.

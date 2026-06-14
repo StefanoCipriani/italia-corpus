@@ -1,53 +1,44 @@
-REGIO DECRETO 07 giugno 1928 n. 1559
-
-
-REGIO DECRETO 07 giugno 1928 n. 1559
-====================================
-
-Aggiunta al R. decreto 15 luglio 1926, n. 1423, contenente norme per gli esami per l'avanzamento ad anzianita' ed a scelta per gli ufficiali del Corpo veterinario nel Regio esercito. (028U1559)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/06/1928
+---
+tipo: REGIO DECRETO
+numero: 1559
+data: 1928-06-07
+titolo: "Aggiunta al R. decreto 15 luglio 1926, n. 1423, contenente norme per gli esami per l'avanzamento ad anzianita' ed a scelta per gli ufficiali del Corpo veterinario nel Regio esercito. (028U1559)"
+urn: urn:nir:stato:regio.decreto:1928-06-07;1559
+codice_redazionale: 028U1559
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [legge 11 marzo 1926, n. 398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-11;398);
+Vista la [legge 11 marzo 1926, n. 398](Avanzamento%20degli%20ufficiali%20del%20Regio%20esercito.%20026U0398.md);
 
-Visto il [R. decreto 15 luglio 1926, n. 1423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-15;1423);
+Visto il [R. decreto 15 luglio 1926, n. 1423](Norme%20per%20gli%20esami%20per%20lavanzamento%20ad%20anzianita%20ed%20a%20scelta%20per%20gli%20ufficiali%20del%20corpo%20veterinario%20nel%20Regio%20esercito.%20026U1423.md);
 
 Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la
 
-guerra;
--------
+guerra; Abbiamo decretato e decretiamo:
 
-Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nel [R. decreto 15 luglio 1926, n. 1423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-15;1423), che stabilisce le norme per gli esami per l'avanzamento ad anzianita' ed a scelta per gli ufficiali del Corpo veterinario nel Regio esercito, e' aggiunto all'art. 11 il seguente capoverso:   
-  
-«In caso di assenza o d'impedimento del colonnello capo del servizio veterinario, sara' nominato presidente della Commissione il tenente colonnello veterinario in servizio permanente effettivo piu' anziano fra gl'inscritti a ruolo».   
-  
-Il presente decreto entrera' in vigore dal 15 giugno 1928.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 giugno 1928 - Anno VI   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 14 luglio 1928 - Anno VI   
-Atti del Governo, registro 274, foglio 119. - Sirovich   
-  
+Nel [R. decreto 15 luglio 1926, n. 1423](Norme%20per%20gli%20esami%20per%20lavanzamento%20ad%20anzianita%20ed%20a%20scelta%20per%20gli%20ufficiali%20del%20corpo%20veterinario%20nel%20Regio%20esercito.%20026U1423.md), che stabilisce le norme per gli esami per l'avanzamento ad anzianita' ed a scelta per gli ufficiali del Corpo veterinario nel Regio esercito, e' aggiunto all'art. 11 il seguente capoverso: 
+ 
+ «In caso di assenza o d'impedimento del colonnello capo del servizio veterinario, sara' nominato presidente della Commissione il tenente colonnello veterinario in servizio permanente effettivo piu' anziano fra gl'inscritti a ruolo». 
+ 
+ Il presente decreto entrera' in vigore dal 15 giugno 1928. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 giugno 1928 - Anno VI 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 14 luglio 1928 - Anno VI  
+ Atti del Governo, registro 274, foglio 119. - Sirovich

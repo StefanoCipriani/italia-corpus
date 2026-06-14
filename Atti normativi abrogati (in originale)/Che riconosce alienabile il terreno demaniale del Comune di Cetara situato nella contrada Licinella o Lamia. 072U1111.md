@@ -1,16 +1,14 @@
-REGIO DECRETO 22 ottobre 1872 n. 1111
-
-
-REGIO DECRETO 22 ottobre 1872 n. 1111
-=====================================
-
-Che riconosce alienabile il terreno demaniale del Comune di Cetara, situato nella contrada Licinella o Lamia. (072U1111)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/12/1872
+---
+tipo: REGIO DECRETO
+numero: 1111
+data: 1872-10-22
+titolo: "Che riconosce alienabile il terreno demaniale del Comune di Cetara, situato nella contrada Licinella o Lamia. (072U1111)"
+urn: urn:nir:stato:regio.decreto:1872-10-22;1111
+codice_redazionale: 072U1111
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,24 +20,16 @@ Vista la deliberazione del Consiglio comunale di Cetara, in provincia di Princip
 
 Visto l'avviso del Consiglio di Stato, reso nella sua adunanza generale del 28 agosto 1869;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il terreno demaniale del comune di Cetara in Principato Citeriore, nella contrada denominata Licinella o Lamia, della estensione complessiva di ettari 6, 63, 20, e' riconosciuto alienabile con le medesime formalita' e cautele necessarie per l'alienazione degli altri fondi comunali, in adempimento della [legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato A.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli, addi' 22 ottobre 1872.   
-  
-VITTORIO EMANUELE   
-  
-Castagnola.   
-  
-  
+Il terreno demaniale del comune di Cetara in Principato Citeriore, nella contrada denominata Licinella o Lamia, della estensione complessiva di ettari 6, 63, 20, e' riconosciuto alienabile con le medesime formalita' e cautele necessarie per l'alienazione degli altri fondi comunali, in adempimento della [legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato A. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli, addi' 22 ottobre 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Castagnola.

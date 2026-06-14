@@ -1,16 +1,14 @@
-REGIO DECRETO 21 ottobre 1901 n. 451
-
-
-REGIO DECRETO 21 ottobre 1901 n. 451
-====================================
-
-Col quale s'istituisce un posto di notaro nel Comune di Acuto, distretto notarile di Frosinone. (001U0451)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/11/1901
+---
+tipo: REGIO DECRETO
+numero: 451
+data: 1901-10-21
+titolo: "Col quale s'istituisce un posto di notaro nel Comune di Acuto, distretto notarile di Frosinone. (001U0451)"
+urn: urn:nir:stato:regio.decreto:1901-10-21;451
+codice_redazionale: 001U0451
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,29 +18,22 @@ Vista la deliberazione, con la quale il Consiglio comunale di Acuto ha chiesto c
 
 Visti i pareri emessi al riguardo dal Consiglio provinciale di Roma e dal Consiglio notarile di Frosinone;
 
-Visto l'articolo 4, alinea, della legge notarile, [testo unico del 25 maggio 1879, n. 4900](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1879-05-25;4900) (serie 2ª); e la tabella del numero e della residenza dei notari del Regno, approvata col R. decreto 11 giugno 1882 (serie 3ª);
+Visto l'articolo 4, alinea, della legge notarile, [testo unico del 25 maggio 1879, n. 4900](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1879-05-25;4900) (serie 2ª); e la tabella del numero e della residenza dei notari del Regno, approvata col R. decreto 11 giugno 1882 (serie 3ª);
 
 Ritenuta dimostrata la necessita' dell'istituzione del nuovo posto;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un posto di notaro nel Comune di Acuto, distretto notarile di Frosinone.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Capodimonte (Napoli), addi' 21 ottobre 1901.   
-  
-VITTORIO EMANUELE.   
-  
-COCCO-ORTU.   
-  
-Visto, Il Guardasigilli: COCCO-ORTU.   
-  
+E' istituito un posto di notaro nel Comune di Acuto, distretto notarile di Frosinone. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Capodimonte (Napoli), addi' 21 ottobre 1901. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ COCCO-ORTU. 
+ 
+ Visto, Il Guardasigilli: COCCO-ORTU.

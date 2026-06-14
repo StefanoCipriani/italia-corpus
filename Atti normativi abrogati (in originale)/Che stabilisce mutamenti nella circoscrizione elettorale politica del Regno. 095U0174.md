@@ -1,17 +1,17 @@
-REGIO DECRETO 18 aprile 1895 n. 174
+---
+tipo: REGIO DECRETO
+numero: 174
+data: 1895-04-18
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0174)"
+urn: urn:nir:stato:regio.decreto:1895-04-18;174
+codice_redazionale: 095U0174
+vigente: true
+---
 
-
-REGIO DECRETO 18 aprile 1895 n. 174
-===================================
-
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0174)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1895
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-174. Il Comune di Arguello e' aggregato alla Sezione elettorale di Cerretto delle Langhe del Collegio di Cherasco.
+174.
+
+Il Comune di Arguello e' aggregato alla Sezione elettorale di Cerretto delle Langhe del Collegio di Cherasco.

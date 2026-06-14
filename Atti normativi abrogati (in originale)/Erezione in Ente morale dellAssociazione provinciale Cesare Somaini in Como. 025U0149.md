@@ -1,21 +1,21 @@
-REGIO DECRETO 29 gennaio 1925 n. 149
+---
+tipo: REGIO DECRETO
+numero: 149
+data: 1925-01-29
+titolo: "Erezione in Ente morale dell'Associazione provinciale Cesare Somaini, in Como. (025U0149)"
+urn: urn:nir:stato:regio.decreto:1925-01-29;149
+codice_redazionale: 025U0149
+vigente: true
+---
 
-
-REGIO DECRETO 29 gennaio 1925 n. 149
-====================================
-
-Erezione in Ente morale dell'Associazione provinciale Cesare Somaini, in Como. (025U0149)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/03/1925
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-149. R. decreto 29 gennaio 1925, col quale, sulla proposta del Ministro per l'interno, l'Associazione provinciale Cesare Somaini per la redenzione dei minorenni delinquenti o traviati in Como, viene eretta in Ente morale, ed e' approvato il relativo statuto organico.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 25 febbraio 1925.
+149.
+
+R. decreto 29 gennaio 1925, col quale, sulla proposta del Ministro per l'interno, l'Associazione provinciale Cesare Somaini per la redenzione dei minorenni delinquenti o traviati in Como, viene eretta in Ente morale, ed e' approvato il relativo statuto organico. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 25 febbraio 1925.

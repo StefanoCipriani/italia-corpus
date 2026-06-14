@@ -1,17 +1,13 @@
-REGIO DECRETO 13 febbraio 1908 n. CV
+---
+tipo: REGIO DECRETO
+numero: CV
+data: 1908-02-13
+titolo: "Riflettente approvazione di statuto (0800105R)"
+urn: urn:nir:stato:regio.decreto:1908-02-13;105
+codice_redazionale: 0800105R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 febbraio 1908 n. CV
-====================================
-
-Riflettente approvazione di statuto (0800105R)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 26/04/1908
-
-Art. 1
-------
-
-  
-N. CV (Dato a Roma, il 13 febbraio 1908), col quale si approva il nuovo statuto organico del Monte di pieta' di Monza.   
-  
+N. CV (Dato a Roma, il 13 febbraio 1908), col quale si approva il nuovo statuto organico del Monte di pieta' di Monza.

@@ -1,21 +1,21 @@
-REGIO DECRETO 15 maggio 1933 n. 974
+---
+tipo: REGIO DECRETO
+numero: 974
+data: 1933-05-15
+titolo: "Approvazione dello statuto organico della Congregazione di carita' di Marano di Valpolicella. (033U0974)"
+urn: urn:nir:stato:regio.decreto:1933-05-15;974
+codice_redazionale: 033U0974
+vigente: true
+---
 
-
-REGIO DECRETO 15 maggio 1933 n. 974
-===================================
-
-Approvazione dello statuto organico della Congregazione di carita' di Marano di Valpolicella. (033U0974)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/08/1933
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-974. R. decreto 15 maggio 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, e' approvato lo statuto organico della Congregazione di carita' di Marano di Valpolicella (provincia di Verona).   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 6 luglio 1933 - Anno XI
+974.
+
+R. decreto 15 maggio 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, e' approvato lo statuto organico della Congregazione di carita' di Marano di Valpolicella (provincia di Verona). 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 6 luglio 1933 - Anno XI

@@ -1,19 +1,15 @@
-REGIO DECRETO 19 maggio 1912 n. 520
+---
+tipo: REGIO DECRETO
+numero: 520
+data: 1912-05-19
+titolo: "Concentramento di legato pio. (012U0520)"
+urn: urn:nir:stato:regio.decreto:1912-05-19;520
+codice_redazionale: 012U0520
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 maggio 1912 n. 520
-===================================
-
-Concentramento di legato pio. (012U0520)
-----------------------------------------
-
-Entrata in vigore del provvedimento: 25/06/1912
-
-Art. 1
-------
-
-  
-N. 520   
-  
-Regio Decreto 19 maggio 1912, col quale, sulla proposta del ministro dell'interno, il legato dotalizio «Ciro Aloe'» di San Buono (Chieti) viene eretto in ente morale e concentrato nella locale Congregazione di carita'.   
-  
+N. 520 
+ 
+ Regio Decreto 19 maggio 1912, col quale, sulla proposta del ministro dell'interno, il legato dotalizio «Ciro Aloe'» di San Buono (Chieti) viene eretto in ente morale e concentrato nella locale Congregazione di carita'.

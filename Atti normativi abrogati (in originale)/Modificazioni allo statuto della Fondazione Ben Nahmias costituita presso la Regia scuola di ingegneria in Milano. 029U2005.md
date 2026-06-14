@@ -1,16 +1,14 @@
-REGIO DECRETO 23 agosto 1929 n. 2005
-
-
-REGIO DECRETO 23 agosto 1929 n. 2005
-====================================
-
-Modificazioni allo statuto della Fondazione «Ben Nahmias» costituita presso la Regia scuola di ingegneria in Milano. (029U2005)
--------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/12/1929
+---
+tipo: REGIO DECRETO
+numero: 2005
+data: 1929-08-23
+titolo: "Modificazioni allo statuto della Fondazione «Ben Nahmias» costituita presso la Regia scuola di ingegneria in Milano. (029U2005)"
+urn: urn:nir:stato:regio.decreto:1929-08-23;2005
+codice_redazionale: 029U2005
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,39 +22,30 @@ Vista l'istanza, in data del 7 marzo 1928-VI, del direttore della Regia scuola d
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+All'art. 4 dello statuto della Fondazione «Ben Nahmias» costituita presso la Regia scuola di ingegneria in Milano, statuto approvato con R. decreto del 2 aprile 1925, e' sostituito il seguente: 
+ 
+ «E' posto inoltre a disposizione della Fondazione un capitale investito in consolidato 5% del Regno d'Italia per lire 60,000 di valore nominale. 
+ 
+ «Col reddito di questo capitale si costituira' un premio biennale di L. 10,000, eventualmente divisibile in due uguali o diversi, a favore di un ex allievo della Regia scuola d'ingegneria, che, dopo aver superato l'esame di Stato, presenti, entro due mesi dal compimento degli studi, il progetto di un dispositivo industriale, di una macchina, o di una piccola industria qualsiasi, studiato in modo tale da far presumere che possa essere consigliabile di tentarne, con probabilita' di successo, l'applicazione pratica; il tutto a giudizio di una Commissione tecnica di tre membri, da nominarsi dal Comitato amministrativo».
 
-  
-  
-All'art. 4 dello statuto della Fondazione «Ben Nahmias» costituita presso la Regia scuola di ingegneria in Milano, statuto approvato con R. decreto del 2 aprile 1925, e' sostituito il seguente:   
-  
-«E' posto inoltre a disposizione della Fondazione un capitale investito in consolidato 5% del Regno d'Italia per lire 60,000 di valore nominale.   
-  
-«Col reddito di questo capitale si costituira' un premio biennale di L. 10,000, eventualmente divisibile in due uguali o diversi, a favore di un ex allievo della Regia scuola d'ingegneria, che, dopo aver superato l'esame di Stato, presenti, entro due mesi dal compimento degli studi, il progetto di un dispositivo industriale, di una macchina, o di una piccola industria qualsiasi, studiato in modo tale da far presumere che possa essere consigliabile di tentarne, con probabilita' di successo, l'applicazione pratica; il tutto a giudizio di una Commissione tecnica di tre membri, da nominarsi dal Comitato amministrativo».   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-L'art. 6 dello statuto della suaccennata Fondazione e' soppresso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Anna di Valdieri, addi' 23 agosto 1929 - Anno VII   
-  
-VITTORIO EMANUELE.   
-  
-Martelli.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 25 novembre 1929 - Anno VIII   
-  
-Atti del Governo, registro 290, foglio 120. - Mancini.   
+L'art. 6 dello statuto della suaccennata Fondazione e' soppresso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Anna di Valdieri, addi' 23 agosto 1929 - Anno VII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Martelli. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 25 novembre 1929 - Anno VIII 
+ 
+ Atti del Governo, registro 290, foglio 120. - Mancini.

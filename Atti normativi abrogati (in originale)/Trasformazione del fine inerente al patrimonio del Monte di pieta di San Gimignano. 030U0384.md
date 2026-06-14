@@ -1,21 +1,21 @@
-REGIO DECRETO 17 marzo 1930 n. 384
+---
+tipo: REGIO DECRETO
+numero: 384
+data: 1930-03-17
+titolo: "Trasformazione del fine inerente al patrimonio del Monte di pieta' di San Gimignano. (030U0384)"
+urn: urn:nir:stato:regio.decreto:1930-03-17;384
+codice_redazionale: 030U0384
+vigente: true
+---
 
-
-REGIO DECRETO 17 marzo 1930 n. 384
-==================================
-
-Trasformazione del fine inerente al patrimonio del Monte di pieta' di San Gimignano. (030U0384)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/05/1930
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-384. R. decreto 17 marzo 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, il fine inerente al patrimonio del Monte di pieta' di San Gimignano e' trasformato a favore della Congregazione di carita' del luogo, con l'obbligo di erogare le rendite provenienti dal detto patrimonio in sussidi ai tubercolosi poveri del Comune.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 19 aprile 1930 - Anno VIII
+384.
+
+R. decreto 17 marzo 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, il fine inerente al patrimonio del Monte di pieta' di San Gimignano e' trasformato a favore della Congregazione di carita' del luogo, con l'obbligo di erogare le rendite provenienti dal detto patrimonio in sussidi ai tubercolosi poveri del Comune. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 19 aprile 1930 - Anno VIII

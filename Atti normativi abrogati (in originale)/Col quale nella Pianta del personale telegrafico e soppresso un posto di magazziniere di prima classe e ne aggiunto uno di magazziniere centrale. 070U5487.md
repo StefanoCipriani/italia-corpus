@@ -1,16 +1,14 @@
-REGIO DECRETO 31 gennaio 1870 n. 5487
-
-
-REGIO DECRETO 31 gennaio 1870 n. 5487
-=====================================
-
-Col quale nella Pianta del personale telegrafico e' soppresso un posto di magazziniere di prima classe, e n'e' aggiunto uno di magazziniere centrale. (070U5487)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/03/1870
+---
+tipo: REGIO DECRETO
+numero: 5487
+data: 1870-01-31
+titolo: "Col quale nella Pianta del personale telegrafico e' soppresso un posto di magazziniere di prima classe, e n'e' aggiunto uno di magazziniere centrale. (070U5487)"
+urn: urn:nir:stato:regio.decreto:1870-01-31;5487
+codice_redazionale: 070U5487
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,40 +20,28 @@ Vista la Pianta organica del personale telegrafico, annessa al Nostro Decreto 8 
 
 Visto il susseguente Nostro Decreto 5 maggio 1869, n. 5059;
 
-Sulla
------
+Sulla proposizione del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' soppresso un posto di magazziniere di prima classe nella Pianta organica del personale telegrafico.
 
-  
-  
-E' soppresso un posto di magazziniere di prima classe nella Pianta organica del personale telegrafico.   
+## Art. 2.
 
-Art. 2
-------
+Nella medesima e' aggiunto un posto di magazziniere centrale coll'annuo stipendio di lire tremila.
 
-  
-  
-Nella medesima e' aggiunto un posto di magazziniere centrale coll'annuo stipendio di lire tremila.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Questo Decreto avra' effetto dal giorno primo del prossimo mese.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto, nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 31 gennaio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 11 febbraio 1870   
-Reg. 50 Atti del Governo a c. 50. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-Gadda.   
+Questo Decreto avra' effetto dal giorno primo del prossimo mese. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto, nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 31 gennaio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 11 febbraio 1870 
+ Reg. 50 Atti del Governo a c. 50. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ Gadda.

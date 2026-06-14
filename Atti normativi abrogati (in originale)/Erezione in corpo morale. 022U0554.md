@@ -1,17 +1,17 @@
-REGIO DECRETO 23 maggio 1922 n. 554
+---
+tipo: REGIO DECRETO
+numero: 554
+data: 1922-05-23
+titolo: "Erezione in corpo morale. (022U0554)"
+urn: urn:nir:stato:regio.decreto:1922-05-23;554
+codice_redazionale: 022U0554
+vigente: true
+---
 
-
-REGIO DECRETO 23 maggio 1922 n. 554
-===================================
-
-Erezione in corpo morale. (022U0554)
-------------------------------------
-
-Entrata in vigore del provvedimento: 19/05/1922
-
-Art. 1
-------
+## Art. 1.
 
 N
 
-554. Regio decreto 23 maggio 1922, col quale, sulla proposta del ministro por l'industria ed il commercio, l'Istituto autonomo per le case popolari, con sede in Cupramontana, viene riconosciuto come corpo morale e ne e' approvato lo statuto organico.
+554.
+
+Regio decreto 23 maggio 1922, col quale, sulla proposta del ministro por l'industria ed il commercio, l'Istituto autonomo per le case popolari, con sede in Cupramontana, viene riconosciuto come corpo morale e ne e' approvato lo statuto organico.

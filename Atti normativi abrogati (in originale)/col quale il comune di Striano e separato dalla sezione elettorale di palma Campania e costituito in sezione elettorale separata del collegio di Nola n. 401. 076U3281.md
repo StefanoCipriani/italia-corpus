@@ -1,16 +1,14 @@
-REGIO DECRETO 09 agosto 1876 n. 3281
-
-
-REGIO DECRETO 09 agosto 1876 n. 3281
-====================================
-
-col quale il comune di Striano e' separato dalla sezione elettorale di palma Campania e costituito in sezione elettorale separata del collegio di Nola, n. 401. (076U3281)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/09/1876
+---
+tipo: REGIO DECRETO
+numero: 3281
+data: 1876-08-09
+titolo: "col quale il comune di Striano e' separato dalla sezione elettorale di palma Campania e costituito in sezione elettorale separata del collegio di Nola, n. 401. (076U3281)"
+urn: urn:nir:stato:regio.decreto:1876-08-09;3281
+codice_redazionale: 076U3281
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Striano e' separato dalla sezione di Palma Campania, e costituira' da oggi innanzi una sezione distinta del Collegio elettorale di Nola n. 401.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Castello di Sarre, addi' 9 agosto 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il comune di Striano e' separato dalla sezione di Palma Campania, e costituira' da oggi innanzi una sezione distinta del Collegio elettorale di Nola n. 401. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Castello di Sarre, addi' 9 agosto 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

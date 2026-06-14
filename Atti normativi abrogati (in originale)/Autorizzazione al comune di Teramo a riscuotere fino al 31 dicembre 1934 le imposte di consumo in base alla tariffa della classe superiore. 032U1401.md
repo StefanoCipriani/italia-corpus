@@ -1,16 +1,14 @@
-REGIO DECRETO 20 ottobre 1932 n. 1401
-
-
-REGIO DECRETO 20 ottobre 1932 n. 1401
-=====================================
-
-Autorizzazione al comune di Teramo a riscuotere, fino al 31 dicembre 1934, le imposte di consumo in base alla tariffa della classe superiore. (032U1401)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/11/1932
+---
+tipo: REGIO DECRETO
+numero: 1401
+data: 1932-10-20
+titolo: "Autorizzazione al comune di Teramo a riscuotere, fino al 31 dicembre 1934, le imposte di consumo in base alla tariffa della classe superiore. (032U1401)"
+urn: urn:nir:stato:regio.decreto:1932-10-20;1401
+codice_redazionale: 032U1401
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,23 +20,17 @@ Vista la domanda avanzata dal comune di Teramo per avvalersi della disposizione 
 
 Visto il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Teramo e' autorizzato a riscuotere, fino al 31 dicembre 1934, le imposte di consumo con le aliquote stabilite per la classe D.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a San Rossore, addi' 20 ottobre 1932 - Anno X   
-  
-VITTORIO EMANUELE.   
-  
-Jung.   
-  
-Visto, il Guardasigilli: De Francisci.   
-Registrato alla corte dei conti, addi' 3 novembre 1932 - Anno XI Atti del Governo, registro 326, foglio 9. - Mancini.   
+Il comune di Teramo e' autorizzato a riscuotere, fino al 31 dicembre 1934, le imposte di consumo con le aliquote stabilite per la classe D. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a San Rossore, addi' 20 ottobre 1932 - Anno X 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Jung. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ Registrato alla corte dei conti, addi' 3 novembre 1932 - Anno XI  Atti del Governo, registro 326, foglio 9. - Mancini.

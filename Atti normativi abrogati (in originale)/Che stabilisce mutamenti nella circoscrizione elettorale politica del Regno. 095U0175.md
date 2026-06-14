@@ -1,17 +1,17 @@
-REGIO DECRETO 18 aprile 1895 n. 175
+---
+tipo: REGIO DECRETO
+numero: 175
+data: 1895-04-18
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0175)"
+urn: urn:nir:stato:regio.decreto:1895-04-18;175
+codice_redazionale: 095U0175
+vigente: true
+---
 
-
-REGIO DECRETO 18 aprile 1895 n. 175
-===================================
-
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0175)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1895
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-175. Il Comune di Feisoglio e' aggregato alla Sezione elettorale di Niella Belbo del Collegio di Cherasco.
+175.
+
+Il Comune di Feisoglio e' aggregato alla Sezione elettorale di Niella Belbo del Collegio di Cherasco.

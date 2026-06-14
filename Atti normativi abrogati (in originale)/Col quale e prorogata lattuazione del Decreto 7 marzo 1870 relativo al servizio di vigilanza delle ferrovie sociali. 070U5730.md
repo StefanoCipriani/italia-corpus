@@ -1,16 +1,14 @@
-REGIO DECRETO 30 giugno 1870 n. 5730
-
-
-REGIO DECRETO 30 giugno 1870 n. 5730
-====================================
-
-Col quale e' prorogata l'attuazione del Decreto 7 marzo 1870, relativo al servizio di vigilanza delle ferrovie sociali. (070U5730)
-----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/07/1870
+---
+tipo: REGIO DECRETO
+numero: 5730
+data: 1870-06-30
+titolo: "Col quale e' prorogata l'attuazione del Decreto 7 marzo 1870, relativo al servizio di vigilanza delle ferrovie sociali. (070U5730)"
+urn: urn:nir:stato:regio.decreto:1870-06-30;5730
+codice_redazionale: 070U5730
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,24 +16,16 @@ RE D'ITALIA
 
 Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'attuazione del Nostro decreto 7 marzo 1870, n. 5606, relativo al servizio di vigilanza delle ferrovie sociali, e' prorogata sino a nuove disposizioni.   
-  
-Ordiniamo che il, presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 30 giugno 1870.   
-  
-VITTORIO EMANUELE.   
-  
-G. Gadda.   
-  
-  
+L'attuazione del Nostro decreto 7 marzo 1870, n. 5606, relativo al servizio di vigilanza delle ferrovie sociali, e' prorogata sino a nuove disposizioni. 
+ 
+ Ordiniamo che il, presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 30 giugno 1870. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Gadda.

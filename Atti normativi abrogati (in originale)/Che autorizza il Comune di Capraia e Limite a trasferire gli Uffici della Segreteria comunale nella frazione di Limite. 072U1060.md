@@ -1,16 +1,14 @@
-REGIO DECRETO 22 ottobre 1872 n. 1060
-
-
-REGIO DECRETO 22 ottobre 1872 n. 1060
-=====================================
-
-Che autorizza il Comune di Capraia e Limite a trasferire gli Uffici della Segreteria comunale nella frazione di Limite. (072U1060)
-----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/11/1872
+---
+tipo: REGIO DECRETO
+numero: 1060
+data: 1872-10-22
+titolo: "Che autorizza il Comune di Capraia e Limite a trasferire gli Uffici della Segreteria comunale nella frazione di Limite. (072U1060)"
+urn: urn:nir:stato:regio.decreto:1872-10-22;1060
+codice_redazionale: 072U1060
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Vista la deliberazione del Consiglio provinciale di Firenze, in data 14 settembr
 
 Vista la legge 20 marzo 1865, allegato F;
 
-Inteso
-------
+Inteso il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
 
-il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' autorizzato il comune di Capraia e Limite a trasferire gli uffici della Segreteria comunale nella frazione di Limite, alle condizioni determinate nella succitata deliberazione del Consiglio comunale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli, addi' 22 ottobre 1872.   
-  
-VITTORIO EMANUELE.   
-  
-G. Lanza.   
-  
+E' autorizzato il comune di Capraia e Limite a trasferire gli uffici della Segreteria comunale nella frazione di Limite, alle condizioni determinate nella succitata deliberazione del Consiglio comunale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli, addi' 22 ottobre 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Lanza.

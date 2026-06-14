@@ -1,16 +1,14 @@
-REGIO DECRETO 03 ottobre 1904 n. 579
-
-
-REGIO DECRETO 03 ottobre 1904 n. 579
-====================================
-
-Che fissa la indennita' dovuta all'ufficiale di stato maggiore generale all'atto della sua nomina ad addetto navale all'estero. (004U0579)
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/11/1904
+---
+tipo: REGIO DECRETO
+numero: 579
+data: 1904-10-03
+titolo: "Che fissa la indennita' dovuta all'ufficiale di stato maggiore generale all'atto della sua nomina ad addetto navale all'estero. (004U0579)"
+urn: urn:nir:stato:regio.decreto:1904-10-03;579
+codice_redazionale: 004U0579
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,51 +18,35 @@ Ritenuta l'opportunita' di uniformare le disposizioni relative alle indennita' d
 
 Udito il Consiglio Superiore di Marina;
 
-Sulla
------
+Sulla proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+All'atto della nomina di un ufficiale dello stato maggiore generale ad addetto navale all'estero e' dovuta all'ufficiale medesimo la seguente indennita' di primo impianto: 
+ 
 
-  
-  
-All'atto della nomina di un ufficiale dello stato maggiore generale ad addetto navale all'estero e' dovuta all'ufficiale medesimo la seguente indennita' di primo impianto:   
-  
-  
-se capitano di vascello . . . L. 4000  
-  
-se capitano di fregata . . . » 3500  
-  
-se capitano di corvetta . . . » 3000  
-  
-se tenente di vascello . . . » 2500  
-  
-  
+ se capitano di vascello . . . L. 4000
 
-Art. 2
-------
+ se capitano di fregata . . . » 3500
 
-  
-  
-L'indennita' di primo impianto e' soggetta alla ritenuta per tassa di ricchezza mobile.   
-  
+ se capitano di corvetta . . . » 3000
 
-Art. 3
-------
+ se tenente di vascello . . . » 2500
 
-  
-  
-Le somme occorrenti pel pagamento delle indennita' di primo impianto verranno imputate sul capitolo «Indennita' di trasferta e missioni».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 3 ottobre 1904.   
-  
-VITTORIO EMANUELE.   
-  
-C. Mirabello.   
-  
-Visto, Il Guardasigilli: Ronchetti.   
-  
+## Art. 2.
+
+L'indennita' di primo impianto e' soggetta alla ritenuta per tassa di ricchezza mobile.
+
+## Art. 3.
+
+Le somme occorrenti pel pagamento delle indennita' di primo impianto verranno imputate sul capitolo «Indennita' di trasferta e missioni». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 3 ottobre 1904. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ C. Mirabello. 
+ 
+ Visto, Il Guardasigilli: Ronchetti.

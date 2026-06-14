@@ -1,16 +1,14 @@
-REGIO DECRETO 20 dicembre 1891 n. 750
-
-
-REGIO DECRETO 20 dicembre 1891 n. 750
-=====================================
-
-Che modifica il regolamento delle rr. Scuole di medicina veterinaria. (091U0750)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/02/1892
+---
+tipo: REGIO DECRETO
+numero: 750
+data: 1891-12-20
+titolo: "Che modifica il regolamento delle rr. Scuole di medicina veterinaria. (091U0750)"
+urn: urn:nir:stato:regio.decreto:1891-12-20;750
+codice_redazionale: 091U0750
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,31 +20,24 @@ Veduta la convenienza di modificare l'art. 5 del regolamento predetto, riguardan
 
 Sentito il Consiglio Superiore d'Istruzione;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-All'art. 5 del regolamento per le Scuole di medicina veterinaria approvato col Nostro decreto 29 gennaio 1891 n. 120, e' sostituito il seguente:   
-  
-«Un Direttore temporaneo, nominato per elezione fra i professori ordinari di materie speciali di veterinaria, e' preposto al governo immediato della Scuola, e da lui dipende il personale dello insegnamento e dell'amministrazione. Nei casi di impedimento o di assenza il professore anziano ne fa le veci.   
-  
-Il Direttore sara' nominato con decreto Reale sulla proposta dei professori ordinari e straordinari della Scuola e di quelli delle Universita' o Istituti superiori dei cui insegnamenti si giovano gli studenti di veterinaria. Il Direttore dura in carica un triennio.   
-  
-Sono rispettati i diritti acquisiti per i Direttori attualmente in carica e nominati a vita».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 20 dicembre 1891.   
-  
-UMBERTO.   
-  
-P. Villari.   
-  
-Visto, Il Guardasigilli: L. Ferraris.   
-  
+All'art. 5 del regolamento per le Scuole di medicina veterinaria approvato col Nostro decreto 29 gennaio 1891 n. 120, e' sostituito il seguente: 
+ 
+ «Un Direttore temporaneo, nominato per elezione fra i professori ordinari di materie speciali di veterinaria, e' preposto al governo immediato della Scuola, e da lui dipende il personale dello insegnamento e dell'amministrazione. Nei casi di impedimento o di assenza il professore anziano ne fa le veci. 
+ 
+ Il Direttore sara' nominato con decreto Reale sulla proposta dei professori ordinari e straordinari della Scuola e di quelli delle Universita' o Istituti superiori dei cui insegnamenti si giovano gli studenti di veterinaria. Il Direttore dura in carica un triennio. 
+ 
+ Sono rispettati i diritti acquisiti per i Direttori attualmente in carica e nominati a vita». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 20 dicembre 1891. 
+ 
+ UMBERTO. 
+ 
+ P. Villari. 
+ 
+ Visto, Il Guardasigilli: L. Ferraris.

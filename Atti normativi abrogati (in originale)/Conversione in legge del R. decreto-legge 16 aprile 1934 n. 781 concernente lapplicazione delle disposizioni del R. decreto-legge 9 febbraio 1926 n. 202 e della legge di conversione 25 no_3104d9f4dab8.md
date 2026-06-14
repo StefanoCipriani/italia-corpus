@@ -1,0 +1,35 @@
+---
+tipo: LEGGE
+numero: 946
+data: 1934-06-04
+titolo: "Conversione in legge del R. decreto-legge 16 aprile 1934, n. 781, concernente l'applicazione delle disposizioni del R. decreto-legge 9 febbraio 1926, n. 202, e della legge di conversione 25 novembre 1926, n. 2149, ai casi di annullamento d'ufficio di provvedimenti di stato relativi ad ufficiali e sottufficiali. (034U0946)"
+urn: urn:nir:stato:legge:1934-06-04;946
+codice_redazionale: 034U0946
+vigente: true
+---
+
+## Art. 1.
+
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Il Senato e la Camera dei deputati hanno approvato; 
+ 
+ Noi abbiamo sanzionato e promulghiamo quanto segue: 
+ 
+ Articolo unico. 
+ 
+ E' convertito in legge il [R. decreto-legge 16 aprile 1934, n. 781](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-16;781), concernente l'applicazione delle disposizioni del [R. decreto-legge 9 febbraio 1926, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-02-09;202), e della legge di conversione 25 novembre 1926, n. 2149, ai casi di annullamento d'ufficio di provvedimenti di stato relativi ad ufficiali e sottufficiali. 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Roma, addi' 4 giugno 1934 - Anno XII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Jung 
+ 
+ Visto, il Guardasigilli: De Francisci.

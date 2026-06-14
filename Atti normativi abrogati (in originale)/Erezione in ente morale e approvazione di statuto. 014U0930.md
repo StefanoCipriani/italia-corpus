@@ -1,19 +1,15 @@
-REGIO DECRETO 19 luglio 1914 n. 930
+---
+tipo: REGIO DECRETO
+numero: 930
+data: 1914-07-19
+titolo: "Erezione in ente morale e approvazione di statuto. (014U0930)"
+urn: urn:nir:stato:regio.decreto:1914-07-19;930
+codice_redazionale: 014U0930
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 luglio 1914 n. 930
-===================================
-
-Erezione in ente morale e approvazione di statuto. (014U0930)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/09/1914
-
-Art. 1
-------
-
-  
-N. 930   
-  
-Regio Decreto 19 luglio 1914, col quale sulla proposta del ministro dell'interno, la fondazione «Cipriani» per Borse di studio in Sant'Arcangelo di Romagna e' eretta in ente morale sotto l'Amministrazione della Congregazione di carita' e ne e' approvato lo statuto organico.   
-  
+N. 930 
+ 
+ Regio Decreto 19 luglio 1914, col quale sulla proposta del ministro dell'interno, la fondazione «Cipriani» per Borse di studio in Sant'Arcangelo di Romagna e' eretta in ente morale sotto l'Amministrazione della Congregazione di carita' e ne e' approvato lo statuto organico.

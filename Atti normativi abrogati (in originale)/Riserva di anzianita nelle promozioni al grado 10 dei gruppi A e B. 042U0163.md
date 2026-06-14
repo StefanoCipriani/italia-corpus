@@ -1,16 +1,14 @@
-REGIO DECRETO 10 febbraio 1942 n. 163
-
-
-REGIO DECRETO 10 febbraio 1942 n. 163
-=====================================
-
-Riserva di anzianita' nelle promozioni al grado 10° dei gruppi A e B. (042U0163)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/04/1942
+---
+tipo: REGIO DECRETO
+numero: 163
+data: 1942-02-10
+titolo: "Riserva di anzianita' nelle promozioni al grado 10° dei gruppi A e B. (042U0163)"
+urn: urn:nir:stato:regio.decreto:1942-02-10;163
+codice_redazionale: 042U0163
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,30 +30,24 @@ Udito il parere del Consiglio di Stato;
 
 sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo e del Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:.
 
-proposta del DUCE del Fascismo, Capo del Governo e del Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:.
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono soggette alla riserva di anzianita' prevista dall'art. 9, ultimo comma, del R. decreto 11 novembre 1923-II, n. 2395, le promozioni al grado 10° dei ruoli dei personali civili di gruppo A e B, conferite o da conferire in ordine diverso da quello di anzianita' di ruolo, in dipendenza dell'applicazione di riduzioni dei periodi minimi di anzianita' e della valutazione di servizi precedentemente prestati, da qualunque disposizione previste.   
-  
-Le promozioni al grado 9° del gruppo A effettuate posteriormente all'entrata in vigore dell'art. 3 del R. decreto 2 maggio 1940-XVIII, n. 367, s'intendono conferite con la riserva di anzianita' prevista dalla detta disposizione in tutti i casi in cui la promozione al grado 10° ebbe luogo o doveva aver luogo con riserva di anzianita' ai sensi del precedente comma.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 10 febbraio 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, Il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi', 16 marzo 1942-XX   
-  
-Atti del Governo, registro 443, foglio 50. - MANCINI   
+Sono soggette alla riserva di anzianita' prevista dall'art. 9, ultimo comma, del R. decreto 11 novembre 1923-II, n. 2395, le promozioni al grado 10° dei ruoli dei personali civili di gruppo A e B, conferite o da conferire in ordine diverso da quello di anzianita' di ruolo, in dipendenza dell'applicazione di riduzioni dei periodi minimi di anzianita' e della valutazione di servizi precedentemente prestati, da qualunque disposizione previste. 
+ 
+ Le promozioni al grado 9° del gruppo A effettuate posteriormente all'entrata in vigore dell'art. 3 del R. decreto 2 maggio 1940-XVIII, n. 367, s'intendono conferite con la riserva di anzianita' prevista dalla detta disposizione in tutti i casi in cui la promozione al grado 10° ebbe luogo o doveva aver luogo con riserva di anzianita' ai sensi del precedente comma. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 febbraio 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, Il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi', 16 marzo 1942-XX 
+ 
+ Atti del Governo, registro 443, foglio 50. - MANCINI

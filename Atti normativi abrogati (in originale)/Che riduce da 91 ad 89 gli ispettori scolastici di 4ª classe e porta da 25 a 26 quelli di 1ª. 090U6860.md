@@ -1,16 +1,14 @@
-REGIO DECRETO 01 maggio 1890 n. 6860
-
-
-REGIO DECRETO 01 maggio 1890 n. 6860
-====================================
-
-Che riduce da 91 ad 89 gli ispettori scolastici di 4ª classe e porta da 25 a 26 quelli di 1ª. (090U6860)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/06/1890
+---
+tipo: REGIO DECRETO
+numero: 6860
+data: 1890-05-01
+titolo: "Che riduce da 91 ad 89 gli ispettori scolastici di 4ª classe e porta da 25 a 26 quelli di 1ª. (090U6860)"
+urn: urn:nir:stato:regio.decreto:1890-05-01;6860
+codice_redazionale: 090U6860
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,27 +24,20 @@ Considerando altresi' come, per effetto del troppo piccolo numero di comuni onde
 
 Ritenuto poi che una prudente riduzione del numero degli ispettori scolastici dell'ultima classe, quando vi corrisponda un aumento proporzionale del numero degli ispettori della prima, produce nelle indennita' di visita un risparmio parziale e locale che pur dara' maggiore efficacia all'amministrazione scolastica degli altri circondari dello Stato, ed apre la via ad un utile movimento di quegli ufficiali nei ruoli delle tre classi superiori, e quindi ad un miglioramento effettivo della loro attuale condizione economica;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono ridotti da 91 ad 89 (ottantanove) gli ispettori scolastici di 4ª classe, e portati da 25 a 26 (ventisei) quelli di 1ª.   
-  
-Qualunque disposizione contraria al presente decreto e' abrogata.   
-  
-Ordiniamo che ii presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 1° maggio 1890.   
-  
-UMBERTO.   
-  
-P. Boselli.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+Sono ridotti da 91 ad 89 (ottantanove) gli ispettori scolastici di 4ª classe, e portati da 25 a 26 (ventisei) quelli di 1ª. 
+ 
+ Qualunque disposizione contraria al presente decreto e' abrogata. 
+ 
+ Ordiniamo che ii presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° maggio 1890. 
+ 
+ UMBERTO. 
+ 
+ P. Boselli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

@@ -1,21 +1,17 @@
-REGIO DECRETO 13 settembre 1900 n. CCLXIX
+---
+tipo: REGIO DECRETO
+numero: CCLXIX
+data: 1900-09-13
+titolo: "Che applica la tassa sul bestiame nel comune di Triora. (0000269R)"
+urn: urn:nir:stato:regio.decreto:1900-09-13;269
+codice_redazionale: 0000269R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 settembre 1900 n. CCLXIX
-=========================================
-
-Che applica la tassa sul bestiame nel comune di Triora. (0000269R)
-------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/10/1900
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di Triora di applicare nel triennio 1900-902 la tassa sul bestiame coi limiti massimi di lire 1 (una) per le capre casalinghe e di centesimi 40 (quaranta) per le capre in mandra. - Firmato VITTORIO EMANUELE - Controfirmato Chimirri - Visto E. Gianturco.   
-  
-Registrato alla Corte dei conti addi' 29 settembre 1900.   
-  
-Reg. 225. Atti del Governo a f. 89.   
-  
+Col quale e' data facolta' al comune di Triora di applicare nel triennio 1900-902 la tassa sul bestiame coi limiti massimi di lire 1 (una) per le capre casalinghe e di centesimi 40 (quaranta) per le capre in mandra. - Firmato VITTORIO EMANUELE - Controfirmato Chimirri - Visto E. Gianturco. 
+ 
+ Registrato alla Corte dei conti addi' 29 settembre 1900. 
+ 
+ Reg. 225. Atti del Governo a f. 89.

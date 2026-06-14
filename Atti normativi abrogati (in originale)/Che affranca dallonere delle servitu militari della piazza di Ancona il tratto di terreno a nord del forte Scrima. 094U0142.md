@@ -1,16 +1,14 @@
-REGIO DECRETO 11 marzo 1894 n. 142
-
-
-REGIO DECRETO 11 marzo 1894 n. 142
-==================================
-
-Che affranca dall'onere delle servitu' militari della piazza di Ancona il tratto di terreno a nord del forte Scrima. (094U0142)
--------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/05/1894
+---
+tipo: REGIO DECRETO
+numero: 142
+data: 1894-03-11
+titolo: "Che affranca dall'onere delle servitu' militari della piazza di Ancona il tratto di terreno a nord del forte Scrima. (094U0142)"
+urn: urn:nir:stato:regio.decreto:1894-03-11;142
+codice_redazionale: 094U0142
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e volonta' della Nazione
 
@@ -18,31 +16,24 @@ RE D'ITALIA
 
 Vista la legge 19 ottobre 1859 n. 3748, sulle servitu' militari;
 
-Vista la [legge 22 aprile 1886 n. 3820](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1886-04-22;3820) (serie 3a), che estende a tutto il Regno la legge succitata;
+Vista la [legge 22 aprile 1886 n. 3820](Che%20estende%20a%20tutto%20il%20Regno%20la%20legge%2019%20ottobre%201859%20sulle%20servitu%20militari.%20086U3820.md) (serie 3a), che estende a tutto il Regno la legge succitata;
 
-Visto il [R. decreto 25 novembre 1886 n. 4258](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1886-11-25;4258) (serie 3a, che approva il regolamento per l'esecuzione delle suindicate leggi;
+Visto il [R. decreto 25 novembre 1886 n. 4258](Che%20approva%20lannesso%20Regolamento%20per%20lesecuzione%20delle%20leggi%2019%20ottobre%201859%20e%2022%20aprile%201886%20sulle%20servitu%20militari.%20086U4258.md) (serie 3a, che approva il regolamento per l'esecuzione delle suindicate leggi;
 
 Visto il R. decreto 16 agosto 1891, che modifica il regolamento sopracitato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari della Guerra; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari della Guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Viene affrancato dall'onere delle servitu' militari della piazza di Ancona il tratto di terreno a nord del forte Scrima lungo la strada litoranea, tinteggiato in rosso nel piano annesso al presente, firmato, d'ordine Nostro, dal Ministro della Guerra.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 marzo 1894.   
-  
-UMBERTO.   
-  
-MOCENNI.   
-  
-Visto, Il Guardasigilli: V. CALENDA DI TAVANI.   
-  
+Viene affrancato dall'onere delle servitu' militari della piazza di Ancona il tratto di terreno a nord del forte Scrima lungo la strada litoranea, tinteggiato in rosso nel piano annesso al presente, firmato, d'ordine Nostro, dal Ministro della Guerra. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 marzo 1894. 
+ 
+ UMBERTO. 
+ 
+ MOCENNI. 
+ 
+ Visto, Il Guardasigilli: V. CALENDA DI TAVANI.

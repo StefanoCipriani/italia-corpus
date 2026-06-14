@@ -1,16 +1,14 @@
-REGIO DECRETO 09 marzo 1936 n. 451
-
-
-REGIO DECRETO 09 marzo 1936 n. 451
-==================================
-
-Concessione della riduzione del 30% sul prezzo dei biglietti d'ingresso ai monumenti, ai musei, alle gallerie e agli scavi di antichita' dello Stato ai turisti stranieri o connazionali residenti all'estero, portatori dei «buoni di albergo». (036U0451)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/04/1936
+---
+tipo: REGIO DECRETO
+numero: 451
+data: 1936-03-09
+titolo: "Concessione della riduzione del 30% sul prezzo dei biglietti d'ingresso ai monumenti, ai musei, alle gallerie e agli scavi di antichita' dello Stato ai turisti stranieri o connazionali residenti all'estero, portatori dei «buoni di albergo». (036U0451)"
+urn: urn:nir:stato:regio.decreto:1936-03-09;451
+codice_redazionale: 036U0451
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,28 +28,22 @@ Sentito il Consiglio di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto col Ministro per le finanze e con quello per la stampa e la propaganda; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto col Ministro per le finanze e con quello per la stampa e la propaganda; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ai turisti stranieri o connazionali residenti all'estero, portatori dei «buoni di albergo», viene concessa la riduzione del 30% sui prezzi per l'ingresso nei monumenti, nei musei, nelle gallerie e negli scavi di antichita' dello Stato.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 marzo 1936 - Anno XIV   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - De Vecchi Di Val Cismon - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 26 marzo 1936 - Anno XIV   
-  
-Atti del Governo, registro 370, foglio 151. - Mancini.   
+Ai turisti stranieri o connazionali residenti all'estero, portatori dei «buoni di albergo», viene concessa la riduzione del 30% sui prezzi per l'ingresso nei monumenti, nei musei, nelle gallerie e negli scavi di antichita' dello Stato. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 marzo 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - De Vecchi Di Val Cismon - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 26 marzo 1936 - Anno XIV 
+ 
+ Atti del Governo, registro 370, foglio 151. - Mancini.

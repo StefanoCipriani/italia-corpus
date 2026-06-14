@@ -1,45 +1,36 @@
-REGIO DECRETO 02 maggio 1932 n. 823
-
-
-REGIO DECRETO 02 maggio 1932 n. 823
-===================================
-
-Nomina di un Regio commissario per l'amministrazione della Fondazione «Amerigo Rotellini». (032U0823)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/08/1932
+---
+tipo: REGIO DECRETO
+numero: 823
+data: 1932-05-02
+titolo: "Nomina di un Regio commissario per l'amministrazione della Fondazione «Amerigo Rotellini». (032U0823)"
+urn: urn:nir:stato:regio.decreto:1932-05-02;823
+codice_redazionale: 032U0823
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 9 settembre 1931, n. 1333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-09;1333), che erige in ente morale la Fondazione «Amerigo Rotellini»;
+Visto il [R. decreto 9 settembre 1931, n. 1333](Erezione%20in%20ente%20morale%20della%20Fondazione%20Amerigo%20Rotellini%20ed%20approvazione%20del%20relativo%20statuto.%20031U1333.md), che erige in ente morale la Fondazione «Amerigo Rotellini»;
 
 Ritenuta l'opportunita' di procedere alla nomina di un commissario per presiedere all'iniziale funzionamento della Fondazione medesima;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari esteri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari esteri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comm. Oscar Spera, consigliere d'appello, e' nominato commissario del Regio Governo per l'amministrazione della Fondazione «Amerigo Rotellini», eretta in ente morale con [R. decreto 9 settembre 1931, n. 1333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-09;1333).   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.   
-Dato a Roma, addi' 2 maggio 1932 - Anno X   
-  
-VITTORIO EMANUELE   
-  
-  
-Grandi.   
-  
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 16 luglio 1932 - Anno X   
-Atti del Governo, registro 322, foglio 33. - Mancini.   
-  
+Il comm. Oscar Spera, consigliere d'appello, e' nominato commissario del Regio Governo per l'amministrazione della Fondazione «Amerigo Rotellini», eretta in ente morale con [R. decreto 9 settembre 1931, n. 1333](Erezione%20in%20ente%20morale%20della%20Fondazione%20Amerigo%20Rotellini%20ed%20approvazione%20del%20relativo%20statuto.%20031U1333.md). 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
+ Dato a Roma, addi' 2 maggio 1932 - Anno X 
+ 
+ VITTORIO EMANUELE 
+ 
+ 
+ Grandi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 16 luglio 1932 - Anno X 
+ Atti del Governo, registro 322, foglio 33. - Mancini.

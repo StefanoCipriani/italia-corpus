@@ -1,16 +1,14 @@
-REGIO DECRETO 15 marzo 1871 n. 123
-
-
-REGIO DECRETO 15 marzo 1871 n. 123
-==================================
-
-Col quale il Comune di Alberona costituira' una Sezione elettorale del Collegio di Lucera. (071U0123)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/04/1871
+---
+tipo: REGIO DECRETO
+numero: 123
+data: 1871-03-15
+titolo: "Col quale il Comune di Alberona costituira' una Sezione elettorale del Collegio di Lucera. (071U0123)"
+urn: urn:nir:stato:regio.decreto:1871-03-15;123
+codice_redazionale: 071U0123
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Alberona costituira' d'ora in poi una Sezione elettorale separata del Collegio di Lucera, n. 120, con sede nel capoluogo dello stesso Comune.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato, a Firenze addi' 15 marzo 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 21 marzo 1871   
-  
-Reg. 53 Atti del Governo a c. 42. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+Il Comune di Alberona costituira' d'ora in poi una Sezione elettorale separata del Collegio di Lucera, n. 120, con sede nel capoluogo dello stesso Comune. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato, a Firenze addi' 15 marzo 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 21 marzo 1871 
+ 
+ Reg. 53 Atti del Governo a c. 42. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

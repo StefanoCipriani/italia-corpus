@@ -1,16 +1,14 @@
-REGIO DECRETO 31 agosto 1887 n. 4913
-
-
-REGIO DECRETO 31 agosto 1887 n. 4913
-====================================
-
-Modificante la tabella che determina il numero e la residenza dei notari del Regno. (087U4913)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/09/1887
+---
+tipo: REGIO DECRETO
+numero: 4913
+data: 1887-08-31
+titolo: "Modificante la tabella che determina il numero e la residenza dei notari del Regno. (087U4913)"
+urn: urn:nir:stato:regio.decreto:1887-08-31;4913
+codice_redazionale: 087U4913
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,31 +22,16 @@ Vedute le domande rispettivamente fatte dai comuni interessati nonche' le relati
 
 Ritenuto che sarebbe giustificata la necessita' delle richieste modificazioni all'accennata tabella;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 31 agosto 1887.   
-  
-UMBERTO.   
-  
-G. Zanardelli.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
-
-Modificazioni
-
-  
-Modificazioni ed aggiunte alla Tabella del numero e della residenza dei notari del Regno approvate col Regio decreto 31 agosto 1887.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=087U491300100010110001&dgu=1887-09-15&art.dataPubblicazioneGazzetta=1887-09-15&art.codiceRedazionale=087U4913)
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 31 agosto 1887. 
+ 
+ UMBERTO. 
+ 
+ G. Zanardelli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

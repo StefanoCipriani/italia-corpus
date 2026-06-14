@@ -1,16 +1,14 @@
-REGIO DECRETO 06 gennaio 1876 n. 2907
-
-
-REGIO DECRETO 06 gennaio 1876 n. 2907
-=====================================
-
-Con cui e' autorizzata una concessione d'acqua a favore del comune di Bologna. (076U2907)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/02/1876
+---
+tipo: REGIO DECRETO
+numero: 2907
+data: 1876-01-06
+titolo: "Con cui e' autorizzata una concessione d'acqua a favore del comune di Bologna. (076U2907)"
+urn: urn:nir:stato:regio.decreto:1876-01-06;2907
+codice_redazionale: 076U2907
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,25 +20,18 @@ Ritenuto che dagli atti dell'inchiesta amministrativa istruita al riguardo risul
 
 Visto il parere del Consiglio di Stato,
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro delle Finanze, Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro delle Finanze, Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' concessa facolta', senza pregiudizio dei legittimi diritti dei terzi, al comune di Bologna di estrarre, mediante una galleria filtrante sotto l'alveo del torrente Setta, acqua nella quantita' non eccedente moduli 1 50 (litri 150 al minuto secondo), per fornire, mediante la riattivazione dell'antico acquedotto Bolognese, di acqua potabile il comune di Bologna, con diritto di valersene per altri bisogni interni, escluso in modo formale qualsiasi uso di forza motrice e di irrigazione senza una nuova concessione.   
-  
-Tale concessione e' fatta per anni novanta, a cominciare dal giorno primo gennaio milleottocentosettantacinque, verso l'annua prestazione a favore delle Finanze dello Stato di lire centocinquanta pei primi trent'anni, di lire trecento per il secondo trentennio, e di lire quattrocentocinquanta per gli ultimi trent'anni, e sotto la esatta osservanza delle singole condizioni dal richiedente comune assunte col pubblico atto di obbligazione, stipulato addi' 22 settembre 1875 avanti la Prefettura di Bologna.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 gennaio 1876.   
-  
-VITTORIO EMANUELE.   
-  
-M. Minghetti.   
-  
+E' concessa facolta', senza pregiudizio dei legittimi diritti dei terzi, al comune di Bologna di estrarre, mediante una galleria filtrante sotto l'alveo del torrente Setta, acqua nella quantita' non eccedente moduli 1 50 (litri 150 al minuto secondo), per fornire, mediante la riattivazione dell'antico acquedotto Bolognese, di acqua potabile il comune di Bologna, con diritto di valersene per altri bisogni interni, escluso in modo formale qualsiasi uso di forza motrice e di irrigazione senza una nuova concessione. 
+ 
+ Tale concessione e' fatta per anni novanta, a cominciare dal giorno primo gennaio milleottocentosettantacinque, verso l'annua prestazione a favore delle Finanze dello Stato di lire centocinquanta pei primi trent'anni, di lire trecento per il secondo trentennio, e di lire quattrocentocinquanta per gli ultimi trent'anni, e sotto la esatta osservanza delle singole condizioni dal richiedente comune assunte col pubblico atto di obbligazione, stipulato addi' 22 settembre 1875 avanti la Prefettura di Bologna. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 gennaio 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. Minghetti.

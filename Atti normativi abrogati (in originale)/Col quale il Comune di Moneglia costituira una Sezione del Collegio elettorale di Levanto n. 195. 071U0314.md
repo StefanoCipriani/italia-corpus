@@ -1,16 +1,14 @@
-REGIO DECRETO 06 luglio 1871 n. 314
-
-
-REGIO DECRETO 06 luglio 1871 n. 314
-===================================
-
-Col quale il Comune di Moneglia costituira' una Sezione del Collegio elettorale di Levanto, n. 195. (071U0314)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/07/1871
+---
+tipo: REGIO DECRETO
+numero: 314
+data: 1871-07-06
+titolo: "Col quale il Comune di Moneglia costituira' una Sezione del Collegio elettorale di Levanto, n. 195. (071U0314)"
+urn: urn:nir:stato:regio.decreto:1871-07-06;314
+codice_redazionale: 071U0314
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune istesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Moneglia costituira' d'ora in poi una Sezione elettorale del Collegio di Levanto, n. 195, con sede nel capoluogo del Comune stesso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 6 luglio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 luglio 1871   
-  
-Reg. 56 Atti del Governo a c. 127. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+Il Comune di Moneglia costituira' d'ora in poi una Sezione elettorale del Collegio di Levanto, n. 195, con sede nel capoluogo del Comune stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 6 luglio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 luglio 1871 
+ 
+ Reg. 56 Atti del Governo a c. 127. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

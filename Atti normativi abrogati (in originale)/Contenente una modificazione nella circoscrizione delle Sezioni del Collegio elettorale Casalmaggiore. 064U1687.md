@@ -1,16 +1,14 @@
-REGIO DECRETO 25 febbraio 1864 n. 1687
-
-
-REGIO DECRETO 25 febbraio 1864 n. 1687
-======================================
-
-Contenente una modificazione nella circoscrizione delle Sezioni del Collegio elettorale Casalmaggiore. (064U1687)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/03/1864
+---
+tipo: REGIO DECRETO
+numero: 1687
+data: 1864-02-25
+titolo: "Contenente una modificazione nella circoscrizione delle Sezioni del Collegio elettorale Casalmaggiore. (064U1687)"
+urn: urn:nir:stato:regio.decreto:1864-02-25;1687
+codice_redazionale: 064U1687
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,27 +22,20 @@ Considerando che la distanza media, 18 chilometri, fra i detti Comuni e l'attual
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Castel Ponzone, Scandolara Ravara, Torricella del Pizzo, S. Martino del Lago, Caruberto, S. Lorenzo Aroldo, Solarolo Rainerio e Gussola, che sin qui fecero parte della seconda sezione del Collegio elettorale di Casalmaggiore, n.° 146, costituiranno una sezione separata del Collegio medesimo che si radunera' in Castel Ponzone.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 25 febbraio 1864.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 5 marzo 1864   
-Reg.° 28 Atti del Governo a c. 111. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-U. Peruzzi.   
-  
+I Comuni di Castel Ponzone, Scandolara Ravara, Torricella del Pizzo, S. Martino del Lago, Caruberto, S. Lorenzo Aroldo, Solarolo Rainerio e Gussola, che sin qui fecero parte della seconda sezione del Collegio elettorale di Casalmaggiore, n.° 146, costituiranno una sezione separata del Collegio medesimo che si radunera' in Castel Ponzone. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 25 febbraio 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 5 marzo 1864 
+ Reg.° 28 Atti del Governo a c. 111. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ U. Peruzzi.

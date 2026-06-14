@@ -1,22 +1,20 @@
-REGIO DECRETO 05 febbraio 1880 n. 5270
-
-
-REGIO DECRETO 05 febbraio 1880 n. 5270
-======================================
-
-Che estende la giurisdizione della pretura urbana di Genova al territorio di altri comuni. (080U5270)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/03/1880
+---
+tipo: REGIO DECRETO
+numero: 5270
+data: 1880-02-05
+titolo: "Che estende la giurisdizione della pretura urbana di Genova al territorio di altri comuni. (080U5270)"
+urn: urn:nir:stato:regio.decreto:1880-02-05;5270
+codice_redazionale: 080U5270
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la legge 13 novembre 1859, n. 3781, e l'annessa tabella G, con cui venne instituita nella citta' di Genova una Giudicatura di polizia, la quale, in seguito all'altra [legge 6 dicembre 1865, n. 2626](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-12-06;2626), assunse la denominazione di Pretura Urbana;
+Vista la legge 13 novembre 1859, n. 3781, e l'annessa tabella G, con cui venne instituita nella citta' di Genova una Giudicatura di polizia, la quale, in seguito all'altra [legge 6 dicembre 1865, n. 2626](SullOrdinamento%20giudiziario.%20065U2626.md), assunse la denominazione di Pretura Urbana;
 
 Visto il Nostro decreto 26 ottobre 1873, n. 1638, col quale i comuni di San Martino d'Albaro, Foce, Marassi, San Francesco d'Albaro, San Fruttuoso e Staglieno furono soppressi ed aggregati a quello di Genova;
 
@@ -28,26 +26,19 @@ Visto l'articolo 34 della legge sull'ordinamento giudiziario 6 dicembre 1865, n.
 
 Udito il parere del Consiglio di Stato,
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Guardasigilli Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A datare dal giorno 16 febbraio 1880, la giurisdizione della Pretura Urbana della citta' di Genova sara', per gli effetti di legge, estesa al territorio dei comuni di San Martino d'Albaro, Foce, Marassi, San Francesco d'Albaro, San Fruttuoso e Staglieno, stati soppressi pel suddetto Nostro decreto 26 novembre 1873, ed aggregati a quello di Genova.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 febbraio 1880.   
-  
-UMBERTO.   
-  
-T. Villa.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+A datare dal giorno 16 febbraio 1880, la giurisdizione della Pretura Urbana della citta' di Genova sara', per gli effetti di legge, estesa al territorio dei comuni di San Martino d'Albaro, Foce, Marassi, San Francesco d'Albaro, San Fruttuoso e Staglieno, stati soppressi pel suddetto Nostro decreto 26 novembre 1873, ed aggregati a quello di Genova. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 febbraio 1880. 
+ 
+ UMBERTO. 
+ 
+ T. Villa. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

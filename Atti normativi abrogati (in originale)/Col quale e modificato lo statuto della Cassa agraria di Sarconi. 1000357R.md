@@ -1,19 +1,15 @@
-REGIO DECRETO 01 agosto 1910 n. CCCLVII
+---
+tipo: REGIO DECRETO
+numero: CCCLVII
+data: 1910-08-01
+titolo: "Col quale e' modificato lo statuto della Cassa agraria di Sarconi. (1000357R)"
+urn: urn:nir:stato:regio.decreto:1910-08-01;357
+codice_redazionale: 1000357R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 agosto 1910 n. CCCLVII
-=======================================
-
-Col quale e' modificato lo statuto della Cassa agraria di Sarconi. (1000357R)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/10/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CCCLVII (Dato a Sant'Anna di Valdieri, il 1° agosto 1910), col quale si modificano gli articoli 4, 33 e 36 dello statuto organico della Cassa agraria di Sarconi.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CCCLVII (Dato a Sant'Anna di Valdieri, il 1° agosto 1910), col quale si modificano gli articoli 4, 33 e 36 dello statuto organico della Cassa agraria di Sarconi.

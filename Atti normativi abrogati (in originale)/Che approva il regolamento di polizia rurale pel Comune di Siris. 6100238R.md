@@ -1,20 +1,17 @@
-REGIO DECRETO 22 dicembre 1861 n. CCXXXVIII
+---
+tipo: REGIO DECRETO
+numero: CCXXXVIII
+data: 1861-12-22
+titolo: "Che approva il regolamento di polizia rurale pel Comune di Siris. (6100238R)"
+urn: urn:nir:stato:regio.decreto:1861-12-22;238
+codice_redazionale: 6100238R
+vigente: true
+---
 
-
-REGIO DECRETO 22 dicembre 1861 n. CCXXXVIII
-===========================================
-
-Che approva il regolamento di polizia rurale pel Comune di Siris. (6100238R)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/12/1861
-
-Art. 1
-------
+## Art. 1.
 
 Che approva il regolamento di polizia rurale della Comunita' di Siris adottato nella sua adunanza del 3 novembre
 
-1860. 
-  
-  
+1860.
+
 Torino 22 dicembre 1861

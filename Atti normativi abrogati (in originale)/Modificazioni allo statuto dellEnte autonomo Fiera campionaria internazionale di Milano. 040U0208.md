@@ -1,21 +1,21 @@
-REGIO DECRETO 11 marzo 1940 n. 208
+---
+tipo: REGIO DECRETO
+numero: 208
+data: 1940-03-11
+titolo: "Modificazioni allo statuto dell'Ente autonomo «Fiera campionaria internazionale di Milano». (040U0208)"
+urn: urn:nir:stato:regio.decreto:1940-03-11;208
+codice_redazionale: 040U0208
+vigente: true
+---
 
-
-REGIO DECRETO 11 marzo 1940 n. 208
-==================================
-
-Modificazioni allo statuto dell'Ente autonomo «Fiera campionaria internazionale di Milano». (040U0208)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/04/1940
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-208. R. decreto 11 marzo 1940, col quale, sulla proposta del Ministro per le corporazioni, viene modificato lo statuto dell'Ente autonomo «Fiera campionaria internazionale di Milano».   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 10 aprile 1940-XVIII
+208.
+
+R. decreto 11 marzo 1940, col quale, sulla proposta del Ministro per le corporazioni, viene modificato lo statuto dell'Ente autonomo «Fiera campionaria internazionale di Milano». 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 10 aprile 1940-XVIII

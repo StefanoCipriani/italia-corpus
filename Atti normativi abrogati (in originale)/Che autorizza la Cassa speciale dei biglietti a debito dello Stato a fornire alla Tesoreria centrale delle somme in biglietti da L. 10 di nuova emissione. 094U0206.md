@@ -1,16 +1,14 @@
-REGIO DECRETO 27 maggio 1894 n. 206
-
-
-REGIO DECRETO 27 maggio 1894 n. 206
-===================================
-
-Che autorizza la Cassa speciale dei biglietti a debito dello Stato a fornire alla Tesoreria centrale delle somme in biglietti da L. 10 di nuova emissione. (094U0206)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/06/1894
+---
+tipo: REGIO DECRETO
+numero: 206
+data: 1894-05-27
+titolo: "Che autorizza la Cassa speciale dei biglietti a debito dello Stato a fornire alla Tesoreria centrale delle somme in biglietti da L. 10 di nuova emissione. (094U0206)"
+urn: urn:nir:stato:regio.decreto:1894-05-27;206
+codice_redazionale: 094U0206
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -34,33 +32,22 @@ Considerato, in fine, la convenienza di non difficultare il graduale successivo 
 
 Sentita la Commissione permanente di vigilanza sulla circolazione cartacea;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze, interim del Tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le Finanze, interim del Tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La Cassa speciale dei biglietti a debito dello Stato e' autorizzata a fornire alla Tesoreria centrale la somma di L. 695.720 in biglietti di Stato da L. 10 di nuova emissione.
 
-  
-  
-La Cassa speciale dei biglietti a debito dello Stato e' autorizzata a fornire alla Tesoreria centrale la somma di L. 695.720 in biglietti di Stato da L. 10 di nuova emissione.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-La Cassa speciale dei biglietti a debito dello Stato, sotto l'osservanza delle disposizioni contenute negli art. 58 e seguenti del regolamento approvato col Nostro decreto 16 giugno 1881, n. 253, e' autorizzata a fornire alla Tesoreria centrale una somma in biglietti di Stato da L. 10 di nuova emissione, non eccedente l'ammontare di lire 9.304.280, da servire esclusivamente per la sostituzione dei biglietti da L. 25, gia' appartenenti agli Istituti di emissione, che saranno ritirati dalla circolazione perche' logori o danneggiati.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farle osservare.   
-  
-Dato a Roma, addi' 27 maggio 1894.   
-  
-UMBERTO.   
-  
-SIDNEY SONNINO.   
-  
-Visto, Il Guardasigilli: V. CALENDA DI TAVANI.   
-  
+La Cassa speciale dei biglietti a debito dello Stato, sotto l'osservanza delle disposizioni contenute negli art. 58 e seguenti del regolamento approvato col Nostro decreto 16 giugno 1881, n. 253, e' autorizzata a fornire alla Tesoreria centrale una somma in biglietti di Stato da L. 10 di nuova emissione, non eccedente l'ammontare di lire 9.304.280, da servire esclusivamente per la sostituzione dei biglietti da L. 25, gia' appartenenti agli Istituti di emissione, che saranno ritirati dalla circolazione perche' logori o danneggiati. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farle osservare. 
+ 
+ Dato a Roma, addi' 27 maggio 1894. 
+ 
+ UMBERTO. 
+ 
+ SIDNEY SONNINO. 
+ 
+ Visto, Il Guardasigilli: V. CALENDA DI TAVANI.

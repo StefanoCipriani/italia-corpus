@@ -1,16 +1,14 @@
-REGIO DECRETO 07 marzo 1875 n. 2396
-
-
-REGIO DECRETO 07 marzo 1875 n. 2396
-===================================
-
-Con cui e' concessa facolta' alla ditta G. Kenfrei e Compagni di conservare ed ampliare lo stabilimento metallurgico di Pertusola. (075U2396)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/04/1875
+---
+tipo: REGIO DECRETO
+numero: 2396
+data: 1875-03-07
+titolo: "Con cui e' concessa facolta' alla ditta G. Kenfrei e Compagni di conservare ed ampliare lo stabilimento metallurgico di Pertusola. (075U2396)"
+urn: urn:nir:stato:regio.decreto:1875-03-07;2396
+codice_redazionale: 075U2396
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,25 +24,18 @@ Ritenuto che dagli atti della inchiesta amministrativa istruita al riguardo risu
 
 Udito il parere del Consiglio di Stato,
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro delle Finanze, Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro delle Finanze, Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' concessa facolta', senza pregiudizio dei legittimi diritti dei terzi, alla ditta G. Henfrey e C.i di conservare ed ampliare lo stabilimento metallurgico, che possiede sulla spiaggia marina della Spezia nella localita' detta Pertusola.   
-  
-Tale concessione e' fatta per anni ottantatre' a cominciare dal 15 luglio milleottocentosettantaquattro, verso l'annua prestazione a favore delle Finanze dello Stato di lire duecento pei primi ventitre' anni, di lire quattrocento pei successivi trent'anni, e di lire seicento per l'ultimo trentennio, e sotto l'esatta osservanza delle singole condizioni portate dal succitato pubblico atto di obbligazione in dalla 15 luglio 1858 e da quello in data 12 dicembre 1874, stipulato avanti la prefettura di Genova.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 marzo 1875.   
-  
-VITTORIO EMANUELE.   
-  
-M. Minghetti.   
-  
+E' concessa facolta', senza pregiudizio dei legittimi diritti dei terzi, alla ditta G. Henfrey e C.i di conservare ed ampliare lo stabilimento metallurgico, che possiede sulla spiaggia marina della Spezia nella localita' detta Pertusola. 
+ 
+ Tale concessione e' fatta per anni ottantatre' a cominciare dal 15 luglio milleottocentosettantaquattro, verso l'annua prestazione a favore delle Finanze dello Stato di lire duecento pei primi ventitre' anni, di lire quattrocento pei successivi trent'anni, e di lire seicento per l'ultimo trentennio, e sotto l'esatta osservanza delle singole condizioni portate dal succitato pubblico atto di obbligazione in dalla 15 luglio 1858 e da quello in data 12 dicembre 1874, stipulato avanti la prefettura di Genova. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 marzo 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. Minghetti.

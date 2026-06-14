@@ -1,22 +1,20 @@
-REGIO DECRETO 29 gennaio 1922 n. 90
-
-
-REGIO DECRETO 29 gennaio 1922 n. 90
-===================================
-
-Concernente le reggenze degli uffici del registro e delle agenzie delle imposte. (022U0090)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/03/1922
+---
+tipo: REGIO DECRETO
+numero: 90
+data: 1922-01-29
+titolo: "Concernente le reggenze degli uffici del registro e delle agenzie delle imposte. (022U0090)"
+urn: urn:nir:stato:regio.decreto:1922-01-29;90
+codice_redazionale: 022U0090
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 13 agosto 1921, n. 1080](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-08-13;1080);
+Vista la [legge 13 agosto 1921, n. 1080](Che%20reca%20provvedimenti%20per%20la%20riforma%20dellAmministrazione%20dello%20Stato%20la%20semplificazione%20dei%20servizi%20e%20la%20riduzione%20del%20personale.%20021U1080.md);
 
 Udito il Comitato dei ministri di cui al comma 1° dell'art. 2 della legge stessa;
 
@@ -24,30 +22,20 @@ Sentito il Consiglio dei ministri;
 
 Su proposta del Nostro ministro segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-Art. 1
-------
+## Art. 1.
 
-  
-  
-  
-Il ministro delle finanze puo' affidare ad un agente delle imposte la reggenza del locale ufficio del registro e ad un ricevitore del registro la reggenza della locale agenzia delle imposte.   
-  
+Il ministro delle finanze puo' affidare ad un agente delle imposte la reggenza del locale ufficio del registro e ad un ricevitore del registro la reggenza della locale agenzia delle imposte.
 
-Art. 2
-------
+## Art. 2.
 
-  
-  
-  
-Il ministro delle finanze puo' affidare ai funzionari amministrativi delle Intendenze di finanza la reggenza di uffici dipendenti dalla Direzione generale del registro e da quella delle imposte.   
-  
-Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 gennaio 1922.   
-  
-VITTORIO EMANUELE.   
-  
-BONOMI - SOLERI.   
-  
-Visto, il guardasigilli: RODINO'.   
-  
+Il ministro delle finanze puo' affidare ai funzionari amministrativi delle Intendenze di finanza la reggenza di uffici dipendenti dalla Direzione generale del registro e da quella delle imposte. 
+ 
+ Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 gennaio 1922. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ BONOMI - SOLERI. 
+ 
+ Visto, il guardasigilli: RODINO'.

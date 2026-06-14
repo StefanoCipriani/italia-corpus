@@ -1,16 +1,14 @@
-REGIO DECRETO 18 novembre 1896 n. 505
-
-
-REGIO DECRETO 18 novembre 1896 n. 505
-=====================================
-
-Che istituisce nei Comune di Labro (Perugia) un secondo Ufficio distinto di conciliazione con sede nella frazione di Calli. (096U0505)
---------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/12/1896
+---
+tipo: REGIO DECRETO
+numero: 505
+data: 1896-11-18
+titolo: "Che istituisce nei Comune di Labro (Perugia) un secondo Ufficio distinto di conciliazione con sede nella frazione di Calli. (096U0505)"
+urn: urn:nir:stato:regio.decreto:1896-11-18;505
+codice_redazionale: 096U0505
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Viste le deliberazioni del Consiglio comunale di Labro, in data 20 ottobre 1895,
 
 Vista la proposta del Primo Presidente della Corte d'Appello di Ancona;
 
-Visti gli articoli 1° della [legge 12 giugno 1892 n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-12;261), e 1° del relativo regolamento, approvato con R. decreto 26 dicembre stesso anno n. 728;
+Visti gli articoli 1° della [legge 12 giugno 1892 n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-12;261), e 1° del relativo regolamento, approvato con R. decreto 26 dicembre stesso anno n. 728;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal 1° dicembre 1896 nel Comune di Labro e' istituito un secondo Ufficio distinto di conciliazione con sede nella frazione di Calli e con giurisdizione esclusiva sulla stessa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 18 novembre 1896.   
-  
-UMBERTO.   
-  
-G. Costa.   
-  
-Visto, Il Guardasigilli: G. Costa.   
-  
+Dal 1° dicembre 1896 nel Comune di Labro e' istituito un secondo Ufficio distinto di conciliazione con sede nella frazione di Calli e con giurisdizione esclusiva sulla stessa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 18 novembre 1896. 
+ 
+ UMBERTO. 
+ 
+ G. Costa. 
+ 
+ Visto, Il Guardasigilli: G. Costa.

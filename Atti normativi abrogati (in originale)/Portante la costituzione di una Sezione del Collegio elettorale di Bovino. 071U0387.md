@@ -1,16 +1,14 @@
-REGIO DECRETO 05 agosto 1871 n. 387
-
-
-REGIO DECRETO 05 agosto 1871 n. 387
-===================================
-
-Portante la costituzione di una Sezione del Collegio elettorale di Bovino. (071U0387)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/08/1871
+---
+tipo: REGIO DECRETO
+numero: 387
+data: 1871-08-05
+titolo: "Portante la costituzione di una Sezione del Collegio elettorale di Bovino. (071U0387)"
+urn: urn:nir:stato:regio.decreto:1871-08-05;387
+codice_redazionale: 071U0387
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Noverandosi nei Comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Savignano di Puglia, Greci e Monteleone di Puglia, costituiranno d'ora in poi una sezione del collegio di Bovino num. 122, con sede nel capoluogo del Comune di Savignano di Puglia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 5 agosto 1871.   
-  
-VITTORIO EMANUELE.   
-  
-G. Lanza.   
-  
+I Comuni di Savignano di Puglia, Greci e Monteleone di Puglia, costituiranno d'ora in poi una sezione del collegio di Bovino num. 122, con sede nel capoluogo del Comune di Savignano di Puglia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 5 agosto 1871. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Lanza.

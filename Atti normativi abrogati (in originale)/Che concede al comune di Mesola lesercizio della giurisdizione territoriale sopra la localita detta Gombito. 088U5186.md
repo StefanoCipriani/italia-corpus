@@ -1,26 +1,21 @@
-REGIO DECRETO 22 gennaio 1888 n. 5186
+---
+tipo: REGIO DECRETO
+numero: 5186
+data: 1888-01-22
+titolo: "Che concede al comune di Mesola l'esercizio della giurisdizione territoriale sopra la localita' detta Gombito. (088U5186)"
+urn: urn:nir:stato:regio.decreto:1888-01-22;5186
+codice_redazionale: 088U5186
+vigente: true
+---
 
+## Articolo unico.
 
-REGIO DECRETO 22 gennaio 1888 n. 5186
-=====================================
-
-Che concede al comune di Mesola l'esercizio della giurisdizione territoriale sopra la localita' detta Gombito. (088U5186)
--------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/02/1888
-
-Articolo unico
---------------
-
-  
-  
-Ordiniamo che il presente Nostro decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 gennaio 1887.   
-  
-UMBERTO.   
-  
-Crispi.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+Ordiniamo che il presente Nostro decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 gennaio 1887. 
+ 
+ UMBERTO. 
+ 
+ Crispi. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

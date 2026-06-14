@@ -1,17 +1,17 @@
-REGIO DECRETO 15 ottobre 1920 n. 1614
+---
+tipo: REGIO DECRETO
+numero: 1614
+data: 1920-10-15
+titolo: "Autorizzazione a Comuni per applicazione di tassa di soggiorno. (020U1614)"
+urn: urn:nir:stato:regio.decreto:1920-10-15;1614
+codice_redazionale: 020U1614
+vigente: true
+---
 
-
-REGIO DECRETO 15 ottobre 1920 n. 1614
-=====================================
-
-Autorizzazione a Comuni per applicazione di tassa di soggiorno. (020U1614)
---------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/12/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1614. Regio decreto 15 ottobre 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, si autorizza il comune di Porto San Giorgio ad applicare la tassa di soggiorno e se ne omologa il regolamento.
+1614.
+
+Regio decreto 15 ottobre 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, si autorizza il comune di Porto San Giorgio ad applicare la tassa di soggiorno e se ne omologa il regolamento.

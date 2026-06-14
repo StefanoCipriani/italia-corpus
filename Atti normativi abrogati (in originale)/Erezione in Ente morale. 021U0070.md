@@ -1,17 +1,17 @@
-REGIO DECRETO 13 gennaio 1921 n. 70
+---
+tipo: REGIO DECRETO
+numero: 70
+data: 1921-01-13
+titolo: "Erezione in Ente morale. (021U0070)"
+urn: urn:nir:stato:regio.decreto:1921-01-13;70
+codice_redazionale: 021U0070
+vigente: true
+---
 
-
-REGIO DECRETO 13 gennaio 1921 n. 70
-===================================
-
-Erezione in Ente morale. (021U0070)
------------------------------------
-
-Entrata in vigore del provvedimento: 10/03/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-70. Regio decreto 13 gennaio 1921, col quale, sulla proposta del ministro per l'industria e il commercio, l'istituto autonomo per le case popolari in Toscana, con sede in Firenze, viene eretto in Ente morale, e ne e' approvato lo statuto organico relativo.
+70.
+
+Regio decreto 13 gennaio 1921, col quale, sulla proposta del ministro per l'industria e il commercio, l'istituto autonomo per le case popolari in Toscana, con sede in Firenze, viene eretto in Ente morale, e ne e' approvato lo statuto organico relativo.

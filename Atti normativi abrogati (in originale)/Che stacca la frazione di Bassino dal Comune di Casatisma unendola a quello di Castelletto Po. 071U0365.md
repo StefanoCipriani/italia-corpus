@@ -1,16 +1,14 @@
-REGIO DECRETO 19 luglio 1871 n. 365
-
-
-REGIO DECRETO 19 luglio 1871 n. 365
-===================================
-
-Che stacca la frazione di Bassino dal Comune di Casatisma unendola a quello di Castelletto Po. (071U0365)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/08/1871
+---
+tipo: REGIO DECRETO
+numero: 365
+data: 1871-07-19
+titolo: "Che stacca la frazione di Bassino dal Comune di Casatisma unendola a quello di Castelletto Po. (071U0365)"
+urn: urn:nir:stato:regio.decreto:1871-07-19;365
+codice_redazionale: 071U0365
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,32 +22,22 @@ Viste le deliberazioni dei Consigli comunali di Casatisma e Castelletto Po, in d
 
 Visto l'articolo 15 della legge sull'amministrazione comunale e provinciale, 20 marzo 1865, Allegato A;
 
-Vista
------
+Vista la legge 15 agosto 1870, num. 2815; Abbiamo decretato e decretiamo:
 
-la legge 15 agosto 1870, num. 2815; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A partire dal 1° settembre 1871, la frazione Bassino e' staccata dal Comune di Casatisma ed unita a quello di Castelletto Po nella provincia di Pavia; 
+ 
+ I confini territoriali dei Comuni di Casatisma e Castelletto Po sono rispettivamente diminuiti ed accresciuti della porzione di territorio i cui limiti sono compresi nell'annessa pianta topografica della frazione Bassino, redatta il 30 dicembre 1870 dall'ingegnere Pelizza, che sara' d'ordine Nostro vidimata dal Ministro proponente.
 
-  
-  
-A partire dal 1° settembre 1871, la frazione Bassino e' staccata dal Comune di Casatisma ed unita a quello di Castelletto Po nella provincia di Pavia;   
-  
-I confini territoriali dei Comuni di Casatisma e Castelletto Po sono rispettivamente diminuiti ed accresciuti della porzione di territorio i cui limiti sono compresi nell'annessa pianta topografica della frazione Bassino, redatta il 30 dicembre 1870 dall'ingegnere Pelizza, che sara' d'ordine Nostro vidimata dal Ministro proponente.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Fino alla novella costituzione dei novelli Consigli comunali di Casatisma e Castelletto Po, cui si procedera', a cura del prefetto della provincia di Pavia, entro il mese d'agosto prossimo, le attuali rappresentanze dei Comuni sunnominati continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione dei futuri Consigli.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, addi' 19 luglio 1871.   
-  
-VITTORIO EMANUELE.   
-  
-G. Lanza.   
-  
+Fino alla novella costituzione dei novelli Consigli comunali di Casatisma e Castelletto Po, cui si procedera', a cura del prefetto della provincia di Pavia, entro il mese d'agosto prossimo, le attuali rappresentanze dei Comuni sunnominati continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione dei futuri Consigli. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, addi' 19 luglio 1871. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Lanza.

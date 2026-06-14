@@ -1,16 +1,14 @@
-REGIO DECRETO 02 marzo 1876 n. 2970
-
-
-REGIO DECRETO 02 marzo 1876 n. 2970
-===================================
-
-Col quale il comune di Monterosso al Mare e' distaccato dalla sezione principale del collegio elettorale di Levanto, n. 195, e costituito in sezione separata del collegio medesimo. (076U2970)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/03/1876
+---
+tipo: REGIO DECRETO
+numero: 2970
+data: 1876-03-02
+titolo: "Col quale il comune di Monterosso al Mare e' distaccato dalla sezione principale del collegio elettorale di Levanto, n. 195, e costituito in sezione separata del collegio medesimo. (076U2970)"
+urn: urn:nir:stato:regio.decreto:1876-03-02;2970
+codice_redazionale: 076U2970
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Monterosso al Mare e' costituito in sezione separata del Collegio elettorale di Levanto, n. 195.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 2 marzo 1876.   
-  
-VITTORIO EMANUELE   
-  
-G. Cantelli.   
-  
+Il comune di Monterosso al Mare e' costituito in sezione separata del Collegio elettorale di Levanto, n. 195. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 2 marzo 1876. 
+ 
+ VITTORIO EMANUELE 
+ 
+ G. Cantelli.

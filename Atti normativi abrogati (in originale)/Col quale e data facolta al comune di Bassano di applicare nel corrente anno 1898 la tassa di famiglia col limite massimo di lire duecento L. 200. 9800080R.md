@@ -1,21 +1,17 @@
-REGIO DECRETO 24 marzo 1898 n. LXXX
+---
+tipo: REGIO DECRETO
+numero: LXXX
+data: 1898-03-24
+titolo: "Col quale e' data facolta' al comune di Bassano di applicare nel corrente anno 1898, la tassa di famiglia col limite massimo di lire duecento (L. 200). (9800080R)"
+urn: urn:nir:stato:regio.decreto:1898-03-24;80
+codice_redazionale: 9800080R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 marzo 1898 n. LXXX
-===================================
-
-Col quale e' data facolta' al comune di Bassano di applicare nel corrente anno 1898, la tassa di famiglia col limite massimo di lire duecento (L. 200). (9800080R)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/04/1898
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di Bassano di applicare nel corrente anno 1898, la tassa di famiglia col limite massimo di lire duecento (L. 200). - Firmato UMBERTO - Controfirmato Branca - Visto G. Zanardelli.   
-  
-Registrato alla Corte dei Conti addi' 4 aprile 1898.   
-  
-Reg. 215. Atti del Governo a f. 12.   
-  
+Col quale e' data facolta' al comune di Bassano di applicare nel corrente anno 1898, la tassa di famiglia col limite massimo di lire duecento (L. 200). - Firmato UMBERTO - Controfirmato Branca - Visto G. Zanardelli. 
+ 
+ Registrato alla Corte dei Conti addi' 4 aprile 1898. 
+ 
+ Reg. 215. Atti del Governo a f. 12.

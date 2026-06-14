@@ -1,79 +1,59 @@
-REGIO DECRETO-LEGGE 03 gennaio 1926 n. 43
-
-
-REGIO DECRETO-LEGGE 03 gennaio 1926 n. 43
-=========================================
-
-Ammissione di nuove merci al beneficio della temporanea importazione. (026U0043)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/02/1926  
-Regio Decreto-Legge convertito dalla [L. 24 maggio 1926, n. 898](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-05-24;898) (in G.U. 07/06/1926, n. 130).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 43
+data: 1926-01-03
+titolo: "Ammissione di nuove merci al beneficio della temporanea importazione. (026U0043)"
+urn: urn:nir:stato:regio.decreto.legge:1926-01-03;43
+codice_redazionale: 026U0043
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il testo delle disposizioni sulle importazioni ed esportazioni temporanee approvato con [R. decreto-legge 18 dicembre 1913, n. 1453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1913-12-18;1453), ed il relativo regolamento approvato con [R. decreto 6 aprile 1922, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-04-06;547);
+Visto il testo delle disposizioni sulle importazioni ed esportazioni temporanee approvato con [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), ed il relativo regolamento approvato con [R. decreto 6 aprile 1922, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-04-06;547);
 
 Viste le successive modificazioni ed aggiunte al testo delle disposizioni suddette;
 
-Sentito il Comitato consultivo istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1313~art1) modificato con [R. decreto-legge 4 settembre 1924, n. 1408](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-09-04;1408);
+Sentito il Comitato consultivo istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1313#art_1) modificato con [R. decreto-legge 4 settembre 1924, n. 1408](Nomina%20di%20un%20altro%20membro%20nel%20Comitato%20delle%20importazioni%20ed%20esportazioni%20temporanee.%20024U1408.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto con quello per l'economia nazionale;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Alle merci ammesse all'importazione temporanea giusta la tabella 1 allegata al [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), sono aggiunte le seguenti: 
+ 
+ Parte di provvedimento in formato grafico
 
-  
-  
-Alle merci ammesse all'importazione temporanea giusta la tabella 1 allegata al [R. decreto-legge 18 dicembre 1913, n. 1453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1913-12-18;1453), sono aggiunte le seguenti:   
-  
-Parte di provvedimento in formato grafico  
+## Art. 2.
 
-Art. 2
-------
+L'importazione temporanea vigente per le merci appresso indicate e' estesa alle seguenti lavorazioni: 
+ 
+ Parte di provvedimento in formato grafico
 
-  
-  
-L'importazione temporanea vigente per le merci appresso indicate e' estesa alle seguenti lavorazioni:   
-  
-Parte di provvedimento in formato grafico  
+## Art. 3.
 
-Art. 3
-------
+Il Ministro per le finanze e' autorizzato ad emanare le norme per la attuazione delle concessioni previste con gli articoli precedenti, fino a quando non sara' provveduto con disposizioni regolamentari, ai sensi dell'[art. 20 del R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), modificato con [R. decreto-legge 11 giugno 1923, n. 1313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-06-11;1313).
 
-  
-  
-Il Ministro per le finanze e' autorizzato ad emanare le norme per la attuazione delle concessioni previste con gli articoli precedenti, fino a quando non sara' provveduto con disposizioni regolamentari, ai sensi dell'[art. 20 del R. decreto-legge 18 dicembre 1913, n. 1453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1913-12-18;1453~art20), modificato con [R. decreto-legge 11 giugno 1923, n. 1313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-06-11;1313).   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Il presente decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 gennaio 1926.   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini- Volpi - Belluzzo.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, con riserva, addi' 19 gennaio 1926.   
-  
-Atti del Governo, registro 244, foglio 142. - Faini.   
-  
+Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 gennaio 1926. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini- Volpi - Belluzzo. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, con riserva, addi' 19 gennaio 1926. 
+ 
+ Atti del Governo, registro 244, foglio 142. - Faini.

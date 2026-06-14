@@ -1,16 +1,14 @@
-REGIO DECRETO 05 novembre 1937 n. 1951
-
-
-REGIO DECRETO 05 novembre 1937 n. 1951
-======================================
-
-Istituzione di un nuovo tipo di sigaretta. (037U1951)
------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/12/1937
+---
+tipo: REGIO DECRETO
+numero: 1951
+data: 1937-11-05
+titolo: "Istituzione di un nuovo tipo di sigaretta. (037U1951)"
+urn: urn:nir:stato:regio.decreto:1937-11-05;1951
+codice_redazionale: 037U1951
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,27 +22,21 @@ Sentito il Consiglio di amministrazione dei monopoli di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Alla tariffa di vendita dei tabacchi lavorati nazionali e' aggiunto un nuovo tipo di sigaretta denominata «Mentola» da vendersi al pubblico a L. 320 il chilogrammo e, cioe', a centesimi 32 ogni sigaretta.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 5 novembre 1937 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 25 novembre 1937 - Anno XVI   
-Atti del Governo, registro 391, foglio 151. - Mancini   
+Alla tariffa di vendita dei tabacchi lavorati nazionali e' aggiunto un nuovo tipo di sigaretta denominata «Mentola» da vendersi al pubblico a L. 320 il chilogrammo e, cioe', a centesimi 32 ogni sigaretta. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 5 novembre 1937 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 25 novembre 1937 - Anno XVI  
+ Atti del Governo, registro 391, foglio 151. - Mancini

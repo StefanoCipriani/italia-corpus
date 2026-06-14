@@ -1,18 +1,16 @@
-DECRETO-LEGGE 30 maggio 1994 n. 323
-
-
-DECRETO-LEGGE 30 maggio 1994 n. 323
-===================================
-
-Disposizioni urgenti per la campagna lattiero-casearia 1994-1995.
------------------------------------------------------------------
-
-Entrata in vigore del decreto: 1-6-1994.Decreto-Legge convertito dalla [L. 25 luglio 1994, n. 470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-25;470) (in G.U. 29/07/1994, n.176).
+---
+tipo: DECRETO-LEGGE
+numero: 323
+data: 1994-05-30
+titolo: "Disposizioni urgenti per la campagna lattiero-casearia 1994-1995."
+urn: urn:nir:stato:decreto.legge:1994-05-30;323
+codice_redazionale: 094G0411
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per la campagna lattiero-casearia 1994-1995;
 
@@ -22,32 +20,26 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle ri
 
 E M A N A il seguente decreto-legge:
 
-Art. 1
-------
+## Art. 1.
 
-1. Il termine del 31 gennaio 1994 previsto dall'[articolo 4, comma 2, della legge 26 novembre 1992, n. 468](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;468~art4-com2), resta differito, limitatamente alla pubblicazione del bollettino valevole per la campagna lattiero-casearia 1994-1995, al 30 aprile 1994.
+1.
 
-Art. 2
-------
+Il termine del 31 gennaio 1994 previsto dall'[articolo 4, comma 2, della legge 26 novembre 1992, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;468#art_4-com2), resta differito, limitatamente alla pubblicazione del bollettino valevole per la campagna lattiero-casearia 1994-1995, al 30 aprile 1994.
 
-1. L'[articolo 2, comma 4, della legge 26 novembre 1992, n. 468](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;468~art2-com4), si interpreta nel senso che, limitatamente alla assegnazione del quantitativo di riferimento per la campagna lattiero-casearia 1993-1994, non si verifica la perdita della quota ove il produttore abbia commercializzato, ceduto anche temporaneamente o utilizzato mediante contratti associativi la quota stessa nel periodo di osservazione compreso tra il 1 dicembre 1992 ed il 30 novembre 1993, ovvero, in caso di forza maggiore o impossibilita' sopravvenuta, tra il 1 dicembre 1991 ed il 30 novembre 1993.
+## Art. 2.
 
-Art. 3
-------
+1.
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+L'[articolo 2, comma 4, della legge 26 novembre 1992, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-11-26;468#art_2-com4), si interpreta nel senso che, limitatamente alla assegnazione del quantitativo di riferimento per la campagna lattiero-casearia 1993-1994, non si verifica la perdita della quota ove il produttore abbia commercializzato, ceduto anche temporaneamente o utilizzato mediante contratti associativi la quota stessa nel periodo di osservazione compreso tra il 1 dicembre 1992 ed il 30 novembre 1993, ovvero, in caso di forza maggiore o impossibilita' sopravvenuta, tra il 1 dicembre 1991 ed il 30 novembre 1993.
+
+## Art. 3.
+
+1.
+
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 30 maggio 1994
+Dato a Roma, addi' 30 maggio 1994
 
-SCALFARO
-
-BERLUSCONI, Presidente del Consiglio dei Ministri
-
-POLI BORTONE, Ministro delle
-
-risorse agricole, alimentari e forestali
-
-Visto, il Guardasigilli: BIONDI
+SCALFARO BERLUSCONI, Presidente del Consiglio dei Ministri POLI BORTONE, Ministro delle risorse agricole, alimentari e forestali Visto, il Guardasigilli: BIONDI

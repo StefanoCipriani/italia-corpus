@@ -1,22 +1,18 @@
-REGIO DECRETO 04 maggio 1898 n. CLIX
+---
+tipo: REGIO DECRETO
+numero: CLIX
+data: 1898-05-04
+titolo: "Con cui il ricovero di mendicita' «Properzi» di Porto Sangiorgio viene eretto in ente morale e ne viene approvato lo statuto organico. (9800159R)"
+urn: urn:nir:stato:regio.decreto:1898-05-04;159
+codice_redazionale: 9800159R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 maggio 1898 n. CLIX
-====================================
-
-Con cui il ricovero di mendicita' «Properzi» di Porto Sangiorgio viene eretto in ente morale e ne viene approvato lo statuto organico. (9800159R)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/06/1898
-
-Art. 1
-------
-
-  
-Con cui il ricovero di mendicita' «Properzi» di Porto Sangiorgio viene eretto in ente morale e ne viene approvato lo statuto organico.  
-- Firmato UMBERTO - Controfirmato Rudini' - Visto G. Zanardelli.   
-  
-Registrato alla Corte dei Conti addi' 6 giugno 1898.   
-  
-Reg. 215. Atti del Governo a f. 188.   
-  
+Con cui il ricovero di mendicita' «Properzi» di Porto Sangiorgio viene eretto in ente morale e ne viene approvato lo statuto organico.
+- Firmato UMBERTO - Controfirmato Rudini' - Visto G. Zanardelli. 
+ 
+ Registrato alla Corte dei Conti addi' 6 giugno 1898. 
+ 
+ Reg. 215. Atti del Governo a f. 188.

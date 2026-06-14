@@ -1,16 +1,14 @@
-REGIO DECRETO 25 luglio 1941 n. 972
-
-
-REGIO DECRETO 25 luglio 1941 n. 972
-===================================
-
-Nomina degli ispettori centrali per l'Istruzione elementare. (041U0972)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/10/1941
+---
+tipo: REGIO DECRETO
+numero: 972
+data: 1941-07-25
+titolo: "Nomina degli ispettori centrali per l'Istruzione elementare. (041U0972)"
+urn: urn:nir:stato:regio.decreto:1941-07-25;972
+codice_redazionale: 041U0972
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,7 +22,7 @@ Veduto il R. decreto 30 dicembre 1923-II, n. 2960;
 
 Veduto il R. decreto 5 febbraio 1928-VI, n. 577, che approva il testo unico delle leggi sull'istruzione elementare;
 
-Veduto il [R. decreto 1° luglio 1933-X1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-07-01;1), [n. 786](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-07-01;786);
+Veduto il [R. decreto 1° luglio 1933-X1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-07-01;1), [n. 786](Passaggio%20allo%20Stato%20delle%20scuole%20elementari%20dei%20Comuni%20autonomi.%20033U0786.md);
 
 Veduto il R. decreto 6 giugno 1940-XVIII, n. 684;
 
@@ -34,29 +32,21 @@ Sentito il parere del Consiglio di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ferma l'osservanza dell'art. 2, secondo comma, del R. decreto 6 giugno 1940-XVIII, n. 684, le nomine a posti d'ispettore centrale nel ruolo del personale ispettivo e direttivo delle scuole elementari (gruppo B - grado 6°) di cui tua tabella A annessa al R. decreto 1° luglio 1933-XI, n. 786, possono essere conferite anche in soprannumero, purche' in corrispondenza siano lasciati vacanti altrettanti posti complessivamente nei gradi 5° e 6° del ruolo degli ispettori centrali per l'insegnamento elementare (gruppo A) di cui alla tabella B annessa al R. decreto 6 giugno 1940-XVIII, n. 684.  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 25 luglio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Bottai - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 18 settembre 1941-XIX   
-  
-Atti del Governo, registro 437, foglio 41. - Mancini   
-  
-  
+Ferma l'osservanza dell'art. 2, secondo comma, del R. decreto 6 giugno 1940-XVIII, n. 684, le nomine a posti d'ispettore centrale nel ruolo del personale ispettivo e direttivo delle scuole elementari (gruppo B - grado 6°) di cui tua tabella A annessa al R. decreto 1° luglio 1933-XI, n. 786, possono essere conferite anche in soprannumero, purche' in corrispondenza siano lasciati vacanti altrettanti posti complessivamente nei gradi 5° e 6° del ruolo degli ispettori centrali per l'insegnamento elementare (gruppo A) di cui alla tabella B annessa al R. decreto 6 giugno 1940-XVIII, n. 684.
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 25 luglio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Bottai - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 18 settembre 1941-XIX 
+ 
+ Atti del Governo, registro 437, foglio 41. - Mancini

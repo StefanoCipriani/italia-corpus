@@ -1,16 +1,14 @@
-REGIO DECRETO 10 luglio 1865 n. 2365
-
-
-REGIO DECRETO 10 luglio 1865 n. 2365
-====================================
-
-Col quale e' dichiarato applicabile ai Comuni di Casellina, Torri e S. Casciano quello delli 11 giugno 1865 relativo al termine stabilito per la formazione delle liste elettorali in diversi Comuni circostanti alla Citta' di Firenze. (065U2365)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/08/1865
+---
+tipo: REGIO DECRETO
+numero: 2365
+data: 1865-07-10
+titolo: "Col quale e' dichiarato applicabile ai Comuni di Casellina, Torri e S. Casciano quello delli 11 giugno 1865 relativo al termine stabilito per la formazione delle liste elettorali in diversi Comuni circostanti alla Citta' di Firenze. (065U2365)"
+urn: urn:nir:stato:regio.decreto:1865-07-10;2365
+codice_redazionale: 065U2365
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,38 +18,27 @@ Veduto il Nostro Decreto in data 11 giugno 1865, col quale venne stabilito che i
 
 Ritenuto che per dare esecuzione alla stessa Legge del 27 aprile 1865 occorre pure di modificare la delimitazione dei territori dei Comuni di Casellina, Torri e S. Casciano;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il citato Nostro Decreto delli 11 giugno 1865 e' anche applicabile ai detti Comuni di Casellina, Torri e S. Casciano.
 
-  
-  
-Il citato Nostro Decreto delli 11 giugno 1865 e' anche applicabile ai detti Comuni di Casellina, Torri e S. Casciano.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-La conversione in Legge del presente Decreto sara' proposta al Parlamento tostoche' sara' riconvocato.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valdieri addi' 10 luglio 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 25 luglio 1865   
-  
-Reg°. 33, Atti del Governo a c. 100. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-G. Lanza.   
-Quintino Sella.   
-  
+La conversione in Legge del presente Decreto sara' proposta al Parlamento tostoche' sara' riconvocato. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valdieri addi' 10 luglio 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 25 luglio 1865 
+ 
+ Reg°. 33, Atti del Governo a c. 100. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ G. Lanza. 
+ Quintino Sella.

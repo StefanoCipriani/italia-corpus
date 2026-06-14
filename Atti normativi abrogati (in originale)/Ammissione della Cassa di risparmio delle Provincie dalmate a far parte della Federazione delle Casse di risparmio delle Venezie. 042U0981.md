@@ -1,16 +1,14 @@
-REGIO DECRETO 24 luglio 1942 n. 981
-
-
-REGIO DECRETO 24 luglio 1942 n. 981
-===================================
-
-Ammissione della Cassa di risparmio delle Provincie dalmate a far parte della Federazione delle Casse di risparmio delle Venezie. (042U0981)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/09/1942
+---
+tipo: REGIO DECRETO
+numero: 981
+data: 1942-07-24
+titolo: "Ammissione della Cassa di risparmio delle Provincie dalmate a far parte della Federazione delle Casse di risparmio delle Venezie. (042U0981)"
+urn: urn:nir:stato:regio.decreto:1942-07-24;981
+codice_redazionale: 042U0981
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,28 +24,22 @@ Veduto il decreto del DUCE del Fascismo, Capo del Governo, Presidente del Comita
 
 Veduta la deliberazione del Comitato dei Ministri per la difesa del risparmio e per l'esercizio del credito, in data 27 giugno 1942-XX;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Presidente del Comitato dei Ministri anzidetto; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Presidente del Comitato dei Ministri anzidetto; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Cassa di risparmio delle Provincie dalmate, con sede in Zara, e' ammessa a far parte della Federazione delle Casse di risparmio delle Venezie.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 24 luglio 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 5 settembre 1942-XX   
-  
-Atti del Governo, registro 449, foglio 21. - MANCINI   
+La Cassa di risparmio delle Provincie dalmate, con sede in Zara, e' ammessa a far parte della Federazione delle Casse di risparmio delle Venezie. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 24 luglio 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 5 settembre 1942-XX 
+ 
+ Atti del Governo, registro 449, foglio 21. - MANCINI

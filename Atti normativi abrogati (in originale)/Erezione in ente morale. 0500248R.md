@@ -1,19 +1,15 @@
-REGIO DECRETO 30 luglio 1905 n. CCXLVIII
+---
+tipo: REGIO DECRETO
+numero: CCXLVIII
+data: 1905-07-30
+titolo: "Erezione in ente morale. (0500248R)"
+urn: urn:nir:stato:regio.decreto:1905-07-30;248
+codice_redazionale: 0500248R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 luglio 1905 n. CCXLVIII
-========================================
-
-Erezione in ente morale. (0500248R)
------------------------------------
-
-Entrata in vigore del provvedimento: 01/10/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCXLVIII (Dato a Racconigi, il 30 luglio 1905), col quale si erige in ente morale e si concentra nella Congregazione di carita' di Vicenza il lascito disposto dal fu Giuseppe Gagliardotti per la erogazione di doti e di elemosine.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCXLVIII (Dato a Racconigi, il 30 luglio 1905), col quale si erige in ente morale e si concentra nella Congregazione di carita' di Vicenza il lascito disposto dal fu Giuseppe Gagliardotti per la erogazione di doti e di elemosine.

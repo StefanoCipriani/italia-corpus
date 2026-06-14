@@ -1,18 +1,15 @@
-DECRETO LUOGOTENENZIALE 09 luglio 1916 n. 919
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 919
+data: 1916-07-09
+titolo: "Organico del personale insegnante di scuola normale. (016U0919)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-07-09;919
+codice_redazionale: 016U0919
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 09 luglio 1916 n. 919
-=============================================
-
-Organico del personale insegnante di scuola normale. (016U0919)
----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/08/1916
-
-Art. 1
-------
-
-  
-919   
-  
-Decreto Luogotenenziale 9 luglio 1916, col quale sulla proposta del ministro dell'istruzione pubblica, di concerto con quello del tesoro, dal 1 ottobre 1915, e' stabilito l'organico del personale insegnante della scuola normale complementare di Ripatransone.   
+919 
+ 
+ Decreto Luogotenenziale 9 luglio 1916, col quale sulla proposta del ministro dell'istruzione pubblica, di concerto con quello del tesoro, dal 1 ottobre 1915, e' stabilito l'organico del personale insegnante della scuola normale complementare di Ripatransone.

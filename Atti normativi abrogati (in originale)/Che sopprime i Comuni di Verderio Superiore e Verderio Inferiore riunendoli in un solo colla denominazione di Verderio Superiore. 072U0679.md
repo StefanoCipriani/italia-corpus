@@ -1,16 +1,14 @@
-REGIO DECRETO 01 febbraio 1872 n. 679
-
-
-REGIO DECRETO 01 febbraio 1872 n. 679
-=====================================
-
-Che sopprime i Comuni di Verderio Superiore e Verderio Inferiore, riunendoli in un solo colla denominazione di Verderio Superiore. (072U0679)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/03/1872
+---
+tipo: REGIO DECRETO
+numero: 679
+data: 1872-02-01
+titolo: "Che sopprime i Comuni di Verderio Superiore e Verderio Inferiore, riunendoli in un solo colla denominazione di Verderio Superiore. (072U0679)"
+urn: urn:nir:stato:regio.decreto:1872-02-01;679
+codice_redazionale: 072U0679
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,37 +20,26 @@ Viste le deliberazioni dei Consigli comunali di Verderio Superiore e Verderio In
 
 Visto l'articolo 13 della Legge sull'amministrazione comunale e provinciale, in data 20 marzo 1865, allegato A;
 
-Vista
------
+Vista la Legge 18 agosto 1870, n. 5815; Abbiamo decretato e decretiamo:
 
-la Legge 18 agosto 1870, n. 5815; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A partire dal 1° aprile 1872, i Comuni di Verderio Superiore e Verderio Inferiore sono soppressi e riuniti in un solo colla denominazione di Verderio Superiore, tenendo separate le rispettive rendite patrimoniali, le passivita' e le spese.
 
-  
-  
-A partire dal 1° aprile 1872, i Comuni di Verderio Superiore e Verderio Inferiore sono soppressi e riuniti in un solo colla denominazione di Verderio Superiore, tenendo separate le rispettive rendite patrimoniali, le passivita' e le spese.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Fino alla costituzione del novello Consiglio comunale di Verderio Superiore, cui si procedera' a cura del Prefetto della Provincia, entro il mese di maggio 1872, in base alle attuali liste elettorali amministrative debitamente riformate a norma della Legge comunale, le attuali Rappresentanze dei Comuni sunnominati continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione del futuro Consiglio.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 1° febbraio 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 16 febbraio 1872   
-  
-Reg. 59 Atti del Governo a c. 126. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+Fino alla costituzione del novello Consiglio comunale di Verderio Superiore, cui si procedera' a cura del Prefetto della Provincia, entro il mese di maggio 1872, in base alle attuali liste elettorali amministrative debitamente riformate a norma della Legge comunale, le attuali Rappresentanze dei Comuni sunnominati continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione del futuro Consiglio. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 1° febbraio 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 16 febbraio 1872 
+ 
+ Reg. 59 Atti del Governo a c. 126. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

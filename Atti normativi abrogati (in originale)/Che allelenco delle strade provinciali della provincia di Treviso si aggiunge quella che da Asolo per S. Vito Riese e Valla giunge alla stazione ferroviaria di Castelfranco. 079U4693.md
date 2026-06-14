@@ -1,16 +1,14 @@
-REGIO DECRETO 05 gennaio 1879 n. 4693
-
-
-REGIO DECRETO 05 gennaio 1879 n. 4693
-=====================================
-
-Che all'elenco delle strade provinciali della provincia di Treviso si aggiunge quella che da Asolo per S. Vito, Riese e Valla' giunge alla stazione ferroviaria di Castelfranco. (079U4693)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/02/1879
+---
+tipo: REGIO DECRETO
+numero: 4693
+data: 1879-01-05
+titolo: "Che all'elenco delle strade provinciali della provincia di Treviso si aggiunge quella che da Asolo per S. Vito, Riese e Valla' giunge alla stazione ferroviaria di Castelfranco. (079U4693)"
+urn: urn:nir:stato:regio.decreto:1879-01-05;4693
+codice_redazionale: 079U4693
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,7 +26,7 @@ Veduta l'altra deliberazione 19 settembre 1878, colla quale il Consiglio provinc
 
 Veduto il successivo parere 16 novembre 1878 del Consiglio superiore dei lavori pubblici che conferma quello sopra citato;
 
-Veduti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della legge 20 marzo 1865, numero 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato E;
+Veduti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [14 della legge 20 marzo 1865, numero 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), allegato E;
 
 Considerando:
 
@@ -42,23 +40,16 @@ Che e' ammesso dallo stesso Consiglio provinciale, che questa importanza dovra' 
 
 Udito l'avviso del Consiglio di Stato,
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata la deliberazione 24 gennaio 1878 del Consiglio provinciale di Treviso nella parte che riguarda l'aggiunta all'elenco delle strade provinciali di quella che da Asolo per S. Vito, Riese e Valla' giunge alla stazione ferroviaria di Castelfranco; ed e' invece revocata la deliberazione stessa nella parte che riflette l'esclusione dal detto elenco dell'altra strada da Asolo a Crespignago, Maser, Caerano, Pieve di Montebelluna alla Nazionale Feltrina.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 gennaio 1879.   
-  
-UMBERTO.   
-  
-R. Mezzanotte.   
-  
+E' approvata la deliberazione 24 gennaio 1878 del Consiglio provinciale di Treviso nella parte che riguarda l'aggiunta all'elenco delle strade provinciali di quella che da Asolo per S. Vito, Riese e Valla' giunge alla stazione ferroviaria di Castelfranco; ed e' invece revocata la deliberazione stessa nella parte che riflette l'esclusione dal detto elenco dell'altra strada da Asolo a Crespignago, Maser, Caerano, Pieve di Montebelluna alla Nazionale Feltrina. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 gennaio 1879. 
+ 
+ UMBERTO. 
+ 
+ R. Mezzanotte.

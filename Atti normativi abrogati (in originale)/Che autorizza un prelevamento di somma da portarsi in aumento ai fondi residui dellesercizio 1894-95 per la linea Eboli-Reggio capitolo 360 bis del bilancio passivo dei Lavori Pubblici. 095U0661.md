@@ -1,24 +1,22 @@
-REGIO DECRETO 12 novembre 1895 n. 661
-
-
-REGIO DECRETO 12 novembre 1895 n. 661
-=====================================
-
-Che autorizza un prelevamento di somma da portarsi in aumento ai fondi residui dell'esercizio 1894-95 per la linea Eboli-Reggio, capitolo 360 bis del bilancio passivo dei Lavori Pubblici. (095U0661)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/12/1895
+---
+tipo: REGIO DECRETO
+numero: 661
+data: 1895-11-12
+titolo: "Che autorizza un prelevamento di somma da portarsi in aumento ai fondi residui dell'esercizio 1894-95 per la linea Eboli-Reggio, capitolo 360 bis del bilancio passivo dei Lavori Pubblici. (095U0661)"
+urn: urn:nir:stato:regio.decreto:1895-11-12;661
+codice_redazionale: 095U0661
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'[art. 3 della legge 12 luglio 1894 n. 318](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-12;318~art3);
+Visto l'[art. 3 della legge 12 luglio 1894 n. 318](Ripartizioni%20delle%20somme%20per%20le%20costruzioni%20ferroviarie.%20094U0318.md);
 
-Visto l'art. 38 del testo unico della legge per l'Amministrazione e la Contabilita' Generale dello Stato, approvato con [R. Decreto 17 febbraio 1884 n. 2016](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016);
+Visto l'art. 38 del testo unico della legge per l'Amministrazione e la Contabilita' Generale dello Stato, approvato con [R. Decreto 17 febbraio 1884 n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md);
 
 Ritenuto che il complessivo fondo approvato al n. 81 della tabella annessa alla succitata legge 12 luglio 1894 per aumenti di liquidazione, per transazioni di vertenze, per interessi e per altre maggiori spese impreviste relative alle ferrovie complementari ed ai titoli di spesa descritti nell'anzidetta tabella, ammonta alla somma di lire 28,555,128 delle quali lire 16,463,503 per l'esercizio finanziario 1893-94 e lire 12,091,625 per l'esercizio 1894-95;
 
@@ -28,27 +26,20 @@ Che devesi provvedere ad un'altra spesa relativa alla costruzione delle ferrovie
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal fondo complessivo di lire 28,555,128 approvato per gli esercizi finanziari 1893-94 e 1894-95 al n. 81 della tabella unita alla [legge 12 luglio 1894 n. 318](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-12;318) e' autorizzato un undicesimo prelevamente di lire settecentoquarantaquattromila centoquarantuna e centesimi settantacinque (L. 744,141,75) che verra' portato in aumento ai fondi residui dell'esercizio 1894-95 per la linea Eboli-Reggio, capitolo 360 bis del bilancio passivo dei Lavori Pubblici esercizio 1894-95 corrispondente al capitolo 339 dello stesso bilancio per l'esercizio 1895-96.   
-  
-Questo Decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 12 novembre 1895.   
-  
-UMBERTO.   
-  
-G. SARACCO.   
-  
-Visto, Il Guardasigilli: V. CALENDA DI TAVANI.   
-  
+Dal fondo complessivo di lire 28,555,128 approvato per gli esercizi finanziari 1893-94 e 1894-95 al n. 81 della tabella unita alla [legge 12 luglio 1894 n. 318](Ripartizioni%20delle%20somme%20per%20le%20costruzioni%20ferroviarie.%20094U0318.md) e' autorizzato un undicesimo prelevamente di lire settecentoquarantaquattromila centoquarantuna e centesimi settantacinque (L. 744,141,75) che verra' portato in aumento ai fondi residui dell'esercizio 1894-95 per la linea Eboli-Reggio, capitolo 360 bis del bilancio passivo dei Lavori Pubblici esercizio 1894-95 corrispondente al capitolo 339 dello stesso bilancio per l'esercizio 1895-96. 
+ 
+ Questo Decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 12 novembre 1895. 
+ 
+ UMBERTO. 
+ 
+ G. SARACCO. 
+ 
+ Visto, Il Guardasigilli: V. CALENDA DI TAVANI.

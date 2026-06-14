@@ -1,23 +1,19 @@
-REGIO DECRETO 06 febbraio 1902 n. XXIII
+---
+tipo: REGIO DECRETO
+numero: XXIII
+data: 1902-02-06
+titolo: "Con cui la societa' Sanatori popolari pei tubercolosi in Milano viene eretta in ente morale e ne viene approvato lo statuto organico. (0200023R)"
+urn: urn:nir:stato:regio.decreto:1902-02-06;23
+codice_redazionale: 0200023R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 febbraio 1902 n. XXIII
-=======================================
-
-Con cui la societa' Sanatori popolari pei tubercolosi in Milano viene eretta in ente morale e ne viene approvato lo statuto organico. (0200023R)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/03/1902
-
-Art. 1
-------
-
-  
-Con cui la societa' Sanatori popolari pei tubercolosi in Milano viene eretta in ente morale e ne viene approvato lo statuto organico.  
-- Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F.  
-Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 19 febbraio 1902.   
-  
-Reg. 1. Atti del Governo a f. 89.   
-  
+Con cui la societa' Sanatori popolari pei tubercolosi in Milano viene eretta in ente morale e ne viene approvato lo statuto organico.
+- Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F.
+Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 19 febbraio 1902. 
+ 
+ Reg. 1. Atti del Governo a f. 89.

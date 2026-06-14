@@ -1,16 +1,14 @@
-REGIO DECRETO 23 dicembre 1926 n. 2367
-
-
-REGIO DECRETO 23 dicembre 1926 n. 2367
-======================================
-
-Modifica dell'art. 7 del R. decreto 25 giugno 1925 che regola l'ammissione nel ruolo amministrativo coloniale. (026U2367)
--------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/02/1927
+---
+tipo: REGIO DECRETO
+numero: 2367
+data: 1926-12-23
+titolo: "Modifica dell'art. 7 del R. decreto 25 giugno 1925 che regola l'ammissione nel ruolo amministrativo coloniale. (026U2367)"
+urn: urn:nir:stato:regio.decreto:1926-12-23;2367
+codice_redazionale: 026U2367
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,7 +18,7 @@ Visto il R. decreto in data 25 giugno 1925 che fissa le
 
 norme per l'ammissione alla carriera amministrativa coloniale;
 
-Vista la [legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100);
+Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Sentito il Consiglio di Stato;
 
@@ -28,32 +26,25 @@ Udito il Consiglio dei Ministri;
 
 Sulla proposta del Nostro Ministro Segretario di Stato
 
-per
----
+per le colonie, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-le colonie, di concerto col Ministro le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il 1° e 3° capoverso dell'art. 7 del R. decreto 25 giugno 1925 sono sostituiti dai seguenti:   
-  
-«I vincitori del concorso sono nominati, per decreto Ministeriale, volontari coloniali, e prestano, per un periodo non inferiore a dieci mesi, servizio di prova e di tirocinio presso gli uffici del Ministero delle colonie».   
-  
-«Alla fine del periodo di prova i volontari dovranno superare un esame sulle quattro suddette materie».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 dicembre 1926.   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Federzoni - Volpi.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 29 gennaio 1927 - Anno V   
-Atti del Governo, registro 256, foglio 195. - Ferretti.   
-  
+Il 1° e 3° capoverso dell'art. 7 del R. decreto 25 giugno 1925 sono sostituiti dai seguenti: 
+ 
+ «I vincitori del concorso sono nominati, per decreto Ministeriale, volontari coloniali, e prestano, per un periodo non inferiore a dieci mesi, servizio di prova e di tirocinio presso gli uffici del Ministero delle colonie». 
+ 
+ «Alla fine del periodo di prova i volontari dovranno superare un esame sulle quattro suddette materie». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 dicembre 1926. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Federzoni - Volpi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 29 gennaio 1927 - Anno V  
+ Atti del Governo, registro 256, foglio 195. - Ferretti.

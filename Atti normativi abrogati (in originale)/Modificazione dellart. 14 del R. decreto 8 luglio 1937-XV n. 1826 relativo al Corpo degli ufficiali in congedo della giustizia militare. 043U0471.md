@@ -1,16 +1,14 @@
-REGIO DECRETO 19 aprile 1943 n. 471
-
-
-REGIO DECRETO 19 aprile 1943 n. 471
-===================================
-
-Modificazione dell'art. 14 del R. decreto 8 luglio 1937-XV, n. 1826, relativo al Corpo degli ufficiali in congedo della giustizia militare. (043U0471)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/07/1943
+---
+tipo: REGIO DECRETO
+numero: 471
+data: 1943-04-19
+titolo: "Modificazione dell'art. 14 del R. decreto 8 luglio 1937-XV, n. 1826, relativo al Corpo degli ufficiali in congedo della giustizia militare. (043U0471)"
+urn: urn:nir:stato:regio.decreto:1943-04-19;471
+codice_redazionale: 043U0471
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,32 +26,26 @@ Udito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, per la marina e per l'aeronautica, d'intesa coi Ministri per la grazia e giustizia e per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, per la marina e per l'aeronautica, d'intesa coi Ministri per la grazia e giustizia e per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'art. 14 del R. decreto 8 luglio 1937-XV, n. 1826, e' sostituito dal seguente:   
-  
-«Le domande degli aspiranti e i relativi documenti sono sottoposti al giudizio della Commissione del personale, di cui all'art. 10 del R. decreto 19 ottobre 1923-I, n. 2316, e successive modificazioni.   
-  
-Quando detta Commissione procede al giudizio suindicato per la nomina ad ufficiali in congedo della giustizia militare - categoria magistrati - le funzioni di segretario sono esercitate, oltre che dai magistrati indicati nell'art. 11 del Regio decreto-legge 26 gennaio 1931-IX, n. 122, convertito in legge con la legge 18 giugno 1931-IX, n. 919, anche da un funzionario civile del Ministero della guerra, designato dal Ministro. I segretari che intervengono alla seduta hanno voto consultivo».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 10 aprile 1943-XXI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DE MARSICO - ACERBO   
-  
-Visto, il Guardasigilli: DE MARSICO   
-  
-Registrato alla Corte dei conti, addi' 14 giugno 1943-XXI   
-  
-Atti del Governo, registro 458, foglio 52. - MANCINI   
+L'art. 14 del R. decreto 8 luglio 1937-XV, n. 1826, e' sostituito dal seguente: 
+ 
+ «Le domande degli aspiranti e i relativi documenti sono sottoposti al giudizio della Commissione del personale, di cui all'art. 10 del R. decreto 19 ottobre 1923-I, n. 2316, e successive modificazioni. 
+ 
+ Quando detta Commissione procede al giudizio suindicato per la nomina ad ufficiali in congedo della giustizia militare - categoria magistrati - le funzioni di segretario sono esercitate, oltre che dai magistrati indicati nell'art. 11 del Regio decreto-legge 26 gennaio 1931-IX, n. 122, convertito in legge con la legge 18 giugno 1931-IX, n. 919, anche da un funzionario civile del Ministero della guerra, designato dal Ministro. I segretari che intervengono alla seduta hanno voto consultivo». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 aprile 1943-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DE MARSICO - ACERBO 
+ 
+ Visto, il Guardasigilli: DE MARSICO 
+ 
+ Registrato alla Corte dei conti, addi' 14 giugno 1943-XXI 
+ 
+ Atti del Governo, registro 458, foglio 52. - MANCINI

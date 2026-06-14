@@ -1,16 +1,14 @@
-REGIO DECRETO 24 marzo 1912 n. 398
-
-
-REGIO DECRETO 24 marzo 1912 n. 398
-==================================
-
-Col quale viene data piena ed intera esecuzione al trattato generale di arbitrato tra l'Italia ed il Belgio. (012U0398)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/05/1912
+---
+tipo: REGIO DECRETO
+numero: 398
+data: 1912-03-24
+titolo: "Col quale viene data piena ed intera esecuzione al trattato generale di arbitrato tra l'Italia ed il Belgio. (012U0398)"
+urn: urn:nir:stato:regio.decreto:1912-03-24;398
+codice_redazionale: 012U0398
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,36 +18,22 @@ Visto l'art. 5 dello statuto fondamentale del Regno;
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per gli affari esteri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per gli affari esteri; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Piena ed intera esecuzione e' data al trattato generale di arbitrato tra l'Italia e il Belgio, firmato a Bruxelles il 18 novembre 1910, le cui ratifiche furono scambiate in Bruxelles il 14 agosto
 
-1911. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 marzo
+1911.
 
-1912. 
-  
-  
-VITTORIO EMANUELE.   
-  
-Giolitti - Di San Giuliano.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 marzo
 
-Convention
+1912.
 
-  
-Convention d'arbitrage entre l'Italie et la Belgique   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=012U039800100010110001&dgu=1912-05-13&art.dataPubblicazioneGazzetta=1912-05-13&art.codiceRedazionale=012U0398)
-  
+VITTORIO EMANUELE. 
+ 
+ Giolitti - Di San Giuliano. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

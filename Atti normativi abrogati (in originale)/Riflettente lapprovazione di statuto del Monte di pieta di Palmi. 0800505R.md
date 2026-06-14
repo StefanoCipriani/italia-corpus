@@ -1,19 +1,15 @@
-REGIO DECRETO 16 novembre 1908 n. DV
+---
+tipo: REGIO DECRETO
+numero: DV
+data: 1908-11-16
+titolo: "Riflettente l'approvazione di statuto del Monte di pieta' di Palmi. (0800505R)"
+urn: urn:nir:stato:regio.decreto:1908-11-16;505
+codice_redazionale: 0800505R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 novembre 1908 n. DV
-====================================
-
-Riflettente l'approvazione di statuto del Monte di pieta' di Palmi. (0800505R)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/01/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro per l'agricoltura, industria e commercio:   
-  
-N. DV (Dato a San Rossore, il 16 novembre 1908), col quale si approva lo statuto organico del Monte di pieta' di Palmi.   
-  
+Sulla proposta del ministro per l'agricoltura, industria e commercio: 
+ 
+ N. DV (Dato a San Rossore, il 16 novembre 1908), col quale si approva lo statuto organico del Monte di pieta' di Palmi.

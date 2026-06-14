@@ -1,16 +1,14 @@
-REGIO DECRETO 27 gennaio 1941 n. 63
-
-
-REGIO DECRETO 27 gennaio 1941 n. 63
-===================================
-
-Autorizzazione al comune di Norcia a continuare ad applicare, fino al 31 dicembre 1941, le imposte di consumo con la tariffa della classe superiore G. (041U0063)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/03/1941
+---
+tipo: REGIO DECRETO
+numero: 63
+data: 1941-01-27
+titolo: "Autorizzazione al comune di Norcia a continuare ad applicare, fino al 31 dicembre 1941, le imposte di consumo con la tariffa della classe superiore G. (041U0063)"
+urn: urn:nir:stato:regio.decreto:1941-01-27;63
+codice_redazionale: 041U0063
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,31 +22,26 @@ Sentita la Commissione centrale per la finanza locale la quale ha espresso parer
 
 Ritenuto che la domanda del Comune e' giustificata da imprescindibili necessita' di bilancio;
 
-Visto l'art. 26 del testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175);
+Visto l'art. 26 del testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il comune di Norcia e' autorizzato ad applicare le imposte di consumo con la tariffa della classe superiore G fino al 31 dicembre
 
-1941. 
-  
-  
-Ordiniamo che il presente decreto, munito dei sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 gennaio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 22 febbraio 1941-XIX   
-  
-Atti del Governo, registro 430, foglio 84. - Mancini
+1941.
+
+Ordiniamo che il presente decreto, munito dei sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 gennaio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 22 febbraio 1941-XIX 
+ 
+ Atti del Governo, registro 430, foglio 84. - Mancini

@@ -1,17 +1,13 @@
-DECRETO LUOGOTENENZIALE 09 marzo 1916 n. 387
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 387
+data: 1916-03-09
+titolo: "Modificazione di statuto di Cassa di risparmio (016U0387)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-03-09;387
+codice_redazionale: 016U0387
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 09 marzo 1916 n. 387
-============================================
-
-Modificazione di statuto di Cassa di risparmio (016U0387)
----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/04/1916
-
-Art. 1
-------
-
-  
-Decreto Luogotenenziale 9 marzo 1916, col quale, sulla proposta del ministro di agricoltura, industria e commercio, sono approvate alcune modificazioni allo statuto della Cassa di risparmio di Appignano.   
-  
+Decreto Luogotenenziale 9 marzo 1916, col quale, sulla proposta del ministro di agricoltura, industria e commercio, sono approvate alcune modificazioni allo statuto della Cassa di risparmio di Appignano.

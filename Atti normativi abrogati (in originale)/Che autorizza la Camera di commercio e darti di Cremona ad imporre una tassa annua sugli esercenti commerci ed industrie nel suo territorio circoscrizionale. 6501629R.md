@@ -1,47 +1,47 @@
-REGIO DECRETO 05 giugno 1865 n. MDCXXIX
+---
+tipo: REGIO DECRETO
+numero: MDCXXIX
+data: 1865-06-05
+titolo: "Che autorizza la Camera di commercio e d'arti di Cremona ad imporre una tassa annua sugli esercenti commerci ed industrie nel suo territorio circoscrizionale. (6501629R)"
+urn: urn:nir:stato:regio.decreto:1865-06-05;1629
+codice_redazionale: 6501629R
+vigente: true
+---
 
+VITTORIO EMANUELE II
 
-REGIO DECRETO 05 giugno 1865 n. MDCXXIX
-=======================================
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
-Che autorizza la Camera di commercio e d'arti di Cremona ad imporre una tassa annua sugli esercenti commerci ed industrie nel suo territorio circoscrizionale. (6501629R)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RE D'ITALIA
 
-Entrata in vigore del provvedimento: 17/07/1865
+Veduto l'art. 31 della Legge 6 luglio 1862, n.° 680;
 
-Art. 1
-------
+Veduta la deliberazione della Camera di commercio e d'arti di Cremona del 18 aprile 1865;
 
-  
-  
-La Camera di commercio e d'arti di Cremona e' autorizzata ad imporre una tassa annua sugli esercenti commerci ed industrie nel suo territorio circoscrizionale.   
-  
+Sentito il parere del Consiglio di Stato;
 
-Art. 2
-------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-  
-  
-La detta tassa sara' ripartita proporzionalmente fra i contribuenti, divisi secondo l'importanza del loro traffico o della loro industria in sette classi: la prima delle quali sara' tassata in L. 1, la seconda in L. 3, la terza in L. 5, la quarta in L. 10, la quinta in L. 20, la sesta in L. 30, la settima in L. 40.   
-  
+## Art. 1.
 
-Art. 3
-------
+La Camera di commercio e d'arti di Cremona e' autorizzata ad imporre una tassa annua sugli esercenti commerci ed industrie nel suo territorio circoscrizionale.
 
-  
-  
-Per l'anno 1865 l'esazione potra' essere fatta in una sola rata.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 5 giugno 1865.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 22 giugno 1865   
-Reg. 33 Atti del Governo a c. 47. Crodara-Visconti.   
-Luogo del Sigillo. V. Il Guardasigilli VACCA.   
-  
-TORELLI.   
-  
-  
+## Art. 2.
+
+La detta tassa sara' ripartita proporzionalmente fra i contribuenti, divisi secondo l'importanza del loro traffico o della loro industria in sette classi: la prima delle quali sara' tassata in L. 1, la seconda in L. 3, la terza in L. 5, la quarta in L. 10, la quinta in L. 20, la sesta in L. 30, la settima in L. 40.
+
+## Art. 3.
+
+Per l'anno 1865 l'esazione potra' essere fatta in una sola rata. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 5 giugno 1865. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 22 giugno 1865 
+ Reg. 33 Atti del Governo a c. 47. Crodara-Visconti. 
+ Luogo del Sigillo. V. Il Guardasigilli VACCA. 
+ 
+ TORELLI.

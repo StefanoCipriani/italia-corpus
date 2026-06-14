@@ -1,16 +1,14 @@
-REGIO DECRETO 20 agosto 1873 n. 1469
-
-
-REGIO DECRETO 20 agosto 1873 n. 1469
-====================================
-
-Che autorizza la Provincia di Catania a stabilire una barriera lungo la strada provinciale da Fondachello a Santa Maria di Licodia. (073U1469)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/09/1873
+---
+tipo: REGIO DECRETO
+numero: 1469
+data: 1873-08-20
+titolo: "Che autorizza la Provincia di Catania a stabilire una barriera lungo la strada provinciale da Fondachello a Santa Maria di Licodia. (073U1469)"
+urn: urn:nir:stato:regio.decreto:1873-08-20;1469
+codice_redazionale: 073U1469
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,7 +18,7 @@ Veduta la domanda inoltrata dall'Amministrazione provinciale di Catania allo sco
 
 Visti i pareri 7 febbraio e 23 maggio corrente anno del Consiglio superiore dei Lavori Pubblici;
 
-Visto l'[art. 38 della Legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art38), allegato F;
+Visto l'[art. 38 della Legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_38), allegato F;
 
 Considerando:
 
@@ -34,32 +32,24 @@ Che la Tariffa di pedaggio proposta e' uguale a quella gia' adottata per altre s
 
 Udito l'avviso del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' autorizzata la Provincia di Catania a stabilire una barriera lungo la strada provinciale da Fondachello a Santa Maria di Licodia, e ad esigerne il pedaggio in base alla predetta Tariffa.   
-  
-La durata del pedaggio e' stabilita provvisoriamente per anni dieci a partire dalla data di questo Decreto, salvo a prorogarla dopo che, accertato il prodotto annuo, si potra' stabilire definitivamente il termine necessario alla Provincia per rimborsarsi della spesa sostenuta.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche addi' 20 agosto 1873.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 30 agosto 1873   
-  
-Atti dei Governo a c. 65. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Vigliani.   
-  
-S. Spaventa.   
-  
-  
+E' autorizzata la Provincia di Catania a stabilire una barriera lungo la strada provinciale da Fondachello a Santa Maria di Licodia, e ad esigerne il pedaggio in base alla predetta Tariffa. 
+ 
+ La durata del pedaggio e' stabilita provvisoriamente per anni dieci a partire dalla data di questo Decreto, salvo a prorogarla dopo che, accertato il prodotto annuo, si potra' stabilire definitivamente il termine necessario alla Provincia per rimborsarsi della spesa sostenuta. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche addi' 20 agosto 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 30 agosto 1873 
+ 
+ Atti dei Governo a c. 65. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Vigliani. 
+ 
+ S. Spaventa.

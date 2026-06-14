@@ -1,16 +1,14 @@
-REGIO DECRETO 31 ottobre 1942 n. 1368
-
-
-REGIO DECRETO 31 ottobre 1942 n. 1368
-=====================================
-
-Autorizzazione al comune di Trecate ad applicare, fino al 31 dicembre 1942, le imposte di consumo entro i limiti stabiliti per la classe G. (042U1368)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/12/1942
+---
+tipo: REGIO DECRETO
+numero: 1368
+data: 1942-10-31
+titolo: "Autorizzazione al comune di Trecate ad applicare, fino al 31 dicembre 1942, le imposte di consumo entro i limiti stabiliti per la classe G. (042U1368)"
+urn: urn:nir:stato:regio.decreto:1942-10-31;1368
+codice_redazionale: 042U1368
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di dio e per volonta' della nazione
 
@@ -24,30 +22,22 @@ Udita la Commissione centrale per la finanza locale;
 
 Visto l'art. 26 del testo unico per la finanza locale 14 settembre 1931, n. 1175;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Trecate e' autorizzato ad applicare fino al 31 dicembre 1942 le imposte di consumo entro i limiti stabiliti per la classe G.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 31 ottobre 1942-XXI   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 27 novembre 1942-XXI   
-  
-Atti del Governo, registro 451, foglio 66. - MANCINI   
-  
-  
+Il comune di Trecate e' autorizzato ad applicare fino al 31 dicembre 1942 le imposte di consumo entro i limiti stabiliti per la classe G. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 31 ottobre 1942-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 27 novembre 1942-XXI 
+ 
+ Atti del Governo, registro 451, foglio 66. - MANCINI

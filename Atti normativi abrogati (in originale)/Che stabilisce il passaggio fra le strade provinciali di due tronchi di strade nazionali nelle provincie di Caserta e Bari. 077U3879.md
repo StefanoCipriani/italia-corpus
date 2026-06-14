@@ -1,22 +1,20 @@
-REGIO DECRETO 24 maggio 1877 n. 3879
-
-
-REGIO DECRETO 24 maggio 1877 n. 3879
-====================================
-
-Che stabilisce il passaggio fra le strade provinciali di due tronchi di strade nazionali nelle provincie di Caserta e Bari. (077U3879)
---------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/07/1877
+---
+tipo: REGIO DECRETO
+numero: 3879
+data: 1877-05-24
+titolo: "Che stabilisce il passaggio fra le strade provinciali di due tronchi di strade nazionali nelle provincie di Caserta e Bari. (077U3879)"
+urn: urn:nir:stato:regio.decreto:1877-05-24;3879
+codice_redazionale: 077U3879
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'elenco delle strade nazionali annesso al [R. decreto 17 novembre 1865, n. 2633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-11-17;2633), e l'altro inserto nella [legge 27 giugno 1869, n. 5147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1869-06-27;5147);
+Visto l'elenco delle strade nazionali annesso al [R. decreto 17 novembre 1865, n. 2633](Contenente%20lElenco%20delle%20strade%20dichiarate%20nazionali.%20065U2633.md), e l'altro inserto nella [legge 27 giugno 1869, n. 5147](Relativa%20alla%20costruzione%20di%20strade%20nazionali%20e%20provinciali%20nelle%20Provincie%20meridionali%20continentali.%20069U5147.md);
 
 Ritenuto che il tronco della strada nazionale degli Abruzzi n. 31, fra Sparanise e la stazione ferroviaria di Cajanello in provincia di Caserta, e l'altro della strada nazionale Appulo-Lucana n.60, fra Bari e Grumo in provincia di Bari, corrono entrambi nella stessa direzione delle ferrovie, che ne collegano i tronchi estremi;
 
@@ -26,24 +24,16 @@ Ritenuto che le eccezioni prodotte contro tale classifica dai Consigli amministr
 
 Sentiti i pareri del Consiglio Superiore dei Lavori Pubblici e del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dalla data suddetta subentreranno all'Amministrazione dello Stato rispettivamente le provincie di Caserta e di Bari nella gestione dei summentovati tronchi stradali.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 maggio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. ZANARDELLI.   
-  
-  
+Dalla data suddetta subentreranno all'Amministrazione dello Stato rispettivamente le provincie di Caserta e di Bari nella gestione dei summentovati tronchi stradali. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 maggio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. ZANARDELLI.

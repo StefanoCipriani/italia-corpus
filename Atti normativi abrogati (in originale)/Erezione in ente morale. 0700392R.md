@@ -1,18 +1,15 @@
-REGIO DECRETO 20 agosto 1907 n. CCCXCII
+---
+tipo: REGIO DECRETO
+numero: CCCXCII
+data: 1907-08-20
+titolo: "Erezione in ente morale. (0700392R)"
+urn: urn:nir:stato:regio.decreto:1907-08-20;392
+codice_redazionale: 0700392R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 agosto 1907 n. CCCXCII
-=======================================
-
-Erezione in ente morale. (0700392R)
------------------------------------
-
-Entrata in vigore del provvedimento: 29/10/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCXCII (Dato a Sant'Anna di Valdieri, il 20 agosto 1907), col quale il ricovero di mendicita' «Umberto I» di Eboli (Salerno), e' eretto in ente morale ed e' approvato lo statuto organico relativo.   
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCXCII (Dato a Sant'Anna di Valdieri, il 20 agosto 1907), col quale il ricovero di mendicita' «Umberto I» di Eboli (Salerno), e' eretto in ente morale ed e' approvato lo statuto organico relativo.

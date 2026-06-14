@@ -1,16 +1,14 @@
-REGIO DECRETO 07 dicembre 1879 n. 5189
-
-
-REGIO DECRETO 07 dicembre 1879 n. 5189
-======================================
-
-Che autorizza la radiazione del piroscafo Giglio dal quadro del regio naviglio. (079U5189)
-------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/01/1880
+---
+tipo: REGIO DECRETO
+numero: 5189
+data: 1879-12-07
+titolo: "Che autorizza la radiazione del piroscafo Giglio dal quadro del regio naviglio. (079U5189)"
+urn: urn:nir:stato:regio.decreto:1879-12-07;5189
+codice_redazionale: 079U5189
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,24 +16,17 @@ RE D'ITALIA
 
 Sulla proposta del Nostro Ministro della Marina,
 
-Sentito
--------
+Sentito il parere del Consiglio Superiore di Marina, Abbiamo decretato e decretiamo:
 
-il parere del Consiglio Superiore di Marina, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 dicembre 1879.   
-  
-UMBERTO.   
-  
-F. Acton.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 dicembre 1879. 
+ 
+ UMBERTO. 
+ 
+ F. Acton. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

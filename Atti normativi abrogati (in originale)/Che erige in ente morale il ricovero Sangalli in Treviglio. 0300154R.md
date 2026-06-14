@@ -1,21 +1,17 @@
-REGIO DECRETO 03 maggio 1903 n. CLIV
+---
+tipo: REGIO DECRETO
+numero: CLIV
+data: 1903-05-03
+titolo: "Che erige in ente morale il ricovero Sangalli in Treviglio. (0300154R)"
+urn: urn:nir:stato:regio.decreto:1903-05-03;154
+codice_redazionale: 0300154R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 maggio 1903 n. CLIV
-====================================
-
-Che erige in ente morale il ricovero Sangalli in Treviglio. (0300154R)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/06/1903
-
-Art. 1
-------
-
-  
-Con cui il ricovero Sangalli in Treviglio viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei Conti addi' 16 maggio 1903.   
-  
-Reg. 9. Atti del Governo a f. 147.   
-  
+Con cui il ricovero Sangalli in Treviglio viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei Conti addi' 16 maggio 1903. 
+ 
+ Reg. 9. Atti del Governo a f. 147.

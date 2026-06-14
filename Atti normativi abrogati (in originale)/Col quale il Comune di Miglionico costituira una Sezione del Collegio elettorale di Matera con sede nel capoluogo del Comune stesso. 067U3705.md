@@ -1,32 +1,27 @@
-REGIO DECRETO 15 maggio 1867 n. 3705
+---
+tipo: REGIO DECRETO
+numero: 3705
+data: 1867-05-15
+titolo: "Col quale il Comune di Miglionico costituira' una Sezione del Collegio elettorale di Matera, con sede nel capoluogo del Comune stesso. (067U3705)"
+urn: urn:nir:stato:regio.decreto:1867-05-15;3705
+codice_redazionale: 067U3705
+vigente: true
+---
 
+## Articolo unico.
 
-REGIO DECRETO 15 maggio 1867 n. 3705
-====================================
-
-Col quale il Comune di Miglionico costituira' una Sezione del Collegio elettorale di Matera, con sede nel capoluogo del Comune stesso. (067U3705)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/06/1867
-
-Articolo unico
---------------
-
-  
-  
-Gli elettori iscritti nelle liste elettorali politiche del Comune di Miglionico costituiranno d'ora in poi una Sezione del Collegio elettorale di Matera n. 53, la quale avra' sede nel capoluogo del Comune stesso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 15 maggio 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 22 maggio 1867   
-  
-Reg. 40 Atti del Governo a c. 56. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Tecchio.   
-  
-U. Rattazzi.   
-  
+Gli elettori iscritti nelle liste elettorali politiche del Comune di Miglionico costituiranno d'ora in poi una Sezione del Collegio elettorale di Matera n. 53, la quale avra' sede nel capoluogo del Comune stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 15 maggio 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 22 maggio 1867 
+ 
+ Reg. 40 Atti del Governo a c. 56. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Tecchio. 
+ 
+ U. Rattazzi.

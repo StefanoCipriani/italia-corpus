@@ -1,17 +1,17 @@
-REGIO DECRETO 23 ottobre 1919 n. 2426
+---
+tipo: REGIO DECRETO
+numero: 2426
+data: 1919-10-23
+titolo: "Aumenti di contributi scolastici dovuti da Comuni allo Stato (019U2426)"
+urn: urn:nir:stato:regio.decreto:1919-10-23;2426
+codice_redazionale: 019U2426
+vigente: true
+---
 
-
-REGIO DECRETO 23 ottobre 1919 n. 2426
-=====================================
-
-Aumenti di contributi scolastici dovuti da Comuni allo Stato (019U2426)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/01/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2426. Regio decreto 23 ottobre 1919, col quale, sulla proposta del ministro della istruzione pubblica, il contributo scolastico, gia' consolidato a carico del comune di Roccafluvione (Ascoli Piceno), a norma dell'[art. 17 della legge 4 giugno 1911, num. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487~art17), in L. 4146,45, e' elevato a L. 5346,45, a datare dal 1° luglio 1918.
+2426.
+
+Regio decreto 23 ottobre 1919, col quale, sulla proposta del ministro della istruzione pubblica, il contributo scolastico, gia' consolidato a carico del comune di Roccafluvione (Ascoli Piceno), a norma dell'[art. 17 della legge 4 giugno 1911, num. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), in L. 4146,45, e' elevato a L. 5346,45, a datare dal 1° luglio 1918.

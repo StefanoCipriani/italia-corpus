@@ -1,16 +1,14 @@
-REGIO DECRETO 12 maggio 1889 n. 6090
-
-
-REGIO DECRETO 12 maggio 1889 n. 6090
-====================================
-
-Che approva l'iscrizione di tre linee nell'elenco delle strade provinciali di Napoli e il tracciamento generale di due strade. (089U6090)
------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/06/1889
+---
+tipo: REGIO DECRETO
+numero: 6090
+data: 1889-05-12
+titolo: "Che approva l'iscrizione di tre linee nell'elenco delle strade provinciali di Napoli e il tracciamento generale di due strade. (089U6090)"
+urn: urn:nir:stato:regio.decreto:1889-05-12;6090
+codice_redazionale: 089U6090
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -40,33 +38,22 @@ Che la divergenza insorta tra l'Ufficio del Genio civile di Napoli e quello Tecn
 
 Visti gli articoli 14 e 25 della legge sui lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvata l'iscrizione nell'elenco delle strade provinciali di Napoli delle tre linee di sopra indicate.
 
-  
-  
-E' approvata l'iscrizione nell'elenco delle strade provinciali di Napoli delle tre linee di sopra indicate.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' pure approvato il tracciamento generale della strada Pagliara-Caprile e quello della strada Massalubrense Marina a forma delle prodotte planimetrie, che saranno munite del visto del Nostro Ministro Segretarie di Stato pei Lavori Pubblici.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 maggio 1889.   
-  
-UMBERTO.   
-  
-G. Finali.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+E' pure approvato il tracciamento generale della strada Pagliara-Caprile e quello della strada Massalubrense Marina a forma delle prodotte planimetrie, che saranno munite del visto del Nostro Ministro Segretarie di Stato pei Lavori Pubblici. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 maggio 1889. 
+ 
+ UMBERTO. 
+ 
+ G. Finali. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

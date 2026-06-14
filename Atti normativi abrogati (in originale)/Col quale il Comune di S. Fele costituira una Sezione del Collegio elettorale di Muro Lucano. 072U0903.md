@@ -1,16 +1,14 @@
-REGIO DECRETO 23 giugno 1872 n. 903
-
-
-REGIO DECRETO 23 giugno 1872 n. 903
-===================================
-
-Col quale il Comune di S. Fele costituira' una Sezione del Collegio elettorale di Muro Lucano. (072U0903)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/08/1872
+---
+tipo: REGIO DECRETO
+numero: 903
+data: 1872-06-23
+titolo: "Col quale il Comune di S. Fele costituira' una Sezione del Collegio elettorale di Muro Lucano. (072U0903)"
+urn: urn:nir:stato:regio.decreto:1872-06-23;903
+codice_redazionale: 072U0903
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,24 +24,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di San Fele costituira' d'ora in poi una sezione del Collegio elettorale di Muro Lucano, n. 52, con sede nel capoluogo del comune stesso, ferma rimanendo la sezione principale a Bella.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 23 giugno 1872.   
-  
-VITTORIO EMANUELE.   
-  
-G. LANZA.   
-  
-  
+Il comune di San Fele costituira' d'ora in poi una sezione del Collegio elettorale di Muro Lucano, n. 52, con sede nel capoluogo del comune stesso, ferma rimanendo la sezione principale a Bella. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 23 giugno 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. LANZA.

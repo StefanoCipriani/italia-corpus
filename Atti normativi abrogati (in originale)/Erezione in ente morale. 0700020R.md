@@ -1,19 +1,15 @@
-REGIO DECRETO 10 gennaio 1907 n. XX
+---
+tipo: REGIO DECRETO
+numero: XX
+data: 1907-01-10
+titolo: "Erezione in ente morale. (0700020R)"
+urn: urn:nir:stato:regio.decreto:1907-01-10;20
+codice_redazionale: 0700020R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 gennaio 1907 n. XX
-===================================
-
-Erezione in ente morale. (0700020R)
------------------------------------
-
-Entrata in vigore del provvedimento: 10/03/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. XX (Dato a Roma, il 10 gennaio 1907), col quale si provvede all'erezione in ente morale dell'Opera pia Canfora, esistente in Aversa, ed al contemporaneo suo concentramento nella Congregazione di carita' di quel Comune.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. XX (Dato a Roma, il 10 gennaio 1907), col quale si provvede all'erezione in ente morale dell'Opera pia Canfora, esistente in Aversa, ed al contemporaneo suo concentramento nella Congregazione di carita' di quel Comune.

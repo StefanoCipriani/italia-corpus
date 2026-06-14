@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 15 ottobre 1936 n. 1996
-
-
-REGIO DECRETO-LEGGE 15 ottobre 1936 n. 1996
-===========================================
-
-Aumento degli organici degli ufficiali del Regio esercito. (036U1996)
----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/10/1936.  
-Regio Decreto-Legge convertito dalla [L. 10 febbraio 1937, n. 420](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-02-10;420) (in G.U. 14/04/1937, n.87).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1996
+data: 1936-10-15
+titolo: "Aumento degli organici degli ufficiali del Regio esercito. (036U1996)"
+urn: urn:nir:stato:regio.decreto.legge:1936-10-15;1996
+codice_redazionale: 036U1996
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -25,58 +22,43 @@ Visto il R. decreto-legge 11 ottobre 1934-XII, n. 1723, concernente l'aggiorname
 
 Ritenuta la necessita' urgente ed assoluta di aumentate gli organici degli ufficiali del Regio esercito, anche in relazione alle maggiori esigenze imposte dall'ordinamento militare dell'Africa Orientale Italiana;
 
-Visto l'[art. 3, n. 2, della legge 31 gennaio 1926-1V, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100~art3-num2);
+Visto l'[art. 3, n. 2, della legge 31 gennaio 1926-1V, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I. - Ufficiali generali. 
+ Generali di corpo d'armata 1 
+ Generali di divisione 3 
+ Generali di brigata 5 
+ 
+ II. - Ufficiali delle varie armi e corpi 
+ 
+ Parte di provvedimento in formato grafico
 
-  
-I. - Ufficiali generali.   
-Generali di corpo d'armata 1   
-Generali di divisione 3   
-Generali di brigata 5   
-  
-II. - Ufficiali delle varie armi e corpi   
-  
-Parte di provvedimento in formato grafico  
+## Art. 2.
 
-Art. 2
-------
+Con successive disposizioni legislative sara' provveduto a coordinare le vigenti leggi sull'ordinamento e sull'avanzamento con le disposizioni contenute nel presente decreto.
 
-  
-  
-Con successive disposizioni legislative sara' provveduto a coordinare le vigenti leggi sull'ordinamento e sull'avanzamento con le disposizioni contenute nel presente decreto.   
-  
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il presente decreto entrera' in vigore dal 1° ottobre 1936-XIV e sara' presentato al Parlamento per la conversione in legge.   
-  
-Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi 15 ottobre 1936 - Anno XIV   
-  
-VITTORIO EMANUELE.   
-  
-MUSSOLINI - DI REVEL.   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte del conti, addi 21 novembre 1936 - Anno XV   
-  
-Atti del Governo, registro 379, foglio 108. - MANCINI.   
-  
-  
+Il presente decreto entrera' in vigore dal 1° ottobre 1936-XIV e sara' presentato al Parlamento per la conversione in legge. 
+ 
+ Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi 15 ottobre 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE. 
+ 
+ MUSSOLINI - DI REVEL. 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte del conti, addi 21 novembre 1936 - Anno XV 
+ 
+ Atti del Governo, registro 379, foglio 108. - MANCINI.

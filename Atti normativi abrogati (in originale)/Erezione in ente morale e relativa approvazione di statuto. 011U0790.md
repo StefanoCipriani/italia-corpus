@@ -1,19 +1,15 @@
-REGIO DECRETO 21 maggio 1911 n. 790
+---
+tipo: REGIO DECRETO
+numero: 790
+data: 1911-05-21
+titolo: "Erezione in ente morale e relativa approvazione di statuto. (011U0790)"
+urn: urn:nir:stato:regio.decreto:1911-05-21;790
+codice_redazionale: 011U0790
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 maggio 1911 n. 790
-===================================
-
-Erezione in ente morale e relativa approvazione di statuto. (011U0790)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/08/1911
-
-Art. 1
-------
-
-  
-N. 790   
-  
-R. decreto 21 maggio 1911, col quale, sulla proposta del ministro dell'interno, l'ospedale israelitico di Roma Beth-Aholim, e' eretto in ente morale e ne e' approvato lo statuto organico.   
-  
+N. 790 
+ 
+ R. decreto 21 maggio 1911, col quale, sulla proposta del ministro dell'interno, l'ospedale israelitico di Roma Beth-Aholim, e' eretto in ente morale e ne e' approvato lo statuto organico.

@@ -1,16 +1,14 @@
-REGIO DECRETO 08 marzo 1874 n. 1884
-
-
-REGIO DECRETO 08 marzo 1874 n. 1884
-===================================
-
-Concede la facolta' di derivare acque e di occupare tratti di spiaggia. (074U1884)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/05/1874
+---
+tipo: REGIO DECRETO
+numero: 1884
+data: 1874-03-08
+titolo: "Concede la facolta' di derivare acque e di occupare tratti di spiaggia. (074U1884)"
+urn: urn:nir:stato:regio.decreto:1874-03-08;1884
+codice_redazionale: 074U1884
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,34 +20,19 @@ Visto l'elenco in cui trovansi descritte numero 12 domande dirette ad ottenere l
 
 Viste le inchieste amministrative regolarmente istrutte per ciascuna delle relative domande, dalle quali risulta che le derivazioni ed occupazioni richieste non recano alcun pregiudizio al buon governo si' della pubblica come della privata proprieta', quando si osservino le opportune cautele;
 
-Udito
------
+Udito il parere del Consiglio di Stato, Abbiamo decretato e decretiamo quanto segue:
 
-il parere del Consiglio di Stato, Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' concesso, senza pregiudizio di legittimi diritti di terzi, agli individui indicati nell'annesso elenco (\*), vidimato d'ordine Nostro dal Presidente del Consiglio de' Ministri, Ministro delle Finanze, di poter derivare le acque ed occupare le aree di spiaggia ivi descritte, ciascuno per l'uso, la durata e l'annua prestazione nello elenco stesso notati, e sotto l'osservanza delle altre condizioni contenute nei singoli atti all'uopo stipulati.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 marzo 1874.   
-  
-VITTORIO EMANUELE.   
-  
-M. Minghetti.   
-  
----------------   
-(\* Vedi l'elenco in terza pagina)   
-  
-
-Elenco
-
-  
-ELENCO di numero 12 domande dirette ad ottenere la facolta' di praticare ad uso privato alcune derivazioni d'acqua da fiumi e torrenti del pubblico Demanio e da canali demaniali, e di occupare altresi' ad uso privato alcuni tratti di spiaggia, annesso al Reale decreto dell'8 marzo 1874.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=074U188400100010110001&dgu=1874-05-08&art.dataPubblicazioneGazzetta=1874-05-08&art.codiceRedazionale=074U1884)
-  
+E' concesso, senza pregiudizio di legittimi diritti di terzi, agli individui indicati nell'annesso elenco (*), vidimato d'ordine Nostro dal Presidente del Consiglio de' Ministri, Ministro delle Finanze, di poter derivare le acque ed occupare le aree di spiaggia ivi descritte, ciascuno per l'uso, la durata e l'annua prestazione nello elenco stesso notati, e sotto l'osservanza delle altre condizioni contenute nei singoli atti all'uopo stipulati. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 marzo 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. Minghetti. 
+ 
+ --------------- 
+ (* Vedi l'elenco in terza pagina)

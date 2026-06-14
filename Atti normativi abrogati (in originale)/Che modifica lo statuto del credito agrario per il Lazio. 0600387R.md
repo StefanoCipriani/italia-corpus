@@ -1,17 +1,13 @@
-REGIO DECRETO 16 agosto 1906 n. CCCLXXXVII
+---
+tipo: REGIO DECRETO
+numero: CCCLXXXVII
+data: 1906-08-16
+titolo: "Che modifica lo statuto del credito agrario per il Lazio. (0600387R)"
+urn: urn:nir:stato:regio.decreto:1906-08-16;387
+codice_redazionale: 0600387R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 agosto 1906 n. CCCLXXXVII
-==========================================
-
-Che modifica lo statuto del credito agrario per il Lazio. (0600387R)
---------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/11/1906
-
-Art. 1
-------
-
-  
-Col quale si modifica lo statuto organico del «Credito agrario per il Lazio».   
-  
+Col quale si modifica lo statuto organico del «Credito agrario per il Lazio».

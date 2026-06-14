@@ -1,16 +1,14 @@
-REGIO DECRETO 13 giugno 1942 n. 845
-
-
-REGIO DECRETO 13 giugno 1942 n. 845
-===================================
-
-Norme transitorie per la promozione al grado 7° del gruppo del ruolo dell'Amministrazione provinciale del Tesoro. (042U0845)
-----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/08/1942
+---
+tipo: REGIO DECRETO
+numero: 845
+data: 1942-06-13
+titolo: "Norme transitorie per la promozione al grado 7° del gruppo del ruolo dell'Amministrazione provinciale del Tesoro. (042U0845)"
+urn: urn:nir:stato:regio.decreto:1942-06-13;845
+codice_redazionale: 042U0845
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -36,28 +34,22 @@ Sentito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-In corrispondenza ai posti attualmente disponibili o che si renderanno tali sino al 30 giugno 1943-XXI nel grado 7° nel ruolo di gruppo A del personale dell'Amministrazione provinciale del Tesoro e che non possano conferirsi ai funzionari del grado immediatamente inferiore dello stesso ruolo, puo' farsi luogo ad altrettante promozioni in soprannumero al grado 7° nel ruolo di gruppo B del personale di detta Amministrazione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 13 giugno 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 1° agosto 1942-XX   
-  
-Atti del Governo, registro n. 448, foglio 2. - MANCINI   
+In corrispondenza ai posti attualmente disponibili o che si renderanno tali sino al 30 giugno 1943-XXI nel grado 7° nel ruolo di gruppo A del personale dell'Amministrazione provinciale del Tesoro e che non possano conferirsi ai funzionari del grado immediatamente inferiore dello stesso ruolo, puo' farsi luogo ad altrettante promozioni in soprannumero al grado 7° nel ruolo di gruppo B del personale di detta Amministrazione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 13 giugno 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 1° agosto 1942-XX 
+ 
+ Atti del Governo, registro n. 448, foglio 2. - MANCINI

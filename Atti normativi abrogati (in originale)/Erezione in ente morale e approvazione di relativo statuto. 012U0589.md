@@ -1,19 +1,15 @@
-REGIO DECRETO 30 maggio 1912 n. 589
+---
+tipo: REGIO DECRETO
+numero: 589
+data: 1912-05-30
+titolo: "Erezione in ente morale e approvazione di relativo statuto. (012U0589)"
+urn: urn:nir:stato:regio.decreto:1912-05-30;589
+codice_redazionale: 012U0589
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 maggio 1912 n. 589
-===================================
-
-Erezione in ente morale e approvazione di relativo statuto. (012U0589)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/07/1912
-
-Art. 1
-------
-
-  
-N. 589   
-  
-Regio Decreto 30 maggio 1912, col quale, sulla proposta del ministro dell'interno, l'asilo infantile di Pralormo e' eretto in ente morale e ne e' approvato lo statuto organico.   
-  
+N. 589 
+ 
+ Regio Decreto 30 maggio 1912, col quale, sulla proposta del ministro dell'interno, l'asilo infantile di Pralormo e' eretto in ente morale e ne e' approvato lo statuto organico.

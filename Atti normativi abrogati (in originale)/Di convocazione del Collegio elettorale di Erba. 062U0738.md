@@ -1,16 +1,14 @@
-REGIO DECRETO 06 agosto 1862 n. 738
-
-
-REGIO DECRETO 06 agosto 1862 n. 738
-===================================
-
-Di convocazione del Collegio elettorale di Erba. (062U0738)
------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/08/1862
+---
+tipo: REGIO DECRETO
+numero: 738
+data: 1862-08-06
+titolo: "Di convocazione del Collegio elettorale di Erba. (062U0738)"
+urn: urn:nir:stato:regio.decreto:1862-08-06;738
+codice_redazionale: 062U0738
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONI
 
@@ -20,31 +18,24 @@ Veduto il Messaggio in data del 2 agosto, col quale l'Ufficio di Presidenza dell
 
 Veduto l'articolo 63 della legge elettorale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Collegio elettorale di Erba, n.° 139, e' convocato pel giorno 31 del corrente mese onde procedere alla elezione del proprio Deputato.   
-  
-Occorrendo una seconda votazione, essa avra' luogo il giorno 4 settembre p. v.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Torino addi' 6 agosto 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 11 agosto 1862   
-  
-Reg.° 20 Atti del Governo a c. 174. Wehrlin.   
-  
-Luogo del sigillo. V. Il Guardasigilli R. Conforti.   
-  
-U. Rattazzi.   
-  
+Collegio elettorale di Erba, n.° 139, e' convocato pel giorno 31 del corrente mese onde procedere alla elezione del proprio Deputato. 
+ 
+ Occorrendo una seconda votazione, essa avra' luogo il giorno 4 settembre p. v. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Torino addi' 6 agosto 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 11 agosto 1862 
+ 
+ Reg.° 20 Atti del Governo a c. 174. Wehrlin. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ U. Rattazzi.

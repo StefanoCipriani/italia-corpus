@@ -1,19 +1,15 @@
-REGIO DECRETO 17 giugno 1906 n. CCC
+---
+tipo: REGIO DECRETO
+numero: CCC
+data: 1906-06-17
+titolo: "Trasformazione di Monte frumentario. (0600300R)"
+urn: urn:nir:stato:regio.decreto:1906-06-17;300
+codice_redazionale: 0600300R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 giugno 1906 n. CCC
-===================================
-
-Trasformazione di Monte frumentario. (0600300R)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/09/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCC (Dato a Roma, il 17 giugno 1906), col quale il Monte frumentario di San Pietro al Tanagro (Salerno) fu trasformato in Cassa di prestanze agrarie e col quale altresi' si approvo' lo statuto organico del nuovo ente.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCC (Dato a Roma, il 17 giugno 1906), col quale il Monte frumentario di San Pietro al Tanagro (Salerno) fu trasformato in Cassa di prestanze agrarie e col quale altresi' si approvo' lo statuto organico del nuovo ente.

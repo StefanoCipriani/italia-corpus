@@ -1,16 +1,14 @@
-REGIO DECRETO 26 dicembre 1875 n. 2887
-
-
-REGIO DECRETO 26 dicembre 1875 n. 2887
-======================================
-
-che istituisce in Modena una commissione conservatrice dei monumenti e delle opere d'arte di quella provincia (075U2887)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/02/1876
+---
+tipo: REGIO DECRETO
+numero: 2887
+data: 1875-12-26
+titolo: "che istituisce in Modena una commissione conservatrice dei monumenti e delle opere d'arte di quella provincia (075U2887)"
+urn: urn:nir:stato:regio.decreto:1875-12-26;2887
+codice_redazionale: 075U2887
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,31 +18,20 @@ Visto il Nostro decreto 7 agosto 1874, n. 2032;
 
 Visto l'altro Nostro decreto del 14 novembre 1875, n.2789, che scioglie la Commissione per la conservazione dei lavori pregievoli di belle arti dell'Emilia;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' instituita in Modena una Commissione conservatrice dei monumenti e delle opere d'arte di quella provincia, colle facolta' ed incumbenze stabilite dal decreto 7 agosto 1874.
 
-  
-  
-E' instituita in Modena una Commissione conservatrice dei monumenti e delle opere d'arte di quella provincia, colle facolta' ed incumbenze stabilite dal decreto 7 agosto 1874.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Detta Commissione sara' composta di sei commissari, tre eletti dal Governo e tre dal Consiglio provinciale, oltre il prefetto che ne sara' il presidente, il quale nominera' un impiegato della Prefettura a compiere l'ufficio di segretario.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello sia inserto nella Raccolta ufficiale delle leggi dei decreti de1 Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 26 dicembre 1875.   
-  
-VITTORIO EMANUELE.   
-  
-R. Bonghi.   
-  
+Detta Commissione sara' composta di sei commissari, tre eletti dal Governo e tre dal Consiglio provinciale, oltre il prefetto che ne sara' il presidente, il quale nominera' un impiegato della Prefettura a compiere l'ufficio di segretario. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello sia inserto nella Raccolta ufficiale delle leggi dei decreti de1 Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 dicembre 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ R. Bonghi.

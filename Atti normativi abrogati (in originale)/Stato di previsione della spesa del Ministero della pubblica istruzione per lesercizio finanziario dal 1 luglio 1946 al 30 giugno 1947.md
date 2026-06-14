@@ -1,51 +1,29 @@
-DECRETO LEGISLATIVO DEL CAPO PROVVISORIO DELLO STATO 06 settembre 1946 n. 130
-
-
-DECRETO LEGISLATIVO DEL CAPO PROVVISORIO DELLO STATO 06 settembre 1946 n. 130
-=============================================================================
-
-Stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario dal 1° luglio 1946 al 30 giugno 1947.
------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: DECRETO LEGISLATIVO DEL CAPO PROVVISORIO DELLO STATO
+numero: 130
+data: 1946-09-06
+titolo: "Stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario dal 1° luglio 1946 al 30 giugno 1947."
+urn: urn:nir:stato:decreto.legislativo.del.capo.provvisorio.dello.stato:1946-09-06;130
+codice_redazionale: 046U0130
+vigente: true
+---
 
 IL CAPO PROVVISORIO DELLO STATO
--------------------------------
 
-Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
+Visto il [decreto legislativo luogotenenziale 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98);
 
-Visto l'[art. 4 del decreto legislativo Presidenziale 19 giugno 1946, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1~art4);
+Visto l'[art. 4 del decreto legislativo Presidenziale 19 giugno 1946, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-19;1#art_4);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta dei Ministro Segretario di Stato per il tesoro; HA SANZIONATO E PROMULGA:
 
-proposta dei Ministro Segretario di Stato per il tesoro; HA SANZIONATO E PROMULGA:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Governo e' autorizzato a far pagare le spese ordinarie e straordinarie del Ministero della pubblica istruzione per l'esercizio dal 1° luglio 1946 al 30 giugno 1947, in conformita' dello stato di previsione annesso alla presente legge.  
-  
+Il Governo e' autorizzato a far pagare le spese ordinarie e straordinarie del Ministero della pubblica istruzione per l'esercizio dal 1° luglio 1946 al 30 giugno 1947, in conformita' dello stato di previsione annesso alla presente legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' insorto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 6 settembre 1946
+Dato a Roma, addi' 6 settembre 1946
 
-DE NICOLA DE GASPERI - CORBINO
-
-Visto, il Guardasigilli: GULLO
-
-Registrato alla Corte dei conti, addi' 30 settembre 1946
-
-Atti del Governo, registro n. 1, foglio n. 115. - GALEANI
-
-Stato di previsione
-
-Stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio Finanziario dal 1° luglio 1946 al 30 giugno 1947   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=046U013000100010110001&dgu=1946-09-30&art.dataPubblicazioneGazzetta=1946-09-30&art.codiceRedazionale=046U0130)
-  
+DE NICOLA DE GASPERI - CORBINO Visto, il Guardasigilli: GULLO Registrato alla Corte dei conti, addi' 30 settembre 1946 Atti del Governo, registro n. 1, foglio n. 115. - GALEANI

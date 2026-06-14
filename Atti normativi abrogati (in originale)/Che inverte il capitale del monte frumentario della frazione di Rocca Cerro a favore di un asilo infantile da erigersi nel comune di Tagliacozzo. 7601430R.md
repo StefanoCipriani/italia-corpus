@@ -1,48 +1,35 @@
-REGIO DECRETO 09 novembre 1876 n. MCCCCXXX
+---
+tipo: REGIO DECRETO
+numero: MCCCCXXX
+data: 1876-11-09
+titolo: "Che inverte il capitale del monte frumentario della frazione di Rocca Cerro a favore di un asilo infantile da erigersi nel comune di Tagliacozzo. (7601430R)"
+urn: urn:nir:stato:regio.decreto:1876-11-09;1430
+codice_redazionale: 7601430R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 novembre 1876 n. MCCCCXXX
-==========================================
+Il monte frumentario di Rocca Cerro, frazione del comune di Tagliacozzo (Aquila), e' soppresso.
 
-Che inverte il capitale del monte frumentario della frazione di Rocca Cerro a favore di un asilo infantile da erigersi nel comune di Tagliacozzo. (7601430R)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 02/01/1877
+Il capitale e le rendite del monte soppresso verranno convertite a pro dell'asilo d'infanzia, da fondarsi nel comune di Tagliacozzo.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Il monte frumentario di Rocca Cerro, frazione del comune di Tagliacozzo (Aquila), e' soppresso.   
-  
-
-Art. 2
-------
-
-  
-  
-Il capitale e le rendite del monte soppresso verranno convertite a pro dell'asilo d'infanzia, da fondarsi nel comune di Tagliacozzo.   
-  
-
-Art. 3
-------
-
-  
-  
-Entro breve termine verra' presentato alla nostra approvazione il relativo statuto organico.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 9 novembre 1876.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 2 dicembre 1876   
-  
-Vol. 88 Atti del Governo a c. 284. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Mancini.   
-  
-G. Nicotera.   
-  
+Entro breve termine verra' presentato alla nostra approvazione il relativo statuto organico. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 9 novembre 1876. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 2 dicembre 1876 
+ 
+ Vol. 88 Atti del Governo a c. 284. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Mancini. 
+ 
+ G. Nicotera.

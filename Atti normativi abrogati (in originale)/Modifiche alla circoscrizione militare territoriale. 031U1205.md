@@ -1,19 +1,19 @@
-REGIO DECRETO 18 giugno 1931 n. 1205
+---
+tipo: REGIO DECRETO
+numero: 1205
+data: 1931-06-18
+titolo: "Modifiche alla circoscrizione militare territoriale. (031U1205)"
+urn: urn:nir:stato:regio.decreto:1931-06-18;1205
+codice_redazionale: 031U1205
+vigente: true
+---
 
-
-REGIO DECRETO 18 giugno 1931 n. 1205
-====================================
-
-Modifiche alla circoscrizione militare territoriale. (031U1205)
----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/10/1931
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1205. R. decreto 18 giugno 1931, col quale, sulla proposta del Ministro per la guerra, sono apportate modificazioni alla circoscrizione militare territoriale.   
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 28 settembre 1931 - Anno IX
+1205.
+
+R. decreto 18 giugno 1931, col quale, sulla proposta del Ministro per la guerra, sono apportate modificazioni alla circoscrizione militare territoriale. 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 28 settembre 1931 - Anno IX

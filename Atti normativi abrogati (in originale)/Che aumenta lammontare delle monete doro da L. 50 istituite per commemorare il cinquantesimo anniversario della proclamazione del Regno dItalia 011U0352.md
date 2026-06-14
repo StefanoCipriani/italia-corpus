@@ -1,16 +1,14 @@
-REGIO DECRETO 06 aprile 1911 n. 352
-
-
-REGIO DECRETO 06 aprile 1911 n. 352
-===================================
-
-Che aumenta l'ammontare delle monete d'oro da L. 50 istituite per commemorare il cinquantesimo anniversario della proclamazione del Regno d'Italia (011U0352)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/05/1911
+---
+tipo: REGIO DECRETO
+numero: 352
+data: 1911-04-06
+titolo: "Che aumenta l'ammontare delle monete d'oro da L. 50 istituite per commemorare il cinquantesimo anniversario della proclamazione del Regno d'Italia (011U0352)"
+urn: urn:nir:stato:regio.decreto:1911-04-06;352
+codice_redazionale: 011U0352
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,25 +20,18 @@ Considerata la opportunita' di aumentare il contingente di monete d'oro da L. 50
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'ammontare delle monete d'oro da L. 50 istituite col [R. decreto del 20 novembre 1910, n. 830](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-11-20;830), per commemorare il cinquantesimo anniversario della proclamazione del Regno d'Italia, e' portato da L. 500,000 a L. 1,000,000, pari a n. 20,000 pezzi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 aprile 1911.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti - Tedesco.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+L'ammontare delle monete d'oro da L. 50 istituite col [R. decreto del 20 novembre 1910, n. 830](Che%20istituisce%20una%20moneta%20nazionale%20commemorativa%20del%20cinquantenario%20della%20proclamazione%20del%20Regno%20dItalia.%20010U0830.md), per commemorare il cinquantesimo anniversario della proclamazione del Regno d'Italia, e' portato da L. 500,000 a L. 1,000,000, pari a n. 20,000 pezzi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 aprile 1911. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti - Tedesco. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

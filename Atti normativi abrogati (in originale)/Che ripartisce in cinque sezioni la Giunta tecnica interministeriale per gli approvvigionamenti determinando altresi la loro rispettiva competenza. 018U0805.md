@@ -1,101 +1,55 @@
-DECRETO LUOGOTENENZIALE 09 giugno 1918 n. 805
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 805
+data: 1918-06-09
+titolo: "Che ripartisce in cinque sezioni la Giunta tecnica interministeriale per gli approvvigionamenti, determinando altresi' la loro rispettiva competenza. (018U0805)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-06-09;805
+codice_redazionale: 018U0805
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 09 giugno 1918 n. 805
-=============================================
+La Giunta tecnica interministeriale per gli approvvigionamenti, e' divisa in cinque sezioni.
 
-Che ripartisce in cinque sezioni la Giunta tecnica interministeriale per gli approvvigionamenti, determinando altresi' la loro rispettiva competenza. (018U0805)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 22/06/1918
+La sezione prima (adunanza plenaria) disimpegna le funzioni previste dal decreto Ministeriale 14 gennaio 1918, pubblicato nella Gazzetta ufficiale del 23 stesso mese, nei riguardi degli approvvigionamenti dello Stato. Nulla e' innovato nella costituzione e nel funzionamento della Giunta per queste sue attribuzioni.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-  
-La Giunta tecnica interministeriale per gli approvvigionamenti, e' divisa in cinque sezioni.   
-  
+Le sezioni II, III, IV e V sono chiamate a dare i pareri per i permessi di importazione previsti dal [decreto Luogotenenziale 26 maggio 1918, n. 684](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-26;684). Ciascuna di esse, sara' competente per determinate specie di materiali.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-  
-La sezione prima (adunanza plenaria) disimpegna le funzioni previste dal decreto Ministeriale 14 gennaio 1918, pubblicato nella Gazzetta ufficiale del 23 stesso mese, nei riguardi degli approvvigionamenti dello Stato. Nulla e' innovato nella costituzione e nel funzionamento della Giunta per queste sue attribuzioni.   
-  
+Le sezioni, per accelerare e semplificare i loro lavori, possono adottare il sistema dei contingenti per le importazioni di determinate merci.
 
-Art. 3
-------
+## Art. 5.
 
-  
-  
-  
-Le sezioni II, III, IV e V sono chiamate a dare i pareri per i permessi di importazione previsti dal [decreto Luogotenenziale 26 maggio 1918, n. 684](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-05-26;684). Ciascuna di esse, sara' competente per determinate specie di materiali.   
-  
+I pareri delle sezioni per le importazioni sono espressi a maggioranza e resi esecutivi dal visto del ministro del tesoro.
 
-Art. 4
-------
+## Art. 6.
 
-  
-  
-  
-Le sezioni, per accelerare e semplificare i loro lavori, possono adottare il sistema dei contingenti per le importazioni di determinate merci.   
-  
+I permessi di importazione sono validi per 180 giorni dalla data del loro rilascio.
 
-Art. 5
-------
+## Art. 7.
 
-  
-  
-  
-I pareri delle sezioni per le importazioni sono espressi a maggioranza e resi esecutivi dal visto del ministro del tesoro.   
-  
+Le questioni di carattere generale sono esaminate dall'adunanza dei presidenti delle sezioni e dei Comitati sotto la presidenza del ministro o del sottosegretario di Stato.
 
-Art. 6
-------
+## Art. 8.
 
-  
-  
-  
-I permessi di importazione sono validi per 180 giorni dalla data del loro rilascio.   
-  
+Il ministro del tesoro, con sua determinazione, organizzera' un ufficio esecutivo pel rilascio delle licenze d'importazione.
 
-Art. 7
-------
+## Art. 9.
 
-  
-  
-  
-Le questioni di carattere generale sono esaminate dall'adunanza dei presidenti delle sezioni e dei Comitati sotto la presidenza del ministro o del sottosegretario di Stato.   
-  
-
-Art. 8
-------
-
-  
-  
-  
-Il ministro del tesoro, con sua determinazione, organizzera' un ufficio esecutivo pel rilascio delle licenze d'importazione.   
-  
-
-Art. 9
-------
-
-  
-  
-  
-Il presente decreto entrera' in vigore nel giorno successivo a quello della sua pubblicazione sulla Gazzetta ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 giugno 1918.   
-  
-TOMASO DI SAVOIA.   
-  
-Nitti - Sonnino - Meda - Ciuffelli.   
-  
-Visto, Il guardasigilli: Sacchi.   
-  
+Il presente decreto entrera' in vigore nel giorno successivo a quello della sua pubblicazione sulla Gazzetta ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 giugno 1918. 
+ 
+ TOMASO DI SAVOIA. 
+ 
+ Nitti - Sonnino - Meda - Ciuffelli. 
+ 
+ Visto, Il guardasigilli: Sacchi.

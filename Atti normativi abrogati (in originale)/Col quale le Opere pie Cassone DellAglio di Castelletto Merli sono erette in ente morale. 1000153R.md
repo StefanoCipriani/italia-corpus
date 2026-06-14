@@ -1,19 +1,15 @@
-REGIO DECRETO 14 aprile 1910 n. CLIII
+---
+tipo: REGIO DECRETO
+numero: CLIII
+data: 1910-04-14
+titolo: "Col quale le «Opere pie Cassone Dell'Aglio» di Castelletto Merli sono erette in ente morale. (1000153R)"
+urn: urn:nir:stato:regio.decreto:1910-04-14;153
+codice_redazionale: 1000153R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 aprile 1910 n. CLIII
-=====================================
-
-Col quale le «Opere pie Cassone Dell'Aglio» di Castelletto Merli sono erette in ente morale. (1000153R)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/06/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CLIII (Dato a Roma, il 14 aprile 1910), col quale le «Opere pie Cassone Dell'Aglio» di Castelletto Merli sono erette in ente morale e ne sono approvati gli statuti organici.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CLIII (Dato a Roma, il 14 aprile 1910), col quale le «Opere pie Cassone Dell'Aglio» di Castelletto Merli sono erette in ente morale e ne sono approvati gli statuti organici.

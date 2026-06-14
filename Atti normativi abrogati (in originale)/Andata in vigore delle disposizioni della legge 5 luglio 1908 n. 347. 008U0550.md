@@ -1,29 +1,26 @@
-REGIO DECRETO 04 settembre 1908 n. 550
+---
+tipo: REGIO DECRETO
+numero: 550
+data: 1908-09-04
+titolo: "Andata in vigore delle disposizioni della legge 5 luglio 1908, n. 347. (008U0550)"
+urn: urn:nir:stato:regio.decreto:1908-09-04;550
+codice_redazionale: 008U0550
+vigente: true
+---
 
+## Articolo unico.
 
-REGIO DECRETO 04 settembre 1908 n. 550
-======================================
+Le disposizioni della [legge 5 luglio 1908, n. 347](Concernente%20la%20separazione%20del%20comune%20di%20San%20Nicola%20la%20Strada%20dal%20mandamento%20di%20Marcianise%20ed%20aggregazione%20al%20mandamento%20di%20Caserta.%20008U0347.md) avranno effetto dal 1° ottobre
 
-Andata in vigore delle disposizioni della legge 5 luglio 1908, n. 347. (008U0550)
----------------------------------------------------------------------------------
+1908.
 
-Entrata in vigore del provvedimento: 20/10/1908
-
-Articolo unico
---------------
-
-Le disposizioni della [legge 5 luglio 1908, n. 347](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-05;347) avranno effetto dal 1° ottobre
-
-1908. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Vado, addi' 4 settembre 1908.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti.   
-Orlando.   
-  
-Visto, Il guardasigilli: Orlando.
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Vado, addi' 4 settembre 1908. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti. 
+ Orlando. 
+ 
+ Visto, Il guardasigilli: Orlando.

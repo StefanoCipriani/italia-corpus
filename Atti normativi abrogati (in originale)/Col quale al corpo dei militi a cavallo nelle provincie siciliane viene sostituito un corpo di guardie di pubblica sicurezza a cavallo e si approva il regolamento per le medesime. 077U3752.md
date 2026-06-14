@@ -1,16 +1,14 @@
-REGIO DECRETO 27 marzo 1877 n. 3752
-
-
-REGIO DECRETO 27 marzo 1877 n. 3752
-===================================
-
-Col quale al corpo dei militi a cavallo nelle provincie siciliane viene sostituito un corpo di guardie di pubblica sicurezza a cavallo e si approva il regolamento per le medesime. (077U3752)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/05/1877
+---
+tipo: REGIO DECRETO
+numero: 3752
+data: 1877-03-27
+titolo: "Col quale al corpo dei militi a cavallo nelle provincie siciliane viene sostituito un corpo di guardie di pubblica sicurezza a cavallo e si approva il regolamento per le medesime. (077U3752)"
+urn: urn:nir:stato:regio.decreto:1877-03-27;3752
+codice_redazionale: 077U3752
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA'DELLA NAZIONE
 
@@ -28,47 +26,28 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Inter
 
 Sentito il Consiglio di Stato;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il corpo dei militi a cavallo nelle provincie siciliane sara' sciolto e verra' immediatamente sostituito da un corpo di guardie di pubblica sicurezza a cavallo sottoposto alle norme determinate con apposito regolamento.
 
-  
-  
-Il corpo dei militi a cavallo nelle provincie siciliane sara' sciolto e verra' immediatamente sostituito da un corpo di guardie di pubblica sicurezza a cavallo sottoposto alle norme determinate con apposito regolamento.   
-  
+## Art. 2.
 
-Art. 2
-------
+E' approvato a tal fine l'annesso regolamento per il corpo delle guardie di pubblica sicurezza a cavallo, visto d'ordine Nostro dal Ministro dell'Interno.
 
-  
-  
-E' approvato a tal fine l'annesso regolamento per il corpo delle guardie di pubblica sicurezza a cavallo, visto d'ordine Nostro dal Ministro dell'Interno.   
-  
+## Art. 3.
 
-Art. 3
-------
+Il Nostro Ministro Segretario di Stato per gli Affari dell'Interno determinera' l'epoca precisa in cui verranno sciolte le attuali sezioni dei militi per essere surrogate dalle compagnie di guardie di pubblica sicurezza a cavallo.
 
-  
-  
-Il Nostro Ministro Segretario di Stato per gli Affari dell'Interno determinera' l'epoca precisa in cui verranno sciolte le attuali sezioni dei militi per essere surrogate dalle compagnie di guardie di pubblica sicurezza a cavallo.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Con lo scioglimento del corpo dei militi a cavallo cesseranno di avere applicazione i provvedimenti e regolamenti che vi si riferiscono.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 marzo 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Con lo scioglimento del corpo dei militi a cavallo cesseranno di avere applicazione i provvedimenti e regolamenti che vi si riferiscono. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 marzo 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

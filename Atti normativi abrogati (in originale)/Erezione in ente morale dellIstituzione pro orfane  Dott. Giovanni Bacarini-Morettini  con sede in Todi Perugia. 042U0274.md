@@ -1,21 +1,21 @@
-REGIO DECRETO 29 gennaio 1942 n. 274
+---
+tipo: REGIO DECRETO
+numero: 274
+data: 1942-01-29
+titolo: "Erezione in ente morale dell'Istituzione pro orfane « Dott. Giovanni Bacarini-Morettini », con sede in Todi (Perugia). (042U0274)"
+urn: urn:nir:stato:regio.decreto:1942-01-29;274
+codice_redazionale: 042U0274
+vigente: true
+---
 
-
-REGIO DECRETO 29 gennaio 1942 n. 274
-====================================
-
-Erezione in ente morale dell'Istituzione pro orfane « Dott. Giovanni Bacarini-Morettini », con sede in Todi (Perugia). (042U0274)
----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/04/1942
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-274. R. decreto 29 gennaio 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, l'Istituzione pro orfane « Dott. Giovanni Bacarini-Morettini », con sede in Todi (Perugia), viene eretta in ente morale, sotto amministrazione autonoma, e ne viene approvato il relativo statuto organico.   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 26, marzo 1942-XX
+274.
+
+R. decreto 29 gennaio 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, l'Istituzione pro orfane « Dott. Giovanni Bacarini-Morettini », con sede in Todi (Perugia), viene eretta in ente morale, sotto amministrazione autonoma, e ne viene approvato il relativo statuto organico. 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 26, marzo 1942-XX

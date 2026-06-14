@@ -1,19 +1,15 @@
-REGIO DECRETO 17 luglio 1908 n. CCCIII
+---
+tipo: REGIO DECRETO
+numero: CCCIII
+data: 1908-07-17
+titolo: "Riflettente trasformazione di lascito per istruzione. (0800303R)"
+urn: urn:nir:stato:regio.decreto:1908-07-17;303
+codice_redazionale: 0800303R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 luglio 1908 n. CCCIII
-======================================
-
-Riflettente trasformazione di lascito per istruzione. (0800303R)
-----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/09/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCIII (Dato a Racconigi, il 17 luglio 908), col quale i lasciti per l'istruzione elementare inferiore e per il servizio ostetrico, amministrati dalla Congregazione di carita' di Casnigo (Bergamo) sono stati trasformati a favore del locale ospedale di San Giuseppe.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCIII (Dato a Racconigi, il 17 luglio 908), col quale i lasciti per l'istruzione elementare inferiore e per il servizio ostetrico, amministrati dalla Congregazione di carita' di Casnigo (Bergamo) sono stati trasformati a favore del locale ospedale di San Giuseppe.

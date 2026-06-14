@@ -1,17 +1,17 @@
-REGIO DECRETO 28 luglio 1921 n. 1136
+---
+tipo: REGIO DECRETO
+numero: 1136
+data: 1921-07-28
+titolo: "Liquidazione di Cassa di risparmio. (021U1136)"
+urn: urn:nir:stato:regio.decreto:1921-07-28;1136
+codice_redazionale: 021U1136
+vigente: true
+---
 
-
-REGIO DECRETO 28 luglio 1921 n. 1136
-====================================
-
-Liquidazione di Cassa di risparmio. (021U1136)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 17/09/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1136. Regio decreto 28 luglio 1921, col quale, sulla proposta del ministro per l'industria e il commercio, la Cassa di risparmio di Piazzola sul Brenta (Padova), istituita col [R. decreto 8 luglio 1906, n. 249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-07-08;249), viene sciolta e posta in liquidazione.
+1136.
+
+Regio decreto 28 luglio 1921, col quale, sulla proposta del ministro per l'industria e il commercio, la Cassa di risparmio di Piazzola sul Brenta (Padova), istituita col [R. decreto 8 luglio 1906, n. 249](Approvazione%20di%20Cassa%20di%20risparmio.%200600249R.md), viene sciolta e posta in liquidazione.

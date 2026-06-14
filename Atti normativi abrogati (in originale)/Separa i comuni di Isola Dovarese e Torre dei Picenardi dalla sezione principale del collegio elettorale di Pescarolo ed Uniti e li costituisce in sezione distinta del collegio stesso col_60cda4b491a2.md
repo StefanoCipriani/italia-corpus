@@ -1,16 +1,14 @@
-REGIO DECRETO 15 giugno 1877 n. 3888
-
-
-REGIO DECRETO 15 giugno 1877 n. 3888
-====================================
-
-Separa i comuni di Isola Dovarese e Torre dei Picenardi dalla sezione principale del collegio elettorale di Pescarolo ed Uniti e li costituisce in sezione distinta del collegio stesso, colla sede in Isola Dovarese. (077U3888)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/07/1877
+---
+tipo: REGIO DECRETO
+numero: 3888
+data: 1877-06-15
+titolo: "Separa i comuni di Isola Dovarese e Torre dei Picenardi dalla sezione principale del collegio elettorale di Pescarolo ed Uniti e li costituisce in sezione distinta del collegio stesso, colla sede in Isola Dovarese. (077U3888)"
+urn: urn:nir:stato:regio.decreto:1877-06-15;3888
+codice_redazionale: 077U3888
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Isola Dovarese e Torre dei Picenardi sono separati dalla sezione principale del Collegio elettorale di Pescarolo e Uniti, e formeranno una sezione distinta del Collegio stesso colla sede in Isola Dovarese.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Pollenzo, addi' 15 giugno 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+I comuni di Isola Dovarese e Torre dei Picenardi sono separati dalla sezione principale del Collegio elettorale di Pescarolo e Uniti, e formeranno una sezione distinta del Collegio stesso colla sede in Isola Dovarese. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Pollenzo, addi' 15 giugno 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

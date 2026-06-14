@@ -1,16 +1,14 @@
-REGIO DECRETO 26 giugno 1864 n. 1911
-
-
-REGIO DECRETO 26 giugno 1864 n. 1911
-====================================
-
-Che stabilisce la dipendenza delle Casse di Risparmio, dei Monti Frumentari e di Pieta' o Pignorazione. (064U1911)
-------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/10/1864
+---
+tipo: REGIO DECRETO
+numero: 1911
+data: 1864-06-26
+titolo: "Che stabilisce la dipendenza delle Casse di Risparmio, dei Monti Frumentari e di Pieta' o Pignorazione. (064U1911)"
+urn: urn:nir:stato:regio.decreto:1864-06-26;1911
+codice_redazionale: 064U1911
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,40 +24,29 @@ Ritenuta la convenienza di stabilire in modo piu' consentaneo alla citata legge 
 
 Sentito il Consiglio di Stato, e previe le deliberazioni prese in Consiglio dei Ministri a mente dell'art. 11 del Nostro Decreto 21 dicembre 1850;
 
-Sulla
------
+Sulla proposta del Ministro dell'Interno e di quello dell'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Ministro dell'Interno e di quello dell'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I Monti Frumentari e quelli di Pieta' o Pignorazione dipenderanno, senza distinzione di sorta per rispetto alla loro origine, dal Ministero dell'Interno. 
+ 
+ Dipenderanno invece dal Ministero di Agricoltura, Industria e Commercio tutte indistintamente le Casse di Risparmio.
 
-  
-  
-I Monti Frumentari e quelli di Pieta' o Pignorazione dipenderanno, senza distinzione di sorta per rispetto alla loro origine, dal Ministero dell'Interno.   
-  
-Dipenderanno invece dal Ministero di Agricoltura, Industria e Commercio tutte indistintamente le Casse di Risparmio.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Si dichiarano abrogati i Nostri Decreti del 26 gennaio e 21 aprile 1862, ed e' parimente derogato all' art. 2 del Regolamento 27 novembre stesso anno nella parte contraria al disposto del presente Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 26 giugno 1864.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 16 settembre 1864   
-  
-Reg.° 30 Atti del Governo a c. 185. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-U. Peruzzi.   
-Manna.   
-  
+Si dichiarano abrogati i Nostri Decreti del 26 gennaio e 21 aprile 1862, ed e' parimente derogato all' art. 2 del Regolamento 27 novembre stesso anno nella parte contraria al disposto del presente Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 26 giugno 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 16 settembre 1864 
+ 
+ Reg.° 30 Atti del Governo a c. 185. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ U. Peruzzi. 
+ Manna.

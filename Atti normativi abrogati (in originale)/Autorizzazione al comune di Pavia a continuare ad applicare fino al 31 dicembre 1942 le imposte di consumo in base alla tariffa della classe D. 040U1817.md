@@ -1,16 +1,14 @@
-REGIO DECRETO 30 dicembre 1940 n. 1817
-
-
-REGIO DECRETO 30 dicembre 1940 n. 1817
-======================================
-
-Autorizzazione al comune di Pavia a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo in base alla tariffa della classe D. (040U1817)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/02/1941
+---
+tipo: REGIO DECRETO
+numero: 1817
+data: 1940-12-30
+titolo: "Autorizzazione al comune di Pavia a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo in base alla tariffa della classe D. (040U1817)"
+urn: urn:nir:stato:regio.decreto:1940-12-30;1817
+codice_redazionale: 040U1817
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,22 @@ Vista la deliberazione con la quale il Comune suddetto chiede di potere mantener
 
 Udita la Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Pavia e' autorizzato a continuare ad applicare fino al 31 dicembre 1942 le imposte di consumo entro i limiti stabiliti per la classe D.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 30 dicembre 1940-XIX   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 15 gennaio 1941-XIX   
-  
-Atti del Governo, registro 429, foglio 74. - MANCINI   
-  
-  
+Il comune di Pavia e' autorizzato a continuare ad applicare fino al 31 dicembre 1942 le imposte di consumo entro i limiti stabiliti per la classe D. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 30 dicembre 1940-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 15 gennaio 1941-XIX 
+ 
+ Atti del Governo, registro 429, foglio 74. - MANCINI

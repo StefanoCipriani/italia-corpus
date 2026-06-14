@@ -1,19 +1,15 @@
-REGIO DECRETO 29 aprile 1915 n. 647
+---
+tipo: REGIO DECRETO
+numero: 647
+data: 1915-04-29
+titolo: "Soppressione della cattedra di legislazione doganale e di economia industriale e commerciale dell'Istituto tecnico di Roma. (015U0647)"
+urn: urn:nir:stato:regio.decreto:1915-04-29;647
+codice_redazionale: 015U0647
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 aprile 1915 n. 647
-===================================
-
-Soppressione della cattedra di legislazione doganale e di economia industriale e commerciale dell'Istituto tecnico di Roma. (015U0647)
---------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/06/1915
-
-Art. 1
-------
-
-  
-N. 647   
-  
-Regio Decreto 29 aprile 1915, col quale, sulla proposta del ministro dell'istruzione pubblica di concerto col ministro del tesoro, la cattedra di legislazione doganale e di economia industriale e commerciale, istituita col [R. decreto 26 luglio 1901, n. 405](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-07-26;405), nell'Istituto tecnico di Roma, viene soppressa, a decorrere dal 1° ottobre 1914.   
-  
+N. 647 
+ 
+ Regio Decreto 29 aprile 1915, col quale, sulla proposta del ministro dell'istruzione pubblica di concerto col ministro del tesoro, la cattedra di legislazione doganale e di economia industriale e commerciale, istituita col [R. decreto 26 luglio 1901, n. 405](Circa%20listituzione%20di%20nuove%20cattedre%20nei%20RR.%20Istituti%20tecnici%20di%20Roma%20e%20di%20Genova.%20001U0405.md), nell'Istituto tecnico di Roma, viene soppressa, a decorrere dal 1° ottobre 1914.

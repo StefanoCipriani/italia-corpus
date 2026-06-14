@@ -1,16 +1,14 @@
-REGIO DECRETO 23 settembre 1938 n. 1614
-
-
-REGIO DECRETO 23 settembre 1938 n. 1614
-=======================================
-
-Autorizzazione al comune di Brindisi a continuare ad applicare fino al 30 aprile 1943 le imposte dl consumo con le aliquote stabilite per la classe superiore D. (038U1614)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1938
+---
+tipo: REGIO DECRETO
+numero: 1614
+data: 1938-09-23
+titolo: "Autorizzazione al comune di Brindisi a continuare ad applicare fino al 30 aprile 1943 le imposte dl consumo con le aliquote stabilite per la classe superiore D. (038U1614)"
+urn: urn:nir:stato:regio.decreto:1938-09-23;1614
+codice_redazionale: 038U1614
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,22 +26,19 @@ Sentito il parere favorevole della Commissione centrale per la finanza locale, e
 
 Su proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-Articolo unico
---------------
+## Articolo unico.
 
-  
-  
-Il comune di Brindisi e' autorizzato a continuare a riscuotere fino al 30 aprile 1943 le imposte di consumo con le aliquote stabilite per la classe superiore D.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 23 settembre 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 13 ottobre 1938 - Anno XVI   
-Atti del Governo, registro 402, foglio 77. - Mancini   
+Il comune di Brindisi e' autorizzato a continuare a riscuotere fino al 30 aprile 1943 le imposte di consumo con le aliquote stabilite per la classe superiore D. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 23 settembre 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 13 ottobre 1938 - Anno XVI  
+ Atti del Governo, registro 402, foglio 77. - Mancini

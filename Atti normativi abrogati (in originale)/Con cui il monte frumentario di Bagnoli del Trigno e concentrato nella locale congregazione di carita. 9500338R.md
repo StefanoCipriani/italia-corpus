@@ -1,21 +1,17 @@
-REGIO DECRETO 14 febbraio 1895 n. CCCXXXVIII
+---
+tipo: REGIO DECRETO
+numero: CCCXXXVIII
+data: 1895-02-14
+titolo: "Con cui il monte frumentario di Bagnoli del Trigno e' concentrato nella locale congregazione di carita'. (9500338R)"
+urn: urn:nir:stato:regio.decreto:1895-02-14;338
+codice_redazionale: 9500338R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 febbraio 1895 n. CCCXXXVIII
-============================================
-
-Con cui il monte frumentario di Bagnoli del Trigno e' concentrato nella locale congregazione di carita'. (9500338R)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/12/1895
-
-Art. 1
-------
-
-  
-Con cui il monte frumentario di Bagnoli del Trigno e' concentrato nella locale congregazione di carita'. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 25 novembre 1895.   
-  
-Reg. 201. Atti del Governo a f. 81.   
-  
+Con cui il monte frumentario di Bagnoli del Trigno e' concentrato nella locale congregazione di carita'. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 25 novembre 1895. 
+ 
+ Reg. 201. Atti del Governo a f. 81.

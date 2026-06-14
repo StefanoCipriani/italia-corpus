@@ -1,24 +1,22 @@
-REGIO DECRETO 25 aprile 1895 n. 130
-
-
-REGIO DECRETO 25 aprile 1895 n. 130
-===================================
-
-Che respinge il ricorso diretto al Ministro del Tesero dal Consiglio d'Amministrazione del Fondo di beneficenza e di religione della citta' di Roma per la conversione delle rendite consolidate 5 e 3 per cento. (095U0130)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/05/1895
+---
+tipo: REGIO DECRETO
+numero: 130
+data: 1895-04-25
+titolo: "Che respinge il ricorso diretto al Ministro del Tesero dal Consiglio d'Amministrazione del Fondo di beneficenza e di religione della citta' di Roma per la conversione delle rendite consolidate 5 e 3 per cento. (095U0130)"
+urn: urn:nir:stato:regio.decreto:1895-04-25;130
+codice_redazionale: 095U0130
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il ricorso a Noi diretto in data 11 gennaio 1895 dal Consiglio di Amministrazione del Fondo di beneficenza e di religione per la citta' di Roma, per ottenere che alle rendite consolidate 5 e 3% appartenenti al fondo stesso venga applicato il beneficio della conversione di favore in consolidato 4,50% netto, disposto dall'[art. 2 della legge 22 luglio 1894, n. 339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-22;339~art2);
+Visto il ricorso a Noi diretto in data 11 gennaio 1895 dal Consiglio di Amministrazione del Fondo di beneficenza e di religione per la citta' di Roma, per ottenere che alle rendite consolidate 5 e 3% appartenenti al fondo stesso venga applicato il beneficio della conversione di favore in consolidato 4,50% netto, disposto dall'[art. 2 della legge 22 luglio 1894, n. 339](Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md);
 
-Vista la relazione del Ministro del Tesoro al [Consiglio di Stato, in data 16 febbraio 1895](https://e-justice.europa.eu/ecli/ECLI::::) sul ricorso suddetto;
+Vista la relazione del Ministro del Tesoro al Consiglio di Stato, in data 16 febbraio 1895 sul ricorso suddetto;
 
 Visto il parere emesso dal Consiglio di Stato nella sua adunanza generale del 20 marzo 1895, col quale si esprime favorevolmente all'accoglimento del ricorso del Consiglio d'Amministrazione del Fondo di beneficenza e religione, per quelle sole rendite di esso, che effettivamente siano destiniate ad opere di beneficenza secondo i risultati del bilancio in corso alla data del 24 luglio 1894, parere da cui ha motivatamente dissentito la minoranza di esso;
 
@@ -26,31 +24,24 @@ Viste le considerazioni esposte nel merito dalla detta minoranza:
 
 Visto l'art. 12 del Nostro decreto 2 giugno 1889, n. 6166 (serie 3ª);
 
-Visto l'[art. 1 della legge 17 luglio 1890, n. 6972](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972~art1) (serie 3ª);
+Visto l'[art. 1 della legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972#art_1) (serie 3ª);
 
-Visto l'[art. 2 della legge 22 luglio 1894, n. 339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-22;339~art2), e gli articoli 1 e 3 dell'allegato L alla legge stessa;
+Visto l'[art. 2 della legge 22 luglio 1894, n. 339](Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md), e gli articoli 1 e 3 dell'allegato L alla legge stessa;
 
 Sentito il parere del Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari del Tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari del Tesoro; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il ricorso a noi diretto, in data 11 gennaio 1895, dal Consiglio d'Amministrazione del Fondo di beneficenza e di religione per la citta' di Roma, allo scopo di ottenere per le rendite consolidate 5 e 3%, di proprieta' del fondo stesso l'applicazione delle disposizioni di favore, contenute nell'[articolo 2 della legge 22 luglio 1894, n. 339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-22;339~art2), per la conversione in consolidato 4,50 per cento netto delle rendite intestate alle istituzioni di pubblica beneficenza e' respinto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 aprile 1895.   
-  
-UMBERTO.   
-  
-Sidney-Sonnino.   
-  
-Visto, Il Guardasigilli: V. Calenda di Tavani.   
-  
+Il ricorso a noi diretto, in data 11 gennaio 1895, dal Consiglio d'Amministrazione del Fondo di beneficenza e di religione per la citta' di Roma, allo scopo di ottenere per le rendite consolidate 5 e 3%, di proprieta' del fondo stesso l'applicazione delle disposizioni di favore, contenute nell'[articolo 2 della legge 22 luglio 1894, n. 339](Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md), per la conversione in consolidato 4,50 per cento netto delle rendite intestate alle istituzioni di pubblica beneficenza e' respinto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 aprile 1895. 
+ 
+ UMBERTO. 
+ 
+ Sidney-Sonnino. 
+ 
+ Visto, Il Guardasigilli: V. Calenda di Tavani.

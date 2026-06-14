@@ -1,18 +1,20 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 16 ottobre 1946 n. 820
+---
+tipo: DECRETO DEL CAPO PROVVISORIO DELLO STATO
+numero: 820
+data: 1946-10-16
+titolo: "Riduzione del Vice consolato di 1ª categoria in Saragozza a Vice consolato di 2ª categoria."
+urn: urn:nir:stato:decreto.del.capo.provvisorio.dello.stato:1946-10-16;820
+codice_redazionale: 046U0820
+vigente: true
+---
 
-
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 16 ottobre 1946 n. 820
-===============================================================
-
-Riduzione del Vice consolato di 1ª categoria in Saragozza a Vice consolato di 2ª categoria.
--------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-820. Decreto del Capo provvisorio dello Stato 16 ottobre 1946, col quale, sulla proposta del Ministro per gli affari esteri, il Vice consolato di 1ª categoria in Saragozza viene ridotto a Vice consolato di 2ª categoria.  
-  
-Visto, il guardasigilli: GULLO  
-Registrato alla Corte dei Conti, addi' 12 giugno 1947
+820.
+
+Decreto del Capo provvisorio dello Stato 16 ottobre 1946, col quale, sulla proposta del Ministro per gli affari esteri, il Vice consolato di 1ª categoria in Saragozza viene ridotto a Vice consolato di 2ª categoria.
+
+Visto, il guardasigilli: GULLO
+ Registrato alla Corte dei Conti, addi' 12 giugno 1947

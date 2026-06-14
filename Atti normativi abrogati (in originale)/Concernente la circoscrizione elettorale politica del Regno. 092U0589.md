@@ -1,20 +1,17 @@
-REGIO DECRETO 23 settembre 1892 n. 589
+---
+tipo: REGIO DECRETO
+numero: 589
+data: 1892-09-23
+titolo: "Concernente la circoscrizione elettorale politica del Regno. (092U0589)"
+urn: urn:nir:stato:regio.decreto:1892-09-23;589
+codice_redazionale: 092U0589
+vigente: true
+---
 
-
-REGIO DECRETO 23 settembre 1892 n. 589
-======================================
-
-Concernente la circoscrizione elettorale politica del Regno. (092U0589)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1892
-
-Art. 1
-------
+## Art. 1.
 
 Dato a Monza il 23 settembre
 
-1892. 
-  
-  
+1892.
+
 N. 589. R. D. che separa il comune di Rapagnano dalla sezione elettorale di Montegiorgio, e lo costituisce in sezione elettorale autonoma del Collegio di Ascoli Piceno.

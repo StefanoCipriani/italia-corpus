@@ -1,18 +1,16 @@
-DECRETO-LEGGE 08 maggio 1992 n. 278
-
-
-DECRETO-LEGGE 08 maggio 1992 n. 278
-===================================
-
-Disposizioni urgenti in materia di tariffe telefoniche nazionali.
------------------------------------------------------------------
-
-Entrata in vigore del decreto: 10/05/1992.Decreto-Legge decaduto per mancata conversione.
+---
+tipo: DECRETO-LEGGE
+numero: 278
+data: 1992-05-08
+titolo: "Disposizioni urgenti in materia di tariffe telefoniche nazionali."
+urn: urn:nir:stato:decreto.legge:1992-05-08;278
+codice_redazionale: 092G0320
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni al fine di garantire la certezza dei rapporti giuridici tra la concessionaria telefonica, l'Azienda di Stato per i servizi telefonici e le utenze;
 
@@ -24,25 +22,20 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle po
 
 E M A N A il seguente decreto-legge:
 
-Art. 1
-------
+## Art. 1.
 
-1. Le tariffe telefoniche, a decorrere dal 16 gennaio 1991 e fino all'adozione del nuovo provvedimento di adeguamento tariffario, sono regolate in conformita' al [decreto del Presidente della Repubblica 12 gennaio 1991, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 12 del 15 gennaio 1991](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1991-01-15&numeroGazzetta=12), recante adeguamento delle tariffe telefoniche nazionali.
+1.
 
-Art. 2
-------
+Le tariffe telefoniche, a decorrere dal 16 gennaio 1991 e fino all'adozione del nuovo provvedimento di adeguamento tariffario, sono regolate in conformita' al decreto del Presidente della Repubblica 12 gennaio 1991, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 12 del 15 gennaio 1991, recante adeguamento delle tariffe telefoniche nazionali.
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+## Art. 2.
+
+1.
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 maggio 1992
+Dato a Roma, addi' 8 maggio 1992
 
-Il Presidente supplente della Repubblica SPADOLINI
-
-ANDREOTTI, Presidente del Consiglio dei Ministri
-
-VIZZINI, Ministro delle poste e delle telecomunicazioni
-
-Visto, il Guardasigilli: MARTELLI
+Il Presidente supplente della Repubblica SPADOLINI ANDREOTTI, Presidente del Consiglio dei Ministri VIZZINI, Ministro delle poste e delle telecomunicazioni Visto, il Guardasigilli: MARTELLI

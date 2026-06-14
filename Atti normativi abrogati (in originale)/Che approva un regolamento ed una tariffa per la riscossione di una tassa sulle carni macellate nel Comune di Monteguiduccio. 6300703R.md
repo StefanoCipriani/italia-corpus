@@ -1,19 +1,15 @@
-REGIO DECRETO 08 marzo 1863 n. DCCIII
+---
+tipo: REGIO DECRETO
+numero: DCCIII
+data: 1863-03-08
+titolo: "Che approva un regolamento ed una tariffa per la riscossione di una tassa sulle carni macellate nel Comune di Monteguiduccio. (6300703R)"
+urn: urn:nir:stato:regio.decreto:1863-03-08;703
+codice_redazionale: 6300703R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 marzo 1863 n. DCCIII
-=====================================
-
-Che approva un regolamento ed una tariffa per la riscossione di una tassa sulle carni macellate nel Comune di Monteguiduccio. (6300703R)
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/03/1863
-
-Art. 1
-------
-
-  
-Che approva un regolamento ed una tariffa per la riscossione di una tassa sulle carni macellate nel Comune di Monteguiduccio.   
-  
-Torino 8 marzo 1863   
-  
+Che approva un regolamento ed una tariffa per la riscossione di una tassa sulle carni macellate nel Comune di Monteguiduccio. 
+ 
+ Torino 8 marzo 1863

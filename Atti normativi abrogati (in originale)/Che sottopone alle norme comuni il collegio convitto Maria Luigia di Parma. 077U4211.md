@@ -1,16 +1,14 @@
-REGIO DECRETO 20 dicembre 1877 n. 4211
-
-
-REGIO DECRETO 20 dicembre 1877 n. 4211
-======================================
-
-Che sottopone alle norme comuni il collegio convitto Maria Luigia di Parma. (077U4211)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/12/1877
+---
+tipo: REGIO DECRETO
+numero: 4211
+data: 1877-12-20
+titolo: "Che sottopone alle norme comuni il collegio convitto Maria Luigia di Parma. (077U4211)"
+urn: urn:nir:stato:regio.decreto:1877-12-20;4211
+codice_redazionale: 077U4211
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,37 +22,28 @@ Riconosciuta la convenienza di mettere il collegio convitto sotto l'impero della
 
 Sentito il consiglio di Stato;
 
-Sulla
------
+Sulla proposta del nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
 
-proposta del nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il reale collegio convitto Maria Luigia di Parma sara' retto secondo le norme prescritte dal regolamento approvato con il nostro decreto 25 agosto 1860, n. 4292, modificandone pero' l'art. 3 nel modo seguente: 
+ 
+ «Il consiglio di amministrazione e' composto da un consigliere municipale e da un consigliere provinciale, scelto dai rispettivi consigli della citta' e provincia di Parma, e da uno o piu' autorevoli cittadini nominati dal Governo. Il rettore o chi ne fa le veci presiede il consiglio.»
 
-  
-  
-Il reale collegio convitto Maria Luigia di Parma sara' retto secondo le norme prescritte dal regolamento approvato con il nostro decreto 25 agosto 1860, n. 4292, modificandone pero' l'art. 3 nel modo seguente:   
-  
-«Il consiglio di amministrazione e' composto da un consigliere municipale e da un consigliere provinciale, scelto dai rispettivi consigli della citta' e provincia di Parma, e da uno o piu' autorevoli cittadini nominati dal Governo. Il rettore o chi ne fa le veci presiede il consiglio.»   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' abrogato il regolamento approvato col nostro decreto 17 ottobre 1866, n. MDCCCXXVII e l'articolo 23 del regolamento approvato con l'altro nostro decreto 4 aprile 1869, n. 4997, in quanto che contiene norme speciali pei concorsi ai posti gratuiti istituiti nel convitto di Parma.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 20 dicembre 1877.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei Conti addi 27 dicembre 1877   
-  
-Reg. 93 Atti del Governo a f. 111. G. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Mancini.   
-  
-Coppino.   
+E' abrogato il regolamento approvato col nostro decreto 17 ottobre 1866, n. MDCCCXXVII e l'articolo 23 del regolamento approvato con l'altro nostro decreto 4 aprile 1869, n. 4997, in quanto che contiene norme speciali pei concorsi ai posti gratuiti istituiti nel convitto di Parma. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 20 dicembre 1877. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei Conti addi 27 dicembre 1877 
+ 
+ Reg. 93 Atti del Governo a f. 111. G. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Mancini. 
+ 
+ Coppino.

@@ -1,22 +1,20 @@
-REGIO DECRETO 11 maggio 1873 n. 1381
-
-
-REGIO DECRETO 11 maggio 1873 n. 1381
-====================================
-
-Che approva i Regolamenti per l'applicazione della tassa sugli esercizi e rivendite in alcuni Comuni della Provincia di Bologna. (073U1381)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/06/1873
+---
+tipo: REGIO DECRETO
+numero: 1381
+data: 1873-05-11
+titolo: "Che approva i Regolamenti per l'applicazione della tassa sugli esercizi e rivendite in alcuni Comuni della Provincia di Bologna. (073U1381)"
+urn: urn:nir:stato:regio.decreto:1873-05-11;1381
+codice_redazionale: 073U1381
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[articolo 1 della Legge 11 agosto 1870, n. 5784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784~art1), allegato O;
+Visto l'[articolo 1 della Legge 11 agosto 1870, n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md), allegato O;
 
 Visto il Regolamento per la esecuzione dell'articolo 12 di detta Legge, approvato con Nostro Decreto 24 dicembre 1870, n. 6137;
 
@@ -28,29 +26,20 @@ Visto il ricorso 28 novembre 1872 del Prefetto di Bologna, con cui si domanda l'
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+## Articolo unico. — null
 
-Articolo unico
---------------
-
-null
-
-  
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 11 maggio 1873.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 17 maggio 1873   
-  
-Vol. 69 Atti del Governo a c. 32. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-Quintino Sella.   
-  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 11 maggio 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 17 maggio 1873 
+ 
+ Vol. 69 Atti del Governo a c. 32. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ Quintino Sella.

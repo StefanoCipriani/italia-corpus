@@ -1,44 +1,37 @@
-REGIO DECRETO 25 luglio 1887 n. 4811
-
-
-REGIO DECRETO 25 luglio 1887 n. 4811
-====================================
-
-Che aumenta di un capo sezione il ruolo organico dell'Amministrazione della Guerra. (087U4811)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/08/1887
+---
+tipo: REGIO DECRETO
+numero: 4811
+data: 1887-07-25
+titolo: "Che aumenta di un capo sezione il ruolo organico dell'Amministrazione della Guerra. (087U4811)"
+urn: urn:nir:stato:regio.decreto:1887-07-25;4811
+codice_redazionale: 087U4811
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA.
 
-Vista la [legge 23 giugno 1887, n. 4591](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-06-23;4591), che approvo' lo stato di previsione della spesa del Ministero della Guerra per l'esercizio finanziario 1887-88;
+Vista la [legge 23 giugno 1887, n. 4591](Col%20quale%20viene%20approvato%20l%20annesso%20Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20della%20Guerra%20087U4591.md), che approvo' lo stato di previsione della spesa del Ministero della Guerra per l'esercizio finanziario 1887-88;
 
-Visto il [R. decreto 27 giugno 1884, n. 2492](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-06-27;2492), che stabili' il ruolo organico del personale dell'Amministrazione centrale della guerra e l'altro [R. decreto 10 febbraio 1887, n. 4336](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-02-10;4336), che ha modificato lo stesso ruolo;
+Visto il [R. decreto 27 giugno 1884, n. 2492](Che%20approva%20il%20ruolo%20organico%20da%20personale%20dellAmministrazione%20centrale%20della%20Guerra.%20084U2492.md), che stabili' il ruolo organico del personale dell'Amministrazione centrale della guerra e l'altro [R. decreto 10 febbraio 1887, n. 4336](Risguardante%20il%20ruolo%20organico%20del%20personale%20dellAmministrazione%20centrale%20della%20Guerra.%20087U4336.md), che ha modificato lo stesso ruolo;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari della Guerra, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari della Guerra, Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il ruolo organico del personale dell'Amministrazione centrale della guerra e' aumentato di 1 capo sezione di 2ª classe a lire
 
-4500. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 25 luglio 1887.   
-  
-UMBERTO.   
-  
-Bertole' Viale.   
-  
-Visto, Il Guardasigilli: Zanardelli.
+4500.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 25 luglio 1887. 
+ 
+ UMBERTO. 
+ 
+ Bertole' Viale. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

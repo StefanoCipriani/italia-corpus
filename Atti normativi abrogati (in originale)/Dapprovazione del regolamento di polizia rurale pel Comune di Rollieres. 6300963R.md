@@ -1,20 +1,17 @@
-REGIO DECRETO 11 ottobre 1863 n. DCCCCLXIII
+---
+tipo: REGIO DECRETO
+numero: DCCCCLXIII
+data: 1863-10-11
+titolo: "D'approvazione del regolamento di polizia rurale pel Comune di Rollieres. (6300963R)"
+urn: urn:nir:stato:regio.decreto:1863-10-11;963
+codice_redazionale: 6300963R
+vigente: true
+---
 
-
-REGIO DECRETO 11 ottobre 1863 n. DCCCCLXIII
-===========================================
-
-D'approvazione del regolamento di polizia rurale pel Comune di Rollieres. (6300963R)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/10/1863
-
-Art. 1
-------
+## Art. 1.
 
 Che approva il regolamento di polizia rurale del Comune di Rollieres, Provincia di Torino, in data 8 novembre
 
-1862. 
-  
-  
+1862.
+
 Torino 11 ottobre 1863.

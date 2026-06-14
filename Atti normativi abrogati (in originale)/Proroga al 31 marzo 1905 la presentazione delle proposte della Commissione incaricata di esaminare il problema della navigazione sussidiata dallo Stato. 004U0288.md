@@ -1,16 +1,14 @@
-REGIO DECRETO 26 maggio 1904 n. 288
-
-
-REGIO DECRETO 26 maggio 1904 n. 288
-===================================
-
-Proroga al 31 marzo 1905 la presentazione delle proposte della Commissione incaricata di esaminare il problema della navigazione sussidiata dallo Stato. (004U0288)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/07/1904
+---
+tipo: REGIO DECRETO
+numero: 288
+data: 1904-05-26
+titolo: "Proroga al 31 marzo 1905 la presentazione delle proposte della Commissione incaricata di esaminare il problema della navigazione sussidiata dallo Stato. (004U0288)"
+urn: urn:nir:stato:regio.decreto:1904-05-26;288
+codice_redazionale: 004U0288
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,29 +20,22 @@ Considerato che la Commissione istituita per esaminare il problema della navigaz
 
 Sulla proposta del Nostro Ministro per le Poste ed i Telegrafi, di concerto con quelli del Tesoro della Marina e dell'Agricoltura, Industria e Commercio;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' accordata una proroga fino al 31 marzo 1905, per la presentazione delle proposte da parte della Commissione incaricata di esaminare il problema della navigazione sussidiata dallo Stato.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 26 maggio 1904.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti.   
-Stelluti-Scala.   
-L. Luzzatti.   
-C. Mirabello.   
-Rava.   
-  
-Visto, Il Guardasigilli: Ronchetti.   
-  
+E' accordata una proroga fino al 31 marzo 1905, per la presentazione delle proposte da parte della Commissione incaricata di esaminare il problema della navigazione sussidiata dallo Stato. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 maggio 1904. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti. 
+ Stelluti-Scala. 
+ L. Luzzatti. 
+ C. Mirabello. 
+ Rava. 
+ 
+ Visto, Il Guardasigilli: Ronchetti.

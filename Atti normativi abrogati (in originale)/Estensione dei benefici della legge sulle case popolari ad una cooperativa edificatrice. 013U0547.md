@@ -1,19 +1,15 @@
-REGIO DECRETO 11 maggio 1913 n. 547
+---
+tipo: REGIO DECRETO
+numero: 547
+data: 1913-05-11
+titolo: "Estensione dei benefici della legge sulle case popolari ad una cooperativa edificatrice. (013U0547)"
+urn: urn:nir:stato:regio.decreto:1913-05-11;547
+codice_redazionale: 013U0547
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 maggio 1913 n. 547
-===================================
-
-Estensione dei benefici della legge sulle case popolari ad una cooperativa edificatrice. (013U0547)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/06/1913
-
-Art. 1
-------
-
-  
-N. 547   
-  
-Regio Decreto 11 maggio 1913, col quale, sulla proposta del ministro d'agricoltura, industria e commercio, vengono estesi i benefici della legge sulle case popolari a 20 casette della Societa' cooperativa edificatrice di Colonnata (Sesto Fiorentino).   
-  
+N. 547 
+ 
+ Regio Decreto 11 maggio 1913, col quale, sulla proposta del ministro d'agricoltura, industria e commercio, vengono estesi i benefici della legge sulle case popolari a 20 casette della Societa' cooperativa edificatrice di Colonnata (Sesto Fiorentino).

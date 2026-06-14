@@ -1,16 +1,14 @@
-REGIO DECRETO 26 ottobre 1875 n. 2746
-
-
-REGIO DECRETO 26 ottobre 1875 n. 2746
-=====================================
-
-Concernente la cessazione dei corsi pratici degli ingegneri nelle universita' di Bologna e di Pisa e la istituzione nelle medesime del primo anno di scuola di applicazione. (075U2746)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/11/1875
+---
+tipo: REGIO DECRETO
+numero: 2746
+data: 1875-10-26
+titolo: "Concernente la cessazione dei corsi pratici degli ingegneri nelle universita' di Bologna e di Pisa e la istituzione nelle medesime del primo anno di scuola di applicazione. (075U2746)"
+urn: urn:nir:stato:regio.decreto:1875-10-26;2746
+codice_redazionale: 075U2746
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,52 +26,28 @@ Considerando come gli insegnamenti che si danno nelle Universita' di Pisa e di B
 
 Riconosciuto quindi giusto e conveniente di conservare e completare, in quanto occorra, gli studi del 1° anno di scuola d'applicazione per gli ingegneri presso le dette Universita';
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A cominciare dall'anno scolastico 1875-76 cessa nelle Regie Universita' di Pisa e di Bologna il corso pratico per gli ingegneri civili ed architetti.
 
-  
-  
-  
-A cominciare dall'anno scolastico 1875-76 cessa nelle Regie Universita' di Pisa e di Bologna il corso pratico per gli ingegneri civili ed architetti.   
-  
+## Art. 2.
 
-Art. 2
-------
+E' instituito nelle stesse Regie Universita' il 1° anno di studi di scuola d'applicazione per gli ingegneri ed architetti, e gli insegnamenti relativi fanno parte integrante delle rispettive Facolta' di scienze matematiche, fisiche e naturali.
 
-  
-  
-  
-E' instituito nelle stesse Regie Universita' il 1° anno di studi di scuola d'applicazione per gli ingegneri ed architetti, e gli insegnamenti relativi fanno parte integrante delle rispettive Facolta' di scienze matematiche, fisiche e naturali.   
-  
+## Art. 3.
 
-Art. 3
-------
+A questo primo anno di studi dovra' applicarsi completamente il regolamento per le Regie scuole d'applicazione.
 
-  
-  
-  
-A questo primo anno di studi dovra' applicarsi completamente il regolamento per le Regie scuole d'applicazione.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-  
-Coloro che faranno questo primo anno di scuola d'applicazione presso le nominate Universita', superati i relativi esami, riceveranno un certificato sulla esibizione del quale saranno ammessi senza altri esami al penultimo anno del corso per gli ingegneri dell'Istituto tecnico superiore di Milano, e delle altre Regie scuole di applicazione del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 26 ottobre 1875.   
-  
-VITTORIO EMANUELE.   
-  
-R. Bonghi.   
-  
-  
+Coloro che faranno questo primo anno di scuola d'applicazione presso le nominate Universita', superati i relativi esami, riceveranno un certificato sulla esibizione del quale saranno ammessi senza altri esami al penultimo anno del corso per gli ingegneri dell'Istituto tecnico superiore di Milano, e delle altre Regie scuole di applicazione del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 26 ottobre 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ R. Bonghi.

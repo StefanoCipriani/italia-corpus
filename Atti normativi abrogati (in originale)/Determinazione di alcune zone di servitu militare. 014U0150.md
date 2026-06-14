@@ -1,20 +1,17 @@
-REGIO DECRETO 22 febbraio 1914 n. 150
+---
+tipo: REGIO DECRETO
+numero: 150
+data: 1914-02-22
+titolo: "Determinazione di alcune zone di servitu' militare. (014U0150)"
+urn: urn:nir:stato:regio.decreto:1914-02-22;150
+codice_redazionale: 014U0150
+vigente: true
+---
 
-
-REGIO DECRETO 22 febbraio 1914 n. 150
-=====================================
-
-Determinazione di alcune zone di servitu' militare. (014U0150)
---------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/03/1914
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-150. 
-  
-  
+150.
+
 Regio Decreto 22 febbraio 1914, col quale, sulla proposta del ministro della guerra, vengono determinate le zone di servitu' militari da imporsi alle proprieta' fondiarie adiacenti all'opera di fortificazione "G. Sirtori" (Spinea) della piazza di Venezia.

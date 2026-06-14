@@ -1,16 +1,14 @@
-REGIO DECRETO 09 luglio 1940 n. 1234
-
-
-REGIO DECRETO 09 luglio 1940 n. 1234
-====================================
-
-Nuove norme sulla facolta' dei nativi dell'Africa Italiana, analfabeti, di poter riscuotere vaglia cambiari dell'Istituto di emissione, del Banco di Napoli e del Banco di Sicilia mediante impronta digitale. (040U1234)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/09/1940
+---
+tipo: REGIO DECRETO
+numero: 1234
+data: 1940-07-09
+titolo: "Nuove norme sulla facolta' dei nativi dell'Africa Italiana, analfabeti, di poter riscuotere vaglia cambiari dell'Istituto di emissione, del Banco di Napoli e del Banco di Sicilia mediante impronta digitale. (040U1234)"
+urn: urn:nir:stato:regio.decreto:1940-07-09;1234
+codice_redazionale: 040U1234
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,39 +30,28 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'Africa Italiana di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per l'Africa Italiana di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Ai cittadini italiani con statuto personale e successorio musulmano, ai cittadini italiani libici ed ai sudditi dell'Africa Orientale Italiana ed assimilati, analfabeti, e' consentito di girare i vaglia cambiari dell'Istituto di emissione, i titoli similari del Banco di Napoli e del Banco di Sicilia ed ogni altro titolo di credito all'ordine, non eccedente il valore di lire cinquemila e limitatamente ai territori della Libia e dell'Africa Orientale Italiana, mediante impronta digitale. 
+ 
+ Il titolo di credito deve pero' essere controfirmato da due testimoni capaci di intervenire validamente negli atti pubblici a termini delle leggi vigenti, e la loro firma deve essere autenticata da un notaio o dal podesta', o dall'autorita' giudiziaria del luogo, o, in mancanza, dal Residente o dal Vice residente.
 
-  
-  
-Ai cittadini italiani con statuto personale e successorio musulmano, ai cittadini italiani libici ed ai sudditi dell'Africa Orientale Italiana ed assimilati, analfabeti, e' consentito di girare i vaglia cambiari dell'Istituto di emissione, i titoli similari del Banco di Napoli e del Banco di Sicilia ed ogni altro titolo di credito all'ordine, non eccedente il valore di lire cinquemila e limitatamente ai territori della Libia e dell'Africa Orientale Italiana, mediante impronta digitale.   
-  
-Il titolo di credito deve pero' essere controfirmato da due testimoni capaci di intervenire validamente negli atti pubblici a termini delle leggi vigenti, e la loro firma deve essere autenticata da un notaio o dal podesta', o dall'autorita' giudiziaria del luogo, o, in mancanza, dal Residente o dal Vice residente.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' abrogato il R. decreto 28 luglio 1939-XVII, n. 1688.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 9 luglio 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Teruzzi - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 8 settembre 1940-XVIII   
-  
-Atti del Governo, registro 425, foglio 34. - Mancini   
-  
-  
+E' abrogato il R. decreto 28 luglio 1939-XVII, n. 1688. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 9 luglio 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Teruzzi - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 8 settembre 1940-XVIII 
+ 
+ Atti del Governo, registro 425, foglio 34. - Mancini

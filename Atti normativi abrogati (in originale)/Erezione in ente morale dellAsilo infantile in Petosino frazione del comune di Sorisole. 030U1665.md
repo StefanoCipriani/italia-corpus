@@ -1,21 +1,21 @@
-REGIO DECRETO 06 novembre 1930 n. 1665
+---
+tipo: REGIO DECRETO
+numero: 1665
+data: 1930-11-06
+titolo: "Erezione in ente morale dell'Asilo infantile in Petosino, frazione del comune di Sorisole. (030U1665)"
+urn: urn:nir:stato:regio.decreto:1930-11-06;1665
+codice_redazionale: 030U1665
+vigente: true
+---
 
-
-REGIO DECRETO 06 novembre 1930 n. 1665
-======================================
-
-Erezione in ente morale dell'Asilo infantile in Petosino, frazione del comune di Sorisole. (030U1665)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/01/1931
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1665. R. decreto 6 novembre 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, l'Asilo infantile in Petosino, frazione del comune di Sorisole (Bergamo), viene eretto in ente morale con amministrazione autonoma e ne e' approvato con alcune modifiche lo statuto organico.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 20 dicembre 1930 - Anno IX
+1665.
+
+R. decreto 6 novembre 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, l'Asilo infantile in Petosino, frazione del comune di Sorisole (Bergamo), viene eretto in ente morale con amministrazione autonoma e ne e' approvato con alcune modifiche lo statuto organico. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 20 dicembre 1930 - Anno IX

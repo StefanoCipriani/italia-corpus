@@ -1,21 +1,17 @@
-REGIO DECRETO 24 maggio 1896 n. CCXXI
+---
+tipo: REGIO DECRETO
+numero: CCXXI
+data: 1896-05-24
+titolo: "Con cui l'ospedale dei bambini «Umberto I» in Venezia e' stato costituito in ente morale; e se ne approva lo statuto organico. (9600221R)"
+urn: urn:nir:stato:regio.decreto:1896-05-24;221
+codice_redazionale: 9600221R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 maggio 1896 n. CCXXI
-=====================================
-
-Con cui l'ospedale dei bambini «Umberto I» in Venezia e' stato costituito in ente morale; e se ne approva lo statuto organico. (9600221R)
------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/07/1896
-
-Art. 1
-------
-
-  
-Con cui l'ospedale dei bambini «Umberto I» in Venezia e' stato costituito in ente morale; e se ne approva in numero di ventisei articoli lo statuto organico. - Firmato UMBERTO - Contrassegnato Rudini' - Visto G. Costa.   
-  
-Registrato alla Corte dei Conti addi' 20 giugno 1896.   
-  
-Reg. 206. Atti del Governo a f. 104.   
-  
+Con cui l'ospedale dei bambini «Umberto I» in Venezia e' stato costituito in ente morale; e se ne approva in numero di ventisei articoli lo statuto organico. - Firmato UMBERTO - Contrassegnato Rudini' - Visto G. Costa. 
+ 
+ Registrato alla Corte dei Conti addi' 20 giugno 1896. 
+ 
+ Reg. 206. Atti del Governo a f. 104.

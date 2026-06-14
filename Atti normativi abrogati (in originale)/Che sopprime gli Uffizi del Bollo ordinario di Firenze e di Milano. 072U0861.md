@@ -1,16 +1,14 @@
-REGIO DECRETO 12 maggio 1872 n. 861
-
-
-REGIO DECRETO 12 maggio 1872 n. 861
-===================================
-
-Che sopprime gli Uffizi del Bollo ordinario di Firenze e di Milano. (072U0861)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/06/1872
+---
+tipo: REGIO DECRETO
+numero: 861
+data: 1872-05-12
+titolo: "Che sopprime gli Uffizi del Bollo ordinario di Firenze e di Milano. (072U0861)"
+urn: urn:nir:stato:regio.decreto:1872-05-12;861
+codice_redazionale: 072U0861
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,67 +30,52 @@ Visti i Nostri Decreti:
 
 Sulla proposta del Ministro delle Finanze;
 
-Udito
------
+Udito il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Col 1° luglio prossimo venturo gli uffizi del Bollo ordinario di Firenze e di Milano sono soppressi. 
+ 
+ La Pianta organica a stipendio fisso per il servizio del Bollo ordinario e straordinario, risultante dai sovrammenzionati decreti, e' ridotta dei seguenti posti: 
+ 
+ Uno di capo d'uffizio a . . . . . . . . . . . . . . . . L. 4,000 
+ 
+ Uno di capo d'uffizio . . . . . . . . . . . . . . . . . » 3,500 
+ 
+ Uno di controllore alla cartiera di Pistoia . . . . . . L. 3,500 
+ 
+ Uno di controllore . . . . . . . . . . . . . . . . . . » 3,000 
+ 
+ Uno di controllore . . . . . . . . . . . . . . . . . . » 2,500 
+ 
+ Tre di commesso . . . . . . . . . . . . . . . . . . . . » 2,200 
+ 
+ Due di scrivano . . . . . . . . . . . . . . . . . . . . » 1,600 
+ 
+ Due di scrivano . . . . . . . . . . . . . . . . . . . . » 1,200 
+ 
+ Due di bollatore . . . . . . . . . . . . . . . . . . . » 1,200 
+ 
+ Quattro di bollatore . . . . . . . . . . . . . . . . . » 1,000 
+ 
+ Cinque di bollatore . . . . . . . . . . . . . . . . . . » 900 
+ 
+ Otto di bollatore . . . . . . . . . . . . . . . . . . . » 800 
+ 
+ Due di inserviente . . . . . . . . . . . . . . . . . . » 800
 
-  
-  
-Col 1° luglio prossimo venturo gli uffizi del Bollo ordinario di Firenze e di Milano sono soppressi.   
-  
-La Pianta organica a stipendio fisso per il servizio del Bollo ordinario e straordinario, risultante dai sovrammenzionati decreti, e' ridotta dei seguenti posti:   
-  
-Uno di capo d'uffizio a . . . . . . . . . . . . . . . . L. 4,000   
-  
-Uno di capo d'uffizio . . . . . . . . . . . . . . . . . » 3,500   
-  
-Uno di controllore alla cartiera di Pistoia . . . . . . L. 3,500   
-  
-Uno di controllore . . . . . . . . . . . . . . . . . . » 3,000   
-  
-Uno di controllore . . . . . . . . . . . . . . . . . . » 2,500   
-  
-Tre di commesso . . . . . . . . . . . . . . . . . . . . » 2,200   
-  
-Due di scrivano . . . . . . . . . . . . . . . . . . . . » 1,600   
-  
-Due di scrivano . . . . . . . . . . . . . . . . . . . . » 1,200   
-  
-Due di bollatore . . . . . . . . . . . . . . . . . . . » 1,200   
-  
-Quattro di bollatore . . . . . . . . . . . . . . . . . » 1,000   
-  
-Cinque di bollatore . . . . . . . . . . . . . . . . . . » 900   
-  
-Otto di bollatore . . . . . . . . . . . . . . . . . . . » 800   
-  
-Due di inserviente . . . . . . . . . . . . . . . . . . » 800   
-  
+## Art. 2.
 
-Art. 2
-------
+La bollatura dei registri ipotecari forniti dalla Stamperia di Milano sara' fatta dall'uffizio del Bollo straordinario di detta citta', dietro richiesta del Magazzino delle stampe, nel quale sara' concentrata la contabilita' e la distribuzione dei registri stessi.
 
-  
-  
-La bollatura dei registri ipotecari forniti dalla Stamperia di Milano sara' fatta dall'uffizio del Bollo straordinario di detta citta', dietro richiesta del Magazzino delle stampe, nel quale sara' concentrata la contabilita' e la distribuzione dei registri stessi.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Un apposito ufficio di stralcio, che dovra' cessare col 31 agosto 1872, provvedera', tanto a Firenze che a Milano, per la resa dei conti e per la consegna del fondo di magazzino, secondo le istruzioni che verranno date dal Nostro Ministro delle Finanze.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli, addi' 12 maggio 1872.   
-  
-VITTORIO EMANUELE   
-  
-QUINTINO SELLA.   
-  
-  
+Un apposito ufficio di stralcio, che dovra' cessare col 31 agosto 1872, provvedera', tanto a Firenze che a Milano, per la resa dei conti e per la consegna del fondo di magazzino, secondo le istruzioni che verranno date dal Nostro Ministro delle Finanze. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli, addi' 12 maggio 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ QUINTINO SELLA.

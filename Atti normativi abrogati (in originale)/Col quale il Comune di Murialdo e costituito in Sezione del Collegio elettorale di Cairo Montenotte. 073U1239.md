@@ -1,16 +1,14 @@
-REGIO DECRETO 13 gennaio 1873 n. 1239
-
-
-REGIO DECRETO 13 gennaio 1873 n. 1239
-=====================================
-
-Col quale il Comune di Murialdo e' costituito in Sezione del Collegio elettorale di Cairo Montenotte. (073U1239)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/02/1873
+---
+tipo: REGIO DECRETO
+numero: 1239
+data: 1873-01-13
+titolo: "Col quale il Comune di Murialdo e' costituito in Sezione del Collegio elettorale di Cairo Montenotte. (073U1239)"
+urn: urn:nir:stato:regio.decreto:1873-01-13;1239
+codice_redazionale: 073U1239
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Murialdo e' costituito in Sezione del Collegio elettorale di Cairo Montenotte, n. 189.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli addi' 13 gennaio 1873.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 17 gennaio 1873   
-  
-Vol. 66 Atti del Governo a c. 51. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+Il Comune di Murialdo e' costituito in Sezione del Collegio elettorale di Cairo Montenotte, n. 189. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli addi' 13 gennaio 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 17 gennaio 1873 
+ 
+ Vol. 66 Atti del Governo a c. 51. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

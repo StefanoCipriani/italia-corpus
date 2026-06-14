@@ -1,21 +1,21 @@
-REGIO DECRETO 05 aprile 1925 n. 485
+---
+tipo: REGIO DECRETO
+numero: 485
+data: 1925-04-05
+titolo: "Erezione in Ente morale della Fondazione scolastica «Premio Pippi Candido», in Galatina. (025U0485)"
+urn: urn:nir:stato:regio.decreto:1925-04-05;485
+codice_redazionale: 025U0485
+vigente: true
+---
 
-
-REGIO DECRETO 05 aprile 1925 n. 485
-===================================
-
-Erezione in Ente morale della Fondazione scolastica «Premio Pippi Candido», in Galatina. (025U0485)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/05/1925
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-485. R. decreto 5 aprile 1925, con il quale, sulla proposta del Ministro per la pubblica istruzione, la Fondazione scolastica «Premio Pippi Candido» presso il liceo-ginnasio Pietro Colonna di Galatina, viene eretta in Ente morale ed e' approvato il relativo statuto.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 27 aprile 1925.
+485.
+
+R. decreto 5 aprile 1925, con il quale, sulla proposta del Ministro per la pubblica istruzione, la Fondazione scolastica «Premio Pippi Candido» presso il liceo-ginnasio Pietro Colonna di Galatina, viene eretta in Ente morale ed e' approvato il relativo statuto. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 27 aprile 1925.

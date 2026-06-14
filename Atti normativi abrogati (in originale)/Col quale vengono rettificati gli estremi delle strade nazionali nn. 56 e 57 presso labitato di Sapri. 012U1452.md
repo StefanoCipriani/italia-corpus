@@ -1,22 +1,20 @@
-REGIO DECRETO 01 dicembre 1912 n. 1452
-
-
-REGIO DECRETO 01 dicembre 1912 n. 1452
-======================================
-
-Col quale vengono rettificati gli estremi delle strade nazionali nn. 56 e 57 presso l'abitato di Sapri. (012U1452)
-------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/03/1913
+---
+tipo: REGIO DECRETO
+numero: 1452
+data: 1912-12-01
+titolo: "Col quale vengono rettificati gli estremi delle strade nazionali nn. 56 e 57 presso l'abitato di Sapri. (012U1452)"
+urn: urn:nir:stato:regio.decreto:1912-12-01;1452
+codice_redazionale: 012U1452
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'elenco generale delle strade nazionali del Regno, approvato con [R. decreto 5 gennaio 1911, n. 221](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-01-05;221), nel quale sono comprese col n. 56 la strada detta di Vai d'Agri, da Sapri, per Montesano, Moliterno e Corleto Perticara, alla stazione ferroviaria di Montalbano Jonico-Scanzano, e col n. 57 la strada detta Sapri-Jonio, da Sapri per Latronico e Fardella, alla stazione ferroviaria di Nova-Siri;
+Visto l'elenco generale delle strade nazionali del Regno, approvato con [R. decreto 5 gennaio 1911, n. 221](Che%20approva%20lannesso%20elenco%20generale%20delle%20strade%20nazionali%20del%20Regno.%20011U0221.md), nel quale sono comprese col n. 56 la strada detta di Vai d'Agri, da Sapri, per Montesano, Moliterno e Corleto Perticara, alla stazione ferroviaria di Montalbano Jonico-Scanzano, e col n. 57 la strada detta Sapri-Jonio, da Sapri per Latronico e Fardella, alla stazione ferroviaria di Nova-Siri;
 
 Ritenuto che con deliberazione del 24 febbraio 1908, il Consiglio comunale di Sapri fece voti al Governo pel congiungimento attraverso quell'abitato, delle due nazionali suddette che vi fanno capo e per lo sbocco delle strade cosi' congiunte alla stazione ferroviaria di Sapri;
 
@@ -38,39 +36,28 @@ Vista la legge 20 marzo 1865, allegato F, sui lavori pubblici;
 
 Udito il parere del Consiglio superiore dei lavori pubblici e del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' rettificato l'estremo della strada nazionale n. 57 Sapri-Jonio all'ingrasso verso sud dell'abitato di Sapri, portandolo fino alla stazione ferroviaria di Sapri, e percorrendo i seguenti tratti della complessiva lunghezza di m. 840, che a decorrere dal 1° gennaio 1913 s'intenderanno far parte della nazionale n. 57 Sapri-Jonio: 
+ 
+ a) il tratto, lungo metri 220, che dall'attuale estremo della nazionale Sapri-Jonio, n. 57, per l'abitato di Sapri, conduce alla piazza del Plebiscito; 
+ 
+ b) il tratto, lungo metri 325, che muovendo da piazza del Plebiscito raggiunge l'attuale estremo della nazionale n. 56; 
+ 
+ c) il tratto, lungo metri 295, che dall'attuale estremo della nazionale di Val d'Agri n. 56 conduce alla stazione ferroviaria di Sapri; il tutto secondo Panda mento descritto nell'annessa planimetria in data 21 agosto 1912 che sara' vistata, d'ordine Nostro, dal predetto ministro segretario di Stato per i lavori pubblici.
 
-  
-  
-E' rettificato l'estremo della strada nazionale n. 57 Sapri-Jonio all'ingrasso verso sud dell'abitato di Sapri, portandolo fino alla stazione ferroviaria di Sapri, e percorrendo i seguenti tratti della complessiva lunghezza di m. 840, che a decorrere dal 1° gennaio 1913 s'intenderanno far parte della nazionale n. 57 Sapri-Jonio:   
-  
-a) il tratto, lungo metri 220, che dall'attuale estremo della nazionale Sapri-Jonio, n. 57, per l'abitato di Sapri, conduce alla piazza del Plebiscito;   
-  
-b) il tratto, lungo metri 325, che muovendo da piazza del Plebiscito raggiunge l'attuale estremo della nazionale n. 56;   
-  
-c) il tratto, lungo metri 295, che dall'attuale estremo della nazionale di Val d'Agri n. 56 conduce alla stazione ferroviaria di Sapri; il tutto secondo Panda mento descritto nell'annessa planimetria in data 21 agosto 1912 che sara' vistata, d'ordine Nostro, dal predetto ministro segretario di Stato per i lavori pubblici.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' rettificato l'estremo della strada nazionale n. 56 dalla parte di Sapri nel senso che la strada medesima ha origine dall'innesto colla nazionale n. 57 a metri 295 dalla stazione ferroviaria di Sapri.   
-  
-Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia insorto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 1° dicembre 1912.   
-  
-VITTORIO EMANUELE.   
-  
-Sacchi.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+E' rettificato l'estremo della strada nazionale n. 56 dalla parte di Sapri nel senso che la strada medesima ha origine dall'innesto colla nazionale n. 57 a metri 295 dalla stazione ferroviaria di Sapri. 
+ 
+ Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia insorto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° dicembre 1912. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Sacchi. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

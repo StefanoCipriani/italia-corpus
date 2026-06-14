@@ -1,21 +1,21 @@
-REGIO DECRETO 09 ottobre 1942 n. 1314
+---
+tipo: REGIO DECRETO
+numero: 1314
+data: 1942-10-09
+titolo: "Costituzione, presso il Comando del XXVI Corpo d'armata, con centro di mobilitazione in Bari, della « Fondazione Unione militare per il XXVI Corpo d'armata ». (042U1314)"
+urn: urn:nir:stato:regio.decreto:1942-10-09;1314
+codice_redazionale: 042U1314
+vigente: true
+---
 
-
-REGIO DECRETO 09 ottobre 1942 n. 1314
-=====================================
-
-Costituzione, presso il Comando del XXVI Corpo d'armata, con centro di mobilitazione in Bari, della « Fondazione Unione militare per il XXVI Corpo d'armata ». (042U1314)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/12/1942
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1314. R. decreto 9 ottobre 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, viene costituita presso il Comando del XXVI Corpo d'armata, con centro di mobilitazione in Bari, la « Fondazione Unione militare per il XXVI Corpo d'armata » e ne viene approvate il relativo statuto organico.   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 17 novembre 1942-XXI
+1314.
+
+R. decreto 9 ottobre 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, viene costituita presso il Comando del XXVI Corpo d'armata, con centro di mobilitazione in Bari, la « Fondazione Unione militare per il XXVI Corpo d'armata » e ne viene approvate il relativo statuto organico. 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 17 novembre 1942-XXI

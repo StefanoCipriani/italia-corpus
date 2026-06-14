@@ -1,16 +1,14 @@
-REGIO DECRETO 14 luglio 1891 n. 453
-
-
-REGIO DECRETO 14 luglio 1891 n. 453
-===================================
-
-Che approva la planimetria 1 febbraio 1891 concernente la variante di S. Anna a Marconiglio. (091U0453)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/08/1891
+---
+tipo: REGIO DECRETO
+numero: 453
+data: 1891-07-14
+titolo: "Che approva la planimetria 1 febbraio 1891 concernente la variante di S. Anna a Marconiglio. (091U0453)"
+urn: urn:nir:stato:regio.decreto:1891-07-14;453
+codice_redazionale: 091U0453
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,20 @@ Vista la planimetria 1 febbraio 1891 a firma Pietro Rulli contenente una variant
 
 Visto il R. Decreto sopracitato;
 
-Vista la [legge 15 gennaio 1885 n. 2892](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892);
+Vista la [legge 15 gennaio 1885 n. 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892);
 
-Visto
------
+Visto il parere del Consiglio Superiore dei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-il parere del Consiglio Superiore dei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La planimetria 1° febbraio 1891 a firma Pietro Rulli, concernente la variante di S. Anna a Marconiglio, e' approvata agli effetti dell'articolo 1° della [Legge 15 gennaio 1885 n. 2892](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892) e sara' d'ordine Nostro firmata dal Ministero proponente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza li 14 luglio 1891.   
-  
-UMBERTO.   
-  
-G. Nicotera.   
-  
-Visto, Il Guardasigilli: L. Ferraris.   
-  
+La planimetria 1° febbraio 1891 a firma Pietro Rulli, concernente la variante di S. Anna a Marconiglio, e' approvata agli effetti dell'articolo 1° della [Legge 15 gennaio 1885 n. 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892) e sara' d'ordine Nostro firmata dal Ministero proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza li 14 luglio 1891. 
+ 
+ UMBERTO. 
+ 
+ G. Nicotera. 
+ 
+ Visto, Il Guardasigilli: L. Ferraris.

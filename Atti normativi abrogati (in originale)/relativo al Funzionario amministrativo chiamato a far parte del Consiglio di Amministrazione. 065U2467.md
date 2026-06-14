@@ -1,16 +1,14 @@
-REGIO DECRETO 01 settembre 1865 n. 2467
-
-
-REGIO DECRETO 01 settembre 1865 n. 2467
-=======================================
-
-relativo al Funzionario amministrativo chiamato a far parte del Consiglio di Amministrazione. (065U2467)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/09/1865
+---
+tipo: REGIO DECRETO
+numero: 2467
+data: 1865-09-01
+titolo: "relativo al Funzionario amministrativo chiamato a far parte del Consiglio di Amministrazione. (065U2467)"
+urn: urn:nir:stato:regio.decreto:1865-09-01;2467
+codice_redazionale: 065U2467
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Visto ancora il Decreto 4 febbraio 1861 che approva il Regolamento del Consiglio
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Funzionario amministrativo, chiamato a far parte del Consiglio di Ammiragliato istituito con Regio Decreto del 17 novembre 1860, sara' in eccedenza al numero stabilito dalla pianta organica dell'Amministrazione o Corpo a cui appartiene.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze il 1.° settembre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 9 settembre 1865   
-  
-Reg.° 33 Atti del Governo a c. 174. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-D. Angioletti.   
-  
+Il Funzionario amministrativo, chiamato a far parte del Consiglio di Ammiragliato istituito con Regio Decreto del 17 novembre 1860, sara' in eccedenza al numero stabilito dalla pianta organica dell'Amministrazione o Corpo a cui appartiene. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze il 1.° settembre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 9 settembre 1865 
+ 
+ Reg.° 33 Atti del Governo a c. 174. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ D. Angioletti.

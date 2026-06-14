@@ -1,19 +1,15 @@
-REGIO DECRETO 28 settembre 1913 n. 1171
+---
+tipo: REGIO DECRETO
+numero: 1171
+data: 1913-09-28
+titolo: "Applicazione di tassa di famiglia (013U1171)"
+urn: urn:nir:stato:regio.decreto:1913-09-28;1171
+codice_redazionale: 013U1171
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 settembre 1913 n. 1171
-=======================================
-
-Applicazione di tassa di famiglia (013U1171)
---------------------------------------------
-
-Entrata in vigore del provvedimento: 29/10/1913
-
-Art. 1
-------
-
-  
-N. 1171   
-  
-Regio Decreto 28 settembre 1913, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Popoli di applicare nel 1913 la tassa di famiglia coll'aliquota massima del 2 %.   
-  
+N. 1171 
+ 
+ Regio Decreto 28 settembre 1913, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Popoli di applicare nel 1913 la tassa di famiglia coll'aliquota massima del 2 %.

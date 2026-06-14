@@ -1,47 +1,39 @@
-REGIO DECRETO 29 ottobre 1882 n. 1069
-
-
-REGIO DECRETO 29 ottobre 1882 n. 1069
-=====================================
-
-Che fissa l'interesse dei buoni del Tesoro. (082U1069)
-------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/11/1882
+---
+tipo: REGIO DECRETO
+numero: 1069
+data: 1882-10-29
+titolo: "Che fissa l'interesse dei buoni del Tesoro. (082U1069)"
+urn: urn:nir:stato:regio.decreto:1882-10-29;1069
+codice_redazionale: 082U1069
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduta la [legge 22 aprile 1869, n. 5026](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1869-04-22;5026);
+Veduta la [legge 22 aprile 1869, n. 5026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1869-04-22;5026);
 
-Veduto l'art. 554 del regolamento per l'amministrazione del patrimonio dello Stato e per la Contabilita' generale, approvato con [R. decreto del 4 settembre 1870, n. 5852](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-09-04;5852);
+Veduto l'art. 554 del regolamento per l'amministrazione del patrimonio dello Stato e per la Contabilita' generale, approvato con [R. decreto del 4 settembre 1870, n. 5852](Che%20approva%20il%20Regolamento%20per%20lesecuzione%20della%20Legge%2022%20aprile%201869%20n.%205026%20sulla%20Amministrazione%20del%20patrimonio%20dello%20Stato%20e%20sulla%20Contabilita%20generale.%20070U5852.md);
 
-Veduto il [R. decreto del 26 febbraio 1882, n. 648](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-02-26;648) (Serie 3ª), col quale fu fissato l'interesse dei Buoni del Tesoro, a decorrere dal giorno 27 dello stesso mese;
+Veduto il [R. decreto del 26 febbraio 1882, n. 648](Concernente%20linteresse%20dei%20buoni%20del%20tesoro.%20082U0648.md) (Serie 3ª), col quale fu fissato l'interesse dei Buoni del Tesoro, a decorrere dal giorno 27 dello stesso mese;
 
-Veduto l'[art. 4 della legge 25 dicembre 1881, numero 533](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-12-25;533~art4) (Serie 3ª);
+Veduto l'[art. 4 della legge 25 dicembre 1881, numero 533](Che%20approva%20lo%20stato%20di%20prima%20previsione%20dellentrata%20per%20lanno%201882.%20081U0533.md) (Serie 3ª);
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze, interim del Tesoro, Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze, interim del Tesoro, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A cominciare dal 1° novembre 1882 e' aumentato dell'uno per cento l'interesse dei Buoni del Tesoro fissato col suddetto Nostro decreto del 26 febbraio 1882, n. 648 (Serie 3ª).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 29 ottobre 1882.   
-  
-UMBERTO.   
-  
-A. Magliani.   
-  
-Visto, il Guardasigilli: G. Zanardelli.   
+A cominciare dal 1° novembre 1882 e' aumentato dell'uno per cento l'interesse dei Buoni del Tesoro fissato col suddetto Nostro decreto del 26 febbraio 1882, n. 648 (Serie 3ª). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 29 ottobre 1882. 
+ 
+ UMBERTO. 
+ 
+ A. Magliani. 
+ 
+ Visto, il Guardasigilli: G. Zanardelli.

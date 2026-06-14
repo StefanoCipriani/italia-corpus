@@ -1,16 +1,14 @@
-REGIO DECRETO 30 agosto 1876 n. 3332
-
-
-REGIO DECRETO 30 agosto 1876 n. 3332
-====================================
-
-Che agli elenchi delle strade provinciali di Cremona e di Milano aggiunge quelle di Cassano d'Adda e Rivoltana. (076U3332)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/10/1876
+---
+tipo: REGIO DECRETO
+numero: 3332
+data: 1876-08-30
+titolo: "Che agli elenchi delle strade provinciali di Cremona e di Milano aggiunge quelle di Cassano d'Adda e Rivoltana. (076U3332)"
+urn: urn:nir:stato:regio.decreto:1876-08-30;3332
+codice_redazionale: 076U3332
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,7 +22,7 @@ Veduti i Nostri decreti 20 ottobre 1866 e 30 dicembre 1875, e quelli 27 settembr
 
 Veduto il parere 12 agosto 1876 del Consiglio superiore dei Lavori Pubblici;
 
-Veduti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della legge 20 marzo 1865, numero 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato F;
+Veduti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [14 della legge 20 marzo 1865, numero 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), allegato F;
 
 Considerando
 
@@ -34,31 +32,20 @@ Che percio' la suddetta linea, la quale d'altronde percorre un territorio popola
 
 Che, contro la classificazione fra le provinciali della suddetta linea, non vennero mosse opposizioni;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' aggiunta all'elenco delle strade provinciali della provincia di Cremona quella detta di Cassano, che, diramandosi dalla provinciale Lodigiana presso Ombriano e passando per Pandino e Rivolta, termina al confine della provincia di Milano verso Cassano d'Adda.
 
-  
-  
-E' aggiunta all'elenco delle strade provinciali della provincia di Cremona quella detta di Cassano, che, diramandosi dalla provinciale Lodigiana presso Ombriano e passando per Pandino e Rivolta, termina al confine della provincia di Milano verso Cassano d'Adda.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' pure aggiunta all'elenco delle provinciali della provincia di Milano la strada detta Rivoltana, che, in continuazione della precedente, va dal confine cremonese a raggiungere la provinciale Veneta presso il ponte di Cassano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato al Castello di Sant'Anna, addi' 30 agosto 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Zanardelli.   
-  
+E' pure aggiunta all'elenco delle provinciali della provincia di Milano la strada detta Rivoltana, che, in continuazione della precedente, va dal confine cremonese a raggiungere la provinciale Veneta presso il ponte di Cassano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato al Castello di Sant'Anna, addi' 30 agosto 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Zanardelli.

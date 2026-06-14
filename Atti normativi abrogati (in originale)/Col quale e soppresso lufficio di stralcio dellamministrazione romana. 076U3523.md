@@ -1,16 +1,14 @@
-REGIO DECRETO 16 novembre 1876 n. 3523
-
-
-REGIO DECRETO 16 novembre 1876 n. 3523
-======================================
-
-Col quale e' soppresso l'ufficio di stralcio dell'amministrazione romana. (076U3523)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/12/1876
+---
+tipo: REGIO DECRETO
+numero: 3523
+data: 1876-11-16
+titolo: "Col quale e' soppresso l'ufficio di stralcio dell'amministrazione romana. (076U3523)"
+urn: urn:nir:stato:regio.decreto:1876-11-16;3523
+codice_redazionale: 076U3523
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,23 +16,18 @@ RE D'ITALIA
 
 Visti i decreti 14 e 31 dicembre 1870 del Nostro Luogotenente per Roma e le provincie Romane;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio, Nostro Ministro delle Finanze, Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio, Nostro Ministro delle Finanze, Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 L'ufficio temporaneo per la liquidazione e per lo stralcio delle partite provenienti dalla cessata, Amministrazione Romana e' soppresso con effetto dal 1° gennaio
 
-1877. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 novembre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-Depretis.
+1877.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 novembre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Depretis.

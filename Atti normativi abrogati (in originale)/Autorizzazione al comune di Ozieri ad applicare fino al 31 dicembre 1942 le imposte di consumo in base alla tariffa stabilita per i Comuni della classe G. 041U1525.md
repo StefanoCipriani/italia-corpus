@@ -1,16 +1,14 @@
-REGIO DECRETO 18 dicembre 1941 n. 1525
-
-
-REGIO DECRETO 18 dicembre 1941 n. 1525
-======================================
-
-Autorizzazione al comune di Ozieri ad applicare, fino al 31 dicembre 1942, le imposte di consumo in base alla tariffa stabilita per i Comuni della classe G. (041U1525)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/02/1942
+---
+tipo: REGIO DECRETO
+numero: 1525
+data: 1941-12-18
+titolo: "Autorizzazione al comune di Ozieri ad applicare, fino al 31 dicembre 1942, le imposte di consumo in base alla tariffa stabilita per i Comuni della classe G. (041U1525)"
+urn: urn:nir:stato:regio.decreto:1941-12-18;1525
+codice_redazionale: 041U1525
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,22 @@ Vista l'istanza avanzata dal comune dl Ozieri (Sassari) per avvalersi delle disp
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Ozieri e' autorizzato ad applicare fino al 31 dicembre 1942 le imposte di consumo in base alla tariffa stabilita per i Comuni della classe G.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 dicembre 1941-XX   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 20 gennaio 1942-XX   
-  
-Atti del Governo, registro 441, foglio 60. - MANCINI   
-  
-  
+Il comune di Ozieri e' autorizzato ad applicare fino al 31 dicembre 1942 le imposte di consumo in base alla tariffa stabilita per i Comuni della classe G. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 dicembre 1941-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 20 gennaio 1942-XX 
+ 
+ Atti del Governo, registro 441, foglio 60. - MANCINI

@@ -1,19 +1,15 @@
-REGIO DECRETO 25 settembre 1913 n. 1192
+---
+tipo: REGIO DECRETO
+numero: 1192
+data: 1913-09-25
+titolo: "Erezione in ente morale e relativa approvazione di statuto. (013U1192)"
+urn: urn:nir:stato:regio.decreto:1913-09-25;1192
+codice_redazionale: 013U1192
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 settembre 1913 n. 1192
-=======================================
-
-Erezione in ente morale e relativa approvazione di statuto. (013U1192)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/11/1913
-
-Art. 1
-------
-
-  
-N. 1192   
-  
-Regio Decreto 25 settembre 1913, col quale, sulla proposta del ministro dell'interno, l'asilo infantile della frazione Capo in comune di Albissola Superiore (Genova), e' eretto in ente morale con amministrazione autonoma e ne e' approvato lo statuto organico.   
-  
+N. 1192 
+ 
+ Regio Decreto 25 settembre 1913, col quale, sulla proposta del ministro dell'interno, l'asilo infantile della frazione Capo in comune di Albissola Superiore (Genova), e' eretto in ente morale con amministrazione autonoma e ne e' approvato lo statuto organico.

@@ -1,16 +1,14 @@
-REGIO DECRETO 31 agosto 1933 n. 1184
-
-
-REGIO DECRETO 31 agosto 1933 n. 1184
-====================================
-
-Esperimenti per l'avanzamento dei tenenti colonnelli di fanteria, cavalleria, artiglieria e genio. (033U1184)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/09/1933
+---
+tipo: REGIO DECRETO
+numero: 1184
+data: 1933-08-31
+titolo: "Esperimenti per l'avanzamento dei tenenti colonnelli di fanteria, cavalleria, artiglieria e genio. (033U1184)"
+urn: urn:nir:stato:regio.decreto:1933-08-31;1184
+codice_redazionale: 033U1184
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,31 +16,25 @@ RE D'ITALIA
 
 Visto il testo unico delle leggi e disposizioni sull'avanzamento degli ufficiali del Regio esercito, approvato con R. decreto 8 maggio 1933-XI;
 
-Visto il Nostro [R. decreto 13 dicembre 1925, n. 2297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-12-13;2297);
+Visto il Nostro [R. decreto 13 dicembre 1925, n. 2297](Esperimenti%20per%20lavanzamento%20dei%20tenenti%20colonnelli%20del%20Regio%20esercito.%20025U2297.md);
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, e Ministro Segretario di Stato per la guerra; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, e Ministro Segretario di Stato per la guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A complemento delle disposizioni contenute nel [R. decreto 13 dicembre 1925, n. 2297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-12-13;2297), gli esperimenti cui debbono essere sottoposti i tenenti colonnelli delle armi di fanteria, cavalleria, artiglieria e genio per conseguire l'avanzamento al grado superiore, comprenderanno anche una prova pratica di comando sul terreno, inerente al grado di colonnello.   
-  
-Il presente decreto ha vigore dalla data di pubblicazione sulla Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 31 agosto 1933 - Anno XI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 15 settembre 1933 - Anno XI   
-Atti del Governo, registro 336, foglio 52. - Mancini.   
+A complemento delle disposizioni contenute nel [R. decreto 13 dicembre 1925, n. 2297](Esperimenti%20per%20lavanzamento%20dei%20tenenti%20colonnelli%20del%20Regio%20esercito.%20025U2297.md), gli esperimenti cui debbono essere sottoposti i tenenti colonnelli delle armi di fanteria, cavalleria, artiglieria e genio per conseguire l'avanzamento al grado superiore, comprenderanno anche una prova pratica di comando sul terreno, inerente al grado di colonnello. 
+ 
+ Il presente decreto ha vigore dalla data di pubblicazione sulla Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 31 agosto 1933 - Anno XI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 15 settembre 1933 - Anno XI  
+ Atti del Governo, registro 336, foglio 52. - Mancini.

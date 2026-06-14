@@ -1,16 +1,14 @@
-REGIO DECRETO 29 novembre 1868 n. 4734
-
-
-REGIO DECRETO 29 novembre 1868 n. 4734
-======================================
-
-Concernente la diramazione della strada provinciale di Valguarnera. (068U4734)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/01/1869
+---
+tipo: REGIO DECRETO
+numero: 4734
+data: 1868-11-29
+titolo: "Concernente la diramazione della strada provinciale di Valguarnera. (068U4734)"
+urn: urn:nir:stato:regio.decreto:1868-11-29;4734
+codice_redazionale: 068U4734
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Veduto il parere del Consiglio superiore dei Lavori Pubblici, emesso nell'adunan
 
 Veduti gli articoli 13 e 14 della Legge 20 marzo 1865 sui lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La strada provinciale di Valguarnera s'intende diramarsi dalla Nazionale di Santa Caterina a Siracusa alla Portella Grottacalda, anziche' dalla Nazionale stessa presso il varco Ramata.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 29 novembre 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 11 dicembre 1868   
-  
-Reg. 45 Atti del Governo a c. 16. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-L. Pasini.   
-  
+La strada provinciale di Valguarnera s'intende diramarsi dalla Nazionale di Santa Caterina a Siracusa alla Portella Grottacalda, anziche' dalla Nazionale stessa presso il varco Ramata. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 29 novembre 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 11 dicembre 1868 
+ 
+ Reg. 45 Atti del Governo a c. 16. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ L. Pasini.

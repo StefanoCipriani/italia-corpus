@@ -1,16 +1,14 @@
-REGIO DECRETO 08 maggio 1879 n. 4893
-
-
-REGIO DECRETO 08 maggio 1879 n. 4893
-====================================
-
-Che stabilisce l'epoca in cui possono farsi gli esami di ammissione al secondo, terzo e quarto anno d'istituto tecnico. (079U4893)
-----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/06/1879
+---
+tipo: REGIO DECRETO
+numero: 4893
+data: 1879-05-08
+titolo: "Che stabilisce l'epoca in cui possono farsi gli esami di ammissione al secondo, terzo e quarto anno d'istituto tecnico. (079U4893)"
+urn: urn:nir:stato:regio.decreto:1879-05-08;4893
+codice_redazionale: 079U4893
+vigente: true
+---
 
 UMBERTO
--------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,23 +20,16 @@ Visto il regolamento per gli esami di ammissione negli istituti tecnici, approva
 
 Sentito il parere del consiglio superiore dell'istruzione industriale e professionale;
 
-Sulla
------
+Sulla proposta del nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
 
-proposta del nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Gli esami di ammissione al secondo, al terzo ed al quarto anno d'istituto tecnico, possono farsi cosi' nella sessione autunnale come in quella estiva di ciascun anno scolastico.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 8 maggio 1879.   
-  
-UMBERTO   
-  
-M. Coppino.   
-  
+Gli esami di ammissione al secondo, al terzo ed al quarto anno d'istituto tecnico, possono farsi cosi' nella sessione autunnale come in quella estiva di ciascun anno scolastico. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 8 maggio 1879. 
+ 
+ UMBERTO 
+ 
+ M. Coppino.

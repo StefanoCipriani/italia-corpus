@@ -1,16 +1,14 @@
-REGIO DECRETO 22 agosto 1867 n. 3864
-
-
-REGIO DECRETO 22 agosto 1867 n. 3864
-====================================
-
-Col quale si stabilisce che il Decreto 17 luglio 1867, relativo alla divisione dell'Amministrazione delle Tasse e del Demanio in due distinte Amministrazioni, avra' effetto dal 1° settembre 1867. (067U3864)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/09/1867
+---
+tipo: REGIO DECRETO
+numero: 3864
+data: 1867-08-22
+titolo: "Col quale si stabilisce che il Decreto 17 luglio 1867, relativo alla divisione dell'Amministrazione delle Tasse e del Demanio in due distinte Amministrazioni, avra' effetto dal 1° settembre 1867. (067U3864)"
+urn: urn:nir:stato:regio.decreto:1867-08-22;3864
+codice_redazionale: 067U3864
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,29 +18,22 @@ Visto il Nostro Decreto del 17 luglio 1867, n. 5809, col quale l'Amministrazione
 
 Sulla proposizione del Presidente del Consiglio, Ministro dell'Interno, incaricato del Portafoglio delle Finanze;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Nostro Decreto del 17 luglio 1867, n. 3809, nella parte risguardante Amministrazione centrale, avra' effetto dal 1° settembre prossimo venturo.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 22 agosto 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 27 agosto 1867   
-  
-Reg. 40 Atti del Governo a c. 203. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Tecchio.   
-  
-U. Rattazzi.   
-  
+Il Nostro Decreto del 17 luglio 1867, n. 3809, nella parte risguardante Amministrazione centrale, avra' effetto dal 1° settembre prossimo venturo. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 22 agosto 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 agosto 1867 
+ 
+ Reg. 40 Atti del Governo a c. 203. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Tecchio. 
+ 
+ U. Rattazzi.

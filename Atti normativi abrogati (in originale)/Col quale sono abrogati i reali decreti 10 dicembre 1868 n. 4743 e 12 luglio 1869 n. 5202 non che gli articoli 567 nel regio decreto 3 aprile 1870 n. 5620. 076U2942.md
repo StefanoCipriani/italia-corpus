@@ -1,16 +1,14 @@
-REGIO DECRETO 20 gennaio 1876 n. 2942
-
-
-REGIO DECRETO 20 gennaio 1876 n. 2942
-=====================================
-
-Col quale sono abrogati i reali decreti 10 dicembre 1868, n. 4743, e 12 luglio 1869, n. 5202, non che gli articoli 5,6,7 nel regio decreto 3 aprile 1870, n. 5620. (076U2942)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/02/1876
+---
+tipo: REGIO DECRETO
+numero: 2942
+data: 1876-01-20
+titolo: "Col quale sono abrogati i reali decreti 10 dicembre 1868, n. 4743, e 12 luglio 1869, n. 5202, non che gli articoli 5,6,7 nel regio decreto 3 aprile 1870, n. 5620. (076U2942)"
+urn: urn:nir:stato:regio.decreto:1876-01-20;2942
+codice_redazionale: 076U2942
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,39 +22,24 @@ Ritenuto essere tempo omai di chiudere quelle scorciatoie che ritraevano i giova
 
 Sentito il Consiglio superiore di Pubblica Istruzione;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I precitati decreti 10 dicembre 1868, n. 4743, 12 luglio 1869, n. 5202, sono abrogati.
 
-  
-  
-I precitati decreti 10 dicembre 1868, n. 4743, 12 luglio 1869, n. 5202, sono abrogati.   
-  
+## Art. 2.
 
-Art. 2
-------
+Sono pure abrogate le disposizioni (articoli 5, 6 e 7) del regolamento approvato con decreto 3 aprile 1870, n. 5620, che si riferiscono ai corsi biennali per gli aspiranti al diploma di pedagogia nelle scuole normali e magistrali.
 
-  
-  
-Sono pure abrogate le disposizioni (articoli 5, 6 e 7) del regolamento approvato con decreto 3 aprile 1870, n. 5620, che si riferiscono ai corsi biennali per gli aspiranti al diploma di pedagogia nelle scuole normali e magistrali.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Le disposizioni abrogative del presente decreto avranno effetto col nuovo anno scolastico 1876-77.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo o di farlo osservare.   
-  
-Dato a Roma addi' 20 gennaio 1876.   
-  
-VITTORIO EMANUELE.   
-  
-R. Bonghi.   
-  
+Le disposizioni abrogative del presente decreto avranno effetto col nuovo anno scolastico 1876-77. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo o di farlo osservare. 
+ 
+ Dato a Roma addi' 20 gennaio 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ R. Bonghi.

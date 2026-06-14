@@ -1,21 +1,21 @@
-REGIO DECRETO 05 ottobre 1939 n. 1778
+---
+tipo: REGIO DECRETO
+numero: 1778
+data: 1939-10-05
+titolo: "Erezione in ente morale della Scuola all'aperto di Lanciano (Chieti). (039U1778)"
+urn: urn:nir:stato:regio.decreto:1939-10-05;1778
+codice_redazionale: 039U1778
+vigente: true
+---
 
-
-REGIO DECRETO 05 ottobre 1939 n. 1778
-=====================================
-
-Erezione in ente morale della Scuola all'aperto di Lanciano (Chieti). (039U1778)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/12/1939
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1778. R. decreto 5 ottobre 1939, col quale, sulla proposta del Ministro per l'educazione nazionale, la scuola all'aperto di Lanciano (Chieti) viene eretta in ente morale e ne e' approvato lo statuto organico.   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 28 novembre 1939-XVIII
+1778.
+
+R. decreto 5 ottobre 1939, col quale, sulla proposta del Ministro per l'educazione nazionale, la scuola all'aperto di Lanciano (Chieti) viene eretta in ente morale e ne e' approvato lo statuto organico. 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 28 novembre 1939-XVIII

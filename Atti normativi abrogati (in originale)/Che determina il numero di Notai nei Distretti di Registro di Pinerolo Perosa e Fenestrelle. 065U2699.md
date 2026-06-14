@@ -1,16 +1,14 @@
-REGIO DECRETO 23 dicembre 1865 n. 2699
-
-
-REGIO DECRETO 23 dicembre 1865 n. 2699
-======================================
-
-Che determina il numero di Notai nei Distretti di Registro di Pinerolo, Perosa e Fenestrelle. (065U2699)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/02/1866
+---
+tipo: REGIO DECRETO
+numero: 2699
+data: 1865-12-23
+titolo: "Che determina il numero di Notai nei Distretti di Registro di Pinerolo, Perosa e Fenestrelle. (065U2699)"
+urn: urn:nir:stato:regio.decreto:1865-12-23;2699
+codice_redazionale: 065U2699
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,36 +20,20 @@ Visti i Regii Decreti del 15 maggio e 15 luglio 1862, n. 612 e 760, in virtu' de
 
 Ritenuto che in seguito delle suaccennate variazioni si e' reso necessario di provvedere ad una nuova assegnazione del numero dei Notai in caduno dei Distretti come sopra modificati;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nei Distretti di Registro di Pinerolo, Perosa e Fenestrelle e' assegnato il numero di Notai risultante dalla Tabella annessa a questo Decreto, vista d'ordine Nostro dal Ministro Guardasigilli.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 23 dicembre 1865.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 31 dicembre 1865   
-Reg.° 34 Atti del Governo a c. 183. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli CORTESE.   
-  
-CORTESE.   
-  
-  
-
-Tabella
-
-  
-TABELLA del numero dei notai assegnati ai nuovi distretti di registro di Pinerolo, Perosa e Fenestrelle nel circondario di Pinerolo   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=065U269900100010110001&dgu=1866-01-17&art.dataPubblicazioneGazzetta=1866-01-17&art.codiceRedazionale=065U2699)
-  
+Nei Distretti di Registro di Pinerolo, Perosa e Fenestrelle e' assegnato il numero di Notai risultante dalla Tabella annessa a questo Decreto, vista d'ordine Nostro dal Ministro Guardasigilli. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 23 dicembre 1865. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 31 dicembre 1865 
+ Reg.° 34 Atti del Governo a c. 183. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli CORTESE. 
+ 
+ CORTESE.

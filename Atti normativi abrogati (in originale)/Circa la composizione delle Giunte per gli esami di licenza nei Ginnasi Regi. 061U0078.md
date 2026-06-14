@@ -1,16 +1,14 @@
-REGIO DECRETO 13 giugno 1861 n. 78
-
-
-REGIO DECRETO 13 giugno 1861 n. 78
-==================================
-
-Circa la composizione delle Giunte per gli esami di licenza nei Ginnasi Regi. (061U0078)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/07/1861
+---
+tipo: REGIO DECRETO
+numero: 78
+data: 1861-06-13
+titolo: "Circa la composizione delle Giunte per gli esami di licenza nei Ginnasi Regi. (061U0078)"
+urn: urn:nir:stato:regio.decreto:1861-06-13;78
+codice_redazionale: 061U0078
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,37 +18,26 @@ Vista la legge 13 novembre 1859 sulla Istruzione;
 
 Visto il regolamento per le scuole secondarie classiche approvato con Nostro Decreto del 22 settembre 1860;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo determinato e determiniamo:
 
-proposta del Nostro Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo determinato e determiniamo:
+## Art. 1.
 
-Art. 1
-------
+La Giunta per l'esame di licenza in ogni Ginnasio Regio, o pareggiato ai Regi, e' nominata annualmente dal Regio Provveditore agli studi, essa si compone del Direttore del Ginnasio, che presiedera', e di tre persone le quali, o per insegnamenti, od in altro modo, abbiano dato prove di capacita'.
 
-  
-  
-La Giunta per l'esame di licenza in ogni Ginnasio Regio, o pareggiato ai Regi, e' nominata annualmente dal Regio Provveditore agli studi, essa si compone del Direttore del Ginnasio, che presiedera', e di tre persone le quali, o per insegnamenti, od in altro modo, abbiano dato prove di capacita'.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' abrogato l'articolo 18 del regolamento del 22 settembre 1860 sulle scuole secondarie.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 13 giugno 1861.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei Conti addi' 16 giugno 1861   
-  
-Reg.° 17 Atti del Governo a c. 173. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Miglietti.   
-  
-F. De-Sanctis.   
-  
+E' abrogato l'articolo 18 del regolamento del 22 settembre 1860 sulle scuole secondarie. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 13 giugno 1861. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei Conti addi' 16 giugno 1861 
+ 
+ Reg.° 17 Atti del Governo a c. 173. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Miglietti. 
+ 
+ F. De-Sanctis.

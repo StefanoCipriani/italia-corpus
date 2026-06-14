@@ -1,20 +1,17 @@
-REGIO DECRETO 26 dicembre 1861 n. CCXLVIII
+---
+tipo: REGIO DECRETO
+numero: CCXLVIII
+data: 1861-12-26
+titolo: "Che approva il regolamento di polizia rurale pel Comune di Magomadas. (6100248R)"
+urn: urn:nir:stato:regio.decreto:1861-12-26;248
+codice_redazionale: 6100248R
+vigente: true
+---
 
-
-REGIO DECRETO 26 dicembre 1861 n. CCXLVIII
-==========================================
-
-Che approva il regolamento di polizia rurale pel Comune di Magomadas. (6100248R)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/12/1861
-
-Art. 1
-------
+## Art. 1.
 
 Che approva il regolamento di polizia rurale della Comunita' di Magomadas (Provincia di Cagliari) deliberato con ordinato del 20 maggio
 
-1861. 
-  
-  
+1861.
+
 Torino 26 dicembre 1861

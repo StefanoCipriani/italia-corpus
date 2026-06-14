@@ -1,16 +1,14 @@
-REGIO DECRETO 01 marzo 1908 n. 109
-
-
-REGIO DECRETO 01 marzo 1908 n. 109
-==================================
-
-Che approva le norme per la esportazione delle talee e barbatelle di viti dalle isole di Sicilia, dell'Elba e della Sardegna. (008U0109)
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/04/1908
+---
+tipo: REGIO DECRETO
+numero: 109
+data: 1908-03-01
+titolo: "Che approva le norme per la esportazione delle talee e barbatelle di viti dalle isole di Sicilia, dell'Elba e della Sardegna. (008U0109)"
+urn: urn:nir:stato:regio.decreto:1908-03-01;109
+codice_redazionale: 008U0109
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,57 +22,42 @@ Visto l'avviso espresso il 14 dicembre 1906 dalla Commissione consultiva per la 
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro di agricoltura, industria e commercio di accordo con quello delle finanze: Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro di agricoltura, industria e commercio di accordo con quello delle finanze: Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Dalle isole di Sicilia, dell'Elba e della Sardegna, e' consentita, sotto le condizioni espresse negli articoli seguenti, la esportazione delle talee e barbatelle di viti americane anche provenienti dai vivai privati diretti ai Comuni fillosserati o sospetti di infezione fillosserica compresi nelle zone abbandonate e nei quali e' stata consentita dal Ministero la introduzione di viti provenienti da altre localita' anche infette o sospette. 
+ 
+ Le dette viti non potranno importarsi in alcuno dei Comuni della regione meridionale adriatica (provincie di Lecce, Bari, Foggia, Campobasso, Teramo, Chieti, Aquila).
 
-  
-  
-Dalle isole di Sicilia, dell'Elba e della Sardegna, e' consentita, sotto le condizioni espresse negli articoli seguenti, la esportazione delle talee e barbatelle di viti americane anche provenienti dai vivai privati diretti ai Comuni fillosserati o sospetti di infezione fillosserica compresi nelle zone abbandonate e nei quali e' stata consentita dal Ministero la introduzione di viti provenienti da altre localita' anche infette o sospette.   
-  
-Le dette viti non potranno importarsi in alcuno dei Comuni della regione meridionale adriatica (provincie di Lecce, Bari, Foggia, Campobasso, Teramo, Chieti, Aquila).   
+## Art. 2.
 
-Art. 2
-------
+La esportazione delle predette viti e' subordinata alle seguenti norme: 
+ 
+ a) che se ne chieda volta per volta l'autorizzazione al Ministero, con domanda in carta da bollo da lire una o per telegramma, indicando, per ogni singolo caso, il numero delle viti che si vogliono esportare, il luogo di origine e la destinazione; 
+ 
+ b) che le viti sieno contenute in casse di legno perfettamente chiuse per mezzo di chiodi a vite, ma facili ad essere visitate; 
+ 
+ c) che le viti e l'imballaggio vengano disinfettate negli Istituti governativi all'uopo incaricati in Messina, Riposto, Catania, Portoferraio e Sassari, merce' l'acqua riscaldata a 53° C., e con le norme che saranno prescritte dal Ministero di agricoltura, industria e commercio; 
+ 
+ d) che esse viti, condizionate come alla lettera b) si esportino soltanto per le dogane di Messina, Riposto, Catania, Portoferraio e Porto Torres, previa presentazione del certificato della disinfezione eseguita, della quale dovra' fare constatazione anche un cartellino timbrato e firmato dall'Istituto governativo e solidamente applicato su ciascuna cassa.
 
-  
-  
-La esportazione delle predette viti e' subordinata alle seguenti norme:   
-  
-a) che se ne chieda volta per volta l'autorizzazione al Ministero, con domanda in carta da bollo da lire una o per telegramma, indicando, per ogni singolo caso, il numero delle viti che si vogliono esportare, il luogo di origine e la destinazione;   
-  
-b) che le viti sieno contenute in casse di legno perfettamente chiuse per mezzo di chiodi a vite, ma facili ad essere visitate;   
-  
-c) che le viti e l'imballaggio vengano disinfettate negli Istituti governativi all'uopo incaricati in Messina, Riposto, Catania, Portoferraio e Sassari, merce' l'acqua riscaldata a 53° C., e con le norme che saranno prescritte dal Ministero di agricoltura, industria e commercio;   
-  
-d) che esse viti, condizionate come alla lettera b) si esportino soltanto per le dogane di Messina, Riposto, Catania, Portoferraio e Porto Torres, previa presentazione del certificato della disinfezione eseguita, della quale dovra' fare constatazione anche un cartellino timbrato e firmato dall'Istituto governativo e solidamente applicato su ciascuna cassa.   
+## Art. 3.
 
-Art. 3
-------
+Gli esportatori dovranno sostenere le spese occorrenti per la summenzionata disinfezione.
 
-  
-  
-Gli esportatori dovranno sostenere le spese occorrenti per la summenzionata disinfezione.   
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Per le esportazioni di viti dalla Sicilia, dall' Elba e dalla Sardegna, in contravvenzione alle norme stabilite col presente decreto, saranno applicate le sanzioni penali e le disposizioni contenute nell'art. 15 del testo unico delle leggi antifillosseriche.   
-  
-I decreti 8 agosto 1902, nn. 385 e 386, e 19 febbraio 1903, n. 182, sono abrogati.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 1° marzo 1908   
-  
-VITTORIO EMANUELE.   
-  
-Cocco-Ortu.   
-  
-Visto, Il guardasigilli: Orlando.   
+Per le esportazioni di viti dalla Sicilia, dall' Elba e dalla Sardegna, in contravvenzione alle norme stabilite col presente decreto, saranno applicate le sanzioni penali e le disposizioni contenute nell'art. 15 del testo unico delle leggi antifillosseriche. 
+ 
+ I decreti 8 agosto 1902, nn. 385 e 386, e 19 febbraio 1903, n. 182, sono abrogati. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° marzo 1908 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Cocco-Ortu. 
+ 
+ Visto, Il guardasigilli: Orlando.

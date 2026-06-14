@@ -1,16 +1,14 @@
-REGIO DECRETO 27 gennaio 1878 n. 4275
-
-
-REGIO DECRETO 27 gennaio 1878 n. 4275
-=====================================
-
-Col quale la frazione di Colle di Tora e' autorizzata a tenere le sue rendite, passivita' e spese separate da quelle del rimanente del comune di Castel di Tora. (078U4275)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/02/1878
+---
+tipo: REGIO DECRETO
+numero: 4275
+data: 1878-01-27
+titolo: "Col quale la frazione di Colle di Tora e' autorizzata a tenere le sue rendite, passivita' e spese separate da quelle del rimanente del comune di Castel di Tora. (078U4275)"
+urn: urn:nir:stato:regio.decreto:1878-01-27;4275
+codice_redazionale: 078U4275
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Vista la deliberazione del Consiglio comunale di Castel di Tora in data 15 april
 
 Visto l'articolo 16 della legge comunale e provinciale 20 marzo 1865, allegato A;
 
-Vista
------
+Vista la legge 29 giugno 1875, n° 2612, Abbiamo decretato e decretiamo:
 
-la legge 29 giugno 1875, n° 2612, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La frazione di Colle di Tora e' autorizzata a tenere le proprie rendite e passivita' patrimoniali e le spese contemplate dall'ultimo paragrafo dell'articolo 13 della legge comunale e provinciale separate da quelle del rimanente del comune di Castel di Tora.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 gennaio 1878.   
-  
-UMBERTO.   
-  
-F. Crispi.   
-  
+La frazione di Colle di Tora e' autorizzata a tenere le proprie rendite e passivita' patrimoniali e le spese contemplate dall'ultimo paragrafo dell'articolo 13 della legge comunale e provinciale separate da quelle del rimanente del comune di Castel di Tora. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 gennaio 1878. 
+ 
+ UMBERTO. 
+ 
+ F. Crispi.

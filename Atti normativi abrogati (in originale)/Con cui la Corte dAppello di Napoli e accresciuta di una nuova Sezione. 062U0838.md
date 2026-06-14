@@ -1,16 +1,14 @@
-REGIO DECRETO 14 settembre 1862 n. 838
-
-
-REGIO DECRETO 14 settembre 1862 n. 838
-======================================
-
-Con cui la Corte d'Appello di Napoli e' accresciuta di una nuova Sezione. (062U0838)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/10/1862
+---
+tipo: REGIO DECRETO
+numero: 838
+data: 1862-09-14
+titolo: "Con cui la Corte d'Appello di Napoli e' accresciuta di una nuova Sezione. (062U0838)"
+urn: urn:nir:stato:regio.decreto:1862-09-14;838
+codice_redazionale: 062U0838
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,31 +22,24 @@ Considerando che l'esperienza fatta dal primo maggio sinora ha dimostrato essere
 
 Sulla proposizione del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti;
 
-Udito
------
+Udito il Consiglio dei Ministri; Abbiamo ordinato ed ordiniamo quanto segue:
 
-il Consiglio dei Ministri; Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Corte di Appello di Napoli e' accresciuta di una novella Sezione.   
-  
-Il personale percio', compreso nella tabella D annessa al Decreto del 9 febbraio 1862, n.° 451, rimane aumentato di un Vice-Presidente, di sei Consiglieri e di un Sostituito Procuratore Generale.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 14 settembre 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 27 settembre 1862   
-  
-Reg.° 20 Atti del Governo a c. 301. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
-  
-Raffaele Conforti.   
-  
+La Corte di Appello di Napoli e' accresciuta di una novella Sezione. 
+ 
+ Il personale percio', compreso nella tabella D annessa al Decreto del 9 febbraio 1862, n.° 451, rimane aumentato di un Vice-Presidente, di sei Consiglieri e di un Sostituito Procuratore Generale. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 14 settembre 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 settembre 1862 
+ 
+ Reg.° 20 Atti del Governo a c. 301. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ Raffaele Conforti.

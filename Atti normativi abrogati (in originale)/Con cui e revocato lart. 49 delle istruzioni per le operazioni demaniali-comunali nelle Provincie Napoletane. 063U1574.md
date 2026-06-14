@@ -1,16 +1,14 @@
-REGIO DECRETO 06 dicembre 1863 n. 1574
-
-
-REGIO DECRETO 06 dicembre 1863 n. 1574
-======================================
-
-Con cui e' revocato l'art. 49 delle istruzioni per le operazioni demaniali-comunali nelle Provincie Napoletane. (063U1574)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/01/1864
+---
+tipo: REGIO DECRETO
+numero: 1574
+data: 1863-12-06
+titolo: "Con cui e' revocato l'art. 49 delle istruzioni per le operazioni demaniali-comunali nelle Provincie Napoletane. (063U1574)"
+urn: urn:nir:stato:regio.decreto:1863-12-06;1574
+codice_redazionale: 063U1574
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,24 @@ Visto l'avviso pronunziato dal Consiglio di Stato in adunanza del 21 novembre 18
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposizione del Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio; Abbiamo decretato e decretiamo:
 
-proposizione del Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 E' revocato l'art. 49 delle istruzioni per le operazioni demaniali-comunali nelle Provincie Napoletane approvate col Decreto Luogotenenziale del 3 luglio
 
-1861. 
-  
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 6 dicembre 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 15 dicembre 1863   
-  
-Reg.° 27 Atti del Governo a c. 71. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-Manna.
+1861.
+
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 6 dicembre 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 15 dicembre 1863 
+ 
+ Reg.° 27 Atti del Governo a c. 71. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ Manna.

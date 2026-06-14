@@ -1,19 +1,15 @@
-REGIO DECRETO 14 aprile 1912 n. 365
+---
+tipo: REGIO DECRETO
+numero: 365
+data: 1912-04-14
+titolo: "Erezione in Ente morale. (012U0365)"
+urn: urn:nir:stato:regio.decreto:1912-04-14;365
+codice_redazionale: 012U0365
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 aprile 1912 n. 365
-===================================
-
-Erezione in Ente morale. (012U0365)
------------------------------------
-
-Entrata in vigore del provvedimento: 16/05/1912
-
-Art. 1
-------
-
-  
-N. 365   
-  
-Regio Decreto 14 aprile 1912, col quale, sulla proposta del ministro dell'interno, l'opera pia «Laura Malfatti» di Veggiano (Padova), e' eretta in ente morale.   
-  
+N. 365 
+ 
+ Regio Decreto 14 aprile 1912, col quale, sulla proposta del ministro dell'interno, l'opera pia «Laura Malfatti» di Veggiano (Padova), e' eretta in ente morale.

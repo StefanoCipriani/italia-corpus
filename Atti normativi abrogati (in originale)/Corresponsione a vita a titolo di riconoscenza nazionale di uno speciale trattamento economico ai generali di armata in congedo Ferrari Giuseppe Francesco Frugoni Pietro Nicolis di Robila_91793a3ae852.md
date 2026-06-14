@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 05 settembre 1938 n. 1663
-
-
-REGIO DECRETO-LEGGE 05 settembre 1938 n. 1663
-=============================================
-
-Corresponsione a vita, a titolo di riconoscenza nazionale, di uno speciale trattamento economico ai generali di armata in congedo Ferrari Giuseppe Francesco, Frugoni Pietro, Nicolis di Robilant Mario, Porro Carlo, Zoppi Gaetano e Mambretti Ettore, nonche' all'ammiraglio d'armata nella riserva Solari Emilio ed agli ammiragli di armata in ausiliaria Nicastro Gustavo e Ciano Costanzo. (038U1663)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/11/1938.  
-Regio Decreto-Legge convertito dalla [L. 22 dicembre 1938, n. 2228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-12-22;2228) (in G.U. 17/03/1939, n. 65).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1663
+data: 1938-09-05
+titolo: "Corresponsione a vita, a titolo di riconoscenza nazionale, di uno speciale trattamento economico ai generali di armata in congedo Ferrari Giuseppe Francesco, Frugoni Pietro, Nicolis di Robilant Mario, Porro Carlo, Zoppi Gaetano e Mambretti Ettore, nonche' all'ammiraglio d'armata nella riserva Solari Emilio ed agli ammiragli di armata in ausiliaria Nicastro Gustavo e Ciano Costanzo. (038U1663)"
+urn: urn:nir:stato:regio.decreto.legge:1938-09-05;1663
+codice_redazionale: 038U1663
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -35,38 +32,25 @@ Visto l'art. 3, n. 2, della legge 31 gennaio 1926-IV, numero 100;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra e per la marina, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra e per la marina, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Al generale di armata in ausiliaria Ferrari Giuseppe Francesco e ai generali di armata in congedo assoluto Frugoni Pietro, Nicolis di Robilant nob. dei conti Mario, Porro nob. dei conti di Santa Maria della Bicocca Carlo, Zoppi Gaetano e Mambretti Ettore, nonche' all'ammiraglio di armata nella riserva Solari Emilio ed agli ammiragli di armata in ausiliaria Nicastro Gustavo e Ciano Costanzo, e' concesso a vita, a decorrere da 14 novembre 1938-XVII, il trattamento economico che compete attualmente ai generali di armata in servizio permanente effettivo di cui all'allegato 1 alla legge 16 giugno 1935-XIII, n. 1026, sullo stato degli ufficiali del Regio esercito.
 
-  
-  
-Al generale di armata in ausiliaria Ferrari Giuseppe Francesco e ai generali di armata in congedo assoluto Frugoni Pietro, Nicolis di Robilant nob. dei conti Mario, Porro nob. dei conti di Santa Maria della Bicocca Carlo, Zoppi Gaetano e Mambretti Ettore, nonche' all'ammiraglio di armata nella riserva Solari Emilio ed agli ammiragli di armata in ausiliaria Nicastro Gustavo e Ciano Costanzo, e' concesso a vita, a decorrere da 14 novembre 1938-XVII, il trattamento economico che compete attualmente ai generali di armata in servizio permanente effettivo di cui all'allegato 1 alla legge 16 giugno 1935-XIII, n. 1026, sullo stato degli ufficiali del Regio esercito.   
-  
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. Il DUCE, proponente, e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 5 settembre 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 31 ottobre 1938 - Anno XVII   
-Atti del Governo, registro 402, foglio 156. - Mancini.   
-  
-  
+Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. Il DUCE, proponente, e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 5 settembre 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 31 ottobre 1938 - Anno XVII  
+ Atti del Governo, registro 402, foglio 156. - Mancini.

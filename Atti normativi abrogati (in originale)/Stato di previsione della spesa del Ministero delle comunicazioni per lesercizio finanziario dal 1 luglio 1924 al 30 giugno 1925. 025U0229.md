@@ -1,62 +1,37 @@
-LEGGE 15 febbraio 1925 n. 229
+---
+tipo: LEGGE
+numero: 229
+data: 1925-02-15
+titolo: "Stato di previsione della spesa del Ministero delle comunicazioni per l'esercizio finanziario dal 1° luglio 1924 al 30 giugno 1925. (025U0229)"
+urn: urn:nir:stato:legge:1925-02-15;229
+codice_redazionale: 025U0229
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 15 febbraio 1925 n. 229
-=============================
+Il Governo del Re e' autorizzato a far pagare le spese ordinarie e straordinarie del Ministero delle comunicazioni, per l'esercizio finanziario dal 1° luglio 1924 al 30 giugno 1925, in conformita' dello stato di previsione annesso alla presente legge.
 
-Stato di previsione della spesa del Ministero delle comunicazioni per l'esercizio finanziario dal 1° luglio 1924 al 30 giugno 1925. (025U0229)
-----------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 09/04/1925
+L'Amministrazione delle ferrovie dello Stato e' autorizzata ad accertare e riscuotere le entrate e a far pagare le spese riguardanti l'esercizio finanziario dal 1° luglio 1924 al 30 giugno 1925, a termini della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), in conformita' dello stato di previsione annesso alla presente legge.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Il Governo del Re e' autorizzato a far pagare le spese ordinarie e straordinarie del Ministero delle comunicazioni, per l'esercizio finanziario dal 1° luglio 1924 al 30 giugno 1925, in conformita' dello stato di previsione annesso alla presente legge.   
-  
+Agli effetti dell'art. 38 del testo unico delle disposizioni per le pensioni del personale delle Ferrovie dello Stato, approvato con [R. decreto 22 aprile 1909, n. 229](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-04-22;229), il limite massimo dell'annualita' per le pensioni da concedersi, nell'esercizio finanziario 1924-25, in dipendenza dei normali collocamenti a riposo non chiesti dagli agenti, senza che concorra la loro constatata inabilita', e' stabilito nella somma di lire 1,500,000.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-L'Amministrazione delle ferrovie dello Stato e' autorizzata ad accertare e riscuotere le entrate e a far pagare le spese riguardanti l'esercizio finanziario dal 1° luglio 1924 al 30 giugno 1925, a termini della [legge 7 luglio 1907, n. 429](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429), in conformita' dello stato di previsione annesso alla presente legge.   
-  
-
-Art. 3
-------
-
-  
-  
-Agli effetti dell'art. 38 del testo unico delle disposizioni per le pensioni del personale delle Ferrovie dello Stato, approvato con [R. decreto 22 aprile 1909, n. 229](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-04-22;229), il limite massimo dell'annualita' per le pensioni da concedersi, nell'esercizio finanziario 1924-25, in dipendenza dei normali collocamenti a riposo non chiesti dagli agenti, senza che concorra la loro constatata inabilita', e' stabilito nella somma di lire 1,500,000.   
-  
-
-Art. 4
-------
-
-  
-  
-L'ammontare del fondo di dotazione delle Ferrovie dello Stato di cui all'[art. 17 della legge 7 luglio 1907, n. 429](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429~art17), rimane stabilito, per l'esercizio finanziario 1924-25, in lire 600,000,000.   
-  
-I fondi occorrenti per raggiungere detto ammontare saranno provveduti dal Tesoro mediante accensione di debiti nei modi e nelle forme che riterra' opportuni.   
-  
-Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Roma, addi' 15 febbraio 1925.   
-  
-VITTORIO EMANUELE.   
-  
-De' Stefani.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-
-Stato di previsione
-
-  
-Stato di previsione della spesa del Ministero delle comunicazioni per l'esercizio finanziario dal 1° luglio 1924 al 30 giugno 1925.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=025U022900100010110001&dgu=1925-03-25&art.dataPubblicazioneGazzetta=1925-03-25&art.codiceRedazionale=025U0229)
-  
+L'ammontare del fondo di dotazione delle Ferrovie dello Stato di cui all'[art. 17 della legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), rimane stabilito, per l'esercizio finanziario 1924-25, in lire 600,000,000. 
+ 
+ I fondi occorrenti per raggiungere detto ammontare saranno provveduti dal Tesoro mediante accensione di debiti nei modi e nelle forme che riterra' opportuni. 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Roma, addi' 15 febbraio 1925. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ De' Stefani. 
+ 
+ Visto, il Guardasigilli: Rocco.

@@ -1,21 +1,21 @@
-REGIO DECRETO 05 febbraio 1934 n. 431
+---
+tipo: REGIO DECRETO
+numero: 431
+data: 1934-02-05
+titolo: "Approvazione del nuovo statuto dell'Istituto per le case popolari di Reggio Emilia. (034U0431)"
+urn: urn:nir:stato:regio.decreto:1934-02-05;431
+codice_redazionale: 034U0431
+vigente: true
+---
 
-
-REGIO DECRETO 05 febbraio 1934 n. 431
-=====================================
-
-Approvazione del nuovo statuto dell'Istituto per le case popolari di Reggio Emilia. (034U0431)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/04/1934
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-431. R. decreto 5 febbraio 1934, col quale, sulla proposta del Ministro Segretario di Stato per i lavori pubblici, viene approvato il nuovo statuto dell'Istituto per le case popolari di Reggio Emilia.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 9 marzo 1934 - Anno XII
+431.
+
+R. decreto 5 febbraio 1934, col quale, sulla proposta del Ministro Segretario di Stato per i lavori pubblici, viene approvato il nuovo statuto dell'Istituto per le case popolari di Reggio Emilia. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 9 marzo 1934 - Anno XII

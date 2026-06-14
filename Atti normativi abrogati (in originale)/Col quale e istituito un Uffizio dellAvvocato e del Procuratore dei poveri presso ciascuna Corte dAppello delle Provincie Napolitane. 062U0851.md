@@ -1,16 +1,14 @@
-REGIO DECRETO 21 settembre 1862 n. 851
-
-
-REGIO DECRETO 21 settembre 1862 n. 851
-======================================
-
-Col quale e' istituito un Uffizio dell'Avvocato e del Procuratore dei poveri presso ciascuna Corte d'Appello delle Provincie Napolitane. (062U0851)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/10/1862
+---
+tipo: REGIO DECRETO
+numero: 851
+data: 1862-09-21
+titolo: "Col quale e' istituito un Uffizio dell'Avvocato e del Procuratore dei poveri presso ciascuna Corte d'Appello delle Provincie Napolitane. (062U0851)"
+urn: urn:nir:stato:regio.decreto:1862-09-21;851
+codice_redazionale: 062U0851
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,61 +26,34 @@ E volendo pertanto che tale istituzione sia per le Provincie Napolitane uniforme
 
 Sulla proposizione del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti;
 
-Udito
------
+Udito il Consiglio dei Ministri; Abbiamo ordinato ed ordiniamo quanto segue:
 
-il Consiglio dei Ministri; Abbiamo ordinato ed ordiniamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+Presso ciascuna Corte di Appello delle Provincie Napolitane e' istituito un Uffizio dell'Avvocato e del Procuratore dei Poveri, i quali avranno rispettivamente quel numero di Sostituiti che e' determinato dalla tabella annessa al presente Decreto.
 
-  
-  
-Presso ciascuna Corte di Appello delle Provincie Napolitane e' istituito un Uffizio dell'Avvocato e del Procuratore dei Poveri, i quali avranno rispettivamente quel numero di Sostituiti che e' determinato dalla tabella annessa al presente Decreto.   
-  
+## Art. 2.
 
-Art. 2
-------
+La parte, che vorra' ottenere l'ammissione alla gratuita difesa, dovra' presentarne domanda corredata da documenti all'Avvocato dei Poveri della Corte d'Appello nella cui giurisdizione pende il procedimento.
 
-  
-  
-La parte, che vorra' ottenere l'ammissione alla gratuita difesa, dovra' presentarne domanda corredata da documenti all'Avvocato dei Poveri della Corte d'Appello nella cui giurisdizione pende il procedimento.   
-  
+## Art. 3.
 
-Art. 3
-------
+Tutte le disposizioni in vigore nelle Provincie Siciliane su tal riguardo saranno comuni anche alle Provincie Napolitane a mente del Regio Decreto del 21 aprile 1862, n.° 620, che si manda a pubblicare col presente.
 
-  
-  
-Tutte le disposizioni in vigore nelle Provincie Siciliane su tal riguardo saranno comuni anche alle Provincie Napolitane a mente del Regio Decreto del 21 aprile 1862, n.° 620, che si manda a pubblicare col presente.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Rimane in vigore quanto altro viene stabilito dalla suddetta legge organica sul proposito, e che non sia in contraddizione col presente Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 21 settembre 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 29 settembre 1862   
-  
-Reg.° 20 Atti del Governo a c. 306. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
-  
-Raffaele Conforti.   
-  
-
-Tabella
-
-  
-TABELLA numerica degli Avvocati e Procuratori dei Poveri delle Provincie Napolitane.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U085100100010110001&dgu=1862-10-11&art.dataPubblicazioneGazzetta=1862-10-11&art.codiceRedazionale=062U0851)
-  
+Rimane in vigore quanto altro viene stabilito dalla suddetta legge organica sul proposito, e che non sia in contraddizione col presente Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 21 settembre 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 29 settembre 1862 
+ 
+ Reg.° 20 Atti del Governo a c. 306. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ Raffaele Conforti.

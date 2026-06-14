@@ -1,21 +1,21 @@
-REGIO DECRETO 02 novembre 1933 n. 1922
+---
+tipo: REGIO DECRETO
+numero: 1922
+data: 1933-11-02
+titolo: "Approvazione dello statuto organico dell'Opera pia «Antonio Pancrazio» di Venezia. (033U1922)"
+urn: urn:nir:stato:regio.decreto:1933-11-02;1922
+codice_redazionale: 033U1922
+vigente: true
+---
 
-
-REGIO DECRETO 02 novembre 1933 n. 1922
-======================================
-
-Approvazione dello statuto organico dell'Opera pia «Antonio Pancrazio» di Venezia. (033U1922)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/02/1934
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1922. R. decreto 2 novembre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato con modificazione lo statuto organico dell'Opera pia «Antonio Pancrazio» di Venezia.   
-  
-Visto, il Guardasigilli: DE FRANCISCI.   
-  
-Registrato alla Corte dei conti, addi' 2 gennaio 1934 - Anno XII
+1922.
+
+R. decreto 2 novembre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato con modificazione lo statuto organico dell'Opera pia «Antonio Pancrazio» di Venezia. 
+ 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ 
+ Registrato alla Corte dei conti, addi' 2 gennaio 1934 - Anno XII

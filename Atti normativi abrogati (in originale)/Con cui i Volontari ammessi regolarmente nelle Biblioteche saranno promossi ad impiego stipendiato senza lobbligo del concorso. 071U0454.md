@@ -1,16 +1,14 @@
-REGIO DECRETO 05 agosto 1871 n. 454
-
-
-REGIO DECRETO 05 agosto 1871 n. 454
-===================================
-
-Con cui i Volontari ammessi regolarmente nelle Biblioteche saranno promossi ad impiego stipendiato senza l'obbligo del concorso. (071U0454)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/10/1871
+---
+tipo: REGIO DECRETO
+numero: 454
+data: 1871-08-05
+titolo: "Con cui i Volontari ammessi regolarmente nelle Biblioteche saranno promossi ad impiego stipendiato senza l'obbligo del concorso. (071U0454)"
+urn: urn:nir:stato:regio.decreto:1871-08-05;454
+codice_redazionale: 071U0454
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,23 +18,16 @@ Visto l'articolo 27 del Nostro decreto del 25 novembre 1869, n. 5368, col quale 
 
 Considerando come quella disposizione, applicata ai volontari ammessi regolarmente nelle Biblioteche prima della promulgazione di quel decreto, quando non esisteva l'obbligo del concorso, offenderebbe ogni principio di equita';
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I volontari ammessi regolarmente nelle Biblioteche governative prima della promulgazione del Nostro decreto 25 novembre 1869, n. 5368, saranno promossi ad impiego stipendiato senza l'obbligo del concorso, secondo l'abilita' e la zelo da loro dimostrato nel volontariato.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 5 agosto 1871.   
-  
-VITTORIO EMANUELE.   
-  
-C. Correnti.   
-  
+I volontari ammessi regolarmente nelle Biblioteche governative prima della promulgazione del Nostro decreto 25 novembre 1869, n. 5368, saranno promossi ad impiego stipendiato senza l'obbligo del concorso, secondo l'abilita' e la zelo da loro dimostrato nel volontariato. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 5 agosto 1871. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ C. Correnti.

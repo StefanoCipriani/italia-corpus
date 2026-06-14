@@ -1,44 +1,35 @@
-REGIO DECRETO 14 aprile 1898 n. 131
-
-
-REGIO DECRETO 14 aprile 1898 n. 131
-===================================
-
-Concernente la nomina in servizio attivo permanente dei sottotenenti di complemento del Corpo Veterinario. (098U0131)
----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/05/1898
+---
+tipo: REGIO DECRETO
+numero: 131
+data: 1898-04-14
+titolo: "Concernente la nomina in servizio attivo permanente dei sottotenenti di complemento del Corpo Veterinario. (098U0131)"
+urn: urn:nir:stato:regio.decreto:1898-04-14;131
+codice_redazionale: 098U0131
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 2 luglio 1896 n. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254) sull'avanzamento nel Regio Esercito;
+Vista la [legge 2 luglio 1896 n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md) sull'avanzamento nel Regio Esercito;
 
 Ritenuta la necessita' di determinare sin d'ora, in via provvisoria, nell'attesa del Regolamento da emanare per la esecuzione della legge stessa, le norme per l'applicazione dell'articolo 6 della legge in quanto concerne la nomina dei sottotenenti di complemento del Corpo Veterinario a sottotenenti in servizio attivo permanente del Corpo stesso;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I sottotenenti di complemento del Corpo Veterinario i quali aspirino alla nomina a sottotenenti in servizio attivo saranno sottoposti ad esami di concorso secondo programmi e modalita' da stabilirsi dal Ministero della Guerra.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 aprile 1898.   
-  
-UMBERTO.   
-  
-A. DI SAN MARZANO.   
-  
-Visto, Il Guardasigilli: G. ZANARDELLI.   
-  
+I sottotenenti di complemento del Corpo Veterinario i quali aspirino alla nomina a sottotenenti in servizio attivo saranno sottoposti ad esami di concorso secondo programmi e modalita' da stabilirsi dal Ministero della Guerra. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 aprile 1898. 
+ 
+ UMBERTO. 
+ 
+ A. DI SAN MARZANO. 
+ 
+ Visto, Il Guardasigilli: G. ZANARDELLI.

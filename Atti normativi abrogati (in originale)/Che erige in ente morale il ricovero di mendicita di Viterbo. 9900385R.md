@@ -1,22 +1,19 @@
-REGIO DECRETO 31 dicembre 1899 n. CCCLXXXV
+---
+tipo: REGIO DECRETO
+numero: CCCLXXXV
+data: 1899-12-31
+titolo: "Che erige in ente morale il ricovero di mendicita' di Viterbo. (9900385R)"
+urn: urn:nir:stato:regio.decreto:1899-12-31;385
+codice_redazionale: 9900385R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 dicembre 1899 n. CCCLXXXV
-==========================================
+Che costituisce in ente morale il ricovero di mendicita' in Viterbo. - Firmato UMBERTO - Controfirmato Pelloux - Visto A. Bonasi. 
+ 
+ Registrato alla Corte dei conti addi' 12 gennaio
 
-Che erige in ente morale il ricovero di mendicita' di Viterbo. (9900385R)
--------------------------------------------------------------------------
+1900.
 
-Entrata in vigore del provvedimento: 02/02/1900
-
-Art. 1
-------
-
-Che costituisce in ente morale il ricovero di mendicita' in Viterbo. - Firmato UMBERTO - Controfirmato Pelloux - Visto A. Bonasi.   
-  
-Registrato alla Corte dei conti addi' 12 gennaio
-
-1900. 
-  
-  
 Reg. 222. Atti del Governo a f. 22.

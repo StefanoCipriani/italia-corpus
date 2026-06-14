@@ -1,16 +1,14 @@
-REGIO DECRETO 24 agosto 1877 n. 4036
-
-
-REGIO DECRETO 24 agosto 1877 n. 4036
-====================================
-
-Che separa il comune di Majera' dalla sezione principale del collegio elettorale di Verbicaro e lo costituisce in sezione distinta del collegio stesso. (077U4036)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/09/1877
+---
+tipo: REGIO DECRETO
+numero: 4036
+data: 1877-08-24
+titolo: "Che separa il comune di Majera' dalla sezione principale del collegio elettorale di Verbicaro e lo costituisce in sezione distinta del collegio stesso. (077U4036)"
+urn: urn:nir:stato:regio.decreto:1877-08-24;4036
+codice_redazionale: 077U4036
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Majera' e' separato dalla sezione principale del Collegio di Verbicaro, e formera' una sezione distinta del Collegio stesso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Anna di Valdieri, addi' 24 agosto 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
-  
+Il comune di Majera' e' separato dalla sezione principale del Collegio di Verbicaro, e formera' una sezione distinta del Collegio stesso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Anna di Valdieri, addi' 24 agosto 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

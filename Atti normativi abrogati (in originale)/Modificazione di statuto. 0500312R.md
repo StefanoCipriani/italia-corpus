@@ -1,19 +1,15 @@
-REGIO DECRETO 18 settembre 1905 n. CCCXII
+---
+tipo: REGIO DECRETO
+numero: CCCXII
+data: 1905-09-18
+titolo: "Modificazione di statuto. (0500312R)"
+urn: urn:nir:stato:regio.decreto:1905-09-18;312
+codice_redazionale: 0500312R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 settembre 1905 n. CCCXII
-=========================================
-
-Modificazione di statuto. (0500312R)
-------------------------------------
-
-Entrata in vigore del provvedimento: 18/11/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CCCXII (Dato a Racconigi, il 18 settembre 1905), col quale si modifica lo statuto organico della Cassa di risparmio di Prato.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CCCXII (Dato a Racconigi, il 18 settembre 1905), col quale si modifica lo statuto organico della Cassa di risparmio di Prato.

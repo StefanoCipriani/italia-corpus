@@ -1,16 +1,14 @@
-REGIO DECRETO 19 dicembre 1895 n. 697
-
-
-REGIO DECRETO 19 dicembre 1895 n. 697
-=====================================
-
-Riflettente la coniazione di spezzati d'argento per la Colonia Eritrea. (095U0697)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/01/1896
+---
+tipo: REGIO DECRETO
+numero: 697
+data: 1895-12-19
+titolo: "Riflettente la coniazione di spezzati d'argento per la Colonia Eritrea. (095U0697)"
+urn: urn:nir:stato:regio.decreto:1895-12-19;697
+codice_redazionale: 095U0697
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,32 +22,25 @@ Considerato che le presenti condizioni della Colonia Eritrea rendono necessario 
 
 Sulla proposta del Nostro Ministro del Tesoro di concerto col Ministro di Agricoltura, Industria e Commercio;
 
-Udito
------
+Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La quantita' proporzionale di spezzati d'argento da 4/10, 2/10 e 1/10 di tallero eritreo, pari a lire 2, 1 e cent. 50, da coniarsi per la Colonia Eritrea in aggiunta alla quantita' indicata nel citato Nostro Decreto 10 agosto 1890 n. 7050, e' fissata come appresso:   
-  
-Pezzi 750,000 da 4/10 di tallero equivalenti a . . . . L. 1,500,000   
-» 1,500,000 da 2/10 di tallero equivalenti a . . . » 1,500,000   
---------- ----------   
-Pezzi 2,250,000 per L. 3,000,000   
---------- ----------   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 dicembre 1895.   
-  
-UMBERTO.   
-  
-SIDNEY SONNINO.   
-A. BARAZZUOLI.   
-  
-Visto, Il Guardasigilli: V. CALENDA DI TAVANI.   
-  
+La quantita' proporzionale di spezzati d'argento da 4/10, 2/10 e 1/10 di tallero eritreo, pari a lire 2, 1 e cent. 50, da coniarsi per la Colonia Eritrea in aggiunta alla quantita' indicata nel citato Nostro Decreto 10 agosto 1890 n. 7050, e' fissata come appresso: 
+ 
+ Pezzi 750,000 da 4/10 di tallero equivalenti a . . . . L. 1,500,000 
+ » 1,500,000 da 2/10 di tallero equivalenti a . . . » 1,500,000 
+ --------- ---------- 
+ Pezzi 2,250,000 per L. 3,000,000 
+ --------- ---------- 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 dicembre 1895. 
+ 
+ UMBERTO. 
+ 
+ SIDNEY SONNINO. 
+ A. BARAZZUOLI. 
+ 
+ Visto, Il Guardasigilli: V. CALENDA DI TAVANI.

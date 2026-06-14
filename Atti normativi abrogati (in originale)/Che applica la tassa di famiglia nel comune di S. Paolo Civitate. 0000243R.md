@@ -1,21 +1,17 @@
-REGIO DECRETO 19 agosto 1900 n. CCXLIII
+---
+tipo: REGIO DECRETO
+numero: CCXLIII
+data: 1900-08-19
+titolo: "Che applica la tassa di famiglia nel comune di S. Paolo Civitate. (0000243R)"
+urn: urn:nir:stato:regio.decreto:1900-08-19;243
+codice_redazionale: 0000243R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 agosto 1900 n. CCXLIII
-=======================================
-
-Che applica la tassa di famiglia nel comune di S. Paolo Civitate. (0000243R)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/09/1900
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di San Paolo di Civitate di applicare nell'anno 1900 la tassa di famiglia col limite massimo di lire 100 (cento). - Firmato VITTORIO EMANUELE - Controfirmato Chimirri - Visto E. Gianturco.   
-  
-Registrato alla Corte dei conti addi' 1° settembre 1900.   
-  
-Reg. 225. Atti del Governo a f. 44.   
-  
+Col quale e' data facolta' al comune di San Paolo di Civitate di applicare nell'anno 1900 la tassa di famiglia col limite massimo di lire 100 (cento). - Firmato VITTORIO EMANUELE - Controfirmato Chimirri - Visto E. Gianturco. 
+ 
+ Registrato alla Corte dei conti addi' 1° settembre 1900. 
+ 
+ Reg. 225. Atti del Governo a f. 44.

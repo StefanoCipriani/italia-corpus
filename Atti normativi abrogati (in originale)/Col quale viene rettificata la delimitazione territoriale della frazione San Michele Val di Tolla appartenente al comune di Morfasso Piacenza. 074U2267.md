@@ -1,16 +1,14 @@
-REGIO DECRETO 26 novembre 1874 n. 2267
-
-
-REGIO DECRETO 26 novembre 1874 n. 2267
-======================================
-
-Col quale viene rettificata la delimitazione territoriale della frazione San Michele Val di Tolla, appartenente al comune di Morfasso (Piacenza). (074U2267)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/01/1875
+---
+tipo: REGIO DECRETO
+numero: 2267
+data: 1874-11-26
+titolo: "Col quale viene rettificata la delimitazione territoriale della frazione San Michele Val di Tolla, appartenente al comune di Morfasso (Piacenza). (074U2267)"
+urn: urn:nir:stato:regio.decreto:1874-11-26;2267
+codice_redazionale: 074U2267
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA'DELLA NAZIONE
 
@@ -22,23 +20,16 @@ Veduto il R. decreto in data del 7 marzo 1870 col quale fu ordinata la separazio
 
 Viste le deliberazioni dei Consigli comunali di Lugagnano e Morfasso in data 27 febbraio e 19 aprile 1873, colle quali venne domandata la rettificazione dell'ordinata delimitazione territoriale riconosciuta errata;
 
-Viste
------
+Viste le successive deliberazioni dei Consigli stessi in data 29 aprile, 4 maggio e 22 settembre 1874, Abbiamo decretato e decretiamo:
 
-le successive deliberazioni dei Consigli stessi in data 29 aprile, 4 maggio e 22 settembre 1874, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I limiti territoriali della frazione S. Michele Val di Tolla stata distaccata dal comune di Lugagnano Val d'Arda e unita a quello di Morfasso sono determinati dalla linea segnata in colore roseo dalla pianta topografica redatta dall'ingegnere di sezione dell'ufficio tecnico provinciale di Piacenza D. Luigi Fornaroli, in data del 12 gennaio 1874, che sara' d'ordine Nostro vidimata dal Ministro dell'Interno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 26 novembre 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
+I limiti territoriali della frazione S. Michele Val di Tolla stata distaccata dal comune di Lugagnano Val d'Arda e unita a quello di Morfasso sono determinati dalla linea segnata in colore roseo dalla pianta topografica redatta dall'ingegnere di sezione dell'ufficio tecnico provinciale di Piacenza D. Luigi Fornaroli, in data del 12 gennaio 1874, che sara' d'ordine Nostro vidimata dal Ministro dell'Interno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 novembre 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

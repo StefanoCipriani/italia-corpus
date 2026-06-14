@@ -1,21 +1,21 @@
-REGIO DECRETO 18 febbraio 1930 n. 212
+---
+tipo: REGIO DECRETO
+numero: 212
+data: 1930-02-18
+titolo: "Erezione in ente morale dell'Ospedale di Bollate (provincia di Milano). (030U0212)"
+urn: urn:nir:stato:regio.decreto:1930-02-18;212
+codice_redazionale: 030U0212
+vigente: true
+---
 
-
-REGIO DECRETO 18 febbraio 1930 n. 212
-=====================================
-
-Erezione in ente morale dell'Ospedale di Bollate (provincia di Milano). (030U0212)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/04/1930
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-212. R. decreto 18 febbraio 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, l'Ospedale di Bollate, con sede nel comune medesimo (provincia di Milano), e' eretto in ente morale sotto una propria amministrazione e ne e' approvato lo statuto organico.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 27 marzo 1930 - Anno VIII
+212.
+
+R. decreto 18 febbraio 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, l'Ospedale di Bollate, con sede nel comune medesimo (provincia di Milano), e' eretto in ente morale sotto una propria amministrazione e ne e' approvato lo statuto organico. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 27 marzo 1930 - Anno VIII

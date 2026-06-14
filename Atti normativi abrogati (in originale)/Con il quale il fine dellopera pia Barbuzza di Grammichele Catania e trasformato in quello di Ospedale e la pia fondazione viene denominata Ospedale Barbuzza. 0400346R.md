@@ -1,21 +1,17 @@
-REGIO DECRETO 14 agosto 1904 n. CCCXLVI
+---
+tipo: REGIO DECRETO
+numero: CCCXLVI
+data: 1904-08-14
+titolo: "Con il quale il fine dell'opera pia Barbuzza di Grammichele (Catania) e' trasformato in quello di Ospedale e la pia fondazione viene denominata «Ospedale Barbuzza». (0400346R)"
+urn: urn:nir:stato:regio.decreto:1904-08-14;346
+codice_redazionale: 0400346R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 agosto 1904 n. CCCXLVI
-=======================================
-
-Con il quale il fine dell'opera pia Barbuzza di Grammichele (Catania) e' trasformato in quello di Ospedale e la pia fondazione viene denominata «Ospedale Barbuzza». (0400346R)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/09/1904
-
-Art. 1
-------
-
-  
-Con il quale il fine dell'opera pia Barbuzza di Grammichele (Catania) e' trasformato in quello di Ospedale e la pia fondazione viene denominata «Ospedale Barbuzza». - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 2 settembre 1904.   
-  
-Reg. 18. Atti del Governo a f. 90.   
-  
+Con il quale il fine dell'opera pia Barbuzza di Grammichele (Catania) e' trasformato in quello di Ospedale e la pia fondazione viene denominata «Ospedale Barbuzza». - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 2 settembre 1904. 
+ 
+ Reg. 18. Atti del Governo a f. 90.

@@ -1,21 +1,21 @@
-REGIO DECRETO 21 ottobre 1923 n. 2518
+---
+tipo: REGIO DECRETO
+numero: 2518
+data: 1923-10-21
+titolo: "Modificazione al regolamento del comune di Recoaro (Vicenza) per l'applicazione della tassa di soggiorno. (023U2518)"
+urn: urn:nir:stato:regio.decreto:1923-10-21;2518
+codice_redazionale: 023U2518
+vigente: true
+---
 
-
-REGIO DECRETO 21 ottobre 1923 n. 2518
-=====================================
-
-Modificazione al regolamento del comune di Recoaro (Vicenza) per l'applicazione della tassa di soggiorno. (023U2518)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/12/1923
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2518. R. decreto 21 ottobre 1923, col quale, su proposta del Ministro per l'interno, Presidente del Consiglio dei Ministri, si omologa la modificazione dell'art. 7 del regolamento del comune di Recoaro (Vicenza) per l'applicazione della tassa di soggiorno in base alla [legge 11 dicembre 1910, n. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-11;863).   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 29 novembre 1923.
+2518.
+
+R. decreto 21 ottobre 1923, col quale, su proposta del Ministro per l'interno, Presidente del Consiglio dei Ministri, si omologa la modificazione dell'art. 7 del regolamento del comune di Recoaro (Vicenza) per l'applicazione della tassa di soggiorno in base alla [legge 11 dicembre 1910, n. 863](Che%20da%20facolta%20ai%20Comuni%20di%20istituire%20una%20tassa%20di%20soggiorno.%20010U0863.md). 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 29 novembre 1923.

@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 19 marzo 1916 n. 504
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 504
+data: 1916-03-19
+titolo: "Annullamento di partita. (016U0504)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-03-19;504
+codice_redazionale: 016U0504
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 19 marzo 1916 n. 504
-============================================
-
-Annullamento di partita. (016U0504)
------------------------------------
-
-Entrata in vigore del provvedimento: 25/05/1916
-
-Art. 1
-------
-
-null
+## Art. 1. — null

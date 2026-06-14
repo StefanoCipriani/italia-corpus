@@ -1,16 +1,14 @@
-REGIO DECRETO 27 giugno 1941 n. 600
-
-
-REGIO DECRETO 27 giugno 1941 n. 600
-===================================
-
-Attribuzioni del Segretario del Partito Nazionale Fascista quale Ministro Segretario di Stato. (041U0600)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/07/1941
+---
+tipo: REGIO DECRETO
+numero: 600
+data: 1941-06-27
+titolo: "Attribuzioni del Segretario del Partito Nazionale Fascista quale Ministro Segretario di Stato. (041U0600)"
+urn: urn:nir:stato:regio.decreto:1941-06-27;600
+codice_redazionale: 041U0600
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,40 +24,28 @@ Visto l'art. 3, n. 1, della legge 31 gennaio 1926-IV, n. 100;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo Capo del Governo; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo Capo del Governo; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La facolta' del Segretario del Partito Nazionale Fascista di proporre provvedimenti legislativi e decreti Reali e di emanare decreti Ministeriali si riferisce ai compiti, all'organizzazione e all'attivita' del Partito Nazionale Fascista e delle Organizzazioni ed Enti dipendenti.
 
-  
-  
-La facolta' del Segretario del Partito Nazionale Fascista di proporre provvedimenti legislativi e decreti Reali e di emanare decreti Ministeriali si riferisce ai compiti, all'organizzazione e all'attivita' del Partito Nazionale Fascista e delle Organizzazioni ed Enti dipendenti.   
+## Art. 2.
 
-Art. 2
-------
+I provvedimenti legislativi da chiunque promossi che - per la loro portata politica, sociale ed economica - abbiano riferimento con l'azione, le funzioni e le finalita' del Partito Nazionale Fascista, sono proposti di concerto col Segretario del Partito Nazionale Fascista, Ministro Segretario di Stato.
 
-  
-  
-I provvedimenti legislativi da chiunque promossi che - per la loro portata politica, sociale ed economica - abbiano riferimento con l'azione, le funzioni e le finalita' del Partito Nazionale Fascista, sono proposti di concerto col Segretario del Partito Nazionale Fascista, Ministro Segretario di Stato.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il presente decreto entra in vigore alla data della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 27 giugno 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini   
-  
-Visto, il Guardasigilli: Grandi   
-Registrato alla Corte dei conti, addi' 5 luglio 1941-XIX   
-Atti del Governo, registro 435, foglio 16. - MANCINI   
+Il presente decreto entra in vigore alla data della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 27 giugno 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini 
+ 
+Visto, il Guardasigilli: Grandi 
+ Registrato alla Corte dei conti, addi' 5 luglio 1941-XIX 
+ Atti del Governo, registro 435, foglio 16. - MANCINI

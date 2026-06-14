@@ -1,16 +1,14 @@
-REGIO DECRETO 22 dicembre 1932 n. 1792
-
-
-REGIO DECRETO 22 dicembre 1932 n. 1792
-======================================
-
-Autorizzazione al comune di Arezzo a riscuotere, fino al 31 dicembre 1934, le imposte di consumo con le aliquote stabilite per la classe E, aumentate della meta' della differenza fra le aliquote della classe medesima e quelle della classe D. (032U1792)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/02/1933
+---
+tipo: REGIO DECRETO
+numero: 1792
+data: 1932-12-22
+titolo: "Autorizzazione al comune di Arezzo a riscuotere, fino al 31 dicembre 1934, le imposte di consumo con le aliquote stabilite per la classe E, aumentate della meta' della differenza fra le aliquote della classe medesima e quelle della classe D. (032U1792)"
+urn: urn:nir:stato:regio.decreto:1932-12-22;1792
+codice_redazionale: 032U1792
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,28 +20,22 @@ Vista la domanda avanzata dal comune di Arezzo, per avvalersi della disposizione
 
 Visto il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Arezzo e' autorizzato a riscuotere, fino al 31 dicembre 1934, le imposte di consumo con le aliquote stabilite per la classe E, aumentate della meta' della differenza fra le aliquote della classe medesima e quelle della classe D.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 dicembre 1932 - Anno XI   
-  
-VITTORIO EMANUELE.   
-  
-Jung.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 13 gennaio 1933 - Anno XI   
-  
-Atti del Governo, registro 328, foglio 70. - Mancini.   
+Il comune di Arezzo e' autorizzato a riscuotere, fino al 31 dicembre 1934, le imposte di consumo con le aliquote stabilite per la classe E, aumentate della meta' della differenza fra le aliquote della classe medesima e quelle della classe D. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 dicembre 1932 - Anno XI 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Jung. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 13 gennaio 1933 - Anno XI 
+ 
+ Atti del Governo, registro 328, foglio 70. - Mancini.

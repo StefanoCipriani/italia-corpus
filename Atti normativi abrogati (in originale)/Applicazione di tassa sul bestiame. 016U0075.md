@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 16 gennaio 1916 n. 75
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 75
+data: 1916-01-16
+titolo: "Applicazione di tassa sul bestiame. (016U0075)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-01-16;75
+codice_redazionale: 016U0075
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 16 gennaio 1916 n. 75
-=============================================
-
-Applicazione di tassa sul bestiame. (016U0075)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 18/02/1916
-
-Art. 1
-------
-
-  
-N. 75   
-  
-Decreto Luogotenenziale 16 gennaio 1916, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Formignana (Ferrara) di applicare nel 1915 la tassa bestiame con eccedenza dei massimi limiti normali.   
-  
+N. 75 
+ 
+ Decreto Luogotenenziale 16 gennaio 1916, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Formignana (Ferrara) di applicare nel 1915 la tassa bestiame con eccedenza dei massimi limiti normali.

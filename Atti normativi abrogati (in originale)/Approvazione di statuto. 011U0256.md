@@ -1,19 +1,15 @@
-REGIO DECRETO 12 marzo 1911 n. 256
+---
+tipo: REGIO DECRETO
+numero: 256
+data: 1911-03-12
+titolo: "Approvazione di statuto. (011U0256)"
+urn: urn:nir:stato:regio.decreto:1911-03-12;256
+codice_redazionale: 011U0256
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 marzo 1911 n. 256
-==================================
-
-Approvazione di statuto. (011U0256)
------------------------------------
-
-Entrata in vigore del provvedimento: 25/04/1911
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. 256 (Dato a Roma, il 12 marzo 1911), col quale si approva lo statuto della sezione speciale per le Case popolari delle Societa' di M. S. ed istruzione fra operai di Cernobbio ed Uniti.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. 256 (Dato a Roma, il 12 marzo 1911), col quale si approva lo statuto della sezione speciale per le Case popolari delle Societa' di M. S. ed istruzione fra operai di Cernobbio ed Uniti.

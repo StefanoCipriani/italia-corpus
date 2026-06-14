@@ -1,19 +1,15 @@
-REGIO DECRETO 28 dicembre 1862 n. DCXXVI
+---
+tipo: REGIO DECRETO
+numero: DCXXVI
+data: 1862-12-28
+titolo: "Che approva il regolamento di polizia rurale adottato dal Consiglio comunale di Quinzano. (6200626R)"
+urn: urn:nir:stato:regio.decreto:1862-12-28;626
+codice_redazionale: 6200626R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 dicembre 1862 n. DCXXVI
-========================================
-
-Che approva il regolamento di polizia rurale adottato dal Consiglio comunale di Quinzano. (6200626R)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/12/1862
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia rurale adottato dalla Comunita' di Quinzano (Provincia di Brescia) con deliberazione del 9 corrente mese.   
-  
-Torino 28 dicembre 1862   
-  
+Che approva il regolamento di polizia rurale adottato dalla Comunita' di Quinzano (Provincia di Brescia) con deliberazione del 9 corrente mese. 
+ 
+ Torino 28 dicembre 1862

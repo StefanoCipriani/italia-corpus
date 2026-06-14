@@ -1,22 +1,22 @@
-REGIO DECRETO 05 giugno 1933 n. 1076
+---
+tipo: REGIO DECRETO
+numero: 1076
+data: 1933-06-05
+titolo: "Approvazione del nuovo statuto organico del lascito «Cavaliere Vincenzo Fascie Rossi», in Sestri Levante. (033U1076)"
+urn: urn:nir:stato:regio.decreto:1933-06-05;1076
+codice_redazionale: 033U1076
+vigente: true
+---
 
-
-REGIO DECRETO 05 giugno 1933 n. 1076
-====================================
-
-Approvazione del nuovo statuto organico del lascito «Cavaliere Vincenzo Fascie Rossi», in Sestri Levante. (033U1076)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/09/1933
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1076. R. decreto 5 giugno 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene approvato il nuovo testo dello statuto organico del lascito «Cav.  
-Vincenzo Fascie Rossi», in Sestri Levante.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 10 agosto 1933 - Anno XI
+1076.
+
+R. decreto 5 giugno 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene approvato il nuovo testo dello statuto organico del lascito «Cav.
+Vincenzo Fascie Rossi», in Sestri Levante. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 10 agosto 1933 - Anno XI

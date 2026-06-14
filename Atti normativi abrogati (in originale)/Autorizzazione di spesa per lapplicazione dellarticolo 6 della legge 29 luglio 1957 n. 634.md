@@ -1,41 +1,30 @@
-LEGGE 30 marzo 1965 n. 221
-
-
-LEGGE 30 marzo 1965 n. 221
-==========================
-
-Autorizzazione di spesa per l'applicazione dell'articolo 6 della legge 29 luglio 1957, n. 634.
-----------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 221
+data: 1965-03-30
+titolo: "Autorizzazione di spesa per l'applicazione dell'articolo 6 della legge 29 luglio 1957, n. 634."
+urn: urn:nir:stato:legge:1965-03-30;221
+codice_redazionale: 065U0221
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Art. 1.
 
-Art. 1
-------
+E' autorizzata l'ulteriore spesa di lire 3 miliardi per interventi da effettuare dalla Cassa per il Mezzogiorno in applicazione dell'[articolo 6 della legge 29 luglio 1957, n. 634](Provvedimenti%20per%20il%20Mezzogiorno.md).
 
-  
-E' autorizzata l'ulteriore spesa di lire 3 miliardi per interventi da effettuare dalla Cassa per il Mezzogiorno in applicazione dell'[articolo 6 della legge 29 luglio 1957, n. 634](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-07-29;634~art6).  
+## Art. 2.
 
-Art. 2
-------
-
-  
-All'onere di lire 3 miliardi derivante dall'applicazione della presente legge si fa fronte con una corrispondente aliquota del maggior gettito derivante dalla [legge 3 novembre 1964, n. 1190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-11-03;1190).  
-Il Ministro per il tesoro e' autorizzato ad apportare con propri decreti le occorrenti variazioni di bilancio.  
-  
+All'onere di lire 3 miliardi derivante dall'applicazione della presente legge si fa fronte con una corrispondente aliquota del maggior gettito derivante dalla [legge 3 novembre 1964, n. 1190](Variazioni%20delle%20aliquote%20dellimposta%20di%20ricchezza%20mobile.md).
+ Il Ministro per il tesoro e' autorizzato ad apportare con propri decreti le occorrenti variazioni di bilancio.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 30 marzo 1965
+Data a Roma, addi' 30 marzo 1965
 
-SARAGAT MORO - MANCINI - COLOMBO - PIERACCINI
-
-Visto, il Guardasigilli: REALE
+SARAGAT MORO - MANCINI - COLOMBO - PIERACCINI Visto, il Guardasigilli: REALE

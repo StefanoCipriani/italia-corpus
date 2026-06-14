@@ -1,16 +1,14 @@
-REGIO DECRETO 03 settembre 1881 n. 410
-
-
-REGIO DECRETO 03 settembre 1881 n. 410
-======================================
-
-Che autorizza la frazione di Cioccaro e S. Maria Patro a tenere le rispettive rendite e passivita' separate da quelle del rimanente comune di Penango. (081U0410)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/11/1881
+---
+tipo: REGIO DECRETO
+numero: 410
+data: 1881-09-03
+titolo: "Che autorizza la frazione di Cioccaro e S. Maria Patro a tenere le rispettive rendite e passivita' separate da quelle del rimanente comune di Penango. (081U0410)"
+urn: urn:nir:stato:regio.decreto:1881-09-03;410
+codice_redazionale: 081U0410
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,33 +20,22 @@ Vedute le deliberazioni del Consiglio comunale di Penango in data 19 dicembre 18
 
 Visti gli articoli 13 e 16 della legge comunale e provinciale 20 marzo 1865, allegato A;
 
-Vista
------
+Vista la legge 30 giugno 1880, n. 5516, Abbiamo decretato e decretiamo:
 
-la legge 30 giugno 1880, n. 5516, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Le due frazioni di Cioccaro e di Santa Maria Patro sono autorizzate a tenere le rispettive rendite e passivita' patrimoniali, e le spese contemplate dall'ultimo paragrafo dell'articolo 13 della legge comunale separate da quelle del rimanente del comune di Ponango.
 
-  
-  
-Le due frazioni di Cioccaro e di Santa Maria Patro sono autorizzate a tenere le rispettive rendite e passivita' patrimoniali, e le spese contemplate dall'ultimo paragrafo dell'articolo 13 della legge comunale separate da quelle del rimanente del comune di Ponango.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-I limiti territoriali delle due frazioni succitate sono quelli risultanti dalla pianta topografica che sara' d'ordino Nostro vidimata dal Ministro proponente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 3 settembre 1881.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto, il Guardasigilli: G. Zanardelli.   
-  
+I limiti territoriali delle due frazioni succitate sono quelli risultanti dalla pianta topografica che sara' d'ordino Nostro vidimata dal Ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 3 settembre 1881. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto, il Guardasigilli: G. Zanardelli.

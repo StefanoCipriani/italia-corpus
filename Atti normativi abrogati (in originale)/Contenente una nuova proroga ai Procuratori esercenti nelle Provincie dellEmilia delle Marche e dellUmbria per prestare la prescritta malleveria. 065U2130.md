@@ -1,22 +1,20 @@
-REGIO DECRETO 11 gennaio 1865 n. 2130
-
-
-REGIO DECRETO 11 gennaio 1865 n. 2130
-=====================================
-
-Contenente una nuova proroga ai Procuratori esercenti nelle Provincie dell'Emilia, delle Marche e dell'Umbria per prestare la prescritta malleveria. (065U2130)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/01/1865
+---
+tipo: REGIO DECRETO
+numero: 2130
+data: 1865-01-11
+titolo: "Contenente una nuova proroga ai Procuratori esercenti nelle Provincie dell'Emilia, delle Marche e dell'Umbria per prestare la prescritta malleveria. (065U2130)"
+urn: urn:nir:stato:regio.decreto:1865-01-11;2130
+codice_redazionale: 065U2130
+vigente: true
+---
 
 VITTORIO EMANUELE
------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la Legge 27 ottobre 1860, n.° 4380, colla quale fu fatta facolta' al Governo del Re di pubblicare nell'Emilia le leggi correlative e necessarie all'uniforme e compiuta esecuzione del [Codice di procedura civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443), e della Legge sull'ordinamento giudiziario;
+Vista la Legge 27 ottobre 1860, n.° 4380, colla quale fu fatta facolta' al Governo del Re di pubblicare nell'Emilia le leggi correlative e necessarie all'uniforme e compiuta esecuzione del [Codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443), e della Legge sull'ordinamento giudiziario;
 
 Visti gli articoli 1 e 4 del R. Decreto 5 dicembre 1860, n.° 4462, coi quali mandandosi pubblicare nelle suddette Provincie la Legge sulla professione di Procuratore del 17 aprile 1859, n.° 3368, si fisso' al 1.° gennaio 1863 il termine ai Procuratori esercenti per prestare la prescritta malleveria;
 
@@ -26,29 +24,22 @@ Visto il R. Decreto 14 dicembre 1862, n.° 1027, col quale il termine fissato ai
 
 Visto l'altro R. Decreto 21 giugno 1863, n.° 1322, col quale il termine assegnato ai Procuratori esercenti nelle Provincie anzidette per prestare la malleveria fu protratto a tutto l'anno 1864;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il termine fissato dall'art. 4 del R. Decreto 5 dicembre 1860, n.° 4462, e prorogato coi R.i Decreti 14 dicembre 1862, n.° 1027, e 21 giugno 1863, n.° 1322, ai Procuratori esercenti nelle Provincie dell'Emilia, delle Marche e dell'Umbria per prestare la prescritta malleveria, e' nuovamente prorogato a tutto il 1865 a partire dal di' 1.° gennaio corrente.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 11 gennaio 1865   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte di conti addi' 15 gennaio 1865   
-  
-Reg.° 32 Atti del Governo a c. 39. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-G. Vacca.   
-  
+Il termine fissato dall'art. 4 del R. Decreto 5 dicembre 1860, n.° 4462, e prorogato coi R.i Decreti 14 dicembre 1862, n.° 1027, e 21 giugno 1863, n.° 1322, ai Procuratori esercenti nelle Provincie dell'Emilia, delle Marche e dell'Umbria per prestare la prescritta malleveria, e' nuovamente prorogato a tutto il 1865 a partire dal di' 1.° gennaio corrente. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 11 gennaio 1865 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte di conti addi' 15 gennaio 1865 
+ 
+ Reg.° 32 Atti del Governo a c. 39. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ G. Vacca.

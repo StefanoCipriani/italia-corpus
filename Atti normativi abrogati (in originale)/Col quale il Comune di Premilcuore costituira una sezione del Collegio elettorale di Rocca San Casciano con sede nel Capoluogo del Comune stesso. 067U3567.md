@@ -1,17 +1,14 @@
-REGIO DECRETO 03 marzo 1867 n. 3567
-
-
-REGIO DECRETO 03 marzo 1867 n. 3567
-===================================
-
-Col quale il Comune di Premilcuore costituira' una sezione del Collegio elettorale di Rocca San Casciano con sede nel Capoluogo del Comune stesso. (067U3567)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/03/1867  
-Il presente Regio Decreto è stato erroneamente pubblicato in Gazzetta Ufficiale senza l'indicazione del numero di inserzione nella Raccolta Ufficiale delle leggi e dei decreti del Regno.
+---
+tipo: REGIO DECRETO
+numero: 3567
+data: 1867-03-03
+titolo: "Col quale il Comune di Premilcuore costituira' una sezione del Collegio elettorale di Rocca San Casciano con sede nel Capoluogo del Comune stesso. (067U3567)"
+urn: urn:nir:stato:regio.decreto:1867-03-03;3567
+codice_redazionale: 067U3567
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -25,29 +22,22 @@ Noverandosi nel Comune stesso piu' di 40 Elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Premilcuore costituira' d'ora in poi una sezione del Collegio elettorale di Rocca San Casciano n° 178, la quale avra' sede nel Capoluogo del Comune stesso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 3 marzo 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 12 marzo 1867   
-  
-Reg. 39 Atti del Governo a c. 158. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Ricasoli.   
-  
-Ricasoli.   
-  
+Il Comune di Premilcuore costituira' d'ora in poi una sezione del Collegio elettorale di Rocca San Casciano n° 178, la quale avra' sede nel Capoluogo del Comune stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 3 marzo 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 12 marzo 1867 
+ 
+ Reg. 39 Atti del Governo a c. 158. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Ricasoli. 
+ 
+ Ricasoli.

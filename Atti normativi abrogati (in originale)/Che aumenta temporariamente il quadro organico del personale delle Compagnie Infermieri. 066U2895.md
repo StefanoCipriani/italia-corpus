@@ -1,16 +1,14 @@
-REGIO DECRETO 06 maggio 1866 n. 2895
-
-
-REGIO DECRETO 06 maggio 1866 n. 2895
-====================================
-
-Che aumenta temporariamente il quadro organico del personale delle Compagnie Infermieri. (066U2895)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/05/1866
+---
+tipo: REGIO DECRETO
+numero: 2895
+data: 1866-05-06
+titolo: "Che aumenta temporariamente il quadro organico del personale delle Compagnie Infermieri. (066U2895)"
+urn: urn:nir:stato:regio.decreto:1866-05-06;2895
+codice_redazionale: 066U2895
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,47 +20,36 @@ Considerando come il personale stabilito dalla tabella medesima per le Compagnie
 
 Sulla proposta del Nostro Ministro della Marina;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il quadro organico del personale delle Compagnie Infermieri e' temporariamente aumentato di 
+ 
+ N° 2 Furieri; 
+ 
+ » 14 Sergenti; 
+ 
+ » 26 Caporali; 
+ 
+ » 9 Infermieri di 1ª classe; 
+ 
+ » 9 detti di 2ª id.
 
-  
-  
-Il quadro organico del personale delle Compagnie Infermieri e' temporariamente aumentato di   
-  
-N° 2 Furieri;   
-  
-» 14 Sergenti;   
-  
-» 26 Caporali;   
-  
-» 9 Infermieri di 1ª classe;   
-  
-» 9 detti di 2ª id.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-L'aumento di personale stabilito dal presente Decreto non sara' effettuato che a misura del bisogno.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze il 6 maggio 1866.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 maggio 1866   
-  
-Reg.° 36 Atti del Governo a c. 1. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli De Falco.   
-  
-D. Angioletti.   
-  
+L'aumento di personale stabilito dal presente Decreto non sara' effettuato che a misura del bisogno. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze il 6 maggio 1866. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 maggio 1866 
+ 
+ Reg.° 36 Atti del Governo a c. 1. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli De Falco. 
+ 
+ D. Angioletti.

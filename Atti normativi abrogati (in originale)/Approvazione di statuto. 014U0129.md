@@ -1,19 +1,15 @@
-REGIO DECRETO 08 febbraio 1914 n. 129
+---
+tipo: REGIO DECRETO
+numero: 129
+data: 1914-02-08
+titolo: "Approvazione di statuto. (014U0129)"
+urn: urn:nir:stato:regio.decreto:1914-02-08;129
+codice_redazionale: 014U0129
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 febbraio 1914 n. 129
-=====================================
-
-Approvazione di statuto. (014U0129)
------------------------------------
-
-Entrata in vigore del provvedimento: 25/03/1914
-
-Art. 1
-------
-
-  
-N. 129   
-  
-Regio Decreto 8 febbraio 1914, col quale, sulla proposta del ministro dell'interno, viene approvato lo statuto organico dell'Asilo infantile «Stoppani-Schiavetti» in Zelbio (Como).   
-  
+N. 129 
+ 
+ Regio Decreto 8 febbraio 1914, col quale, sulla proposta del ministro dell'interno, viene approvato lo statuto organico dell'Asilo infantile «Stoppani-Schiavetti» in Zelbio (Como).

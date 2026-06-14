@@ -1,16 +1,14 @@
-REGIO DECRETO 06 luglio 1879 n. 4961
-
-
-REGIO DECRETO 06 luglio 1879 n. 4961
-====================================
-
-Col quale si provvede per la concentrazione dei collegi, consigli ed archivi notarili di Camerino ed Orvieto. (079U4961)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/08/1879
+---
+tipo: REGIO DECRETO
+numero: 4961
+data: 1879-07-06
+titolo: "Col quale si provvede per la concentrazione dei collegi, consigli ed archivi notarili di Camerino ed Orvieto. (079U4961)"
+urn: urn:nir:stato:regio.decreto:1879-07-06;4961
+codice_redazionale: 079U4961
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,33 +26,22 @@ Considerato che e' dimostrata la convenienza di riunire il distretto di Orvieto 
 
 In virtu' della facolta' concessa dall'articolo 145 della legge sul riordinamento del Notariato, per la quale il Governo del Re e' autorizzato a provvedere con decreto Reale alla sistemazione degli Archivi notarili attualmente esistenti;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I Collegi, i Consigli e gli Archivi notarili di Camerino e di Orvieto sono soppressi e riuniti ai distretti notarili dei rispettivi capoluoghi di provincia, cioe' di Macerata il primo e di Perugia il secondo.
 
-  
-  
-I Collegi, i Consigli e gli Archivi notarili di Camerino e di Orvieto sono soppressi e riuniti ai distretti notarili dei rispettivi capoluoghi di provincia, cioe' di Macerata il primo e di Perugia il secondo.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Gli Archivi notarili attualmente esistenti nelle citta' di Camerino e di Orvieto potranno essere conservati e trasformati in Archivi notarili mandamentali o comunali, quando concorrano gli estremi voluti dagli articoli 101 e 146 della legge.   
-  
-Rimane fermo intanto pei detti Archivi il disposto dell'art. 1 del succitato Nostro decreto 29 giugno, per quanto riguarda la provvisoria continuazione delle attuali loro funzioni, fino a che siano costituiti, ai termini dell'[articolo 155 del regolamento 19 dicembre 1875, num. 2840](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1875-12-19;2840~art155) (Serie 2ª), gli uffici dei nuovi Archivi distrettuali di Macerata e di Perugia a cui essi sono rispettivamente aggregati.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 luglio 1879.   
-  
-UMBERTO.   
-  
-Tajani.   
-  
+Gli Archivi notarili attualmente esistenti nelle citta' di Camerino e di Orvieto potranno essere conservati e trasformati in Archivi notarili mandamentali o comunali, quando concorrano gli estremi voluti dagli articoli 101 e 146 della legge. 
+ 
+ Rimane fermo intanto pei detti Archivi il disposto dell'art. 1 del succitato Nostro decreto 29 giugno, per quanto riguarda la provvisoria continuazione delle attuali loro funzioni, fino a che siano costituiti, ai termini dell'[articolo 155 del regolamento 19 dicembre 1875, num. 2840](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1875-12-19;2840#art_155) (Serie 2ª), gli uffici dei nuovi Archivi distrettuali di Macerata e di Perugia a cui essi sono rispettivamente aggregati. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 luglio 1879. 
+ 
+ UMBERTO. 
+ 
+ Tajani.

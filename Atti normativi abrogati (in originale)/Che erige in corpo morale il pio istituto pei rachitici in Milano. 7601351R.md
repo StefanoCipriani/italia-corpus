@@ -1,40 +1,31 @@
-REGIO DECRETO 13 agosto 1876 n. MCCCLI
+---
+tipo: REGIO DECRETO
+numero: MCCCLI
+data: 1876-08-13
+titolo: "Che erige in corpo morale il pio istituto pei rachitici in Milano. (7601351R)"
+urn: urn:nir:stato:regio.decreto:1876-08-13;1351
+codice_redazionale: 7601351R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 agosto 1876 n. MCCCLI
-======================================
+Il pio istituto dei rachitici in Milano e' costituito in corpo morale.
 
-Che erige in corpo morale il pio istituto pei rachitici in Milano. (7601351R)
------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 21/09/1876
-
-Art. 1
-------
-
-  
-  
-Il pio istituto dei rachitici in Milano e' costituito in corpo morale.   
-  
-
-Art. 2
-------
-
-  
-  
-E' approvato lo statuto organico del predetto luogo pio nel numero di ventisei articoli, e sara' visto e sottoscritto dal nostro ministro proponente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Cogne addi' 13 agosto 1876.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 30 agosto 1876   
-  
-Vol. 87 Atti del Governo a c. 141. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Mancini.   
-  
-G. Nicotera.   
-  
+E' approvato lo statuto organico del predetto luogo pio nel numero di ventisei articoli, e sara' visto e sottoscritto dal nostro ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Cogne addi' 13 agosto 1876. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 30 agosto 1876 
+ 
+ Vol. 87 Atti del Governo a c. 141. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Mancini. 
+ 
+ G. Nicotera.

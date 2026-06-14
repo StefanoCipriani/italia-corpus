@@ -1,16 +1,14 @@
-REGIO DECRETO 28 novembre 1872 n. 1131
-
-
-REGIO DECRETO 28 novembre 1872 n. 1131
-======================================
-
-Concernente le strade provinciali scorrenti nella Provincia di Aquila. (072U1131)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/01/1873
+---
+tipo: REGIO DECRETO
+numero: 1131
+data: 1872-11-28
+titolo: "Concernente le strade provinciali scorrenti nella Provincia di Aquila. (072U1131)"
+urn: urn:nir:stato:regio.decreto:1872-11-28;1131
+codice_redazionale: 072U1131
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,24 +24,16 @@ Veduti gli articoli 13 e 14 della legge 20 marzo 1865, allegato F, n. 2248;
 
 Risultando non essere insorta alcuna opposizione contro la classificazione fra le provinciali della predetta strada;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' aggiunta all'Elenco delle strade provinciali, nella provincia di Aquila, quella denominata Amiternina-Equicola, che staccandosi da quella pure provinciale del Cicolana al fosso dell'Ospedale, e traversando la strada nazionale dell'Umbria e l'abitato di Preturo, andra' a raggiungere la nazionale da Aquila a Teramo presso il fosso Cermone.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 novembre 1872.   
-  
-VITTORIO EMANUELE.   
-  
-G. Devincenzi.   
-  
-  
+E' aggiunta all'Elenco delle strade provinciali, nella provincia di Aquila, quella denominata Amiternina-Equicola, che staccandosi da quella pure provinciale del Cicolana al fosso dell'Ospedale, e traversando la strada nazionale dell'Umbria e l'abitato di Preturo, andra' a raggiungere la nazionale da Aquila a Teramo presso il fosso Cermone. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 novembre 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Devincenzi.

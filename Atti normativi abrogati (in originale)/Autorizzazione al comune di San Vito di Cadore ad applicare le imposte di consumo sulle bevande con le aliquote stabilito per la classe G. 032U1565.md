@@ -1,16 +1,14 @@
-REGIO DECRETO 20 ottobre 1932 n. 1565
-
-
-REGIO DECRETO 20 ottobre 1932 n. 1565
-=====================================
-
-Autorizzazione al comune di San Vito di Cadore ad applicare le imposte di consumo sulle bevande con le aliquote stabilito per la classe G. (032U1565)
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/12/1932
+---
+tipo: REGIO DECRETO
+numero: 1565
+data: 1932-10-20
+titolo: "Autorizzazione al comune di San Vito di Cadore ad applicare le imposte di consumo sulle bevande con le aliquote stabilito per la classe G. (032U1565)"
+urn: urn:nir:stato:regio.decreto:1932-10-20;1565
+codice_redazionale: 032U1565
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,34 +22,23 @@ Visto il decreto del Nostro Ministro per l'interno 8 marzo 1927, in base al qual
 
 Visto il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il comune di San Vito di Cadore e' autorizzato ad applicare le imposte di consumo sulle bevande con le aliquote stabilite per la classe G.
 
-  
-  
-Il comune di San Vito di Cadore e' autorizzato ad applicare le imposte di consumo sulle bevande con le aliquote stabilite per la classe G.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Alla Azienda autonoma di cura del comune di San Vito di Cadore e' devoluto il maggior provento derivante dall'autorizzazione di cui al precedente articolo, al netto delle spese di riscossione.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a San Rossore, addi' 20 ottobre 1932 - Anno X   
-  
-VITTORIO EMANUELE.   
-  
-  
-Mussolini - Jung.   
-  
-Visto, il Guardasigilli: De Francisci.   
-Registrato alla Corte dei conti, addi' 10 dicembre 1932 - Anno XI   
-Atti del Governo, registro 327, foglio 35. - Ferzi.   
-  
+Alla Azienda autonoma di cura del comune di San Vito di Cadore e' devoluto il maggior provento derivante dall'autorizzazione di cui al precedente articolo, al netto delle spese di riscossione. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a San Rossore, addi' 20 ottobre 1932 - Anno X 
+ 
+ VITTORIO EMANUELE. 
+ 
+ 
+ Mussolini - Jung. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ Registrato alla Corte dei conti, addi' 10 dicembre 1932 - Anno XI 
+ Atti del Governo, registro 327, foglio 35. - Ferzi.

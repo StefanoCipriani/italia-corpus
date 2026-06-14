@@ -1,19 +1,15 @@
-REGIO DECRETO 26 ottobre 1909 n. CCCCXII
+---
+tipo: REGIO DECRETO
+numero: CCCCXII
+data: 1909-10-26
+titolo: "Elevazione di fondo di dotazione ad Istituto di credito fondiario. (0900412R)"
+urn: urn:nir:stato:regio.decreto:1909-10-26;412
+codice_redazionale: 0900412R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 ottobre 1909 n. CCCCXII
-========================================
-
-Elevazione di fondo di dotazione ad Istituto di credito fondiario. (0900412R)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/12/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. CCCCXII (Dato a Racconigi, il 26 ottobre 1909), col quale si autorizza l'elevazione del fondo di dotazione dell'Istituto di credito fondiario della Cassa civica di risparmio di Verona.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. CCCCXII (Dato a Racconigi, il 26 ottobre 1909), col quale si autorizza l'elevazione del fondo di dotazione dell'Istituto di credito fondiario della Cassa civica di risparmio di Verona.

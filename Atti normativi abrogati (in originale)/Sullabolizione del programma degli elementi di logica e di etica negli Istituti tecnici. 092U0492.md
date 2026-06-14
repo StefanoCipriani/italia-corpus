@@ -1,16 +1,14 @@
-REGIO DECRETO 16 agosto 1892 n. 492
-
-
-REGIO DECRETO 16 agosto 1892 n. 492
-===================================
-
-Sull'abolizione del programma degli elementi di logica e di etica negli Istituti tecnici. (092U0492)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/10/1892
+---
+tipo: REGIO DECRETO
+numero: 492
+data: 1892-08-16
+titolo: "Sull'abolizione del programma degli elementi di logica e di etica negli Istituti tecnici. (092U0492)"
+urn: urn:nir:stato:regio.decreto:1892-08-16;492
+codice_redazionale: 092U0492
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,25 +18,18 @@ Vista la legge 13 novembre 1859 sulla Pubblica Istruzione;
 
 Visto il R. Decreto 2 ottobre 1891, che approva i programmi d'insegnamento per gli Istituti tecnici del Regno;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il programma IX, elementi di logica e di etica per gli Istituti tecnici, approvato con [R. Decreto 2 ottobre 1891 n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-10-02;622), e' abolito.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, addi' 16 agosto 1892.   
-  
-UMBERTO.   
-  
-Martini.   
-  
-Visto, Il Guardasigilli: Bonacci.   
-  
+Il programma IX, elementi di logica e di etica per gli Istituti tecnici, approvato con [R. Decreto 2 ottobre 1891 n. 622](Che%20approva%20i%20programmi%20di%20insegnamento%20per%20gli%20Istituti%20tecnici%20del%20Regno.%20091U0622.md), e' abolito. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, addi' 16 agosto 1892. 
+ 
+ UMBERTO. 
+ 
+ Martini. 
+ 
+ Visto, Il Guardasigilli: Bonacci.

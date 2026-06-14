@@ -1,90 +1,48 @@
-REGIO DECRETO 13 gennaio 1930 n. 310
+---
+tipo: REGIO DECRETO
+numero: 310
+data: 1930-01-13
+titolo: "Consolidamento del contributo annuale dovuto dallo Stato al comune di Trento ai sensi degli articoli 11 e 13 della legge 14 giugno 1928, n. 1482, per la diretta amministrazione delle scuole elementari dell'ex comune di Cognola. (030U0310)"
+urn: urn:nir:stato:regio.decreto:1930-01-13;310
+codice_redazionale: 030U0310
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 gennaio 1930 n. 310
-====================================
-
-Consolidamento del contributo annuale dovuto dallo Stato al comune di Trento ai sensi degli articoli 11 e 13 della legge 14 giugno 1928, n. 1482, per la diretta amministrazione delle scuole elementari dell'ex comune di Cognola. (030U0310)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/05/1930
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
-  
-RE D'ITALIA   
-  
-Visto il [R. decreto 16 settembre 1926, n. 1798](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-09-16;1798), col quale il comune di Cognola e' stato aggregato al comune di Trento e che, conseguentemente, gli insegnanti elementari del suddetto Comune sono passati a tutti gli effetti dall'amministrazione del Regio provveditorato agli studi di Trento alla diretta amministrazione del comune autonomo di Trento, a decorrere dal 1° gennaio 1929;   
-  
-Visto l'[art. 11 della legge 14 giugno 1928, n. 1482](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-06-14;1482~art11), col quale le disposizioni contenute nel 3° e 4° comma dell'art. 1 della stessa legge, per quanto riguarda i concorsi e rimborsi scolastici dovuti dallo Stato ai Comuni che hanno la diretta amministrazione delle scuole elementari, si applicano anche per le scuole amministrate dai Regi provveditori agli studi nei Comuni aggregati ad altri che abbiano invece la diretta amministrazione delle scuole;   
-  
-Visto il 3° comma dello stesso art. 1 della citata legge, per il quale i concorsi e rimborsi dello Stato da corrispondersi ai Comuni suddetti sono consolidati nella differenza fra la spesa effettivamente sostenuta per le scuole predette dall'Amministrazione regionale scolastica e direttamente dal Ministero per le scuole non classificate e i contributi dovuti dai Comuni per effetto dell'[art. 1 del R. decreto-legge 1° maggio 1924, n. 763](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-01;763~art1), e degli [articoli 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1722~art18) e [19 del R. decreto-legge 4 settembre 1925, n. 1722](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1722~art19);   
-  
-Visti gli atti trasmessi dal Regio provveditore agli studi di Trento dai quali risulta che nell'esercizio 1927-1928 quell'Amministrazione scolastica per la gestione delle scuole elementari del comune di Cognola sostenne l'effettiva spesa di L. 90.435,55;   
-  
-Visto che nello stesso esercizio finanziario il Ministero della educazione nazionale sostenne l'effettiva spesa di L. 7300 per la gestione di una scuola non classificata in detto Comune;   
-  
-Visti i [Regi decreti 23 ottobre 1925, n. 2534](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-10-23;2534), [1° luglio 1926, n. 1473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-07-01;1473), e [23 settembre 1926, n. 1876](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-09-23;1876), coi quali, in applicazione dell'[art. 1 del R. decreto-legge 1° maggio 1924, n. 763](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-01;763~art1), e degli [articoli 18](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1722~art18) e [19 del R. decreto-legge 4 settembre 1925, n. 1722](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1722~art19), furono rispettivamente consolidati e liquidati a carico del comune di Cognola, ora aggregato al comune di Trento, i corrispondenti contributi di L. 4898, L. 8800 e L. 4400;   
-  
-Sulla proposta del Nostro Ministro Segretario di Stato per la educazione nazionale, di concerto con quello per le finanze;   
-  
-Abbiamo decretato e decretiamo:   
-  
-E' approvato il consolidamento del contributo annuale dovuto dallo Stato al comune di Trento, a titolo di concorsi e rimborsi scolastici, per la diretta amministrazione delle scuole del comune aggregato di Cognola, in applicazione dell'[art. 11 della legge 14 giugno 1928, n. 1482](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-06-14;1482~art11), il cui ammontare rimane stabilito nella somma di L. 79.637,55 risultante dall'elenco annesso al presente decreto, a decorrere dal 1° gennaio 1929.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 gennaio 1930 - Anno VIII   
-  
-VITTORIO EMANUELE.   
-  
-Giuliano - Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 9 aprile 1930 - Anno VIII   
-Atti del Governo, registro 295, foglio 53. - Mancini.   
-  
-
-Contributo
-
-  
-Contributo dovuto dallo Stato al comune di Trento in esecuzione degli [articoli 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-06-14;1482~art11) e [13 della legge 14 giugno 1928, n. 1482](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-06-14;1482~art13), per l'amministrazione diretta delle scuole elementari dell'ex comune di Cognola.   
-  
-Posti di ruolo N. 9.   
-  
-  
-  
-  
-Spesa sostenuta nell'esercizio 1927-28  
-dall'Amministrazione scolastica regionale:  
-  
-1. Stipendi ed assegni al personale di ruolo . . . L. 84.887,85 2. Retribuzioni per supplenze . . . » 285,32 3. Compensi per insegnanti facoltativi . . . »  
-4. Concorso ad Enti per scuole a sgravio . . . »  
-5. Contributo 8 % al Monte pensioni . . . » 5.231,99 6. Spese per: indennita' alle Commissioni dei concorsi  
-magistrali; indennita' esami; indennita' visite fiscali;  
-rimborso R. M. e M. P.; rimborso equivalente alloggio  
-in natura . . . » 30,39 Spese sostenute direttamente dal Ministero:  
-1. Per una scuola non classificata . . . » 7.300 -  
-------------- Totale . . . L. 97.735,55 A dedurre per contributi scolastici a carico del Comune:  
-Per l'[art. 1 del R. decreto-legge 1° maggio 1924,  
-n. 763](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-05-01;763~art1) . . . » 4.898 -  
-Per l'[art. 18 del R. decreto-legge 4 settembre 1925,  
-n. 1722](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1722~art18) . . . » 8.800 -  
-Per l'[art. 19 del R. decreto-legge 4 settembre 1925,  
-n. 1722](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1722~art19) . . . » 4.400 -  
-» \_18.098 -  
-------------- Contributo a carico dello Stato dal 1° gennaio 1929 . . L. 79.637,55   
-  
-  
-Visto, d'ordine di Sua Maesta' il Re:   
-  
-Il Ministro per le finanze: Il Ministro per l'educazione nazionale:   
-  
-Mosconi. Giuliano.   
-  
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Visto il [R. decreto 16 settembre 1926, n. 1798](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-09-16;1798), col quale il comune di Cognola e' stato aggregato al comune di Trento e che, conseguentemente, gli insegnanti elementari del suddetto Comune sono passati a tutti gli effetti dall'amministrazione del Regio provveditorato agli studi di Trento alla diretta amministrazione del comune autonomo di Trento, a decorrere dal 1° gennaio 1929; 
+ 
+ Visto l'[art. 11 della legge 14 giugno 1928, n. 1482](Disposizioni%20sullistruzione%20elementare%20in%20relazione%20al%20R.%20decreto%202%20gennaio%201927%20n.%201%20concernente%20il%20riordinamento%20delle%20circoscrizioni%20provinciali.%20028U1482.md), col quale le disposizioni contenute nel 3° e 4° comma dell'art. 1 della stessa legge, per quanto riguarda i concorsi e rimborsi scolastici dovuti dallo Stato ai Comuni che hanno la diretta amministrazione delle scuole elementari, si applicano anche per le scuole amministrate dai Regi provveditori agli studi nei Comuni aggregati ad altri che abbiano invece la diretta amministrazione delle scuole; 
+ 
+ Visto il 3° comma dello stesso art. 1 della citata legge, per il quale i concorsi e rimborsi dello Stato da corrispondersi ai Comuni suddetti sono consolidati nella differenza fra la spesa effettivamente sostenuta per le scuole predette dall'Amministrazione regionale scolastica e direttamente dal Ministero per le scuole non classificate e i contributi dovuti dai Comuni per effetto dell'[art. 1 del R. decreto-legge 1° maggio 1924, n. 763](Disposizioni%20concernenti%20le%20scuole%20elementari%20nei%20territori%20annessi.%20024U0763.md), e degli [articoli 18](Disposizioni%20per%20listruzione%20elementare.%20025U1722.md) e [19 del R. decreto-legge 4 settembre 1925, n. 1722](Disposizioni%20per%20listruzione%20elementare.%20025U1722.md); 
+ 
+ Visti gli atti trasmessi dal Regio provveditore agli studi di Trento dai quali risulta che nell'esercizio 1927-1928 quell'Amministrazione scolastica per la gestione delle scuole elementari del comune di Cognola sostenne l'effettiva spesa di L. 90.435,55; 
+ 
+ Visto che nello stesso esercizio finanziario il Ministero della educazione nazionale sostenne l'effettiva spesa di L. 7300 per la gestione di una scuola non classificata in detto Comune; 
+ 
+ Visti i [Regi decreti 23 ottobre 1925, n. 2534](Approvazione%20dei%20contributi%20che%20i%20comuni%20della%20Venezia%20Tridentina%20sono%20tenuti%20a%20versare%20allo%20Stato%20per%20le%20scuole%20elementari.%20025U2534.md), [1° luglio 1926, n. 1473](Liquidazione%20dei%20contributi%20scolastici%20dovuti%20dai%20Comuni%20della%20provincia%20di%20Trento%20per%20il%20quinquennio%201º%20gennaio%201924-31%20dicembre%201928%20in%20applicazione%20dellart.%2018%20del%20R.%20decreto-legge%204%20_a91c855e6d4e.md), e [23 settembre 1926, n. 1876](Approvazione%20dei%20contributi%20scolastici%20dovuti%20dai%20Comuni%20della%20provincia%20di%20Trento%20per%20il%20quinquennio%201%20aprile%201925-31%20marzo%201930%20in%20applicazione%20dellart.%2019%20del%20R.%20decreto-legge%204%20settem_d201c04e2e6c.md), coi quali, in applicazione dell'[art. 1 del R. decreto-legge 1° maggio 1924, n. 763](Disposizioni%20concernenti%20le%20scuole%20elementari%20nei%20territori%20annessi.%20024U0763.md), e degli [articoli 18](Disposizioni%20per%20listruzione%20elementare.%20025U1722.md) e [19 del R. decreto-legge 4 settembre 1925, n. 1722](Disposizioni%20per%20listruzione%20elementare.%20025U1722.md), furono rispettivamente consolidati e liquidati a carico del comune di Cognola, ora aggregato al comune di Trento, i corrispondenti contributi di L. 4898, L. 8800 e L. 4400; 
+ 
+ Sulla proposta del Nostro Ministro Segretario di Stato per la educazione nazionale, di concerto con quello per le finanze; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ E' approvato il consolidamento del contributo annuale dovuto dallo Stato al comune di Trento, a titolo di concorsi e rimborsi scolastici, per la diretta amministrazione delle scuole del comune aggregato di Cognola, in applicazione dell'[art. 11 della legge 14 giugno 1928, n. 1482](Disposizioni%20sullistruzione%20elementare%20in%20relazione%20al%20R.%20decreto%202%20gennaio%201927%20n.%201%20concernente%20il%20riordinamento%20delle%20circoscrizioni%20provinciali.%20028U1482.md), il cui ammontare rimane stabilito nella somma di L. 79.637,55 risultante dall'elenco annesso al presente decreto, a decorrere dal 1° gennaio 1929. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 gennaio 1930 - Anno VIII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giuliano - Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 9 aprile 1930 - Anno VIII  
+ Atti del Governo, registro 295, foglio 53. - Mancini.

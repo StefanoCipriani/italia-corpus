@@ -1,16 +1,14 @@
-REGIO DECRETO 24 dicembre 1893 n. 703
-
-
-REGIO DECRETO 24 dicembre 1893 n. 703
-=====================================
-
-Che sopprime un posto di notaro nel comune di Motta di Livenza. (093U0703)
---------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/01/1894
+---
+tipo: REGIO DECRETO
+numero: 703
+data: 1893-12-24
+titolo: "Che sopprime un posto di notaro nel comune di Motta di Livenza. (093U0703)"
+urn: urn:nir:stato:regio.decreto:1893-12-24;703
+codice_redazionale: 093U0703
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Visto l'articolo 4 della legge sul notariato, approvato con Nostro decreto 25 ma
 
 Ritenuto essere giustificata la opportunita' della chiesta soppressione;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' soppresso uno dei due posti di notaro, assegnati al comune di Motta di Livenza, distretto notarile di Treviso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 dicembre 1893.   
-  
-UMBERTO.   
-  
-Calenda.   
-  
-Visto, Il Guardasigilli: V. Calenda di Tavani.   
-  
+E' soppresso uno dei due posti di notaro, assegnati al comune di Motta di Livenza, distretto notarile di Treviso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 dicembre 1893. 
+ 
+ UMBERTO. 
+ 
+ Calenda. 
+ 
+ Visto, Il Guardasigilli: V. Calenda di Tavani.

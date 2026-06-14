@@ -1,21 +1,17 @@
-REGIO DECRETO 28 maggio 1896 n. CCV
+---
+tipo: REGIO DECRETO
+numero: CCV
+data: 1896-05-28
+titolo: "Che erige in corpo morale il lascito Colombo in Cuccaro (Alessandria) avente per iscopo la cura di infermi ed, in difetto, la erogazione di elemosine e ne affida l'amministrazione all'erede nominato dal testatore. (9600205R)"
+urn: urn:nir:stato:regio.decreto:1896-05-28;205
+codice_redazionale: 9600205R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 maggio 1896 n. CCV
-===================================
-
-Che erige in corpo morale il lascito Colombo in Cuccaro (Alessandria) avente per iscopo la cura di infermi ed, in difetto, la erogazione di elemosine e ne affida l'amministrazione all'erede nominato dal testatore. (9600205R)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/07/1896
-
-Art. 1
-------
-
-  
-Che erige in corpo morale il lascito Colombo in Cuccaro (Alessandria) avente per iscopo la cura di infermi ed, in difetto, la erogazione di elemosine e ne affida l'amministrazione all'erede nominato dal testatore. - Firmato UMBERTO - Contrassegnato Rudini' - Visto G. Costa.   
-  
-Registrato alla Corte dei conti addi' 10 giugno 1896.   
-  
-Reg. 206. Atti del Governo a f. 71.   
-  
+Che erige in corpo morale il lascito Colombo in Cuccaro (Alessandria) avente per iscopo la cura di infermi ed, in difetto, la erogazione di elemosine e ne affida l'amministrazione all'erede nominato dal testatore. - Firmato UMBERTO - Contrassegnato Rudini' - Visto G. Costa. 
+ 
+ Registrato alla Corte dei conti addi' 10 giugno 1896. 
+ 
+ Reg. 206. Atti del Governo a f. 71.

@@ -1,17 +1,17 @@
-REGIO DECRETO 29 giugno 1922 n. 956
+---
+tipo: REGIO DECRETO
+numero: 956
+data: 1922-06-29
+titolo: "Erezione in Ente morale. (022U0956)"
+urn: urn:nir:stato:regio.decreto:1922-06-29;956
+codice_redazionale: 022U0956
+vigente: true
+---
 
-
-REGIO DECRETO 29 giugno 1922 n. 956
-===================================
-
-Erezione in Ente morale. (022U0956)
------------------------------------
-
-Entrata in vigore del provvedimento: 06/08/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-956. Regio decreto 29 giugno 1922, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'Istituto dotalizio «Adele Lucisani» e' eretto in Ente morale sotto l'amministrazione della Congregazione di carita' di Castelvecchio Subequo e ne e' approvato lo statuto organico, in data 23 ottobre 1921.
+956.
+
+Regio decreto 29 giugno 1922, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'Istituto dotalizio «Adele Lucisani» e' eretto in Ente morale sotto l'amministrazione della Congregazione di carita' di Castelvecchio Subequo e ne e' approvato lo statuto organico, in data 23 ottobre 1921.

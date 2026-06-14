@@ -1,16 +1,14 @@
-REGIO DECRETO 20 maggio 1866 n. 2931
-
-
-REGIO DECRETO 20 maggio 1866 n. 2931
-====================================
-
-Sulle pensioni alle vedove ed orfani dei militari de' Corpi volontari italiani. (066U2931)
-------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/06/1866
+---
+tipo: REGIO DECRETO
+numero: 2931
+data: 1866-05-20
+titolo: "Sulle pensioni alle vedove ed orfani dei militari de' Corpi volontari italiani. (066U2931)"
+urn: urn:nir:stato:regio.decreto:1866-05-20;2931
+codice_redazionale: 066U2931
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,22 @@ Visto l'art. 8 del Nostro Decreto delli 6 del corrente mese sulla formazione di 
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposizione del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo quanto segue:
 
-proposizione del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il diritto all'applicazione delle Leggi 27 giugno 1850 e 7 febbraio 1865 sulle pensioni militari, e' esteso alle vedove, agli orfani ed ai congiunti dei militari dei Corpi anzidetti, morti per le cagioni indicate all'art. 27 della ora accennata Legge 27 giugno 1850.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 20 maggio 1866.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 24 maggio 1866   
-  
-Reg.° 36 Atti del Governo a c. 50. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli De Falco.   
-  
-I. Pettinengo.   
-  
-  
+Il diritto all'applicazione delle Leggi 27 giugno 1850 e 7 febbraio 1865 sulle pensioni militari, e' esteso alle vedove, agli orfani ed ai congiunti dei militari dei Corpi anzidetti, morti per le cagioni indicate all'art. 27 della ora accennata Legge 27 giugno 1850. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 20 maggio 1866. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 24 maggio 1866 
+ 
+ Reg.° 36 Atti del Governo a c. 50. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli De Falco. 
+ 
+ I. Pettinengo.

@@ -1,16 +1,14 @@
-REGIO DECRETO 16 aprile 1896 n. 91
-
-
-REGIO DECRETO 16 aprile 1896 n. 91
-==================================
-
-Che sospende temporaneamente il disposto dell'art. 5 del Regio decreto 7 aprile 1895 n. 95 nella parte che riguarda il conferimento dei posti di Vice-Segretario di ragioneria nel Ministero del Tesoro. (096U0091)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/05/1896
+---
+tipo: REGIO DECRETO
+numero: 91
+data: 1896-04-16
+titolo: "Che sospende temporaneamente il disposto dell'art. 5 del Regio decreto 7 aprile 1895 n. 95 nella parte che riguarda il conferimento dei posti di Vice-Segretario di ragioneria nel Ministero del Tesoro. (096U0091)"
+urn: urn:nir:stato:regio.decreto:1896-04-16;91
+codice_redazionale: 096U0091
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,32 +24,22 @@ Ritenuto che ragioni di equita' consigliano un provvedimento che, senza danno de
 
 Sulla proposta del Nostro Ministro, Segretario di Stato per il Tesoro;
 
-Udito
------
+Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Agli effetti del susseguente articolo, e' sospeso temporaneamente il disposto dell'art. 5 del Nostro decreto 7 aprile 1895 n. 95, nella parte che riguarda il conferimento dei posti di Vice-segretario di ragioneria di 2ª classe nel Ministero del Tesoro.
 
-  
-  
-Agli effetti del susseguente articolo, e' sospeso temporaneamente il disposto dell'art. 5 del Nostro decreto 7 aprile 1895 n. 95, nella parte che riguarda il conferimento dei posti di Vice-segretario di ragioneria di 2ª classe nel Ministero del Tesoro.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Fino a che non siano collocati in impiego tutti i vincitori del concorso indetto col decreto Ministeriale del 14 agosto 1893, saranno nominati al posto di Vicesegretario di ragioneria di 2ª classe nel Ministero del Tesoro, per merito ed a scelta del Ministro, i Vice-segretari di ragioneria di 2ª classe delle Intendenze di Finanza.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 aprile 1896.   
-  
-UMBERTO.   
-  
-G. Colombo.   
-  
-Visto, Il Guardasigilli: G. Costa.   
+Fino a che non siano collocati in impiego tutti i vincitori del concorso indetto col decreto Ministeriale del 14 agosto 1893, saranno nominati al posto di Vicesegretario di ragioneria di 2ª classe nel Ministero del Tesoro, per merito ed a scelta del Ministro, i Vice-segretari di ragioneria di 2ª classe delle Intendenze di Finanza. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 aprile 1896. 
+ 
+ UMBERTO. 
+ 
+ G. Colombo. 
+ 
+ Visto, Il Guardasigilli: G. Costa.

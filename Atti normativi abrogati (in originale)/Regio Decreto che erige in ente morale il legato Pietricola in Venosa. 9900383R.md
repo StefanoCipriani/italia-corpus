@@ -1,21 +1,17 @@
-REGIO DECRETO 28 dicembre 1899 n. CCCLXXXIII
+---
+tipo: REGIO DECRETO
+numero: CCCLXXXIII
+data: 1899-12-28
+titolo: "Regio Decreto che erige in ente morale il legato Pietricola in Venosa. (9900383R)"
+urn: urn:nir:stato:regio.decreto:1899-12-28;383
+codice_redazionale: 9900383R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 dicembre 1899 n. CCCLXXXIII
-============================================
-
-Regio Decreto che erige in ente morale il legato Pietricola in Venosa. (9900383R)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/02/1900
-
-Art. 1
-------
-
-  
-Con cui il legato Pietricola in Venosa (Potenza), avente lo scopo di assegnare doti a zitelle povere e una borsa di studio nel seminario diocesano, viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato UMBERTO - Controfirmato Pelloux - Visto A. Bonasi.   
-  
-Registrato alla Corte dei Conti addi' 12 gennaio 1900.   
-  
-Reg. 222. Atti del Governo a f. 20.   
-  
+Con cui il legato Pietricola in Venosa (Potenza), avente lo scopo di assegnare doti a zitelle povere e una borsa di studio nel seminario diocesano, viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato UMBERTO - Controfirmato Pelloux - Visto A. Bonasi. 
+ 
+ Registrato alla Corte dei Conti addi' 12 gennaio 1900. 
+ 
+ Reg. 222. Atti del Governo a f. 20.

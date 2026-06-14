@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 24 aprile 1919 n. 1145
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1145
+data: 1919-04-24
+titolo: "Classificazione di R. scuola di disegno e di plastica. (019U1145)"
+urn: urn:nir:stato:decreto.luogotenenziale:1919-04-24;1145
+codice_redazionale: 019U1145
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 24 aprile 1919 n. 1145
-==============================================
-
-Classificazione di R. scuola di disegno e di plastica. (019U1145)
------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/08/1919
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1145. Decreto Luogotenenziale 24 aprile 1919, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, la R. scuola di disegno e di plastica «P. Selvatico» in Padova e' classificata di 2° grado, assumendo la denominazione di R. scuola artistico industriale «P. Selvatico».
+1145.
+
+Decreto Luogotenenziale 24 aprile 1919, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, la R. scuola di disegno e di plastica «P. Selvatico» in Padova e' classificata di 2° grado, assumendo la denominazione di R. scuola artistico industriale «P. Selvatico».

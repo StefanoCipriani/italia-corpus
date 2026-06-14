@@ -1,19 +1,15 @@
-REGIO DECRETO 08 giugno 1905 n. CXCIX
+---
+tipo: REGIO DECRETO
+numero: CXCIX
+data: 1905-06-08
+titolo: "Approvazione di statuto. (0500199R)"
+urn: urn:nir:stato:regio.decreto:1905-06-08;199
+codice_redazionale: 0500199R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 giugno 1905 n. CXCIX
-=====================================
-
-Approvazione di statuto. (0500199R)
------------------------------------
-
-Entrata in vigore del provvedimento: 23/09/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CXCIX (Dato a Roma, l'8 giugno 1905), col quale si approva il nuovo statuto organico del Monte di pieta' di Siena.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CXCIX (Dato a Roma, l'8 giugno 1905), col quale si approva il nuovo statuto organico del Monte di pieta' di Siena.

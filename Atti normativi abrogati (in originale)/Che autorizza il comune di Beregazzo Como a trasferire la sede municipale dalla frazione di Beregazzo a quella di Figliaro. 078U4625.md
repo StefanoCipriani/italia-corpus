@@ -1,16 +1,14 @@
-REGIO DECRETO 20 novembre 1878 n. 4625
-
-
-REGIO DECRETO 20 novembre 1878 n. 4625
-======================================
-
-Che autorizza il comune di Beregazzo (Como) a trasferire la sede municipale dalla frazione di Beregazzo a quella di Figliaro. (078U4625)
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/01/1879
+---
+tipo: REGIO DECRETO
+numero: 4625
+data: 1878-11-20
+titolo: "Che autorizza il comune di Beregazzo (Como) a trasferire la sede municipale dalla frazione di Beregazzo a quella di Figliaro. (078U4625)"
+urn: urn:nir:stato:regio.decreto:1878-11-20;4625
+codice_redazionale: 078U4625
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,23 +20,16 @@ Veduta la deliberazione del Consiglio comunale di Beregazzo in data 19 maggio 18
 
 Vista la deliberazione del Consiglio provinciale di Como in data 24 settembre 1878;
 
-Vista
------
+Vista la legge comunale e provinciale 20 marzo 1865, allegato A, Abbiamo decretato e decretiamo:
 
-la legge comunale e provinciale 20 marzo 1865, allegato A, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Beregazzo, nella provincia di Como, e' autorizzato a trasferire la sede municipale dalla frazione di Beregazzo a quella di Figliaro.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli, addi' 20 novembre 1878.   
-  
-UMBERTO.   
-  
-G. Zanardelli.   
-  
+Il comune di Beregazzo, nella provincia di Como, e' autorizzato a trasferire la sede municipale dalla frazione di Beregazzo a quella di Figliaro. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli, addi' 20 novembre 1878. 
+ 
+ UMBERTO. 
+ 
+ G. Zanardelli.

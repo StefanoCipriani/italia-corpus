@@ -1,16 +1,14 @@
-REGIO DECRETO 11 aprile 1872 n. 773
-
-
-REGIO DECRETO 11 aprile 1872 n. 773
-===================================
-
-Col quale l'Amministrazione del Collegio Caccia e' autorizzata a concedere pensioni sulle sue rendite, anche a favore dei giovani che siano ammessi negl'Istituti superiori militari e marittimi. (072U0773)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/05/1872
+---
+tipo: REGIO DECRETO
+numero: 773
+data: 1872-04-11
+titolo: "Col quale l'Amministrazione del Collegio Caccia e' autorizzata a concedere pensioni sulle sue rendite, anche a favore dei giovani che siano ammessi negl'Istituti superiori militari e marittimi. (072U0773)"
+urn: urn:nir:stato:regio.decreto:1872-04-11;773
+codice_redazionale: 072U0773
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,28 +24,22 @@ Considerando che ad ogni modo l'intenzione del testatore fu quella di agevolare 
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposizione del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' data facolta' all'Amministrazione del Collegio Caccia di Novara di concedere pensioni e mezze pensioni sulle sue rendite, anche a favore dei giovanti che sieno ammessi negli Istituti superiori militari e marittimi del Regno per compiervi la loro educazione scientifica e professionale.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 11 aprile 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 22 aprile 1872   
-  
-Reg. 60 Atti del Governo a c. 110. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-C. correnti.   
+E' data facolta' all'Amministrazione del Collegio Caccia di Novara di concedere pensioni e mezze pensioni sulle sue rendite, anche a favore dei giovanti che sieno ammessi negli Istituti superiori militari e marittimi del Regno per compiervi la loro educazione scientifica e professionale. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 11 aprile 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 22 aprile 1872 
+ 
+ Reg. 60 Atti del Governo a c. 110. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ C. correnti.

@@ -1,19 +1,15 @@
-REGIO DECRETO 06 giugno 1912 n. 588
+---
+tipo: REGIO DECRETO
+numero: 588
+data: 1912-06-06
+titolo: "Erezione in ente morale e approvazione di relativo statuto. (012U0588)"
+urn: urn:nir:stato:regio.decreto:1912-06-06;588
+codice_redazionale: 012U0588
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 giugno 1912 n. 588
-===================================
-
-Erezione in ente morale e approvazione di relativo statuto. (012U0588)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/07/1912
-
-Art. 1
-------
-
-  
-N. 588   
-  
-Regio Decreto 6 giugno 1912, col quale, sulla proposta del ministro dell'interno, l'asilo infantile di Olcio (Como), e' eretto in ente morale e ne e' approvato lo statuto organico.   
-  
+N. 588 
+ 
+ Regio Decreto 6 giugno 1912, col quale, sulla proposta del ministro dell'interno, l'asilo infantile di Olcio (Como), e' eretto in ente morale e ne e' approvato lo statuto organico.

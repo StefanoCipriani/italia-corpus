@@ -1,16 +1,14 @@
-REGIO DECRETO 15 novembre 1870 n. 6152
-
-
-REGIO DECRETO 15 novembre 1870 n. 6152
-======================================
-
-Col quale il Comune di Qualiano e' mantenuto chiuso per la riscossione dei dazi di consumo. (070U6152)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/01/1871
+---
+tipo: REGIO DECRETO
+numero: 6152
+data: 1870-11-15
+titolo: "Col quale il Comune di Qualiano e' mantenuto chiuso per la riscossione dei dazi di consumo. (070U6152)"
+urn: urn:nir:stato:regio.decreto:1870-11-15;6152
+codice_redazionale: 070U6152
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,23 +20,16 @@ Vista la domanda del comune di Qualiano perche' siagli conservata l'attuale qual
 
 Veduta la legge 3 luglio 1864;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' conservata al comune di Qualiano, in provincia di Napoli, appartenente alla quarta classe, la qualifica di chiuso per la riscossione dei dazi di consumo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale dalle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 15 novembre 1870.   
-  
-VITTORIO EMANUELE.   
-  
-Quintino Sella.   
-  
+E' conservata al comune di Qualiano, in provincia di Napoli, appartenente alla quarta classe, la qualifica di chiuso per la riscossione dei dazi di consumo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale dalle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 15 novembre 1870. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Quintino Sella.

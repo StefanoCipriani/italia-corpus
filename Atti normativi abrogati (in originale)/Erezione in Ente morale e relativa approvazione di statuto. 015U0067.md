@@ -1,19 +1,15 @@
-REGIO DECRETO 10 gennaio 1915 n. 67
+---
+tipo: REGIO DECRETO
+numero: 67
+data: 1915-01-10
+titolo: "Erezione in Ente morale e relativa approvazione di statuto. (015U0067)"
+urn: urn:nir:stato:regio.decreto:1915-01-10;67
+codice_redazionale: 015U0067
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 gennaio 1915 n. 67
-===================================
-
-Erezione in Ente morale e relativa approvazione di statuto. (015U0067)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/02/1915
-
-Art. 1
-------
-
-  
-N. 67   
-  
-Regio Decreto 10 gennaio 1915, col quale, sulla proposta del ministro dell'interno, il Pio legato «Anna Fisauli», in Randazzo, e' eretto in ente morale, sotto l'Amministrazione della locale Congregazione di carita', e ne e' approvato lo statuto organico.   
-  
+N. 67 
+ 
+ Regio Decreto 10 gennaio 1915, col quale, sulla proposta del ministro dell'interno, il Pio legato «Anna Fisauli», in Randazzo, e' eretto in ente morale, sotto l'Amministrazione della locale Congregazione di carita', e ne e' approvato lo statuto organico.

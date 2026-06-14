@@ -1,16 +1,14 @@
-REGIO DECRETO 18 febbraio 1912 n. 133
-
-
-REGIO DECRETO 18 febbraio 1912 n. 133
-=====================================
-
-Che porta norme per il servizio amministrativo della marina mercantile in Tripolitania e Cirenaica. (012U0133)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/03/1912
+---
+tipo: REGIO DECRETO
+numero: 133
+data: 1912-02-18
+titolo: "Che porta norme per il servizio amministrativo della marina mercantile in Tripolitania e Cirenaica. (012U0133)"
+urn: urn:nir:stato:regio.decreto:1912-02-18;133
+codice_redazionale: 012U0133
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,43 +20,28 @@ Visto l'art. 5 del Nostro decreto dell'8 ottobre 1911, n. 1128, col quale venner
 
 Riconosciuta la necessita' di regolare in via provvisoria il servizio della marina mercantile nella Tripolitania e nella Cirenaica nell'attesa della legge prevista dal menzionato Nostro decreto del 5 novembre 1911, n. 1247;
 
-Visto l'art. 1 del Codice per la marina mercantile e la [legge 2 gennaio 1910, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-01-02;2), sull'unificazione dei servizi marittimi;
+Visto l'art. 1 del Codice per la marina mercantile e la [legge 2 gennaio 1910, n. 2](Concernente%20lunificazione%20dei%20servizi%20marittimi.%20010U0002.md), sull'unificazione dei servizi marittimi;
 
-Sulla
------
+Sulla proposta del Nostro ministro per la marina; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro per la marina; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Per il servizio amministrativo e tecnico della marina mercantile possono essere destinati in quelle localita' della Tripolitania e Cirenaica che saranno designate dal Nostro ministro della marina, impiegati del corpo delle capitanerie di porto.
 
-  
-  
-Per il servizio amministrativo e tecnico della marina mercantile possono essere destinati in quelle localita' della Tripolitania e Cirenaica che saranno designate dal Nostro ministro della marina, impiegati del corpo delle capitanerie di porto.   
-  
+## Art. 2.
 
-Art. 2
-------
+Gli impiegati del corpo delle capitanerie preposti al servizio amministrativo e tecnico della marina mercantile in Tripolitania e Cirenaica nel disimpegno delle loro funzioni si atterranno, in via di massima, alle consuetudini ed agli usi locali, in quanto siano compatibili con il nuovo regime di quelle regioni e con la necessita' dei traffici marittimi, ed alle istruzioni impartite dal Nostro ministro per la marina.
 
-  
-  
-Gli impiegati del corpo delle capitanerie preposti al servizio amministrativo e tecnico della marina mercantile in Tripolitania e Cirenaica nel disimpegno delle loro funzioni si atterranno, in via di massima, alle consuetudini ed agli usi locali, in quanto siano compatibili con il nuovo regime di quelle regioni e con la necessita' dei traffici marittimi, ed alle istruzioni impartite dal Nostro ministro per la marina.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Gli impiegati suindicati corrisponderanno per tutto quanto riguarda il servizio della marina mercantile, col ministro per la marina, per il tramite del comandante del corpo di spedizione, governatore della Tripolitania e Cirenaica.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 febbraio 1912.   
-  
-VITTORIO EMANUELE.   
-  
-Leonardi-Cattolica.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+Gli impiegati suindicati corrisponderanno per tutto quanto riguarda il servizio della marina mercantile, col ministro per la marina, per il tramite del comandante del corpo di spedizione, governatore della Tripolitania e Cirenaica. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 febbraio 1912. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Leonardi-Cattolica. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

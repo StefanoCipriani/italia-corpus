@@ -1,22 +1,18 @@
-REGIO DECRETO 16 giugno 1901 n. CLXXVII
+---
+tipo: REGIO DECRETO
+numero: CLXXVII
+data: 1901-06-16
+titolo: "Che applica la tassa di famiglia nel comune di Altamura. (0100177R)"
+urn: urn:nir:stato:regio.decreto:1901-06-16;177
+codice_redazionale: 0100177R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 giugno 1901 n. CLXXVII
-=======================================
-
-Che applica la tassa di famiglia nel comune di Altamura. (0100177R)
--------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/07/1901
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di Altamura di applicare nel biennio 1901-1902 la tassa di famiglia col limite massimo di lire 400 (quattrocento). - Firmato VITTORIO EMANUELE - Contro firmato L.  
-Wollemborg - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 2 luglio 1901.   
-  
-Reg. 229. Atti del Governo a f. 110.   
-  
+Col quale e' data facolta' al comune di Altamura di applicare nel biennio 1901-1902 la tassa di famiglia col limite massimo di lire 400 (quattrocento). - Firmato VITTORIO EMANUELE - Contro firmato L.
+Wollemborg - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 2 luglio 1901. 
+ 
+ Reg. 229. Atti del Governo a f. 110.

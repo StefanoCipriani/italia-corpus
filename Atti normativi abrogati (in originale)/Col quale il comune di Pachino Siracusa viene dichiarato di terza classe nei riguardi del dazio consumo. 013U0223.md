@@ -1,16 +1,14 @@
-REGIO DECRETO 06 marzo 1913 n. 223
-
-
-REGIO DECRETO 06 marzo 1913 n. 223
-==================================
-
-Col quale il comune di Pachino (Siracusa) viene dichiarato di terza classe nei riguardi del dazio consumo. (013U0223)
----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/04/1913
+---
+tipo: REGIO DECRETO
+numero: 223
+data: 1913-03-06
+titolo: "Col quale il comune di Pachino (Siracusa) viene dichiarato di terza classe nei riguardi del dazio consumo. (013U0223)"
+urn: urn:nir:stato:regio.decreto:1913-03-06;223
+codice_redazionale: 013U0223
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,41 +20,30 @@ Viste le successive deliberazioni 31 ottobre e 7 novembre 1912, approvate dalla 
 
 Visti gli articoli 2, 3 e 87 del testo unico delle leggi daziarie 7 maggio 1908, n. 248 e 2 del regolamento generale 17 giugno 1909, n. 455;
 
-Viste le tabelle di classificazione e qualificazione dei Comuni, approvate coi [Regi decreti 22 luglio 1870, n. 5781](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-07-22;5781) e [23 novembre 1885, n. 3542](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-11-23;3542) (serie 3ª);
+Viste le tabelle di classificazione e qualificazione dei Comuni, approvate coi [Regi decreti 22 luglio 1870, n. 5781](Che%20approva%20una%20nuova%20e%20generale%20classificazione%20dei%20Comuni%20nei%20rapporti%20del%20dazio%20di%20consumo.%20070U5781.md) e [23 novembre 1885, n. 3542](Che%20classifica%20varii%20comuni%20del%20Regno%20rispetto%20ai%20dazi%20di%20consumo%20in%20rapporto%20al%20R.%20decreto%20del%2022%20luglio%201870%20n.%205781%20col%20quale%20furono%20pubblicate%20le%20tabelle%20di%20classificazione%20e%20di%20quali_5481abccd610.md) (serie 3ª);
 
-Vista al statistica del censimento ufficiale al 10 febbraio 1901 e i risultati del censimento al 10 giugno 1911, approvati con [R. decreto 5 dicembre 1912, n. 1333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-12-05;1333);
+Vista al statistica del censimento ufficiale al 10 febbraio 1901 e i risultati del censimento al 10 giugno 1911, approvati con [R. decreto 5 dicembre 1912, n. 1333](Col%20quale%20viene%20fissata%20la%20popolazione%20legale%20di%20ciascun%20Comune%20del%20Regno%20censita%20alla%20mezzanotte%20dal%2010%20all11%20giugno%201911.%20012U1333.md);
 
 Vista la tabella approvata con Nostro decreto 15 dicembre 1910, n. 882, nella quale il canone daziario assegnato al comune di Pachino e' stabilito in annue L. 5515,76;
 
 Vista la decisione in data 25 febbraio 1913 della Commissione centrale del dazio consumo, emessa ai sensi e per gli effetti previsti dagli articoli 87, 89 e 110 del testo unico delle leggi daziarie sovraindicato;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il comune di Pachino, in provincia di Siracusa, in conformita' alle mentovate deliberazioni del Consiglio comunale, e' dichiarato di terza classe nei riguardi del dazio consumo.
 
-  
-  
-Il comune di Pachino, in provincia di Siracusa, in conformita' alle mentovate deliberazioni del Consiglio comunale, e' dichiarato di terza classe nei riguardi del dazio consumo.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il canone daziario corrisposto allo Stato dal detto Comune e' aumentato da annue lire cinquemilacinquecentoquindici e centesimi 76 (L. 5515,76) ad annue lire seimiladuecentonovantanove e centesimi 44 (L. 6299,44) con decorrenza dal 1° gennaio 1913.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 marzo 1913.   
-  
-VITTORIO EMANUELE.   
-  
-Facta.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+Il canone daziario corrisposto allo Stato dal detto Comune e' aumentato da annue lire cinquemilacinquecentoquindici e centesimi 76 (L. 5515,76) ad annue lire seimiladuecentonovantanove e centesimi 44 (L. 6299,44) con decorrenza dal 1° gennaio 1913. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 marzo 1913. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Facta. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

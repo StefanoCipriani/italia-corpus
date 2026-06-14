@@ -1,71 +1,45 @@
-REGIO DECRETO-LEGGE 27 novembre 1921 n. 1872
-
-
-REGIO DECRETO-LEGGE 27 novembre 1921 n. 1872
-============================================
-
-Che apporta variazioni al bilancio delle ferrovie dello Stato per l'esercizio finanziario 1920-921, nonche' allo stato di previsione della spesa del Ministero del tesoro per lo stesso esercizio. (021U1872)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/01/1922  
-Regio Decreto-Legge convertito dalla [L. 17 aprile 1925, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473) (in G.U. 05/05/1925, n. 104).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1872
+data: 1921-11-27
+titolo: "Che apporta variazioni al bilancio delle ferrovie dello Stato per l'esercizio finanziario 1920-921, nonche' allo stato di previsione della spesa del Ministero del tesoro per lo stesso esercizio. (021U1872)"
+urn: urn:nir:stato:regio.decreto.legge:1921-11-27;1872
+codice_redazionale: 021U1872
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 29 dicembre 1920, n. 1820](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-12-29;1820);
+Vista la [legge 29 dicembre 1920, n. 1820](Che%20autorizza%20ad%20esercitare%20i%20bilanci%20delle%20Amministrazioni%20dello%20Stato%20per%20lesercizio%20finanziario%20dal%201%20luglia%201920%20al%2030%20giugno%201921%20sino%20a%20che%20non%20sieno%20rispettivamente%20tradotti%20in%20legge.%20020U1820.md);
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per tesoro, di concerto con quello per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per tesoro, di concerto con quello per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Nello stato di previsione dell'entrata ed in quello della spesa delle ferrovie dello Stato per l'esercizio finanziario 1920-921 sono introdotte le variazioni indicate nella tabella annessa al presente decreto, firmato, d'ordine Nostro, dai ministri proponenti.
 
-  
-  
-Nello stato di previsione dell'entrata ed in quello della spesa delle ferrovie dello Stato per l'esercizio finanziario 1920-921 sono introdotte le variazioni indicate nella tabella annessa al presente decreto, firmato, d'ordine Nostro, dai ministri proponenti.   
-  
+## Art. 2.
 
-Art. 2
-------
+Allo stanziamento del capitolo n. 224 «Assegnazione straordinaria all'Amministrazione delle ferrovie dello Stato a pareggio del bilancio per l'esercizio finanziario 1920-921» dello stato di previsione del Ministero del tesoro, per l'esercizio medesimo, e' apportata la diminuzione di lire 155.000.000.
 
-  
-  
-Allo stanziamento del capitolo n. 224 «Assegnazione straordinaria all'Amministrazione delle ferrovie dello Stato a pareggio del bilancio per l'esercizio finanziario 1920-921» dello stato di previsione del Ministero del tesoro, per l'esercizio medesimo, e' apportata la diminuzione di lire 155.000.000.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-A deroga della disposizione contenuta nell'art. 20 comma b) della [legge 7 luglio 1907, n. 429](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429), modificato dall'[art. 1 della legge 25 giugno 1909, n. 372](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;372~art1), nel bilancio dell'Amministrazione delle ferrovie dello Stato per il predetto esercizio finanziario 1920-921 e' eliminato lo stanziamento pel rinnovamento e rifacimento in acciaio della parte metallica dell'armamento.   
-  
-Questo decreto sara' presentato al Parlamento per la sua conversione in legge ed andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 novembre 1921.   
-  
-VITTORIO EMANUELE.   
-  
-BONOMI - DE NAVA - MICHELI.   
-  
-Visto, il guardasigilli: RODINO'.   
-  
-
-Tabella
-
-  
-TABELLA di variazioni a taluni capitoli del bilancio delle ferrovie dello Stato per l'esercizio finanziario 1920-921.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=021U187200100010110001&dgu=1922-01-09&art.dataPubblicazioneGazzetta=1922-01-09&art.codiceRedazionale=021U1872)
-  
+A deroga della disposizione contenuta nell'art. 20 comma b) della [legge 7 luglio 1907, n. 429](Riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20007U0429.md), modificato dall'[art. 1 della legge 25 giugno 1909, n. 372](Modificazione%20ed%20aggiunte%20alla%20legge%20riguardante%20lordinamento%20dellesercizio%20di%20Stato%20delle%20ferrovie%20non%20concesse%20ad%20imprese%20private.%20009U0372.md), nel bilancio dell'Amministrazione delle ferrovie dello Stato per il predetto esercizio finanziario 1920-921 e' eliminato lo stanziamento pel rinnovamento e rifacimento in acciaio della parte metallica dell'armamento. 
+ 
+ Questo decreto sara' presentato al Parlamento per la sua conversione in legge ed andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 novembre 1921. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ BONOMI - DE NAVA - MICHELI. 
+ 
+ Visto, il guardasigilli: RODINO'.

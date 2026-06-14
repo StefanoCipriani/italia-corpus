@@ -1,16 +1,14 @@
-REGIO DECRETO 11 gennaio 1894 n. 12
-
-
-REGIO DECRETO 11 gennaio 1894 n. 12
-===================================
-
-Che istituisce un posto di notaro nel comune di Varallo Pombia (Novara). (094U0012)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/02/1894
+---
+tipo: REGIO DECRETO
+numero: 12
+data: 1894-01-11
+titolo: "Che istituisce un posto di notaro nel comune di Varallo Pombia (Novara). (094U0012)"
+urn: urn:nir:stato:regio.decreto:1894-01-11;12
+codice_redazionale: 094U0012
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Visto l'art. 4 della legge notarile, approvata con Nostro decreto 25 maggio 1879
 
 Ritenuto esser dimostrata la necessita' della istituzione del posto anzidetto;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un posto di notaro nel comune di Varano Pombia, distretto notarile di Novara.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 gennaio 1894.   
-  
-UMBERTO.   
-  
-Calenda.   
-  
-Visto, Il Guardasigilli: V. Calenda di Tavani.   
-  
+E' istituito un posto di notaro nel comune di Varano Pombia, distretto notarile di Novara. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 gennaio 1894. 
+ 
+ UMBERTO. 
+ 
+ Calenda. 
+ 
+ Visto, Il Guardasigilli: V. Calenda di Tavani.

@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 12 dicembre 1918 n. 2121
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 2121
+data: 1918-12-12
+titolo: "Applicazione di tassa sul bestiame. (018U2121)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-12-12;2121
+codice_redazionale: 018U2121
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 12 dicembre 1918 n. 2121
-================================================
-
-Applicazione di tassa sul bestiame. (018U2121)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 23/03/1919
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2121. Decreto Luogotenenziale 12 dicembre 1918, col quale, sulla proposta del ministro dalle finanze, e' data facolta' al comune di Senorbi (Cagliari), di applicare per il biennio 1918-919 la tassa sul bestiame con eccedenza dei limiti massimi normali, in base alla tariffa deliberata in adunanza consiliare 24 agosto 1918.
+2121.
+
+Decreto Luogotenenziale 12 dicembre 1918, col quale, sulla proposta del ministro dalle finanze, e' data facolta' al comune di Senorbi (Cagliari), di applicare per il biennio 1918-919 la tassa sul bestiame con eccedenza dei limiti massimi normali, in base alla tariffa deliberata in adunanza consiliare 24 agosto 1918.

@@ -1,19 +1,15 @@
-REGIO DECRETO 28 settembre 1911 n. 1095
+---
+tipo: REGIO DECRETO
+numero: 1095
+data: 1911-09-28
+titolo: "Erezione in ente morale e approvazione di statuto. (011U1095)"
+urn: urn:nir:stato:regio.decreto:1911-09-28;1095
+codice_redazionale: 011U1095
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 settembre 1911 n. 1095
-=======================================
-
-Erezione in ente morale e approvazione di statuto. (011U1095)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/11/1911
-
-Art. 1
-------
-
-  
-N. 1095   
-  
-Regio Decreto 28 settembre 1911, col quale, sulla proposta del ministro dell'interno, il lascito di beneficenza «Pompeo Nicolai» di Caprarola (Roma), e' eretto in ente morale e ne e' approvato lo statuto organico.   
-  
+N. 1095 
+ 
+ Regio Decreto 28 settembre 1911, col quale, sulla proposta del ministro dell'interno, il lascito di beneficenza «Pompeo Nicolai» di Caprarola (Roma), e' eretto in ente morale e ne e' approvato lo statuto organico.

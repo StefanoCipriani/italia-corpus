@@ -1,16 +1,14 @@
-REGIO DECRETO 05 aprile 1891 n. 174
-
-
-REGIO DECRETO 05 aprile 1891 n. 174
-===================================
-
-Che stabilisce che gli ispettori centrali del Ministero della pubblica istruzione e i due ispettori per le scuole normali debbano compire le funzioni ad essi spettanti distinte da quelle d' indole propriamente amministrativa. (091U0174)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/05/1891
+---
+tipo: REGIO DECRETO
+numero: 174
+data: 1891-04-05
+titolo: "Che stabilisce che gli ispettori centrali del Ministero della pubblica istruzione e i due ispettori per le scuole normali debbano compire le funzioni ad essi spettanti distinte da quelle d' indole propriamente amministrativa. (091U0174)"
+urn: urn:nir:stato:regio.decreto:1891-04-05;174
+codice_redazionale: 091U0174
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,57 +20,34 @@ Veduto l'altro Nostro decreto 12 maggio 1881, n. 230 (serie 3ª) che stabilisce 
 
 Visto l'altro Nostro decreto 2 luglio 1890 relativo alla istituzione, nel Ministero dell'Istruzione, di un ispettorato per le scuole normali del Regno;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Gli ispettori centrali del Ministero della Pubblica Istruzione e i due ispettori per le scuole normali nominati in virtu' del Nostro decreto 2 luglio 1890, compiranno le funzioni ad essi spettanti, distinte da quelle d'indole propriamente amministrativa, in conformita' degli ordini che verranno loro comunicati dal Ministro o dal Sotto-segretario di Stato, per mezzo dei capi degli uffici a cui sono addetti.
 
-  
-  
-Gli ispettori centrali del Ministero della Pubblica Istruzione e i due ispettori per le scuole normali nominati in virtu' del Nostro decreto 2 luglio 1890, compiranno le funzioni ad essi spettanti, distinte da quelle d'indole propriamente amministrativa, in conformita' degli ordini che verranno loro comunicati dal Ministro o dal Sotto-segretario di Stato, per mezzo dei capi degli uffici a cui sono addetti.   
-  
+## Art. 2.
 
-Art. 2
-------
+Gli ispettori, al termine di ciascuna missione, dovranno presentare al Ministro una particolareggiata relazione e proporre i provvedimenti giudicati opportuni.
 
-  
-  
-Gli ispettori, al termine di ciascuna missione, dovranno presentare al Ministro una particolareggiata relazione e proporre i provvedimenti giudicati opportuni.   
-  
+## Art. 3.
 
-Art. 3
-------
+Quando non sono in missione gli ispettori dovranno attendere ai lavori attinenti alle loro funzioni, che verranno ad essi affidati, osservando l'orario stabilito per gli altri impiegati.
 
-  
-  
-Quando non sono in missione gli ispettori dovranno attendere ai lavori attinenti alle loro funzioni, che verranno ad essi affidati, osservando l'orario stabilito per gli altri impiegati.   
-  
+## Art. 4.
 
-Art. 4
-------
+Gli ispettori potranno essere chiamati a discutere collegialmente con l'intervento dei rispettivi capi di divisione, le quistioni che hanno interesse comune a piu' uffici, specialmente quelle d'indole didattica.
 
-  
-  
-Gli ispettori potranno essere chiamati a discutere collegialmente con l'intervento dei rispettivi capi di divisione, le quistioni che hanno interesse comune a piu' uffici, specialmente quelle d'indole didattica.   
-  
+## Art. 5.
 
-Art. 5
-------
-
-  
-  
-Sono abrogati i Nostri decreti 12 maggio 1881, n. 230 (serie 3ª) e 2 luglio 1890, n. 6979 (serie 3ª), salvo quanto e' confermato dal presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 aprile 1891.   
-  
-UMBERTO.   
-  
-P. Villari.   
-  
-Visto, il Guardasigilli: L. Ferraris.   
-  
+Sono abrogati i Nostri decreti 12 maggio 1881, n. 230 (serie 3ª) e 2 luglio 1890, n. 6979 (serie 3ª), salvo quanto e' confermato dal presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 aprile 1891. 
+ 
+ UMBERTO. 
+ 
+ P. Villari. 
+ 
+ Visto, il Guardasigilli: L. Ferraris.

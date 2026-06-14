@@ -1,39 +1,35 @@
-REGIO DECRETO 29 aprile 1897 n. 156
+---
+tipo: REGIO DECRETO
+numero: 156
+data: 1897-04-29
+titolo: "Disposizioni nel Consolato italiano in Santander. (097U0156)"
+urn: urn:nir:stato:regio.decreto:1897-04-29;156
+codice_redazionale: 097U0156
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 aprile 1897 n. 156
-===================================
-
-Disposizioni nel Consolato italiano in Santander. (097U0156)
-------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/05/1897
-
-Art. 1
-------
-
-  
-UMBERTO I   
-  
-per grazia di Dio e per volonta' della Nazione   
-  
-RE D'ITALIA   
-  
-Visto l'articolo primo del Regolamento consolare, approvato con [Regio decreto 7 giugno 1866 n. 2996](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-06-07;2996);   
-  
-Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri;   
-  
-Abbiamo decretato e decretiamo:   
-  
-La giurisdizione del Nostro Consolato in Santander e' estesa alle provincie di Palencia e di Leon, le quali non furono sinora comprese nel distretto di alcun altro Consolato in Spagna.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 aprile 1897.   
-  
-UMBERTO.   
-  
-Visconti Venosta.   
-  
-Visto, Il Guardasigilli: G. Costa.   
-  
+UMBERTO I 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Visto l'articolo primo del Regolamento consolare, approvato con [Regio decreto 7 giugno 1866 n. 2996](Approvativo%20del%20Regolamento%20per%20lesecuzione%20della%20Legge%20sullordinamento%20del%20servizio%20consolare.%20066U2996.md); 
+ 
+ Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ La giurisdizione del Nostro Consolato in Santander e' estesa alle provincie di Palencia e di Leon, le quali non furono sinora comprese nel distretto di alcun altro Consolato in Spagna. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 aprile 1897. 
+ 
+ UMBERTO. 
+ 
+ Visconti Venosta. 
+ 
+ Visto, Il Guardasigilli: G. Costa.

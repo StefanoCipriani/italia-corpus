@@ -1,16 +1,14 @@
-REGIO DECRETO 09 maggio 1869 n. 5067
-
-
-REGIO DECRETO 09 maggio 1869 n. 5067
-====================================
-
-Col quale sono cancellate dal Quadro del Regio Naviglio le Corvette Euridice, Valoroso, Zeffiro, il Brigantino Daino e il Piroscafo rimorchiatore Weasel. (069U5067)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/06/1869
+---
+tipo: REGIO DECRETO
+numero: 5067
+data: 1869-05-09
+titolo: "Col quale sono cancellate dal Quadro del Regio Naviglio le Corvette Euridice, Valoroso, Zeffiro, il Brigantino Daino e il Piroscafo rimorchiatore Weasel. (069U5067)"
+urn: urn:nir:stato:regio.decreto:1869-05-09;5067
+codice_redazionale: 069U5067
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,29 +18,22 @@ Visto l'articolo 21 del Regio Decreto 14 giugno 1863 circa l'armamento del Navig
 
 Sentito il parere del Consiglio superiore di Marina;
 
-Sulla
------
+Sulla proposta del Ministro della Marina; Abbiamo decretato e decretiamo:
 
-proposta del Ministro della Marina; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le Corvette Euridice, Valoroso, Zeffirro, il Brigantino Daino e il Piroscafo rimorchiatore Weasel sono cancellati dal Quadro del Regio Naviglio.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 9 maggio 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 17 maggio 1869   
-  
-Reg. 47 Atti del Governo a c. 14. Ayres.   
-  
-Luogo del sigillo. V. li Guardasigilli De Filippo.   
-  
-A. Riboty.   
-  
+Le Corvette Euridice, Valoroso, Zeffirro, il Brigantino Daino e il Piroscafo rimorchiatore Weasel sono cancellati dal Quadro del Regio Naviglio. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 9 maggio 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 17 maggio 1869 
+ 
+ Reg. 47 Atti del Governo a c. 14. Ayres. 
+ 
+ Luogo del sigillo. V. li Guardasigilli De Filippo. 
+ 
+ A. Riboty.

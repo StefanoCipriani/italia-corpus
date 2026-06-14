@@ -1,16 +1,14 @@
-REGIO DECRETO 06 settembre 1874 n. 2060
-
-
-REGIO DECRETO 06 settembre 1874 n. 2060
-=======================================
-
-Che annulla il dazio sui piano-forti imposto dal Comune di Piacenza. (074U2060)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/10/1874
+---
+tipo: REGIO DECRETO
+numero: 2060
+data: 1874-09-06
+titolo: "Che annulla il dazio sui piano-forti imposto dal Comune di Piacenza. (074U2060)"
+urn: urn:nir:stato:regio.decreto:1874-09-06;2060
+codice_redazionale: 074U2060
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,26 +22,18 @@ Visto l'Articolo 138 della legge comunale e provinciale;
 
 Sentito il parere del Consiglio di Stato,
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze, Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze, Abbiamo decretato e decretiamo:
+## Articolo unico. — null
 
-Articolo unico
---------------
+1873.
 
-null
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, il 6 settembre
 
-1873. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, il 6 settembre
+1874.
 
-1874. 
-  
-  
-VITTORIO EMANUELE.   
-  
-M. Minghetti.
+VITTORIO EMANUELE. 
+ 
+ M. Minghetti.

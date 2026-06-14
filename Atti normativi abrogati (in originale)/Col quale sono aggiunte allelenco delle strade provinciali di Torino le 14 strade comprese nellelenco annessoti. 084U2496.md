@@ -1,16 +1,14 @@
-REGIO DECRETO 15 giugno 1884 n. 2496
-
-
-REGIO DECRETO 15 giugno 1884 n. 2496
-====================================
-
-Col quale sono aggiunte all'elenco delle strade provinciali di Torino le 14 strade comprese nell'elenco annessoti. (084U2496)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/08/1884
+---
+tipo: REGIO DECRETO
+numero: 2496
+data: 1884-06-15
+titolo: "Col quale sono aggiunte all'elenco delle strade provinciali di Torino le 14 strade comprese nell'elenco annessoti. (084U2496)"
+urn: urn:nir:stato:regio.decreto:1884-06-15;2496
+codice_redazionale: 084U2496
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -90,49 +88,26 @@ Visti gli articoli 14 e 25 della legge sulle Opere pubbliche;
 
 Udito il Consiglio di Stato nei suoi pareri 21 e 28 maggio 1884;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato poi Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato poi Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono aggiunte all'elenco delle strade provinciali per la provincia di Torino le 14 strade comprese nell'elenco che, visto d'ordine Nostro dal Ministro dei Lavori Pubblici, sta annesso al presente decreto.
 
-  
-  
-Sono aggiunte all'elenco delle strade provinciali per la provincia di Torino le 14 strade comprese nell'elenco che, visto d'ordine Nostro dal Ministro dei Lavori Pubblici, sta annesso al presente decreto.   
-  
+## Art. 2.
 
-Art. 2
-------
+Sono approvati i tracciamenti generali delle strade medesime, in base ai tipi che, pure firmati dal predetto Ministro, sono uniti al presente decreto.
 
-  
-  
-Sono approvati i tracciamenti generali delle strade medesime, in base ai tipi che, pure firmati dal predetto Ministro, sono uniti al presente decreto.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-I ricorsi dei comuni di Viu', Usseglio e Ceres, contro le deliberazioni 9, 10, 11 e 12 gennaio 1883 del Consiglio provinciale di Torino, non che il ricorso dei comuni di Sciolze ed altri contro il tracciamento generale della strada Carmagnola-Chieri-Gassino, sono respinti.   
-  
-Ordiniamo che il presente decreto, munito del, sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 15 giugno 1884.   
-  
-UMBERTO.   
-  
-Genala.   
-  
-Visto, Il Guardasigilli: Ferracciu'.   
-  
-
-Tabella
-
-  
-Tabella   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=084U249600100010110001&dgu=1884-07-22&art.dataPubblicazioneGazzetta=1884-07-22&art.codiceRedazionale=084U2496)
-  
+I ricorsi dei comuni di Viu', Usseglio e Ceres, contro le deliberazioni 9, 10, 11 e 12 gennaio 1883 del Consiglio provinciale di Torino, non che il ricorso dei comuni di Sciolze ed altri contro il tracciamento generale della strada Carmagnola-Chieri-Gassino, sono respinti. 
+ 
+ Ordiniamo che il presente decreto, munito del, sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 15 giugno 1884. 
+ 
+ UMBERTO. 
+ 
+ Genala. 
+ 
+ Visto, Il Guardasigilli: Ferracciu'.

@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 03 dicembre 1916 n. 1761
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1761
+data: 1916-12-03
+titolo: "Applicazioni di tassa di esercizio (016U1761)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-12-03;1761
+codice_redazionale: 016U1761
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 03 dicembre 1916 n. 1761
-================================================
-
-Applicazioni di tassa di esercizio (016U1761)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 20/01/1917
-
-Art. 1
-------
-
-  
-N. 1761   
-  
-Decreto Luogotenenziale 3 dicembre 1916, col quale, sulla proposta del ministro delle finanze e' data facolta' al comune di Vezzano Ligure (Genova) di applicare la tassa di esercizio nella misura massima di L. 2000 dal 1° gennaio 1916 al 31 dicembre dell'anno in cui cessera' la guerra.   
-  
+N. 1761 
+ 
+ Decreto Luogotenenziale 3 dicembre 1916, col quale, sulla proposta del ministro delle finanze e' data facolta' al comune di Vezzano Ligure (Genova) di applicare la tassa di esercizio nella misura massima di L. 2000 dal 1° gennaio 1916 al 31 dicembre dell'anno in cui cessera' la guerra.

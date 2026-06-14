@@ -1,19 +1,15 @@
-REGIO DECRETO 16 agosto 1912 n. 965
+---
+tipo: REGIO DECRETO
+numero: 965
+data: 1912-08-16
+titolo: "Erezione in ente morale. (012U0965)"
+urn: urn:nir:stato:regio.decreto:1912-08-16;965
+codice_redazionale: 012U0965
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 agosto 1912 n. 965
-===================================
-
-Erezione in ente morale. (012U0965)
------------------------------------
-
-Entrata in vigore del provvedimento: 28/09/1912
-
-Art. 1
-------
-
-  
-N. 965   
-  
-Regio Decreto 16 agosto 1912, col quale, sulla proposta del ministro dell'interno, l'Opera pia dotalizia «Lodi Cazzani» avente sede in Bologna e' eretta in ente morale.   
-  
+N. 965 
+ 
+ Regio Decreto 16 agosto 1912, col quale, sulla proposta del ministro dell'interno, l'Opera pia dotalizia «Lodi Cazzani» avente sede in Bologna e' eretta in ente morale.

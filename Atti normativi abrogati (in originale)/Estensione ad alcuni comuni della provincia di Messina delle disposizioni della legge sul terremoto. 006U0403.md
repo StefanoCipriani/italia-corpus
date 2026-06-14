@@ -1,22 +1,20 @@
-REGIO DECRETO 29 luglio 1906 n. 403
-
-
-REGIO DECRETO 29 luglio 1906 n. 403
-===================================
-
-Estensione ad alcuni comuni della provincia di Messina delle disposizioni della legge sul terremoto. (006U0403)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/08/1906
+---
+tipo: REGIO DECRETO
+numero: 403
+data: 1906-07-29
+titolo: "Estensione ad alcuni comuni della provincia di Messina delle disposizioni della legge sul terremoto. (006U0403)"
+urn: urn:nir:stato:regio.decreto:1906-07-29;403
+codice_redazionale: 006U0403
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'[art. 94 della legge 25 giugno 1906, n. 255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-25;255~art94), modificato con la [legge del 19 luglio 1906, n. 369](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-19;369), contenente provvedimenti a favore della Calabria;
+Visto l'[art. 94 della legge 25 giugno 1906, n. 255](Provvedimenti%20a%20favore%20della%20Calabria.%20006U0255.md), modificato con la [legge del 19 luglio 1906, n. 369](Modificazioni%20allarticolo%2094%20della%20legge%2025%20giugno%201906%20n.%20265%20pei%20provvedimenti%20per%20la%20Calabria.%20006U0369.md), contenente provvedimenti a favore della Calabria;
 
 Visti i decreti 22 settembre 1905, n. 506 e 17 dicembre 1905, n. 633, che concessero la sospensione dalla 5ª e 6ª rata delle imposte e sovrimposte sui terreni e fabbricati per alcuni Comuni danneggiati dal terremoto del settembre 1905;
 
@@ -26,35 +24,24 @@ Ritenuto che dalle verifiche eseguite e' venuto a risultare quali sono i Comuni 
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per le finanze, di concerto con quello del tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per le finanze, di concerto con quello del tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Le disposizioni degli [articoli 1](Provvedimenti%20a%20favore%20della%20Calabria.%20006U0255.md), [2](Provvedimenti%20a%20favore%20della%20Calabria.%20006U0255.md), [5](Provvedimenti%20a%20favore%20della%20Calabria.%20006U0255.md), [6](Provvedimenti%20a%20favore%20della%20Calabria.%20006U0255.md), [12](Provvedimenti%20a%20favore%20della%20Calabria.%20006U0255.md) e [93 della legge 25 giugno 1906, n. 255](Provvedimenti%20a%20favore%20della%20Calabria.%20006U0255.md), sono estese ai seguenti comuni: Ali', Barcellona, Bauso, Calvaruso, Castroreale, Condro', Gualtieri Sicamino', Lipari, Messina, Milazzo, Monforte San Giorgio, Roccavaldina, Rometta, Santa Lucia del Mela, Saponara Villafranca, Spadafora San Martino, Tripi, Valdina, Venetico.
 
-  
-  
-Le disposizioni degli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-25;255~art1), [2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-25;255~art2), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-25;255~art5), [6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-25;255~art6), [12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-25;255~art12) e [93 della legge 25 giugno 1906, n. 255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-25;255~art93), sono estese ai seguenti comuni: Ali', Barcellona, Bauso, Calvaruso, Castroreale, Condro', Gualtieri Sicamino', Lipari, Messina, Milazzo, Monforte San Giorgio, Roccavaldina, Rometta, Santa Lucia del Mela, Saponara Villafranca, Spadafora San Martino, Tripi, Valdina, Venetico.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Le somme d'imposta della quinta e sesta rata del 1905 sospese nei comuni di Brolo, Furnari, Giardini, Mazzara' Sant'Andrea, Meri, Naso, Patti, Sant'Angelo di Brolo, San Filippo del Mela, San Pier Nicetti, Savoca, Scaletta Zanglea (provincia di Messina), saranno ripartite nei modi stabiliti dal [2° comma dell'art. 94 della legge 25 giugno 1906, n. 255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-25;255~art94-com2).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 luglio 1906.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti.   
-Massimini.   
-A. Majorana.   
-  
-Visto, Il guardasigilli: Gallo.   
-  
+Le somme d'imposta della quinta e sesta rata del 1905 sospese nei comuni di Brolo, Furnari, Giardini, Mazzara' Sant'Andrea, Meri, Naso, Patti, Sant'Angelo di Brolo, San Filippo del Mela, San Pier Nicetti, Savoca, Scaletta Zanglea (provincia di Messina), saranno ripartite nei modi stabiliti dal [2° comma dell'art. 94 della legge 25 giugno 1906, n. 255](Provvedimenti%20a%20favore%20della%20Calabria.%20006U0255.md). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 luglio 1906. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti. 
+ Massimini. 
+ A. Majorana. 
+ 
+ Visto, Il guardasigilli: Gallo.

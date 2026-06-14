@@ -1,16 +1,14 @@
-REGIO DECRETO 03 gennaio 1884 n. 2026
-
-
-REGIO DECRETO 03 gennaio 1884 n. 2026
-=====================================
-
-Col quale l'Associazione generale d'irrigazione all'ovest della Sesia e' abilitata a continuare a riscuotere il contributo dei soci coi privilegi e nelle forme fiscali. (084U2026)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/04/1884
+---
+tipo: REGIO DECRETO
+numero: 2026
+data: 1884-01-03
+titolo: "Col quale l'Associazione generale d'irrigazione all'ovest della Sesia e' abilitata a continuare a riscuotere il contributo dei soci coi privilegi e nelle forme fiscali. (084U2026)"
+urn: urn:nir:stato:regio.decreto:1884-01-03;2026
+codice_redazionale: 084U2026
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Vista la domanda colla quale la rappresentanza dell'Associazione generale di irr
 
 Visto lo statuto e gli atti relativi;
 
-Vista la [legge 29 maggio 1873, n. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (Serie 3ª);
+Vista la [legge 29 maggio 1873, n. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md) (Serie 3ª);
 
-Sulla
------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'Associazione generale d'irrigazione all'ovest della Sesia, con sede in Vercelli (Novara), e' abilitata a continuare e riscuotere il contributo dei soci coi privilegi e nelle forme fiscali.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 gennaio 1884.   
-  
-UMBERTO.   
-  
-Berti.   
-  
-Visto, Il Guardasigilli: Savelli.   
-  
+L'Associazione generale d'irrigazione all'ovest della Sesia, con sede in Vercelli (Novara), e' abilitata a continuare e riscuotere il contributo dei soci coi privilegi e nelle forme fiscali. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 gennaio 1884. 
+ 
+ UMBERTO. 
+ 
+ Berti. 
+ 
+ Visto, Il Guardasigilli: Savelli.

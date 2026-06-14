@@ -1,19 +1,15 @@
-REGIO DECRETO 14 novembre 1910 n. CCCCLVII
+---
+tipo: REGIO DECRETO
+numero: CCCCLVII
+data: 1910-11-14
+titolo: "Col quale si approva lo statuto della sezione speciale per case popolari della Societa' di mutuo soccorso degli operai di Conselve. (1000457R)"
+urn: urn:nir:stato:regio.decreto:1910-11-14;457
+codice_redazionale: 1000457R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 novembre 1910 n. CCCCLVII
-==========================================
-
-Col quale si approva lo statuto della sezione speciale per case popolari della Societa' di mutuo soccorso degli operai di Conselve. (1000457R)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/01/1911
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. CCCCLVII (Dato a San Rossore, il 14 novembre 1910), col quale si approva lo statuto della sezione speciale per case popolari della Societa' di mutuo soccorso degli operai di Conselve.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. CCCCLVII (Dato a San Rossore, il 14 novembre 1910), col quale si approva lo statuto della sezione speciale per case popolari della Societa' di mutuo soccorso degli operai di Conselve.

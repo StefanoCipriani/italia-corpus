@@ -1,16 +1,14 @@
-REGIO DECRETO 28 aprile 1878 n. 4364
-
-
-REGIO DECRETO 28 aprile 1878 n. 4364
-====================================
-
-Che istituisce un premio di studio annuale, a favore dei giovani nativi della provincia di Firenze. (078U4364)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/06/1878
+---
+tipo: REGIO DECRETO
+numero: 4364
+data: 1878-04-28
+titolo: "Che istituisce un premio di studio annuale, a favore dei giovani nativi della provincia di Firenze. (078U4364)"
+urn: urn:nir:stato:regio.decreto:1878-04-28;4364
+codice_redazionale: 078U4364
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,47 +22,28 @@ Veduto che nel Gran Libro del Debito Pubblico fu scritta a favore del Ministero 
 
 Volendo ora dare le norme per l'attuazione dell'istituzione;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' istituito un premio annuale di lire centottanta (L.180), che s'intitolera' Premio Francolini, pei giovani nativi della provincia di Firenze, che avranno compiti gli studi secondari nei licei governativi del Regno d'Italia.
 
-  
-  
-E' istituito un premio annuale di lire centottanta (L.180), che s'intitolera' Premio Francolini, pei giovani nativi della provincia di Firenze, che avranno compiti gli studi secondari nei licei governativi del Regno d'Italia.   
-  
+## Art. 2.
 
-Art. 2
-------
+Il premio sara' conferito dal Ministro della Pubblica Istruzione mediante concorso che avra' luogo nell'agosto di ciascun anno presso il Liceo Dante di Firenze.
 
-  
-  
-Il premio sara' conferito dal Ministro della Pubblica Istruzione mediante concorso che avra' luogo nell'agosto di ciascun anno presso il Liceo Dante di Firenze.   
-  
+## Art. 3.
 
-Art. 3
-------
+Gli approvati nell'anno scolastico allo esame di licenza con sette decimi sulla fisica e sulle matematiche saranno ammessi al concorso, il quale constera' di un tema di una delle due scienze, che i concorrenti dovranno svolgere per iscritto.
 
-  
-  
-Gli approvati nell'anno scolastico allo esame di licenza con sette decimi sulla fisica e sulle matematiche saranno ammessi al concorso, il quale constera' di un tema di una delle due scienze, che i concorrenti dovranno svolgere per iscritto.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Il primo Concorso sara' bandito per mezzo della Gazzetta Ufficiale del Regno nell'anno in cui il Ministero dell'Istruzione entrera' in possesso della rendita mentovata, e cosi' d'anno in anno nel tempo avvenire.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 aprile 1878.   
-  
-UMBERTO.   
-  
-F. De Sanctis.   
-  
+Il primo Concorso sara' bandito per mezzo della Gazzetta Ufficiale del Regno nell'anno in cui il Ministero dell'Istruzione entrera' in possesso della rendita mentovata, e cosi' d'anno in anno nel tempo avvenire. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 aprile 1878. 
+ 
+ UMBERTO. 
+ 
+ F. De Sanctis.

@@ -1,17 +1,17 @@
-REGIO DECRETO 18 maggio 1922 n. 698
+---
+tipo: REGIO DECRETO
+numero: 698
+data: 1922-05-18
+titolo: "Erezione in Ente morale. (022U0698)"
+urn: urn:nir:stato:regio.decreto:1922-05-18;698
+codice_redazionale: 022U0698
+vigente: true
+---
 
-
-REGIO DECRETO 18 maggio 1922 n. 698
-===================================
-
-Erezione in Ente morale. (022U0698)
------------------------------------
-
-Entrata in vigore del provvedimento: 20/06/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-698. Regio decreto 18 maggio 1922, col quale, sulla proposta del ministro della guerra, i beni costituenti l'eredita' lasciata dal tenente colonnello Malfatti cav. Giovanni Paolo, deceduto in Cittadella il 28 maggio 1921, vengono eretti in Ente morale.
+698.
+
+Regio decreto 18 maggio 1922, col quale, sulla proposta del ministro della guerra, i beni costituenti l'eredita' lasciata dal tenente colonnello Malfatti cav. Giovanni Paolo, deceduto in Cittadella il 28 maggio 1921, vengono eretti in Ente morale.

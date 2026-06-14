@@ -1,16 +1,14 @@
-REGIO DECRETO 24 dicembre 1864 n. 2097
-
-
-REGIO DECRETO 24 dicembre 1864 n. 2097
-======================================
-
-Per lo scioglimento delle Sezioni circondariali dei Militi a cavallo della Provincia di Palermo. (064U2097)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/01/1865
+---
+tipo: REGIO DECRETO
+numero: 2097
+data: 1864-12-24
+titolo: "Per lo scioglimento delle Sezioni circondariali dei Militi a cavallo della Provincia di Palermo. (064U2097)"
+urn: urn:nir:stato:regio.decreto:1864-12-24;2097
+codice_redazionale: 064U2097
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,45 +22,30 @@ Ritenuto che intanto il relativo servizio della Sicurezza Pubblica puo' essere a
 
 Sulla proposizione del Nostro Ministro Segretario di Stato per gli Affari dell'Interno;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono sciolte le attuali cinque Sezioni circondariali dei Militi a cavallo della Provincia di Palermo.
 
-  
-  
-Sono sciolte le attuali cinque Sezioni circondariali dei Militi a cavallo della Provincia di Palermo.   
-  
+## Art. 2.
 
-Art. 2
-------
+Colla data del 1.° gennaio 1865 cessera' la decorrenza degli stipendi a favore degli individui componenti dette Sezioni; si procedera' alla liquidazione dei conti d'amministrazione, e verra' sistemata la incorsa responsabilita' pei danni e furti.
 
-  
-  
-Colla data del 1.° gennaio 1865 cessera' la decorrenza degli stipendi a favore degli individui componenti dette Sezioni; si procedera' alla liquidazione dei conti d'amministrazione, e verra' sistemata la incorsa responsabilita' pei danni e furti.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-L'ammontare dei compensi, che il Nostro Ministro dell'Interno trovasse equo di accordare in dipendenza e per gli effetti del predetto scioglimento, sara' prelevato dai fondi collocati nel Bilancio del Ministero dello Interno - esercizio 1865 - al Capitolo relativo alle Guardie a cavallo nelle Provincie Siciliane.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 24 dicembre 1864.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte di conti addi' 11 gennaio 1865   
-  
-Reg.° 32 Atti del Governo a c. 28. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-G. Lanza.   
-  
+L'ammontare dei compensi, che il Nostro Ministro dell'Interno trovasse equo di accordare in dipendenza e per gli effetti del predetto scioglimento, sara' prelevato dai fondi collocati nel Bilancio del Ministero dello Interno - esercizio 1865 - al Capitolo relativo alle Guardie a cavallo nelle Provincie Siciliane. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 24 dicembre 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte di conti addi' 11 gennaio 1865 
+ 
+ Reg.° 32 Atti del Governo a c. 28. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ G. Lanza.

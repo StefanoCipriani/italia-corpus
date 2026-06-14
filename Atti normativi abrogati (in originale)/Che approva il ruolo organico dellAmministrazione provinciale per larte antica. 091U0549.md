@@ -1,16 +1,14 @@
-REGIO DECRETO 19 agosto 1891 n. 549
-
-
-REGIO DECRETO 19 agosto 1891 n. 549
-===================================
-
-Che approva il ruolo organico dell'Amministrazione provinciale per l'arte antica. (091U0549)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/10/1891
+---
+tipo: REGIO DECRETO
+numero: 549
+data: 1891-08-19
+titolo: "Che approva il ruolo organico dell'Amministrazione provinciale per l'arte antica. (091U0549)"
+urn: urn:nir:stato:regio.decreto:1891-08-19;549
+codice_redazionale: 091U0549
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,51 +26,28 @@ Veduti i RR. decreti:
 
 4 luglio 1889, n. 6236 (serie 3ª), con cui fu approvato il ruolo unico degli impiegati addetti ai musei, alle gallerie, agli scavi ed ai monumenti nazionali;
 
-Veduta la [legge 21 giugno 1891; n. 301](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1891-06-21;301), che approva il bilancio 1891-92;
+Veduta la [legge 21 giugno 1891; n. 301](Che%20approva%20lo%20stato%20di%20previsione%20dellentrata%20del%20Ministero%20dellistruzione%20pubblica%20per%20lesercizio%20finanziario%201891-92.%20091U0301.md), che approva il bilancio 1891-92;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvato il ruolo organico dell'Amministrazione provinciale per l'arte antica, annesso al presente decreto, visto d'ordine Nostro dal predetto Ministro.
 
-  
-  
-E' approvato il ruolo organico dell'Amministrazione provinciale per l'arte antica, annesso al presente decreto, visto d'ordine Nostro dal predetto Ministro.   
-  
+## Art. 2.
 
-Art. 2
-------
+Sono abrogate le disposizioni dei precitati Regi decreti in quanto siano contrarie alle presenti, e per l'attuazione dell'unito organico si potra' derogare alle disposizioni dei Regi decreti che regolano le nomine, le promozioni ed i passaggi di categoria e di classe degli impiegati.
 
-  
-  
-Sono abrogate le disposizioni dei precitati Regi decreti in quanto siano contrarie alle presenti, e per l'attuazione dell'unito organico si potra' derogare alle disposizioni dei Regi decreti che regolano le nomine, le promozioni ed i passaggi di categoria e di classe degli impiegati.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il predetto ruolo organico avra' effetto dal giorno 1 del prossimo mese di ottobre.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 19 agosto 1891.   
-  
-UMBERTO.   
-  
-P. Villari.   
-  
-Visto, Il Guardasigilli: L. Ferraris.   
-  
-
-Ruolo organico
-
-  
-RUOLO ORGANICO dell'Amministrazione provinciale per l'arte antica.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=091U054900100010110001&dgu=1891-09-24&art.dataPubblicazioneGazzetta=1891-09-24&art.codiceRedazionale=091U0549)
-  
+Il predetto ruolo organico avra' effetto dal giorno 1 del prossimo mese di ottobre. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 19 agosto 1891. 
+ 
+ UMBERTO. 
+ 
+ P. Villari. 
+ 
+ Visto, Il Guardasigilli: L. Ferraris.

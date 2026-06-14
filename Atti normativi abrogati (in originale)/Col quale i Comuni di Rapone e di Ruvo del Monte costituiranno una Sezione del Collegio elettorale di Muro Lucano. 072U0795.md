@@ -1,16 +1,14 @@
-REGIO DECRETO 03 maggio 1872 n. 795
-
-
-REGIO DECRETO 03 maggio 1872 n. 795
-===================================
-
-Col quale i Comuni di Rapone e di Ruvo del Monte costituiranno una Sezione del Collegio elettorale di Muro Lucano. (072U0795)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/05/1872
+---
+tipo: REGIO DECRETO
+numero: 795
+data: 1872-05-03
+titolo: "Col quale i Comuni di Rapone e di Ruvo del Monte costituiranno una Sezione del Collegio elettorale di Muro Lucano. (072U0795)"
+urn: urn:nir:stato:regio.decreto:1872-05-03;795
+codice_redazionale: 072U0795
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,28 +24,22 @@ Noverandosi nel Comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Rapone e di Ruvo del Monte costituiranno d'ora in poi una Sezione del Collegio elettorale di Muro Lucano, n. 52, con sede nel capoluogo del Comune di Rapone, ferma rimanendo la Sezione principale a Pescopagano.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli addi' 3 maggio 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 maggio 1872   
-  
-Reg. 60 Atti del Governo a c. 214. D. Gherardi.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
+I Comuni di Rapone e di Ruvo del Monte costituiranno d'ora in poi una Sezione del Collegio elettorale di Muro Lucano, n. 52, con sede nel capoluogo del Comune di Rapone, ferma rimanendo la Sezione principale a Pescopagano. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli addi' 3 maggio 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 maggio 1872 
+ 
+ Reg. 60 Atti del Governo a c. 214. D. Gherardi. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

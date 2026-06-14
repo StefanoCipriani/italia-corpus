@@ -1,16 +1,14 @@
-REGIO DECRETO 12 aprile 1934 n. 706
-
-
-REGIO DECRETO 12 aprile 1934 n. 706
-===================================
-
-Autorizzazione al comune di Brindisi a riscuotere le imposte di consumo in base alla tariffa della classe D. (034U0706)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/05/1934
+---
+tipo: REGIO DECRETO
+numero: 706
+data: 1934-04-12
+titolo: "Autorizzazione al comune di Brindisi a riscuotere le imposte di consumo in base alla tariffa della classe D. (034U0706)"
+urn: urn:nir:stato:regio.decreto:1934-04-12;706
+codice_redazionale: 034U0706
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,28 +20,22 @@ Vista la domanda avanzata dal comune di Brindisi per avvalersi della disposizion
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Brindisi e' autorizzato a riscuotere, fino al 31 dicembre 1935, le imposte di consumo in base alla tariffa della classe D.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 aprile 1934 - Anno XII   
-  
-VITTORIO EMANUELE.   
-  
-Jung.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 30 aprile 1934 - Anno XII   
-  
-Atti del Governo, registro 346, foglio 188. - Mancini.   
+Il comune di Brindisi e' autorizzato a riscuotere, fino al 31 dicembre 1935, le imposte di consumo in base alla tariffa della classe D. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 aprile 1934 - Anno XII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Jung. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 30 aprile 1934 - Anno XII 
+ 
+ Atti del Governo, registro 346, foglio 188. - Mancini.

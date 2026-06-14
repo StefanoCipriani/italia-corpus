@@ -1,19 +1,15 @@
-REGIO DECRETO 18 gennaio 1912 n. 76
+---
+tipo: REGIO DECRETO
+numero: 76
+data: 1912-01-18
+titolo: "Approvazione di statuto. (012U0076)"
+urn: urn:nir:stato:regio.decreto:1912-01-18;76
+codice_redazionale: 012U0076
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 gennaio 1912 n. 76
-===================================
-
-Approvazione di statuto. (012U0076)
------------------------------------
-
-Entrata in vigore del provvedimento: 14/03/1912
-
-Art. 1
-------
-
-  
-N. 76   
-  
-Regio Decreto 18 gennaio 1912, col quale, sulla proposta del ministro di grazia e giustizia e dei culti, viene approvato lo statuto organico dell'opera di San Giovanni Battista in Pomarance.   
-  
+N. 76 
+ 
+ Regio Decreto 18 gennaio 1912, col quale, sulla proposta del ministro di grazia e giustizia e dei culti, viene approvato lo statuto organico dell'opera di San Giovanni Battista in Pomarance.

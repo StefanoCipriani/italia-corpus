@@ -1,16 +1,14 @@
-REGIO DECRETO 01 febbraio 1872 n. 696
-
-
-REGIO DECRETO 01 febbraio 1872 n. 696
-=====================================
-
-Che approva il Ruolo del personale degli Impiegati e Serventi del Collegio di musica, detto del Buon Pastore, in Palermo. (072U0696)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/03/1872
+---
+tipo: REGIO DECRETO
+numero: 696
+data: 1872-02-01
+titolo: "Che approva il Ruolo del personale degli Impiegati e Serventi del Collegio di musica, detto del Buon Pastore, in Palermo. (072U0696)"
+urn: urn:nir:stato:regio.decreto:1872-02-01;696
+codice_redazionale: 072U0696
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,37 +18,22 @@ Visto il Ruolo normale del Collegio di musica, detto del Buon Pastore, in Palerm
 
 Visto il bilancio passivo del corrente anno;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvato il nuovo Ruolo normale degl'Impiegati e Serventi del Collegio di musica, detto del Buon Pastore, in Palermo, annesso al presente Decreto e firmato d'ordine Nostro dal Ministro Segretario di Stato per la Istruzione Pubblica.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 1° febbraio 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 26 febbraio 1872   
-  
-Reg. 59 Atti del Governo a.c. 142. D. Gherardi.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-C. Correnti.   
-  
-
-Ruolo
-
-  
-Ruolo Normale degli Impiegati e Serventi del Collegio di musica, detto del Buon pastore, in Palermo.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U069600100010110001&dgu=1872-03-07&art.dataPubblicazioneGazzetta=1872-03-07&art.codiceRedazionale=072U0696)
-  
+E' approvato il nuovo Ruolo normale degl'Impiegati e Serventi del Collegio di musica, detto del Buon Pastore, in Palermo, annesso al presente Decreto e firmato d'ordine Nostro dal Ministro Segretario di Stato per la Istruzione Pubblica. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 1° febbraio 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 26 febbraio 1872 
+ 
+ Reg. 59 Atti del Governo a.c. 142. D. Gherardi. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ C. Correnti.

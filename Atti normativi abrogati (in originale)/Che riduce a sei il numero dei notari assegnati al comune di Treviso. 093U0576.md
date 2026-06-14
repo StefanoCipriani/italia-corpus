@@ -1,16 +1,14 @@
-REGIO DECRETO 17 settembre 1893 n. 576
-
-
-REGIO DECRETO 17 settembre 1893 n. 576
-======================================
-
-Che riduce a sei il numero dei notari assegnati al comune di Treviso. (093U0576)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/11/1893
+---
+tipo: REGIO DECRETO
+numero: 576
+data: 1893-09-17
+titolo: "Che riduce a sei il numero dei notari assegnati al comune di Treviso. (093U0576)"
+urn: urn:nir:stato:regio.decreto:1893-09-17;576
+codice_redazionale: 093U0576
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Visto l'art. 4 della legge sul notariato, approvata con Nostro decreto 25 maggio
 
 Ritenuto esser giustificata la opportunita' della chiesta soppressione;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il numero dei notari assegnati al comune di Treviso, dalla cennata tabella, e' ridotto a sei.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 17 settembre 1893.   
-  
-UMBERTO.   
-  
-F. Santamaria-Nicolini.   
-  
-Visto, Il Guardasigilli: Santamaria Nicolini.   
-  
+Il numero dei notari assegnati al comune di Treviso, dalla cennata tabella, e' ridotto a sei. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 17 settembre 1893. 
+ 
+ UMBERTO. 
+ 
+ F. Santamaria-Nicolini. 
+ 
+ Visto, Il Guardasigilli: Santamaria Nicolini.

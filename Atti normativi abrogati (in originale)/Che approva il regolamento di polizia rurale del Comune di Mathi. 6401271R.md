@@ -1,19 +1,15 @@
-REGIO DECRETO 26 giugno 1864 n. MCCLXXI
+---
+tipo: REGIO DECRETO
+numero: MCCLXXI
+data: 1864-06-26
+titolo: "Che approva il regolamento di polizia rurale del Comune di Mathi. (6401271R)"
+urn: urn:nir:stato:regio.decreto:1864-06-26;1271
+codice_redazionale: 6401271R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 giugno 1864 n. MCCLXXI
-=======================================
-
-Che approva il regolamento di polizia rurale del Comune di Mathi. (6401271R)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/06/1864
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia rurale del Comune di Mathi, Provincia di Torino, del 12 maggio corrente anno.   
-  
-Torino 26 giugno 1864   
-  
+Che approva il regolamento di polizia rurale del Comune di Mathi, Provincia di Torino, del 12 maggio corrente anno. 
+ 
+ Torino 26 giugno 1864

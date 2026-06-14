@@ -1,16 +1,14 @@
-REGIO DECRETO 16 dicembre 1869 n. 5386
-
-
-REGIO DECRETO 16 dicembre 1869 n. 5386
-======================================
-
-Portante la costituzione provvisoria di una Sezione elettorale nel Comune di Rolo. (069U5386)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/01/1870
+---
+tipo: REGIO DECRETO
+numero: 5386
+data: 1869-12-16
+titolo: "Portante la costituzione provvisoria di una Sezione elettorale nel Comune di Rolo. (069U5386)"
+urn: urn:nir:stato:regio.decreto:1869-12-16;5386
+codice_redazionale: 069U5386
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune stesso piu' di 40 elettori inscritti;
 
 Udito il Consiglio dei Ministri:
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Roto costituira', per questa sola volta, una Sezione separata del Collegio elettorale di Guastalla, con sede a Rolo.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 16 dicembre 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 18 dicembre 1869   
-  
-Reg. 49 Atti del Governo a c. 119. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli. M.Raeli.   
-  
-G. Lanza.3   
-  
+Il Comune di Roto costituira', per questa sola volta, una Sezione separata del Collegio elettorale di Guastalla, con sede a Rolo. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 16 dicembre 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 18 dicembre 1869 
+ 
+ Reg. 49 Atti del Governo a c. 119. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli. M.Raeli. 
+ 
+ G. Lanza.3

@@ -1,16 +1,14 @@
-REGIO DECRETO 23 settembre 1877 n. 4060
-
-
-REGIO DECRETO 23 settembre 1877 n. 4060
-=======================================
-
-Che separa i comuni di Mergo, Poggio San Marcello e Rosara dalla sezione elettorale di Montecarotto e li unisce a quella di Castelplanio appartenente al collegio di Fabriano. (077U4060)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/10/1877
+---
+tipo: REGIO DECRETO
+numero: 4060
+data: 1877-09-23
+titolo: "Che separa i comuni di Mergo, Poggio San Marcello e Rosara dalla sezione elettorale di Montecarotto e li unisce a quella di Castelplanio appartenente al collegio di Fabriano. (077U4060)"
+urn: urn:nir:stato:regio.decreto:1877-09-23;4060
+codice_redazionale: 077U4060
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,23 +18,16 @@ Veduti gli articoli 63, 64, 65 e 66 della legge elettorale 17 dicembre 1860, n. 
 
 Veduta la domanda dei comuni di Mergo, Poggio San Marcello e Rosara per essere separati dalla sezione elettorale di Montecarotto, ed uniti a quella di Castelplanio, istituita con R. decreto del 5 settembre 1877;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Mergo, Poggio San Marcello e Rosara sono separati dalla sezione elettorale di Montecarotto, ed uniti a quella di Castelplanio, appartenente al Collegio di Fabriano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Pollenzo, addi' 23 settembre 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+I comuni di Mergo, Poggio San Marcello e Rosara sono separati dalla sezione elettorale di Montecarotto, ed uniti a quella di Castelplanio, appartenente al Collegio di Fabriano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Pollenzo, addi' 23 settembre 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

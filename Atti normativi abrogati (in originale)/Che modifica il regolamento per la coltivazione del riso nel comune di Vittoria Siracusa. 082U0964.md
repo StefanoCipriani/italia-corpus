@@ -1,16 +1,14 @@
-REGIO DECRETO 17 agosto 1882 n. 964
-
-
-REGIO DECRETO 17 agosto 1882 n. 964
-===================================
-
-Che modifica il regolamento per la coltivazione del riso nel comune di Vittoria (Siracusa). (082U0964)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/09/1882
+---
+tipo: REGIO DECRETO
+numero: 964
+data: 1882-08-17
+titolo: "Che modifica il regolamento per la coltivazione del riso nel comune di Vittoria (Siracusa). (082U0964)"
+urn: urn:nir:stato:regio.decreto:1882-08-17;964
+codice_redazionale: 082U0964
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,27 +20,20 @@ Vista la deliberazione emessa in data del 29 marzo p. p. dal Consiglio provincia
 
 Vista la legge 12 giugno 1866 sulle risaie;
 
-Uditi
------
+Uditi il Consiglio superiore di sanita' ed il Consiglio di Stato, Abbiamo decretato e decretiamo;
 
-il Consiglio superiore di sanita' ed il Consiglio di Stato, Abbiamo decretato e decretiamo;
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-All'articolo 1 del regolamento per la coltivazione del riso nella provincia di Siracusa e' fatta la seguente aggiunta:   
-  
-«Pel comune di Vittoria la distanza delle risaie dalle aggregazioni di abitati di qualunque natura dovra' essere di sei chilometri, e verranno considerati quali aggregati di abitazioni rispetto alla risicoltura anche le case di campagna agglomerate ed abitate permanentemente da famiglie coloniche.»   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 17 agosto 1882.   
-  
-UMBERTO   
-  
-Depretis.   
-  
-Visto, il Guardasigilli: G. Zanardelli.   
-  
+All'articolo 1 del regolamento per la coltivazione del riso nella provincia di Siracusa e' fatta la seguente aggiunta: 
+ 
+ «Pel comune di Vittoria la distanza delle risaie dalle aggregazioni di abitati di qualunque natura dovra' essere di sei chilometri, e verranno considerati quali aggregati di abitazioni rispetto alla risicoltura anche le case di campagna agglomerate ed abitate permanentemente da famiglie coloniche.» 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 17 agosto 1882. 
+ 
+ UMBERTO 
+ 
+ Depretis. 
+ 
+ Visto, il Guardasigilli: G. Zanardelli.

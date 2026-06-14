@@ -1,16 +1,14 @@
-REGIO DECRETO-LEGGE 02 giugno 1936 n. 1171
-
-
-REGIO DECRETO-LEGGE 02 giugno 1936 n. 1171
-==========================================
-
-Concessione di esenzioni fiscali e tributarie alla Lega Navale Italiana. (036U1171)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/07/1936. Regio Decreto-Legge convertito dalla [L. 26 dicembre 1936, n. 2273](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-12-26;2273) (in G.U. 22/01/1937, n.17).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1171
+data: 1936-06-02
+titolo: "Concessione di esenzioni fiscali e tributarie alla Lega Navale Italiana. (036U1171)"
+urn: urn:nir:stato:regio.decreto.legge:1936-06-02;1171
+codice_redazionale: 036U1171
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,39 +28,26 @@ Ritenuta la necessita' urgente ed assoluta di provvedere;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Agli effetti di qualsiasi imposta, tassa o diritto, la Lega Navale Italiana, nonche' i suoi organi provinciali e comunali, sono parificati alle Amministrazioni dello Stato.
 
-  
-  
-Agli effetti di qualsiasi imposta, tassa o diritto, la Lega Navale Italiana, nonche' i suoi organi provinciali e comunali, sono parificati alle Amministrazioni dello Stato.   
-  
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto sara' presentato al Parlamento per essere convertito in legge. Il Capo del Governo, proponente, e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 giugno 1936 - Anno XIV.   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi 22 giugno 1936 - Anno XIV   
-  
-Atti del Governo, registro 374, foglio 145 - Mancini.   
-  
-  
+Il presente decreto sara' presentato al Parlamento per essere convertito in legge. Il Capo del Governo, proponente, e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 giugno 1936 - Anno XIV. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi 22 giugno 1936 - Anno XIV 
+ 
+ Atti del Governo, registro 374, foglio 145 - Mancini.

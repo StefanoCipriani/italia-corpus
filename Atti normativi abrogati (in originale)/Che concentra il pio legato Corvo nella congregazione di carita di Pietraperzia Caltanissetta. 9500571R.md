@@ -1,21 +1,17 @@
-REGIO DECRETO 18 agosto 1895 n. DLXXI
+---
+tipo: REGIO DECRETO
+numero: DLXXI
+data: 1895-08-18
+titolo: "Che concentra il pio legato Corvo nella congregazione di carita' di Pietraperzia (Caltanissetta). (9500571R)"
+urn: urn:nir:stato:regio.decreto:1895-08-18;571
+codice_redazionale: 9500571R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 agosto 1895 n. DLXXI
-=====================================
-
-Che concentra il pio legato Corvo nella congregazione di carita' di Pietraperzia (Caltanissetta). (9500571R)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/12/1895
-
-Art. 1
-------
-
-  
-Con cui il pio legato Corvo e' concentrato nella congregazione di carita' di Pietraperzia (Caltanissetta). - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei conti addi' 6 dicembre 1895.   
-  
-Reg. 202. Atti del Governo a f. 164.   
-  
+Con cui il pio legato Corvo e' concentrato nella congregazione di carita' di Pietraperzia (Caltanissetta). - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei conti addi' 6 dicembre 1895. 
+ 
+ Reg. 202. Atti del Governo a f. 164.

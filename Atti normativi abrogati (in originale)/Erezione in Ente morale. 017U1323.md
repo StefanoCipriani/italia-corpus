@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 26 luglio 1917 n. 1323
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1323
+data: 1917-07-26
+titolo: "Erezione in Ente morale. (017U1323)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-07-26;1323
+codice_redazionale: 017U1323
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 26 luglio 1917 n. 1323
-==============================================
-
-Erezione in Ente morale. (017U1323)
------------------------------------
-
-Entrata in vigore del provvedimento: 18/09/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1323. Decreto Luogotenenziale 26 luglio 1917, col quale, sulla proposta del ministro dell'interno, l'Associazione «Cesare Beccaria» di Milano per lo studio delle questioni penitenziarie in rapporto alla diminuzione della delinquenza viene eretta in ente morale e se ne approva lo statuto organico.
+1323.
+
+Decreto Luogotenenziale 26 luglio 1917, col quale, sulla proposta del ministro dell'interno, l'Associazione «Cesare Beccaria» di Milano per lo studio delle questioni penitenziarie in rapporto alla diminuzione della delinquenza viene eretta in ente morale e se ne approva lo statuto organico.

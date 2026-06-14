@@ -1,16 +1,14 @@
-REGIO DECRETO 22 novembre 1877 n. 4138
-
-
-REGIO DECRETO 22 novembre 1877 n. 4138
-======================================
-
-Che separa il comune di Solero dalla sezione elettorale di Felizzano e lo costituisce in sezione distinta del collegio di Oviglio. (077U4138)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/12/1877
+---
+tipo: REGIO DECRETO
+numero: 4138
+data: 1877-11-22
+titolo: "Che separa il comune di Solero dalla sezione elettorale di Felizzano e lo costituisce in sezione distinta del collegio di Oviglio. (077U4138)"
+urn: urn:nir:stato:regio.decreto:1877-11-22;4138
+codice_redazionale: 077U4138
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Solero e' separato dalla sezione elettorale di Felizzano, e formera' una sezione distinta del Collegio elettorale di Oviglio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 novembre 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il comune di Solero e' separato dalla sezione elettorale di Felizzano, e formera' una sezione distinta del Collegio elettorale di Oviglio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 novembre 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

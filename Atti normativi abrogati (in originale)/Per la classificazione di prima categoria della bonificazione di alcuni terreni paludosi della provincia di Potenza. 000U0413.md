@@ -1,16 +1,14 @@
-REGIO DECRETO 25 novembre 1900 n. 413
-
-
-REGIO DECRETO 25 novembre 1900 n. 413
-=====================================
-
-Per la classificazione di prima categoria della bonificazione di alcuni terreni paludosi della provincia di Potenza. (000U0413)
--------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/01/1901
+---
+tipo: REGIO DECRETO
+numero: 413
+data: 1900-11-25
+titolo: "Per la classificazione di prima categoria della bonificazione di alcuni terreni paludosi della provincia di Potenza. (000U0413)"
+urn: urn:nir:stato:regio.decreto:1900-11-25;413
+codice_redazionale: 000U0413
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Veduto il parere del Consiglio provinciale sanitario;
 
 Sentito il Consiglio superiore dei Lavori Pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' classificata di prima categoria, a' termini e per gli effetti dei precitati articoli di legge, la bonificazione dei terreni paludosi della zona litoranea Metaponto-Novasiri, presso le foci dei fiumi Bradano, Basento, Agri e Sinni, in provincia di Potenza, ed interessante i Comuni di Novasiri, Rotondolla, Montalbano Ionico, Pisticci e Pomarico.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 novembre 1900.   
-  
-VITTORIO EMANUELE.   
-  
-BRANCA.   
-  
-Visto, Il Guardasigilli: GIANTURCO.   
-  
+E' classificata di prima categoria, a' termini e per gli effetti dei precitati articoli di legge, la bonificazione dei terreni paludosi della zona litoranea Metaponto-Novasiri, presso le foci dei fiumi Bradano, Basento, Agri e Sinni, in provincia di Potenza, ed interessante i Comuni di Novasiri, Rotondolla, Montalbano Ionico, Pisticci e Pomarico. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 novembre 1900. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ BRANCA. 
+ 
+ Visto, Il Guardasigilli: GIANTURCO.

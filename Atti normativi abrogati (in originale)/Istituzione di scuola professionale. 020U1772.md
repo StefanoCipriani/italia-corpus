@@ -1,17 +1,17 @@
-REGIO DECRETO 09 settembre 1920 n. 1772
+---
+tipo: REGIO DECRETO
+numero: 1772
+data: 1920-09-09
+titolo: "Istituzione di scuola professionale. (020U1772)"
+urn: urn:nir:stato:regio.decreto:1920-09-09;1772
+codice_redazionale: 020U1772
+vigente: true
+---
 
-
-REGIO DECRETO 09 settembre 1920 n. 1772
-=======================================
-
-Istituzione di scuola professionale. (020U1772)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/01/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1772. Regio decreto 9 settembre 1920, col quale, sulla proposta del ministro dell'industria, e' istituita in Melfi una scuola professionale ad orario ridotto per l'avviamento ai mestieri del falegname ebanista, del fabbro meccanico e del muratore, col nome di «R. scuola professionale in Melfi».
+1772.
+
+Regio decreto 9 settembre 1920, col quale, sulla proposta del ministro dell'industria, e' istituita in Melfi una scuola professionale ad orario ridotto per l'avviamento ai mestieri del falegname ebanista, del fabbro meccanico e del muratore, col nome di «R. scuola professionale in Melfi».

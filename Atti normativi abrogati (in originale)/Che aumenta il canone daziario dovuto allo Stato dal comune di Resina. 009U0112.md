@@ -1,16 +1,14 @@
-REGIO DECRETO 31 gennaio 1909 n. 112
-
-
-REGIO DECRETO 31 gennaio 1909 n. 112
-====================================
-
-Che aumenta il canone daziario dovuto allo Stato dal comune di Resina. (009U0112)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/03/1909
+---
+tipo: REGIO DECRETO
+numero: 112
+data: 1909-01-31
+titolo: "Che aumenta il canone daziario dovuto allo Stato dal comune di Resina. (009U0112)"
+urn: urn:nir:stato:regio.decreto:1909-01-31;112
+codice_redazionale: 009U0112
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,25 +26,18 @@ Vista la decisione in data 7 novembre 1908 della Commissione centrale, che ha de
 
 Visti gli articoli 87, 109 e 110, lettera d, del testo unico di legge sui dazi interni di consumo del 7 maggio 1908, n. 248;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il canone daziario dovuto allo Stato dal comune di Resina e' elevato dalla somma di annue lire trentamiladieci e centesimi ventisei (L. 30,010.26), alla somma di annue lire trentamiladuecentodiciannove e centesimi ventiquattro (L. 30,219.24) con decorrenza dal 1° gennaio 1909.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 31 gennaie 1909.   
-  
-VITTORIO EMANUELE.   
-  
-LAVACA.   
-  
-Visto, Il guardasigilli: ORLANDO.   
-  
+Il canone daziario dovuto allo Stato dal comune di Resina e' elevato dalla somma di annue lire trentamiladieci e centesimi ventisei (L. 30,010.26), alla somma di annue lire trentamiladuecentodiciannove e centesimi ventiquattro (L. 30,219.24) con decorrenza dal 1° gennaio 1909. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 31 gennaie 1909. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ LAVACA. 
+ 
+ Visto, Il guardasigilli: ORLANDO.

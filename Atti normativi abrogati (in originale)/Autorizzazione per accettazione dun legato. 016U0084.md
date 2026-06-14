@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 16 gennaio 1916 n. 84
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 84
+data: 1916-01-16
+titolo: "Autorizzazione per accettazione d'un legato. (016U0084)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-01-16;84
+codice_redazionale: 016U0084
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 16 gennaio 1916 n. 84
-=============================================
-
-Autorizzazione per accettazione d'un legato. (016U0084)
--------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/02/1916
-
-Art. 1
-------
-
-  
-N. 84   
-  
-Decreto Luogotenenziale 16 gennaio 1916, col quale, sulla proposta del ministro dell'istruzione pubblica, la R. Universita' di Napoli e' autorizzata ad accettare il legato disposto dal defunto professore senatore Pasquale Fiore, comprendente l'intera biblioteca a lui appartenuta, con tutti i libri, scaffali ed oggetti mobili che vi si trovano.   
-  
+N. 84 
+ 
+ Decreto Luogotenenziale 16 gennaio 1916, col quale, sulla proposta del ministro dell'istruzione pubblica, la R. Universita' di Napoli e' autorizzata ad accettare il legato disposto dal defunto professore senatore Pasquale Fiore, comprendente l'intera biblioteca a lui appartenuta, con tutti i libri, scaffali ed oggetti mobili che vi si trovano.

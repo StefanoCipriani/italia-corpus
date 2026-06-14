@@ -1,16 +1,14 @@
-REGIO DECRETO 31 gennaio 1909 n. 105
-
-
-REGIO DECRETO 31 gennaio 1909 n. 105
-====================================
-
-Che aumenta il canone daziario dovuto allo Stato dal comune di Milano. (009U0105)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/03/1909
+---
+tipo: REGIO DECRETO
+numero: 105
+data: 1909-01-31
+titolo: "Che aumenta il canone daziario dovuto allo Stato dal comune di Milano. (009U0105)"
+urn: urn:nir:stato:regio.decreto:1909-01-31;105
+codice_redazionale: 009U0105
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -18,7 +16,7 @@ RE D'ITALIA
 
 Visto le deliberazioni 27 ottobre e 23 dicembre 1908, con le quali il Consiglio comunale di Milano ha provveduto alla sistemazione della linea Daziaria del Comune;
 
-Vista la nota del [Ministero delle finanze in data 11 dicembre 1908, n. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze::1908-12-11;16),[355](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze::1908-12-11;355), che ha approvato tale Provvedimento;
+Vista la nota del [Ministero delle finanze in data 11 dicembre 1908, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze::1908-12-11;16),[355](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze::1908-12-11;355), che ha approvato tale Provvedimento;
 
 Visto il Nostro decreto 31 dicembre 1905; n. 644, che ha approvato e resi esecutivi i canoni del dazio dovuti dai Comuni della provincia di Milano per il quinquennio 1306-1910;
 
@@ -26,25 +24,18 @@ Vista la decisione in data 15 gennaio 1909, della Commissione centrale, che ha d
 
 Visti gli articoli 87, 109 e 110 lettera d) del testo unico di legge sui dazi interni di consumo del 7 maggio 1908, n. 248;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il canone daziario dovuto allo Stato dal comune di Milano e' elevato dalla somma di annue lire tre milioni seicentoventiseimila duecentosettantasette e centesimi ottantatre (L. 3,626,277.83), alla somma di annue lire tre milioni seicentocinquantaduemila novecontosettantuno e centesimi ottantatre (L. 3,652,971.83) con decorrenza dal 30 dicembre 1908.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 31 gennaio 1909.   
-  
-VITTORIO EMANUELE.   
-  
-Lacava.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+Il canone daziario dovuto allo Stato dal comune di Milano e' elevato dalla somma di annue lire tre milioni seicentoventiseimila duecentosettantasette e centesimi ottantatre (L. 3,626,277.83), alla somma di annue lire tre milioni seicentocinquantaduemila novecontosettantuno e centesimi ottantatre (L. 3,652,971.83) con decorrenza dal 30 dicembre 1908. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 31 gennaio 1909. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Lacava. 
+ 
+ Visto, Il guardasigilli: Orlando.

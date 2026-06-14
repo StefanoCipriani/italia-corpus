@@ -1,21 +1,21 @@
-REGIO DECRETO 30 agosto 1925 n. 1813
+---
+tipo: REGIO DECRETO
+numero: 1813
+data: 1925-08-30
+titolo: "Istituzione di un Regio consolato di 2ª categoria a Lobito (Angola). (025U1813)"
+urn: urn:nir:stato:regio.decreto:1925-08-30;1813
+codice_redazionale: 025U1813
+vigente: true
+---
 
-
-REGIO DECRETO 30 agosto 1925 n. 1813
-====================================
-
-Istituzione di un Regio consolato di 2ª categoria a Lobito (Angola). (025U1813)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/11/1925
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1813. R. decreto 30 agosto 1925, col quale, sulla proposta del Ministro per gli affari esteri, viene istituito un Regio consolato di 2ª categoria a Lobito (Angola) con giurisdizione sul territorio dell'Angola portoghese, che viene distaccata dalla giurisdizione del Regio consolato a Leopoldville, e sull'isola di S. Thome', mentre la Regia agenzia consolare a Loanda, dipendente dal Regio consolato a LourenÇo Marques passa dalla dipendenza di questo a quella del consolato a Lobito.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 29 ottobre 1925.
+1813.
+
+R. decreto 30 agosto 1925, col quale, sulla proposta del Ministro per gli affari esteri, viene istituito un Regio consolato di 2ª categoria a Lobito (Angola) con giurisdizione sul territorio dell'Angola portoghese, che viene distaccata dalla giurisdizione del Regio consolato a Leopoldville, e sull'isola di S. Thome', mentre la Regia agenzia consolare a Loanda, dipendente dal Regio consolato a LourenÇo Marques passa dalla dipendenza di questo a quella del consolato a Lobito. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 29 ottobre 1925.

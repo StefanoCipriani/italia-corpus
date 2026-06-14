@@ -1,16 +1,14 @@
-REGIO DECRETO 11 febbraio 1915 n. 213
-
-
-REGIO DECRETO 11 febbraio 1915 n. 213
-=====================================
-
-Col quale vengono soppressi gli Uffici speciali di coltivazione del tabacco con sede in Roma, Firenze, Potenza e Bologna. (015U0213)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/03/1915
+---
+tipo: REGIO DECRETO
+numero: 213
+data: 1915-02-11
+titolo: "Col quale vengono soppressi gli Uffici speciali di coltivazione del tabacco con sede in Roma, Firenze, Potenza e Bologna. (015U0213)"
+urn: urn:nir:stato:regio.decreto:1915-02-11;213
+codice_redazionale: 015U0213
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,23 +22,16 @@ Visto l'altro Nostro decreto n. 797 del 13 luglio 1914, che istitui' dieci Direz
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal giorno in cui incominceranno a funzionare le Direzioni compartimentali delle coltivazioni dei tabacchi istituite col Nostro decreto n. 797 del 13 luglio 1914, gli Uffici speciali di coltivazione del tabacco con sede in Roma, Firenze, Potenza e Bologna sono soppressi Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque, spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 febbraio 1915.   
-  
-VITTORIO EMANUELE.   
-  
-Salandra - Daneo.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+Dal giorno in cui incominceranno a funzionare le Direzioni compartimentali delle coltivazioni dei tabacchi istituite col Nostro decreto n. 797 del 13 luglio 1914, gli Uffici speciali di coltivazione del tabacco con sede in Roma, Firenze, Potenza e Bologna sono soppressi Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque, spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 febbraio 1915. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Salandra - Daneo. 
+ 
+ Visto, Il guardasigilli: Orlando.

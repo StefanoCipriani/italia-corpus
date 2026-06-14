@@ -1,16 +1,14 @@
-REGIO DECRETO 15 giugno 1870 n. 5709
-
-
-REGIO DECRETO 15 giugno 1870 n. 5709
-====================================
-
-Col quale e' costituita una nuova Sezione elettorale nel Collegio di Pontedecimo. (070U5709)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/07/1870
+---
+tipo: REGIO DECRETO
+numero: 5709
+data: 1870-06-15
+titolo: "Col quale e' costituita una nuova Sezione elettorale nel Collegio di Pontedecimo. (070U5709)"
+urn: urn:nir:stato:regio.decreto:1870-06-15;5709
+codice_redazionale: 070U5709
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Noverandosi nei comuni stessi piu' di 200 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli affari dell'interno, Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli affari dell'interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Ceranesi e Larvego costituiranno d'ora in poi una sezione elettorale, con sede nella borgata di Campomorone, territorio del comune di Larvego.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 15 giugno 1870.   
-  
-VITTORIO EMANUELE.   
-  
-G. Lanza.   
-  
+I comuni di Ceranesi e Larvego costituiranno d'ora in poi una sezione elettorale, con sede nella borgata di Campomorone, territorio del comune di Larvego. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 15 giugno 1870. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Lanza.

@@ -1,21 +1,21 @@
-REGIO DECRETO 16 agosto 1929 n. 1538
+---
+tipo: REGIO DECRETO
+numero: 1538
+data: 1929-08-16
+titolo: "Approvazione dello statuto dell'Opera pia «Casa del clero Caterina Fiori, Luigi ed Angiolo Falciai», in Arezzo. (029U1538)"
+urn: urn:nir:stato:regio.decreto:1929-08-16;1538
+codice_redazionale: 029U1538
+vigente: true
+---
 
-
-REGIO DECRETO 16 agosto 1929 n. 1538
-====================================
-
-Approvazione dello statuto dell'Opera pia «Casa del clero Caterina Fiori, Luigi ed Angiolo Falciai», in Arezzo. (029U1538)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/09/1929
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1538. R. decreto 16 agosto 1929, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato, con modifiche lo statuto organico dell'Opera pia «Casa del clero Caterina Flori, Luigi ed Angiolo Falciai», con sede nel comune di Arezzo.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 11 settembre 1929 - Anno VII
+1538.
+
+R. decreto 16 agosto 1929, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato, con modifiche lo statuto organico dell'Opera pia «Casa del clero Caterina Flori, Luigi ed Angiolo Falciai», con sede nel comune di Arezzo. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 11 settembre 1929 - Anno VII

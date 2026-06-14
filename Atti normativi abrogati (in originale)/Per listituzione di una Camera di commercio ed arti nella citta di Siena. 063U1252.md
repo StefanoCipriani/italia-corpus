@@ -1,16 +1,14 @@
-REGIO DECRETO 24 aprile 1863 n. 1252
-
-
-REGIO DECRETO 24 aprile 1863 n. 1252
-====================================
-
-Per l'istituzione di una Camera di commercio ed arti nella citta' di Siena. (063U1252)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/06/1863
+---
+tipo: REGIO DECRETO
+numero: 1252
+data: 1863-04-24
+titolo: "Per l'istituzione di una Camera di commercio ed arti nella citta' di Siena. (063U1252)"
+urn: urn:nir:stato:regio.decreto:1863-04-24;1252
+codice_redazionale: 063U1252
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,43 +20,28 @@ Vedute le deliberazioni del Consiglio Compartimentale di Grosseto e del Consigli
 
 Veduta la legge 6 luglio 1862, n.° 680;
 
-Sulla
------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' instituita una Camera di commercio ed arti nella citta' di Siena con giurisdizione nelle Provincie di Siena e di Grosseto.
 
-  
-  
-E' instituita una Camera di commercio ed arti nella citta' di Siena con giurisdizione nelle Provincie di Siena e di Grosseto.   
-  
+## Art. 2.
 
-Art. 2
-------
+I componenti la Camera di Siena saranno in numero di undici.
 
-  
-  
-I componenti la Camera di Siena saranno in numero di undici.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Le elezioni generali per la Camera di Siena non che per quella di Firenze sono fissate per la 2.ª domenica del prossimo venturo giugno.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 24 aprile 1863.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 15 maggio 1863   
-Reg.° 23 Atti del Governo a c. 96. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI.   
-  
-MANNA.   
-  
-  
+Le elezioni generali per la Camera di Siena non che per quella di Firenze sono fissate per la 2.ª domenica del prossimo venturo giugno. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 24 aprile 1863. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 15 maggio 1863 
+ Reg.° 23 Atti del Governo a c. 96. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI. 
+ 
+ MANNA.

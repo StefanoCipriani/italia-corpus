@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 05 dicembre 1915 n. 1807
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1807
+data: 1915-12-05
+titolo: "Applicazione di tassa di famiglia. (015U1807)"
+urn: urn:nir:stato:decreto.luogotenenziale:1915-12-05;1807
+codice_redazionale: 015U1807
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 05 dicembre 1915 n. 1807
-================================================
-
-Applicazione di tassa di famiglia. (015U1807)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 19/01/1916
-
-Art. 1
-------
-
-  
-N. 1807   
-  
-Decreto Luogotenenziale 5 dicembre 1915, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di San Vito al Tagliamento di applicare nel 1915-916 la tassa di famiglia col limite massimo di L. 500.   
-  
+N. 1807 
+ 
+ Decreto Luogotenenziale 5 dicembre 1915, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di San Vito al Tagliamento di applicare nel 1915-916 la tassa di famiglia col limite massimo di L. 500.

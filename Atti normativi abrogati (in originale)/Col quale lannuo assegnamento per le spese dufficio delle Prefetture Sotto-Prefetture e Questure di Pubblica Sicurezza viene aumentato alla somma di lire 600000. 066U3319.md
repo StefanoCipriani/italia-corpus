@@ -1,16 +1,14 @@
-REGIO DECRETO 03 novembre 1866 n. 3319
-
-
-REGIO DECRETO 03 novembre 1866 n. 3319
-======================================
-
-Col quale l'annuo assegnamento per le spese d'ufficio delle Prefetture, Sotto-Prefetture e Questure di Pubblica Sicurezza viene aumentato alla somma di lire 600,000. (066U3319)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/12/1866
+---
+tipo: REGIO DECRETO
+numero: 3319
+data: 1866-11-03
+titolo: "Col quale l'annuo assegnamento per le spese d'ufficio delle Prefetture, Sotto-Prefetture e Questure di Pubblica Sicurezza viene aumentato alla somma di lire 600,000. (066U3319)"
+urn: urn:nir:stato:regio.decreto:1866-11-03;3319
+codice_redazionale: 066U3319
+vigente: true
+---
 
 EUGENIO
--------
 
 PRINCIPE DI SAVOJA-CARIGNANO
 
@@ -38,29 +36,22 @@ Ritenuto il bisogno in genere di elevare il fondo delle spese d'ufficio per modo
 
 Rimandando a piu' maturo esperimento la riforma degli assegni in corso, in quanto sia necessaria;
 
-Sulla
------
+Sulla proposta del Ministro dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'annuo assegnamento complessivo di L. 542,900 stabilito col Reale Decreto 22 febbraio 1866, per soddisfare alle spese d'ufficio delle Prefetture, Sotto-Prefetture e Questure di Pubblica Sicurezza, viene aumentato alla somma di L. 600,000 dal 1867 in poi.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 3 novembre 1866.   
-  
-EUGENIO DI SAVOJA   
-  
-Registrato alla Corte dei conti addi' 15 novembre 1866   
-  
-Reg.° 38 Atti del Governo a c. 46. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Borgatti.   
-  
-Ricasoli.   
-  
+L'annuo assegnamento complessivo di L. 542,900 stabilito col Reale Decreto 22 febbraio 1866, per soddisfare alle spese d'ufficio delle Prefetture, Sotto-Prefetture e Questure di Pubblica Sicurezza, viene aumentato alla somma di L. 600,000 dal 1867 in poi. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 3 novembre 1866. 
+ 
+ EUGENIO DI SAVOJA 
+ 
+ Registrato alla Corte dei conti addi' 15 novembre 1866 
+ 
+ Reg.° 38 Atti del Governo a c. 46. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ Ricasoli.

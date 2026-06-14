@@ -1,16 +1,14 @@
-REGIO DECRETO 20 ottobre 1932 n. 1564
-
-
-REGIO DECRETO 20 ottobre 1932 n. 1564
-=====================================
-
-Autorizzazione al comune di Trescore Balneario ad applicare le imposte di consumo con le aliquote stabilite per la classe G. (032U1564)
----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/12/1932
+---
+tipo: REGIO DECRETO
+numero: 1564
+data: 1932-10-20
+titolo: "Autorizzazione al comune di Trescore Balneario ad applicare le imposte di consumo con le aliquote stabilite per la classe G. (032U1564)"
+urn: urn:nir:stato:regio.decreto:1932-10-20;1564
+codice_redazionale: 032U1564
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,25 +22,18 @@ Visto il decreto del Nostro Ministro per l'interno 9 settembre 1931, in base al 
 
 Visto il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Trescore Balneario e' autorizzato ad applicare le imposte di consumo con le aliquote stabilite per la classe G.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a San Rossore, addi' 20 ottobre 1932 - Anno X   
-  
-VITTORIO EMANUELE.   
-  
-  
-Mussolini - Jung.   
-  
-Visto, il Guardasigilli: De Francisci.   
-Registrato alla Corte dei conti, addi' 10 dicembre 1932 - Anno X Atti del Governo, registro 327, foglio 34. - Ferzi.   
-  
+Il comune di Trescore Balneario e' autorizzato ad applicare le imposte di consumo con le aliquote stabilite per la classe G. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a San Rossore, addi' 20 ottobre 1932 - Anno X 
+ 
+ VITTORIO EMANUELE. 
+ 
+ 
+ Mussolini - Jung. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ Registrato alla Corte dei conti, addi' 10 dicembre 1932 - Anno X  Atti del Governo, registro 327, foglio 34. - Ferzi.

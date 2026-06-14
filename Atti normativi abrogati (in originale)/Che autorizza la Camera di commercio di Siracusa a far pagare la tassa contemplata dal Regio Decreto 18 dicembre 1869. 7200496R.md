@@ -1,45 +1,51 @@
-REGIO DECRETO 25 novembre 1872 n. CCCCXCVI
+---
+tipo: REGIO DECRETO
+numero: CCCCXCVI
+data: 1872-11-25
+titolo: "Che autorizza la Camera di commercio di Siracusa a far pagare la tassa contemplata dal Regio Decreto 18 dicembre 1869. (7200496R)"
+urn: urn:nir:stato:regio.decreto:1872-11-25;496
+codice_redazionale: 7200496R
+vigente: true
+---
 
+VITTORIO EMANUELE II
 
-REGIO DECRETO 25 novembre 1872 n. CCCCXCVI
-==========================================
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
-Che autorizza la Camera di commercio di Siracusa a far pagare la tassa contemplata dal Regio Decreto 18 dicembre 1869. (7200496R)
----------------------------------------------------------------------------------------------------------------------------------
+RE D'ITALIA
 
-Entrata in vigore del provvedimento: 16/05/1873
+Veduto l'[articolo 31 della Legge 6 luglio 1862, numero 680](Legge%20per%20listituzione%20e%20lordinamento%20delle%20Camere%20di%20commercio.%20062U0680.md);
 
-Art. 1
-------
+Veduto il Nostro Decreto 18 dicembre 1869, numero MMCCCIII, col quale la Camera di commercio ed arti di Siracusa fu autorizzata ad imporre una tassa speciale sulle polizze di carico delle mercanzie che escono ed entrano per la via di mare nel territorio della Provincia di Siracusa;
 
-  
-  
-La Camera di commercio ed arti di Siracusa e' autorizzata a far pagare la tassa contemplata dal Regio Decreto 18 dicembre 1869, n. MMCCCIII, anche rispetto alle mercanzie che vengono imbarcate in un punto della costa provinciale, per essere sbarcate in un altro punto della costa medesima, purche' essa provveda affinche' la tassa medesima venga restituita agli speditori dopo l'effettuazione dello sbarco.   
+Veduta la deliberazione della Camera di commercio di Siracusa del 21 settembre 1872;
 
-Art. 2
-------
+Veduto il parere emesso dal Consiglio di Stato nell'adunanza 28 ottobre 1872;
 
-  
-  
-Le barche notoriamente destinate al traffico della costa provinciale potranno ottenere dalla Camera di commercio un certificato che le dispensera' dal pagamento della tassa.   
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-Art. 3
-------
+## Art. 1.
 
-  
-  
-Tanto nei casi contemplati dal presente Decreto, quanto in quelli contemplati dal Decreto 18 dicembre 1869, n. MMCCCIII, la tassa sara' solidalmente dovuta dallo speditore e dal destinatario della merce, e dal Capitano della nave destinata al trasporto di essa, e verra' riscossa coi privilegi delle imposte erariali, e le contravvenzioni saranno punite colle multe stabilite cogli articoli 64 e seguenti del Regolamento doganale 11 settembre 1862.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 25 novembre 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 9 gennaio 1873   
-  
-Vol. 66 Atti del Governo a c. 28. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-Castagnola.   
+La Camera di commercio ed arti di Siracusa e' autorizzata a far pagare la tassa contemplata dal Regio Decreto 18 dicembre 1869, n. MMCCCIII, anche rispetto alle mercanzie che vengono imbarcate in un punto della costa provinciale, per essere sbarcate in un altro punto della costa medesima, purche' essa provveda affinche' la tassa medesima venga restituita agli speditori dopo l'effettuazione dello sbarco.
+
+## Art. 2.
+
+Le barche notoriamente destinate al traffico della costa provinciale potranno ottenere dalla Camera di commercio un certificato che le dispensera' dal pagamento della tassa.
+
+## Art. 3.
+
+Tanto nei casi contemplati dal presente Decreto, quanto in quelli contemplati dal Decreto 18 dicembre 1869, n. MMCCCIII, la tassa sara' solidalmente dovuta dallo speditore e dal destinatario della merce, e dal Capitano della nave destinata al trasporto di essa, e verra' riscossa coi privilegi delle imposte erariali, e le contravvenzioni saranno punite colle multe stabilite cogli articoli 64 e seguenti del Regolamento doganale 11 settembre 1862. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 25 novembre 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 9 gennaio 1873 
+ 
+ Vol. 66 Atti del Governo a c. 28. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ Castagnola.

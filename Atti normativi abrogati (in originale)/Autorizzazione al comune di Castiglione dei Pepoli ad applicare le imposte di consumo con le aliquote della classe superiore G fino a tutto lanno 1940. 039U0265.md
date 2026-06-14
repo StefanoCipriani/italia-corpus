@@ -1,16 +1,14 @@
-REGIO DECRETO 02 febbraio 1939 n. 265
-
-
-REGIO DECRETO 02 febbraio 1939 n. 265
-=====================================
-
-Autorizzazione al comune di Castiglione dei Pepoli ad applicare le imposte di consumo con le aliquote della classe superiore G fino a tutto l'anno 1940. (039U0265)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/03/1939
+---
+tipo: REGIO DECRETO
+numero: 265
+data: 1939-02-02
+titolo: "Autorizzazione al comune di Castiglione dei Pepoli ad applicare le imposte di consumo con le aliquote della classe superiore G fino a tutto l'anno 1940. (039U0265)"
+urn: urn:nir:stato:regio.decreto:1939-02-02;265
+codice_redazionale: 039U0265
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,24 @@ Visti gli articoli 11 e 26 del testo unico per la finanza locale approvato con N
 
 Udita la Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il comune di Castiglione dei Pepoli e' autorizzato a continuare ad applicare le imposte di consumo in base alla tariffa della classe superiore G fino a tutto l'anno
 
-1940. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 febbraio 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Solmi   
-  
-Registrato alla Corte dei conti, addi' 22 febbraio 1939-XVII   
-  
-Atti del Governo, registro 406, foglio 83. - Mancini.
+1940.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 febbraio 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi 
+ 
+ Registrato alla Corte dei conti, addi' 22 febbraio 1939-XVII 
+ 
+ Atti del Governo, registro 406, foglio 83. - Mancini.

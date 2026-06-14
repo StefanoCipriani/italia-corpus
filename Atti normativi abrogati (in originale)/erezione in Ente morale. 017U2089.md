@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 13 dicembre 1917 n. 2089
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 2089
+data: 1917-12-13
+titolo: "erezione in Ente morale. (017U2089)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-12-13;2089
+codice_redazionale: 017U2089
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 13 dicembre 1917 n. 2089
-================================================
-
-erezione in Ente morale. (017U2089)
------------------------------------
-
-Entrata in vigore del provvedimento: 02/02/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2089. Decreto Luogotenenziale 13 dicembre 1917, col quale, sulla proposta del ministro dell'interno, l'Istituto della Sacra Famiglia in Roma e' eretto in ente morale e ne e' approvato lo statuto organico relativo.
+2089.
+
+Decreto Luogotenenziale 13 dicembre 1917, col quale, sulla proposta del ministro dell'interno, l'Istituto della Sacra Famiglia in Roma e' eretto in ente morale e ne e' approvato lo statuto organico relativo.

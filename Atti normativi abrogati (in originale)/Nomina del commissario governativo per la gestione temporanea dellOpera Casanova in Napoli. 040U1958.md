@@ -1,16 +1,14 @@
-REGIO DECRETO 06 novembre 1940 n. 1958
-
-
-REGIO DECRETO 06 novembre 1940 n. 1958
-======================================
-
-Nomina del commissario governativo per la gestione temporanea dell'«Opera Casanova» in Napoli. (040U1958)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/02/1941
+---
+tipo: REGIO DECRETO
+numero: 1958
+data: 1940-11-06
+titolo: "Nomina del commissario governativo per la gestione temporanea dell'«Opera Casanova» in Napoli. (040U1958)"
+urn: urn:nir:stato:regio.decreto:1940-11-06;1958
+codice_redazionale: 040U1958
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,36 +22,26 @@ Considerata la necessita' di procedere alla nomina di un commissario governativo
 
 Su proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale; Abbiamo decretato e decretiamo:
 
-Art. 1
-------
+## Art. 1.
 
-  
-  
-Il comm. dott. ing. Guido Ferretti e' nominato commissario governativo per la gestione temporanea dell'«Opera Casanova» in Napoli.   
-  
-  
+Il comm. dott. ing. Guido Ferretti e' nominato commissario governativo per la gestione temporanea dell'«Opera Casanova» in Napoli.
 
-Art. 2
-------
+## Art. 2.
 
-  
-  
-Il commissario governativo, che avra' tutti i poteri attribuiti dalla legislazione vigente ai Consigli di amministrazione, entro tre mesi dalla assunzione dell'ufficio sottoporra' al Ministro per l'educazione nazionale lo statuto dell'«Opera» da approvarsi con decreto Reale su proposta del Ministro stesso.   
-  
-Le funzioni di commissario governativo sono gratuite.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 6 novembre 1940-XIX   
-  
-VITTORIO EMANUELE   
-  
-BOTTAI   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti addi' 8 febbraio 1941-XIX   
-  
-Atti del Governo, registro 430, foglio 37. - MANCINI   
-  
-  
+Il commissario governativo, che avra' tutti i poteri attribuiti dalla legislazione vigente ai Consigli di amministrazione, entro tre mesi dalla assunzione dell'ufficio sottoporra' al Ministro per l'educazione nazionale lo statuto dell'«Opera» da approvarsi con decreto Reale su proposta del Ministro stesso. 
+ 
+ Le funzioni di commissario governativo sono gratuite. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 6 novembre 1940-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ BOTTAI 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti addi' 8 febbraio 1941-XIX 
+ 
+ Atti del Governo, registro 430, foglio 37. - MANCINI

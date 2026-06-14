@@ -1,21 +1,17 @@
-REGIO DECRETO 20 ottobre 1895 n. DCLXXVIII
+---
+tipo: REGIO DECRETO
+numero: DCLXXVIII
+data: 1895-10-20
+titolo: "Con cui il monte frumentario di Valle Castellana (Teramo), e' concentrato nella locale congregazione di carita'. (9500678R)"
+urn: urn:nir:stato:regio.decreto:1895-10-20;678
+codice_redazionale: 9500678R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 ottobre 1895 n. DCLXXVIII
-==========================================
-
-Con cui il monte frumentario di Valle Castellana (Teramo), e' concentrato nella locale congregazione di carita'. (9500678R)
----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/01/1896
-
-Art. 1
-------
-
-  
-Con cui il monte frumentario di Valle Castellana (Teramo), e' concentrato nella locale congregazione di carita'. - Firmato UMBERTO - contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei conti addi' 6 dicembre 1895.   
-  
-Reg. 202. Atti del Governo a f. 243.   
-  
+Con cui il monte frumentario di Valle Castellana (Teramo), e' concentrato nella locale congregazione di carita'. - Firmato UMBERTO - contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei conti addi' 6 dicembre 1895. 
+ 
+ Reg. 202. Atti del Governo a f. 243.

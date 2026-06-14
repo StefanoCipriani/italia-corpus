@@ -1,16 +1,14 @@
-REGIO DECRETO 21 febbraio 1869 n. 4956
-
-
-REGIO DECRETO 21 febbraio 1869 n. 4956
-======================================
-
-Che approva le Tavole di ragguaglio dei pesi antichi in uso nelle Provincie Venete e Mantovana col peso metrico decimale. (069U4956)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/04/1869
+---
+tipo: REGIO DECRETO
+numero: 4956
+data: 1869-02-21
+titolo: "Che approva le Tavole di ragguaglio dei pesi antichi in uso nelle Provincie Venete e Mantovana col peso metrico decimale. (069U4956)"
+urn: urn:nir:stato:regio.decreto:1869-02-21;4956
+codice_redazionale: 069U4956
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,37 +24,22 @@ Viste le tavole di ragguaglio fra i pesi locali della Venezia e di Mantova ed il
 
 Sulla proposizione del Ministro delle Finanze;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le qui annesse Tavole di ragguaglio dei pesi antichi in uso nelle Provincie della Venezia e di Mantova con quelli del sistema metrico decimale, firmate d'ordine Nostro dal Ministro delle Finanze, sono approvate e serviranno di base legale per la riscossione della tassa sulla macinazione, e per la decisione di ogni controversia in materia di pesi.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 21 febbraio 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 23 marzo 1869   
-  
-Reg. 46 Atti del Governo a c. 89. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-L. G. Cambray Digny.   
-  
-
-Quadro
-
-  
-QUADRO DI RAGGUAGLIO dei pesi locali veneti e mantovani col peso metrico decimale.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=069U495600100010110001&dgu=1869-03-30&art.dataPubblicazioneGazzetta=1869-03-30&art.codiceRedazionale=069U4956)
-  
+Le qui annesse Tavole di ragguaglio dei pesi antichi in uso nelle Provincie della Venezia e di Mantova con quelli del sistema metrico decimale, firmate d'ordine Nostro dal Ministro delle Finanze, sono approvate e serviranno di base legale per la riscossione della tassa sulla macinazione, e per la decisione di ogni controversia in materia di pesi. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 21 febbraio 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 23 marzo 1869 
+ 
+ Reg. 46 Atti del Governo a c. 89. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ L. G. Cambray Digny.

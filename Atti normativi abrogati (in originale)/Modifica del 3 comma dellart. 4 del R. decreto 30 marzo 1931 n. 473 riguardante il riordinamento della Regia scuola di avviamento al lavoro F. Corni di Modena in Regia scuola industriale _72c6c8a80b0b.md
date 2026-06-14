@@ -1,58 +1,48 @@
-REGIO DECRETO 02 dicembre 1931 n. 1834
-
-
-REGIO DECRETO 02 dicembre 1931 n. 1834
-======================================
-
-Modifica del 3° comma dell'art. 4 del R. decreto 30 marzo 1931, n. 473, riguardante il riordinamento della Regia scuola di avviamento al lavoro «F. Corni» di Modena in Regia scuola industriale di tirocinio. (031U1834)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/03/1932
+---
+tipo: REGIO DECRETO
+numero: 1834
+data: 1931-12-02
+titolo: "Modifica del 3° comma dell'art. 4 del R. decreto 30 marzo 1931, n. 473, riguardante il riordinamento della Regia scuola di avviamento al lavoro «F. Corni» di Modena in Regia scuola industriale di tirocinio. (031U1834)"
+urn: urn:nir:stato:regio.decreto:1931-12-02;1834
+codice_redazionale: 031U1834
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 7 maggio 1925, n. 862](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-05-07;862), che rettifica il [comma 4° dell'art. 3 del R. decreto 16 ottobre 1924, n. 2298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-16;2298~art3-com4), registrato alla [Corte dei conti il 2 febbraio 1925](https://e-justice.europa.eu/ecli/ECLI::::), col quale la Scuola popolare operaia di Modena venne riordinata come scuola di avviamento al lavoro con sezione femminile;
+Visto il [R. decreto 7 maggio 1925, n. 862](Modificazione%20allordinamento%20della%20Regia%20scuola%20operaia%20per%20arti%20e%20mestieri%20Fermo%20Corni%20in%20Modena.%20025U0862.md), che rettifica il [comma 4° dell'art. 3 del R. decreto 16 ottobre 1924, n. 2298](Riordinamento%20della%20Regia%20scuola%20popolare%20operaia%20in%20Modena.%20024U2298.md), registrato alla Corte dei conti il 2 febbraio 1925, col quale la Scuola popolare operaia di Modena venne riordinata come scuola di avviamento al lavoro con sezione femminile;
 
-Visto il [R. decreto 30 marzo 1931, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-03-30;473), riguardante il riordinamento della Regia scuola di avviamento al lavoro «F. Corni» di Modena in Regia scuola industriale di tirocinio;
+Visto il [R. decreto 30 marzo 1931, n. 473](Riordinamento%20in%20Regia%20scuola%20industriale%20di%20tirocinio%20della%20Regia%20scuola%20di%20avviamento%20al%20lavoro%20Fermo%20Corni%20di%20Modena.%20031U0473.md), riguardante il riordinamento della Regia scuola di avviamento al lavoro «F. Corni» di Modena in Regia scuola industriale di tirocinio;
 
 Su proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto col Ministro Segretario di Stato per le finanze e col Ministro Segretario di Stato per gli interni; Abbiamo decretato e decretiamo:
 
-Art. 1
-------
+## Art. 1.
 
-  
-  
-Il [3° comma dell'art. 4 del R. decreto 30 marzo 1931, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-03-30;473~art4-com3), riguardante il riordinamento della Regia scuola di avviamento al lavoro «F. Corni» di Modena in Regia scuola industriale di tirocinio, e' modificato nel modo seguente:   
-«La Fondazione «Fermo Corni» resta obbligata, in base alle deliberazioni prese all'atto della istituzione della Scuola, a fornire alla Scuola stessa i locali, mentre il comune di Modena resta obbligato da parte sua a provvedere alla loro manutenzione e alla fornitura dell'acqua, della illuminazione e del riscaldamento».   
+Il [3° comma dell'art. 4 del R. decreto 30 marzo 1931, n. 473](Riordinamento%20in%20Regia%20scuola%20industriale%20di%20tirocinio%20della%20Regia%20scuola%20di%20avviamento%20al%20lavoro%20Fermo%20Corni%20di%20Modena.%20031U0473.md), riguardante il riordinamento della Regia scuola di avviamento al lavoro «F. Corni» di Modena in Regia scuola industriale di tirocinio, e' modificato nel modo seguente: 
+ «La Fondazione «Fermo Corni» resta obbligata, in base alle deliberazioni prese all'atto della istituzione della Scuola, a fornire alla Scuola stessa i locali, mentre il comune di Modena resta obbligato da parte sua a provvedere alla loro manutenzione e alla fornitura dell'acqua, della illuminazione e del riscaldamento».
 
-Art. 2
-------
+## Art. 2.
 
-  
-  
-Nulla e' innovato alle disposizioni degli [articoli 2 n. 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175~art2-num6) e [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175~art2-num3) [n. 6 del R. decreto 14 settembre 1931, n. 1175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175~art2-num6) circa il trasferimento allo Stato dei contributi per le Regie scuole industriali di tirocinio.   
-  
+Nulla e' innovato alle disposizioni degli [articoli 2 n. 6](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md) e [3](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md) [n. 6 del R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md) circa il trasferimento allo Stato dei contributi per le Regie scuole industriali di tirocinio.
 
-Art. 3
-------
+## Art. 3.
 
-Il [R. decreto 30 marzo 1931, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-03-30;473), si applichera' dal 16 ottobre
+Il [R. decreto 30 marzo 1931, n. 473](Riordinamento%20in%20Regia%20scuola%20industriale%20di%20tirocinio%20della%20Regia%20scuola%20di%20avviamento%20al%20lavoro%20Fermo%20Corni%20di%20Modena.%20031U0473.md), si applichera' dal 16 ottobre
 
-1931. 
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Roma, addi' 2 dicembre 1931 - Anno X   
-  
-VITTORIO EMANUELE.   
-  
-  
-Mussolini - Giuliano - Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 8 marzo 1932 - Anno X   
-Atti del Governo, registro 318, foglio 31. - Mancini.
+1931.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 2 dicembre 1931 - Anno X 
+ 
+ VITTORIO EMANUELE. 
+ 
+ 
+ Mussolini - Giuliano - Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 8 marzo 1932 - Anno X 
+ Atti del Governo, registro 318, foglio 31. - Mancini.

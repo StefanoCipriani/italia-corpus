@@ -1,19 +1,15 @@
-REGIO DECRETO 08 febbraio 1912 n. 89
+---
+tipo: REGIO DECRETO
+numero: 89
+data: 1912-02-08
+titolo: "Erezione in Ente morale e relativa approvazione di statuto. (012U0089)"
+urn: urn:nir:stato:regio.decreto:1912-02-08;89
+codice_redazionale: 012U0089
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 febbraio 1912 n. 89
-====================================
-
-Erezione in Ente morale e relativa approvazione di statuto. (012U0089)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/03/1912
-
-Art. 1
-------
-
-  
-N. 89   
-  
-Regio Decreto 8 febbraio 1912, col quale, sulla proposta del ministro dell'interno, il giardino d'infanzia «Antonio Domenico Fiori» in Nulvi, e' eretto in ente morale e ne e' approvato lo statuto organico.   
-  
+N. 89 
+ 
+ Regio Decreto 8 febbraio 1912, col quale, sulla proposta del ministro dell'interno, il giardino d'infanzia «Antonio Domenico Fiori» in Nulvi, e' eretto in ente morale e ne e' approvato lo statuto organico.

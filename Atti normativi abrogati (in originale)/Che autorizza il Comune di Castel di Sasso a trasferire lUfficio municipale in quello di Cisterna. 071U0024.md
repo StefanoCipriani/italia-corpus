@@ -1,16 +1,14 @@
-REGIO DECRETO 13 gennaio 1871 n. 24
-
-
-REGIO DECRETO 13 gennaio 1871 n. 24
-===================================
-
-Che autorizza il Comune di Castel di Sasso a trasferire l'Ufficio municipale in quello di Cisterna. (071U0024)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/02/1871
+---
+tipo: REGIO DECRETO
+numero: 24
+data: 1871-01-13
+titolo: "Che autorizza il Comune di Castel di Sasso a trasferire l'Ufficio municipale in quello di Cisterna. (071U0024)"
+urn: urn:nir:stato:regio.decreto:1871-01-13;24
+codice_redazionale: 071U0024
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,31 +18,24 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segret
 
 Veduta la deliberazione del Consiglio comunale di Castel di Sasso (Caserta), in data del 16 marzo 1870, colla quale fu stabilito di trasferire la sede comunale dal villaggio di Strangolagallo in quello di Cisterna;
 
-Veduta
-------
+Veduta la deliberazione del Consiglio provinciale di Terra di Lavoro, in data del 9 novembre 1870, colla quale detta Rappresentanza espresse avviso favorevole sul deliberato trasferimento; Abbiamo decretato e decretiamo:
 
-la deliberazione del Consiglio provinciale di Terra di Lavoro, in data del 9 novembre 1870, colla quale detta Rappresentanza espresse avviso favorevole sul deliberato trasferimento; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Castel di Sasso (Caserta) e' autorizzato a trasferire la residenza dell'Ufficio municipale dal villaggio di Strangolagallo in quello di Cisterna.   
-  
-Il Nostro Ministro proponente e' incaricato dell'esecuzione del presente Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 13 gennaio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 28 gennaio 1871   
-  
-Reg. 54 Atti del Governo a c. 91. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Lanza.   
-  
+Il Comune di Castel di Sasso (Caserta) e' autorizzato a trasferire la residenza dell'Ufficio municipale dal villaggio di Strangolagallo in quello di Cisterna. 
+ 
+ Il Nostro Ministro proponente e' incaricato dell'esecuzione del presente Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 13 gennaio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 28 gennaio 1871 
+ 
+ Reg. 54 Atti del Governo a c. 91. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Lanza.

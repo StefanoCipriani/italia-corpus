@@ -1,16 +1,14 @@
-REGIO DECRETO 14 ottobre 1940 n. 1653
-
-
-REGIO DECRETO 14 ottobre 1940 n. 1653
-=====================================
-
-Varianti alla tabella organica del personale subalterno dell'Amministrazione aeronautica. (040U1653)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/12/1940
+---
+tipo: REGIO DECRETO
+numero: 1653
+data: 1940-10-14
+titolo: "Varianti alla tabella organica del personale subalterno dell'Amministrazione aeronautica. (040U1653)"
+urn: urn:nir:stato:regio.decreto:1940-10-14;1653
+codice_redazionale: 040U1653
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -40,98 +38,32 @@ Udito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La tabella A allegata al R. decreto 13 luglio 1939-XVII, n. 1234, e' sostituita dalla tabella A allegata al presente decreto, vista d'ordine Nostro, dal Ministro proponente e da quello delle finanze.
 
-  
-  
-La tabella A allegata al R. decreto 13 luglio 1939-XVII, n. 1234, e' sostituita dalla tabella A allegata al presente decreto, vista d'ordine Nostro, dal Ministro proponente e da quello delle finanze. 
+## Art. 2.
 
-Art. 2
-------
+Il personale che per effetto del presente decreto venga, a trovarsi in soprannumero nel grado di usciere nel ruolo del personale subalterno dell'Amministrazione aeronautica sara' riassorbito in ragione di un posto per ogni tre vacanze che si verificheranno nel grado stesso.
 
-  
-  
-Il personale che per effetto del presente decreto venga, a trovarsi in soprannumero nel grado di usciere nel ruolo del personale subalterno dell'Amministrazione aeronautica sara' riassorbito in ragione di un posto per ogni tre vacanze che si verificheranno nel grado stesso.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Nella prima attuazione del presente decreto non piu' di due terzi dei posti di agente tecnico che risultino vacanti alla data di entrata in vigore del decreto stesso, potranno essere conferiti in base a pubblico concorso da bandirsi osservando le norme per l'ammissione in carriera del personale subalterno, contenute nel regolamento per gli impiegati civili e per il personale subalterno di ruolo dell'Amministrazione aeronautica approvato con R. decreto 29 aprile 1935-XIII, n. 875. Le modalita' relative saranno stabilite nel bando di concorso.   
-  
-Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 14 ottobre 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 9 dicembre 1940-XIX   
-  
-Atti del Governo, registro 428, foglio 26. - MANCINI   
-
-Tabella A
-
- TABELLA A.   
-  
-Personale subalterno.   
-  
-Capo agente tecnico   
-  
-1   
-  
-Agenti tecnici   
-  
-13   
-  
-Commesso capo   
-  
-1   
-  
-Primi commessi   
-  
-2   
-  
-Uscieri capi   
-  
-29   
-  
-Uscieri   
-  
-28   
-  
-Inservienti   
-  
-12   
-  
-  
-  
-Totale 86   
-  
-  
-  
-Visto, d'ordine di Sua Maesta' il RE d'Italia e di Albania   
-  
-Imperatore d'Etiopia   
-  
-Il DUCE del Fascismo, Capo del Governo   
-  
-Ministro per l'aeronautica   
-  
-MUSSOLINI   
-  
-Il Ministro per le finanze   
-  
-DI REVEL   
+Nella prima attuazione del presente decreto non piu' di due terzi dei posti di agente tecnico che risultino vacanti alla data di entrata in vigore del decreto stesso, potranno essere conferiti in base a pubblico concorso da bandirsi osservando le norme per l'ammissione in carriera del personale subalterno, contenute nel regolamento per gli impiegati civili e per il personale subalterno di ruolo dell'Amministrazione aeronautica approvato con R. decreto 29 aprile 1935-XIII, n. 875. Le modalita' relative saranno stabilite nel bando di concorso. 
+ 
+ Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 14 ottobre 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 9 dicembre 1940-XIX 
+ 
+ Atti del Governo, registro 428, foglio 26. - MANCINI

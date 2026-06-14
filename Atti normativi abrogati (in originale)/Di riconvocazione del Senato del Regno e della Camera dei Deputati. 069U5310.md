@@ -1,16 +1,14 @@
-REGIO DECRETO 31 ottobre 1869 n. 5310
-
-
-REGIO DECRETO 31 ottobre 1869 n. 5310
-=====================================
-
-Di riconvocazione del Senato del Regno e della Camera dei Deputati. (069U5310)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/11/1869
+---
+tipo: REGIO DECRETO
+numero: 5310
+data: 1869-10-31
+titolo: "Di riconvocazione del Senato del Regno e della Camera dei Deputati. (069U5310)"
+urn: urn:nir:stato:regio.decreto:1869-10-31;5310
+codice_redazionale: 069U5310
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,30 +20,22 @@ Veduto il precedente Nostro Decreto 14 agosto 1869, n. 5224, con cui la Sessione
 
 Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno;
 
-Udito
------
+Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Senato del Regno e la Camera dei Deputati sono riconvocati pel giorno 18 novembre p. v.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 31 ottobre 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 2 novembre 1869   
-  
-Reg. 49 Atti del Governo a c. 14. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Vigliani.   
-  
-Rudini'.   
-  
-  
+Il Senato del Regno e la Camera dei Deputati sono riconvocati pel giorno 18 novembre p. v. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 31 ottobre 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 2 novembre 1869 
+ 
+ Reg. 49 Atti del Governo a c. 14. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Vigliani. 
+ 
+ Rudini'.

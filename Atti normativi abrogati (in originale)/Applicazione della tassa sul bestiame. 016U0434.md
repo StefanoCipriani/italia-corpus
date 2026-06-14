@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 02 aprile 1916 n. 434
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 434
+data: 1916-04-02
+titolo: "Applicazione della tassa sul bestiame. (016U0434)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-04-02;434
+codice_redazionale: 016U0434
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 02 aprile 1916 n. 434
-=============================================
-
-Applicazione della tassa sul bestiame. (016U0434)
--------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/05/1916
-
-Art. 1
-------
-
-  
-N. 434   
-  
-Decreto Luogotenenziale 2 aprile 1916, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Cento (Ferrara) di applicare pel 1915 la tassa bestiame in base alla tariffa eccedente il limite massimo normale.   
-  
+N. 434 
+ 
+ Decreto Luogotenenziale 2 aprile 1916, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Cento (Ferrara) di applicare pel 1915 la tassa bestiame in base alla tariffa eccedente il limite massimo normale.

@@ -1,16 +1,14 @@
-REGIO DECRETO 06 aprile 1879 n. 4836
-
-
-REGIO DECRETO 06 aprile 1879 n. 4836
-====================================
-
-Che accorda al consorzio irriguo di Venezia (Alessandria) il privilegio di riscuotere le quote dei soci coi mezzi del fisco. (079U4836)
----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/05/1879
+---
+tipo: REGIO DECRETO
+numero: 4836
+data: 1879-04-06
+titolo: "Che accorda al consorzio irriguo di Venezia (Alessandria) il privilegio di riscuotere le quote dei soci coi mezzi del fisco. (079U4836)"
+urn: urn:nir:stato:regio.decreto:1879-04-06;4836
+codice_redazionale: 079U4836
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,23 +20,16 @@ Visto l'atto di costituzione del Consorzio, rogato in Valenza dal notaio Ernesto
 
 Vista la deliberazione dell'assemblea generale dei soci del di' 16 marzo 1879, con cui vengono accettate le modificazioni suggerite con nota del Nostro Ministro di Agricoltura, Industria e Commercio del di' 12 ottobre 1878, n. 16011;
 
-Vista la [legge 29 maggio 1873, n. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (Serie 2ª);
+Vista la [legge 29 maggio 1873, n. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md) (Serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 aprile 1879.   
-  
-UMBERTO.   
-  
-Maiorana-Calatabiano.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 aprile 1879. 
+ 
+ UMBERTO. 
+ 
+ Maiorana-Calatabiano.

@@ -1,16 +1,14 @@
-REGIO DECRETO 27 ottobre 1911 n. 1352
-
-
-REGIO DECRETO 27 ottobre 1911 n. 1352
-=====================================
-
-Col quale viene approvato l'atto addizionale stipulalo fra il ministero dei lavori pubblici e la Societa' delle tramvie vicentine, che fissa la data in cui comincera' a decorrere la sovvenzione chilometrica per il tronco Bassano-Vicenza della tramvia Bassano-Vicenza-Montagnana. (011U1352)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/01/1912
+---
+tipo: REGIO DECRETO
+numero: 1352
+data: 1911-10-27
+titolo: "Col quale viene approvato l'atto addizionale stipulalo fra il ministero dei lavori pubblici e la Societa' delle tramvie vicentine, che fissa la data in cui comincera' a decorrere la sovvenzione chilometrica per il tronco Bassano-Vicenza della tramvia Bassano-Vicenza-Montagnana. (011U1352)"
+urn: urn:nir:stato:regio.decreto:1911-10-27;1352
+codice_redazionale: 011U1352
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,24 +26,18 @@ Sentiti il Consiglio superiore dei lavori pubblici e il Consiglio di Stato;
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
-
-  
-  
-E' approvato e reso esecutorio l'atto addizionalo stipulato il 30 settembre 1911 fra il sottosegretario di Stato per i lavori pubblici, per conto dell'amministrazione dello Stato, e il legale rappresentante della societa' tramvie vicentine, col quale, a modificazione dell'art. 5 della succitata convenzione 22 gennaio 1910, viene stabilito che, per il tronco Bassano-Vicenza-Montagnana, la sovvenzione annua chilometrica di L. 1500 cominciera' a decorrere dal giorno dell'apertura all'esercizio del tronco stesso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 27 ottobre 1911.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti - Sacchi.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
+E' approvato e reso esecutorio l'atto addizionalo stipulato il 30 settembre 1911 fra il sottosegretario di Stato per i lavori pubblici, per conto dell'amministrazione dello Stato, e il legale rappresentante della societa' tramvie vicentine, col quale, a modificazione dell'art. 5 della succitata convenzione 22 gennaio 1910, viene stabilito che, per il tronco Bassano-Vicenza-Montagnana, la sovvenzione annua chilometrica di L. 1500 cominciera' a decorrere dal giorno dell'apertura all'esercizio del tronco stesso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 27 ottobre 1911. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti - Sacchi. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

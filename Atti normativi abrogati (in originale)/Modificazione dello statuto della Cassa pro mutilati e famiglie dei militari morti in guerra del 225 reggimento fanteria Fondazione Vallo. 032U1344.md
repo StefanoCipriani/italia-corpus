@@ -1,20 +1,20 @@
-REGIO DECRETO 22 settembre 1932 n. 1344
+---
+tipo: REGIO DECRETO
+numero: 1344
+data: 1932-09-22
+titolo: "Modificazione dello statuto della «Cassa pro mutilati e famiglie dei militari morti in guerra del 225° reggimento fanteria (Fondazione Vallo)». (032U1344)"
+urn: urn:nir:stato:regio.decreto:1932-09-22;1344
+codice_redazionale: 032U1344
+vigente: true
+---
 
-
-REGIO DECRETO 22 settembre 1932 n. 1344
-=======================================
-
-Modificazione dello statuto della «Cassa pro mutilati e famiglie dei militari morti in guerra del 225° reggimento fanteria (Fondazione Vallo)». (032U1344)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/11/1932
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1344. R. decreto 22 settembre 1932, col quale, su proposta del Ministro per la guerra, viene modificato lo statuto della «Cassa pro mutilati e famiglie dei militari morti in guerra del 225° reggimento fanteria (Fondazione Vallo)».   
-  
-Visto, il Guardasigilli: De Francisci.   
-Registrato alla Corte dei conti, addi' 18 ottobre 1932 - Anno X
+1344.
+
+R. decreto 22 settembre 1932, col quale, su proposta del Ministro per la guerra, viene modificato lo statuto della «Cassa pro mutilati e famiglie dei militari morti in guerra del 225° reggimento fanteria (Fondazione Vallo)». 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ Registrato alla Corte dei conti, addi' 18 ottobre 1932 - Anno X

@@ -1,16 +1,14 @@
-REGIO DECRETO 08 ottobre 1865 n. 2556
-
-
-REGIO DECRETO 08 ottobre 1865 n. 2556
-=====================================
-
-Con cui il Comune di Roccalbegna viene eretta in Sezione elettorale separata. (065U2556)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1865
+---
+tipo: REGIO DECRETO
+numero: 2556
+data: 1865-10-08
+titolo: "Con cui il Comune di Roccalbegna viene eretta in Sezione elettorale separata. (065U2556)"
+urn: urn:nir:stato:regio.decreto:1865-10-08;2556
+codice_redazionale: 065U2556
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,30 +24,22 @@ Noverandosi nel Comune di Roccalbegna piu' di quaranta Elettori e piu' di altret
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Roccalbegna, che sino ad ora fece parte della Sezione detta di Arcidosso del Collegio elettorale di Scansano, n.° 204, costituira' d'ora in poi una Sezione separata del Collegio medesimo.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 8 ottobre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 19 ottobre 1863   
-  
-Reg.° 33 Atti del Governo a c. 236. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese   
-  
-Natoli.   
-  
-  
+Il Comune di Roccalbegna, che sino ad ora fece parte della Sezione detta di Arcidosso del Collegio elettorale di Scansano, n.° 204, costituira' d'ora in poi una Sezione separata del Collegio medesimo. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 8 ottobre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 19 ottobre 1863 
+ 
+ Reg.° 33 Atti del Governo a c. 236. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese 
+ 
+ Natoli.

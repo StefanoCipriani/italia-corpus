@@ -1,22 +1,18 @@
-REGIO DECRETO 12 maggio 1901 n. CXLIV
+---
+tipo: REGIO DECRETO
+numero: CXLIV
+data: 1901-05-12
+titolo: "Che applica la tassa di famiglia nel comune di Castelbolognese. (0100144R)"
+urn: urn:nir:stato:regio.decreto:1901-05-12;144
+codice_redazionale: 0100144R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 maggio 1901 n. CXLIV
-=====================================
-
-Che applica la tassa di famiglia nel comune di Castelbolognese. (0100144R)
---------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/06/1901
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di Castelbolognese di applicare nell'anno 1901 la tassa di famiglia col limite massimo di lire 200 (duecento). - Firmato VITTORIO EMANUELE - Controfirmato L.  
-Wollemborg - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 24 maggio 1901.   
-  
-Reg. 229. Atti del Governo a f. 33.   
-  
+Col quale e' data facolta' al comune di Castelbolognese di applicare nell'anno 1901 la tassa di famiglia col limite massimo di lire 200 (duecento). - Firmato VITTORIO EMANUELE - Controfirmato L.
+Wollemborg - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 24 maggio 1901. 
+ 
+ Reg. 229. Atti del Governo a f. 33.

@@ -1,19 +1,15 @@
-REGIO DECRETO 27 agosto 1905 n. CCLXV
+---
+tipo: REGIO DECRETO
+numero: CCLXV
+data: 1905-08-27
+titolo: "Applicazione di tassa sul bestiame. (0500265R)"
+urn: urn:nir:stato:regio.decreto:1905-08-27;265
+codice_redazionale: 0500265R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 agosto 1905 n. CCLXV
-=====================================
-
-Applicazione di tassa sul bestiame. (0500265R)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 13/10/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CCLXV (Dato a Caserta, il 27 agosto 1905), col quale e' data facolta' al comune di Acqualagna di applicare, nell'anno 1905, la tassa sul bestiame in base alla tariffa di L. 8.50 (otto e centesimi cinquanta) per la specie bovini.   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CCLXV (Dato a Caserta, il 27 agosto 1905), col quale e' data facolta' al comune di Acqualagna di applicare, nell'anno 1905, la tassa sul bestiame in base alla tariffa di L. 8.50 (otto e centesimi cinquanta) per la specie bovini.

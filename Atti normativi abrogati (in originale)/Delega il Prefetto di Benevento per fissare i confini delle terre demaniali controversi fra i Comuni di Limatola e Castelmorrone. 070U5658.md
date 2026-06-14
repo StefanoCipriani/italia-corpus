@@ -1,16 +1,14 @@
-REGIO DECRETO 01 maggio 1870 n. 5658
-
-
-REGIO DECRETO 01 maggio 1870 n. 5658
-====================================
-
-Delega il Prefetto di Benevento per fissare i confini delle terre demaniali controversi fra i Comuni di Limatola e Castelmorrone. (070U5658)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/06/1870
+---
+tipo: REGIO DECRETO
+numero: 5658
+data: 1870-05-01
+titolo: "Delega il Prefetto di Benevento per fissare i confini delle terre demaniali controversi fra i Comuni di Limatola e Castelmorrone. (070U5658)"
+urn: urn:nir:stato:regio.decreto:1870-05-01;5658
+codice_redazionale: 070U5658
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Considerando esser necessario che siano fissati i confini delle terre demaniali 
 
 Considerando aver manifestato l'anzidetto caso il Prefetto della Provincia di Benevento;
 
-Sulla
------
+Sulla proposizione del Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposizione del Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Prefetto della Provincia di Benevento e' delegato per la fissazione dei confini delle terre demaniali controversi fra i Comuni di Limatola nella stessa Provincia di Benevento, e Castelmorrone nell'altra Provincia di Terra di Lavoro.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 1° maggio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 20 maggio 1870   
-  
-Reg. 51 Atti del Governo a c. 70. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-Castagnola.   
-  
+Il Prefetto della Provincia di Benevento e' delegato per la fissazione dei confini delle terre demaniali controversi fra i Comuni di Limatola nella stessa Provincia di Benevento, e Castelmorrone nell'altra Provincia di Terra di Lavoro. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 1° maggio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 20 maggio 1870 
+ 
+ Reg. 51 Atti del Governo a c. 70. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ Castagnola.

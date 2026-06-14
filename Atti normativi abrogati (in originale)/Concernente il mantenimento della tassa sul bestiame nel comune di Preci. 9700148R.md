@@ -1,22 +1,18 @@
-REGIO DECRETO 20 maggio 1897 n. CXLVIII
+---
+tipo: REGIO DECRETO
+numero: CXLVIII
+data: 1897-05-20
+titolo: "Concernente il mantenimento della tassa sul bestiame nel comune di Preci. (9700148R)"
+urn: urn:nir:stato:regio.decreto:1897-05-20;148
+codice_redazionale: 9700148R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 maggio 1897 n. CXLVIII
-=======================================
-
-Concernente il mantenimento della tassa sul bestiame nel comune di Preci. (9700148R)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/06/1897
-
-Art. 1
-------
-
-  
-Che da' facolta' al comune di Preci di mantenere nel corrente anno la tassa sul bestiame colla tariffa di lire due (L. 2) a capo quanto alle capre. - Firmato UMBERTO - Controfirmato Branca - Visto G.  
-Costa.   
-  
-Registrato alla Corte dei conti addi' 29 maggio 1897.   
-  
-Reg. 211. Atti del Governo a f. 1.   
-  
+Che da' facolta' al comune di Preci di mantenere nel corrente anno la tassa sul bestiame colla tariffa di lire due (L. 2) a capo quanto alle capre. - Firmato UMBERTO - Controfirmato Branca - Visto G.
+Costa. 
+ 
+ Registrato alla Corte dei conti addi' 29 maggio 1897. 
+ 
+ Reg. 211. Atti del Governo a f. 1.

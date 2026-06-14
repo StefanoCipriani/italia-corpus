@@ -1,19 +1,15 @@
-REGIO DECRETO 18 agosto 1911 n. 979
+---
+tipo: REGIO DECRETO
+numero: 979
+data: 1911-08-18
+titolo: "Erezione in Ente morale e relativa approvazione di statuto. (011U0979)"
+urn: urn:nir:stato:regio.decreto:1911-08-18;979
+codice_redazionale: 011U0979
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 agosto 1911 n. 979
-===================================
-
-Erezione in Ente morale e relativa approvazione di statuto. (011U0979)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/10/1911
-
-Art. 1
-------
-
-  
-N. 979   
-  
-Col quale, su proposta del ministro dell'interno, l'opera pia «Antonio Salomone» in Borgetto e' eretta in ente morale e ne e' approvato lo statuto organico.   
-  
+N. 979 
+ 
+ Col quale, su proposta del ministro dell'interno, l'opera pia «Antonio Salomone» in Borgetto e' eretta in ente morale e ne e' approvato lo statuto organico.

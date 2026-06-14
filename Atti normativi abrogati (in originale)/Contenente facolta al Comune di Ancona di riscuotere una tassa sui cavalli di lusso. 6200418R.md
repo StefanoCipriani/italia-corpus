@@ -1,19 +1,15 @@
-REGIO DECRETO 25 maggio 1862 n. CCCCXVIII
+---
+tipo: REGIO DECRETO
+numero: CCCCXVIII
+data: 1862-05-25
+titolo: "Contenente facolta' al Comune di Ancona di riscuotere una tassa sui cavalli di lusso. (6200418R)"
+urn: urn:nir:stato:regio.decreto:1862-05-25;418
+codice_redazionale: 6200418R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 maggio 1862 n. CCCCXVIII
-=========================================
-
-Contenente facolta' al Comune di Ancona di riscuotere una tassa sui cavalli di lusso. (6200418R)
-------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/05/1862
-
-Art. 1
-------
-
-  
-Che autorizza il Comune di Ancona a riscuotere una tassa sui cavalli di lusso.   
-  
-Torino 25 maggio 1862   
-  
+Che autorizza il Comune di Ancona a riscuotere una tassa sui cavalli di lusso. 
+ 
+ Torino 25 maggio 1862

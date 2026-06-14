@@ -1,18 +1,15 @@
-REGIO DECRETO 30 maggio 1912 n. 576
+---
+tipo: REGIO DECRETO
+numero: 576
+data: 1912-05-30
+titolo: "Applicazione di tassa di famiglia. (012U0576)"
+urn: urn:nir:stato:regio.decreto:1912-05-30;576
+codice_redazionale: 012U0576
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 maggio 1912 n. 576
-===================================
-
-Applicazione di tassa di famiglia. (012U0576)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 05/07/1912
-
-Art. 1
-------
-
-  
-N. 576   
-  
-Regio Decreto 30 maggio 1912, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Castelplanio di applicare nel 1912 la tassa di famiglia in base alla tariffa deliberata nelle adunanze consiliari del 5 e 27 novembre 1911.   
+N. 576 
+ 
+ Regio Decreto 30 maggio 1912, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Castelplanio di applicare nel 1912 la tassa di famiglia in base alla tariffa deliberata nelle adunanze consiliari del 5 e 27 novembre 1911.

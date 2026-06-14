@@ -1,19 +1,15 @@
-REGIO DECRETO 02 gennaio 1913 n. 8
+---
+tipo: REGIO DECRETO
+numero: 8
+data: 1913-01-02
+titolo: "Erezione in ente morale e approvazione di statuto. (013U0008)"
+urn: urn:nir:stato:regio.decreto:1913-01-02;8
+codice_redazionale: 013U0008
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 gennaio 1913 n. 8
-==================================
-
-Erezione in ente morale e approvazione di statuto. (013U0008)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/02/1913
-
-Art. 1
-------
-
-  
-N. 8   
-  
-Regio Decreto 2 gennaio 1913, col quale, sulla proposta del ministro dell'interno, l'Opera Pia per le cure balneari e climatiche in Sesto San Giovanni e' eretta in ente morale con amministrazione propria, e ne e' approvato lo statuto organico.   
-  
+N. 8 
+ 
+ Regio Decreto 2 gennaio 1913, col quale, sulla proposta del ministro dell'interno, l'Opera Pia per le cure balneari e climatiche in Sesto San Giovanni e' eretta in ente morale con amministrazione propria, e ne e' approvato lo statuto organico.

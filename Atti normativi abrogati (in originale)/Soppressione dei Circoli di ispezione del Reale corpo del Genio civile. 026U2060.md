@@ -1,16 +1,14 @@
-REGIO DECRETO 16 settembre 1926 n. 2060
-
-
-REGIO DECRETO 16 settembre 1926 n. 2060
-=======================================
-
-Soppressione dei Circoli di ispezione del Reale corpo del Genio civile. (026U2060)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/12/1926
+---
+tipo: REGIO DECRETO
+numero: 2060
+data: 1926-09-16
+titolo: "Soppressione dei Circoli di ispezione del Reale corpo del Genio civile. (026U2060)"
+urn: urn:nir:stato:regio.decreto:1926-09-16;2060
+codice_redazionale: 026U2060
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,7 +22,7 @@ Visto il Nostro decreto 7 luglio 1925, n. 1173, col quale furono creati i Provve
 
 Visto il Nostro decreto 7 febbraio 1926, n. 192, col quale fu istituito l'Ispettorato per la Maremma Toscana e furono limitate parzialmente le funzioni del Circolo d'ispezione di Firenze;
 
-Vista la [legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100);
+Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Ritenuta l'opportunita' di abolire i Circoli d'ispezione del Genio civile;
 
@@ -32,33 +30,26 @@ Sentito il Consiglio di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto col Capo del Governo e col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto col Capo del Governo e col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono soppressi i Circoli d'ispezione del Genio civile di Torino, Milano, Venezia, Bologna, Firenze e Roma.   
-  
-Gl'ispettori superiori del Genio civile prestano la loro opera normalmente presso il Consiglio superiore dei lavori pubblici.   
-  
-Con decreto Reale saranno stabiliti la data in cui andra' in vigore il presente decreto ed il modo col quale saranno espletate le funzioni oggi deferite agli ispettori superiori del Genio civile preposti alla direzione dei Circoli soppressi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 16 settembre 1926.   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Giuriati - Volpi.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 13 dicembre 1926.   
-  
-Atti del Governo, registro 255, foglio 61. - Coop   
-  
+Sono soppressi i Circoli d'ispezione del Genio civile di Torino, Milano, Venezia, Bologna, Firenze e Roma. 
+ 
+ Gl'ispettori superiori del Genio civile prestano la loro opera normalmente presso il Consiglio superiore dei lavori pubblici. 
+ 
+ Con decreto Reale saranno stabiliti la data in cui andra' in vigore il presente decreto ed il modo col quale saranno espletate le funzioni oggi deferite agli ispettori superiori del Genio civile preposti alla direzione dei Circoli soppressi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 16 settembre 1926. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Giuriati - Volpi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 13 dicembre 1926. 
+ 
+ Atti del Governo, registro 255, foglio 61. - Coop

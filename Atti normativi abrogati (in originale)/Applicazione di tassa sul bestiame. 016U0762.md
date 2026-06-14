@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 28 maggio 1916 n. 762
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 762
+data: 1916-05-28
+titolo: "Applicazione di tassa sul bestiame. (016U0762)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-05-28;762
+codice_redazionale: 016U0762
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 28 maggio 1916 n. 762
-=============================================
-
-Applicazione di tassa sul bestiame. (016U0762)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 13/07/1916
-
-Art. 1
-------
-
-  
-N. 762   
-  
-Decreto Luogotenenziale 28 maggio 1916, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Suvereto (Pisa) di applicare nel 1915 la tassa bestiame, con eccedenza dei massimi limiti normali secondo la tariffa deliberata nell'adunanza consiliare 5 gennaio 1915.   
-  
+N. 762 
+ 
+ Decreto Luogotenenziale 28 maggio 1916, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Suvereto (Pisa) di applicare nel 1915 la tassa bestiame, con eccedenza dei massimi limiti normali secondo la tariffa deliberata nell'adunanza consiliare 5 gennaio 1915.

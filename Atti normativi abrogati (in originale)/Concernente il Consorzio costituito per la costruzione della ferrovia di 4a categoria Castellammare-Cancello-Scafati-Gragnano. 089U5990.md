@@ -1,16 +1,14 @@
-REGIO DECRETO 03 marzo 1889 n. 5990
-
-
-REGIO DECRETO 03 marzo 1889 n. 5990
-===================================
-
-Concernente il Consorzio costituito per la costruzione della ferrovia di 4a categoria Castellammare-Cancello-Scafati-Gragnano. (089U5990)
------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/04/1889
+---
+tipo: REGIO DECRETO
+numero: 5990
+data: 1889-03-03
+titolo: "Concernente il Consorzio costituito per la costruzione della ferrovia di 4a categoria Castellammare-Cancello-Scafati-Gragnano. (089U5990)"
+urn: urn:nir:stato:regio.decreto:1889-03-03;5990
+codice_redazionale: 089U5990
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -40,26 +38,19 @@ Avuto il parere del Consiglio di Stato a sezioni riunite;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal Consorzio costituito coi Nostri decreti 30 luglio 1882 N. 391 (Serie 3a) e 21 gennaio 1883 N. 1205 (Serie 3a) per la costruzione della ferrovia di quarta categoria Castellammare-Cancello-Scafati-Gragnano e sua diramazione da Pagani a Torre Annunziata, sono esclusi la provincia di Salerno ed i comuni di Angri, Nocera Superiore, Nocera Inferiore, Pagani, S. Marzano, S.  
-Valentino, Sarno e Scafati.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 marzo 1889.   
-  
-UMBERTO.   
-  
-SARACCO.   
-  
-Visto, Il Guardasigilli: ZANARDELLI.   
-  
+Dal Consorzio costituito coi Nostri decreti 30 luglio 1882 N. 391 (Serie 3a) e 21 gennaio 1883 N. 1205 (Serie 3a) per la costruzione della ferrovia di quarta categoria Castellammare-Cancello-Scafati-Gragnano e sua diramazione da Pagani a Torre Annunziata, sono esclusi la provincia di Salerno ed i comuni di Angri, Nocera Superiore, Nocera Inferiore, Pagani, S. Marzano, S.
+Valentino, Sarno e Scafati. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 marzo 1889. 
+ 
+ UMBERTO. 
+ 
+ SARACCO. 
+ 
+ Visto, Il Guardasigilli: ZANARDELLI.

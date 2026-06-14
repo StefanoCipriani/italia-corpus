@@ -1,16 +1,14 @@
-REGIO DECRETO 05 marzo 1871 n. 110
-
-
-REGIO DECRETO 05 marzo 1871 n. 110
-==================================
-
-Col quale la frazione Gombio e' staccata dal Comune di Castelnuovo ne' Monti ed unita a quello di Ciano. (071U0110)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/04/1871
+---
+tipo: REGIO DECRETO
+numero: 110
+data: 1871-03-05
+titolo: "Col quale la frazione Gombio e' staccata dal Comune di Castelnuovo ne' Monti ed unita a quello di Ciano. (071U0110)"
+urn: urn:nir:stato:regio.decreto:1871-03-05;110
+codice_redazionale: 071U0110
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,39 +22,28 @@ Viste le deliberazioni dei Consigli comunali di Ciano e Castelnuovo ne' Monti, i
 
 Visto il 2° § dell'art. 15 della Legge sull'amministrazione comunale e provinciale, in data 20 marzo 1865, allegato A;
 
-Vista
------
+Vista la Legge 18 agosto 1870, n. 5815; Abbiamo decretato e decretiamo:
 
-la Legge 18 agosto 1870, n. 5815; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A partire dal 1° maggio 1871, la frazione Gombio e' staccata dal Comune di Castelnuovo ne' Monti e unita a quello di Ciano, in Provincia di Reggio nell'Emilia. 
+ 
+ I confini dei Comuni di Ciano e Castelnuovo ne' Monti sono rispettivamente accresciuti o diminuiti della porzione di territorio, i cui limiti sono segnati in color verde-giallo nella pianta topografica, redatta dall'Ingegnere Giuseppe Fontana in data 30 maggio 1870, che sara' d'ordine Nostro vidimata dal Ministro proponente.
 
-  
-  
-A partire dal 1° maggio 1871, la frazione Gombio e' staccata dal Comune di Castelnuovo ne' Monti e unita a quello di Ciano, in Provincia di Reggio nell'Emilia.   
-  
-I confini dei Comuni di Ciano e Castelnuovo ne' Monti sono rispettivamente accresciuti o diminuiti della porzione di territorio, i cui limiti sono segnati in color verde-giallo nella pianta topografica, redatta dall'Ingegnere Giuseppe Fontana in data 30 maggio 1870, che sara' d'ordine Nostro vidimata dal Ministro proponente.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Fino alla costituzione dei novelli Consigli comunali di Ciano e Castelnuovo ne' Monti, cui si procedera' a cura del Prefetto della Provincia entro il mese di aprile 1871, nei modi di Legge, in base alle attuali liste elettorali amministrative debitamente riformate a senso dell'art. 17 della Legge succitata, le attuali Rappresentanze dei Comuni sunnominati continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione dei futuri Consigli.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 5 marzo 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 16 marzo 1871   
-  
-Reg. 55 Atti del Governo a c. 23. Ayres   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco   
-  
-G. Lanza.   
-  
+Fino alla costituzione dei novelli Consigli comunali di Ciano e Castelnuovo ne' Monti, cui si procedera' a cura del Prefetto della Provincia entro il mese di aprile 1871, nei modi di Legge, in base alle attuali liste elettorali amministrative debitamente riformate a senso dell'art. 17 della Legge succitata, le attuali Rappresentanze dei Comuni sunnominati continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione dei futuri Consigli. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 5 marzo 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 16 marzo 1871 
+ 
+ Reg. 55 Atti del Governo a c. 23. Ayres 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco 
+ 
+ G. Lanza.

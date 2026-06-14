@@ -1,16 +1,14 @@
-REGIO DECRETO 09 giugno 1872 n. 888
-
-
-REGIO DECRETO 09 giugno 1872 n. 888
-===================================
-
-Col quale sono riconosciuti alienabili i fondi demaniali del Comune di Cisternino, detti Monti di Cisternino. (072U0888)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/08/1872
+---
+tipo: REGIO DECRETO
+numero: 888
+data: 1872-06-09
+titolo: "Col quale sono riconosciuti alienabili i fondi demaniali del Comune di Cisternino, detti Monti di Cisternino. (072U0888)"
+urn: urn:nir:stato:regio.decreto:1872-06-09;888
+codice_redazionale: 072U0888
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONI
 
@@ -22,24 +20,16 @@ Vista la deliberazione presa dal Consiglio comunale di Cisternino in terra di Ba
 
 Visto l'avviso del Consiglio di Stato, reso nella sua adunanza generale del 28 agosto 1869;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I fondi demaniali del comune di Cisternino, in provincia di terra di Bari, denominati Monti di Cisternino a Gravina, Rodia a Specchia Calestano, della estensione di ettari 429 25 complessivamente, sono riconosciuti alienabili, con le medesime formalita' e cautele necessarie per l'alienazione degli altri fondi comunali, in adempimento della legge 20 marzo 1865, allegato A.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 giugno 1872.   
-  
-VITTORIO EMANUELE.   
-  
-CASTAGNOLA.   
-  
-  
+I fondi demaniali del comune di Cisternino, in provincia di terra di Bari, denominati Monti di Cisternino a Gravina, Rodia a Specchia Calestano, della estensione di ettari 429 25 complessivamente, sono riconosciuti alienabili, con le medesime formalita' e cautele necessarie per l'alienazione degli altri fondi comunali, in adempimento della legge 20 marzo 1865, allegato A. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 giugno 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ CASTAGNOLA.

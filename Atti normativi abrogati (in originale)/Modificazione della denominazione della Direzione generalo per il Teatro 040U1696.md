@@ -1,16 +1,14 @@
-REGIO DECRETO 16 novembre 1940 n. 1696
-
-
-REGIO DECRETO 16 novembre 1940 n. 1696
-======================================
-
-Modificazione della denominazione della Direzione generalo per il Teatro (040U1696)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/12/1940
+---
+tipo: REGIO DECRETO
+numero: 1696
+data: 1940-11-16
+titolo: "Modificazione della denominazione della Direzione generalo per il Teatro (040U1696)"
+urn: urn:nir:stato:regio.decreto:1940-11-16;1696
+codice_redazionale: 040U1696
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,32 +24,26 @@ Visto il R. decreto 27 maggio 1937-XV, n. 752, con il quale la denominazione del
 
 Ritenuta la necessita' di modificare la denominazione della Direzione generale per il Teatro;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la cultura popolare, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la cultura popolare, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La denominazione della «Direzione generale per il Teatro» del Ministero della cultura popolare, e' sostituita dal seguente:   
-  
-«Direzione generale per il Teatro e per la Musica».   
-  
-Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 novembre 1940-XIX   
-  
-VITTORIO EMANUELE   
-  
-PAVOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato allo Corte dei conti, addi' 19 dicembre 1940-XIX   
-  
-Atti del Governo, registro 428, foglio 55. - MANCINI   
+La denominazione della «Direzione generale per il Teatro» del Ministero della cultura popolare, e' sostituita dal seguente: 
+ 
+ «Direzione generale per il Teatro e per la Musica». 
+ 
+ Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 novembre 1940-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ PAVOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato allo Corte dei conti, addi' 19 dicembre 1940-XIX 
+ 
+ Atti del Governo, registro 428, foglio 55. - MANCINI

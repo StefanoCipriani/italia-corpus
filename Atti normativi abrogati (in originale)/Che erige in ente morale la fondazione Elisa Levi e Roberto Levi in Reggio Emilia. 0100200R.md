@@ -1,23 +1,19 @@
-REGIO DECRETO 30 giugno 1901 n. CC
+---
+tipo: REGIO DECRETO
+numero: CC
+data: 1901-06-30
+titolo: "Che erige in ente morale la fondazione Elisa Levi e Roberto Levi in Reggio Emilia. (0100200R)"
+urn: urn:nir:stato:regio.decreto:1901-06-30;200
+codice_redazionale: 0100200R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 giugno 1901 n. CC
-==================================
-
-Che erige in ente morale la fondazione Elisa Levi e Roberto Levi in Reggio Emilia. (0100200R)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/07/1901
-
-Art. 1
-------
-
-  
-Con cui la fondazione Elisa Levi e Roberto Levi in Reggio Emilia viene eretta in ente morale e ne viene approvato lo statuto organico.  
-- Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F.  
-Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 10 luglio 1901.   
-  
-Reg. 229. Atti del Governo a f. 136.   
-  
+Con cui la fondazione Elisa Levi e Roberto Levi in Reggio Emilia viene eretta in ente morale e ne viene approvato lo statuto organico.
+- Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F.
+Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 10 luglio 1901. 
+ 
+ Reg. 229. Atti del Governo a f. 136.

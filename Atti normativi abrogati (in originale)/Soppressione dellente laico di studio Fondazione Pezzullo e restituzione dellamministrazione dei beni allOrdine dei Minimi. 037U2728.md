@@ -1,16 +1,14 @@
-REGIO DECRETO 29 novembre 1937 n. 2728
-
-
-REGIO DECRETO 29 novembre 1937 n. 2728
-======================================
-
-Soppressione dell'ente laico di studio «Fondazione Pezzullo» e restituzione dell'amministrazione dei beni all'Ordine dei Minimi. (037U2728)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/07/1938
+---
+tipo: REGIO DECRETO
+numero: 2728
+data: 1937-11-29
+titolo: "Soppressione dell'ente laico di studio «Fondazione Pezzullo» e restituzione dell'amministrazione dei beni all'Ordine dei Minimi. (037U2728)"
+urn: urn:nir:stato:regio.decreto:1937-11-29;2728
+codice_redazionale: 037U2728
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Veduto il R. decreto 11 luglio 1877, n. MDCLIII, serie 2ª, col quale il Collegio dei Minimi di S. Francesco ai Monti in Roma, di Fondazione Pezzullo, fu eretto in ente laico di studio a favore di giovani calabresi iscritti in Roma agli Istituti universitari e si autorizzo' la Provincia di Calabria Citeriore a ricevere dalla Giunta liquidatrice dell'Asse Ecclesiastico la consegna del patrimonio e delle rendite gia' appartenenti al Collegio anzidetto;
 
-Veduto lo statuto della Fondazione «Pezzullo», derivata dal suddetto decreto, approvato col [R. decreto 9 marzo 1913, n. 364](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-03-09;364), e modificato col [decreto Luogotenenziale 6 ottobre 1915, n. 1538](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-10-06;1538), e coi [Regi decreti 11 settembre 1919, n. 1748](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-11;1748), e [21 luglio 1921, n. 1281](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-21;1281);
+Veduto lo statuto della Fondazione «Pezzullo», derivata dal suddetto decreto, approvato col [R. decreto 9 marzo 1913, n. 364](Approvazione%20di%20statuto%20di%20Fondazione%20di%20studi.%20013U0364.md), e modificato col [decreto Luogotenenziale 6 ottobre 1915, n. 1538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-10-06;1538), e coi [Regi decreti 11 settembre 1919, n. 1748](Modificazione%20di%20statuto.%20019U1748.md), e [21 luglio 1921, n. 1281](Modificazione%20di%20statuto%20021U1281.md);
 
 Veduto il R. decreto 21 settembre 1933-XI, n. 1528, col quale. e' stata riconosciuta la personalita' giuridica all'Ordine dei Minimi di S. Francesco di Paola;
 
@@ -30,68 +28,42 @@ Sentito il parere del Consiglio di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Dalla data di attuazione del presente decreto, cessa di avere vigore il R. decreto 11 luglio 1877, n. MDCLIII, serie 2ª, ed e' in conseguenza soppresso l'ente laico di studio eretto col R. decreto medesimo.
 
-  
-  
-Dalla data di attuazione del presente decreto, cessa di avere vigore il R. decreto 11 luglio 1877, n. MDCLIII, serie 2ª, ed e' in conseguenza soppresso l'ente laico di studio eretto col R. decreto medesimo.   
-  
-  
+## Art. 2.
 
-Art. 2
-------
+Entro tre mesi dalla pubblicazione del presente decreto l'Amministrazione provinciale di Cosenza consegnera' il patrimonio e le rendite del suddetto ente, nello stato in cui presentemente si trovano, all'Ordine dei Minimi.
 
-  
-  
-Entro tre mesi dalla pubblicazione del presente decreto l'Amministrazione provinciale di Cosenza consegnera' il patrimonio e le rendite del suddetto ente, nello stato in cui presentemente si trovano, all'Ordine dei Minimi.   
-  
-  
+## Art. 3.
 
-Art. 3
-------
+L'Ordine dei Minimi dovra' impiegare i beni cosi' ricevuti secondo le intenzioni dichiarate dal fondatore Giovanni Pezzullo nel suo testamento del 10 gennaio 1621 e nel suo atto di donazione del 22 febbraio 1623, con le varianti di cui al seguente articolo.
 
-  
-  
-L'Ordine dei Minimi dovra' impiegare i beni cosi' ricevuti secondo le intenzioni dichiarate dal fondatore Giovanni Pezzullo nel suo testamento del 10 gennaio 1621 e nel suo atto di donazione del 22 febbraio 1623, con le varianti di cui al seguente articolo.   
+## Art. 4.
 
-Art. 4
-------
+L'Ordine dei Minimi dovra' sovvenire mediante borse di studio, posti di ricovero in collegio e simili concessioni, in misura equamente proporzionata ai redditi provenienti ogni anno dall'amministrazione dei suddetti beni, anche studenti professi dell'Ordine, che siano nativi della Calabria e frequentino le varie Facolta' universitarie, 
+ 
+ Dovra' inoltre ogni anno versare, con decorrenza dalla entrata in vigore del presente decreto, la somma di L. 6000 alla Amministrazione provinciale di Cosenza per la concessione di borse di studio, intitolate al fondatore «Giovanni Pezzullo» in conformita' di apposito regolamento che sara' approvato dal Ministro per l'educazione nazionale.
 
-  
-  
-L'Ordine dei Minimi dovra' sovvenire mediante borse di studio, posti di ricovero in collegio e simili concessioni, in misura equamente proporzionata ai redditi provenienti ogni anno dall'amministrazione dei suddetti beni, anche studenti professi dell'Ordine, che siano nativi della Calabria e frequentino le varie Facolta' universitarie,   
-  
-Dovra' inoltre ogni anno versare, con decorrenza dalla entrata in vigore del presente decreto, la somma di L. 6000 alla Amministrazione provinciale di Cosenza per la concessione di borse di studio, intitolate al fondatore «Giovanni Pezzullo» in conformita' di apposito regolamento che sara' approvato dal Ministro per l'educazione nazionale.   
-  
-  
+## Art. 5.
 
-Art. 5
-------
-
-  
-  
-Restano ferme le concessioni di borse di studio che siano presentemente in godimento e sino al termine stabilito in base allo statuto della Fondazione «Pezzullo» approvato col [R. decreto 9 marzo 1913, n. 364](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-03-09;364), e successive modificazioni.   
-  
-La relativa spesa verra' annualmente computata sulla somma di L. 6000 di cui al precedente art. 4.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 novembre 1937 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Bottai   
-  
-Visto, il Guardasigilli: Solmi   
-  
-Registrato alla Corte dei conti, con riserva, addi' 20 giugno 1938-XVI   
-  
-Atti del Governo, registro 398, foglio 110. - Mancini.   
-  
-  
+Restano ferme le concessioni di borse di studio che siano presentemente in godimento e sino al termine stabilito in base allo statuto della Fondazione «Pezzullo» approvato col [R. decreto 9 marzo 1913, n. 364](Approvazione%20di%20statuto%20di%20Fondazione%20di%20studi.%20013U0364.md), e successive modificazioni. 
+ 
+ La relativa spesa verra' annualmente computata sulla somma di L. 6000 di cui al precedente art. 4. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 novembre 1937 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Bottai 
+ 
+ Visto, il Guardasigilli: Solmi 
+ 
+ Registrato alla Corte dei conti, con riserva, addi' 20 giugno 1938-XVI 
+ 
+ Atti del Governo, registro 398, foglio 110. - Mancini.

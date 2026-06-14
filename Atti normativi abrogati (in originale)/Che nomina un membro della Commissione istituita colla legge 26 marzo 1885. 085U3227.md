@@ -1,16 +1,14 @@
-REGIO DECRETO 28 giugno 1885 n. 3227
-
-
-REGIO DECRETO 28 giugno 1885 n. 3227
-====================================
-
-Che nomina un membro della Commissione istituita colla legge 26 marzo 1885. (085U3227)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/07/1885
+---
+tipo: REGIO DECRETO
+numero: 3227
+data: 1885-06-28
+titolo: "Che nomina un membro della Commissione istituita colla legge 26 marzo 1885. (085U3227)"
+urn: urn:nir:stato:regio.decreto:1885-06-28;3227
+codice_redazionale: 085U3227
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,20 @@ Sulla proposta dei Nostri Ministri Segretari di Stato il Ministro dell'Interno, 
 
 e Giustizia e dei Culti,
 
-Sentito
--------
+Sentito il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-In sostituzione del gia' consigliere d'appello comm. Calcedonio Inghilleri, stato nominato direttore generale dei Culti, e' chiamato a far parte della Commissione istituita coll'art. 1° della [legge 26 marzo 1885, numero 3015](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-03-26;3015), il signor comm. Achille Motta, consigliere della Corte di appello in Roma.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 giugno 1885.   
-  
-UMBERTO.   
-  
-Depretis.   
-A. Magliani.   
-Pessina.   
-  
-Visto, Il Guardasigilli: Pessina.   
-  
+In sostituzione del gia' consigliere d'appello comm. Calcedonio Inghilleri, stato nominato direttore generale dei Culti, e' chiamato a far parte della Commissione istituita coll'art. 1° della [legge 26 marzo 1885, numero 3015](Sullincarico%20della%20Commissione%20per%20laccertamento%20e%20liquidazione%20dei%20crediti%20dei%20cessati%20Governi.%20085U3015.md), il signor comm. Achille Motta, consigliere della Corte di appello in Roma. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 giugno 1885. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ A. Magliani. 
+ Pessina. 
+ 
+ Visto, Il Guardasigilli: Pessina.

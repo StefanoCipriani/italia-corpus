@@ -1,19 +1,15 @@
-REGIO DECRETO 02 agosto 1912 n. 935
+---
+tipo: REGIO DECRETO
+numero: 935
+data: 1912-08-02
+titolo: "Dichiarazione di classe di Comune agli effetti daziari. (012U0935)"
+urn: urn:nir:stato:regio.decreto:1912-08-02;935
+codice_redazionale: 012U0935
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 agosto 1912 n. 935
-===================================
-
-Dichiarazione di classe di Comune agli effetti daziari. (012U0935)
-------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/09/1912
-
-Art. 1
-------
-
-  
-N. 935   
-  
-Regio Decreto 2 agosto 1912, col quale, sulla proposta del ministro delle finanze, il comune di Rimini, in provincia di Forli', e' stato dichiarato di 2ª classe agli effetti del dazio consumo a decorrere dal 1° gennaio 1912 e il relativo canone corrisposto allo Stato e' stato dalla stessa data aumentato da L. 97.491,17 a L. 105.588,52.   
-  
+N. 935 
+ 
+ Regio Decreto 2 agosto 1912, col quale, sulla proposta del ministro delle finanze, il comune di Rimini, in provincia di Forli', e' stato dichiarato di 2ª classe agli effetti del dazio consumo a decorrere dal 1° gennaio 1912 e il relativo canone corrisposto allo Stato e' stato dalla stessa data aumentato da L. 97.491,17 a L. 105.588,52.

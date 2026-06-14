@@ -1,16 +1,14 @@
-REGIO DECRETO 10 settembre 1872 n. 1022
-
-
-REGIO DECRETO 10 settembre 1872 n. 1022
-=======================================
-
-Che modifica il Ruolo organico del personale degli Stabilimenti scientifici della Regia Universita' di Messina. (072U1022)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/10/1872
+---
+tipo: REGIO DECRETO
+numero: 1022
+data: 1872-09-10
+titolo: "Che modifica il Ruolo organico del personale degli Stabilimenti scientifici della Regia Universita' di Messina. (072U1022)"
+urn: urn:nir:stato:regio.decreto:1872-09-10;1022
+codice_redazionale: 072U1022
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,31 +18,16 @@ Veduta la pianta numerica degli impiegati e dei serventi negli stabilimenti scen
 
 Veduto il bilancio passivo del Ministero di Pubblica Istruzione per l'esercizio 1872;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il ruolo organico degli impiegati e dei serventi negli stabilimenti scientifici della Regia Universita' di Messina, approvato con decreto Reale del 7 febbraio 1865, n. 2153, e' modificato in conformita' della tabella annessa al presente decreto e firmata d'ordine Nostro dal predetto Ministro Segretario di Stato per la Pubblica Istruzione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 10 settembre 1872.   
-  
-VITTORIO EMANUELE.   
-  
-A. Scialoja.   
-  
-
-Ruolo organico
-
-  
-RUOLO ORGANICO degli impiegati e dei serventi negli stabilimenti scientifici della Regia Universita' di Messina.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U102200100010110001&dgu=1872-10-15&art.dataPubblicazioneGazzetta=1872-10-15&art.codiceRedazionale=072U1022)
-  
+Il ruolo organico degli impiegati e dei serventi negli stabilimenti scientifici della Regia Universita' di Messina, approvato con decreto Reale del 7 febbraio 1865, n. 2153, e' modificato in conformita' della tabella annessa al presente decreto e firmata d'ordine Nostro dal predetto Ministro Segretario di Stato per la Pubblica Istruzione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 10 settembre 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ A. Scialoja.

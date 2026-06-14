@@ -1,19 +1,15 @@
-REGIO DECRETO 27 ottobre 1912 n. 1219
+---
+tipo: REGIO DECRETO
+numero: 1219
+data: 1912-10-27
+titolo: "Ampliamento di zone di servitu'. (012U1219)"
+urn: urn:nir:stato:regio.decreto:1912-10-27;1219
+codice_redazionale: 012U1219
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 ottobre 1912 n. 1219
-=====================================
-
-Ampliamento di zone di servitu'. (012U1219)
--------------------------------------------
-
-Entrata in vigore del provvedimento: 11/12/1912
-
-Art. 1
-------
-
-  
-N. 1219   
-  
-Regio Decreto 27 ottobre 1912, col quale sulla proposta del ministro della guerra, vengono ampliate le zone di servitu' militari attorno alla polveriera di Sonico in Valle Camonica (Brescia).   
-  
+N. 1219 
+ 
+ Regio Decreto 27 ottobre 1912, col quale sulla proposta del ministro della guerra, vengono ampliate le zone di servitu' militari attorno alla polveriera di Sonico in Valle Camonica (Brescia).

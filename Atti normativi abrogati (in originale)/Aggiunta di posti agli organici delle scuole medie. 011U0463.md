@@ -1,19 +1,15 @@
-REGIO DECRETO 05 gennaio 1911 n. 463
+---
+tipo: REGIO DECRETO
+numero: 463
+data: 1911-01-05
+titolo: "Aggiunta di posti agli organici delle scuole medie. (011U0463)"
+urn: urn:nir:stato:regio.decreto:1911-01-05;463
+codice_redazionale: 011U0463
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 gennaio 1911 n. 463
-====================================
-
-Aggiunta di posti agli organici delle scuole medie. (011U0463)
---------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/06/1911
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro della pubblica istruzione:   
-  
-N. 463. R. decreto 5 gennaio 1911, col quale, sono aggiunti alcuni posti agli organici delle scuole medie dal 1° ottobre al 31 dicembre 1910, ed assegnati alla scuola tecnica di Moncalvo.   
-  
+Sulla proposta del ministro della pubblica istruzione: 
+ 
+ N. 463. R. decreto 5 gennaio 1911, col quale, sono aggiunti alcuni posti agli organici delle scuole medie dal 1° ottobre al 31 dicembre 1910, ed assegnati alla scuola tecnica di Moncalvo.

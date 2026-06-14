@@ -1,56 +1,39 @@
-REGIO DECRETO 14 febbraio 1869 n. MMCXIV
+---
+tipo: REGIO DECRETO
+numero: MMCXIV
+data: 1869-02-14
+titolo: "Col quale la eredita' lasciata da Giovanni Penna al Comune di Carcare, e' eretta in Corpo morale. (6902114R)"
+urn: urn:nir:stato:regio.decreto:1869-02-14;2114
+codice_redazionale: 6902114R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 febbraio 1869 n. MMCXIV
-========================================
+L'eredita' lasciata da Giovanni Penna col detto testamento, e' eretta in Corpo morale.
 
-Col quale la eredita' lasciata da Giovanni Penna al Comune di Carcare, e' eretta in Corpo morale. (6902114R)
-------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 04/05/1869
+L'amministrazione di questo Corpo morale e' commessa al Parroco ed al Sindaco, pro tempore, di Carcare, e ad un terzo membro da nominarsi da quel Consiglio comunale, che durera' in uffizio per un triennio, e potra' essere rieletto.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-L'eredita' lasciata da Giovanni Penna col detto testamento, e' eretta in Corpo morale.   
-  
+Essa Amministrazione e' autorizzata ad accettare la eredita' prementovata, ed a fare tutti gli atti che per tal fine si richiedono.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-L'amministrazione di questo Corpo morale e' commessa al Parroco ed al Sindaco, pro tempore, di Carcare, e ad un terzo membro da nominarsi da quel Consiglio comunale, che durera' in uffizio per un triennio, e potra' essere rieletto.   
-  
-
-Art. 3
-------
-
-  
-  
-Essa Amministrazione e' autorizzata ad accettare la eredita' prementovata, ed a fare tutti gli atti che per tal fine si richiedono.   
-  
-
-Art. 4
-------
-
-  
-  
-L'Amministrazione sara' tenuta all'adempimento di tutti gli obblighi imposti dal testatore.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 14 febbraio 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 13 marzo 1869   
-  
-Reg. 46 Atti del Governo a c. 61. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-Broglio.   
-  
+L'Amministrazione sara' tenuta all'adempimento di tutti gli obblighi imposti dal testatore. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 14 febbraio 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 13 marzo 1869 
+ 
+ Reg. 46 Atti del Governo a c. 61. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ Broglio.

@@ -1,22 +1,20 @@
-REGIO DECRETO 23 agosto 1868 n. 4600
-
-
-REGIO DECRETO 23 agosto 1868 n. 4600
-====================================
-
-Che dichiara provinciali alcune strade scorrenti nella Provincia di Bergamo. (068U4600)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/10/1868
+---
+tipo: REGIO DECRETO
+numero: 4600
+data: 1868-08-23
+titolo: "Che dichiara provinciali alcune strade scorrenti nella Provincia di Bergamo. (068U4600)"
+urn: urn:nir:stato:regio.decreto:1868-08-23;4600
+codice_redazionale: 068U4600
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della Legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), Allegato F;
+Visti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [14 della Legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), Allegato F;
 
 Visto l'Elenco delle strade provinciali di Bergamo, adottato da quel Consiglio provinciale nelle sue adunanze 12 e 13 settembre 1866, e pubblicato con Notificazione della Deputazione provinciale 27 novembre detto anno;
 
@@ -30,41 +28,20 @@ Visti i successivi e definitivi avvisi 8 aprile e 10 giugno prossimo passato, de
 
 Visto il nuovo Elenco del 30 scorso luglio, prodotto dalla Deputazione provinciale, conforme al sopraindicato definitivo avviso del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate provinciali le 22 strade della Provincia di Bergamo, descritte nell'Elenco del 30 luglio prossimo passato, il quale restera' unito al presente Decreto, visto d' ordine Nostro dal Ministro Segretario di Stato pei Lavori Pubblici.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 23 agosto 1868.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 13 settembre 1868   
-Reg. 43 Atti del Governo a c. 165. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli DE FILIPPO.   
-  
-G. CANTELLI.   
-  
-  
-
-Elenco
-
-  
-ELENCO delle strade provinciali della Provincia di Bergamo dichiarate tali con Reale Decreto in data d'oggi.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=068U460000100010110001&dgu=1868-10-08&art.dataPubblicazioneGazzetta=1868-10-08&art.codiceRedazionale=068U4600)
-  
-  
-Visto d'ordine di S. M.   
-  
-Il Ministro Segretario di Stato pei Lavori Pubblici   
-G. CANTELLI.   
+Sono dichiarate provinciali le 22 strade della Provincia di Bergamo, descritte nell'Elenco del 30 luglio prossimo passato, il quale restera' unito al presente Decreto, visto d' ordine Nostro dal Ministro Segretario di Stato pei Lavori Pubblici. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 23 agosto 1868. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 13 settembre 1868 
+ Reg. 43 Atti del Governo a c. 165. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli DE FILIPPO. 
+ 
+ G. CANTELLI.

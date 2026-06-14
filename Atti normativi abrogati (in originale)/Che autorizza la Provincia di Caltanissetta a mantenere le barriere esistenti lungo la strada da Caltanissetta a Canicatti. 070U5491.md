@@ -1,16 +1,14 @@
-REGIO DECRETO 31 gennaio 1870 n. 5491
-
-
-REGIO DECRETO 31 gennaio 1870 n. 5491
-=====================================
-
-Che autorizza la Provincia di Caltanissetta a mantenere le barriere esistenti lungo la strada da Caltanissetta a Canicatti. (070U5491)
---------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/03/1870
+---
+tipo: REGIO DECRETO
+numero: 5491
+data: 1870-01-31
+titolo: "Che autorizza la Provincia di Caltanissetta a mantenere le barriere esistenti lungo la strada da Caltanissetta a Canicatti. (070U5491)"
+urn: urn:nir:stato:regio.decreto:1870-01-31;5491
+codice_redazionale: 070U5491
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,27 +24,20 @@ Veduti i pareri del Consiglio superiore dei Lavori Pubblici del 3 dicembre ultim
 
 Considerando che dai prodotti documenti risulta essere sufficiente il prodotto da ricavarsi nel periodo di nove anni per rimborsare la Provincia della spesa relativa alla costruzione della predetta strada;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Provincia di Caltanissetta e' autorizzata a mantenere le barriere attualmente esistenti lungo la strada da Caltanissetta a Canicatti, per il periodo di anni nove decorrendi dal primo gennaio 1870, e ad esigerne il relativo pedaggio in base alle tariffe approvate col citato Decreto 29 settembre 1867.   
-  
-Il predetto Ministro Segretario di Stato e' incaricato della esecuzione del presente Decreto, che sara' registrato alla Corte dei conti, ed inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia.   
-  
-Dato a Firenze addi' 31 gennaio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 17 febbraio 1870   
-Reg. 50 Atti del Governo a c. 58. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Gadda.   
-  
+La Provincia di Caltanissetta e' autorizzata a mantenere le barriere attualmente esistenti lungo la strada da Caltanissetta a Canicatti, per il periodo di anni nove decorrendi dal primo gennaio 1870, e ad esigerne il relativo pedaggio in base alle tariffe approvate col citato Decreto 29 settembre 1867. 
+ 
+ Il predetto Ministro Segretario di Stato e' incaricato della esecuzione del presente Decreto, che sara' registrato alla Corte dei conti, ed inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia. 
+ 
+ Dato a Firenze addi' 31 gennaio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 17 febbraio 1870 
+ Reg. 50 Atti del Governo a c. 58. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Gadda.

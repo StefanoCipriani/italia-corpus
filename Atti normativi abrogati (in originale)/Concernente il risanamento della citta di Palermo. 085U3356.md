@@ -1,16 +1,14 @@
-REGIO DECRETO 22 settembre 1885 n. 3356
-
-
-REGIO DECRETO 22 settembre 1885 n. 3356
-=======================================
-
-Concernente il risanamento della citta' di Palermo. (085U3356)
---------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/10/1885
+---
+tipo: REGIO DECRETO
+numero: 3356
+data: 1885-09-22
+titolo: "Concernente il risanamento della citta' di Palermo. (085U3356)"
+urn: urn:nir:stato:regio.decreto:1885-09-22;3356
+codice_redazionale: 085U3356
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Veduta la deliberazione del Consiglio comunale di Palermo in data 11 settembre 1
 
 Udito il parere del Consiglio di Stato,
 
-Veduti
-------
+Veduti gli articoli 18 della legge 15 gennaio 1885 e 19 del succitato regolamento, Abbiamo decretato e decretiamo:
 
-gli articoli 18 della legge 15 gennaio 1885 e 19 del succitato regolamento, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
-
-  
-  
-Il comune di Palermo e' autorizzato ad applicare gli [articoli 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892~art12), [16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892~art16) e [17 della legge 15 gennaio 1885, numero 2892](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892~art17) (Serie 3ª).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 22 settembre 1885.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+Il comune di Palermo e' autorizzato ad applicare gli [articoli 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_12), [16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_16) e [17 della legge 15 gennaio 1885, numero 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892#art_17) (Serie 3ª). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 22 settembre 1885. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto, Il Guardasigilli: Tajani.

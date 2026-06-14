@@ -1,18 +1,15 @@
-REGIO DECRETO 03 dicembre 1914 n. 1380
+---
+tipo: REGIO DECRETO
+numero: 1380
+data: 1914-12-03
+titolo: "Erezione in ente morale e approvazione di statuto di Opera pia. (014U1380)"
+urn: urn:nir:stato:regio.decreto:1914-12-03;1380
+codice_redazionale: 014U1380
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 dicembre 1914 n. 1380
-======================================
-
-Erezione in ente morale e approvazione di statuto di Opera pia. (014U1380)
---------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/01/1915
-
-Art. 1
-------
-
-  
-N. 1380   
-  
-Regio decreto 3 dicembre 1914, col quale, sulla proposta del ministro dell'interno, la Cassa pia di previdenza della associazione della stampa siciliana, con sede in Palermo, e' eretta in ente morale con amministrazione autonoma e ne e' approvato lo statuto organico.   
+N. 1380 
+ 
+ Regio decreto 3 dicembre 1914, col quale, sulla proposta del ministro dell'interno, la Cassa pia di previdenza della associazione della stampa siciliana, con sede in Palermo, e' eretta in ente morale con amministrazione autonoma e ne e' approvato lo statuto organico.

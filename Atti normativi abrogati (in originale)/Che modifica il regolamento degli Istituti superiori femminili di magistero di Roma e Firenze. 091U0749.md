@@ -1,16 +1,14 @@
-REGIO DECRETO 31 dicembre 1891 n. 749
-
-
-REGIO DECRETO 31 dicembre 1891 n. 749
-=====================================
-
-Che modifica il regolamento degli Istituti superiori femminili di magistero di Roma e Firenze. (091U0749)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/02/1892
+---
+tipo: REGIO DECRETO
+numero: 749
+data: 1891-12-31
+titolo: "Che modifica il regolamento degli Istituti superiori femminili di magistero di Roma e Firenze. (091U0749)"
+urn: urn:nir:stato:regio.decreto:1891-12-31;749
+codice_redazionale: 091U0749
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,58 +20,36 @@ Veduta la convenienza di modificare alcune disposizioni del regolamento stesso;
 
 Sentito il Consiglio Superiore di Istruzione;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Al regolamento per gl'Istituti superiori di magistero femminile in Roma e Firenze, approvato col Nostro decreto del 29 agosto 1890 n. 7161 (serie 3ª), sono fatte le seguenti modificazioni.
 
-  
-  
-Al regolamento per gl'Istituti superiori di magistero femminile in Roma e Firenze, approvato col Nostro decreto del 29 agosto 1890 n. 7161 (serie 3ª), sono fatte le seguenti modificazioni.   
-  
+## Art. 2.
 
-Art. 2
-------
+E' soppresso il corso facoltativo di elementi di letterature straniere comparate, menzionato all'art. 2 del regolamento predetto.
 
-  
-  
-E' soppresso il corso facoltativo di elementi di letterature straniere comparate, menzionato all'art. 2 del regolamento predetto. 
+## Art. 3.
 
-Art. 3
-------
+L'orario per l'insegnamento della geografia e' fissato in due ore pel primo anno e un'ora pel secondo anno del primo biennio. 
+ 
+ Agli insegnamenti obbligatori per conseguire il diploma di pedagogia e morale, e' aggiunto quello della geografia, con orario di tre ore nel primo anno del secondo biennio.
 
-  
-  
-L'orario per l'insegnamento della geografia e' fissato in due ore pel primo anno e un'ora pel secondo anno del primo biennio.   
-  
-Agli insegnamenti obbligatori per conseguire il diploma di pedagogia e morale, e' aggiunto quello della geografia, con orario di tre ore nel primo anno del secondo biennio.   
-  
+## Art. 4.
 
-Art. 4
-------
+E' titolo valevole per l'ammissione agli Istituti superiori di magistero femminile anche l'attestato di promozione dal 2° al 3° anno dell'Istituto tecnico.
 
-  
-  
-E' titolo valevole per l'ammissione agli Istituti superiori di magistero femminile anche l'attestato di promozione dal 2° al 3° anno dell'Istituto tecnico.   
-  
+## Art. 5.
 
-Art. 5
-------
-
-  
-  
-La tesi per l'esame di diploma, invece di essere letta dall'alunna avanti alla Commissione, sara' invece letta dai membri della Commissione stessa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 31 dicembre 1891.   
-  
-UMBERTO.   
-  
-P. Villari.   
-  
-Visto, Il Guardasigilli: L. Ferraris.   
-  
+La tesi per l'esame di diploma, invece di essere letta dall'alunna avanti alla Commissione, sara' invece letta dai membri della Commissione stessa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 31 dicembre 1891. 
+ 
+ UMBERTO. 
+ 
+ P. Villari. 
+ 
+ Visto, Il Guardasigilli: L. Ferraris.

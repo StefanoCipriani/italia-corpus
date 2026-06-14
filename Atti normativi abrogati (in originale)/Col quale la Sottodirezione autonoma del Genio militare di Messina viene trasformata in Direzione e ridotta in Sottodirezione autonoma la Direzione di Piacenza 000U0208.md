@@ -1,16 +1,14 @@
-REGIO DECRETO 24 maggio 1900 n. 208
-
-
-REGIO DECRETO 24 maggio 1900 n. 208
-===================================
-
-Col quale la Sottodirezione autonoma del Genio militare di Messina viene trasformata in Direzione e ridotta in Sottodirezione autonoma la Direzione di Piacenza (000U0208)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/06/1900
+---
+tipo: REGIO DECRETO
+numero: 208
+data: 1900-05-24
+titolo: "Col quale la Sottodirezione autonoma del Genio militare di Messina viene trasformata in Direzione e ridotta in Sottodirezione autonoma la Direzione di Piacenza (000U0208)"
+urn: urn:nir:stato:regio.decreto:1900-05-24;208
+codice_redazionale: 000U0208
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -32,41 +30,28 @@ Ritenuta la necessita' di trasformare in Direzione la Sottodirezione autonoma de
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La Direzione del Genio di Piacenza e' ridotta a Sottodirezione autonoma.
 
-  
-  
-La Direzione del Genio di Piacenza e' ridotta a Sottodirezione autonoma.   
-  
+## Art. 2.
 
-Art. 2
-------
+La Sottodirezione autonoma del Genio di Messina e' costituita in Direzione.
 
-  
-  
-La Sottodirezione autonoma del Genio di Messina e' costituita in Direzione.   
-  
-
-Art. 3
-------
+## Art. 3.
 
 Le disposizioni del presente decreto saranno mandate ad effetto a datare dal 1° luglio
 
-1900. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 maggio 1900.   
-  
-UMBERTO.   
-  
-Di S. Martino.   
-  
-Visto, Il Guardasigilli: Bonasi.
+1900.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 maggio 1900. 
+ 
+ UMBERTO. 
+ 
+ Di S. Martino. 
+ 
+ Visto, Il Guardasigilli: Bonasi.

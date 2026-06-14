@@ -1,22 +1,20 @@
-REGIO DECRETO 22 gennaio 1922 n. 154
-
-
-REGIO DECRETO 22 gennaio 1922 n. 154
-====================================
-
-Che modifica il regolamento per l'applicazione della tassa della Camera di commercio e industria di Catania. (022U0154)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/03/1922
+---
+tipo: REGIO DECRETO
+numero: 154
+data: 1922-01-22
+titolo: "Che modifica il regolamento per l'applicazione della tassa della Camera di commercio e industria di Catania. (022U0154)"
+urn: urn:nir:stato:regio.decreto:1922-01-22;154
+codice_redazionale: 022U0154
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 20 marzo 1910, n. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-03-20;121), sull'ordinamento delle Camere di commercio e industria del Regno;
+Vista la [legge 20 marzo 1910, n. 121](Sul%20riordinamento%20delle%20Camere%20di%20commercio%20ed%20arti%20del%20Regno.%20010U0121.md), sull'ordinamento delle Camere di commercio e industria del Regno;
 
 Visto il decreto-Luogotenenziale 7 luglio 1918, numero 1151, che autorizza la Camera di commercio e industria di Catania ad imporre una tassa sugli esercenti industria e commercio del proprio distretto camerale;
 
@@ -26,26 +24,20 @@ Sentito il parere del Consiglio superiore del commercio;
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per l'industria ed il commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per l'industria ed il commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'[art. 2 del decreto Luogotenenziale 7 luglio 1918, n. 1151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-07-07;1151~art2), resta modificato nel modo seguente:   
-  
-«La tassa suddetta sara' applicata a tutti i redditi netti commerciali e industriali prodotti nel distretto».   
-  
-Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 gennaio 1922.   
-  
-VITTORIO EMANUELE.   
-  
-BELOTTI.   
-  
-Visto, il guardasigilli: RODINO'.   
+L'[art. 2 del decreto Luogotenenziale 7 luglio 1918, n. 1151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-07-07;1151#art_2), resta modificato nel modo seguente: 
+ 
+ «La tassa suddetta sara' applicata a tutti i redditi netti commerciali e industriali prodotti nel distretto». 
+ 
+ Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 gennaio 1922. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ BELOTTI. 
+ 
+ Visto, il guardasigilli: RODINO'.

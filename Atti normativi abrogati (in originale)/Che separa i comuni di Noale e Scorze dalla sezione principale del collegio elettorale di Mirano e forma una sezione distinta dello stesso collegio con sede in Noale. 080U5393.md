@@ -1,16 +1,14 @@
-REGIO DECRETO 11 aprile 1880 n. 5393
-
-
-REGIO DECRETO 11 aprile 1880 n. 5393
-====================================
-
-Che separa i comuni di Noale e Scorze' dalla sezione principale del collegio elettorale di Mirano e forma una sezione distinta dello stesso collegio con sede in Noale. (080U5393)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/05/1880
+---
+tipo: REGIO DECRETO
+numero: 5393
+data: 1880-04-11
+titolo: "Che separa i comuni di Noale e Scorze' dalla sezione principale del collegio elettorale di Mirano e forma una sezione distinta dello stesso collegio con sede in Noale. (080U5393)"
+urn: urn:nir:stato:regio.decreto:1880-04-11;5393
+codice_redazionale: 080U5393
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Che i due comuni contano complessivamente 124 elettori, numero questo superiore 
 
 Considerato che la istituzione di una sezione elettorale in Noale rendera' piu' facile l'esercizio del diritto elettorale ad un ragguardevole numero di elettori;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Noale e Scorze' sono separati dalla sezione principale del Collegio elettorale di Mirano, e formeranno una sezione distinta dello stesso Collegio, con sede in Noale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato Roma, addi' 11 aprile 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+I comuni di Noale e Scorze' sono separati dalla sezione principale del Collegio elettorale di Mirano, e formeranno una sezione distinta dello stesso Collegio, con sede in Noale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato Roma, addi' 11 aprile 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

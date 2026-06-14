@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 05 luglio 1917 n. 1120
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1120
+data: 1917-07-05
+titolo: "Erezione in Ente morale. (017U1120)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-07-05;1120
+codice_redazionale: 017U1120
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 05 luglio 1917 n. 1120
-==============================================
-
-Erezione in Ente morale. (017U1120)
------------------------------------
-
-Entrata in vigore del provvedimento: 10/08/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1120. Decreto Luogotenenziale 5 luglio 1917, col quale sulla proposta del ministro della guerra, e' eretta in ente morale la «Fondazione Gorizia», fatta a favore dei caporali e soldati del 28° reggimento fanteria, dagli ufficiali del detto reggimento, e ne e' approvato lo statuto.
+1120.
+
+Decreto Luogotenenziale 5 luglio 1917, col quale sulla proposta del ministro della guerra, e' eretta in ente morale la «Fondazione Gorizia», fatta a favore dei caporali e soldati del 28° reggimento fanteria, dagli ufficiali del detto reggimento, e ne e' approvato lo statuto.

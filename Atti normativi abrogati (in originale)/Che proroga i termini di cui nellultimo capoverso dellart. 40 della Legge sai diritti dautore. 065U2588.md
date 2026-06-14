@@ -1,16 +1,14 @@
-REGIO DECRETO 31 ottobre 1865 n. 2588
-
-
-REGIO DECRETO 31 ottobre 1865 n. 2588
-=====================================
-
-Che proroga i termini di cui nell'ultimo capoverso dell'art. 40 della Legge sai diritti d'autore. (065U2588)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/12/1865
+---
+tipo: REGIO DECRETO
+numero: 2588
+data: 1865-10-31
+titolo: "Che proroga i termini di cui nell'ultimo capoverso dell'art. 40 della Legge sai diritti d'autore. (065U2588)"
+urn: urn:nir:stato:regio.decreto:1865-10-31;2588
+codice_redazionale: 065U2588
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,30 +18,23 @@ Vista la Legge 2 aprile 1865, n.° 2215, con la quale il Governo del Re fu autor
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli Ministro di Grazia e Giustizia e dei Culti, d'accordo col Nostro Ministro Segretario di Stato per gli Affari di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Guardasigilli Ministro di Grazia e Giustizia e dei Culti, d'accordo col Nostro Ministro Segretario di Stato per gli Affari di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I termini di cui nell'ultimo capoverso dell'articolo 40 della predetta Legge 25 giugno 1865, n.° 2337, per la dichiarazione di volersi giovare della privativa con essa Legge concessa, sono prorogati a tutto il mese di dicembre del corrente anno 1865.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 31 ottobre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 13 novembre 1865   
-  
-Reg.° 34 Atti del Governo a c. 56. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Cortese.   
-Torelli.   
-  
+I termini di cui nell'ultimo capoverso dell'articolo 40 della predetta Legge 25 giugno 1865, n.° 2337, per la dichiarazione di volersi giovare della privativa con essa Legge concessa, sono prorogati a tutto il mese di dicembre del corrente anno 1865. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 31 ottobre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 13 novembre 1865 
+ 
+ Reg.° 34 Atti del Governo a c. 56. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Cortese. 
+ Torelli.

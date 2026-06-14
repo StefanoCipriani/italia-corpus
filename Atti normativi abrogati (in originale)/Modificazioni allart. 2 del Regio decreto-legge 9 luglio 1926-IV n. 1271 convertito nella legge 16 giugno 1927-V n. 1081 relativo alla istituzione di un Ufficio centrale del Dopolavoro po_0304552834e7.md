@@ -1,16 +1,14 @@
-REGIO DECRETO-LEGGE 26 marzo 1942 n. 474
-
-
-REGIO DECRETO-LEGGE 26 marzo 1942 n. 474
-========================================
-
-Modificazioni all'art. 2 del Regio decreto-legge 9 luglio 1926-IV, n. 1271, convertito nella legge 16 giugno 1927-V, n. 1081, relativo alla istituzione di un Ufficio centrale del Dopolavoro postelegrafonico. (042U0474)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/05/1942. Regio Decreto-Legge convertito dalla [L. 17 luglio 1942, n. 997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-07-17;997) (in G.U. 11/09/1942, n.214).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 474
+data: 1942-03-26
+titolo: "Modificazioni all'art. 2 del Regio decreto-legge 9 luglio 1926-IV, n. 1271, convertito nella legge 16 giugno 1927-V, n. 1081, relativo alla istituzione di un Ufficio centrale del Dopolavoro postelegrafonico. (042U0474)"
+urn: urn:nir:stato:regio.decreto.legge:1942-03-26;474
+codice_redazionale: 042U0474
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,32 +28,26 @@ Riconosciuta la necessita' urgente ed assoluta di modificare in conseguenza dell
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con il Segretario del Partito Nazionale Fascista, Ministro Segretario di Stato e col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con il Segretario del Partito Nazionale Fascista, Ministro Segretario di Stato e col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
-
-  
-  
-Il capo dell'Ufficio centrale del Dopolavoro postelegrafonico, di cui all'art. 2, 2° comma, del [R. decreto-legge 9 luglio 1926-1V](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1), [n. 1271](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1271), convertito nella legge 16 giugno 1927-V, n. 1081, puo' essere anche un estraneo all'Amministrazione dello Stato, scelto dal Ministro per le comunicazioni, d'accordo col Segretario del Partito Nazionale Fascista.   
-  
-Il presente decreto entrera' in vigore alla data della sua pubblicazione nella Gazzetta Ufficiale e sara' presentato alle Assemblee legislative per la conversione in legge.   
-  
-Il Ministro proponente e' autorizzato a presentare il relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 26 marzo 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - HOST VENTURI - VIDUSSONI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 20 maggio 1942-XX   
-  
-Atti del Governo, registro 445, foglio 61. - MANCINI   
+Il capo dell'Ufficio centrale del Dopolavoro postelegrafonico, di cui all'art. 2, 2° comma, del [R. decreto-legge 9 luglio 1926-1V](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1), [n. 1271](Istituzione%20di%20un%20Ufficio%20centrale%20del%20Dopolavoro%20postelegrafonico.%20026U1271.md), convertito nella legge 16 giugno 1927-V, n. 1081, puo' essere anche un estraneo all'Amministrazione dello Stato, scelto dal Ministro per le comunicazioni, d'accordo col Segretario del Partito Nazionale Fascista. 
+ 
+ Il presente decreto entrera' in vigore alla data della sua pubblicazione nella Gazzetta Ufficiale e sara' presentato alle Assemblee legislative per la conversione in legge. 
+ 
+ Il Ministro proponente e' autorizzato a presentare il relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 marzo 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - HOST VENTURI - VIDUSSONI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 20 maggio 1942-XX 
+ 
+ Atti del Governo, registro 445, foglio 61. - MANCINI

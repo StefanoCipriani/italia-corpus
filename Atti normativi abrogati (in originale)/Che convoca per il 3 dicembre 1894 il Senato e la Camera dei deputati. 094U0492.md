@@ -1,16 +1,14 @@
-REGIO DECRETO 16 novembre 1894 n. 492
-
-
-REGIO DECRETO 16 novembre 1894 n. 492
-=====================================
-
-Che convoca per il 3 dicembre 1894 il Senato e la Camera dei deputati. (094U0492)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/12/1894
+---
+tipo: REGIO DECRETO
+numero: 492
+data: 1894-11-16
+titolo: "Che convoca per il 3 dicembre 1894 il Senato e la Camera dei deputati. (094U0492)"
+urn: urn:nir:stato:regio.decreto:1894-11-16;492
+codice_redazionale: 094U0492
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,25 +20,18 @@ Visto l'art. 9 dello Statuto fondamentale del Regno;
 
 Sulla proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno;
 
-Udito
------
+Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Senato del Regno e la Camera dei deputati sono riconvocati pel giorno 3 dicembre p. v.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 16 novembre 1894.   
-  
-UMBERTO.   
-  
-CRISPI.   
-  
-Visto, Il Guardasigilli: V. CALENDA DI TAVANI.   
-  
+Il Senato del Regno e la Camera dei deputati sono riconvocati pel giorno 3 dicembre p. v. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 16 novembre 1894. 
+ 
+ UMBERTO. 
+ 
+ CRISPI. 
+ 
+ Visto, Il Guardasigilli: V. CALENDA DI TAVANI.

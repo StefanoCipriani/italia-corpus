@@ -1,19 +1,15 @@
-REGIO DECRETO 31 luglio 1911 n. 923
+---
+tipo: REGIO DECRETO
+numero: 923
+data: 1911-07-31
+titolo: "Trasformazione di convitto in asilo infantile. (011U0923)"
+urn: urn:nir:stato:regio.decreto:1911-07-31;923
+codice_redazionale: 011U0923
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 luglio 1911 n. 923
-===================================
-
-Trasformazione di convitto in asilo infantile. (011U0923)
----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/09/1911
-
-Art. 1
-------
-
-  
-N. 923   
-  
-Regio decreto 31 luglio 1911, col quale, sulla proposta del ministro dell'interno, il Convitto dell'Immacolata Concezione di Casagiove (Caserta) viene trasformato in asilo infantile.   
-  
+N. 923 
+ 
+ Regio decreto 31 luglio 1911, col quale, sulla proposta del ministro dell'interno, il Convitto dell'Immacolata Concezione di Casagiove (Caserta) viene trasformato in asilo infantile.

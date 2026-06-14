@@ -1,19 +1,19 @@
-REGIO DECRETO 02 ottobre 1930 n. 1407
+---
+tipo: REGIO DECRETO
+numero: 1407
+data: 1930-10-02
+titolo: "Autorizzazione al Regio commissario dell'Istituto Principe di Napoli per giovani ciechi d'ambo i sessi in Napoli ad accettare un legato disposto a beneficio dell'Istituto medesimo. (030U1407)"
+urn: urn:nir:stato:regio.decreto:1930-10-02;1407
+codice_redazionale: 030U1407
+vigente: true
+---
 
-
-REGIO DECRETO 02 ottobre 1930 n. 1407
-=====================================
-
-Autorizzazione al Regio commissario dell'Istituto Principe di Napoli per giovani ciechi d'ambo i sessi in Napoli ad accettare un legato disposto a beneficio dell'Istituto medesimo. (030U1407)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/11/1930
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1407. R. decreto 2 ottobre 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, il Regio commissario dell'Istituto Principe di Napoli per giovani ciechi d'ambo i sessi in Napoli, e' autorizzato ad accettare un legato disposto a beneficio dell'Istituto medesimo dal signor Pasquale Avagliano.   
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 27 ottobre 1930 - Anno VIII
+1407.
+
+R. decreto 2 ottobre 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, il Regio commissario dell'Istituto Principe di Napoli per giovani ciechi d'ambo i sessi in Napoli, e' autorizzato ad accettare un legato disposto a beneficio dell'Istituto medesimo dal signor Pasquale Avagliano. 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 27 ottobre 1930 - Anno VIII

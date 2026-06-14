@@ -1,17 +1,13 @@
-REGIO DECRETO 04 dicembre 1921 n. 1925
+---
+tipo: REGIO DECRETO
+numero: 1925
+data: 1921-12-04
+titolo: "Accettazione di legato. (021U1925)"
+urn: urn:nir:stato:regio.decreto:1921-12-04;1925
+codice_redazionale: 021U1925
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 dicembre 1921 n. 1925
-======================================
-
-Accettazione di legato. (021U1925)
-----------------------------------
-
-Entrata in vigore del provvedimento: 01/02/1922
-
-Art. 1
-------
-
-  
-N.1925. Regio decreto 4 dicembre 1921, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'Associazione ligure per la protezione degli animali in Genova viene autorizzata ad accettare il legato di lire mille (L. 1000), lasciato dalla signora Danese Maria vedova Poire'.   
-  
+N.1925. Regio decreto 4 dicembre 1921, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'Associazione ligure per la protezione degli animali in Genova viene autorizzata ad accettare il legato di lire mille (L. 1000), lasciato dalla signora Danese Maria vedova Poire'.

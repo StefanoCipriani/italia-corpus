@@ -1,19 +1,15 @@
-REGIO DECRETO 28 settembre 1905 n. CCLXXXVIII
+---
+tipo: REGIO DECRETO
+numero: CCLXXXVIII
+data: 1905-09-28
+titolo: "Applicazione di tassa di bestiame. (0500288R)"
+urn: urn:nir:stato:regio.decreto:1905-09-28;288
+codice_redazionale: 0500288R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 settembre 1905 n. CCLXXXVIII
-=============================================
-
-Applicazione di tassa di bestiame. (0500288R)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 09/11/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CCLXXXVIII (Dato a Racconigi, il 28 settembre 1905), col quale e' data facolta' al comune di Camerano di applicare nel 1905 la tassa bestiame col limite massimo stabilito nelle adunanze consiliari del 17 ottobre 1904 e 19 giugno 1905.   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CCLXXXVIII (Dato a Racconigi, il 28 settembre 1905), col quale e' data facolta' al comune di Camerano di applicare nel 1905 la tassa bestiame col limite massimo stabilito nelle adunanze consiliari del 17 ottobre 1904 e 19 giugno 1905.

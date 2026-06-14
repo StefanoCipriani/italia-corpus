@@ -1,16 +1,14 @@
-REGIO DECRETO 13 ottobre 1897 n. 451
-
-
-REGIO DECRETO 13 ottobre 1897 n. 451
-====================================
-
-Che determina la circoscrizione residenza ufficiale delle Ispettrici governative per gli Istituti femminili di educazione. (097U0451)
--------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/11/1897
+---
+tipo: REGIO DECRETO
+numero: 451
+data: 1897-10-13
+titolo: "Che determina la circoscrizione residenza ufficiale delle Ispettrici governative per gli Istituti femminili di educazione. (097U0451)"
+urn: urn:nir:stato:regio.decreto:1897-10-13;451
+codice_redazionale: 097U0451
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,107 +22,30 @@ Veduto anche il Nostro decreto del 21 aprile 1894 n. 190, mediante il quale fu d
 
 Riconosciuta la convenienza di revocare tale facolta', che nuoce alla regolarita' ed alla speditezza del servizio;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il predetto decreto Reale del 21 aprile 1894 n. 190 e' abrogato.
 
-  
-  
-Il predetto decreto Reale del 21 aprile 1894 n. 190 e' abrogato.   
-  
+## Art. 2.
 
-Art. 2
-------
+I circoli e le residenze ufficiali delle ispettrici governative per gli Istituti femminili di educazione, sono determinati dalla tabella unita al presente decreto e firmata, d'ordine Nostro, dal Nostro Ministro proponente.
 
-  
-  
-I circoli e le residenze ufficiali delle ispettrici governative per gli Istituti femminili di educazione, sono determinati dalla tabella unita al presente decreto e firmata, d'ordine Nostro, dal Nostro Ministro proponente.   
-  
+## Art. 3.
 
-Art. 3
-------
+E' fatto obbligo alle dette ispettrici di stabilire il loro domicilio nella residenza ufficiale del circolo a ciascuna assegnato.
 
-  
-  
-E' fatto obbligo alle dette ispettrici di stabilire il loro domicilio nella residenza ufficiale del circolo a ciascuna assegnato.   
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Il circolo e la residenza ufficiale saranno assegnati a ciascuna ispettrice con decreto del Nostro Ministro proponente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 13 ottobre 1897.   
-  
-UMBERTO.   
-  
-Codronchi.   
-  
-Visto, Il Guardasigilli: E. Gianturco.   
-  
-
-Tabella
-
-  
-Circoscrizione e residenza ufficiale delle Ispettrici governative per gli Istituti femminili di educazione.   
-  
-I CIRCOLO.   
-  
-Residenza: Torino   
-  
-Provincie di Alessandria, Cuneo, Genova, Novara, Porto Maurizio, Torino.   
-  
-II CIRCOLO.   
-  
-Residenza: Milano   
-  
-Provincie di Bergamo, Brescia, Como, Cremona, Mantova, Milano, Pavia, Piacenza, Sondrio.   
-  
-III CIRCOLO.   
-  
-Residenza: Venezia   
-  
-Provincie di Belluno, Bologna, Ferrara, Forli', Modena, Padova, Parma, Ravenna, Reggio nell'Emilia, Rovigo, Treviso, Udine, Venezia, Verona e Vicenza.   
-  
-IV CIRCOLO.   
-  
-Residenza: Perugia   
-  
-Provincie di Ancona, Aquila, Ascoli-Piceno, Chieti, Macerata, Perugia, Pesaro e Urbino, Teramo.   
-  
-V CIRCOLO.   
-  
-Residenza: Roma   
-  
-Provincie di Arezzo, Firenze, Grosseto, Livorno, Lucca, Massa e Carrara, Pisa, Roma, Siena.   
-  
-VI CIRCOLO.   
-  
-Residenza: Napoli   
-  
-Provincie di Caserta, Napoli, Salerno.   
-  
-VII CIRCOLO.   
-  
-Residenza: Bari   
-  
-Provincie di Avellino, Bari, Benevento, Campobasso, Catanzaro, Cosenza, Foggia, Lecce, Potenza, Reggio di Calabria.   
-  
-VIII CIRCOLO.   
-  
-Residenza: Palermo   
-  
-Provincie di Cagliari, Caltanissetta, Catania, Girgenti, Messina, Palermo, Sassari, Siracusa, Trapani.   
-  
-Visto, d'ordino di S. M. il Re:   
-  
-Il Ministro della Pubblica Istruzione   
-CODRONCHI.   
-  
+Il circolo e la residenza ufficiale saranno assegnati a ciascuna ispettrice con decreto del Nostro Ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 13 ottobre 1897. 
+ 
+ UMBERTO. 
+ 
+ Codronchi. 
+ 
+ Visto, Il Guardasigilli: E. Gianturco.

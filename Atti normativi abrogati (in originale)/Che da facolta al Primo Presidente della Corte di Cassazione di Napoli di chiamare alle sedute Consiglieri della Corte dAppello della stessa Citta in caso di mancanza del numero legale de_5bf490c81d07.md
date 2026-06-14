@@ -1,16 +1,14 @@
-REGIO DECRETO 13 luglio 1862 n. 694
-
-
-REGIO DECRETO 13 luglio 1862 n. 694
-===================================
-
-Che da' facolta' al Primo Presidente della Corte di Cassazione di Napoli di chiamare alle sedute Consiglieri della Corte d'Appello della stessa Citta' in caso di mancanza del numero legale dei votanti. (062U0694)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/08/1862
+---
+tipo: REGIO DECRETO
+numero: 694
+data: 1862-07-13
+titolo: "Che da' facolta' al Primo Presidente della Corte di Cassazione di Napoli di chiamare alle sedute Consiglieri della Corte d'Appello della stessa Citta' in caso di mancanza del numero legale dei votanti. (062U0694)"
+urn: urn:nir:stato:regio.decreto:1862-07-13;694
+codice_redazionale: 062U0694
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,29 +18,22 @@ Considerando che, in seguito al riordinamento giudiziario delle Provincie Napole
 
 Veduto l'articolo 5 della legge 19 gennaio 1862, col quale fu fatta facolta' al Governo di dare, con Decreti Reali, tutti i provvedimenti necessari per l'attuazione del nuovo ordinamento;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Mancando nella Corte di Cassazione di Napoli il numero di quindici votanti, necessario per la validita' delle decisioni a Sezioni riunite, il Primo Presidente della stessa Corte ne integrera' il numero, chiamando a sedere i Consiglieri della Corte d'Appello di Napoli piu' anziani, i quali non abbiano gia' preso cognizione della causa a decidersi, e che non trovansi per altri legittimi motivi impediti.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 13 luglio 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 16 luglio 1862   
-  
-Reg.° 20 Atti del Governo a c. 112. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
-  
-Raffaele Conforti.   
-  
+Mancando nella Corte di Cassazione di Napoli il numero di quindici votanti, necessario per la validita' delle decisioni a Sezioni riunite, il Primo Presidente della stessa Corte ne integrera' il numero, chiamando a sedere i Consiglieri della Corte d'Appello di Napoli piu' anziani, i quali non abbiano gia' preso cognizione della causa a decidersi, e che non trovansi per altri legittimi motivi impediti. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 13 luglio 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 16 luglio 1862 
+ 
+ Reg.° 20 Atti del Governo a c. 112. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ Raffaele Conforti.

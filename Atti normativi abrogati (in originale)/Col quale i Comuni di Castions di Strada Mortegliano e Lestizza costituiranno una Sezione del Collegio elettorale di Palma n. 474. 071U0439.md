@@ -1,16 +1,14 @@
-REGIO DECRETO 10 settembre 1871 n. 439
-
-
-REGIO DECRETO 10 settembre 1871 n. 439
-======================================
-
-Col quale i Comuni di Castions di Strada, Mortegliano e Lestizza costituiranno una Sezione del Collegio elettorale di Palma, n. 474. (071U0439)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/10/1871
+---
+tipo: REGIO DECRETO
+numero: 439
+data: 1871-09-10
+titolo: "Col quale i Comuni di Castions di Strada, Mortegliano e Lestizza costituiranno una Sezione del Collegio elettorale di Palma, n. 474. (071U0439)"
+urn: urn:nir:stato:regio.decreto:1871-09-10;439
+codice_redazionale: 071U0439
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nei Comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Castions di Strada, Mortegliano e Lestizza costituiranno d'ora in poi una Sezione del Collegio elettorale di Palma, n. 474, con sede a Mortegliano.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche addi' 10 settembre 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 21 settembre 1871   
-  
-Reg. 57 Atti del Governo a c. 115. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+I Comuni di Castions di Strada, Mortegliano e Lestizza costituiranno d'ora in poi una Sezione del Collegio elettorale di Palma, n. 474, con sede a Mortegliano. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche addi' 10 settembre 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 21 settembre 1871 
+ 
+ Reg. 57 Atti del Governo a c. 115. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

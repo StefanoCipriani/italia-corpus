@@ -1,16 +1,14 @@
-REGIO DECRETO 09 giugno 1892 n. 324
-
-
-REGIO DECRETO 09 giugno 1892 n. 324
-===================================
-
-Che concerne il consorzio fra i comuni di Licenza, Mandela, Percile e Roccagiovane, agli effetti della riscossione delle imposte dirette pel quinquennio 1893-1897. (092U0324)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/07/1892
+---
+tipo: REGIO DECRETO
+numero: 324
+data: 1892-06-09
+titolo: "Che concerne il consorzio fra i comuni di Licenza, Mandela, Percile e Roccagiovane, agli effetti della riscossione delle imposte dirette pel quinquennio 1893-1897. (092U0324)"
+urn: urn:nir:stato:regio.decreto:1892-06-09;324
+codice_redazionale: 092U0324
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,27 +22,20 @@ Considerato che, in seguito al R. decreto 11 febbraio 1892, la frazione di Civit
 
 Vista la istanza del comune di Percile nonche' la proposta del Prefetto di Roma;
 
-Visto il disposto dagli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1871-04-20;192~art2) e [21 della legge 20 aprile 1871 n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1871-04-20;192~art21), modificato il primo di essi articoli dall'altra [legge 2 aprile 1882 n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1882-04-02;674);
+Visto il disposto dagli [articoli 2](Concernente%20la%20riscossione%20delle%20imposte%20dirette.%20071U0192.md) e [21 della legge 20 aprile 1871 n. 192](Concernente%20la%20riscossione%20delle%20imposte%20dirette.%20071U0192.md), modificato il primo di essi articoli dall'altra [legge 2 aprile 1882 n. 674](Che%20modifica%20le%20leggi%2020%20aprile%201871%20e%2030%20dicembre%201876%20riflettenti%20le%20riscossioni%20delle%20imposte%20dirette.%20082U0674.md);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il consorzio costituito col [R. decreto 10 aprile 1892 n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-04-10;207), fra i comuni di Licenza, Mandela, Percile e Roccagiovane, avra' nome dal comune di Percile, nel quale comune avra' pure sede pel quinquennio 1893-97, l'ufficio della esattoria consorziale, salvo non sia in contrario deliberato dalla rappresentanza consorziale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 giugno 1892.   
-  
-UMBERTO.   
-  
-Giolitti.   
-  
-Visto, Il Guardasigilli: Bonacci.   
-  
+Il consorzio costituito col [R. decreto 10 aprile 1892 n. 207](Che%20riunisce%20alcuni%20comuni%20in%20consorzio%20pel%20quinquennio%201893-97%20agli%20effetti%20della%20riscossione%20delle%20imposte%20dirette.%20092U0207.md), fra i comuni di Licenza, Mandela, Percile e Roccagiovane, avra' nome dal comune di Percile, nel quale comune avra' pure sede pel quinquennio 1893-97, l'ufficio della esattoria consorziale, salvo non sia in contrario deliberato dalla rappresentanza consorziale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 giugno 1892. 
+ 
+ UMBERTO. 
+ 
+ Giolitti. 
+ 
+ Visto, Il Guardasigilli: Bonacci.

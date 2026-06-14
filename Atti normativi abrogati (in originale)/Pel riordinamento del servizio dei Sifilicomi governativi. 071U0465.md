@@ -1,16 +1,14 @@
-REGIO DECRETO 02 settembre 1871 n. 465
-
-
-REGIO DECRETO 02 settembre 1871 n. 465
-======================================
-
-Pel riordinamento del servizio dei Sifilicomi governativi. (071U0465)
----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1871
+---
+tipo: REGIO DECRETO
+numero: 465
+data: 1871-09-02
+titolo: "Pel riordinamento del servizio dei Sifilicomi governativi. (071U0465)"
+urn: urn:nir:stato:regio.decreto:1871-09-02;465
+codice_redazionale: 071U0465
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,203 +18,144 @@ Visto il regolamento sulla prostituzione, approvato con decreto del 15 febbraio 
 
 Visto il regolamento per concorso ai posti di medico ordinario e di medico assistente nei sifilicomi del Regno, approvato con Nostro decreto del 25 settembre 1862, n. 870;
 
-Sulla
------
+Sulla proposta del presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli Affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli Affari dell'Interno, Abbiamo decretato e decretiamo:
+## Dei sifilicomi.
 
-CAPO I TITOLO I. Dei sifilicomi.
---------------------------------
+TITOLO I.
 
-### Art. 1
+### Art. 1.
 
-  
-  
-I sifilicomi sono esclusivamente destinati alla cura delle prostitute affette da malattie veneree o da altre malattie contagiose o comunque trasmissibili a giudizio del medico.   
+I sifilicomi sono esclusivamente destinati alla cura delle prostitute affette da malattie veneree o da altre malattie contagiose o comunque trasmissibili a giudizio del medico.
 
-### Art. 2
+### Art. 2.
 
-  
-  
-I sifilicomi sono stabiliti in locali di proprieta' demaniale, od all'uopo condotti dal Governo e dal medesimo amministrati.   
-  
-Possono anche stabilirsi sale celtiche speciali e separate negli spedali civili.   
+I sifilicomi sono stabiliti in locali di proprieta' demaniale, od all'uopo condotti dal Governo e dal medesimo amministrati. 
+ 
+ Possono anche stabilirsi sale celtiche speciali e separate negli spedali civili.
 
-CAPO II TITOLO II. Del personale dei sifilicomi governativi.
-------------------------------------------------------------
+## Del personale dei sifilicomi governativi.
 
-### Art. 3
+TITOLO II.
 
-  
-  
-Il servizio amministrativo e' disimpegnato da:   
-  
-Direttori,   
-Contabili,   
-Applicati,   
-Scrivani diurnisti.   
+### Art. 3.
 
-### Art. 4
+Il servizio amministrativo e' disimpegnato da: 
+ 
+ Direttori, 
+ Contabili, 
+ Applicati, 
+ Scrivani diurnisti.
 
-  
-  
-Il quadro A annesso al presente decreto, e che sara' firmato dal Nastro Ministro dell'Interno, ne stabilira' le classi e gli stipendi.  
-Possono nondimeno, per motivi di servizio, essere nominati impiegati in eccedenza al numero determinato per ciascun grado e ciascuna classe, purche' nei gradi e nelle classi superiori si abbiano altrettante vacanze.   
+### Art. 4.
 
-### Art. 5
+Il quadro A annesso al presente decreto, e che sara' firmato dal Nastro Ministro dell'Interno, ne stabilira' le classi e gli stipendi.
+Possono nondimeno, per motivi di servizio, essere nominati impiegati in eccedenza al numero determinato per ciascun grado e ciascuna classe, purche' nei gradi e nelle classi superiori si abbiano altrettante vacanze.
 
-  
-  
-All'amministrazione dei sifilicomi sono di preferenza chiamati gli impiegati delle carceri.   
-  
-Le disposizioni che reggono lo stato degli impiegati dell'Amministrazione centrale, non che i regolamenti disciplinari in vigore, sono applicabili al personale amministrativo di questi stabilimenti.   
+### Art. 5.
 
-### Art. 6
+All'amministrazione dei sifilicomi sono di preferenza chiamati gli impiegati delle carceri. 
+ 
+ Le disposizioni che reggono lo stato degli impiegati dell'Amministrazione centrale, non che i regolamenti disciplinari in vigore, sono applicabili al personale amministrativo di questi stabilimenti.
 
-  
-  
-Le promozioni di grado o di classe hanno luogo giusta le norme prescritte dal regio decreto concernente gli impiegati dell'Amministrazione carceraria, in data 10 marzo 1871, n° 113.   
+### Art. 6.
 
-### Art. 7
+Le promozioni di grado o di classe hanno luogo giusta le norme prescritte dal regio decreto concernente gli impiegati dell'Amministrazione carceraria, in data 10 marzo 1871, n° 113.
 
-  
-  
-Per l'applicazione delle pene disciplinari maggiori della sospensione di un mese, e' necessario l'avviso della Commissione di cui all'articolo 13 del precitato decreto.   
+### Art. 7.
 
-### Art. 8
+Per l'applicazione delle pene disciplinari maggiori della sospensione di un mese, e' necessario l'avviso della Commissione di cui all'articolo 13 del precitato decreto.
 
-  
-  
-Quando le esigenze del servizio lo permettano, l'amministrazione dei sifilicomi puo' essere affidata ai direttori degli stabilimenti carcerari.   
+### Art. 8.
 
-### Art. 9
+Quando le esigenze del servizio lo permettano, l'amministrazione dei sifilicomi puo' essere affidata ai direttori degli stabilimenti carcerari.
 
-  
-  
-Il servizio sanitario e' affidato a medici ordinali e medici assistenti.   
+### Art. 9.
 
-### Art. 10
+Il servizio sanitario e' affidato a medici ordinali e medici assistenti.
 
-  
-  
-Il quadro A, di che all'articolo 4, ne stabilisce i rispettivi onorari.   
+### Art. 10.
 
-### Art. 11
+Il quadro A, di che all'articolo 4, ne stabilisce i rispettivi onorari.
 
-  
-  
-Nei sifilicomi governativi che contengono un numero maggiore di duecento letti, il servizio medico e' ripartito in sezioni per modo che ciascuna sezione comprenda approssimativamente 150 inferme. Ad ogni sezione e' addetto un medico.   
+### Art. 11.
 
-### Art. 12
+Nei sifilicomi governativi che contengono un numero maggiore di duecento letti, il servizio medico e' ripartito in sezioni per modo che ciascuna sezione comprenda approssimativamente 150 inferme. Ad ogni sezione e' addetto un medico.
 
-  
-  
-Ai sifilicomi di maggiore importanza possono anche essere destinati medici assistenti con obbligo di residenza nello stabilimento.   
+### Art. 12.
 
-### Art. 13
+Ai sifilicomi di maggiore importanza possono anche essere destinati medici assistenti con obbligo di residenza nello stabilimento.
 
-  
-  
-La collazione de' posti di medico ordinario e di medico assistente si fa previo concorso e giusta le norme fissate dal regolamento speciale approvato col [regio decreto 25 settembre 1862, n° 870](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1862-09-25;870).   
+### Art. 13.
 
-### Art. 14
+La collazione de' posti di medico ordinario e di medico assistente si fa previo concorso e giusta le norme fissate dal regolamento speciale approvato col [regio decreto 25 settembre 1862, n° 870](Che%20approva%20il%20regolamento%20pel%20concorso%20ai%20posti%20di%20Medico%20ordinario%20e%20Medico%20assistente%20nei%20Sifilicomii%20del%20Regno.%20062U0870.md).
 
-  
-  
-I medici ordinari sono nominati per un triennio, e quando in tale periodo di tempo abbiano dato prova di capacita' e moralita', vengono mantenuti in ufficio.   
-  
-I medici assistenti sono egualmente nominati per tre anni, ma non possono essere confermati.   
+### Art. 14.
 
-### Art. 15
+I medici ordinari sono nominati per un triennio, e quando in tale periodo di tempo abbiano dato prova di capacita' e moralita', vengono mantenuti in ufficio. 
+ 
+ I medici assistenti sono egualmente nominati per tre anni, ma non possono essere confermati.
 
-  
-  
-La nomina dei medici ordinari e dei medici assistenti e' fatta dal Ministro dell'Interno.   
+### Art. 15.
 
-### Art. 16
+La nomina dei medici ordinari e dei medici assistenti e' fatta dal Ministro dell'Interno.
 
-  
-  
-Con apposito regolamento (\*) saranno determinate le attribuzioni del personale amministrativo e sanitario.   
-  
-Il regolamento stesso stabilira' il personale del servizio religioso e di infermeria, e ne fissera' le attribuzioni e le paghe. 
+### Art. 16.
 
-### Art. 17
+Con apposito regolamento (*) saranno determinate le attribuzioni del personale amministrativo e sanitario. 
+ 
+ Il regolamento stesso stabilira' il personale del servizio religioso e di infermeria, e ne fissera' le attribuzioni e le paghe.
 
-  
-  
-Il personale medico, religioso e d'infermeria, e gli scrivani diurnisti non rivestono qualita' d'impiegati governativi aventi diritto a pensioni, congedi o aspettative.   
+### Art. 17.
 
-CAPO III TITOLO III. Mantenimento e cura delle sifilitiche.
------------------------------------------------------------
+Il personale medico, religioso e d'infermeria, e gli scrivani diurnisti non rivestono qualita' d'impiegati governativi aventi diritto a pensioni, congedi o aspettative.
 
-### Art. 18
+## Mantenimento e cura delle sifilitiche.
 
-  
-  
-Al mantenimento delle inferme nei sifilicomi governativi si provvede per appalto, o ad economia, giusta le norme del regolamento generale di contabilita'.   
+TITOLO III.
 
-### Art. 19
+### Art. 18.
 
-  
-  
-Per la cura ed il mantenimento delle sifilitiche nelle infermerie celtiche annesse agli spedali civili, le condizioni saranno convenute d'accordo fra il Governo e le rispettive Amministrazioni.   
+Al mantenimento delle inferme nei sifilicomi governativi si provvede per appalto, o ad economia, giusta le norme del regolamento generale di contabilita'.
 
-CAPO IV TITOLO IV. Disposizioni transitorie.
---------------------------------------------
+### Art. 19.
 
-### Art. 20
+Per la cura ed il mantenimento delle sifilitiche nelle infermerie celtiche annesse agli spedali civili, le condizioni saranno convenute d'accordo fra il Governo e le rispettive Amministrazioni.
 
-  
-  
-La classificazione degli impiegati addetti alla direzione ed amministrazione dei sifilicomi avra' luogo in base allo stipendio di cui godono attualmente, ed a parita' di stipendio, in base alla data del rispettivo decreto di nomina.   
+## Disposizioni transitorie.
 
-### Art. 21
+TITOLO IV.
 
-  
-  
-Gli impiegati provvisti di uno stipendio maggiore del grado e della classe alla quale venissero assegnati, lo conserveranno provvisoriamente infino a che non sieno promossi e conseguiscano diverso collocamento.   
+### Art. 20.
 
-### Art. 22
+La classificazione degli impiegati addetti alla direzione ed amministrazione dei sifilicomi avra' luogo in base allo stipendio di cui godono attualmente, ed a parita' di stipendio, in base alla data del rispettivo decreto di nomina.
 
-  
-  
-I medici provenienti da antiche Amministrazioni, che si trovassero investiti di nomina Regia, conserveranno la qualita' di impiegati governativi.   
+### Art. 21.
 
-### Art. 23
+Gli impiegati provvisti di uno stipendio maggiore del grado e della classe alla quale venissero assegnati, lo conserveranno provvisoriamente infino a che non sieno promossi e conseguiscano diverso collocamento.
 
-  
-  
-I cappellani che si trovassero in ufficio per precedenti disposizioni, saranno provvisoriamente conservati.   
+### Art. 22.
 
-### Art. 24
+I medici provenienti da antiche Amministrazioni, che si trovassero investiti di nomina Regia, conserveranno la qualita' di impiegati governativi.
 
-  
-  
-D'ora innanzi le nomine e promozioni saranno fatte a seconda delle nuove norme e dei nuovi stipendi.   
+### Art. 23.
 
-### Art. 25
+I cappellani che si trovassero in ufficio per precedenti disposizioni, saranno provvisoriamente conservati.
 
-  
-  
-E' derogato alle precedenti disposizioni in quanto sieno contrarie alle presenti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 2 settembre 1871.   
-  
-VITTORIO EMANUELE.   
-  
-G. Lanza.   
-  
-(\*) Vedi Gazzetta Ufficiale di ieri.   
+### Art. 24.
 
-Tabella
+D'ora innanzi le nomine e promozioni saranno fatte a seconda delle nuove norme e dei nuovi stipendi.
 
-  
-Quadro A.   
-  
-Tabella graduale numerica del personale amministrativo e sanitario.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=071U046500100010110001&dgu=1871-10-21&art.dataPubblicazioneGazzetta=1871-10-21&art.codiceRedazionale=071U0465)
-  
+### Art. 25.
+
+E' derogato alle precedenti disposizioni in quanto sieno contrarie alle presenti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 2 settembre 1871. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Lanza. 
+ 
+ (*) Vedi Gazzetta Ufficiale di ieri.

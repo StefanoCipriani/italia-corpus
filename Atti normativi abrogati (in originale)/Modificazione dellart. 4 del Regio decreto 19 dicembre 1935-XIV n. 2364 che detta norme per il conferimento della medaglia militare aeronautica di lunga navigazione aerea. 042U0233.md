@@ -1,16 +1,14 @@
-REGIO DECRETO 12 gennaio 1942 n. 233
-
-
-REGIO DECRETO 12 gennaio 1942 n. 233
-====================================
-
-Modificazione dell'art. 4 del Regio decreto 19 dicembre 1935-XIV, n. 2364, che detta norme per il conferimento della medaglia militare aeronautica di lunga navigazione aerea. (042U0233)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/04/1942
+---
+tipo: REGIO DECRETO
+numero: 233
+data: 1942-01-12
+titolo: "Modificazione dell'art. 4 del Regio decreto 19 dicembre 1935-XIV, n. 2364, che detta norme per il conferimento della medaglia militare aeronautica di lunga navigazione aerea. (042U0233)"
+urn: urn:nir:stato:regio.decreto:1942-01-12;233
+codice_redazionale: 042U0233
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,35 +24,29 @@ Udito il parere del Consiglio di Stato;
 
 Sentite il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'art. 4 del R. decreto 19 dicembre 1935-XIV, n. 2364, e' sostituito dal seguente:   
-  
-Art. 4. - Per i militari in servizio il computo del servizio aeronavigante utile per il conferimento della medaglia militare aeronautica di lunga navigazione aerea, viene fatto in relazione agli anni di effettivo servizio aeronavigante compiuto con percezione delle relative indennita'.   
-  
-Tuttavia qualora per le cause di cui al successivo art. 5, in un determinato periodo non si sia svolta attivita' di volo, il periodo stesso puo' essere considerato utile ai fini della concessione della medaglia di lunga navigazione aerea, sempre che nei periodi di 10, 15 e 20 anni, il numero minimo delle ore di volo compiuto sia quello stabilito dal Ministero, in conformita' di quanto dispone il precedente art. 2.   
-  
-Per gli osservatori militari d'aeroplano e d'idrovolante delle altre Forze armate, ai soli effetti della concessione della medaglia militare aeronautica di lunga navigazione aerea, e' computato il periodo di un anno quando nell'anno solare stesso il militare allo stato dichiarato «addestrato».   
-  
-La dichiarazione di «addestrato» e' subordinata al compimento nell'anno solare dell'attivita' minima dl volo stabilita dal Ministero dell'aeronautica per tutto lo stesso anno solare.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 gennaio 1912-XX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 26 marzo 1942-XX   
-Atti del Governo, registro 443, foglio 107. - MANCINI   
+L'art. 4 del R. decreto 19 dicembre 1935-XIV, n. 2364, e' sostituito dal seguente: 
+ 
+ Art. 4. - Per i militari in servizio il computo del servizio aeronavigante utile per il conferimento della medaglia militare aeronautica di lunga navigazione aerea, viene fatto in relazione agli anni di effettivo servizio aeronavigante compiuto con percezione delle relative indennita'. 
+ 
+ Tuttavia qualora per le cause di cui al successivo art. 5, in un determinato periodo non si sia svolta attivita' di volo, il periodo stesso puo' essere considerato utile ai fini della concessione della medaglia di lunga navigazione aerea, sempre che nei periodi di 10, 15 e 20 anni, il numero minimo delle ore di volo compiuto sia quello stabilito dal Ministero, in conformita' di quanto dispone il precedente art. 2. 
+ 
+ Per gli osservatori militari d'aeroplano e d'idrovolante delle altre Forze armate, ai soli effetti della concessione della medaglia militare aeronautica di lunga navigazione aerea, e' computato il periodo di un anno quando nell'anno solare stesso il militare allo stato dichiarato «addestrato». 
+ 
+ La dichiarazione di «addestrato» e' subordinata al compimento nell'anno solare dell'attivita' minima dl volo stabilita dal Ministero dell'aeronautica per tutto lo stesso anno solare. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 gennaio 1912-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 26 marzo 1942-XX 
+ Atti del Governo, registro 443, foglio 107. - MANCINI

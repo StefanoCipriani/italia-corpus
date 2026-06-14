@@ -1,19 +1,15 @@
-REGIO DECRETO 28 novembre 1912 n. 1276
+---
+tipo: REGIO DECRETO
+numero: 1276
+data: 1912-11-28
+titolo: "Erezione in ente morale e approvazione di statuto. (012U1276)"
+urn: urn:nir:stato:regio.decreto:1912-11-28;1276
+codice_redazionale: 012U1276
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 novembre 1912 n. 1276
-======================================
-
-Erezione in ente morale e approvazione di statuto. (012U1276)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/12/1912
-
-Art. 1
-------
-
-  
-N. 1276   
-  
-Regio Decreto 28 novembre 1912, col quale, sulla proposta del ministro dell'interno, l'asilo infantile di Casalbordino (Chieti) e' eretto in ente morale, con amministrazione propria e ne e' approvato lo statuto organico.   
-  
+N. 1276 
+ 
+ Regio Decreto 28 novembre 1912, col quale, sulla proposta del ministro dell'interno, l'asilo infantile di Casalbordino (Chieti) e' eretto in ente morale, con amministrazione propria e ne e' approvato lo statuto organico.

@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 16 settembre 1926 n. 1636
-
-
-REGIO DECRETO-LEGGE 16 settembre 1926 n. 1636
-=============================================
-
-Revisione ed assetto definitivo del ruolo ingegneri del Regio corpo del Genio aeronautico. (026U1636)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/10/1926  
-Regio Decreto-Legge convertito dalla [L. 24 aprile 1927, n. 1498](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-04-24;1498) (in G.U. 27/08/1927, n. 198).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1636
+data: 1926-09-16
+titolo: "Revisione ed assetto definitivo del ruolo ingegneri del Regio corpo del Genio aeronautico. (026U1636)"
+urn: urn:nir:stato:regio.decreto.legge:1926-09-16;1636
+codice_redazionale: 026U1636
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -31,72 +28,54 @@ Considerata la necessita' di contemperare le giuste esigenze derivanti sia dalle
 
 Considerata altresi' l'urgenza di provvedere in modo sollecito e definitivo all'assetto del ruolo ingegneri del corpo del Genio aeronautico e di dare per ogni effetto, piena efficacia agli atti fin qui compiuti nella loro veste dagli ufficiali, le cui nomine sono state annullate ed a quelli nei loro confronti comunque disposti dall'Amministrazione;
 
-Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100~art3-num2);
+Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo Primo Ministro Segretario di Stato, Ministro Segretario di Stato per l'aeronautica, per la guerra e per la marina, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo Primo Ministro Segretario di Stato, Ministro Segretario di Stato per l'aeronautica, per la guerra e per la marina, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' data facolta' al Ministro per l'aeronautica: 
+ 
+ a) di provvedere, in dipendenza dell'esito delle operazioni compiute dalla Commissione di cui al decreto 4 maggio 1926 sopra accennato, alle nomine nei vari gradi di ufficiale del Regio corpo del Genio aeronautico dei vincitori del concorso bandito col decreto 1° agosto 1923 summenzionato con anzianita' decorrente dal 31 ottobre 1923. 
+ 
+ Qualora non venissero ricoperti in un grado i posti messi a concorso potra' procedersi ad un corrispondente maggior numero di nomine nel grado inferiore; 
+ 
+ b) di assegnare, su proposta di una Commissione all'uopo nominata, il grado da colonnello a capitano a coloro che furono nominati in base alle operazioni del concorso annullato e che non vennero classificati dalla Commissione di cui al decreto 4 maggio 1926. 
+ 
+ Questi seguiranno nel ruolo l'ultimo dei pari grado vincitori del concorso, ugualmente con anzianita' 31 ottobre 1923; 
+ 
+ c) di conservare, a titolo provvisorio, il grado rivestito tanto per effetto delle nomine disposte in dipendenza del concorso annullato, quanto per successive promozioni effettuate sotto qualsiasi titolo per ricoprire le vacanze dell'organico, a coloro che in base al risultato delle operazioni compiute dalla Commissione di cui al sopra citato decreto 4 maggio 1926, dovrebbero essere inquadrati in un grado inferiore. 
+ 
+ Questi ufficiali verranno, con tale grado, collocati in soprannumero e saranno riammessi nei quadri con decorrenza dalla data in cui, ove fossero stati posti in ruolo col grado inferiore, avrebbero potuto conseguire la promozione sia ad anzianita' che a scelta; sino a tale epoca sara' lasciato vacante un ugual numero di posti nel grado immediatamente inferiore; 
+ 
+ d) di procedere - sulla base dei ruoli quali risulteranno composti alla data del 31 ottobre 1923, dall'applicazione dei precedenti commi a) e b) e dai successivi concorsi, e previo giudizio di una Commissione all'uopo nominata - alle promozioni, sia ad anzianita' che a scelta e con le norme vigenti nel tempo, nel numero e con le anzianita' corrispondenti a quelle gia' disposte; ed alla conferma delle promozioni effettuate per merito eccezionale.
 
-  
-  
-  
-E' data facolta' al Ministro per l'aeronautica:   
-  
-a) di provvedere, in dipendenza dell'esito delle operazioni compiute dalla Commissione di cui al decreto 4 maggio 1926 sopra accennato, alle nomine nei vari gradi di ufficiale del Regio corpo del Genio aeronautico dei vincitori del concorso bandito col decreto 1° agosto 1923 summenzionato con anzianita' decorrente dal 31 ottobre 1923.   
-  
-Qualora non venissero ricoperti in un grado i posti messi a concorso potra' procedersi ad un corrispondente maggior numero di nomine nel grado inferiore;   
-  
-b) di assegnare, su proposta di una Commissione all'uopo nominata, il grado da colonnello a capitano a coloro che furono nominati in base alle operazioni del concorso annullato e che non vennero classificati dalla Commissione di cui al decreto 4 maggio 1926.   
-  
-Questi seguiranno nel ruolo l'ultimo dei pari grado vincitori del concorso, ugualmente con anzianita' 31 ottobre 1923;   
-  
-c) di conservare, a titolo provvisorio, il grado rivestito tanto per effetto delle nomine disposte in dipendenza del concorso annullato, quanto per successive promozioni effettuate sotto qualsiasi titolo per ricoprire le vacanze dell'organico, a coloro che in base al risultato delle operazioni compiute dalla Commissione di cui al sopra citato decreto 4 maggio 1926, dovrebbero essere inquadrati in un grado inferiore.   
-  
-Questi ufficiali verranno, con tale grado, collocati in soprannumero e saranno riammessi nei quadri con decorrenza dalla data in cui, ove fossero stati posti in ruolo col grado inferiore, avrebbero potuto conseguire la promozione sia ad anzianita' che a scelta; sino a tale epoca sara' lasciato vacante un ugual numero di posti nel grado immediatamente inferiore;   
-  
-d) di procedere - sulla base dei ruoli quali risulteranno composti alla data del 31 ottobre 1923, dall'applicazione dei precedenti commi a) e b) e dai successivi concorsi, e previo giudizio di una Commissione all'uopo nominata - alle promozioni, sia ad anzianita' che a scelta e con le norme vigenti nel tempo, nel numero e con le anzianita' corrispondenti a quelle gia' disposte; ed alla conferma delle promozioni effettuate per merito eccezionale.   
-  
+## Art. 2.
 
-Art. 2
-------
+I provvedimenti emanati in attuazione del presente decreto non modificano la posizione di stato degli ufficiali ai quali si riferiscono; producono effetti limitatamente all'ulteriore svolgimento di carriera e non danno luogo a pagamento di arretrati. 
+ 
+ Contro i detti provvedimenti di carattere amministrativo non e' ammesso alcun gravame giurisdizionale ne' da parte dei concorrenti ne' di altri interessati.
 
-  
-  
-  
-I provvedimenti emanati in attuazione del presente decreto non modificano la posizione di stato degli ufficiali ai quali si riferiscono; producono effetti limitatamente all'ulteriore svolgimento di carriera e non danno luogo a pagamento di arretrati.   
-  
-Contro i detti provvedimenti di carattere amministrativo non e' ammesso alcun gravame giurisdizionale ne' da parte dei concorrenti ne' di altri interessati.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-  
-Sino a quando non siasi provveduto in conformita' del presente decreto, gli ufficiali del Regio corpo del Genio aeronautico, ai quali il decreto stesso si riferisce, continueranno a rimanere nella attuale posizione per ogni effetto di legge.   
-  
-Essi potranno chiedere il rientro nei ruoli di provenienza del Regio esercito o della Regia marina entro sei mesi dalla data del provvedimento col quale vengono inquadrati a norma del presente decreto.   
-  
-Il presente decreto sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 16 settembre 1926.   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Volpi.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 28 settembre 1926.   
-  
-Atti del Governo, registro 252, foglio 167. - Casati.   
-  
+Sino a quando non siasi provveduto in conformita' del presente decreto, gli ufficiali del Regio corpo del Genio aeronautico, ai quali il decreto stesso si riferisce, continueranno a rimanere nella attuale posizione per ogni effetto di legge. 
+ 
+ Essi potranno chiedere il rientro nei ruoli di provenienza del Regio esercito o della Regia marina entro sei mesi dalla data del provvedimento col quale vengono inquadrati a norma del presente decreto. 
+ 
+ Il presente decreto sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 16 settembre 1926. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Volpi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 28 settembre 1926. 
+ 
+ Atti del Governo, registro 252, foglio 167. - Casati.

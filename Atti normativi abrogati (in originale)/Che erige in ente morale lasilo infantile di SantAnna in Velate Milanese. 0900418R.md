@@ -1,19 +1,15 @@
-REGIO DECRETO 20 agosto 1909 n. CCCCXVIII
+---
+tipo: REGIO DECRETO
+numero: CCCCXVIII
+data: 1909-08-20
+titolo: "Che erige in ente morale l'asilo infantile di Sant'Anna in Velate Milanese. (0900418R)"
+urn: urn:nir:stato:regio.decreto:1909-08-20;418
+codice_redazionale: 0900418R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 agosto 1909 n. CCCCXVIII
-=========================================
-
-Che erige in ente morale l'asilo infantile di Sant'Anna in Velate Milanese. (0900418R)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/12/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCCXVIII (Dato a Sant'Anna di Valdieri, il 20 agosto 1909), col quale l'asilo infantile di Sant'Anna in Velate Milanese e' eretto in ente morale ed e' approvato lo statuto organico relativo.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCCXVIII (Dato a Sant'Anna di Valdieri, il 20 agosto 1909), col quale l'asilo infantile di Sant'Anna in Velate Milanese e' eretto in ente morale ed e' approvato lo statuto organico relativo.

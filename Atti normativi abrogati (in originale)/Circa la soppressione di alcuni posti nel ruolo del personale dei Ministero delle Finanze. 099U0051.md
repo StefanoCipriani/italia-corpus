@@ -1,16 +1,14 @@
-REGIO DECRETO 05 febbraio 1899 n. 51
-
-
-REGIO DECRETO 05 febbraio 1899 n. 51
-====================================
-
-Circa la soppressione di alcuni posti nel ruolo del personale dei Ministero delle Finanze. (099U0051)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/03/1899
+---
+tipo: REGIO DECRETO
+numero: 51
+data: 1899-02-05
+titolo: "Circa la soppressione di alcuni posti nel ruolo del personale dei Ministero delle Finanze. (099U0051)"
+urn: urn:nir:stato:regio.decreto:1899-02-05;51
+codice_redazionale: 099U0051
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,25 +20,18 @@ Veduto l'articolo 21, comma 3°, del Regolamento per il personale degli Uffici f
 
 Veduto l'articolo 1, comma 2°, del Nostro decreto dell'8 luglio 1897, n. 285, ed il ruolo organico del personale del Ministero delle Finanze, approvato con lo stesso decreto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le Finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nel ruolo organico del personale del Ministero delle Finanze sono soppressi, con effetto del 1° gennaio 1899, nella carriera di ragioneria: quattro posti di segretario di 2ª classe, tre di segretario di 3ª classe, uno di vice segretario di 1ª classe, due di vice segretario di 2ª classe e uno di vice segretario di 3ª classe.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 febbraio 1899.   
-  
-UMBERTO.   
-  
-Carcano.   
-  
-Visto, Il Guardasigilli: C. Finocchiaro-Aprile.   
-  
+Nel ruolo organico del personale del Ministero delle Finanze sono soppressi, con effetto del 1° gennaio 1899, nella carriera di ragioneria: quattro posti di segretario di 2ª classe, tre di segretario di 3ª classe, uno di vice segretario di 1ª classe, due di vice segretario di 2ª classe e uno di vice segretario di 3ª classe. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 febbraio 1899. 
+ 
+ UMBERTO. 
+ 
+ Carcano. 
+ 
+ Visto, Il Guardasigilli: C. Finocchiaro-Aprile.

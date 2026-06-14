@@ -1,19 +1,15 @@
-REGIO DECRETO 21 ottobre 1863 n. DCCCCLXXV
+---
+tipo: REGIO DECRETO
+numero: DCCCCLXXV
+data: 1863-10-21
+titolo: "Che approva una tariffa per la riscossione di una tassa sul bestiame nel Comune di Urbisaglia, ed una tabella di variazione alla linea daziaria della Citta' di Cagliari. (6300975R)"
+urn: urn:nir:stato:regio.decreto:1863-10-21;975
+codice_redazionale: 6300975R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 ottobre 1863 n. DCCCCLXXV
-==========================================
-
-Che approva una tariffa per la riscossione di una tassa sul bestiame nel Comune di Urbisaglia, ed una tabella di variazione alla linea daziaria della Citta' di Cagliari. (6300975R)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/10/1863
-
-Art. 1
-------
-
-  
-Che approva una tariffa per la riscossione della tassa sul bestiame estesa ai buoi aratorii, a favore del Comune di Urbisaglia della Provincia di Macerata; ed una tabella di variazione alla linea daziaria della Citta' di Cagliari.   
-  
-Torino 21 ottobre 1863.   
-  
+Che approva una tariffa per la riscossione della tassa sul bestiame estesa ai buoi aratorii, a favore del Comune di Urbisaglia della Provincia di Macerata; ed una tabella di variazione alla linea daziaria della Citta' di Cagliari. 
+ 
+ Torino 21 ottobre 1863.

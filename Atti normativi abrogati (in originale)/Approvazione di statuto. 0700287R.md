@@ -1,19 +1,15 @@
-REGIO DECRETO 16 giugno 1907 n. CCLXXXVII
+---
+tipo: REGIO DECRETO
+numero: CCLXXXVII
+data: 1907-06-16
+titolo: "Approvazione di statuto. (0700287R)"
+urn: urn:nir:stato:regio.decreto:1907-06-16;287
+codice_redazionale: 0700287R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 giugno 1907 n. CCLXXXVII
-=========================================
-
-Approvazione di statuto. (0700287R)
------------------------------------
-
-Entrata in vigore del provvedimento: 17/08/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio;   
-  
-N. CCLXXXVII (Dato a Roma, il 16 giugno 1907), col quale si approva lo statuto organico del Monte di pieta' di Norcia.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio; 
+ 
+ N. CCLXXXVII (Dato a Roma, il 16 giugno 1907), col quale si approva lo statuto organico del Monte di pieta' di Norcia.

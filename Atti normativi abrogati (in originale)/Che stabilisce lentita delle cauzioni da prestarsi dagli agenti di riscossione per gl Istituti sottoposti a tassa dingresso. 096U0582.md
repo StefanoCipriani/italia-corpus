@@ -1,16 +1,14 @@
-REGIO DECRETO 17 dicembre 1896 n. 582
-
-
-REGIO DECRETO 17 dicembre 1896 n. 582
-=====================================
-
-Che stabilisce l'entita' delle cauzioni da prestarsi dagli agenti di riscossione per gl' Istituti sottoposti a tassa d'ingresso. (096U0582)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/02/1897
+---
+tipo: REGIO DECRETO
+numero: 582
+data: 1896-12-17
+titolo: "Che stabilisce l'entita' delle cauzioni da prestarsi dagli agenti di riscossione per gl' Istituti sottoposti a tassa d'ingresso. (096U0582)"
+urn: urn:nir:stato:regio.decreto:1896-12-17;582
+codice_redazionale: 096U0582
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,31 +22,22 @@ Ritenuto che possa essere equa misura di tale malleveria la somma corrispondente
 
 Sentito il parere del Ministero del Tesoro e del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostre Ministro Segretario di Stato per l'Istruzione Pubblica; Abbiamo decretato e decretiamo:
 
-proposta del Nostre Ministro Segretario di Stato per l'Istruzione Pubblica; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Le cauzioni degli Agenti contabili incaricati della riscossione della tassa d'entrata istituita colla [legge 27 maggio 1875 n. 2554](Sulla%20tassa%20di%20entrata%20nei%20musei%20nelle%20gallerie%20e%20negli%20scavi%20archeologici.%20075U2554.md), sono determinate, per gli stabilimenti non compresi nella tabella annessa al [R. decreto 23 dicembre 1880 n. 5839](Che%20determina%20le%20cauzioni%20da%20prestarsi%20dagli%20agenti%20di%20riscossione%20delle%20tasse%20di%20entrata%20nei%20musei%20nelle%20gallerie%20e%20negli%20scavi%20archeologici.%20080U5839.md), nella misura del 50 per cento della riscossione media mensile calcolata sui risultati dell'ultimo quadriennio.
 
-  
-  
-Le cauzioni degli Agenti contabili incaricati della riscossione della tassa d'entrata istituita colla [legge 27 maggio 1875 n. 2554](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1875-05-27;2554), sono determinate, per gli stabilimenti non compresi nella tabella annessa al [R. decreto 23 dicembre 1880 n. 5839](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1880-12-23;5839), nella misura del 50 per cento della riscossione media mensile calcolata sui risultati dell'ultimo quadriennio.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Le cauzioni saranno date in denaro da depositarsi presso la Cassa dei Depositi e Prestiti od in rendita consolidato 5% vincolata a favore dell'Erario e valutata secondo le disposizioni vigenti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 17 dicembre 1896:   
-  
-UMBERTO.   
-  
-E. Gianturco.   
-  
-Visto, Il Guardasigilli: G. Costa.   
+Le cauzioni saranno date in denaro da depositarsi presso la Cassa dei Depositi e Prestiti od in rendita consolidato 5% vincolata a favore dell'Erario e valutata secondo le disposizioni vigenti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 dicembre 1896: 
+ 
+ UMBERTO. 
+ 
+ E. Gianturco. 
+ 
+ Visto, Il Guardasigilli: G. Costa.

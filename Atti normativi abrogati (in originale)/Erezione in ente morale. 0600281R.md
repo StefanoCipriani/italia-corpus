@@ -1,19 +1,15 @@
-REGIO DECRETO 12 luglio 1906 n. CCLXXXI
+---
+tipo: REGIO DECRETO
+numero: CCLXXXI
+data: 1906-07-12
+titolo: "Erezione in ente morale. (0600281R)"
+urn: urn:nir:stato:regio.decreto:1906-07-12;281
+codice_redazionale: 0600281R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 luglio 1906 n. CCLXXXI
-=======================================
-
-Erezione in ente morale. (0600281R)
------------------------------------
-
-Entrata in vigore del provvedimento: 06/09/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCLXXXI (Dato a Racconigi, 12 luglio 1906), col quale il pio lascito di Robilante e' eretto in ente morale ed e' concentrato nella Congregazione di carita' di Robella (Alessandria).   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCLXXXI (Dato a Racconigi, 12 luglio 1906), col quale il pio lascito di Robilante e' eretto in ente morale ed e' concentrato nella Congregazione di carita' di Robella (Alessandria).

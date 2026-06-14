@@ -1,16 +1,14 @@
-REGIO DECRETO 14 agosto 1931 n. 1209
-
-
-REGIO DECRETO 14 agosto 1931 n. 1209
-====================================
-
-Determinazione dei contributi annui della provincia e del Consiglio provinciale di Treviso a favore della locale Regia scuola industriale. (031U1209)
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/10/1931
+---
+tipo: REGIO DECRETO
+numero: 1209
+data: 1931-08-14
+titolo: "Determinazione dei contributi annui della provincia e del Consiglio provinciale di Treviso a favore della locale Regia scuola industriale. (031U1209)"
+urn: urn:nir:stato:regio.decreto:1931-08-14;1209
+codice_redazionale: 031U1209
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,30 +20,24 @@ Visto il Nostro decreto 8 novembre 1928, n. 3285, concernente il riordinamento d
 
 Viste le deliberazioni: a) della Deputazione provinciale in Treviso, in data del 25 gennaio 1927; b) del Consiglio provinciale dell'economia in Treviso, in data del 16 dicembre 1929;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
+I contributi della provincia di Treviso e del Consiglio provinciale dell'economia in Treviso a favore della locale Regia scuola industriale sono fissati nella seguente misura a decorrere dal 1° luglio 1931: 
+ 
 
-  
-  
-I contributi della provincia di Treviso e del Consiglio provinciale dell'economia in Treviso a favore della locale Regia scuola industriale sono fissati nella seguente misura a decorrere dal 1° luglio 1931:   
-  
-  
-Provincia di Treviso . . . . . . . . . . . . . . . L. 26.000  
-Consiglio provinciale dell'economia in Treviso . . ." 55.000  
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a S. Anna di Valdieri, addi' 14 agosto 1931 - Anno IX   
-  
-VITTORIO EMANUELE.   
-  
-  
-Giuliano.   
-  
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 30 settembre 1931 - Anno IX Atti dei Governo, registro 312, foglio 138. - Mancini.   
+ Provincia di Treviso . . . . . . . . . . . . . . . L. 26.000
+ Consiglio provinciale dell'economia in Treviso . . ." 55.000
+
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a S. Anna di Valdieri, addi' 14 agosto 1931 - Anno IX 
+ 
+ VITTORIO EMANUELE. 
+ 
+ 
+ Giuliano. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 30 settembre 1931 - Anno IX  Atti dei Governo, registro 312, foglio 138. - Mancini.

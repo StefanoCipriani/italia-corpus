@@ -1,19 +1,15 @@
-REGIO DECRETO 08 giugno 1864 n. MCCLXI
+---
+tipo: REGIO DECRETO
+numero: MCCLXI
+data: 1864-06-08
+titolo: "Approvativo del regolamento di polizia rurale pel Comune di Caltanissetta. (6401261R)"
+urn: urn:nir:stato:regio.decreto:1864-06-08;1261
+codice_redazionale: 6401261R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 giugno 1864 n. MCCLXI
-======================================
-
-Approvativo del regolamento di polizia rurale pel Comune di Caltanissetta. (6401261R)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/06/1864
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia rurale del Comune di Caltanissetta in data del 16 aprile corrente anno.   
-  
-Torino 8 giugno 1864   
-  
+Che approva il regolamento di polizia rurale del Comune di Caltanissetta in data del 16 aprile corrente anno. 
+ 
+ Torino 8 giugno 1864

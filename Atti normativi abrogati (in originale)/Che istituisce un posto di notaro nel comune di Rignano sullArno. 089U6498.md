@@ -1,16 +1,14 @@
-REGIO DECRETO 07 novembre 1889 n. 6498
-
-
-REGIO DECRETO 07 novembre 1889 n. 6498
-======================================
-
-Che istituisce un posto di notaro nel comune di Rignano sull'Arno. (089U6498)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/12/1889
+---
+tipo: REGIO DECRETO
+numero: 6498
+data: 1889-11-07
+titolo: "Che istituisce un posto di notaro nel comune di Rignano sull'Arno. (089U6498)"
+urn: urn:nir:stato:regio.decreto:1889-11-07;6498
+codice_redazionale: 089U6498
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Veduto il nuovo testo della tabella del numero e della residenza dei notari del 
 
 Ritenuto che sarebbe dimostrata la necessita' di tale istituzione;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un posto di notaro nel comune di Rignano sull'Arno, distretto notarile di Firenze.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 7 novembre 1889.   
-  
-UMBERTO.   
-  
-G. Zanardelli.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+E' istituito un posto di notaro nel comune di Rignano sull'Arno, distretto notarile di Firenze. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 7 novembre 1889. 
+ 
+ UMBERTO. 
+ 
+ G. Zanardelli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

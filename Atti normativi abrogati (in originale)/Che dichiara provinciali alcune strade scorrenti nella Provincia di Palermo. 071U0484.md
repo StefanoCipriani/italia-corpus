@@ -1,16 +1,14 @@
-REGIO DECRETO 09 ottobre 1871 n. 484
-
-
-REGIO DECRETO 09 ottobre 1871 n. 484
-====================================
-
-Che dichiara provinciali alcune strade scorrenti nella Provincia di Palermo. (071U0484)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/11/1871
+---
+tipo: REGIO DECRETO
+numero: 484
+data: 1871-10-09
+titolo: "Che dichiara provinciali alcune strade scorrenti nella Provincia di Palermo. (071U0484)"
+urn: urn:nir:stato:regio.decreto:1871-10-09;484
+codice_redazionale: 071U0484
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,31 +28,16 @@ Sentito il Consiglio Superiore dei Lavori Pubblici ed il Consiglio di Stato;
 
 Visto l'articolo 14 della legge 20 marzo 1865, allegato F;
 
-Sulla
------
+Sulla proposta dal Nostro Ministro Segretario di Stato pei lavori pubblici, Abbiamo decretato e decretiamo:
 
-proposta dal Nostro Ministro Segretario di Stato pei lavori pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate provinciali le Sedici strade descritte nell'unito elenco, visto d'ordine Nostro dal predetto Ministro, in conformita' delle deliberazioni della Rappresentanza provinciale di Palermo,   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 9 ottobre 1871.   
-  
-VITTORIO EMANUELE.   
-  
-Devincenzi.   
-  
-
-Elenco
-
-  
-ELENCO DELLE STRADE PROVINCIALI DI PALERMO   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=071U048400100010110001&dgu=1871-11-14&art.dataPubblicazioneGazzetta=1871-11-14&art.codiceRedazionale=071U0484)
-  
+Sono dichiarate provinciali le Sedici strade descritte nell'unito elenco, visto d'ordine Nostro dal predetto Ministro, in conformita' delle deliberazioni della Rappresentanza provinciale di Palermo, 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 9 ottobre 1871. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Devincenzi.

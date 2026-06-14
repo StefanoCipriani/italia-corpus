@@ -1,16 +1,14 @@
-REGIO DECRETO 14 febbraio 1935 n. 202
-
-
-REGIO DECRETO 14 febbraio 1935 n. 202
-=====================================
-
-Autorizzazione al comune di Pavia ad aumentare le aliquote delle imposte di consumo. (035U0202)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/04/1935
+---
+tipo: REGIO DECRETO
+numero: 202
+data: 1935-02-14
+titolo: "Autorizzazione al comune di Pavia ad aumentare le aliquote delle imposte di consumo. (035U0202)"
+urn: urn:nir:stato:regio.decreto:1935-02-14;202
+codice_redazionale: 035U0202
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,30 +20,22 @@ Vista la istanza prodotta dal comune di Pavia per avvalersi della disposizione s
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Pavia e' autorizzato ad applicare, fino al 31 dicembre 1936, le imposte di consumo con le aliquote della classe E aumentate in misura non superiore al cinquanta per cento della differenza fra le aliquote stesse e quelle della classe D.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 febbraio 1935 - Anno XIII   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi 13 marzo 1935 - Anno XIII   
-  
-Atti del Governo, registro 357, foglio 107. - Mancini.   
-  
-  
+Il comune di Pavia e' autorizzato ad applicare, fino al 31 dicembre 1936, le imposte di consumo con le aliquote della classe E aumentate in misura non superiore al cinquanta per cento della differenza fra le aliquote stesse e quelle della classe D. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 febbraio 1935 - Anno XIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi 13 marzo 1935 - Anno XIII 
+ 
+ Atti del Governo, registro 357, foglio 107. - Mancini.

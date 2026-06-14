@@ -1,17 +1,17 @@
-REGIO DECRETO 13 agosto 1922 n. 1238
+---
+tipo: REGIO DECRETO
+numero: 1238
+data: 1922-08-13
+titolo: "Trasformazione di Istituto. (022U1238)"
+urn: urn:nir:stato:regio.decreto:1922-08-13;1238
+codice_redazionale: 022U1238
+vigente: true
+---
 
-
-REGIO DECRETO 13 agosto 1922 n. 1238
-====================================
-
-Trasformazione di Istituto. (022U1238)
---------------------------------------
-
-Entrata in vigore del provvedimento: 07/10/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1238. Regio decreto 13 agosto 1922, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'Istituto Cellini in Piperno viene trasformato a favore del locale Orfanotrofio femminile Baratta.
+1238.
+
+Regio decreto 13 agosto 1922, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'Istituto Cellini in Piperno viene trasformato a favore del locale Orfanotrofio femminile Baratta.

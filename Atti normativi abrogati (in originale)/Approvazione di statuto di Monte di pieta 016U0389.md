@@ -1,17 +1,13 @@
-DECRETO LUOGOTENENZIALE 19 marzo 1916 n. 389
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 389
+data: 1916-03-19
+titolo: "Approvazione di statuto di Monte di pieta' (016U0389)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-03-19;389
+codice_redazionale: 016U0389
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 19 marzo 1916 n. 389
-============================================
-
-Approvazione di statuto di Monte di pieta' (016U0389)
------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/04/1916
-
-Art. 1
-------
-
-  
-Decreto Luogotenenziale 19 marzo 1916, col quale, sulla proposta del ministro di agricoltura, industria e commercio, di concerto col ministro dell'interno, e' approvato il nuovo statuto del Monte di pieta' di Ruvo di Puglia.   
-  
+Decreto Luogotenenziale 19 marzo 1916, col quale, sulla proposta del ministro di agricoltura, industria e commercio, di concerto col ministro dell'interno, e' approvato il nuovo statuto del Monte di pieta' di Ruvo di Puglia.

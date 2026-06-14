@@ -1,16 +1,14 @@
-REGIO DECRETO 10 dicembre 1865 n. 2688
-
-
-REGIO DECRETO 10 dicembre 1865 n. 2688
-======================================
-
-Per l'annullamento del Regio Viglietto 14 marzo 1835 relativo alla distribuzione di munizioni da guerra ai Corpi di Regia Truppa. (065U2688)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/01/1866
+---
+tipo: REGIO DECRETO
+numero: 2688
+data: 1865-12-10
+titolo: "Per l'annullamento del Regio Viglietto 14 marzo 1835 relativo alla distribuzione di munizioni da guerra ai Corpi di Regia Truppa. (065U2688)"
+urn: urn:nir:stato:regio.decreto:1865-12-10;2688
+codice_redazionale: 065U2688
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,27 +18,18 @@ Visto il Regio Viglietto 14 marzo 1835 che fissa la quantita' di munizioni da gu
 
 Considerato la necessita' di stabilire tal ramo di servizio sopra altre basi piu' consentanee all'attuale ordinamento dello Stato e dell'Esercito;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico. — null
 
-Articolo unico
---------------
-
-null
-
-  
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 10 dicembre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 13 dicembre 1865   
-Reg.° 34 Atti del Governo a c. 107. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli: CORTESE.   
-  
-A. PETITTI.   
-  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 10 dicembre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 13 dicembre 1865 
+ Reg.° 34 Atti del Governo a c. 107. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli: CORTESE. 
+ 
+ A. PETITTI.

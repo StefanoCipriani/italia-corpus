@@ -1,23 +1,20 @@
-REGIO DECRETO 30 giugno 1901 n. CXCIX
+---
+tipo: REGIO DECRETO
+numero: CXCIX
+data: 1901-06-30
+titolo: "Che modifica lo statuto della cassa di risparmio di Vigevano. (0100199R)"
+urn: urn:nir:stato:regio.decreto:1901-06-30;199
+codice_redazionale: 0100199R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 giugno 1901 n. CXCIX
-=====================================
+Che modifica lo statuto della cassa di risparmio di Vigevano. - Firmato VITTORIO EMANUELE - Controfirmato G. Zanardelli - Visto F.
+Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 10 luglio
 
-Che modifica lo statuto della cassa di risparmio di Vigevano. (0100199R)
-------------------------------------------------------------------------
+1901.
 
-Entrata in vigore del provvedimento: 31/07/1901
-
-Art. 1
-------
-
-Che modifica lo statuto della cassa di risparmio di Vigevano. - Firmato VITTORIO EMANUELE - Controfirmato G. Zanardelli - Visto F.  
-Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 10 luglio
-
-1901. 
-  
-  
 Reg. 229. Atti del Governo a f. 148.

@@ -1,16 +1,14 @@
-REGIO DECRETO 25 maggio 1876 n. 3137
-
-
-REGIO DECRETO 25 maggio 1876 n. 3137
-====================================
-
-Che modifica il quadro organico del personale dell'amministrazione centrale della guerra. (076U3137)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/06/1876
+---
+tipo: REGIO DECRETO
+numero: 3137
+data: 1876-05-25
+titolo: "Che modifica il quadro organico del personale dell'amministrazione centrale della guerra. (076U3137)"
+urn: urn:nir:stato:regio.decreto:1876-05-25;3137
+codice_redazionale: 076U3137
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,22 +20,16 @@ Considerato che l'art. 2 del Reale decreto sumentovato ammette il passaggio di c
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro della Guerra, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro della Guerra, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il quadro organico del personale dell'Amministrazione centrale della Guerra e' modificato nel senso, che i due capi ragionieri possano essere indistintamente ai 1ª o 2ª classe, purche' complessivamente tra direttori capi divisione e capi ragionieri non si oltrepassi il numero stabilito per ciascuna classe dal relativo quadro organico.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 maggio 1876.   
-  
-VITTORIO EMANUELE.   
-  
-L. Mezzacapo.   
+Il quadro organico del personale dell'Amministrazione centrale della Guerra e' modificato nel senso, che i due capi ragionieri possano essere indistintamente ai 1ª o 2ª classe, purche' complessivamente tra direttori capi divisione e capi ragionieri non si oltrepassi il numero stabilito per ciascuna classe dal relativo quadro organico. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 maggio 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ L. Mezzacapo.

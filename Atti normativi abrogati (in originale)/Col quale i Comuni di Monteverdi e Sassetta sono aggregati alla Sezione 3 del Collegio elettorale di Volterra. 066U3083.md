@@ -1,17 +1,14 @@
-REGIO DECRETO 15 luglio 1866 n. 3083
-
-
-REGIO DECRETO 15 luglio 1866 n. 3083
-====================================
-
-Col quale i Comuni di Monteverdi e Sassetta sono aggregati alla Sezione 3 del Collegio elettorale di Volterra. (066U3083)
--------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/07/1866   
-Il presente decreto e' stato erroneamente pubblicato in Gazzetta Ufficiale senza l'indicazione del numero di inserzione nella Raccolta Ufficiale delle leggi e dei decreti del Regno.
+---
+tipo: REGIO DECRETO
+numero: 3083
+data: 1866-07-15
+titolo: "Col quale i Comuni di Monteverdi e Sassetta sono aggregati alla Sezione 3 del Collegio elettorale di Volterra. (066U3083)"
+urn: urn:nir:stato:regio.decreto:1866-07-15;3083
+codice_redazionale: 066U3083
+vigente: true
+---
 
 EUGENIO
--------
 
 PRINCIPE DI SAVOJA-CARIGNANO
 
@@ -33,29 +30,22 @@ Viste le istanze dei Comuni di Monteverdi e Sassetta per essere aggregati alla S
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Monteverdi e Sassetta, che sino ad ora fecero parte della Sezione 2ª del Collegio elettorale di Volterra, n° 332, sono aggregati alla Sezione 3ª del Collegio stesso, la quale e' cosi' composta dei Comuni di Castagneto, Monteverdi e Sassetta.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Firenze addi' 15 luglio 1866.   
-  
-EUGENIO DI SAVOJA   
-  
-Registrato alla Corte dei conti addi' 23 luglio 1866   
-  
-Reg.° 36 Atti del Governo a c. 194. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Borgatti.   
-  
-Ricasoli.   
-  
+I Comuni di Monteverdi e Sassetta, che sino ad ora fecero parte della Sezione 2ª del Collegio elettorale di Volterra, n° 332, sono aggregati alla Sezione 3ª del Collegio stesso, la quale e' cosi' composta dei Comuni di Castagneto, Monteverdi e Sassetta. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Firenze addi' 15 luglio 1866. 
+ 
+ EUGENIO DI SAVOJA 
+ 
+ Registrato alla Corte dei conti addi' 23 luglio 1866 
+ 
+ Reg.° 36 Atti del Governo a c. 194. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ Ricasoli.

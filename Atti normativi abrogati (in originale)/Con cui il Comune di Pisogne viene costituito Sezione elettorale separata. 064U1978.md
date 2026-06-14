@@ -1,16 +1,14 @@
-REGIO DECRETO 16 ottobre 1864 n. 1978
-
-
-REGIO DECRETO 16 ottobre 1864 n. 1978
-=====================================
-
-Con cui il Comune di Pisogne viene costituito Sezione elettorale separata. (064U1978)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/11/1864
+---
+tipo: REGIO DECRETO
+numero: 1978
+data: 1864-10-16
+titolo: "Con cui il Comune di Pisogne viene costituito Sezione elettorale separata. (064U1978)"
+urn: urn:nir:stato:regio.decreto:1864-10-16;1978
+codice_redazionale: 064U1978
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,30 +26,22 @@ Sezione di Iseo;
 
 Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Pisogne che sin qui fece parte della Sezione del Collegio elettorale di Iseo, n.° 78, detta d'Iseo, costituira' d'ora in poi una Sezione del Collegio medesimo.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Torino addi' 16 ottobre 1864.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 29 ottobre 1864   
-  
-Reg.° 31 Atti del Governo a c. 112. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-G. Lanza.   
-  
-  
+Il Comune di Pisogne che sin qui fece parte della Sezione del Collegio elettorale di Iseo, n.° 78, detta d'Iseo, costituira' d'ora in poi una Sezione del Collegio medesimo. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Torino addi' 16 ottobre 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 29 ottobre 1864 
+ 
+ Reg.° 31 Atti del Governo a c. 112. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ G. Lanza.

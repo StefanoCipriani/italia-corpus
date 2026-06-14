@@ -1,16 +1,14 @@
-REGIO DECRETO 07 marzo 1880 n. 5323
-
-
-REGIO DECRETO 07 marzo 1880 n. 5323
-===================================
-
-Che separa i comuni di Crespano Veneto, Borso, Paderno d'Asolo, Possagno e San Zenone degli Ezzelini dalla sezione elettorale di Asolo e forma una sezione distinta del collegio di Castelfranco Veneto, con sede in Crespano Veneto. (080U5323)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/04/1880
+---
+tipo: REGIO DECRETO
+numero: 5323
+data: 1880-03-07
+titolo: "Che separa i comuni di Crespano Veneto, Borso, Paderno d'Asolo, Possagno e San Zenone degli Ezzelini dalla sezione elettorale di Asolo e forma una sezione distinta del collegio di Castelfranco Veneto, con sede in Crespano Veneto. (080U5323)"
+urn: urn:nir:stato:regio.decreto:1880-03-07;5323
+codice_redazionale: 080U5323
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Atteso che i cinque comuni contano complessivamente 157 elettori, numero questo 
 
 Considerato che formando con quei comuni una seziono elettorale distinta, si rende molto piu' facile agli elettori l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Crespano Veneto, Borso, Paderno d'Asolo, Possagno e San Zenone degli Ezzelini sono separati dalla sezione elettorale di Asolo, e formeranno una sezione distinta del Collegio elettorale di Castelfranco Veneto, con la sede in Crespano Veneto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 marzo 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+I comuni di Crespano Veneto, Borso, Paderno d'Asolo, Possagno e San Zenone degli Ezzelini sono separati dalla sezione elettorale di Asolo, e formeranno una sezione distinta del Collegio elettorale di Castelfranco Veneto, con la sede in Crespano Veneto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

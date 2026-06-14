@@ -1,16 +1,14 @@
-REGIO DECRETO 14 gennaio 1937 n. 69
-
-
-REGIO DECRETO 14 gennaio 1937 n. 69
-===================================
-
-Autorizzazione al comune di La Spezia ad applicare le imposte di consumo in base alla tariffa della classe B. (037U0069)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/02/1937
+---
+tipo: REGIO DECRETO
+numero: 69
+data: 1937-01-14
+titolo: "Autorizzazione al comune di La Spezia ad applicare le imposte di consumo in base alla tariffa della classe B. (037U0069)"
+urn: urn:nir:stato:regio.decreto:1937-01-14;69
+codice_redazionale: 037U0069
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,22 @@ Vista la domanda avanzata dal comune di La Spezia per avvalersi della disposizio
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di La Spezia e' autorizzato ad applicare, fino al 31 dicembre 1938-XVII, le imposte di consumo con le aliquote stabilite per la classe B.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 gennaio 1937 - Anno XV   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei canti, addi' 5 febbraio 1937 - Anno XV   
-  
-Atti del Governo, registro 352, foglio 36. - MANCINI.   
+Il comune di La Spezia e' autorizzato ad applicare, fino al 31 dicembre 1938-XVII, le imposte di consumo con le aliquote stabilite per la classe B. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 gennaio 1937 - Anno XV 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei canti, addi' 5 febbraio 1937 - Anno XV 
+ 
+ Atti del Governo, registro 352, foglio 36. - MANCINI.

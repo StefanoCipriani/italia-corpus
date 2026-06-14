@@ -1,21 +1,17 @@
-REGIO DECRETO 24 marzo 1895 n. CCCXCIII
+---
+tipo: REGIO DECRETO
+numero: CCCXCIII
+data: 1895-03-24
+titolo: "Che concentra la fondazione di beneficenza Angelo Guido Torre esistente in Rivalta Bormida (Alessandria), nella locale congregazione di carita' (9500393R)"
+urn: urn:nir:stato:regio.decreto:1895-03-24;393
+codice_redazionale: 9500393R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 marzo 1895 n. CCCXCIII
-=======================================
-
-Che concentra la fondazione di beneficenza Angelo Guido Torre esistente in Rivalta Bormida (Alessandria), nella locale congregazione di carita' (9500393R)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/12/1895
-
-Art. 1
-------
-
-  
-Con cui la fondazione di beneficenza Angelo Guido Torre esistente in Rivalta Bormida (Alessandria), e' concentrata nella locale congregazione di carita'. - Firmato UMBERTO Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei conti addi' 27 novembre 1895.   
-  
-Reg. 201. Atti del Governo a f. 98.   
-  
+Con cui la fondazione di beneficenza Angelo Guido Torre esistente in Rivalta Bormida (Alessandria), e' concentrata nella locale congregazione di carita'. - Firmato UMBERTO Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei conti addi' 27 novembre 1895. 
+ 
+ Reg. 201. Atti del Governo a f. 98.

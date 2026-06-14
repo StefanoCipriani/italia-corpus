@@ -1,19 +1,19 @@
-REGIO DECRETO 22 febbraio 1932 n. 229
+---
+tipo: REGIO DECRETO
+numero: 229
+data: 1932-02-22
+titolo: "Erezione in ente morale dell'Asilo infantile di Motta di Livenza. (032U0229)"
+urn: urn:nir:stato:regio.decreto:1932-02-22;229
+codice_redazionale: 032U0229
+vigente: true
+---
 
-
-REGIO DECRETO 22 febbraio 1932 n. 229
-=====================================
-
-Erezione in ente morale dell'Asilo infantile di Motta di Livenza. (032U0229)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/04/1932
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-229. R. decreto 22 febbraio 1932, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, l'Asilo infantile con sede in Motta di Livenza (Treviso) viene eretto in ente morale, sotto l'amministrazione della Congregazione di carita', e ne e' approvato, con una modifica, lo statuto organico.   
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 25 marzo 1932 - Anno X
+229.
+
+R. decreto 22 febbraio 1932, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, l'Asilo infantile con sede in Motta di Livenza (Treviso) viene eretto in ente morale, sotto l'amministrazione della Congregazione di carita', e ne e' approvato, con una modifica, lo statuto organico. 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 25 marzo 1932 - Anno X

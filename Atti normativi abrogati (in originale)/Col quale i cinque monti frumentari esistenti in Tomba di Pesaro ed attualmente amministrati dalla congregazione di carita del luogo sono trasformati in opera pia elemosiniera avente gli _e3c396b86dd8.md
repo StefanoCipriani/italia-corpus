@@ -1,22 +1,18 @@
-REGIO DECRETO 02 novembre 1902 n. CCCCXIX
+---
+tipo: REGIO DECRETO
+numero: CCCCXIX
+data: 1902-11-02
+titolo: "Col quale i cinque monti frumentari esistenti in Tomba di Pesaro ed attualmente amministrati dalla congregazione di carita' del luogo sono trasformati in opera pia elemosiniera avente gli scopi di cui alle lettere a, c, e ed f dell'art. 55 della legge 17 luglio 1890, n. 6972. (0200419R)"
+urn: urn:nir:stato:regio.decreto:1902-11-02;419
+codice_redazionale: 0200419R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 novembre 1902 n. CCCCXIX
-=========================================
-
-Col quale i cinque monti frumentari esistenti in Tomba di Pesaro ed attualmente amministrati dalla congregazione di carita' del luogo sono trasformati in opera pia elemosiniera avente gli scopi di cui alle lettere a, c, e ed f dell'art. 55 della legge 17 luglio 1890, n. 6972. (0200419R)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/12/1902
-
-Art. 1
-------
-
-  
-Col quale i cinque monti frumentari esistenti in Tomba di Pesaro ed attualmente amministrati dalla congregazione di carita' del luogo sono trasformati in opera pia elemosiniera avente gli scopi di cui alle lettere a, c, e ed f dell'[art. 55 della legge 17 luglio 1890, n. 6972](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972~art55). - Firmato VITTORIO EMANUELE - Controfirmati Giolitti, G.  
-Baccelli - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 3 dicembre 1902.   
-  
-Reg. 7. Atti del Governo a f. 29.   
-  
+Col quale i cinque monti frumentari esistenti in Tomba di Pesaro ed attualmente amministrati dalla congregazione di carita' del luogo sono trasformati in opera pia elemosiniera avente gli scopi di cui alle lettere a, c, e ed f dell'[art. 55 della legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972#art_55). - Firmato VITTORIO EMANUELE - Controfirmati Giolitti, G.
+Baccelli - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 3 dicembre 1902. 
+ 
+ Reg. 7. Atti del Governo a f. 29.

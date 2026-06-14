@@ -1,16 +1,14 @@
-REGIO DECRETO 08 aprile 1937 n. 683
-
-
-REGIO DECRETO 08 aprile 1937 n. 683
-===================================
-
-Istituzione di una sezione del Tribunale militare di Bologna e, temporaneamente, di una sezione del Tribunale militare di Roma. (037U0683)
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/06/1937
+---
+tipo: REGIO DECRETO
+numero: 683
+data: 1937-04-08
+titolo: "Istituzione di una sezione del Tribunale militare di Bologna e, temporaneamente, di una sezione del Tribunale militare di Roma. (037U0683)"
+urn: urn:nir:stato:regio.decreto:1937-04-08;683
+codice_redazionale: 037U0683
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,37 +22,28 @@ Vista la legge 30 maggio 1935-XIII, n. 930, sulla ripartizione del territorio de
 
 Ritenuta la necessita' di istituire una sezione del Tribunale militare di Bologna e, temporaneamente, una sezione del Tribunale militare di Roma;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, per la marina e per l'aeronautica, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, per la marina e per l'aeronautica, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' istituita una sezione del Tribunale militare territoriale di Bologna con sede in Verona, e con giurisdizione sul territorio delle zone militari di Verona e Bolzano.
 
-  
-  
-E' istituita una sezione del Tribunale militare territoriale di Bologna con sede in Verona, e con giurisdizione sul territorio delle zone militari di Verona e Bolzano.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Per la durata di sei mesi dalla data del presente decreto, e' istituita una sezione del Tribunale militare territoriale di Roma con sede in Roma, e con giurisdizione sul territorio delle zone militari di Firenze, Livorno, Perugia, Ancona e sul Comando di difesa territoriale della Sardegna.   
-  
-Tale sezione sara' disciolta anche prima dello scadere dei sei mesi, qualora vengano meno i motivi che ne hanno determinato l'istituzione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 aprile 1937 - Anno XV   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL.   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 19 maggio 1937 - Anno XV   
-  
-Atti del Governo, registro 385, foglio 105. - MANCINI.   
+Per la durata di sei mesi dalla data del presente decreto, e' istituita una sezione del Tribunale militare territoriale di Roma con sede in Roma, e con giurisdizione sul territorio delle zone militari di Firenze, Livorno, Perugia, Ancona e sul Comando di difesa territoriale della Sardegna. 
+ 
+ Tale sezione sara' disciolta anche prima dello scadere dei sei mesi, qualora vengano meno i motivi che ne hanno determinato l'istituzione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 aprile 1937 - Anno XV 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL. 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 19 maggio 1937 - Anno XV 
+ 
+ Atti del Governo, registro 385, foglio 105. - MANCINI.

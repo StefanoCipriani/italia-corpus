@@ -1,19 +1,15 @@
-REGIO DECRETO 02 agosto 1912 n. 890
+---
+tipo: REGIO DECRETO
+numero: 890
+data: 1912-08-02
+titolo: "Applicazione di tassa sul bestiame. (012U0890)"
+urn: urn:nir:stato:regio.decreto:1912-08-02;890
+codice_redazionale: 012U0890
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 agosto 1912 n. 890
-===================================
-
-Applicazione di tassa sul bestiame. (012U0890)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 11/09/1912
-
-Art. 1
-------
-
-  
-N. 890   
-  
-Regio Decreto 2 agosto 1912, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Forza di Agro' di applicare, nel triennio 1912-1914, la tassa sul bestiame, in base alla deliberazione 8 dicembre 1911, di quel R. commissario.   
-  
+N. 890 
+ 
+ Regio Decreto 2 agosto 1912, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Forza di Agro' di applicare, nel triennio 1912-1914, la tassa sul bestiame, in base alla deliberazione 8 dicembre 1911, di quel R. commissario.

@@ -1,16 +1,14 @@
-REGIO DECRETO 22 novembre 1871 n. 548
-
-
-REGIO DECRETO 22 novembre 1871 n. 548
-=====================================
-
-Che autorizza il Comune di Siena a riscuotere un dazio di consumo su alcuni generi. (071U0548)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/12/1871
+---
+tipo: REGIO DECRETO
+numero: 548
+data: 1871-11-22
+titolo: "Che autorizza il Comune di Siena a riscuotere un dazio di consumo su alcuni generi. (071U0548)"
+urn: urn:nir:stato:regio.decreto:1871-11-22;548
+codice_redazionale: 071U0548
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,37 +18,22 @@ Sulla proposta del Ministro della Finanze;
 
 Vista la deliberazione presa dal Consiglio comunale di Siena in seduta del 9 giugno corrente anno concernente la tariffa del dazio comunale di consumo;
 
-Visto l'art. 11 dell'Allegato L alla [legge 11 agosto 1870, n. 5784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784);
+Visto l'art. 11 dell'Allegato L alla [legge 11 agosto 1870, n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md);
 
 Sentito il parere della Camera di Commercio;
 
-Sentito
--------
+Sentito pure il parere del Consiglio di Stato, Abbiamo ordinato ed ordiniamo quanto segue:
 
-pure il parere del Consiglio di Stato, Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Municipio di Siena e' autorizzato a riscuotere un dazio di consumo all'introduzione in citta' sopra nuovi oggetti non compresi nelle solite categorie.   
-  
-Tali oggetti e la misura del rispettivo dazio sono indicati nella qui annessa tariffa vista d'ordine Nostro dal Ministro delle Finanze.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 novembre 1871.   
-  
-VITTORIO EMANUELE.   
-  
-Quintino Sella.   
-  
-
-Tariffa
-
-  
-TARIFFA.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=071U054800100010110001&dgu=1871-12-15&art.dataPubblicazioneGazzetta=1871-12-15&art.codiceRedazionale=071U0548)
-  
+Il Municipio di Siena e' autorizzato a riscuotere un dazio di consumo all'introduzione in citta' sopra nuovi oggetti non compresi nelle solite categorie. 
+ 
+ Tali oggetti e la misura del rispettivo dazio sono indicati nella qui annessa tariffa vista d'ordine Nostro dal Ministro delle Finanze. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 novembre 1871. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Quintino Sella.

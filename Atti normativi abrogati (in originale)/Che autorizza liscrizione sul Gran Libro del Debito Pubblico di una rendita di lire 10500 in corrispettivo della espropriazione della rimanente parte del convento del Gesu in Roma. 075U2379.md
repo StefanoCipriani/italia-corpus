@@ -1,16 +1,14 @@
-REGIO DECRETO 14 febbraio 1875 n. 2379
-
-
-REGIO DECRETO 14 febbraio 1875 n. 2379
-======================================
-
-Che autorizza l'iscrizione sul Gran Libro del Debito Pubblico di una rendita di lire 10,500 in corrispettivo della espropriazione della rimanente parte del convento del Gesu' in Roma. (075U2379)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/03/1875
+---
+tipo: REGIO DECRETO
+numero: 2379
+data: 1875-02-14
+titolo: "Che autorizza l'iscrizione sul Gran Libro del Debito Pubblico di una rendita di lire 10,500 in corrispettivo della espropriazione della rimanente parte del convento del Gesu' in Roma. (075U2379)"
+urn: urn:nir:stato:regio.decreto:1875-02-14;2379
+codice_redazionale: 075U2379
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,49 +16,30 @@ RE D'ITALIA
 
 Sulla proposta del Ministro delle Finanze,
 
-Vista la [legge 3 febbraio 1871, n. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1871-02-03;33) (Serie 2ª), sul trasferimento della capitale, e l'analogo regolamento approvato con Nostro decreto dello stesso giorno, n. 36;
+Vista la [legge 3 febbraio 1871, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1871-02-03;33) (Serie 2ª), sul trasferimento della capitale, e l'analogo regolamento approvato con Nostro decreto dello stesso giorno, n. 36;
 
-Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), estesa alla provincia di Roma con Nostro decreto del 17 novembre 1870 sulle espropriazioni per causa di pubblica utilita';
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), estesa alla provincia di Roma con Nostro decreto del 17 novembre 1870 sulle espropriazioni per causa di pubblica utilita';
 
 Visto il Nostro decreto 13 ottobre 1873, col quale, in seguito al voto della Commissione tecnica governativa, di cui agli articoli 3 e 5 lettere A ed M del suddetto regolamento 3 febbraio 1871 fu espropriata, per causa di utilita' pubblica e per servizio del Governo, la rimanente parte del convento del Gesu' dei PP. Gesuiti, in Roma;
 
 Visto il decreto del 12 gennaio 1875 del Ministro dei Lavori Pubblici, con cui e' accertata in lire diecimilacinquecento la rendita annua netta attribuita all'immobile come sopra espropriato, decorrenda dal 17 novembre 1873, data della presa di possesso di detto immobile;
 
-Vista la [legge 19 giugno 1873, n. 1402](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-06-19;1402), che applica alla provincia di Roma le leggi sulla liquidazione dell'Asse ecclesiastico;
+Vista la [legge 19 giugno 1873, n. 1402](Che%20estende%20alla%20Provincia%20di%20Roma%20le%20Leggi%20sulle%20Corporazioni%20religiose%20e%20sulla%20conversione%20dei%20beni%20immobili%20degli%20Enti%20morali%20ecclesiastici.%20073U1402.md), che applica alla provincia di Roma le leggi sulla liquidazione dell'Asse ecclesiastico;
 
-Ritenuto
---------
+Ritenuto che per le esigenze di amministrazione del Debito Pubblico la inscrizione della rendita suindicata deve farsi con decorrenza dal 1° gennaio 1875, e che al soddisfacimento del prorata d'interessi arretrati dal 17 novembre 1873 a tutto dicembre 1874 la Direzione Generale del Debito Pubblico provvedera' con buoni a parte; Abbiamo decretato e decretiamo quanto segue:
 
-che per le esigenze di amministrazione del Debito Pubblico la inscrizione della rendita suindicata deve farsi con decorrenza dal 1° gennaio 1875, e che al soddisfacimento del prorata d'interessi arretrati dal 17 novembre 1873 a tutto dicembre 1874 la Direzione Generale del Debito Pubblico provvedera' con buoni a parte; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+E' autorizzata la inscrizione nel Gran Libro del Debito Pubblico, in aumento del consolidato 5 per cento, d'una rendita di lire diecimilacinquecento (L. 10,500) con decorrenza di godimento dal 1° gennaio 1875, da intestarsi a favore della Giunta liquidatrice dell'Asse ecclesiastico in Roma, in rappresentanza del convento del Gesu' dei PP. Gesuiti di detta citta'.
 
-  
-  
-E' autorizzata la inscrizione nel Gran Libro del Debito Pubblico, in aumento del consolidato 5 per cento, d'una rendita di lire diecimilacinquecento (L. 10,500) con decorrenza di godimento dal 1° gennaio 1875, da intestarsi a favore della Giunta liquidatrice dell'Asse ecclesiastico in Roma, in rappresentanza del convento del Gesu' dei PP. Gesuiti di detta citta'.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Con buoni a parte la Direzione Generale del Debito Pubblico provvedera' al soddisfacimento, a favore della Giunta sunnominata, del prorata d'interessi dal 17 novembre 1873 a tutto dicembre 1874, nella somma di lire undicimila settecentottantatre' e centesimi trentatre' (L. 11,783 33), dovuto sulla rendita di cui al precedente articolo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 febbraio 1875.   
-  
-VITTORIO EMANUELE.   
-  
-M. Minghetti.   
-  
-
-Tabella
-
-  
-Situazione al 1° gennaio 1875 dei debiti pubblici dello Stato amministrati dalla Direzione Generale del Debito Pubblico.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=075U237900100010110001&dgu=1875-03-03&art.dataPubblicazioneGazzetta=1875-03-03&art.codiceRedazionale=075U2379)
-  
+Con buoni a parte la Direzione Generale del Debito Pubblico provvedera' al soddisfacimento, a favore della Giunta sunnominata, del prorata d'interessi dal 17 novembre 1873 a tutto dicembre 1874, nella somma di lire undicimila settecentottantatre' e centesimi trentatre' (L. 11,783 33), dovuto sulla rendita di cui al precedente articolo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 febbraio 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. Minghetti.

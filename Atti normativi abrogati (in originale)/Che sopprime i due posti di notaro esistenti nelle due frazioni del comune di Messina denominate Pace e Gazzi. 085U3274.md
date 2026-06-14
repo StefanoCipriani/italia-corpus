@@ -1,16 +1,14 @@
-REGIO DECRETO 25 luglio 1885 n. 3274
-
-
-REGIO DECRETO 25 luglio 1885 n. 3274
-====================================
-
-Che sopprime i due posti di notaro esistenti nelle due frazioni del comune di Messina, denominate Pace e Gazzi. (085U3274)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/08/1885
+---
+tipo: REGIO DECRETO
+numero: 3274
+data: 1885-07-25
+titolo: "Che sopprime i due posti di notaro esistenti nelle due frazioni del comune di Messina, denominate Pace e Gazzi. (085U3274)"
+urn: urn:nir:stato:regio.decreto:1885-07-25;3274
+codice_redazionale: 085U3274
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Visto l'art. 4 del testo unico delle leggi sul riordinamento del Notariato, appr
 
 Veduto il nuovo testo della tabella del numero e della residenza dei notari del Regno, approvata con Nostro decreto 11 giugno 1882, n. 810 (Serie 3ª);
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I due posti di notaro rispettivamente assegnati, colla tabella 11 giugno 1882 alle frazioni del comune di Messina, denominate Gazzi e Pace, sono soppressi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Milano, addi' 25 luglio 1885.   
-  
-UMBERTO.   
-  
-Tajani.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+I due posti di notaro rispettivamente assegnati, colla tabella 11 giugno 1882 alle frazioni del comune di Messina, denominate Gazzi e Pace, sono soppressi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Milano, addi' 25 luglio 1885. 
+ 
+ UMBERTO. 
+ 
+ Tajani. 
+ 
+ Visto, Il Guardasigilli: Tajani.

@@ -1,49 +1,32 @@
-REGIO DECRETO-LEGGE 27 ottobre 1937 n. 2007
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 2007
+data: 1937-10-27
+titolo: "Approvazione dell'Accordo stipulato in Roma, mediante scambio di Note, il 26 agosto 1937-XV, fra l'Italia e l'Estonia, per modificare l'Accordo del 6 ottobre 1936-XIV pel regolamento degli scambi commerciali fra i due Paesi. (037U2007)"
+urn: urn:nir:stato:regio.decreto.legge:1937-10-27;2007
+codice_redazionale: 037U2007
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO-LEGGE 27 ottobre 1937 n. 2007
-===========================================
+Piena ed intera esecuzione e' data all'Accordo stipulato in Roma, fra l'Italia e l'Estonia, mediante scambio di Note il 26 agosto 1937 per modificare l'art. 15, dell'Accordo che regola lo sviluppo degli scambi commerciali italo-estoni ed i pagamenti relativi, firmato a Roma il 6 ottobre 1936.
 
-Approvazione dell'Accordo stipulato in Roma, mediante scambio di Note, il 26 agosto 1937-XV, fra l'Italia e l'Estonia, per modificare l'Accordo del 6 ottobre 1936-XIV pel regolamento degli scambi commerciali fra i due Paesi. (037U2007)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/12/1937.  
-Regio Decreto-Legge convertito dalla [L. 11 aprile 1938, n. 438](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-04-11;438) (in G.U. 10/05/1938, n. 105).
-
-Art. 1
-------
-
-  
-  
-Piena ed intera esecuzione e' data all'Accordo stipulato in Roma, fra l'Italia e l'Estonia, mediante scambio di Note il 26 agosto 1937 per modificare l'art. 15, dell'Accordo che regola lo sviluppo degli scambi commerciali italo-estoni ed i pagamenti relativi, firmato a Roma il 6 ottobre 1936.   
-  
-  
-
-Art. 2
-------
-
-  
-  
-Il presente decreto, sara' presentato al Parlamento Nazionale per la sua conversione in legge.   
-  
-Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge di conversione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 27 ottobre 1937 - Anno XV   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Ciano - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 6 dicembre 1937 - Anno XVI   
-Atti del Governo, registro 392, foglio 46. - Mancini.   
-
-Scambio di note
-
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=037U200700100010110001&dgu=1937-12-11&art.dataPubblicazioneGazzetta=1937-12-11&art.codiceRedazionale=037U2007)
-  
-  
+Il presente decreto, sara' presentato al Parlamento Nazionale per la sua conversione in legge. 
+ 
+ Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge di conversione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 27 ottobre 1937 - Anno XV 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Ciano - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 6 dicembre 1937 - Anno XVI  
+ Atti del Governo, registro 392, foglio 46. - Mancini.

@@ -1,16 +1,14 @@
-REGIO DECRETO 26 marzo 1893 n. 265
-
-
-REGIO DECRETO 26 marzo 1893 n. 265
-==================================
-
-Che separa le frazioni di Celle e Villa dal comune di Vicchio e le aggrega a quello di Dicomano. (093U0265)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/06/1893
+---
+tipo: REGIO DECRETO
+numero: 265
+data: 1893-03-26
+titolo: "Che separa le frazioni di Celle e Villa dal comune di Vicchio e le aggrega a quello di Dicomano. (093U0265)"
+urn: urn:nir:stato:regio.decreto:1893-03-26;265
+codice_redazionale: 093U0265
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,38 +22,26 @@ Vedute le deliberazioni dei Consigli comunali di Vicchio e Dicomano, rispettivam
 
 Veduta la deliberazione del Consiglio provinciale di Firenze, in data 28 dicembre 1892;
 
-Veduto
-------
+Veduto l'articolo 17 della legge comunale e provinciale; Abbiamo decretato e decretiamo:
 
-l'articolo 17 della legge comunale e provinciale; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Le frazioni di Celle e Villa sono separate dal comune di Vicchio ed aggregate a quello di Dicomano, a decorrere dal 1° agosto 1893.
 
-  
-  
-Le frazioni di Celle e Villa sono separate dal comune di Vicchio ed aggregate a quello di Dicomano, a decorrere dal 1° agosto 1893.   
+## Art. 2.
 
-Art. 2
-------
+I confini delle due frazioni suddette sono quelli risultanti dalla pianta topografica in data 10 maggio 1892, vistata, d'ordine Nostro, dal Ministro proponente e formante parte integrante del presente decreto.
 
-  
-  
-I confini delle due frazioni suddette sono quelli risultanti dalla pianta topografica in data 10 maggio 1892, vistata, d'ordine Nostro, dal Ministro proponente e formante parte integrante del presente decreto.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Fino alla costituzione dei nuovi Consigli comunali di Vicchio e Dicomano, cui si provvedera' ai termini di legge in base alle liste debitamente riformate, i detti Consigli comunali continueranno nell'esercizio delle loro funzioni astenendosi dal prendere deliberazioni che possano vincolare l'azione dei futuri Consigli.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 26 marzo 1893.   
-  
-UMBERTO.   
-  
-Giolitti.   
-  
-Visto, Il Guardasigilli: Bonacci.   
+Fino alla costituzione dei nuovi Consigli comunali di Vicchio e Dicomano, cui si provvedera' ai termini di legge in base alle liste debitamente riformate, i detti Consigli comunali continueranno nell'esercizio delle loro funzioni astenendosi dal prendere deliberazioni che possano vincolare l'azione dei futuri Consigli. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 marzo 1893. 
+ 
+ UMBERTO. 
+ 
+ Giolitti. 
+ 
+ Visto, Il Guardasigilli: Bonacci.

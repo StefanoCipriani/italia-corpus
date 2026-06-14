@@ -1,16 +1,14 @@
-REGIO DECRETO 04 gennaio 1894 n. 46
-
-
-REGIO DECRETO 04 gennaio 1894 n. 46
-===================================
-
-Che ristabilisce negli Istituti classici d'istruzione secondaria la licenza d'onore, e la gara fra i licenziati d'onore dal Liceo (094U0046)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/03/1894
+---
+tipo: REGIO DECRETO
+numero: 46
+data: 1894-01-04
+titolo: "Che ristabilisce negli Istituti classici d'istruzione secondaria la licenza d'onore, e la gara fra i licenziati d'onore dal Liceo (094U0046)"
+urn: urn:nir:stato:regio.decreto:1894-01-04;46
+codice_redazionale: 094U0046
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,65 +22,38 @@ Considerando quanto importi al bene della patria tenere alto ne'cuori dei giovan
 
 Considerando che non puo' essere senza utili effetti negli animi della gioventu' generosa, il raccogliere in una solenne occasione dalle varie parti d'Italia i vincitori dell'agone liceale, chiamandoli ad una gara d'ingegno qui in Roma, dove, affratellati nell'amore dei comuni studi, potranno rileggere viva e presente in ogni rudere, in ogni sasso, la storia dei loro gloriosi progenitori;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' ristabilita negli Istituti classici d'istruzione secondaria del regno la licenza d'onore, e la gara fra i licenziati d'onore dal liceo.
 
-  
-  
-E' ristabilita negli Istituti classici d'istruzione secondaria del regno la licenza d'onore, e la gara fra i licenziati d'onore dal liceo.   
-  
+## Art. 2.
 
-Art. 2
-------
+Conseguiranno, a cominciare dalla fine del corrente anno scolastico, la licenza d'onore gli studenti dei Ginnasi e Licei regii che, al chiudersi del rispettivo corso quinquennale e triennale, saranno stati, per effetto delle classificazioni annuali, dispensati in ciascun anno e per ciascuna materia dall'esame, ottenendo alla fine dell'ultimo anno la lode, se studenti del Ginnasio, in non meno di tre materie, fra le quali l'italiano ed il latino, se studenti del Liceo, in non meno di quattro, fra le quali pure l'italiano e il latino.
 
-  
-  
-Conseguiranno, a cominciare dalla fine del corrente anno scolastico, la licenza d'onore gli studenti dei Ginnasi e Licei regii che, al chiudersi del rispettivo corso quinquennale e triennale, saranno stati, per effetto delle classificazioni annuali, dispensati in ciascun anno e per ciascuna materia dall'esame, ottenendo alla fine dell'ultimo anno la lode, se studenti del Ginnasio, in non meno di tre materie, fra le quali l'italiano ed il latino, se studenti del Liceo, in non meno di quattro, fra le quali pure l'italiano e il latino.   
-  
+## Art. 3.
 
-Art. 3
-------
+Il conferimento delle licenze d'onore sara' fatto solennemente in tutti i Ginnasi e Licei del Regno, nel giorno della inaugurazione degli studi.
 
-  
-  
-Il conferimento delle licenze d'onore sara' fatto solennemente in tutti i Ginnasi e Licei del Regno, nel giorno della inaugurazione degli studi.   
-  
+## Art. 4.
 
-Art. 4
-------
+Fra i licenziati d'onore dal Liceo sara' indetta ogni anno una gara, da tenersi in Roma, nel tempo e nei modi che verranno determinati da speciale ordinanza ministeriale.
 
-  
-  
-Fra i licenziati d'onore dal Liceo sara' indetta ogni anno una gara, da tenersi in Roma, nel tempo e nei modi che verranno determinati da speciale ordinanza ministeriale.   
-  
+## Art. 5.
 
-Art. 5
-------
+La gara sara' fatta un anno sulla letteratura italiana, e un anno sulla latina, alternativamente. Alla fine del corrente anno scolastico avra' luogo la gara sulla letteratura latina; e l'ordinanza ministeriale stabilira' le prove di essa ed i premi.
 
-  
-  
-La gara sara' fatta un anno sulla letteratura italiana, e un anno sulla latina, alternativamente. Alla fine del corrente anno scolastico avra' luogo la gara sulla letteratura latina; e l'ordinanza ministeriale stabilira' le prove di essa ed i premi.   
-  
+## Art. 6.
 
-Art. 6
-------
-
-  
-  
-E' abrogato l'art. 24 del Nostro decreto 16 settembre 1893, che stabilisce le norme per gli esami negli Istituti d'istruzione secondaria classica.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia; mandando a chiunque spetti di osservarlo e di tizio osservare.   
-  
-Dato a Roma, addi' 4 gennaio 1894.   
-  
-UMBERTO.   
-  
-Baccelli.   
-  
-Visto, Il Guardasigilli: V. Calenda di Tavani.   
-  
+E' abrogato l'art. 24 del Nostro decreto 16 settembre 1893, che stabilisce le norme per gli esami negli Istituti d'istruzione secondaria classica. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia; mandando a chiunque spetti di osservarlo e di tizio osservare. 
+ 
+ Dato a Roma, addi' 4 gennaio 1894. 
+ 
+ UMBERTO. 
+ 
+ Baccelli. 
+ 
+ Visto, Il Guardasigilli: V. Calenda di Tavani.

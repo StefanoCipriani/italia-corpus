@@ -1,19 +1,15 @@
-REGIO DECRETO 03 agosto 1908 n. CCCLXXIV
+---
+tipo: REGIO DECRETO
+numero: CCCLXXIV
+data: 1908-08-03
+titolo: "Riflettente erezione in ente morale. (0800374R)"
+urn: urn:nir:stato:regio.decreto:1908-08-03;374
+codice_redazionale: 0800374R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 agosto 1908 n. CCCLXXIV
-========================================
-
-Riflettente erezione in ente morale. (0800374R)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/10/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCLXXIV (Dato a Sant'Anna di Valdieri, il 3 agosto 1908), col quale l'opera pia Biggi di Parma e' eretta in ente Morale e ne e' approvato lo statuto organico.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCLXXIV (Dato a Sant'Anna di Valdieri, il 3 agosto 1908), col quale l'opera pia Biggi di Parma e' eretta in ente Morale e ne e' approvato lo statuto organico.

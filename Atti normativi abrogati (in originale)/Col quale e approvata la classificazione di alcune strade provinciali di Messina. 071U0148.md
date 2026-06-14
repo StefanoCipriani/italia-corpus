@@ -1,16 +1,14 @@
-REGIO DECRETO 15 marzo 1871 n. 148
-
-
-REGIO DECRETO 15 marzo 1871 n. 148
-==================================
-
-Col quale e' approvata la classificazione di alcune strade provinciali di Messina. (071U0148)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/05/1871
+---
+tipo: REGIO DECRETO
+numero: 148
+data: 1871-03-15
+titolo: "Col quale e' approvata la classificazione di alcune strade provinciali di Messina. (071U0148)"
+urn: urn:nir:stato:regio.decreto:1871-03-15;148
+codice_redazionale: 071U0148
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,37 +26,26 @@ Sentiti il Consiglio superiore dei Lavori Pubblici ed il Consiglio di Stato;
 
 Veduti gli articoli 13 e 14 della Legge 20 marzo 1865 sui lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvata la classificazione delle seguenti strade provinciali di Messina: 
+ 
+ Parte di provvedimento in formato grafico
 
-  
-  
-E' approvata la classificazione delle seguenti strade provinciali di Messina:   
-  
-Parte di provvedimento in formato grafico  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E riservata ogni determinazione riguardo alla classificazione delle strade dalla marina di Capo d'Orlando e da quella di Brolo alla strada da Patti a Randazzo, di cui al n. 5 dell'articolo precedente.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 15 marzo 1871.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 30 marzo 1871   
-Reg. 55 Atti del Governo a c. 60. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli DE FALCO.   
-  
-CASTAGNOLA.   
-  
-  
+E riservata ogni determinazione riguardo alla classificazione delle strade dalla marina di Capo d'Orlando e da quella di Brolo alla strada da Patti a Randazzo, di cui al n. 5 dell'articolo precedente. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 15 marzo 1871. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 30 marzo 1871 
+ Reg. 55 Atti del Governo a c. 60. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli DE FALCO. 
+ 
+ CASTAGNOLA.

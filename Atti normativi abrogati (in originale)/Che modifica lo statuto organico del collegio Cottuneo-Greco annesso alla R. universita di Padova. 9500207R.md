@@ -1,21 +1,17 @@
-REGIO DECRETO 25 luglio 1895 n. CCVII
+---
+tipo: REGIO DECRETO
+numero: CCVII
+data: 1895-07-25
+titolo: "Che modifica lo statuto organico del collegio Cottuneo-Greco annesso alla R. universita' di Padova. (9500207R)"
+urn: urn:nir:stato:regio.decreto:1895-07-25;207
+codice_redazionale: 9500207R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 luglio 1895 n. CCVII
-=====================================
-
-Che modifica lo statuto organico del collegio Cottuneo-Greco annesso alla R. universita' di Padova. (9500207R)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/09/1895
-
-Art. 1
-------
-
-  
-Con cui nell'art. 1 dello statuto organico del collegio Cottuneo-Greco annesso alla R. universita' di Padova approvato col regio decreto 1° ottobre 1894 alle parole lire ottocento sono sostituite le parole lire settecentocinquanta ciascuna, e cosi' pure nell'art. 6 dello statuto alle parole lire ottocento sono sostituite le parole lire settecentocinquanta. - Firmato UMBERTO - Contrassegnato Baccelli - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 26 agosto 1895.   
-  
-Reg. 200. Atti del Governo a f. 41   
-  
+Con cui nell'art. 1 dello statuto organico del collegio Cottuneo-Greco annesso alla R. universita' di Padova approvato col regio decreto 1° ottobre 1894 alle parole lire ottocento sono sostituite le parole lire settecentocinquanta ciascuna, e cosi' pure nell'art. 6 dello statuto alle parole lire ottocento sono sostituite le parole lire settecentocinquanta. - Firmato UMBERTO - Contrassegnato Baccelli - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 26 agosto 1895. 
+ 
+ Reg. 200. Atti del Governo a f. 41

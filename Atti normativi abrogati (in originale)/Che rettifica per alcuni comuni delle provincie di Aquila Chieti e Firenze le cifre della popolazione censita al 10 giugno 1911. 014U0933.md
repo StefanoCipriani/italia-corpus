@@ -1,22 +1,20 @@
-REGIO DECRETO 13 agosto 1914 n. 933
-
-
-REGIO DECRETO 13 agosto 1914 n. 933
-===================================
-
-Che rettifica per alcuni comuni delle provincie di Aquila, Chieti e Firenze le cifre della popolazione censita al 10 giugno 1911. (014U0933)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/09/1914
+---
+tipo: REGIO DECRETO
+numero: 933
+data: 1914-08-13
+titolo: "Che rettifica per alcuni comuni delle provincie di Aquila, Chieti e Firenze le cifre della popolazione censita al 10 giugno 1911. (014U0933)"
+urn: urn:nir:stato:regio.decreto:1914-08-13;933
+codice_redazionale: 014U0933
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 5 dicembre 1912, n. 1333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-12-05;1333), col quale fu fissata per ciascun Comune la popolazione residente o legale censita alla mezzanotte dal 10 all'11 giugno 1911;
+Visto il [R. decreto 5 dicembre 1912, n. 1333](Col%20quale%20viene%20fissata%20la%20popolazione%20legale%20di%20ciascun%20Comune%20del%20Regno%20censita%20alla%20mezzanotte%20dal%2010%20all11%20giugno%201911.%20012U1333.md), col quale fu fissata per ciascun Comune la popolazione residente o legale censita alla mezzanotte dal 10 all'11 giugno 1911;
 
 Visti gli atti riguardanti successivi accertamenti della popolazione dei comuni di Ofena, Villa Santa Lucia degli Abruzzi, Lanciano e Larciano;
 
@@ -26,33 +24,18 @@ Considerato:
 
 2° che nove individui censiti presenti nel comune di Larciano furono compresi tra gli abitanti del comune di Lanciano;
 
-Sulla
------
+Sulla proposta del Nostro ministro per l'agricoltura, l'industria e il commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro per l'agricoltura, l'industria e il commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le cifre della popolazione residente o legale dei comuni di Ofena, Villa Santa Lucia degli Abruzzi, Lanciano e Larciano sono rettificate conformemente all'unita tabella firmata, d'ordine Nostro, dal ministro proponente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 agosto 1914.   
-  
-VITTORIO EMANUELE.   
-  
-Cavasola.   
-  
-Visto, Il guardasigilli: Dari.   
-  
-
-Tabella
-
-  
-TABELLA di rettificazione della popolazione di alcuni Comuni del Regno.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=014U093300100010110001&dgu=1914-09-08&art.dataPubblicazioneGazzetta=1914-09-08&art.codiceRedazionale=014U0933)
-  
+Le cifre della popolazione residente o legale dei comuni di Ofena, Villa Santa Lucia degli Abruzzi, Lanciano e Larciano sono rettificate conformemente all'unita tabella firmata, d'ordine Nostro, dal ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 agosto 1914. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Cavasola. 
+ 
+ Visto, Il guardasigilli: Dari.

@@ -1,16 +1,14 @@
-REGIO DECRETO 08 novembre 1901 n. 468
-
-
-REGIO DECRETO 08 novembre 1901 n. 468
-=====================================
-
-Relativo al riordinamento del personale dei vari Uffici dipendenti dal Ministero della Pubblica Istruzione. (001U0468)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/12/1901
+---
+tipo: REGIO DECRETO
+numero: 468
+data: 1901-11-08
+titolo: "Relativo al riordinamento del personale dei vari Uffici dipendenti dal Ministero della Pubblica Istruzione. (001U0468)"
+urn: urn:nir:stato:regio.decreto:1901-11-08;468
+codice_redazionale: 001U0468
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,106 +22,56 @@ Ritenuto che le funzioni di Economato, ora disugualmente ordinate nelle varie Un
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I posti di vice segretario di ultima classe delle Segreterie universitarie si conferiscono, in seguito a concorso per esame, fra coloro che hanno i requisiti ed il titolo per l'ammissione alla carriera amministrativa del Ministero per la Pubblica Istruzione.
 
-  
-  
-I posti di vice segretario di ultima classe delle Segreterie universitarie si conferiscono, in seguito a concorso per esame, fra coloro che hanno i requisiti ed il titolo per l'ammissione alla carriera amministrativa del Ministero per la Pubblica Istruzione.   
-  
+## Art. 2.
 
-Art. 2
-------
+Su proposta della Commissione di cui all'[articolo 3 del R. decreto 8 novembre 1901, n. 467](Relativo%20al%20riordinamento%20del%20personale%20dei%20vari%20Uffici%20dipendenti%20dal%20Ministero%20della%20Pubblica%20Istruzione.%20001U0467.md), le promozioni di classe si fanno per anzianita' senza demerito, e quelle di grado, per anzianita' congiunta al merito.
 
-  
-  
-Su proposta della Commissione di cui all'[articolo 3 del R. decreto 8 novembre 1901, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-11-08;467~art3), le promozioni di classe si fanno per anzianita' senza demerito, e quelle di grado, per anzianita' congiunta al merito.   
-  
+## Art. 3.
 
-Art. 3
-------
+Le promozioni a direttore di segreteria si conferiscono in seguito a concorso per esame, fra i segretari di 1ª classe.
 
-  
-  
-Le promozioni a direttore di segreteria si conferiscono in seguito a concorso per esame, fra i segretari di 1ª classe.   
-  
+## Art. 4.
 
-Art. 4
-------
+Il direttore di segreteria di 1ª classe e' prescelto dal Ministro fra i direttori di segreteria, i capi di sezione del Ministero ed altri impiegati dipendenti dal Ministero medesimo, con il grado e lo stipendio equivalenti a quelli di direttore di segreteria o capo di sezione del Ministero. Egli dirige la segreteria dell'Universita' di Roma, ed ha l'incarico di visitare tutte le altre segreterie a richiesta del Ministro.
 
-  
-  
-Il direttore di segreteria di 1ª classe e' prescelto dal Ministro fra i direttori di segreteria, i capi di sezione del Ministero ed altri impiegati dipendenti dal Ministero medesimo, con il grado e lo stipendio equivalenti a quelli di direttore di segreteria o capo di sezione del Ministero. Egli dirige la segreteria dell'Universita' di Roma, ed ha l'incarico di visitare tutte le altre segreterie a richiesta del Ministro.   
+## Art. 5.
 
-Art. 5
-------
+Il Ministro stabilisce le norme e nomina la Commissione, volta per volta, per gli esami di ammissione e di promozione.
 
-  
-  
-Il Ministro stabilisce le norme e nomina la Commissione, volta per volta, per gli esami di ammissione e di promozione.   
-  
+## Art. 6.
 
-Art. 6
-------
+Il personale delle segreterie universitarie e' equiparato, per gli effetti di cui all'[articolo 9 del R. decreto 8 novembre 1901, n. 467](Relativo%20al%20riordinamento%20del%20personale%20dei%20vari%20Uffici%20dipendenti%20dal%20Ministero%20della%20Pubblica%20Istruzione.%20001U0467.md), al personale del Ministero per la Pubblica Istruzione della carriera amministrativa.
 
-  
-  
-Il personale delle segreterie universitarie e' equiparato, per gli effetti di cui all'[articolo 9 del R. decreto 8 novembre 1901, n. 467](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-11-08;467~art9), al personale del Ministero per la Pubblica Istruzione della carriera amministrativa.   
-  
+## Art. 7.
 
-Art. 7
-------
+Il ruolo organico del personale delle segreterie universitarie e' approvato in conformita' dell'annessa tabella, firmata, d'ordine Nostro, dal Ministro proponente.
 
-  
-  
-Il ruolo organico del personale delle segreterie universitarie e' approvato in conformita' dell'annessa tabella, firmata, d'ordine Nostro, dal Ministro proponente.   
-  
+## Art. 8.
 
-Art. 8
-------
+Il Ministro ripartisce, secondo il bisogno, il personale anzidetto, salvo quanto e' tassativamente stabilito nelle convenzioni con le Universita' di Catania, Genova, Messina, Modena, Parma, Siena.
 
-  
-  
-Il Ministro ripartisce, secondo il bisogno, il personale anzidetto, salvo quanto e' tassativamente stabilito nelle convenzioni con le Universita' di Catania, Genova, Messina, Modena, Parma, Siena.   
-  
+## Art. 9.
 
-Art. 9
-------
+Tutte le disposizioni contrarie al presente decreto sono abrogate.
 
-  
-  
-Tutte le disposizioni contrarie al presente decreto sono abrogate.   
+## Art. Articolo-transitorio.
 
-Art. Articolo-transitorio
--------------------------
-
-  
-Articolo transitorio.   
-  
-Gli attuali economi rientrano nel ruolo dei segretari delle segreterie universitarie, venendo inscritti nelle classi corrispondenti al loro stipendio. Non possono pero' progredire nella carriera oltre i posti equivalenti a quelli del proprio ruolo, che resta abolito.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli, addi' 8 novembre 1901.   
-  
-VITTORIO EMANUELE.   
-  
-N. NASI.   
-  
-Visto, Il Guardasigilli: COCCO-ORTU.   
-  
-
-Tabella
-
-  
-TABELLA.   
-  
-Ruolo organico delle segreterie universitarie.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=001U046800100010110001&dgu=1901-11-18&art.dataPubblicazioneGazzetta=1901-11-18&art.codiceRedazionale=001U0468)
-  
+Articolo transitorio. 
+ 
+ Gli attuali economi rientrano nel ruolo dei segretari delle segreterie universitarie, venendo inscritti nelle classi corrispondenti al loro stipendio. Non possono pero' progredire nella carriera oltre i posti equivalenti a quelli del proprio ruolo, che resta abolito. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli, addi' 8 novembre 1901. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ N. NASI. 
+ 
+ Visto, Il Guardasigilli: COCCO-ORTU.

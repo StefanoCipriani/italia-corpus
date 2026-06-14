@@ -1,16 +1,14 @@
-REGIO DECRETO 03 ottobre 1941 n. 1155
-
-
-REGIO DECRETO 03 ottobre 1941 n. 1155
-=====================================
-
-Modificazioni al ruolo dei medici del Corpo sanitario dell'Africa italiana. (041U1155)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/11/1941
+---
+tipo: REGIO DECRETO
+numero: 1155
+data: 1941-10-03
+titolo: "Modificazioni al ruolo dei medici del Corpo sanitario dell'Africa italiana. (041U1155)"
+urn: urn:nir:stato:regio.decreto:1941-10-03;1155
+codice_redazionale: 041U1155
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,41 +30,28 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'Africa Italiana di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per l'Africa Italiana di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Nel ruolo dei medici del Corpo sanitario dell'Africa italiana e' aggiunto un terzo posto di ispettore generale di sanita' (grado 5°, gruppo A.). 
+ 
+ Nello stesso ruolo il numero degli ispettori di sanita' di 1° classe (grado 6°, gruppo A) viene ridotto da sette a sei unita'.
 
-  
-  
-Nel ruolo dei medici del Corpo sanitario dell'Africa italiana e' aggiunto un terzo posto di ispettore generale di sanita' (grado 5°, gruppo A.).   
-  
-Nello stesso ruolo il numero degli ispettori di sanita' di 1° classe (grado 6°, gruppo A) viene ridotto da sette a sei unita'.   
-  
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Al conferimento del posto di grado 5°, istituito con la disposizione di cui al precedente articolo, sara' provveduto mediante promozione per merito comparativo, su designazione del Consiglio di amministrazione, fra i funzionari appartenenti al ruolo dei medici del Corpo sanitario dell'Africa italiana che abbiano compiuto almeno un anno e mezzo di effettivo servizio nel grado 6°.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi'. 3 ottobre 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Teruzzi - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 28 ottobre 1941-XIX   
-  
-Atti del Governo, registro 438, foglio 64. - MANCINI   
-  
-  
+Al conferimento del posto di grado 5°, istituito con la disposizione di cui al precedente articolo, sara' provveduto mediante promozione per merito comparativo, su designazione del Consiglio di amministrazione, fra i funzionari appartenenti al ruolo dei medici del Corpo sanitario dell'Africa italiana che abbiano compiuto almeno un anno e mezzo di effettivo servizio nel grado 6°. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi'. 3 ottobre 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Teruzzi - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 28 ottobre 1941-XIX 
+ 
+ Atti del Governo, registro 438, foglio 64. - MANCINI

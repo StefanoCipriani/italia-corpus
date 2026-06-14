@@ -1,16 +1,14 @@
-REGIO DECRETO 09 febbraio 1942 n. 84
-
-
-REGIO DECRETO 09 febbraio 1942 n. 84
-====================================
-
-Autorizzazione al comune di Cosenza ad applicare, fino al 31 dicembre 1942, le imposte di consumo in base alla tariffa stabilita per i Comuni della classe D. (042U0084)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/03/1942
+---
+tipo: REGIO DECRETO
+numero: 84
+data: 1942-02-09
+titolo: "Autorizzazione al comune di Cosenza ad applicare, fino al 31 dicembre 1942, le imposte di consumo in base alla tariffa stabilita per i Comuni della classe D. (042U0084)"
+urn: urn:nir:stato:regio.decreto:1942-02-09;84
+codice_redazionale: 042U0084
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,22 @@ Vista l'istanza avanzata dal comune di Cosenza per avvalersi delle disposizioni 
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato,e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato,e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Cosenza e' autorizzato ad applicare, fino al 31 dicembre 1942, le imposte di consumo in base alla tariffa stabilita per i Comuni della classe D.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 febbraio 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti addi' 24 febbraio 1942-XX   
-  
-Atti del Governo, registro 442, foglio 78. - MANCINI   
+Il comune di Cosenza e' autorizzato ad applicare, fino al 31 dicembre 1942, le imposte di consumo in base alla tariffa stabilita per i Comuni della classe D. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 febbraio 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+ Visto il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti addi' 24 febbraio 1942-XX 
+ 
+ Atti del Governo, registro 442, foglio 78. - MANCINI

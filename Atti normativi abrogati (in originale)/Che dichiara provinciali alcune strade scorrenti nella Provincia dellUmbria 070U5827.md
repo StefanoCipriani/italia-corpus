@@ -1,16 +1,14 @@
-REGIO DECRETO 11 agosto 1870 n. 5827
-
-
-REGIO DECRETO 11 agosto 1870 n. 5827
-====================================
-
-Che dichiara provinciali alcune strade scorrenti nella Provincia dell'Umbria (070U5827)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/10/1870
+---
+tipo: REGIO DECRETO
+numero: 5827
+data: 1870-08-11
+titolo: "Che dichiara provinciali alcune strade scorrenti nella Provincia dell'Umbria (070U5827)"
+urn: urn:nir:stato:regio.decreto:1870-08-11;5827
+codice_redazionale: 070U5827
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,7 +22,7 @@ Viste le opposizioni inoltrate dai Municipi di Monte Castrilli, Baschi ed Orviet
 
 Visti i voti 17 aprile e 4 maggio 1867, 20 febbraio 1869 e 28 maggio 1870 del Consiglio superiore dei Lavori Pubblici;
 
-Visti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della Legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato F;
+Visti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [14 della Legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), allegato F;
 
 Considerando:
 
@@ -38,37 +36,22 @@ Che l'interpretazione piuttosto larga, data dal Consiglio provinciale di Perugia
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono respinte le opposizioni dei Comuni di Monte Castrilli, Baschi ed Orvieto, e sono dichiarate provinciali le cinquanta strade dell'Umbria, descritte nell'Elenco stato compilato dalla Deputazione provinciale di Perugia in senso delle sopracitate deliberazioni di quel Consiglio; quale Elenco, visto d'ordine Nostro dal predetto Ministro, sara' unito a questo Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 11 agosto 1870.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 25 agosto 1870   
-  
-Reg. 52 Atti del Governo a c. 66. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Gadda.   
-  
-
-Elenco
-
-  
-ELENCO delle strade provinciali della provincia dell'Umbria.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=070U582700100010110001&dgu=1870-09-17&art.dataPubblicazioneGazzetta=1870-09-17&art.codiceRedazionale=070U5827)
-  
+Sono respinte le opposizioni dei Comuni di Monte Castrilli, Baschi ed Orvieto, e sono dichiarate provinciali le cinquanta strade dell'Umbria, descritte nell'Elenco stato compilato dalla Deputazione provinciale di Perugia in senso delle sopracitate deliberazioni di quel Consiglio; quale Elenco, visto d'ordine Nostro dal predetto Ministro, sara' unito a questo Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 11 agosto 1870. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 25 agosto 1870 
+ 
+ Reg. 52 Atti del Governo a c. 66. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Gadda.

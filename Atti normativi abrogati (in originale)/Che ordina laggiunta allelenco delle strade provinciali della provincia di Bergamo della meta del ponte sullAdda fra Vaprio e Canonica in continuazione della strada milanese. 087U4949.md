@@ -1,16 +1,14 @@
-REGIO DECRETO 10 luglio 1887 n. 4949
-
-
-REGIO DECRETO 10 luglio 1887 n. 4949
-====================================
-
-Che ordina l'aggiunta all'elenco delle strade provinciali della provincia di Bergamo della meta' del ponte sull'Adda, fra Vaprio e Canonica in continuazione della strada milanese. (087U4949)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/10/1887
+---
+tipo: REGIO DECRETO
+numero: 4949
+data: 1887-07-10
+titolo: "Che ordina l'aggiunta all'elenco delle strade provinciali della provincia di Bergamo della meta' del ponte sull'Adda, fra Vaprio e Canonica in continuazione della strada milanese. (087U4949)"
+urn: urn:nir:stato:regio.decreto:1887-07-10;4949
+codice_redazionale: 087U4949
+vigente: true
+---
 
 UMBERTO
--------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -36,25 +34,18 @@ Vista la legge 20 marzo 1865, allegato F;
 
 Udito l'avviso del Consiglio Superiore dei Lavori Pubblici e del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo 1.
 
-Articolo 1
-----------
-
-  
-  
-All'elenco delle strade provinciali della provincia di Bergamo e' aggiunta la meta' del ponte sull'Adda, fra Vaprio e Canonica, in continuazione della strada Milanese.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 10 luglio 1887.   
-  
-UMBERTO.   
-  
-G. Saracco.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+All'elenco delle strade provinciali della provincia di Bergamo e' aggiunta la meta' del ponte sull'Adda, fra Vaprio e Canonica, in continuazione della strada Milanese. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 luglio 1887. 
+ 
+ UMBERTO. 
+ 
+ G. Saracco. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

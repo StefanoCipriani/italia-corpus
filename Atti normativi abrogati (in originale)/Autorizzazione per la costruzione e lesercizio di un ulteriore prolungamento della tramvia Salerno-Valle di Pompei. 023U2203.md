@@ -1,16 +1,14 @@
-REGIO DECRETO 27 settembre 1923 n. 2203
-
-
-REGIO DECRETO 27 settembre 1923 n. 2203
-=======================================
-
-Autorizzazione per la costruzione e l'esercizio di un ulteriore prolungamento della tramvia Salerno-Valle di Pompei. (023U2203)
--------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/11/1923
+---
+tipo: REGIO DECRETO
+numero: 2203
+data: 1923-09-27
+titolo: "Autorizzazione per la costruzione e l'esercizio di un ulteriore prolungamento della tramvia Salerno-Valle di Pompei. (023U2203)"
+urn: urn:nir:stato:regio.decreto:1923-09-27;2203
+codice_redazionale: 023U2203
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,41 +26,28 @@ Visto il testo unico delle leggi riguardante la concessione all'industria privat
 
 Udito il Consiglio superiore dei lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+In deroga all'art. 2 cel disciplinare 12 novembre 1907, approvato col Nostro decreto 21 novembre 1907, n. DLXXXIII (parte supplementare), la Societa' anonima per le tramvie elettriche della provincia di Salerno e' autorizzata a costruire ed esercitare un ulteriore prolungamento della tramvia Salerno-Valle di Pompei, nell'abitato di Valle, fino a raggiungere il piazzale della stazione della ferrovia circumvesuviana, secondo il progetto presentato dalla Societa' stessa e portante il bollo 1° marzo 1923 dell'ufficio del registro di Pagani, nonche' sotto l'osservanza delle norme contenute nel voto 30 luglio 1923, n. 2406, del Consiglio superiore dei lavori pubblici.
 
-  
-  
-In deroga all'art. 2 cel disciplinare 12 novembre 1907, approvato col Nostro decreto 21 novembre 1907, n. DLXXXIII (parte supplementare), la Societa' anonima per le tramvie elettriche della provincia di Salerno e' autorizzata a costruire ed esercitare un ulteriore prolungamento della tramvia Salerno-Valle di Pompei, nell'abitato di Valle, fino a raggiungere il piazzale della stazione della ferrovia circumvesuviana, secondo il progetto presentato dalla Societa' stessa e portante il bollo 1° marzo 1923 dell'ufficio del registro di Pagani, nonche' sotto l'osservanza delle norme contenute nel voto 30 luglio 1923, n. 2406, del Consiglio superiore dei lavori pubblici.   
-  
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-La presente concessione e' subordinata all'osservanza delle leggi e regolamento sopracitati, del disciplinare 12 novembre 1907 su accennato (in quanto non sia altrimenti disposto col presente decreto), e delle speciali prescrizioni di sicurezza che saranno riconosciute necessarie all'atto della visita di collaudo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 27 settembre 1923.   
-  
-  
-VITTORIO EMANUELE.   
-  
-  
-Carnazza.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 23 ottobre 1923.   
-  
-Atti del Governo, registro 217, foglio 203. - Granata.   
-  
-  
+La presente concessione e' subordinata all'osservanza delle leggi e regolamento sopracitati, del disciplinare 12 novembre 1907 su accennato (in quanto non sia altrimenti disposto col presente decreto), e delle speciali prescrizioni di sicurezza che saranno riconosciute necessarie all'atto della visita di collaudo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 27 settembre 1923. 
+ 
+ 
+ VITTORIO EMANUELE. 
+ 
+ 
+ Carnazza. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 23 ottobre 1923. 
+ 
+ Atti del Governo, registro 217, foglio 203. - Granata.

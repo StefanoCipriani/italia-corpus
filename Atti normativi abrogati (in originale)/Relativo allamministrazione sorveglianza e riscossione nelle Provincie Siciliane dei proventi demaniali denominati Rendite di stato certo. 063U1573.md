@@ -1,16 +1,14 @@
-REGIO DECRETO 06 dicembre 1863 n. 1573
-
-
-REGIO DECRETO 06 dicembre 1863 n. 1573
-======================================
-
-Relativo all'amministrazione, sorveglianza e riscossione nelle Provincie Siciliane dei proventi demaniali denominati Rendite di stato certo. (063U1573)
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/01/1864
+---
+tipo: REGIO DECRETO
+numero: 1573
+data: 1863-12-06
+titolo: "Relativo all'amministrazione, sorveglianza e riscossione nelle Provincie Siciliane dei proventi demaniali denominati Rendite di stato certo. (063U1573)"
+urn: urn:nir:stato:regio.decreto:1863-12-06;1573
+codice_redazionale: 063U1573
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,37 +24,26 @@ Ritenuto che i proventi sotto la denominazione di Rendite di stato certo nelle P
 
 Sulla proposizione del Ministro delle Finanze;
 
-Sentito
--------
+Sentito il parere del Consiglio di Stato; Abbiamo ordinato ed ordiniamo quanto segue:
 
-il parere del Consiglio di Stato; Abbiamo ordinato ed ordiniamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+A partire dal 1.° gennaio 1864, l'amministrazione, sorveglianza e riscossione nelle Provincie Siciliane dei proventi demaniali sotto la denominazione di Rendite di stato certo, spettera' alle Direzioni del Demanio ed agli Agenti demaniali che da esse Amministrazioni dipendono.
 
-  
-  
-A partire dal 1.° gennaio 1864, l'amministrazione, sorveglianza e riscossione nelle Provincie Siciliane dei proventi demaniali sotto la denominazione di Rendite di stato certo, spettera' alle Direzioni del Demanio ed agli Agenti demaniali che da esse Amministrazioni dipendono.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Ogni anteriore disposizione contraria al presente Decreto rimane abrogata.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 6 dicembre 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 15 dicembre 1863   
-  
-Reg.° 27 Atti del Governo a c. 72. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-M. Minghetti.   
-  
+Ogni anteriore disposizione contraria al presente Decreto rimane abrogata. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 6 dicembre 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 15 dicembre 1863 
+ 
+ Reg.° 27 Atti del Governo a c. 72. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ M. Minghetti.

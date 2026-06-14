@@ -1,16 +1,14 @@
-REGIO DECRETO 27 agosto 1871 n. 437
-
-
-REGIO DECRETO 27 agosto 1871 n. 437
-===================================
-
-Concernente le strade provinciali della provincia di Trapani. (071U0437)
-------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/10/1871
+---
+tipo: REGIO DECRETO
+numero: 437
+data: 1871-08-27
+titolo: "Concernente le strade provinciali della provincia di Trapani. (071U0437)"
+urn: urn:nir:stato:regio.decreto:1871-08-27;437
+codice_redazionale: 071U0437
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Veduto il voto emesso dal Consiglio Superiore dei Lavori Pubblici in adunanza de
 
 Ritenuto che non venne presentato alcun reclamo contro la predetta aggiunta;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata l'aggiunta all'elenco delle strade provinciali di Trapani della via denominata Sapone, che partendo dall'abitato di Paceco mette alla nazionale da Trapani a Palermo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 27 agosto 1871.   
-  
-VITTORIO EMANUELE.   
-  
-G. Gadda.   
-  
+E' approvata l'aggiunta all'elenco delle strade provinciali di Trapani della via denominata Sapone, che partendo dall'abitato di Paceco mette alla nazionale da Trapani a Palermo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 27 agosto 1871. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Gadda.

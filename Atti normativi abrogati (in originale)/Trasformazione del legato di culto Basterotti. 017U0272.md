@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 28 gennaio 1917 n. 272
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 272
+data: 1917-01-28
+titolo: "Trasformazione del legato di culto Basterotti. (017U0272)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-01-28;272
+codice_redazionale: 017U0272
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 28 gennaio 1917 n. 272
-==============================================
-
-Trasformazione del legato di culto Basterotti. (017U0272)
----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/03/1917
-
-Art. 1
-------
-
-  
-N. 272   
-  
-Decreto Luogotenenziale 28 gennaio 1917, col quale, sulla proposta del ministro dell'interno, il legato di culto Basterotti, in Castelnuovo Magra, e' trasformato nel senso che le relative rendite sono devolute a favore degli inabili al lavoro di quel Comune.   
-  
+N. 272 
+ 
+ Decreto Luogotenenziale 28 gennaio 1917, col quale, sulla proposta del ministro dell'interno, il legato di culto Basterotti, in Castelnuovo Magra, e' trasformato nel senso che le relative rendite sono devolute a favore degli inabili al lavoro di quel Comune.

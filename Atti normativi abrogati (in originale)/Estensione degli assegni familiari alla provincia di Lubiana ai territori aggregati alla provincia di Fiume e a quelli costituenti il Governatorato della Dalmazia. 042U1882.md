@@ -1,16 +1,14 @@
-REGIO DECRETO 21 dicembre 1942 n. 1882
-
-
-REGIO DECRETO 21 dicembre 1942 n. 1882
-======================================
-
-Estensione degli assegni familiari alla provincia di Lubiana, ai territori aggregati alla provincia di Fiume e a quelli costituenti il Governatorato della Dalmazia. (042U1882)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/07/1943
+---
+tipo: REGIO DECRETO
+numero: 1882
+data: 1942-12-21
+titolo: "Estensione degli assegni familiari alla provincia di Lubiana, ai territori aggregati alla provincia di Fiume e a quelli costituenti il Governatorato della Dalmazia. (042U1882)"
+urn: urn:nir:stato:regio.decreto:1942-12-21;1882
+codice_redazionale: 042U1882
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,33 +26,26 @@ Ritenuta la necessita' di estendere alla provincia di Lubiana e ai territori sud
 
 Sentito il Consiglio dei Ministri;
 
-Rulla
------
+Rulla proposta del DUCE del Fascismo, Capo del Governo, Primo Ministro Segretario di Stato, e del Ministro Segretario di Stato per le corporazioni, di concerto con i Ministri per gli affari esteri, per le finanze e per la grazia e giustizia; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Primo Ministro Segretario di Stato, e del Ministro Segretario di Stato per le corporazioni, di concerto con i Ministri per gli affari esteri, per le finanze e per la grazia e giustizia; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-  
-Sono estesi alla provincia di Lubiana, ai territori aggregati alla provincia di Fiume e a quelli costituenti li Governatorato della Dalmazia il R. decreto-legge 17 giugno 1937-XV, n. 1048, per il perfezionamento e la generalizzazione degli assegni familiari, convertito con modifica nella legge 23 ottobre 1938-XVI, numero 2233, il R. decreto 21 luglio 1937-XV, n. 1239, contenente norme integrative per l'attuazione del Regio decreto-legge predetto, la legge 6 agosto 1940-XVIII, n. 1278, sulla istituzione della Cassa unica per gli assegni familiari e sulla disciplina della corresponsione degli assegni stessi al personale, non usufruente di un trattamento di famiglia, delle Amministrazioni dello Stato e degli Enti pubblici, e il R. decreto legge 20 marzo 1941-XIX, n. 122, per l'aumento degli assegni familiari convertito nella legge 1° agosto 1941 XIX, n. 984   
-  
-Con decreti Reali, da eminarsi ai sensi dell'art. 1, n. 1. della legge 31 gennaio 1926-IV, n. 100, su pro posta del 51 Ministro per le corporazioni di concerto col Ministro per le finanze, saranno emanate le norme per la sua attuazione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 dicembre 1942-XXI   
-  
-VITTORIO EMANUELE   
-  
-  
-MUSSOLINI - RICCI - CIANO - Di REVEL - GRANDI   
-  
-  
-Visto, il Guardasiggilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 7 maggio 1943-XXI   
-  
-Atti del Governo, registro 457, foglio 21. - MANCINI.   
+Sono estesi alla provincia di Lubiana, ai territori aggregati alla provincia di Fiume e a quelli costituenti li Governatorato della Dalmazia il R. decreto-legge 17 giugno 1937-XV, n. 1048, per il perfezionamento e la generalizzazione degli assegni familiari, convertito con modifica nella legge 23 ottobre 1938-XVI, numero 2233, il R. decreto 21 luglio 1937-XV, n. 1239, contenente norme integrative per l'attuazione del Regio decreto-legge predetto, la legge 6 agosto 1940-XVIII, n. 1278, sulla istituzione della Cassa unica per gli assegni familiari e sulla disciplina della corresponsione degli assegni stessi al personale, non usufruente di un trattamento di famiglia, delle Amministrazioni dello Stato e degli Enti pubblici, e il R. decreto legge 20 marzo 1941-XIX, n. 122, per l'aumento degli assegni familiari convertito nella legge 1° agosto 1941 XIX, n. 984 
+ 
+ Con decreti Reali, da eminarsi ai sensi dell'art. 1, n. 1. della legge 31 gennaio 1926-IV, n. 100, su pro posta del 51 Ministro per le corporazioni di concerto col Ministro per le finanze, saranno emanate le norme per la sua attuazione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 21 dicembre 1942-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ 
+ MUSSOLINI - RICCI - CIANO - Di REVEL - GRANDI 
+ 
+ 
+ Visto, il Guardasiggilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 7 maggio 1943-XXI 
+ 
+ Atti del Governo, registro 457, foglio 21. - MANCINI.

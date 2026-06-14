@@ -1,19 +1,15 @@
-REGIO DECRETO 11 luglio 1913 n. 945
+---
+tipo: REGIO DECRETO
+numero: 945
+data: 1913-07-11
+titolo: "Riduzione di contributo. (013U0945)"
+urn: urn:nir:stato:regio.decreto:1913-07-11;945
+codice_redazionale: 013U0945
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 luglio 1913 n. 945
-===================================
-
-Riduzione di contributo. (013U0945)
------------------------------------
-
-Entrata in vigore del provvedimento: 02/09/1913
-
-Art. 1
-------
-
-  
-N. 945   
-  
-Regio Decreto 11 luglio 1913, col quale, sulla proposta del ministro d'agricoltura, industria e commercio, si riduce il contributo dato all'Erario, dal Consorzio di bonificazione dell'Agro mantovano-reggiano.   
-  
+N. 945 
+ 
+ Regio Decreto 11 luglio 1913, col quale, sulla proposta del ministro d'agricoltura, industria e commercio, si riduce il contributo dato all'Erario, dal Consorzio di bonificazione dell'Agro mantovano-reggiano.

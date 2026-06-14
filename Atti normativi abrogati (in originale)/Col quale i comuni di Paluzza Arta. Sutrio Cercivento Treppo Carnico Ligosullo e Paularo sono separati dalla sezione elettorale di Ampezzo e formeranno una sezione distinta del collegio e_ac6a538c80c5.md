@@ -1,16 +1,14 @@
-REGIO DECRETO 08 ottobre 1876 n. 3389
-
-
-REGIO DECRETO 08 ottobre 1876 n. 3389
-=====================================
-
-Col quale i comuni di Paluzza, Arta. Sutrio Cercivento, Treppo Carnico, Ligosullo e Paularo sono separati dalla sezione elettorale di Ampezzo e formeranno una sezione distinta del collegio elettorale di Tolmezzo. (076U3389)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/10/1876
+---
+tipo: REGIO DECRETO
+numero: 3389
+data: 1876-10-08
+titolo: "Col quale i comuni di Paluzza, Arta. Sutrio Cercivento, Treppo Carnico, Ligosullo e Paularo sono separati dalla sezione elettorale di Ampezzo e formeranno una sezione distinta del collegio elettorale di Tolmezzo. (076U3389)"
+urn: urn:nir:stato:regio.decreto:1876-10-08;3389
+codice_redazionale: 076U3389
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Paluzza, Arta, Sutrio, Cercivento, Treppo Carnico, Ligusullo e Paularo sono separati dalla sezione elettorale di Ampezzo e formeranno una sezione distinta del Collegio elettorale di Tolmezzo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 8 ottobre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
-  
+I comuni di Paluzza, Arta, Sutrio, Cercivento, Treppo Carnico, Ligusullo e Paularo sono separati dalla sezione elettorale di Ampezzo e formeranno una sezione distinta del Collegio elettorale di Tolmezzo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 8 ottobre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

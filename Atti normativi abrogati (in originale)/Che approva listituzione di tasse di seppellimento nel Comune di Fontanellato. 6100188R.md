@@ -1,19 +1,15 @@
-REGIO DECRETO 24 ottobre 1861 n. CLXXXVIII
+---
+tipo: REGIO DECRETO
+numero: CLXXXVIII
+data: 1861-10-24
+titolo: "Che approva l'istituzione di tasse di seppellimento nel Comune di Fontanellato. (6100188R)"
+urn: urn:nir:stato:regio.decreto:1861-10-24;188
+codice_redazionale: 6100188R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 ottobre 1861 n. CLXXXVIII
-==========================================
-
-Che approva l'istituzione di tasse di seppellimento nel Comune di Fontanellato. (6100188R)
-------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/10/1861
-
-Art. 1
-------
-
-  
-Che approva la deliberazione 21 novembre 1860 del Municipio di Fontanellato (Provincia di Parma) relativa all'instituzione in quel Comune di tasse di seppellimento.   
-  
-Torino 24 ottobre 1861   
-  
+Che approva la deliberazione 21 novembre 1860 del Municipio di Fontanellato (Provincia di Parma) relativa all'instituzione in quel Comune di tasse di seppellimento. 
+ 
+ Torino 24 ottobre 1861

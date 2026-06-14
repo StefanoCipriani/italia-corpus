@@ -1,16 +1,14 @@
-REGIO DECRETO 02 giugno 1870 n. 5687
-
-
-REGIO DECRETO 02 giugno 1870 n. 5687
-====================================
-
-I Comuni di Quero, Vas e di Alano di Piave costituiranno una Sezione del Collegio elettorale di Feltre. (070U5687)
-------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/07/1870
+---
+tipo: REGIO DECRETO
+numero: 5687
+data: 1870-06-02
+titolo: "I Comuni di Quero, Vas e di Alano di Piave costituiranno una Sezione del Collegio elettorale di Feltre. (070U5687)"
+urn: urn:nir:stato:regio.decreto:1870-06-02;5687
+codice_redazionale: 070U5687
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nei Comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Quero, Vas e di Alano di Piave costituiranno d'ora in poi una Sezione del Collegio elettorale di Feltre, n. 445, la quale avra' sede nel capoluogo del Comune di Quero.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 2 giugno 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 9 giugno 1870   
-  
-Reg. 51 Atti del Governo a c. 112. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Lanza.   
-  
+I Comuni di Quero, Vas e di Alano di Piave costituiranno d'ora in poi una Sezione del Collegio elettorale di Feltre, n. 445, la quale avra' sede nel capoluogo del Comune di Quero. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 2 giugno 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 9 giugno 1870 
+ 
+ Reg. 51 Atti del Governo a c. 112. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Lanza.

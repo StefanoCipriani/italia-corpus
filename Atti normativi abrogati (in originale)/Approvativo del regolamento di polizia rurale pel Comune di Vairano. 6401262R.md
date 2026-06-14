@@ -1,19 +1,15 @@
-REGIO DECRETO 08 giugno 1864 n. MCCLXII
+---
+tipo: REGIO DECRETO
+numero: MCCLXII
+data: 1864-06-08
+titolo: "Approvativo del regolamento di polizia rurale pel Comune di Vairano. (6401262R)"
+urn: urn:nir:stato:regio.decreto:1864-06-08;1262
+codice_redazionale: 6401262R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 giugno 1864 n. MCCLXII
-=======================================
-
-Approvativo del regolamento di polizia rurale pel Comune di Vairano. (6401262R)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/06/1864
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia rurale del Comune di Vairano, in Terra di Lavoro, del 13 maggio corrente anno.   
-  
-Torino 8 giugno 1864   
-  
+Che approva il regolamento di polizia rurale del Comune di Vairano, in Terra di Lavoro, del 13 maggio corrente anno. 
+ 
+ Torino 8 giugno 1864

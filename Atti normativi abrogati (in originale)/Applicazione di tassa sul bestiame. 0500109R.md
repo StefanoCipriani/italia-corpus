@@ -1,19 +1,15 @@
-REGIO DECRETO 14 maggio 1905 n. CIX
+---
+tipo: REGIO DECRETO
+numero: CIX
+data: 1905-05-14
+titolo: "Applicazione di tassa sul bestiame. (0500109R)"
+urn: urn:nir:stato:regio.decreto:1905-05-14;109
+codice_redazionale: 0500109R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 maggio 1905 n. CIX
-===================================
-
-Applicazione di tassa sul bestiame. (0500109R)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 17/06/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CIX (Dato a Roma, il 14 maggio 1905), col quale e' data facolta' al comune di Filottrano, di applicare nell'anno 1905, la tassa sul bestiame in base alla tariffa deliberata nell'adunanza consiliare del 3 dicembre 1904.   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CIX (Dato a Roma, il 14 maggio 1905), col quale e' data facolta' al comune di Filottrano, di applicare nell'anno 1905, la tassa sul bestiame in base alla tariffa deliberata nell'adunanza consiliare del 3 dicembre 1904.

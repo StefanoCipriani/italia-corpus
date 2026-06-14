@@ -1,16 +1,14 @@
-REGIO DECRETO 19 ottobre 1862 n. 907
-
-
-REGIO DECRETO 19 ottobre 1862 n. 907
-====================================
-
-Che determina il numero, lo stipendio e la classe dei Commessi presso le Segreterie giudiziarie di Sicilia, e lo stipendio del Segretario dell'Ufficio del Procuratore Generale presso la Corte di Cassazione. (062U0907)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/11/1862
+---
+tipo: REGIO DECRETO
+numero: 907
+data: 1862-10-19
+titolo: "Che determina il numero, lo stipendio e la classe dei Commessi presso le Segreterie giudiziarie di Sicilia, e lo stipendio del Segretario dell'Ufficio del Procuratore Generale presso la Corte di Cassazione. (062U0907)"
+urn: urn:nir:stato:regio.decreto:1862-10-19;907
+codice_redazionale: 062U0907
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,80 +28,28 @@ Ritenuto ancora che per effetto delle disposizioni precitate e di quelle del pre
 
 Vista la facolta' data al Governo dall'art. 4 della legge 19 gennaio 1862, n.° 421;
 
-Sulla
------
+Sulla proposizione del Presidente del Consiglio dei Ministri incaricato di reggere interinalmente il Ministero di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposizione del Presidente del Consiglio dei Ministri incaricato di reggere interinalmente il Ministero di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il numero, lo stipendio e la classe dei Commessi presso le segreterie giudiziarie di Sicilia, comprese quelle dei Tribunali di Commercio, rimangono stabiliti nella conformita' apparente dalle tabelle annesse al presente Decreto, e firmate d'ordine Nostro dall'anzidetto Guardasigilli.
 
-  
-  
-Il numero, lo stipendio e la classe dei Commessi presso le segreterie giudiziarie di Sicilia, comprese quelle dei Tribunali di Commercio, rimangono stabiliti nella conformita' apparente dalle tabelle annesse al presente Decreto, e firmate d'ordine Nostro dall'anzidetto Guardasigilli.   
-  
-
-Art. 2
-------
+## Art. 2.
 
 Lo stipendio del Segretario dell'Ufficio del Procuratore Generale presso la Corte di Cassazione e' stabilito in L.
 
-3500. 
-  
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dat. a Torino addi' 19 ottobre 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 27 ottobre 1862   
-  
-Reg.° 21 Atti del Governo a c. 24. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli U. Rattazzi.   
-  
-U. Rattazzi.
+3500.
 
-Tabelle
-
-  
-Tabella A   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U090700100010110001&dgu=1862-11-07&art.dataPubblicazioneGazzetta=1862-11-07&art.codiceRedazionale=062U0907)
-  
-  
-Tabella B   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U090700100010110002&dgu=1862-11-07&art.dataPubblicazioneGazzetta=1862-11-07&art.codiceRedazionale=062U0907)
-  
-  
-Tabella C   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U090700100010110003&dgu=1862-11-07&art.dataPubblicazioneGazzetta=1862-11-07&art.codiceRedazionale=062U0907)
-  
-  
-Tabella D   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U090700100010110004&dgu=1862-11-07&art.dataPubblicazioneGazzetta=1862-11-07&art.codiceRedazionale=062U0907)
-  
-  
-Tabella E   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U090700100010110005&dgu=1862-11-07&art.dataPubblicazioneGazzetta=1862-11-07&art.codiceRedazionale=062U0907)
-  
-  
-Tabella F   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U090700100010110006&dgu=1862-11-07&art.dataPubblicazioneGazzetta=1862-11-07&art.codiceRedazionale=062U0907)
-  
-  
-Tabella G   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U090700100010110007&dgu=1862-11-07&art.dataPubblicazioneGazzetta=1862-11-07&art.codiceRedazionale=062U0907)
-  
-  
-Tabella H   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U090700100010110008&dgu=1862-11-07&art.dataPubblicazioneGazzetta=1862-11-07&art.codiceRedazionale=062U0907)
-  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dat. a Torino addi' 19 ottobre 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 ottobre 1862 
+ 
+ Reg.° 21 Atti del Governo a c. 24. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli U. Rattazzi. 
+ 
+ U. Rattazzi.

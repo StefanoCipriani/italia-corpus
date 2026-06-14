@@ -1,22 +1,20 @@
-REGIO DECRETO 24 gennaio 1909 n. 111
-
-
-REGIO DECRETO 24 gennaio 1909 n. 111
-====================================
-
-Che autorizza l'inscrizione della somma di L. 637,199.82 in taluni capitoli dello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1908-909. (009U0111)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/03/1909
+---
+tipo: REGIO DECRETO
+numero: 111
+data: 1909-01-24
+titolo: "Che autorizza l'inscrizione della somma di L. 637,199.82 in taluni capitoli dello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1908-909. (009U0111)"
+urn: urn:nir:stato:regio.decreto:1909-01-24;111
+codice_redazionale: 009U0111
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 15 luglio 1906, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383), concernente provvedimenti per le provincie meridionali, per la Sicilia e per la Sardegna;
+Vista la [legge 15 luglio 1906, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383), concernente provvedimenti per le provincie meridionali, per la Sicilia e per la Sardegna;
 
 Considerato che l'art. 73 della legge medesima (titolo VI, disposizioni per l'istruzione elementare e professionale), stabilisce che i residui verificatisi nella erogazione dei fondi stanziati per effetto di essa, relativamente all'istruzione, siano amministrati dalla Commissione centrale per la diffusione dell'istruzione elementare istituita presso il Ministero della pubblica istruzione, ed annualmente ripartiti in tre fondi:
 
@@ -58,7 +56,7 @@ nei Comuni di cui all'art. 76 della legge
 
 scolastica nei Comuni di cui all'art. 76
 
-della [legge 15 luglio 1906, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383), in
+della [legge 15 luglio 1906, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383), in
 
 applicazione dell'art. 71 della legge
 
@@ -78,7 +76,7 @@ pagamento degli interessi dei mutui di
 
 favore concessi ai Comuni di cui all'art.
 
-76 della [legge 15 luglio 1906, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383), in
+76 della [legge 15 luglio 1906, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383), in
 
 applicazione degli articoli 59 e 63 della
 
@@ -96,7 +94,7 @@ per intero sulla somma inscritta a tale capitolo
 
 per gli stipendi ai 57 ispettori aumentati in
 
-esecuzione della [legge 15 luglio 1906, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383), di
+esecuzione della [legge 15 luglio 1906, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383), di
 
 guisa che la somma da ripartirsi ammonta in totale a . 637,199 82
 
@@ -110,62 +108,55 @@ la popolazione legale delle provincie della Sicilia in abitanti 3,568,124;
 
 la popolazione legale delle provincie della Sardegna in abitanti 795,793;
 
-Vista la [legge 25 giugno 1908, n. 294](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-25;294), che approva lo stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1908-909;
+Vista la [legge 25 giugno 1908, n. 294](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellistruzione%20pubblica%20per%20lesercizio%20finanziario%201908-909.%20008U0294.md), che approva lo stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1908-909;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per il tesoro, di concerto con quello per la pubblica istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per il tesoro, di concerto con quello per la pubblica istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' autorizzata l'inscrizione della somma di lire sei centotrentasettemilacentonovantanove e centesimi ottantadue ai seguenti capitoli dello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1908-909 nella misura per ciascuno di essi qui appresso indicata:   
-  
-Cap. n. 202. Spese e sussidi per la diffusione   
-dell'istruzione elementare nelle provincie   
-meridionali del continente, in applicazio-   
-ne dell'[art. 73 della legge 15 luglio 1906,   
-n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383~art73), lire trecentocinquantacinquemila   
-trecentoventicinque e centesimi cinquanta-   
-nove . . . . . . . . . . . . . . . . . . . . 355,325 59   
-  
-» 203. Spese e sussidi per la diffusione   
-dell'istruzione elementare nella Sicilia   
-in applicazione dell'[art. 73 della legge   
-15 luglio 1906, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383~art73), lire centoquaran-   
-taseimila settecentoquindici e centesimi   
-novantanove . . . . . . . . . . . . . . . . 146,715 99   
-  
-» 204. Spese e sussidi per la diffusione   
-dell'istruzione elementare nella Sardegna,   
-in applicazione dell'[art. 73 della legge   
-15 luglio 1906, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383~art73), liro trentaduemila   
-settecentoventuno e centesimi ottantatre . . 32,721 83   
-  
-» 205. Spese e sussidi per la diffusione   
-dell'istruzione elementare nelle provincie   
-di Ancona, Ascoli-Picono, Macerata, Pesaro   
-e Urbino, Perugia e Roma e alle isole   
-d'Elba, Capraia e Giglio, eccettuato il   
-comune di Roma, in applicazione degli ar-   
-ticoli 73 e 77 della [legge 15 luglio 1906,   
-n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383), lire centoduemila quattrocentotren-   
-tasei e centesimi quarantuno . . . . . . . . 102,436 4l   
-  
-----------   
-  
-L. 637,199 82   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 gennaio 1909.   
-  
-VITTORIO EMANUELE.   
-  
-CARCANO - RAVA.   
-  
-Visto, Il guardasigilli: ORLANDO.   
-  
+E' autorizzata l'inscrizione della somma di lire sei centotrentasettemilacentonovantanove e centesimi ottantadue ai seguenti capitoli dello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1908-909 nella misura per ciascuno di essi qui appresso indicata: 
+ 
+ Cap. n. 202. Spese e sussidi per la diffusione 
+ dell'istruzione elementare nelle provincie 
+ meridionali del continente, in applicazio- 
+ ne dell'[art. 73 della legge 15 luglio 1906, 
+ n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383#art_73), lire trecentocinquantacinquemila 
+ trecentoventicinque e centesimi cinquanta- 
+ nove . . . . . . . . . . . . . . . . . . . . 355,325 59 
+ 
+ » 203. Spese e sussidi per la diffusione 
+ dell'istruzione elementare nella Sicilia 
+ in applicazione dell'[art. 73 della legge 
+ 15 luglio 1906, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383#art_73), lire centoquaran- 
+ taseimila settecentoquindici e centesimi 
+ novantanove . . . . . . . . . . . . . . . . 146,715 99 
+ 
+ » 204. Spese e sussidi per la diffusione 
+ dell'istruzione elementare nella Sardegna, 
+ in applicazione dell'[art. 73 della legge 
+ 15 luglio 1906, n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383#art_73), liro trentaduemila 
+ settecentoventuno e centesimi ottantatre . . 32,721 83 
+ 
+ » 205. Spese e sussidi per la diffusione 
+ dell'istruzione elementare nelle provincie 
+ di Ancona, Ascoli-Picono, Macerata, Pesaro 
+ e Urbino, Perugia e Roma e alle isole 
+ d'Elba, Capraia e Giglio, eccettuato il 
+ comune di Roma, in applicazione degli ar- 
+ ticoli 73 e 77 della [legge 15 luglio 1906, 
+ n. 383](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383), lire centoduemila quattrocentotren- 
+ tasei e centesimi quarantuno . . . . . . . . 102,436 4l 
+ 
+ ---------- 
+ 
+ L. 637,199 82 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 gennaio 1909. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ CARCANO - RAVA. 
+ 
+ Visto, Il guardasigilli: ORLANDO.

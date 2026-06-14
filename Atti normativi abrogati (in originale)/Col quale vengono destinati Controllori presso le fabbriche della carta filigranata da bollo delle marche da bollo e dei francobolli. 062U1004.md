@@ -1,16 +1,14 @@
-REGIO DECRETO 20 novembre 1862 n. 1004
-
-
-REGIO DECRETO 20 novembre 1862 n. 1004
-======================================
-
-Col quale vengono destinati Controllori presso le fabbriche della carta filigranata da bollo, delle marche da bollo, e dei francobolli. (062U1004)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/12/1862
+---
+tipo: REGIO DECRETO
+numero: 1004
+data: 1862-11-20
+titolo: "Col quale vengono destinati Controllori presso le fabbriche della carta filigranata da bollo, delle marche da bollo, e dei francobolli. (062U1004)"
+urn: urn:nir:stato:regio.decreto:1862-11-20;1004
+codice_redazionale: 062U1004
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,43 +22,34 @@ Considerando che e' necessario di fare controllare la fabbricazione della carta 
 
 Sulla proposta del Ministro delle Finanze;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+Presso le fabbriche della carta filigranata da bollo, delle marche da bollo e dei francobolli saranno destinati Controllori, le cui attribuzioni saranno determinate con regolamento approvato dal Ministro delle Finanze.
 
-  
-  
-Presso le fabbriche della carta filigranata da bollo, delle marche da bollo e dei francobolli saranno destinati Controllori, le cui attribuzioni saranno determinate con regolamento approvato dal Ministro delle Finanze.   
-  
+## Art. 2.
 
-Art. 2
-------
+I Controllori saranno cinque, cioe': 
+ 
+ 1 di 1.ª classe collo stipendio di L. 3500; 
+ 2 di 2.ª classe collo stipendio di » 3000; 
+ 2 di 3.ª classe collo stipendio di »
 
-I Controllori saranno cinque, cioe':   
-  
-1 di 1.ª classe collo stipendio di L. 3500;   
-2 di 2.ª classe collo stipendio di » 3000;   
-2 di 3.ª classe collo stipendio di »
+2500.
 
-2500. 
-  
-  
-Gli anzidetti stipendi saranno prelevati dal fondo stanziato nel capitolo 73 del bilancio 1863.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 20 novembre 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 22 novembre 1862   
-  
-Reg.° 21 Atti del Governo a c. 113. Wehrlin.   
-  
-Luogo del sigillo. V. Il Guardasigilli U. Rattazzi.   
-  
-Quintino Sella.
+Gli anzidetti stipendi saranno prelevati dal fondo stanziato nel capitolo 73 del bilancio 1863. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 20 novembre 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 22 novembre 1862 
+ 
+ Reg.° 21 Atti del Governo a c. 113. Wehrlin. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli U. Rattazzi. 
+ 
+ Quintino Sella.

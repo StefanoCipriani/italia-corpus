@@ -1,16 +1,14 @@
-REGIO DECRETO 23 giugno 1877 n. 3928
-
-
-REGIO DECRETO 23 giugno 1877 n. 3928
-====================================
-
-Che costituisce una nuova sezione nel collegio elettorale di Cremona, colla sede in Pieve S. Giacomo. (077U3928)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/07/1877
+---
+tipo: REGIO DECRETO
+numero: 3928
+data: 1877-06-23
+titolo: "Che costituisce una nuova sezione nel collegio elettorale di Cremona, colla sede in Pieve S. Giacomo. (077U3928)"
+urn: urn:nir:stato:regio.decreto:1877-06-23;3928
+codice_redazionale: 077U3928
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Pieve San Giacomo e Pieve Delmona e le frazioni di Ca' de' Bonavogli, Ca' de' Sfondrati, Montanara e Vighizzolo, appartenenti rispettivamente ai comuni di Derovere, Ca' de' Stefani, Cappella de' Picenardi, sono separate dalla sezione elettorale di Duemiglia, e formeranno una sezione distinta del Collegio elettorale di Cremona colla sede in Pieve San Giacomo.   
-  
-Ordiniamo che il presente decreto, munito del Sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 23 giugno 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+I comuni di Pieve San Giacomo e Pieve Delmona e le frazioni di Ca' de' Bonavogli, Ca' de' Sfondrati, Montanara e Vighizzolo, appartenenti rispettivamente ai comuni di Derovere, Ca' de' Stefani, Cappella de' Picenardi, sono separate dalla sezione elettorale di Duemiglia, e formeranno una sezione distinta del Collegio elettorale di Cremona colla sede in Pieve San Giacomo. 
+ 
+ Ordiniamo che il presente decreto, munito del Sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 23 giugno 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

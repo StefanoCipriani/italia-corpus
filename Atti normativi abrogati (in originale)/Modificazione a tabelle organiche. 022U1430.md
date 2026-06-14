@@ -1,17 +1,17 @@
-REGIO DECRETO 09 luglio 1922 n. 1430
+---
+tipo: REGIO DECRETO
+numero: 1430
+data: 1922-07-09
+titolo: "Modificazione a tabelle organiche. (022U1430)"
+urn: urn:nir:stato:regio.decreto:1922-07-09;1430
+codice_redazionale: 022U1430
+vigente: true
+---
 
-
-REGIO DECRETO 09 luglio 1922 n. 1430
-====================================
-
-Modificazione a tabelle organiche. (022U1430)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 07/12/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1430. Regio decreto 9 luglio 1922, col quale, sulla proposta del ministro della istruzione pubblica, vengono aggiunti alcuni posti di ruolo nelle tabelle organiche del personale delle scuole medie e normali governative.
+1430.
+
+Regio decreto 9 luglio 1922, col quale, sulla proposta del ministro della istruzione pubblica, vengono aggiunti alcuni posti di ruolo nelle tabelle organiche del personale delle scuole medie e normali governative.

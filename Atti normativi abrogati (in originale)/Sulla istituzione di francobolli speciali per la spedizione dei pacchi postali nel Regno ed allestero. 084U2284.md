@@ -1,16 +1,14 @@
-REGIO DECRETO 04 maggio 1884 n. 2284
-
-
-REGIO DECRETO 04 maggio 1884 n. 2284
-====================================
-
-Sulla istituzione di francobolli speciali per la spedizione dei pacchi postali nel Regno ed all'estero. (084U2284)
-------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/06/1884
+---
+tipo: REGIO DECRETO
+numero: 2284
+data: 1884-05-04
+titolo: "Sulla istituzione di francobolli speciali per la spedizione dei pacchi postali nel Regno ed all'estero. (084U2284)"
+urn: urn:nir:stato:regio.decreto:1884-05-04;2284
+codice_redazionale: 084U2284
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,32 +20,25 @@ Viste le leggi del 10 e 14 luglio 1881, nn. 288 e 305 (Serie 3ª);
 
 Visto il Nostro decreto del 26 luglio 1881, num. 359 (Serie 3ª);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, di concerto con quello delle Finanze, interim del Tesoro, Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, di concerto con quello delle Finanze, interim del Tesoro, Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-da centesimi 50 (colore geranium);   
-  
-da centesimi 75 (colore verde pallido);   
-  
-da lire 1,25 (colore giallo cromo-chiaro);   
-  
-da lire 1,75 (colore bruno d'Italia).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 maggio 1884.   
-  
-UMBERTO.   
-  
-A. MAGLIANI.   
-GENALA.   
-  
-Visto, Il Guardasigilli: FERRACCIU'.   
-  
+da centesimi 50 (colore geranium); 
+ 
+ da centesimi 75 (colore verde pallido); 
+ 
+ da lire 1,25 (colore giallo cromo-chiaro); 
+ 
+ da lire 1,75 (colore bruno d'Italia). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 maggio 1884. 
+ 
+ UMBERTO. 
+ 
+ A. MAGLIANI. 
+ GENALA. 
+ 
+ Visto, Il Guardasigilli: FERRACCIU'.

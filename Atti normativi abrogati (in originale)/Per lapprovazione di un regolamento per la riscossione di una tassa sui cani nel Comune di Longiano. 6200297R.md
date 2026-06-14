@@ -1,19 +1,15 @@
-REGIO DECRETO 20 febbraio 1862 n. CCXCVII
+---
+tipo: REGIO DECRETO
+numero: CCXCVII
+data: 1862-02-20
+titolo: "Per l'approvazione di un regolamento per la riscossione di una tassa sui cani nel Comune di Longiano. (6200297R)"
+urn: urn:nir:stato:regio.decreto:1862-02-20;297
+codice_redazionale: 6200297R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 febbraio 1862 n. CCXCVII
-=========================================
-
-Per l'approvazione di un regolamento per la riscossione di una tassa sui cani nel Comune di Longiano. (6200297R)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/02/1862
-
-Art. 1
-------
-
-  
-Che approva un regolamento per la riscossione di una tassa sui cani nel Comune di Longiano della Provincia di Forli'.   
-  
-Torino 20 febbraio 1862   
-  
+Che approva un regolamento per la riscossione di una tassa sui cani nel Comune di Longiano della Provincia di Forli'. 
+ 
+ Torino 20 febbraio 1862

@@ -1,16 +1,14 @@
-REGIO DECRETO 07 febbraio 1869 n. 4937
-
-
-REGIO DECRETO 07 febbraio 1869 n. 4937
-======================================
-
-Che approva il Regolamento provvisorio per lo Stabilimento montanistico di Agordo. (069U4937)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/04/1869
+---
+tipo: REGIO DECRETO
+numero: 4937
+data: 1869-02-07
+titolo: "Che approva il Regolamento provvisorio per lo Stabilimento montanistico di Agordo. (069U4937)"
+urn: urn:nir:stato:regio.decreto:1869-02-07;4937
+codice_redazionale: 069U4937
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,263 +22,183 @@ Visti i Reali Decreti 3 novembre 1867, n. 4029 e 4030, coi quali furono pubblica
 
 Occorrendo di procedere ad una organizzazione uniforme ai nuovi precetti di contabilita', e di fissare le norme di disciplina per gl'impiegati dello Stabilimento;
 
-Visto l'articolo 44 del Regolamento generale per la contabilita' dello Stato, approvato con [Regio Decreto 25 novembre 1866, n. 3381](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-11-25;3381);
+Visto l'articolo 44 del Regolamento generale per la contabilita' dello Stato, approvato con [Regio Decreto 25 novembre 1866, n. 3381](Col%20quale%20sono%20apportate%20alcune%20modificazioni%20al%20Regolamento%2013%20dicembre%201863%20n%201628%20sulla%20Contabilita%20generale%20dello%20Stato.%20066U3381.md);
 
 Sulla proposta del Ministro delle Finanze;
 
-Sentito
--------
+Sentito il Consiglio di Stato; Abbiamo decretato e decretiamo quanto segue:
 
-il Consiglio di Stato; Abbiamo decretato e decretiamo quanto segue:
+## Servizio della Direzione e ruolo del personale.
 
-CAPO I CAPITOLO I. Servizio della Direzione e ruolo del personale.
-------------------------------------------------------------------
+CAPITOLO I.
 
-### Art. 1
+### Art. 1.
 
-  
-  
-L'amministrazione dello Stabilimento demaniale di Agordo e' affidata provvisoriamente ad un Uffizio speciale di direzione, e riguarda:   
-  
-a) I mobili ed immobili della miniera di rame di Valle Imperina con tutte le sue ragioni e dipendenze, comprese le fonderie ed affinerie del rame; gli apparati ed edifizi di torrefazione, di cementazione e di cristallizzazione del vetriolo di ferro, con tutti gli attrezzi ed utensili relativi; la raffineria dello zolfo, il laboratorio pei saggi, i magazzini e le case ad uso di Uffizio e pel ricovero degli impiegati ed operai;   
-  
-b) I boschi demaniali siti nei Comuni di Agordo, Valle, Voltago, Rocca, Taibon, Rivamonte, Cencenighe, Canale, S. Tommaso, Calloneghe, Sedico e Livinallungo nel Tirolo;   
-  
-c) La strada da Agordo al Peron (kilometri 18,846).   
+L'amministrazione dello Stabilimento demaniale di Agordo e' affidata provvisoriamente ad un Uffizio speciale di direzione, e riguarda: 
+ 
+ a) I mobili ed immobili della miniera di rame di Valle Imperina con tutte le sue ragioni e dipendenze, comprese le fonderie ed affinerie del rame; gli apparati ed edifizi di torrefazione, di cementazione e di cristallizzazione del vetriolo di ferro, con tutti gli attrezzi ed utensili relativi; la raffineria dello zolfo, il laboratorio pei saggi, i magazzini e le case ad uso di Uffizio e pel ricovero degli impiegati ed operai; 
+ 
+ b) I boschi demaniali siti nei Comuni di Agordo, Valle, Voltago, Rocca, Taibon, Rivamonte, Cencenighe, Canale, S. Tommaso, Calloneghe, Sedico e Livinallungo nel Tirolo; 
+ 
+ c) La strada da Agordo al Peron (kilometri 18,846).
 
-### Art. 2
+### Art. 2.
 
-  
-  
-Sono approvate le annesse Tabelle, vidimate d'ordine Nostro dal Ministro delle Finanze, concernenti:   
-  
-1° Il ruolo degli impiegati della Direzione e gli stipendi annui dei medesimi (Tabella A);   
-  
-2° Le retribuzioni da assegnarsi al personale a giornata addetto agli Stabilimenti (Tabella B).   
-  
+Sono approvate le annesse Tabelle, vidimate d'ordine Nostro dal Ministro delle Finanze, concernenti: 
+ 
+ 1° Il ruolo degli impiegati della Direzione e gli stipendi annui dei medesimi (Tabella A); 
+ 
+ 2° Le retribuzioni da assegnarsi al personale a giornata addetto agli Stabilimenti (Tabella B).
 
-### Art. 3
+### Art. 3.
 
-  
-  
-La Direzione del Regio Stabilimento di Agordo dipende dal Ministero delle Finanze.   
-  
-Spetta alla medesima:   
-  
-a) Di amministrare i beni demaniali accennati all'articolo 1;   
-  
-b) Di provvedere alla riscossione delle entrate dei beni stessi nei modi determinati dai Regolamenti in vigore;   
-  
-c) Di provvedere, nei limiti fissati dal bilancio speciale che verra' approvato dal Ministero, al regolare andamento dei diversi rami di servizio dello Stabilimento.   
-  
+La Direzione del Regio Stabilimento di Agordo dipende dal Ministero delle Finanze. 
+ 
+ Spetta alla medesima: 
+ 
+ a) Di amministrare i beni demaniali accennati all'articolo 1; 
+ 
+ b) Di provvedere alla riscossione delle entrate dei beni stessi nei modi determinati dai Regolamenti in vigore; 
+ 
+ c) Di provvedere, nei limiti fissati dal bilancio speciale che verra' approvato dal Ministero, al regolare andamento dei diversi rami di servizio dello Stabilimento.
 
-CAPO II CAPITOLO II. Attribuzioni e facoltà del Direttore.
-----------------------------------------------------------
+## Attribuzioni e facoltà del Direttore.
 
-### Art. 4
+CAPITOLO II.
 
-  
-  
-Il Direttore e' capo di tutto il servizio e ne e' responsabile. In caso di impedimento o di assenza, ne fa le veci l'Amministratore del sotterraneo, quando non sia diversamente determinato dal Ministero.   
+### Art. 4.
 
-### Art. 5
+Il Direttore e' capo di tutto il servizio e ne e' responsabile. In caso di impedimento o di assenza, ne fa le veci l'Amministratore del sotterraneo, quando non sia diversamente determinato dal Ministero.
 
-  
-  
-Il Direttore:   
-  
-a) Da' gli ordini relativi alla disciplina, ammonisce gl'impiegati, e nel caso di mancanze gravi, ha facolta' di sospenderli con la perdita dello stipendio per un tempo determinato, non maggiore di quindici giorni, riferendone contemporaneamente al Ministero;   
-  
-b) Accorda congedi che non possono oltrepassare complessivamente venti giorni per ciascun anno;   
-  
-c) Provvede direttamente coi fondi di anticipazione, osservando le norme stabilite dal [Regolamento 25 novembre 1866, n. 3381](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1866-11-25;3381), sulla contabilita' generale dello Stato, al pagamento delle spese derivanti da atti approvati dal Ministero, o dal Direttore medesimo nei limiti delle sue attribuzioni;   
-  
-d) Consulta l'Ufficio del Contenzioso finanziario di Venezia ogniqualvolta gli occorrano dubbi legali nelle trattazioni concernenti l'amministrazione a lui affidata.   
-  
+### Art. 5.
 
-### Art. 6
+Il Direttore: 
+ 
+ a) Da' gli ordini relativi alla disciplina, ammonisce gl'impiegati, e nel caso di mancanze gravi, ha facolta' di sospenderli con la perdita dello stipendio per un tempo determinato, non maggiore di quindici giorni, riferendone contemporaneamente al Ministero; 
+ 
+ b) Accorda congedi che non possono oltrepassare complessivamente venti giorni per ciascun anno; 
+ 
+ c) Provvede direttamente coi fondi di anticipazione, osservando le norme stabilite dal [Regolamento 25 novembre 1866, n. 3381](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1866-11-25;3381), sulla contabilita' generale dello Stato, al pagamento delle spese derivanti da atti approvati dal Ministero, o dal Direttore medesimo nei limiti delle sue attribuzioni; 
+ 
+ d) Consulta l'Ufficio del Contenzioso finanziario di Venezia ogniqualvolta gli occorrano dubbi legali nelle trattazioni concernenti l'amministrazione a lui affidata.
 
-  
-  
-Il Direttore, sentito il parere del Consiglio d'amministrazione, che sara' composto dai due Amministratori del sotterraneo e delle fucine, dal Capo del servizio boschivo, dal Cassiere contabile, dall'Assaggiatore, dall'Aiutante amministratore del sotterraneo e dal Magazziniere:   
-  
-a) Definisce tutte le questioni relative ai dettagli del servizio, uniformandosi ai Regolamenti;   
-  
-b) Presenta, nelle epoche che verranno stabilite, il bilancio preventivo della gestione ed i conti consuntivi della medesima;   
-  
-c) Assume nei limiti delle concorrenze del servizio il personale a giornata, assegnando le retribuzioni in conformita' della Tabella B;   
-  
-d) Conviene il prezzo dei lavori a cottimo;   
-  
-e) Assegna al personale gli alloggi annessi agli Stabilimenti;   
-  
-f) Propone all'approvazione del Ministero le tariffe per le vendite degli oggetti fabbricati;   
-  
-g) Ad eccezione del rame, che sara' alienato conformemente alle prescrizioni del Regolamento sulla contabilita' dello Stato, salvo se si trattasse di cederlo alla Regia Marina dello Stato o ad altre Amministrazioni governative, procede alla vendita dei prodotti a prezzi di tariffa, da effettuarsi all'atto della consegna, quando non sia diversamente disposto dal Ministero;   
-  
-h) Provvede nelle forme volute dal Regolamento sulla contabilita' generale dello Stato alla stipulazione di tutti i contratti attivi e passivi, concernenti il servizio e le proprieta' di cui all'articolo 1, quando il contratto abbia luogo all'asta pubblica per un valore non eccedente le L. 10,000 (diecimila); ovvero a partiti privati e per un valore non eccedente le L. 4,000 (quattromila).   
-  
-Il Direttore potra' sentire l'avviso del Consiglio in qualunque altro affare.   
-  
+### Art. 6.
 
-### Art. 7
+Il Direttore, sentito il parere del Consiglio d'amministrazione, che sara' composto dai due Amministratori del sotterraneo e delle fucine, dal Capo del servizio boschivo, dal Cassiere contabile, dall'Assaggiatore, dall'Aiutante amministratore del sotterraneo e dal Magazziniere: 
+ 
+ a) Definisce tutte le questioni relative ai dettagli del servizio, uniformandosi ai Regolamenti; 
+ 
+ b) Presenta, nelle epoche che verranno stabilite, il bilancio preventivo della gestione ed i conti consuntivi della medesima; 
+ 
+ c) Assume nei limiti delle concorrenze del servizio il personale a giornata, assegnando le retribuzioni in conformita' della Tabella B; 
+ 
+ d) Conviene il prezzo dei lavori a cottimo; 
+ 
+ e) Assegna al personale gli alloggi annessi agli Stabilimenti; 
+ 
+ f) Propone all'approvazione del Ministero le tariffe per le vendite degli oggetti fabbricati; 
+ 
+ g) Ad eccezione del rame, che sara' alienato conformemente alle prescrizioni del Regolamento sulla contabilita' dello Stato, salvo se si trattasse di cederlo alla Regia Marina dello Stato o ad altre Amministrazioni governative, procede alla vendita dei prodotti a prezzi di tariffa, da effettuarsi all'atto della consegna, quando non sia diversamente disposto dal Ministero; 
+ 
+ h) Provvede nelle forme volute dal Regolamento sulla contabilita' generale dello Stato alla stipulazione di tutti i contratti attivi e passivi, concernenti il servizio e le proprieta' di cui all'articolo 1, quando il contratto abbia luogo all'asta pubblica per un valore non eccedente le L. 10,000 (diecimila); ovvero a partiti privati e per un valore non eccedente le L. 4,000 (quattromila). 
+ 
+ Il Direttore potra' sentire l'avviso del Consiglio in qualunque altro affare.
 
-  
-  
-I contratti che si fanno negli Uffici della Direzione devono essere stipulati avanti il Direttore o chi ne fa le veci, e sono ricevuti dal Segretario, o da un pubblico Ufficiale a tale scopo destinato.   
-  
+### Art. 7.
 
-### Art. 8
+I contratti che si fanno negli Uffici della Direzione devono essere stipulati avanti il Direttore o chi ne fa le veci, e sono ricevuti dal Segretario, o da un pubblico Ufficiale a tale scopo destinato.
 
-  
-  
-Saranno soggetti all'approvazione del Ministro i contratti stipulati dalla Direzione, quando la somma complessiva, od il valore della cosa cadente in contratto, superi le L. 5,000 (cinquemila) se si tratta di un contratto stipulato previa asta pubblica, le L. 2,000 (duemila) per contratti stipulati in seguito a licitazione privata, ed in fine le L. 300 (trecento) per quelli conchiusi a trattativa privata.   
-  
-Ogni altro contratto e' reso esecutorio dal Direttore.   
-  
+### Art. 8.
 
-### Art. 9
+Saranno soggetti all'approvazione del Ministro i contratti stipulati dalla Direzione, quando la somma complessiva, od il valore della cosa cadente in contratto, superi le L. 5,000 (cinquemila) se si tratta di un contratto stipulato previa asta pubblica, le L. 2,000 (duemila) per contratti stipulati in seguito a licitazione privata, ed in fine le L. 300 (trecento) per quelli conchiusi a trattativa privata. 
+ 
+ Ogni altro contratto e' reso esecutorio dal Direttore.
 
-  
-  
-Spetta al Direttore, sentito l'Ufficio del Contenzioso di Venezia:   
-1° Di stare in giudizio, si' attivamente che passivamente, nelle cause concernenti i beni demaniali da lui amministrati, e cio' tanto direttamente quanto per mezzo di procuratori legali o di impiegati da esso dipendenti;   
-  
-2° Di transigere nelle controversie concernenti i beni mobili, quando il valore della cosa controversa non superi le L. 500 (cinquecento);   
-  
-3° Di concedere per una sol volta ai debitori verso lo Stabilimento da lui diretto dilazione al pagamento o sospensione di atti esecutivi per un termine non maggiore di sei mesi, esigendo le cautele richieste dall'interesse del Demanio, e purche' concorrano motivi di speciale riguardo e la somma non ecceda le L. 1,000 (mille);   
-  
-4° Di autorizzare la restituzione di somme indebitamente percette e non eccedenti le L. 500 (cinquecento).   
-  
+### Art. 9.
 
-### Art. 10
+Spetta al Direttore, sentito l'Ufficio del Contenzioso di Venezia:  
+ 1° Di stare in giudizio, si' attivamente che passivamente, nelle cause concernenti i beni demaniali da lui amministrati, e cio' tanto direttamente quanto per mezzo di procuratori legali o di impiegati da esso dipendenti; 
+ 
+ 2° Di transigere nelle controversie concernenti i beni mobili, quando il valore della cosa controversa non superi le L. 500 (cinquecento); 
+ 
+ 3° Di concedere per una sol volta ai debitori verso lo Stabilimento da lui diretto dilazione al pagamento o sospensione di atti esecutivi per un termine non maggiore di sei mesi, esigendo le cautele richieste dall'interesse del Demanio, e purche' concorrano motivi di speciale riguardo e la somma non ecceda le L. 1,000 (mille); 
+ 
+ 4° Di autorizzare la restituzione di somme indebitamente percette e non eccedenti le L. 500 (cinquecento).
 
-  
-  
-E' in facolta' del Direttore di fare eseguire ad economia le opere di riparazione, quando la spesa non superi le L. 300 (trecento).   
-  
+### Art. 10.
 
-### Art. 11
+E' in facolta' del Direttore di fare eseguire ad economia le opere di riparazione, quando la spesa non superi le L. 300 (trecento).
 
-  
-  
-Per istabilire i limiti di competenza del Direttore, la spesa deve essere calcolata in complesso per le opere di ogni natura da eseguirsi entro una determinata epoca attorno allo stesso fabbricato o edifizio, e non gia' distintamente secondo le varie opere o parte di opera in cui la riparazione potesse essere divisa.   
-  
+### Art. 11.
 
-### Art. 12
+Per istabilire i limiti di competenza del Direttore, la spesa deve essere calcolata in complesso per le opere di ogni natura da eseguirsi entro una determinata epoca attorno allo stesso fabbricato o edifizio, e non gia' distintamente secondo le varie opere o parte di opera in cui la riparazione potesse essere divisa.
 
-  
-  
-Nei casi di urgenza tale che dal ritardo possa derivare all'Amministrazione un danno irreparabile, il Direttore, sentito il Consiglio d'amministrazione, senza riguardo ai limiti delle facolta' accennate nei precedenti articoli 6, 9 e 10, deve dare i provvedimenti necessari di ogni natura, riferendo pero' immediatamente al Ministero.   
-  
+### Art. 12.
 
-CAPO III CAPITOLO III. Del Cassiere contabile.
-----------------------------------------------
+Nei casi di urgenza tale che dal ritardo possa derivare all'Amministrazione un danno irreparabile, il Direttore, sentito il Consiglio d'amministrazione, senza riguardo ai limiti delle facolta' accennate nei precedenti articoli 6, 9 e 10, deve dare i provvedimenti necessari di ogni natura, riferendo pero' immediatamente al Ministero.
 
-### Art. 13
+## Del Cassiere contabile.
 
-  
-  
-Il Cassiere contabile e' incaricato:   
-  
-a) Di esigere i proventi dello Stabilimento di conformita' agli ordini del Direttore, e di fare versamenti nelle casse del Tesoro per la parte eccedente la cauzione di cui all'articolo 15;   
-  
-b) Di eseguire i pagamenti delle spese autorizzate, valendosi delle somme che a tale effetto gli vengono anticipate per mezzo di appositi mandati in suo favore dal Direttore dello Stabilimento.   
-  
+CAPITOLO III.
 
-CAPO IV
--------
+### Art. 13.
 
-### Art. 14
+Il Cassiere contabile e' incaricato: 
+ 
+ a) Di esigere i proventi dello Stabilimento di conformita' agli ordini del Direttore, e di fare versamenti nelle casse del Tesoro per la parte eccedente la cauzione di cui all'articolo 15; 
+ 
+ b) Di eseguire i pagamenti delle spese autorizzate, valendosi delle somme che a tale effetto gli vengono anticipate per mezzo di appositi mandati in suo favore dal Direttore dello Stabilimento.
 
-  
-  
-Il Magazziniere e' incaricato:   
-  
-Del ricevimento, della custodia e della distribuzione di generi e materiali al lavoro, e de' prodotti smerciabili dello Stabilimento, nonche' della relativa contabilita', secondo le istruzioni speciali che verranno emanate.   
-  
-Egli e' assistito da un aiutante.   
-  
+### Art. 14.
 
-### Art. 15
+Il Magazziniere e' incaricato: 
+ 
+ Del ricevimento, della custodia e della distribuzione di generi e materiali al lavoro, e de' prodotti smerciabili dello Stabilimento, nonche' della relativa contabilita', secondo le istruzioni speciali che verranno emanate. 
+ 
+ Egli e' assistito da un aiutante.
 
-  
-  
-Tanto il Cassiere, quanto il Magazziniere, prestano una cauzione nei modi prescritti pei Contabili demaniali, e nei rapporti di contabilita' sono a questi parificati e sottoposti alle ispezioni e verificazioni che verranno praticate dagl'Ispettori del Demanio e delle Tasse, o da altri funzionari che venissero all'uopo designati dal Ministero delle Finanze.   
-  
+### Art. 15.
 
-CAPO V CAPITOLO IV. Disposizioni speciali per il servizio tecnico.
-------------------------------------------------------------------
+Tanto il Cassiere, quanto il Magazziniere, prestano una cauzione nei modi prescritti pei Contabili demaniali, e nei rapporti di contabilita' sono a questi parificati e sottoposti alle ispezioni e verificazioni che verranno praticate dagl'Ispettori del Demanio e delle Tasse, o da altri funzionari che venissero all'uopo designati dal Ministero delle Finanze.
 
-### Art. 16
+## Disposizioni speciali per il servizio tecnico.
 
-  
-  
-Ogni gestione speciale in cui si divide il servizio, viene affidata sotto risponsabilita' del Direttore a due Amministratori, uno pel sotterraneo e l'altro per le fucine, e ad un Capo del servizio boschivo. Secondo l'importanza dei lavori, essi potranno essere sostituiti da altri Sotto-Capi di servizio addetti allo Stabilimento.   
-  
+CAPITOLO IV.
 
-### Art. 17
+### Art. 16.
 
-  
-  
-I lavori saranno possibilmente eseguiti a cottimo e distinti per singole operazioni, a meno che non sia richiesto diversamente da esigenze speciali di servizio.   
-  
+Ogni gestione speciale in cui si divide il servizio, viene affidata sotto risponsabilita' del Direttore a due Amministratori, uno pel sotterraneo e l'altro per le fucine, e ad un Capo del servizio boschivo. Secondo l'importanza dei lavori, essi potranno essere sostituiti da altri Sotto-Capi di servizio addetti allo Stabilimento.
 
-### Art. 18
+### Art. 17.
 
-  
-  
-L'escavazione delle miniere non potra' farsi che di conformita' ad un piano di lavorazione approvato dal Direttore, sentito, occorrendo, il parere di un Commissario montanistico, o di altri funzionari delegati dal Ministero.   
-  
+I lavori saranno possibilmente eseguiti a cottimo e distinti per singole operazioni, a meno che non sia richiesto diversamente da esigenze speciali di servizio.
 
-CAPO VI CAPITOLO V. Disposizioni transitorie.
----------------------------------------------
+### Art. 18.
 
-### Art. 19
+L'escavazione delle miniere non potra' farsi che di conformita' ad un piano di lavorazione approvato dal Direttore, sentito, occorrendo, il parere di un Commissario montanistico, o di altri funzionari delegati dal Ministero.
 
-  
-  
-Nel termine di quattro mesi, a datare dall'attuazione del presente Regolamento, il Direttore provvedera' che sieno compilati gli inventari dei beni mobili ed immobili cadenti nell'Amministrazione di Agordo, e dovra' quindi curare che siano sempre mantenuti al corrente, di conformita' al prescritto dal Regolamento generale di contabilita'.   
-  
+## Disposizioni transitorie.
 
-### Art. 20
+CAPITOLO V.
 
-  
-  
-Il Ministero delle Finanze provvedera' con ispeciali istruzioni all'adempimento del presente Decreto, il quale, unitamente alle annesse Tabelle, andra' in attivita' col 1° prossimo aprile, e da tale epoca rimarranno abrogate tutte le disposizioni di Decreto e Regolamento anteriori contrarie a quelle in esso contenute.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli addi' 7 febbraio 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 12 marzo 1869   
-  
-Reg. 46 Atti del Governo a c. 60. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli De Filippo.   
-  
-L. G. Cambray Digny.   
-  
+### Art. 19.
 
-Tabelle
+Nel termine di quattro mesi, a datare dall'attuazione del presente Regolamento, il Direttore provvedera' che sieno compilati gli inventari dei beni mobili ed immobili cadenti nell'Amministrazione di Agordo, e dovra' quindi curare che siano sempre mantenuti al corrente, di conformita' al prescritto dal Regolamento generale di contabilita'.
 
-  
-Tabella A (Vedi Art. 2).   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=069U493700100010110001&dgu=1869-03-20&art.dataPubblicazioneGazzetta=1869-03-20&art.codiceRedazionale=069U4937)
-  
-  
-Tabella B (Vedi Art. 2).   
-  
-STATO ORGANICO   
-del personale stabile a salario settimanale del Regio Stabiliento di Agordo   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=069U493700100010110002&dgu=1869-03-20&art.dataPubblicazioneGazzetta=1869-03-20&art.codiceRedazionale=069U4937)
-  
-  
-STATO ORGANICO del personale stabile a giornata ed a cottimo del Regio Stabilimento di Agordo.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=069U493700100010110003&dgu=1869-03-20&art.dataPubblicazioneGazzetta=1869-03-20&art.codiceRedazionale=069U4937)
-  
+### Art. 20.
+
+Il Ministero delle Finanze provvedera' con ispeciali istruzioni all'adempimento del presente Decreto, il quale, unitamente alle annesse Tabelle, andra' in attivita' col 1° prossimo aprile, e da tale epoca rimarranno abrogate tutte le disposizioni di Decreto e Regolamento anteriori contrarie a quelle in esso contenute. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli addi' 7 febbraio 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 12 marzo 1869 
+ 
+ Reg. 46 Atti del Governo a c. 60. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ L. G. Cambray Digny.

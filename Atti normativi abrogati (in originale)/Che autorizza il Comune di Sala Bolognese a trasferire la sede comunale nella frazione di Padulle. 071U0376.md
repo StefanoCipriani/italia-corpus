@@ -1,16 +1,14 @@
-REGIO DECRETO 19 luglio 1871 n. 376
-
-
-REGIO DECRETO 19 luglio 1871 n. 376
-===================================
-
-Che autorizza il Comune di Sala Bolognese a trasferire la sede comunale nella frazione di Padulle. (071U0376)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/09/1871
+---
+tipo: REGIO DECRETO
+numero: 376
+data: 1871-07-19
+titolo: "Che autorizza il Comune di Sala Bolognese a trasferire la sede comunale nella frazione di Padulle. (071U0376)"
+urn: urn:nir:stato:regio.decreto:1871-07-19;376
+codice_redazionale: 071U0376
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA'DELLA NAZIONE
 
@@ -22,23 +20,16 @@ Vista la legge in data 20 marzo 1865, allegato A;
 
 Viste le deliberazioni del Consiglio comunale di Sala Bolognese, in data 19 gennaio e 7 marzo 1871, relative al trasferimento della sede del comune nella frazione di Padulle;
 
-Vista
------
+Vista la deliberazione emessa dal Consiglio provinciale di Bologna, in data 27 aprile successivo, coerentemente al disposto dall'articolo 176, n. 1, della legge predetta; Abbiamo decretato e decretiamo:
 
-la deliberazione emessa dal Consiglio provinciale di Bologna, in data 27 aprile successivo, coerentemente al disposto dall'articolo 176, n. 1, della legge predetta; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Sala Bolognese, nella provincia di Bologna, e' autorizzato a trasferire la sede comunale nella frazione di Padulle.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, addi' 19 luglio 1871.   
-  
-VITTORIO EMANUELE.   
-  
-G. Lanza.   
-  
+Il comune di Sala Bolognese, nella provincia di Bologna, e' autorizzato a trasferire la sede comunale nella frazione di Padulle. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, addi' 19 luglio 1871. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Lanza.

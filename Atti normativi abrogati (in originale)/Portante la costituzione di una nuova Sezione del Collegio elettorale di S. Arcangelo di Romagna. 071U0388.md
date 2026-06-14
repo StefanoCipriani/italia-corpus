@@ -1,16 +1,14 @@
-REGIO DECRETO 05 agosto 1871 n. 388
-
-
-REGIO DECRETO 05 agosto 1871 n. 388
-===================================
-
-Portante la costituzione di una nuova Sezione del Collegio elettorale di S. Arcangelo di Romagna. (071U0388)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/08/1871
+---
+tipo: REGIO DECRETO
+numero: 388
+data: 1871-08-05
+titolo: "Portante la costituzione di una nuova Sezione del Collegio elettorale di S. Arcangelo di Romagna. (071U0388)"
+urn: urn:nir:stato:regio.decreto:1871-08-05;388
+codice_redazionale: 071U0388
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Noverandosi nel Comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Longiano costituira' d'ora in poi una sezione del Collegio di Sant'Arcangelo di Romagna n. 184 con sede nel capoluogo del Comune medesimo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 5 agosto 1871.   
-  
-VITTORIO EMANUELE.   
-  
-G. Lanza.   
-  
+Il Comune di Longiano costituira' d'ora in poi una sezione del Collegio di Sant'Arcangelo di Romagna n. 184 con sede nel capoluogo del Comune medesimo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 5 agosto 1871. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Lanza.

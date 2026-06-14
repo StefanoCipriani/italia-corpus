@@ -1,16 +1,14 @@
-REGIO DECRETO 10 dicembre 1911 n. 1367
-
-
-REGIO DECRETO 10 dicembre 1911 n. 1367
-======================================
-
-Col quale gli istituti di emissione vengono autorizzati ad aprire filiali in Tripolitania e Cirenaica. (011U1367)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/01/1912
+---
+tipo: REGIO DECRETO
+numero: 1367
+data: 1911-12-10
+titolo: "Col quale gli istituti di emissione vengono autorizzati ad aprire filiali in Tripolitania e Cirenaica. (011U1367)"
+urn: urn:nir:stato:regio.decreto:1911-12-10;1367
+codice_redazionale: 011U1367
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,42 +18,30 @@ Visto il Nostro decreto 5 novembre 1911, n. 1247, il quale dispone che fino a qu
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La Banca d'Italia, il Banco di Napoli e il Banco di Sicilia hanno facolta' di aprire filiali a Tripoli e Bengasi e in altri luoghi della Tripolitania e della Cirenaica, nei quali, su proposta di uno dei detti Istituti, il ministro del tesoro ne riconosca il bisogno.
 
-  
-  
-La Banca d'Italia, il Banco di Napoli e il Banco di Sicilia hanno facolta' di aprire filiali a Tripoli e Bengasi e in altri luoghi della Tripolitania e della Cirenaica, nei quali, su proposta di uno dei detti Istituti, il ministro del tesoro ne riconosca il bisogno. 
+## Art. 2.
 
-Art. 2
-------
+Allo scopo indicato nel precedente articolo, la Banca d'Italia, il Banco di Napoli e il Banco di Sicilia potranno introdurre nei loro statuti, previa deliberazione rispettivamente dell'assemblea degli azionisti e dei Consigli generali, norme speciali per le operazioni di credito da compiersi nella Tripolitania e nella Cirenaica. 
+ 
+ Il Banco di Napoli e il Banco di Sicilia sono autorizzati a modificare anche le norme per l'assunzione del personale occorrente alle filiali da istituirsi in quelle regioni. 
+ 
+ Le norme speciali, da approvarsi per decreto Reale proposto dal ministro del tesoro, previa deliberazione del Consiglio dei ministri, potranno contenere deroghe a disposizioni della [legge 28 aprile 1910, n. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-04-28;204) (testo unico), nei limiti strettamente necessari in rapporto alle condizioni locali della Tripolitania e della Cirenaica.
 
-  
-  
-Allo scopo indicato nel precedente articolo, la Banca d'Italia, il Banco di Napoli e il Banco di Sicilia potranno introdurre nei loro statuti, previa deliberazione rispettivamente dell'assemblea degli azionisti e dei Consigli generali, norme speciali per le operazioni di credito da compiersi nella Tripolitania e nella Cirenaica.   
-  
-Il Banco di Napoli e il Banco di Sicilia sono autorizzati a modificare anche le norme per l'assunzione del personale occorrente alle filiali da istituirsi in quelle regioni.   
-  
-Le norme speciali, da approvarsi per decreto Reale proposto dal ministro del tesoro, previa deliberazione del Consiglio dei ministri, potranno contenere deroghe a disposizioni della [legge 28 aprile 1910, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-04-28;204) (testo unico), nei limiti strettamente necessari in rapporto alle condizioni locali della Tripolitania e della Cirenaica.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il presente decreto sara' presentato al parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 10 dicembre 1911.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti - Tedesco.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
+Il presente decreto sara' presentato al parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 dicembre 1911. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti - Tedesco. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

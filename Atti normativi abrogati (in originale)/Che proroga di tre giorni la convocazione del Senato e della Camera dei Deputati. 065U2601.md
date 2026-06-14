@@ -1,16 +1,14 @@
-REGIO DECRETO 08 novembre 1865 n. 2601
-
-
-REGIO DECRETO 08 novembre 1865 n. 2601
-======================================
-
-Che proroga di tre giorni la convocazione del Senato e della Camera dei Deputati. (065U2601)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/11/1865
+---
+tipo: REGIO DECRETO
+numero: 2601
+data: 1865-11-08
+titolo: "Che proroga di tre giorni la convocazione del Senato e della Camera dei Deputati. (065U2601)"
+urn: urn:nir:stato:regio.decreto:1865-11-08;2601
+codice_redazionale: 065U2601
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,22 @@ Visto il Nostro Decreto delli 7 settembre 1865, n.° 2462;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La convocazione del Senato e della Camera dei Deputati, la quale coll'art. 3 del Nostro Decreto 7 settembre scorso, n.° 2462, era stata passata pel 15 corrente novembre, e' prorogata al giorno 18 dello stesso mese.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 8 novembre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 9 novembre 1865   
-  
-Reg.° 34 Atti del Governo a c. 54. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. il Guardasigilli Cortese.   
-  
-Natoli.   
+La convocazione del Senato e della Camera dei Deputati, la quale coll'art. 3 del Nostro Decreto 7 settembre scorso, n.° 2462, era stata passata pel 15 corrente novembre, e' prorogata al giorno 18 dello stesso mese. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 8 novembre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 9 novembre 1865 
+ 
+ Reg.° 34 Atti del Governo a c. 54. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. il Guardasigilli Cortese. 
+ 
+ Natoli.

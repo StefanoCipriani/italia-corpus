@@ -1,16 +1,14 @@
-REGIO DECRETO 16 ottobre 1861 n. 268
-
-
-REGIO DECRETO 16 ottobre 1861 n. 268
-====================================
-
-Con cui si provvede agli Impiegati delle soppresse Amministrazioni Sanitarie nelle Provincie dell'Emilia (061U0268)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/11/1861
+---
+tipo: REGIO DECRETO
+numero: 268
+data: 1861-10-16
+titolo: "Con cui si provvede agli Impiegati delle soppresse Amministrazioni Sanitarie nelle Provincie dell'Emilia (061U0268)"
+urn: urn:nir:stato:regio.decreto:1861-10-16;268
+codice_redazionale: 061U0268
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 Per grazia di Dio e per volonta' della Nazione
 
@@ -20,23 +18,16 @@ Veduto il Nostro Decreto del 9 ottobre 1861, n. 254, col quale, dichiarata esecu
 
 Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno;
 
-Sentito
--------
+Sentito il Consiglio medesimo; Abbiamo decretato e decretiamo :
 
-il Consiglio medesimo; Abbiamo decretato e decretiamo :
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Gli attuali funzionarii ed impiegati presso le Amministrazioni sanitarie delle Provincie dell'Emilia, che abbiano stipendio a carico del pubblico Erario, e che per effetto del Nostro Decreto 9 ottobre corrente, n. 254, vengano a cessare dalle loro funzioni, sono mantenuti nei rispettivi gradi e stipendi, salva la destinazione che venisse loro data in appresso.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 16 ottobre 1861.   
-  
-VITTORIO EMANUELE.   
-  
-Ricasoli   
-  
+Gli attuali funzionarii ed impiegati presso le Amministrazioni sanitarie delle Provincie dell'Emilia, che abbiano stipendio a carico del pubblico Erario, e che per effetto del Nostro Decreto 9 ottobre corrente, n. 254, vengano a cessare dalle loro funzioni, sono mantenuti nei rispettivi gradi e stipendi, salva la destinazione che venisse loro data in appresso. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 16 ottobre 1861. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Ricasoli

@@ -1,16 +1,14 @@
-REGIO DECRETO 28 luglio 1922 n. 1228
-
-
-REGIO DECRETO 28 luglio 1922 n. 1228
-====================================
-
-Che stabilisce i rapporti del dare ed avere fra la Direzione generale approvvigionamenti e la Sezione pilatori del Consorzio nazionale per il riso, per l'annata risicola 1920-921. (022U1228)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/09/1922
+---
+tipo: REGIO DECRETO
+numero: 1228
+data: 1922-07-28
+titolo: "Che stabilisce i rapporti del dare ed avere fra la Direzione generale approvvigionamenti e la Sezione pilatori del Consorzio nazionale per il riso, per l'annata risicola 1920-921. (022U1228)"
+urn: urn:nir:stato:regio.decreto:1922-07-28;1228
+codice_redazionale: 022U1228
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -30,63 +28,50 @@ Visti i Nostri decreti 21 luglio 1921, n. 1023 e 16 febbraio 1922, n. 162, relat
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per le finanze, di concerto col presidente del Consiglio dei ministri segretario di Stato per l'interno e coi ministri per l'agricoltura e il tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per le finanze, di concerto col presidente del Consiglio dei ministri segretario di Stato per l'interno e coi ministri per l'agricoltura e il tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Per gli utili accertati nel bilancio della gestione 1920-921 della Sezione «Pilatori» del Consorzio nazionale per il riso, l'ultimo comma dell'art. 12 dello statuto della Sezione medesima viene sostituito dal seguente: 
+ 
+ «Il residuo verra' distribuito quale interesse sul capitale fino al 5,50% annuo e il di piu' devoluto allo Stato per essere assegnato in ragione di tre quarti al Ministero per l'agricoltura, per provvedere all'incremento della risicultura e l'altro quarto alla gestione degli approvvigionamenti e consumi.
 
-  
-  
-  
-Per gli utili accertati nel bilancio della gestione 1920-921 della Sezione «Pilatori» del Consorzio nazionale per il riso, l'ultimo comma dell'art. 12 dello statuto della Sezione medesima viene sostituito dal seguente:   
-  
-«Il residuo verra' distribuito quale interesse sul capitale fino al 5,50% annuo e il di piu' devoluto allo Stato per essere assegnato in ragione di tre quarti al Ministero per l'agricoltura, per provvedere all'incremento della risicultura e l'altro quarto alla gestione degli approvvigionamenti e consumi.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-  
-Per la campagna risicola 1920-1921 i prezzi dei risoni requisiti e sottoposti a lavorazione, le relative rese, i prezzi dei risi ricavati, nei rapporti fra la Direzione generale degli approvvigionamenti e consumi e la Sezione «Pilatori» del Consorzio nazionale per il riso restano stabiliti come segue:   
-  
-Costo medio unitario per quintale di risoni, compresi i compensi e premi mensili di conservazione, la condotta alla pila, la lavorazione e le spese tutte delle pilerie e della sezione:   
-  
-Risoni comuni L. 104,33.   
-  
-Risoni semifini L. 167,83.   
-  
-Risoni fini L. 111,33   
-  
-Rese medie:   
-  
-Risoni comuni 62,95%.   
-  
-Risoni semifini 60,52%.   
-  
-Risoni fini 55,66%.   
-  
-Prezzo unitario per quintale, nella cessione dalla Sezione «Pilatori» alla Direzione generale degli approvvigionamenti e consumi, per i risi e mezzegrane, messi su vagone partenza, extra tele, in base ai detti costi effettivi dei risoni lavorati ed alle rese medie indicate:   
-  
-Riso comune L. 153,78.   
-  
-Riso semifino L. 165,69.   
-  
-Riso fino L. 186,36.   
-  
-Mezzagrana e risina bianca L. 91.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 luglio 1922.   
-  
-VITTORIO EMANUELE.   
-  
-BERTONE - ANILE - PEANO - BERTINI.   
-  
-Visto, il guardasigilli: ALESSIO.   
-  
+Per la campagna risicola 1920-1921 i prezzi dei risoni requisiti e sottoposti a lavorazione, le relative rese, i prezzi dei risi ricavati, nei rapporti fra la Direzione generale degli approvvigionamenti e consumi e la Sezione «Pilatori» del Consorzio nazionale per il riso restano stabiliti come segue: 
+ 
+ Costo medio unitario per quintale di risoni, compresi i compensi e premi mensili di conservazione, la condotta alla pila, la lavorazione e le spese tutte delle pilerie e della sezione: 
+ 
+ Risoni comuni L. 104,33. 
+ 
+ Risoni semifini L. 167,83. 
+ 
+ Risoni fini L. 111,33 
+ 
+ Rese medie: 
+ 
+ Risoni comuni 62,95%. 
+ 
+ Risoni semifini 60,52%. 
+ 
+ Risoni fini 55,66%. 
+ 
+ Prezzo unitario per quintale, nella cessione dalla Sezione «Pilatori» alla Direzione generale degli approvvigionamenti e consumi, per i risi e mezzegrane, messi su vagone partenza, extra tele, in base ai detti costi effettivi dei risoni lavorati ed alle rese medie indicate: 
+ 
+ Riso comune L. 153,78. 
+ 
+ Riso semifino L. 165,69. 
+ 
+ Riso fino L. 186,36. 
+ 
+ Mezzagrana e risina bianca L. 91. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 luglio 1922. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ BERTONE - ANILE - PEANO - BERTINI. 
+ 
+ Visto, il guardasigilli: ALESSIO.

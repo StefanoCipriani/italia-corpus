@@ -1,21 +1,17 @@
-REGIO DECRETO 06 gennaio 1895 n. II
+---
+tipo: REGIO DECRETO
+numero: II
+data: 1895-01-06
+titolo: "Che concentra nella congregazione di carita' di Pontestura (Alessandria) i lasciti elemosinieri Corrado esclusa la parte di culto, Martinotti e Galletta. (9500002R)"
+urn: urn:nir:stato:regio.decreto:1895-01-06;2
+codice_redazionale: 9500002R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 gennaio 1895 n. II
-===================================
-
-Che concentra nella congregazione di carita' di Pontestura (Alessandria) i lasciti elemosinieri Corrado esclusa la parte di culto, Martinotti e Galletta. (9500002R)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/02/1895
-
-Art. 1
-------
-
-  
-Che concentra nella congregazione di carita' di Pontestura (Alessandria) i lasciti elemosinieri Corrado esclusa la parte di culto, Martinotti e Galletto. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 19 gennaio 1895.   
-  
-Reg. 197. Atti del Governo a f. 85.   
-  
+Che concentra nella congregazione di carita' di Pontestura (Alessandria) i lasciti elemosinieri Corrado esclusa la parte di culto, Martinotti e Galletto. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 19 gennaio 1895. 
+ 
+ Reg. 197. Atti del Governo a f. 85.

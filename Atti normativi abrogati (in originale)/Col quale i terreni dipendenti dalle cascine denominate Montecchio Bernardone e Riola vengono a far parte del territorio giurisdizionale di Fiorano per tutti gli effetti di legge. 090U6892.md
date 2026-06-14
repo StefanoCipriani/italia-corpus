@@ -1,16 +1,14 @@
-REGIO DECRETO 28 maggio 1890 n. 6892
-
-
-REGIO DECRETO 28 maggio 1890 n. 6892
-====================================
-
-Col quale i terreni dipendenti dalle cascine denominate Montecchio, Bernardone e Riola vengono a far parte del territorio giurisdizionale di Fiorano per tutti gli effetti di legge. (090U6892)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/07/1890
+---
+tipo: REGIO DECRETO
+numero: 6892
+data: 1890-05-28
+titolo: "Col quale i terreni dipendenti dalle cascine denominate Montecchio, Bernardone e Riola vengono a far parte del territorio giurisdizionale di Fiorano per tutti gli effetti di legge. (090U6892)"
+urn: urn:nir:stato:regio.decreto:1890-05-28;6892
+codice_redazionale: 090U6892
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,24 +20,18 @@ Viste le deliberazioni prese dal Consiglio comunale di Fiorano in data 24 maggio
 
 Visti il decreto dittatoriale 4 dicembre 1859, n. 68, e la legge comunale e provinciale vigente;
 
-Visti
------
+Visti tutti gli altri atti relativi; Abbiamo decretato e decretiamo:
 
-tutti gli altri atti relativi; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I terreni dipendenti dalle cascine denominate Montecchio, Bernardona e Riola, fanno parte del territorio giurisdizionale di Fiorano a tutti gli effetti di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 maggio 1890.   
-  
-UMBERTO.   
-  
-Crispi.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
+I terreni dipendenti dalle cascine denominate Montecchio, Bernardona e Riola, fanno parte del territorio giurisdizionale di Fiorano a tutti gli effetti di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 maggio 1890. 
+ 
+ UMBERTO. 
+ 
+ Crispi. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

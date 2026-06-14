@@ -1,21 +1,17 @@
-REGIO DECRETO 23 ottobre 1904 n. CCCCLXIV
+---
+tipo: REGIO DECRETO
+numero: CCCCLXIV
+data: 1904-10-23
+titolo: "Con cui il pio legato Lorenzo Maria Ferri di Zibello (Parma) viene eretto in ente morale e ne viene approvato lo statuto organico. (0400464R)"
+urn: urn:nir:stato:regio.decreto:1904-10-23;464
+codice_redazionale: 0400464R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 ottobre 1904 n. CCCCLXIV
-=========================================
-
-Con cui il pio legato Lorenzo Maria Ferri di Zibello (Parma) viene eretto in ente morale e ne viene approvato lo statuto organico. (0400464R)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/12/1904
-
-Art. 1
-------
-
-  
-Con cui il pio legato Lorenzo Maria Ferri di Zibello (Parma) viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 19 novembre 1904.   
-  
-Reg. 19. Atti del Governo a f. 157.   
-  
+Con cui il pio legato Lorenzo Maria Ferri di Zibello (Parma) viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 19 novembre 1904. 
+ 
+ Reg. 19. Atti del Governo a f. 157.

@@ -1,16 +1,14 @@
-REGIO DECRETO 13 marzo 1933 n. 206
-
-
-REGIO DECRETO 13 marzo 1933 n. 206
-==================================
-
-Autorizzazione al comune di Varese a riscuotere, fino al 31 dicembre 1933, le imposte di consumo con la tariffa della classe D. (033U0206)
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/04/1933
+---
+tipo: REGIO DECRETO
+numero: 206
+data: 1933-03-13
+titolo: "Autorizzazione al comune di Varese a riscuotere, fino al 31 dicembre 1933, le imposte di consumo con la tariffa della classe D. (033U0206)"
+urn: urn:nir:stato:regio.decreto:1933-03-13;206
+codice_redazionale: 033U0206
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,30 +20,22 @@ Vista la domanda avanzata dal comune di Varese per avvalersi della disposizione 
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Varese e' autorizzato a riscuotere, fino al 31 dicembre 1933, le imposte di consumo con le aliquote stabilite per la classe D.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti a osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 marzo 1933 - Anno XI   
-  
-VITTORIO EMANUELE   
-  
-JUNG.   
-  
-Visto, il Guardasigilli: DE FRANCISCI.   
-  
-Registrato alla Corte dei conti, addi' 29 marzo 1933 - Anno XI   
-  
-Atti del Governo, registro 330, foglio 119. - MANCINI.   
-  
-  
+Il comune di Varese e' autorizzato a riscuotere, fino al 31 dicembre 1933, le imposte di consumo con le aliquote stabilite per la classe D. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti a osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 marzo 1933 - Anno XI 
+ 
+ VITTORIO EMANUELE 
+ 
+ JUNG. 
+ 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ 
+ Registrato alla Corte dei conti, addi' 29 marzo 1933 - Anno XI 
+ 
+ Atti del Governo, registro 330, foglio 119. - MANCINI.

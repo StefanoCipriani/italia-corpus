@@ -1,17 +1,17 @@
-REGIO DECRETO 21 aprile 1895 n. 185
+---
+tipo: REGIO DECRETO
+numero: 185
+data: 1895-04-21
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0185)"
+urn: urn:nir:stato:regio.decreto:1895-04-21;185
+codice_redazionale: 095U0185
+vigente: true
+---
 
-
-REGIO DECRETO 21 aprile 1895 n. 185
-===================================
-
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0185)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1895
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-185. Il Comune di Cogollo e' aggregato alla Sezione elettorale di Caltrano del Collegio di Thiene.
+185.
+
+Il Comune di Cogollo e' aggregato alla Sezione elettorale di Caltrano del Collegio di Thiene.

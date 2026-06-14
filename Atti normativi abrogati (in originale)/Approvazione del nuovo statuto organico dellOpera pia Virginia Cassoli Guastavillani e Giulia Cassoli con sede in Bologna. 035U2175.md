@@ -1,21 +1,21 @@
-REGIO DECRETO 23 agosto 1935 n. 2175
+---
+tipo: REGIO DECRETO
+numero: 2175
+data: 1935-08-23
+titolo: "Approvazione del nuovo statuto organico dell'Opera pia «Virginia Cassoli Guastavillani e Giulia Cassoli» con sede in Bologna. (035U2175)"
+urn: urn:nir:stato:regio.decreto:1935-08-23;2175
+codice_redazionale: 035U2175
+vigente: true
+---
 
-
-REGIO DECRETO 23 agosto 1935 n. 2175
-====================================
-
-Approvazione del nuovo statuto organico dell'Opera pia «Virginia Cassoli Guastavillani e Giulia Cassoli» con sede in Bologna. (035U2175)
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/01/1936
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2175. R. decreto 23 agosto 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato il nuovo statuto organico dell'Opera pia «Virginia Cassoli Guastavillani e Giulia Cassoli» con sede in Bologna.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 13 dicembre 1935 - Anno XIV.
+2175.
+
+R. decreto 23 agosto 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato il nuovo statuto organico dell'Opera pia «Virginia Cassoli Guastavillani e Giulia Cassoli» con sede in Bologna. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 13 dicembre 1935 - Anno XIV.

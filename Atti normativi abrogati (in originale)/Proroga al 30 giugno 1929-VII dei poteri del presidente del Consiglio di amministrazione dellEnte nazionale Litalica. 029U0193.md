@@ -1,55 +1,47 @@
-REGIO DECRETO 31 gennaio 1929 n. 193
-
-
-REGIO DECRETO 31 gennaio 1929 n. 193
-====================================
-
-Proroga al 30 giugno 1929-VII dei poteri del presidente del Consiglio di amministrazione dell'Ente nazionale «L'italica». (029U0193)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/03/1929
+---
+tipo: REGIO DECRETO
+numero: 193
+data: 1929-01-31
+titolo: "Proroga al 30 giugno 1929-VII dei poteri del presidente del Consiglio di amministrazione dell'Ente nazionale «L'italica». (029U0193)"
+urn: urn:nir:stato:regio.decreto:1929-01-31;193
+codice_redazionale: 029U0193
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 17 agosto 1928, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-17;2030), con cui sono conferiti fino al 31 dicembre 1928-VII al conte gr. uff. Guido Carlo Visconti di Modrone, presidente del Consiglio di amministrazione dell'Ente nazionale «L'Italica», i poteri del Consiglio stesso;
+Visto il [R. decreto 17 agosto 1928, n. 2030](Proroga%20del%20termine%20per%20la%20nomina%20del%20Consiglio%20di%20amministrazione%20dellEnte%20nazionale%20LItalica.%20028U2030.md), con cui sono conferiti fino al 31 dicembre 1928-VII al conte gr. uff. Guido Carlo Visconti di Modrone, presidente del Consiglio di amministrazione dell'Ente nazionale «L'Italica», i poteri del Consiglio stesso;
 
 Ritenuta l'opportunita', in attesa della completa sistemazione dell'Ente nazionale «L'Italica», di assegnare un'ulteriore proroga al termine predetto;
 
-Vista la [legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100);
+Vista la [legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visto il [R. decreto 18 dicembre 1927, n. 2532](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-18;2532);
+Visto il [R. decreto 18 dicembre 1927, n. 2532](Passaggio%20dellEnte%20nazionale%20%20LItalica%20%20per%20la%20diffusione%20della%20cultura%20italiana%20allestero%20alla%20dipendenza%20del%20Ministero%20degli%20affari%20esteri.%20027U2532.md);
 
 Udito il parere del Consiglio di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per gli affari esteri; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per gli affari esteri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il termine previsto dal [R. decreto 17 agosto 1928, n. 2030](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-08-17;2030), per la nomina del Consiglio di amministrazione dell'Ente nazionale «L'Italica» e' prorogato al 30 giugno 1929-VII. Fino a tale data sono confermati al conte gr. uff. Guido Carlo Visconti di Modrone tutti i poteri del Consiglio stesso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 31 gennaio 1929 - Anno VII   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 27 febbraio 1929 - Anno VII   
-  
-Atti del Governo, registro 281, foglio 195. - Sirovich.   
+Il termine previsto dal [R. decreto 17 agosto 1928, n. 2030](Proroga%20del%20termine%20per%20la%20nomina%20del%20Consiglio%20di%20amministrazione%20dellEnte%20nazionale%20LItalica.%20028U2030.md), per la nomina del Consiglio di amministrazione dell'Ente nazionale «L'Italica» e' prorogato al 30 giugno 1929-VII. Fino a tale data sono confermati al conte gr. uff. Guido Carlo Visconti di Modrone tutti i poteri del Consiglio stesso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 31 gennaio 1929 - Anno VII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 27 febbraio 1929 - Anno VII 
+ 
+ Atti del Governo, registro 281, foglio 195. - Sirovich.

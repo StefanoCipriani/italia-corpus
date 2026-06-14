@@ -1,16 +1,14 @@
-REGIO DECRETO 23 settembre 1865 n. 2515
-
-
-REGIO DECRETO 23 settembre 1865 n. 2515
-=======================================
-
-Col quale sono eretti in Sezione elettorale separata i Comuni di Desenzano, Pozzolengo, Sermione e Rivoltella. (065U2515)
--------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/10/1865
+---
+tipo: REGIO DECRETO
+numero: 2515
+data: 1865-09-23
+titolo: "Col quale sono eretti in Sezione elettorale separata i Comuni di Desenzano, Pozzolengo, Sermione e Rivoltella. (065U2515)"
+urn: urn:nir:stato:regio.decreto:1865-09-23;2515
+codice_redazionale: 065U2515
+vigente: true
+---
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
-----------------------------------------------
 
 RE D'ITALIA
 
@@ -24,23 +22,16 @@ Noverandosi nei Comuni di Desenzano sul lago, Pozzolengo, Sermione e Rivoltella 
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Desenzano sul lago, Pozzolengo, Sermione e Rivoltella che sin qui fecero parte della Sezione del Collegio elettorale di Lonato, n° 80, detta di Lonato, costituiranno d'ora in poi una Sezione separata del Collegio medesimo che si radunera' in Desenzano sul lago.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 23 settembre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Natoli.   
-  
+I Comuni di Desenzano sul lago, Pozzolengo, Sermione e Rivoltella che sin qui fecero parte della Sezione del Collegio elettorale di Lonato, n° 80, detta di Lonato, costituiranno d'ora in poi una Sezione separata del Collegio medesimo che si radunera' in Desenzano sul lago. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 23 settembre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Natoli.

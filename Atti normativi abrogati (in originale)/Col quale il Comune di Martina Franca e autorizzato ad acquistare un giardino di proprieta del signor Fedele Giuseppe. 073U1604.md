@@ -1,16 +1,14 @@
-REGIO DECRETO 03 ottobre 1873 n. 1604
-
-
-REGIO DECRETO 03 ottobre 1873 n. 1604
-=====================================
-
-Col quale il Comune di Martina Franca e' autorizzato ad acquistare un giardino di proprieta' del signor Fedele Giuseppe. (073U1604)
------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/11/1873
+---
+tipo: REGIO DECRETO
+numero: 1604
+data: 1873-10-03
+titolo: "Col quale il Comune di Martina Franca e' autorizzato ad acquistare un giardino di proprieta' del signor Fedele Giuseppe. (073U1604)"
+urn: urn:nir:stato:regio.decreto:1873-10-03;1604
+codice_redazionale: 073U1604
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,33 +18,26 @@ Viste le deliberazioni del Consiglio comunale di Martina Franca dei 27 marzo e 1
 
 Vista la Legge 5 giugno 1850, n. 1307;
 
-Visto il [Regio Decreto 26 giugno 1864, n. 1817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1864-06-26;1817);
+Visto il [Regio Decreto 26 giugno 1864, n. 1817](Contenente%20disposizioni%20per%20lesecuzione%20della%20legge%205%20giugno%201850%20n.%201037.%20064U1817.md);
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro per l'Agricoltura, Industria e Commercio: Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro per l'Agricoltura, Industria e Commercio: Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Martina Franca e' autorizzato ad acquistare il giardino di proprieta' del signor Fedele Giuseppe, della estensione d'are 64 e centiare 30, riportato nel Catasto comunale al numero 5115, Sezione E, n. 739, giusta l'ultima voltura, allo scopo di formare un campo-modello per la scuola di agronomia.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 3 ottobre 1873.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 14 ottobre 1873   
-  
-Vol. 72 Atti del Governo a c. 47. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Vigliani.   
-  
-G. Finali.   
-  
+Il Comune di Martina Franca e' autorizzato ad acquistare il giardino di proprieta' del signor Fedele Giuseppe, della estensione d'are 64 e centiare 30, riportato nel Catasto comunale al numero 5115, Sezione E, n. 739, giusta l'ultima voltura, allo scopo di formare un campo-modello per la scuola di agronomia. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 3 ottobre 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 14 ottobre 1873 
+ 
+ Vol. 72 Atti del Governo a c. 47. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Vigliani. 
+ 
+ G. Finali.

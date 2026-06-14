@@ -1,220 +1,349 @@
-REGIO DECRETO 17 marzo 1932 n. 521
-
-
-REGIO DECRETO 17 marzo 1932 n. 521
-==================================
-
-Iscrizione di rendita a favore di Enti ecclesiastici conservati. (032U0521)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/06/1932
+---
+tipo: REGIO DECRETO
+numero: 521
+data: 1932-03-17
+titolo: "Iscrizione di rendita a favore di Enti ecclesiastici conservati. (032U0521)"
+urn: urn:nir:stato:regio.decreto:1932-03-17;521
+codice_redazionale: 032U0521
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [legge 7 luglio 1866, n. 3036](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1866-07-07;3036), ed il relativo regolamento approvato con [R. decreto 21 luglio 1866, n. 3070](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-07-21;3070);
+Vista la [legge 7 luglio 1866, n. 3036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1866-07-07;3036), ed il relativo regolamento approvato con [R. decreto 21 luglio 1866, n. 3070](Che%20approva%20il%20Regolamento%20sulla%20soppressione%20delle%20Corporazioni%20religiose%20e%20sullasse%20ecclesiastico.%20066U3070.md);
 
-Vista la [legge 27 giugno 1929, n. 1044](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-27;1044);
+Vista la [legge 27 giugno 1929, n. 1044](Liquidazione%20e%20sistemazione%20dei%20rapporti%20del%20Demanio%20dello%20Stato%20col%20Fondo%20per%20il%20culto%20e%20cogli%20Enti%20ecclesiastici%20conservati.%20029U1044.md);
 
 Viste le deliberazioni emesse dal Comitato liquidatore dei beni degli Enti ecclesiastici in data 21 gennaio, 30 giugno, 6, 8, 15, 17, 21, 23 e 31 luglio, 3, 5, 9, 11, 22 e 28 settembre, 1, 10, 15, 16, 22, 24, 29 ottobre, 7, 11, 13 e 28 novembre, 22, 28 e 29 dicembre 1931;
 
-Visto il [R. decreto 21 dicembre 1922, n. 1689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-21;1689);
+Visto il [R. decreto 21 dicembre 1922, n. 1689](Che%20approva%20latto%20di%20transazione%20stipulato%20il%2020%20maggio%201922%20fra%20il%20Demanio%20dello%20Stato%20e%20lAmministrazione%20del%20fondo%20per%20il%20culto%20per%20la%20sistemazione%20dei%20loro%20rapporti%20contabili%20dipendent_7d95e292b713.md);
 
-Vista la [legge 22 gennaio 1931, n. 28](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-01-22;28);
+Vista la [legge 22 gennaio 1931, n. 28](Proroga%20delle%20funzioni%20del%20Comitato%20liquidatore%20dei%20patrimoni%20degli%20Enti%20soppressi%20e%20dei%20beni%20immobili%20degli%20Enti%20ecclesiastici%20conservati.%20031U0028.md);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
-
-Art. 1
-------
+## Art. 1.
 
 Le rendite dovute per la conversione dei beni immobili ai sottoindicati Enti ecclesiastici sono accertate nelle somme seguenti:
 
-1. - Alla Fabbriceria della Chiesa di Ognissanti in Bagnarola di Sesto al Reghena. . . L. 413 --
+1.
 
-2. - Alla Fabbriceria della Chiesa parrocchiale di Magreglio. . .? 573 --
+- Alla Fabbriceria della Chiesa di Ognissanti in Bagnarola di Sesto al Reghena. . . L. 413 --
 
-3. - Alla Fabbriceria della Chiesa parrocchiale di Mezzoldo. . .? 196 --
+2.
 
-4. - All'Opera parrocchiale di S. Vittore in Gallinella di Salsomaggiore. . .? 57,78
+- Alla Fabbriceria della Chiesa parrocchiale di Magreglio. . .? 573 --
 
-5. - Alla Cappella del SS. Sacramento in Biscari. . .? 241,78
+3.
 
-6. - Ai Beneficiati del Giglio in Veroli. . .? 198,45
+- Alla Fabbriceria della Chiesa parrocchiale di Mezzoldo. . .? 196 --
 
-7. - Alla Fabbriceria della Chiesa parrocchiale di S. Vito al Tagliamento per il legato Trecanelli. . .? 735 --
+4.
 
-8. - Alla Fabbriceria della Chiesa parrocchiale di Montegrino. . .? 66,50
+- All'Opera parrocchiale di S. Vittore in Gallinella di Salsomaggiore. . .? 57,78
 
-9. - Alla Cappella di S. Rocco in Isola del Gran Sasso, amministrata da quella Congregazione di carita'. . .? 63,28
+5.
 
-10. - Alla Cappella del Rosario in Cerchiara d'Isola del Gran Sasso, amministrata dalla Congregazione di carita' di Isola del Gran Sasso . . . L. 173,81
+- Alla Cappella del SS. Sacramento in Biscari. . .? 241,78
 
-11. - Alla Cappella di S. Donato in Pretara d'Isola del Gran Sasso, amministrata dalla Congregazione di Carita' di Isola del Gran Sasso.  
+6.
+
+- Ai Beneficiati del Giglio in Veroli. . .? 198,45
+
+7.
+
+- Alla Fabbriceria della Chiesa parrocchiale di S. Vito al Tagliamento per il legato Trecanelli. . .? 735 --
+
+8.
+
+- Alla Fabbriceria della Chiesa parrocchiale di Montegrino. . .? 66,50
+
+9.
+
+- Alla Cappella di S. Rocco in Isola del Gran Sasso, amministrata da quella Congregazione di carita'. . .? 63,28
+
+10.
+
+- Alla Cappella del Rosario in Cerchiara d'Isola del Gran Sasso, amministrata dalla Congregazione di carita' di Isola del Gran Sasso . . . L. 173,81
+
+11.
+
+- Alla Cappella di S. Donato in Pretara d'Isola del Gran Sasso, amministrata dalla Congregazione di Carita' di Isola del Gran Sasso.
 . .? 86,31
 
-12. - Alla Cappella delle Grazie in Isola del Gran Sasso, amministrata da quella Congregazione di carita'. . .? 50,33
+12.
 
-13. - Alla Cappella del Rosario in Tossiccia, amministrata da quella Congregazione di carita'. . .? 157,32
+- Alla Cappella delle Grazie in Isola del Gran Sasso, amministrata da quella Congregazione di carita'. . .? 50,33
 
-14. - Alla Cappella del SS. Sacramento in Villa Vallucci, di Montorio al Vomano, amministrata dalla Congregazione di carita' di Montorio. . .? 18,37
+13.
 
-15. - Alla Chiesa di S. Filippo Neri in Campli, amministrata da quella Congregazione di carita'. . .? 10,50
+- Alla Cappella del Rosario in Tossiccia, amministrata da quella Congregazione di carita'. . .? 157,32
 
-16. - Alla Cappella della Nativita' della Vergine di Campovalano di Campli, amministrata dalla Congregazione di carita' di Campli. . .? 148,75
+14.
 
-17. - Alla Cappella di S. Pancrazio Martire in Campli, amministrata da quella Congregazione di carita'. . .? 8,75
+- Alla Cappella del SS. Sacramento in Villa Vallucci, di Montorio al Vomano, amministrata dalla Congregazione di carita' di Montorio. . .? 18,37
 
-18. - Alla Compagnia della Concezione in Campli, amministrata da quella Congregazione di carita'. . .? 12,25
+15.
 
-19. - Alla Cappella di S. Mariano in Campli, amministrata da quella Congregazione di carita'. . .? 1,96
+- Alla Chiesa di S. Filippo Neri in Campli, amministrata da quella Congregazione di carita'. . .? 10,50
 
-20. - Alla Cappella del SS. Sacramento nella Chiesa cattedrale di Campli, amministrata da quella Congregazione di carita'. . .? 147 --
+16.
 
-21. - Alla Compagnia di S. Carlo Borromeo in Campli, amministrata da quella Congregazione di carita'. . .? 9,45
+- Alla Cappella della Nativita' della Vergine di Campovalano di Campli, amministrata dalla Congregazione di carita' di Campli. . .? 148,75
 
-22. - Alla Cappella del Rosario in Villa Vallucci, di Montorio al Vomano, amministrata dalla Congregazione di carita' di Montorio. . .? 17,50
+17.
 
-23. - Alla Cappella del Rosario in Leognano di Montorio al Vomano, amministrata dalla Congregazione di carita' di Montorio. . .? 203,48
+- Alla Cappella di S. Pancrazio Martire in Campli, amministrata da quella Congregazione di carita'. . .? 8,75
 
-24. - Alla Cappella del Sacramento di Comignano in Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 2,13
+18.
 
-25. - Alla Cappella del SS. Sacramento in Padulo di Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 12 --
+- Alla Compagnia della Concezione in Campli, amministrata da quella Congregazione di carita'. . .? 12,25
 
-26. - Alla Cappella del SS. Sacramento in Elce di Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 6,30
+19.
 
-27. - Alla Cappella del SS. Sacramento in Cortino, amministrata da quella Congregazione di carita'. . .? 58,59
+- Alla Cappella di S. Mariano in Campli, amministrata da quella Congregazione di carita'. . .? 1,96
 
-28. - Alla Cappella del SS. Sacramento e Rosario in Casanova di Cortino, amministrata   
-dalla Congregazione di carita' di Cortino. . .? 32,37
+20.
 
-29. - Alla Cappella del Sacramento in Pagliaroli di Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 5,46
+- Alla Cappella del SS. Sacramento nella Chiesa cattedrale di Campli, amministrata da quella Congregazione di carita'. . .? 147 --
 
-30. - Alla Cappella del SS. Sacramento in Servillo di Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 3,78
+21.
 
-31. - Alla Cappella del Sacro Monte dei Morti in Cortino, amministrata dalla Congregazione di carita' di Cortino. . . L. 11,48
+- Alla Compagnia di S. Carlo Borromeo in Campli, amministrata da quella Congregazione di carita'. . .? 9,45
 
-32. - Alla Chiesa di S. Lorenzo in Pago di Capitignano. . .? 6,86
+22.
 
-33. - Alla Fabbriceria parrocchiale di Chignolo di Isola per il legato Carminati. . .? 1.323 --
+- Alla Cappella del Rosario in Villa Vallucci, di Montorio al Vomano, amministrata dalla Congregazione di carita' di Montorio. . .? 17,50
 
-34. - Alla Fabbriceria della Chiesa parrocchiale di S. Maria Maddalena in Volpino di Zimella. . .? 353,49
+23.
 
-35. - Alle Cappelle amministrate dalla Congregazione di carita' di Caiazzo. . .? 628,82
+- Alla Cappella del Rosario in Leognano di Montorio al Vomano, amministrata dalla Congregazione di carita' di Montorio. . .? 203,48
 
-36. - Al Canonicato Spadoni del Capitolo cattedrale di Civita Castellana. . .? 191,01
+24.
 
-Art. 2
-------
+- Alla Cappella del Sacramento di Comignano in Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 2,13
 
-  
-  
-Dal fondo di rendita sul Gran Libro del Debito pubblico istituito con [R. decreto 21 dicembre 1922, n. 1689](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-12-21;1689), intestato al Demanio dello Stato, sara' trasferita, con decorrenza dal 1° gennaio 1932, agli Enti ecclesiastici indicati nel precedente articolo, la rendita consolidato 3,50 per cento a ciascuno di essi assegnata.   
-  
+25.
 
-Art. 3
-------
+- Alla Cappella del SS. Sacramento in Padulo di Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 12 --
+
+26.
+
+- Alla Cappella del SS. Sacramento in Elce di Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 6,30
+
+27.
+
+- Alla Cappella del SS. Sacramento in Cortino, amministrata da quella Congregazione di carita'. . .? 58,59
+
+28.
+
+- Alla Cappella del SS. Sacramento e Rosario in Casanova di Cortino, amministrata 
+ dalla Congregazione di carita' di Cortino. . .? 32,37
+
+29.
+
+- Alla Cappella del Sacramento in Pagliaroli di Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 5,46
+
+30.
+
+- Alla Cappella del SS. Sacramento in Servillo di Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 3,78
+
+31.
+
+- Alla Cappella del Sacro Monte dei Morti in Cortino, amministrata dalla Congregazione di carita' di Cortino. . . L. 11,48
+
+32.
+
+- Alla Chiesa di S. Lorenzo in Pago di Capitignano. . .? 6,86
+
+33.
+
+- Alla Fabbriceria parrocchiale di Chignolo di Isola per il legato Carminati. . .? 1.323 --
+
+34.
+
+- Alla Fabbriceria della Chiesa parrocchiale di S. Maria Maddalena in Volpino di Zimella. . .? 353,49
+
+35.
+
+- Alle Cappelle amministrate dalla Congregazione di carita' di Caiazzo. . .? 628,82
+
+36.
+
+- Al Canonicato Spadoni del Capitolo cattedrale di Civita Castellana. . .? 191,01
+
+## Art. 2.
+
+Dal fondo di rendita sul Gran Libro del Debito pubblico istituito con [R. decreto 21 dicembre 1922, n. 1689](Che%20approva%20latto%20di%20transazione%20stipulato%20il%2020%20maggio%201922%20fra%20il%20Demanio%20dello%20Stato%20e%20lAmministrazione%20del%20fondo%20per%20il%20culto%20per%20la%20sistemazione%20dei%20loro%20rapporti%20contabili%20dipendent_7d95e292b713.md), intestato al Demanio dello Stato, sara' trasferita, con decorrenza dal 1° gennaio 1932, agli Enti ecclesiastici indicati nel precedente articolo, la rendita consolidato 3,50 per cento a ciascuno di essi assegnata.
+
+## Art. 3.
 
 Per le rate di rendita maturate a tutto il 31 dicembre 1931 sono assegnate agli Enti medesimi le seguenti somme:
 
-1. - Alla Fabbriceria della Chiesa di Ognissanti in Bagnarola di Sesto al Reghena. . . L. 6.651,50
+1.
 
-2. - Alla Fabbriceria della Chiesa parrocchiale di Magreglio. . .? 2.944 --
+- Alla Fabbriceria della Chiesa di Ognissanti in Bagnarola di Sesto al Reghena. . . L. 6.651,50
 
-3. - Alla Fabbriceria della Chiesa parrocchiale di Mezzoldo. . .? 1.504,30
+2.
 
-4. - All'Opera parrocchiale di S. Vittore in Gallinella di Salsomaggiore. . .» 647,73
+- Alla Fabbriceria della Chiesa parrocchiale di Magreglio. . .? 2.944 --
 
-5. - Alla Cappella del SS. Sacramento in Biscari. . .? 6.706,31
+3.
 
-6. - Ai Beneficiati del Giglio in Veroli. . .? 3.442,98
+- Alla Fabbriceria della Chiesa parrocchiale di Mezzoldo. . .? 1.504,30
 
-7. - Alla Fabbriceria della Chiesa parrocchiale di S. Vito al Tagliamento per il   
-legato Trecanelli. . .? 10.583,12
+4.
 
-8. - Alla Fabbriceria parrocchiale di Montegrino. . .? 622,32
+- All'Opera parrocchiale di S. Vittore in Gallinella di Salsomaggiore. . .» 647,73
 
-9. - Alla Cappella di S. Rocco in Isola del Gran Sasso, amministrata da quella Congregazione di carita'. . .? 3.657,27
+5.
 
-10. - Alla Cappella del Rosario in Cerchiara di Isola del Gran Sasso, amministrata dalla Congregazione di carita' di Isola del Gran Sasso. . .? 9.735,51
+- Alla Cappella del SS. Sacramento in Biscari. . .? 6.706,31
 
-11. - Alla Cappella di S. Donato in Pretara d'Isola del Gran Sasso, amministrata dalla Congregazione di carita' di Isola del Gran Sasso.  
+6.
+
+- Ai Beneficiati del Giglio in Veroli. . .? 3.442,98
+
+7.
+
+- Alla Fabbriceria della Chiesa parrocchiale di S. Vito al Tagliamento per il 
+ legato Trecanelli. . .? 10.583,12
+
+8.
+
+- Alla Fabbriceria parrocchiale di Montegrino. . .? 622,32
+
+9.
+
+- Alla Cappella di S. Rocco in Isola del Gran Sasso, amministrata da quella Congregazione di carita'. . .? 3.657,27
+
+10.
+
+- Alla Cappella del Rosario in Cerchiara di Isola del Gran Sasso, amministrata dalla Congregazione di carita' di Isola del Gran Sasso. . .? 9.735,51
+
+11.
+
+- Alla Cappella di S. Donato in Pretara d'Isola del Gran Sasso, amministrata dalla Congregazione di carita' di Isola del Gran Sasso.
 . .? 4.988,56
 
-12. - Alla Cappella delle Grazie in Isola del Gran Sasso, amministrata da quella Congregazione di carita'. . .? 2.909,14
+12.
 
-13. - Alla Cappella del SS. Rosario in Tossiccia, amministrata da quella Congregazione di carita'. . .? 8.931,77
+- Alla Cappella delle Grazie in Isola del Gran Sasso, amministrata da quella Congregazione di carita'. . .? 2.909,14
 
-14. - Alla Cappella del Sacramento in Villa Vallucci di Montorio al Vomano, amministrata dalla Congregazione di carita' di Montorio. . .? 1.012,14
+13.
 
-15. - Alla Chiesa di S. Filippo Neri in Campli, amministrata da quella Congregazione di carita'. . .? 617,85
+- Alla Cappella del SS. Rosario in Tossiccia, amministrata da quella Congregazione di carita'. . .? 8.931,77
 
-16. - Alla Cappella della Nativita' della Vergine di Campovalano di Campli, amministrata dalla Congregazione di carita' di Campli. . . L. 8.753,27
+14.
 
-17. - Alla Cappella di S. Pancrazio Martire in Campli, amministrata da quella Congregazione di carita'. . .? 514,93
+- Alla Cappella del Sacramento in Villa Vallucci di Montorio al Vomano, amministrata dalla Congregazione di carita' di Montorio. . .? 1.012,14
 
-18. - Alla Compagnia della Concezione in Campli, amministrata da quella Congregazione di carita'. . .? 711,92
+15.
 
-19. - Alla Cappella di S. Mariano in Campli, amministrata da quella Congregazione   
-di carita'. . .? 115,41
+- Alla Chiesa di S. Filippo Neri in Campli, amministrata da quella Congregazione di carita'. . .? 617,85
 
-20. - Alla Cappella del SS. Sacramento nella Chiesa cattedrale di Campli, amministrata da quella Congregazione di carita'. . .? 8.648,28
+16.
 
-21. - Alla Compagnia di S. Carlo Borromeo in Campli, amministrata da quella Congregazione di carita'. . .? 556,01
+- Alla Cappella della Nativita' della Vergine di Campovalano di Campli, amministrata dalla Congregazione di carita' di Campli. . . L. 8.753,27
 
-22. - Alla Cappella del Rosario in Villa Vallucci di Montorio al Vomano, amministrata dalla Congregazione di carita' di Montorio. . .? 964,09
+17.
 
-23. - Alla Cappella del Rosario in Leognano di Montorio al Vomano, amministrata dalla Congregazione di carita' di Montorio. . .? 11.213,03
+- Alla Cappella di S. Pancrazio Martire in Campli, amministrata da quella Congregazione di carita'. . .? 514,93
 
-24. - Alla Cappella del Sacramento di Comignano in Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 121,66
+18.
 
-25. - Alla Cappella del SS. Sacramento in Padula di Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 684,41
+- Alla Compagnia della Concezione in Campli, amministrata da quella Congregazione di carita'. . .? 711,92
 
-26. - Alla Cappella del SS. Sacramento in Elce di Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 359,12
+19.
 
-27. - Alla Cappella del SS. Sacramento in Cortino, amministrata da quella Congregazione di carita'. . .? 3.416,66
+- Alla Cappella di S. Mariano in Campli, amministrata da quella Congregazione 
+ di carita'. . .? 115,41
 
-28. - Alla Cappella del SS. Sacramento e Rosario in Casanova di Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 1.817,16
+20.
 
-29. - Alla Cappella del SS. Sacramento in Pagliaroli di Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 316,25
+- Alla Cappella del SS. Sacramento nella Chiesa cattedrale di Campli, amministrata da quella Congregazione di carita'. . .? 8.648,28
 
-30. - Alla Cappella del SS. Sacramento in Servillo di Cortino, amministrata dalla Congregazione di carita' di Cortino. . . .? 215,67
+21.
 
-31. - Alla Cappella del Sacro Monte dei Morti in Cortino, amministrata da quella Congregazione di carita'. . .? 654,60
+- Alla Compagnia di S. Carlo Borromeo in Campli, amministrata da quella Congregazione di carita'. . .? 556,01
 
-32. - Alla Chiesa di S. Lorenzo in Pago di Capitignano. . .? 208,88
+22.
 
-33. - Alla Fabbriceria parrocchiale di Chignolo d'Isola per legato Carminati. . .? 9.562,35
+- Alla Cappella del Rosario in Villa Vallucci di Montorio al Vomano, amministrata dalla Congregazione di carita' di Montorio. . .? 964,09
 
-34. - Alla Fabbriceria della Chiesa parrocchiale di S. Maria Maddalena in Volpino di Zimella. . .? 4.197,31
+23.
 
-35. - Alle Cappelle amministrate dalla Congregazione di carita' di Caiazzo. . .? 31.327,12   
-comprese in detta somma L. 8000 a titolo transattivo per risarcimento di danni ed a tacitazione di qualsiasi diritto nascente dalla [sentenza 4 aprile 1914 del Tribunale di S. Maria Capua Vetere.](https://e-justice.europa.eu/ecli/ECLI::::)
+- Alla Cappella del Rosario in Leognano di Montorio al Vomano, amministrata dalla Congregazione di carita' di Montorio. . .? 11.213,03
 
-36. - Al Canonicato Spadoni del Capitolo cattedrale di Civita Castellana da ripartirsi fra l'Azienda dei patrimoni riuniti ex economali succeduta al sub-economato dei Benefici vacanti di Viterbo e l'attuale investito sacerdote don Antonio Piacentini in ragione, rispettivamente, di L. 468,50 e L. 1198,06. . . L. 1.666,56   
-E' altresi' assegnata, a titolo di arretrati di rendita al Canonicato di concura di S. Pietro Apostolo in Carbognano, e per esso all'Azienda dei patrimoni riuniti ex economali, succeduta al sub-economato dei Benefici vacanti di Viterbo, salvo il riparto fra chi di ragione, la somma di. . .? 1.938,10
+24.
 
-Art. 4
-------
+- Alla Cappella del Sacramento di Comignano in Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 121,66
 
-  
-  
-Le somme indicate nel precedente articolo saranno prelevate dal capitolo 512 dello stato di previsione della spesa del Ministero delle finanze per il corrente esercizio finanziario.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Roma, addi' 17 marzo 1932 - Anno X   
-  
-VITTORIO EMANUELE.   
-  
-  
-Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 19 maggio 1932 - Anno X   
-Atti del Governo, registro 320, foglio 80. - Mancini.   
-  
+25.
+
+- Alla Cappella del SS. Sacramento in Padula di Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 684,41
+
+26.
+
+- Alla Cappella del SS. Sacramento in Elce di Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 359,12
+
+27.
+
+- Alla Cappella del SS. Sacramento in Cortino, amministrata da quella Congregazione di carita'. . .? 3.416,66
+
+28.
+
+- Alla Cappella del SS. Sacramento e Rosario in Casanova di Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 1.817,16
+
+29.
+
+- Alla Cappella del SS. Sacramento in Pagliaroli di Cortino, amministrata dalla Congregazione di carita' di Cortino. . .? 316,25
+
+30.
+
+- Alla Cappella del SS. Sacramento in Servillo di Cortino, amministrata dalla Congregazione di carita' di Cortino. . . .? 215,67
+
+31.
+
+- Alla Cappella del Sacro Monte dei Morti in Cortino, amministrata da quella Congregazione di carita'. . .? 654,60
+
+32.
+
+- Alla Chiesa di S. Lorenzo in Pago di Capitignano. . .? 208,88
+
+33.
+
+- Alla Fabbriceria parrocchiale di Chignolo d'Isola per legato Carminati. . .? 9.562,35
+
+34.
+
+- Alla Fabbriceria della Chiesa parrocchiale di S. Maria Maddalena in Volpino di Zimella. . .? 4.197,31
+
+35.
+
+- Alle Cappelle amministrate dalla Congregazione di carita' di Caiazzo. . .? 31.327,12 
+ comprese in detta somma L. 8000 a titolo transattivo per risarcimento di danni ed a tacitazione di qualsiasi diritto nascente dalla sentenza 4 aprile 1914 del Tribunale di S. Maria Capua Vetere.
+
+36.
+
+- Al Canonicato Spadoni del Capitolo cattedrale di Civita Castellana da ripartirsi fra l'Azienda dei patrimoni riuniti ex economali succeduta al sub-economato dei Benefici vacanti di Viterbo e l'attuale investito sacerdote don Antonio Piacentini in ragione, rispettivamente, di L. 468,50 e L. 1198,06. . . L. 1.666,56 
+ E' altresi' assegnata, a titolo di arretrati di rendita al Canonicato di concura di S. Pietro Apostolo in Carbognano, e per esso all'Azienda dei patrimoni riuniti ex economali, succeduta al sub-economato dei Benefici vacanti di Viterbo, salvo il riparto fra chi di ragione, la somma di. . .? 1.938,10
+
+## Art. 4.
+
+Le somme indicate nel precedente articolo saranno prelevate dal capitolo 512 dello stato di previsione della spesa del Ministero delle finanze per il corrente esercizio finanziario. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 17 marzo 1932 - Anno X 
+ 
+ VITTORIO EMANUELE. 
+ 
+ 
+ Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 19 maggio 1932 - Anno X 
+ Atti del Governo, registro 320, foglio 80. - Mancini.

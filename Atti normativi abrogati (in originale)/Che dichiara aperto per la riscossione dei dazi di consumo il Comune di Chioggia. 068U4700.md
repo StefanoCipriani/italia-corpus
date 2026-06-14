@@ -1,16 +1,14 @@
-REGIO DECRETO 15 novembre 1868 n. 4700
-
-
-REGIO DECRETO 15 novembre 1868 n. 4700
-======================================
-
-Che dichiara aperto, per la riscossione dei dazi di consumo, il Comune di Chioggia. (068U4700)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/12/1868
+---
+tipo: REGIO DECRETO
+numero: 4700
+data: 1868-11-15
+titolo: "Che dichiara aperto, per la riscossione dei dazi di consumo, il Comune di Chioggia. (068U4700)"
+urn: urn:nir:stato:regio.decreto:1868-11-15;4700
+codice_redazionale: 068U4700
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,20 @@ Veduto il ricorso del Comune di Chioggia per essere dichiarato aperto per la ris
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
 
-proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Chioggia, quantunque appartenente alla seconda classe, e' dichiarato aperto per la riscossione dei dazi di consumo.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 15 novembre 1868.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 26 novembre 1868   
-Reg. 44 Atti del Governo a c. 81. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli DE FILIPPO.   
-  
-L. G. CAMBRAY DIGNY.   
-  
-  
+Il Comune di Chioggia, quantunque appartenente alla seconda classe, e' dichiarato aperto per la riscossione dei dazi di consumo. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 15 novembre 1868. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 26 novembre 1868 
+ Reg. 44 Atti del Governo a c. 81. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli DE FILIPPO. 
+ 
+ L. G. CAMBRAY DIGNY.

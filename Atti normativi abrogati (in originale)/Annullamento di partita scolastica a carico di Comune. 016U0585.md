@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 13 aprile 1916 n. 585
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 585
+data: 1916-04-13
+titolo: "Annullamento di partita scolastica a carico di Comune. (016U0585)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-04-13;585
+codice_redazionale: 016U0585
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 13 aprile 1916 n. 585
-=============================================
-
-Annullamento di partita scolastica a carico di Comune. (016U0585)
------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/06/1916
-
-Art. 1
-------
-
-null
+## Art. 1. — null

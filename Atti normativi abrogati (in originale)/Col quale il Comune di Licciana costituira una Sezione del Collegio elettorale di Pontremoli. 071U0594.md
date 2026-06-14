@@ -1,16 +1,14 @@
-REGIO DECRETO 21 dicembre 1871 n. 594
-
-
-REGIO DECRETO 21 dicembre 1871 n. 594
-=====================================
-
-Col quale il Comune di Licciana costituira' una Sezione del Collegio elettorale di Pontremoli. (071U0594)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/01/1872
+---
+tipo: REGIO DECRETO
+numero: 594
+data: 1871-12-21
+titolo: "Col quale il Comune di Licciana costituira' una Sezione del Collegio elettorale di Pontremoli. (071U0594)"
+urn: urn:nir:stato:regio.decreto:1871-12-21;594
+codice_redazionale: 071U0594
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Licciana costituira' d'ora in poi una Sezione del Collegio elettorale di Pontremoli, n. 219, con sede nel capoluogo del Comune stesso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 21 dicembre 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 29 dicembre 1871   
-  
-Reg. 58 Atti del Governo a c. 134. D. Gherardi.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+Il Comune di Licciana costituira' d'ora in poi una Sezione del Collegio elettorale di Pontremoli, n. 219, con sede nel capoluogo del Comune stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 21 dicembre 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 29 dicembre 1871 
+ 
+ Reg. 58 Atti del Governo a c. 134. D. Gherardi. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

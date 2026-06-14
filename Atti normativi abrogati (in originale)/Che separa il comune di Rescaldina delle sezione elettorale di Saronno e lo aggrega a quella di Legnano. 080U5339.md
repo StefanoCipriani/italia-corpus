@@ -1,16 +1,14 @@
-REGIO DECRETO 14 marzo 1880 n. 5339
-
-
-REGIO DECRETO 14 marzo 1880 n. 5339
-===================================
-
-Che separa il comune di Rescaldina delle sezione elettorale di Saronno, e lo aggrega a quella di Legnano. (080U5339)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/04/1880
+---
+tipo: REGIO DECRETO
+numero: 5339
+data: 1880-03-14
+titolo: "Che separa il comune di Rescaldina delle sezione elettorale di Saronno, e lo aggrega a quella di Legnano. (080U5339)"
+urn: urn:nir:stato:regio.decreto:1880-03-14;5339
+codice_redazionale: 080U5339
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,26 +26,19 @@ Che gli elettori di Rescaldina sono 11, per cui con l'aggregazione del detto com
 
 Considerato che tale provvedimento giova a rendere piu' facile l'esercizio del diritto elettorale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Rescaldina e' separato dalla sezione elettorale di Saronno, che fa parte del Collegio elettorale di Busto Arsizio, ed e' aggregato alla azione elettorale di Legnano, appartenente allo stesso Collegio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 marzo 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il comune di Rescaldina e' separato dalla sezione elettorale di Saronno, che fa parte del Collegio elettorale di Busto Arsizio, ed e' aggregato alla azione elettorale di Legnano, appartenente allo stesso Collegio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

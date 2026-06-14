@@ -1,16 +1,14 @@
-REGIO DECRETO 16 maggio 1861 n. 85
-
-
-REGIO DECRETO 16 maggio 1861 n. 85
-==================================
-
-Che autorizza la conversione sul Debito perpetuo di tre rendite rilevanti complessivamente a L. 862.40. (061U0085)
-------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/08/1861
+---
+tipo: REGIO DECRETO
+numero: 85
+data: 1861-05-16
+titolo: "Che autorizza la conversione sul Debito perpetuo di tre rendite rilevanti complessivamente a L. 862.40. (061U0085)"
+urn: urn:nir:stato:regio.decreto:1861-05-16;85
+codice_redazionale: 061U0085
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -38,37 +36,26 @@ Totale . . . L. 862.40
 
 Veduto l'art. 4 del R. Editto 13 febbraio 1841;
 
-Sulla
------
+Sulla proposizione del Ministro delle Finanze; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposizione del Ministro delle Finanze; Abbiamo ordinato ed ordiniamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+L'Amministrazione del Debito pubblico e' autorizzata ad operare il trasferimento dal registro del Debito redimibile creato col R. Editto del 21 agosto 1838 a quello del Debito perpetuo creato col R. Editto del 13 febbraio 1841 delle tre rendite rilevanti complessivamente a lire ottocento sessantadue centesimi quaranta, facienti parte di quelle inscritte sotto i n.i 2848, 2850 e 3661 sottoposte al vincolo di successione, e state colpite dalla sorte nell'estrazione del 28 settembre 1860, ciascuna per la somma sovra indicata.
 
-  
-  
-L'Amministrazione del Debito pubblico e' autorizzata ad operare il trasferimento dal registro del Debito redimibile creato col R. Editto del 21 agosto 1838 a quello del Debito perpetuo creato col R. Editto del 13 febbraio 1841 delle tre rendite rilevanti complessivamente a lire ottocento sessantadue centesimi quaranta, facienti parte di quelle inscritte sotto i n.i 2848, 2850 e 3661 sottoposte al vincolo di successione, e state colpite dalla sorte nell'estrazione del 28 settembre 1860, ciascuna per la somma sovra indicata.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Pel pagamento delle rendite perpetue di cui all'articolo precedente e' assegnata all' Amministrazione del Debito pubblico sulla Tesoreria centrale dello Stato un'annua somma di lire ottocento sessantadue centesimi quaranta a far tempo dal 1.° ottobre 1860.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino il 16 maggio 1861.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 17 maggio 1861   
-  
-Reg.° 17 Atti del Governo a c. 142. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. B. Cassinis.   
-  
-Pietro Bastogi.   
-  
+Pel pagamento delle rendite perpetue di cui all'articolo precedente e' assegnata all' Amministrazione del Debito pubblico sulla Tesoreria centrale dello Stato un'annua somma di lire ottocento sessantadue centesimi quaranta a far tempo dal 1.° ottobre 1860. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino il 16 maggio 1861. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 17 maggio 1861 
+ 
+ Reg.° 17 Atti del Governo a c. 142. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. B. Cassinis. 
+ 
+ Pietro Bastogi.

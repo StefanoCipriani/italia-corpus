@@ -1,22 +1,22 @@
-REGIO DECRETO 27 giugno 1935 n. 1506
+---
+tipo: REGIO DECRETO
+numero: 1506
+data: 1935-06-27
+titolo: "Riconoscimento giuridico ed approvazione dello statuto del «Consorzio per la difesa del vino tipico San Severo bianco», costituito in San Severo. (035U1506)"
+urn: urn:nir:stato:regio.decreto:1935-06-27;1506
+codice_redazionale: 035U1506
+vigente: true
+---
 
-
-REGIO DECRETO 27 giugno 1935 n. 1506
-====================================
-
-Riconoscimento giuridico ed approvazione dello statuto del «Consorzio per la difesa del vino tipico San Severo bianco», costituito in San Severo. (035U1506)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/09/1935
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1506. R. decreto 27 giugno 1935, col quale, sulla proposta del Ministro per l'agricoltura e per le foreste, viene riconosciuto, agli effetti del [R. decreto-legge 11 gennaio 1930, n. 62](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-01-11;62), convertito in legge con la [legge 10 luglio 1930, n. 1164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-07-10;1164), e del regolamento approvato con [R. decreto 20 novembre 1930, n. 1836](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-11-20;1836), il Consorzio per la difesa del vino tipico San Severo bianco, costituito in San Severo, e viene approvato il relativo statuto. La denominazione di «San Severo bianco» viene riservata ai vini prodotti a norma del cap.  
-II dello statuto del Consorzio suddetto.   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 2 agosto 1935 - Anno XIII
+1506.
+
+R. decreto 27 giugno 1935, col quale, sulla proposta del Ministro per l'agricoltura e per le foreste, viene riconosciuto, agli effetti del [R. decreto-legge 11 gennaio 1930, n. 62](Disposizioni%20per%20la%20difesa%20dei%20vini%20tipici%20italiani.%20030U0062.md), convertito in legge con la [legge 10 luglio 1930, n. 1164](Conversione%20in%20legge%20del%20R.%20decreto-legge%2011%20gennaio%201930%20n.%2062%20contenente%20disposizioni%20per%20la%20difesa%20dei%20vini%20tipici%20italiani.%20030U1164.md), e del regolamento approvato con [R. decreto 20 novembre 1930, n. 1836](Approvazione%20del%20regolamento%20per%20la%20esecuzione%20del%20R.%20decreto-legge%2011%20gennaio%201930%20n.%2062%20portante%20disposizioni%20per%20la%20difesa%20dei%20vini%20tipici.%20030U1836.md), il Consorzio per la difesa del vino tipico San Severo bianco, costituito in San Severo, e viene approvato il relativo statuto. La denominazione di «San Severo bianco» viene riservata ai vini prodotti a norma del cap.
+II dello statuto del Consorzio suddetto. 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 2 agosto 1935 - Anno XIII

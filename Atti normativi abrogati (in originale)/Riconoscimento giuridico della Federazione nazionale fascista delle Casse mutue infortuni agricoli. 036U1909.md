@@ -1,16 +1,14 @@
-REGIO DECRETO 17 settembre 1936 n. 1909
-
-
-REGIO DECRETO 17 settembre 1936 n. 1909
-=======================================
-
-Riconoscimento giuridico della Federazione nazionale fascista delle Casse mutue infortuni agricoli. (036U1909)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/11/1936
+---
+tipo: REGIO DECRETO
+numero: 1909
+data: 1936-09-17
+titolo: "Riconoscimento giuridico della Federazione nazionale fascista delle Casse mutue infortuni agricoli. (036U1909)"
+urn: urn:nir:stato:regio.decreto:1936-09-17;1909
+codice_redazionale: 036U1909
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,42 +16,34 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Veduti il [decreto-legge Luogotenenziale 23 agosto 1917, n. 1450](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1917-08-23;1450), convertito nella [legge 17 aprile 1925, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni, e il relativo regolamento d'esecuzione approvato con [decreto Luogotenenziale 21 novembre 1918, n. 1889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-11-21;1889), e successive modificazioni, concernenti l'assicurazione obbligatoria contro gli infortuni in agricoltura;
+Veduti il [decreto-legge Luogotenenziale 23 agosto 1917, n. 1450](Concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura.%20017U1450.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni, e il relativo regolamento d'esecuzione approvato con [decreto Luogotenenziale 21 novembre 1918, n. 1889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-11-21;1889), e successive modificazioni, concernenti l'assicurazione obbligatoria contro gli infortuni in agricoltura;
 
 Ritenuto che lo sviluppo dei compiti assegnati alla Federazione enti mutui assicurazione infortuni agricoli costituita tra le Casse mutue infortuni agricoli, rende necessario il riconoscimento giuridico della Federazione stessa;
 
-Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100~art1-num3);
+Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Sentito il Consiglio di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le corporazioni, di concerto con il Ministro per l'agricoltura e per le foreste; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le corporazioni, di concerto con il Ministro per l'agricoltura e per le foreste; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Federazione enti mutui assicurazione infortuni agricoli e' riconosciuta come ente morale ed assume la nuova denominazione di Federazione nazionale fascista casse mutue infortuni agricoli con sede in Roma. Con decreto Reale da emanarsi su proposta del Ministro per le corporazioni, di concerto con il Ministro per l'agricoltura e per le foreste e sentito il Consiglio di Stato, ne sara' approvato lo statuto organico.   
-  
-Le Casse mutue esercenti l'assicurazione degli infortuni sul lavoro in agricoltura, ai sensi del [decreto-legge Luogotenenziale 23 agosto 1917, n. 1450](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1917-08-23;1450), convertito nella [legge 17 aprile 1925, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni, fanno parte obbligatoriamente della Federazione nazionale fascista predetta.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 17 settembre 1936 - Anno XIV   
-  
-VITTORIO EMANUELE.   
-  
-MUSSOLINI - LANTINI - ROSSONI   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 7 novembre 1936 - Anno XV   
-  
-Atti del Governo, registro 379, foglio 32. - MANCINI.   
-  
-  
+La Federazione enti mutui assicurazione infortuni agricoli e' riconosciuta come ente morale ed assume la nuova denominazione di Federazione nazionale fascista casse mutue infortuni agricoli con sede in Roma. Con decreto Reale da emanarsi su proposta del Ministro per le corporazioni, di concerto con il Ministro per l'agricoltura e per le foreste e sentito il Consiglio di Stato, ne sara' approvato lo statuto organico. 
+ 
+ Le Casse mutue esercenti l'assicurazione degli infortuni sul lavoro in agricoltura, ai sensi del [decreto-legge Luogotenenziale 23 agosto 1917, n. 1450](Concernente%20provvedimenti%20per%20lassicurazione%20obbligatoria%20contro%20gli%20infortuni%20sul%20lavoro%20in%20agricoltura.%20017U1450.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni, fanno parte obbligatoriamente della Federazione nazionale fascista predetta. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 17 settembre 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE. 
+ 
+ MUSSOLINI - LANTINI - ROSSONI 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 7 novembre 1936 - Anno XV 
+ 
+ Atti del Governo, registro 379, foglio 32. - MANCINI.

@@ -1,21 +1,21 @@
-REGIO DECRETO 10 giugno 1937 n. 1237
+---
+tipo: REGIO DECRETO
+numero: 1237
+data: 1937-06-10
+titolo: "Autorizzazione alla Regia scuola di disegno professionale di Chiavari ad accettare una donazione. (037U1237)"
+urn: urn:nir:stato:regio.decreto:1937-06-10;1237
+codice_redazionale: 037U1237
+vigente: true
+---
 
-
-REGIO DECRETO 10 giugno 1937 n. 1237
-====================================
-
-Autorizzazione alla Regia scuola di disegno professionale di Chiavari ad accettare una donazione. (037U1237)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/08/1937
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1237. R. decreto 10 giugno 1937, col quale, sulla proposta del Ministro per l'educazione nazionale, la Regia scuola di disegno professionale di Chiavari viene autorizzata ad accettare la donazione disposta dalle sorelle signorine Margherita, Luigia, Palmira, Angela ed Eugenia Rocca per la istituzione di un premio da assegnarsi annualmente all'allievo che avra' ottenuto i migliori voti all'esame di licenza della scuola medesima.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 8 luglio 1937 - Anno XV
+1237.
+
+R. decreto 10 giugno 1937, col quale, sulla proposta del Ministro per l'educazione nazionale, la Regia scuola di disegno professionale di Chiavari viene autorizzata ad accettare la donazione disposta dalle sorelle signorine Margherita, Luigia, Palmira, Angela ed Eugenia Rocca per la istituzione di un premio da assegnarsi annualmente all'allievo che avra' ottenuto i migliori voti all'esame di licenza della scuola medesima. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 8 luglio 1937 - Anno XV

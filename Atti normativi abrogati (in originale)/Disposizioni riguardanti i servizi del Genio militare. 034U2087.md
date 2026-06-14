@@ -1,21 +1,21 @@
-REGIO DECRETO 16 ottobre 1934 n. 2087
+---
+tipo: REGIO DECRETO
+numero: 2087
+data: 1934-10-16
+titolo: "Disposizioni riguardanti i servizi del Genio militare. (034U2087)"
+urn: urn:nir:stato:regio.decreto:1934-10-16;2087
+codice_redazionale: 034U2087
+vigente: true
+---
 
-
-REGIO DECRETO 16 ottobre 1934 n. 2087
-=====================================
-
-Disposizioni riguardanti i servizi del Genio militare. (034U2087)
------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/01/1935
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2087. R. decreto 16 ottobre 1934, col quale, sulla proposta del Ministro per la guerra, vengono date disposizioni riguardanti i servizi del Genio militare.   
-  
-Visto, il Guardasigilli: DE FRANCISCI.   
-  
-Registrato alla Corte dei conti, addi' 29 dicembre 1934. - Anno XIII
+2087.
+
+R. decreto 16 ottobre 1934, col quale, sulla proposta del Ministro per la guerra, vengono date disposizioni riguardanti i servizi del Genio militare. 
+ 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ 
+ Registrato alla Corte dei conti, addi' 29 dicembre 1934. - Anno XIII

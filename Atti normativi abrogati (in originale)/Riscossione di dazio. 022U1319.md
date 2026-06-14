@@ -1,17 +1,17 @@
-REGIO DECRETO 04 settembre 1922 n. 1319
+---
+tipo: REGIO DECRETO
+numero: 1319
+data: 1922-09-04
+titolo: "Riscossione di dazio. (022U1319)"
+urn: urn:nir:stato:regio.decreto:1922-09-04;1319
+codice_redazionale: 022U1319
+vigente: true
+---
 
-
-REGIO DECRETO 04 settembre 1922 n. 1319
-=======================================
-
-Riscossione di dazio. (022U1319)
---------------------------------
-
-Entrata in vigore del provvedimento: 08/11/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1319. Regio decreto 4 settembre 1922, col quale, sulla proposta del ministro delle finanze, si autorizza il comune di Valenza, in provincia di Alessandria, a riscuotere un dazio proprio sul consumo di alcuni generi non compresi nelle ordinarie categorie, secondo le voci 54, 55, 56, 57, 58 e 60 della tariffa annessa al R. decreto medesimo.
+1319.
+
+Regio decreto 4 settembre 1922, col quale, sulla proposta del ministro delle finanze, si autorizza il comune di Valenza, in provincia di Alessandria, a riscuotere un dazio proprio sul consumo di alcuni generi non compresi nelle ordinarie categorie, secondo le voci 54, 55, 56, 57, 58 e 60 della tariffa annessa al R. decreto medesimo.

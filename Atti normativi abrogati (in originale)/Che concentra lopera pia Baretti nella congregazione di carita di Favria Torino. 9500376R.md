@@ -1,21 +1,17 @@
-REGIO DECRETO 10 marzo 1895 n. CCCLXXVI
+---
+tipo: REGIO DECRETO
+numero: CCCLXXVI
+data: 1895-03-10
+titolo: "Che concentra l'opera pia Baretti nella congregazione di carita' di Favria (Torino). (9500376R)"
+urn: urn:nir:stato:regio.decreto:1895-03-10;376
+codice_redazionale: 9500376R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 marzo 1895 n. CCCLXXVI
-=======================================
-
-Che concentra l'opera pia Baretti nella congregazione di carita' di Favria (Torino). (9500376R)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/12/1895
-
-Art. 1
-------
-
-  
-Con cui l'opera pia Baretti e' concentrata nella congregazione di carita' di Favria (Torino). - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 27 novembre 1895.   
-  
-Reg. 201. Atti del Governo a f. 121.   
-  
+Con cui l'opera pia Baretti e' concentrata nella congregazione di carita' di Favria (Torino). - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 27 novembre 1895. 
+ 
+ Reg. 201. Atti del Governo a f. 121.

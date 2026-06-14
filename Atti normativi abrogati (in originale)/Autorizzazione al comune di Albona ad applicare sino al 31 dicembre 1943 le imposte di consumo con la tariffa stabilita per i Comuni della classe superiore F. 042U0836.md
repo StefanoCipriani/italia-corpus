@@ -1,16 +1,14 @@
-REGIO DECRETO 11 luglio 1942 n. 836
-
-
-REGIO DECRETO 11 luglio 1942 n. 836
-===================================
-
-Autorizzazione al comune di Albona ad applicare, sino al 31 dicembre 1943, le imposte di consumo con la tariffa stabilita per i Comuni della classe superiore F. (042U0836)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/08/1942
+---
+tipo: REGIO DECRETO
+numero: 836
+data: 1942-07-11
+titolo: "Autorizzazione al comune di Albona ad applicare, sino al 31 dicembre 1943, le imposte di consumo con la tariffa stabilita per i Comuni della classe superiore F. (042U0836)"
+urn: urn:nir:stato:regio.decreto:1942-07-11;836
+codice_redazionale: 042U0836
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,22 @@ Udita la Commissione centrale per la finanza locale che nell'adunanza del 25 mag
 
 Visto l'art. 26 del testo unico per la finanza locale 14 settembre 1931, n. 1175;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Albona e' autorizzato ad applicare fino al 31 dicembre 1943 le imposte di consumo con la tariffa stabilita per i Comuni della classe superiore F.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 11 luglio 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 31 luglio 1942-XX   
-  
-Atti del Governo, registro n. 447, foglio 73. - MANCINI   
+Il comune di Albona e' autorizzato ad applicare fino al 31 dicembre 1943 le imposte di consumo con la tariffa stabilita per i Comuni della classe superiore F. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 11 luglio 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 31 luglio 1942-XX 
+ 
+ Atti del Governo, registro n. 447, foglio 73. - MANCINI

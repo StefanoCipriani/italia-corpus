@@ -1,19 +1,15 @@
-REGIO DECRETO 29 dicembre 1904 n. DXLIII
+---
+tipo: REGIO DECRETO
+numero: DXLIII
+data: 1904-12-29
+titolo: "Erezione in ente morale. (0400543R)"
+urn: urn:nir:stato:regio.decreto:1904-12-29;543
+codice_redazionale: 0400543R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 dicembre 1904 n. DXLIII
-========================================
-
-Erezione in ente morale. (0400543R)
------------------------------------
-
-Entrata in vigore del provvedimento: 08/02/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. DXLIII (Dato a Roma, 29 dicembre 1904), col quale il lascito elemosiniere Mazzetti viene eretto in ente morale e concentrato nella Congregazione di carita' di Frinco (Alessandria).   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. DXLIII (Dato a Roma, 29 dicembre 1904), col quale il lascito elemosiniere Mazzetti viene eretto in ente morale e concentrato nella Congregazione di carita' di Frinco (Alessandria).

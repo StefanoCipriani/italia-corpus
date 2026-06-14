@@ -1,16 +1,14 @@
-REGIO DECRETO 21 luglio 1891 n. 468
-
-
-REGIO DECRETO 21 luglio 1891 n. 468
-===================================
-
-Che annulla due decreti del prefetto di Novara concernenti il riparto delle spese del consorzio per le arginature sulla sponda sinistra del torrente S. Bernardino. (091U0468)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/08/1891
+---
+tipo: REGIO DECRETO
+numero: 468
+data: 1891-07-21
+titolo: "Che annulla due decreti del prefetto di Novara concernenti il riparto delle spese del consorzio per le arginature sulla sponda sinistra del torrente S. Bernardino. (091U0468)"
+urn: urn:nir:stato:regio.decreto:1891-07-21;468
+codice_redazionale: 091U0468
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -52,34 +50,22 @@ Considerando che oltre a tale quota nell'interesse generale, lo Stato non e' ten
 
 Visti gli articoli 96, 97 e 106 della legge 20 marzo 1865, allegato F, sulle opere pubbliche, e l'art. 255 della legge comunale e provinciale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Art. 1. — null
 
-Art. 1
-------
+Bernardino, i due decreti dei Prefetto di Novara l'uno del di' 8 maggio 1871 e l'altro del 7 novembre 1872.
 
-null
+## Art. 2.
 
-  
-Bernardino, i due decreti dei Prefetto di Novara l'uno del di' 8 maggio 1871 e l'altro del 7 novembre 1872.   
-  
-
-Art. 2
-------
-
-  
-  
-Per le spese di costruzione, completamento e manutenzione delle arginature predette lo Stato non e' tenuto a concorrere nelle relative spese che limitatamente alla misura di un quarto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 21 luglio 1891.   
-  
-UMBERTO.   
-  
-Branca.   
-  
-Visto, Il Guardasigilli: L. Ferraris.   
-  
+Per le spese di costruzione, completamento e manutenzione delle arginature predette lo Stato non e' tenuto a concorrere nelle relative spese che limitatamente alla misura di un quarto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 21 luglio 1891. 
+ 
+ UMBERTO. 
+ 
+ Branca. 
+ 
+ Visto, Il Guardasigilli: L. Ferraris.

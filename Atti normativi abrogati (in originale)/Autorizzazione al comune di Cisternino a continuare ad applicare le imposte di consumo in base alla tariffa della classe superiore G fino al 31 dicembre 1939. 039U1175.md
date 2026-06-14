@@ -1,16 +1,14 @@
-REGIO DECRETO 13 luglio 1939 n. 1175
-
-
-REGIO DECRETO 13 luglio 1939 n. 1175
-====================================
-
-Autorizzazione al comune di Cisternino a continuare ad applicare le imposte di consumo in base alla tariffa della classe superiore G, fino al 31 dicembre 1939. (039U1175)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/09/1939
+---
+tipo: REGIO DECRETO
+numero: 1175
+data: 1939-07-13
+titolo: "Autorizzazione al comune di Cisternino a continuare ad applicare le imposte di consumo in base alla tariffa della classe superiore G, fino al 31 dicembre 1939. (039U1175)"
+urn: urn:nir:stato:regio.decreto:1939-07-13;1175
+codice_redazionale: 039U1175
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,22 @@ Visto il R. decreto 25 marzo 1937-XV, n. 462, e l'annessavi tabella contenente i
 
 Visto il parere della Commissione centrale per la Finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Cisternino (Brindisi) e' autorizzato a continuare ad applicare fino al 31 dicembre 1939 le imposte di consumo entro i limiti stabiliti per la classe G.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 13 luglio 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 19 agosto 1939-XVII   
-  
-Atti del Governo, registro 412, foglio 65. - MANCINI   
-  
-  
+Il comune di Cisternino (Brindisi) e' autorizzato a continuare ad applicare fino al 31 dicembre 1939 le imposte di consumo entro i limiti stabiliti per la classe G. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 13 luglio 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 19 agosto 1939-XVII 
+ 
+ Atti del Governo, registro 412, foglio 65. - MANCINI

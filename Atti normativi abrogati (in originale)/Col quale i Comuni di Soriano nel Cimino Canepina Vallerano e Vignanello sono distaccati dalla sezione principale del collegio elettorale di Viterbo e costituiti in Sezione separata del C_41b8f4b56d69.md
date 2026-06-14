@@ -1,16 +1,14 @@
-REGIO DECRETO 15 ottobre 1874 n. 2167
-
-
-REGIO DECRETO 15 ottobre 1874 n. 2167
-=====================================
-
-Col quale i Comuni di Soriano nel Cimino, Canepina, Vallerano e Vignanello sono distaccati dalla sezione principale del collegio elettorale di Viterbo e costituiti in Sezione separata del Collegio stesso, con sede nel primo dei detti Comuni. (074U2167)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/11/1874
+---
+tipo: REGIO DECRETO
+numero: 2167
+data: 1874-10-15
+titolo: "Col quale i Comuni di Soriano nel Cimino, Canepina, Vallerano e Vignanello sono distaccati dalla sezione principale del collegio elettorale di Viterbo e costituiti in Sezione separata del Collegio stesso, con sede nel primo dei detti Comuni. (074U2167)"
+urn: urn:nir:stato:regio.decreto:1874-10-15;2167
+codice_redazionale: 074U2167
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Soriano nel Cimino, Canepina, Venerano e Vignanello sono distaccati dalla sezione principale del Collegio elettorale di Viterbo n. 508, e costituiti in sezione separata del Collegio stesso, con sede nel primo dei detti comuni.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 15 ottobre 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli   
-  
-  
+I comuni di Soriano nel Cimino, Canepina, Venerano e Vignanello sono distaccati dalla sezione principale del Collegio elettorale di Viterbo n. 508, e costituiti in sezione separata del Collegio stesso, con sede nel primo dei detti comuni. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 15 ottobre 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli

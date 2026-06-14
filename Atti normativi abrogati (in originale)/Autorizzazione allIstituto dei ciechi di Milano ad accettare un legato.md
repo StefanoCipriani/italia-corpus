@@ -1,19 +1,20 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 22 dicembre 1946 n. 803
+---
+tipo: DECRETO DEL CAPO PROVVISORIO DELLO STATO
+numero: 781
+data: 1946-12-22
+titolo: "Autorizzazione all'Istituto dei ciechi di Milano ad accettare un legato."
+urn: urn:nir:stato:decreto.del.capo.provvisorio.dello.stato:1946-12-22;781
+codice_redazionale: 046U0781
+vigente: true
+---
 
-
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 22 dicembre 1946 n. 803
-================================================================
-
-Autorizzazione all'Istituto dei ciechi di Milano ad accettare un legato.
-------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-803. Decreto del Capo provvisorio dello Stato 22 dicembre 1946, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto dei ciechi di Milano viene autorizzato ad accettare un legato di L. 50.000 disposto in suo favore dal defunto dott.  
-prof. Cesare Pezzi con atto pubblico in data 16 agosto 1945.  
-  
-Visto, il Guardasigilli: GULLO  
-Registrato alla Corte dei Conti, addi' 13 maggio 1947
+781.
+
+Decreto del Capo provvisorio dello Stato 22 dicembre 1946, col quale, sulla proposta del Ministro per la pubblica istruzione, l'istituto dei ciechi di Milano, viene autorizzato ad accettare un legato di L. 10.000 disposto la suo favore dalla defunta signora Rosa Carcassola in Coduri, con testamento olografo in data 25 febbraio 1941.
+
+Visto, il Guardasigilli: GULLO
+ Registrato alla Corte dei Conti, addi' 13 maggio 1947

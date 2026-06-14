@@ -1,16 +1,14 @@
-REGIO DECRETO 06 dicembre 1863 n. 1565
-
-
-REGIO DECRETO 06 dicembre 1863 n. 1565
-======================================
-
-Col quale l'Archivio notarile sussidiario di Breno e' posto sotto la giurisdizione della Camera di disciplina notarile di Brescia. (063U1565)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/01/1864
+---
+tipo: REGIO DECRETO
+numero: 1565
+data: 1863-12-06
+titolo: "Col quale l'Archivio notarile sussidiario di Breno e' posto sotto la giurisdizione della Camera di disciplina notarile di Brescia. (063U1565)"
+urn: urn:nir:stato:regio.decreto:1863-12-06;1565
+codice_redazionale: 063U1565
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Vista la legge 13 novembre 1859, n. 3781, colla quale venne istituito in Breno u
 
 Visto l'articolo 33 della legge 27 marzo 1862, n.° 516, con cui si da' facolta' al Governo di provvedere mediante Decreti Reali al coordinamento delle disposizioni relative all'ordinamento giudiziario;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L' Archivio notarile sussidiario del Circondario di Breno e' posto sotto la giurisdizione della Camera di disciplina notarile di Brescia, dalla quale dipenderanno tutti i Notai dell'anzidetto Circondario.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 6 dicembre 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 9 dicembre 1863   
-  
-Reg.° 27 Atti del Governo a c. 51. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-G. Pisanelli.   
-  
+L' Archivio notarile sussidiario del Circondario di Breno e' posto sotto la giurisdizione della Camera di disciplina notarile di Brescia, dalla quale dipenderanno tutti i Notai dell'anzidetto Circondario. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 6 dicembre 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 9 dicembre 1863 
+ 
+ Reg.° 27 Atti del Governo a c. 51. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ G. Pisanelli.

@@ -1,16 +1,14 @@
-REGIO DECRETO 04 luglio 1867 n. 3799
-
-
-REGIO DECRETO 04 luglio 1867 n. 3799
-====================================
-
-Col quale il Comune di Luzzi formera' una Sezione separata del Collegio elettorale di Corigliano, con sede nel capoluogo del Comune stesso. (067U3799)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/08/1867
+---
+tipo: REGIO DECRETO
+numero: 3799
+data: 1867-07-04
+titolo: "Col quale il Comune di Luzzi formera' una Sezione separata del Collegio elettorale di Corigliano, con sede nel capoluogo del Comune stesso. (067U3799)"
+urn: urn:nir:stato:regio.decreto:1867-07-04;3799
+codice_redazionale: 067U3799
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune stesso piu' di 40 elettori inscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di stato per gli Affari dall'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di stato per gli Affari dall'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Luzzi formera' d'ora in poi una Sezione separata del Collegio elettorale di Corigliano n. 94, la quale avra' sede nel capoluogo del Comune stesso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 4 luglio 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 18 luglio 1867   
-  
-Reg. 40 Atti del Governo a c. 152. Crodara Visconti.   
-  
-Luogo del sigillo. V. Il Guardasigilli Tecchio.   
-  
-U. Rattazzi.   
-  
+Il Comune di Luzzi formera' d'ora in poi una Sezione separata del Collegio elettorale di Corigliano n. 94, la quale avra' sede nel capoluogo del Comune stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 4 luglio 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 18 luglio 1867 
+ 
+ Reg. 40 Atti del Governo a c. 152. Crodara Visconti. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Tecchio. 
+ 
+ U. Rattazzi.

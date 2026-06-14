@@ -1,16 +1,14 @@
-REGIO DECRETO 16 febbraio 1942 n. 288
-
-
-REGIO DECRETO 16 febbraio 1942 n. 288
-=====================================
-
-Aumento di posti di ispettore generale presso il Ministero della cultura popolare. (042U0288)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/04/1942
+---
+tipo: REGIO DECRETO
+numero: 288
+data: 1942-02-16
+titolo: "Aumento di posti di ispettore generale presso il Ministero della cultura popolare. (042U0288)"
+urn: urn:nir:stato:regio.decreto:1942-02-16;288
+codice_redazionale: 042U0288
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,30 +26,24 @@ Udito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la cultura popolare, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la cultura popolare, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nel ruolo direttivo (gruppo A) di cui alla tabella A annessa al R. decreto-legge 11 gennaio 1937-XV, n. 3, sono aumentati due posti di ispettore generale (grado 5°) e sono diminuiti due posti di direttore capo di divisione (grado 6°).   
-  
-Il presente decreto entrera', in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 febbraio 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - PAVOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: Grandi.   
-  
-Registrato alla Corte dei conti, addi' 9 aprile 1942-XX   
-  
-Atti del Governo, registro 444, foglio 24. - MANCINI   
+Nel ruolo direttivo (gruppo A) di cui alla tabella A annessa al R. decreto-legge 11 gennaio 1937-XV, n. 3, sono aumentati due posti di ispettore generale (grado 5°) e sono diminuiti due posti di direttore capo di divisione (grado 6°). 
+ 
+ Il presente decreto entrera', in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 febbraio 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - PAVOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: Grandi. 
+ 
+ Registrato alla Corte dei conti, addi' 9 aprile 1942-XX 
+ 
+ Atti del Governo, registro 444, foglio 24. - MANCINI

@@ -1,16 +1,14 @@
-REGIO DECRETO 08 dicembre 1861 n. 357
-
-
-REGIO DECRETO 08 dicembre 1861 n. 357
-=====================================
-
-Per la convocazione del Collegio elettorale di Casoria. (061U0357)
-------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/12/1861
+---
+tipo: REGIO DECRETO
+numero: 357
+data: 1861-12-08
+titolo: "Per la convocazione del Collegio elettorale di Casoria. (061U0357)"
+urn: urn:nir:stato:regio.decreto:1861-12-08;357
+codice_redazionale: 061U0357
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,25 +18,18 @@ Visto il Messaggio in data del 3 dicembre corrente col quale l'Ufficio di Presid
 
 Veduto l'art. 63 della Legge Elettorale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Abbiamo decretato e decretiamo :
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Abbiamo decretato e decretiamo :
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Collegio Elettorale di Casoria, n. 271, e' convocato pel giorno 29 dicembre 1861 per procedere alla elezione del proprio Deputato.   
-  
-Occorrendo una seconda votazione, essa avra' luogo il giorno 5 gennaio 1862.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dat Torino addi' 8 dicembre 1861.   
-  
-VITTORIO EMANUELE.   
-  
-Ricasoli.   
-  
+Il Collegio Elettorale di Casoria, n. 271, e' convocato pel giorno 29 dicembre 1861 per procedere alla elezione del proprio Deputato. 
+ 
+ Occorrendo una seconda votazione, essa avra' luogo il giorno 5 gennaio 1862. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dat Torino addi' 8 dicembre 1861. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Ricasoli.

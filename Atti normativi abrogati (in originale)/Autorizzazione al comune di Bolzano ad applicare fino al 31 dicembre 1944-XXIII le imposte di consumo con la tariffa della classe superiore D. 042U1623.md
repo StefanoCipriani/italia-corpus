@@ -1,16 +1,14 @@
-REGIO DECRETO 21 dicembre 1942 n. 1623
-
-
-REGIO DECRETO 21 dicembre 1942 n. 1623
-======================================
-
-Autorizzazione al comune di Bolzano ad applicare, fino al 31 dicembre 1944-XXIII, le imposte di consumo con la tariffa della classe superiore D. (042U1623)
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/02/1943
+---
+tipo: REGIO DECRETO
+numero: 1623
+data: 1942-12-21
+titolo: "Autorizzazione al comune di Bolzano ad applicare, fino al 31 dicembre 1944-XXIII, le imposte di consumo con la tariffa della classe superiore D. (042U1623)"
+urn: urn:nir:stato:regio.decreto:1942-12-21;1623
+codice_redazionale: 042U1623
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,27 +22,21 @@ Udita la Commissione centrale per la finanza locale che nell'adunanza del 24 set
 
 Visto l'art. 27 del testo unico per la finanza locale, 14 settembre 1931, n. 1175;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Bolzano e' autorizzato ad applicare fino al 31 dicembre 1944-XXI le imposte di consumo con la tariffa della classe superiore D.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 dicembre 1942-XXI   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 16 gennaio 1943-XXI   
-Atti del Governo, registro 453, foglio 69. - MANCINI.   
+Il comune di Bolzano e' autorizzato ad applicare fino al 31 dicembre 1944-XXI le imposte di consumo con la tariffa della classe superiore D. 
+ 
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+Dato a Roma, addi' 21 dicembre 1942-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+Visto, il Guardasigilli: GRANDI 
+ 
+Registrato alla Corte dei conti, addi' 16 gennaio 1943-XXI 
+Atti del Governo, registro 453, foglio 69. - MANCINI.

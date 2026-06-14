@@ -1,16 +1,14 @@
-REGIO DECRETO 23 giugno 1862 n. 664
-
-
-REGIO DECRETO 23 giugno 1862 n. 664
-===================================
-
-Che ordina la chiusura del corso dell'anno scolastico 1861-62 nell'Universita' di Pavia. (062U0664)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/07/1862
+---
+tipo: REGIO DECRETO
+numero: 664
+data: 1862-06-23
+titolo: "Che ordina la chiusura del corso dell'anno scolastico 1861-62 nell'Universita' di Pavia. (062U0664)"
+urn: urn:nir:stato:regio.decreto:1862-06-23;664
+codice_redazionale: 062U0664
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,35 +22,24 @@ Visto che le disposizioni date per l'applicazione delle pene medesime a termini 
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo ordinato ed ordiniamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+Il corso dell'anno scolastico 1861-62 nella Universita' di Pavia e' chiuso.
 
-  
-  
-Il corso dell'anno scolastico 1861-62 nella Universita' di Pavia e' chiuso.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Sara' provveduto per gli esami degli studenti di quella Universita' dal predetto Nostro Ministro, sentito il parere del Consiglio Superiore di Pubblica Istruzione.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 23 giugno 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 2 luglio 1862   
-Reg.° 20 Atti del Governo a c. 77. Wehrlin.   
-Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
-  
-C. Matteucci.   
-  
+Sara' provveduto per gli esami degli studenti di quella Universita' dal predetto Nostro Ministro, sentito il parere del Consiglio Superiore di Pubblica Istruzione. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 23 giugno 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 2 luglio 1862 
+ Reg.° 20 Atti del Governo a c. 77. Wehrlin. 
+ Luogo del Sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ C. Matteucci.

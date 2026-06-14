@@ -1,16 +1,14 @@
-REGIO DECRETO 17 agosto 1862 n. 778
-
-
-REGIO DECRETO 17 agosto 1862 n. 778
-===================================
-
-Che mantiene in vigore per l'anno 1863 le disposizioni emanate dai Regii Commissari straordinari per le Marche e l'Umbria circa la formazione dei bilanci preventivi provinciali pel 1861. (062U0778)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/09/1862
+---
+tipo: REGIO DECRETO
+numero: 778
+data: 1862-08-17
+titolo: "Che mantiene in vigore per l'anno 1863 le disposizioni emanate dai Regii Commissari straordinari per le Marche e l'Umbria circa la formazione dei bilanci preventivi provinciali pel 1861. (062U0778)"
+urn: urn:nir:stato:regio.decreto:1862-08-17;778
+codice_redazionale: 062U0778
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,31 +20,24 @@ Veduto il Nostro Decreto in data 11 agosto 1861, n.° 157, con cui fu prescritto
 
 Considerando che, in attesa della emanazione di una legge sulle riforme da introdursi nell'Amministrazione Provinciale ed in corso di studio presso il Parlamento, riesce indispensabile di estendere la prescrizione del predetto Nostro Decreto ai bilanci 1863 per le suindicate Provincie, dei quali e' imminente la formazione;
 
-Sulla
------
+Sulla proposta del Nostro Ministro dell'Interno, e sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro dell'Interno, e sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I bilanci preventivi delle Provincie delle Marche e dell'Umbria per l'anno 1863 dovranno compilarsi sotto l'osservanza del disposto rispettivamente dall' art. 10 del Decreto 24 settembre 1860, n.° 6, del Regio Commissario straordinario per le Marche, e dall'art. 7 del Decreto 30 stesso mese ed anno, n.° 43, del Regio Commissario straordinario per l'Umbria.   
-  
-Il presente Decreto sara' sottoposto al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Torino addi' 17 agosto 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 23 agosto 1862   
-  
-Reg.° 20 Atti del Governo a c. 215. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli B. Conforti.   
-  
-U. Rattazzi.   
-  
+I bilanci preventivi delle Provincie delle Marche e dell'Umbria per l'anno 1863 dovranno compilarsi sotto l'osservanza del disposto rispettivamente dall' art. 10 del Decreto 24 settembre 1860, n.° 6, del Regio Commissario straordinario per le Marche, e dall'art. 7 del Decreto 30 stesso mese ed anno, n.° 43, del Regio Commissario straordinario per l'Umbria. 
+ 
+ Il presente Decreto sara' sottoposto al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Torino addi' 17 agosto 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 23 agosto 1862 
+ 
+ Reg.° 20 Atti del Governo a c. 215. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli B. Conforti. 
+ 
+ U. Rattazzi.

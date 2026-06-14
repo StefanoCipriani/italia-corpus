@@ -1,16 +1,14 @@
-REGIO DECRETO 18 aprile 1880 n. 5429
-
-
-REGIO DECRETO 18 aprile 1880 n. 5429
-====================================
-
-Che autorizza il riparto delle attivita' e passivita' fra i tre comuni di Gonzaga Pegognaga e Moglia (Mantova). (080U5429)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/06/1880
+---
+tipo: REGIO DECRETO
+numero: 5429
+data: 1880-04-18
+titolo: "Che autorizza il riparto delle attivita' e passivita' fra i tre comuni di Gonzaga Pegognaga e Moglia (Mantova). (080U5429)"
+urn: urn:nir:stato:regio.decreto:1880-04-18;5429
+codice_redazionale: 080U5429
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Viste le deliberazioni dei Consigli comunali di Pegognaga, in data 25 aprile, di
 
 Veduta la deliberazione della Deputazione provinciale di Mantova in data 15 gennaio 1880;
 
-Veduti
-------
+Veduti gli altri atti e documenti prodotti, Abbiamo decretato e decretiamo:
 
-gli altri atti e documenti prodotti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il riparto delle attivita' e passivita' fra i tre comuni di Gonzaga, Pegognaga e Moglia verra' eseguito in ragione composta della rispettiva rendita censuaria e della popolazione ufficiale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 aprile 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il riparto delle attivita' e passivita' fra i tre comuni di Gonzaga, Pegognaga e Moglia verra' eseguito in ragione composta della rispettiva rendita censuaria e della popolazione ufficiale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 aprile 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

@@ -1,16 +1,14 @@
-REGIO DECRETO 21 giugno 1941 n. 746
-
-
-REGIO DECRETO 21 giugno 1941 n. 746
-===================================
-
-Modificazioni delle tasse per l'emissione dei vaglia postali. (041U0746)
-------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/08/1941
+---
+tipo: REGIO DECRETO
+numero: 746
+data: 1941-06-21
+titolo: "Modificazioni delle tasse per l'emissione dei vaglia postali. (041U0746)"
+urn: urn:nir:stato:regio.decreto:1941-06-21;746
+codice_redazionale: 041U0746
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,44 +26,36 @@ Sentito il Consiglio di amministrazione delle poste e dei telegrafi;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
-
-  
-  
-La tabella n. 1, allegata al Regio decreto 23 maggio 1940-XVIII, n. 750, relativa alle tariffe postali, e' modificata alla voce 42 per i vaglia interni, come segue:   
-  
-« Vaglia interni:   
-  
-tassa di emissione (oltre 11 prezzo del modulo in L. 0,10):   
-  
-fino a lire 25 L. 0,40   
-  
-oltre lire 25 fino a lire 50 » 0,80   
-  
-oltre lire 50 fino a lire 100 » 1,20   
-  
-oltre lire 100 fino a lire 200 » 2 -   
-  
-aggiungendo successivamente centesimi cinquanta di cento in cento lire o frazione di cento lire fino al limite di lire 3000, e per le somme superiori a lire 3000 e fino a lire 5000 aggiungendo lire una per ogni cinquecento lire o frazione di cinquecento lire ».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 21 giugno 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Host Venturi - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Carte dei conti, addi' 3 agosto 1941-XIX   
-  
-Atti dei Governo, registro 436, foglio 7. - Mancini   
-  
-  
+La tabella n. 1, allegata al Regio decreto 23 maggio 1940-XVIII, n. 750, relativa alle tariffe postali, e' modificata alla voce 42 per i vaglia interni, come segue: 
+ 
+ « Vaglia interni: 
+ 
+ tassa di emissione (oltre 11 prezzo del modulo in L. 0,10): 
+ 
+ fino a lire 25 L. 0,40 
+ 
+ oltre lire 25 fino a lire 50 » 0,80 
+ 
+ oltre lire 50 fino a lire 100 » 1,20 
+ 
+ oltre lire 100 fino a lire 200 » 2 - 
+ 
+ aggiungendo successivamente centesimi cinquanta di cento in cento lire o frazione di cento lire fino al limite di lire 3000, e per le somme superiori a lire 3000 e fino a lire 5000 aggiungendo lire una per ogni cinquecento lire o frazione di cinquecento lire ». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 21 giugno 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Host Venturi - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Carte dei conti, addi' 3 agosto 1941-XIX 
+ 
+ Atti dei Governo, registro 436, foglio 7. - Mancini

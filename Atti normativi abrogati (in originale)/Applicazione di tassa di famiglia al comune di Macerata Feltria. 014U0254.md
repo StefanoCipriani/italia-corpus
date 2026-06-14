@@ -1,19 +1,15 @@
-REGIO DECRETO 29 marzo 1914 n. 254
+---
+tipo: REGIO DECRETO
+numero: 254
+data: 1914-03-29
+titolo: "Applicazione di tassa di famiglia al comune di Macerata Feltria. (014U0254)"
+urn: urn:nir:stato:regio.decreto:1914-03-29;254
+codice_redazionale: 014U0254
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 marzo 1914 n. 254
-==================================
-
-Applicazione di tassa di famiglia al comune di Macerata Feltria. (014U0254)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/04/1914
-
-Art. 1
-------
-
-  
-N. 254   
-  
-Regio Decreto 29 marzo 1914, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Macerata Feltria di applicare nell'anno 1914 la tassa di famiglia col limite massimo di L. 500.   
-  
+N. 254 
+ 
+ Regio Decreto 29 marzo 1914, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Macerata Feltria di applicare nell'anno 1914 la tassa di famiglia col limite massimo di L. 500.

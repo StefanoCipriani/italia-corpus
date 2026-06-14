@@ -1,17 +1,17 @@
-REGIO DECRETO 19 gennaio 1922 n. 290
+---
+tipo: REGIO DECRETO
+numero: 290
+data: 1922-01-19
+titolo: "Istituzione di Ufficio di conciliazione. (022U0290)"
+urn: urn:nir:stato:regio.decreto:1922-01-19;290
+codice_redazionale: 022U0290
+vigente: true
+---
 
-
-REGIO DECRETO 19 gennaio 1922 n. 290
-====================================
-
-Istituzione di Ufficio di conciliazione. (022U0290)
----------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/04/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-290. Regio decreto 19 gennaio 1922, col quale, sulla proposta del ministro per la giustizia e gli affari di culto, viene istituito in Statte, frazione del comune di Taranto, un distinto ufficio di conciliazione con giurisdizione sul territorio della frazione stessa.
+290.
+
+Regio decreto 19 gennaio 1922, col quale, sulla proposta del ministro per la giustizia e gli affari di culto, viene istituito in Statte, frazione del comune di Taranto, un distinto ufficio di conciliazione con giurisdizione sul territorio della frazione stessa.

@@ -1,16 +1,14 @@
-REGIO DECRETO 03 maggio 1877 n. 3826
-
-
-REGIO DECRETO 03 maggio 1877 n. 3826
-====================================
-
-Che sopprime il comune di Gorra e lo unisce a quello di Finalborgo, e distacca la frazione Perti dal comune di Calice Ligure e l'aggrega a Finalborgo (Genova). (077U3826)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/06/1877
+---
+tipo: REGIO DECRETO
+numero: 3826
+data: 1877-05-03
+titolo: "Che sopprime il comune di Gorra e lo unisce a quello di Finalborgo, e distacca la frazione Perti dal comune di Calice Ligure e l'aggrega a Finalborgo (Genova). (077U3826)"
+urn: urn:nir:stato:regio.decreto:1877-05-03;3826
+codice_redazionale: 077U3826
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,28 +28,18 @@ Udito il parere del Consiglio di Stato;
 
 Veduti gli articoli 14 e 15 della legge comunale e provinciale 20 marzo 1865, allegato A;
 
-Veduta
-------
+Veduta la legge 29 giugno 1875, n. 2612, Abbiamo decretato e decretiamo:
 
-la legge 29 giugno 1875, n. 2612, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+## Art. 2.
 
-Art. 2
-------
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 maggio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. NICOTERA.   
-  
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 maggio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. NICOTERA.

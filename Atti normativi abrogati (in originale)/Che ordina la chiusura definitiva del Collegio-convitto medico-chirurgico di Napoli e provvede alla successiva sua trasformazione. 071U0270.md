@@ -1,16 +1,14 @@
-REGIO DECRETO 16 maggio 1871 n. 270
-
-
-REGIO DECRETO 16 maggio 1871 n. 270
-===================================
-
-Che ordina la chiusura definitiva del Collegio-convitto medico-chirurgico di Napoli, e provvede alla successiva sua trasformazione. (071U0270)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/07/1871
+---
+tipo: REGIO DECRETO
+numero: 270
+data: 1871-05-16
+titolo: "Che ordina la chiusura definitiva del Collegio-convitto medico-chirurgico di Napoli, e provvede alla successiva sua trasformazione. (071U0270)"
+urn: urn:nir:stato:regio.decreto:1871-05-16;270
+codice_redazionale: 071U0270
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,56 +22,36 @@ Veduta la Relazione della Commissione, la quale giudico' unanimemente essere nec
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il Collegio-convitto medico-chirurgico di Napoli e' chiuso.
 
-  
-  
-Il Collegio-convitto medico-chirurgico di Napoli e' chiuso.   
-  
+## Art. 2.
 
-Art. 2
-------
+Sara' provvisto, a norma di Legge, per gl'insegnanti e impiegati dello stesso Collegio.
 
-  
-  
-Sara' provvisto, a norma di Legge, per gl'insegnanti e impiegati dello stesso Collegio.   
-  
+## Art. 3.
 
-Art. 3
-------
+Il patrimonio del Collegio verra' liquidato, e, dimesse le passivita' esistenti, sara' convertito in rendita dello Stato, per costituire posti gratuiti a pro di giovani bisognosi e di eletto ingegno che si dedicano allo studio medico-chirurgico. 
+ 
+ Il fabbricato del Collegio sara', in tutto o in parte, riservato ad uso della pubblica istruzione.
 
-  
-  
-Il patrimonio del Collegio verra' liquidato, e, dimesse le passivita' esistenti, sara' convertito in rendita dello Stato, per costituire posti gratuiti a pro di giovani bisognosi e di eletto ingegno che si dedicano allo studio medico-chirurgico.   
-  
-Il fabbricato del Collegio sara', in tutto o in parte, riservato ad uso della pubblica istruzione.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Una Commissione, espressamente nominata dal Nostro Ministro della Pubblica Istruzione, verra' incaricata di procedere alla vendita dei fondi del Collegio, al pagamento dei debiti, al rinvestimento degli avanzi, ed alla proposta d'uno statuto organico per l'amministrazione ed erogazione del residuo patrimonio del Collegio medesimo, il quale, come Ente morale, continuera' ad esistere in questa nuova forma.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 16 maggio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 21 giugno 1871   
-  
-Reg. 56 Atti del Governo a c. 72. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-C. Correnti.   
-  
-  
+Una Commissione, espressamente nominata dal Nostro Ministro della Pubblica Istruzione, verra' incaricata di procedere alla vendita dei fondi del Collegio, al pagamento dei debiti, al rinvestimento degli avanzi, ed alla proposta d'uno statuto organico per l'amministrazione ed erogazione del residuo patrimonio del Collegio medesimo, il quale, come Ente morale, continuera' ad esistere in questa nuova forma. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 16 maggio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 21 giugno 1871 
+ 
+ Reg. 56 Atti del Governo a c. 72. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ C. Correnti.

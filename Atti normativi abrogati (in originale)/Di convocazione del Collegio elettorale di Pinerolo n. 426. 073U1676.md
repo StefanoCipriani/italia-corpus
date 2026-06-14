@@ -1,16 +1,14 @@
-REGIO DECRETO 27 novembre 1873 n. 1676
-
-
-REGIO DECRETO 27 novembre 1873 n. 1676
-======================================
-
-Di convocazione del Collegio elettorale di Pinerolo, n. 426. (073U1676)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/12/1873
+---
+tipo: REGIO DECRETO
+numero: 1676
+data: 1873-11-27
+titolo: "Di convocazione del Collegio elettorale di Pinerolo, n. 426. (073U1676)"
+urn: urn:nir:stato:regio.decreto:1873-11-27;1676
+codice_redazionale: 073U1676
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,25 +18,18 @@ Veduto il Messaggio in data del 24 novembre corrente, col quale l'Ufficio di Pre
 
 Veduto l'articolo 63 della Legge per le elezioni politiche 17 dicembre 1860, n. 4513;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Collegio elettorale di Pinerolo, n. 426, e' convocato pel giorno 14 prossimo dicembre, affinche' proceda alla elezione del proprio Deputato.   
-  
-Occorrendo una seconda votazione, essa avra' luogo il giorno 21 stesso mese.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 27 novembre 1873.   
-  
-VITTORIO EMANUELE   
-  
-G. Cantelli.   
-  
+Il Collegio elettorale di Pinerolo, n. 426, e' convocato pel giorno 14 prossimo dicembre, affinche' proceda alla elezione del proprio Deputato. 
+ 
+ Occorrendo una seconda votazione, essa avra' luogo il giorno 21 stesso mese. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 27 novembre 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ G. Cantelli.

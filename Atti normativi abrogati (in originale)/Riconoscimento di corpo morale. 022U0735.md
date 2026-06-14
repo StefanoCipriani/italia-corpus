@@ -1,16 +1,13 @@
-REGIO DECRETO 19 maggio 1922 n. 735
+---
+tipo: REGIO DECRETO
+numero: 735
+data: 1922-05-19
+titolo: "Riconoscimento di corpo morale. (022U0735)"
+urn: urn:nir:stato:regio.decreto:1922-05-19;735
+codice_redazionale: 022U0735
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 maggio 1922 n. 735
-===================================
-
-Riconoscimento di corpo morale. (022U0735)
-------------------------------------------
-
-Entrata in vigore del provvedimento: 08/07/1922
-
-Art. 1
-------
-
-  
-N.735.Regio decreto 19 maggio 1922, col quale, sulla proposta del ministro per l'industria e il commercio, l'Istituto autonomo per le case popolari di Porto Empedocle, e' riconosciuto come corpo morale e ne e' approvato lo statuto organico.   
+N.735.Regio decreto 19 maggio 1922, col quale, sulla proposta del ministro per l'industria e il commercio, l'Istituto autonomo per le case popolari di Porto Empedocle, e' riconosciuto come corpo morale e ne e' approvato lo statuto organico.

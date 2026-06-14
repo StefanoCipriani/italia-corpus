@@ -1,43 +1,26 @@
-REGIO DECRETO 25 aprile 1895 n. 240
+---
+tipo: REGIO DECRETO
+numero: 240
+data: 1895-04-25
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0240)"
+urn: urn:nir:stato:regio.decreto:1895-04-25;240
+codice_redazionale: 095U0240
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 aprile 1895 n. 240
-===================================
+I Comuni di Casalincontrada e Torrevecchia Teatina sono aggregati alla 1ª e 2ª Sezione elettorale di Chieti del Collegio di Chieti.
 
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0240)
----------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 25/05/1895
+Il Comune di Pennapiedimonte e' aggregato alla Sezione elettorale di Rapino del Collegio di Ortona.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-I Comuni di Casalincontrada e Torrevecchia Teatina sono aggregati alla 1ª e 2ª Sezione elettorale di Chieti del Collegio di Chieti.   
-  
+Il Comune di Colledimacine e' aggregato alla Sezione elettorale di Lettopalena, il Comune di Fallascoso a quella di Torricella Peligna, i Comuni di Buonanotte, Fallo e Roio del Sangro a quella di Villa S.
+Maria, il Comune di Altino a quella di Roccascalegna, il Comune di Quadri a quella di Civitaluparella del Collegio di Gessopalena.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-Il Comune di Pennapiedimonte e' aggregato alla Sezione elettorale di Rapino del Collegio di Ortona.   
-  
-
-Art. 3
-------
-
-  
-  
-Il Comune di Colledimacine e' aggregato alla Sezione elettorale di Lettopalena, il Comune di Fallascoso a quella di Torricella Peligna, i Comuni di Buonanotte, Fallo e Roio del Sangro a quella di Villa S.  
-Maria, il Comune di Altino a quella di Roccascalegna, il Comune di Quadri a quella di Civitaluparella del Collegio di Gessopalena.   
-  
-
-Art. 4
-------
-
-  
-  
-Il Comune di Guilmi e' aggregato alla Sezione elettorale di Gissi, il Comune di Liscia a quella di San Buono del Collegio di Vasto.   
-  
+Il Comune di Guilmi e' aggregato alla Sezione elettorale di Gissi, il Comune di Liscia a quella di San Buono del Collegio di Vasto.

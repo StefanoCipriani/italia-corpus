@@ -1,21 +1,17 @@
-REGIO DECRETO 17 marzo 1895 n. XLVII
+---
+tipo: REGIO DECRETO
+numero: XLVII
+data: 1895-03-17
+titolo: "Con cui le elezioni commerciali per la rinnovazione parziale della camera di commercio ed arti di Reggio Calabria sono state indette pel giorno di domenica 7 aprile prossimo venturo. (9500047R)"
+urn: urn:nir:stato:regio.decreto:1895-03-17;47
+codice_redazionale: 9500047R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 marzo 1895 n. XLVII
-====================================
-
-Con cui le elezioni commerciali per la rinnovazione parziale della camera di commercio ed arti di Reggio Calabria sono state indette pel giorno di domenica 7 aprile prossimo venturo. (9500047R)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/04/1895
-
-Art. 1
-------
-
-  
-Con cui le elezioni commerciali per la rinnovazione parziale della camera di commercio ed arti di Reggio Calabria che dovevano aver luogo il 2 dicembre 1894, prorogate a tempo indeterminato con decreto del regio commissario straordinario per le provincie di Reggio Calabria e Catanzaro, sono state indette pel giorno di domenica 7 aprile p. v. - Firmato UMBERTO - Contrassegnato Barazzuoli - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 28 marzo 1895.   
-  
-Reg. 197. Atti del Governo a f. 199.   
-  
+Con cui le elezioni commerciali per la rinnovazione parziale della camera di commercio ed arti di Reggio Calabria che dovevano aver luogo il 2 dicembre 1894, prorogate a tempo indeterminato con decreto del regio commissario straordinario per le provincie di Reggio Calabria e Catanzaro, sono state indette pel giorno di domenica 7 aprile p. v. - Firmato UMBERTO - Contrassegnato Barazzuoli - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 28 marzo 1895. 
+ 
+ Reg. 197. Atti del Governo a f. 199.

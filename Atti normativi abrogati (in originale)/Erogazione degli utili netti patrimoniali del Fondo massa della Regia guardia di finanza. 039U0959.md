@@ -1,16 +1,14 @@
-REGIO DECRETO 22 maggio 1939 n. 959
-
-
-REGIO DECRETO 22 maggio 1939 n. 959
-===================================
-
-Erogazione degli utili netti patrimoniali del Fondo massa della Regia guardia di finanza. (039U0959)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/07/1939
+---
+tipo: REGIO DECRETO
+numero: 959
+data: 1939-05-22
+titolo: "Erogazione degli utili netti patrimoniali del Fondo massa della Regia guardia di finanza. (039U0959)"
+urn: urn:nir:stato:regio.decreto:1939-05-22;959
+codice_redazionale: 039U0959
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,28 +24,22 @@ Sentito il parere del Consiglio di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Per aver titolo a conseguire le concessioni a proprio favore od a beneficio dei figli, di cui al 2° comma dell'art. 2 del R. decreto-legge 22 novembre 1937-XVI, n. 20491 i militari del Corpo della Regia guardia di finanza nella posizione di congedo, debbono essere iscritti alla «Legione finanzieri d'Italia».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 maggio 1930-XVII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, li Guardisigilli: Solmi   
-  
-Registrato alla Corte dei conti, addi' 8 luglio 1939-XVII   
-  
-Atti dei Governo, registro 411, foglio 22. - Mancini   
+Per aver titolo a conseguire le concessioni a proprio favore od a beneficio dei figli, di cui al 2° comma dell'art. 2 del R. decreto-legge 22 novembre 1937-XVI, n. 20491 i militari del Corpo della Regia guardia di finanza nella posizione di congedo, debbono essere iscritti alla «Legione finanzieri d'Italia». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 maggio 1930-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, li Guardisigilli: Solmi 
+ 
+ Registrato alla Corte dei conti, addi' 8 luglio 1939-XVII 
+ 
+ Atti dei Governo, registro 411, foglio 22. - Mancini

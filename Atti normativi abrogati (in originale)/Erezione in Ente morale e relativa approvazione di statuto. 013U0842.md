@@ -1,19 +1,15 @@
-REGIO DECRETO 29 giugno 1913 n. 842
+---
+tipo: REGIO DECRETO
+numero: 842
+data: 1913-06-29
+titolo: "Erezione in Ente morale e relativa approvazione di statuto. (013U0842)"
+urn: urn:nir:stato:regio.decreto:1913-06-29;842
+codice_redazionale: 013U0842
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 giugno 1913 n. 842
-===================================
-
-Erezione in Ente morale e relativa approvazione di statuto. (013U0842)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/08/1913
-
-Art. 1
-------
-
-  
-N. 842   
-  
-Regio Decreto 29 giugno 1913, col quale, sulla proposta del ministro di agricoltura, industria e commercio, d'accordo col ministro dei lavori pubblici, viene riconosciuto come corpo morale il consorzio «Arti libere» fra cooperative edilizie romane, con sede in Roma, e ne e' approvato lo statuto.   
-  
+N. 842 
+ 
+ Regio Decreto 29 giugno 1913, col quale, sulla proposta del ministro di agricoltura, industria e commercio, d'accordo col ministro dei lavori pubblici, viene riconosciuto come corpo morale il consorzio «Arti libere» fra cooperative edilizie romane, con sede in Roma, e ne e' approvato lo statuto.

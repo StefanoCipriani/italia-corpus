@@ -1,16 +1,14 @@
-REGIO DECRETO 16 dicembre 1940 n. 2009
-
-
-REGIO DECRETO 16 dicembre 1940 n. 2009
-======================================
-
-Proroga dell'applicazione del R. decreto 26 ottobre 1939-XVII, n. 1995, che apporta modifiche a talune categorie dei sottufficiali e militari di truppa della Regia aeronautica, ruolo specialisti. (040U2009)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/03/1941
+---
+tipo: REGIO DECRETO
+numero: 2009
+data: 1940-12-16
+titolo: "Proroga dell'applicazione del R. decreto 26 ottobre 1939-XVII, n. 1995, che apporta modifiche a talune categorie dei sottufficiali e militari di truppa della Regia aeronautica, ruolo specialisti. (040U2009)"
+urn: urn:nir:stato:regio.decreto:1940-12-16;2009
+codice_redazionale: 040U2009
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,30 +24,24 @@ Visto l'art. 3, n. 1, della legge 31 gennaio 1926-IV, n. 100;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'applicazione delle disposizioni contenute nel R. decreto 26 ottobre 1939-XVII, n. 1995, relative alla soppressione nel personale dei sottufficiali e militari di truppa della Regia aeronautica delle categorie radiotelegrafisti e radioaerologisti del ruolo specialisti dell'Arma, aeronautica e alla istituzione in loro vece, dell'unica categoria « marconisti di aeronautica » e' prorogata al 1° gennaio 1942 per quanto si riferisce alla iscrizione nella categoria marconisti di aeronautica dei sottufficiali e militari di truppa gia' iscritti nelle categorie radiotelegrafisti e radioaerologisti.   
-  
-Peraltro, gli avieri scelti che furono nominati, nell'anno 1940, marconisti di aeronautica per aver compiuto l'apposito corso per marconisti di aeronautica e superato il prescritto tirocinio pratico, continueranno ad essere iscritti in detta categoria.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 dicembre 1940-XIX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 26 febbraio 1941-XIX   
-  
-Atti del Governo, registro 430, foglio 101. - MANCINI   
+L'applicazione delle disposizioni contenute nel R. decreto 26 ottobre 1939-XVII, n. 1995, relative alla soppressione nel personale dei sottufficiali e militari di truppa della Regia aeronautica delle categorie radiotelegrafisti e radioaerologisti del ruolo specialisti dell'Arma, aeronautica e alla istituzione in loro vece, dell'unica categoria « marconisti di aeronautica » e' prorogata al 1° gennaio 1942 per quanto si riferisce alla iscrizione nella categoria marconisti di aeronautica dei sottufficiali e militari di truppa gia' iscritti nelle categorie radiotelegrafisti e radioaerologisti. 
+ 
+ Peraltro, gli avieri scelti che furono nominati, nell'anno 1940, marconisti di aeronautica per aver compiuto l'apposito corso per marconisti di aeronautica e superato il prescritto tirocinio pratico, continueranno ad essere iscritti in detta categoria. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 dicembre 1940-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 26 febbraio 1941-XIX 
+ 
+ Atti del Governo, registro 430, foglio 101. - MANCINI

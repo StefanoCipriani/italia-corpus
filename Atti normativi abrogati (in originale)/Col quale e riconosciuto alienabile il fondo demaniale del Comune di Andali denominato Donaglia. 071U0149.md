@@ -1,16 +1,14 @@
-REGIO DECRETO 09 marzo 1871 n. 149
-
-
-REGIO DECRETO 09 marzo 1871 n. 149
-==================================
-
-Col quale e' riconosciuto alienabile il fondo demaniale del Comune di Andali, denominato Donaglia. (071U0149)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/05/1871
+---
+tipo: REGIO DECRETO
+numero: 149
+data: 1871-03-09
+titolo: "Col quale e' riconosciuto alienabile il fondo demaniale del Comune di Andali, denominato Donaglia. (071U0149)"
+urn: urn:nir:stato:regio.decreto:1871-03-09;149
+codice_redazionale: 071U0149
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,28 +20,20 @@ Viste le deliberazioni prese dal Consiglio comunale di Andali, in Calabria Ulter
 
 Visto l'avviso del Consiglio di Stato nella sua adunanza generale del 28 agosto 1869;
 
-Sulla
------
+Sulla proposizione del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il fondo demaniale del Comune di Andali, in Calabria Ulteriore 2ª, denominato Donaglia, della estensione di ettari 125.80, e' riconosciuto alienabile con le medesime formalita' e cautele necessarie per l'alienazione degli altri fondi comunali, in adempimento della [Legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato A.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 9 marzo 1871.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 31 marzo 1871   
-Reg. 55 Atti del Governo a c. 61. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli DE FALCO.   
-  
-CASTAGNOLA.   
-  
-  
+Il fondo demaniale del Comune di Andali, in Calabria Ulteriore 2ª, denominato Donaglia, della estensione di ettari 125.80, e' riconosciuto alienabile con le medesime formalita' e cautele necessarie per l'alienazione degli altri fondi comunali, in adempimento della [Legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato A. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 9 marzo 1871. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 31 marzo 1871 
+ Reg. 55 Atti del Governo a c. 61. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli DE FALCO. 
+ 
+ CASTAGNOLA.

@@ -1,16 +1,14 @@
-REGIO DECRETO 05 agosto 1869 n. 5239
-
-
-REGIO DECRETO 05 agosto 1869 n. 5239
-====================================
-
-Che autorizza le frazioni di Treporti, Cavallino, Falconera e Lei Piccolo a tenere le proprie rendite patrimoniali e passivita' separate da quelle del rimanente del Comune di Barano. (069U5239)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/09/1869
+---
+tipo: REGIO DECRETO
+numero: 5239
+data: 1869-08-05
+titolo: "Che autorizza le frazioni di Treporti, Cavallino, Falconera e Lei Piccolo a tenere le proprie rendite patrimoniali e passivita' separate da quelle del rimanente del Comune di Barano. (069U5239)"
+urn: urn:nir:stato:regio.decreto:1869-08-05;5239
+codice_redazionale: 069U5239
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Viste le domande della maggioranza dei contribuenti delle frazioni di Treporti, 
 
 Vista la deliberazione emessa dal Consiglio comunale di Barano in data 27 agosto 1867;
 
-Visto
------
+Visto l'articolo 16 della Legge comunale e provinciale 20 marzo 1865; Abbiamo decretato e decretiamo:
 
-l'articolo 16 della Legge comunale e provinciale 20 marzo 1865; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le frazioni di Treporti, Cavallino, Falconera e Lei Piccolo sono autorizzate a tenere le proprie rendite patrimoniali e passivita' separate da quelle del rimanente del Comune di Barano.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 5 agosto 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 24 agosto 1869.   
-  
-Reg. 48 Atti del Governo a c. 50. Crodara-Visconti.   
-  
-Luogo del sigillo. V. Il Guardasigilli Pironti.   
-  
-Luigi Ferraris.   
-  
+Le frazioni di Treporti, Cavallino, Falconera e Lei Piccolo sono autorizzate a tenere le proprie rendite patrimoniali e passivita' separate da quelle del rimanente del Comune di Barano. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 5 agosto 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 24 agosto 1869. 
+ 
+ Reg. 48 Atti del Governo a c. 50. Crodara-Visconti. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Pironti. 
+ 
+ Luigi Ferraris.

@@ -1,22 +1,20 @@
-REGIO DECRETO 04 febbraio 1877 n. 3669
-
-
-REGIO DECRETO 04 febbraio 1877 n. 3669
-======================================
-
-Che proroga a tutto l'anno 1877 il termine per chiedere la conservazione degli archivi notarili e mandamentali esistenti al giorno dell'attuazione della legge sul notariato e stabilisce che la domanda per l'istituzione di nuovi archivi mandamentali puo' esser fatta in qualunque tempo. (077U3669)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/03/1877
+---
+tipo: REGIO DECRETO
+numero: 3669
+data: 1877-02-04
+titolo: "Che proroga a tutto l'anno 1877 il termine per chiedere la conservazione degli archivi notarili e mandamentali esistenti al giorno dell'attuazione della legge sul notariato e stabilisce che la domanda per l'istituzione di nuovi archivi mandamentali puo' esser fatta in qualunque tempo. (077U3669)"
+urn: urn:nir:stato:regio.decreto:1877-02-04;3669
+codice_redazionale: 077U3669
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli articoli 150 e 151 del regolamento per l'esecuzione della legge sul notariato, approvato col [R. decreto 19 dicembre 1875, n. 2840](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-12-19;2840) (Serie 2ª), coi quali e' stabilito che i mandamenti i quali intendono di mantenere od istituire un archivio loro proprio, devono, entro il termine di sei mesi, farne al Governo la dichiarazione, e che, scorso il detto termine, gli archivi esistenti nei mandamenti, i quali non ne abbiano domandato la conservazione, cessano, e le carte, documenti e registri ivi depositati ed attinenti al notariato, sono rimessi all'archivio del distretto a cui il mandamento appartiene;
+Visti gli articoli 150 e 151 del regolamento per l'esecuzione della legge sul notariato, approvato col [R. decreto 19 dicembre 1875, n. 2840](Che%20approva%20il%20regolamento%20per%20lesecuzione%20della%20legge%20sul%20riordinamento%20del%20notariato.%20075U2840.md) (Serie 2ª), coi quali e' stabilito che i mandamenti i quali intendono di mantenere od istituire un archivio loro proprio, devono, entro il termine di sei mesi, farne al Governo la dichiarazione, e che, scorso il detto termine, gli archivi esistenti nei mandamenti, i quali non ne abbiano domandato la conservazione, cessano, e le carte, documenti e registri ivi depositati ed attinenti al notariato, sono rimessi all'archivio del distretto a cui il mandamento appartiene;
 
 Ritenuto che molte domande per l'istituzione o la conservazione dei detti archivi mandamentali sono state presentate dopo la scadenza del termine suindicato;
 
@@ -30,25 +28,18 @@ Che eguale disposizione puo' adottarsi anche per le dimande di conservazione deg
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli Ministro per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli Ministro per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il termine di sei mesi stabilito dagli articoli 146, 147, 150 e 151 del suddetto regolamento del 19 dicembre 1875, e' prorogato a tutto l'anno 1877, per gli archivi comunali e mandamentali esistenti al giorno dell'attuazione della nuova legge sul notariato del 25 luglio 1875.   
-  
-Per gli archivi mandamentali di nuova istituzione, le relative domande potranno essere presentate in qualunque tempo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli, addi' 4 febbraio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-Mancini.   
-  
+Il termine di sei mesi stabilito dagli articoli 146, 147, 150 e 151 del suddetto regolamento del 19 dicembre 1875, e' prorogato a tutto l'anno 1877, per gli archivi comunali e mandamentali esistenti al giorno dell'attuazione della nuova legge sul notariato del 25 luglio 1875. 
+ 
+ Per gli archivi mandamentali di nuova istituzione, le relative domande potranno essere presentate in qualunque tempo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli, addi' 4 febbraio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mancini.

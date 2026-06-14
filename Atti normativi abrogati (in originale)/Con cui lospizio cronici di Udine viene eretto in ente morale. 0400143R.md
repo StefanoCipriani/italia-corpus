@@ -1,22 +1,19 @@
-REGIO DECRETO 11 aprile 1904 n. CXLIII
+---
+tipo: REGIO DECRETO
+numero: CXLIII
+data: 1904-04-11
+titolo: "Con cui l'ospizio cronici di Udine viene eretto in ente morale. (0400143R)"
+urn: urn:nir:stato:regio.decreto:1904-04-11;143
+codice_redazionale: 0400143R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 aprile 1904 n. CXLIII
-======================================
+Con cui l'ospizio cronici di Udine viene eretto in ente morale. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 28 aprile
 
-Con cui l'ospizio cronici di Udine viene eretto in ente morale. (0400143R)
---------------------------------------------------------------------------
+1904.
 
-Entrata in vigore del provvedimento: 18/05/1904
-
-Art. 1
-------
-
-Con cui l'ospizio cronici di Udine viene eretto in ente morale. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 28 aprile
-
-1904. 
-  
-  
 Reg. 16. Atti del Governo a f. 84.

@@ -1,16 +1,14 @@
-REGIO DECRETO 24 aprile 1939 n. 857
-
-
-REGIO DECRETO 24 aprile 1939 n. 857
-===================================
-
-Estensione delle attribuzioni del Comitato tecnico corporativo del credito. (039U0857)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/07/1939
+---
+tipo: REGIO DECRETO
+numero: 857
+data: 1939-04-24
+titolo: "Estensione delle attribuzioni del Comitato tecnico corporativo del credito. (039U0857)"
+urn: urn:nir:stato:regio.decreto:1939-04-24;857
+codice_redazionale: 039U0857
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,38 +30,32 @@ Sentito il Comitato tecnico corporativo del credito;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo Capo del Governo, Presidente del Comitato dei Ministri anzidetto; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo Capo del Governo, Presidente del Comitato dei Ministri anzidetto; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il parere del Comitato tecnico corporativo del credito, oltre che nei casi preveduti dalle vigenti disposizioni, deve essere richiesto nelle materie appresso indicate:   
-  
-a) autorizzazione per la costituzione di aziende di credito;   
-  
-b) determinazione delle condizioni e norme per le operazioni ed i servizi di banca;   
-  
-c) approvazione e modificazione degli statuti delle casse di risparmio;   
-  
-d) piani organici di distribuzione, apertura e chiusura di sportelli;   
-  
-e) attribuzione di speciali servizi bancari e di speciali funzioni creditizie a singole aziende o categorie di aziende di credito.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 aprile 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI   
-  
-Visto, il Guardasigilli: SOLMI   
-  
-Registrato alla Corte dei conti, addi' 20 giugno 1939-XVII   
-  
-Atti del Governo, registro 410, foglio 64. - MANCINI   
+Il parere del Comitato tecnico corporativo del credito, oltre che nei casi preveduti dalle vigenti disposizioni, deve essere richiesto nelle materie appresso indicate: 
+ 
+ a) autorizzazione per la costituzione di aziende di credito; 
+ 
+ b) determinazione delle condizioni e norme per le operazioni ed i servizi di banca; 
+ 
+ c) approvazione e modificazione degli statuti delle casse di risparmio; 
+ 
+ d) piani organici di distribuzione, apertura e chiusura di sportelli; 
+ 
+ e) attribuzione di speciali servizi bancari e di speciali funzioni creditizie a singole aziende o categorie di aziende di credito. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 aprile 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI 
+ 
+ Visto, il Guardasigilli: SOLMI 
+ 
+ Registrato alla Corte dei conti, addi' 20 giugno 1939-XVII 
+ 
+ Atti del Governo, registro 410, foglio 64. - MANCINI

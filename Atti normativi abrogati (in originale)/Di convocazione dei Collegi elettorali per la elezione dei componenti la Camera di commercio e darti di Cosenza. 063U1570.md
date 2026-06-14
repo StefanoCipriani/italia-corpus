@@ -1,16 +1,14 @@
-REGIO DECRETO 29 novembre 1863 n. 1570
-
-
-REGIO DECRETO 29 novembre 1863 n. 1570
-======================================
-
-Di convocazione dei Collegi elettorali per la elezione dei componenti la Camera di commercio e d'arti di Cosenza. (063U1570)
-----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/01/1864
+---
+tipo: REGIO DECRETO
+numero: 1570
+data: 1863-11-29
+titolo: "Di convocazione dei Collegi elettorali per la elezione dei componenti la Camera di commercio e d'arti di Cosenza. (063U1570)"
+urn: urn:nir:stato:regio.decreto:1863-11-29;1570
+codice_redazionale: 063U1570
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,27 +18,20 @@ Veduta la legge del 6 luglio 1862 sulla istituzione e ordinamento delle Camere d
 
 Veduti i Nostri Decreti del 5 ottobre e 13 novembre 1862;
 
-Sulla
------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono convocati pel giorno 3 del mese di gennaio del prossimo venturo anno 1864 i Collegi elettorali per la elezione dei componenti la Camera di commercio e d'arti di Cosenza.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Torino li 29 novembre 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 14 dicembre 1863   
-  
-Reg.° 27 Atti del Governo a c. 50. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-Manna   
-  
+Sono convocati pel giorno 3 del mese di gennaio del prossimo venturo anno 1864 i Collegi elettorali per la elezione dei componenti la Camera di commercio e d'arti di Cosenza. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Torino li 29 novembre 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 14 dicembre 1863 
+ 
+ Reg.° 27 Atti del Governo a c. 50. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ Manna

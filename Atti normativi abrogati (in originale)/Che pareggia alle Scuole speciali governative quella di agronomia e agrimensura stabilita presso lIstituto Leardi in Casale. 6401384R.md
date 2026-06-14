@@ -1,32 +1,37 @@
-REGIO DECRETO 09 ottobre 1864 n. MCCCLXXXIV
+---
+tipo: REGIO DECRETO
+numero: MCCCLXXXIV
+data: 1864-10-09
+titolo: "Che pareggia alle Scuole speciali governative quella di agronomia e agrimensura stabilita presso l'Istituto Leardi in Casale. (6401384R)"
+urn: urn:nir:stato:regio.decreto:1864-10-09;1384
+codice_redazionale: 6401384R
+vigente: true
+---
 
+VITTORIO EMANUELE II
 
-REGIO DECRETO 09 ottobre 1864 n. MCCCLXXXIV
-===========================================
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
-Che pareggia alle Scuole speciali governative quella di agronomia e agrimensura stabilita presso l'Istituto Leardi in Casale. (6401384R)
-----------------------------------------------------------------------------------------------------------------------------------------
+RE D'ITALIA
 
-Entrata in vigore del provvedimento: 09/11/1864
+Veduta l'istanza presentata dalla Direzione dell'Istituto tecnico Leardi in Casale per ottenere il pareggiamento della Scuola speciale di agronomia e agrimensura stabilita nell'Istituto medesimo;
 
-Articolo unico
---------------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-  
-  
-La Scuola speciale di agronomia e agrimensura stabilita presso il civico Istituto Leardi in Casale e' pareggiata alle Scuole speciali governative, con obbligo di attenersi ai programmi d'insegnamento adottati dallo Stato.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 9 ottobre 1864.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 17 ottobre 1864   
-  
-Reg.° 31 Atti del Governo a c. 79. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-Torelli.   
-  
+## Articolo unico.
+
+La Scuola speciale di agronomia e agrimensura stabilita presso il civico Istituto Leardi in Casale e' pareggiata alle Scuole speciali governative, con obbligo di attenersi ai programmi d'insegnamento adottati dallo Stato. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 9 ottobre 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 17 ottobre 1864 
+ 
+ Reg.° 31 Atti del Governo a c. 79. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ Torelli.

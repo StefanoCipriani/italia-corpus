@@ -1,16 +1,14 @@
-REGIO DECRETO 09 agosto 1876 n. 3269
-
-
-REGIO DECRETO 09 agosto 1876 n. 3269
-====================================
-
-Col quale i comuni di San Martino in Pensilis e di Ururi sono distaccati dalla sezione prima del collegio elettorale di Larino e costituiti in sezione separata del collegio medesimo. (076U3269)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/08/1876
+---
+tipo: REGIO DECRETO
+numero: 3269
+data: 1876-08-09
+titolo: "Col quale i comuni di San Martino in Pensilis e di Ururi sono distaccati dalla sezione prima del collegio elettorale di Larino e costituiti in sezione separata del collegio medesimo. (076U3269)"
+urn: urn:nir:stato:regio.decreto:1876-08-09;3269
+codice_redazionale: 076U3269
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di S. Martino in Pensilis e di Ururi sono separati dalla sezione prima del Collegio di Larino n. 257, e costituiranno d'ora in poi una sezione distinta del Collegio medesimo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Castello di Sarre, addi' 9 agosto 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+I comuni di S. Martino in Pensilis e di Ururi sono separati dalla sezione prima del Collegio di Larino n. 257, e costituiranno d'ora in poi una sezione distinta del Collegio medesimo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Castello di Sarre, addi' 9 agosto 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

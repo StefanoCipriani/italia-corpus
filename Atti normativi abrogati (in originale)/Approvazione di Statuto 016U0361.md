@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 02 marzo 1916 n. 361
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 361
+data: 1916-03-02
+titolo: "Approvazione di Statuto (016U0361)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-03-02;361
+codice_redazionale: 016U0361
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 02 marzo 1916 n. 361
-============================================
-
-Approvazione di Statuto (016U0361)
-----------------------------------
-
-Entrata in vigore del provvedimento: 20/04/1916
-
-Art. 1
-------
-
-  
-N. 361   
-  
-Decreto Luogotenenziale 2 marzo 1916, col quale, sulla proposta del ministro di agricoltura, industria e commercio, e' approvato il nuovo statuto della Cassa di risparmio di Muro Lucano.   
-  
+N. 361 
+ 
+ Decreto Luogotenenziale 2 marzo 1916, col quale, sulla proposta del ministro di agricoltura, industria e commercio, e' approvato il nuovo statuto della Cassa di risparmio di Muro Lucano.

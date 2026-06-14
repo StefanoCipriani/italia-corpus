@@ -1,19 +1,15 @@
-REGIO DECRETO 28 giugno 1914 n. 649
+---
+tipo: REGIO DECRETO
+numero: 649
+data: 1914-06-28
+titolo: "Erezione in Ente morale e relativa approvazione di statuto dell'Istituto «Minerva» di Roma. (014U0649)"
+urn: urn:nir:stato:regio.decreto:1914-06-28;649
+codice_redazionale: 014U0649
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 giugno 1914 n. 649
-===================================
-
-Erezione in Ente morale e relativa approvazione di statuto dell'Istituto «Minerva» di Roma. (014U0649)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/07/1914
-
-Art. 1
-------
-
-  
-N. 649   
-  
-Regio Decreto 28 giugno 1914, col quale, sulla proposta del ministro dell'istruzione pubblica, l'Istituto nazionale «Minerva», di Roma, per proiezioni e cinematografie educative e' eretto in ente morale, e ne e' approvato lo statuto organico.   
-  
+N. 649 
+ 
+ Regio Decreto 28 giugno 1914, col quale, sulla proposta del ministro dell'istruzione pubblica, l'Istituto nazionale «Minerva», di Roma, per proiezioni e cinematografie educative e' eretto in ente morale, e ne e' approvato lo statuto organico.

@@ -1,19 +1,19 @@
-REGIO DECRETO 18 gennaio 1932 n. 103
+---
+tipo: REGIO DECRETO
+numero: 103
+data: 1932-01-18
+titolo: "Modificazione dell'art. 4 dello statuto della Cassa scolastica del Regio istituto magistrale di Bari. (032U0103)"
+urn: urn:nir:stato:regio.decreto:1932-01-18;103
+codice_redazionale: 032U0103
+vigente: true
+---
 
-
-REGIO DECRETO 18 gennaio 1932 n. 103
-====================================
-
-Modificazione dell'art. 4 dello statuto della Cassa scolastica del Regio istituto magistrale di Bari. (032U0103)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/03/1932
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-103. R. decreto 18 gennaio 1932, col quale, sulla proposta del Ministro per l'educazione nazionale, viene modificato l'art. 4 dello statuto della Cassa scolastica del Regio istituto magistrale di Bari.   
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 18 febbraio 1932 - Anno X
+103.
+
+R. decreto 18 gennaio 1932, col quale, sulla proposta del Ministro per l'educazione nazionale, viene modificato l'art. 4 dello statuto della Cassa scolastica del Regio istituto magistrale di Bari. 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 18 febbraio 1932 - Anno X

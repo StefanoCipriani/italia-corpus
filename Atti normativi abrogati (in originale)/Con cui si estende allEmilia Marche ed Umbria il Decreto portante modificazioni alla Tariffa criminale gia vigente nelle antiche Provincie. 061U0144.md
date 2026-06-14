@@ -1,16 +1,14 @@
-REGIO DECRETO 04 agosto 1861 n. 144
-
-
-REGIO DECRETO 04 agosto 1861 n. 144
-===================================
-
-Con cui si estende all'Emilia, Marche ed Umbria il Decreto portante modificazioni alla Tariffa criminale gia' vigente nelle antiche Provincie. (061U0144)
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/08/1861
+---
+tipo: REGIO DECRETO
+numero: 144
+data: 1861-08-04
+titolo: "Con cui si estende all'Emilia, Marche ed Umbria il Decreto portante modificazioni alla Tariffa criminale gia' vigente nelle antiche Provincie. (061U0144)"
+urn: urn:nir:stato:regio.decreto:1861-08-04;144
+codice_redazionale: 061U0144
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,30 +18,22 @@ Visto il numero 9 del Regio Decreto 5 dicembre 1860, n.° 4462, ed il Decreto 16
 
 Ritenuto che coll'art. 10 del Regio Decreto 12 giugno 1853, n.° 1550, nel maggiore interesse del servizio si modificarono le disposizioni dell'art. 126 del detto regolamento tariffale 26 aprile 1848, e che sarebbe conveniente di estendere anche alle accennate nuove Provincie le anzidette modificazioni;
 
-Sulla
------
+Sulla proposizione del Nostro Guardasigilli Ministro di Grazia e Giustizia ed Affari Ecclesiastici; Abbiamo ordinato ed ordiniamo:
 
-proposizione del Nostro Guardasigilli Ministro di Grazia e Giustizia ed Affari Ecclesiastici; Abbiamo ordinato ed ordiniamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La trasmissione delle note di spese e degli estratti di sentenze, che giusta il disposto dell'art. 126 del regolamento 26 aprile 1848 devesi fare dai Segretari ai Ricevitori dell'Insinuazione, sara' fatta dai Segretari medesimi nei primi cinque giorni di ciascun mese al Direttore del Demanio della Provincia in cui ha sede la Corte d'Appello, il Tribunale o Giudice che proferi' la sentenza.   
-  
-Eguale trasmissione dovra' farsi dai medesimi per quanto alle copie delle oblazioni, le quali siano state debitamente accettate ed approvate, in tutti quei casi in cui dalle leggi speciali sia autorizzata la transazione delle incorse contravvenzioni.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 4 agosto 1861.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 6 agosto 1861   
-Reg.° 17 Atti del Governo a c. 259. Wehrlin.   
-Luogo del Sigillo. V. Il Guardasigilli: MIGLIETTI.   
-  
-MIGLIETTI.   
-  
-  
+La trasmissione delle note di spese e degli estratti di sentenze, che giusta il disposto dell'art. 126 del regolamento 26 aprile 1848 devesi fare dai Segretari ai Ricevitori dell'Insinuazione, sara' fatta dai Segretari medesimi nei primi cinque giorni di ciascun mese al Direttore del Demanio della Provincia in cui ha sede la Corte d'Appello, il Tribunale o Giudice che proferi' la sentenza. 
+ 
+ Eguale trasmissione dovra' farsi dai medesimi per quanto alle copie delle oblazioni, le quali siano state debitamente accettate ed approvate, in tutti quei casi in cui dalle leggi speciali sia autorizzata la transazione delle incorse contravvenzioni. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 4 agosto 1861. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 6 agosto 1861 
+ Reg.° 17 Atti del Governo a c. 259. Wehrlin. 
+ Luogo del Sigillo. V. Il Guardasigilli: MIGLIETTI. 
+ 
+ MIGLIETTI.

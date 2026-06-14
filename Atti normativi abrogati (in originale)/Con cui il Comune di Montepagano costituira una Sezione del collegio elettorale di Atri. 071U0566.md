@@ -1,16 +1,14 @@
-REGIO DECRETO 13 dicembre 1871 n. 566
-
-
-REGIO DECRETO 13 dicembre 1871 n. 566
-=====================================
-
-Con cui il Comune di Montepagano costituira' una Sezione del collegio elettorale di Atri. (071U0566)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/01/1872
+---
+tipo: REGIO DECRETO
+numero: 566
+data: 1871-12-13
+titolo: "Con cui il Comune di Montepagano costituira' una Sezione del collegio elettorale di Atri. (071U0566)"
+urn: urn:nir:stato:regio.decreto:1871-12-13;566
+codice_redazionale: 071U0566
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Montepagano costituira' d'ora in poi una sezione del Collegio di Atri n. 9, con sede nel capoluogo del comune stesso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 13 dicembre 1871.   
-  
-VITTORIO EMANUELE.   
-  
-G. Lanza.   
-  
+Il comune di Montepagano costituira' d'ora in poi una sezione del Collegio di Atri n. 9, con sede nel capoluogo del comune stesso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 13 dicembre 1871. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Lanza.

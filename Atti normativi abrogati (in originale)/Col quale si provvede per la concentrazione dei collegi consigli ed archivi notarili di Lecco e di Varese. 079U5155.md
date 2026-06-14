@@ -1,16 +1,14 @@
-REGIO DECRETO 20 novembre 1879 n. 5155
-
-
-REGIO DECRETO 20 novembre 1879 n. 5155
-======================================
-
-Col quale si provvede per la concentrazione dei collegi, consigli ed archivi notarili di Lecco e di Varese. (079U5155)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/12/1879
+---
+tipo: REGIO DECRETO
+numero: 5155
+data: 1879-11-20
+titolo: "Col quale si provvede per la concentrazione dei collegi, consigli ed archivi notarili di Lecco e di Varese. (079U5155)"
+urn: urn:nir:stato:regio.decreto:1879-11-20;5155
+codice_redazionale: 079U5155
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,17 @@ Ritenuto che in tale condizione di cose diventa imprescindibile necessita' il fa
 
 Considerato che i distretti notarili di Lecco e di Varese devono essere riuniti al distretto di Como, capoluogo della provincia, non esistendo nel territorio della provincia stessa altri distretti notarili;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti dei Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 20 novembre 1879.   
-  
-UMBERTO.   
-  
-VARE'.   
-  
-Visto - Il Guardasigilli   
-VARE'.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti dei Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 20 novembre 1879. 
+ 
+ UMBERTO. 
+ 
+ VARE'. 
+ 
+ Visto - Il Guardasigilli 
+ VARE'.

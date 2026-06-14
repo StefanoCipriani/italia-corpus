@@ -1,24 +1,22 @@
-REGIO DECRETO 07 dicembre 1902 n. 541
-
-
-REGIO DECRETO 07 dicembre 1902 n. 541
-=====================================
-
-Che autorizza il Ministro della Marina a concedere ai tenenti di vascello le caratteristiche A o T. (002U0541)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/01/1903
+---
+tipo: REGIO DECRETO
+numero: 541
+data: 1902-12-07
+titolo: "Che autorizza il Ministro della Marina a concedere ai tenenti di vascello le caratteristiche A o T. (002U0541)"
+urn: urn:nir:stato:regio.decreto:1902-12-07;541
+codice_redazionale: 002U0541
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 14 gennaio 1900, n. 114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-01-14;114), relativo alla specializzazione dei tenenti di vascello per i servizi delle artiglierie e del materiale elettrico e sub acqueo e per il servizio idrografico;
+Visto il [R. decreto 14 gennaio 1900, n. 114](Che%20approva%20il%20Regolamento%20per%20la%20specializzazione%20dei%20tenenti%20di%20vascello%20nei%20particolari%20studii%20riguardanti%20il%20materiale%20dartiglieria%20elettrico%20e%20subacqueo%20ed%20il%20servizio%20idrografico%20no_f1497e3bfa35.md), relativo alla specializzazione dei tenenti di vascello per i servizi delle artiglierie e del materiale elettrico e sub acqueo e per il servizio idrografico;
 
-Visto il [R. decreto n. 489 del 9 dicembre 1900](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-12-09;489) che proroga al 1° luglio 1902 la facolta' concessa al Ministro della Marina di rilasciare certificati di specialista ai tenenti di vascello;
+Visto il [R. decreto n. 489 del 9 dicembre 1900](Che%20proroga%20la%20facolta%20concessa%20al%20Ministro%20della%20Marina%20di%20rilasciare%20certificati%20di%20specialisti%20ai%20tenenti%20di%20vascello.%20000U0489.md) che proroga al 1° luglio 1902 la facolta' concessa al Ministro della Marina di rilasciare certificati di specialista ai tenenti di vascello;
 
 Ritenuto che un certo numero di tenenti di vascello promossi negli ultimi anni non ebbero modo, per cause da essi indipendenti, di frequentare i corsi speciali di studio istituiti presso la R.
 
@@ -30,25 +28,18 @@ Considerata infine la convenienza che siano esclusivamente destinati ai servizi 
 
 Sentito il parere del Consiglio superiore di Marina;
 
-Sulla
------
+Sulla proposta del Nostro Ministro per la Marina; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro per la Marina; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' data facolta' al Nostro Ministro per la Marina di concedere fino a tutto il futuro anno 1904 la caratteristica A o T a quei tenenti di vascello i quali abbiano soddisfatto lodevolmente all'incarico del materiale d'artiglieria o subacqueo ed elettrico per la durata di un anno, alla condizione che l'intero anno, o parte di esso, non inferiore pero' a sei mesi, debba essere stato trascorso sopra R. nave armata od in riserva e la rimanente parte, nel secondo caso, presso una Direzione d'artiglieria ed armamenti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 dicembre 1902.   
-  
-VITTORIO EMANUELE.   
-  
-Morin.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.   
-  
+E' data facolta' al Nostro Ministro per la Marina di concedere fino a tutto il futuro anno 1904 la caratteristica A o T a quei tenenti di vascello i quali abbiano soddisfatto lodevolmente all'incarico del materiale d'artiglieria o subacqueo ed elettrico per la durata di un anno, alla condizione che l'intero anno, o parte di esso, non inferiore pero' a sei mesi, debba essere stato trascorso sopra R. nave armata od in riserva e la rimanente parte, nel secondo caso, presso una Direzione d'artiglieria ed armamenti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 dicembre 1902. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Morin. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

@@ -1,17 +1,17 @@
-REGIO DECRETO 31 dicembre 1922 n. 1854
+---
+tipo: REGIO DECRETO
+numero: 1854
+data: 1922-12-31
+titolo: "Istituzione di un Consorzio universitario lombardo e sua erezione in Ente morale. (022U1854)"
+urn: urn:nir:stato:regio.decreto:1922-12-31;1854
+codice_redazionale: 022U1854
+vigente: true
+---
 
-
-REGIO DECRETO 31 dicembre 1922 n. 1854
-======================================
-
-Istituzione di un Consorzio universitario lombardo e sua erezione in Ente morale. (022U1854)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/04/1923
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1854. Regio decreto 31 dicembre 1922, col quale, sulla proposta del Ministro per l'istruzione, si approva l'atto di costituzione in data 28 settembre 1922, e il relativo statuto, col quale il Comune, la Provincia, l'Ospedale di S. Matteo in Pavia, le provincie di Bergamo, Brescia, Como, Cremona, Mantova, Milano e Sondrio, la Banca popolare di Pavia, la Cassa di risparmio delle provincie lombardo col contributo del R. Collegio Ghisleri, del Collegio Borromeo, della Camera di commercio di Pavia, della Cassa di risparmio di Voghera e della Banca di Credito commerciale, si sono accordati per la istituzione di un Consorzio universitario lombardo per l'incremento e il miglior funzionamento degli Istituti universitari di Pavia, Consorzio che con il decreto stesso viene eretto in Ente morale.
+1854.
+
+Regio decreto 31 dicembre 1922, col quale, sulla proposta del Ministro per l'istruzione, si approva l'atto di costituzione in data 28 settembre 1922, e il relativo statuto, col quale il Comune, la Provincia, l'Ospedale di S. Matteo in Pavia, le provincie di Bergamo, Brescia, Como, Cremona, Mantova, Milano e Sondrio, la Banca popolare di Pavia, la Cassa di risparmio delle provincie lombardo col contributo del R. Collegio Ghisleri, del Collegio Borromeo, della Camera di commercio di Pavia, della Cassa di risparmio di Voghera e della Banca di Credito commerciale, si sono accordati per la istituzione di un Consorzio universitario lombardo per l'incremento e il miglior funzionamento degli Istituti universitari di Pavia, Consorzio che con il decreto stesso viene eretto in Ente morale.

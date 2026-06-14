@@ -1,19 +1,15 @@
-REGIO DECRETO 12 maggio 1912 n. 473
+---
+tipo: REGIO DECRETO
+numero: 473
+data: 1912-05-12
+titolo: "Erezione in ente morale e concentrazione di legato (012U0473)"
+urn: urn:nir:stato:regio.decreto:1912-05-12;473
+codice_redazionale: 012U0473
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 maggio 1912 n. 473
-===================================
-
-Erezione in ente morale e concentrazione di legato (012U0473)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/06/1912
-
-Art. 1
-------
-
-  
-N. 473   
-  
-Regio Decreto 12 maggio 1912, col quale, sulla proposta del ministro dell'interno, il legato Giovanni Battista Bruschi, di Camugnano (Bologna), avente scopo misto di culto e dotalizio, viene eretto in ente morale, e concentrato nella locale Congregazione di carita'.   
-  
+N. 473 
+ 
+ Regio Decreto 12 maggio 1912, col quale, sulla proposta del ministro dell'interno, il legato Giovanni Battista Bruschi, di Camugnano (Bologna), avente scopo misto di culto e dotalizio, viene eretto in ente morale, e concentrato nella locale Congregazione di carita'.

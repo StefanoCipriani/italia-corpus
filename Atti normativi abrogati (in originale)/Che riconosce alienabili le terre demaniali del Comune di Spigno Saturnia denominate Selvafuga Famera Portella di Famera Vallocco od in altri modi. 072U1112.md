@@ -1,16 +1,14 @@
-REGIO DECRETO 29 settembre 1872 n. 1112
-
-
-REGIO DECRETO 29 settembre 1872 n. 1112
-=======================================
-
-Che riconosce alienabili le terre demaniali del Comune di Spigno Saturnia, denominate Selvafuga, Famera, Portella di Famera, Vallocco, od in altri modi. (072U1112)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/12/1872
+---
+tipo: REGIO DECRETO
+numero: 1112
+data: 1872-09-29
+titolo: "Che riconosce alienabili le terre demaniali del Comune di Spigno Saturnia, denominate Selvafuga, Famera, Portella di Famera, Vallocco, od in altri modi. (072U1112)"
+urn: urn:nir:stato:regio.decreto:1872-09-29;1112
+codice_redazionale: 072U1112
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,23 +20,16 @@ Vista la deliberazione del Consiglio comunale di Spigno Saturnia in Terra di Lav
 
 Visto l'avviso del Consiglio di Stato, reso nella sua adunanza generale del 28 agosto 1869;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le terre demaniali del comune di Spigno Saturnia in provincia di Terra di Lavoro, denominate Selva Fuga, Famera, Portella di Famera, Vallocco ed in altri modi, della complessiva estensione di ettari 23, 38, 42, sono riconosciute alienabili con le medesime formalita' e cautele necessarie per l'alienazione degli altri fondi comunali, in adempimento della [legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato A.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 settembre 1872.   
-  
-VITTORIO EMANUELE   
-  
-Castagnola.   
-  
+Le terre demaniali del comune di Spigno Saturnia in provincia di Terra di Lavoro, denominate Selva Fuga, Famera, Portella di Famera, Vallocco ed in altri modi, della complessiva estensione di ettari 23, 38, 42, sono riconosciute alienabili con le medesime formalita' e cautele necessarie per l'alienazione degli altri fondi comunali, in adempimento della [legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato A. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 settembre 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Castagnola.

@@ -1,21 +1,21 @@
-REGIO DECRETO 27 maggio 1929 n. 1303
+---
+tipo: REGIO DECRETO
+numero: 1303
+data: 1929-05-27
+titolo: "Omologazione del regolamento per l'applicazione dell'imposta di cura nel comune di Pesaro. (029U1303)"
+urn: urn:nir:stato:regio.decreto:1929-05-27;1303
+codice_redazionale: 029U1303
+vigente: true
+---
 
-
-REGIO DECRETO 27 maggio 1929 n. 1303
-====================================
-
-Omologazione del regolamento per l'applicazione dell'imposta di cura nel comune di Pesaro. (029U1303)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/08/1929
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1303. R. decreto 27 maggio 1929, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene omologato il regolamento per l'applicazione dell'imposta di cura nel comune di Pesaro.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 30 luglio 1929 - Anno VII
+1303.
+
+R. decreto 27 maggio 1929, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene omologato il regolamento per l'applicazione dell'imposta di cura nel comune di Pesaro. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 30 luglio 1929 - Anno VII

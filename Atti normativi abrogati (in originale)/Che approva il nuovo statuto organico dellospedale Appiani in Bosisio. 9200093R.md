@@ -1,30 +1,25 @@
-REGIO DECRETO 25 febbraio 1892 n. XCIII
+---
+tipo: REGIO DECRETO
+numero: XCIII
+data: 1892-02-25
+titolo: "Che approva il nuovo statuto organico dell'ospedale Appiani in Bosisio. (9200093R)"
+urn: urn:nir:stato:regio.decreto:1892-02-25;93
+codice_redazionale: 9200093R
+vigente: true
+---
 
+## Articolo unico.
 
-REGIO DECRETO 25 febbraio 1892 n. XCIII
-=======================================
-
-Che approva il nuovo statuto organico dell'ospedale Appiani in Bosisio. (9200093R)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/04/1892
-
-Articolo unico
---------------
-
-  
-  
-E' approvato il nuovo statuto organico dell'ospedale Appiani in Bosisio, pubblicato in quel comune il 2 dicembre 1891, composto di 26 articoli, visto e sottoscritto d'ordine Nostro dal ministro proponente.   
-  
-Dato a Roma, addi' 25 febbraio 1892.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 10 marzo 1892.   
-  
-Reg. 184. Atti del Governo a f. 20. Mandillo.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Chimirri.   
-  
-G. Nicotera.   
-  
+E' approvato il nuovo statuto organico dell'ospedale Appiani in Bosisio, pubblicato in quel comune il 2 dicembre 1891, composto di 26 articoli, visto e sottoscritto d'ordine Nostro dal ministro proponente. 
+ 
+ Dato a Roma, addi' 25 febbraio 1892. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 10 marzo 1892. 
+ 
+ Reg. 184. Atti del Governo a f. 20. Mandillo. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Chimirri. 
+ 
+ G. Nicotera.

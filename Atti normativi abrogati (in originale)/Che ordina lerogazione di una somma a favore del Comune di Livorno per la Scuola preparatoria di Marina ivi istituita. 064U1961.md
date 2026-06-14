@@ -1,16 +1,14 @@
-REGIO DECRETO 13 ottobre 1864 n. 1961
-
-
-REGIO DECRETO 13 ottobre 1864 n. 1961
-=====================================
-
-Che ordina l'erogazione di una somma a favore del Comune di Livorno per la Scuola preparatoria di Marina ivi istituita. (064U1961)
-----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1864
+---
+tipo: REGIO DECRETO
+numero: 1961
+data: 1864-10-13
+titolo: "Che ordina l'erogazione di una somma a favore del Comune di Livorno per la Scuola preparatoria di Marina ivi istituita. (064U1961)"
+urn: urn:nir:stato:regio.decreto:1864-10-13;1961
+codice_redazionale: 064U1961
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,29 +26,22 @@ Considerando le spese fatte dal Comune di Livorno per l'Istituto medesimo ed il 
 
 Sulla proposta del Nostro Ministro degli Affari Esteri,
 
-Presidente
-----------
+Presidente del Consiglio ed incaricato interinalmente della Marina; Abbiamo decretato e decretiamo:
 
-del Consiglio ed incaricato interinalmente della Marina; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La differenza di L. 4,400 esistente sul capitolo 31 del bilancio della Marina tra il sussidio devoluto alla Scuola di Marina in Livorno per L. 3,600 in base al R. Decreto 6 gennaio 1861, e la somma totale di L. 8,000 inscritte sul bilancio stesso al capitolo or enunciato, rimane erogata a favore del Comune di Livorno per la Scuola preparatoria di Marina istituita nel Comune stesso.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 13 ottobre 1864.   
-  
-VITTORIO EMANUELE   
-  
-Alfonso La Marmora.   
-  
-Registrato alla Corte dei conti addi' 18 ottobre 1864   
-  
-Reg.° 31 Atti del Governo a c. 82. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
+La differenza di L. 4,400 esistente sul capitolo 31 del bilancio della Marina tra il sussidio devoluto alla Scuola di Marina in Livorno per L. 3,600 in base al R. Decreto 6 gennaio 1861, e la somma totale di L. 8,000 inscritte sul bilancio stesso al capitolo or enunciato, rimane erogata a favore del Comune di Livorno per la Scuola preparatoria di Marina istituita nel Comune stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 13 ottobre 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Alfonso La Marmora. 
+ 
+ Registrato alla Corte dei conti addi' 18 ottobre 1864 
+ 
+ Reg.° 31 Atti del Governo a c. 82. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca.

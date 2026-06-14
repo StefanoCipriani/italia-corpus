@@ -1,17 +1,13 @@
-REGIO DECRETO 28 dicembre 1922 n. 1888
+---
+tipo: REGIO DECRETO
+numero: 1888
+data: 1922-12-28
+titolo: "Riordinamento di scuola. (022U1888)"
+urn: urn:nir:stato:regio.decreto:1922-12-28;1888
+codice_redazionale: 022U1888
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 dicembre 1922 n. 1888
-======================================
-
-Riordinamento di scuola. (022U1888)
------------------------------------
-
-Entrata in vigore del provvedimento: 23/06/1923
-
-Art. 1
-------
-
-  
-N. 1888, Regio decreto 28 dicembre 1922, col quale, sulla proposta del Ministro per l'industria e il commercio, la R. scuola di disegno industriale di Monteleone di Calabria, viene riordinata come laboratorio scuola ed assume la denominazione di R. Laboratorio Scuola per il legno e il ferro battuto.   
-  
+N. 1888, Regio decreto 28 dicembre 1922, col quale, sulla proposta del Ministro per l'industria e il commercio, la R. scuola di disegno industriale di Monteleone di Calabria, viene riordinata come laboratorio scuola ed assume la denominazione di R. Laboratorio Scuola per il legno e il ferro battuto.

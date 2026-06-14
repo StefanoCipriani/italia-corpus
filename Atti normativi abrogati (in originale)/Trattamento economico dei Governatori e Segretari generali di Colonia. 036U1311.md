@@ -1,16 +1,14 @@
-REGIO DECRETO 25 maggio 1936 n. 1311
-
-
-REGIO DECRETO 25 maggio 1936 n. 1311
-====================================
-
-Trattamento economico dei Governatori e Segretari generali di Colonia. (036U1311)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/05/1936
+---
+tipo: REGIO DECRETO
+numero: 1311
+data: 1936-05-25
+titolo: "Trattamento economico dei Governatori e Segretari generali di Colonia. (036U1311)"
+urn: urn:nir:stato:regio.decreto:1936-05-25;1311
+codice_redazionale: 036U1311
+vigente: true
+---
 
 VITTORIO EMANUELE
------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,39 +26,28 @@ Udito il parere del consiglio superiore coloniale;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per le colonie, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per le colonie, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+- Ai Governatori di colonia competono, oltre gli assegni del grado, una indennita' coloniale ed una indennita' di rappresentanza da fissarsi nei rispettivi decreti di nomina, con le modalita' previste dall'art. 5 del R. decreto-legge 9 gennaio 1936-XIV, n. 46, convertito nella legge 6 aprile 1936-XIV, n. 682.
 
-  
-  
-- Ai Governatori di colonia competono, oltre gli assegni del grado, una indennita' coloniale ed una indennita' di rappresentanza da fissarsi nei rispettivi decreti di nomina, con le modalita' previste dall'art. 5 del R. decreto-legge 9 gennaio 1936-XIV, n. 46, convertito nella legge 6 aprile 1936-XIV, n. 682.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-- La disposizione del precedente articolo si applica al governatore della Somalia, a decorrere dal 7 marzo 1935-XIII.   
-  
-Il presente decreto ha vigore dal 1° maggio 1936-XIV.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 maggio 1936 - Anno XIV   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL.   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla corte dei conti, addi' 10 luglio 1936 - Anno XIV   
-  
-Atti del Governo, registro 375, foglio 40. - MANCINI.   
-  
-  
+- La disposizione del precedente articolo si applica al governatore della Somalia, a decorrere dal 7 marzo 1935-XIII. 
+ 
+ Il presente decreto ha vigore dal 1° maggio 1936-XIV. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 maggio 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL. 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla corte dei conti, addi' 10 luglio 1936 - Anno XIV 
+ 
+ Atti del Governo, registro 375, foglio 40. - MANCINI.

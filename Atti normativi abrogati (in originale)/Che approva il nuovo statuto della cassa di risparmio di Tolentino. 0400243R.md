@@ -1,23 +1,20 @@
-REGIO DECRETO 21 aprile 1904 n. CCXLIII
+---
+tipo: REGIO DECRETO
+numero: CCXLIII
+data: 1904-04-21
+titolo: "Che approva il nuovo statuto della cassa di risparmio di Tolentino. (0400243R)"
+urn: urn:nir:stato:regio.decreto:1904-04-21;243
+codice_redazionale: 0400243R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 aprile 1904 n. CCXLIII
-=======================================
+Che approva il nuovo statuto della cassa di risparmio di Tolentino.
+- Firmato VITTORIO EMANUELE - Controfirmato Rava - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 21 giugno
 
-Che approva il nuovo statuto della cassa di risparmio di Tolentino. (0400243R)
-------------------------------------------------------------------------------
+1904.
 
-Entrata in vigore del provvedimento: 15/07/1904
-
-Art. 1
-------
-
-Che approva il nuovo statuto della cassa di risparmio di Tolentino.  
-- Firmato VITTORIO EMANUELE - Controfirmato Rava - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 21 giugno
-
-1904. 
-  
-  
 Reg. 17. Atti del Governo a f. 49.

@@ -1,16 +1,14 @@
-REGIO DECRETO 16 maggio 1942 n. 613
-
-
-REGIO DECRETO 16 maggio 1942 n. 613
-===================================
-
-Aumento di un posto di ispettore generale (gruppo A, grado 5°) nel ruolo del personale della carriera amministrativa del Ministero dell'educazione nazionale. (042U0613)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/07/1942
+---
+tipo: REGIO DECRETO
+numero: 613
+data: 1942-05-16
+titolo: "Aumento di un posto di ispettore generale (gruppo A, grado 5°) nel ruolo del personale della carriera amministrativa del Ministero dell'educazione nazionale. (042U0613)"
+urn: urn:nir:stato:regio.decreto:1942-05-16;613
+codice_redazionale: 042U0613
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,31 +30,25 @@ Sentito il parere del Consiglio di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Per tutta la durata dell'attuale guerra e fino ad un anno dopo il termine di essa il numero dei posti di grado 5° (ispettore generale) nel ruolo del personale della carriera amministrativa dell'Amministrazione centrale dell'educazione nazionale, stabilito dalla tabella A annessa al R. decreto 9 febbraio 1942-XX, n. 29, e' elevato da 14 a 15.   
-  
-Tale aumento sara' riassorbito con la prima vacanza che si verifichera' nel grado di ispettore generale dopo la scadenza dell'indicato termine.   
-  
-Durante tutto il periodo in cui avra' attuazione l'aumento previsto dai precedenti commi, sara' lasciato vacante, nello stesso ruolo, un posto nel grado di direttore capo divisione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 maggio 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - BOTTAI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 15 giugno 1942-XX   
-Atti del Governo, registro 446, foglio 63. - MANCINI   
+Per tutta la durata dell'attuale guerra e fino ad un anno dopo il termine di essa il numero dei posti di grado 5° (ispettore generale) nel ruolo del personale della carriera amministrativa dell'Amministrazione centrale dell'educazione nazionale, stabilito dalla tabella A annessa al R. decreto 9 febbraio 1942-XX, n. 29, e' elevato da 14 a 15. 
+ 
+ Tale aumento sara' riassorbito con la prima vacanza che si verifichera' nel grado di ispettore generale dopo la scadenza dell'indicato termine. 
+ 
+ Durante tutto il periodo in cui avra' attuazione l'aumento previsto dai precedenti commi, sara' lasciato vacante, nello stesso ruolo, un posto nel grado di direttore capo divisione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 maggio 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - BOTTAI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 15 giugno 1942-XX 
+ Atti del Governo, registro 446, foglio 63. - MANCINI

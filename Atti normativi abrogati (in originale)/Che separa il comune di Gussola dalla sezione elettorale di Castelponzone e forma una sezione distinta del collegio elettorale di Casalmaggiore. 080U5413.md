@@ -1,16 +1,14 @@
-REGIO DECRETO 22 aprile 1880 n. 5413
-
-
-REGIO DECRETO 22 aprile 1880 n. 5413
-====================================
-
-Che separa il comune di Gussola dalla sezione elettorale di Castelponzone e forma una sezione distinta del collegio elettorale di Casalmaggiore. (080U5413)
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/05/1880
+---
+tipo: REGIO DECRETO
+numero: 5413
+data: 1880-04-22
+titolo: "Che separa il comune di Gussola dalla sezione elettorale di Castelponzone e forma una sezione distinta del collegio elettorale di Casalmaggiore. (080U5413)"
+urn: urn:nir:stato:regio.decreto:1880-04-22;5413
+codice_redazionale: 080U5413
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Ritenuto che Gussola conta 76 elettori, numero questo alquanto superiore a quell
 
 Considerato che per la istituzione di una sezione elettorale in Gussola sara' reso piu' facile agli elettori l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Gussola e' separato dalla sezione elettorale di Castelponzone, e formera' una sezione distinta del Collegio elettorale di Casalmaggiore.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 aprile 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il comune di Gussola e' separato dalla sezione elettorale di Castelponzone, e formera' una sezione distinta del Collegio elettorale di Casalmaggiore. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 aprile 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

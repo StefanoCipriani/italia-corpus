@@ -1,19 +1,15 @@
-REGIO DECRETO 13 luglio 1911 n. 870
+---
+tipo: REGIO DECRETO
+numero: 870
+data: 1911-07-13
+titolo: "Determinazione di zone di servitu' militare. (011U0870)"
+urn: urn:nir:stato:regio.decreto:1911-07-13;870
+codice_redazionale: 011U0870
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 luglio 1911 n. 870
-===================================
-
-Determinazione di zone di servitu' militare. (011U0870)
--------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/09/1911
-
-Art. 1
-------
-
-  
-N. 870   
-  
-R. decreto 13 luglio 1911, col quale, sulla proposta del ministro della guerra, sono imposte e determinate le zone di servitu' militari alle proprieta' fondiarie adiacenti alla batteria Saint-Bon nella piazza di Taranto.   
-  
+N. 870 
+ 
+ R. decreto 13 luglio 1911, col quale, sulla proposta del ministro della guerra, sono imposte e determinate le zone di servitu' militari alle proprieta' fondiarie adiacenti alla batteria Saint-Bon nella piazza di Taranto.

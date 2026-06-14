@@ -1,21 +1,17 @@
-REGIO DECRETO 14 febbraio 1897 n. XLVII
+---
+tipo: REGIO DECRETO
+numero: XLVII
+data: 1897-02-14
+titolo: "Concernente il mantenimento della tassa di famiglia nel comune di Pisa. (9700047R)"
+urn: urn:nir:stato:regio.decreto:1897-02-14;47
+codice_redazionale: 9700047R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 febbraio 1897 n. XLVII
-=======================================
-
-Concernente il mantenimento della tassa di famiglia nel comune di Pisa. (9700047R)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/03/1897
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di Pisa di mantenere nel corrente anno nell'applicazione della tassa di famiglia il limite massimo di lire ottocento. - Firmalo UMBERTO - Controfirmato Branca - Visto G. Costa.   
-  
-Registrato alla corte dei conti addi' 23 febbraio 1897.   
-  
-Reg. 209. Atti del Governo a f. 138.   
-  
+Col quale e' data facolta' al comune di Pisa di mantenere nel corrente anno nell'applicazione della tassa di famiglia il limite massimo di lire ottocento. - Firmalo UMBERTO - Controfirmato Branca - Visto G. Costa. 
+ 
+ Registrato alla corte dei conti addi' 23 febbraio 1897. 
+ 
+ Reg. 209. Atti del Governo a f. 138.

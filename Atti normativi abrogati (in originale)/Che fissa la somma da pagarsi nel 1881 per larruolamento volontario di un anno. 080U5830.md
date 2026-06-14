@@ -1,16 +1,14 @@
-REGIO DECRETO 23 dicembre 1880 n. 5830
-
-
-REGIO DECRETO 23 dicembre 1880 n. 5830
-======================================
-
-Che fissa la somma da pagarsi nel 1881 per l'arruolamento volontario di un anno. (080U5830)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/03/1881
+---
+tipo: REGIO DECRETO
+numero: 5830
+data: 1880-12-23
+titolo: "Che fissa la somma da pagarsi nel 1881 per l'arruolamento volontario di un anno. (080U5830)"
+urn: urn:nir:stato:regio.decreto:1880-12-23;5830
+codice_redazionale: 080U5830
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,25 +16,18 @@ RE D'ITALIA
 
 Visto l'articolo 116 del testo unico delle leggi sul reclutamento dell'esercito, approvato col Nostro decreto del 26 luglio 1876, n. 3260 (Serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari della Guerra, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari della Guerra, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La somma che i volontari di un anno devono pagare alla Cassa militare nell'assumere l'arruolamento e' stabilita per l'anno 1881 in lire milleseicento per quelli che si arruolano nell'arma di cavalleria, ed in lire milleduecento per quelli che si arruolano nelle altre armi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 dicembre 1880.   
-  
-UMBERTO.   
-  
-B. Milon.   
-  
-Visto, Il Guardasigilli: T. Villa.   
-  
+La somma che i volontari di un anno devono pagare alla Cassa militare nell'assumere l'arruolamento e' stabilita per l'anno 1881 in lire milleseicento per quelli che si arruolano nell'arma di cavalleria, ed in lire milleduecento per quelli che si arruolano nelle altre armi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 dicembre 1880. 
+ 
+ UMBERTO. 
+ 
+ B. Milon. 
+ 
+ Visto, Il Guardasigilli: T. Villa.

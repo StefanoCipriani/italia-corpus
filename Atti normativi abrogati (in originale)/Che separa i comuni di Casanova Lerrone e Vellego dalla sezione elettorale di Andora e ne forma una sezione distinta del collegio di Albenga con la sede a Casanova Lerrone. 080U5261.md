@@ -1,16 +1,14 @@
-REGIO DECRETO 22 gennaio 1880 n. 5261
-
-
-REGIO DECRETO 22 gennaio 1880 n. 5261
-=====================================
-
-Che separa i comuni di Casanova Lerrone e Vellego dalla sezione elettorale di Andora e ne forma una sezione distinta del collegio di Albenga con la sede a Casanova Lerrone. (080U5261)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/02/1880
+---
+tipo: REGIO DECRETO
+numero: 5261
+data: 1880-01-22
+titolo: "Che separa i comuni di Casanova Lerrone e Vellego dalla sezione elettorale di Andora e ne forma una sezione distinta del collegio di Albenga con la sede a Casanova Lerrone. (080U5261)"
+urn: urn:nir:stato:regio.decreto:1880-01-22;5261
+codice_redazionale: 080U5261
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Che i due comuni contano complessivamente 42 elettori, numero questo superiore a
 
 Considerato che la istituzione della sezione elettorale di Casanova Lerrone e' necessaria per assicurare agli elettori l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposizione del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Casanova Lerrone e Vellego sono separati dalla sezione elettorale di Andora, e formeranno una sezione distinta del Collegio di Albenga, con la sede a Casanova Lerrone.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato Roma, addi' 22 gennaio 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+I comuni di Casanova Lerrone e Vellego sono separati dalla sezione elettorale di Andora, e formeranno una sezione distinta del Collegio di Albenga, con la sede a Casanova Lerrone. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato Roma, addi' 22 gennaio 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

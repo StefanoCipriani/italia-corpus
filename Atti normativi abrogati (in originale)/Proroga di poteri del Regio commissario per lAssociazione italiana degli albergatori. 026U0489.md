@@ -1,16 +1,14 @@
-REGIO DECRETO 11 marzo 1926 n. 489
-
-
-REGIO DECRETO 11 marzo 1926 n. 489
-==================================
-
-Proroga di poteri del Regio commissario per l'Associazione italiana degli albergatori. (026U0489)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/04/1926
+---
+tipo: REGIO DECRETO
+numero: 489
+data: 1926-03-11
+titolo: "Proroga di poteri del Regio commissario per l'Associazione italiana degli albergatori. (026U0489)"
+urn: urn:nir:stato:regio.decreto:1926-03-11;489
+codice_redazionale: 026U0489
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,31 +22,25 @@ Constatato che la complessita' dei problemi da risolvere per la riorganizzazione
 
 Ritenuto che tali motivi giustificano una congrua proroga del termine stabilito per la presentazione delle proposte suindicate e la conseguente necessita' di protrarre in correlazione l'amministrazione commissariale dell'Ente;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A modificazione del [R. decreto 24 dicembre 1925, n. 2265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-12-24;2265), e' prorogato fino al 30 giugno 1926, il termine previsto dall'art. 2 del decreto stesso, per la temporanea amministrazione dell'Associazione italiana degli albergatori, da parte del Regio commissario gr. uff.  
-Alfredo Campione.   
-  
-E' altresi' prorogato fino al 30 maggio 1926 il termine stabilito dall'art. 1 del Regio decreto surriferito per la presentazione delle proposte che dovranno assicurare il normale funzionamento dell'Ente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 marzo 1926.   
-  
-VITTORIO EMANUELE.   
-  
-Belluzzo.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 29 marzo 1926.   
-  
-Atti del Governo, registro 246, foglio 187. - Coop   
+A modificazione del [R. decreto 24 dicembre 1925, n. 2265](Scioglimento%20degli%20organi%20elettivi%20dellAssociazione%20italiana%20albergatori%20e%20nomina%20di%20un%20Regio%20commissario.%20025U2265.md), e' prorogato fino al 30 giugno 1926, il termine previsto dall'art. 2 del decreto stesso, per la temporanea amministrazione dell'Associazione italiana degli albergatori, da parte del Regio commissario gr. uff.
+Alfredo Campione. 
+ 
+ E' altresi' prorogato fino al 30 maggio 1926 il termine stabilito dall'art. 1 del Regio decreto surriferito per la presentazione delle proposte che dovranno assicurare il normale funzionamento dell'Ente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 marzo 1926. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Belluzzo. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 29 marzo 1926. 
+ 
+ Atti del Governo, registro 246, foglio 187. - Coop

@@ -1,22 +1,20 @@
-REGIO DECRETO 18 giugno 1922 n. 905
-
-
-REGIO DECRETO 18 giugno 1922 n. 905
-===================================
-
-Col quale l'assegnazione in uso del Palazzo Reale di Genova viene trasferita dal Ministero della pubblica istruzione (Sottosegretariato per le antichita' e belle arti) al comune di Genova. (022U0905)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/07/1922
+---
+tipo: REGIO DECRETO
+numero: 905
+data: 1922-06-18
+titolo: "Col quale l'assegnazione in uso del Palazzo Reale di Genova viene trasferita dal Ministero della pubblica istruzione (Sottosegretariato per le antichita' e belle arti) al comune di Genova. (022U0905)"
+urn: urn:nir:stato:regio.decreto:1922-06-18;905
+codice_redazionale: 022U0905
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [decreto-legge 3 ottobre 1919, n. 1792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-10-03;1792), concernente la retrocessione al Demanio dello Stato e la assegnazione di beni immobili e mobili gia' attribuiti alla dotazione della Corona;
+Visto il [decreto-legge 3 ottobre 1919, n. 1792](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-10-03;1792), concernente la retrocessione al Demanio dello Stato e la assegnazione di beni immobili e mobili gia' attribuiti alla dotazione della Corona;
 
 Visto il decreto del presidente del Consiglio dei ministri, di concerto col ministro delle finanze, in data 30 aprile 1920 e la tabella annessa al medesimo;
 
@@ -30,33 +28,22 @@ Ritenuta l'opportunita' che nel Palazzo stesso trovino sede il Museo comunale di
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del presidente del Consiglio dei ministri, di concerto con i ministri delle finanze o della istruzione pubblica; Abbiamo decretato e decretiamo:
 
-proposta del presidente del Consiglio dei ministri, di concerto con i ministri delle finanze o della istruzione pubblica; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'assegnazione in uso del Palazzo Reale di Genova viene trasferita dal Ministero della pubblica istruzione (Sottosegretariato per le antichita' o belle arti) al comune di Genova, con le norme, le garanzie e le limitazioni che verranno stabilite con successivo decreto del presidente del Consiglio dei ministri, di concerto con i ministri delle finanze e dell'istruzione pubblica.
 
-  
-  
-  
-L'assegnazione in uso del Palazzo Reale di Genova viene trasferita dal Ministero della pubblica istruzione (Sottosegretariato per le antichita' o belle arti) al comune di Genova, con le norme, le garanzie e le limitazioni che verranno stabilite con successivo decreto del presidente del Consiglio dei ministri, di concerto con i ministri delle finanze e dell'istruzione pubblica.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-  
-Il presento decreto entrera' in vigore il giorno successivo alla sua pubblicazione nella Gazzetta ufficiale del Regno e sara' presentato al Parlamento per la sua conversione in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 giugno 1922.   
-  
-VITTORIO EMANUELE.   
-  
-FACTA - BERTONE - ANILE.   
-  
-Visto, il guardasigilli: LUIGI ROSSI.   
+Il presento decreto entrera' in vigore il giorno successivo alla sua pubblicazione nella Gazzetta ufficiale del Regno e sara' presentato al Parlamento per la sua conversione in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 giugno 1922. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ FACTA - BERTONE - ANILE. 
+ 
+ Visto, il guardasigilli: LUIGI ROSSI.

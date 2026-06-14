@@ -1,16 +1,14 @@
-REGIO DECRETO 05 agosto 1877 n. 4001
-
-
-REGIO DECRETO 05 agosto 1877 n. 4001
-====================================
-
-Che separa i comuni di Calvatone e Tornata dalla sezione elettorale di Piadena e li costituisce in sezione distinta del collegio di Bozzolo con la sede in Calvatone. (077U4001)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/08/1877
+---
+tipo: REGIO DECRETO
+numero: 4001
+data: 1877-08-05
+titolo: "Che separa i comuni di Calvatone e Tornata dalla sezione elettorale di Piadena e li costituisce in sezione distinta del collegio di Bozzolo con la sede in Calvatone. (077U4001)"
+urn: urn:nir:stato:regio.decreto:1877-08-05;4001
+codice_redazionale: 077U4001
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,15 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Calvatone e Tornata sono separati dalla sezione Piadena del Collegio elettorale di Bozzolo, e formeranno una sezione distinta del Collegio stesso, con sede in Calvatone.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Valsavaranche, addi' 5 agosto 1877.   
-  
-VITTORIO EMANUELE.   
-  
-  
-G. Nicotera.   
-  
-  
+I comuni di Calvatone e Tornata sono separati dalla sezione Piadena del Collegio elettorale di Bozzolo, e formeranno una sezione distinta del Collegio stesso, con sede in Calvatone. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Valsavaranche, addi' 5 agosto 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ 
+ G. Nicotera.

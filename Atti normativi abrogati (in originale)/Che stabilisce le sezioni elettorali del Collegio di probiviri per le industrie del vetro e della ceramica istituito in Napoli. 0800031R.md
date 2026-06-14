@@ -1,29 +1,25 @@
-REGIO DECRETO 26 gennaio 1908 n. XXXI
+---
+tipo: REGIO DECRETO
+numero: XXXI
+data: 1908-01-26
+titolo: "Che stabilisce le sezioni elettorali del Collegio di probiviri per le industrie del vetro e della ceramica istituito in Napoli. (0800031R)"
+urn: urn:nir:stato:regio.decreto:1908-01-26;31
+codice_redazionale: 0800031R
+vigente: true
+---
 
+## Articolo unico.
 
-REGIO DECRETO 26 gennaio 1908 n. XXXI
-=====================================
-
-Che stabilisce le sezioni elettorali del Collegio di probiviri per le industrie del vetro e della ceramica istituito in Napoli. (0800031R)
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/03/1908
-
-Articolo unico
---------------
-
-  
-  
-Le sezioni elettorali del Collegio di probi-viri per l'industria del vetro e della ceramica istituito in Napoli, sono stabilite come segue:   
-  
-Parte di provvedimento in formato grafico  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 26 gennaio 1908.   
-  
-VITTORIO EMANUELE.   
-  
-F. Cocco-Ortu.   
-  
-Visto, il guardasigilli: Orlando.   
+Le sezioni elettorali del Collegio di probi-viri per l'industria del vetro e della ceramica istituito in Napoli, sono stabilite come segue: 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 gennaio 1908. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ F. Cocco-Ortu. 
+ 
+ Visto, il guardasigilli: Orlando.

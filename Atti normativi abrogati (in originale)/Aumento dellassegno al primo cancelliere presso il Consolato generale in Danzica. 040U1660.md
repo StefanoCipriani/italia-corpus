@@ -1,21 +1,21 @@
-REGIO DECRETO 30 ottobre 1940 n. 1660
+---
+tipo: REGIO DECRETO
+numero: 1660
+data: 1940-10-30
+titolo: "Aumento dell'assegno al primo cancelliere presso il Consolato generale in Danzica. (040U1660)"
+urn: urn:nir:stato:regio.decreto:1940-10-30;1660
+codice_redazionale: 040U1660
+vigente: true
+---
 
-
-REGIO DECRETO 30 ottobre 1940 n. 1660
-=====================================
-
-Aumento dell'assegno al primo cancelliere presso il Consolato generale in Danzica. (040U1660)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/12/1940
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1660. R. decreto 30 ottobre 1940, col quale, galla proposta del Ministro per gli affari esteri, viene aumentato l'assegno del primo cancelliere presso il Consolato generale in Danzica.   
-  
-Visto, il Guardasiglli: GRANDI   
-  
-Registrato alla Corte dei conti addi' 6 dicembre 1940-XIX
+1660.
+
+R. decreto 30 ottobre 1940, col quale, galla proposta del Ministro per gli affari esteri, viene aumentato l'assegno del primo cancelliere presso il Consolato generale in Danzica. 
+ 
+ Visto, il Guardasiglli: GRANDI 
+ 
+ Registrato alla Corte dei conti addi' 6 dicembre 1940-XIX

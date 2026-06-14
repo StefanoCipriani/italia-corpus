@@ -1,22 +1,18 @@
-REGIO DECRETO 15 maggio 1902 n. CXCV
+---
+tipo: REGIO DECRETO
+numero: CXCV
+data: 1902-05-15
+titolo: "Che approva lo statuto organico del monte di pieta' di Cartoceto provincia di Pesaro). (0200195R)"
+urn: urn:nir:stato:regio.decreto:1902-05-15;195
+codice_redazionale: 0200195R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 maggio 1902 n. CXCV
-====================================
-
-Che approva lo statuto organico del monte di pieta' di Cartoceto provincia di Pesaro). (0200195R)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/07/1902
-
-Art. 1
-------
-
-  
-Che approva lo statuto organico del monte di pieta' di Cartoceto provincia di Pesaro). - Firmato VITTORIO EMANUELE - Controfirmati G.  
-Baccelli, Giolitti - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 25 giugno 1902   
-  
-Reg. 4. Atti del Governo a f. 55.   
-  
+Che approva lo statuto organico del monte di pieta' di Cartoceto provincia di Pesaro). - Firmato VITTORIO EMANUELE - Controfirmati G.
+Baccelli, Giolitti - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 25 giugno 1902 
+ 
+ Reg. 4. Atti del Governo a f. 55.

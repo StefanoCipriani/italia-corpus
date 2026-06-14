@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 18 gennaio 1917 n. 210
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 210
+data: 1917-01-18
+titolo: "Approvazione di Statuto. (017U0210)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-01-18;210
+codice_redazionale: 017U0210
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 18 gennaio 1917 n. 210
-==============================================
-
-Approvazione di Statuto. (017U0210)
------------------------------------
-
-Entrata in vigore del provvedimento: 11/03/1917
-
-Art. 1
-------
-
-  
-N. 210   
-  
-Decreto Luogotenenziale 18 gennaio 1917, col quale, sulla proposta del ministro dell'interno, e' approvato lo statuto organico dell'Opera nazionale per l'assistenza civile e religiosa degli orfani dei morti in guerra in Roma.   
-  
+N. 210 
+ 
+ Decreto Luogotenenziale 18 gennaio 1917, col quale, sulla proposta del ministro dell'interno, e' approvato lo statuto organico dell'Opera nazionale per l'assistenza civile e religiosa degli orfani dei morti in guerra in Roma.

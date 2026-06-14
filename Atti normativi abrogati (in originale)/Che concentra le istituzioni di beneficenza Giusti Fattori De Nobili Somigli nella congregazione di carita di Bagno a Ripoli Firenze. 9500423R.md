@@ -1,21 +1,17 @@
-REGIO DECRETO 18 aprile 1895 n. CCCCXXIII
+---
+tipo: REGIO DECRETO
+numero: CCCCXXIII
+data: 1895-04-18
+titolo: "Che concentra le istituzioni di beneficenza Giusti, Fattori, De Nobili, Somigli, nella congregazione di carita' di Bagno a Ripoli' (Firenze). (9500423R)"
+urn: urn:nir:stato:regio.decreto:1895-04-18;423
+codice_redazionale: 9500423R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 aprile 1895 n. CCCCXXIII
-=========================================
-
-Che concentra le istituzioni di beneficenza Giusti, Fattori, De Nobili, Somigli, nella congregazione di carita' di Bagno a Ripoli' (Firenze). (9500423R)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/12/1895
-
-Art. 1
-------
-
-  
-Con cui le istituzioni di beneficenza Giusti, Fattori, De Nobili, Somigli, sono concentrate nella congregazione di carita' di Bagno a Ripoli' (Firenze). - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 30 novembre 1895.   
-  
-Reg. 201. Atti del Governo a f. 173.   
-  
+Con cui le istituzioni di beneficenza Giusti, Fattori, De Nobili, Somigli, sono concentrate nella congregazione di carita' di Bagno a Ripoli' (Firenze). - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 30 novembre 1895. 
+ 
+ Reg. 201. Atti del Governo a f. 173.

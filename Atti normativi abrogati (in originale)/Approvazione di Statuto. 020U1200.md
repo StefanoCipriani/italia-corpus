@@ -1,17 +1,17 @@
-REGIO DECRETO 08 agosto 1920 n. 1200
+---
+tipo: REGIO DECRETO
+numero: 1200
+data: 1920-08-08
+titolo: "Approvazione di Statuto. (020U1200)"
+urn: urn:nir:stato:regio.decreto:1920-08-08;1200
+codice_redazionale: 020U1200
+vigente: true
+---
 
-
-REGIO DECRETO 08 agosto 1920 n. 1200
-====================================
-
-Approvazione di Statuto. (020U1200)
------------------------------------
-
-Entrata in vigore del provvedimento: 24/09/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1200. Regio decreto 8 agosto 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, si approva lo statuto organico dell'Orfanotrofio maschile di Castiglione delle Stiviere (Mantova).
+1200.
+
+Regio decreto 8 agosto 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, si approva lo statuto organico dell'Orfanotrofio maschile di Castiglione delle Stiviere (Mantova).

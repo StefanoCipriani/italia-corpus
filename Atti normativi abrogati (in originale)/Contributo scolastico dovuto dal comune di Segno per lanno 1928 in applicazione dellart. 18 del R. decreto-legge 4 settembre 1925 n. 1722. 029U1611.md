@@ -1,16 +1,14 @@
-REGIO DECRETO 08 luglio 1929 n. 1611
-
-
-REGIO DECRETO 08 luglio 1929 n. 1611
-====================================
-
-Contributo scolastico dovuto dal comune di Segno, per l'anno 1928, in applicazione dell'art. 18 del R. decreto-legge 4 settembre 1925, n. 1722. (029U1611)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/10/1929
+---
+tipo: REGIO DECRETO
+numero: 1611
+data: 1929-07-08
+titolo: "Contributo scolastico dovuto dal comune di Segno, per l'anno 1928, in applicazione dell'art. 18 del R. decreto-legge 4 settembre 1925, n. 1722. (029U1611)"
+urn: urn:nir:stato:regio.decreto:1929-07-08;1611
+codice_redazionale: 029U1611
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,45 +16,30 @@ RE D'ITALIA
 
 Veduto il R. decreto 18 ottobre 1927 che stabilisce le sedi dei Provveditorati agli studi e le relative circoscrizioni;
 
-Veduto l'[art. 2 del R. decreto-legge 31 dicembre 1923, n. 2996](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-31;2996~art2), e l'[art. 18 del R. decreto-legge 4 settembre 1925, n. 1722](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1722~art18);
+Veduto l'[art. 2 del R. decreto-legge 31 dicembre 1923, n. 2996](Provvedimenti%20a%20favore%20dei%20maestri%20elementari.%20023U2996.md), e l'[art. 18 del R. decreto-legge 4 settembre 1925, n. 1722](Disposizioni%20per%20listruzione%20elementare.%20025U1722.md);
 
-Veduti i [commi 2°](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-03-31;360~art2-com2), [3°](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-03-31;360~art2-com3) e [4° dell'art. 2 del R. decreto-legge 31 marzo 1925, n. 360](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-03-31;360~art2-com4);
+Veduti i [commi 2°](Provvedimenti%20economici%20a%20favore%20dei%20maestri%20elementari.%20025U0360.md), [3°](Provvedimenti%20economici%20a%20favore%20dei%20maestri%20elementari.%20025U0360.md) e [4° dell'art. 2 del R. decreto-legge 31 marzo 1925, n. 360](Provvedimenti%20economici%20a%20favore%20dei%20maestri%20elementari.%20025U0360.md);
 
 Veduto il R. decreto 8 gennaio 1928 per effetto del quale l'amministrazione delle scuole elementari del comune di Segno fu assunta dal Consiglio scolastico della Liguria a decorrere dal giorno 1° dello stesso mese;
 
 Veduto l'elenco delle scuole classificate e provvisorie legalmente istituite ed esistenti alla suindicata data del giorno 1° gennaio 1928 nel predetto Comune: elenco compilato dal Regio provveditore agli stuoli di Genova;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzione, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la pubblica istruzione, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata la liquidazione del contributo che il comune di Segno, della provincia di Savona, deve versare alla Regia tesoreria dello Stato in applicazione dell'[art. 18 del R. decreto-legge 4 settembre 1925, n. 1722](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1722~art18), il cui ammontare rimane stabilito, per l'anno 1928, nella somma di L. 1600 risultante dall'elenco annesso al presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 luglio 1929 - Anno VII   
-  
-VITTORIO EMANUELE   
-  
-Belluzzo - Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei Conti, addi' 16 settembre 1929 - Anno VII   
-  
-Atti del Governo, registro 288, foglio 129. - Mancini.   
-  
-
-Elenco
-
-  
-ELENCO delle somme che i sottoindicati Comuni devono versare nella R. Tesoreria dello Stato, in applicazione dell'[art. 18 del R. decreto-legge 4 settembre 1925, n. 1722](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1722~art18), per l'anno 1928.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=029U161100100010110001&dgu=1929-09-25&art.dataPubblicazioneGazzetta=1929-09-25&art.codiceRedazionale=029U1611)
-  
+E' approvata la liquidazione del contributo che il comune di Segno, della provincia di Savona, deve versare alla Regia tesoreria dello Stato in applicazione dell'[art. 18 del R. decreto-legge 4 settembre 1925, n. 1722](Disposizioni%20per%20listruzione%20elementare.%20025U1722.md), il cui ammontare rimane stabilito, per l'anno 1928, nella somma di L. 1600 risultante dall'elenco annesso al presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 luglio 1929 - Anno VII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Belluzzo - Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei Conti, addi' 16 settembre 1929 - Anno VII 
+ 
+ Atti del Governo, registro 288, foglio 129. - Mancini.

@@ -1,16 +1,14 @@
-REGIO DECRETO 03 marzo 1938 n. 195
-
-
-REGIO DECRETO 03 marzo 1938 n. 195
-==================================
-
-Autorizzazione al comune di Giaveno ad applicare le imposte di consumo in base alla tariffa della classe G di cui all'art. 11 del testo unico per la Finanza locale, approvato con R. decreto 14 settembre 1931, n. 1175. (038U0195)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/04/1938
+---
+tipo: REGIO DECRETO
+numero: 195
+data: 1938-03-03
+titolo: "Autorizzazione al comune di Giaveno ad applicare le imposte di consumo in base alla tariffa della classe G di cui all'art. 11 del testo unico per la Finanza locale, approvato con R. decreto 14 settembre 1931, n. 1175. (038U0195)"
+urn: urn:nir:stato:regio.decreto:1938-03-03;195
+codice_redazionale: 038U0195
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA Di DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,22 @@ Visto il R. decreto 25 marzo 1937-XV, n. 462, e l'annessavi tabella contenente i
 
 Sentito il parere della Commissione centrale per la Finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Giaveno e' autorizzato ad applicare, fino al 31 dicembre 1939, le imposte di consumo entro i limiti stabiliti per i Comuni della classe G.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 marzo 1938 - Anno XVI   
-  
-VITTORIO EMANUELE.   
-  
-Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 23 marzo 1938 - Anno XVI   
-  
-Atti del Governo, registro 395, foglio 129. - Mancini.   
+Il comune di Giaveno e' autorizzato ad applicare, fino al 31 dicembre 1939, le imposte di consumo entro i limiti stabiliti per i Comuni della classe G. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 marzo 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 23 marzo 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 395, foglio 129. - Mancini.

@@ -1,16 +1,14 @@
-REGIO DECRETO 06 luglio 1883 n. 1447
-
-
-REGIO DECRETO 06 luglio 1883 n. 1447
-====================================
-
-Da' esecuzione alla riforma della legge doganale. (083U1447)
-------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/07/1883
+---
+tipo: REGIO DECRETO
+numero: 1447
+data: 1883-07-06
+titolo: "Da' esecuzione alla riforma della legge doganale. (083U1447)"
+urn: urn:nir:stato:regio.decreto:1883-07-06;1447
+codice_redazionale: 083U1447
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,24 +18,18 @@ Visto l'art. 20 della legge in data d'oggi, numero 1445 (Serie 3ª);
 
 Sulla proposta del Ministro delle Finanze,
 
-Udito
------
+Udito il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
 
-il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La legge in data d'oggi contenente la riforma della tariffa doganale entrera' in vigore il giorno dieci del volgente mese.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 luglio 1883.   
-  
-UMBERTO.   
-  
-A. Magliani.   
-  
-Visto, Il Guardasigilli: Savelli.   
+La legge in data d'oggi contenente la riforma della tariffa doganale entrera' in vigore il giorno dieci del volgente mese. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 luglio 1883. 
+ 
+ UMBERTO. 
+ 
+ A. Magliani. 
+ 
+ Visto, Il Guardasigilli: Savelli.

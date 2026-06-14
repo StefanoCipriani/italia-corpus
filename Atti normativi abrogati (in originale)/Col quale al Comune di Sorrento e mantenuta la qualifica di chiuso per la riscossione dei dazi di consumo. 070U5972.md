@@ -1,16 +1,14 @@
-REGIO DECRETO 18 ottobre 1870 n. 5972
-
-
-REGIO DECRETO 18 ottobre 1870 n. 5972
-=====================================
-
-Col quale al Comune di Sorrento e' mantenuta la qualifica di chiuso per la riscossione dei dazi di consumo. (070U5972)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/11/1870
+---
+tipo: REGIO DECRETO
+numero: 5972
+data: 1870-10-18
+titolo: "Col quale al Comune di Sorrento e' mantenuta la qualifica di chiuso per la riscossione dei dazi di consumo. (070U5972)"
+urn: urn:nir:stato:regio.decreto:1870-10-18;5972
+codice_redazionale: 070U5972
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Veduta la deliberazione 28 settembre prossimo passato del Comune di Sorrento, ch
 
 Veduta la Legge 3 luglio 1864;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' mantenuta al Comune di Sorrento, appartenente alla quarta classe, la qualifica di chiuso per la riscossione dei dazi di consumo.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 18 ottobre 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 27 ottobre 1870   
-  
-Reg. 52 Atti del Governo a c. 219. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-Quintino Sella.   
-  
+E' mantenuta al Comune di Sorrento, appartenente alla quarta classe, la qualifica di chiuso per la riscossione dei dazi di consumo. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 18 ottobre 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 ottobre 1870 
+ 
+ Reg. 52 Atti del Governo a c. 219. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ Quintino Sella.

@@ -1,16 +1,14 @@
-REGIO DECRETO 03 ottobre 1876 n. 3370
-
-
-REGIO DECRETO 03 ottobre 1876 n. 3370
-=====================================
-
-Col quale i comuni di Urgnano, Cologno al Serio, Comune Nuovo, Spirano e Zanica sono separati dalla sezione elettorale di Verdello e formeranno una sezione distinta del collegio elettorale di Martinengo colla sede in Urgnano. (076U3370)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/10/1876
+---
+tipo: REGIO DECRETO
+numero: 3370
+data: 1876-10-03
+titolo: "Col quale i comuni di Urgnano, Cologno al Serio, Comune Nuovo, Spirano e Zanica sono separati dalla sezione elettorale di Verdello e formeranno una sezione distinta del collegio elettorale di Martinengo colla sede in Urgnano. (076U3370)"
+urn: urn:nir:stato:regio.decreto:1876-10-03;3370
+codice_redazionale: 076U3370
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Urgnano, Cologno al Serio, Comune Nuovo, Spirano e Zanica sono separati dalla sezione elettorale di Verdello e formeranno una Sezione distinta del Collegio elettorale di Martinengo colla sede in Urgnano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 3 ottobre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
-  
+I comuni di Urgnano, Cologno al Serio, Comune Nuovo, Spirano e Zanica sono separati dalla sezione elettorale di Verdello e formeranno una Sezione distinta del Collegio elettorale di Martinengo colla sede in Urgnano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 3 ottobre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

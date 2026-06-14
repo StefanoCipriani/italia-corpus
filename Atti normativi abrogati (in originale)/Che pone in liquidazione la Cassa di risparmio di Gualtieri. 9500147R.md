@@ -1,22 +1,19 @@
-REGIO DECRETO 27 giugno 1895 n. CXLVII
+---
+tipo: REGIO DECRETO
+numero: CXLVII
+data: 1895-06-27
+titolo: "Che pone in liquidazione la Cassa di risparmio di Gualtieri. (9500147R)"
+urn: urn:nir:stato:regio.decreto:1895-06-27;147
+codice_redazionale: 9500147R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 giugno 1895 n. CXLVII
-======================================
+Che pone in liquidazione la Cassa di risparmio di Gualtieri - Firmato UMBERTO - Contrassegnato Barazzuoli - Visto Calenda 
+ 
+ Registrato alla Corte dei Conti addi' 10 luglio
 
-Che pone in liquidazione la Cassa di risparmio di Gualtieri. (9500147R)
------------------------------------------------------------------------
+1895.
 
-Entrata in vigore del provvedimento: 30/07/1895
-
-Art. 1
-------
-
-Che pone in liquidazione la Cassa di risparmio di Gualtieri - Firmato UMBERTO - Contrassegnato Barazzuoli - Visto Calenda   
-  
-Registrato alla Corte dei Conti addi' 10 luglio
-
-1895. 
-  
-  
 Reg. 199. Atti del Governo a f. 55.

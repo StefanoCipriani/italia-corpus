@@ -1,16 +1,14 @@
-REGIO DECRETO 23 luglio 1877 n. 3993
-
-
-REGIO DECRETO 23 luglio 1877 n. 3993
-====================================
-
-Col quale sono approvate alcune modificazioni alla strada provinciale di Monte Amiata nella provincia di Siena. (077U3993)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/09/1877
+---
+tipo: REGIO DECRETO
+numero: 3993
+data: 1877-07-23
+titolo: "Col quale sono approvate alcune modificazioni alla strada provinciale di Monte Amiata nella provincia di Siena. (077U3993)"
+urn: urn:nir:stato:regio.decreto:1877-07-23;3993
+codice_redazionale: 077U3993
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,34 +30,20 @@ Considerando che la progettata modificazione e' reclamata dalla necessita' di ab
 
 Udito il parere del Consiglio di Stato,
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono approvate le modificazioni deliberate dal Consiglio provinciale di Siena alla strada provinciale di Monte Amiata, cioe' la sostituzione al tronco da Zaccaria alle Conie, di quello da Zaccaria alla strada Romana presso Ricorsi, e il suo prolungamento dalla stessa strada Romana presso Gallina alla citta' di Pienza.
 
-  
-  
-  
-Sono approvate le modificazioni deliberate dal Consiglio provinciale di Siena alla strada provinciale di Monte Amiata, cioe' la sostituzione al tronco da Zaccaria alle Conie, di quello da Zaccaria alla strada Romana presso Ricorsi, e il suo prolungamento dalla stessa strada Romana presso Gallina alla citta' di Pienza.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-  
-Sono approvati i tracciamenti generali dei detti due tronchi stradali, il primo giusta il progetto 20 dicembre 1875 dell'ingegnere Ficalbi, ed il secondo giusta il progetto 31 ottobre 1870 dell'ingegnere Ceramelli, entrambi progetti visti d'ordine Nostro dal Ministro dei Lavori Pubblici, il quale prescrivera' le migliorie che saranno da introdursi nello studio particolareggiato dei due tronchi stradali.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 23 luglio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Zanardelli.   
-  
-  
+Sono approvati i tracciamenti generali dei detti due tronchi stradali, il primo giusta il progetto 20 dicembre 1875 dell'ingegnere Ficalbi, ed il secondo giusta il progetto 31 ottobre 1870 dell'ingegnere Ceramelli, entrambi progetti visti d'ordine Nostro dal Ministro dei Lavori Pubblici, il quale prescrivera' le migliorie che saranno da introdursi nello studio particolareggiato dei due tronchi stradali. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 23 luglio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Zanardelli.

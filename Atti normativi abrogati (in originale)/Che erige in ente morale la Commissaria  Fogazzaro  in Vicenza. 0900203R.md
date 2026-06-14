@@ -1,19 +1,15 @@
-REGIO DECRETO 13 giugno 1909 n. CCIII
+---
+tipo: REGIO DECRETO
+numero: CCIII
+data: 1909-06-13
+titolo: "Che erige in ente morale la Commissaria « Fogazzaro » in Vicenza. (0900203R)"
+urn: urn:nir:stato:regio.decreto:1909-06-13;203
+codice_redazionale: 0900203R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 giugno 1909 n. CCIII
-=====================================
-
-Che erige in ente morale la Commissaria « Fogazzaro » in Vicenza. (0900203R)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/07/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCIII (Dato a Roma, il 13 giugno 1909), con cui la Commissaria «Mariano Fogazzaro» in Vicenza e' eretta in ente morale e ne e' approvato lo Statuto organico.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCIII (Dato a Roma, il 13 giugno 1909), con cui la Commissaria «Mariano Fogazzaro» in Vicenza e' eretta in ente morale e ne e' approvato lo Statuto organico.

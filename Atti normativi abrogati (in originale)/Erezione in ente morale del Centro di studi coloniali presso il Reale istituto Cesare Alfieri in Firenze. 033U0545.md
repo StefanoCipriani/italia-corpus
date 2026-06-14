@@ -1,21 +1,21 @@
-REGIO DECRETO 06 aprile 1933 n. 545
+---
+tipo: REGIO DECRETO
+numero: 545
+data: 1933-04-06
+titolo: "Erezione in ente morale del Centro di studi coloniali presso il Reale istituto «Cesare Alfieri», in Firenze. (033U0545)"
+urn: urn:nir:stato:regio.decreto:1933-04-06;545
+codice_redazionale: 033U0545
+vigente: true
+---
 
-
-REGIO DECRETO 06 aprile 1933 n. 545
-===================================
-
-Erezione in ente morale del Centro di studi coloniali presso il Reale istituto «Cesare Alfieri», in Firenze. (033U0545)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/06/1933
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-545. R. decreto 6 aprile 1933, col quale, sulla proposta del Ministro per l'educazione nazionale, il Centro di studi coloniali costituito presso il Reale istituto superiore «Cesare Alfieri» di Firenze viene eretto in ente morale e ne e' approvato lo statuto.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 2 maggio 1933 - Anno XI.
+545.
+
+R. decreto 6 aprile 1933, col quale, sulla proposta del Ministro per l'educazione nazionale, il Centro di studi coloniali costituito presso il Reale istituto superiore «Cesare Alfieri» di Firenze viene eretto in ente morale e ne e' approvato lo statuto. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 2 maggio 1933 - Anno XI.

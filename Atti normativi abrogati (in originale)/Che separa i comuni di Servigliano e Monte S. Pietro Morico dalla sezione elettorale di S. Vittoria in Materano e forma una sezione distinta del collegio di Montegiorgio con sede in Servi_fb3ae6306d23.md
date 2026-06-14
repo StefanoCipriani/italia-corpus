@@ -1,16 +1,14 @@
-REGIO DECRETO 07 marzo 1880 n. 5326
-
-
-REGIO DECRETO 07 marzo 1880 n. 5326
-===================================
-
-Che separa i comuni di Servigliano, e Monte S. Pietro Morico dalla sezione elettorale di S. Vittoria in Materano e forma una sezione distinta del collegio di Montegiorgio con sede in Servigliano. (080U5326)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/04/1880
+---
+tipo: REGIO DECRETO
+numero: 5326
+data: 1880-03-07
+titolo: "Che separa i comuni di Servigliano, e Monte S. Pietro Morico dalla sezione elettorale di S. Vittoria in Materano e forma una sezione distinta del collegio di Montegiorgio con sede in Servigliano. (080U5326)"
+urn: urn:nir:stato:regio.decreto:1880-03-07;5326
+codice_redazionale: 080U5326
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Ritenuto che i due comuni instanti contano 86 elettori, e cosi' oltre il doppio 
 
 Considerando che costituendo in sezione elettorale i detti due comuni sara' reso piu' agevole agli elettori l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Servigliano e Monte S. Pietro Morico sono separati dalla sezione elettorale di S. Vittoria in Materano, e formeranno una sezione distinta del Collegio di Montegiorgio, con sede in Servigliano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 marzo 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+I comuni di Servigliano e Monte S. Pietro Morico sono separati dalla sezione elettorale di S. Vittoria in Materano, e formeranno una sezione distinta del Collegio di Montegiorgio, con sede in Servigliano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

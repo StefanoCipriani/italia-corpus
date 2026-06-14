@@ -1,21 +1,17 @@
-REGIO DECRETO 24 agosto 1895 n. DC
+---
+tipo: REGIO DECRETO
+numero: DC
+data: 1895-08-24
+titolo: "Che concentra la pia opera Pola Alberti nella congregazione di carita' di Istrana (Treviso). (9500600R)"
+urn: urn:nir:stato:regio.decreto:1895-08-24;600
+codice_redazionale: 9500600R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 agosto 1895 n. DC
-==================================
-
-Che concentra la pia opera Pola Alberti nella congregazione di carita' di Istrana (Treviso). (9500600R)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/12/1895
-
-Art. 1
-------
-
-  
-Con cui la pia opera Pola Alberti e' concentrata nella congregazione di carita' di Istrana (Treviso). - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei conti addi' 6 dicembre 1895.   
-  
-Reg. 202. Atti del Governo a f. 155.   
-  
+Con cui la pia opera Pola Alberti e' concentrata nella congregazione di carita' di Istrana (Treviso). - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei conti addi' 6 dicembre 1895. 
+ 
+ Reg. 202. Atti del Governo a f. 155.

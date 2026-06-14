@@ -1,16 +1,14 @@
-REGIO DECRETO 26 agosto 1873 n. DCCXXXIX
-
-
-REGIO DECRETO 26 agosto 1873 n. DCCXXXIX
-========================================
-
-Che riordina l'Istituto delle Orsoline in Parma. (7300739R)
------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/11/1873
+---
+tipo: REGIO DECRETO
+numero: DCCXXXIX
+data: 1873-08-26
+titolo: "Che riordina l'Istituto delle Orsoline in Parma. (7300739R)"
+urn: urn:nir:stato:regio.decreto:1873-08-26;739
+codice_redazionale: 7300739R
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,56 +28,38 @@ Veduta la necessita' di riformare, a seconda dei tempi e delle leggi presenti, g
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il Reale Collegio femminile di S. Orsola in Parma e' dichiarato pubblico Istituto educativo.
 
-  
-  
-Il Reale Collegio femminile di S. Orsola in Parma e' dichiarato pubblico Istituto educativo.   
+## Art. 2.
 
-Art. 2
-------
+Esso sara' amministrato e governato da una Commissione composta di un Presidente e due Consiglieri, uno dei quali verra' proposto dalle Orsoline.
 
-  
-  
-Esso sara' amministrato e governato da una Commissione composta di un Presidente e due Consiglieri, uno dei quali verra' proposto dalle Orsoline.   
+## Art. 3.
 
-Art. 3
-------
+Alle discussioni concernenti l'amministrazione economica potra' prender parte con voto consultivo la Superiora delle dette Suore.
 
-  
-  
-Alle discussioni concernenti l'amministrazione economica potra' prender parte con voto consultivo la Superiora delle dette Suore.   
+## Art. 4.
 
-Art. 4
-------
+Per la direzione e amministrazione, per l'ordinamento interno e per la istruzione, salvo cio' che e' disposto nei due articoli precedenti, verranno osservate tutte le norme e le prescrizioni contenute nel Regolamento organico approvato per i Conservatorii femminili con Decreto Nostro del 6 ottobre 1867, n. MDCCCCXLI.
 
-  
-  
-Per la direzione e amministrazione, per l'ordinamento interno e per la istruzione, salvo cio' che e' disposto nei due articoli precedenti, verranno osservate tutte le norme e le prescrizioni contenute nel Regolamento organico approvato per i Conservatorii femminili con Decreto Nostro del 6 ottobre 1867, n. MDCCCCXLI.   
+## Art. 5.
 
-Art. 5
-------
-
-  
-  
-Tutte le disposizioni anteriori, che fossero contrarie alla presente, sono abrogate.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 26 agosto 1873.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 ottobre 1873   
-  
-Vol. 72 Atti del Governo a. c. 34. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Vigliani.   
-  
-A. Scialoja.   
+Tutte le disposizioni anteriori, che fossero contrarie alla presente, sono abrogate. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 26 agosto 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 ottobre 1873 
+ 
+ Vol. 72 Atti del Governo a. c. 34. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Vigliani. 
+ 
+ A. Scialoja.

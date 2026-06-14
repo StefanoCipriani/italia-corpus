@@ -1,22 +1,20 @@
-REGIO DECRETO 09 febbraio 1870 n. 5504
-
-
-REGIO DECRETO 09 febbraio 1870 n. 5504
-======================================
-
-Che stabilisce temporaneamente in Genova la sede del Tribunale militare marittimo del 1° Dipartimento. (070U5504)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/03/1870
+---
+tipo: REGIO DECRETO
+numero: 5504
+data: 1870-02-09
+titolo: "Che stabilisce temporaneamente in Genova la sede del Tribunale militare marittimo del 1° Dipartimento. (070U5504)"
+urn: urn:nir:stato:regio.decreto:1870-02-09;5504
+codice_redazionale: 070U5504
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[articolo 319 del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art319) militare marittimo, approvato dalla [Legge 28 novembre 1869, n. 5366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1869-11-28;5366);
+Visto l'[articolo 319 del Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_319) militare marittimo, approvato dalla [Legge 28 novembre 1869, n. 5366](Che%20approva%20e%20manda%20pubblicarsi%20il%20Codice%20penale%20militare%20marittimo.%20069U5366.md);
 
 Visto il Regio Decreto di pari data, col quale si dichiara che il Codice suddetto avra' vigore dal 15 febbraio 1870;
 
@@ -26,35 +24,24 @@ Ritenuta la convenienza che il Tribunale militare marittimo del 1° Dipartimento
 
 Udito il Nostro Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Fino a che il personale della 1ª Divisione del Corpo Reale Equipaggi, e quello del Battaglione del Corpo Reale Fanteria Marina, di stanza in Genova, non abbiano, per effetto del disposto dal Regio Decreto 31 gennaio succitato, trasportato la loro sede a Spezia, il Tribunale militare marittimo dei 1° Dipartimento risiedera' nella prima di dette citta'.
 
-  
-  
-Fino a che il personale della 1ª Divisione del Corpo Reale Equipaggi, e quello del Battaglione del Corpo Reale Fanteria Marina, di stanza in Genova, non abbiano, per effetto del disposto dal Regio Decreto 31 gennaio succitato, trasportato la loro sede a Spezia, il Tribunale militare marittimo dei 1° Dipartimento risiedera' nella prima di dette citta'.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente Decreto sara' proposto al Parlamento per essere convertito in Legge.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 9 febbraio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 23 febbraio 1870   
-Reg. 50 Atti del Governo a c. 81. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Acton.   
-  
+Il presente Decreto sara' proposto al Parlamento per essere convertito in Legge. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 9 febbraio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 23 febbraio 1870 
+ Reg. 50 Atti del Governo a c. 81. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Acton.

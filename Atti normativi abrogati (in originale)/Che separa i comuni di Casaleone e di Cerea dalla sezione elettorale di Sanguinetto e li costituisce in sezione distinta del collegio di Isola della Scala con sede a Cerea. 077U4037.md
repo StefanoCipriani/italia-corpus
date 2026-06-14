@@ -1,16 +1,14 @@
-REGIO DECRETO 26 agosto 1877 n. 4037
-
-
-REGIO DECRETO 26 agosto 1877 n. 4037
-====================================
-
-Che separa i comuni di Casaleone e di Cerea dalla sezione elettorale di Sanguinetto e li costituisce in sezione distinta del collegio di Isola della Scala con sede a Cerea. (077U4037)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/09/1877
+---
+tipo: REGIO DECRETO
+numero: 4037
+data: 1877-08-26
+titolo: "Che separa i comuni di Casaleone e di Cerea dalla sezione elettorale di Sanguinetto e li costituisce in sezione distinta del collegio di Isola della Scala con sede a Cerea. (077U4037)"
+urn: urn:nir:stato:regio.decreto:1877-08-26;4037
+codice_redazionale: 077U4037
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Casaleone e Cerea sono separati dalla sezione elettorale di Sanguinetto, e formeranno una sezione distinta del Collegio elettorale di Isola della Scala colla sede in Cerea.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 26 agosto 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
-  
+I comuni di Casaleone e Cerea sono separati dalla sezione elettorale di Sanguinetto, e formeranno una sezione distinta del Collegio elettorale di Isola della Scala colla sede in Cerea. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 26 agosto 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

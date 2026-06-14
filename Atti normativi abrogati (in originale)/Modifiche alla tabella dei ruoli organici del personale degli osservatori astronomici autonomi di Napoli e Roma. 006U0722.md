@@ -1,50 +1,33 @@
-REGIO DECRETO 27 dicembre 1906 n. 722
-
-
-REGIO DECRETO 27 dicembre 1906 n. 722
-=====================================
-
-Modifiche alla tabella dei ruoli organici del personale degli osservatori astronomici autonomi di Napoli e Roma. (006U0722)
----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/02/1907
+---
+tipo: REGIO DECRETO
+numero: 722
+data: 1906-12-27
+titolo: "Modifiche alla tabella dei ruoli organici del personale degli osservatori astronomici autonomi di Napoli e Roma. (006U0722)"
+urn: urn:nir:stato:regio.decreto:1906-12-27;722
+codice_redazionale: 006U0722
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduta la [legge 20 dicembre 1906, n. 624](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-12-20;624) che approva lo stato di previsione della spesa del Ministero della pubblica istruzione, per l'esercizio 1906-907;
+Veduta la [legge 20 dicembre 1906, n. 624](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20della%20pubblica%20istruzione%20per%20lesercizio%20finanziario%201906-907.%20006U0624.md) che approva lo stato di previsione della spesa del Ministero della pubblica istruzione, per l'esercizio 1906-907;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I ruoli organici del personale degli Osservatori astronomici autonomi di Napoli e Roma, sono modificati in conformita' della tabella annessa al presente decreto e firmata d'ordine Nostro dal ministro predetto, con effetto dal 1° gennaio 1907.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 dicembre 1906.   
-  
-VITTORIO EMANUELE.   
-  
-Rava.   
-  
-Visto, Il guardasigilli: Gallo.   
-  
-
-Tabella
-
-  
-Osservatori astronomici autonomi   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=006U072200100010110001&dgu=1907-02-12&art.dataPubblicazioneGazzetta=1907-02-12&art.codiceRedazionale=006U0722)
-  
+I ruoli organici del personale degli Osservatori astronomici autonomi di Napoli e Roma, sono modificati in conformita' della tabella annessa al presente decreto e firmata d'ordine Nostro dal ministro predetto, con effetto dal 1° gennaio 1907. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 dicembre 1906. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Rava. 
+ 
+ Visto, Il guardasigilli: Gallo.

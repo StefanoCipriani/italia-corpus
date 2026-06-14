@@ -1,16 +1,14 @@
-REGIO DECRETO 01 marzo 1903 n. 90
-
-
-REGIO DECRETO 01 marzo 1903 n. 90
-=================================
-
-Manifesti di partenza per navi italiane provenienti dai porti dell'Albania (003U0090)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/04/1903
+---
+tipo: REGIO DECRETO
+numero: 90
+data: 1903-03-01
+titolo: "Manifesti di partenza per navi italiane provenienti dai porti dell'Albania (003U0090)"
+urn: urn:nir:stato:regio.decreto:1903-03-01;90
+codice_redazionale: 003U0090
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,52 +22,35 @@ Attesoche' per reprimere il contrabbando di quelle mercanzie sulle coste del Reg
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le Finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I bastimenti a vela di qualunque portata e quelli a vapore di portata inferiore alle cento tonnellate, a qualsiasi nazionalita' appartengano, che da uno scalo dell'Albania si dirigono a porti italiani debbono essere forniti del Manifesto di partenza vidimato dall'ufficiale consolare d'Italia cola' residente. 
+ 
+ Tale manifesto deve rappresentare lo stato reale del carico e delle provviste di bordo.
 
-  
-  
-I bastimenti a vela di qualunque portata e quelli a vapore di portata inferiore alle cento tonnellate, a qualsiasi nazionalita' appartengano, che da uno scalo dell'Albania si dirigono a porti italiani debbono essere forniti del Manifesto di partenza vidimato dall'ufficiale consolare d'Italia cola' residente.   
-  
-Tale manifesto deve rappresentare lo stato reale del carico e delle provviste di bordo.   
-  
+## Art. 2.
 
-Art. 2
-------
+La vidimazione del manifesto da parte dell'ufficiale consolare, come atto di spedizione della nave, sara' esente da qualsiasi diritto per i bastimenti di nazionalita' italiana.
 
-  
-  
-La vidimazione del manifesto da parte dell'ufficiale consolare, come atto di spedizione della nave, sara' esente da qualsiasi diritto per i bastimenti di nazionalita' italiana.   
-  
+## Art. 3.
 
-Art. 3
-------
+I capitani che, dopo essere partiti con manifesto vidimato a' termini dei precedenti articoli, ritornassero nelle acque dell'Albania senza aver toccato alcun porto, sono tenuti a riconsegnare all'Ufficio consolare italiano del luogo il manifesto stesso: in caso d'inadempimento, non dipendente da forza maggiore, non potranno ottenere la vidimazione d'altro manifesto per la ulteriore partenza.
 
-  
-  
-I capitani che, dopo essere partiti con manifesto vidimato a' termini dei precedenti articoli, ritornassero nelle acque dell'Albania senza aver toccato alcun porto, sono tenuti a riconsegnare all'Ufficio consolare italiano del luogo il manifesto stesso: in caso d'inadempimento, non dipendente da forza maggiore, non potranno ottenere la vidimazione d'altro manifesto per la ulteriore partenza.   
-  
-
-Art. 4
-------
+## Art. 4.
 
 Il presente decreto avra' effetto per i bastimenti che approderanno ai porti nazionali dal 1° maggio
 
-1903. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 1° marzo 1903.   
-  
-VITTORIO EMANUELE.   
-  
-G. Zanardelli.   
-Carcano.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.
+1903.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° marzo 1903. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Zanardelli. 
+ Carcano. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

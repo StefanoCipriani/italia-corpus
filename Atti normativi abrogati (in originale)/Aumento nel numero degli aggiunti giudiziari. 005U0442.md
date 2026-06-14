@@ -1,22 +1,20 @@
-REGIO DECRETO 16 luglio 1905 n. 442
-
-
-REGIO DECRETO 16 luglio 1905 n. 442
-===================================
-
-Aumento nel numero degli aggiunti giudiziari. (005U0442)
---------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/08/1905
+---
+tipo: REGIO DECRETO
+numero: 442
+data: 1905-07-16
+titolo: "Aumento nel numero degli aggiunti giudiziari. (005U0442)"
+urn: urn:nir:stato:regio.decreto:1905-07-16;442
+codice_redazionale: 005U0442
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'[art. 3 della legge 18 luglio 1904, n. 402](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-18;402~art3), con cui sopprimendosi il grado di vice-presidente di tribunale, fu data facolta' al Governo di creare, entro l'anno dalla pubblicazione della detta legge, nuovi posti di giudice e di aggiunto giudiziario in numero non superiore a sessantacinque e nei limiti dei fondi disponibili, ai termini dell'art. 9 della legge stessa;
+Visto l'[art. 3 della legge 18 luglio 1904, n. 402](Modificazioni%20allordinamento%20giudiziario.%20004U0402.md), con cui sopprimendosi il grado di vice-presidente di tribunale, fu data facolta' al Governo di creare, entro l'anno dalla pubblicazione della detta legge, nuovi posti di giudice e di aggiunto giudiziario in numero non superiore a sessantacinque e nei limiti dei fondi disponibili, ai termini dell'art. 9 della legge stessa;
 
 Visti i Nostri decreti del 17 novembre 1904, 19 gennaio, 5 maro, 4 maggio, 8 giugno 1905 con cui furono, complessivamente, istituiti 65 nuovi posti di giudice in dipendenza della soppressione di altrettanti posti di vice presidenti di tribunale;
 
@@ -26,34 +24,23 @@ Ritenuta la convenienza di procedere ad istituire nel termine prescritto nell'an
 
 Visto l'art. 12 della ripetuta legge;
 
-Sentito
--------
+Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il ruolo degli aggiunti giudiziari e' aumentato di numero 18 posti.
 
-  
-  
-Il ruolo degli aggiunti giudiziari e' aumentato di numero 18 posti.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Alle nomine dei nuovi aggiunti si procedera' di volta in volta che si verificheranno le vacanze dei posti di vice presidenti nei tribunali nei quali non siasi gia' disposta la surrogazione con un giudice.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 16 luglio 1905.   
-  
-VITTORIO EMANUELE.   
-  
-A. Fortis.   
-C. Finocchiaro-Aprile.   
-  
-Visto, Il guardasigilli: C. Finocchiaro-Aprile.   
-  
+Alle nomine dei nuovi aggiunti si procedera' di volta in volta che si verificheranno le vacanze dei posti di vice presidenti nei tribunali nei quali non siasi gia' disposta la surrogazione con un giudice. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 16 luglio 1905. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ A. Fortis. 
+ C. Finocchiaro-Aprile. 
+ 
+ Visto, Il guardasigilli: C. Finocchiaro-Aprile.

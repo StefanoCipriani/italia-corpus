@@ -1,16 +1,14 @@
-REGIO DECRETO 12 dicembre 1935 n. 2357
-
-
-REGIO DECRETO 12 dicembre 1935 n. 2357
-======================================
-
-Scioglimento di una Divisione di fanteria temporaneamente costituita. (035U2357)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/02/1936
+---
+tipo: REGIO DECRETO
+numero: 2357
+data: 1935-12-12
+titolo: "Scioglimento di una Divisione di fanteria temporaneamente costituita. (035U2357)"
+urn: urn:nir:stato:regio.decreto:1935-12-12;2357
+codice_redazionale: 035U2357
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,38 +20,29 @@ Visto il R. decreto 21 novembre 1935-XIV, n. 2202, concernente la costituzione t
 
 Considerata l'opportunita' di sciogliere la predetta Divisione di fanteria e gli elementi dei quali fu costituita;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A decorrere dal 15 novembre 1935-XIV, sono sciolti: 
+ 
+ a) la Divisione di fanteria temporaneamente costituita a norma dell'art. l del R. decreto 21 novembre 1935-XIV, n. 2202; 
+ 
+ b) il reggimento di artiglieria di divisione di fanteria temporaneamente costituito a norma dell'art. 2 del predetto Regio decreto.
 
-  
-  
-A decorrere dal 15 novembre 1935-XIV, sono sciolti:   
-  
-a) la Divisione di fanteria temporaneamente costituita a norma dell'art. l del R. decreto 21 novembre 1935-XIV, n. 2202;   
-  
-b) il reggimento di artiglieria di divisione di fanteria temporaneamente costituito a norma dell'art. 2 del predetto Regio decreto.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il Ministro per la guerra emanera' le disposizioni particolari per l'esecuzione del presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 dicembre 1935 - Anno XIV   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 20 gennaio 1936 - Anno XIV   
-Atti del Governo, registro 368, foglio 140. - Mancini.   
+Il Ministro per la guerra emanera' le disposizioni particolari per l'esecuzione del presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 dicembre 1935 - Anno XIV 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 20 gennaio 1936 - Anno XIV  
+ Atti del Governo, registro 368, foglio 140. - Mancini.

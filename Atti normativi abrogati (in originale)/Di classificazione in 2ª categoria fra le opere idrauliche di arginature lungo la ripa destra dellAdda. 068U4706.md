@@ -1,16 +1,14 @@
-REGIO DECRETO 15 novembre 1868 n. 4706
-
-
-REGIO DECRETO 15 novembre 1868 n. 4706
-======================================
-
-Di classificazione in 2ª categoria fra le opere idrauliche di arginature lungo la ripa destra dell'Adda. (068U4706)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/01/1869
+---
+tipo: REGIO DECRETO
+numero: 4706
+data: 1868-11-15
+titolo: "Di classificazione in 2ª categoria fra le opere idrauliche di arginature lungo la ripa destra dell'Adda. (068U4706)"
+urn: urn:nir:stato:regio.decreto:1868-11-15;4706
+codice_redazionale: 068U4706
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,40 +24,31 @@ Avuti i pareri favorevoli del Consiglio superiore dei Lavori Pubblici e del Cons
 
 Veduto il disposto dell'articolo 174 della Legge predetta;
 
-Sulla
------
+Sulla proposta del Nostro Segretario di Stato, Ministro dei Lavori Pubblici; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Segretario di Stato, Ministro dei Lavori Pubblici; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+In aggiunta alle opere idrauliche di 2ª categoria, descritte nell'Elenco unito al precitato Nostro Decreto, viene compresa l'altra indicata qui appresso:
 
-  
-  
-In aggiunta alle opere idrauliche di 2ª categoria, descritte nell'Elenco unito al precitato Nostro Decreto, viene compresa l'altra indicata qui appresso:   
+Provincia
+                                Denominazione
+                                Indicazione dell'opera
+                            Milano . . . . .
+                                Fiume Adda . . . . .
+                                Arginatura destra, dalla foce all'insu', per quanto si estende il rigurgito delle massime piene del po, cioe' fino di contro alla cascina Campagnola in Lardara.
 
-|  |  |  |
-| --- | --- | --- |
-| Provincia | Denominazione | Indicazione dell'opera |
-| Milano . . . . . | Fiume Adda . . . . . | Arginatura destra, dalla foce all'insu', per quanto si estende il rigurgito delle massime piene del po, cioe' fino di contro alla cascina Campagnola in Lardara. |
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Nel bilancio dei Lavori Pubblici, al capitolo delle spese di manutenzione per opere idrauliche, sara' inscritta la somma necessaria all'opera suddetta, per gli effetti contemplati nell'anzi cennato articolo 174 di Legge.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 15 novembre 1868.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 27 novembre 1868   
-Reg. 44 Atti del Governo a. c. 82. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli DE FILIPPO.   
-  
-L. PASINI.   
-  
-  
+Nel bilancio dei Lavori Pubblici, al capitolo delle spese di manutenzione per opere idrauliche, sara' inscritta la somma necessaria all'opera suddetta, per gli effetti contemplati nell'anzi cennato articolo 174 di Legge. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 15 novembre 1868. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 27 novembre 1868 
+ Reg. 44 Atti del Governo a. c. 82. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli DE FILIPPO. 
+ 
+ L. PASINI.

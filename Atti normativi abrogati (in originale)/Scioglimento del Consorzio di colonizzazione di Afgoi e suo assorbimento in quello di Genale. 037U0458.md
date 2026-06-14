@@ -1,16 +1,14 @@
-REGIO DECRETO 18 gennaio 1937 n. 458
-
-
-REGIO DECRETO 18 gennaio 1937 n. 458
-====================================
-
-Scioglimento del Consorzio di colonizzazione di Afgoi e suo assorbimento in quello di Genale. (037U0458)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/04/1937
+---
+tipo: REGIO DECRETO
+numero: 458
+data: 1937-01-18
+titolo: "Scioglimento del Consorzio di colonizzazione di Afgoi e suo assorbimento in quello di Genale. (037U0458)"
+urn: urn:nir:stato:regio.decreto:1937-01-18;458
+codice_redazionale: 037U0458
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,16 +30,10 @@ Udito il parere del Consiglio superiore coloniale;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le colonie, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le colonie, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
-
-  
-  
-Il Consorzio di colonizzazione di Afgoi e' disciolto.   
-  
-Il R. decreto 26 ottobre 1933-XI, n. 1532, relativo alla sua costituzione ed il decreto Ministeriale 23 gennaio 1934, che ne approva lo statuto, sono abrogati.   
+Il Consorzio di colonizzazione di Afgoi e' disciolto. 
+ 
+ Il R. decreto 26 ottobre 1933-XI, n. 1532, relativo alla sua costituzione ed il decreto Ministeriale 23 gennaio 1934, che ne approva lo statuto, sono abrogati.

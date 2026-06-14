@@ -1,19 +1,15 @@
-REGIO DECRETO 17 febbraio 1910 n. LV
+---
+tipo: REGIO DECRETO
+numero: LV
+data: 1910-02-17
+titolo: "Col quale la Societa' fiorentina Umberto I, contro la tubercolosi, con sede in Firenze, e' eretta in ente morale. (1000055R)"
+urn: urn:nir:stato:regio.decreto:1910-02-17;55
+codice_redazionale: 1000055R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 febbraio 1910 n. LV
-====================================
-
-Col quale la Societa' fiorentina Umberto I, contro la tubercolosi, con sede in Firenze, e' eretta in ente morale. (1000055R)
-----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/03/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. LV (Dato a Roma, il 17 febbraio 1910), col quale la Societa' fiorentina Umberto I, contro la tubercolosi, con sede in Firenze, e' eretta in ente morale e ne e' approvato lo statuto organico.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. LV (Dato a Roma, il 17 febbraio 1910), col quale la Societa' fiorentina Umberto I, contro la tubercolosi, con sede in Firenze, e' eretta in ente morale e ne e' approvato lo statuto organico.

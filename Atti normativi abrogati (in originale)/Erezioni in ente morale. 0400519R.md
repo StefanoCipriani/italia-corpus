@@ -1,19 +1,15 @@
-REGIO DECRETO 24 novembre 1904 n. DXIX
+---
+tipo: REGIO DECRETO
+numero: DXIX
+data: 1904-11-24
+titolo: "Erezioni in ente morale. (0400519R)"
+urn: urn:nir:stato:regio.decreto:1904-11-24;519
+codice_redazionale: 0400519R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 novembre 1904 n. DXIX
-======================================
-
-Erezioni in ente morale. (0400519R)
------------------------------------
-
-Entrata in vigore del provvedimento: 20/01/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. DXIX (Dato a Roma, il 24 novembre 1904), col quale il legato Patellani e' eretto in ente morale e contemporaneamente concentrato nella Congregazione di carita' di Bresso.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. DXIX (Dato a Roma, il 24 novembre 1904), col quale il legato Patellani e' eretto in ente morale e contemporaneamente concentrato nella Congregazione di carita' di Bresso.

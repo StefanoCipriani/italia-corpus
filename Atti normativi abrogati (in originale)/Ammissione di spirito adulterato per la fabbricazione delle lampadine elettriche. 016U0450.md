@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 30 marzo 1916 n. 450
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 450
+data: 1916-03-30
+titolo: "Ammissione di spirito adulterato per la fabbricazione delle lampadine elettriche. (016U0450)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-03-30;450
+codice_redazionale: 016U0450
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 30 marzo 1916 n. 450
-============================================
-
-Ammissione di spirito adulterato per la fabbricazione delle lampadine elettriche. (016U0450)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/05/1916
-
-Art. 1
-------
-
-  
-N. 450   
-  
-Decreto Luogotenenziale 30 marzo 1916, col quale, sulla proposta del ministro delle finanze, si ammette l'industria della fabbricazione delle lampadine elettriche all'impiego dello spirito adulterato col denaturante generale.   
-  
+N. 450 
+ 
+ Decreto Luogotenenziale 30 marzo 1916, col quale, sulla proposta del ministro delle finanze, si ammette l'industria della fabbricazione delle lampadine elettriche all'impiego dello spirito adulterato col denaturante generale.

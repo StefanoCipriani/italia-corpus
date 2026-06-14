@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 01 aprile 1917 n. 693
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 693
+data: 1917-04-01
+titolo: "Erezione in Ente morale. (017U0693)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-04-01;693
+codice_redazionale: 017U0693
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 01 aprile 1917 n. 693
-=============================================
-
-Erezione in Ente morale. (017U0693)
------------------------------------
-
-Entrata in vigore del provvedimento: 30/05/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-693. Decreto Luogotenenziale 1° aprile 1917, col quale, sulla proposta del ministro dell'interno, il pio legato Messini, di Foligno, e' eretto in ente morale e ne e' approvato lo statuto organico.
+693.
+
+Decreto Luogotenenziale 1° aprile 1917, col quale, sulla proposta del ministro dell'interno, il pio legato Messini, di Foligno, e' eretto in ente morale e ne e' approvato lo statuto organico.

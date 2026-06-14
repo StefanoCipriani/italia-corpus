@@ -1,16 +1,14 @@
-REGIO DECRETO 08 febbraio 1923 n. 292
-
-
-REGIO DECRETO 08 febbraio 1923 n. 292
-=====================================
-
-Che modifica il regime doganale di alcuni concimi. (023U0292)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/03/1923
+---
+tipo: REGIO DECRETO
+numero: 292
+data: 1923-02-08
+titolo: "Che modifica il regime doganale di alcuni concimi. (023U0292)"
+urn: urn:nir:stato:regio.decreto:1923-02-08;292
+codice_redazionale: 023U0292
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -18,50 +16,31 @@ RE D'ITALIA
 
 In forza dei pieni poteri conferiti al Governo del Re,
 
-con la [legge 3 dicembre 1922, n. 1601](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1922-12-03;1601);
+con la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
 Vista la tariffa generale dei dazi doganali approvata
 
-con il [Regio decreto-legge 9 giugno 1921, n.806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-06-09;806);
+con il [Regio decreto-legge 9 giugno 1921, n.806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md);
 
 Sulla proposta del Nostro ministro segretario di Stato per le finanze, di concerto con quelli per l'agricoltura e per l'industria e il commercio;
 
-Udito
------
+Udito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Nella tariffa generale dei dazi doganali, approvata con [R. decreto -legge 9 giugno 1921, n.806](Che%20approva%20la%20nuova%20tariffa%20generale%20dei%20dazi%20doganali.%20021U0806.md), sono introdotte le modificazioni indicate nell'annessa tabella A, firmata, d'ordine Nostro, dal Ministro delle finanze.
 
-  
-  
-Nella tariffa generale dei dazi doganali, approvata con [R. decreto -legge 9 giugno 1921, n.806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-06-09;806), sono introdotte le modificazioni indicate nell'annessa tabella A, firmata, d'ordine Nostro, dal Ministro delle finanze.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto avra' effetto a partire dal giorno successivo a quello della sua pubblicazione nella Gazzetta ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti dei Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 febbraio 1923   
-  
-VITTORIO EMANUELE.   
-  
-MUSSOLINI - DE STEFANI - DE CAPITANI D'ARZAGO -   
-TEOFILO ROSSI.   
-  
-Visto, il guardasigilli: OVIGLIO.   
-  
-
-Tabella A
-
-  
-Tabella A.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=023U029200100010110001&dgu=1923-02-23&art.dataPubblicazioneGazzetta=1923-02-23&art.codiceRedazionale=023U0292)
-  
+Il presente decreto avra' effetto a partire dal giorno successivo a quello della sua pubblicazione nella Gazzetta ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti dei Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 febbraio 1923 
+ 
+ VITTORIO EMANUELE. 
+ 
+ MUSSOLINI - DE STEFANI - DE CAPITANI D'ARZAGO - 
+ TEOFILO ROSSI. 
+ 
+ Visto, il guardasigilli: OVIGLIO.

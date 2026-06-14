@@ -1,21 +1,17 @@
-REGIO DECRETO 31 ottobre 1912 n. 1195
+---
+tipo: REGIO DECRETO
+numero: 1195
+data: 1912-10-31
+titolo: "Istituzione di collegio di probiviri per le industrie degli alberghi e della mensa. (012U1195)"
+urn: urn:nir:stato:regio.decreto:1912-10-31;1195
+codice_redazionale: 012U1195
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 ottobre 1912 n. 1195
-=====================================
-
-Istituzione di collegio di probiviri per le industrie degli alberghi e della mensa. (012U1195)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/12/1912
-
-Art. 1
-------
-
-  
-N. 1195   
-  
-Regio Decreto 31 ottobre 1912, col quale, sulla proposta dei ministri d'agricoltura, industria e commercio e di grazia, giustizia e dei culti, viene istituito un Collegio di probiviri per l'industria degli alberghi e della mensa, con sede in Napoli e con giurisdizione sul territorio dei comuni di Napoli, Portici, Torre del Greco, Torre Annunziata, Castellammare di Stabia, Agerola, Sorrento, Massalubrense, Capri, Anacapri, Pozzuoli, Ischia e Casamicciola.   
-  
-Il Collegio stesso sara' composto di quattordici probiviri, dei quali sette operai e sette industriali.   
-  
+N. 1195 
+ 
+ Regio Decreto 31 ottobre 1912, col quale, sulla proposta dei ministri d'agricoltura, industria e commercio e di grazia, giustizia e dei culti, viene istituito un Collegio di probiviri per l'industria degli alberghi e della mensa, con sede in Napoli e con giurisdizione sul territorio dei comuni di Napoli, Portici, Torre del Greco, Torre Annunziata, Castellammare di Stabia, Agerola, Sorrento, Massalubrense, Capri, Anacapri, Pozzuoli, Ischia e Casamicciola. 
+ 
+ Il Collegio stesso sara' composto di quattordici probiviri, dei quali sette operai e sette industriali.

@@ -1,21 +1,21 @@
-REGIO DECRETO 07 giugno 1943 n. 657
+---
+tipo: REGIO DECRETO
+numero: 657
+data: 1943-06-07
+titolo: "Modificazioni all'ordinamento dei servizi periferici della Regia marina. (043U0657)"
+urn: urn:nir:stato:regio.decreto:1943-06-07;657
+codice_redazionale: 043U0657
+vigente: true
+---
 
-
-REGIO DECRETO 07 giugno 1943 n. 657
-===================================
-
-Modificazioni all'ordinamento dei servizi periferici della Regia marina. (043U0657)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/08/1943
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-657. R. decreto 7 giugno 1943, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la marina, sono apportate modificazioni all'ordinamento dei servizi periferici della Regia marina.   
-  
-Visto, il Guardasigilli: DE MARSICO   
-  
-Registrato alla Corte dei conti, addi' 17 luglio 1943.
+657.
+
+R. decreto 7 giugno 1943, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la marina, sono apportate modificazioni all'ordinamento dei servizi periferici della Regia marina. 
+ 
+ Visto, il Guardasigilli: DE MARSICO 
+ 
+ Registrato alla Corte dei conti, addi' 17 luglio 1943.

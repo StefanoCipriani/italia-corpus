@@ -1,16 +1,14 @@
-REGIO DECRETO 21 marzo 1935 n. 359
-
-
-REGIO DECRETO 21 marzo 1935 n. 359
-==================================
-
-Approvazione della nuova tabella delle classi di concorsi-esami di Stato per i Regi istituti medi d'istruzione classica, scientifica e magistrale. (035U0359)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/05/1935
+---
+tipo: REGIO DECRETO
+numero: 359
+data: 1935-03-21
+titolo: "Approvazione della nuova tabella delle classi di concorsi-esami di Stato per i Regi istituti medi d'istruzione classica, scientifica e magistrale. (035U0359)"
+urn: urn:nir:stato:regio.decreto:1935-03-21;359
+codice_redazionale: 035U0359
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,44 +26,25 @@ Udito il Consiglio superiore dell'educazione nazionale;
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvata la nuova tabella delle classi di concorsi-esami di Stato per i Regi istituti medi di istruzione classica, scientifica, e magistrale, dei titoli di ammissione, delle cattedre alle quali danno accesso e dei conseguenti diplomi di abilitazione, unita al presente decreto e firmata, d'ordine Nostro, dal Nostro Ministro proponente.
 
-  
-  
-E' approvata la nuova tabella delle classi di concorsi-esami di Stato per i Regi istituti medi di istruzione classica, scientifica, e magistrale, dei titoli di ammissione, delle cattedre alle quali danno accesso e dei conseguenti diplomi di abilitazione, unita al presente decreto e firmata, d'ordine Nostro, dal Nostro Ministro proponente. 
+## Art. 2.
 
-Art. 2
-------
+La suddetta tabella e' applicabile anche ai concorsi-esami di Stato banditi nel corrente anno per il futuro anno scolastico 1935-36.
 
-  
-  
-La suddetta tabella e' applicabile anche ai concorsi-esami di Stato banditi nel corrente anno per il futuro anno scolastico 1935-36.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-E' abrogato il Nostro decreto 26 aprile 1930, n. 485.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Roma, addi' 21 marzo 1935 - Anno XIII   
-VITTORIO EMANUELE   
-  
-De Vecchi di Val Cismon.   
-  
-Visto, il Guardasigilli: Solmi.   
-Registrato alla Corte dei conti, addi' 9 aprile 1935 - Anno XIII   
-Atti del Governo, registro 359, foglio 59. - Mancini.   
-
-Tabella
-
-Tabella delle classi dei concorsi-esami di Stato, dei titoli di ammissione e dei diplomi di abilitazione.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=035U035900100010110001&dgu=1935-04-16&art.dataPubblicazioneGazzetta=1935-04-16&art.codiceRedazionale=035U0359)
-  
+E' abrogato il Nostro decreto 26 aprile 1930, n. 485. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 21 marzo 1935 - Anno XIII 
+ VITTORIO EMANUELE 
+ 
+ De Vecchi di Val Cismon. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ Registrato alla Corte dei conti, addi' 9 aprile 1935 - Anno XIII 
+ Atti del Governo, registro 359, foglio 59. - Mancini.

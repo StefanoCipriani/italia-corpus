@@ -1,16 +1,14 @@
-REGIO DECRETO 18 luglio 1872 n. 933
-
-
-REGIO DECRETO 18 luglio 1872 n. 933
-===================================
-
-Che autorizza il Comune di Fiuminata a trasferire la sede municipale nella frazione Massa. (072U0933)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/08/1872
+---
+tipo: REGIO DECRETO
+numero: 933
+data: 1872-07-18
+titolo: "Che autorizza il Comune di Fiuminata a trasferire la sede municipale nella frazione Massa. (072U0933)"
+urn: urn:nir:stato:regio.decreto:1872-07-18;933
+codice_redazionale: 072U0933
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,23 +18,16 @@ Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segret
 
 Vedute le deliberazioni del Consiglio comunale di Fiuminata, in data 5 maggio 1867 e 16 maggio 1872, relative al trasferimento della sede del comune nella frazione Massa, e quella emessa dal Consiglio provinciale di Macerata, in data 7 settembre 1871, coerentemente al disposto dall'art. 176, n. 1, della legge comunale e provinciale, in data 20 marzo 1865, allegato A;
 
-Veduta
-------
+Veduta la legge comunale e provinciale, Abbiamo decretato e decretiamo:
 
-la legge comunale e provinciale, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Fiuminata (Macerata) e' autorizzato a trasferire la sede municipale nella frazione Massa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, addi' 18 luglio 1872.   
-  
-VITTORIO EMANUELE.   
-  
-G. Lanza.   
-  
+Il comune di Fiuminata (Macerata) e' autorizzato a trasferire la sede municipale nella frazione Massa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, addi' 18 luglio 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Lanza.

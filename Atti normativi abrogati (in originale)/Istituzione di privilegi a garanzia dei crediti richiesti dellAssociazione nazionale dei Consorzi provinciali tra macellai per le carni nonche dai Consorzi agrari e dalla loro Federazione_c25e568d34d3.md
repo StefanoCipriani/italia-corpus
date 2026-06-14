@@ -1,16 +1,14 @@
-REGIO DECRETO-LEGGE 14 dicembre 1942 n. 1619
-
-
-REGIO DECRETO-LEGGE 14 dicembre 1942 n. 1619
-============================================
-
-Istituzione di privilegi a garanzia dei crediti richiesti dell'Associazione nazionale dei Consorzi provinciali tra macellai per le carni, nonche' dai Consorzi agrari e dalla loro Federazione per le operazioni inerenti alla raccolta di alcuni prodotti soggetti a disciplina di ammasso obbligatorio. (042U1619)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/01/1943. Regio Decreto-Legge convertito con modificazioni dalla [L. 3 maggio 1943, n. 396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-05-03;396) (in G.U. 29/05/1943, n.125).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1619
+data: 1942-12-14
+titolo: "Istituzione di privilegi a garanzia dei crediti richiesti dell'Associazione nazionale dei Consorzi provinciali tra macellai per le carni, nonche' dai Consorzi agrari e dalla loro Federazione per le operazioni inerenti alla raccolta di alcuni prodotti soggetti a disciplina di ammasso obbligatorio. (042U1619)"
+urn: urn:nir:stato:regio.decreto.legge:1942-12-14;1619
+codice_redazionale: 042U1619
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,52 +30,37 @@ Ritenuta l'urgente necessita' per causa derivante dallo stato di guerra di assic
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla preposta, del Nostro Ministro Segretario di Stato per l'agricoltura e per le foreste, di concerto col Ministro per la grazia e giustizia; Abbiamo decretato e decretiamo:
 
-preposta, del Nostro Ministro Segretario di Stato per l'agricoltura e per le foreste, di concerto col Ministro per la grazia e giustizia; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'Associazione nazionale dei Consorzi provinciali tra macellai per le carni ha facolta' di procurarsi i mezzi necessari per il pagamento del prezzo dovuto ai conferenti di carni e grassi suini e per le spese della gestione di ammasso di tali prodotti mediante operazioni di eredita' garantite da privilegio sul prodotto conferito sulle somme ricavate dalla sua vendita.
 
-  
-  
-L'Associazione nazionale dei Consorzi provinciali tra macellai per le carni ha facolta' di procurarsi i mezzi necessari per il pagamento del prezzo dovuto ai conferenti di carni e grassi suini e per le spese della gestione di ammasso di tali prodotti mediante operazioni di eredita' garantite da privilegio sul prodotto conferito sulle somme ricavate dalla sua vendita.   
+## Art. 2.
 
-Art. 2
-------
+I Consorzi agrari e la, loro Federazione hanno facolta' di procurarsi i mezzi necessari per il pagamento del prezzo dovuto ai conferenti di mandorle, nocciole, noci, pinoli e pistacchi e per le spese della gestione di ammasso di tali prodotti mediante operazioni di eredito garantite da privilegio sul prodotto conferito o sulle somme ricavate dalla sua vendita.
 
-  
-  
-I Consorzi agrari e la, loro Federazione hanno facolta' di procurarsi i mezzi necessari per il pagamento del prezzo dovuto ai conferenti di mandorle, nocciole, noci, pinoli e pistacchi e per le spese della gestione di ammasso di tali prodotti mediante operazioni di eredito garantite da privilegio sul prodotto conferito o sulle somme ricavate dalla sua vendita.   
+## Art. 3.
 
-Art. 3
-------
+I privilegi di cui agli articoli 1 e 2 del presente decreto, seguono immediatamente quelli previsti dall'[articolo 2766 del Codice Civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2766) per i prestiti agrari di conduzione. 
+ 
+Se le cambiali rappresentative del credito privilegiato ai sensi dei precedenti articoli 1 e 2 vengono girate, la girata produce anche il trasferimento del privilegio.
 
-  
-  
-I privilegi di cui agli articoli 1 e 2 del presente decreto, seguono immediatamente quelli previsti dall'[articolo 2766 del Codice Civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2766) per i prestiti agrari di conduzione.   
-  
-Se le cambiali rappresentative del credito privilegiato ai sensi dei precedenti articoli 1 e 2 vengono girate, la girata produce anche il trasferimento del privilegio.   
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato alle Assemblee legislative per la conversione in legge.   
-  
-Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 dicembre 1942-XXI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - PARESCHI - GRANDI   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 18 gennaio 1943-XXI   
-Atti del Governo, registro 453. foglio 91. - MANCINI   
+Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato alle Assemblee legislative per la conversione in legge. 
+ 
+Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+Dato a Roma, addi' 14 dicembre 1942-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - PARESCHI - GRANDI 
+ 
+Visto, il Guardasigilli: GRANDI 
+ 
+Registrato alla Corte dei conti, addi' 18 gennaio 1943-XXI 
+Atti del Governo, registro 453. foglio 91. - MANCINI

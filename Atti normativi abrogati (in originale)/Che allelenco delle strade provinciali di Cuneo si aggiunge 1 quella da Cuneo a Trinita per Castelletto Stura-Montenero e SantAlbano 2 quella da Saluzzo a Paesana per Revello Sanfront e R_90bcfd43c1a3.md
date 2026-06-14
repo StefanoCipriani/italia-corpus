@@ -1,16 +1,14 @@
-REGIO DECRETO 29 febbraio 1880 n. 5315
-
-
-REGIO DECRETO 29 febbraio 1880 n. 5315
-======================================
-
-Che all'elenco delle strade provinciali di Cuneo si aggiunge: 1° quella da Cuneo a Trinita' per Castelletto; Stura-Montenero e Sant'Albano; 2° quella da Saluzzo a Paesana per Revello, Sanfront e Rifreddo. (080U5315)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/04/1880
+---
+tipo: REGIO DECRETO
+numero: 5315
+data: 1880-02-29
+titolo: "Che all'elenco delle strade provinciali di Cuneo si aggiunge: 1° quella da Cuneo a Trinita' per Castelletto; Stura-Montenero e Sant'Albano; 2° quella da Saluzzo a Paesana per Revello, Sanfront e Rifreddo. (080U5315)"
+urn: urn:nir:stato:regio.decreto:1880-02-29;5315
+codice_redazionale: 080U5315
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONI
 
@@ -32,26 +30,19 @@ Ritenuto percio' che le summentovate due strade hanno indubbiamente i caratteri 
 
 Sentito il Consiglio superiore dei lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono aggiunte all'elenco delle strade provinciali di Cuneo quella da Cuneo a Trinita' per Castelletto-Stura-Montenero e Sant'Albano, e l'altra di Valle di Po da Saluzzo a Paesana per Revello-Sanfront-Rifreddo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 febbraio 1880.   
-  
-UMBERTO.   
-  
-A. Baccarini.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Sono aggiunte all'elenco delle strade provinciali di Cuneo quella da Cuneo a Trinita' per Castelletto-Stura-Montenero e Sant'Albano, e l'altra di Valle di Po da Saluzzo a Paesana per Revello-Sanfront-Rifreddo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 febbraio 1880. 
+ 
+ UMBERTO. 
+ 
+ A. Baccarini. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

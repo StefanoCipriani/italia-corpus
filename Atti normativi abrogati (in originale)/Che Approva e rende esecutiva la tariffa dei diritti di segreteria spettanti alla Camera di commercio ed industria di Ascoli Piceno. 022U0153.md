@@ -1,22 +1,20 @@
-REGIO DECRETO 02 febbraio 1922 n. 153
-
-
-REGIO DECRETO 02 febbraio 1922 n. 153
-=====================================
-
-Che Approva e rende esecutiva la tariffa dei diritti di segreteria spettanti alla Camera di commercio ed industria di Ascoli Piceno. (022U0153)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/03/1922
+---
+tipo: REGIO DECRETO
+numero: 153
+data: 1922-02-02
+titolo: "Che Approva e rende esecutiva la tariffa dei diritti di segreteria spettanti alla Camera di commercio ed industria di Ascoli Piceno. (022U0153)"
+urn: urn:nir:stato:regio.decreto:1922-02-02;153
+codice_redazionale: 022U0153
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la legge 20 marzo 1910 sull'ordinamento delle Camere di commercio ed industria del Regno ed il relativo regolamento approvato con il [R. decreto 19 febbraio 1911, n. 245](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-19;245);
+Vista la legge 20 marzo 1910 sull'ordinamento delle Camere di commercio ed industria del Regno ed il relativo regolamento approvato con il [R. decreto 19 febbraio 1911, n. 245](Che%20approva%20lannesso%20regolamento%20per%20lattuazione%20della%20legge%20sullordinamento%20delle%20Camere%20di%20commercio%20e%20industria.%20011U0245.md);
 
 Viste le deliberazioni 29 aprile 1914 e 29 giugno 1921, con le quali la Camera di commercio e industria di Ascoli Piceno ha approvata una tariffa dei diritti di segreteria ed il regolamento per la relativa applicazione;
 
@@ -24,50 +22,59 @@ Sentito il parere del Consiglio superiore del commercio;
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per l'industria e il commercio; Abbiamo decretalo e decretiamo
 
-proposta del Nostro ministro segretario di Stato per l'industria e il commercio; Abbiamo decretalo e decretiamo
-
-Art. 1
-------
+## Art. 1.
 
 E' approvata a resa esecutiva la seguente tariffa dei diritti di segreteria spettanti alla Camera di commercio e industria di Ascoli Piceno:
 
-1. Per ogni certificato L. 2,50.
+1.
 
-2. Per ogni copia di atti di ufficio L. 2,50.
+Per ogni certificato L. 2,50.
 
-3. Scritturazione di ogni pagina e parte di pagina L. 0,50.
+2.
 
-4. Legalizzazione di firma L. 2,50.
+Per ogni copia di atti di ufficio L. 2,50.
 
-5. Vidimazione di copie ed estratti d'ufficio L. 2,50.
+3.
 
-6. Esami di atti d'ufficio (escluso il registro delle Ditte), L.  
+Scritturazione di ogni pagina e parte di pagina L. 0,50.
+
+4.
+
+Legalizzazione di firma L. 2,50.
+
+5.
+
+Vidimazione di copie ed estratti d'ufficio L. 2,50.
+
+6.
+
+Esami di atti d'ufficio (escluso il registro delle Ditte), L.
 150.
 
-7. Iscrizione nel ruolo dei pubblici mediatori il 5% sull'ammontare della cauzione prestata.
+7.
 
-8. Iscrizione nei ruoli dei periti per materie commerciali L. 15.
+Iscrizione nel ruolo dei pubblici mediatori il 5% sull'ammontare della cauzione prestata.
 
-9. Iscrizione nei ruoli dei curatori di fallimento L. 15.
+8.
 
-Art. 2
-------
+Iscrizione nei ruoli dei periti per materie commerciali L. 15.
 
-  
-  
-  
-E' approvato il regolamento per l'applicazione dei diritti predetti, secondo l'annesso testo, visto e sottoscritto, d'ordine Nostro, dal ministro proponente.   
-  
-Ordiniamo che il presente decreto munito del sigillo dello Stato sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando e chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 febbraio 1922.   
-  
-VITTORIO EMANUELE.   
-  
-BELOTTI.   
-  
-Visto, il guardasigilli: RODINO'.   
-  
+9.
+
+Iscrizione nei ruoli dei curatori di fallimento L. 15.
+
+## Art. 2.
+
+E' approvato il regolamento per l'applicazione dei diritti predetti, secondo l'annesso testo, visto e sottoscritto, d'ordine Nostro, dal ministro proponente. 
+ 
+ Ordiniamo che il presente decreto munito del sigillo dello Stato sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando e chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 febbraio 1922. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ BELOTTI. 
+ 
+ Visto, il guardasigilli: RODINO'.

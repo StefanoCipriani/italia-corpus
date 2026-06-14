@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 02 agosto 1917 n. 1710
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1710
+data: 1917-08-02
+titolo: "Trasformazione di oneri di culto. (017U1710)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-08-02;1710
+codice_redazionale: 017U1710
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 02 agosto 1917 n. 1710
-==============================================
-
-Trasformazione di oneri di culto. (017U1710)
---------------------------------------------
-
-Entrata in vigore del provvedimento: 21/11/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1710. Decreto Luogotenenziale 2 agosto 1917, col quale, sulla proposta del ministro dell'interno, sono trasformati a favore dell'assistenza degli ammalati poveri a domicilio gli oneri di culto gravanti sulla Congregazione di San Filippo Neri in Parma, per l'importo complessivo di annue L. 4.414,11.
+1710.
+
+Decreto Luogotenenziale 2 agosto 1917, col quale, sulla proposta del ministro dell'interno, sono trasformati a favore dell'assistenza degli ammalati poveri a domicilio gli oneri di culto gravanti sulla Congregazione di San Filippo Neri in Parma, per l'importo complessivo di annue L. 4.414,11.

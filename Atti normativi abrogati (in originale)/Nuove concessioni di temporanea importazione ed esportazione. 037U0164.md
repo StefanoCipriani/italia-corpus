@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 15 febbraio 1937 n. 164
-
-
-REGIO DECRETO-LEGGE 15 febbraio 1937 n. 164
-===========================================
-
-Nuove concessioni di temporanea importazione ed esportazione. (037U0164)
-------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/03/1937.  
-Regio Decreto-Legge convertito dalla [L. 8 aprile 1937, n. 693](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-04-08;693) (in G.U. 24/05/1937, n.119).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 164
+data: 1937-02-15
+titolo: "Nuove concessioni di temporanea importazione ed esportazione. (037U0164)"
+urn: urn:nir:stato:regio.decreto.legge:1937-02-15;164
+codice_redazionale: 037U0164
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -19,77 +16,62 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il testo delle disposizioni sulle importazioni ed esportazioni temporanee, approvato con [R. decreto-legge 18 dicembre 1913, n. 1453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1913-12-18;1453), convertito nella [legge 17 aprile 1925, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni ed aggiunte, nonche' il relativo regolamento approvato con [R. decreto 6 aprile 1922, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-04-06;547), successivamente modificato;
+Visto il testo delle disposizioni sulle importazioni ed esportazioni temporanee, approvato con [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), e successive modificazioni ed aggiunte, nonche' il relativo regolamento approvato con [R. decreto 6 aprile 1922, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-04-06;547), successivamente modificato;
 
-Sentito il Comitato consultivo per le importazioni ed esportazioni temporanee, istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1313~art1), successivamente modificato;
+Sentito il Comitato consultivo per le importazioni ed esportazioni temporanee, istituito con l'[art. 1 del R. decreto 14 giugno 1923, n. 1313](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1313#art_1), successivamente modificato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Alle merci ammesse all'importazione temporanea per essere lavorate, giusta la tabella 1ª, annessa al [R. decreto-legge 18 dicembre 1913, n. 1453](Che%20approva%20il%20testo%20delle%20disposizioni%20sulle%20importazioni%20ed%20esportazioni%20temporanee%20e%20gli%20applica%20il%20titolo%20di%20Legge%20sulle%20importazioni%20ed%20esportazioni%20temporanee.%20013U1453.md), convertito nella [legge 17 aprile 1925, n. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), sono aggiunte le seguenti: 
+ 
+ Parte di provvedimento in formato grafico
 
-  
-  
-Alle merci ammesse all'importazione temporanea per essere lavorate, giusta la tabella 1ª, annessa al [R. decreto-legge 18 dicembre 1913, n. 1453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1913-12-18;1453), convertito nella [legge 17 aprile 1925, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), sono aggiunte le seguenti:   
-  
-Parte di provvedimento in formato grafico  
+## Art. 2.
 
-Art. 2
-------
+Sono ripristinate, per il periodo di tempo per ciascuna di esse indicato, le concessioni d'importazione temporanea, gia' accordate in via provvisoria, per i seguenti prodotti: 
+ 
+ a) Pali di legno: per essere sottoposti ad uno speciale processo di conservazione. 
+ 
+ La concessione e' valevole fino al 30 giugno 1938. 
+ 
+ ([R. decreto-legge 5 dicembre 1935, n. 2157](Nuove%20concessioni%20di%20temporanea%20importazione.%20035U2157.md), convertito nella [legge 25 maggio 1936, n. 1057](Conversione%20in%20legge%20del%20R.%20decreto-legge%205%20dicembre%201935-XIV%20n.%202157%20concernente%20nuove%20concessioni%20di%20temporanea%20importazione.%20036U1057.md)); 
+ 
+ b) Linters idrofilizzati: per la fabbricazione della fibra artificiale all'acetato di cellulosa. 
+ 
+ La concessione e' valevole fino al 31 dicembre 1938. 
+ 
+ ([R. decreto-legge 22 gennaio 1931, n. 66](Nuove%20concessioni%20di%20temporanea%20importazione%20ed%20esportazione.%20031U0066.md), convertito nella [legge 9 aprile 1931, n. 455](Conversione%20in%20legge%20del%20R.%20decreto-legge%2022%20gennaio%201931%20n%2066%20che%20ammette%20nuove%20merci%20al%20beneficio%20della%20temporanea%20importazione%20ed%20esportazione%20per%20essere%20lavorate.%20031U0455.md), successivamente prorogata); 
+ 
+ c) Caffe' crudo: per essere torrefatto e confezionato in scatole di latta. 
+ 
+ La concessione e' valevole fino al 28 febbraio 1938. 
+ 
+ ([R. decreto-legge 12 aprile 1934, n. 656](Nuove%20concessioni%20di%20temporanea%20importazione.%20034U0656.md), convertito nella [legge 14 giugno 1934, n. 1006](Conversione%20in%20legge%20del%20R.%20decreto-legge%2012%20aprile%201934%20n.%20656%20concernente%20nuove%20concessioni%20in%20materia%20di%20importazioni%20temporanee.%20034U1006.md), successivamente prorogata).
 
-  
-  
-Sono ripristinate, per il periodo di tempo per ciascuna di esse indicato, le concessioni d'importazione temporanea, gia' accordate in via provvisoria, per i seguenti prodotti:   
-  
-a) Pali di legno: per essere sottoposti ad uno speciale processo di conservazione.   
-  
-La concessione e' valevole fino al 30 giugno 1938.   
-  
-([R. decreto-legge 5 dicembre 1935, n. 2157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-12-05;2157), convertito nella [legge 25 maggio 1936, n. 1057](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-05-25;1057));   
-  
-b) Linters idrofilizzati: per la fabbricazione della fibra artificiale all'acetato di cellulosa.   
-  
-La concessione e' valevole fino al 31 dicembre 1938.   
-  
-([R. decreto-legge 22 gennaio 1931, n. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-01-22;66), convertito nella [legge 9 aprile 1931, n. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-04-09;455), successivamente prorogata);   
-  
-c) Caffe' crudo: per essere torrefatto e confezionato in scatole di latta.   
-  
-La concessione e' valevole fino al 28 febbraio 1938.   
-  
-([R. decreto-legge 12 aprile 1934, n. 656](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-04-12;656), convertito nella [legge 14 giugno 1934, n. 1006](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-06-14;1006), successivamente prorogata).   
+## Art. 3.
 
-Art. 3
-------
+Il termine massimo per la riesportazione del vermut fabbricato con alcool temporaneamente importato e' stabilito in un anno.
 
-  
-  
-Il termine massimo per la riesportazione del vermut fabbricato con alcool temporaneamente importato e' stabilito in un anno.   
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Il presente decreto entrera' in vigore lo stesso giorno della sua pubblicazione nella Gazzetta Ufficiale e sara' presentato al Parlamento per la conversione in legge.   
-  
-Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge di conversione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 15 febbraio 1937 - Anno XV   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 1° marzo 1937 - Anno XV   
-  
-Atti del Governo, registro 383, foglio 2. - Mancini.   
+Il presente decreto entrera' in vigore lo stesso giorno della sua pubblicazione nella Gazzetta Ufficiale e sara' presentato al Parlamento per la conversione in legge. 
+ 
+ Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge di conversione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 15 febbraio 1937 - Anno XV 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 1° marzo 1937 - Anno XV 
+ 
+ Atti del Governo, registro 383, foglio 2. - Mancini.

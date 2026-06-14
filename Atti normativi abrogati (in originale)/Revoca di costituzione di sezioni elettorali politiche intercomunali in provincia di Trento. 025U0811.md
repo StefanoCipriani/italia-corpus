@@ -1,16 +1,14 @@
-REGIO DECRETO 14 maggio 1925 n. 811
-
-
-REGIO DECRETO 14 maggio 1925 n. 811
-===================================
-
-Revoca di costituzione di sezioni elettorali politiche intercomunali in provincia di Trento. (025U0811)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/06/1925
+---
+tipo: REGIO DECRETO
+numero: 811
+data: 1925-05-14
+titolo: "Revoca di costituzione di sezioni elettorali politiche intercomunali in provincia di Trento. (025U0811)"
+urn: urn:nir:stato:regio.decreto:1925-05-14;811
+codice_redazionale: 025U0811
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -42,33 +40,26 @@ Viste le seguenti proposte fatte dalla Commissione elettorale provinciale di Tre
 
 Considerato che le su cennate proposte sono state adottate dalla Commissione elettorale provinciale di ufficio, in base alle risultanze della revisione delle liste elettorali per l'anno corrente;
 
-Visto l'art. 29 della legge elettorale politica, [testo unico 13 dicembre 1923, n. 2694](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-13;2694);
+Visto l'art. 29 della legge elettorale politica, [testo unico 13 dicembre 1923, n. 2694](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-13;2694);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono revocati i decreti sopra citati del Commissario generale civile di Trento, coi quali gli elettori politici di Millan-Sarnes furono aggregati a Bressanone, quelli di Lodrone a Darzo, quelli di Issengo a Falzes, quelli di Salter-Malgolo a Romeno.   
-  
-E' pure revocato il decreto sopra citato in data 27 gennaio 1921 del Commissario generale civile di Trento, per quanto riguarda l'assegnazione a Campodenno degli elettori politici di Lover.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 maggio 1925.   
-  
-VITTORIO EMANUELE.   
-  
-Federzoni.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 6 giugno 1925.   
-  
-Atti del Governo, registro 237, foglio 30. - Granata.   
-  
+Sono revocati i decreti sopra citati del Commissario generale civile di Trento, coi quali gli elettori politici di Millan-Sarnes furono aggregati a Bressanone, quelli di Lodrone a Darzo, quelli di Issengo a Falzes, quelli di Salter-Malgolo a Romeno. 
+ 
+ E' pure revocato il decreto sopra citato in data 27 gennaio 1921 del Commissario generale civile di Trento, per quanto riguarda l'assegnazione a Campodenno degli elettori politici di Lover. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 maggio 1925. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Federzoni. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 6 giugno 1925. 
+ 
+ Atti del Governo, registro 237, foglio 30. - Granata.

@@ -1,17 +1,17 @@
-REGIO DECRETO 18 aprile 1920 n. 744
+---
+tipo: REGIO DECRETO
+numero: 744
+data: 1920-04-18
+titolo: "Erezione in ente morale. (020U0744)"
+urn: urn:nir:stato:regio.decreto:1920-04-18;744
+codice_redazionale: 020U0744
+vigente: true
+---
 
-
-REGIO DECRETO 18 aprile 1920 n. 744
-===================================
-
-Erezione in ente morale. (020U0744)
------------------------------------
-
-Entrata in vigore del provvedimento: 03/07/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-744. Regio decreto 18 aprile 1920, col quale, sulla proposta del ministro dell'istruzione pubblica, il Consorzio delle scuole professionali per la maestranza marittima, con sede in Roma, viene eretto in ente morale e ne e' approvato lo statuto organico relativo.
+744.
+
+Regio decreto 18 aprile 1920, col quale, sulla proposta del ministro dell'istruzione pubblica, il Consorzio delle scuole professionali per la maestranza marittima, con sede in Roma, viene eretto in ente morale e ne e' approvato lo statuto organico relativo.

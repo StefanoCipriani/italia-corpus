@@ -1,28 +1,23 @@
-REGIO DECRETO 20 novembre 1897 n. 535
+---
+tipo: REGIO DECRETO
+numero: 535
+data: 1897-11-20
+titolo: "Che dichiara monumento nazionale il ponte degli Alidosi in Castel del Rio. (097U0535)"
+urn: urn:nir:stato:regio.decreto:1897-11-20;535
+codice_redazionale: 097U0535
+vigente: true
+---
 
+## Articolo unico.
 
-REGIO DECRETO 20 novembre 1897 n. 535
-=====================================
-
-Che dichiara monumento nazionale il ponte degli Alidosi in Castel del Rio. (097U0535)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/01/1898
-
-Articolo unico
---------------
-
-  
-  
-Il ponte degli Alidosi, in Castel del Rio, e' dichiarato monumento nazionale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 20 novembre 1897.   
-  
-UMBERTO.   
-  
-Codronchi.   
-  
-Visto, Il Guardasigilli: G. Zanardelli.   
-  
+Il ponte degli Alidosi, in Castel del Rio, e' dichiarato monumento nazionale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 20 novembre 1897. 
+ 
+ UMBERTO. 
+ 
+ Codronchi. 
+ 
+ Visto, Il Guardasigilli: G. Zanardelli.

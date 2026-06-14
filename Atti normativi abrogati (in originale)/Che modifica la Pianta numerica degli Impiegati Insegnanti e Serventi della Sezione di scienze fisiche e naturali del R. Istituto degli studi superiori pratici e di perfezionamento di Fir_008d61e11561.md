@@ -1,16 +1,14 @@
-REGIO DECRETO 22 settembre 1866 n. 3241
-
-
-REGIO DECRETO 22 settembre 1866 n. 3241
-=======================================
-
-Che modifica la Pianta numerica degli Impiegati, Insegnanti e Serventi della Sezione di scienze fisiche e naturali del R. Istituto degli studi superiori pratici e di perfezionamento di Firenze. (066U3241)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1866
+---
+tipo: REGIO DECRETO
+numero: 3241
+data: 1866-09-22
+titolo: "Che modifica la Pianta numerica degli Impiegati, Insegnanti e Serventi della Sezione di scienze fisiche e naturali del R. Istituto degli studi superiori pratici e di perfezionamento di Firenze. (066U3241)"
+urn: urn:nir:stato:regio.decreto:1866-09-22;3241
+codice_redazionale: 066U3241
+vigente: true
+---
 
 EUGENIO
--------
 
 PRINCIPE DI SAVOJA-CARIGNANO
 
@@ -32,30 +30,22 @@ Visti i provvedimenti dati dal Ministero della pubblica Istruzione, con cui la d
 
 Considerando inoltre per questo nuovo ordinamento essere conveniente l'ufficio di un Assistente in luogo di un Professore aggregato per la meteorologia;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Pianta preaccennata del Personale della Sezione di scienze naturali e fisiche del Regio Istituto di studi superiori pratici e di perfezionamento di Firenze, approvata col R. Decreto 28 agosto 1864, e' modificata nel senso che in luogo di un Professore aggregato per la meteorologia con lo stipendio di lire duemila cento-ottantaquattro vi sia un Assistente di meteorologia coll'annuo stipendio di lire 1,800 (mille ottocento).   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 22 settembre 1866.   
-  
-EUGENIO DI SAVOJA   
-  
-Registrato alla Corte dei conti addi' 3 ottobre 1866   
-  
-Reg.° 37 Atti del Governo a c. 143. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Borgatti.   
-  
-Berti.   
-  
-  
+La Pianta preaccennata del Personale della Sezione di scienze naturali e fisiche del Regio Istituto di studi superiori pratici e di perfezionamento di Firenze, approvata col R. Decreto 28 agosto 1864, e' modificata nel senso che in luogo di un Professore aggregato per la meteorologia con lo stipendio di lire duemila cento-ottantaquattro vi sia un Assistente di meteorologia coll'annuo stipendio di lire 1,800 (mille ottocento). 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 22 settembre 1866. 
+ 
+ EUGENIO DI SAVOJA 
+ 
+ Registrato alla Corte dei conti addi' 3 ottobre 1866 
+ 
+ Reg.° 37 Atti del Governo a c. 143. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ Berti.

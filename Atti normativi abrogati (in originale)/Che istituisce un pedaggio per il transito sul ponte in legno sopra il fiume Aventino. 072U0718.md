@@ -1,16 +1,14 @@
-REGIO DECRETO 25 febbraio 1872 n. 718
-
-
-REGIO DECRETO 25 febbraio 1872 n. 718
-=====================================
-
-Che istituisce un pedaggio per il transito sul ponte in legno sopra il fiume Aventino. (072U0718)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/04/1872
+---
+tipo: REGIO DECRETO
+numero: 718
+data: 1872-02-25
+titolo: "Che istituisce un pedaggio per il transito sul ponte in legno sopra il fiume Aventino. (072U0718)"
+urn: urn:nir:stato:regio.decreto:1872-02-25;718
+codice_redazionale: 072U0718
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -36,116 +34,22 @@ Che trattandosi di un esperimento provvisorio il termine di dieci anni e' ancora
 
 Udito l'avviso del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E approvata l'instituzione per un triennio di un pedaggio per il transito sul ponte in legno eretto sopra il fiume Aventino, quale pedaggio si riscuotera' a favore della Provincia di Chieti (Abruzzo Citeriore) in base alla Tariffa qui unita, vista ed approvata d'ordine Nostro dal predetto Ministro.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 25 febbraio 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 12 marzo 1872   
-  
-Reg. 60 Atti del Governo a c. 22 D. Gherardi.   
-  
-Luogo del sigillo. V. Il Guardasigilli Di Falco.   
-  
-G. Devincezi.   
-  
-
-Tariffa-art. 1
-
-  
-TARIFFA   
-  
-delle tasse di pedaggio sul ponte in legno sull'Aventino di Chieti.   
-  
-Art. 1.   
-  
-Per un veicolo si paghera' una tassa di centesimi quindici per ciascuna ruota, e di centesimi quindici per ciascun cavallo attaccato al medesimo:   
-  
-dal pagamento del pedaggio sara' escluso il conduttore, ma non i passeggieri.   
-  
-
-Tariffa-art. 2
-
-  
-2.   
-  
-Per una bestia da soma carica, compreso il conduttore lire 0.30   
-  
-
-Tariffa-art. 3
-
-  
-3.   
-  
-Per un animale grande, senza soma, o con soma scarica, cavallo, mulo, asino, bove, vacca, e simili lire 0.25   
-  
-
-Tariffa-art. 4
-
-  
-4.   
-  
-Per un animale piccolo, come pecora, capra, maiale e simili lire 0.05   
-  
-
-Tariffa-art. 5
-
-  
-Art. 5.   
-  
-Per un pedone uomo, donna o ragazzo lire 0.10   
-  
-
-Tariffa-art. 6
-
-  
-6.   
-  
-Per gli animali grandi e piccoli, che transitano a mandre, sara' pagato pei primi ad ogni 10 o frazioni di dieci lire 2.00   
-  
-Per i secondi ad ogni cento o frazioni di cento lire 3.00   
-  
-
-Tariffa-art. 7
-
-  
-7.   
-  
-I pedoni, gli animali ed i veicoli, che passati sul ponte ritornano nelle ventinquattro ore consecutive, pagano una volta sola.   
-  
-
-Tariffa-art. 8
-
-  
-8.   
-  
-Sono esenti dal pagamento del pedaggio i membri della famiglia Reale e le persone ed equipaggi addetti al seguito della medesima, come pure gl'impiegati del Genio civile governativo, gli Ufficiali tecnici della Provincia, i Reali Carabinieri, le Guardie di pubblica sicurezza, doganali e forestali, quando queste persone hanno bisogno di transitare per causa del proprio ufficio.   
-  
-Inoltre sono esenti gli operai incaricati del mantenimento e riparazione del piano carreggiabile del ponte durante l'esecuzione di detti lavori.   
-  
-
-Tariffa-art. 9
-
-  
-9.   
-  
-La durata di tale pedaggio sara' per ora limitata a soli tre anni, salvo a protrarla, allorche' verra' accertato quanto possa far d'uopo per riuscire possibilmente alla indennizzazione della spesa incontrata dalla Provincia per la costruzione del ponte in parola.   
-  
-Visto d'ordine di S. M.   
-  
-Il Ministro Segretario di Stato pei Lavori Pubblici   
-G. DEVINCENZI.   
-  
+E approvata l'instituzione per un triennio di un pedaggio per il transito sul ponte in legno eretto sopra il fiume Aventino, quale pedaggio si riscuotera' a favore della Provincia di Chieti (Abruzzo Citeriore) in base alla Tariffa qui unita, vista ed approvata d'ordine Nostro dal predetto Ministro. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 25 febbraio 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 12 marzo 1872 
+ 
+ Reg. 60 Atti del Governo a c. 22 D. Gherardi. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Di Falco. 
+ 
+ G. Devincezi.

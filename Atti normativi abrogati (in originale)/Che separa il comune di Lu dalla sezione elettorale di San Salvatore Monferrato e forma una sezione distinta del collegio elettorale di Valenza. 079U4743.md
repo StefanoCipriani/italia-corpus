@@ -1,16 +1,14 @@
-REGIO DECRETO 13 febbraio 1879 n. 4743
-
-
-REGIO DECRETO 13 febbraio 1879 n. 4743
-======================================
-
-Che separa il comune di Lu' dalla sezione elettorale di San Salvatore Monferrato, e forma una sezione distinta del collegio elettorale di Valenza. (079U4743)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/03/1879
+---
+tipo: REGIO DECRETO
+numero: 4743
+data: 1879-02-13
+titolo: "Che separa il comune di Lu' dalla sezione elettorale di San Salvatore Monferrato, e forma una sezione distinta del collegio elettorale di Valenza. (079U4743)"
+urn: urn:nir:stato:regio.decreto:1879-02-13;4743
+codice_redazionale: 079U4743
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Che Lu dista da San Salvatore Monferrato chilom. 6 038, e che la strada e' malag
 
 Considerato che istituendo una sezione elettorale in quel comune si rende piu' facile l'esercizio del diritto elettorale ad un ragguardevole numero di elettori;
 
-Sulla
------
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Lu e' separato dalla sezione elettorale di San Salvatore Monferrato, e formera' una sezione distinta del Collegio elettorale di Valenza.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 febbraio 1879.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
+Il comune di Lu e' separato dalla sezione elettorale di San Salvatore Monferrato, e formera' una sezione distinta del Collegio elettorale di Valenza. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 febbraio 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.

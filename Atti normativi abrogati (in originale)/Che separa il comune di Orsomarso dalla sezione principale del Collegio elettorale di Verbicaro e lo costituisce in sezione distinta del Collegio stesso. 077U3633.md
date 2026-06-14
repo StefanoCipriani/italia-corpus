@@ -1,16 +1,14 @@
-REGIO DECRETO 18 gennaio 1877 n. 3633
-
-
-REGIO DECRETO 18 gennaio 1877 n. 3633
-=====================================
-
-Che separa il comune di Orsomarso dalla sezione principale del Collegio elettorale di Verbicaro e lo costituisce in sezione distinta del Collegio stesso. (077U3633)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/02/1877
+---
+tipo: REGIO DECRETO
+numero: 3633
+data: 1877-01-18
+titolo: "Che separa il comune di Orsomarso dalla sezione principale del Collegio elettorale di Verbicaro e lo costituisce in sezione distinta del Collegio stesso. (077U3633)"
+urn: urn:nir:stato:regio.decreto:1877-01-18;3633
+codice_redazionale: 077U3633
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri,
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Orsomarso e' separato dalla sezione principale del Collegio elettorale di Verbicaro e formera' una sezione distinta dello stesso Collegio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 gennaio l877.   
-  
-VITTORIO EMANUELE   
-  
-G. Nicotera.   
-  
+Il comune di Orsomarso e' separato dalla sezione principale del Collegio elettorale di Verbicaro e formera' una sezione distinta dello stesso Collegio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 gennaio l877. 
+ 
+ VITTORIO EMANUELE 
+ 
+ G. Nicotera.

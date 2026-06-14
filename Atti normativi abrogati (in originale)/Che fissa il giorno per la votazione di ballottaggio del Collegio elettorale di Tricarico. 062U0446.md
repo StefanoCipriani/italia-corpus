@@ -1,16 +1,14 @@
-REGIO DECRETO 30 gennaio 1862 n. 446
-
-
-REGIO DECRETO 30 gennaio 1862 n. 446
-====================================
-
-Che fissa il giorno per la votazione di ballottaggio del Collegio elettorale di Tricarico. (062U0446)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/02/1862
+---
+tipo: REGIO DECRETO
+numero: 446
+data: 1862-01-30
+titolo: "Che fissa il giorno per la votazione di ballottaggio del Collegio elettorale di Tricarico. (062U0446)"
+urn: urn:nir:stato:regio.decreto:1862-01-30;446
+codice_redazionale: 062U0446
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Veduti i Dispacci del Prefetto di Basilicata, secondo i quali, lo spoglio della 
 
 Veduti gli articoli 63 e 92 della legge elettorale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La votazione di ballottaggio del Collegio elettorale di Tricarico n.° 54 fissata col precedente Nostro Decreto in data 5 corrente pel giorno 19, avra' luogo il giorno 16 dell'imminente febbraio.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Torino addi' 30 gennaio 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 7 febbraio 1862   
-  
-Reg.° 19 Atti del Governo a c. 42. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Miglietti.   
-  
-Ricasoli.   
-  
+La votazione di ballottaggio del Collegio elettorale di Tricarico n.° 54 fissata col precedente Nostro Decreto in data 5 corrente pel giorno 19, avra' luogo il giorno 16 dell'imminente febbraio. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Torino addi' 30 gennaio 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 7 febbraio 1862 
+ 
+ Reg.° 19 Atti del Governo a c. 42. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Miglietti. 
+ 
+ Ricasoli.

@@ -1,19 +1,15 @@
-REGIO DECRETO 20 ottobre 1905 n. CCCXLI
+---
+tipo: REGIO DECRETO
+numero: CCCXLI
+data: 1905-10-20
+titolo: "Erezione in ente morale. (0500341R)"
+urn: urn:nir:stato:regio.decreto:1905-10-20;341
+codice_redazionale: 0500341R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 ottobre 1905 n. CCCXLI
-=======================================
-
-Erezione in ente morale. (0500341R)
------------------------------------
-
-Entrata in vigore del provvedimento: 05/12/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCXLI (Dato a Racconigi, il 20 ottobre 1905), col quale l'Istituto nazionale «Umberto I», per le orfane degli impiegati civili dello Stato, e' eretto in ente morale e ne e' approvato lo statuto organico.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCXLI (Dato a Racconigi, il 20 ottobre 1905), col quale l'Istituto nazionale «Umberto I», per le orfane degli impiegati civili dello Stato, e' eretto in ente morale e ne e' approvato lo statuto organico.

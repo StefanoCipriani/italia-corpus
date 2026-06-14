@@ -1,16 +1,14 @@
-REGIO DECRETO 22 luglio 1886 n. 4000
-
-
-REGIO DECRETO 22 luglio 1886 n. 4000
-====================================
-
-Che autorizza il comune di Alassio ad esigere un dazio di consumo sull'amido. (086U4000)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/08/1886
+---
+tipo: REGIO DECRETO
+numero: 4000
+data: 1886-07-22
+titolo: "Che autorizza il comune di Alassio ad esigere un dazio di consumo sull'amido. (086U4000)"
+urn: urn:nir:stato:regio.decreto:1886-07-22;4000
+codice_redazionale: 086U4000
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,29 +20,22 @@ Visto il Nostro decreto del 2 ottobre 1881, n. 431;
 
 Visto il parere, in merito a detta tassazione, emesso dalla Camera di commercio ed arti di Savona nel giorno 27 marzo 1886;
 
-Visto l'art. 11 dell'allegato L alla [legge 11 agosto 1870, n. 5784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784);
+Visto l'art. 11 dell'allegato L alla [legge 11 agosto 1870, n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md);
 
 Udito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Alassio e' autorizzato ad esigere un dazio di consumo sull'amido in ragione di lire cinque al quintale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Milano, addi' 22 luglio 1886.   
-  
-UMBERTO.   
-  
-A.Magliani.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+Il comune di Alassio e' autorizzato ad esigere un dazio di consumo sull'amido in ragione di lire cinque al quintale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Milano, addi' 22 luglio 1886. 
+ 
+ UMBERTO. 
+ 
+ A.Magliani. 
+ 
+ Visto, Il Guardasigilli: Tajani.

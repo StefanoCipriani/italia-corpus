@@ -1,16 +1,14 @@
-REGIO DECRETO-LEGGE 30 novembre 1942 n. 1650
-
-
-REGIO DECRETO-LEGGE 30 novembre 1942 n. 1650
-============================================
-
-Assunzione a carico del bilancio dello Stato dell'onere derivante dal maggior costo del latte alimentare importato da altre Provincie e dai Comuni della penisola Sorrentina per l'approvvigionamento del comune di Napoli. (042U1650)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/01/1943. Regio Decreto-Legge convertito dalla [L. 29 marzo 1943, n. 293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-03-29;293) (in G.U. 05/05/1943, n.104).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1650
+data: 1942-11-30
+titolo: "Assunzione a carico del bilancio dello Stato dell'onere derivante dal maggior costo del latte alimentare importato da altre Provincie e dai Comuni della penisola Sorrentina per l'approvvigionamento del comune di Napoli. (042U1650)"
+urn: urn:nir:stato:regio.decreto.legge:1942-11-30;1650
+codice_redazionale: 042U1650
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,34 +28,28 @@ Ritenuta la necessita' di integrare le disposizioni di cui al R. decreto-legge 4
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e per le foreste, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'agricoltura e per le foreste, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le disposizioni di cui al R. decreto-legge 4 marzo 1942-XX, n. 320, hanno applicazione con decorrenza 1° settembre 1941-XIX e sino al cessare del maggior costo delle importazioni del latte alimentare per l'approvvigionamento del comune di Napoli, nel periodo di efficacia del blocco dei prezzi di cui al R. decreto-legge 19 giugno 1940-XVIII, n. 953, convertito con modificazioni nella legge 28 novembre 1940-XIX, numero 1727, ed al R. decreto-legge 12 marzo 1941-XIX, n. 142, anche per le importazioni dai Comuni della penisola Sorrentina.   
-  
-Il presente decreto entra in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato alle Assemblee legislative per la conversione in legge.   
-  
-Il Ministro proponente e' autorizzato alla presentazione del relativo disegno dl legge.   
-  
-Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 30 novembre 1942-XXI   
-  
-VITTORIO EMANUELE   
-  
-  
-MUSSOLINI - PARESCHI - DI REVEL   
-  
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte del conti, addi' 21 gennaio 1943-XXI   
-  
-Atti del Governo, registro 453, foglio 105. - MANCINI   
+Le disposizioni di cui al R. decreto-legge 4 marzo 1942-XX, n. 320, hanno applicazione con decorrenza 1° settembre 1941-XIX e sino al cessare del maggior costo delle importazioni del latte alimentare per l'approvvigionamento del comune di Napoli, nel periodo di efficacia del blocco dei prezzi di cui al R. decreto-legge 19 giugno 1940-XVIII, n. 953, convertito con modificazioni nella legge 28 novembre 1940-XIX, numero 1727, ed al R. decreto-legge 12 marzo 1941-XIX, n. 142, anche per le importazioni dai Comuni della penisola Sorrentina. 
+ 
+Il presente decreto entra in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato alle Assemblee legislative per la conversione in legge. 
+ 
+Il Ministro proponente e' autorizzato alla presentazione del relativo disegno dl legge. 
+ 
+Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+Dato a Roma, addi' 30 novembre 1942-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ 
+ MUSSOLINI - PARESCHI - DI REVEL 
+ 
+ 
+Visto, il Guardasigilli: GRANDI 
+ 
+Registrato alla Corte del conti, addi' 21 gennaio 1943-XXI 
+ 
+Atti del Governo, registro 453, foglio 105. - MANCINI

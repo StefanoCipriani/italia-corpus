@@ -1,16 +1,14 @@
-REGIO DECRETO 09 dicembre 1861 n. 355
-
-
-REGIO DECRETO 09 dicembre 1861 n. 355
-=====================================
-
-Col quale e' delegata ai Prefetti delle Provincie Napolitane la facolta' di approvare le deliberazioni dei Consigli comunali circa i dazii, le privative e le imposte da stabilirsi per sopperire alle spese per l'anno 1862. (061U0355)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/12/1861
+---
+tipo: REGIO DECRETO
+numero: 355
+data: 1861-12-09
+titolo: "Col quale e' delegata ai Prefetti delle Provincie Napolitane la facolta' di approvare le deliberazioni dei Consigli comunali circa i dazii, le privative e le imposte da stabilirsi per sopperire alle spese per l'anno 1862. (061U0355)"
+urn: urn:nir:stato:regio.decreto:1861-12-09;355
+codice_redazionale: 061U0355
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Considerato che la ristrettezza del tempo non permette di sottoporre alla Nostra
 
 Ritenuta l'urgenza di provvedere prontamente alla sistemazione dei bilanci dei Comuni di quelle Provincie per l'anno suddetto, e l'impossibilita' di sopprimere ad un tratto tutti i dazii e le imposte comunali cola' in uso;
 
-Sentito
--------
+Sentito il parere del Consiglio di Stato; Abbiamo ordinato ed ordiniamo quanto segue:
 
-il parere del Consiglio di Stato; Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' delegata ai Prefetti delle Provincie Napolitane la facolta' di approvare, previo il parere del Consiglio di Prefettura, le deliberazioni dei Consigli comunali concernenti i dazii, le privative e le imposte da stabilirsi per far fronte alle spese necessarie da stanziarsi nei bilanci di quei Comuni per l'anno 1862.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 9 dicembre 1861.   
-  
-VITTORIO EMANUELE.   
-  
-Pietro Bastogi.   
-  
+E' delegata ai Prefetti delle Provincie Napolitane la facolta' di approvare, previo il parere del Consiglio di Prefettura, le deliberazioni dei Consigli comunali concernenti i dazii, le privative e le imposte da stabilirsi per far fronte alle spese necessarie da stanziarsi nei bilanci di quei Comuni per l'anno 1862. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 9 dicembre 1861. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Pietro Bastogi.

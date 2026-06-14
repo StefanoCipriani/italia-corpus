@@ -1,21 +1,21 @@
-REGIO DECRETO 09 marzo 1924 n. 405
+---
+tipo: REGIO DECRETO
+numero: 405
+data: 1924-03-09
+titolo: "Modificazioni alle tabelle organiche del personale delle scuole medie e normali governative in dipendenza della regificazione del ginnasio Bartolomeo Zucchi, in Monza. (024U0405)"
+urn: urn:nir:stato:regio.decreto:1924-03-09;405
+codice_redazionale: 024U0405
+vigente: true
+---
 
-
-REGIO DECRETO 09 marzo 1924 n. 405
-==================================
-
-Modificazioni alle tabelle organiche del personale delle scuole medie e normali governative in dipendenza della regificazione del ginnasio Bartolomeo Zucchi, in Monza. (024U0405)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/04/1924
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-405. R. decreto 9 marzo 1924, col quale, sulla proposta del Ministro per la pubblica istruzione, vengono apportate modificazioni alle tabelle organiche del personale delle scuole medie e normali governative in dipendenza della regificazione del ginnasio Bartolomeo Zucchi di Monza   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 1° aprile 1924.
+405.
+
+R. decreto 9 marzo 1924, col quale, sulla proposta del Ministro per la pubblica istruzione, vengono apportate modificazioni alle tabelle organiche del personale delle scuole medie e normali governative in dipendenza della regificazione del ginnasio Bartolomeo Zucchi di Monza 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 1° aprile 1924.

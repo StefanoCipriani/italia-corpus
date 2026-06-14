@@ -1,16 +1,14 @@
-REGIO DECRETO 30 aprile 1865 n. MDCIII
-
-
-REGIO DECRETO 30 aprile 1865 n. MDCIII
-======================================
-
-Che dichiara opera di utilita' pubblica il prosciugamento dei terreni paludosi posti nel primo Circondario idraulico consorziale di Ferrara. (6501603R)
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/06/1865
+---
+tipo: REGIO DECRETO
+numero: MDCIII
+data: 1865-04-30
+titolo: "Che dichiara opera di utilita' pubblica il prosciugamento dei terreni paludosi posti nel primo Circondario idraulico consorziale di Ferrara. (6501603R)"
+urn: urn:nir:stato:regio.decreto:1865-04-30;1603
+codice_redazionale: 6501603R
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,47 +32,32 @@ Ritenuta l'utilita' pubblica dell'opera per mezzo della quale viene ad essere mi
 
 Ritenuto non esservi motivo a dubitare pel buon risultamento della bonificazione;
 
-Sulla
------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' dichiarata opera interessante l'utilita' pubblica il prosciugamento dei terreni paludosi posti nel primo Circondario idraulico consorziale di Ferrara, giusta il progetto del 31 maggio 1864 dell'Ingegnere Conte Francesco Magnone, stato approvato dalla Prefettura in Ferrara il giorno 28 aprile 1865 a forma della facolta' concessale dall'art. 97 della Legge 20 novembre 1859, n.° 3754.
 
-  
-  
-E' dichiarata opera interessante l'utilita' pubblica il prosciugamento dei terreni paludosi posti nel primo Circondario idraulico consorziale di Ferrara, giusta il progetto del 31 maggio 1864 dell'Ingegnere Conte Francesco Magnone, stato approvato dalla Prefettura in Ferrara il giorno 28 aprile 1865 a forma della facolta' concessale dall'art. 97 della Legge 20 novembre 1859, n.° 3754.   
+## Art. 2.
 
-Art. 2
-------
+Sono autorizzate le occupazioni di terreno tanto temporanee, quante permanenti, che si renderanno necessarie per l'eseguimento dell'opera di bonificamento di cui si tratta, osservate le regole in vigore per l'espropriazione per causa di utilita' pubblica.
 
-  
-  
-Sono autorizzate le occupazioni di terreno tanto temporanee, quante permanenti, che si renderanno necessarie per l'eseguimento dell'opera di bonificamento di cui si tratta, osservate le regole in vigore per l'espropriazione per causa di utilita' pubblica.   
+## Art. 3.
 
-Art. 3
-------
+Sono esclusi dall'espropriazione forzosa, e da ogni contribuenza per effetto dell'opera citata i terreni, che non hanno i caratteri richiesti dall'art. 97 della Legge mentovata.
 
-  
-  
-Sono esclusi dall'espropriazione forzosa, e da ogni contribuenza per effetto dell'opera citata i terreni, che non hanno i caratteri richiesti dall'art. 97 della Legge mentovata.   
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-E' in facolta' dei proprietarii che accettano la vendita dei loro terreni vallivi, o di aderire ai prezzi stabiliti nella notificazione del 27 maggio 1864 della Societa' Aventi, ovvero di seguire le norme di stima prescritte dalla Legge sull' espropriazione per causa di pubblica utilita'.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 30 aprile 1865.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 11 maggio 1865   
-Reg.° 32 Atti del Governo a c. 290. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli VACCA.   
-  
-TORELLI.   
+E' in facolta' dei proprietarii che accettano la vendita dei loro terreni vallivi, o di aderire ai prezzi stabiliti nella notificazione del 27 maggio 1864 della Societa' Aventi, ovvero di seguire le norme di stima prescritte dalla Legge sull' espropriazione per causa di pubblica utilita'. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 30 aprile 1865. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 11 maggio 1865 
+ Reg.° 32 Atti del Governo a c. 290. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli VACCA. 
+ 
+ TORELLI.

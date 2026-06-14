@@ -1,16 +1,14 @@
-REGIO DECRETO 09 aprile 1896 n. 96
-
-
-REGIO DECRETO 09 aprile 1896 n. 96
-==================================
-
-Che istituisce nel Comune di Montecorvino Pugliano (Salerno) un secondo Ufficio distinto di conciliazione con sede nella frazione di Pontecagnano (096U0096)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/05/1896
+---
+tipo: REGIO DECRETO
+numero: 96
+data: 1896-04-09
+titolo: "Che istituisce nel Comune di Montecorvino Pugliano (Salerno) un secondo Ufficio distinto di conciliazione con sede nella frazione di Pontecagnano (096U0096)"
+urn: urn:nir:stato:regio.decreto:1896-04-09;96
+codice_redazionale: 096U0096
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Viste le deliberazioni del Consiglio Comunale di Montecorvino Pugliano, in data 
 
 Vista la proposta del Primo Presidente della Corte d'Appello di Napoli;
 
-Visti gli articoli 1° della [legge 16 giugno 1892 n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;261), e 1° del relativo regolamento approvato con Regio decreto 26 dicembre stesso anno, n. 728;
+Visti gli articoli 1° della [legge 16 giugno 1892 n. 261](Sui%20conciliatori.%20092U0261.md), e 1° del relativo regolamento approvato con Regio decreto 26 dicembre stesso anno, n. 728;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal 1° giugno 1896 nel Comune di Montecorvino Pugliano e' istituito un secondo Ufficio distinto di conciliazione con sede nella frazione di Pontecagnano e con giurisdizione sulle frazioni di Fajano e Pontecagnano, dipendenti dal detto Comune.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 aprile 1896.   
-  
-UMBERTO.   
-  
-G. Costa.   
-  
-Visto, Il Guardasigilli: G. Costa.   
-  
+Dal 1° giugno 1896 nel Comune di Montecorvino Pugliano e' istituito un secondo Ufficio distinto di conciliazione con sede nella frazione di Pontecagnano e con giurisdizione sulle frazioni di Fajano e Pontecagnano, dipendenti dal detto Comune. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 aprile 1896. 
+ 
+ UMBERTO. 
+ 
+ G. Costa. 
+ 
+ Visto, Il Guardasigilli: G. Costa.

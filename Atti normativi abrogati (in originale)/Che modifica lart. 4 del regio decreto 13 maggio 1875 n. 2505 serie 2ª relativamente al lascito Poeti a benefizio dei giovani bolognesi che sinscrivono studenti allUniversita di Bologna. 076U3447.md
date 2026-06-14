@@ -1,16 +1,14 @@
-REGIO DECRETO 26 ottobre 1876 n. 3447
-
-
-REGIO DECRETO 26 ottobre 1876 n. 3447
-=====================================
-
-Che modifica l'art. 4 del regio decreto 13 maggio 1875, n. 2505 (serie 2ª) relativamente al lascito Poeti a benefizio dei giovani bolognesi che s'inscrivono studenti all'Universita' di Bologna. (076U3447)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/12/1876
+---
+tipo: REGIO DECRETO
+numero: 3447
+data: 1876-10-26
+titolo: "Che modifica l'art. 4 del regio decreto 13 maggio 1875, n. 2505 (serie 2ª) relativamente al lascito Poeti a benefizio dei giovani bolognesi che s'inscrivono studenti all'Universita' di Bologna. (076U3447)"
+urn: urn:nir:stato:regio.decreto:1876-10-26;3447
+codice_redazionale: 076U3447
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,36 +20,28 @@ Riconosciuto che l'intento del fondatore e' il benefizio dei giovani bolognesi c
 
 Veduta la lacuna che a tale proposito si riscontra nell'articolo 4 del precitato decreto, la' dove si propongono le condizioni e i titoli richiesti per l'ammissione a concorrere agli assegni mensili di studio;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'[articolo 4 del Regio decreto 13 maggio 1875, n. 2505](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-05-13;2505~art4) (Serie 2ª), e' modificato come segue:   
-  
-«Articolo 4. Chi aspira ad uno degli assegni deve presentare:   
-  
-a) La fede di nascita;   
-  
-b) L'attestato di buona condotta;   
-  
-c) La fede di perquisizione;   
-  
-d) Lo stato della famiglia o delle possidenze;   
-  
-e) La licenza liceale o quella riportata da un istituto tecnico nella sezione di fisico-matematica.»   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 26 ottobre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-M. COPPINO.   
-  
-  
+L'[articolo 4 del Regio decreto 13 maggio 1875, n. 2505](Provvede%20alla%20amministrazione%20del%20lascito%20Poeti.%20075U2505.md) (Serie 2ª), e' modificato come segue: 
+ 
+ «Articolo 4. Chi aspira ad uno degli assegni deve presentare: 
+ 
+ a) La fede di nascita; 
+ 
+ b) L'attestato di buona condotta; 
+ 
+ c) La fede di perquisizione; 
+ 
+ d) Lo stato della famiglia o delle possidenze; 
+ 
+ e) La licenza liceale o quella riportata da un istituto tecnico nella sezione di fisico-matematica.» 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 26 ottobre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. COPPINO.

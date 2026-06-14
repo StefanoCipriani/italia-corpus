@@ -1,19 +1,15 @@
-REGIO DECRETO 10 gennaio 1909 n. LIX
+---
+tipo: REGIO DECRETO
+numero: LIX
+data: 1909-01-10
+titolo: "Erezione in ente morale. (0900059R)"
+urn: urn:nir:stato:regio.decreto:1909-01-10;59
+codice_redazionale: 0900059R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 gennaio 1909 n. LIX
-====================================
-
-Erezione in ente morale. (0900059R)
------------------------------------
-
-Entrata in vigore del provvedimento: 02/04/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-Col quale il pio legato elemosiniero «Buzzetti» di Carpaneto (Piacenza), e' stato eretto in ente morale e concentrato nella Congregazione di carita' del luogo.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ Col quale il pio legato elemosiniero «Buzzetti» di Carpaneto (Piacenza), e' stato eretto in ente morale e concentrato nella Congregazione di carita' del luogo.

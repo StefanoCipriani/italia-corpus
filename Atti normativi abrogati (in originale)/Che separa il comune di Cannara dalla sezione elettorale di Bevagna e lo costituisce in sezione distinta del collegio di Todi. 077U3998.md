@@ -1,16 +1,14 @@
-REGIO DECRETO 05 agosto 1877 n. 3998
-
-
-REGIO DECRETO 05 agosto 1877 n. 3998
-====================================
-
-Che separa il comune di Cannara dalla sezione elettorale di Bevagna e lo costituisce in sezione distinta del collegio di Todi. (077U3998)
------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/08/1877
+---
+tipo: REGIO DECRETO
+numero: 3998
+data: 1877-08-05
+titolo: "Che separa il comune di Cannara dalla sezione elettorale di Bevagna e lo costituisce in sezione distinta del collegio di Todi. (077U3998)"
+urn: urn:nir:stato:regio.decreto:1877-08-05;3998
+codice_redazionale: 077U3998
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA RAZIONE
 
@@ -24,23 +22,15 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Cannara e' separato dalla sezione Bevagna del Collegio elettorale di Todi, e formera' una sezione distinta dello stesso Collegio.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Valsavaranche, addi' 5 agosto 1877.   
-  
-VITTORIO E MANUELE.   
-  
-  
-G. Nicotera.   
-  
-  
+Il comune di Cannara e' separato dalla sezione Bevagna del Collegio elettorale di Todi, e formera' una sezione distinta dello stesso Collegio. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Valsavaranche, addi' 5 agosto 1877. 
+ 
+ VITTORIO E MANUELE. 
+ 
+ 
+ G. Nicotera.

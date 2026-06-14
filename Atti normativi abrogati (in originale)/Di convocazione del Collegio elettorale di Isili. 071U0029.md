@@ -1,16 +1,14 @@
-REGIO DECRETO 29 gennaio 1871 n. 29
-
-
-REGIO DECRETO 29 gennaio 1871 n. 29
-===================================
-
-Di convocazione del Collegio elettorale di Isili. (071U0029)
-------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/02/1871
+---
+tipo: REGIO DECRETO
+numero: 29
+data: 1871-01-29
+titolo: "Di convocazione del Collegio elettorale di Isili. (071U0029)"
+urn: urn:nir:stato:regio.decreto:1871-01-29;29
+codice_redazionale: 071U0029
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,33 +22,26 @@ ed il signor
 
 Avvocato Michele Carboni che ne ebbe 57;
 
-Veduto l'[articolo 63 della Legge 17 dicembre 1860, n. 4513](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1860-12-17;4513~art63);
+Veduto l'[articolo 63 della Legge 17 dicembre 1860, n. 4513](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1860-12-17;4513#art_63);
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Collegio elettorale d'Isili, n. 85, e' convocato pel giorno 12 del prossimo mese di febbraio, affine di procedere alla votazione di ballottaggio fra i detti signori candidati.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 29 gennaio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 3 febbraio 1871   
-  
-Reg. 54 Atti del Governo a c. 106. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Lanza.   
-  
+Il Collegio elettorale d'Isili, n. 85, e' convocato pel giorno 12 del prossimo mese di febbraio, affine di procedere alla votazione di ballottaggio fra i detti signori candidati. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 29 gennaio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 3 febbraio 1871 
+ 
+ Reg. 54 Atti del Governo a c. 106. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Lanza.

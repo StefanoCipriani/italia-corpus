@@ -1,21 +1,17 @@
-REGIO DECRETO 24 febbraio 1895 n. CCCXLII
+---
+tipo: REGIO DECRETO
+numero: CCCXLII
+data: 1895-02-24
+titolo: "Con cui il Monte frumentario di Gambatesa e' concentrato nella locale congregazione di carita'. (9500342R)"
+urn: urn:nir:stato:regio.decreto:1895-02-24;342
+codice_redazionale: 9500342R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 febbraio 1895 n. CCCXLII
-=========================================
-
-Con cui il Monte frumentario di Gambatesa e' concentrato nella locale congregazione di carita'. (9500342R)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/12/1895
-
-Art. 1
-------
-
-  
-Con cui il Monte frumentario di Gambatesa e' concentrato nella locale congregazione di carita'. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 25 novembre 1895.   
-  
-Reg. 201. Atti del Governo a f. 64.   
-  
+Con cui il Monte frumentario di Gambatesa e' concentrato nella locale congregazione di carita'. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 25 novembre 1895. 
+ 
+ Reg. 201. Atti del Governo a f. 64.

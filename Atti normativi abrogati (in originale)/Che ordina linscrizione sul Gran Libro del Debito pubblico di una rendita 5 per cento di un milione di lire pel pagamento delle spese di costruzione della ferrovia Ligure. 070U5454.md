@@ -1,16 +1,14 @@
-REGIO DECRETO 20 gennaio 1870 n. 5454
-
-
-REGIO DECRETO 20 gennaio 1870 n. 5454
-=====================================
-
-Che ordina l'inscrizione sul Gran Libro del Debito pubblico di una rendita 5 per cento di un milione di lire pel pagamento delle spese di costruzione della ferrovia Ligure. (070U5454)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/02/1870
+---
+tipo: REGIO DECRETO
+numero: 5454
+data: 1870-01-20
+titolo: "Che ordina l'inscrizione sul Gran Libro del Debito pubblico di una rendita 5 per cento di un milione di lire pel pagamento delle spese di costruzione della ferrovia Ligure. (070U5454)"
+urn: urn:nir:stato:regio.decreto:1870-01-20;5454
+codice_redazionale: 070U5454
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,35 +20,26 @@ Veduto il Decreto Reale del di' 11 ottobre 1866, che approva la Convenzione con 
 
 Considerando che occorre di procurarsi il capitale di L. 12 milioni circa, sia per reintegrare il Tesoro del residuo suo credito per ispese gia' fatte, sia per provvedere alle opere in corso di esecuzione per la ferrovia di cui sopra, a carico dei bilanci 1869 e 1870;
 
-Sulla
------
+Sulla proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sara' inscritta sul Gran Libro del Debito pubblico del Regno d'Italia la rendita consolidata 5 per cento di un milione, con decorrenza dal 1° gennaio 1870, pel pagamento delle spese di costruzione della ferrovia Ligure.
 
-  
-  
-Sara' inscritta sul Gran Libro del Debito pubblico del Regno d'Italia la rendita consolidata 5 per cento di un milione, con decorrenza dal 1° gennaio 1870, pel pagamento delle spese di costruzione della ferrovia Ligure.   
-  
-
-Art. 2
-------
+## Art. 2.
 
 Pel servizio della rendita suddetta e' fatta sulla Tesoreria centrale del Regno l'annua assegnazione di lire un milione, a partire dal 1° gennaio
 
-1870. 
-  
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 20 gennaio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 24 gennaio 1870   
-Reg. 50 Atti del Governo a c. 7. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-Quintino Sella.
+1870.
+
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 20 gennaio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 24 gennaio 1870 
+ Reg. 50 Atti del Governo a c. 7. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ Quintino Sella.

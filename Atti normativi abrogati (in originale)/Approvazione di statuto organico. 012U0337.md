@@ -1,19 +1,15 @@
-REGIO DECRETO 21 marzo 1912 n. 337
+---
+tipo: REGIO DECRETO
+numero: 337
+data: 1912-03-21
+titolo: "Approvazione di statuto organico. (012U0337)"
+urn: urn:nir:stato:regio.decreto:1912-03-21;337
+codice_redazionale: 012U0337
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 marzo 1912 n. 337
-==================================
-
-Approvazione di statuto organico. (012U0337)
---------------------------------------------
-
-Entrata in vigore del provvedimento: 10/05/1912
-
-Art. 1
-------
-
-  
-N. 337   
-  
-Regio Decreto 21 marzo 1912, col quale, sulla proposta del ministro della pubblica istruzione, e' approvato lo statuto organico della fondazione Gotti di Volterra.   
-  
+N. 337 
+ 
+ Regio Decreto 21 marzo 1912, col quale, sulla proposta del ministro della pubblica istruzione, e' approvato lo statuto organico della fondazione Gotti di Volterra.

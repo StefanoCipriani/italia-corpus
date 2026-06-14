@@ -1,23 +1,19 @@
-REGIO DECRETO 25 settembre 1898 n. CCCXVI
+---
+tipo: REGIO DECRETO
+numero: CCCXVI
+data: 1898-09-25
+titolo: "Che trasforma il monte frumentario di Ascoli Piceno in cassa di prestanze agrarie ed approva lo statuto organico della cassa stessa. (9800316R)"
+urn: urn:nir:stato:regio.decreto:1898-09-25;316
+codice_redazionale: 9800316R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 settembre 1898 n. CCCXVI
-=========================================
-
-Che trasforma il monte frumentario di Ascoli Piceno in cassa di prestanze agrarie ed approva lo statuto organico della cassa stessa. (9800316R)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/11/1898
-
-Art. 1
-------
-
-  
-Che trasforma il monte frumentario di Ascoli Piceno in cassa di prestanze agrarie ed approva lo statuto organico della cassa stessa.  
-- Firmato UMBERTO - Controfirmati Pelloux e Fortis - Visto C.  
-Finocchiaro Aprile.   
-  
-Registrato alla Corte dei Conti addi' 20 ottobre 1898.   
-  
-Reg. 217. Atti del Governo a f. 102.   
-  
+Che trasforma il monte frumentario di Ascoli Piceno in cassa di prestanze agrarie ed approva lo statuto organico della cassa stessa.
+- Firmato UMBERTO - Controfirmati Pelloux e Fortis - Visto C.
+Finocchiaro Aprile. 
+ 
+ Registrato alla Corte dei Conti addi' 20 ottobre 1898. 
+ 
+ Reg. 217. Atti del Governo a f. 102.

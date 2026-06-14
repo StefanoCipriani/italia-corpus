@@ -1,16 +1,14 @@
-REGIO DECRETO 25 luglio 1873 n. 1539
-
-
-REGIO DECRETO 25 luglio 1873 n. 1539
-====================================
-
-Che approva le graduatorie speciali della Magistratura giudicante e del Pubblico Ministero delle Corti di cassazione di Napoli, Palermo e Torino e delle dipendenti Corti di appello. (073U1539)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/09/1873 Le Graduatorie annesse al provvedimento sono state pubblicate nel SO relativo alla [GU n. 247 del 07-09-1873](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1873-09-07&numeroGazzetta=247).
+---
+tipo: REGIO DECRETO
+numero: 1539
+data: 1873-07-25
+titolo: "Che approva le graduatorie speciali della Magistratura giudicante e del Pubblico Ministero delle Corti di cassazione di Napoli, Palermo e Torino e delle dipendenti Corti di appello. (073U1539)"
+urn: urn:nir:stato:regio.decreto:1873-07-25;1539
+codice_redazionale: 073U1539
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,64 +28,28 @@ Visti i Nostri Decreti 13 maggio 1866, 5 agosto 1871, 4 agosto, 15 e 30 dicembre
 
 e per la Provincia di Roma;
 
-Sulla
------
+Sulla proposizione del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposizione del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+Sono approvate le graduatorie speciali della Magistratura giudicante e del Pubblico Ministero delle Corti di cassazione di Napoli, Palermo e Torino, e delle dipendenti Corti d'appello, annesse al presente Decreto e viste d'ordine Nostro dal Ministro Guardasigilli.
 
-  
-  
-Sono approvate le graduatorie speciali della Magistratura giudicante e del Pubblico Ministero delle Corti di cassazione di Napoli, Palermo e Torino, e delle dipendenti Corti d'appello, annesse al presente Decreto e viste d'ordine Nostro dal Ministro Guardasigilli.   
-  
+## Art. 2.
 
-Art. 2
-------
+Le graduatorie indicate nell'articolo 4 e quelle delle Corti di cassazione e d'appello delle Provincie Toscane, Venete e di Mantova e di Roma, gia' approvate coi succitati Decreti, saranno pubblicate nella Gazzetta ufficiale del Regno.
 
-  
-  
-Le graduatorie indicate nell'articolo 4 e quelle delle Corti di cassazione e d'appello delle Provincie Toscane, Venete e di Mantova e di Roma, gia' approvate coi succitati Decreti, saranno pubblicate nella Gazzetta ufficiale del Regno.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-I Funzionari che si credono lesi dal collocamento loro assegnato, e pei quali non fosse gia' intervenuta una decisione, potranno far reclamo entro tre mesi dalla pubblicazione. I reclami saranno decisi dal Ministro della Giustizia, sentito il Consiglio di Stato; in seguito a che le graduatorie diventeranno definitive.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 25 luglio 1873.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Conte dei conti addi' 3 settembre 1873   
-Vol. 71 Atti dei Governo a c. 74. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli VIGLIANI.   
-  
-VIGLIANI.   
-  
-  
-
-Graduatorie
-
-  
-PARTE I. - GRADUATORIE SPECIALI dei funzionari della Magistratura giudicante e del pubblico Ministero, delle Corti di cassazione di Napoli, Palermo, Torino e Firenze e delle dipendenti Corti di appello, coll'aggiunta dei funzionari delle Corti di cassazione e di appello compresi nella graduatoria generale. (\*)   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=073U153900100010110001&dgu=1873-09-07&art.dataPubblicazioneGazzetta=1873-09-07&art.codiceRedazionale=073U1539)
-  
-  
----------------   
-(\*) Avvertenza. - Le graduatorie sono pubblicate nello stato in cui erano il 15 luglio 1873. Per ciascun funzionario si e' indicata la data dell'ingresso in carriera, quella del grado o della classe attuale e quella del grado o della classe precedente, in quanto occorra per determinare l'anzianita', secondo l'articolo 254 della legge sull'ordinamento giuridico.   
-  
-  
-  
-GRADUATORIA GENERALE della magistratura giudicante e del pubblico Ministero delle Corti di cassazione e delle Corti di appello, formata a termini dell'articolo 286 della legge organica giudiziaria.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=073U153900100010110002&dgu=1873-09-07&art.dataPubblicazioneGazzetta=1873-09-07&art.codiceRedazionale=073U1539)
-  
-  
-(Graduatorie pubblicate in S.O. relativo alla [G.U. n. 247 del 07/09/1873](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1873-09-07&numeroGazzetta=247))   
+I Funzionari che si credono lesi dal collocamento loro assegnato, e pei quali non fosse gia' intervenuta una decisione, potranno far reclamo entro tre mesi dalla pubblicazione. I reclami saranno decisi dal Ministro della Giustizia, sentito il Consiglio di Stato; in seguito a che le graduatorie diventeranno definitive. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 25 luglio 1873. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Conte dei conti addi' 3 settembre 1873 
+ Vol. 71 Atti dei Governo a c. 74. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli VIGLIANI. 
+ 
+ VIGLIANI.

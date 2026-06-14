@@ -1,38 +1,27 @@
-DECRETO LUOGOTENENZIALE 22 giugno 1916 n. 807
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 807
+data: 1916-06-22
+titolo: "Col quale e' dichiarata opera di utilita' pubblica la sistemazione dell'acquartieramento e dei servizi militari in Pallanza. (016U0807)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-06-22;807
+codice_redazionale: 016U0807
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 22 giugno 1916 n. 807
-=============================================
+E' dichiarata opera di pubblica utilita' la sistemazione dell'acquartieramento e dei servizi Militari in Pallanza.
 
-Col quale e' dichiarata opera di utilita' pubblica la sistemazione dell'acquartieramento e dei servizi militari in Pallanza. (016U0807)
----------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 27/07/1916
-
-Art. 1
-------
-
-  
-  
-  
-E' dichiarata opera di pubblica utilita' la sistemazione dell'acquartieramento e dei servizi Militari in Pallanza.   
-  
-
-Art. 2
-------
-
-  
-  
-  
-All'espropriazione dei beni immobili e dei diritti immobiliari a tal uopo occorrenti, e che saranno designati dal Predetto ministro, sara' provveduto norma delle citate leggi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 giugno 1916.   
-  
-TOMASO DI SAVOIA.   
-  
-MORRONE.   
-  
-Visto, Il guardasigilli: SACCHI.   
-  
+All'espropriazione dei beni immobili e dei diritti immobiliari a tal uopo occorrenti, e che saranno designati dal Predetto ministro, sara' provveduto norma delle citate leggi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 giugno 1916. 
+ 
+ TOMASO DI SAVOIA. 
+ 
+ MORRONE. 
+ 
+ Visto, Il guardasigilli: SACCHI.

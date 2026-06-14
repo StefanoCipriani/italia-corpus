@@ -1,19 +1,15 @@
-REGIO DECRETO 23 gennaio 1908 n. LXXXII
+---
+tipo: REGIO DECRETO
+numero: LXXXII
+data: 1908-01-23
+titolo: "Riflettente approvazione di statuto. (0800082R)"
+urn: urn:nir:stato:regio.decreto:1908-01-23;82
+codice_redazionale: 0800082R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 gennaio 1908 n. LXXXII
-=======================================
-
-Riflettente approvazione di statuto. (0800082R)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/04/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. LXXXII (Dato a Roma, il 23 gennaio 1908), col quale si approva il nuovo statuto del Monte di pieta' di Frascati.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. LXXXII (Dato a Roma, il 23 gennaio 1908), col quale si approva il nuovo statuto del Monte di pieta' di Frascati.

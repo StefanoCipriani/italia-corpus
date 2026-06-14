@@ -1,16 +1,14 @@
-REGIO DECRETO 07 aprile 1881 n. 205
-
-
-REGIO DECRETO 07 aprile 1881 n. 205
-===================================
-
-Che istituisce sia pei ginnasi che per i licei dello Stato le licenze d'onore con esenzione dall'esame. (081U0205)
-------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/06/1881
+---
+tipo: REGIO DECRETO
+numero: 205
+data: 1881-04-07
+titolo: "Che istituisce sia pei ginnasi che per i licei dello Stato le licenze d'onore con esenzione dall'esame. (081U0205)"
+urn: urn:nir:stato:regio.decreto:1881-04-07;205
+codice_redazionale: 081U0205
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,35 +22,24 @@ Considerando che il principio della segnalazione a sostituire le prove degli esa
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono istituite, cosi' pei Ginnasi come per i Licei dello Stato, le licenze d'onore con esenzione dall'esame.
 
-  
-  
-Sono istituite, cosi' pei Ginnasi come per i Licei dello Stato, le licenze d'onore con esenzione dall'esame.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Conseguiranno la licenza d'onore gli studenti ginnasiali e liceali che, al chiudersi del rispettivo corso quinquennale e triennale, avranno ottenuto, in ciascun anno e per ciascuna materia, non meno di sette decimi di merito nella segnalazione scolastica.   
-  
-Conseguiranno pure la detta licenza quegli studenti i quali compensassero la deficienza in talune prove, eccettuate le lingue classiche, con la eccellenza in talune altre, purche' la media della segnalazione complessiva risulti non inferiore a nove decimi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 aprile 1881.   
-  
-UMBERTO.   
-  
-Baccelli.   
-  
-Visto, il Guardasigilli: T. Villa.   
-  
+Conseguiranno la licenza d'onore gli studenti ginnasiali e liceali che, al chiudersi del rispettivo corso quinquennale e triennale, avranno ottenuto, in ciascun anno e per ciascuna materia, non meno di sette decimi di merito nella segnalazione scolastica. 
+ 
+ Conseguiranno pure la detta licenza quegli studenti i quali compensassero la deficienza in talune prove, eccettuate le lingue classiche, con la eccellenza in talune altre, purche' la media della segnalazione complessiva risulti non inferiore a nove decimi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 aprile 1881. 
+ 
+ UMBERTO. 
+ 
+ Baccelli. 
+ 
+ Visto, il Guardasigilli: T. Villa.

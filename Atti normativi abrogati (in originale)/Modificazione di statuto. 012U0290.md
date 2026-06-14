@@ -1,19 +1,15 @@
-REGIO DECRETO 17 marzo 1912 n. 290
+---
+tipo: REGIO DECRETO
+numero: 290
+data: 1912-03-17
+titolo: "Modificazione di statuto. (012U0290)"
+urn: urn:nir:stato:regio.decreto:1912-03-17;290
+codice_redazionale: 012U0290
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 marzo 1912 n. 290
-==================================
-
-Modificazione di statuto. (012U0290)
-------------------------------------
-
-Entrata in vigore del provvedimento: 30/04/1912
-
-Art. 1
-------
-
-  
-N. 290   
-  
-Regio Decreto 17 marzo 1912, col quale, sulla proposta del ministro dell'istruzione pubblica, viene modificato l'art. 20 dello statuto del R. collegio femminile «Agli Angeli» di Verona.   
-  
+N. 290 
+ 
+ Regio Decreto 17 marzo 1912, col quale, sulla proposta del ministro dell'istruzione pubblica, viene modificato l'art. 20 dello statuto del R. collegio femminile «Agli Angeli» di Verona.

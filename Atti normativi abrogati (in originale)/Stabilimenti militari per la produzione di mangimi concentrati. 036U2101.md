@@ -1,16 +1,14 @@
-REGIO DECRETO 22 ottobre 1936 n. 2101
-
-
-REGIO DECRETO 22 ottobre 1936 n. 2101
-=====================================
-
-Stabilimenti militari per la produzione di mangimi concentrati. (036U2101)
---------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/07/1936
+---
+tipo: REGIO DECRETO
+numero: 2101
+data: 1936-10-22
+titolo: "Stabilimenti militari per la produzione di mangimi concentrati. (036U2101)"
+urn: urn:nir:stato:regio.decreto:1936-10-22;2101
+codice_redazionale: 036U2101
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,32 +22,27 @@ Visto il R. decreto 4 novembre 1926-V, n. 1925, che determina, fra l'altro, gli 
 
 Ritenuto che la decisione presa dall'Amministrazione della guerra, di attuare a gestione diretta la produzione di mangimi concentrati per l'alimentazione dei quadrupedi ha reso necessario di disporre di appositi stabilimenti gestiti dall'Amministrazione stessa;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
+- Agli stabilimenti previsti dall'art. 5 del R. decreto 4 novembre 1926-V, n. 1925, sono aggiunti i seguenti: 
+ 
+ Stabilimenti militari per la produzione di mangimi concentrati,
 
-- Agli stabilimenti previsti dall'art. 5 del R. decreto 4 novembre 1926-V, n. 1925, sono aggiunti i seguenti:   
-  
-Stabilimenti militari per la produzione di mangimi concentrati,
+2.
 
-2. 
-  
-  
-Il presente decreto entra in vigore dal 1° luglio 1936-XIV.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 22 ottobre 1936 - Anno XIV   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 11 dicembre 1936 - Anno XV   
-Atti del Governo, registro 380, foglio 52. - Mancini.
+Il presente decreto entra in vigore dal 1° luglio 1936-XIV. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 22 ottobre 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 11 dicembre 1936 - Anno XV  
+ Atti del Governo, registro 380, foglio 52. - Mancini.

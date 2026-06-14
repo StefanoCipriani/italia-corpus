@@ -1,16 +1,14 @@
-REGIO DECRETO 14 novembre 1877 n. 4125
-
-
-REGIO DECRETO 14 novembre 1877 n. 4125
-======================================
-
-Che separa i comuni di Barrea, Civitella Alfredena e Villetta Barrea dalla sezione elettorale di Castel di Sangro e li costituisce in sezione distinta del collegio di Solmona colla sede a Barrea. (077U4125)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/12/1877
+---
+tipo: REGIO DECRETO
+numero: 4125
+data: 1877-11-14
+titolo: "Che separa i comuni di Barrea, Civitella Alfredena e Villetta Barrea dalla sezione elettorale di Castel di Sangro e li costituisce in sezione distinta del collegio di Solmona colla sede a Barrea. (077U4125)"
+urn: urn:nir:stato:regio.decreto:1877-11-14;4125
+codice_redazionale: 077U4125
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DILLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Barrea, Civitella Alfedena e Villetta Barrea sono separati dalla sezione elettorale di Castel di Sangro, e formeranno una sezione distinta del Collegio elettorale di Solmona colla sede a Barrea.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 14 novembre 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+I comuni di Barrea, Civitella Alfedena e Villetta Barrea sono separati dalla sezione elettorale di Castel di Sangro, e formeranno una sezione distinta del Collegio elettorale di Solmona colla sede a Barrea. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 14 novembre 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

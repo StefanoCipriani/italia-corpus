@@ -1,16 +1,14 @@
-REGIO DECRETO 23 marzo 1879 n. 4780
-
-
-REGIO DECRETO 23 marzo 1879 n. 4780
-===================================
-
-Che convoca pel giorno 6 aprile 1879 il collegio elettorale di Lucera per la nomina del proprio deputato. (079U4780)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/04/1879
+---
+tipo: REGIO DECRETO
+numero: 4780
+data: 1879-03-23
+titolo: "Che convoca pel giorno 6 aprile 1879 il collegio elettorale di Lucera per la nomina del proprio deputato. (079U4780)"
+urn: urn:nir:stato:regio.decreto:1879-03-23;4780
+codice_redazionale: 079U4780
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,25 +18,18 @@ Visto il messaggio in data del 21 marzo 1879, col quale l'ufficio di presidenza 
 
 Veduto l'articolo 63 della legge per le elezioni politiche 17 dicembre 1860, n. 4513;
 
-Sulla
------
+Sulla proposizione del nostro presidente del consiglio dei ministri, ministro segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
 
-proposizione del nostro presidente del consiglio dei ministri, ministro segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il collegio elettorale di Lucera, n. 120, e' convocato pel giorno 6 prossimo aprile, affinche' proceda alla elezione del proprio deputato.   
-  
-Occorrendo una seconda votazione, essa avra' luogo il giorno 13 stesso mese.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 23 marzo 1879.   
-  
-UMBERTO   
-  
-Depretis.   
-  
+Il collegio elettorale di Lucera, n. 120, e' convocato pel giorno 6 prossimo aprile, affinche' proceda alla elezione del proprio deputato. 
+ 
+ Occorrendo una seconda votazione, essa avra' luogo il giorno 13 stesso mese. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 23 marzo 1879. 
+ 
+ UMBERTO 
+ 
+ Depretis.

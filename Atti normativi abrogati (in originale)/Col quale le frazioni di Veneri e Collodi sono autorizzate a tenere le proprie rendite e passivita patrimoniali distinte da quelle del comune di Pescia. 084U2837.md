@@ -1,16 +1,14 @@
-REGIO DECRETO 07 dicembre 1884 n. 2837
-
-
-REGIO DECRETO 07 dicembre 1884 n. 2837
-======================================
-
-Col quale le frazioni di Veneri e Collodi sono autorizzate a tenere le proprie rendite e passivita' patrimoniali distinte da quelle del comune di Pescia. (084U2837)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/01/1885
+---
+tipo: REGIO DECRETO
+numero: 2837
+data: 1884-12-07
+titolo: "Col quale le frazioni di Veneri e Collodi sono autorizzate a tenere le proprie rendite e passivita' patrimoniali distinte da quelle del comune di Pescia. (084U2837)"
+urn: urn:nir:stato:regio.decreto:1884-12-07;2837
+codice_redazionale: 084U2837
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Veduta la deliberazione del Consiglio comunale di Pescia in data 10 novembre 188
 
 Veduti gli articoli 13 e 16 della legge 20 marzo 1865, allegato A;
 
-Veduta
-------
+Veduta la legge 30 giugno 1880, n. 5516; Abbiamo decretato e decretiamo:
 
-la legge 30 giugno 1880, n. 5516; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le frazioni di Veneri e Collodi sono autorizzate a tenere le proprie rendite e passivita' patrimoniali, non che le altre spese indicate nell'ultimo paragrafo dell'articolo 13 della legge comunale e provinciale, distinte da quelle del rimanente del comune di Pescia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 dicembre 1884.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto, Il Guardasigilli: Pessina.   
-  
+Le frazioni di Veneri e Collodi sono autorizzate a tenere le proprie rendite e passivita' patrimoniali, non che le altre spese indicate nell'ultimo paragrafo dell'articolo 13 della legge comunale e provinciale, distinte da quelle del rimanente del comune di Pescia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 dicembre 1884. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto, Il Guardasigilli: Pessina.

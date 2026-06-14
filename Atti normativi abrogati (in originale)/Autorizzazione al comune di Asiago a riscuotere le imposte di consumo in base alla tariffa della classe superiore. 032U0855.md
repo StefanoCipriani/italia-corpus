@@ -1,16 +1,14 @@
-REGIO DECRETO 30 giugno 1932 n. 855
-
-
-REGIO DECRETO 30 giugno 1932 n. 855
-===================================
-
-Autorizzazione al comune di Asiago a riscuotere le imposte di consumo in base alla tariffa della classe superiore. (032U0855)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/08/1932
+---
+tipo: REGIO DECRETO
+numero: 855
+data: 1932-06-30
+titolo: "Autorizzazione al comune di Asiago a riscuotere le imposte di consumo in base alla tariffa della classe superiore. (032U0855)"
+urn: urn:nir:stato:regio.decreto:1932-06-30;855
+codice_redazionale: 032U0855
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,33 +22,22 @@ Visto il decreto del Nostro Ministro per l'interno 28 ottobre 1927, in base al q
 
 Visto il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il comune di Asiago e' autorizzato ad applicare le imposte di consumo con le aliquote stabilite per la classe G.
 
-  
-  
-Il comune di Asiago e' autorizzato ad applicare le imposte di consumo con le aliquote stabilite per la classe G.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-All'Azienda autonoma di cura del comune di Asiago e' devoluto il maggior provento, al netto, delle spese di riscossione, derivante dall'autorizzazione di cui al precedente articolo.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.   
-Dato a San Rossore, addi' 30 giugno 1932 - Anno X   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 26 luglio 1932 - Anno X   
-Atti del Governo, registro 322, foglio 61. - Mancini.   
-  
+All'Azienda autonoma di cura del comune di Asiago e' devoluto il maggior provento, al netto, delle spese di riscossione, derivante dall'autorizzazione di cui al precedente articolo. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
+ Dato a San Rossore, addi' 30 giugno 1932 - Anno X 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 26 luglio 1932 - Anno X 
+ Atti del Governo, registro 322, foglio 61. - Mancini.

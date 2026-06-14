@@ -1,19 +1,15 @@
-REGIO DECRETO 10 gennaio 1862 n. CCLXVI
+---
+tipo: REGIO DECRETO
+numero: CCLXVI
+data: 1862-01-10
+titolo: "Che autorizza il Comune di Citta' di Castello a riscuotere il dazio di consumo. (6200266R)"
+urn: urn:nir:stato:regio.decreto:1862-01-10;266
+codice_redazionale: 6200266R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 gennaio 1862 n. CCLXVI
-=======================================
-
-Che autorizza il Comune di Citta' di Castello a riscuotere il dazio di consumo. (6200266R)
-------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/01/1862
-
-Art. 1
-------
-
-  
-Che autorizza il Comune di Citta' di Castello (Umbria) a riscuotere il dazio di consumo.   
-  
-Torino 10 gennaio 1862   
-  
+Che autorizza il Comune di Citta' di Castello (Umbria) a riscuotere il dazio di consumo. 
+ 
+ Torino 10 gennaio 1862

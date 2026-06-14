@@ -1,16 +1,14 @@
-REGIO DECRETO 27 aprile 1905 n. 440
-
-
-REGIO DECRETO 27 aprile 1905 n. 440
-===================================
-
-Istituzione di un ufficio postale italiano in Janina (Albania). (005U0440)
---------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/08/1905
+---
+tipo: REGIO DECRETO
+numero: 440
+data: 1905-04-27
+titolo: "Istituzione di un ufficio postale italiano in Janina (Albania). (005U0440)"
+urn: urn:nir:stato:regio.decreto:1905-04-27;440
+codice_redazionale: 005U0440
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,36 +18,25 @@ Riconosciuta la convenienza di istituire a Janina (Albania) un ufficio postale i
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per le poste e pei telegrafi; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per le poste e pei telegrafi; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' istituito dal 16 agosto 1902 un ufficio postale italiano a Janina (Albania).
 
-  
-  
-E' istituito dal 16 agosto 1902 un ufficio postale italiano a Janina (Albania).   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Al R. console generale cola' residente, cui sara' affidata la gestione dell'ufficio, verra' corrisposto un assegno annuo di lire tremilaseicento in oro, restando a suo carico tutte le spese d'ufficio e quelle del locale e personale occorrente.   
-  
-Detta somma sara' imputata al capitolo 27 - assegnamento al personale degli uffici postali italiani all'estero - del bilancio passivo del Ministero delle poste e dei telegrafi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 aprile 1905.   
-  
-VITTORIO EMANUELE.   
-  
-Fortis.   
-Morelli-Gualtierotti.   
-  
-Visto, Il guardasigilli: C. Finocchiaro-Aprile.   
-  
+Al R. console generale cola' residente, cui sara' affidata la gestione dell'ufficio, verra' corrisposto un assegno annuo di lire tremilaseicento in oro, restando a suo carico tutte le spese d'ufficio e quelle del locale e personale occorrente. 
+ 
+ Detta somma sara' imputata al capitolo 27 - assegnamento al personale degli uffici postali italiani all'estero - del bilancio passivo del Ministero delle poste e dei telegrafi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 aprile 1905. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Fortis. 
+ Morelli-Gualtierotti. 
+ 
+ Visto, Il guardasigilli: C. Finocchiaro-Aprile.

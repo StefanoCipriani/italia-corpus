@@ -1,19 +1,15 @@
-REGIO DECRETO 28 novembre 1909 n. CCCCLIX
+---
+tipo: REGIO DECRETO
+numero: CCCCLIX
+data: 1909-11-28
+titolo: "Che erige in ente morale la fondazione « sac. Boldini » in Venezia. (0900459R)"
+urn: urn:nir:stato:regio.decreto:1909-11-28;459
+codice_redazionale: 0900459R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 novembre 1909 n. CCCCLIX
-=========================================
-
-Che erige in ente morale la fondazione « sac. Boldini » in Venezia. (0900459R)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/01/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCCLIX (Dato a Roma, il 28 novembre 1909), col quale la fondazione «Patrimonio ecclesiastico Boldini sac. Francesco in Venezia» e' eretta in ente morale, e ne e' approvato lo statuto organico.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCCLIX (Dato a Roma, il 28 novembre 1909), col quale la fondazione «Patrimonio ecclesiastico Boldini sac. Francesco in Venezia» e' eretta in ente morale, e ne e' approvato lo statuto organico.

@@ -1,16 +1,14 @@
-REGIO DECRETO 10 febbraio 1876 n. 2972
-
-
-REGIO DECRETO 10 febbraio 1876 n. 2972
-======================================
-
-Che autorizza la scuola di farmacia, annessa alla sezione di medicina e chirurgia del Regio istituto di studi superiori di Firenze, a conferire la laurea di chimica e farmacia. (076U2972)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/03/1876
+---
+tipo: REGIO DECRETO
+numero: 2972
+data: 1876-02-10
+titolo: "Che autorizza la scuola di farmacia, annessa alla sezione di medicina e chirurgia del Regio istituto di studi superiori di Firenze, a conferire la laurea di chimica e farmacia. (076U2972)"
+urn: urn:nir:stato:regio.decreto:1876-02-10;2972
+codice_redazionale: 076U2972
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA'DELLA NAZIONE
 
@@ -20,23 +18,16 @@ Veduto l'articolo 1° del Nostro decreto in data 3 dicembre 1874, n. 2270, nel q
 
 Sentito il Consiglio Superiore per la Pubblica Istruzione;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' autorizzata a conferire la laurea in chimica e farmacia la scuola di farmacia annessa alla sezione di medicina e chirurgia del Regio Istituto di studi superiori pratici e di perfezionamento in Firenze.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 10 febbraio 1876.   
-  
-VITTORIO EMANUELE.   
-  
-R. Bonghi.   
-  
+E' autorizzata a conferire la laurea in chimica e farmacia la scuola di farmacia annessa alla sezione di medicina e chirurgia del Regio Istituto di studi superiori pratici e di perfezionamento in Firenze. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 febbraio 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ R. Bonghi.

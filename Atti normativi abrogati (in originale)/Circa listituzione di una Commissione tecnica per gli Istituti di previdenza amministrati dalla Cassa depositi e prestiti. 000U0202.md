@@ -1,16 +1,14 @@
-REGIO DECRETO 24 maggio 1900 n. 202
-
-
-REGIO DECRETO 24 maggio 1900 n. 202
-===================================
-
-Circa l'istituzione di una Commissione tecnica per gli Istituti di previdenza amministrati dalla Cassa depositi e prestiti. (000U0202)
---------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/06/1900
+---
+tipo: REGIO DECRETO
+numero: 202
+data: 1900-05-24
+titolo: "Circa l'istituzione di una Commissione tecnica per gli Istituti di previdenza amministrati dalla Cassa depositi e prestiti. (000U0202)"
+urn: urn:nir:stato:regio.decreto:1900-05-24;202
+codice_redazionale: 000U0202
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -18,55 +16,48 @@ RE D'ITALIA
 
 Visto l'articolo 36 del testo unico delle leggi sul Monte delle pensioni per gli insegnanti elementari, approvato con Nostro decreto del 30 dicembre 1894, n. 597, il quale prescrive l'istituzione d'una Commissione tecnica per sopraintendere alla gestione economica e finanziaria di quell'Azienda;
 
-Visto l'[articolo 24 della legge 14 luglio 1898, n. 335](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-07-14;335~art24), relativa all'istituzione d'una Cassa pensioni per i medici condotti, col quale pure si prescrive la costituzione d'una Commissione tecnica, estesa pero' a tutti gli Istituti di previdenza amministrati dalla Cassa dei depositi e prestiti;
+Visto l'[articolo 24 della legge 14 luglio 1898, n. 335](Che%20istituisce%20una%20Cassa-pensioni%20a%20favore%20dei%20medici%20condotti.%20098U0335.md), relativa all'istituzione d'una Cassa pensioni per i medici condotti, col quale pure si prescrive la costituzione d'una Commissione tecnica, estesa pero' a tutti gli Istituti di previdenza amministrati dalla Cassa dei depositi e prestiti;
 
 Ritenuto che per coordinare le disposizioni suddette sia conveniente comporre la Commissione tecnica in guisa che vi siano rappresentati i vari Ministeri direttamente o indirettamente interessati nella gestione degli Istituti di previdenza amministrati dalla Cassa dei depositi e prestiti;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono chiamati a far parte della Commissione tecnica per gli Istituti di previdenza amministrati dalla Cassa depositi e prestiti, i signori:   
-  
-Ricotti S. E. cav. Cesare, senatore del Regno, Presidente;   
-  
-Blaserna comm. prof. Pietro, senatore del Regno, Membro;   
-  
-Rubini ing. Giulio, deputato al Parlamento, id.;   
-  
-Saporito barone Vincenzo, deputato al Parlamento, id.;   
-  
-Mancioli comm. Vincenzo, direttore generale del Debito Pubblico, id.;   
-  
-Medolaghi comm. Salvatore, ispettore generale della Cassa dei depositi e prestiti, id.;   
-  
-Rainaldi cav. ing. Filippo, direttore capo di Divisione presso la Cassa dei depositi e prestiti, id.;   
-  
-Agostini prof. cav. Gian Jacopo, ispettore presso il Ministero dell'Istruzione Pubblica, id.;   
-  
-Quaglia cav. Agapito, direttore capo della Ragioneria del Ministero dell'Interno, Membro;   
-  
-Magaldi comm. Vincenzo, direttore capo di divisione presso il Ministero d'Agricoltura, Industria Commercio, id.;   
-  
-Paretti cav. dott. Orazio, ispettore degli Istituti di previdenza presso il Ministero d'Agricoltura, Industria e Commercio, id.;   
-  
-Bosco cav. Augusto, capo dell'Ufficio di Statistica giudiziaria nella Direzione generale della Statistica, id.;   
-  
-Gerardi cav. Omero, ingegnere del Genio civile, id.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 maggio 1900.   
-  
-UMBERTO.   
-  
-Boselli.   
-  
-Visto, Il Guardasigilli: Bonasi.   
-  
+Sono chiamati a far parte della Commissione tecnica per gli Istituti di previdenza amministrati dalla Cassa depositi e prestiti, i signori: 
+ 
+ Ricotti S. E. cav. Cesare, senatore del Regno, Presidente; 
+ 
+ Blaserna comm. prof. Pietro, senatore del Regno, Membro; 
+ 
+ Rubini ing. Giulio, deputato al Parlamento, id.; 
+ 
+ Saporito barone Vincenzo, deputato al Parlamento, id.; 
+ 
+ Mancioli comm. Vincenzo, direttore generale del Debito Pubblico, id.; 
+ 
+ Medolaghi comm. Salvatore, ispettore generale della Cassa dei depositi e prestiti, id.; 
+ 
+ Rainaldi cav. ing. Filippo, direttore capo di Divisione presso la Cassa dei depositi e prestiti, id.; 
+ 
+ Agostini prof. cav. Gian Jacopo, ispettore presso il Ministero dell'Istruzione Pubblica, id.; 
+ 
+ Quaglia cav. Agapito, direttore capo della Ragioneria del Ministero dell'Interno, Membro; 
+ 
+ Magaldi comm. Vincenzo, direttore capo di divisione presso il Ministero d'Agricoltura, Industria Commercio, id.; 
+ 
+ Paretti cav. dott. Orazio, ispettore degli Istituti di previdenza presso il Ministero d'Agricoltura, Industria e Commercio, id.; 
+ 
+ Bosco cav. Augusto, capo dell'Ufficio di Statistica giudiziaria nella Direzione generale della Statistica, id.; 
+ 
+ Gerardi cav. Omero, ingegnere del Genio civile, id. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 maggio 1900. 
+ 
+ UMBERTO. 
+ 
+ Boselli. 
+ 
+ Visto, Il Guardasigilli: Bonasi.

@@ -1,22 +1,20 @@
-REGIO DECRETO 07 febbraio 1924 n. 226
-
-
-REGIO DECRETO 07 febbraio 1924 n. 226
-=====================================
-
-Approvazione del progetto per la costruzione di una terza funicolare in Napoli. (024U0226)
-------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/03/1924
+---
+tipo: REGIO DECRETO
+numero: 226
+data: 1924-02-07
+titolo: "Approvazione del progetto per la costruzione di una terza funicolare in Napoli. (024U0226)"
+urn: urn:nir:stato:regio.decreto:1924-02-07;226
+codice_redazionale: 024U0226
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli atti prodotti dal comune di Napoli per ottenere, a norma dell'[art. 2 della legge 11 luglio 1913, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-07-11;921~art2), e dell'[art. 16 del decreto-legge Luogotenenziale 27 febbraio 1919, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1919-02-27;219~art16), convertito nella [legge 24 agosto 1921, n. 1290](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-08-24;1290), l'approvazione del progetto per la costruzione di una terza funicolare in quella citta', tra il Vomero e la Galleria Umberto I (Conte di Mola);
+Visti gli atti prodotti dal comune di Napoli per ottenere, a norma dell'[art. 2 della legge 11 luglio 1913, n. 921](Relativa%20al%20risanamento%20della%20citta%20di%20Napoli.%20013U0921.md), e dell'[art. 16 del decreto-legge Luogotenenziale 27 febbraio 1919, n. 219](Che%20reca%20provvedimenti%20per%20la%20citta%20di%20Napoli.%20019U0219.md), convertito nella [legge 24 agosto 1921, n. 1290](Che%20converte%20in%20legge%20apportandovi%20modificazioni%20il%20decreto%20Luogotenenziale%2027%20febbraio%201919%20n.%20219%20recante%20provvedimenti%20per%20la%20citta%20di%20Napoli.%20021U1290.md), l'approvazione del progetto per la costruzione di una terza funicolare in quella citta', tra il Vomero e la Galleria Umberto I (Conte di Mola);
 
 Veduto il progetto all'uopo redatto dagli ingegneri Giovanni Battista Comencini e Guido Milone, nonche' l'elenco particolareggiato degli immobili da espropriare per l'esecuzione dei relativi lavori;
 
@@ -66,7 +64,7 @@ Considerato che tali opposizioni si riassumono tutte nei seguenti motivi:
 
 a) che non esista, nelle opere progettate, il necessario carattere di pubblica utilita', in quanto la costruzione della terza funicolare non risponderebbe a necessita' ne' a vantaggio reale della collettivita', ma semplicemente a comodita' di limitata parte della popolazione;
 
-b) che alle opere stesse non siano applicabili le [leggi 15 gennaio 1885, n. 2892; 11 luglio 1923, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-07-11;921), e il [decreto-legge 27 febbraio 1919, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-02-27;219), convertito nella [legge 24 agosto 1921, n. 1290](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-08-24;1290), in quanto le opere contemplate dal progetto non avrebbero finalita' di risanamento o di ampliamento della citta' e nemmeno di viabilita';
+b) che alle opere stesse non siano applicabili le [leggi 15 gennaio 1885, n. 2892; 11 luglio 1923, n. 921](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-07-11;921), e il [decreto-legge 27 febbraio 1919, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-02-27;219), convertito nella [legge 24 agosto 1921, n. 1290](Che%20converte%20in%20legge%20apportandovi%20modificazioni%20il%20decreto%20Luogotenenziale%2027%20febbraio%201919%20n.%20219%20recante%20provvedimenti%20per%20la%20citta%20di%20Napoli.%20021U1290.md), in quanto le opere contemplate dal progetto non avrebbero finalita' di risanamento o di ampliamento della citta' e nemmeno di viabilita';
 
 c) che la conservazione delle case ora esistenti, soggette a demolizione per l'esecuzione del progetto, costituisca una utilita' pubblica prevalente su quella derivante dalla costruzione della funicolare;
 
@@ -80,7 +78,7 @@ g) che non vi sia esatta corrispondenza tra i fondi espropriandi ed il tracciato
 
 h) che il cambiamento forzato di alloggio, per taluni ricorrenti, importi un aumento di spesa di affitto che dovrebbe essere indennizzato dai concessionari;
 
-Considerato che alle [legge 15 gennaio 1885, n. 2892](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892), che detto' norme speciali per la dichiarazione di pubblica utilita' delle opere necessarie al risanamento della citta' di Napoli, seguirono la [legge 11 luglio 1913, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-07-11;921), che estese tali norme anche alle opere interessanti l'ampliamento della citta', nonche' il [decreto Luogotenenziale 27 febbraio 1919, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-27;219), convertito poi nella [legge 24 agosto 1921, n. 1290](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-08-24;1290), il quale dichiara, all'art. 16, che le disposizioni precedenti sono applicabili anche se le opere interessino l'edilizia e la viabilita', se pure non abbiano scopi prevalentemente igienici;
+Considerato che alle [legge 15 gennaio 1885, n. 2892](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892), che detto' norme speciali per la dichiarazione di pubblica utilita' delle opere necessarie al risanamento della citta' di Napoli, seguirono la [legge 11 luglio 1913, n. 921](Relativa%20al%20risanamento%20della%20citta%20di%20Napoli.%20013U0921.md), che estese tali norme anche alle opere interessanti l'ampliamento della citta', nonche' il [decreto Luogotenenziale 27 febbraio 1919, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-27;219), convertito poi nella [legge 24 agosto 1921, n. 1290](Che%20converte%20in%20legge%20apportandovi%20modificazioni%20il%20decreto%20Luogotenenziale%2027%20febbraio%201919%20n.%20219%20recante%20provvedimenti%20per%20la%20citta%20di%20Napoli.%20021U1290.md), il quale dichiara, all'art. 16, che le disposizioni precedenti sono applicabili anche se le opere interessino l'edilizia e la viabilita', se pure non abbiano scopi prevalentemente igienici;
 
 Considerato, pertanto, che non puo' a meno di riconoscersi nelle opere progettate l'estremo della pubblica utilita', quale e' stato generalmente riconosciuto da tutti i corpi competenti che esaminarono il progetto;
 
@@ -90,7 +88,7 @@ Considerato che ugualmente insussistente appare il rilievo della prevalente util
 
 Considerato che, mentre manca ogni dimostrazione dell'asserito danno che deriverebbe al corso pubblico di Via Roma, e tale danno appare eliminabile con opportune disposizioni di polizia urbana, esso non riuscirebbe mai a menomare i vantaggi generali relativi al funzionamento della nuova funicolare;
 
-Considerato che, anche ad ammettere l'attendibilita' del rilievo concernente l'insufficiente indennita' di espropriazione offerta dai concessionari ai proprietari dei fondi soggetti ad esproprio, possono costoro far valere gli eventuali loro diritti all'equo prezzo, mediante ricorso allo speciale magistrato istituito con l'[art. 17 del decreto-legge 27 febbraio 1919, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-02-27;219~art17);
+Considerato che, anche ad ammettere l'attendibilita' del rilievo concernente l'insufficiente indennita' di espropriazione offerta dai concessionari ai proprietari dei fondi soggetti ad esproprio, possono costoro far valere gli eventuali loro diritti all'equo prezzo, mediante ricorso allo speciale magistrato istituito con l'[art. 17 del decreto-legge 27 febbraio 1919, n. 219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-02-27;219#art_17);
 
 Considerato che gli eventuali danni, comunque, derivanti dalla necessita' di cambiamento di alloggio, costituiscono questioni di interesse privato, le quali non possono avere la prevalenza nei casi di espropriazione per pubblica utilita' e che, in ogni modo, tali danni sono per lo meno attenuati dalla progettata costruzione dei nuovi palazzi;
 
@@ -102,50 +100,34 @@ Visto il parere espresso dal Consiglio superiore dei lavori pubblici nell'adunan
 
 Visti i pareri favorevoli espressi dalla Commissione centrale consultiva pel risanamento di Napoli e dal Consiglio di Stato (Sezione lª) rispettivamente nella seduta del 22 dicembre 1923 e nella adunanza del 16 gennaio 1924;
 
-Visti la [legge 11 luglio 1913, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-07-11;921); il [decreto-legge Luogotenenziale 27 febbraio 1919, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1919-02-27;219), e la [legge 24 agosto 1921, n. 1290](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-08-24;1290);
+Visti la [legge 11 luglio 1913, n. 921](Relativa%20al%20risanamento%20della%20citta%20di%20Napoli.%20013U0921.md); il [decreto-legge Luogotenenziale 27 febbraio 1919, n. 219](Che%20reca%20provvedimenti%20per%20la%20citta%20di%20Napoli.%20019U0219.md), e la [legge 24 agosto 1921, n. 1290](Che%20converte%20in%20legge%20apportandovi%20modificazioni%20il%20decreto%20Luogotenenziale%2027%20febbraio%201919%20n.%20219%20recante%20provvedimenti%20per%20la%20citta%20di%20Napoli.%20021U1290.md);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno, Presidente del Consiglio dei Ministri, di concerto col Ministro per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno, Presidente del Consiglio dei Ministri, di concerto col Ministro per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvato, agli effetti della [legge 11 luglio 1913, n. 921](Relativa%20al%20risanamento%20della%20citta%20di%20Napoli.%20013U0921.md), e del [decreto-legge Luogotenenziale 27 febbraio 1919, n. 219](Che%20reca%20provvedimenti%20per%20la%20citta%20di%20Napoli.%20019U0219.md), convertito nella [legge 24 agosto 1921, n. 1290](Che%20converte%20in%20legge%20apportandovi%20modificazioni%20il%20decreto%20Luogotenenziale%2027%20febbraio%201919%20n.%20219%20recante%20provvedimenti%20per%20la%20citta%20di%20Napoli.%20021U1290.md), il progetto per la costruzione di una terza funicolare in Napoli, tra il rione del Conte di Mola (Galleria Umberto I) e il Vomero Nuovo, redatto dagli ingegneri Comencini e Milone, a condizione che sia esclusa dal piano delle espropriazioni la zona relativa al nuovo piano regolatore al Petraio. 
+ 
+ Tale progetto, col relativo piano delle espropriazioni, sara', d'ordine Nostro, munito della firma del Nostro Ministro proponente.
 
-  
-  
-  
-E' approvato, agli effetti della [legge 11 luglio 1913, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-07-11;921), e del [decreto-legge Luogotenenziale 27 febbraio 1919, n. 219](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1919-02-27;219), convertito nella [legge 24 agosto 1921, n. 1290](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-08-24;1290), il progetto per la costruzione di una terza funicolare in Napoli, tra il rione del Conte di Mola (Galleria Umberto I) e il Vomero Nuovo, redatto dagli ingegneri Comencini e Milone, a condizione che sia esclusa dal piano delle espropriazioni la zona relativa al nuovo piano regolatore al Petraio.   
-  
-Tale progetto, col relativo piano delle espropriazioni, sara', d'ordine Nostro, munito della firma del Nostro Ministro proponente.   
+## Art. 2.
 
-Art. 2
-------
+E' assegnato al comune di Napoli un termine di anni tre per l'esecuzione dei lavori e per le occorrenti espropriazioni degli immobili.
 
-  
-  
-  
-E' assegnato al comune di Napoli un termine di anni tre per l'esecuzione dei lavori e per le occorrenti espropriazioni degli immobili.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-  
-Sono respinte tutte le opposizioni prodotte dalle persone indicate nel presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 febbraio 1924.   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Carnazza.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 25 febbraio 1924.   
-  
-Atti del Governo, registro 221, foglio 261. - Granata.   
-  
+Sono respinte tutte le opposizioni prodotte dalle persone indicate nel presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 febbraio 1924. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Carnazza. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 25 febbraio 1924. 
+ 
+ Atti del Governo, registro 221, foglio 261. - Granata.

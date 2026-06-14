@@ -1,16 +1,14 @@
-REGIO DECRETO 23 settembre 1937 n. 1857
-
-
-REGIO DECRETO 23 settembre 1937 n. 1857
-=======================================
-
-Modificazioni al trattamento fiscale degli spiriti prodotti in Libia con impiego di datteri. (037U1857)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/12/1937
+---
+tipo: REGIO DECRETO
+numero: 1857
+data: 1937-09-23
+titolo: "Modificazioni al trattamento fiscale degli spiriti prodotti in Libia con impiego di datteri. (037U1857)"
+urn: urn:nir:stato:regio.decreto:1937-09-23;1857
+codice_redazionale: 037U1857
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,31 +26,25 @@ Udito il parere del Consiglio superiore coloniale;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'Africa Italiana di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per l'Africa Italiana di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I coefficienti giornalieri di resa dei lambicchi semplici a fuoco diretto, di cui all'ultimo comma dell'art. 6, del Regio decreto 15 maggio 1924-II, n. 957, modificato dal decreto 15 luglio 1926-IV, n. 1374, nel caso di impiego di datteri come materia prima per la produzione in Libia dello spirito, sono elevati nella seguente misura:   
-  
-a) da litri anidri 32 a 65, per ore 24 e per ogni ettolitro di capacita' della caldaia, per caldaie superiori ai 250 litri;   
-  
-b) da litri anidri 38 a 75, per ore 24 e per ogni ettolitro di capacita' della caldaia, per caldaie inferiori ai 250 litri.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 23 settembre 1937 - Anno XV   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - LESSONA - DI REVEL.   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 13 novembre 1937 - Anno XVI   
-Atti del Governo, registro 391, foglio 35. - MANCINI.   
+I coefficienti giornalieri di resa dei lambicchi semplici a fuoco diretto, di cui all'ultimo comma dell'art. 6, del Regio decreto 15 maggio 1924-II, n. 957, modificato dal decreto 15 luglio 1926-IV, n. 1374, nel caso di impiego di datteri come materia prima per la produzione in Libia dello spirito, sono elevati nella seguente misura: 
+ 
+ a) da litri anidri 32 a 65, per ore 24 e per ogni ettolitro di capacita' della caldaia, per caldaie superiori ai 250 litri; 
+ 
+ b) da litri anidri 38 a 75, per ore 24 e per ogni ettolitro di capacita' della caldaia, per caldaie inferiori ai 250 litri. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 23 settembre 1937 - Anno XV 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - LESSONA - DI REVEL. 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 13 novembre 1937 - Anno XVI  
+ Atti del Governo, registro 391, foglio 35. - MANCINI.

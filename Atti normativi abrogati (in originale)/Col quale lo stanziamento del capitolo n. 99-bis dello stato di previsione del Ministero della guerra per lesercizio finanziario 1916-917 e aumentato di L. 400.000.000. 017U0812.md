@@ -1,28 +1,23 @@
-DECRETO LUOGOTENENZIALE 17 maggio 1917 n. 812
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 812
+data: 1917-05-17
+titolo: "Col quale lo stanziamento del capitolo n. 99-bis dello stato di previsione del Ministero della guerra per l'esercizio finanziario 1916-917 e' aumentato di L. 400.000.000. (017U0812)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-05-17;812
+codice_redazionale: 017U0812
+vigente: true
+---
 
+## Articolo unico.
 
-DECRETO LUOGOTENENZIALE 17 maggio 1917 n. 812
-=============================================
-
-Col quale lo stanziamento del capitolo n. 99-bis dello stato di previsione del Ministero della guerra per l'esercizio finanziario 1916-917 e' aumentato di L. 400.000.000. (017U0812)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/06/1917
-
-Articolo unico
---------------
-
-  
-  
-Lo stanziamento del capitolo n. 99-bis: «Spese per la guerra» dello stato di previsione del Ministero della guerra per l'esercizio finanziario 1916-917 e' aumentato di lire quattrocentomilioni (L. 400.000.000).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 17 maggio 1917.   
-  
-TOMASO DI SAVOIA.   
-  
-Boselli - Carcano - Morrone.   
-  
-Visto, Il guardasigilli: Sacchi.   
-  
+Lo stanziamento del capitolo n. 99-bis: «Spese per la guerra» dello stato di previsione del Ministero della guerra per l'esercizio finanziario 1916-917 e' aumentato di lire quattrocentomilioni (L. 400.000.000). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 maggio 1917. 
+ 
+ TOMASO DI SAVOIA. 
+ 
+ Boselli - Carcano - Morrone. 
+ 
+ Visto, Il guardasigilli: Sacchi.

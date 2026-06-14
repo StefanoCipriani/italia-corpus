@@ -1,16 +1,14 @@
-REGIO DECRETO-LEGGE 11 giugno 1936 n. 1193
-
-
-REGIO DECRETO-LEGGE 11 giugno 1936 n. 1193
-==========================================
-
-Finanziamento della Regia Azienda Monopolio Banane per l'acquisto di navi bananiere. (036U1193)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/07/1936. Regio Decreto-Legge convertito dalla [L. 11 gennaio 1937, n. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-01-11;295) (in G.U. 25/03/1937, n.70).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1193
+data: 1936-06-11
+titolo: "Finanziamento della Regia Azienda Monopolio Banane per l'acquisto di navi bananiere. (036U1193)"
+urn: urn:nir:stato:regio.decreto.legge:1936-06-11;1193
+codice_redazionale: 036U1193
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,48 +24,32 @@ Riconosciuta l'urgente ed assoluta necessita' che l'Azienda cui sono affidati i 
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per le colonie, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per le colonie, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La Regia Azienda Monopolio Banane e' autorizzata a provvedersi di navi occorrenti al proprio servizio entro il limite di spesa di L. 30.000.000 ed a stipulare, per il relativo finanziamento, un mutuo di corrispondente ammontare per il quale il Ministero delle finanze e' autorizzato a concedere la garanzia statale.
 
-  
-  
-La Regia Azienda Monopolio Banane e' autorizzata a provvedersi di navi occorrenti al proprio servizio entro il limite di spesa di L. 30.000.000 ed a stipulare, per il relativo finanziamento, un mutuo di corrispondente ammontare per il quale il Ministero delle finanze e' autorizzato a concedere la garanzia statale.   
-  
-  
+## Art. 2.
 
-Art. 2
-------
+Per il mutuo previsto nell'articolo precedente, l'istituto o gli istituti mutuanti sono autorizzati a prescindere dalle speciali garanzie e dai limiti prescritti dalle disposizioni da cui sono retti.
 
-  
-  
-Per il mutuo previsto nell'articolo precedente, l'istituto o gli istituti mutuanti sono autorizzati a prescindere dalle speciali garanzie e dai limiti prescritti dalle disposizioni da cui sono retti.   
-  
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-I contratti stipulati, in relazione al disposto degli articoli precedenti per la commessa di navi o per il relativo finanziamento, sono approvati con decreti del Ministro per le colonie emanati di concerto con il Ministro per le finanze.   
-  
-Il presente decreto sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 11 giugno 1936 - Anno XIV   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Lessona - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 27 giugno 1936 - Anno XIV   
-  
-Atti del Governo, registro 374, foglio 181. - Mancini.   
+I contratti stipulati, in relazione al disposto degli articoli precedenti per la commessa di navi o per il relativo finanziamento, sono approvati con decreti del Ministro per le colonie emanati di concerto con il Ministro per le finanze. 
+ 
+ Il presente decreto sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 11 giugno 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Lessona - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 27 giugno 1936 - Anno XIV 
+ 
+ Atti del Governo, registro 374, foglio 181. - Mancini.

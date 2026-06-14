@@ -1,16 +1,14 @@
-REGIO DECRETO 08 maggio 1870 n. 5662
-
-
-REGIO DECRETO 08 maggio 1870 n. 5662
-====================================
-
-Riguardante la Presidenza delle Commissioni esaminatrici per l'esperimento pratico degli aspiranti ad una patente di grado nella Marina mercantile. (070U5662)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/06/1870
+---
+tipo: REGIO DECRETO
+numero: 5662
+data: 1870-05-08
+titolo: "Riguardante la Presidenza delle Commissioni esaminatrici per l'esperimento pratico degli aspiranti ad una patente di grado nella Marina mercantile. (070U5662)"
+urn: urn:nir:stato:regio.decreto:1870-05-08;5662
+codice_redazionale: 070U5662
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PFR GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,31 +18,25 @@ Visto il Reale Decreto 17 ottobre 1869, che stabilisce un nuovo sistema di esami
 
 Considerando la convenienza di modificare il disposto dell'articolo 8 del Reale Decreto sovracitato nel senso, che la presidenza delle Commissioni esaminatrici per l'esperimento di pratica abbia ad essere affidata ad un Ufficiale superiore versato nelle materie tecniche formanti il programma di siffatti esami;
 
-Sulla
------
+Sulla proposta del Nostro Ministro della Marina, di concerto con quello di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro della Marina, di concerto con quello di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Presidenti delle Commissioni esaminatrici per l'esperimento di pratica ai candidati alle patenti di grado nella Marina mercantile, saranno in ogni tornata di esami designati con Decreto del predetto Nostro Ministro della   
-  
-Marina, e scelti tra gli Ufficiali superiori dello Stato Maggiore generale della Regia Marina, o tra i Capitani di porto provenienti dagli Ufficiali dello Stato Maggiore medesimo.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 8 maggio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 26 maggio 1870   
-  
-Reg 51 Atti del Governo a c. 81. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Acton.   
-Castagnola.   
+I Presidenti delle Commissioni esaminatrici per l'esperimento di pratica ai candidati alle patenti di grado nella Marina mercantile, saranno in ogni tornata di esami designati con Decreto del predetto Nostro Ministro della 
+ 
+ Marina, e scelti tra gli Ufficiali superiori dello Stato Maggiore generale della Regia Marina, o tra i Capitani di porto provenienti dagli Ufficiali dello Stato Maggiore medesimo. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 8 maggio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 26 maggio 1870 
+ 
+ Reg 51 Atti del Governo a c. 81. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Acton. 
+ Castagnola.

@@ -1,19 +1,15 @@
-REGIO DECRETO 04 maggio 1911 n. 457
+---
+tipo: REGIO DECRETO
+numero: 457
+data: 1911-05-04
+titolo: "Applicazioni di tasse sul bestiame (011U0457)"
+urn: urn:nir:stato:regio.decreto:1911-05-04;457
+codice_redazionale: 011U0457
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 maggio 1911 n. 457
-===================================
-
-Applicazioni di tasse sul bestiame (011U0457)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 15/06/1911
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. 457. R. decreto 4 maggio 1911, col quale e' data facolta' al comune di Serra Sant'Abbondio di eccedere, nel solo anno 1911, i limiti massimi della tassa sul bestiame, in conformita' della deliberazione consiliare del 27 dicembre 1910.   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. 457. R. decreto 4 maggio 1911, col quale e' data facolta' al comune di Serra Sant'Abbondio di eccedere, nel solo anno 1911, i limiti massimi della tassa sul bestiame, in conformita' della deliberazione consiliare del 27 dicembre 1910.

@@ -1,16 +1,14 @@
-REGIO DECRETO 10 marzo 1862 n. 485
-
-
-REGIO DECRETO 10 marzo 1862 n. 485
-==================================
-
-Che applica agli stipendi dei Capi di Provincia, dei Capi di Circondario e dei Consiglieri di Prefettura nelle Provincie Toscane le disposizioni della legge 28 maggio 1852. (062U0485)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/03/1862
+---
+tipo: REGIO DECRETO
+numero: 485
+data: 1862-03-10
+titolo: "Che applica agli stipendi dei Capi di Provincia, dei Capi di Circondario e dei Consiglieri di Prefettura nelle Provincie Toscane le disposizioni della legge 28 maggio 1852. (062U0485)"
+urn: urn:nir:stato:regio.decreto:1862-03-10;485
+codice_redazionale: 062U0485
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,38 +26,27 @@ Considerando che tale ritenuta osterebbe a quella parificazione negli stipendi c
 
 Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno e del Ministro delle Finanze;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Per l'effetto della legge 9 ottobre 1861 saranno applicabili agli stipendi dei Capi di Provincia e rispettivamente dei Capi di Circondario e dei Consiglieri di Prefettura nelle Provincie Toscane le disposizioni della legge 28 maggio 1852, la quale entrera' in vigore dal giorno primo del corrente anno, e sara' pubblicata congiuntamente al presente Decreto.
 
-  
-  
-Per l'effetto della legge 9 ottobre 1861 saranno applicabili agli stipendi dei Capi di Provincia e rispettivamente dei Capi di Circondario e dei Consiglieri di Prefettura nelle Provincie Toscane le disposizioni della legge 28 maggio 1852, la quale entrera' in vigore dal giorno primo del corrente anno, e sara' pubblicata congiuntamente al presente Decreto.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' abrogata ogni contraria disposizione vigente nelle stesse Provincie.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 10 marzo 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 16 marzo 1862   
-  
-Reg.° 19 Atti del Governo a c. 116. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cordova.   
-  
-U. Rattazzi.   
-Quintino Sella.   
-  
+E' abrogata ogni contraria disposizione vigente nelle stesse Provincie. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 10 marzo 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 16 marzo 1862 
+ 
+ Reg.° 19 Atti del Governo a c. 116. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cordova. 
+ 
+ U. Rattazzi. 
+ Quintino Sella.

@@ -1,42 +1,33 @@
-REGIO DECRETO 24 giugno 1894 n. 281
-
-
-REGIO DECRETO 24 giugno 1894 n. 281
-===================================
-
-Che modifica il ruolo del personale consolare di prima categoria. (094U0281)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/07/1894
+---
+tipo: REGIO DECRETO
+numero: 281
+data: 1894-06-24
+titolo: "Che modifica il ruolo del personale consolare di prima categoria. (094U0281)"
+urn: urn:nir:stato:regio.decreto:1894-06-24;281
+codice_redazionale: 094U0281
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 7 giugno 1894 n. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-06-07;213), che approva lo stato di previsione della spesa del Ministero degli Affari Esteri per l'esercizio finanziario 1894-95;
+Vista la [legge 7 giugno 1894 n. 213](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20per%20lesercizio%20finanziario%201894%2095%20del%20Ministero%20degli%20affari%20esteri.%20094U0213.md), che approva lo stato di previsione della spesa del Ministero degli Affari Esteri per l'esercizio finanziario 1894-95;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il ruolo del personale consolare di 1ª categoria e' aumentato di quattro vice consoli di terza classe, a lire duemila ciascuno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 giugno 1894.   
-  
-UMBERTO.   
-  
-A. Blanc.   
-  
-Visto, Il Guardasigilli: V. Calenda di Tavani.   
-  
+Il ruolo del personale consolare di 1ª categoria e' aumentato di quattro vice consoli di terza classe, a lire duemila ciascuno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 giugno 1894. 
+ 
+ UMBERTO. 
+ 
+ A. Blanc. 
+ 
+ Visto, Il Guardasigilli: V. Calenda di Tavani.

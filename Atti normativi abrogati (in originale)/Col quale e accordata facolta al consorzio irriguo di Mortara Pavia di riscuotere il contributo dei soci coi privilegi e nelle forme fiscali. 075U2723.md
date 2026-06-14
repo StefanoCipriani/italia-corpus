@@ -1,16 +1,14 @@
-REGIO DECRETO 03 ottobre 1875 n. 2723
-
-
-REGIO DECRETO 03 ottobre 1875 n. 2723
-=====================================
-
-Col quale e' accordata facolta' al consorzio irriguo di Mortara (Pavia) di riscuotere il contributo dei soci coi privilegi e nelle forme fiscali. (075U2723)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/11/1875
+---
+tipo: REGIO DECRETO
+numero: 2723
+data: 1875-10-03
+titolo: "Col quale e' accordata facolta' al consorzio irriguo di Mortara (Pavia) di riscuotere il contributo dei soci coi privilegi e nelle forme fiscali. (075U2723)"
+urn: urn:nir:stato:regio.decreto:1875-10-03;2723
+codice_redazionale: 075U2723
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,26 +20,18 @@ Visto l'atto di costituzione del Consorzio, rogato in Mortara dal notaio Felice 
 
 Vista la deliberazione dell'assemblea generale dei consortisti del di' 4 luglio 1875, con cui vengono accettate le modificazioni suggerite con nota del Nostro Ministro d'Agricoltura, Industria e Commercio del di' 21 giugno 1875, numero 27146/8825;
 
-Vista la [legge 29 maggio 1873, n. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (Serie 2ª);
+Vista la [legge 29 maggio 1873, n. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md) (Serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al Consorzio costituitosi in Mortara (provincia di Pavia) con atto rogato dal notaio Felice Costa addi' 1° febbraio 1874 per l'irrigazione di terreni in quel comune mediante derivazione dell'acqua dal Canale Cavour (subdiramatore Quintino Sella) e' concessa la facolta' di riscuotere il contributo dei soci coi privilegi e nelle forme fiscali.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 3 ottobre 1875.   
-  
-VITTORIO EMANUELE.   
-  
-G. Finali.   
-  
-  
+Al Consorzio costituitosi in Mortara (provincia di Pavia) con atto rogato dal notaio Felice Costa addi' 1° febbraio 1874 per l'irrigazione di terreni in quel comune mediante derivazione dell'acqua dal Canale Cavour (subdiramatore Quintino Sella) e' concessa la facolta' di riscuotere il contributo dei soci coi privilegi e nelle forme fiscali. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 3 ottobre 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Finali.

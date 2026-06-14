@@ -1,17 +1,17 @@
-REGIO DECRETO 26 giugno 1921 n. 991
+---
+tipo: REGIO DECRETO
+numero: 991
+data: 1921-06-26
+titolo: "Applicazione di tassa di esercizio. (021U0991)"
+urn: urn:nir:stato:regio.decreto:1921-06-26;991
+codice_redazionale: 021U0991
+vigente: true
+---
 
-
-REGIO DECRETO 26 giugno 1921 n. 991
-===================================
-
-Applicazione di tassa di esercizio. (021U0991)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 16/08/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-991. Regio decreto 26 giugno 1921, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Borgosesia (Novara), di applicare, dal 1° gennaio al 31 dicembre 1921, la tassa di esercizio col limite massimo fino a L. 4000.
+991.
+
+Regio decreto 26 giugno 1921, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Borgosesia (Novara), di applicare, dal 1° gennaio al 31 dicembre 1921, la tassa di esercizio col limite massimo fino a L. 4000.

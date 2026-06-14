@@ -1,39 +1,35 @@
-LEGGE 03 aprile 1926 n. 607
+---
+tipo: LEGGE
+numero: 607
+data: 1926-04-03
+titolo: "Conversione in legge del R. decreto-legge 10 novembre 1924, n. 2107, contenente norme interpretative delle disposizioni legislative sul loro erariale in materia di tasse. (026U0607)"
+urn: urn:nir:stato:legge:1926-04-03;607
+codice_redazionale: 026U0607
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 03 aprile 1926 n. 607
-===========================
-
-Conversione in legge del R. decreto-legge 10 novembre 1924, n. 2107, contenente norme interpretative delle disposizioni legislative sul loro erariale in materia di tasse. (026U0607)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/04/1926
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
-  
-RE D'ITALIA   
-  
-Il Senato e la Camera dei deputati hanno approvato;   
-  
-Noi abbiamo sanzionato e promulghiamo quanto segue:   
-  
-Articolo unico.   
-  
-E' convertito in legge il [R. decreto 10 novembre 1924, n. 2107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-10;2107), contenente norme interpretative delle disposizioni legislative sul foro erariale in materia di tasse.   
-  
-Ordiniamo che la presente, munita del sigillo delle Stato. sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a San Rossore, addi' 3 aprile 1926.   
-  
-VITTORIO EMANUELE.   
-  
-Volpi.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Il Senato e la Camera dei deputati hanno approvato; 
+ 
+ Noi abbiamo sanzionato e promulghiamo quanto segue: 
+ 
+ Articolo unico. 
+ 
+ E' convertito in legge il [R. decreto 10 novembre 1924, n. 2107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-10;2107), contenente norme interpretative delle disposizioni legislative sul foro erariale in materia di tasse. 
+ 
+ Ordiniamo che la presente, munita del sigillo delle Stato. sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a San Rossore, addi' 3 aprile 1926. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Volpi. 
+ 
+ Visto, il Guardasigilli: Rocco.

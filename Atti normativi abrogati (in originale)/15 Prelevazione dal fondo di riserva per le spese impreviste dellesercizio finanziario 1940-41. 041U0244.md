@@ -1,16 +1,14 @@
-REGIO DECRETO 10 aprile 1941 n. 244
-
-
-REGIO DECRETO 10 aprile 1941 n. 244
-===================================
-
-15° Prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1940-41. (041U0244)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/05/1941
+---
+tipo: REGIO DECRETO
+numero: 244
+data: 1941-04-10
+titolo: "15° Prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1940-41. (041U0244)"
+urn: urn:nir:stato:regio.decreto:1941-04-10;244
+codice_redazionale: 041U0244
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,45 +22,39 @@ Ritenuto che sul fondo di riserva per le spese impreviste dell'esercizio finanzi
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
+Dal fondo di riserva per le spese impreviste, inscritto al capitolo n. 304 dello stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1940-41, e' autorizzata una 15° prelevazione nella somma di lire duemilioni duecentocinquantamila (L.
+2.250.000) da inscriversi ai sottoindicati capitoli degli stati di previsione seguenti: 
+ 
+ 
 
-  
-  
-Dal fondo di riserva per le spese impreviste, inscritto al capitolo n. 304 dello stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1940-41, e' autorizzata una 15° prelevazione nella somma di lire duemilioni duecentocinquantamila (L.  
-2.250.000) da inscriversi ai sottoindicati capitoli degli stati di previsione seguenti:   
-  
-  
-  
-Ministero delle finanze:  
-Cap. n. 42. - Assegnazione a favore  
-dell'Opera nazionale di assistenza all'Italia  
-redenta . . . . . . L. 1.250.000 Ministero della guerra:  
-Cap. n. 9. - Sussidi ai militari ed ai personali  
-in attivita' di servizio, ecc. . . . . » 1.000.000  
--------------- Totale . . . L. 2.250.000  
---------------   
-  
-  
-Questo decreto sara' presentato alle Assemblee legislative per la sua convalidazione. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservano e di farlo osservare.   
-  
-Dalla Zona di operazioni, addi' 10 aprile 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-(ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76)   
-  
-MUSSOLINI   
-  
-Registrato alla Corte dei conti, addi' 23 aprile 1941-XIX   
-  
-Atti del Governo, registro 432, foglio 50. - MANCINI   
+Ministero delle finanze:
+Cap. n. 42. - Assegnazione a favore
+dell'Opera nazionale di assistenza all'Italia
+redenta . . . . . . L. 1.250.000 Ministero della guerra:
+Cap. n. 9. - Sussidi ai militari ed ai personali
+in attivita' di servizio, ecc. . . . . » 1.000.000
+ -------------- Totale . . . L. 2.250.000
+ -------------- 
+ 
+ 
+ Questo decreto sara' presentato alle Assemblee legislative per la sua convalidazione. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservano e di farlo osservare. 
+ 
+ Dalla Zona di operazioni, addi' 10 aprile 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ (ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76) 
+ 
+ MUSSOLINI 
+ 
+ Registrato alla Corte dei conti, addi' 23 aprile 1941-XIX 
+ 
+ Atti del Governo, registro 432, foglio 50. - MANCINI

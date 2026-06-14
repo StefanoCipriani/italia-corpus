@@ -1,16 +1,14 @@
-REGIO DECRETO 14 maggio 1894 n. 204
-
-
-REGIO DECRETO 14 maggio 1894 n. 204
-===================================
-
-Che sopprime il posto di notaro assegnato al comune di Albosaggia. (094U0204)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/06/1894
+---
+tipo: REGIO DECRETO
+numero: 204
+data: 1894-05-14
+titolo: "Che sopprime il posto di notaro assegnato al comune di Albosaggia. (094U0204)"
+urn: urn:nir:stato:regio.decreto:1894-05-14;204
+codice_redazionale: 094U0204
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Visto l'art. 4 della legge sul notariato, approvata con Nostro decreto 25 maggio
 
 Ritenuto esser giustificata la opportunita' della detta soppressione;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' soppresso il posto di notaro assegnato al comune di Albosaggia, distretto notarile di Sondrio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Milano, addi' 14 maggio 1894.   
-  
-UMBERTO.   
-  
-CALENDA.   
-  
-Visto Il Guardasigilli: V. CALENDA DI TAVANI.   
-  
+E' soppresso il posto di notaro assegnato al comune di Albosaggia, distretto notarile di Sondrio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Milano, addi' 14 maggio 1894. 
+ 
+ UMBERTO. 
+ 
+ CALENDA. 
+ 
+ Visto Il Guardasigilli: V. CALENDA DI TAVANI.

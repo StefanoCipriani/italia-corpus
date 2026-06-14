@@ -1,21 +1,21 @@
-REGIO DECRETO 23 aprile 1931 n. 737
+---
+tipo: REGIO DECRETO
+numero: 737
+data: 1931-04-23
+titolo: "Erezione in ente morale dell'Opera pia «Orfanotrofio cittadino» con sede in Riva del Garda. (031U0737)"
+urn: urn:nir:stato:regio.decreto:1931-04-23;737
+codice_redazionale: 031U0737
+vigente: true
+---
 
-
-REGIO DECRETO 23 aprile 1931 n. 737
-===================================
-
-Erezione in ente morale dell'Opera pia «Orfanotrofio cittadino» con sede in Riva del Garda. (031U0737)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/07/1931
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-737. R. decreto 23 aprile 1931, col quale, sulla proposta del Capo del Governo; Primo Ministro, Ministro per terno, l'Opera pia «Orfanotrofio Cittadino», con sede in Riva del Garda, viene eretta in ente morale, sotto amministrazione autonoma, e ne e' approvato lo statuto organico.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 19 giugno 1931 - Anno IX
+737.
+
+R. decreto 23 aprile 1931, col quale, sulla proposta del Capo del Governo; Primo Ministro, Ministro per terno, l'Opera pia «Orfanotrofio Cittadino», con sede in Riva del Garda, viene eretta in ente morale, sotto amministrazione autonoma, e ne e' approvato lo statuto organico. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 19 giugno 1931 - Anno IX

@@ -1,16 +1,14 @@
-REGIO DECRETO 12 settembre 1879 n. 5100
-
-
-REGIO DECRETO 12 settembre 1879 n. 5100
-=======================================
-
-Che modifica l'elenco delle strade provinciali di Teramo per quanto riguarda la provinciale Penne Montesilvano. (079U5100)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/11/1879
+---
+tipo: REGIO DECRETO
+numero: 5100
+data: 1879-09-12
+titolo: "Che modifica l'elenco delle strade provinciali di Teramo per quanto riguarda la provinciale Penne Montesilvano. (079U5100)"
+urn: urn:nir:stato:regio.decreto:1879-09-12;5100
+codice_redazionale: 079U5100
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,26 +32,19 @@ Visti gli articoli 13, 14 e 15 della legge 20 marzo 1865 sui lavori pubblici:
 
 Udito l'avviso del Consiglio superiore dei lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'elenco delle strade provinciali di Teramo e' modificato, per quanto riguarda la provinciale Penne-Montesilvano, sostituendo al tratto compreso fra la salita e discesa della Cappella quello novellamente costruito dal ponte sul Tavo al termine della collina.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 12 settembre 1879.   
-  
-UMBERTO.   
-  
-A. Baccarini.   
-  
-Visto - Il Guardasigilli   
-Vare'.   
-  
+L'elenco delle strade provinciali di Teramo e' modificato, per quanto riguarda la provinciale Penne-Montesilvano, sostituendo al tratto compreso fra la salita e discesa della Cappella quello novellamente costruito dal ponte sul Tavo al termine della collina. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 12 settembre 1879. 
+ 
+ UMBERTO. 
+ 
+ A. Baccarini. 
+ 
+ Visto - Il Guardasigilli 
+ Vare'.

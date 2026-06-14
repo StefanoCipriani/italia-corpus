@@ -1,16 +1,14 @@
-REGIO DECRETO 06 febbraio 1898 n. 33
-
-
-REGIO DECRETO 06 febbraio 1898 n. 33
-====================================
-
-Col quale il Ministero degli Affari Esteri assume l'intera gestione delle Regie Scuole in Porto-Said. (098U0033)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/03/1898
+---
+tipo: REGIO DECRETO
+numero: 33
+data: 1898-02-06
+titolo: "Col quale il Ministero degli Affari Esteri assume l'intera gestione delle Regie Scuole in Porto-Said. (098U0033)"
+urn: urn:nir:stato:regio.decreto:1898-02-06;33
+codice_redazionale: 098U0033
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,41 +24,26 @@ Considerata l'impossibilita' di poter per ora ricostituire la Societa' italiana 
 
 Ritenuta quindi la necessita' che il Ministero degli Affari Esteri assuma definitivamente l'intera gestione delle Regie Scuole in Porto Said;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Tutte le spese sostenute per le Regie Scuole in Porto Said dal 1° gennaio al 31 dicembre 1897, assegnate dall'[articolo 3 del Regio decreto 31 agosto 1894, n. 431](Che%20dichiara%20governative%20le%20scuole%20elementari%20maschile%20e%20femminile%20di%20Porto%20Said.%20094U0431.md), alla Colonia sono poste a carico del Ministero degli Affari Esteri.
 
-  
-  
-Tutte le spese sostenute per le Regie Scuole in Porto Said dal 1° gennaio al 31 dicembre 1897, assegnate dall'[articolo 3 del Regio decreto 31 agosto 1894, n. 431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-08-31;431~art3), alla Colonia sono poste a carico del Ministero degli Affari Esteri.   
-  
+## Art. 2.
 
-Art. 2
-------
+A datare dal 1° gennaio 1898, il Ministero degli Affari Esteri provvedera' a tutte le spese occorrenti per le Regie Scuole in Porto Said, ossia agli stipendi, assegni e rimunerazioni al personale insegnante di ruolo ed agli incaricati temporanei, ai salari del personale di servizio, al fitto dei locali, alla provvista del materiale didattico e scientifico ed a tutte le altre spese varie e generali.
 
-  
-  
-A datare dal 1° gennaio 1898, il Ministero degli Affari Esteri provvedera' a tutte le spese occorrenti per le Regie Scuole in Porto Said, ossia agli stipendi, assegni e rimunerazioni al personale insegnante di ruolo ed agli incaricati temporanei, ai salari del personale di servizio, al fitto dei locali, alla provvista del materiale didattico e scientifico ed a tutte le altre spese varie e generali.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Alle spese indicate agli articoli 1 e 2 del presente decreto, il Ministero degli Affari Esteri provvedera' coi fondi assegnati al capitolo 29 del proprio bilancio (Scuole all'estero).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 febbraio 1898.   
-  
-UMBERTO.   
-  
-Visconti Venosta.   
-  
-Visto, Il Guardasigilli: G. Zanardelli.   
-  
+Alle spese indicate agli articoli 1 e 2 del presente decreto, il Ministero degli Affari Esteri provvedera' coi fondi assegnati al capitolo 29 del proprio bilancio (Scuole all'estero). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 febbraio 1898. 
+ 
+ UMBERTO. 
+ 
+ Visconti Venosta. 
+ 
+ Visto, Il Guardasigilli: G. Zanardelli.

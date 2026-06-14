@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 22 agosto 1915 n. 1391
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1391
+data: 1915-08-22
+titolo: "Approvazione di statuto. (015U1391)"
+urn: urn:nir:stato:decreto.luogotenenziale:1915-08-22;1391
+codice_redazionale: 015U1391
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 22 agosto 1915 n. 1391
-==============================================
-
-Approvazione di statuto. (015U1391)
------------------------------------
-
-Entrata in vigore del provvedimento: 09/10/1915
-
-Art. 1
-------
-
-  
-N. 1391   
-  
-Decreto Luogotenenziale 22 agosto 1915, col quale su proposta del ministro di agricoltura, industria e commercio, di concerto col ministro dell'interno, si approva il nuovo statuto organico per il Monte di Pieta' di Santa Maria Capua Vetere.   
-  
+N. 1391 
+ 
+ Decreto Luogotenenziale 22 agosto 1915, col quale su proposta del ministro di agricoltura, industria e commercio, di concerto col ministro dell'interno, si approva il nuovo statuto organico per il Monte di Pieta' di Santa Maria Capua Vetere.

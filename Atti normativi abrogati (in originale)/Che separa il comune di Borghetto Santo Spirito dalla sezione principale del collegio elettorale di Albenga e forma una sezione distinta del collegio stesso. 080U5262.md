@@ -1,16 +1,14 @@
-REGIO DECRETO 22 gennaio 1880 n. 5262
-
-
-REGIO DECRETO 22 gennaio 1880 n. 5262
-=====================================
-
-Che separa il comune di Borghetto Santo Spirito dalla sezione principale del collegio elettorale di Albenga e forma una sezione distinta del collegio stesso. (080U5262)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/02/1880
+---
+tipo: REGIO DECRETO
+numero: 5262
+data: 1880-01-22
+titolo: "Che separa il comune di Borghetto Santo Spirito dalla sezione principale del collegio elettorale di Albenga e forma una sezione distinta del collegio stesso. (080U5262)"
+urn: urn:nir:stato:regio.decreto:1880-01-22;5262
+codice_redazionale: 080U5262
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Che Borghetto Santo Spirito conta 69 elettori, numero questo alquanto superiore 
 
 Considerato che istituendo una sezione in Borghetto Santo Spirito si rende piu' facile l'esercizio del diritto elettorale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Borghetto Santo Spirito e' separato dalla sezione principale del Collegio elettorale di Albenga, e forma una sezione distinta dello stesso Collegio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato Roma, addi' 22 gennaio 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il comune di Borghetto Santo Spirito e' separato dalla sezione principale del Collegio elettorale di Albenga, e forma una sezione distinta dello stesso Collegio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato Roma, addi' 22 gennaio 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

@@ -1,16 +1,14 @@
-REGIO DECRETO 24 febbraio 1887 n. 4370
-
-
-REGIO DECRETO 24 febbraio 1887 n. 4370
-======================================
-
-Concernente l'indennita' annua da corrispondersi ai contabili quartiermastri del 2° e 3º dipartimento marittimo. (087U4370)
----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/03/1887
+---
+tipo: REGIO DECRETO
+numero: 4370
+data: 1887-02-24
+titolo: "Concernente l'indennita' annua da corrispondersi ai contabili quartiermastri del 2° e 3º dipartimento marittimo. (087U4370)"
+urn: urn:nir:stato:regio.decreto:1887-02-24;4370
+codice_redazionale: 087U4370
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -18,35 +16,24 @@ RE D'ITALIA
 
 Visto il R. decreto 23 dicembre 1876 sull'ordinamento del Corpo dei contabili della R. Marina;
 
-Vista la [legge 17 febbraio 1887, n. 4331](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-02-17;4331) (Serie 3ª), che approva lo stato di previsione della spesa per il Ministero della Marina;
+Vista la [legge 17 febbraio 1887, n. 4331](col%20quale%20viene%20approvato%20lo%20Stato%20di%20previsione%20della%20Spesa%20del%20Ministero%20della%20Marina%20087U4331.md) (Serie 3ª), che approva lo stato di previsione della spesa per il Ministero della Marina;
 
-Sulla
------
+Sulla proposta del Nostro Ministro della Marina, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro della Marina, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'indennita' annua dei contabili quartiermastri del 2° e del 3° dipartimento marittimo e' portata a lire 5000 per ciascuno, con decorrenza dal 1° aprile 1887.
 
-  
-  
-L'indennita' annua dei contabili quartiermastri del 2° e del 3° dipartimento marittimo e' portata a lire 5000 per ciascuno, con decorrenza dal 1° aprile 1887.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il quartiermastro del 3° dipartimento marittimo ha obbligo di aumentare il personale del proprio ufficio di uno scritturale, portando cosi' il personale stesso al numero prescritto dall'art. 5 del succitato R. decreto 23 dicembre 1876 per i quartiermastri del 1° e del 2° dipartimento marittimo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 febbraio 1887.   
-  
-UMBERTO.   
-  
-B. Brin.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+Il quartiermastro del 3° dipartimento marittimo ha obbligo di aumentare il personale del proprio ufficio di uno scritturale, portando cosi' il personale stesso al numero prescritto dall'art. 5 del succitato R. decreto 23 dicembre 1876 per i quartiermastri del 1° e del 2° dipartimento marittimo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 febbraio 1887. 
+ 
+ UMBERTO. 
+ 
+ B. Brin. 
+ 
+ Visto, Il Guardasigilli: Tajani.

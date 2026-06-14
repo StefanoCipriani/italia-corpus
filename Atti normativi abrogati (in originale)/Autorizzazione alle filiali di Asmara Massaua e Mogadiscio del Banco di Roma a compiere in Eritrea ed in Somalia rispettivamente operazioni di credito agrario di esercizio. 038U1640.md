@@ -1,16 +1,14 @@
-REGIO DECRETO 21 luglio 1938 n. 1640
-
-
-REGIO DECRETO 21 luglio 1938 n. 1640
-====================================
-
-Autorizzazione alle filiali di Asmara, Massaua e Mogadiscio del Banco di Roma a compiere in Eritrea ed in Somalia, rispettivamente, operazioni di credito agrario di esercizio. (038U1640)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/11/1938
+---
+tipo: REGIO DECRETO
+numero: 1640
+data: 1938-07-21
+titolo: "Autorizzazione alle filiali di Asmara, Massaua e Mogadiscio del Banco di Roma a compiere in Eritrea ed in Somalia, rispettivamente, operazioni di credito agrario di esercizio. (038U1640)"
+urn: urn:nir:stato:regio.decreto:1938-07-21;1640
+codice_redazionale: 038U1640
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,27 +30,21 @@ Udito il parere del Consiglio superiore coloniale;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE, Ministro Segretario di Stato per l'Africa Italiana, di concerto con i Ministri Segretari di Stato per le finanze e per l'agricoltura e foreste; Abbiamo decretato e decretiamo:
 
-proposta del DUCE, Ministro Segretario di Stato per l'Africa Italiana, di concerto con i Ministri Segretari di Stato per le finanze e per l'agricoltura e foreste; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Banco di Roma e' autorizzato a compiere in Eritrea e in Somalia, rispettivamente, per mezzo delle filiali di Massaua, di Asmara e di Mogadiscio, operazioni di credito agrario di esercizio, con l'osservanza delle disposizioni contenute nel R. decreto 29 dicembre 1932-XI, n. 2052, per l'Eritrea e del R. decreto 7 marzo 1933-XI, n. 452, per la Somalia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 21 luglio 1938-XVI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini Di Revel - Rossoni   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 22 ottobre 1938 - Anno XVI   
-Atti del Governo, registro 402, foglio 113. - Mancini.   
+Il Banco di Roma e' autorizzato a compiere in Eritrea e in Somalia, rispettivamente, per mezzo delle filiali di Massaua, di Asmara e di Mogadiscio, operazioni di credito agrario di esercizio, con l'osservanza delle disposizioni contenute nel R. decreto 29 dicembre 1932-XI, n. 2052, per l'Eritrea e del R. decreto 7 marzo 1933-XI, n. 452, per la Somalia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 21 luglio 1938-XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini Di Revel - Rossoni 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 22 ottobre 1938 - Anno XVI  
+ Atti del Governo, registro 402, foglio 113. - Mancini.

@@ -1,23 +1,19 @@
-REGIO DECRETO 10 luglio 1901 n. CCIX
+---
+tipo: REGIO DECRETO
+numero: CCIX
+data: 1901-07-10
+titolo: "Che erige in ente morale la fondazione Ricasoli in Gaiole. (0100209R)"
+urn: urn:nir:stato:regio.decreto:1901-07-10;209
+codice_redazionale: 0100209R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 luglio 1901 n. CCIX
-====================================
-
-Che erige in ente morale la fondazione Ricasoli in Gaiole. (0100209R)
----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/08/1901
-
-Art. 1
-------
-
-  
-Con cui la fondazione Ricasoli in Gaiole avente per scopo l'erogazione annua di lire 1,000 in sussidi di previdenza a favore degli operai poveri d'ambo i sessi del predetto comune di Gaiole viene eretta in ente morale e ne viene approvato lo statuto organico.  
-- Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F.  
-Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 20 luglio 1901.   
-  
-Reg. 230. Atti del Governo a f. 26.   
-  
+Con cui la fondazione Ricasoli in Gaiole avente per scopo l'erogazione annua di lire 1,000 in sussidi di previdenza a favore degli operai poveri d'ambo i sessi del predetto comune di Gaiole viene eretta in ente morale e ne viene approvato lo statuto organico.
+- Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F.
+Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 20 luglio 1901. 
+ 
+ Reg. 230. Atti del Governo a f. 26.

@@ -1,16 +1,14 @@
-REGIO DECRETO 09 agosto 1876 n. 3267
-
-
-REGIO DECRETO 09 agosto 1876 n. 3267
-====================================
-
-Col quale il comune di Arcola e' separato dalla sezione di Vezzano Ligure e costituito in sezione distinta del collegio elettorale di Spezia, n. 196. (076U3267)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/08/1876
+---
+tipo: REGIO DECRETO
+numero: 3267
+data: 1876-08-09
+titolo: "Col quale il comune di Arcola e' separato dalla sezione di Vezzano Ligure e costituito in sezione distinta del collegio elettorale di Spezia, n. 196. (076U3267)"
+urn: urn:nir:stato:regio.decreto:1876-08-09;3267
+codice_redazionale: 076U3267
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Arcola e' separato dalla sezione di Vezzano Ligure e costituira' d'ora in poi una sezione distinta del Collegio elettorale di Spezia n. 196.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Castello di Sarre, addi' 9 agosto 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il comune di Arcola e' separato dalla sezione di Vezzano Ligure e costituira' d'ora in poi una sezione distinta del Collegio elettorale di Spezia n. 196. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Castello di Sarre, addi' 9 agosto 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

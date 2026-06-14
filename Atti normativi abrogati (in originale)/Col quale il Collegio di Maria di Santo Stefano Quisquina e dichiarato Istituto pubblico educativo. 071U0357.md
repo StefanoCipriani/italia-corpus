@@ -1,16 +1,14 @@
-REGIO DECRETO 11 giugno 1871 n. 357
-
-
-REGIO DECRETO 11 giugno 1871 n. 357
-===================================
-
-Col quale il Collegio di Maria di Santo Stefano Quisquina e' dichiarato Istituto pubblico educativo. (071U0357)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/08/1871
+---
+tipo: REGIO DECRETO
+numero: 357
+data: 1871-06-11
+titolo: "Col quale il Collegio di Maria di Santo Stefano Quisquina e' dichiarato Istituto pubblico educativo. (071U0357)"
+urn: urn:nir:stato:regio.decreto:1871-06-11;357
+codice_redazionale: 071U0357
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,45 +22,30 @@ Vista la necessita' di dare al Collegio di Maria di Santo Stefano Quisquina un o
 
 Considerati d'altra parte i diritti di patronato che i Principi di Belmonte esercitarono su questo Collegio dal 1772 in qua;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il Collegio di Maria di Santo Stefano Quisquina (provincia di Girgenti) e' dichiarato Istituto pubblico educativo dipendente dal Ministero della Pubblica Istruzione.
 
-  
-  
-Il Collegio di Maria di Santo Stefano Quisquina (provincia di Girgenti) e' dichiarato Istituto pubblico educativo dipendente dal Ministero della Pubblica Istruzione.   
-  
+## Art. 2.
 
-Art. 2
-------
+Il Principe di Belmonte, e due altre persone autorevoli che verranno designate dal Consiglio provinciale scolastico di Girgenti, prepareranno e sottoporranno all'approvazione del Ministero uno statuto organico del Collegio secondo le norme contenute negli articoli 8 e seguenti (titoli II e III) del Regolamento approvato con Nostro Decreto del 6 ottobre 1867, per la parte che si attiene alla istruzione elementare e alla educazione delle fanciulle.
 
-  
-  
-Il Principe di Belmonte, e due altre persone autorevoli che verranno designate dal Consiglio provinciale scolastico di Girgenti, prepareranno e sottoporranno all'approvazione del Ministero uno statuto organico del Collegio secondo le norme contenute negli articoli 8 e seguenti (titoli II e III) del Regolamento approvato con Nostro Decreto del 6 ottobre 1867, per la parte che si attiene alla istruzione elementare e alla educazione delle fanciulle.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Tutte le disposizioni anteriori contrarie a queste sono abrogate.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 14 giugno 4871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 26 luglio 1871   
-  
-Reg. 57 Atti del Governo a c. 4. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Correnti.   
-  
+Tutte le disposizioni anteriori contrarie a queste sono abrogate. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 14 giugno 4871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 26 luglio 1871 
+ 
+ Reg. 57 Atti del Governo a c. 4. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Correnti.

@@ -1,19 +1,15 @@
-REGIO DECRETO 04 marzo 1915 n. 289
+---
+tipo: REGIO DECRETO
+numero: 289
+data: 1915-03-04
+titolo: "Erezione in ente morale. (015U0289)"
+urn: urn:nir:stato:regio.decreto:1915-03-04;289
+codice_redazionale: 015U0289
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 marzo 1915 n. 289
-==================================
-
-Erezione in ente morale. (015U0289)
------------------------------------
-
-Entrata in vigore del provvedimento: 10/04/1915
-
-Art. 1
-------
-
-  
-N. 289   
-  
-Regio Decreto 4 marzo 1915, col quale, sulla proposta del ministro dell'interno, l'ospedale «Giovanni Chiaba'» in San Giorgio di Nogaro e' eretto in ente morale con amministrazione propria.   
-  
+N. 289 
+ 
+ Regio Decreto 4 marzo 1915, col quale, sulla proposta del ministro dell'interno, l'ospedale «Giovanni Chiaba'» in San Giorgio di Nogaro e' eretto in ente morale con amministrazione propria.

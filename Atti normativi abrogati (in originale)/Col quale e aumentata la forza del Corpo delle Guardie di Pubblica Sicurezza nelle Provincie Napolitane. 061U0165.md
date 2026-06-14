@@ -1,16 +1,14 @@
-REGIO DECRETO 04 agosto 1861 n. 165
-
-
-REGIO DECRETO 04 agosto 1861 n. 165
-===================================
-
-Col quale e' aumentata la forza del Corpo delle Guardie di Pubblica Sicurezza nelle Provincie Napolitane. (061U0165)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/10/1861
+---
+tipo: REGIO DECRETO
+numero: 165
+data: 1861-08-04
+titolo: "Col quale e' aumentata la forza del Corpo delle Guardie di Pubblica Sicurezza nelle Provincie Napolitane. (061U0165)"
+urn: urn:nir:stato:regio.decreto:1861-08-04;165
+codice_redazionale: 061U0165
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,40 +18,32 @@ Veduto il Decreto del Nostro Luogotenente Generale nelle Provincie Napolitane de
 
 Atteso che la forza delle Guardie di Pubblica Sicurezza, tale che e' stabilita in numero di 1068 uomini nella precitata tabella, risulti non corrispondente, in ragione di popolazione, alle proporzioni nelle quali e' costituita nelle altre Provincie del Regno, ed inoltre insufficiente allo scopo della instituzione;
 
-Sulla
------
+Sulla proposta del Ministro dell'Interno; Abbiamo determinato e determiniamo:
 
-proposta del Ministro dell'Interno; Abbiamo determinato e determiniamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La forza delle Guardie di Pubblica Sicurezza nelle Provincie Napolitane sara' alimentata, a partire dal 1° del corrente mese di agosto, di N.° 4 Marescialli d'Alloggio, di 12 Brigadieri, di 50 Sottobrigadieri, di 40 Appuntati (Guardie scelte), di 281 Guardie semplici, e cosi' il Corpo rimane ivi costituito come segue:   
-  
-1 Comandante.   
-  
-1 Maresciallo d'Alloggio Maggiore.   
-  
-14 Marescialli d'Alloggio.   
-  
-51 Brigadieri.   
-  
-119 Sotto-Brigadieri.   
-  
-148 Appuntati (Guardie scelte).   
-  
-1101 Guardie semplici.   
------   
-1435.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dat. a Torino addi' 4 agosto 1861.   
-  
-VITTORIO EMANUELE.   
-  
-M. MINGHETTI.   
-  
-  
+La forza delle Guardie di Pubblica Sicurezza nelle Provincie Napolitane sara' alimentata, a partire dal 1° del corrente mese di agosto, di N.° 4 Marescialli d'Alloggio, di 12 Brigadieri, di 50 Sottobrigadieri, di 40 Appuntati (Guardie scelte), di 281 Guardie semplici, e cosi' il Corpo rimane ivi costituito come segue: 
+ 
+ 1 Comandante. 
+ 
+ 1 Maresciallo d'Alloggio Maggiore. 
+ 
+ 14 Marescialli d'Alloggio. 
+ 
+ 51 Brigadieri. 
+ 
+ 119 Sotto-Brigadieri. 
+ 
+ 148 Appuntati (Guardie scelte). 
+ 
+ 1101 Guardie semplici. 
+ ----- 
+ 1435. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dat. a Torino addi' 4 agosto 1861. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. MINGHETTI.

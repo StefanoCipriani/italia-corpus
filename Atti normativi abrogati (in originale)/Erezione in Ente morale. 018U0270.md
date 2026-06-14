@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 03 febbraio 1918 n. 270
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 270
+data: 1918-02-03
+titolo: "Erezione in Ente morale. (018U0270)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-02-03;270
+codice_redazionale: 018U0270
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 03 febbraio 1918 n. 270
-===============================================
-
-Erezione in Ente morale. (018U0270)
------------------------------------
-
-Entrata in vigore del provvedimento: 03/04/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-270. Decreto Luogotenenziale 3 febbraio 1918, col quale, sulla proposta del ministro della guerra, la donazione di L. 4708, fatta dai militari dipendenti ed amministrati dal deposito dell'81° fanteria, a favore del reggimento stesso, e' eretta in ente morale, sotto la vigilanza del Ministero stesso, approvandosene lo statuto organico relativo.
+270.
+
+Decreto Luogotenenziale 3 febbraio 1918, col quale, sulla proposta del ministro della guerra, la donazione di L. 4708, fatta dai militari dipendenti ed amministrati dal deposito dell'81° fanteria, a favore del reggimento stesso, e' eretta in ente morale, sotto la vigilanza del Ministero stesso, approvandosene lo statuto organico relativo.

@@ -1,17 +1,17 @@
-REGIO DECRETO 27 maggio 1923 n. 1229
+---
+tipo: REGIO DECRETO
+numero: 1229
+data: 1923-05-27
+titolo: "Erezione in Ente morale. (023U1229)"
+urn: urn:nir:stato:regio.decreto:1923-05-27;1229
+codice_redazionale: 023U1229
+vigente: true
+---
 
-
-REGIO DECRETO 27 maggio 1923 n. 1229
-====================================
-
-Erezione in Ente morale. (023U1229)
------------------------------------
-
-Entrata in vigore del provvedimento: 10/07/1923
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1229. Regio decreto 27 maggio 1923, col quale sulla proposta del Ministro della marina, viene eretta in Ente morale la Fondazione « Dott. prof. Ugo Vianelli» per premi ad alunni del R. Istituto nautico di Savona.
+1229.
+
+Regio decreto 27 maggio 1923, col quale sulla proposta del Ministro della marina, viene eretta in Ente morale la Fondazione « Dott. prof. Ugo Vianelli» per premi ad alunni del R. Istituto nautico di Savona.

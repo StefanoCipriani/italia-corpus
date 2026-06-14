@@ -1,80 +1,63 @@
-DECRETO LEGISLATIVO 08 settembre 2005 n. 200
-
-
-DECRETO LEGISLATIVO 08 settembre 2005 n. 200
-============================================
-
-Disposizioni integrative e correttive del decreto legislativo 16 luglio 1997, n. 265, in materia di personale civile del Ministero della difesa, a norma dell'articolo 2 della legge 27 luglio 2004, n. 186.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/10/2005
+---
+tipo: DECRETO LEGISLATIVO
+numero: 200
+data: 2005-09-08
+titolo: "Disposizioni integrative e correttive del decreto legislativo 16 luglio 1997, n. 265, in materia di personale civile del Ministero della difesa, a norma dell'articolo 2 della legge 27 luglio 2004, n. 186."
+urn: urn:nir:stato:decreto.legislativo:2005-09-08;200
+codice_redazionale: 005G0227
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 76](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) ed [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) ed [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 2, comma 1, della legge 27 luglio 2004, n. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-07-27;186~art2-com1), di conversione in legge, con modificazioni, del [decreto-legge 28 maggio 2004, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-05-28;136), che delega il Governo ad adottare, tra gli altri, entro dodici mesi dalla data di entrata in vigore della stessa legge, uno o piu' decreti legislativi recanti disposizioni integrative e correttive del [decreto legislativo 16 luglio 1997, n. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-16;265);
+Visto l'[articolo 2, comma 1, della legge 27 luglio 2004, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-07-27;186#art_2-com1), di conversione in legge, con modificazioni, del [decreto-legge 28 maggio 2004, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-05-28;136), che delega il Governo ad adottare, tra gli altri, entro dodici mesi dalla data di entrata in vigore della stessa legge, uno o piu' decreti legislativi recanti disposizioni integrative e correttive del [decreto legislativo 16 luglio 1997, n. 265](Disposizioni%20in%20materia%20di%20personale%20civile%20del%20Ministero%20della%20difesa%20a%20norma%20dellarticolo%201%20comma%201%20lettere%20e%20e%20g%20della%20legge%2028%20dicembre%201995%20n.%20549.md);
 
-Visto l'[articolo 9 della legge 27 dicembre 2004, n. 306](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-27;306~art9), che proroga al 31 dicembre 2005 i termini della delega disposta dal citato [articolo 2, comma 1, della legge n. 186 del 2004](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004;186~art2-com1);
+Visto l'[articolo 9 della legge 27 dicembre 2004, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-27;306#art_9), che proroga al 31 dicembre 2005 i termini della delega disposta dal citato [articolo 2, comma 1, della legge n. 186 del 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004;186#art_2-com1);
 
-Visto il [decreto legislativo 16 luglio 1997, n. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-16;265), recante disposizioni in materia di personale civile del Ministero della difesa, a norma dell'[articolo 1, comma 1, lettere e)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549~art1-com1-lete) e [g), della legge 28 dicembre 1995, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549~art1-com1-letg);
+Visto il [decreto legislativo 16 luglio 1997, n. 265](Disposizioni%20in%20materia%20di%20personale%20civile%20del%20Ministero%20della%20difesa%20a%20norma%20dellarticolo%201%20comma%201%20lettere%20e%20e%20g%20della%20legge%2028%20dicembre%201995%20n.%20549.md), recante disposizioni in materia di personale civile del Ministero della difesa, a norma dell'[articolo 1, comma 1, lettere e)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_1-com1-lete) e [g), della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_1-com1-letg);
 
-Visto il [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), recante norme generali sull'ordinamento del lavoro alle dipendenze delle pubbliche amministrazioni;
+Visto il [decreto legislativo 30 marzo 2001, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), recante norme generali sull'ordinamento del lavoro alle dipendenze delle pubbliche amministrazioni;
 
 Udito il parere del Consiglio superiore delle Forze armate;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella runione del 18 marzo 2005;
 
-Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica, ai sensi del combinato disposto di cui all'articolo 2, comma 1, della citata [legge n. 186 del 2004 e all'articolo 5, comma 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004;186~art5-com3), della [legge 6 luglio 2002, n. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137);
+Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica, ai sensi del combinato disposto di cui all'articolo 2, comma 1, della citata [legge n. 186 del 2004 e all'articolo 5, comma 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004;186#art_5-com3), della [legge 6 luglio 2002, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 15 luglio 2005;
 
 Sulla proposta del Ministro della difesa, di concerto con i Ministri dell'economia e delle finanze e per la funzione pubblica;
 
-Emana
------
+Emana il seguente decreto legislativo:
 
-il seguente decreto legislativo:
+## Art. 1. — Modifica dell'articolo 2 del decreto legislativo
+ 16 luglio 1997, n. 265
 
-Art. 1
-------
+1.
 
-Modifica dell'articolo 2 del decreto legislativo  
-16 luglio 1997, n. 265
+All'[articolo 2 del decreto legislativo 16 luglio 1997, n. 265](Disposizioni%20in%20materia%20di%20personale%20civile%20del%20Ministero%20della%20difesa%20a%20norma%20dellarticolo%201%20comma%201%20lettere%20e%20e%20g%20della%20legge%2028%20dicembre%201995%20n.%20549.md), dopo il comma 1 e' aggiunto il seguente:
+ "1-bis. In relazione al processo di ristrutturazione degli enti dell'area tecnico-operativa e dell'area tecnico-amministrativa periferica le procedure di cui al comma 1 sono applicate con riferimento agli organici, su base regionale, rideterminati ai sensi dell'articolo 3.".
 
-1. All'[articolo 2 del decreto legislativo 16 luglio 1997, n. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-16;265~art2), dopo il comma 1 e' aggiunto il seguente:  
-"1-bis. In relazione al processo di ristrutturazione degli enti dell'area tecnico-operativa e dell'area tecnico-amministrativa periferica le procedure di cui al comma 1 sono applicate con riferimento agli organici, su base regionale, rideterminati ai sensi dell'articolo 3.".
+Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegata al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
+ - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
+ - Si riporta l'[art. 2 comma 1, della legge 27 luglio 2004, n. 186](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-07-27;186#art_2-com1) (Conversione in legge, con modificazioni, del [decreto-legge 28 maggio 2004, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-05-28;136), recante disposizioni urgenti per garantire la funzionalita' di taluni settori della pubblica amministrazione. Disposizioni per la rideterminazione di deleghe legislative e altre disposizioni connesse):
+ « Art. 2 (Disposizioni per la rideterminazione di deleghe legislative e altre disposizioni connesse) - 1. Il Governo e' delegato ad adottare, senza nuovi o maggiori oneri per il bilancio dello Stato, entro il termine di dodici mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi integrativi e correttivi del [decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), del [decreto legislativo 20 ottobre 1998, n. 368](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-10-20;368), del [decreto legislativo 29 gennaio 1998, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-01-29;19), del [decreto legislativo 20 luglio 1999, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-20;273), del [decreto legislativo 16 luglio 1997, n. 264](Riorganizzazione%20dellarea%20centrale%20del%20Ministero%20della%20difesa%20a%20norma%20dellarticolo%201%20comma%201%20lettera%20b%20della%20legge%2028%20dicembre%201995%20n.%20549.md), del [decreto legislativo 16 luglio 1997, n. 165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-16;165), del [decreto legislativo 28 novembre 1997, n. 459](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-11-28;459), e del [decreto legislativo 28 novembre 1997, n. 464](Riforma%20strutturale%20delle%20Forze%20armate%20a%20norma%20dellarticolo%201%20comma%201%20lettere%20a%20d%20ed%20h%20della%20legge%2028%20dicembre%201995%20n.%20549.md), attenendosi alle procedure e ai principi e criteri direttivi di cui all'[art. 1, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137#art_1-com2) e [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137#art_1-com3), all'[art. 5, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137#art_5-com2) e [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137#art_5-com3), e all'[art. 7 della legge 6 luglio 2002, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137#art_7).».
+ - Si riporta l'[art. 5, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137#art_5-com2) e [3 della legge 6 luglio 2002, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137#art_5-com3),
+ «Art. 5 (Delega per l'aggiornamento dell'organizzazione delle strutture e dei comandi delle aree tecnico-operativa, tecnico-amministrativa e tecnico-industriale della Difesa in seguito all'istituzione del servizio militare volontario). - 1. (omissis).
+ 2. Nell'attuazione della delega di cui al comma 1 il Governo riorganizza, anche mediante soppressione, accorpamento, razionalizzazione ovvero ridefinizione dei compiti anche in chiave interforze, le strutture e i comandi delle aree tecnico-operativa, tecnico-amministrativa e tecnico-industriale della Difesa, adeguandone l'assetto alla riconfigurazione delle Forze armate, favorendo l'ottimizzazione delle risorse ed assicurando, altresi', il rispetto di quanto previsto dalla [legge 18 febbraio 1997, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-02-18;25).
+ 3. Il Governo trasmette alla Camera dei deputati ed al Senato della Repubblica gli schemi dei decreti legislativi di cui al comma 1, al fine di acquisire il parere delle competenti Commissioni permanenti, che si esprimono entro sessanta giorni dalla data di trasmissione.».
+ Note all'art. 1:
+ - Si riporta il testo dell'[art. 2 del decreto legislativo 16 luglio 1997, n. 265](Disposizioni%20in%20materia%20di%20personale%20civile%20del%20Ministero%20della%20difesa%20a%20norma%20dellarticolo%201%20comma%201%20lettere%20e%20e%20g%20della%20legge%2028%20dicembre%201995%20n.%20549.md) (Disposizioni in materia di personale civile del Ministero della difesa, a norma dell'[art. 1, comma 1, lettere e)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_1-com1-lete) e [g), della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_1-com1-letg)), come modificato dal presente decreto:
+ «Art. 2. 1. Alla copertura dei posti disponibili nelle qualifiche funzionali dalla III alla IX e relativi profili professionali, risultanti dalle dotazioni organiche di cui al citato decreto del Presidente del Consiglio dei Ministri 7 febbraio 1997 si provvede, nel rispetto della natura della delega di cui all'[art. 1 della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_1), e della inevitabile separazione temporale dei singoli provvedimenti rientranti nella ristrutturazione globale, anche attraverso le procedure previste dall'art. 3, commi da 205 a 208, della medesima legge, per la riqualificazione del personale, le cui modalita' applicative, in ambito Difesa, saranno definite con decreto del Ministro della difesa, previa contrattazione ai sensi dell'[art. 50, comma 7, del decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md).
+ 1-bis. In relazione al processo di ristrutturazione degli enti dell'area tecnico-operativa e dell'area tecnico-amministrativa periferica, le procedure di cui al comma 1 sono applicate con riferimento agli organici, su base regionale, rideterminati ai sensi dell'art. 3.».
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 8 settembre 2005
+Dato a Roma, addi' 8 settembre 2005
 
-CIAMPI
-
-Berlusconi, Presidente del Consiglio dei Ministri
-
-Martino, Ministro della difesa
-
-Siniscalco, Ministro del-l'economia e delle finanze
-
-Baccini, Ministro per la funzione pubblica
-
-Visto, il Guardasigilli: Castelli
-
-Avvertenza:  
-Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Note alle premesse:  
-- L'[art. 76 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegata al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.  
-- L'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.  
-- Si riporta l'[art. 2 comma 1, della legge 27 luglio 2004, n. 186](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-07-27;186~art2-com1) (Conversione in legge, con modificazioni, del [decreto-legge 28 maggio 2004, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-05-28;136), recante disposizioni urgenti per garantire la funzionalita' di taluni settori della pubblica amministrazione. Disposizioni per la rideterminazione di deleghe legislative e altre disposizioni connesse):  
-« Art. 2 (Disposizioni per la rideterminazione di deleghe legislative e altre disposizioni connesse) - 1. Il Governo e' delegato ad adottare, senza nuovi o maggiori oneri per il bilancio dello Stato, entro il termine di dodici mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi integrativi e correttivi del [decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), del [decreto legislativo 20 ottobre 1998, n. 368](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-10-20;368), del [decreto legislativo 29 gennaio 1998, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-01-29;19), del [decreto legislativo 20 luglio 1999, n. 273](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-20;273), del [decreto legislativo 16 luglio 1997, n. 264](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-16;264), del [decreto legislativo 16 luglio 1997, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-16;165), del [decreto legislativo 28 novembre 1997, n. 459](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-11-28;459), e del [decreto legislativo 28 novembre 1997, n. 464](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-11-28;464), attenendosi alle procedure e ai principi e criteri direttivi di cui all'[art. 1, commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137~art1-com2) e [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137~art1-com3), all'[art. 5, commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137~art5-com2) e [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137~art5-com3), e all'[art. 7 della legge 6 luglio 2002, n. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137~art7).».  
-- Si riporta l'[art. 5, commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137~art5-com2) e [3 della legge 6 luglio 2002, n. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137~art5-com3),  
-«Art. 5 (Delega per l'aggiornamento dell'organizzazione delle strutture e dei comandi delle aree tecnico-operativa, tecnico-amministrativa e tecnico-industriale della Difesa in seguito all'istituzione del servizio militare volontario). - 1. (omissis).  
-2. Nell'attuazione della delega di cui al comma 1 il Governo riorganizza, anche mediante soppressione, accorpamento, razionalizzazione ovvero ridefinizione dei compiti anche in chiave interforze, le strutture e i comandi delle aree tecnico-operativa, tecnico-amministrativa e tecnico-industriale della Difesa, adeguandone l'assetto alla riconfigurazione delle Forze armate, favorendo l'ottimizzazione delle risorse ed assicurando, altresi', il rispetto di quanto previsto dalla [legge 18 febbraio 1997, n. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-02-18;25).  
-3. Il Governo trasmette alla Camera dei deputati ed al Senato della Repubblica gli schemi dei decreti legislativi di cui al comma 1, al fine di acquisire il parere delle competenti Commissioni permanenti, che si esprimono entro sessanta giorni dalla data di trasmissione.».  
-Note all'art. 1:  
-- Si riporta il testo dell'[art. 2 del decreto legislativo 16 luglio 1997, n. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-16;265~art2) (Disposizioni in materia di personale civile del Ministero della difesa, a norma dell'[art. 1, comma 1, lettere e)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549~art1-com1-lete) e [g), della legge 28 dicembre 1995, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549~art1-com1-letg)), come modificato dal presente decreto:  
-«Art. 2. 1. Alla copertura dei posti disponibili nelle qualifiche funzionali dalla III alla IX e relativi profili professionali, risultanti dalle dotazioni organiche di cui al citato decreto del Presidente del Consiglio dei Ministri 7 febbraio 1997 si provvede, nel rispetto della natura della delega di cui all'[art. 1 della legge 28 dicembre 1995, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549~art1), e della inevitabile separazione temporale dei singoli provvedimenti rientranti nella ristrutturazione globale, anche attraverso le procedure previste dall'art. 3, commi da 205 a 208, della medesima legge, per la riqualificazione del personale, le cui modalita' applicative, in ambito Difesa, saranno definite con decreto del Ministro della difesa, previa contrattazione ai sensi dell'[art. 50, comma 7, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art50-com7).  
-1-bis. In relazione al processo di ristrutturazione degli enti dell'area tecnico-operativa e dell'area tecnico-amministrativa periferica, le procedure di cui al comma 1 sono applicate con riferimento agli organici, su base regionale, rideterminati ai sensi dell'art. 3.».
+CIAMPI Berlusconi, Presidente del Consiglio dei Ministri Martino, Ministro della difesa Siniscalco, Ministro del-l'economia e delle finanze Baccini, Ministro per la funzione pubblica Visto, il Guardasigilli: Castelli

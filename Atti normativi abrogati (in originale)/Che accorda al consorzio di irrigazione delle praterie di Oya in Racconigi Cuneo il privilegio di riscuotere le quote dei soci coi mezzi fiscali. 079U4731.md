@@ -1,16 +1,14 @@
-REGIO DECRETO 30 gennaio 1879 n. 4731
-
-
-REGIO DECRETO 30 gennaio 1879 n. 4731
-=====================================
-
-Che accorda al consorzio di irrigazione delle praterie di Oya in Racconigi (Cuneo) il privilegio di riscuotere le quote dei soci coi mezzi fiscali. (079U4731)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/03/1879
+---
+tipo: REGIO DECRETO
+numero: 4731
+data: 1879-01-30
+titolo: "Che accorda al consorzio di irrigazione delle praterie di Oya in Racconigi (Cuneo) il privilegio di riscuotere le quote dei soci coi mezzi fiscali. (079U4731)"
+urn: urn:nir:stato:regio.decreto:1879-01-30;4731
+codice_redazionale: 079U4731
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,25 +18,18 @@ Vista la domanda 3 novembre 1878, colla quale il Consorzio irriguo delle prateri
 
 Visto il regolamento del Consorzio e gli altri atti relativi;
 
-Vista la [legge 29 maggio 1873, n. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (Serie 2ª);
+Vista la [legge 29 maggio 1873, n. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md) (Serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al Consorzio d'irrigazione delle praterie d'Oya, esistente in Racconigi, provincia di Cuneo, e' concessa la facolta' di riscuotere il contributo de'soci coi privilegi e nelle forme fiscali.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 30 gennaio 1879.   
-  
-UMBERTO.   
-  
-Maiorana-Calatabiano.   
-  
+Al Consorzio d'irrigazione delle praterie d'Oya, esistente in Racconigi, provincia di Cuneo, e' concessa la facolta' di riscuotere il contributo de'soci coi privilegi e nelle forme fiscali. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 30 gennaio 1879. 
+ 
+ UMBERTO. 
+ 
+ Maiorana-Calatabiano.

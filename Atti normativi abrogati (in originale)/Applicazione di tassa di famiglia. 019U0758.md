@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 04 maggio 1919 n. 758
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 758
+data: 1919-05-04
+titolo: "Applicazione di tassa di famiglia. (019U0758)"
+urn: urn:nir:stato:decreto.luogotenenziale:1919-05-04;758
+codice_redazionale: 019U0758
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 04 maggio 1919 n. 758
-=============================================
-
-Applicazione di tassa di famiglia. (019U0758)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 12/06/1919
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-758. Decreto Luogotenenziale 4 maggio 1919, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Torino di applicare, per il biennio 1919-920, la tassa di famiglia con l'aliquota percentuale massima di L. 5, applicabile ai redditi da L. 75.000 ed oltre, in base alla tabella approvata nell'adunanza consiliare 30 dicembre 1918.
+758.
+
+Decreto Luogotenenziale 4 maggio 1919, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Torino di applicare, per il biennio 1919-920, la tassa di famiglia con l'aliquota percentuale massima di L. 5, applicabile ai redditi da L. 75.000 ed oltre, in base alla tabella approvata nell'adunanza consiliare 30 dicembre 1918.

@@ -1,21 +1,17 @@
-REGIO DECRETO 02 agosto 1901 n. CCCIII
+---
+tipo: REGIO DECRETO
+numero: CCCIII
+data: 1901-08-02
+titolo: "Che autorizza la istituzione di una cassa di risparmio in Saluzzo. (0100303R)"
+urn: urn:nir:stato:regio.decreto:1901-08-02;303
+codice_redazionale: 0100303R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 agosto 1901 n. CCCIII
-======================================
-
-Che autorizza la istituzione di una cassa di risparmio in Saluzzo. (0100303R)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/11/1901
-
-Art. 1
-------
-
-  
-Che autorizza la istituzione in Saluzzo di una cassa di risparmio e ne approva lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato G. Baccelli - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 21 ottobre 1901.   
-  
-Reg. 231. Atti del Governo a f. 83.   
-  
+Che autorizza la istituzione in Saluzzo di una cassa di risparmio e ne approva lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato G. Baccelli - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 21 ottobre 1901. 
+ 
+ Reg. 231. Atti del Governo a f. 83.

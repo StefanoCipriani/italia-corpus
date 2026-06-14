@@ -1,21 +1,21 @@
-REGIO DECRETO 12 marzo 1931 n. 257
+---
+tipo: REGIO DECRETO
+numero: 257
+data: 1931-03-12
+titolo: "Approvazione del nuovo statuto dell'Istituto autonomo per le case popolari di Casalmaggiore. (031U0257)"
+urn: urn:nir:stato:regio.decreto:1931-03-12;257
+codice_redazionale: 031U0257
+vigente: true
+---
 
-
-REGIO DECRETO 12 marzo 1931 n. 257
-==================================
-
-Approvazione del nuovo statuto dell'Istituto autonomo per le case popolari di Casalmaggiore. (031U0257)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/04/1931
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-257. R. decreto 12 marzo 1931, col quale, sulla proposta del Ministro per i lavori pubblici, viene approvato il nuovo statuto dell'Istituto autonomo per le case popolari di Casalmaggiore.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corted ei conti, addi' 28 marzo 1931 - Anno IX
+257.
+
+R. decreto 12 marzo 1931, col quale, sulla proposta del Ministro per i lavori pubblici, viene approvato il nuovo statuto dell'Istituto autonomo per le case popolari di Casalmaggiore. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corted ei conti, addi' 28 marzo 1931 - Anno IX

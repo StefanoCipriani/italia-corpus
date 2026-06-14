@@ -1,16 +1,14 @@
-REGIO DECRETO 19 giugno 1890 n. 7265
-
-
-REGIO DECRETO 19 giugno 1890 n. 7265
-====================================
-
-Che approva l'annesso ruolo unico degli impiegati delle biblioteche. (090U7265)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/12/1890
+---
+tipo: REGIO DECRETO
+numero: 7265
+data: 1890-06-19
+titolo: "Che approva l'annesso ruolo unico degli impiegati delle biblioteche. (090U7265)"
+urn: urn:nir:stato:regio.decreto:1890-06-19;7265
+codice_redazionale: 090U7265
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -30,45 +28,26 @@ Considerata infine l'utilita' di comprendere in unico ruolo il personale di esse
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I ragionieri-economi delle biblioteche sono ridotti da sei a 3 (tre) assegnandone 2 alla lª classe e 1 alla 2ª classe. 
+ 
+ Alla 1ª classe degli ordinatori e' aggiunto un posto; ed alla 2ª classe de' distributori e' aggiunto un posto. 
+ 
+ Sono aggiunti alle due prime classi di sottobibliotecari o sottoconservatori di manoscritti quattro posti, cioe' due per la 1ª classe e due per la seconda classe, riducendosi ad un tempo il numero dei sottobibliotecari o sottoconservatori de' manoscritti dell'ultima classe da 26 a venti.
 
-  
-  
-I ragionieri-economi delle biblioteche sono ridotti da sei a 3 (tre) assegnandone 2 alla lª classe e 1 alla 2ª classe.   
-  
-Alla 1ª classe degli ordinatori e' aggiunto un posto; ed alla 2ª classe de' distributori e' aggiunto un posto.   
-  
-Sono aggiunti alle due prime classi di sottobibliotecari o sottoconservatori di manoscritti quattro posti, cioe' due per la 1ª classe e due per la seconda classe, riducendosi ad un tempo il numero dei sottobibliotecari o sottoconservatori de' manoscritti dell'ultima classe da 26 a venti.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' approvato il ruolo unico degli impiegati delle biblioteche medesime, annesso al presente decreto, e firmato, d'ordine Nostro, dal Ministro predetto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 giugno 1890.   
-  
-UMBERTO.   
-  
-P. Boselli.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
-
-Ruolo organico
-
-  
-Ruolo organico del personale delle biblioteche governative.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=090U726500100010110001&dgu=1890-12-02&art.dataPubblicazioneGazzetta=1890-12-02&art.codiceRedazionale=090U7265)
-  
+E' approvato il ruolo unico degli impiegati delle biblioteche medesime, annesso al presente decreto, e firmato, d'ordine Nostro, dal Ministro predetto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 giugno 1890. 
+ 
+ UMBERTO. 
+ 
+ P. Boselli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

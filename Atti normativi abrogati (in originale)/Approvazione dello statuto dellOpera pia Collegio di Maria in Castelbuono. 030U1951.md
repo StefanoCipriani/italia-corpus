@@ -1,20 +1,20 @@
-REGIO DECRETO 18 dicembre 1930 n. 1951
+---
+tipo: REGIO DECRETO
+numero: 1951
+data: 1930-12-18
+titolo: "Approvazione dello statuto dell'Opera pia «Collegio di Maria», in Castelbuono. (030U1951)"
+urn: urn:nir:stato:regio.decreto:1930-12-18;1951
+codice_redazionale: 030U1951
+vigente: true
+---
 
-
-REGIO DECRETO 18 dicembre 1930 n. 1951
-======================================
-
-Approvazione dello statuto dell'Opera pia «Collegio di Maria», in Castelbuono. (030U1951)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/04/1931
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1951. R. decreto 18 dicembre 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene approvato con modifica lo statuto organico dell'Opera pia «Collegio di Maria» in Castelbuono (Palermo).   
-  
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 13 marzo 1931 - Anno IX
+1951.
+
+R. decreto 18 dicembre 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene approvato con modifica lo statuto organico dell'Opera pia «Collegio di Maria» in Castelbuono (Palermo). 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 13 marzo 1931 - Anno IX

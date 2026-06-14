@@ -1,16 +1,14 @@
-REGIO DECRETO 19 ottobre 1865 n. 2567
-
-
-REGIO DECRETO 19 ottobre 1865 n. 2567
-=====================================
-
-Per l'aggregazione degli Elettori delle Sezioni di Grodo e Santa Maria Maggiore a quella di Domodossola. (065U2567)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1865
+---
+tipo: REGIO DECRETO
+numero: 2567
+data: 1865-10-19
+titolo: "Per l'aggregazione degli Elettori delle Sezioni di Grodo e Santa Maria Maggiore a quella di Domodossola. (065U2567)"
+urn: urn:nir:stato:regio.decreto:1865-10-19;2567
+codice_redazionale: 065U2567
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,28 +20,22 @@ Considerando che nelle liste delle Sezioni del Collegio elettorale di Domodossol
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Gli Elettori inscritti nelle liste delle Sezioni del Collegio elettorale di Domodossola, n.° 290, dette di Crodo e Santa Maria Maggiore, sono aggregati alla piu' vicina Sezione del Collegio stesso detta di Domodossola.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Firenze addi' 19 ottobre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 23 ottobre 1865   
-  
-Reg.° 54 Atti del Governo a c. 8. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
+Gli Elettori inscritti nelle liste delle Sezioni del Collegio elettorale di Domodossola, n.° 290, dette di Crodo e Santa Maria Maggiore, sono aggregati alla piu' vicina Sezione del Collegio stesso detta di Domodossola. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Firenze addi' 19 ottobre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 23 ottobre 1865 
+ 
+ Reg.° 54 Atti del Governo a c. 8. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli.

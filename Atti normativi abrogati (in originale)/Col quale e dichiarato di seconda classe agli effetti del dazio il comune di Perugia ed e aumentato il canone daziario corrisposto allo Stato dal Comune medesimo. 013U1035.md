@@ -1,16 +1,14 @@
-REGIO DECRETO 11 agosto 1913 n. 1035
-
-
-REGIO DECRETO 11 agosto 1913 n. 1035
-====================================
-
-Col quale e' dichiarato di seconda classe, agli effetti del dazio il comune di Perugia, ed e' aumentato il canone daziario corrisposto allo Stato dal Comune medesimo. (013U1035)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/09/1913
+---
+tipo: REGIO DECRETO
+numero: 1035
+data: 1913-08-11
+titolo: "Col quale e' dichiarato di seconda classe, agli effetti del dazio il comune di Perugia, ed e' aumentato il canone daziario corrisposto allo Stato dal Comune medesimo. (013U1035)"
+urn: urn:nir:stato:regio.decreto:1913-08-11;1035
+codice_redazionale: 013U1035
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,33 +26,22 @@ Vista la tabella approvata col Nostro decreto 30 ottobre 1910, n. 782, nella qua
 
 Vista la decisione 3 maggio 1913 della Commissione centrale del dazio consumo, emessa ai sensi e per gli effetti previsti dagli articoli 87, 89 e 110 del testo unico delle leggi daziarie sovraindicato;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il comune di Perugia e' dichiarato di seconda classe nei riguardi del dazio consumo, a decorrere dal 18 dicembre 1912.
 
-  
-  
-Il comune di Perugia e' dichiarato di seconda classe nei riguardi del dazio consumo, a decorrere dal 18 dicembre 1912.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Dal detto giorno, il canone corrisposto allo Stato dal Comune medesimo e' aumentato da annue lire centosessantaduemila novecentotre e centesimi sessantuno (L. 162.903,61) ad annue lire centottantamila trecentotredici e centesimi tredici (L. 180.313,13).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 11 agosto 1913.   
-  
-VITTORIO EMANUELE.   
-  
-Facta.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+Dal detto giorno, il canone corrisposto allo Stato dal Comune medesimo e' aumentato da annue lire centosessantaduemila novecentotre e centesimi sessantuno (L. 162.903,61) ad annue lire centottantamila trecentotredici e centesimi tredici (L. 180.313,13). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 11 agosto 1913. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Facta. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

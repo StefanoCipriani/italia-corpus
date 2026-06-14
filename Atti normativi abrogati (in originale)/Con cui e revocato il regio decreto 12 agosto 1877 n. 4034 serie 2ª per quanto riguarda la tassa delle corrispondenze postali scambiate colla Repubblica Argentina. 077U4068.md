@@ -1,16 +1,14 @@
-REGIO DECRETO 16 settembre 1877 n. 4068
-
-
-REGIO DECRETO 16 settembre 1877 n. 4068
-=======================================
-
-Con cui e' revocato il regio decreto 12 agosto 1877, n. 4034 (serie 2ª) per quanto riguarda la tassa delle corrispondenze postali scambiate colla Repubblica Argentina. (077U4068)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/10/1877
+---
+tipo: REGIO DECRETO
+numero: 4068
+data: 1877-09-16
+titolo: "Con cui e' revocato il regio decreto 12 agosto 1877, n. 4034 (serie 2ª) per quanto riguarda la tassa delle corrispondenze postali scambiate colla Repubblica Argentina. (077U4068)"
+urn: urn:nir:stato:regio.decreto:1877-09-16;4068
+codice_redazionale: 077U4068
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,23 +18,16 @@ Visto il Nostro decreto del 12 agosto decorso, num. 4034 (Serie 2ª), della Racc
 
 Visto il messaggio del dipartimento federale delle poste svizzere in data del 30 agosto 1877, nn. 155 e 405, col quale quella amministrazione nella sua qualita' di gerente dell'unione generale delle poste partecipa la successiva determinazione della Repubblica Argentina di differire a tempo indeterminato la sua partecipazione all'unione;
 
-Sulla
------
+Sulla proposta del Ministro dei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Ministro dei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' revocato il Nostro decreto del 12 agosto decorso, n. 4034 (Serie 2ª), per quanto riguarda la tassa delle corrispondenze postali scambiate colla Repubblica Argentina.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Pollenzo, addi' 16 settembre 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Zanardelli.   
-  
+E' revocato il Nostro decreto del 12 agosto decorso, n. 4034 (Serie 2ª), per quanto riguarda la tassa delle corrispondenze postali scambiate colla Repubblica Argentina. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Pollenzo, addi' 16 settembre 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Zanardelli.

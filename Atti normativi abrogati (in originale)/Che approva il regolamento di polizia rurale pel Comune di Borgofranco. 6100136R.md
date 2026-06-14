@@ -1,20 +1,17 @@
-REGIO DECRETO 31 agosto 1861 n. CXXXVI
+---
+tipo: REGIO DECRETO
+numero: CXXXVI
+data: 1861-08-31
+titolo: "Che approva il regolamento di polizia rurale pel Comune di Borgofranco. (6100136R)"
+urn: urn:nir:stato:regio.decreto:1861-08-31;136
+codice_redazionale: 6100136R
+vigente: true
+---
 
-
-REGIO DECRETO 31 agosto 1861 n. CXXXVI
-======================================
-
-Che approva il regolamento di polizia rurale pel Comune di Borgofranco. (6100136R)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/08/1861
-
-Art. 1
-------
+## Art. 1.
 
 Che approva il regolamento di polizia rurale del Comune di Borgofranco deliberato il 3 agosto
 
-1861. 
-  
-  
+1861.
+
 Torino 31 agosto 1861

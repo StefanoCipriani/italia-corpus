@@ -1,21 +1,21 @@
-REGIO DECRETO 05 giugno 1930 n. 810
+---
+tipo: REGIO DECRETO
+numero: 810
+data: 1930-06-05
+titolo: "Erezione in ente morale dell'Associazione infantile «Toschi Cerchiari», in Dozza Imolese. (030U0810)"
+urn: urn:nir:stato:regio.decreto:1930-06-05;810
+codice_redazionale: 030U0810
+vigente: true
+---
 
-
-REGIO DECRETO 05 giugno 1930 n. 810
-===================================
-
-Erezione in ente morale dell'Associazione infantile «Toschi Cerchiari», in Dozza Imolese. (030U0810)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/07/1930
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-810. R. decreto 5 giugno 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, l'Associazione infantile «Toschi Cerchiari», in Dozza Imolese, viene eretta in ente morale e ne e' approvato lo statuto.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 23 giugno 1930 - Anno VIII
+810.
+
+R. decreto 5 giugno 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, l'Associazione infantile «Toschi Cerchiari», in Dozza Imolese, viene eretta in ente morale e ne e' approvato lo statuto. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 23 giugno 1930 - Anno VIII

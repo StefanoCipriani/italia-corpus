@@ -1,82 +1,45 @@
-LEGGE 19 maggio 1932 n. 573
+---
+tipo: LEGGE
+numero: 573
+data: 1932-05-19
+titolo: "Determinazione delle tasse scolastiche nei Regi conservatori di musica. (032U0573)"
+urn: urn:nir:stato:legge:1932-05-19;573
+codice_redazionale: 032U0573
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 19 maggio 1932 n. 573
-===========================
+Le tasse scolastiche dei Regi conservatori di musica, di cui alla tabella A del [R. decreto 23 dicembre 1923, n. 3123](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-23;3123). sono sostituite da quelle indicate nella tabella annessa alla presente legge. 
+ 
+ Nulla e' innovato alle disposizioni vigenti per quanto riguarda le modalita' di versamento e di distribuzione di dette tasse.
 
-Determinazione delle tasse scolastiche nei Regi conservatori di musica. (032U0573)
-----------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 25/06/1932
+I candidati agli esami di diploma di direzione d'orchestra sono tenuti al pagamento di L.600, oltre alla tassa di esame, a titolo di contributo per le spese d'orchestra.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Le tasse scolastiche dei Regi conservatori di musica, di cui alla tabella A del [R. decreto 23 dicembre 1923, n. 3123](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-23;3123). sono sostituite da quelle indicate nella tabella annessa alla presente legge.   
-  
-Nulla e' innovato alle disposizioni vigenti per quanto riguarda le modalita' di versamento e di distribuzione di dette tasse.   
-  
+Il pagamento del contributo di cui all'articolo precedente e' effettuato direttamente all'economo dell'Istituto e le relative somme sono iscritte per intero nel bilancio dell'Istituto stesso per l'esercizio seguente.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-I candidati agli esami di diploma di direzione d'orchestra sono tenuti al pagamento di L.600, oltre alla tassa di esame, a titolo di contributo per le spese d'orchestra.   
-  
+Le tasse per gli esami di compimento dei corsi complementari sono dovute anche quando le relative prove siano sostenute in sede di esami di compimento di un periodo o di diploma. A tal fine si considera esame di compimento dei corsi complementari quello sostenuto nell'ultimo anno di detti corsi, anche se questi siano distribuiti nei vari periodi in cui ciascuna scuola e' distinta.
 
-Art. 3
-------
+## Art. 5.
 
-  
-  
-Il pagamento del contributo di cui all'articolo precedente e' effettuato direttamente all'economo dell'Istituto e le relative somme sono iscritte per intero nel bilancio dell'Istituto stesso per l'esercizio seguente.   
-  
+La tassa di frequenza per i corsi straordinari e' dovuta quando l'allievo non sia iscritto ad altre scuole dell'Istituto.
 
-Art. 4
-------
+## Art. 6.
 
-  
-  
-Le tasse per gli esami di compimento dei corsi complementari sono dovute anche quando le relative prove siano sostenute in sede di esami di compimento di un periodo o di diploma. A tal fine si considera esame di compimento dei corsi complementari quello sostenuto nell'ultimo anno di detti corsi, anche se questi siano distribuiti nei vari periodi in cui ciascuna scuola e' distinta.   
-  
-
-Art. 5
-------
-
-  
-  
-La tassa di frequenza per i corsi straordinari e' dovuta quando l'allievo non sia iscritto ad altre scuole dell'Istituto.   
-  
-
-Art. 6
-------
-
-  
-  
-Gli alunni che, in virtu' dell'ordinamento precedente a quello attualmente in vigore, si trovino ancora iscritti al corso fondamentale sono tenuti al pagamento della tassa di frequenza gia' stabilita per detto corso.   
-  
-Ordiniamo che la presente, munita del sigillo dello Stato, sia incerta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Roma, addi' 19 maggio 1932 - Anno X   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Giuliano - Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-
-Tabella
-
-  
-TABELLA   
-  
-Tasse scolastiche nei Regi conservatori di musica.   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=032U057300100010110001&dgu=1932-06-10&art.dataPubblicazioneGazzetta=1932-06-10&art.codiceRedazionale=032U0573)
-  
-  
+Gli alunni che, in virtu' dell'ordinamento precedente a quello attualmente in vigore, si trovino ancora iscritti al corso fondamentale sono tenuti al pagamento della tassa di frequenza gia' stabilita per detto corso. 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato, sia incerta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Roma, addi' 19 maggio 1932 - Anno X 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Giuliano - Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco.

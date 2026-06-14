@@ -1,19 +1,15 @@
-REGIO DECRETO 28 agosto 1864 n. MCCCLXIII
+---
+tipo: REGIO DECRETO
+numero: MCCCLXIII
+data: 1864-08-28
+titolo: "Che approva il regolamento di polizia rurale pel Comune di Bastia. (6401363R)"
+urn: urn:nir:stato:regio.decreto:1864-08-28;1363
+codice_redazionale: 6401363R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 agosto 1864 n. MCCCLXIII
-=========================================
-
-Che approva il regolamento di polizia rurale pel Comune di Bastia. (6401363R)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/08/1864
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia rurale di Bastia, Provincia di Perugia, del 27 luglio prossimo passato.   
-  
-Torino 28 agosto 1864   
-  
+Che approva il regolamento di polizia rurale di Bastia, Provincia di Perugia, del 27 luglio prossimo passato. 
+ 
+ Torino 28 agosto 1864

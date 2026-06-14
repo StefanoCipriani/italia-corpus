@@ -1,22 +1,20 @@
-REGIO DECRETO 06 agosto 1876 n. 3265
-
-
-REGIO DECRETO 06 agosto 1876 n. 3265
-====================================
-
-Col quale e' autorizzata la iscrizione sul debito pubblico di una rendita di lire 6,400,000 per riscatto delle ferrovie dell'Alta Italia. (076U3265)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/08/1876
+---
+tipo: REGIO DECRETO
+numero: 3265
+data: 1876-08-06
+titolo: "Col quale e' autorizzata la iscrizione sul debito pubblico di una rendita di lire 6,400,000 per riscatto delle ferrovie dell'Alta Italia. (076U3265)"
+urn: urn:nir:stato:regio.decreto:1876-08-06;3265
+codice_redazionale: 076U3265
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'art. 3° della [legge 29 giugno 1876, n. 3181](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1876-06-29;3181), pel riscatto delle Ferrovie dell'Alta Italia e per l'esercizio della rete stessa dopo il riscatto;
+Veduto l'art. 3° della [legge 29 giugno 1876, n. 3181](Concernente%20il%20riscatto%20delle%20ferrovie%20dellAlta%20Italia.%20076U3181.md), pel riscatto delle Ferrovie dell'Alta Italia e per l'esercizio della rete stessa dopo il riscatto;
 
 Ritenuto che occorre intanto di provvedere alla iscrizione nel Gran Libro del Debito Pubblico della rendita consolidata 5 % conforme agli articoli 6 e 7 della Convenzione di Basilea in data 17 novembre 1875 e all'articolo 8°, secondo alinea, del compromesso di Parigi in data 11 giugno 1876, di cui all'art. 1° dell'atto addizionale di Roma 17 giugno stesso anno;
 
@@ -26,23 +24,16 @@ Ritenuto che il corso medio del consolidato italiano 5 % alla Borsa di Parigi du
 
 Ritenuto quindi che la rendita da iscriversi per effetto dell'art. 6° summenzionato con la decorrenza del semestre in corso, cioe' con la cedola al 1° gennaio 1877, ascende, salva, liquidazione finale, alla somma di lire seimilioni quattrocentomila (L. 6,400,000);
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze, Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze, Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' autorizzata l'iscrizione nel Gran Libro del Debito Pubblico in aumento consolidato 5 % della rendita di lire seimilioni quattrocentomila (L. 6,400,000) con decorrenza di godimento dal 1° luglio 1876.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, addi' 6 agosto 1876.   
-  
-VITTORIO EMANUELE.   
-  
-Depretis.   
-  
+E' autorizzata l'iscrizione nel Gran Libro del Debito Pubblico in aumento consolidato 5 % della rendita di lire seimilioni quattrocentomila (L. 6,400,000) con decorrenza di godimento dal 1° luglio 1876. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, addi' 6 agosto 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Depretis.

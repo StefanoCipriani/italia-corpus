@@ -1,19 +1,15 @@
-REGIO DECRETO 01 ottobre 1909 n. CCCXCIX
+---
+tipo: REGIO DECRETO
+numero: CCCXCIX
+data: 1909-10-01
+titolo: "Che trasforma il Monte frumentario di Caccavone. (0900399R)"
+urn: urn:nir:stato:regio.decreto:1909-10-01;399
+codice_redazionale: 0900399R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 ottobre 1909 n. CCCXCIX
-========================================
-
-Che trasforma il Monte frumentario di Caccavone. (0900399R)
------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/12/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCXCIX (Dato a Racconigi, il 1° ottobre 1909), col quale il Monte frumentario di Caccavone (Campobasso) e' stato trasformato in Cassa di prestanze agrarie, di cui e' stato pure disposto il concentramento ed approvato lo statuto organico.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCXCIX (Dato a Racconigi, il 1° ottobre 1909), col quale il Monte frumentario di Caccavone (Campobasso) e' stato trasformato in Cassa di prestanze agrarie, di cui e' stato pure disposto il concentramento ed approvato lo statuto organico.

@@ -1,16 +1,14 @@
-REGIO DECRETO 17 luglio 1942 n. 980
-
-
-REGIO DECRETO 17 luglio 1942 n. 980
-===================================
-
-Organizzazione dei servizi del Ministero dell'agricoltura e delle foreste nei territori recentemente annessi al Regno d'Italia. (042U0980)
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/09/1942
+---
+tipo: REGIO DECRETO
+numero: 980
+data: 1942-07-17
+titolo: "Organizzazione dei servizi del Ministero dell'agricoltura e delle foreste nei territori recentemente annessi al Regno d'Italia. (042U0980)"
+urn: urn:nir:stato:regio.decreto:1942-07-17;980
+codice_redazionale: 042U0980
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -40,57 +38,38 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e per le foreste, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'agricoltura e per le foreste, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' istituito in Fiume un Ispettorato compartimentale agrario la cui competenza territoriale sara' stabilita a norma dell'art. 1, ultimo comma, del R. decreto-legge 18 novembre 1929-VIII, n. 2071, convertito nella legge 31 marzo 1930-VIII, n. 279.
 
-  
-  
-E' istituito in Fiume un Ispettorato compartimentale agrario la cui competenza territoriale sara' stabilita a norma dell'art. 1, ultimo comma, del R. decreto-legge 18 novembre 1929-VIII, n. 2071, convertito nella legge 31 marzo 1930-VIII, n. 279.   
-  
-  
+## Art. 2.
 
-Art. 2
-------
+Sono istituiti gl'Ispettorati provinciali dell'agricoltura di Lubiana, Spalato e Cattaro con sede nei rispettivi capoluoghi di provincia. 
+ 
+ All'istituzione di uffici staccati degli stessi Ispettorati in altri comuni delle provincie, quando la vastita' del territorio e le particolari esigenze dell'agricoltura lo consiglino, potra' provvedersi a norma dell'art. 1, secondo comma, del R. decreto 22 febbraio 1937-XV, n. 327. 
+ 
+ All'istituzione di Sezioni specializzate per la difesa contro le malattie delle piante potra' provvedersi a norma dell'art. 26 del R. decreto 29 maggio 1941-XIX, n. 489. A tal fine il numero delle Sezioni stesse, contemplate dal citato articolo, e' elevato a settantadue.
 
-  
-  
-Sono istituiti gl'Ispettorati provinciali dell'agricoltura di Lubiana, Spalato e Cattaro con sede nei rispettivi capoluoghi di provincia.   
-  
-All'istituzione di uffici staccati degli stessi Ispettorati in altri comuni delle provincie, quando la vastita' del territorio e le particolari esigenze dell'agricoltura lo consiglino, potra' provvedersi a norma dell'art. 1, secondo comma, del R. decreto 22 febbraio 1937-XV, n. 327.   
-  
-All'istituzione di Sezioni specializzate per la difesa contro le malattie delle piante potra' provvedersi a norma dell'art. 26 del R. decreto 29 maggio 1941-XIX, n. 489. A tal fine il numero delle Sezioni stesse, contemplate dal citato articolo, e' elevato a settantadue.   
-  
-  
+## Art. 3.
 
-Art. 3
-------
+Per il funzionamento degli uffici istituiti con i precedenti articoli sono portati in aumento nel ruolo tecnico dell'agricoltura (gruppo A) di cui alla tabella B allegata al citato R. decreto 29 maggio 1941-XIX, n. 489, un posto di ispettore generale (grado 5°) e tre posti di ispettore superiore (grado 6°).
 
-  
-  
-Per il funzionamento degli uffici istituiti con i precedenti articoli sono portati in aumento nel ruolo tecnico dell'agricoltura (gruppo A) di cui alla tabella B allegata al citato R. decreto 29 maggio 1941-XIX, n. 489, un posto di ispettore generale (grado 5°) e tre posti di ispettore superiore (grado 6°).   
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 17 luglio 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - PARESCHI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte del conti, addi' 5 settembre 1942-XX   
-  
-Atti del Governo, registro 449, foglio 22. -. MANCINI   
+Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 17 luglio 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - PARESCHI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte del conti, addi' 5 settembre 1942-XX 
+ 
+ Atti del Governo, registro 449, foglio 22. -. MANCINI

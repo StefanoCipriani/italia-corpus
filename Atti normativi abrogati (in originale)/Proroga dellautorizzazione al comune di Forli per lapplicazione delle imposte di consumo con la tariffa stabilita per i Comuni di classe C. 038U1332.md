@@ -1,16 +1,14 @@
-REGIO DECRETO 08 agosto 1938 n. 1332
-
-
-REGIO DECRETO 08 agosto 1938 n. 1332
-====================================
-
-Proroga dell'autorizzazione al comune di Forli' per l'applicazione delle imposte di consumo con la tariffa stabilita per i Comuni di classe C. (038U1332)
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/09/1938
+---
+tipo: REGIO DECRETO
+numero: 1332
+data: 1938-08-08
+titolo: "Proroga dell'autorizzazione al comune di Forli' per l'applicazione delle imposte di consumo con la tariffa stabilita per i Comuni di classe C. (038U1332)"
+urn: urn:nir:stato:regio.decreto:1938-08-08;1332
+codice_redazionale: 038U1332
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,24 @@ Vista l'istanza in data 3 novembre 1937 con la quale il Comune suddetto chiede d
 
 Udita la Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
-
-Art. 1
-------
+## Art. 1.
 
 Il comune di Forli' e' autorizzato a mantenere in applicazione le imposte di consumo in base alla tariffa della classe C sino a tutto il 31 dicembre
 
-1940. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 agosto 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 1° settembre 1938 - Anno XVI   
-  
-Atti del Governo, registro 401, foglio 8. - MANCINI.
+1940.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 agosto 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 1° settembre 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 401, foglio 8. - MANCINI.

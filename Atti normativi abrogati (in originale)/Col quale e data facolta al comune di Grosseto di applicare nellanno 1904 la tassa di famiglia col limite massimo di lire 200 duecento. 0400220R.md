@@ -1,21 +1,17 @@
-REGIO DECRETO 22 maggio 1904 n. CCXX
+---
+tipo: REGIO DECRETO
+numero: CCXX
+data: 1904-05-22
+titolo: "Col quale e' data facolta' al comune di Grosseto di applicare nell'anno 1904 la tassa di famiglia col limite massimo di lire 200 (duecento). (0400220R)"
+urn: urn:nir:stato:regio.decreto:1904-05-22;220
+codice_redazionale: 0400220R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 maggio 1904 n. CCXX
-====================================
-
-Col quale e' data facolta' al comune di Grosseto di applicare nell'anno 1904 la tassa di famiglia col limite massimo di lire 200 (duecento). (0400220R)
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/06/1904
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di Grosseto di applicare nell'anno 1904 la tassa di famiglia col limite massimo di lire 200 (duecento). - Firmato VITTORIO EMANUELE - Controfirmato L. Luzzatti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 4 giugno 1004.   
-  
-Reg. 16. Atti del Governo a f. 204.   
-  
+Col quale e' data facolta' al comune di Grosseto di applicare nell'anno 1904 la tassa di famiglia col limite massimo di lire 200 (duecento). - Firmato VITTORIO EMANUELE - Controfirmato L. Luzzatti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 4 giugno 1004. 
+ 
+ Reg. 16. Atti del Governo a f. 204.

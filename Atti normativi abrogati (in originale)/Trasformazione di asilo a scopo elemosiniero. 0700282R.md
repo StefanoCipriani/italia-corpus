@@ -1,19 +1,15 @@
-REGIO DECRETO 27 giugno 1907 n. CCLXXXII
+---
+tipo: REGIO DECRETO
+numero: CCLXXXII
+data: 1907-06-27
+titolo: "Trasformazione di asilo a scopo elemosiniero. (0700282R)"
+urn: urn:nir:stato:regio.decreto:1907-06-27;282
+codice_redazionale: 0700282R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 giugno 1907 n. CCLXXXII
-========================================
-
-Trasformazione di asilo a scopo elemosiniero. (0700282R)
---------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/08/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCLXXXII (Dato a Roma, il 27 giugno 1907), col quale l'Asilo infantile di Moneglia (Genova) e' eretto in ente morale ed e' approvato lo statuto organico relativo.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCLXXXII (Dato a Roma, il 27 giugno 1907), col quale l'Asilo infantile di Moneglia (Genova) e' eretto in ente morale ed e' approvato lo statuto organico relativo.

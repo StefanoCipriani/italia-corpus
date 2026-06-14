@@ -1,16 +1,14 @@
-REGIO DECRETO 08 gennaio 1870 n. 5473
-
-
-REGIO DECRETO 08 gennaio 1870 n. 5473
-=====================================
-
-Che autorizza la Regia Universita' di Messina ad accettare il lascito Gentiluomo. (070U5473)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/03/1870
+---
+tipo: REGIO DECRETO
+numero: 5473
+data: 1870-01-08
+titolo: "Che autorizza la Regia Universita' di Messina ad accettare il lascito Gentiluomo. (070U5473)"
+urn: urn:nir:stato:regio.decreto:1870-01-08;5473
+codice_redazionale: 070U5473
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,27 +20,20 @@ Veduto il parere favorevole della Prefettura di Messina;
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Regia Universita' degli studi di Messina, e per essa il suo Rettore, e' abilitata ad accettare il legato fattole col testamento olografo sovraccennato dal Dottore Filippo Gentiluomo.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 8 gennaio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corti dei conti addi' 4 febbraio 1870   
-Reg. 50 Atti del Governo a c. 36. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-C. Correnti.   
-  
+La Regia Universita' degli studi di Messina, e per essa il suo Rettore, e' abilitata ad accettare il legato fattole col testamento olografo sovraccennato dal Dottore Filippo Gentiluomo. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 8 gennaio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corti dei conti addi' 4 febbraio 1870 
+ Reg. 50 Atti del Governo a c. 36. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ C. Correnti.

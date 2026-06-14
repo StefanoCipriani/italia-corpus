@@ -1,17 +1,14 @@
-REGIO DECRETO 03 marzo 1867 n. 3560
-
-
-REGIO DECRETO 03 marzo 1867 n. 3560
-===================================
-
-Col quale i Comuni di Picciano, Collecorvino e Castellammare Adriatico costituiranno una sezione del Collegio elettorale di Citta' Sant'Angelo e di Castellammare con sede nel Capoluogo dei Comuni stessi. (067U3560)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/03/1867  
-Il presente Regio Decreto è stato erroneamente pubblicato in Gazzetta Ufficiale senza l'indicazione del numero di inserzione nella Raccolta Ufficiale delle leggi e dei decreti del Regno.
+---
+tipo: REGIO DECRETO
+numero: 3560
+data: 1867-03-03
+titolo: "Col quale i Comuni di Picciano, Collecorvino e Castellammare Adriatico costituiranno una sezione del Collegio elettorale di Citta' Sant'Angelo e di Castellammare con sede nel Capoluogo dei Comuni stessi. (067U3560)"
+urn: urn:nir:stato:regio.decreto:1867-03-03;3560
+codice_redazionale: 067U3560
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -27,29 +24,22 @@ Noverandosi nei Comuni stessi piu' di 40 Elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Picciano e Collecorvino costituiranno d'ora in poi una sezione del Collegio elettorale di Citta' Sant'Angelo n° 10, la quale avra' sede nel Capoluogo del Comune di Collecorvino. Il Comune di Castellamare Adriatico costituira' pure una sezione del Collegio medesimo con sede nel Capoluogo del Comune stesso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 3 marzo 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 12 marzo 1867   
-  
-Reg. 39 Atti del Governo a c. 163. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Ricasoli.   
-  
-Ricasoli.   
-  
+I Comuni di Picciano e Collecorvino costituiranno d'ora in poi una sezione del Collegio elettorale di Citta' Sant'Angelo n° 10, la quale avra' sede nel Capoluogo del Comune di Collecorvino. Il Comune di Castellamare Adriatico costituira' pure una sezione del Collegio medesimo con sede nel Capoluogo del Comune stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 3 marzo 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 12 marzo 1867 
+ 
+ Reg. 39 Atti del Governo a c. 163. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Ricasoli. 
+ 
+ Ricasoli.

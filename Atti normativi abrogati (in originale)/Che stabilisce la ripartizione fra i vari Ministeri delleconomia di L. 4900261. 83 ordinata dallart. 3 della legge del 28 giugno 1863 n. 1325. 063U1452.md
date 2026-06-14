@@ -1,16 +1,14 @@
-REGIO DECRETO 30 agosto 1863 n. 1452
-
-
-REGIO DECRETO 30 agosto 1863 n. 1452
-====================================
-
-Che stabilisce la ripartizione fra i vari Ministeri dell'economia di L. 4,900,261. 83 ordinata dall'art. 3 della legge del 28 giugno 1863, n.° 1325. (063U1452)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/10/1863
+---
+tipo: REGIO DECRETO
+numero: 1452
+data: 1863-08-30
+titolo: "Che stabilisce la ripartizione fra i vari Ministeri dell'economia di L. 4,900,261. 83 ordinata dall'art. 3 della legge del 28 giugno 1863, n.° 1325. (063U1452)"
+urn: urn:nir:stato:regio.decreto:1863-08-30;1452
+codice_redazionale: 063U1452
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -72,37 +70,20 @@ Guerra - Capitoli 1, 2, 3, 4, 5, 6, 37, 46, 50.
 
 Marina - Capitoli 1, 2, 7, 8, 9, 11, 12, 15, 17, 19, 20, 37, 38.
 
-Sulla
------
+Sulla proposizione del Ministro delle Finanze ed appresso a deliberazione del Consiglio dei Ministri; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposizione del Ministro delle Finanze ed appresso a deliberazione del Consiglio dei Ministri; Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'economia di L. 4,900,261. 83 ordinata dall'art. 3 della legge del 28 giugno 1863, n.° 1325, sulle spese ordinarie del bilancio 1864, e' ripartita fra i vari Ministeri ed i capitoli indicati nell'unito quadro, firmato d'ordine Nostro dal Ministro delle Finanze.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 30 agosto 1863.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 11 settembre 1863.   
-Reg.° 25 Atti del Governo a c. 98. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI.   
-  
-M. MINGHETTI.   
-  
-  
-
-Tabella
-
-  
-TABELLA DI RIPARTIZIONE   
-fra i Capitoli del bilancio 1864 dei vari Ministeri dell'economia di L. 4,900,261. 83 ordinata dall'art. 3 della legge 28 giugno 1863, n.° 1325.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=063U145200100010110001&dgu=1863-09-16&art.dataPubblicazioneGazzetta=1863-09-16&art.codiceRedazionale=063U1452)
-  
+L'economia di L. 4,900,261. 83 ordinata dall'art. 3 della legge del 28 giugno 1863, n.° 1325, sulle spese ordinarie del bilancio 1864, e' ripartita fra i vari Ministeri ed i capitoli indicati nell'unito quadro, firmato d'ordine Nostro dal Ministro delle Finanze. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 30 agosto 1863. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 11 settembre 1863. 
+ Reg.° 25 Atti del Governo a c. 98. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI. 
+ 
+ M. MINGHETTI.

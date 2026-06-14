@@ -1,54 +1,40 @@
-DECRETO-LEGGE 19 gennaio 1996 n. 28
-
-
-DECRETO-LEGGE 19 gennaio 1996 n. 28
-===================================
-
-Proroga dei termini previsti dal decreto legislativo 19 settembre 1994, n. 626, in materia di sicurezza nei luoghi di lavoro.
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 21/1/1996.Decreto-Legge decaduto per mancata conversione.
+---
+tipo: DECRETO-LEGGE
+numero: 500
+data: 1995-11-25
+titolo: "Proroga dei termini previsti dal decreto legislativo 19 settembre 1994, n. 626, in materia di sicurezza nei luoghi di lavoro."
+urn: urn:nir:stato:decreto.legge:1995-11-25;500
+codice_redazionale: 095G0544
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Ritenuta la straordinaria necessita' ed urgenza di prorogare i termini di entrata in vigore degli adempimenti previsti dal [decreto legislativo 19 settembre 1994, n. 626](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-09-19;626), in materia di sicurezza nei luoghi di lavoro, in attesa dell'emanazione di disposizioni correttive del citato decreto legislativo;
+Ritenuta la straordinaria necessita' ed urgenza di prorogare i termini di entrata in vigore degli adempimenti previsti dal [decreto legislativo 19 settembre 1994, n. 626](Attuazione%20delle%20direttive%2089-391-CEE%2089-654-CEE%2089-655-CEE%2089-656-CEE%2090-269-CEE%2090-270-CEE%2090-394-CEE%20e%2090-679-CEE%20riguardanti%20il%20miglioramento%20della%20sicurezza%20e%20della%20salute%20dei%20lavora_f68a06b7f59f.md), in materia di sicurezza nei luoghi di lavoro, in attesa dell'emanazione di disposizioni correttive del citato decreto all'esame delle competenti commissioni parlamentari;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 gennaio 1996;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 novembre 1995;
 
-Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro e del Ministro delle finanze e, ad interim, del bilancio e della programmazione economica e per il coordinamento delle politiche dell'Unione europea, di concerto con il Ministro della sanita';
+Sulla proposta del Presidente del Consiglio dei Ministri e Ministro del tesoro, del Ministro del bilancio e della programmazione economica e per il coordinamento delle politiche dell'Unione europea e del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro della sanita';
 
 E M A N A il seguente decreto-legge:
 
-Art. 1
-------
+## Art. 1. — Proroga dei termini per gli adempimenti in materia di miglioramento
+ della sicurezza e della salute dei lavoratori sul luogo di lavoro.
 
-Proroga dei termini per gli adempimenti in materia di miglioramento della sicurezza e della salute dei lavoratori sul luogo di lavoro.
+1.
 
-1. In attesa dell'emanazione, ai sensi dell'[articolo 1, comma 5, della legge 22 febbraio 1994, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146~art1-com5), del decreto legislativo correttivo ed integrativo del [decreto legislativo 19 settembre 1994, n. 626](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-09-19;626), i termini previsti dal citato [decreto legislativo n. 626 del 1994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;626), non ancora decorsi alla data del 25 novembre 1995, sono differiti fino e non oltre il 19 marzo 1996.
+In attesa dell'emanazione, ai sensi dell'[articolo 1, comma 5, della legge 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146#art_1-com5), del decreto legislativo correttivo ed integrativo del [decreto legislativo 19 settembre 1994, n. 626](Attuazione%20delle%20direttive%2089-391-CEE%2089-654-CEE%2089-655-CEE%2089-656-CEE%2090-269-CEE%2090-270-CEE%2090-394-CEE%20e%2090-679-CEE%20riguardanti%20il%20miglioramento%20della%20sicurezza%20e%20della%20salute%20dei%20lavora_f68a06b7f59f.md), i termini previsti dal citato [decreto legislativo n. 626 del 1994](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994;626), non ancora decorsi alla data di entrata in vigore del presente decreto, sono prorogati al 20 gennaio 1996.
 
-Art. 2
-------
+## Art. 2. — Entrata in vigore
 
-Entrata in vigore
+1.
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 19 gennaio 1996
+Dato a Roma, addi' 25 novembre 1995
 
-SCALFARO
-
-DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro
-
-FANTOZZI, Ministro delle finanze e,
-
-ad interim, Ministro del bilancio e della programmazione economica e per il coordinamento delle politiche dell'Unione europea
-
-GUZZANTI, Ministro della sanita'
-
-Visto, il Guardasigilli: DINI
+SCALFARO DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro MASERA, Ministro del bilancio e della programmazione economica e per il coordinamento delle politiche dell'Unione europea TREU, Ministro del lavoro e della previdenza sociale GUZZANTI, Ministro della sanita' Visto, il Guardasigilli: DINI

@@ -1,19 +1,15 @@
-REGIO DECRETO 28 dicembre 1913 n. 1457
+---
+tipo: REGIO DECRETO
+numero: 1457
+data: 1913-12-28
+titolo: "Trasformazione di patrimonio a scopo elemosiniero. (013U1457)"
+urn: urn:nir:stato:regio.decreto:1913-12-28;1457
+codice_redazionale: 013U1457
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 dicembre 1913 n. 1457
-======================================
-
-Trasformazione di patrimonio a scopo elemosiniero. (013U1457)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/02/1914
-
-Art. 1
-------
-
-  
-N. 1457   
-  
-Regio Decreto 28 dicembre 1913, col quale, sulla proposta del ministro dell'interno, viene trasformato a scopo elemosiniero il fine inerente al patrimonio della Confraternita del Sacramento di Piagge (Pesaro), e il patrimonio medesimo viene concentrato nella locale Congregazione di carita'.   
-  
+N. 1457 
+ 
+ Regio Decreto 28 dicembre 1913, col quale, sulla proposta del ministro dell'interno, viene trasformato a scopo elemosiniero il fine inerente al patrimonio della Confraternita del Sacramento di Piagge (Pesaro), e il patrimonio medesimo viene concentrato nella locale Congregazione di carita'.

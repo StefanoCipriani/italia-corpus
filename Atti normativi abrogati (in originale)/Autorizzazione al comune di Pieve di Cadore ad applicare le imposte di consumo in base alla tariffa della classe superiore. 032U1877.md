@@ -1,16 +1,14 @@
-REGIO DECRETO 22 dicembre 1932 n. 1877
-
-
-REGIO DECRETO 22 dicembre 1932 n. 1877
-======================================
-
-Autorizzazione al comune di Pieve di Cadore ad applicare le imposte di consumo in base alla tariffa della classe superiore. (032U1877)
---------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/02/1933
+---
+tipo: REGIO DECRETO
+numero: 1877
+data: 1932-12-22
+titolo: "Autorizzazione al comune di Pieve di Cadore ad applicare le imposte di consumo in base alla tariffa della classe superiore. (032U1877)"
+urn: urn:nir:stato:regio.decreto:1932-12-22;1877
+codice_redazionale: 032U1877
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,22 @@ Visto il decreto del Nostro Ministro per l'interno 28 ottobre 1927, in base al q
 
 Visto il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Pieve di Cadore e' autorizzato ad applicare le imposte di consumo con le aliquote stabilite per la classe G.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservali e di farla osservare.   
-  
-Dato a Roma, addi' 22 dicembre 1932 - Anno XI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Jung.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 27 gennaio 1933 - Anno XI   
-  
-Atti del Governo, registro 328, foglio 156. - Mancini.   
+Il comune di Pieve di Cadore e' autorizzato ad applicare le imposte di consumo con le aliquote stabilite per la classe G. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservali e di farla osservare. 
+ 
+ Dato a Roma, addi' 22 dicembre 1932 - Anno XI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Jung. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 27 gennaio 1933 - Anno XI 
+ 
+ Atti del Governo, registro 328, foglio 156. - Mancini.

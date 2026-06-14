@@ -1,19 +1,15 @@
-REGIO DECRETO 13 marzo 1913 n. 244
+---
+tipo: REGIO DECRETO
+numero: 244
+data: 1913-03-13
+titolo: "Erezione in Ente morale e relativa approvazione di statuto. (013U0244)"
+urn: urn:nir:stato:regio.decreto:1913-03-13;244
+codice_redazionale: 013U0244
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 marzo 1913 n. 244
-==================================
-
-Erezione in Ente morale e relativa approvazione di statuto. (013U0244)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/04/1913
-
-Art. 1
-------
-
-  
-N. 244   
-  
-Regio Decreto 13 marzo 1913, col quale, sulla proposta del ministro dell'interno, il Ricovero inabili al lavoro di Rivarolo Ligure (Genova), e' eretto in ente morale sotto l'amministrazione della Congregazione di carita', e ne e' approvato lo statuto.   
-  
+N. 244 
+ 
+ Regio Decreto 13 marzo 1913, col quale, sulla proposta del ministro dell'interno, il Ricovero inabili al lavoro di Rivarolo Ligure (Genova), e' eretto in ente morale sotto l'amministrazione della Congregazione di carita', e ne e' approvato lo statuto.

@@ -1,16 +1,14 @@
-REGIO DECRETO 19 settembre 1875 n. 2700
-
-
-REGIO DECRETO 19 settembre 1875 n. 2700
-=======================================
-
-Che all'elenco delle strade provinciali di Massa-Carrara aggiunge quella detta Albiano-Cepparano. (075U2700)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/10/1875
+---
+tipo: REGIO DECRETO
+numero: 2700
+data: 1875-09-19
+titolo: "Che all'elenco delle strade provinciali di Massa-Carrara aggiunge quella detta Albiano-Cepparano. (075U2700)"
+urn: urn:nir:stato:regio.decreto:1875-09-19;2700
+codice_redazionale: 075U2700
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,7 +22,7 @@ Visti i Nostri decreti 10 novembre 1867, 30 dicembre 1872, 15 febbraio, 31 maggi
 
 Visto il parere 14 agosto 1875 del Consiglio Superiore dei Lavori Pubblici;
 
-Visti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della legge 20 marzo 1865, numero 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato F;
+Visti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [14 della legge 20 marzo 1865, numero 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), allegato F;
 
 Considerando,
 
@@ -32,24 +30,16 @@ Che la strada Albiano-Cepparano forma il prolungamento della provinciale di Buon
 
 Che la deliberazione presa dal Consiglio provinciale, pubblicata a forma del successivo art. 14, non diede alcun reclamo;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' aggiunto all'elenco delle strade della provincia di Massa-Carrara quella detta Albiano, che della Nazionale Spezia-Cremona presso Bettola mette al confine della provincia di Genova presso Cepparano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Date a Torino, addi' 19 settembre 1875.   
-  
-VITTORIO EMANUELE.   
-  
-S. SPAVENTA.   
-  
-  
+E' aggiunto all'elenco delle strade della provincia di Massa-Carrara quella detta Albiano, che della Nazionale Spezia-Cremona presso Bettola mette al confine della provincia di Genova presso Cepparano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Date a Torino, addi' 19 settembre 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ S. SPAVENTA.

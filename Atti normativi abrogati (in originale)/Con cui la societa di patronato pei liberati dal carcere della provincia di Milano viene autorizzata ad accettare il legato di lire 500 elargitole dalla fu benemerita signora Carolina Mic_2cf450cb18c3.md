@@ -1,22 +1,18 @@
-REGIO DECRETO 08 settembre 1904 n. CCCXC
+---
+tipo: REGIO DECRETO
+numero: CCCXC
+data: 1904-09-08
+titolo: "Con cui la societa' di patronato pei liberati dal carcere della provincia di Milano viene autorizzata ad accettare il legato di lire 500 elargitole dalla fu benemerita signora Carolina Micotti-Pagnoni. (0400390R)"
+urn: urn:nir:stato:regio.decreto:1904-09-08;390
+codice_redazionale: 0400390R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 settembre 1904 n. CCCXC
-========================================
-
-Con cui la societa' di patronato pei liberati dal carcere della provincia di Milano viene autorizzata ad accettare il legato di lire 500 elargitole dalla fu benemerita signora Carolina Micotti-Pagnoni. (0400390R)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/10/1904
-
-Art. 1
-------
-
-  
-Con cui la societa' di patronato pei liberati dal carcere della provincia di Milano viene autorizzata ad accettare il legato di lire 500 elargitole dalla fu benemerita signora Carolina Micotti-Pagnoni.  
-- Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 7 ottobre 1904.   
-  
-Reg. 19. Atti del Governo a f. 13.   
-  
+Con cui la societa' di patronato pei liberati dal carcere della provincia di Milano viene autorizzata ad accettare il legato di lire 500 elargitole dalla fu benemerita signora Carolina Micotti-Pagnoni.
+- Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 7 ottobre 1904. 
+ 
+ Reg. 19. Atti del Governo a f. 13.

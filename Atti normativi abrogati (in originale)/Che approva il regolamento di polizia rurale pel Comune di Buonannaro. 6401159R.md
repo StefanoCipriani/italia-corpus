@@ -1,20 +1,17 @@
-REGIO DECRETO 13 marzo 1864 n. MCLIX
+---
+tipo: REGIO DECRETO
+numero: MCLIX
+data: 1864-03-13
+titolo: "Che approva il regolamento di polizia rurale pel Comune di Buonannaro. (6401159R)"
+urn: urn:nir:stato:regio.decreto:1864-03-13;1159
+codice_redazionale: 6401159R
+vigente: true
+---
 
-
-REGIO DECRETO 13 marzo 1864 n. MCLIX
-====================================
-
-Che approva il regolamento di polizia rurale pel Comune di Buonannaro. (6401159R)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/03/1864
-
-Art. 1
-------
+## Art. 1.
 
 Che approva il regolamento di polizia rurale del Comune di Buonannaro, Provincia di Sassari, in data del 2 dicembre
 
-1863. 
-  
-  
+1863.
+
 Torino 13 marzo 1864

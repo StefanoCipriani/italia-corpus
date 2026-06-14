@@ -1,22 +1,18 @@
-REGIO DECRETO 20 ottobre 1904 n. CCCCLIV
+---
+tipo: REGIO DECRETO
+numero: CCCCLIV
+data: 1904-10-20
+titolo: "Col quale e' data facolta' al comune di Ascoli Piceno di applicare nell'anno 1904 la tassa di famiglia col limite massimo di lire 500 (cinquecento). (0400454R)"
+urn: urn:nir:stato:regio.decreto:1904-10-20;454
+codice_redazionale: 0400454R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 ottobre 1904 n. CCCCLIV
-========================================
-
-Col quale e' data facolta' al comune di Ascoli Piceno di applicare nell'anno 1904 la tassa di famiglia col limite massimo di lire 500 (cinquecento). (0400454R)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/12/1904
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di Ascoli Piceno di applicare nell'anno 1904 la tassa di famiglia col limite massimo di lire 500 (cinquecento). - Firmato VITTORIO EMANUELE - Controfirmato L.  
-Luzzatti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 12 novembre 1904.   
-  
-Reg. 19. Atti del Governo a f. 133.   
-  
+Col quale e' data facolta' al comune di Ascoli Piceno di applicare nell'anno 1904 la tassa di famiglia col limite massimo di lire 500 (cinquecento). - Firmato VITTORIO EMANUELE - Controfirmato L.
+Luzzatti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 12 novembre 1904. 
+ 
+ Reg. 19. Atti del Governo a f. 133.

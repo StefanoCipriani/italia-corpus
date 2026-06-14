@@ -1,17 +1,17 @@
-REGIO DECRETO 24 novembre 1921 n. 2087
+---
+tipo: REGIO DECRETO
+numero: 2087
+data: 1921-11-24
+titolo: "Erezione in Ente morale. (021U2087)"
+urn: urn:nir:stato:regio.decreto:1921-11-24;2087
+codice_redazionale: 021U2087
+vigente: true
+---
 
-
-REGIO DECRETO 24 novembre 1921 n. 2087
-======================================
-
-Erezione in Ente morale. (021U2087)
------------------------------------
-
-Entrata in vigore del provvedimento: 03/03/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2087. R. decreto 24 novembre 1921, col quale, sulla proposta del ministro della pubblica istruzione, la Fondazione Giovan Battista Queirolo per un posto di perfezionamento presso la clinica medica della R. universita' di Pisa viene eretta in Ente morale e ne e' approvato lo statuto organico.
+2087.
+
+R. decreto 24 novembre 1921, col quale, sulla proposta del ministro della pubblica istruzione, la Fondazione Giovan Battista Queirolo per un posto di perfezionamento presso la clinica medica della R. universita' di Pisa viene eretta in Ente morale e ne e' approvato lo statuto organico.

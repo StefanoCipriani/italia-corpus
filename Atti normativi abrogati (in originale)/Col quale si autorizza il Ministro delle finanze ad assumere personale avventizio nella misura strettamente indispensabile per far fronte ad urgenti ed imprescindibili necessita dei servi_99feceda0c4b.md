@@ -1,22 +1,20 @@
-REGIO DECRETO 14 giugno 1923 n. 1273
-
-
-REGIO DECRETO 14 giugno 1923 n. 1273
-====================================
-
-Col quale si autorizza il Ministro delle finanze ad assumere personale avventizio nella misura strettamente indispensabile per far fronte ad urgenti ed imprescindibili necessita' dei servizi di competenza del Comitato liquidatore delle gestioni di guerra. (023U1273)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/07/1923
+---
+tipo: REGIO DECRETO
+numero: 1273
+data: 1923-06-14
+titolo: "Col quale si autorizza il Ministro delle finanze ad assumere personale avventizio nella misura strettamente indispensabile per far fronte ad urgenti ed imprescindibili necessita' dei servizi di competenza del Comitato liquidatore delle gestioni di guerra. (023U1273)"
+urn: urn:nir:stato:regio.decreto:1923-06-14;1273
+codice_redazionale: 023U1273
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 3 dicembre 1922, n. 1601](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1922-12-03;1601);
+Vista la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
 Considerate le condizioni di disagio in cui, nei riguardi del personale, si trovano, il servizio stralcio degli approvvigionamenti e consumi e gli Enti militari che attendono a liquidazioni belliche, ed in particolar modo quelli a cui e' affidato il servizio di stralcio delle armi e munizioni;
 
@@ -26,45 +24,32 @@ Ritenuto che la predetta deficienza di personale reca pregiudizio agli interessi
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta pel Nostro Ministro segretario di Stato per le finanze; Abbiamo decretato o decretiamo:
 
-proposta pel Nostro Ministro segretario di Stato per le finanze; Abbiamo decretato o decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Per far fronte ad urgenti ed imprescindibili necessita' dei servizi di competenza del Comitato liquidatore delle gestioni di guerra, istituito col [R. decreto 6 agosto 1920, n. 1093, il Ministro delle finanze](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-08-06;1093) e' autorizzato ad assumere, con proprio decreto, personale avventizio, nella misura strettamente indispensabile.
 
-  
-  
-  
-Per far fronte ad urgenti ed imprescindibili necessita' dei servizi di competenza del Comitato liquidatore delle gestioni di guerra, istituito col [R. decreto 6 agosto 1920, n. 1093, il Ministro delle finanze](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-08-06;1093) e' autorizzato ad assumere, con proprio decreto, personale avventizio, nella misura strettamente indispensabile.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-  
-A parita' di titolo saranno preferiti:   
-  
-a) i mutilati e gli invalidi di guerra;   
-  
-b) gli ex combattenti;   
-  
-c) gli impiegati dello Stato dispensati dal servizio in base alle vigenti disposizioni, purche', pero', tale dispensa non sia stata determinata da inabilita' dipendente da motivi di salute, ovvero da incapacita', o scarso rendimento di lavoro, ai sensi dell'[art. 3, comma 1 del R. decreto 25 gennaio 1923, n. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-25;87~art3-com1);   
-  
-d) gli ufficiali in posizione ausiliaria speciale.   
-  
-Agli avventizi assunti nelle categorie indicate a le lettere c) o d) potra' essere corrisposta una retribuzione non eccedente la differenza fra gli assegni di pensione o di posizione ausiliaria speciale e lo stipendio di attivita' dell'ultimo impiego coperto. Per gli ufficiali deve escludersi da tale computo l'indennita' militare di cui ai [Regi decreti 27 ottobre 1922, nn. 1427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-27;1427) o 1462.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti dei Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 giugno 1923.   
-  
-VITTORIO EMANUELE.   
-  
-MUSSOLINI - DE STEFANI.   
-  
-Visto: Il Guardasigilli: OVIGLIO.   
-  
+A parita' di titolo saranno preferiti: 
+ 
+ a) i mutilati e gli invalidi di guerra; 
+ 
+ b) gli ex combattenti; 
+ 
+ c) gli impiegati dello Stato dispensati dal servizio in base alle vigenti disposizioni, purche', pero', tale dispensa non sia stata determinata da inabilita' dipendente da motivi di salute, ovvero da incapacita', o scarso rendimento di lavoro, ai sensi dell'[art. 3, comma 1 del R. decreto 25 gennaio 1923, n. 87](Contenente%20le%20norme%20per%20lo%20esonero%20ed%20il%20trattamento%20di%20quiescenza%20del%20personale%20delle%20Amministrazioni%20dello%20Stato.%20023U0087.md); 
+ 
+ d) gli ufficiali in posizione ausiliaria speciale. 
+ 
+ Agli avventizi assunti nelle categorie indicate a le lettere c) o d) potra' essere corrisposta una retribuzione non eccedente la differenza fra gli assegni di pensione o di posizione ausiliaria speciale e lo stipendio di attivita' dell'ultimo impiego coperto. Per gli ufficiali deve escludersi da tale computo l'indennita' militare di cui ai [Regi decreti 27 ottobre 1922, nn. 1427](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-27;1427) o 1462. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti dei Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 giugno 1923. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ MUSSOLINI - DE STEFANI. 
+ 
+ Visto: Il Guardasigilli: OVIGLIO.

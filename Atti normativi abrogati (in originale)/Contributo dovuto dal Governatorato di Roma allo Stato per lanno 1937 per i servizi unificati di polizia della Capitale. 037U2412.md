@@ -1,16 +1,14 @@
-REGIO DECRETO 22 novembre 1937 n. 2412
-
-
-REGIO DECRETO 22 novembre 1937 n. 2412
-======================================
-
-Contributo dovuto dal Governatorato di Roma allo Stato, per l'anno 1937, per i servizi unificati di polizia della Capitale. (037U2412)
---------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/02/1938
+---
+tipo: REGIO DECRETO
+numero: 2412
+data: 1937-11-22
+titolo: "Contributo dovuto dal Governatorato di Roma allo Stato, per l'anno 1937, per i servizi unificati di polizia della Capitale. (037U2412)"
+urn: urn:nir:stato:regio.decreto:1937-11-22;2412
+codice_redazionale: 037U2412
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,21 @@ Ritenuta la necessita' di stabilire per l'anno 1937 il contributo del Governator
 
 Udito il Governatore di Roma;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il contributo dovuto per l'anno 1937 dal Governatorato di Roma all'Amministrazione dello Stato per i servizi unificati di polizia della Capitale e' stabilito nella somma di lire diciotto milioni.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 novembre 1937 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: SOLMI   
-  
-Registrato alla Corte dei conti, addi' 3 febbraio 1938 - Anno XVI   
-Atti del Governo, registro 394, foglio 11. - MANCINI.   
-  
-  
+Il contributo dovuto per l'anno 1937 dal Governatorato di Roma all'Amministrazione dello Stato per i servizi unificati di polizia della Capitale e' stabilito nella somma di lire diciotto milioni. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 novembre 1937 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: SOLMI 
+ 
+ Registrato alla Corte dei conti, addi' 3 febbraio 1938 - Anno XVI  
+ Atti del Governo, registro 394, foglio 11. - MANCINI.

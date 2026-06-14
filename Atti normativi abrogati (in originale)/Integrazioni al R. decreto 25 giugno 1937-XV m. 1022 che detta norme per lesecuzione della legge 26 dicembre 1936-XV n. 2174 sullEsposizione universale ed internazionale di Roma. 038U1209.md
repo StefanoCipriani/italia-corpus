@@ -1,16 +1,14 @@
-REGIO DECRETO 24 luglio 1938 n. 1209
-
-
-REGIO DECRETO 24 luglio 1938 n. 1209
-====================================
-
-Integrazioni al R. decreto 25 giugno 1937-XV, m. 1022, che detta norme per l'esecuzione della legge 26 dicembre 1936-XV, n. 2174, sull'Esposizione universale ed internazionale di Roma. (038U1209)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/08/1938
+---
+tipo: REGIO DECRETO
+numero: 1209
+data: 1938-07-24
+titolo: "Integrazioni al R. decreto 25 giugno 1937-XV, m. 1022, che detta norme per l'esecuzione della legge 26 dicembre 1936-XV, n. 2174, sull'Esposizione universale ed internazionale di Roma. (038U1209)"
+urn: urn:nir:stato:regio.decreto:1938-07-24;1209
+codice_redazionale: 038U1209
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,55 +26,41 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Duce, Primo Ministro Segretario di Stato e Ministro per l'interno, di concerto con i Ministri per le finanze, per le corporazioni e per gli scambi e per le valute; Abbiamo decretato e decretiamo:
 
-proposta del Duce, Primo Ministro Segretario di Stato e Ministro per l'interno, di concerto con i Ministri per le finanze, per le corporazioni e per gli scambi e per le valute; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+All'art. 5 del R. decreto 25 giugno 1937-XV, n. 1022, e' sostituito il seguente: 
+ 
+ «Il commissario generale nomina un segretario generale del Commissariato. 
+ 
+ «Il segretario generale e' gerarchicamente il capo di tutti gli uffici. Esso vigila sulla esecuzione delle disposizioni impartite dal commissario generale o dai commissari aggiunti e coordina l'attivita' di tutti i servizi dell'Esposizione. 
+ 
+ «Firma la corrispondenza ordinaria di ufficio e rappresenta l'Ente nei limiti dei poteri a lui conferiti dal commissario generale».
 
-  
-  
-All'art. 5 del R. decreto 25 giugno 1937-XV, n. 1022, e' sostituito il seguente:   
-  
-«Il commissario generale nomina un segretario generale del Commissariato.   
-  
-«Il segretario generale e' gerarchicamente il capo di tutti gli uffici. Esso vigila sulla esecuzione delle disposizioni impartite dal commissario generale o dai commissari aggiunti e coordina l'attivita' di tutti i servizi dell'Esposizione.   
-  
-«Firma la corrispondenza ordinaria di ufficio e rappresenta l'Ente nei limiti dei poteri a lui conferiti dal commissario generale».   
+## Art. 2.
 
-Art. 2
-------
+All'art. 14 del R. decreto 25 giugno 1937-XV, n. 1022, e' sostituito il seguente: 
+ 
+ «Il segretario generale del Commissariato e' anche segretario generale dell'Ente presso il quale esercita compiti analoghi a quelli indicati nel precedente art. 5. 
+ 
+ «Nel caso in cui siano simultaneamente assenti o impediti il presidente e i vice presidenti, il segretario generale puo', per motivi d'urgenza, nell'interesse dell'Ente, adottare provvedimenti di ordinaria amministrazione secondo le direttive del presidente».
 
-  
-  
-All'art. 14 del R. decreto 25 giugno 1937-XV, n. 1022, e' sostituito il seguente:   
-  
-«Il segretario generale del Commissariato e' anche segretario generale dell'Ente presso il quale esercita compiti analoghi a quelli indicati nel precedente art. 5.   
-  
-«Nel caso in cui siano simultaneamente assenti o impediti il presidente e i vice presidenti, il segretario generale puo', per motivi d'urgenza, nell'interesse dell'Ente, adottare provvedimenti di ordinaria amministrazione secondo le direttive del presidente».   
-  
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Anna di Valdieri, addi' 24 luglio 1938-XVI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel - Lantini -   
-Guarnieri   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 9 agosto 1938 - Anno XVI   
-  
-Atti del Governo, registro 400, foglio 45. - Mancini.   
+Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Anna di Valdieri, addi' 24 luglio 1938-XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel - Lantini - 
+ Guarnieri 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 9 agosto 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 400, foglio 45. - Mancini.

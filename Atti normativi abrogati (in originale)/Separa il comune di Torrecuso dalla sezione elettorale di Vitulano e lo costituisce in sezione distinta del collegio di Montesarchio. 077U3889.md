@@ -1,16 +1,14 @@
-REGIO DECRETO 15 giugno 1877 n. 3889
-
-
-REGIO DECRETO 15 giugno 1877 n. 3889
-====================================
-
-Separa il comune di Torrecuso dalla sezione elettorale di Vitulano e lo costituisce in sezione distinta del collegio di Montesarchio. (077U3889)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/07/1877
+---
+tipo: REGIO DECRETO
+numero: 3889
+data: 1877-06-15
+titolo: "Separa il comune di Torrecuso dalla sezione elettorale di Vitulano e lo costituisce in sezione distinta del collegio di Montesarchio. (077U3889)"
+urn: urn:nir:stato:regio.decreto:1877-06-15;3889
+codice_redazionale: 077U3889
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri,
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Torrecuso e' separato dalla sezione elettorale di Vitulano, e formera' una sezione distinta del Collegio elettorale di Montesarchio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Pollenzo, addi' 15 giugno 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il comune di Torrecuso e' separato dalla sezione elettorale di Vitulano, e formera' una sezione distinta del Collegio elettorale di Montesarchio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Pollenzo, addi' 15 giugno 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

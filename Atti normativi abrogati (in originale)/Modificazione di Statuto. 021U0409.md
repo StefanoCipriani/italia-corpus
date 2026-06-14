@@ -1,17 +1,17 @@
-REGIO DECRETO 13 marzo 1921 n. 409
+---
+tipo: REGIO DECRETO
+numero: 409
+data: 1921-03-13
+titolo: "Modificazione di Statuto. (021U0409)"
+urn: urn:nir:stato:regio.decreto:1921-03-13;409
+codice_redazionale: 021U0409
+vigente: true
+---
 
-
-REGIO DECRETO 13 marzo 1921 n. 409
-==================================
-
-Modificazione di Statuto. (021U0409)
-------------------------------------
-
-Entrata in vigore del provvedimento: 11/05/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-409. Regio decreto 13 marzo 1921, col quale, sulla proposta del ministro dell'industria e commercio, viene modificato lo statuto organico della Cassa di risparmio di Ronciglione.
+409.
+
+Regio decreto 13 marzo 1921, col quale, sulla proposta del ministro dell'industria e commercio, viene modificato lo statuto organico della Cassa di risparmio di Ronciglione.

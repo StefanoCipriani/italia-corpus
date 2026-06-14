@@ -1,16 +1,14 @@
-REGIO DECRETO 03 dicembre 1885 n. 3599
-
-
-REGIO DECRETO 03 dicembre 1885 n. 3599
-======================================
-
-Che modifica l'elenco delle strade provinciali di Alessandria. (085U3599)
--------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/02/1886
+---
+tipo: REGIO DECRETO
+numero: 3599
+data: 1885-12-03
+titolo: "Che modifica l'elenco delle strade provinciali di Alessandria. (085U3599)"
+urn: urn:nir:stato:regio.decreto:1885-12-03;3599
+codice_redazionale: 085U3599
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -42,41 +40,30 @@ Che l'opposizione del Consiglio provinciale di Alessandria non e' assoluta, ma e
 
 Che tale questione e' affatto estranea all'altra della classifica della strada, e dovra' quindi risolversi allorche' venga in discussione la scelta del tracciamento generale della memedesima;
 
-Visti gli articoli 13 e 14 della legge 20 marzo 1865, allegato F, l'[articolo 4 della legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333~art4), e l'articolo 1° del regolamento 20 marzo 1884 per l'esecuzione di quest'ultima legge;
+Visti gli articoli 13 e 14 della legge 20 marzo 1865, allegato F, l'[articolo 4 della legge 23 luglio 1881, n. 333](Che%20autorizza%20la%20spesa%20di%20lire%20225126704%20per%20la%20costruzione%20di%20nuove%20opere%20straordinarie%20stradali%20ed%20idrauliche%20nel%20quindicennio%201881-1895.%20081U0333.md), e l'articolo 1° del regolamento 20 marzo 1884 per l'esecuzione di quest'ultima legge;
 
 Udito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' accolto il ricorso elevato dal Consiglio comunale di Spigno Monferrato in adunanza 19 marzo 1885 contro la deliberazione 13 ottobre 1884 del Consiglio provinciale di Alessandria.
 
-  
-  
-E' accolto il ricorso elevato dal Consiglio comunale di Spigno Monferrato in adunanza 19 marzo 1885 contro la deliberazione 13 ottobre 1884 del Consiglio provinciale di Alessandria.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-All'elenco delle strade provinciali di Alessandria sono aggiunte, per la parte scorrente nel territorio di detta provincia, le due seguenti:   
-  
-a) Strada da Spigno a Pareto e Mioglio;   
-  
-b) Strada Appenninica dalla nazionale del Tanaro alla nazionale della Trebbia.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserito nella Raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 dicembre 1885.   
-  
-UMBERTO.   
-  
-GENALA.   
-  
-Visto, Il Guardasigilli: TAJANI.   
-  
+All'elenco delle strade provinciali di Alessandria sono aggiunte, per la parte scorrente nel territorio di detta provincia, le due seguenti: 
+ 
+ a) Strada da Spigno a Pareto e Mioglio; 
+ 
+ b) Strada Appenninica dalla nazionale del Tanaro alla nazionale della Trebbia. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserito nella Raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 dicembre 1885. 
+ 
+ UMBERTO. 
+ 
+ GENALA. 
+ 
+ Visto, Il Guardasigilli: TAJANI.

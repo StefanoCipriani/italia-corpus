@@ -1,16 +1,14 @@
-REGIO DECRETO 07 settembre 1865 n. 2480
-
-
-REGIO DECRETO 07 settembre 1865 n. 2480
-=======================================
-
-Che dispone la destituzione del Notaro che in occasione di malattia epidemica o contagiosa abbandona la propria residenza. (065U2480)
--------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/09/1865
+---
+tipo: REGIO DECRETO
+numero: 2480
+data: 1865-09-07
+titolo: "Che dispone la destituzione del Notaro che in occasione di malattia epidemica o contagiosa abbandona la propria residenza. (065U2480)"
+urn: urn:nir:stato:regio.decreto:1865-09-07;2480
+codice_redazionale: 065U2480
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,25 +20,18 @@ Attesoche' alcune di codeste Leggi manchino di efficace sanzione penale, contro 
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo
 
-proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo
+## Art. 1.
 
-Art. 1
-------
-
-  
-  
-Il Notaro che in occasione di malattia epidemica o contagiosa abbandona la propria residenza nella destituzione.   
-  
-Questo Decreto sara' convertito in Legge tostoche' il Parlamento sara' riconvocato.   
-  
-Ordiniamo che il presente Decreto, munito da Sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, sette settembre 1865.   
-  
-VITTORIO EMANUELE.   
-  
-Cortese.   
-  
+Il Notaro che in occasione di malattia epidemica o contagiosa abbandona la propria residenza nella destituzione. 
+ 
+ Questo Decreto sara' convertito in Legge tostoche' il Parlamento sara' riconvocato. 
+ 
+ Ordiniamo che il presente Decreto, munito da Sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, sette settembre 1865. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Cortese.

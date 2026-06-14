@@ -1,16 +1,14 @@
-REGIO DECRETO 27 maggio 1875 n. 2527
-
-
-REGIO DECRETO 27 maggio 1875 n. 2527
-====================================
-
-La frazione di San Rocco e' staccata dal comune di Tirano ed aggregata a quello di Villa di Tirano. (075U2527)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/07/1875
+---
+tipo: REGIO DECRETO
+numero: 2527
+data: 1875-05-27
+titolo: "La frazione di San Rocco e' staccata dal comune di Tirano ed aggregata a quello di Villa di Tirano. (075U2527)"
+urn: urn:nir:stato:regio.decreto:1875-05-27;2527
+codice_redazionale: 075U2527
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,33 +24,22 @@ Veduta la deliberazione del Consiglio provinciale di Sondrio, in data 14 settemb
 
 Visto l'art. 15, § 2°, della legge comunale e provinciale, 20 marzo 1865;
 
-Vista
------
+Vista la legge 18 agosto 1870, num. 5815; Abbiamo decretato e decretiamo:
 
-la legge 18 agosto 1870, num. 5815; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A cominciare dal 1° agosto 1875 la frazione di S. Rocco e' distaccata dal comune di Tirano e unita al comune di Villa di Tirano, nella provincia di Sondrio. 
+ 
+ I confini dei due comuni sono rispettivamente diminuiti ed accresciuti della porzione di territorio i cui limiti sono delineati in color rosso nel tipo planimetrico in data 26 ottobre 1870, che sara' d'ordine Nostro vidimato dal Ministro proponente.
 
-  
-  
-A cominciare dal 1° agosto 1875 la frazione di S. Rocco e' distaccata dal comune di Tirano e unita al comune di Villa di Tirano, nella provincia di Sondrio.   
-  
-I confini dei due comuni sono rispettivamente diminuiti ed accresciuti della porzione di territorio i cui limiti sono delineati in color rosso nel tipo planimetrico in data 26 ottobre 1870, che sara' d'ordine Nostro vidimato dal Ministro proponente.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Fino alla costituzione del nuovo Consiglio comunale di Villa di Tirano, a cui si procedera' nel mese di luglio, in base alle liste elettorali debitamente riformate, giusta le prescrizioni della legge, l'attuale rappresentanza del comune continuera' nell'esercizio delle sue attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione del futuro Consiglio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 maggio 1875.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
+Fino alla costituzione del nuovo Consiglio comunale di Villa di Tirano, a cui si procedera' nel mese di luglio, in base alle liste elettorali debitamente riformate, giusta le prescrizioni della legge, l'attuale rappresentanza del comune continuera' nell'esercizio delle sue attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione del futuro Consiglio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 maggio 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

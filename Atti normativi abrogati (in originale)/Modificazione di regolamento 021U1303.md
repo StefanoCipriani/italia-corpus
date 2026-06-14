@@ -1,17 +1,17 @@
-REGIO DECRETO 24 agosto 1921 n. 1303
+---
+tipo: REGIO DECRETO
+numero: 1303
+data: 1921-08-24
+titolo: "Modificazione di regolamento (021U1303)"
+urn: urn:nir:stato:regio.decreto:1921-08-24;1303
+codice_redazionale: 021U1303
+vigente: true
+---
 
-
-REGIO DECRETO 24 agosto 1921 n. 1303
-====================================
-
-Modificazione di regolamento (021U1303)
----------------------------------------
-
-Entrata in vigore del provvedimento: 19/10/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1303. Regio decreto 24 agosto 1921, con cui, su proposta del ministro dell'interno, presidente del Consiglio dei ministri, viene in parte omologata la deliberazione 5 dicembre 1920 del Consiglio comunale di Cutigliano (Firenze), concernente modificazione degli articoli 3 e 4 del regolamento per la applicazione della tassa di soggiorno nel Comune medesimo.
+1303.
+
+Regio decreto 24 agosto 1921, con cui, su proposta del ministro dell'interno, presidente del Consiglio dei ministri, viene in parte omologata la deliberazione 5 dicembre 1920 del Consiglio comunale di Cutigliano (Firenze), concernente modificazione degli articoli 3 e 4 del regolamento per la applicazione della tassa di soggiorno nel Comune medesimo.

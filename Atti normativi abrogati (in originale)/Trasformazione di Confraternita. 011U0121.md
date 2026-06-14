@@ -1,18 +1,15 @@
-REGIO DECRETO 12 febbraio 1911 n. 121
+---
+tipo: REGIO DECRETO
+numero: 121
+data: 1911-02-12
+titolo: "Trasformazione di Confraternita. (011U0121)"
+urn: urn:nir:stato:regio.decreto:1911-02-12;121
+codice_redazionale: 011U0121
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 febbraio 1911 n. 121
-=====================================
-
-Trasformazione di Confraternita. (011U0121)
--------------------------------------------
-
-Entrata in vigore del provvedimento: 21/03/1911
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. 121 (Dato a Roma, il 12 febbraio 1211), col quale si sono disposti la parziale trasformazione a scopi di beneficenza ed al concentramento della Confraternita e Monte di Sant'Anna di Sant' Antimo (Napoli).   
+Sulla proposta del ministro dell'interno: 
+ 
+ N. 121 (Dato a Roma, il 12 febbraio 1211), col quale si sono disposti la parziale trasformazione a scopi di beneficenza ed al concentramento della Confraternita e Monte di Sant'Anna di Sant' Antimo (Napoli).

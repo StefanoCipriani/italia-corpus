@@ -1,68 +1,47 @@
-LEGGE 16 luglio 1884 n. 2514
+---
+tipo: LEGGE
+numero: 2514
+data: 1884-07-16
+titolo: "Che autorizza spese straordinarie per far fronte a lavori di ordinaria riparazione delle opere idrauliche di 1ª e 2ª categoria, e per concorsi e sussidi ad opere stradali ed idrauliche danneggiate dalle piene del 1882. (084U2514)"
+urn: urn:nir:stato:legge:1884-07-16;2514
+codice_redazionale: 084U2514
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 16 luglio 1884 n. 2514
-============================
+E' autorizzata la spesa straordinaria di lire sette milioni per far fronte a lavori di ordinaria riparazione delle opere idrauliche di 1ª e 2ª categoria.
 
-Che autorizza spese straordinarie per far fronte a lavori di ordinaria riparazione delle opere idrauliche di 1ª e 2ª categoria, e per concorsi e sussidi ad opere stradali ed idrauliche danneggiate dalle piene del 1882. (084U2514)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 17/08/1884
+La somma indicata nel precedente articolo sara' iscritta nella parte straordinaria del bilancio della spesa del Ministero dei Lavori Pubblici in un capitolo speciale colla denominazione: «Spesa per riparazioni straordinarie alle opere idrauliche di 1ª e 2ª categoria» ripartendola nei seguenti esercizi: 
+ 
+ Primo semestre 1884 . . . . . L. 2,000,000 
+ Anno finanziario 1884-85 . . . » 3,000,000 
+ Anno finanziario 1885-86 . . . » 2,000,000
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-E' autorizzata la spesa straordinaria di lire sette milioni per far fronte a lavori di ordinaria riparazione delle opere idrauliche di 1ª e 2ª categoria.   
-  
+Per far fronte alla spesa autorizzata coll'articolo primo si inscrivera' nel bilancio dell'entrata, alla categoria Movimento dei capitali, una somma corrispondente da ricavarsi mediante l'alienazione di parte della somma complessiva delle obbligazioni dell'Asse ecclesiastico, delle quali era stata autorizzata l'emissione colla [legge 23 luglio 1881, n. 333](Che%20autorizza%20la%20spesa%20di%20lire%20225126704%20per%20la%20costruzione%20di%20nuove%20opere%20straordinarie%20stradali%20ed%20idrauliche%20nel%20quindicennio%201881-1895.%20081U0333.md), per far fronte a spese straordinarie di lavori pubblici, e che non furono alienate.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-La somma indicata nel precedente articolo sara' iscritta nella parte straordinaria del bilancio della spesa del Ministero dei Lavori Pubblici in un capitolo speciale colla denominazione: «Spesa per riparazioni straordinarie alle opere idrauliche di 1ª e 2ª categoria» ripartendola nei seguenti esercizi:   
-  
-Primo semestre 1884 . . . . . L. 2,000,000   
-Anno finanziario 1884-85 . . . » 3,000,000   
-Anno finanziario 1885-86 . . . » 2,000,000   
-  
+L'autorizzata del pari la spesa straordinaria di lire 1,200,000, la quale sara' inscritta nella parte straordinaria del bilancio del Ministero dei Lavori Pubblici, in un capitolo speciale colla denominazione: «Concorsi e sussidi nella misura del 50% ad opere stradali ed idrauliche provinciali, comunali e consorziali, danneggiate dalle piene del 1882.» La detta somma sara' ripartita nei seguenti esercizi: 
+ 
+ Anno finanziario 1884-85 . . . L. 500,000 
+ Anno finanziario 1885-86 . . . » 700,000
 
-Art. 3
-------
+## Art. 5.
 
-  
-  
-Per far fronte alla spesa autorizzata coll'articolo primo si inscrivera' nel bilancio dell'entrata, alla categoria Movimento dei capitali, una somma corrispondente da ricavarsi mediante l'alienazione di parte della somma complessiva delle obbligazioni dell'Asse ecclesiastico, delle quali era stata autorizzata l'emissione colla [legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333), per far fronte a spese straordinarie di lavori pubblici, e che non furono alienate.   
-  
-
-Art. 4
-------
-
-  
-  
-L'autorizzata del pari la spesa straordinaria di lire 1,200,000, la quale sara' inscritta nella parte straordinaria del bilancio del Ministero dei Lavori Pubblici, in un capitolo speciale colla denominazione: «Concorsi e sussidi nella misura del 50% ad opere stradali ed idrauliche provinciali, comunali e consorziali, danneggiate dalle piene del 1882.» La detta somma sara' ripartita nei seguenti esercizi:   
-  
-Anno finanziario 1884-85 . . . L. 500,000   
-Anno finanziario 1885-86 . . . » 700,000   
-  
-
-Art. 5
-------
-
-  
-  
-I lavori da eseguirsi per effetto della presente legge sono dichiarati di pubblica utilita'.   
-  
-Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Torino, addi' 16 luglio 1884.   
-  
-UMBERTO.   
-  
-A. Magliani.   
-Genala.   
-  
-Visto, Il Guardasigilli: Ferracciu'.   
-  
+I lavori da eseguirsi per effetto della presente legge sono dichiarati di pubblica utilita'. 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Torino, addi' 16 luglio 1884. 
+ 
+ UMBERTO. 
+ 
+ A. Magliani. 
+ Genala. 
+ 
+ Visto, Il Guardasigilli: Ferracciu'.

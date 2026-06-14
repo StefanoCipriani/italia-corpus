@@ -1,16 +1,14 @@
-REGIO DECRETO 20 febbraio 1872 n. 712
-
-
-REGIO DECRETO 20 febbraio 1872 n. 712
-=====================================
-
-Che sopprime la Commissione temporanea dei conti in Roma. (072U0712)
---------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/03/1872
+---
+tipo: REGIO DECRETO
+numero: 712
+data: 1872-02-20
+titolo: "Che sopprime la Commissione temporanea dei conti in Roma. (072U0712)"
+urn: urn:nir:stato:regio.decreto:1872-02-20;712
+codice_redazionale: 072U0712
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,37 +20,26 @@ Sulla proposizione del Ministro delle Finanze;
 
 Sentita la Corte dei conti del Regno;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+La Commissione temporanea per l'esame ed il giudizio dei conti pel 1870 ed anni precedenti, relativi all'Amministrazione delle Provincie Romane, stata istituita col Decreto Luogotenenziale del 16 gennaio 1871, e' soppressa col 1° marzo 1872.
 
-  
-  
-La Commissione temporanea per l'esame ed il giudizio dei conti pel 1870 ed anni precedenti, relativi all'Amministrazione delle Provincie Romane, stata istituita col Decreto Luogotenenziale del 16 gennaio 1871, e' soppressa col 1° marzo 1872.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-I conti che si trovassero a quell'epoca pendenti presso la medesima, e quelli che saranno compilati e prodotti successivamente, riguardanti l'Amministrazione delle Provincie Romane, verranno giudicati dalla Corte dei conti del Regno con le norme delle Leggi e Regolamenti del cessato Governo Pontificio.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli addi' 20 febbraio 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei Conti addi' 1º marzo 1872.   
-  
-Reg. 60. Atti del Governo a c. 2. D. Gherardi.   
-  
-Luogo del sigillo. V. Il Guardasigilli: De Falco.   
-  
-Quintino Sella.   
-  
+I conti che si trovassero a quell'epoca pendenti presso la medesima, e quelli che saranno compilati e prodotti successivamente, riguardanti l'Amministrazione delle Provincie Romane, verranno giudicati dalla Corte dei conti del Regno con le norme delle Leggi e Regolamenti del cessato Governo Pontificio. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli addi' 20 febbraio 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei Conti addi' 1º marzo 1872. 
+ 
+ Reg. 60. Atti del Governo a c. 2. D. Gherardi. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli: De Falco. 
+ 
+ Quintino Sella.

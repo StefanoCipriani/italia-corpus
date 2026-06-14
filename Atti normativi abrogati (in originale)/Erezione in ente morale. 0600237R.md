@@ -1,19 +1,15 @@
-REGIO DECRETO 08 luglio 1906 n. CCXXXVII
+---
+tipo: REGIO DECRETO
+numero: CCXXXVII
+data: 1906-07-08
+titolo: "Erezione in ente morale. (0600237R)"
+urn: urn:nir:stato:regio.decreto:1906-07-08;237
+codice_redazionale: 0600237R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 luglio 1906 n. CCXXXVII
-========================================
-
-Erezione in ente morale. (0600237R)
------------------------------------
-
-Entrata in vigore del provvedimento: 04/08/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CCXXXVII (Dato a Roma, l'8 luglio 1906), col quale si riconosce come ente morale l'«Istituto per le case popolari» in Bologna, e se ne approva lo statuto organico.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CCXXXVII (Dato a Roma, l'8 luglio 1906), col quale si riconosce come ente morale l'«Istituto per le case popolari» in Bologna, e se ne approva lo statuto organico.

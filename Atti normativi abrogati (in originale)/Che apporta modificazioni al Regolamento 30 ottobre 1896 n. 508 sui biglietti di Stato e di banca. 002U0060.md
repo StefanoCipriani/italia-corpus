@@ -1,16 +1,14 @@
-REGIO DECRETO 09 marzo 1902 n. 60
-
-
-REGIO DECRETO 09 marzo 1902 n. 60
-=================================
-
-Che apporta modificazioni al Regolamento 30 ottobre 1896, n. 508 sui biglietti di Stato e di banca. (002U0060)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/03/1902
+---
+tipo: REGIO DECRETO
+numero: 60
+data: 1902-03-09
+titolo: "Che apporta modificazioni al Regolamento 30 ottobre 1896, n. 508 sui biglietti di Stato e di banca. (002U0060)"
+urn: urn:nir:stato:regio.decreto:1902-03-09;60
+codice_redazionale: 002U0060
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -32,28 +30,21 @@ Sentito il parere della Corte dei Conti e del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'articolo 21 del Regolamento approvato col R. decreto sopra cennato, in data 30 ottobre 1896, n. 508, e' sostituito dall'articolo seguente:   
-  
-«La Commissione sara' composta di un presidente, di due vice-presidenti e di otto commissari, alle cui nomine sara' provveduto con decreto del Ministro del Tesoro».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 marzo 1902.   
-  
-VITTORIO EMANUELE.   
-  
-Zanardelli.   
-Di Broglio.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.   
-  
+L'articolo 21 del Regolamento approvato col R. decreto sopra cennato, in data 30 ottobre 1896, n. 508, e' sostituito dall'articolo seguente: 
+ 
+ «La Commissione sara' composta di un presidente, di due vice-presidenti e di otto commissari, alle cui nomine sara' provveduto con decreto del Ministro del Tesoro». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 marzo 1902. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Zanardelli. 
+ Di Broglio. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

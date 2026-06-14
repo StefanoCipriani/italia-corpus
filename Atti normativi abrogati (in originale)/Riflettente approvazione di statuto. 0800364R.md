@@ -1,19 +1,15 @@
-REGIO DECRETO 14 agosto 1908 n. CCCLXIV
+---
+tipo: REGIO DECRETO
+numero: CCCLXIV
+data: 1908-08-14
+titolo: "Riflettente approvazione di statuto. (0800364R)"
+urn: urn:nir:stato:regio.decreto:1908-08-14;364
+codice_redazionale: 0800364R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 agosto 1908 n. CCCLXIV
-=======================================
-
-Riflettente approvazione di statuto. (0800364R)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/10/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro per l'agricoltura, industria e commercio:   
-  
-N. CCCLXIV (Dato a Sant'Anna di Valdieri, il 14 agosto 1908), che approva lo statuto della Cassa agraria di Miglionico.   
-  
+Sulla proposta del ministro per l'agricoltura, industria e commercio: 
+ 
+ N. CCCLXIV (Dato a Sant'Anna di Valdieri, il 14 agosto 1908), che approva lo statuto della Cassa agraria di Miglionico.

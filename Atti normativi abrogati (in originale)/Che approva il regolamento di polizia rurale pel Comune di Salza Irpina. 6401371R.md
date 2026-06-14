@@ -1,19 +1,15 @@
-REGIO DECRETO 11 settembre 1864 n. MCCCLXXI
+---
+tipo: REGIO DECRETO
+numero: MCCCLXXI
+data: 1864-09-11
+titolo: "Che approva il regolamento di polizia rurale pel Comune di Salza Irpina. (6401371R)"
+urn: urn:nir:stato:regio.decreto:1864-09-11;1371
+codice_redazionale: 6401371R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 settembre 1864 n. MCCCLXXI
-===========================================
-
-Che approva il regolamento di polizia rurale pel Comune di Salza Irpina. (6401371R)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/09/1864
-
-Art. 1
-------
-
-  
-Che approva alcune modificazioni al regolamento di polizia rurale di Salza Irpina (Provincia di Avellino) approvato con Regio Decreto 11 ottobre 1865, deliberato dal Comune stesso il 21 scorso agosto.   
-  
-Torino 11 settembre 1864   
-  
+Che approva alcune modificazioni al regolamento di polizia rurale di Salza Irpina (Provincia di Avellino) approvato con Regio Decreto 11 ottobre 1865, deliberato dal Comune stesso il 21 scorso agosto. 
+ 
+ Torino 11 settembre 1864

@@ -1,16 +1,14 @@
-REGIO DECRETO 25 settembre 1892 n. 501
-
-
-REGIO DECRETO 25 settembre 1892 n. 501
-======================================
-
-Col quale il Comune di Nugheddu Santa Vittoria e' aggregato alla Sezione elettorale di Sorradile. (092U0501)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/10/1892
+---
+tipo: REGIO DECRETO
+numero: 501
+data: 1892-09-25
+titolo: "Col quale il Comune di Nugheddu Santa Vittoria e' aggregato alla Sezione elettorale di Sorradile. (092U0501)"
+urn: urn:nir:stato:regio.decreto:1892-09-25;501
+codice_redazionale: 092U0501
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,7 +18,7 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Inter
 
 Veduta la domanda del comune di Nughedu Santa Vittoria per la sua separazione dalla sezione elettorale di Busachi e per la sua aggregazione alla sezione elettorale di Sorradile;
 
-Veduta la tabella generale delle sezioni dei Collegi elettorali, approvata dal [R. decreto del 24 settembre 1882 n. 997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-09-24;997) (serie 3ª);
+Veduta la tabella generale delle sezioni dei Collegi elettorali, approvata dal [R. decreto del 24 settembre 1882 n. 997](Che%20costituisce%20sessioni%20elettorali%20con%20aggregazione%20di%20piu%20comuni.%20082U0997.md) (serie 3ª);
 
 Visto il regio decreto odierno con cui il comune di Sorradile fu costituito in sezione elettorale autonoma;
 
@@ -28,25 +26,18 @@ Visti gli articoli 47 e 48 della legge elettorale politica 24 settembre 1882;
 
 Ritenuto che il comune di Nughedu S. Vittoria ha 41 elettori politici;
 
-Ritenuto
---------
+Ritenuto che tale domanda e' legittimata dalla minore distanza che intercede fra Nughedu S. Vittoria e Sorradile, in confronto di quella esistente fra il primo dei detti due comuni e quello di Busachi; Abbiamo decretato e decretiamo:
 
-che tale domanda e' legittimata dalla minore distanza che intercede fra Nughedu S. Vittoria e Sorradile, in confronto di quella esistente fra il primo dei detti due comuni e quello di Busachi; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Nughedu S. Vittoria e' separato dalla sezione elettorale di Busachi ed e' aggregato alla sezione elettorale di Sorradile del 2° collegio di Cagliari.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 25 settembre 1892.   
-  
-UMBERTO.   
-  
-Giolitti.   
-  
-Visto, Il Guardasigilli: Bonacci.   
-  
+Il comune di Nughedu S. Vittoria e' separato dalla sezione elettorale di Busachi ed e' aggregato alla sezione elettorale di Sorradile del 2° collegio di Cagliari. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 25 settembre 1892. 
+ 
+ UMBERTO. 
+ 
+ Giolitti. 
+ 
+ Visto, Il Guardasigilli: Bonacci.

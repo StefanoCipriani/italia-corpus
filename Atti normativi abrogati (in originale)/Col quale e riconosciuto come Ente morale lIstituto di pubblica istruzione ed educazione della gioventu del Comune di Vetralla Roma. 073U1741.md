@@ -1,16 +1,14 @@
-REGIO DECRETO 04 dicembre 1873 n. 1741
-
-
-REGIO DECRETO 04 dicembre 1873 n. 1741
-======================================
-
-Col quale e' riconosciuto come Ente morale l'Istituto di pubblica istruzione ed educazione della gioventu' del Comune di Vetralla (Roma). (073U1741)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/01/1874
+---
+tipo: REGIO DECRETO
+numero: 1741
+data: 1873-12-04
+titolo: "Col quale e' riconosciuto come Ente morale l'Istituto di pubblica istruzione ed educazione della gioventu' del Comune di Vetralla (Roma). (073U1741)"
+urn: urn:nir:stato:regio.decreto:1873-12-04;1741
+codice_redazionale: 073U1741
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,39 +20,24 @@ Vista la relazione dell'Ispettore degli Studi del 12 settembre 1873, nella quale
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' riconosciuto come Ente morale ed Istituto di pubblica istruzione l'Istituto eretto per la pubblica istruzione ed educazione della gioventu' del Comune di Vetralla col Rescritto del 20 maggio 1824.
 
-  
-  
-E' riconosciuto come Ente morale ed Istituto di pubblica istruzione l'Istituto eretto per la pubblica istruzione ed educazione della gioventu' del Comune di Vetralla col Rescritto del 20 maggio 1824.   
-  
+## Art. 2.
 
-Art. 2
-------
+La Giunta municipale di Vetralla e' incaricata di ripetere ed ottenere il rilascio dei beni dell'Istituto dai detentori degli stessi a qualsiasi titolo, nonche' il conto dei frutti e la consegna dei titoli e documenti risguardanti l'Istituto medesimo, redigendo di tutto esatto inventario.
 
-  
-  
-La Giunta municipale di Vetralla e' incaricata di ripetere ed ottenere il rilascio dei beni dell'Istituto dai detentori degli stessi a qualsiasi titolo, nonche' il conto dei frutti e la consegna dei titoli e documenti risguardanti l'Istituto medesimo, redigendo di tutto esatto inventario.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Per la direzione ed amministrazione dell'Istituto e pel suo ordinamento scolastico sara' provveduto con altro Decreto dopo che sara' accertata la consistenza e la rendita del suo patrimonio.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 4 dicembre 1873.   
-  
-VITTORIO EMANUELE   
-  
-A. Scialoja.   
-  
+Per la direzione ed amministrazione dell'Istituto e pel suo ordinamento scolastico sara' provveduto con altro Decreto dopo che sara' accertata la consistenza e la rendita del suo patrimonio. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 4 dicembre 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ A. Scialoja.

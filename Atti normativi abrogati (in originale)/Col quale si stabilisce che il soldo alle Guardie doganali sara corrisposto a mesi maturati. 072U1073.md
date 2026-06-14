@@ -1,16 +1,14 @@
-REGIO DECRETO 01 novembre 1872 n. 1073
-
-
-REGIO DECRETO 01 novembre 1872 n. 1073
-======================================
-
-Col quale si stabilisce che il soldo alle Guardie doganali sara' corrisposto a mesi maturati. (072U1073)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/12/1872
+---
+tipo: REGIO DECRETO
+numero: 1073
+data: 1872-11-01
+titolo: "Col quale si stabilisce che il soldo alle Guardie doganali sara' corrisposto a mesi maturati. (072U1073)"
+urn: urn:nir:stato:regio.decreto:1872-11-01;1073
+codice_redazionale: 072U1073
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,23 +16,16 @@ RE D'ITALIA
 
 Veduto il Nostro decreto del 13 novembre 1862, n. 989;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il soldo delle guardie doganali di ogni grado verra' corrisposto a mesi maturati.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli, addi' 1° novembre 1872.   
-  
-VITTORIO EMANUELE.   
-  
-Quintino Sella.   
-  
+Il soldo delle guardie doganali di ogni grado verra' corrisposto a mesi maturati. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli, addi' 1° novembre 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Quintino Sella.

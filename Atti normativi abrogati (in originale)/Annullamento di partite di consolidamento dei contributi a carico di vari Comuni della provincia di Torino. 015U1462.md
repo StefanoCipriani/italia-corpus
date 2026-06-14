@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 09 settembre 1915 n. 1462
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1462
+data: 1915-09-09
+titolo: "Annullamento di partite di consolidamento dei contributi a carico di vari Comuni della provincia di Torino. (015U1462)"
+urn: urn:nir:stato:decreto.luogotenenziale:1915-09-09;1462
+codice_redazionale: 015U1462
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 09 settembre 1915 n. 1462
-=================================================
-
-Annullamento di partite di consolidamento dei contributi a carico di vari Comuni della provincia di Torino. (015U1462)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/10/1915
-
-Art. 1
-------
-
-null
+## Art. 1. — null

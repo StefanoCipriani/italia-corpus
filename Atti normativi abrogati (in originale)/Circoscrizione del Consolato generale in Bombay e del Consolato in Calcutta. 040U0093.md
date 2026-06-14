@@ -1,21 +1,21 @@
-REGIO DECRETO 17 gennaio 1940 n. 93
+---
+tipo: REGIO DECRETO
+numero: 93
+data: 1940-01-17
+titolo: "Circoscrizione del Consolato generale in Bombay e del Consolato in Calcutta. (040U0093)"
+urn: urn:nir:stato:regio.decreto:1940-01-17;93
+codice_redazionale: 040U0093
+vigente: true
+---
 
-
-REGIO DECRETO 17 gennaio 1940 n. 93
-===================================
-
-Circoscrizione del Consolato generale in Bombay e del Consolato in Calcutta. (040U0093)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/03/1940
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-93. R. decreto 17 gennaio 1940, col quale, sulla proposta del Ministro per gli affari esteri, vengono fissate le circoscrizioni del Consolato generale in Bombay e del Consolato in Calcutta.   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 29 febbraio 1940-XVIII
+93.
+
+R. decreto 17 gennaio 1940, col quale, sulla proposta del Ministro per gli affari esteri, vengono fissate le circoscrizioni del Consolato generale in Bombay e del Consolato in Calcutta. 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 29 febbraio 1940-XVIII

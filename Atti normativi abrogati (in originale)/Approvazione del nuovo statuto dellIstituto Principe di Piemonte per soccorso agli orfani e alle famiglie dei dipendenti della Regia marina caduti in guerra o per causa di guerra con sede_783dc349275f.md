@@ -1,21 +1,21 @@
-REGIO DECRETO 28 gennaio 1943 n. 484
+---
+tipo: REGIO DECRETO
+numero: 484
+data: 1943-01-28
+titolo: "Approvazione del nuovo statuto dell'Istituto Principe di Piemonte per soccorso agli orfani e alle famiglie dei dipendenti della Regia marina caduti in guerra o per causa di guerra, con sede in Roma. (043U0484)"
+urn: urn:nir:stato:regio.decreto:1943-01-28;484
+codice_redazionale: 043U0484
+vigente: true
+---
 
-
-REGIO DECRETO 28 gennaio 1943 n. 484
-====================================
-
-Approvazione del nuovo statuto dell'Istituto Principe di Piemonte per soccorso agli orfani e alle famiglie dei dipendenti della Regia marina caduti in guerra o per causa di guerra, con sede in Roma. (043U0484)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/07/1943
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-484. R. decreto 28 gennaio 1943, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, viene approvato il nuovo statuto dell'Istituto Principe di Piemonte per soccorso agli orfani e alle famiglie dei dipendenti della Regia Marina caduti in guerra o per causa di guerra, con sede in Roma.   
-  
-Visto, il Guardasigilli: De Marsico   
-  
-Registrato alla Corte del conti, addi' 15 giugno 1943-XXI
+484.
+
+R. decreto 28 gennaio 1943, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, viene approvato il nuovo statuto dell'Istituto Principe di Piemonte per soccorso agli orfani e alle famiglie dei dipendenti della Regia Marina caduti in guerra o per causa di guerra, con sede in Roma. 
+ 
+ Visto, il Guardasigilli: De Marsico 
+ 
+ Registrato alla Corte del conti, addi' 15 giugno 1943-XXI

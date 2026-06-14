@@ -1,19 +1,15 @@
-REGIO DECRETO 19 aprile 1907 n. CXV
+---
+tipo: REGIO DECRETO
+numero: CXV
+data: 1907-04-19
+titolo: "Riflettente l'applicazione di una tassa sul bestiame. (0700115R)"
+urn: urn:nir:stato:regio.decreto:1907-04-19;115
+codice_redazionale: 0700115R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 aprile 1907 n. CXV
-===================================
-
-Riflettente l'applicazione di una tassa sul bestiame. (0700115R)
-----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/05/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CXV (Dato a Roma, il 19 aprile 1907), col quale e' approvato il regolamento per l'applicazione della tassa sul bestiame deliberato dalla Giunta provinciale amministrativa di Teramo nelle adunanze del 25 ottobre e del 13 dicembre 1906, in sostituzione del regolamento approvato con R. decreto 5 marzo 1903, n. LXVII.   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CXV (Dato a Roma, il 19 aprile 1907), col quale e' approvato il regolamento per l'applicazione della tassa sul bestiame deliberato dalla Giunta provinciale amministrativa di Teramo nelle adunanze del 25 ottobre e del 13 dicembre 1906, in sostituzione del regolamento approvato con R. decreto 5 marzo 1903, n. LXVII.

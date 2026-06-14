@@ -1,19 +1,15 @@
-REGIO DECRETO 06 giugno 1912 n. 673
+---
+tipo: REGIO DECRETO
+numero: 673
+data: 1912-06-06
+titolo: "Approvazione di statuto di Cassa di risparmio. (012U0673)"
+urn: urn:nir:stato:regio.decreto:1912-06-06;673
+codice_redazionale: 012U0673
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 giugno 1912 n. 673
-===================================
-
-Approvazione di statuto di Cassa di risparmio. (012U0673)
----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/07/1912
-
-Art. 1
-------
-
-  
-N. 673   
-  
-Regio Decreto 6 giugno 1912, col quale, sulla proposta del ministro di agricoltura industria e commercio, viene approvato lo statuto della Cassa di risparmio di Narni.   
-  
+N. 673 
+ 
+ Regio Decreto 6 giugno 1912, col quale, sulla proposta del ministro di agricoltura industria e commercio, viene approvato lo statuto della Cassa di risparmio di Narni.

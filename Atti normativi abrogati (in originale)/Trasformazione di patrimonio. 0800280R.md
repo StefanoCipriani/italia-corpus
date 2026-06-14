@@ -1,19 +1,15 @@
-REGIO DECRETO 05 luglio 1908 n. CCLXXX
+---
+tipo: REGIO DECRETO
+numero: CCLXXX
+data: 1908-07-05
+titolo: "Trasformazione di patrimonio. (0800280R)"
+urn: urn:nir:stato:regio.decreto:1908-07-05;280
+codice_redazionale: 0800280R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 luglio 1908 n. CCLXXX
-======================================
-
-Trasformazione di patrimonio. (0800280R)
-----------------------------------------
-
-Entrata in vigore del provvedimento: 19/08/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCLXXX (Dato a Roma, il 5 luglio 1908), col quale il fine inerente al patrimonio dell'opera pia Rossi di Pietramarazzi (Alessandria) e' stato parzialmente trasformato a favore dei malati poveri e dell'infanzia abbandonata.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCLXXX (Dato a Roma, il 5 luglio 1908), col quale il fine inerente al patrimonio dell'opera pia Rossi di Pietramarazzi (Alessandria) e' stato parzialmente trasformato a favore dei malati poveri e dell'infanzia abbandonata.

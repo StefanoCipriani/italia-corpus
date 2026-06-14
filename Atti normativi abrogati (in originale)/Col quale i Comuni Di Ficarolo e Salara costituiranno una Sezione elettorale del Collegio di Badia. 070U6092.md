@@ -1,16 +1,14 @@
-REGIO DECRETO 15 dicembre 1870 n. 6092
-
-
-REGIO DECRETO 15 dicembre 1870 n. 6092
-======================================
-
-Col quale i Comuni Di Ficarolo e Salara costituiranno una Sezione elettorale del Collegio di Badia. (070U6092)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/01/1871
+---
+tipo: REGIO DECRETO
+numero: 6092
+data: 1870-12-15
+titolo: "Col quale i Comuni Di Ficarolo e Salara costituiranno una Sezione elettorale del Collegio di Badia. (070U6092)"
+urn: urn:nir:stato:regio.decreto:1870-12-15;6092
+codice_redazionale: 070U6092
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nei Comuni stessi piu' di 40 elettori inscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Ficarolo e Salara costituiranno d'ora in poi una Sezione elettorale separata del Collegio di Badia, n. 458, con sede a Ficarolo.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 15 dicembre 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 21 dicembre 1870   
-  
-Reg. 53 Atti del Governo a c. 151. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Lanza.   
-  
+I Comuni di Ficarolo e Salara costituiranno d'ora in poi una Sezione elettorale separata del Collegio di Badia, n. 458, con sede a Ficarolo. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 15 dicembre 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 21 dicembre 1870 
+ 
+ Reg. 53 Atti del Governo a c. 151. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Lanza.

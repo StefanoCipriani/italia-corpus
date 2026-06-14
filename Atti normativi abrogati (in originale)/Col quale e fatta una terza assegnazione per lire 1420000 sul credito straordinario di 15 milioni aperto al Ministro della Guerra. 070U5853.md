@@ -1,16 +1,14 @@
-REGIO DECRETO 04 settembre 1870 n. 5853
-
-
-REGIO DECRETO 04 settembre 1870 n. 5853
-=======================================
-
-Col quale e' fatta una terza assegnazione per lire 1,420,000 sul credito straordinario di 15 milioni aperto al Ministro della Guerra. (070U5853)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/09/1870
+---
+tipo: REGIO DECRETO
+numero: 5853
+data: 1870-09-04
+titolo: "Col quale e' fatta una terza assegnazione per lire 1,420,000 sul credito straordinario di 15 milioni aperto al Ministro della Guerra. (070U5853)"
+urn: urn:nir:stato:regio.decreto:1870-09-04;5853
+codice_redazionale: 070U5853
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,31 +18,24 @@ Veduta la Legge del 5 agosto 4870, n. 5773, colla quale fu aperto un credito str
 
 Veduti i Reali Decreti del 7 e 18 agosto 4870, numeri 5776 e 5814, coi quali furono gia' ordinate assegnazioni di lire 11,580,000 sul credito di 45 milioni assegnato al bilancio 1870 del Ministero della Guerra;
 
-Sulla
------
+Sulla proposizione dei Ministri delle Finanze e della Guerra, e a seguito, di deliberazione presa in Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue;
 
-proposizione dei Ministri delle Finanze e della Guerra, e a seguito, di deliberazione presa in Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue;
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sul credito straordinario di 15 milioni di lire, aperto al Ministro della Guerra colla [Legge del 5 agosto 1870, n. 5773](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-05;5773), e' ordinata una terza assegnazione di lire un milione quattrocento ventimila (L.  
-4,420,000) al capitolo 16 - Rimonta e depositi di allevamento di cavalli - del bilancio 4870 del Ministero della Guerra.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 4 settembre 4870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 7 settembre 1870   
-  
-Reg. 59 Atti del Governo a c. 95. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigili M. Raeli.   
-  
-Quintino Sella.   
-Govone.   
-  
+Sul credito straordinario di 15 milioni di lire, aperto al Ministro della Guerra colla [Legge del 5 agosto 1870, n. 5773](Colla%20quale%20sono%20aperti%20crediti%20straordinari%20al%20Ministro%20della%20Guerra%20ed%20a%20quello%20della%20Marina.%20070U5773.md), e' ordinata una terza assegnazione di lire un milione quattrocento ventimila (L.
+4,420,000) al capitolo 16 - Rimonta e depositi di allevamento di cavalli - del bilancio 4870 del Ministero della Guerra. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 4 settembre 4870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 7 settembre 1870 
+ 
+ Reg. 59 Atti del Governo a c. 95. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigili M. Raeli. 
+ 
+ Quintino Sella. 
+ Govone.

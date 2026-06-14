@@ -1,56 +1,55 @@
-REGIO DECRETO 28 gennaio 1866 n. MDCCXVII
+---
+tipo: REGIO DECRETO
+numero: MDCCXVII
+data: 1866-01-28
+titolo: "Che autorizza la Camera di commercio e d'arti di Lodi ad imporre un'annua tassa sugli esercenti commerci ed industrie nel territorio dipendente dalla Camera stessa. (6601717R)"
+urn: urn:nir:stato:regio.decreto:1866-01-28;1717
+codice_redazionale: 6601717R
+vigente: true
+---
 
+VITTORIO EMANUELE II
 
-REGIO DECRETO 28 gennaio 1866 n. MDCCXVII
-=========================================
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
-Che autorizza la Camera di commercio e d'arti di Lodi ad imporre un'annua tassa sugli esercenti commerci ed industrie nel territorio dipendente dalla Camera stessa. (6601717R)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+RE D'ITALIA
 
-Entrata in vigore del provvedimento: 05/03/1866
+Veduto l'articolo 31 della Legge 6 luglio 1862 n.° 680;
 
-Art. 1
-------
+Veduta la deliberazione della Camera di commercio e d'arti di Lodi in data 4 dicembre 1865;
 
-  
-  
-La Camera di commercio e d'arti di Lodi e' autorizzata ad imporre un'annua tassa sugli esercenti commerci ed industrie nel territorio dipendente dalla medesima.   
-  
+Veduto il Nostro Decreto del 10 agosto 1865 n.° 2441;
 
-Art. 2
-------
+Sentito il parere del Consiglio di Stato;
 
-  
-  
-Detta imposta, il di cui ammontare sara' stabilito sulla base dei bilanci annuali della Camera debitamente approvati, verra' ripartita in ragione dei redditi industriali desunti dalla Categoria B della Tabella dei redditi, formata per l'applicazione della tassa di ricchezza mobile.   
-  
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-Art. 3
-------
+## Art. 1.
 
-  
-  
-Lo spoglio dei redditi suddetti sara' fatto a cura e spesa della Camera presso gli Agenti delle Tasse, i quali dovranno autenticarlo, e saranno a cura e spesa della Camera stessa formati appositi ruoli di riscossione i quali diventeranno esecutorii dopo che siano stati approvati dal Prefetto e pubblicati.   
-  
+La Camera di commercio e d'arti di Lodi e' autorizzata ad imporre un'annua tassa sugli esercenti commerci ed industrie nel territorio dipendente dalla medesima.
 
-Art. 4
-------
+## Art. 2.
 
-  
-  
-Il Regolamento da redigersi per l'esecuzione del presente Decreto sara' sottoposto al visto del Ministro delle Finanze innanzi che venga applicato.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze li 28 gennaio 1866.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 febbraio 1866   
-  
-Reg° 33 Atti del Governo a c. 91. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli De Falco.   
-  
-A. Scialoja.   
-  
+Detta imposta, il di cui ammontare sara' stabilito sulla base dei bilanci annuali della Camera debitamente approvati, verra' ripartita in ragione dei redditi industriali desunti dalla Categoria B della Tabella dei redditi, formata per l'applicazione della tassa di ricchezza mobile.
+
+## Art. 3.
+
+Lo spoglio dei redditi suddetti sara' fatto a cura e spesa della Camera presso gli Agenti delle Tasse, i quali dovranno autenticarlo, e saranno a cura e spesa della Camera stessa formati appositi ruoli di riscossione i quali diventeranno esecutorii dopo che siano stati approvati dal Prefetto e pubblicati.
+
+## Art. 4.
+
+Il Regolamento da redigersi per l'esecuzione del presente Decreto sara' sottoposto al visto del Ministro delle Finanze innanzi che venga applicato. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze li 28 gennaio 1866. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 febbraio 1866 
+ 
+ Reg° 33 Atti del Governo a c. 91. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli De Falco. 
+ 
+ A. Scialoja.

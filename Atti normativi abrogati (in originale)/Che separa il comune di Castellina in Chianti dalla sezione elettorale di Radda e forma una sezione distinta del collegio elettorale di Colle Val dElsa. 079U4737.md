@@ -1,16 +1,14 @@
-REGIO DECRETO 13 febbraio 1879 n. 4737
-
-
-REGIO DECRETO 13 febbraio 1879 n. 4737
-======================================
-
-Che separa il comune di Castellina in Chianti dalla sezione elettorale di Radda, e forma una sezione distinta del collegio elettorale di Colle Val d'Elsa. (079U4737)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/03/1879
+---
+tipo: REGIO DECRETO
+numero: 4737
+data: 1879-02-13
+titolo: "Che separa il comune di Castellina in Chianti dalla sezione elettorale di Radda, e forma una sezione distinta del collegio elettorale di Colle Val d'Elsa. (079U4737)"
+urn: urn:nir:stato:regio.decreto:1879-02-13;4737
+codice_redazionale: 079U4737
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Che il detto comune dista 10 chilometri da Radda, il che rende assai malagevole 
 
 Considerato che istituendo una sezione elettorale in Castellina si ripara ad un tale inconveniente, e si rende piu' facile il concorso degli elettori alle urna;
 
-Sulla
------
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Castellina in Chianti e' separato dalla sezione elettorale di Radda, e formera' una sezione distinta del Collegio elettorale di Colle di Val d'Elsa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi decreti del Regno d'Italia, mandando a chiunque spetti osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 febbraio 1879.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
+Il comune di Castellina in Chianti e' separato dalla sezione elettorale di Radda, e formera' una sezione distinta del Collegio elettorale di Colle di Val d'Elsa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi decreti del Regno d'Italia, mandando a chiunque spetti osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 febbraio 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.

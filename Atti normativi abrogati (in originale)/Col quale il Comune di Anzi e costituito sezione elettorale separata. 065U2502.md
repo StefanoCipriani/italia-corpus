@@ -1,16 +1,14 @@
-REGIO DECRETO 18 settembre 1865 n. 2502
-
-
-REGIO DECRETO 18 settembre 1865 n. 2502
-=======================================
-
-Col quale il Comune di Anzi e' costituito sezione elettorale separata. (065U2502)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/10/1865
+---
+tipo: REGIO DECRETO
+numero: 2502
+data: 1865-09-18
+titolo: "Col quale il Comune di Anzi e' costituito sezione elettorale separata. (065U2502)"
+urn: urn:nir:stato:regio.decreto:1865-09-18;2502
+codice_redazionale: 065U2502
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune di Anzi piu' di 40 elettori e piu' di altrettanti nei Com
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Anzi, che sino ad ora fece parte della sezione detta di Calvello del Collegio elettorale di Corleto, n.° 50, costituira' d'ora in poi una sezione separata del Collegio medesimo.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 18 settembre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 30 settembre 1865   
-  
-Reg.° 33 Atti del Governo a c. 219. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
-  
+Il Comune di Anzi, che sino ad ora fece parte della sezione detta di Calvello del Collegio elettorale di Corleto, n.° 50, costituira' d'ora in poi una sezione separata del Collegio medesimo. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 18 settembre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 30 settembre 1865 
+ 
+ Reg.° 33 Atti del Governo a c. 219. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli.

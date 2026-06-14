@@ -1,19 +1,15 @@
-REGIO DECRETO 28 settembre 1913 n. 1400
+---
+tipo: REGIO DECRETO
+numero: 1400
+data: 1913-09-28
+titolo: "Conversione di scuola tecnica in governativa. (013U1400)"
+urn: urn:nir:stato:regio.decreto:1913-09-28;1400
+codice_redazionale: 013U1400
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 settembre 1913 n. 1400
-=======================================
-
-Conversione di scuola tecnica in governativa. (013U1400)
---------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/01/1914
-
-Art. 1
-------
-
-  
-N. 1400   
-  
-Regio Decreto 28 settembre 1913, col quale, sulla proposta dei ministri della istruzione pubblica e del tesoro, la scuola tecnica pareggiata di Massa Marittima e' convertita in governativa.   
-  
+N. 1400 
+ 
+ Regio Decreto 28 settembre 1913, col quale, sulla proposta dei ministri della istruzione pubblica e del tesoro, la scuola tecnica pareggiata di Massa Marittima e' convertita in governativa.

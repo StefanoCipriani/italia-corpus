@@ -1,17 +1,17 @@
-REGIO DECRETO 29 giugno 1922 n. 1126
+---
+tipo: REGIO DECRETO
+numero: 1126
+data: 1922-06-29
+titolo: "Riordinamento del Regio Istituto per le industrie del cuoio in Torino (022U1126)"
+urn: urn:nir:stato:regio.decreto:1922-06-29;1126
+codice_redazionale: 022U1126
+vigente: true
+---
 
-
-REGIO DECRETO 29 giugno 1922 n. 1126
-====================================
-
-Riordinamento del Regio Istituto per le industrie del cuoio in Torino (022U1126)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/09/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1126. Regio decreto 29 giugno 1922, col quale, sulla proposta del ministro per l'industria ed il commercio, si provvede per il riordinamento del Regio Istituto per le industrie del cuoio in Torino.
+1126.
+
+Regio decreto 29 giugno 1922, col quale, sulla proposta del ministro per l'industria ed il commercio, si provvede per il riordinamento del Regio Istituto per le industrie del cuoio in Torino.

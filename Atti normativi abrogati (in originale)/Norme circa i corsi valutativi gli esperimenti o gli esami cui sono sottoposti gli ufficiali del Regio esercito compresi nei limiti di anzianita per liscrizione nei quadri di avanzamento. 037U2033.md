@@ -1,22 +1,21 @@
-REGIO DECRETO-LEGGE 21 ottobre 1937 n. 2033
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 2033
+data: 1937-10-21
+titolo: "Norme circa i corsi valutativi, gli esperimenti o gli esami cui sono sottoposti gli ufficiali del Regio esercito compresi nei limiti di anzianita' per l'iscrizione nei quadri di avanzamento. (037U2033)"
+urn: urn:nir:stato:regio.decreto.legge:1937-10-21;2033
+codice_redazionale: 037U2033
+vigente: true
+---
 
-
-REGIO DECRETO-LEGGE 21 ottobre 1937 n. 2033
-===========================================
-
-Norme circa i corsi valutativi, gli esperimenti o gli esami cui sono sottoposti gli ufficiali del Regio esercito compresi nei limiti di anzianita' per l'iscrizione nei quadri di avanzamento. (037U2033)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/12/1937.  
-Regio Decreto-Legge convertito dalla [L. 22 dicembre 1938, n. 2148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-12-22;2148) (in G.U. 13/02/1939, n. 36).
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2033. R. decreto-legge 21 ottobre 1937, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per la guerra, vengono emanate norme circa i corsi valutativi, gli esperimenti o gli esami cui sono sottoposti gli ufficiali del Regio esercito compresi nei limiti di anzianita' per l'iscrizione nei quadri di avanzamento.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 10 dicembre 1937 - Anno XVI
+2033.
+
+R. decreto-legge 21 ottobre 1937, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per la guerra, vengono emanate norme circa i corsi valutativi, gli esperimenti o gli esami cui sono sottoposti gli ufficiali del Regio esercito compresi nei limiti di anzianita' per l'iscrizione nei quadri di avanzamento. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 10 dicembre 1937 - Anno XVI

@@ -1,21 +1,17 @@
-REGIO DECRETO 03 maggio 1863 n. DCCLIV
+---
+tipo: REGIO DECRETO
+numero: DCCLIV
+data: 1863-05-03
+titolo: "Approvazione di regolamento di polizia rurale. (6300754R)"
+urn: urn:nir:stato:regio.decreto:1863-05-03;754
+codice_redazionale: 6300754R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 maggio 1863 n. DCCLIV
-======================================
-
-Approvazione di regolamento di polizia rurale. (6300754R)
----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/07/1863
-
-Art. 1
-------
-
-  
-DCCLIV.   
-  
-Regio Decreto che approva il regolamento di polizia rurale del Municipio di Sarezzano, Provincia di Alessandria, deliberato con atto del 1.° aprile p. p., con modificazione.   
-  
-Torino 3 maggio 1863.   
-  
+DCCLIV. 
+ 
+ Regio Decreto che approva il regolamento di polizia rurale del Municipio di Sarezzano, Provincia di Alessandria, deliberato con atto del 1.° aprile p. p., con modificazione. 
+ 
+ Torino 3 maggio 1863.

@@ -1,16 +1,14 @@
-REGIO DECRETO 14 giugno 1868 n. 4448
-
-
-REGIO DECRETO 14 giugno 1868 n. 4448
-====================================
-
-Col quale viene ricostituita la disciolta Sezione dei militi a cavallo del Circondario di Noto. (068U4448)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/07/1868
+---
+tipo: REGIO DECRETO
+numero: 4448
+data: 1868-06-14
+titolo: "Col quale viene ricostituita la disciolta Sezione dei militi a cavallo del Circondario di Noto. (068U4448)"
+urn: urn:nir:stato:regio.decreto:1868-06-14;4448
+codice_redazionale: 068U4448
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,23 +18,16 @@ Veduto il Regio decreto del 13 febbraio anno corrente, con cui vennero sciolte l
 
 Ritenuto che per la sezione del circondario di Noto siano state gia' compiute tutte le operazioni necessarie per la sua ricostituzione, e che questa abbia anzi gia' avuto effetto dal 1° giugno corrente;
 
-Sulla
------
+Sulla proposta del ministro dell'interno, Abbiamo decretato e decretiamo:
 
-proposta del ministro dell'interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La disciolta sezione de' militi a cavallo del circondario di Noto viene ricostituita con effetto dal 1° corrente mese di giugno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 14 giugno 1868.   
-  
-VITTORIO EMANUELE.   
-  
-C. Cadorna.   
-  
+La disciolta sezione de' militi a cavallo del circondario di Noto viene ricostituita con effetto dal 1° corrente mese di giugno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 14 giugno 1868. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ C. Cadorna.

@@ -1,16 +1,14 @@
-REGIO DECRETO 26 maggio 1891 n. 258
-
-
-REGIO DECRETO 26 maggio 1891 n. 258
-===================================
-
-Con il quale e' istituito un secondo posto di notaro nel comune di Oriolo (Cosenza). (091U0258)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/06/1891
+---
+tipo: REGIO DECRETO
+numero: 258
+data: 1891-05-26
+titolo: "Con il quale e' istituito un secondo posto di notaro nel comune di Oriolo (Cosenza). (091U0258)"
+urn: urn:nir:stato:regio.decreto:1891-05-26;258
+codice_redazionale: 091U0258
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Visto l'art. 4 della legge sul notariato, approvato con Nostro decreto 25 maggio
 
 Ritenuto esser dimostrata la necessita' della istituzione del posto anzidetto;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un secondo posto di notaro nel comune di Oriolo, distretto notarile di Castrovillari.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 26 maggio 1891.   
-  
-UMBERTO.   
-  
-LUIGI FERRARIS.   
-  
-Visto, Il Guardasigilli: L. FERRARIS.   
-  
+E' istituito un secondo posto di notaro nel comune di Oriolo, distretto notarile di Castrovillari. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 26 maggio 1891. 
+ 
+ UMBERTO. 
+ 
+ LUIGI FERRARIS. 
+ 
+ Visto, Il Guardasigilli: L. FERRARIS.

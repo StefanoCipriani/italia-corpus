@@ -1,16 +1,14 @@
-REGIO DECRETO 04 aprile 1940 n. 277
-
-
-REGIO DECRETO 04 aprile 1940 n. 277
-===================================
-
-Autorizzazione al comune di Giaveno a continuare ad applicare fino al 31 dicembre 1941-XX le imposte di consumo in base alla tariffa della classe G. (040U0277)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/05/1940
+---
+tipo: REGIO DECRETO
+numero: 277
+data: 1940-04-04
+titolo: "Autorizzazione al comune di Giaveno a continuare ad applicare fino al 31 dicembre 1941-XX le imposte di consumo in base alla tariffa della classe G. (040U0277)"
+urn: urn:nir:stato:regio.decreto:1940-04-04;277
+codice_redazionale: 040U0277
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,22 @@ Vista l'istanza con la quale il Comune suddetto chiede di poter continuare ad ap
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Giaveno e' autorizzato a continuare ad applicare fino al 31 dicembre 1941-XX le imposte di consumo entro i limiti stabiliti per la classe G.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 aprile 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 25 aprile 1940-XVIII   
-  
-Atti del Governo, registro 420, foglio 74. - Mancini   
+Il comune di Giaveno e' autorizzato a continuare ad applicare fino al 31 dicembre 1941-XX le imposte di consumo entro i limiti stabiliti per la classe G. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 aprile 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 25 aprile 1940-XVIII 
+ 
+ Atti del Governo, registro 420, foglio 74. - Mancini

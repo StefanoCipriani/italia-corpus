@@ -1,16 +1,14 @@
-REGIO DECRETO 04 gennaio 1863 n. 1194
-
-
-REGIO DECRETO 04 gennaio 1863 n. 1194
-=====================================
-
-col quale e' soppressa la Direzione Generale di Pubblica Sicurezza nel Ministero dell'Interno. (063U1194)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/04/1863
+---
+tipo: REGIO DECRETO
+numero: 1194
+data: 1863-01-04
+titolo: "col quale e' soppressa la Direzione Generale di Pubblica Sicurezza nel Ministero dell'Interno. (063U1194)"
+urn: urn:nir:stato:regio.decreto:1863-01-04;1194
+codice_redazionale: 063U1194
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,47 +20,34 @@ Considerata la necessita' di dare un nuovo ordinamento al Ministero dell'Interno
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro dell'Interno; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La Direzione Generale di Pubblica Sicurezza e' abolita, e le Divisioni di cui attualmente si compone sono poste sotto la diretta dipendenza del Segretario Generale.
 
-  
-  
-La Direzione Generale di Pubblica Sicurezza e' abolita, e le Divisioni di cui attualmente si compone sono poste sotto la diretta dipendenza del Segretario Generale.   
-  
+## Art. 2.
 
-Art. 2
-------
+Nulla e' innovato per quanto riguarda la Direzione Generale delle Carceri. 
+ 
+ Pero', per gli affari di cui e' parola negli articoli 5 e 6 del regolamento 15 ottobre 1861, il Direttore Generale fara' le sue relazioni scritte od orali al Ministro od al Segretario Generale.
 
-  
-  
-Nulla e' innovato per quanto riguarda la Direzione Generale delle Carceri.   
-  
-Pero', per gli affari di cui e' parola negli articoli 5 e 6 del regolamento 15 ottobre 1861, il Direttore Generale fara' le sue relazioni scritte od orali al Ministro od al Segretario Generale.   
-  
-
-Art. 3
-------
+## Art. 3.
 
 Sono revocate le antecedenti disposizioni in quanto contraddicono al presente Decreto, che andra' in esecuzione a partire dal di' 4 gennaio
 
-1863. 
-  
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Torino addi' 4 gennaio 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 6 aprile 1863   
-  
-Reg.° 23 Atti del Governo a c. 15. Salvaja   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-U. Peruzzi.
+1863.
+
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Torino addi' 4 gennaio 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 6 aprile 1863 
+ 
+ Reg.° 23 Atti del Governo a c. 15. Salvaja 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ U. Peruzzi.

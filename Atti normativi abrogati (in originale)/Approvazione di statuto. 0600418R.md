@@ -1,19 +1,15 @@
-REGIO DECRETO 05 novembre 1906 n. CCCCXVIII
+---
+tipo: REGIO DECRETO
+numero: CCCCXVIII
+data: 1906-11-05
+titolo: "Approvazione di statuto. (0600418R)"
+urn: urn:nir:stato:regio.decreto:1906-11-05;418
+codice_redazionale: 0600418R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 novembre 1906 n. CCCCXVIII
-===========================================
-
-Approvazione di statuto. (0600418R)
------------------------------------
-
-Entrata in vigore del provvedimento: 18/12/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio;   
-  
-N. CCCCXVIII (Dato a San Rossore, il 5 novembre 1906), col quale si approva il nuovo statuto organico della Cassa di risparmio di Firenze.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio; 
+ 
+ N. CCCCXVIII (Dato a San Rossore, il 5 novembre 1906), col quale si approva il nuovo statuto organico della Cassa di risparmio di Firenze.

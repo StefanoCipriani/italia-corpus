@@ -1,16 +1,14 @@
-REGIO DECRETO 14 gennaio 1872 n. 654
-
-
-REGIO DECRETO 14 gennaio 1872 n. 654
-====================================
-
-Col quale nell'Accademia di belle arti di Torino e' istituito un posto di Professore di pittura industriale. (072U0654)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/03/1872
+---
+tipo: REGIO DECRETO
+numero: 654
+data: 1872-01-14
+titolo: "Col quale nell'Accademia di belle arti di Torino e' istituito un posto di Professore di pittura industriale. (072U0654)"
+urn: urn:nir:stato:regio.decreto:1872-01-14;654
+codice_redazionale: 072U0654
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,29 +18,22 @@ Visto il Ruolo normale dell'Accademia di belle arti di Torino, approvato con Nos
 
 Visto il bilancio passivo di quest'anno;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' instituito nella suddetta Accademia un posto di Professore di pittura industriale, collo stipendio annuo di lire 3,000.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 14 gennaio 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 26 gennaio 1872   
-  
-Reg. 59 Atti del Governo a c. 63. D. Gherardi.   
-  
-Luogo del sigillo. V. Il Guardasigilli: De Falco.   
-  
-C. Correnti.   
-  
+E' instituito nella suddetta Accademia un posto di Professore di pittura industriale, collo stipendio annuo di lire 3,000. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 14 gennaio 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 26 gennaio 1872 
+ 
+ Reg. 59 Atti del Governo a c. 63. D. Gherardi. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli: De Falco. 
+ 
+ C. Correnti.

@@ -1,16 +1,14 @@
-REGIO DECRETO 28 maggio 1914 n. 523
-
-
-REGIO DECRETO 28 maggio 1914 n. 523
-===================================
-
-Col quale il comune di Pegli e' dichiarato di terza categoria nei riguardi del dazio consumo. (014U0523)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/07/1914
+---
+tipo: REGIO DECRETO
+numero: 523
+data: 1914-05-28
+titolo: "Col quale il comune di Pegli e' dichiarato di terza categoria nei riguardi del dazio consumo. (014U0523)"
+urn: urn:nir:stato:regio.decreto:1914-05-28;523
+codice_redazionale: 014U0523
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -30,35 +28,22 @@ Vista la tabella approvata con Nostro decreto 1° dicembre 1910, n. 846, nella q
 
 Vista la decisione 23 maggio 1914 della Commissione centrale del dazio consumo, emessa a' sensi e per gli effetti previsti dagli articoli 87, 89 e 110 del testo unico di legge sopraindicato;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il comune di Pegli in provincia di Genova e' dichiarato di terza classe nei riguardi del dazio consumo, a decorrere dal giorno successivo a quello della pubblicazione del presente decreto nella Gazzetta ufficiale del Regno.
 
-  
-  
-  
-Il comune di Pegli in provincia di Genova e' dichiarato di terza classe nei riguardi del dazio consumo, a decorrere dal giorno successivo a quello della pubblicazione del presente decreto nella Gazzetta ufficiale del Regno.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-  
-Dal detto giorno, il canone annuo corrisposto allo Stato dal Comune medesimo e' aumentato da lire diciottomilanovecentovantasette e centesimi quattro (L. 18.997,04) a lire venticinquemilaottantasei e centesimi ventitre (L. 25.086,23).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 maggio 1914.   
-  
-VITTORIO EMANUELE.   
-  
-Rava.   
-  
-Visto, Il guardasigilli: Dari.   
-  
+Dal detto giorno, il canone annuo corrisposto allo Stato dal Comune medesimo e' aumentato da lire diciottomilanovecentovantasette e centesimi quattro (L. 18.997,04) a lire venticinquemilaottantasei e centesimi ventitre (L. 25.086,23). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 maggio 1914. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Rava. 
+ 
+ Visto, Il guardasigilli: Dari.

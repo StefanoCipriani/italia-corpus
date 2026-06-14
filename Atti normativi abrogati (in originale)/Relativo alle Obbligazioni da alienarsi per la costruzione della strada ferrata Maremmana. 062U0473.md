@@ -1,16 +1,14 @@
-REGIO DECRETO 19 febbraio 1862 n. 473
-
-
-REGIO DECRETO 19 febbraio 1862 n. 473
-=====================================
-
-Relativo alle Obbligazioni da alienarsi per la costruzione della strada ferrata Maremmana. (062U0473)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/03/1862
+---
+tipo: REGIO DECRETO
+numero: 473
+data: 1862-02-19
+titolo: "Relativo alle Obbligazioni da alienarsi per la costruzione della strada ferrata Maremmana. (062U0473)"
+urn: urn:nir:stato:regio.decreto:1862-02-19;473
+codice_redazionale: 062U0473
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,100 +30,62 @@ Considerando che finora vennero soltanto alienate 22200 Obbligazioni, e che atte
 
 Considerando che per tale scopo puo' riuscire utile di rivolgersi al mercato inglese, e che percio' occorre di portare alcune modificazioni al Decreto Reale del 10 febbraio 1861;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del Ministro delle Finanze; Abbiamo ordinato ed ordiniamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+Le 66900 Obbligazioni che rimangono da alienare sulle 89100 della strada ferrata Maremmana, di cui nel Decreto Reale del 10 febbraio 1861, saranno stampate nelle due lingue italiana ed inglese, e porteranno l'indicazione tanto del capitale nominale quanto degli interessi semestrali in moneta inglese al cambio di lire italiane 25 per ogni lira sterlina; ed oltre le firme ordinate dall'art. 14 del Reale Decreto 10 febbraio 1861 saranno rivestite del visto della Casa C. I. Hambro e figlio di Londra.
 
-  
-  
-Le 66900 Obbligazioni che rimangono da alienare sulle 89100 della strada ferrata Maremmana, di cui nel Decreto Reale del 10 febbraio 1861, saranno stampate nelle due lingue italiana ed inglese, e porteranno l'indicazione tanto del capitale nominale quanto degli interessi semestrali in moneta inglese al cambio di lire italiane 25 per ogni lira sterlina; ed oltre le firme ordinate dall'art. 14 del Reale Decreto 10 febbraio 1861 saranno rivestite del visto della Casa C. I. Hambro e figlio di Londra.   
-  
+## Art. 2.
 
-Art. 2
-------
+Le Cartelle di godimento, che a forma della suddetta legge 8 marzo 1860 devono essere emesse contemporaneamente alle Obbligazioni, dovranno essere egualmente stampate nelle due lingue italiana ed inglese.
 
-  
-  
-Le Cartelle di godimento, che a forma della suddetta legge 8 marzo 1860 devono essere emesse contemporaneamente alle Obbligazioni, dovranno essere egualmente stampate nelle due lingue italiana ed inglese.   
-  
+## Art. 3.
 
-Art. 3
-------
+Le Obbligazioni porteranno la decorrenza degli interessi 5 p. % all'anno dal 1.° gennaio 1862 pagabili a semestri maturati il 1.° gennaio e 1.° luglio di ciascun anno agli esibitori delle rispettive cedole.
 
-  
-  
-Le Obbligazioni porteranno la decorrenza degli interessi 5 p. % all'anno dal 1.° gennaio 1862 pagabili a semestri maturati il 1.° gennaio e 1.° luglio di ciascun anno agli esibitori delle rispettive cedole.   
-  
+## Art. 4.
 
-Art. 4
-------
+A ciascheduna Obbligazione saranno unite n.° 90 cedole per il ritiro semestrale dei frutti pel corso di 45 anni. Esaurite le dette cedole, le Obbligazioni tuttora vigenti saranno concambiate in altre corredate da una nuova serie di cedole per gli anni che mancano fino alla estinzione di tutte le Obbligazioni.
 
-  
-  
-A ciascheduna Obbligazione saranno unite n.° 90 cedole per il ritiro semestrale dei frutti pel corso di 45 anni. Esaurite le dette cedole, le Obbligazioni tuttora vigenti saranno concambiate in altre corredate da una nuova serie di cedole per gli anni che mancano fino alla estinzione di tutte le Obbligazioni.   
-  
+## Art. 5.
 
-Art. 5
-------
+Gl'interessi semestrali delle Obbligazioni saranno pagabili dalle Casse del Debito pubblico e da tutte le Tesorerie dello Stato ed a Londra dalla Casa C. I. Hambro e figlio.
 
-  
-  
-Gl'interessi semestrali delle Obbligazioni saranno pagabili dalle Casse del Debito pubblico e da tutte le Tesorerie dello Stato ed a Londra dalla Casa C. I. Hambro e figlio.   
-  
+## Art. 6.
 
-Art. 6
-------
+L'estinzione di tutte le 89100 Obbligazioni, a tenore della legge dell'8 marzo 1860, dovra' essere compita il 1.° gennaio 1960 secondo il riparto stabilito nella tabella annessa al Reale Decreto del 10 febbraio 1861. 
+ 
+ Essa avra' luogo mediante pubblica estrazione a sorte da operarsi il 10 dicembre di ciascun anno per cura della Direzione Generale del Debito pubblico. 
+ 
+ I numeri delle Obbligazioni estratte verranno inseriti nella Gazzetta ufficiale del Regno d'Italia e nel Giornale inglese il Times. 
+ 
+ Il capitale nominale di ciascuna Obbligazione estratta verra' rimborsato il 1.° gennaio dopo l'avvenuta estrazione contro la consegna della Obbligazione stessa munita delle cedole semestrali non scadute. 
+ 
+ Il rimborso del capitale sara' eseguito dalle Casse del Debito pubblico ed in Londra dalla Casa C. I. Hambro e figlio.
 
-  
-  
-L'estinzione di tutte le 89100 Obbligazioni, a tenore della legge dell'8 marzo 1860, dovra' essere compita il 1.° gennaio 1960 secondo il riparto stabilito nella tabella annessa al Reale Decreto del 10 febbraio 1861.   
-  
-Essa avra' luogo mediante pubblica estrazione a sorte da operarsi il 10 dicembre di ciascun anno per cura della Direzione Generale del Debito pubblico.   
-  
-I numeri delle Obbligazioni estratte verranno inseriti nella Gazzetta ufficiale del Regno d'Italia e nel Giornale inglese il Times.   
-  
-Il capitale nominale di ciascuna Obbligazione estratta verra' rimborsato il 1.° gennaio dopo l'avvenuta estrazione contro la consegna della Obbligazione stessa munita delle cedole semestrali non scadute.   
-  
-Il rimborso del capitale sara' eseguito dalle Casse del Debito pubblico ed in Londra dalla Casa C. I. Hambro e figlio.   
-  
+## Art. 7. — null
 
-Art. 7
-------
+## Art. 8.
 
-null
+A forma della legge 8 marzo 1860 il pagamento degl'interessi come pure il rimborso del capitale alla pari sono guarentiti specialmente dalle rendite della strada ferrata e da un'ipoteca sulla strada stessa, oltre alla garanzia di cui godono sopra le entrate generali dello Stato.
 
-Art. 8
-------
+## Art. 9.
 
-  
-  
-A forma della legge 8 marzo 1860 il pagamento degl'interessi come pure il rimborso del capitale alla pari sono guarentiti specialmente dalle rendite della strada ferrata e da un'ipoteca sulla strada stessa, oltre alla garanzia di cui godono sopra le entrate generali dello Stato.   
-  
-
-Art. 9
-------
-
-  
-  
-I portatori delle 22200 Obbligazioni gia' alienate avranno il dritto di cambiarle in nuovi titoli stampati nelle lingue italiana ed inglese uguali a quelli di cui e' autorizzata l'emissione col presente Decreto, ed in questo caso avranno diritto all'incasso a Londra giusta gli articoli 5 e 6 di esso Decreto.   
-  
-Il Ministro delle Finanze provvedera' al modo di effettuare questo cambio.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 19 febbraio 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 24 febbraio 1862   
-  
-Reg.° 19 Atti del Governo a c. 87. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Miglietti.   
-  
-U. Peruzzi.   
-  
+I portatori delle 22200 Obbligazioni gia' alienate avranno il dritto di cambiarle in nuovi titoli stampati nelle lingue italiana ed inglese uguali a quelli di cui e' autorizzata l'emissione col presente Decreto, ed in questo caso avranno diritto all'incasso a Londra giusta gli articoli 5 e 6 di esso Decreto. 
+ 
+ Il Ministro delle Finanze provvedera' al modo di effettuare questo cambio. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 19 febbraio 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 24 febbraio 1862 
+ 
+ Reg.° 19 Atti del Governo a c. 87. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Miglietti. 
+ 
+ U. Peruzzi.

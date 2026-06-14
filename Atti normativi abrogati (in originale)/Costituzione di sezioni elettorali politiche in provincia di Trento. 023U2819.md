@@ -1,16 +1,14 @@
-REGIO DECRETO 21 ottobre 1923 n. 2819
-
-
-REGIO DECRETO 21 ottobre 1923 n. 2819
-=====================================
-
-Costituzione di sezioni elettorali politiche in provincia di Trento. (023U2819)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/01/1924
+---
+tipo: REGIO DECRETO
+numero: 2819
+data: 1923-10-21
+titolo: "Costituzione di sezioni elettorali politiche in provincia di Trento. (023U2819)"
+urn: urn:nir:stato:regio.decreto:1923-10-21;2819
+codice_redazionale: 023U2819
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -48,50 +46,32 @@ Considerato che le suaccennate proposte furono adottate dalla Commissione provin
 
 Ritenuta la possibilita' di secondare tali proposte;
 
-Visto l'art. 29 della legge elettorale politica, [testo unico 2 settembre 1919, n. 1495](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1919-09-02;1495);
+Visto l'art. 29 della legge elettorale politica, [testo unico 2 settembre 1919, n. 1495](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1919-09-02;1495);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno, Presidente del Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno, Presidente del Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono revocati i decreti suaccennati del Commissario generale civile di Trento, con i quali gli elettori politici del comune di Premione furono aggregati a Villa Banale; quelli di Magras, Croviana ed Arnago a Male'; quelli di Sclemo a Seo; quelli di Albes ad Eores; quelli di Acereto a Campo Tures.
 
-  
-  
-  
-Sono revocati i decreti suaccennati del Commissario generale civile di Trento, con i quali gli elettori politici del comune di Premione furono aggregati a Villa Banale; quelli di Magras, Croviana ed Arnago a Male'; quelli di Sclemo a Seo; quelli di Albes ad Eores; quelli di Acereto a Campo Tures.   
-  
+## Art. 2.
 
-Art. 2
-------
+Gli elettori politici del comune di Arnago sono aggregati al comune di Magras per costituire una sola sezione elettorale con sede in Magras.
 
-  
-  
-  
-Gli elettori politici del comune di Arnago sono aggregati al comune di Magras per costituire una sola sezione elettorale con sede in Magras.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-  
-Gli elettori politici dei comuni di Casez e San Zeno sono costituiti in unica sezione elettorale con sede in Casez.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 21 ottobre 1923.   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 5 gennaio 1924.   
-  
-Atti del Governo, registro 220, foglio 33. - Granata.   
-  
+Gli elettori politici dei comuni di Casez e San Zeno sono costituiti in unica sezione elettorale con sede in Casez. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 21 ottobre 1923. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 5 gennaio 1924. 
+ 
+ Atti del Governo, registro 220, foglio 33. - Granata.

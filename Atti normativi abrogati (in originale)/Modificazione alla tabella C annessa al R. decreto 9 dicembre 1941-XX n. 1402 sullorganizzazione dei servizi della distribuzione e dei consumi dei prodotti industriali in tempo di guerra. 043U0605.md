@@ -1,16 +1,14 @@
-REGIO DECRETO 12 aprile 1943 n. 605
-
-
-REGIO DECRETO 12 aprile 1943 n. 605
-===================================
-
-Modificazione alla tabella C annessa al R. decreto 9 dicembre 1941-XX, n. 1402, sull'organizzazione dei servizi della distribuzione e dei consumi dei prodotti industriali in tempo di guerra. (043U0605)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/07/1943
+---
+tipo: REGIO DECRETO
+numero: 605
+data: 1943-04-12
+titolo: "Modificazione alla tabella C annessa al R. decreto 9 dicembre 1941-XX, n. 1402, sull'organizzazione dei servizi della distribuzione e dei consumi dei prodotti industriali in tempo di guerra. (043U0605)"
+urn: urn:nir:stato:regio.decreto:1943-04-12;605
+codice_redazionale: 043U0605
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,70 +26,32 @@ Considerata la necessita' di introdurre alcune variazioni nei limiti numerici e 
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le corporazioni, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le corporazioni, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La tabella C annessa al R. decreto 9 dicembre l941-XIX, n. 1102, e' sostituita con quella annessa al presente, vistata, d'ordine Nostro, dal Ministro proponente e da quello per le finanze.
 
-  
-  
-La tabella C annessa al R. decreto 9 dicembre l941-XIX, n. 1102, e' sostituita con quella annessa al presente, vistata, d'ordine Nostro, dal Ministro proponente e da quello per le finanze.   
+## Art. 2.
 
-Art. 2
-------
+Entro i limiti stabiliti dalla tabella annessa al presente decreto, gli ufficiali - esclusi i colonnelli - ed i sottufficiali della Regia guardia di finanza, possono continuare nel richiamo in servizio a disposizione del Ministero delle corporazioni, per essere adibiti ai servizi della distribuzione e dei consumi dei prodotti industriali anche dopo la loro eventuale promozione al grado immediatamente superiore a quello rivestito all'atto del richiamo.
 
-  
-  
-Entro i limiti stabiliti dalla tabella annessa al presente decreto, gli ufficiali - esclusi i colonnelli - ed i sottufficiali della Regia guardia di finanza, possono continuare nel richiamo in servizio a disposizione del Ministero delle corporazioni, per essere adibiti ai servizi della distribuzione e dei consumi dei prodotti industriali anche dopo la loro eventuale promozione al grado immediatamente superiore a quello rivestito all'atto del richiamo.   
-
-Art. 3
-------
+## Art. 3.
 
 Le disposizioni contenute nell'art. 1 del presente decreto hanno effetto dal 1° settembre 1942 e quelle contenente nell'art. 2 dal 1° agosto
 
-1941. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 aprile 1943-XXI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - TIENGO - ACERBO   
-  
-Visto, il Guardasigilli: DE MARSICO   
-  
-Registrato alla Corte dei conti, addi' 10 luglio 1943-XXI   
-  
-Atti del Governo, registro n. 459, foglio 29. - MANCINI
+1941.
 
-Allegato-Tabella C
-
- Tabella C   
-  
-Tabella numerica del personale militare della Regia guardia di finanza da richiamare dal congedo per essere comandato in servizio presso il Ministero delle corporazioni.   
-  
-  
-Ufficiali:   
-Colonnelli . . . . . . . . . . . . n. 5   
-Tenenti colonnelli . . . . . . . . » 24   
-Maggiori . . . . . . . . . . . . . » 27   
-Capitani . . . . . . . . . . . . . » 19   
-Totale . . . n. 75   
-  
-Sottufficiali:   
-Marescialli maggiori . . . . . . . n. 85   
-Marescialli capi e ordinari . . . . » 120   
-Brigadieri . . . . . . . . . . . . » 20   
-Totale . . . n. 225   
-  
-  
-Visto, d'ordine di Sua Maesta' il Re d'Italia e di Albania   
-Imperatore d'Etiopia   
-  
-  
-Il Ministro per le finanze Il Ministro per le corporazioni Acerbo Tiengo   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 aprile 1943-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - TIENGO - ACERBO 
+ 
+ Visto, il Guardasigilli: DE MARSICO 
+ 
+ Registrato alla Corte dei conti, addi' 10 luglio 1943-XXI 
+ 
+ Atti del Governo, registro n. 459, foglio 29. - MANCINI

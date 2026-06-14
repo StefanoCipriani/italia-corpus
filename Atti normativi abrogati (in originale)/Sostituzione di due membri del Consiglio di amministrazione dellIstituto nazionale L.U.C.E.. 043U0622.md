@@ -1,16 +1,14 @@
-REGIO DECRETO 03 giugno 1943 n. 622
-
-
-REGIO DECRETO 03 giugno 1943 n. 622
-===================================
-
-Sostituzione di due membri del Consiglio di amministrazione dell'Istituto nazionale «L.U.C.E.». (043U0622)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/08/1943
+---
+tipo: REGIO DECRETO
+numero: 622
+data: 1943-06-03
+titolo: "Sostituzione di due membri del Consiglio di amministrazione dell'Istituto nazionale «L.U.C.E.». (043U0622)"
+urn: urn:nir:stato:regio.decreto:1943-06-03;622
+codice_redazionale: 043U0622
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,27 +26,21 @@ Ritenuto che il Ministro Segretario del P.N.F. ha designato a rappresentante del
 
 Enrico Santamaria, e l'Opera nazionale per i combattenti il fascista Consigliere nazionale Cesare Pileri, e pertanto occorre provvedere alla loro nomina in sostituzione dei fascisti Ettore Echaniz e Araldo di Crollalanza;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la cultura popolare; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la cultura popolare; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Cons. naz. Enrico Santamaria e il Cons. naz. Cesare Pileri sono nominati membri del Consiglio di amministrazione dell'Istituto nazionale «L.U.C.E.» per il biennio 1942-43 in rappresentanza rispettivamente del P.N.F. e dell'Opera nazionale per i combattenti, e in sostituzione dei fascisti Ettore Echaniz e Araldo di Crollalanza.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 giugno 1943-XXI   
-  
-VITTORIO EMANUELE   
-  
-POLVERELLI   
-  
-Visto, il Guardasigilli: DE MARSICO   
-  
-Registrato alla Corte dei conti, addi' 15 luglio 1943-XXI   
-Atti del Governo, registro n. 459, foglio 53. - MANCINI   
+Il Cons. naz. Enrico Santamaria e il Cons. naz. Cesare Pileri sono nominati membri del Consiglio di amministrazione dell'Istituto nazionale «L.U.C.E.» per il biennio 1942-43 in rappresentanza rispettivamente del P.N.F. e dell'Opera nazionale per i combattenti, e in sostituzione dei fascisti Ettore Echaniz e Araldo di Crollalanza. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 giugno 1943-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ POLVERELLI 
+ 
+ Visto, il Guardasigilli: DE MARSICO 
+ 
+ Registrato alla Corte dei conti, addi' 15 luglio 1943-XXI 
+ Atti del Governo, registro n. 459, foglio 53. - MANCINI

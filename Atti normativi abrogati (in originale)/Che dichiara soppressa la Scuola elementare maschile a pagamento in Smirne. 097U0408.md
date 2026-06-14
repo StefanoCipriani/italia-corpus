@@ -1,16 +1,14 @@
-REGIO DECRETO 11 agosto 1897 n. 408
-
-
-REGIO DECRETO 11 agosto 1897 n. 408
-===================================
-
-Che dichiara soppressa la Scuola elementare maschile a pagamento in Smirne. (097U0408)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/09/1897
+---
+tipo: REGIO DECRETO
+numero: 408
+data: 1897-08-11
+titolo: "Che dichiara soppressa la Scuola elementare maschile a pagamento in Smirne. (097U0408)"
+urn: urn:nir:stato:regio.decreto:1897-08-11;408
+codice_redazionale: 097U0408
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,25 +18,18 @@ Veduto il Nostro decreto in data 23 agosto 1894, n. 394, con cui si stabilisce l
 
 Veduto il Nostro decreto in data 28 febbraio 1895;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A decorrere dal 1° settembre 1897 e' dichiarata soppressa, come Scuola di Stato, la Scuola elementare maschile a pagamento in Smirne.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 agosto 1897.   
-  
-UMBERTO.   
-  
-Visconti-Venosta.   
-  
-Visto, Il Guardasigilli: Rudini'.   
-  
+A decorrere dal 1° settembre 1897 e' dichiarata soppressa, come Scuola di Stato, la Scuola elementare maschile a pagamento in Smirne. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 agosto 1897. 
+ 
+ UMBERTO. 
+ 
+ Visconti-Venosta. 
+ 
+ Visto, Il Guardasigilli: Rudini'.

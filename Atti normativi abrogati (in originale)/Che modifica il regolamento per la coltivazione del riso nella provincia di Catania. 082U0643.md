@@ -1,16 +1,14 @@
-REGIO DECRETO 09 febbraio 1882 n. 643
-
-
-REGIO DECRETO 09 febbraio 1882 n. 643
-=====================================
-
-Che modifica il regolamento per la coltivazione del riso nella provincia di Catania. (082U0643)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/04/1882
+---
+tipo: REGIO DECRETO
+numero: 643
+data: 1882-02-09
+titolo: "Che modifica il regolamento per la coltivazione del riso nella provincia di Catania. (082U0643)"
+urn: urn:nir:stato:regio.decreto:1882-02-09;643
+codice_redazionale: 082U0643
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,27 +20,20 @@ Vista la deliberazione emessa dal Consiglio provinciale di Catania in adunanza 1
 
 Sentito il Consiglio superiore di sanita' ed il Consiglio di Stato;
 
-Vista
------
+Vista la legge 12 giugno 1866, n. 2967, Abbiamo decretato e decretiamo:
 
-la legge 12 giugno 1866, n. 2967, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-All'articolo 1 del regolamento per la coltivazione del riso nella provincia di Catania, approvato con R. decreto dell'11 maggio 1870, e modificato con altro R. decreto del 14 marzo 1880, viene aggiunto il seguente inciso:   
-  
-«Pel comune di Catania la distanza per la coltivazione del riso e' portata da quattro a sei chilometri dall'aggregato delle abitazioni, pure fermo restando anche per detto comune quella prevista per le case isolate.»   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 febbraio 1882.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto, il Guardasigilli: G. Zanardelli.   
-  
+All'articolo 1 del regolamento per la coltivazione del riso nella provincia di Catania, approvato con R. decreto dell'11 maggio 1870, e modificato con altro R. decreto del 14 marzo 1880, viene aggiunto il seguente inciso: 
+ 
+ «Pel comune di Catania la distanza per la coltivazione del riso e' portata da quattro a sei chilometri dall'aggregato delle abitazioni, pure fermo restando anche per detto comune quella prevista per le case isolate.» 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 febbraio 1882. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto, il Guardasigilli: G. Zanardelli.

@@ -1,20 +1,17 @@
-REGIO DECRETO 19 gennaio 1865 n. MDXXXVII
+---
+tipo: REGIO DECRETO
+numero: MDXXXVII
+data: 1865-01-19
+titolo: "Che approva il regolamento di polizia rurale del Comune di Brodi, Provincia di Pavia, in data del 26 novembre 1864. (6501537R)"
+urn: urn:nir:stato:regio.decreto:1865-01-19;1537
+codice_redazionale: 6501537R
+vigente: true
+---
 
-
-REGIO DECRETO 19 gennaio 1865 n. MDXXXVII
-=========================================
-
-Che approva il regolamento di polizia rurale del Comune di Brodi, Provincia di Pavia, in data del 26 novembre 1864. (6501537R)
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/01/1865
-
-Art. 1
-------
+## Art. 1.
 
 Che approva il regolamento di polizia rurale del Comune di Brodi, Provincia di Pavia, in data del 26 novembre
 
-1864. 
-  
-  
+1864.
+
 Torino 19 gennaio 1865

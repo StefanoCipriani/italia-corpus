@@ -1,16 +1,14 @@
-REGIO DECRETO 17 aprile 1864 n. 1741
-
-
-REGIO DECRETO 17 aprile 1864 n. 1741
-====================================
-
-Col quale il Comune di Riomaggiore viene costituito Sezione elettorale separata. (064U1741)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/05/1864
+---
+tipo: REGIO DECRETO
+numero: 1741
+data: 1864-04-17
+titolo: "Col quale il Comune di Riomaggiore viene costituito Sezione elettorale separata. (064U1741)"
+urn: urn:nir:stato:regio.decreto:1864-04-17;1741
+codice_redazionale: 064U1741
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,20 @@ Considerando che la distanza e la difficolta' delle comunicazioni fra i Comuni d
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Riomaggiore, Provincia di Genova, che sin qui fece parte della sezione del Collegio elettorale di Levanto, n.° 195, detta di Levanto, costituira' una sezione separata del Collegio medesimo.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 17 aprile 1864.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 29 aprile 1864   
-Reg.° 29 Atti del Governo a c. 60. Ayres.   
-Luogo del Sigillo. 7. Il Guardasigilli G. PISANELLI.   
-  
-U. PERUZZI.   
-  
-  
+Il Comune di Riomaggiore, Provincia di Genova, che sin qui fece parte della sezione del Collegio elettorale di Levanto, n.° 195, detta di Levanto, costituira' una sezione separata del Collegio medesimo. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 17 aprile 1864. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 29 aprile 1864 
+ Reg.° 29 Atti del Governo a c. 60. Ayres. 
+ Luogo del Sigillo. 7. Il Guardasigilli G. PISANELLI. 
+ 
+ U. PERUZZI.

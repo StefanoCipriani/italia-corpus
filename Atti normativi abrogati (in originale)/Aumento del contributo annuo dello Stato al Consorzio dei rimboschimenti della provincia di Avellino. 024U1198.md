@@ -1,16 +1,14 @@
-REGIO DECRETO 10 luglio 1924 n. 1198
-
-
-REGIO DECRETO 10 luglio 1924 n. 1198
-====================================
-
-Aumento del contributo annuo dello Stato al Consorzio dei rimboschimenti della provincia di Avellino. (024U1198)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/08/1924
+---
+tipo: REGIO DECRETO
+numero: 1198
+data: 1924-07-10
+titolo: "Aumento del contributo annuo dello Stato al Consorzio dei rimboschimenti della provincia di Avellino. (024U1198)"
+urn: urn:nir:stato:regio.decreto:1924-07-10;1198
+codice_redazionale: 024U1198
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,24 @@ Vista la deliberazione 25 gennaio 1924 della Commissione Reale per la provincia 
 
 Vista la deliberazione 16 giugno 1924 del Comitato di amministrazione dell'Azienda del demanio forestale di Stato;
 
-Visto l'[art. 75 del R. decreto 30 dicembre 1923, n. 3267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267~art75);
+Visto l'[art. 75 del R. decreto 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267#art_75);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il contributo annuo dello Stato nei lavori di rimboschimento da eseguirsi nella provincia di Avellino, a cura di quel Comitato forestale, determinato sino alla somma di L. 5000 col [R. decreto 4 luglio 1909, n. 875](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-07-04;875), e' aumentato, a decorrere dall'esercizio finanziario 1924-1925, sino alla somma di L. 10,000, corrispondente al contributo stabilito dalla Provincia interessata.   
-  
-La somma di L. 10,000 anzidetta sara' prelevata dal fondo stanziato nel bilancio passivo dell'Azienda del demanio forestale di Stato all'art. 2 per l'esercizio finanziario 1924-25 ed all'articolo corrispondente dei bilanci per gli esercizi futuri.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, m'andando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 10 luglio 1924.   
-  
-VITTORIO EMANUELE.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 2 agosto 1924.   
-  
-Atti del Governo, registro 227, foglio 12. - Gualtieri.   
+Il contributo annuo dello Stato nei lavori di rimboschimento da eseguirsi nella provincia di Avellino, a cura di quel Comitato forestale, determinato sino alla somma di L. 5000 col [R. decreto 4 luglio 1909, n. 875](Che%20aumenta%20il%20contributo%20dello%20Stato%20pei%20lavori%20di%20rimboscamento%20e%20di%20rinsaldamento%20nella%20provincia%20di%20Avellino.%20009U0875.md), e' aumentato, a decorrere dall'esercizio finanziario 1924-1925, sino alla somma di L. 10,000, corrispondente al contributo stabilito dalla Provincia interessata. 
+ 
+ La somma di L. 10,000 anzidetta sara' prelevata dal fondo stanziato nel bilancio passivo dell'Azienda del demanio forestale di Stato all'art. 2 per l'esercizio finanziario 1924-25 ed all'articolo corrispondente dei bilanci per gli esercizi futuri. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, m'andando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 10 luglio 1924. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 2 agosto 1924. 
+ 
+ Atti del Governo, registro 227, foglio 12. - Gualtieri.

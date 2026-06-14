@@ -1,82 +1,58 @@
-LEGGE 15 aprile 1886 n. 3791
+---
+tipo: LEGGE
+numero: 3791
+data: 1886-04-15
+titolo: "Risguardante la terza serie dei lavori per la sistemazione del Tevere. (086U3791)"
+urn: urn:nir:stato:legge:1886-04-15;3791
+codice_redazionale: 086U3791
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 15 aprile 1886 n. 3791
-============================
+Il Governo del Re e' autorizzato a creare un titolo speciale di rendita ammortizzabile in 50 annualita' eguali per eseguire a norma della [legge 6 luglio 1875, numero 2583](Che%20dichiara%20di%20utilita%20pubblica%20le%20opere%20necessarie%20a%20preservare%20la%20citta%20di%20Roma%20dalle%20massime%20inondazioni%20del%20Tevere.%20075U2583.md) (Serie 2ª), una terza serie di lavori coordinati alla definitiva sistemazione del Tevere, consistenti nel continuare l'allargamento, la costruzione dei muri di sponda, la rimozione dei ruderi e sgombro dell'alveo, la sistemazione dei ponti e la costruzione dei collettori, entro il limite di spesa di trenta milioni (30,000,000).
 
-Risguardante la terza serie dei lavori per la sistemazione del Tevere. (086U3791)
----------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 08/05/1886
+La spesa di cui all'articolo precedente verra' stanziata nel bilancio del Ministero dei Lavori Pubblici in apposito capitolo colla denominazione: Terza serie dei lavori per la sistemazione del Tevere e sara' ripartita in sette anni come segue: 
+ 
+ 
 
-Art. 1
-------
+ Anno 1885-86 . . . L. 2,500,000
+ 
+ » 1886-87 . . . » 5,000,000
+ » 1887-88 . . . » 5,000,000
+ » 1888-89 . . . » 5,000,000
+ » 1889-90 . . . » 5,000,000
+ » 1890-91 . . . » 5,000,000
+ » 1891-92 . . . » 2,500,000
+ ------------
+ Totale L. 30,000,000
 
-  
-  
-Il Governo del Re e' autorizzato a creare un titolo speciale di rendita ammortizzabile in 50 annualita' eguali per eseguire a norma della [legge 6 luglio 1875, numero 2583](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1875-07-06;2583) (Serie 2ª), una terza serie di lavori coordinati alla definitiva sistemazione del Tevere, consistenti nel continuare l'allargamento, la costruzione dei muri di sponda, la rimozione dei ruderi e sgombro dell'alveo, la sistemazione dei ponti e la costruzione dei collettori, entro il limite di spesa di trenta milioni (30,000,000).   
-  
+## Art. 3.
 
-Art. 2
-------
+Ai lavori da farsi dallo Stato e dal comune di Roma per la sistemazione idraulica del fiume e pei lavori stradali ed edilizi del lungo Tevere, potranno essere applicate per decreto Reale, udito il Consiglio comunale di Roma ed il Consiglio di Stato, tutte o parte delle disposizioni contenute negli articoli 12, 13, 15 e 17 della legge.
 
-  
-  
-La spesa di cui all'articolo precedente verra' stanziata nel bilancio del Ministero dei Lavori Pubblici in apposito capitolo colla denominazione: Terza serie dei lavori per la sistemazione del Tevere e sara' ripartita in sette anni come segue:   
-  
-  
-  
-Anno 1885-86 . . . L. 2,500,000  
-  
-» 1886-87 . . . » 5,000,000  
-» 1887-88 . . . » 5,000,000  
-» 1888-89 . . . » 5,000,000  
-» 1889-90 . . . » 5,000,000  
-» 1890-91 . . . » 5,000,000  
-» 1891-92 . . . » 2,500,000  
-------------  
-Totale L. 30,000,000   
-  
+## Art. 4.
 
-Art. 3
-------
+In apposito capitolo del bilancio del Ministero del Tesoro verra' iscritta la somma necessoria pel servizio degli interessi e dell'ammortamento relativi al debito autorizzato dall'articolo 1 della presente legge.
 
-  
-  
-Ai lavori da farsi dallo Stato e dal comune di Roma per la sistemazione idraulica del fiume e pei lavori stradali ed edilizi del lungo Tevere, potranno essere applicate per decreto Reale, udito il Consiglio comunale di Roma ed il Consiglio di Stato, tutte o parte delle disposizioni contenute negli articoli 12, 13, 15 e 17 della legge.   
+## Art. 5.
 
-Art. 4
-------
+Nel bilancio dell'entrata, e in apposito capitolo col titolo:
+Rimborsi delle spese del Tevere, verranno iscritte le somme pari alla meta' di quelle di cui nel precedente articolo, per le quali, a termini e colle rivalse della legge 6 luglio 1875, il municipio e la provincia di Roma sono tenuti a concorrere in detta spesa.
 
-  
-  
-In apposito capitolo del bilancio del Ministero del Tesoro verra' iscritta la somma necessoria pel servizio degli interessi e dell'ammortamento relativi al debito autorizzato dall'articolo 1 della presente legge.   
-  
+## Art. 6.
 
-Art. 5
-------
-
-  
-  
-Nel bilancio dell'entrata, e in apposito capitolo col titolo:  
-Rimborsi delle spese del Tevere, verranno iscritte le somme pari alla meta' di quelle di cui nel precedente articolo, per le quali, a termini e colle rivalse della legge 6 luglio 1875, il municipio e la provincia di Roma sono tenuti a concorrere in detta spesa.   
-  
-
-Art. 6
-------
-
-  
-  
-Fino all'emanazione della legge speciale riservata dall'[articolo 3 della legge 6 luglio 1875, n. 2583](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1875-07-06;2583~art3) (Serie 2ª), il contributo dei proprietari interessati nella spesa verra' regolato coi criteri e colle norme del capo IV, titolo II, della [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359).   
-  
-Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Roma, addi' 15 aprile 1886.   
-  
-UMBERTO.   
-  
-Genala.   
-A. Magliani.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+Fino all'emanazione della legge speciale riservata dall'[articolo 3 della legge 6 luglio 1875, n. 2583](Che%20dichiara%20di%20utilita%20pubblica%20le%20opere%20necessarie%20a%20preservare%20la%20citta%20di%20Roma%20dalle%20massime%20inondazioni%20del%20Tevere.%20075U2583.md) (Serie 2ª), il contributo dei proprietari interessati nella spesa verra' regolato coi criteri e colle norme del capo IV, titolo II, della [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md). 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Roma, addi' 15 aprile 1886. 
+ 
+ UMBERTO. 
+ 
+ Genala. 
+ A. Magliani. 
+ 
+ Visto, Il Guardasigilli: Tajani.

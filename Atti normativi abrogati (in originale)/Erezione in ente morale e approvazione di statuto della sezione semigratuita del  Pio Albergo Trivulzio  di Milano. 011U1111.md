@@ -1,19 +1,15 @@
-REGIO DECRETO 28 settembre 1911 n. 1111
+---
+tipo: REGIO DECRETO
+numero: 1111
+data: 1911-09-28
+titolo: "Erezione in ente morale e approvazione di statuto della sezione semigratuita del « Pio Albergo Trivulzio » di Milano. (011U1111)"
+urn: urn:nir:stato:regio.decreto:1911-09-28;1111
+codice_redazionale: 011U1111
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 settembre 1911 n. 1111
-=======================================
-
-Erezione in ente morale e approvazione di statuto della sezione semigratuita del « Pio Albergo Trivulzio » di Milano. (011U1111)
---------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/11/1911
-
-Art. 1
-------
-
-  
-N. 1111   
-  
-Regio Decreto 28 settembre 1911, col quale, sulla proposta del Ministro dell'interno, la sezione semigratuita del «Pio Albergo Trivulzio» di Milano e' eretta in ente morale e ne e' approvato lo statuto organico.   
-  
+N. 1111 
+ 
+ Regio Decreto 28 settembre 1911, col quale, sulla proposta del Ministro dell'interno, la sezione semigratuita del «Pio Albergo Trivulzio» di Milano e' eretta in ente morale e ne e' approvato lo statuto organico.

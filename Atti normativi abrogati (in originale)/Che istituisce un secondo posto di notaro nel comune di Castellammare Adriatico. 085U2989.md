@@ -1,16 +1,14 @@
-REGIO DECRETO 05 marzo 1885 n. 2989
-
-
-REGIO DECRETO 05 marzo 1885 n. 2989
-===================================
-
-Che istituisce un secondo posto di notaro nel comune di Castellammare Adriatico. (085U2989)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/04/1885
+---
+tipo: REGIO DECRETO
+numero: 2989
+data: 1885-03-05
+titolo: "Che istituisce un secondo posto di notaro nel comune di Castellammare Adriatico. (085U2989)"
+urn: urn:nir:stato:regio.decreto:1885-03-05;2989
+codice_redazionale: 085U2989
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Veduta la domanda fatta dal comune di Castellammare Adriatico per l'istituzione 
 
 Ritenuto che sarebbe giustificata la convenienza ed opportunita' dell'anzidetta domanda;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un secondo posto di notaro nel comune di Castellammare Adriatico, distretto del Collegio notarile di Teramo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 marzo 1885.   
-  
-UMBERTO.   
-  
-E. PESSINA.   
-  
-Visto, Il Guardasigilli: PESSINA.   
-  
+E' istituito un secondo posto di notaro nel comune di Castellammare Adriatico, distretto del Collegio notarile di Teramo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 marzo 1885. 
+ 
+ UMBERTO. 
+ 
+ E. PESSINA. 
+ 
+ Visto, Il Guardasigilli: PESSINA.

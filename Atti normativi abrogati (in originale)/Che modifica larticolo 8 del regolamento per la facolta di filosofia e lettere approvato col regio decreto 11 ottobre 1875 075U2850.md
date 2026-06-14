@@ -1,16 +1,14 @@
-REGIO DECRETO 12 dicembre 1875 n. 2850
-
-
-REGIO DECRETO 12 dicembre 1875 n. 2850
-======================================
-
-Che modifica l'articolo 8 del regolamento per la facolta' di filosofia e lettere, approvato col regio decreto 11 ottobre 1875 (075U2850)
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/01/1876
+---
+tipo: REGIO DECRETO
+numero: 2850
+data: 1875-12-12
+titolo: "Che modifica l'articolo 8 del regolamento per la facolta' di filosofia e lettere, approvato col regio decreto 11 ottobre 1875 (075U2850)"
+urn: urn:nir:stato:regio.decreto:1875-12-12;2850
+codice_redazionale: 075U2850
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,24 +18,16 @@ Veduto il regolamento per la Facolta' di filosofia e lettere approvato col Nostr
 
 Ritenuto che nell'articolo 8 del regolamento sopra citato fu ommessa l'indicazione del corso di geografia ed etnografia, che e' pur esso da noverarsi fra i corsi obbligatorii per gli studenti aspiranti alla laurea;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Per essere ammesso all'esame di laurea nella Facolta' di lettere e filosofia, lo studente deve attendere, oltre che ai corsi indicati nell'articolo 8 del regolamento della Facolta' medesima, approvato col Nostro decreto 11 ottobre ultimo, anche ad un corso di geografia ed etnografia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 dicembre 1875.   
-  
-VITTORIO EMANUELE.   
-  
-R. Bonghi.   
-  
-  
+Per essere ammesso all'esame di laurea nella Facolta' di lettere e filosofia, lo studente deve attendere, oltre che ai corsi indicati nell'articolo 8 del regolamento della Facolta' medesima, approvato col Nostro decreto 11 ottobre ultimo, anche ad un corso di geografia ed etnografia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 dicembre 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ R. Bonghi.

@@ -1,16 +1,14 @@
-REGIO DECRETO 19 gennaio 1879 n. 4704
-
-
-REGIO DECRETO 19 gennaio 1879 n. 4704
-=====================================
-
-Che all'elenco delle strade provinciali della provincia di Cuneo si aggiunge quella che da Cuneo per Peveragno e Chiusa mette alla Cappella dell'Annunziata presso Villanova (079U4704)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/02/1879
+---
+tipo: REGIO DECRETO
+numero: 4704
+data: 1879-01-19
+titolo: "Che all'elenco delle strade provinciali della provincia di Cuneo si aggiunge quella che da Cuneo per Peveragno e Chiusa mette alla Cappella dell'Annunziata presso Villanova (079U4704)"
+urn: urn:nir:stato:regio.decreto:1879-01-19;4704
+codice_redazionale: 079U4704
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,7 +22,7 @@ Veduto il Nostro decreto 28 agosto 1878, col quale venne classificato fra le str
 
 Veduta la deliberazione 18 novembre 1878 della Deputazione provinciale di Cuneo, colla quale, in vista del buono stato di viabilita' in cui trovasi attualmente l'altro tratto stradale da Cuneo per Peveragno e Chiusa alla Cappella dell'Annunziata, presso Villanova, dichiara di ammetterlo fra le strade provinciali;
 
-Veduti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della legge 20 marzo 1865, numero 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato F;
+Veduti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [14 della legge 20 marzo 1865, numero 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), allegato F;
 
 Considerando:
 
@@ -36,23 +34,16 @@ Che aggiungendo ora all'elenco delle strade provinciali di Cuneo l'altro tratto 
 
 Udito il parere del Consiglio Superiore dei lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato dei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato dei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' aggiunta all'elenco delle strade provinciali della provincia di Cuneo quella che da Cuneo per Peveragno e Chiusa mette alla Cappella dell'Annunziata presso Villanova.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 gennaio 1879.   
-  
-UMBERTO.   
-  
-R. Mezzanotte.   
-  
+E' aggiunta all'elenco delle strade provinciali della provincia di Cuneo quella che da Cuneo per Peveragno e Chiusa mette alla Cappella dell'Annunziata presso Villanova. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 gennaio 1879. 
+ 
+ UMBERTO. 
+ 
+ R. Mezzanotte.

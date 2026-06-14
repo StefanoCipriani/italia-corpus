@@ -1,21 +1,17 @@
-REGIO DECRETO 15 marzo 1900 n. LXXXIII
+---
+tipo: REGIO DECRETO
+numero: LXXXIII
+data: 1900-03-15
+titolo: "Che erige in ente morale il lascito Saettone in S. Agata. (0000083R)"
+urn: urn:nir:stato:regio.decreto:1900-03-15;83
+codice_redazionale: 0000083R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 marzo 1900 n. LXXXIII
-======================================
-
-Che erige in ente morale il lascito Saettone in S. Agata. (0000083R)
---------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/04/1900
-
-Art. 1
-------
-
-  
-Che erige, in Genova, in ente morale il lascito Saettone e lo raggruppa al Conservatorio delle maestre pie di S. Agata. - Firmato UMBERTO - Controfirmato Pelloux - Visto A. Bonasi.   
-  
-Registrato alla Corte dei conti addi' 30 marzo 1900.   
-  
-Reg. 223. Atti del Governo a f. 19.   
-  
+Che erige, in Genova, in ente morale il lascito Saettone e lo raggruppa al Conservatorio delle maestre pie di S. Agata. - Firmato UMBERTO - Controfirmato Pelloux - Visto A. Bonasi. 
+ 
+ Registrato alla Corte dei conti addi' 30 marzo 1900. 
+ 
+ Reg. 223. Atti del Governo a f. 19.

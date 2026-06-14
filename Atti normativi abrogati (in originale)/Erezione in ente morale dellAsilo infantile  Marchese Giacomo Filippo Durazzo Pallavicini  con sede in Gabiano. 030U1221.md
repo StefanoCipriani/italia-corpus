@@ -1,22 +1,22 @@
-REGIO DECRETO 18 luglio 1930 n. 1221
+---
+tipo: REGIO DECRETO
+numero: 1221
+data: 1930-07-18
+titolo: "Erezione in ente morale dell'Asilo infantile « Marchese Giacomo Filippo Durazzo Pallavicini », con sede in Gabiano. (030U1221)"
+urn: urn:nir:stato:regio.decreto:1930-07-18;1221
+codice_redazionale: 030U1221
+vigente: true
+---
 
-
-REGIO DECRETO 18 luglio 1930 n. 1221
-====================================
-
-Erezione in ente morale dell'Asilo infantile « Marchese Giacomo Filippo Durazzo Pallavicini », con sede in Gabiano. (030U1221)
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/09/1930
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1221. R. decreto 18 luglio 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, l'Asilo infantile « Marchese Giacomo Filippo Durazzo Pallavicini », in Gabiano (Alessandria), viene eretto in ente morale con amministrazione autonoma, e ne e' approvato con alcune modifiche lo statuto organico.   
-  
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 30 agosto 1930 - Anno VIII
+1221.
+
+R. decreto 18 luglio 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, l'Asilo infantile « Marchese Giacomo Filippo Durazzo Pallavicini », in Gabiano (Alessandria), viene eretto in ente morale con amministrazione autonoma, e ne e' approvato con alcune modifiche lo statuto organico. 
+ 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 30 agosto 1930 - Anno VIII

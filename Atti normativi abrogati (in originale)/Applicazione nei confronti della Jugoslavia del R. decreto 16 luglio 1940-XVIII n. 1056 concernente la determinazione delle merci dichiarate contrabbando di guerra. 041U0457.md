@@ -1,16 +1,14 @@
-REGIO DECRETO 10 aprile 1941 n. 457
-
-
-REGIO DECRETO 10 aprile 1941 n. 457
-===================================
-
-Applicazione nei confronti della Jugoslavia del R. decreto 16 luglio 1940-XVIII, n. 1056, concernente la determinazione delle merci dichiarate contrabbando di guerra. (041U0457)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/06/1941
+---
+tipo: REGIO DECRETO
+numero: 457
+data: 1941-04-10
+titolo: "Applicazione nei confronti della Jugoslavia del R. decreto 16 luglio 1940-XVIII, n. 1056, concernente la determinazione delle merci dichiarate contrabbando di guerra. (041U0457)"
+urn: urn:nir:stato:regio.decreto:1941-04-10;457
+codice_redazionale: 041U0457
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,28 +30,22 @@ Sentito il Consiglio dei Ministri;
 
 Sulla proposta del DUCE del Fascismo, Capo del Governo, di intesa con i Ministri per gli affari esteri e per l'Africa Italiana;
 
-Vista
------
+Vista la delega rilasciata dal Ministro per gli affari esteri al Sottosegretario di Stato in data 23 febbraio 1941-XIX; Abbiamo decretato e decretiamo:
 
-la delega rilasciata dal Ministro per gli affari esteri al Sottosegretario di Stato in data 23 febbraio 1941-XIX; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Nostro decreto 16 luglio 1940-XVIII, n. 1056, e' applicabile nei confronti della Jugoslavia, dal 6 aprile 1941-XIX.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dalla Zona di operazioni, addi' 10 aprile 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Benini - Teruzzi   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 5 giugno 1941-XIX   
-  
-Atti del Governo, registro 434, foglio 29. - Mancini   
+Il Nostro decreto 16 luglio 1940-XVIII, n. 1056, e' applicabile nei confronti della Jugoslavia, dal 6 aprile 1941-XIX. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dalla Zona di operazioni, addi' 10 aprile 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Benini - Teruzzi 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 5 giugno 1941-XIX 
+ 
+ Atti del Governo, registro 434, foglio 29. - Mancini

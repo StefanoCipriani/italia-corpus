@@ -1,22 +1,18 @@
-REGIO DECRETO 22 maggio 1898 n. CCXCIII
+---
+tipo: REGIO DECRETO
+numero: CCXCIII
+data: 1898-05-22
+titolo: "Col quale e' concessa al consorzio d'irrigazione della Roggia Vaso Fiume in provincia di Brescia la facolta' di riscuotere coi privilegi fiscali il contributo dei soci. (9800293R)"
+urn: urn:nir:stato:regio.decreto:1898-05-22;293
+codice_redazionale: 9800293R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 maggio 1898 n. CCXCIII
-=======================================
-
-Col quale e' concessa al consorzio d'irrigazione della Roggia Vaso Fiume in provincia di Brescia la facolta' di riscuotere coi privilegi fiscali il contributo dei soci. (9800293R)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/10/1898
-
-Art. 1
-------
-
-  
-Col quale e' concessa al consorzio d'irrigazione della Roggia Vaso Fiume in provincia di Brescia la facolta' di riscuotere coi privilegi fiscali il contributo dei soci. - Firmato UMBERTO - Controfirmato F.  
-Cocco-Ortu - Visto G. Zanardelli.   
-  
-Registrato alla Corte dei Conti addi' 6 ottobre 1898.   
-  
-Reg. 217. Atti del Governo a f. 62.   
-  
+Col quale e' concessa al consorzio d'irrigazione della Roggia Vaso Fiume in provincia di Brescia la facolta' di riscuotere coi privilegi fiscali il contributo dei soci. - Firmato UMBERTO - Controfirmato F.
+Cocco-Ortu - Visto G. Zanardelli. 
+ 
+ Registrato alla Corte dei Conti addi' 6 ottobre 1898. 
+ 
+ Reg. 217. Atti del Governo a f. 62.

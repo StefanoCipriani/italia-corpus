@@ -1,16 +1,14 @@
-REGIO DECRETO 07 novembre 1867 n. 4031
-
-
-REGIO DECRETO 07 novembre 1867 n. 4031
-======================================
-
-Col quale la piro-corvetta a ruote il Ruggiero e' radiata dal Quadro del Regio Navilio. (067U4031)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/12/1867
+---
+tipo: REGIO DECRETO
+numero: 4031
+data: 1867-11-07
+titolo: "Col quale la piro-corvetta a ruote il Ruggiero e' radiata dal Quadro del Regio Navilio. (067U4031)"
+urn: urn:nir:stato:regio.decreto:1867-11-07;4031
+codice_redazionale: 067U4031
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,23 +18,16 @@ Visto l'articolo 2 del R. decreto 14 giugno 1863 circa l'armamento del navilio d
 
 Sentito il parere del Consiglio superiore di marina;
 
-Sulla
------
+Sulla proposta del Nostro ministro della marina, Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro della marina, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La pirocorvetta a ruote di seconda classe, Il Ruggiero, e' radiata dal quadro del Regio navilio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 7 novembre 1867.   
-  
-VITTORIO EMANUELE.   
-  
-F. Menabrea.   
-  
+La pirocorvetta a ruote di seconda classe, Il Ruggiero, e' radiata dal quadro del Regio navilio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 7 novembre 1867. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ F. Menabrea.

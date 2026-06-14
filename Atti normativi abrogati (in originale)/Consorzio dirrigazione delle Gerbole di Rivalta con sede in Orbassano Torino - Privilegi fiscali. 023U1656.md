@@ -1,16 +1,14 @@
-REGIO DECRETO 14 luglio 1923 n. 1656
-
-
-REGIO DECRETO 14 luglio 1923 n. 1656
-====================================
-
-Consorzio d'irrigazione delle Gerbole di Rivalta, con sede in Orbassano (Torino) - Privilegi fiscali. (023U1656)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/08/1923
+---
+tipo: REGIO DECRETO
+numero: 1656
+data: 1923-07-14
+titolo: "Consorzio d'irrigazione delle Gerbole di Rivalta, con sede in Orbassano (Torino) - Privilegi fiscali. (023U1656)"
+urn: urn:nir:stato:regio.decreto:1923-07-14;1656
+codice_redazionale: 023U1656
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,31 +22,24 @@ Visto l'atto costitutivo del Consorzio, lo statuto e gli atti relativi;
 
 Visto il decreto 22 giugno 1923 del Ministro di agricoltura, col quale si rende esecutorio il catasto del Consorzio delle Gerbole di Rivalta, per l'estensione complessiva di ettari 533, are 61 e centiare 92;
 
-Visto l'art. 12 del testo unico delle leggi sui concorsi ed opere d'irrigazione, approvato con [R. decreto 2 ottobre 1922, n. 1747](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-02;1747);
+Visto l'art. 12 del testo unico delle leggi sui concorsi ed opere d'irrigazione, approvato con [R. decreto 2 ottobre 1922, n. 1747](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-10-02;1747);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al Consorzio delle Gerbole di Rivalta, con sede in Orbassano, provincia di Torino, e' accordata la facolta' di riscuotere i contributi dei soci, con i privilegi e nelle forme fiscali.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 luglio 1923.   
-  
-VITTORIO EMANUELE.   
-  
-G. De Capitani D'Arzago.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 6 agosto 1923.   
-  
-Atti del Governo, registro 215, foglio 44. - Gisci.   
-  
+Al Consorzio delle Gerbole di Rivalta, con sede in Orbassano, provincia di Torino, e' accordata la facolta' di riscuotere i contributi dei soci, con i privilegi e nelle forme fiscali. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 luglio 1923. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. De Capitani D'Arzago. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 6 agosto 1923. 
+ 
+ Atti del Governo, registro 215, foglio 44. - Gisci.

@@ -1,16 +1,14 @@
-REGIO DECRETO 28 novembre 1880 n. 5813
-
-
-REGIO DECRETO 28 novembre 1880 n. 5813
-======================================
-
-Che modifica il regio decreto 30 dicembre 1879 concernente il consorzio di irrigazione Giuliari. (080U5813)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/01/1881
+---
+tipo: REGIO DECRETO
+numero: 5813
+data: 1880-11-28
+titolo: "Che modifica il regio decreto 30 dicembre 1879 concernente il consorzio di irrigazione Giuliari. (080U5813)"
+urn: urn:nir:stato:regio.decreto:1880-11-28;5813
+codice_redazionale: 080U5813
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,23 @@ Ritenuta giusta la domanda fatta dal Consorzio suddetto;
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze, incaricato dell'interim del Ministero del Tesoro, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le Finanze, incaricato dell'interim del Ministero del Tesoro, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Regio decreto 30 novembre 1879 e' modificato nel modo che appresso:   
-  
-«La concessione accordata a perpetuita' al Consorzio Giuliari mediante l'annua prestazione a favore delle Finanze dello Stato in lire tremila (3000) avra' effetto a cominciare dal 1° gennaio 1880, dalla quale epoca decorre il relativo canone, giusta l'atto suppletivo dell'11 settembre 1880, rogato Donatelli.»   
-  
-Il decreto stesso rimane integro in ogni altra sua parte.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 novembre 1880.   
-  
-UMBERTO.   
-  
-A. Magliani.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il Regio decreto 30 novembre 1879 e' modificato nel modo che appresso: 
+ 
+ «La concessione accordata a perpetuita' al Consorzio Giuliari mediante l'annua prestazione a favore delle Finanze dello Stato in lire tremila (3000) avra' effetto a cominciare dal 1° gennaio 1880, dalla quale epoca decorre il relativo canone, giusta l'atto suppletivo dell'11 settembre 1880, rogato Donatelli.» 
+ 
+ Il decreto stesso rimane integro in ogni altra sua parte. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 novembre 1880. 
+ 
+ UMBERTO. 
+ 
+ A. Magliani. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

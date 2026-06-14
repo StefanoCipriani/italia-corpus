@@ -1,16 +1,14 @@
-REGIO DECRETO 24 agosto 1941 n. 1081
-
-
-REGIO DECRETO 24 agosto 1941 n. 1081
-====================================
-
-Approvazione del piano particolareggiato per l'apertura di una nuova via in Milano tra le esistenti vie S. Gottardo ed Ascanio Sforza. (041U1081)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/10/1941
+---
+tipo: REGIO DECRETO
+numero: 1081
+data: 1941-08-24
+titolo: "Approvazione del piano particolareggiato per l'apertura di una nuova via in Milano tra le esistenti vie S. Gottardo ed Ascanio Sforza. (041U1081)"
+urn: urn:nir:stato:regio.decreto:1941-08-24;1081
+codice_redazionale: 041U1081
+vigente: true
+---
 
 VITTORIO EMANELE III
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -86,38 +84,32 @@ Considerato che il termine di attuazione del piano medesimo puo' essere fissato 
 
 Visto il parere n. 730 del 28 aprile 1941-XIX del Consiglio superiore dei lavori pubblici;
 
-Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md);
 
 Visto l'art. 4 del R. decreto-legge 21 giugno 1938-XVI, n. 1094, convertito nella legge 5 gennaio 1939-XVII, n. 35;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ferme le considerazioni svolte nelle premesse e respinti tutti i ricorsi, e' approvato, ai sensi e per gli effetti della legge 19 febbraio 1934-XII, n. 433, e successive modificazioni, il piano particolareggiato di esecuzione del piano regolatore di Milano per l'apertura e la sistemazione di una via di piano regolatore compresa tra la via Cardinale Ascanio Sforza, ed il corso San Gottardo.   
-  
-Detto piano particolareggiato, visto d'ordine Nostro, dal Ministro proponente in una planimetria in iscala 1:2000 ed in un elenco descrittivo dei beni da espropriare e soggetti a contributo, documenti in data 28 aprile 1938-XVI, ed a firma ing. A. Baselli, sara' depositato all'Archivio di Stato.   
-  
-E' assegnato al comune di Milano il termine di anni otto dalla data di pubblicazione del presente decreto per iniziare e compiere le espropriazioni ed i lavori occorrenti per l'esecuzione del piano.   
-  
-Tutte le costruzioni e ricostruzioni eseguite sia dai privati che dal Comune o suoi concessionari, per l'attuazione del presente piano particolareggiato, saranno esenti per venticinque anni dalla normale imposta sui fabbricati e dalle relative sovrimposte, comunale e provinciale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 24 agosto l941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Gorla - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 3 ottobre 1941-XIX   
-  
-Atti dei Governo, registro 438, foglio 10. - Mancini   
+Ferme le considerazioni svolte nelle premesse e respinti tutti i ricorsi, e' approvato, ai sensi e per gli effetti della legge 19 febbraio 1934-XII, n. 433, e successive modificazioni, il piano particolareggiato di esecuzione del piano regolatore di Milano per l'apertura e la sistemazione di una via di piano regolatore compresa tra la via Cardinale Ascanio Sforza, ed il corso San Gottardo. 
+ 
+ Detto piano particolareggiato, visto d'ordine Nostro, dal Ministro proponente in una planimetria in iscala 1:2000 ed in un elenco descrittivo dei beni da espropriare e soggetti a contributo, documenti in data 28 aprile 1938-XVI, ed a firma ing. A. Baselli, sara' depositato all'Archivio di Stato. 
+ 
+ E' assegnato al comune di Milano il termine di anni otto dalla data di pubblicazione del presente decreto per iniziare e compiere le espropriazioni ed i lavori occorrenti per l'esecuzione del piano. 
+ 
+ Tutte le costruzioni e ricostruzioni eseguite sia dai privati che dal Comune o suoi concessionari, per l'attuazione del presente piano particolareggiato, saranno esenti per venticinque anni dalla normale imposta sui fabbricati e dalle relative sovrimposte, comunale e provinciale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 24 agosto l941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Gorla - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 3 ottobre 1941-XIX 
+ 
+ Atti dei Governo, registro 438, foglio 10. - Mancini

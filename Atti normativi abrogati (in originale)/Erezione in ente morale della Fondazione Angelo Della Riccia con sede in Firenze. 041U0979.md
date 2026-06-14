@@ -1,21 +1,21 @@
-REGIO DECRETO 19 luglio 1941 n. 979
+---
+tipo: REGIO DECRETO
+numero: 979
+data: 1941-07-19
+titolo: "Erezione in ente morale della «Fondazione Angelo Della Riccia», con sede in Firenze. (041U0979)"
+urn: urn:nir:stato:regio.decreto:1941-07-19;979
+codice_redazionale: 041U0979
+vigente: true
+---
 
-
-REGIO DECRETO 19 luglio 1941 n. 979
-===================================
-
-Erezione in ente morale della «Fondazione Angelo Della Riccia», con sede in Firenze. (041U0979)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/10/1941
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-979. R. decreto 19 luglio 1941, col quale, sulla proposta del Ministro per l'educazione nazionale, la «Fondazione Angelo Della Riccia», con sede in Firenze, viene eretta in ente morale e ne viene approvato lo statuto.   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 22 agosto 1941-XIX
+979.
+
+R. decreto 19 luglio 1941, col quale, sulla proposta del Ministro per l'educazione nazionale, la «Fondazione Angelo Della Riccia», con sede in Firenze, viene eretta in ente morale e ne viene approvato lo statuto. 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 22 agosto 1941-XIX

@@ -1,16 +1,14 @@
-REGIO DECRETO 15 maggio 1910 n. 344
-
-
-REGIO DECRETO 15 maggio 1910 n. 344
-===================================
-
-Che proroga di altri sei mesi il termine di cui all'art. 69 del regolamento per i veicoli a trazione meccanica senza guida di rotaie. (010U0344)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/07/1910
+---
+tipo: REGIO DECRETO
+numero: 344
+data: 1910-05-15
+titolo: "Che proroga di altri sei mesi il termine di cui all'art. 69 del regolamento per i veicoli a trazione meccanica senza guida di rotaie. (010U0344)"
+urn: urn:nir:stato:regio.decreto:1910-05-15;344
+codice_redazionale: 010U0344
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,19 @@ Ritenuta, pertanto, la opportunita' di prorogare il termine stabilito nell'art. 
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato pei lavori pubblici, e dei Nostri ministri, segretari di Stato per l'interno, per la grazia e giustizia, pel tesoro, per le finanze, per la guerra, per l'agricoltura, industria e commercio e per le poste e i telegrafi; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato pei lavori pubblici, e dei Nostri ministri, segretari di Stato per l'interno, per la grazia e giustizia, pel tesoro, per le finanze, per la guerra, per l'agricoltura, industria e commercio e per le poste e i telegrafi; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' prorogato di altri sei mesi il termine, di cui all'[art. 69 del regolamento 29 luglio 1909, n. 710](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1909-07-29;710~art69), circa l'obbligo, per i veicoli automobili, gia' in circolazione all'entrata in vigore del regolamento stesso, di munirsi di una nuova licenza ed uniformarsi alle nuove disposizioni sulle targhe e sui mezzi di segnalamento.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 15 maggio 1910.   
-  
-VITTORIO EMANUELE.   
-  
-Luzzatti - Sacchi - Fani - Tedesco -   
-Facta - Spingardi - Raineri -Ciuffelli.   
-  
-Visto, Il guardasigilli: Fani.   
+E' prorogato di altri sei mesi il termine, di cui all'[art. 69 del regolamento 29 luglio 1909, n. 710](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1909-07-29;710#art_69), circa l'obbligo, per i veicoli automobili, gia' in circolazione all'entrata in vigore del regolamento stesso, di munirsi di una nuova licenza ed uniformarsi alle nuove disposizioni sulle targhe e sui mezzi di segnalamento. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 15 maggio 1910. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Luzzatti - Sacchi - Fani - Tedesco - 
+ Facta - Spingardi - Raineri -Ciuffelli. 
+ 
+ Visto, Il guardasigilli: Fani.

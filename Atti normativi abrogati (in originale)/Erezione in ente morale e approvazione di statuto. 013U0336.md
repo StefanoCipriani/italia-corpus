@@ -1,19 +1,15 @@
-REGIO DECRETO 27 marzo 1913 n. 336
+---
+tipo: REGIO DECRETO
+numero: 336
+data: 1913-03-27
+titolo: "Erezione in ente morale e approvazione di statuto. (013U0336)"
+urn: urn:nir:stato:regio.decreto:1913-03-27;336
+codice_redazionale: 013U0336
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 marzo 1913 n. 336
-==================================
-
-Erezione in ente morale e approvazione di statuto. (013U0336)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/05/1913
-
-Art. 1
-------
-
-  
-N. 336   
-  
-Regio decreto 27 marzo 1913, col quale, sulla proposta del ministro dell'interno, il ricovero di mendicita' e di cronicita' di San Colombano al Lambro (Milano) e' eretto in ente morale, sotto l'amministrazione della Congregazione di carita', e ne e' approvato lo statuto.   
-  
+N. 336 
+ 
+ Regio decreto 27 marzo 1913, col quale, sulla proposta del ministro dell'interno, il ricovero di mendicita' e di cronicita' di San Colombano al Lambro (Milano) e' eretto in ente morale, sotto l'amministrazione della Congregazione di carita', e ne e' approvato lo statuto.

@@ -1,16 +1,14 @@
-REGIO DECRETO 11 giugno 1885 n. 3159
-
-
-REGIO DECRETO 11 giugno 1885 n. 3159
-====================================
-
-Che modifica l'ultimo comma dell'articolo 3 del regolamento 10 febbraio 1878 per l'applicazione della legge forestale 20 giugno 1877 (085U3159)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/07/1885
+---
+tipo: REGIO DECRETO
+numero: 3159
+data: 1885-06-11
+titolo: "Che modifica l'ultimo comma dell'articolo 3 del regolamento 10 febbraio 1878 per l'applicazione della legge forestale 20 giugno 1877 (085U3159)"
+urn: urn:nir:stato:regio.decreto:1885-06-11;3159
+codice_redazionale: 085U3159
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,26 +18,20 @@ Visto l'art. 3 del regolamento per l'applicazione della legge forestale 20 giugn
 
 Sentito il Consiglio di Stato,
 
-Sulla
------
+Sulla proposizione del Nostro Ministro Segretario di Stato per gli affari dell'Agricoltura, dell'Industria e del Commercio, Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Ministro Segretario di Stato per gli affari dell'Agricoltura, dell'Industria e del Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' modificato l'ultimo comma dell'articolo 3 del regolamento 10 febbraio 1878 per l'applicazione della legge forestale 20 giugno 1877, n. 3917, nei termini seguenti:   
-  
-«Le funzioni dei membri del Comitato sono gratuite. Pero' per gli accertamenti da effettuarsi nei casi previsti dagli articoli 6, 7 ed 8 della legge forestale, gli impiegati dello Stato avranno diritto al compenso stabilito dai RR. decreti 14 settembre 1862, n. 840, e 25 agosto 1863, n. 1446, e gli altri membri a lire 15 di diaria, ed a centesimi 30 per ciascun chilometro fino a 100, ed a centesimi 25 per ciascun chilometro oltre i primi 100 percorsi in via ordinaria; in ferrovia al rimborso del prezzo di un posto di prima classe.»   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 giugno 1885.   
-  
-UMBERTO.   
-  
-Grimaldi.   
-  
-Visto, Il Guardasigilli: Pessina.   
+E' modificato l'ultimo comma dell'articolo 3 del regolamento 10 febbraio 1878 per l'applicazione della legge forestale 20 giugno 1877, n. 3917, nei termini seguenti: 
+ 
+ «Le funzioni dei membri del Comitato sono gratuite. Pero' per gli accertamenti da effettuarsi nei casi previsti dagli articoli 6, 7 ed 8 della legge forestale, gli impiegati dello Stato avranno diritto al compenso stabilito dai RR. decreti 14 settembre 1862, n. 840, e 25 agosto 1863, n. 1446, e gli altri membri a lire 15 di diaria, ed a centesimi 30 per ciascun chilometro fino a 100, ed a centesimi 25 per ciascun chilometro oltre i primi 100 percorsi in via ordinaria; in ferrovia al rimborso del prezzo di un posto di prima classe.» 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 giugno 1885. 
+ 
+ UMBERTO. 
+ 
+ Grimaldi. 
+ 
+ Visto, Il Guardasigilli: Pessina.

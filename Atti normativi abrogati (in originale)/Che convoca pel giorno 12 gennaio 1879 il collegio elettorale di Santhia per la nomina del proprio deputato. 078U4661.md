@@ -1,16 +1,14 @@
-REGIO DECRETO 29 dicembre 1878 n. 4661
-
-
-REGIO DECRETO 29 dicembre 1878 n. 4661
-======================================
-
-Che convoca pel giorno 12 gennaio 1879 il collegio elettorale di Santhia' per la nomina del proprio deputato. (078U4661)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/01/1879
+---
+tipo: REGIO DECRETO
+numero: 4661
+data: 1878-12-29
+titolo: "Che convoca pel giorno 12 gennaio 1879 il collegio elettorale di Santhia' per la nomina del proprio deputato. (078U4661)"
+urn: urn:nir:stato:regio.decreto:1878-12-29;4661
+codice_redazionale: 078U4661
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,25 +18,18 @@ Visto il messaggio in data del 28 dicembre 1878, col quale l'ufficio di presiden
 
 Veduto l'art. 63 della legge per le elezioni politiche 17 dicembre 1860, n. 4513;
 
-Sulla
------
+Sulla proposizione del nostro presidente del consiglio dei ministri, ministro segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
 
-proposizione del nostro presidente del consiglio dei ministri, ministro segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il collegio elettorale di Santhia', n. 293, e' convocato pel giorno 12 gennaio 1879, affinche' proceda alla elezione del proprio deputato.   
-  
-Occorrendo una seconda votazione, essa avra' luogo il 19 dello stesso mese.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 29 dicembre 1878.   
-  
-UMBERTO   
-  
-Depretis.   
-  
+Il collegio elettorale di Santhia', n. 293, e' convocato pel giorno 12 gennaio 1879, affinche' proceda alla elezione del proprio deputato. 
+ 
+ Occorrendo una seconda votazione, essa avra' luogo il 19 dello stesso mese. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 29 dicembre 1878. 
+ 
+ UMBERTO 
+ 
+ Depretis.

@@ -1,54 +1,37 @@
-REGIO DECRETO 20 novembre 1864 n. MCCCCXXVIII
+---
+tipo: REGIO DECRETO
+numero: MCCCCXXVIII
+data: 1864-11-20
+titolo: "Di approvazione degli statuti della Societa' anonima degli esercenti per la riscossione in Torino e suo territorio delle tasse sulla minuta vendita e sulla fabbricazione dei generi colpiti da tassa governativa. (6401428R)"
+urn: urn:nir:stato:regio.decreto:1864-11-20;1428
+codice_redazionale: 6401428R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 novembre 1864 n. MCCCCXXVIII
-=============================================
+Sono approvati gli statuti organici adottati in adunanza del 14 settembre 1864 dall'Assemblea generale della Societa' anonima degli esercenti di Torino per la riscossione del canone gabellario, in base ai quali la Societa' sara' per ricostituirsi, per sostituire all' attuale suo scopo quello della riscossione della tassa sulla vendita, e di quella sulla fabbricazione di alcuni generi, imposta colla legge 5 luglio 1864, n.° 1827.
 
-Di approvazione degli statuti della Societa' anonima degli esercenti per la riscossione in Torino e suo territorio delle tasse sulla minuta vendita e sulla fabbricazione dei generi colpiti da tassa governativa. (6401428R)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 23/12/1864
+La nuova Societa' assumera' il titolo di Societa' anonima degli esercenti per la riscossione in Torino e suo territorio delle tasse sulla minuta vendita e sulla fabbricazione dei generi colpiti da tassa governativa, ai termini della legge 3 luglio 1864, n.° 1827, ed in conformita' della tariffa municipale, approvata dalla Prefettura con Decreto 26 agosto successivo.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Sono approvati gli statuti organici adottati in adunanza del 14 settembre 1864 dall'Assemblea generale della Societa' anonima degli esercenti di Torino per la riscossione del canone gabellario, in base ai quali la Societa' sara' per ricostituirsi, per sostituire all' attuale suo scopo quello della riscossione della tassa sulla vendita, e di quella sulla fabbricazione di alcuni generi, imposta colla legge 5 luglio 1864, n.° 1827.   
-  
+La Societa' sara' definitivamente ricostituita qualora nel termine di tre mesi dalla pubblicazione di questo Decreto rimetta al Ministero di Agricoltura, Industria e Commercio due copie autentiche dell'istromento di sua costituzione a cui siano inserti gli statuti organici avanti approvati, che dovranno contemporaneamente essere pubblicati a cura della Societa' nella Gazzetta ufficiale del Regno.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-La nuova Societa' assumera' il titolo di Societa' anonima degli esercenti per la riscossione in Torino e suo territorio delle tasse sulla minuta vendita e sulla fabbricazione dei generi colpiti da tassa governativa, ai termini della legge 3 luglio 1864, n.° 1827, ed in conformita' della tariffa municipale, approvata dalla Prefettura con Decreto 26 agosto successivo.   
-  
-
-Art. 3
-------
-
-  
-  
-La Societa' sara' definitivamente ricostituita qualora nel termine di tre mesi dalla pubblicazione di questo Decreto rimetta al Ministero di Agricoltura, Industria e Commercio due copie autentiche dell'istromento di sua costituzione a cui siano inserti gli statuti organici avanti approvati, che dovranno contemporaneamente essere pubblicati a cura della Societa' nella Gazzetta ufficiale del Regno.   
-
-Art. 4
-------
-
-  
-  
-Detta Societa' sara' sottoposta alla vigilanza governativa e contribuira' nelle spese commissariali.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 20 novembre 1864.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 30 novembre 1864   
-Reg.° 51 Atti del Governo a c. 175. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli VACCA.   
-  
-TORELLI.   
-  
-  
+Detta Societa' sara' sottoposta alla vigilanza governativa e contribuira' nelle spese commissariali. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 20 novembre 1864. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 30 novembre 1864 
+ Reg.° 51 Atti del Governo a c. 175. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli VACCA. 
+ 
+ TORELLI.

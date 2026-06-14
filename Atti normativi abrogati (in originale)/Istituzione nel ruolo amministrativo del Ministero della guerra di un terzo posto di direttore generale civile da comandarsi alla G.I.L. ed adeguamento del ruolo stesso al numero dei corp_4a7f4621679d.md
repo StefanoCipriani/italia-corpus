@@ -1,16 +1,14 @@
-REGIO DECRETO 20 novembre 1939 n. 1851
-
-
-REGIO DECRETO 20 novembre 1939 n. 1851
-======================================
-
-Istituzione, nel ruolo amministrativo del Ministero della guerra, di un terzo posto di direttore generale civile da comandarsi alla G.I.L. ed adeguamento del ruolo stesso al numero dei corpi d'armata esistenti. (039U1851)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/12/1939
+---
+tipo: REGIO DECRETO
+numero: 1851
+data: 1939-11-20
+titolo: "Istituzione, nel ruolo amministrativo del Ministero della guerra, di un terzo posto di direttore generale civile da comandarsi alla G.I.L. ed adeguamento del ruolo stesso al numero dei corpi d'armata esistenti. (039U1851)"
+urn: urn:nir:stato:regio.decreto:1939-11-20;1851
+codice_redazionale: 039U1851
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -38,78 +36,53 @@ Udito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE Capo del Governo, Ministro per la guerra, di concerto col Ministro per le finanze; Abbiamo decretato o decretiamo:
 
-proposta del DUCE Capo del Governo, Ministro per la guerra, di concerto col Ministro per le finanze; Abbiamo decretato o decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I direttori generali civili di cui all'art. 2 del R. decreto legge 21 marzo 1338-XVI, n. 521, sono aumentati a tre, nei quali uno e' comandato al comando generale della Gioventu' Italiana del Littorio. 
+ 
+ Quando il comando non abbia effetto, o venga comunque a cessare, i detti posti s'intendono ripristinati nel numero di due e si fara' luogo al riassorbimento dell'eventuale soprannumero con la prima successiva vacanza.
 
-  
-  
-I direttori generali civili di cui all'art. 2 del R. decreto legge 21 marzo 1338-XVI, n. 521, sono aumentati a tre, nei quali uno e' comandato al comando generale della Gioventu' Italiana del Littorio.   
-  
-Quando il comando non abbia effetto, o venga comunque a cessare, i detti posti s'intendono ripristinati nel numero di due e si fara' luogo al riassorbimento dell'eventuale soprannumero con la prima successiva vacanza.   
+## Art. 2.
 
-Art. 2
-------
+Al ruolo organico della carriera amministrativa (gruppo A) dell'Amministrazione centrale della guerra, di cui all'art. 9 del R. decreto-legge 28 settembre 1934-XII, n. 1635, quale risulta modificato dall'art. 2 del R. decreto-legge 21 marzo 1938-XVI, n. 521, e dall'art. 2 del R. decreto-legge 7 agosto 1938-XVI, n. 1301, sono apportati i seguenti aumenti di posti: 
+ 
 
-  
-  
-Al ruolo organico della carriera amministrativa (gruppo A) dell'Amministrazione centrale della guerra, di cui all'art. 9 del R. decreto-legge 28 settembre 1934-XII, n. 1635, quale risulta modificato dall'art. 2 del R. decreto-legge 21 marzo 1938-XVI, n. 521, e dall'art. 2 del R. decreto-legge 7 agosto 1938-XVI, n. 1301, sono apportati i seguenti aumenti di posti:   
-  
-  
-Grado Numero del posti in aumento  
-per funzionari civili  
--- --  
-  
-7° Capi sezione . . . . . . . 4  
-  
-10° Segretari . . . . . . . .\  
-| 4  
-11° Vice segretari . . . . . /  
-  
-  
-  
+ Grado Numero del posti in aumento
+ per funzionari civili
+ -- --
 
-Art. 3
-------
+ 7° Capi sezione . . . . . . . 4
+ 
+ 10° Segretari . . . . . . . .\
+ | 4
+ 11° Vice segretari . . . . . /
 
-  
-  
-Le zone di ispezioni, di cui all'art. 5 del R. decreto-leggo 28 settembre 1934-XII, n. 1635, quale risulta modificato dall'art. 3 del R. decreto-legge 7 agosto 1938-XVI, n. 1301, sono aumentate da nove a dieci.   
-  
-Sono aumentati, corrispondentemente, da nove a dieci i funzionari di grado non superiore al sesto, preposti alle predette zone come ispettori centrali, da surrogare, con le garanzie di cui al R. decreto 30 dicembre 1923-II n. 2958, nel nolo organico del proprio grado, con deroga al [secondo comma dell'art. 17 del R. decreto-legge 10 gennaio 1926-1V](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;1~art17-com2), [n. 46](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46).   
+## Art. 3.
 
-Art. 4
-------
+Le zone di ispezioni, di cui all'art. 5 del R. decreto-leggo 28 settembre 1934-XII, n. 1635, quale risulta modificato dall'art. 3 del R. decreto-legge 7 agosto 1938-XVI, n. 1301, sono aumentate da nove a dieci. 
+ 
+ Sono aumentati, corrispondentemente, da nove a dieci i funzionari di grado non superiore al sesto, preposti alle predette zone come ispettori centrali, da surrogare, con le garanzie di cui al R. decreto 30 dicembre 1923-II n. 2958, nel nolo organico del proprio grado, con deroga al [secondo comma dell'art. 17 del R. decreto-legge 10 gennaio 1926-1V](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;1#art_17-com2), [n. 46](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-10;46).
 
-  
-  
-Nella prima attuazione del presente decreto, le vacanze che si determineranno nel ruolo organico della carriera amministrativa (gruppo A) dell'Amministrazione centrale della guerra per effetti) dell'aumento dei posti di capi sezione di ispettore centrale di zona e di direttore generale stabiliti dai precedenti articoli 1, 2 e 3 saranno interamente coperte mediante promozioni, indipendentemente dall'assorbimento delle eccedenze nei gradi stessi stabilito dall'art. 10 del R. decreto-legge 28 settembre 1934-XII, n. 1635, quale risulta, modificato dall'art. 5 del R. decreto-legge 7 agosto 1938-XVI, n. 1301.   
-  
-  
+## Art. 4.
 
-Art. 5
-------
+Nella prima attuazione del presente decreto, le vacanze che si determineranno nel ruolo organico della carriera amministrativa (gruppo A) dell'Amministrazione centrale della guerra per effetti) dell'aumento dei posti di capi sezione di ispettore centrale di zona e di direttore generale stabiliti dai precedenti articoli 1, 2 e 3 saranno interamente coperte mediante promozioni, indipendentemente dall'assorbimento delle eccedenze nei gradi stessi stabilito dall'art. 10 del R. decreto-legge 28 settembre 1934-XII, n. 1635, quale risulta, modificato dall'art. 5 del R. decreto-legge 7 agosto 1938-XVI, n. 1301.
 
-  
-  
-Il presente decreto entra in vigore dalla data della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 20 novembre 1939-XVIII   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 18 dicembre 1939-XVIII   
-  
-Alti del Governo, registro 416, foglio 72. - MANCINI   
-  
-  
+## Art. 5.
+
+Il presente decreto entra in vigore dalla data della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 20 novembre 1939-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 18 dicembre 1939-XVIII 
+ 
+ Alti del Governo, registro 416, foglio 72. - MANCINI

@@ -1,16 +1,14 @@
-REGIO DECRETO 07 novembre 1935 n. 2035
-
-
-REGIO DECRETO 07 novembre 1935 n. 2035
-======================================
-
-Autorizzazione al comune di Agrigento ad applicare le imposte di consumo con la tariffa della classe D. (035U2035)
-------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/12/1935
+---
+tipo: REGIO DECRETO
+numero: 2035
+data: 1935-11-07
+titolo: "Autorizzazione al comune di Agrigento ad applicare le imposte di consumo con la tariffa della classe D. (035U2035)"
+urn: urn:nir:stato:regio.decreto:1935-11-07;2035
+codice_redazionale: 035U2035
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,21 @@ Vista la domanda avanzata dal comune di Agrigento per avvalersi della disposizio
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Agrigento e' autorizzato ad applicare le imposte di consumo con la tariffa della classe D.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 7 novembre 1935 - Anno XIV   
-  
-VITTORIO EMANUELE   
-  
-Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 28 novembre 1935 - Anno XIV   
-Atti del Governo, registro 366, foglio 165. - Mancini.   
-  
-  
+Il comune di Agrigento e' autorizzato ad applicare le imposte di consumo con la tariffa della classe D. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 7 novembre 1935 - Anno XIV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 28 novembre 1935 - Anno XIV  
+ Atti del Governo, registro 366, foglio 165. - Mancini.

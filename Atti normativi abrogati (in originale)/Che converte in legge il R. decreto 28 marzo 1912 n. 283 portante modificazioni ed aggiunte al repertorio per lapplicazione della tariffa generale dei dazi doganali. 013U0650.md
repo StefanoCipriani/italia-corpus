@@ -1,55 +1,43 @@
-LEGGE 22 giugno 1913 n. 650
+---
+tipo: LEGGE
+numero: 650
+data: 1913-06-22
+titolo: "Che converte in legge il R. decreto 28 marzo 1912, n. 283, portante modificazioni ed aggiunte al repertorio per l'applicazione della tariffa generale dei dazi doganali. (013U0650)"
+urn: urn:nir:stato:legge:1913-06-22;650
+codice_redazionale: 013U0650
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 22 giugno 1913 n. 650
-===========================
+E' convertito in legge il [R. decreto del 28 marzo 1912, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-03-28;283), che ha recato modificazioni e aggiunte al repertorio per l'applicazione della tariffa generale dei dazi doganali.
 
-Che converte in legge il R. decreto 28 marzo 1912, n. 283, portante modificazioni ed aggiunte al repertorio per l'applicazione della tariffa generale dei dazi doganali. (013U0650)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 28/06/1913
+Il numero 289 della tariffa generale dei dazi doganali e' modificato come segue: 
+ 
+ ================================================================== 
+      Numero   ¦                               ¦        ¦   Dazio     e lettera ¦ Denominazione delle merci ¦ Unita' ¦  della tariffa¦ ¦ ¦ di entrata 
+ -------------+-------------------------------+--------+----------- 
+               ¦                               ¦        ¦             ¦ ¦ ¦ Lire  289 ¦Oggetti di ferro e di acciaio, ¦ ¦ in oro  ¦ bruniti: ¦ ¦  a) ¦ gambi per spilli . . . . . . ¦quintale¦ 50  b) ¦ altri . . . . . . . . . . . ¦ » ¦ 80
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-E' convertito in legge il [R. decreto del 28 marzo 1912, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-03-28;283), che ha recato modificazioni e aggiunte al repertorio per l'applicazione della tariffa generale dei dazi doganali.   
-  
-
-Art. 2
-------
-
-  
-  
-Il numero 289 della tariffa generale dei dazi doganali e' modificato come segue:   
-  
-==================================================================   
-Numero ¦ ¦ ¦ Dazio e lettera ¦ Denominazione delle merci ¦ Unita' ¦ della tariffa¦ ¦ ¦ di entrata   
--------------+-------------------------------+--------+-----------   
-¦ ¦ ¦ ¦ ¦ ¦ Lire 289 ¦Oggetti di ferro e di acciaio, ¦ ¦ in oro ¦ bruniti: ¦ ¦ a) ¦ gambi per spilli . . . . . . ¦quintale¦ 50 b) ¦ altri . . . . . . . . . . . ¦ » ¦ 80   
-
-Art. 3
-------
-
-  
-  
-A partire dalla data di applicazione della presente legge sono apportati al repertorio per l'applicazione della tariffa generale dei dazi doganali le seguenti modificazioni:   
-  
-==================================================================   
-Voci   
-------------------------------------------------------------------   
-del repertorio ¦ della tariffa   
-----------------------+-------------------------------------------   
-Gambi di acciaio o di ¦ ¦ Cat.ª ¦ Numero ferro per spilli e ¦ ¦ ¦e lettera spilloni: ¦ ¦-------+---------   
-a) bruniti . . . . . ¦ Oggetti di ferro e di ¦ ¦ ¦ acciaio, bruniti, gambi ¦ ¦ ¦ per spilli . . . . . . ¦ XII ¦ 289 a ¦ ¦ ¦ b) altri (v. ferro e ¦ ¦ ¦ acciaio di seconda ¦ ¦ ¦ fabbricazione) ¦ ¦ ¦   
-Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Roma, addi' 22 giugno 1913.   
-  
-VITTORIO EMANUELE.   
-  
-Facta.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+A partire dalla data di applicazione della presente legge sono apportati al repertorio per l'applicazione della tariffa generale dei dazi doganali le seguenti modificazioni: 
+ 
+ ================================================================== 
+                                Voci                                 
+ ------------------------------------------------------------------ 
+      del repertorio    ¦                  della tariffa             
+ ----------------------+------------------------------------------- 
+  Gambi di acciaio o di ¦                         ¦ Cat.ª ¦ Numero    ferro per spilli e ¦ ¦ ¦e lettera  spilloni: ¦ ¦-------+--------- 
+   a) bruniti . . . . . ¦ Oggetti di ferro e di   ¦       ¦           ¦ acciaio, bruniti, gambi ¦ ¦  ¦ per spilli . . . . . . ¦ XII ¦ 289 a  ¦ ¦ ¦  b) altri (v. ferro e ¦ ¦ ¦  acciaio di seconda ¦ ¦ ¦  fabbricazione) ¦ ¦ ¦  
+ Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Roma, addi' 22 giugno 1913. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Facta. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

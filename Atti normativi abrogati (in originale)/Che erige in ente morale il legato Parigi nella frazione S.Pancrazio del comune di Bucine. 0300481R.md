@@ -1,21 +1,17 @@
-REGIO DECRETO 29 novembre 1903 n. CCCCLXXXI
+---
+tipo: REGIO DECRETO
+numero: CCCCLXXXI
+data: 1903-11-29
+titolo: "Che erige in ente morale il legato Parigi nella frazione S.Pancrazio del comune di Bucine. (0300481R)"
+urn: urn:nir:stato:regio.decreto:1903-11-29;481
+codice_redazionale: 0300481R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 novembre 1903 n. CCCCLXXXI
-===========================================
-
-Che erige in ente morale il legato Parigi nella frazione S.Pancrazio del comune di Bucine. (0300481R)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/01/1904
-
-Art. 1
-------
-
-  
-Con il quale il legeto Parigi, istituito per provvedere alla celebrazione di talune funzioni religiose ed all'insegnamento elementare nella frazione S. Pancrazio del comune di Bucine (Arezzo), viene eretto in ente morale, trasformato allo scopo di erogare doti alle zitelle povere e sussidi a domicilio agli ammalati poveri ed inabili al lavoro della frazione predetta, e contemporaneamente concentrato nella congregazione di carita' di Bucine. - Firtriato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 15 dicembre 1903.   
-  
-Reg. 14. Atti del Governo af. 48.   
-  
+Con il quale il legeto Parigi, istituito per provvedere alla celebrazione di talune funzioni religiose ed all'insegnamento elementare nella frazione S. Pancrazio del comune di Bucine (Arezzo), viene eretto in ente morale, trasformato allo scopo di erogare doti alle zitelle povere e sussidi a domicilio agli ammalati poveri ed inabili al lavoro della frazione predetta, e contemporaneamente concentrato nella congregazione di carita' di Bucine. - Firtriato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 15 dicembre 1903. 
+ 
+ Reg. 14. Atti del Governo af. 48.

@@ -1,16 +1,14 @@
-REGIO DECRETO 27 settembre 1938 n. 1615
-
-
-REGIO DECRETO 27 settembre 1938 n. 1615
-=======================================
-
-Autorizzazione al comune di Vercelli a continuare ad applicare le imposte di consumo con le aliquote della classe superiore D fino a tutto l'anno 1940. (038U1615)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1938
+---
+tipo: REGIO DECRETO
+numero: 1615
+data: 1938-09-27
+titolo: "Autorizzazione al comune di Vercelli a continuare ad applicare le imposte di consumo con le aliquote della classe superiore D fino a tutto l'anno 1940. (038U1615)"
+urn: urn:nir:stato:regio.decreto:1938-09-27;1615
+codice_redazionale: 038U1615
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,28 +26,23 @@ Visto l'art. 27 del testo unico per la finanza locale;
 
 Sulla proposta del Nostro Ministro Segretario di Stato
 
-per
----
+per le finanze; Abbiamo decretato e decretiamo:
 
-le finanze; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il comune di Vercelli e' autorizzato ad applicare le imposte di consumo in base alle tariffe della classe superiore D fino a tutto l'anno
 
-1940. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 27 settembre 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 15 ottobre 1938 - Anno XVI   
-Atti del Governo, registro 402, foglio 79. - Mancini.
+1940.
+
+Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 27 settembre 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 15 ottobre 1938 - Anno XVI  
+ Atti del Governo, registro 402, foglio 79. - Mancini.

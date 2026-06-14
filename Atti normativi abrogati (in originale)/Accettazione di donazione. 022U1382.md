@@ -1,17 +1,17 @@
-REGIO DECRETO 15 settembre 1922 n. 1382
+---
+tipo: REGIO DECRETO
+numero: 1382
+data: 1922-09-15
+titolo: "Accettazione di donazione. (022U1382)"
+urn: urn:nir:stato:regio.decreto:1922-09-15;1382
+codice_redazionale: 022U1382
+vigente: true
+---
 
-
-REGIO DECRETO 15 settembre 1922 n. 1382
-=======================================
-
-Accettazione di donazione. (022U1382)
--------------------------------------
-
-Entrata in vigore del provvedimento: 22/11/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1382. Regio decreto 15 settembre 1922, col quale, sulla proposta del ministro delle finanze, viene autorizzata l'accettazione della donazione di un'area fatta dal Comune di Siracusa allo Stato per la costruzione del palazzo postelegrafonico.
+1382.
+
+Regio decreto 15 settembre 1922, col quale, sulla proposta del ministro delle finanze, viene autorizzata l'accettazione della donazione di un'area fatta dal Comune di Siracusa allo Stato per la costruzione del palazzo postelegrafonico.

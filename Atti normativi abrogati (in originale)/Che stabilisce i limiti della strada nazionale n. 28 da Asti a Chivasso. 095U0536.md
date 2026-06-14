@@ -1,24 +1,22 @@
-REGIO DECRETO 28 luglio 1895 n. 536
-
-
-REGIO DECRETO 28 luglio 1895 n. 536
-===================================
-
-Che stabilisce i limiti della strada nazionale n. 28 da Asti a Chivasso. (095U0536)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/09/1895
+---
+tipo: REGIO DECRETO
+numero: 536
+data: 1895-07-28
+titolo: "Che stabilisce i limiti della strada nazionale n. 28 da Asti a Chivasso. (095U0536)"
+urn: urn:nir:stato:regio.decreto:1895-07-28;536
+codice_redazionale: 095U0536
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduta la [legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248) allegato F sui Lavori Pubblici;
+Veduta la [legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248) allegato F sui Lavori Pubblici;
 
-Veduta la legge comunale e provinciale, [testo unico, del 10 febbraio 1889, n. 5924](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1889-02-10;5924);
+Veduta la legge comunale e provinciale, [testo unico, del 10 febbraio 1889, n. 5924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1889-02-10;5924);
 
 Visto il decreto 23 marzo 1884, n. 2187, d'approvazione dell'elenco generale delle strade nazionali del Regno;
 
@@ -34,35 +32,24 @@ Sentito il Consiglio superiore dei Lavori Pubblici;
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I limiti della strada nazionale n. 28 da Asti e Chivasso, di cui al R. decreto 23 marzo 1894, sono stabiliti come segue: 
+ 
+ «dalla stazione ferroviaria d'Asti, sulla linea Alessandria-Torino, alla stazione ferroviaria di Chivasso».
 
-  
-  
-I limiti della strada nazionale n. 28 da Asti e Chivasso, di cui al R. decreto 23 marzo 1894, sono stabiliti come segue:   
-  
-«dalla stazione ferroviaria d'Asti, sulla linea Alessandria-Torino, alla stazione ferroviaria di Chivasso».   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' cancellato dall'Elenco delle strade provinciali di Alessandria il tratto del secondo tronco della provinciale Alessandria-Torino compreso fra Porta Torino ed il bivio Torretta presso Asti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 luglio 1895.   
-  
-UMBERTO.   
-  
-G. Saracco.   
-  
-Visto, Il Guardasigilli: V. Calenda Di Tavani.   
-  
+E' cancellato dall'Elenco delle strade provinciali di Alessandria il tratto del secondo tronco della provinciale Alessandria-Torino compreso fra Porta Torino ed il bivio Torretta presso Asti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 luglio 1895. 
+ 
+ UMBERTO. 
+ 
+ G. Saracco. 
+ 
+ Visto, Il Guardasigilli: V. Calenda Di Tavani.

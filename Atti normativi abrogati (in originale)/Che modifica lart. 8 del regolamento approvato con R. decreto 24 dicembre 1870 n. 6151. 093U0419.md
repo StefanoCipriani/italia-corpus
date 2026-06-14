@@ -1,56 +1,45 @@
-REGIO DECRETO 24 luglio 1893 n. 419
-
-
-REGIO DECRETO 24 luglio 1893 n. 419
-===================================
-
-Che modifica l'art. 8 del regolamento approvato con R. decreto 24 dicembre 1870 n. 6151. (093U0419)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/08/1893
+---
+tipo: REGIO DECRETO
+numero: 419
+data: 1893-07-24
+titolo: "Che modifica l'art. 8 del regolamento approvato con R. decreto 24 dicembre 1870 n. 6151. (093U0419)"
+urn: urn:nir:stato:regio.decreto:1893-07-24;419
+codice_redazionale: 093U0419
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'art. 8 del regolamento approvato con [Regio decreto 24 dicembre 1870 n. 6151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-12-24;6151);
+Visto l'art. 8 del regolamento approvato con [Regio decreto 24 dicembre 1870 n. 6151](Che%20approva%20il%20Regolamento%20per%20la%20conservazione%20dei%20catasti%20dei%20terreni%20e%20dei%20fabbricati%20070U6151.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per le finanze;
 
-Veduto il [parere del Consiglio di Stato del 21 luglio 1893](https://e-justice.europa.eu/ecli/ECLI::::);
+Veduto il parere del Consiglio di Stato del 21 luglio 1893;
 
-Udito
------
+Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Al secondo comma dell'art. 8 del regolamento approvato con [Regio decreto 24 dicembre 1870 n. 6151](Che%20approva%20il%20Regolamento%20per%20la%20conservazione%20dei%20catasti%20dei%20terreni%20e%20dei%20fabbricati%20070U6151.md), e' sostituito il seguente: 
+ 
+ «La domanda puo' farsi anche oralmente, nel qual caso per la compilazione della medesima, sara' corrisposto all'Amministrazione dello Stato un compenso di centesimi venti per ogni pagina di scritturato, mediante applicazione di marche catastali a' termini dello articolo 56.»
 
-  
-  
-Al secondo comma dell'art. 8 del regolamento approvato con [Regio decreto 24 dicembre 1870 n. 6151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-12-24;6151), e' sostituito il seguente:   
-  
-«La domanda puo' farsi anche oralmente, nel qual caso per la compilazione della medesima, sara' corrisposto all'Amministrazione dello Stato un compenso di centesimi venti per ogni pagina di scritturato, mediante applicazione di marche catastali a' termini dello articolo 56.»   
-  
-
-Art. 2
-------
+## Art. 2.
 
 Il presente decreto avra' effetto dal 1° agosto
 
-1893. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 luglio 1893.   
-  
-UMBERTO   
-  
-Gagliardo.   
-  
-Visto, Il Guardasigilli: Santamaria-Niccolini.
+1893.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 luglio 1893. 
+ 
+ UMBERTO 
+ 
+ Gagliardo. 
+ 
+ Visto, Il Guardasigilli: Santamaria-Niccolini.

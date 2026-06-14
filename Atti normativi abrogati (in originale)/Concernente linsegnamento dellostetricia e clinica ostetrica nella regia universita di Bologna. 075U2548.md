@@ -1,16 +1,14 @@
-REGIO DECRETO 06 giugno 1875 n. 2548
-
-
-REGIO DECRETO 06 giugno 1875 n. 2548
-====================================
-
-Concernente l'insegnamento dell'ostetricia e clinica ostetrica nella regia universita' di Bologna. (075U2548)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/07/1875
+---
+tipo: REGIO DECRETO
+numero: 2548
+data: 1875-06-06
+titolo: "Concernente l'insegnamento dell'ostetricia e clinica ostetrica nella regia universita' di Bologna. (075U2548)"
+urn: urn:nir:stato:regio.decreto:1875-06-06;2548
+codice_redazionale: 075U2548
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,25 +26,18 @@ Riconosciuta la convenienza di riordinare l'insegnamento ostetrico nella predett
 
 Sentito il Consiglio superiore della Pubblica Istruzione;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Gli insegnamenti di ostetricia, malattie delle donne e dei bambini e clinica ostetrica saranno dati, anche nella R. Universita' di Bologna, da un solo professore, il quale avra' pure la direzione della clinica, coll'assegnamento annuo stabilito pei direttori delle cliniche dalle disposizioni comuni ora vigenti.   
-  
-Sono abrogate le disposizioni anteriori contrarie al presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 giugno 1875.   
-  
-VITTORIO EMANUELE.   
-  
-R. Bonghi.   
-  
+Gli insegnamenti di ostetricia, malattie delle donne e dei bambini e clinica ostetrica saranno dati, anche nella R. Universita' di Bologna, da un solo professore, il quale avra' pure la direzione della clinica, coll'assegnamento annuo stabilito pei direttori delle cliniche dalle disposizioni comuni ora vigenti. 
+ 
+ Sono abrogate le disposizioni anteriori contrarie al presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 giugno 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ R. Bonghi.

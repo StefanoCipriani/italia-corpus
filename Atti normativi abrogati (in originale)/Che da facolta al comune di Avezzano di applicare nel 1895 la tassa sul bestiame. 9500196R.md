@@ -1,22 +1,18 @@
-REGIO DECRETO 08 agosto 1895 n. CXCVI
+---
+tipo: REGIO DECRETO
+numero: CXCVI
+data: 1895-08-08
+titolo: "Che da' facolta' al comune di Avezzano di applicare nel 1895 la tassa sul bestiame. (9500196R)"
+urn: urn:nir:stato:regio.decreto:1895-08-08;196
+codice_redazionale: 9500196R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 agosto 1895 n. CXCVI
-=====================================
-
-Che da' facolta' al comune di Avezzano di applicare nel 1895 la tassa sul bestiame. (9500196R)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/09/1895
-
-Art. 1
-------
-
-  
-Che da' facolta' al comune di Avezzano di applicare nel 1895 la tassa sul bestiame in base alla tariffa stabilita dal regio Commissario colla deliberazione del 16 febbraio 1895 e colle riduzioni ordinate dalla Giunta amministrativa nella deliberazione del 25 aprile successivo. - Firmato UMBERTO - Contrassegnato P.  
-Boselli - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 21 agosto 1895.   
-  
-Reg. 200. Atti del Governo a f. 19.   
-  
+Che da' facolta' al comune di Avezzano di applicare nel 1895 la tassa sul bestiame in base alla tariffa stabilita dal regio Commissario colla deliberazione del 16 febbraio 1895 e colle riduzioni ordinate dalla Giunta amministrativa nella deliberazione del 25 aprile successivo. - Firmato UMBERTO - Contrassegnato P.
+Boselli - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 21 agosto 1895. 
+ 
+ Reg. 200. Atti del Governo a f. 19.

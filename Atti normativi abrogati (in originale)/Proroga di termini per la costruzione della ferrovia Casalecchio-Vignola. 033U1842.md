@@ -1,16 +1,14 @@
-REGIO DECRETO 04 dicembre 1933 n. 1842
-
-
-REGIO DECRETO 04 dicembre 1933 n. 1842
-======================================
-
-Proroga di termini per la costruzione della ferrovia Casalecchio-Vignola. (033U1842)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/02/1934
+---
+tipo: REGIO DECRETO
+numero: 1842
+data: 1933-12-04
+titolo: "Proroga di termini per la costruzione della ferrovia Casalecchio-Vignola. (033U1842)"
+urn: urn:nir:stato:regio.decreto:1933-12-04;1842
+codice_redazionale: 033U1842
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,36 +28,25 @@ Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'in
 
 Udito il parere del Consiglio superiore dei lavori pubblici e del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' accordata in via di sanatoria la proroga fino al 31 gennaio 1933 del termine per la presentazione del progetto esecutivo dei maggiori lavori di cui all'art. 1 dell'atto aggiuntivo 1° marzo 1932, approvato con R. decreto 10 stesso mese ed anno, n. 376, contenente modifiche ai patti di concessione della ferrovia Casalecchio-Vignola.
 
-  
-  
-E' accordata in via di sanatoria la proroga fino al 31 gennaio 1933 del termine per la presentazione del progetto esecutivo dei maggiori lavori di cui all'art. 1 dell'atto aggiuntivo 1° marzo 1932, approvato con R. decreto 10 stesso mese ed anno, n. 376, contenente modifiche ai patti di concessione della ferrovia Casalecchio-Vignola.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-A modifica dell'art. 3 dell'atto aggiuntivo predetto il termine per la costruzione dell'intera linea e per l'apertura all'esercizio viene stabilito in mesi 35 dalla data di approvazione del progetto esecutivo predetto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 dicembre 1933 - Anno XII   
-  
-VITTORIO EMANUELE   
-  
-CIANO - JUNG   
-  
-Visto, il Guardasigilli: DE FRANCISCI.   
-  
-Registrato alla Corte dei conti, addi' 10 gennaio 1934 - Anno XII   
-Atti del Governo, registro 343, foglio 63. - MANCINI.   
-  
-  
+A modifica dell'art. 3 dell'atto aggiuntivo predetto il termine per la costruzione dell'intera linea e per l'apertura all'esercizio viene stabilito in mesi 35 dalla data di approvazione del progetto esecutivo predetto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 dicembre 1933 - Anno XII 
+ 
+ VITTORIO EMANUELE 
+ 
+ CIANO - JUNG 
+ 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ 
+ Registrato alla Corte dei conti, addi' 10 gennaio 1934 - Anno XII  
+ Atti del Governo, registro 343, foglio 63. - MANCINI.

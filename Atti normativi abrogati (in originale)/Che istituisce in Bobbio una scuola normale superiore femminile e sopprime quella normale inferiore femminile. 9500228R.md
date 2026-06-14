@@ -1,21 +1,17 @@
-REGIO DECRETO 10 settembre 1895 n. CCXXVIII
+---
+tipo: REGIO DECRETO
+numero: CCXXVIII
+data: 1895-09-10
+titolo: "Che istituisce in Bobbio una scuola normale superiore femminile e sopprime quella normale inferiore femminile. (9500228R)"
+urn: urn:nir:stato:regio.decreto:1895-09-10;228
+codice_redazionale: 9500228R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 settembre 1895 n. CCXXVIII
-===========================================
-
-Che istituisce in Bobbio una scuola normale superiore femminile e sopprime quella normale inferiore femminile. (9500228R)
--------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/10/1895
-
-Art. 1
-------
-
-  
-Che istituisce in Bobbio a datare dal 1° ottobre 1895 una scuola normale superiore femminile e sopprime quella normale inferiore femminile. - Firmato UMBERTO - Contrassegnato Baccelli - Visto Calenda.   
-  
-Registrato alla Corte dei conti addi' 3 ottobre 1895.   
-  
-Reg. 200. Atti del Governo a f. 105.   
-  
+Che istituisce in Bobbio a datare dal 1° ottobre 1895 una scuola normale superiore femminile e sopprime quella normale inferiore femminile. - Firmato UMBERTO - Contrassegnato Baccelli - Visto Calenda. 
+ 
+ Registrato alla Corte dei conti addi' 3 ottobre 1895. 
+ 
+ Reg. 200. Atti del Governo a f. 105.

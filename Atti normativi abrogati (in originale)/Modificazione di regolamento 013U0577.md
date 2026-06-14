@@ -1,19 +1,15 @@
-REGIO DECRETO 01 maggio 1913 n. 577
+---
+tipo: REGIO DECRETO
+numero: 577
+data: 1913-05-01
+titolo: "Modificazione di regolamento (013U0577)"
+urn: urn:nir:stato:regio.decreto:1913-05-01;577
+codice_redazionale: 013U0577
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 maggio 1913 n. 577
-===================================
-
-Modificazione di regolamento (013U0577)
----------------------------------------
-
-Entrata in vigore del provvedimento: 02/07/1913
-
-Art. 1
-------
-
-  
-N. 577   
-  
-Regio Decreto 1° maggio 1913, col quale, sulla proposta del ministro dell'interno, di concerto con il ministro delle finanze, viene modificato il regolamento per l'applicazione della tassa di soggiorno nel comune di Saint-Vincent, approvato con [R. decreto 18 agosto 1911, n. 1100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-08-18;1100).   
-  
+N. 577 
+ 
+ Regio Decreto 1° maggio 1913, col quale, sulla proposta del ministro dell'interno, di concerto con il ministro delle finanze, viene modificato il regolamento per l'applicazione della tassa di soggiorno nel comune di Saint-Vincent, approvato con [R. decreto 18 agosto 1911, n. 1100](Applicazione%20di%20tassa%20di%20soggiorno.%20011U1100.md).

@@ -1,46 +1,33 @@
-LEGGE 25 maggio 1865 n. 2312
+---
+tipo: LEGGE
+numero: 2312
+data: 1865-05-25
+titolo: "Che determina quali progetti di contratti debbano comunicarsi al Consiglio di Stato, e quali disposizioni abbiansi a registrare nell'Uffizio di riscontro della Corte dei conti in Torino. (065U2312)"
+urn: urn:nir:stato:legge:1865-05-25;2312
+codice_redazionale: 065U2312
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 25 maggio 1865 n. 2312
-============================
+Saranno comunicati al Consiglio di Stato, per sentirne il parere, i progetti di contratti da stipularsi dopo i pubblici incanti quando superino le lire 40 mila; e quelli de' contratti da stipularsi dopo le trattative private quando superino la somma di lire 8 mila.
 
-Che determina quali progetti di contratti debbano comunicarsi al Consiglio di Stato, e quali disposizioni abbiansi a registrare nell'Uffizio di riscontro della Corte dei conti in Torino. (065U2312)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 14/06/1865
+Finche' le Direzioni Generali non saranno trasferite nella sede del Governo le disposizioni firmate dai Direttori generali saranno registrate nell'Uffizio di riscontro che sara' istituito in Torino. 
+ 
+ In questo tempo il detto Uffizio sara' presieduto da un Consigliere della Corte dei conti designato dal Presidente della stessa Corte.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Saranno comunicati al Consiglio di Stato, per sentirne il parere, i progetti di contratti da stipularsi dopo i pubblici incanti quando superino le lire 40 mila; e quelli de' contratti da stipularsi dopo le trattative private quando superino la somma di lire 8 mila.   
-  
-
-Art. 2
-------
-
-  
-  
-Finche' le Direzioni Generali non saranno trasferite nella sede del Governo le disposizioni firmate dai Direttori generali saranno registrate nell'Uffizio di riscontro che sara' istituito in Torino.   
-  
-In questo tempo il detto Uffizio sara' presieduto da un Consigliere della Corte dei conti designato dal Presidente della stessa Corte.   
-  
-
-Art. 3
-------
-
-  
-  
-Restano in vigore tutte le disposizioni precedenti non contrarie a quelle della presente Legge.   
-  
-Ordiniamo che la presente, munita del Sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come Legge dello Stato.   
-  
-Dato a Firenze addi' 25 maggio 1865.   
-  
-VITTORIO EMANUELE   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-Quintino Sella.   
-  
+Restano in vigore tutte le disposizioni precedenti non contrarie a quelle della presente Legge. 
+ 
+ Ordiniamo che la presente, munita del Sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come Legge dello Stato. 
+ 
+ Dato a Firenze addi' 25 maggio 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ Quintino Sella.

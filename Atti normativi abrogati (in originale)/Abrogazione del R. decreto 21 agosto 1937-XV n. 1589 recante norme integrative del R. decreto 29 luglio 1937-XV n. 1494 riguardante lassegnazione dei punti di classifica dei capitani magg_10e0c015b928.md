@@ -1,16 +1,14 @@
-REGIO DECRETO 12 ottobre 1939 n. 1773
-
-
-REGIO DECRETO 12 ottobre 1939 n. 1773
-=====================================
-
-Abrogazione del R. decreto 21 agosto 1937-XV, n. 1589, recante norme integrative del R. decreto 29 luglio 1937-XV, n. 1494, riguardante l'assegnazione dei punti di classifica dei capitani, maggiori e tenenti colonnelli del Regio esercito, ai fini dell'avanzamento. (039U1773)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/12/1939
+---
+tipo: REGIO DECRETO
+numero: 1773
+data: 1939-10-12
+titolo: "Abrogazione del R. decreto 21 agosto 1937-XV, n. 1589, recante norme integrative del R. decreto 29 luglio 1937-XV, n. 1494, riguardante l'assegnazione dei punti di classifica dei capitani, maggiori e tenenti colonnelli del Regio esercito, ai fini dell'avanzamento. (039U1773)"
+urn: urn:nir:stato:regio.decreto:1939-10-12;1773
+codice_redazionale: 039U1773
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,27 +22,21 @@ Visto il R. decreto 29 luglio 1937-XV, n. 1494, che stabilisce le norme per l'as
 
 Visto il R. decreto 21 agosto 1937-XV, n. 1589, che stabilisce norme integrative del citato Regio decreto 29 luglio 1937-XV, n. 1494;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il R. decreto 21 agosto 1937-XV, n. 1589, recante norme integrative del R. decreto 29 luglio 1937-XV, n. 1494, riguardante l'assegnazione dei punti di classifica dei capitani, maggiori e tenenti colonnelli del Regio esercito, ai fini dell'avanzamento, cessa di aver vigore dal 20 giugno 1939-XVII.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 12 ottobre 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI   
-  
-Visto, il Guardasigilli: GRANDI   
-Registrato alla Corte dei conti, addi' 7 dicembre 1939-XVIII   
-  
-Atti del Governo, registro 416, foglio 33. - MANCINI   
+Il R. decreto 21 agosto 1937-XV, n. 1589, recante norme integrative del R. decreto 29 luglio 1937-XV, n. 1494, riguardante l'assegnazione dei punti di classifica dei capitani, maggiori e tenenti colonnelli del Regio esercito, ai fini dell'avanzamento, cessa di aver vigore dal 20 giugno 1939-XVII. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 12 ottobre 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ Registrato alla Corte dei conti, addi' 7 dicembre 1939-XVIII 
+ 
+ Atti del Governo, registro 416, foglio 33. - MANCINI

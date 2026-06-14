@@ -1,16 +1,14 @@
-REGIO DECRETO 26 marzo 1922 n. 425
-
-
-REGIO DECRETO 26 marzo 1922 n. 425
-==================================
-
-Che proroga il termine entro il quale la Commissione incaricata di esaminare le domande di concessione dei servizi radiotelefonici e radiotelegrafici dovra' presentare le sue proposte. (022U0425)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/04/1922
+---
+tipo: REGIO DECRETO
+numero: 425
+data: 1922-03-26
+titolo: "Che proroga il termine entro il quale la Commissione incaricata di esaminare le domande di concessione dei servizi radiotelefonici e radiotelegrafici dovra' presentare le sue proposte. (022U0425)"
+urn: urn:nir:stato:regio.decreto:1922-03-26;425
+codice_redazionale: 022U0425
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e volonta' della Nazione
 
@@ -22,25 +20,20 @@ Visto il decreto 11 dicembre 1921, n. 2083, col quale viene protratto al 31 marz
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro Segretario di Stato per le poste e i telegrafi, di concerto col ministro della marina; Abbiamo decreto e decretiamo;
 
-proposta del Nostro ministro Segretario di Stato per le poste e i telegrafi, di concerto col ministro della marina; Abbiamo decreto e decretiamo;
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il termine stabilito dal Nostro decreto 11 dicembre 1921, n. 2083, e' prorogato al 31 maggio
 
-1922. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 26 marzo 1922   
-  
-VITTORIO EMANUELE.   
-  
-FACTA - FULCI - DE VITO.   
-  
-Visto, il guardasigilli: LUIGI ROSSI.
+1922.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 marzo 1922 
+ 
+ VITTORIO EMANUELE. 
+ 
+ FACTA - FULCI - DE VITO. 
+ 
+ Visto, il guardasigilli: LUIGI ROSSI.

@@ -1,16 +1,14 @@
-REGIO DECRETO 31 ottobre 1942 n. 1523
-
-
-REGIO DECRETO 31 ottobre 1942 n. 1523
-=====================================
-
-Assegno mensile di prova al personale di gruppo A dei Laboratori chimici delle dogane ed imposte indirette assegnato alla sede di abituale residenza. (042U1523)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/01/1943
+---
+tipo: REGIO DECRETO
+numero: 1523
+data: 1942-10-31
+titolo: "Assegno mensile di prova al personale di gruppo A dei Laboratori chimici delle dogane ed imposte indirette assegnato alla sede di abituale residenza. (042U1523)"
+urn: urn:nir:stato:regio.decreto:1942-10-31;1523
+codice_redazionale: 042U1523
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,30 +32,24 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al personale in servizio di prova del ruolo di gruppo A dei Laboratori chimici delle dogane e delle imposte indirette e' concesso l'intero assegno mensile stabilito dalle vigenti disposizioni, esclusa la riduzione prevista dall'art. 25, penultimo comma, del R. decreto 23 marzo 1933-XI, n. 185, per i personali in servizio di prova assegnati nella sede della loro abituale residenza.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 31 ottobre 1942-XXI   
-  
-VITTORIO EMANUELE   
-  
-  
-MUSSOLINI - DI REVEL   
-  
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 29 dicembre 1942-XXI   
-  
-Atti del Governo, registro 452, foglio 135. - MANCINI   
+Al personale in servizio di prova del ruolo di gruppo A dei Laboratori chimici delle dogane e delle imposte indirette e' concesso l'intero assegno mensile stabilito dalle vigenti disposizioni, esclusa la riduzione prevista dall'art. 25, penultimo comma, del R. decreto 23 marzo 1933-XI, n. 185, per i personali in servizio di prova assegnati nella sede della loro abituale residenza. 
+ 
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+Dato a San Rossore, addi' 31 ottobre 1942-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ 
+Visto, il Guardasigilli: GRANDI 
+ 
+Registrato alla Corte dei conti, addi' 29 dicembre 1942-XXI 
+ 
+Atti del Governo, registro 452, foglio 135. - MANCINI

@@ -1,16 +1,14 @@
-REGIO DECRETO 05 marzo 1936 n. 475
-
-
-REGIO DECRETO 05 marzo 1936 n. 475
-==================================
-
-Autorizzazione al comune di Arezzo ad applicare le imposte di consumo con la tariffa della classe D. (036U0475)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/04/1936
+---
+tipo: REGIO DECRETO
+numero: 475
+data: 1936-03-05
+titolo: "Autorizzazione al comune di Arezzo ad applicare le imposte di consumo con la tariffa della classe D. (036U0475)"
+urn: urn:nir:stato:regio.decreto:1936-03-05;475
+codice_redazionale: 036U0475
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,28 +20,22 @@ Vista la domanda avanzata dal Comune per ottenere la proroga della suaccennata a
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Arezzo e' autorizzato a continuare ad applicare, fino al 31 dicembre 1937, le imposte di consumo in base alla tariffa della classe D.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 marzo 1936 - Anno XIV   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 27 marzo 1936 - Anno XIV.   
-  
-Atti del Governo, registro 370, foglio 180. - Mancini.   
+Il comune di Arezzo e' autorizzato a continuare ad applicare, fino al 31 dicembre 1937, le imposte di consumo in base alla tariffa della classe D. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 marzo 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 27 marzo 1936 - Anno XIV. 
+ 
+ Atti del Governo, registro 370, foglio 180. - Mancini.

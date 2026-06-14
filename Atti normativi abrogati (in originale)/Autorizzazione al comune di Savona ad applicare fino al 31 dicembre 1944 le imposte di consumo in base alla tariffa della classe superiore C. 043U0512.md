@@ -1,16 +1,14 @@
-REGIO DECRETO 03 giugno 1943 n. 512
-
-
-REGIO DECRETO 03 giugno 1943 n. 512
-===================================
-
-Autorizzazione al comune di Savona ad applicare, fino al 31 dicembre 1944, le imposte di consumo in base alla tariffa della classe superiore «C». (043U0512)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/07/1943
+---
+tipo: REGIO DECRETO
+numero: 512
+data: 1943-06-03
+titolo: "Autorizzazione al comune di Savona ad applicare, fino al 31 dicembre 1944, le imposte di consumo in base alla tariffa della classe superiore «C». (043U0512)"
+urn: urn:nir:stato:regio.decreto:1943-06-03;512
+codice_redazionale: 043U0512
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,22 @@ Udita la Commissione centrale per la finanza locale che in adunanza 3 aprile 194
 
 Visto l'art. 27 del testo unico per la finanza locale, approvato con Nostro decreto 14 settembre 1931-IX, n. 1175;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Savona e' autorizzato ad applicare fino al 31 dicembre 1944, le imposte di consumo in base alla tariffa della classe superiore C.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 giugno 1943-XXI   
-  
-VITTORIO EMANUELE   
-  
-ACERBO   
-  
-Visto, il Guardasigilli: DE MARSICO   
-  
-Registrato alla Corte dei conti, addi' 22 giugno 1943-XXI   
-  
-Atti del Governo, registro 458, foglio 89 - MANCINI   
+Il comune di Savona e' autorizzato ad applicare fino al 31 dicembre 1944, le imposte di consumo in base alla tariffa della classe superiore C. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 giugno 1943-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ ACERBO 
+ 
+ Visto, il Guardasigilli: DE MARSICO 
+ 
+ Registrato alla Corte dei conti, addi' 22 giugno 1943-XXI 
+ 
+ Atti del Governo, registro 458, foglio 89 - MANCINI

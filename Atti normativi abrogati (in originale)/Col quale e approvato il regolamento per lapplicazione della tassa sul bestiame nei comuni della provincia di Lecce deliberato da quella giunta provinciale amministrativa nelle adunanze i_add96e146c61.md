@@ -1,21 +1,17 @@
-REGIO DECRETO 31 dicembre 1903 n. DXLII
+---
+tipo: REGIO DECRETO
+numero: DXLII
+data: 1903-12-31
+titolo: "Col quale e' approvato il regolamento per l'applicazione della tassa sul bestiame nei comuni della provincia di Lecce, deliberato da quella giunta provinciale amministrativa nelle adunanze in data 22 agosto e 12 dicembre 1902 e 13 febbraio 1903 con la modificazione introdottavi nell'adunanza del 16 ottobre 1903, in sostituzione del regolamento approvato con reale decreto 8 marzo 1903, n. LXXIV. (0300542R)"
+urn: urn:nir:stato:regio.decreto:1903-12-31;542
+codice_redazionale: 0300542R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 dicembre 1903 n. DXLII
-=======================================
-
-Col quale e' approvato il regolamento per l'applicazione della tassa sul bestiame nei comuni della provincia di Lecce, deliberato da quella giunta provinciale amministrativa nelle adunanze in data 22 agosto e 12 dicembre 1902 e 13 febbraio 1903 con la modificazione introdottavi nell'adunanza del 16 ottobre 1903, in sostituzione del regolamento approvato con reale decreto 8 marzo 1903, n. LXXIV. (0300542R)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/05/1904
-
-Art. 1
-------
-
-  
-Col quale e' approvato il regolamento per l'applicazione della tassa sul bestiame nei comuni della provincia di Lecce, deliberato da quella giunta provinciale amministrativa nelle adunanze in data 22 agosto e 12 dicembre 1902 e 13 febbraio 1903 con la modificazione introdottavi nell'adunanza del 16 ottobre 1903, in sostituzione del regolamento approvato con reale decreto 8 marzo 1903, n. LXXIV. - Firmato VITTORIO EMANUELE - Controfirmato L. Luzzatti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 8 aprile 1904.   
-  
-Reg. 16. Atti del Governo a f. 34.   
-  
+Col quale e' approvato il regolamento per l'applicazione della tassa sul bestiame nei comuni della provincia di Lecce, deliberato da quella giunta provinciale amministrativa nelle adunanze in data 22 agosto e 12 dicembre 1902 e 13 febbraio 1903 con la modificazione introdottavi nell'adunanza del 16 ottobre 1903, in sostituzione del regolamento approvato con reale decreto 8 marzo 1903, n. LXXIV. - Firmato VITTORIO EMANUELE - Controfirmato L. Luzzatti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 8 aprile 1904. 
+ 
+ Reg. 16. Atti del Governo a f. 34.

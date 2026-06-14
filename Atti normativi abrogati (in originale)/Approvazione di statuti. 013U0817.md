@@ -1,19 +1,15 @@
-REGIO DECRETO 19 giugno 1913 n. 817
+---
+tipo: REGIO DECRETO
+numero: 817
+data: 1913-06-19
+titolo: "Approvazione di statuti. (013U0817)"
+urn: urn:nir:stato:regio.decreto:1913-06-19;817
+codice_redazionale: 013U0817
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 giugno 1913 n. 817
-===================================
-
-Approvazione di statuti. (013U0817)
------------------------------------
-
-Entrata in vigore del provvedimento: 01/08/1913
-
-Art. 1
-------
-
-  
-N. 817   
-  
-Col quale, sulla proposta del ministro dell'interno, sono approvati gli statuti dell'asilo infantile e dell'ospedale «Giasino-Vassallo» di Murialdo (Genova).   
-  
+N. 817 
+ 
+ Col quale, sulla proposta del ministro dell'interno, sono approvati gli statuti dell'asilo infantile e dell'ospedale «Giasino-Vassallo» di Murialdo (Genova).

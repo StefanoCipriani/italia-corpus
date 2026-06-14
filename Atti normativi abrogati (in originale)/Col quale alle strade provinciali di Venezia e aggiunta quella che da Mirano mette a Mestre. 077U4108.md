@@ -1,16 +1,14 @@
-REGIO DECRETO 13 ottobre 1877 n. 4108
-
-
-REGIO DECRETO 13 ottobre 1877 n. 4108
-=====================================
-
-Col quale alle strade provinciali di Venezia e' aggiunta quella che da Mirano mette a Mestre. (077U4108)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/12/1877
+---
+tipo: REGIO DECRETO
+numero: 4108
+data: 1877-10-13
+titolo: "Col quale alle strade provinciali di Venezia e' aggiunta quella che da Mirano mette a Mestre. (077U4108)"
+urn: urn:nir:stato:regio.decreto:1877-10-13;4108
+codice_redazionale: 077U4108
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Considerando che l'aggiunta nello elenco delle strade provinciali di Venezia di 
 
 Sentito il Consiglio superiore dei Lavori Pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' aggiunta alle strade provinciali di Venezia quella che da Mirano mette a Mestre per Chirignago e Spinea.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 13 ottobre 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Zanardelli.   
-  
+E' aggiunta alle strade provinciali di Venezia quella che da Mirano mette a Mestre per Chirignago e Spinea. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 13 ottobre 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Zanardelli.

@@ -1,19 +1,15 @@
-REGIO DECRETO 08 ottobre 1905 n. CCCVII
+---
+tipo: REGIO DECRETO
+numero: CCCVII
+data: 1905-10-08
+titolo: "Applicazione di tassa di famiglia. (0500307R)"
+urn: urn:nir:stato:regio.decreto:1905-10-08;307
+codice_redazionale: 0500307R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 ottobre 1905 n. CCCVII
-=======================================
-
-Applicazione di tassa di famiglia. (0500307R)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 18/11/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CCCVII (Dato a Racconigi, l'8 ottobre 1905), col quale e' data facolta' al comune di Fauglia di applicare, nel 1905, la tassa di famiglia col limite massimo di lire duecento (L. 200).   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CCCVII (Dato a Racconigi, l'8 ottobre 1905), col quale e' data facolta' al comune di Fauglia di applicare, nel 1905, la tassa di famiglia col limite massimo di lire duecento (L. 200).

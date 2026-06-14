@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 09 gennaio 1916 n. 136
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 136
+data: 1916-01-09
+titolo: "Annullamento di partita di consolidato. (016U0136)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-01-09;136
+codice_redazionale: 016U0136
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 09 gennaio 1916 n. 136
-==============================================
-
-Annullamento di partita di consolidato. (016U0136)
---------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/03/1916
-
-Art. 1
-------
-
-null
+## Art. 1. — null

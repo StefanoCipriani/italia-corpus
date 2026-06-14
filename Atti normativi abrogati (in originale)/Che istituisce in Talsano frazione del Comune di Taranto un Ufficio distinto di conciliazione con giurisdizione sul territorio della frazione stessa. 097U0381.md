@@ -1,16 +1,14 @@
-REGIO DECRETO 06 agosto 1897 n. 381
-
-
-REGIO DECRETO 06 agosto 1897 n. 381
-===================================
-
-Che istituisce in Talsano, frazione del Comune di Taranto, un Ufficio distinto di conciliazione con giurisdizione sul territorio della frazione stessa. (097U0381)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/09/1897
+---
+tipo: REGIO DECRETO
+numero: 381
+data: 1897-08-06
+titolo: "Che istituisce in Talsano, frazione del Comune di Taranto, un Ufficio distinto di conciliazione con giurisdizione sul territorio della frazione stessa. (097U0381)"
+urn: urn:nir:stato:regio.decreto:1897-08-06;381
+codice_redazionale: 097U0381
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Vista la deliberazione del Consiglio comunale di Taranto, in data 9 aprile 1896,
 
 Visto il rapporto del Primo Presidente della Corte d'appello di Trani, in data 26 giugno corrente anno;
 
-Visti gli articoli 1° della [legge 16 giugno 1892 n. 267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;267), e 1° del regolamento 26 dicembre stesso anno n. 728;
+Visti gli articoli 1° della [legge 16 giugno 1892 n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;267), e 1° del regolamento 26 dicembre stesso anno n. 728;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal 1° novembre 1897 in Talsano, frazione del Comune di Taranto, e' istituito un Ufficio distinto di conciliazione con giurisdizione sul territorio della frazione stessa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Dondena Reale, addi' 6 agosto 1897.   
-  
-UMBERTO.   
-  
-G. Costa.   
-  
-Visto, Il Guardasigilli: Rudini'.   
-  
+Dal 1° novembre 1897 in Talsano, frazione del Comune di Taranto, e' istituito un Ufficio distinto di conciliazione con giurisdizione sul territorio della frazione stessa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Dondena Reale, addi' 6 agosto 1897. 
+ 
+ UMBERTO. 
+ 
+ G. Costa. 
+ 
+ Visto, Il Guardasigilli: Rudini'.

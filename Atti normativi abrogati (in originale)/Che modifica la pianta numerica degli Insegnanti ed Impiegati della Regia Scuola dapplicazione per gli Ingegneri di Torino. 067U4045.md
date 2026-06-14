@@ -1,16 +1,14 @@
-REGIO DECRETO 14 novembre 1867 n. 4045
-
-
-REGIO DECRETO 14 novembre 1867 n. 4045
-======================================
-
-Che modifica la pianta numerica degli Insegnanti ed Impiegati della Regia Scuola d'applicazione per gli Ingegneri di Torino. (067U4045)
----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/12/1867
+---
+tipo: REGIO DECRETO
+numero: 4045
+data: 1867-11-14
+titolo: "Che modifica la pianta numerica degli Insegnanti ed Impiegati della Regia Scuola d'applicazione per gli Ingegneri di Torino. (067U4045)"
+urn: urn:nir:stato:regio.decreto:1867-11-14;4045
+codice_redazionale: 067U4045
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Veduta la pianta numerica degli Insegnanti ed Impiegati della Scuola predetta, a
 
 Veduto lo stanziamento fatto al capitolo 10 B (allegato 11, lettera A) del bilancio passivo del Ministero della Pubblica Istruzione pel corrente esercizio;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Agli uffici stabiliti colla pianta numerica degli Insegnanti ed Impiegati della Regia Scuola d'applicazione per gl'Ingegneri di Torino, approvata col Nostro Decreto 11 ottobre 1863, n. 1518, e' aggiunto quello di Direttore del gabinetto di mineralogia, con lo stipendio annuo di lire settecento.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 14 novembre 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 23 novembre 1867   
-  
-Reg. 41 Atti del Governo a c. 125. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli A. Mari.   
-  
-Broglio.   
-  
+Agli uffici stabiliti colla pianta numerica degli Insegnanti ed Impiegati della Regia Scuola d'applicazione per gl'Ingegneri di Torino, approvata col Nostro Decreto 11 ottobre 1863, n. 1518, e' aggiunto quello di Direttore del gabinetto di mineralogia, con lo stipendio annuo di lire settecento. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 14 novembre 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 23 novembre 1867 
+ 
+ Reg. 41 Atti del Governo a c. 125. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli A. Mari. 
+ 
+ Broglio.

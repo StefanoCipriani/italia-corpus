@@ -1,16 +1,14 @@
-REGIO DECRETO 20 febbraio 1941 n. 631
-
-
-REGIO DECRETO 20 febbraio 1941 n. 631
-=====================================
-
-Estensione all'Africa italiana del R. decreto-legge 8 luglio 1937-XV, n. 1322, concernente la sistemazione in ruolo di alcuni gruppi di personale insegnante assunto in servizio a titolo provvisorio. (041U0631)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/07/1941
+---
+tipo: REGIO DECRETO
+numero: 631
+data: 1941-02-20
+titolo: "Estensione all'Africa italiana del R. decreto-legge 8 luglio 1937-XV, n. 1322, concernente la sistemazione in ruolo di alcuni gruppi di personale insegnante assunto in servizio a titolo provvisorio. (041U0631)"
+urn: urn:nir:stato:regio.decreto:1941-02-20;631
+codice_redazionale: 041U0631
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -36,35 +34,26 @@ Udito il parere del Consiglio superiore coloniale, in data 8 maggio 1939-XVII;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'Africa Italiana, di concerto con i Ministri Segretari di Stato per l'educazione nazionale e per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per l'Africa Italiana, di concerto con i Ministri Segretari di Stato per l'educazione nazionale e per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Le norme contenute negli articoli 2, 3 e 4 del R. decreto-legge 8 luglio 1937-XV, n. 1322, sono applicabili anche per le nomine da effettuare nel ruolo dei maestri elementari dell'Africa italiana a quei maestri che, alla data del 30 giugno 1938-XVI, abbiano compiuto un servizio complessivo, anche non continuativo di cinque anni come provvisori o supplenti nelle scuole elementari pubbliche, anche se alla stessa data non fossero piu' in servizio, purche' abbiano prestato nelle scuole elementari governative dell'Africa italiana un servizio di qualunque durata nel biennio scolastico 1936-37 e 1937-38.
 
-  
-  
-Le norme contenute negli articoli 2, 3 e 4 del R. decreto-legge 8 luglio 1937-XV, n. 1322, sono applicabili anche per le nomine da effettuare nel ruolo dei maestri elementari dell'Africa italiana a quei maestri che, alla data del 30 giugno 1938-XVI, abbiano compiuto un servizio complessivo, anche non continuativo di cinque anni come provvisori o supplenti nelle scuole elementari pubbliche, anche se alla stessa data non fossero piu' in servizio, purche' abbiano prestato nelle scuole elementari governative dell'Africa italiana un servizio di qualunque durata nel biennio scolastico 1936-37 e 1937-38.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Lo speciale concorso da indirsi solo per scuole di IV categoria a' termini dell'articolo precedente, si svolgera', secondo le norme stabilite dal [R. decreto 22 novembre 1937, n 1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-11-22;1998), intendendosi sostituito al Ministro per l'educazione nazionale ed ai provveditori agli studi il Ministro per l'Africa Italiana.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 20 febbraio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Teruzzi - Bottai - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 12 luglio 1941-XIX   
-  
-Atti del Governo, registro 435, foglio 31. - Mancini   
+Lo speciale concorso da indirsi solo per scuole di IV categoria a' termini dell'articolo precedente, si svolgera', secondo le norme stabilite dal [R. decreto 22 novembre 1937, n 1998](Norme%20per%20lesecuzione%20dellart.%202%20del%20R.%20decreto-legge%208%20luglio%201937-XV%20n.%201322%20relativo%20alla%20sistemazione%20in%20ruolo%20di%20taluni%20gruppi%20di%20personale%20insegnante%20a%20titolo%20provvisorio.%20037U1998.md), intendendosi sostituito al Ministro per l'educazione nazionale ed ai provveditori agli studi il Ministro per l'Africa Italiana. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 20 febbraio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Teruzzi - Bottai - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 12 luglio 1941-XIX 
+ 
+ Atti del Governo, registro 435, foglio 31. - Mancini

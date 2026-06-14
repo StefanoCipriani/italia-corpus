@@ -1,18 +1,15 @@
-REGIO DECRETO 06 giugno 1912 n. 595
+---
+tipo: REGIO DECRETO
+numero: 595
+data: 1912-06-06
+titolo: "Approvazione dell'applicazione di tassa di famiglia. (012U0595)"
+urn: urn:nir:stato:regio.decreto:1912-06-06;595
+codice_redazionale: 012U0595
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 giugno 1912 n. 595
-===================================
-
-Approvazione dell'applicazione di tassa di famiglia. (012U0595)
----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/07/1912
-
-Art. 1
-------
-
-  
-N. 595   
-  
-Regio Decreto 6 giugno 1912, col quale, sulla proposta del ministro delle finanze, viene approvato il regolamento per l'applicazione della tassa di famiglia nei comuni della provincia di Macerata, deliberato da quella Giunta provinciale amministrativa nelle adunanze 30 ottobre e 27 novembre 1911, in sostituzione del regolamento approvato con R. decreto 21 luglio 1904, n, 311.   
+N. 595 
+ 
+ Regio Decreto 6 giugno 1912, col quale, sulla proposta del ministro delle finanze, viene approvato il regolamento per l'applicazione della tassa di famiglia nei comuni della provincia di Macerata, deliberato da quella Giunta provinciale amministrativa nelle adunanze 30 ottobre e 27 novembre 1911, in sostituzione del regolamento approvato con R. decreto 21 luglio 1904, n, 311.

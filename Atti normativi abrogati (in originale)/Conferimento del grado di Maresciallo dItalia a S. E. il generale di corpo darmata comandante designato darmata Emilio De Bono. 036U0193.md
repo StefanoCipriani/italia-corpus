@@ -1,16 +1,14 @@
-REGIO DECRETO-LEGGE 16 gennaio 1936 n. 193
-
-
-REGIO DECRETO-LEGGE 16 gennaio 1936 n. 193
-==========================================
-
-Conferimento del grado di Maresciallo d'Italia a S. E. il generale di corpo d'armata, comandante designato d'armata, Emilio De Bono. (036U0193)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/03/1936. Regio Decreto-Legge convertito dalla [L. 10 aprile 1936, n. 766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-04-10;766) (in G.U. 11/05/1936, n.109).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 193
+data: 1936-01-16
+titolo: "Conferimento del grado di Maresciallo d'Italia a S. E. il generale di corpo d'armata, comandante designato d'armata, Emilio De Bono. (036U0193)"
+urn: urn:nir:stato:regio.decreto.legge:1936-01-16;193
+codice_redazionale: 036U0193
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,31 +26,25 @@ Visto l'art. 3, n. 2, della legge 31 gennaio 1926-IV, n. 100;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, di concerto col Ministro Segretario di Stato per le finanze; Abbiano decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, di concerto col Ministro Segretario di Stato per le finanze; Abbiano decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al generale di corpo d'armata in aspettativa per riduzione di quadri Emilio De Bono, richiamato in servizio con rango di comandante designato d'armata, e' conferito il grado di Maresciallo d'Italia a decorrere, a tutti gli effetti, dal 16 novembre 1935-XIV.   
-  
-Al predetto Maresciallo d'Italia spetta il trattamento economico e di stato che compete attualmente ail pari grado nominati con R. decreto-legge 17 giugno 1926-IV, n. 1038, convertito in legge con la legge 10 aprile 1927-V, n. 579.   
-  
-Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regna d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 gennaio 1936 - Anno XIV   
-  
-Vittorio Emanuele.   
-  
-Mussolini - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 18 febbraio 1936 - Anno XIV   
-Atti del Governo, registro 369, foglio 69. - Mancini.   
+Al generale di corpo d'armata in aspettativa per riduzione di quadri Emilio De Bono, richiamato in servizio con rango di comandante designato d'armata, e' conferito il grado di Maresciallo d'Italia a decorrere, a tutti gli effetti, dal 16 novembre 1935-XIV. 
+ 
+ Al predetto Maresciallo d'Italia spetta il trattamento economico e di stato che compete attualmente ail pari grado nominati con R. decreto-legge 17 giugno 1926-IV, n. 1038, convertito in legge con la legge 10 aprile 1927-V, n. 579. 
+ 
+ Il presente decreto sara' presentato al Parlamento per la sua conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regna d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 gennaio 1936 - Anno XIV 
+ 
+ Vittorio Emanuele. 
+ 
+ Mussolini - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 18 febbraio 1936 - Anno XIV  
+ Atti del Governo, registro 369, foglio 69. - Mancini.

@@ -1,17 +1,17 @@
-REGIO DECRETO 19 settembre 1921 n. 1403
+---
+tipo: REGIO DECRETO
+numero: 1403
+data: 1921-09-19
+titolo: "Tassa di soggiorno. (021U1403)"
+urn: urn:nir:stato:regio.decreto:1921-09-19;1403
+codice_redazionale: 021U1403
+vigente: true
+---
 
-
-REGIO DECRETO 19 settembre 1921 n. 1403
-=======================================
-
-Tassa di soggiorno. (021U1403)
-------------------------------
-
-Entrata in vigore del provvedimento: 09/11/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1403. Regio decreto 19 settembre 1921, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il comune di Civiasco (Novara), viene autorizzato ad applicare la tassa di soggiorno, e se ne omologa il regolamento.
+1403.
+
+Regio decreto 19 settembre 1921, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il comune di Civiasco (Novara), viene autorizzato ad applicare la tassa di soggiorno, e se ne omologa il regolamento.

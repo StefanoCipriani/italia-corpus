@@ -1,16 +1,14 @@
-REGIO DECRETO 07 luglio 1892 n. 387
-
-
-REGIO DECRETO 07 luglio 1892 n. 387
-===================================
-
-Che autorizza la provincia di Pesaro-Urbino e i comuni e frazioni di comuni indicati nell'annesso elenco ad eccedere, colla sovrimposta, ai tributi diretti per l'anno 1892, il limite medio raggiunto nel triennio 1884-85-86 od il limite legale; e respinge simili domande di altri comuni (092U0387)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/08/1892
+---
+tipo: REGIO DECRETO
+numero: 387
+data: 1892-07-07
+titolo: "Che autorizza la provincia di Pesaro-Urbino e i comuni e frazioni di comuni indicati nell'annesso elenco ad eccedere, colla sovrimposta, ai tributi diretti per l'anno 1892, il limite medio raggiunto nel triennio 1884-85-86 od il limite legale; e respinge simili domande di altri comuni (092U0387)"
+urn: urn:nir:stato:regio.decreto:1892-07-07;387
+codice_redazionale: 092U0387
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,55 +22,32 @@ Visto il progetto di legge all'uopo compilato e che venne presentato alla Camera
 
 Visti i bilanci e tutti gli atti che li corredano;
 
-Viste le [leggi 1° marzo 1886 n. 3682 e 26 luglio 1888 n. 5617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-07-26;5617);
+Viste le [leggi 1° marzo 1886 n. 3682 e 26 luglio 1888 n. 5617](Che%20autorizza%20i%20comuni%20di%20Montorio%20nei%20Frentani%20Riccia%20Agnone%20Campobasso%20e%20S.%20Giovanni%20la%20Punta%20Catania%20di%20eccedere%20colla%20sovraimposta%20ai%20tributi%20diretti%20il%20limite%20medio%20raggiunto%20nel%20tri_21417c495b4e.md);
 
-Udito
------
+Udito il parere del Consiglio di Stato; Abbiamo decretato e decretiamo:
 
-il parere del Consiglio di Stato; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono respinte le domande dei comuni di Strevi, Contra, Minoprio, Semiana e Mazzano Romano.
 
-  
-  
-Sono respinte le domande dei comuni di Strevi, Contra, Minoprio, Semiana e Mazzano Romano.   
+## Art. 2.
 
-Art. 2
-------
+Sono pure respinte le domande dei comuni di Forno Canale, Gambatesa, Perlas-de Fogu, Busalla, Bocchigliero, Calice Ligure, Ceriana, Colle Sannita e Carrara, mandandole riprodurre all'epoca della riapertura del Parlamento.
 
-  
-  
-Sono pure respinte le domande dei comuni di Forno Canale, Gambatesa, Perlas-de Fogu, Busalla, Bocchigliero, Calice Ligure, Ceriana, Colle Sannita e Carrara, mandandole riprodurre all'epoca della riapertura del Parlamento.   
+## Art. 3.
 
-Art. 3
-------
+La provincia di Pesaro-Urbino e i comuni e frazioni di comune, indicati nell'elenco che segue, sono autorizzati ad eccedere, colla sovrimposta, ai tributi diretti per l'anno 1892, il limite medio rispettivamente raggiunto nel triennio 1884-85-86, od il limite legale, applicandola sullo ammontare fissato per ciascun comune o frazione, nello elenco medesimo.
 
-  
-  
-La provincia di Pesaro-Urbino e i comuni e frazioni di comune, indicati nell'elenco che segue, sono autorizzati ad eccedere, colla sovrimposta, ai tributi diretti per l'anno 1892, il limite medio rispettivamente raggiunto nel triennio 1884-85-86, od il limite legale, applicandola sullo ammontare fissato per ciascun comune o frazione, nello elenco medesimo.   
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Il presente decreto sara' sottoposto al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 luglio 1892.   
-  
-UMBERTO.   
-  
-Giolitti.   
-  
-Visto, Il Guardasigilli: Bonacci.   
-
-Elenco
-
-  
-Elenco allegato al [R. decreto N. 387 del 7 luglio 1892](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-07-07;387).   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=092U038700100010110001&dgu=1892-08-10&art.dataPubblicazioneGazzetta=1892-08-10&art.codiceRedazionale=092U0387)
-  
+Il presente decreto sara' sottoposto al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 luglio 1892. 
+ 
+ UMBERTO. 
+ 
+ Giolitti. 
+ 
+ Visto, Il Guardasigilli: Bonacci.

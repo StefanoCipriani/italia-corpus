@@ -1,38 +1,34 @@
-LEGGE 23 febbraio 1931 n. 241
+---
+tipo: LEGGE
+numero: 241
+data: 1931-02-23
+titolo: "Conversione in legge del R. decreto-legge 19 maggio 1930, n. 774, che provvede a vietare per un quinquennio l'apertura di nuovi negozi per la vendita di generi alimentari, nonche' ad abolire i calmieri. (031U0241)"
+urn: urn:nir:stato:legge:1931-02-23;241
+codice_redazionale: 031U0241
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 23 febbraio 1931 n. 241
-=============================
-
-Conversione in legge del R. decreto-legge 19 maggio 1930, n. 774, che provvede a vietare per un quinquennio l'apertura di nuovi negozi per la vendita di generi alimentari, nonche' ad abolire i calmieri. (031U0241)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/03/1931
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
-RE D'ITALIA   
-  
-Il Senato e la Camera dei deputati hanno approvato;   
-  
-Noi abbiamo sanzionato e promulghiamo quanto segue:   
-  
-Articolo unico.   
-  
-E' convertito in legge il [R. decreto-legge 19 maggio 1930, n. 774](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-05-19;774), che provvede a vietare, per la durata di un quinquennio, l'apertura di nuovi negozi per la vendita di generi alimentari, nonche' ad abolire i calmieri.   
-  
-Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Roma, addi' 23 febbraio 1931 - Anno IX   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Rocco - Mosconi   
-- Acerbo - Bottai.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
+VITTORIO EMANUELE III 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ RE D'ITALIA 
+ 
+ Il Senato e la Camera dei deputati hanno approvato; 
+ 
+ Noi abbiamo sanzionato e promulghiamo quanto segue: 
+ 
+ Articolo unico. 
+ 
+ E' convertito in legge il [R. decreto-legge 19 maggio 1930, n. 774](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-05-19;774), che provvede a vietare, per la durata di un quinquennio, l'apertura di nuovi negozi per la vendita di generi alimentari, nonche' ad abolire i calmieri. 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Roma, addi' 23 febbraio 1931 - Anno IX 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Rocco - Mosconi 
+ - Acerbo - Bottai. 
+ 
+ Visto, il Guardasigilli: Rocco.

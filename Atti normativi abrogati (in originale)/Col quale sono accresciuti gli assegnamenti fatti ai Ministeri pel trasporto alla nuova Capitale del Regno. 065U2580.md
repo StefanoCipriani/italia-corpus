@@ -1,16 +1,14 @@
-REGIO DECRETO 19 ottobre 1865 n. 2580
-
-
-REGIO DECRETO 19 ottobre 1865 n. 2580
-=====================================
-
-Col quale sono accresciuti gli assegnamenti fatti ai Ministeri pel trasporto alla nuova Capitale del Regno. (065U2580)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/11/1865
+---
+tipo: REGIO DECRETO
+numero: 2580
+data: 1865-10-19
+titolo: "Col quale sono accresciuti gli assegnamenti fatti ai Ministeri pel trasporto alla nuova Capitale del Regno. (065U2580)"
+urn: urn:nir:stato:regio.decreto:1865-10-19;2580
+codice_redazionale: 065U2580
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,40 +20,30 @@ Visti i Regii Decreti 11 dicembre 1861, n.° 2056, e 21 febbraio 1865, n.° 2165
 
 Attesa la rappresentata insufficienza per parte di alcuni Ministeri della parte di fondo ai medesimi assegnata per l'oggetto anzidetto;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze, previa deliberazione del Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Ministro delle Finanze, previa deliberazione del Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+Gli assegnamenti fatti agli infraindicati Ministeri col riparto stabilito dal R. Decreto 21 febbraio 1865, n.° 2165, ed inscritti nella parte straordinaria del Bilancio 1865 pel pagamento delle indennita' di trasferta agli Impiegati, e della spesa per il trasporto dei mobili ad uso degli Uffici dell'Amministrazione centrale, sono accresciuti delle seguenti somme: 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ diconsi lire cinquecento trentasette mila ottocento cinquantacinque e centesimi cinquantanove.
 
-  
-  
-Gli assegnamenti fatti agli infraindicati Ministeri col riparto stabilito dal R. Decreto 21 febbraio 1865, n.° 2165, ed inscritti nella parte straordinaria del Bilancio 1865 pel pagamento delle indennita' di trasferta agli Impiegati, e della spesa per il trasporto dei mobili ad uso degli Uffici dell'Amministrazione centrale, sono accresciuti delle seguenti somme:   
-  
-Parte di provvedimento in formato grafico  
-  
-diconsi lire cinquecento trentasette mila ottocento cinquantacinque e centesimi cinquantanove.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il fondo di L. 3,800,000 rimasto assegnato al capitolo 58 del Bilancio 1865 del Ministero dei Lavori pubblici per le spese del trasporto della Capitale da Torino a Firenze sara' diminuito di una somma eguale a quella nuovamente distribuita ai vari Ministeri come nel precedente articolo, e restera' cosi' ridotto a lire tre milioni duecento sessantadue mila cento quarantaquattro e centesimi quarantuno (L. 3,262,144.41).   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 19 ottobre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 30 ottobre 1865   
-  
-Reg.° 34 Atti del Governo a c. 39. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Quintino Sella.   
-  
+Il fondo di L. 3,800,000 rimasto assegnato al capitolo 58 del Bilancio 1865 del Ministero dei Lavori pubblici per le spese del trasporto della Capitale da Torino a Firenze sara' diminuito di una somma eguale a quella nuovamente distribuita ai vari Ministeri come nel precedente articolo, e restera' cosi' ridotto a lire tre milioni duecento sessantadue mila cento quarantaquattro e centesimi quarantuno (L. 3,262,144.41). 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 19 ottobre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 30 ottobre 1865 
+ 
+ Reg.° 34 Atti del Governo a c. 39. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Quintino Sella.

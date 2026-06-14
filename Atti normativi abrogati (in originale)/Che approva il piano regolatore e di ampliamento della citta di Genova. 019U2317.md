@@ -1,24 +1,22 @@
-REGIO DECRETO 25 novembre 1919 n. 2317
-
-
-REGIO DECRETO 25 novembre 1919 n. 2317
-======================================
-
-Che approva il piano regolatore e di ampliamento della citta' di Genova. (019U2317)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/01/1920
+---
+tipo: REGIO DECRETO
+numero: 2317
+data: 1919-11-25
+titolo: "Che approva il piano regolatore e di ampliamento della citta' di Genova. (019U2317)"
+urn: urn:nir:stato:regio.decreto:1919-11-25;2317
+codice_redazionale: 019U2317
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359) sulle espropriazioni a causa di pubblica utilita';
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md) sulle espropriazioni a causa di pubblica utilita';
 
-Vista la [legge 28 giugno 1914, n. 667](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-06-28;667), che approvo' il piano regolatore di ampliamento di Genova nella regione di Albaro;
+Vista la [legge 28 giugno 1914, n. 667](Che%20approva%20il%20piano%20regolatore%20di%20Genova%20nella%20regione%20di%20Albaro.%20014U0667.md), che approvo' il piano regolatore di ampliamento di Genova nella regione di Albaro;
 
 Ritenuto che quel Comune ha redatto un progetto per l'attuazione del piano nella zona di via Rodi e adiacenze, riguardante cosi' la viabilita' come gli scomparti fabbricabili;
 
@@ -48,41 +46,26 @@ Che il giudizio sugli altri motivi addotti dagli opponenti spetta ad altra sede,
 
 Uditi il Consiglio superiore dei lavori pubblici ed il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvato il progetto redatto a cura del comune di Genova per l'esecuzione nei riguardi della viabilita' e degli scomparti fabbricabili del piano regolatore e di ampliamento della citta' nella regione di Albaro, con varianti al piano stesso e con l'espropriazione delle due aree di proprieta' Giustiniani e Viganego.
 
-  
-  
-E' approvato il progetto redatto a cura del comune di Genova per l'esecuzione nei riguardi della viabilita' e degli scomparti fabbricabili del piano regolatore e di ampliamento della citta' nella regione di Albaro, con varianti al piano stesso e con l'espropriazione delle due aree di proprieta' Giustiniani e Viganego.   
-  
+## Art. 2.
 
-Art. 2
-------
+Il progetto sara' vistato d'ordine Nostro, dal ministro proponente nella planimetria, nel piano parcellare e nell'elenco che lo compongono.
 
-  
-  
-Il progetto sara' vistato d'ordine Nostro, dal ministro proponente nella planimetria, nel piano parcellare e nell'elenco che lo compongono.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Per l'esecuzione del piano di Albaro resta fermo il termine fissato con la [legge 28 giugno 1914, n. 667](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-06-28;667).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 novembre 1919.   
-  
-VITTORIO EMANUELE.   
-  
-PANTANO.   
-  
-Visto, Il guardasigilli: MORTARA.   
-  
+Per l'esecuzione del piano di Albaro resta fermo il termine fissato con la [legge 28 giugno 1914, n. 667](Che%20approva%20il%20piano%20regolatore%20di%20Genova%20nella%20regione%20di%20Albaro.%20014U0667.md). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 novembre 1919. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ PANTANO. 
+ 
+ Visto, Il guardasigilli: MORTARA.

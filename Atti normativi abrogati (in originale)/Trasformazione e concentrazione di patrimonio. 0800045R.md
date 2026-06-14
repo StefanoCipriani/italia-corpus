@@ -1,19 +1,15 @@
-REGIO DECRETO 30 gennaio 1908 n. XLV
+---
+tipo: REGIO DECRETO
+numero: XLV
+data: 1908-01-30
+titolo: "Trasformazione e concentrazione di patrimonio. (0800045R)"
+urn: urn:nir:stato:regio.decreto:1908-01-30;45
+codice_redazionale: 0800045R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 gennaio 1908 n. XLV
-====================================
-
-Trasformazione e concentrazione di patrimonio. (0800045R)
----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/03/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. XLV (Dato a Roma, il 30 gennaio 1908), col quale la confraternita di Santa Maria della Purita' di Gallipoli (Lecce) e' stata trasformata a favore del Ricovero di mendicita' e vecchiaia, amministrato dalla locale Congregazione di carita'.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. XLV (Dato a Roma, il 30 gennaio 1908), col quale la confraternita di Santa Maria della Purita' di Gallipoli (Lecce) e' stata trasformata a favore del Ricovero di mendicita' e vecchiaia, amministrato dalla locale Congregazione di carita'.

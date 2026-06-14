@@ -1,19 +1,15 @@
-REGIO DECRETO 08 novembre 1914 n. 1281
+---
+tipo: REGIO DECRETO
+numero: 1281
+data: 1914-11-08
+titolo: "Applicazione di tassa sul bestiame. (014U1281)"
+urn: urn:nir:stato:regio.decreto:1914-11-08;1281
+codice_redazionale: 014U1281
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 novembre 1914 n. 1281
-======================================
-
-Applicazione di tassa sul bestiame. (014U1281)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 11/12/1914
-
-Art. 1
-------
-
-  
-N. 1281   
-  
-Regio Decreto 8 novembre 1914, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Ferrara di applicare, nell'anno 1914, la tassa sul bestiame col limite massimo deliberato il 9 febbraio 1914.   
-  
+N. 1281 
+ 
+ Regio Decreto 8 novembre 1914, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Ferrara di applicare, nell'anno 1914, la tassa sul bestiame col limite massimo deliberato il 9 febbraio 1914.

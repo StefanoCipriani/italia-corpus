@@ -1,24 +1,22 @@
-REGIO DECRETO 10 settembre 1895 n. 584
-
-
-REGIO DECRETO 10 settembre 1895 n. 584
-======================================
-
-Che autorizza un decimo prelevamento di somma da ripartirsi in aumento ai fondi residui dei diversi capitoli del Bilancio dei Lavori Pubblici, esercizio 1894-95, relativi alla costruzione delle strade ferrate complementari (095U0584)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/10/1895
+---
+tipo: REGIO DECRETO
+numero: 584
+data: 1895-09-10
+titolo: "Che autorizza un decimo prelevamento di somma da ripartirsi in aumento ai fondi residui dei diversi capitoli del Bilancio dei Lavori Pubblici, esercizio 1894-95, relativi alla costruzione delle strade ferrate complementari (095U0584)"
+urn: urn:nir:stato:regio.decreto:1895-09-10;584
+codice_redazionale: 095U0584
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'[articolo 3 della legge 12 luglio 1894, n. 318](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-12;318~art3);
+Visto l'[articolo 3 della legge 12 luglio 1894, n. 318](Ripartizioni%20delle%20somme%20per%20le%20costruzioni%20ferroviarie.%20094U0318.md);
 
-Visto l'articolo 38 del testo unico della legge per l'amministrazione e la contabilita' generale dello Stato, approvato con [R. Decreto 17 febbraio 1884, n. 2016](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016);
+Visto l'articolo 38 del testo unico della legge per l'amministrazione e la contabilita' generale dello Stato, approvato con [R. Decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md);
 
 Ritenuto che il complessivo fondo approvato al n. 81 della tabella annessa alla succitata legge 12 luglio 1894 per aumenti di liquidazione, per transazioni di vertenze, per interessi e per altre maggiori spese impreviste relative alle ferrovie complementari ed ai titoli di spesa descritti nell'anzidetta tabella, ammonta alla somma di lire 28,555,128, delle quali lire 16,463,503 per l'esercizio finanziario 1893-1894 e lire 12,091,625 per il 1894-95;
 
@@ -32,28 +30,22 @@ Che occorre di provvedere al pagamento di altre spese relative alla costruzione 
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal fondo complessivo di lire 28,555,128 approvato per gli esercizi finanziari 1893-94 e 1894-95 al n. 81 della tabella unita alla [legge 12 luglio 1894 n. 318](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-12;318) e' autorizzato un decimo prelevamento di lire cinquecentottantottomila trecentottantanove e centesimi ottantatre (lire 588,389,83) che verra' ripartito in aumento ai fondi residui dell'esercizio 1894-95 per le linee di cui nella seguente tabella:   
-  
-Parte di provvedimento in formato grafico  
-  
-Questo Decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 10 settembre 1895.   
-  
-UMBERTO   
-  
-G. Saracco.   
-  
-Visto, Il Guardasigilli: V. Calenda di Tavani.   
+Dal fondo complessivo di lire 28,555,128 approvato per gli esercizi finanziari 1893-94 e 1894-95 al n. 81 della tabella unita alla [legge 12 luglio 1894 n. 318](Ripartizioni%20delle%20somme%20per%20le%20costruzioni%20ferroviarie.%20094U0318.md) e' autorizzato un decimo prelevamento di lire cinquecentottantottomila trecentottantanove e centesimi ottantatre (lire 588,389,83) che verra' ripartito in aumento ai fondi residui dell'esercizio 1894-95 per le linee di cui nella seguente tabella: 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ Questo Decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 10 settembre 1895. 
+ 
+ UMBERTO 
+ 
+ G. Saracco. 
+ 
+ Visto, Il Guardasigilli: V. Calenda di Tavani.

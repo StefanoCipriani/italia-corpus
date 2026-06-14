@@ -1,16 +1,13 @@
-REGIO DECRETO 19 gennaio 1908 n. IX
+---
+tipo: REGIO DECRETO
+numero: IX
+data: 1908-01-19
+titolo: "Applicazione di tassa di famiglia. (0800009R)"
+urn: urn:nir:stato:regio.decreto:1908-01-19;9
+codice_redazionale: 0800009R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 gennaio 1908 n. IX
-===================================
-
-Applicazione di tassa di famiglia. (0800009R)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 27/02/1908
-
-Art. 1
-------
-
-  
-N. IX (Dato a Roma, il 19 gennaio 1908), col quale e' data facolta' al comune di Correggi, di applicare agli effetti dell'anno 1907 la tassa di famiglia, col limite massimo di L. 359 (trecentocinquanta).   
+N. IX (Dato a Roma, il 19 gennaio 1908), col quale e' data facolta' al comune di Correggi, di applicare agli effetti dell'anno 1907 la tassa di famiglia, col limite massimo di L. 359 (trecentocinquanta).

@@ -1,21 +1,21 @@
-REGIO DECRETO 02 dicembre 1923 n. 2624
+---
+tipo: REGIO DECRETO
+numero: 2624
+data: 1923-12-02
+titolo: "Approvazione dello statuto delle «Opere ecclesiastiche di Montepulciano». (023U2624)"
+urn: urn:nir:stato:regio.decreto:1923-12-02;2624
+codice_redazionale: 023U2624
+vigente: true
+---
 
-
-REGIO DECRETO 02 dicembre 1923 n. 2624
-======================================
-
-Approvazione dello statuto delle «Opere ecclesiastiche di Montepulciano». (023U2624)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/01/1924
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2624. R. decreto 2 dicembre 1923, col quale, sulla proposta del Ministro per la giustizia e gli affari di culto, viene approvato lo statuto organico relativo alle «Opere ecclesiastiche di Montepulciano».   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 13 dicembre 1923.
+2624.
+
+R. decreto 2 dicembre 1923, col quale, sulla proposta del Ministro per la giustizia e gli affari di culto, viene approvato lo statuto organico relativo alle «Opere ecclesiastiche di Montepulciano». 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 13 dicembre 1923.

@@ -1,16 +1,14 @@
-REGIO DECRETO 22 marzo 1903 n. 150
-
-
-REGIO DECRETO 22 marzo 1903 n. 150
-==================================
-
-Che modifica il disciplinare unito al R. decreto 18 luglio 1903, n. 567, sul Consorzio del Gorzon. (003U0150)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/05/1903
+---
+tipo: REGIO DECRETO
+numero: 150
+data: 1903-03-22
+titolo: "Che modifica il disciplinare unito al R. decreto 18 luglio 1903, n. 567, sul Consorzio del Gorzon. (003U0150)"
+urn: urn:nir:stato:regio.decreto:1903-03-22;150
+codice_redazionale: 003U0150
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -36,35 +34,24 @@ Visto il rapporto 10 settembre 1902, n. 1411, col quale l'ispettore del Genio ci
 
 Udito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il primo comma dell'art. 12 del disciplinare unito al [R. decreto 18 luglio 1893, n. 567](Che%20concede%20al%20Consorzio%20Gordon%20Medio%20Padova%20la%20esecuzione%20delle%20opere%20di%20bonificamento%20del%20suo%20territorio.%20093U0567.md), rimane modificato nel modo seguente: 
+ 
+ «Il livello di piena in Gorzon fino al quale sara' permessa l'azione delle idrovore, e' definitivamente stabilito a metri due e cinquanta sopra il segno di guardia dell'idrometro d'Anguillara. Il Consorzio di Gorzon medio dovra' pero' sospendere ogni scarico d'acqua nel fiume anche ad un livello piu' basso dell'anzidetto limite, tostoche' ne riceva ordine dall'Ufficio del Genio civile di Este e dai dipendenti funzionari».
 
-  
-  
-Il primo comma dell'art. 12 del disciplinare unito al [R. decreto 18 luglio 1893, n. 567](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-07-18;567), rimane modificato nel modo seguente:   
-  
-«Il livello di piena in Gorzon fino al quale sara' permessa l'azione delle idrovore, e' definitivamente stabilito a metri due e cinquanta sopra il segno di guardia dell'idrometro d'Anguillara. Il Consorzio di Gorzon medio dovra' pero' sospendere ogni scarico d'acqua nel fiume anche ad un livello piu' basso dell'anzidetto limite, tostoche' ne riceva ordine dall'Ufficio del Genio civile di Este e dai dipendenti funzionari».   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' respinto il reclamo 6 agosto 1902 presentato dal Comune di Villa Estense contro la domanda del consorzio di Gorzon medio per la modifica dell'art. 12 del detto disciplinare.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 marzo 1903.   
-  
-VITTORIO EMANUELE.   
-  
-Balenzano.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.   
-  
+E' respinto il reclamo 6 agosto 1902 presentato dal Comune di Villa Estense contro la domanda del consorzio di Gorzon medio per la modifica dell'art. 12 del detto disciplinare. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 marzo 1903. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Balenzano. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

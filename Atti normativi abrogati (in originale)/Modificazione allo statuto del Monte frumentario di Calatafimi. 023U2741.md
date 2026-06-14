@@ -1,21 +1,17 @@
-REGIO DECRETO 09 dicembre 1923 n. 2741
+---
+tipo: REGIO DECRETO
+numero: 2741
+data: 1923-12-09
+titolo: "Modificazione allo statuto del Monte frumentario di Calatafimi. (023U2741)"
+urn: urn:nir:stato:regio.decreto:1923-12-09;2741
+codice_redazionale: 023U2741
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 dicembre 1923 n. 2741
-======================================
-
-Modificazione allo statuto del Monte frumentario di Calatafimi. (023U2741)
---------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/01/1924
-
-Art. 1
-------
-
-  
-N. 2741 R. decreto 9 novembre 1923, col quale, sulla proposta del Ministro per l'economia nazionale, vengono apportate modificazioni al vigente statuto del Monte frumentario di Calatafimi.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 28 dicembre 1923.   
-  
+N. 2741 R. decreto 9 novembre 1923, col quale, sulla proposta del Ministro per l'economia nazionale, vengono apportate modificazioni al vigente statuto del Monte frumentario di Calatafimi. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 28 dicembre 1923.

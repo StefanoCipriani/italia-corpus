@@ -1,21 +1,17 @@
-REGIO DECRETO 05 dicembre 1901 n. CCCLIV
+---
+tipo: REGIO DECRETO
+numero: CCCLIV
+data: 1901-12-05
+titolo: "Che trasforma il conservatorio della SS. Annunziata in Aquila a favore di quell'ospedale. (0100354R)"
+urn: urn:nir:stato:regio.decreto:1901-12-05;354
+codice_redazionale: 0100354R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 dicembre 1901 n. CCCLIV
-========================================
-
-Che trasforma il conservatorio della SS. Annunziata in Aquila a favore di quell'ospedale. (0100354R)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/01/1902
-
-Art. 1
-------
-
-  
-Con cui il conservatorio della SS. Annunziata di Aquila viene trasformato a favore dell'ospedale civile e del conservatorio della Misericordia di quella citta'. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 16 dicembre 1901.   
-  
-Reg. 231. Atti del Governo a f. 191.   
-  
+Con cui il conservatorio della SS. Annunziata di Aquila viene trasformato a favore dell'ospedale civile e del conservatorio della Misericordia di quella citta'. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 16 dicembre 1901. 
+ 
+ Reg. 231. Atti del Governo a f. 191.

@@ -1,16 +1,14 @@
-REGIO DECRETO 22 ottobre 1936 n. 2156
-
-
-REGIO DECRETO 22 ottobre 1936 n. 2156
-=====================================
-
-Varianti alle norme sulle licenze ordinarie al personale del Regio corpo di truppe coloniali della Libia. (036U2156)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/01/1937
+---
+tipo: REGIO DECRETO
+numero: 2156
+data: 1936-10-22
+titolo: "Varianti alle norme sulle licenze ordinarie al personale del Regio corpo di truppe coloniali della Libia. (036U2156)"
+urn: urn:nir:stato:regio.decreto:1936-10-22;2156
+codice_redazionale: 036U2156
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,31 +28,25 @@ Udito il parere del Consiglio superiore coloniale;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per le colonie, di concerto con i Ministri Segretari di Stato per la guerra o per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per le colonie, di concerto con i Ministri Segretari di Stato per la guerra o per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-- Ai militari nazionali del Regio Corpo di truppe coloniali della Libia che, per ragioni di mobilitazione o per successive condizioni da essa dipendenti, nel periodo dal 1° ottobre 1935-XIII al 30 giugno 1937-XV, non abbiano potuto o non possano fruire della licenza ordinaria nel termine previsto dagli ordinamenti vigenti, la licenza potra' essere concessa nel biennio seguente a quello cui si riferisce senza pregiudizio della concessione delle licenze ulteriori.   
-  
-E' consentito il cumulo delle licenze o dei residui di esse solo in caso che il militare non sia stato inviato, in licenza o sia stato richiamato da quella che fruiva per le accertate ragioni e condizioni di cui al comma precedente.   
-  
-La licenza s'intendera' concessa, per tutta o parte della durata, ai soli effetti amministrativi, se il militare prima della scadenza di essa debba rientrare nei quadri metropolitani per particolari esigenze o debba cessare dal servizio per congedamento od altro motivo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 22 ottobre 1936 - Anno XIV   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 28 dicembre 1936 - Anno XV   
-Atti del Governo, registro 380, foglio 139. - Mancini.   
+- Ai militari nazionali del Regio Corpo di truppe coloniali della Libia che, per ragioni di mobilitazione o per successive condizioni da essa dipendenti, nel periodo dal 1° ottobre 1935-XIII al 30 giugno 1937-XV, non abbiano potuto o non possano fruire della licenza ordinaria nel termine previsto dagli ordinamenti vigenti, la licenza potra' essere concessa nel biennio seguente a quello cui si riferisce senza pregiudizio della concessione delle licenze ulteriori. 
+ 
+ E' consentito il cumulo delle licenze o dei residui di esse solo in caso che il militare non sia stato inviato, in licenza o sia stato richiamato da quella che fruiva per le accertate ragioni e condizioni di cui al comma precedente. 
+ 
+ La licenza s'intendera' concessa, per tutta o parte della durata, ai soli effetti amministrativi, se il militare prima della scadenza di essa debba rientrare nei quadri metropolitani per particolari esigenze o debba cessare dal servizio per congedamento od altro motivo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 22 ottobre 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 28 dicembre 1936 - Anno XV  
+ Atti del Governo, registro 380, foglio 139. - Mancini.

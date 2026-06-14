@@ -1,19 +1,15 @@
-REGIO DECRETO 22 dicembre 1904 n. DLV
+---
+tipo: REGIO DECRETO
+numero: DLV
+data: 1904-12-22
+titolo: "Erezione in ente morale. (0400555R)"
+urn: urn:nir:stato:regio.decreto:1904-12-22;555
+codice_redazionale: 0400555R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 dicembre 1904 n. DLV
-=====================================
-
-Erezione in ente morale. (0400555R)
------------------------------------
-
-Entrata in vigore del provvedimento: 21/02/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. DLV (Dato a Roma, il 22 dicembre 1904), col quale si erige in ente morale e si concentra nella Congregazione di carita' di Palestro (Pavia) il lascito elemosiniero Vintebbio.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. DLV (Dato a Roma, il 22 dicembre 1904), col quale si erige in ente morale e si concentra nella Congregazione di carita' di Palestro (Pavia) il lascito elemosiniero Vintebbio.

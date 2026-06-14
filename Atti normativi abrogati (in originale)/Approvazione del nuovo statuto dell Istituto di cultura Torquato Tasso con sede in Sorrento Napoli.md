@@ -1,18 +1,20 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 15 ottobre 1947 n. 1391
+---
+tipo: DECRETO DEL CAPO PROVVISORIO DELLO STATO
+numero: 1391
+data: 1947-10-15
+titolo: "Approvazione del nuovo statuto dell' Istituto di cultura \"Torquato Tasso\", con sede in Sorrento (Napoli)."
+urn: urn:nir:stato:decreto.del.capo.provvisorio.dello.stato:1947-10-15;1391
+codice_redazionale: 047U1391
+vigente: true
+---
 
-
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 15 ottobre 1947 n. 1391
-================================================================
-
-Approvazione del nuovo statuto dell' Istituto di cultura "Torquato Tasso", con sede in Sorrento (Napoli).
----------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1391. Decreto del Capo provvisorio dello Stato 15 ottobre 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto dell'Istituto di cultura "Torquato Tasso", con sede in Sorrento (Napoli).  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei conti, addi' 6 dicembre 1947
+1391.
+
+Decreto del Capo provvisorio dello Stato 15 ottobre 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto dell'Istituto di cultura "Torquato Tasso", con sede in Sorrento (Napoli).
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 6 dicembre 1947

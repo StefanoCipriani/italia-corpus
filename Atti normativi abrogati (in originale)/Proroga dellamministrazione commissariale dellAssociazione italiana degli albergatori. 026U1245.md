@@ -1,16 +1,14 @@
-REGIO DECRETO 17 giugno 1926 n. 1245
-
-
-REGIO DECRETO 17 giugno 1926 n. 1245
-====================================
-
-Proroga dell'amministrazione commissariale dell'Associazione italiana degli albergatori. (026U1245)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/08/1926
+---
+tipo: REGIO DECRETO
+numero: 1245
+data: 1926-06-17
+titolo: "Proroga dell'amministrazione commissariale dell'Associazione italiana degli albergatori. (026U1245)"
+urn: urn:nir:stato:regio.decreto:1926-06-17;1245
+codice_redazionale: 026U1245
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,31 +22,24 @@ Visto il Nostro decreto 11 marzo 1926, n. 489, col quale veniva prorogato al 30 
 
 Riconosciuta la necessita' di una ulteriore proroga del termine stabilito per l'amministrazione commissariale dell'Ente;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale: Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'economia nazionale: Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' prorogato fino al 30 settembre 1926 il termine stabilito dal [R. decreto 11 marzo 1926, n. 489](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-03-11;489), per la temporanea amministrazione dell'Associazione italiana degli albergatori, da parte del Regio commissario gr. uff. Alfredo Campione.   
-  
-E' altresi' prorogato fino al 31 agosto 1926 il termine fissato dallo stesso Regio decreto surriferito per la presentazione delle proposte che dovranno assicurare il normale funzionamento dell'Ente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 17 giugno 1926.   
-  
-VITTORIO EMANUELE.   
-  
-Belluzzo.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 23 luglio 1926.   
-  
-Atti del Governo, registro 250, foglio 116. - Coop   
-  
+E' prorogato fino al 30 settembre 1926 il termine stabilito dal [R. decreto 11 marzo 1926, n. 489](Proroga%20di%20poteri%20del%20Regio%20commissario%20per%20lAssociazione%20italiana%20degli%20albergatori.%20026U0489.md), per la temporanea amministrazione dell'Associazione italiana degli albergatori, da parte del Regio commissario gr. uff. Alfredo Campione. 
+ 
+ E' altresi' prorogato fino al 31 agosto 1926 il termine fissato dallo stesso Regio decreto surriferito per la presentazione delle proposte che dovranno assicurare il normale funzionamento dell'Ente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 giugno 1926. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Belluzzo. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 23 luglio 1926. 
+ 
+ Atti del Governo, registro 250, foglio 116. - Coop

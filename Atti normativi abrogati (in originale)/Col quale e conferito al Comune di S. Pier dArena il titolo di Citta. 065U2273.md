@@ -1,16 +1,14 @@
-REGIO DECRETO 30 aprile 1865 n. 2273
-
-
-REGIO DECRETO 30 aprile 1865 n. 2273
-====================================
-
-Col quale e' conferito al Comune di S. Pier d'Arena il titolo di Citta'. (065U2273)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/06/1865
+---
+tipo: REGIO DECRETO
+numero: 2273
+data: 1865-04-30
+titolo: "Col quale e' conferito al Comune di S. Pier d'Arena il titolo di Citta'. (065U2273)"
+urn: urn:nir:stato:regio.decreto:1865-04-30;2273
+codice_redazionale: 065U2273
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,29 +18,22 @@ Vista la domanda del Municipio di S. Pier d'Arena perche' quel Comune sia elevat
 
 Vista l'approvazione a siffatta deliberazione data dalla Deputazione della Provincia di Genova;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al Comune di S. Pier d' Arena e' conferito il titolo di Citta'.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 30 aprile 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 11 maggio 1865   
-  
-Reg.° 32 Atti del Governo a c. 288. Ayres.   
-  
-Luogo del Sigillo V. Il Guardasigilli Vacca.   
-  
-G. Lanza.   
-  
+Al Comune di S. Pier d' Arena e' conferito il titolo di Citta'. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 30 aprile 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 11 maggio 1865 
+ 
+ Reg.° 32 Atti del Governo a c. 288. Ayres. 
+ 
+ Luogo del Sigillo V. Il Guardasigilli Vacca. 
+ 
+ G. Lanza.

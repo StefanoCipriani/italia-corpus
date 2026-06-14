@@ -1,21 +1,21 @@
-REGIO DECRETO 27 ottobre 1926 n. 2037
+---
+tipo: REGIO DECRETO
+numero: 2037
+data: 1926-10-27
+titolo: "Autorizzazione al Comitato esecutivo dell'Opera della facciata di San Petronio in Bologna ad accettare un legato disposto in suo favore. (026U2037)"
+urn: urn:nir:stato:regio.decreto:1926-10-27;2037
+codice_redazionale: 026U2037
+vigente: true
+---
 
-
-REGIO DECRETO 27 ottobre 1926 n. 2037
-=====================================
-
-Autorizzazione al Comitato esecutivo dell'Opera della facciata di San Petronio in Bologna ad accettare un legato disposto in suo favore. (026U2037)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/12/1926
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2037. R. decreto 27 ottobre 1926, col quale, sulla proposta del Ministro per la pubblica istruzione, il Comitato esecutivo dell'Opera della facciata di San Petronio in Bologna, eretto in ente morale con R. decreto 5 settembre 1894, viene autorizzato ad accettare un legato disposto in suo favore dal sig. Pio Emilio Santini della stessa citta'.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 10 dicembre 1926.
+2037.
+
+R. decreto 27 ottobre 1926, col quale, sulla proposta del Ministro per la pubblica istruzione, il Comitato esecutivo dell'Opera della facciata di San Petronio in Bologna, eretto in ente morale con R. decreto 5 settembre 1894, viene autorizzato ad accettare un legato disposto in suo favore dal sig. Pio Emilio Santini della stessa citta'. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 10 dicembre 1926.

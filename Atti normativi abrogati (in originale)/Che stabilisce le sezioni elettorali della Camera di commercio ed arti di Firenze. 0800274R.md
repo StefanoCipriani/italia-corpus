@@ -1,37 +1,39 @@
-REGIO DECRETO 11 giugno 1908 n. CCLXXIV
+---
+tipo: REGIO DECRETO
+numero: CCLXXIV
+data: 1908-06-11
+titolo: "Che stabilisce le sezioni elettorali della Camera di commercio ed arti di Firenze. (0800274R)"
+urn: urn:nir:stato:regio.decreto:1908-06-11;274
+codice_redazionale: 0800274R
+vigente: true
+---
 
+VITTORIO EMANUELE III
 
-REGIO DECRETO 11 giugno 1908 n. CCLXXIV
-=======================================
+per grazia di Dio e per volonta' della Nazione
 
-Che stabilisce le sezioni elettorali della Camera di commercio ed arti di Firenze. (0800274R)
----------------------------------------------------------------------------------------------
+RE D'ITALIA
 
-Entrata in vigore del provvedimento: 19/08/1908
+Visto l'[art. 14 della legge 6 luglio 1862, n. 680](Legge%20per%20listituzione%20e%20lordinamento%20delle%20Camere%20di%20commercio.%20062U0680.md);
 
-Articolo unico
---------------
+Visto il R. decreto 19 aprile 1906, n. CLI (parte supplementare), che approva le tabelle delle sezioni elettorali della Camera di commercio ed arti di Firenze;
 
-  
-  
-Le sezioni elettorali della Camera di commercio ed arti di Firenze sono stabilite dall'unita tabella, vista, d'ordine Nostro, dal ministro proponente.   
-  
-Il R. decreto 19 aprile 1906, n. CLI (parte supplementare) e' abrogato.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 giugno 1908.   
-  
-VITTORIO EMANUELE.   
-  
-Cocco-Ortu.   
-  
-Visto, Il guardasigilli: Orlando.   
+Vista la deliberazione della Camera di commercio ed arti predetta, in data 24 aprile 1908;
 
-Tabella
+Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo:
 
-  
-Tabella delle sezioni elettorali.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=0800274R00100010110001&dgu=1908-08-04&art.dataPubblicazioneGazzetta=1908-08-04&art.codiceRedazionale=0800274R)
-  
+## Articolo unico.
+
+Le sezioni elettorali della Camera di commercio ed arti di Firenze sono stabilite dall'unita tabella, vista, d'ordine Nostro, dal ministro proponente. 
+ 
+ Il R. decreto 19 aprile 1906, n. CLI (parte supplementare) e' abrogato. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 giugno 1908. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Cocco-Ortu. 
+ 
+ Visto, Il guardasigilli: Orlando.

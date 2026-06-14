@@ -1,17 +1,17 @@
-REGIO DECRETO 18 novembre 1920 n. 1939
+---
+tipo: REGIO DECRETO
+numero: 1939
+data: 1920-11-18
+titolo: "Erezione in Ente morale. (020U1939)"
+urn: urn:nir:stato:regio.decreto:1920-11-18;1939
+codice_redazionale: 020U1939
+vigente: true
+---
 
-
-REGIO DECRETO 18 novembre 1920 n. 1939
-======================================
-
-Erezione in Ente morale. (020U1939)
------------------------------------
-
-Entrata in vigore del provvedimento: 19/02/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1939. Regio decreto 18 novembre 1920, col quale, sulla proposta del ministro per l'industria e il commercio, l'Istituto, per le bonificazioni toscane, con sede in Firenze, viene eretto in ente morale e ne e' approvato lo statuto organico relativo.
+1939.
+
+Regio decreto 18 novembre 1920, col quale, sulla proposta del ministro per l'industria e il commercio, l'Istituto, per le bonificazioni toscane, con sede in Firenze, viene eretto in ente morale e ne e' approvato lo statuto organico relativo.

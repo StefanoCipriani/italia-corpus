@@ -1,16 +1,14 @@
-REGIO DECRETO 23 maggio 1880 n. 5483
-
-
-REGIO DECRETO 23 maggio 1880 n. 5483
-====================================
-
-Che accorda al consorzio irriguo delle praterie di Macravecchia in Racconigi (Cuneo), la facolta' di riscuotere le tasse sociali coi privilegi del fisco. (080U5483)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/07/1880
+---
+tipo: REGIO DECRETO
+numero: 5483
+data: 1880-05-23
+titolo: "Che accorda al consorzio irriguo delle praterie di Macravecchia in Racconigi (Cuneo), la facolta' di riscuotere le tasse sociali coi privilegi del fisco. (080U5483)"
+urn: urn:nir:stato:regio.decreto:1880-05-23;5483
+codice_redazionale: 080U5483
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,28 +18,21 @@ Vista la domanda con la quale il Consorzio irriguo delle praterie di Macravecchi
 
 Visto il regolamento del Consorzio, e gli altri atti relativi;
 
-Vista la [legge 29 maggio 1873, n. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (Serie 2ª);
+Vista la [legge 29 maggio 1873, n. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md) (Serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro Ministro per gli affari d'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro per gli affari d'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al Consorzio d'irrigazione delle praterie di Macravecchia, esistente in Racconigi, provincia di Cuneo, e' concessa la facolta' di riscuotere il contributo dei soci coi privilegi e nelle forme fiscali.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 maggio 1880.   
-  
-UMBERTO.   
-  
-L. MICELI.   
-  
-Visto - Il Guardasigilli   
-T. VILLA.   
-  
+Al Consorzio d'irrigazione delle praterie di Macravecchia, esistente in Racconigi, provincia di Cuneo, e' concessa la facolta' di riscuotere il contributo dei soci coi privilegi e nelle forme fiscali. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 maggio 1880. 
+ 
+ UMBERTO. 
+ 
+ L. MICELI. 
+ 
+ Visto - Il Guardasigilli 
+ T. VILLA.

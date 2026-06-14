@@ -1,22 +1,20 @@
-REGIO DECRETO 27 settembre 1883 n. 1632
-
-
-REGIO DECRETO 27 settembre 1883 n. 1632
-=======================================
-
-Che aggiunge una strada all'elenco delle provinciali di Salerno. (083U1632)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/11/1883
+---
+tipo: REGIO DECRETO
+numero: 1632
+data: 1883-09-27
+titolo: "Che aggiunge una strada all'elenco delle provinciali di Salerno. (083U1632)"
+urn: urn:nir:stato:regio.decreto:1883-09-27;1632
+codice_redazionale: 083U1632
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333);
+Vista la [legge 23 luglio 1881, n. 333](Che%20autorizza%20la%20spesa%20di%20lire%20225126704%20per%20la%20costruzione%20di%20nuove%20opere%20straordinarie%20stradali%20ed%20idrauliche%20nel%20quindicennio%201881-1895.%20081U0333.md);
 
 Vista la deliberazione del Consiglio provinciale di Salerno 18 marzo 1882;
 
@@ -32,24 +30,18 @@ Visti gli articoli 13 e 14 della legge 20 marzo 1865 sulle opere pubbliche;
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-All'elenco delle strade provinciali della provincia di Salerno e' aggiunta, per la parte scorrente nel territorio della provincia stessa, la strada dalla nazionale delle Calabrie verso Padula alla Brienza-Montemurro, inscritta al n. 216 dell'elenco III, annesso alla tabella B della [legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 27 settembre 1883.   
-  
-UMBERTO.   
-  
-GENALA.   
-  
-Visto, Il Guardasigilli: SAVELLI.   
+All'elenco delle strade provinciali della provincia di Salerno e' aggiunta, per la parte scorrente nel territorio della provincia stessa, la strada dalla nazionale delle Calabrie verso Padula alla Brienza-Montemurro, inscritta al n. 216 dell'elenco III, annesso alla tabella B della [legge 23 luglio 1881, n. 333](Che%20autorizza%20la%20spesa%20di%20lire%20225126704%20per%20la%20costruzione%20di%20nuove%20opere%20straordinarie%20stradali%20ed%20idrauliche%20nel%20quindicennio%201881-1895.%20081U0333.md). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 27 settembre 1883. 
+ 
+ UMBERTO. 
+ 
+ GENALA. 
+ 
+ Visto, Il Guardasigilli: SAVELLI.

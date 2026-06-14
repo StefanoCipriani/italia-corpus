@@ -1,19 +1,15 @@
-REGIO DECRETO 08 giugno 1913 n. 729
+---
+tipo: REGIO DECRETO
+numero: 729
+data: 1913-06-08
+titolo: "Approvazione di statuto. (013U0729)"
+urn: urn:nir:stato:regio.decreto:1913-06-08;729
+codice_redazionale: 013U0729
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 giugno 1913 n. 729
-===================================
-
-Approvazione di statuto. (013U0729)
------------------------------------
-
-Entrata in vigore del provvedimento: 19/07/1913
-
-Art. 1
-------
-
-  
-N. 729   
-  
-Regio Decreto 8 giugno 1913, col quale, sulla proposta del ministro dell'interno, viene approvato il nuovo statuto dell'Opera pia «Margherita di Savoia» per l'assistenza ai convalescenti poveri ed alla prima infanzia, con sede in Brescia.   
-  
+N. 729 
+ 
+ Regio Decreto 8 giugno 1913, col quale, sulla proposta del ministro dell'interno, viene approvato il nuovo statuto dell'Opera pia «Margherita di Savoia» per l'assistenza ai convalescenti poveri ed alla prima infanzia, con sede in Brescia.

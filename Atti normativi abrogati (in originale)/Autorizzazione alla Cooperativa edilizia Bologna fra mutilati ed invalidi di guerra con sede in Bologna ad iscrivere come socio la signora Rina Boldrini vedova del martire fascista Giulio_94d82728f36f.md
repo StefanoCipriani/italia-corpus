@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 21 ottobre 1937 n. 1940
-
-
-REGIO DECRETO-LEGGE 21 ottobre 1937 n. 1940
-===========================================
-
-Autorizzazione alla Cooperativa edilizia «Bologna» fra mutilati ed invalidi di guerra, con sede in Bologna, ad iscrivere come socio la signora Rina Boldrini, vedova del martire fascista Giulio Giordani. (037U1940)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/12/1937.  
-Regio Decreto-Legge convertito dalla [L. 27 dicembre 1937, n. 2419](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-12-27;2419) (in G.U. 09/02/1938, n. 32).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1940
+data: 1937-10-21
+titolo: "Autorizzazione alla Cooperativa edilizia «Bologna» fra mutilati ed invalidi di guerra, con sede in Bologna, ad iscrivere come socio la signora Rina Boldrini, vedova del martire fascista Giulio Giordani. (037U1940)"
+urn: urn:nir:stato:regio.decreto.legge:1937-10-21;1940
+codice_redazionale: 037U1940
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -41,31 +38,25 @@ Ritenuta la necessita' assoluta ed urgente di provvedere;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, di concerto con i Ministri per le finanze e per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, di concerto con i Ministri per le finanze e per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Cooperativa edilizia «Bologna» fra mutilati ed invalidi di guerra, con sede in Bologna, e' autorizzata ad iscrivere come socio, con tutti i diritti e doveri dei mutilati di guerra, la signora Rina Boldrini, vedova di Giulio Giordani, in deroga anche alle proprie disposizioni statutarie.   
-  
-Il presente decreto entra in vigore nel giorno stesso della sua pubblicazione nella Gazzetta Ufficiale e sara' presentato al Parlamento per la conversione in legge.   
-  
-Il Capo del Governo, Primo Ministro Segretario di Stato, proponente, e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 21 ottobre 1937 - Anno XV   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Di Revel - Cobolli-Gigli.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 26 novembre 1937 - Anno XVI   
-Atti del Governo, registro 391, foglio 168. - Mancini   
+La Cooperativa edilizia «Bologna» fra mutilati ed invalidi di guerra, con sede in Bologna, e' autorizzata ad iscrivere come socio, con tutti i diritti e doveri dei mutilati di guerra, la signora Rina Boldrini, vedova di Giulio Giordani, in deroga anche alle proprie disposizioni statutarie. 
+ 
+ Il presente decreto entra in vigore nel giorno stesso della sua pubblicazione nella Gazzetta Ufficiale e sara' presentato al Parlamento per la conversione in legge. 
+ 
+ Il Capo del Governo, Primo Ministro Segretario di Stato, proponente, e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 21 ottobre 1937 - Anno XV 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Di Revel - Cobolli-Gigli. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 26 novembre 1937 - Anno XVI  
+ Atti del Governo, registro 391, foglio 168. - Mancini

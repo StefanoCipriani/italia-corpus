@@ -1,16 +1,14 @@
-REGIO DECRETO 06 novembre 1883 n. 1672
-
-
-REGIO DECRETO 06 novembre 1883 n. 1672
-======================================
-
-Che concede facolta' di derivare acque e di occupare tratti di spiaggia lacuale. (083U1672)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/12/1883
+---
+tipo: REGIO DECRETO
+numero: 1672
+data: 1883-11-06
+titolo: "Che concede facolta' di derivare acque e di occupare tratti di spiaggia lacuale. (083U1672)"
+urn: urn:nir:stato:regio.decreto:1883-11-06;1672
+codice_redazionale: 083U1672
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,33 +20,18 @@ Visto l'elenco in cui trovansi descritte numero 15 domande dirette ad ottenere l
 
 Viste le inchieste amministrative compiute su ognuna di dette domande, dalle quali risulta che le chieste derivazioni e occupazioni non recano alcun pregiudizio al buon governo della pubblica e della privata proprieta', quando si osservino le prescritte cautele;
 
-Udito
------
+Udito il parere del Consiglio di Stato, Abbiamo decretato e decretiamo quanto segue:
 
-il parere del Consiglio di Stato, Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' concessa facolta', senza pregiudizio dei legittimi diritti dei terzi, agli individui e all'Ente morale indicati nell'unito elenco, visto d'ordine Nostro, dal Ministro del Tesoro, di poter derivare le acque ed occupare le aree di spiaggia lacuale ivi descritte, ciascuno per l'uso, la durata e l'annua prestazione notate nell'elenco stesso, e sotto l'osservanza delle altre condizioni contenute nei singoli atti di sottomissione all'uopo stipulati.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 6 novembre 1883.   
-  
-UMBERTO.   
-  
-A. MAGLIANI.   
-  
-Visto, Il Guardasigilli: SAVELLI.   
-  
-
-Elenco
-
-  
-Elenco annesso al [R. decreto del 6 novembre 1883, di n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1883-11-06;15) domande dirette ad ottenere la facolta' di praticare ad uso privato alcune derivazioni da fumi, torrenti e canali del Demanio dello Stato, ed occupazione di alcuni tratti di spiaggia lacuale.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=083U167200100010110001&dgu=1883-12-15&art.dataPubblicazioneGazzetta=1883-12-15&art.codiceRedazionale=083U1672)
-  
+E' concessa facolta', senza pregiudizio dei legittimi diritti dei terzi, agli individui e all'Ente morale indicati nell'unito elenco, visto d'ordine Nostro, dal Ministro del Tesoro, di poter derivare le acque ed occupare le aree di spiaggia lacuale ivi descritte, ciascuno per l'uso, la durata e l'annua prestazione notate nell'elenco stesso, e sotto l'osservanza delle altre condizioni contenute nei singoli atti di sottomissione all'uopo stipulati. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 6 novembre 1883. 
+ 
+ UMBERTO. 
+ 
+ A. MAGLIANI. 
+ 
+ Visto, Il Guardasigilli: SAVELLI.

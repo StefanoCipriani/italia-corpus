@@ -1,22 +1,20 @@
-REGIO DECRETO 05 maggio 1889 n. 6052
-
-
-REGIO DECRETO 05 maggio 1889 n. 6052
-====================================
-
-Che sopprime la concessione dello sgravio sulla tassa dello spirito a favore delle industrie delle vernici. (089U6052)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/05/1889
+---
+tipo: REGIO DECRETO
+numero: 6052
+data: 1889-05-05
+titolo: "Che sopprime la concessione dello sgravio sulla tassa dello spirito a favore delle industrie delle vernici. (089U6052)"
+urn: urn:nir:stato:regio.decreto:1889-05-05;6052
+codice_redazionale: 089U6052
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'[art. 3 della legge del 24 giugno 1888, N. 5470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-06-24;5470~art3) (Serie 3ª) cosi' concepito:
+Visto l'[art. 3 della legge del 24 giugno 1888, N. 5470](Colla%20quale%20e%20convertito%20in%20legge%20il%20Regio%20decreto%2025%20dicembre%201887%20N.%205124%20Serie%203ª%20concernente%20lo%20sgravio%20della%20tassa%20sullo%20spirito%20adoperato%20come%20materia%20prima%20negli%20usi%20industriali.%20088U5470.md) (Serie 3ª) cosi' concepito:
 
 «Qualora per maggior garanzia contro gli abusi nello impiego dello spirito, ad uso industriale, per le vernici, fosse reputato necessario, l'Amministrazione finanziaria ai sistemi di sorveglianza stabiliti col detto R. decreto, potra' in ogni tempo aggiungere il mezzo dell'adulterazione dello spirito con quei metodi che essa riconoscera' piu' adatti.
 
@@ -28,31 +26,22 @@ Ritenuto che l'indugio nell'abolizione dello sgravio di tassa sarebbe causa di m
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze; Abbiamo decretato e decretiamo
 
-proposta del Nostro Ministro Segretario di Stato per le Finanze; Abbiamo decretato e decretiamo
+## Art. 1.
 
-Art. 1
-------
+E' soppressa a partire dalla data della pubblicazione del presente decreto la concessione dello sgravio sulla tassa dello spirito a favore delle industrie delle vernici.
 
-  
-  
-E' soppressa a partire dalla data della pubblicazione del presente decreto la concessione dello sgravio sulla tassa dello spirito a favore delle industrie delle vernici.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Questo decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 maggio 1889.   
-  
-UMBERTO.   
-  
-F. SEISMIT-DODA.   
-  
-Visto, Il Guardasigilli: ZANARDELLI.   
+Questo decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 maggio 1889. 
+ 
+ UMBERTO. 
+ 
+ F. SEISMIT-DODA. 
+ 
+ Visto, Il Guardasigilli: ZANARDELLI.

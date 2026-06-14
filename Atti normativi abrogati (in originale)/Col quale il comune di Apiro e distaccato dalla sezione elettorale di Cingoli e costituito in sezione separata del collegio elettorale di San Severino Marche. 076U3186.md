@@ -1,16 +1,14 @@
-REGIO DECRETO 30 giugno 1876 n. 3186
-
-
-REGIO DECRETO 30 giugno 1876 n. 3186
-====================================
-
-Col quale il comune di Apiro e' distaccato dalla sezione elettorale di Cingoli e costituito in sezione separata del collegio elettorale di San Severino Marche. (076U3186)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/07/1876
+---
+tipo: REGIO DECRETO
+numero: 3186
+data: 1876-06-30
+titolo: "Col quale il comune di Apiro e' distaccato dalla sezione elettorale di Cingoli e costituito in sezione separata del collegio elettorale di San Severino Marche. (076U3186)"
+urn: urn:nir:stato:regio.decreto:1876-06-30;3186
+codice_redazionale: 076U3186
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Apiro e' separato dalla sezione elettorale di Cingoli e formera' una sezione distinta del Collegio elettorale di San Severino Marche.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 30 giugno 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il comune di Apiro e' separato dalla sezione elettorale di Cingoli e formera' una sezione distinta del Collegio elettorale di San Severino Marche. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 30 giugno 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

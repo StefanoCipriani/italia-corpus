@@ -1,19 +1,15 @@
-REGIO DECRETO 13 luglio 1914 n. 778
+---
+tipo: REGIO DECRETO
+numero: 778
+data: 1914-07-13
+titolo: "Radiazione di forte dal novero delle fortificazioni dello Stato. (014U0778)"
+urn: urn:nir:stato:regio.decreto:1914-07-13;778
+codice_redazionale: 014U0778
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 luglio 1914 n. 778
-===================================
-
-Radiazione di forte dal novero delle fortificazioni dello Stato. (014U0778)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/08/1914
-
-Art. 1
-------
-
-  
-N. 778   
-  
-Regio Decreto 13 luglio 1914, col quale, sulla proposta del ministro della guerra, il forte Castellaccio della piazza di Messina e' radiato dal novero delle fortificazioni dello Stato.   
-  
+N. 778 
+ 
+ Regio Decreto 13 luglio 1914, col quale, sulla proposta del ministro della guerra, il forte Castellaccio della piazza di Messina e' radiato dal novero delle fortificazioni dello Stato.

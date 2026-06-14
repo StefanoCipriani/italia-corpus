@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 10 febbraio 1918 n. 251
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 251
+data: 1918-02-10
+titolo: "Erezione in Ente morale. (018U0251)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-02-10;251
+codice_redazionale: 018U0251
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 10 febbraio 1918 n. 251
-===============================================
-
-Erezione in Ente morale. (018U0251)
------------------------------------
-
-Entrata in vigore del provvedimento: 04/04/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-251. Decreto Luogotenenziale 10 febbraio 1918, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, la fondazione dotalizia Angelelli-Malvezzi, in Bologna, e' eretta in ente morale, e concentrata nella locale Congregazione di carita'.
+251.
+
+Decreto Luogotenenziale 10 febbraio 1918, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, la fondazione dotalizia Angelelli-Malvezzi, in Bologna, e' eretta in ente morale, e concentrata nella locale Congregazione di carita'.

@@ -1,16 +1,14 @@
-REGIO DECRETO 15 luglio 1877 n. 3946
-
-
-REGIO DECRETO 15 luglio 1877 n. 3946
-====================================
-
-Che separa il comune di Piossasco dalla sezione elettorale di Orbassano e lo costituisce in sezione distinta del collegio di Carmagnola. (077U3946)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/08/1877
+---
+tipo: REGIO DECRETO
+numero: 3946
+data: 1877-07-15
+titolo: "Che separa il comune di Piossasco dalla sezione elettorale di Orbassano e lo costituisce in sezione distinta del collegio di Carmagnola. (077U3946)"
+urn: urn:nir:stato:regio.decreto:1877-07-15;3946
+codice_redazionale: 077U3946
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,22 +22,14 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 15 luglio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. NICOTERA.   
-  
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 15 luglio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. NICOTERA.

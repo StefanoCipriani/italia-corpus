@@ -1,19 +1,15 @@
-REGIO DECRETO 01 agosto 1913 n. 974
+---
+tipo: REGIO DECRETO
+numero: 974
+data: 1913-08-01
+titolo: "Che approva lo statuto organico della Cassa agraria di San Mauro Forte. (013U0974)"
+urn: urn:nir:stato:regio.decreto:1913-08-01;974
+codice_redazionale: 013U0974
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 agosto 1913 n. 974
-===================================
-
-Che approva lo statuto organico della Cassa agraria di San Mauro Forte. (013U0974)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/09/1913
-
-Art. 1
-------
-
-  
-N. 974   
-  
-Regio Decreto 1° agosto 1913, col quale, sulla proposta del ministro di agricoltura, industria e commercio, viene approvato lo statuto organico della Cassa agraria di San Mauro Forte, della provincia di Potenza, composto di quarantacinque articoli.   
-  
+N. 974 
+ 
+ Regio Decreto 1° agosto 1913, col quale, sulla proposta del ministro di agricoltura, industria e commercio, viene approvato lo statuto organico della Cassa agraria di San Mauro Forte, della provincia di Potenza, composto di quarantacinque articoli.

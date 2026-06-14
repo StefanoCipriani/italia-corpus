@@ -1,36 +1,27 @@
-REGIO DECRETO 11 novembre 1909 n. CCCCXXVIII
+---
+tipo: REGIO DECRETO
+numero: CCCCXXVIII
+data: 1909-11-11
+titolo: "Che modifica le sezioni elettorali dei Collegio di probiviri per l'industrie metallurgiche e meccaniche con sede in Brescia (0900428R)"
+urn: urn:nir:stato:regio.decreto:1909-11-11;428
+codice_redazionale: 0900428R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 novembre 1909 n. CCCCXXVIII
-============================================
+I comuni di Darfo, Erbanno, Angolo, Anfurro, Terzano, Gorzone, Mazzunno, Gianico, Artogne, Piano Camuno e Pisogne, sono staccati dalla sezione operaia di Bienno, del Collegio di probiviri per le industrie metallurgiche e meccaniche, con sede in Brescia.
 
-Che modifica le sezioni elettorali dei Collegio di probiviri per l'industrie metallurgiche e meccaniche con sede in Brescia (0900428R)
---------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 17/12/1909
-
-Art. 1
-------
-
-  
-  
-I comuni di Darfo, Erbanno, Angolo, Anfurro, Terzano, Gorzone, Mazzunno, Gianico, Artogne, Piano Camuno e Pisogne, sono staccati dalla sezione operaia di Bienno, del Collegio di probiviri per le industrie metallurgiche e meccaniche, con sede in Brescia.   
-  
-
-Art. 2
-------
-
-  
-  
-E' istituita, per il Collegio predetto, una sezione elettorale operaia con sede in Darfo e comprendente i comuni di Darfo, Angolo, Anfurro, Terzano, Gorzone, Mazzunno, Gianico, Artogne, Piano Camuno, Pisogne ed Erbanno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 11 novembre 1909.   
-  
-VITTORIO EMANUELE.   
-  
-Cocco-Ortu.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+E' istituita, per il Collegio predetto, una sezione elettorale operaia con sede in Darfo e comprendente i comuni di Darfo, Angolo, Anfurro, Terzano, Gorzone, Mazzunno, Gianico, Artogne, Piano Camuno, Pisogne ed Erbanno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 11 novembre 1909. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Cocco-Ortu. 
+ 
+ Visto, Il guardasigilli: Orlando.

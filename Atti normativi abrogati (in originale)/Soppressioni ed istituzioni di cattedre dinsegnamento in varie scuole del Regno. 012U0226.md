@@ -1,19 +1,15 @@
-REGIO DECRETO 21 marzo 1912 n. 226
+---
+tipo: REGIO DECRETO
+numero: 226
+data: 1912-03-21
+titolo: "Soppressioni ed istituzioni di cattedre d'insegnamento in varie scuole del Regno. (012U0226)"
+urn: urn:nir:stato:regio.decreto:1912-03-21;226
+codice_redazionale: 012U0226
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 marzo 1912 n. 226
-==================================
-
-Soppressioni ed istituzioni di cattedre d'insegnamento in varie scuole del Regno. (012U0226)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/04/1912
-
-Art. 1
-------
-
-  
-N. 226   
-  
-Regio Decreto 21 marzo 1912, col quale, sulla proposta del ministro dell'istruzione pubblica, in conseguenza della nomina della prof.ª Teresa Biglino a capo d'Istituto effettivo nella R. scuola tecnica «Cairoli» di Milano, viene soppressa a decorrere dal 1° ottobre 1911 e non oltre il 30 settembre 1912 una cattedra di ruolo per l'insegnamento della lingua italiana nella scuola stessa e con pari decorrenza viene istituito il relativo posto di capo di Istituto effettivo.   
-  
+N. 226 
+ 
+ Regio Decreto 21 marzo 1912, col quale, sulla proposta del ministro dell'istruzione pubblica, in conseguenza della nomina della prof.ª Teresa Biglino a capo d'Istituto effettivo nella R. scuola tecnica «Cairoli» di Milano, viene soppressa a decorrere dal 1° ottobre 1911 e non oltre il 30 settembre 1912 una cattedra di ruolo per l'insegnamento della lingua italiana nella scuola stessa e con pari decorrenza viene istituito il relativo posto di capo di Istituto effettivo.

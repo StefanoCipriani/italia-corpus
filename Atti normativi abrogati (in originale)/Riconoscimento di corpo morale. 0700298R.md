@@ -1,19 +1,15 @@
-REGIO DECRETO 30 giugno 1907 n. CCXCVIII
+---
+tipo: REGIO DECRETO
+numero: CCXCVIII
+data: 1907-06-30
+titolo: "Riconoscimento di corpo morale. (0700298R)"
+urn: urn:nir:stato:regio.decreto:1907-06-30;298
+codice_redazionale: 0700298R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 giugno 1907 n. CCXCVIII
-========================================
-
-Riconoscimento di corpo morale. (0700298R)
-------------------------------------------
-
-Entrata in vigore del provvedimento: 20/08/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CCXCVIII (Dato a Roma, il 30 giugno 1907), col quale si riconosce come corpo morale l'Istituto per le case popolari in Genova e se ne approva lo statuto organico.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CCXCVIII (Dato a Roma, il 30 giugno 1907), col quale si riconosce come corpo morale l'Istituto per le case popolari in Genova e se ne approva lo statuto organico.

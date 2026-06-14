@@ -1,21 +1,21 @@
-REGIO DECRETO 19 ottobre 1933 n. 2389
+---
+tipo: REGIO DECRETO
+numero: 2389
+data: 1933-10-19
+titolo: "Erezione in ente morale della fondazione «Legato Virginia Piccolomini Ottieri», con sede in Siena. (033U2389)"
+urn: urn:nir:stato:regio.decreto:1933-10-19;2389
+codice_redazionale: 033U2389
+vigente: true
+---
 
-
-REGIO DECRETO 19 ottobre 1933 n. 2389
-=====================================
-
-Erezione in ente morale della fondazione «Legato Virginia Piccolomini Ottieri», con sede in Siena. (033U2389)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/03/1934
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2389. R. decreto 19 ottobre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, la fondazione «Legato Virginia Piccolomini Ottieri» con sede in Siena viene eretta in ente morale sotto l'amministrazione del locale «Regio ospedalino infantile S. Teresa» e ne e' approvato il relativo statuto organico.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 7 febbraio 1934 - Anno XII
+2389.
+
+R. decreto 19 ottobre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, la fondazione «Legato Virginia Piccolomini Ottieri» con sede in Siena viene eretta in ente morale sotto l'amministrazione del locale «Regio ospedalino infantile S. Teresa» e ne e' approvato il relativo statuto organico. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 7 febbraio 1934 - Anno XII

@@ -1,58 +1,40 @@
-REGIO DECRETO 13 luglio 1911 n. 786
-
-
-REGIO DECRETO 13 luglio 1911 n. 786
-===================================
-
-Che approva l'elenco delle assegnazioni concesse a vari comuni sui proventi di cui all'art. 2 della legge 12 gennaio 1909, n. 12. (011U0786)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/08/1911
+---
+tipo: REGIO DECRETO
+numero: 786
+data: 1911-07-13
+titolo: "Che approva l'elenco delle assegnazioni concesse a vari comuni sui proventi di cui all'art. 2 della legge 12 gennaio 1909, n. 12. (011U0786)"
+urn: urn:nir:stato:regio.decreto:1911-07-13;786
+codice_redazionale: 011U0786
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'[art. 2 della legge 12 gennaio 1909, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-01-12;12~art2);
+Visto l'[art. 2 della legge 12 gennaio 1909, n. 12](Concernente%20provvedimenti%20a%20sollievo%20dei%20danneggiali%20dal%20terremoto%20del%2028%20dicembre%201908.%20009U0012.md);
 
-Veduto il [R. decreto 18 febbraio 1909, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-02-18;100);
+Veduto il [R. decreto 18 febbraio 1909, n. 100](Che%20incarica%20la%20Commissione%20centrale%20di%20cui%20allart.%20101%20del%20testo%20unico%20della%20legge%207%20maggio%201908%20n.%20248%20di%20eseguire%20gli%20accertamenti%20e%20le%20liquidazioni%20per%20il%20riparto%20dei%20proventi%20destina_cc8fc4583d15.md);
 
-Veduta la relazione della Commissione centrale incaricata, ai termini dell'art. 1° del citato [R. decreto 18 febbraio 1909, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-02-18;100), di predisporre le liquidazioni per il reparto dei proventi menzionati nell'[art. 2 della legge 12 gennaio 1909, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-01-12;12~art2);
+Veduta la relazione della Commissione centrale incaricata, ai termini dell'art. 1° del citato [R. decreto 18 febbraio 1909, n. 100](Che%20incarica%20la%20Commissione%20centrale%20di%20cui%20allart.%20101%20del%20testo%20unico%20della%20legge%207%20maggio%201908%20n.%20248%20di%20eseguire%20gli%20accertamenti%20e%20le%20liquidazioni%20per%20il%20riparto%20dei%20proventi%20destina_cc8fc4583d15.md), di predisporre le liquidazioni per il reparto dei proventi menzionati nell'[art. 2 della legge 12 gennaio 1909, n. 12](Concernente%20provvedimenti%20a%20sollievo%20dei%20danneggiali%20dal%20terremoto%20del%2028%20dicembre%201908.%20009U0012.md);
 
 Riconosciuta la necessita' di accordare alle provincie di Messina e di Reggio Calabria e ad alcuni comuni delle provincie stesse e di quella di Catanzaro, danneggiati dal terremoto, le somme occorrenti a pareggio dei rispettivi bilanci per il funzionamento dei pubblici servizi e per l'esecuzione di opere pubbliche;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvato l'annesso elenco, visto, d'ordine Nostro, dal ministro proponente delle assegnazioni concesse per l'anno 1911, sui proventi di cui all'[art. 2 della legge 12 gennaio 1909, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-01-12;12~art2), agli enti indicati nell'elenco stesso, per il complessivo ammontare di L.  
-324,621.75.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 luglio 1911.   
-  
-VITTORIO EMANUELE.   
-  
-GIOLITTI.   
-  
-Visto, Il guardasigilli: FINOCCHIARO-APRILE.   
-  
-
-Elenco
-
-  
-ELENCO delle assegnazioni da corrispondersi sui proventi straordinari di cui all'[art. 2 della legge 12 gennaio 1909, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-01-12;12~art2), agli enti sottoindicati in conto delle maggiori somme che loro potranno spettare per l'anno 1911.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=011U078600100010110001&dgu=1911-07-31&art.dataPubblicazioneGazzetta=1911-07-31&art.codiceRedazionale=011U0786)
-  
-  
+E' approvato l'annesso elenco, visto, d'ordine Nostro, dal ministro proponente delle assegnazioni concesse per l'anno 1911, sui proventi di cui all'[art. 2 della legge 12 gennaio 1909, n. 12](Concernente%20provvedimenti%20a%20sollievo%20dei%20danneggiali%20dal%20terremoto%20del%2028%20dicembre%201908.%20009U0012.md), agli enti indicati nell'elenco stesso, per il complessivo ammontare di L.
+324,621.75. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 luglio 1911. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ GIOLITTI. 
+ 
+ Visto, Il guardasigilli: FINOCCHIARO-APRILE.

@@ -1,19 +1,19 @@
-REGIO DECRETO 26 settembre 1930 n. 1530
+---
+tipo: REGIO DECRETO
+numero: 1530
+data: 1930-09-26
+titolo: "Erezione in ente morale della Cassa scolastica della Regia scuola complementare «Carlo Stuparich», in Lussinpiccolo. (030U1530)"
+urn: urn:nir:stato:regio.decreto:1930-09-26;1530
+codice_redazionale: 030U1530
+vigente: true
+---
 
-
-REGIO DECRETO 26 settembre 1930 n. 1530
-=======================================
-
-Erezione in ente morale della Cassa scolastica della Regia scuola complementare «Carlo Stuparich», in Lussinpiccolo. (030U1530)
--------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/12/1930
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1530. R. decreto 26 settembre 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, la Cassa scolastica della Regia scuola complementare «Carlo Stuparich», in Lussinpiccolo, viene eretta in ente morale e ne e' approvato lo statuto.   
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 4 dicembre 1930 - Anno IX
+1530.
+
+R. decreto 26 settembre 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, la Cassa scolastica della Regia scuola complementare «Carlo Stuparich», in Lussinpiccolo, viene eretta in ente morale e ne e' approvato lo statuto. 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 4 dicembre 1930 - Anno IX

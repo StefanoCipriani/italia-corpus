@@ -1,22 +1,20 @@
-REGIO DECRETO 01 dicembre 1867 n. 4100
-
-
-REGIO DECRETO 01 dicembre 1867 n. 4100
-======================================
-
-Che dichiara provinciali alcune strade scorrenti nella provincia di Lucca. (067U4100)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/01/1868
+---
+tipo: REGIO DECRETO
+numero: 4100
+data: 1867-12-01
+titolo: "Che dichiara provinciali alcune strade scorrenti nella provincia di Lucca. (067U4100)"
+urn: urn:nir:stato:regio.decreto:1867-12-01;4100
+codice_redazionale: 067U4100
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato F;
+Visti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [14 della legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), allegato F;
 
 Vista la deliberazione del Consiglio provinciale di Lucca 20 dicembre 1866, con la quale ha formato l'elenco delle strade provinciali al numero di ventidue;
 
@@ -30,37 +28,22 @@ Vista la successiva deliberazione del Consiglio provinciale di Lucca 2 settembre
 
 Visto il parere emesso dal Consiglio di Stato in adunanza 14 novembre corrente anno, che dichiara meritevole di approvazione il riformato Elenco;
 
-Sulla
------
+Sulla proposizione del Nostro Ministro dei Lavori Pubblici; Abbiamo decretato e decretiamo quanto segue:
 
-proposizione del Nostro Ministro dei Lavori Pubblici; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate provinciali le diciannove strade descritte nell'Elenco da ultimo mentovato, che per estratto rimarra' annesso al presente decreto, visto d'ordine Nostro dal Ministro dei Lavori Pubblici.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 1° dicembre 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 13 dicembre 1867   
-  
-Reg. 41 Atti del Governo a c. 180. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli A. Mari.   
-  
-G. Cantelli.   
-  
-
-Elenco
-
-  
-Elenco delle strade provinciali di Lucca, dichiarate tali con Reale decreto in data d'oggi.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U410000100010110001&dgu=1867-12-24&art.dataPubblicazioneGazzetta=1867-12-24&art.codiceRedazionale=067U4100)
-  
+Sono dichiarate provinciali le diciannove strade descritte nell'Elenco da ultimo mentovato, che per estratto rimarra' annesso al presente decreto, visto d'ordine Nostro dal Ministro dei Lavori Pubblici. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 1° dicembre 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 13 dicembre 1867 
+ 
+ Reg. 41 Atti del Governo a c. 180. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli A. Mari. 
+ 
+ G. Cantelli.

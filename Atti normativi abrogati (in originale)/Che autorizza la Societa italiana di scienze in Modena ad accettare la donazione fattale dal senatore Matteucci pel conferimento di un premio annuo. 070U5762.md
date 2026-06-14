@@ -1,16 +1,14 @@
-REGIO DECRETO 10 luglio 1870 n. 5762
-
-
-REGIO DECRETO 10 luglio 1870 n. 5762
-====================================
-
-Che autorizza la Societa' italiana di scienze in Modena ad accettare la donazione fattale dal senatore Matteucci pel conferimento di un premio annuo. (070U5762)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/08/1870
+---
+tipo: REGIO DECRETO
+numero: 5762
+data: 1870-07-10
+titolo: "Che autorizza la Societa' italiana di scienze in Modena ad accettare la donazione fattale dal senatore Matteucci pel conferimento di un premio annuo. (070U5762)"
+urn: urn:nir:stato:regio.decreto:1870-07-10;5762
+codice_redazionale: 070U5762
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,31 +20,24 @@ Visto che la donazione Matteucci ebbe gia' esecuzione perche' fu conferito il pr
 
 Viste le dichiarazioni dell'erede signora Robinia Young-Matteucci, vedova del donatore;
 
-Visto il [parere del Consiglio di Stato 31 maggio 1870](https://e-justice.europa.eu/ecli/ECLI::::);
+Visto il parere del Consiglio di Stato 31 maggio 1870;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Societa' italiana di scienze, detta Societa' dei XL in Modena, e' autorizzata ad accettare la predetta donazione del fu senatore Matteucci, e presso la detta Societa', secondo la volonta' del donatore, confermata dalle dichiarazioni della sua moglie ed erede, signora Robinia Young-Matteucci, e' istituito un premio Matteucci consistente in una medaglia d'oro del valore di lire dugento che la detta Societa' conferira' ogni anno al Fisico italiano o straniero, che con opere o scoperte abbia maggiormente contribuito al progresso della scienza.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 10 luglio 1870.   
-  
-VITTORIO EMANUELE   
-  
-registrato alla Corte dei conti addi' 27 luglio 1870   
-  
-Reg. 51 Atti del Governo a c. 199. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-C. Correnti.   
-  
+La Societa' italiana di scienze, detta Societa' dei XL in Modena, e' autorizzata ad accettare la predetta donazione del fu senatore Matteucci, e presso la detta Societa', secondo la volonta' del donatore, confermata dalle dichiarazioni della sua moglie ed erede, signora Robinia Young-Matteucci, e' istituito un premio Matteucci consistente in una medaglia d'oro del valore di lire dugento che la detta Societa' conferira' ogni anno al Fisico italiano o straniero, che con opere o scoperte abbia maggiormente contribuito al progresso della scienza. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 10 luglio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ registrato alla Corte dei conti addi' 27 luglio 1870 
+ 
+ Reg. 51 Atti del Governo a c. 199. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ C. Correnti.

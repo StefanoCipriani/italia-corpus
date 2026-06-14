@@ -1,19 +1,15 @@
-REGIO DECRETO 28 novembre 1912 n. 1277
+---
+tipo: REGIO DECRETO
+numero: 1277
+data: 1912-11-28
+titolo: "Erezione in ente morale e approvazione di statuto. (012U1277)"
+urn: urn:nir:stato:regio.decreto:1912-11-28;1277
+codice_redazionale: 012U1277
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 novembre 1912 n. 1277
-======================================
-
-Erezione in ente morale e approvazione di statuto. (012U1277)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/12/1912
-
-Art. 1
-------
-
-  
-N. 1277   
-  
-Regio Decreto 28 novembre 1912, col quale, sulla proposta del ministro dell'interno, l'asilo infantile di Caravino (Torino) e' eretto in ente morale con una amministrazione autonoma, e ne e' approvato lo statuto.   
-  
+N. 1277 
+ 
+ Regio Decreto 28 novembre 1912, col quale, sulla proposta del ministro dell'interno, l'asilo infantile di Caravino (Torino) e' eretto in ente morale con una amministrazione autonoma, e ne e' approvato lo statuto.

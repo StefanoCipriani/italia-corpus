@@ -1,16 +1,14 @@
-REGIO DECRETO 08 dicembre 1938 n. 2113
-
-
-REGIO DECRETO 08 dicembre 1938 n. 2113
-======================================
-
-Autorizzazione al comune di Montalto Uffugo ad applicare le imposte di consumo con la tariffa stabilita per i Comuni di classe G. (038U2113)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/02/1939
+---
+tipo: REGIO DECRETO
+numero: 2113
+data: 1938-12-08
+titolo: "Autorizzazione al comune di Montalto Uffugo ad applicare le imposte di consumo con la tariffa stabilita per i Comuni di classe G. (038U2113)"
+urn: urn:nir:stato:regio.decreto:1938-12-08;2113
+codice_redazionale: 038U2113
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,24 @@ Vista l'istanza avanzata dal comune di Montalto Uffugo per avvalersi delle dispo
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il comune di Montalto Uffugo e' autorizzato ad applicare le imposte di consumo in base alla tariffa stabilita per i comuni della classe G fino a tutto l'anno
 
-1939. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 dicembre 1938-XVII   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Solmi   
-  
-Registrato alla Corte dei conti, addi' 2 febbraio 1939-XVII   
-  
-Atti del Governo, registro 406, foglio 3. - Mancini
+1939.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 dicembre 1938-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi 
+ 
+ Registrato alla Corte dei conti, addi' 2 febbraio 1939-XVII 
+ 
+ Atti del Governo, registro 406, foglio 3. - Mancini

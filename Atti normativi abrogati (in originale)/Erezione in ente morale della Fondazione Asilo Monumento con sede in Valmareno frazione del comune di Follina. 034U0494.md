@@ -1,21 +1,21 @@
-REGIO DECRETO 11 gennaio 1934 n. 494
+---
+tipo: REGIO DECRETO
+numero: 494
+data: 1934-01-11
+titolo: "Erezione in ente morale della Fondazione «Asilo Monumento», con sede in Valmareno, frazione del comune di Follina. (034U0494)"
+urn: urn:nir:stato:regio.decreto:1934-01-11;494
+codice_redazionale: 034U0494
+vigente: true
+---
 
-
-REGIO DECRETO 11 gennaio 1934 n. 494
-====================================
-
-Erezione in ente morale della Fondazione «Asilo Monumento», con sede in Valmareno, frazione del comune di Follina. (034U0494)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/04/1934
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-494. R. decreto 11 gennaio 1934, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, la Fondazione «Asilo Monumento» con sede in Valmareno, frazione del comune di Follina (Treviso), viene eretta in ente morale, sotto amministrazione autonoma, e ne e' approvato con modificazioni il relativo statuto organico.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 22 marzo 1934 - Anno XII
+494.
+
+R. decreto 11 gennaio 1934, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, la Fondazione «Asilo Monumento» con sede in Valmareno, frazione del comune di Follina (Treviso), viene eretta in ente morale, sotto amministrazione autonoma, e ne e' approvato con modificazioni il relativo statuto organico. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 22 marzo 1934 - Anno XII

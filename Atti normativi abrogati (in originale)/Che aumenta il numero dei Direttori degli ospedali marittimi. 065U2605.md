@@ -1,16 +1,14 @@
-REGIO DECRETO 23 ottobre 1865 n. 2605
-
-
-REGIO DECRETO 23 ottobre 1865 n. 2605
-=====================================
-
-Che aumenta il numero dei Direttori degli ospedali marittimi. (065U2605)
-------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/12/1865
+---
+tipo: REGIO DECRETO
+numero: 2605
+data: 1865-10-23
+titolo: "Che aumenta il numero dei Direttori degli ospedali marittimi. (065U2605)"
+urn: urn:nir:stato:regio.decreto:1865-10-23;2605
+codice_redazionale: 065U2605
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Considerata la necessita' di provvedere alle cresciute esigenze del servizio nel
 
 Sulla proposta del Nostro ministro della marina;
 
-Sentito
--------
+Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I direttori degli ospedali marittimi fissati nel numero di tre dalla tabella B, che fa seguito al Nostro decreto 9 giugno 1863 sopracitato, sono portati al numero di quattro, ed il direttore da nominarsi in applicazione a tale aumento, dovra' essere un ufficiale col grado di luogotenente di vascello.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 23 ottobre 1865.   
-  
-VITTORIO EMANUELE   
-  
-D. Angioletti.   
-  
+I direttori degli ospedali marittimi fissati nel numero di tre dalla tabella B, che fa seguito al Nostro decreto 9 giugno 1863 sopracitato, sono portati al numero di quattro, ed il direttore da nominarsi in applicazione a tale aumento, dovra' essere un ufficiale col grado di luogotenente di vascello. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 23 ottobre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ D. Angioletti.

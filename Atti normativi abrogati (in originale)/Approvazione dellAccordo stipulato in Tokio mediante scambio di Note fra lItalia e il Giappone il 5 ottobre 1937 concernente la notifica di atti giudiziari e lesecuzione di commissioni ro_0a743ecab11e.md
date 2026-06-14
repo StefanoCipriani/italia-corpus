@@ -1,16 +1,14 @@
-REGIO DECRETO 17 marzo 1938 n. 574
-
-
-REGIO DECRETO 17 marzo 1938 n. 574
-==================================
-
-Approvazione dell'Accordo stipulato in Tokio, mediante scambio di Note, fra l'Italia e il Giappone, il 5 ottobre 1937, concernente la notifica di atti giudiziari e l'esecuzione di commissioni rogatorie. (038U0574)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/10/1937
+---
+tipo: REGIO DECRETO
+numero: 574
+data: 1938-03-17
+titolo: "Approvazione dell'Accordo stipulato in Tokio, mediante scambio di Note, fra l'Italia e il Giappone, il 5 ottobre 1937, concernente la notifica di atti giudiziari e l'esecuzione di commissioni rogatorie. (038U0574)"
+urn: urn:nir:stato:regio.decreto:1938-03-17;574
+codice_redazionale: 038U0574
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,42 +22,26 @@ Visto il R. decreto 16 marzo 1938-XVI, con cui viene conferita al Duce, Primo Mi
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari esteri, di concerto con i Ministri Segretari di Stato per la grazia e giustizia e per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari esteri, di concerto con i Ministri Segretari di Stato per la grazia e giustizia e per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Piena ed intera esecuzione e' data all'Accordo stipulato in Tokio, mediante scambio di Note, fra l'Italia ed il Giappone, il 5 ottobre 1937, concernente la notifica di atti giudiziari e l'esecuzione di commissioni rogatorie.
 
-  
-  
-Piena ed intera esecuzione e' data all'Accordo stipulato in Tokio, mediante scambio di Note, fra l'Italia ed il Giappone, il 5 ottobre 1937, concernente la notifica di atti giudiziari e l'esecuzione di commissioni rogatorie.   
-
-Art. 2
-------
+## Art. 2.
 
 Il presente decreto ha vigore dal 5 ottobre
 
-1937. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 17 marzo 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - CIANO - SOLMI   
-  
-Visto, il Guardasigilli: SOLMI.   
-Registrato alla Corte dei conti, addi' 20 maggio 1938 - Anno XVI   
-Atti del Governo, registro 397, foglio 123 - MANCINI.
+1937.
 
-Accord
-
- L'Ambasciatore d'Italia in Tokio   
-al Ministro giapponese degli affari esteri.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=038U057400100010110001&dgu=1938-05-27&art.dataPubblicazioneGazzetta=1938-05-27&art.codiceRedazionale=038U0574)
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 marzo 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - CIANO - SOLMI 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ Registrato alla Corte dei conti, addi' 20 maggio 1938 - Anno XVI 
+ Atti del Governo, registro 397, foglio 123 - MANCINI.

@@ -1,16 +1,14 @@
-REGIO DECRETO 23 marzo 1933 n. 295
-
-
-REGIO DECRETO 23 marzo 1933 n. 295
-==================================
-
-Autorizzazione al comune di Chieti ad applicare le imposte di consumo con la tariffa della classe D. (033U0295)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/05/1933
+---
+tipo: REGIO DECRETO
+numero: 295
+data: 1933-03-23
+titolo: "Autorizzazione al comune di Chieti ad applicare le imposte di consumo con la tariffa della classe D. (033U0295)"
+urn: urn:nir:stato:regio.decreto:1933-03-23;295
+codice_redazionale: 033U0295
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,28 +20,22 @@ Vista la domanda avanzata dal comune di Chieti per avvalersi della disposizione 
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Chieti e' autorizzato a riscuotere, fino al 31 dicembre 1934, le imposte di consumo con le aliquote stabilite per la classe D.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 marzo 1933 - Anno XI   
-  
-VITTORIO EMANUELE   
-  
-JUNG.   
-  
-Visto, il Guardasigilli: DE FRANCISCI.   
-  
-Registrato alla Corte dei conti, addi' 17 aprile 1933 - Anno XI   
-  
-Atti del Governo, registro 331, foglio 78. - MANCINI.   
+Il comune di Chieti e' autorizzato a riscuotere, fino al 31 dicembre 1934, le imposte di consumo con le aliquote stabilite per la classe D. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 marzo 1933 - Anno XI 
+ 
+ VITTORIO EMANUELE 
+ 
+ JUNG. 
+ 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ 
+ Registrato alla Corte dei conti, addi' 17 aprile 1933 - Anno XI 
+ 
+ Atti del Governo, registro 331, foglio 78. - MANCINI.

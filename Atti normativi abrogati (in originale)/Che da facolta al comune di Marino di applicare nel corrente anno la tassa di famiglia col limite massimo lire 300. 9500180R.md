@@ -1,21 +1,17 @@
-REGIO DECRETO 01 agosto 1895 n. CLXXX
+---
+tipo: REGIO DECRETO
+numero: CLXXX
+data: 1895-08-01
+titolo: "Che da' facolta' al comune di Marino di applicare nel corrente anno la tassa di famiglia col limite massimo lire 300. (9500180R)"
+urn: urn:nir:stato:regio.decreto:1895-08-01;180
+codice_redazionale: 9500180R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 agosto 1895 n. CLXXX
-=====================================
-
-Che da' facolta' al comune di Marino di applicare nel corrente anno la tassa di famiglia col limite massimo lire 300. (9500180R)
---------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/09/1895
-
-Art. 1
-------
-
-  
-Che da' facolta' al comune di Marino di applicare nel corrente anno la tassa di famiglia col limite massimo lire trecento (L. 300). - Firmato UMBERTO - Contrassegnato P. Boselli - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 13 agosto 1895.   
-  
-Reg. 199. Atti del Governo a f. 132.   
-  
+Che da' facolta' al comune di Marino di applicare nel corrente anno la tassa di famiglia col limite massimo lire trecento (L. 300). - Firmato UMBERTO - Contrassegnato P. Boselli - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 13 agosto 1895. 
+ 
+ Reg. 199. Atti del Governo a f. 132.

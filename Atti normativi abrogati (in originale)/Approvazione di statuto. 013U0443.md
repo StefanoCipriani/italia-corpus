@@ -1,19 +1,15 @@
-REGIO DECRETO 17 aprile 1913 n. 443
+---
+tipo: REGIO DECRETO
+numero: 443
+data: 1913-04-17
+titolo: "Approvazione di statuto. (013U0443)"
+urn: urn:nir:stato:regio.decreto:1913-04-17;443
+codice_redazionale: 013U0443
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 aprile 1913 n. 443
-===================================
-
-Approvazione di statuto. (013U0443)
------------------------------------
-
-Entrata in vigore del provvedimento: 08/06/1913
-
-Art. 1
-------
-
-  
-N. 443   
-  
-Regio Decreto 17 aprile 1913, col quale, sulla proposta del ministro d'agricoltura, industria e commercio, di concerto col ministro dell'interno, viene approvato lo statuto del Monte di pieta' di Cagliari.   
-  
+N. 443 
+ 
+ Regio Decreto 17 aprile 1913, col quale, sulla proposta del ministro d'agricoltura, industria e commercio, di concerto col ministro dell'interno, viene approvato lo statuto del Monte di pieta' di Cagliari.

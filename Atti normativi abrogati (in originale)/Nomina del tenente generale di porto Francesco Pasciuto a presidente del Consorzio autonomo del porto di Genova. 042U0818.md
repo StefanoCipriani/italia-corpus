@@ -1,16 +1,14 @@
-REGIO DECRETO 22 maggio 1942 n. 818
-
-
-REGIO DECRETO 22 maggio 1942 n. 818
-===================================
-
-Nomina del tenente generale di porto Francesco Pasciuto a presidente del Consorzio autonomo del porto di Genova. (042U0818)
----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/08/1942
+---
+tipo: REGIO DECRETO
+numero: 818
+data: 1942-05-22
+titolo: "Nomina del tenente generale di porto Francesco Pasciuto a presidente del Consorzio autonomo del porto di Genova. (042U0818)"
+urn: urn:nir:stato:regio.decreto:1942-05-22;818
+codice_redazionale: 042U0818
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,39 +26,26 @@ In accoglimento del desiderio espresso dal predetto comm. Federico Negrotto Camb
 
 Sentito il Consiglio dei' Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per le comunicazioni; Abbiamo decretato e decretiamo:
 
-proposta del Ministro per le comunicazioni; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il tenente generale di porto in p. a. Francesco Pasciuto e' nominato presidente del Consorzio autonomo del porto di Genova a decorrere dal 1° giugno 1942-XX, in sostituzione del contrammiraglio gr. uff. Federico Negrotto Cambiasti, il quale continua nella carica suddetta sino al 31 maggio 1942-XX.
 
-  
-  
-Il tenente generale di porto in p. a. Francesco Pasciuto e' nominato presidente del Consorzio autonomo del porto di Genova a decorrere dal 1° giugno 1942-XX, in sostituzione del contrammiraglio gr. uff. Federico Negrotto Cambiasti, il quale continua nella carica suddetta sino al 31 maggio 1942-XX.   
-  
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Al nuovo presidente cav. di gr. er. Francesco Pasciuto viene corrisposta, a carico del bilancio del Consorzio, l'indennita' annua di L. 72.000, comprensiva dell'indennita' di rappresentanza.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 maggio 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Host Venturi   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 28 luglio 1942-XX   
-  
-Atti del Governo, registro 447,. foglio 68. - Mancini   
-  
-  
+Al nuovo presidente cav. di gr. er. Francesco Pasciuto viene corrisposta, a carico del bilancio del Consorzio, l'indennita' annua di L. 72.000, comprensiva dell'indennita' di rappresentanza. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 maggio 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Host Venturi 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 28 luglio 1942-XX 
+ 
+ Atti del Governo, registro 447,. foglio 68. - Mancini

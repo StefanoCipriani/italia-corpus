@@ -1,16 +1,14 @@
-REGIO DECRETO 22 ottobre 1874 n. 2179
-
-
-REGIO DECRETO 22 ottobre 1874 n. 2179
-=====================================
-
-I Comuni di Tricesimo, Nimis, Collalto della Soima e Cassacco sono distaccati dalla Sezione secondaria di Tarcento e costituiti in Sezione separata del Collegio elettorale di Gemona, con sede nel primo dei detti Comuni. (074U2179)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/11/1874
+---
+tipo: REGIO DECRETO
+numero: 2179
+data: 1874-10-22
+titolo: "I Comuni di Tricesimo, Nimis, Collalto della Soima e Cassacco sono distaccati dalla Sezione secondaria di Tarcento e costituiti in Sezione separata del Collegio elettorale di Gemona, con sede nel primo dei detti Comuni. (074U2179)"
+urn: urn:nir:stato:regio.decreto:1874-10-22;2179
+codice_redazionale: 074U2179
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Tricesimo, Nimis, Collalto della Soima e Cassacco sono distaccati dalla sezione secondaria di Tarcento, e costituiti in sezione separata del Collegio elettorale di Gemona n. 468, con sede nel primo dei detti comuni.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 22 ottobre 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
+I comuni di Tricesimo, Nimis, Collalto della Soima e Cassacco sono distaccati dalla sezione secondaria di Tarcento, e costituiti in sezione separata del Collegio elettorale di Gemona n. 468, con sede nel primo dei detti comuni. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 22 ottobre 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

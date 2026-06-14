@@ -1,19 +1,15 @@
-REGIO DECRETO 27 agosto 1914 n. 972
+---
+tipo: REGIO DECRETO
+numero: 972
+data: 1914-08-27
+titolo: "Applicazione di tassa di famiglia. (014U0972)"
+urn: urn:nir:stato:regio.decreto:1914-08-27;972
+codice_redazionale: 014U0972
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 agosto 1914 n. 972
-===================================
-
-Applicazione di tassa di famiglia. (014U0972)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 27/09/1914
-
-Art. 1
-------
-
-  
-N. 972   
-  
-Regio Decreto 27 agosto 1914, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Santa Marina (Salerno) di applicare nell'anno 1914 la tassa di famiglia in base alla deliberazione consiliare dell'11 febbraio 1914.   
-  
+N. 972 
+ 
+ Regio Decreto 27 agosto 1914, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Santa Marina (Salerno) di applicare nell'anno 1914 la tassa di famiglia in base alla deliberazione consiliare dell'11 febbraio 1914.

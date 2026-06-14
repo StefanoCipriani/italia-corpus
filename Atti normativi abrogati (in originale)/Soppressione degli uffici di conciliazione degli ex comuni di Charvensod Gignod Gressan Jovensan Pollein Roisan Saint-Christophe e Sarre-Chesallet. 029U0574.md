@@ -1,49 +1,45 @@
-REGIO DECRETO 11 febbraio 1929 n. 574
+---
+tipo: REGIO DECRETO
+numero: 574
+data: 1929-02-11
+titolo: "Soppressione degli uffici di conciliazione degli ex comuni di Charvensod, Gignod, Gressan, Jovensan, Pollein, Roisan, Saint-Christophe e Sarre-Chesallet. (029U0574)"
+urn: urn:nir:stato:regio.decreto:1929-02-11;574
+codice_redazionale: 029U0574
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 febbraio 1929 n. 574
-=====================================
-
-Soppressione degli uffici di conciliazione degli ex comuni di Charvensod, Gignod, Gressan, Jovensan, Pollein, Roisan, Saint-Christophe e Sarre-Chesallet. (029U0574)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/05/1929
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
-  
-RE D'ITALIA   
-  
-Visto il [R. decreto 16 febbraio 1928, n. 321](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-16;321), col quale i comuni di Charvensod, Gignod, Gressan, Jovensan, Pollein, Roisan, Saint-Christophe e Sarre-Chesallet sono stati soppressi ed i rispettivi territori aggregati a quello di Aosta;   
-  
-Vista la deliberazione del commissario prefettizio di Aosta, rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Charvensod, Gignod, Gressan, Jovensan, Pollein, Saint-Christophe, Sarre-Chesallet e Roisan;   
-  
-Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino;   
-  
-Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;261~art1), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728;   
-  
-Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giustizia e gli affari di culto;   
-  
-Abbiamo decretato e decretiamo:   
-  
-Gli uffici di conciliazione esistenti negli ex comuni di Charvensod, Gignod, Gressan, Jovensan, Pollein, Roisan, Saint-Christophe e Sarre-Chesallet sono soppressi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 febbraio 1929 - Anno VII   
-  
-VITTORIO EMANUELE.   
-  
-ROCCO.   
-  
-Visto, il Guardasigilli: ROCCO.   
-  
-Registrato alla Corte dei conti, addi' 26 aprile 1929 - Anno VII.   
-  
-Atti del Governo, registro 283, foglio 199. - FERZI.   
-  
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Visto il [R. decreto 16 febbraio 1928, n. 321](Aggregazione%20dei%20comuni%20di%20Saint%20Christophe%20Pollein%20Charvensod%20Gressan%20Jovençan%20Sarre%20Gignod%20e%20Roisan%20al%20comune%20di%20Aosta.%20028U0321.md), col quale i comuni di Charvensod, Gignod, Gressan, Jovensan, Pollein, Roisan, Saint-Christophe e Sarre-Chesallet sono stati soppressi ed i rispettivi territori aggregati a quello di Aosta; 
+ 
+ Vista la deliberazione del commissario prefettizio di Aosta, rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Charvensod, Gignod, Gressan, Jovensan, Pollein, Saint-Christophe, Sarre-Chesallet e Roisan; 
+ 
+ Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino; 
+ 
+ Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 
+ 
+ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giustizia e gli affari di culto; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ Gli uffici di conciliazione esistenti negli ex comuni di Charvensod, Gignod, Gressan, Jovensan, Pollein, Roisan, Saint-Christophe e Sarre-Chesallet sono soppressi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 febbraio 1929 - Anno VII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ ROCCO. 
+ 
+ Visto, il Guardasigilli: ROCCO. 
+ 
+ Registrato alla Corte dei conti, addi' 26 aprile 1929 - Anno VII. 
+ 
+ Atti del Governo, registro 283, foglio 199. - FERZI.

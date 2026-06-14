@@ -1,19 +1,15 @@
-REGIO DECRETO 25 giugno 1908 n. CCLXV
+---
+tipo: REGIO DECRETO
+numero: CCLXV
+data: 1908-06-25
+titolo: "Riflettente erezione in ente morale. (0800265R)"
+urn: urn:nir:stato:regio.decreto:1908-06-25;265
+codice_redazionale: 0800265R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 giugno 1908 n. CCLXV
-=====================================
-
-Riflettente erezione in ente morale. (0800265R)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/08/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCLXV (Dato a Roma, il 25 giugno 1908), col quale l'opera pia «Carlo Pombia» in Romentino (Novara) e' eretta in ente morale.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCLXV (Dato a Roma, il 25 giugno 1908), col quale l'opera pia «Carlo Pombia» in Romentino (Novara) e' eretta in ente morale.

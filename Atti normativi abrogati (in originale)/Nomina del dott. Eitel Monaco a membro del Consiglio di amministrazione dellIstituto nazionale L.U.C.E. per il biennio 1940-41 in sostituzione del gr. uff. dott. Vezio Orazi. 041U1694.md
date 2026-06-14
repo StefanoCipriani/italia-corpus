@@ -1,16 +1,14 @@
-REGIO DECRETO 25 luglio 1941 n. 1694
-
-
-REGIO DECRETO 25 luglio 1941 n. 1694
-====================================
-
-Nomina del dott. Eitel Monaco a membro del Consiglio di amministrazione dell'Istituto nazionale L.U.C.E. per il biennio 1940-41 in sostituzione del gr. uff. dott. Vezio Orazi. (041U1694)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/07/1942
+---
+tipo: REGIO DECRETO
+numero: 1694
+data: 1941-07-25
+titolo: "Nomina del dott. Eitel Monaco a membro del Consiglio di amministrazione dell'Istituto nazionale L.U.C.E. per il biennio 1940-41 in sostituzione del gr. uff. dott. Vezio Orazi. (041U1694)"
+urn: urn:nir:stato:regio.decreto:1941-07-25;1694
+codice_redazionale: 041U1694
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 Per grazia di Dio e per volonta' della Nazione
 
@@ -28,29 +26,21 @@ Considerato che il grand'uff. dott. Vezio Orazi, membro del Consiglio di amminis
 
 Visto il decreto interministeriale in data 1° giugno 1941-XIX col quale il dott. Eitel Monaco e' assunto in servizio presso il Ministero della cultura popolare ed e' incaricato delle funzioni di direttore generale per la Cinematografia;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per la cultura popolare; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per la cultura popolare; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-In sostituzione del grand'uff. dott. Vezio Orazi, il dott. Eitel Monaco, incaricato delle funzioni di direttore generale per la Cinematografia, e' nominato membro del Consiglio d'amministrazione dell'Istituto nazionale L.U.C.E. per il biennio 1940-41, in rappresentanza del Ministero della cultura popolare.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 25 luglio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Pavolini   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 8 luglio 1942-XX   
-Atti del Governo, registro 447, foglio 32. - Mancini   
-  
-  
+In sostituzione del grand'uff. dott. Vezio Orazi, il dott. Eitel Monaco, incaricato delle funzioni di direttore generale per la Cinematografia, e' nominato membro del Consiglio d'amministrazione dell'Istituto nazionale L.U.C.E. per il biennio 1940-41, in rappresentanza del Ministero della cultura popolare. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 25 luglio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Pavolini 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 8 luglio 1942-XX 
+ Atti del Governo, registro 447, foglio 32. - Mancini

@@ -1,16 +1,14 @@
-REGIO DECRETO 29 aprile 1877 n. 3796
-
-
-REGIO DECRETO 29 aprile 1877 n. 3796
-====================================
-
-Che separa il comune di Maschito dalla sezione elettorale di Forenza e lo costituisce in sezione distinta del collegio di Acerenza. (077U3796)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/05/1877
+---
+tipo: REGIO DECRETO
+numero: 3796
+data: 1877-04-29
+titolo: "Che separa il comune di Maschito dalla sezione elettorale di Forenza e lo costituisce in sezione distinta del collegio di Acerenza. (077U3796)"
+urn: urn:nir:stato:regio.decreto:1877-04-29;3796
+codice_redazionale: 077U3796
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Maschito e' separato dalla sezione elettorale di Forenza e formera' una sezione distinta del Collegio elettorale di Acerenza.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 aprile 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il comune di Maschito e' separato dalla sezione elettorale di Forenza e formera' una sezione distinta del Collegio elettorale di Acerenza. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 aprile 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

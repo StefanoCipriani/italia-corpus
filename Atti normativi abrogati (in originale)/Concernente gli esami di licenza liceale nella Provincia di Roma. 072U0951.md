@@ -1,16 +1,14 @@
-REGIO DECRETO 21 luglio 1872 n. 951
-
-
-REGIO DECRETO 21 luglio 1872 n. 951
-===================================
-
-Concernente gli esami di licenza liceale nella Provincia di Roma. (072U0951)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/09/1872
+---
+tipo: REGIO DECRETO
+numero: 951
+data: 1872-07-21
+titolo: "Concernente gli esami di licenza liceale nella Provincia di Roma. (072U0951)"
+urn: urn:nir:stato:regio.decreto:1872-07-21;951
+codice_redazionale: 072U0951
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,23 +20,16 @@ Considerando che tale obbligo deriva da una precedente disposizione contenuta ne
 
 Sentita la Giunta superiore per la licenza liceale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I giovani da un biennio domiciliati nella provincia romana, candidati alla licenza liceale, non saranno tenuti all'atto dell'inscrizione a presentare l'attestato di licenza ginnasiale se non dall'anno scolastico 1873-74.   
-  
-Il predetto Nostro Ministro Segretario di Stato per la Pubblica Istruzione e' incaricato dell'esecuzione del presente decreto, che sara' registrato alla Corte dei conti ed inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia.   
-  
-Dato a Valsavaranche, addi' 21 luglio 1872.   
-  
-VITTORIO EMANUELE.   
-  
-Quintino Sella.   
-  
+I giovani da un biennio domiciliati nella provincia romana, candidati alla licenza liceale, non saranno tenuti all'atto dell'inscrizione a presentare l'attestato di licenza ginnasiale se non dall'anno scolastico 1873-74. 
+ 
+ Il predetto Nostro Ministro Segretario di Stato per la Pubblica Istruzione e' incaricato dell'esecuzione del presente decreto, che sara' registrato alla Corte dei conti ed inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia. 
+ 
+ Dato a Valsavaranche, addi' 21 luglio 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Quintino Sella.

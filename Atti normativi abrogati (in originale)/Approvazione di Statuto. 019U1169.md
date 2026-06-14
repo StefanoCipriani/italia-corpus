@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 01 maggio 1919 n. 1169
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1169
+data: 1919-05-01
+titolo: "Approvazione di Statuto. (019U1169)"
+urn: urn:nir:stato:decreto.luogotenenziale:1919-05-01;1169
+codice_redazionale: 019U1169
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 01 maggio 1919 n. 1169
-==============================================
-
-Approvazione di Statuto. (019U1169)
------------------------------------
-
-Entrata in vigore del provvedimento: 07/08/1919
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1169. Decreto Luogotenenziale 1° maggio 1919, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, viene approvato il nuovo statuto dell'Istituto nazionale di beneficenza Vittorio Emanuele III in Roma, per gli ufficiali pensionati di terra e di mare.
+1169.
+
+Decreto Luogotenenziale 1° maggio 1919, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, viene approvato il nuovo statuto dell'Istituto nazionale di beneficenza Vittorio Emanuele III in Roma, per gli ufficiali pensionati di terra e di mare.

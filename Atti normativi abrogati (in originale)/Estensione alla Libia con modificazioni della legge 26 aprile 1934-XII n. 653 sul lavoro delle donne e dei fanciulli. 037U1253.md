@@ -1,16 +1,14 @@
-REGIO DECRETO 03 aprile 1937 n. 1253
-
-
-REGIO DECRETO 03 aprile 1937 n. 1253
-====================================
-
-Estensione alla Libia, con modificazioni, della legge 26 aprile 1934-XII, n. 653, sul lavoro delle donne e dei fanciulli. (037U1253)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/08/1937
+---
+tipo: REGIO DECRETO
+numero: 1253
+data: 1937-04-03
+titolo: "Estensione alla Libia, con modificazioni, della legge 26 aprile 1934-XII, n. 653, sul lavoro delle donne e dei fanciulli. (037U1253)"
+urn: urn:nir:stato:regio.decreto:1937-04-03;1253
+codice_redazionale: 037U1253
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,79 +26,47 @@ Udito il parere del Consiglio superiore coloniale;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per le colonie; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per le colonie; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono estese alla Libia, in quanto applicabili e con le modificazioni contenute negli articoli seguenti, le disposizioni della legge 26 aprile 1934-XII, n. 653, vigenti nel Regno in materia di tutela del lavoro delle donne e dei fanciulli.
 
-  
-  
-Sono estese alla Libia, in quanto applicabili e con le modificazioni contenute negli articoli seguenti, le disposizioni della legge 26 aprile 1934-XII, n. 653, vigenti nel Regno in materia di tutela del lavoro delle donne e dei fanciulli.   
+## Art. 2.
 
-Art. 2
-------
+L'eta' dei cittadini libici, ai fini dell'art. 3 della citata legge, e' determinata a norma dell'art. 218 del R. decreto 27 giugno 1935-XIII, n. 2167, sull'ordinamento giudiziario per la Libia.
 
-  
-  
-L'eta' dei cittadini libici, ai fini dell'art. 3 della citata legge, e' determinata a norma dell'art. 218 del R. decreto 27 giugno 1935-XIII, n. 2167, sull'ordinamento giudiziario per la Libia.   
-  
+## Art. 3.
 
-Art. 3
-------
+Il disposto del 2° comma dell'art. 7 della legge non si applica ai fanciulli cittadini libici.
 
-  
-  
-Il disposto del 2° comma dell'art. 7 della legge non si applica ai fanciulli cittadini libici.   
-  
+## Art. 4.
 
-Art. 4
-------
+Alla determinazione dei lavori pericolosi, faticosi ed insalubri di cui all'art. 10 e all'estensione del divieto del lavoro notturno prevista all'art. 12 della legge 26 aprile 1934-XII, n. 653, sara' provveduto con decreto del Governatore generale.
 
-  
-  
-Alla determinazione dei lavori pericolosi, faticosi ed insalubri di cui all'art. 10 e all'estensione del divieto del lavoro notturno prevista all'art. 12 della legge 26 aprile 1934-XII, n. 653, sara' provveduto con decreto del Governatore generale.   
-  
+## Art. 5.
 
-Art. 5
-------
+L'ultimo comma dell'art. 11 della citata legge, s'intende modificato come segue: 
+ «E' vietato adibire al trasporto ed al sollevamento di pesi le donne in istato di gravidanza, nei tre mesi precedenti la data presunta del parto».
 
-  
-  
-L'ultimo comma dell'art. 11 della citata legge, s'intende modificato come segue:   
-«E' vietato adibire al trasporto ed al sollevamento di pesi le donne in istato di gravidanza, nei tre mesi precedenti la data presunta del parto».   
-  
+## Art. 6.
 
-Art. 6
-------
+Oltre le facolta' indicate dall'art. 16 della legge, il Governatore generale puo' disciplinare nelle aziende con personale musulmano, il lavoro notturno delle donne e dei fanciulli in determinati periodi e ricorrenze, secondo le tradizioni e le consuetudini religiose.
 
-  
-  
-Oltre le facolta' indicate dall'art. 16 della legge, il Governatore generale puo' disciplinare nelle aziende con personale musulmano, il lavoro notturno delle donne e dei fanciulli in determinati periodi e ricorrenze, secondo le tradizioni e le consuetudini religiose.   
-  
+## Art. 7.
 
-Art. 7
-------
+Le attribuzioni, che, in base alla Citata legge, sono esercitate nel Regno dal Ministero delle corporazioni, dal Ministero dell'educazione nazionale, dal Ministero dell'interno, dal Consiglio superiore di sanita' e dall'Ispettorato corporativo, sono devolute, in Libia, al Governatore generale, con facolta' di delegare agli Uffici coloniali dell'economia corporativa competenti per territorio quelle esercitate dall'Ispettorato corporativo. 
+ Le attribuzioni che, in base alla stessa legge sono esercitate nel Regno dal Consiglio nazionale delle corporazioni e dai prefetti, sono devolute, in Libia, rispettivamente ai Consigli coloniali dell'economia corporativa ed ai commissari generali.
 
-  
-  
-Le attribuzioni, che, in base alla Citata legge, sono esercitate nel Regno dal Ministero delle corporazioni, dal Ministero dell'educazione nazionale, dal Ministero dell'interno, dal Consiglio superiore di sanita' e dall'Ispettorato corporativo, sono devolute, in Libia, al Governatore generale, con facolta' di delegare agli Uffici coloniali dell'economia corporativa competenti per territorio quelle esercitate dall'Ispettorato corporativo.   
-Le attribuzioni che, in base alla stessa legge sono esercitate nel Regno dal Consiglio nazionale delle corporazioni e dai prefetti, sono devolute, in Libia, rispettivamente ai Consigli coloniali dell'economia corporativa ed ai commissari generali.   
+## Art. 8.
 
-Art. 8
-------
-
-  
-  
-Il Governatore generale e' autorizzato a emanare, con proprio decreto, norme per l'applicazione del presente decreto in armonia con le condizioni e le esigenze locali.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Roma, addi' 3 aprile 1937 - Anno XV   
-VITTORIO EMANUELE   
-  
-Mussolini - Lessona.   
-  
-Visto, il Guardasigilli: Solmi.   
-Registrato alla Corte dei conti, addi' 30 luglio 1937 - Anno XV   
-Atti del Governo, registro 387, foglio 158. - Mancini.   
+Il Governatore generale e' autorizzato a emanare, con proprio decreto, norme per l'applicazione del presente decreto in armonia con le condizioni e le esigenze locali. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 3 aprile 1937 - Anno XV 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Lessona. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ Registrato alla Corte dei conti, addi' 30 luglio 1937 - Anno XV 
+ Atti del Governo, registro 387, foglio 158. - Mancini.

@@ -1,22 +1,18 @@
-REGIO DECRETO 23 luglio 1903 n. CCLXXXIX
+---
+tipo: REGIO DECRETO
+numero: CCLXXXIX
+data: 1903-07-23
+titolo: "Che trasforma l'opera pia Campodonico e la concentra, insieme all'opera pia Ratti-Capponi, nella congregazione di carita' di Castel Gandolfo. (0300289R)"
+urn: urn:nir:stato:regio.decreto:1903-07-23;289
+codice_redazionale: 0300289R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 luglio 1903 n. CCLXXXIX
-========================================
-
-Che trasforma l'opera pia Campodonico e la concentra, insieme all'opera pia Ratti-Capponi, nella congregazione di carita' di Castel Gandolfo. (0300289R)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/08/1903
-
-Art. 1
-------
-
-  
-Con il quale le opere pie Ratti-Capponi e Campodonico sono concentrate nella congregazione di carita' di Castel Gandolfo (Roma) e l'opera pia Campodonico e' trasformata nel senso di erogarne le rendite esclusivamente in doti per matrimonio, sopprimendo le doti per monacazione. - Firmato VITTORIO EMANUELE - Controfirmato G.  
-Zanardelli. - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 10 agosto 1903.   
-  
-Reg. 12. Atti del Governo a f. 22.   
-  
+Con il quale le opere pie Ratti-Capponi e Campodonico sono concentrate nella congregazione di carita' di Castel Gandolfo (Roma) e l'opera pia Campodonico e' trasformata nel senso di erogarne le rendite esclusivamente in doti per matrimonio, sopprimendo le doti per monacazione. - Firmato VITTORIO EMANUELE - Controfirmato G.
+Zanardelli. - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 10 agosto 1903. 
+ 
+ Reg. 12. Atti del Governo a f. 22.

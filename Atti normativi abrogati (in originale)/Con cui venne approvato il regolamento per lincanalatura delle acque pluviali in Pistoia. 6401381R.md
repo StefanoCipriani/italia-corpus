@@ -1,19 +1,15 @@
-REGIO DECRETO 30 settembre 1864 n. MCCCLXXXI
+---
+tipo: REGIO DECRETO
+numero: MCCCLXXXI
+data: 1864-09-30
+titolo: "Con cui venne approvato il regolamento per l'incanalatura delle acque pluviali in Pistoia. (6401381R)"
+urn: urn:nir:stato:regio.decreto:1864-09-30;1381
+codice_redazionale: 6401381R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 settembre 1864 n. MCCCLXXXI
-============================================
-
-Con cui venne approvato il regolamento per l'incanalatura delle acque pluviali in Pistoia. (6401381R)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/09/1864
-
-Art. 1
-------
-
-  
-Con cui venne approvato il regolamento per l'incanalatura delle acque pluviali, adottato dalla Comunita' di Pistoia (Firenze) colla deliberazione delli 6 corrente settembre.   
-  
-Torino 30 settembre 1864   
-  
+Con cui venne approvato il regolamento per l'incanalatura delle acque pluviali, adottato dalla Comunita' di Pistoia (Firenze) colla deliberazione delli 6 corrente settembre. 
+ 
+ Torino 30 settembre 1864

@@ -1,16 +1,14 @@
-REGIO DECRETO 19 dicembre 1909 n. 864
-
-
-REGIO DECRETO 19 dicembre 1909 n. 864
-=====================================
-
-Che istituisce un ufficio di conciliazione nel comune di Melito Porto Salvo. (009U0864)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/03/1910
+---
+tipo: REGIO DECRETO
+numero: 864
+data: 1909-12-19
+titolo: "Che istituisce un ufficio di conciliazione nel comune di Melito Porto Salvo. (009U0864)"
+urn: urn:nir:stato:regio.decreto:1909-12-19;864
+codice_redazionale: 009U0864
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Viste le deliberazioni in data 14 marzo 1908 e 21 giugno 1909 del comune di Meli
 
 Visto il rapporto 23 agosto 1909, n. 5309, del primo presidente della Corte d'appello di Catanzaro, che, sentito il parere di quel procuratore generale, propone la istituzione di detto ufficio;
 
-Visti gli [art. 1 della legge 16 giugno 1892, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;261~art1), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728;
+Visti gli [art. 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728;
 
-Sulla
------
+Sulla proposta del Nostro guardasigilli, ministro segretario di Stato per gli affari di grazia e giustizia e dei culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro guardasigilli, ministro segretario di Stato per gli affari di grazia e giustizia e dei culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito nel comune liti Melito Porto Salvo un distinto ufficio di conciliazione con sede nella frazione di Pontidattilo e con giurisdizione nella frazione medesima, confinante a nord col territorio del comune di Montebello, a sud, col mare, ad est col torrente Tabacco e ad ovest col torrente Sant'Elia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 dicembre 1909.   
-  
-VITTORIO EMANUELE.   
-  
-Scialoja.   
-  
-Visto, Il guardasigilli: Scialoja.   
-  
+E' istituito nel comune liti Melito Porto Salvo un distinto ufficio di conciliazione con sede nella frazione di Pontidattilo e con giurisdizione nella frazione medesima, confinante a nord col territorio del comune di Montebello, a sud, col mare, ad est col torrente Tabacco e ad ovest col torrente Sant'Elia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 dicembre 1909. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Scialoja. 
+ 
+ Visto, Il guardasigilli: Scialoja.

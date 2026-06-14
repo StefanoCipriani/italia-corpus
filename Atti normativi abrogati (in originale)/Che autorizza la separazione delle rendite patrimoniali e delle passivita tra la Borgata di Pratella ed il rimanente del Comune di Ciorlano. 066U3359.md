@@ -1,16 +1,14 @@
-REGIO DECRETO 22 novembre 1866 n. 3359
-
-
-REGIO DECRETO 22 novembre 1866 n. 3359
-======================================
-
-Che autorizza la separazione delle rendite patrimoniali e delle passivita' tra la Borgata di Pratella ed il rimanente del Comune di Ciorlano. (066U3359)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/01/1867
+---
+tipo: REGIO DECRETO
+numero: 3359
+data: 1866-11-22
+titolo: "Che autorizza la separazione delle rendite patrimoniali e delle passivita' tra la Borgata di Pratella ed il rimanente del Comune di Ciorlano. (066U3359)"
+urn: urn:nir:stato:regio.decreto:1866-11-22;3359
+codice_redazionale: 066U3359
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Vista la domanda sporta dalla maggioranza dei contribuenti di Pratella per otten
 
 Vista la deliberazione del Consiglio comunale di Ciorlano in data 22 aprile ultimo scorso;
 
-Visto
------
+Visto l'art. 16 della Legge sull'amministrazione comunale e provinciale in data 20 marzo 1865; Abbiamo decretato e decretiamo:
 
-l'art. 16 della Legge sull'amministrazione comunale e provinciale in data 20 marzo 1865; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A partire dal 1° gennaio 1867 e' autorizzata la separazione delle rendite patrimoniali e delle passivita' tra la Borgata di Pratella ed il rimanente del Comune di Ciorlano.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 22 novembre 1866.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 dicembre 1866   
-  
-Reg.° 38 Atti del Governo a c. 104. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Borgatti.   
-  
-Ricasoli.   
-  
+A partire dal 1° gennaio 1867 e' autorizzata la separazione delle rendite patrimoniali e delle passivita' tra la Borgata di Pratella ed il rimanente del Comune di Ciorlano. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 22 novembre 1866. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 dicembre 1866 
+ 
+ Reg.° 38 Atti del Governo a c. 104. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ Ricasoli.

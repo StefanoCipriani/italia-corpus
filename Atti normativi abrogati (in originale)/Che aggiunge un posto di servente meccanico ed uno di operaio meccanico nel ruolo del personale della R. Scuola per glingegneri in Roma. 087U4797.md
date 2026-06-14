@@ -1,16 +1,14 @@
-REGIO DECRETO 03 luglio 1887 n. 4797
-
-
-REGIO DECRETO 03 luglio 1887 n. 4797
-====================================
-
-Che aggiunge un posto di servente meccanico ed uno di operaio meccanico nel ruolo del personale della R. Scuola per gl'ingegneri in Roma. (087U4797)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/08/1887
+---
+tipo: REGIO DECRETO
+numero: 4797
+data: 1887-07-03
+titolo: "Che aggiunge un posto di servente meccanico ed uno di operaio meccanico nel ruolo del personale della R. Scuola per gl'ingegneri in Roma. (087U4797)"
+urn: urn:nir:stato:regio.decreto:1887-07-03;4797
+codice_redazionale: 087U4797
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,26 +18,19 @@ Visto il ruolo del personale addetto alla R. Scuola di applicazione per gl'ingeg
 
 Visto il bilancio del Ministero della Pubblica Istruzione per l'esercizio 1887-88;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nel ruolo del personale della R. Scuola di applicazione per gl'ingegneri di Roma sono aggiunti un posto di servente meccanico per il Gabinetto di geodesia, ed un posto di operaio meccanico per il Gabinetto di fisica tecnica collo stipendio di lire milleduecento (L.  
-1200) per ciascuno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 luglio 1887.   
-  
-UMBERTO.   
-  
-Coppino.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+Nel ruolo del personale della R. Scuola di applicazione per gl'ingegneri di Roma sono aggiunti un posto di servente meccanico per il Gabinetto di geodesia, ed un posto di operaio meccanico per il Gabinetto di fisica tecnica collo stipendio di lire milleduecento (L.
+1200) per ciascuno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 luglio 1887. 
+ 
+ UMBERTO. 
+ 
+ Coppino. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

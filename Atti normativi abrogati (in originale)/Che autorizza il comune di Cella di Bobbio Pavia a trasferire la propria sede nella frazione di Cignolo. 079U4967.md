@@ -1,16 +1,14 @@
-REGIO DECRETO 12 giugno 1879 n. 4967
-
-
-REGIO DECRETO 12 giugno 1879 n. 4967
-====================================
-
-Che autorizza il comune di Cella di Bobbio (Pavia) a trasferire la propria sede nella frazione di Cignolo. (079U4967)
----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/08/1879
+---
+tipo: REGIO DECRETO
+numero: 4967
+data: 1879-06-12
+titolo: "Che autorizza il comune di Cella di Bobbio (Pavia) a trasferire la propria sede nella frazione di Cignolo. (079U4967)"
+urn: urn:nir:stato:regio.decreto:1879-06-12;4967
+codice_redazionale: 079U4967
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Vista la deliberazione del Consiglio provinciale di Pavia, in data 26 agosto 187
 
 Vista la legge comunale e provinciale 20 marzo 1865, allegato A;
 
-Sentito
--------
+Sentito il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
 
-il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Cella di Bobbio, nella provincia di Pavia, e' autorizzato a trasferire la sede municipale dalla frazione di Cella a quelle di Cignolo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 giugno 1879.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
+Il comune di Cella di Bobbio, nella provincia di Pavia, e' autorizzato a trasferire la sede municipale dalla frazione di Cella a quelle di Cignolo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 giugno 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.

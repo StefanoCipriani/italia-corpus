@@ -1,16 +1,14 @@
-REGIO DECRETO 24 febbraio 1870 n. 5543
-
-
-REGIO DECRETO 24 febbraio 1870 n. 5543
-======================================
-
-Col quale sono esclusi dall'Elenco delle strade provinciali di Milano i due tronchi della strada di Crema per Rivolta. (070U5543)
----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/04/1870
+---
+tipo: REGIO DECRETO
+numero: 5543
+data: 1870-02-24
+titolo: "Col quale sono esclusi dall'Elenco delle strade provinciali di Milano i due tronchi della strada di Crema per Rivolta. (070U5543)"
+urn: urn:nir:stato:regio.decreto:1870-02-24;5543
+codice_redazionale: 070U5543
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,29 +28,22 @@ Considerando che i primi due tronchi fanno parte di una medesima strada scorrent
 
 Considerando invece che il terzo tronco sopraindicato si distacca dalla strada provinciale Veneta, e fa parte di un'altra strada, la quale sul finitimo territorio Bergamasco trovasi classificata fra le provinciali;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono esclusi dall'Elenco delle strade provinciali di Milano i due tronchi della strada di Crema per Rivolta, compresi fra il ponte sull'Adda a Lodi ed il confine Cremonese, e tra il ponte sull'Adda a Cassano e lo stesso confine, ed e' mantenuto in detto Elenco il tronco, detto strada di Fara, che dipartendosi dallo stesso ponte di Cassano in direzione opposta, tende al confine della Provincia di Bergamo.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli addi' 24 febbraio 1870.   
-  
-VITTORIO EMANUELE   
-  
-G. Gadda.   
-  
-Registrato alla Corte dei conti addi' 11 marzo 1870   
-  
-Reg. 50 Atti del Governo a c. 122. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
+Sono esclusi dall'Elenco delle strade provinciali di Milano i due tronchi della strada di Crema per Rivolta, compresi fra il ponte sull'Adda a Lodi ed il confine Cremonese, e tra il ponte sull'Adda a Cassano e lo stesso confine, ed e' mantenuto in detto Elenco il tronco, detto strada di Fara, che dipartendosi dallo stesso ponte di Cassano in direzione opposta, tende al confine della Provincia di Bergamo. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli addi' 24 febbraio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ G. Gadda. 
+ 
+ Registrato alla Corte dei conti addi' 11 marzo 1870 
+ 
+ Reg. 50 Atti del Governo a c. 122. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli.

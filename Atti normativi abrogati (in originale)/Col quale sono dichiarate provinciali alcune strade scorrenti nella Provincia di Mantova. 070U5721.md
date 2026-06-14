@@ -1,16 +1,14 @@
-REGIO DECRETO 29 maggio 1870 n. 5721
-
-
-REGIO DECRETO 29 maggio 1870 n. 5721
-====================================
-
-Col quale sono dichiarate provinciali alcune strade scorrenti nella Provincia di Mantova. (070U5721)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/08/1870
+---
+tipo: REGIO DECRETO
+numero: 5721
+data: 1870-05-29
+titolo: "Col quale sono dichiarate provinciali alcune strade scorrenti nella Provincia di Mantova. (070U5721)"
+urn: urn:nir:stato:regio.decreto:1870-05-29;5721
+codice_redazionale: 070U5721
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,32 +28,16 @@ Vista l'ultima deliberazione 26 gennaio prossimo passato del Consiglio provincia
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate provinciali le dodici strade nella provincia di Mantova, indicate nell'annesso elenco che sara' munito del visto del predetto nostro Ministro.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 29 maggio 1870.   
-  
-VITTORIO EMANUELE.   
-  
-G. Gadda.   
-  
-  
-
-Elenco
-
-  
-ELENCO delle strade provinciali deliberato dal Consiglio provinciale di Mantova nelle adunanze delli 13 settembre 1869 e 26 gennaio 1870, ed approvato con R. decreto del 29 maggio 1870.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=070U572100100010110001&dgu=1870-07-23&art.dataPubblicazioneGazzetta=1870-07-23&art.codiceRedazionale=070U5721)
-  
+Sono dichiarate provinciali le dodici strade nella provincia di Mantova, indicate nell'annesso elenco che sara' munito del visto del predetto nostro Ministro. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 29 maggio 1870. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Gadda.

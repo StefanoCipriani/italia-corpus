@@ -1,16 +1,14 @@
-REGIO DECRETO 03 maggio 1872 n. 809
-
-
-REGIO DECRETO 03 maggio 1872 n. 809
-===================================
-
-Col quale sui legni Ammiragli di Squadra o di Divisione navale il Ministro della Marina potra' ordinare l'imbarco di un Ingegnere o Sotto-Ingegnere navale. (072U0809)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/06/1872
+---
+tipo: REGIO DECRETO
+numero: 809
+data: 1872-05-03
+titolo: "Col quale sui legni Ammiragli di Squadra o di Divisione navale il Ministro della Marina potra' ordinare l'imbarco di un Ingegnere o Sotto-Ingegnere navale. (072U0809)"
+urn: urn:nir:stato:regio.decreto:1872-05-03;809
+codice_redazionale: 072U0809
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,23 +20,16 @@ Ritenuta la convenienza dell'imbarco facoltativo di un ufficiale del Genio naval
 
 Sentito il Consiglio Superiore di Marina;
 
-Sulla
------
+Sulla proposta del Nostro Ministro della Marina, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro della Marina, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sui legni ammiragli di squadra o di divisione navale il Ministro della Marina potra', quando il creda necessario, ordinare l'imbarco di un ingegnere o sottoingegnere navale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli, addi' 3 maggio 1872.   
-  
-VITTORIO EMANUELE.   
-  
-A. Riboty.   
-  
+Sui legni ammiragli di squadra o di divisione navale il Ministro della Marina potra', quando il creda necessario, ordinare l'imbarco di un ingegnere o sottoingegnere navale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli, addi' 3 maggio 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ A. Riboty.

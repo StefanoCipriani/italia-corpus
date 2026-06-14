@@ -1,16 +1,14 @@
-REGIO DECRETO 05 aprile 1903 n. 146
-
-
-REGIO DECRETO 05 aprile 1903 n. 146
-===================================
-
-Modificazioni ai R. decreto 2 febbraio 1902, n. 26, sulla carriera degli impiegati dell'Amministrazione centrale e provinciale dell'Interno. (003U0146)
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/05/1903
+---
+tipo: REGIO DECRETO
+numero: 146
+data: 1903-04-05
+titolo: "Modificazioni ai R. decreto 2 febbraio 1902, n. 26, sulla carriera degli impiegati dell'Amministrazione centrale e provinciale dell'Interno. (003U0146)"
+urn: urn:nir:stato:regio.decreto:1903-04-05;146
+codice_redazionale: 003U0146
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,34 +20,27 @@ Sentito il Consiglio di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al capoverso dell'articolo 29 ed all'ultimo capoverso dell'articolo 32 del Regolamento sopracitato sono sostituiti i seguenti:   
-  
-Articolo 29 - Capoverso.   
-  
-«L'ammissione all'esame dei viceragionieri e' regolata dalle disposizioni contenute nel penultimo comma dell'articolo precedente; all'esame per la nomina ad archivista seno ammessi tutti gli ufficiali d'ordine di prima e seconda classe».   
-  
-Articolo 32 - Ultimo capoverso.   
-  
-«La medesima anzianita' determina la graduatoria degli ufficiali d'ordine che superano l'esame di idoneita'; questi pero' conseguono la promozione di grado soltanto nell'Amministrazione centrale o provinciale, alla quale appartengono come ufficiali d'ordine, quando e' giunto il rispettivo turno di anzianita' nel ruolo in cui sono compresi».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 aprile 1903.   
-  
-VITTORIO EMANUELE.   
-  
-Zanardelli.   
-Giolitti.   
-  
-Visto, il Guardasigilli: Cocco-Ortu.   
-  
+Al capoverso dell'articolo 29 ed all'ultimo capoverso dell'articolo 32 del Regolamento sopracitato sono sostituiti i seguenti: 
+ 
+ Articolo 29 - Capoverso. 
+ 
+ «L'ammissione all'esame dei viceragionieri e' regolata dalle disposizioni contenute nel penultimo comma dell'articolo precedente; all'esame per la nomina ad archivista seno ammessi tutti gli ufficiali d'ordine di prima e seconda classe». 
+ 
+ Articolo 32 - Ultimo capoverso. 
+ 
+ «La medesima anzianita' determina la graduatoria degli ufficiali d'ordine che superano l'esame di idoneita'; questi pero' conseguono la promozione di grado soltanto nell'Amministrazione centrale o provinciale, alla quale appartengono come ufficiali d'ordine, quando e' giunto il rispettivo turno di anzianita' nel ruolo in cui sono compresi». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 aprile 1903. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Zanardelli. 
+ Giolitti. 
+ 
+ Visto, il Guardasigilli: Cocco-Ortu.

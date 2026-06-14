@@ -1,16 +1,14 @@
-REGIO DECRETO 27 aprile 1879 n. 4858
-
-
-REGIO DECRETO 27 aprile 1879 n. 4858
-====================================
-
-Che all'elenco delle strade provinciali della provincia di Cuneo aggiunge quella che da questa citta' mette a Boves. (079U4858)
--------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/06/1879
+---
+tipo: REGIO DECRETO
+numero: 4858
+data: 1879-04-27
+titolo: "Che all'elenco delle strade provinciali della provincia di Cuneo aggiunge quella che da questa citta' mette a Boves. (079U4858)"
+urn: urn:nir:stato:regio.decreto:1879-04-27;4858
+codice_redazionale: 079U4858
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,30 +18,22 @@ Veduta la deliberazione 28 agosto 1877, colla quale il Consiglio provinciale di 
 
 Veduti i decreti Reali 22 novembre 1866, 6 maggio 1872, 16 febbraio 1873, 1° novembre 1876, 18 novembre 1877, 28 agosto 1878 e 19 gennaio 1879, riflettenti la classificazione delle strade provinciali della provincia di Cuneo;
 
-Veduti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della legge 20 marzo 1865, numero 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato F;
+Veduti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [14 della legge 20 marzo 1865, numero 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), allegato F;
 
 Considerando che la strada in parola riveste i caratteri di cui all'art. 13, lettera D, della sopracitata legge, e che, eseguite le prescritte pubblicazioni, non venne sollevata alcuna opposizione contro la deliberata aggiunta;
 
 Udito l'avviso del Consiglio Superiore dei Lavori Pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' aggiunta all'elenco delle strade provinciali della provincia di Cuneo quella da Cuneo a Boves.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 aprile 1879.   
-  
-UMBERTO.   
-  
-R. Mezzanotte.   
-  
-  
+E' aggiunta all'elenco delle strade provinciali della provincia di Cuneo quella da Cuneo a Boves. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 aprile 1879. 
+ 
+ UMBERTO. 
+ 
+ R. Mezzanotte.

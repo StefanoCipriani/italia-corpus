@@ -1,16 +1,14 @@
-REGIO DECRETO 20 settembre 1883 n. 1628
-
-
-REGIO DECRETO 20 settembre 1883 n. 1628
-=======================================
-
-Col quale vengono prorogati i termini stabiliti per l'esecuzione del precedente decreto 26 luglio p. p. n. 1529, relativo allo ampliamento del territorio esterno di Pavia. (083U1628)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/10/1883
+---
+tipo: REGIO DECRETO
+numero: 1628
+data: 1883-09-20
+titolo: "Col quale vengono prorogati i termini stabiliti per l'esecuzione del precedente decreto 26 luglio p. p. n. 1529, relativo allo ampliamento del territorio esterno di Pavia. (083U1628)"
+urn: urn:nir:stato:regio.decreto:1883-09-20;1628
+codice_redazionale: 083U1628
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,29 +24,20 @@ Ritenuto che in attesa dell'esito di detto ricorso il municipio di Pavia non ha 
 
 Veduti gli articoli 47 e 143 della legge 20 marzo 1865, allegato A;
 
-Udito
------
+Udito il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
 
-il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
+## Art. 1. — null
 
-Art. 1
-------
+## Art. 2.
 
-null
-
-Art. 2
-------
-
-  
-  
-I termini stabiliti dal Nostro decreto 26 luglio 1883 sono rispettivamente prorogati al 1º novembre ed all'ottobre prossimi.   
-  
-Il Nostro Ministro proponente e' incaricato dell'esecuzione del presente decreto.   
-  
-Dato a Monza, addi' 20 settembre 1883.   
-  
-UMBERTO.   
-  
-DEPRETIS.   
-  
-Visto, Il Guardasigilli: SAVELLI.   
+I termini stabiliti dal Nostro decreto 26 luglio 1883 sono rispettivamente prorogati al 1º novembre ed all'ottobre prossimi. 
+ 
+ Il Nostro Ministro proponente e' incaricato dell'esecuzione del presente decreto. 
+ 
+ Dato a Monza, addi' 20 settembre 1883. 
+ 
+ UMBERTO. 
+ 
+ DEPRETIS. 
+ 
+ Visto, Il Guardasigilli: SAVELLI.

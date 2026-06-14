@@ -1,16 +1,14 @@
-REGIO DECRETO 15 marzo 1868 n. 4376
-
-
-REGIO DECRETO 15 marzo 1868 n. 4376
-===================================
-
-Col quale viene inscritta sul Gran Libro del Debito pubblico dello Stato una rendita consolidata 5 per cento di un milione e duecentomila lire per pagamento delle spese di costruzione della ferrovia Ligure. (068U4376)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/06/1868
+---
+tipo: REGIO DECRETO
+numero: 4376
+data: 1868-03-15
+titolo: "Col quale viene inscritta sul Gran Libro del Debito pubblico dello Stato una rendita consolidata 5 per cento di un milione e duecentomila lire per pagamento delle spese di costruzione della ferrovia Ligure. (068U4376)"
+urn: urn:nir:stato:regio.decreto:1868-03-15;4376
+codice_redazionale: 068U4376
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,37 +22,28 @@ Veduto il Decreto Reale 7 novembre 1866, n. 3404, con cui fu inscritta sul Gran 
 
 Considerando che occorre ora di procurarsi altro capitale di lire dodici milioni cinquecentomila circa, sia per reintegrare il Tesoro delle spese anticipate, sia per provvedere alle spese in corso di esecuzione per la ferrovia di cui sopra, a carico dei bilanci 1867 e 1868;
 
-Sulla
------
+Sulla proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
 
-proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+Sara' inscritta sul Gran Libro del Debito pubblico del Regno d'Italia altra rendita consolidata 5 per cento di lire un milione e duecentomila, con decorrenza dal 1° gennaio 1868, pel pagamento delle spese di costruzione della ferrovia Ligure.
 
-  
-  
-Sara' inscritta sul Gran Libro del Debito pubblico del Regno d'Italia altra rendita consolidata 5 per cento di lire un milione e duecentomila, con decorrenza dal 1° gennaio 1868, pel pagamento delle spese di costruzione della ferrovia Ligure.   
-  
-
-Art. 2
-------
+## Art. 2.
 
 Pel servizio della rendita suddetta e' fatta sulla Tesoreria centrale del Regno l'annua assegnazione di un milione e duecentomila lire, a partire dal 1° gennaio
 
-1868. 
-  
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 15 marzo 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 27 marzo 1868   
-  
-Reg. 42 Atti del Governo a c. 141. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-L. G. Cambray Digny.
+1868.
+
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 15 marzo 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 marzo 1868 
+ 
+ Reg. 42 Atti del Governo a c. 141. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ L. G. Cambray Digny.

@@ -1,16 +1,14 @@
-REGIO DECRETO 31 dicembre 1863 n. 1627
-
-
-REGIO DECRETO 31 dicembre 1863 n. 1627
-======================================
-
-Col quale e' aumentato il numero delle Sezioni nella Direzione generale d' acque e strade presso il Ministero dei Lavori pubblici. (063U1627)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/02/1864
+---
+tipo: REGIO DECRETO
+numero: 1627
+data: 1863-12-31
+titolo: "Col quale e' aumentato il numero delle Sezioni nella Direzione generale d' acque e strade presso il Ministero dei Lavori pubblici. (063U1627)"
+urn: urn:nir:stato:regio.decreto:1863-12-31;1627
+codice_redazionale: 063U1627
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Ritenuto che il numero delle Sezioni in cui sono presentemente ripartite in dett
 
 Veduti i Decreti Reali 25 ottobre 1853, 15 dicembre 1860 e 9 ottobre 1861;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il numero delle Sezioni onde sono composte attualmente le Divisioni della Direzione generale d' acque e strade nel Ministero dei Lavori pubblici e' in pendenza di un nuovo ordinamento generale di detto Ministero aumentato di quattro, ed e' di pari numero ridotta la pianta dei Segretari di prima classe.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 31 dicembre 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 27 gennaio 1864.   
-  
-Reg.° 28 Atti del governo a. c. 50. Ayres.   
-  
-Luogo del Sigillo, V. Il Guardasigilli G. Pisanelli.   
-  
-L. F. Menabrea.   
-  
+Il numero delle Sezioni onde sono composte attualmente le Divisioni della Direzione generale d' acque e strade nel Ministero dei Lavori pubblici e' in pendenza di un nuovo ordinamento generale di detto Ministero aumentato di quattro, ed e' di pari numero ridotta la pianta dei Segretari di prima classe. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 31 dicembre 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 gennaio 1864. 
+ 
+ Reg.° 28 Atti del governo a. c. 50. Ayres. 
+ 
+ Luogo del Sigillo, V. Il Guardasigilli G. Pisanelli. 
+ 
+ L. F. Menabrea.

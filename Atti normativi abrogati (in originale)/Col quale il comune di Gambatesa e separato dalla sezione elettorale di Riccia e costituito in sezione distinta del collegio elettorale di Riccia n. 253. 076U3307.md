@@ -1,16 +1,14 @@
-REGIO DECRETO 26 agosto 1876 n. 3307
-
-
-REGIO DECRETO 26 agosto 1876 n. 3307
-====================================
-
-Col quale il comune di Gambatesa e' separato dalla sezione elettorale di Riccia e costituito in sezione distinta del collegio elettorale di Riccia, n. 253. (076U3307)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/09/1876
+---
+tipo: REGIO DECRETO
+numero: 3307
+data: 1876-08-26
+titolo: "Col quale il comune di Gambatesa e' separato dalla sezione elettorale di Riccia e costituito in sezione distinta del collegio elettorale di Riccia, n. 253. (076U3307)"
+urn: urn:nir:stato:regio.decreto:1876-08-26;3307
+codice_redazionale: 076U3307
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Gambatesa e' separato dalla sezione elettorale di Riccia e formera' una sezione distinta del Collegio elettorale di Riccia, n. 253.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 26 agosto 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
-  
+Il comune di Gambatesa e' separato dalla sezione elettorale di Riccia e formera' una sezione distinta del Collegio elettorale di Riccia, n. 253. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 26 agosto 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

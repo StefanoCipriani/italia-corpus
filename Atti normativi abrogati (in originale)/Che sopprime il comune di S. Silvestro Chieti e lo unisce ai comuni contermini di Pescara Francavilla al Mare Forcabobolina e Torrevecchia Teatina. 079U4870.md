@@ -1,16 +1,14 @@
-REGIO DECRETO 27 aprile 1879 n. 4870
-
-
-REGIO DECRETO 27 aprile 1879 n. 4870
-====================================
-
-Che sopprime il comune di S. Silvestro (Chieti) e lo unisce ai comuni contermini di Pescara, Francavilla al Mare, Forcabobolina e Torrevecchia Teatina. (079U4870)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/06/1879
+---
+tipo: REGIO DECRETO
+numero: 4870
+data: 1879-04-27
+titolo: "Che sopprime il comune di S. Silvestro (Chieti) e lo unisce ai comuni contermini di Pescara, Francavilla al Mare, Forcabobolina e Torrevecchia Teatina. (079U4870)"
+urn: urn:nir:stato:regio.decreto:1879-04-27;4870
+codice_redazionale: 079U4870
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,45 +22,26 @@ Veduta la deliberazione del Consiglio provinciale di Chieti in data 27 settembre
 
 Veduti gli articoli 14 e 15 della legge comunale e provinciale 20 marzo 1865, allegato A;
 
-Veduto l'[articolo 2 della legge 18 agosto 1870, n. 5815](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-18;5815~art2);
+Veduto l'[articolo 2 della legge 18 agosto 1870, n. 5815](Con%20la%20quale%20sono%20mantenute%20le%20facolta%20accordate%20al%20Governo%20circa%20lunione%20di%20piu%20Comuni%20o%20la%20disgregazione%20delle%20loro%20frazioni.%20070U5815.md);
 
-Veduta
-------
+Veduta la legge 29 giugno 1875, n. 2612, Abbiamo decretato e decretiamo:
 
-la legge 29 giugno 1875, n. 2612, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A cominciare dal 1° luglio 1879 il comune di S. Silvestro e' soppresso ed unito ai comuni contermini di Pescara, Francavilla al Mare, Forcabobolina e Torrevecchia Teatina; e cioe': le frazioni di S. Silvestro e Val di Rocco sono aggregate a Pescara, la frazione Fontechiara di Sotto e' aggregata a Francavilla al Mare, la frazione Fontechiara da Capo a Forcabobolina, e la frazione Torre a Vaschiola a Torrevecchia Teatina.
 
-  
-  
-  
-A cominciare dal 1° luglio 1879 il comune di S. Silvestro e' soppresso ed unito ai comuni contermini di Pescara, Francavilla al Mare, Forcabobolina e Torrevecchia Teatina; e cioe': le frazioni di S. Silvestro e Val di Rocco sono aggregate a Pescara, la frazione Fontechiara di Sotto e' aggregata a Francavilla al Mare, la frazione Fontechiara da Capo a Forcabobolina, e la frazione Torre a Vaschiola a Torrevecchia Teatina.   
-  
+## Art. 2.
 
-Art. 2
-------
+I nuovi confini dei comuni di Pescara, Francavilla al Mare, Forcabobolina e Torrevecchia Teatina rimangono stabiliti quali risultano dalla pianta topografica firmata Adamo Piattelli, geometra, in data 21 marzo 1871, che sara' d'ordine Nostro vidimata dal Ministro proponente.
 
-  
-  
-  
-I nuovi confini dei comuni di Pescara, Francavilla al Mare, Forcabobolina e Torrevecchia Teatina rimangono stabiliti quali risultano dalla pianta topografica firmata Adamo Piattelli, geometra, in data 21 marzo 1871, che sara' d'ordine Nostro vidimata dal Ministro proponente.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-  
-Fino alla costituzione dei nuovi Consigli comunali di Pescara, Francavilla al Mare, Forcabobolina e Torrevecchia Teatina, a cui si procedera' nel mese di giugno prossimo in base alle liste elettorali debitamente riformate, giusta le prescrizioni della legge, le attuali Rappresentanze dei detti comuni continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione dei futuri Consigli.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 aprile 1879.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-  
+Fino alla costituzione dei nuovi Consigli comunali di Pescara, Francavilla al Mare, Forcabobolina e Torrevecchia Teatina, a cui si procedera' nel mese di giugno prossimo in base alle liste elettorali debitamente riformate, giusta le prescrizioni della legge, le attuali Rappresentanze dei detti comuni continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione dei futuri Consigli. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 aprile 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.

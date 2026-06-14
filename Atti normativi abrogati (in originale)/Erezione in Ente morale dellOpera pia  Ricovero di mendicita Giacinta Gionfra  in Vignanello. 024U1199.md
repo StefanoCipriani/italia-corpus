@@ -1,19 +1,19 @@
-REGIO DECRETO 26 giugno 1924 n. 1199
+---
+tipo: REGIO DECRETO
+numero: 1199
+data: 1924-06-26
+titolo: "Erezione in Ente morale dell'Opera pia « Ricovero di mendicita' Giacinta Gionfra », in Vignanello. (024U1199)"
+urn: urn:nir:stato:regio.decreto:1924-06-26;1199
+codice_redazionale: 024U1199
+vigente: true
+---
 
-
-REGIO DECRETO 26 giugno 1924 n. 1199
-====================================
-
-Erezione in Ente morale dell'Opera pia « Ricovero di mendicita' Giacinta Gionfra », in Vignanello. (024U1199)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/08/1924
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1199. R. decreto 26 giugno 1924, col quale, sulla proposta del Ministro per l'interno, l'Opera pia « Ricovero di mendicita' Giacinta Gionfra », con sede nel comune di Vignanello, viene eretta in Ente morale sotto l'amministrazione della Congregazione di carita' di Vignanello ed e' approvato lo statuto organico.   
-Visto, il Guardasigilli: Oviglio.   
-Registrato alla Corte dei conti, addi' 2 agosto 1924.
+1199.
+
+R. decreto 26 giugno 1924, col quale, sulla proposta del Ministro per l'interno, l'Opera pia « Ricovero di mendicita' Giacinta Gionfra », con sede nel comune di Vignanello, viene eretta in Ente morale sotto l'amministrazione della Congregazione di carita' di Vignanello ed e' approvato lo statuto organico. 
+ Visto, il Guardasigilli: Oviglio. 
+ Registrato alla Corte dei conti, addi' 2 agosto 1924.

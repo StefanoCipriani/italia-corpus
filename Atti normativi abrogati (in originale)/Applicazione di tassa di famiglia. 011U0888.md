@@ -1,19 +1,15 @@
-REGIO DECRETO 28 luglio 1911 n. 888
+---
+tipo: REGIO DECRETO
+numero: 888
+data: 1911-07-28
+titolo: "Applicazione di tassa di famiglia. (011U0888)"
+urn: urn:nir:stato:regio.decreto:1911-07-28;888
+codice_redazionale: 011U0888
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 luglio 1911 n. 888
-===================================
-
-Applicazione di tassa di famiglia. (011U0888)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 08/09/1911
-
-Art. 1
-------
-
-  
-N. 888   
-  
-R. decreto 28 luglio 1911, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Vescovato di applicare nell'anno 1911 la tassa di famiglia col limite massimo di lire 300 (trecento).   
-  
+N. 888 
+ 
+ R. decreto 28 luglio 1911, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Vescovato di applicare nell'anno 1911 la tassa di famiglia col limite massimo di lire 300 (trecento).

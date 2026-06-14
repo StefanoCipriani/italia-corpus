@@ -1,22 +1,20 @@
-REGIO DECRETO 31 maggio 1914 n. 698
-
-
-REGIO DECRETO 31 maggio 1914 n. 698
-===================================
-
-Col quale viene prorogato il termine stabilito dall'art. 41 del regolamento della pesca nelle acque italo-elvetiche, approvato con R. decreto 17 marzo 1912, n. 387. (014U0698)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/08/1914
+---
+tipo: REGIO DECRETO
+numero: 698
+data: 1914-05-31
+titolo: "Col quale viene prorogato il termine stabilito dall'art. 41 del regolamento della pesca nelle acque italo-elvetiche, approvato con R. decreto 17 marzo 1912, n. 387. (014U0698)"
+urn: urn:nir:stato:regio.decreto:1914-05-31;698
+codice_redazionale: 014U0698
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' delle Nazione
 
 RE D'ITALIA
 
-Visto l'art. 41 del regolamento approvato con [R. decreto 17 marzo 1912, n. 387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-03-17;387), in esecuzione della convenzione fra l'Italia e la Svizzera per la pesca nelle acque comuni ai due Stati, articolo che concede un termine di due anni ai pescatori per uniformarsi alle norme sulle reti e sugli altri strumenti da pesca, a partire dalla pubblicazione del regolamento stesso nella Gazzetta ufficiale (cioe' dal 21 maggio 1912) e a finire quindi col 21 maggio 1914;
+Visto l'art. 41 del regolamento approvato con [R. decreto 17 marzo 1912, n. 387](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20pesca%20nelle%20acque%20comuni%20allItalia%20ed%20alla%20Svizzera.%20012U0387.md), in esecuzione della convenzione fra l'Italia e la Svizzera per la pesca nelle acque comuni ai due Stati, articolo che concede un termine di due anni ai pescatori per uniformarsi alle norme sulle reti e sugli altri strumenti da pesca, a partire dalla pubblicazione del regolamento stesso nella Gazzetta ufficiale (cioe' dal 21 maggio 1912) e a finire quindi col 21 maggio 1914;
 
 Considerato che la Confederazione elvetica a sua volta emano' il 2 maggio 1913 il proprio regolamento e concesse per il detto scopo il termine di due anni, determinandone la scadenza col 31 maggio 1915;
 
@@ -30,7 +28,7 @@ Abbiamo decretato e decretiamo:
 
 Articolo unico:
 
-Il termine, previsto nell'art. 41 del regolamento per la pesca nelle acque italo-elvetiche, approvato con [R. decreto 17 marzo 1912, n. 387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-03-17;387), allo scopo di permettere ai pescatori di uniformarsi alle nuove disposizioni concernenti le reti e gli strumenti da pesca, e' prorogato a tutto il 31 maggio 1915.
+Il termine, previsto nell'art. 41 del regolamento per la pesca nelle acque italo-elvetiche, approvato con [R. decreto 17 marzo 1912, n. 387](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20pesca%20nelle%20acque%20comuni%20allItalia%20ed%20alla%20Svizzera.%20012U0387.md), allo scopo di permettere ai pescatori di uniformarsi alle nuove disposizioni concernenti le reti e gli strumenti da pesca, e' prorogato a tutto il 31 maggio 1915.
 
 Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
 
@@ -38,44 +36,38 @@ Dato a Roma, addi' 31 maggio 1914.
 
 VITTORIO EMANUELE.
 
-Salandra
---------
+Salandra - Cavasola. Visto, il guardasigilli: Dari.
 
-- Cavasola. Visto, il guardasigilli: Dari.
+## Art. 1.
 
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-per grazia di Dio e per volonta' delle Nazione   
-  
-RE D'ITALIA   
-  
-Visto l'art. 41 del regolamento approvato con [R. decreto 17 marzo 1912, n. 387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-03-17;387), in esecuzione della convenzione fra l'Italia e la Svizzera per la pesca nelle acque comuni ai due Stati, articolo che concede un termine di due anni ai pescatori per uniformarsi alle norme sulle reti e sugli altri strumenti da pesca, a partire dalla pubblicazione del regolamento stesso nella Gazzetta ufficiale (cioe' dal 21 maggio 1912) e a finire quindi col 21 maggio 1914;   
-  
-Considerato che la Confederazione elvetica a sua volta emano' il 2 maggio 1913 il proprio regolamento e concesse per il detto scopo il termine di due anni, determinandone la scadenza col 31 maggio 1915;   
-  
-Ritenuta la opportunita' di consentire, per la pesca nella zona italiana delle dette acque comuni, un trattamento eguale a quello della zona svizzera, per cio' che riguarda la durata del termine assegnato per uniformarsi alle norme sulle reti e sugli altri attrezzi da pesca;   
-  
-Udito il Consiglio dei ministri;   
-  
-Sulla proposta del Nostro ministro, segretario di Stato per l'agricoltura, l'industria e il commercio;   
-  
-Abbiamo decretato e decretiamo:   
-  
-Articolo unico:   
-  
-Il termine, previsto nell'art. 41 del regolamento per la pesca nelle acque italo-elvetiche, approvato con [R. decreto 17 marzo 1912, n. 387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-03-17;387), allo scopo di permettere ai pescatori di uniformarsi alle nuove disposizioni concernenti le reti e gli strumenti da pesca, e' prorogato a tutto il 31 maggio 1915.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 31 maggio 1914.   
-  
-VITTORIO EMANUELE.   
-  
-Salandra - Cavasola.   
-  
-Visto, il guardasigilli: Dari.   
-  
+VITTORIO EMANUELE III 
+ 
+ per grazia di Dio e per volonta' delle Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Visto l'art. 41 del regolamento approvato con [R. decreto 17 marzo 1912, n. 387](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20pesca%20nelle%20acque%20comuni%20allItalia%20ed%20alla%20Svizzera.%20012U0387.md), in esecuzione della convenzione fra l'Italia e la Svizzera per la pesca nelle acque comuni ai due Stati, articolo che concede un termine di due anni ai pescatori per uniformarsi alle norme sulle reti e sugli altri strumenti da pesca, a partire dalla pubblicazione del regolamento stesso nella Gazzetta ufficiale (cioe' dal 21 maggio 1912) e a finire quindi col 21 maggio 1914; 
+ 
+ Considerato che la Confederazione elvetica a sua volta emano' il 2 maggio 1913 il proprio regolamento e concesse per il detto scopo il termine di due anni, determinandone la scadenza col 31 maggio 1915; 
+ 
+ Ritenuta la opportunita' di consentire, per la pesca nella zona italiana delle dette acque comuni, un trattamento eguale a quello della zona svizzera, per cio' che riguarda la durata del termine assegnato per uniformarsi alle norme sulle reti e sugli altri attrezzi da pesca; 
+ 
+ Udito il Consiglio dei ministri; 
+ 
+ Sulla proposta del Nostro ministro, segretario di Stato per l'agricoltura, l'industria e il commercio; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ Articolo unico: 
+ 
+ Il termine, previsto nell'art. 41 del regolamento per la pesca nelle acque italo-elvetiche, approvato con [R. decreto 17 marzo 1912, n. 387](Col%20quale%20viene%20approvato%20lannesso%20regolamento%20per%20la%20pesca%20nelle%20acque%20comuni%20allItalia%20ed%20alla%20Svizzera.%20012U0387.md), allo scopo di permettere ai pescatori di uniformarsi alle nuove disposizioni concernenti le reti e gli strumenti da pesca, e' prorogato a tutto il 31 maggio 1915. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 31 maggio 1914. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Salandra - Cavasola. 
+ 
+ Visto, il guardasigilli: Dari.

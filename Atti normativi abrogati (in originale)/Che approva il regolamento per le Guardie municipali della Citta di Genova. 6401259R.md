@@ -1,20 +1,17 @@
-REGIO DECRETO 04 giugno 1864 n. MCCLIX
+---
+tipo: REGIO DECRETO
+numero: MCCLIX
+data: 1864-06-04
+titolo: "Che approva il regolamento per le Guardie municipali della Citta' di Genova. (6401259R)"
+urn: urn:nir:stato:regio.decreto:1864-06-04;1259
+codice_redazionale: 6401259R
+vigente: true
+---
 
-
-REGIO DECRETO 04 giugno 1864 n. MCCLIX
-======================================
-
-Che approva il regolamento per le Guardie municipali della Citta' di Genova. (6401259R)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/06/1864
-
-Art. 1
-------
+## Art. 1.
 
 Che approva il regolamento per le Guardie Municipali con l'unito figurino deliberato dal Consiglio Comunale della Citta' di Genova nelle adunanze delli 27 novembre 1863, e 18 maggio
 
-1864. 
-  
-  
+1864.
+
 Torino 4 giugno 1864

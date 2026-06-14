@@ -1,16 +1,14 @@
-REGIO DECRETO 14 ottobre 1892 n. 649
-
-
-REGIO DECRETO 14 ottobre 1892 n. 649
-====================================
-
-Che autorizza alcuni comuni ad eccedere colla sovrimposta ai tributi diretti, per l'anno 1892, il limite medio triennale 1884-86. (092U0649)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/11/1892
+---
+tipo: REGIO DECRETO
+numero: 649
+data: 1892-10-14
+titolo: "Che autorizza alcuni comuni ad eccedere colla sovrimposta ai tributi diretti, per l'anno 1892, il limite medio triennale 1884-86. (092U0649)"
+urn: urn:nir:stato:regio.decreto:1892-10-14;649
+codice_redazionale: 092U0649
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' dalla Nazione
 
@@ -22,42 +20,30 @@ Vista la domanda fatta d'ufficio dalla Giunta provinciale di Torino nell'interes
 
 Visti i bilanci di detti Comuni e tutti gli atti che li corredano;
 
-Viste le [leggi 1° marzo 1886 n. 3682 e 26 luglio 1888 n. 5617](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-07-26;5617);
+Viste le [leggi 1° marzo 1886 n. 3682 e 26 luglio 1888 n. 5617](Che%20autorizza%20i%20comuni%20di%20Montorio%20nei%20Frentani%20Riccia%20Agnone%20Campobasso%20e%20S.%20Giovanni%20la%20Punta%20Catania%20di%20eccedere%20colla%20sovraimposta%20ai%20tributi%20diretti%20il%20limite%20medio%20raggiunto%20nel%20tri_21417c495b4e.md);
 
-Udito
------
+Udito il parere del Consiglio di Stato; Abbiamo decretato e decretiamo:
 
-il parere del Consiglio di Stato; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono respinte le domande dei Comuni di Santa Caterina Albanese e di Alessandria della Rocca.
 
-  
-  
-Sono respinte le domande dei Comuni di Santa Caterina Albanese e di Alessandria della Rocca.   
+## Art. 2.
 
-Art. 2
-------
+I Comuni di Piovera, Monvalle, Carrara, Col S. Giovanni e Valprato sono autorizzati ad eccedere colla sovrimposta ai tributi diretti, per l'anno 1892, il limite medio rispettivamente raggiunto nel triennio 1884-1885-1886, e ad applicare la sovrimposta medesima nell'ammontare fissato per ciascun Comune nell'elenco che segue: 
+ 
+ Parte di provvedimento in formato grafico
 
-  
-  
-I Comuni di Piovera, Monvalle, Carrara, Col S. Giovanni e Valprato sono autorizzati ad eccedere colla sovrimposta ai tributi diretti, per l'anno 1892, il limite medio rispettivamente raggiunto nel triennio 1884-1885-1886, e ad applicare la sovrimposta medesima nell'ammontare fissato per ciascun Comune nell'elenco che segue:   
-  
-Parte di provvedimento in formato grafico  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il presente decreto sara' sottoposto al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 14 ottobre 1892.   
-  
-UMBERTO.   
-  
-Giolitti.   
-  
-Visto, il Guardasigilli: Bonacci.   
+Il presente decreto sara' sottoposto al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 14 ottobre 1892. 
+ 
+ UMBERTO. 
+ 
+ Giolitti. 
+ 
+ Visto, il Guardasigilli: Bonacci.

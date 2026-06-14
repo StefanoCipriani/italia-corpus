@@ -1,16 +1,14 @@
-REGIO DECRETO 11 aprile 1940 n. 357
-
-
-REGIO DECRETO 11 aprile 1940 n. 357
-===================================
-
-Prelevamento della somma di L. 18.000.000 dal fondo di riserva per opere straordinarie da parte dell'Azienda autonoma statale della strada. (040U0357)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/05/1940
+---
+tipo: REGIO DECRETO
+numero: 357
+data: 1940-04-11
+titolo: "Prelevamento della somma di L. 18.000.000 dal fondo di riserva per opere straordinarie da parte dell'Azienda autonoma statale della strada. (040U0357)"
+urn: urn:nir:stato:regio.decreto:1940-04-11;357
+codice_redazionale: 040U0357
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,79 +28,66 @@ Ritenuto che di detta disponibilita', L. 29.661.143,29 sono depositate in conto 
 
 Sentito il Consiglio di amministrazione dell'Azienda suddetta;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con quello per le finanze; Abbiamo decretato o decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con quello per le finanze; Abbiamo decretato o decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' autorizzato il prelevamento della somma di L. 18.000.000 (lire diciotto milioni) dal fondo di riserva per opere straordinarie depositato in conto corrente speciale presso la Cassa depositi e prestiti.
 
-  
-  
-E' autorizzato il prelevamento della somma di L. 18.000.000 (lire diciotto milioni) dal fondo di riserva per opere straordinarie depositato in conto corrente speciale presso la Cassa depositi e prestiti.   
+## Art. 2.
 
-Art. 2
-------
+Gli stanziamenti di competenza dello stato di previsione della entrata e della spesa dell'Azienda autonoma statale della strada per l'esercizio 1939-40 sono aumentati come segue: 
+ 
+ Entrata: 
+ 
+ 
+ 
+Cap. n. 19. - Prelevamento dal fondo 
+ 
+di riserva per opere straordinarie . . . . . . . . . .L. 18.000.000
+ 
+ 
+ Spesa: 
+ 
+Cap. n. 40 - Riparazioni straordinarie, 
+consolidamenti e opere di difesa, rettifiche 
+e sistemazioni saltuarie. Costruzioni di 
+ 
+ponti e di case cantoniere . . . . . . . . . . . . . . .L. 18.000.000
 
-  
-  
-Gli stanziamenti di competenza dello stato di previsione della entrata e della spesa dell'Azienda autonoma statale della strada per l'esercizio 1939-40 sono aumentati come segue:   
-  
-Entrata:   
-  
-  
-  
-Cap. n. 19. - Prelevamento dal fondo   
-  
-di riserva per opere straordinarie . . . . . . . . . .L. 18.000.000  
-  
-  
-Spesa:   
-  
-Cap. n. 40 - Riparazioni straordinarie,   
-consolidamenti e opere di difesa, rettifiche   
-e sistemazioni saltuarie. Costruzioni di   
-  
-ponti e di case cantoniere . . . . . . . . . . . . . . .L. 18.000.000  
-  
+## Art. 3.
 
-Art. 3
-------
+La consistenza dei residui al 1° luglio 1939-XVII e' diminuita come segue: 
+ 
+ Entrata: 
+ 
+ 
 
-  
-  
-La consistenza dei residui al 1° luglio 1939-XVII e' diminuita come segue:   
-  
-Entrata:   
-  
-  
-  
-Cap. n. 31. - Conto corrente speciale  
-presso la Cassa depositi e prestiti  
-pel versamento del fondo di riserva per  
-opere straordinarie . . . . . . . . . . . . . . . . . . .L. 18.000.000  
-  
-Spesa:  
-  
-Cap. n. 43. - Fondo di riserva per opere  
-straordinarie, da versare in conto corrente  
-speciale presso la Cassa depositi e prestiti . . . . . . L. 18.000.000  
-  
-  
-  
-Questo decreto sara' comunicato alle Assemblee legislative col conto consultivo dell'Azienda autonoma statale della strada per l'esercizio 1939-40.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Rema, addi' 11 aprile 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-SERENA - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 10 maggio 1940-XVIII   
-  
-Atti del Governo, registro 421, foglio 11. - MANCINI   
+Cap. n. 31. - Conto corrente speciale
+presso la Cassa depositi e prestiti
+pel versamento del fondo di riserva per
+opere straordinarie . . . . . . . . . . . . . . . . . . .L. 18.000.000
+
+ Spesa:
+
+Cap. n. 43. - Fondo di riserva per opere
+straordinarie, da versare in conto corrente
+speciale presso la Cassa depositi e prestiti . . . . . . L. 18.000.000
+
+
+ 
+ Questo decreto sara' comunicato alle Assemblee legislative col conto consultivo dell'Azienda autonoma statale della strada per l'esercizio 1939-40. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Rema, addi' 11 aprile 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ SERENA - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 10 maggio 1940-XVIII 
+ 
+ Atti del Governo, registro 421, foglio 11. - MANCINI

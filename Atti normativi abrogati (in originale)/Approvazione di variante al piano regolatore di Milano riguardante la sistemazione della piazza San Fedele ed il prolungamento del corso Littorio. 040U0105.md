@@ -1,16 +1,14 @@
-REGIO DECRETO 11 gennaio 1940 n. 105
-
-
-REGIO DECRETO 11 gennaio 1940 n. 105
-====================================
-
-Approvazione di variante al piano regolatore di Milano, riguardante la sistemazione della piazza San Fedele ed il prolungamento del corso Littorio. (040U0105)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/03/1940
+---
+tipo: REGIO DECRETO
+numero: 105
+data: 1940-01-11
+titolo: "Approvazione di variante al piano regolatore di Milano, riguardante la sistemazione della piazza San Fedele ed il prolungamento del corso Littorio. (040U0105)"
+urn: urn:nir:stato:regio.decreto:1940-01-11;105
+codice_redazionale: 040U0105
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -38,38 +36,32 @@ Considerato che, all'atto esecutivo, dovra' studiarsi la possibilita' di ridurre
 
 Visto il parere n. 2188 del 14 ottobre 1939-XVII del Consiglio superiore dei lavori pubblici;
 
-Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md);
 
 Visto l'art. 4 del R. decreto-leggo 21 giugno 1938-XVI, n. 1094, convertito nella legge 5 gennaio 1939-XVII, n. 35;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Con le avvertenze di cui alle premesse, e' approvato, ai sensi e per gli effetti della citata legge 19 febbraio 1934-XII, n. 433, e successive modificazioni, il piano di variante al piano particolareggiato approvato con R. decreto-legge 7 maggio 1931-IX, n. 590, convertito nella legge 29 febbraio 1932-X, n. 149, per la parte riguardante la sistemazione della piazza San Fedele, il prolungamento di corso Littorio ed adiacenze, in Milano, con variante al piano di massima.   
-  
-Detto piano di variante sara' vistato, d'ordine Nostro, dal Ministro proponente in una planimetria in iscala 1:500 a firma dell'ingegnere Secchi.   
-  
-E' assegnato al comune di Milano il termine di anni dieci dalla data del presente decreto per compiere tanto le espropriazioni quanto i lavori occorrenti per l'attuazione del piano di variante ai sensi e per gli effetti del combinato disposto dell'art. 18 della legge 19 febbraio 1934-XII, n. 433, e dell'art. 11 del R. decreto-legge 7 maggio 1931-IX, n. 590, convertito, con modificazioni, nella legge 29 febbraio 1932-X, n. 149, citate.   
-  
-Tutte le costruzioni e ricostruzioni, eseguite sia dai privati che dal Comune o suoi concessionari per l'attuazione delle presenti varianti, che saranno compiute entro il termine stabilito per il piano medesimo, godranno della esenzione venticinquennale dalla normale imposta sui fabbricati e dalle relative sovrimposte, comunale e provinciale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 gennaio 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-SERENA - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 9 marzo 1940-XVIII   
-  
-Atti del Governo, registro 419, foglio 27. - MANCINI   
+Con le avvertenze di cui alle premesse, e' approvato, ai sensi e per gli effetti della citata legge 19 febbraio 1934-XII, n. 433, e successive modificazioni, il piano di variante al piano particolareggiato approvato con R. decreto-legge 7 maggio 1931-IX, n. 590, convertito nella legge 29 febbraio 1932-X, n. 149, per la parte riguardante la sistemazione della piazza San Fedele, il prolungamento di corso Littorio ed adiacenze, in Milano, con variante al piano di massima. 
+ 
+ Detto piano di variante sara' vistato, d'ordine Nostro, dal Ministro proponente in una planimetria in iscala 1:500 a firma dell'ingegnere Secchi. 
+ 
+ E' assegnato al comune di Milano il termine di anni dieci dalla data del presente decreto per compiere tanto le espropriazioni quanto i lavori occorrenti per l'attuazione del piano di variante ai sensi e per gli effetti del combinato disposto dell'art. 18 della legge 19 febbraio 1934-XII, n. 433, e dell'art. 11 del R. decreto-legge 7 maggio 1931-IX, n. 590, convertito, con modificazioni, nella legge 29 febbraio 1932-X, n. 149, citate. 
+ 
+ Tutte le costruzioni e ricostruzioni, eseguite sia dai privati che dal Comune o suoi concessionari per l'attuazione delle presenti varianti, che saranno compiute entro il termine stabilito per il piano medesimo, godranno della esenzione venticinquennale dalla normale imposta sui fabbricati e dalle relative sovrimposte, comunale e provinciale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 gennaio 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ SERENA - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 9 marzo 1940-XVIII 
+ 
+ Atti del Governo, registro 419, foglio 27. - MANCINI

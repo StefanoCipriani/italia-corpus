@@ -1,16 +1,14 @@
-REGIO DECRETO 21 ottobre 1863 n. 1524
-
-
-REGIO DECRETO 21 ottobre 1863 n. 1524
-=====================================
-
-Col quale viene ristretta in talune parti l' applicazione della legge sulle opere pubbliche del 1859, in alcune Provincie del Regno. (063U1524)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/12/1863
+---
+tipo: REGIO DECRETO
+numero: 1524
+data: 1863-10-21
+titolo: "Col quale viene ristretta in talune parti l' applicazione della legge sulle opere pubbliche del 1859, in alcune Provincie del Regno. (063U1524)"
+urn: urn:nir:stato:regio.decreto:1863-10-21;1524
+codice_redazionale: 063U1524
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,56 +26,41 @@ Considerando che non tutte le disposizioni della precitata legge sono ugualmente
 
 Sulla proposta del Ministro dei Lavori pubblici;
 
-Udito
------
+Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+Non sono estensibili alle Provincie dell'Emilia, delle Marche, dell' Umbria, di Toscana ed alle Provincie Napolitane e Siciliane le seguenti disposizioni della legge 20 novembre 1859, n.° 3754, cioe':  
+ 1.° Paragrafo M dell'articolo 1; 
+ 
+ 2.° Capo primo del titolo 2 relativo alla classificazione delle strade; 
+ 
+ 5.° Articolo 24, capo 3, titolo 2; 
+ 
+ 4.° Capo 4.° del titolo quarto sull'amministrazione dei porti e spiaggie; 
+ 
+ 5.° Titolo 7 sull'ordinamento del servizio del Genio civile; 
+ 
+ 6.° Articoli 366, 375, 376, 377, 378 e 379 delle disposizioni generali e transitorie contenute nel titolo ottavo.
 
-  
-  
-Non sono estensibili alle Provincie dell'Emilia, delle Marche, dell' Umbria, di Toscana ed alle Provincie Napolitane e Siciliane le seguenti disposizioni della legge 20 novembre 1859, n.° 3754, cioe':   
-1.° Paragrafo M dell'articolo 1;   
-  
-2.° Capo primo del titolo 2 relativo alla classificazione delle strade;   
-  
-5.° Articolo 24, capo 3, titolo 2;   
-  
-4.° Capo 4.° del titolo quarto sull'amministrazione dei porti e spiaggie;   
-  
-5.° Titolo 7 sull'ordinamento del servizio del Genio civile;   
-  
-6.° Articoli 366, 375, 376, 377, 378 e 379 delle disposizioni generali e transitorie contenute nel titolo ottavo.   
-  
+## Art. 2.
 
-Art. 2
-------
+Le disposizioni dei titoli ed articoli sovraccennati concernenti le strade ordinarie, i porti e spiaggie ed il servizio del Genio civile formeranno soggetto di legge speciale da presentarsi all'approvazione del Parlamento.
 
-  
-  
-Le disposizioni dei titoli ed articoli sovraccennati concernenti le strade ordinarie, i porti e spiaggie ed il servizio del Genio civile formeranno soggetto di legge speciale da presentarsi all'approvazione del Parlamento.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il presente Decreto sara' sottoposto all' approvazione del Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 21 ottobre 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei Conti addi'.1 novembre 1863   
-  
-Reg.° 26 Atti del Governo a e. 117. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-L. F. Menabrea.   
-  
+Il presente Decreto sara' sottoposto all' approvazione del Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 21 ottobre 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei Conti addi'.1 novembre 1863 
+ 
+ Reg.° 26 Atti del Governo a e. 117. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ L. F. Menabrea.

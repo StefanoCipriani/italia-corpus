@@ -1,16 +1,14 @@
-REGIO DECRETO 05 aprile 1943 n. 223
-
-
-REGIO DECRETO 05 aprile 1943 n. 223
-===================================
-
-Autorizzazione al comune di Montefiorino ad applicare, fino al 31 dicembre 1944-XXIII, le imposte di consumo con la tariffa della classe superiore «G». (043U0223)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/05/1943
+---
+tipo: REGIO DECRETO
+numero: 223
+data: 1943-04-05
+titolo: "Autorizzazione al comune di Montefiorino ad applicare, fino al 31 dicembre 1944-XXIII, le imposte di consumo con la tariffa della classe superiore «G». (043U0223)"
+urn: urn:nir:stato:regio.decreto:1943-04-05;223
+codice_redazionale: 043U0223
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,22 @@ Udita la Commissione centrale per la finanza locale che nell'adunanza del 3 marz
 
 Visto l'art. 26 del testo unico per la finanza locale 14 settembre 1931, n. 1175;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Montefiorino e' autorizzato ad applicare fino al 31 dicembre 1944 le imposte di consumo con la tariffa della classe superiore G.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 aprile 1943-XXI   
-  
-VITTORIO EMANUELE   
-  
-ACERBO   
-  
-Visto, il Guardasigilli: DE MARSICO   
-  
-Registrato alla Corte dei conti, addi' 19 aprile 1943-XXI   
-  
-Atti del Governo, registro 456, foglio 68. - MANCINI   
+Il comune di Montefiorino e' autorizzato ad applicare fino al 31 dicembre 1944 le imposte di consumo con la tariffa della classe superiore G. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 aprile 1943-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ ACERBO 
+ 
+ Visto, il Guardasigilli: DE MARSICO 
+ 
+ Registrato alla Corte dei conti, addi' 19 aprile 1943-XXI 
+ 
+ Atti del Governo, registro 456, foglio 68. - MANCINI

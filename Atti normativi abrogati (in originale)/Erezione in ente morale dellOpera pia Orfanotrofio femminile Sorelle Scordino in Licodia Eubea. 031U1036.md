@@ -1,19 +1,19 @@
-REGIO DECRETO 09 luglio 1931 n. 1036
+---
+tipo: REGIO DECRETO
+numero: 1036
+data: 1931-07-09
+titolo: "Erezione in ente morale dell'Opera pia «Orfanotrofio femminile Sorelle Scordino», in Licodia Eubea. (031U1036)"
+urn: urn:nir:stato:regio.decreto:1931-07-09;1036
+codice_redazionale: 031U1036
+vigente: true
+---
 
-
-REGIO DECRETO 09 luglio 1931 n. 1036
-====================================
-
-Erezione in ente morale dell'Opera pia «Orfanotrofio femminile Sorelle Scordino», in Licodia Eubea. (031U1036)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/09/1931
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1036. R. decreto 9 luglio 1931, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, l'Opera pia «Orfanotrofio femminile Sorelle Scordino», con sede in Licodia Eubea, viene eretta in ente morale, sotto l'amministrazione della Congregazione di carita'.   
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 29 agosto 1931 - Anno IX
+1036.
+
+R. decreto 9 luglio 1931, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, l'Opera pia «Orfanotrofio femminile Sorelle Scordino», con sede in Licodia Eubea, viene eretta in ente morale, sotto l'amministrazione della Congregazione di carita'. 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 29 agosto 1931 - Anno IX

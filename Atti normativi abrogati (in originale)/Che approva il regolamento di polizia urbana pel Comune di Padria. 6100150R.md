@@ -1,20 +1,17 @@
-REGIO DECRETO 24 settembre 1861 n. CL
+---
+tipo: REGIO DECRETO
+numero: CL
+data: 1861-09-24
+titolo: "Che approva il regolamento di polizia urbana pel Comune di Padria. (6100150R)"
+urn: urn:nir:stato:regio.decreto:1861-09-24;150
+codice_redazionale: 6100150R
+vigente: true
+---
 
-
-REGIO DECRETO 24 settembre 1861 n. CL
-=====================================
-
-Che approva il regolamento di polizia urbana pel Comune di Padria. (6100150R)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/09/1861
-
-Art. 1
-------
+## Art. 1.
 
 Che approva il regolamento di polizia urbana adottato dal Municipio di Padria (Circondario d'Alghero) con deliberazione delli 5 maggio
 
-1861. 
-  
-  
+1861.
+
 Firenze 24 settembre 1861

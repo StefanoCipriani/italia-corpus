@@ -1,16 +1,14 @@
-REGIO DECRETO 07 marzo 1907 n. 79
-
-
-REGIO DECRETO 07 marzo 1907 n. 79
-=================================
-
-Che approva i progetti per la creazione di una zona aperta agli effetti del dazio consumo nel comune di Napoli. (007U0079)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/04/1907
+---
+tipo: REGIO DECRETO
+numero: 79
+data: 1907-03-07
+titolo: "Che approva i progetti per la creazione di una zona aperta agli effetti del dazio consumo nel comune di Napoli. (007U0079)"
+urn: urn:nir:stato:regio.decreto:1907-03-07;79
+codice_redazionale: 007U0079
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,31 +30,24 @@ Che tuttavia, volendo scendere all'esame di merito del reclamo, si deve osservar
 
 Che l'esistenza del binario in questione e' inoltre incompatibile col tracciato della direttissima Roma-Napoli; onde esso ha perduto ogni e qualunque importanza, e nessun valore gli si puo' riconoscere fuor che quello proprio al suolo occupato; che pertanto il reclamo proposto e' infondato anche nel merito;
 
-Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md);
 
-Vista la [legge 8 luglio 1904, n. 351](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;351);
+Vista la [legge 8 luglio 1904, n. 351](Provvedimenti%20pel%20risorgimento%20economico%20della%20citta%20di%20Napoli.%20004U0351.md);
 
 Uditi i pareri del consiglio superiore dei lavori pubblici e del consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Respinte le due opposizioni 12 giugno 1906 della «Compagnia napoletana di illuminazione e riscaldamento col gas,» e 13 agosto 1906 della «Societa' anonima per le strade ferrate secondarie meridionali» eliminando la riserva contenuta nel Nostro decreto 14 ottobre 1906, n. 570, sono approvati, anche nelle parti relative alle due opposizioni piu' sopra accennate, i progetti a firma degl'ingegneri Martinez, Porru ed Ippolito per la creazione di una zona aperta agli effetti del dazio consumo nel comune di Napoli.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 marzo 1907.   
-  
-VITTORIO EMANUELE.   
-  
-Gianturco.   
-  
-Visto, Il Guardasigilli: Orlando.   
-  
+Respinte le due opposizioni 12 giugno 1906 della «Compagnia napoletana di illuminazione e riscaldamento col gas,» e 13 agosto 1906 della «Societa' anonima per le strade ferrate secondarie meridionali» eliminando la riserva contenuta nel Nostro decreto 14 ottobre 1906, n. 570, sono approvati, anche nelle parti relative alle due opposizioni piu' sopra accennate, i progetti a firma degl'ingegneri Martinez, Porru ed Ippolito per la creazione di una zona aperta agli effetti del dazio consumo nel comune di Napoli. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 marzo 1907. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Gianturco. 
+ 
+ Visto, Il Guardasigilli: Orlando.

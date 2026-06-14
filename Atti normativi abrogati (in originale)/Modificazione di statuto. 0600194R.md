@@ -1,19 +1,15 @@
-REGIO DECRETO 07 giugno 1906 n. CXCIV
+---
+tipo: REGIO DECRETO
+numero: CXCIV
+data: 1906-06-07
+titolo: "Modificazione di statuto. (0600194R)"
+urn: urn:nir:stato:regio.decreto:1906-06-07;194
+codice_redazionale: 0600194R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 giugno 1906 n. CXCIV
-=====================================
-
-Modificazione di statuto. (0600194R)
-------------------------------------
-
-Entrata in vigore del provvedimento: 18/07/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CXCIV (Dato a Roma, il 7 giugno 1906), che modifica lo statuto della Cassa di risparmio di Alessandria negli articoli 5, 6 e 9.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CXCIV (Dato a Roma, il 7 giugno 1906), che modifica lo statuto della Cassa di risparmio di Alessandria negli articoli 5, 6 e 9.

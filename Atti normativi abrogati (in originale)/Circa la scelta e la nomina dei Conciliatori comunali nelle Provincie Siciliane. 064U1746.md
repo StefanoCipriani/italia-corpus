@@ -1,16 +1,14 @@
-REGIO DECRETO 17 aprile 1864 n. 1746
-
-
-REGIO DECRETO 17 aprile 1864 n. 1746
-====================================
-
-Circa la scelta e la nomina dei Conciliatori comunali nelle Provincie Siciliane. (064U1746)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/05/1864
+---
+tipo: REGIO DECRETO
+numero: 1746
+data: 1864-04-17
+titolo: "Circa la scelta e la nomina dei Conciliatori comunali nelle Provincie Siciliane. (064U1746)"
+urn: urn:nir:stato:regio.decreto:1864-04-17;1746
+codice_redazionale: 064U1746
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,20 @@ Visto l'art. 4.° della citata Legge 9 gennaio 1862, N.° 421, col quale e' fatt
 
 Considerato essere conveniente che l'istituzione dei Conciliatori sia retta da regole uniformi, e che la proposta per la nomina dei medesimi sia fatta dagli Ufficiali del Pubblico Ministero cui la Legge ne affida la sorveglianza;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli Ministro di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo:
 
-proposta del Nostro Guardasigilli Ministro di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Conciliatori nelle Provincie Siciliane saranno proposti ogni triennio dalle Giunte Municipali tra i proprietari abitanti nel Comune, piu' distinti per probita' nella pubblica opinione non esclusi gli ecclesiastici, e sulla proposta anzidetta, che sara' trasmessa in via gerarchica dal Procuratore del Re presso il Tribunale di Circondario al Ministero di Grazia e Giustizia, avra' luogo la nomina per Nostro Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 17 aprile 1864.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 26 aprile 1864   
-Reg.° 29 Atti del Governo a c. 56. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI.   
-  
-G. PISANELLI.   
-  
-  
+I Conciliatori nelle Provincie Siciliane saranno proposti ogni triennio dalle Giunte Municipali tra i proprietari abitanti nel Comune, piu' distinti per probita' nella pubblica opinione non esclusi gli ecclesiastici, e sulla proposta anzidetta, che sara' trasmessa in via gerarchica dal Procuratore del Re presso il Tribunale di Circondario al Ministero di Grazia e Giustizia, avra' luogo la nomina per Nostro Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 17 aprile 1864. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 26 aprile 1864 
+ Reg.° 29 Atti del Governo a c. 56. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI. 
+ 
+ G. PISANELLI.

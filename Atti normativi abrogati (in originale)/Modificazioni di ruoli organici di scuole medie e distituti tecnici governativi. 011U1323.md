@@ -1,19 +1,15 @@
-REGIO DECRETO 12 novembre 1911 n. 1323
+---
+tipo: REGIO DECRETO
+numero: 1323
+data: 1911-11-12
+titolo: "Modificazioni di ruoli organici di scuole medie e d'istituti tecnici governativi. (011U1323)"
+urn: urn:nir:stato:regio.decreto:1911-11-12;1323
+codice_redazionale: 011U1323
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 novembre 1911 n. 1323
-======================================
-
-Modificazioni di ruoli organici di scuole medie e d'istituti tecnici governativi. (011U1323)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/01/1912
-
-Art. 1
-------
-
-  
-N. 1323   
-  
-Regio Decreto 12 novembre 1911, col quale, sulla proposta del ministro della pubblica istruzione, dall'1 novembre 1911 sono modificati i ruoli organici delle scuole medie governative per quanto riguarda gli istituti tecnici di Como e di Pesaro.   
-  
+N. 1323 
+ 
+ Regio Decreto 12 novembre 1911, col quale, sulla proposta del ministro della pubblica istruzione, dall'1 novembre 1911 sono modificati i ruoli organici delle scuole medie governative per quanto riguarda gli istituti tecnici di Como e di Pesaro.

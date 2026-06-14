@@ -1,16 +1,14 @@
-REGIO DECRETO 04 agosto 1870 n. 5787
-
-
-REGIO DECRETO 04 agosto 1870 n. 5787
-====================================
-
-Col quale e' aggiunto all'Elenco delle strade provinciali di Avellino il tronco dallo sbocco della deviazione del primo tratto della provinciale di Melfi alla consortile Castelvetere-Fontanarosa. (070U5787)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/09/1870
+---
+tipo: REGIO DECRETO
+numero: 5787
+data: 1870-08-04
+titolo: "Col quale e' aggiunto all'Elenco delle strade provinciali di Avellino il tronco dallo sbocco della deviazione del primo tratto della provinciale di Melfi alla consortile Castelvetere-Fontanarosa. (070U5787)"
+urn: urn:nir:stato:regio.decreto:1870-08-04;5787
+codice_redazionale: 070U5787
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,37 +24,26 @@ Ritenuto che vennero fatte le debite pubblicazioni in tutti i Comuni della Provi
 
 Visti gli articoli 14 e 25 della Legge 20 marzo 1865, allegato F;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' classificato fra le strade provinciali di Avellino il tronco dallo sbocco della deviazione del primo tratto della provinciale di Melfi, presso la migliara 34, alla consortile Castelvetere-Fontanarosa, in aggiunta all'Elenco gia' approvato delle strade predette.
 
-  
-  
-E' classificato fra le strade provinciali di Avellino il tronco dallo sbocco della deviazione del primo tratto della provinciale di Melfi, presso la migliara 34, alla consortile Castelvetere-Fontanarosa, in aggiunta all'Elenco gia' approvato delle strade predette.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' pure approvato il tracciamento generale di tale nuovo tronco di strada provinciale a forma del prodotto piano; il quale sara' munito del visto del Nostro Ministro Segretario di Stato pei Lavori Pubblici.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 4 agosto 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 13 agosto 1870   
-  
-Reg. 52 Atti del Governo a c. 38. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Gadda.   
-  
+E' pure approvato il tracciamento generale di tale nuovo tronco di strada provinciale a forma del prodotto piano; il quale sara' munito del visto del Nostro Ministro Segretario di Stato pei Lavori Pubblici. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 4 agosto 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 13 agosto 1870 
+ 
+ Reg. 52 Atti del Governo a c. 38. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Gadda.

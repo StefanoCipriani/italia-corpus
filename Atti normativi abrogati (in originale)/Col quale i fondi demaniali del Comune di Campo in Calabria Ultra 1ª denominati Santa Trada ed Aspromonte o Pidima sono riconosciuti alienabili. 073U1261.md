@@ -1,16 +1,14 @@
-REGIO DECRETO 26 gennaio 1873 n. 1261
-
-
-REGIO DECRETO 26 gennaio 1873 n. 1261
-=====================================
-
-Col quale i fondi demaniali del Comune di Campo in Calabria Ultra 1ª, denominati Santa Trada ed Aspromonte o Pidima, sono riconosciuti alienabili. (073U1261)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/03/1873
+---
+tipo: REGIO DECRETO
+numero: 1261
+data: 1873-01-26
+titolo: "Col quale i fondi demaniali del Comune di Campo in Calabria Ultra 1ª, denominati Santa Trada ed Aspromonte o Pidima, sono riconosciuti alienabili. (073U1261)"
+urn: urn:nir:stato:regio.decreto:1873-01-26;1261
+codice_redazionale: 073U1261
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Vista la deliberazione presa dal Consiglio comunale di Campo di Calabria, in Cal
 
 Visto l'avviso del Consiglio di Stato, emesso nella sua adunanza generale del 28 agosto 1869;
 
-Sulla
------
+Sulla proposizione del Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposizione del Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I fondi demaniali del Comune di Campo di Calabria, in Calabria Ultra 1ª, denominati Santa Trada ed Aspromonte o Pidima, della estensione complessiva di ettari 42, 03, 02, 02, sono riconosciuti alienabili, con le medesime formalita' e cautele necessarie per l'alienazione degli altri fondi comunali, in adempimento della [Legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato A.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 26 gennaio 1873.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 23 febbraio 1873   
-  
-Vol. 67 Atti del Governo a c. 31. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-Castagnola.   
-  
+I fondi demaniali del Comune di Campo di Calabria, in Calabria Ultra 1ª, denominati Santa Trada ed Aspromonte o Pidima, della estensione complessiva di ettari 42, 03, 02, 02, sono riconosciuti alienabili, con le medesime formalita' e cautele necessarie per l'alienazione degli altri fondi comunali, in adempimento della [Legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato A. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 26 gennaio 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 23 febbraio 1873 
+ 
+ Vol. 67 Atti del Governo a c. 31. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ Castagnola.

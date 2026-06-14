@@ -1,36 +1,28 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 20 settembre 1947 n. 1852
+---
+tipo: DECRETO DEL CAPO PROVVISORIO DELLO STATO
+numero: 1852
+data: 1947-09-20
+titolo: "Modificazione della tabella organica dell'Istituto tecnico industriale di Forli'."
+urn: urn:nir:stato:decreto.del.capo.provvisorio.dello.stato:1947-09-20;1852
+codice_redazionale: 047U1852
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 20 settembre 1947 n. 1852
-==================================================================
+IL CAPO PROVVISORIO DELLO STATO
 
-Modificazione della tabella organica dell'Istituto tecnico industriale di Forli'.
----------------------------------------------------------------------------------
+ Vista la [legge 15 giugno 1931, n. 889](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;
+ Visto il [regio decreto 24 agosto 1933, n. 2179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-24;2179), che approva la tabella organica dell'Istituto tecnico industriale di Forli;
+ Visto l'[art. 10 del decreto legislativo Presidenziale 27 giugno 1946, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;107#art_10);
+ Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;
 
-Art. 1
-------
+ Decreta:
 
- IL CAPO PROVVISORIO DELLO STATO  
-  
-Vista la [legge 15 giugno 1931, n. 889](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-15;889), sul riordinamento dell'istruzione media tecnica;  
-Visto il [regio decreto 24 agosto 1933, n. 2179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-24;2179), che approva la tabella organica dell'Istituto tecnico industriale di Forli;  
-Visto l'[art. 10 del decreto legislativo Presidenziale 27 giugno 1946, n. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto.legislativo:1946-06-27;107~art10);  
-Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con il Ministro Segretario di Stato per il tesoro;  
-  
-Decreta:  
-  
-A decorrere dal 1 ottobre 1947 il posto di vice segretario di ruolo previsto dalla tabella organica dell'Istituto tecnico industriale di Forli' e' soppresso e viene istituito, in sua sostituzione, un posto di applicato di ruolo.  
-  
+ A decorrere dal 1 ottobre 1947 il posto di vice segretario di ruolo previsto dalla tabella organica dell'Istituto tecnico industriale di Forli' e' soppresso e viene istituito, in sua sostituzione, un posto di applicato di ruolo.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 20 settembre 1947
+Dato a Roma, addi' 20 settembre 1947
 
-DE NICOLA GONELLA - DEL VECCHIO
-
-Visto, il Guardasigilli: GRASSI
-
-Registrato alla Corte dei conti, addi' 14 giugno 1948
-
-Atti del Governo, registro n. 21, foglio n. 152. - FRASCA
+DE NICOLA GONELLA - DEL VECCHIO Visto, il Guardasigilli: GRASSI Registrato alla Corte dei conti, addi' 14 giugno 1948 Atti del Governo, registro n. 21, foglio n. 152. - FRASCA

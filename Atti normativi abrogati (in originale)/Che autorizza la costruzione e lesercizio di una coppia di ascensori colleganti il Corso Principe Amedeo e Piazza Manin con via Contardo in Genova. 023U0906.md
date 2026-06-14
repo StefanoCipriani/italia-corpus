@@ -1,16 +1,14 @@
-REGIO DECRETO 05 aprile 1923 n. 906
-
-
-REGIO DECRETO 05 aprile 1923 n. 906
-===================================
-
-Che autorizza la costruzione e l'esercizio di una coppia di ascensori colleganti il Corso Principe Amedeo e Piazza Manin con via Contardo, in Genova. (023U0906)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/05/1923
+---
+tipo: REGIO DECRETO
+numero: 906
+data: 1923-04-05
+titolo: "Che autorizza la costruzione e l'esercizio di una coppia di ascensori colleganti il Corso Principe Amedeo e Piazza Manin con via Contardo, in Genova. (023U0906)"
+urn: urn:nir:stato:regio.decreto:1923-04-05;906
+codice_redazionale: 023U0906
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,35 +22,22 @@ Visto il testo Unico delle disposizioni di legge per le ferrovie concesse all'in
 
 Sentito il Consiglio superiore dei lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'ingegnere Domenico Sertorio, domiciliato in Genova, e' autorizzato a costruire ed esercitare, in base al progetto portante il bollo dell'ufficio del registro di Genova, una coppia di ascensori colleganti il corso Principe Amedeo e piazza Manin con via Contardo ed adiacenza, nella suddetta citta' per servizio pubblico di passeggeri.
 
-  
-  
-  
-L'ingegnere Domenico Sertorio, domiciliato in Genova, e' autorizzato a costruire ed esercitare, in base al progetto portante il bollo dell'ufficio del registro di Genova, una coppia di ascensori colleganti il corso Principe Amedeo e piazza Manin con via Contardo ed adiacenza, nella suddetta citta' per servizio pubblico di passeggeri.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-  
-Per l'impianto e l'esercizio degli ascensori, di cui sopra, dovranno osservarsi, oltre le disposizioni della legge e regolamento sopra citati, anche le norme e condizioni contenute nel disciplinare 8 marzo 1923, nonche' le speciali prescrizioni di' sicurezza, che si riconoscessero necessarie all'atto del collaudo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 aprile 1923.   
-  
-VITTORIO EMANUELE.   
-  
-CARNAZZA.   
-  
-Visto Guardasigilli: OVIGLIO.   
-  
+Per l'impianto e l'esercizio degli ascensori, di cui sopra, dovranno osservarsi, oltre le disposizioni della legge e regolamento sopra citati, anche le norme e condizioni contenute nel disciplinare 8 marzo 1923, nonche' le speciali prescrizioni di' sicurezza, che si riconoscessero necessarie all'atto del collaudo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 aprile 1923. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ CARNAZZA. 
+ 
+ Visto Guardasigilli: OVIGLIO.

@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 26 novembre 1916 n. 1863
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1863
+data: 1916-11-26
+titolo: "Annullamento di partita. (016U1863)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-11-26;1863
+codice_redazionale: 016U1863
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 26 novembre 1916 n. 1863
-================================================
-
-Annullamento di partita. (016U1863)
------------------------------------
-
-Entrata in vigore del provvedimento: 10/02/1917
-
-Art. 1
-------
-
-null
+## Art. 1. — null

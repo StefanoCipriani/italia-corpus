@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 01 luglio 1917 n. 1165
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1165
+data: 1917-07-01
+titolo: "Modificazione di statuto. (017U1165)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-07-01;1165
+codice_redazionale: 017U1165
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 01 luglio 1917 n. 1165
-==============================================
-
-Modificazione di statuto. (017U1165)
-------------------------------------
-
-Entrata in vigore del provvedimento: 18/08/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1165. Decreto Luogotenenziale 1 luglio 1917, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, sono approvate alcune modificazioni allo statuto organico della Cassa di risparmio di Pinerolo.
+1165.
+
+Decreto Luogotenenziale 1 luglio 1917, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, sono approvate alcune modificazioni allo statuto organico della Cassa di risparmio di Pinerolo.

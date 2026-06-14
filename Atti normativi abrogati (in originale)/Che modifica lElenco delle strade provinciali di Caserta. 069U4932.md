@@ -1,16 +1,14 @@
-REGIO DECRETO 28 febbraio 1869 n. 4932
-
-
-REGIO DECRETO 28 febbraio 1869 n. 4932
-======================================
-
-Che modifica l'Elenco delle strade provinciali di Caserta. (069U4932)
----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/04/1869
+---
+tipo: REGIO DECRETO
+numero: 4932
+data: 1869-02-28
+titolo: "Che modifica l'Elenco delle strade provinciali di Caserta. (069U4932)"
+urn: urn:nir:stato:regio.decreto:1869-02-28;4932
+codice_redazionale: 069U4932
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,33 +30,26 @@ Che in seguito alla costruzione del ponte sul Volturno presso Dragoni, per tutte
 
 Che la variazione nell'andamento delle strade di Piedimonte porta pure una modificazione nella strada n. 27, di cui un tronco viene a far parte di quella di Piedimonte;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nell'Elenco delle strade provinciali di Caserta, approvato col precitato Nostro Decreto dell'8 settembre 1867, sono introdotte le modificazioni seguenti, relative all'andamento delle strade infrascritte:   
-  
-(N. 24). Strada di Piedimonte - Da fuori dell'abitato di Caserta a Piedimonte per Gradillo, Cazazzo, Alvignano, Dragoni e la Piana d'Alife.   
-  
-(N. 27). Strada di Riardo - Da Dragoni per Latina, Baja e Pietramelara.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 28 febbraio 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 marzo 1869   
-  
-Reg. 45 Atti del Governo a c. 54. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-L. Pasini.   
-  
+Nell'Elenco delle strade provinciali di Caserta, approvato col precitato Nostro Decreto dell'8 settembre 1867, sono introdotte le modificazioni seguenti, relative all'andamento delle strade infrascritte: 
+ 
+ (N. 24). Strada di Piedimonte - Da fuori dell'abitato di Caserta a Piedimonte per Gradillo, Cazazzo, Alvignano, Dragoni e la Piana d'Alife. 
+ 
+ (N. 27). Strada di Riardo - Da Dragoni per Latina, Baja e Pietramelara. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 28 febbraio 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 marzo 1869 
+ 
+ Reg. 45 Atti del Governo a c. 54. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ L. Pasini.

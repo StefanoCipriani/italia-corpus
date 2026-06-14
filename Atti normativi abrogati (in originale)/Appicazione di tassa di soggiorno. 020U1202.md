@@ -1,17 +1,17 @@
-REGIO DECRETO 01 luglio 1920 n. 1202
+---
+tipo: REGIO DECRETO
+numero: 1202
+data: 1920-07-01
+titolo: "Appicazione di tassa di soggiorno. (020U1202)"
+urn: urn:nir:stato:regio.decreto:1920-07-01;1202
+codice_redazionale: 020U1202
+vigente: true
+---
 
-
-REGIO DECRETO 01 luglio 1920 n. 1202
-====================================
-
-Appicazione di tassa di soggiorno. (020U1202)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 24/09/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1202. Regio decreto 1° luglio 1920, con cui, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, si autorizza il comune di Resina ad applicare la tassa di soggiorno e si omologa il relativo regolamento.
+1202.
+
+Regio decreto 1° luglio 1920, con cui, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, si autorizza il comune di Resina ad applicare la tassa di soggiorno e si omologa il relativo regolamento.

@@ -1,16 +1,14 @@
-REGIO DECRETO 22 giugno 1862 n. 731
-
-
-REGIO DECRETO 22 giugno 1862 n. 731
-===================================
-
-Col quale sono delegate ai Procuratori Generali del Re nelle Provincie di Lombardia, dell'Emilia, delle Marche e dell'Umbria alcune attribuzioni in ordine agli acquisti ed alle accettazioni di lasciti e donazioni per parte dei Corpi morali ecclesiastici delle stesse Provincie. (062U0731)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/08/1862
+---
+tipo: REGIO DECRETO
+numero: 731
+data: 1862-06-22
+titolo: "Col quale sono delegate ai Procuratori Generali del Re nelle Provincie di Lombardia, dell'Emilia, delle Marche e dell'Umbria alcune attribuzioni in ordine agli acquisti ed alle accettazioni di lasciti e donazioni per parte dei Corpi morali ecclesiastici delle stesse Provincie. (062U0731)"
+urn: urn:nir:stato:regio.decreto:1862-06-22;731
+codice_redazionale: 062U0731
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,29 +18,22 @@ Visto il Regio Decreto 11 maggio 1860, n.° 4003, la legge 27 marzo 1862, n.° 5
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposizione del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposizione del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal 1.° luglio p. v. sono devolute al Procuratore Generale del Re presso la Corte d'Appello, nel Distretto della quale sono posti gli stabilimenti o corpi morali, le attribuzioni fin ora esercitate dalla Presidenza del Tribunale d'Appello di Milano e dai Prefetti delle Provincia dell'Emilia, delle Marche e dell'Umbria guardo agli acquisti ed alla accettazione di donazioni tra vivi e di disposizioni testamentarie a favore di quelli fra i detti stabilimenti o corpi morali, pei quali la Sovrana autorizzazione debba essere promossa dal Ministero di Grazia e Giustizia e de' Culti.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino li 22 giugno 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 5 agosto 1862   
-  
-Reg.° 20 Atti del Governo a c. 171. Wehrlin.   
-  
-Luogo del sigillo. V. Il Guardasigilli R. Conforti.   
-  
-Raffaele Conforti.   
-  
+Dal 1.° luglio p. v. sono devolute al Procuratore Generale del Re presso la Corte d'Appello, nel Distretto della quale sono posti gli stabilimenti o corpi morali, le attribuzioni fin ora esercitate dalla Presidenza del Tribunale d'Appello di Milano e dai Prefetti delle Provincia dell'Emilia, delle Marche e dell'Umbria guardo agli acquisti ed alla accettazione di donazioni tra vivi e di disposizioni testamentarie a favore di quelli fra i detti stabilimenti o corpi morali, pei quali la Sovrana autorizzazione debba essere promossa dal Ministero di Grazia e Giustizia e de' Culti. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino li 22 giugno 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 5 agosto 1862 
+ 
+ Reg.° 20 Atti del Governo a c. 171. Wehrlin. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ Raffaele Conforti.

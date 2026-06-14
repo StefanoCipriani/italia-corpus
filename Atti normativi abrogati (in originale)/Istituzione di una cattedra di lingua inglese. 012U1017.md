@@ -1,19 +1,15 @@
-REGIO DECRETO 22 luglio 1912 n. 1017
+---
+tipo: REGIO DECRETO
+numero: 1017
+data: 1912-07-22
+titolo: "Istituzione di una cattedra di lingua inglese. (012U1017)"
+urn: urn:nir:stato:regio.decreto:1912-07-22;1017
+codice_redazionale: 012U1017
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 luglio 1912 n. 1017
-====================================
-
-Istituzione di una cattedra di lingua inglese. (012U1017)
----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/10/1912
-
-Art. 1
-------
-
-  
-N. 1017   
-  
-Regio Decreto 22 luglio 1912, col quale, sulla proposta del ministro dell'istruzione pubblica, viene istituita una cattedra per l'insegnamento della lingua inglese nel R. Istituto tecnico di Alessandria, con effetto dal 1° ottobre 1912.   
-  
+N. 1017 
+ 
+ Regio Decreto 22 luglio 1912, col quale, sulla proposta del ministro dell'istruzione pubblica, viene istituita una cattedra per l'insegnamento della lingua inglese nel R. Istituto tecnico di Alessandria, con effetto dal 1° ottobre 1912.

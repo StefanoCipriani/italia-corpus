@@ -1,16 +1,14 @@
-REGIO DECRETO 25 febbraio 1877 n. 3694
-
-
-REGIO DECRETO 25 febbraio 1877 n. 3694
-======================================
-
-Che separa il comune di Chiajano ed Uniti dalla sezione elettorale di Marano di Napoli e lo costituisce in sezione distinta de 2° collegio elettorale di Napoli. (077U3694)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/03/1877
+---
+tipo: REGIO DECRETO
+numero: 3694
+data: 1877-02-25
+titolo: "Che separa il comune di Chiajano ed Uniti dalla sezione elettorale di Marano di Napoli e lo costituisce in sezione distinta de 2° collegio elettorale di Napoli. (077U3694)"
+urn: urn:nir:stato:regio.decreto:1877-02-25;3694
+codice_redazionale: 077U3694
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,22 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Chiajano ed Uniti e' separato dalla sezione elettorale di Marano di Napoli e formera' una sezione di tinta del 2° Collegio elettorale di Napoli n. 260.   
-  
-Ordiniamo che il presente decreto, munito del Sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 febbraio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
+Il comune di Chiajano ed Uniti e' separato dalla sezione elettorale di Marano di Napoli e formera' una sezione di tinta del 2° Collegio elettorale di Napoli n. 260. 
+ 
+ Ordiniamo che il presente decreto, munito del Sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 febbraio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

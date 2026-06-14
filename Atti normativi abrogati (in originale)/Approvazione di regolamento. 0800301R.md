@@ -1,19 +1,15 @@
-REGIO DECRETO 26 luglio 1908 n. CCCI
+---
+tipo: REGIO DECRETO
+numero: CCCI
+data: 1908-07-26
+titolo: "Approvazione di regolamento. (0800301R)"
+urn: urn:nir:stato:regio.decreto:1908-07-26;301
+codice_redazionale: 0800301R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 luglio 1908 n. CCCI
-====================================
-
-Approvazione di regolamento. (0800301R)
----------------------------------------
-
-Entrata in vigore del provvedimento: 02/09/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del Nostro ministro per le finanze:   
-  
-N. CCCI (Dato a Racconigi, il 26 luglio 1908), col quale e' approvato il regolamento per l'applicazione della tassa sul bestiame deliberato dalla Giunta provinciale amministrativa di Bari nelle adunanze in data 31 dicembre 1907 e 11 febbraio e 7 aprile 1908, in sostituzione del regolamento approvato con R. decreto 20 dicembre 1903, n. DXXIV.   
-  
+Sulla proposta del Nostro ministro per le finanze: 
+ 
+ N. CCCI (Dato a Racconigi, il 26 luglio 1908), col quale e' approvato il regolamento per l'applicazione della tassa sul bestiame deliberato dalla Giunta provinciale amministrativa di Bari nelle adunanze in data 31 dicembre 1907 e 11 febbraio e 7 aprile 1908, in sostituzione del regolamento approvato con R. decreto 20 dicembre 1903, n. DXXIV.

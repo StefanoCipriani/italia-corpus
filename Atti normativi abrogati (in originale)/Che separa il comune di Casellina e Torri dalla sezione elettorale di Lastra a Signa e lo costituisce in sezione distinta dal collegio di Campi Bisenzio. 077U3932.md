@@ -1,16 +1,14 @@
-REGIO DECRETO 11 luglio 1877 n. 3932
-
-
-REGIO DECRETO 11 luglio 1877 n. 3932
-====================================
-
-Che separa il comune di Casellina e Torri dalla sezione elettorale di Lastra a Signa e lo costituisce in sezione distinta dal collegio di Campi Bisenzio. (077U3932)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/08/1877
+---
+tipo: REGIO DECRETO
+numero: 3932
+data: 1877-07-11
+titolo: "Che separa il comune di Casellina e Torri dalla sezione elettorale di Lastra a Signa e lo costituisce in sezione distinta dal collegio di Campi Bisenzio. (077U3932)"
+urn: urn:nir:stato:regio.decreto:1877-07-11;3932
+codice_redazionale: 077U3932
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,22 +22,14 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbinino decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbinino decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 11 luglio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. NICOTERA.   
-  
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 11 luglio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. NICOTERA.

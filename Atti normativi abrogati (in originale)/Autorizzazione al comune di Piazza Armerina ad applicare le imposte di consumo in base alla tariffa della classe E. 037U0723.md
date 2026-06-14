@@ -1,16 +1,14 @@
-REGIO DECRETO 22 aprile 1937 n. 723
-
-
-REGIO DECRETO 22 aprile 1937 n. 723
-===================================
-
-Autorizzazione al comune di Piazza Armerina ad applicare le imposte di consumo in base alla tariffa della classe E. (037U0723)
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/06/1937
+---
+tipo: REGIO DECRETO
+numero: 723
+data: 1937-04-22
+titolo: "Autorizzazione al comune di Piazza Armerina ad applicare le imposte di consumo in base alla tariffa della classe E. (037U0723)"
+urn: urn:nir:stato:regio.decreto:1937-04-22;723
+codice_redazionale: 037U0723
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,20 @@ Vista la domanda avanzata dal comune di Piazza Armerina per avvalersi delle disp
 
 Udito il parere della Commissione centrale per la Finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
-
-Art. 1
-------
+## Art. 1.
 
 Il comune di Piazza Armerina e' autorizzato ad applicare le imposte di consumo in base alla tariffa della classe E, fino a tutto l'anno
 
-1939. 
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Roma, addi' 22 aprile 1937 - Anno XV   
-VITTORIO EMANUELE   
-  
-DI REVEL.   
-  
-Visto, il Guardasigilli: SOLMI.   
-Registrato alla Corte dei conti, addi' 21 maggio 1937 - Anno XV   
-Atti del Governo, registro 385, foglio 118. - MANCINI.
+1939.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 22 aprile 1937 - Anno XV 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL. 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ Registrato alla Corte dei conti, addi' 21 maggio 1937 - Anno XV 
+ Atti del Governo, registro 385, foglio 118. - MANCINI.

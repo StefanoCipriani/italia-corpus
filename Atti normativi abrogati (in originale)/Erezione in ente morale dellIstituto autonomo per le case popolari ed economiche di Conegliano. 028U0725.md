@@ -1,21 +1,21 @@
-REGIO DECRETO 18 marzo 1928 n. 725
+---
+tipo: REGIO DECRETO
+numero: 725
+data: 1928-03-18
+titolo: "Erezione in ente morale dell'Istituto autonomo per le case popolari ed economiche di Conegliano. (028U0725)"
+urn: urn:nir:stato:regio.decreto:1928-03-18;725
+codice_redazionale: 028U0725
+vigente: true
+---
 
-
-REGIO DECRETO 18 marzo 1928 n. 725
-==================================
-
-Erezione in ente morale dell'Istituto autonomo per le case popolari ed economiche di Conegliano. (028U0725)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/05/1928
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-725. R. decreto 18 marzo 1928, col quale, sulla proposta del Ministro per l'economia nazionale, l'Istituto autonomo per le case popolari ed economiche, con sede in Conegliano, viene eretto in ente morale e ne e' approvato lo statuto.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 16 aprile 1928 - Anno VI
+725.
+
+R. decreto 18 marzo 1928, col quale, sulla proposta del Ministro per l'economia nazionale, l'Istituto autonomo per le case popolari ed economiche, con sede in Conegliano, viene eretto in ente morale e ne e' approvato lo statuto. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 16 aprile 1928 - Anno VI

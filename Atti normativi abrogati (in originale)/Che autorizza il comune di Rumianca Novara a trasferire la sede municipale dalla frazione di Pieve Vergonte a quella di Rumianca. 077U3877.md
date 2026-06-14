@@ -1,16 +1,14 @@
-REGIO DECRETO 05 giugno 1877 n. 3877
-
-
-REGIO DECRETO 05 giugno 1877 n. 3877
-====================================
-
-Che autorizza il comune di Rumianca (Novara) a trasferire la sede municipale dalla frazione di Pieve Vergonte a quella di Rumianca. (077U3877)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/07/1877
+---
+tipo: REGIO DECRETO
+numero: 3877
+data: 1877-06-05
+titolo: "Che autorizza il comune di Rumianca (Novara) a trasferire la sede municipale dalla frazione di Pieve Vergonte a quella di Rumianca. (077U3877)"
+urn: urn:nir:stato:regio.decreto:1877-06-05;3877
+codice_redazionale: 077U3877
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,23 +20,16 @@ Vedute le deliberazioni del Consiglio comunale di Rumianca in data 22 ottobre 18
 
 Vista la deliberazione del Consiglio provinciale di Novara in data 17 gennaio 1877;
 
-Vista
------
+Vista la legge comunale e provinciale 20 marzo 1865, allegato A, Abbiamo decretato e decretiamo:
 
-la legge comunale e provinciale 20 marzo 1865, allegato A, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Rumianca nella provincia di Novara e' autorizzato a trasferire la sede municipale dalla frazione di Pieve Vergonte a quella di Rumianca.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 giugno 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il comune di Rumianca nella provincia di Novara e' autorizzato a trasferire la sede municipale dalla frazione di Pieve Vergonte a quella di Rumianca. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 giugno 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

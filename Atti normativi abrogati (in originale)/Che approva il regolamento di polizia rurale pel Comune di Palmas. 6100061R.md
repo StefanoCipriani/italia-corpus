@@ -1,20 +1,17 @@
-REGIO DECRETO 16 giugno 1861 n. LXI
+---
+tipo: REGIO DECRETO
+numero: LXI
+data: 1861-06-16
+titolo: "Che approva il regolamento di polizia rurale pel Comune di Palmas. (6100061R)"
+urn: urn:nir:stato:regio.decreto:1861-06-16;61
+codice_redazionale: 6100061R
+vigente: true
+---
 
-
-REGIO DECRETO 16 giugno 1861 n. LXI
-===================================
-
-Che approva il regolamento di polizia rurale pel Comune di Palmas. (6100061R)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/06/1861
-
-Art. 1
-------
+## Art. 1.
 
 Che approva il regolamento di polizia rurale deliberato dalla Comunita' di Palmas nella sua adunanza del 23 ottobre
 
-1860. 
-  
-  
+1860.
+
 Torino 16 giugno 1861

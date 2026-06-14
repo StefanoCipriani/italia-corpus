@@ -1,18 +1,20 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 29 novembre 1946 n. 730
+---
+tipo: DECRETO DEL CAPO PROVVISORIO DELLO STATO
+numero: 730
+data: 1946-11-29
+titolo: "Autorizzazione all'Universita' di Bologna ad accettare una donazione."
+urn: urn:nir:stato:decreto.del.capo.provvisorio.dello.stato:1946-11-29;730
+codice_redazionale: 046U0730
+vigente: true
+---
 
-
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 29 novembre 1946 n. 730
-================================================================
-
-Autorizzazione all'Universita' di Bologna ad accettare una donazione.
----------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-730. Decreto del Capo provvisorio dello stato 29 novembre 1946, col quale, sulla proposta del Ministro per la pubblica istruzione; l'Universita' di Bologna viene autorizzata ad accettare la donazione di circa 250 volumi e di 4 apparecchi topografici disposta in suo favore dalla sig.ra Giuseppina Gallucci Tacchini.  
-  
-Visto, il Guardasigilli: GULLO  
-Registrato alla Corte dei Conti, addi' 3 marzo 1947
+730.
+
+Decreto del Capo provvisorio dello stato 29 novembre 1946, col quale, sulla proposta del Ministro per la pubblica istruzione; l'Universita' di Bologna viene autorizzata ad accettare la donazione di circa 250 volumi e di 4 apparecchi topografici disposta in suo favore dalla sig.ra Giuseppina Gallucci Tacchini.
+
+Visto, il Guardasigilli: GULLO
+ Registrato alla Corte dei Conti, addi' 3 marzo 1947

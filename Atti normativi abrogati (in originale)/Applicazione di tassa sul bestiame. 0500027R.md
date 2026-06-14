@@ -1,19 +1,15 @@
-REGIO DECRETO 12 febbraio 1905 n. XXVII
+---
+tipo: REGIO DECRETO
+numero: XXVII
+data: 1905-02-12
+titolo: "Applicazione di tassa sul bestiame. (0500027R)"
+urn: urn:nir:stato:regio.decreto:1905-02-12;27
+codice_redazionale: 0500027R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 febbraio 1905 n. XXVII
-=======================================
-
-Applicazione di tassa sul bestiame. (0500027R)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 21/03/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. XXVII (Dato a Roma, il 12 febbraio 1905), col quale e' approvato il regolamento per l'applicazione della tassa sul bestiame nei comuni della provincia di Perugia, deliberato da quella Giunta provinciale amministrativa nelle adunanze del 6 giugno 1904 e del 5 gennaio 1905, in sostituzione del regolamento approvato con Reale decreto del 4 agosto 1894 e modificato con Reale decreto del 29 settembre 1899.   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. XXVII (Dato a Roma, il 12 febbraio 1905), col quale e' approvato il regolamento per l'applicazione della tassa sul bestiame nei comuni della provincia di Perugia, deliberato da quella Giunta provinciale amministrativa nelle adunanze del 6 giugno 1904 e del 5 gennaio 1905, in sostituzione del regolamento approvato con Reale decreto del 4 agosto 1894 e modificato con Reale decreto del 29 settembre 1899.

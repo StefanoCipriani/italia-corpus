@@ -1,16 +1,14 @@
-REGIO DECRETO 23 marzo 1862 n. 513
-
-
-REGIO DECRETO 23 marzo 1862 n. 513
-==================================
-
-E' delegata ai Prefetti delle Provincie Siciliane la facolta' di approvare le deliberazioni dei Municipii riguardanti le imposte comunali. (062U0513)
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/04/1862
+---
+tipo: REGIO DECRETO
+numero: 513
+data: 1862-03-23
+titolo: "E' delegata ai Prefetti delle Provincie Siciliane la facolta' di approvare le deliberazioni dei Municipii riguardanti le imposte comunali. (062U0513)"
+urn: urn:nir:stato:regio.decreto:1862-03-23;513
+codice_redazionale: 062U0513
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Considerato che le deliberazioni dei Consigli comunali delle Provincie della Sic
 
 Ritenuta l'urgenza di provvedere prontamente alla sistemazione dei bilanci dei Comuni di quelle Provincie per l'anno in corso;
 
-Sentito
--------
+Sentito il parere del Consiglio di Stato; Abbiamo ordinato ed ordiniamo quanto segue:
 
-il parere del Consiglio di Stato; Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' delegata ai Prefetti delle Provincie della Sicilia la facolta' di approvare, previo il parere del Consiglio di Prefettura, le deliberazioni dei Consigli comunali concernenti i dazi, le privative e le imposte da stabilirsi nei rispettivi Comuni per sopperire alle spese necessarie da stanziarsi nei loro bilanci per il corrente anno 1862.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 23 marzo 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 25 marzo 1862   
-  
-Reg.° 19 Atti del Governo a c. 135. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cordova.   
-  
-Quintino Sella.   
-  
+E' delegata ai Prefetti delle Provincie della Sicilia la facolta' di approvare, previo il parere del Consiglio di Prefettura, le deliberazioni dei Consigli comunali concernenti i dazi, le privative e le imposte da stabilirsi nei rispettivi Comuni per sopperire alle spese necessarie da stanziarsi nei loro bilanci per il corrente anno 1862. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 23 marzo 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 25 marzo 1862 
+ 
+ Reg.° 19 Atti del Governo a c. 135. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cordova. 
+ 
+ Quintino Sella.

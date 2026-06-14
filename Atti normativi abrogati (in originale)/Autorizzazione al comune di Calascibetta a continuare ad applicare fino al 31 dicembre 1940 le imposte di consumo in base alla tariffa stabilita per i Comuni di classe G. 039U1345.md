@@ -1,16 +1,14 @@
-REGIO DECRETO 18 agosto 1939 n. 1345
-
-
-REGIO DECRETO 18 agosto 1939 n. 1345
-====================================
-
-Autorizzazione al comune di Calascibetta a continuare ad applicare fino al 31 dicembre 1940 le imposte di consumo in base alla tariffa stabilita per i Comuni di classe G. (039U1345)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/10/1939
+---
+tipo: REGIO DECRETO
+numero: 1345
+data: 1939-08-18
+titolo: "Autorizzazione al comune di Calascibetta a continuare ad applicare fino al 31 dicembre 1940 le imposte di consumo in base alla tariffa stabilita per i Comuni di classe G. (039U1345)"
+urn: urn:nir:stato:regio.decreto:1939-08-18;1345
+codice_redazionale: 039U1345
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,30 +24,22 @@ Visto il R. decreto 25 marzo 1937-XV, n. 462;
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
-
-  
-  
-Il comune di Calascibetta e' autorizzato a continuare ad applicare fino al 31 dicembre 1940 le imposte di consumo in base alla tariffa stabilita per i comuni di classe G.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 18 agosto 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registralo alla Corte dei conti, addi' 14 settembre 1939-XVII   
-  
-Atti del Governo, registro 413, foglio 53. - Mancini   
-  
-  
+Il comune di Calascibetta e' autorizzato a continuare ad applicare fino al 31 dicembre 1940 le imposte di consumo in base alla tariffa stabilita per i comuni di classe G. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 18 agosto 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registralo alla Corte dei conti, addi' 14 settembre 1939-XVII 
+ 
+ Atti del Governo, registro 413, foglio 53. - Mancini

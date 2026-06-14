@@ -1,16 +1,14 @@
-REGIO DECRETO 09 gennaio 1876 n. 2900
-
-
-REGIO DECRETO 09 gennaio 1876 n. 2900
-=====================================
-
-Col quale il comune di Montecatini in Val di Nievole e' distaccato dalla sezione secondaria del collegio elettorale di Pescia, n. 210, e costituito in sezione separata del collegio medesimo. (076U2900)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/01/1876
+---
+tipo: REGIO DECRETO
+numero: 2900
+data: 1876-01-09
+titolo: "Col quale il comune di Montecatini in Val di Nievole e' distaccato dalla sezione secondaria del collegio elettorale di Pescia, n. 210, e costituito in sezione separata del collegio medesimo. (076U2900)"
+urn: urn:nir:stato:regio.decreto:1876-01-09;2900
+codice_redazionale: 076U2900
+vigente: true
+---
 
 VITTORIO EMANUELLE II
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,22 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato, per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato, per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Montecatini di Val di Nievole e' distaccato dalla sezione secondaria del Collegio elettorale di Pescia, n. 210, detta di Monsummano, e costituito in sezione separata del Collegio medesimo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 gennaio 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
+Il comune di Montecatini di Val di Nievole e' distaccato dalla sezione secondaria del Collegio elettorale di Pescia, n. 210, detta di Monsummano, e costituito in sezione separata del Collegio medesimo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 gennaio 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

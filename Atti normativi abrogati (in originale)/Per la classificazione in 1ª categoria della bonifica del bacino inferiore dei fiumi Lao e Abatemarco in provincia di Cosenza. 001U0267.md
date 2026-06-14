@@ -1,16 +1,14 @@
-REGIO DECRETO 28 aprile 1901 n. 267
-
-
-REGIO DECRETO 28 aprile 1901 n. 267
-===================================
-
-Per la classificazione in 1ª categoria della bonifica del bacino inferiore dei fiumi Lao e Abatemarco, in provincia di Cosenza. (001U0267)
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/07/1901
+---
+tipo: REGIO DECRETO
+numero: 267
+data: 1901-04-28
+titolo: "Per la classificazione in 1ª categoria della bonifica del bacino inferiore dei fiumi Lao e Abatemarco, in provincia di Cosenza. (001U0267)"
+urn: urn:nir:stato:regio.decreto:1901-04-28;267
+codice_redazionale: 001U0267
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Veduto il parere del Consiglio provinciale sanitario;
 
 Udito il Consiglio superiore dei Lavori Pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' classificata di prima categoria, ai termini e per gli effetti dei precitati articoli di legge, la bonificazione del bacino inferiore dei fiumi Lao e Abatemarco, in provincia di Cosenza.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 aprile 1901.   
-  
-VITTORIO EMANUELE   
-  
-G. Giusso.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.   
-  
+E' classificata di prima categoria, ai termini e per gli effetti dei precitati articoli di legge, la bonificazione del bacino inferiore dei fiumi Lao e Abatemarco, in provincia di Cosenza. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 aprile 1901. 
+ 
+ VITTORIO EMANUELE 
+ 
+ G. Giusso. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

@@ -1,17 +1,17 @@
-REGIO DECRETO 16 marzo 1922 n. 690
+---
+tipo: REGIO DECRETO
+numero: 690
+data: 1922-03-16
+titolo: "Approvazione di statuto. (022U0690)"
+urn: urn:nir:stato:regio.decreto:1922-03-16;690
+codice_redazionale: 022U0690
+vigente: true
+---
 
-
-REGIO DECRETO 16 marzo 1922 n. 690
-==================================
-
-Approvazione di statuto. (022U0690)
------------------------------------
-
-Entrata in vigore del provvedimento: 27/06/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-690. Regio decreto 16 marzo 1922, col quale, sulla proposta del ministro dell'istruzione pubblica, viene approvato lo statuto della fondazione Nicola Caselli in Calvello.
+690.
+
+Regio decreto 16 marzo 1922, col quale, sulla proposta del ministro dell'istruzione pubblica, viene approvato lo statuto della fondazione Nicola Caselli in Calvello.

@@ -1,20 +1,17 @@
-REGIO DECRETO 05 dicembre 1861 n. CCXXIII
+---
+tipo: REGIO DECRETO
+numero: CCXXIII
+data: 1861-12-05
+titolo: "Che approva il regolamento di polizia urbana pel Comune di Crodo. (6100223R)"
+urn: urn:nir:stato:regio.decreto:1861-12-05;223
+codice_redazionale: 6100223R
+vigente: true
+---
 
-
-REGIO DECRETO 05 dicembre 1861 n. CCXXIII
-=========================================
-
-Che approva il regolamento di polizia urbana pel Comune di Crodo. (6100223R)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/12/1861
-
-Art. 1
-------
+## Art. 1.
 
 Che approva il regolamento di polizia urbana deliberato dal Consiglio Comunale di Crodo (Novara) in seduta del 7 novembre
 
-1861. 
-  
-  
+1861.
+
 Torino 5 dicembre 1861

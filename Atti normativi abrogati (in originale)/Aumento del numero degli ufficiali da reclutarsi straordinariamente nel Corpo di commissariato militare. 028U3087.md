@@ -1,39 +1,35 @@
-LEGGE 24 dicembre 1928 n. 3087
+---
+tipo: LEGGE
+numero: 3087
+data: 1928-12-24
+titolo: "Aumento del numero degli ufficiali da reclutarsi straordinariamente nel Corpo di commissariato militare. (028U3087)"
+urn: urn:nir:stato:legge:1928-12-24;3087
+codice_redazionale: 028U3087
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 24 dicembre 1928 n. 3087
-==============================
-
-Aumento del numero degli ufficiali da reclutarsi straordinariamente nel Corpo di commissariato militare. (028U3087)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/01/1929
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
-  
-RE D'ITALIA   
-  
-Il Senato e la Camera dei deputati hanno approvato;   
-  
-Noi abbiamo sanzionato e promulghiamo quanto segue:   
-  
-Articolo unico.   
-  
-Il numero degli ufficiali, tra capitani e tenenti del servizio permanente, da reclutarsi straordinariamente per il Corpo di commissariato militare - ufficiali commissari - in base alla facolta' concessa al Ministro per la guerra con l'[articolo 9 del R. decreto-legge 16 maggio 1926, n. 855](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-16;855~art9), e' elevato da 30 a 37.   
-  
-Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Roma, addi' 24 dicembre 1928 - Anno VII   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Il Senato e la Camera dei deputati hanno approvato; 
+ 
+ Noi abbiamo sanzionato e promulghiamo quanto segue: 
+ 
+ Articolo unico. 
+ 
+ Il numero degli ufficiali, tra capitani e tenenti del servizio permanente, da reclutarsi straordinariamente per il Corpo di commissariato militare - ufficiali commissari - in base alla facolta' concessa al Ministro per la guerra con l'[articolo 9 del R. decreto-legge 16 maggio 1926, n. 855](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-05-16;855#art_9), e' elevato da 30 a 37. 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Roma, addi' 24 dicembre 1928 - Anno VII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco.

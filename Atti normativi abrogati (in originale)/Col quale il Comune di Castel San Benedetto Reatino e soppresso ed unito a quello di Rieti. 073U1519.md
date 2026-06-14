@@ -1,16 +1,14 @@
-REGIO DECRETO 24 luglio 1873 n. 1519
-
-
-REGIO DECRETO 24 luglio 1873 n. 1519
-====================================
-
-Col quale il Comune di Castel San Benedetto Reatino e' soppresso ed unito a quello di Rieti. (073U1519)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/09/1873
+---
+tipo: REGIO DECRETO
+numero: 1519
+data: 1873-07-24
+titolo: "Col quale il Comune di Castel San Benedetto Reatino e' soppresso ed unito a quello di Rieti. (073U1519)"
+urn: urn:nir:stato:regio.decreto:1873-07-24;1519
+codice_redazionale: 073U1519
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,37 +22,26 @@ Vista la deliberazione del Consiglio provinciale di Perugia, in data 24 novembre
 
 Visti gli articoli 13 e 14 della Legge comunale e provinciale, 20 marzo 1865, allegato A;
 
-Vista
------
+Vista la Legge 18 agosto 1870, n. 5815; Abbiamo decretato e decretiamo:
 
-la Legge 18 agosto 1870, n. 5815; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A datare dal 1° ottobre 1873, il Comune di Castel San Benedetto Reatino e' soppresso e unito a quello di Rieti, nella Provincia di Perugia.
 
-  
-  
-A datare dal 1° ottobre 1873, il Comune di Castel San Benedetto Reatino e' soppresso e unito a quello di Rieti, nella Provincia di Perugia.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Fino alla costituzione del novello Consiglio comunale di Rieti, a cui si procedera' a cura del Prefetto della Provincia entro il mese di settembre 1873, in base alle liste elettorali amministrative debitamente riformate a forma di Legge, le attuali Rappresentanze dei due Comuni continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione del futuro Consiglio.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 24 luglio 1873.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 11 agosto 1873   
-  
-Vol. 71 Atti del Governo a c. 32. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Vigliani.   
-  
-G. Cantelli.   
-  
+Fino alla costituzione del novello Consiglio comunale di Rieti, a cui si procedera' a cura del Prefetto della Provincia entro il mese di settembre 1873, in base alle liste elettorali amministrative debitamente riformate a forma di Legge, le attuali Rappresentanze dei due Comuni continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione del futuro Consiglio. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 24 luglio 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 11 agosto 1873 
+ 
+ Vol. 71 Atti del Governo a c. 32. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Vigliani. 
+ 
+ G. Cantelli.

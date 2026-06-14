@@ -1,17 +1,17 @@
-REGIO DECRETO 18 novembre 1920 n. 1970
+---
+tipo: REGIO DECRETO
+numero: 1970
+data: 1920-11-18
+titolo: "Accettazione di donazione (020U1970)"
+urn: urn:nir:stato:regio.decreto:1920-11-18;1970
+codice_redazionale: 020U1970
+vigente: true
+---
 
-
-REGIO DECRETO 18 novembre 1920 n. 1970
-======================================
-
-Accettazione di donazione (020U1970)
-------------------------------------
-
-Entrata in vigore del provvedimento: 21/04/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1970. Regio decreto 18 novembre 1920, col quale, sulla proposta del ministro della istruzione pubblica, il ministro stesso, e' autorizzato ad accettare, a nome del Governo, la donazione fatta allo Stato italiano e per esso al Museo nazionale di San Martino in Napoli dal comm. Edoardo Ricciardi della sua ricca raccolta di oggetti storici riguardanti il periodo della dominazione borbonica e dell'occupazione militare francese nel mezzogiorno d'Italia.
+1970.
+
+Regio decreto 18 novembre 1920, col quale, sulla proposta del ministro della istruzione pubblica, il ministro stesso, e' autorizzato ad accettare, a nome del Governo, la donazione fatta allo Stato italiano e per esso al Museo nazionale di San Martino in Napoli dal comm. Edoardo Ricciardi della sua ricca raccolta di oggetti storici riguardanti il periodo della dominazione borbonica e dell'occupazione militare francese nel mezzogiorno d'Italia.

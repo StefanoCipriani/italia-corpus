@@ -1,24 +1,22 @@
-REGIO DECRETO 23 novembre 1885 n. 3541
-
-
-REGIO DECRETO 23 novembre 1885 n. 3541
-======================================
-
-Che aggrega al comune chiuso di Piacenza, per la riscossione dei dazi di consumo, i comuni aperti contermini di Mortizza, di Sant'Antonio a Trebbia e di San Lazzaro Alberoni. (085U3541)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/12/1885
+---
+tipo: REGIO DECRETO
+numero: 3541
+data: 1885-11-23
+titolo: "Che aggrega al comune chiuso di Piacenza, per la riscossione dei dazi di consumo, i comuni aperti contermini di Mortizza, di Sant'Antonio a Trebbia e di San Lazzaro Alberoni. (085U3541)"
+urn: urn:nir:stato:regio.decreto:1885-11-23;3541
+codice_redazionale: 085U3541
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'art. 4 dell'allegato L alla [legge dell'11 agosto 1870, n. 5784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784);
+Visto l'art. 4 dell'allegato L alla [legge dell'11 agosto 1870, n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md);
 
-Visto il regolamento generale sui dazi interni di consumo approvato col [R. decreto del 25 agosto 1870, n. 5840](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-08-25;5840);
+Visto il regolamento generale sui dazi interni di consumo approvato col [R. decreto del 25 agosto 1870, n. 5840](Che%20approva%20il%20Regolamento%20generale%20sui%20dazi%20interni%20di%20consumo.%20070U5840.md);
 
 Visto il Nostro decreto dei 18 novembre 1880, n. 5737;
 
@@ -32,33 +30,22 @@ Veduta la deliberazione del 26 agosto 1885, presa qure d'urgenza dalla Giunta mu
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze, Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del Ministro delle Finanze, Abbiamo ordinato ed ordiniamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+Per la riscossione dei dazi di consumo sono aggregati al comune chiuso di Piacenza i comuni aperti contermini di Mortizza, di Sant'Antonio a Trebbia e di S. Lazzaro Alberoni.
 
-  
-  
-Per la riscossione dei dazi di consumo sono aggregati al comune chiuso di Piacenza i comuni aperti contermini di Mortizza, di Sant'Antonio a Trebbia e di S. Lazzaro Alberoni.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Sono approvate le deliberazioni 12 giugno e 26 agosto ultimi, emesse rispettivamente dal Consiglio comunale e dalla Giunta municipale di Piacenza per l'abbonamento alla riscossione dei dazi di consumo governativi di quel comune chiuso e degli altri tre aperti ad esso aggregati, durante il quinquennio dal 1° di gennaio 1886 al 31 dicembre 1890, mediante corresponsione dell'annuo canone di lire quattrocentomila da parte dello stesso comune di Piacenza.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 novembre 1885.   
-  
-UMBERTO.   
-  
-A. Magliani.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+Sono approvate le deliberazioni 12 giugno e 26 agosto ultimi, emesse rispettivamente dal Consiglio comunale e dalla Giunta municipale di Piacenza per l'abbonamento alla riscossione dei dazi di consumo governativi di quel comune chiuso e degli altri tre aperti ad esso aggregati, durante il quinquennio dal 1° di gennaio 1886 al 31 dicembre 1890, mediante corresponsione dell'annuo canone di lire quattrocentomila da parte dello stesso comune di Piacenza. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 novembre 1885. 
+ 
+ UMBERTO. 
+ 
+ A. Magliani. 
+ 
+ Visto, Il Guardasigilli: Tajani.

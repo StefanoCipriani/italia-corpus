@@ -1,16 +1,14 @@
-REGIO DECRETO 15 ottobre 1871 n. 513
-
-
-REGIO DECRETO 15 ottobre 1871 n. 513
-====================================
-
-Portante la costituzione di una nuova Sezione del Collegio elettorale di Badia di Rovigo. (071U0513)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/11/1871
+---
+tipo: REGIO DECRETO
+numero: 513
+data: 1871-10-15
+titolo: "Portante la costituzione di una nuova Sezione del Collegio elettorale di Badia di Rovigo. (071U0513)"
+urn: urn:nir:stato:regio.decreto:1871-10-15;513
+codice_redazionale: 071U0513
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Noverandosi nei Comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Melara e di Bergantino, costituiranno d'ora in poi una sezione del collegio di Badia di Rovigo, n. 458, con sede nel capoluogo del comune di Melara.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 15 ottobre 1871.   
-  
-VITTORIO EMANUELE   
-  
-G. Lanza.   
-  
+I Comuni di Melara e di Bergantino, costituiranno d'ora in poi una sezione del collegio di Badia di Rovigo, n. 458, con sede nel capoluogo del comune di Melara. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 15 ottobre 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ G. Lanza.

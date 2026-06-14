@@ -1,19 +1,15 @@
-REGIO DECRETO 23 giugno 1907 n. CCCXV
+---
+tipo: REGIO DECRETO
+numero: CCCXV
+data: 1907-06-23
+titolo: "Approvazione di statuto di Monte di pieta'. (0700315R)"
+urn: urn:nir:stato:regio.decreto:1907-06-23;315
+codice_redazionale: 0700315R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 giugno 1907 n. CCCXV
-=====================================
-
-Approvazione di statuto di Monte di pieta'. (0700315R)
-------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/09/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CCCXV (Dato a Roma, il 23 giugno 1907), col quale si approva lo statuto del Monte di pieta' di Ceva.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CCCXV (Dato a Roma, il 23 giugno 1907), col quale si approva lo statuto del Monte di pieta' di Ceva.

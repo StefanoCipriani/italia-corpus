@@ -1,22 +1,19 @@
-REGIO DECRETO 21 aprile 1904 n. CLXXIX
+---
+tipo: REGIO DECRETO
+numero: CLXXIX
+data: 1904-04-21
+titolo: "Che approva il nuovo statuto del monte di pieta' di Urbino. (0400179R)"
+urn: urn:nir:stato:regio.decreto:1904-04-21;179
+codice_redazionale: 0400179R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 aprile 1904 n. CLXXIX
-======================================
+Che approva il nuovo statuto del monte di pieta' di Urbino - Firmato VITTORIO EMANUELE - Controfirmati Rava - Giolitti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 17 maggio
 
-Che approva il nuovo statuto del monte di pieta' di Urbino. (0400179R)
-----------------------------------------------------------------------
+1904.
 
-Entrata in vigore del provvedimento: 05/06/1904
-
-Art. 1
-------
-
-Che approva il nuovo statuto del monte di pieta' di Urbino - Firmato VITTORIO EMANUELE - Controfirmati Rava - Giolitti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 17 maggio
-
-1904. 
-  
-  
 Reg. 16. Atti del Governo a f. 143.

@@ -1,45 +1,41 @@
-REGIO DECRETO 28 giugno 1928 n. 1684
+---
+tipo: REGIO DECRETO
+numero: 1684
+data: 1928-06-28
+titolo: "Riunione dei comuni di Battaglia della Bainsizza, Gargaro e Santo Spirito della Bainsizza in un unico Comune con capoluogo e denominazione «Gargaro». (028U1684)"
+urn: urn:nir:stato:regio.decreto:1928-06-28;1684
+codice_redazionale: 028U1684
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 giugno 1928 n. 1684
-====================================
-
-Riunione dei comuni di Battaglia della Bainsizza, Gargaro e Santo Spirito della Bainsizza in un unico Comune con capoluogo e denominazione «Gargaro». (028U1684)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/08/1928
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
-  
-RE D'ITALIA   
-  
-In virtu' dei poteri conferiti al Governo col [R. decreto-legge 17 marzo 1927, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-03-17;383);   
-  
-Sulla proposta del Capo del governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno;   
-  
-Abbiamo decretato e decretiamo:   
-  
-I comuni di Battaglia della Bainsizza, Gargaro e Santo Spirito della Bainsizza sono riuniti in unico Comune con capoluogo e denominazione «Gargaro».   
-  
-Le condizioni di tale unione, ai sensi ed agli effetti dell'art. 118 della legge comunale e provinciale, [testo unico 4 febbraio 1915, n. 148](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), saranno determinate dal prefetto di Gorizia, sentita la Giunta provinciale amministrativa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 28 giugno 1928 - Anno VI   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 25 luglio 1928 Anno VI   
-  
-Atti del Governo, registro 274, foglio 219. - Sirovich.   
-  
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ In virtu' dei poteri conferiti al Governo col [R. decreto-legge 17 marzo 1927, n. 383](Facolta%20al%20Governo%20del%20Re%20di%20provvedere%20ad%20una%20revisione%20generale%20delle%20circoscrizioni%20comunali.%20027U0383.md); 
+ 
+ Sulla proposta del Capo del governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ I comuni di Battaglia della Bainsizza, Gargaro e Santo Spirito della Bainsizza sono riuniti in unico Comune con capoluogo e denominazione «Gargaro». 
+ 
+ Le condizioni di tale unione, ai sensi ed agli effetti dell'art. 118 della legge comunale e provinciale, [testo unico 4 febbraio 1915, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1915-02-04;148), saranno determinate dal prefetto di Gorizia, sentita la Giunta provinciale amministrativa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 28 giugno 1928 - Anno VI 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 25 luglio 1928 Anno VI 
+ 
+ Atti del Governo, registro 274, foglio 219. - Sirovich.

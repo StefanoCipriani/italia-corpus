@@ -1,16 +1,14 @@
-REGIO DECRETO 07 settembre 1864 n. 1904
-
-
-REGIO DECRETO 07 settembre 1864 n. 1904
-=======================================
-
-Che regola l'ammessione al 1.° anno di corso della R. Militare Accademia e delle Scuole militari di Fanteria e di Cavalleria. (064U1904)
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/10/1864
+---
+tipo: REGIO DECRETO
+numero: 1904
+data: 1864-09-07
+titolo: "Che regola l'ammessione al 1.° anno di corso della R. Militare Accademia e delle Scuole militari di Fanteria e di Cavalleria. (064U1904)"
+urn: urn:nir:stato:regio.decreto:1864-09-07;1904
+codice_redazionale: 064U1904
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,31 +16,24 @@ RE D'ITALIA
 
 Visto il regolamento stato approvato con R. Decreto 6 aprile 1862;
 
-Sulla
------
+Sulla proposta del Ministro per gli Affari della Guerra; Abbiamo decretato e decretiamo quanto segue;
 
-proposta del Ministro per gli Affari della Guerra; Abbiamo decretato e decretiamo quanto segue;
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-D'ora innanzi l'ammessione al 1.° anno di corso della R. Militare Accademia e delle Scuole militari di Fanteria e di Cavalleria avra' luogo esclusivamente nell'ordine di merito dei concorrenti idonei, risultante in ciascun anno dall'esame di ammessione, sia che provengano dai Collegi militari, sia d'altra provenienza.   
-  
-Sono per conseguenza abrogati gli articoli 25 e 26 del regolamento annesso al R. Decreto 6 aprile 1862.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 7 settembre 1864.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 14 settembre 1864   
-  
-Reg.° 30 Atti del Governo a c. 172. Salvaja.   
-  
-Luogo del sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-A. Della Rovere.   
-  
+D'ora innanzi l'ammessione al 1.° anno di corso della R. Militare Accademia e delle Scuole militari di Fanteria e di Cavalleria avra' luogo esclusivamente nell'ordine di merito dei concorrenti idonei, risultante in ciascun anno dall'esame di ammessione, sia che provengano dai Collegi militari, sia d'altra provenienza. 
+ 
+ Sono per conseguenza abrogati gli articoli 25 e 26 del regolamento annesso al R. Decreto 6 aprile 1862. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 7 settembre 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 14 settembre 1864 
+ 
+ Reg.° 30 Atti del Governo a c. 172. Salvaja. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ A. Della Rovere.

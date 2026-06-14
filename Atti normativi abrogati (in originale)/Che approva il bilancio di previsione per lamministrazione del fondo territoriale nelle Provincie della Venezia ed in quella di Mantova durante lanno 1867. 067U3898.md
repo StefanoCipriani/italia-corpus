@@ -1,16 +1,14 @@
-REGIO DECRETO 15 agosto 1867 n. 3898
-
-
-REGIO DECRETO 15 agosto 1867 n. 3898
-====================================
-
-Che approva il bilancio di previsione per l'amministrazione del fondo territoriale nelle Provincie della Venezia ed in quella di Mantova durante l'anno 1867. (067U3898)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/10/1867
+---
+tipo: REGIO DECRETO
+numero: 3898
+data: 1867-08-15
+titolo: "Che approva il bilancio di previsione per l'amministrazione del fondo territoriale nelle Provincie della Venezia ed in quella di Mantova durante l'anno 1867. (067U3898)"
+urn: urn:nir:stato:regio.decreto:1867-08-15;3898
+codice_redazionale: 067U3898
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,24 @@ Veduto il bilancio di previsione delle spese e delle entrate della suddetta ammi
 
 Veduto il parere espresso dalla Commissione centrale nel suo rapporto 28 marzo 1867, n. 691;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 E' approvato il bilancio di previsione per l'amministrazione del fondo territoriale nelle Provincie della Venezia e di Mantova durante l'anno
 
-1867. 
-  
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 15 agosto 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 7 settembre 1867   
-  
-Reg. 40 Atti del Governo a c. 237. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Tecchio.   
-  
-U. Rattazzi.
+1867.
+
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 15 agosto 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 7 settembre 1867 
+ 
+ Reg. 40 Atti del Governo a c. 237. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Tecchio. 
+ 
+ U. Rattazzi.

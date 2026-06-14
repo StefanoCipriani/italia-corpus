@@ -1,17 +1,13 @@
-REGIO DECRETO 13 gennaio 1921 n. 115
+---
+tipo: REGIO DECRETO
+numero: 115
+data: 1921-01-13
+titolo: "Applicazione di tassa di esercizio. (021U0115)"
+urn: urn:nir:stato:regio.decreto:1921-01-13;115
+codice_redazionale: 021U0115
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 gennaio 1921 n. 115
-====================================
-
-Applicazione di tassa di esercizio. (021U0115)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 11/03/1921
-
-Art. 1
-------
-
-  
-N. 115 Regio decreto 13 gennaio 1921, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Ripalta Guerina (Cremona) di applicare dal 1° gennaio al 31 dicembre 1920, la tassa di esercizio col limite massimo fino a L. 2600.   
-  
+N. 115 Regio decreto 13 gennaio 1921, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Ripalta Guerina (Cremona) di applicare dal 1° gennaio al 31 dicembre 1920, la tassa di esercizio col limite massimo fino a L. 2600.

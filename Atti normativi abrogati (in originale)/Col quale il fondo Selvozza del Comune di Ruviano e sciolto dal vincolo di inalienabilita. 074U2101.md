@@ -1,16 +1,14 @@
-REGIO DECRETO 23 agosto 1874 n. 2101
-
-
-REGIO DECRETO 23 agosto 1874 n. 2101
-====================================
-
-Col quale il fondo Selvozza del Comune di Ruviano e' sciolto dal vincolo di inalienabilita'. (074U2101)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/10/1874
+---
+tipo: REGIO DECRETO
+numero: 2101
+data: 1874-08-23
+titolo: "Col quale il fondo Selvozza del Comune di Ruviano e' sciolto dal vincolo di inalienabilita'. (074U2101)"
+urn: urn:nir:stato:regio.decreto:1874-08-23;2101
+codice_redazionale: 074U2101
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,23 +20,16 @@ Viste le deliberazioni prese dal Consiglio comunale di Ruviano in Terra di Lavor
 
 Visto l'avviso del Consiglio di Stato emesso nella sua adunanza generale del 28 agosto 1869;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il fondo demaniale del comune di Ruviano in provincia di Terra di Lavoro, denominato Selvozza, della estensione di ettari 18, 18, 79, e' riconosciuto alienabile con le medesime formalita' e cautele necessarie per l'alienazione degli altri beni comunali in adempimento della [legge 20 marzo 1865, num. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato A.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 23 agosto 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. Finali.   
-  
+Il fondo demaniale del comune di Ruviano in provincia di Terra di Lavoro, denominato Selvozza, della estensione di ettari 18, 18, 79, e' riconosciuto alienabile con le medesime formalita' e cautele necessarie per l'alienazione degli altri beni comunali in adempimento della [legge 20 marzo 1865, num. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato A. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 23 agosto 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Finali.

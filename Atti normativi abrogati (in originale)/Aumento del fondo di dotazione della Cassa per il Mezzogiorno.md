@@ -1,62 +1,45 @@
-LEGGE 06 luglio 1964 n. 608
+---
+tipo: LEGGE
+numero: 608
+data: 1964-07-06
+titolo: "Aumento del fondo di dotazione della Cassa per il Mezzogiorno."
+urn: urn:nir:stato:legge:1964-07-06;608
+codice_redazionale: 064U0608
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 06 luglio 1964 n. 608
-===========================
+La somma da corrispondersi dallo Stato quale dotazione a favore della Cassa per opere straordinarie di pubblico interesse nell'Italia meridionale (Cassa per il Mezzogiorno) e' aumentata di 10 miliardi di lire per il periodo 1 luglio-31 dicembre 1964 e di 10 miliardi per l'anno 1965.
 
-Aumento del fondo di dotazione della Cassa per il Mezzogiorno.
---------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+La Cassa per il Mezzogiorno e' autorizzata, a partire dall'entrata in vigore della presente legge, ad assumere, in eccedenza, alla propria dotazione, impegni di spesa per l'importo di 60 miliardi di lire.
+ Ai suddetti impegni si fara' fronte mediante l'iscrizione nello stato di previsione della spesa del Ministero del tesoro di uno stanziamento di 10 miliardi di lire per l'anno 1965, di 20 miliardi di lire per ciascuno degli anni 1966 e 1967 e di 10 miliardi di lire per l'anno 1968.
 
-  
-La somma da corrispondersi dallo Stato quale dotazione a favore della Cassa per opere straordinarie di pubblico interesse nell'Italia meridionale (Cassa per il Mezzogiorno) e' aumentata di 10 miliardi di lire per il periodo 1 luglio-31 dicembre 1964 e di 10 miliardi per l'anno 1965.  
+## Art. 3.
 
-Art. 2
-------
+Il Comitato dei Ministri per il Mezzogiorno provvedera' ad integrare il piano degli interventi di cui alla citata [legge 10 agosto 1950, n. 646](Istituzione%20della%20Cassa%20per%20opere%20straordinarie%20di%20pubblico%20interesse%20nellItalia%20meridionale%20Cassa%20per%20il%20Mezzogiorno.md), e successive modificazioni, con particolare riguardo alle esigenze dell'industrializzazione.
 
-  
-La Cassa per il Mezzogiorno e' autorizzata, a partire dall'entrata in vigore della presente legge, ad assumere, in eccedenza, alla propria dotazione, impegni di spesa per l'importo di 60 miliardi di lire.  
-Ai suddetti impegni si fara' fronte mediante l'iscrizione nello stato di previsione della spesa del Ministero del tesoro di uno stanziamento di 10 miliardi di lire per l'anno 1965, di 20 miliardi di lire per ciascuno degli anni 1966 e 1967 e di 10 miliardi di lire per l'anno 1968.  
+## Art. 4.
 
-Art. 3
-------
+All'onere di 10 miliardi di lire, derivante dall'applicazione della presente legge per il periodo 1 luglio-31 dicembre 1964, si fara' fronte con corrispondenti riduzioni del fondo iscritto nello stato di previsione della spesa del Ministero del tesoro per il periodo medesimo, riguardante provvedimenti legislativi in corso.
+ Il Ministro per il tesoro e' autorizzato a provvedere con proprio decreto alle occorrenti variazioni di bilancio.
 
-  
-Il Comitato dei Ministri per il Mezzogiorno provvedera' ad integrare il piano degli interventi di cui alla citata [legge 10 agosto 1950, n. 646](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;646), e successive modificazioni, con particolare riguardo alle esigenze dell'industrializzazione.  
+## Art. 5.
 
-Art. 4
-------
+Ai collaudi delle opere finanziate dalla Cassa per il Mezzogiorno o costruite in base a concessione od affidamento di essa si applica il [quinto comma dell'articolo 5 della legge 11 giugno 1962, n. 588](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-11;588#art_5-com5).
 
-  
-All'onere di 10 miliardi di lire, derivante dall'applicazione della presente legge per il periodo 1 luglio-31 dicembre 1964, si fara' fronte con corrispondenti riduzioni del fondo iscritto nello stato di previsione della spesa del Ministero del tesoro per il periodo medesimo, riguardante provvedimenti legislativi in corso.  
-Il Ministro per il tesoro e' autorizzato a provvedere con proprio decreto alle occorrenti variazioni di bilancio.  
+## Art. 6.
 
-Art. 5
-------
+Nell'[articolo 2 della legge 29 settembre 1962, n. 1462](Norme%20di%20modifica%20ed%20integrazione%20delle%20leggi%2010%20agosto%201950%20n.%20646%2029%20luglio%201957%20n.%20634%20e%2018%20luglio%201959%20n.%20555%20recanti%20provvedimenti%20per%20il%20Mezzogiorno.md), le parole: "due anni prima della data di approvazione dello statuto del consorzio" sono sostituite con le parole: "tre anni prima della data di approvazione dello statuto del consorzio".
 
-  
-Ai collaudi delle opere finanziate dalla Cassa per il Mezzogiorno o costruite in base a concessione od affidamento di essa si applica il [quinto comma dell'articolo 5 della legge 11 giugno 1962, n. 588](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-06-11;588~art5-com5).  
+## Art. 7.
 
-Art. 6
-------
-
-  
-Nell'[articolo 2 della legge 29 settembre 1962, n. 1462](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-09-29;1462~art2), le parole: "due anni prima della data di approvazione dello statuto del consorzio" sono sostituite con le parole: "tre anni prima della data di approvazione dello statuto del consorzio".  
-
-Art. 7
-------
-
-  
-A parziale modifica di quanto previsto all'ultimo comma dell'[articolo 2 della legge 22 marzo 1952, n. 166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-03-22;166~art2), la Cassa puo' provvedere direttamente all'istruttoria ed al servizio di mutui posti in essere con fondi derivanti da prestiti che essa abbia contratto all'estero, limitatamente a quelle operazioni che, a giudizio del Comitato interministeriale per il credito e il risparmio, non comportino assunzione di rischio da parte della Cassa stessa.  
-  
+A parziale modifica di quanto previsto all'ultimo comma dell'[articolo 2 della legge 22 marzo 1952, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-03-22;166#art_2), la Cassa puo' provvedere direttamente all'istruttoria ed al servizio di mutui posti in essere con fondi derivanti da prestiti che essa abbia contratto all'estero, limitatamente a quelle operazioni che, a giudizio del Comitato interministeriale per il credito e il risparmio, non comportino assunzione di rischio da parte della Cassa stessa.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 6 luglio 1964
+Data a Roma, addi' 6 luglio 1964
 
-SEGNI MORO - GIOLITTI - COLOMBO
-
-Visto, il Guardasigilli: REALE
+SEGNI MORO - GIOLITTI - COLOMBO Visto, il Guardasigilli: REALE

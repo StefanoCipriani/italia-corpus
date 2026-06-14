@@ -1,17 +1,17 @@
-REGIO DECRETO 14 aprile 1921 n. 617
+---
+tipo: REGIO DECRETO
+numero: 617
+data: 1921-04-14
+titolo: "Erezioni in Ente morale. (021U0617)"
+urn: urn:nir:stato:regio.decreto:1921-04-14;617
+codice_redazionale: 021U0617
+vigente: true
+---
 
-
-REGIO DECRETO 14 aprile 1921 n. 617
-===================================
-
-Erezioni in Ente morale. (021U0617)
------------------------------------
-
-Entrata in vigore del provvedimento: 09/06/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-617. Regio decreto 14 aprile 1921, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il ricovero di mendicita' «Tenente Luigi Marchi», con sede nel comune di Carpi, viene eretto in Ente morale, sotto l'amministrazione provvisoria della Congregazione di carita' del luogo.
+617.
+
+Regio decreto 14 aprile 1921, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il ricovero di mendicita' «Tenente Luigi Marchi», con sede nel comune di Carpi, viene eretto in Ente morale, sotto l'amministrazione provvisoria della Congregazione di carita' del luogo.

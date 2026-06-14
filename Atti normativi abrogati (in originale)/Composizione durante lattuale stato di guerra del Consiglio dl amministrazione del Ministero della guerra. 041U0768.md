@@ -1,16 +1,14 @@
-REGIO DECRETO 27 giugno 1941 n. 768
-
-
-REGIO DECRETO 27 giugno 1941 n. 768
-===================================
-
-Composizione, durante l'attuale stato di guerra, del Consiglio dl amministrazione del Ministero della guerra. (041U0768)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/08/1941
+---
+tipo: REGIO DECRETO
+numero: 768
+data: 1941-06-27
+titolo: "Composizione, durante l'attuale stato di guerra, del Consiglio dl amministrazione del Ministero della guerra. (041U0768)"
+urn: urn:nir:stato:regio.decreto:1941-06-27;768
+codice_redazionale: 041U0768
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di dio e per volonta' della nazione
 
@@ -32,41 +30,30 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta, del DUCE del Fascismo, Capo del Governo, ministro per la guerra, d'intesa col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta, del DUCE del Fascismo, Capo del Governo, ministro per la guerra, d'intesa col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Durante l'attuale stato di guerra e fino a sei mesi dopo la cessazione di esso, del Consiglio d'amministrazione del Ministero della guerra fanno parte gli ufficiali e funzionari di grado non inferiore al 6°, che abbiano l'effettiva direzione di una direzione generale o di altro servizio autonomi dell'Amministrazione centrale della guerra, secondo la ripartizione dei servizi dell'amministrazione stessa, e che siano o direttori generali o nominati alla carica con decreto Reale, sentito il Consiglio dei Ministri. 
+ 
+ I componenti del Consiglio, in caso di assenza o altro legittimo impedimento, possono essere sostituiti dai funzionari o ufficiali che siano chiamati dall'ordinamento del Ministero a farne le veci, purche' di grado non inferiore al 6°. 
+ 
+ Del predetto Consiglio fa pure parte il capo del personale civile, che, in caso di assenza o altro legittimo impedimento, puo' essere sostituito dal funzionario che ne fa le veci, purche' di grado non inferiore al 7°.
 
-  
-  
-Durante l'attuale stato di guerra e fino a sei mesi dopo la cessazione di esso, del Consiglio d'amministrazione del Ministero della guerra fanno parte gli ufficiali e funzionari di grado non inferiore al 6°, che abbiano l'effettiva direzione di una direzione generale o di altro servizio autonomi dell'Amministrazione centrale della guerra, secondo la ripartizione dei servizi dell'amministrazione stessa, e che siano o direttori generali o nominati alla carica con decreto Reale, sentito il Consiglio dei Ministri.   
-  
-I componenti del Consiglio, in caso di assenza o altro legittimo impedimento, possono essere sostituiti dai funzionari o ufficiali che siano chiamati dall'ordinamento del Ministero a farne le veci, purche' di grado non inferiore al 6°.   
-  
-Del predetto Consiglio fa pure parte il capo del personale civile, che, in caso di assenza o altro legittimo impedimento, puo' essere sostituito dal funzionario che ne fa le veci, purche' di grado non inferiore al 7°.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto entrera' in vigore alla data della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 27 giugno 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 9 agosto 1941-XIX   
-  
-Atti del Governo, registro 436, foglio 27. - Mancini   
-  
-  
+Il presente decreto entrera' in vigore alla data della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 27 giugno 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 9 agosto 1941-XIX 
+ 
+ Atti del Governo, registro 436, foglio 27. - Mancini

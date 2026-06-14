@@ -1,16 +1,14 @@
-REGIO DECRETO 03 ottobre 1941 n. 1346
-
-
-REGIO DECRETO 03 ottobre 1941 n. 1346
-=====================================
-
-Nomina dell'Ammiraglio di squadra Inigo Campioni a Governatore delle Isole italiane dell'Egeo. (041U1346)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/01/1942
+---
+tipo: REGIO DECRETO
+numero: 1346
+data: 1941-10-03
+titolo: "Nomina dell'Ammiraglio di squadra Inigo Campioni a Governatore delle Isole italiane dell'Egeo. (041U1346)"
+urn: urn:nir:stato:regio.decreto:1941-10-03;1346
+codice_redazionale: 041U1346
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,30 +28,24 @@ Sentito il parere del Consiglio di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro Segretario di Stato per l'interno, per la guerra, per la marina e per l'aeronautica, del Nostro Ministro Segretario di Stato per gli affari esteri, di concerto con gli altri Nostri Ministri Segretari di Stato; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro Segretario di Stato per l'interno, per la guerra, per la marina e per l'aeronautica, del Nostro Ministro Segretario di Stato per gli affari esteri, di concerto con gli altri Nostri Ministri Segretari di Stato; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'Ammiraglio di squadra Inigo Campioni e' nominato Governatore delle Isole italiane dell'Egeo, con tutti i poteri civili e militari in sostituzione del Generale d'armata Ettore Bastico.   
-  
-Il presente decreto ha effetto dal 24 luglio 1941-XIX.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 3 ottobre 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - CIANO - GRANDI - DI REVEL - BOTTAI - TERUZZI -GORLA - TASSINARI - HOST VENTURI - RICCI - PAVOLINI - RICCARDI.   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registralo alla Corte dei conti, addi' 19 dicembre 1941-XX   
-  
-Atti del Governo, registro 440, foglio 60. - MANCINI   
+L'Ammiraglio di squadra Inigo Campioni e' nominato Governatore delle Isole italiane dell'Egeo, con tutti i poteri civili e militari in sostituzione del Generale d'armata Ettore Bastico. 
+ 
+ Il presente decreto ha effetto dal 24 luglio 1941-XIX. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 3 ottobre 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+MUSSOLINI - CIANO - GRANDI - DI REVEL - BOTTAI - TERUZZI -GORLA - TASSINARI - HOST VENTURI - RICCI - PAVOLINI - RICCARDI. 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registralo alla Corte dei conti, addi' 19 dicembre 1941-XX 
+ 
+ Atti del Governo, registro 440, foglio 60. - MANCINI

@@ -1,16 +1,14 @@
-REGIO DECRETO 11 gennaio 1874 n. 1783
-
-
-REGIO DECRETO 11 gennaio 1874 n. 1783
-=====================================
-
-Col quale e' concessa facolta' al secondo Consorzio dei Canali dall'Alta Lombardia di riscuotere il contributo dei soci coi privilegi e nelle forme fiscali. (074U1783)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/02/1874
+---
+tipo: REGIO DECRETO
+numero: 1783
+data: 1874-01-11
+titolo: "Col quale e' concessa facolta' al secondo Consorzio dei Canali dall'Alta Lombardia di riscuotere il contributo dei soci coi privilegi e nelle forme fiscali. (074U1783)"
+urn: urn:nir:stato:regio.decreto:1874-01-11;1783
+codice_redazionale: 074U1783
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,25 +20,18 @@ Visto il Nostro decreto 1° febbraio 1872, n. 697 (Serie 2ª), col quale fu appr
 
 Visto il processo verbale della seduta 26 novembre p. p., dell'assemblea generale del secondo Consorzio dei Canali dell'Alta Lombardia, nella quale seduta furono accettate le modificazioni suggerite allo statuto del Consorzio stesso con la nota Ministeriale 6 novembre ultimo, n. 51603/15339;
 
-Vista la [legge 29 maggio 1873, num. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (Serie 2ª);
+Vista la [legge 29 maggio 1873, num. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md) (Serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al secondo Consorzio dei Canali dell'Alta Lombardia per acquisto di acqua ad uso d'irrigazione e forza motrice da derivavi dal lago di Legano, il cui statuto fa approvato col predetto Nostro decreto 1° febbraio 1872, n. 697 (Serie 2ª), e' concessa la facolta' di riscuotere il contributo dei soci coi privilegi e nelle forme fiscali.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi a dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 gennaio 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. Finali.   
-  
+Al secondo Consorzio dei Canali dell'Alta Lombardia per acquisto di acqua ad uso d'irrigazione e forza motrice da derivavi dal lago di Legano, il cui statuto fa approvato col predetto Nostro decreto 1° febbraio 1872, n. 697 (Serie 2ª), e' concessa la facolta' di riscuotere il contributo dei soci coi privilegi e nelle forme fiscali. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi a dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 gennaio 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Finali.

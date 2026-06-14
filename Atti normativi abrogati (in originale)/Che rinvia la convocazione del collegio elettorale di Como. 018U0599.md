@@ -1,28 +1,23 @@
-DECRETO LUOGOTENENZIALE 25 aprile 1918 n. 599
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 599
+data: 1918-04-25
+titolo: "Che rinvia la convocazione del collegio elettorale di Como. (018U0599)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-04-25;599
+codice_redazionale: 018U0599
+vigente: true
+---
 
+## Articolo unico.
 
-DECRETO LUOGOTENENZIALE 25 aprile 1918 n. 599
-=============================================
-
-Che rinvia la convocazione del collegio elettorale di Como. (018U0599)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/05/1918
-
-Articolo unico
---------------
-
-  
-  
-La convocazione del collegio elettorale di Como e' rinviata sino a nuovo provvedimento.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 aprile 1918.   
-  
-TOMASO DI SAVOIA.   
-  
-Orlando   
-  
-Visto, Il guardasigilli: Sacchi.   
-  
+La convocazione del collegio elettorale di Como e' rinviata sino a nuovo provvedimento. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 aprile 1918. 
+ 
+ TOMASO DI SAVOIA. 
+ 
+ Orlando 
+ 
+ Visto, Il guardasigilli: Sacchi.

@@ -1,21 +1,21 @@
-REGIO DECRETO 09 novembre 1923 n. 3286
+---
+tipo: REGIO DECRETO
+numero: 3286
+data: 1923-11-09
+titolo: "Approvazione del regolamento per l'applicazione della tassa sul bestiame nei comuni della provincia di Pola. (023U3286)"
+urn: urn:nir:stato:regio.decreto:1923-11-09;3286
+codice_redazionale: 023U3286
+vigente: true
+---
 
-
-REGIO DECRETO 09 novembre 1923 n. 3286
-======================================
-
-Approvazione del regolamento per l'applicazione della tassa sul bestiame nei comuni della provincia di Pola. (023U3286)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/06/1924
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-3286. R. decreto 9 novembre 1923, col quale, sulla proposta del Ministro per le finanze, viene approvato il regolamento per l'applicazione della tassa sul bestiame nei comuni della provincia di Pola deliberato dalla Giunta provinciale amministrativa il 22 giugno 1923.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 10 giugno 1924.
+3286.
+
+R. decreto 9 novembre 1923, col quale, sulla proposta del Ministro per le finanze, viene approvato il regolamento per l'applicazione della tassa sul bestiame nei comuni della provincia di Pola deliberato dalla Giunta provinciale amministrativa il 22 giugno 1923. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 10 giugno 1924.

@@ -1,20 +1,14 @@
-REGIO DECRETO 14 marzo 1932 n. 507
+---
+tipo: REGIO DECRETO
+numero: 507
+data: 1932-03-14
+titolo: "Annullamento dei contributi scolastici degli ex comuni di Borsano e Sacconago. (032U0507)"
+urn: urn:nir:stato:regio.decreto:1932-03-14;507
+codice_redazionale: 032U0507
+vigente: true
+---
 
+## Art. 1. — null
 
-REGIO DECRETO 14 marzo 1932 n. 507
-==================================
-
-Annullamento dei contributi scolastici degli ex comuni di Borsano e Sacconago. (032U0507)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/06/1932
-
-Art. 1
-------
-
-null
-
-  
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 11 maggio 1932 - Anno X   
-  
+Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 11 maggio 1932 - Anno X

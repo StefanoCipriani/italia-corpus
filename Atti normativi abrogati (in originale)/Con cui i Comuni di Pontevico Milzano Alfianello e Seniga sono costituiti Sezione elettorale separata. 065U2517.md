@@ -1,16 +1,14 @@
-REGIO DECRETO 23 settembre 1865 n. 2517
-
-
-REGIO DECRETO 23 settembre 1865 n. 2517
-=======================================
-
-Con cui i Comuni di Pontevico, Milzano, Alfianello e Seniga sono costituiti Sezione elettorale separata. (065U2517)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/10/1865
+---
+tipo: REGIO DECRETO
+numero: 2517
+data: 1865-09-23
+titolo: "Con cui i Comuni di Pontevico, Milzano, Alfianello e Seniga sono costituiti Sezione elettorale separata. (065U2517)"
+urn: urn:nir:stato:regio.decreto:1865-09-23;2517
+codice_redazionale: 065U2517
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nei Comuni di Pontevico, Milzano, Alfianello e Seniga piu' di 40 Ele
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Pontevico, Milzano, Alfianello e Seniga che sin qui fecero parte della sezione del Collegio elettorale di Verolanuova, n.° 82, detta di Verolanuova, costituiranno d'ora in poi Sezione separata del Collegio medesimo che si radunera' in Pontevico.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Firenze addi' 23 settembre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 ottobre 1865   
-  
-Reg.° 35 Atti del Governo a c. 234. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
-  
+I Comuni di Pontevico, Milzano, Alfianello e Seniga che sin qui fecero parte della sezione del Collegio elettorale di Verolanuova, n.° 82, detta di Verolanuova, costituiranno d'ora in poi Sezione separata del Collegio medesimo che si radunera' in Pontevico. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Firenze addi' 23 settembre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 ottobre 1865 
+ 
+ Reg.° 35 Atti del Governo a c. 234. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli.

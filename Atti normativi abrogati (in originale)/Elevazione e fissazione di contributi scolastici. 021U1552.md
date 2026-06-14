@@ -1,15 +1,11 @@
-REGIO DECRETO 24 giugno 1921 n. 1552
+---
+tipo: REGIO DECRETO
+numero: 1552
+data: 1921-06-24
+titolo: "Elevazione e fissazione di contributi scolastici. (021U1552)"
+urn: urn:nir:stato:regio.decreto:1921-06-24;1552
+codice_redazionale: 021U1552
+vigente: true
+---
 
-
-REGIO DECRETO 24 giugno 1921 n. 1552
-====================================
-
-Elevazione e fissazione di contributi scolastici. (021U1552)
-------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/12/1921
-
-Art. 1
-------
-
-null
+## Art. 1. — null

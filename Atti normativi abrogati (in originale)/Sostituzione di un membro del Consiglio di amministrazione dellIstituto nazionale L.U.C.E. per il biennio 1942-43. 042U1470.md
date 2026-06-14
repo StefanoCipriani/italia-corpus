@@ -1,16 +1,14 @@
-REGIO DECRETO 20 novembre 1942 n. 1470
-
-
-REGIO DECRETO 20 novembre 1942 n. 1470
-======================================
-
-Sostituzione di un membro del Consiglio di amministrazione dell'Istituto nazionale L.U.C.E. per il biennio 1942-43. (042U1470)
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/01/1943
+---
+tipo: REGIO DECRETO
+numero: 1470
+data: 1942-11-20
+titolo: "Sostituzione di un membro del Consiglio di amministrazione dell'Istituto nazionale L.U.C.E. per il biennio 1942-43. (042U1470)"
+urn: urn:nir:stato:regio.decreto:1942-11-20;1470
+codice_redazionale: 042U1470
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di dio e per volonta' della nazione
 
@@ -28,28 +26,22 @@ Visto il R. decreto 9 ottobre 1942-XX, pubblicato nella Gazzetta Ufficiale del 4
 
 Ritenuto che il presidente dell'Istituto nazionale fascista per l'assicurazione contro gli infortuni sul lavoro e' membro di diritto del Consiglio di amministrazione dell'Istituto nazionale L.U.C.E. ed occorre, pertanto, provvedere a tale nomina;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario Stato per la cultura popolare; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario Stato per la cultura popolare; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Consigliere nazionale dott. Orfeo Sellani, presidente dell'Istituto nazionale fascista per l'assicurazione contro gli infortuni sul lavoro, e' nominato membro del Consiglio di amministrazione dell'Istituto nazionale L.U.C.E. per il biennio 1942-1943 in sostituzione del Consigliere nazionale dott. Biagio Vecchioni.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 30 novembre 1942-XXI   
-  
-VITTORIO EMANUELE   
-  
-Pavolini   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 22 dicembre 1942-XXI   
-  
-Atti del Governo, registro 452, foglio 98. - Mancini   
+Il Consigliere nazionale dott. Orfeo Sellani, presidente dell'Istituto nazionale fascista per l'assicurazione contro gli infortuni sul lavoro, e' nominato membro del Consiglio di amministrazione dell'Istituto nazionale L.U.C.E. per il biennio 1942-1943 in sostituzione del Consigliere nazionale dott. Biagio Vecchioni. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 30 novembre 1942-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Pavolini 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 22 dicembre 1942-XXI 
+ 
+ Atti del Governo, registro 452, foglio 98. - Mancini

@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 17 novembre 1918 n. 1850
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1850
+data: 1918-11-17
+titolo: "Erezione in Ente morale (018U1850)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-11-17;1850
+codice_redazionale: 018U1850
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 17 novembre 1918 n. 1850
-================================================
-
-Erezione in Ente morale (018U1850)
-----------------------------------
-
-Entrata in vigore del provvedimento: 11/01/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1850. Decreto Luogotenenziale 17 novembre 1918 col quale, sulla proposta del ministro della istruzione pubblica, il legato disposto dal prof. Pietro Arata, a favore di laureati della facolta' di medicina e chirurgia della R. Universita' di Genova, e' eretto in ente morale, e ne e' approvato lo statuto relativo.
+1850.
+
+Decreto Luogotenenziale 17 novembre 1918 col quale, sulla proposta del ministro della istruzione pubblica, il legato disposto dal prof. Pietro Arata, a favore di laureati della facolta' di medicina e chirurgia della R. Universita' di Genova, e' eretto in ente morale, e ne e' approvato lo statuto relativo.

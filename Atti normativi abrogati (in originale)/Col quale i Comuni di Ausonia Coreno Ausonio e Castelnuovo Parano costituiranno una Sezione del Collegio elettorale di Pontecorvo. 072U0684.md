@@ -1,16 +1,14 @@
-REGIO DECRETO 12 febbraio 1872 n. 684
-
-
-REGIO DECRETO 12 febbraio 1872 n. 684
-=====================================
-
-Col quale i Comuni di Ausonia, Coreno Ausonio e Castelnuovo Parano costituiranno una Sezione del Collegio elettorale di Pontecorvo. (072U0684)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/03/1872
+---
+tipo: REGIO DECRETO
+numero: 684
+data: 1872-02-12
+titolo: "Col quale i Comuni di Ausonia, Coreno Ausonio e Castelnuovo Parano costituiranno una Sezione del Collegio elettorale di Pontecorvo. (072U0684)"
+urn: urn:nir:stato:regio.decreto:1872-02-12;684
+codice_redazionale: 072U0684
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nei Comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Ausonia, Coreno Ausonio e Castelnuovo Parano costituiranno d'ora in poi una Sezione del Collegio elettorale di Pontecorvo, n. 389, con sede nel capoluogo del Comune di Ausonia.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli addi' 12 febbraio 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 28 febbraio 1872   
-  
-Reg. 59 Atti del Governo a c. 134. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+I Comuni di Ausonia, Coreno Ausonio e Castelnuovo Parano costituiranno d'ora in poi una Sezione del Collegio elettorale di Pontecorvo, n. 389, con sede nel capoluogo del Comune di Ausonia. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli addi' 12 febbraio 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 28 febbraio 1872 
+ 
+ Reg. 59 Atti del Governo a c. 134. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

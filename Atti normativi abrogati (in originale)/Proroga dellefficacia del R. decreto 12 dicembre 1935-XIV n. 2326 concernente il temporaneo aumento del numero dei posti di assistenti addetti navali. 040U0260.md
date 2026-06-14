@@ -1,16 +1,14 @@
-REGIO DECRETO 29 febbraio 1940 n. 260
-
-
-REGIO DECRETO 29 febbraio 1940 n. 260
-=====================================
-
-Proroga dell'efficacia del R. decreto 12 dicembre 1935-XIV, n. 2326, concernente il temporaneo aumento del numero dei posti di assistenti addetti navali. (040U0260)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/05/1940
+---
+tipo: REGIO DECRETO
+numero: 260
+data: 1940-02-29
+titolo: "Proroga dell'efficacia del R. decreto 12 dicembre 1935-XIV, n. 2326, concernente il temporaneo aumento del numero dei posti di assistenti addetti navali. (040U0260)"
+urn: urn:nir:stato:regio.decreto:1940-02-29;260
+codice_redazionale: 040U0260
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -36,30 +34,22 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la marina, e del Ministro per gli affari esteri, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per la marina, e del Ministro per gli affari esteri, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'efficacia del R. decreto 12 dicembre 1935-XIV, n. 2326, e' prorogata dal 31 dicembre 1939-XVIII al 31 dicembre 1940-XIX.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 febbraio 1940-XVIII.   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Ciano - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 20 aprile 1940-XVIII   
-  
-Atti del Governo, registro 420. foglio 61. - Mancini   
-  
-  
+L'efficacia del R. decreto 12 dicembre 1935-XIV, n. 2326, e' prorogata dal 31 dicembre 1939-XVIII al 31 dicembre 1940-XIX. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 febbraio 1940-XVIII. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Ciano - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 20 aprile 1940-XVIII 
+ 
+ Atti del Governo, registro 420. foglio 61. - Mancini

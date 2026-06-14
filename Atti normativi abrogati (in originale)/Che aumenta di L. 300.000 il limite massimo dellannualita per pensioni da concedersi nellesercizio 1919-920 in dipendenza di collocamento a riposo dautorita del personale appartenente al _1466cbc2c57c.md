@@ -1,43 +1,39 @@
-REGIO DECRETO-LEGGE 27 novembre 1919 n. 2338
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 2338
+data: 1919-11-27
+titolo: "Che aumenta di L. 300.000 il limite massimo dell'annualita' per pensioni da concedersi nell'esercizio 1919-920 in dipendenza di collocamento a riposo d'autorita' del personale appartenente al Ministero della guerra. (019U2338)"
+urn: urn:nir:stato:regio.decreto.legge:1919-11-27;2338
+codice_redazionale: 019U2338
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO-LEGGE 27 novembre 1919 n. 2338
-============================================
-
-Che aumenta di L. 300.000 il limite massimo dell'annualita' per pensioni da concedersi nell'esercizio 1919-920 in dipendenza di collocamento a riposo d'autorita' del personale appartenente al Ministero della guerra. (019U2338)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/12/1919 Regio Decreto-Legge convertito dalla [L. 15 ottobre 1923, n. 2293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-10-15;2293) (in G.U. 12/11/1923, n. 265).
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-per grazia di Dio e per volonta' della Nazione   
-  
-RE D'ITALIA   
-  
-Vista la [legge 27 luglio 1919, n. 1255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1919-07-27;1255);   
-  
-Udito il Consiglio dei ministri;   
-  
-Sulla proposta del Nostro ministro segretario di Stato per il tesoro, di concerto con quello della guerra;   
-  
-Abbiamo decretato e decretiamo:   
-  
-Il limite massimo dell'annualita' per pensioni da concedersi nell'esercizio 1919-920, in dipendenza di collocamento a riposo d'autorita' del personale appartenente al Ministero della guerra, e' aumentato di lire trecentomila (L. 300.000).   
-  
-Questo decreto sara' presentato al Parlamento per la sua conversione in legge ed andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta ufficiale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 novembre 1919.   
-  
-VITTORIO EMANUELE.   
-  
-Nitti - Schanzer - Albricci.   
-  
-Visto, Il guardasigilli: Mortara.   
-  
+VITTORIO EMANUELE III 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Vista la [legge 27 luglio 1919, n. 1255](Che%20proroga%20lesercizio%20finanziario%20degli%20stati%20di%20previsione%20della%20entrata%20e%20della%20spesa%20per%20lanno%20finanziario%201919-920%20a%20non%20oltre%20il%2031%20dicembre%201919.%20019U1255.md); 
+ 
+ Udito il Consiglio dei ministri; 
+ 
+ Sulla proposta del Nostro ministro segretario di Stato per il tesoro, di concerto con quello della guerra; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ Il limite massimo dell'annualita' per pensioni da concedersi nell'esercizio 1919-920, in dipendenza di collocamento a riposo d'autorita' del personale appartenente al Ministero della guerra, e' aumentato di lire trecentomila (L. 300.000). 
+ 
+ Questo decreto sara' presentato al Parlamento per la sua conversione in legge ed andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta ufficiale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 novembre 1919. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Nitti - Schanzer - Albricci. 
+ 
+ Visto, Il guardasigilli: Mortara.

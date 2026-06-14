@@ -1,17 +1,17 @@
-REGIO DECRETO 17 giugno 1923 n. 1480
+---
+tipo: REGIO DECRETO
+numero: 1480
+data: 1923-06-17
+titolo: "Istituzione di R. consolato di 2ª categoria a Larnaca. (023U1480)"
+urn: urn:nir:stato:regio.decreto:1923-06-17;1480
+codice_redazionale: 023U1480
+vigente: true
+---
 
-
-REGIO DECRETO 17 giugno 1923 n. 1480
-====================================
-
-Istituzione di R. consolato di 2ª categoria a Larnaca. (023U1480)
------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/08/1923
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1480. R. decreto 17 giugno 1923, col quale, sulla proposta del Ministro degli affari esteri, viene istituito un Regio consolato di seconda categoria a Larnaca, con giurisdizione sull'isola di Cipro.
+1480.
+
+R. decreto 17 giugno 1923, col quale, sulla proposta del Ministro degli affari esteri, viene istituito un Regio consolato di seconda categoria a Larnaca, con giurisdizione sull'isola di Cipro.

@@ -1,40 +1,41 @@
-REGIO DECRETO 10 maggio 1866 n. MDCCLIII
+---
+tipo: REGIO DECRETO
+numero: MDCCLIII
+data: 1866-05-10
+titolo: "Che ordina la soppressione della Societa' Economica della Provincia di Catania. (6601753R)"
+urn: urn:nir:stato:regio.decreto:1866-05-10;1753
+codice_redazionale: 6601753R
+vigente: true
+---
 
+VITTORIO EMANUELE II
 
-REGIO DECRETO 10 maggio 1866 n. MDCCLIII
-========================================
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
-Che ordina la soppressione della Societa' Economica della Provincia di Catania. (6601753R)
-------------------------------------------------------------------------------------------
+RE D'ITALIA
 
-Entrata in vigore del provvedimento: 01/07/1866
+Veduta la deliberazione 14 gennaio 1866 del Consiglio Provinciale di Catania per la soppressione della Societa' economica esistente in detta Provincia;
 
-Art. 1
-------
+Sulla proposta del Ministro dell'Istruzione Pubblica, reggente il Ministero di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-  
-  
-La Societa' economica della Provincia di Catania e' soppressa.   
-  
+## Art. 1.
 
-Art. 2
-------
+La Societa' economica della Provincia di Catania e' soppressa.
 
-  
-  
-Tutti gli oggetti di spettanza della Societa' predetta passeranno in proprieta' della Provincia, la quale e' autorizzata a valersene per l'impianto dell'Istituto nautico deliberato dalla Provincia medesima.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 10 maggio 1866.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 22 maggio 1866   
-  
-Reg° 36 Atti del Governo a c. 45. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli De Falco.   
-  
-Berti.   
-  
+## Art. 2.
+
+Tutti gli oggetti di spettanza della Societa' predetta passeranno in proprieta' della Provincia, la quale e' autorizzata a valersene per l'impianto dell'Istituto nautico deliberato dalla Provincia medesima. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 10 maggio 1866. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 22 maggio 1866 
+ 
+ Reg° 36 Atti del Governo a c. 45. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli De Falco. 
+ 
+ Berti.

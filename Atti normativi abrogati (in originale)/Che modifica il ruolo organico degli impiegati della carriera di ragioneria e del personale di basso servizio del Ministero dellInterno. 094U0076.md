@@ -1,16 +1,14 @@
-REGIO DECRETO 22 febbraio 1894 n. 76
-
-
-REGIO DECRETO 22 febbraio 1894 n. 76
-====================================
-
-Che modifica il ruolo organico degli impiegati della carriera di ragioneria e del personale di basso servizio del Ministero dell'Interno. (094U0076)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/04/1894
+---
+tipo: REGIO DECRETO
+numero: 76
+data: 1894-02-22
+titolo: "Che modifica il ruolo organico degli impiegati della carriera di ragioneria e del personale di basso servizio del Ministero dell'Interno. (094U0076)"
+urn: urn:nir:stato:regio.decreto:1894-02-22;76
+codice_redazionale: 094U0076
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,36 +18,26 @@ Visto il Nostro decreto in data 15 gennaio 1893 n. 10, col quale fu stabilito il
 
 Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Presidente del Consiglio dei Ministri;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il ruolo organico degli impiegati della carriera di ragioneria e del personale di basso servizio del Ministero dell'Interno, attualmente in vigore, e' modificato e reso esecutorio in conformita' della seguente 
+ 
+ Tabella. 
+ 
+ Parte di provvedimento in formato grafico
 
-  
-  
-Il ruolo organico degli impiegati della carriera di ragioneria e del personale di basso servizio del Ministero dell'Interno, attualmente in vigore, e' modificato e reso esecutorio in conformita' della seguente   
-  
-Tabella.   
-  
-Parte di provvedimento in formato grafico  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Le nomine ai posti di commesso del Ministro e di usciere maggiore, saranno fatte a scelta fra i capi uscieri.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 febbraio 1894.   
-  
-UMBERTO.   
-  
-CRISPI.   
-  
-Visto, Il Guardasigilli: V. CALENDA DI TAVANI.   
-  
+Le nomine ai posti di commesso del Ministro e di usciere maggiore, saranno fatte a scelta fra i capi uscieri. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 febbraio 1894. 
+ 
+ UMBERTO. 
+ 
+ CRISPI. 
+ 
+ Visto, Il Guardasigilli: V. CALENDA DI TAVANI.

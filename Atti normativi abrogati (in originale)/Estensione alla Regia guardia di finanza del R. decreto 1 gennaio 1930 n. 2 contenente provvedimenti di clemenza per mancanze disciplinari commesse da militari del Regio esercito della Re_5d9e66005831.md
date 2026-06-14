@@ -1,16 +1,14 @@
-REGIO DECRETO 22 febbraio 1930 n. 122
-
-
-REGIO DECRETO 22 febbraio 1930 n. 122
-=====================================
-
-Estensione alla Regia guardia di finanza del R. decreto 1° gennaio 1930, n. 2, contenente provvedimenti di clemenza per mancanze disciplinari commesse da militari del Regio esercito, della Regia marina e della Regia aeronautica. (030U0122)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/03/1930
+---
+tipo: REGIO DECRETO
+numero: 122
+data: 1930-02-22
+titolo: "Estensione alla Regia guardia di finanza del R. decreto 1° gennaio 1930, n. 2, contenente provvedimenti di clemenza per mancanze disciplinari commesse da militari del Regio esercito, della Regia marina e della Regia aeronautica. (030U0122)"
+urn: urn:nir:stato:regio.decreto:1930-02-22;122
+codice_redazionale: 030U0122
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,39 +20,29 @@ Visto il Nostro decreto 1° gennaio 1930, n. 2, contenente provvedimenti di clem
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il [R. decreto 1° gennaio 1930, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-01-01;2), si applica anche alla Regia guardia di finanza.
 
-  
-  
-  
-Il [R. decreto 1° gennaio 1930, n. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-01-01;2), si applica anche alla Regia guardia di finanza.   
-  
-
-Art. 2
-------
+## Art. 2.
 
 Il presente decreto ha effetto dal 1° gennaio
 
-1930. 
-  
-  
-Il termine utile per la presentazione delle domande di condono di cui all'art. 5 del Regio decreto sopracitato, per quanto riguarda le punizioni gia' inflitte, scade il 30 aprile 1930.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 febbraio 1930 - Anno VIII   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 12 marzo 1930 - Anno VIII   
-Atti del Governo, registro 294, foglio 77. - Ferzi.
+1930.
+
+Il termine utile per la presentazione delle domande di condono di cui all'art. 5 del Regio decreto sopracitato, per quanto riguarda le punizioni gia' inflitte, scade il 30 aprile 1930. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 febbraio 1930 - Anno VIII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 12 marzo 1930 - Anno VIII  
+ Atti del Governo, registro 294, foglio 77. - Ferzi.

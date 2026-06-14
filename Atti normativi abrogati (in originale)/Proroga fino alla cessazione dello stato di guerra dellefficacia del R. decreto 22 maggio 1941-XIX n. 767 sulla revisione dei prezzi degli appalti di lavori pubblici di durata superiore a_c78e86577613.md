@@ -1,16 +1,14 @@
-REGIO DECRETO 07 novembre 1942 n. 1641
-
-
-REGIO DECRETO 07 novembre 1942 n. 1641
-======================================
-
-Proroga fino alla cessazione dello stato di guerra dell'efficacia del R. decreto 22 maggio 1941-XIX, n. 767, sulla revisione dei prezzi degli appalti di lavori pubblici di durata superiore ai sei mesi nell'Africa Italiana. (042U1641)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/02/1943
+---
+tipo: REGIO DECRETO
+numero: 1641
+data: 1942-11-07
+titolo: "Proroga fino alla cessazione dello stato di guerra dell'efficacia del R. decreto 22 maggio 1941-XIX, n. 767, sulla revisione dei prezzi degli appalti di lavori pubblici di durata superiore ai sei mesi nell'Africa Italiana. (042U1641)"
+urn: urn:nir:stato:regio.decreto:1942-11-07;1641
+codice_redazionale: 042U1641
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,29 +30,23 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'Africa Italiana, di concerto con i Ministri Segretari di Stato per le finanze e per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per l'Africa Italiana, di concerto con i Ministri Segretari di Stato per le finanze e per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le disposizioni del R. decreto 22 maggio 1941-XIX, n. 767, sulla revisione dei prezzi degli appalti di opere pubbliche di durata superiore ai sei mesi nell'Africa Italiana sono applicabili anche dal 1° gennaio 1942-XX, fino alla cessazione dello stato di guerra.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, 7 novembre 1942-XXI   
-  
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - TERUZZI - DI REVEL - GORLA   
-  
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 19 gennaio 1943-XXI   
-Atti del Governo, registro 453, foglio 22. - MANCINI   
+Le disposizioni del R. decreto 22 maggio 1941-XIX, n. 767, sulla revisione dei prezzi degli appalti di opere pubbliche di durata superiore ai sei mesi nell'Africa Italiana sono applicabili anche dal 1° gennaio 1942-XX, fino alla cessazione dello stato di guerra. 
+ 
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+Dato a San Rossore, 7 novembre 1942-XXI 
+ 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - TERUZZI - DI REVEL - GORLA 
+ 
+ 
+Visto, il Guardasigilli: GRANDI 
+ 
+Registrato alla Corte dei conti, addi' 19 gennaio 1943-XXI 
+Atti del Governo, registro 453, foglio 22. - MANCINI

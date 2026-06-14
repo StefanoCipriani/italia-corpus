@@ -1,16 +1,14 @@
-REGIO DECRETO 02 marzo 1862 n. 494
-
-
-REGIO DECRETO 02 marzo 1862 n. 494
-==================================
-
-Che autorizza la Societa' anonima delle strade ferrate Livornesi ad emettere centomila obbligazioni al portatore. (062U0494)
-----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/04/1862
+---
+tipo: REGIO DECRETO
+numero: 494
+data: 1862-03-02
+titolo: "Che autorizza la Societa' anonima delle strade ferrate Livornesi ad emettere centomila obbligazioni al portatore. (062U0494)"
+urn: urn:nir:stato:regio.decreto:1862-03-02;494
+codice_redazionale: 062U0494
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,74 +32,47 @@ Veduto l'articolo 3 della premenzionata legge in cui e' disposto che nello stabi
 
 Veduto il prospetto presentato dalla Societa' delle ferrovie Livornesi debitamente verificato dal Governo, dal quale risulta che per procurarsi il capitale necessario nell'anno corrente per portare a compimento il tratto di strada ferrata da Firenze a Montevarchi, e per far fronte ad altri impegni dipendenti da quella convenzione, occorre una prima emissione di obbligazioni;
 
-Sulla
------
+Sulla proposizione del Ministro delle Finanze, di concerto col Ministro dei Lavori pubblici; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposizione del Ministro delle Finanze, di concerto col Ministro dei Lavori pubblici; Abbiamo ordinato ed ordiniamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+La Societa' anonima delle strade ferrate Livornesi e' autorizzata ad emettere N.° 100,000 obbligazioni al portatore (contrassegnate con l'indicazione di serie D) di L. 500 italiane ciascuna, fruttifere alla ragione del 3 per % all'anno, e rimborsabili alla pari per estrazione a sorte in anni 90.
 
-  
-  
-La Societa' anonima delle strade ferrate Livornesi e' autorizzata ad emettere N.° 100,000 obbligazioni al portatore (contrassegnate con l'indicazione di serie D) di L. 500 italiane ciascuna, fruttifere alla ragione del 3 per % all'anno, e rimborsabili alla pari per estrazione a sorte in anni 90.   
-  
+## Art. 2.
 
-Art. 2
-------
+Le cartelle delle obbligazioni anzidette, all'effetto della decorrenza dei frutti, porteranno la data del 1.° gennaio 1862.
 
-  
-  
-Le cartelle delle obbligazioni anzidette, all'effetto della decorrenza dei frutti, porteranno la data del 1.° gennaio 1862.   
-  
+## Art. 3.
 
-Art. 3
-------
+Il pagamento dei frutti avra' luogo semestralmente il 1.° luglio ed il 2 gennaio d'ogni anno.
 
-  
-  
-Il pagamento dei frutti avra' luogo semestralmente il 1.° luglio ed il 2 gennaio d'ogni anno.   
-  
+## Art. 4.
 
-Art. 4
-------
+L'ammortizzamento o rimborso progressivo del capitale delle suddette obbligazioni avra' luogo alla pari del loro valore nominale dietro estrazione a sorte il 2 gennaio di ciascun anno cominciando dal 1865 secondo le tavole d'ammortizzamento che saranno stampate a tergo delle cartelle. 
+ 
+ L'estrazione delle obbligazioni, che ogni anno dovranno essere rimborsate, avra' luogo un mese avanti all'epoca del relativo rimborso.
 
-  
-  
-L'ammortizzamento o rimborso progressivo del capitale delle suddette obbligazioni avra' luogo alla pari del loro valore nominale dietro estrazione a sorte il 2 gennaio di ciascun anno cominciando dal 1865 secondo le tavole d'ammortizzamento che saranno stampate a tergo delle cartelle.   
-  
-L'estrazione delle obbligazioni, che ogni anno dovranno essere rimborsate, avra' luogo un mese avanti all'epoca del relativo rimborso.   
-  
+## Art. 5.
 
-Art. 5
-------
+Tutte le altre disposizioni contenute nel Decreto del Governo della Toscana dell'8 febbraio 1860 riguardanti le obbligazioni di serie A - B - C, sono pure applicabili a quelle di serie D create col presente Decreto.
 
-  
-  
-Tutte le altre disposizioni contenute nel Decreto del Governo della Toscana dell'8 febbraio 1860 riguardanti le obbligazioni di serie A - B - C, sono pure applicabili a quelle di serie D create col presente Decreto.   
-  
+## Art. 6.
 
-Art. 6
-------
-
-  
-  
-Il Ministro delle Finanze d'accordo colla Societa' stabilira' il saggio minimo al quale potranno alienarsi le obbligazioni suddette, e fara' le disposizioni occorrenti affinche', in senso dell'art. 3 della legge del 7 luglio 1861, sia assicurata la pubblica concorrenza.   
-  
-E per tale effetto il predetto Ministro potra' delegare un suo Commissario presso la Direzione della Societa'.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 2 marzo 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 5 marzo 1862   
-  
-Reg.° 19 Atti del Governo a c. 101. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Miglietti.   
-  
-Pietro Bastogi.   
-U. Peruzzi   
-  
+Il Ministro delle Finanze d'accordo colla Societa' stabilira' il saggio minimo al quale potranno alienarsi le obbligazioni suddette, e fara' le disposizioni occorrenti affinche', in senso dell'art. 3 della legge del 7 luglio 1861, sia assicurata la pubblica concorrenza. 
+ 
+ E per tale effetto il predetto Ministro potra' delegare un suo Commissario presso la Direzione della Societa'. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 2 marzo 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 5 marzo 1862 
+ 
+ Reg.° 19 Atti del Governo a c. 101. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Miglietti. 
+ 
+ Pietro Bastogi. 
+ U. Peruzzi

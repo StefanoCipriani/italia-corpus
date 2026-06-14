@@ -1,16 +1,14 @@
-REGIO DECRETO 18 aprile 1869 n. 5015
-
-
-REGIO DECRETO 18 aprile 1869 n. 5015
-====================================
-
-Che fissa il numero degli Agenti di cambio presso la Direzione generale del Debito pubblico in Firenze e presso la Direzione speciale in Torino. (069U5015)
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/05/1869
+---
+tipo: REGIO DECRETO
+numero: 5015
+data: 1869-04-18
+titolo: "Che fissa il numero degli Agenti di cambio presso la Direzione generale del Debito pubblico in Firenze e presso la Direzione speciale in Torino. (069U5015)"
+urn: urn:nir:stato:regio.decreto:1869-04-18;5015
+codice_redazionale: 069U5015
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Veduto il Regio Decreto del di' 8 giugno 1862, col quale fu stabilito il numero 
 
 Veduto il Regio Decreto del di' 11 aprile corrente, sul trasferimento della Direzione generale del Debito pubblico a Firenze;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il numero degli Agenti di cambio da destinarsi presso la Direzione generale del Debito pubblico in Firenze, sara' di dodici, e quello da destinarsi presso la Direzione del Debito pubblico in Torino, sara' parimente di dodici.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 18 aprile 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 23 aprile 1869   
-  
-Reg. 46 Atti del Governo a c. 138. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-L. G. Cambray Digny.   
-  
+Il numero degli Agenti di cambio da destinarsi presso la Direzione generale del Debito pubblico in Firenze, sara' di dodici, e quello da destinarsi presso la Direzione del Debito pubblico in Torino, sara' parimente di dodici. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 18 aprile 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 23 aprile 1869 
+ 
+ Reg. 46 Atti del Governo a c. 138. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ L. G. Cambray Digny.

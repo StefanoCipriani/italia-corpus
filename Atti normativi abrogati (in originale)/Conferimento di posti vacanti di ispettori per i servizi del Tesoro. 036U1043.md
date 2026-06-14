@@ -1,16 +1,14 @@
-REGIO DECRETO 04 giugno 1936 n. 1043
-
-
-REGIO DECRETO 04 giugno 1936 n. 1043
-====================================
-
-Conferimento di posti vacanti di ispettori per i servizi del Tesoro. (036U1043)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/06/1936
+---
+tipo: REGIO DECRETO
+numero: 1043
+data: 1936-06-04
+titolo: "Conferimento di posti vacanti di ispettori per i servizi del Tesoro. (036U1043)"
+urn: urn:nir:stato:regio.decreto:1936-06-04;1043
+codice_redazionale: 036U1043
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,32 +28,26 @@ Sentito il Consiglio di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I posti attualmente vacanti di ispettori per i servizi del Tesoro limitatamente al numero di quattro saranno conferiti a funzionari di grado ottavo del ruolo della carriera amministrativa del Ministero e delle Intendenze di finanza e del ruolo della carriera di concetto delle Ragionerie centrali, anche quando i funzionari stessi non abbiano compiuto nel grado suddetto il triennio prescritto dall'art. 70 del R. decreto 23 marzo 1933-XI, n. 185.   
-  
-Il conferimento dei posti avverra' a scelta, su designazione del Consiglio di Amministrazione del Ministero delle finanze, tra i funzionari suindicati, che risultino particolarmente idonei a poter esercitare le funzioni ispettive per i servizi del Tesoro.   
-  
-Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 giugno 1936 - Anno XIV   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 13 giugno 1936 - Anno XIV.   
-  
-Atti del Governo, registro 374, foglio 83 - Mancini.   
+I posti attualmente vacanti di ispettori per i servizi del Tesoro limitatamente al numero di quattro saranno conferiti a funzionari di grado ottavo del ruolo della carriera amministrativa del Ministero e delle Intendenze di finanza e del ruolo della carriera di concetto delle Ragionerie centrali, anche quando i funzionari stessi non abbiano compiuto nel grado suddetto il triennio prescritto dall'art. 70 del R. decreto 23 marzo 1933-XI, n. 185. 
+ 
+ Il conferimento dei posti avverra' a scelta, su designazione del Consiglio di Amministrazione del Ministero delle finanze, tra i funzionari suindicati, che risultino particolarmente idonei a poter esercitare le funzioni ispettive per i servizi del Tesoro. 
+ 
+ Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 giugno 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 13 giugno 1936 - Anno XIV. 
+ 
+ Atti del Governo, registro 374, foglio 83 - Mancini.

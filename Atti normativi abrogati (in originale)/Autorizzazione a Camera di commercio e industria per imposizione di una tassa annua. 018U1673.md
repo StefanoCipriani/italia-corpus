@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 29 agosto 1918 n. 1673
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1673
+data: 1918-08-29
+titolo: "Autorizzazione a Camera di commercio e industria per imposizione di una tassa annua. (018U1673)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-08-29;1673
+codice_redazionale: 018U1673
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 29 agosto 1918 n. 1673
-==============================================
-
-Autorizzazione a Camera di commercio e industria per imposizione di una tassa annua. (018U1673)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/12/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1673. Decreto Luogotenenziale 29 agosto 1918, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, la Camera di commercio e industria di Ascoli Piceno, e' autorizzata ad imporre un'annua tassa sugli esercenti commercio e industria del proprio distretto camerale.
+1673.
+
+Decreto Luogotenenziale 29 agosto 1918, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, la Camera di commercio e industria di Ascoli Piceno, e' autorizzata ad imporre un'annua tassa sugli esercenti commercio e industria del proprio distretto camerale.

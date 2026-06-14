@@ -1,16 +1,14 @@
-REGIO DECRETO 19 ottobre 1866 n. 3293
-
-
-REGIO DECRETO 19 ottobre 1866 n. 3293
-=====================================
-
-Col quale si modifica la Pianta numerica degli Insegnanti, altri Impiegati e Serventi del R. Istituto tecnico superiore di Milano. (066U3293)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/11/1866
+---
+tipo: REGIO DECRETO
+numero: 3293
+data: 1866-10-19
+titolo: "Col quale si modifica la Pianta numerica degli Insegnanti, altri Impiegati e Serventi del R. Istituto tecnico superiore di Milano. (066U3293)"
+urn: urn:nir:stato:regio.decreto:1866-10-19;3293
+codice_redazionale: 066U3293
+vigente: true
+---
 
 EUGENIO
--------
 
 PRINCIPE DI SAVOJA-CARIGNANO
 
@@ -28,29 +26,22 @@ Veduta la Pianta numerica degli Insegnanti, altri Impiegati e Serventi del R. Is
 
 Veduto lo stanziamento fatto nel Bilancio del Ministero della Pubblica Istruzione per l'anno 1866 al capitolo 11, allegato 10-B;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per la pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per la pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il numero dei Professori straordinari del R. Istituto tecnico superiore di Milano, ai quali e' assegnato lo stipendio di lire 2,450, e' portato da quattro a cinque.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 19 ottobre 1866.   
-  
-EUGENIO DI SAVOJA   
-  
-Registrato alla Corte dei conti addi' 8 novembre 1866   
-  
-Reg.° 38 Atti del Governo a c. 23. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Borgatti.   
-  
-Berti.   
-  
+Il numero dei Professori straordinari del R. Istituto tecnico superiore di Milano, ai quali e' assegnato lo stipendio di lire 2,450, e' portato da quattro a cinque. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 19 ottobre 1866. 
+ 
+ EUGENIO DI SAVOJA 
+ 
+ Registrato alla Corte dei conti addi' 8 novembre 1866 
+ 
+ Reg.° 38 Atti del Governo a c. 23. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ Berti.

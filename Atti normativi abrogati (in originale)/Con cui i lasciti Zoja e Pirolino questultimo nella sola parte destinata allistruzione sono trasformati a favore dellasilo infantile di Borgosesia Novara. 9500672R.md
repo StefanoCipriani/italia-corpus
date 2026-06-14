@@ -1,21 +1,17 @@
-REGIO DECRETO 15 ottobre 1895 n. DCLXXII
+---
+tipo: REGIO DECRETO
+numero: DCLXXII
+data: 1895-10-15
+titolo: "Con cui i lasciti Zoja e Pirolino, quest'ultimo nella sola parte destinata all'istruzione, sono trasformati a favore dell'asilo infantile di Borgosesia (Novara). (9500672R)"
+urn: urn:nir:stato:regio.decreto:1895-10-15;672
+codice_redazionale: 9500672R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 ottobre 1895 n. DCLXXII
-========================================
-
-Con cui i lasciti Zoja e Pirolino, quest'ultimo nella sola parte destinata all'istruzione, sono trasformati a favore dell'asilo infantile di Borgosesia (Novara). (9500672R)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/01/1896
-
-Art. 1
-------
-
-  
-Con cui i lasciti Zoja e Pirolino, quest'ultimo nella sola parte destinata all'istruzione, sono trasformati a favore dell'asilo infantile di Borgosesia (Novara). Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei conti addi' 6 dicembre 1895.   
-  
-Reg. 202. Atti del Governo a f. 248.   
-  
+Con cui i lasciti Zoja e Pirolino, quest'ultimo nella sola parte destinata all'istruzione, sono trasformati a favore dell'asilo infantile di Borgosesia (Novara). Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei conti addi' 6 dicembre 1895. 
+ 
+ Reg. 202. Atti del Governo a f. 248.

@@ -1,19 +1,15 @@
-REGIO DECRETO 10 giugno 1909 n. CLXXXVI
+---
+tipo: REGIO DECRETO
+numero: CLXXXVI
+data: 1909-06-10
+titolo: "Che erige in ente morale il legato « Zavanone » di Mirabello Monferrato. (0900186R)"
+urn: urn:nir:stato:regio.decreto:1909-06-10;186
+codice_redazionale: 0900186R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 giugno 1909 n. CLXXXVI
-=======================================
-
-Che erige in ente morale il legato « Zavanone » di Mirabello Monferrato. (0900186R)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/07/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CLXXXVI (Dato a Roma, il 10 giugno 1909), col quale il pio legato Zavanone di Mirabello Monferrato e' eretto in ente morale e concentrato nella locale Congregazione di carita'.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CLXXXVI (Dato a Roma, il 10 giugno 1909), col quale il pio legato Zavanone di Mirabello Monferrato e' eretto in ente morale e concentrato nella locale Congregazione di carita'.

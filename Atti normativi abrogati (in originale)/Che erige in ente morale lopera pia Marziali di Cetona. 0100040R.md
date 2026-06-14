@@ -1,22 +1,18 @@
-REGIO DECRETO 10 febbraio 1901 n. XL
+---
+tipo: REGIO DECRETO
+numero: XL
+data: 1901-02-10
+titolo: "Che erige in ente morale l'opera pia Marziali di Cetona. (0100040R)"
+urn: urn:nir:stato:regio.decreto:1901-02-10;40
+codice_redazionale: 0100040R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 febbraio 1901 n. XL
-====================================
-
-Che erige in ente morale l'opera pia Marziali di Cetona. (0100040R)
--------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/03/1901
-
-Art. 1
-------
-
-  
-Con cui l'opera pia intitolata «Borse di studio fondazione Marziali di Cetona (Siena)» viene eretta in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato G.  
-Saracco - Visto E. Gianturco.   
-  
-Registrato alla Corte dei conti addi' 26 febbraio 1901.   
-  
-Reg. 227. Atti del Governo a f. 149.   
-  
+Con cui l'opera pia intitolata «Borse di studio fondazione Marziali di Cetona (Siena)» viene eretta in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato G.
+Saracco - Visto E. Gianturco. 
+ 
+ Registrato alla Corte dei conti addi' 26 febbraio 1901. 
+ 
+ Reg. 227. Atti del Governo a f. 149.

@@ -1,21 +1,17 @@
-REGIO DECRETO 21 maggio 1902 n. CXLIV
+---
+tipo: REGIO DECRETO
+numero: CXLIV
+data: 1902-05-21
+titolo: "Col quale e' data facolta' al comune di Cetraro di applicare nell'anno 1902 la tassa di famiglia col limite massimo di lire 150 (centocinquanta). (0200144R)"
+urn: urn:nir:stato:regio.decreto:1902-05-21;144
+codice_redazionale: 0200144R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 maggio 1902 n. CXLIV
-=====================================
-
-Col quale e' data facolta' al comune di Cetraro di applicare nell'anno 1902 la tassa di famiglia col limite massimo di lire 150 (centocinquanta). (0200144R)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/06/1902
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di Cetraro di applicare nell'anno 1902 la tassa di famiglia col limite massimo di lire 150 (centocinquanta). - Firmato VITTORIO EMANUELE - Controfirmato Carcano - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 7 giugno 1902.   
-  
-Reg. 3. Atti del Governo a f. 125.   
-  
+Col quale e' data facolta' al comune di Cetraro di applicare nell'anno 1902 la tassa di famiglia col limite massimo di lire 150 (centocinquanta). - Firmato VITTORIO EMANUELE - Controfirmato Carcano - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 7 giugno 1902. 
+ 
+ Reg. 3. Atti del Governo a f. 125.

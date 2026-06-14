@@ -1,39 +1,41 @@
-REGIO DECRETO 08 giugno 1865 n. MDCXXV
+---
+tipo: REGIO DECRETO
+numero: MDCXXV
+data: 1865-06-08
+titolo: "Col quale e' rivocata l'autorizzazione conferita alla Societa' anonima intitolata Sartoria Nazionale in Milano. (6501625R)"
+urn: urn:nir:stato:regio.decreto:1865-06-08;1625
+codice_redazionale: 6501625R
+vigente: true
+---
 
+VITTORIO EMANUELE II
 
-REGIO DECRETO 08 giugno 1865 n. MDCXXV
-======================================
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
-Col quale e' rivocata l'autorizzazione conferita alla Societa' anonima intitolata Sartoria Nazionale in Milano. (6501625R)
---------------------------------------------------------------------------------------------------------------------------
+RE D'ITALIA
 
-Entrata in vigore del provvedimento: 19/07/1865
+Visto l'art. 3 del Nostro Decreto 20 marzo 1864, n.° MCXLII, concernente l'autorizzazione della Societa' anonima denominata Sartoria Nazionale, che ha sede in Milano;
 
-Art. 1
-------
+Ritenuto l'irregolare andamento dell'Amministrazione della Societa' anzidetta debitamente accertato;
 
-  
-  
-L'autorizzazione conferita alla Societa' anonima col titolo di Sartoria Nazionale col Nostro Decreto 20 marzo 1864, n.° MCXLII, e' rivocata, senza pregiudizio dei dritti dei terzi.   
-  
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo ordinato ed ordiniamo:
 
-Art. 2
-------
+## Art. 1.
 
-  
-  
-La Societa' potra' adunarsi in assemblea generale per l'ultima volta quindici giorni dopo l'ufficiale comunicazione di questo Decreto, ed essere, occorrendo, riconvocata cinque giorni dopo la prima convocazione per provvedere alla legale sua rappresentanza verso ed alla sua liquidazione.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 8 giugno 1865.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 14 giugno 1863   
-Reg.° 31 Decreti amministrativi a c. 28. Crodara-Visconti   
-Luogo del Sigillo. V. Il Guardasigilli VACCA.   
-  
-TORELLI.   
-  
-  
+L'autorizzazione conferita alla Societa' anonima col titolo di Sartoria Nazionale col Nostro Decreto 20 marzo 1864, n.° MCXLII, e' rivocata, senza pregiudizio dei dritti dei terzi.
+
+## Art. 2.
+
+La Societa' potra' adunarsi in assemblea generale per l'ultima volta quindici giorni dopo l'ufficiale comunicazione di questo Decreto, ed essere, occorrendo, riconvocata cinque giorni dopo la prima convocazione per provvedere alla legale sua rappresentanza verso ed alla sua liquidazione. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 8 giugno 1865. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 14 giugno 1863 
+ Reg.° 31 Decreti amministrativi a c. 28. Crodara-Visconti 
+ Luogo del Sigillo. V. Il Guardasigilli VACCA. 
+ 
+ TORELLI.

@@ -1,19 +1,15 @@
-REGIO DECRETO 02 agosto 1914 n. 976
+---
+tipo: REGIO DECRETO
+numero: 976
+data: 1914-08-02
+titolo: "Erezione in ente morale. (014U0976)"
+urn: urn:nir:stato:regio.decreto:1914-08-02;976
+codice_redazionale: 014U0976
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 agosto 1914 n. 976
-===================================
-
-Erezione in ente morale. (014U0976)
------------------------------------
-
-Entrata in vigore del provvedimento: 30/09/1914
-
-Art. 1
-------
-
-  
-N. 976   
-  
-Regio Decreto 2 agosto 1914, col quale, sulla proposta del ministro dell'interno, l'orfanotrofio femminile di Caraglio (Cuneo) e' eretto in ente morale e ne e' approvato lo statuto organico.   
-  
+N. 976 
+ 
+ Regio Decreto 2 agosto 1914, col quale, sulla proposta del ministro dell'interno, l'orfanotrofio femminile di Caraglio (Cuneo) e' eretto in ente morale e ne e' approvato lo statuto organico.

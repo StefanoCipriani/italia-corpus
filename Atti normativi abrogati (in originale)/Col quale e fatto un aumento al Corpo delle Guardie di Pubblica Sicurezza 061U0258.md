@@ -1,16 +1,14 @@
-REGIO DECRETO 29 settembre 1861 n. 258
-
-
-REGIO DECRETO 29 settembre 1861 n. 258
-======================================
-
-Col quale e' fatto un aumento al Corpo delle Guardie di Pubblica Sicurezza (061U0258)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/11/1861
+---
+tipo: REGIO DECRETO
+numero: 258
+data: 1861-09-29
+titolo: "Col quale e' fatto un aumento al Corpo delle Guardie di Pubblica Sicurezza (061U0258)"
+urn: urn:nir:stato:regio.decreto:1861-09-29;258
+codice_redazionale: 061U0258
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,32 +26,25 @@ Ritenuta la convenienza, che la forza costituente il Corpo delle Guardie di Pubb
 
 Atteso che e' dimostrata la necessita' di un aumento alla forza totale del Corpo costituita coi sovra enunciati Decreti;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio, Ministro dell'Interno, Abbiamo determinato e determiniamo:
 
-proposta del Presidente del Consiglio, Ministro dell'Interno, Abbiamo determinato e determiniamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Corpo delle Guardie di Pubblica Sicurezza per le antiche Provincie, e per quelle di Lombardia, dell'Emilia, delle Marche e dell'Umbria, e' costituito di   
-  
-Comandanti di Compagnia . . . . . . . N. 4   
-Marescialli d'Alloggio . . . . . . . » 18   
-Brigadieri . . . . . . . . . . . . . » 67   
-Sotto-Brigadieri . . . . . . . . . . » 120   
-Appuntati . . . . . . . . . . . . . » 193   
-Guardie . . . . . . . . . . . . . . » 1353   
--------   
-Totale N. 1757   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze li' 29 settembre 1861.   
-  
-VITTORIO EMANUELE.   
-  
-Ricasoli   
-  
+Il Corpo delle Guardie di Pubblica Sicurezza per le antiche Provincie, e per quelle di Lombardia, dell'Emilia, delle Marche e dell'Umbria, e' costituito di 
+ 
+ Comandanti di Compagnia . . . . . . . N. 4 
+ Marescialli d'Alloggio . . . . . . . » 18 
+ Brigadieri . . . . . . . . . . . . . » 67 
+ Sotto-Brigadieri . . . . . . . . . . » 120 
+ Appuntati . . . . . . . . . . . . . » 193 
+ Guardie . . . . . . . . . . . . . . » 1353 
+ ------- 
+ Totale N. 1757 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze li' 29 settembre 1861. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Ricasoli

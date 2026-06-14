@@ -1,14 +1,14 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE 12 luglio 1945 n. 422
-
-
-DECRETO LEGISLATIVO LUOGOTENENZIALE 12 luglio 1945 n. 422
-=========================================================
-
-Integrazione della composizione della Consulta nazionale. (045U0422)
---------------------------------------------------------------------
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 422
+data: 1945-07-12
+titolo: "Integrazione della composizione della Consulta nazionale. (045U0422)"
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1945-07-12;422
+codice_redazionale: 045U0422
+vigente: true
+---
 
 UMBERTO DI SAVOIA
------------------
 
 PRINCIPE DI PIEMONTE
 
@@ -18,72 +18,54 @@ In virtu' dell'autorita' a Noi delegata;
 
 Visto lo Statuto fondamentale del Regno;
 
-Visto il [decreto legislativo Luogotenenziale 5 aprile 1945, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-05;146), sull'istituzione della Consulta nazionale;
+Visto il [decreto legislativo Luogotenenziale 5 aprile 1945, n. 146](Istituzione%20della%20Consulta%20Nazionale.%20045U0146.md), sull'istituzione della Consulta nazionale;
 
-Visto il [decreto legislativo Luogotenenziale 30 aprile 1945, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-30;168), sulla composizione della Consulta nazionale;
+Visto il [decreto legislativo Luogotenenziale 30 aprile 1945, n. 168](Composizione%20della%20Consulta%20Nazionale.%20045U0168.md), sulla composizione della Consulta nazionale;
 
-Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151~art4);
+Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151#art_4);
 
-Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-01;58);
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](Nuove%20norme%20sullemanazione%20promulgazione%20e%20pubblicazione%20di%20decreti%20Luogotenenziali%20e%20di%20altri%20provvedimenti.%20045U0058.md);
 
 Vista la deliberazione del Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segretario di Stato, di concerto con tutti i Ministri; Abbiamo sanzionato e promulghiamo quanto segue:
 
-proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segretario di Stato, di concerto con tutti i Ministri; Abbiamo sanzionato e promulghiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+A seguito della liberazione dell'intero territorio nazionale, la Consulta nazionale, istituita con il [decreto legislativo Luogotenenziale 5 aprile 1944, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-04-05;146), viene integrata nei modi indicati dagli articoli seguenti.
 
-  
-  
-A seguito della liberazione dell'intero territorio nazionale, la Consulta nazionale, istituita con il [decreto legislativo Luogotenenziale 5 aprile 1944, n. 146](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-04-05;146), viene integrata nei modi indicati dagli articoli seguenti.   
+## Art. 2.
 
-Art. 2
-------
+In aggiunta alle designazioni previste dall'[art. 2 del decreto legislativo Luogotenenziale 30 aprile 1945, n. 168](Composizione%20della%20Consulta%20Nazionale.%20045U0168.md), ciascuno dei Partiti che costituiscono il Comitato di liberazione nazionale designera' undici Consultori, su proposta dei propri organi locali, sentiti i Comitati provinciali di liberazione della regione. 
+ 
+ Qualora alla data di entrata in vigore del presente decreto alcuno fra tali Partiti non risulti rappresentato in uno o piu' dei Comitati regionali di liberazione, le relative designazioni restano sospese sino a che tale Partito non vi sia rappresentato. 
+ 
+ Le designazioni previste dal primo comma saranno effettuate in ragione di due per Partito per il Piemonte, la Lombardia, il Veneto e l'Emilia e in ragione di una per Partito per la Venezia Tridentina, la Venezia Giulia e la Liguria.
 
-  
-  
-In aggiunta alle designazioni previste dall'[art. 2 del decreto legislativo Luogotenenziale 30 aprile 1945, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-30;168~art2), ciascuno dei Partiti che costituiscono il Comitato di liberazione nazionale designera' undici Consultori, su proposta dei propri organi locali, sentiti i Comitati provinciali di liberazione della regione.   
-  
-Qualora alla data di entrata in vigore del presente decreto alcuno fra tali Partiti non risulti rappresentato in uno o piu' dei Comitati regionali di liberazione, le relative designazioni restano sospese sino a che tale Partito non vi sia rappresentato.   
-  
-Le designazioni previste dal primo comma saranno effettuate in ragione di due per Partito per il Piemonte, la Lombardia, il Veneto e l'Emilia e in ragione di una per Partito per la Venezia Tridentina, la Venezia Giulia e la Liguria.   
+## Art. 3.
 
-Art. 3
-------
+Le designazioni attribuite all'Associazione Nazionale partigiani (A.N.P.I.) dall'[art. 5, lettera c), del decreto legislativo Luogotenenziale 30 aprile 1945, n. 168](Composizione%20della%20Consulta%20Nazionale.%20045U0168.md), sono portate da sei a sedici.
 
-  
-  
-Le designazioni attribuite all'Associazione Nazionale partigiani (A.N.P.I.) dall'[art. 5, lettera c), del decreto legislativo Luogotenenziale 30 aprile 1945, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-30;168~art5-letc), sono portate da sei a sedici.   
+## Art. 4.
 
-Art. 4
-------
+A modifica dell'[art. 1, lettera f), del decreto legislativo Luogotenenziale 30 aprile 1945, n. 168](Composizione%20della%20Consulta%20Nazionale.%20045U0168.md), i Consultori da scegliere tra ex parlamentari antifascisti non potranno superare il numero di ottanta.
 
-  
-  
-A modifica dell'[art. 1, lettera f), del decreto legislativo Luogotenenziale 30 aprile 1945, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-30;168~art1-letf), i Consultori da scegliere tra ex parlamentari antifascisti non potranno superare il numero di ottanta.   
+## Art. 5.
 
-Art. 5
-------
-
-  
-  
-Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.   
-  
-Dato a Roma, addi' 12 luglio 1945   
-  
-UMBERTO Dl SAVOIA   
-  
-PARRI - BROSIO - NENNI - DE GASPERI -   
-TOGLIATTI - RUINI - SCOCCIMARRO - SOLERI -   
-JACINI - DE COURTEN - CEVOLOTTO -   
-ARANGIO RUIZ - ROMITA - GULLO - LA MALFA -   
-SCELBA - GRONCHI - BARBARESCHI - LUSSU - MOLE'   
-  
-Visto, il Guardasigilli: TOGLIATTI   
-Registrato alla Corte dei conti, addi' 1° agosto 1945   
-Atti del Governo, registro n. 5, foglio n. 82. - FRASCA   
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato. 
+ 
+ Dato a Roma, addi' 12 luglio 1945 
+ 
+ UMBERTO Dl SAVOIA 
+ 
+ PARRI - BROSIO - NENNI - DE GASPERI - 
+ TOGLIATTI - RUINI - SCOCCIMARRO - SOLERI - 
+ JACINI - DE COURTEN - CEVOLOTTO - 
+ ARANGIO RUIZ - ROMITA - GULLO - LA MALFA - 
+ SCELBA - GRONCHI - BARBARESCHI - LUSSU - MOLE' 
+ 
+ Visto, il Guardasigilli: TOGLIATTI 
+ Registrato alla Corte dei conti, addi' 1° agosto 1945 
+ Atti del Governo, registro n. 5, foglio n. 82. - FRASCA

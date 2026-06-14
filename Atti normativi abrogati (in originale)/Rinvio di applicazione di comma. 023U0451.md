@@ -1,17 +1,17 @@
-REGIO DECRETO 22 febbraio 1923 n. 451
+---
+tipo: REGIO DECRETO
+numero: 451
+data: 1923-02-22
+titolo: "Rinvio di applicazione di comma. (023U0451)"
+urn: urn:nir:stato:regio.decreto:1923-02-22;451
+codice_redazionale: 023U0451
+vigente: true
+---
 
-
-REGIO DECRETO 22 febbraio 1923 n. 451
-=====================================
-
-Rinvio di applicazione di comma. (023U0451)
--------------------------------------------
-
-Entrata in vigore del provvedimento: 12/04/1923
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-451. Regio decreto 22 febbraio 1923, col quale, sulla proposta del Ministro per l'industria e il commercio, viene ulteriormente sospesa l'applicazione dell'ultimo comma dell'art. 2 dello statuto della Cassa di risparmio di Torino.
+451.
+
+Regio decreto 22 febbraio 1923, col quale, sulla proposta del Ministro per l'industria e il commercio, viene ulteriormente sospesa l'applicazione dell'ultimo comma dell'art. 2 dello statuto della Cassa di risparmio di Torino.

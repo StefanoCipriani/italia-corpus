@@ -1,21 +1,21 @@
-REGIO DECRETO 28 agosto 1930 n. 1335
+---
+tipo: REGIO DECRETO
+numero: 1335
+data: 1930-08-28
+titolo: "Approvazione del nuovo statuto della Cassa di risparmio di Carpi. (030U1335)"
+urn: urn:nir:stato:regio.decreto:1930-08-28;1335
+codice_redazionale: 030U1335
+vigente: true
+---
 
-
-REGIO DECRETO 28 agosto 1930 n. 1335
-====================================
-
-Approvazione del nuovo statuto della Cassa di risparmio di Carpi. (030U1335)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/10/1930
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1335. R. decreto 28 agosto 1930, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene approvato il nuovo statuto organico della Cassa di risparmio di Carpi.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 30 settembre 1930 - Anno VIII
+1335.
+
+R. decreto 28 agosto 1930, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene approvato il nuovo statuto organico della Cassa di risparmio di Carpi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 30 settembre 1930 - Anno VIII

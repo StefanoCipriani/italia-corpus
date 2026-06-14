@@ -1,16 +1,14 @@
-REGIO DECRETO 29 dicembre 1907 n. 833
-
-
-REGIO DECRETO 29 dicembre 1907 n. 833
-=====================================
-
-Che istituisce in Rigutino, frazione del comune di Arezzo, un distinto ufficio di conciliazione con giurisdizione su altre frazioni. (007U0833)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/02/1908
+---
+tipo: REGIO DECRETO
+numero: 833
+data: 1907-12-29
+titolo: "Che istituisce in Rigutino, frazione del comune di Arezzo, un distinto ufficio di conciliazione con giurisdizione su altre frazioni. (007U0833)"
+urn: urn:nir:stato:regio.decreto:1907-12-29;833
+codice_redazionale: 007U0833
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Viste le deliberazioni del Consiglio comunale di Arezzo del 27 novembre 1906 e 1
 
 Visto il rapporto del primo presidente della Corte di appello di Firenze, in data 21 giugno 1907, col quale, su parere conforme di quel procuratore generale, si propone la istituzione dell'ufficio predetto;
 
-Visti gli [articoli 1 della legge 16 giugno 1892, numero 261 e 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;1~art1) del relativo regolamento 26 dicembre stesso anno n. 728;
+Visti gli [articoli 1 della legge 16 giugno 1892, numero 261 e 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;1#art_1) del relativo regolamento 26 dicembre stesso anno n. 728;
 
-Sulla
------
+Sulla proposta del Nostro guardasigilli ministro segretario di Stato per gli affari di grazia e giustizia e dei culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro guardasigilli ministro segretario di Stato per gli affari di grazia e giustizia e dei culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito in Rigutino, frazione del comune di Arezzo, un distinto ufficio di conciliazione con giurisdizione sul territorio di Rigutino, Ottavo, Vitiano, Frassineto e Puliciano di detto Comune.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 dicembre 1907.   
-  
-VITTORIO EMANUELE.   
-  
-Orlando.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+E' istituito in Rigutino, frazione del comune di Arezzo, un distinto ufficio di conciliazione con giurisdizione sul territorio di Rigutino, Ottavo, Vitiano, Frassineto e Puliciano di detto Comune. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 dicembre 1907. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Orlando. 
+ 
+ Visto, Il guardasigilli: Orlando.

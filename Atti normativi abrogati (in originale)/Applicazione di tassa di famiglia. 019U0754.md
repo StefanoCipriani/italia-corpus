@@ -1,16 +1,13 @@
-DECRETO LUOGOTENENZIALE 03 aprile 1919 n. 754
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 754
+data: 1919-04-03
+titolo: "Applicazione di tassa di famiglia. (019U0754)"
+urn: urn:nir:stato:decreto.luogotenenziale:1919-04-03;754
+codice_redazionale: 019U0754
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 03 aprile 1919 n. 754
-=============================================
-
-Applicazione di tassa di famiglia. (019U0754)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 14/06/1919
-
-Art. 1
-------
-
-  
-N. 754 Decreto Luogotenenziale 3 aprile 1919, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Castellucchio (Mantova) di applicare per il periodo dal 1° gennaio 1918 al 31 dicembre dell'anno successivo a quello in cui sara' pubblicata la pace, la tassa di famiglia col limite massimo di L. 500, secondo la tabella approvata dalla Giunta il 29 dicembre 1918.   
+N. 754 Decreto Luogotenenziale 3 aprile 1919, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Castellucchio (Mantova) di applicare per il periodo dal 1° gennaio 1918 al 31 dicembre dell'anno successivo a quello in cui sara' pubblicata la pace, la tassa di famiglia col limite massimo di L. 500, secondo la tabella approvata dalla Giunta il 29 dicembre 1918.

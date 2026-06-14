@@ -1,16 +1,14 @@
-REGIO DECRETO 22 settembre 1876 n. 3390
-
-
-REGIO DECRETO 22 settembre 1876 n. 3390
-=======================================
-
-Col quale i comuni di Brandico, Longhena e Mairano sono separati dalla sezione elettorale di Bagnolo Mella e formeranno una sezione distinta del collegio elettorale di Leno, n. 79, con la sede a Mairano. (076U3390)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/10/1876
+---
+tipo: REGIO DECRETO
+numero: 3390
+data: 1876-09-22
+titolo: "Col quale i comuni di Brandico, Longhena e Mairano sono separati dalla sezione elettorale di Bagnolo Mella e formeranno una sezione distinta del collegio elettorale di Leno, n. 79, con la sede a Mairano. (076U3390)"
+urn: urn:nir:stato:regio.decreto:1876-09-22;3390
+codice_redazionale: 076U3390
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Brandito, Longhena e Mairano sono separati dalla sezione elettorale di Bagnolo Mella e formeranno una sezione distinta del Collegio elettorale di Leno n. 79, con la sede a Mairano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei mandando a chiunque spetti di decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Pollenzo, addi' 22 settembre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
-  
+I comuni di Brandito, Longhena e Mairano sono separati dalla sezione elettorale di Bagnolo Mella e formeranno una sezione distinta del Collegio elettorale di Leno n. 79, con la sede a Mairano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei mandando a chiunque spetti di decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Pollenzo, addi' 22 settembre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

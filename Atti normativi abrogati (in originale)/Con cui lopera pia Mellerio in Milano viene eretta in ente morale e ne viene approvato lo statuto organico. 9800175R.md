@@ -1,21 +1,17 @@
-REGIO DECRETO 05 giugno 1898 n. CLXXV
+---
+tipo: REGIO DECRETO
+numero: CLXXV
+data: 1898-06-05
+titolo: "Con cui l'opera pia «Mellerio» in Milano viene eretta in ente morale e ne viene approvato lo statuto organico. (9800175R)"
+urn: urn:nir:stato:regio.decreto:1898-06-05;175
+codice_redazionale: 9800175R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 giugno 1898 n. CLXXV
-=====================================
-
-Con cui l'opera pia «Mellerio» in Milano viene eretta in ente morale e ne viene approvato lo statuto organico. (9800175R)
--------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/07/1898
-
-Art. 1
-------
-
-  
-Con cui l'opera pia «Mellerio» in Milano viene eretta in ente morale e ne viene approvato lo statuto organico. - Firmato UMBERTO - Controfirmato Rudini' - Visto T. Bonacci.   
-  
-Registrato alla Corte dei Conti addi' 16 giugno 1898.   
-  
-Reg. 215. Atti del Governo a f. 216.   
-  
+Con cui l'opera pia «Mellerio» in Milano viene eretta in ente morale e ne viene approvato lo statuto organico. - Firmato UMBERTO - Controfirmato Rudini' - Visto T. Bonacci. 
+ 
+ Registrato alla Corte dei Conti addi' 16 giugno 1898. 
+ 
+ Reg. 215. Atti del Governo a f. 216.

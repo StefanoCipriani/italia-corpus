@@ -1,16 +1,14 @@
-REGIO DECRETO 23 novembre 1876 n. 3537
-
-
-REGIO DECRETO 23 novembre 1876 n. 3537
-======================================
-
-Riguardante un'aggiunta all'elenco delle strade provinciali di Rovigo. (076U3537)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/01/1877
+---
+tipo: REGIO DECRETO
+numero: 3537
+data: 1876-11-23
+titolo: "Riguardante un'aggiunta all'elenco delle strade provinciali di Rovigo. (076U3537)"
+urn: urn:nir:stato:regio.decreto:1876-11-23;3537
+codice_redazionale: 076U3537
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -40,23 +38,16 @@ Considerando percio' che essa possiede i caratteri voluti dall'articolo 13, alin
 
 Considerando che eseguite le prescritte pubblicazioni non venne sollevata alcuna opposizione contro la deliberata modificazione dell'elenco delle strade provinciali di Rovigo;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Alla strada da Rovigo ad Ariano, diramazione (a) da Rovigo a Loreo, inscritta al num. 4 dell'elenco, e' aggiunto il successivo tratto arginale per Cavanella di Po a Ca Venier, della lunghezza di metri 18300, alle condizioni stabilite dalla deliberazione del Consiglio provinciale di Rovigo del 1° maggio 1876.   
-  
-Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 novembre 1876.   
-  
-VITTORIO EMAMUELE.   
-  
-G. Zanardelli.   
-  
+Alla strada da Rovigo ad Ariano, diramazione (a) da Rovigo a Loreo, inscritta al num. 4 dell'elenco, e' aggiunto il successivo tratto arginale per Cavanella di Po a Ca Venier, della lunghezza di metri 18300, alle condizioni stabilite dalla deliberazione del Consiglio provinciale di Rovigo del 1° maggio 1876. 
+ 
+ Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 novembre 1876. 
+ 
+ VITTORIO EMAMUELE. 
+ 
+ G. Zanardelli.

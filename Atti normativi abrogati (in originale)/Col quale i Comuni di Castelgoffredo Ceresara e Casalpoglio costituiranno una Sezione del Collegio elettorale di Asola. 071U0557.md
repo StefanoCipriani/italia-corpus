@@ -1,16 +1,14 @@
-REGIO DECRETO 06 dicembre 1871 n. 557
-
-
-REGIO DECRETO 06 dicembre 1871 n. 557
-=====================================
-
-Col quale i Comuni di Castelgoffredo, Ceresara e Casalpoglio costituiranno una Sezione del Collegio elettorale di Asola. (071U0557)
------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/12/1871
+---
+tipo: REGIO DECRETO
+numero: 557
+data: 1871-12-06
+titolo: "Col quale i Comuni di Castelgoffredo, Ceresara e Casalpoglio costituiranno una Sezione del Collegio elettorale di Asola. (071U0557)"
+urn: urn:nir:stato:regio.decreto:1871-12-06;557
+codice_redazionale: 071U0557
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Castelgoffredo, Ceresara e Casalpoglio costituiranno d'ora in poi una sezione del Collegio elettorale d'Asola con sede nel capoluogo del comune di Castelgoffredo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 dicembre 1871.   
-  
-VITTORIO EMANUELE.   
-  
-G. Lanza.   
-  
+I comuni di Castelgoffredo, Ceresara e Casalpoglio costituiranno d'ora in poi una sezione del Collegio elettorale d'Asola con sede nel capoluogo del comune di Castelgoffredo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 dicembre 1871. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Lanza.

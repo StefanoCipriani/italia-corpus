@@ -1,19 +1,15 @@
-REGIO DECRETO 29 gennaio 1905 n. XXXIX
+---
+tipo: REGIO DECRETO
+numero: XXXIX
+data: 1905-01-29
+titolo: "Trasformazione di Monte di pieta' a scopo elemosiniero. (0500039R)"
+urn: urn:nir:stato:regio.decreto:1905-01-29;39
+codice_redazionale: 0500039R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 gennaio 1905 n. XXXIX
-======================================
-
-Trasformazione di Monte di pieta' a scopo elemosiniero. (0500039R)
-------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/04/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. XXXIX (Dato a Roma, il 29 gennaio 1905), col quale e' stato trasformato il fine del Monte di pieta' di Brescello (Reggio Emilia) per devolverne le rendite a favore del ricovero dei cronici, esistente presso l'ospedale infermi di detto Comune.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. XXXIX (Dato a Roma, il 29 gennaio 1905), col quale e' stato trasformato il fine del Monte di pieta' di Brescello (Reggio Emilia) per devolverne le rendite a favore del ricovero dei cronici, esistente presso l'ospedale infermi di detto Comune.

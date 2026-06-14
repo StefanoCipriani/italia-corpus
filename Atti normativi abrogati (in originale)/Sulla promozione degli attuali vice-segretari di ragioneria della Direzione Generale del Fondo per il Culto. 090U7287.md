@@ -1,16 +1,14 @@
-REGIO DECRETO 21 novembre 1890 n. 7287
-
-
-REGIO DECRETO 21 novembre 1890 n. 7287
-======================================
-
-Sulla promozione degli attuali vice-segretari di ragioneria della Direzione Generale del Fondo per il Culto. (090U7287)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/12/1890
+---
+tipo: REGIO DECRETO
+numero: 7287
+data: 1890-11-21
+titolo: "Sulla promozione degli attuali vice-segretari di ragioneria della Direzione Generale del Fondo per il Culto. (090U7287)"
+urn: urn:nir:stato:regio.decreto:1890-11-21;7287
+codice_redazionale: 090U7287
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,27 +24,20 @@ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli af
 
 Sentito il Direttore Generale del Fondo per il Culto;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Gli attuali Vice Segretari di ragioneria della Direzione Generale del Fondo per il Culto provvisti dello stipendio di annue lire 2500, che abbiano almeno dodici anni di servizio utile per la pensione di riposo, e che siano riconosciuti idonei dalla Commissione di cui all'articolo 28 del regolamento approvato col Reale Decreto delli 8 febbraio 1885, potranno essere promossi nell'ordine della rispettiva anzianita' al grado di Segretario con dispensa dalla prova dello esame, nella proporzione del terzo dei posti disponibili.   
-  
-Questa disposizione non pregiudica i diritti dei Vice Segretari gia' abilitati per esame al grado di Segretario.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 novembre 1890.   
-  
-UMBERTO.   
-  
-Zanardelli.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+Gli attuali Vice Segretari di ragioneria della Direzione Generale del Fondo per il Culto provvisti dello stipendio di annue lire 2500, che abbiano almeno dodici anni di servizio utile per la pensione di riposo, e che siano riconosciuti idonei dalla Commissione di cui all'articolo 28 del regolamento approvato col Reale Decreto delli 8 febbraio 1885, potranno essere promossi nell'ordine della rispettiva anzianita' al grado di Segretario con dispensa dalla prova dello esame, nella proporzione del terzo dei posti disponibili. 
+ 
+ Questa disposizione non pregiudica i diritti dei Vice Segretari gia' abilitati per esame al grado di Segretario. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 21 novembre 1890. 
+ 
+ UMBERTO. 
+ 
+ Zanardelli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

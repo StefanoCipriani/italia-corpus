@@ -1,16 +1,14 @@
-REGIO DECRETO 07 agosto 1887 n. 4863
-
-
-REGIO DECRETO 07 agosto 1887 n. 4863
-====================================
-
-Che instituisce un secondo posto di notaro nel comune di Prazzo. (087U4863)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/09/1887
+---
+tipo: REGIO DECRETO
+numero: 4863
+data: 1887-08-07
+titolo: "Che instituisce un secondo posto di notaro nel comune di Prazzo. (087U4863)"
+urn: urn:nir:stato:regio.decreto:1887-08-07;4863
+codice_redazionale: 087U4863
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Veduto il nuovo testo della tabella del numero e della residenza dei notari del 
 
 Ritenuto che sarebbe giustificata la convenienza ed opportunita' di tale istituzione;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un secondo posto di notaro nel Comune di Prazzo distretto del collegio notarile di Cuneo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 agosto 1887.   
-  
-UMBERTO.   
-  
-G. Zanardelli.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+E' istituito un secondo posto di notaro nel Comune di Prazzo distretto del collegio notarile di Cuneo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 agosto 1887. 
+ 
+ UMBERTO. 
+ 
+ G. Zanardelli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 12 aprile 1917 n. 757
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 757
+data: 1917-04-12
+titolo: "Applicazione di tassa di esercizio (017U0757)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-04-12;757
+codice_redazionale: 017U0757
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 12 aprile 1917 n. 757
-=============================================
-
-Applicazione di tassa di esercizio (017U0757)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 07/06/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-757. Decreto Luogotenenziale 12 aprile 1917, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Sacconago (Milano) di applicare la tassa di esercizio nella misura massima di L. 1500 dal 1° gennaio 1917 al 31 dicembre dell'anno in cui cessera' la guerra.
+757.
+
+Decreto Luogotenenziale 12 aprile 1917, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Sacconago (Milano) di applicare la tassa di esercizio nella misura massima di L. 1500 dal 1° gennaio 1917 al 31 dicembre dell'anno in cui cessera' la guerra.

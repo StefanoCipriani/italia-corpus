@@ -1,17 +1,13 @@
-REGIO DECRETO 01 ottobre 1906 n. CCCLXXXV
+---
+tipo: REGIO DECRETO
+numero: CCCLXXXV
+data: 1906-10-01
+titolo: "Estensione di benefici per case operaie. (0600385R)"
+urn: urn:nir:stato:regio.decreto:1906-10-01;385
+codice_redazionale: 0600385R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 ottobre 1906 n. CCCLXXXV
-=========================================
-
-Estensione di benefici per case operaie. (0600385R)
----------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/11/1906
-
-Art. 1
-------
-
-  
-N. CCCLXXXV (Dato a Racconigi, il 1° ottobre 1906), col quale si estendono i benefici della [legge 31 maggio 1903, n. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-05-31;254), alle case costruite nell'anno 1903 Societa' cooperativa per la costruzione di case operaio in Pordenone, sito in via Colombera e distinte in mappa col n. 3474 (gia' l589-C).   
-  
+N. CCCLXXXV (Dato a Racconigi, il 1° ottobre 1906), col quale si estendono i benefici della [legge 31 maggio 1903, n. 254](Sulle%20case%20popolari.%20003U0254.md), alle case costruite nell'anno 1903 Societa' cooperativa per la costruzione di case operaio in Pordenone, sito in via Colombera e distinte in mappa col n. 3474 (gia' l589-C).

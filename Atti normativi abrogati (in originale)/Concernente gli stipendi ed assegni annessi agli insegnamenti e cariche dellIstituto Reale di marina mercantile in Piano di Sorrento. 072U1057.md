@@ -1,16 +1,14 @@
-REGIO DECRETO 21 settembre 1872 n. 1057
-
-
-REGIO DECRETO 21 settembre 1872 n. 1057
-=======================================
-
-Concernente gli stipendi ed assegni annessi agli insegnamenti e cariche dell'Istituto Reale di marina mercantile in Piano di Sorrento. (072U1057)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/11/1872
+---
+tipo: REGIO DECRETO
+numero: 1057
+data: 1872-09-21
+titolo: "Concernente gli stipendi ed assegni annessi agli insegnamenti e cariche dell'Istituto Reale di marina mercantile in Piano di Sorrento. (072U1057)"
+urn: urn:nir:stato:regio.decreto:1872-09-21;1057
+codice_redazionale: 072U1057
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,20 @@ Vista la deliberazione presa dal Consiglio provinciale di Napoli nella tornata d
 
 Udito il Consiglio Superiore dell'Istruzione tecnica;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Gli stipendi ed assegni annessi agli infraindicati insegnamenti e cariche dell'Istituto Reale di marina mercantile in Piano di Sorrento sono fissati come segue: 
+ 
+ Parte di provvedimento in formato grafico
 
-  
-  
-Gli stipendi ed assegni annessi agli infraindicati insegnamenti e cariche dell'Istituto Reale di marina mercantile in Piano di Sorrento sono fissati come segue:   
-  
-Parte di provvedimento in formato grafico  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Tali stipendi ed assegni decorreranno dal 1ª ottobre 1872, ed alla spesa occorrente sara' provveduto coi fondi stanziati nel bilancio passivo del Ministero di Agricoltura, Industria e Commercio, esercizio 1872, capitolo - Istituti tecnici di marina mercantile e Scuole speciali. Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 21 settembre 1872.   
-  
-VITTORIO EMANUELE.   
-  
-Castagnola.   
-  
+Tali stipendi ed assegni decorreranno dal 1ª ottobre 1872, ed alla spesa occorrente sara' provveduto coi fondi stanziati nel bilancio passivo del Ministero di Agricoltura, Industria e Commercio, esercizio 1872, capitolo - Istituti tecnici di marina mercantile e Scuole speciali. Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 21 settembre 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Castagnola.

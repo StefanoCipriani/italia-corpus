@@ -1,30 +1,28 @@
-REGIO DECRETO 17 marzo 1898 n. 97
-
-
-REGIO DECRETO 17 marzo 1898 n. 97
-=================================
-
-Concernente variazioni da portarsi nello stato di previsione della spesa del Ministero del Tesoro, nonche' in quello Dell'Entrata (esercizio 1897-98) per effetto di conversioni di rendita consolidata. (098U0097)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/04/1898
+---
+tipo: REGIO DECRETO
+numero: 97
+data: 1898-03-17
+titolo: "Concernente variazioni da portarsi nello stato di previsione della spesa del Ministero del Tesoro, nonche' in quello Dell'Entrata (esercizio 1897-98) per effetto di conversioni di rendita consolidata. (098U0097)"
+urn: urn:nir:stato:regio.decreto:1898-03-17;97
+codice_redazionale: 098U0097
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto l'art. 1 dell'allegato L alle [leggi 22 luglio 1894, n. 339, e 8 agosto 1895, n. 486](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486), che da' facolta' al Governo di convertire i titoli di debiti dello Stato ivi indicati contro rendita Consolidata 4,50% esente da ritenuta per qualsiasi imposta presente e futura;
+Veduto l'art. 1 dell'allegato L alle [leggi 22 luglio 1894, n. 339, e 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486), che da' facolta' al Governo di convertire i titoli di debiti dello Stato ivi indicati contro rendita Consolidata 4,50% esente da ritenuta per qualsiasi imposta presente e futura;
 
-Veduti gli articoli 3 e 7 dell'allegato L all'[art. 17 della legge 8 agosto 1895, n. 486](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486~art17), dal primo dei quali e' determinata la facolta' nel Ministro del Tesoro di fare conversioni di debiti redimibili a condizioni speciali, e dal secondo e' pure autorizzato il Governo del Re a convertire, a parita' di rendita netta, in certificati di rendita nominativa, non tramutabili in titoli al portatore 4,50% netto, i titoli dei debiti perpetui ivi designati;
+Veduti gli articoli 3 e 7 dell'allegato L all'[art. 17 della legge 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486#art_17), dal primo dei quali e' determinata la facolta' nel Ministro del Tesoro di fare conversioni di debiti redimibili a condizioni speciali, e dal secondo e' pure autorizzato il Governo del Re a convertire, a parita' di rendita netta, in certificati di rendita nominativa, non tramutabili in titoli al portatore 4,50% netto, i titoli dei debiti perpetui ivi designati;
 
-Veduto l'art. 6 dell'allegato L alla [legge 8 agosto 1895, n. 486](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486), predetta, che consente al Ministro del Tesoro di rimborsare, a cominciare coll'esercizio 1895-96 i buoni del Tesoro a lunga scadenza mediante rendita Consolidata 4,50% netto;
+Veduto l'art. 6 dell'allegato L alla [legge 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486), predetta, che consente al Ministro del Tesoro di rimborsare, a cominciare coll'esercizio 1895-96 i buoni del Tesoro a lunga scadenza mediante rendita Consolidata 4,50% netto;
 
-Veduto l'art. 12 comma 2° del regolamento approvato con [R. decreto 21 novembre 1894, n. 516](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-11-21;516), per l'esecuzione dell'allegato L alla ripetuta [legge 22 luglio 1894, n. 339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-22;339);
+Veduto l'art. 12 comma 2° del regolamento approvato con [R. decreto 21 novembre 1894, n. 516](Concernente%20la%20iscrizione%20nel%20Gran%20Libro%20del%20Debito%20pubblico%20delle%20rendite%20dei%20consolidati%204%20e%204.50%20per%20cento%20esenti%20da%20ritenuta.%20094U0516.md), per l'esecuzione dell'allegato L alla ripetuta [legge 22 luglio 1894, n. 339](Che%20approva%20i%20provvedimenti%20finanziari%20094U0339.md);
 
-Vedute le [leggi 22 luglio 1897, n. 299 e 305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-07-22;305) di approvazione degli stati di previsione della spesa del Ministero del Tesoro e dell'Entrata per l'esercizio 1897-98;
+Vedute le [leggi 22 luglio 1897, n. 299 e 305](Approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellEntrata%20per%20lesercizio%20finanziario%201897-98.%20097U0305.md) di approvazione degli stati di previsione della spesa del Ministero del Tesoro e dell'Entrata per l'esercizio 1897-98;
 
 Veduto l'unito prospetto allegato A dimostrativo delle conversioni di titoli dei suaccennati debiti dello Stato in Consolidata 4,50% netto, eseguite durante i trimestri dal 1° luglio al 30 settembre e dal 1° ottobre al 31 dicembre 1897, firmato, d'ordine Nostro, dal Ministro del Tesoro;
 
@@ -70,58 +68,24 @@ Ritenuto che la mentovata rendita Consolidata 4,50% netto e' stata inscritta con
 
 Ritenuto che, a pareggio delle differenze nella scadenza di godimento dei titoli convertiti con la corrispondente rendita Consolidata 4,50% netto, venne provveduto mediante pagamento dei rispettivi prorata della rendita convertita, pel complessivo ammontare lordo di L. 257,529.51;
 
-Ritenuto che, trattandosi di operazioni gia' definitivamente compiute in virtu' delle [leggi 22 luglio 1894, n. 339 e 8 agosto 1895, n. 486](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486), sovracitate, occorre ora di eseguire soltanto le variazioni ai singoli capitoli ed articoli, che ai mentovati debiti si riferiscono, tanto nello stato di previsione della spesa del Ministero del Tesoro, quanto in quello dell'Entrata per l'esercizio 1897-98;
+Ritenuto che, trattandosi di operazioni gia' definitivamente compiute in virtu' delle [leggi 22 luglio 1894, n. 339 e 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486), sovracitate, occorre ora di eseguire soltanto le variazioni ai singoli capitoli ed articoli, che ai mentovati debiti si riferiscono, tanto nello stato di previsione della spesa del Ministero del Tesoro, quanto in quello dell'Entrata per l'esercizio 1897-98;
 
-Avuto presente che della diminuzione di spesa per interessi di buoni del Tesoro a lunga scadenza e di entrata per imposta di R. M. ritenuta sugli interessi medesimi, venne gia' tenuto conto nelle proposte pel bilancio d'assestamento per l'esercizio 1897-98 e per lo stato di previsione del [Ministero del Tesoro 1898-99](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.tesoro::1999;1898);
+Avuto presente che della diminuzione di spesa per interessi di buoni del Tesoro a lunga scadenza e di entrata per imposta di R. M. ritenuta sugli interessi medesimi, venne gia' tenuto conto nelle proposte pel bilancio d'assestamento per l'esercizio 1897-98 e per lo stato di previsione del [Ministero del Tesoro 1898-99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.tesoro::1999;1898);
 
 Ritenuto che alle rimanenti e corrispondenti variazioni per l'esercizio 1898-99 sara' provveduto in sede di assestamento del bilancio di previsione per l'esercizio medesimo;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Per effetto delle conversioni in rendita Consolidata 4,50% netto, dei titoli dei vari debiti perpetui e redimibili dello Stato, eseguite dalla Direzione Generale del Debito Pubblico nel periodo dal 1° luglio al 31 dicembre 1897, di cui nell'unito prospetto (allegato A), saranno introdotte nello stato di previsione della spesa del Ministero del Tesoro, nonche' in quello della Entrata, per l'esercizio 1897-98, ai singoli capitoli ed articoli che si riferiscono ai debiti stessi, le variazioni risultanti dal prospetto (allegato B) che fa parte integrante del presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 17 marzo 1898.   
-  
-UMBERTO.   
-  
-L. Luzzatti.   
-  
-Visto, Il Guardasigilli: G. Zanardelli.   
-  
-
-Allegato A
-
-  
-ALLEGATO A   
-  
-Conversioni di debiti perpetui e redimibili in rendita Consolidata 4,50% netto (semestre 1897-98).   
-  
-PROSPETTO delle conversioni in rendita Consolidata 4,50% netto dei debiti perpetui e redimibili, eseguiti nei trimestri dal 1° luglio al 30 settembre e dal 1° ottobre al 31 dicembre 1897, a norma dell'allegato L alle [leggi 22 luglio 1894 n. 339 e 8 agosto 1895 n. 486](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486).   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=098U009700100010110001&dgu=1898-04-08&art.dataPubblicazioneGazzetta=1898-04-08&art.codiceRedazionale=098U0097)
-  
-
-Allegato B
-
-  
-ALLEGATO B   
-  
-Variazioni da portarsi negli stanziamenti dello stato di previsione della spesa del Ministero del Tesoro per l'esercizio finanziario 1897-98 approvato con la [legge 22 luglio 1897, n. 299](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-07-22;299), per effetto delle conversioni in rendita Consolidata 4,50% netto dei debiti perpetui e redimibili sottoindicati, eseguite nei due trimestri dal 1° luglio al 30 settembre e dal 1° ottobre al 31 dicembre 1897 a norma dell'allegato L alle [leggi 22 luglio 1894, n. 339, e 8 agosto 1895, n. 486](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486).   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=098U009700200010110001&dgu=1898-04-08&art.dataPubblicazioneGazzetta=1898-04-08&art.codiceRedazionale=098U0097)
-  
-  
-Variazioni da portarsi negli stanziamenti dello stato di previsione dell'Entrata per l'esercizio finanziario 1897-98 approvato con la [legge 22 luglio 1897, n. 305](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-07-22;305) in corrispondenza di quelle portate negli stanziamenti dello stato di previsione della spesa del Ministero del Tesoro, per effetto delle conversioni in rendita Consolidata 4,50% netto dei titoli di debiti perpetui e redimibili, eseguite nei due trimestri dal 1° luglio al 30 settembre e dal 1° ottobre al 31 dicembre 1897 a norma dell'allegato L alle [leggi 22 luglio 1894 n. 339 e 8 agosto 1895 n. 486](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486).   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=098U009700200010110002&dgu=1898-04-08&art.dataPubblicazioneGazzetta=1898-04-08&art.codiceRedazionale=098U0097)
-  
+Per effetto delle conversioni in rendita Consolidata 4,50% netto, dei titoli dei vari debiti perpetui e redimibili dello Stato, eseguite dalla Direzione Generale del Debito Pubblico nel periodo dal 1° luglio al 31 dicembre 1897, di cui nell'unito prospetto (allegato A), saranno introdotte nello stato di previsione della spesa del Ministero del Tesoro, nonche' in quello della Entrata, per l'esercizio 1897-98, ai singoli capitoli ed articoli che si riferiscono ai debiti stessi, le variazioni risultanti dal prospetto (allegato B) che fa parte integrante del presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 marzo 1898. 
+ 
+ UMBERTO. 
+ 
+ L. Luzzatti. 
+ 
+ Visto, Il Guardasigilli: G. Zanardelli.

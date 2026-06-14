@@ -1,43 +1,39 @@
-REGIO DECRETO 02 novembre 1906 n. 564
+---
+tipo: REGIO DECRETO
+numero: 564
+data: 1906-11-02
+titolo: "Che convoca il collegio elettorale politico di Codogno (Milano). (006U0564)"
+urn: urn:nir:stato:regio.decreto:1906-11-02;564
+codice_redazionale: 006U0564
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 novembre 1906 n. 564
-=====================================
-
-Che convoca il collegio elettorale politico di Codogno (Milano). (006U0564)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/11/1906
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-per grazia di Dio e per volonta' della Nazione   
-  
-RE D'ITALIA   
-  
-Veduto il Messaggio in data del 29 ottobre 1906, col quale l'Ufficio di presidenza della Camera dei deputati notifico' essere vacante il collegio elettorale di Codogno (Milano);   
-  
-Veduto l'articolo 80 del testo unico della legge elettorale politica, approvato con [R. decreto 28 marzo 1895, n. 83](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-03-28;83);   
-  
-Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del Consiglio dei ministri;   
-  
-Abbiamo decretato e decretiamo:   
-  
-Il Collegio elettorale di Codogno e' convocato pel giorno 25 novembre 1906 affinche' proceda alla elezione del proprio deputato.   
-  
-Occorrendo una seconda votazione, essa avra' luogo il giorno 2 dicembre successivo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 2 novembre 1906.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti.   
-  
-Visto, Il guardasigilli: Gallo.   
-  
+VITTORIO EMANUELE III 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Veduto il Messaggio in data del 29 ottobre 1906, col quale l'Ufficio di presidenza della Camera dei deputati notifico' essere vacante il collegio elettorale di Codogno (Milano); 
+ 
+ Veduto l'articolo 80 del testo unico della legge elettorale politica, approvato con [R. decreto 28 marzo 1895, n. 83](Che%20approva%20il%20testo%20unico%20della%20legge%20elettorale%20politica.%20095U0083.md); 
+ 
+ Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del Consiglio dei ministri; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ Il Collegio elettorale di Codogno e' convocato pel giorno 25 novembre 1906 affinche' proceda alla elezione del proprio deputato. 
+ 
+ Occorrendo una seconda votazione, essa avra' luogo il giorno 2 dicembre successivo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 2 novembre 1906. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti. 
+ 
+ Visto, Il guardasigilli: Gallo.

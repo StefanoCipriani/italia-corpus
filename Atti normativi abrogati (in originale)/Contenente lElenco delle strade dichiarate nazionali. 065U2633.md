@@ -1,16 +1,14 @@
-REGIO DECRETO 17 novembre 1865 n. 2633
-
-
-REGIO DECRETO 17 novembre 1865 n. 2633
-======================================
-
-Contenente l'Elenco delle strade dichiarate nazionali. (065U2633)
------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/01/1866
+---
+tipo: REGIO DECRETO
+numero: 2633
+data: 1865-11-17
+titolo: "Contenente l'Elenco delle strade dichiarate nazionali. (065U2633)"
+urn: urn:nir:stato:regio.decreto:1865-11-17;2633
+codice_redazionale: 065U2633
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,37 +26,22 @@ Udito il parere del Consiglio Superiore de' Lavori pubblici e del Consiglio di S
 
 Ritenuto che per la classificazione delle strade nazionali nelle Isole di Sardegna e di Sicilia e' provveduto colle speciali disposizioni contenute nell'art. 86 della legge medesima;
 
-Sulla
------
+Sulla proposta del Ministro dei Lavori Pubblici; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Ministro dei Lavori Pubblici; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate nazionali le strade indicate nell'elenco annesso al presente Decreto, visto d'ordine Nostro dal Ministro dei Lavori Pubblici.   
-  
-Il predetto Ministro dei Lavori Pubblici e' incaricato dell'esecuzione del presente Decreto, che sara' registrato alla Corte dei conti, pubblicato ed inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia.   
-  
-Dato a Firenze, addi' 17 novembre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 13 dicembre 1865   
-  
-Reg.° 34 Atti del Governo a c. 111. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-S. Jacini.   
-  
-
-Elenco
-
-  
-Elenco delle strade nazionali a senso dell'art. 12 della legge 20 marzo 1865 sulle opere pubbliche.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=065U263300100010110001&dgu=1865-12-18&art.dataPubblicazioneGazzetta=1865-12-18&art.codiceRedazionale=065U2633)
-  
+Sono dichiarate nazionali le strade indicate nell'elenco annesso al presente Decreto, visto d'ordine Nostro dal Ministro dei Lavori Pubblici. 
+ 
+ Il predetto Ministro dei Lavori Pubblici e' incaricato dell'esecuzione del presente Decreto, che sara' registrato alla Corte dei conti, pubblicato ed inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia. 
+ 
+ Dato a Firenze, addi' 17 novembre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 13 dicembre 1865 
+ 
+ Reg.° 34 Atti del Governo a c. 111. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ S. Jacini.

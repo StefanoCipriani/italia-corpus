@@ -1,17 +1,13 @@
-REGIO DECRETO 12 ottobre 1920 n. 1551
+---
+tipo: REGIO DECRETO
+numero: 1551
+data: 1920-10-12
+titolo: "Approvazione di statuto. (020U1551)"
+urn: urn:nir:stato:regio.decreto:1920-10-12;1551
+codice_redazionale: 020U1551
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 ottobre 1920 n. 1551
-=====================================
-
-Approvazione di statuto. (020U1551)
------------------------------------
-
-Entrata in vigore del provvedimento: 02/12/1920
-
-Art. 1
-------
-
-  
-N.1551. Regio decreto 12 ottobre 1920, col quale, sulla proposta del ministro, dell'industria, e' approvato il nuovo statuto organico della Cassa di risparmio di Padova.   
-  
+N.1551. Regio decreto 12 ottobre 1920, col quale, sulla proposta del ministro, dell'industria, e' approvato il nuovo statuto organico della Cassa di risparmio di Padova.

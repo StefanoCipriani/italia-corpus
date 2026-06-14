@@ -1,19 +1,15 @@
-REGIO DECRETO 30 giugno 1907 n. CCLXXXIII
+---
+tipo: REGIO DECRETO
+numero: CCLXXXIII
+data: 1907-06-30
+titolo: "Trasformazione di asilo a scopo elemosiniero. (0700283R)"
+urn: urn:nir:stato:regio.decreto:1907-06-30;283
+codice_redazionale: 0700283R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 giugno 1907 n. CCLXXXIII
-=========================================
-
-Trasformazione di asilo a scopo elemosiniero. (0700283R)
---------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/08/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCLXXXIII (Dato a Roma, il 30 giugno 1907), col quale si dispone la trasformazione degli Asili per la puerizia, in favore degli Asili per l'infanzia, esistenti in Milano.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCLXXXIII (Dato a Roma, il 30 giugno 1907), col quale si dispone la trasformazione degli Asili per la puerizia, in favore degli Asili per l'infanzia, esistenti in Milano.

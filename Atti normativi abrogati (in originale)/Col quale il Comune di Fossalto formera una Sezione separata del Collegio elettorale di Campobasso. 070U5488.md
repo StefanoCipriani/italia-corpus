@@ -1,16 +1,14 @@
-REGIO DECRETO 06 febbraio 1870 n. 5488
-
-
-REGIO DECRETO 06 febbraio 1870 n. 5488
-======================================
-
-Col quale il Comune di Fossalto formera' una Sezione separata del Collegio elettorale di Campobasso. (070U5488)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/03/1870
+---
+tipo: REGIO DECRETO
+numero: 5488
+data: 1870-02-06
+titolo: "Col quale il Comune di Fossalto formera' una Sezione separata del Collegio elettorale di Campobasso. (070U5488)"
+urn: urn:nir:stato:regio.decreto:1870-02-06;5488
+codice_redazionale: 070U5488
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,27 +24,20 @@ Noverandosi nel Comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Fossalto formera' d'ora in poi una Sezione separata del Collegio elettorale di Campobasso, con sede nel capoluogo del Comune stesso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 6 febbraio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 17 febbraio 1870   
-Reg. 50 Atti del Governo a c. 59. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Lanza.   
-  
+Il Comune di Fossalto formera' d'ora in poi una Sezione separata del Collegio elettorale di Campobasso, con sede nel capoluogo del Comune stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 6 febbraio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 17 febbraio 1870 
+ Reg. 50 Atti del Governo a c. 59. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Lanza.

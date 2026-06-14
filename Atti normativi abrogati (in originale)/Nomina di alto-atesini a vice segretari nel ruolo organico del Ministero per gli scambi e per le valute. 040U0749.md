@@ -1,16 +1,14 @@
-REGIO DECRETO 13 maggio 1940 n. 749
-
-
-REGIO DECRETO 13 maggio 1940 n. 749
-===================================
-
-Nomina di alto-atesini a vice segretari nel ruolo organico del Ministero per gli scambi e per le valute. (040U0749)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/08/1940
+---
+tipo: REGIO DECRETO
+numero: 749
+data: 1940-05-13
+titolo: "Nomina di alto-atesini a vice segretari nel ruolo organico del Ministero per gli scambi e per le valute. (040U0749)"
+urn: urn:nir:stato:regio.decreto:1940-05-13;749
+codice_redazionale: 040U0749
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,48 +30,32 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli scambi e per le valute, di concerto con i Ministri Segretari di Stato per l'interno e per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli scambi e per le valute, di concerto con i Ministri Segretari di Stato per l'interno e per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Entro un anno dall'entrata in vigore del presente decreto non piu' di due posti di vice segretario (grado 11°, gruppo A) nel ruolo del personale dell'Amministrazione centrale del Ministero per gli scambi e per le valute possono essere conferiti a giudizio insindacabile del Ministro per gli scambi e per le valute ad alto-atesini che, prescindendo dal limite massimo di eta', siano in possesso del prescritto titolo di studio e degli altri requisiti richiesti per l'appartenenza ai ruoli dell'Amministrazione dello Stato.
 
-  
-  
-Entro un anno dall'entrata in vigore del presente decreto non piu' di due posti di vice segretario (grado 11°, gruppo A) nel ruolo del personale dell'Amministrazione centrale del Ministero per gli scambi e per le valute possono essere conferiti a giudizio insindacabile del Ministro per gli scambi e per le valute ad alto-atesini che, prescindendo dal limite massimo di eta', siano in possesso del prescritto titolo di studio e degli altri requisiti richiesti per l'appartenenza ai ruoli dell'Amministrazione dello Stato.   
+## Art. 2.
 
-Art. 2
-------
+Gli alto-atesini ammessi all'impiego ai sensi del precedente articolo conseguiranno la nomina in ruolo al grado di vice segretario se riconosciuti idonei dal Consiglio di amministrazione al compimento del prescritto periodo di prova. 
+ 
+ Qualora le nomine suddette siano disposte con la medesima decorrenza, il piu' anziano d'eta' avra' la precedenza nel ruolo.
 
-  
-  
-Gli alto-atesini ammessi all'impiego ai sensi del precedente articolo conseguiranno la nomina in ruolo al grado di vice segretario se riconosciuti idonei dal Consiglio di amministrazione al compimento del prescritto periodo di prova.   
-  
-Qualora le nomine suddette siano disposte con la medesima decorrenza, il piu' anziano d'eta' avra' la precedenza nel ruolo.   
-  
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il presente decreto entrera' in vigore il primo giorno del mese successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 maggio 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Riccardi - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 2 luglio 1940-XVIII   
-  
-Atti del Governo, registro 423, foglio 12. - Mancini   
-  
-  
+Il presente decreto entrera' in vigore il primo giorno del mese successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 maggio 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Riccardi - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 2 luglio 1940-XVIII 
+ 
+ Atti del Governo, registro 423, foglio 12. - Mancini

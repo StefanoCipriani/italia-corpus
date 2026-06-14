@@ -1,16 +1,14 @@
-REGIO DECRETO 06 giugno 1940 n. 687
-
-
-REGIO DECRETO 06 giugno 1940 n. 687
-===================================
-
-Autorizzazione al comune di Trecate ad applicare fino al 31 dicembre 1940-XIX le imposte di consumo entro i limiti stabiliti per la classe «G». (040U0687)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/07/1940
+---
+tipo: REGIO DECRETO
+numero: 687
+data: 1940-06-06
+titolo: "Autorizzazione al comune di Trecate ad applicare fino al 31 dicembre 1940-XIX le imposte di consumo entro i limiti stabiliti per la classe «G». (040U0687)"
+urn: urn:nir:stato:regio.decreto:1940-06-06;687
+codice_redazionale: 040U0687
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,22 @@ Vista la deliberazione 3 ottobre 1939-XVIII con la quale il Comune suddetto chie
 
 Udita la Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Trecate e' autorizzato a continuare ad applicare fino al 31 dicembre 1940-XIX le imposte di consumo entro i limiti stabiliti per la classe G.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 giugno 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 26 giugno 1940-XVIII   
-  
-Atti del Governo, registro n. 422, foglio 121. - Mancini   
-  
-  
+Il comune di Trecate e' autorizzato a continuare ad applicare fino al 31 dicembre 1940-XIX le imposte di consumo entro i limiti stabiliti per la classe G. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 giugno 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 26 giugno 1940-XVIII 
+ 
+ Atti del Governo, registro n. 422, foglio 121. - Mancini

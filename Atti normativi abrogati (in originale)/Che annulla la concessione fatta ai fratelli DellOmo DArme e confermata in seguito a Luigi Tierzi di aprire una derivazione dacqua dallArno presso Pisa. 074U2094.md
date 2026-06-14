@@ -1,16 +1,14 @@
-REGIO DECRETO 06 settembre 1874 n. 2094
-
-
-REGIO DECRETO 06 settembre 1874 n. 2094
-=======================================
-
-Che annulla la concessione fatta ai fratelli Dell'Omo D'Arme e confermata in seguito a Luigi Tierzi, di aprire una derivazione d'acqua dall'Arno presso Pisa. (074U2094)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/10/1874
+---
+tipo: REGIO DECRETO
+numero: 2094
+data: 1874-09-06
+titolo: "Che annulla la concessione fatta ai fratelli Dell'Omo D'Arme e confermata in seguito a Luigi Tierzi, di aprire una derivazione d'acqua dall'Arno presso Pisa. (074U2094)"
+urn: urn:nir:stato:regio.decreto:1874-09-06;2094
+codice_redazionale: 074U2094
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,23 +26,14 @@ Ritenuto che con l'attuazione del progetto succitato il cavo concesso viene ad e
 
 Ritenuto che giusta la riservi presa nei succitati atti 28 ottobre 1847 e 13 aprile 1858, e in principal modo all'art. 10 delle condizioni, e' il caso di annullare la fatta concessione a favore prima dei fratelli Dell'Omo d'Arme, poscia di Luigi Tierzi;
 
-Udito
------
+Udito l'avviso del Consiglio di Stato, Abbiamo decretato e decretiamo:
 
-l'avviso del Consiglio di Stato, Abbiamo decretato e decretiamo:
+## Articolo unico. — null
 
-Articolo unico
---------------
-
-null
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi a dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Data a Valsavaranche, addi' 6 settembre 1874.   
-  
-VITTORIO EMANUELE.   
-  
-M. Minghetti.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi a dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Data a Valsavaranche, addi' 6 settembre 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. Minghetti.

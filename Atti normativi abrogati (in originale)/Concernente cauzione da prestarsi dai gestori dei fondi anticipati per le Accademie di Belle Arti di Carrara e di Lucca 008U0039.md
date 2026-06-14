@@ -1,22 +1,20 @@
-REGIO DECRETO 23 gennaio 1908 n. 39
-
-
-REGIO DECRETO 23 gennaio 1908 n. 39
-===================================
-
-Concernente cauzione da prestarsi dai gestori dei fondi anticipati per le Accademie di Belle Arti di Carrara e di Lucca (008U0039)
-----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/03/1908
+---
+tipo: REGIO DECRETO
+numero: 39
+data: 1908-01-23
+titolo: "Concernente cauzione da prestarsi dai gestori dei fondi anticipati per le Accademie di Belle Arti di Carrara e di Lucca (008U0039)"
+urn: urn:nir:stato:regio.decreto:1908-01-23;39
+codice_redazionale: 008U0039
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'[art. 65 della legge 17 febbraio 1884, n. 2016](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-02-17;2016~art65), sull'amministrazione e sulla contabilita' generale dello Stato;
+Visto l'[art. 65 della legge 17 febbraio 1884, n. 2016](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-02-17;2016#art_65), sull'amministrazione e sulla contabilita' generale dello Stato;
 
 Visti gli articoli 229 e 231 del regolamento approvato con Nostro decreto in data 4 maggio 1885, n. 3074 (serie 3ª);
 
@@ -24,33 +22,22 @@ Considerata l'opportunita' di stabilire per il gerente dei fondi assegnati al R.
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La cauzione da prestarsi dal gestore dei fondi anticipati dal Ministero della pubblica istruzione pel R. Istituto di Belle Arti in Lucca e' fissata in L. 50.
 
-  
-  
-La cauzione da prestarsi dal gestore dei fondi anticipati dal Ministero della pubblica istruzione pel R. Istituto di Belle Arti in Lucca e' fissata in L. 50.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-La cauzione sara' data mediante deposito in danaro, o in cartella di rendita dello Stato vincolata a favore dell'erario e valutata secondo le disposizioni di cui all'art. 231 del regolamento di contabilita' generale dello Stato.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 gennaio 1908.   
-  
-VITTORIO EMANUELE.   
-  
-Rava.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+La cauzione sara' data mediante deposito in danaro, o in cartella di rendita dello Stato vincolata a favore dell'erario e valutata secondo le disposizioni di cui all'art. 231 del regolamento di contabilita' generale dello Stato. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 gennaio 1908. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Rava. 
+ 
+ Visto, Il guardasigilli: Orlando.

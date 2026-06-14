@@ -1,18 +1,20 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 17 febbraio 1947 n. 310
+---
+tipo: DECRETO DEL CAPO PROVVISORIO DELLO STATO
+numero: 310
+data: 1947-02-17
+titolo: "Erezione In ente morale della fondazione \"Tenente pilota Niccolo' Piccolomini\", con sede in Pienza (Siena)."
+urn: urn:nir:stato:decreto.del.capo.provvisorio.dello.stato:1947-02-17;310
+codice_redazionale: 047U0310
+vigente: true
+---
 
-
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 17 febbraio 1947 n. 310
-================================================================
-
-Erezione In ente morale della fondazione "Tenente pilota Niccolo' Piccolomini", con sede in Pienza (Siena).
------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-310. Decreto del Capo provvisorio dello Stato 17 febbraio 1947, col quale, sulla proposta del Ministro per l'interno, la fondazione "Tenente pilota Niccolo' Piccolomini", con sede in Pienza (Siena), viene eretta in ente morale, sotto amministrazione autonoma e ne viene approvato il relativo statuto organico.  
-  
-Visto, il Guardasigilli: GULLO  
-Registrato alla Corte dei Conti, addi' 2 maggio 1947
+310.
+
+Decreto del Capo provvisorio dello Stato 17 febbraio 1947, col quale, sulla proposta del Ministro per l'interno, la fondazione "Tenente pilota Niccolo' Piccolomini", con sede in Pienza (Siena), viene eretta in ente morale, sotto amministrazione autonoma e ne viene approvato il relativo statuto organico.
+
+Visto, il Guardasigilli: GULLO
+ Registrato alla Corte dei Conti, addi' 2 maggio 1947

@@ -1,21 +1,17 @@
-REGIO DECRETO 08 settembre 1904 n. CCCLXXXIX
+---
+tipo: REGIO DECRETO
+numero: CCCLXXXIX
+data: 1904-09-08
+titolo: "Col quale il legato Ricciardi e' eretto in ente morale e concentrato nella congregazione di carita' di Napoli. (0400389R)"
+urn: urn:nir:stato:regio.decreto:1904-09-08;389
+codice_redazionale: 0400389R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 settembre 1904 n. CCCLXXXIX
-============================================
-
-Col quale il legato Ricciardi e' eretto in ente morale e concentrato nella congregazione di carita' di Napoli. (0400389R)
--------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/10/1904
-
-Art. 1
-------
-
-  
-Col quale il legato Ricciardi e' eretto in ente morale e concentrato nella congregazione di carita' di Napoli. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 7 ottobre 1904.   
-  
-Reg. 19. Atti del Governo a f. 15.   
-  
+Col quale il legato Ricciardi e' eretto in ente morale e concentrato nella congregazione di carita' di Napoli. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 7 ottobre 1904. 
+ 
+ Reg. 19. Atti del Governo a f. 15.

@@ -1,22 +1,20 @@
-REGIO DECRETO 27 gennaio 1936 n. 218
-
-
-REGIO DECRETO 27 gennaio 1936 n. 218
-====================================
-
-Abrogazione del R. decreto 4 gennaio 1920, n. 12, che stabilisce norme per l'annullamento delle punizioni inflitte ai sottufficiali e militari di truppa dell'Arma dei carabinieri Reali ed estensione agli stessi delle disposizioni del regolamento per i documenti caratteristici approvato con R. decreto 30 agosto 1934-XII. (036U0218)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/03/1936
+---
+tipo: REGIO DECRETO
+numero: 218
+data: 1936-01-27
+titolo: "Abrogazione del R. decreto 4 gennaio 1920, n. 12, che stabilisce norme per l'annullamento delle punizioni inflitte ai sottufficiali e militari di truppa dell'Arma dei carabinieri Reali ed estensione agli stessi delle disposizioni del regolamento per i documenti caratteristici approvato con R. decreto 30 agosto 1934-XII. (036U0218)"
+urn: urn:nir:stato:regio.decreto:1936-01-27;218
+codice_redazionale: 036U0218
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 4 gennaio 1920, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-04;12), che stabilisce norme circa l'annullamento delle punizioni inflitte ai sottufficiali e militari di truppa dell'Arma dei carabinieri Reali;
+Visto il [R. decreto 4 gennaio 1920, n. 12](Che%20stabilisce%20norme%20circa%20lannullamento%20delle%20punizioni%20inflitte%20ai%20sottufficiali%20e%20militari%20di%20truppa%20dellarma%20dei%20carabinieri%20Reali.%20020U0012.md), che stabilisce norme circa l'annullamento delle punizioni inflitte ai sottufficiali e militari di truppa dell'Arma dei carabinieri Reali;
 
 Visto il R. decreto 10 luglio 1930-VIII, n. 1033, che modifica il regolamento sullo stato dei sottufficiali del Regio esercito, approvato con decreto 31 gennaio 1907, n. 145;
 
@@ -32,38 +30,29 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' abrogato il [R. decreto 4 gennaio 1920, n. 12](Che%20stabilisce%20norme%20circa%20lannullamento%20delle%20punizioni%20inflitte%20ai%20sottufficiali%20e%20militari%20di%20truppa%20dellarma%20dei%20carabinieri%20Reali.%20020U0012.md), che stabilisce norme circa l'annullamento delle punizioni inflitte ai sottufficiali e militari di truppa dell'Arma dei carabinieri Reali.
 
-  
-  
-E' abrogato il [R. decreto 4 gennaio 1920, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-01-04;12), che stabilisce norme circa l'annullamento delle punizioni inflitte ai sottufficiali e militari di truppa dell'Arma dei carabinieri Reali.   
-  
-
-Art. 2
-------
+## Art. 2.
 
 Art
 
-2. 
-  
-  
-Ai sottufficiali e militari di truppa dell'Arma dei carabinieri Reali sono applicabili le disposizioni del regolamento per i documenti caratteristici approvato con R. decreto 30 agosto 1934-XII.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 gennaio 1936 - Anno XIV   
-  
-Vittorio Emanuele.   
-  
-Mussolini.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 20 febbraio 1936 - Anno XIV   
-Atti del Governo, registro 369, foglio 96. - Mancini.
+2.
+
+Ai sottufficiali e militari di truppa dell'Arma dei carabinieri Reali sono applicabili le disposizioni del regolamento per i documenti caratteristici approvato con R. decreto 30 agosto 1934-XII. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 gennaio 1936 - Anno XIV 
+ 
+ Vittorio Emanuele. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 20 febbraio 1936 - Anno XIV  
+ Atti del Governo, registro 369, foglio 96. - Mancini.

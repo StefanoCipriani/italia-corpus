@@ -1,16 +1,14 @@
-REGIO DECRETO 16 aprile 1914 n. 364
-
-
-REGIO DECRETO 16 aprile 1914 n. 364
-===================================
-
-Col quale la «Societa' elettrica bresciana» e' autorizzata ad esercitare, anche a trazione elettrica, la diramazione Tormini- Vestone della tramvia Brescia-Salo-Toscolano. (014U0364)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/05/1914
+---
+tipo: REGIO DECRETO
+numero: 364
+data: 1914-04-16
+titolo: "Col quale la «Societa' elettrica bresciana» e' autorizzata ad esercitare, anche a trazione elettrica, la diramazione Tormini- Vestone della tramvia Brescia-Salo-Toscolano. (014U0364)"
+urn: urn:nir:stato:regio.decreto:1914-04-16;364
+codice_redazionale: 014U0364
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,37 +22,26 @@ Vista l'istanza ed il relativo progetto in data 20 gennaio 1913, con cui la dett
 
 Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili approvato con Nostro decreto 9 maggio 1912, n. 1447, nonche' il regolamento pure approvato con Nostro decreto 17 giugno 1900, n. 306;
 
-Ritenuto che ai sensi della [legge 15 luglio 1909, n. 524](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-15;524), deve essere stabilito nell'atto di concessione il contributo annuo chilometrico per le spese di sorveglianza governativa, e tale contributo puo' determinarsi in L. 50 a chilometro per la linea in oggetto del presente decreto;
+Ritenuto che ai sensi della [legge 15 luglio 1909, n. 524](Coordinamento%20in%20testo%20unico%20delle%20disposizioni%20vigenti%20per%20le%20ferrorie%20concesse%20allindustria%20privata%20le%20tranvie%20e%20le%20automobili%20in%20servizio%20pubblico.%20009U0524.md), deve essere stabilito nell'atto di concessione il contributo annuo chilometrico per le spese di sorveglianza governativa, e tale contributo puo' determinarsi in L. 50 a chilometro per la linea in oggetto del presente decreto;
 
 Sentito il Consiglio superiore dei lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Alla Societa' elettrica bresciana e' accordata la concessione di esercitare, anche a trazione elettrica, la diramazione Tormini-Vestone della tramvia Brescia-Salo-Toscolano, in base al progetto in data 20 gennaio 1913 e subordinatamente alle avvertenze contenute nel voto 28 dicembre 1913, n. 2120, del Consiglio superiore dei lavori pubblici.
 
-  
-  
-Alla Societa' elettrica bresciana e' accordata la concessione di esercitare, anche a trazione elettrica, la diramazione Tormini-Vestone della tramvia Brescia-Salo-Toscolano, in base al progetto in data 20 gennaio 1913 e subordinatamente alle avvertenze contenute nel voto 28 dicembre 1913, n. 2120, del Consiglio superiore dei lavori pubblici.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-La presente autorizzazione e' subordinata all'osservanza delle leggi e del regolamento sopracitati, del disciplinare 4 marzo 1914, firmato dal legale rappresentante della Societa' suddetta, e delle condizioni contenute nelle premesse del presente decreto circa la tassa di sorveglianza, nonche' delle speciali prescrizioni di sicurezza ritenute necessarie all'atto della visita di ricognizione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 aprile 1914.   
-  
-VITTORIO EMANUELE.   
-  
-CIUFFELLI.   
-  
-Visto, Il guardasigilli: DARI.   
-  
+La presente autorizzazione e' subordinata all'osservanza delle leggi e del regolamento sopracitati, del disciplinare 4 marzo 1914, firmato dal legale rappresentante della Societa' suddetta, e delle condizioni contenute nelle premesse del presente decreto circa la tassa di sorveglianza, nonche' delle speciali prescrizioni di sicurezza ritenute necessarie all'atto della visita di ricognizione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 aprile 1914. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ CIUFFELLI. 
+ 
+ Visto, Il guardasigilli: DARI.

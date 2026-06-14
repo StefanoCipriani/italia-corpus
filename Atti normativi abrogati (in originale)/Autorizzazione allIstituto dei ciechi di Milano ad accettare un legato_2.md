@@ -1,18 +1,21 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 27 luglio 1947 n. 1168
+---
+tipo: DECRETO DEL CAPO PROVVISORIO DELLO STATO
+numero: 803
+data: 1946-12-22
+titolo: "Autorizzazione all'Istituto dei ciechi di Milano ad accettare un legato."
+urn: urn:nir:stato:decreto.del.capo.provvisorio.dello.stato:1946-12-22;803
+codice_redazionale: 046U0803
+vigente: true
+---
 
-
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 27 luglio 1947 n. 1168
-===============================================================
-
-Autorizzazione all'Istituto dei ciechi di Milano ad accettare un legato.
-------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1168. Decreto del Capo provvisorio dello Stato 27 luglio 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, l'istituto dei ciechi di Milano viene autorizzato ad accettare un legato di lire centomila disposto in suo favore dal defunto signor Michele Rosenfeld fu Simone con atto pubblico in data 21 agosto 1946.  
-  
-Visto, il Guardasigilli: GRASSI  
-Registrato alla Corte dei Conti, addi' 29 ottobre 1947
+803.
+
+Decreto del Capo provvisorio dello Stato 22 dicembre 1946, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto dei ciechi di Milano viene autorizzato ad accettare un legato di L. 50.000 disposto in suo favore dal defunto dott.
+ prof. Cesare Pezzi con atto pubblico in data 16 agosto 1945.
+
+Visto, il Guardasigilli: GULLO
+ Registrato alla Corte dei Conti, addi' 13 maggio 1947

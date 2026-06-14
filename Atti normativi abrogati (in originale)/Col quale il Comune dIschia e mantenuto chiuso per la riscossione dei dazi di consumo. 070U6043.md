@@ -1,16 +1,14 @@
-REGIO DECRETO 16 novembre 1870 n. 6043
-
-
-REGIO DECRETO 16 novembre 1870 n. 6043
-======================================
-
-Col quale il Comune d'Ischia e' mantenuto chiuso per la riscossione dei dazi di consumo. (070U6043)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/12/1870
+---
+tipo: REGIO DECRETO
+numero: 6043
+data: 1870-11-16
+titolo: "Col quale il Comune d'Ischia e' mantenuto chiuso per la riscossione dei dazi di consumo. (070U6043)"
+urn: urn:nir:stato:regio.decreto:1870-11-16;6043
+codice_redazionale: 070U6043
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Vista la domanda 25 ottobre p. p. del Comune di Ischia, colla quale invoca di co
 
 Veduta la Legge 3 luglio 1864;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' mantenuto al Comune d'Ischia, appartenente alla quarta classe, la qualifica di chiuso per la riscossione dei dazi di consumo.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 16 novembre 1870   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 23 novembre 1870.   
-  
-Reg. 53 Atti del Governo a.c. 63. Crodara Visconti.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-Quintino Sella.   
-  
+E' mantenuto al Comune d'Ischia, appartenente alla quarta classe, la qualifica di chiuso per la riscossione dei dazi di consumo. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 16 novembre 1870 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 23 novembre 1870. 
+ 
+ Reg. 53 Atti del Governo a.c. 63. Crodara Visconti. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ Quintino Sella.

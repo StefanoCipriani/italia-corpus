@@ -1,16 +1,14 @@
-REGIO DECRETO 02 febbraio 1939 n. 437
-
-
-REGIO DECRETO 02 febbraio 1939 n. 437
-=====================================
-
-Autorizzazione al comune di Azzano Decimo ad applicare fino al 31 dicembre 1939 le imposte di consumo con la tariffa stabilita per i comuni di classe G. (039U0437)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/03/1939
+---
+tipo: REGIO DECRETO
+numero: 437
+data: 1939-02-02
+titolo: "Autorizzazione al comune di Azzano Decimo ad applicare fino al 31 dicembre 1939 le imposte di consumo con la tariffa stabilita per i comuni di classe G. (039U0437)"
+urn: urn:nir:stato:regio.decreto:1939-02-02;437
+codice_redazionale: 039U0437
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,22 @@ Vista la domanda avanzata dal comune di Azzano Decimo per avvalersi delle dispos
 
 Visto il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Azzano Decimo e' autorizzato ad applicare, fino al 31 dicembre 1930 le imposte di consumo in base alla tariffa stabilita per i comuni di classe G.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 febbraio 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 8 marzo 1939-XVII   
-  
-Atti del Governo, registro 407, foglio 23. - Mancini.   
+Il comune di Azzano Decimo e' autorizzato ad applicare, fino al 31 dicembre 1930 le imposte di consumo in base alla tariffa stabilita per i comuni di classe G. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 febbraio 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 8 marzo 1939-XVII 
+ 
+ Atti del Governo, registro 407, foglio 23. - Mancini.

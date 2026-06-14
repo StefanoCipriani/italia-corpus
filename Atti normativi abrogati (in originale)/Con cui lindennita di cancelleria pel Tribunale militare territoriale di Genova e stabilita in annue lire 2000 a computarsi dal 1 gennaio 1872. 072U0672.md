@@ -1,16 +1,14 @@
-REGIO DECRETO 21 gennaio 1872 n. 672
-
-
-REGIO DECRETO 21 gennaio 1872 n. 672
-====================================
-
-Con cui l'indennita' di cancelleria pel Tribunale militare territoriale di Genova e' stabilita in annue lire 2,000 a computarsi dal 1° gennaio 1872. (072U0672)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/03/1872
+---
+tipo: REGIO DECRETO
+numero: 672
+data: 1872-01-21
+titolo: "Con cui l'indennita' di cancelleria pel Tribunale militare territoriale di Genova e' stabilita in annue lire 2,000 a computarsi dal 1° gennaio 1872. (072U0672)"
+urn: urn:nir:stato:regio.decreto:1872-01-21;672
+codice_redazionale: 072U0672
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,22 @@ Visto il Regio Decreto in data 25 gennaio 1870, con cui vennero fissate le inden
 
 Vista l'esperimentata insufficienza della somma di lire 1200, all'uopo fissata col Regio Decreto succitato pel Tribunale militare territoriale di Genova, dacche' si deve con essa provvedere eziandio all'istruzione dei processi pel 1º Dipartimento marittimo;
 
-Sulla
------
+Sulla proposta del Nostro Ministro della Guerra; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro della Guerra; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 L'indennita' di cancelleria pel Tribunale militare territoriale di Genova, gia' fissata in lire 1200, e' stabilita in annue lire duemila, da computarsi dal 1° gennaio
 
-1872. 
-  
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 21 gennaio 1872.   
-  
-Registrato alla Corte dei conti addi' 9 febbraio 1872.   
-  
-Reg. 59 atti del Governo a c. 111. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli. De Falco.   
-  
-Ricotti.
+1872.
+
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 21 gennaio 1872. 
+ 
+ Registrato alla Corte dei conti addi' 9 febbraio 1872. 
+ 
+ Reg. 59 atti del Governo a c. 111. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli. De Falco. 
+ 
+ Ricotti.

@@ -1,16 +1,14 @@
-REGIO DECRETO 26 luglio 1865 n. 2427
-
-
-REGIO DECRETO 26 luglio 1865 n. 2427
-====================================
-
-Che autorizza l'iscrizione nel Gran Libro del Debito pubblico di una rendita di L. 30,250 a favore della Cassa Ecclesiastica. (065U2427)
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/09/1865
+---
+tipo: REGIO DECRETO
+numero: 2427
+data: 1865-07-26
+titolo: "Che autorizza l'iscrizione nel Gran Libro del Debito pubblico di una rendita di L. 30,250 a favore della Cassa Ecclesiastica. (065U2427)"
+urn: urn:nir:stato:regio.decreto:1865-07-26;2427
+codice_redazionale: 065U2427
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,45 +24,30 @@ Ritenuto che un successivo versamento di lire seicento sei mila duecento sessant
 
 Ritenuto che per le norme vigenti sul Debito pubblico la rendita da inscriversi in corrispettivo del versamento suddetto deve avere il godimento dell'intiero semestre in corso, vale a dire dal 1.° luglio 1865, non ostante che il detto versamento abbia avuto luogo quattordici giorni dopo il principio dell'indicata epoca, e che a compensazione di tale differenza una parte proporzionale del capitale versato (cioe' L. 1,260. 42) deve considerarsi come dovuto a rifusione degl'interessi per la prima quindicina del mese di luglio 1865, residuando cosi' il capitale convertibile in rendita a sole L. 605,000;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' autorizzata l'iscrizione nel Gran Libro del Debito pubblico, in aumento al consolidato 5 p. %, di una rendita di lire trenta mila duecento cinquanta (L. 30,250) con decorrenza di godimento dal 1.° luglio 1865.
 
-  
-  
-E' autorizzata l'iscrizione nel Gran Libro del Debito pubblico, in aumento al consolidato 5 p. %, di una rendita di lire trenta mila duecento cinquanta (L. 30,250) con decorrenza di godimento dal 1.° luglio 1865.   
-  
+## Art. 2.
 
-Art. 2
-------
+Per tale rendita sara' emesso dalla Direzione Generale del Debito pubblico corrispondente Certificato in favore dell'Amministrazione della Cassa Ecclesiastica dello Stato.
 
-  
-  
-Per tale rendita sara' emesso dalla Direzione Generale del Debito pubblico corrispondente Certificato in favore dell'Amministrazione della Cassa Ecclesiastica dello Stato.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Pel servizio della rendita, di cui agli articoli precedenti, e' fatta sulla Tesoreria centrale del Regno, cominciando dal 1.° luglio 1865 l'annua assegnazione di L. 30,250.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 26 luglio 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 4 agosto 1865   
-  
-Reg.° 33 Atti del Governo a c. 113. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-Quintino Sella.   
-  
+Pel servizio della rendita, di cui agli articoli precedenti, e' fatta sulla Tesoreria centrale del Regno, cominciando dal 1.° luglio 1865 l'annua assegnazione di L. 30,250. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 26 luglio 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 4 agosto 1865 
+ 
+ Reg.° 33 Atti del Governo a c. 113. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ Quintino Sella.

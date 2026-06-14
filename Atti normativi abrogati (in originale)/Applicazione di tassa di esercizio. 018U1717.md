@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 22 settembre 1918 n. 1717
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1717
+data: 1918-09-22
+titolo: "Applicazione di tassa di esercizio. (018U1717)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-09-22;1717
+codice_redazionale: 018U1717
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 22 settembre 1918 n. 1717
-=================================================
-
-Applicazione di tassa di esercizio. (018U1717)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 20/12/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1717. Decreto Luogotenenziale 22 settembre 1918, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Lumezzane Sant'Apollonio (Brescia) di applicare dal 1° gennaio 1917 al 31 dicembre dell'anno in cui cessera' la guerra la tassa di esercizio col limite massimo di L 2000.
+1717.
+
+Decreto Luogotenenziale 22 settembre 1918, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Lumezzane Sant'Apollonio (Brescia) di applicare dal 1° gennaio 1917 al 31 dicembre dell'anno in cui cessera' la guerra la tassa di esercizio col limite massimo di L 2000.

@@ -1,16 +1,14 @@
-REGIO DECRETO 04 agosto 1895 n. 598
-
-
-REGIO DECRETO 04 agosto 1895 n. 598
-===================================
-
-Che approva il ruolo organico delle biblioteche pubbliche governative. (095U0598)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/10/1895
+---
+tipo: REGIO DECRETO
+numero: 598
+data: 1895-08-04
+titolo: "Che approva il ruolo organico delle biblioteche pubbliche governative. (095U0598)"
+urn: urn:nir:stato:regio.decreto:1895-08-04;598
+codice_redazionale: 095U0598
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,45 +18,26 @@ Veduto il regolamento per le biblioteche pubbliche governative, approvato col No
 
 Visto il ruolo organico delle biblioteche stesse, approvato col Nostro decreto 19 giugno 1890, n. 7265 e modificato con gli altri Nostri decreti 2 luglio e 2 novembre 1891 nn. 428 e 707;
 
-Vista la [legge 1 agosto 1895, n. 461](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-01;461), che approva il bilancio della spesa del Ministero della Pubblica Istruzione, per l'esercizio finanziario 1895-96;
+Vista la [legge 1 agosto 1895, n. 461](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20per%20lesercizio%20finanziario%201895-96%20del%20Ministero%20dellIstruzione%20Pubblica.%20095U0461.md), che approva il bilancio della spesa del Ministero della Pubblica Istruzione, per l'esercizio finanziario 1895-96;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvato il ruolo organico delle biblioteche pubbliche governative conforme alla tabella annessa al presente decreto e firmata, d'ordine Nostro, dal Ministro predetto.
 
-  
-  
-E' approvato il ruolo organico delle biblioteche pubbliche governative conforme alla tabella annessa al presente decreto e firmata, d'ordine Nostro, dal Ministro predetto.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Per la prima applicazione del nuovo ruolo organico si potra' derogare alle disposizioni che regolano le nomine, le promozioni ed i passaggi di categoria degl'impiegati.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 agosto 1895.   
-  
-UMBERTO.   
-  
-G. Baccelli.   
-  
-Visto, Il Guardasigilli: V. Calenda di Tavani.   
-  
-
-Tabella
-
-  
-Ruolo organico delle Biblioteche pubbliche governative.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=095U059800100010110001&dgu=1895-10-07&art.dataPubblicazioneGazzetta=1895-10-07&art.codiceRedazionale=095U0598)
-  
+Per la prima applicazione del nuovo ruolo organico si potra' derogare alle disposizioni che regolano le nomine, le promozioni ed i passaggi di categoria degl'impiegati. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 agosto 1895. 
+ 
+ UMBERTO. 
+ 
+ G. Baccelli. 
+ 
+ Visto, Il Guardasigilli: V. Calenda di Tavani.

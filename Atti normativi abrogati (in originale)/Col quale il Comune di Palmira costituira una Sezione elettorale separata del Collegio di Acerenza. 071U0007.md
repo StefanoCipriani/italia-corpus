@@ -1,16 +1,14 @@
-REGIO DECRETO 13 gennaio 1871 n. 7
-
-
-REGIO DECRETO 13 gennaio 1871 n. 7
-==================================
-
-Col quale il Comune di Palmira costituira' una Sezione elettorale separata del Collegio di Acerenza. (071U0007)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/02/1871
+---
+tipo: REGIO DECRETO
+numero: 7
+data: 1871-01-13
+titolo: "Col quale il Comune di Palmira costituira' una Sezione elettorale separata del Collegio di Acerenza. (071U0007)"
+urn: urn:nir:stato:regio.decreto:1871-01-13;7
+codice_redazionale: 071U0007
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Palmira costituira' d'ora in poi una Sezione elettorale separata, con sede nel capoluogo del Comune stesso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 13 gennaio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 21 gennaio 1871   
-  
-Reg. 54 Atti del Governo a c. 76. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Lanza.   
-  
+Il Comune di Palmira costituira' d'ora in poi una Sezione elettorale separata, con sede nel capoluogo del Comune stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 13 gennaio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 21 gennaio 1871 
+ 
+ Reg. 54 Atti del Governo a c. 76. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Lanza.

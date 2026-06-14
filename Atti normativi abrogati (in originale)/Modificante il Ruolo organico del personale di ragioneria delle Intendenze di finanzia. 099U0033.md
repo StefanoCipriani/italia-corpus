@@ -1,16 +1,14 @@
-REGIO DECRETO 26 gennaio 1899 n. 33
-
-
-REGIO DECRETO 26 gennaio 1899 n. 33
-===================================
-
-Modificante il Ruolo organico del personale di ragioneria delle Intendenze di finanzia. (099U0033)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/02/1899
+---
+tipo: REGIO DECRETO
+numero: 33
+data: 1899-01-26
+titolo: "Modificante il Ruolo organico del personale di ragioneria delle Intendenze di finanzia. (099U0033)"
+urn: urn:nir:stato:regio.decreto:1899-01-26;33
+codice_redazionale: 099U0033
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,37 +18,30 @@ Visto il Ruolo organico del personale di ragioneria delle Intendenze di Finanza,
 
 Visto l'altro Nostro decreto 29 agosto 1897, n. 512, che approva il Regolamento per il personale degli Uffici finanziari, col quale, in applicazione degli articoli 21, 44 lettera e e 284, il personale di ragioneria del Catasto e dei Canali Cavour viene passato nel personale di ragioneria delle Intendenze di Finanza e cosi' dalla dipendenza del Ministero delle Finanze a quella del Ministero del Tesoro;
 
-Vista la [legge 22 gennaio 1899, n. 7](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1899-01-22;7), che approva lo stato di previsione della spesa del Ministero del Tesoro per l'esercizio finanziario 1898-99;
+Vista la [legge 22 gennaio 1899, n. 7](Che%20approva%20gli%20stati%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20Tesoro%20per%20lesercizio%20finanziario%201898-99.%20099U0007.md), che approva lo stato di previsione della spesa del Ministero del Tesoro per l'esercizio finanziario 1898-99;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al ruolo organico del personale di ragioneria delle Intendenze di Finanza, approvato col succitato Nostro decreto 3 gennaio 1895, n. 1, sono aggiunti dal 1° gennaio 1899:   
-  
-N. 4 posti di segretario di 1ª classe con lo stipendio di annue L. 3500.   
-  
-N. 3 posti di segretario di 2ª classe con lo stipendio di annue L. 3000.   
-  
-N. 1 posto di vice segretario di 1ª classe con lo stipendio di annue L. 2500.   
-  
-N. 2 posti di vice segretario di 2ª classe con lo stipendio di annue L. 2000.   
-  
-N. 1 posto di vice segretario di 3ª classe con lo stipendio di annue L. 1500.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Roma, addi' 26 gennaio 1899.   
-  
-UMBERTO.   
-  
-Vacchelli.   
-  
-Visto, Il Guardasigilli: C. Finocchiaro-Aprile.   
-  
+Al ruolo organico del personale di ragioneria delle Intendenze di Finanza, approvato col succitato Nostro decreto 3 gennaio 1895, n. 1, sono aggiunti dal 1° gennaio 1899: 
+ 
+ N. 4 posti di segretario di 1ª classe con lo stipendio di annue L. 3500. 
+ 
+ N. 3 posti di segretario di 2ª classe con lo stipendio di annue L. 3000. 
+ 
+ N. 1 posto di vice segretario di 1ª classe con lo stipendio di annue L. 2500. 
+ 
+ N. 2 posti di vice segretario di 2ª classe con lo stipendio di annue L. 2000. 
+ 
+ N. 1 posto di vice segretario di 3ª classe con lo stipendio di annue L. 1500. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Roma, addi' 26 gennaio 1899. 
+ 
+ UMBERTO. 
+ 
+ Vacchelli. 
+ 
+ Visto, Il Guardasigilli: C. Finocchiaro-Aprile.

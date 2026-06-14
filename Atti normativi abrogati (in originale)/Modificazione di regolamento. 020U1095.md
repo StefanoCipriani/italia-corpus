@@ -1,17 +1,17 @@
-REGIO DECRETO 08 luglio 1920 n. 1095
+---
+tipo: REGIO DECRETO
+numero: 1095
+data: 1920-07-08
+titolo: "Modificazione di regolamento. (020U1095)"
+urn: urn:nir:stato:regio.decreto:1920-07-08;1095
+codice_redazionale: 020U1095
+vigente: true
+---
 
-
-REGIO DECRETO 08 luglio 1920 n. 1095
-====================================
-
-Modificazione di regolamento. (020U1095)
-----------------------------------------
-
-Entrata in vigore del provvedimento: 29/08/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1095. Regio decreto 8 luglio 1920, col quale, sulla proposta del ministro delle finanze, vengono apportate modifiche al regolamento per l'applicazione della tassa sul bestiame nei Comuni della provincia di Lucca.
+1095.
+
+Regio decreto 8 luglio 1920, col quale, sulla proposta del ministro delle finanze, vengono apportate modifiche al regolamento per l'applicazione della tassa sul bestiame nei Comuni della provincia di Lucca.

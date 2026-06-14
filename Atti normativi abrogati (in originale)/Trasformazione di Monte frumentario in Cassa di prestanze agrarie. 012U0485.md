@@ -1,19 +1,15 @@
-REGIO DECRETO 18 aprile 1912 n. 485
+---
+tipo: REGIO DECRETO
+numero: 485
+data: 1912-04-18
+titolo: "Trasformazione di Monte frumentario in Cassa di prestanze agrarie. (012U0485)"
+urn: urn:nir:stato:regio.decreto:1912-04-18;485
+codice_redazionale: 012U0485
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 aprile 1912 n. 485
-===================================
-
-Trasformazione di Monte frumentario in Cassa di prestanze agrarie. (012U0485)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/06/1912
-
-Art. 1
-------
-
-  
-N. 485   
-  
-Regio Decreto 18 aprile 1912, col quale, sulla proposta del ministro dell'interno, di concerto col ministro di agricoltura, industria e commercio, il Monte frumentario di Cossignano (Ascoli) amministrato dalla locale Congregazione di carita', viene trasformato in Cassa di prestanze agrarie a viene altresi' approvato lo statuto organico della Cassa medesima.   
-  
+N. 485 
+ 
+ Regio Decreto 18 aprile 1912, col quale, sulla proposta del ministro dell'interno, di concerto col ministro di agricoltura, industria e commercio, il Monte frumentario di Cossignano (Ascoli) amministrato dalla locale Congregazione di carita', viene trasformato in Cassa di prestanze agrarie a viene altresi' approvato lo statuto organico della Cassa medesima.

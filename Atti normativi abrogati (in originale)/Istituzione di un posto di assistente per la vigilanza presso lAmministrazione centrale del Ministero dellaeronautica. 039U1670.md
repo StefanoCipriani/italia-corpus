@@ -1,16 +1,14 @@
-REGIO DECRETO 12 ottobre 1939 n. 1670
-
-
-REGIO DECRETO 12 ottobre 1939 n. 1670
-=====================================
-
-Istituzione di un posto di assistente per la vigilanza presso l'Amministrazione centrale del Ministero dell'aeronautica. (039U1670)
------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/12/1939
+---
+tipo: REGIO DECRETO
+numero: 1670
+data: 1939-10-12
+titolo: "Istituzione di un posto di assistente per la vigilanza presso l'Amministrazione centrale del Ministero dell'aeronautica. (039U1670)"
+urn: urn:nir:stato:regio.decreto:1939-10-12;1670
+codice_redazionale: 039U1670
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,45 +30,34 @@ Udito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Nell'Amministrazione centrale del Ministero dell'aeronautica e' istituito un posto di assistente per la vigilanza (gruppo C, grado 12°). 
+ 
+ Nel ruolo del personale d'ordine della Regia aeronautica sono soppressi due posti di alunno d'ordine (grado 13°). La nomina al posto di cui al primo comma del presente articolo e' conferita a scelta del Ministro per l'aeronautica, su parere del Consiglio di amministrazione, tra il personale di gruppo C dell'Amministrazione dell'aeronautica in possesso del diploma di scuola media inferiore, che abbia almeno sei anni di effettivo servizio, computato ai termini delle disposizioni vigenti. 
+ 
+ Il nominato puo' essere promosso, per merito assoluto, su designazione del Consiglio di amministrazione, al grado 11°, dopo che abbia compiuto nel grado 12° almeno sei anni di effettivo servizio, e al grado 10° dopo che abbia prestato almeno sei anni di effettivo servizio nel grado 11°. 
+ 
+ Nella prima attuazione del presente Regio decreto la nomina al posto di cui trattasi, e' conferita, con assegnazione al grado 11°, a scelta del Ministro per l'aeronautica, tra il personale di ruolo che abbia, compiuto almeno 14 anni di servizio di ruolo e che a giudizio unanime del Consiglio di amministrazione, possegga tutte le qualita' necessarie per l'espletamento delle funzioni inerenti al posto. 
+ 
+ Al prescelto potra' essere attribuito il grado 10° per designazione del Consiglio di amministrazione, al compimento di 20 anni di effettivo servizio di ruolo.
 
-  
-  
-Nell'Amministrazione centrale del Ministero dell'aeronautica e' istituito un posto di assistente per la vigilanza (gruppo C, grado 12°).   
-  
-Nel ruolo del personale d'ordine della Regia aeronautica sono soppressi due posti di alunno d'ordine (grado 13°). La nomina al posto di cui al primo comma del presente articolo e' conferita a scelta del Ministro per l'aeronautica, su parere del Consiglio di amministrazione, tra il personale di gruppo C dell'Amministrazione dell'aeronautica in possesso del diploma di scuola media inferiore, che abbia almeno sei anni di effettivo servizio, computato ai termini delle disposizioni vigenti.   
-  
-Il nominato puo' essere promosso, per merito assoluto, su designazione del Consiglio di amministrazione, al grado 11°, dopo che abbia compiuto nel grado 12° almeno sei anni di effettivo servizio, e al grado 10° dopo che abbia prestato almeno sei anni di effettivo servizio nel grado 11°.   
-  
-Nella prima attuazione del presente Regio decreto la nomina al posto di cui trattasi, e' conferita, con assegnazione al grado 11°, a scelta del Ministro per l'aeronautica, tra il personale di ruolo che abbia, compiuto almeno 14 anni di servizio di ruolo e che a giudizio unanime del Consiglio di amministrazione, possegga tutte le qualita' necessarie per l'espletamento delle funzioni inerenti al posto.   
-  
-Al prescelto potra' essere attribuito il grado 10° per designazione del Consiglio di amministrazione, al compimento di 20 anni di effettivo servizio di ruolo.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto entrera' in vigore dal primo giorno del mese successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 12 ottobre 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 14 novembre 1939-XVIII   
-  
-Atti del Governo, registro 415, foglio 36. - MANCINI   
-  
-  
+Il presente decreto entrera' in vigore dal primo giorno del mese successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 12 ottobre 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 14 novembre 1939-XVIII 
+ 
+ Atti del Governo, registro 415, foglio 36. - MANCINI

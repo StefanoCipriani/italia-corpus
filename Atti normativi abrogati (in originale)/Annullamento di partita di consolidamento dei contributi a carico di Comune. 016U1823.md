@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 26 novembre 1916 n. 1823
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1823
+data: 1916-11-26
+titolo: "Annullamento di partita di consolidamento dei contributi a carico di Comune. (016U1823)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-11-26;1823
+codice_redazionale: 016U1823
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 26 novembre 1916 n. 1823
-================================================
-
-Annullamento di partita di consolidamento dei contributi a carico di Comune. (016U1823)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/01/1917
-
-Art. 1
-------
-
-null
+## Art. 1. — null

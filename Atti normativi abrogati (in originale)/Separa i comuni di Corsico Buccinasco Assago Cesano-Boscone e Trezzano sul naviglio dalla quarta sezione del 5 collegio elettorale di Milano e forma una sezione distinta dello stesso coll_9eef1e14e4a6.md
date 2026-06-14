@@ -1,16 +1,14 @@
-REGIO DECRETO 27 marzo 1879 n. 4813
-
-
-REGIO DECRETO 27 marzo 1879 n. 4813
-===================================
-
-Separa i comuni di Corsico, Buccinasco, Assago, Cesano-Boscone e Trezzano sul naviglio dalla quarta sezione del 5° collegio elettorale di Milano, e forma una sezione distinta dello stesso collegio con la sede in Corsico. (079U4813)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/04/1879
+---
+tipo: REGIO DECRETO
+numero: 4813
+data: 1879-03-27
+titolo: "Separa i comuni di Corsico, Buccinasco, Assago, Cesano-Boscone e Trezzano sul naviglio dalla quarta sezione del 5° collegio elettorale di Milano, e forma una sezione distinta dello stesso collegio con la sede in Corsico. (079U4813)"
+urn: urn:nir:stato:regio.decreto:1879-03-27;4813
+codice_redazionale: 079U4813
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Che Corsico dista da Milano 8 chilometri, Buccinasco ne dista 11.59, Assago ne d
 
 Considerato che istituendo la sezione elettorale di Corsico si rende piu' facile l'esercizio del diritto elettorale ad un ragguardevole numero di elettori;
 
-Sulla
------
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Corsico, Buccinasco, Assago, Cesano-Boscone e Trezzano sul Naviglio sono separati dalla quarta sezione del 5° Collegio elettorale di Milano e formeranno una sezione distinta dello stesso Collegio, con la sede in Corsico.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 marzo 1879.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
+I comuni di Corsico, Buccinasco, Assago, Cesano-Boscone e Trezzano sul Naviglio sono separati dalla quarta sezione del 5° Collegio elettorale di Milano e formeranno una sezione distinta dello stesso Collegio, con la sede in Corsico. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 marzo 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.

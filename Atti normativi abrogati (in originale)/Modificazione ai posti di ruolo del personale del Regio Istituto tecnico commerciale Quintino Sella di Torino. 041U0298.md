@@ -1,16 +1,14 @@
-REGIO DECRETO 23 gennaio 1941 n. 298
-
-
-REGIO DECRETO 23 gennaio 1941 n. 298
-====================================
-
-Modificazione ai posti di ruolo del personale del Regio Istituto tecnico commerciale «Quintino Sella» di Torino. (041U0298)
----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/05/1941
+---
+tipo: REGIO DECRETO
+numero: 298
+data: 1941-01-23
+titolo: "Modificazione ai posti di ruolo del personale del Regio Istituto tecnico commerciale «Quintino Sella» di Torino. (041U0298)"
+urn: urn:nir:stato:regio.decreto:1941-01-23;298
+codice_redazionale: 041U0298
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,40 +28,27 @@ Considerata l'opportunita' di sopprimere i posti di ruolo di assistente discipli
 
 Ritenuta la necessita' di istituire presso il predetto Istituto un posto di ruolo di vice segretario e un posto di macchinista incaricato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A decorrere dal 16 ottobre 1939-XVII sono soppressi i posti di ruolo di assistente disciplinare e di macchinista previsti nella tabella organica del Regio Istituto tecnico commerciale «Quintino Sella» di Torino, approvata con Regio decreto 24 agosto 1933-XI, n. 2252, e modificata con decreto 14 gennaio 1937-XV, n. 676;   
-  
-Con la stessa decorrenza sono istituiti presso il Regio istituto tecnico commerciale «Q. Sella » di Torino un posto di ruolo di vice segretario e un posto di macchinista incaricato e la tabella organica del predetto Istituto, approvata con R. decreto 24 agosto 1933-XI, n. 2252, e modificata con Regio decreto 14 gennaio 1937-XV, n. 676, e' sostituita da quella allegata al presente decreto approvata, vista e firmata, d'ordine Nostro, dal Ministro Segretario di Stato per l'educazione nazionale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 gennaio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Bottai - Di Revel   
-  
-Visto:   
-  
-(ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76)   
-  
-MUSSOLINI   
-Registrato alla Corte dei conti, addi' 1° maggio 1941-XIX   
-  
-Atti del Governo, registro 433, foglio 3. - Mancini   
-
-Tabella
-
-Tabella organica del Regio istituto tecnico commerciale mercantile di Torino   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=041U029800100010110001&dgu=1941-05-05&art.dataPubblicazioneGazzetta=1941-05-05&art.codiceRedazionale=041U0298)
-  
+A decorrere dal 16 ottobre 1939-XVII sono soppressi i posti di ruolo di assistente disciplinare e di macchinista previsti nella tabella organica del Regio Istituto tecnico commerciale «Quintino Sella» di Torino, approvata con Regio decreto 24 agosto 1933-XI, n. 2252, e modificata con decreto 14 gennaio 1937-XV, n. 676; 
+ 
+ Con la stessa decorrenza sono istituiti presso il Regio istituto tecnico commerciale «Q. Sella » di Torino un posto di ruolo di vice segretario e un posto di macchinista incaricato e la tabella organica del predetto Istituto, approvata con R. decreto 24 agosto 1933-XI, n. 2252, e modificata con Regio decreto 14 gennaio 1937-XV, n. 676, e' sostituita da quella allegata al presente decreto approvata, vista e firmata, d'ordine Nostro, dal Ministro Segretario di Stato per l'educazione nazionale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 gennaio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Bottai - Di Revel 
+ 
+ Visto: 
+ 
+ (ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76) 
+ 
+ MUSSOLINI 
+ Registrato alla Corte dei conti, addi' 1° maggio 1941-XIX 
+ 
+ Atti del Governo, registro 433, foglio 3. - Mancini

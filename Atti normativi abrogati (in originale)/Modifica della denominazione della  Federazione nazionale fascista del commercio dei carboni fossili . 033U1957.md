@@ -1,16 +1,14 @@
-REGIO DECRETO 27 dicembre 1933 n. 1957
-
-
-REGIO DECRETO 27 dicembre 1933 n. 1957
-======================================
-
-Modifica della denominazione della « Federazione nazionale fascista del commercio dei carboni fossili ». (033U1957)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/02/1934
+---
+tipo: REGIO DECRETO
+numero: 1957
+data: 1933-12-27
+titolo: "Modifica della denominazione della « Federazione nazionale fascista del commercio dei carboni fossili ». (033U1957)"
+urn: urn:nir:stato:regio.decreto:1933-12-27;1957
+codice_redazionale: 033U1957
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,34 +18,26 @@ Visti i Nostri decreti 24 luglio 1930, n. 1161, e 24 maggio 1932, n. 1263, coi q
 
 Vista la domanda in data 8 luglio 1933 con la quale la Confederazione nazionale fascista del commercio ha chiesto che la denominazione della predetta Federazione sia modificata in quella di « Federazione nazionale fascista del commercio dei combustibili solidi »;
 
-Visti la [legge 3 aprile 1926, n. 563](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-04-03;563), e il relativo [regolamento 1° luglio 1926, n. 1130](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1926-07-01;1130), nonche' la [legge 20 marzo 1930, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-03-20;206);
+Visti la [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), e il relativo [regolamento 1° luglio 1926, n. 1130](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1926-07-01;1130), nonche' la [legge 20 marzo 1930, n. 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-03-20;206);
 
 Sentito il Comitato corporativo centrale;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro, Ministro Segretario di Stato per le corporazioni e per l'interno; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro, Ministro Segretario di Stato per le corporazioni e per l'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La denominazione di « Federazione nazionale fascista del commercio dei carboni fossili » di cui all'art. 2 del Nostro decreto 24 luglio 1930, n. 1161, e' sostituita con quella di « Federazione nazionale fascista del commercio dei combustibili solidi ».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 dicembre 1933 - Anno XII   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI.   
-  
-Visto, il Guardasigilli: DE FRANCISCI.   
-  
-Registrato alla Corte dei conti, addi' 1° febbraio 1934 Anno XII   
-  
-Atti del Governo, registro 344, foglio 20. - MANCINI.   
-  
-  
+La denominazione di « Federazione nazionale fascista del commercio dei carboni fossili » di cui all'art. 2 del Nostro decreto 24 luglio 1930, n. 1161, e' sostituita con quella di « Federazione nazionale fascista del commercio dei combustibili solidi ». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 dicembre 1933 - Anno XII 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI. 
+ 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ 
+ Registrato alla Corte dei conti, addi' 1° febbraio 1934 Anno XII 
+ 
+ Atti del Governo, registro 344, foglio 20. - MANCINI.

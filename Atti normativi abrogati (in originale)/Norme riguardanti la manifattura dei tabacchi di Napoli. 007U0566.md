@@ -1,16 +1,14 @@
-REGIO DECRETO 11 luglio 1907 n. 566
-
-
-REGIO DECRETO 11 luglio 1907 n. 566
-===================================
-
-Norme riguardanti la manifattura dei tabacchi di Napoli. (007U0566)
--------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/08/1907
+---
+tipo: REGIO DECRETO
+numero: 566
+data: 1907-07-11
+titolo: "Norme riguardanti la manifattura dei tabacchi di Napoli. (007U0566)"
+urn: urn:nir:stato:regio.decreto:1907-07-11;566
+codice_redazionale: 007U0566
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,30 +20,23 @@ Visti i reali decreti 12 marzo 1899, n. 110, e 12 maggio 1901, n. 213;
 
 Sentito il Consiglio di Stato e il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A datare dal 1° luglio 1907 la manifattura dei tabacchi di Napoli (S. Pietro Martire) funzionera' da magazzino di deposito, limitatamente alle spagnolette di prezzo superiore a centesimi tre per la somministrazione diretta agli uffici di vendita.   
-  
-Per l'esecuzione di questa parte di servizio sono applicabili alla manifattura di Napoli (S. Pietro Martire) le disposizioni in vigore pei magazzini di deposito.   
-  
-Le attribuzioni contabili di magazziniere e di ufficiale ai riscontri saranno rispettivamente assunte dal direttore e dal commissario ai riscontri della manifattura suddetta.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 11 luglio 1907.   
-  
-VITTORIO EMANUELE.   
-  
-GIOLITTI.   
-LACAVA.   
-  
-Visto, Il Guardasigilli: ORLANDO.   
-  
+A datare dal 1° luglio 1907 la manifattura dei tabacchi di Napoli (S. Pietro Martire) funzionera' da magazzino di deposito, limitatamente alle spagnolette di prezzo superiore a centesimi tre per la somministrazione diretta agli uffici di vendita. 
+ 
+ Per l'esecuzione di questa parte di servizio sono applicabili alla manifattura di Napoli (S. Pietro Martire) le disposizioni in vigore pei magazzini di deposito. 
+ 
+ Le attribuzioni contabili di magazziniere e di ufficiale ai riscontri saranno rispettivamente assunte dal direttore e dal commissario ai riscontri della manifattura suddetta. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 11 luglio 1907. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ GIOLITTI. 
+ LACAVA. 
+ 
+ Visto, Il Guardasigilli: ORLANDO.

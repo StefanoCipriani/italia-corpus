@@ -1,16 +1,14 @@
-REGIO DECRETO 14 gennaio 1872 n. 646
-
-
-REGIO DECRETO 14 gennaio 1872 n. 646
-====================================
-
-Col quale il Comune di Collesalvetti costituira' una Sezione del Collegio elettorale di Lari, n. 329. (072U0646)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/02/1872
+---
+tipo: REGIO DECRETO
+numero: 646
+data: 1872-01-14
+titolo: "Col quale il Comune di Collesalvetti costituira' una Sezione del Collegio elettorale di Lari, n. 329. (072U0646)"
+urn: urn:nir:stato:regio.decreto:1872-01-14;646
+codice_redazionale: 072U0646
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nei Comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Collesalvetti costituira' d'ora in poi una Sezione del Collegio elettorale di Lari, n. 329, con sede nel capoluogo del Comune stesso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 14 gennaio 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 20 gennaio 1872   
-  
-Reg. 59 Atti del Governo a c. 38. D. Gherardi.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+Il Comune di Collesalvetti costituira' d'ora in poi una Sezione del Collegio elettorale di Lari, n. 329, con sede nel capoluogo del Comune stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 14 gennaio 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 20 gennaio 1872 
+ 
+ Reg. 59 Atti del Governo a c. 38. D. Gherardi. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

@@ -1,16 +1,14 @@
-REGIO DECRETO 11 giugno 1891 n. 328
-
-
-REGIO DECRETO 11 giugno 1891 n. 328
-===================================
-
-Con il quale sono abrogate le disposizioni contenute nei tre primi numeri dell'articolo XVI delle Disposizioni regolamentari didattiche per gli istituti tecnici approvate col R. decreto 21 giugno 1885. (091U0328)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/07/1891
+---
+tipo: REGIO DECRETO
+numero: 328
+data: 1891-06-11
+titolo: "Con il quale sono abrogate le disposizioni contenute nei tre primi numeri dell'articolo XVI delle Disposizioni regolamentari didattiche per gli istituti tecnici approvate col R. decreto 21 giugno 1885. (091U0328)"
+urn: urn:nir:stato:regio.decreto:1891-06-11;328
+codice_redazionale: 091U0328
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,35 +22,24 @@ Visto il R. decreto 26 maggio 1891 che approva le modificazioni al Regolamento 2
 
 Udito il Consiglio Superiore di Pubblica Istruzione;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Le disposizioni contenute nei numeri 1, 2 e 3 dell'articolo XVI delle Disposizioni regolamentari didattiche per gli Istituti tecnici approvate col R. decreto 21 giugno 1885, sono abrogate.
 
-  
-  
-Le disposizioni contenute nei numeri 1, 2 e 3 dell'articolo XVI delle Disposizioni regolamentari didattiche per gli Istituti tecnici approvate col R. decreto 21 giugno 1885, sono abrogate.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Negli esami di ammissione, promozione e licenza si ha l'approvazione quando si riportano almeno sei decimi in ciascuna materia.   
-  
-Nelle materie per le quali e' prescritta una doppia prova non e' escluso dall'approvazione il candidato, che in una delle due ha conseguito cinque decimi e nell'altra non meno di sette.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 giugno 1891.   
-  
-UMBERTO.   
-  
-P. Villari.   
-  
-Visto, Il Guardasigilli: L. Ferraris.   
-  
+Negli esami di ammissione, promozione e licenza si ha l'approvazione quando si riportano almeno sei decimi in ciascuna materia. 
+ 
+ Nelle materie per le quali e' prescritta una doppia prova non e' escluso dall'approvazione il candidato, che in una delle due ha conseguito cinque decimi e nell'altra non meno di sette. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 giugno 1891. 
+ 
+ UMBERTO. 
+ 
+ P. Villari. 
+ 
+ Visto, Il Guardasigilli: L. Ferraris.

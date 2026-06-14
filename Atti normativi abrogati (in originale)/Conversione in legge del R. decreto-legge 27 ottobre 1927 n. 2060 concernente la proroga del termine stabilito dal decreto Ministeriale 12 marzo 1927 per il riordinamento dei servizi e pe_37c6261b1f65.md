@@ -1,39 +1,35 @@
-LEGGE 17 maggio 1928 n. 1119
+---
+tipo: LEGGE
+numero: 1119
+data: 1928-05-17
+titolo: "Conversione in legge del R. decreto-legge 27 ottobre 1927, n. 2060, concernente la proroga del termine stabilito dal decreto Ministeriale 12 marzo 1927 per il riordinamento dei servizi e per l'epurazione del personale dipendente dal comune di Palermo. (028U1119)"
+urn: urn:nir:stato:legge:1928-05-17;1119
+codice_redazionale: 028U1119
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 17 maggio 1928 n. 1119
-============================
-
-Conversione in legge del R. decreto-legge 27 ottobre 1927, n. 2060, concernente la proroga del termine stabilito dal decreto Ministeriale 12 marzo 1927 per il riordinamento dei servizi e per l'epurazione del personale dipendente dal comune di Palermo. (028U1119)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/06/1928
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
-  
-RE D'ITALIA   
-  
-Il Senato e la Camera dei deputati hanno approvato;   
-  
-Noi abbiamo sanzionato e promulghiamo quanto segue:   
-  
-Articolo unico.   
-  
-E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2060](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-27;2060), concernente la proroga del termine stabilito dal decreto Ministeriale 12 marzo 1927, in applicazione del [R. decreto-legge 17 febbraio 1927, n. 223](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-17;223), per il riordinamento dei servizi e per la epurazione del personale dipendente dal comune di Palermo.   
-  
-Ordiniamo che la presente, munita del sigillo dello Stato, sia incerta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Roma, addi' 17 maggio 1928 - Anno VI   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Il Senato e la Camera dei deputati hanno approvato; 
+ 
+ Noi abbiamo sanzionato e promulghiamo quanto segue: 
+ 
+ Articolo unico. 
+ 
+ E' convertito in legge il [R. decreto-legge 27 ottobre 1927, n. 2060](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-10-27;2060), concernente la proroga del termine stabilito dal decreto Ministeriale 12 marzo 1927, in applicazione del [R. decreto-legge 17 febbraio 1927, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-02-17;223), per il riordinamento dei servizi e per la epurazione del personale dipendente dal comune di Palermo. 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato, sia incerta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Roma, addi' 17 maggio 1928 - Anno VI 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Rocco.

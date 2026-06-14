@@ -1,37 +1,27 @@
-LEGGE 20 giugno 1969 n. 333
-
-
-LEGGE 20 giugno 1969 n. 333
-===========================
-
-Esercizio, per altro quinquennio, della facolta' prevista dall'articolo 10 della legge 27 ottobre 1963, n. 1431, riguardante il riordinamento di taluni ruoli degli ufficiali in servizio permanente effettivo dell'Aeronautica militare.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 333
+data: 1969-06-20
+titolo: "Esercizio, per altro quinquennio, della facolta' prevista dall'articolo 10 della legge 27 ottobre 1963, n. 1431, riguardante il riordinamento di taluni ruoli degli ufficiali in servizio permanente effettivo dell'Aeronautica militare."
+urn: urn:nir:stato:legge:1969-06-20;333
+codice_redazionale: 069U0333
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno
-----------------------------------------------------------
 
 approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-  
-La facolta' prevista dall'[articolo 10 della legge 27 ottobre 1963, n. 1431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-10-27;1431~art10), puo' essere esercitata fino a cinque anni dall'entrata in vigore della presente legge.   
-  
+La facolta' prevista dall'[articolo 10 della legge 27 ottobre 1963, n. 1431](Riordinamento%20di%20taluni%20ruoli%20degli%20ufficiali%20in%20servizio%20permanente%20effettivo%20dellAeronautica%20militare.md), puo' essere esercitata fino a cinque anni dall'entrata in vigore della presente legge.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 20 giugno 1969
+Data a Roma, addi' 20 giugno 1969
 
-SARAGAT RUMOR - GUI - COLOMBO
-
-Visto, il Guardasigilli: GAVA
+SARAGAT RUMOR - GUI - COLOMBO Visto, il Guardasigilli: GAVA

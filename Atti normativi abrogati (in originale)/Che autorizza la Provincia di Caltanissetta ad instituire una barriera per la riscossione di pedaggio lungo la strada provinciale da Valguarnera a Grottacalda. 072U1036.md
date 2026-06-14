@@ -1,16 +1,14 @@
-REGIO DECRETO 29 settembre 1872 n. 1036
-
-
-REGIO DECRETO 29 settembre 1872 n. 1036
-=======================================
-
-Che autorizza la Provincia di Caltanissetta ad instituire una barriera per la riscossione di pedaggio lungo la strada provinciale da Valguarnera a Grottacalda. (072U1036)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1872
+---
+tipo: REGIO DECRETO
+numero: 1036
+data: 1872-09-29
+titolo: "Che autorizza la Provincia di Caltanissetta ad instituire una barriera per la riscossione di pedaggio lungo la strada provinciale da Valguarnera a Grottacalda. (072U1036)"
+urn: urn:nir:stato:regio.decreto:1872-09-29;1036
+codice_redazionale: 072U1036
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,31 +32,16 @@ Che l'istituzione e' giustamente limitata provvisoriamente a quattro anni, onde 
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La provincia di Caltanissetta e' autorizzata ad istituire una barriera lungo la strada provinciale da Valguarnera a Grottacalda per il periodo di anni quattro decorrendi dal 1° gennaio 1873, e ad esigerne il relativo pedaggio in base all'unita tariffa che, vista d'ordine Nostro dal predetto Ministro, sara' annessa al presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 settembre 1872.   
-  
-VITTORIO EMANUELE   
-  
-G. Devincenzi.   
-  
-
-Tariffa
-
-  
-TARIFFA delle tasse di pedaggio alle barriere lungo le strade della provincia di Caltanissetta.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U103600100010110001&dgu=1872-10-21&art.dataPubblicazioneGazzetta=1872-10-21&art.codiceRedazionale=072U1036)
-  
+La provincia di Caltanissetta e' autorizzata ad istituire una barriera lungo la strada provinciale da Valguarnera a Grottacalda per il periodo di anni quattro decorrendi dal 1° gennaio 1873, e ad esigerne il relativo pedaggio in base all'unita tariffa che, vista d'ordine Nostro dal predetto Ministro, sara' annessa al presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 settembre 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ G. Devincenzi.

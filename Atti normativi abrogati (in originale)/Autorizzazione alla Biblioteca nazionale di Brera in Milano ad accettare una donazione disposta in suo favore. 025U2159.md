@@ -1,22 +1,22 @@
-REGIO DECRETO 15 novembre 1925 n. 2159
+---
+tipo: REGIO DECRETO
+numero: 2159
+data: 1925-11-15
+titolo: "Autorizzazione alla Biblioteca nazionale di Brera, in Milano, ad accettare una donazione disposta in suo favore. (025U2159)"
+urn: urn:nir:stato:regio.decreto:1925-11-15;2159
+codice_redazionale: 025U2159
+vigente: true
+---
 
-
-REGIO DECRETO 15 novembre 1925 n. 2159
-======================================
-
-Autorizzazione alla Biblioteca nazionale di Brera, in Milano, ad accettare una donazione disposta in suo favore. (025U2159)
----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/12/1925
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2159. R. decreto 15 novembre 1925, col quale, sulla proposta del Ministro per la pubblica istruzione, viene accettata fa donazione di una collezione di cimeli manzoniani, disposta dal gr. uff. ing.  
-Federico Gentili a favore della Biblioteca nazionale di Brera, in Milano.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 11 dicembre 1925.
+2159.
+
+R. decreto 15 novembre 1925, col quale, sulla proposta del Ministro per la pubblica istruzione, viene accettata fa donazione di una collezione di cimeli manzoniani, disposta dal gr. uff. ing.
+Federico Gentili a favore della Biblioteca nazionale di Brera, in Milano. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 11 dicembre 1925.

@@ -1,21 +1,17 @@
-REGIO DECRETO 20 ottobre 1895 n. DCLXXX
+---
+tipo: REGIO DECRETO
+numero: DCLXXX
+data: 1895-10-20
+titolo: "Con cui le opere pie Brambilla, Carminati, Maggi, Longoni ed Emilio Appiani sono concentrate nella congregazione di carita' di Bosisio (Como). (9500680R)"
+urn: urn:nir:stato:regio.decreto:1895-10-20;680
+codice_redazionale: 9500680R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 ottobre 1895 n. DCLXXX
-=======================================
-
-Con cui le opere pie Brambilla, Carminati, Maggi, Longoni ed Emilio Appiani sono concentrate nella congregazione di carita' di Bosisio (Como). (9500680R)
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/01/1896
-
-Art. 1
-------
-
-  
-Con cui le opere pie Brambilla, Carminati, Maggi, Longoni ed Emilio Appiani sono concentrate nella congregazione di carita' di Bosisio (Como). - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei conti addi' 6 dicembre 1895.   
-  
-Reg. 202. Atti del Governo a f. 245.   
-  
+Con cui le opere pie Brambilla, Carminati, Maggi, Longoni ed Emilio Appiani sono concentrate nella congregazione di carita' di Bosisio (Como). - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei conti addi' 6 dicembre 1895. 
+ 
+ Reg. 202. Atti del Governo a f. 245.

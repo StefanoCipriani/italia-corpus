@@ -1,17 +1,13 @@
-REGIO DECRETO 28 agosto 1906 n. CCCLXII
+---
+tipo: REGIO DECRETO
+numero: CCCLXII
+data: 1906-08-28
+titolo: "Che erige in ente morale l'ospedale di Sovere. (0600362R)"
+urn: urn:nir:stato:regio.decreto:1906-08-28;362
+codice_redazionale: 0600362R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 agosto 1906 n. CCCLXII
-=======================================
-
-Che erige in ente morale l'ospedale di Sovere. (0600362R)
----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/10/1906
-
-Art. 1
-------
-
-  
-Col quale l'ospedale di Sovere (Bergamo) e' eretto in ente morale ed e' approvato lo statuto organico relativo.   
-  
+Col quale l'ospedale di Sovere (Bergamo) e' eretto in ente morale ed e' approvato lo statuto organico relativo.

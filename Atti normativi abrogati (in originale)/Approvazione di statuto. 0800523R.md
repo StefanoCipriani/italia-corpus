@@ -1,19 +1,15 @@
-REGIO DECRETO 20 dicembre 1908 n. DXXIII
+---
+tipo: REGIO DECRETO
+numero: DXXIII
+data: 1908-12-20
+titolo: "Approvazione di statuto. (0800523R)"
+urn: urn:nir:stato:regio.decreto:1908-12-20;523
+codice_redazionale: 0800523R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 dicembre 1908 n. DXXIII
-========================================
-
-Approvazione di statuto. (0800523R)
------------------------------------
-
-Entrata in vigore del provvedimento: 31/01/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. DXXIII (Dato a Roma, il 20 dicembre 1908), col quale si approva lo statuto organico del Monte di pieta' di Angri.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. DXXIII (Dato a Roma, il 20 dicembre 1908), col quale si approva lo statuto organico del Monte di pieta' di Angri.

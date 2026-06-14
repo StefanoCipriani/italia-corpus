@@ -1,16 +1,14 @@
-REGIO DECRETO 02 gennaio 1937 n. 6
-
-
-REGIO DECRETO 02 gennaio 1937 n. 6
-==================================
-
-Concessione della protezione temporanea alle invenzioni industriali e ai modelli e disegni di fabbrica che figureranno nella Fiera di Milano dal 12 al 27 aprile 1937-XV. (037U0006)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/02/1937
+---
+tipo: REGIO DECRETO
+numero: 6
+data: 1937-01-02
+titolo: "Concessione della protezione temporanea alle invenzioni industriali e ai modelli e disegni di fabbrica che figureranno nella Fiera di Milano dal 12 al 27 aprile 1937-XV. (037U0006)"
+urn: urn:nir:stato:regio.decreto:1937-01-02;6
+codice_redazionale: 037U0006
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,32 +16,26 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Vista la [legge 16 luglio 1905, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-07-16;423), sulla protezione temporanea delle invenzioni industriali e dei modelli e disegni di fabbrica che figurano nelle esposizioni;
+Vista la [legge 16 luglio 1905, n. 423](Protezione%20delle%20invenzioni%20industriali%20e%20dei%20modelli%20e%20disegni%20che%20figurano%20nelle%20Esposizioni.%20005U0423.md), sulla protezione temporanea delle invenzioni industriali e dei modelli e disegni di fabbrica che figurano nelle esposizioni;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per le corporazioni; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per le corporazioni; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le invenzioni industriali e i modelli e i disegni di fabbrica relativi ad oggetti che figureranno nella Fiera di Milano che si terra' a Milano dal 12 al 27 aprile 1937-XV, godranno della protezione temporanea stabilita dalla [legge 16 luglio 1905, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-07-16;423).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 gennaio 1937 - Anno XV   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Lantini.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 21 gennaio 1937 - Anno XV   
-  
-Atti del Governo, registro 381, foglio 85. - Mancini.   
+Le invenzioni industriali e i modelli e i disegni di fabbrica relativi ad oggetti che figureranno nella Fiera di Milano che si terra' a Milano dal 12 al 27 aprile 1937-XV, godranno della protezione temporanea stabilita dalla [legge 16 luglio 1905, n. 423](Protezione%20delle%20invenzioni%20industriali%20e%20dei%20modelli%20e%20disegni%20che%20figurano%20nelle%20Esposizioni.%20005U0423.md). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 gennaio 1937 - Anno XV 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Lantini. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 21 gennaio 1937 - Anno XV 
+ 
+ Atti del Governo, registro 381, foglio 85. - Mancini.

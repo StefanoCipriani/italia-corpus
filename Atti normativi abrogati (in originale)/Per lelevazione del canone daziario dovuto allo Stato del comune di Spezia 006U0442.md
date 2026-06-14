@@ -1,16 +1,14 @@
-REGIO DECRETO 22 luglio 1906 n. 442
-
-
-REGIO DECRETO 22 luglio 1906 n. 442
-===================================
-
-Per l'elevazione del canone daziario dovuto allo Stato del comune di Spezia (006U0442)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/09/1906
+---
+tipo: REGIO DECRETO
+numero: 442
+data: 1906-07-22
+titolo: "Per l'elevazione del canone daziario dovuto allo Stato del comune di Spezia (006U0442)"
+urn: urn:nir:stato:regio.decreto:1906-07-22;442
+codice_redazionale: 006U0442
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,29 +22,22 @@ Visto il Nostro decreto 31 dicembre 1905 n. 644, che approva e rende esecutivi i
 
 Vista la decisione in data 27 giugno 1906 della Commissione centrale, che determina in L. 16,618.41 annue l'aumento di canone da corrispondersi dal comune di Spezia per lo avvenuto ampliamento della cinta daziaria;
 
-Visti gli [articoli 4 della legge 14 luglio 1898, n. 302](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-07-14;302~art4), e 8 [lettera d) della legge 6 luglio 1905, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-07-06;323~letd);
+Visti gli [articoli 4 della legge 14 luglio 1898, n. 302](Riforma%20dei%20dazi%20comunali%20di%20consumo.%20098U0302.md), e 8 [lettera d) della legge 6 luglio 1905, n. 323](Relativa%20al%20consolidamento%20revisione%20e%20riscossione%20dei%20canoni%20daziari%20governativi.%20005U0323.md);
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per le finanze. Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per le finanze. Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il canone daziario dovuto allo Stato dal comune di Spezia e' elevato da annue lire duecentocinquemila duecentoquarantacinque e cent. cinquantasei (L. 205,245.56) ad annue lire duecentoventunomila, ottocentosessantatre e cent. novantasette (L. 221,863.97).   
-  
-Il presente decreto avra' effetto a partire dal 18 giugno 1906.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 22 luglio 1906.   
-  
-VITTORIO EMANUELE.   
-  
-Massimini.   
-  
-Visto, Il guardasigilli: Gallo.   
-  
+Il canone daziario dovuto allo Stato dal comune di Spezia e' elevato da annue lire duecentocinquemila duecentoquarantacinque e cent. cinquantasei (L. 205,245.56) ad annue lire duecentoventunomila, ottocentosessantatre e cent. novantasette (L. 221,863.97). 
+ 
+ Il presente decreto avra' effetto a partire dal 18 giugno 1906. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 22 luglio 1906. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Massimini. 
+ 
+ Visto, Il guardasigilli: Gallo.

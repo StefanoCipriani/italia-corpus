@@ -1,16 +1,14 @@
-REGIO DECRETO 11 marzo 1873 n. 1350
-
-
-REGIO DECRETO 11 marzo 1873 n. 1350
-===================================
-
-Che concede facolta' a Giuseppe Merello di stabilire ed esercitare nel porto di Genova un bacino da carenaggio galleggiante. (073U1350)
----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/05/1873
+---
+tipo: REGIO DECRETO
+numero: 1350
+data: 1873-03-11
+titolo: "Che concede facolta' a Giuseppe Merello di stabilire ed esercitare nel porto di Genova un bacino da carenaggio galleggiante. (073U1350)"
+urn: urn:nir:stato:regio.decreto:1873-03-11;1350
+codice_redazionale: 073U1350
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,31 +20,24 @@ Vista la domanda prodotta da Giuseppe Merello collo scopo di essere autorizzato 
 
 Veduti gli atti della seguita istruttoria, dai quali risulta che l'attuazione della divisata opera non reca alcun pregiudizio al buon governo di detto porto, ne' allo interesse dei terzi, e che anzi sara' di giovamento al commercio marittimo;
 
-Udito
------
+Udito il parere del Consiglio di Stato; Abbiamo decretato e decretiamo quanto segue:
 
-il parere del Consiglio di Stato; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' concessa facolta', senza pregiudizio dei legittimi diritti dei terzi, a Giuseppe Merello di stabilire ed esercitare nel porto di Genova un bacino da carenaggio gallegiante in ferro od in legno, da servire al raddobbo delle navi.   
-  
-Tale concessione e' fatta per anni trenta a partire dal 15 luglio 1871, mediante l'annua prestazione di lire millecento a favore delle Finanze dello Stato e sotto l'esatta osservanza delle singole condizioni assunte coi pubblici atti sottoscritti dal richiedente il 15 luglio 1871 e 17 agosto 1872 davanti la Prefettura di Genova.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 11 marzo 1873.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 aprile 1873   
-  
-Vol. 68 Atti del Governo a c. 59. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-Quintino Sella   
-  
+E' concessa facolta', senza pregiudizio dei legittimi diritti dei terzi, a Giuseppe Merello di stabilire ed esercitare nel porto di Genova un bacino da carenaggio gallegiante in ferro od in legno, da servire al raddobbo delle navi. 
+ 
+ Tale concessione e' fatta per anni trenta a partire dal 15 luglio 1871, mediante l'annua prestazione di lire millecento a favore delle Finanze dello Stato e sotto l'esatta osservanza delle singole condizioni assunte coi pubblici atti sottoscritti dal richiedente il 15 luglio 1871 e 17 agosto 1872 davanti la Prefettura di Genova. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 11 marzo 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 aprile 1873 
+ 
+ Vol. 68 Atti del Governo a c. 59. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ Quintino Sella

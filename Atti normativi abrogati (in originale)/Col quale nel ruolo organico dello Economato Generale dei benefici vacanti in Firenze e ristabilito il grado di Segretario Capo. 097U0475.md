@@ -1,16 +1,14 @@
-REGIO DECRETO 10 novembre 1897 n. 475
-
-
-REGIO DECRETO 10 novembre 1897 n. 475
-=====================================
-
-Col quale nel ruolo organico dello Economato Generale dei benefici vacanti in Firenze e' ristabilito il grado di Segretario Capo. (097U0475)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/12/1897
+---
+tipo: REGIO DECRETO
+numero: 475
+data: 1897-11-10
+titolo: "Col quale nel ruolo organico dello Economato Generale dei benefici vacanti in Firenze e' ristabilito il grado di Segretario Capo. (097U0475)"
+urn: urn:nir:stato:regio.decreto:1897-11-10;475
+codice_redazionale: 097U0475
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,25 +18,18 @@ Visto il Nostro decreto del 30 maggio 1884 n. 2353 (serie 3ª), col quale fu app
 
 Ritenuto che l'esperienza ha dimostrata l'opportunita' di ripristinare, nell'Amministrazione suddetta, il posto di Segretario Capo, abolito con l'altro Nostro decreto del 25 agosto 1893 n. 502;
 
-Sulla
------
+Sulla proposizione del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nel ruolo organico dell'Economato Generale dei benefici vacanti in Firenze e' ristabilito il grado di Segretario Capo, con lo stipendio di annue lire cinquemila.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 10 novembre 1897.   
-  
-UMBERTO.   
-  
-E. Gianturco.   
-  
-Visto, Il Guardasigilli: E. Gianturco.   
-  
+Nel ruolo organico dell'Economato Generale dei benefici vacanti in Firenze e' ristabilito il grado di Segretario Capo, con lo stipendio di annue lire cinquemila. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 10 novembre 1897. 
+ 
+ UMBERTO. 
+ 
+ E. Gianturco. 
+ 
+ Visto, Il Guardasigilli: E. Gianturco.

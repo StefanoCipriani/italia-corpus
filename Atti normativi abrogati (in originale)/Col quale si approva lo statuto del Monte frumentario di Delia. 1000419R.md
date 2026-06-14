@@ -1,19 +1,15 @@
-REGIO DECRETO 03 novembre 1910 n. CCCCXIX
+---
+tipo: REGIO DECRETO
+numero: CCCCXIX
+data: 1910-11-03
+titolo: "Col quale si approva lo statuto del Monte frumentario di Delia. (1000419R)"
+urn: urn:nir:stato:regio.decreto:1910-11-03;419
+codice_redazionale: 1000419R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 novembre 1910 n. CCCCXIX
-=========================================
-
-Col quale si approva lo statuto del Monte frumentario di Delia. (1000419R)
---------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/12/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. CCCCXIX (Dato a San Rossore, il 3 novembre 1910), col quale si approva lo statuto del Monte frumentario di Delia.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. CCCCXIX (Dato a San Rossore, il 3 novembre 1910), col quale si approva lo statuto del Monte frumentario di Delia.

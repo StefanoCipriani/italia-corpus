@@ -1,21 +1,17 @@
-REGIO DECRETO 16 dicembre 1900 n. CCCLXXXIX
+---
+tipo: REGIO DECRETO
+numero: CCCLXXXIX
+data: 1900-12-16
+titolo: "Che accorda al consorzio irriguo di Nirano, Spezzano e Stradella (Modena) la facolta' di riscuotere il contributo dei soci coi privilegi fiscali. (0000389R)"
+urn: urn:nir:stato:regio.decreto:1900-12-16;389
+codice_redazionale: 0000389R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 dicembre 1900 n. CCCLXXXIX
-===========================================
-
-Che accorda al consorzio irriguo di Nirano, Spezzano e Stradella (Modena) la facolta' di riscuotere il contributo dei soci coi privilegi fiscali. (0000389R)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/02/1901
-
-Art. 1
-------
-
-  
-Col quale e' accordata al consorzio irriguo di Nirano, Spezzano e Stradella, in provincia di Modena, la facolta' di riscuotere il contributo dei soci nelle forme e coi privilegi fiscali. - Firmato VITTORIO EMANUELE - Controfirmato Carcano - Visto E. Gianturco.   
-  
-Registrato alla Corte dei conti addi' 21 gennaio 1901.   
-  
-Reg. 227. Atti del Governo a f. 52.   
-  
+Col quale e' accordata al consorzio irriguo di Nirano, Spezzano e Stradella, in provincia di Modena, la facolta' di riscuotere il contributo dei soci nelle forme e coi privilegi fiscali. - Firmato VITTORIO EMANUELE - Controfirmato Carcano - Visto E. Gianturco. 
+ 
+ Registrato alla Corte dei conti addi' 21 gennaio 1901. 
+ 
+ Reg. 227. Atti del Governo a f. 52.

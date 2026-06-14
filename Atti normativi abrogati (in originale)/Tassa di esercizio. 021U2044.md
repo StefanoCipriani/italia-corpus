@@ -1,17 +1,17 @@
-REGIO DECRETO 18 dicembre 1921 n. 2044
+---
+tipo: REGIO DECRETO
+numero: 2044
+data: 1921-12-18
+titolo: "Tassa di esercizio. (021U2044)"
+urn: urn:nir:stato:regio.decreto:1921-12-18;2044
+codice_redazionale: 021U2044
+vigente: true
+---
 
-
-REGIO DECRETO 18 dicembre 1921 n. 2044
-======================================
-
-Tassa di esercizio. (021U2044)
-------------------------------
-
-Entrata in vigore del provvedimento: 18/02/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2044. Regio decreto 18 dicembre 1921, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di S. Quirico in Val Polcevera (Genova) di applicare dal 1° gennaio al 31 dicembre 1921, la tassa di esercizio col limite massimo fino a L. 4000.
+2044.
+
+Regio decreto 18 dicembre 1921, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di S. Quirico in Val Polcevera (Genova) di applicare dal 1° gennaio al 31 dicembre 1921, la tassa di esercizio col limite massimo fino a L. 4000.

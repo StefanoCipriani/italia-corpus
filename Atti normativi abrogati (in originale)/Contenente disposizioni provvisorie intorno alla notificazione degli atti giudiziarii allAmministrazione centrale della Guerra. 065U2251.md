@@ -1,16 +1,14 @@
-REGIO DECRETO 20 aprile 1865 n. 2251
-
-
-REGIO DECRETO 20 aprile 1865 n. 2251
-====================================
-
-Contenente disposizioni provvisorie intorno alla notificazione degli atti giudiziarii all'Amministrazione centrale della Guerra. (065U2251)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/05/1865
+---
+tipo: REGIO DECRETO
+numero: 2251
+data: 1865-04-20
+titolo: "Contenente disposizioni provvisorie intorno alla notificazione degli atti giudiziarii all'Amministrazione centrale della Guerra. (065U2251)"
+urn: urn:nir:stato:regio.decreto:1865-04-20;2251
+codice_redazionale: 065U2251
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,28 +20,22 @@ Veduto l'articolo 3.° del Regolamento per l'esecuzione del Codice di processura
 
 Considerando che il trasferimento nella nuova sede del Governo degli Uffici dell'Amministrazione centrale della Guerra non puo' aver luogo per tutti contemporaneamente, e che infrattanto importa nello interesse del servizio di stabilire ove abbiano ad essere fatte le notificazioni di atti giudiziarii per gli affari che dalla stessa Amministrazione sono trattati;
 
-Sulla
------
+Sulla proposizione del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le notificazioni degli atti giudiziarii per gli affari che sono trattati dall'Amministrazione centrale della Guerra continueranno ad essere fatte provvisoriamente in Torino sino a nuovi provvedimenti definitivi, e frattanto a rappresentare legalmente la medesima e' designato, a partire dal 15 di maggio prossimo, il Direttore Generale dei Servizi amministrativi.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 20 aprile 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 26 aprile 1865   
-  
-Reg.° 32 Atti del Governo a c. 261. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-A. Petitti.   
+Le notificazioni degli atti giudiziarii per gli affari che sono trattati dall'Amministrazione centrale della Guerra continueranno ad essere fatte provvisoriamente in Torino sino a nuovi provvedimenti definitivi, e frattanto a rappresentare legalmente la medesima e' designato, a partire dal 15 di maggio prossimo, il Direttore Generale dei Servizi amministrativi. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 20 aprile 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 26 aprile 1865 
+ 
+ Reg.° 32 Atti del Governo a c. 261. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ A. Petitti.

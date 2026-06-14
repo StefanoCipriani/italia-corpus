@@ -1,16 +1,14 @@
-REGIO DECRETO 19 ottobre 1877 n. 4090
-
-
-REGIO DECRETO 19 ottobre 1877 n. 4090
-=====================================
-
-Col quale i comuni di Orosei, Irgoli, Loculi, Galtelli ed Onifai sono separati dalla sezione di Dorgali e costituiti in sezione distinta colla sede in Orosei nel collegio elettorale di Nuoro. (077U4090)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/11/1877
+---
+tipo: REGIO DECRETO
+numero: 4090
+data: 1877-10-19
+titolo: "Col quale i comuni di Orosei, Irgoli, Loculi, Galtelli ed Onifai sono separati dalla sezione di Dorgali e costituiti in sezione distinta colla sede in Orosei nel collegio elettorale di Nuoro. (077U4090)"
+urn: urn:nir:stato:regio.decreto:1877-10-19;4090
+codice_redazionale: 077U4090
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Orosei, Irgoli, Loculi, Galtelli e Onifai sono separati dalla sezione elettorale di Dorgali, e formeranno una sezione distinta del Collegio elettorale di Nuoro con sede in Orosei.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Giacomo d'Entraque, addi' 19 ottobre 1877.   
-  
-VITTORIO EMANUELE   
-  
-G. Nicotera.   
-  
+I comuni di Orosei, Irgoli, Loculi, Galtelli e Onifai sono separati dalla sezione elettorale di Dorgali, e formeranno una sezione distinta del Collegio elettorale di Nuoro con sede in Orosei. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Giacomo d'Entraque, addi' 19 ottobre 1877. 
+ 
+ VITTORIO EMANUELE 
+ 
+ G. Nicotera.

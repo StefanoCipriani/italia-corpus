@@ -1,32 +1,29 @@
-DECRETO LUOGOTENENZIALE 06 marzo 1946 n. 175
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 175
+data: 1946-03-06
+titolo: "Scioglimento dell'Unione nazionale protezione antiaerea."
+urn: urn:nir:stato:decreto.luogotenenziale:1946-03-06;175
+codice_redazionale: 046U0175
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 06 marzo 1946 n. 175
-============================================
+L'Unione nazionale protezione antiaerea e sciolta con decorrenza dal 28 febbraio 1946.
 
-Scioglimento dell'Unione nazionale protezione antiaerea.
---------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+Il Ministero dell'interno provvedera' alla liquidazione dell'Ente.
+ I beni eventualmente disponibili, dopo effettuata la liquidazione, saranno devoluti all'Erario.
 
-  
-L'Unione nazionale protezione antiaerea e sciolta con decorrenza dal 28 febbraio 1946.  
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
 
-Art. 2
-------
+ Dato a Roma, addi' 6 marzo 1946
 
-  
-Il Ministero dell'interno provvedera' alla liquidazione dell'Ente.  
-I beni eventualmente disponibili, dopo effettuata la liquidazione, saranno devoluti all'Erario.  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.  
-  
-Dato a Roma, addi' 6 marzo 1946  
-  
-UMBERTO DI SAVOIA  
-  
-ROMITA   
-Visto, il Guardasigilli: TOGLIATTI  
-Registrato alla Conte dei conti, addi' 16 aprile 1946  
-Atti del Governo, registro n. 9, foglio n. 138. - FRASCA  
+ UMBERTO DI SAVOIA
+
+ ROMITA 
+Visto, il Guardasigilli: TOGLIATTI
+ Registrato alla Conte dei conti, addi' 16 aprile 1946
+ Atti del Governo, registro n. 9, foglio n. 138. - FRASCA

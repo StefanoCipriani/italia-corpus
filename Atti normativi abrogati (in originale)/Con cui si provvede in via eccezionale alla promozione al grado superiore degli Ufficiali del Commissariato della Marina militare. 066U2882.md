@@ -1,16 +1,14 @@
-REGIO DECRETO 06 maggio 1866 n. 2882
-
-
-REGIO DECRETO 06 maggio 1866 n. 2882
-====================================
-
-Con cui si provvede in via eccezionale alla promozione al grado superiore degli Ufficiali del Commissariato della Marina militare. (066U2882)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/05/1866
+---
+tipo: REGIO DECRETO
+numero: 2882
+data: 1866-05-06
+titolo: "Con cui si provvede in via eccezionale alla promozione al grado superiore degli Ufficiali del Commissariato della Marina militare. (066U2882)"
+urn: urn:nir:stato:regio.decreto:1866-05-06;2882
+codice_redazionale: 066U2882
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,27 +22,20 @@ Considerato come non si possa provvedere alle vacanze ora esistenti nei vari gra
 
 Sulla proposta del Nostro Ministro della Marina;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-In via eccezionale e limitatamente al numero stabilito dai predetti Regii Decreti si potranno promuovere al grado superiore gli Ufficiali del Commissariato della Marina militare, purche' riconosciuti idonei, sebbene non riuniscano le condizioni di tempo nel grado di navigazione e con deroga dalle prescrizioni dell'esame stabilite dal Decreto 12 marzo 1863.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 6 maggio 1866.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 7 maggio 1866   
-Reg.° 35 Atti del Governo a c. 201. Crodara-Visconti.   
-Luogo del Sigillo. V. Il Guardasigilli DE FALCO.   
-  
-D. ANGIOLETTI.   
-  
+In via eccezionale e limitatamente al numero stabilito dai predetti Regii Decreti si potranno promuovere al grado superiore gli Ufficiali del Commissariato della Marina militare, purche' riconosciuti idonei, sebbene non riuniscano le condizioni di tempo nel grado di navigazione e con deroga dalle prescrizioni dell'esame stabilite dal Decreto 12 marzo 1863. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 6 maggio 1866. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 7 maggio 1866 
+ Reg.° 35 Atti del Governo a c. 201. Crodara-Visconti. 
+ Luogo del Sigillo. V. Il Guardasigilli DE FALCO. 
+ 
+ D. ANGIOLETTI.

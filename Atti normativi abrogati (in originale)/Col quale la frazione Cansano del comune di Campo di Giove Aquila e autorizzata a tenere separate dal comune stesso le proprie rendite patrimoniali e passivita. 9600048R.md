@@ -1,21 +1,17 @@
-REGIO DECRETO 09 febbraio 1896 n. XLVIII
+---
+tipo: REGIO DECRETO
+numero: XLVIII
+data: 1896-02-09
+titolo: "Col quale la frazione Cansano del comune di Campo di Giove (Aquila) e' autorizzata a tenere separate dal comune stesso le proprie rendite patrimoniali e passivita'. (9600048R)"
+urn: urn:nir:stato:regio.decreto:1896-02-09;48
+codice_redazionale: 9600048R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 febbraio 1896 n. XLVIII
-========================================
-
-Col quale la frazione Cansano del comune di Campo di Giove (Aquila) e' autorizzata a tenere separate dal comune stesso le proprie rendite patrimoniali e passivita'. (9600048R)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/03/1896
-
-Art. 1
-------
-
-  
-Col quale la frazione Cansano del comune di Campo di Giove (Aquila) e' autorizzata a tenere separate dal comune stesso le proprie rendite patrimoniali e passivita', non che le spese indicate nell'art. 15 della legge comunale e provinciale. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei conti addi' 24 febbraio 1896.   
-  
-Reg. 204. Atti del Governo a f. 146.   
-  
+Col quale la frazione Cansano del comune di Campo di Giove (Aquila) e' autorizzata a tenere separate dal comune stesso le proprie rendite patrimoniali e passivita', non che le spese indicate nell'art. 15 della legge comunale e provinciale. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei conti addi' 24 febbraio 1896. 
+ 
+ Reg. 204. Atti del Governo a f. 146.

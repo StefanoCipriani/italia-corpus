@@ -1,16 +1,14 @@
-REGIO DECRETO 13 febbraio 1879 n. 4747
-
-
-REGIO DECRETO 13 febbraio 1879 n. 4747
-======================================
-
-Che separa i comuni di Frasso Telesino e Melizzano dalla sezione elettorale di Solopaca, e forma due sezioni distinte del collegio elettorale di Airola. (079U4747)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/03/1879
+---
+tipo: REGIO DECRETO
+numero: 4747
+data: 1879-02-13
+titolo: "Che separa i comuni di Frasso Telesino e Melizzano dalla sezione elettorale di Solopaca, e forma due sezioni distinte del collegio elettorale di Airola. (079U4747)"
+urn: urn:nir:stato:regio.decreto:1879-02-13;4747
+codice_redazionale: 079U4747
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Che Frasso Telesino dista da Solopaca 12 chilometri, e manca di strada rotabile;
 
 Considerato che istituendo le due sezioni elettorali di Frasso Telesino e Melizzano si rende piu' facile l'esercizio del diritto elettorale ad un notevole numero di elettori;
 
-Sulla
------
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Frasso Telesino e Melizzano sono separati dalla sezione elettorale di Solopaca, e formeranno due distinte sezioni del Collegio elettorale di Airola.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 febbraio 1879.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
+I comuni di Frasso Telesino e Melizzano sono separati dalla sezione elettorale di Solopaca, e formeranno due distinte sezioni del Collegio elettorale di Airola. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 febbraio 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.

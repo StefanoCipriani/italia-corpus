@@ -1,24 +1,22 @@
-REGIO DECRETO 03 dicembre 1885 n. 3587
-
-
-REGIO DECRETO 03 dicembre 1885 n. 3587
-======================================
-
-Che aggrega al comune chiuso di Pisa, per la riscossione dei dazi di consumo, i comuni aperti di Cascina e Bagni San Giuliano. (085U3587)
------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/01/1886
+---
+tipo: REGIO DECRETO
+numero: 3587
+data: 1885-12-03
+titolo: "Che aggrega al comune chiuso di Pisa, per la riscossione dei dazi di consumo, i comuni aperti di Cascina e Bagni San Giuliano. (085U3587)"
+urn: urn:nir:stato:regio.decreto:1885-12-03;3587
+codice_redazionale: 085U3587
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'articolo 4 dell'allegato L alla [legge dell'11 agosto 1870, n. 5784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784);
+Visto l'articolo 4 dell'allegato L alla [legge dell'11 agosto 1870, n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md);
 
-Visto il regolamento sui dazi interni di consumo, approvato con [R. decreto del 25 agosto 1870, n. 5840](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-08-25;5840);
+Visto il regolamento sui dazi interni di consumo, approvato con [R. decreto del 25 agosto 1870, n. 5840](Che%20approva%20il%20Regolamento%20generale%20sui%20dazi%20interni%20di%20consumo.%20070U5840.md);
 
 Visto il Nostro decreto del 9 dicembre 1880, n. 5791;
 
@@ -30,32 +28,23 @@ Vista la deliberazione del 2 settembre 1885, emessa dal Consiglio comunale di Pi
 
 Udito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Per la riscossione dei dazi di consumo sono aggregati al comune chiuso di Pisa i comuni aperti e contermini di Cascina e Bagni S.
+Giuliano.
 
-  
-  
-Per la riscossione dei dazi di consumo sono aggregati al comune chiuso di Pisa i comuni aperti e contermini di Cascina e Bagni S.  
-Giuliano.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' approvata e resa esecutoria la deliberazione del 2 settembre 1885 emessa dal Consiglio comunale di Pisa per l'abbonamento alla riscossione dei dazi di consumo governativi in quel comune chiuso e negli altri due aperti ad esso aggregati durante il quinquennio dal 1° gennaio 1886 a tutto il 31 dicembre 1890 mediante corresponsione dell'annuo canone di lire 320,000 (lire trecentoventimila) da parte dello stesso comune di Pisa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 dicembre 1885.   
-  
-UMBERTO.   
-  
-A. Magliani.   
-  
-Visto, Il Guardasigilli: Tajani.   
+E' approvata e resa esecutoria la deliberazione del 2 settembre 1885 emessa dal Consiglio comunale di Pisa per l'abbonamento alla riscossione dei dazi di consumo governativi in quel comune chiuso e negli altri due aperti ad esso aggregati durante il quinquennio dal 1° gennaio 1886 a tutto il 31 dicembre 1890 mediante corresponsione dell'annuo canone di lire 320,000 (lire trecentoventimila) da parte dello stesso comune di Pisa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 dicembre 1885. 
+ 
+ UMBERTO. 
+ 
+ A. Magliani. 
+ 
+ Visto, Il Guardasigilli: Tajani.

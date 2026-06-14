@@ -1,16 +1,14 @@
-REGIO DECRETO 07 marzo 1870 n. 5569
-
-
-REGIO DECRETO 07 marzo 1870 n. 5569
-===================================
-
-Autorizza la frazione di Villa-Cortese a tenere separate le proprie rendite patrimoniali e passivita' da quelle del Comune di Busto Garolfo. (070U5569)
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/04/1870
+---
+tipo: REGIO DECRETO
+numero: 5569
+data: 1870-03-07
+titolo: "Autorizza la frazione di Villa-Cortese a tenere separate le proprie rendite patrimoniali e passivita' da quelle del Comune di Busto Garolfo. (070U5569)"
+urn: urn:nir:stato:regio.decreto:1870-03-07;5569
+codice_redazionale: 070U5569
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Vista la domanda della maggioranza dei contribuenti di Villa-Cortese, per ottene
 
 Vista la deliberazione del Consiglio comunale di Busto Garolfo, in data 29 dicembre 1869;
 
-Visto
------
+Visto l'articolo 16 della Legge comunale e provinciale 20 marzo 1865; Abbiamo decretato e decretiamo:
 
-l'articolo 16 della Legge comunale e provinciale 20 marzo 1865; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La frazione di Villa-Cortese e' autorizzata a tenere le proprie rendite patrimoniali, le passivita' e le spese separate da quelle del rimanente del Comune di Busto Garolfo (Milano).   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 7 marzo 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 22 marzo 1870   
-  
-Reg. 50 Atti del Governo a c. 152. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Lanza.   
-  
+La frazione di Villa-Cortese e' autorizzata a tenere le proprie rendite patrimoniali, le passivita' e le spese separate da quelle del rimanente del Comune di Busto Garolfo (Milano). 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 7 marzo 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 22 marzo 1870 
+ 
+ Reg. 50 Atti del Governo a c. 152. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Lanza.

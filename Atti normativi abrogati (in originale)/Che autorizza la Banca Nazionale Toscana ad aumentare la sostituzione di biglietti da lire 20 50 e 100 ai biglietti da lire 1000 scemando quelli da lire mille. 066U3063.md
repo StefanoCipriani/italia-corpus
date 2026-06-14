@@ -1,16 +1,14 @@
-REGIO DECRETO 04 luglio 1866 n. 3063
-
-
-REGIO DECRETO 04 luglio 1866 n. 3063
-====================================
-
-Che autorizza la Banca Nazionale Toscana ad aumentare la sostituzione di biglietti da lire 20, 50 e 100 ai biglietti da lire 1000, scemando quelli da lire mille. (066U3063)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/08/1866
+---
+tipo: REGIO DECRETO
+numero: 3063
+data: 1866-07-04
+titolo: "Che autorizza la Banca Nazionale Toscana ad aumentare la sostituzione di biglietti da lire 20, 50 e 100 ai biglietti da lire 1000, scemando quelli da lire mille. (066U3063)"
+urn: urn:nir:stato:regio.decreto:1866-07-04;3063
+codice_redazionale: 066U3063
+vigente: true
+---
 
 EUGENIO
--------
 
 PRINCIPE DI SAVOJA-CARIGNANO
 
@@ -32,45 +30,30 @@ Vista infine la deliberazione del Consiglio superiore di detta Banca Nazionale T
 
 Considerando che la sostituzione ordinata col succitato Regio Decreto 19 maggio per cinque milioni di lire di biglietti da lire 20, 50 e 100, comparisce ora insufficiente a soddisfare i bisogni del pubblico, e quindi ad evitare le difficolta' della circolazione trovasi opportuno nelle attuali circostanze il proposto aumento;
 
-Sulla
------
+Sulla proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
 
-proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+La Banca Nazionale Toscana ha facolta' di aumentare la sostituzione di biglietti da L. 20, 50 e 100 ai biglietti da L. 1000 gia' autorizzata per cinque milioni di lire italiane col R. Decreto del 19 scorso maggio, sino a concorrenza di altri cinque milioni di eguali lire italiane.
 
-  
-  
-La Banca Nazionale Toscana ha facolta' di aumentare la sostituzione di biglietti da L. 20, 50 e 100 ai biglietti da L. 1000 gia' autorizzata per cinque milioni di lire italiane col R. Decreto del 19 scorso maggio, sino a concorrenza di altri cinque milioni di eguali lire italiane.   
-  
+## Art. 2.
 
-Art. 2
-------
+La categoria dei biglietti da lire 1000 sara' scemata di altri n° 5000 biglietti in sostituzione di quelli di minor valuta che saranno emessi per effetto dell'articolo precedente.
 
-  
-  
-La categoria dei biglietti da lire 1000 sara' scemata di altri n° 5000 biglietti in sostituzione di quelli di minor valuta che saranno emessi per effetto dell'articolo precedente.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-La divisione dei nuovi biglietti nelle categorie di L. 100, 50 e 20, i quali quanto alla forma, alle firme, ed al modo d'emissione saranno conformi ai precedentemente autorizzati, sara' proposta dalla Direzione della sede di Firenze, ed approvata dal Ministro delle Finanze.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 4 luglio 1866.   
-  
-EUGENIO DI SAVOJA   
-  
-Registrato alla Corte dei conti addi' 16 luglio 1866.   
-  
-Reg.º 36 Atti del Governo a c.174. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Borgatti.   
-  
-A. Scialoja.   
-  
+La divisione dei nuovi biglietti nelle categorie di L. 100, 50 e 20, i quali quanto alla forma, alle firme, ed al modo d'emissione saranno conformi ai precedentemente autorizzati, sara' proposta dalla Direzione della sede di Firenze, ed approvata dal Ministro delle Finanze. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 4 luglio 1866. 
+ 
+ EUGENIO DI SAVOJA 
+ 
+ Registrato alla Corte dei conti addi' 16 luglio 1866. 
+ 
+ Reg.º 36 Atti del Governo a c.174. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ A. Scialoja.

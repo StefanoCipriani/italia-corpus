@@ -1,21 +1,17 @@
-REGIO DECRETO 23 maggio 1899 n. CLXXXIX
+---
+tipo: REGIO DECRETO
+numero: CLXXXIX
+data: 1899-05-23
+titolo: "Che erige in ente morale la societa' fra gli ufficiali pensionati in Roma. (9900189R)"
+urn: urn:nir:stato:regio.decreto:1899-05-23;189
+codice_redazionale: 9900189R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 maggio 1899 n. CLXXXIX
-=======================================
-
-Che erige in ente morale la societa' fra gli ufficiali pensionati in Roma. (9900189R)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/07/1899
-
-Art. 1
-------
-
-  
-Con cui la societa' fra gli ufficiali pensionati del Regno d'Italia, con sede centrale in Roma, e' eretta in ente morale e ne viene approvato lo statuto organico. - Firmato UMBERTO - Controfirmato Pelloux - Visto A. Bonasi.   
-  
-Registrato alla Corte dei conti addi' 24 giugno 1899.   
-  
-Reg. 220. Atti del Governo a f. 22.   
-  
+Con cui la societa' fra gli ufficiali pensionati del Regno d'Italia, con sede centrale in Roma, e' eretta in ente morale e ne viene approvato lo statuto organico. - Firmato UMBERTO - Controfirmato Pelloux - Visto A. Bonasi. 
+ 
+ Registrato alla Corte dei conti addi' 24 giugno 1899. 
+ 
+ Reg. 220. Atti del Governo a f. 22.

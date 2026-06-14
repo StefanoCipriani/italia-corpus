@@ -1,16 +1,14 @@
-REGIO DECRETO 09 gennaio 1913 n. 11
-
-
-REGIO DECRETO 09 gennaio 1913 n. 11
-===================================
-
-Col quale e' vietato di uccidere o prendere il camoscio (Rupicapra ornata) nei comuni di Civitella Alfedena e di Opi (Aquila), nel comune di Settefrati (Caserta) e nelle localita' circostanti (013U0011)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/02/1913
+---
+tipo: REGIO DECRETO
+numero: 11
+data: 1913-01-09
+titolo: "Col quale e' vietato di uccidere o prendere il camoscio (Rupicapra ornata) nei comuni di Civitella Alfedena e di Opi (Aquila), nel comune di Settefrati (Caserta) e nelle localita' circostanti (013U0011)"
+urn: urn:nir:stato:regio.decreto:1913-01-09;11
+codice_redazionale: 013U0011
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,45 +18,30 @@ Riconosciuta la necessita' di provvedere alla conservazione del camoscio (Rupica
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' vietato a chiunque, in qualsiasi tempo e con qualsiasi modo, di uccidere o prendere il camoscio (Rupicapra ornata) nei comuni di Civitella Alfedena e di Opi (Aquila), nel comune di Settefrati (Caserta) e nelle localita' circostanti.
 
-  
-  
-E' vietato a chiunque, in qualsiasi tempo e con qualsiasi modo, di uccidere o prendere il camoscio (Rupicapra ornata) nei comuni di Civitella Alfedena e di Opi (Aquila), nel comune di Settefrati (Caserta) e nelle localita' circostanti.   
+## Art. 2.
 
-Art. 2
-------
+I contravventori al divieto saranno puniti a norma degli articoli 190, 191, 222, 223, 224, 225, della legge 18 ottobre 1819, sulle foreste, per l'ex Regno di Napoli, in quanto siano applicabili.
 
-  
-  
-I contravventori al divieto saranno puniti a norma degli articoli 190, 191, 222, 223, 224, 225, della legge 18 ottobre 1819, sulle foreste, per l'ex Regno di Napoli, in quanto siano applicabili.   
+## Art. 3.
 
-Art. 3
-------
+Il Nostro ministro, segretario di Stato per l'agricoltura, l'industria ed il commercio e' incaricato della esecuzione del presente decreto; e provvedera' specialmente per l'esercizio della sorveglianza a mezzo dei RR. carabinieri, delle guardie forestali e delle guardie giurate dei Comuni nei quali vive la specie su ricordata.
 
-  
-  
-Il Nostro ministro, segretario di Stato per l'agricoltura, l'industria ed il commercio e' incaricato della esecuzione del presente decreto; e provvedera' specialmente per l'esercizio della sorveglianza a mezzo dei RR. carabinieri, delle guardie forestali e delle guardie giurate dei Comuni nei quali vive la specie su ricordata.   
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Il presente decreto sara' presentato al Parlamento per essere convertito in legge dello Stato.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 gennaio 1913.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti - Nitti.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
+Il presente decreto sara' presentato al Parlamento per essere convertito in legge dello Stato. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 gennaio 1913. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti - Nitti. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

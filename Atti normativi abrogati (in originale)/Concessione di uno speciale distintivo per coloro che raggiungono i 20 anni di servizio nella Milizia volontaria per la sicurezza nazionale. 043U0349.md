@@ -1,16 +1,14 @@
-REGIO DECRETO 28 gennaio 1943 n. 349
-
-
-REGIO DECRETO 28 gennaio 1943 n. 349
-====================================
-
-Concessione di uno speciale distintivo per coloro che raggiungono i 20 anni di servizio nella Milizia volontaria per la sicurezza nazionale. (043U0349)
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/06/1943
+---
+tipo: REGIO DECRETO
+numero: 349
+data: 1943-01-28
+titolo: "Concessione di uno speciale distintivo per coloro che raggiungono i 20 anni di servizio nella Milizia volontaria per la sicurezza nazionale. (043U0349)"
+urn: urn:nir:stato:regio.decreto:1943-01-28;349
+codice_redazionale: 043U0349
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,53 +30,38 @@ Udito il parere del Consiglio di Stato;
 
 sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo e Ministro per la guerra, per la marina e per l'aeronautica; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo e Ministro per la guerra, per la marina e per l'aeronautica; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' istituito per gli appartenenti alla Milizia volontaria per la sicurezza nazionale, uno speciale distintivo consistente in un gladio metallico colorato in rosso e conforme al modello allegato al R. decreto 19 maggio 1938-XVI, n. 1099, da apporre sul nastrino della croce per anzianita' di servizio istituita con R. decreto 23 gennaio 1933-XI, n. 8. 
+ 
+ Lo speciale distintivo preveduto dal comma precedente e' concesso al compimento di venti anni di effettivo servizio, permanente o nei quadri, nella Milizia volontaria per la sicurezza nazionale.
 
-  
-  
-E' istituito per gli appartenenti alla Milizia volontaria per la sicurezza nazionale, uno speciale distintivo consistente in un gladio metallico colorato in rosso e conforme al modello allegato al R. decreto 19 maggio 1938-XVI, n. 1099, da apporre sul nastrino della croce per anzianita' di servizio istituita con R. decreto 23 gennaio 1933-XI, n. 8.   
-  
-Lo speciale distintivo preveduto dal comma precedente e' concesso al compimento di venti anni di effettivo servizio, permanente o nei quadri, nella Milizia volontaria per la sicurezza nazionale.   
+## Art. 2.
 
-Art. 2
-------
+Il periodo di servizio prestato dagli appartenenti alla Milizia volontaria per la sicurezza nazionale, che abbiano avuto il riconoscimento di aver partecipato ad operazioni di guerra presso comandi o reparti mobilitati, e' considerato doppio agli effetti della concessione del distintivo di cui all'art. 1 del presente decreto. 
+ 
+ Per il servizio prestato nell'Africa italiana si applicano le norme di cui all'art. 1 del R. decreto 19 maggio 1938-XVI, n. 1099.
 
-  
-  
-Il periodo di servizio prestato dagli appartenenti alla Milizia volontaria per la sicurezza nazionale, che abbiano avuto il riconoscimento di aver partecipato ad operazioni di guerra presso comandi o reparti mobilitati, e' considerato doppio agli effetti della concessione del distintivo di cui all'art. 1 del presente decreto.   
-  
-Per il servizio prestato nell'Africa italiana si applicano le norme di cui all'art. 1 del R. decreto 19 maggio 1938-XVI, n. 1099.   
+## Art. 3.
 
-Art. 3
-------
+Il periodo di tempo trascorso dagli appartenenti alla Milizia volontaria per la sicurezza nazionale presso altre Forze armate dello Stato in seguito a richiamo di autorita' e' considerato come servizio prestato nella Milizia ai fini della concessione del distintivo istituito con l'art. 1 del presente decreto.
 
-  
-  
-Il periodo di tempo trascorso dagli appartenenti alla Milizia volontaria per la sicurezza nazionale presso altre Forze armate dello Stato in seguito a richiamo di autorita' e' considerato come servizio prestato nella Milizia ai fini della concessione del distintivo istituito con l'art. 1 del presente decreto.   
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-L'autorizzazione a fregiarsi del distintivo istituito con il precedente art. 1 e' rilasciata dal Comando generale della Milizia volontaria per la sicurezza nazionale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 gennaio 1943-XXI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI   
-  
-Visto, il Guardasigilli: DE MARSICO   
-  
-Registrato alla Corte dei conti, addi' 14 maggio 1943-XXI   
-  
-Atti del Governo, registro n. 457, foglio 42. - MANCINI   
+L'autorizzazione a fregiarsi del distintivo istituito con il precedente art. 1 e' rilasciata dal Comando generale della Milizia volontaria per la sicurezza nazionale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 gennaio 1943-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI 
+ 
+ Visto, il Guardasigilli: DE MARSICO 
+ 
+ Registrato alla Corte dei conti, addi' 14 maggio 1943-XXI 
+ 
+ Atti del Governo, registro n. 457, foglio 42. - MANCINI

@@ -1,16 +1,14 @@
-REGIO DECRETO 19 dicembre 1940 n. 1896
-
-
-REGIO DECRETO 19 dicembre 1940 n. 1896
-======================================
-
-Autorizzazione al Ministero delle corporazioni ad assumere in servizio altre 30 unita' di personale non di ruolo. (040U1896)
-----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/01/1941
+---
+tipo: REGIO DECRETO
+numero: 1896
+data: 1940-12-19
+titolo: "Autorizzazione al Ministero delle corporazioni ad assumere in servizio altre 30 unita' di personale non di ruolo. (040U1896)"
+urn: urn:nir:stato:regio.decreto:1940-12-19;1896
+codice_redazionale: 040U1896
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,32 +32,26 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le corporazioni di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le corporazioni di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Ministro per le corporazioni e' autorizzato ad assumere e a mantenere in servizio, in eccedenza al limite fissato dal R. decreto 8 luglio 1937-XV, n. 1394, personale non di ruolo della categoria 4a , di cui alla tabella I, allegata al R. decreto-legge 4 febbraio 1937-XV, n. 100, per non oltre 30 posti.   
-  
-La retribuzione del personale assunto e mantenuto in servizio, ai sensi del precedente comma, e' a carico del fondo speciale delle Corporazioni.   
-  
-Il presente decreto entra in vigore dal giorno della sua pubblicazione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 dicembre 1940-XIX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - RICCI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte del conti, addi' 25 gennaio 1941-XIX   
-  
-Atti del Governo, registro 429, foglio 127. - MANCINI   
+Il Ministro per le corporazioni e' autorizzato ad assumere e a mantenere in servizio, in eccedenza al limite fissato dal R. decreto 8 luglio 1937-XV, n. 1394, personale non di ruolo della categoria 4a , di cui alla tabella I, allegata al R. decreto-legge 4 febbraio 1937-XV, n. 100, per non oltre 30 posti. 
+ 
+ La retribuzione del personale assunto e mantenuto in servizio, ai sensi del precedente comma, e' a carico del fondo speciale delle Corporazioni. 
+ 
+ Il presente decreto entra in vigore dal giorno della sua pubblicazione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 dicembre 1940-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - RICCI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte del conti, addi' 25 gennaio 1941-XIX 
+ 
+ Atti del Governo, registro 429, foglio 127. - MANCINI

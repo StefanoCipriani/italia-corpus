@@ -1,21 +1,17 @@
-REGIO DECRETO 04 maggio 1942 n. 726
+---
+tipo: REGIO DECRETO
+numero: 726
+data: 1942-05-04
+titolo: "Istituzione di un posto di secondo vice console presso il Regio consolato generale in Innsbruck. (042U0726)"
+urn: urn:nir:stato:regio.decreto:1942-05-04;726
+codice_redazionale: 042U0726
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 maggio 1942 n. 726
-===================================
-
-Istituzione di un posto di secondo vice console presso il Regio consolato generale in Innsbruck. (042U0726)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/07/1942
-
-Art. 1
-------
-
- N. 726 R. decreto 4 maggio 1942, col quale, sulla proposta del Ministro per gli affari esteri, viene istituito un posto di secondo vice console presso il Regio consolato generale in Innsbruck.   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 15 giugno 1942-XX   
-  
-  
+N. 726 R. decreto 4 maggio 1942, col quale, sulla proposta del Ministro per gli affari esteri, viene istituito un posto di secondo vice console presso il Regio consolato generale in Innsbruck. 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 15 giugno 1942-XX

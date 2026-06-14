@@ -1,21 +1,17 @@
-REGIO DECRETO 25 febbraio 1904 n. LXX
+---
+tipo: REGIO DECRETO
+numero: LXX
+data: 1904-02-25
+titolo: "Che cambia il nome del comune di Salvirola Cremasca in quello di Salvirola. (0400070R)"
+urn: urn:nir:stato:regio.decreto:1904-02-25;70
+codice_redazionale: 0400070R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 febbraio 1904 n. LXX
-=====================================
-
-Che cambia il nome del comune di Salvirola Cremasca in quello di Salvirola. (0400070R)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/04/1904
-
-Art. 1
-------
-
-  
-Che cambia il nome del comune di Salvirola Cremasca in quello di Salvirola. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 12 marzo 1904.   
-  
-Reg. 15. Atti del Governo a f. 140.   
-  
+Che cambia il nome del comune di Salvirola Cremasca in quello di Salvirola. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 12 marzo 1904. 
+ 
+ Reg. 15. Atti del Governo a f. 140.

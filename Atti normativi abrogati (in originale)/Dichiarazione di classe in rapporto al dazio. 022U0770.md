@@ -1,17 +1,13 @@
-REGIO DECRETO 04 maggio 1922 n. 770
+---
+tipo: REGIO DECRETO
+numero: 770
+data: 1922-05-04
+titolo: "Dichiarazione di classe in rapporto al dazio. (022U0770)"
+urn: urn:nir:stato:regio.decreto:1922-05-04;770
+codice_redazionale: 022U0770
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 maggio 1922 n. 770
-===================================
-
-Dichiarazione di classe in rapporto al dazio. (022U0770)
---------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/07/1922
-
-Art. 1
-------
-
-  
-N.770. Regio decreto 4 maggio 1922, col quale, sulla proposta del ministro delle finanze, il comune di Cosenza e' dichiarato di seconda classe nei riguardi del dazio consumo, con effetto dal giorno successivo a quello della pubblicazione del decreto, nella Gazzetta ufficiale del Regno.   
-  
+N.770. Regio decreto 4 maggio 1922, col quale, sulla proposta del ministro delle finanze, il comune di Cosenza e' dichiarato di seconda classe nei riguardi del dazio consumo, con effetto dal giorno successivo a quello della pubblicazione del decreto, nella Gazzetta ufficiale del Regno.

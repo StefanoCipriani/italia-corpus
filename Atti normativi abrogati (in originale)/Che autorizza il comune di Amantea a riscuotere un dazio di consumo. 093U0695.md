@@ -1,16 +1,14 @@
-REGIO DECRETO 21 dicembre 1893 n. 695
-
-
-REGIO DECRETO 21 dicembre 1893 n. 695
-=====================================
-
-Che autorizza il comune di Amantea a riscuotere un dazio di consumo. (093U0695)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/01/1894
+---
+tipo: REGIO DECRETO
+numero: 695
+data: 1893-12-21
+titolo: "Che autorizza il comune di Amantea a riscuotere un dazio di consumo. (093U0695)"
+urn: urn:nir:stato:regio.decreto:1893-12-21;695
+codice_redazionale: 093U0695
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,29 +18,22 @@ Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze;
 
 Vedute le deliberazioni 19 novembre 1892 e 30 giugno 1893, con le quali il Consiglio comunale di Amantea (provincia della Calabria Citeriore), ha imposto un dazio di consumo su generi non contemplati dalle leggi daziarie del 1864 e 1866, vale a dire sulle palle e sui pallini di piombo, fissando il detto dazio in lire 2 per ogni quintale;
 
-Veduto l'[articolo 11 della legge 11 agosto 1870 n. 5794](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5794~art11), allegato L;
+Veduto l'[articolo 11 della legge 11 agosto 1870 n. 5794](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5794#art_11), allegato L;
 
 Udita la Camera provinciale di commercia ed arti;
 
-Udito
------
+Udito il parere del Consiglio di Stato; Abbiamo decretato e decretiamo:
 
-il parere del Consiglio di Stato; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Amantea e' autorizzato, a seconda delle sue deliberazioni succitate, a riscuotere sulle palle ed i pallini di piombo un dazio di lire 2 per ogni quintale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato, a Roma, addi' 21 dicembre 1893.   
-  
-UMBERTO.   
-  
-Sidney Sonnino.   
-  
-Visto, Il Guardasigilli: V. Calenda di Tavani.   
-  
+Il comune di Amantea e' autorizzato, a seconda delle sue deliberazioni succitate, a riscuotere sulle palle ed i pallini di piombo un dazio di lire 2 per ogni quintale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato, a Roma, addi' 21 dicembre 1893. 
+ 
+ UMBERTO. 
+ 
+ Sidney Sonnino. 
+ 
+ Visto, Il Guardasigilli: V. Calenda di Tavani.

@@ -1,16 +1,14 @@
-REGIO DECRETO 09 marzo 1879 n. 4768
-
-
-REGIO DECRETO 09 marzo 1879 n. 4768
-===================================
-
-Modifica il dazio di consumo a riscuotersi nel comune di Cremona, gia' autorizzato con decreto reale del 18 gennaio 1877. (079U4768)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/04/1879
+---
+tipo: REGIO DECRETO
+numero: 4768
+data: 1879-03-09
+titolo: "Modifica il dazio di consumo a riscuotersi nel comune di Cremona, gia' autorizzato con decreto reale del 18 gennaio 1877. (079U4768)"
+urn: urn:nir:stato:regio.decreto:1879-03-09;4768
+codice_redazionale: 079U4768
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,31 +18,24 @@ Vista la deliberazione presa dal Consiglio comunale di Cremona nell'adunanza del
 
 Visto il succitato decreto Reale del 18 gennaio 1877;
 
-Visto l'articolo 11 dell'allegato L alla [legge 11 agosto 1870, n. 5784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784);
+Visto l'articolo 11 dell'allegato L alla [legge 11 agosto 1870, n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md);
 
 Visto il parere della Camera di commercio e arti di Cremona;
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze, Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del Ministro delle Finanze, Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Cremona e' autorizzato a riscuotere un dazio di consumo nella misura di lire 2 al quintale per la carta da scrivere, da stampa, di qualsiasi qualita' e colore, carta e cartoni ad uso di registro, etichette, biglietti, fotografie e carta di qualunque genere adatta ed usata per involto.   
-  
-Viene cosi' modificato il citato decreto del 18 gennaio 1877.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 marzo 1879.   
-  
-UMBERTO.   
-  
-A. Magliani.   
-  
+Il comune di Cremona e' autorizzato a riscuotere un dazio di consumo nella misura di lire 2 al quintale per la carta da scrivere, da stampa, di qualsiasi qualita' e colore, carta e cartoni ad uso di registro, etichette, biglietti, fotografie e carta di qualunque genere adatta ed usata per involto. 
+ 
+ Viene cosi' modificato il citato decreto del 18 gennaio 1877. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 marzo 1879. 
+ 
+ UMBERTO. 
+ 
+ A. Magliani.

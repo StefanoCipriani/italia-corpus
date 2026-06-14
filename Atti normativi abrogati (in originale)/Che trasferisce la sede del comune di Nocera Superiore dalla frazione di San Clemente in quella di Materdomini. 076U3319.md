@@ -1,16 +1,14 @@
-REGIO DECRETO 26 agosto 1876 n. 3319
-
-
-REGIO DECRETO 26 agosto 1876 n. 3319
-====================================
-
-Che trasferisce la sede del comune di Nocera Superiore dalla frazione di San Clemente in quella di Materdomini. (076U3319)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/10/1876
+---
+tipo: REGIO DECRETO
+numero: 3319
+data: 1876-08-26
+titolo: "Che trasferisce la sede del comune di Nocera Superiore dalla frazione di San Clemente in quella di Materdomini. (076U3319)"
+urn: urn:nir:stato:regio.decreto:1876-08-26;3319
+codice_redazionale: 076U3319
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,31 +20,20 @@ Vedute le deliberazioni del Consiglio comunale di Nocera Superiore in data 3 e 2
 
 Vista la deliberazione emessa dal Consiglio provinciale di Salerno in data 20 agosto 1875 in coerenza al disposto dall'articolo 176 numero 1 della legge comunale e provinciale;
 
-Visto
------
+Visto il decreto Reale in data 11 novembre 1850 con cui venne costituito il comune di Nocera Superiore e designata a capoluogo la frazione di San Clemente, Abbiamo decretato e decretiamo:
 
-il decreto Reale in data 11 novembre 1850 con cui venne costituito il comune di Nocera Superiore e designata a capoluogo la frazione di San Clemente, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il comune di Nocera Superiore nella provincia di Salerno e' autorizzato a trasferire la sede municipale dalla frazione di San Clemente in quella di Materdomini.
 
-  
-  
-Il comune di Nocera Superiore nella provincia di Salerno e' autorizzato a trasferire la sede municipale dalla frazione di San Clemente in quella di Materdomini.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' derogato il Regio decreto 11 novembre 1850 nella parte che designa a capoluogo del comune di Nocera Superiore la frazione San Clemente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 26 agosto 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+E' derogato il Regio decreto 11 novembre 1850 nella parte che designa a capoluogo del comune di Nocera Superiore la frazione San Clemente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 26 agosto 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

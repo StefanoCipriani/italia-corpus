@@ -1,17 +1,17 @@
-REGIO DECRETO 17 dicembre 1922 n. 1710
+---
+tipo: REGIO DECRETO
+numero: 1710
+data: 1922-12-17
+titolo: "Erezione in Ente morale. (022U1710)"
+urn: urn:nir:stato:regio.decreto:1922-12-17;1710
+codice_redazionale: 022U1710
+vigente: true
+---
 
-
-REGIO DECRETO 17 dicembre 1922 n. 1710
-======================================
-
-Erezione in Ente morale. (022U1710)
------------------------------------
-
-Entrata in vigore del provvedimento: 25/01/1923
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1710. Regio decreto 17 dicembre 1922, col quale, sulla proposta del Ministro dell'interno, presidente del Consiglio dei ministri, l'Associazione di pubblica assistenza «Stella d'Italia», di Spoleto, viene eretta in Ente morale con amministrazione autonoma, e ne approvato lo statuto organico, con la modificazione disposta all'articolo 21.
+1710.
+
+Regio decreto 17 dicembre 1922, col quale, sulla proposta del Ministro dell'interno, presidente del Consiglio dei ministri, l'Associazione di pubblica assistenza «Stella d'Italia», di Spoleto, viene eretta in Ente morale con amministrazione autonoma, e ne approvato lo statuto organico, con la modificazione disposta all'articolo 21.

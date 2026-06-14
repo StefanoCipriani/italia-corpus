@@ -1,16 +1,14 @@
-REGIO DECRETO 18 aprile 1938 n. 592
-
-
-REGIO DECRETO 18 aprile 1938 n. 592
-===================================
-
-Proroga al 31 agosto 1938-XVI del termine per l'espletamento dell'esproprio e dei primi lavori di sistemazione del Parco monumentale di Baia. (038U0592)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/06/1938
+---
+tipo: REGIO DECRETO
+numero: 592
+data: 1938-04-18
+titolo: "Proroga al 31 agosto 1938-XVI del termine per l'espletamento dell'esproprio e dei primi lavori di sistemazione del Parco monumentale di Baia. (038U0592)"
+urn: urn:nir:stato:regio.decreto:1938-04-18;592
+codice_redazionale: 038U0592
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 30 novembre 1936, n. 2125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-30;2125), pubblicato nella Gazzetta Ufficiale del 22 dicembre 1936, n. 295, col quale venne dichiarata di pubblica utilita' l'espropriazione a favore dello Stato degli immobili siti nella Collina di Baia uno scopo di procedere alla sistemazione degli avanzi delle antiche terme romane mediante la creazione di un Parco monumentale;
+Visto il [R. decreto 30 novembre 1936, n. 2125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-30;2125), pubblicato nella Gazzetta Ufficiale del 22 dicembre 1936, n. 295, col quale venne dichiarata di pubblica utilita' l'espropriazione a favore dello Stato degli immobili siti nella Collina di Baia uno scopo di procedere alla sistemazione degli avanzi delle antiche terme romane mediante la creazione di un Parco monumentale;
 
 Visto il decreto 19 settembre 1937, n. 1766, con cui e' stato prorogato al 21 aprile 1938-XVI il termine per i primi lavori di sistemazione del Parco monumentale di Baia;
 
@@ -32,28 +30,22 @@ Visto l'art. 4, ultimo comma, del R. decreto-legge 2 dicembre 1935-XIV, n. 2081,
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' prorogato al 31 agosto 1938-XVI il termine, di cui all'[art. 2, primo comma, del R. decreto 30 novembre 1936, n. 2125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-30;2125~art2-com1), e al dispositivo, [primo comma, del R. decreto 19 settembre 1937, n. 1766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1937-09-19;1766~com1), per l'espletamento dell'espropriazione e dei primi lavori di sistemazione del Parco monumentale di Baia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 aprile 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-BOTTAI   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 23 maggio 1938 - Anno XVI   
-  
-Atti del Governo, registro 397, foglio 131. - MANCINI.   
+E' prorogato al 31 agosto 1938-XVI il termine, di cui all'[art. 2, primo comma, del R. decreto 30 novembre 1936, n. 2125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-11-30;2125#art_2-com1), e al dispositivo, [primo comma, del R. decreto 19 settembre 1937, n. 1766](Proroga%20al%2021%20aprile%201938-XVI%20del%20termine%20per%20i%20primi%20lavori%20di%20sistemazione%20del%20Parco%20monumentale%20di%20Baia.%20037U1766.md), per l'espletamento dell'espropriazione e dei primi lavori di sistemazione del Parco monumentale di Baia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 aprile 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ BOTTAI 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 23 maggio 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 397, foglio 131. - MANCINI.

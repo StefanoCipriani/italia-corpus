@@ -1,16 +1,14 @@
-REGIO DECRETO 22 dicembre 1912 n. 1381
-
-
-REGIO DECRETO 22 dicembre 1912 n. 1381
-======================================
-
-Col quale il comune di Mestre viene dichiarato di 3ª classe nei riguardi del dazio consumo. (012U1381)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/01/1913
+---
+tipo: REGIO DECRETO
+numero: 1381
+data: 1912-12-22
+titolo: "Col quale il comune di Mestre viene dichiarato di 3ª classe nei riguardi del dazio consumo. (012U1381)"
+urn: urn:nir:stato:regio.decreto:1912-12-22;1381
+codice_redazionale: 012U1381
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,33 +26,22 @@ Vista la tabella approvata col Nostro decreto 30 ottobre 1910, n. 782, sulla qua
 
 Vista la decisione 14 dicembre 1912 della Commissione centrale, emessa a' sensi e per gli effetti proposti dagli articoli 87 e 110 del testo unico delle leggi daziarie 7 maggio 1908, n. 248;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il comune di Mestre in provincia di Venezia, e' dichiarato di terza classe nei riguardi del dazio consumo, a decorrere dal 1° gennaio 1912.
 
-  
-  
-Il comune di Mestre in provincia di Venezia, e' dichiarato di terza classe nei riguardi del dazio consumo, a decorrere dal 1° gennaio 1912.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Dal detto giorno, il canone daziario corrisposto allo Stato dal mentovato Comune e' aumentato da annue lire ventitremilasettecentonovantaquattro (L. 23.794) ad annue lire ventisettemilasettantacinque e centesimi novantotto (L. 27.075,98).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 dicembre 1912.   
-  
-VITTORIO EMANUELE.   
-  
-Facta.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+Dal detto giorno, il canone daziario corrisposto allo Stato dal mentovato Comune e' aumentato da annue lire ventitremilasettecentonovantaquattro (L. 23.794) ad annue lire ventisettemilasettantacinque e centesimi novantotto (L. 27.075,98). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 dicembre 1912. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Facta. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

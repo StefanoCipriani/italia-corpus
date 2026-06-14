@@ -1,19 +1,15 @@
-REGIO DECRETO 21 aprile 1862 n. CCCLXXI
+---
+tipo: REGIO DECRETO
+numero: CCCLXXI
+data: 1862-04-21
+titolo: "Che approva un regolamento sullo smercio delle carni per la Citta' di Vercelli. (6200371R)"
+urn: urn:nir:stato:regio.decreto:1862-04-21;371
+codice_redazionale: 6200371R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 aprile 1862 n. CCCLXXI
-=======================================
-
-Che approva un regolamento sullo smercio delle carni per la Citta' di Vercelli. (6200371R)
-------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/04/1862
-
-Art. 1
-------
-
-  
-Che approva un regolamento sullo smercio delle carni deliberato dal Municipio di Vercelli nelle sedute de' 21 novembre e 30 dicembre 1861, e successivamente modificato nell'altra seduta del 29 marzo 1862.   
-  
-Torino 21 aprile 1862   
-  
+Che approva un regolamento sullo smercio delle carni deliberato dal Municipio di Vercelli nelle sedute de' 21 novembre e 30 dicembre 1861, e successivamente modificato nell'altra seduta del 29 marzo 1862. 
+ 
+ Torino 21 aprile 1862

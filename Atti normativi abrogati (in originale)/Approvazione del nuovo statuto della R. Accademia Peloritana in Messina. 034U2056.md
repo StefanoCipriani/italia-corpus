@@ -1,21 +1,21 @@
-REGIO DECRETO 16 ottobre 1934 n. 2056
+---
+tipo: REGIO DECRETO
+numero: 2056
+data: 1934-10-16
+titolo: "Approvazione del nuovo statuto della R. Accademia Peloritana, in Messina. (034U2056)"
+urn: urn:nir:stato:regio.decreto:1934-10-16;2056
+codice_redazionale: 034U2056
+vigente: true
+---
 
-
-REGIO DECRETO 16 ottobre 1934 n. 2056
-=====================================
-
-Approvazione del nuovo statuto della R. Accademia Peloritana, in Messina. (034U2056)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/01/1935
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2056. R. decreto 16 ottobre 1934, col quale, sulla proposta del Ministro per l' educazione nazionale, viene approvato il nuovo statuto della Regia Accademia Peloritana, in Messina.   
-  
-Visto, il Guardasigilli: DE FRANCISCI.   
-  
-Registrato alla corte dei conti, addi' 26 dicembre 1934 - Anno XIII
+2056.
+
+R. decreto 16 ottobre 1934, col quale, sulla proposta del Ministro per l' educazione nazionale, viene approvato il nuovo statuto della Regia Accademia Peloritana, in Messina. 
+ 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ 
+ Registrato alla corte dei conti, addi' 26 dicembre 1934 - Anno XIII

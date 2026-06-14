@@ -1,16 +1,14 @@
-REGIO DECRETO 02 maggio 1878 n. 4361
-
-
-REGIO DECRETO 02 maggio 1878 n. 4361
-====================================
-
-Che separa il comune di Refrontolo dalla sezione principale del collegio elettorale di Conegliano, aggregandola a quella di Pieve di Soligo nello stesso collegio. (078U4361)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/05/1878
+---
+tipo: REGIO DECRETO
+numero: 4361
+data: 1878-05-02
+titolo: "Che separa il comune di Refrontolo dalla sezione principale del collegio elettorale di Conegliano, aggregandola a quella di Pieve di Soligo nello stesso collegio. (078U4361)"
+urn: urn:nir:stato:regio.decreto:1878-05-02;4361
+codice_redazionale: 078U4361
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Ritenuto che Refrontolo dista da Conegliano sedici chilometri e da Pieve di Soli
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Refrontolo e' separato dalla Sezione principale del Collegio elettorale di Conegliano, n. 462, ed aggregato alla Sezione di Pieve di Soligo del Collegio medesimo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 maggio 1878.   
-  
-UMBERTO.   
-  
-G. Zanardelli.   
-  
+Il comune di Refrontolo e' separato dalla Sezione principale del Collegio elettorale di Conegliano, n. 462, ed aggregato alla Sezione di Pieve di Soligo del Collegio medesimo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 maggio 1878. 
+ 
+ UMBERTO. 
+ 
+ G. Zanardelli.

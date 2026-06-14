@@ -1,16 +1,14 @@
-REGIO DECRETO 24 dicembre 1893 n. 674
-
-
-REGIO DECRETO 24 dicembre 1893 n. 674
-=====================================
-
-Che chiama alle armi i militari di prima categoria della classe 1869. (093U0674)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/01/1894
+---
+tipo: REGIO DECRETO
+numero: 674
+data: 1893-12-24
+titolo: "Che chiama alle armi i militari di prima categoria della classe 1869. (093U0674)"
+urn: urn:nir:stato:regio.decreto:1893-12-24;674
+codice_redazionale: 093U0674
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,33 +18,22 @@ Visto l'articolo 131 della legge sul reclutamento, testo unico approvato con Reg
 
 Previa deliberazione del Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari della Guerra; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari della Guerra; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono chiamati alle armi i militari di 1ª categoria della classe 1869, ascritti ai reggimenti granatieri, di fanteria di linea e bersaglieri ed appartenenti, per fatto di leva, a tutti i distretti militari del Regno.
 
-  
-  
-Sono chiamati alle armi i militari di 1ª categoria della classe 1869, ascritti ai reggimenti granatieri, di fanteria di linea e bersaglieri ed appartenenti, per fatto di leva, a tutti i distretti militari del Regno.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-La chiamata dei predetti militari avra' luogo nel tempo, nei modi e per la durata che saranno, d'ordine Nostro, stabiliti dal Ministro della Guerra.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 dicembre 1893.   
-  
-UMBERTO.   
-  
-MOCENNI.   
-  
-Visto, Il Guardasigilli: CALENDA DI TAVANI.   
-  
+La chiamata dei predetti militari avra' luogo nel tempo, nei modi e per la durata che saranno, d'ordine Nostro, stabiliti dal Ministro della Guerra. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 dicembre 1893. 
+ 
+ UMBERTO. 
+ 
+ MOCENNI. 
+ 
+ Visto, Il Guardasigilli: CALENDA DI TAVANI.

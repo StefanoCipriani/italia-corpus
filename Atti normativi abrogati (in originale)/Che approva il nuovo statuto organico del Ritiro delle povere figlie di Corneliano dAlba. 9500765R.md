@@ -1,21 +1,17 @@
-REGIO DECRETO 15 dicembre 1895 n. DCCLXV
+---
+tipo: REGIO DECRETO
+numero: DCCLXV
+data: 1895-12-15
+titolo: "Che approva il nuovo statuto organico del Ritiro delle povere figlie di Corneliano d'Alba. (9500765R)"
+urn: urn:nir:stato:regio.decreto:1895-12-15;765
+codice_redazionale: 9500765R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 dicembre 1895 n. DCCLXV
-========================================
-
-Che approva il nuovo statuto organico del Ritiro delle povere figlie di Corneliano d'Alba. (9500765R)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/02/1896
-
-Art. 1
-------
-
-  
-Che approva il nuovo statuto organico del Ritiro delle povere figlie di Corneliano d'Alba in data, 15 novembre 1895, composto di ventotto articoli. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 17 gennaio 1896.   
-  
-Reg. 204. Atti del Governo a f. 54.   
-  
+Che approva il nuovo statuto organico del Ritiro delle povere figlie di Corneliano d'Alba in data, 15 novembre 1895, composto di ventotto articoli. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 17 gennaio 1896. 
+ 
+ Reg. 204. Atti del Governo a f. 54.

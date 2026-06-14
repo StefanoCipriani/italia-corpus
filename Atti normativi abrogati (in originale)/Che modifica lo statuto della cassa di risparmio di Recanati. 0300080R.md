@@ -1,23 +1,20 @@
-REGIO DECRETO 19 marzo 1903 n. LXXX
+---
+tipo: REGIO DECRETO
+numero: LXXX
+data: 1903-03-19
+titolo: "Che modifica lo statuto della cassa di risparmio di Recanati. (0300080R)"
+urn: urn:nir:stato:regio.decreto:1903-03-19;80
+codice_redazionale: 0300080R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 marzo 1903 n. LXXX
-===================================
+Che modifica lo statuto della cassa di risparmio di Recanati. - Firmato VITTORIO EMANUELE - Controfirmato G. Baccelli - Visto F.
+Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 31 marzo
 
-Che modifica lo statuto della cassa di risparmio di Recanati. (0300080R)
-------------------------------------------------------------------------
+1903.
 
-Entrata in vigore del provvedimento: 21/04/1903
-
-Art. 1
-------
-
-Che modifica lo statuto della cassa di risparmio di Recanati. - Firmato VITTORIO EMANUELE - Controfirmato G. Baccelli - Visto F.  
-Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 31 marzo
-
-1903. 
-  
-  
 Reg. 9. Atti del Governo a f. 8.

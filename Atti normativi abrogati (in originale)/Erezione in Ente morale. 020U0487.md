@@ -1,17 +1,17 @@
-REGIO DECRETO 08 aprile 1920 n. 487
+---
+tipo: REGIO DECRETO
+numero: 487
+data: 1920-04-08
+titolo: "Erezione in Ente morale. (020U0487)"
+urn: urn:nir:stato:regio.decreto:1920-04-08;487
+codice_redazionale: 020U0487
+vigente: true
+---
 
-
-REGIO DECRETO 08 aprile 1920 n. 487
-===================================
-
-Erezione in Ente morale. (020U0487)
------------------------------------
-
-Entrata in vigore del provvedimento: 20/05/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-487. Regio decreto 8 aprile 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'«Opera pia Giuseppe Giuliana Ronzoni», di Casale Litta (Milano), viene eretta in ente morale con amministrazione autonoma, e ne e' approvato lo statuto organico relativo.
+487.
+
+Regio decreto 8 aprile 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'«Opera pia Giuseppe Giuliana Ronzoni», di Casale Litta (Milano), viene eretta in ente morale con amministrazione autonoma, e ne e' approvato lo statuto organico relativo.

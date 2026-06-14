@@ -1,16 +1,14 @@
-REGIO DECRETO 22 novembre 1937 n. 2675
-
-
-REGIO DECRETO 22 novembre 1937 n. 2675
-======================================
-
-Istituzione di 20 borse di studio a favore degli studenti iscritti presso la Facolta' di magistero della Regia universita' di Torino. (037U2675)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/04/1938
+---
+tipo: REGIO DECRETO
+numero: 2675
+data: 1937-11-22
+titolo: "Istituzione di 20 borse di studio a favore degli studenti iscritti presso la Facolta' di magistero della Regia universita' di Torino. (037U2675)"
+urn: urn:nir:stato:regio.decreto:1937-11-22;2675
+codice_redazionale: 037U2675
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,30 +26,24 @@ Udito il parere del Consiglio di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Presso la Facolta' di magistero della Regia universita' Torino sono istituite venti borse di studio di annue L. 1200 ciascuna.   
-  
-Le borse sono conferite con le norme che regolano l'assegnazione delle analoghe borse istituite presso le Facolta' di magistero delle Regie universita', di Firenze, Messina e Roma.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 novembre 1937 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Bottai - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 16 marzo 1938 - Anno XVI   
-  
-Atti del Governo, registro 395, foglio 82. - Mancini.   
+Presso la Facolta' di magistero della Regia universita' Torino sono istituite venti borse di studio di annue L. 1200 ciascuna. 
+ 
+ Le borse sono conferite con le norme che regolano l'assegnazione delle analoghe borse istituite presso le Facolta' di magistero delle Regie universita', di Firenze, Messina e Roma. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 novembre 1937 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Bottai - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 16 marzo 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 395, foglio 82. - Mancini.

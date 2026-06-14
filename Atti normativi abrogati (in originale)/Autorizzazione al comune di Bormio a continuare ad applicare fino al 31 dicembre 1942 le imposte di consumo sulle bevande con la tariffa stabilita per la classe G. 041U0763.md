@@ -1,16 +1,14 @@
-REGIO DECRETO 04 luglio 1941 n. 763
-
-
-REGIO DECRETO 04 luglio 1941 n. 763
-===================================
-
-Autorizzazione al comune di Bormio a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo sulle bevande con la tariffa stabilita per la classe G. (041U0763)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/08/1941
+---
+tipo: REGIO DECRETO
+numero: 763
+data: 1941-07-04
+titolo: "Autorizzazione al comune di Bormio a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo sulle bevande con la tariffa stabilita per la classe G. (041U0763)"
+urn: urn:nir:stato:regio.decreto:1941-07-04;763
+codice_redazionale: 041U0763
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,28 +24,22 @@ Udito il parere della Commissione centrale per la finanza locale espresso nella 
 
 Visto l'art. 28 del testo unico per la finanza locale, 14 settembre 1931-IX, n. 1175;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto con il Ministro per l'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto con il Ministro per l'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Bormio e' autorizzato a continuare ad applicare fino al 31 dicembre 1942, le imposte di consumo sulle bevande con la tariffa stabilita per la classe G.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 4 luglio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel.   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 7 agosto 1941-XIX   
-  
-Atti del Governo, registro 436, foglio 19. - Mancini   
+Il comune di Bormio e' autorizzato a continuare ad applicare fino al 31 dicembre 1942, le imposte di consumo sulle bevande con la tariffa stabilita per la classe G. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 4 luglio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel. 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 7 agosto 1941-XIX 
+ 
+ Atti del Governo, registro 436, foglio 19. - Mancini

@@ -1,16 +1,14 @@
-REGIO DECRETO 18 aprile 1880 n. 5408
-
-
-REGIO DECRETO 18 aprile 1880 n. 5408
-====================================
-
-Che separa il comune di Tronzano Vercellese dalla sezione elettorale di San Germano Vercellese, e forma una sezione distinta del collegio di Santhia'. (080U5408)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/05/1880
+---
+tipo: REGIO DECRETO
+numero: 5408
+data: 1880-04-18
+titolo: "Che separa il comune di Tronzano Vercellese dalla sezione elettorale di San Germano Vercellese, e forma una sezione distinta del collegio di Santhia'. (080U5408)"
+urn: urn:nir:stato:regio.decreto:1880-04-18;5408
+codice_redazionale: 080U5408
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Ritenuto che gli elettori di Tronzano Vercellese sono 138, numero questo superio
 
 Considerato che per la istituzione di una sezione elettorale in Tronzano Vercellese sara' reso molto piu' facile ad un ragguardevole numero di elettori l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Tronzano Vercellese e' separato dalla sezione elettorale di S. Germano Vercellese, e formera' una sezione distinta del Collegio di Santhia'.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato Roma, addi' 18 aprile 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il comune di Tronzano Vercellese e' separato dalla sezione elettorale di S. Germano Vercellese, e formera' una sezione distinta del Collegio di Santhia'. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato Roma, addi' 18 aprile 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

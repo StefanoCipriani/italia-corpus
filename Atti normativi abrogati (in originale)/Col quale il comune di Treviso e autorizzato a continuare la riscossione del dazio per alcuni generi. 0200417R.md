@@ -1,21 +1,17 @@
-REGIO DECRETO 17 ottobre 1902 n. CCCCXVII
+---
+tipo: REGIO DECRETO
+numero: CCCCXVII
+data: 1902-10-17
+titolo: "Col quale il comune di Treviso e' autorizzato a continuare la riscossione del dazio per alcuni generi. (0200417R)"
+urn: urn:nir:stato:regio.decreto:1902-10-17;417
+codice_redazionale: 0200417R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 ottobre 1902 n. CCCCXVII
-=========================================
-
-Col quale il comune di Treviso e' autorizzato a continuare la riscossione del dazio per alcuni generi. (0200417R)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/12/1902
-
-Art. 1
-------
-
-  
-Col quale il comune di Treviso e' autorizzato a continuare la riscossione del dazio per alcuni generi (amido, porcellane, maioliche e terraglie, cristallerie, vetrerie, carta e cartoni). - Firmato VITTORIO EMANUELE - Controfirmato Carcano - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 3 dicembre 1902.   
-  
-Reg. 7. Atti del Governo a f. 26.   
-  
+Col quale il comune di Treviso e' autorizzato a continuare la riscossione del dazio per alcuni generi (amido, porcellane, maioliche e terraglie, cristallerie, vetrerie, carta e cartoni). - Firmato VITTORIO EMANUELE - Controfirmato Carcano - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 3 dicembre 1902. 
+ 
+ Reg. 7. Atti del Governo a f. 26.

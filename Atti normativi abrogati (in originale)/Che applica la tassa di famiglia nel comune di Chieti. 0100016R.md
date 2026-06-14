@@ -1,22 +1,18 @@
-REGIO DECRETO 20 gennaio 1901 n. XVI
+---
+tipo: REGIO DECRETO
+numero: XVI
+data: 1901-01-20
+titolo: "Che applica la tassa di famiglia nel comune di Chieti. (0100016R)"
+urn: urn:nir:stato:regio.decreto:1901-01-20;16
+codice_redazionale: 0100016R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 gennaio 1901 n. XVI
-====================================
-
-Che applica la tassa di famiglia nel comune di Chieti. (0100016R)
------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/02/1901
-
-Art. 1
-------
-
-  
-E' data facolta' al comune di Chieti di applicare nell'anno 1901 la tassa di famiglia col limite massimo di lire 500 (cinquecento). - Firmato VITTORIO EMANUELE - Controfirmato Chimirri. - Visto E.  
-Gianturco.   
-  
-Registrato alla Corte dei conti addi' 4 febbraio 1901.   
-  
-Reg. 227. Atti del Governo a f. 91.   
-  
+E' data facolta' al comune di Chieti di applicare nell'anno 1901 la tassa di famiglia col limite massimo di lire 500 (cinquecento). - Firmato VITTORIO EMANUELE - Controfirmato Chimirri. - Visto E.
+Gianturco. 
+ 
+ Registrato alla Corte dei conti addi' 4 febbraio 1901. 
+ 
+ Reg. 227. Atti del Governo a f. 91.

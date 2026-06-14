@@ -1,16 +1,14 @@
-REGIO DECRETO 22 dicembre 1872 n. 1153
-
-
-REGIO DECRETO 22 dicembre 1872 n. 1153
-======================================
-
-Col quale il Comune di Orciano Pisano viene aggregato alla Sezione elettorale di Santa Luce del Collegio di Lari. (072U1153)
-----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/01/1873
+---
+tipo: REGIO DECRETO
+numero: 1153
+data: 1872-12-22
+titolo: "Col quale il Comune di Orciano Pisano viene aggregato alla Sezione elettorale di Santa Luce del Collegio di Lari. (072U1153)"
+urn: urn:nir:stato:regio.decreto:1872-12-22;1153
+codice_redazionale: 072U1153
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Considerando che per la distanza ragguardevole che intercede tra il Comune di Or
 
 Considerando inoltre che, malgrado tale distacco, resterebbe sempre alla Sezione di Rosignano Marittimo un considerevole numero di elettori;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Orciano Pisano cessera' d'ora in poi di far parte della Sezione di Rosignano Marittimo, e sara' invece aggregato a quella di Santa Luce.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 22 dicembre 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 28 dicembre 1872   
-  
-Vol. 63 Atti del Governo a. c. 64. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+Il Comune di Orciano Pisano cessera' d'ora in poi di far parte della Sezione di Rosignano Marittimo, e sara' invece aggregato a quella di Santa Luce. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 22 dicembre 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 28 dicembre 1872 
+ 
+ Vol. 63 Atti del Governo a. c. 64. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

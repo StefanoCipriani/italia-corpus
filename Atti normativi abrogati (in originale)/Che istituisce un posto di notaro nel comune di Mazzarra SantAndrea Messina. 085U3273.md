@@ -1,16 +1,14 @@
-REGIO DECRETO 24 luglio 1885 n. 3273
-
-
-REGIO DECRETO 24 luglio 1885 n. 3273
-====================================
-
-Che istituisce un posto di notaro nel comune di Mazzarra' Sant'Andrea (Messina). (085U3273)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/08/1885
+---
+tipo: REGIO DECRETO
+numero: 3273
+data: 1885-07-24
+titolo: "Che istituisce un posto di notaro nel comune di Mazzarra' Sant'Andrea (Messina). (085U3273)"
+urn: urn:nir:stato:regio.decreto:1885-07-24;3273
+codice_redazionale: 085U3273
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Veduta la domanda fatta dal comune di Mazzarra' Sant'Andrea, per l'istituzione d
 
 Ritenuto che sarebbe giustificata la convenienza ed opportunita' dell'anzidetta domanda;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un posto di notaro nel comune di Mazzarra' Sant'Andrea, distretto notarile di Messina.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 24 luglio 1885.   
-  
-UMBERTO.   
-  
-Tajani.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+E' istituito un posto di notaro nel comune di Mazzarra' Sant'Andrea, distretto notarile di Messina. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 24 luglio 1885. 
+ 
+ UMBERTO. 
+ 
+ Tajani. 
+ 
+ Visto, Il Guardasigilli: Tajani.

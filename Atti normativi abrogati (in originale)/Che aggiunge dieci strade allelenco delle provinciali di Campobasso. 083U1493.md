@@ -1,22 +1,20 @@
-REGIO DECRETO 08 luglio 1883 n. 1493
-
-
-REGIO DECRETO 08 luglio 1883 n. 1493
-====================================
-
-Che aggiunge dieci strade all'elenco delle provinciali di Campobasso. (083U1493)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/08/1883
+---
+tipo: REGIO DECRETO
+numero: 1493
+data: 1883-07-08
+titolo: "Che aggiunge dieci strade all'elenco delle provinciali di Campobasso. (083U1493)"
+urn: urn:nir:stato:regio.decreto:1883-07-08;1493
+codice_redazionale: 083U1493
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'[articolo 4 della legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333~art4);
+Visto l'[articolo 4 della legge 23 luglio 1881, n. 333](Che%20autorizza%20la%20spesa%20di%20lire%20225126704%20per%20la%20costruzione%20di%20nuove%20opere%20straordinarie%20stradali%20ed%20idrauliche%20nel%20quindicennio%201881-1895.%20081U0333.md);
 
 Viste le deliberazioni 27 marzo 1882, 13 gennaio e 15 maggio 1883 del Consiglio provinciale di Campobasso;
 
@@ -26,45 +24,38 @@ Visto il voto emesso dal Consiglio superiore dei lavori pubblici nell'adunanza d
 
 Visto l'articolo 14 della vigente legge sui lavori pubblici del 20 marzo 1865;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretate e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretate e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-All'elenco delle strade provinciali della provincia di Campobasso sono aggiunte quelle indicate sotto i num. 34, 70, 71, 72, 73, 74, 75, 77, 78 e 79 dell'elenco III annesso alla tabella B della [legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333), cioe':   
-  
-1. Dalla provinciale di serie Benevento-Foiano, presso San Marco dei Cavoti, a Colle Sannita, Castelpagano, Riccia ed alla nazionale fra Gambatesa e Jelsi;   
-  
-2. Da Agnone a Castel di Sangro;   
-  
-3. Dal ponte Morgia Schiavoni sulla Frentana, pei tenimenti di Castellino e Ripa Bottoni, alla nazionale Sannitica presso Centocelle;   
-  
-4. Da Pietracatella alla nazionale Appulo-Sannitica, presso l'innesto della traversa obbligatoria di Riccia;   
-  
-5. Dalla provinciale Garibaldi al Piano di Salcito, pei pressi di Lucito, Castelbottaccio e Lupara, a Larino, e per Ururi al confine della Capitanata verso Serra Capriola, colle diramazioni per Montagano per Guardalfiera, Casa Calenda e Colletorto alla Capitanata;   
-  
-6. Diramazione della precedente per Bagnoli-Civitanova del Sannio alla strada provinciale Aquilonia nei pressi di Pescolanciano;   
-  
-7. Dal ponte dei 25 archi sul Volturno per Monteroduni, Longano alla nazionale dei Pentri;   
-  
-8. Prolungamento della provinciale Perano-Castiglione-Messer Marino a Trivento;   
-  
-9. Dal ponte sul Trigno fra Tufillo e Monte Metro, per la Buffaloria di San Felice Slavo-Acquaviva, Larino, Montorio, Montelongo per Rotello, a Serra Capriola per accedere alla stazione ferroviaria Chieuti;   
-  
-10. Dalla provinciale Cerrosecco in Bonefro per Santa Croce di Magliano alla Capitanata.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 luglio 1883.   
-  
-UMBERTO.   
-  
-Genala.   
-  
-Visto, Il Guardasigilli: Savelli.   
-  
+All'elenco delle strade provinciali della provincia di Campobasso sono aggiunte quelle indicate sotto i num. 34, 70, 71, 72, 73, 74, 75, 77, 78 e 79 dell'elenco III annesso alla tabella B della [legge 23 luglio 1881, n. 333](Che%20autorizza%20la%20spesa%20di%20lire%20225126704%20per%20la%20costruzione%20di%20nuove%20opere%20straordinarie%20stradali%20ed%20idrauliche%20nel%20quindicennio%201881-1895.%20081U0333.md), cioe': 
+ 
+ 1. Dalla provinciale di serie Benevento-Foiano, presso San Marco dei Cavoti, a Colle Sannita, Castelpagano, Riccia ed alla nazionale fra Gambatesa e Jelsi; 
+ 
+ 2. Da Agnone a Castel di Sangro; 
+ 
+ 3. Dal ponte Morgia Schiavoni sulla Frentana, pei tenimenti di Castellino e Ripa Bottoni, alla nazionale Sannitica presso Centocelle; 
+ 
+ 4. Da Pietracatella alla nazionale Appulo-Sannitica, presso l'innesto della traversa obbligatoria di Riccia; 
+ 
+ 5. Dalla provinciale Garibaldi al Piano di Salcito, pei pressi di Lucito, Castelbottaccio e Lupara, a Larino, e per Ururi al confine della Capitanata verso Serra Capriola, colle diramazioni per Montagano per Guardalfiera, Casa Calenda e Colletorto alla Capitanata; 
+ 
+ 6. Diramazione della precedente per Bagnoli-Civitanova del Sannio alla strada provinciale Aquilonia nei pressi di Pescolanciano; 
+ 
+ 7. Dal ponte dei 25 archi sul Volturno per Monteroduni, Longano alla nazionale dei Pentri; 
+ 
+ 8. Prolungamento della provinciale Perano-Castiglione-Messer Marino a Trivento; 
+ 
+ 9. Dal ponte sul Trigno fra Tufillo e Monte Metro, per la Buffaloria di San Felice Slavo-Acquaviva, Larino, Montorio, Montelongo per Rotello, a Serra Capriola per accedere alla stazione ferroviaria Chieuti; 
+ 
+ 10. Dalla provinciale Cerrosecco in Bonefro per Santa Croce di Magliano alla Capitanata. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 luglio 1883. 
+ 
+ UMBERTO. 
+ 
+ Genala. 
+ 
+ Visto, Il Guardasigilli: Savelli.

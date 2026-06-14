@@ -1,16 +1,14 @@
-REGIO DECRETO 19 novembre 1868 n. 4724
-
-
-REGIO DECRETO 19 novembre 1868 n. 4724
-======================================
-
-Che dichiara provinciali alcune strade scorrenti nella Provincia di Cosenza. (068U4724)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/01/1869
+---
+tipo: REGIO DECRETO
+numero: 4724
+data: 1868-11-19
+titolo: "Che dichiara provinciali alcune strade scorrenti nella Provincia di Cosenza. (068U4724)"
+urn: urn:nir:stato:regio.decreto:1868-11-19;4724
+codice_redazionale: 068U4724
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,37 +30,20 @@ Veduto l'altro voto del Consiglio superiore, emesso nell'adunanza del 25 settemb
 
 Veduta la dichiarazione in data del 3 ottobre p. p., con cui e' attestato che nessun reclamo fu porto contro la fatta classificazione;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate provinciali nella Provincia di Cosenza le undici strade indicate nell'estratto dell'Elenco 28 gennaio 1868, annesso al presente Decreto, visto di ordine Nostro dal predetto Ministro.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 19 novembre 1868.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 7 dicembre 1868   
-Reg. 45 Atti del Governo a c. 6. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli DE FILIPPO.   
-  
-L. PASINI.   
-  
-  
-
-Elenco
-
-  
-ELENCO DELLE STRADE PROVINCIALI DI COSENZA   
-dichiarate tali con Regio Decreto in data d'oggi.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=068U472400100010110001&dgu=1868-12-27&art.dataPubblicazioneGazzetta=1868-12-27&art.codiceRedazionale=068U4724)
-  
+Sono dichiarate provinciali nella Provincia di Cosenza le undici strade indicate nell'estratto dell'Elenco 28 gennaio 1868, annesso al presente Decreto, visto di ordine Nostro dal predetto Ministro. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 19 novembre 1868. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 7 dicembre 1868 
+ Reg. 45 Atti del Governo a c. 6. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli DE FILIPPO. 
+ 
+ L. PASINI.

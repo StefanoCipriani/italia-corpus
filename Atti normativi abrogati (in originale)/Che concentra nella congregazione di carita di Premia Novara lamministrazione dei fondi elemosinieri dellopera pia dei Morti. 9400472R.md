@@ -1,32 +1,27 @@
-REGIO DECRETO 03 novembre 1894 n. CCCCLXXII
+---
+tipo: REGIO DECRETO
+numero: CCCCLXXII
+data: 1894-11-03
+titolo: "Che concentra nella congregazione di carita' di Premia (Novara) l'amministrazione dei fondi elemosinieri dell'opera pia dei Morti. (9400472R)"
+urn: urn:nir:stato:regio.decreto:1894-11-03;472
+codice_redazionale: 9400472R
+vigente: true
+---
 
+## Articolo unico.
 
-REGIO DECRETO 03 novembre 1894 n. CCCCLXXII
-===========================================
-
-Che concentra nella congregazione di carita' di Premia (Novara) l'amministrazione dei fondi elemosinieri dell'opera pia dei Morti. (9400472R)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/12/1894
-
-Articolo unico
---------------
-
-  
-  
-L'amministrazione dei fondi elemosinieri dell'opera pia Banco dei Morti e' concentrata nella congregazione di carita' di Premia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 3 novembre 1894.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 24 novembre 1894.   
-  
-Reg. 196 Atti del Governo a f. 215. G. Cappiello.   
-  
-Luogo del Sigillo. V. Il Guardasigilli V. CALENDA.   
-  
-F. Crispi.   
-  
+L'amministrazione dei fondi elemosinieri dell'opera pia Banco dei Morti e' concentrata nella congregazione di carita' di Premia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 3 novembre 1894. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 24 novembre 1894. 
+ 
+ Reg. 196 Atti del Governo a f. 215. G. Cappiello. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli V. CALENDA. 
+ 
+ F. Crispi.

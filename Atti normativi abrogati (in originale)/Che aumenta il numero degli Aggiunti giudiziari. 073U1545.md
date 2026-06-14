@@ -1,16 +1,14 @@
-REGIO DECRETO 26 agosto 1873 n. 1545
-
-
-REGIO DECRETO 26 agosto 1873 n. 1545
-====================================
-
-Che aumenta il numero degli Aggiunti giudiziari. (073U1545)
------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/09/1873
+---
+tipo: REGIO DECRETO
+numero: 1545
+data: 1873-08-26
+titolo: "Che aumenta il numero degli Aggiunti giudiziari. (073U1545)"
+urn: urn:nir:stato:regio.decreto:1873-08-26;1545
+codice_redazionale: 073U1545
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,22 +22,20 @@ Considerato che per l'annessione al Regno delle provincie della Venezia e di Man
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposizione del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo quanto segue:
 
-proposizione del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo quanto segue:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il numero degli aggiunti giudiziari per tutto il Regno e' aumentato a
 
-180. Essi saranno destinati ai tribunali civili e correzionali secondo le esigenze del servizio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 26 agosto 1873.   
-  
-VITTORIO EMANUELE.   
-  
-VIGLIANI.
+180.
+
+Essi saranno destinati ai tribunali civili e correzionali secondo le esigenze del servizio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 26 agosto 1873. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ VIGLIANI.

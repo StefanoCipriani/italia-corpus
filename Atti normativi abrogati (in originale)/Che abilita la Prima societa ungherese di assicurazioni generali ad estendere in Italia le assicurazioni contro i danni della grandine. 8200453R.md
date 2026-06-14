@@ -1,76 +1,51 @@
-REGIO DECRETO 02 marzo 1882 n. CCCCLIII
+---
+tipo: REGIO DECRETO
+numero: CCCCLIII
+data: 1882-03-02
+titolo: "Che abilita la Prima societa' ungherese di assicurazioni generali ad estendere in Italia le assicurazioni contro i danni della grandine. (8200453R)"
+urn: urn:nir:stato:regio.decreto:1882-03-02;453
+codice_redazionale: 8200453R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 marzo 1882 n. CCCCLIII
-=======================================
+La Societa' anonima sedente in Pest sotto il titolo di Prima Societa' Ungherese di Assicurazioni Generali, e' abilitata ad estendere in Italia le assicurazioni contro i danni della grandine, sotto l'osservanza delle clausole e delle prescrizioni contenute negli articoli seguenti:
 
-Che abilita la Prima societa' ungherese di assicurazioni generali ad estendere in Italia le assicurazioni contro i danni della grandine. (8200453R)
----------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 02/04/1882
+La cauzione dovra' in seguito essere aumentata per modo che rimanga sempre ed anticipatamente nella proporzione di un decimo dei premi riscossi dalla societa', dedotte le indennita' pagate agli assicurati.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-La Societa' anonima sedente in Pest sotto il titolo di Prima Societa' Ungherese di Assicurazioni Generali, e' abilitata ad estendere in Italia le assicurazioni contro i danni della grandine, sotto l'osservanza delle clausole e delle prescrizioni contenute negli articoli seguenti:   
-  
+La societa' avra' nel Regno una sola direzione o agenzia generale, presso cui dovra' essere concentrata la contabilita' delle operazioni compiute nel Regno. Le pubblicazioni periodiche saranno fatte a cura di detta direzione, in esecuzione delle disposizioni del [regio decreto 5 settembre 1869 n. 5256](Che%20sopprime%20gli%20Uffizi%20di%20sindacato%20sulle%20Societa%20commerciali%20e%20sugli%20Istituti%20di%20credito.%20069U5256.md) e delle altre disposizioni relative alle societa' nazionali di assicurazione, e conterranno il resoconto generale sommario di tutte le operazioni sociali e il resoconto distinto e parziale delle operazioni compiute nel Regno. 
+ 
+ Dell'uno e dell'altro documento sara' trasmessa copia al ministero di agricoltura, industria e commercio, subito che siano stati approvati dall'assemblea generale dei soci.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-La cauzione dovra' in seguito essere aumentata per modo che rimanga sempre ed anticipatamente nella proporzione di un decimo dei premi riscossi dalla societa', dedotte le indennita' pagate agli assicurati.   
-  
+L'atto costitutivo e gli statuti della Societa' coi mutamenti arrecativi e quelli che potrebbero esservi introdotti in avvenire, l'elezione e le mutazioni di domicilio, la nomina e la sostituzione del rappresentante, dovranno essere pubblicati nei termini prefissi e nei modi prescritti per le societa' nazionali dalla sezione VIII, titolo VII libro I del codice di commercio. 
+ 
+ I mutamenti che in avvenire potessero essere portati agli statuti sociali dovranno inoltre essere notificati al ministero di agricoltura, industria e commercio nel termine di tre mesi dalla data dell'atto con cui furono approvati.
 
-Art. 3
-------
+## Art. 5.
 
-  
-  
-La societa' avra' nel Regno una sola direzione o agenzia generale, presso cui dovra' essere concentrata la contabilita' delle operazioni compiute nel Regno. Le pubblicazioni periodiche saranno fatte a cura di detta direzione, in esecuzione delle disposizioni del [regio decreto 5 settembre 1869 n. 5256](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1869-09-05;5256) e delle altre disposizioni relative alle societa' nazionali di assicurazione, e conterranno il resoconto generale sommario di tutte le operazioni sociali e il resoconto distinto e parziale delle operazioni compiute nel Regno.   
-  
-Dell'uno e dell'altro documento sara' trasmessa copia al ministero di agricoltura, industria e commercio, subito che siano stati approvati dall'assemblea generale dei soci.   
-  
+La societa' per tutti i suoi atti e contratti stipulati ed eseguibili nel Regno e per tutte le sue controversie col governo e coi terzi, rimane assoggettata alle leggi del Regno ed alla giurisdizione dei tribunali italiani.
 
-Art. 4
-------
+## Art. 6.
 
-  
-  
-L'atto costitutivo e gli statuti della Societa' coi mutamenti arrecativi e quelli che potrebbero esservi introdotti in avvenire, l'elezione e le mutazioni di domicilio, la nomina e la sostituzione del rappresentante, dovranno essere pubblicati nei termini prefissi e nei modi prescritti per le societa' nazionali dalla sezione VIII, titolo VII libro I del codice di commercio.   
-  
-I mutamenti che in avvenire potessero essere portati agli statuti sociali dovranno inoltre essere notificati al ministero di agricoltura, industria e commercio nel termine di tre mesi dalla data dell'atto con cui furono approvati.   
-  
-
-Art. 5
-------
-
-  
-  
-La societa' per tutti i suoi atti e contratti stipulati ed eseguibili nel Regno e per tutte le sue controversie col governo e coi terzi, rimane assoggettata alle leggi del Regno ed alla giurisdizione dei tribunali italiani.   
-  
-
-Art. 6
-------
-
-  
-  
-La societa' e' sottoposta alle prescrizioni e discipline legislative e regolamentari vigenti per le societa' nazionali, e contribuira' nelle spese degli uffici d'ispezione per annue lire 300, pagabili a trimestri anticipati.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 2 marzo 1882.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 11 marzo 1882   
-  
-Reg. 119 Atti del Governo a f. 4. Pellizzoli.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Zanardelli.   
-  
-Berti.   
-  
+La societa' e' sottoposta alle prescrizioni e discipline legislative e regolamentari vigenti per le societa' nazionali, e contribuira' nelle spese degli uffici d'ispezione per annue lire 300, pagabili a trimestri anticipati. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 2 marzo 1882. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 11 marzo 1882 
+ 
+ Reg. 119 Atti del Governo a f. 4. Pellizzoli. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Zanardelli. 
+ 
+ Berti.

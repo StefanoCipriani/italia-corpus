@@ -1,21 +1,17 @@
-REGIO DECRETO 15 dicembre 1901 n. CCCLXXXII
+---
+tipo: REGIO DECRETO
+numero: CCCLXXXII
+data: 1901-12-15
+titolo: "Col quale il comune di Trani e' autorizzato ad esigere un dazio di consumo sulla carta da impacco, e su altri generi. (0100382R)"
+urn: urn:nir:stato:regio.decreto:1901-12-15;382
+codice_redazionale: 0100382R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 dicembre 1901 n. CCCLXXXII
-===========================================
-
-Col quale il comune di Trani e' autorizzato ad esigere un dazio di consumo sulla carta da impacco, e su altri generi. (0100382R)
---------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/02/1902
-
-Art. 1
-------
-
-  
-Col quale il comune di Trani e' autorizzato ad esigere un dazio di consumo sulla carta da impacco, e su altri generi. - Firmato VITTORIO EMANUELE - Controfirmato Carcano - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 11 gennaio 1902.   
-  
-Reg. 1. Atti del Governo a f. 25.   
-  
+Col quale il comune di Trani e' autorizzato ad esigere un dazio di consumo sulla carta da impacco, e su altri generi. - Firmato VITTORIO EMANUELE - Controfirmato Carcano - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 11 gennaio 1902. 
+ 
+ Reg. 1. Atti del Governo a f. 25.

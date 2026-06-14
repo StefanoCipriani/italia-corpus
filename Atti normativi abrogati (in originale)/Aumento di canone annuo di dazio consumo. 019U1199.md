@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 29 giugno 1919 n. 1199
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1199
+data: 1919-06-29
+titolo: "Aumento di canone annuo di dazio consumo. (019U1199)"
+urn: urn:nir:stato:decreto.luogotenenziale:1919-06-29;1199
+codice_redazionale: 019U1199
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 29 giugno 1919 n. 1199
-==============================================
-
-Aumento di canone annuo di dazio consumo. (019U1199)
-----------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/08/1919
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1199. Decreto Luogotenenziale 29 giugno 1919, col quale, sulla proposta del ministro delle finanze, il canone annuo di dazio consumo assegnato al comune di Cuneo, e' elevato da L. 106.777,44 a L. 107.680.92, con decorrenza dal 3 giugno 1918. Fino a che pero' dureranno gli effetti del [decreto Luogotenenziale 20 luglio 1917, n. 1285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-07-20;1285), il canone di L. 107.680,92 e' ridotto a L. 88.419,92, salvo sospensione del pagamento, dal 1° luglio 1918, ai sensi del [decreto Luogotenenziale 28 aprile 1918, n. 551](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-04-28;551).
+1199.
+
+Decreto Luogotenenziale 29 giugno 1919, col quale, sulla proposta del ministro delle finanze, il canone annuo di dazio consumo assegnato al comune di Cuneo, e' elevato da L. 106.777,44 a L. 107.680.92, con decorrenza dal 3 giugno 1918. Fino a che pero' dureranno gli effetti del [decreto Luogotenenziale 20 luglio 1917, n. 1285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-07-20;1285), il canone di L. 107.680,92 e' ridotto a L. 88.419,92, salvo sospensione del pagamento, dal 1° luglio 1918, ai sensi del [decreto Luogotenenziale 28 aprile 1918, n. 551](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-04-28;551).

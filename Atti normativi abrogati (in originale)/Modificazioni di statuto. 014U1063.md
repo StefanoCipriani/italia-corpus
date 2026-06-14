@@ -1,17 +1,13 @@
-REGIO DECRETO 30 agosto 1914 n. 1063
+---
+tipo: REGIO DECRETO
+numero: 1063
+data: 1914-08-30
+titolo: "Modificazioni di statuto. (014U1063)"
+urn: urn:nir:stato:regio.decreto:1914-08-30;1063
+codice_redazionale: 014U1063
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 agosto 1914 n. 1063
-====================================
-
-Modificazioni di statuto. (014U1063)
-------------------------------------
-
-Entrata in vigore del provvedimento: 22/10/1914
-
-Art. 1
-------
-
-  
-Regio Decreto 30 agosto 1914, col quale, sulla proposta del ministro di agricoltura, industria e commercio, sono approvate alcune modificazioni allo statuto della Cassa di risparmio di Correggio.   
-  
+Regio Decreto 30 agosto 1914, col quale, sulla proposta del ministro di agricoltura, industria e commercio, sono approvate alcune modificazioni allo statuto della Cassa di risparmio di Correggio.

@@ -1,19 +1,15 @@
-REGIO DECRETO 09 novembre 1862 n. DLXXIX
+---
+tipo: REGIO DECRETO
+numero: DLXXIX
+data: 1862-11-09
+titolo: "Che approva un regolamento di polizia rurale pel Comune di Gambarana. (6200579R)"
+urn: urn:nir:stato:regio.decreto:1862-11-09;579
+codice_redazionale: 6200579R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 novembre 1862 n. DLXXIX
-========================================
-
-Che approva un regolamento di polizia rurale pel Comune di Gambarana. (6200579R)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/11/1862
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia rurale deliberato dalla Comunita' di Gambarana (Provincia di Pavia) con atto dell'11 maggio corrente anno.   
-  
-Torino 9 novembre 1862   
-  
+Che approva il regolamento di polizia rurale deliberato dalla Comunita' di Gambarana (Provincia di Pavia) con atto dell'11 maggio corrente anno. 
+ 
+ Torino 9 novembre 1862

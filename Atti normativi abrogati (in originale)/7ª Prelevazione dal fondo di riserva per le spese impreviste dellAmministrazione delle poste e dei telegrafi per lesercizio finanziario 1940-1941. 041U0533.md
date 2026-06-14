@@ -1,16 +1,14 @@
-REGIO DECRETO 22 maggio 1941 n. 533
-
-
-REGIO DECRETO 22 maggio 1941 n. 533
-===================================
-
-7ª Prelevazione dal fondo di riserva per le spese impreviste dell'Amministrazione delle poste e dei telegrafi per l'esercizio finanziario 1940-1941. (041U0533)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/07/1941
+---
+tipo: REGIO DECRETO
+numero: 533
+data: 1941-05-22
+titolo: "7ª Prelevazione dal fondo di riserva per le spese impreviste dell'Amministrazione delle poste e dei telegrafi per l'esercizio finanziario 1940-1941. (041U0533)"
+urn: urn:nir:stato:regio.decreto:1941-05-22;533
+codice_redazionale: 041U0533
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,31 +16,25 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Vista la [legge 23 maggio 1940, n. 541](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-05-23;541), che approva gli stati di previsione dell'Azienda autonoma delle poste e dei telegrafi;
+Vista la [legge 23 maggio 1940, n. 541](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20comunicazioni%20per%20lesercizio%20finanziario%20dal%201%20luglio%201940-XVIII%20al%2030%20giugno%201941-XIX.%20040U0541.md), che approva gli stati di previsione dell'Azienda autonoma delle poste e dei telegrafi;
 
-Visto l'[art. 21 del R. decreto-legge 23 aprile 1925, n. 520](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-23;520~art21), convertito nella [legge 21 marzo 1926, n. 597](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto l'[art. 21 del R. decreto-legge 23 aprile 1925, n. 520](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
 
 Visto che il fondo di riserva istituito per le spese impreviste dell'Amministrazione delle poste e dei telegrafi presenta una disponibilita' di L. 8.135.700 depositate in conto corrente speciale presso la Tesoreria centrale del Regno;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal fondo di riserva anzidetto e' autorizzato il prelevamento di L. 21.000 da versarsi all'Amministrazione postelegrafica con imputazione al capitolo 19 dello stato di previsione dell'entrata dell'Amministrazione medesima per l'esercizio finanziario 1940-41 e da inscriversi sul capitolo 99 del bilancio della spesa dell'Amministrazione suddetta per l'esercizio medesimo «Spese di pubblicita' per promuovere l'incremento di taluni servizi».   
-Questo decreto sara' comunicato alle Assemblee legislative unitamente al rendiconto consuntivo dell'Azienda delle poste e dei telegrafi per l'esercizio finanziario 1940-41.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Roma, addi' 22 maggio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Host Venturi - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-Registrato alla Corte dei conti, addi' 20 giugno 1941-XIX   
-Atti del Governo, registro 434, foglio 71. - Mancini   
+Dal fondo di riserva anzidetto e' autorizzato il prelevamento di L. 21.000 da versarsi all'Amministrazione postelegrafica con imputazione al capitolo 19 dello stato di previsione dell'entrata dell'Amministrazione medesima per l'esercizio finanziario 1940-41 e da inscriversi sul capitolo 99 del bilancio della spesa dell'Amministrazione suddetta per l'esercizio medesimo «Spese di pubblicita' per promuovere l'incremento di taluni servizi». 
+ Questo decreto sara' comunicato alle Assemblee legislative unitamente al rendiconto consuntivo dell'Azienda delle poste e dei telegrafi per l'esercizio finanziario 1940-41. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 22 maggio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Host Venturi - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ Registrato alla Corte dei conti, addi' 20 giugno 1941-XIX 
+ Atti del Governo, registro 434, foglio 71. - Mancini

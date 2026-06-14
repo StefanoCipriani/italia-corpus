@@ -1,21 +1,21 @@
-REGIO DECRETO 27 ottobre 1936 n. 2116
+---
+tipo: REGIO DECRETO
+numero: 2116
+data: 1936-10-27
+titolo: "Erezione in ente morale della Cassa scolastica della Regia scuola d'arte industriale di Cortina d'Ampezzo. (036U2116)"
+urn: urn:nir:stato:regio.decreto:1936-10-27;2116
+codice_redazionale: 036U2116
+vigente: true
+---
 
-
-REGIO DECRETO 27 ottobre 1936 n. 2116
-=====================================
-
-Erezione in ente morale della Cassa scolastica della Regia scuola d'arte industriale di Cortina d'Ampezzo. (036U2116)
----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/01/1937
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2116. R. decreto 27 ottobre 1936, col quale, sulla proposta del Ministro per l'educazione nazionale, la Cassa scolastica della Regia scuola d'arte industriale di Cortina d'Ampezzo viene eretta in ente morale, e ne viene approvato il relativo Statuto.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 7 dicembre 1936 - Anno XV
+2116.
+
+R. decreto 27 ottobre 1936, col quale, sulla proposta del Ministro per l'educazione nazionale, la Cassa scolastica della Regia scuola d'arte industriale di Cortina d'Ampezzo viene eretta in ente morale, e ne viene approvato il relativo Statuto. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 7 dicembre 1936 - Anno XV

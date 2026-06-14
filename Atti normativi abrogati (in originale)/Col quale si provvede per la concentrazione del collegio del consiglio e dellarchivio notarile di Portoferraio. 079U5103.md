@@ -1,16 +1,14 @@
-REGIO DECRETO 02 ottobre 1879 n. 5103
-
-
-REGIO DECRETO 02 ottobre 1879 n. 5103
-=====================================
-
-Col quale si provvede per la concentrazione del collegio, del consiglio e dell'archivio notarile di Portoferraio. (079U5103)
-----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/10/1879
+---
+tipo: REGIO DECRETO
+numero: 5103
+data: 1879-10-02
+titolo: "Col quale si provvede per la concentrazione del collegio, del consiglio e dell'archivio notarile di Portoferraio. (079U5103)"
+urn: urn:nir:stato:regio.decreto:1879-10-02;5103
+codice_redazionale: 079U5103
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,26 +20,19 @@ Ritenuto che il distretto di Portoferraio si trova nelle condizioni previste dal
 
 Considerato che il distretto di Portoferraio deve necessariamente essere riunito al distretto di Livorno, capoluogo della provincia, perche' nel territorio della medesima non vi sono altri distretti notarili;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Collegio, il Consiglio e l'Archivio notarile di Portoferraio sono soppressi e riuniti al distretto notarile di Livorno, capoluogo della provincia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 2 ottobre 1879.   
-  
-UMBERTO.   
-  
-Vare'.   
-  
-Visto - Il Guardasigilli   
-Vare'.   
-  
+Il Collegio, il Consiglio e l'Archivio notarile di Portoferraio sono soppressi e riuniti al distretto notarile di Livorno, capoluogo della provincia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 2 ottobre 1879. 
+ 
+ UMBERTO. 
+ 
+ Vare'. 
+ 
+ Visto - Il Guardasigilli 
+ Vare'.

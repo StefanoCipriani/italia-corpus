@@ -1,19 +1,15 @@
-REGIO DECRETO 04 agosto 1906 n. CCCXLVI
+---
+tipo: REGIO DECRETO
+numero: CCCXLVI
+data: 1906-08-04
+titolo: "Erezione in ente morale. (0600346R)"
+urn: urn:nir:stato:regio.decreto:1906-08-04;346
+codice_redazionale: 0600346R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 agosto 1906 n. CCCXLVI
-=======================================
-
-Erezione in ente morale. (0600346R)
------------------------------------
-
-Entrata in vigore del provvedimento: 14/10/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro della guerra:   
-  
-N. CCCXLVI (Dato a Sant'Anna di Valdieri il 4 agosto 1906), col quale il pio legato Scapiti di Bagnoli di Sopra e' eretto in ente morale ed e' approvato lo statuto organico.   
-  
+Sulla proposta del ministro della guerra: 
+ 
+ N. CCCXLVI (Dato a Sant'Anna di Valdieri il 4 agosto 1906), col quale il pio legato Scapiti di Bagnoli di Sopra e' eretto in ente morale ed e' approvato lo statuto organico.

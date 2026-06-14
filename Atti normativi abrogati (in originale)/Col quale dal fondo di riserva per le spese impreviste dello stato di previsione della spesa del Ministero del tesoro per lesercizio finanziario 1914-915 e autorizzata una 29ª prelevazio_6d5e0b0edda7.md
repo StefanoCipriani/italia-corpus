@@ -1,16 +1,14 @@
-REGIO DECRETO 13 maggio 1915 n. 653
-
-
-REGIO DECRETO 13 maggio 1915 n. 653
-===================================
-
-Col quale dal fondo di riserva per le spese impreviste dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1914-915 e' autorizzata una 29ª prelevazione a favore del bilancio del Ministero degli affari esteri per l'esercizio finanziario in corso. (015U0653)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/06/1915
+---
+tipo: REGIO DECRETO
+numero: 653
+data: 1915-05-13
+titolo: "Col quale dal fondo di riserva per le spese impreviste dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1914-915 e' autorizzata una 29ª prelevazione a favore del bilancio del Ministero degli affari esteri per l'esercizio finanziario in corso. (015U0653)"
+urn: urn:nir:stato:regio.decreto:1915-05-13;653
+codice_redazionale: 015U0653
+vigente: true
+---
 
 Relazione di S. E. il ministro del tesoro a S. M. il Re, in udienza del 13 maggio 1915, sul decreto che dal fondo di riserva per le spese impreviste autorizza una prelevazione di L. 500.000 occorrenti al Ministero degli affari esteri.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SIRE!
 
@@ -26,33 +24,26 @@ per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'art. 38 del testo unico della legge sull'Amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016);
+Visto l'art. 38 del testo unico della legge sull'Amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md);
 
 Visto che sul fondo di riserva per le spese impreviste inscritto in L. 5700.000 nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1914-915, in conseguenza delle prelevazioni gia' autorizzate in L 4.607.031,29, rimane disponibile la somma di L. 1.092.968,71;
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal fondo di riserva per le spese impreviste inscritto al capitolo n. 140 dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1914-1915, e' autorizzata una 29ª prelevazione della somma di lire cinquecentomila (L. 500.000), da portarsi in aumento al capitolo n. 60-quinquies « Fondo per spese segrete determinate dagli avvenimenti internazionali » dello stato di previsione del Ministero degli affari esteri per l'esercizio finanziario in corso.   
-  
-Questo decreto sara' presentato al Parlamento per la sua convalidazione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 maggio 1915.   
-  
-VITTORIO EMANUELE.   
-  
-Salandra - Carcano.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+Dal fondo di riserva per le spese impreviste inscritto al capitolo n. 140 dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1914-1915, e' autorizzata una 29ª prelevazione della somma di lire cinquecentomila (L. 500.000), da portarsi in aumento al capitolo n. 60-quinquies « Fondo per spese segrete determinate dagli avvenimenti internazionali » dello stato di previsione del Ministero degli affari esteri per l'esercizio finanziario in corso. 
+ 
+ Questo decreto sara' presentato al Parlamento per la sua convalidazione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 maggio 1915. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Salandra - Carcano. 
+ 
+ Visto, Il guardasigilli: Orlando.

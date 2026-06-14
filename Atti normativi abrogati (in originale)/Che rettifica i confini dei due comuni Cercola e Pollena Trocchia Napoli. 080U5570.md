@@ -1,16 +1,14 @@
-REGIO DECRETO 25 luglio 1880 n. 5570
-
-
-REGIO DECRETO 25 luglio 1880 n. 5570
-====================================
-
-Che rettifica i confini dei due comuni Cercola e Pollena Trocchia (Napoli). (080U5570)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/09/1880
+---
+tipo: REGIO DECRETO
+numero: 5570
+data: 1880-07-25
+titolo: "Che rettifica i confini dei due comuni Cercola e Pollena Trocchia (Napoli). (080U5570)"
+urn: urn:nir:stato:regio.decreto:1880-07-25;5570
+codice_redazionale: 080U5570
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Veduta la deliberazione del Consiglio comunale di Pollena Trocchia in data 7 feb
 
 Veduto il verbale in data 21 giugno 1880 compilatosi sopra luogo dall'ingegnere capo del Genio civile e dai rappresentanti dei due comuni;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I confini dei comuni di Cercola e Pollena Trocchia risultanti dalla pianta topografica in data 27 febbraio 1877 sono modificati secondo le rettifiche che l'ingegnere capo del Genio civile in data 22 giugno 1880 introdusse nella pianta stessa, la quale verra' nuovamente vidimata dal Nostro Ministro proponente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 luglio 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+I confini dei comuni di Cercola e Pollena Trocchia risultanti dalla pianta topografica in data 27 febbraio 1877 sono modificati secondo le rettifiche che l'ingegnere capo del Genio civile in data 22 giugno 1880 introdusse nella pianta stessa, la quale verra' nuovamente vidimata dal Nostro Ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 luglio 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

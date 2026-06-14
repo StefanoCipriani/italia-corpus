@@ -1,16 +1,14 @@
-REGIO DECRETO 20 giugno 1866 n. 3000
-
-
-REGIO DECRETO 20 giugno 1866 n. 3000
-====================================
-
-Con cui si estendono a tutti gli individui ammessi al servizio temporaneo nella Regia Marina, ed alle loro famiglie, le disposizioni delle Leggi sulle pensioni relative ai militari feriti o morti per ragioni di servizio. (066U3000)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/07/1866
+---
+tipo: REGIO DECRETO
+numero: 3000
+data: 1866-06-20
+titolo: "Con cui si estendono a tutti gli individui ammessi al servizio temporaneo nella Regia Marina, ed alle loro famiglie, le disposizioni delle Leggi sulle pensioni relative ai militari feriti o morti per ragioni di servizio. (066U3000)"
+urn: urn:nir:stato:regio.decreto:1866-06-20;3000
+codice_redazionale: 066U3000
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,29 +22,22 @@ Ritenuto esser cosa equa che a questo personale venga estesa la benevola disposi
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-  
-Agli individui ammessi nei Corpi e nelle Amministrazioni militari della Regia Marina in via eccezionale e quali ausiliari a servizio temporaneo, non che alle famiglie loro, sono estese le disposizioni delle Leggi sulle pensioni pei militari dell'Armata feriti o morti per ragione di servizio.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze il 20 giugno 1866.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 27 giugno 1866   
-  
-Reg.° 36 Atti del Governo a c. 119. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Borgatti.   
-  
-Depretis.   
-  
+Agli individui ammessi nei Corpi e nelle Amministrazioni militari della Regia Marina in via eccezionale e quali ausiliari a servizio temporaneo, non che alle famiglie loro, sono estese le disposizioni delle Leggi sulle pensioni pei militari dell'Armata feriti o morti per ragione di servizio. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze il 20 giugno 1866. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 giugno 1866 
+ 
+ Reg.° 36 Atti del Governo a c. 119. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ Depretis.

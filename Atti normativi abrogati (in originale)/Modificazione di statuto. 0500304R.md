@@ -1,19 +1,15 @@
-REGIO DECRETO 22 settembre 1905 n. CCCIV
+---
+tipo: REGIO DECRETO
+numero: CCCIV
+data: 1905-09-22
+titolo: "Modificazione di statuto. (0500304R)"
+urn: urn:nir:stato:regio.decreto:1905-09-22;304
+codice_redazionale: 0500304R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 settembre 1905 n. CCCIV
-========================================
-
-Modificazione di statuto. (0500304R)
-------------------------------------
-
-Entrata in vigore del provvedimento: 18/11/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. CCCIV (Dato a Venezia, il 22 settembre 1905), col quale si modifica l'art. 11 dello statuto della Cassa di risparmio di Alba.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. CCCIV (Dato a Venezia, il 22 settembre 1905), col quale si modifica l'art. 11 dello statuto della Cassa di risparmio di Alba.

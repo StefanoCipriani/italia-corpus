@@ -1,16 +1,14 @@
-REGIO DECRETO 05 ottobre 1862 n. 873
-
-
-REGIO DECRETO 05 ottobre 1862 n. 873
-====================================
-
-Relativo all'ordinamento dei Tribunali di Commercio nelle Provincie Siciliane. (062U0873)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1862
+---
+tipo: REGIO DECRETO
+numero: 873
+data: 1862-10-05
+titolo: "Relativo all'ordinamento dei Tribunali di Commercio nelle Provincie Siciliane. (062U0873)"
+urn: urn:nir:stato:regio.decreto:1862-10-05;873
+codice_redazionale: 062U0873
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 Per grazia di Dio e per volonta' della Nazione
 
@@ -28,69 +26,42 @@ Considerando che i Presidenti dei detti Tribunali di Commercio, non che i Funzio
 
 Viste le facolta' date al Governo dall'art. 4 della legge 19 gennaio 1862, n.° 421;
 
-Sulla
------
+Sulla proposizione del Nostro Presidente del Consiglio, incaricato di reggere il Ministero di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Presidente del Consiglio, incaricato di reggere il Ministero di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La giurisdizione dei Tribunali di Commercio esistenti in Sicilia nelle Citta' di Palermo, Messina, Catania e Trapani sara' per ciascuno di essi rispettivamente ristretta al territorio sul quale la esercita il Tribunale di Circondario stabilito in ognuna delle dette Citta'.
 
-  
-  
-La giurisdizione dei Tribunali di Commercio esistenti in Sicilia nelle Citta' di Palermo, Messina, Catania e Trapani sara' per ciascuno di essi rispettivamente ristretta al territorio sul quale la esercita il Tribunale di Circondario stabilito in ognuna delle dette Citta'.   
-  
+## Art. 2.
 
-Art. 2
-------
+Ciascuno dei suddetti Tribunali avra' un Segretario ed un Sostituito-Segretario. Il resto del personale di Segreteria sara' determinato con altro Decreto.
 
-  
-  
-Ciascuno dei suddetti Tribunali avra' un Segretario ed un Sostituito-Segretario. Il resto del personale di Segreteria sara' determinato con altro Decreto.   
-  
+## Art. 3.
 
-Art. 3
-------
+Gli stipendi dei Segretari e Sostituiti-Segretari dei Tribunali medesimi saranno gli stessi che sono stabiliti per le Segreterie dei Tribunali di Circondario dalla legge 20 novembre 1859, n.° 3782, pubblicata in Sicilia col Decreto Luogotenenziale del 17 febbraio 1861.
 
-  
-  
-Gli stipendi dei Segretari e Sostituiti-Segretari dei Tribunali medesimi saranno gli stessi che sono stabiliti per le Segreterie dei Tribunali di Circondario dalla legge 20 novembre 1859, n.° 3782, pubblicata in Sicilia col Decreto Luogotenenziale del 17 febbraio 1861.   
-  
+## Art. 4.
 
-Art. 4
-------
+I posti di Presidente, di Segretario e di Sostituito-Segretario nei rimentovati Tribunali di Commercio saranno computati per la formazione delle categorie con quelli assegnati alla pianta organica dei Tribunali di Circondario. I Funzionari nominati a detti posti concorreranno per anzianita' e per grado con quelli del personale ordinario compreso in detta pianta.
 
-  
-  
-I posti di Presidente, di Segretario e di Sostituito-Segretario nei rimentovati Tribunali di Commercio saranno computati per la formazione delle categorie con quelli assegnati alla pianta organica dei Tribunali di Circondario. I Funzionari nominati a detti posti concorreranno per anzianita' e per grado con quelli del personale ordinario compreso in detta pianta.   
-  
+## Art. 5.
 
-Art. 5
-------
+Le cause commerciali attualmente vertenti, che per effetto del presente Decreto verranno devolute alla competenza di altro Tribunale di Commercio o di Circondario facente funzione di Tribunale di Commercio, saranno recate avanti il nuovo Tribunale nello stato in cui si trovano, per mezzo di atto di citazione a cura della parte piu' diligente, ed i termini giuridici in corso sono per dette cause sospesi per giorni trenta a cominciare dalla pubblicazione del presente Decreto.
 
-  
-  
-Le cause commerciali attualmente vertenti, che per effetto del presente Decreto verranno devolute alla competenza di altro Tribunale di Commercio o di Circondario facente funzione di Tribunale di Commercio, saranno recate avanti il nuovo Tribunale nello stato in cui si trovano, per mezzo di atto di citazione a cura della parte piu' diligente, ed i termini giuridici in corso sono per dette cause sospesi per giorni trenta a cominciare dalla pubblicazione del presente Decreto.   
-  
+## Art. 6.
 
-Art. 6
-------
-
-  
-  
-Nulla del resto e' innovato alle disposizioni che regolano i detti Tribunali di Commercio.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 5 ottobre 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 13 ottobre 1862.   
-  
-Reg.° 20 Atti del Governo a c. 378. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli U. Rattazzi.   
-  
-U. Rattazzi.   
-  
+Nulla del resto e' innovato alle disposizioni che regolano i detti Tribunali di Commercio. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 5 ottobre 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 13 ottobre 1862. 
+ 
+ Reg.° 20 Atti del Governo a c. 378. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli U. Rattazzi. 
+ 
+ U. Rattazzi.

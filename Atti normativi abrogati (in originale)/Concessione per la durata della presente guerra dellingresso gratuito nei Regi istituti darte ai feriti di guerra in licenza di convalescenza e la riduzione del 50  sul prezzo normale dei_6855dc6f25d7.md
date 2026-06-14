@@ -1,16 +1,14 @@
-REGIO DECRETO 07 novembre 1942 n. 1563
-
-
-REGIO DECRETO 07 novembre 1942 n. 1563
-======================================
-
-Concessione, per la durata della presente guerra, dell'ingresso gratuito nei Regi istituti d'arte ai feriti di guerra in licenza di convalescenza e la riduzione del 50 % sul prezzo normale dei biglietti d'ingresso ai militari di truppa delle Forze armate italiane e tedesche. (042U1563)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/01/1943
+---
+tipo: REGIO DECRETO
+numero: 1563
+data: 1942-11-07
+titolo: "Concessione, per la durata della presente guerra, dell'ingresso gratuito nei Regi istituti d'arte ai feriti di guerra in licenza di convalescenza e la riduzione del 50 % sul prezzo normale dei biglietti d'ingresso ai militari di truppa delle Forze armate italiane e tedesche. (042U1563)"
+urn: urn:nir:stato:regio.decreto:1942-11-07;1563
+codice_redazionale: 042U1563
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,47 +28,32 @@ Udito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Per la durata della presente guerra, ai feriti in licenza di convalescenza, e' concesso l'ingresso gratuito negli Istituti di antichita' e d'arte dello Stato, dietro presentazione dei documenti comprovanti la loro condizione di feriti di guerra.
 
-  
-  
-  
-Per la durata della presente guerra, ai feriti in licenza di convalescenza, e' concesso l'ingresso gratuito negli Istituti di antichita' e d'arte dello Stato, dietro presentazione dei documenti comprovanti la loro condizione di feriti di guerra.   
+## Art. 2.
 
-Art. 2
-------
+Per la durata della presente guerra ai militari di truppa delle Forze armate italiane e tedesche che si presentino in divisa e muniti di documenti di riconoscimento negli Istituti di antichita' e d'arte dello Stato e' concessa la riduzione del 50 % sul prezzo normale dei biglietti d'ingresso.
 
-  
-  
-  
-Per la durata della presente guerra ai militari di truppa delle Forze armate italiane e tedesche che si presentino in divisa e muniti di documenti di riconoscimento negli Istituti di antichita' e d'arte dello Stato e' concessa la riduzione del 50 % sul prezzo normale dei biglietti d'ingresso.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-  
-Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 7 novembre 1942-XXI   
-  
-VITTORIO EMANUELE   
-  
-  
-MUSSOLINI - DI REVEL - BOTTAI   
-  
-  
-Vista, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 5 gennaio 1943-XXI   
-  
-Atti del Governo, registro 453, foglio 29. - MANCINI   
+Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+Dato a San Rossore, addi' 7 novembre 1942-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ 
+ MUSSOLINI - DI REVEL - BOTTAI 
+ 
+ 
+Vista, il Guardasigilli: GRANDI 
+ 
+Registrato alla Corte dei conti, addi' 5 gennaio 1943-XXI 
+ 
+Atti del Governo, registro 453, foglio 29. - MANCINI

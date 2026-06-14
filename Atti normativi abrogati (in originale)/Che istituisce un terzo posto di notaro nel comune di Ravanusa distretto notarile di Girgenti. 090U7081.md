@@ -1,16 +1,14 @@
-REGIO DECRETO 23 agosto 1890 n. 7081
-
-
-REGIO DECRETO 23 agosto 1890 n. 7081
-====================================
-
-Che istituisce un terzo posto di notaro nel comune di Ravanusa, distretto notarile di Girgenti. (090U7081)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/09/1890
+---
+tipo: REGIO DECRETO
+numero: 7081
+data: 1890-08-23
+titolo: "Che istituisce un terzo posto di notaro nel comune di Ravanusa, distretto notarile di Girgenti. (090U7081)"
+urn: urn:nir:stato:regio.decreto:1890-08-23;7081
+codice_redazionale: 090U7081
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' dalla Nazione
 
@@ -24,25 +22,18 @@ Visto l'articolo 4 della legge sul notariato, approvata con Nostro decreto 25 ma
 
 Ritenuto che e' dimostrata la necessita' della istituzione del posto anzidetto;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E'istituito un terzo posto di notaro nel comune di Ravanusa, distretto notarile di Girgenti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale dalle leggi dei decreti del Regno d'Italia mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Brescia, addi' 23 agosto 1890.   
-  
-UMBERTO.   
-  
-G. Zanardelli   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+E'istituito un terzo posto di notaro nel comune di Ravanusa, distretto notarile di Girgenti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale dalle leggi dei decreti del Regno d'Italia mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Brescia, addi' 23 agosto 1890. 
+ 
+ UMBERTO. 
+ 
+ G. Zanardelli 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

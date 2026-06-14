@@ -1,39 +1,39 @@
-REGIO DECRETO 28 dicembre 1864 n. MCCCCLXIV
+---
+tipo: REGIO DECRETO
+numero: MCCCCLXIV
+data: 1864-12-28
+titolo: "Circa la nomina del Delegato alla firma dei nuovi biglietti da emettersi dalla Banca Nazionale Toscana. (6401464R)"
+urn: urn:nir:stato:regio.decreto:1864-12-28;1464
+codice_redazionale: 6401464R
+vigente: true
+---
 
+VITTORIO EMANUELE II
 
-REGIO DECRETO 28 dicembre 1864 n. MCCCCLXIV
-===========================================
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
-Circa la nomina del Delegato alla firma dei nuovi biglietti da emettersi dalla Banca Nazionale Toscana. (6401464R)
-------------------------------------------------------------------------------------------------------------------
+RE D'ITALIA
 
-Entrata in vigore del provvedimento: 22/01/1865
+Veduto il Nostro Decreto delli 11 dicembre 1864, che modifica gli articoli 34, 35 e 62 dello statuto della Banca Nazionale Toscana;
 
-Art. 1
-------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-  
-  
-Il Delegato alla firma dei nuovi biglietti da emettersi dalla Banca Nazionale Toscana, sara' nominato dal Consiglio Superiore di essa Banca.   
-  
+## Art. 1.
 
-Art. 2
-------
+Il Delegato alla firma dei nuovi biglietti da emettersi dalla Banca Nazionale Toscana, sara' nominato dal Consiglio Superiore di essa Banca.
 
-  
-  
-Copia del presente Decreto, firmata dal Direttore del Contenzioso finanziario sedente in Firenze, sara' depositata nelle Cancellerie dei Tribunali di prima istanza di Firenze, Livorno, Siena, Pisa, Lucca, Arezzo e Pistoia.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 28 dicembre 1864.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 3 gennaio 1865   
-Reg.° 32 Atti del Governo a c. 15. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli VACCA.   
-  
-TORELLI.   
-  
-  
+## Art. 2.
+
+Copia del presente Decreto, firmata dal Direttore del Contenzioso finanziario sedente in Firenze, sara' depositata nelle Cancellerie dei Tribunali di prima istanza di Firenze, Livorno, Siena, Pisa, Lucca, Arezzo e Pistoia. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 28 dicembre 1864. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 3 gennaio 1865 
+ Reg.° 32 Atti del Governo a c. 15. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli VACCA. 
+ 
+ TORELLI.

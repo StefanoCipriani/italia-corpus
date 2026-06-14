@@ -1,16 +1,14 @@
-REGIO DECRETO 27 gennaio 1871 n. 34
-
-
-REGIO DECRETO 27 gennaio 1871 n. 34
-===================================
-
-Col quale il Comune di Montalbano Jonico costituira' una Sezione separata del Collegio elettorale di Matera. (071U0034)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/02/1871
+---
+tipo: REGIO DECRETO
+numero: 34
+data: 1871-01-27
+titolo: "Col quale il Comune di Montalbano Jonico costituira' una Sezione separata del Collegio elettorale di Matera. (071U0034)"
+urn: urn:nir:stato:regio.decreto:1871-01-27;34
+codice_redazionale: 071U0034
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune istesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Montalbano Jonico costituira' d'ora in poi una Sezione separata del Collegio di Matera, con sede nel capoluogo del Comune medesimo.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 27 gennaio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 3 febbraio 1871   
-  
-Reg. 54 Atti del Governo a c. 103. Ayres.   
-  
-Luogo del sigillo. V. II Guardasigilli M. Raeli.   
-  
-G. Lanza.   
-  
+Il Comune di Montalbano Jonico costituira' d'ora in poi una Sezione separata del Collegio di Matera, con sede nel capoluogo del Comune medesimo. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 27 gennaio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 3 febbraio 1871 
+ 
+ Reg. 54 Atti del Governo a c. 103. Ayres. 
+ 
+ Luogo del sigillo. V. II Guardasigilli M. Raeli. 
+ 
+ G. Lanza.

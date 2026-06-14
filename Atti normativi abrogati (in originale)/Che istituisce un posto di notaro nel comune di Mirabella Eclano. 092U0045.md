@@ -1,16 +1,14 @@
-REGIO DECRETO 31 gennaio 1892 n. 45
-
-
-REGIO DECRETO 31 gennaio 1892 n. 45
-===================================
-
-Che istituisce un posto di notaro nel comune di Mirabella Eclano. (092U0045)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/03/1892
+---
+tipo: REGIO DECRETO
+numero: 45
+data: 1892-01-31
+titolo: "Che istituisce un posto di notaro nel comune di Mirabella Eclano. (092U0045)"
+urn: urn:nir:stato:regio.decreto:1892-01-31;45
+codice_redazionale: 092U0045
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Visto l'art. 4 della legge sul notariato, approvata con Nostro decreto 25 maggio
 
 Ritenuto esser dimostrata la necessita' della istituzione del posto anzidetto;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un posto di notaro nel comune di Mirabella Eclano, distretto notarile di Ariano di Puglia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 31 gennaio 1892.   
-  
-UMBERTO.   
-  
-Chimirri.   
-  
-Visto, Il Guardasigilli: B. Chimirri.   
-  
+E' istituito un posto di notaro nel comune di Mirabella Eclano, distretto notarile di Ariano di Puglia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 31 gennaio 1892. 
+ 
+ UMBERTO. 
+ 
+ Chimirri. 
+ 
+ Visto, Il Guardasigilli: B. Chimirri.

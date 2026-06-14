@@ -1,16 +1,14 @@
-REGIO DECRETO 03 ottobre 1866 n. 3349
-
-
-REGIO DECRETO 03 ottobre 1866 n. 3349
-=====================================
-
-Col quale ai Medici di corvetta ed ai Farmacisti di 2ª classe stati nominati nel Corpo sanitario della R. Marina sara' corrisposto, nell'atto del loro licenziamento, un semestre di paga a titolo di gratificazione. (066U3349)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/12/1866
+---
+tipo: REGIO DECRETO
+numero: 3349
+data: 1866-10-03
+titolo: "Col quale ai Medici di corvetta ed ai Farmacisti di 2ª classe stati nominati nel Corpo sanitario della R. Marina sara' corrisposto, nell'atto del loro licenziamento, un semestre di paga a titolo di gratificazione. (066U3349)"
+urn: urn:nir:stato:regio.decreto:1866-10-03;3349
+codice_redazionale: 066U3349
+vigente: true
+---
 
 EUGENIO
--------
 
 PRINCIPE DI SAVOJA-CARIGNANO
 
@@ -30,29 +28,22 @@ Visto il Regio Decreto 6 maggio detto relativo alla formazione dei Corpi volonta
 
 Sulla proposta del Ministro della Marina;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ai Medici di corvetta ed ai Farmacisti di 2ª classe, stati nominati nel Corpo sanitario della Regia Marina per la sola durata della guerra, sara' corrisposto, nell'atto del loro licenziamento dal servizio, un semestre di paga a titolo di gratificazione.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 3 ottobre 1866.   
-  
-EUGENIO DI SAVOJA   
-  
-Registrato alla Corte dei conti addi' 27 novembre 1866   
-  
-Reg.° 38 Atti del Governo a c. 72. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Borgatti.   
-  
-Depretis.   
-  
+Ai Medici di corvetta ed ai Farmacisti di 2ª classe, stati nominati nel Corpo sanitario della Regia Marina per la sola durata della guerra, sara' corrisposto, nell'atto del loro licenziamento dal servizio, un semestre di paga a titolo di gratificazione. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 3 ottobre 1866. 
+ 
+ EUGENIO DI SAVOJA 
+ 
+ Registrato alla Corte dei conti addi' 27 novembre 1866 
+ 
+ Reg.° 38 Atti del Governo a c. 72. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ Depretis.

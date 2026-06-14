@@ -1,46 +1,37 @@
-REGIO DECRETO 30 giugno 1910 n. 477
-
-
-REGIO DECRETO 30 giugno 1910 n. 477
-===================================
-
-Che regola la nomina del direttore della scuola di medicina veterinaria dell'Universita' di Pisa. (010U0477)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/08/1910
+---
+tipo: REGIO DECRETO
+numero: 477
+data: 1910-06-30
+titolo: "Che regola la nomina del direttore della scuola di medicina veterinaria dell'Universita' di Pisa. (010U0477)"
+urn: urn:nir:stato:regio.decreto:1910-06-30;477
+codice_redazionale: 010U0477
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto il regolamento unico per le RR. scuole superiori di medicina veterinaria, approvato col [R. decreto 29 gennaio 1891, n. 120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1891-01-29;120), e i successivi RR. decreti 20 dicembre 1891, n. 750, e 26 giugno 1898, numero 286, che modificano l'articolo 1 del regolamento stesso;
+Veduto il regolamento unico per le RR. scuole superiori di medicina veterinaria, approvato col [R. decreto 29 gennaio 1891, n. 120](Che%20approva%20lannesso%20regolamento%20unico%20per%20le%20Regie%20Scuole%20superiori%20di%20Medicina%20veterinaria%20del%20Regno.%20091U0120.md), e i successivi RR. decreti 20 dicembre 1891, n. 750, e 26 giugno 1898, numero 286, che modificano l'articolo 1 del regolamento stesso;
 
 Considerata la convenienza che nella scuola di medicina veterinaria presso la R. Universita' di Pisa la nomina del direttore sia fatta in modo da assicurare un avvicendamento nei titolari dell'ufficio;
 
 Sentito il Consiglio superiore della pubblica istruzione;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nella scuola di medicina veterinaria presso la Regia Universita' di Pisa il direttore sara' nominato con decreto Reale tra i professori ordinari di materie obbligatorie per gli allievi della scuola, durera' in ufficio due anni, e non potra' esser nominato di nuovo allo stesso ufficio se non dopo l'intervallo di almeno un biennio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 30 giugno 1910.   
-  
-VITTORIO EMANUELE.   
-  
-Credaro.   
-  
-Visto, Il guardasigilli: Fani.   
-  
+Nella scuola di medicina veterinaria presso la Regia Universita' di Pisa il direttore sara' nominato con decreto Reale tra i professori ordinari di materie obbligatorie per gli allievi della scuola, durera' in ufficio due anni, e non potra' esser nominato di nuovo allo stesso ufficio se non dopo l'intervallo di almeno un biennio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 30 giugno 1910. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Credaro. 
+ 
+ Visto, Il guardasigilli: Fani.

@@ -1,19 +1,15 @@
-REGIO DECRETO 06 giugno 1907 n. CCXXXIII
+---
+tipo: REGIO DECRETO
+numero: CCXXXIII
+data: 1907-06-06
+titolo: "Erezione in ente morale. (0700233R)"
+urn: urn:nir:stato:regio.decreto:1907-06-06;233
+codice_redazionale: 0700233R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 giugno 1907 n. CCXXXIII
-========================================
-
-Erezione in ente morale. (0700233R)
------------------------------------
-
-Entrata in vigore del provvedimento: 25/07/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCXXXIII (Dato a Roma, il 6 giugno 1907), col quale si erige in ente morale l'opera pia «Gaetano Zucchi» e si concentra in pari tempo nella Congregazione di carita' di Milano.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCXXXIII (Dato a Roma, il 6 giugno 1907), col quale si erige in ente morale l'opera pia «Gaetano Zucchi» e si concentra in pari tempo nella Congregazione di carita' di Milano.

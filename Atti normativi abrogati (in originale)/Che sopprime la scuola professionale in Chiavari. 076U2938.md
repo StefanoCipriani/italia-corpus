@@ -1,16 +1,14 @@
-REGIO DECRETO 20 gennaio 1876 n. 2938
-
-
-REGIO DECRETO 20 gennaio 1876 n. 2938
-=====================================
-
-Che sopprime la scuola professionale in Chiavari. (076U2938)
-------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/02/1876
+---
+tipo: REGIO DECRETO
+numero: 2938
+data: 1876-01-20
+titolo: "Che sopprime la scuola professionale in Chiavari. (076U2938)"
+urn: urn:nir:stato:regio.decreto:1876-01-20;2938
+codice_redazionale: 076U2938
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,23 +26,16 @@ Atteso che nell'anno scolastico 1874-75 la Scuola professionale di Chiavari non 
 
 Sentito il parere del Consiglio superiore per l'istruzione tecnica;
 
-Sulla
------
+Sulla proposta del Nostro Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Scuola professionale per le arti di stipettaio, e per le arti fabbrili della costruzione navale istituita in Chiavari col Nostro decreto 15 agosto 1871, n. 469, e' soppressa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Data a Roma, addi' 20 gennaio 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Finali.   
-  
+La Scuola professionale per le arti di stipettaio, e per le arti fabbrili della costruzione navale istituita in Chiavari col Nostro decreto 15 agosto 1871, n. 469, e' soppressa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Data a Roma, addi' 20 gennaio 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Finali.

@@ -1,28 +1,23 @@
-DECRETO LUOGOTENENZIALE 29 ottobre 1916 n. 1515
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1515
+data: 1916-10-29
+titolo: "Col quale e' devoluta al ministro per i trasporti marittimi e ferroviari la competenza a dichiarare la pubblica utilita' e l'urgenza dei lavori occorrenti sulle ferrovie esercitate dallo Stato. (016U1515)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-10-29;1515
+codice_redazionale: 016U1515
+vigente: true
+---
 
+## Articolo unico.
 
-DECRETO LUOGOTENENZIALE 29 ottobre 1916 n. 1515
-===============================================
-
-Col quale e' devoluta al ministro per i trasporti marittimi e ferroviari la competenza a dichiarare la pubblica utilita' e l'urgenza dei lavori occorrenti sulle ferrovie esercitate dallo Stato. (016U1515)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/12/1916
-
-Articolo unico
---------------
-
-  
-  
-E' devoluta al ministro per i trasporti marittimi e ferroviari la competenza a dichiarare, ai sensi ed agli effetti dell'[art. 76 della legge 7 luglio 1907, n. 429](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429~art76), la pubblica utilita' e l'urgenza e indifferibilita' dei lavori occorrenti sulle ferrovie esercitate dallo Stato.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 ottobre 1916.   
-  
-TOMASO DI SAVOIA.   
-  
-Boselli - Arlotta - Bonomi.   
-  
-Visto, Il guardasigilli: Sacchi.   
-  
+E' devoluta al ministro per i trasporti marittimi e ferroviari la competenza a dichiarare, ai sensi ed agli effetti dell'[art. 76 della legge 7 luglio 1907, n. 429](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429#art_76), la pubblica utilita' e l'urgenza e indifferibilita' dei lavori occorrenti sulle ferrovie esercitate dallo Stato. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 ottobre 1916. 
+ 
+ TOMASO DI SAVOIA. 
+ 
+ Boselli - Arlotta - Bonomi. 
+ 
+ Visto, Il guardasigilli: Sacchi.

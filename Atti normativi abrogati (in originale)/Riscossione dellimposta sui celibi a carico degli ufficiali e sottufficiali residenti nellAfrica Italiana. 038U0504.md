@@ -1,16 +1,14 @@
-REGIO DECRETO 14 marzo 1938 n. 504
-
-
-REGIO DECRETO 14 marzo 1938 n. 504
-==================================
-
-Riscossione dell'imposta sui celibi a carico degli ufficiali e sottufficiali residenti nell'Africa Italiana. (038U0504)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/06/1938
+---
+tipo: REGIO DECRETO
+numero: 504
+data: 1938-03-14
+titolo: "Riscossione dell'imposta sui celibi a carico degli ufficiali e sottufficiali residenti nell'Africa Italiana. (038U0504)"
+urn: urn:nir:stato:regio.decreto:1938-03-14;504
+codice_redazionale: 038U0504
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,30 +30,24 @@ Udito il parere del Consiglio superiore coloniale;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per l'Africa Italiana, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per l'Africa Italiana, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A decorrere dal 1° gennaio 1938-XVI, e' esteso agli ufficiali ed ai sottufficiali delle Forze armate dello Stato, che prestano servizio nell'Africa Italiana, esclusi coloro per i quali non si siano ancora verificate le condizioni prescritte dalle disposizioni in vigore per poter contrarre matrimonio, l'obbligo di corrispondere l'imposta sul celibato, stabilito per il Regno nell'art. 15 del R. decreto-legge 21 agosto 1937-XV, numero 1542.   
-  
-Tale imposta e' devoluta ai bilanci coloniali.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 marzo 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 11 maggio 1938 - Anno XVI   
-  
-Atti del Governo, registro 397, foglio 43. - MANCINI.   
+A decorrere dal 1° gennaio 1938-XVI, e' esteso agli ufficiali ed ai sottufficiali delle Forze armate dello Stato, che prestano servizio nell'Africa Italiana, esclusi coloro per i quali non si siano ancora verificate le condizioni prescritte dalle disposizioni in vigore per poter contrarre matrimonio, l'obbligo di corrispondere l'imposta sul celibato, stabilito per il Regno nell'art. 15 del R. decreto-legge 21 agosto 1937-XV, numero 1542. 
+ 
+ Tale imposta e' devoluta ai bilanci coloniali. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 marzo 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 11 maggio 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 397, foglio 43. - MANCINI.

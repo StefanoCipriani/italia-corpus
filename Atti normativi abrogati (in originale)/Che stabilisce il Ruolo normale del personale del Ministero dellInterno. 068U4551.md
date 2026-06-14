@@ -1,16 +1,14 @@
-REGIO DECRETO 23 aprile 1868 n. 4551
-
-
-REGIO DECRETO 23 aprile 1868 n. 4551
-====================================
-
-Che stabilisce il Ruolo normale del personale del Ministero dell'Interno. (068U4551)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/09/1868
+---
+tipo: REGIO DECRETO
+numero: 4551
+data: 1868-04-23
+titolo: "Che stabilisce il Ruolo normale del personale del Ministero dell'Interno. (068U4551)"
+urn: urn:nir:stato:regio.decreto:1868-04-23;4551
+codice_redazionale: 068U4551
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,52 +20,34 @@ Considerando che, per l'abolizione gia' ordinata di una Divisione della Direzion
 
 Considerando che sarebbe utile riunire tutte le disposizioni dei Decreti sovrindicati, e ripartire in piu' giuste proporzioni il numero degli impiegati di ciascun grado;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' soppressa nel Ministero dell'Interno la Direzione superiore di pubblica sicurezza.
 
-  
-  
-E' soppressa nel Ministero dell'Interno la Direzione superiore di pubblica sicurezza.   
-  
+## Art. 2.
 
-Art. 2
-------
+Il Ruolo normale del personale del Ministero dell'Interno e' stabilito come segue: 
+ 
+ Parte di provvedimento in formato grafico
 
-  
-  
-Il Ruolo normale del personale del Ministero dell'Interno e' stabilito come segue:   
-  
-Parte di provvedimento in formato grafico  
+## Art. 3.
 
-Art. 3
-------
+Nulla e' innovato per cio' che riguarda il grado e lo stipendio dell'attuale Direttore generale delle carceri.
 
-  
-  
-Nulla e' innovato per cio' che riguarda il grado e lo stipendio dell'attuale Direttore generale delle carceri.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Le disposizioni del presente Decreto avranno effetto dal giorno primo del prossimo venturo mese di giugno.   
-  
-Il Ministro proponente curera' l'esecuzione di questo Decreto, che sara' registrato alla Corte dei conti ed inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia.   
-  
-Dato a Torino addi' 23 aprile 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 23 maggio 1868   
-  
-Reg. 59 Decreti amministrativi, foglio 378. Ayres.   
-  
-C. Cadorna.   
-  
+Le disposizioni del presente Decreto avranno effetto dal giorno primo del prossimo venturo mese di giugno. 
+ 
+ Il Ministro proponente curera' l'esecuzione di questo Decreto, che sara' registrato alla Corte dei conti ed inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia. 
+ 
+ Dato a Torino addi' 23 aprile 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 23 maggio 1868 
+ 
+ Reg. 59 Decreti amministrativi, foglio 378. Ayres. 
+ 
+ C. Cadorna.

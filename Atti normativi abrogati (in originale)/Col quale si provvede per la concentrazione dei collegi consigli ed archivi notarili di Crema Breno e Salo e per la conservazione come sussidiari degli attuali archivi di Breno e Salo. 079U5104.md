@@ -1,16 +1,14 @@
-REGIO DECRETO 02 ottobre 1879 n. 5104
-
-
-REGIO DECRETO 02 ottobre 1879 n. 5104
-=====================================
-
-Col quale si provvede per la concentrazione dei collegi, consigli ed archivi notarili di Crema, Breno e Salo' e per la conservazione come sussidiari degli attuali archivi di Breno e Salo'. (079U5104)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/11/1879
+---
+tipo: REGIO DECRETO
+numero: 5104
+data: 1879-10-02
+titolo: "Col quale si provvede per la concentrazione dei collegi, consigli ed archivi notarili di Crema, Breno e Salo' e per la conservazione come sussidiari degli attuali archivi di Breno e Salo'. (079U5104)"
+urn: urn:nir:stato:regio.decreto:1879-10-02;5104
+codice_redazionale: 079U5104
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,34 +24,23 @@ Considerato pero' che, ai termini dell'ultima parte del 3° capoverso del citato
 
 In virtu' della facolta' concessa dall'articolo 145 della legge summentovata, per la quale il Governo del Re e' autorizzato a provvedere con Reale decreto alla sistemazione degli Archivi attualmente esistenti;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I Collegi, i Consigli e gli Archivi notarili di Crema, Breno e Salo' sono soppressi e riuniti ai distretti del rispettivo capoluogo di provincia, di Cremona il primo e di Brescia gli altri due.
 
-  
-  
-I Collegi, i Consigli e gli Archivi notarili di Crema, Breno e Salo' sono soppressi e riuniti ai distretti del rispettivo capoluogo di provincia, di Cremona il primo e di Brescia gli altri due.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Gli attuali Archivi notarili di Breno e Salo' sono conservati come sussidiari all'Archivio notatile provinciale di Brescia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 2 ottobre 1879.   
-  
-UMBERTO.   
-  
-Vare'.   
-  
-Visto - Il Guardasigilli   
-Vare'.   
-  
+Gli attuali Archivi notarili di Breno e Salo' sono conservati come sussidiari all'Archivio notatile provinciale di Brescia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 2 ottobre 1879. 
+ 
+ UMBERTO. 
+ 
+ Vare'. 
+ 
+ Visto - Il Guardasigilli 
+ Vare'.

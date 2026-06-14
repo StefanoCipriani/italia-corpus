@@ -1,16 +1,14 @@
-REGIO DECRETO 14 luglio 1881 n. 451
-
-
-REGIO DECRETO 14 luglio 1881 n. 451
-===================================
-
-Che dichiara istituto pubblico educativo femminile il collegio di Maria di Parco (Palermo). (081U0451)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/12/1881
+---
+tipo: REGIO DECRETO
+numero: 451
+data: 1881-07-14
+titolo: "Che dichiara istituto pubblico educativo femminile il collegio di Maria di Parco (Palermo). (081U0451)"
+urn: urn:nir:stato:regio.decreto:1881-07-14;451
+codice_redazionale: 081U0451
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,72 +28,42 @@ Considerata la necessita' di dare al Collegio di Maria di Parco un ordinamento p
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il Collegio di Maria di Parco, circondario di Palermo, e' dichiarato Istituto pubblico educativo femminile dipendente dal Ministero della Istruzione Pubblica.
 
-  
-  
-Il Collegio di Maria di Parco, circondario di Palermo, e' dichiarato Istituto pubblico educativo femminile dipendente dal Ministero della Istruzione Pubblica.   
-  
+## Art. 2.
 
-Art. 2
-------
+Esso sara', governato da una Commissione composta di un presidente e due consiglieri. Il presidente sopraintendera' all'azienda economica ed a tutto cio' che riguarda il buon ordine del Collegio; i due consiglieri cureranno e promuoveranno, d'accordo col presidente, tutto quanto si atttinga alla istruzione e alla educazione delle alunne.
 
-  
-  
-Esso sara', governato da una Commissione composta di un presidente e due consiglieri. Il presidente sopraintendera' all'azienda economica ed a tutto cio' che riguarda il buon ordine del Collegio; i due consiglieri cureranno e promuoveranno, d'accordo col presidente, tutto quanto si atttinga alla istruzione e alla educazione delle alunne.   
-  
+## Art. 3.
 
-Art. 3
-------
+Il presidente e i due consiglieri saranno nominati per decreto Ministeriale, il primo sulla proposta del Consiglio scolastico provinciale, e gli altri su proposta del Consiglio comunale di Parco.
 
-  
-  
-Il presidente e i due consiglieri saranno nominati per decreto Ministeriale, il primo sulla proposta del Consiglio scolastico provinciale, e gli altri su proposta del Consiglio comunale di Parco.   
-  
+## Art. 4.
 
-Art. 4
-------
+La Commissione entro il termine di due mesi dalla sua nomina preparera' un regolamento interno, che per mezzo del Consiglio scolastico provinciale sottoporra' all'approvazione del Ministero della Pubblica Istruzione.
 
-  
-  
-La Commissione entro il termine di due mesi dalla sua nomina preparera' un regolamento interno, che per mezzo del Consiglio scolastico provinciale sottoporra' all'approvazione del Ministero della Pubblica Istruzione.   
-  
+## Art. 5.
 
-Art. 5
-------
+Il regolamento anzidetto, per cio' che tiene alla direzione e all'amministrazione dell'Istituto, all'ordinamento interno e alla istruzione delle alunne, dovra' essere compilata secondo le norme prescritte dai titoli 1°, 2° e 3° del regolamento per i Conservatorii femminili, approvato con [R. decreto del 6 ottobre 1867, numero 1941](Regio%20Decreto%20che%20approva%20il%20Regolamento%20pei%20Conservatorii%20femminili.%206701941R.md).
 
-  
-  
-Il regolamento anzidetto, per cio' che tiene alla direzione e all'amministrazione dell'Istituto, all'ordinamento interno e alla istruzione delle alunne, dovra' essere compilata secondo le norme prescritte dai titoli 1°, 2° e 3° del regolamento per i Conservatorii femminili, approvato con [R. decreto del 6 ottobre 1867, numero 1941](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1867-10-06;1941).   
+## Art. 6.
 
-Art. 6
-------
+Per il mantenimento delle collegine presenti, per l'ammissione delle nuove da qui innanzi e per provvedere in ogni caso al personale necessario, alla educazione e allo insegnamento nello Istituto, saranno osservate le disposizioni degli articoli 7 ed 8 dello stesso R. decreto 6 ottobre 1867.
 
-  
-  
-Per il mantenimento delle collegine presenti, per l'ammissione delle nuove da qui innanzi e per provvedere in ogni caso al personale necessario, alla educazione e allo insegnamento nello Istituto, saranno osservate le disposizioni degli articoli 7 ed 8 dello stesso R. decreto 6 ottobre 1867.   
-  
+## Art. 7.
 
-Art. 7
-------
-
-  
-  
-Tutte le disposizioni anteriori contrarie alle predette sono abrogate.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 luglio 1881.   
-  
-UMBERTO.   
-  
-Baccelli.   
-  
-Visto, il Guardasigilli: G. Zanardelli.   
-  
+Tutte le disposizioni anteriori contrarie alle predette sono abrogate. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 luglio 1881. 
+ 
+ UMBERTO. 
+ 
+ Baccelli. 
+ 
+ Visto, il Guardasigilli: G. Zanardelli.

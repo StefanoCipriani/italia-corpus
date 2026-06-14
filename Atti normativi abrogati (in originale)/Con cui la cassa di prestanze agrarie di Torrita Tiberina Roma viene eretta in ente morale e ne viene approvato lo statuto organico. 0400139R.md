@@ -1,22 +1,18 @@
-REGIO DECRETO 24 marzo 1904 n. CXXXIX
+---
+tipo: REGIO DECRETO
+numero: CXXXIX
+data: 1904-03-24
+titolo: "Con cui la cassa di prestanze agrarie di Torrita Tiberina (Roma) viene eretta in ente morale e ne viene approvato lo statuto organico. (0400139R)"
+urn: urn:nir:stato:regio.decreto:1904-03-24;139
+codice_redazionale: 0400139R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 marzo 1904 n. CXXXIX
-=====================================
-
-Con cui la cassa di prestanze agrarie di Torrita Tiberina (Roma) viene eretta in ente morale e ne viene approvato lo statuto organico. (0400139R)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/05/1904
-
-Art. 1
-------
-
-  
-Con cui la cassa di prestanze agrarie di Torrita Tiberina (Roma) viene eretta in ente morale e ne viene approvato lo statuto organico.  
-- Firmato VITTORIO EMANUELE - Controfirmati Giolitti - Rava - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 28 aprile 1904.   
-  
-Reg. 16. Atti del Governo a f. 81.   
-  
+Con cui la cassa di prestanze agrarie di Torrita Tiberina (Roma) viene eretta in ente morale e ne viene approvato lo statuto organico.
+- Firmato VITTORIO EMANUELE - Controfirmati Giolitti - Rava - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 28 aprile 1904. 
+ 
+ Reg. 16. Atti del Governo a f. 81.

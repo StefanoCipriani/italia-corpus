@@ -1,16 +1,14 @@
-REGIO DECRETO 06 giugno 1940 n. 774
-
-
-REGIO DECRETO 06 giugno 1940 n. 774
-===================================
-
-Estensione ai cappellani militari della concessione della croce per anzianita' di servizio. (040U0774)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/07/1940
+---
+tipo: REGIO DECRETO
+numero: 774
+data: 1940-06-06
+titolo: "Estensione ai cappellani militari della concessione della croce per anzianita' di servizio. (040U0774)"
+urn: urn:nir:stato:regio.decreto:1940-06-06;774
+codice_redazionale: 040U0774
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 8 novembre 1900, n. 358](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-11-08;358), che istituisce una croce per anzianita' di servizio;
+Visto il [R. decreto 8 novembre 1900, n. 358](Col%20quale%20si%20istituisce%20una%20Croce%20per%20anzianita%20di%20servizio%20pei%20militari%20ed%20ufficiali%20dellEsercito%20e%20dellArmata.%20000U0358.md), che istituisce una croce per anzianita' di servizio;
 
 Vista la legge 16 gennaio 1936-XIV, n. 77, sul servizio dell'assistenza spirituale presso le Forze armate dello Stato;
 
@@ -32,30 +30,22 @@ Udito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, per la marina e per l'aeronautica, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, per la marina e per l'aeronautica, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le disposizioni di cui all'[art. 3 del R. decreto 8 novembre 1900, n. 358](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-11-08;358~art3), sono estese ai cappellani militari per il servizio dell'assistenza spirituale da essi esplicato presso le Forze armate dello Stato.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 giugno 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 8 luglio 1940-XVIII   
-  
-Atti del Governo, registro 423, foglio 54. - Mancini   
-  
-  
+Le disposizioni di cui all'[art. 3 del R. decreto 8 novembre 1900, n. 358](Col%20quale%20si%20istituisce%20una%20Croce%20per%20anzianita%20di%20servizio%20pei%20militari%20ed%20ufficiali%20dellEsercito%20e%20dellArmata.%20000U0358.md), sono estese ai cappellani militari per il servizio dell'assistenza spirituale da essi esplicato presso le Forze armate dello Stato. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 giugno 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 8 luglio 1940-XVIII 
+ 
+ Atti del Governo, registro 423, foglio 54. - Mancini

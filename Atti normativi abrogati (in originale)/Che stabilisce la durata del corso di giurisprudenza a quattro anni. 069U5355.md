@@ -1,16 +1,14 @@
-REGIO DECRETO 18 novembre 1869 n. 5355
-
-
-REGIO DECRETO 18 novembre 1869 n. 5355
-======================================
-
-Che stabilisce la durata del corso di giurisprudenza a quattro anni. (069U5355)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/12/1869
+---
+tipo: REGIO DECRETO
+numero: 5355
+data: 1869-11-18
+titolo: "Che stabilisce la durata del corso di giurisprudenza a quattro anni. (069U5355)"
+urn: urn:nir:stato:regio.decreto:1869-11-18;5355
+codice_redazionale: 069U5355
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,33 +20,26 @@ Vedute le risposte date dalle Facolta' di giurisprudenza delle Universita' del R
 
 Sentito il parere del Consiglio superiore della Pubblica Istruzione;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il corso della Facolta' di giurisprudenza si compira' in quattro anni.   
-  
-Il Ministro della Pubblica Istruzione stabilira', sentito il Consiglio superiore, la distribuzione degli insegnamenti nei quattro anni del corso, e gli opportuni provvedimenti transitorii.   
-  
-E' abrogata ogni disposizione contraria al presente Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore addi' 18 novembre 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 29 novembre 1869   
-  
-Reg. 49 Atti del Governo a c 61. Crodara Visconti.   
-  
-Luogo del sigillo. V. Il Guardasigilli: Vigliani.   
-  
-A. Bargoni.   
-  
+Il corso della Facolta' di giurisprudenza si compira' in quattro anni. 
+ 
+ Il Ministro della Pubblica Istruzione stabilira', sentito il Consiglio superiore, la distribuzione degli insegnamenti nei quattro anni del corso, e gli opportuni provvedimenti transitorii. 
+ 
+ E' abrogata ogni disposizione contraria al presente Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore addi' 18 novembre 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 29 novembre 1869 
+ 
+ Reg. 49 Atti del Governo a c 61. Crodara Visconti. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli: Vigliani. 
+ 
+ A. Bargoni.

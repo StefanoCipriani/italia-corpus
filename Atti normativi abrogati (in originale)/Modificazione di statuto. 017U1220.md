@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 26 luglio 1917 n. 1220
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1220
+data: 1917-07-26
+titolo: "Modificazione di statuto. (017U1220)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-07-26;1220
+codice_redazionale: 017U1220
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 26 luglio 1917 n. 1220
-==============================================
-
-Modificazione di statuto. (017U1220)
-------------------------------------
-
-Entrata in vigore del provvedimento: 02/09/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1220. Decreto Luogotenenziale 26 luglio 1917, col quale, su proposta del ministrai dell'industria, del commercio e del lavoro, e' modificato lo statuto organico della Cassa di risparmio di Forli'.
+1220.
+
+Decreto Luogotenenziale 26 luglio 1917, col quale, su proposta del ministrai dell'industria, del commercio e del lavoro, e' modificato lo statuto organico della Cassa di risparmio di Forli'.

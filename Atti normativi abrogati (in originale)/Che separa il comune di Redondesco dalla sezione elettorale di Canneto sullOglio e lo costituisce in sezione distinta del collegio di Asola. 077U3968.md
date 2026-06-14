@@ -1,16 +1,14 @@
-REGIO DECRETO 23 luglio 1877 n. 3968
-
-
-REGIO DECRETO 23 luglio 1877 n. 3968
-====================================
-
-Che separa il comune di Redondesco dalla sezione elettorale di Canneto sull'Oglio e lo costituisce in sezione distinta del collegio di Asola. (077U3968)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/08/1877
+---
+tipo: REGIO DECRETO
+numero: 3968
+data: 1877-07-23
+titolo: "Che separa il comune di Redondesco dalla sezione elettorale di Canneto sull'Oglio e lo costituisce in sezione distinta del collegio di Asola. (077U3968)"
+urn: urn:nir:stato:regio.decreto:1877-07-23;3968
+codice_redazionale: 077U3968
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,22 +22,14 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Anna di Valdieri, addi' 23 luglio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. NICOTERA.   
-  
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Anna di Valdieri, addi' 23 luglio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. NICOTERA.

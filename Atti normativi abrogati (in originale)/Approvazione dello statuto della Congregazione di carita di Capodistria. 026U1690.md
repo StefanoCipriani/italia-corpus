@@ -1,21 +1,21 @@
-REGIO DECRETO 25 giugno 1926 n. 1690
+---
+tipo: REGIO DECRETO
+numero: 1690
+data: 1926-06-25
+titolo: "Approvazione dello statuto della Congregazione di carita' di Capodistria. (026U1690)"
+urn: urn:nir:stato:regio.decreto:1926-06-25;1690
+codice_redazionale: 026U1690
+vigente: true
+---
 
-
-REGIO DECRETO 25 giugno 1926 n. 1690
-====================================
-
-Approvazione dello statuto della Congregazione di carita' di Capodistria. (026U1690)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/10/1926
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1690. R. decreto 25 giugno 1926, col quale, sulla proposta del Ministro per l'interno, viene approvato lo statuto organico della Congregazione di carita' di Capodistria.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 9 ottobre 1926.
+1690.
+
+R. decreto 25 giugno 1926, col quale, sulla proposta del Ministro per l'interno, viene approvato lo statuto organico della Congregazione di carita' di Capodistria. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 9 ottobre 1926.

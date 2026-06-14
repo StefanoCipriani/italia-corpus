@@ -1,16 +1,14 @@
-REGIO DECRETO 30 dicembre 1923 n. 3163
-
-
-REGIO DECRETO 30 dicembre 1923 n. 3163
-======================================
-
-Aumento del contributo annuo dello Stato al Consorzio dei rimboscamenti della provincia di Pavia. (023U3163)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/12/1924
+---
+tipo: REGIO DECRETO
+numero: 3163
+data: 1923-12-30
+titolo: "Aumento del contributo annuo dello Stato al Consorzio dei rimboscamenti della provincia di Pavia. (023U3163)"
+urn: urn:nir:stato:regio.decreto:1923-12-30;3163
+codice_redazionale: 023U3163
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,31 +24,24 @@ Vista la deliberazione 15 dicembre 1923 del Consiglio per i servizi tecnici del 
 
 Visti gli articoli 5 e 11 della legge forestale vigente 20 giugno 1877, n. 3917 (Serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-  
-Il contributo annuo del Governo nei lavori di rimboscamento da eseguirsi nella provincia di Pavia, a cura di quel Comitato forestale, determinato fino alla somma di L. 5000 col [R. decreto 5 aprile 1914, n. 388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-04-05;388), e' aumentato, a decorrere dal corrente esercizio finanziario fino alla somma di L. 25,000, corrispondente al contributo stabilito dalla Provincia interessata.   
-  
-La somma di L. 25,000 anzidetta sara' prelevata dal fondo stanziato nel bilancio passivo dell'Azienda del demanio forestale di Stato all'articolo 2 per l'esercizio finanziario 1923 1924 ed all'articolo corrispondente dei bilanci per gli esercizi futuri.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 30 dicembre 1923.   
-  
-VITTORIO EMANUELE.   
-  
-Corbino.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 6 febbraio 1924.   
-  
-Atti del Governo, registro 221, foglio 62. - Granata.   
-  
+Il contributo annuo del Governo nei lavori di rimboscamento da eseguirsi nella provincia di Pavia, a cura di quel Comitato forestale, determinato fino alla somma di L. 5000 col [R. decreto 5 aprile 1914, n. 388](Costituzione%20di%20Consorzio%20di%20rimboschimenti%20e%20di%20rinsaldamenti%20montani.%20014U0388.md), e' aumentato, a decorrere dal corrente esercizio finanziario fino alla somma di L. 25,000, corrispondente al contributo stabilito dalla Provincia interessata. 
+ 
+ La somma di L. 25,000 anzidetta sara' prelevata dal fondo stanziato nel bilancio passivo dell'Azienda del demanio forestale di Stato all'articolo 2 per l'esercizio finanziario 1923 1924 ed all'articolo corrispondente dei bilanci per gli esercizi futuri. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 30 dicembre 1923. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Corbino. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 6 febbraio 1924. 
+ 
+ Atti del Governo, registro 221, foglio 62. - Granata.

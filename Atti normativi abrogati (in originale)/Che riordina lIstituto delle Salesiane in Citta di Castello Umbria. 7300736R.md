@@ -1,16 +1,14 @@
-REGIO DECRETO 26 agosto 1873 n. DCCXXXVI
-
-
-REGIO DECRETO 26 agosto 1873 n. DCCXXXVI
-========================================
-
-Che riordina l'Istituto delle Salesiane in Citta' di Castello (Umbria). (7300736R)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/10/1873
+---
+tipo: REGIO DECRETO
+numero: DCCXXXVI
+data: 1873-08-26
+titolo: "Che riordina l'Istituto delle Salesiane in Citta' di Castello (Umbria). (7300736R)"
+urn: urn:nir:stato:regio.decreto:1873-08-26;736
+codice_redazionale: 7300736R
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,56 +32,38 @@ Considerata in conseguenza di tutto questo la necessita' di dare al governo ed a
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'Istituto delle Salesiane in Citta' di Castello (Umbria) e' dichiarato pubblico Istituto educativo.
 
-  
-  
-L'Istituto delle Salesiane in Citta' di Castello (Umbria) e' dichiarato pubblico Istituto educativo.   
+## Art. 2.
 
-Art. 2
-------
+Esso verra' amministrato e governato da una Commissione composta di un Presidente e di due Consiglieri, uno dei quali sara' proposto dalle Salesiane.
 
-  
-  
-Esso verra' amministrato e governato da una Commissione composta di un Presidente e di due Consiglieri, uno dei quali sara' proposto dalle Salesiane.   
+## Art. 3.
 
-Art. 3
-------
+Alle discussioni concernenti l'amministrazione economica potra' prender parte con voto consultivo la Superiora delle dette Suore.
 
-  
-  
-Alle discussioni concernenti l'amministrazione economica potra' prender parte con voto consultivo la Superiora delle dette Suore.   
+## Art. 4.
 
-Art. 4
-------
+Per la direzione e amministrazione, per l'ordinamento interno e per la istruzione, salvo cio' che e' disposto nei due articoli precedenti, si osserveranno tutte le norme e le prescrizioni contenute nel Regolamento approvato pei Conservatori femminili con Decreto Nostro del 6 ottobre 1867, n. MDCCCCXLI.
 
-  
-  
-Per la direzione e amministrazione, per l'ordinamento interno e per la istruzione, salvo cio' che e' disposto nei due articoli precedenti, si osserveranno tutte le norme e le prescrizioni contenute nel Regolamento approvato pei Conservatori femminili con Decreto Nostro del 6 ottobre 1867, n. MDCCCCXLI.   
+## Art. 5.
 
-Art. 5
-------
-
-  
-  
-Tutte le disposizioni contrarie alla presente sono abrogate.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 26 agosto 1873.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 2 ottobre 1873   
-  
-Vol. 72 Atti del Governo a. c. 25. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Vigliani.   
-  
-A. Scialoja.   
+Tutte le disposizioni contrarie alla presente sono abrogate. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 26 agosto 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 2 ottobre 1873 
+ 
+ Vol. 72 Atti del Governo a. c. 25. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Vigliani. 
+ 
+ A. Scialoja.

@@ -1,16 +1,14 @@
-REGIO DECRETO 09 novembre 1876 n. 3492
-
-
-REGIO DECRETO 09 novembre 1876 n. 3492
-======================================
-
-Col quale il comune di Macerata e' autorizzato a riscuotere un dazio di consumo sopra alcuni generi. (076U3492)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/12/1876
+---
+tipo: REGIO DECRETO
+numero: 3492
+data: 1876-11-09
+titolo: "Col quale il comune di Macerata e' autorizzato a riscuotere un dazio di consumo sopra alcuni generi. (076U3492)"
+urn: urn:nir:stato:regio.decreto:1876-11-09;3492
+codice_redazionale: 076U3492
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,31 +24,16 @@ Visto il parere della Camera di commercio ed arti della provincia di Macerata;
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze, Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Macerata e' autorizzato a riscuotere un dazio di consumo all'introduzione in citta' su alcuni articoli non appartenenti alle solite categorie, in conformita' della qui annessa tariffa vista d'ordine Nostro dal Ministro delle Finanze.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 novembre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-DEPRETIS.   
-  
-
-Tariffa
-
-  
-Tariffa   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=076U349200100010110001&dgu=1876-11-27&art.dataPubblicazioneGazzetta=1876-11-27&art.codiceRedazionale=076U3492)
-  
+Il comune di Macerata e' autorizzato a riscuotere un dazio di consumo all'introduzione in citta' su alcuni articoli non appartenenti alle solite categorie, in conformita' della qui annessa tariffa vista d'ordine Nostro dal Ministro delle Finanze. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 novembre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ DEPRETIS.

@@ -1,16 +1,14 @@
-REGIO DECRETO 07 gennaio 1870 n. 5455
-
-
-REGIO DECRETO 07 gennaio 1870 n. 5455
-=====================================
-
-Col quale la Piro-cannoniera Caprera, faciente parte della flottiglia del lago di Garda, e' cancellata dal Quadro del Regio Naviglio. (070U5455)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/02/1870
+---
+tipo: REGIO DECRETO
+numero: 5455
+data: 1870-01-07
+titolo: "Col quale la Piro-cannoniera Caprera, faciente parte della flottiglia del lago di Garda, e' cancellata dal Quadro del Regio Naviglio. (070U5455)"
+urn: urn:nir:stato:regio.decreto:1870-01-07;5455
+codice_redazionale: 070U5455
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,27 +18,20 @@ Visto l'articolo 2 del Regio Decreto 14 giugno 1863, circa l'armamento del Navig
 
 Sentito il parere del Consiglio superiore di Marina;
 
-Sulla
------
+Sulla proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Regia Piro-cannoniera Caprera, faciente parte della flottiglia del lago di Garda, e' cancellata dal Quadro del Regio Naviglio.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 7 gennaio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 21 gennaio 1870   
-Reg. 50 Atti del Governo a c. 2. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-Castagnola.   
-  
+La Regia Piro-cannoniera Caprera, faciente parte della flottiglia del lago di Garda, e' cancellata dal Quadro del Regio Naviglio. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 7 gennaio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 21 gennaio 1870 
+ Reg. 50 Atti del Governo a c. 2. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ Castagnola.

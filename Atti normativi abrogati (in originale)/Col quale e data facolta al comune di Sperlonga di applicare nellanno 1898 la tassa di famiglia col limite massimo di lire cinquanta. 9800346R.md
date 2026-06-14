@@ -1,22 +1,18 @@
-REGIO DECRETO 30 ottobre 1898 n. CCCXLVI
+---
+tipo: REGIO DECRETO
+numero: CCCXLVI
+data: 1898-10-30
+titolo: "Col quale e' data facolta' al comune di Sperlonga di applicare nell'anno 1898 la tassa di famiglia col limite massimo di lire cinquanta. (9800346R)"
+urn: urn:nir:stato:regio.decreto:1898-10-30;346
+codice_redazionale: 9800346R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 ottobre 1898 n. CCCXLVI
-========================================
-
-Col quale e' data facolta' al comune di Sperlonga di applicare nell'anno 1898 la tassa di famiglia col limite massimo di lire cinquanta. (9800346R)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/12/1898
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di Sperlonga di applicare nell'anno 1898 la tassa di famiglia col limite massimo di lire cinquanta. - Firmato UMBERTO - Controfirmato Carcano - Visto C.  
-Finocchiaro Aprile.   
-  
-Registrato alla Corte dei Conti addi' 14 novembre 1898.   
-  
-Reg. 217. Atti del Governo a f. 142.   
-  
+Col quale e' data facolta' al comune di Sperlonga di applicare nell'anno 1898 la tassa di famiglia col limite massimo di lire cinquanta. - Firmato UMBERTO - Controfirmato Carcano - Visto C.
+Finocchiaro Aprile. 
+ 
+ Registrato alla Corte dei Conti addi' 14 novembre 1898. 
+ 
+ Reg. 217. Atti del Governo a f. 142.

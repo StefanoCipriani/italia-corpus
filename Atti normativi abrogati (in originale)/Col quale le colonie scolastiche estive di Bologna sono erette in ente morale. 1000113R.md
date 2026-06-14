@@ -1,18 +1,15 @@
-REGIO DECRETO 20 marzo 1910 n. CXIII
+---
+tipo: REGIO DECRETO
+numero: CXIII
+data: 1910-03-20
+titolo: "Col quale le colonie scolastiche estive di Bologna sono erette in ente morale. (1000113R)"
+urn: urn:nir:stato:regio.decreto:1910-03-20;113
+codice_redazionale: 1000113R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 marzo 1910 n. CXIII
-====================================
-
-Col quale le colonie scolastiche estive di Bologna sono erette in ente morale. (1000113R)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/05/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CXIII (Dato a Roma, il 20 marzo 1910), col quale le colonie scolastiche estive di Bologna sono erette in ente morale ed e' approvato lo statuto organico relativo.   
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CXIII (Dato a Roma, il 20 marzo 1910), col quale le colonie scolastiche estive di Bologna sono erette in ente morale ed e' approvato lo statuto organico relativo.

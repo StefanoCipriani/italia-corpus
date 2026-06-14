@@ -1,20 +1,16 @@
-REGIO DECRETO 23 gennaio 1908 n. XXXII
+---
+tipo: REGIO DECRETO
+numero: XXXII
+data: 1908-01-23
+titolo: "Riflettente l'estensione dei benefizii delle leggi sulle case popolari. (0800032R)"
+urn: urn:nir:stato:regio.decreto:1908-01-23;32
+codice_redazionale: 0800032R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 gennaio 1908 n. XXXII
-======================================
-
-Riflettente l'estensione dei benefizii delle leggi sulle case popolari. (0800032R)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/03/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. XXXII (Dato a Roma, il 23 gennaio 1908), col quale si estendono i benefizi delle leggi sulle case popolari, alle case operaie costruite nell'anno 1902 dalla Societa' anonima cooperativa edificatrice di case operaie in Palazzolo sull'Oglio, in via G.  
-Zanardelli, sul mappale n. 720, coi civici numeri 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66 e 67.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. XXXII (Dato a Roma, il 23 gennaio 1908), col quale si estendono i benefizi delle leggi sulle case popolari, alle case operaie costruite nell'anno 1902 dalla Societa' anonima cooperativa edificatrice di case operaie in Palazzolo sull'Oglio, in via G.
+Zanardelli, sul mappale n. 720, coi civici numeri 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66 e 67.

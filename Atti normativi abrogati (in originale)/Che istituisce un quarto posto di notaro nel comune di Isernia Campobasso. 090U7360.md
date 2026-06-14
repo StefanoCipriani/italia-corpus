@@ -1,16 +1,14 @@
-REGIO DECRETO 28 dicembre 1890 n. 7360
-
-
-REGIO DECRETO 28 dicembre 1890 n. 7360
-======================================
-
-Che istituisce un quarto posto di notaro nel comune di Isernia (Campobasso). (090U7360)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/02/1891
+---
+tipo: REGIO DECRETO
+numero: 7360
+data: 1890-12-28
+titolo: "Che istituisce un quarto posto di notaro nel comune di Isernia (Campobasso). (090U7360)"
+urn: urn:nir:stato:regio.decreto:1890-12-28;7360
+codice_redazionale: 090U7360
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Visto l'articolo 4 della legge sul notariato, approvata con Nostro decreto 25 ma
 
 Ritenuto che e' dimostrata la necessita' dalla istituzione del posto anzidetto;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un quarto posto di notaro nel comune di Isernia capoluogo di distretto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 dicembre 1890.   
-  
-UMBERTO.   
-  
-G. Zanardelli.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+E' istituito un quarto posto di notaro nel comune di Isernia capoluogo di distretto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 dicembre 1890. 
+ 
+ UMBERTO. 
+ 
+ G. Zanardelli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

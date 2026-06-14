@@ -1,16 +1,14 @@
-REGIO DECRETO 26 gennaio 1922 n. 567
-
-
-REGIO DECRETO 26 gennaio 1922 n. 567
-====================================
-
-Col quale si stabilisce che i diplomi di licenza e di magistero rilasciati dal Conservatorio musicale «G. Verdi» di Trieste siano equiparati, per tutti gli effetti legali, ai diplomi rilasciati dai RR. Istituti musicali dipendenti dal Ministero dell'istruzione pubblica. (022U0567)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/05/1922
+---
+tipo: REGIO DECRETO
+numero: 567
+data: 1922-01-26
+titolo: "Col quale si stabilisce che i diplomi di licenza e di magistero rilasciati dal Conservatorio musicale «G. Verdi» di Trieste siano equiparati, per tutti gli effetti legali, ai diplomi rilasciati dai RR. Istituti musicali dipendenti dal Ministero dell'istruzione pubblica. (022U0567)"
+urn: urn:nir:stato:regio.decreto:1922-01-26;567
+codice_redazionale: 022U0567
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,25 +18,18 @@ Veduta l'istanza del direttore del Conservatorio musicale «Giuseppe Verdi» di 
 
 Sentita la competente sezione della Commissione permanente per le arti musicale e drammatica;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per l'istruzione pubblica; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per l'istruzione pubblica; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I diplomi di licenza e di magistero rilasciati dal Conservatorio musicale «Giuseppe Verdi» di Trieste ai candidati che abbiano superato le prove d'esame prescritte dai programmi ministeriali in vigore, sono equiparati, per tutti gli effetti legali, ai diplomi rilasciati dai RR. Istituti musicali dipendenti dal Ministero dell'istruzione pubblica.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare   
-  
-Dato a Roma, addi' 26 gennaio 1922.   
-  
-VITTORIO EMANUELE.   
-  
-CORBINO.   
-  
-Visto, il guardasigilli: LUIGI ROSSI.   
-  
+I diplomi di licenza e di magistero rilasciati dal Conservatorio musicale «Giuseppe Verdi» di Trieste ai candidati che abbiano superato le prove d'esame prescritte dai programmi ministeriali in vigore, sono equiparati, per tutti gli effetti legali, ai diplomi rilasciati dai RR. Istituti musicali dipendenti dal Ministero dell'istruzione pubblica. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare 
+ 
+ Dato a Roma, addi' 26 gennaio 1922. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ CORBINO. 
+ 
+ Visto, il guardasigilli: LUIGI ROSSI.

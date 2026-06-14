@@ -1,16 +1,14 @@
-REGIO DECRETO 15 maggio 1870 n. 5677
-
-
-REGIO DECRETO 15 maggio 1870 n. 5677
-====================================
-
-E' delegata ai Prefetti la facolta' di ridurre fino a cinque giorni i termini per la pubblicazione degli avvisi d'asta. (070U5677)
-----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/06/1870
+---
+tipo: REGIO DECRETO
+numero: 5677
+data: 1870-05-15
+titolo: "E' delegata ai Prefetti la facolta' di ridurre fino a cinque giorni i termini per la pubblicazione degli avvisi d'asta. (070U5677)"
+urn: urn:nir:stato:regio.decreto:1870-05-15;5677
+codice_redazionale: 070U5677
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,36 +20,26 @@ Visti gli articoli 41 e 59 del Regolamento di contabilita', approvato con Regio 
 
 Sulla proposta del Ministro delle Finanze;
 
-Sentito
--------
+Sentito il parere del Consiglio di Stato; Abbiamo decretato e decretiamo:
 
-il parere del Consiglio di Stato; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' delegata ai Prefetti la facolta' di poter ridurre sino a cinque giorni i termini di pubblicazione degli avvisi d'asta, sempreche' trattisi di contratti la cui approvazione e' ad essi demandata in virtu' dell'articolo 27 del Regolamento delle Intendenze.
 
-  
-  
-E' delegata ai Prefetti la facolta' di poter ridurre sino a cinque giorni i termini di pubblicazione degli avvisi d'asta, sempreche' trattisi di contratti la cui approvazione e' ad essi demandata in virtu' dell'articolo 27 del Regolamento delle Intendenze.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Nell'esercizio di tale facolta' saranno serbate le forme ed il procedimento prescritto dagli articoli 41 e 59 del Regolamento di contabilita'.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 15 maggio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 30 maggio 1870   
-  
-Reg. 51 Atti del Governo a c. 85. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-Quintino Sella.   
-  
+Nell'esercizio di tale facolta' saranno serbate le forme ed il procedimento prescritto dagli articoli 41 e 59 del Regolamento di contabilita'. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 15 maggio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 30 maggio 1870 
+ 
+ Reg. 51 Atti del Governo a c. 85. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ Quintino Sella.

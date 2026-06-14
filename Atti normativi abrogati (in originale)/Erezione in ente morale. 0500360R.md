@@ -1,19 +1,15 @@
-REGIO DECRETO 02 novembre 1905 n. CCCLX
+---
+tipo: REGIO DECRETO
+numero: CCCLX
+data: 1905-11-02
+titolo: "Erezione in ente morale. (0500360R)"
+urn: urn:nir:stato:regio.decreto:1905-11-02;360
+codice_redazionale: 0500360R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 novembre 1905 n. CCCLX
-=======================================
-
-Erezione in ente morale. (0500360R)
------------------------------------
-
-Entrata in vigore del provvedimento: 20/12/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCLX (Dato a Caserta, il 2 novembre 1905) col quale l'opera pia «Pollini», di Malesco, viene eretta in ente morale e ne viene approvato lo statuto organico.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCLX (Dato a Caserta, il 2 novembre 1905) col quale l'opera pia «Pollini», di Malesco, viene eretta in ente morale e ne viene approvato lo statuto organico.

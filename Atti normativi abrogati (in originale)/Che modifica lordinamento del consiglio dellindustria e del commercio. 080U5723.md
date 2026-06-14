@@ -1,16 +1,14 @@
-REGIO DECRETO 18 novembre 1880 n. 5723
-
-
-REGIO DECRETO 18 novembre 1880 n. 5723
-======================================
-
-Che modifica l'ordinamento del consiglio dell'industria e del commercio. (080U5723)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/12/1880
+---
+tipo: REGIO DECRETO
+numero: 5723
+data: 1880-11-18
+titolo: "Che modifica l'ordinamento del consiglio dell'industria e del commercio. (080U5723)"
+urn: urn:nir:stato:regio.decreto:1880-11-18;5723
+codice_redazionale: 080U5723
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,27 +22,20 @@ Visto il Reale decreto 8 dicembre 1878, n. 4638, con cui fu riformato l'ordiname
 
 Visto l'articolo 6 dell'anzidetto decreto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il segretario del Consiglio dell'industria e del commercio ha voce deliberativa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 novembre 1880.   
-  
-UMBERTO.   
-  
-L. Miceli.   
-  
-Visto - Il Guardasigilli   
-  
-T. Villa.   
-  
+Il segretario del Consiglio dell'industria e del commercio ha voce deliberativa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 novembre 1880. 
+ 
+ UMBERTO. 
+ 
+ L. Miceli. 
+ 
+ Visto - Il Guardasigilli 
+ 
+ T. Villa.

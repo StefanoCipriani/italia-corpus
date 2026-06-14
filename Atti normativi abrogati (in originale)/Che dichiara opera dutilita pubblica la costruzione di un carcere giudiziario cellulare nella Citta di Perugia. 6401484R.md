@@ -1,19 +1,15 @@
-REGIO DECRETO 31 dicembre 1864 n. MCCCCLXXXIV
+---
+tipo: REGIO DECRETO
+numero: MCCCCLXXXIV
+data: 1864-12-31
+titolo: "Che dichiara opera d'utilita' pubblica la costruzione di un carcere giudiziario cellulare nella Citta' di Perugia. (6401484R)"
+urn: urn:nir:stato:regio.decreto:1864-12-31;1484
+codice_redazionale: 6401484R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 dicembre 1864 n. MCCCCLXXXIV
-=============================================
-
-Che dichiara opera d'utilita' pubblica la costruzione di un carcere giudiziario cellulare nella Citta' di Perugia. (6401484R)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/12/1864
-
-Art. 1
-------
-
-  
-Col quale e' dichiarata opera di pubblica utilita' la costruzione nella citta' di Perugia di un carcere giudiziario cellulare nella localita' indicata nel piano redatto dal cavaliere ed architetto Giuseppe Polani in data 12 luglio 1864, in cui e' tracciato il progetto di massima di detto carcere, e nella relazione spiegativa della stessa data, e sono assegnate le norme per le occorrenti espropriazioni.   
-  
-Torino 31 dicembre 1864   
-  
+Col quale e' dichiarata opera di pubblica utilita' la costruzione nella citta' di Perugia di un carcere giudiziario cellulare nella localita' indicata nel piano redatto dal cavaliere ed architetto Giuseppe Polani in data 12 luglio 1864, in cui e' tracciato il progetto di massima di detto carcere, e nella relazione spiegativa della stessa data, e sono assegnate le norme per le occorrenti espropriazioni. 
+ 
+ Torino 31 dicembre 1864

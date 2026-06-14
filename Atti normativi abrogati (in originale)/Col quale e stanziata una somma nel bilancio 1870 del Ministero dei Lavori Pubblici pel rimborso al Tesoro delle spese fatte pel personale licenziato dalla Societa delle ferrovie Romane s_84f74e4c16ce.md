@@ -1,22 +1,20 @@
-REGIO DECRETO 31 dicembre 1870 n. 6206
-
-
-REGIO DECRETO 31 dicembre 1870 n. 6206
-======================================
-
-Col quale e' stanziata una somma nel bilancio 1870 del Ministero dei Lavori Pubblici pel rimborso al Tesoro delle spese fatte pel personale licenziato dalla Societa' delle ferrovie Romane su alcune linee (070U6206)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/02/1871
+---
+tipo: REGIO DECRETO
+numero: 6206
+data: 1870-12-31
+titolo: "Col quale e' stanziata una somma nel bilancio 1870 del Ministero dei Lavori Pubblici pel rimborso al Tesoro delle spese fatte pel personale licenziato dalla Societa' delle ferrovie Romane su alcune linee (070U6206)"
+urn: urn:nir:stato:regio.decreto:1870-12-31;6206
+codice_redazionale: 070U6206
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduta la [Legge 28 agosto 1870, n. 5858](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-28;5858);
+Veduta la [Legge 28 agosto 1870, n. 5858](Che%20approva%20le%20Convenzioni%20colle%20Societa%20delle%20strade%20ferrate%20Romane%20Meridionali%20di%20Savona%20e%20Sarde%20ed%20altri%20provvedimenti%20riguardanti%20le%20strade%20ferrate.%20070U5858.md);
 
 Veduto il Nostro Decreto del 30 ottobre 1870, n. 6081;
 
@@ -24,29 +22,22 @@ Ritenuto che fra le partite di debito della Societa' delle ferrovie Romane verso
 
 Ritenuto che per l'indicato oggetto il Governo ebbe a disporre pagamenti con mandati provvisori, negli anni dal 1862 al 1866, per la somma complessiva di L. 155,000, che occorre di regolarizzare;
 
-Sulla
------
+Sulla proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
 
-proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nella parte straordinaria del bilancio della spesa del Ministero dei Lavori Pubblici per l'anno 1870 e' stanziato un nuovo capitolo sotto il n. 101 duodecies, e colla denominazione - Rimborso al Tesoro dello Stato delle spese fatte per il personale licenziato dalla Societa' delle ferrovie Romane sulle linee Ceprano-Napoli e Cancello-San Severino - per la somma di' lire centocinquantacinquemila (L. 155,000).   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 31 dicembre 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 7 febbraio 1871   
-  
-Reg. 54 Atti del Governo a c. 115. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-Quintino Sella.   
-  
+Nella parte straordinaria del bilancio della spesa del Ministero dei Lavori Pubblici per l'anno 1870 e' stanziato un nuovo capitolo sotto il n. 101 duodecies, e colla denominazione - Rimborso al Tesoro dello Stato delle spese fatte per il personale licenziato dalla Societa' delle ferrovie Romane sulle linee Ceprano-Napoli e Cancello-San Severino - per la somma di' lire centocinquantacinquemila (L. 155,000). 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 31 dicembre 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 7 febbraio 1871 
+ 
+ Reg. 54 Atti del Governo a c. 115. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ Quintino Sella.

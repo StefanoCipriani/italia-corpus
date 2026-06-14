@@ -1,16 +1,14 @@
-REGIO DECRETO 20 settembre 1871 n. 554
-
-
-REGIO DECRETO 20 settembre 1871 n. 554
-======================================
-
-Concernente l'Istituto delle Figlie di Gesu' in Massa, detto anche Ritiro di San Luigi in Volpigliano. (071U0554)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/01/1872
+---
+tipo: REGIO DECRETO
+numero: 554
+data: 1871-09-20
+titolo: "Concernente l'Istituto delle Figlie di Gesu' in Massa, detto anche Ritiro di San Luigi in Volpigliano. (071U0554)"
+urn: urn:nir:stato:regio.decreto:1871-09-20;554
+codice_redazionale: 071U0554
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,63 +24,36 @@ Ritenuto che in progresso di tempo il Ritiro fu volto a fine d'istruzione e di e
 
 Considerata l'utilita' grandissima che ne verrebbe alla provincia di Massa, ove quelle pie donne indirizzassero piu' determinatamente l'Istituto a scopo d'istruzione e di educazione pubblica;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'Istituto delle figlie di Gesu' in Massa detto anche Ritiro di San Luigi in Volpigliano, fondato pel decreto del 3 luglio 1753 dalla Duchessa Maria Teresa Cybo, e gia' riconosciuto come Ente morale laicale, sara' da qui innanzi affidato alla cura e alla sopraintendenza di una Commissione composta di un presidente e di due consiglieri.
 
-  
-  
-L'Istituto delle figlie di Gesu' in Massa detto anche Ritiro di San Luigi in Volpigliano, fondato pel decreto del 3 luglio 1753 dalla Duchessa Maria Teresa Cybo, e gia' riconosciuto come Ente morale laicale, sara' da qui innanzi affidato alla cura e alla sopraintendenza di una Commissione composta di un presidente e di due consiglieri.   
-  
+## Art. 2.
 
-Art. 2
-------
+Il presidente sara' nominato dal Nostro Ministro Segretario di Stato per la Pubblica Istruzione; dei due consiglieri, l'uno sara' nominato dalla Deputazione provinciale, e l'altro dal Consiglio comunale di Massa.
 
-  
-  
-Il presidente sara' nominato dal Nostro Ministro Segretario di Stato per la Pubblica Istruzione; dei due consiglieri, l'uno sara' nominato dalla Deputazione provinciale, e l'altro dal Consiglio comunale di Massa.   
-  
+## Art. 3.
 
-Art. 3
-------
+Questa Commissione amministrera' le sostanze e le rendite del Ritiro, salvo quelle che, com'e' detto nell'art. 4 del decreto di fondazione, appartenessero in particolare alle signore che vi sono raccolte.
 
-  
-  
-Questa Commissione amministrera' le sostanze e le rendite del Ritiro, salvo quelle che, com'e' detto nell'art. 4 del decreto di fondazione, appartenessero in particolare alle signore che vi sono raccolte.   
-  
+## Art. 4.
 
-Art. 4
-------
+Essa studiera' anco il miglior modo onde il Ritiro possa provvidamente e col libero consenso delle signore essere da qui innanzi sempre piu' rivolto al pubblico bene, e segnatamente alla istruzione e alla educazione delle giovinette, e compiuti che abbia tali studi, presentera' un disegno di regolamento al Ministero dell'Istruzione Pubblica cui spettera' di approvarlo.
 
-  
-  
-Essa studiera' anco il miglior modo onde il Ritiro possa provvidamente e col libero consenso delle signore essere da qui innanzi sempre piu' rivolto al pubblico bene, e segnatamente alla istruzione e alla educazione delle giovinette, e compiuti che abbia tali studi, presentera' un disegno di regolamento al Ministero dell'Istruzione Pubblica cui spettera' di approvarlo.   
-  
+## Art. 5.
 
-Art. 5
-------
+L'amministrazione dei beni dell'Istituto, salvo sempre quelli che appartengono alle signore in particolare, verra' frattanto consegnata da chi ne tiene oggi l'azienda a un Commissario governativo che sara' nominato dal Nostro Ministro della Pubblica Istruzione, e che, ricevuta la consegna e fatto l'inventario di cio' che ora appartiene all'Ente morale, trasmettera' poi tutto e di tutto rendera' conto alla Commissione, quando sara' di fatto costituita.
 
-  
-  
-L'amministrazione dei beni dell'Istituto, salvo sempre quelli che appartengono alle signore in particolare, verra' frattanto consegnata da chi ne tiene oggi l'azienda a un Commissario governativo che sara' nominato dal Nostro Ministro della Pubblica Istruzione, e che, ricevuta la consegna e fatto l'inventario di cio' che ora appartiene all'Ente morale, trasmettera' poi tutto e di tutto rendera' conto alla Commissione, quando sara' di fatto costituita.   
-  
+## Art. 6.
 
-Art. 6
-------
-
-  
-  
-Tutte le disposizioni anteriori contrarie alla presente sono abrogate.   
-  
-Il Nostro Ministro Segretario di Stato per la Pubblica Istruzione e' incaricato della esecuzione di questo decreto, il quale, munito del sigillo dello Stato, verra' inserito nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia.   
-  
-Dato a Torino, addi' 20 settembre 1871.   
-  
-VITTORIO EMANUELE.   
-  
-C. Correnti.   
-  
+Tutte le disposizioni anteriori contrarie alla presente sono abrogate. 
+ 
+ Il Nostro Ministro Segretario di Stato per la Pubblica Istruzione e' incaricato della esecuzione di questo decreto, il quale, munito del sigillo dello Stato, verra' inserito nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia. 
+ 
+ Dato a Torino, addi' 20 settembre 1871. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ C. Correnti.

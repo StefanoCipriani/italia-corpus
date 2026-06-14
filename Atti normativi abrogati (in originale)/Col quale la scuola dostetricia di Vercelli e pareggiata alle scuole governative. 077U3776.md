@@ -1,16 +1,14 @@
-REGIO DECRETO 25 marzo 1877 n. 3776
-
-
-REGIO DECRETO 25 marzo 1877 n. 3776
-===================================
-
-Col quale la scuola d'ostetricia di Vercelli e' pareggiata alle scuole governative. (077U3776)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/05/1877
+---
+tipo: REGIO DECRETO
+numero: 3776
+data: 1877-03-25
+titolo: "Col quale la scuola d'ostetricia di Vercelli e' pareggiata alle scuole governative. (077U3776)"
+urn: urn:nir:stato:regio.decreto:1877-03-25;3776
+codice_redazionale: 077U3776
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,31 +20,20 @@ Veduto il parere della Facolta' medico-chirurgica della Regia Universita' di Tor
 
 Veduto che la Congregazione dell'Ospedale Maggiore di Vercelli, ov'e' la detta scuola, ha stanziata nel proprio bilancio la somma di lire 300 per dotazione alla stessa scuola, ed ha pur dato le opportune disposizioni perche' sia istituita la policlinica di cui e' parola;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La Regia scuola di ostetricia, annessa all'Ospedale Maggiore di Vercelli, e' per ogni effetto pareggiata alle scuole governative.
 
-  
-  
-La Regia scuola di ostetricia, annessa all'Ospedale Maggiore di Vercelli, e' per ogni effetto pareggiata alle scuole governative.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Con regolamento da approvarsi dal Nostro Ministro Segretario di Stato per la Pubblica Istruzione sara' provveduto all'ordinamento della policlinica in servizio della scuola predetta.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 marzo 1877.   
-  
-VITTORIO EMANUELE.   
-  
-M. Coppino.   
-  
+Con regolamento da approvarsi dal Nostro Ministro Segretario di Stato per la Pubblica Istruzione sara' provveduto all'ordinamento della policlinica in servizio della scuola predetta. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 marzo 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. Coppino.

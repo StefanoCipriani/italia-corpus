@@ -1,16 +1,14 @@
-REGIO DECRETO 14 novembre 1890 n. 7236
-
-
-REGIO DECRETO 14 novembre 1890 n. 7236
-======================================
-
-Che annulla alcune deliberazioni della Giunta municipale di Napoli, e che istituisce, nel villaggio di Fuorigrotta, una Sezione elettorale politica del 1° Collegio di Napoli. (090U7236)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/11/1890
+---
+tipo: REGIO DECRETO
+numero: 7236
+data: 1890-11-14
+titolo: "Che annulla alcune deliberazioni della Giunta municipale di Napoli, e che istituisce, nel villaggio di Fuorigrotta, una Sezione elettorale politica del 1° Collegio di Napoli. (090U7236)"
+urn: urn:nir:stato:regio.decreto:1890-11-14;7236
+codice_redazionale: 090U7236
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e volonta' della Nazione
 
@@ -22,40 +20,26 @@ Veduto il ricorso degli elettori stessi contro le suaccennate deliberazioni dell
 
 Udito il Consiglio di Stato;
 
-Veduti gli articoli 47 e 48 della legge elettorale politica 24 settembre 1882, n. 999 (Serie 3ª), l'art. 255 della legge comunale e provinciale 10 febbraio 1889, n. 5921 (Serie 3ª) e l'[art. 117 del regolamento 10 giugno 1889, n. 6107](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1889-06-10;6107~art117) (Serie 3ª) per l'esecuzione della legge stessa;
+Veduti gli articoli 47 e 48 della legge elettorale politica 24 settembre 1882, n. 999 (Serie 3ª), l'art. 255 della legge comunale e provinciale 10 febbraio 1889, n. 5921 (Serie 3ª) e l'[art. 117 del regolamento 10 giugno 1889, n. 6107](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1889-06-10;6107#art_117) (Serie 3ª) per l'esecuzione della legge stessa;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1. — null
 
-Art. 1
-------
+## Art. 2.
 
-null
+E'istituita nel villaggio di Fuorigrotta una sezione elettorale politica del 1° collegio di Napoli.
 
-Art. 2
-------
+## Art. 3.
 
-  
-  
-E'istituita nel villaggio di Fuorigrotta una sezione elettorale politica del 1° collegio di Napoli.   
-  
-
-Art. 3
-------
-
-  
-  
-Il Prefetto della provincia di Napoli e' incaricato della esecuzione del presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 novembre 1890.   
-  
-UMBERTO.   
-  
-Crispi.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+Il Prefetto della provincia di Napoli e' incaricato della esecuzione del presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 novembre 1890. 
+ 
+ UMBERTO. 
+ 
+ Crispi. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

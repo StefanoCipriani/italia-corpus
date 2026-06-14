@@ -1,16 +1,14 @@
-REGIO DECRETO 18 novembre 1877 n. 4155
-
-
-REGIO DECRETO 18 novembre 1877 n. 4155
-======================================
-
-Che alle strade provinciali di Cuneo aggiunge quella denominata del Gallo. (077U4155)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/12/1877
+---
+tipo: REGIO DECRETO
+numero: 4155
+data: 1877-11-18
+titolo: "Che alle strade provinciali di Cuneo aggiunge quella denominata del Gallo. (077U4155)"
+urn: urn:nir:stato:regio.decreto:1877-11-18;4155
+codice_redazionale: 077U4155
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,7 +18,7 @@ Vista la deliberazione 26 agosto 1874, colla quale il consiglio provinciale di C
 
 Visti i decreti reali 22 novembre 1866, 6 maggio 1872, 16 febbraio 1873 e 1° novembre 1876, riflettenti la classificazione delle strade provinciali della provincia di Cuneo;
 
-Visti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato F;
+Visti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [14 della legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), allegato F;
 
 Considerando:
 
@@ -30,29 +28,22 @@ Che eseguite le pubblicazioni prescritte dal successivo art. 14 della legge stes
 
 Udito l'avviso del consiglio superiore dei lavori pubblici;
 
-Sulla
------
+Sulla proposta del presidente del consiglio dei ministri, ministro delle finanze, incaricato dell'interim del Ministero dei lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del presidente del consiglio dei ministri, ministro delle finanze, incaricato dell'interim del Ministero dei lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' aggiunta alle strade provinciali della provincia di Cuneo la strada detta del Gallo, che diramandosi dalla provinciale Alba-Asti va per Govone al confine della provincia con quello di Alessandria.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 18 novembre 1877.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 15 dicembre 1877.   
-  
-Reg. 93 Atti del Governo a f. 53. G. Crodara Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Mancini.   
-  
-DEPRETIS.   
-  
+E' aggiunta alle strade provinciali della provincia di Cuneo la strada detta del Gallo, che diramandosi dalla provinciale Alba-Asti va per Govone al confine della provincia con quello di Alessandria. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 18 novembre 1877. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 15 dicembre 1877. 
+ 
+ Reg. 93 Atti del Governo a f. 53. G. Crodara Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Mancini. 
+ 
+ DEPRETIS.

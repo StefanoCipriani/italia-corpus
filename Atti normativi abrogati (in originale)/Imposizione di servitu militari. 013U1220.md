@@ -1,19 +1,15 @@
-REGIO DECRETO 15 agosto 1913 n. 1220
+---
+tipo: REGIO DECRETO
+numero: 1220
+data: 1913-08-15
+titolo: "Imposizione di servitu' militari. (013U1220)"
+urn: urn:nir:stato:regio.decreto:1913-08-15;1220
+codice_redazionale: 013U1220
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 agosto 1913 n. 1220
-====================================
-
-Imposizione di servitu' militari. (013U1220)
---------------------------------------------
-
-Entrata in vigore del provvedimento: 12/11/1913
-
-Art. 1
-------
-
-  
-N. 1220   
-  
-Col quale, sulla proposta del ministro della guerra, vengono determinate le zone di servitu' militari imposte alle proprieta' fondiarie adiacenti alle batterie «Vettor Pisani», «San Marco» e «Carlo Alberto Radaelli» sul litorale del Cavallino della piazza di Venezia.   
-  
+N. 1220 
+ 
+ Col quale, sulla proposta del ministro della guerra, vengono determinate le zone di servitu' militari imposte alle proprieta' fondiarie adiacenti alle batterie «Vettor Pisani», «San Marco» e «Carlo Alberto Radaelli» sul litorale del Cavallino della piazza di Venezia.

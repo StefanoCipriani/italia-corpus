@@ -1,16 +1,14 @@
-REGIO DECRETO 31 ottobre 1935 n. 2033
-
-
-REGIO DECRETO 31 ottobre 1935 n. 2033
-=====================================
-
-Modifiche all'art. 5 del R. decreto 20 luglio 1934-XIII, n. 1301, relativo all'assegnazione dei premi a favore dei produttori di pellicole cinematografiche. (035U2033)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/12/1935
+---
+tipo: REGIO DECRETO
+numero: 2033
+data: 1935-10-31
+titolo: "Modifiche all'art. 5 del R. decreto 20 luglio 1934-XIII, n. 1301, relativo all'assegnazione dei premi a favore dei produttori di pellicole cinematografiche. (035U2033)"
+urn: urn:nir:stato:regio.decreto:1935-10-31;2033
+codice_redazionale: 035U2033
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,26 +28,21 @@ Sentito il Consiglio dei Ministri;
 
 Su proposta del Ministro per la stampa e la propaganda, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-Articolo unico
---------------
+## Articolo unico.
 
-  
-  
-L'art. 5 del R. decreto 20 luglio 1934-XII, n. 1301, e' modificato come segue:   
-  
-«A partire dall'esercizio finanziario 1934-1935 l'assegnazione dei premi di cui all'art. 7 del R. decreto-legge 5 ottobre 1933-XI, n. 1414, sara' fatta entro sei mesi dalla chiusura dell'esercizio finanziario a favore dei produttori delle pellicole nazionali riconosciute meritevoli, che siano state proiettate per la prima volta nelle sale cinematografiche del Regno, nel periodo che va dal 1° luglio di ogni anno al 30 giugno dell'anno successivo».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 31 ottobre 1935 - Anno XIV   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 28 novembre 1935 - Anno XIV   
-Atti del Governo, registro 366, foglio 162. - Mancini.   
-  
-  
+L'art. 5 del R. decreto 20 luglio 1934-XII, n. 1301, e' modificato come segue: 
+ 
+ «A partire dall'esercizio finanziario 1934-1935 l'assegnazione dei premi di cui all'art. 7 del R. decreto-legge 5 ottobre 1933-XI, n. 1414, sara' fatta entro sei mesi dalla chiusura dell'esercizio finanziario a favore dei produttori delle pellicole nazionali riconosciute meritevoli, che siano state proiettate per la prima volta nelle sale cinematografiche del Regno, nel periodo che va dal 1° luglio di ogni anno al 30 giugno dell'anno successivo». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 31 ottobre 1935 - Anno XIV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 28 novembre 1935 - Anno XIV  
+ Atti del Governo, registro 366, foglio 162. - Mancini.

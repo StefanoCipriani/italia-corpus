@@ -1,16 +1,14 @@
-REGIO DECRETO 10 giugno 1880 n. 5509
-
-
-REGIO DECRETO 10 giugno 1880 n. 5509
-====================================
-
-Che sopprime il comune di Lodisio e lo aggrega a quello di Santa Giulia (Genova). (080U5509)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/07/1880
+---
+tipo: REGIO DECRETO
+numero: 5509
+data: 1880-06-10
+titolo: "Che sopprime il comune di Lodisio e lo aggrega a quello di Santa Giulia (Genova). (080U5509)"
+urn: urn:nir:stato:regio.decreto:1880-06-10;5509
+codice_redazionale: 080U5509
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,27 +22,19 @@ Vedute le deliberazioni del Consiglio provinciale di Genova in data 18 marzo 186
 
 Veduto l'articolo 14 della legge comunale e provinciale 20 marzo 1865, allegato A;
 
-Veduta
-------
+Veduta la legge 29 giugno 1875, n. 2612, Abbiamo decretato e decretiamo:
 
-la legge 29 giugno 1875, n. 2612, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 10 giugno 1880.   
-  
-UMBERTO.   
-  
-DEPRETIS.   
-  
-Visto - Il Guardasigilli   
-T. VILLA.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 giugno 1880. 
+ 
+ UMBERTO. 
+ 
+ DEPRETIS. 
+ 
+ Visto - Il Guardasigilli 
+ T. VILLA.

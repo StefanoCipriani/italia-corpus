@@ -1,16 +1,14 @@
-REGIO DECRETO 17 marzo 1941 n. 301
-
-
-REGIO DECRETO 17 marzo 1941 n. 301
-==================================
-
-Autorizzazione al comune di Cavriglia a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo in base alla tariffa superiore G. (041U0301)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/05/1941
+---
+tipo: REGIO DECRETO
+numero: 301
+data: 1941-03-17
+titolo: "Autorizzazione al comune di Cavriglia a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo in base alla tariffa superiore G. (041U0301)"
+urn: urn:nir:stato:regio.decreto:1941-03-17;301
+codice_redazionale: 041U0301
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,34 +20,29 @@ Vista l'istanza con la quale il comune di Cavriglia (Arezzo), gia' autorizzato a
 
 Sentita la Commissione centrale per la finanza locale;
 
-Visto l'art. 26 del testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175);
+Visto l'art. 26 del testo unico per la finanza locale approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
 
 Sulla proposta del Nostro Ministro Segretario di Stato per le finanze;
 
-Vista
------
+Vista la delega in data 23 febbraio 1941-XIX rilasciata al Sottosegretario di Stato per il Ministero delle finanze; Abbiamo decretato e decretiamo:
 
-la delega in data 23 febbraio 1941-XIX rilasciata al Sottosegretario di Stato per il Ministero delle finanze; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il comune di Cavriglia e' autorizzato a continuare ad applicare le imposte di consumo con la tariffa della classe superiore G fino al 31 dicembre
 
-1942. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 17 marzo 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-LISSIA   
-  
-Visto:   
-(ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76)   
-MUSSOLINI   
-  
-Registrato alla Corte dei conti, addi' 2 maggio 1941-XIX   
-Atti del Governo, registro 433, foglio 11. - MANCINI
+1942.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 marzo 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ LISSIA 
+ 
+ Visto: 
+ (ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76) 
+ MUSSOLINI 
+ 
+ Registrato alla Corte dei conti, addi' 2 maggio 1941-XIX 
+ Atti del Governo, registro 433, foglio 11. - MANCINI

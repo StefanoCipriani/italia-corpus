@@ -1,16 +1,14 @@
-REGIO DECRETO 05 novembre 1925 n. 2232
-
-
-REGIO DECRETO 05 novembre 1925 n. 2232
-======================================
-
-Elettrificazione dei tronchi Mantova-Angeli e Mantova-Dosso del Corso delle linee tramviarie Mantova-Asola e Mantova-Viadana e costruzione del nuovo tronco urbano dalla stazione delle dette tramvie fino a piazza Felice Cavallotti in Mantova. (025U2232)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/01/1926
+---
+tipo: REGIO DECRETO
+numero: 2232
+data: 1925-11-05
+titolo: "Elettrificazione dei tronchi Mantova-Angeli e Mantova-Dosso del Corso delle linee tramviarie Mantova-Asola e Mantova-Viadana e costruzione del nuovo tronco urbano dalla stazione delle dette tramvie fino a piazza Felice Cavallotti in Mantova. (025U2232)"
+urn: urn:nir:stato:regio.decreto:1925-11-05;2232
+codice_redazionale: 025U2232
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,37 +20,26 @@ Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'in
 
 Sentito il Consiglio superiore dei lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La Deputazione provinciale di Mantova, esercente le linee tranviarie Mantova-Asola e Mantova-Viadana e' autorizzata ad elettrificare i due tratti facenti parte rispettivamente delle dette linee Mantova-Angeli (km. 3 + 500) e Mantova-Dosso del Corso (km. 3 + 170) e ad impiantare ed esercitare un nuovo tronco urbano di tramvia elettrica dalla stazione delle indicate tramvie in Mantova, sino alla piazza Felice Cavallotti nella stessa citta'.
 
-  
-  
-La Deputazione provinciale di Mantova, esercente le linee tranviarie Mantova-Asola e Mantova-Viadana e' autorizzata ad elettrificare i due tratti facenti parte rispettivamente delle dette linee Mantova-Angeli (km. 3 + 500) e Mantova-Dosso del Corso (km. 3 + 170) e ad impiantare ed esercitare un nuovo tronco urbano di tramvia elettrica dalla stazione delle indicate tramvie in Mantova, sino alla piazza Felice Cavallotti nella stessa citta'.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-La elettrificazione e l'impianto di cui sopra dovranno essere eseguiti in conformita' al progetto all'uopo presentato in data 1° aprile 1925 dalla Deputazione provinciale anzidetta, tenute presenti le osservazioni fatte sul progetto medesimo dal Consiglio superiore dei lavori pubblici con il voto 16 ottobre 1925, n. 2646.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 5 novembre 1925.   
-  
-VITTORIO EMANUELE.   
-  
-Giuriati.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 22 dicembre 1925.   
-  
-Atti del Governo, registro 243, foglio 141. - Granata.   
-  
+La elettrificazione e l'impianto di cui sopra dovranno essere eseguiti in conformita' al progetto all'uopo presentato in data 1° aprile 1925 dalla Deputazione provinciale anzidetta, tenute presenti le osservazioni fatte sul progetto medesimo dal Consiglio superiore dei lavori pubblici con il voto 16 ottobre 1925, n. 2646. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 5 novembre 1925. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giuriati. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 22 dicembre 1925. 
+ 
+ Atti del Governo, registro 243, foglio 141. - Granata.

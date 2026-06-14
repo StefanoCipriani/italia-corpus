@@ -1,18 +1,15 @@
-REGIO DECRETO 21 maggio 1914 n. 537
+---
+tipo: REGIO DECRETO
+numero: 537
+data: 1914-05-21
+titolo: "erezione in Ente morale e relativa approvazione di statuto. (014U0537)"
+urn: urn:nir:stato:regio.decreto:1914-05-21;537
+codice_redazionale: 014U0537
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 maggio 1914 n. 537
-===================================
-
-erezione in Ente morale e relativa approvazione di statuto. (014U0537)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/07/1914
-
-Art. 1
-------
-
-  
-N. 537   
-  
-Regio Decreto 21 maggio 1914, col quale, sulla proposta del ministro della istruzione pubblica, la «Societa' nazionale per la storia del risorgimento Italiano», e' eretta in ente morale, e ne e' approvato lo statuto.   
+N. 537 
+ 
+ Regio Decreto 21 maggio 1914, col quale, sulla proposta del ministro della istruzione pubblica, la «Societa' nazionale per la storia del risorgimento Italiano», e' eretta in ente morale, e ne e' approvato lo statuto.

@@ -1,19 +1,15 @@
-REGIO DECRETO 17 aprile 1913 n. 489
+---
+tipo: REGIO DECRETO
+numero: 489
+data: 1913-04-17
+titolo: "Erezione in ente morale e approvazione di statuto. (013U0489)"
+urn: urn:nir:stato:regio.decreto:1913-04-17;489
+codice_redazionale: 013U0489
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 aprile 1913 n. 489
-===================================
-
-Erezione in ente morale e approvazione di statuto. (013U0489)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/06/1913
-
-Art. 1
-------
-
-  
-N. 489   
-  
-Regio Decreto 17 aprile 1913, col quale, sulla proposta del ministro dell'interno, la istituzione intitolata «Casa di lavoro per gli operai disoccupati fondazione Formiggini» con sede in Bologna, e' eretta in ente morale con amministrazione autonoma, e ne e' approvato lo statuto organico.   
-  
+N. 489 
+ 
+ Regio Decreto 17 aprile 1913, col quale, sulla proposta del ministro dell'interno, la istituzione intitolata «Casa di lavoro per gli operai disoccupati fondazione Formiggini» con sede in Bologna, e' eretta in ente morale con amministrazione autonoma, e ne e' approvato lo statuto organico.

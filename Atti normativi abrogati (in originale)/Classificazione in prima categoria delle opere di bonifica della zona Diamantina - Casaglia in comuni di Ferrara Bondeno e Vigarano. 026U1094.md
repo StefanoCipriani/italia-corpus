@@ -1,16 +1,14 @@
-REGIO DECRETO 27 maggio 1926 n. 1094
-
-
-REGIO DECRETO 27 maggio 1926 n. 1094
-====================================
-
-Classificazione in prima categoria delle opere di bonifica della zona Diamantina - Casaglia in comuni di Ferrara, Bondeno e Vigarano. (026U1094)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/07/1926
+---
+tipo: REGIO DECRETO
+numero: 1094
+data: 1926-05-27
+titolo: "Classificazione in prima categoria delle opere di bonifica della zona Diamantina - Casaglia in comuni di Ferrara, Bondeno e Vigarano. (026U1094)"
+urn: urn:nir:stato:regio.decreto:1926-05-27;1094
+codice_redazionale: 026U1094
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,31 +26,24 @@ Visto il voto 27 marzo 1926, n. 642, del Consiglio superiore dei lavori pubblici
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono classificate in prima categoria, a termini del combinato disposto degli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256~art2) e [3 del testo unico 30 dicembre 1923, n. 3256](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256~art3), le opere di bonifica della tona Diamantina-Casaglia in comuni di Ferrara, Bondeno e Vigarano.   
-  
-Il presente decreto avra' effetto dal giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 maggio 1926.   
-  
-VITTORIO EMANUELE.   
-  
-Giuriati.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 1° luglio 1926.   
-  
-Atti del Governo, registro 250, foglio 2. - Coop   
-  
+Sono classificate in prima categoria, a termini del combinato disposto degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256#art_2) e [3 del testo unico 30 dicembre 1923, n. 3256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256#art_3), le opere di bonifica della tona Diamantina-Casaglia in comuni di Ferrara, Bondeno e Vigarano. 
+ 
+ Il presente decreto avra' effetto dal giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 maggio 1926. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giuriati. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 1° luglio 1926. 
+ 
+ Atti del Governo, registro 250, foglio 2. - Coop

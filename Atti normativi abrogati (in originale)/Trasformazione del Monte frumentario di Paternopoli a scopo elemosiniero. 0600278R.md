@@ -1,18 +1,15 @@
-REGIO DECRETO 28 giugno 1906 n. CCLXXVIII
+---
+tipo: REGIO DECRETO
+numero: CCLXXVIII
+data: 1906-06-28
+titolo: "Trasformazione del Monte frumentario di Paternopoli a scopo elemosiniero. (0600278R)"
+urn: urn:nir:stato:regio.decreto:1906-06-28;278
+codice_redazionale: 0600278R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 giugno 1906 n. CCLXXVIII
-=========================================
-
-Trasformazione del Monte frumentario di Paternopoli a scopo elemosiniero. (0600278R)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/09/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCLXXVIII (Dato a Roma, il 28 giugno 1906), col quale il Monte frumentario di Paternopoli (Avellino) fu trasformato in istituto elemosiniero, e questo venne concentrato nella Congregazione di carita' del luogo.   
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCLXXVIII (Dato a Roma, il 28 giugno 1906), col quale il Monte frumentario di Paternopoli (Avellino) fu trasformato in istituto elemosiniero, e questo venne concentrato nella Congregazione di carita' del luogo.

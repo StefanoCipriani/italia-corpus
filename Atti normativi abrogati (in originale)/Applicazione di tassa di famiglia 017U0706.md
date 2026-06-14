@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 12 aprile 1917 n. 706
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 706
+data: 1917-04-12
+titolo: "Applicazione di tassa di famiglia (017U0706)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-04-12;706
+codice_redazionale: 017U0706
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 12 aprile 1917 n. 706
-=============================================
-
-Applicazione di tassa di famiglia (017U0706)
---------------------------------------------
-
-Entrata in vigore del provvedimento: 03/06/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-706. Decreto Luogotenenziale 12 aprile 1917, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Popoli (Aquila), di applicare nell'anno 1917 la tassa di famiglia con l'aliquota percentuale di L. 2.
+706.
+
+Decreto Luogotenenziale 12 aprile 1917, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Popoli (Aquila), di applicare nell'anno 1917 la tassa di famiglia con l'aliquota percentuale di L. 2.

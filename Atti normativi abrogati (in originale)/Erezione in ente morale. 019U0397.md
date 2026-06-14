@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 27 febbraio 1919 n. 397
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 397
+data: 1919-02-27
+titolo: "Erezione in ente morale. (019U0397)"
+urn: urn:nir:stato:decreto.luogotenenziale:1919-02-27;397
+codice_redazionale: 019U0397
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 27 febbraio 1919 n. 397
-===============================================
-
-Erezione in ente morale. (019U0397)
------------------------------------
-
-Entrata in vigore del provvedimento: 01/05/1919
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-397. Decreto Luogotenenziale 27 febbraio 1919, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri la fondazione Angela Madella, con sede nel comune di Casalmaggiore (Cremona), e' eretta in ente morale e concentrata nella locale Congregazione di carita', alla quale e' aggregato, per l'erogazione della relativa beneficenza, il parroco pro-tempore di San Leonardo.
+397.
+
+Decreto Luogotenenziale 27 febbraio 1919, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri la fondazione Angela Madella, con sede nel comune di Casalmaggiore (Cremona), e' eretta in ente morale e concentrata nella locale Congregazione di carita', alla quale e' aggregato, per l'erogazione della relativa beneficenza, il parroco pro-tempore di San Leonardo.

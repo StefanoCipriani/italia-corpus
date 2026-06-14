@@ -1,16 +1,14 @@
-REGIO DECRETO 15 agosto 1863 n. 1429
-
-
-REGIO DECRETO 15 agosto 1863 n. 1429
-====================================
-
-Col quale la Sezione del Collegio elettorale di Vizzini, detta di Buccheri, e' aggregata a quella di Palazzolo. (063U1429)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/09/1863
+---
+tipo: REGIO DECRETO
+numero: 1429
+data: 1863-08-15
+titolo: "Col quale la Sezione del Collegio elettorale di Vizzini, detta di Buccheri, e' aggregata a quella di Palazzolo. (063U1429)"
+urn: urn:nir:stato:regio.decreto:1863-08-15;1429
+codice_redazionale: 063U1429
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Considerando che nelle liste della Sezione del Collegio elettorale di Vizzini, n
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Gli elettori inscritti nelle liste della Sezione del Collegio elettorale di Vizzini, n.° 278, detta di Buccheri, sono aggregati alla piu' vicina Sezione del Collegio stesso, detta di Palazzolo.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Torino addi' 15 agosto 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 28 agosto 1863   
-  
-Reg.° 25 Atti del Governo a c. 54. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-U. Peruzzi.   
-  
+Gli elettori inscritti nelle liste della Sezione del Collegio elettorale di Vizzini, n.° 278, detta di Buccheri, sono aggregati alla piu' vicina Sezione del Collegio stesso, detta di Palazzolo. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Torino addi' 15 agosto 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 28 agosto 1863 
+ 
+ Reg.° 25 Atti del Governo a c. 54. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ U. Peruzzi.

@@ -1,16 +1,14 @@
-REGIO DECRETO 17 marzo 1870 n. 5594
-
-
-REGIO DECRETO 17 marzo 1870 n. 5594
-===================================
-
-Col quale alle strade provinciali della Provincia di Avellino e' aggiunta quella denominata la Guardiola. (070U5594)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/05/1870
+---
+tipo: REGIO DECRETO
+numero: 5594
+data: 1870-03-17
+titolo: "Col quale alle strade provinciali della Provincia di Avellino e' aggiunta quella denominata la Guardiola. (070U5594)"
+urn: urn:nir:stato:regio.decreto:1870-03-17;5594
+codice_redazionale: 070U5594
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Visto il voto del Consiglio superiore dei Lavori Pubblici, emesso nell'adunanza 
 
 Visto l'articolo 14 della Legge 20 marzo 1865 sulle opere pubbliche;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Alle strade provinciali della Provincia di Avellino e' aggiunta la strada denominata Guardiola, che partendo dal punto detto Guardiola, sulla provinciale Irpina, e passando per i Comuni di Ospedaletto, Sommonte, S. Angelo a Scala e Pietrastornina, si congiunge alla strada stessa al punto ove mette capo la traversa di Rocca-basserana.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 17 marzo 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 31 marzo 1870   
-  
-Reg. 50 Atti del Governo a c. 187. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Gadda.   
-  
+Alle strade provinciali della Provincia di Avellino e' aggiunta la strada denominata Guardiola, che partendo dal punto detto Guardiola, sulla provinciale Irpina, e passando per i Comuni di Ospedaletto, Sommonte, S. Angelo a Scala e Pietrastornina, si congiunge alla strada stessa al punto ove mette capo la traversa di Rocca-basserana. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 17 marzo 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 31 marzo 1870 
+ 
+ Reg. 50 Atti del Governo a c. 187. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Gadda.

@@ -1,21 +1,17 @@
-REGIO DECRETO 21 febbraio 1901 n. LIV
+---
+tipo: REGIO DECRETO
+numero: LIV
+data: 1901-02-21
+titolo: "Che erige in ente morale l'ospizio Bilanzuoli in Minervino Murge. (0100054R)"
+urn: urn:nir:stato:regio.decreto:1901-02-21;54
+codice_redazionale: 0100054R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 febbraio 1901 n. LIV
-=====================================
-
-Che erige in ente morale l'ospizio Bilanzuoli in Minervino Murge. (0100054R)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/03/1901
-
-Art. 1
-------
-
-  
-Con cui l'ospizio Luigi Bilanzuoli in Minervino Murge (Bari) viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANEULE - Controfirmato Giolitti - Visto F. Cocco Ortu.   
-  
-Registrato alla Corte dei conti addi' 8 marzo 1901.   
-  
-Reg. 227. Atti del Governo a f. 180.   
-  
+Con cui l'ospizio Luigi Bilanzuoli in Minervino Murge (Bari) viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANEULE - Controfirmato Giolitti - Visto F. Cocco Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 8 marzo 1901. 
+ 
+ Reg. 227. Atti del Governo a f. 180.

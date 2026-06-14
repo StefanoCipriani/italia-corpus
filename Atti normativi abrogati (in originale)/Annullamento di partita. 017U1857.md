@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 23 agosto 1917 n. 1857
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1857
+data: 1917-08-23
+titolo: "Annullamento di partita. (017U1857)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-08-23;1857
+codice_redazionale: 017U1857
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 23 agosto 1917 n. 1857
-==============================================
-
-Annullamento di partita. (017U1857)
------------------------------------
-
-Entrata in vigore del provvedimento: 16/12/1917
-
-Art. 1
-------
-
-null
+## Art. 1. — null

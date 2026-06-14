@@ -1,16 +1,14 @@
-REGIO DECRETO 07 febbraio 1865 n. 2170
-
-
-REGIO DECRETO 07 febbraio 1865 n. 2170
-======================================
-
-Col quale si approva la Pianta numerica degli impiegati e dei Serventi negli Stabilimenti scientifici della R. Universita' di Torino. (065U2170)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/03/1865
+---
+tipo: REGIO DECRETO
+numero: 2170
+data: 1865-02-07
+titolo: "Col quale si approva la Pianta numerica degli impiegati e dei Serventi negli Stabilimenti scientifici della R. Universita' di Torino. (065U2170)"
+urn: urn:nir:stato:regio.decreto:1865-02-07;2170
+codice_redazionale: 065U2170
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,45 +18,28 @@ Vista la pianta del Personale della Biblioteca dell'Universita' di Torino, appro
 
 Visto il bilancio passivo della Pubblica Istruzione pel 1865;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvata la Pianta numerica degli Impiegati e dei Serventi degli Stabilimenti scientifici della R. Universita' di Torino che e' ammessa al presente Decreto e firmata d'ordine Nostro dal Ministro Segretario di Stato per la Pubblica Istruzione.
 
-  
-  
-E' approvata la Pianta numerica degli Impiegati e dei Serventi degli Stabilimenti scientifici della R. Universita' di Torino che e' ammessa al presente Decreto e firmata d'ordine Nostro dal Ministro Segretario di Stato per la Pubblica Istruzione.   
-  
-
-Art. 2
-------
+## Art. 2.
 
 Nulla e' innovato a quanto e' disposto coll'articolo 2 del Nostro Decreto del 20 novembre 1859, n.°
 
-3753. 
-  
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 7 febbraio 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 4 marzo 1865   
-  
-Reg.° 52 Atti del Governo a c. 154. Salvaja.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-Natoli.
+3753.
 
-Pianta
-
-  
-PIANTA numerica degli Impiegati e dei Serventi negli Stabilimenti scientifici della R. Universita' di Torino.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=065U217000100010110001&dgu=1865-03-14&art.dataPubblicazioneGazzetta=1865-03-14&art.codiceRedazionale=065U2170)
-  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 7 febbraio 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 4 marzo 1865 
+ 
+ Reg.° 52 Atti del Governo a c. 154. Salvaja. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ Natoli.

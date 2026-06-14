@@ -1,16 +1,14 @@
-REGIO DECRETO 20 maggio 1888 n. 5427
-
-
-REGIO DECRETO 20 maggio 1888 n. 5427
-====================================
-
-Che sopprime un inciso dal comma A dell'articolo 4 del Regio decreto 11 agosto 1884, numero 2621, (Serie 3ª), modificante il regolamento per i concorsi alle cattedre vacanti nelle Regie Universita'. (088U5427)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/06/1888
+---
+tipo: REGIO DECRETO
+numero: 5427
+data: 1888-05-20
+titolo: "Che sopprime un inciso dal comma A dell'articolo 4 del Regio decreto 11 agosto 1884, numero 2621, (Serie 3ª), modificante il regolamento per i concorsi alle cattedre vacanti nelle Regie Universita'. (088U5427)"
+urn: urn:nir:stato:regio.decreto:1888-05-20;5427
+codice_redazionale: 088U5427
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,24 +20,18 @@ Veduto il Nostro decreto 11 agosto 1884, N. 2621, (Serie 3ª), che modifica il r
 
 Universita' ed Istituti di istruzione superiore del Regno;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal comma a dell'articolo 4 del predetto Nostro decreto 11 agosto 1884, N. 2621 (Serie 3ª), sono soppresse le parole «di egual grado».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 20 maggio 1888.   
-  
-UMBERTO.   
-  
-P. Boselli.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
+Dal comma a dell'articolo 4 del predetto Nostro decreto 11 agosto 1884, N. 2621 (Serie 3ª), sono soppresse le parole «di egual grado». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 20 maggio 1888. 
+ 
+ UMBERTO. 
+ 
+ P. Boselli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

@@ -1,19 +1,15 @@
-REGIO DECRETO 20 agosto 1909 n. CCCXVI
+---
+tipo: REGIO DECRETO
+numero: CCCXVI
+data: 1909-08-20
+titolo: "Che approva il nuovo statuto della Cassa di risparmio di Pescia. (0900316R)"
+urn: urn:nir:stato:regio.decreto:1909-08-20;316
+codice_redazionale: 0900316R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 agosto 1909 n. CCCXVI
-======================================
-
-Che approva il nuovo statuto della Cassa di risparmio di Pescia. (0900316R)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/10/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CCCXVI (Dato a Sant'Anna di Valdieri, il 20 agosto 1909), col quale si approva il nuovo statuto organico della Cassa di risparmio e depositi di Pescia.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CCCXVI (Dato a Sant'Anna di Valdieri, il 20 agosto 1909), col quale si approva il nuovo statuto organico della Cassa di risparmio e depositi di Pescia.

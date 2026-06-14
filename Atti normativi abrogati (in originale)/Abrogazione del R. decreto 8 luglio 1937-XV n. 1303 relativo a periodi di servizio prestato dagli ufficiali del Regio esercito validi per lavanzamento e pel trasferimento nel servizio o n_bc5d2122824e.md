@@ -1,16 +1,14 @@
-REGIO DECRETO 20 giugno 1939 n. 1099
-
-
-REGIO DECRETO 20 giugno 1939 n. 1099
-====================================
-
-Abrogazione del R. decreto 8 luglio 1937-XV, n. 1303, relativo a periodi di servizio prestato dagli ufficiali del Regio esercito validi per l'avanzamento e pel trasferimento nel servizio o nel Corpo di stato maggiore. (039U1099)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/08/1939
+---
+tipo: REGIO DECRETO
+numero: 1099
+data: 1939-06-20
+titolo: "Abrogazione del R. decreto 8 luglio 1937-XV, n. 1303, relativo a periodi di servizio prestato dagli ufficiali del Regio esercito validi per l'avanzamento e pel trasferimento nel servizio o nel Corpo di stato maggiore. (039U1099)"
+urn: urn:nir:stato:regio.decreto:1939-06-20;1099
+codice_redazionale: 039U1099
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,30 +20,22 @@ Visto l'art. 32 della legge 7 giugno 1934-XII, n. 899, sull'avanzamento degli uf
 
 Visto il R. decreto 8 luglio 1937-XV, n. 1303, relativo a periodi di servizio prestato dagli ufficiali del Regio esercito validi per l'avanzamento e pel trasferimento nel Servizio o nel Corpo di stato maggiore;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il R. decreto 8 luglio 1937-XV, n. 1303, relativo a periodi di servizio prestato dagli ufficiali del Regio esercito validi per l'avanzamento e pel trasferimento nel Servizio o nel Corpo di stato maggiore, cessa di aver vigore dalla data del presento decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 20 giugno 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alta Corte dei conti, addi' 5 agosto 1939-XVII   
-  
-Atti del Governo, registro 412, foglio 20. - MANCINI   
-  
-  
+Il R. decreto 8 luglio 1937-XV, n. 1303, relativo a periodi di servizio prestato dagli ufficiali del Regio esercito validi per l'avanzamento e pel trasferimento nel Servizio o nel Corpo di stato maggiore, cessa di aver vigore dalla data del presento decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 20 giugno 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alta Corte dei conti, addi' 5 agosto 1939-XVII 
+ 
+ Atti del Governo, registro 412, foglio 20. - MANCINI

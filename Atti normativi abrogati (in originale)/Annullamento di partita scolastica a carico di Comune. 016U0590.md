@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 16 aprile 1916 n. 590
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 590
+data: 1916-04-16
+titolo: "Annullamento di partita scolastica a carico di Comune. (016U0590)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-04-16;590
+codice_redazionale: 016U0590
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 16 aprile 1916 n. 590
-=============================================
-
-Annullamento di partita scolastica a carico di Comune. (016U0590)
------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/06/1916
-
-Art. 1
-------
-
-null
+## Art. 1. — null

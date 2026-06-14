@@ -1,19 +1,19 @@
-REGIO DECRETO 23 gennaio 1930 n. 100
+---
+tipo: REGIO DECRETO
+numero: 100
+data: 1930-01-23
+titolo: "Approvazione dello statuto organico della Congregazione di carita' di Fiume. (030U0100)"
+urn: urn:nir:stato:regio.decreto:1930-01-23;100
+codice_redazionale: 030U0100
+vigente: true
+---
 
-
-REGIO DECRETO 23 gennaio 1930 n. 100
-====================================
-
-Approvazione dello statuto organico della Congregazione di carita' di Fiume. (030U0100)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/03/1930
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-100. R. decreto 23 gennaio 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene approvato, con alcune modifiche, lo statuto organico della Congregazione di carita' di Fiume.   
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 5 marzo 1930 - Anno VIII
+100.
+
+R. decreto 23 gennaio 1930, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene approvato, con alcune modifiche, lo statuto organico della Congregazione di carita' di Fiume. 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 5 marzo 1930 - Anno VIII

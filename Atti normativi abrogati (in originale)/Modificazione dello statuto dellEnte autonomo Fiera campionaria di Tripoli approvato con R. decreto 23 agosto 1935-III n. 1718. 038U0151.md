@@ -1,16 +1,14 @@
-REGIO DECRETO 07 febbraio 1938 n. 151
-
-
-REGIO DECRETO 07 febbraio 1938 n. 151
-=====================================
-
-Modificazione dello statuto dell'Ente autonomo «Fiera campionaria di Tripoli», approvato con R. decreto 23 agosto 1935-III, n. 1718. (038U0151)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/04/1938
+---
+tipo: REGIO DECRETO
+numero: 151
+data: 1938-02-07
+titolo: "Modificazione dello statuto dell'Ente autonomo «Fiera campionaria di Tripoli», approvato con R. decreto 23 agosto 1935-III, n. 1718. (038U0151)"
+urn: urn:nir:stato:regio.decreto:1938-02-07;151
+codice_redazionale: 038U0151
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,32 +28,26 @@ Visti i pareri favorevoli del Ministero delle corporazioni e del Governatore gen
 
 Udito il parere del Consiglio superiore coloniale;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per l'Africa italiana; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per l'Africa italiana; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comma primo e secondo dell'art. 13 dello Statuto dell'Ente autonomo «Fiera campionaria di Tripoli», approvato con R. decreto 23 agosto 1935-XIII, n. 1718, sono sostituiti dai seguenti:   
-  
-«L'esercizio finanziario dell'Ente ha inizio col 1° di luglio e termina il 30 giugno dell'anno successivo».   
-  
-«Entro il 31 maggio il Consiglio generale delibera sul bilancio di previsione ed entro il 30 settembre approva il consuntivo dell'esercizio scaduto».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 febbraio 1938-Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 12 marzo 1938 - Anno XVI   
-  
-Atti del Governo, registro 395, foglio 65. - Mancini.   
+I comma primo e secondo dell'art. 13 dello Statuto dell'Ente autonomo «Fiera campionaria di Tripoli», approvato con R. decreto 23 agosto 1935-XIII, n. 1718, sono sostituiti dai seguenti: 
+ 
+ «L'esercizio finanziario dell'Ente ha inizio col 1° di luglio e termina il 30 giugno dell'anno successivo». 
+ 
+ «Entro il 31 maggio il Consiglio generale delibera sul bilancio di previsione ed entro il 30 settembre approva il consuntivo dell'esercizio scaduto». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 febbraio 1938-Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 12 marzo 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 395, foglio 65. - Mancini.

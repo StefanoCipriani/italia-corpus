@@ -1,21 +1,21 @@
-REGIO DECRETO 28 febbraio 1930 n. 267
+---
+tipo: REGIO DECRETO
+numero: 267
+data: 1930-02-28
+titolo: "Autorizzazione all'Istituto dei ciechi «Principe di Napoli» ad accettare un lascito. (030U0267)"
+urn: urn:nir:stato:regio.decreto:1930-02-28;267
+codice_redazionale: 030U0267
+vigente: true
+---
 
-
-REGIO DECRETO 28 febbraio 1930 n. 267
-=====================================
-
-Autorizzazione all'Istituto dei ciechi «Principe di Napoli» ad accettare un lascito. (030U0267)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/04/1930
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-267. R. decreto 28 febbraio 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, il Regio commissario dell'Istituto dei ciechi «Principe di Napoli» viene autorizzato ad accettare un lascito del dott. Guiscardo Ventura.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 5 aprile 1930 - Anno VIII
+267.
+
+R. decreto 28 febbraio 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, il Regio commissario dell'Istituto dei ciechi «Principe di Napoli» viene autorizzato ad accettare un lascito del dott. Guiscardo Ventura. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 5 aprile 1930 - Anno VIII

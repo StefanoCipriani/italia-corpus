@@ -1,19 +1,15 @@
-REGIO DECRETO 09 luglio 1914 n. 806
+---
+tipo: REGIO DECRETO
+numero: 806
+data: 1914-07-09
+titolo: "Modificazioni alle norme per le indennita' al personale aeronautico militare dei cantieri e porti aerei. (014U0806)"
+urn: urn:nir:stato:regio.decreto:1914-07-09;806
+codice_redazionale: 014U0806
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 luglio 1914 n. 806
-===================================
-
-Modificazioni alle norme per le indennita' al personale aeronautico militare dei cantieri e porti aerei. (014U0806)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/08/1914
-
-Art. 1
-------
-
-  
-N. 806   
-  
-Regio decreto 9 luglio 1914, col quale, sulla proposta dei ministri della guerra e della marina, vengono apportate modificazioni alle norme vigenti per la concessione delle indennita' giornaliere al personale destinato al servizio aeronautico militare (navigazione) presso i cantieri aeronautici o porti aerei.   
-  
+N. 806 
+ 
+ Regio decreto 9 luglio 1914, col quale, sulla proposta dei ministri della guerra e della marina, vengono apportate modificazioni alle norme vigenti per la concessione delle indennita' giornaliere al personale destinato al servizio aeronautico militare (navigazione) presso i cantieri aeronautici o porti aerei.

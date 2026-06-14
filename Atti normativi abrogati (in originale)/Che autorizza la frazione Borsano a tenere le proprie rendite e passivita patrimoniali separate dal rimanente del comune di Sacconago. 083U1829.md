@@ -1,16 +1,14 @@
-REGIO DECRETO 20 dicembre 1883 n. 1829
-
-
-REGIO DECRETO 20 dicembre 1883 n. 1829
-======================================
-
-Che autorizza la frazione Borsano a tenere le proprie rendite e passivita' patrimoniali separate dal rimanente del comune di Sacconago. (083U1829)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/02/1884
+---
+tipo: REGIO DECRETO
+numero: 1829
+data: 1883-12-20
+titolo: "Che autorizza la frazione Borsano a tenere le proprie rendite e passivita' patrimoniali separate dal rimanente del comune di Sacconago. (083U1829)"
+urn: urn:nir:stato:regio.decreto:1883-12-20;1829
+codice_redazionale: 083U1829
+vigente: true
+---
 
 UMBERTO
--------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,27 +22,20 @@ Vedute le deliberazioni del Consiglio comunale di Sacconago, in data 8 settembre
 
 Visti gli articoli 13 e 16 della legge comunale e provinciale 20 marzo 1865, allegato A;
 
-Veduta la [legge 30 giugno 1880, n. 5516](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1880-06-30;5516);
+Veduta la [legge 30 giugno 1880, n. 5516](Che%20proroga%20la%20facolta%20al%20Governo%20per%20decretare%20lunione%20e%20la%20disgregazione%20dei%20comuni%20nelle%20loro%20frazioni.%20080U5516.md);
 
-Udito
------
+Udito il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
 
-il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La frazione Borsano e' autorizzata a tenere le proprie rendite e passivita' patrimoniali e le spese contemplate dall'ultimo paragrafo dell'art. 13 della legge comunale, separate da quelle del rimanente del comune di Sacconago.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 20 dicembre 1883.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto, Il Guardasigilli: Savelli.   
-  
+La frazione Borsano e' autorizzata a tenere le proprie rendite e passivita' patrimoniali e le spese contemplate dall'ultimo paragrafo dell'art. 13 della legge comunale, separate da quelle del rimanente del comune di Sacconago. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 20 dicembre 1883. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto, Il Guardasigilli: Savelli.

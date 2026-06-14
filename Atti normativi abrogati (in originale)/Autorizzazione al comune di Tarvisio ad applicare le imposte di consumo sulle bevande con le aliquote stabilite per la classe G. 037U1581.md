@@ -1,16 +1,14 @@
-REGIO DECRETO 06 agosto 1937 n. 1581
-
-
-REGIO DECRETO 06 agosto 1937 n. 1581
-====================================
-
-Autorizzazione al comune di Tarvisio ad applicare le imposte di consumo sulle bevande con le aliquote stabilite per la classe G. (037U1581)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/10/1937
+---
+tipo: REGIO DECRETO
+numero: 1581
+data: 1937-08-06
+titolo: "Autorizzazione al comune di Tarvisio ad applicare le imposte di consumo sulle bevande con le aliquote stabilite per la classe G. (037U1581)"
+urn: urn:nir:stato:regio.decreto:1937-08-06;1581
+codice_redazionale: 037U1581
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,38 +24,25 @@ Visti i decreti Ministeriali 23 maggio 1935 e 26 novembre 1936, con i quali il C
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il comune di Tarvisio e' autorizzato ad applicare per il triennio 1937-1939 le imposte di consumo sulle bevande con le aliquote stabilite per la classe G.
 
-  
-  
-Il comune di Tarvisio e' autorizzato ad applicare per il triennio 1937-1939 le imposte di consumo sulle bevande con le aliquote stabilite per la classe G.   
-  
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il maggior provento netto derivante dall'autorizzazione di cui al precedente articolo e' devoluto interamente alla Azienda autonoma di soggiorno del suddetto Comune.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 6 agosto 1937-XV   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte del conti, addi' 18 settembre 1937 - Anno XV   
-Atti del Governo, registro 389, foglio 67. - Mancini.   
-  
-  
+Il maggior provento netto derivante dall'autorizzazione di cui al precedente articolo e' devoluto interamente alla Azienda autonoma di soggiorno del suddetto Comune. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 6 agosto 1937-XV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte del conti, addi' 18 settembre 1937 - Anno XV  
+ Atti del Governo, registro 389, foglio 67. - Mancini.

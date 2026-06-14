@@ -1,19 +1,15 @@
-REGIO DECRETO 28 giugno 1906 n. CCLXVIII
+---
+tipo: REGIO DECRETO
+numero: CCLXVIII
+data: 1906-06-28
+titolo: "Approvazione di statuto. (0600268R)"
+urn: urn:nir:stato:regio.decreto:1906-06-28;268
+codice_redazionale: 0600268R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 giugno 1906 n. CCLXVIII
-========================================
-
-Approvazione di statuto. (0600268R)
------------------------------------
-
-Entrata in vigore del provvedimento: 02/09/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CCLXVIII (Dato a Roma, il 28 giugno 1906), col quale si approva il nuovo statuto organico della Cassa di risparmio Vittorio Emanuele di Palermo.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CCLXVIII (Dato a Roma, il 28 giugno 1906), col quale si approva il nuovo statuto organico della Cassa di risparmio Vittorio Emanuele di Palermo.

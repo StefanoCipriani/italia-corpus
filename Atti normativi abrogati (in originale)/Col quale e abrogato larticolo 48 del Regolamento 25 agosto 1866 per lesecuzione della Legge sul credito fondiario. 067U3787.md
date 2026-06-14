@@ -1,16 +1,14 @@
-REGIO DECRETO 30 giugno 1867 n. 3787
-
-
-REGIO DECRETO 30 giugno 1867 n. 3787
-====================================
-
-Col quale e' abrogato l'articolo 48 del Regolamento 25 agosto 1866 per l'esecuzione della Legge sul credito fondiario. (067U3787)
----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/08/1867
+---
+tipo: REGIO DECRETO
+numero: 3787
+data: 1867-06-30
+titolo: "Col quale e' abrogato l'articolo 48 del Regolamento 25 agosto 1866 per l'esecuzione della Legge sul credito fondiario. (067U3787)"
+urn: urn:nir:stato:regio.decreto:1867-06-30;3787
+codice_redazionale: 067U3787
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Sentito il Consiglio di Stato;
 
 Ritenuto che la massa delle iscrizioni ipotecarie accese, aggiuntovi il fondo di riserva stabilito dall' articolo 49 del citato Regolamento, debba valere come garanzia delle intraprese operazioni di credito fondiario;
 
-Sulla
------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nel Regolamento per la esecuzione della Legge sul credito fondiario, approvato col Nostro Decreto del 25 agosto 1866, n. 3177, e' abrogato l'articolo 48 che stabiliva doversi vincolare in cartelle di rendita pubblica il fondo assegnato alle operazioni del credito fondiario.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 30 giugno 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 12 luglio 1867   
-  
-Reg. 40 Atti del Governo a c. 138. Crodara Visconti.   
-  
-Luogo del sigillo. V. Il Guardasigilli Tecchio.   
-  
-F. De Blasiis.   
-  
+Nel Regolamento per la esecuzione della Legge sul credito fondiario, approvato col Nostro Decreto del 25 agosto 1866, n. 3177, e' abrogato l'articolo 48 che stabiliva doversi vincolare in cartelle di rendita pubblica il fondo assegnato alle operazioni del credito fondiario. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 30 giugno 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 12 luglio 1867 
+ 
+ Reg. 40 Atti del Governo a c. 138. Crodara Visconti. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Tecchio. 
+ 
+ F. De Blasiis.

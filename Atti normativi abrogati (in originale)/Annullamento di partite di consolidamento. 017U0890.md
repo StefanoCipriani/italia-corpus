@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 12 aprile 1917 n. 890
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 890
+data: 1917-04-12
+titolo: "Annullamento di partite di consolidamento. (017U0890)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-04-12;890
+codice_redazionale: 017U0890
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 12 aprile 1917 n. 890
-=============================================
-
-Annullamento di partite di consolidamento. (017U0890)
------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/06/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-890. Decreto Luogotenenziale 12 aprile 1917, col quale, in seguito all'autonomia scolastica concessa ai comuni di Bardineto, Bavari, Ceranesi, Lavagna, Olba, Rossiglione, Sant'Ilario e Sori, della provincia di Genova, sulla proposta del ministro dell'istruzione pubblica, di concerto col ministro del tesoro, nell'elenco annesso al [R. decreto 17 gennaio 1915, n. 214](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-17;214), sono annullate le partite di consolidamento relative ai Comuni suddetti, a cominciare dall'1 maggio 1917.
+890.
+
+Decreto Luogotenenziale 12 aprile 1917, col quale, in seguito all'autonomia scolastica concessa ai comuni di Bardineto, Bavari, Ceranesi, Lavagna, Olba, Rossiglione, Sant'Ilario e Sori, della provincia di Genova, sulla proposta del ministro dell'istruzione pubblica, di concerto col ministro del tesoro, nell'elenco annesso al [R. decreto 17 gennaio 1915, n. 214](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-17;214), sono annullate le partite di consolidamento relative ai Comuni suddetti, a cominciare dall'1 maggio 1917.

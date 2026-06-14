@@ -1,16 +1,14 @@
-REGIO DECRETO 03 novembre 1898 n. 466
-
-
-REGIO DECRETO 03 novembre 1898 n. 466
-=====================================
-
-Col quale, in via di esperimento, si modificano e introducono nuovi insegnamenti in alcuni Ginnasi-Licei. (098U0466)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/12/1898
+---
+tipo: REGIO DECRETO
+numero: 466
+data: 1898-11-03
+titolo: "Col quale, in via di esperimento, si modificano e introducono nuovi insegnamenti in alcuni Ginnasi-Licei. (098U0466)"
+urn: urn:nir:stato:regio.decreto:1898-11-03;466
+codice_redazionale: 098U0466
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,31 +22,22 @@ Considerato che, se sarebbe pericoloso mutare di un tratto radicalmente un antic
 
 Considerato che un'esperienza di quasi quaranta anni ha dimostrato l'opportunita' di recare nella nostra Scuola classica qualche riforma che valga a meglio imprimere in essa il carattere che la legge volle darle, di Scuola essenzialmente letteraria, e a renderla nel tempo stesso piu' agile, piu' agevole, piu' moderna;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' data facolta' al Nostro Ministro Segretario di Stato per la Pubblica Istruzione d'introdurre, in via di esperimento, in alcuno dei Ginnasi-Licei, delle citta' ove ne esistono varii, qualche nuovo insegnamento letterario, e di modificare in corrispondenza l'ordine, la misura e l'indirizzo degli insegnamenti ora esistenti.
 
-  
-  
-E' data facolta' al Nostro Ministro Segretario di Stato per la Pubblica Istruzione d'introdurre, in via di esperimento, in alcuno dei Ginnasi-Licei, delle citta' ove ne esistono varii, qualche nuovo insegnamento letterario, e di modificare in corrispondenza l'ordine, la misura e l'indirizzo degli insegnamenti ora esistenti.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Le norme che in questi Ginnasi-Licei regoleranno la distribuzione delle materie di studio, i passaggi di classe e la licenza, saranno stabilite con decreto Ministeriale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 3 novembre 1898.   
-  
-UMBERTO.   
-  
-Baccelli.   
-  
-Visto, Il Guardasigilli: C. Finocchiaro-Aprile.   
+Le norme che in questi Ginnasi-Licei regoleranno la distribuzione delle materie di studio, i passaggi di classe e la licenza, saranno stabilite con decreto Ministeriale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 3 novembre 1898. 
+ 
+ UMBERTO. 
+ 
+ Baccelli. 
+ 
+ Visto, Il Guardasigilli: C. Finocchiaro-Aprile.

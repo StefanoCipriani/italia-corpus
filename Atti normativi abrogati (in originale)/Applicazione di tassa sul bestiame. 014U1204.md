@@ -1,19 +1,15 @@
-REGIO DECRETO 22 ottobre 1914 n. 1204
+---
+tipo: REGIO DECRETO
+numero: 1204
+data: 1914-10-22
+titolo: "Applicazione di tassa sul bestiame. (014U1204)"
+urn: urn:nir:stato:regio.decreto:1914-10-22;1204
+codice_redazionale: 014U1204
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 ottobre 1914 n. 1204
-=====================================
-
-Applicazione di tassa sul bestiame. (014U1204)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 24/11/1914
-
-Art. 1
-------
-
-  
-N. 1204   
-  
-R. Decreto 22 ottobre 1914, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Sorbano (Firenze) di applicare nell'anno 1914 la tassa sul bestiame in base alla tariffa superiore al duplo di quella normale, fissata nella deliberazione 20 novembre 1913.   
-  
+N. 1204 
+ 
+ R. Decreto 22 ottobre 1914, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Sorbano (Firenze) di applicare nell'anno 1914 la tassa sul bestiame in base alla tariffa superiore al duplo di quella normale, fissata nella deliberazione 20 novembre 1913.

@@ -1,24 +1,22 @@
-REGIO DECRETO 09 aprile 1908 n. 169
-
-
-REGIO DECRETO 09 aprile 1908 n. 169
-===================================
-
-Che aggiunge alcuni posti al numero dei professori ordinari e straordinari delle scuole medie. (008U0169)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/05/1908
+---
+tipo: REGIO DECRETO
+numero: 169
+data: 1908-04-09
+titolo: "Che aggiunge alcuni posti al numero dei professori ordinari e straordinari delle scuole medie. (008U0169)"
+urn: urn:nir:stato:regio.decreto:1908-04-09;169
+codice_redazionale: 008U0169
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 8 aprile 1906, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142);
+Vista la [legge 8 aprile 1906, n. 142](Per%20disposizioni%20sugli%20stipendi%20e%20sulla%20carriera%20del%20personale%20delle%20scuole%20medie%20governative.%20006U0142.md);
 
-Vista la [legge 13 giugno 1907, n. 342](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;342);
+Vista la [legge 13 giugno 1907, n. 342](Conversione%20in%20governative%20istituzione%20e%20ripristinamento%20di%20scuole%20medie.%20007U0342.md);
 
 Visti i ruoli organici delle scuole medie per l'anno scolastico 1907-908 approvati con Nostro decreto del 29 settembre 1907;
 
@@ -28,46 +26,35 @@ Visto il Nostro decreto 1° ottobre 1907, col quale il ginnasio suddetto e' unit
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Dal 1° ottobre 1907 al numero dei professori ordinari e straordinari delle scuole medie per l'anno scolastico 1907-908 sono aggiunti i seguenti posti: 
+ 
+ Tre posti di professori ordinari e straordinari del 2° ordine di ruoli e cioe': 
+ 
+ uno per l'insegnamento della storia naturale nei licei ginnasi; 
+ 
+ due per l'insegnamento delle materie letterarie nelle classi superiori dei ginnasi. 
+ 
+ Quattro posti di professori ordinari o straordinari del 1° ordine di ruoli e cioe': 
+ 
+ tre per l'insegnamento delle materie letterarie nelle classi superiori dei ginnasi; 
+ 
+ uno per l'insegnamento della lingua francese nei ginnasi.
 
-  
-  
-Dal 1° ottobre 1907 al numero dei professori ordinari e straordinari delle scuole medie per l'anno scolastico 1907-908 sono aggiunti i seguenti posti:   
-  
-Tre posti di professori ordinari e straordinari del 2° ordine di ruoli e cioe':   
-  
-uno per l'insegnamento della storia naturale nei licei ginnasi;   
-  
-due per l'insegnamento delle materie letterarie nelle classi superiori dei ginnasi.   
-  
-Quattro posti di professori ordinari o straordinari del 1° ordine di ruoli e cioe':   
-  
-tre per l'insegnamento delle materie letterarie nelle classi superiori dei ginnasi;   
-  
-uno per l'insegnamento della lingua francese nei ginnasi.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-I suddetti posti sono assegnati al liceo ginnasio di Rieti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 aprile 1908.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti.   
-Rava.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+I suddetti posti sono assegnati al liceo ginnasio di Rieti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 aprile 1908. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti. 
+ Rava. 
+ 
+ Visto, Il guardasigilli: Orlando.

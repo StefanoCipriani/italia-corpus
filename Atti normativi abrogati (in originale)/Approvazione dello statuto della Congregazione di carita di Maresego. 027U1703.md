@@ -1,21 +1,21 @@
-REGIO DECRETO 12 agosto 1927 n. 1703
+---
+tipo: REGIO DECRETO
+numero: 1703
+data: 1927-08-12
+titolo: "Approvazione dello statuto della Congregazione di carita' di Maresego. (027U1703)"
+urn: urn:nir:stato:regio.decreto:1927-08-12;1703
+codice_redazionale: 027U1703
+vigente: true
+---
 
-
-REGIO DECRETO 12 agosto 1927 n. 1703
-====================================
-
-Approvazione dello statuto della Congregazione di carita' di Maresego. (027U1703)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/10/1927
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1703. R. decreto 12 agosto 1927, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato lo statuto organico della Congregazione di carita' di Maresego.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 24 settembre 1927 - Anno V
+1703.
+
+R. decreto 12 agosto 1927, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato lo statuto organico della Congregazione di carita' di Maresego. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 24 settembre 1927 - Anno V

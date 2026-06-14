@@ -1,19 +1,15 @@
-REGIO DECRETO 01 dicembre 1907 n. DXXIX
+---
+tipo: REGIO DECRETO
+numero: DXXIX
+data: 1907-12-01
+titolo: "Modificazione di statuto. (0700529R)"
+urn: urn:nir:stato:regio.decreto:1907-12-01;529
+codice_redazionale: 0700529R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 dicembre 1907 n. DXXIX
-=======================================
-
-Modificazione di statuto. (0700529R)
-------------------------------------
-
-Entrata in vigore del provvedimento: 14/01/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. DXXIX (Dato a Roma, il 1° dicembre 1907), col quale si modifica lo statuto del Monte di pieta' di Scigliano.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. DXXIX (Dato a Roma, il 1° dicembre 1907), col quale si modifica lo statuto del Monte di pieta' di Scigliano.

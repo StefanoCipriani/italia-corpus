@@ -1,21 +1,17 @@
-REGIO DECRETO 08 luglio 1900 n. CCXI
+---
+tipo: REGIO DECRETO
+numero: CCXI
+data: 1900-07-08
+titolo: "Che autorizza il comune di Savona a riscuotere un dazio di consumo sulla carta. (0000211R)"
+urn: urn:nir:stato:regio.decreto:1900-07-08;211
+codice_redazionale: 0000211R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 luglio 1900 n. CCXI
-====================================
-
-Che autorizza il comune di Savona a riscuotere un dazio di consumo sulla carta. (0000211R)
-------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/08/1900
-
-Art. 1
-------
-
-  
-Con cui il comune di Savona e' autorizzato a riscuotere sulla carta detta di 1ª classe un dazio di consumo di lire 15 il quintale. - Firmato UMBERTO - Controfirmato Chimirri - Visto E. Gianturco.   
-  
-Registrato alla Corte dei conti addi' 19 luglio 1900.   
-  
-Reg. 224. Atti del Governo a f. 76.   
-  
+Con cui il comune di Savona e' autorizzato a riscuotere sulla carta detta di 1ª classe un dazio di consumo di lire 15 il quintale. - Firmato UMBERTO - Controfirmato Chimirri - Visto E. Gianturco. 
+ 
+ Registrato alla Corte dei conti addi' 19 luglio 1900. 
+ 
+ Reg. 224. Atti del Governo a f. 76.

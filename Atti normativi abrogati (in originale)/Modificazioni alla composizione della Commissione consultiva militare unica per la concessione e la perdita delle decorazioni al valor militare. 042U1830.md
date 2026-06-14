@@ -1,16 +1,14 @@
-REGIO DECRETO 14 dicembre 1942 n. 1830
-
-
-REGIO DECRETO 14 dicembre 1942 n. 1830
-======================================
-
-Modificazioni alla composizione della Commissione consultiva militare unica per la concessione e la perdita delle decorazioni al valor militare. (042U1830)
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/03/1943
+---
+tipo: REGIO DECRETO
+numero: 1830
+data: 1942-12-14
+titolo: "Modificazioni alla composizione della Commissione consultiva militare unica per la concessione e la perdita delle decorazioni al valor militare. (042U1830)"
+urn: urn:nir:stato:regio.decreto:1942-12-14;1830
+codice_redazionale: 042U1830
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,32 +30,26 @@ Ritenuta la inderogabile necessita' di aumentare il numero dei membri della Comm
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, per la marina e per l'aeronautica, di concerto con i Ministri per l'Africa Italiana e per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, per la marina e per l'aeronautica, di concerto con i Ministri per l'Africa Italiana e per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-All'art. 2 del R. decreto 30 marzo 1933-XI, n. 422, quale risulta modificato dall'articolo unico del Regio decreto 24 aprile 1935-XIII, n. 652, dall'art. 1 del Regio decreto 1° marzo 1938-XVI, n. 1187, e dall'art. 1 del R. decreto 7 aprile 1941-XIX, n. 609, sono aggiunti i seguenti due comma:   
-  
-«I Ministri per la guerra, per la marina, per l'aeronautica e per l'Africa Italiana hanno facolta', con proprio decreto da registrare alla Corte dei conti e ciascuno per la parte di propria competenza, di integrare la composizione della Commissione mediante la nomina di altri membri effettivi e supplenti, fino al numero massimo rispettivamente di quattro e di due.   
-  
-Spetta al presidente della Commissione ripartire i lavori tra i vari membri di essa, fatta salva pero' l'osservanza delle norme di cui al successivo art. 5, per quanto attiene alla procedura delle deliberazioni ed al numero di intervento dei membri».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo di farlo osservare.   
-  
-Dato a Roma, addi' 14 dicembre 1942-XXI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - TERUZZI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 6 marzo 1943-XXI   
-  
-Atti del Governo, registro 455, foglio 23. - MANCINI   
+All'art. 2 del R. decreto 30 marzo 1933-XI, n. 422, quale risulta modificato dall'articolo unico del Regio decreto 24 aprile 1935-XIII, n. 652, dall'art. 1 del Regio decreto 1° marzo 1938-XVI, n. 1187, e dall'art. 1 del R. decreto 7 aprile 1941-XIX, n. 609, sono aggiunti i seguenti due comma: 
+ 
+ «I Ministri per la guerra, per la marina, per l'aeronautica e per l'Africa Italiana hanno facolta', con proprio decreto da registrare alla Corte dei conti e ciascuno per la parte di propria competenza, di integrare la composizione della Commissione mediante la nomina di altri membri effettivi e supplenti, fino al numero massimo rispettivamente di quattro e di due. 
+ 
+ Spetta al presidente della Commissione ripartire i lavori tra i vari membri di essa, fatta salva pero' l'osservanza delle norme di cui al successivo art. 5, per quanto attiene alla procedura delle deliberazioni ed al numero di intervento dei membri». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 dicembre 1942-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - TERUZZI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 6 marzo 1943-XXI 
+ 
+ Atti del Governo, registro 455, foglio 23. - MANCINI

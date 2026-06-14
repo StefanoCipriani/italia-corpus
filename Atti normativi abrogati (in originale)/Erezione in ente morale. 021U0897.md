@@ -1,17 +1,17 @@
-REGIO DECRETO 05 giugno 1921 n. 897
+---
+tipo: REGIO DECRETO
+numero: 897
+data: 1921-06-05
+titolo: "Erezione in ente morale. (021U0897)"
+urn: urn:nir:stato:regio.decreto:1921-06-05;897
+codice_redazionale: 021U0897
+vigente: true
+---
 
-
-REGIO DECRETO 05 giugno 1921 n. 897
-===================================
-
-Erezione in ente morale. (021U0897)
------------------------------------
-
-Entrata in vigore del provvedimento: 03/08/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-897. Regio decreto 5 giugno 1921, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'Opera pia Ettore Ponti in Fara d'Adda viene eretta in Ente morale ed e' approvato lo statuto organico relativo.
+897.
+
+Regio decreto 5 giugno 1921, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'Opera pia Ettore Ponti in Fara d'Adda viene eretta in Ente morale ed e' approvato lo statuto organico relativo.

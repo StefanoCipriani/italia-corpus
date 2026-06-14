@@ -1,16 +1,14 @@
-REGIO DECRETO 22 gennaio 1880 n. 5264
-
-
-REGIO DECRETO 22 gennaio 1880 n. 5264
-=====================================
-
-Che separa il Comune di Dosolo dalla sezione elettorale di Viadana e forma una sezione distinta del collegio di Casalmaggiore. (080U5264)
------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/02/1880
+---
+tipo: REGIO DECRETO
+numero: 5264
+data: 1880-01-22
+titolo: "Che separa il Comune di Dosolo dalla sezione elettorale di Viadana e forma una sezione distinta del collegio di Casalmaggiore. (080U5264)"
+urn: urn:nir:stato:regio.decreto:1880-01-22;5264
+codice_redazionale: 080U5264
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Che Dosolo conta 91 elettori, numero questo che supera di oltre il doppio il min
 
 Considerato che istituendo una sezione elettorale nel comune di Dosolo si rendo molto piu' facile l'esercizio del diritto elettorale.
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Dosolo e' separato dalla sezione elettorale di Viadana, e formera' una sezione distinta del Collegio elettorale di Casalmaggiore.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 gennaio 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il comune di Dosolo e' separato dalla sezione elettorale di Viadana, e formera' una sezione distinta del Collegio elettorale di Casalmaggiore. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 gennaio 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

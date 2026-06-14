@@ -1,16 +1,14 @@
-REGIO DECRETO 05 agosto 1869 n. 5223
-
-
-REGIO DECRETO 05 agosto 1869 n. 5223
-====================================
-
-Col quale alle strade classificate provinciali nella Provincia di Modena, viene aggiunta la strada denominata della Chiesa. (069U5223)
---------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/09/1869
+---
+tipo: REGIO DECRETO
+numero: 5223
+data: 1869-08-05
+titolo: "Col quale alle strade classificate provinciali nella Provincia di Modena, viene aggiunta la strada denominata della Chiesa. (069U5223)"
+urn: urn:nir:stato:regio.decreto:1869-08-05;5223
+codice_redazionale: 069U5223
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Veduto il voto emesso dal Consiglio superiore dei Lavori Pubblici nell'adunanza 
 
 Veduto l'articolo 14 della Legge 20 marzo 1865 sui lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Alle strade provinciali nella Provincia di Modena, classificate tali col precitato Decreto del Nostro Luogotenente Generale, in data del 5 settembre 1866, e' aggiunta la strada denominata della Chiesa, la quale congiunge la strada provinciale di San Felice, nella stessa Provincia di Modena, all'altra da Bondeno a Casumaro nella Provincia di Ferrara, passando per Finale d'Emilia e Casumaro.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 5 agosto 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 19 agosto 1869   
-  
-Reg. 48 Atti del Governo a c. 27. Crodara Visconti.   
-  
-Luogo del sigillo. V. Il Guardasigilli Pironti.   
-  
-A. Mordini.   
-  
+Alle strade provinciali nella Provincia di Modena, classificate tali col precitato Decreto del Nostro Luogotenente Generale, in data del 5 settembre 1866, e' aggiunta la strada denominata della Chiesa, la quale congiunge la strada provinciale di San Felice, nella stessa Provincia di Modena, all'altra da Bondeno a Casumaro nella Provincia di Ferrara, passando per Finale d'Emilia e Casumaro. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 5 agosto 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 19 agosto 1869 
+ 
+ Reg. 48 Atti del Governo a c. 27. Crodara Visconti. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Pironti. 
+ 
+ A. Mordini.

@@ -1,21 +1,17 @@
-REGIO DECRETO 27 gennaio 1901 n. XXVI
+---
+tipo: REGIO DECRETO
+numero: XXVI
+data: 1901-01-27
+titolo: "Che modifica lo statuto della cassa di risparmio di Morciano di Romagna. (0100026R)"
+urn: urn:nir:stato:regio.decreto:1901-01-27;26
+codice_redazionale: 0100026R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 gennaio 1901 n. XXVI
-=====================================
-
-Che modifica lo statuto della cassa di risparmio di Morciano di Romagna. (0100026R)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/03/1901
-
-Art. 1
-------
-
-  
-Che modifica lo statuto della cassa di risparmio di Morciano di Romagna. - Firmato VITTORIO EMANUELE - Controfirmato Carcano - Visto E. Gianturco.   
-  
-Registrato alla Corte dei conti addi' 11 febbraio 1901.   
-  
-Reg. 227. Atti del Governo a f. 109.   
-  
+Che modifica lo statuto della cassa di risparmio di Morciano di Romagna. - Firmato VITTORIO EMANUELE - Controfirmato Carcano - Visto E. Gianturco. 
+ 
+ Registrato alla Corte dei conti addi' 11 febbraio 1901. 
+ 
+ Reg. 227. Atti del Governo a f. 109.

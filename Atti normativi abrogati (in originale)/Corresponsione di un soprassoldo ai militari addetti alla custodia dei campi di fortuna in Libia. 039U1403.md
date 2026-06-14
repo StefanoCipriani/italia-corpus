@@ -1,16 +1,14 @@
-REGIO DECRETO 06 luglio 1939 n. 1403
-
-
-REGIO DECRETO 06 luglio 1939 n. 1403
-====================================
-
-Corresponsione di un soprassoldo ai militari addetti alla custodia dei campi di fortuna in Libia. (039U1403)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/11/1936
+---
+tipo: REGIO DECRETO
+numero: 1403
+data: 1939-07-06
+titolo: "Corresponsione di un soprassoldo ai militari addetti alla custodia dei campi di fortuna in Libia. (039U1403)"
+urn: urn:nir:stato:regio.decreto:1939-07-06;1403
+codice_redazionale: 039U1403
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,32 +26,26 @@ Visto il R. decreto 5 settembre 1938-XVI, n. 1598, che approva le norme riguarda
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica e per l'Africa Italiana, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica e per l'Africa Italiana, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al capo V del titolo I delle norme riguardanti il personale dell'Aeronautica della Libia, approvate con R. decreto 5 settembre 1938-XVI, n. 1598, e' aggiunto il seguente articolo 33-bis:   
-  
-«Il comandante del Corpo puo', nella misura e nei modi da stabilirsi dal Governo della Libia, corrispondere speciali rimunerazioni ai sottufficiali e militari di truppa delle Forze armate, nazionali ed indigeni, incaricati di istruzioni o servizi speciali o straordinari che non rientrino nelle normali attribuzioni del grado o della carica da essi rivestita e pei quali non trovisi stabilito apposito compenso da altre disposizioni».   
-  
-Il presente decreto ha vigore dal 1° novembre 1936.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 6 luglio 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 27 settembre 1939-XVII   
-  
-Atti del Governo, registro 413, foglio 123. - Mancini   
+Al capo V del titolo I delle norme riguardanti il personale dell'Aeronautica della Libia, approvate con R. decreto 5 settembre 1938-XVI, n. 1598, e' aggiunto il seguente articolo 33-bis: 
+ 
+ «Il comandante del Corpo puo', nella misura e nei modi da stabilirsi dal Governo della Libia, corrispondere speciali rimunerazioni ai sottufficiali e militari di truppa delle Forze armate, nazionali ed indigeni, incaricati di istruzioni o servizi speciali o straordinari che non rientrino nelle normali attribuzioni del grado o della carica da essi rivestita e pei quali non trovisi stabilito apposito compenso da altre disposizioni». 
+ 
+ Il presente decreto ha vigore dal 1° novembre 1936. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 6 luglio 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 27 settembre 1939-XVII 
+ 
+ Atti del Governo, registro 413, foglio 123. - Mancini

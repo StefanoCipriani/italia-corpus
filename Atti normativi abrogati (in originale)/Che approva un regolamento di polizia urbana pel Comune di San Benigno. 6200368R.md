@@ -1,20 +1,17 @@
-REGIO DECRETO 16 aprile 1862 n. CCCLXVIII
+---
+tipo: REGIO DECRETO
+numero: CCCLXVIII
+data: 1862-04-16
+titolo: "Che approva un regolamento di polizia urbana pel Comune di San Benigno. (6200368R)"
+urn: urn:nir:stato:regio.decreto:1862-04-16;368
+codice_redazionale: 6200368R
+vigente: true
+---
 
-
-REGIO DECRETO 16 aprile 1862 n. CCCLXVIII
-=========================================
-
-Che approva un regolamento di polizia urbana pel Comune di San Benigno. (6200368R)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/04/1862
-
-Art. 1
-------
+## Art. 1.
 
 Che approva un regolamento di polizia urbana deliberato dal Municipio di San Benigno (Provincia di Torino) nelle sedute del 12 novembre 1860 e 23 marzo
 
-1862. 
-  
-  
+1862.
+
 Torino 16 aprile 1862

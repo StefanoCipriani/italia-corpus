@@ -1,16 +1,14 @@
-REGIO DECRETO 25 novembre 1940 n. 1764
-
-
-REGIO DECRETO 25 novembre 1940 n. 1764
-======================================
-
-9° Prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1940-41. (040U1764)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/01/1941
+---
+tipo: REGIO DECRETO
+numero: 1764
+data: 1940-11-25
+titolo: "9° Prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1940-41. (040U1764)"
+urn: urn:nir:stato:regio.decreto:1940-11-25;1764
+codice_redazionale: 040U1764
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,24 @@ Ritenuto che sul fondo di riserva per le spese impreviste dell'esercizio finanzi
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato o decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato o decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal fondo di riserva per le spese impreviste, inscritto al capitolo n. 304 dello stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1940-41, e' autorizzata una nona prelevazione nella somma di lire centomila (L. 100.000) da inscriversi al sottoindicato capitolo dello stato di previsione medesimo:   
-  
-Cap. n. 370. «Contributo a favore dell'Associazione nazionale dei mutilati e degli invalidi di guerra, ecc.». Questo decreto sara' presentato alle Assemblee legislative per la sua convalidazione. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarle e di farlo osservare.   
-  
-Dato a Roma, addi' 25 novembre 1940-XIX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 4 gennaio 1941-XIX   
-  
-Atti dei Governo, registro 429, foglio 12. - MANCINI   
+Dal fondo di riserva per le spese impreviste, inscritto al capitolo n. 304 dello stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1940-41, e' autorizzata una nona prelevazione nella somma di lire centomila (L. 100.000) da inscriversi al sottoindicato capitolo dello stato di previsione medesimo: 
+ 
+ Cap. n. 370. «Contributo a favore dell'Associazione nazionale dei mutilati e degli invalidi di guerra, ecc.». Questo decreto sara' presentato alle Assemblee legislative per la sua convalidazione. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarle e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 novembre 1940-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 4 gennaio 1941-XIX 
+ 
+ Atti dei Governo, registro 429, foglio 12. - MANCINI

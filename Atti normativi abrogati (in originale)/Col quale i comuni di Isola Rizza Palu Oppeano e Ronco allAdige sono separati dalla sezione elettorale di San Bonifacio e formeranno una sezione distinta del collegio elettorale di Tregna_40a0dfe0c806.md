@@ -1,16 +1,14 @@
-REGIO DECRETO 17 settembre 1876 n. 3353
-
-
-REGIO DECRETO 17 settembre 1876 n. 3353
-=======================================
-
-Col quale i comuni di Isola Rizza, Palu', Oppeano e Ronco all'Adige sono separati dalla sezione elettorale di San Bonifacio e formeranno una sezione distinta del collegio elettorale di Tregnago, numero 486. (076U3353)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/10/1876
+---
+tipo: REGIO DECRETO
+numero: 3353
+data: 1876-09-17
+titolo: "Col quale i comuni di Isola Rizza, Palu', Oppeano e Ronco all'Adige sono separati dalla sezione elettorale di San Bonifacio e formeranno una sezione distinta del collegio elettorale di Tregnago, numero 486. (076U3353)"
+urn: urn:nir:stato:regio.decreto:1876-09-17;3353
+codice_redazionale: 076U3353
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Isola Rizza, Palu', Oppeano e Ronco all'Adige sono separati dalla sezione elettorale di San Bonifacio e formeranno una sezione distinta del Collegio elettorale di Tregnago, con sede a Oppeano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Pollenzo, addi' 17 settembre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+I comuni di Isola Rizza, Palu', Oppeano e Ronco all'Adige sono separati dalla sezione elettorale di San Bonifacio e formeranno una sezione distinta del Collegio elettorale di Tregnago, con sede a Oppeano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Pollenzo, addi' 17 settembre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

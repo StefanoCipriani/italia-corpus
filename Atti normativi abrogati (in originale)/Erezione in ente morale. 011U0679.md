@@ -1,19 +1,15 @@
-REGIO DECRETO 25 giugno 1911 n. 679
+---
+tipo: REGIO DECRETO
+numero: 679
+data: 1911-06-25
+titolo: "Erezione in ente morale. (011U0679)"
+urn: urn:nir:stato:regio.decreto:1911-06-25;679
+codice_redazionale: 011U0679
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 giugno 1911 n. 679
-===================================
-
-Erezione in ente morale. (011U0679)
------------------------------------
-
-Entrata in vigore del provvedimento: 30/07/1915
-
-Art. 1
-------
-
-  
-N. 679   
-  
-R. decreto 25 giugno 1911, col quale, sulla proposta del ministro dell'interno, il ricovero «Lodovico Martelli» di Figline Valdarno (Firenze) e' eretto in ente morale e ne e' approvato lo statuto organico.   
-  
+N. 679 
+ 
+ R. decreto 25 giugno 1911, col quale, sulla proposta del ministro dell'interno, il ricovero «Lodovico Martelli» di Figline Valdarno (Firenze) e' eretto in ente morale e ne e' approvato lo statuto organico.

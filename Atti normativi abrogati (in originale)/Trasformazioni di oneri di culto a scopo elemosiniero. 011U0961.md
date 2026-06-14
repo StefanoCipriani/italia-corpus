@@ -1,19 +1,15 @@
-REGIO DECRETO 14 agosto 1911 n. 961
+---
+tipo: REGIO DECRETO
+numero: 961
+data: 1911-08-14
+titolo: "Trasformazioni di oneri di culto a scopo elemosiniero. (011U0961)"
+urn: urn:nir:stato:regio.decreto:1911-08-14;961
+codice_redazionale: 011U0961
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 agosto 1911 n. 961
-===================================
-
-Trasformazioni di oneri di culto a scopo elemosiniero. (011U0961)
------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/09/1911
-
-Art. 1
-------
-
-  
-N. 961   
-  
-Regio decreto 14 agosto 1911, col quale, su proposta del ministro dell'interno, vengono trasformati a favore dell'ospedale di Gubbio (Perugia), per la istituzione di un reparto tubercolosi, gli oneri di culto gravanti la locale «Opera pia della Misericordia».   
-  
+N. 961 
+ 
+ Regio decreto 14 agosto 1911, col quale, su proposta del ministro dell'interno, vengono trasformati a favore dell'ospedale di Gubbio (Perugia), per la istituzione di un reparto tubercolosi, gli oneri di culto gravanti la locale «Opera pia della Misericordia».

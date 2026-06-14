@@ -1,16 +1,14 @@
-REGIO DECRETO 29 gennaio 1871 n. 30
-
-
-REGIO DECRETO 29 gennaio 1871 n. 30
-===================================
-
-Di convocazione del Collegio elettorale di Pizzighettone. (071U0030)
---------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/02/1871
+---
+tipo: REGIO DECRETO
+numero: 30
+data: 1871-01-29
+titolo: "Di convocazione del Collegio elettorale di Pizzighettone. (071U0030)"
+urn: urn:nir:stato:regio.decreto:1871-01-29;30
+codice_redazionale: 071U0030
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,31 +18,24 @@ Veduto il Messaggio in data del 26 gennaio corrente, col quale l'Ufficio di Pres
 
 Veduto l'articolo 63 della Legge per le elezioni politiche 17 dicembre 1860, n. 4513;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Collegio elettorale di Pizzighettone, n. 149, e' convocato pel giorno 19 febbraio prossimo, affinche' proceda alla elezione del proprio Deputato.   
-  
-Occorrendo una seconda votazione, essa avra' luogo il giorno 26 dello stesso mese.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 29 gennaio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 3 febbraio 1871   
-  
-Reg. 54 Atti del Governo a c. 105. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Lanza.   
-  
+Il Collegio elettorale di Pizzighettone, n. 149, e' convocato pel giorno 19 febbraio prossimo, affinche' proceda alla elezione del proprio Deputato. 
+ 
+ Occorrendo una seconda votazione, essa avra' luogo il giorno 26 dello stesso mese. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 29 gennaio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 3 febbraio 1871 
+ 
+ Reg. 54 Atti del Governo a c. 105. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Lanza.

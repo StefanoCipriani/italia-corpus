@@ -1,20 +1,17 @@
-REGIO DECRETO 20 aprile 1911 n. 415
+---
+tipo: REGIO DECRETO
+numero: 415
+data: 1911-04-20
+titolo: "Erezione in ente morale e approvazione di statuto. (011U0415)"
+urn: urn:nir:stato:regio.decreto:1911-04-20;415
+codice_redazionale: 011U0415
+vigente: true
+---
 
-
-REGIO DECRETO 20 aprile 1911 n. 415
-===================================
-
-Erezione in ente morale e approvazione di statuto. (011U0415)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/06/1911
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-415. 
-  
-  
+415.
+
 Regio decreto 20 aprile 1911, col quale, sulla proposta del ministro dell'interno, l'ospedale di Carate Brianza e' eretto in ente morale e ne e' approvato lo statuto organico.

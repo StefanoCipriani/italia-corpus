@@ -1,16 +1,14 @@
-REGIO DECRETO 20 ottobre 1907 n. 764
-
-
-REGIO DECRETO 20 ottobre 1907 n. 764
-====================================
-
-Che estende anche alla vendita dei buoni-risposta l'aggio concesso ad uffici, collettorie e rivenditori di francobolli, cartoline e biglietti postali. (007U0764)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/01/1908
+---
+tipo: REGIO DECRETO
+numero: 764
+data: 1907-10-20
+titolo: "Che estende anche alla vendita dei buoni-risposta l'aggio concesso ad uffici, collettorie e rivenditori di francobolli, cartoline e biglietti postali. (007U0764)"
+urn: urn:nir:stato:regio.decreto:1907-10-20;764
+codice_redazionale: 007U0764
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,31 +18,24 @@ Visto l'art. 11 della Convenzione principale, conclusa in Roma il 26 maggio 1906
 
 Visto l'art. VII del regolamento di esecuzione della Convenzione stessa;
 
-Vista la [legge 19 luglio 1907, n. 579](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-19;579), che approva gli atti del Congresso postale di Roma;
+Vista la [legge 19 luglio 1907, n. 579](Relativa%20agli%20accordi%20postali%20internazionali%20firmati%20in%20Roma%20il%2026%20maggio%201906.%20007U0579.md), che approva gli atti del Congresso postale di Roma;
 
-Visto il [R. decreto 30 settembre 1863, n. 1492](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1863-09-30;1492), che concede l'aggio per la vendita di francobolli, di cartoline e di biglietti postali;
+Visto il [R. decreto 30 settembre 1863, n. 1492](Relativo%20alla%20vendita%20della%20carta%20bollata%20delle%20marche%20da%20bollo%20e%20dei%20francobolli%20postali.%20063U1492.md), che concede l'aggio per la vendita di francobolli, di cartoline e di biglietti postali;
 
-Visto il [R. decreto 6 giugno 1887, n. 5106](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-06-06;5106), che concede l'aggio per la vendita delle cartoline di spedizione dei pacchi postali;
+Visto il [R. decreto 6 giugno 1887, n. 5106](Che%20modifica%20il%20sistema%20di%20pagamento%20delle%20tasse%20di%20trasporto%20dei%20pacchi%20postali%20ed%20istituisce%20speciali%20cartoline.%20087U5106.md), che concede l'aggio per la vendita delle cartoline di spedizione dei pacchi postali;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per le poste ed i telegrafi; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per le poste ed i telegrafi; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'aggio concesso agli uffici, alle collettorie ed ai rivenditori autorizzati per la vendita dei francobolli, delle cartoline per corrispondenza, dei biglietti postali e delle cartoline di spedizione dei pacchi postali e' esteso anche per la vendita dei buoni-risposta.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 20 ottobre 1907.   
-  
-VITTORIO EMANUELE.   
-  
-Schanzer.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+L'aggio concesso agli uffici, alle collettorie ed ai rivenditori autorizzati per la vendita dei francobolli, delle cartoline per corrispondenza, dei biglietti postali e delle cartoline di spedizione dei pacchi postali e' esteso anche per la vendita dei buoni-risposta. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 20 ottobre 1907. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Schanzer. 
+ 
+ Visto, Il guardasigilli: Orlando.

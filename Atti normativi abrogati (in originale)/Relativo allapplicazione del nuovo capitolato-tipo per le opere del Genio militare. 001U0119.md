@@ -1,16 +1,14 @@
-REGIO DECRETO 14 febbraio 1901 n. 119
-
-
-REGIO DECRETO 14 febbraio 1901 n. 119
-=====================================
-
-Relativo all'applicazione del nuovo capitolato-tipo per le opere del Genio militare. (001U0119)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/05/1901
+---
+tipo: REGIO DECRETO
+numero: 119
+data: 1901-02-14
+titolo: "Relativo all'applicazione del nuovo capitolato-tipo per le opere del Genio militare. (001U0119)"
+urn: urn:nir:stato:regio.decreto:1901-02-14;119
+codice_redazionale: 001U0119
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,27 +22,20 @@ Visto il nuovo capitolato-tipo compilato in base a tali pareri in data 30 ottobr
 
 Visto il parere n. 367-79 emesso dal Consiglio di Stato nell'adunanza del 1° febbraio 1901;
 
-Sulla
------
+Sulla proposta dal Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
 
-proposta dal Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvato il nuovo capitolato-tipo pei lavori del Genio militare da eseguirsi nel territorio del Comando del Genio militare di Napoli, compilato in data 30 ottobre 1900, d'ordine Nostro firmato dal Ministro della Guerra, restando abrogati i capitolati-tipo per le Direzioni del Genio militare di Bari, Capua (ora soppressa), Messina, Palermo e Napoli, approvati coi RR. decreti del 10 novembre 1875, n. 2793 (serie 2ª), e 14 settembre 1888, n. 5722 (serie 3ª).   
-  
-Restano invariate le disposizioni degli articoli 2 e 3 del succitato [R. decreto 10 novembre 1875, n. 2793](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-11-10;2793) (serie 2ª).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 febbraio 1901.   
-  
-VITTORIO EMANUELE   
-  
-C. Di San Martino.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.   
-  
+E' approvato il nuovo capitolato-tipo pei lavori del Genio militare da eseguirsi nel territorio del Comando del Genio militare di Napoli, compilato in data 30 ottobre 1900, d'ordine Nostro firmato dal Ministro della Guerra, restando abrogati i capitolati-tipo per le Direzioni del Genio militare di Bari, Capua (ora soppressa), Messina, Palermo e Napoli, approvati coi RR. decreti del 10 novembre 1875, n. 2793 (serie 2ª), e 14 settembre 1888, n. 5722 (serie 3ª). 
+ 
+ Restano invariate le disposizioni degli articoli 2 e 3 del succitato [R. decreto 10 novembre 1875, n. 2793](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1875-11-10;2793) (serie 2ª). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 febbraio 1901. 
+ 
+ VITTORIO EMANUELE 
+ 
+ C. Di San Martino. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

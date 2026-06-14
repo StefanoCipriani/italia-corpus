@@ -1,16 +1,14 @@
-REGIO DECRETO 26 novembre 1871 n. 561
-
-
-REGIO DECRETO 26 novembre 1871 n. 561
-=====================================
-
-Che approva il nuovo Elenco delle strade provinciali scorrenti nella Provincia di Bergamo. (071U0561)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/01/1872
+---
+tipo: REGIO DECRETO
+numero: 561
+data: 1871-11-26
+titolo: "Che approva il nuovo Elenco delle strade provinciali scorrenti nella Provincia di Bergamo. (071U0561)"
+urn: urn:nir:stato:regio.decreto:1871-11-26;561
+codice_redazionale: 071U0561
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,37 +30,22 @@ Sentito l'avviso del Consiglio di Stato;
 
 Sulla proposta del Nostro Ministro Segretario di Stato
 
-pei
----
+pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono approvate le sopracitate deliberazioni del Consiglio provinciale di Bergamo, e conseguentemente e' pure approvato il nuovo Elenco delle strade provinciali stato compilato in base alle deliberazioni stesse; quale Elenco, visto d'ordine Nostro dal predetto Ministro, sara' unito a questo Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 26 novembre 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 12 gennaio 1871   
-  
-Reg. 58 Atti del Governo a c. 110. D. Gherardi.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Devincenzi.   
-  
-
-Elenco
-
-  
-PROVINCIA DL BERGAMO - ELENCO delle strade provinciali.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=071U056100100010110001&dgu=1872-01-02&art.dataPubblicazioneGazzetta=1872-01-02&art.codiceRedazionale=071U0561)
-  
+Sono approvate le sopracitate deliberazioni del Consiglio provinciale di Bergamo, e conseguentemente e' pure approvato il nuovo Elenco delle strade provinciali stato compilato in base alle deliberazioni stesse; quale Elenco, visto d'ordine Nostro dal predetto Ministro, sara' unito a questo Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 26 novembre 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 12 gennaio 1871 
+ 
+ Reg. 58 Atti del Governo a c. 110. D. Gherardi. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Devincenzi.

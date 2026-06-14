@@ -1,19 +1,15 @@
-REGIO DECRETO 24 ottobre 1912 n. 1243
+---
+tipo: REGIO DECRETO
+numero: 1243
+data: 1912-10-24
+titolo: "Modificazioni di statuto di cooperative. (012U1243)"
+urn: urn:nir:stato:regio.decreto:1912-10-24;1243
+codice_redazionale: 012U1243
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 ottobre 1912 n. 1243
-=====================================
-
-Modificazioni di statuto di cooperative. (012U1243)
----------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/12/1912
-
-Art. 1
-------
-
-  
-N. 1243   
-  
-Regio Decreto 24 ottobre 1912, col quale, sulla proposta del ministro d'agricoltura, industria e commercio d'accordo col ministro dei lavori pubblici, vengono approvate alcune modificazioni allo statuto del Consorzio «Federazione delle cooperative della provincia di Ravenna» con sede in Ravenna.   
-  
+N. 1243 
+ 
+ Regio Decreto 24 ottobre 1912, col quale, sulla proposta del ministro d'agricoltura, industria e commercio d'accordo col ministro dei lavori pubblici, vengono approvate alcune modificazioni allo statuto del Consorzio «Federazione delle cooperative della provincia di Ravenna» con sede in Ravenna.

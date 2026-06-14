@@ -1,16 +1,14 @@
-REGIO DECRETO 22 dicembre 1861 n. 375
-
-
-REGIO DECRETO 22 dicembre 1861 n. 375
-=====================================
-
-Che dichiara dover continuare nelle loro funzioni le attuali Magistrature Napolitane e Siciliane finche' non siano le nuove istituite. (061U0375)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/01/1862
+---
+tipo: REGIO DECRETO
+numero: 375
+data: 1861-12-22
+titolo: "Che dichiara dover continuare nelle loro funzioni le attuali Magistrature Napolitane e Siciliane finche' non siano le nuove istituite. (061U0375)"
+urn: urn:nir:stato:regio.decreto:1861-12-22;375
+codice_redazionale: 061U0375
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,23 +22,16 @@ Considerando che per porre efficacemente in atto le indicate leggi sono sembrati
 
 Che quindi non potendo nel 1.o gennaio pross. entrare in officio, le novelle Magistrature, conviene che seguitino a funzionare le antiche nel modo sin qui praticato;
 
-Sulla
------
+Sulla proposta del nostro Guardasigilli Ministro di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del nostro Guardasigilli Ministro di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Fino a che non saranno effettivamente instituite le novelle Magistrature, le attuali continueranno nelle loro funzioni come per lo passato, seguitando a percepire gli attuali stipendi.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, man dando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 22 dicembre 1861.   
-  
-VITTORIO EMANUELE.   
-  
-Miglietti.   
-  
+Fino a che non saranno effettivamente instituite le novelle Magistrature, le attuali continueranno nelle loro funzioni come per lo passato, seguitando a percepire gli attuali stipendi. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, man dando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 22 dicembre 1861. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Miglietti.

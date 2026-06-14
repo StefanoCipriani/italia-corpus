@@ -1,19 +1,15 @@
-REGIO DECRETO 12 agosto 1908 n. CCCLX
+---
+tipo: REGIO DECRETO
+numero: CCCLX
+data: 1908-08-12
+titolo: "Riflettente erezione in ente morale. (0800360R)"
+urn: urn:nir:stato:regio.decreto:1908-08-12;360
+codice_redazionale: 0800360R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 agosto 1908 n. CCCLX
-=====================================
-
-Riflettente erezione in ente morale. (0800360R)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/10/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro per l'agricoltura, industria e commercio:   
-  
-N. CCCLX (Dato a Sant'Anna di Valdieri, il 12 agosto 1908), che erige in ente morale l'Istituto per le case popolari ed economiche di Milano, e ne approva lo statuto organico.   
-  
+Sulla proposta del ministro per l'agricoltura, industria e commercio: 
+ 
+ N. CCCLX (Dato a Sant'Anna di Valdieri, il 12 agosto 1908), che erige in ente morale l'Istituto per le case popolari ed economiche di Milano, e ne approva lo statuto organico.

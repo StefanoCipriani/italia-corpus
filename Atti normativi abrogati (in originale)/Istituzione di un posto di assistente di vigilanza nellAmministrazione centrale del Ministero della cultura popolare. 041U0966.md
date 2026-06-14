@@ -1,16 +1,14 @@
-REGIO DECRETO 19 luglio 1941 n. 966
-
-
-REGIO DECRETO 19 luglio 1941 n. 966
-===================================
-
-Istituzione di un posto di assistente di vigilanza nell'Amministrazione centrale del Ministero della cultura popolare. (041U0966)
----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/10/1941
+---
+tipo: REGIO DECRETO
+numero: 966
+data: 1941-07-19
+titolo: "Istituzione di un posto di assistente di vigilanza nell'Amministrazione centrale del Ministero della cultura popolare. (041U0966)"
+urn: urn:nir:stato:regio.decreto:1941-07-19;966
+codice_redazionale: 041U0966
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,27 +30,21 @@ Sentito il Consiglio di Stato;
 
 Udito i1 Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la cultura popolare, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la cultura popolare, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nell'Amministrazione centrale del Ministero della cultura popolare e' istituito uu posto di assistente per la vigilanza (gruppo C, grado 10°).   
-Nel ruolo organico del personale di gruppo C dell'Aniministrazione della cultura popolare, di cui alla tabella A annessa al R. decreto-legge 11 gennaio 1937-XV, n. 3, sono soppressi due posti di alunno d'ordine (grado 13°).   
-La nomina al posto di assistente per la vigilanza e' conferita a scelta del Ministro, tra il personale statale che abbia compiuto non meno di 25 anni di servizio di ruolo, che sia in possesso del prescritto titolo di studio per l'accesso ai ruoli di gruppo C, e che a giudizio unanime del Consiglio di amministrazione, possieda tutte le qualita' necessarie per l'espletamento delle funzioni inerenti al posto medesimo.   
-Nella prima attuazione del presente decreto potra' prescindersi dal possesso del titolo di studio.   
-I1 presente decreto entrera' in vigore dal primo giorno del mese successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti, di osservarlo e di farlo osservare.   
-Dato a San Rossore, addi' 19 luglio 1941-XIX   
-VITTORIO EMANUELE   
-  
-Mussolini - Pavolini - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-Registrato alla Corte dei conti, addi' 16 settembre 1941-XIX   
-Atti del Governo, registro 437, foglio 36. - Mancini   
+Nell'Amministrazione centrale del Ministero della cultura popolare e' istituito uu posto di assistente per la vigilanza (gruppo C, grado 10°). 
+ Nel ruolo organico del personale di gruppo C dell'Aniministrazione della cultura popolare, di cui alla tabella A annessa al R. decreto-legge 11 gennaio 1937-XV, n. 3, sono soppressi due posti di alunno d'ordine (grado 13°). 
+ La nomina al posto di assistente per la vigilanza e' conferita a scelta del Ministro, tra il personale statale che abbia compiuto non meno di 25 anni di servizio di ruolo, che sia in possesso del prescritto titolo di studio per l'accesso ai ruoli di gruppo C, e che a giudizio unanime del Consiglio di amministrazione, possieda tutte le qualita' necessarie per l'espletamento delle funzioni inerenti al posto medesimo. 
+ Nella prima attuazione del presente decreto potra' prescindersi dal possesso del titolo di studio. 
+ I1 presente decreto entrera' in vigore dal primo giorno del mese successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti, di osservarlo e di farlo osservare. 
+ Dato a San Rossore, addi' 19 luglio 1941-XIX 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Pavolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ Registrato alla Corte dei conti, addi' 16 settembre 1941-XIX 
+ Atti del Governo, registro 437, foglio 36. - Mancini

@@ -1,16 +1,14 @@
-REGIO DECRETO 22 maggio 1941 n. 695
-
-
-REGIO DECRETO 22 maggio 1941 n. 695
-===================================
-
-Norme temporanee modificative degli ordinamenti dei personale dell'Amministrazione dell'Africa Italiana. (041U0695)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/07/1941
+---
+tipo: REGIO DECRETO
+numero: 695
+data: 1941-05-22
+titolo: "Norme temporanee modificative degli ordinamenti dei personale dell'Amministrazione dell'Africa Italiana. (041U0695)"
+urn: urn:nir:stato:regio.decreto:1941-05-22;695
+codice_redazionale: 041U0695
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -38,57 +36,42 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'Africa Italiana, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per l'Africa Italiana, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Durante l'attuale stato di guerra e fino a tre mesi dalla cessazione di esso e' data facolta' al Ministro per l'Africa Italiana di limitare alle sole prove scritte gli esami di concorso previsti dalle disposizioni vigenti per le promozioni al grado 8° di gruppo A, 9° di gruppo B e 11° di gruppo e dei ruoli dell'Amministrazione dell'Africa Italiana. 
+ 
+ Il Ministro per l'Africa Italiana puo' disporre, qualora se ne ravvisi l'opportunita', che i candidati ai predetti concorsi siano sottoposti ad una prova scritta suppletiva da scegliersi tra le materie per le quali e' prevista la sola prova orale. 
+ 
+ Le norme di cui sopra hanno effetto dal 1° maggio 1941-XIX, per il concorso per titoli ed esami al grado 8° del ruolo di Governo indetto con decreto Ministeriale 15 marzo 1940-XVIII, ai sensi dell'art. 1, secondo comma, del R. decreto-legge 10 febbraio 1938-XVI, n. 528, convertito nella legge 21 dicembre 1938-XVII, n. 2307, in corso di espletamento alla data dell'11 giugno 1940-XVIII, ed il concorso per titoli ed esami al grado 8° del ruolo del personale direttivo corporativo bandito con decreto Ministeriale 27 settembre 1938-XVI, in corso di espletamento alla data dell'11 giugno 1940-XVIII.
 
-  
-  
-Durante l'attuale stato di guerra e fino a tre mesi dalla cessazione di esso e' data facolta' al Ministro per l'Africa Italiana di limitare alle sole prove scritte gli esami di concorso previsti dalle disposizioni vigenti per le promozioni al grado 8° di gruppo A, 9° di gruppo B e 11° di gruppo e dei ruoli dell'Amministrazione dell'Africa Italiana.   
-  
-Il Ministro per l'Africa Italiana puo' disporre, qualora se ne ravvisi l'opportunita', che i candidati ai predetti concorsi siano sottoposti ad una prova scritta suppletiva da scegliersi tra le materie per le quali e' prevista la sola prova orale.   
-  
-Le norme di cui sopra hanno effetto dal 1° maggio 1941-XIX, per il concorso per titoli ed esami al grado 8° del ruolo di Governo indetto con decreto Ministeriale 15 marzo 1940-XVIII, ai sensi dell'art. 1, secondo comma, del R. decreto-legge 10 febbraio 1938-XVI, n. 528, convertito nella legge 21 dicembre 1938-XVII, n. 2307, in corso di espletamento alla data dell'11 giugno 1940-XVIII, ed il concorso per titoli ed esami al grado 8° del ruolo del personale direttivo corporativo bandito con decreto Ministeriale 27 settembre 1938-XVI, in corso di espletamento alla data dell'11 giugno 1940-XVIII.   
+## Art. 2.
 
-Art. 2
-------
+Il concorso al grado di consigliere di Governo di 2ª classe indicato nell'ultimo comma dell'articolo precedente e' operativo per il conferimento di non oltre venti posti.
 
-  
-  
-Il concorso al grado di consigliere di Governo di 2ª classe indicato nell'ultimo comma dell'articolo precedente e' operativo per il conferimento di non oltre venti posti.   
+## Art. 3.
 
-Art. 3
-------
+A decorrere dal 25 dicembre 1940-XIX nella tabella organica del personale della carriera di Governo dell'Amministrazione dell'Africa Italiana, stabilita con la legge 23 maggio 1940-XVIII, n. 451, e' transitoriamente annientato un posto di grado 2° con la qualifica di Governatore. 
+ 
+ Il titolare del suddetto posto e' messo a disposizione del Governatore generale Vice Re per coprire la carica di Alto Commissario per l'economia di guerra dell'Africa Orientale Italiana. 
+ 
+ Il posto medesimo sara' eliminato con la soppressione della carica predetta da effettuarsi non oltre tre mesi dalla cessazione dello stato di guerra.
 
-  
-  
-A decorrere dal 25 dicembre 1940-XIX nella tabella organica del personale della carriera di Governo dell'Amministrazione dell'Africa Italiana, stabilita con la legge 23 maggio 1940-XVIII, n. 451, e' transitoriamente annientato un posto di grado 2° con la qualifica di Governatore.   
-  
-Il titolare del suddetto posto e' messo a disposizione del Governatore generale Vice Re per coprire la carica di Alto Commissario per l'economia di guerra dell'Africa Orientale Italiana.   
-  
-Il posto medesimo sara' eliminato con la soppressione della carica predetta da effettuarsi non oltre tre mesi dalla cessazione dello stato di guerra.   
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Ferme le disposizioni dell'art. 1 (ultimo comma) e dell'art. 3, il presente decreto entra in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 maggio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - TERUZZI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 28 luglio 1941-XIX   
-  
-Atti del Governo, registro 435, foglio 104. - MANCINI   
+Ferme le disposizioni dell'art. 1 (ultimo comma) e dell'art. 3, il presente decreto entra in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 maggio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - TERUZZI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 28 luglio 1941-XIX 
+ 
+ Atti del Governo, registro 435, foglio 104. - MANCINI

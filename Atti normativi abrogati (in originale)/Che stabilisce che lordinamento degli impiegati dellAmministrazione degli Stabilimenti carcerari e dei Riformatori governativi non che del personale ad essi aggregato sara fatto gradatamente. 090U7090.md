@@ -1,16 +1,14 @@
-REGIO DECRETO 23 agosto 1890 n. 7090
-
-
-REGIO DECRETO 23 agosto 1890 n. 7090
-====================================
-
-Che stabilisce che l'ordinamento degli impiegati dell'Amministrazione degli Stabilimenti carcerari e dei Riformatori governativi non che del personale ad essi aggregato sara' fatto gradatamente. (090U7090)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/10/1890
+---
+tipo: REGIO DECRETO
+numero: 7090
+data: 1890-08-23
+titolo: "Che stabilisce che l'ordinamento degli impiegati dell'Amministrazione degli Stabilimenti carcerari e dei Riformatori governativi non che del personale ad essi aggregato sara' fatto gradatamente. (090U7090)"
+urn: urn:nir:stato:regio.decreto:1890-08-23;7090
+codice_redazionale: 090U7090
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,24 +18,18 @@ Visto il Nostro decreto del 6 luglio 1890, n. 7010 (Serie 3ª) inserito nella Ga
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, presidente del Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, presidente del Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'attuazione di detto Ordinamento degli impiegati della Amministrazione degli Stabilimenti carcerari e dei Riformatori governativi, non che del personale ad essi aggregato, sara' fatta gradatamente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale dalle leggi dei decreti del Regno d'Italia mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Brescia, addi' 23 agosto 1890.   
-  
-UMBERTO.   
-  
-Crispi.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
+L'attuazione di detto Ordinamento degli impiegati della Amministrazione degli Stabilimenti carcerari e dei Riformatori governativi, non che del personale ad essi aggregato, sara' fatta gradatamente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale dalle leggi dei decreti del Regno d'Italia mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Brescia, addi' 23 agosto 1890. 
+ 
+ UMBERTO. 
+ 
+ Crispi. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

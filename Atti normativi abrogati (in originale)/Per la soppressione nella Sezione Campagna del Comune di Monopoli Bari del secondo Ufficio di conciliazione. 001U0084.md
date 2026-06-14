@@ -1,16 +1,14 @@
-REGIO DECRETO 21 febbraio 1901 n. 84
-
-
-REGIO DECRETO 21 febbraio 1901 n. 84
-====================================
-
-Per la soppressione, nella Sezione Campagna del Comune di Monopoli (Bari), del secondo Ufficio di conciliazione. (001U0084)
----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/03/1901
+---
+tipo: REGIO DECRETO
+numero: 84
+data: 1901-02-21
+titolo: "Per la soppressione, nella Sezione Campagna del Comune di Monopoli (Bari), del secondo Ufficio di conciliazione. (001U0084)"
+urn: urn:nir:stato:regio.decreto:1901-02-21;84
+codice_redazionale: 001U0084
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,20 @@ Vista la deliberazione del Consiglio del Comune medesimo, in data 3 novembre 190
 
 Visti i rapporti del Primo Presidente della Corte d'Appello di Trani, in data 1 e 20 dicembre 1900;
 
-Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;261~art1), e 1 del Regolamento 26 dicembre stesso anno, n. 728;
+Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del Regolamento 26 dicembre stesso anno, n. 728;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal 1° aprile 1901 e' soppresso nella Sezione Campagna del Comune di Monopoli (Bari) il secondo Ufficio di conciliazione, istituito con R. decreto in data 8 giugno 1873, restando tutto il territorio del Comune stesso sottoposto alla giurisdizione dell'unico Ufficio di conciliazione, ivi esistente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 febbraio 1901.   
-  
-VITTORIO EMANUELE.   
-  
-Cocco-Ortu.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.   
-  
+Dal 1° aprile 1901 e' soppresso nella Sezione Campagna del Comune di Monopoli (Bari) il secondo Ufficio di conciliazione, istituito con R. decreto in data 8 giugno 1873, restando tutto il territorio del Comune stesso sottoposto alla giurisdizione dell'unico Ufficio di conciliazione, ivi esistente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 21 febbraio 1901. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Cocco-Ortu. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

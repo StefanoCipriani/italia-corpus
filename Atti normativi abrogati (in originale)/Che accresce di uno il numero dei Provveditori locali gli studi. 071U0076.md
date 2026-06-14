@@ -1,16 +1,14 @@
-REGIO DECRETO 13 gennaio 1871 n. 76
-
-
-REGIO DECRETO 13 gennaio 1871 n. 76
-===================================
-
-Che accresce di uno il numero dei Provveditori locali gli studi. (071U0076)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/03/1871
+---
+tipo: REGIO DECRETO
+numero: 76
+data: 1871-01-13
+titolo: "Che accresce di uno il numero dei Provveditori locali gli studi. (071U0076)"
+urn: urn:nir:stato:regio.decreto:1871-01-13;76
+codice_redazionale: 071U0076
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Considerando che, accresciutosi il territorio del Regno coll'annessione della Pr
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione: Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione: Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il numero dei Provveditori locali agli studi, secondo la Tabella B, annessa al citato Decreto organico del 22 settembre 1867, e' accresciuto di un Provveditore di prima classe coll'annuo stipendio di lire seimila.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 13 gennaio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 27 febbraio 1871   
-  
-Reg. 54 Atti dal Governo a c. 160. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-C. Correnti.   
-  
+Il numero dei Provveditori locali agli studi, secondo la Tabella B, annessa al citato Decreto organico del 22 settembre 1867, e' accresciuto di un Provveditore di prima classe coll'annuo stipendio di lire seimila. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 13 gennaio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 febbraio 1871 
+ 
+ Reg. 54 Atti dal Governo a c. 160. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ C. Correnti.

@@ -1,22 +1,15 @@
-REGIO DECRETO 03 agosto 1928 n. 2334
+---
+tipo: REGIO DECRETO
+numero: 2334
+data: 1928-08-03
+titolo: "Annullamento del contributo scolastico liquidato a carico del comune di Campoverde col R. decreto 21 gennaio 1915, n. 142. (028U2334)"
+urn: urn:nir:stato:regio.decreto:1928-08-03;2334
+codice_redazionale: 028U2334
+vigente: true
+---
 
+## Art. 1. — null
 
-REGIO DECRETO 03 agosto 1928 n. 2334
-====================================
-
-Annullamento del contributo scolastico liquidato a carico del comune di Campoverde col R. decreto 21 gennaio 1915, n. 142. (028U2334)
--------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/11/1928
-
-Art. 1
-------
-
-null
-
-  
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 3 novembre 1928 - Anno VII   
-  
+Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 3 novembre 1928 - Anno VII

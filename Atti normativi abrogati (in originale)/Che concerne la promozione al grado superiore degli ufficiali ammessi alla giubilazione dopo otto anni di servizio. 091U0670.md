@@ -1,16 +1,14 @@
-REGIO DECRETO 29 novembre 1891 n. 670
-
-
-REGIO DECRETO 29 novembre 1891 n. 670
-=====================================
-
-Che concerne la promozione al grado superiore degli ufficiali ammessi alla giubilazione dopo otto anni di servizio. (091U0670)
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/12/1891
+---
+tipo: REGIO DECRETO
+numero: 670
+data: 1891-11-29
+titolo: "Che concerne la promozione al grado superiore degli ufficiali ammessi alla giubilazione dopo otto anni di servizio. (091U0670)"
+urn: urn:nir:stato:regio.decreto:1891-11-29;670
+codice_redazionale: 091U0670
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,27 +24,20 @@ Vista la legge sull'ordinamento del R. Esercito e dei servizi dipendenti dall'Am
 
 Visto l'art. 18 della legge concernente il reclutamento degli ufficiali di complemento, di milizia territoriale e di riserva, in data 29 giugno 1882 n. 830;
 
-Vista la [legge 25 gennaio 1888 n. 5177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-01-25;5177), relativa agli obblighi di servizio degli ufficiali in congedo;
+Vista la [legge 25 gennaio 1888 n. 5177](Sugli%20obblighi%20di%20servizio%20degli%20ufficiali%20in%20congedo.%20088U5177.md), relativa agli obblighi di servizio degli ufficiali in congedo;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E'abrogato il [R. decreto in data 21 giugno 1876 numero 3157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-06-21;3157) (serie 2ª) circa le norme per la promozione al grado superiore degli ufficiali ammessi alla giubilazione dopo otto anni di servizio effettivo nel proprio grado.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 novembre 1891.   
-  
-UMBERTO.   
-  
-Pelloux.   
-  
-Visto, Il Guardasigilli: L. Ferraris.   
-  
+E'abrogato il [R. decreto in data 21 giugno 1876 numero 3157](Che%20determina%20le%20norme%20per%20la%20concessione%20del%20grado%20superiore%20agli%20ufficiali%20che%20cessando%20dal%20servizio%20nellesercito%20permanente%20sono%20inscritti%20nella%20riserva.%20076U3157.md) (serie 2ª) circa le norme per la promozione al grado superiore degli ufficiali ammessi alla giubilazione dopo otto anni di servizio effettivo nel proprio grado. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 novembre 1891. 
+ 
+ UMBERTO. 
+ 
+ Pelloux. 
+ 
+ Visto, Il Guardasigilli: L. Ferraris.

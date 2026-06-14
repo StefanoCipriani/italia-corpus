@@ -1,16 +1,14 @@
-REGIO DECRETO 09 gennaio 1941 n. 25
-
-
-REGIO DECRETO 09 gennaio 1941 n. 25
-===================================
-
-Modificazioni alle norme relative alle promozioni nel ruolo di gruppo A delle Biblioteche pubbliche governative. (041U0025)
----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/02/1941
+---
+tipo: REGIO DECRETO
+numero: 25
+data: 1941-01-09
+titolo: "Modificazioni alle norme relative alle promozioni nel ruolo di gruppo A delle Biblioteche pubbliche governative. (041U0025)"
+urn: urn:nir:stato:regio.decreto:1941-01-09;25
+codice_redazionale: 041U0025
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,44 +28,30 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il periodo di servizio richiesto dall'art. 5 del R. decreto 11 aprile 1935-XIII, n. 575, per la promozione dal grado decimo al grado nono del ruolo di gruppo A delle Biblioteche pubbliche governative, nei limiti dei posti disponibili, e' ridotto a tre anni, tenuto altresi' conto del periodo di prova.
 
-  
-  
-Il periodo di servizio richiesto dall'art. 5 del R. decreto 11 aprile 1935-XIII, n. 575, per la promozione dal grado decimo al grado nono del ruolo di gruppo A delle Biblioteche pubbliche governative, nei limiti dei posti disponibili, e' ridotto a tre anni, tenuto altresi' conto del periodo di prova.   
+## Art. 2.
 
-Art. 2
-------
+Agli effetti del computo del triennio di effettivo servizio prescritto dall'art. 2 del R. decreto 23 giugno 1938-XVI, n. 1037, per le promozioni al grado quinto del ruolo del personale di gruppo A delle Bilioteche pubbliche governative, e' valutato per intero il servizio prestato nel grado sesto di qualunque ruolo di gruppo A dell'Amministrazione dell'educazione nazionale.
 
-  
-  
-Agli effetti del computo del triennio di effettivo servizio prescritto dall'art. 2 del R. decreto 23 giugno 1938-XVI, n. 1037, per le promozioni al grado quinto del ruolo del personale di gruppo A delle Bilioteche pubbliche governative, e' valutato per intero il servizio prestato nel grado sesto di qualunque ruolo di gruppo A dell'Amministrazione dell'educazione nazionale.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 gennaio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Bottai - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 7 febbraio 1941-XIX   
-  
-Atti del Governo, registro 430, foglio 30. - Mancini   
-  
-  
+Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 gennaio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Bottai - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 7 febbraio 1941-XIX 
+ 
+ Atti del Governo, registro 430, foglio 30. - Mancini

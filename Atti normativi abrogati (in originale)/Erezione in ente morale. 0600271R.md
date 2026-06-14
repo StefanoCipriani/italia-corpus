@@ -1,19 +1,15 @@
-REGIO DECRETO 08 luglio 1906 n. CCLXXI
+---
+tipo: REGIO DECRETO
+numero: CCLXXI
+data: 1906-07-08
+titolo: "Erezione in ente morale. (0600271R)"
+urn: urn:nir:stato:regio.decreto:1906-07-08;271
+codice_redazionale: 0600271R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 luglio 1906 n. CCLXXI
-======================================
-
-Erezione in ente morale. (0600271R)
------------------------------------
-
-Entrata in vigore del provvedimento: 02/09/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCLXXI (Dato a Roma, l'8 luglio 1906), col quale il lascito La Gioco per la istituzione di un orfanotrofio in Leonforte (Catania), e' eretto in ente morale, affidandone la provvisoria amministrazione alla locale Congregazione di carita'.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCLXXI (Dato a Roma, l'8 luglio 1906), col quale il lascito La Gioco per la istituzione di un orfanotrofio in Leonforte (Catania), e' eretto in ente morale, affidandone la provvisoria amministrazione alla locale Congregazione di carita'.

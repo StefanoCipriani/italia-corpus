@@ -1,16 +1,14 @@
-REGIO DECRETO 09 novembre 1879 n. 5199
-
-
-REGIO DECRETO 09 novembre 1879 n. 5199
-======================================
-
-Che modifica l'elenco delle strade provinciali di Teramo in quanto riguarda la strada provinciale della Vibrata. (079U5199)
----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/01/1880
+---
+tipo: REGIO DECRETO
+numero: 5199
+data: 1879-11-09
+titolo: "Che modifica l'elenco delle strade provinciali di Teramo in quanto riguarda la strada provinciale della Vibrata. (079U5199)"
+urn: urn:nir:stato:regio.decreto:1879-11-09;5199
+codice_redazionale: 079U5199
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,26 +26,19 @@ Visti gli articoli 14 e 15 della legge sui lavori pubblici;
 
 Visto il voto favorevole del Consiglio superiore dei Lavori Pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'elenco delle strade provinciali di Teramo e' modificato in quanto riguarda la strada provinciale della Vibrata, la quale avra' il seguente andamento: dalla provinciale degli Abruzzi alla sinistra del torrente Vibrata per Corropoli, Nereto, S. Egidio, al confine ascolano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 9 novembre 1879.   
-  
-UMBERTO.   
-  
-A. Baccarini.   
-  
-Visto - Il Guardasigilli   
-Vare'.   
-  
+L'elenco delle strade provinciali di Teramo e' modificato in quanto riguarda la strada provinciale della Vibrata, la quale avra' il seguente andamento: dalla provinciale degli Abruzzi alla sinistra del torrente Vibrata per Corropoli, Nereto, S. Egidio, al confine ascolano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 9 novembre 1879. 
+ 
+ UMBERTO. 
+ 
+ A. Baccarini. 
+ 
+ Visto - Il Guardasigilli 
+ Vare'.

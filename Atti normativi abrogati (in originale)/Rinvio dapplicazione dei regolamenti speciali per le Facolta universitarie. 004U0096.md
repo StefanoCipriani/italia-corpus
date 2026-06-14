@@ -1,22 +1,20 @@
-REGIO DECRETO 18 febbraio 1904 n. 96
-
-
-REGIO DECRETO 18 febbraio 1904 n. 96
-====================================
-
-Rinvio d'applicazione dei regolamenti speciali per le Facolta' universitarie. (004U0096)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/04/1904
+---
+tipo: REGIO DECRETO
+numero: 96
+data: 1904-02-18
+titolo: "Rinvio d'applicazione dei regolamenti speciali per le Facolta' universitarie. (004U0096)"
+urn: urn:nir:stato:regio.decreto:1904-02-18;96
+codice_redazionale: 004U0096
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visti i regolamenti speciali per le Facolta' di medicina e chirurgia, di scienze fisiche, matematiche e naturali, e di filosofia e lettere approvati con [R. decreto 8 ottobre 1876, n. 3434](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-10-08;3434), e quello per le Facolta' di giurisprudenza approvato con [R. decreto 22 ottobre 1885, n. 3444](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-10-22;3444);
+Visti i regolamenti speciali per le Facolta' di medicina e chirurgia, di scienze fisiche, matematiche e naturali, e di filosofia e lettere approvati con [R. decreto 8 ottobre 1876, n. 3434](Che%20approva%20il%20regolamento%20generale%20universitario%20ed%20i%20regolamenti%20speciali%20delle%20facolta%20e%20delle%20scuole%20di%20applicazione%20per%20gli%20ingegneri.%20076U3434.md), e quello per le Facolta' di giurisprudenza approvato con [R. decreto 22 ottobre 1885, n. 3444](Stabilisce%20gli%20insegnamenti%20della%20facolta%20di%20giurisprudenza%20nelle%20Universita%20del%20Regno.%20085U3444.md);
 
 Veduti i successivi regolamenti speciali per le Facolta' predette approvati con Nostri decreti 13 marzo 1902, nn. 66, 67, 68, 69 e 70 e gli altri approvati con il Nostro decreto del 26 ottobre 1903, n. 465, (allegati B, C, D, E);
 
@@ -34,37 +32,27 @@ Visto il parere del Consiglio superiore in data del 9 gennaio 1904 nonche' i rec
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Ferma restando l'abrogazione implicita dei regolamenti del 13 marzo 1902, viene rinviata al 1° novembre 1904 l'applicazione dei regolamenti speciali per le Facolta' universitarie di giurisprudenza, di medicina e chirurgia, di scienze matematiche, fisiche e naturali, e di filosofia e lettere, approvati con Nostro decreto 26 ottobre 1903, n. 465, (allegati D, C, B ed E); continuando intanto ad avere applicazione i regolamenti di Facolta' approvati con Nostro decreto 8 ottobre 1876, n. 3434 e 22 ottobre 1885, n. 3444. 
+ 
+ Restano salvi i diritti quesiti sulla base dei regolamenti del 13 marzo 1902, e che saranno riconosciuti caso per caso con decisione ministeriale, inteso il Consiglio di Facolta'.
 
-  
-  
-Ferma restando l'abrogazione implicita dei regolamenti del 13 marzo 1902, viene rinviata al 1° novembre 1904 l'applicazione dei regolamenti speciali per le Facolta' universitarie di giurisprudenza, di medicina e chirurgia, di scienze matematiche, fisiche e naturali, e di filosofia e lettere, approvati con Nostro decreto 26 ottobre 1903, n. 465, (allegati D, C, B ed E); continuando intanto ad avere applicazione i regolamenti di Facolta' approvati con Nostro decreto 8 ottobre 1876, n. 3434 e 22 ottobre 1885, n. 3444.   
-  
-Restano salvi i diritti quesiti sulla base dei regolamenti del 13 marzo 1902, e che saranno riconosciuti caso per caso con decisione ministeriale, inteso il Consiglio di Facolta'.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-All'articolo 135 del regolamento generale universitario approvato con Nostro decreto 26 ottobre 1903, n. 465, viene aggiunto il capoverso seguente:   
-  
-«Quando la sospensione dei corsi singoli o dei corsi complessivi di intere Facolta' o Scuole viene determinata da disordini, i termini della chiusura delle lezioni e del cominciamento della prima sessione di esami, di cui rispettivamente agli articoli 83 e 114, vengono di diritto prorogati per un periodo di tempo uguale a quello della sospensione medesima».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 febbraio 1904.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti.   
-Orlando.   
-  
-Visto, Il Guardasigilli: Ronchetti.   
-  
+All'articolo 135 del regolamento generale universitario approvato con Nostro decreto 26 ottobre 1903, n. 465, viene aggiunto il capoverso seguente: 
+ 
+ «Quando la sospensione dei corsi singoli o dei corsi complessivi di intere Facolta' o Scuole viene determinata da disordini, i termini della chiusura delle lezioni e del cominciamento della prima sessione di esami, di cui rispettivamente agli articoli 83 e 114, vengono di diritto prorogati per un periodo di tempo uguale a quello della sospensione medesima». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 febbraio 1904. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti. 
+ Orlando. 
+ 
+ Visto, Il Guardasigilli: Ronchetti.

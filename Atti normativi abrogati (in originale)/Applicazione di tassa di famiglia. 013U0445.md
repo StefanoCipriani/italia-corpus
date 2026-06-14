@@ -1,19 +1,15 @@
-REGIO DECRETO 08 maggio 1913 n. 445
+---
+tipo: REGIO DECRETO
+numero: 445
+data: 1913-05-08
+titolo: "Applicazione di tassa di famiglia. (013U0445)"
+urn: urn:nir:stato:regio.decreto:1913-05-08;445
+codice_redazionale: 013U0445
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 maggio 1913 n. 445
-===================================
-
-Applicazione di tassa di famiglia. (013U0445)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 08/06/1913
-
-Art. 1
-------
-
-  
-N. 445   
-  
-Regio Decreto 8 maggio 1913, col quale, sulla proposta del ministro delle finanze, viene data facolta' al comune di Feroleto Antico di applicare nell'anno 1913 la tassa di famiglia col limite massimo di L. 300.   
-  
+N. 445 
+ 
+ Regio Decreto 8 maggio 1913, col quale, sulla proposta del ministro delle finanze, viene data facolta' al comune di Feroleto Antico di applicare nell'anno 1913 la tassa di famiglia col limite massimo di L. 300.

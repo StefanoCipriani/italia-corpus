@@ -1,17 +1,13 @@
-REGIO DECRETO 03 agosto 1908 n. CCCXLIV
+---
+tipo: REGIO DECRETO
+numero: CCCXLIV
+data: 1908-08-03
+titolo: "Riflettente erezione in ente morale. (0800344R)"
+urn: urn:nir:stato:regio.decreto:1908-08-03;344
+codice_redazionale: 0800344R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 agosto 1908 n. CCCXLIV
-=======================================
-
-Riflettente erezione in ente morale. (0800344R)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/10/1908
-
-Art. 1
-------
-
-  
-N. CCCXLIV (Dato a Sant'Anna di Valdieri, il 3 agosto 1908), col quale il ricovero Umberto I di Cento (Ferrara) e' eretto in ente morale e ne e' approvato lo statuto organico.   
-  
+N. CCCXLIV (Dato a Sant'Anna di Valdieri, il 3 agosto 1908), col quale il ricovero Umberto I di Cento (Ferrara) e' eretto in ente morale e ne e' approvato lo statuto organico.

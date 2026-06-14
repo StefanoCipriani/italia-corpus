@@ -1,16 +1,14 @@
-REGIO DECRETO 21 ottobre 1883 n. 1659
-
-
-REGIO DECRETO 21 ottobre 1883 n. 1659
-=====================================
-
-Che accorda al consorzio degli utenti delle acque della roggia Cumana in Orzinovi la facolta' di riscuotere coi privilegi fiscali il contributo dei soci. (083U1659)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/12/1883
+---
+tipo: REGIO DECRETO
+numero: 1659
+data: 1883-10-21
+titolo: "Che accorda al consorzio degli utenti delle acque della roggia Cumana in Orzinovi la facolta' di riscuotere coi privilegi fiscali il contributo dei soci. (083U1659)"
+urn: urn:nir:stato:regio.decreto:1883-10-21;1659
+codice_redazionale: 083U1659
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,26 +18,20 @@ Vista la domanda con la quale la rappresentanza degli utenti delle acque della R
 
 Visto il regolamento del Consorzio e gli altri atti relativi;
 
-Vista la [legge 29 maggio 1873, n. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (Serie 2ª);
+Vista la [legge 29 maggio 1873, n. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md) (Serie 2ª);
 
-Sulla
------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' concessa al Consorzio degli utenti delle acque della Roggia Comuna in Orzinuovi (Brescia) la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 21 ottobre 1883.   
-  
-UMBERTO.   
-  
-Berti.   
-  
-Visto, Il Guardasigilli: Savelli.   
+E' concessa al Consorzio degli utenti delle acque della Roggia Comuna in Orzinuovi (Brescia) la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 21 ottobre 1883. 
+ 
+ UMBERTO. 
+ 
+ Berti. 
+ 
+ Visto, Il Guardasigilli: Savelli.

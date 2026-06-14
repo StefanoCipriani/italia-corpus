@@ -1,16 +1,14 @@
-REGIO DECRETO 04 dicembre 1939 n. 2021
-
-
-REGIO DECRETO 04 dicembre 1939 n. 2021
-======================================
-
-Autorizzazione al comune di Tarvisio a continuare ad applicare, per il quinquennio 1940-1944, le imposte di consumo sulle bevande con le aliquote stabilite per la classe G. (039U2021)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/02/1940
+---
+tipo: REGIO DECRETO
+numero: 2021
+data: 1939-12-04
+titolo: "Autorizzazione al comune di Tarvisio a continuare ad applicare, per il quinquennio 1940-1944, le imposte di consumo sulle bevande con le aliquote stabilite per la classe G. (039U2021)"
+urn: urn:nir:stato:regio.decreto:1939-12-04;2021
+codice_redazionale: 039U2021
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,31 +26,21 @@ Visti i decreti Ministeriali 23 marzo 1935 e 26 novembre 1936 con i quali il Com
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il comune di Tarvisio e' autorizzato a continuare ad applicare per il quinquennio 1940-1944 le imposte di consumo sulle bevande con le aliquote stabilite per la classe G.
 
-  
-  
-Il comune di Tarvisio e' autorizzato a continuare ad applicare per il quinquennio 1940-1944 le imposte di consumo sulle bevande con le aliquote stabilite per la classe G.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il maggiore provento netto derivante dall'autorizzazione di cui al precedente articolo e' devoluto interamente a favore della Azienda autonoma di soggiorno del suddetto Comune.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Roma, addi' 4 dicembre 1939-XVIII   
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-Registrato alla Corte dei conti, addi' 16 gennaio 1940-XVIII   
-Atti del Governo, registro 417, foglio 58, - MANCINI   
-  
+Il maggiore provento netto derivante dall'autorizzazione di cui al precedente articolo e' devoluto interamente a favore della Azienda autonoma di soggiorno del suddetto Comune. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 4 dicembre 1939-XVIII 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ Registrato alla Corte dei conti, addi' 16 gennaio 1940-XVIII 
+ Atti del Governo, registro 417, foglio 58, - MANCINI

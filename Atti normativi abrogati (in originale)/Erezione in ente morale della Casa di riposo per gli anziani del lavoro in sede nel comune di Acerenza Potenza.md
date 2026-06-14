@@ -1,18 +1,20 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 06 settembre 1946 n. 581
+---
+tipo: DECRETO DEL CAPO PROVVISORIO DELLO STATO
+numero: 581
+data: 1946-09-06
+titolo: "Erezione in ente morale della Casa di riposo per gli anziani del lavoro, in sede nel comune di Acerenza (Potenza)."
+urn: urn:nir:stato:decreto.del.capo.provvisorio.dello.stato:1946-09-06;581
+codice_redazionale: 046U0581
+vigente: true
+---
 
-
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 06 settembre 1946 n. 581
-=================================================================
-
-Erezione in ente morale della Casa di riposo per gli anziani del lavoro, in sede nel comune di Acerenza (Potenza).
-------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-581. Decreto del Capo provvisorio dello Stato 6 settembre 1946, col quale, sulla proposta del Ministro per l'interno, la Casa di riposo per gli anziani del lavoro, con sede nel comune di Acerenza (Potenza), Viene eretta in ente morale sotto amministrazione autonoma e ne viene approvato lo statuto organico.  
-  
-Visto, il Guardasigilli: GULLO  
-Registrato alla Corte dei Conti, addi' 7 gennaio 1947
+581.
+
+Decreto del Capo provvisorio dello Stato 6 settembre 1946, col quale, sulla proposta del Ministro per l'interno, la Casa di riposo per gli anziani del lavoro, con sede nel comune di Acerenza (Potenza), Viene eretta in ente morale sotto amministrazione autonoma e ne viene approvato lo statuto organico.
+
+Visto, il Guardasigilli: GULLO
+ Registrato alla Corte dei Conti, addi' 7 gennaio 1947

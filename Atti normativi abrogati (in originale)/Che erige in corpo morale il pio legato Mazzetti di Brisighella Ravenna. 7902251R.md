@@ -1,32 +1,27 @@
-REGIO DECRETO 08 giugno 1879 n. MMCCLI
+---
+tipo: REGIO DECRETO
+numero: MMCCLI
+data: 1879-06-08
+titolo: "Che erige in corpo morale il pio legato Mazzetti di Brisighella (Ravenna). (7902251R)"
+urn: urn:nir:stato:regio.decreto:1879-06-08;2251
+codice_redazionale: 7902251R
+vigente: true
+---
 
+## Articolo unico.
 
-REGIO DECRETO 08 giugno 1879 n. MMCCLI
-======================================
-
-Che erige in corpo morale il pio legato Mazzetti di Brisighella (Ravenna). (7902251R)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/08/1879
-
-Articolo unico
---------------
-
-  
-  
-Il legato disposto dal fu Giuseppe Mazzetti col testamento sopracitato, per mantenimento di cronici nello spedale di Brisighella (Ravenna) e per elemosine ai poveri, e' eretto in ente morale;   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 8 giugno 1879.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 28 giugno 1879   
-  
-Reg. 102 Atti del Governo a f. 56. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli D. Tajani.   
-  
-Depretis.   
-  
+Il legato disposto dal fu Giuseppe Mazzetti col testamento sopracitato, per mantenimento di cronici nello spedale di Brisighella (Ravenna) e per elemosine ai poveri, e' eretto in ente morale; 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 8 giugno 1879. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 28 giugno 1879 
+ 
+ Reg. 102 Atti del Governo a f. 56. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli D. Tajani. 
+ 
+ Depretis.

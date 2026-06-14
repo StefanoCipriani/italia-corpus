@@ -1,16 +1,14 @@
-REGIO DECRETO 23 novembre 1942 n. 1791
-
-
-REGIO DECRETO 23 novembre 1942 n. 1791
-======================================
-
-Varianti alla circoscrizione territoriale della Direzione marittima di Bari. (042U1791)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/03/1943
+---
+tipo: REGIO DECRETO
+numero: 1791
+data: 1942-11-23
+titolo: "Varianti alla circoscrizione territoriale della Direzione marittima di Bari. (042U1791)"
+urn: urn:nir:stato:regio.decreto:1942-11-23;1791
+codice_redazionale: 042U1791
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA Di DIO O PER VOLONTA' DELLA NAZIONE
 
@@ -28,36 +26,22 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri ;
 
-Sulla
------
+Sulla proposta del Ministro per le comunicazioni di concerto con i Ministri per le finanze e per la marina; Abbiamo decretato e decretiamo :
 
-proposta del Ministro per le comunicazioni di concerto con i Ministri per le finanze e per la marina; Abbiamo decretato e decretiamo :
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La tabella relativa alla giurisdizione della Direzione marittima di Bari allegata al R. decreto 3 marzo 1938-XVI, n. 243, e sue successive modificazioni, e' abrogata e sostituita da quella unita al presente decreto, firmata, d'ordine Nostro, dai Ministri Segretari di Stato per le comunicazioni e per la marina.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 novembre 1942-XXI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - HOST VENTURI -DI REVEL   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte del conti, addi' 15 febbraio 1943-XXI   
-  
-Atti del Governo, registro 454, foglio 76. - MANCINI   
-
-Allegato-Tabelle
-
- Tabelle   
-  
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=042U179100100010110001&dgu=1943-02-19&art.dataPubblicazioneGazzetta=1943-02-19&art.codiceRedazionale=042U1791)
-  
+La tabella relativa alla giurisdizione della Direzione marittima di Bari allegata al R. decreto 3 marzo 1938-XVI, n. 243, e sue successive modificazioni, e' abrogata e sostituita da quella unita al presente decreto, firmata, d'ordine Nostro, dai Ministri Segretari di Stato per le comunicazioni e per la marina. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 novembre 1942-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - HOST VENTURI -DI REVEL 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte del conti, addi' 15 febbraio 1943-XXI 
+ 
+ Atti del Governo, registro 454, foglio 76. - MANCINI

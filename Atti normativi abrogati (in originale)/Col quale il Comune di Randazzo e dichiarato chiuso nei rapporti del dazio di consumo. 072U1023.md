@@ -1,16 +1,14 @@
-REGIO DECRETO 29 settembre 1872 n. 1023
-
-
-REGIO DECRETO 29 settembre 1872 n. 1023
-=======================================
-
-Col quale il Comune di Randazzo e' dichiarato chiuso nei rapporti del dazio di consumo. (072U1023)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/10/1872
+---
+tipo: REGIO DECRETO
+numero: 1023
+data: 1872-09-29
+titolo: "Col quale il Comune di Randazzo e' dichiarato chiuso nei rapporti del dazio di consumo. (072U1023)"
+urn: urn:nir:stato:regio.decreto:1872-09-29;1023
+codice_redazionale: 072U1023
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,25 +18,18 @@ Visto il Nostro decreto 22 luglio 1870, numero 5781, col quale furono approvate 
 
 Veduta la deliberazione in data del 6 settembre 1871 del Consiglio comunale di Randazzo, colla quale invoca il cambiamento di qualifica di quel comune da aperto a chiuso;
 
-Visto l'[art. 5 della legge del 3 luglio 1864, n. 1827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1864-07-03;1827~art5), e l'art. 3 del legislativo decreto 28 giugno 1866, n. 3018;
+Visto l'[art. 5 della legge del 3 luglio 1864, n. 1827](Sulla%20tassa%20governativa%20e%20dazio%20comunale%20di%20consumo.%20064U1827.md), e l'art. 3 del legislativo decreto 28 giugno 1866, n. 3018;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Randazzo in provincia di Catania, appartenente alla quarta classe, e' dichiarato chiuso nei rapporti del dazio di consumo, a cominciare dal primo giorno del mese successivo alla pubblicazione del presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 settembre 1872.   
-  
-VITTORIO EMANUELE   
-  
-Quintino Sella.   
-  
+Il comune di Randazzo in provincia di Catania, appartenente alla quarta classe, e' dichiarato chiuso nei rapporti del dazio di consumo, a cominciare dal primo giorno del mese successivo alla pubblicazione del presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 settembre 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Quintino Sella.

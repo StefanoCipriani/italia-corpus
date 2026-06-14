@@ -1,16 +1,14 @@
-REGIO DECRETO 19 ottobre 1865 n. 2572
-
-
-REGIO DECRETO 19 ottobre 1865 n. 2572
-=====================================
-
-Che costituisce i Comuni di Penna Sant'Andrea, Cermignano e Basciano Sezione elettorale distinta. (065U2572)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1865
+---
+tipo: REGIO DECRETO
+numero: 2572
+data: 1865-10-19
+titolo: "Che costituisce i Comuni di Penna Sant'Andrea, Cermignano e Basciano Sezione elettorale distinta. (065U2572)"
+urn: urn:nir:stato:regio.decreto:1865-10-19;2572
+codice_redazionale: 065U2572
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,30 +24,22 @@ Noverandosi nei Comuni di Penna Sant'Andrea, Cermignano e Basciano oltre 40 Elet
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Penna Sant'Andrea, Cermignano e Basciano, che sino ad ora fecero parte della Sezione del Collegio elettorale di Atri, n.° 9, denominata Bisenti, costituiranno per l'avvenire una Sezione separata del Collegio medesimo, la quale avra' sede nel Comune di Penna Sant'Andrea.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Firenze addi' 19 ottobre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 25 ottobre 1865   
-  
-Reg. 54 Atti del Governo a c. 19. Crodara-Visconti.   
-  
-Luogo dei Sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
-  
-  
+I Comuni di Penna Sant'Andrea, Cermignano e Basciano, che sino ad ora fecero parte della Sezione del Collegio elettorale di Atri, n.° 9, denominata Bisenti, costituiranno per l'avvenire una Sezione separata del Collegio medesimo, la quale avra' sede nel Comune di Penna Sant'Andrea. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Firenze addi' 19 ottobre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 25 ottobre 1865 
+ 
+ Reg. 54 Atti del Governo a c. 19. Crodara-Visconti. 
+ 
+ Luogo dei Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli.

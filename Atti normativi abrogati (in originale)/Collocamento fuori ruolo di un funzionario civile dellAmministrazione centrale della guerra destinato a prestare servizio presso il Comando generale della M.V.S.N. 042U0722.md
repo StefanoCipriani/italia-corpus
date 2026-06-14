@@ -1,16 +1,14 @@
-REGIO DECRETO 18 maggio 1942 n. 722
-
-
-REGIO DECRETO 18 maggio 1942 n. 722
-===================================
-
-Collocamento fuori ruolo di un funzionario civile dell'Amministrazione centrale della guerra, destinato a prestare servizio presso il Comando generale della M.V.S.N. (042U0722)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/07/1942
+---
+tipo: REGIO DECRETO
+numero: 722
+data: 1942-05-18
+titolo: "Collocamento fuori ruolo di un funzionario civile dell'Amministrazione centrale della guerra, destinato a prestare servizio presso il Comando generale della M.V.S.N. (042U0722)"
+urn: urn:nir:stato:regio.decreto:1942-05-18;722
+codice_redazionale: 042U0722
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,27 +24,21 @@ Visto l'art. 17 del R. decreto-legge 10 gennaio 1926-IV, n. 46;
 
 Visto il decreto 6 giugno 1940-XVIII, n. 964, concernente il collocamento fuori ruolo di un funzionario civile dell'Amministrazione centrale della guerra, destinato a prestare servizio presso il Comando generale della M.V.S.N.;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il collocamento fuori ruolo del funzionario destinato a prestare servizio presso il Comando generale della Milizia volontaria sicurezza nazionale, di cui al R. decreto 6 giugno 1940-XVIII, n. 964, puo' essere protratto al 30 giugno 1943-XXI.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 maggio 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Rivel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 5 luglio 1942-XX   
-Atti del Governo, registro 447, foglio 13. - Mancini   
+Il collocamento fuori ruolo del funzionario destinato a prestare servizio presso il Comando generale della Milizia volontaria sicurezza nazionale, di cui al R. decreto 6 giugno 1940-XVIII, n. 964, puo' essere protratto al 30 giugno 1943-XXI. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 maggio 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Rivel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 5 luglio 1942-XX 
+ Atti del Governo, registro 447, foglio 13. - Mancini

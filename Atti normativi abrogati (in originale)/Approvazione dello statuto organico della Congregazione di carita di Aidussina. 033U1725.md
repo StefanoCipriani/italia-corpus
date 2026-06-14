@@ -1,21 +1,21 @@
-REGIO DECRETO 26 ottobre 1933 n. 1725
+---
+tipo: REGIO DECRETO
+numero: 1725
+data: 1933-10-26
+titolo: "Approvazione dello statuto organico della Congregazione di carita' di Aidussina. (033U1725)"
+urn: urn:nir:stato:regio.decreto:1933-10-26;1725
+codice_redazionale: 033U1725
+vigente: true
+---
 
-
-REGIO DECRETO 26 ottobre 1933 n. 1725
-=====================================
-
-Approvazione dello statuto organico della Congregazione di carita' di Aidussina. (033U1725)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/01/1934
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1725. R. decreto 26 ottobre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, e' approvato lo statuto arganico della Congregazione di carita' di Aidussina (provincia di Gorizia).   
-  
-Visto, il Guardasigilli: DE FRANCISCI.   
-  
-Registrato alla Corte dei conti, addi' 9 dicembre 1933 - Anno XII
+1725.
+
+R. decreto 26 ottobre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, e' approvato lo statuto arganico della Congregazione di carita' di Aidussina (provincia di Gorizia). 
+ 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ 
+ Registrato alla Corte dei conti, addi' 9 dicembre 1933 - Anno XII

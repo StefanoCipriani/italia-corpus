@@ -1,16 +1,14 @@
-REGIO DECRETO 13 giugno 1871 n. 347
-
-
-REGIO DECRETO 13 giugno 1871 n. 347
-===================================
-
-Che dichiara alienabili alcune contrade demaniali del Comune di Baronissi. (071U0347)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/08/1871
+---
+tipo: REGIO DECRETO
+numero: 347
+data: 1871-06-13
+titolo: "Che dichiara alienabili alcune contrade demaniali del Comune di Baronissi. (071U0347)"
+urn: urn:nir:stato:regio.decreto:1871-06-13;347
+codice_redazionale: 071U0347
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Vista la deliberazione presa dal Consiglio comunale di Baronissi, in Principato 
 
 Visto l'avviso del Consiglio di Stato nella sua adunanza generale del 28 agosto 1869;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le contrade demaniali del Comune di Baronissi, in Principato Citeriore, denominate Bastea, Cesinello, Coste di Frano, Romaniello, Felicaja, Diecimare, Sellitti e Coste del Puzzale, nella complessiva estensione di ettari 187,22, sono riconosciute alienabili con le medesime formalita' e cautele necessarie per l'alienazione degli altri fondi comunali, in adempimento alla [Legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), Allegato A.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 13 giugno 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 20 luglio 1871   
-  
-Reg. 56 Atti del Governo a c. 143. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-Castagnola.   
-  
+Le contrade demaniali del Comune di Baronissi, in Principato Citeriore, denominate Bastea, Cesinello, Coste di Frano, Romaniello, Felicaja, Diecimare, Sellitti e Coste del Puzzale, nella complessiva estensione di ettari 187,22, sono riconosciute alienabili con le medesime formalita' e cautele necessarie per l'alienazione degli altri fondi comunali, in adempimento alla [Legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), Allegato A. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 13 giugno 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 20 luglio 1871 
+ 
+ Reg. 56 Atti del Governo a c. 143. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ Castagnola.

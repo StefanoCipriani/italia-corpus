@@ -1,16 +1,14 @@
-REGIO DECRETO 24 febbraio 1870 n. 5521
-
-
-REGIO DECRETO 24 febbraio 1870 n. 5521
-======================================
-
-Col quale il Comune di Corigliano d'Otranto costituira' una Sezione separata del Collegio elettorale di Maglie. (070U5521)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/03/1870
+---
+tipo: REGIO DECRETO
+numero: 5521
+data: 1870-02-24
+titolo: "Col quale il Comune di Corigliano d'Otranto costituira' una Sezione separata del Collegio elettorale di Maglie. (070U5521)"
+urn: urn:nir:stato:regio.decreto:1870-02-24;5521
+codice_redazionale: 070U5521
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Corigliano d'Otranto costituira' d'ora in poi una Sezione separata del Collegio elettorale di Maglie.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli addi' 24 febbraio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 6 marzo 1870   
-  
-Reg. 50 Atti del Governo a c. 105. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Lanza.   
-  
+Il Comune di Corigliano d'Otranto costituira' d'ora in poi una Sezione separata del Collegio elettorale di Maglie. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli addi' 24 febbraio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 6 marzo 1870 
+ 
+ Reg. 50 Atti del Governo a c. 105. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Lanza.

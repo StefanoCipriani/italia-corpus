@@ -1,109 +1,73 @@
-LEGGE 18 dicembre 1864 n. 2034
+---
+tipo: LEGGE
+numero: 2034
+data: 1864-12-18
+titolo: "Ritenuta degli stipendi, maggiori assegnamenti e pensioni degl'Impiegati civili e militari al servizio dello Stato. (064U2034)"
+urn: urn:nir:stato:legge:1864-12-18;2034
+codice_redazionale: 064U2034
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 18 dicembre 1864 n. 2034
-==============================
+A cominciare dal 1° gennaio 1865 gli stipendi e i maggiori assegnamenti fissi e personali degli Impiegati civili e militari al servizio dello Stato cosi' in attivita' come in aspettativa o in disponibilita', sono sottoposti ad una ritenuta nelle proporzioni seguenti: 
+ 
+ Da 0 a 1200 2 per cento; 
+ 
+ Da 1201 a 2000 3 id. 
+ 
+ Da 2001 a 3000 4 id. 
+ 
+ Da 3001 a 4000 5 id. 
+ 
+ e cosi' continuando con l'aumento dell'uno per cento sopra ogni mille lire di maggiore stipendio insino al sedici per cento. 
+ 
+ La ritenuta sugli stipendi e maggiori assegnamenti non eccedenti lire ottocento e' fissata all'uno per cento.
 
-Ritenuta degli stipendi, maggiori assegnamenti e pensioni degl'Impiegati civili e militari al servizio dello Stato. (064U2034)
-------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 12/01/1865
+L'eccedenza negli stipendi e maggiori assegnamenti sopra le lire 15,000, sara' ridotta alla meta', e quindi sottoposta alla ritenuta del sedici per cento.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-A cominciare dal 1° gennaio 1865 gli stipendi e i maggiori assegnamenti fissi e personali degli Impiegati civili e militari al servizio dello Stato cosi' in attivita' come in aspettativa o in disponibilita', sono sottoposti ad una ritenuta nelle proporzioni seguenti:   
-  
-Da 0 a 1200 2 per cento;   
-  
-Da 1201 a 2000 3 id.   
-  
-Da 2001 a 3000 4 id.   
-  
-Da 3001 a 4000 5 id.   
-  
-e cosi' continuando con l'aumento dell'uno per cento sopra ogni mille lire di maggiore stipendio insino al sedici per cento.   
-  
-La ritenuta sugli stipendi e maggiori assegnamenti non eccedenti lire ottocento e' fissata all'uno per cento.   
-  
+Alla ritenuta stabilita coll'art. 1 sono sottoposti gli aggi proporzionali sulle riscossioni e gli altri proventi per quella parte soltanto che, giusta i regolamenti speciali, non sia destinata a sopperire a spese d'ufficio.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-L'eccedenza negli stipendi e maggiori assegnamenti sopra le lire 15,000, sara' ridotta alla meta', e quindi sottoposta alla ritenuta del sedici per cento.   
-  
+Nei casi di prima nomina ad un qualunque impiego o grado civile o militare sara' ritenuta nei primi sei mesi la terza parte dello stipendio e degli altri averi che competano per effetto della nomina, qualora sia l'uno che gli altri, o complessivamente, superino le mille lire annue. 
+ 
+ Nei casi di aumento di stipendio e di altri averi sara' ritenuta pei primi sei mesi la meta' dell'aumento.
 
-Art. 3
-------
+## Art. 5.
 
-  
-  
-Alla ritenuta stabilita coll'art. 1 sono sottoposti gli aggi proporzionali sulle riscossioni e gli altri proventi per quella parte soltanto che, giusta i regolamenti speciali, non sia destinata a sopperire a spese d'ufficio.   
-  
+Sono eccettuati dalle ritenute i militari in attivita' di servizio nell'armata di terra e di mare, e le guardie doganali, quando siano di grado inferiore a quello di ufficiale.
 
-Art. 4
-------
+## Art. 6.
 
-  
-  
-Nei casi di prima nomina ad un qualunque impiego o grado civile o militare sara' ritenuta nei primi sei mesi la terza parte dello stipendio e degli altri averi che competano per effetto della nomina, qualora sia l'uno che gli altri, o complessivamente, superino le mille lire annue.   
-  
-Nei casi di aumento di stipendio e di altri averi sara' ritenuta pei primi sei mesi la meta' dell'aumento.   
+Tutte le pensioni pagate sul bilancio dello Stato eccedenti lire cinquecento insino a lire duemila, sono sottoposte alla ritenuta dell'uno per cento. 
+ 
+ Le pensioni superiori alle lire duemila sono sottoposte alla ritenuta del due per cento. 
+ 
+ Sono esenti da ogni ritenuta le pensioni delle vedove e degli orfani.
 
-Art. 5
-------
+## Art. 7.
 
-  
-  
-Sono eccettuati dalle ritenute i militari in attivita' di servizio nell'armata di terra e di mare, e le guardie doganali, quando siano di grado inferiore a quello di ufficiale.   
-  
+Dal giorno sopraddetto cesseranno di aver vigore le disposizioni esistenti nelle varie Provincie del Regno intorno alle ritenute sugli stipendi e sulle pensioni.
 
-Art. 6
-------
+## Art. 8.
 
-  
-  
-Tutte le pensioni pagate sul bilancio dello Stato eccedenti lire cinquecento insino a lire duemila, sono sottoposte alla ritenuta dell'uno per cento.   
-  
-Le pensioni superiori alle lire duemila sono sottoposte alla ritenuta del due per cento.   
-  
-Sono esenti da ogni ritenuta le pensioni delle vedove e degli orfani.   
-  
+Gli effetti della presente legge cesseranno con tutto l'anno 1866.
 
-Art. 7
-------
+## Art. 9.
 
-  
-  
-Dal giorno sopraddetto cesseranno di aver vigore le disposizioni esistenti nelle varie Provincie del Regno intorno alle ritenute sugli stipendi e sulle pensioni.   
-  
-
-Art. 8
-------
-
-  
-  
-Gli effetti della presente legge cesseranno con tutto l'anno 1866. 
-
-Art. 9
-------
-
-  
-  
-Con regolamento approvato per Regio Decreto sara' provveduto all'esecuzione della presente legge.   
-  
-Ordiniamo che la presente, munita del Sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Dato a Torino addi' 18 dicembre 1864.   
-  
-VITTORIO EMANUELE.   
-  
-Luogo del Sigillo. V. Il Guardasigilli VACCA.   
-  
-QUINTINO SELLA.   
-  
-  
+Con regolamento approvato per Regio Decreto sara' provveduto all'esecuzione della presente legge. 
+ 
+ Ordiniamo che la presente, munita del Sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Dato a Torino addi' 18 dicembre 1864. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli VACCA. 
+ 
+ QUINTINO SELLA.

@@ -1,16 +1,14 @@
-REGIO DECRETO 09 agosto 1865 n. 2431
-
-
-REGIO DECRETO 09 agosto 1865 n. 2431
-====================================
-
-Pel completamento delle liste elettorali politiche. (065U2431)
---------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/08/1865
+---
+tipo: REGIO DECRETO
+numero: 2431
+data: 1865-08-09
+titolo: "Pel completamento delle liste elettorali politiche. (065U2431)"
+urn: urn:nir:stato:regio.decreto:1865-08-09;2431
+codice_redazionale: 065U2431
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -42,42 +40,30 @@ Sulla proposta del Ministro dell'Interno;
 
 Sentito il parere del Consiglio di Stato;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Tosto seguita la pubblicazione del presente Decreto i Consigli comunali saranno convocati in via straordinaria al solo fine d'aggiungere sulle liste elettorali politiche quei cittadini che mediante la quota da essi dovuta nel corrente anno per l'imposta sui redditi della ricchezza mobile e le altre contribuzioni dirette loro accollate, verranno a pagare in complesso l'annuo censo rispettivamente stabilito dalla legge 17 dicembre 1860, n.° 4513, ed avranno gli altri requisiti dalla stessa Legge prescritti per essere elettori politici.
 
-  
-  
-Tosto seguita la pubblicazione del presente Decreto i Consigli comunali saranno convocati in via straordinaria al solo fine d'aggiungere sulle liste elettorali politiche quei cittadini che mediante la quota da essi dovuta nel corrente anno per l'imposta sui redditi della ricchezza mobile e le altre contribuzioni dirette loro accollate, verranno a pagare in complesso l'annuo censo rispettivamente stabilito dalla legge 17 dicembre 1860, n.° 4513, ed avranno gli altri requisiti dalla stessa Legge prescritti per essere elettori politici.   
+## Art. 2.
 
-Art. 2
-------
+I Consigli comunali procederanno alla operazione ordinata dal precedente articolo colla scorta dei ruoli dell'imposta sui redditi della ricchezza mobile ripartitasi pel secondo semestre 1864, calcolando pero' in ragione del quadruplo e quattro decimi la quota ivi assegnatasi a ciascun contribuente ed osservando nel resto tutte le norme stabilite dalla citata Legge elettorale politica per l'ordinaria annuale revisione delle liste.
 
-  
-  
-I Consigli comunali procederanno alla operazione ordinata dal precedente articolo colla scorta dei ruoli dell'imposta sui redditi della ricchezza mobile ripartitasi pel secondo semestre 1864, calcolando pero' in ragione del quadruplo e quattro decimi la quota ivi assegnatasi a ciascun contribuente ed osservando nel resto tutte le norme stabilite dalla citata Legge elettorale politica per l'ordinaria annuale revisione delle liste.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Questo Decreto sara' convertito in Legge tostoche' il Parlamento sara' riconvocato.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 9 agosto 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 16 agosto 1865   
-  
-Reg. 33 Atti del Governo a c.138. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-G. Lanza.   
+Questo Decreto sara' convertito in Legge tostoche' il Parlamento sara' riconvocato. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 9 agosto 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 16 agosto 1865 
+ 
+ Reg. 33 Atti del Governo a c.138. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ G. Lanza.

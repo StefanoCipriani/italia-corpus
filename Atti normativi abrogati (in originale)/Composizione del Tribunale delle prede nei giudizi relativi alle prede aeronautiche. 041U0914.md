@@ -1,16 +1,14 @@
-REGIO DECRETO 08 luglio 1941 n. 914
-
-
-REGIO DECRETO 08 luglio 1941 n. 914
-===================================
-
-Composizione del Tribunale delle prede nei giudizi relativi alle prede aeronautiche. (041U0914)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/09/1941
+---
+tipo: REGIO DECRETO
+numero: 914
+data: 1941-07-08
+titolo: "Composizione del Tribunale delle prede nei giudizi relativi alle prede aeronautiche. (041U0914)"
+urn: urn:nir:stato:regio.decreto:1941-07-08;914
+codice_redazionale: 041U0914
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,32 +22,24 @@ Visto il R. decreto 1° aprile 1941-XIX, n. 220, concernente la costituzione e l
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la marina e per l'aeronautica, d'intesa col Ministro per la grazia e giustizia; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per la marina e per l'aeronautica, d'intesa col Ministro per la grazia e giustizia; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
-
-  
-  
-Nei giudizi inerenti alle prede aeronautiche, fanno parte del Tribunale delle prede il direttore dell'aviazione civile e del traffico aereo, generale di divisione aerea Vincenzo Velardi e il generale di brigata aerea Filippo Aliquo' Mazzei, quali membri effettivi, nonche' i colonnelli dell'Aeronautica Spartaco Baccari e Alfredo Preceruti quali membri rispettivamente supplenti dei predetti.   
-  
-Il presente decreto entra in vigore dalla data della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 8 luglio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Grandi   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 8 settembre 1941-XIX   
-  
-Atti del Governo, registro 437, foglio 11. - Mancini   
-  
-  
+Nei giudizi inerenti alle prede aeronautiche, fanno parte del Tribunale delle prede il direttore dell'aviazione civile e del traffico aereo, generale di divisione aerea Vincenzo Velardi e il generale di brigata aerea Filippo Aliquo' Mazzei, quali membri effettivi, nonche' i colonnelli dell'Aeronautica Spartaco Baccari e Alfredo Preceruti quali membri rispettivamente supplenti dei predetti. 
+ 
+ Il presente decreto entra in vigore dalla data della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 8 luglio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Grandi 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 8 settembre 1941-XIX 
+ 
+ Atti del Governo, registro 437, foglio 11. - Mancini

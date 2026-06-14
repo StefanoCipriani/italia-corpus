@@ -1,16 +1,14 @@
-REGIO DECRETO 09 marzo 1879 n. 4767
-
-
-REGIO DECRETO 09 marzo 1879 n. 4767
-===================================
-
-centr+UMBERTO I (079U4767)
---------------------------
-
-Entrata in vigore del provvedimento: 02/04/1879
+---
+tipo: REGIO DECRETO
+numero: 4767
+data: 1879-03-09
+titolo: "centr+UMBERTO I (079U4767)"
+urn: urn:nir:stato:regio.decreto:1879-03-09;4767
+codice_redazionale: 079U4767
+vigente: true
+---
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
-----------------------------------------------
 
 RE D'ITALIA
 
@@ -26,23 +24,16 @@ Che quel comune dista da Villafranca 10 chilometri, ed alcune sue frazioni ne di
 
 Considerato che con la istituzione di una sezione elettorale in Veleggio si rende piu' facile l'esercizio del diritto elettorale ad un numero ragguardevole di elettori;
 
-Sulla
------
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Veleggio e' separato dalla sezione elettorale di Villafranca, e formera' una sezione distinta del Collegio elettorale di Isola della Scala.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 marzo 1879.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
+Il comune di Veleggio e' separato dalla sezione elettorale di Villafranca, e formera' una sezione distinta del Collegio elettorale di Isola della Scala. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 marzo 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.

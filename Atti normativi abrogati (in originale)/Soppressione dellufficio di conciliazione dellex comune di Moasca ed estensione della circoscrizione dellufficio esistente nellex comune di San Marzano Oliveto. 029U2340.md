@@ -1,49 +1,45 @@
-REGIO DECRETO 19 luglio 1929 n. 2340
+---
+tipo: REGIO DECRETO
+numero: 2340
+data: 1929-07-19
+titolo: "Soppressione dell'ufficio di conciliazione dell'ex comune di Moasca ed estensione della circoscrizione dell'ufficio esistente nell'ex comune di San Marzano Oliveto. (029U2340)"
+urn: urn:nir:stato:regio.decreto:1929-07-19;2340
+codice_redazionale: 029U2340
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 luglio 1929 n. 2340
-====================================
-
-Soppressione dell'ufficio di conciliazione dell'ex comune di Moasca ed estensione della circoscrizione dell'ufficio esistente nell'ex comune di San Marzano Oliveto. (029U2340)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/02/1930
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
-  
-RE D'ITALIA   
-  
-Visto il R. decreto 4 marzo 1929-VII, n. 366, col quale i comuni di Moasca e San Marzano Oliveto venivano riuniti in un solo Comune denominato San Marzano Moasca con capoluogo San Marzano Oliveto;   
-  
-Vista la deliberazione del commissario prefettizio di detto Comune con la quale si chiede che per tutto il territorio del comune di San Marzano Moasca funzioni un solo ufficio di conciliazione;   
-  
-Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino;   
-  
-Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;261~art1), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728;   
-  
-Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giustizia e gli affari di culto;   
-  
-Abbiamo decretato e decretiamo:   
-  
-L'ufficio di conciliazione dell'ex comune di Moasca e' soppresso e la circoscrizione dell'ufficio esistente nell'ex comune di San Marzano Oliveto e' estesa a tutto il territorio dell'attuale comune di San Marzano Moasca.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Anna di Valdieri, addi' 19 luglio 1929 - Anno VII   
-  
-VITTORIO EMANUELE.   
-  
-Rocco.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 31 gennaio 1930 - Anno VIII   
-  
-Atti del Governo, registro 292, foglio 145. - Mancini.   
-  
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Visto il R. decreto 4 marzo 1929-VII, n. 366, col quale i comuni di Moasca e San Marzano Oliveto venivano riuniti in un solo Comune denominato San Marzano Moasca con capoluogo San Marzano Oliveto; 
+ 
+ Vista la deliberazione del commissario prefettizio di detto Comune con la quale si chiede che per tutto il territorio del comune di San Marzano Moasca funzioni un solo ufficio di conciliazione; 
+ 
+ Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino; 
+ 
+ Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728; 
+ 
+ Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giustizia e gli affari di culto; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ L'ufficio di conciliazione dell'ex comune di Moasca e' soppresso e la circoscrizione dell'ufficio esistente nell'ex comune di San Marzano Oliveto e' estesa a tutto il territorio dell'attuale comune di San Marzano Moasca. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Anna di Valdieri, addi' 19 luglio 1929 - Anno VII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Rocco. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 31 gennaio 1930 - Anno VIII 
+ 
+ Atti del Governo, registro 292, foglio 145. - Mancini.

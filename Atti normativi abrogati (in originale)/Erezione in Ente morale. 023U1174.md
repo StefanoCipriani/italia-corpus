@@ -1,17 +1,13 @@
-REGIO DECRETO 13 maggio 1923 n. 1174
+---
+tipo: REGIO DECRETO
+numero: 1174
+data: 1923-05-13
+titolo: "Erezione in Ente morale. (023U1174)"
+urn: urn:nir:stato:regio.decreto:1923-05-13;1174
+codice_redazionale: 023U1174
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 maggio 1923 n. 1174
-====================================
-
-Erezione in Ente morale. (023U1174)
------------------------------------
-
-Entrata in vigore del provvedimento: 04/07/1923
-
-Art. 1
-------
-
-  
-N. 1174 Regio decreto 13 maggio 1923, col quale, sulla proposta del Ministro dell'interno, presidente del Consiglio dei ministri, il Ricovero-ospedale «Ragazzi», con sede nel comune di Massa Superiore, viene eretto in Ente morale sotto l'amministrazione della locale Congregazione di carita', e ne e' approvato lo statuto organico.   
-  
+N. 1174 Regio decreto 13 maggio 1923, col quale, sulla proposta del Ministro dell'interno, presidente del Consiglio dei ministri, il Ricovero-ospedale «Ragazzi», con sede nel comune di Massa Superiore, viene eretto in Ente morale sotto l'amministrazione della locale Congregazione di carita', e ne e' approvato lo statuto organico.

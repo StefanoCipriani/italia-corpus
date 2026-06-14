@@ -1,19 +1,15 @@
-REGIO DECRETO 30 ottobre 1913 n. 1306
+---
+tipo: REGIO DECRETO
+numero: 1306
+data: 1913-10-30
+titolo: "Erezione in Ente morale e relativa approvazione di statuto. (013U1306)"
+urn: urn:nir:stato:regio.decreto:1913-10-30;1306
+codice_redazionale: 013U1306
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 ottobre 1913 n. 1306
-=====================================
-
-Erezione in Ente morale e relativa approvazione di statuto. (013U1306)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/12/1913
-
-Art. 1
-------
-
-  
-N. 1306   
-  
-Regio decreto 30 ottobre 1913, col quale, sulla proposta del ministro per l'interno, il ricovero «Giuseppe Garibaldi», in Caravaggio (Bergamo), e' eretto in ente morale, con amministrazione autonoma, e ne e' approvato lo statuto organico.   
-  
+N. 1306 
+ 
+ Regio decreto 30 ottobre 1913, col quale, sulla proposta del ministro per l'interno, il ricovero «Giuseppe Garibaldi», in Caravaggio (Bergamo), e' eretto in ente morale, con amministrazione autonoma, e ne e' approvato lo statuto organico.

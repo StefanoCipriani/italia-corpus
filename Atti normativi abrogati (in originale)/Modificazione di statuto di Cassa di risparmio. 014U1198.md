@@ -1,19 +1,15 @@
-REGIO DECRETO 22 ottobre 1914 n. 1198
+---
+tipo: REGIO DECRETO
+numero: 1198
+data: 1914-10-22
+titolo: "Modificazione di statuto di Cassa di risparmio. (014U1198)"
+urn: urn:nir:stato:regio.decreto:1914-10-22;1198
+codice_redazionale: 014U1198
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 ottobre 1914 n. 1198
-=====================================
-
-Modificazione di statuto di Cassa di risparmio. (014U1198)
-----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/11/1914
-
-Art. 1
-------
-
-  
-N. 1198   
-  
-Regio Decreto 22 ottobre 1914, col quale, sulla proposta del ministro di agricoltura, industria e commercio, viene approvata una modificazione allo statuto della Cassa di risparmio di Padova.   
-  
+N. 1198 
+ 
+ Regio Decreto 22 ottobre 1914, col quale, sulla proposta del ministro di agricoltura, industria e commercio, viene approvata una modificazione allo statuto della Cassa di risparmio di Padova.

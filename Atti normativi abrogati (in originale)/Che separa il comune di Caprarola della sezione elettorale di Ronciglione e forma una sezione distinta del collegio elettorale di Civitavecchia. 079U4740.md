@@ -1,16 +1,14 @@
-REGIO DECRETO 13 febbraio 1879 n. 4740
-
-
-REGIO DECRETO 13 febbraio 1879 n. 4740
-======================================
-
-Che separa il comune di Caprarola della sezione elettorale di Ronciglione, e forma una sezione distinta del collegio elettorale di Civitavecchia. (079U4740)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/03/1879
+---
+tipo: REGIO DECRETO
+numero: 4740
+data: 1879-02-13
+titolo: "Che separa il comune di Caprarola della sezione elettorale di Ronciglione, e forma una sezione distinta del collegio elettorale di Civitavecchia. (079U4740)"
+urn: urn:nir:stato:regio.decreto:1879-02-13;4740
+codice_redazionale: 079U4740
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Che il detto comune dista da Ronciglione 7 chilometri, per cui riesce incomodo a
 
 Considerando che con la istituzione di una sezione elettorale in Caprarola si rende piu' facile l'esercizio del diritto elettorale ad un notevole numero di elettori;
 
-Sulla
------
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Caprarola e' separato dalla sezione elettorale di Ronciglione, e formera' una sezione distinta del Collegio elettorale di Civitavecchia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 febbraio 1879.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
+Il comune di Caprarola e' separato dalla sezione elettorale di Ronciglione, e formera' una sezione distinta del Collegio elettorale di Civitavecchia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 febbraio 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.

@@ -1,48 +1,35 @@
-REGIO DECRETO 31 luglio 1892 n. DLXXIX
+---
+tipo: REGIO DECRETO
+numero: DLXXIX
+data: 1892-07-31
+titolo: "Che concentra nella congregazione di carita' di Gessate (Milano) le opere pie Brambilla Ambrogio, Villa, Brambilla Bartolomeo, Lucioni, Gnecchi, Bramanti, Simonelli e Pirogalli. (9200579R)"
+urn: urn:nir:stato:regio.decreto:1892-07-31;579
+codice_redazionale: 9200579R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 luglio 1892 n. DLXXIX
-======================================
+Le opere pie Brambilla Ambrogio, Villa, Brambilla Bartolomeo, Lucioni, Gnecchi e Bramanti del comune di Gessate sono concentrate in quella congregazione di carita', salvo il rispetto degli oneri di culto.
 
-Che concentra nella congregazione di carita' di Gessate (Milano) le opere pie Brambilla Ambrogio, Villa, Brambilla Bartolomeo, Lucioni, Gnecchi, Bramanti, Simonelli e Pirogalli. (9200579R)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 10/09/1892
+E' parimenti concentrata l'opera pia Simonelli, attualmente gestita dalla congregazione di carita' di Milano, per la parte che riguarda il comune di Gessate.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Le opere pie Brambilla Ambrogio, Villa, Brambilla Bartolomeo, Lucioni, Gnecchi e Bramanti del comune di Gessate sono concentrate in quella congregazione di carita', salvo il rispetto degli oneri di culto.   
-  
-
-Art. 2
-------
-
-  
-  
-E' parimenti concentrata l'opera pia Simonelli, attualmente gestita dalla congregazione di carita' di Milano, per la parte che riguarda il comune di Gessate.   
-  
-
-Art. 3
-------
-
-  
-  
-La fondazione Pirogalli riconosciuta come avente carattere di beneficenza e' pur essa concentrata nella predetta congregazione di carita'.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 31 luglio 1892.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 19 agosto 1892.   
-  
-Reg. 187. Atti del Governo a f. 176. Gaffino.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Bonacci.   
-  
-G. Giolitti.   
-  
+La fondazione Pirogalli riconosciuta come avente carattere di beneficenza e' pur essa concentrata nella predetta congregazione di carita'. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 31 luglio 1892. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 19 agosto 1892. 
+ 
+ Reg. 187. Atti del Governo a f. 176. Gaffino. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Bonacci. 
+ 
+ G. Giolitti.

@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 11 gennaio 1923 n. 23
-
-
-REGIO DECRETO-LEGGE 11 gennaio 1923 n. 23
-=========================================
-
-Relativo alla proroga dei poteri del R. commissario per il Consorzio obbligatorio zolfifero siciliano. (023U0023)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/01/1923  
-Regio Decreto-Legge convertito dalla [L. 18 marzo 1926, n. 562](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-18;562) (in G.U. 03/05/1926, n. 102).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 23
+data: 1923-01-11
+titolo: "Relativo alla proroga dei poteri del R. commissario per il Consorzio obbligatorio zolfifero siciliano. (023U0023)"
+urn: urn:nir:stato:regio.decreto.legge:1923-01-11;23
+codice_redazionale: 023U0023
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -25,27 +22,20 @@ Ritenuta la necessita' che la gestione del Consorzio suddetto resti tuttora affi
 
 Sentito il Consiglio dei ministri;
 
-sulla
------
+sulla proposta del Nostro Ministro segretario di Stato per l'industria e il commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro segretario di Stato per l'industria e il commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La durata dei poteri del R. commissario per il Consorzio obbligatorio per l'industria zolfifera siciliana di cui all'[art. 32 della legge 30 giugno 1910, n. 361](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-06-30;361~art32), puo' essere prorogata con decreto del Nostro Ministro segretario di Stato per l'industria e il commercio, di concerto col Ministro delle finanze, fino a che non sara' provveduto alla costituzione della nuova Amministrazione del Consorzio stesso.   
-  
-Il presente decreto entrera' in vigore dal giorno successivo a quello della sua pubblicazione nella Gazzetta ufficiale del Regno e sara' presentato al Parlamento per la sua conversione in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 gennaio 1923.   
-  
-VITTORIO EMANUELE.   
-  
-MUSSOLINI - TEOFILO ROSSI   
-  
-Visto, il guardasigilli: OVIGLIO.   
-  
+La durata dei poteri del R. commissario per il Consorzio obbligatorio per l'industria zolfifera siciliana di cui all'[art. 32 della legge 30 giugno 1910, n. 361](Concernente%20provvedimenti%20per%20lindustria%20solfifera%20siciliana.%20010U0361.md), puo' essere prorogata con decreto del Nostro Ministro segretario di Stato per l'industria e il commercio, di concerto col Ministro delle finanze, fino a che non sara' provveduto alla costituzione della nuova Amministrazione del Consorzio stesso. 
+ 
+ Il presente decreto entrera' in vigore dal giorno successivo a quello della sua pubblicazione nella Gazzetta ufficiale del Regno e sara' presentato al Parlamento per la sua conversione in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 gennaio 1923. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ MUSSOLINI - TEOFILO ROSSI 
+ 
+ Visto, il guardasigilli: OVIGLIO.

@@ -1,20 +1,17 @@
-REGIO DECRETO 31 gennaio 1915 n. 203
+---
+tipo: REGIO DECRETO
+numero: 203
+data: 1915-01-31
+titolo: "Approvazione di disposizioni riguardanti un Consorzio idraulico. (015U0203)"
+urn: urn:nir:stato:regio.decreto:1915-01-31;203
+codice_redazionale: 015U0203
+vigente: true
+---
 
-
-REGIO DECRETO 31 gennaio 1915 n. 203
-====================================
-
-Approvazione di disposizioni riguardanti un Consorzio idraulico. (015U0203)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/03/1915
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-203. 
-  
-  
+203.
+
 Regio Decreto 31 gennaio 1915, col quale, sulla proposta del ministro dei lavori pubblici, sono approvate le disposizioni proibitive e penali contenute nel disciplinare annesso allo statuto organico del Consorzio idraulico di scolo, della provincia di Venezia, denominato Vallio e Meolo.

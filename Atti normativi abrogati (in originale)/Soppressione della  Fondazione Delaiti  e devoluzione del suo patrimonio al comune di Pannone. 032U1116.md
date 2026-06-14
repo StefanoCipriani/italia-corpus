@@ -1,19 +1,19 @@
-REGIO DECRETO 28 luglio 1932 n. 1116
+---
+tipo: REGIO DECRETO
+numero: 1116
+data: 1932-07-28
+titolo: "Soppressione della « Fondazione Delaiti » e devoluzione del suo patrimonio al comune di Pannone. (032U1116)"
+urn: urn:nir:stato:regio.decreto:1932-07-28;1116
+codice_redazionale: 032U1116
+vigente: true
+---
 
-
-REGIO DECRETO 28 luglio 1932 n. 1116
-====================================
-
-Soppressione della « Fondazione Delaiti » e devoluzione del suo patrimonio al comune di Pannone. (032U1116)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/09/1932
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1116. R. decreto 28 luglio 1932, col quale, sulla proposta del Ministro per l'educazione nazionale, la « Fondazione Delaiti » viene soppressa come ente autonomo ed il suo patrimonio e' devoluto al comune di Pannone come contributo nelle spese per l'adempimento dell'obbligo scolastico che per legge ad esso spetta.   
-Visto, il Guardasigilli: De Francisci.   
-Registrato alla Corte dei conti, addi' 31 agosto 1932 - Anno X
+1116.
+
+R. decreto 28 luglio 1932, col quale, sulla proposta del Ministro per l'educazione nazionale, la « Fondazione Delaiti » viene soppressa come ente autonomo ed il suo patrimonio e' devoluto al comune di Pannone come contributo nelle spese per l'adempimento dell'obbligo scolastico che per legge ad esso spetta. 
+ Visto, il Guardasigilli: De Francisci. 
+ Registrato alla Corte dei conti, addi' 31 agosto 1932 - Anno X

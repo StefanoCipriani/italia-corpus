@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 15 maggio 1941 n. 411
-
-
-REGIO DECRETO-LEGGE 15 maggio 1941 n. 411
-=========================================
-
-Maggiore assegnazione allo stato di previsione della spesa del Ministero dell'interno per l'esercizio finanziario 1940-41. (041U0411)
--------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/05/1941.  
-Regio Decreto-Legge convertito dalla [L. 14 settembre 1941, n. 1113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-09-14;1113) (in G.U. 15/10/1941, n. 244).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 411
+data: 1941-05-15
+titolo: "Maggiore assegnazione allo stato di previsione della spesa del Ministero dell'interno per l'esercizio finanziario 1940-41. (041U0411)"
+urn: urn:nir:stato:regio.decreto.legge:1941-05-15;411
+codice_redazionale: 041U0411
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -27,34 +24,26 @@ Ritenuta la necessita' di argenti misure di carattere finanziario;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Lo stanziamento del capitolo n. 84 «Spese per il servizio di investigazione politica» dello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1940-41, e' aumentato di L. 18.000.000.   
-  
-Questo decreto andra' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato alle Assemblee legislative per la sua conversione in legge.   
-  
-Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Tirana, addi' 15 maggio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 29 maggio 1941-XIX   
-  
-Atti del Governo, registro n. 433, foglio 125. - MANCINI   
-  
-  
+Lo stanziamento del capitolo n. 84 «Spese per il servizio di investigazione politica» dello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1940-41, e' aumentato di L. 18.000.000. 
+ 
+ Questo decreto andra' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato alle Assemblee legislative per la sua conversione in legge. 
+ 
+ Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Tirana, addi' 15 maggio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 29 maggio 1941-XIX 
+ 
+ Atti del Governo, registro n. 433, foglio 125. - MANCINI

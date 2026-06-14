@@ -1,19 +1,15 @@
-REGIO DECRETO 06 aprile 1862 n. CCCLVII
+---
+tipo: REGIO DECRETO
+numero: CCCLVII
+data: 1862-04-06
+titolo: "Che approva un regolamento per l'incanalamento delle acque pluviali dai tetti, e per la riforma delle imposte esterne delle case nel Comune di Busto-Arsizio. (6200357R)"
+urn: urn:nir:stato:regio.decreto:1862-04-06;357
+codice_redazionale: 6200357R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 06 aprile 1862 n. CCCLVII
-=======================================
-
-Che approva un regolamento per l'incanalamento delle acque pluviali dai tetti, e per la riforma delle imposte esterne delle case nel Comune di Busto-Arsizio. (6200357R)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/04/1862
-
-Art. 1
-------
-
-  
-Che approva un regolamento per l'incanalamento delle acque pluviali dai tetti delle case, e per la riforma delle imposte esterne delle case, deliberato dal Municipio di Busto-Arsizio (Provincia di Milano) in seduta del 22 maggio 1861.   
-  
-Torino 6 aprile 1862   
-  
+Che approva un regolamento per l'incanalamento delle acque pluviali dai tetti delle case, e per la riforma delle imposte esterne delle case, deliberato dal Municipio di Busto-Arsizio (Provincia di Milano) in seduta del 22 maggio 1861. 
+ 
+ Torino 6 aprile 1862

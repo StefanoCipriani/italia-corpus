@@ -1,16 +1,14 @@
-REGIO DECRETO-LEGGE 03 dicembre 1942 n. 1397
-
-
-REGIO DECRETO-LEGGE 03 dicembre 1942 n. 1397
-============================================
-
-Disposizioni per il pagamento dei titoli di spesa delle Amministrazioni statali mediante accreditamento in conto corrente fruttifero presso la Banca d'Italia. (042U1397)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/12/1942. Regio Decreto-Legge convertito dalla [L. 5 aprile 1943, n. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1943-04-05;213) (in G.U. 20/04/1943, n.91).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1397
+data: 1942-12-03
+titolo: "Disposizioni per il pagamento dei titoli di spesa delle Amministrazioni statali mediante accreditamento in conto corrente fruttifero presso la Banca d'Italia. (042U1397)"
+urn: urn:nir:stato:regio.decreto.legge:1942-12-03;1397
+codice_redazionale: 042U1397
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di dio e per volonta' della nazione
 
@@ -26,41 +24,30 @@ Considerato lo stato di necessita' derivante da causa di guerra;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Le Sezioni di Regia tesoreria hanno facolta' di pagare i titoli di spesa dello Stato, il cui importo singolo ecceda le lire 50.000, mediante accreditamento in conto corrente fruttifero presso la Banca d'Italia al nome dei creditori. 
+ 
+ Su domanda degli interessati la Banca d'Italia puo' girare le somme cosi' accreditate al conto di un Istituto di credito indicato da ciascun creditore.
 
-  
-  
-Le Sezioni di Regia tesoreria hanno facolta' di pagare i titoli di spesa dello Stato, il cui importo singolo ecceda le lire 50.000, mediante accreditamento in conto corrente fruttifero presso la Banca d'Italia al nome dei creditori.   
-  
-Su domanda degli interessati la Banca d'Italia puo' girare le somme cosi' accreditate al conto di un Istituto di credito indicato da ciascun creditore.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto avra' effetto dalla data della sua pubblicazione nella Gazzetta Ufficiale del Regno e verra' presentato alle Assemblee legislative per la sua conversione in legge.   
-  
-Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 dicembre 1942-XXI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 9 dicembre 1942-XXI   
-  
-Atti del Governo, registro 452, foglio 18. - MANCINI   
-  
-  
+Il presente decreto avra' effetto dalla data della sua pubblicazione nella Gazzetta Ufficiale del Regno e verra' presentato alle Assemblee legislative per la sua conversione in legge. 
+ 
+ Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 dicembre 1942-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 9 dicembre 1942-XXI 
+ 
+ Atti del Governo, registro 452, foglio 18. - MANCINI

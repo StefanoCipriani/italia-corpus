@@ -1,16 +1,14 @@
-REGIO DECRETO 24 ottobre 1869 n. 5328
-
-
-REGIO DECRETO 24 ottobre 1869 n. 5328
-=====================================
-
-Che dichiara provinciali alcune strade scorrenti nella Provincia di Pesaro e Urbino. (069U5328)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/12/1869
+---
+tipo: REGIO DECRETO
+numero: 5328
+data: 1869-10-24
+titolo: "Che dichiara provinciali alcune strade scorrenti nella Provincia di Pesaro e Urbino. (069U5328)"
+urn: urn:nir:stato:regio.decreto:1869-10-24;5328
+codice_redazionale: 069U5328
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -46,37 +44,22 @@ Che prima di conoscersi i risultati degli studi per il prolungamento della strad
 
 Che i ricorsi dei Municipi di Urbino ed Urbania non possono essere accolti, dappoiche' nella condizione attuale di viabilita' il tronco di strada da Urbino ad Urbania non ha i caratteri per essere classificato fra le strade provinciali;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate provinciali le undici strade nella Provincia di Pesaro e Urbino, indicate nell'Elenco che, visto d'ordine Nostro dal predetto Ministro, sta annesso al presente Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 24 ottobre 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 8 novembre 1869   
-  
-Reg. 49 Atti del Governo a c. 30. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Vigliani.   
-  
-A. Mordini.   
-  
-
-Elenco
-
-  
-Elenco delle strade provinciali di Pesaro e Urbino classificate tali con Reale decreto in data d'oggi.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=069U532800100010110001&dgu=1869-11-20&art.dataPubblicazioneGazzetta=1869-11-20&art.codiceRedazionale=069U5328)
-  
+Sono dichiarate provinciali le undici strade nella Provincia di Pesaro e Urbino, indicate nell'Elenco che, visto d'ordine Nostro dal predetto Ministro, sta annesso al presente Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 24 ottobre 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 8 novembre 1869 
+ 
+ Reg. 49 Atti del Governo a c. 30. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Vigliani. 
+ 
+ A. Mordini.

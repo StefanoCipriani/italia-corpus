@@ -1,16 +1,14 @@
-REGIO DECRETO 05 giugno 1890 n. 6886
-
-
-REGIO DECRETO 05 giugno 1890 n. 6886
-====================================
-
-Sulle obbligazioni della 5ª quota (anno 1889-90) della terza serie dei lavori per la sistemazione del Tevere. (090U6886)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/07/1890
+---
+tipo: REGIO DECRETO
+numero: 6886
+data: 1890-06-05
+titolo: "Sulle obbligazioni della 5ª quota (anno 1889-90) della terza serie dei lavori per la sistemazione del Tevere. (090U6886)"
+urn: urn:nir:stato:regio.decreto:1890-06-05;6886
+codice_redazionale: 090U6886
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,20 @@ Cattaneo, quale direttore capo dell'Ufficio di riscontro della Corte dei conti p
 
 Ritenuto che il suddetto funzionario e' stato collocato a riposo e gli e' succeduto il cav. avv. Pietro Leris;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le preindicate obbligazioni, invece di portare il fac-simile della firma «E. Cattaneo», quale direttore capo dell'Ufficio di Riscontro della Corte dei conti, porteranno il fac-simile della firma di «Leris».   
-  
-Il fac-simile di detta firma sara' identico a quello apposto al modello del titolo da depositarsi negli Archivi Generali del Regno, visto d'ordine Nostro, dal Ministro del Tesoro, assieme al presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Ragno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 giugno 1890.   
-  
-UMBERTO.   
-  
-Giolitti.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+Le preindicate obbligazioni, invece di portare il fac-simile della firma «E. Cattaneo», quale direttore capo dell'Ufficio di Riscontro della Corte dei conti, porteranno il fac-simile della firma di «Leris». 
+ 
+ Il fac-simile di detta firma sara' identico a quello apposto al modello del titolo da depositarsi negli Archivi Generali del Regno, visto d'ordine Nostro, dal Ministro del Tesoro, assieme al presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Ragno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 giugno 1890. 
+ 
+ UMBERTO. 
+ 
+ Giolitti. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

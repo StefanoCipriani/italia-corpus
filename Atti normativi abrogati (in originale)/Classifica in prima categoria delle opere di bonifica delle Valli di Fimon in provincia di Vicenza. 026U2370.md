@@ -1,22 +1,20 @@
-REGIO DECRETO 16 dicembre 1926 n. 2370
-
-
-REGIO DECRETO 16 dicembre 1926 n. 2370
-======================================
-
-Classifica in prima categoria delle opere di bonifica delle Valli di Fimon in provincia di Vicenza. (026U2370)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/02/1927
+---
+tipo: REGIO DECRETO
+numero: 2370
+data: 1926-12-16
+titolo: "Classifica in prima categoria delle opere di bonifica delle Valli di Fimon in provincia di Vicenza. (026U2370)"
+urn: urn:nir:stato:regio.decreto:1926-12-16;2370
+codice_redazionale: 026U2370
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256~art2) e [3 del testo unico 30 dicembre 1923, n. 3256](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256~art3), delle leggi sulle bonificazioni delle paludi e dei terreni paludosi;
+Visti gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256#art_2) e [3 del testo unico 30 dicembre 1923, n. 3256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256#art_3), delle leggi sulle bonificazioni delle paludi e dei terreni paludosi;
 
 Considerata la necessita' di provvedere alla bonifica del bacino denominato delle Valli di Fimon in provincia di Vicenza, il cui disordine idraulico produce ristagni ed allagamenti pericolosi alla pubblica igiene;
 
@@ -28,30 +26,23 @@ Che percio' sussistono gli estremi per la classifica in 1ª categoria delle oper
 
 Ritenuto che sull'ammissibilita' di tale classifica si sono favorevolmente pronunciati il Comitato tecnico del Magistrato alle acque di Venezia ed il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono classificate in 1ª categoria, a termini del combinato disposto degli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256~art2) e [3 del testo unico 30 dicembre 1923, n. 3256](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256~art3), le opere di bonifica del bacino Valli di Fimon in provincia di Vicenza.   
-  
-Il presente decreto avra' effetto dal giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 dicembre 1926.   
-  
-VITTORIO EMANUELE.   
-  
-Giuriati.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 29 gennaio 1927 - Anno V   
-Atti del Governo, registro 256, foglio 198. - Ferretti.   
-  
+Sono classificate in 1ª categoria, a termini del combinato disposto degli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256#art_2) e [3 del testo unico 30 dicembre 1923, n. 3256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:::1923-12-30;3256#art_3), le opere di bonifica del bacino Valli di Fimon in provincia di Vicenza. 
+ 
+ Il presente decreto avra' effetto dal giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 dicembre 1926. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giuriati. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 29 gennaio 1927 - Anno V  
+ Atti del Governo, registro 256, foglio 198. - Ferretti.

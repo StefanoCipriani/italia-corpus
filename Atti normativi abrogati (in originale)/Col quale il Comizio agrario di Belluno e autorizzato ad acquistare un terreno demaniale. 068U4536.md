@@ -1,16 +1,14 @@
-REGIO DECRETO 16 luglio 1868 n. 4536
-
-
-REGIO DECRETO 16 luglio 1868 n. 4536
-====================================
-
-Col quale il Comizio agrario di Belluno e' autorizzato ad acquistare un terreno demaniale. (068U4536)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/09/1868
+---
+tipo: REGIO DECRETO
+numero: 4536
+data: 1868-07-16
+titolo: "Col quale il Comizio agrario di Belluno e' autorizzato ad acquistare un terreno demaniale. (068U4536)"
+urn: urn:nir:stato:regio.decreto:1868-07-16;4536
+codice_redazionale: 068U4536
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,27 +22,20 @@ Veduto il parere del Consiglio di Stato, del pari favorevole al disegnato acquis
 
 Veduto l'articolo 3 del Reale Decreto 26 giugno 1864;
 
-Sulla
------
+Sulla proposta del Nostro Ministro dell'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro dell'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comizio agrario di Belluno e' autorizzato ad acquistare, nei modi di Legge, il podere detto Villanuova, gia' appartenente alle Benedettine Cisterciensi di Belluno.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 16 luglio 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 22 agosto 1868   
-Reg. 43 Atti del Governo a c. 131. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-Broglio.   
-  
+Il Comizio agrario di Belluno e' autorizzato ad acquistare, nei modi di Legge, il podere detto Villanuova, gia' appartenente alle Benedettine Cisterciensi di Belluno. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 16 luglio 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 22 agosto 1868 
+ Reg. 43 Atti del Governo a c. 131. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ Broglio.

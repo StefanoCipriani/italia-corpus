@@ -1,16 +1,14 @@
-REGIO DECRETO 17 novembre 1932 n. 1510
-
-
-REGIO DECRETO 17 novembre 1932 n. 1510
-======================================
-
-Revoca di precedenti decreti con i quali si era inflitta la perdita della cittadinanza italiana a diciassette persone. (032U1510)
----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/12/1932
+---
+tipo: REGIO DECRETO
+numero: 1510
+data: 1932-11-17
+titolo: "Revoca di precedenti decreti con i quali si era inflitta la perdita della cittadinanza italiana a diciassette persone. (032U1510)"
+urn: urn:nir:stato:regio.decreto:1932-11-17;1510
+codice_redazionale: 032U1510
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -52,27 +50,21 @@ Visti i Nostri decreti:
 
 17° - 30 settembre 1926, n. 1755, con cui e' stata inflitta la perdita della cittadinanza italiana a Triaca Ubaldo di Emilio e di Vianello Giulia, nato a Venezia il 1° agosto 1888;
 
-Vista la [legge 13 giugno 1912, n. 555](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-13;555), sulla cittadinanza, e la [legge 31 gennaio 1926, n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;108), che apporta alla prima modifiche e aggiunte;
+Vista la [legge 13 giugno 1912, n. 555](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-06-13;555), sulla cittadinanza, e la [legge 31 gennaio 1926, n. 108](Modificazioni%20ed%20aggiunte%20alla%20legge%2013%20giugno%201912%20n.%20555%20sulla%20cittadinanza.%20026U0108.md), che apporta alla prima modifiche e aggiunte;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Ministro Segretario di Stato per gli affari dell'interno, e Ministro Segretario di Stato per gli affari esteri; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Ministro Segretario di Stato per gli affari dell'interno, e Ministro Segretario di Stato per gli affari esteri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Nostri decreti predetti sono revocati a tutti gli effetti.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Roma, addi' 17 novembre 1932 - Anno XI   
-  
-VITTORIO EMANUELE.   
-  
-  
-Mussolini.   
-  
-Visto, il Guardasigilli: De Francisci.   
-Registrato alla Corte dei conti, addi' 30 novembre 1932 - Anno XI.   
-Atti del Governo, registro 326, foglio 132. - Mancini.   
+I Nostri decreti predetti sono revocati a tutti gli effetti. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 17 novembre 1932 - Anno XI 
+ 
+ VITTORIO EMANUELE. 
+ 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ Registrato alla Corte dei conti, addi' 30 novembre 1932 - Anno XI. 
+ Atti del Governo, registro 326, foglio 132. - Mancini.

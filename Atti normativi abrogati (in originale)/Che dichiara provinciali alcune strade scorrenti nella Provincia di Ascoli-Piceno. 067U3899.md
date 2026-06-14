@@ -1,16 +1,14 @@
-REGIO DECRETO 28 agosto 1867 n. 3899
-
-
-REGIO DECRETO 28 agosto 1867 n. 3899
-====================================
-
-Che dichiara provinciali alcune strade scorrenti nella Provincia di Ascoli-Piceno. (067U3899)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/10/1867
+---
+tipo: REGIO DECRETO
+numero: 3899
+data: 1867-08-28
+titolo: "Che dichiara provinciali alcune strade scorrenti nella Provincia di Ascoli-Piceno. (067U3899)"
+urn: urn:nir:stato:regio.decreto:1867-08-28;3899
+codice_redazionale: 067U3899
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,37 +30,22 @@ Udito il parere del Consiglio di Stato;
 
 Ritenuto l'obbligo nella Provincia di mantenere il tronco di strada esistente fra Santa Vittoria e Comunanza per Montefalcone, finche' non sia compiuto il nuovo tronco per la Valle dell'Aso, che verra' a sostituirsi a quello;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate provinciali per la Provincia di Ascoli-Piceno le tredici strade indicate nell'estratto dell'Elenco suaccennato, annesso al presente Decreto, visto d'ordine Nostro dal predetto Ministro.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 28 agosto 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 7 settembre 1867   
-  
-Reg. 40 Atti del Governo a c. 236. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Tecchio.   
-  
-Giovanola.   
-  
-
-Elenco
-
-  
-ELENCO delle strade provinciali della Provincia di Ascoli-Piceno dichiarate tali con Regio Decreto in data di oggi.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U389900100010110001&dgu=1867-09-25&art.dataPubblicazioneGazzetta=1867-09-25&art.codiceRedazionale=067U3899)
-  
+Sono dichiarate provinciali per la Provincia di Ascoli-Piceno le tredici strade indicate nell'estratto dell'Elenco suaccennato, annesso al presente Decreto, visto d'ordine Nostro dal predetto Ministro. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 28 agosto 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 7 settembre 1867 
+ 
+ Reg. 40 Atti del Governo a c. 236. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Tecchio. 
+ 
+ Giovanola.

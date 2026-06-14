@@ -1,21 +1,18 @@
-REGIO DECRETO 08 agosto 1861 n. CXXIII
+---
+tipo: REGIO DECRETO
+numero: CXXIII
+data: 1861-08-08
+titolo: "Che approva il regolamento di polizia rurale pel Comune di San Morizio Canavese. (6100123R)"
+urn: urn:nir:stato:regio.decreto:1861-08-08;123
+codice_redazionale: 6100123R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 agosto 1861 n. CXXIII
-======================================
-
-Che approva il regolamento di polizia rurale pel Comune di San Morizio Canavese. (6100123R)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/08/1861
-
-Art. 1
-------
-
-Che approva il regolamento di polizia rurale del Comune di S.  
+Che approva il regolamento di polizia rurale del Comune di S.
 Morizio Canavese deliberato il 25 aprile
 
-1861. 
-  
-  
+1861.
+
 Torino 8 agosto 1861

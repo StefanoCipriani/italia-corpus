@@ -1,16 +1,14 @@
-REGIO DECRETO 21 dicembre 1867 n. 4139
-
-
-REGIO DECRETO 21 dicembre 1867 n. 4139
-======================================
-
-Che determina le indennita' di cancelleria e di combustibile per i Comandi militari di Provincia e di Fortezza. (067U4139)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/01/1868
+---
+tipo: REGIO DECRETO
+numero: 4139
+data: 1867-12-21
+titolo: "Che determina le indennita' di cancelleria e di combustibile per i Comandi militari di Provincia e di Fortezza. (067U4139)"
+urn: urn:nir:stato:regio.decreto:1867-12-21;4139
+codice_redazionale: 067U4139
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Visto il Nostro Decreto del 25 dicembre 1866, con cui furono soppressi i Comandi
 
 Ritenuta la convenienza che, in attesa del riordinamento militare del Regno, vengano intanto stabilite le indennita' di cancelleria e di combustibile pei detti Comandi, nella misura richiesta dalle maggiori attribuzioni loro affidate in dipendenza del Nostro Decreto 23 dicembre precitato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le indennita' di cancelleria e di combustibile per ogni Comando militare di Provincia e di Fortezza, saranno dal 1° gennaio 1868 quelle determinate dalla Tabella annessa al presente Decreto, da Noi approvata e d'ordine Nostro firmata dal Ministro della Guerra.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 21 dicembre 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi 21 dicembre 1867   
-  
-Reg. 41 Atti del Governo a c. 222. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli A. Mari.   
-  
-E. Bertole-Viale.   
-  
+Le indennita' di cancelleria e di combustibile per ogni Comando militare di Provincia e di Fortezza, saranno dal 1° gennaio 1868 quelle determinate dalla Tabella annessa al presente Decreto, da Noi approvata e d'ordine Nostro firmata dal Ministro della Guerra. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 21 dicembre 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi 21 dicembre 1867 
+ 
+ Reg. 41 Atti del Governo a c. 222. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli A. Mari. 
+ 
+ E. Bertole-Viale.

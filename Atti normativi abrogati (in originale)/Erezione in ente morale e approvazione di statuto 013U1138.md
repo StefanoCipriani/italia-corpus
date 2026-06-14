@@ -1,19 +1,15 @@
-REGIO DECRETO 08 settembre 1913 n. 1138
+---
+tipo: REGIO DECRETO
+numero: 1138
+data: 1913-09-08
+titolo: "Erezione in ente morale e approvazione di statuto (013U1138)"
+urn: urn:nir:stato:regio.decreto:1913-09-08;1138
+codice_redazionale: 013U1138
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 settembre 1913 n. 1138
-=======================================
-
-Erezione in ente morale e approvazione di statuto (013U1138)
-------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/10/1913
-
-Art. 1
-------
-
-  
-N. 1138   
-  
-Regio Decreto 8 settembre 1913, col quale, sulla proposta del ministro dell'interno, il legato intitolato «Fondazione Lelio Della Torre» eretta dai figli avv. Michele ed Eucardio, con sede in Cuneo, e' riconosciuto ente morale, con amministrazione autonoma e ne e' approvato lo statuto organico.   
-  
+N. 1138 
+ 
+ Regio Decreto 8 settembre 1913, col quale, sulla proposta del ministro dell'interno, il legato intitolato «Fondazione Lelio Della Torre» eretta dai figli avv. Michele ed Eucardio, con sede in Cuneo, e' riconosciuto ente morale, con amministrazione autonoma e ne e' approvato lo statuto organico.

@@ -1,16 +1,14 @@
-REGIO DECRETO 21 gennaio 1883 n. 1205
-
-
-REGIO DECRETO 21 gennaio 1883 n. 1205
-=====================================
-
-Che aggiunge alla ferrovia Castellamare-Cancello il tratto da Torre Annunziata a Boscoreale. (083U1205)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/03/1883
+---
+tipo: REGIO DECRETO
+numero: 1205
+data: 1883-01-21
+titolo: "Che aggiunge alla ferrovia Castellamare-Cancello il tratto da Torre Annunziata a Boscoreale. (083U1205)"
+urn: urn:nir:stato:regio.decreto:1883-01-21;1205
+codice_redazionale: 083U1205
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,27 +22,20 @@ Vista la deliberazione 20 dicembre 1880, colla quale il Consiglio comunale di To
 
 Ritenuto che il Consorzio accolse i voti della provincia e dei comuni suddetti, presentando all' approvazione del Ministero dei Lavori Pubblici il progetto d'arte del tronco Torre Annunziata-Passanti, con una spesa di lire 1,638,000;
 
-Visti i voti [29 marzo 1882 del Consiglio di Stato](https://e-justice.europa.eu/ecli/ECLI::::), [23 settembre 1882](https://e-justice.europa.eu/ecli/ECLI::::) del Consiglio superiore dei lavori pubblici;
+Visti i voti 29 marzo 1882 del Consiglio di Stato, 23 settembre 1882 del Consiglio superiore dei lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato, pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato, pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nella ferrovia di 4ª categoria Castellammare-Cancello-Gragnano-Scafati sara' aggiunto il tratto da Torre Annunziata a Boscoreale o Passanti, e la relativa spesa per la quota spettante alle provincie e comuni interessati a termini di legge sara' ripartita fra gli Enti consorziati, giusta il [R. decreto 30 luglio 1882, n. 931](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-07-30;931) (Serie 3ª).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 gennaio 1883.   
-  
-UMBERTO.   
-  
-A. Baccarini.   
-  
-Visto, Il Guardasigilli: G. Zanardelli.   
-  
+Nella ferrovia di 4ª categoria Castellammare-Cancello-Gragnano-Scafati sara' aggiunto il tratto da Torre Annunziata a Boscoreale o Passanti, e la relativa spesa per la quota spettante alle provincie e comuni interessati a termini di legge sara' ripartita fra gli Enti consorziati, giusta il [R. decreto 30 luglio 1882, n. 931](Che%20costituisce%20un%20consorzio%20per%20la%20costruzione%20duna%20ferrovia%20Castellammare-Cancello-Gragnano-Scafati.%20082U0931.md) (Serie 3ª). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 21 gennaio 1883. 
+ 
+ UMBERTO. 
+ 
+ A. Baccarini. 
+ 
+ Visto, Il Guardasigilli: G. Zanardelli.

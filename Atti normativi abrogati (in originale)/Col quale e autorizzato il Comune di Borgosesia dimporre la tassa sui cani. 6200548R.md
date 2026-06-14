@@ -1,19 +1,15 @@
-REGIO DECRETO 05 ottobre 1862 n. DXLVIII
+---
+tipo: REGIO DECRETO
+numero: DXLVIII
+data: 1862-10-05
+titolo: "Col quale e' autorizzato il Comune di Borgosesia d'imporre la tassa sui cani. (6200548R)"
+urn: urn:nir:stato:regio.decreto:1862-10-05;548
+codice_redazionale: 6200548R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 ottobre 1862 n. DXLVIII
-========================================
-
-Col quale e' autorizzato il Comune di Borgosesia d'imporre la tassa sui cani. (6200548R)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/10/1862
-
-Art. 1
-------
-
-  
-Portante autorizzazione al Comune di Borgosesia d'imporre la tassa sui cani.   
-  
-Torino 5 ottobre 1862   
-  
+Portante autorizzazione al Comune di Borgosesia d'imporre la tassa sui cani. 
+ 
+ Torino 5 ottobre 1862

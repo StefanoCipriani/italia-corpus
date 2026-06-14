@@ -1,16 +1,14 @@
-REGIO DECRETO 26 luglio 1885 n. 3328
-
-
-REGIO DECRETO 26 luglio 1885 n. 3328
-====================================
-
-Che respinge le opposizioni avanzate dai comuni di Atena Lucana e di Colliano, relative alla provincialita' del tronco di strada Magliano-Stio. (085U3328)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/10/1885
+---
+tipo: REGIO DECRETO
+numero: 3328
+data: 1885-07-26
+titolo: "Che respinge le opposizioni avanzate dai comuni di Atena Lucana e di Colliano, relative alla provincialita' del tronco di strada Magliano-Stio. (085U3328)"
+urn: urn:nir:stato:regio.decreto:1885-07-26;3328
+codice_redazionale: 085U3328
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -34,33 +32,22 @@ Visti gli articoli 13 e 14 della legge 20 marzo 1865, allegato F;
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Le opposizioni avanzate dai comuni di Atena-Lucana e Colliano (con le rispettive deliberazioni consigliari in data 11 e 15 marzo 1885) contro il deliberato 27 novembre 1884 del Consiglio provinciale di Salerno sono respinte.
 
-  
-  
-Le opposizioni avanzate dai comuni di Atena-Lucana e Colliano (con le rispettive deliberazioni consigliari in data 11 e 15 marzo 1885) contro il deliberato 27 novembre 1884 del Consiglio provinciale di Salerno sono respinte.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il tronco Magliano-Stio e' aggiunto all'elenco delle strade provinciali di Salerno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato Monza, addi' 26 luglio 1885.   
-  
-UMBERTO.   
-  
-Genala.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+Il tronco Magliano-Stio e' aggiunto all'elenco delle strade provinciali di Salerno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato Monza, addi' 26 luglio 1885. 
+ 
+ UMBERTO. 
+ 
+ Genala. 
+ 
+ Visto, Il Guardasigilli: Tajani.

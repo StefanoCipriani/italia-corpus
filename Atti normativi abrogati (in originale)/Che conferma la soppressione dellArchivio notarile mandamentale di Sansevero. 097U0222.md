@@ -1,16 +1,14 @@
-REGIO DECRETO 08 giugno 1897 n. 222
-
-
-REGIO DECRETO 08 giugno 1897 n. 222
-===================================
-
-Che conferma la soppressione dell'Archivio notarile mandamentale di Sansevero. (097U0222)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/07/1897
+---
+tipo: REGIO DECRETO
+numero: 222
+data: 1897-06-08
+titolo: "Che conferma la soppressione dell'Archivio notarile mandamentale di Sansevero. (097U0222)"
+urn: urn:nir:stato:regio.decreto:1897-06-08;222
+codice_redazionale: 097U0222
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,25 +20,18 @@ Visto l'altro Nostro decreto del 22 novembre 1896 n. 524, col quale, in seguito 
 
 Vista la decisione del 10 aprile 1897, con la quale la 4ª sezione del Consiglio di Stato, pronunciando in merito, ha rigettato il ricorso del Conservatore predetto;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' revocato il Nostro decreto del 22 novembre 1896 n. 524, col quale venne sospesa l'esecuzione del precedente Nostro decreto del 24 settembre dello stesso anno n. 442, e resta quindi ferma l'ordinata soppressione dell'Archivio notarile mandamentale di Sansevero.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 giugno 1897.   
-  
-UMBERTO.   
-  
-G. Costa.   
-  
-Visto, Il Guardasigilli: G. Costa.   
-  
+E' revocato il Nostro decreto del 22 novembre 1896 n. 524, col quale venne sospesa l'esecuzione del precedente Nostro decreto del 24 settembre dello stesso anno n. 442, e resta quindi ferma l'ordinata soppressione dell'Archivio notarile mandamentale di Sansevero. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 giugno 1897. 
+ 
+ UMBERTO. 
+ 
+ G. Costa. 
+ 
+ Visto, Il Guardasigilli: G. Costa.

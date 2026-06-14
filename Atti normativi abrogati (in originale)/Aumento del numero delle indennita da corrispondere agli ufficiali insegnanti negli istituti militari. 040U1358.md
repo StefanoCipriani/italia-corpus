@@ -1,16 +1,14 @@
-REGIO DECRETO 27 luglio 1940 n. 1358
-
-
-REGIO DECRETO 27 luglio 1940 n. 1358
-====================================
-
-Aumento del numero delle indennita' da corrispondere agli ufficiali insegnanti negli istituti militari. (040U1358)
-------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/10/1940
+---
+tipo: REGIO DECRETO
+numero: 1358
+data: 1940-07-27
+titolo: "Aumento del numero delle indennita' da corrispondere agli ufficiali insegnanti negli istituti militari. (040U1358)"
+urn: urn:nir:stato:regio.decreto:1940-07-27;1358
+codice_redazionale: 040U1358
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,37 +30,28 @@ Udito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'art. 1 del R. decreto 7 giugno 1938-XVI, n. 1188, e' sostituito dal seguente: 
+ 
+ «Il numero delle indennita' d'insegnamento resta globalmente fissato in 71 di prima categoria, 95 di seconda categoria e 108 di terza categoria, con facolta' al Ministero della guerra di ripartirle fra i singoli istituti e corsi».
 
-  
-  
-L'art. 1 del R. decreto 7 giugno 1938-XVI, n. 1188, e' sostituito dal seguente:   
-  
-«Il numero delle indennita' d'insegnamento resta globalmente fissato in 71 di prima categoria, 95 di seconda categoria e 108 di terza categoria, con facolta' al Ministero della guerra di ripartirle fra i singoli istituti e corsi».   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Le disposizioni del presente decreto hanno effetto dal 1° ottobre 1940-XVIII.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 luglio 1940-XVIII,   
-  
-VITTORIO EMANUELE   
-  
-MUSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 2 ottobre 1940-XVIII   
-  
-Atti del Governo, registro 426, foglio 6. - MANCINI   
+Le disposizioni del presente decreto hanno effetto dal 1° ottobre 1940-XVIII. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 luglio 1940-XVIII, 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 2 ottobre 1940-XVIII 
+ 
+ Atti del Governo, registro 426, foglio 6. - MANCINI

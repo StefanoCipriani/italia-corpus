@@ -1,19 +1,15 @@
-REGIO DECRETO 24 luglio 1905 n. CCVIII
+---
+tipo: REGIO DECRETO
+numero: CCVIII
+data: 1905-07-24
+titolo: "Approvazione per applicazione di tassa di famiglia. (0500208R)"
+urn: urn:nir:stato:regio.decreto:1905-07-24;208
+codice_redazionale: 0500208R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 luglio 1905 n. CCVIII
-======================================
-
-Approvazione per applicazione di tassa di famiglia. (0500208R)
---------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/08/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CCVIII (Dato a Racconigi, il 24 luglio 1905), col quale e' data facolta' al comune di Biella di applicare, nel biennio 1905-906, la tassa di famiglia col limite massimo di L. 500 (cinquecento).   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CCVIII (Dato a Racconigi, il 24 luglio 1905), col quale e' data facolta' al comune di Biella di applicare, nel biennio 1905-906, la tassa di famiglia col limite massimo di L. 500 (cinquecento).

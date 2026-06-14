@@ -1,48 +1,40 @@
-LEGGE 20 marzo 1940 n. 291
+---
+tipo: LEGGE
+numero: 291
+data: 1940-03-20
+titolo: "Assegnazione di contingenti annui per alcuni prodotti di origine delle Isole italiane dell'Egeo da ammettersi alla importazione in esenzione dal dazio doganale. (040U0291)"
+urn: urn:nir:stato:legge:1940-03-20;291
+codice_redazionale: 040U0291
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 20 marzo 1940 n. 291
-==========================
+All'elenco delle merci di origine delle Isole italiane dell'Egeo, ammesse alla importazione nel Regno, in esenzione del dazio doganale, nei limiti del quantitativo annuo per ciascuna di esse indicato, sono aggiunte le seguenti: 
+ 
+ 
 
-Assegnazione di contingenti annui per alcuni prodotti di origine delle Isole italiane dell'Egeo da ammettersi alla importazione in esenzione dal dazio doganale. (040U0291)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+voce ex-125: oli vegetali diversi da quelli di oliva (esclusi gli
+oli concreti) . . . . . . . . . . . . . . . . . . . . .Q.li 2.000
 
-Entrata in vigore del provvedimento: 01/05/1940
+ voce ex-645: essenza di trementina. . . . . . . . . . » 3.000
 
-Art. 1
-------
+ voce ex-655-a): colofonia. . . . . . . . . . . . . . » 10.000
 
-  
-  
-All'elenco delle merci di origine delle Isole italiane dell'Egeo, ammesse alla importazione nel Regno, in esenzione del dazio doganale, nei limiti del quantitativo annuo per ciascuna di esse indicato, sono aggiunte le seguenti:   
-  
-  
-  
-voce ex-125: oli vegetali diversi da quelli di oliva (esclusi gli  
-oli concreti) . . . . . . . . . . . . . . . . . . . . .Q.li 2.000  
-  
-voce ex-645: essenza di trementina. . . . . . . . . . » 3.000  
-  
-voce ex-655-a): colofonia. . . . . . . . . . . . . . » 10.000  
-  
-Prodotti delle Piccole Industrie Egee:  
-  
-Tessuti di seta in scialli e tappeti. . . . . . . . . » 10  
-  
+ Prodotti delle Piccole Industrie Egee:
 
-Art. 2
-------
+ Tessuti di seta in scialli e tappeti. . . . . . . . . » 10
 
-  
-  
-La presente legge entrera' in vigore lo stesso giorno della sua pubblicazione nella Gazzetta Ufficiale.   
-  
-Ordiniamo che la presente, munita del sigillo dello Stato sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a San Rossore, addi' 20 marzo 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - CIANO - DI REVEL - TASSINARI - RICCARDI - RICCI   
-  
-Visto, il Guardasigilli-GRANDI   
+## Art. 2.
+
+La presente legge entrera' in vigore lo stesso giorno della sua pubblicazione nella Gazzetta Ufficiale. 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a San Rossore, addi' 20 marzo 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - CIANO - DI REVEL - TASSINARI - RICCARDI - RICCI 
+ 
+ Visto, il Guardasigilli-GRANDI

@@ -1,21 +1,17 @@
-REGIO DECRETO 02 agosto 1897 n. CCXL
+---
+tipo: REGIO DECRETO
+numero: CCXL
+data: 1897-08-02
+titolo: "Che erige in ente morale l'opera pia Giovanni e Luigi Maccia in Milano. (9700240R)"
+urn: urn:nir:stato:regio.decreto:1897-08-02;240
+codice_redazionale: 9700240R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 agosto 1897 n. CCXL
-====================================
-
-Che erige in ente morale l'opera pia Giovanni e Luigi Maccia in Milano. (9700240R)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/09/1897
-
-Art. 1
-------
-
-  
-Col quale si costituisce in corpo morale l'opera pia Giovanni e Luigi Maccia in Milano, e se ne approva lo statuto organico. - Firmato UMBERTO - Controfirmato Rudini' - Visto Rudini'.   
-  
-Registrato alla Corte dei Conti addi' 17 agosto 1897.   
-  
-Reg. 212. Atti del Governo a f. 116.   
-  
+Col quale si costituisce in corpo morale l'opera pia Giovanni e Luigi Maccia in Milano, e se ne approva lo statuto organico. - Firmato UMBERTO - Controfirmato Rudini' - Visto Rudini'. 
+ 
+ Registrato alla Corte dei Conti addi' 17 agosto 1897. 
+ 
+ Reg. 212. Atti del Governo a f. 116.

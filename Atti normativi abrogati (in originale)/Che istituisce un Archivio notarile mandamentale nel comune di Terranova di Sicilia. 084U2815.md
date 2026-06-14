@@ -1,16 +1,14 @@
-REGIO DECRETO 07 dicembre 1884 n. 2815
-
-
-REGIO DECRETO 07 dicembre 1884 n. 2815
-======================================
-
-Che istituisce un Archivio notarile mandamentale nel comune di Terranova di Sicilia. (084U2815)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/01/1885
+---
+tipo: REGIO DECRETO
+numero: 2815
+data: 1884-12-07
+titolo: "Che istituisce un Archivio notarile mandamentale nel comune di Terranova di Sicilia. (084U2815)"
+urn: urn:nir:stato:regio.decreto:1884-12-07;2815
+codice_redazionale: 084U2815
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,24 +18,18 @@ Visti gli articoli 3, 101 e 105 del testo unico delle leggi sul riordinamento de
 
 Vista la domanda inoltrata dal comune di Terranova di Sicilia, unico interessato, per la istituzione di un Archivio notarile mandamentale in quel luogo, e l'analoga deliberazione debitamente approvata dalla Deputazione provinciale di Caltanissetta;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un Archivio notarile mandamentale nel comune di Terranova di Sicilia, distretto di Caltanissetta.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 dicembre 1884.   
-  
-UMBERTO.   
-  
-E. Pessina.   
-  
-Visto, Il Guardasigilli: Pessina.   
+E' istituito un Archivio notarile mandamentale nel comune di Terranova di Sicilia, distretto di Caltanissetta. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 dicembre 1884. 
+ 
+ UMBERTO. 
+ 
+ E. Pessina. 
+ 
+ Visto, Il Guardasigilli: Pessina.

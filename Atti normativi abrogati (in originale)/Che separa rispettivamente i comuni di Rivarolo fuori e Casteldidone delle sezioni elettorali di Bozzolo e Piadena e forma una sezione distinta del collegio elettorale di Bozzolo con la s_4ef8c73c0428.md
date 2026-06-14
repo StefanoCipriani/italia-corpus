@@ -1,16 +1,14 @@
-REGIO DECRETO 13 febbraio 1879 n. 4742
-
-
-REGIO DECRETO 13 febbraio 1879 n. 4742
-======================================
-
-Che separa rispettivamente i comuni di Rivarolo fuori e Casteldidone delle sezioni elettorali di Bozzolo e Piadena, e forma una sezione distinta del collegio elettorale di Bozzolo con la sede a Rivarolo fuori. (079U4742)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/03/1879
+---
+tipo: REGIO DECRETO
+numero: 4742
+data: 1879-02-13
+titolo: "Che separa rispettivamente i comuni di Rivarolo fuori e Casteldidone delle sezioni elettorali di Bozzolo e Piadena, e forma una sezione distinta del collegio elettorale di Bozzolo con la sede a Rivarolo fuori. (079U4742)"
+urn: urn:nir:stato:regio.decreto:1879-02-13;4742
+codice_redazionale: 079U4742
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Che Rivarolo Fuori dista 6 chilometri da Bozzolo e Casteldidone ne dista 9 da Pi
 
 Considerato che con la istituzione di una sezione elettorale a Rivarolo Fuori si rende piu' facile ad un numero notevole di elettori l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Rivarolo Fuori e Casteldidone sono rispettivamente separati dalle sezioni elettorali di' Bozzolo e Piadena, e formeranno una sezione distinta del Collegio elettorale di Bozzolo, con la sede a Rivarolo Fuori.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 febbraio 1879.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
+I comuni di Rivarolo Fuori e Casteldidone sono rispettivamente separati dalle sezioni elettorali di' Bozzolo e Piadena, e formeranno una sezione distinta del Collegio elettorale di Bozzolo, con la sede a Rivarolo Fuori. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 febbraio 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.

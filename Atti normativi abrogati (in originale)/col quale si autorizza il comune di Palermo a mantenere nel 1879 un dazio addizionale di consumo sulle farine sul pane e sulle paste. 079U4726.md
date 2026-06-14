@@ -1,16 +1,14 @@
-REGIO DECRETO 09 febbraio 1879 n. 4726
-
-
-REGIO DECRETO 09 febbraio 1879 n. 4726
-======================================
-
-col quale si autorizza il comune di Palermo a mantenere nel 1879 un dazio addizionale di consumo sulle farine, sul pane e sulle paste. (079U4726)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/03/1879
+---
+tipo: REGIO DECRETO
+numero: 4726
+data: 1879-02-09
+titolo: "col quale si autorizza il comune di Palermo a mantenere nel 1879 un dazio addizionale di consumo sulle farine, sul pane e sulle paste. (079U4726)"
+urn: urn:nir:stato:regio.decreto:1879-02-09;4726
+codice_redazionale: 079U4726
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,30 +18,30 @@ Vista la deliberazione del 9 novembre 1878, con cui il consiglio comunale di Pal
 
 Visto il parere emesso dalla deputazione provinciale di Palermo in senso favorevole al mantenimento dell'addizionale in tale misura;
 
-Visto l'[articolo 6 del decreto legislativo 28 giugno 1866, n. 3018](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1866-06-28;3018~art6), e l'articolo 11 dell'allegato L alla [legge 11 agosto 1870, n. 5784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784);
+Visto l'[articolo 6 del decreto legislativo 28 giugno 1866, n. 3018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1866-06-28;3018#art_6), e l'articolo 11 dell'allegato L alla [legge 11 agosto 1870, n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md);
 
-Sulla
------
+Sulla proposta del ministro delle finanze; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del ministro delle finanze; Abbiamo ordinato ed ordiniamo quanto segue:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il comune di Palermo e' autorizzato a riscuotere nel 1879 un dazio addizionale di consumo di lire
 
-5. 50 al quintale sulle farine grezze, ossia non abburattate, sul pane e sulle paste; e di lire
+5.
 
-6. 85 pure al quintale sulle farine purificate, ossia abburattate.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 9 febbraio 1879.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 17 febbraio 1879   
-Reg. 99 Atti del Governo a f. 93. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli D. Tajani.   
-  
-A. Magliani.
+50 al quintale sulle farine grezze, ossia non abburattate, sul pane e sulle paste; e di lire
+
+6.
+
+85 pure al quintale sulle farine purificate, ossia abburattate. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 9 febbraio 1879. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 17 febbraio 1879 
+ Reg. 99 Atti del Governo a f. 93. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli D. Tajani. 
+ 
+ A. Magliani.

@@ -1,16 +1,14 @@
-REGIO DECRETO 18 ottobre 1899 n. 432
-
-
-REGIO DECRETO 18 ottobre 1899 n. 432
-====================================
-
-Col quale viene prorogata la durata degli esperimenti diretti ad accertare gli effetti della pesca con reti ed altri apparecchi a strascico. (099U0432)
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/01/1900
+---
+tipo: REGIO DECRETO
+numero: 432
+data: 1899-10-18
+titolo: "Col quale viene prorogata la durata degli esperimenti diretti ad accertare gli effetti della pesca con reti ed altri apparecchi a strascico. (099U0432)"
+urn: urn:nir:stato:regio.decreto:1899-10-18;432
+codice_redazionale: 099U0432
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,32 +20,22 @@ Considerata l'opportunita' di prolungare la durata di detti esperimenti, per meg
 
 Visti gli atti della Reale Commissione Consultiva per la pesca (sessione 1898);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La durata del divieto stabilito dal [R. decreto 18 ottobre 1896, n. 488](Sul%20divieto%20della%20pesca%20nei%20golfi%20di%20Termini%20Imerese%20Palermo%20e%20Castellammare%20Trapani%20con%20alcune%20specialita%20di%20reti.%20096U0488.md), della pesca con reti ed altri apparecchi a strascico, tirati da galleggianti o da qualsiasi punto della costa e del lido, resta prorogata a tutto gennaio 1900, salva la facolta' di prolungare, fino al termine che sara' riconosciuto necessario, la durata del divieto stesso in seguito agli studi all'uopo intrapresi.
 
-  
-  
-La durata del divieto stabilito dal [R. decreto 18 ottobre 1896, n. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-10-18;488), della pesca con reti ed altri apparecchi a strascico, tirati da galleggianti o da qualsiasi punto della costa e del lido, resta prorogata a tutto gennaio 1900, salva la facolta' di prolungare, fino al termine che sara' riconosciuto necessario, la durata del divieto stesso in seguito agli studi all'uopo intrapresi.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Restano immutate tutte le altre disposizioni stabilite col [R. decreto 18 ottobre 1896, n. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-10-18;488).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 18 ottobre 1899.   
-  
-UMBERTO.   
-  
-A. Salandra.   
-  
-Visto, Il Guardasigilli: A. Bonasi.   
-  
+Restano immutate tutte le altre disposizioni stabilite col [R. decreto 18 ottobre 1896, n. 488](Sul%20divieto%20della%20pesca%20nei%20golfi%20di%20Termini%20Imerese%20Palermo%20e%20Castellammare%20Trapani%20con%20alcune%20specialita%20di%20reti.%20096U0488.md). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 18 ottobre 1899. 
+ 
+ UMBERTO. 
+ 
+ A. Salandra. 
+ 
+ Visto, Il Guardasigilli: A. Bonasi.

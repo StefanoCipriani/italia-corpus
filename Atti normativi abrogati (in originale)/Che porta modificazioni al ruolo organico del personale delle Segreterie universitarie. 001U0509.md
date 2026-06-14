@@ -1,16 +1,14 @@
-REGIO DECRETO 08 dicembre 1901 n. 509
-
-
-REGIO DECRETO 08 dicembre 1901 n. 509
-=====================================
-
-Che porta modificazioni al ruolo organico del personale delle Segreterie universitarie. (001U0509)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/01/1902
+---
+tipo: REGIO DECRETO
+numero: 509
+data: 1901-12-08
+titolo: "Che porta modificazioni al ruolo organico del personale delle Segreterie universitarie. (001U0509)"
+urn: urn:nir:stato:regio.decreto:1901-12-08;509
+codice_redazionale: 001U0509
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,28 +20,21 @@ Riconosciuta l'opportunita' di elevare lo stipendio del Direttore di Segreteria 
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al ruolo organico del personale delle Segreterie Universitarie, approvato col [R. decreto 8 novembre 1901, n. 468](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-11-08;468), sono state approvate le seguenti modificazioni:   
-  
-Lo stipendio del Direttore di 1ª classe e' elevato a lire seimila (L. 6000), riportando al numero di 6 rispettivamente i posti delle classi a lire cinquemila (L. 5000) e quattromilacinquecento (L. 4500).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 dicembre 1901.   
-  
-VITTORIO EMANUELE.   
-  
-N. Nasi.   
-G. Zanardelli.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.   
-  
+Al ruolo organico del personale delle Segreterie Universitarie, approvato col [R. decreto 8 novembre 1901, n. 468](Relativo%20al%20riordinamento%20del%20personale%20dei%20vari%20Uffici%20dipendenti%20dal%20Ministero%20della%20Pubblica%20Istruzione.%20001U0468.md), sono state approvate le seguenti modificazioni: 
+ 
+ Lo stipendio del Direttore di 1ª classe e' elevato a lire seimila (L. 6000), riportando al numero di 6 rispettivamente i posti delle classi a lire cinquemila (L. 5000) e quattromilacinquecento (L. 4500). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 dicembre 1901. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ N. Nasi. 
+ G. Zanardelli. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

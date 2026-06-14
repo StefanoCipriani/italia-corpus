@@ -1,16 +1,14 @@
-REGIO DECRETO 18 gennaio 1885 n. 2905
-
-
-REGIO DECRETO 18 gennaio 1885 n. 2905
-=====================================
-
-Che modifica l'elenco delle strade provinciali di Lecce. (085U2905)
--------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/03/1885
+---
+tipo: REGIO DECRETO
+numero: 2905
+data: 1885-01-18
+titolo: "Che modifica l'elenco delle strade provinciali di Lecce. (085U2905)"
+urn: urn:nir:stato:regio.decreto:1885-01-18;2905
+codice_redazionale: 085U2905
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,20 @@ Vista la dichiarazione rilasciata dal segretario capo di quella deputazione prov
 
 Visto il voto favorevole del consiglio superiore dei lavori pubblici in data 27 dicembre 1884;
 
-Vista la legge 20 marzo 1865, allegato F, la [legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333), e il regolamento 20 marzo 1884, per l'esecuzione di questa ultima;
+Vista la legge 20 marzo 1865, allegato F, la [legge 23 luglio 1881, n. 333](Che%20autorizza%20la%20spesa%20di%20lire%20225126704%20per%20la%20costruzione%20di%20nuove%20opere%20straordinarie%20stradali%20ed%20idrauliche%20nel%20quindicennio%201881-1895.%20081U0333.md), e il regolamento 20 marzo 1884, per l'esecuzione di questa ultima;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato pei lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato pei lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' aggiunta all'elenco delle strade provinciali di Lecce, per la parte scorrente in quella provincia, la strada iscritta al n. 154, dell'elenco III, tabella B, della legge 23 luglio 1881, cioe' prolungamento della provinciale Rotonda-Valsinni verso Bernalda e Ginosa in Terra d'Otranto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 gennaio 1885.   
-  
-UMBERTO   
-  
-Genala.   
-  
-Visto, Il Guardasigilli: Pessina.   
-  
+E' aggiunta all'elenco delle strade provinciali di Lecce, per la parte scorrente in quella provincia, la strada iscritta al n. 154, dell'elenco III, tabella B, della legge 23 luglio 1881, cioe' prolungamento della provinciale Rotonda-Valsinni verso Bernalda e Ginosa in Terra d'Otranto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 gennaio 1885. 
+ 
+ UMBERTO 
+ 
+ Genala. 
+ 
+ Visto, Il Guardasigilli: Pessina.

@@ -1,16 +1,14 @@
-REGIO DECRETO 18 aprile 1941 n. 325
-
-
-REGIO DECRETO 18 aprile 1941 n. 325
-===================================
-
-Autorizzazione al comune di Castiglione dei Pepoli a continuare ad applicare, fino al 31 dicembre 1943, le imposte di consumo in base alla tariffa della classe superiore G. (041U0325)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/05/1941
+---
+tipo: REGIO DECRETO
+numero: 325
+data: 1941-04-18
+titolo: "Autorizzazione al comune di Castiglione dei Pepoli a continuare ad applicare, fino al 31 dicembre 1943, le imposte di consumo in base alla tariffa della classe superiore G. (041U0325)"
+urn: urn:nir:stato:regio.decreto:1941-04-18;325
+codice_redazionale: 041U0325
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,33 +24,28 @@ Ritenuto che la domanda e' giustificata da imprescindibili necessita' della civi
 
 Udita la Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il comune di Castiglione dei Pepoli (Bologna) e' autorizzato ad applicare le imposte di consumo in base alla tariffa della classe superiore G fino a tutto l'anno
 
-1943. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dalla Zona di operazioni, addi' 18 aprile 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto:   
-  
-(ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76)   
-  
-MUSSOLINI   
-  
-Registrato alla Corte dei conti, addi' 8 maggio 1941-XIX   
-  
-Atti dei Governo, registro 433, foglio 42. - MANCINI
+1943.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dalla Zona di operazioni, addi' 18 aprile 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+ Visto: 
+ 
+ (ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76) 
+ 
+ MUSSOLINI 
+ 
+ Registrato alla Corte dei conti, addi' 8 maggio 1941-XIX 
+ 
+ Atti dei Governo, registro 433, foglio 42. - MANCINI

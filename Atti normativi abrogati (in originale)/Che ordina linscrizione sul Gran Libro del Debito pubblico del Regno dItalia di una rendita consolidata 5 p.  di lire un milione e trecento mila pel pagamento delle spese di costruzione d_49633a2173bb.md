@@ -1,16 +1,14 @@
-REGIO DECRETO 07 novembre 1866 n. 3404
-
-
-REGIO DECRETO 07 novembre 1866 n. 3404
-======================================
-
-Che ordina l'inscrizione sul Gran Libro del Debito pubblico del Regno d'Italia di una rendita consolidata 5 p. % di lire un milione e trecento mila pel pagamento delle spese di costruzione della ferrovia ligure. (066U3404)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/01/1867
+---
+tipo: REGIO DECRETO
+numero: 3404
+data: 1866-11-07
+titolo: "Che ordina l'inscrizione sul Gran Libro del Debito pubblico del Regno d'Italia di una rendita consolidata 5 p. % di lire un milione e trecento mila pel pagamento delle spese di costruzione della ferrovia ligure. (066U3404)"
+urn: urn:nir:stato:regio.decreto:1866-11-07;3404
+codice_redazionale: 066U3404
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,37 +20,28 @@ Veduto il Decreto Reale del di' 11 ottobre 1866, che approva la Convenzione con 
 
 Considerando che occorre procurarsi il capitale di quattordici milioni di lire corrispondente all' assegno stanziato nella parte straordinaria del bilancio del Ministero dei Lavori pubblici con Decreto Reale dell'11 ottobre ultimo, per pagare lavori fatti, e da farsi per l'anzidetta ferrovia ligure;
 
-Sulla
------
+Sulla proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sara' inscritta sul Gran Libro del Debito pubblico del Regno d'Italia una rendita consolidata 5 p. % di lire un milione e trecento mila con decorrenza dal 1° luglio 1866 pel pagamento delle spese di costruzione della ferrovia ligure.
 
-  
-  
-Sara' inscritta sul Gran Libro del Debito pubblico del Regno d'Italia una rendita consolidata 5 p. % di lire un milione e trecento mila con decorrenza dal 1° luglio 1866 pel pagamento delle spese di costruzione della ferrovia ligure.   
-  
-
-Art. 2
-------
+## Art. 2.
 
 Pel servizio della rendita suddetta e' fatta sulla Tesoreria centrale del Regno l'annua assegnazione di un milione e trecento mila lire a partire dal primo luglio
 
-1866. 
-  
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Venezia addi' 7 novembre 1866.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 26 novembre 1866   
-  
-Reg.° 38 Atti del Governo a c. 70. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Borgatti.   
-  
-A. Scialoja.
+1866.
+
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Venezia addi' 7 novembre 1866. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 26 novembre 1866 
+ 
+ Reg.° 38 Atti del Governo a c. 70. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ A. Scialoja.

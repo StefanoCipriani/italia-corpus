@@ -1,19 +1,15 @@
-REGIO DECRETO 23 giugno 1910 n. CCXXX
+---
+tipo: REGIO DECRETO
+numero: CCXXX
+data: 1910-06-23
+titolo: "Col quale si approva lo statuto del Monte di pieta' «Antonio Ferrari» di Codogno. (1000230R)"
+urn: urn:nir:stato:regio.decreto:1910-06-23;230
+codice_redazionale: 1000230R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 giugno 1910 n. CCXXX
-=====================================
-
-Col quale si approva lo statuto del Monte di pieta' «Antonio Ferrari» di Codogno. (1000230R)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/08/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. CCXXX (Dato a Roma, il 23 giugno 1910), col quale si approva lo statuto del Monte di pieta' «Antonio Ferrari» di Codogno.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. CCXXX (Dato a Roma, il 23 giugno 1910), col quale si approva lo statuto del Monte di pieta' «Antonio Ferrari» di Codogno.

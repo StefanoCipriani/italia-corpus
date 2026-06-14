@@ -1,16 +1,14 @@
-REGIO DECRETO 02 dicembre 1923 n. 2596
-
-
-REGIO DECRETO 02 dicembre 1923 n. 2596
-======================================
-
-Modificazioni al numero dei magistrati assegnati ai tribunali di Ferrara e di Forli'. (023U2596)
-------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/12/1923
+---
+tipo: REGIO DECRETO
+numero: 2596
+data: 1923-12-02
+titolo: "Modificazioni al numero dei magistrati assegnati ai tribunali di Ferrara e di Forli'. (023U2596)"
+urn: urn:nir:stato:regio.decreto:1923-12-02;2596
+codice_redazionale: 023U2596
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,39 +20,26 @@ Ritenuta la necessita' di modificare le tabelle dei magistrati assegnati ai trib
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la giustizia e gli affari di culto; Abbiamo decretato e decretiamo:
 
-proposta del Guardasigilli, Ministro Segretario di Stato per la giustizia e gli affari di culto; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il tribunale di Ferrara sono assegnati sette giudici ed al tribunale di Forli' viene soppresso un posto di giudice, rimanendo cosi' modificata la tabella C, annessa al Nostro decreto 3 maggio 1923, n. 1165.
 
-  
-  
-  
-Il tribunale di Ferrara sono assegnati sette giudici ed al tribunale di Forli' viene soppresso un posto di giudice, rimanendo cosi' modificata la tabella C, annessa al Nostro decreto 3 maggio 1923, n. 1165.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-  
-Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 dicembre 1923.   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Oviglio.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 11 dicembre 1923.   
-  
-Atti del Governo, registro 219, foglio 71. - Granata.   
-  
+Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 dicembre 1923. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Oviglio. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 11 dicembre 1923. 
+ 
+ Atti del Governo, registro 219, foglio 71. - Granata.

@@ -1,21 +1,17 @@
-REGIO DECRETO 21 ottobre 1900 n. CCCLXXXVIII
+---
+tipo: REGIO DECRETO
+numero: CCCLXXXVIII
+data: 1900-10-21
+titolo: "Che accorda al consorzio irriguo del fiume Catona (Reggio Calabria) la facolta' di riscuotere il contributo dei soci coi privilegi fiscali. (0000388R)"
+urn: urn:nir:stato:regio.decreto:1900-10-21;388
+codice_redazionale: 0000388R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 ottobre 1900 n. CCCLXXXVIII
-============================================
-
-Che accorda al consorzio irriguo del fiume Catona (Reggio Calabria) la facolta' di riscuotere il contributo dei soci coi privilegi fiscali. (0000388R)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/02/1901
-
-Art. 1
-------
-
-  
-Col quale e' accordata al consorzio irriguo del fiume Catona in provincia di Reggio Calabria la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci. - Firmato VITTORIO EMANUELE - Controfirmato Carcano - Visto E. Gianturco.   
-  
-Registrato alla Corte dei conti addi' 21 gennaio 1901.   
-  
-Reg. 227. Atti del Governo a f. 49.   
-  
+Col quale e' accordata al consorzio irriguo del fiume Catona in provincia di Reggio Calabria la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci. - Firmato VITTORIO EMANUELE - Controfirmato Carcano - Visto E. Gianturco. 
+ 
+ Registrato alla Corte dei conti addi' 21 gennaio 1901. 
+ 
+ Reg. 227. Atti del Governo a f. 49.

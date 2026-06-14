@@ -1,16 +1,14 @@
-REGIO DECRETO 04 giugno 1882 n. 798
-
-
-REGIO DECRETO 04 giugno 1882 n. 798
-===================================
-
-Che modifica l'articolo 68 del regio decreto 29 novembre 1870 concernente le legazioni all'estero. (082U0798)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/07/1882
+---
+tipo: REGIO DECRETO
+numero: 798
+data: 1882-06-04
+titolo: "Che modifica l'articolo 68 del regio decreto 29 novembre 1870 concernente le legazioni all'estero. (082U0798)"
+urn: urn:nir:stato:regio.decreto:1882-06-04;798
+codice_redazionale: 082U0798
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,24 +24,18 @@ Considerando che per le esigenze normali del servizio presso le Ambasciate e Leg
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari Esteri, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari Esteri, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'articolo 68 del Regio decreto 29 novembre 1870 e' modificato nel senso che non possono nominarsi addetti di Legazione onorari quante volte il numero totale degli addetti, tra effettivi ed onorari, raggiunga il limite di ventotto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 giugno 1882.   
-  
-UMBERTO.   
-  
-Mancini.   
-  
-Visto, il Guardasigilli: G. Zanardelli.   
+L'articolo 68 del Regio decreto 29 novembre 1870 e' modificato nel senso che non possono nominarsi addetti di Legazione onorari quante volte il numero totale degli addetti, tra effettivi ed onorari, raggiunga il limite di ventotto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 giugno 1882. 
+ 
+ UMBERTO. 
+ 
+ Mancini. 
+ 
+ Visto, il Guardasigilli: G. Zanardelli.

@@ -1,16 +1,14 @@
-REGIO DECRETO 15 ottobre 1876 n. 3422
-
-
-REGIO DECRETO 15 ottobre 1876 n. 3422
-=====================================
-
-Col quale i comuni di Castel del Rio, Fontana Elice e Tossignano sono separati dalla sezione elettorale di Casola Valsenio e formeranno una sezione distinta del collegio elettorale di Faenza, colla sede a Fontana Elice. (076U3422)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/11/1876
+---
+tipo: REGIO DECRETO
+numero: 3422
+data: 1876-10-15
+titolo: "Col quale i comuni di Castel del Rio, Fontana Elice e Tossignano sono separati dalla sezione elettorale di Casola Valsenio e formeranno una sezione distinta del collegio elettorale di Faenza, colla sede a Fontana Elice. (076U3422)"
+urn: urn:nir:stato:regio.decreto:1876-10-15;3422
+codice_redazionale: 076U3422
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Castel del Rio, Fontana Elice e Tossignano sono separati dalla sezione elettorale di Casola Valsenio e formeranno una sezione distinta del Collegio elettorale di Faenza, colla sede a Fontana Elice.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Pollenzo, addi' 15 ottobre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
-  
+I comuni di Castel del Rio, Fontana Elice e Tossignano sono separati dalla sezione elettorale di Casola Valsenio e formeranno una sezione distinta del Collegio elettorale di Faenza, colla sede a Fontana Elice. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Pollenzo, addi' 15 ottobre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

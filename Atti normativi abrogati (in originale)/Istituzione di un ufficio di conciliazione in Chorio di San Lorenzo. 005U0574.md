@@ -1,16 +1,14 @@
-REGIO DECRETO 30 novembre 1905 n. 574
-
-
-REGIO DECRETO 30 novembre 1905 n. 574
-=====================================
-
-Istituzione di un ufficio di conciliazione in Chorio di San Lorenzo. (005U0574)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/01/1906
+---
+tipo: REGIO DECRETO
+numero: 574
+data: 1905-11-30
+titolo: "Istituzione di un ufficio di conciliazione in Chorio di San Lorenzo. (005U0574)"
+urn: urn:nir:stato:regio.decreto:1905-11-30;574
+codice_redazionale: 005U0574
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione.
 
@@ -20,27 +18,20 @@ Vista la deliberazione del Consiglio comunale di San Lorenzo del 16 febbraio 190
 
 Visti i rapporti del primo presidente della Corte di appello di Catanzaro del 15 ottobre e 15 novembre 1905;
 
-Visti gli [articoli 1 della legge 16 giugno 1892, n. 261 e 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;1~art1) del relativo regolamento 26 dicembre stesso anno n. 728;
+Visti gli [articoli 1 della legge 16 giugno 1892, n. 261 e 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;1#art_1) del relativo regolamento 26 dicembre stesso anno n. 728;
 
-Sulla
------
+Sulla proposta del Nostro guardasigilli ministro segretario di Stato per gli affari di grazia e giustizia e dei culti; Abbiamo decretato o decretiamo:
 
-proposta del Nostro guardasigilli ministro segretario di Stato per gli affari di grazia e giustizia e dei culti; Abbiamo decretato o decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal 1° gennaio 1906, e' istituito in Chorio di San Lorenzo, frazione del Comune di San Lorenzo, un ufficio separato di conciliazione, con giurisdizione sulla parte di territorio di detto Comune circoscritto dal torrente Tuccio e dai ponti San Nicola, Zelasi e Birne.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 30 novembre 1905   
-  
-VITTORIO EMANUELE.   
-  
-C. Finocchiaro-Aprile.   
-  
-Visto, Il guardasigilli: C. Finocchiaro-Aprile.   
-  
+Dal 1° gennaio 1906, e' istituito in Chorio di San Lorenzo, frazione del Comune di San Lorenzo, un ufficio separato di conciliazione, con giurisdizione sulla parte di territorio di detto Comune circoscritto dal torrente Tuccio e dai ponti San Nicola, Zelasi e Birne. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 30 novembre 1905 
+ 
+ VITTORIO EMANUELE. 
+ 
+ C. Finocchiaro-Aprile. 
+ 
+ Visto, Il guardasigilli: C. Finocchiaro-Aprile.

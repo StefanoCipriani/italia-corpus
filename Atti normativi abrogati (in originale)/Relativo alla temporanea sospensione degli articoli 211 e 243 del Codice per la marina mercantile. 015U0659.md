@@ -1,16 +1,14 @@
-REGIO DECRETO-LEGGE 16 maggio 1915 n. 659
-
-
-REGIO DECRETO-LEGGE 16 maggio 1915 n. 659
-=========================================
-
-Relativo alla temporanea sospensione degli articoli 211 e 243 del Codice per la marina mercantile. (015U0659)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/05/1915
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 659
+data: 1915-05-16
+titolo: "Relativo alla temporanea sospensione degli articoli 211 e 243 del Codice per la marina mercantile. (015U0659)"
+urn: urn:nir:stato:regio.decreto.legge:1915-05-16;659
+codice_redazionale: 015U0659
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,20 @@ Visto che le potenze belligeranti nell'attuale conflitto internazionale esercita
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro della marina, di concerto con quello di grazia, giustizia e dei culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro della marina, di concerto con quello di grazia, giustizia e dei culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nel caso di partecipazione dell'Italia all'attuale conflitto internazionale, non saranno applicati gli articoli 211 e 243 del Codice per la marina mercantile.   
-  
-Il presente decreto che avra' effetto dal giorno della sua pubblicazione sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 maggio 1915.   
-  
-VITTORIO EMANUELE.   
-  
-Salandra - Viale - Orlando.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+Nel caso di partecipazione dell'Italia all'attuale conflitto internazionale, non saranno applicati gli articoli 211 e 243 del Codice per la marina mercantile. 
+ 
+ Il presente decreto che avra' effetto dal giorno della sua pubblicazione sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 maggio 1915. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Salandra - Viale - Orlando. 
+ 
+ Visto, Il guardasigilli: Orlando.

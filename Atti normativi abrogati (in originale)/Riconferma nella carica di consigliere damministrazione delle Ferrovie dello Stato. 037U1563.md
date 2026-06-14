@@ -1,21 +1,21 @@
-REGIO DECRETO 02 settembre 1937 n. 1563
+---
+tipo: REGIO DECRETO
+numero: 1563
+data: 1937-09-02
+titolo: "Riconferma nella carica di consigliere d'amministrazione delle Ferrovie dello Stato. (037U1563)"
+urn: urn:nir:stato:regio.decreto:1937-09-02;1563
+codice_redazionale: 037U1563
+vigente: true
+---
 
-
-REGIO DECRETO 02 settembre 1937 n. 1563
-=======================================
-
-Riconferma nella carica di consigliere d'amministrazione delle Ferrovie dello Stato. (037U1563)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/10/1937
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1563. R. decreto 2 settembre 1937, col quale, sulla proposta del Ministro per le comunicazioni, viene riconfermato nella carica di consigliere d'amministrazione delle Ferrovie dello Stato il cav. di gr. cr. ing. Pio Calletti.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 14 settembre 1937 - Anno XV
+1563.
+
+R. decreto 2 settembre 1937, col quale, sulla proposta del Ministro per le comunicazioni, viene riconfermato nella carica di consigliere d'amministrazione delle Ferrovie dello Stato il cav. di gr. cr. ing. Pio Calletti. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 14 settembre 1937 - Anno XV

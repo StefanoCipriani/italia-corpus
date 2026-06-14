@@ -1,22 +1,20 @@
-REGIO DECRETO 25 agosto 1908 n. 555
-
-
-REGIO DECRETO 25 agosto 1908 n. 555
-===================================
-
-Che approva la istituzione di nuovi capitoli negli stati di previsione della spesa e della entrata del ministero delle poste e telegrafi per l'esercizio finanziario 1908-909. (008U0555)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/10/1908
+---
+tipo: REGIO DECRETO
+numero: 555
+data: 1908-08-25
+titolo: "Che approva la istituzione di nuovi capitoli negli stati di previsione della spesa e della entrata del ministero delle poste e telegrafi per l'esercizio finanziario 1908-909. (008U0555)"
+urn: urn:nir:stato:regio.decreto:1908-08-25;555
+codice_redazionale: 008U0555
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 9 luglio 1908, n. 420](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;420), contenente modificazioni al testo unico delle leggi sul servizio telefonico ed aggiunte alle leggi 24 marzo 1907, n. III e 15 luglio 1907, n. 506, che autorizza l'amministrazione dei telefoni dello Stato a provvedere gradualmente, su richiesta di Comuni e di altri enti interessati, e alle condizioni e nei limiti stabiliti nella legge stessa, all'esecuzione degli impianti appresso indicati:
+Vista la [legge 9 luglio 1908, n. 420](Modificazioni%20al%20testo%20unico%20delle%20leggi%20sul%20servizio%20telefonico%20ed%20aggiunte%20alle%20leggi%2024%20marzo%201907%20n.%20111%20e%2015%20luglio%201907%20n.%20506.%20008U0420.md), contenente modificazioni al testo unico delle leggi sul servizio telefonico ed aggiunte alle leggi 24 marzo 1907, n. III e 15 luglio 1907, n. 506, che autorizza l'amministrazione dei telefoni dello Stato a provvedere gradualmente, su richiesta di Comuni e di altri enti interessati, e alle condizioni e nei limiti stabiliti nella legge stessa, all'esecuzione degli impianti appresso indicati:
 
 1° costruzione di linee telefoniche interurbane e impianti di relativi uffici;
 
@@ -28,36 +26,29 @@ Visti gli articoli 2 e 5 della legge, i quali prescrivono che le spese necessari
 
 Visto l'art. 10 della legge, il quale stabilisce che, per l'esercizio 1908-909, verra' provveduto a introdurre nel bilancio le variazioni occorrenti per l'attuazione della legge stessa con decreto Reale, su proposta del ministro del tesoro, di concerto con quello delle poste e dei telegrafi;
 
-Viste le [leggi 28 maggio 1908, n. 214, e 30 giugno 1908, n. 311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-30;311), che approvano rispettivamente gli stati di previsione della spesa del Ministero delle poste e dei telegrafi e dell'entrata per l'esercizio finanziario 1908-909;
+Viste le [leggi 28 maggio 1908, n. 214, e 30 giugno 1908, n. 311](Stato%20di%20previsione%20dellentrata%20per%20lesercizio%20finanziario%201908-909.%20008U0311.md), che approvano rispettivamente gli stati di previsione della spesa del Ministero delle poste e dei telegrafi e dell'entrata per l'esercizio finanziario 1908-909;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per il tesoro, di concerto con quello per le poste ed i telegrafi; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per il tesoro, di concerto con quello per le poste ed i telegrafi; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Negli stati di previsione della spesa del Ministero delle poste e dei telegrafi e dell'entrata, per l'esercizio 1908-909, sono rispettivamente istituiti i seguenti capitoli, per memoria:   
-  
-Spesa del Ministero delle poste e dei telegrafi:   
-  
-Capitolo n. 141-bis - Lavori da eseguirsi a richiesta di Comuni e altri enti interessati, per meta' a carico dello Stato e per meta' a carico dei richiedenti: 1° costruzione di linee telefoniche interurbane ed impianti di relativi uffici; 2° impianto di reti telefoniche urbane con non meno di 25 abbonati, da collegare subito; 3° estensione delle reti telefoniche urbane governative oltre i 10 chilometri, entro il raggio di 25 chilometri, mediante il collegamento diretto di abbonati o l'apertura di posti pubblici ([legge 9 luglio 1908, n. 420](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;420)).   
-  
-Entrata:   
-  
-Capitolo n. 120-bis - Concorso di Comuni e di altri enti interessati nella spesa per impianti ed estensioni di reti telefoniche urbane e per costruzione di linee telefoniche interurbane ([legge 9 luglio 1908, n. 420](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;420)).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 25 agosto 1908.   
-  
-VITTORIO EMANUELE.   
-  
-Schanzer.   
-Carcano.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+Negli stati di previsione della spesa del Ministero delle poste e dei telegrafi e dell'entrata, per l'esercizio 1908-909, sono rispettivamente istituiti i seguenti capitoli, per memoria: 
+ 
+ Spesa del Ministero delle poste e dei telegrafi: 
+ 
+ Capitolo n. 141-bis - Lavori da eseguirsi a richiesta di Comuni e altri enti interessati, per meta' a carico dello Stato e per meta' a carico dei richiedenti: 1° costruzione di linee telefoniche interurbane ed impianti di relativi uffici; 2° impianto di reti telefoniche urbane con non meno di 25 abbonati, da collegare subito; 3° estensione delle reti telefoniche urbane governative oltre i 10 chilometri, entro il raggio di 25 chilometri, mediante il collegamento diretto di abbonati o l'apertura di posti pubblici ([legge 9 luglio 1908, n. 420](Modificazioni%20al%20testo%20unico%20delle%20leggi%20sul%20servizio%20telefonico%20ed%20aggiunte%20alle%20leggi%2024%20marzo%201907%20n.%20111%20e%2015%20luglio%201907%20n.%20506.%20008U0420.md)). 
+ 
+ Entrata: 
+ 
+ Capitolo n. 120-bis - Concorso di Comuni e di altri enti interessati nella spesa per impianti ed estensioni di reti telefoniche urbane e per costruzione di linee telefoniche interurbane ([legge 9 luglio 1908, n. 420](Modificazioni%20al%20testo%20unico%20delle%20leggi%20sul%20servizio%20telefonico%20ed%20aggiunte%20alle%20leggi%2024%20marzo%201907%20n.%20111%20e%2015%20luglio%201907%20n.%20506.%20008U0420.md)). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 25 agosto 1908. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Schanzer. 
+ Carcano. 
+ 
+ Visto, Il guardasigilli: Orlando.

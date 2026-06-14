@@ -1,19 +1,15 @@
-REGIO DECRETO 11 gennaio 1906 n. XX
+---
+tipo: REGIO DECRETO
+numero: XX
+data: 1906-01-11
+titolo: "Che erige in ente morale gli «Ospizi marini» di Vicenza. (0600020R)"
+urn: urn:nir:stato:regio.decreto:1906-01-11;20
+codice_redazionale: 0600020R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 gennaio 1906 n. XX
-===================================
-
-Che erige in ente morale gli «Ospizi marini» di Vicenza. (0600020R)
--------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/03/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. XX (Dato a Roma, l'11 gennaio 1906), col quale l'opera pia «Ospizi marini» di Vicenza, viene eretta in ente morale e ne viene approvato lo statuto organico.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. XX (Dato a Roma, l'11 gennaio 1906), col quale l'opera pia «Ospizi marini» di Vicenza, viene eretta in ente morale e ne viene approvato lo statuto organico.

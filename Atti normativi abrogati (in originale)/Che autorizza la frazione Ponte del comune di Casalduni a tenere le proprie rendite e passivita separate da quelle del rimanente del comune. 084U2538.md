@@ -1,16 +1,14 @@
-REGIO DECRETO 22 giugno 1884 n. 2538
-
-
-REGIO DECRETO 22 giugno 1884 n. 2538
-====================================
-
-Che autorizza la frazione Ponte del comune di Casalduni a tenere le proprie rendite e passivita' separate da quelle del rimanente del comune. (084U2538)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/08/1884
+---
+tipo: REGIO DECRETO
+numero: 2538
+data: 1884-06-22
+titolo: "Che autorizza la frazione Ponte del comune di Casalduni a tenere le proprie rendite e passivita' separate da quelle del rimanente del comune. (084U2538)"
+urn: urn:nir:stato:regio.decreto:1884-06-22;2538
+codice_redazionale: 084U2538
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,33 +22,22 @@ Veduta la deliberazione del Consiglio comunale di Casalduni in data 20 aprile 18
 
 Visti gli articoli 13 e 16 della legge comunale e provinciale 20 marzo 1865, allegato A;
 
-Vista
------
+Vista la legge 30 giugno 1880, num. 5516, Abbiamo decretato e decretiamo:
 
-la legge 30 giugno 1880, num. 5516, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La frazione Ponte e' autorizzata a tenere le proprie rendite e passivita' patrimoniali e le spese contemplate dall'ultimo paragrafo dell'articolo 13 della legge comunale separate da quelle del rimanente del comune di Casalduni.
 
-  
-  
-La frazione Ponte e' autorizzata a tenere le proprie rendite e passivita' patrimoniali e le spese contemplate dall'ultimo paragrafo dell'articolo 13 della legge comunale separate da quelle del rimanente del comune di Casalduni.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-I limiti territoriali della frazione Ponte sono quelli risultanti dalla pianta topografica redatta dall'ingegnere agronomo Francesco Compatangelo, che sara' d'ordine Nostro vidimata dal Ministro proponente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 giugno 1884.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto, Il Guardasigilli: Ferracciu'.   
-  
+I limiti territoriali della frazione Ponte sono quelli risultanti dalla pianta topografica redatta dall'ingegnere agronomo Francesco Compatangelo, che sara' d'ordine Nostro vidimata dal Ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 giugno 1884. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto, Il Guardasigilli: Ferracciu'.

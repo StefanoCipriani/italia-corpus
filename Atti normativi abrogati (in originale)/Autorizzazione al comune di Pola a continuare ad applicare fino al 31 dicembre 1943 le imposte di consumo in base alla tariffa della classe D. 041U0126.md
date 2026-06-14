@@ -1,16 +1,14 @@
-REGIO DECRETO 06 febbraio 1941 n. 126
-
-
-REGIO DECRETO 06 febbraio 1941 n. 126
-=====================================
-
-Autorizzazione al comune di Pola a continuare ad applicare, fino al 31 dicembre 1943, le imposte di consumo in base alla tariffa della classe D. (041U0126)
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/04/1941
+---
+tipo: REGIO DECRETO
+numero: 126
+data: 1941-02-06
+titolo: "Autorizzazione al comune di Pola a continuare ad applicare, fino al 31 dicembre 1943, le imposte di consumo in base alla tariffa della classe D. (041U0126)"
+urn: urn:nir:stato:regio.decreto:1941-02-06;126
+codice_redazionale: 041U0126
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,24 @@ Vista la deliberazione in data 18 ottobre 1940-XVIII, n. 500, con la quale il Co
 
 Udito il parere favorevole espresso dalla Commissione centrale per la finanza locale, nella seduta del 27 dicembre 1940-XIX;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il comune di Pola e' autorizzato a mantenere in applicazione le imposte di consumo in base alla tariffa della classe D fino a tutto il 31 dicembre
 
-1943. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 febbraio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 21 marzo 1941-XIX   
-  
-Atti del Governo, registro 431, foglio 44. - MANCINI
+1943.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 febbraio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 21 marzo 1941-XIX 
+ 
+ Atti del Governo, registro 431, foglio 44. - MANCINI

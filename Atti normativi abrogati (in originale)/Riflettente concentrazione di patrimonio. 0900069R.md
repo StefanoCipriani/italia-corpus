@@ -1,17 +1,13 @@
-REGIO DECRETO 21 febbraio 1909 n. LXIX
+---
+tipo: REGIO DECRETO
+numero: LXIX
+data: 1909-02-21
+titolo: "Riflettente concentrazione di patrimonio. (0900069R)"
+urn: urn:nir:stato:regio.decreto:1909-02-21;69
+codice_redazionale: 0900069R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 febbraio 1909 n. LXIX
-======================================
-
-Riflettente concentrazione di patrimonio. (0900069R)
-----------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/04/1909
-
-Art. 1
-------
-
-  
-N. LXIX (Dato a Roma, il 21 febbraio 1909), col quale il fine inerente al patrimonio della confraternita del Santissimo Sacramento di Putignano (Bari) e' parzialmente trasformato ed il patrimonio stesso e' concentrato nella locale Congregazione di carita'.   
-  
+N. LXIX (Dato a Roma, il 21 febbraio 1909), col quale il fine inerente al patrimonio della confraternita del Santissimo Sacramento di Putignano (Bari) e' parzialmente trasformato ed il patrimonio stesso e' concentrato nella locale Congregazione di carita'.

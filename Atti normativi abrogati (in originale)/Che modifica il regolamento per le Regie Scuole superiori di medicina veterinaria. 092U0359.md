@@ -1,16 +1,14 @@
-REGIO DECRETO 03 luglio 1892 n. 359
-
-
-REGIO DECRETO 03 luglio 1892 n. 359
-===================================
-
-Che modifica il regolamento per le Regie Scuole superiori di medicina veterinaria. (092U0359)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/08/1892
+---
+tipo: REGIO DECRETO
+numero: 359
+data: 1892-07-03
+titolo: "Che modifica il regolamento per le Regie Scuole superiori di medicina veterinaria. (092U0359)"
+urn: urn:nir:stato:regio.decreto:1892-07-03;359
+codice_redazionale: 092U0359
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,31 +22,24 @@ Ritenuta la convenienza di uniformare le norme che regolano gli esami nelle Scuo
 
 Sentito il Consiglio Superiore d'Istruzione Pubblica;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Istruzione Pubblica; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Istruzione Pubblica; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-All'art. 62 del Regolamento per le Scuole superiori di medicina veterinaria, approvato col Nostro decreto del 29 gennaio 1891 n. 120, e' sostituito il seguente:   
-  
-«Art. 62. - Lo studente ha l'obbligo di prendere l'esame speciale sopra tutte le materie obbligatorie. Se la materia e' ripartita in piu' anni, l'esame sara' dato, di regola, alla fine della trattazione di essa ed avra' una durata proporzionata al tempo dell'insegnamento, quindi almeno di trenta minuti.   
-  
-«Per quelle materie pero' la cui trattazione duri piu' di un anno, ma le cui singole parti possono considerarsi come distinti corpi di dottrina, l'esame, su parere con forme del Consiglio dei professori, potra' essere dato alla fine di ciascun anno.   
-  
-«Chi non ha l'attestato di diligenza, firmato da tutti i professori, non puo' essere ammesso agli esami».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 luglio 1892.   
-  
-UMBERTO.   
-  
-Martini.   
-  
-Visto: Il Guardasigilli Bonacci.   
-  
+All'art. 62 del Regolamento per le Scuole superiori di medicina veterinaria, approvato col Nostro decreto del 29 gennaio 1891 n. 120, e' sostituito il seguente: 
+ 
+ «Art. 62. - Lo studente ha l'obbligo di prendere l'esame speciale sopra tutte le materie obbligatorie. Se la materia e' ripartita in piu' anni, l'esame sara' dato, di regola, alla fine della trattazione di essa ed avra' una durata proporzionata al tempo dell'insegnamento, quindi almeno di trenta minuti. 
+ 
+ «Per quelle materie pero' la cui trattazione duri piu' di un anno, ma le cui singole parti possono considerarsi come distinti corpi di dottrina, l'esame, su parere con forme del Consiglio dei professori, potra' essere dato alla fine di ciascun anno. 
+ 
+ «Chi non ha l'attestato di diligenza, firmato da tutti i professori, non puo' essere ammesso agli esami». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 luglio 1892. 
+ 
+ UMBERTO. 
+ 
+ Martini. 
+ 
+ Visto: Il Guardasigilli Bonacci.

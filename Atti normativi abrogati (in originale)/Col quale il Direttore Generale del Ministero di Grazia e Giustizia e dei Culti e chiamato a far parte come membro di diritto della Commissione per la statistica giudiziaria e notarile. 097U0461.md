@@ -1,16 +1,14 @@
-REGIO DECRETO 22 ottobre 1897 n. 461
-
-
-REGIO DECRETO 22 ottobre 1897 n. 461
-====================================
-
-Col quale il Direttore Generale del Ministero di Grazia e Giustizia e dei Culti e' chiamato a far parte, come membro di diritto, della Commissione per la statistica giudiziaria e notarile. (097U0461)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/11/1897
+---
+tipo: REGIO DECRETO
+numero: 461
+data: 1897-10-22
+titolo: "Col quale il Direttore Generale del Ministero di Grazia e Giustizia e dei Culti e' chiamato a far parte, come membro di diritto, della Commissione per la statistica giudiziaria e notarile. (097U0461)"
+urn: urn:nir:stato:regio.decreto:1897-10-22;461
+codice_redazionale: 097U0461
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,26 +18,19 @@ Visto il Nostro decreto 17 dicembre 1896 n. 544, contenente disposizioni riguard
 
 Ritenuta la convenienza di far intervenire nella predetta Commissione, come membro di diritto, il Direttore Generale del Ministero di Grazia e Giustizia e dei Culti;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti, di concerto col Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti, di concerto col Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Direttore Generale del Ministero di Grazia e Giustizia e dei Culti e' chiamato a far parte, come membro di diritto, della Commissione per la statistica giudiziaria e notarile.   
-  
-Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 22 ottobre 1897.   
-  
-UMBERTO   
-  
-E. Gianturco.   
-Guicciardini.   
-  
-Visto, Il Guardasigilli: E. Gianturco.   
-  
+Il Direttore Generale del Ministero di Grazia e Giustizia e dei Culti e' chiamato a far parte, come membro di diritto, della Commissione per la statistica giudiziaria e notarile. 
+ 
+ Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 22 ottobre 1897. 
+ 
+ UMBERTO 
+ 
+ E. Gianturco. 
+ Guicciardini. 
+ 
+ Visto, Il Guardasigilli: E. Gianturco.

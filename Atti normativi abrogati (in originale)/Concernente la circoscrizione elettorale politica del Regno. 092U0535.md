@@ -1,20 +1,17 @@
-REGIO DECRETO 17 ottobre 1892 n. 535
+---
+tipo: REGIO DECRETO
+numero: 535
+data: 1892-10-17
+titolo: "Concernente la circoscrizione elettorale politica del Regno. (092U0535)"
+urn: urn:nir:stato:regio.decreto:1892-10-17;535
+codice_redazionale: 092U0535
+vigente: true
+---
 
-
-REGIO DECRETO 17 ottobre 1892 n. 535
-====================================
-
-Concernente la circoscrizione elettorale politica del Regno. (092U0535)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1892
-
-Art. 1
-------
+## Art. 1.
 
 Dato a Monza il 17 ottobre
 
-1892. 
-  
-  
+1892.
+
 N. 535. R. D. che separa il comune di Ala de' Sardi dalla sezione elettorale di Budduso', e lo costituisce in sezione elettorale autonoma del Collegio di Tempio Pausania (Sassari 3°).

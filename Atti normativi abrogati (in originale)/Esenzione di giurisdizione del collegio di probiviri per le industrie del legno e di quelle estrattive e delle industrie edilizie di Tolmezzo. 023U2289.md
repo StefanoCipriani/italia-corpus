@@ -1,21 +1,17 @@
-REGIO DECRETO 07 ottobre 1923 n. 2289
+---
+tipo: REGIO DECRETO
+numero: 2289
+data: 1923-10-07
+titolo: "Esenzione di giurisdizione del collegio di probiviri per le industrie del legno e di quelle estrattive e delle industrie edilizie di Tolmezzo. (023U2289)"
+urn: urn:nir:stato:regio.decreto:1923-10-07;2289
+codice_redazionale: 023U2289
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 ottobre 1923 n. 2289
-=====================================
-
-Esenzione di giurisdizione del collegio di probiviri per le industrie del legno e di quelle estrattive e delle industrie edilizie di Tolmezzo. (023U2289)
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/11/1923
-
-Art. 1
-------
-
-  
-N. 2289, R. decreto 7 ottobre 1923, col quale, su proposta del Ministro per l'economia nazionale, la giurisdizione dei collegi di probiviri per le industrie del legno e di quelle estrattive e delle costruzioni edilizie. con sede in Tolmezzo, viene estesa dal territorio del mandamento a quello del circondario omonimo.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 5 novembre 1923.   
-  
+N. 2289, R. decreto 7 ottobre 1923, col quale, su proposta del Ministro per l'economia nazionale, la giurisdizione dei collegi di probiviri per le industrie del legno e di quelle estrattive e delle costruzioni edilizie. con sede in Tolmezzo, viene estesa dal territorio del mandamento a quello del circondario omonimo. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 5 novembre 1923.

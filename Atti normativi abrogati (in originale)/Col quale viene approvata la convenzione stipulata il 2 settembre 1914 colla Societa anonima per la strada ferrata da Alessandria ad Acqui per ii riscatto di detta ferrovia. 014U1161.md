@@ -1,16 +1,14 @@
-REGIO DECRETO 11 ottobre 1914 n. 1161
-
-
-REGIO DECRETO 11 ottobre 1914 n. 1161
-=====================================
-
-Col quale viene approvata la convenzione stipulata il 2 settembre 1914 colla «Societa' anonima per la strada ferrata da Alessandria ad Acqui» per ii riscatto di detta ferrovia. (014U1161)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/11/1914
+---
+tipo: REGIO DECRETO
+numero: 1161
+data: 1914-10-11
+titolo: "Col quale viene approvata la convenzione stipulata il 2 settembre 1914 colla «Societa' anonima per la strada ferrata da Alessandria ad Acqui» per ii riscatto di detta ferrovia. (014U1161)"
+urn: urn:nir:stato:regio.decreto:1914-10-11;1161
+codice_redazionale: 014U1161
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -30,7 +28,7 @@ Che, essendo stata la ferrovia aperta all'esercizio pubblico il 3 gennaio 1858, 
 
 Visti gli atti di diffida 24 e 27 dicembre 1907, mediante i quali il Governo dichiaro' alla Societa' che intendeva riscattare la ferrovia da Alessandria ad Acqui, entrando in possesso della linea col 1° gennaio 1909;
 
-Vista la [legge 11 luglio 1909, n. 488](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-11;488), che, fra l'altro, approvo' le diffide notificate e dichiaro' effettuato il riscatto della ferrovia in parola, autorizzando il ministro del tesoro o valersi dei mezzi, indicati negli [articoli 3 della legge 23 dicembre 1906, n. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-12-23;638~art3), e 3 della [legge 24 dicembre 1908, n. 731](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-12-24;731), per la provvista dei fondi necessari al pagamento del corrispettivo di riscatto, dei relativi interessi, e delle provvisionali, da versare alla Societa' concessionaria, fino a completa definizione delle controversie insorte, relativamente al riscatto medesimo ed alla liquidazione della indennita', salvo conguaglio;
+Vista la [legge 11 luglio 1909, n. 488](Pel%20riscatto%20di%20alcune%20linee%20ferroviarie%20concesse%20allindustria%20privata.%20009U0488.md), che, fra l'altro, approvo' le diffide notificate e dichiaro' effettuato il riscatto della ferrovia in parola, autorizzando il ministro del tesoro o valersi dei mezzi, indicati negli [articoli 3 della legge 23 dicembre 1906, n. 638](Spese%20straordinarie%20occorrenti%20per%20le%20ferrovie%20esercitate%20dallo%20Stato%20e%20relativa%20provvista%20di%20fondi.%20006U0638.md), e 3 della [legge 24 dicembre 1908, n. 731](Provvedimenti%20per%20le%20spese%20ferroviarie%20viarie%20e%20per%20debiti%20redimibili.%20008U0731.md), per la provvista dei fondi necessari al pagamento del corrispettivo di riscatto, dei relativi interessi, e delle provvisionali, da versare alla Societa' concessionaria, fino a completa definizione delle controversie insorte, relativamente al riscatto medesimo ed alla liquidazione della indennita', salvo conguaglio;
 
 Viste le norme stabilite dal capitolato di concessione per la liquidazione del corrispettivo di riscatto;
 
@@ -54,35 +52,22 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta dei Nostri ministri, segretari di Stato per i lavori pubblici e per il tesoro; Abbiamo decretato e decretiamo:
 
-proposta dei Nostri ministri, segretari di Stato per i lavori pubblici e per il tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvata e resa esecutoria la convenzione 2 settembre 1914, stipulata fra l'Amministrazione governativa e la Societa' anonima della strada ferrata da Alessandria ad Acqui pel riscatto di detta ferrovia, con effetto retroattivo al 1° gennaio 1909, e per la liquidazione delle somme dovute dalla Societa' stessa per lavori eseguiti sulla ferrovia, nonche' a titolo di partecipazione dello Stato ai prodotti netti della linea, fino al 31 dicembre 1908.
 
-  
-  
-  
-E' approvata e resa esecutoria la convenzione 2 settembre 1914, stipulata fra l'Amministrazione governativa e la Societa' anonima della strada ferrata da Alessandria ad Acqui pel riscatto di detta ferrovia, con effetto retroattivo al 1° gennaio 1909, e per la liquidazione delle somme dovute dalla Societa' stessa per lavori eseguiti sulla ferrovia, nonche' a titolo di partecipazione dello Stato ai prodotti netti della linea, fino al 31 dicembre 1908.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-  
-Con decreti Ministeriali sara' provveduto per la inscrizione di apposito capitolo nello stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario in corso; pel pagamento delle somme dovute alla Societa' anonima per la strada ferrata da Alessandria ad Acqui, in dipendenza del riscatto suaccennato, ed in base alla convenzione di cui all'art. 1 del presente decreto, come pure sara' provveduto per l'introito delle somme, concordate a carico della Societa' stessa, per i lavori e le quote di partecipazione, di cui al medesimo art. 1.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 ottobre 1914.   
-  
-VITTORIO EMANUELE.   
-  
-Salandra - Ciuffelli - Rubini.   
-  
-Visto, Il guardasigilli: Dari   
-  
+Con decreti Ministeriali sara' provveduto per la inscrizione di apposito capitolo nello stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario in corso; pel pagamento delle somme dovute alla Societa' anonima per la strada ferrata da Alessandria ad Acqui, in dipendenza del riscatto suaccennato, ed in base alla convenzione di cui all'art. 1 del presente decreto, come pure sara' provveduto per l'introito delle somme, concordate a carico della Societa' stessa, per i lavori e le quote di partecipazione, di cui al medesimo art. 1. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 ottobre 1914. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Salandra - Ciuffelli - Rubini. 
+ 
+ Visto, Il guardasigilli: Dari

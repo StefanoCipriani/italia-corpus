@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 02 aprile 1916 n. 580
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 580
+data: 1916-04-02
+titolo: "Annullamento di partita di consolidamento dei contributi a carico di Comune. (016U0580)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-04-02;580
+codice_redazionale: 016U0580
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 02 aprile 1916 n. 580
-=============================================
-
-Annullamento di partita di consolidamento dei contributi a carico di Comune. (016U0580)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/06/1916
-
-Art. 1
-------
-
-null
+## Art. 1. — null

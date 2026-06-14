@@ -1,16 +1,14 @@
-REGIO DECRETO 28 novembre 1872 n. 1115
-
-
-REGIO DECRETO 28 novembre 1872 n. 1115
-======================================
-
-Col quale il Comune di Bergamasco costituira' una Sezione del Collegio elettorale di Oviglio. (072U1115)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/01/1873
+---
+tipo: REGIO DECRETO
+numero: 1115
+data: 1872-11-28
+titolo: "Col quale il Comune di Bergamasco costituira' una Sezione del Collegio elettorale di Oviglio. (072U1115)"
+urn: urn:nir:stato:regio.decreto:1872-11-28;1115
+codice_redazionale: 072U1115
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,24 +24,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Bergamasco costituira' d'ora in poi una sezione del collegio elettorale di Oviglio, n. 27, con sede nel capoluogo del comune stesso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 novembre 1872.   
-  
-VITTORIO EMANUELE.   
-  
-G. Lanza.   
-  
-  
+Il comune di Bergamasco costituira' d'ora in poi una sezione del collegio elettorale di Oviglio, n. 27, con sede nel capoluogo del comune stesso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 novembre 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Lanza.

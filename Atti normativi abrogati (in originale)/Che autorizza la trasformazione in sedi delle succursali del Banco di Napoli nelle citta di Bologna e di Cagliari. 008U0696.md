@@ -1,16 +1,14 @@
-REGIO DECRETO 05 novembre 1908 n. 696
-
-
-REGIO DECRETO 05 novembre 1908 n. 696
-=====================================
-
-Che autorizza la trasformazione in sedi delle succursali del Banco di Napoli nelle citta' di Bologna e di Cagliari. (008U0696)
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/01/1909
+---
+tipo: REGIO DECRETO
+numero: 696
+data: 1908-11-05
+titolo: "Che autorizza la trasformazione in sedi delle succursali del Banco di Napoli nelle citta' di Bologna e di Cagliari. (008U0696)"
+urn: urn:nir:stato:regio.decreto:1908-11-05;696
+codice_redazionale: 008U0696
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,25 +20,18 @@ Vista la deliberazione 15 luglio 1908 del Consiglio d'amministrazione del Banco 
 
 Vista la deliberazione del 26 ottobre 1908, colla quale il Consiglio generale del Banco approvo' la detta trasformazione;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' autorizzata la trasformazione in sedi delle succursali del Banco di Napoli nelle citta' di Bologna e Cagliari.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 5 novembre 1908.   
-  
-VITTORIO EMANUELE.   
-  
-Carcano.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+E' autorizzata la trasformazione in sedi delle succursali del Banco di Napoli nelle citta' di Bologna e Cagliari. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 5 novembre 1908. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Carcano. 
+ 
+ Visto, Il guardasigilli: Orlando.

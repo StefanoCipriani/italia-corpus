@@ -1,16 +1,14 @@
-REGIO DECRETO 24 settembre 1911 n. 1023
-
-
-REGIO DECRETO 24 settembre 1911 n. 1023
-=======================================
-
-Che indice la mobilitazione di un corpo per una spedizione oltremare, delle occorrenti forze navali e degli occorrenti servizi costieri. (011U1023)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1911
+---
+tipo: REGIO DECRETO
+numero: 1023
+data: 1911-09-24
+titolo: "Che indice la mobilitazione di un corpo per una spedizione oltremare, delle occorrenti forze navali e degli occorrenti servizi costieri. (011U1023)"
+urn: urn:nir:stato:regio.decreto:1911-09-24;1023
+codice_redazionale: 011U1023
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,33 +18,22 @@ Visto l'art. 5 dello statuto fondamentale del Regno;
 
 Sulla proposta del presidente del Consiglio dei ministri e dei ministri segretari di Stato per la guerra e per la marina;
 
-Sentito
--------
+Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E'indetta la mobilitazione di un corpo per una spedizione oltremare, delle occorrenti forze navali e degli occorrenti servizi costieri.
 
-  
-  
-E'indetta la mobilitazione di un corpo per una spedizione oltremare, delle occorrenti forze navali e degli occorrenti servizi costieri.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-I Nostri ministri segretari di Stato per gli affari della guerra e della marina sono incaricati della esecuzione del presente decreto, di stabilire l'entita' delle forze e dei servizi da mobilitare e le modalita' per la loro costituzione, uditi i pareri dei capi di stato maggiore e dell'esercito e della marina.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 24 settembre 1911.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti - Spingardi - Leonardi-Cattolica.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+I Nostri ministri segretari di Stato per gli affari della guerra e della marina sono incaricati della esecuzione del presente decreto, di stabilire l'entita' delle forze e dei servizi da mobilitare e le modalita' per la loro costituzione, uditi i pareri dei capi di stato maggiore e dell'esercito e della marina. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 24 settembre 1911. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti - Spingardi - Leonardi-Cattolica. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

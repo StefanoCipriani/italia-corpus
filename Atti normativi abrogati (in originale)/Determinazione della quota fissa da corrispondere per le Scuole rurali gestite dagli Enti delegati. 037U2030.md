@@ -1,16 +1,14 @@
-REGIO DECRETO 21 ottobre 1937 n. 2030
-
-
-REGIO DECRETO 21 ottobre 1937 n. 2030
-=====================================
-
-Determinazione della quota fissa da corrispondere per le Scuole rurali gestite dagli Enti delegati. (037U2030)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/12/1937
+---
+tipo: REGIO DECRETO
+numero: 2030
+data: 1937-10-21
+titolo: "Determinazione della quota fissa da corrispondere per le Scuole rurali gestite dagli Enti delegati. (037U2030)"
+urn: urn:nir:stato:regio.decreto:1937-10-21;2030
+codice_redazionale: 037U2030
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -38,29 +36,23 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A decorrere dal 1° ottobre 1936-XIV in applicazione del R. decreto-legge 24 settembre 1936-XIV, n. 1719, la quota fissa da corrispondere per l'esercizio di ciascuna Scuola rurale agli Enti che ne hanno la gestione, e' elevata da L. 6575 a L. 7039 annue.   
-  
-A decorrere dal 1° luglio 1937-XV, in applicazione del Regio decreto-legge 27 giugno 1937-XV, n. 1033, la quota fissa di cui al comma precedente e' elevata da L. 7039 a L. 7532 annue.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 21 ottobre 1937 - Anno XV   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Bottai - Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 10 dicembre 1937 - Anno XVI   
-Atti del Governo, registro 392, foglio 65. - Mancini.   
+A decorrere dal 1° ottobre 1936-XIV in applicazione del R. decreto-legge 24 settembre 1936-XIV, n. 1719, la quota fissa da corrispondere per l'esercizio di ciascuna Scuola rurale agli Enti che ne hanno la gestione, e' elevata da L. 6575 a L. 7039 annue. 
+ 
+ A decorrere dal 1° luglio 1937-XV, in applicazione del Regio decreto-legge 27 giugno 1937-XV, n. 1033, la quota fissa di cui al comma precedente e' elevata da L. 7039 a L. 7532 annue. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 21 ottobre 1937 - Anno XV 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Bottai - Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 10 dicembre 1937 - Anno XVI  
+ Atti del Governo, registro 392, foglio 65. - Mancini.

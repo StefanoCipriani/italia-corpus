@@ -1,16 +1,14 @@
-REGIO DECRETO 17 gennaio 1875 n. 2343
-
-
-REGIO DECRETO 17 gennaio 1875 n. 2343
-=====================================
-
-Col quale e' accolto un ricorso del comune di Cagliari per l'apertura di magazzini di deposito per i generi soggetti a dazio di consumo. (075U2343)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/02/1875
+---
+tipo: REGIO DECRETO
+numero: 2343
+data: 1875-01-17
+titolo: "Col quale e' accolto un ricorso del comune di Cagliari per l'apertura di magazzini di deposito per i generi soggetti a dazio di consumo. (075U2343)"
+urn: urn:nir:stato:regio.decreto:1875-01-17;2343
+codice_redazionale: 075U2343
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,23 +26,16 @@ Visto l'art. 143 della legge comunale e provinciale del 20 marzo 1865;
 
 Sentito il parere del Consiglio di Stato,
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze, Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze, Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il predetto ricorso del Consiglio comunale di Cagliari e' accolto, venendo per tal modo approvate le succitate sue deliberazioni.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservare e di farlo osservare.   
-  
-Dato a Roma, addi' 17 gennaio 1875.   
-  
-VITTORIO EMANUELE.   
-  
-M. Minghetti.   
-  
+Il predetto ricorso del Consiglio comunale di Cagliari e' accolto, venendo per tal modo approvate le succitate sue deliberazioni. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservare e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 gennaio 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. Minghetti.

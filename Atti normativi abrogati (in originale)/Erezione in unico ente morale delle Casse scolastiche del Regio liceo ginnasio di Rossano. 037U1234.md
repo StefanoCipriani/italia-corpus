@@ -1,21 +1,21 @@
-REGIO DECRETO 17 maggio 1937 n. 1234
+---
+tipo: REGIO DECRETO
+numero: 1234
+data: 1937-05-17
+titolo: "Erezione in unico ente morale delle Casse scolastiche del Regio liceo ginnasio di Rossano. (037U1234)"
+urn: urn:nir:stato:regio.decreto:1937-05-17;1234
+codice_redazionale: 037U1234
+vigente: true
+---
 
-
-REGIO DECRETO 17 maggio 1937 n. 1234
-====================================
-
-Erezione in unico ente morale delle Casse scolastiche del Regio liceo ginnasio di Rossano. (037U1234)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/08/1937
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1234. R. decreto 17 maggio 1937, col quale, sulla proposta del Ministro per l'educazione nazionale, le Casse scolastiche del Regio ginnasio e dell'ex liceo pareggiato di Rossano, ora convertito in Regio, vengono costituite in unico ente morale denominato «Cassa scolastica del Regio liceo-ginnasio di Rossano», del quale viene approvato lo statuto.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 5 luglio 1937 - Anno XV.
+1234.
+
+R. decreto 17 maggio 1937, col quale, sulla proposta del Ministro per l'educazione nazionale, le Casse scolastiche del Regio ginnasio e dell'ex liceo pareggiato di Rossano, ora convertito in Regio, vengono costituite in unico ente morale denominato «Cassa scolastica del Regio liceo-ginnasio di Rossano», del quale viene approvato lo statuto. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 5 luglio 1937 - Anno XV.

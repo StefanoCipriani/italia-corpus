@@ -1,50 +1,47 @@
-REGIO DECRETO 25 aprile 1932 n. 434
+---
+tipo: REGIO DECRETO
+numero: 434
+data: 1932-04-25
+titolo: "Maggiori assegnazioni nello stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1931-32. (032U0434)"
+urn: urn:nir:stato:regio.decreto:1932-04-25;434
+codice_redazionale: 032U0434
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 aprile 1932 n. 434
-===================================
+VITTORIO EMANUELE III 
+ 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ 
+ RE D'ITALIA 
+ 
+ Vista la [legge 12 giugno 1931, n. 752](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20finanze%20e%20stato%20di%20previsione%20dellentrata%20per%20lesercizio%20finanziario%20dal%201%20luglio%201931%20al%2030%20giugno%201932.%20031U0752.md); 
+ Visto l'[art. 41, primo comma, del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41-com1), sulla contabilita' generale dello Stato; 
+ Udito il Consiglio dei Ministri; 
+ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; 
+ Abbiamo decretato e decretiamo: 
+ Nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1931-32, sono apportate le seguenti variazioni in aumento: 
+ 
 
-Maggiori assegnazioni nello stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1931-32. (032U0434)
----------------------------------------------------------------------------------------------------------------------------------------
+Cap. n. 138. - Restituzioni e rimborsi.
+(Tasse sugli affari) . . . . . . . . . . . . . . . . . .L. 4.000.000 Cap. n. 211. - Restituzione di diritti
+alla esportazione, ecc . . . . . . . . . . . . . . . . " 13.000.000 Cap. n. 218. - Vincite al lotto . . . . . . . . . . . . ." 45.000.000
 
-Entrata in vigore del provvedimento: 25/05/1932
+ ------------- Totale L. 62.000.000 
 
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-  
-PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
-  
-  
-RE D'ITALIA   
-  
-Vista la [legge 12 giugno 1931, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-12;752);   
-Visto l'[art. 41, primo comma, del R. decreto 18 novembre 1923, n. 2440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440~art41-com1), sulla contabilita' generale dello Stato;   
-Udito il Consiglio dei Ministri;   
-Sulla proposta del Nostro Ministro Segretario di Stato per le finanze;   
-Abbiamo decretato e decretiamo:   
-Nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1931-32, sono apportate le seguenti variazioni in aumento:   
-  
-  
-Cap. n. 138. - Restituzioni e rimborsi.  
-(Tasse sugli affari) . . . . . . . . . . . . . . . . . .L. 4.000.000 Cap. n. 211. - Restituzione di diritti  
-alla esportazione, ecc . . . . . . . . . . . . . . . . " 13.000.000 Cap. n. 218. - Vincite al lotto . . . . . . . . . . . . ." 45.000.000  
-  
-------------- Totale L. 62.000.000   
-  
-  
-Il presente decreto andra' in vigore il giorno stesso della Sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Roma, addi' 25 aprile 1932 - Anno X   
-  
-VITTORIO EMANUELE.   
-  
-  
-Mussolini - Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 7 maggio 1932 - Anno X   
-Atti del Governo, registro 320, foglio 29. - Mancini.   
+ 
+ Il presente decreto andra' in vigore il giorno stesso della Sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 25 aprile 1932 - Anno X 
+ 
+ VITTORIO EMANUELE. 
+ 
+ 
+ Mussolini - Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 7 maggio 1932 - Anno X 
+ Atti del Governo, registro 320, foglio 29. - Mancini.

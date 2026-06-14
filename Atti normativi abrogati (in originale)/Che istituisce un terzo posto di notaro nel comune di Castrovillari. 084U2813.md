@@ -1,16 +1,14 @@
-REGIO DECRETO 07 dicembre 1884 n. 2813
-
-
-REGIO DECRETO 07 dicembre 1884 n. 2813
-======================================
-
-Che istituisce un terzo posto di notaro nel comune di Castrovillari. (084U2813)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/01/1885
+---
+tipo: REGIO DECRETO
+numero: 2813
+data: 1884-12-07
+titolo: "Che istituisce un terzo posto di notaro nel comune di Castrovillari. (084U2813)"
+urn: urn:nir:stato:regio.decreto:1884-12-07;2813
+codice_redazionale: 084U2813
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Veduta la domanda fatta dal comune di Castrovillari per la istituzione di nuovi 
 
 Ritenuto che sarebbe giustificata la convenienza ed opportunita' della istituzione di un terzo posto;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un terzo posto di notaro nel comune di Castrovillari, capoluogo di Collegio notarile.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 dicembre 1884.   
-  
-UMBERTO.   
-  
-E. Pessina.   
-  
-Visto, Il Guardasigilli: Pessina.   
-  
+E' istituito un terzo posto di notaro nel comune di Castrovillari, capoluogo di Collegio notarile. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 dicembre 1884. 
+ 
+ UMBERTO. 
+ 
+ E. Pessina. 
+ 
+ Visto, Il Guardasigilli: Pessina.

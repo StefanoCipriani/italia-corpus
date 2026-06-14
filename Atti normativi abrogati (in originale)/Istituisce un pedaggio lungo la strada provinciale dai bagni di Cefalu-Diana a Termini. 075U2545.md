@@ -1,16 +1,14 @@
-REGIO DECRETO 27 maggio 1875 n. 2545
-
-
-REGIO DECRETO 27 maggio 1875 n. 2545
-====================================
-
-Istituisce un pedaggio lungo la strada provinciale dai bagni di Cefalu-Diana a Termini. (075U2545)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/07/1875
+---
+tipo: REGIO DECRETO
+numero: 2545
+data: 1875-05-27
+titolo: "Istituisce un pedaggio lungo la strada provinciale dai bagni di Cefalu-Diana a Termini. (075U2545)"
+urn: urn:nir:stato:regio.decreto:1875-05-27;2545
+codice_redazionale: 075U2545
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,23 +32,16 @@ Che la tariffa, in base alla quale si intende esigere la tassa di pedaggio, e' q
 
 Udito il parere del Consiglio di Stato,
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La provincia di Palermo e' autorizzata ad istituire un pedaggio lungo la strada provinciale dai Bagni di Cefalà-Diana per Trabia a Termini, vicino all'innesto della linea Messina-Montagne, per la durata di anni venti in base alla tariffa annessa al R. decreto 15 gennaio 1870.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 maggio 1875.   
-  
-VITTORIO EMANUELE.   
-  
-S. Spaventa.   
-  
+La provincia di Palermo e' autorizzata ad istituire un pedaggio lungo la strada provinciale dai Bagni di Cefalà-Diana per Trabia a Termini, vicino all'innesto della linea Messina-Montagne, per la durata di anni venti in base alla tariffa annessa al R. decreto 15 gennaio 1870. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 maggio 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ S. Spaventa.

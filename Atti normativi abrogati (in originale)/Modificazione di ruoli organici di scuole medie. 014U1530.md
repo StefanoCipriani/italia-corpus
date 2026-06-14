@@ -1,19 +1,15 @@
-REGIO DECRETO 31 dicembre 1914 n. 1530
+---
+tipo: REGIO DECRETO
+numero: 1530
+data: 1914-12-31
+titolo: "Modificazione di ruoli organici di scuole medie. (014U1530)"
+urn: urn:nir:stato:regio.decreto:1914-12-31;1530
+codice_redazionale: 014U1530
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 dicembre 1914 n. 1530
-======================================
-
-Modificazione di ruoli organici di scuole medie. (014U1530)
------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/06/1915
-
-Art. 1
-------
-
-  
-N. 1530   
-  
-Regio Decreto 31 dicembre 1914, col quale, sulla proposta dei ministri dell'istruzione pubblica e del tesoro, vengono modificati i ruoli organici delle scuole medie in conseguenza della istituzione di corsi magistrali.   
-  
+N. 1530 
+ 
+ Regio Decreto 31 dicembre 1914, col quale, sulla proposta dei ministri dell'istruzione pubblica e del tesoro, vengono modificati i ruoli organici delle scuole medie in conseguenza della istituzione di corsi magistrali.

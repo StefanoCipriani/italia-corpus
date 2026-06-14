@@ -1,15 +1,11 @@
-REGIO DECRETO 17 marzo 1921 n. 455
+---
+tipo: REGIO DECRETO
+numero: 455
+data: 1921-03-17
+titolo: "Inammissibilita' di ricorso. (021U0455)"
+urn: urn:nir:stato:regio.decreto:1921-03-17;455
+codice_redazionale: 021U0455
+vigente: true
+---
 
-
-REGIO DECRETO 17 marzo 1921 n. 455
-==================================
-
-Inammissibilita' di ricorso. (021U0455)
----------------------------------------
-
-Entrata in vigore del provvedimento: 21/05/1921
-
-Art. 1
-------
-
-null
+## Art. 1. — null

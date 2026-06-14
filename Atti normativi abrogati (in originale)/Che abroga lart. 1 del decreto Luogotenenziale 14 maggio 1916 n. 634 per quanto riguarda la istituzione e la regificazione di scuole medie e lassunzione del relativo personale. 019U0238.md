@@ -1,16 +1,14 @@
-DECRETO-LEGGE LUOGOTENENZIALE 05 gennaio 1919 n. 238
-
-
-DECRETO-LEGGE LUOGOTENENZIALE 05 gennaio 1919 n. 238
-====================================================
-
-Che abroga l'art. 1 del decreto Luogotenenziale 14 maggio 1916, n. 634 per quanto riguarda la istituzione e la regificazione di scuole medie e l'assunzione del relativo personale. (019U0238)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/04/1919
+---
+tipo: DECRETO-LEGGE LUOGOTENENZIALE
+numero: 238
+data: 1919-01-05
+titolo: "Che abroga l'art. 1 del decreto Luogotenenziale 14 maggio 1916, n. 634 per quanto riguarda la istituzione e la regificazione di scuole medie e l'assunzione del relativo personale. (019U0238)"
+urn: urn:nir:stato:decreto.legge.luogotenenziale:1919-01-05;238
+codice_redazionale: 019U0238
+vigente: true
+---
 
 TOMASO DI SAVOIA DUCA DI GENOVA.
---------------------------------
 
 Luogotenente Generale di Sua Maesta'
 
@@ -30,43 +28,26 @@ Vista la conseguente necessita' di revocare in pari tempo il divieto, statuito c
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del ministro segretario di Stato per per la istruzione pubblica, di concerto con quello del tesoro; Abbiamo decretato e decretiamo:
 
-proposta del ministro segretario di Stato per per la istruzione pubblica, di concerto con quello del tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'art. 1° del Nostro decreto 14 maggio 1916, n. 634, e' abrogato dal 1° ottobre 1918 per quanto riguarda la istituzione e la regificazione di scuole medie e l'assunzione del relativo personale.
 
-  
-  
-  
-L'art. 1° del Nostro decreto 14 maggio 1916, n. 634, e' abrogato dal 1° ottobre 1918 per quanto riguarda la istituzione e la regificazione di scuole medie e l'assunzione del relativo personale.   
+## Art. 2.
 
-Art. 2
-------
+In temporanea deroga al disposto dell'[Art. 6 del Regio decreto 25 luglio 1907, n. 645](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-25;645#art_6), i provvedimenti di regificazione e istituzione di scuole medie e normali, che saranno decretati entro l'anno scolastico 1918-919, potranno avere effetto dalla stessa data di cui all'articolo precedente.
 
-  
-  
-  
-In temporanea deroga al disposto dell'[Art. 6 del Regio decreto 25 luglio 1907, n. 645](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-25;645~art6), i provvedimenti di regificazione e istituzione di scuole medie e normali, che saranno decretati entro l'anno scolastico 1918-919, potranno avere effetto dalla stessa data di cui all'articolo precedente.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-  
-Il presente decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 gennaio 1919.   
-  
-TOMASO DI SAVOIA.   
-  
-Orlando - Berenini - Nitti.   
-  
-Vieto, Il guardasigilli: Facta.   
-  
+Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 gennaio 1919. 
+ 
+ TOMASO DI SAVOIA. 
+ 
+ Orlando - Berenini - Nitti. 
+ 
+ Vieto, Il guardasigilli: Facta.

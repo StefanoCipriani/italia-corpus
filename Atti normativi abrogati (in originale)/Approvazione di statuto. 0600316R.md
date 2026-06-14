@@ -1,19 +1,15 @@
-REGIO DECRETO 10 luglio 1906 n. CCCXVI
+---
+tipo: REGIO DECRETO
+numero: CCCXVI
+data: 1906-07-10
+titolo: "Approvazione di statuto. (0600316R)"
+urn: urn:nir:stato:regio.decreto:1906-07-10;316
+codice_redazionale: 0600316R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 luglio 1906 n. CCCXVI
-======================================
-
-Approvazione di statuto. (0600316R)
------------------------------------
-
-Entrata in vigore del provvedimento: 30/09/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CCCXVI (Dato a Roma, il 10 luglio 1906), col quale si approva lo statuto della Cassa provinciale di credito agrario per la Basilicata, con sede in Potenza.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CCCXVI (Dato a Roma, il 10 luglio 1906), col quale si approva lo statuto della Cassa provinciale di credito agrario per la Basilicata, con sede in Potenza.

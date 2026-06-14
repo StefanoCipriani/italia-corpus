@@ -1,16 +1,14 @@
-REGIO DECRETO 04 maggio 1931 n. 540
-
-
-REGIO DECRETO 04 maggio 1931 n. 540
-===================================
-
-Approvazione del nuovo regolamento per l'applicazione della tassa sul bestiame nei Comuni della provincia di Macerata. (031U0540)
----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/06/1931
+---
+tipo: REGIO DECRETO
+numero: 540
+data: 1931-05-04
+titolo: "Approvazione del nuovo regolamento per l'applicazione della tassa sul bestiame nei Comuni della provincia di Macerata. (031U0540)"
+urn: urn:nir:stato:regio.decreto:1931-05-04;540
+codice_redazionale: 031U0540
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,27 +16,21 @@ RE D'ITALIA
 
 Vista la deliberazione 29 novembre 1930 con la quale la Giunta provinciale amministrativa di Macerata ha predisposto ed approvato un nuovo testo di regolamento per l'applicazione della tassa sul bestiame nei Comuni della Provincia, in sostituzione di quello approvato con R. decreto 6 luglio 1912;
 
-Veduto l'[art. 8 della legge 26 luglio 1868, n. 4513](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1868-07-26;4513~art8);
+Veduto l'[art. 8 della legge 26 luglio 1868, n. 4513](Per%20laumento%20delle%20contribuzioni%20dirette%20e%20pel%20loro%20riparto%20nel%20Compartimento%20Ligure-Piemontese.%20068U4513.md);
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvato il regolamento per l'applicazione della tassa sul bestiame nei Comuni della provincia di Macerata deliberato da quella Giunta provinciale amministrativa nella adunanza del 29 novembre 1930, in sostituzione del regolamento in vigore, approvato con R. decreto 6 luglio 1912.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Roma, addi' 4 maggio 1931 - Anno IX   
-  
-VITTORIO EMANUELE.   
-  
-Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 23 maggio 1931 - Anno IX Atti del Governo, registro 308, foglio 97. - Mancini.   
+E' approvato il regolamento per l'applicazione della tassa sul bestiame nei Comuni della provincia di Macerata deliberato da quella Giunta provinciale amministrativa nella adunanza del 29 novembre 1930, in sostituzione del regolamento in vigore, approvato con R. decreto 6 luglio 1912. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 4 maggio 1931 - Anno IX 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 23 maggio 1931 - Anno IX  Atti del Governo, registro 308, foglio 97. - Mancini.

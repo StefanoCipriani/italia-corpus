@@ -1,16 +1,14 @@
-REGIO DECRETO 25 maggio 1873 n. 1396
-
-
-REGIO DECRETO 25 maggio 1873 n. 1396
-====================================
-
-col quale i Comuni di Comelico Inferiore, Comelico Superiore, Danta, S. Nicolo' di Comelico, S. Pietro di Cadore e Sappada sono costituiti in Sezione del Collegio elettorale di Pieve di Cadore, n. 446. (073U1396)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/06/1873
+---
+tipo: REGIO DECRETO
+numero: 1396
+data: 1873-05-25
+titolo: "col quale i Comuni di Comelico Inferiore, Comelico Superiore, Danta, S. Nicolo' di Comelico, S. Pietro di Cadore e Sappada sono costituiti in Sezione del Collegio elettorale di Pieve di Cadore, n. 446. (073U1396)"
+urn: urn:nir:stato:regio.decreto:1873-05-25;1396
+codice_redazionale: 073U1396
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,30 +24,23 @@ Noverandosi nel Comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Comelico Inferiore, Comelico Superiore, Danta, S.  
-Nicolo' di Comelico, S. Pietro di Cadore e Sappada costituiranno d'or innanzi una Sezione del Collegio elettorale politico di Pieve di Cadore n. 446, con sede nel Capoluogo del Comune di Comelico inferiore.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 25 maggio 1873.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 2 giugno 1873   
-  
-Vol. 60 Atti del Governo a c. 58. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+I Comuni di Comelico Inferiore, Comelico Superiore, Danta, S.
+Nicolo' di Comelico, S. Pietro di Cadore e Sappada costituiranno d'or innanzi una Sezione del Collegio elettorale politico di Pieve di Cadore n. 446, con sede nel Capoluogo del Comune di Comelico inferiore. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 25 maggio 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 2 giugno 1873 
+ 
+ Vol. 60 Atti del Governo a c. 58. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

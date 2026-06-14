@@ -1,20 +1,18 @@
-DECRETO-LEGGE 29 aprile 1994 n. 258
-
-
-DECRETO-LEGGE 29 aprile 1994 n. 258
-===================================
-
-Misure urgenti per contrastare la criminalita' organizzata nel territorio della regione Sicilia, della regione Calabria e del comune di Napoli, nonche' per il controllo dei valichi di frontiera nella regione Friuli-Venezia Giulia.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 1/5/1994.Decreto-Legge decaduto per mancata conversione.
+---
+tipo: DECRETO-LEGGE
+numero: 258
+data: 1994-04-29
+titolo: "Misure urgenti per contrastare la criminalita' organizzata nel territorio della regione Sicilia, della regione Calabria e del comune di Napoli, nonche' per il controllo dei valichi di frontiera nella regione Friuli-Venezia Giulia."
+urn: urn:nir:stato:decreto.legge:1994-04-29;258
+codice_redazionale: 094G0294
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto il [decreto-legge 25 luglio 1992, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-25;349), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-23;386);
+Visto il [decreto-legge 25 luglio 1992, n. 349](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-23;386);
 
 Ritenuta la straordinaria necessita' ed urgenza di utilizzare contingenti di Forze armate in operazioni di polizia per contrastare la criminalita' organizzata nel territorio della regione Sicilia, della regione Calabria e del comune di Napoli per la tutela di specifici obiettivi di lotta alla criminalita' organizzata, nonche' per il controllo dei valichi di frontiera nella regione Friuli-Venezia Giulia, al fine di conseguire un piu' diffuso controllo dell'ordine pubblico e di garantire la sicurezza dei cittadini;
 
@@ -24,49 +22,36 @@ Sulla proposta del Presidente del Consiglio dei Ministri e, ad interim, Ministro
 
 E M A N A il seguente decreto-legge:
 
-Art. 1
-------
+## Art. 1.
 
-1. Le disposizioni previste dall'[articolo 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-25;349~art1) e dall'[articolo 3, comma 1, del decreto-legge 25 luglio 1992, n. 349](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-07-25;349~art3-com1), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-23;386), continuano ad applicarsi nelle province della Sicilia a decorrere dal 1 gennaio 1994.
+1.
 
-2. A decorrere dalla stessa data le disposizioni citate si applicano, con l'osservanza delle modalita' ivi stabilite, nelle province della Calabria e nel territorio del comune di Napoli per la tutela di specifici obiettivi di lotta alla criminalita' organizzata, nonche' nelle province della regione Friuli-Venezia Giulia per il controllo dei valichi di frontiera.
+Le disposizioni previste dall'[articolo 1](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md) e dall'[articolo 3, comma 1, del decreto-legge 25 luglio 1992, n. 349](Misure%20urgenti%20per%20contrastare%20la%20criminalita%20organizzata%20in%20Sicilia.md), convertito, con modificazioni, dalla [legge 23 settembre 1992, n. 386](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-09-23;386), continuano ad applicarsi nelle province della Sicilia a decorrere dal 1 gennaio 1994.
 
-Art. 2
-------
+2.
 
-1. Il personale di cui alle disposizioni richiamate nell'articolo 1 e' posto a disposizione dei prefetti interessati sino al 30 giugno 1994.
+A decorrere dalla stessa data le disposizioni citate si applicano, con l'osservanza delle modalita' ivi stabilite, nelle province della Calabria e nel territorio del comune di Napoli per la tutela di specifici obiettivi di lotta alla criminalita' organizzata, nonche' nelle province della regione Friuli-Venezia Giulia per il controllo dei valichi di frontiera.
 
-Art. 3
-------
+## Art. 2.
 
-1. All'onere derivante dall'attuazione del presente decreto, valutato in lire 106.378 milioni fino al 30 giugno 1994, si provvede nei limiti delle disponibilita' di bilancio del Ministero della difesa.
+1.
 
-Art. 4
-------
+Il personale di cui alle disposizioni richiamate nell'articolo 1 e' posto a disposizione dei prefetti interessati sino al 30 giugno 1994.
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+## Art. 3.
+
+1.
+
+All'onere derivante dall'attuazione del presente decreto, valutato in lire 106.378 milioni fino al 30 giugno 1994, si provvede nei limiti delle disponibilita' di bilancio del Ministero della difesa.
+
+## Art. 4.
+
+1.
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 aprile 1994
+Dato a Roma, addi' 29 aprile 1994
 
-SCALFARO
-
-CIAMPI, Presidente del Consiglio
-
-dei Ministri e, ad
-
-interim, Ministro dell'interno
-
-FABBRI, Ministro della difesa
-
-CONSO, Ministro di grazia e giustizia
-
-BARUCCI, Ministro del tesoro
-
-SPAVENTA, Ministro del bilancio e della programmazione economica
-
-GALLO, Ministro delle finanze
-
-Visto, il Guardasigilli: CONSO
+SCALFARO CIAMPI, Presidente del Consiglio dei Ministri e, ad interim, Ministro dell'interno FABBRI, Ministro della difesa CONSO, Ministro di grazia e giustizia BARUCCI, Ministro del tesoro SPAVENTA, Ministro del bilancio e della programmazione economica GALLO, Ministro delle finanze Visto, il Guardasigilli: CONSO

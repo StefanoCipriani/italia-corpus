@@ -1,16 +1,14 @@
-REGIO DECRETO 25 luglio 1904 n. 509
-
-
-REGIO DECRETO 25 luglio 1904 n. 509
-===================================
-
-Modificazioni ed aggiunte al regolamento pel personale degli uffici finanziari e per l'ordinamento degli uffici direttivi dell'Amministrazione finanziaria. (004U0509)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/10/1904
+---
+tipo: REGIO DECRETO
+numero: 509
+data: 1904-07-25
+titolo: "Modificazioni ed aggiunte al regolamento pel personale degli uffici finanziari e per l'ordinamento degli uffici direttivi dell'Amministrazione finanziaria. (004U0509)"
+urn: urn:nir:stato:regio.decreto:1904-07-25;509
+codice_redazionale: 004U0509
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -18,11 +16,11 @@ RE D'ITALIA
 
 Sulla proposta del Nostro Ministro Segretario di Stato per il Tesoro, interim per le Finanze;
 
-Vista la [legge 3 marzo 1904, n. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-03;68), che ha approvato i nuovi ruoli organici del personale dell'Amministrazione finanziaria;
+Vista la [legge 3 marzo 1904, n. 68](Che%20approva%20i%20nuovi%20ruoli%20organici%20del%20personale%20dellAmministrazione%20finanziaria.%20004U0068.md), che ha approvato i nuovi ruoli organici del personale dell'Amministrazione finanziaria;
 
-Visto il regolamento per il personale degli Uffici finanziari e per l'ordinamento degli Uffici direttivi, approvato col [R. decreto 29 agosto 1897, n. 512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-08-29;512);
+Visto il regolamento per il personale degli Uffici finanziari e per l'ordinamento degli Uffici direttivi, approvato col [R. decreto 29 agosto 1897, n. 512](Che%20approva%20il%20Regolamento%20per%20il%20personale%20degli%20Uffici%20finanziari%20e%20per%20lordinamento%20degli%20Uffici%20direttivi.%20097U0512.md);
 
-Viste le modificazioni al suddetto regolamento approvate col [R. decreto 12 settembre 1901, n. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-09-12;432);
+Viste le modificazioni al suddetto regolamento approvate col [R. decreto 12 settembre 1901, n. 432](Che%20apporta%20modificazioni%20al%20Regolamento%20per%20il%20personale%20degli%20Uffici%20di%20finanza.%20001U0432.md);
 
 Udito il Consiglio di Stato;
 
@@ -38,7 +36,7 @@ In base alle risultanze dei detti processi verbali, il Ministero (con decreto da
 
 Art. 21 bis. - I posti di volontario per la carriera amministrativa delle Intendenze di finanza saranno conferiti mediante esame di concorso.
 
-Gli aspiranti, oltre i documenti richiesti dall'art. 9, dovranno presentare il diploma di laurea in giurisprudenza o quello, parimente di laurea, rilasciato dalla scuola di scienze sociali «Cesare Alfieri» in Firenze, ovvero da una delle scuole superiori di commercio considerate dal [R. decreto 26 novembre 1903, n. 476](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-11-26;476).
+Gli aspiranti, oltre i documenti richiesti dall'art. 9, dovranno presentare il diploma di laurea in giurisprudenza o quello, parimente di laurea, rilasciato dalla scuola di scienze sociali «Cesare Alfieri» in Firenze, ovvero da una delle scuole superiori di commercio considerate dal [R. decreto 26 novembre 1903, n. 476](contenente%20disposizioni%20per%20linsegnamento%20commerciale%20superiore.%20003U0476.md).
 
 Il programma e le norme pel concorso verranno stabiliti con decreto del Ministro.
 
@@ -60,95 +58,62 @@ Art. 41 a). - I posti d'ispettore delle Intendenze di finanza sono conferiti a s
 
 Art. 41 b). - Gli ispettori di finanza avranno la loro sede abituale a Roma presso il Ministero delle Finanze (Segretariato generale), ed eseguiranno tutti quegli incarichi che saranno loro affidati, per ordine del Ministro, nell'intento, specialmente, di assicurarsi del regolare funzionamento degli Uffici direttivi in provincia.
 
-Art.
-----
+Art. 41 c). - (Come l'articolo 41 del regolamento). Disposizioni transitorie.
 
-41 c). - (Come l'articolo 41 del regolamento). Disposizioni transitorie.
+## Art. 1.
 
-Art. 1
-------
+Fino a quando non vi siano volontari promovibili per le Intendenze di finanza potranno essere nominati a scelta, alla totalita' dei posti disponibili di vice segretario amministrativo di 3ª classe nelle Intendenze medesime, impiegati degli Uffici esecutivi, anche se sprovvisti di laurea, che alla pubblicazione del presente decreto risultino avere presentata istanza per tale cambio d'impiego, a termine degli articoli 22 e 23 del regolamento per il personale finanziario approvato col [R. decreto del 29 agosto 1897, n. 512](Che%20approva%20il%20Regolamento%20per%20il%20personale%20degli%20Uffici%20finanziari%20e%20per%20lordinamento%20degli%20Uffici%20direttivi.%20097U0512.md). 
+ 
+------------ 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 10/10/1904, n. 236 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-  
-  
-Fino a quando non vi siano volontari promovibili per le Intendenze di finanza potranno essere nominati a scelta, alla totalita' dei posti disponibili di vice segretario amministrativo di 3ª classe nelle Intendenze medesime, impiegati degli Uffici esecutivi, anche se sprovvisti di laurea, che alla pubblicazione del presente decreto risultino avere presentata istanza per tale cambio d'impiego, a termine degli articoli 22 e 23 del regolamento per il personale finanziario approvato col [R. decreto del 29 agosto 1897, n. 512](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-08-29;512).   
-  
-------------   
-Nota redazionale   
-Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 10/10/1904, n. 236 durante il periodo di "vacatio legis".   
-E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.   
+## Art. 2.
 
-Art. 2
-------
+Nominati i volontari per le Intendenze di finanza ai posti disponibili di vice segretario amministrativo di ultima classe nelle Intendenze di finanza potranno essere nominati a scelta nei limiti e condizioni stabilite nel precedente art. 22 impiegati degli uffici esecutivi, anche se sprovvisti di laurea, purche' alla pubblicazione del presente decreto ne abbiano gia' fatto regolare istanza secondo gli articoli 22 e 23 del citato regolamento.
 
-  
-  
-Nominati i volontari per le Intendenze di finanza ai posti disponibili di vice segretario amministrativo di ultima classe nelle Intendenze di finanza potranno essere nominati a scelta nei limiti e condizioni stabilite nel precedente art. 22 impiegati degli uffici esecutivi, anche se sprovvisti di laurea, purche' alla pubblicazione del presente decreto ne abbiano gia' fatto regolare istanza secondo gli articoli 22 e 23 del citato regolamento.   
-  
+## Art. 3.
 
-Art. 3
-------
+Potranno pure, transitoriamente, essere nominati vice segretari amministrativi o di ragioneria di ultima classe nel Ministero, rispettivamente, vice segretari amministrativi di 2ª classe nelle Intendenze di finanza e impiegati degli Uffici esecutivi provvisti di stipendio non inferiore a L. 2000 i quali, pur non essendo forniti del titolo di studio, di cui ai precedenti articoli 21 bis e 23 bis ne abbiano, alla pubblicazione del presente decreto, fatta regolare istanza a termine degli articoli 22 e 24 del ripetuto regolamento.
 
-  
-  
-Potranno pure, transitoriamente, essere nominati vice segretari amministrativi o di ragioneria di ultima classe nel Ministero, rispettivamente, vice segretari amministrativi di 2ª classe nelle Intendenze di finanza e impiegati degli Uffici esecutivi provvisti di stipendio non inferiore a L. 2000 i quali, pur non essendo forniti del titolo di studio, di cui ai precedenti articoli 21 bis e 23 bis ne abbiano, alla pubblicazione del presente decreto, fatta regolare istanza a termine degli articoli 22 e 24 del ripetuto regolamento.   
-  
+## Art. 4.
 
-Art. 4
-------
+I vice segretari amministrativi del Ministero e delle Intendenze, gia' in servizio alla data del presente decreto i quali non siano provvisti di titoli di studio, di cui al comma 2 dell'art. 21-bis, non potranno essere ammessi agli esami di concorso per la promozione di segretario, se all'epoca stabilita dal 1° comma dell'art. 9, non abbiano compiuti sei anni di servizio compreso il volontariato.
 
-  
-  
-I vice segretari amministrativi del Ministero e delle Intendenze, gia' in servizio alla data del presente decreto i quali non siano provvisti di titoli di studio, di cui al comma 2 dell'art. 21-bis, non potranno essere ammessi agli esami di concorso per la promozione di segretario, se all'epoca stabilita dal 1° comma dell'art. 9, non abbiano compiuti sei anni di servizio compreso il volontariato.   
-  
+## Art. 5.
 
-Art. 5
-------
+Dei sedici posti di segretario di ultima classe nelle Intendenze di finanza vacanti al 1° gennaio 1904, tenuto conto delle risultanze dell'organico approvato con la [legge 3 marzo 1904, n. 68](Che%20approva%20i%20nuovi%20ruoli%20organici%20del%20personale%20dellAmministrazione%20finanziaria.%20004U0068.md), cinque verranno assegnati ai primi vice segretari di 1ª classe, inscritti nella lista degli idonei alla promozione, giusta il [R. decreto 12 settembre 1901, n. 432](Che%20apporta%20modificazioni%20al%20Regolamento%20per%20il%20personale%20degli%20Uffici%20di%20finanza.%20001U0432.md), in aggiunta agli otto nominati con riserva di anzianita'; e gli altri undici posti poi a vice segretari di 2ª classe che nel concorso del 1901 riportarono almeno 70 % di punto regolandosi tale conferimento secondo le risultanze della graduatoria approvata dall'[art.2 del decreto Ministeriale 17 aprile 1902, n. 8457](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1902-04-17;8457#art_2).
 
-  
-  
-Dei sedici posti di segretario di ultima classe nelle Intendenze di finanza vacanti al 1° gennaio 1904, tenuto conto delle risultanze dell'organico approvato con la [legge 3 marzo 1904, n. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-03;68), cinque verranno assegnati ai primi vice segretari di 1ª classe, inscritti nella lista degli idonei alla promozione, giusta il [R. decreto 12 settembre 1901, n. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-09-12;432), in aggiunta agli otto nominati con riserva di anzianita'; e gli altri undici posti poi a vice segretari di 2ª classe che nel concorso del 1901 riportarono almeno 70 % di punto regolandosi tale conferimento secondo le risultanze della graduatoria approvata dall'[art.2 del decreto Ministeriale 17 aprile 1902, n. 8457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1902-04-17;8457~art2).   
-  
+## Art. 6.
 
-Art. 6
-------
+Alla predetta lista degli idonei alla promozione a segretario verranno aggiunti tutti i vice segretari di 2ª e 3ª classe che nel concorso del 1901 e negli anteriori ottennero una votazione non inferiore a 70 % di punto, purche' rinuncino entro 40 giorni dalla pubblicazione del presente decreto, a partecipare ai futuri concorsi per l'assegnamento di quel tanto di posti di segretario che non e' riserbato alla lista degli idonei. 
+ 
+ Le iscrizioni che in questa lista avranno luogo per effetto della disposizione di cui sopra, seguiranno nell'ordine di anzianita' di servizio in estendimento del principio stabilito dal [R. decreto 12 settembre 1901, n. 432](Che%20apporta%20modificazioni%20al%20Regolamento%20per%20il%20personale%20degli%20Uffici%20di%20finanza.%20001U0432.md).
 
-  
-  
-Alla predetta lista degli idonei alla promozione a segretario verranno aggiunti tutti i vice segretari di 2ª e 3ª classe che nel concorso del 1901 e negli anteriori ottennero una votazione non inferiore a 70 % di punto, purche' rinuncino entro 40 giorni dalla pubblicazione del presente decreto, a partecipare ai futuri concorsi per l'assegnamento di quel tanto di posti di segretario che non e' riserbato alla lista degli idonei.   
-  
-Le iscrizioni che in questa lista avranno luogo per effetto della disposizione di cui sopra, seguiranno nell'ordine di anzianita' di servizio in estendimento del principio stabilito dal [R. decreto 12 settembre 1901, n. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-09-12;432).   
-  
+## Art. 7.
 
-Art. 7
-------
+Fino a quando la lista degli idonei, completata come all'articolo precedente, non sia esaurita, la meta' dei posti di segretario di ultima classe vacanti sara' riserbata agli inscritti nella lista medesima, e secondo l'ordine di graduatoria da questa risultante.
+L'altra meta' verra' posta a concorso fra i vice segretari in possesso dei requisiti prescritti per prender parte alla gara e non figuranti nella lista d'idoneita' di cui sopra. 
+ 
+ La ripartizione dei posti di concorso fra le tre classi di vice segretari, seguira' in ragione di un terzo ai vice segretari di 1ª classe esclusivamente, e di due terzi ai vice-segretarii di tutte le tre classi indistintamente, osservando in questo e nel resto quanto e' disposto dal [R. decreto 12 settembre 1901, n. 432](Che%20apporta%20modificazioni%20al%20Regolamento%20per%20il%20personale%20degli%20Uffici%20di%20finanza.%20001U0432.md). 
+ 
+------------ 
+Nota redazionale 
+ Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 10/10/1904, n. 236 durante il periodo di "vacatio legis". 
+ E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.
 
-  
-  
-Fino a quando la lista degli idonei, completata come all'articolo precedente, non sia esaurita, la meta' dei posti di segretario di ultima classe vacanti sara' riserbata agli inscritti nella lista medesima, e secondo l'ordine di graduatoria da questa risultante.  
-L'altra meta' verra' posta a concorso fra i vice segretari in possesso dei requisiti prescritti per prender parte alla gara e non figuranti nella lista d'idoneita' di cui sopra.   
-  
-La ripartizione dei posti di concorso fra le tre classi di vice segretari, seguira' in ragione di un terzo ai vice segretari di 1ª classe esclusivamente, e di due terzi ai vice-segretarii di tutte le tre classi indistintamente, osservando in questo e nel resto quanto e' disposto dal [R. decreto 12 settembre 1901, n. 432](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-09-12;432).   
-  
-------------   
-Nota redazionale   
-Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 10/10/1904, n. 236 durante il periodo di "vacatio legis".   
-E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.   
+## Art. 8.
 
-Art. 8
-------
-
-  
-  
-Allorquando sara' stato promosso l'ultimo degli inscritti nella lista d'idoneita' in applicazione delle presenti disposizioni transitorie, tornera' ad imperare pienamente il ripetuto R. decreto del 12 settembre 1901.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 25 luglio 1904.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti.   
-L. Luzzatti.   
-  
-Visto, Il Guardasigilli: Ronchetti.   
-  
+Allorquando sara' stato promosso l'ultimo degli inscritti nella lista d'idoneita' in applicazione delle presenti disposizioni transitorie, tornera' ad imperare pienamente il ripetuto R. decreto del 12 settembre 1901. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 25 luglio 1904. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti. 
+ L. Luzzatti. 
+ 
+ Visto, Il Guardasigilli: Ronchetti.

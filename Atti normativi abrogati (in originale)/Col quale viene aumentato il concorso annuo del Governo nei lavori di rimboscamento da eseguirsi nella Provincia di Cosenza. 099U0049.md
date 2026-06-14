@@ -1,16 +1,14 @@
-REGIO DECRETO 08 gennaio 1899 n. 49
-
-
-REGIO DECRETO 08 gennaio 1899 n. 49
-===================================
-
-Col quale viene aumentato il concorso annuo del Governo nei lavori di rimboscamento da eseguirsi nella Provincia di Cosenza. (099U0049)
----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/03/1899
+---
+tipo: REGIO DECRETO
+numero: 49
+data: 1899-01-08
+titolo: "Col quale viene aumentato il concorso annuo del Governo nei lavori di rimboscamento da eseguirsi nella Provincia di Cosenza. (099U0049)"
+urn: urn:nir:stato:regio.decreto:1899-01-08;49
+codice_redazionale: 099U0049
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,28 +20,20 @@ Viste le deliberazioni del 22 novembre 1898 del Consiglio Provinciale di Cosenza
 
 Visti gli articoli 5 e 11 della legge forestale 20 giugno 1877, n. 3917;
 
-Sulla
------
+Sulla proposta del Nostro Ministro d'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro d'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il concorso annuo del Governo nei lavori di rimboscamento da eseguirsi nella Provincia di Cosenza a cura di quel Comitato forestale, stabilito fino alla somma di lire cinquemila coll'[articolo 5 del Regio decreto 25 luglio 1876, n. 3277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-07-25;3277~art5) (serie 2ª), e' aumentato, a decorrere dal corrente esercizio finanziario, fino alla somma di lire diecimila, corrispondente al consimile contributo della predetta Provincia.   
-  
-La somma di lire diecimila sara' prelevata dal fondo stanziato nel bilancio passivo del Ministero d'Agricoltura, Industria e Commercio al titolo: «Concorsi ai Comitati forestali per i rimboscamenti».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 gennaio 1899.   
-  
-UMBERTO.   
-  
-A. Fortis.   
-  
-Visto, Il Guardasigilli: C. Finocchiaro-Aprile.   
-  
-  
+Il concorso annuo del Governo nei lavori di rimboscamento da eseguirsi nella Provincia di Cosenza a cura di quel Comitato forestale, stabilito fino alla somma di lire cinquemila coll'[articolo 5 del Regio decreto 25 luglio 1876, n. 3277](Che%20istituisce%20in%20Cosenza%20un%20comitato%20provinciale%20forestale.%20076U3277.md) (serie 2ª), e' aumentato, a decorrere dal corrente esercizio finanziario, fino alla somma di lire diecimila, corrispondente al consimile contributo della predetta Provincia. 
+ 
+ La somma di lire diecimila sara' prelevata dal fondo stanziato nel bilancio passivo del Ministero d'Agricoltura, Industria e Commercio al titolo: «Concorsi ai Comitati forestali per i rimboscamenti». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 gennaio 1899. 
+ 
+ UMBERTO. 
+ 
+ A. Fortis. 
+ 
+ Visto, Il Guardasigilli: C. Finocchiaro-Aprile.

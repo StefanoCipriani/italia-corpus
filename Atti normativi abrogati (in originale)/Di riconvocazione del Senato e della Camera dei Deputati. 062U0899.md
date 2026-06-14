@@ -1,17 +1,14 @@
-REGIO DECRETO 26 ottobre 1862 n. 899
-
-
-REGIO DECRETO 26 ottobre 1862 n. 899
-====================================
-
-Di riconvocazione del Senato e della Camera dei Deputati. (062U0899)
---------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/11/1862   
-Il presente Regio Decreto è stato erroneamente pubblicato in Gazzetta Ufficiale senza l'indicazione del numero di inserzione nella Raccolta ufficiale delle leggi e dei decreti del Regno.
+---
+tipo: REGIO DECRETO
+numero: 899
+data: 1862-10-26
+titolo: "Di riconvocazione del Senato e della Camera dei Deputati. (062U0899)"
+urn: urn:nir:stato:regio.decreto:1862-10-26;899
+codice_redazionale: 062U0899
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 Per grazia di Dio e per volonta' della Nazione
 
@@ -23,23 +20,16 @@ Veduto il Nostro Decreto del 21 agosto ultimo scorso, n° 772;
 
 Veduto l'art. 9 dello Statuto;
 
-Sentito
--------
+Sentito il Consiglio dei ministri, Abbiamo decretato e decretiamo:
 
-il Consiglio dei ministri, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Senato e la Camera dei Deputati sono convocati pel giorno 18 del prossimo mese di novembre.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella Raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 26 ottobre 1862.   
-  
-VITTORIO EMANUELE.   
-  
-U. Rattazzi.   
-  
+Il Senato e la Camera dei Deputati sono convocati pel giorno 18 del prossimo mese di novembre. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella Raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 26 ottobre 1862. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ U. Rattazzi.

@@ -1,16 +1,14 @@
-REGIO DECRETO 31 gennaio 1892 n. 46
-
-
-REGIO DECRETO 31 gennaio 1892 n. 46
-===================================
-
-Che istituisce un posto di notaro nel comune di Montecalvo Irpino. (092U0046)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/03/1892
+---
+tipo: REGIO DECRETO
+numero: 46
+data: 1892-01-31
+titolo: "Che istituisce un posto di notaro nel comune di Montecalvo Irpino. (092U0046)"
+urn: urn:nir:stato:regio.decreto:1892-01-31;46
+codice_redazionale: 092U0046
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Visto l'art. 4 della legge sul notariato, approvata con Nostro decreto 25 maggio
 
 Ritenuto esser dimostrata la necessita' della istituzione del posto anzidetto;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un secondo posto di notaro nel comune di Montecalvo Irpino, distretto notarile di Ariano di Puglia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 31 gennaio 1892.   
-  
-UMBERTO.   
-  
-Chimirri.   
-  
-Visto, Il Guardasigilli: B. Chimirri.   
-  
+E' istituito un secondo posto di notaro nel comune di Montecalvo Irpino, distretto notarile di Ariano di Puglia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 31 gennaio 1892. 
+ 
+ UMBERTO. 
+ 
+ Chimirri. 
+ 
+ Visto, Il Guardasigilli: B. Chimirri.

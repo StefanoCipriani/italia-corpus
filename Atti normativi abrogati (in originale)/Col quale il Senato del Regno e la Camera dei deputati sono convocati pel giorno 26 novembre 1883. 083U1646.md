@@ -1,16 +1,14 @@
-REGIO DECRETO 26 ottobre 1883 n. 1646
-
-
-REGIO DECRETO 26 ottobre 1883 n. 1646
-=====================================
-
-Col quale il Senato del Regno e la Camera dei deputati sono convocati pel giorno 26 novembre 1883. (083U1646)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/11/1883
+---
+tipo: REGIO DECRETO
+numero: 1646
+data: 1883-10-26
+titolo: "Col quale il Senato del Regno e la Camera dei deputati sono convocati pel giorno 26 novembre 1883. (083U1646)"
+urn: urn:nir:stato:regio.decreto:1883-10-26;1646
+codice_redazionale: 083U1646
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,23 +20,16 @@ Veduto il Nostro Decreto dell' 8 luglio ultimo scorso, n. 1466 (Serie 3ª), con 
 
 Udito il Consiglio dei Ministri;
 
-Veduto
-------
+Veduto l'articolo 9 dello Statuto fondamentale del Regno, Abbiamo decretato e decretiamo:
 
-l'articolo 9 dello Statuto fondamentale del Regno, Abbiamo decretato e decretiamo:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno, d'Italia, mandando a chiunque spetti d'osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 26 ottobre 1883.   
-  
-UMBERTO.   
-  
-DEPRETIS.   
-  
-Visto, Il Guardasigilli: SAVELLI.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno, d'Italia, mandando a chiunque spetti d'osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 26 ottobre 1883. 
+ 
+ UMBERTO. 
+ 
+ DEPRETIS. 
+ 
+ Visto, Il Guardasigilli: SAVELLI.

@@ -1,21 +1,17 @@
-REGIO DECRETO 17 marzo 1898 n. LXXIII
+---
+tipo: REGIO DECRETO
+numero: LXXIII
+data: 1898-03-17
+titolo: "Con cui e' data facolta' al comune di Vigevano di applicare nel corrente anno la tassa di famiglia col limite massimo di lire centotrentaquattro. (9800073R)"
+urn: urn:nir:stato:regio.decreto:1898-03-17;73
+codice_redazionale: 9800073R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 marzo 1898 n. LXXIII
-=====================================
-
-Con cui e' data facolta' al comune di Vigevano di applicare nel corrente anno la tassa di famiglia col limite massimo di lire centotrentaquattro. (9800073R)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/04/1898
-
-Art. 1
-------
-
-  
-Con cui e' data facolta' al comune di Vigevano di applicare nel corrente anno la tassa di famiglia col limite massimo di lire centotrentaquattro. - Firmato UMBERTO - Controfirmato Branca - Visto G. Zanardelli.   
-  
-Registrato alla Corte dei Conti addi' 30 marzo 1898.   
-  
-Reg. 214. Atti del Governo a f. 197.   
-  
+Con cui e' data facolta' al comune di Vigevano di applicare nel corrente anno la tassa di famiglia col limite massimo di lire centotrentaquattro. - Firmato UMBERTO - Controfirmato Branca - Visto G. Zanardelli. 
+ 
+ Registrato alla Corte dei Conti addi' 30 marzo 1898. 
+ 
+ Reg. 214. Atti del Governo a f. 197.

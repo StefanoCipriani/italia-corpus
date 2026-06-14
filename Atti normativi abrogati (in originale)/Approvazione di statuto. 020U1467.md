@@ -1,17 +1,17 @@
-REGIO DECRETO 30 settembre 1920 n. 1467
+---
+tipo: REGIO DECRETO
+numero: 1467
+data: 1920-09-30
+titolo: "Approvazione di statuto. (020U1467)"
+urn: urn:nir:stato:regio.decreto:1920-09-30;1467
+codice_redazionale: 020U1467
+vigente: true
+---
 
-
-REGIO DECRETO 30 settembre 1920 n. 1467
-=======================================
-
-Approvazione di statuto. (020U1467)
------------------------------------
-
-Entrata in vigore del provvedimento: 06/11/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1467. Regio decreto 30 settembre 1920, col quale, sulla proposta del ministro per l'industria e il commercio, viene approvato il nuovo statuto organico del Monte di pieta' di Livorno.
+1467.
+
+Regio decreto 30 settembre 1920, col quale, sulla proposta del ministro per l'industria e il commercio, viene approvato il nuovo statuto organico del Monte di pieta' di Livorno.

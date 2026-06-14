@@ -1,17 +1,17 @@
-REGIO DECRETO 18 marzo 1920 n. 437
+---
+tipo: REGIO DECRETO
+numero: 437
+data: 1920-03-18
+titolo: "Trasformazione di fini inerenti a patrimoni di Opera pia. (020U0437)"
+urn: urn:nir:stato:regio.decreto:1920-03-18;437
+codice_redazionale: 020U0437
+vigente: true
+---
 
-
-REGIO DECRETO 18 marzo 1920 n. 437
-==================================
-
-Trasformazione di fini inerenti a patrimoni di Opera pia. (020U0437)
---------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/05/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-437. Regio decreto 18 marzo 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il fine inerente al patrimonio dell'Opera pia «Giordano» in Pietrabruna (Portomaurizio) e' parzialmente trasformato a scopo di beneficenza.
+437.
+
+Regio decreto 18 marzo 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il fine inerente al patrimonio dell'Opera pia «Giordano» in Pietrabruna (Portomaurizio) e' parzialmente trasformato a scopo di beneficenza.

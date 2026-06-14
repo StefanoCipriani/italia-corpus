@@ -1,56 +1,43 @@
-REGIO DECRETO 04 novembre 1866 n. 3300
+---
+tipo: REGIO DECRETO
+numero: 3300
+data: 1866-11-04
+titolo: "Col quale le Provincie della Venezia e quella di Mantova fanno parte integrante del Regno d'Italia. (066U3300)"
+urn: urn:nir:stato:regio.decreto:1866-11-04;3300
+codice_redazionale: 066U3300
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 novembre 1866 n. 3300
-======================================
+Le Provincie della Venezia e quella di Mantova fanno parte integrante del Regno d'Italia.
 
-Col quale le Provincie della Venezia e quella di Mantova fanno parte integrante del Regno d'Italia. (066U3300)
---------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 20/11/1866
+L'articolo 82 dello Statuto sara' applicabile alle Provincie suddette fino a che le Provincie medesime saranno rappresentate nel Parlamento Nazionale.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Le Provincie della Venezia e quella di Mantova fanno parte integrante del Regno d'Italia.   
-  
-
-Art. 2
-------
-
-  
-  
-L'articolo 82 dello Statuto sara' applicabile alle Provincie suddette fino a che le Provincie medesime saranno rappresentate nel Parlamento Nazionale.   
-  
-
-Art. 3
-------
-
-  
-  
-Il presente Decreto sara' presentato al Parlamento per essere convertito in Legge.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 4 novembre 1866.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 9 novembre 1866   
-  
-Reg.° 38 Atti del Governo a c. 54. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Borgatti.   
-  
-Ricasoli.   
-Borgatti.   
-Scialoja.   
-Depretis.   
-Cugia.   
-Jacini.   
-Cordova.   
-Berti.   
-Visconti Venosta.   
-  
+Il presente Decreto sara' presentato al Parlamento per essere convertito in Legge. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 4 novembre 1866. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 9 novembre 1866 
+ 
+ Reg.° 38 Atti del Governo a c. 54. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ Ricasoli. 
+ Borgatti. 
+ Scialoja. 
+ Depretis. 
+ Cugia. 
+ Jacini. 
+ Cordova. 
+ Berti. 
+ Visconti Venosta.

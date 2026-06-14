@@ -1,16 +1,14 @@
-REGIO DECRETO 23 luglio 1885 n. 3325
-
-
-REGIO DECRETO 23 luglio 1885 n. 3325
-====================================
-
-Che modifica l'elenco delle strade provinciali di Napoli. (085U3325)
---------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/09/1885
+---
+tipo: REGIO DECRETO
+numero: 3325
+data: 1885-07-23
+titolo: "Che modifica l'elenco delle strade provinciali di Napoli. (085U3325)"
+urn: urn:nir:stato:regio.decreto:1885-07-23;3325
+codice_redazionale: 085U3325
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,33 +24,22 @@ Visti i voti 22 dicembre 1883 e 11 luglio 1885 del Consiglio superiore dei lavor
 
 Visti gli articoli 13, 14 e 25 della legge 20 marzo 1865, allegato F;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' aggiunta all'elenco delle provinciali di Napoli la intera strada da Ottajano per San Giuseppe ed il crocicchio del Pianillo a quello dei Pazzi all'incontro della via Nuova per Striano.
 
-  
-  
-E' aggiunta all'elenco delle provinciali di Napoli la intera strada da Ottajano per San Giuseppe ed il crocicchio del Pianillo a quello dei Pazzi all'incontro della via Nuova per Striano.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' approvato il tracciamento generale del tronco di detta strada tra il crocicchio del Pianillo e quello dei Pazzi, giusta il progetto 25 aprile 1881 dell'ufficio tecnico provinciale di Napoli; quale progetto, visto d'ordine Nostro dal Ministro proponente, sara' alligato al presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo delle Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Milano, addi' 23 luglio 1885.   
-  
-UMBERTO.   
-  
-Genala.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+E' approvato il tracciamento generale del tronco di detta strada tra il crocicchio del Pianillo e quello dei Pazzi, giusta il progetto 25 aprile 1881 dell'ufficio tecnico provinciale di Napoli; quale progetto, visto d'ordine Nostro dal Ministro proponente, sara' alligato al presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo delle Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Milano, addi' 23 luglio 1885. 
+ 
+ UMBERTO. 
+ 
+ Genala. 
+ 
+ Visto, Il Guardasigilli: Tajani.

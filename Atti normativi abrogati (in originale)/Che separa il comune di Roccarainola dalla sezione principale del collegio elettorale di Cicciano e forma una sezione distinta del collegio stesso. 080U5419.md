@@ -1,16 +1,14 @@
-REGIO DECRETO 22 aprile 1880 n. 5419
-
-
-REGIO DECRETO 22 aprile 1880 n. 5419
-====================================
-
-Che separa il comune di Roccarainola dalla sezione principale del collegio elettorale di Cicciano e forma una sezione distinta del collegio stesso. (080U5419)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/05/1880
+---
+tipo: REGIO DECRETO
+numero: 5419
+data: 1880-04-22
+titolo: "Che separa il comune di Roccarainola dalla sezione principale del collegio elettorale di Cicciano e forma una sezione distinta del collegio stesso. (080U5419)"
+urn: urn:nir:stato:regio.decreto:1880-04-22;5419
+codice_redazionale: 080U5419
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Che gli elettori di Roccarainola sono 76, numero questo quasi doppio del minimo 
 
 Considerata la convenienza di istituire una sezione elettorale in Roccarainola, al fine di rendere piu' facile l'esercizio del diritto elettorale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Roccarainola e' separato dalla sezione principale del Collegio elettorale di Cicciano, e formera' una sezione distinta dello stesso Collegio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato Roma, addi' 22 aprile 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il comune di Roccarainola e' separato dalla sezione principale del Collegio elettorale di Cicciano, e formera' una sezione distinta dello stesso Collegio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato Roma, addi' 22 aprile 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

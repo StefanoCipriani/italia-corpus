@@ -1,16 +1,14 @@
-REGIO DECRETO 16 marzo 1942 n. 481
-
-
-REGIO DECRETO 16 marzo 1942 n. 481
-==================================
-
-Dichiarazione di decadenza dei diritti esclusivi di pesca. (042U0481)
----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/06/1942
+---
+tipo: REGIO DECRETO
+numero: 481
+data: 1942-03-16
+titolo: "Dichiarazione di decadenza dei diritti esclusivi di pesca. (042U0481)"
+urn: urn:nir:stato:regio.decreto:1942-03-16;481
+codice_redazionale: 042U0481
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,7 +18,7 @@ IMPERATORE D'ETIOPIA
 
 Visto il testo unico delle leggi sulla pesca, approvate con R. decreto 8 ottobre 1931-IX, n. 1604;
 
-Visto il regolamento per l'esecuzione della [legge 24 marzo 1921, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-03-24;312), sulla pesca e sui pescatori, approvato con R. decreto 29 ottobre 1922-I, n. 1647;
+Visto il regolamento per l'esecuzione della [legge 24 marzo 1921, n. 312](Che%20reca%20provvedimenti%20in%20favore%20della%20pesca%20e%20dei%20pescatori.%20021U0312.md), sulla pesca e sui pescatori, approvato con R. decreto 29 ottobre 1922-I, n. 1647;
 
 Visto il parere del Comitato permanente della Commissione consultiva della pesca, per motivi di urgenza, ai sensi dell'art. 4 del R. decreto 10 settembre 1936-XIV, n. 1938;
 
@@ -28,34 +26,28 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo e Ministro per la marina, di intesa coi Ministri per la grazia e giustizia, per le finanze, per i lavori pubblici e per le comunicazioni; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo e Ministro per la marina, di intesa coi Ministri per la grazia e giustizia, per le finanze, per i lavori pubblici e per le comunicazioni; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Gli articoli 32 e 33 del regolamento per l'esecuzione della [legge 24 marzo 1921, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-03-24;312), sulla pesca e sui pescatori, approvato con R. decreto 29 ottobre 1922-I, n. 1647, sono sostituiti dal seguente:   
-  
-Allorche' si debba promuovere la decadenza di un diritto esclusivo di pesca per i motivi di cui agli articoli 24 e 28 del testo unico delle leggi sulla pesca approvato con R. decreto 8 ottobre 1931-IX, n. 1604, il Commissariato generale della pesca nei riguardi dei diritti di cui all'art. 26 di detto testo unico ed il Ministero delle comunicazioni nei riguardi dei diritti di cui all'art. 23 del medesimo testo unico contestano al titolare del diritto, mediante atto di ufficiale giudiziario, i motivi che determinerebbero il provvedimento, con invito all'interessato a presentare le sue deduzioni entro un mese dalla notifica dell'atto.   
-  
-Decorso tale periodo, ed ove si riconoscano infondate le deduzioni eventualmente presentate dagli interessati, la decadenza viene dichiarata rispettivamente con decreto del DUCE del Fascismo, Capo del Governo, e del Ministro per le comunicazioni, previo parere del Consiglio di Stato.   
-  
-Il termine per proporre reclamo in sede contenziosa contro il provvedimento di decadenza, a norma delle disposizioni contenute nel titolo IV del [testo unico delle leggi sulle acque e sugli impianti elettrici](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775) approvato con R. decreto 11 dicembre 1933-XII, n. 1775, e' di giorni 60 dalla data della notificazione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 10 marzo 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - GRANDI - DI REVEL - GORLA - HOST VENTURI   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Carte dei conti, addi' 20 maggio 1942-XX   
-  
-Atti del Governo, registro 445, foglio 65. - MANCINI   
+Gli articoli 32 e 33 del regolamento per l'esecuzione della [legge 24 marzo 1921, n. 312](Che%20reca%20provvedimenti%20in%20favore%20della%20pesca%20e%20dei%20pescatori.%20021U0312.md), sulla pesca e sui pescatori, approvato con R. decreto 29 ottobre 1922-I, n. 1647, sono sostituiti dal seguente: 
+ 
+ Allorche' si debba promuovere la decadenza di un diritto esclusivo di pesca per i motivi di cui agli articoli 24 e 28 del testo unico delle leggi sulla pesca approvato con R. decreto 8 ottobre 1931-IX, n. 1604, il Commissariato generale della pesca nei riguardi dei diritti di cui all'art. 26 di detto testo unico ed il Ministero delle comunicazioni nei riguardi dei diritti di cui all'art. 23 del medesimo testo unico contestano al titolare del diritto, mediante atto di ufficiale giudiziario, i motivi che determinerebbero il provvedimento, con invito all'interessato a presentare le sue deduzioni entro un mese dalla notifica dell'atto. 
+ 
+ Decorso tale periodo, ed ove si riconoscano infondate le deduzioni eventualmente presentate dagli interessati, la decadenza viene dichiarata rispettivamente con decreto del DUCE del Fascismo, Capo del Governo, e del Ministro per le comunicazioni, previo parere del Consiglio di Stato. 
+ 
+ Il termine per proporre reclamo in sede contenziosa contro il provvedimento di decadenza, a norma delle disposizioni contenute nel titolo IV del [testo unico delle leggi sulle acque e sugli impianti elettrici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-12-11;1775) approvato con R. decreto 11 dicembre 1933-XII, n. 1775, e' di giorni 60 dalla data della notificazione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 marzo 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - GRANDI - DI REVEL - GORLA - HOST VENTURI 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Carte dei conti, addi' 20 maggio 1942-XX 
+ 
+ Atti del Governo, registro 445, foglio 65. - MANCINI

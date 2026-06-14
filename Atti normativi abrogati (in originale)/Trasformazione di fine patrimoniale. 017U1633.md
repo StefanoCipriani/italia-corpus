@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 26 agosto 1917 n. 1633
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1633
+data: 1917-08-26
+titolo: "Trasformazione di fine patrimoniale. (017U1633)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-08-26;1633
+codice_redazionale: 017U1633
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 26 agosto 1917 n. 1633
-==============================================
-
-Trasformazione di fine patrimoniale. (017U1633)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/11/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1633. Decreto Luogotenenziale 26 agosto 1917, col quale, sulla proposta del ministro dell'interno, si trasforma il fine inerente al patrimonio della Opera pia Gesu' e Maria di Trapani a favore del locale ospedale di Sant'Antonio, al quale il patrimonio stesso e' devoluto.
+1633.
+
+Decreto Luogotenenziale 26 agosto 1917, col quale, sulla proposta del ministro dell'interno, si trasforma il fine inerente al patrimonio della Opera pia Gesu' e Maria di Trapani a favore del locale ospedale di Sant'Antonio, al quale il patrimonio stesso e' devoluto.

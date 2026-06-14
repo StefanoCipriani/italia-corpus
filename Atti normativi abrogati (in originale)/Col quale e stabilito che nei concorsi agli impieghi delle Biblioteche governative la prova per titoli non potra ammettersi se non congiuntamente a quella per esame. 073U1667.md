@@ -1,16 +1,14 @@
-REGIO DECRETO 10 novembre 1873 n. 1667
-
-
-REGIO DECRETO 10 novembre 1873 n. 1667
-======================================
-
-Col quale e' stabilito che nei concorsi agli impieghi delle Biblioteche governative la prova per titoli non potra' ammettersi se non congiuntamente a quella per esame. (073U1667)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/12/1873
+---
+tipo: REGIO DECRETO
+numero: 1667
+data: 1873-11-10
+titolo: "Col quale e' stabilito che nei concorsi agli impieghi delle Biblioteche governative la prova per titoli non potra' ammettersi se non congiuntamente a quella per esame. (073U1667)"
+urn: urn:nir:stato:regio.decreto:1873-11-10;1667
+codice_redazionale: 073U1667
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,23 +20,16 @@ Visto il voto del Consiglio di Stato intorno al senso legale della suddetta clau
 
 Considerati i bisogni particolari delle biblioteche;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nei concorsi agli impieghi delle biblioteche governative, la prova per titoli non potra' ammettersi se non congiuntamente con quella per esame.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 10 novembre 1873.   
-  
-VITTORIO EMANUELE.   
-  
-A. Scialoja.   
-  
+Nei concorsi agli impieghi delle biblioteche governative, la prova per titoli non potra' ammettersi se non congiuntamente con quella per esame. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 10 novembre 1873. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ A. Scialoja.

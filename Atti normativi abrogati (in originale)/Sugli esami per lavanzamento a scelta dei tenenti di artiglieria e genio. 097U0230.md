@@ -1,51 +1,43 @@
-REGIO DECRETO 12 giugno 1897 n. 230
-
-
-REGIO DECRETO 12 giugno 1897 n. 230
-===================================
-
-Sugli esami per l'avanzamento a scelta dei tenenti di artiglieria e genio. (097U0230)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/07/1897
+---
+tipo: REGIO DECRETO
+numero: 230
+data: 1897-06-12
+titolo: "Sugli esami per l'avanzamento a scelta dei tenenti di artiglieria e genio. (097U0230)"
+urn: urn:nir:stato:regio.decreto:1897-06-12;230
+codice_redazionale: 097U0230
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 2 luglio 1896 n. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254) sull'avanzamento del R.
+Vista la [legge 2 luglio 1896 n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md) sull'avanzamento del R.
 
 Esercito;
 
 Ritenuta la necessita' di determinare fin d'ora le norme per l'applicazione dell'art. 36, 2° comma della legge, in quanto concerne l'avanzamento a scelta dei tenenti d'artiglieria e genio;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Gli esami speciali, contemplati dall'[art. 36 della legge 2 luglio 1896, n. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254~art36), per i tenenti d'artiglieria e del genio, i quali aspirano alla promozione a scelta, consisteranno:   
-  
-1° in un esperimento scritto di coltura tecnica: su questioni teorico-pratiche di tiro e questioni di materiale (per gli aspiranti di artiglieria), su questioni di costruzione e questioni d'ingegneria militare in genere (per gli aspiranti del genio);   
-  
-2° nello svolgimento per iscritto di un tema di coltura generale e di un tema di arte militare; in una prova per iscritto di conoscenza di lingua straniera, a scelta del candidato; nella soluzione di temi tattico-logistici; in un esperimento di levata a vista; in una prova di abilita' nel calvacare, e di attitudine al comando effettivo di truppa.   
-  
-Il Ministro della Guerra fissera' tutte le modalita' necessarie per l'esecuzione di quanto precede.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 giugno 1897.   
-  
-UMBERTO.   
-  
-Pelloux.   
-  
-Visto, Il Guardasigilli: G. Costa.   
+Gli esami speciali, contemplati dall'[art. 36 della legge 2 luglio 1896, n. 254](Sullavanzamento%20del%20Regio%20Esercito.%20096U0254.md), per i tenenti d'artiglieria e del genio, i quali aspirano alla promozione a scelta, consisteranno: 
+ 
+ 1° in un esperimento scritto di coltura tecnica: su questioni teorico-pratiche di tiro e questioni di materiale (per gli aspiranti di artiglieria), su questioni di costruzione e questioni d'ingegneria militare in genere (per gli aspiranti del genio); 
+ 
+ 2° nello svolgimento per iscritto di un tema di coltura generale e di un tema di arte militare; in una prova per iscritto di conoscenza di lingua straniera, a scelta del candidato; nella soluzione di temi tattico-logistici; in un esperimento di levata a vista; in una prova di abilita' nel calvacare, e di attitudine al comando effettivo di truppa. 
+ 
+ Il Ministro della Guerra fissera' tutte le modalita' necessarie per l'esecuzione di quanto precede. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 giugno 1897. 
+ 
+ UMBERTO. 
+ 
+ Pelloux. 
+ 
+ Visto, Il Guardasigilli: G. Costa.

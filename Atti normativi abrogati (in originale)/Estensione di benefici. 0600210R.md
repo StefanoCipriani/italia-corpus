@@ -1,19 +1,15 @@
-REGIO DECRETO 07 giugno 1906 n. CCX
+---
+tipo: REGIO DECRETO
+numero: CCX
+data: 1906-06-07
+titolo: "Estensione di benefici. (0600210R)"
+urn: urn:nir:stato:regio.decreto:1906-06-07;210
+codice_redazionale: 0600210R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 giugno 1906 n. CCX
-===================================
-
-Estensione di benefici. (0600210R)
-----------------------------------
-
-Entrata in vigore del provvedimento: 25/07/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CCX (Dato a Roma, il 7 giugno 1906), col quale si estendono i benefici della [legge 31 maggio 1903, n. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-05-31;254), ad alcune case costruite in Como prima dell'8 luglio 1900, dalla Societa' cooperativa edificatrice di abitazioni fra gli operai in Como.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CCX (Dato a Roma, il 7 giugno 1906), col quale si estendono i benefici della [legge 31 maggio 1903, n. 254](Sulle%20case%20popolari.%20003U0254.md), ad alcune case costruite in Como prima dell'8 luglio 1900, dalla Societa' cooperativa edificatrice di abitazioni fra gli operai in Como.

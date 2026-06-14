@@ -1,22 +1,20 @@
-REGIO DECRETO 08 novembre 1901 n. 551
-
-
-REGIO DECRETO 08 novembre 1901 n. 551
-=====================================
-
-Che revoca le disposizioni di quello in data 19 ottobre 1893, n. 586, in quanto concernono le Confraternite. (001U0551)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/01/1902
+---
+tipo: REGIO DECRETO
+numero: 551
+data: 1901-11-08
+titolo: "Che revoca le disposizioni di quello in data 19 ottobre 1893, n. 586, in quanto concernono le Confraternite. (001U0551)"
+urn: urn:nir:stato:regio.decreto:1901-11-08;551
+codice_redazionale: 001U0551
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto il [R. decreto 19 ottobre 1893, n. 586](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-10-19;586);
+Visto il [R. decreto 19 ottobre 1893, n. 586](Relativo%20alle%20istanze%20di%20autorizzazione%20governativa%20per%20atti%20e%20contratti%20costituenti%20alienazione%20di%20beni%20mobili%20ed%20immobili%20appartenenti%20agli%20Istituti%20ecclesiastici%20del%20Regno.%20093U0586.md);
 
 Ritenuto che alle disposizioni della legge 17 luglio 1890, concernenti la vigilanza e tutela delle istituzioni pubbliche di beneficenza, sono soggette anche tutte indistintamente le Confraternite esistenti nel Regno, comprese quelle di mero culto;
 
@@ -26,26 +24,21 @@ Visto il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti, d'accordo col Ministro dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti, d'accordo col Ministro dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
+Sono revocate le disposizioni del [R. decreto 19 ottobre 1893, n. 586](Relativo%20alle%20istanze%20di%20autorizzazione%20governativa%20per%20atti%20e%20contratti%20costituenti%20alienazione%20di%20beni%20mobili%20ed%20immobili%20appartenenti%20agli%20Istituti%20ecclesiastici%20del%20Regno.%20093U0586.md), in quanto concernono le Confraternite, e vi si mantiene per queste l'osservanza delle RR. Patenti 19 maggio
 
-Sono revocate le disposizioni del [R. decreto 19 ottobre 1893, n. 586](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-10-19;586), in quanto concernono le Confraternite, e vi si mantiene per queste l'osservanza delle RR. Patenti 19 maggio
+1831.
 
-1831. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Capodimonte (Napoli), addi' 8 novembre 1901.   
-  
-VITTORIO EMANUELE.   
-  
-F. Cocco-Ortu.   
-Giolitti.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Capodimonte (Napoli), addi' 8 novembre 1901. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ F. Cocco-Ortu. 
+ Giolitti. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

@@ -1,18 +1,18 @@
-DECRETO LUOGOTENENZIALE 01 settembre 1918 n. 1449
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1449
+data: 1918-09-01
+titolo: "Autorizzazione per accettazione di legato. (018U1449)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-09-01;1449
+codice_redazionale: 018U1449
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 01 settembre 1918 n. 1449
-=================================================
-
-Autorizzazione per accettazione di legato. (018U1449)
------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/10/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1449. Decreto Luogotenenziale 1° settembre 1918, col quale, sulla proposta del ministro della istruzione pubblica, si autorizza il presidente del Consiglio direttivo del R. Istituto poi sordomuti di Milano ad accettare il legato di L. 6000 disposto dal nobile cav.  
+1449.
+
+Decreto Luogotenenziale 1° settembre 1918, col quale, sulla proposta del ministro della istruzione pubblica, si autorizza il presidente del Consiglio direttivo del R. Istituto poi sordomuti di Milano ad accettare il legato di L. 6000 disposto dal nobile cav.
 Turati Ernesto a favore dei sordomuti, con suo testamento olografo del 24 agosto 1917.

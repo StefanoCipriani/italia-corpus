@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 24 giugno 1937 n. 1473
-
-
-REGIO DECRETO-LEGGE 24 giugno 1937 n. 1473
-==========================================
-
-Revoca del divieto di costituire associazioni per determinate categorie di funzionari statali. (037U1473)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/09/1937.  
-Regio Decreto-Legge convertito dalla [L. 23 dicembre 1937, n. 2567](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-12-23;2567) (in G.U. 28/02/1938, n. 48).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1473
+data: 1937-06-24
+titolo: "Revoca del divieto di costituire associazioni per determinate categorie di funzionari statali. (037U1473)"
+urn: urn:nir:stato:regio.decreto.legge:1937-06-24;1473
+codice_redazionale: 037U1473
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -31,39 +28,26 @@ Udito il Gran Consiglio del Fascismo;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro per l'interno, di concerto coi Ministri per gli affari esteri, per l'Africa Italiana, per la grazia e giustizia, per l'educazione nazionale e per le corporazioni; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro per l'interno, di concerto coi Ministri per gli affari esteri, per l'Africa Italiana, per la grazia e giustizia, per l'educazione nazionale e per le corporazioni; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' revocato il divieto di costituire associazioni sancito dagli articoli 11, secondo comma, della legge 3 aprile 1926-IV, n. 563, 5 del R. decreto 17 marzo 1927-V, n. 401, e 1 della legge 13 aprile 1933-XI, n. 378, per i funzionari, impiegati ed agenti dipendenti dai Ministeri degli affari esteri, dell'interno, dell'Africa Italiana e delle corporazioni, per i magistrati dell'Ordine giudiziario ed amministrativo, per i professori di Istituti di istruzione superiore e media, nonche' per i funzionari, impiegati ed agenti dell'Avvocatura dello stato.
 
-  
-  
-E' revocato il divieto di costituire associazioni sancito dagli articoli 11, secondo comma, della legge 3 aprile 1926-IV, n. 563, 5 del R. decreto 17 marzo 1927-V, n. 401, e 1 della legge 13 aprile 1933-XI, n. 378, per i funzionari, impiegati ed agenti dipendenti dai Ministeri degli affari esteri, dell'interno, dell'Africa Italiana e delle corporazioni, per i magistrati dell'Ordine giudiziario ed amministrativo, per i professori di Istituti di istruzione superiore e media, nonche' per i funzionari, impiegati ed agenti dell'Avvocatura dello stato.   
-  
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il Presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. Il Capo del Governo, proponente, e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 24 giugno 1937 - Anno XV   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Ciano - Lessona - Solmi - Bottai - Lantini   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 28 agosto 1937 - Anno XV   
-  
-Atti del Governo; registro 388, foglio 156. - Mancini.   
-  
-  
+Il Presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. Il Capo del Governo, proponente, e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 24 giugno 1937 - Anno XV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Ciano - Lessona - Solmi - Bottai - Lantini 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 28 agosto 1937 - Anno XV 
+ 
+ Atti del Governo; registro 388, foglio 156. - Mancini.

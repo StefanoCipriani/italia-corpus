@@ -1,16 +1,14 @@
-REGIO DECRETO 01 novembre 1872 n. 1113
-
-
-REGIO DECRETO 01 novembre 1872 n. 1113
-======================================
-
-Col quale l'Istituto delle Dimesse in Padova e' dichiarato Istituto educativo. (072U1113)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/01/1873
+---
+tipo: REGIO DECRETO
+numero: 1113
+data: 1872-11-01
+titolo: "Col quale l'Istituto delle Dimesse in Padova e' dichiarato Istituto educativo. (072U1113)"
+urn: urn:nir:stato:regio.decreto:1872-11-01;1113
+codice_redazionale: 072U1113
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,64 +26,36 @@ Riconosciuta la opportunita' di dare a quell'Istituto un ordinamento conforme al
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'Istituto delle Dimesse in Padova e' dichiarato pubblico Istituto educativo.
 
-  
-  
-L'Istituto delle Dimesse in Padova e' dichiarato pubblico Istituto educativo.   
-  
+## Art. 2.
 
-Art. 2
-------
+Esso verra' amministrato e governato a seconda di un regolamento speciale, che dovra' esser compilato dal Consiglio scolastico della provincia d'accordo con quella direttrice, e tenute presenti le norme stabilite nel regolamento organico del 6 ottobre 1867 per i Conservatorii femminili. Il detto regolamento speciale sara' poi approvato dal Nostro Ministro per la Istruzione Pubblica.
 
-  
-  
-Esso verra' amministrato e governato a seconda di un regolamento speciale, che dovra' esser compilato dal Consiglio scolastico della provincia d'accordo con quella direttrice, e tenute presenti le norme stabilite nel regolamento organico del 6 ottobre 1867 per i Conservatorii femminili. Il detto regolamento speciale sara' poi approvato dal Nostro Ministro per la Istruzione Pubblica.   
-  
+## Art. 3.
 
-Art. 3
-------
+Le nomine della direttrice e della vicedirettrice saranno fatte dalla Congregazione delle Dimesse, ma non saranno valide se non dopo che saranno state approvate dal Nostro Ministro della Pubblica Istruzione.
 
-  
-  
-Le nomine della direttrice e della vicedirettrice saranno fatte dalla Congregazione delle Dimesse, ma non saranno valide se non dopo che saranno state approvate dal Nostro Ministro della Pubblica Istruzione.   
-  
+## Art. 4.
 
-Art. 4
-------
+Le nomine delle maestre verranno proposte dalla direttrice dell'Istituto, e fatte esecutorie per deliberazione del Consiglio scolastico predetto.
 
-  
-  
-Le nomine delle maestre verranno proposte dalla direttrice dell'Istituto, e fatte esecutorie per deliberazione del Consiglio scolastico predetto.   
-  
+## Art. 5.
 
-Art. 5
-------
+Lo stesso Consiglio esaminera' ogni anno, e, trovandoli regolari, approvera' il bilancio preventivo in prima, e poi i conti consuntivi dell'Istituto di cui si tratta.
 
-  
-  
-Lo stesso Consiglio esaminera' ogni anno, e, trovandoli regolari, approvera' il bilancio preventivo in prima, e poi i conti consuntivi dell'Istituto di cui si tratta.   
-  
+## Art. 6.
 
-Art. 6
-------
-
-  
-  
-Tutte le disposizioni contrarie alle presenti sono abrogate.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli, addi' 1° novembre 1872.   
-  
-VITTORIO EMANUELE.   
-  
-A. Scialoja.   
-  
-  
+Tutte le disposizioni contrarie alle presenti sono abrogate. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli, addi' 1° novembre 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ A. Scialoja.

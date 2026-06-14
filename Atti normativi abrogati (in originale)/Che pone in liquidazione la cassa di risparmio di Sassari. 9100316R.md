@@ -1,40 +1,31 @@
-REGIO DECRETO 03 settembre 1891 n. CCCXVI
+---
+tipo: REGIO DECRETO
+numero: CCCXVI
+data: 1891-09-03
+titolo: "Che pone in liquidazione la cassa di risparmio di Sassari. (9100316R)"
+urn: urn:nir:stato:regio.decreto:1891-09-03;316
+codice_redazionale: 9100316R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 settembre 1891 n. CCCXVI
-=========================================
+La cassa di risparmio di Sassari e' posta in liquidazione.
 
-Che pone in liquidazione la cassa di risparmio di Sassari. (9100316R)
----------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 09/10/1891
-
-Art. 1
-------
-
-  
-  
-La cassa di risparmio di Sassari e' posta in liquidazione.   
-  
-
-Art. 2
-------
-
-  
-  
-I liquidatori della cassa di risparmio predetta saranno nominati dal ministro proponente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 3 settembre 1891.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 12 settembre 1891.   
-  
-Reg. 181 Atti del Governo a f. 92. Mandillo.   
-  
-Luogo del Sigillo. V. Il Guardasigilli L. FERRARIS.   
-  
-B. Chimirri.   
-  
+I liquidatori della cassa di risparmio predetta saranno nominati dal ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 3 settembre 1891. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 12 settembre 1891. 
+ 
+ Reg. 181 Atti del Governo a f. 92. Mandillo. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli L. FERRARIS. 
+ 
+ B. Chimirri.

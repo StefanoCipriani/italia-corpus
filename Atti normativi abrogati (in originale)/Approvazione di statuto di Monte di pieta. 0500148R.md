@@ -1,19 +1,15 @@
-REGIO DECRETO 16 aprile 1905 n. CXLVIII
+---
+tipo: REGIO DECRETO
+numero: CXLVIII
+data: 1905-04-16
+titolo: "Approvazione di statuto di Monte di pieta'. (0500148R)"
+urn: urn:nir:stato:regio.decreto:1905-04-16;148
+codice_redazionale: 0500148R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 aprile 1905 n. CXLVIII
-=======================================
-
-Approvazione di statuto di Monte di pieta'. (0500148R)
-------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/07/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CXLVIII (Dato a Roma, il 16 aprile 1905), col quale si approva il nuovo statuto organico del Monte di pieta' di Tortona.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CXLVIII (Dato a Roma, il 16 aprile 1905), col quale si approva il nuovo statuto organico del Monte di pieta' di Tortona.

@@ -1,21 +1,21 @@
-REGIO DECRETO 12 agosto 1937 n. 1577
+---
+tipo: REGIO DECRETO
+numero: 1577
+data: 1937-08-12
+titolo: "Approvazione del nuovo statuto della Cassa di soccorso del personale della Societa' trazione elettrica comense « A. Volta ». (037U1577)"
+urn: urn:nir:stato:regio.decreto:1937-08-12;1577
+codice_redazionale: 037U1577
+vigente: true
+---
 
-
-REGIO DECRETO 12 agosto 1937 n. 1577
-====================================
-
-Approvazione del nuovo statuto della Cassa di soccorso del personale della Societa' trazione elettrica comense « A. Volta ». (037U1577)
----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/10/1937
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1577. R. decreto 12 agosto 1937, col quale, sulla proposta del Ministro per le corporazioni, viene approvato il nuovo statuto della Cassa di soccorso del personale addetto al servizio della Societa' trazione elettrica comense « A. Volta »..   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 15 settembre 1937 - Anno XV
+1577.
+
+R. decreto 12 agosto 1937, col quale, sulla proposta del Ministro per le corporazioni, viene approvato il nuovo statuto della Cassa di soccorso del personale addetto al servizio della Societa' trazione elettrica comense « A. Volta ».. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 15 settembre 1937 - Anno XV

@@ -1,16 +1,14 @@
-REGIO DECRETO 30 ottobre 1864 n. 1993
-
-
-REGIO DECRETO 30 ottobre 1864 n. 1993
-=====================================
-
-Che autorizza l'iscrizione sul Gran Libro del Debito pubblico di rendite a favore delle Casse ecclesiastiche delle antiche Provincie dello Stato, delle Marche, dell'Umbria e di Napoli. (064U1993)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/12/1864
+---
+tipo: REGIO DECRETO
+numero: 1993
+data: 1864-10-30
+titolo: "Che autorizza l'iscrizione sul Gran Libro del Debito pubblico di rendite a favore delle Casse ecclesiastiche delle antiche Provincie dello Stato, delle Marche, dell'Umbria e di Napoli. (064U1993)"
+urn: urn:nir:stato:regio.decreto:1864-10-30;1993
+codice_redazionale: 064U1993
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,36 +24,25 @@ Volendo provvedere alle istanze della Cassa Ecclesiastica per un maggior acconto
 
 Sulla proposizione del Ministro delle Finanze e di quello di Grazia e Giustizia e dei Culti;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo ordinato ed ordiniamo quanto segue:
 
-il Consiglio dei Ministri; Abbiamo ordinato ed ordiniamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+Il Ministro delle Finanze e' autorizzato a far iscrivere sul Gran Libro del Debito pubblico dello Stato una rendita, consolidato 5 p. %, intestata a favore della Cassa Ecclesiastica delle antiche Provincie dello Stato, delle Marche e dell' Umbria di lire duecento settanta mila (270,000), ed altra rendita, pure consolidato 5 p. %, intestata alla Cassa Ecclesiastica delle Provincie Napolitane di lire settecento trenta mila (730,000) in acconto del corrispettivo dei beni di dette Amministrazioni gia' passati al Demanio dello Stato.
 
-  
-  
-Il Ministro delle Finanze e' autorizzato a far iscrivere sul Gran Libro del Debito pubblico dello Stato una rendita, consolidato 5 p. %, intestata a favore della Cassa Ecclesiastica delle antiche Provincie dello Stato, delle Marche e dell' Umbria di lire duecento settanta mila (270,000), ed altra rendita, pure consolidato 5 p. %, intestata alla Cassa Ecclesiastica delle Provincie Napolitane di lire settecento trenta mila (730,000) in acconto del corrispettivo dei beni di dette Amministrazioni gia' passati al Demanio dello Stato.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Pel servizio di esse rendite da inscriversi nel corrente semestre, e' fatto sulla Tesoreria centrale del Regno, incominciando dal 1.° luglio del corrente anno, l'annuo assegno di un milione di lire.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Torino addi' 30 ottobre 1864.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 14 novembre 1864   
-  
-Reg.° 31 Atti del Governo a c. 138. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca   
-  
-Quintino Sella.   
-G. Vacca.   
-  
+Pel servizio di esse rendite da inscriversi nel corrente semestre, e' fatto sulla Tesoreria centrale del Regno, incominciando dal 1.° luglio del corrente anno, l'annuo assegno di un milione di lire. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Torino addi' 30 ottobre 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 14 novembre 1864 
+ 
+ Reg.° 31 Atti del Governo a c. 138. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca 
+ 
+ Quintino Sella. 
+ G. Vacca.

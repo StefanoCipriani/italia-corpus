@@ -1,16 +1,14 @@
-REGIO DECRETO 09 luglio 1869 n. 5247
-
-
-REGIO DECRETO 09 luglio 1869 n. 5247
-====================================
-
-Col quale il Pio Istituto per la educazione delle ragazze, fondato in Cottanello dalla fu Lucia Rinaldi, e' eretto in Corpo morale. (069U5247)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/09/1869
+---
+tipo: REGIO DECRETO
+numero: 5247
+data: 1869-07-09
+titolo: "Col quale il Pio Istituto per la educazione delle ragazze, fondato in Cottanello dalla fu Lucia Rinaldi, e' eretto in Corpo morale. (069U5247)"
+urn: urn:nir:stato:regio.decreto:1869-07-09;5247
+codice_redazionale: 069U5247
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -36,61 +34,38 @@ Visti la Legge 5 giugno 1850, e il Regio Decreto 26 giugno 1864;
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il Pio Istituto per la educazione delle ragazze, fondato in Cottanello dalla fu Lucia Rinaldi, e' eretto in Corpo morale.
 
-  
-  
-Il Pio Istituto per la educazione delle ragazze, fondato in Cottanello dalla fu Lucia Rinaldi, e' eretto in Corpo morale.   
-  
+## Art. 2.
 
-Art. 2
-------
+L'eredita' lasciata da quella fondatrice, morta addi' 29 dicembre 1865, e' devoluta ad esso Istituto.
 
-  
-  
-L'eredita' lasciata da quella fondatrice, morta addi' 29 dicembre 1865, e' devoluta ad esso Istituto.   
-  
+## Art. 3.
 
-Art. 3
-------
+La Giunta municipale di Cottanello e' autorizzata ad accettare siffatta eredita' nell'interesse e per conto dello Istituto medesimo.
 
-  
-  
-La Giunta municipale di Cottanello e' autorizzata ad accettare siffatta eredita' nell'interesse e per conto dello Istituto medesimo.   
-  
+## Art. 4.
 
-Art. 4
-------
+Essa Giunta e' obbligata a provvedere perche', fra due mesi dalla data del presente Decreto, la Deputazione voluta dalla fondatrice Rinaldi sia completata in conformita' della relativa disposizione testamentaria.
 
-  
-  
-Essa Giunta e' obbligata a provvedere perche', fra due mesi dalla data del presente Decreto, la Deputazione voluta dalla fondatrice Rinaldi sia completata in conformita' della relativa disposizione testamentaria.   
-  
+## Art. 5.
 
-Art. 5
-------
-
-  
-  
-La Deputazione dovra', nei quattro mesi successivi, presentare all'approvazione Ministeriale lo statuto, e fare le proposte per il pieno eseguimento della volonta' della pia fondatrice, e, quando ne sia il caso, anche per la destinazione di una parte delle rendite del patrimonio Rinaldi all'istruzione del sesso maschile di Cottanello.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 9 luglio 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 30 agosto 1869   
-  
-Reg. 48 Atti del Governo a c. 62 Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Pironti   
-  
-A. Bargoni.   
-  
+La Deputazione dovra', nei quattro mesi successivi, presentare all'approvazione Ministeriale lo statuto, e fare le proposte per il pieno eseguimento della volonta' della pia fondatrice, e, quando ne sia il caso, anche per la destinazione di una parte delle rendite del patrimonio Rinaldi all'istruzione del sesso maschile di Cottanello. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 9 luglio 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 30 agosto 1869 
+ 
+ Reg. 48 Atti del Governo a c. 62 Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Pironti 
+ 
+ A. Bargoni.

@@ -1,19 +1,15 @@
-REGIO DECRETO 28 novembre 1909 n. CCCCLXIV
+---
+tipo: REGIO DECRETO
+numero: CCCCLXIV
+data: 1909-11-28
+titolo: "Che approva lo statuto della societa' per le case popolari in Sanguinetto. (0900464R)"
+urn: urn:nir:stato:regio.decreto:1909-11-28;464
+codice_redazionale: 0900464R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 novembre 1909 n. CCCCLXIV
-==========================================
-
-Che approva lo statuto della societa' per le case popolari in Sanguinetto. (0900464R)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/01/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CCCCLXIV (Dato a Roma, il 28 novembre 1909), col quale si approva lo statuto della sezione case popolari della Societa' di mutuo soccorso fra gli operai di Sanguinetto (Verona).   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CCCCLXIV (Dato a Roma, il 28 novembre 1909), col quale si approva lo statuto della sezione case popolari della Societa' di mutuo soccorso fra gli operai di Sanguinetto (Verona).

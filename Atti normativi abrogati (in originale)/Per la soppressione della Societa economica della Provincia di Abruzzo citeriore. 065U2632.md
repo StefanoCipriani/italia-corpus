@@ -1,16 +1,14 @@
-REGIO DECRETO 26 novembre 1865 n. 2632
-
-
-REGIO DECRETO 26 novembre 1865 n. 2632
-======================================
-
-Per la soppressione della Societa' economica della Provincia di Abruzzo citeriore. (065U2632)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/01/1866
+---
+tipo: REGIO DECRETO
+numero: 2632
+data: 1865-11-26
+titolo: "Per la soppressione della Societa' economica della Provincia di Abruzzo citeriore. (065U2632)"
+urn: urn:nir:stato:regio.decreto:1865-11-26;2632
+codice_redazionale: 065U2632
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,37 +20,26 @@ Veduto il Nostro Decreto 14 agosto 1864;
 
 Vedute le reiterate deliberazioni del Consiglio provinciale di Abruzzo citeriore;
 
-Sulla
------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La Societa' economica della Provincia di Abruzzo Citeriore e' soppressa.
 
-  
-  
-La Societa' economica della Provincia di Abruzzo Citeriore e' soppressa.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-I redditi della suddetta Societa' saranno destinati al mantenimento di un Istituto di Agronomia e di Agrimensura.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze il 26 novembre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 dicembre 1865   
-  
-Reg.° 34 Atti del Governo a c. 100. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Torelli.   
-  
+I redditi della suddetta Societa' saranno destinati al mantenimento di un Istituto di Agronomia e di Agrimensura. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze il 26 novembre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 dicembre 1865 
+ 
+ Reg.° 34 Atti del Governo a c. 100. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Torelli.

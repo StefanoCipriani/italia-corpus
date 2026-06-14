@@ -1,75 +1,55 @@
-REGIO DECRETO-LEGGE 21 ottobre 1923 n. 2726
-
-
-REGIO DECRETO-LEGGE 21 ottobre 1923 n. 2726
-===========================================
-
-Modificazioni alla legge 24 marzo 1921, n. 312, sulla pesca e sui pescatori. (023U2726)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/01/1924  
-Regio Decreto-Legge convertito dalla [L. 17 aprile 1925, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473) (in G.U. 05/05/1925, n. 104).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 2726
+data: 1923-10-21
+titolo: "Modificazioni alla legge 24 marzo 1921, n. 312, sulla pesca e sui pescatori. (023U2726)"
+urn: urn:nir:stato:regio.decreto.legge:1923-10-21;2726
+codice_redazionale: 023U2726
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [legge 24 marzo 1921, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-03-24;312), sulla pesca e sui pescatori;
+Vista la [legge 24 marzo 1921, n. 312](Che%20reca%20provvedimenti%20in%20favore%20della%20pesca%20e%20dei%20pescatori.%20021U0312.md), sulla pesca e sui pescatori;
 
-Visti i [Regi decreti-legge 16 ottobre 1921, n. 1604](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-10-16;1604), [25 aprile 1922, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-04-25;557), e [7 giugno 1923, n. 1450](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-06-07;1450);
+Visti i [Regi decreti-legge 16 ottobre 1921, n. 1604](Che%20proroga%20di%20un%20anno%20i%20termini%20di%20cui%20allart.%2042%20della%20legge%2024%20marzo%201921%20n.%20312%20per%20la%20compilazione%20del%20testo%20unico%20dalle%20leggi%20sulla%20pesca%20e%20dei%20regolamenti%20relativi.%20021U1604.md), [25 aprile 1922, n. 557](Che%20proroga%20il%20termine%20stabilito%20dagli%20articoli%2016%20e%2022%20della%20legge%2024%20marzo%201921%20n.%20312%20per%20la%20revisione%20dei%20decreti%20di%20riconoscimento%20del%20possesso%20dei%20diritti%20esclusivi%20di%20pesca.%20022U0557.md), e [7 giugno 1923, n. 1450](Proroga%20dei%20termini%20stabiliti%20dagli%20articoli%2016%20e%2022%20della%20legge%2024%20marzo%201921%20n.%20312%20per%20la%20revisione%20dei%20decreti%20di%20riconoscimento%20del%20possesso%20dei%20diritti%20esclusivi%20di%20pesca%20e%20dallarti_c889c74563a4.md);
 
-Visto il [R. decreto 11 gennaio 1923, n. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-11;25);
+Visto il [R. decreto 11 gennaio 1923, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-01-11;25);
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro per l'economia nazionale, di concerto col Presidente del Consiglio dei Ministri, Ministro per l'interno, e con i Ministri per la marina, per la giustizia e gli affari di culto, per le colonie, per i lavori pubblici e per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro per l'economia nazionale, di concerto col Presidente del Consiglio dei Ministri, Ministro per l'interno, e con i Ministri per la marina, per la giustizia e gli affari di culto, per le colonie, per i lavori pubblici e per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Agli effetti degli [articoli 16](Che%20reca%20provvedimenti%20in%20favore%20della%20pesca%20e%20dei%20pescatori.%20021U0312.md) ([2° comma](Che%20reca%20provvedimenti%20in%20favore%20della%20pesca%20e%20dei%20pescatori.%20021U0312.md)) e [22](Che%20reca%20provvedimenti%20in%20favore%20della%20pesca%20e%20dei%20pescatori.%20021U0312.md) ([2° comma) della legge 24 marzo 1921, n. 312](Che%20reca%20provvedimenti%20in%20favore%20della%20pesca%20e%20dei%20pescatori.%20021U0312.md), e senza pregiudizio dell'esame di merito, e' ammessa la validita' delle domande di riconoscimento del possesso di diritti esclusivi di pesca presentate entro il 31 dicembre 1921. 
+ 
+ All'art. 16 (1° comma) sono soppresse le parole «nei riguardi dei concessionari e passano al patrimonio dello Stato».
 
-  
-  
-  
-Agli effetti degli [articoli 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-03-24;312~art16) ([2° comma](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-03-24;312~com2)) e [22](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-03-24;312~art22) ([2° comma) della legge 24 marzo 1921, n. 312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-03-24;312~com2), e senza pregiudizio dell'esame di merito, e' ammessa la validita' delle domande di riconoscimento del possesso di diritti esclusivi di pesca presentate entro il 31 dicembre 1921.   
-  
-All'art. 16 (1° comma) sono soppresse le parole «nei riguardi dei concessionari e passano al patrimonio dello Stato».   
-  
+## Art. 2.
 
-Art. 2
-------
+Nello stesso art. 16 (3° comma) e nell'art. 22 (4° comma) alle parole «sentito il Comitato il interministeriale della pesca» e «su conforme parere del Comitato interministeriale della pesca», sono sostituite le seguenti: «sentito il Consiglio di Stato».
 
-  
-  
-  
-Nello stesso art. 16 (3° comma) e nell'art. 22 (4° comma) alle parole «sentito il Comitato il interministeriale della pesca» e «su conforme parere del Comitato interministeriale della pesca», sono sostituite le seguenti: «sentito il Consiglio di Stato».   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-  
-Il presente decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 21 ottobre 1923.   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Corbino - Thaon De Revel -   
-Oviglio - Federzoni -   
-Carnazza - De' Stefani.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla. Corte dei conti, con riserva, addi' 28 dicembre 1923.   
-  
-Atti del Governo, registro 219, foglio 201. - Granata.   
-  
+Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 21 ottobre 1923. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Corbino - Thaon De Revel - 
+ Oviglio - Federzoni - 
+ Carnazza - De' Stefani. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla. Corte dei conti, con riserva, addi' 28 dicembre 1923. 
+ 
+ Atti del Governo, registro 219, foglio 201. - Granata.

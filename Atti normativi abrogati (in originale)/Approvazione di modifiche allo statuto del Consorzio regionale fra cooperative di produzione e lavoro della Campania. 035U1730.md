@@ -1,70 +1,44 @@
-REGIO DECRETO 26 luglio 1935 n. 1730
-
-
-REGIO DECRETO 26 luglio 1935 n. 1730
-====================================
-
-Approvazione di modifiche allo statuto del Consorzio regionale fra cooperative di produzione e lavoro della Campania. (035U1730)
---------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/10/1935
+---
+tipo: REGIO DECRETO
+numero: 1730
+data: 1935-07-26
+titolo: "Approvazione di modifiche allo statuto del Consorzio regionale fra cooperative di produzione e lavoro della Campania. (035U1730)"
+urn: urn:nir:stato:regio.decreto:1935-07-26;1730
+codice_redazionale: 035U1730
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 2 luglio 1922, n. 994](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-07-02;994), con il quale il consorzio regionale fra cooperative di lavoro e produzione della Campania, con sede in Napoli, venne eretto in ente morale e ne fu approvato lo statuto organico;
+Visto il [R. decreto 2 luglio 1922, n. 994](Erezioni%20in%20Ente%20morale.%20022U0994.md), con il quale il consorzio regionale fra cooperative di lavoro e produzione della Campania, con sede in Napoli, venne eretto in ente morale e ne fu approvato lo statuto organico;
 
-Visti i [Regi decreti 11 dicembre 1924, n. 2152](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-11;2152); [15 febbraio 1925, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-02-15;206); [26 agosto 1927, n. 2009](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-26;2009), e 7 marzo 1933, contenenti modificazioni allo statuto stesso;
+Visti i [Regi decreti 11 dicembre 1924, n. 2152](Modificazioni%20allo%20statuto%20del%20Consorzio%20regionale%20fra%20le%20cooperative%20di%20produzione%20e%20lavoro%20della%20Campania%20in%20Napoli.%20024U2152.md); [15 febbraio 1925, n. 206](Modificazione%20allo%20statuto%20del%20Consorzio%20regionale%20tra%20le%20cooperative%20di%20produzione%20e%20lavoro%20della%20Campania%20in%20Napoli.%20025U0206.md); [26 agosto 1927, n. 2009](Modificazioni%20allo%20statuto%20del%20Consorzio%20regionale%20fra%20cooperative%20di%20lavoro%20e%20produzione%20della%20Campania.%20027U2009.md), e 7 marzo 1933, contenenti modificazioni allo statuto stesso;
 
 Vista la deliberazione 28 marzo 1935 dell'assemblea generale dei delegati dell'ente predetto, con la quale si modifica il testo dell'art. 34 dello statuto;
 
 Vista l'istanza 30 aprile 1935, con la quale l'ente stesso ha chiesto l'approvazione della modificazione suddetta;
 
-Visti la [legge 25 giugno 1909, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;422), ed il relativo regolamento approvato con [R. decreto 12 febbraio 1911, n. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-02-12;278);
+Visti la [legge 25 giugno 1909, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;422), ed il relativo regolamento approvato con [R. decreto 12 febbraio 1911, n. 278](Che%20approva%20lannesso%20regolamento%20relativo%20alla%20concessione%20dappalti%20a%20Societa%20cooperative%20di%20produzione%20e%20lavoro%20e%20per%20la%20costituzione%20dei%20Consorzi%20di%20cooperative%20per%20appalti%20di%20lavori%20pu_92fc9e8d6f81.md);
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per le corporazioni, di concerto con il Ministro per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per le corporazioni, di concerto con il Ministro per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il primo capoverso dell'art. 34 dello statuto del Consorzio regionale fra cooperative di lavoro e produzione della Campania e' modificato nel testo di cui all'articolo annesso al presente decreto, visto e firmato d'ordine Nostro dal Ministro proponente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Anna di Valdieri, addi' 26 luglio 1935 - Anno XIII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Razza   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 1° ottobre 1935 - Anno XIII   
-Atti del Governo, registro 365, foglio 1. - Mancini.   
-  
-  
-
-Allegato
-
- Art. 34 Capoverso 1°   
-  
-Il presidente del Consiglio di amministrazione ha la legale rappresentanza del Consorzio. La firma sociale e' pero' devoluta congiuntamente al presidente e al direttore. Essi, insieme, firmano gli atti sia interni che di rapporto con i terzi, i contratti, le obbligazioni cambiarie e le procure deliberate dal Consiglio di amministrazione.   
-  
-Visto, d'ordine di Sua Maesta' il Re:   
-  
-Il Capo del Governo,   
-  
-Ministro per le corporazioni:   
-  
-Mussolini   
-  
-  
+Il primo capoverso dell'art. 34 dello statuto del Consorzio regionale fra cooperative di lavoro e produzione della Campania e' modificato nel testo di cui all'articolo annesso al presente decreto, visto e firmato d'ordine Nostro dal Ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Anna di Valdieri, addi' 26 luglio 1935 - Anno XIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Razza 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 1° ottobre 1935 - Anno XIII  
+ Atti del Governo, registro 365, foglio 1. - Mancini.

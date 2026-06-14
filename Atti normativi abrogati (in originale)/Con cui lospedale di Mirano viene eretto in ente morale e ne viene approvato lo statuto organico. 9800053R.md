@@ -1,21 +1,17 @@
-REGIO DECRETO 20 gennaio 1898 n. LIII
+---
+tipo: REGIO DECRETO
+numero: LIII
+data: 1898-01-20
+titolo: "Con cui l'ospedale di Mirano viene eretto in ente morale e ne viene approvato lo statuto organico. (9800053R)"
+urn: urn:nir:stato:regio.decreto:1898-01-20;53
+codice_redazionale: 9800053R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 gennaio 1898 n. LIII
-=====================================
-
-Con cui l'ospedale di Mirano viene eretto in ente morale e ne viene approvato lo statuto organico. (9800053R)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/04/1898
-
-Art. 1
-------
-
-  
-Con cui l'ospedale di Mirano viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato UMBERTO - Controfirmato Rudini' - Visto G. Zanardelli.   
-  
-Registrato alla Corte dei conti, addi' 12 marzo 1898.   
-  
-Reg. 214. Atti del Governo a f. 149.   
-  
+Con cui l'ospedale di Mirano viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato UMBERTO - Controfirmato Rudini' - Visto G. Zanardelli. 
+ 
+ Registrato alla Corte dei conti, addi' 12 marzo 1898. 
+ 
+ Reg. 214. Atti del Governo a f. 149.

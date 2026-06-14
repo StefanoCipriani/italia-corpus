@@ -1,64 +1,59 @@
-REGIO DECRETO 19 settembre 1875 n. 2741
+---
+tipo: REGIO DECRETO
+numero: 2741
+data: 1875-09-19
+titolo: "Che fissa gli stipendi ed assegni al preside ed agli insegnanti dello istituto tecnico di Reggio Calabria. (075U2741)"
+urn: urn:nir:stato:regio.decreto:1875-09-19;2741
+codice_redazionale: 075U2741
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 settembre 1875 n. 2741
-=======================================
+VITTORIO EMANUELE II 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Visto il Nostro decreto di questo stesso giorno che fonda in Reggio Calabria un Istituto tecnico colle sezioni fisico-matematica, agronomica, commerciale e di ragioneria; 
+ 
+ Sentito il Consiglio superiore per l'istruzione tecnica; 
+ 
+ Sulla proposta del Nostro Ministro di Agricoltura, Industria e Commercio, 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ Gli stipendi ed assegni al preside e agli insegnanti dell'Istituto tecnico di Reggio Calabria sono fissati come appresso: 
+ 
+ 
 
-Che fissa gli stipendi ed assegni al preside ed agli insegnanti dello istituto tecnico di Reggio Calabria. (075U2741)
----------------------------------------------------------------------------------------------------------------------
+__Presidenza ...___________________________________________ L. 1000
+__Lettere italiane ..._______________________________________» 2200
+__Lingua francese ...________________________________________» 1600
+__Lingua tedesca ..._________________________________________» 1800
+__Storia e geografia descrittiva e politica ...______________» 2200
+__Disegno ...________________________________________________» 1800
+__Matematiche elementari ..._________________________________» 1800
+__Matematiche superiori e geometria descrittiva ...__________» 2200
+__Storia naturale e sue applicazioni ..._____________________» 2000
+__Fisica, elementi di meccanica e geografia fisica ..._______» 2000
+__Chimica generale ed agraria ...____________________________» 2200
+__Estimo, agronomia e computisteria rurale ..._______________» 2200
+__Costruzioni rurali e geometria pratica ..._________________» 2200
+__Dritto civile e commerciale e legislazione rurale ...______» 1800
+__Economia politica, statistica e diritto amministrativo ..._» 2000
+__Computisteria e ragioneria ..._____________________________» 2200
+_____________________________________________________________------
+__________________________________________________________L. 31,200
 
-Entrata in vigore del provvedimento: 23/11/1875
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE II   
-  
-PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
-  
-RE D'ITALIA   
-  
-Visto il Nostro decreto di questo stesso giorno che fonda in Reggio Calabria un Istituto tecnico colle sezioni fisico-matematica, agronomica, commerciale e di ragioneria;   
-  
-Sentito il Consiglio superiore per l'istruzione tecnica;   
-  
-Sulla proposta del Nostro Ministro di Agricoltura, Industria e Commercio,   
-  
-Abbiamo decretato e decretiamo:   
-  
-Gli stipendi ed assegni al preside e agli insegnanti dell'Istituto tecnico di Reggio Calabria sono fissati come appresso:   
-  
-  
-  
-\_\_Presidenza ...\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ L. 1000  
-\_\_Lettere italiane ...\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_» 2200  
-\_\_Lingua francese ...\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_» 1600  
-\_\_Lingua tedesca ...\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_» 1800  
-\_\_Storia e geografia descrittiva e politica ...\_\_\_\_\_\_\_\_\_\_\_\_\_\_» 2200  
-\_\_Disegno ...\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_» 1800  
-\_\_Matematiche elementari ...\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_» 1800  
-\_\_Matematiche superiori e geometria descrittiva ...\_\_\_\_\_\_\_\_\_\_» 2200  
-\_\_Storia naturale e sue applicazioni ...\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_» 2000  
-\_\_Fisica, elementi di meccanica e geografia fisica ...\_\_\_\_\_\_\_» 2000  
-\_\_Chimica generale ed agraria ...\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_» 2200  
-\_\_Estimo, agronomia e computisteria rurale ...\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_» 2200  
-\_\_Costruzioni rurali e geometria pratica ...\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_» 2200  
-\_\_Dritto civile e commerciale e legislazione rurale ...\_\_\_\_\_\_» 1800  
-\_\_Economia politica, statistica e diritto amministrativo ...\_» 2000  
-\_\_Computisteria e ragioneria ...\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_» 2200  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_------  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_L. 31,200  
-  
-  
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 19 settembre 1875.   
-  
-VITTORIO EMANUELE.   
-  
-G. Finali.   
-  
-  
+ 
+ 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 19 settembre 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Finali.

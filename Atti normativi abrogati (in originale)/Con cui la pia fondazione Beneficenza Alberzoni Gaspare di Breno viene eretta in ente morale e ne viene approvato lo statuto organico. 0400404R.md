@@ -1,22 +1,18 @@
-REGIO DECRETO 01 agosto 1904 n. CCCCIV
+---
+tipo: REGIO DECRETO
+numero: CCCCIV
+data: 1904-08-01
+titolo: "Con cui la pia fondazione «Beneficenza Alberzoni Gaspare» di Breno viene eretta in ente morale e ne viene approvato lo statuto organico. (0400404R)"
+urn: urn:nir:stato:regio.decreto:1904-08-01;404
+codice_redazionale: 0400404R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 agosto 1904 n. CCCCIV
-======================================
-
-Con cui la pia fondazione «Beneficenza Alberzoni Gaspare» di Breno viene eretta in ente morale e ne viene approvato lo statuto organico. (0400404R)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/11/1904
-
-Art. 1
-------
-
-  
-Con cui la pia fondazione «Beneficenza Alberzoni Gaspare» di Breno viene eretta in ente morale e ne viene approvato lo statuto organico.  
-- Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 19 ottobre 1904.   
-  
-Reg. 19. Atti del Governo a f. 49.   
-  
+Con cui la pia fondazione «Beneficenza Alberzoni Gaspare» di Breno viene eretta in ente morale e ne viene approvato lo statuto organico.
+- Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 19 ottobre 1904. 
+ 
+ Reg. 19. Atti del Governo a f. 49.

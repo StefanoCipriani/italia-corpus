@@ -1,21 +1,17 @@
-REGIO DECRETO 22 marzo 1903 n. CLXVIII
+---
+tipo: REGIO DECRETO
+numero: CLXVIII
+data: 1903-03-22
+titolo: "Che costituisce la cassa di risparmio di Capranica di Sutri. (0300168R)"
+urn: urn:nir:stato:regio.decreto:1903-03-22;168
+codice_redazionale: 0300168R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 marzo 1903 n. CLXVIII
-======================================
-
-Che costituisce la cassa di risparmio di Capranica di Sutri. (0300168R)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/06/1903
-
-Art. 1
-------
-
-  
-Che autorizza la costituzione della cassa di risparmio di Capranica di Sutri. - Firmato VITTORIO EMANUELE - Controfirmato G. Baccelli - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 2 giugno 1903.   
-  
-Reg. 10. Atti del Governo a f. 6.   
-  
+Che autorizza la costituzione della cassa di risparmio di Capranica di Sutri. - Firmato VITTORIO EMANUELE - Controfirmato G. Baccelli - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 2 giugno 1903. 
+ 
+ Reg. 10. Atti del Governo a f. 6.

@@ -1,16 +1,14 @@
-REGIO DECRETO 05 settembre 1938 n. 1564
-
-
-REGIO DECRETO 05 settembre 1938 n. 1564
-=======================================
-
-Durata del ciclo di operazioni militari aeronautiche nelle Colonie. (038U1564)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/10/1938
+---
+tipo: REGIO DECRETO
+numero: 1564
+data: 1938-09-05
+titolo: "Durata del ciclo di operazioni militari aeronautiche nelle Colonie. (038U1564)"
+urn: urn:nir:stato:regio.decreto:1938-09-05;1564
+codice_redazionale: 038U1564
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,30 +24,24 @@ Visto il R. decreto-legge 3 febbraio 1938-XVI, n. 744, sul reclutamento ed avanz
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per l'aeronautica e per l'Africa Italiana, e di concerto col Ministro Segretario di Stato per le finanze; Abbiano decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per l'aeronautica e per l'Africa Italiana, e di concerto col Ministro Segretario di Stato per le finanze; Abbiano decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I fatti d'arma aeronautici svoltisi nell'Africa Orientale Italiana a partire dal 1° gennaio 1938-XVI, fino alla data del 30 giugno 1938-XVI, sono considerati avvenuti in ciclo di operazioni militari aeronautiche importanti nelle colonie, agli effetti dell'applicazione degli articoli 38 e 39 del R. decreto-legge 3 febbraio 1938-XVI, n. 744; e dell'art. 101, 2° comma, del [R. decreto-legge 28 gennaio 1935, n. 314](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-01-28;314), quale fu sostituito dell'[art. 1 del R. decreto-legge 12 novembre 1936, n. 2172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-11-12;2172~art1).   
-  
-Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 5 settembre 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 8 ottobre 1938 - Anno XVI   
-  
-Atti del Governo, registro 402, foglio 44. - Mancini.   
+I fatti d'arma aeronautici svoltisi nell'Africa Orientale Italiana a partire dal 1° gennaio 1938-XVI, fino alla data del 30 giugno 1938-XVI, sono considerati avvenuti in ciclo di operazioni militari aeronautiche importanti nelle colonie, agli effetti dell'applicazione degli articoli 38 e 39 del R. decreto-legge 3 febbraio 1938-XVI, n. 744; e dell'art. 101, 2° comma, del [R. decreto-legge 28 gennaio 1935, n. 314](Approvazione%20delle%20norme%20relative%20al%20reclutamento%20ed%20allavanzamento%20degli%20ufficiali%20della%20Regia%20aeronautica.%20035U0314.md), quale fu sostituito dell'[art. 1 del R. decreto-legge 12 novembre 1936, n. 2172](Disposizioni%20per%20la%20nomina%20ad%20ufficiale%20della%20Regia%20aeronautica%20di%20sottufficiali%20distintisi%20in%20operazioni%20militari%20importanti%20nelle%20Colonie%20dellAfrica%20Orientale.%20036U2172.md). 
+ 
+ Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 5 settembre 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 8 ottobre 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 402, foglio 44. - Mancini.

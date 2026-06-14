@@ -1,22 +1,20 @@
-REGIO DECRETO 23 dicembre 1913 n. 1394
-
-
-REGIO DECRETO 23 dicembre 1913 n. 1394
-======================================
-
-Col quale e' prorogalo il termine stabilito dall'art. 87 (2° comma) della legge 4 giugno 1911, n. 487, concernente il passaggio dell'amministrazione della scuola dai Comuni al Consiglio scolastico. (013U1394)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/01/1914
+---
+tipo: REGIO DECRETO
+numero: 1394
+data: 1913-12-23
+titolo: "Col quale e' prorogalo il termine stabilito dall'art. 87 (2° comma) della legge 4 giugno 1911, n. 487, concernente il passaggio dell'amministrazione della scuola dai Comuni al Consiglio scolastico. (013U1394)"
+urn: urn:nir:stato:regio.decreto:1913-12-23;1394
+codice_redazionale: 013U1394
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D' ITALIA
 
-Veduto l'[art. 87, comma 2°, della legge 4 giugno 1911, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487~art87-com2), sull'istruzione elementare e popolare, col quale si stabilisce che il passaggio dell'Amministrazione della scuola dai Comuni al Consiglio scolastico sara', entro l'anno 1913, stabilito con decreto Reale per ciascuna Provincia a mano a mano che siasi provveduto alla costituzione degli uffici provinciali, alla formazione dei ruoli del personale e alla sistemazione dei rapporti tra Comuni e Consigli scolastici;
+Veduto l'[art. 87, comma 2°, della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), sull'istruzione elementare e popolare, col quale si stabilisce che il passaggio dell'Amministrazione della scuola dai Comuni al Consiglio scolastico sara', entro l'anno 1913, stabilito con decreto Reale per ciascuna Provincia a mano a mano che siasi provveduto alla costituzione degli uffici provinciali, alla formazione dei ruoli del personale e alla sistemazione dei rapporti tra Comuni e Consigli scolastici;
 
 Considerato che tale legge ha richiesto l'adozione di una serie cosi' numerosa di provvedimenti amministrativi - molti dei quali di complicata esecuzione - che il termine del 31 dicembre 1913 e' risultato insufficiente alla completa applicazione della legge stessa in tutte le Provincie del Regno;
 
@@ -30,33 +28,28 @@ Sentito il Consiglio dei ministri;
 
 Su proposta del Nostro ministro, segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
 
-Art. 1
-------
+## Art. 1.
 
-Il termine stabilito dell'[art. 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487~art87) ([comma 2°) della legge 4 giugno 1911, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487~com2), e' prorogato al 31 marzo
+Il termine stabilito dell'[art. 87](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md) ([comma 2°) della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), e' prorogato al 31 marzo
 
-1914. 
-  
-  
-Le spese, che i Comuni dovranno sostenere per stipendi ed assegni al personale insegnante delle scuole istituite o sdoppiate posteriormente al 31 dicembre 1911, non comprese nei contributi consolidati graveranno, a datare dal 1° gennaio 1914 e fino alla data in cui entrera' in vigore il decreto di passaggio delle scuole dai Comuni al Consiglio scolastico, sul bilancio del Ministero della pubblica istruzione e saranno rimborsate ai Comuni in occasione e con le norme stabilite pel rimborso delle somme ad essi dovute per aumenti di stipendio ai maestri elementari.   
-  
-Gli stipendi ai maestri elementari dal 1° gennaio 1914 saranno pagati a dodicesimi.   
-  
-Dal 1° gennaio 1914 la istituzione di nuove scuole, gli sdoppiamenti delle scuole esistenti, i cambiamenti di classificazione, i riordinamenti, i trasferimenti e ogni altro provvedimento che importi aumento di spesa a carico dei bilanci dei Consigli scolastici non potranno essere deliberati dai Comuni senza la preventiva autorizzazione del Ministero della pubblica istruzione, di concerto col Ministero del tesoro.
+1914.
 
-Art. 2
-------
+Le spese, che i Comuni dovranno sostenere per stipendi ed assegni al personale insegnante delle scuole istituite o sdoppiate posteriormente al 31 dicembre 1911, non comprese nei contributi consolidati graveranno, a datare dal 1° gennaio 1914 e fino alla data in cui entrera' in vigore il decreto di passaggio delle scuole dai Comuni al Consiglio scolastico, sul bilancio del Ministero della pubblica istruzione e saranno rimborsate ai Comuni in occasione e con le norme stabilite pel rimborso delle somme ad essi dovute per aumenti di stipendio ai maestri elementari. 
+ 
+ Gli stipendi ai maestri elementari dal 1° gennaio 1914 saranno pagati a dodicesimi. 
+ 
+ Dal 1° gennaio 1914 la istituzione di nuove scuole, gli sdoppiamenti delle scuole esistenti, i cambiamenti di classificazione, i riordinamenti, i trasferimenti e ogni altro provvedimento che importi aumento di spesa a carico dei bilanci dei Consigli scolastici non potranno essere deliberati dai Comuni senza la preventiva autorizzazione del Ministero della pubblica istruzione, di concerto col Ministero del tesoro.
 
-  
-  
-Il presente decreto sara' presentato al Parlamento per la conversione in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 dicembre 1913.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti - Tedesco - Credaro.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
+## Art. 2.
+
+Il presente decreto sara' presentato al Parlamento per la conversione in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 dicembre 1913. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti - Tedesco - Credaro. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

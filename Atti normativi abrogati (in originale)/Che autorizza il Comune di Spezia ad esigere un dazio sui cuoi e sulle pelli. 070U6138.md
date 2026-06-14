@@ -1,16 +1,14 @@
-REGIO DECRETO 15 dicembre 1870 n. 6138
-
-
-REGIO DECRETO 15 dicembre 1870 n. 6138
-======================================
-
-Che autorizza il Comune di Spezia ad esigere un dazio sui cuoi e sulle pelli. (070U6138)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/01/1871
+---
+tipo: REGIO DECRETO
+numero: 6138
+data: 1870-12-15
+titolo: "Che autorizza il Comune di Spezia ad esigere un dazio sui cuoi e sulle pelli. (070U6138)"
+urn: urn:nir:stato:regio.decreto:1870-12-15;6138
+codice_redazionale: 070U6138
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,25 +20,18 @@ Veduto il parere della Camera di commercio di Genova;
 
 Sentito il Consiglio di Stato;
 
-Visto l'[articolo 11 della legge 11 agosto 1870, numero 5784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784~art11), Allegato L;
+Visto l'[articolo 11 della legge 11 agosto 1870, numero 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md), Allegato L;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze: Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze: Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Spezia e' autorizzato ad esigere per proprio conto dal 1° gennaio 1871 in poi un dazio sui cuoi e sulle pelli, secondo la tariffa proposta con sua deliberazione sovraccitata.   
-  
-Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 15 dicembre 1870.   
-  
-VITTORIO EMANUELE.   
-  
-Quintino Sella.   
-  
+Il comune di Spezia e' autorizzato ad esigere per proprio conto dal 1° gennaio 1871 in poi un dazio sui cuoi e sulle pelli, secondo la tariffa proposta con sua deliberazione sovraccitata. 
+ 
+ Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 15 dicembre 1870. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Quintino Sella.

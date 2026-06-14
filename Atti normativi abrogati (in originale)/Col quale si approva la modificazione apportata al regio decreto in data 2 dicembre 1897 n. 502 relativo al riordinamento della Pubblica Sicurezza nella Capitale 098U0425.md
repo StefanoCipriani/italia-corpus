@@ -1,16 +1,14 @@
-REGIO DECRETO 29 settembre 1898 n. 425
-
-
-REGIO DECRETO 29 settembre 1898 n. 425
-======================================
-
-Col quale si approva la modificazione apportata al regio decreto in data 2 dicembre 1897, n. 502 relativo al riordinamento della Pubblica Sicurezza nella Capitale (098U0425)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/10/1898
+---
+tipo: REGIO DECRETO
+numero: 425
+data: 1898-09-29
+titolo: "Col quale si approva la modificazione apportata al regio decreto in data 2 dicembre 1897, n. 502 relativo al riordinamento della Pubblica Sicurezza nella Capitale (098U0425)"
+urn: urn:nir:stato:regio.decreto:1898-09-29;425
+codice_redazionale: 098U0425
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,26 +20,19 @@ Udito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri e del Ministro della Guerra; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri e del Ministro della Guerra; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Gli articoli 1, 3, 4 e 5 del Nostro decreto in data 2 dicembre 1897, n. 502, sono abrogati.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare   
-  
-Dato a Monza, addi' 29 settembre 1898.   
-  
-UMBERTO.   
-  
-Pelloux.   
-A. Di San Marzano.   
-  
-Visto, Il Guardasigilli: C. Finocchiaro-Aprile.   
-  
+Gli articoli 1, 3, 4 e 5 del Nostro decreto in data 2 dicembre 1897, n. 502, sono abrogati. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare 
+ 
+ Dato a Monza, addi' 29 settembre 1898. 
+ 
+ UMBERTO. 
+ 
+ Pelloux. 
+ A. Di San Marzano. 
+ 
+ Visto, Il Guardasigilli: C. Finocchiaro-Aprile.

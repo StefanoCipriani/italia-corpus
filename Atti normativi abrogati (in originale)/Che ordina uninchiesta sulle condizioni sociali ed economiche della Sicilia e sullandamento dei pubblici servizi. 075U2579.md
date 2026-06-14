@@ -1,71 +1,46 @@
-LEGGE 03 luglio 1875 n. 2579
+---
+tipo: LEGGE
+numero: 2579
+data: 1875-07-03
+titolo: "Che ordina un'inchiesta sulle condizioni sociali ed economiche della Sicilia e sull'andamento dei pubblici servizi. (075U2579)"
+urn: urn:nir:stato:legge:1875-07-03;2579
+codice_redazionale: 075U2579
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 03 luglio 1875 n. 2579
-============================
+E' ordinata un'inchiesta sulle condizioni sociali ed economiche della Sicilia e sull'andamento dei pubblici servizi.
 
-Che ordina un'inchiesta sulle condizioni sociali ed economiche della Sicilia e sull'andamento dei pubblici servizi. (075U2579)
-------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 23/07/1875
+L'inchiesta sara' fatta da una Giunta composta di nove membri, dei quali tre saranno nominati dalla Camera dei deputati, tre dal Senato del Regno, e tre con decreto Reale, sentito il Consiglio dei Ministri. 
+ 
+ La Giunta eleggera' fra i suoi membri il proprio presidente.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-E' ordinata un'inchiesta sulle condizioni sociali ed economiche della Sicilia e sull'andamento dei pubblici servizi.   
-  
+Sono applicabili ai testimoni chiamati dalla Giunta le disposizioni di cui agli articoli, 306, 364, 365 num. 3, 368, 369 num. 4, 370 num. 4 del [Codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398). 
+ 
+ Se il testimonio ritratta la falsa testimonianza o palesa il vero dinanzi alla Giunta prima che contro di lui si sia istituito procedimento penale, la pena alla quale avrebbe dovuto soggiacere sara' diminuita da uno a tre gradi.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-L'inchiesta sara' fatta da una Giunta composta di nove membri, dei quali tre saranno nominati dalla Camera dei deputati, tre dal Senato del Regno, e tre con decreto Reale, sentito il Consiglio dei Ministri.   
-  
-La Giunta eleggera' fra i suoi membri il proprio presidente.   
-  
+Entro un anno saranno presentati al Governo i documenti e la relazione dell'inchiesta la quale verra' trasmessa alle due Camere del Parlamento e pubblicata.
 
-Art. 3
-------
+## Art. 5.
 
-  
-  
-Sono applicabili ai testimoni chiamati dalla Giunta le disposizioni di cui agli articoli, 306, 364, 365 num. 3, 368, 369 num. 4, 370 num. 4 del [Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398).   
-  
-Se il testimonio ritratta la falsa testimonianza o palesa il vero dinanzi alla Giunta prima che contro di lui si sia istituito procedimento penale, la pena alla quale avrebbe dovuto soggiacere sara' diminuita da uno a tre gradi.   
-  
+Per provvedere a questa inchiesta sara' stanziata nel bilancio 1875 del Ministero dell'Interno, capitolo 53, la somma di lire 100,000.
 
-Art. 4
-------
+## Art. 6.
 
-  
-  
-Entro un anno saranno presentati al Governo i documenti e la relazione dell'inchiesta la quale verra' trasmessa alle due Camere del Parlamento e pubblicata.   
-  
-
-Art. 5
-------
-
-  
-  
-Per provvedere a questa inchiesta sara' stanziata nel bilancio 1875 del Ministero dell'Interno, capitolo 53, la somma di lire 100,000.   
-  
-
-Art. 6
-------
-
-  
-  
-I componenti della Giunta di nomina del Senato e della Camera dei deputati saranno scelti dalle rispettive Presidenze.   
-  
-Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Valdieri, addi' 3 luglio 1875.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-P. O. Vigliani.   
-  
+I componenti della Giunta di nomina del Senato e della Camera dei deputati saranno scelti dalle rispettive Presidenze. 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Valdieri, addi' 3 luglio 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli. 
+ P. O. Vigliani.

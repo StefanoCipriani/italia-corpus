@@ -1,19 +1,15 @@
-REGIO DECRETO 15 luglio 1909 n. CCC
+---
+tipo: REGIO DECRETO
+numero: CCC
+data: 1909-07-15
+titolo: "Che trasforma il Monte frumentario di Bucchianico. (0900300R)"
+urn: urn:nir:stato:regio.decreto:1909-07-15;300
+codice_redazionale: 0900300R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 luglio 1909 n. CCC
-===================================
-
-Che trasforma il Monte frumentario di Bucchianico. (0900300R)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/09/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCC (Dato a Roma, il 15 luglio 1909), col quale il Monte frumentario di Bucchianico (Chieti) e' stato trasformato in Cassa di prestanze agrarie e col quale altresi' la Cassa stessa e' stata concentrata nella Congregazione di carita' del luogo e furono approvate le norme statutarie per il funzionamento del nuovo ente.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCC (Dato a Roma, il 15 luglio 1909), col quale il Monte frumentario di Bucchianico (Chieti) e' stato trasformato in Cassa di prestanze agrarie e col quale altresi' la Cassa stessa e' stata concentrata nella Congregazione di carita' del luogo e furono approvate le norme statutarie per il funzionamento del nuovo ente.

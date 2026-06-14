@@ -1,16 +1,14 @@
-REGIO DECRETO 29 aprile 1868 n. 4362
-
-
-REGIO DECRETO 29 aprile 1868 n. 4362
-====================================
-
-Col quale viene fissata l'indennita' giornaliera agli Ufficiali superiori e subalterni, addetti ai Depositi cavalli-stalloni, che per ragione di servizio debbono recarsi in missione fuori della loro residenza. (068U4362)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/06/1868
+---
+tipo: REGIO DECRETO
+numero: 4362
+data: 1868-04-29
+titolo: "Col quale viene fissata l'indennita' giornaliera agli Ufficiali superiori e subalterni, addetti ai Depositi cavalli-stalloni, che per ragione di servizio debbono recarsi in missione fuori della loro residenza. (068U4362)"
+urn: urn:nir:stato:regio.decreto:1868-04-29;4362
+codice_redazionale: 068U4362
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,46 +24,26 @@ Considerando che gli Ufficiali preposti alla direzione dei Depositi cavalli-stal
 
 Considerando che per far fronte alle spese di vitto ed alloggio ed altre indispensabili a sostenersi dai suddetti Ufficiali per l'adempimento delle attribuzioni loro affidate, si ravvisano insufficienti le indennita' di via o i soprassoldi di marcia, assegnati pei militari in virtu' dei succitati Reali Decreti 25 marzo 1852 e 15 settembre 1859;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Agli Ufficiali superiori e subalterni addetti ai Depositi cavalli-stalloni, che per ragione di servizio, dietro autorizzazione del Ministero, debbono recarsi in missione fuori della ordinaria loro residenza, sono assegnate le indennita' giornaliere, di cui nell'unita Tabella firmata d'ordine Nostro dal Ministro d'Agricoltura, Industria e Commercio.
 
-  
-  
-Agli Ufficiali superiori e subalterni addetti ai Depositi cavalli-stalloni, che per ragione di servizio, dietro autorizzazione del Ministero, debbono recarsi in missione fuori della ordinaria loro residenza, sono assegnate le indennita' giornaliere, di cui nell'unita Tabella firmata d'ordine Nostro dal Ministro d'Agricoltura, Industria e Commercio.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Gli Ufficiali addetti al servizio dei Depositi cavalli-stalloni cesseranno di godere la indennita' di via e i soprassoldi di marcia accordati agli Ufficiali del R. Esercito.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 29 aprile 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 15 maggio 1868   
-  
-Reg.42 Atti del Governo a c. 221. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-Broglio.   
-  
-
-Tabella
-
-  
-TABELLA   
-delle indennita' giornaliere di soggiorno assegnate agli Uffiziali addetti ai Depositi cavalli-stalloni che si recano in missione per affari di servizio.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=068U436200100010110001&dgu=1868-05-19&art.dataPubblicazioneGazzetta=1868-05-19&art.codiceRedazionale=068U4362)
-  
+Gli Ufficiali addetti al servizio dei Depositi cavalli-stalloni cesseranno di godere la indennita' di via e i soprassoldi di marcia accordati agli Ufficiali del R. Esercito. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 29 aprile 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 15 maggio 1868 
+ 
+ Reg.42 Atti del Governo a c. 221. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ Broglio.

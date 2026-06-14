@@ -1,19 +1,15 @@
-REGIO DECRETO 30 gennaio 1862 n. CCLXXXII
+---
+tipo: REGIO DECRETO
+numero: CCLXXXII
+data: 1862-01-30
+titolo: "Con cui si approva una tariffa ed un regolamento per l'instituzione di un dazio di consumo per abbuonamento sugli spiriti e sui liquori a favore del Comune di San Lorenzo in Campo. (6200282R)"
+urn: urn:nir:stato:regio.decreto:1862-01-30;282
+codice_redazionale: 6200282R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 gennaio 1862 n. CCLXXXII
-=========================================
-
-Con cui si approva una tariffa ed un regolamento per l'instituzione di un dazio di consumo per abbuonamento sugli spiriti e sui liquori a favore del Comune di San Lorenzo in Campo. (6200282R)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/01/1862
-
-Art. 1
-------
-
-  
-Con cui si approva una tariffa ed un regolamento per l'instituzione di un dazio di consumo per abbuonamento sugli spiriti e sui liquori a favore del Comune di San Lorenzo in Campo della Provincia di Pesaro ed Urbino.   
-  
-Torino 30 gennaio 1862   
-  
+Con cui si approva una tariffa ed un regolamento per l'instituzione di un dazio di consumo per abbuonamento sugli spiriti e sui liquori a favore del Comune di San Lorenzo in Campo della Provincia di Pesaro ed Urbino. 
+ 
+ Torino 30 gennaio 1862

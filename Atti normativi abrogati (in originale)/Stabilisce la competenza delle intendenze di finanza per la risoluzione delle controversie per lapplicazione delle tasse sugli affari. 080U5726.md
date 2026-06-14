@@ -1,16 +1,14 @@
-REGIO DECRETO 21 novembre 1880 n. 5726
-
-
-REGIO DECRETO 21 novembre 1880 n. 5726
-======================================
-
-Stabilisce la competenza delle intendenze di finanza per la risoluzione delle controversie per l'applicazione delle tasse sugli affari. (080U5726)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/12/1880
+---
+tipo: REGIO DECRETO
+numero: 5726
+data: 1880-11-21
+titolo: "Stabilisce la competenza delle intendenze di finanza per la risoluzione delle controversie per l'applicazione delle tasse sugli affari. (080U5726)"
+urn: urn:nir:stato:regio.decreto:1880-11-21;5726
+codice_redazionale: 080U5726
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,34 +20,23 @@ Visti i decreti Reali 17 luglio 1862, n. 760; 14 agosto 1884, n. 1897; 26 settem
 
 Sulla proposta dal Ministro delle Finanze e del Tesoro;
 
-Sentito
--------
+Sentito il Consiglio di Stato ed il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
 
-il Consiglio di Stato ed il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il limite delle facolta' attribuite alle Intendenze di finanza, per la risoluzione in via amministrativa delle controversie concernenti l'applicazione delle tasse sugli affari e delle relative sopratasse e pene pecuniarie, e' portato a lire 2000.
 
-  
-  
-Il limite delle facolta' attribuite alle Intendenze di finanza, per la risoluzione in via amministrativa delle controversie concernenti l'applicazione delle tasse sugli affari e delle relative sopratasse e pene pecuniarie, e' portato a lire 2000.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' estesa fino a 2000 lire la facolta' delle Intendenze di finanza di ordinare la restituzione di somme indebitamente percette, sia per le tasse sugli affari che per i proventi demaniali.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 novembre 1880.   
-  
-UMBERTO.   
-  
-A. Magliani.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+E' estesa fino a 2000 lire la facolta' delle Intendenze di finanza di ordinare la restituzione di somme indebitamente percette, sia per le tasse sugli affari che per i proventi demaniali. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 21 novembre 1880. 
+ 
+ UMBERTO. 
+ 
+ A. Magliani. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

@@ -1,19 +1,15 @@
-REGIO DECRETO 24 luglio 1905 n. CCVII
+---
+tipo: REGIO DECRETO
+numero: CCVII
+data: 1905-07-24
+titolo: "Approvazione per applicazione di tassa di famiglia. (0500207R)"
+urn: urn:nir:stato:regio.decreto:1905-07-24;207
+codice_redazionale: 0500207R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 luglio 1905 n. CCVII
-=====================================
-
-Approvazione per applicazione di tassa di famiglia. (0500207R)
---------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/08/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CCVII (Dato a Racconigi, il 24 luglio 1905), col quale e' data facolta' al comune di San Cosmo Albanese d'applicare, nell'anno 1905, la tassa di famiglia, col limite massimo di L. 80 (ottanta).   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CCVII (Dato a Racconigi, il 24 luglio 1905), col quale e' data facolta' al comune di San Cosmo Albanese d'applicare, nell'anno 1905, la tassa di famiglia, col limite massimo di L. 80 (ottanta).

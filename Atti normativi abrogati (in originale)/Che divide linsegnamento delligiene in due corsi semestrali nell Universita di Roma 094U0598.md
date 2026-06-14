@@ -1,53 +1,36 @@
-REGIO DECRETO 30 dicembre 1894 n. 598
+---
+tipo: REGIO DECRETO
+numero: 598
+data: 1894-12-30
+titolo: "Che divide l'insegnamento dell'igiene in due corsi semestrali nell' Universita' di Roma (094U0598)"
+urn: urn:nir:stato:regio.decreto:1894-12-30;598
+codice_redazionale: 094U0598
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 dicembre 1894 n. 598
-=====================================
+Nella R. Universita' di Roma, l'insegnamento dell'igiene e' diviso in due corsi semestrali: il primo d'igiene sperimentale, da darsi nell'Istituto d'igiene dell'Universita'; il secondo d'igiene sperimentale applicata alla polizia sanitaria, da impartirsi nei laboratori scientifici d'igiene dipendenti dal Ministero dell'Interno.
 
-Che divide l'insegnamento dell'igiene in due corsi semestrali nell' Universita' di Roma (094U0598)
---------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 20/02/1895
+Il Direttore dei predetti laboratori, che deve essere fornito dei titoli legali per l'insegnamento, dara' il corso d'igiene sperimentale applicata alla polizia sanitaria.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Nella R. Universita' di Roma, l'insegnamento dell'igiene e' diviso in due corsi semestrali: il primo d'igiene sperimentale, da darsi nell'Istituto d'igiene dell'Universita'; il secondo d'igiene sperimentale applicata alla polizia sanitaria, da impartirsi nei laboratori scientifici d'igiene dipendenti dal Ministero dell'Interno.   
-  
+Gli studenti hanno obbligo d'iscriversi nel primo semestre al corso d'igiene sperimentale dell'Universita'; nel secondo al corso d'igiene sperimentale applicata alla polizia sanitaria nei laboratori del Ministero dell'Interno.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-Il Direttore dei predetti laboratori, che deve essere fornito dei titoli legali per l'insegnamento, dara' il corso d'igiene sperimentale applicata alla polizia sanitaria.   
-  
-
-Art. 3
-------
-
-  
-  
-Gli studenti hanno obbligo d'iscriversi nel primo semestre al corso d'igiene sperimentale dell'Universita'; nel secondo al corso d'igiene sperimentale applicata alla polizia sanitaria nei laboratori del Ministero dell'Interno.   
-  
-
-Art. 4
-------
-
-  
-  
-L'esame sara' unico.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 30 dicembre 1894.   
-  
-UMBERTO.   
-  
-Crispi.   
-Baccelli.   
-  
-Visto, Il Guardasigilli: V. Calenda di Tavani.   
-  
+L'esame sara' unico. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 30 dicembre 1894. 
+ 
+ UMBERTO. 
+ 
+ Crispi. 
+ Baccelli. 
+ 
+ Visto, Il Guardasigilli: V. Calenda di Tavani.

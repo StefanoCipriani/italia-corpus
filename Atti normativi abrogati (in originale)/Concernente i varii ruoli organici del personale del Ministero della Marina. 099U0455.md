@@ -1,49 +1,45 @@
-REGIO DECRETO 17 dicembre 1899 n. 455
+---
+tipo: REGIO DECRETO
+numero: 455
+data: 1899-12-17
+titolo: "Concernente i varii ruoli organici del personale del Ministero della Marina. (099U0455)"
+urn: urn:nir:stato:regio.decreto:1899-12-17;455
+codice_redazionale: 099U0455
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 dicembre 1899 n. 455
-=====================================
-
-Concernente i varii ruoli organici del personale del Ministero della Marina. (099U0455)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/01/1900
-
-Art. 1
-------
-
-  
-UMBERTO I   
-  
-per grazia di Dio e per volonta' della Nazione   
-  
-RE D'ITALIA   
-  
-Viste le [leggi 19 giugno 1888 e 30 giugno 1889, nn. 5465 e 6155](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-06-30;6155) (serie 3ª);   
-  
-Vista la [legge 17 dicembre 1899, n. 438](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1899-12-17;438), che approva lo stato di previsione della spesa del Ministero della Marina per l'esercizio finanziario dal 1° luglio 1899 al 30 giugno 1900;   
-  
-Visto il [R. decreto 8 luglio 1897, n. 274](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1897-07-08;274);   
-  
-Sentito il Consiglio dei Ministri;   
-  
-Sulla proposta del Nostro Ministro della Marina;   
-  
-Abbiamo decretato e decretiamo:   
-  
-Il quadro organico degli Ufficiali del Corpo Reale Equipaggi e' stabilito in conformita' della seguente tabella:   
-  
-Capitani . . . N. 30   
-Tenenti . . . . » 51   
-Sottotenenti . » 50   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 17 dicembre 1899.   
-  
-UMBERTO.   
-  
-G. Bettolo.   
-  
-Visto, Il Guardasigilli: A. Bonasi.   
-  
+UMBERTO I 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Viste le [leggi 19 giugno 1888 e 30 giugno 1889, nn. 5465 e 6155](Con%20la%20quale%20le%20disposizioni%20legislative%20riguardanti%20la%20promozione%20dei%20sottufficiali%20della%20R.%20Marina%20ad%20ufficiali%20del%20Corpo%20Reale%20Equipaggi%20sono%20estese%20anche%20ai%20graduati%20delle%20categorie%20a_eaca5c788075.md) (serie 3ª); 
+ 
+ Vista la [legge 17 dicembre 1899, n. 438](Che%20approva%20gli%20stati%20di%20previsione%20della%20spesa%20della%20Marina%20per%20lesercizio%20finanziario%201899-900.%20099U0438.md), che approva lo stato di previsione della spesa del Ministero della Marina per l'esercizio finanziario dal 1° luglio 1899 al 30 giugno 1900; 
+ 
+ Visto il [R. decreto 8 luglio 1897, n. 274](Che%20stabilisce%20il%20quadro%20organico%20degli%20Ufficiali%20del%20Corpo%20Reali%20Equipaggi.%20097U0274.md); 
+ 
+ Sentito il Consiglio dei Ministri; 
+ 
+ Sulla proposta del Nostro Ministro della Marina; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ Il quadro organico degli Ufficiali del Corpo Reale Equipaggi e' stabilito in conformita' della seguente tabella: 
+ 
+ Capitani . . . N. 30 
+ Tenenti . . . . » 51 
+ Sottotenenti . » 50 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 dicembre 1899. 
+ 
+ UMBERTO. 
+ 
+ G. Bettolo. 
+ 
+ Visto, Il Guardasigilli: A. Bonasi.

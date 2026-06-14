@@ -1,16 +1,14 @@
-REGIO DECRETO 26 maggio 1941 n. 527
-
-
-REGIO DECRETO 26 maggio 1941 n. 527
-===================================
-
-Nomina del prof. Domenico Fabbri a componente il Consiglio di amministrazione dell'Istituto nazionale « LUCE » in sostituzione del Consigliere nazionale Fernando Mezzasoma, dimissionario. (041U0527)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/07/1941
+---
+tipo: REGIO DECRETO
+numero: 527
+data: 1941-05-26
+titolo: "Nomina del prof. Domenico Fabbri a componente il Consiglio di amministrazione dell'Istituto nazionale « LUCE » in sostituzione del Consigliere nazionale Fernando Mezzasoma, dimissionario. (041U0527)"
+urn: urn:nir:stato:regio.decreto:1941-05-26;527
+codice_redazionale: 041U0527
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,30 +24,22 @@ Visto il R. decreto 11 marzo 1940-XVIII, n. 433, portante la costituzione del Co
 
 Considerato che il Ministro Segretario del Partito ha designato quale rappresentante del P.N.F. nel Consiglio di amministrazione dell'Istituto nazionale « LUCE », il prof. Domenico Fabbri, in sostituzione del Consigliere nazionale Fernando Mezzasoma che ha chiesto ed ottenuto di essere dispensato dall'incarico;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per la cultura popolare; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per la cultura popolare; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-In sostituzione del Consigliere nazionale Fernando Mezzasoma il prof. Domenico Fabbri e' nominato membro del Consiglio di amministrazione dell'Istituto nazionale «LUCE» per il biennio 1940-41 in rappresentanza del P.N.F.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 26 maggio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Pavolini   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 19 giugno 1941-XIX   
-  
-Atti del Governo, registro 434, foglio 66. - Mancini   
-  
-  
+In sostituzione del Consigliere nazionale Fernando Mezzasoma il prof. Domenico Fabbri e' nominato membro del Consiglio di amministrazione dell'Istituto nazionale «LUCE» per il biennio 1940-41 in rappresentanza del P.N.F. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 maggio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Pavolini 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 19 giugno 1941-XIX 
+ 
+ Atti del Governo, registro 434, foglio 66. - Mancini

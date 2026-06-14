@@ -1,16 +1,14 @@
-REGIO DECRETO 24 febbraio 1870 n. 5529
-
-
-REGIO DECRETO 24 febbraio 1870 n. 5529
-======================================
-
-Portante una nuova proroga per l'attuazione del Decreto 5 ottobre 1869, concernente le modificazioni sui ruoli organici del personale della carriera superiore dell'Amministrazione provinciale. (070U5529)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/04/1870
+---
+tipo: REGIO DECRETO
+numero: 5529
+data: 1870-02-24
+titolo: "Portante una nuova proroga per l'attuazione del Decreto 5 ottobre 1869, concernente le modificazioni sui ruoli organici del personale della carriera superiore dell'Amministrazione provinciale. (070U5529)"
+urn: urn:nir:stato:regio.decreto:1870-02-24;5529
+codice_redazionale: 070U5529
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,32 +20,26 @@ Veduto il Decreto in data del successivo 18 dicembre, che ha prorogato al 1° ma
 
 Considerato che la Commissione speciale, incaricata dell'esame dei titoli e delle informazioni per la composizione dei nuovi ruoli, non ha ancora potuto compiere il suo lavoro;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 E' di nuovo prorogato al 1° maggio prossimo venturo il termine stabilito per l'attuazione del precedente Decreto 5 ottobre
 
-1869. 
-  
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli addi' 24 febbraio
+1869.
 
-1870. 
-  
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 9 marzo 1870   
-  
-Reg. 50 Atti del Governo a c. 111. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Lanza.
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli addi' 24 febbraio
+
+1870.
+
+VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 9 marzo 1870 
+ 
+ Reg. 50 Atti del Governo a c. 111. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Lanza.

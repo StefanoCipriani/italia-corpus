@@ -1,19 +1,15 @@
-REGIO DECRETO 21 dicembre 1913 n. 1504
+---
+tipo: REGIO DECRETO
+numero: 1504
+data: 1913-12-21
+titolo: "Trasformazione di Monte frumentario in Cassa di prestanze agrarie. (013U1504)"
+urn: urn:nir:stato:regio.decreto:1913-12-21;1504
+codice_redazionale: 013U1504
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 dicembre 1913 n. 1504
-======================================
-
-Trasformazione di Monte frumentario in Cassa di prestanze agrarie. (013U1504)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/02/1914
-
-Art. 1
-------
-
-  
-N. 1504   
-  
-R. Decreto 21 dicembre 1913, col quale, sulla proposta del ministro dell'interno, di concerto con quello di agricoltura, industria e commercio, il Monte frumentario, amministrato dalla Congregazione di carita' di Ripi (Roma), e' trasformato in Cassa di prestanze agrarie, ed e' approvato lo statuto pel governo di questa.   
-  
+N. 1504 
+ 
+ R. Decreto 21 dicembre 1913, col quale, sulla proposta del ministro dell'interno, di concerto con quello di agricoltura, industria e commercio, il Monte frumentario, amministrato dalla Congregazione di carita' di Ripi (Roma), e' trasformato in Cassa di prestanze agrarie, ed e' approvato lo statuto pel governo di questa.

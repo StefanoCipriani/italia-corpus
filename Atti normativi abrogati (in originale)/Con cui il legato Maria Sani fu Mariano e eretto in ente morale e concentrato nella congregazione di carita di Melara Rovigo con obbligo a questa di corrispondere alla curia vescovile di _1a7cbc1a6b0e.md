@@ -1,21 +1,17 @@
-REGIO DECRETO 10 aprile 1904 n. CXL
+---
+tipo: REGIO DECRETO
+numero: CXL
+data: 1904-04-10
+titolo: "Con cui il legato Maria Sani fu Mariano e' eretto in ente morale e concentrato nella congregazione di carita' di Melara (Rovigo) con obbligo a questa di corrispondere alla curia vescovile di Adria la somma necessaria per la messa funebre anniversaria disposta dalla pia fondatrice. (0400140R)"
+urn: urn:nir:stato:regio.decreto:1904-04-10;140
+codice_redazionale: 0400140R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 aprile 1904 n. CXL
-===================================
-
-Con cui il legato Maria Sani fu Mariano e' eretto in ente morale e concentrato nella congregazione di carita' di Melara (Rovigo) con obbligo a questa di corrispondere alla curia vescovile di Adria la somma necessaria per la messa funebre anniversaria disposta dalla pia fondatrice. (0400140R)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/05/1904
-
-Art. 1
-------
-
-  
-Con cui il legato Maria Sani fu Mariano e' eretto in ente morale e concentrato nella congregazione di carita' di Melara (Rovigo) con obbligo a questa di corrispondere alla curia vescovile di Adria la somma necessaria per la messa funebre anniversaria disposta dalla pia fondatrice. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 28 aprile 1904.   
-  
-Reg. 16. Atti del Governo a f. 79.   
-  
+Con cui il legato Maria Sani fu Mariano e' eretto in ente morale e concentrato nella congregazione di carita' di Melara (Rovigo) con obbligo a questa di corrispondere alla curia vescovile di Adria la somma necessaria per la messa funebre anniversaria disposta dalla pia fondatrice. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 28 aprile 1904. 
+ 
+ Reg. 16. Atti del Governo a f. 79.

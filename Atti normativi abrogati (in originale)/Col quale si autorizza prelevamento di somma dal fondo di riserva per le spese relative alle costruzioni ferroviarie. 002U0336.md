@@ -1,28 +1,26 @@
-REGIO DECRETO 29 luglio 1902 n. 336
-
-
-REGIO DECRETO 29 luglio 1902 n. 336
-===================================
-
-Col quale si autorizza prelevamento di somma dal fondo di riserva per le spese relative alle costruzioni ferroviarie. (002U0336)
---------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/08/1902
+---
+tipo: REGIO DECRETO
+numero: 336
+data: 1902-07-29
+titolo: "Col quale si autorizza prelevamento di somma dal fondo di riserva per le spese relative alle costruzioni ferroviarie. (002U0336)"
+urn: urn:nir:stato:regio.decreto:1902-07-29;336
+codice_redazionale: 002U0336
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visti gli [articoli 3 della legge 12 luglio 1894, n. 318](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-12;318~art3), e 5 della [legge 27 giugno 1897, n. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-27;228);
+Visti gli [articoli 3 della legge 12 luglio 1894, n. 318](Ripartizioni%20delle%20somme%20per%20le%20costruzioni%20ferroviarie.%20094U0318.md), e 5 della [legge 27 giugno 1897, n. 228](Riflettente%20lo%20stanziamento%20nel%20bilancio%20del%20Ministero%20dei%20Lavori%20Pubblici%20della%20spesa%20occorrente%20per%20provvedere%20a%20tutti%20gli%20impegni%20in%20corso%20nella%20categoria%20Costruzioni%20di%20strade%20ferrate.%20097U0228.md);
 
-Visto l'articolo 38 del testo unico della legge per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016);
+Visto l'articolo 38 del testo unico della legge per l'amministrazione del patrimonio e per la contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](Che%20approva%20il%20Testo%20unico%20di%20legge%20sullAmministrazione%20e%20sulla%20Contabilita%20generale%20dello%20Stato.%20084U2016.md);
 
-Ritenuto che pel fondo di riserva relativo agli aumenti di liquidazione, a transazioni di vertenze e ad interessi, nonche' ad altre maggiori spese impreviste relative alle ferrovie complementari ed ai titoli di spesa descritti nella tabella annessa alla succitata legge 12 luglio 1894, fu approvata la somma di L. 28,555,128, che, con l'aggiunta di L. 6,500,000, delle quali fu autorizzata la spesa con la successiva [legge 30 giugno 1896, n. 251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-06-30;251), fu elevata alla somma di L. 35,055,128, interamente stanziata a tutto l'esercizio finanziario 1896-97;
+Ritenuto che pel fondo di riserva relativo agli aumenti di liquidazione, a transazioni di vertenze e ad interessi, nonche' ad altre maggiori spese impreviste relative alle ferrovie complementari ed ai titoli di spesa descritti nella tabella annessa alla succitata legge 12 luglio 1894, fu approvata la somma di L. 28,555,128, che, con l'aggiunta di L. 6,500,000, delle quali fu autorizzata la spesa con la successiva [legge 30 giugno 1896, n. 251](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dei%20Lavori%20Pubblici.%20096U0251.md), fu elevata alla somma di L. 35,055,128, interamente stanziata a tutto l'esercizio finanziario 1896-97;
 
-Che per gli anzidetti titoli di spesa per le ferrovie complementari e per ogni altra spesa dipendente da contestazioni relative all'azienda ferroviaria, in aumento al succitato fondo di L. 35,055,128, negli esercizi finanziari dal 1897-98 al 1900-901 inclusivi, fu stanziata l'ulteriore somma di L. 6,064,371, in base all'autorizzazione di cui al n. 11 della tabella allegata all'anzidetta [legge 27 giugno 1897, n. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-27;228), dimodoche' il fondo di riserva in parola si elevo' a L. 41,119,499;
+Che per gli anzidetti titoli di spesa per le ferrovie complementari e per ogni altra spesa dipendente da contestazioni relative all'azienda ferroviaria, in aumento al succitato fondo di L. 35,055,128, negli esercizi finanziari dal 1897-98 al 1900-901 inclusivi, fu stanziata l'ulteriore somma di L. 6,064,371, in base all'autorizzazione di cui al n. 11 della tabella allegata all'anzidetta [legge 27 giugno 1897, n. 228](Riflettente%20lo%20stanziamento%20nel%20bilancio%20del%20Ministero%20dei%20Lavori%20Pubblici%20della%20spesa%20occorrente%20per%20provvedere%20a%20tutti%20gli%20impegni%20in%20corso%20nella%20categoria%20Costruzioni%20di%20strade%20ferrate.%20097U0228.md), dimodoche' il fondo di riserva in parola si elevo' a L. 41,119,499;
 
 Che con Nostri precedenti decreti furono autorizzati trentadue prelevamenti dall'anzidetto fondo di riserva, per l'ammontare complessivo di L. 33,512,539,66, imputabili per L. 30,789,051,60 alle L. 35,055,128, stanziate in base alla spesa autorizzata dalle leggi 12 luglio 1894 e 30 giugno 1896 sopra citate, e per L. 2,723,488,06 alle L. 6,064,371 stanziate in base all'autorizzazione della successiva legge 27 giugno 1897 dianzi citata;
 
@@ -36,28 +34,21 @@ Che il prelevamento in parola di L. 600,000 deve portarsi in aumento, in conto r
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal fondo di riserva per le spese relative alle costruzioni ferroviarie, approvato con le [leggi 12 luglio 1894, n. 318, 30 giugno 1896, n. 251, e 27 giugno 1897, n. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1897-06-27;228), e' autorizzato un trentatreesimo prelevamento di lire seicentomila (L. 600,000), da imputarsi ai residui delle L. 35,055,128 stanziate in base alle succitate [leggi 12 luglio 1894, n. 318, e 30 giugno 1896, n. 251](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-06-30;251) (Capitolo 324 bilancio Lavori Pubblici, esercizio finanziario 1902-903), e da portarsi in aumento ai residui dell'esercizio 1901-902 del capitolo 321 dei citati bilancio ed esercizio (Assegni al personale temporaneamente addetto al servizio delle costruzioni ferroviarie - Indennita' e sussidi eventuali e continuativi al personale stesso in servizio o licenziato).   
-  
-Questo decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 luglio 1902.   
-  
-VITTORIO EMANUELE.   
-  
-G. ZANARDELLI.   
-N. BALENZANO.   
-  
-Visto, Il Guardasigilli: COCCO-ORTU.   
-  
+Dal fondo di riserva per le spese relative alle costruzioni ferroviarie, approvato con le [leggi 12 luglio 1894, n. 318, 30 giugno 1896, n. 251, e 27 giugno 1897, n. 228](Riflettente%20lo%20stanziamento%20nel%20bilancio%20del%20Ministero%20dei%20Lavori%20Pubblici%20della%20spesa%20occorrente%20per%20provvedere%20a%20tutti%20gli%20impegni%20in%20corso%20nella%20categoria%20Costruzioni%20di%20strade%20ferrate.%20097U0228.md), e' autorizzato un trentatreesimo prelevamento di lire seicentomila (L. 600,000), da imputarsi ai residui delle L. 35,055,128 stanziate in base alle succitate [leggi 12 luglio 1894, n. 318, e 30 giugno 1896, n. 251](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dei%20Lavori%20Pubblici.%20096U0251.md) (Capitolo 324 bilancio Lavori Pubblici, esercizio finanziario 1902-903), e da portarsi in aumento ai residui dell'esercizio 1901-902 del capitolo 321 dei citati bilancio ed esercizio (Assegni al personale temporaneamente addetto al servizio delle costruzioni ferroviarie - Indennita' e sussidi eventuali e continuativi al personale stesso in servizio o licenziato). 
+ 
+ Questo decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 luglio 1902. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. ZANARDELLI. 
+ N. BALENZANO. 
+ 
+ Visto, Il Guardasigilli: COCCO-ORTU.

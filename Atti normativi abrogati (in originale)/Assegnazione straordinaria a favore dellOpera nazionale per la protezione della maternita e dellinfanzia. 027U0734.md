@@ -1,55 +1,45 @@
-REGIO DECRETO-LEGGE 12 maggio 1927 n. 734
-
-
-REGIO DECRETO-LEGGE 12 maggio 1927 n. 734
-=========================================
-
-Assegnazione straordinaria a favore dell'Opera nazionale per la protezione della maternita' e dell'infanzia. (027U0734)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/05/1927  
-Regio Decreto-Legge convertito dalla [L. 8 marzo 1928, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-03-08;400) (in G.U. 16/03/1928, n.64).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 734
+data: 1927-05-12
+titolo: "Assegnazione straordinaria a favore dell'Opera nazionale per la protezione della maternita' e dell'infanzia. (027U0734)"
+urn: urn:nir:stato:regio.decreto.legge:1927-05-12;734
+codice_redazionale: 027U0734
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [legge 3 giugno 1926, n. 921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-06-03;921);
+Vista la [legge 3 giugno 1926, n. 921](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellinterno%20per%20lesercizio%20finanziario%20dal%201%20luglio%201926%20al%2030%20giugno%201927.%20026U0921.md);
 
-Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100~art3-num2);
+Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Ritenuta la necessita' urgente ed assoluta di una maggiore assegnazione di fondi a favore dell'Opera nazionale per la protezione della maternita' e dell'infanzia, istituita dalla [legge 10 dicembre 1925, n. 2277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-10;2277);
+Ritenuta la necessita' urgente ed assoluta di una maggiore assegnazione di fondi a favore dell'Opera nazionale per la protezione della maternita' e dell'infanzia, istituita dalla [legge 10 dicembre 1925, n. 2277](Protezione%20e%20assistenza%20della%20maternita%20e%20dellinfanzia.%20025U2277.md);
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1926-27, e' istituito il capitolo n. 139-bis «Assegnazione straordinaria a favore dell'Opera nazionale per la protezione della maternita' e dell'infanzia, istituita dalla [legge 10 dicembre 1925, numero 2277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-10;2277)», con lo stanziamento di L. 2,000,000.   
-  
-Il presente decreto andra' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 maggio 1927 - Anno V   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Volpi.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 19 maggio 1927 - Anno V   
-  
-Atti del Governo, registro 260, foglio 126. - Ferretti.   
-  
+Nello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1926-27, e' istituito il capitolo n. 139-bis «Assegnazione straordinaria a favore dell'Opera nazionale per la protezione della maternita' e dell'infanzia, istituita dalla [legge 10 dicembre 1925, numero 2277](Protezione%20e%20assistenza%20della%20maternita%20e%20dellinfanzia.%20025U2277.md)», con lo stanziamento di L. 2,000,000. 
+ 
+ Il presente decreto andra' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 maggio 1927 - Anno V 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Volpi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 19 maggio 1927 - Anno V 
+ 
+ Atti del Governo, registro 260, foglio 126. - Ferretti.

@@ -1,68 +1,60 @@
-REGIO DECRETO 11 giugno 1925 n. 993
-
-
-REGIO DECRETO 11 giugno 1925 n. 993
-===================================
-
-Maggiori assegnazioni, per spese varie, nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1924-25. (025U0993)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/06/1925
+---
+tipo: REGIO DECRETO
+numero: 993
+data: 1925-06-11
+titolo: "Maggiori assegnazioni, per spese varie, nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1924-25. (025U0993)"
+urn: urn:nir:stato:regio.decreto:1925-06-11;993
+codice_redazionale: 025U0993
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [legge 2 aprile 1925, n. 369](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-02;369):
+Vista la [legge 2 aprile 1925, n. 369](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20finanze%20per%20lesercizio%20finanziario%20dal%201%20luglio%201924%20al%2030%20giugno%201925.%20025U0369.md):
 
-Visto l'art. 41. [primo comma, del R. decreto 18 novembre 1923, n. 2440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440~com1);
+Visto l'art. 41. [primo comma, del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_com1);
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
+Gli stanziamenti dei sottonotati capitoli dello stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1924-25 sono aumentati della somma per ciascuno di essi indicata: 
+ 
 
-  
-  
-Gli stanziamenti dei sottonotati capitoli dello stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1924-25 sono aumentati della somma per ciascuno di essi indicata:   
-  
-  
-  
-Cap. n. 28 - Pensioni ordinarie, ecc. . . . . . . . . L. 1,800,000   
-Cap. n. 29 - Pensioni ordinarie al personale  
-del cessato regime . . . . . . . . . . . . . . . . . . » 2,500,000   
-Cap. n. 34 Pensioni e indennita' agli operai, ecc. . » 2,000,000   
-Cap. n. 132 - Personale tecnico, d' ordine, ecc. . . . » 500,000   
-Cap. n. 154 - Restituzione e rimborsi, ecc. . . . . . .» 2,000,000   
-Cap. n. 220 - Stipendi, paghe, indennita', ecc. . . . .» 950,000   
-Cap. n. 239 - Personale di ruolo dei laboratori  
-chimici, ecc. . . . . . . . . . . . . . . . . . . . .» 35,000   
-Cap. n. 249 - Restituzione di imposte di  
-fabbricazione, ecc. . . . . . . . . . . . . . . . . . .» 1,000,000   
-Cap. n. 256 - Personale di ruolo delle dogane, ecc. . .» 520,000  
------------- Totale . . . L. 11,305,000  
-------------   
-  
-Questo decreto andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 giugno 1925.   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - De' Stefani.   
-  
-il Guardasigilli: Rocco.   
-  
-Registrato alla corte dei conti, addi' 24 giugno 1925.   
-  
-Atti del Governo, registro 237, foglio 189, - Granata.   
+
+Cap. n. 28 - Pensioni ordinarie, ecc. . . . . . . . . L. 1,800,000 
+Cap. n. 29 - Pensioni ordinarie al personale
+del cessato regime . . . . . . . . . . . . . . . . . . » 2,500,000 
+Cap. n. 34 Pensioni e indennita' agli operai, ecc. . » 2,000,000 
+Cap. n. 132 - Personale tecnico, d' ordine, ecc. . . . » 500,000 
+Cap. n. 154 - Restituzione e rimborsi, ecc. . . . . . .» 2,000,000 
+Cap. n. 220 - Stipendi, paghe, indennita', ecc. . . . .» 950,000 
+Cap. n. 239 - Personale di ruolo dei laboratori
+chimici, ecc. . . . . . . . . . . . . . . . . . . . .» 35,000 
+Cap. n. 249 - Restituzione di imposte di
+fabbricazione, ecc. . . . . . . . . . . . . . . . . . .» 1,000,000 
+Cap. n. 256 - Personale di ruolo delle dogane, ecc. . .» 520,000
+ ------------ Totale . . . L. 11,305,000
+ ------------ 
+ 
+ Questo decreto andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 giugno 1925. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - De' Stefani. 
+ 
+ il Guardasigilli: Rocco. 
+ 
+ Registrato alla corte dei conti, addi' 24 giugno 1925. 
+ 
+ Atti del Governo, registro 237, foglio 189, - Granata.

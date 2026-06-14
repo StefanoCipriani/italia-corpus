@@ -1,16 +1,14 @@
-REGIO DECRETO 19 gennaio 1865 n. 2191
-
-
-REGIO DECRETO 19 gennaio 1865 n. 2191
-=====================================
-
-Che autorizza l'iscrizione sul Gran Libro del Debito pubblico di una rendita di lire 715,000 con decorrenza dal 1.° di gennaio 1865. (065U2191)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/04/1865
+---
+tipo: REGIO DECRETO
+numero: 2191
+data: 1865-01-19
+titolo: "Che autorizza l'iscrizione sul Gran Libro del Debito pubblico di una rendita di lire 715,000 con decorrenza dal 1.° di gennaio 1865. (065U2191)"
+urn: urn:nir:stato:regio.decreto:1865-01-19;2191
+codice_redazionale: 065U2191
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,37 +20,26 @@ Veduti i Decreti Reali in data 17 marzo e 13 dicembre 1863, n.i 1207 e 1613, in 
 
 Ritenuto che a raggiungere l'introito di settecento milioni effettivi occorre l'alienazione di altra rendita di lire settecento quindici mila oltre quella di lire cinquanta milioni settecento sedici mila sovraindicata;
 
-Sulla
------
+Sulla proposta del Ministro delle finanze; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Ministro delle finanze; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+E' autorizzata l'iscrizione sul Gran Libro del Debito pubblico al consolidato 5 p. % di una rendita di lire settecento quindici mila con decorrenza dal 1.° di gennaio 1865.
 
-  
-  
-E' autorizzata l'iscrizione sul Gran Libro del Debito pubblico al consolidato 5 p. % di una rendita di lire settecento quindici mila con decorrenza dal 1.° di gennaio 1865.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Pel servizio della rendita di cui all'articolo precedente e' fatta sulla Tesoreria centrale del Regno, cominciando dal 1.° di gennaio 1865, l'annua assegnazione di lire settecento quindici mila.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 19 gennaio 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 26 gennaio 1865   
-  
-Reg.° 32 Atti del Governo a c. 62. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-Quintino Sella.   
-  
+Pel servizio della rendita di cui all'articolo precedente e' fatta sulla Tesoreria centrale del Regno, cominciando dal 1.° di gennaio 1865, l'annua assegnazione di lire settecento quindici mila. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 19 gennaio 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 26 gennaio 1865 
+ 
+ Reg.° 32 Atti del Governo a c. 62. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ Quintino Sella.

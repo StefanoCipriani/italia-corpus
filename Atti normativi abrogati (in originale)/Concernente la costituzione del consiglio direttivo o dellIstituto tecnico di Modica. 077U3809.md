@@ -1,16 +1,14 @@
-REGIO DECRETO 21 aprile 1877 n. 3809
-
-
-REGIO DECRETO 21 aprile 1877 n. 3809
-====================================
-
-Concernente la costituzione del consiglio direttivo o dell'Istituto tecnico di Modica. (077U3809)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/06/1877
+---
+tipo: REGIO DECRETO
+numero: 3809
+data: 1877-04-21
+titolo: "Concernente la costituzione del consiglio direttivo o dell'Istituto tecnico di Modica. (077U3809)"
+urn: urn:nir:stato:regio.decreto:1877-04-21;3809
+codice_redazionale: 077U3809
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,36 +20,24 @@ Veduta la deliberazione del Consiglio provinciale di Siracusa, colla quale viene
 
 Considerando che la provincia di Siracusa con la concessione del sussidio anzidetto ha acquistato il diritto di essere rappresentata nel Consiglio direttivo dell'Istituto da essa sussidiato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Di un rappresentante del Governo, nominato dal prefetto di Siracusa; 
+ 
+ Del sindaco di Modica; 
+ 
+ Di un rappresentante del Consiglio comunale di Siracusa, scelto nel seno del Consiglio medesimo; 
+ 
+ Di un rappresentante del Consiglio comunale di Modica, parimenti scelto fra i suoi componenti dal preside dell'Istituto tecnico di Modica.
 
-  
-  
-Di un rappresentante del Governo, nominato dal prefetto di Siracusa;   
-  
-Del sindaco di Modica;   
-  
-Di un rappresentante del Consiglio comunale di Siracusa, scelto nel seno del Consiglio medesimo;   
-  
-Di un rappresentante del Consiglio comunale di Modica, parimenti scelto fra i suoi componenti dal preside dell'Istituto tecnico di Modica.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Rossore, addi' 21 aprile 1877.   
-  
-VITTORIO EMANUELE.   
-  
-MAIORANA-CALATABIANO.   
-  
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Rossore, addi' 21 aprile 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ MAIORANA-CALATABIANO.

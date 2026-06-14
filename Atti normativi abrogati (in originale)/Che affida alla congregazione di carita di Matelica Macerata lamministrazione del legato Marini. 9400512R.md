@@ -1,48 +1,35 @@
-REGIO DECRETO 19 novembre 1894 n. DXII
+---
+tipo: REGIO DECRETO
+numero: DXII
+data: 1894-11-19
+titolo: "Che affida alla congregazione di carita' di Matelica (Macerata) l'amministrazione del legato Marini. (9400512R)"
+urn: urn:nir:stato:regio.decreto:1894-11-19;512
+codice_redazionale: 9400512R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 novembre 1894 n. DXII
-======================================
+Il legato Marini in Matelica e' eretta in ente morale, ed e' autorizzato ad accettare i beni lasciatigli dal fondatore.
 
-Che affida alla congregazione di carita' di Matelica (Macerata) l'amministrazione del legato Marini. (9400512R)
----------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 04/01/1895
+L'amministrazione del legato stesso e' affidata alla congregazione di carita' di Matelica.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Il legato Marini in Matelica e' eretta in ente morale, ed e' autorizzato ad accettare i beni lasciatigli dal fondatore.   
-  
-
-Art. 2
-------
-
-  
-  
-L'amministrazione del legato stesso e' affidata alla congregazione di carita' di Matelica.   
-  
-
-Art. 3
-------
-
-  
-  
-Gli oneri di culto, che gravano il legato Marini sono' trasformati, e le rendite corrispondenti si erogheranno a benefizio della istruzione che costituisce lo scopo principale del legato stesso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 19 novembre 1894.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 10 dicembre 1894.   
-  
-Reg. 196. Atti del Governo a f. 285. G. Cappiello.   
-  
-Luogo del Sigillo. V. Il Guardasigilli V. CALENDA.   
-  
-F. Crispi.   
-  
+Gli oneri di culto, che gravano il legato Marini sono' trasformati, e le rendite corrispondenti si erogheranno a benefizio della istruzione che costituisce lo scopo principale del legato stesso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 19 novembre 1894. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 10 dicembre 1894. 
+ 
+ Reg. 196. Atti del Governo a f. 285. G. Cappiello. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli V. CALENDA. 
+ 
+ F. Crispi.

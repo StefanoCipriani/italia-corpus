@@ -1,16 +1,14 @@
-REGIO DECRETO 14 novembre 1875 n. 2789
-
-
-REGIO DECRETO 14 novembre 1875 n. 2789
-======================================
-
-Col quale viene sciolta la commissione per la conservazione dei lavori pregevoli di belle arti nell'Emilia. (075U2789)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/12/1875
+---
+tipo: REGIO DECRETO
+numero: 2789
+data: 1875-11-14
+titolo: "Col quale viene sciolta la commissione per la conservazione dei lavori pregevoli di belle arti nell'Emilia. (075U2789)"
+urn: urn:nir:stato:regio.decreto:1875-11-14;2789
+codice_redazionale: 075U2789
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,39 +22,24 @@ Considerando che per la piu' sollecita spedizione degli affari e per la piu' dir
 
 Visto il parere emesso dalla Giunta superiore di belle arti presso il Consiglio superiore di Pubblica Istruzione nella sua adunanza del 15 ottobre 1875;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La Commissione per la conservazione dei lavori pregevoli di belle arti istituita col decreto 11 gennaio 1860 del governatore delle provincie dell'Emilia, e' sciolta.
 
-  
-  
-La Commissione per la conservazione dei lavori pregevoli di belle arti istituita col decreto 11 gennaio 1860 del governatore delle provincie dell'Emilia, e' sciolta.   
-  
+## Art. 2.
 
-Art. 2
-------
+In ciascuna delle provincie finora sottoposte alla giurisdizione di detta Commissione sara' istituita una Commissione conservatrice dei monumenti e delle opere d'arte nei modi e colle facolta' ed incumbenze stabilite dal decreto 7 agosto 1874.
 
-  
-  
-In ciascuna delle provincie finora sottoposte alla giurisdizione di detta Commissione sara' istituita una Commissione conservatrice dei monumenti e delle opere d'arte nei modi e colle facolta' ed incumbenze stabilite dal decreto 7 agosto 1874.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Sono abrogate tutte le disposizioni contrarie al presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 14 novembre 1875.   
-  
-VITTORIO EMANUELE.   
-  
-R. Bonghi.   
-  
+Sono abrogate tutte le disposizioni contrarie al presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 14 novembre 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ R. Bonghi.

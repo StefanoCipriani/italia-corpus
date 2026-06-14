@@ -1,16 +1,14 @@
-REGIO DECRETO 03 ottobre 1876 n. 3368
-
-
-REGIO DECRETO 03 ottobre 1876 n. 3368
-=====================================
-
-Col quale i comuni di Ronca' e Montecchio sono separati dalla sezione elettorale di S. Bonifacio, e quello di Monteforte e' separato dalla sezione elettorale di Soave e formeranno una sezione distinta del collegio elettorale di Tregnago colla sede a Monteforte. (076U3368)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/10/1876
+---
+tipo: REGIO DECRETO
+numero: 3368
+data: 1876-10-03
+titolo: "Col quale i comuni di Ronca' e Montecchio sono separati dalla sezione elettorale di S. Bonifacio, e quello di Monteforte e' separato dalla sezione elettorale di Soave e formeranno una sezione distinta del collegio elettorale di Tregnago colla sede a Monteforte. (076U3368)"
+urn: urn:nir:stato:regio.decreto:1876-10-03;3368
+codice_redazionale: 076U3368
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,24 +24,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Ronca', e Montecchio sono separati dalla sezione elettorale di S. Bonifacio, e quello di Monteforte e' separato dalla sezione elettorale di Soave e formeranno una sezione distinta del Collegio elettorale di Tregnago n 486, colla sede a Monteforte.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 3 ottobre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
-  
+I comuni di Ronca', e Montecchio sono separati dalla sezione elettorale di S. Bonifacio, e quello di Monteforte e' separato dalla sezione elettorale di Soave e formeranno una sezione distinta del Collegio elettorale di Tregnago n 486, colla sede a Monteforte. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 3 ottobre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

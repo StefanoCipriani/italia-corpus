@@ -1,21 +1,17 @@
-REGIO DECRETO 22 ottobre 1903 n. CCCCXLII
+---
+tipo: REGIO DECRETO
+numero: CCCCXLII
+data: 1903-10-22
+titolo: "Che trasforma lo scopo della pia causa dei catecumeni in Milano. (0300442R)"
+urn: urn:nir:stato:regio.decreto:1903-10-22;442
+codice_redazionale: 0300442R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 ottobre 1903 n. CCCCXLII
-=========================================
-
-Che trasforma lo scopo della pia causa dei catecumeni in Milano. (0300442R)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/12/1903
-
-Art. 1
-------
-
-  
-Col quale si trasforma lo scopo della pia causa dei catecumeni in Milano per gli scopi dell'[art. 55 lettera b della legge 17 luglio 1890, n. 6972](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972~art55-letb), a beneficio dell'opera pia Trolliet e lo si concentra nella locale congregazione di carita'. - Firmato VITTORIO EMANUELE - Controfirmato G. Zanardelli. - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 18 novembre 1903.   
-  
-Reg. 13. Atti del Governo a f. 118.   
-  
+Col quale si trasforma lo scopo della pia causa dei catecumeni in Milano per gli scopi dell'[art. 55 lettera b della legge 17 luglio 1890, n. 6972](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972#art_55-letb), a beneficio dell'opera pia Trolliet e lo si concentra nella locale congregazione di carita'. - Firmato VITTORIO EMANUELE - Controfirmato G. Zanardelli. - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 18 novembre 1903. 
+ 
+ Reg. 13. Atti del Governo a f. 118.

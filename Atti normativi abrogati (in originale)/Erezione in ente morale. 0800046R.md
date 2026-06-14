@@ -1,19 +1,15 @@
-REGIO DECRETO 30 gennaio 1908 n. XLVI
+---
+tipo: REGIO DECRETO
+numero: XLVI
+data: 1908-01-30
+titolo: "Erezione in ente morale. (0800046R)"
+urn: urn:nir:stato:regio.decreto:1908-01-30;46
+codice_redazionale: 0800046R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 gennaio 1908 n. XLVI
-=====================================
-
-Erezione in ente morale. (0800046R)
------------------------------------
-
-Entrata in vigore del provvedimento: 19/03/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. XLVI (Dato a Roma, il 30 gennaio 1908), col quale la casa di ricovero «Maria della Fontana», in Francavilla Fontana, e' eretta in ente morale e ne e' approvato lo statuto organico.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. XLVI (Dato a Roma, il 30 gennaio 1908), col quale la casa di ricovero «Maria della Fontana», in Francavilla Fontana, e' eretta in ente morale e ne e' approvato lo statuto organico.

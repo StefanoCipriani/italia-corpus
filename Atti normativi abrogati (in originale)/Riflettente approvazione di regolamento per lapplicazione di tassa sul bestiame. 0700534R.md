@@ -1,19 +1,15 @@
-REGIO DECRETO 15 dicembre 1907 n. DXXXIV
+---
+tipo: REGIO DECRETO
+numero: DXXXIV
+data: 1907-12-15
+titolo: "Riflettente approvazione di regolamento per l'applicazione di tassa sul bestiame. (0700534R)"
+urn: urn:nir:stato:regio.decreto:1907-12-15;534
+codice_redazionale: 0700534R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 dicembre 1907 n. DXXXIV
-========================================
-
-Riflettente approvazione di regolamento per l'applicazione di tassa sul bestiame. (0700534R)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/01/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. DXXXIV (Dato a Roma, il 15 dicembre 1907), col quale si approva il regolamento per l'applicazione della tassa sul bestiame deliberato dalla Giunta provinciale amministrativa di Forli', nelle adunanze del 23 agosto e del 25 ottobre 1907, in sostituzione del regolamento approvato con R. decreto 6 settembre 1902, n. CCCXXX.   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. DXXXIV (Dato a Roma, il 15 dicembre 1907), col quale si approva il regolamento per l'applicazione della tassa sul bestiame deliberato dalla Giunta provinciale amministrativa di Forli', nelle adunanze del 23 agosto e del 25 ottobre 1907, in sostituzione del regolamento approvato con R. decreto 6 settembre 1902, n. CCCXXX.

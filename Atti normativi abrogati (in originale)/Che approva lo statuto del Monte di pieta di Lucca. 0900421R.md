@@ -1,19 +1,15 @@
-REGIO DECRETO 28 ottobre 1909 n. CCCCXXI
+---
+tipo: REGIO DECRETO
+numero: CCCCXXI
+data: 1909-10-28
+titolo: "Che approva lo statuto del Monte di pieta' di Lucca. (0900421R)"
+urn: urn:nir:stato:regio.decreto:1909-10-28;421
+codice_redazionale: 0900421R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 ottobre 1909 n. CCCCXXI
-========================================
-
-Che approva lo statuto del Monte di pieta' di Lucca. (0900421R)
----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/12/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CCCCXXI (Dato a Racconigi, il 28 ottobre 1909), col quale si approva lo statuto organico del Monte di pieta' di Lucca.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CCCCXXI (Dato a Racconigi, il 28 ottobre 1909), col quale si approva lo statuto organico del Monte di pieta' di Lucca.

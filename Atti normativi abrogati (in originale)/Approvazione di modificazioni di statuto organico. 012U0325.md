@@ -1,19 +1,15 @@
-REGIO DECRETO 25 gennaio 1912 n. 325
+---
+tipo: REGIO DECRETO
+numero: 325
+data: 1912-01-25
+titolo: "Approvazione di modificazioni di statuto organico. (012U0325)"
+urn: urn:nir:stato:regio.decreto:1912-01-25;325
+codice_redazionale: 012U0325
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 gennaio 1912 n. 325
-====================================
-
-Approvazione di modificazioni di statuto organico. (012U0325)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/05/1912
-
-Art. 1
-------
-
-  
-N. 325   
-  
-Regio Decreto 25 gennaio 1912, col quale, sulla proposta del ministro della istruzione pubblica, sono approvate alcune modificazioni allo statuto organico della biblioteca Fardelliana di Trapani.   
-  
+N. 325 
+ 
+ Regio Decreto 25 gennaio 1912, col quale, sulla proposta del ministro della istruzione pubblica, sono approvate alcune modificazioni allo statuto organico della biblioteca Fardelliana di Trapani.

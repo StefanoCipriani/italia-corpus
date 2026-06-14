@@ -1,16 +1,14 @@
-REGIO DECRETO 04 gennaio 1891 n. 5
-
-
-REGIO DECRETO 04 gennaio 1891 n. 5
-==================================
-
-Che istituisce un secondo posto di notaro nel comune di S. Vito (Cagliari). (091U0005)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/02/1891
+---
+tipo: REGIO DECRETO
+numero: 5
+data: 1891-01-04
+titolo: "Che istituisce un secondo posto di notaro nel comune di S. Vito (Cagliari). (091U0005)"
+urn: urn:nir:stato:regio.decreto:1891-01-04;5
+codice_redazionale: 091U0005
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Visto l'art. 4 della legge sul notariato, approvato con Nostro decreto 25 maggio
 
 Ritenuto esser dimostrata la necessita' della istituzione del posto anzidetto;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un secondo posto di notaro nel comune di San Vito, distretto notarile di Cagliari.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 gennaio 1891.   
-  
-UMBERTO.   
-  
-G. Zanardelli.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+E' istituito un secondo posto di notaro nel comune di San Vito, distretto notarile di Cagliari. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 gennaio 1891. 
+ 
+ UMBERTO. 
+ 
+ G. Zanardelli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

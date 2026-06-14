@@ -1,16 +1,14 @@
-REGIO DECRETO 26 gennaio 1876 n. 2954
-
-
-REGIO DECRETO 26 gennaio 1876 n. 2954
-=====================================
-
-Che istituisce due premi da conferirsi agli autori delle due migliori memorie originali, l'una di scienze matematiche, fisiche o naturali, l'altra di scienze morali, politiche o sociali. (076U2954)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/03/1876
+---
+tipo: REGIO DECRETO
+numero: 2954
+data: 1876-01-26
+titolo: "Che istituisce due premi da conferirsi agli autori delle due migliori memorie originali, l'una di scienze matematiche, fisiche o naturali, l'altra di scienze morali, politiche o sociali. (076U2954)"
+urn: urn:nir:stato:regio.decreto:1876-01-26;2954
+codice_redazionale: 076U2954
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Vista la relativa deliberazione della Deputazione provinciale di Grosseto del 9 
 
 Veduto il parere del Consiglio di Stato emesso in adunanza del 7 gennaio 1876;
 
-Vista
------
+Vista la legge 3 agosto 1862 sulle Opere pie; Abbiamo decretato e decretiamo:
 
-la legge 3 agosto 1862 sulle Opere pie; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' autorizzata a favore dell'Ospedale civile di Castel del Piano (Grosseto) la inversione dell'annualita' come sopra dovuta al comune dall'Ospedale di S. M. della Scala di Siena, e che veniva erogata prima per distribuzione di pane ai poveri.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Rossore, addi' 26 gennaio 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
+E' autorizzata a favore dell'Ospedale civile di Castel del Piano (Grosseto) la inversione dell'annualita' come sopra dovuta al comune dall'Ospedale di S. M. della Scala di Siena, e che veniva erogata prima per distribuzione di pane ai poveri. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Rossore, addi' 26 gennaio 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

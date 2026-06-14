@@ -1,16 +1,14 @@
-REGIO DECRETO 16 dicembre 1941 n. 1535
-
-
-REGIO DECRETO 16 dicembre 1941 n. 1535
-======================================
-
-Assunzione di personale d'ordine per la revisione generale degli estimi dei terreni. (041U1535)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/02/1942
+---
+tipo: REGIO DECRETO
+numero: 1535
+data: 1941-12-16
+titolo: "Assunzione di personale d'ordine per la revisione generale degli estimi dei terreni. (041U1535)"
+urn: urn:nir:stato:regio.decreto:1941-12-16;1535
+codice_redazionale: 041U1535
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,30 +26,24 @@ Sentito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'Amministeazione del catasto e dei servizi tecnici erariali ha facolta' di provvedere, nei limiti dei fondi stanziati in bilancio, alla esecuzione dei lavori d'ordine inerenti alla revisione generale degli estimi dei terreni di cui al R. decreto-legge 4 aprile 1939-XVII, n. 589, convertito con modificazioni, nella legge 29 giugno 1939-XVII, n. 976, avvalendosi dell'opera di estranei all'Amministrazione, da compensare mediante parcella in base al quantitativo di lavoro fornito.   
-  
-Il compenso dovuto al personale cui tali lavori verranno affidati non potra', in ogni caso, superare quello stabilito per il personale di 3ª categoria dal R. decreto-legge 4 febbraio 1937-XV, n. 100, e successive variazioni.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 dicembre 1941-XX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 23 gennaio 1942-XX   
-  
-Atti del Governo, registro 441, foglio 68. - MANCINI   
+L'Amministeazione del catasto e dei servizi tecnici erariali ha facolta' di provvedere, nei limiti dei fondi stanziati in bilancio, alla esecuzione dei lavori d'ordine inerenti alla revisione generale degli estimi dei terreni di cui al R. decreto-legge 4 aprile 1939-XVII, n. 589, convertito con modificazioni, nella legge 29 giugno 1939-XVII, n. 976, avvalendosi dell'opera di estranei all'Amministrazione, da compensare mediante parcella in base al quantitativo di lavoro fornito. 
+ 
+ Il compenso dovuto al personale cui tali lavori verranno affidati non potra', in ogni caso, superare quello stabilito per il personale di 3ª categoria dal R. decreto-legge 4 febbraio 1937-XV, n. 100, e successive variazioni. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 dicembre 1941-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 23 gennaio 1942-XX 
+ 
+ Atti del Governo, registro 441, foglio 68. - MANCINI

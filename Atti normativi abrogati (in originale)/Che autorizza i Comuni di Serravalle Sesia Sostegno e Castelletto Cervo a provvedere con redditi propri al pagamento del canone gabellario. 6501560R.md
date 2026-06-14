@@ -1,19 +1,15 @@
-REGIO DECRETO 12 febbraio 1865 n. MDLX
+---
+tipo: REGIO DECRETO
+numero: MDLX
+data: 1865-02-12
+titolo: "Che autorizza i Comuni di Serravalle Sesia, Sostegno e Castelletto Cervo a provvedere con redditi propri al pagamento del canone gabellario. (6501560R)"
+urn: urn:nir:stato:regio.decreto:1865-02-12;1560
+codice_redazionale: 6501560R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 febbraio 1865 n. MDLX
-======================================
-
-Che autorizza i Comuni di Serravalle Sesia, Sostegno e Castelletto Cervo a provvedere con redditi propri al pagamento del canone gabellario. (6501560R)
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/02/1865
-
-Art. 1
-------
-
-  
-Che autorizza i Comuni di Serravalle Sesia, Sostegno e Castelletto Cervo a provvedere con redditi propri al pagamento del canone gabellario.   
-  
-Torino 12 febbraio 1865   
-  
+Che autorizza i Comuni di Serravalle Sesia, Sostegno e Castelletto Cervo a provvedere con redditi propri al pagamento del canone gabellario. 
+ 
+ Torino 12 febbraio 1865

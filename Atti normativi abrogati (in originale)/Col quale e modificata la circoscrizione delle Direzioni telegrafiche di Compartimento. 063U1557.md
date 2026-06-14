@@ -1,16 +1,14 @@
-REGIO DECRETO 22 novembre 1863 n. 1557
-
-
-REGIO DECRETO 22 novembre 1863 n. 1557
-======================================
-
-Col quale e' modificata la circoscrizione delle Direzioni telegrafiche di Compartimento. (063U1557)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/01/1864
+---
+tipo: REGIO DECRETO
+numero: 1557
+data: 1863-11-22
+titolo: "Col quale e' modificata la circoscrizione delle Direzioni telegrafiche di Compartimento. (063U1557)"
+urn: urn:nir:stato:regio.decreto:1863-11-22;1557
+codice_redazionale: 063U1557
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,53 +24,32 @@ Volendo fare qualche utile cambiamento nella giurisdizione territoriale di alcun
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori pubblici; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori pubblici; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+La sede della Direzione telegrafica del Compartimento di Foggia e' trasportata nella citta' di Bari, e quella della Direzione telegrafica del Compartimento di Cosenza, nella citta' di Reggio (Calabria).
 
-  
-  
-La sede della Direzione telegrafica del Compartimento di Foggia e' trasportata nella citta' di Bari, e quella della Direzione telegrafica del Compartimento di Cosenza, nella citta' di Reggio (Calabria).   
-  
+## Art. 2.
 
-Art. 2
-------
+La determinazione dei confini dei varii Compartimenti e' stabilita nel modo indicato dall'unita tabella, firmata d'ordine Nostro dal Ministro Segretario di Stato pei Lavori pubblici.
 
-  
-  
-La determinazione dei confini dei varii Compartimenti e' stabilita nel modo indicato dall'unita tabella, firmata d'ordine Nostro dal Ministro Segretario di Stato pei Lavori pubblici.   
-  
-
-Art. 3
-------
+## Art. 3.
 
 Il presente Decreto andra' in vigore il giorno 1.° del mese di gennaio
 
-1864. 
-  
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 22 novembre 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 3 dicembre 1863   
-  
-Reg.° 27 Atti del Governo a c. 25. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-L. F. Menabrea.
+1864.
 
-Tabella
-
-  
-TABELLA dei confini delle varie Direzioni Telegrafiche di Compartimento annessa al Reale Decreto in data 22 novembre 1863.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=063U155700100010110001&dgu=1863-12-12&art.dataPubblicazioneGazzetta=1863-12-12&art.codiceRedazionale=063U1557)
-  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 22 novembre 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 3 dicembre 1863 
+ 
+ Reg.° 27 Atti del Governo a c. 25. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ L. F. Menabrea.

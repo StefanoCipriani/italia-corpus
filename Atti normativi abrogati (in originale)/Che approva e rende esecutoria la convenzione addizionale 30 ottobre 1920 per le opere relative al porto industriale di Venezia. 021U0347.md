@@ -1,22 +1,20 @@
-REGIO DECRETO-LEGGE 03 aprile 1921 n. 347
-
-
-REGIO DECRETO-LEGGE 03 aprile 1921 n. 347
-=========================================
-
-Che approva e rende esecutoria la convenzione addizionale 30 ottobre 1920, per le opere relative al porto industriale di Venezia. (021U0347)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/04/1921 Regio Decreto-Legge convertito dalla [L. 17 aprile 1925, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473) (in G.U. 05/05/1925, n. 104).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 347
+data: 1921-04-03
+titolo: "Che approva e rende esecutoria la convenzione addizionale 30 ottobre 1920, per le opere relative al porto industriale di Venezia. (021U0347)"
+urn: urn:nir:stato:regio.decreto.legge:1921-04-03;347
+codice_redazionale: 021U0347
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D' ITALIA
 
-Visto il [decreto Luogotenenziale 26 luglio 1917, numero 1191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-07-26;1191), col quale fu approvata la convenzione 23 luglio 1917, relativa alla concessione della costruzione del nuovo porto di Venezia, in regione Marghera, e ai provvedimenti per la zona industriale e il quartiere urbano;
+Visto il [decreto Luogotenenziale 26 luglio 1917, numero 1191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-07-26;1191), col quale fu approvata la convenzione 23 luglio 1917, relativa alla concessione della costruzione del nuovo porto di Venezia, in regione Marghera, e ai provvedimenti per la zona industriale e il quartiere urbano;
 
 Visto l'altro decreto Luogotenenziale 15 maggio 1919, con il quale fu approvata la convenzione suppletiva 23 aprile 1919, per la concessione di ulteriori opere interessanti il nuovo porto suddetto e per alcune modifiche alle pattuizioni contenute nella convenzione principale;
 
@@ -32,54 +30,32 @@ Ritenuto infine che attesa l'accresciuta entita' delle opere il cui importo si e
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato pei lavori pubblici, di concerto con quello del tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato pei lavori pubblici, di concerto con quello del tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvata e resa esecutoria la convenzione addizionale stipulata addi' 30 ottobre 1920 tra i delegati dei Ministeri dei lavori pubblici e del tesoro in rappresentanza dello Stato, il delegato del comune di Venezia ed il rappresentante della Societa' anonima «Porto industriale di Venezia».
 
-  
-  
-  
-E' approvata e resa esecutoria la convenzione addizionale stipulata addi' 30 ottobre 1920 tra i delegati dei Ministeri dei lavori pubblici e del tesoro in rappresentanza dello Stato, il delegato del comune di Venezia ed il rappresentante della Societa' anonima «Porto industriale di Venezia».   
-  
+## Art. 2.
 
-Art. 2
-------
+In aggiunta alle somme precedentemente autorizzate per le opere del nuovo porto di Venezia in regione Marghera e' assegnata la ulteriore spesa di L. 25 milioni. 
+ 
+ Negli stati di previsione della spesa del Ministero dei lavori pubblici saranno stanziate le somme necessarie per il pagamento delle annualita' dovute al concessionario ai termini del presente decreto.
 
-  
-  
-  
-In aggiunta alle somme precedentemente autorizzate per le opere del nuovo porto di Venezia in regione Marghera e' assegnata la ulteriore spesa di L. 25 milioni.   
-  
-Negli stati di previsione della spesa del Ministero dei lavori pubblici saranno stanziate le somme necessarie per il pagamento delle annualita' dovute al concessionario ai termini del presente decreto.   
+## Art. 3.
 
-Art. 3
-------
+La liquidazione delle annualita' dovute al concessionario in base all'art. 3 della Convenzione 30 ottobre 1920 sara' effettuata, a partire dal 31 dicembre 1920 e successivamente di' semestre in semestre, in corrispondenza dell'avanzamento dei lavori, da accertarsi mediante visite di ricognizione valutando il saggio di interesse all'atto di ogni visita di ricognizione secondo i criteri stabiliti dall'art. 1 della predetta convenzione.
 
-  
-  
-  
-La liquidazione delle annualita' dovute al concessionario in base all'art. 3 della Convenzione 30 ottobre 1920 sara' effettuata, a partire dal 31 dicembre 1920 e successivamente di' semestre in semestre, in corrispondenza dell'avanzamento dei lavori, da accertarsi mediante visite di ricognizione valutando il saggio di interesse all'atto di ogni visita di ricognizione secondo i criteri stabiliti dall'art. 1 della predetta convenzione.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-  
-Le disposizioni del decreto Reale 30 gennaio 1921, riguardante il finanziamento delle opere portuali concesse ad Enti o Provincie o Comuni, sono estese anche alla Societa' costituita per la esecuzione del nuovo porto di Venezia a Marghera, ove essa ne faccia richiesta con rinunzia alla differenza tra il saggio normale dei mutui della Cassa depositi e prestiti e quelli previsti nella convenzione 30 ottobre 1920. E pertanto la Cassa depositi e prestiti e' autorizzata a concedere direttamente mutui alla detta Societa', alle condizioni normali, previa cessione delle annualita' dovute dallo Stato, sulla base di corrispondenti decreti del Ministero dei lavori pubblici e stati di avanzamento dei lavori.   
-  
-Il presente decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Roma, addi' 3 aprile 1921.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti - Peano - Bonomi.   
-  
-Visto, Il guardasigilli: Fera.   
-  
+Le disposizioni del decreto Reale 30 gennaio 1921, riguardante il finanziamento delle opere portuali concesse ad Enti o Provincie o Comuni, sono estese anche alla Societa' costituita per la esecuzione del nuovo porto di Venezia a Marghera, ove essa ne faccia richiesta con rinunzia alla differenza tra il saggio normale dei mutui della Cassa depositi e prestiti e quelli previsti nella convenzione 30 ottobre 1920. E pertanto la Cassa depositi e prestiti e' autorizzata a concedere direttamente mutui alla detta Societa', alle condizioni normali, previa cessione delle annualita' dovute dallo Stato, sulla base di corrispondenti decreti del Ministero dei lavori pubblici e stati di avanzamento dei lavori. 
+ 
+ Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Roma, addi' 3 aprile 1921. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti - Peano - Bonomi. 
+ 
+ Visto, Il guardasigilli: Fera.

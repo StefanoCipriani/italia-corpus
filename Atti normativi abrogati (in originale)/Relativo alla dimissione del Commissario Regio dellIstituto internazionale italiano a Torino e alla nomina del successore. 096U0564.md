@@ -1,16 +1,14 @@
-REGIO DECRETO 22 novembre 1896 n. 564
-
-
-REGIO DECRETO 22 novembre 1896 n. 564
-=====================================
-
-Relativo alla dimissione del Commissario Regio dell'Istituto internazionale italiano a Torino e alla nomina del successore. (096U0564)
---------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/01/1897
+---
+tipo: REGIO DECRETO
+numero: 564
+data: 1896-11-22
+titolo: "Relativo alla dimissione del Commissario Regio dell'Istituto internazionale italiano a Torino e alla nomina del successore. (096U0564)"
+urn: urn:nir:stato:regio.decreto:1896-11-22;564
+codice_redazionale: 096U0564
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,25 +18,18 @@ Visto il Nostro decreto in data 15 dicembre 1895 n. 729, col quale fu sciolto il
 
 Visto il Nostro decreto in data odierna, col quale sono accettate le volontarie dimissioni del predetto Regio Commissario;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'avv. Giacinto Cibrario, Deputato al Parlamento Nazionale, e' nominato Commissario Regio presso il R. Istituto internazionale italiano in Torino colle attribuzioni e facolta' gia' spettanti al disciolto Consiglio di tutela e di vigilanza dell'Istituto stesso ai termini dello Statuto dell'ente, insino alla ricostituzione del Consiglio predetto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 novembre 1896.   
-  
-UMBERTO.   
-  
-Visconti Venosta.   
-  
-Visto, Il Guardasigilli: G. Costa.   
-  
+L'avv. Giacinto Cibrario, Deputato al Parlamento Nazionale, e' nominato Commissario Regio presso il R. Istituto internazionale italiano in Torino colle attribuzioni e facolta' gia' spettanti al disciolto Consiglio di tutela e di vigilanza dell'Istituto stesso ai termini dello Statuto dell'ente, insino alla ricostituzione del Consiglio predetto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 novembre 1896. 
+ 
+ UMBERTO. 
+ 
+ Visconti Venosta. 
+ 
+ Visto, Il Guardasigilli: G. Costa.

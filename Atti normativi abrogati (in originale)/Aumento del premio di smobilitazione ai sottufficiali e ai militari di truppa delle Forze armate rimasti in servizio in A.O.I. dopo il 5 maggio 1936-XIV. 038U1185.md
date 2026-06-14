@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 19 maggio 1938 n. 1185
-
-
-REGIO DECRETO-LEGGE 19 maggio 1938 n. 1185
-==========================================
-
-Aumento del premio di smobilitazione ai sottufficiali e ai militari di truppa delle Forze armate rimasti in servizio in A.O.I. dopo il 5 maggio 1936-XIV. (038U1185)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/08/1938.  
-Regio Decreto-Legge convertito dalla [L. 22 dicembre 1938, n. 2147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-12-22;2147) (in G.U. 13/02/1939, n.36).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1185
+data: 1938-05-19
+titolo: "Aumento del premio di smobilitazione ai sottufficiali e ai militari di truppa delle Forze armate rimasti in servizio in A.O.I. dopo il 5 maggio 1936-XIV. (038U1185)"
+urn: urn:nir:stato:regio.decreto.legge:1938-05-19;1185
+codice_redazionale: 038U1185
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -29,52 +26,38 @@ Visto l'art. 3, n. 2. della legge 31 gennaio 1926-IV, n. 100;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra e Ministro Segretario di Stato per l'Africa italiana, per la marina e per l'aeronautica, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per la guerra e Ministro Segretario di Stato per l'Africa italiana, per la marina e per l'aeronautica, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Ai sottufficiali e ai militari di truppa delle Forze armate dello Stato che, avendo conseguito diritto al premio di smobilitazione secondo le norme fissate dal R. decreto-legge 1° ottobre 1936-XIV, n. 2067, siano rimasti dislocati in Africa Orientale oltre la data del 5 maggio 1936-XIV per almeno sei mesi, il detto premio e' concesso nella seguente misura: 
+ 
+ Sottufficiali . . L. 656 
+ 
+ Graduati . . . . » 544 
+ 
+ Soldati . . . . . » 489
 
-  
-  
-Ai sottufficiali e ai militari di truppa delle Forze armate dello Stato che, avendo conseguito diritto al premio di smobilitazione secondo le norme fissate dal R. decreto-legge 1° ottobre 1936-XIV, n. 2067, siano rimasti dislocati in Africa Orientale oltre la data del 5 maggio 1936-XIV per almeno sei mesi, il detto premio e' concesso nella seguente misura:   
-  
-Sottufficiali . . L. 656   
-  
-Graduati . . . . » 544   
-  
-Soldati . . . . . » 489   
+## Art. 2.
 
-Art. 2
-------
+A decorrere dal 1° aprile 1938-XVI non e' ammesso, per i militari indicati nel precedente articolo ancora in servizio in Africa Orientale Italiana, il cumulo fra il premio di smobilitazione e il trattamento economico per la licenza coloniale ad essi eventualmente spettante. All'atto del rimpatrio ai militari predetti sara' corrisposto quello dei due trattamenti che risultera' piu' favorevole. 
+ 
+ Il divieto del cumulo non riguarda il caso in cui, secondo gli ordinamenti vigenti, la licenza ordinaria coloniale sia concessa per motivi di salute, a seguito di infermita' contratta per cause di servizio.
 
-  
-  
-A decorrere dal 1° aprile 1938-XVI non e' ammesso, per i militari indicati nel precedente articolo ancora in servizio in Africa Orientale Italiana, il cumulo fra il premio di smobilitazione e il trattamento economico per la licenza coloniale ad essi eventualmente spettante. All'atto del rimpatrio ai militari predetti sara' corrisposto quello dei due trattamenti che risultera' piu' favorevole.   
-  
-Il divieto del cumulo non riguarda il caso in cui, secondo gli ordinamenti vigenti, la licenza ordinaria coloniale sia concessa per motivi di salute, a seguito di infermita' contratta per cause di servizio.   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il presente decreto sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 maggio 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 5 agosto 1938 - Anno XVI   
-  
-Atti del Governo, registro 400, foglio 26. - Mancini.   
-  
-  
+Il presente decreto sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 maggio 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 5 agosto 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 400, foglio 26. - Mancini.

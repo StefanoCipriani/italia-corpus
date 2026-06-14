@@ -1,16 +1,14 @@
-REGIO DECRETO 04 ottobre 1938 n. 1605
-
-
-REGIO DECRETO 04 ottobre 1938 n. 1605
-=====================================
-
-Soppressione della Direzione compartimentale per le coltivazioni tabacchi di Arezzo ed istituzione di una Direzione compartimentale a Roma. (038U1605)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/11/1938
+---
+tipo: REGIO DECRETO
+numero: 1605
+data: 1938-10-04
+titolo: "Soppressione della Direzione compartimentale per le coltivazioni tabacchi di Arezzo ed istituzione di una Direzione compartimentale a Roma. (038U1605)"
+urn: urn:nir:stato:regio.decreto:1938-10-04;1605
+codice_redazionale: 038U1605
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,7 +16,7 @@ RE D'ITALIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 13 luglio 1914, n. 797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-07-13;797), col quale, vennero istituite dieci Direzioni compartimentali per le coltivazioni dei tabacchi con sede a Verona, Bologna, Firenze, Arezzo, Perugia, Benevento, Cava dei Tirreni, Lecce, Palermo e Sassari;
+Visto il [R. decreto 13 luglio 1914, n. 797](Col%20quale%20vengono%20istituite%20dieci%20direzioni%20compartimentali%20dei%20tabacchi%20con%20sede%20a%20Verona%20Bologna%20Firenze%20Arezzo%20Perugia%20Benevento%20Cava%20dei%20Terreni%20Lecce%20Palermo%20e%20Sassari.%20014U0797.md), col quale, vennero istituite dieci Direzioni compartimentali per le coltivazioni dei tabacchi con sede a Verona, Bologna, Firenze, Arezzo, Perugia, Benevento, Cava dei Tirreni, Lecce, Palermo e Sassari;
 
 Ritenuta la necessita' di meglio adeguare l'organizzazione dei servizi al nuovo assetto della coltivazione del tabacco;
 
@@ -28,29 +26,23 @@ Visto l'art. 4 dell'ordinamento centrale e periferico dell'Amministrazione dei m
 
 Sentito il Consiglio di amministrazione dei monopoli;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Direzione compartimentale per le coltivazioni tabacchi di Arezzo e' soppressa con effetto dal 1° gennaio 1939-XVII;   
-  
-Dalla stessa data viene istituita la Direzione compartimentale per le coltivazioni tabacchi di Roma.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 4 ottobre 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 17 ottobre 1938 - Anno XVI   
-Atti del Governo, registro 402, foglio 88. - Mancini   
+La Direzione compartimentale per le coltivazioni tabacchi di Arezzo e' soppressa con effetto dal 1° gennaio 1939-XVII; 
+ 
+ Dalla stessa data viene istituita la Direzione compartimentale per le coltivazioni tabacchi di Roma. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 4 ottobre 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 17 ottobre 1938 - Anno XVI  
+ Atti del Governo, registro 402, foglio 88. - Mancini

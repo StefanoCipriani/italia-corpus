@@ -1,16 +1,14 @@
-REGIO DECRETO 03 marzo 1938 n. 230
-
-
-REGIO DECRETO 03 marzo 1938 n. 230
-==================================
-
-Modificazione dell'art. 17 del regolamento per l'amministrazione del patrimonio e per la contabilita' delle poste e dei telegrafi, approvato con R. decreto 8 maggio 1933-XI, n. 841. (038U0230)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/04/1938
+---
+tipo: REGIO DECRETO
+numero: 230
+data: 1938-03-03
+titolo: "Modificazione dell'art. 17 del regolamento per l'amministrazione del patrimonio e per la contabilita' delle poste e dei telegrafi, approvato con R. decreto 8 maggio 1933-XI, n. 841. (038U0230)"
+urn: urn:nir:stato:regio.decreto:1938-03-03;230
+codice_redazionale: 038U0230
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,9 +20,9 @@ Visto l'art. 17 del regolamento per l'amministrazione del patrimonio e per la co
 
 Ritenuto che per ragioni di opportunita' si rende necessario elevare il limite massimo per le obbligazioni personali a L. 8000;
 
-Visto il [R. decreto-legge n. 520 del 23 aprile 1925](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-04-23;520), convertito nella [legge 21 marzo 1926, n. 597](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
+Visto il [R. decreto-legge n. 520 del 23 aprile 1925](Nuovo%20ordinamento%20dellAmministrazione%20postale%20e%20telegrafica.%20025U0520.md), convertito nella [legge 21 marzo 1926, n. 597](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-03-21;597);
 
-Visto l'[art. 1 della, legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100~art1);
+Visto l'[art. 1 della, legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Sentito il parere del Consiglio di amministrazione delle poste e dei telegrafi;
 
@@ -32,28 +30,22 @@ Sentito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il limite massimo della retribuzione che viene assegnata ai procaccia vincolati con obbligazione personale, di cui all'art. 17 del regolamento per l'amministrazione del patrimonio e per la contabilita' delle poste e dei telegrafi, approvato con R. decreto 8 maggio 1933-XI, n. 841, e' elevato ad annue L. 8000 con effetto dal 1° ottobre 1936.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia; mandando a chiunque spetti di esservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 marzo 1938 - Anno XVI   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Benni - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 29 marzo 1938 - Anno XVI   
-  
-Atti del Governo, registro 395, foglio 158. - Mancini.   
+Il limite massimo della retribuzione che viene assegnata ai procaccia vincolati con obbligazione personale, di cui all'art. 17 del regolamento per l'amministrazione del patrimonio e per la contabilita' delle poste e dei telegrafi, approvato con R. decreto 8 maggio 1933-XI, n. 841, e' elevato ad annue L. 8000 con effetto dal 1° ottobre 1936. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia; mandando a chiunque spetti di esservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 marzo 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Benni - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 29 marzo 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 395, foglio 158. - Mancini.

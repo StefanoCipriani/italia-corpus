@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 12 aprile 1939 n. 604
-
-
-REGIO DECRETO-LEGGE 12 aprile 1939 n. 604
-=========================================
-
-Maggiore assegnazione allo stato di previsione delta spesa del Ministero dell'interno per l'esercizio finanziario 1938-39. (039U0604)
--------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/04/1939.  
-Regio Decreto-Legge convertito dalla [L. 29 maggio 1939, n. 911](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-05-29;911) (in G.U. 05/07/1939, n. 155).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 604
+data: 1939-04-12
+titolo: "Maggiore assegnazione allo stato di previsione delta spesa del Ministero dell'interno per l'esercizio finanziario 1938-39. (039U0604)"
+urn: urn:nir:stato:regio.decreto.legge:1939-04-12;604
+codice_redazionale: 039U0604
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -27,34 +24,26 @@ Ritenuta la necessita', urgente ed assoluta, di aumentare lo stanziamento del ca
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Lo stanziamento del capitolo n. 83 «Spese per il servizio d'investigazione politica» dello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1938-39, e' aumentato di L. 18.000.000.   
-  
-Questo decreto andra' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la sua conversione in legge.   
-  
-Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 aprile 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Solmi   
-  
-Registrato alla Corte dei conti, addi' 25 aprile 1939-XVII   
-  
-Atti del Governo, registro 408, foglio 101. - Mancini   
-  
-  
+Lo stanziamento del capitolo n. 83 «Spese per il servizio d'investigazione politica» dello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1938-39, e' aumentato di L. 18.000.000. 
+ 
+ Questo decreto andra' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per la sua conversione in legge. 
+ 
+ Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 aprile 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi 
+ 
+ Registrato alla Corte dei conti, addi' 25 aprile 1939-XVII 
+ 
+ Atti del Governo, registro 408, foglio 101. - Mancini

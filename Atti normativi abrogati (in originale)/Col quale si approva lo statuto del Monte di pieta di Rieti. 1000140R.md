@@ -1,19 +1,15 @@
-REGIO DECRETO 17 aprile 1910 n. CXL
+---
+tipo: REGIO DECRETO
+numero: CXL
+data: 1910-04-17
+titolo: "Col quale si approva lo statuto del Monte di pieta' di Rieti. (1000140R)"
+urn: urn:nir:stato:regio.decreto:1910-04-17;140
+codice_redazionale: 1000140R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 aprile 1910 n. CXL
-===================================
-
-Col quale si approva lo statuto del Monte di pieta' di Rieti. (1000140R)
-------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/05/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. CXL (Dato a Roma, il 17 aprile 1910), col quale si approva lo statuto del Monte di pieta' di Rieti.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. CXL (Dato a Roma, il 17 aprile 1910), col quale si approva lo statuto del Monte di pieta' di Rieti.

@@ -1,21 +1,17 @@
-REGIO DECRETO 17 marzo 1898 n. LXXXIII
+---
+tipo: REGIO DECRETO
+numero: LXXXIII
+data: 1898-03-17
+titolo: "Che autorizza la costituzione della cassa di prestiti agrari di Buccheri, la erige in ente morale e ne approva lo statuto organico. (9800083R)"
+urn: urn:nir:stato:regio.decreto:1898-03-17;83
+codice_redazionale: 9800083R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 marzo 1898 n. LXXXIII
-======================================
-
-Che autorizza la costituzione della cassa di prestiti agrari di Buccheri, la erige in ente morale e ne approva lo statuto organico. (9800083R)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/04/1898
-
-Art. 1
-------
-
-  
-Che autorizza la costituzione della cassa di prestiti agrari di Buccheri, la erige in ente morale e ne approva lo statuto organico. - Firmato UMBERTO - Controfirmato Branca - Visto G. Zanardelli.   
-  
-Registrato alla Corte dei Conti addi' 5 aprile 1898.   
-  
-Reg. 215. Atti del Governo a f. 16.   
-  
+Che autorizza la costituzione della cassa di prestiti agrari di Buccheri, la erige in ente morale e ne approva lo statuto organico. - Firmato UMBERTO - Controfirmato Branca - Visto G. Zanardelli. 
+ 
+ Registrato alla Corte dei Conti addi' 5 aprile 1898. 
+ 
+ Reg. 215. Atti del Governo a f. 16.

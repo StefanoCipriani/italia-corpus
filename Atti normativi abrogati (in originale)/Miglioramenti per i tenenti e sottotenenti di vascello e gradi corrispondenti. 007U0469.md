@@ -1,113 +1,80 @@
-LEGGE 14 luglio 1907 n. 469
+---
+tipo: LEGGE
+numero: 469
+data: 1907-07-14
+titolo: "Miglioramenti per i tenenti e sottotenenti di vascello e gradi corrispondenti. (007U0469)"
+urn: urn:nir:stato:legge:1907-07-14;469
+codice_redazionale: 007U0469
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 14 luglio 1907 n. 469
-===========================
+Gli stipendi dei tenenti e sottotenenti di vascello, in relazione agli anni di permanenza nel grado, sono stabiliti in base alla seguente tabella: 
+ 
+ Tenente di vascello . . . . . . . . . . . . . . . . . . L. 3,400 
+ 
+ Tenente di vascello con oltre 5 anni di grado . . . . . » 3,800 
+ 
+ Tenente di vascello con oltre 10 anni di grado . . . . . » 4,300 
+ 
+ Sottotenente di vascello . . . . . . . . . . . . . . . . » 2,400 
+ 
+ Sottotenente di vascello con oltre 5 anni di grado . . . » 2,800 
+ 
+ Sottotenente di vascello con oltre 10 anni di grado . . L. 3,200 
+ 
+ L'anzianita' di grado per la concessione degli aumenti quinquennali ai sottotenenti di vascello che rimasero nel grado precedente piu' di tre anni e' computata dal termine del terzo anno passato nel grado di guardiamarina.
 
-Miglioramenti per i tenenti e sottotenenti di vascello e gradi corrispondenti. (007U0469)
------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 02/08/1907
+Ai tenenti di vascello che abbiano 12 o piu' anni di grado spetta la denominazione di primi tenenti.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Gli stipendi dei tenenti e sottotenenti di vascello, in relazione agli anni di permanenza nel grado, sono stabiliti in base alla seguente tabella:   
-  
-Tenente di vascello . . . . . . . . . . . . . . . . . . L. 3,400   
-  
-Tenente di vascello con oltre 5 anni di grado . . . . . » 3,800   
-  
-Tenente di vascello con oltre 10 anni di grado . . . . . » 4,300   
-  
-Sottotenente di vascello . . . . . . . . . . . . . . . . » 2,400   
-  
-Sottotenente di vascello con oltre 5 anni di grado . . . » 2,800   
-  
-Sottotenente di vascello con oltre 10 anni di grado . . L. 3,200   
-  
-L'anzianita' di grado per la concessione degli aumenti quinquennali ai sottotenenti di vascello che rimasero nel grado precedente piu' di tre anni e' computata dal termine del terzo anno passato nel grado di guardiamarina.   
+Ai primi tenenti spettano le indennita' di missione, di trasferta e le concessioni ferroviarie devolute agli ufficiali che hanno il grado di capitano di corvetta.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-Ai tenenti di vascello che abbiano 12 o piu' anni di grado spetta la denominazione di primi tenenti.   
+I primi tenenti, oltre le destinazioni che competono alla loro anzianita' nel grado, potranno anche coprire a bordo ed a terra posti devoluti a capitani di corvetta, eccettuati i comandi navali assegnati a questi ultimi.
 
-Art. 3
-------
+## Art. 5.
 
-  
-  
-Ai primi tenenti spettano le indennita' di missione, di trasferta e le concessioni ferroviarie devolute agli ufficiali che hanno il grado di capitano di corvetta.   
+Con decreto Reale sara' provveduto ad un distintivo speciale nella divisa dei primi tenenti.
 
-Art. 4
-------
+## Art. 6.
 
-  
-  
-I primi tenenti, oltre le destinazioni che competono alla loro anzianita' nel grado, potranno anche coprire a bordo ed a terra posti devoluti a capitani di corvetta, eccettuati i comandi navali assegnati a questi ultimi.   
+Le disposizioni contenute negli articoli 1, 3 e 5 della presente legge, sono analogamente estese anche ai capitani e ai tenenti degli altri corpi militari della R. marina.
 
-Art. 5
-------
+## Art. 7.
 
-  
-  
-Con decreto Reale sara' provveduto ad un distintivo speciale nella divisa dei primi tenenti.   
+Alle spese derivanti dall'applicazione della presente legge, che, per l'esercizio finanziario 1907-908 ascendono a L. 125,000, sara' provveduto, anno per anno, con lo stanziamento di apposite somme nel bilancio della marina, in eccedenza alle spese effettive consolidate.
 
-Art. 6
-------
+## Art. 8.
 
-  
-  
-Le disposizioni contenute negli articoli 1, 3 e 5 della presente legge, sono analogamente estese anche ai capitani e ai tenenti degli altri corpi militari della R. marina.   
+Le disposizioni contenute contenute nella [legge 29 dicembre 1904, n. 688](Sui%20provvedimenti%20relativi%20al%20miglioramento%20degli%20stipendi%20degli%20ufficiali%20inferiori%20e%20subalterni%20della%20R.%20marina.%20004U0688.md), per quanto riflette i tenenti ed i sottotenenti di vascello e gli ufficiali di grado corrispondente degli altri corpi militari della R. marina e tutte le altre contrarie alla presente legge sono abrogate.
 
-Art. 7
-------
+## Art. 9.
 
-  
-  
-Alle spese derivanti dall'applicazione della presente legge, che, per l'esercizio finanziario 1907-908 ascendono a L. 125,000, sara' provveduto, anno per anno, con lo stanziamento di apposite somme nel bilancio della marina, in eccedenza alle spese effettive consolidate.   
+Al sottotenente del corpo R. equipaggi della categoria musicanti, spetta un aumento di stipendio di L. 300, dopo ciascuno dei primi quattro quinquenni di servizio ciascuno.
 
-Art. 8
-------
+## Art. 10.
 
-  
-  
-Le disposizioni contenute contenute nella [legge 29 dicembre 1904, n. 688](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-12-29;688), per quanto riflette i tenenti ed i sottotenenti di vascello e gli ufficiali di grado corrispondente degli altri corpi militari della R. marina e tutte le altre contrarie alla presente legge sono abrogate.   
+Nulla e' innovato circa quanto riflette l'indennita' di armi.
 
-Art. 9
-------
-
-  
-  
-Al sottotenente del corpo R. equipaggi della categoria musicanti, spetta un aumento di stipendio di L. 300, dopo ciascuno dei primi quattro quinquenni di servizio ciascuno.   
-
-Art. 10
--------
-
-  
-  
-Nulla e' innovato circa quanto riflette l'indennita' di armi.   
-
-Art. 11
--------
+## Art. 11.
 
 La presente legge avra' effetto dal 1° luglio
 
-1907. 
-  
-  
-Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Racconigi, addi' 14 luglio 1907.   
-  
-VITTORIO EMANUELE.   
-  
-C. MIRABELLO.   
-CARCANO.   
-  
-Visto, Il guardasigilli: ORLANDO.
+1907.
+
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Racconigi, addi' 14 luglio 1907. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ C. MIRABELLO. 
+ CARCANO. 
+ 
+ Visto, Il guardasigilli: ORLANDO.

@@ -1,18 +1,18 @@
-REGIO DECRETO 05 agosto 1920 n. 1177
+---
+tipo: REGIO DECRETO
+numero: 1177
+data: 1920-08-05
+titolo: "Accettazione di eredita'. (020U1177)"
+urn: urn:nir:stato:regio.decreto:1920-08-05;1177
+codice_redazionale: 020U1177
+vigente: true
+---
 
-
-REGIO DECRETO 05 agosto 1920 n. 1177
-====================================
-
-Accettazione di eredita'. (020U1177)
-------------------------------------
-
-Entrata in vigore del provvedimento: 17/09/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1177. Regio Decreto 5 agosto 1920, col quale, sulla proposta del ministro dell'istruzione pubblica, il Patronato scolastico di Pisa, e' autorizzato ad accettare la sua parte dell'eredita' del sig.  
+1177.
+
+Regio Decreto 5 agosto 1920, col quale, sulla proposta del ministro dell'istruzione pubblica, il Patronato scolastico di Pisa, e' autorizzato ad accettare la sua parte dell'eredita' del sig.
 Walter Stirling Newberg del fu Wiliam.

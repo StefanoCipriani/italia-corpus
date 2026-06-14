@@ -1,18 +1,15 @@
-REGIO DECRETO 20 marzo 1913 n. 263
+---
+tipo: REGIO DECRETO
+numero: 263
+data: 1913-03-20
+titolo: "Istituzione di un Consiglio d'amministrazione presso il battaglione specialisti del genio e presso quello aviatori. (013U0263)"
+urn: urn:nir:stato:regio.decreto:1913-03-20;263
+codice_redazionale: 013U0263
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 marzo 1913 n. 263
-==================================
-
-Istituzione di un Consiglio d'amministrazione presso il battaglione specialisti del genio e presso quello aviatori. (013U0263)
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/04/1913
-
-Art. 1
-------
-
-  
-N. 263   
-  
-Regio Decreto 20 marzo 1913, col quale, sulla proposta dei ministri della guerra e del tesoro, viene istituito un secondo Consiglio d'amministrazione presso il battaglione specialisti del genio e presso quello aviatori e viene riformato il Consiglio di amministrazione dello stabilimento di esperienze e costruzioni aeronautiche.   
+N. 263 
+ 
+ Regio Decreto 20 marzo 1913, col quale, sulla proposta dei ministri della guerra e del tesoro, viene istituito un secondo Consiglio d'amministrazione presso il battaglione specialisti del genio e presso quello aviatori e viene riformato il Consiglio di amministrazione dello stabilimento di esperienze e costruzioni aeronautiche.

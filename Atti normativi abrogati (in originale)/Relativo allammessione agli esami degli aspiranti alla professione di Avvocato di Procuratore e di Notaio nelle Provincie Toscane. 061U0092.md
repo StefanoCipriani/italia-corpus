@@ -1,16 +1,14 @@
-REGIO DECRETO 10 luglio 1861 n. 92
-
-
-REGIO DECRETO 10 luglio 1861 n. 92
-==================================
-
-Relativo all'ammessione agli esami degli aspiranti alla professione di Avvocato, di Procuratore e di Notaio nelle Provincie Toscane. (061U0092)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/08/1861
+---
+tipo: REGIO DECRETO
+numero: 92
+data: 1861-07-10
+titolo: "Relativo all'ammessione agli esami degli aspiranti alla professione di Avvocato, di Procuratore e di Notaio nelle Provincie Toscane. (061U0092)"
+urn: urn:nir:stato:regio.decreto:1861-07-10;92
+codice_redazionale: 061U0092
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,29 +18,22 @@ Visti gli articoli 20 e 21 del regolamento pel Collegio degli Avvocati delle Pro
 
 Visto il Regio Decreto 14 febbraio 1861, n.° 4628, ed il regolamento annessovi;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia ed Affari Ecclesiastici; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia ed Affari Ecclesiastici; Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'ammessione agli esami degli aspiranti alla professione di Avvocato, di Procuratore e di Notaio nelle Provincie Toscane verra' fatta con decreto del Presidente della Corte Regia avanti la quale o nel cui Circondario debbono i medesimi aver luogo, sentito il Pubblico Ministero.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 10 luglio 1861.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 12 luglio 1861   
-  
-Reg.° 17 Atti del Governo a c. 213. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Miglietti.   
-  
-Miglietti.   
-  
+L'ammessione agli esami degli aspiranti alla professione di Avvocato, di Procuratore e di Notaio nelle Provincie Toscane verra' fatta con decreto del Presidente della Corte Regia avanti la quale o nel cui Circondario debbono i medesimi aver luogo, sentito il Pubblico Ministero. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 10 luglio 1861. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 12 luglio 1861 
+ 
+ Reg.° 17 Atti del Governo a c. 213. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Miglietti. 
+ 
+ Miglietti.

@@ -1,16 +1,14 @@
-REGIO DECRETO 27 agosto 1872 n. 989
-
-
-REGIO DECRETO 27 agosto 1872 n. 989
-===================================
-
-Che modifica la Pianta organica provvisoria degli Stabilimenti scientifici della Regia Universita' di Roma. (072U0989)
-----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/10/1872
+---
+tipo: REGIO DECRETO
+numero: 989
+data: 1872-08-27
+titolo: "Che modifica la Pianta organica provvisoria degli Stabilimenti scientifici della Regia Universita' di Roma. (072U0989)"
+urn: urn:nir:stato:regio.decreto:1872-08-27;989
+codice_redazionale: 072U0989
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,30 +18,16 @@ Veduta la Pianta organica provvisoria degli Stabilimenti scientifici della Regia
 
 Veduto il bilancio passivo del Ministero della Pubblica Istruzione pel corrente esercizio;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Pianta organica degli Stabilimenti scientifici della Regia Universita' di Roma e' modificata secondo la tabella annessa al presente decreto e firmata d'ordine Nostro dal predetto Nostro Ministro.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Milano, addi' 27 agosto 1872.   
-  
-VITTORIO EMANUELE.   
-  
-A. Scialoja.   
-  
-
-Tabella
-
- Tabella.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U098900100010110001&dgu=1872-09-25&art.dataPubblicazioneGazzetta=1872-09-25&art.codiceRedazionale=072U0989)
-  
+La Pianta organica degli Stabilimenti scientifici della Regia Universita' di Roma e' modificata secondo la tabella annessa al presente decreto e firmata d'ordine Nostro dal predetto Nostro Ministro. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Milano, addi' 27 agosto 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ A. Scialoja.

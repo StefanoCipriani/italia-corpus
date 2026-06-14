@@ -1,19 +1,19 @@
-REGIO DECRETO 25 giugno 1931 n. 1066
+---
+tipo: REGIO DECRETO
+numero: 1066
+data: 1931-06-25
+titolo: "Autorizzazione al Regio istituto industriale «Omar» di Novara ad accettare una donazione. (031U1066)"
+urn: urn:nir:stato:regio.decreto:1931-06-25;1066
+codice_redazionale: 031U1066
+vigente: true
+---
 
-
-REGIO DECRETO 25 giugno 1931 n. 1066
-====================================
-
-Autorizzazione al Regio istituto industriale «Omar» di Novara ad accettare una donazione. (031U1066)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/09/1931
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1066. R. decreto 25 giugno 1931, col quale, sulla proposta del Ministro per l'educazione nazionale, il Regio istituto industriale «Omar» di Novara, viene autorizzato ad accettare una donazione fatta dai signori Francesco e Fausto Bini.   
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 1° settembre 1931 - Anno IX
+1066.
+
+R. decreto 25 giugno 1931, col quale, sulla proposta del Ministro per l'educazione nazionale, il Regio istituto industriale «Omar» di Novara, viene autorizzato ad accettare una donazione fatta dai signori Francesco e Fausto Bini. 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 1° settembre 1931 - Anno IX

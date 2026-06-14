@@ -1,16 +1,14 @@
-REGIO DECRETO 14 giugno 1896 n. 270
-
-
-REGIO DECRETO 14 giugno 1896 n. 270
-===================================
-
-Che apre un concorso a premi fra le Associazioni (Consorzi) di bachicoltori che provvedano a raccogliere, conservare e vendere in comune i bozzoli. (096U0270)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/07/1896
+---
+tipo: REGIO DECRETO
+numero: 270
+data: 1896-06-14
+titolo: "Che apre un concorso a premi fra le Associazioni (Consorzi) di bachicoltori che provvedano a raccogliere, conservare e vendere in comune i bozzoli. (096U0270)"
+urn: urn:nir:stato:regio.decreto:1896-06-14;270
+codice_redazionale: 096U0270
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,49 +22,30 @@ Ritenuto che all'uopo possa tornare di giovamento lo applicare il principio dell
 
 Ritenuto che a questo intento si possano efficacemente adoperare gli Enti morali e le Associazioni agrarie;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' aperto un concorso a premi fra le Associazioni (Consorzi) di bachicoltori che provvedano a raccogliere, conservare e vendere in comune i bozzoli.
 
-  
-  
-E' aperto un concorso a premi fra le Associazioni (Consorzi) di bachicoltori che provvedano a raccogliere, conservare e vendere in comune i bozzoli.   
-  
+## Art. 2.
 
-Art. 2
-------
+Sono stabiliti per questo concorso, due premi da L. 3000 ciascuno e tre premi da L. 1500 ciascuno.
 
-  
-  
-Sono stabiliti per questo concorso, due premi da L. 3000 ciascuno e tre premi da L. 1500 ciascuno.   
-  
+## Art. 3.
 
-Art. 3
-------
+Attestati di benemerenza saranno conferiti agli Enti morali che si adopereranno efficacemente alla costituzione delle Associazioni anzidette.
 
-  
-  
-Attestati di benemerenza saranno conferiti agli Enti morali che si adopereranno efficacemente alla costituzione delle Associazioni anzidette.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Con decreto del Nostro Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio, saranno fissate le norme secondo le quali dovra' essere disciplinato il presente concorso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 giugno 1896.   
-  
-UMBERTO.   
-  
-Guicciardini.   
-  
-Visto, Il Guardasigilli: G. Costa.   
-  
+Con decreto del Nostro Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio, saranno fissate le norme secondo le quali dovra' essere disciplinato il presente concorso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 giugno 1896. 
+ 
+ UMBERTO. 
+ 
+ Guicciardini. 
+ 
+ Visto, Il Guardasigilli: G. Costa.

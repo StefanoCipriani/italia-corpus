@@ -1,21 +1,17 @@
-REGIO DECRETO 01 maggio 1902 n. CVII
+---
+tipo: REGIO DECRETO
+numero: CVII
+data: 1902-05-01
+titolo: "Con cui l'opera pia provinciale di Reggio Calabria a favore degli orfani delle vittime del terremoto viene eretta in ente morale e ne viene approvato lo statuto organico. (0200107R)"
+urn: urn:nir:stato:regio.decreto:1902-05-01;107
+codice_redazionale: 0200107R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 maggio 1902 n. CVII
-====================================
-
-Con cui l'opera pia provinciale di Reggio Calabria a favore degli orfani delle vittime del terremoto viene eretta in ente morale e ne viene approvato lo statuto organico. (0200107R)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/06/1902
-
-Art. 1
-------
-
-  
-Con cui l'opera pia provinciale di Reggio Calabria a favore degli orfani delle vittime del terremoto viene eretta in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 14 maggio 1902.   
-  
-Reg. 3. Atti del Governo a f. 77.   
-  
+Con cui l'opera pia provinciale di Reggio Calabria a favore degli orfani delle vittime del terremoto viene eretta in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 14 maggio 1902. 
+ 
+ Reg. 3. Atti del Governo a f. 77.

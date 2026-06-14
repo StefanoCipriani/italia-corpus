@@ -1,21 +1,21 @@
-REGIO DECRETO 24 luglio 1942 n. 1371
+---
+tipo: REGIO DECRETO
+numero: 1371
+data: 1942-07-24
+titolo: "Erezione in ente morale della Fondazione «Antonio Morando», con sede in Chiavari (Genova). (042U1371)"
+urn: urn:nir:stato:regio.decreto:1942-07-24;1371
+codice_redazionale: 042U1371
+vigente: true
+---
 
-
-REGIO DECRETO 24 luglio 1942 n. 1371
-====================================
-
-Erezione in ente morale della Fondazione «Antonio Morando», con sede in Chiavari (Genova). (042U1371)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/12/1942
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1371. R. decreto 24 luglio 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, la Fondazione «Antonio Morando», con sede in Chiavari (Genova), viene eretta in ente morale sotto amministrazione autonoma e ne viene approvato il relativo statuto organico.   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 24 novembre 1942-XXI
+1371.
+
+R. decreto 24 luglio 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, la Fondazione «Antonio Morando», con sede in Chiavari (Genova), viene eretta in ente morale sotto amministrazione autonoma e ne viene approvato il relativo statuto organico. 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 24 novembre 1942-XXI

@@ -1,23 +1,19 @@
-REGIO DECRETO 04 gennaio 1865 n. MDI
+---
+tipo: REGIO DECRETO
+numero: MDI
+data: 1865-01-04
+titolo: "Che approva il regolamento di polizia di Montalfoglio e Gonnostramazza. (6501501R)"
+urn: urn:nir:stato:regio.decreto:1865-01-04;1501
+codice_redazionale: 6501501R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 04 gennaio 1865 n. MDI
-====================================
-
-Che approva il regolamento di polizia di Montalfoglio e Gonnostramazza. (6501501R)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/01/1865
-
-Art. 1
-------
-
-  
-Con cui sono approvati:   
-  
-1.° Il regolamento di polizia urbana deliberato dal consiglio comunale di Montalfoglio (Pesaro ed Urbino) nelle adunanze 22 maggio e 13 novembre ultimi scorsi;   
-  
-2.° Il regolamento di polizia urbana deliberato dal Consiglio comunale di Gonnostramazza (Cagliari) in adunanza del 23 ottobre ultimo scorso.   
-  
-Torino 4 gennaio 1865   
-  
+Con cui sono approvati: 
+ 
+ 1.° Il regolamento di polizia urbana deliberato dal consiglio comunale di Montalfoglio (Pesaro ed Urbino) nelle adunanze 22 maggio e 13 novembre ultimi scorsi; 
+ 
+ 2.° Il regolamento di polizia urbana deliberato dal Consiglio comunale di Gonnostramazza (Cagliari) in adunanza del 23 ottobre ultimo scorso. 
+ 
+ Torino 4 gennaio 1865

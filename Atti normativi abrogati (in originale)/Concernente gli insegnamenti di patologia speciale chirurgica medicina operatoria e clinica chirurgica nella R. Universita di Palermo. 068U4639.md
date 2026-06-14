@@ -1,16 +1,14 @@
-REGIO DECRETO 27 settembre 1868 n. 4639
-
-
-REGIO DECRETO 27 settembre 1868 n. 4639
-=======================================
-
-Concernente gli insegnamenti di patologia speciale chirurgica, medicina operatoria e clinica chirurgica nella R. Universita' di Palermo. (068U4639)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/11/1868
+---
+tipo: REGIO DECRETO
+numero: 4639
+data: 1868-09-27
+titolo: "Concernente gli insegnamenti di patologia speciale chirurgica, medicina operatoria e clinica chirurgica nella R. Universita' di Palermo. (068U4639)"
+urn: urn:nir:stato:regio.decreto:1868-09-27;4639
+codice_redazionale: 068U4639
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Visto il parere dato dal Consiglio superiore di pubblica istruzione nella sua se
 
 »2° Che questo modo di distribuzione d'insegnamenti e' maggiormente raccomandabile, perche' trovasi adottato e seguito in parecchie altre Universita';»
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A cominciare dall'anno scolastico 1868-69, nella Facolta' di medicina e chirurgia della R. Universita' di Palermo, la patologia speciale chirurgica sara' insegnata separatamente dalla clinica chirurgica, ed a questa sara' aggregata la medicina operatoria.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 27 settembre 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 21 ottobre 1868   
-  
-Reg. 41 Atti del Governo a c. 1. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-Broglio.   
-  
+A cominciare dall'anno scolastico 1868-69, nella Facolta' di medicina e chirurgia della R. Universita' di Palermo, la patologia speciale chirurgica sara' insegnata separatamente dalla clinica chirurgica, ed a questa sara' aggregata la medicina operatoria. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 27 settembre 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 21 ottobre 1868 
+ 
+ Reg. 41 Atti del Governo a c. 1. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ Broglio.

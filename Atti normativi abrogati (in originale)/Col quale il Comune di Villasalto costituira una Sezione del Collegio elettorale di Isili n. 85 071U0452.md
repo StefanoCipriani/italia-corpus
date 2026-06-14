@@ -1,16 +1,14 @@
-REGIO DECRETO 22 settembre 1871 n. 452
-
-
-REGIO DECRETO 22 settembre 1871 n. 452
-======================================
-
-Col quale il Comune di Villasalto costituira' una Sezione del Collegio elettorale di Isili, n. 85 (071U0452)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/10/1871
+---
+tipo: REGIO DECRETO
+numero: 452
+data: 1871-09-22
+titolo: "Col quale il Comune di Villasalto costituira' una Sezione del Collegio elettorale di Isili, n. 85 (071U0452)"
+urn: urn:nir:stato:regio.decreto:1871-09-22;452
+codice_redazionale: 071U0452
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Noverandosi nel Comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Villasalto costituira' d'ora in poi una sezione del Collegio elettorale di Isili con sede nel capoluogo del Comune stesso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino afidi 22 settembre 1871.   
-  
-VITTORIO EMANUELE   
-  
-G. Lanza.   
-  
+Il Comune di Villasalto costituira' d'ora in poi una sezione del Collegio elettorale di Isili con sede nel capoluogo del Comune stesso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino afidi 22 settembre 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ G. Lanza.

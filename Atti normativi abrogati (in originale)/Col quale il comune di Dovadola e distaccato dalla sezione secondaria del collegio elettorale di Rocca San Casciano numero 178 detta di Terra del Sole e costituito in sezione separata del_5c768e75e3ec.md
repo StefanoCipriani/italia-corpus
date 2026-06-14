@@ -1,16 +1,14 @@
-REGIO DECRETO 25 luglio 1875 n. 2637
-
-
-REGIO DECRETO 25 luglio 1875 n. 2637
-====================================
-
-Col quale il comune di Dovadola e' distaccato dalla sezione secondaria del collegio elettorale di Rocca San Casciano, numero 178, detta di Terra del Sole, e costituito in sezione separata del collegio medesimo. (075U2637)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/08/1875
+---
+tipo: REGIO DECRETO
+numero: 2637
+data: 1875-07-25
+titolo: "Col quale il comune di Dovadola e' distaccato dalla sezione secondaria del collegio elettorale di Rocca San Casciano, numero 178, detta di Terra del Sole, e costituito in sezione separata del collegio medesimo. (075U2637)"
+urn: urn:nir:stato:regio.decreto:1875-07-25;2637
+codice_redazionale: 075U2637
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I1 comune di Dovadola e' distaccato dalla sezione secondaria del Collegio elettorale di Rocca San Casciano num. 178, detta di Terra del Sole, e costituito in sezione separata del Collegio medesimo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, addi' 25 luglio 1875.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
+I1 comune di Dovadola e' distaccato dalla sezione secondaria del Collegio elettorale di Rocca San Casciano num. 178, detta di Terra del Sole, e costituito in sezione separata del Collegio medesimo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, addi' 25 luglio 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

@@ -1,21 +1,17 @@
-REGIO DECRETO 17 gennaio 1904 n. XIV
+---
+tipo: REGIO DECRETO
+numero: XIV
+data: 1904-01-17
+titolo: "Con cui l'opera pia «Ospitale Borgazzi per Cernusco Lombardone ed Uniti» viene eretto in ente morale e ne viene approvato lo statuto organico. (0400014R)"
+urn: urn:nir:stato:regio.decreto:1904-01-17;14
+codice_redazionale: 0400014R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 gennaio 1904 n. XIV
-====================================
-
-Con cui l'opera pia «Ospitale Borgazzi per Cernusco Lombardone ed Uniti» viene eretto in ente morale e ne viene approvato lo statuto organico. (0400014R)
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/02/1904
-
-Art. 1
-------
-
-  
-Con cui l'opera pia «Ospitale Borgazzi per Cernusco Lombardone ed Uniti» viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 2 febbraio 1904.   
-  
-Reg. 15. Atti del Governo a f. 26.   
-  
+Con cui l'opera pia «Ospitale Borgazzi per Cernusco Lombardone ed Uniti» viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 2 febbraio 1904. 
+ 
+ Reg. 15. Atti del Governo a f. 26.

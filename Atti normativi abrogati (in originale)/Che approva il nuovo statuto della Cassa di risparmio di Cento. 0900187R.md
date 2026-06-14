@@ -1,19 +1,15 @@
-REGIO DECRETO 10 giugno 1909 n. CLXXXVII
+---
+tipo: REGIO DECRETO
+numero: CLXXXVII
+data: 1909-06-10
+titolo: "Che approva il nuovo statuto della Cassa di risparmio di Cento. (0900187R)"
+urn: urn:nir:stato:regio.decreto:1909-06-10;187
+codice_redazionale: 0900187R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 giugno 1909 n. CLXXXVII
-========================================
-
-Che approva il nuovo statuto della Cassa di risparmio di Cento. (0900187R)
---------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/07/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. CLXXXVII (Dato a Roma, il 10 giugno 1909), col quale si approva il nuovo statuto della Cassa di risparmio di Cento.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. CLXXXVII (Dato a Roma, il 10 giugno 1909), col quale si approva il nuovo statuto della Cassa di risparmio di Cento.

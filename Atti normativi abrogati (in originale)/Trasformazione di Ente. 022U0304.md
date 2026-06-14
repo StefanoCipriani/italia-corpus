@@ -1,17 +1,17 @@
-REGIO DECRETO 16 febbraio 1922 n. 304
+---
+tipo: REGIO DECRETO
+numero: 304
+data: 1922-02-16
+titolo: "Trasformazione di Ente. (022U0304)"
+urn: urn:nir:stato:regio.decreto:1922-02-16;304
+codice_redazionale: 022U0304
+vigente: true
+---
 
-
-REGIO DECRETO 16 febbraio 1922 n. 304
-=====================================
-
-Trasformazione di Ente. (022U0304)
-----------------------------------
-
-Entrata in vigore del provvedimento: 15/04/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-304. Regio decreto 16 febbraio 1922, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il fine inerente al patrimonio della Confraternita del Monte Purgatorio in Galatina viene trasformato a favore del locale asilo infantile.
+304.
+
+Regio decreto 16 febbraio 1922, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il fine inerente al patrimonio della Confraternita del Monte Purgatorio in Galatina viene trasformato a favore del locale asilo infantile.

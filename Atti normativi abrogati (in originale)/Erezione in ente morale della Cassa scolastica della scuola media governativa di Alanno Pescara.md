@@ -1,18 +1,20 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 04 febbraio 1947 n. 80
+---
+tipo: DECRETO DEL CAPO PROVVISORIO DELLO STATO
+numero: 80
+data: 1947-02-04
+titolo: "Erezione in ente morale della Cassa scolastica della scuola media governativa di Alanno (Pescara)."
+urn: urn:nir:stato:decreto.del.capo.provvisorio.dello.stato:1947-02-04;80
+codice_redazionale: 047U0080
+vigente: true
+---
 
-
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 04 febbraio 1947 n. 80
-===============================================================
-
-Erezione in ente morale della Cassa scolastica della scuola media governativa di Alanno (Pescara).
---------------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-80. Decreto del Capo provvisorio dello Stato 4 febbraio 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della scuola media governativa di Alanno (Pescara) viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GULLO  
-Registrato alla Corte dei Conti, addi' 10 marzo 1947
+80.
+
+Decreto del Capo provvisorio dello Stato 4 febbraio 1947, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della scuola media governativa di Alanno (Pescara) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GULLO
+ Registrato alla Corte dei Conti, addi' 10 marzo 1947

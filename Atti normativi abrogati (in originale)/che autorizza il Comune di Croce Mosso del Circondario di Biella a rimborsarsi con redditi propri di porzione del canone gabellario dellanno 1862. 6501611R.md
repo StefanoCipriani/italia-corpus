@@ -1,20 +1,17 @@
-REGIO DECRETO 12 aprile 1865 n. MDCXI
+---
+tipo: REGIO DECRETO
+numero: MDCXI
+data: 1865-04-12
+titolo: "che autorizza il Comune di Croce Mosso del Circondario di Biella a rimborsarsi con redditi propri di porzione del canone gabellario dell'anno 1862. (6501611R)"
+urn: urn:nir:stato:regio.decreto:1865-04-12;1611
+codice_redazionale: 6501611R
+vigente: true
+---
 
-
-REGIO DECRETO 12 aprile 1865 n. MDCXI
-=====================================
-
-che autorizza il Comune di Croce Mosso del Circondario di Biella a rimborsarsi con redditi propri di porzione del canone gabellario dell'anno 1862. (6501611R)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/04/1865
-
-Art. 1
-------
+## Art. 1.
 
 che autorizza il Comune di Croce Mosso del Circondario di Biella a rimborsarsi con redditi propri di porzione del canone gabellario dell'anno
 
-1862. 
-  
-  
+1862.
+
 Torino 12 aprile 1865

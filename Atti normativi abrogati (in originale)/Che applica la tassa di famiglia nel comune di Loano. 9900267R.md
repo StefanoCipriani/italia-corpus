@@ -1,22 +1,18 @@
-REGIO DECRETO 16 agosto 1899 n. CCLXVII
+---
+tipo: REGIO DECRETO
+numero: CCLXVII
+data: 1899-08-16
+titolo: "Che applica la tassa di famiglia nel comune di Loano. (9900267R)"
+urn: urn:nir:stato:regio.decreto:1899-08-16;267
+codice_redazionale: 9900267R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 agosto 1899 n. CCLXVII
-=======================================
-
-Che applica la tassa di famiglia nel comune di Loano. (9900267R)
-----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/10/1899
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di Loano di applicare nell'anno 1899 la tassa di famiglia col limite massimo di lire ottanta (L. 80). - Firmato UMBERTO - Controfirmato Carmine - Visto A.  
-Bonasi.   
-  
-Registrato alla Corte dei Conti addi' 13 settembre 1899.   
-  
-Reg. 220. Atti del Governo a f. 187.   
-  
+Col quale e' data facolta' al comune di Loano di applicare nell'anno 1899 la tassa di famiglia col limite massimo di lire ottanta (L. 80). - Firmato UMBERTO - Controfirmato Carmine - Visto A.
+Bonasi. 
+ 
+ Registrato alla Corte dei Conti addi' 13 settembre 1899. 
+ 
+ Reg. 220. Atti del Governo a f. 187.

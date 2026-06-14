@@ -1,19 +1,15 @@
-REGIO DECRETO 08 febbraio 1914 n. 117
+---
+tipo: REGIO DECRETO
+numero: 117
+data: 1914-02-08
+titolo: "Erezione in ente morale e approvazione di statuto. (014U0117)"
+urn: urn:nir:stato:regio.decreto:1914-02-08;117
+codice_redazionale: 014U0117
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 febbraio 1914 n. 117
-=====================================
-
-Erezione in ente morale e approvazione di statuto. (014U0117)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/03/1914
-
-Art. 1
-------
-
-  
-N. 117   
-  
-Regio Decreto 8 febbraio 1914, col quale, sulla proposta del ministro della I. P., il premio «Fausto Sestini» presso l'universita' di Pisa e' eretto in ente morale e ne e' approvato lo statuto.   
-  
+N. 117 
+ 
+ Regio Decreto 8 febbraio 1914, col quale, sulla proposta del ministro della I. P., il premio «Fausto Sestini» presso l'universita' di Pisa e' eretto in ente morale e ne e' approvato lo statuto.

@@ -1,16 +1,14 @@
-REGIO DECRETO 01 marzo 1937 n. 756
-
-
-REGIO DECRETO 01 marzo 1937 n. 756
-==================================
-
-Riconoscimento, ai fini del conferimento della medaglia al merito di lungo comando, dei periodi di comando di reparti delle legioni libiche della M.V.S.N. (037U0756)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/06/1937
+---
+tipo: REGIO DECRETO
+numero: 756
+data: 1937-03-01
+titolo: "Riconoscimento, ai fini del conferimento della medaglia al merito di lungo comando, dei periodi di comando di reparti delle legioni libiche della M.V.S.N. (037U0756)"
+urn: urn:nir:stato:regio.decreto:1937-03-01;756
+codice_redazionale: 037U0756
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -38,28 +36,22 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, di concerto con il Ministro Segretario di Stato per le colonie; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, di concerto con il Ministro Segretario di Stato per le colonie; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Agli effetti della concessione della medaglia militare al merito di lungo comma e' valutabile il tempo durante il quale l'ufficiale o il sottufficiale (anche con grado della Milizia, purche' non inferiore rispettivamente, a quello di ufficiale e di sottufficiale) abbia tenuto il comando di un reparto di camicie nere appartenente alle legioni libiche permanenti di cui al R. decreto-legge 1° maggio 1924-II, numero 1166, ed al R. decreto 3 ottobre 1929-VII, n. 1955, ed ai battaglioni di camicie nere permanenti costituiti in virtu' dell'art. 18 della legge 13 giugno 1935-XIII, n. 1372.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 1° marzo 1937 - Anno XV   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Lessona   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 31 maggio 1937 - Anno XV   
-  
-Atti del Governo, registro 385, foglio 176. - Mancini.   
+Agli effetti della concessione della medaglia militare al merito di lungo comma e' valutabile il tempo durante il quale l'ufficiale o il sottufficiale (anche con grado della Milizia, purche' non inferiore rispettivamente, a quello di ufficiale e di sottufficiale) abbia tenuto il comando di un reparto di camicie nere appartenente alle legioni libiche permanenti di cui al R. decreto-legge 1° maggio 1924-II, numero 1166, ed al R. decreto 3 ottobre 1929-VII, n. 1955, ed ai battaglioni di camicie nere permanenti costituiti in virtu' dell'art. 18 della legge 13 giugno 1935-XIII, n. 1372. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° marzo 1937 - Anno XV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Lessona 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 31 maggio 1937 - Anno XV 
+ 
+ Atti del Governo, registro 385, foglio 176. - Mancini.

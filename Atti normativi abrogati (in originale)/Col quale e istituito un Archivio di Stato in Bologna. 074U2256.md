@@ -1,50 +1,34 @@
-REGIO DECRETO 22 ottobre 1874 n. 2256
+---
+tipo: REGIO DECRETO
+numero: 2256
+data: 1874-10-22
+titolo: "Col quale e' istituito un Archivio di Stato in Bologna. (074U2256)"
+urn: urn:nir:stato:regio.decreto:1874-10-22;2256
+codice_redazionale: 074U2256
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 ottobre 1874 n. 2256
-=====================================
+E' istituito in Bologna un archivio di Stato.
 
-Col quale e' istituito un Archivio di Stato in Bologna. (074U2256)
-------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 22/01/1875
+L'archivio degli atti civili e criminali ora esistente in Bologna fara' parte del nuovo archivio di Stato.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-E' istituito in Bologna un archivio di Stato.   
+Nello stato di prima previsione della spesa pel 1875 le somme ora stanziate per l'archivio degli atti civili e criminali, saranno trasportate dal bilancio del Ministero di Grazia e Giustizia ai corrispondenti capitoli del bilancio del Ministero dell'Interno.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-L'archivio degli atti civili e criminali ora esistente in Bologna fara' parte del nuovo archivio di Stato.   
-  
-
-Art. 3
-------
-
-  
-  
-Nello stato di prima previsione della spesa pel 1875 le somme ora stanziate per l'archivio degli atti civili e criminali, saranno trasportate dal bilancio del Ministero di Grazia e Giustizia ai corrispondenti capitoli del bilancio del Ministero dell'Interno.   
-  
-
-Art. 4
-------
-
-  
-  
-Queste disposizioni avranno effetto col giorno 1° del gennaio prossimo venturo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 22 ottobre 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-P. O. Vigliani.   
-  
+Queste disposizioni avranno effetto col giorno 1° del gennaio prossimo venturo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 22 ottobre 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli. 
+ P. O. Vigliani.

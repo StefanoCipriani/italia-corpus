@@ -1,22 +1,20 @@
-REGIO DECRETO 20 maggio 1883 n. 1359
-
-
-REGIO DECRETO 20 maggio 1883 n. 1359
-====================================
-
-Che aggiunge una strada all'elenco delle provinciali di Napoli. (083U1359)
---------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/07/1883
+---
+tipo: REGIO DECRETO
+numero: 1359
+data: 1883-05-20
+titolo: "Che aggiunge una strada all'elenco delle provinciali di Napoli. (083U1359)"
+urn: urn:nir:stato:regio.decreto:1883-05-20;1359
+codice_redazionale: 083U1359
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333);
+Vista la [legge 23 luglio 1881, n. 333](Che%20autorizza%20la%20spesa%20di%20lire%20225126704%20per%20la%20costruzione%20di%20nuove%20opere%20straordinarie%20stradali%20ed%20idrauliche%20nel%20quindicennio%201881-1895.%20081U0333.md);
 
 Vista la deliberazione adottata in via di urgenza dalla Deputazione provinciale di Napoli il 20 marzo 1883, e quella del Consiglio provinciale in data 10 aprile 1883;
 
@@ -26,25 +24,18 @@ Visto il parere emesso dal Consiglio superiore dei lavori pubblici nell'adunanza
 
 Visto l'articolo 14 della legge 20 marzo 1865 sulle opere pubbliche;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-All'elenco delle strade provinciali della provincia di Napoli e' aggiunta, per la parte che riguarda la provincia stessa, la strada indicata col num. 172 nello elenco III annesso alla tabella B della [legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333), cioe' la strada da Castellammare per Gragnano, Pimonte ed Agerola, all'incontro della provinciale Amalfi-Positano-Meta.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 20 maggio 1883.   
-  
-UMBERTO.   
-  
-A. Baccarini.   
-  
-Visto, Il Guardasigilli: G. Zanardelli.   
-  
+All'elenco delle strade provinciali della provincia di Napoli e' aggiunta, per la parte che riguarda la provincia stessa, la strada indicata col num. 172 nello elenco III annesso alla tabella B della [legge 23 luglio 1881, n. 333](Che%20autorizza%20la%20spesa%20di%20lire%20225126704%20per%20la%20costruzione%20di%20nuove%20opere%20straordinarie%20stradali%20ed%20idrauliche%20nel%20quindicennio%201881-1895.%20081U0333.md), cioe' la strada da Castellammare per Gragnano, Pimonte ed Agerola, all'incontro della provinciale Amalfi-Positano-Meta. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 20 maggio 1883. 
+ 
+ UMBERTO. 
+ 
+ A. Baccarini. 
+ 
+ Visto, Il Guardasigilli: G. Zanardelli.

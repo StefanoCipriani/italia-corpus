@@ -1,28 +1,23 @@
-DECRETO LUOGOTENENZIALE 12 settembre 1918 n. 1531
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1531
+data: 1918-09-12
+titolo: "Che trasforma in Circolo di ispezione delle ferrovie la sezione autonoma di Ancona. (018U1531)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-09-12;1531
+codice_redazionale: 018U1531
+vigente: true
+---
 
+## Articolo unico.
 
-DECRETO LUOGOTENENZIALE 12 settembre 1918 n. 1531
-=================================================
-
-Che trasforma in Circolo di ispezione delle ferrovie la sezione autonoma di Ancona. (018U1531)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/11/1918
-
-Articolo unico
---------------
-
-  
-  
-A decorrere dal 1° ottobre 1918, la sezione autonoma di Ancona, e' trasformata in Circolo d'ispezione delle ferrovie ferma restando la circoscrizione del detto ufficio, stabilita col decreto Ministeriale 11 agosto 1911.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 settembre 1918.   
-  
-TOMASO DI SAVOIA.   
-  
-Dari.   
-  
-Visto, Il guardasigilli: Sacchi.   
-  
+A decorrere dal 1° ottobre 1918, la sezione autonoma di Ancona, e' trasformata in Circolo d'ispezione delle ferrovie ferma restando la circoscrizione del detto ufficio, stabilita col decreto Ministeriale 11 agosto 1911. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 settembre 1918. 
+ 
+ TOMASO DI SAVOIA. 
+ 
+ Dari. 
+ 
+ Visto, Il guardasigilli: Sacchi.

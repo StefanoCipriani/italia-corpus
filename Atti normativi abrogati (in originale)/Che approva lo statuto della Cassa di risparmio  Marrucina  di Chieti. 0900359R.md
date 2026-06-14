@@ -1,18 +1,15 @@
-REGIO DECRETO 09 settembre 1909 n. CCCLIX
+---
+tipo: REGIO DECRETO
+numero: CCCLIX
+data: 1909-09-09
+titolo: "Che approva lo statuto della Cassa di risparmio « Marrucina » di Chieti. (0900359R)"
+urn: urn:nir:stato:regio.decreto:1909-09-09;359
+codice_redazionale: 0900359R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 settembre 1909 n. CCCLIX
-=========================================
-
-Che approva lo statuto della Cassa di risparmio « Marrucina » di Chieti. (0900359R)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/10/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CCCLIX (Dato a Racconigi, il 9 settembre 1909), che approva il nuovo statuto organico della Cassa di risparmio Marrucina di Chieti.   
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CCCLIX (Dato a Racconigi, il 9 settembre 1909), che approva il nuovo statuto organico della Cassa di risparmio Marrucina di Chieti.

@@ -1,16 +1,14 @@
-REGIO DECRETO 09 settembre 1872 n. 1014
-
-
-REGIO DECRETO 09 settembre 1872 n. 1014
-=======================================
-
-Che determina l'anzianita' di Sottotenenti Cavalleria provenienti dalla Scuola militare di Fanteria e Cavalleria. (072U1014)
-----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/10/1872
+---
+tipo: REGIO DECRETO
+numero: 1014
+data: 1872-09-09
+titolo: "Che determina l'anzianita' di Sottotenenti Cavalleria provenienti dalla Scuola militare di Fanteria e Cavalleria. (072U1014)"
+urn: urn:nir:stato:regio.decreto:1872-09-09;1014
+codice_redazionale: 072U1014
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,27 +18,20 @@ Vista la Legge in data 13 novembre 1853 sull' avanzamento nell'esercito, ed il R
 
 Udita la Relazione d'oggi del Nostro Ministro Segretario di Stato per gli Affari della Guerra;
 
-Sulla
------
+Sulla proposta del medesimo; Abbiamo decretato e decretiamo:
 
-proposta del medesimo; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al § 13 del Regolamento 5 giugno 1854 per l'avanzamento nell'esercito e' aggiunto il seguente alinea:   
-  
-«L'anzianita' fra i Sottotenenti di Cavalleria nominati nello stesso giorno e' determinata, all'epoca in cui avranno compiuto un corso annuale d'istruzione presso la Scuola normale di cavalleria, sulla media complessiva dei punti riportati negli esami finali subiti alle Scuole militare e normale.»   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 9 settembre 4872.   
-  
-VITTORIO EMANUELE   
-  
-Ricotti.   
-  
-Visto, Il Guardasigilli: De Falco.   
-  
+Al § 13 del Regolamento 5 giugno 1854 per l'avanzamento nell'esercito e' aggiunto il seguente alinea: 
+ 
+ «L'anzianita' fra i Sottotenenti di Cavalleria nominati nello stesso giorno e' determinata, all'epoca in cui avranno compiuto un corso annuale d'istruzione presso la Scuola normale di cavalleria, sulla media complessiva dei punti riportati negli esami finali subiti alle Scuole militare e normale.» 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 9 settembre 4872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Ricotti. 
+ 
+ Visto, Il Guardasigilli: De Falco.

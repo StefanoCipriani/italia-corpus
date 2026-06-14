@@ -1,16 +1,14 @@
-REGIO DECRETO 23 febbraio 1871 n. 111
-
-
-REGIO DECRETO 23 febbraio 1871 n. 111
-=====================================
-
-Che approva la Pianta numerica degli Insegnanti, Impiegati e Serventi dell'Accademia scientifico-letteraria di Milano. (071U0111)
----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/04/1871
+---
+tipo: REGIO DECRETO
+numero: 111
+data: 1871-02-23
+titolo: "Che approva la Pianta numerica degli Insegnanti, Impiegati e Serventi dell'Accademia scientifico-letteraria di Milano. (071U0111)"
+urn: urn:nir:stato:regio.decreto:1871-02-23;111
+codice_redazionale: 071U0111
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,37 +20,22 @@ Veduta la Pianta numerica degli Insegnanti, Impiegati e Serventi dell'Accademia 
 
 Veduto il bilancio passivo della Pubblica Istruzione pel 1871;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata la Pianta numerica degli Insegnanti, Impiegati e Serventi dell'Accademia scientifico-letteraria di Milano, annessa al presente Decreto e firmata d'ordine Nostro dal Ministro Segretario di Stato per la Pubblica Istruzione.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 23 febbraio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 17 marzo 1871   
-  
-Reg. 55 Atti del Governo a c. 33. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-C. Correnti.   
-  
-
-Pianta
-
-  
-Pianta numerica degli Insegnanti, Impiegati e Serventi nell'Accademia scientifico-letteraria di Milano.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=071U011100100010110001&dgu=1871-03-29&art.dataPubblicazioneGazzetta=1871-03-29&art.codiceRedazionale=071U0111)
-  
+E' approvata la Pianta numerica degli Insegnanti, Impiegati e Serventi dell'Accademia scientifico-letteraria di Milano, annessa al presente Decreto e firmata d'ordine Nostro dal Ministro Segretario di Stato per la Pubblica Istruzione. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 23 febbraio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 17 marzo 1871 
+ 
+ Reg. 55 Atti del Governo a c. 33. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ C. Correnti.

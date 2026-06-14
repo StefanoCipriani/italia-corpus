@@ -1,17 +1,14 @@
-DECRETO-LEGGE LUOGOTENENZIALE 05 gennaio 1919 n. 14
-
-
-DECRETO-LEGGE LUOGOTENENZIALE 05 gennaio 1919 n. 14
-===================================================
-
-Che mantiene in vigore a tutto dicembre 1919 gli ultimi tre capoversi dell'art. 1 del Regio decreto 28 gennaio 1915, n. 48, circa l'amministrazione della giustizia nei luoghi colpiti dal terremoto del 13 gennaio 1915. (019U0014)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/02/1919  
-Decreto-Legge Luogotenenziale convertito dalla [L. 15 ottobre 1923, n. 2293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-10-15;2293) (in G.U. 12/11/1923, n.265).
+---
+tipo: DECRETO-LEGGE LUOGOTENENZIALE
+numero: 14
+data: 1919-01-05
+titolo: "Che mantiene in vigore a tutto dicembre 1919 gli ultimi tre capoversi dell'art. 1 del Regio decreto 28 gennaio 1915, n. 48, circa l'amministrazione della giustizia nei luoghi colpiti dal terremoto del 13 gennaio 1915. (019U0014)"
+urn: urn:nir:stato:decreto.legge.luogotenenziale:1919-01-05;14
+codice_redazionale: 019U0014
+vigente: true
+---
 
 TOMASO DI SAVOIA DUCA DI GENOVA
--------------------------------
 
 Luogotenente Generale di Sua Maesta'
 
@@ -29,33 +26,22 @@ Ritenuta l'opportunita' di prorogare ancora per un anno nei luoghi suddetti l'or
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del guardasigilli, ministro segretario di Stato per gli affari di grazia e giustizia e dei culti; Abbiamo decretato e decretiamo:
 
-proposta del guardasigilli, ministro segretario di Stato per gli affari di grazia e giustizia e dei culti; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Le disposizioni contenute negli ultimi tre capoversi dell'[art. 1 del R. decreto 28 gennaio 1915, n. 48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-28;48#art_1), recante provvedimenti relativi all'amministrazione della giustizia nei luoghi colpiti dal terremoto del 13 gennaio 1915, restano in vigore fino a tutto dicembre 1919.
 
-  
-  
-Le disposizioni contenute negli ultimi tre capoversi dell'[art. 1 del R. decreto 28 gennaio 1915, n. 48](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-28;48~art1), recante provvedimenti relativi all'amministrazione della giustizia nei luoghi colpiti dal terremoto del 13 gennaio 1915, restano in vigore fino a tutto dicembre 1919.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 gennaio 1919.   
-  
-TOMASO DI SAVOIA.   
-  
-ORLANDO - SACCHI.   
-  
-Vieto, Il guardasigilli: SACCHI.   
-  
+Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 gennaio 1919. 
+ 
+ TOMASO DI SAVOIA. 
+ 
+ ORLANDO - SACCHI. 
+ 
+ Vieto, Il guardasigilli: SACCHI.

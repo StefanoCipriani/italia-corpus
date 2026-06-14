@@ -1,16 +1,14 @@
-REGIO DECRETO 25 aprile 1907 n. 251
-
-
-REGIO DECRETO 25 aprile 1907 n. 251
-===================================
-
-Concernenti rettificazione del decreto che stabilisce i posti di professore ordinario e straordinario delle scuole medie. (007U0251)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/06/1907
+---
+tipo: REGIO DECRETO
+numero: 251
+data: 1907-04-25
+titolo: "Concernenti rettificazione del decreto che stabilisce i posti di professore ordinario e straordinario delle scuole medie. (007U0251)"
+urn: urn:nir:stato:regio.decreto:1907-04-25;251
+codice_redazionale: 007U0251
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,34 +22,23 @@ Ritenuto che nel Nostro decreto succitato non fu tenuto conto della disposizione
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il Nostro decreto 1° ottobre 1906, che stabilisce i posti di professori ordinari e straordinari delle scuole medio per l'anno scolastico 1906-907 e' rettificato nel senso che i posti di professori ordinario e straordinario delle scuole normali maschili del 3° ordine di ruolo gruppo C sono diminuiti da 58 a 47 (quarantasette);
 
-  
-  
-Il Nostro decreto 1° ottobre 1906, che stabilisce i posti di professori ordinari e straordinari delle scuole medio per l'anno scolastico 1906-907 e' rettificato nel senso che i posti di professori ordinario e straordinario delle scuole normali maschili del 3° ordine di ruolo gruppo C sono diminuiti da 58 a 47 (quarantasette);   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Nelle tabelle annesso al detto Nostro decreto sono soppressi i posti per l'insegnamento dell'agraria nelle scuole normali maschili di Bari, Caserta, Catania, Firenze, Foggia, Messina, Milano, Napoli, Padova, Palermo, Perugia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 aprile 1907.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti.   
-Rava.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+Nelle tabelle annesso al detto Nostro decreto sono soppressi i posti per l'insegnamento dell'agraria nelle scuole normali maschili di Bari, Caserta, Catania, Firenze, Foggia, Messina, Milano, Napoli, Padova, Palermo, Perugia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 aprile 1907. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti. 
+ Rava. 
+ 
+ Visto, Il guardasigilli: Orlando.

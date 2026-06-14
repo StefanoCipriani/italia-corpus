@@ -1,21 +1,17 @@
-REGIO DECRETO 09 aprile 1931 n. 842
+---
+tipo: REGIO DECRETO
+numero: 842
+data: 1931-04-09
+titolo: "Fissazione del contributo scolastico del comune di Arenzano. (031U0842)"
+urn: urn:nir:stato:regio.decreto:1931-04-09;842
+codice_redazionale: 031U0842
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 aprile 1931 n. 842
-===================================
-
-Fissazione del contributo scolastico del comune di Arenzano. (031U0842)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/07/1931
-
-Art. 1
-------
-
-  
-N.842. R. decreto 9 aprile 1931, col quale, sulla proposta del Ministro per l'educazione nazionale, di concerto con quello per le finanze, il contributo scolastico che il comune di Arenzano, della provincia di Genova, deve annualmente versare alla Regia tesoreria dello Stato in applicazione dell'[art. 17 della legge 4 giugno 1911, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487~art17), e' fissato in L. 31.884,43 a decorrere dal 1° luglio 1926.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 4 luglio 1931 - Anno IX   
-  
+N.842. R. decreto 9 aprile 1931, col quale, sulla proposta del Ministro per l'educazione nazionale, di concerto con quello per le finanze, il contributo scolastico che il comune di Arenzano, della provincia di Genova, deve annualmente versare alla Regia tesoreria dello Stato in applicazione dell'[art. 17 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), e' fissato in L. 31.884,43 a decorrere dal 1° luglio 1926. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 4 luglio 1931 - Anno IX

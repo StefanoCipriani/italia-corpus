@@ -1,20 +1,17 @@
-REGIO DECRETO 08 gennaio 1865 n. MDIX
+---
+tipo: REGIO DECRETO
+numero: MDIX
+data: 1865-01-08
+titolo: "Che approva il regolamento di polizia rurale del Comune di Carbonara di Nola, in Terra di Lavoro, del 27 giugno 1864. (6501509R)"
+urn: urn:nir:stato:regio.decreto:1865-01-08;1509
+codice_redazionale: 6501509R
+vigente: true
+---
 
-
-REGIO DECRETO 08 gennaio 1865 n. MDIX
-=====================================
-
-Che approva il regolamento di polizia rurale del Comune di Carbonara di Nola, in Terra di Lavoro, del 27 giugno 1864. (6501509R)
---------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/01/1865
-
-Art. 1
-------
+## Art. 1.
 
 Che approva il regolamento di polizia rurale del Comune di Carbonara di Nola, in Terra di Lavoro, del 27 giugno
 
-1864. 
-  
-  
+1864.
+
 Torino 8 gennaio 1865

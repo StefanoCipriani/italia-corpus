@@ -1,16 +1,14 @@
-REGIO DECRETO 03 febbraio 1936 n. 289
-
-
-REGIO DECRETO 03 febbraio 1936 n. 289
-=====================================
-
-Autorizzazione al comune di Vercelli a riscuotere le imposte di consumo con la tariffa della classe D. (036U0289)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/03/1936
+---
+tipo: REGIO DECRETO
+numero: 289
+data: 1936-02-03
+titolo: "Autorizzazione al comune di Vercelli a riscuotere le imposte di consumo con la tariffa della classe D. (036U0289)"
+urn: urn:nir:stato:regio.decreto:1936-02-03;289
+codice_redazionale: 036U0289
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,27 +20,19 @@ Vista la domanda avanzata dal comune di Vercelli per avvalersi della disposizion
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Vercelli e' autorizzato ad applicare, fino al 31 dicembre 1937, le imposte di consumo entro i limiti stabiliti per i Comuni della classe D.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Roma, addi' 3 febbraio 1936 - Anno XIV   
-  
-VITTORIO EMANUELE   
-  
-Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 29 febbraio 1936 - Anno XIV   
-Atti del Governo, registro 369, foglio 157. - Mancini.   
-  
-  
+Il comune di Vercelli e' autorizzato ad applicare, fino al 31 dicembre 1937, le imposte di consumo entro i limiti stabiliti per i Comuni della classe D. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Roma, addi' 3 febbraio 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 29 febbraio 1936 - Anno XIV  
+ Atti del Governo, registro 369, foglio 157. - Mancini.

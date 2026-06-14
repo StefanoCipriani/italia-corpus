@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 13 aprile 1916 n. 586
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 586
+data: 1916-04-13
+titolo: "Annullamento di partite scolastiche a carico di Comuni. (016U0586)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-04-13;586
+codice_redazionale: 016U0586
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 13 aprile 1916 n. 586
-=============================================
-
-Annullamento di partite scolastiche a carico di Comuni. (016U0586)
-------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/06/1916
-
-Art. 1
-------
-
-null
+## Art. 1. — null

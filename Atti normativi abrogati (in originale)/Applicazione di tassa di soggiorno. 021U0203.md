@@ -1,17 +1,13 @@
-REGIO DECRETO 31 gennaio 1921 n. 203
+---
+tipo: REGIO DECRETO
+numero: 203
+data: 1921-01-31
+titolo: "Applicazione di tassa di soggiorno. (021U0203)"
+urn: urn:nir:stato:regio.decreto:1921-01-31;203
+codice_redazionale: 021U0203
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 gennaio 1921 n. 203
-====================================
-
-Applicazione di tassa di soggiorno. (021U0203)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 27/03/1921
-
-Art. 1
-------
-
-  
-N 203 Regio decreto 31 gennaio 1921, col quale sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, si autorizza il comune di Biella (Novara), ad applicare la tassa di soggiorno e se ne omologa il regolamento.   
-  
+N 203 Regio decreto 31 gennaio 1921, col quale sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, si autorizza il comune di Biella (Novara), ad applicare la tassa di soggiorno e se ne omologa il regolamento.

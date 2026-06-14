@@ -1,16 +1,14 @@
-REGIO DECRETO 18 settembre 1870 n. 5930
-
-
-REGIO DECRETO 18 settembre 1870 n. 5930
-=======================================
-
-Col quale il posto di studio per la medicina, fondato da Stanislao Melchiorre, e' protratto da tre a sei anni. (070U5930)
--------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1870
+---
+tipo: REGIO DECRETO
+numero: 5930
+data: 1870-09-18
+titolo: "Col quale il posto di studio per la medicina, fondato da Stanislao Melchiorre, e' protratto da tre a sei anni. (070U5930)"
+urn: urn:nir:stato:regio.decreto:1870-09-18;5930
+codice_redazionale: 070U5930
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,29 +26,22 @@ Sentita pure l'Amministrazione del Fondo per il culto a motivo delle competenze 
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Segretario di Stato, Ministro per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Segretario di Stato, Ministro per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il posto di studio per la medicina, fondato da Stanislao Melchiorre, con testamento del di' 10 maggio 1835, presso la Regia Universita' di Napoli, e' protratto da tre a sei anni e non piu'; ferme tutte le altre disposizioni non abrogate ne' contrarie a questo Nostro Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 18 settembre 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei Conti addi' 17 ottobre 1870   
-  
-Reg. 52 Atti del Governo a c. 179. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-C. Correnti.   
-  
+Il posto di studio per la medicina, fondato da Stanislao Melchiorre, con testamento del di' 10 maggio 1835, presso la Regia Universita' di Napoli, e' protratto da tre a sei anni e non piu'; ferme tutte le altre disposizioni non abrogate ne' contrarie a questo Nostro Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 18 settembre 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei Conti addi' 17 ottobre 1870 
+ 
+ Reg. 52 Atti del Governo a c. 179. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ C. Correnti.

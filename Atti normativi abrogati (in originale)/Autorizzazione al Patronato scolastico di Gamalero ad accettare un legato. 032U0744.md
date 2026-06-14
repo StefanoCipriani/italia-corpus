@@ -1,21 +1,21 @@
-REGIO DECRETO 26 maggio 1932 n. 744
+---
+tipo: REGIO DECRETO
+numero: 744
+data: 1932-05-26
+titolo: "Autorizzazione al Patronato scolastico di Gamalero ad accettare un legato. (032U0744)"
+urn: urn:nir:stato:regio.decreto:1932-05-26;744
+codice_redazionale: 032U0744
+vigente: true
+---
 
-
-REGIO DECRETO 26 maggio 1932 n. 744
-===================================
-
-Autorizzazione al Patronato scolastico di Gamalero ad accettare un legato. (032U0744)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/07/1932
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-744. R. decreto 26 maggio 1932, col quale, sulla proposta del Ministro per l'educazione nazionale, il Patronato scolastico di Gamalero e' autorizzato ad accettare il legato di L. 10.000 nominali in consolidato 5 %, disposto in suo favore dal defunto avv. Pietro Piccini.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 14 giugno 1932 - Anno X
+744.
+
+R. decreto 26 maggio 1932, col quale, sulla proposta del Ministro per l'educazione nazionale, il Patronato scolastico di Gamalero e' autorizzato ad accettare il legato di L. 10.000 nominali in consolidato 5 %, disposto in suo favore dal defunto avv. Pietro Piccini. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 14 giugno 1932 - Anno X

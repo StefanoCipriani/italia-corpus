@@ -1,16 +1,14 @@
-REGIO DECRETO 04 dicembre 1927 n. 2771
-
-
-REGIO DECRETO 04 dicembre 1927 n. 2771
-======================================
-
-Aumento del contributo annuo dello Stato al Consorzio pei rimboschimenti da eseguirsi nella provincia di Messina. (027U2771)
-----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/02/1928
+---
+tipo: REGIO DECRETO
+numero: 2771
+data: 1927-12-04
+titolo: "Aumento del contributo annuo dello Stato al Consorzio pei rimboschimenti da eseguirsi nella provincia di Messina. (027U2771)"
+urn: urn:nir:stato:regio.decreto:1927-12-04;2771
+codice_redazionale: 027U2771
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,38 +20,27 @@ Visti i successivi Nostri decreti 6 settembre 1902, n. 417, 26 giugno 1904, n. 3
 
 Visto che la provincia di Messina ha portato il suo contributo ai detti lavori a L. 100,000 annue, come dalla deliberazione 30 dicembre 1925 della Commissione Reale per l'amministrazione straordinaria di quella Provincia;
 
-Visto l'[art. 75 del R. decreto 30 dicembre 1923, n. 3267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267~art75);
+Visto l'[art. 75 del R. decreto 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267#art_75);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il contributo annuo dello Stato al Consorzio pei rimboschimenti da eseguirsi nella provincia di Messina, determinato nella somma di L. 70,000 col [R. decreto 9 novembre 1925, n. 2116](Aumento%20del%20contributo%20annuo%20dello%20Stato%20al%20Consorzio%20dei%20rimboschimenti%20della%20provincia%20di%20Messina.%20025U2116.md), e' elevato, a decorrere dall'esercizio finanziario 1927-1928, alla somma di L. 100,000, corrispondente al contributo stabilito dalla Provincia interessata.
 
-  
-  
-Il contributo annuo dello Stato al Consorzio pei rimboschimenti da eseguirsi nella provincia di Messina, determinato nella somma di L. 70,000 col [R. decreto 9 novembre 1925, n. 2116](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-11-09;2116), e' elevato, a decorrere dall'esercizio finanziario 1927-1928, alla somma di L. 100,000, corrispondente al contributo stabilito dalla Provincia interessata.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-La somma di L. 100,000 anzidetta sara' prelevata dal fondo stanziato al capitolo 82-bis del bilancio passivo di questo Ministero per l'esercizio 1927-1928 ed ai capitoli corrispondenti per i bilanci degli esercizi futuri.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 dicembre 1927 - Anno VI   
-  
-VITTORIO EMANUELE.   
-  
-Belluzzo.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 7 febbraio 1928 - Anno VI   
-Atti del Governo, registro 269, foglio 74. - Sirovich.   
-  
+La somma di L. 100,000 anzidetta sara' prelevata dal fondo stanziato al capitolo 82-bis del bilancio passivo di questo Ministero per l'esercizio 1927-1928 ed ai capitoli corrispondenti per i bilanci degli esercizi futuri. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 dicembre 1927 - Anno VI 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Belluzzo. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 7 febbraio 1928 - Anno VI  
+ Atti del Governo, registro 269, foglio 74. - Sirovich.

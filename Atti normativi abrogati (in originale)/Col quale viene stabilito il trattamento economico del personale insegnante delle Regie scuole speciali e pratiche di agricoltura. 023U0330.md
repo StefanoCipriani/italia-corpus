@@ -1,133 +1,79 @@
-REGIO DECRETO 11 gennaio 1923 n. 330
-
-
-REGIO DECRETO 11 gennaio 1923 n. 330
-====================================
-
-Col quale viene stabilito il trattamento economico del personale insegnante delle Regie scuole speciali e pratiche di agricoltura. (023U0330)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/04/1923
+---
+tipo: REGIO DECRETO
+numero: 330
+data: 1923-01-11
+titolo: "Col quale viene stabilito il trattamento economico del personale insegnante delle Regie scuole speciali e pratiche di agricoltura. (023U0330)"
+urn: urn:nir:stato:regio.decreto:1923-01-11;330
+codice_redazionale: 023U0330
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D' ITALIA
 
-Vista la [legge 3 dicembre 1922, n. 1601](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1922-12-03;1601);
+Vista la [legge 3 dicembre 1922, n. 1601](Concernente%20Delegazione%20di%20pieni%20poteri%20al%20Governo%20del%20Re%20per%20il%20riordinamento%20del%20sistema%20tributario%20e%20della%20pubblica%20amministrazione.%20022U1601.md);
 
-Viste le [leggi 6 giugno 1885, n. 3141, e 19 luglio 1909, n. 526](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;526);
+Viste le [leggi 6 giugno 1885, n. 3141, e 19 luglio 1909, n. 526](Provvedimenti%20pel%20miglioramento%20economico%20dei%20professori%20delle%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20009U0526.md);
 
 Visto il decreto Reale 17 agosto 1919, n. 1710;
 
-Visto il [Regio decreto 14 agosto 1920, n. 1846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-08-14;1846);
+Visto il [Regio decreto 14 agosto 1920, n. 1846](Che%20stabilisce%20gli%20stipendi%20e%20gli%20assegni%20del%20personale%20delle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20020U1846.md);
 
-Visto il [Regio decreto 30 settembre 1922, n. 1290](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-09-30;1290);
+Visto il [Regio decreto 30 settembre 1922, n. 1290](Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md);
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, di concerto con quello delle finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per l'agricoltura, di concerto con quello delle finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Le tabelle A, B, C, annesse al [R. decreto 14 agosto 1920, n. 1846](Che%20stabilisce%20gli%20stipendi%20e%20gli%20assegni%20del%20personale%20delle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20020U1846.md), recanti gli stipendi degli insegnanti ordinari e straordinari delle RR. scuole speciali e pratiche di agricoltura, sono sostituite, rispettivamente, dalle tabelle A, B, C, annesse al presente decreto.
 
-  
-  
-  
-Le tabelle A, B, C, annesse al [R. decreto 14 agosto 1920, n. 1846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-08-14;1846), recanti gli stipendi degli insegnanti ordinari e straordinari delle RR. scuole speciali e pratiche di agricoltura, sono sostituite, rispettivamente, dalle tabelle A, B, C, annesse al presente decreto.   
+## Art. 2.
 
-Art. 2
-------
+Ogni insegnante di qualsiasi ruolo, consegue successivamente, a datare dal suo passaggio ad ordinario, sei aumenti, di cui quattro quadriennali e due quinquennali, nelle misure indicate dalle tabelle A, B, C, fino al limite massimo dalle tabelle stesse portato. 
+ 
+ L'insegnante che abbia conseguito durante la sua carriera tre aumenti per merito distinto, secondo le norme dell'[art. 3 del R. decreto 14 agosto 1920, n. 1846](Che%20stabilisce%20gli%20stipendi%20e%20gli%20assegni%20del%20personale%20delle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20020U1846.md), ha diritto al settimo aumento quadriennale, indicato nelle tabelle A, B, C.
 
-  
-  
-  
-Ogni insegnante di qualsiasi ruolo, consegue successivamente, a datare dal suo passaggio ad ordinario, sei aumenti, di cui quattro quadriennali e due quinquennali, nelle misure indicate dalle tabelle A, B, C, fino al limite massimo dalle tabelle stesse portato.   
-  
-L'insegnante che abbia conseguito durante la sua carriera tre aumenti per merito distinto, secondo le norme dell'[art. 3 del R. decreto 14 agosto 1920, n. 1846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-08-14;1846~art3), ha diritto al settimo aumento quadriennale, indicato nelle tabelle A, B, C.   
-  
+## Art. 3.
 
-Art. 3
-------
+Gl'insegnanti dei tre ruoli, saranno collocati nei quadri degli stipendi con le norme di cui all'[art. 4 del R. decreto 14 agosto 1920, n. 1846](Che%20stabilisce%20gli%20stipendi%20e%20gli%20assegni%20del%20personale%20delle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20020U1846.md).
 
-  
-  
-  
-Gl'insegnanti dei tre ruoli, saranno collocati nei quadri degli stipendi con le norme di cui all'[art. 4 del R. decreto 14 agosto 1920, n. 1846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-08-14;1846~art4).   
-  
+## Art. 4.
 
-Art. 4
-------
+Al personale insegnante delle Regie scuole speciali e pratiche di agricoltura sono estese le disposizioni di cui agli articoli 41 a 45 incluso, 58, 59 e 66 del [R. decreto 30 settembre 1922, n. 1290](Contenente%20le%20tabelle%20degli%20stipendi%20nonche%20le%20relative%20norme%20di%20carriera%20per%20il%20personale%20contemplato%20dalla%20legge%2013%20agosto%201921%20n.%201080%20sulla%20riforma%20dellAmministrazione%20dello%20Stato%20la%20_ebf2b29d612c.md).
 
-  
-  
-  
-Al personale insegnante delle Regie scuole speciali e pratiche di agricoltura sono estese le disposizioni di cui agli articoli 41 a 45 incluso, 58, 59 e 66 del [R. decreto 30 settembre 1922, n. 1290](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-09-30;1290).   
-  
+## Art. 5.
 
-Art. 5
-------
+Le tabelle per gli stipendi, annesse al presente decreto, saranno applicate a decorrere dal 1° aprile 1922.
 
-  
-  
-  
-Le tabelle per gli stipendi, annesse al presente decreto, saranno applicate a decorrere dal 1° aprile 1922.   
-  
+## Art. 6.
 
-Art. 6
-------
+Agli insegnanti, ai quali a norma dell'[articolo 3 del R. decreto 17 agosto 1919, n. 1710](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-17;1710#art_3), sia conferito l'incarico della direzione di una scuola, sara' corrisposta una indennita' annua da L. 1000 a L. 1700, aumentabile a L. 2000 per le scuole a doppio corso.
 
-  
-  
-  
-Agli insegnanti, ai quali a norma dell'[articolo 3 del R. decreto 17 agosto 1919, n. 1710](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-17;1710~art3), sia conferito l'incarico della direzione di una scuola, sara' corrisposta una indennita' annua da L. 1000 a L. 1700, aumentabile a L. 2000 per le scuole a doppio corso.   
-  
+## Art. 7.
 
-Art. 7
-------
+Ai fini della concessione del 7° aumento di stipendio, di cui all'art. 2 del presento decreto, saranno sottoposti a speciale giudizio di merito, gli insegnanti che, al 1° dicembre 1922, abbiano compiuti 30 o piu' anni di servizio, valutati coi criteri seguiti per l'inquadramento in applicazione del [R. decreto 14 agosto 1920, n. 1846](Che%20stabilisce%20gli%20stipendi%20e%20gli%20assegni%20del%20personale%20delle%20RR.%20scuole%20speciali%20e%20pratiche%20di%20agricoltura.%20020U1846.md). 
+ 
+ Ad eguale giudizio saranno sottoposti, al compimento del 30° anno di servizio, quegli insegnanti che debbono ancora compiere un numero di anni di servizio tale che non consenta loro di aspirare alle tre promozioni per merito necessarie per conseguire il 7° aumento di stipendio. 
+ 
+ Per gli insegnanti che, al 1° dicembre 1922, abbiano compiuto 31 o piu' anni di servizio e riportino giudizio favorevole, il settimo aumento di stipendio decorrera' dal 1° aprile 1922.
 
-  
-  
-  
-Ai fini della concessione del 7° aumento di stipendio, di cui all'art. 2 del presento decreto, saranno sottoposti a speciale giudizio di merito, gli insegnanti che, al 1° dicembre 1922, abbiano compiuti 30 o piu' anni di servizio, valutati coi criteri seguiti per l'inquadramento in applicazione del [R. decreto 14 agosto 1920, n. 1846](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-08-14;1846).   
-  
-Ad eguale giudizio saranno sottoposti, al compimento del 30° anno di servizio, quegli insegnanti che debbono ancora compiere un numero di anni di servizio tale che non consenta loro di aspirare alle tre promozioni per merito necessarie per conseguire il 7° aumento di stipendio.   
-  
-Per gli insegnanti che, al 1° dicembre 1922, abbiano compiuto 31 o piu' anni di servizio e riportino giudizio favorevole, il settimo aumento di stipendio decorrera' dal 1° aprile 1922.   
-  
+## Art. 8.
 
-Art. 8
-------
-
-  
-  
-  
-Con decreto del Ministro delle finanze saranno inscritti nello stato di previsione della spesa del Ministero per l'agricoltura i fondi per la esecuzione del presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 gennaio 1923.   
-  
-VITTORIO EMANUELE.   
-  
-MUSSOLINI.   
-DE CAPITANI D'ARZAGO.   
-DE STEFANI.   
-  
-Visto il Guardasigilli: OVIGLIO.   
-  
-
-Tabella
-
-  
-TABELLA DEGLI STIPENDI   
-  
-per gli insegnanti delle Regie scuole speciali e pratiche di agricoltura.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=023U033000100010110001&dgu=1923-03-28&art.dataPubblicazioneGazzetta=1923-03-28&art.codiceRedazionale=023U0330)
-  
+Con decreto del Ministro delle finanze saranno inscritti nello stato di previsione della spesa del Ministero per l'agricoltura i fondi per la esecuzione del presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 gennaio 1923. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ MUSSOLINI. 
+ DE CAPITANI D'ARZAGO. 
+ DE STEFANI. 
+ 
+ Visto il Guardasigilli: OVIGLIO.

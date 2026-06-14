@@ -1,16 +1,14 @@
-REGIO DECRETO 01 ottobre 1865 n. 2535
-
-
-REGIO DECRETO 01 ottobre 1865 n. 2535
-=====================================
-
-Che determina le annue dotazioni da assegnarsi alle Deputazioni di Storia Patria dell'Emilia. (065U2535)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/11/1865
+---
+tipo: REGIO DECRETO
+numero: 2535
+data: 1865-10-01
+titolo: "Che determina le annue dotazioni da assegnarsi alle Deputazioni di Storia Patria dell'Emilia. (065U2535)"
+urn: urn:nir:stato:regio.decreto:1865-10-01;2535
+codice_redazionale: 065U2535
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,31 +22,23 @@ Visto il Bilancio dell'anno corrente nel quale fu ridotto quello stanziamento a 
 
 Tenuto conto delle proporzioni della distribuzione del primo assegnamento;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Interno, incaricato interinalmente del Portafoglio della Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Interno, incaricato interinalmente del Portafoglio della Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono assegnate come dotazione annua lire mille ottocento a ciascuna delle due Deputazioni di Storia Patria delle Provincie Modenesi e delle Parmensi, e lire due mila quattrocento alla Deputazione di Storia Patria delle Provincie delle Romagne.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 1.° ottobre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 21 ottobre 1865   
-  
-Reg. 33 Atti del Governo a c. 261. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
-Quintino Sella.   
-  
-  
+Sono assegnate come dotazione annua lire mille ottocento a ciascuna delle due Deputazioni di Storia Patria delle Provincie Modenesi e delle Parmensi, e lire due mila quattrocento alla Deputazione di Storia Patria delle Provincie delle Romagne. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 1.° ottobre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 21 ottobre 1865 
+ 
+ Reg. 33 Atti del Governo a c. 261. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli. 
+ Quintino Sella.

@@ -1,19 +1,15 @@
-REGIO DECRETO 30 giugno 1910 n. CCXL
+---
+tipo: REGIO DECRETO
+numero: CCXL
+data: 1910-06-30
+titolo: "Col quale si approva lo statuto della Cassa agraria di Rivello. (1000240R)"
+urn: urn:nir:stato:regio.decreto:1910-06-30;240
+codice_redazionale: 1000240R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 giugno 1910 n. CCXL
-====================================
-
-Col quale si approva lo statuto della Cassa agraria di Rivello. (1000240R)
---------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/08/1910
-
-Art. 1
-------
-
-  
-Sula proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. CCXL (Dato a Roma, il 30 giugno 1910), col quale si approva lo statuto della Cassa agraria di Rivello.   
-  
+Sula proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. CCXL (Dato a Roma, il 30 giugno 1910), col quale si approva lo statuto della Cassa agraria di Rivello.

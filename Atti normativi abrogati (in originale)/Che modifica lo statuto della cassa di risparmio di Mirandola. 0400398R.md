@@ -1,22 +1,19 @@
-REGIO DECRETO 26 settembre 1904 n. CCCXCVIII
+---
+tipo: REGIO DECRETO
+numero: CCCXCVIII
+data: 1904-09-26
+titolo: "Che modifica lo statuto della cassa di risparmio di Mirandola. (0400398R)"
+urn: urn:nir:stato:regio.decreto:1904-09-26;398
+codice_redazionale: 0400398R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 settembre 1904 n. CCCXCVIII
-============================================
+Che modifica lo statuto della cassa di risparmio di Mirandola. - Firmato VITTORIO EMANUELE - Controfirmato Rava - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 10 ottobre
 
-Che modifica lo statuto della cassa di risparmio di Mirandola. (0400398R)
--------------------------------------------------------------------------
+1904.
 
-Entrata in vigore del provvedimento: 01/11/1904
-
-Art. 1
-------
-
-Che modifica lo statuto della cassa di risparmio di Mirandola. - Firmato VITTORIO EMANUELE - Controfirmato Rava - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 10 ottobre
-
-1904. 
-  
-  
 Reg. 19. Atti del Governo a f. 27.

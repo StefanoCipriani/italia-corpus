@@ -1,16 +1,14 @@
-REGIO DECRETO 10 novembre 1867 n. 4032
-
-
-REGIO DECRETO 10 novembre 1867 n. 4032
-======================================
-
-Che determina la procedura pel giudizio dei reclami contro l'applicazione delle multe censuarie. (067U4032)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/12/1867
+---
+tipo: REGIO DECRETO
+numero: 4032
+data: 1867-11-10
+titolo: "Che determina la procedura pel giudizio dei reclami contro l'applicazione delle multe censuarie. (067U4032)"
+urn: urn:nir:stato:regio.decreto:1867-11-10;4032
+codice_redazionale: 067U4032
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,39 +24,26 @@ Volendo evitare questo inconveniente, e nel tempo stesso rendere piu' spedita la
 
 Sulla proposizione del Ministro delle Finanze;
 
-Sentito
--------
+Sentito il Consiglio di Stato; Abbiamo decretato e decretiamo quanto segue:
 
-il Consiglio di Stato; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+Contro l'applicazione delle multe censuarie fatta amministrativamente, giusta le Leggi ed i Regolamenti che vigono in Lombardia, e' autorizzato, come per lo passato, il ricorso alle Prefetture provinciali. 
+ 
+ E dalle decisioni di queste potra' ricorrersi al Ministero delle Finanze. Il giudizio del Ministero delle Finanze sara' definitivo.
 
-  
-  
-Contro l'applicazione delle multe censuarie fatta amministrativamente, giusta le Leggi ed i Regolamenti che vigono in Lombardia, e' autorizzato, come per lo passato, il ricorso alle Prefetture provinciali.   
-  
-E dalle decisioni di queste potra' ricorrersi al Ministero delle Finanze. Il giudizio del Ministero delle Finanze sara' definitivo.   
-  
+## Art. 2. — null
 
-Art. 2
-------
-
-null
-
-  
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 10 novembre 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 18 novembre 1867   
-  
-Reg. 41 Atti del Governo a c. 110. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli A. Mari.   
-  
-L. G. Cambray Digny.   
-  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 10 novembre 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 18 novembre 1867 
+ 
+ Reg. 41 Atti del Governo a c. 110. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli A. Mari. 
+ 
+ L. G. Cambray Digny.

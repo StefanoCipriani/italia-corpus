@@ -1,16 +1,14 @@
-REGIO DECRETO 27 aprile 1899 n. 175
-
-
-REGIO DECRETO 27 aprile 1899 n. 175
-===================================
-
-Istituente un secondo posto di notaio nel Comune di Martano, distretto notarile di Lecce. (099U0175)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/06/1899
+---
+tipo: REGIO DECRETO
+numero: 175
+data: 1899-04-27
+titolo: "Istituente un secondo posto di notaio nel Comune di Martano, distretto notarile di Lecce. (099U0175)"
+urn: urn:nir:stato:regio.decreto:1899-04-27;175
+codice_redazionale: 099U0175
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,29 +18,22 @@ Vista la deliberazione colla quale il Consiglio Comunale di Martano ha chiesto c
 
 Viste le deliberazioni dei Consigli provinciale o notarile di Lecce;
 
-Visto l'[articolo 4 della legge 25 maggio 1879, numero 4900](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-05-25;4900~art4), e la tabella del numero e delle residenze dei notai del Regno, approvata con Nostro decreto 11 giugno 1882, n. 810;
+Visto l'[articolo 4 della legge 25 maggio 1879, numero 4900](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-05-25;4900#art_4), e la tabella del numero e delle residenze dei notai del Regno, approvata con Nostro decreto 11 giugno 1882, n. 810;
 
 Ritenuta dimostrata la necessita' dell'istituzione di un altro posto di notaio in Martano;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un secondo posto di notaio nel Comune di Martano, distretto notarile di Lecce.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 aprile 1899.   
-  
-UMBERTO.   
-  
-C. FINOCCHIARO-APRILE.   
-  
-Visto, Il Guardasigilli: C. FINOCCHIARO-APRILE.   
-  
+E' istituito un secondo posto di notaio nel Comune di Martano, distretto notarile di Lecce. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 aprile 1899. 
+ 
+ UMBERTO. 
+ 
+ C. FINOCCHIARO-APRILE. 
+ 
+ Visto, Il Guardasigilli: C. FINOCCHIARO-APRILE.

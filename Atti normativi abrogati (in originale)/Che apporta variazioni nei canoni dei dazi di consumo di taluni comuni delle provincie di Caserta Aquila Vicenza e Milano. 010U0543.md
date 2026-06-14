@@ -1,16 +1,14 @@
-REGIO DECRETO 23 giugno 1910 n. 543
-
-
-REGIO DECRETO 23 giugno 1910 n. 543
-===================================
-
-Che apporta variazioni nei canoni dei dazi di consumo di taluni comuni delle provincie di Caserta, Aquila, Vicenza e Milano. (010U0543)
----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/08/1910
+---
+tipo: REGIO DECRETO
+numero: 543
+data: 1910-06-23
+titolo: "Che apporta variazioni nei canoni dei dazi di consumo di taluni comuni delle provincie di Caserta, Aquila, Vicenza e Milano. (010U0543)"
+urn: urn:nir:stato:regio.decreto:1910-06-23;543
+codice_redazionale: 010U0543
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,33 +22,18 @@ Visto l'art. 110, lettera C, del testo unico di legge sui dazi interni di consum
 
 Vista la relazione della Commissione centrale che ha determinato le variazioni da apportarsi ai canoni daziari dei suindicati Comuni per effetto delle accennate modificazioni nella circoscrizione territoriale;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono approvate le variazioni nei canoni di abbonamento ai dazi di consumo governativi per i comuni di Pereto, Prata Sannita, Casorezzo e Orgiano, come all'annesso elenco, visto, d'ordine Nostro, dal ministro proponente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 giugno 1910.   
-  
-VITTORIO EMANUELE.   
-  
-Facta.   
-  
-Visto, Il guardasigilli: Fani.   
-  
-
-Elenco
-
-  
-ELENCO dei canoni daziari governativi che devono modificarsi a seguito delle variazioni avvenute nelle circoscrizioni territoriali dei sottoindicati Comuni.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=010U054300100010110001&dgu=1910-08-12&art.dataPubblicazioneGazzetta=1910-08-12&art.codiceRedazionale=010U0543)
-  
+Sono approvate le variazioni nei canoni di abbonamento ai dazi di consumo governativi per i comuni di Pereto, Prata Sannita, Casorezzo e Orgiano, come all'annesso elenco, visto, d'ordine Nostro, dal ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 giugno 1910. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Facta. 
+ 
+ Visto, Il guardasigilli: Fani.

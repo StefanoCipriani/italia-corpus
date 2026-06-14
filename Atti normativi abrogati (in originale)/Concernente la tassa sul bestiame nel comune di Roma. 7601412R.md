@@ -1,32 +1,25 @@
-REGIO DECRETO 12 novembre 1876 n. MCCCCXII
+---
+tipo: REGIO DECRETO
+numero: MCCCCXII
+data: 1876-11-12
+titolo: "Concernente la tassa sul bestiame nel comune di Roma. (7601412R)"
+urn: urn:nir:stato:regio.decreto:1876-11-12;1412
+codice_redazionale: 7601412R
+vigente: true
+---
 
+## Articolo unico. — null
 
-REGIO DECRETO 12 novembre 1876 n. MCCCCXII
-==========================================
-
-Concernente la tassa sul bestiame nel comune di Roma. (7601412R)
-----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/12/1876
-
-Articolo unico
---------------
-
-null
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 12 novembre 1876.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 18 novembre 1876   
-  
-Vol. 88 Atti del Governo a. c. 238. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Mancini.   
-  
-Depretis.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 12 novembre 1876. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 18 novembre 1876 
+ 
+ Vol. 88 Atti del Governo a. c. 238. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Mancini. 
+ 
+ Depretis.

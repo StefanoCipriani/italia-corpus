@@ -1,16 +1,14 @@
-REGIO DECRETO 19 ottobre 1865 n. 2562
-
-
-REGIO DECRETO 19 ottobre 1865 n. 2562
-=====================================
-
-Che stabilisce il Comune di Porta San Marco Sezione elettorale separata. (065U2562)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1865
+---
+tipo: REGIO DECRETO
+numero: 2562
+data: 1865-10-19
+titolo: "Che stabilisce il Comune di Porta San Marco Sezione elettorale separata. (065U2562)"
+urn: urn:nir:stato:regio.decreto:1865-10-19;2562
+codice_redazionale: 065U2562
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,30 +20,22 @@ Vedute le istanze del Comune di Porta San Marco (Provincia di Firenze) per otten
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Porta San Marco, che sino ad ora fece parte della Sezione detta di Porta Carratica del Collegio elettorale di Pistoia 1.° Campagna, n.° 174, costituira' d'ora in poi una Sezione separata del Collegio medesimo.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 19 ottobre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corde dei conti addi' settembre 1865   
-  
-Reg.° 34 Atti del Governo a c. 18. Crodara-Visconti   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
-  
-  
+Il Comune di Porta San Marco, che sino ad ora fece parte della Sezione detta di Porta Carratica del Collegio elettorale di Pistoia 1.° Campagna, n.° 174, costituira' d'ora in poi una Sezione separata del Collegio medesimo. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 19 ottobre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corde dei conti addi' settembre 1865 
+ 
+ Reg.° 34 Atti del Governo a c. 18. Crodara-Visconti 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli.

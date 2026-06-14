@@ -1,16 +1,14 @@
-REGIO DECRETO 12 marzo 1908 n. 180
-
-
-REGIO DECRETO 12 marzo 1908 n. 180
-==================================
-
-Che istituisce in Palermo un laboratorio di chimica per le analisi dei prodotti agrari. (008U0180)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/05/1908
+---
+tipo: REGIO DECRETO
+numero: 180
+data: 1908-03-12
+titolo: "Che istituisce in Palermo un laboratorio di chimica per le analisi dei prodotti agrari. (008U0180)"
+urn: urn:nir:stato:regio.decreto:1908-03-12;180
+codice_redazionale: 008U0180
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,43 +22,28 @@ Ritenendo che per provvedere alla ricostituzione su nuove basi piu' rispondenti 
 
 Ritenendo che tale Istituto, di carattere eminentemente provvisorio, dovra' provvedere soltanto alle analisi chimiche nell'interesse del pubblico e di quelle richieste per l'applicazione di leggi speciali;
 
-Sulla
------
+Sulla proposta del Nostro ministro per l'agricoltura, l'industria e il commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro per l'agricoltura, l'industria e il commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' istituito in Palermo, annesso al R. vivaio di viti americane, un laboratorio di chimica per le analisi dei prodotti agrari nell'interesse del pubblico e per l'applicazione di leggi speciali. 
+ 
+ Tale laboratorio funzionera' fino a che non sia costituito in Palermo, con apposita disposizione legislativa, un nuovo Istituto chimico agrario sperimentale.
 
-  
-  
-E' istituito in Palermo, annesso al R. vivaio di viti americane, un laboratorio di chimica per le analisi dei prodotti agrari nell'interesse del pubblico e per l'applicazione di leggi speciali.   
-  
-Tale laboratorio funzionera' fino a che non sia costituito in Palermo, con apposita disposizione legislativa, un nuovo Istituto chimico agrario sperimentale.   
-  
+## Art. 2.
 
-Art. 2
-------
+Con appositi decreti Ministeriali sara' provveduto alle nomine per incarico straordinario del personale addetto al laboratorio medesimo.
 
-  
-  
-Con appositi decreti Ministeriali sara' provveduto alle nomine per incarico straordinario del personale addetto al laboratorio medesimo.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-La spesa relativa al mantenimento del laboratorio e al pagamento degli assegni al personale, gravera' sul capitolo 32 del bilancio 1907-908 e corrispondenti dei bilanci venturi servendosi delle somme mantenute in bilancio per il contributo del Governo a favore della soppressa stazione agraria di Palermo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 marzo 1908.   
-  
-VITTORIO EMANUELE.   
-  
-F. Cocco-Ortu.   
-  
-Vieto, Il guardasigilli: Orlando.   
-  
+La spesa relativa al mantenimento del laboratorio e al pagamento degli assegni al personale, gravera' sul capitolo 32 del bilancio 1907-908 e corrispondenti dei bilanci venturi servendosi delle somme mantenute in bilancio per il contributo del Governo a favore della soppressa stazione agraria di Palermo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 marzo 1908. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ F. Cocco-Ortu. 
+ 
+ Vieto, Il guardasigilli: Orlando.

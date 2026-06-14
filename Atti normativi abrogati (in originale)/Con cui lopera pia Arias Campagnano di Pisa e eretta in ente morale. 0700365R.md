@@ -1,22 +1,19 @@
-REGIO DECRETO 17 agosto 1907 n. CCCLXV
+---
+tipo: REGIO DECRETO
+numero: CCCLXV
+data: 1907-08-17
+titolo: "Con cui l'opera pia Arias Campagnano di Pisa e' eretta in ente morale. (0700365R)"
+urn: urn:nir:stato:regio.decreto:1907-08-17;365
+codice_redazionale: 0700365R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 agosto 1907 n. CCCLXV
-======================================
+Con cui l'opera pia Arias Campagnano di Pisa e' eretta in ente morale. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Orlando. 
+ 
+ Registrato alla Corte dei conti addi' 26 settembre
 
-Con cui l'opera pia Arias Campagnano di Pisa e' eretta in ente morale. (0700365R)
----------------------------------------------------------------------------------
+1907.
 
-Entrata in vigore del provvedimento: 17/10/1907
-
-Art. 1
-------
-
-Con cui l'opera pia Arias Campagnano di Pisa e' eretta in ente morale. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Orlando.   
-  
-Registrato alla Corte dei conti addi' 26 settembre
-
-1907. 
-  
-  
 Reg. 37. Atti del Governo a f. 67.

@@ -1,16 +1,14 @@
-REGIO DECRETO 31 dicembre 1884 n. 2868
-
-
-REGIO DECRETO 31 dicembre 1884 n. 2868
-======================================
-
-Che autorizza il comune di Teverola a riscuotere un dazio di consumo. (084U2868)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/01/1885
+---
+tipo: REGIO DECRETO
+numero: 2868
+data: 1884-12-31
+titolo: "Che autorizza il comune di Teverola a riscuotere un dazio di consumo. (084U2868)"
+urn: urn:nir:stato:regio.decreto:1884-12-31;2868
+codice_redazionale: 084U2868
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Vista la deliberazione del 27 luglio 1884, colla quale il Consiglio comunale di 
 
 Veduto il voto favorevole dato dalla Deputazione provinciale di Caserta in seduta del 28 scorso novembre;
 
-Visto l'[articolo 6 del decreto legislativo 28 giugno 1866, n. 3018](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1866-06-28;3018~art6);
+Visto l'[articolo 6 del decreto legislativo 28 giugno 1866, n. 3018](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1866-06-28;3018#art_6);
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze, Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del Ministro delle Finanze, Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Teverola, a seconda della precitata sua deliberazione del 27 luglio 1884, e' autorizzato a riscuotere sino a tutto l'anno 1885 un dazio di consumo di lire quattro al quintale sulla farina e sul pane di frumento e d'altra specie, esclusa pero' la farina ed il pane di granone.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Data a Roma, addi' 31 dicembre 1884.   
-  
-UMBERTO.   
-  
-A. MAGLIANI.   
-  
-Visto, Il Guardasigilli: PESSINA.   
-  
+Il comune di Teverola, a seconda della precitata sua deliberazione del 27 luglio 1884, e' autorizzato a riscuotere sino a tutto l'anno 1885 un dazio di consumo di lire quattro al quintale sulla farina e sul pane di frumento e d'altra specie, esclusa pero' la farina ed il pane di granone. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Data a Roma, addi' 31 dicembre 1884. 
+ 
+ UMBERTO. 
+ 
+ A. MAGLIANI. 
+ 
+ Visto, Il Guardasigilli: PESSINA.

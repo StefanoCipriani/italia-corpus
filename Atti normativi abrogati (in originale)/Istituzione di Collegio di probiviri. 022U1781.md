@@ -1,17 +1,17 @@
-REGIO DECRETO 24 dicembre 1922 n. 1781
+---
+tipo: REGIO DECRETO
+numero: 1781
+data: 1922-12-24
+titolo: "Istituzione di Collegio di probiviri. (022U1781)"
+urn: urn:nir:stato:regio.decreto:1922-12-24;1781
+codice_redazionale: 022U1781
+vigente: true
+---
 
-
-REGIO DECRETO 24 dicembre 1922 n. 1781
-======================================
-
-Istituzione di Collegio di probiviri. (022U1781)
-------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/02/1923
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1781. Regio decreto 24 dicembre 1922, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, si istituisce in Varese, in virtu' dell'[art. 4 del D. L. 13 ottobre 1918, n. 672](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1918-10-13;672~art4), un Collegio di probiviri per la industria dell'albergo e mensa con giurisdizione sul territorio del circondario omonimo.
+1781.
+
+Regio decreto 24 dicembre 1922, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, si istituisce in Varese, in virtu' dell'[art. 4 del D. L. 13 ottobre 1918, n. 672](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1918-10-13;672#art_4), un Collegio di probiviri per la industria dell'albergo e mensa con giurisdizione sul territorio del circondario omonimo.

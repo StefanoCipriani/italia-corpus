@@ -1,21 +1,21 @@
-REGIO DECRETO 08 novembre 1928 n. 2761
+---
+tipo: REGIO DECRETO
+numero: 2761
+data: 1928-11-08
+titolo: "Approvazione del nuovo statuto della Societa' di mutua assistenza fra gli impiegati civili, in Roma. (028U2761)"
+urn: urn:nir:stato:regio.decreto:1928-11-08;2761
+codice_redazionale: 028U2761
+vigente: true
+---
 
-
-REGIO DECRETO 08 novembre 1928 n. 2761
-======================================
-
-Approvazione del nuovo statuto della Societa' di mutua assistenza fra gli impiegati civili, in Roma. (028U2761)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/01/1929
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2761. R. decreto 8 novembre 1928, col quale, sulla proposta del Ministro per l'economia nazionale, viene approvato il nuovo statuto organico della Societa' di mutua assistenza fra gli impiegati civili, con sede in Roma.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 17 dicembre 1928 - Anno VII
+2761.
+
+R. decreto 8 novembre 1928, col quale, sulla proposta del Ministro per l'economia nazionale, viene approvato il nuovo statuto organico della Societa' di mutua assistenza fra gli impiegati civili, con sede in Roma. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 17 dicembre 1928 - Anno VII

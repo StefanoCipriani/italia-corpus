@@ -1,16 +1,14 @@
-REGIO DECRETO 01 marzo 1938 n. 302
-
-
-REGIO DECRETO 01 marzo 1938 n. 302
-==================================
-
-Modificazione della denominazione della Federazione nazionale fascista dei portieri. (038U0302)
------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/04/1938
+---
+tipo: REGIO DECRETO
+numero: 302
+data: 1938-03-01
+titolo: "Modificazione della denominazione della Federazione nazionale fascista dei portieri. (038U0302)"
+urn: urn:nir:stato:regio.decreto:1938-03-01;302
+codice_redazionale: 038U0302
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,32 +20,26 @@ Visto il Nostro decreto 16 agosto 1934, n. 1385, col quale sono stati, tra l'alt
 
 Vista la domanda in data 18 novembre 1937, con la quale la Confederazione suddetta ha chiesto l'approvazione della modifica della denominazione della Federazione nazionale fascista dei portieri in quella di «Federazione nazionale fascista degli addetti alla proprieta' edilizia»;
 
-Visti la [legge 3 aprile 1926, n. 563](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-04-03;563), ed il relativo [regolamento 1° luglio 1926, n. 1130](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1926-07-01;1130), nonche' la [legge 20 marzo 1930, numero 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-03-20;206);
+Visti la [legge 3 aprile 1926, n. 563](Disciplina%20giuridica%20dei%20rapporti%20collettivi%20del%20lavoro.%20026U0563.md), ed il relativo [regolamento 1° luglio 1926, n. 1130](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1926-07-01;1130), nonche' la [legge 20 marzo 1930, numero 206](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-03-20;206);
 
 Sentito il Comitato corporativo centrale;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per le corporazioni, di concerto con il Ministro Segretario di Stato per l'interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per le corporazioni, di concerto con il Ministro Segretario di Stato per l'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata la modifica della denominazione della Federazione nazionale fascista dei portieri in quella di «Federazione nazionale fascista degli addetti alla proprieta' edilizia».   
-  
-Ordiniamo Che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 1° marzo 1938 - Anno XVI   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Lantini.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 9 aprile 1938 - Anno XVI   
-  
-Atti del Governo, registro 396, foglio 59. - Mancini.   
+E' approvata la modifica della denominazione della Federazione nazionale fascista dei portieri in quella di «Federazione nazionale fascista degli addetti alla proprieta' edilizia». 
+ 
+ Ordiniamo Che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° marzo 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Lantini. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 9 aprile 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 396, foglio 59. - Mancini.

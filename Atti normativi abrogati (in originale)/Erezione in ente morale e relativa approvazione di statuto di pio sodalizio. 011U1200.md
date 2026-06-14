@@ -1,19 +1,15 @@
-REGIO DECRETO 27 ottobre 1911 n. 1200
+---
+tipo: REGIO DECRETO
+numero: 1200
+data: 1911-10-27
+titolo: "Erezione in ente morale e relativa approvazione di statuto di pio sodalizio. (011U1200)"
+urn: urn:nir:stato:regio.decreto:1911-10-27;1200
+codice_redazionale: 011U1200
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 ottobre 1911 n. 1200
-=====================================
-
-Erezione in ente morale e relativa approvazione di statuto di pio sodalizio. (011U1200)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/12/1911
-
-Art. 1
-------
-
-  
-N. 1200   
-  
-Regio Decreto 27 ottobre 1911, col quale, sulla proposta del ministro dell'interno, l'Ospizio cronici di Citta' di Castello e' eretto in ente morale, e ne e' approvato lo statuto organico.   
-  
+N. 1200 
+ 
+ Regio Decreto 27 ottobre 1911, col quale, sulla proposta del ministro dell'interno, l'Ospizio cronici di Citta' di Castello e' eretto in ente morale, e ne e' approvato lo statuto organico.

@@ -1,16 +1,14 @@
-REGIO DECRETO 26 ottobre 1876 n. 3480
-
-
-REGIO DECRETO 26 ottobre 1876 n. 3480
-=====================================
-
-Che sopprime il posto di aiuto supplente fisso alla cattedra di clinica medica nella sezione di medicina e chirurgia del regio istituto di studi superiori pratici e di perfezionamento di Firenze. (076U3480)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/12/1876
+---
+tipo: REGIO DECRETO
+numero: 3480
+data: 1876-10-26
+titolo: "Che sopprime il posto di aiuto supplente fisso alla cattedra di clinica medica nella sezione di medicina e chirurgia del regio istituto di studi superiori pratici e di perfezionamento di Firenze. (076U3480)"
+urn: urn:nir:stato:regio.decreto:1876-10-26;3480
+codice_redazionale: 076U3480
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,22 +20,14 @@ Veduti i ruoli organici del R. Istituto di studi superiori pratici e di perfezio
 
 Veduta la Convenzione pel R. Istituto suddetto, approvata colla legge 30 giugno 1872;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 26 ottobre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-M. COPPINO.   
-  
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 26 ottobre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. COPPINO.

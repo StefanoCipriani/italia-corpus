@@ -1,16 +1,14 @@
-REGIO DECRETO 29 gennaio 1869 n. 5090
-
-
-REGIO DECRETO 29 gennaio 1869 n. 5090
-=====================================
-
-Che autorizza l'iscrizione sul Gran Libro del Debito pubblico di lire ottocentomila di rendita 5 per cento pel pagamento delle spese di costruzione della ferrovia ligure. (069U5090)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/06/1869
+---
+tipo: REGIO DECRETO
+numero: 5090
+data: 1869-01-29
+titolo: "Che autorizza l'iscrizione sul Gran Libro del Debito pubblico di lire ottocentomila di rendita 5 per cento pel pagamento delle spese di costruzione della ferrovia ligure. (069U5090)"
+urn: urn:nir:stato:regio.decreto:1869-01-29;5090
+codice_redazionale: 069U5090
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,37 +28,28 @@ L. 2,500,000 totale;
 
 Considerando che occorre ora di procurarsi altro capitale di L. 9,000,000 circa, sia per reintegrare il Tesoro delle spese anticipate, sia per provvedere alle spese in corso di esecuzione per la ferrovia di cui sopra, a carico dei bilanci 1868 e 1869;
 
-Sulla
------
+Sulla proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
 
-proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+Sara' inscritta sul Gran Libro del Debito pubblico del Regno d'Italia altra rendita consolidata 5 per cento di lire ottocentomila, con decorrenza dal 1° gennaio 1869, pel pagamento delle spese di costruzione della ferrovia ligure.
 
-  
-  
-Sara' inscritta sul Gran Libro del Debito pubblico del Regno d'Italia altra rendita consolidata 5 per cento di lire ottocentomila, con decorrenza dal 1° gennaio 1869, pel pagamento delle spese di costruzione della ferrovia ligure.   
-  
-
-Art. 2
-------
+## Art. 2.
 
 Pel servizio della rendita suddetta e' fatta sulla Tesoreria centrale del Regno l'annua assegnazione di lire ottocentomila, a partire dal 1° gennaio
 
-1869. 
-  
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 29 gennaio 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 febbraio 1869   
-  
-Reg. 45 Atti del Governo a c. 153. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-L. G. Cambray Digny.
+1869.
+
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 29 gennaio 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 febbraio 1869 
+ 
+ Reg. 45 Atti del Governo a c. 153. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ L. G. Cambray Digny.

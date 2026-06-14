@@ -1,20 +1,17 @@
-REGIO DECRETO 14 novembre 1861 n. CXCVIII
+---
+tipo: REGIO DECRETO
+numero: CXCVIII
+data: 1861-11-14
+titolo: "Che approva una modificazione al regolamento di polizia urbana del Comune di Mede. (6100198R)"
+urn: urn:nir:stato:regio.decreto:1861-11-14;198
+codice_redazionale: 6100198R
+vigente: true
+---
 
-
-REGIO DECRETO 14 novembre 1861 n. CXCVIII
-=========================================
-
-Che approva una modificazione al regolamento di polizia urbana del Comune di Mede. (6100198R)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/11/1861
-
-Art. 1
-------
+## Art. 1.
 
 Che approva una modificazione al regolamento di polizia urbana del Comune di Mede deliberata dal Consiglio Comunale in adunanza del 17 ottobre
 
-1861. 
-  
-  
+1861.
+
 Torino 14 novembre 1861

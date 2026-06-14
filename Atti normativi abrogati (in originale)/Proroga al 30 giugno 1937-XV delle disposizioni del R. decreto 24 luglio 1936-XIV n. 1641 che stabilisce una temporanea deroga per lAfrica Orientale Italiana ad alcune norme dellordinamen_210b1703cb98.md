@@ -1,16 +1,14 @@
-REGIO DECRETO 10 febbraio 1937 n. 530
-
-
-REGIO DECRETO 10 febbraio 1937 n. 530
-=====================================
-
-Proroga al 30 giugno 1937-XV delle disposizioni del R. decreto 24 luglio 1936-XIV, n. 1641, che stabilisce una temporanea deroga per l'Africa Orientale Italiana ad alcune norme dell'ordinamento per l'esecuzione delle opere pubbliche e di quello amministrativo contabile per le Colonie. (037U0530)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/05/1937
+---
+tipo: REGIO DECRETO
+numero: 530
+data: 1937-02-10
+titolo: "Proroga al 30 giugno 1937-XV delle disposizioni del R. decreto 24 luglio 1936-XIV, n. 1641, che stabilisce una temporanea deroga per l'Africa Orientale Italiana ad alcune norme dell'ordinamento per l'esecuzione delle opere pubbliche e di quello amministrativo contabile per le Colonie. (037U0530)"
+urn: urn:nir:stato:regio.decreto:1937-02-10;530
+codice_redazionale: 037U0530
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,28 +24,22 @@ Udito il parere del Consiglio superiore coloniale;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per le Colonie, di concerto con i Ministri Segretari di Stato per i lavori pubblici e per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per le Colonie, di concerto con i Ministri Segretari di Stato per i lavori pubblici e per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le disposizioni del R. decreto 24 luglio 1936-XIV, n. 1641, sono prorogate fino al 30 giugno 1937-XV.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 10 febbraio 1937 - Anno XV   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - LESSONA - COBOLLI-GIGLI - DI REVEL   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 29 aprile 1937 - Anno XV   
-  
-Atti del Governo, registro 384, foglio 126. - MANCINI.   
+Le disposizioni del R. decreto 24 luglio 1936-XIV, n. 1641, sono prorogate fino al 30 giugno 1937-XV. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 febbraio 1937 - Anno XV 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - LESSONA - COBOLLI-GIGLI - DI REVEL 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 29 aprile 1937 - Anno XV 
+ 
+ Atti del Governo, registro 384, foglio 126. - MANCINI.

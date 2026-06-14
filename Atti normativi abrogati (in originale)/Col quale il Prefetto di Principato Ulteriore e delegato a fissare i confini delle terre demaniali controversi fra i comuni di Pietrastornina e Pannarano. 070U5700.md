@@ -1,16 +1,14 @@
-REGIO DECRETO 29 maggio 1870 n. 5700
-
-
-REGIO DECRETO 29 maggio 1870 n. 5700
-====================================
-
-Col quale il Prefetto di Principato Ulteriore e' delegato a fissare i confini delle terre demaniali controversi fra i comuni di Pietrastornina e Pannarano. (070U5700)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/07/1870
+---
+tipo: REGIO DECRETO
+numero: 5700
+data: 1870-05-29
+titolo: "Col quale il Prefetto di Principato Ulteriore e' delegato a fissare i confini delle terre demaniali controversi fra i comuni di Pietrastornina e Pannarano. (070U5700)"
+urn: urn:nir:stato:regio.decreto:1870-05-29;5700
+codice_redazionale: 070U5700
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Considerando esser necessario che siano fissati i confini delle terre demaniali 
 
 Considerando che la prefettura della provincia di Principato Ulteriore ha dato opera perche' abbia luogo in proposito la conciliazione progettata fra gli anzidetti comuni;
 
-Sulla
------
+Sulla proposizione dal Ministro segretario di Stato per l'agricoltura, industria e commercio, Abbiamo decretato e decretiamo:
 
-proposizione dal Ministro segretario di Stato per l'agricoltura, industria e commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il prefetto della provincia di Principato Ulteriore e' delegato per la fissazione dei confini delle terre demaniali controversi fra i comuni di Pietrastornina nella stessa provincia di Principato Ulteriore, e Pannarano nell'altra provincia di Benevento.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 29 maggio 1870.   
-  
-VITTORIO EMANUELE.   
-  
-Castagnola.   
-  
+Il prefetto della provincia di Principato Ulteriore e' delegato per la fissazione dei confini delle terre demaniali controversi fra i comuni di Pietrastornina nella stessa provincia di Principato Ulteriore, e Pannarano nell'altra provincia di Benevento. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 29 maggio 1870. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Castagnola.

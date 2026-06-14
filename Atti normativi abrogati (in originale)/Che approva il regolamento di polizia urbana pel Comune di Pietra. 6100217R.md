@@ -1,20 +1,17 @@
-REGIO DECRETO 28 novembre 1861 n. CCXVII
+---
+tipo: REGIO DECRETO
+numero: CCXVII
+data: 1861-11-28
+titolo: "Che approva il regolamento di polizia urbana pel Comune di Pietra. (6100217R)"
+urn: urn:nir:stato:regio.decreto:1861-11-28;217
+codice_redazionale: 6100217R
+vigente: true
+---
 
-
-REGIO DECRETO 28 novembre 1861 n. CCXVII
-========================================
-
-Che approva il regolamento di polizia urbana pel Comune di Pietra. (6100217R)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/11/1861
-
-Art. 1
-------
+## Art. 1.
 
 Che approva il regolamento di polizia urbana deliberato dal Consiglio Comunale di Pietra (Provincia di Genova) in seduta delli 9 novembre
 
-1861. 
-  
-  
+1861.
+
 Torino 28 novembre 1861

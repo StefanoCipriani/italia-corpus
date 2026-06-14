@@ -1,16 +1,14 @@
-REGIO DECRETO 01 agosto 1889 n. 6342
-
-
-REGIO DECRETO 01 agosto 1889 n. 6342
-====================================
-
-Che sopprimendo il posto di notaro nel comune di Monchio (Parma), in sua vece ne istituisce uno nella frazione di Ponte Lugagnano dello stesso comune. (089U6342)
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/09/1889
+---
+tipo: REGIO DECRETO
+numero: 6342
+data: 1889-08-01
+titolo: "Che sopprimendo il posto di notaro nel comune di Monchio (Parma), in sua vece ne istituisce uno nella frazione di Ponte Lugagnano dello stesso comune. (089U6342)"
+urn: urn:nir:stato:regio.decreto:1889-08-01;6342
+codice_redazionale: 089U6342
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Veduta la domanda avanzata dai comuni di Corniglio, Monchio e Pallanzano, del ma
 
 Ritenuto che sarebbe giustificata la convenienza ed opportunita' della modificazione richiesta all'accennata tabella;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il posto di notaro assegnato al comune di Monchio e' soppresso, ed in sua vece e' istituito un posto di notaro nella frazione Ponte di Lugagnano dello stesso comune.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 1° agosto 1889.   
-  
-UMBERTO.   
-  
-G. Zanardelli.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+Il posto di notaro assegnato al comune di Monchio e' soppresso, ed in sua vece e' istituito un posto di notaro nella frazione Ponte di Lugagnano dello stesso comune. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 1° agosto 1889. 
+ 
+ UMBERTO. 
+ 
+ G. Zanardelli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

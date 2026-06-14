@@ -1,55 +1,42 @@
-REGIO DECRETO 27 maggio 1929 n. 1375
-
-
-REGIO DECRETO 27 maggio 1929 n. 1375
-====================================
-
-Dichiarazione di pubblica utilita' delle opere necessarie per l'ampliamento dell'Aeroporto « Francesco Baracca » in localita' Centocelle (Roma). (029U1375)
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/08/1929
+---
+tipo: REGIO DECRETO
+numero: 1375
+data: 1929-05-27
+titolo: "Dichiarazione di pubblica utilita' delle opere necessarie per l'ampliamento dell'Aeroporto « Francesco Baracca » in localita' Centocelle (Roma). (029U1375)"
+urn: urn:nir:stato:regio.decreto:1929-05-27;1375
+codice_redazionale: 029U1375
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), sulle espropriazioni per causa di pubblica utilita';
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), sulle espropriazioni per causa di pubblica utilita';
 
-Vista la [legge 18 dicembre 1879, n. 5188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-12-18;5188), che approva alcune modifiche a quella sopra richiamata;
+Vista la [legge 18 dicembre 1879, n. 5188](Che%20approva%20alcune%20modificazioni%20alla%20legge%20sulle%20espropriazioni%20per%20pubblica%20utilita%20del%2025%20giugno%201865%20n.%202359.%20079U5188.md), che approva alcune modifiche a quella sopra richiamata;
 
-Vista
------
+Vista la proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per l'aeronautica; Abbiamo decretato e decretiamo:
 
-la proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per l'aeronautica; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono dichiarate di pubblica utilita' le opere necessarie per l'ampliamento dell'Aeroporto « Francesco Baracca » sito in territorio del Governatorato di Roma, localita' Centocelle, da eseguirsi nella zona delimitata in tinta rossa nell'annessa planimetria, a sud-ovest dell'attuale aeroporto.
 
-  
-  
-Sono dichiarate di pubblica utilita' le opere necessarie per l'ampliamento dell'Aeroporto « Francesco Baracca » sito in territorio del Governatorato di Roma, localita' Centocelle, da eseguirsi nella zona delimitata in tinta rossa nell'annessa planimetria, a sud-ovest dell'attuale aeroporto.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-I beni immobili da espropriare saranno particolarmente designati dal Ministero dell'aeronautica ed alla loro espropriazione sara' provveduto a norma delle citate leggi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 maggio 1929 - Anno VII   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 6 agosto 1929 - Anno VII   
-Atti del Governo, registro 287, foglio 26. - Mancini.   
-  
+I beni immobili da espropriare saranno particolarmente designati dal Ministero dell'aeronautica ed alla loro espropriazione sara' provveduto a norma delle citate leggi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 maggio 1929 - Anno VII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 6 agosto 1929 - Anno VII  
+ Atti del Governo, registro 287, foglio 26. - Mancini.

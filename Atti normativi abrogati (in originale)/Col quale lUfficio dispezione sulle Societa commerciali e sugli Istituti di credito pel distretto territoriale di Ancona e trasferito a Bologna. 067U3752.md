@@ -1,16 +1,14 @@
-REGIO DECRETO 09 giugno 1867 n. 3752
-
-
-REGIO DECRETO 09 giugno 1867 n. 3752
-====================================
-
-Col quale l'Ufficio d'ispezione sulle Societa' commerciali e sugli Istituti di credito pel distretto territoriale di Ancona e' trasferito a Bologna. (067U3752)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/07/1867
+---
+tipo: REGIO DECRETO
+numero: 3752
+data: 1867-06-09
+titolo: "Col quale l'Ufficio d'ispezione sulle Societa' commerciali e sugli Istituti di credito pel distretto territoriale di Ancona e' trasferito a Bologna. (067U3752)"
+urn: urn:nir:stato:regio.decreto:1867-06-09;3752
+codice_redazionale: 067U3752
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,46 +24,30 @@ Visto l'articolo 2 del Reale Decreto in data 9 dicembre 1866, n. 3388, col quale
 
 Considerando come la vigilanza governativa sulle operazioni del credito fondiario, alle quali fu autorizzata la Cassa di risparmio di Bologna colla Legge del 14 giugno 1866, abbia un'importanza speciale e debba essere direttamente esercitata nel luogo stesso ove ha residenza l'Istituto vigilato;
 
-Sulla
------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'Ufficio d'ispezione sulle Societa' commerciali e sugli Istituti di credito pel distretto territoriale di Ancona e' trasferito a Bologna.
 
-  
-  
-L'Ufficio d'ispezione sulle Societa' commerciali e sugli Istituti di credito pel distretto territoriale di Ancona e' trasferito a Bologna.   
-  
+## Art. 2.
 
-Art. 2
-------
+Il distretto territoriale di Bologna comprendera' le Provincie di cui si componeva quello di Ancona.
 
-  
-  
-Il distretto territoriale di Bologna comprendera' le Provincie di cui si componeva quello di Ancona.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Sono derogate le disposizioni contenute nell' articolo 2 del citato Nostro Decreto in data 9 dicembre 1866, n. 3388.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 9 giugno 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 20 giugno 1867   
-  
-Reg. 40 Atti del Governo a c. 101. Crodara Visconti.   
-  
-Luogo del sigillo. V. Il Guardasigilli Tecchio.   
-  
-F. De Blasiis.   
-  
-  
+Sono derogate le disposizioni contenute nell' articolo 2 del citato Nostro Decreto in data 9 dicembre 1866, n. 3388. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 9 giugno 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 20 giugno 1867 
+ 
+ Reg. 40 Atti del Governo a c. 101. Crodara Visconti. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Tecchio. 
+ 
+ F. De Blasiis.

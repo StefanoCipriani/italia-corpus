@@ -1,16 +1,14 @@
-REGIO DECRETO 21 aprile 1862 n. 576
-
-
-REGIO DECRETO 21 aprile 1862 n. 576
-===================================
-
-Estende alle Provincie Siciliane quelli in data 16 febbraio e 6 aprile 1862, numeri 505 e 531. (062U0576)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/05/1862
+---
+tipo: REGIO DECRETO
+numero: 576
+data: 1862-04-21
+titolo: "Estende alle Provincie Siciliane quelli in data 16 febbraio e 6 aprile 1862, numeri 505 e 531. (062U0576)"
+urn: urn:nir:stato:regio.decreto:1862-04-21;576
+codice_redazionale: 062U0576
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,24 @@ Viste le disposizioni in simile materia adottate per le Provincie Napoletane coi
 
 Ritenute le facolta' accordate al Governo coll'art. 4 della legge 19 gennaio 1862 n.° 421;
 
-Sulla
------
+Sulla proposizione del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Sono estesi alle Provincie Siciliane, e vi avranno vigore contemporaneamente all'attuazione del nuovo Ordinamento giudiziario i Nostri Decreti del 16 febbraio 1862 n.° 505 e 6 aprile 1862 n.°
 
-531. 
-  
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 21 aprile 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 5 maggio 1862   
-  
-Reg.° 19 Atti del Governo a c. 261. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
-  
-Raffaele Conforti.
+531.
+
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 21 aprile 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 5 maggio 1862 
+ 
+ Reg.° 19 Atti del Governo a c. 261. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ Raffaele Conforti.

@@ -1,17 +1,17 @@
-REGIO DECRETO 18 aprile 1895 n. 183
+---
+tipo: REGIO DECRETO
+numero: 183
+data: 1895-04-18
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0183)"
+urn: urn:nir:stato:regio.decreto:1895-04-18;183
+codice_redazionale: 095U0183
+vigente: true
+---
 
-
-REGIO DECRETO 18 aprile 1895 n. 183
-===================================
-
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0183)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1895
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-183. Il Comune di Rocchetta Belbo e' separato dalla Sezione elettorale politica di Castino ed e' aggregato alla Sezione elettorale di Cossano Belbo del Collegio di Alba.
+183.
+
+Il Comune di Rocchetta Belbo e' separato dalla Sezione elettorale politica di Castino ed e' aggregato alla Sezione elettorale di Cossano Belbo del Collegio di Alba.

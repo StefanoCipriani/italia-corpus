@@ -1,16 +1,14 @@
-REGIO DECRETO 24 febbraio 1870 n. 5542
-
-
-REGIO DECRETO 24 febbraio 1870 n. 5542
-======================================
-
-Che dichiara provinciali alcune strade scorrenti nella Provincia di Alessandria. (070U5542)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/04/1870
+---
+tipo: REGIO DECRETO
+numero: 5542
+data: 1870-02-24
+titolo: "Che dichiara provinciali alcune strade scorrenti nella Provincia di Alessandria. (070U5542)"
+urn: urn:nir:stato:regio.decreto:1870-02-24;5542
+codice_redazionale: 070U5542
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,37 +26,22 @@ Visto l'articolo 14 della Legge 20 marzo 1865 sui lavori pubblici;
 
 Risultando dal certificato 5 novembre ultimo di pubblicazione di detto Elenco, che contro il medesimo non vennero fatte opposizioni;
 
-Sulla
------
+Sulla proposta del Nostro Ministro pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate provinciali le diciannove strade nella Provincia d'Alessandria, indicate nell'Elenco, che visto d'ordine Nostro sta annesso al presente Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli addi' 24 febbraio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 11 marzo 1870   
-  
-Reg. 50 Atti del Governo a c. 123. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Gadda.   
-  
-
-Elenco
-
-  
-Elenco delle strade provinciali di Alessandria del Consiglio provinciale in adunanza del 14 maggio 1866.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=070U554200100010110001&dgu=1870-04-01&art.dataPubblicazioneGazzetta=1870-04-01&art.codiceRedazionale=070U5542)
-  
+Sono dichiarate provinciali le diciannove strade nella Provincia d'Alessandria, indicate nell'Elenco, che visto d'ordine Nostro sta annesso al presente Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli addi' 24 febbraio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 11 marzo 1870 
+ 
+ Reg. 50 Atti del Governo a c. 123. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Gadda.

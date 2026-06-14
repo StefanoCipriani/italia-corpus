@@ -1,21 +1,17 @@
-REGIO DECRETO 27 aprile 1899 n. CXXX
+---
+tipo: REGIO DECRETO
+numero: CXXX
+data: 1899-04-27
+titolo: "Che trasforma il pio istituto di prestiti e risparmi di Fardella in una cassa di prestanze agrarie. (9900130R)"
+urn: urn:nir:stato:regio.decreto:1899-04-27;130
+codice_redazionale: 9900130R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 aprile 1899 n. CXXX
-====================================
-
-Che trasforma il pio istituto di prestiti e risparmi di Fardella in una cassa di prestanze agrarie. (9900130R)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/06/1899
-
-Art. 1
-------
-
-  
-Che trasforma il pio istituto di prestiti e risparmi del comune di Fardella (Potenza) in cassa di prestanze agrarie ed approva lo statuto organico di questa. - Firmato UMBERTO - Controfirmati Pelloux, A. Fortis - Visto C. Finocchiaro Aprile.   
-  
-Registrato alla Corte dei conti addi' 19 maggio 1899.   
-  
-Reg. 219. Atti del Governo a f. 111.   
-  
+Che trasforma il pio istituto di prestiti e risparmi del comune di Fardella (Potenza) in cassa di prestanze agrarie ed approva lo statuto organico di questa. - Firmato UMBERTO - Controfirmati Pelloux, A. Fortis - Visto C. Finocchiaro Aprile. 
+ 
+ Registrato alla Corte dei conti addi' 19 maggio 1899. 
+ 
+ Reg. 219. Atti del Governo a f. 111.

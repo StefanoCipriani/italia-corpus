@@ -1,32 +1,39 @@
-REGIO DECRETO 11 marzo 1866 n. MDCCXXVIII
+---
+tipo: REGIO DECRETO
+numero: MDCCXXVIII
+data: 1866-03-11
+titolo: "Che autorizza l'istituzione di una Cassa di Risparmio nella citta' di San Pier d'Arena. (6601728R)"
+urn: urn:nir:stato:regio.decreto:1866-03-11;1728
+codice_redazionale: 6601728R
+vigente: true
+---
 
+VITTORIO EMANUELE II
 
-REGIO DECRETO 11 marzo 1866 n. MDCCXXVIII
-=========================================
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
-Che autorizza l'istituzione di una Cassa di Risparmio nella citta' di San Pier d'Arena. (6601728R)
---------------------------------------------------------------------------------------------------
+RE D'ITALIA
 
-Entrata in vigore del provvedimento: 15/04/1866
+Vedute le deliberazioni del Consiglio comunale di San Pier d'Arena in data 19 dicembre 1862, 20 e 22 maggio 1863 per l'istituzione di una Cassa di Risparmio in quella citta';
 
-Articolo unico
---------------
+Sentito il Consiglio di Stato;
 
-  
-  
-E' autorizzata l'istituzione di una Cassa di Risparmio nella citta' di San Pier d'Arena, a norma dello statuto vidimato d'ordine Nostro dal Ministro anzidetto.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 11 marzo 1866.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 25 marzo 1866   
-  
-Reg° 35 Atti del Governo a c. 137. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli De Falco.   
-  
-Berti.   
-  
+Sulla proposta del Ministro dell'Istruzione pubblica reggente il Ministero di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+
+## Articolo unico.
+
+E' autorizzata l'istituzione di una Cassa di Risparmio nella citta' di San Pier d'Arena, a norma dello statuto vidimato d'ordine Nostro dal Ministro anzidetto. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 11 marzo 1866. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 25 marzo 1866 
+ 
+ Reg° 35 Atti del Governo a c. 137. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli De Falco. 
+ 
+ Berti.

@@ -1,16 +1,14 @@
-REGIO DECRETO 03 aprile 1879 n. 4842
-
-
-REGIO DECRETO 03 aprile 1879 n. 4842
-====================================
-
-Che separa il comune di Beverino dalla sezione elettorale di Borghetto Vara, e forma una sezione distinta del Collegio elettorale di Levanto. (079U4842)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/05/1879
+---
+tipo: REGIO DECRETO
+numero: 4842
+data: 1879-04-03
+titolo: "Che separa il comune di Beverino dalla sezione elettorale di Borghetto Vara, e forma una sezione distinta del Collegio elettorale di Levanto. (079U4842)"
+urn: urn:nir:stato:regio.decreto:1879-04-03;4842
+codice_redazionale: 079U4842
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Che Beverino dista 8 chilometri da Borghetto Vara, e che le strade sono montuose
 
 Considerato che istituendo una sezione elettorale in Beverino si rende piu' facile l'esercizio del diritto elettorale;
 
-Sulla
------
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Beverino e' separato dalla sezione elettorale di Borghetto Vara, e formera' una sezione distinta del Collegio elettorale di Levanto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 aprile 1879.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
+Il comune di Beverino e' separato dalla sezione elettorale di Borghetto Vara, e formera' una sezione distinta del Collegio elettorale di Levanto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 aprile 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.

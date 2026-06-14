@@ -1,16 +1,14 @@
-REGIO DECRETO 02 agosto 1863 n. DCCCLX
-
-
-REGIO DECRETO 02 agosto 1863 n. DCCCLX
-======================================
-
-Che approva e rende esecutoria la tariffa dei diritti di Segreteria spettanti alla Camera di commercio e d'arti di Macerata. (6300860R)
----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/09/1863
+---
+tipo: REGIO DECRETO
+numero: DCCCLX
+data: 1863-08-02
+titolo: "Che approva e rende esecutoria la tariffa dei diritti di Segreteria spettanti alla Camera di commercio e d'arti di Macerata. (6300860R)"
+urn: urn:nir:stato:regio.decreto:1863-08-02;860
+codice_redazionale: 6300860R
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,38 +20,36 @@ Veduta la deliberazione della Camera di commercio e d'arti di Macerata del di' 8
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
+E' approvata e resa esecutoria la tariffa seguente dei diritti di Segreteria spettanti alla Camera di commercio e d'arti di Macerata: 
+ 
+ Certificati, esclusa la spesa per la carta da bollo L.
 
-E' approvata e resa esecutoria la tariffa seguente dei diritti di Segreteria spettanti alla Camera di commercio e d'arti di Macerata:   
-  
-Certificati, esclusa la spesa per la carta da bollo L.
+1.
 
-1. »   
-  
-Attestazioni . . . . . . . . . . . . . . . . . . . . » 0.75   
-  
-Vidimazioni . . . . . . . . . . . . . . . . . . . . » 0.50   
-  
-[ diritto fisso . . . . . . . . . . . . » 0.50   
-Copie d'atti < diritto proporzionale per ogni   
-[ foglio di copiatura . . . . . . . » 0.80   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 2 agosto 1863.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 31 agosto 1863   
-  
-Reg.° 25 Atti del Governo a c. 65. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
-  
-Manna.
+» 
+ 
+ Attestazioni . . . . . . . . . . . . . . . . . . . . » 0.75 
+ 
+ Vidimazioni . . . . . . . . . . . . . . . . . . . . » 0.50 
+ 
+ [ diritto fisso . . . . . . . . . . . . » 0.50 
+ Copie d'atti < diritto proporzionale per ogni 
+ [ foglio di copiatura . . . . . . . » 0.80 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 2 agosto 1863. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 31 agosto 1863 
+ 
+ Reg.° 25 Atti del Governo a c. 65. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ Manna.

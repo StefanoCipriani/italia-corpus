@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 11 febbraio 1917 n. 351
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 351
+data: 1917-02-11
+titolo: "Erezione in ente morale. (017U0351)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-02-11;351
+codice_redazionale: 017U0351
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 11 febbraio 1917 n. 351
-===============================================
-
-Erezione in ente morale. (017U0351)
------------------------------------
-
-Entrata in vigore del provvedimento: 05/04/1917
-
-Art. 1
-------
-
-  
-N. 351   
-  
-Decreto Luogotenenziale 11 febbraio 1917, col quale, sulla proposta del ministro dell'interno, la fondazione «Isabella De Franciscis», con sede in Caserta, e' eretta in ente morale ed e' concentrata nella Congregazione di carita' di Caserta.   
-  
+N. 351 
+ 
+ Decreto Luogotenenziale 11 febbraio 1917, col quale, sulla proposta del ministro dell'interno, la fondazione «Isabella De Franciscis», con sede in Caserta, e' eretta in ente morale ed e' concentrata nella Congregazione di carita' di Caserta.

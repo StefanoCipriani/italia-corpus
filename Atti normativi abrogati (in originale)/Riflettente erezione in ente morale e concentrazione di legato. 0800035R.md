@@ -1,19 +1,15 @@
-REGIO DECRETO 23 gennaio 1908 n. XXXV
+---
+tipo: REGIO DECRETO
+numero: XXXV
+data: 1908-01-23
+titolo: "Riflettente erezione in ente morale e concentrazione di legato. (0800035R)"
+urn: urn:nir:stato:regio.decreto:1908-01-23;35
+codice_redazionale: 0800035R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 gennaio 1908 n. XXXV
-=====================================
-
-Riflettente erezione in ente morale e concentrazione di legato. (0800035R)
---------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/03/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. XXXV (Dato a Roma, il 23 gennaio 1908), col quale il pio legato dotalizio «Don Giuseppe Cavallito» esistente in Valmacca (Alessandria) e' eretto in ente morale e concentrato in quella Congregazione di carita'.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. XXXV (Dato a Roma, il 23 gennaio 1908), col quale il pio legato dotalizio «Don Giuseppe Cavallito» esistente in Valmacca (Alessandria) e' eretto in ente morale e concentrato in quella Congregazione di carita'.

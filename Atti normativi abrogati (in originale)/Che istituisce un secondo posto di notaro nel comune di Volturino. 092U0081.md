@@ -1,16 +1,14 @@
-REGIO DECRETO 28 febbraio 1892 n. 81
-
-
-REGIO DECRETO 28 febbraio 1892 n. 81
-====================================
-
-Che istituisce un secondo posto di notaro nel comune di Volturino. (092U0081)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/04/1892
+---
+tipo: REGIO DECRETO
+numero: 81
+data: 1892-02-28
+titolo: "Che istituisce un secondo posto di notaro nel comune di Volturino. (092U0081)"
+urn: urn:nir:stato:regio.decreto:1892-02-28;81
+codice_redazionale: 092U0081
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Visto l'art. 4 della legge sul notariato, approvata con Nostro decreto 25 maggio
 
 Ritenuto esser dimostrata la necessita' della istituzione del posto anzidetto:
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un secondo posto di notaro nel comune di Volturino, distretto notarile di Lucera.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 febbraio 1892.   
-  
-UMBERTO.   
-  
-Chimirri.   
-  
-Visto, il Guardasigilli: B. Chimirri.   
-  
+E' istituito un secondo posto di notaro nel comune di Volturino, distretto notarile di Lucera. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 febbraio 1892. 
+ 
+ UMBERTO. 
+ 
+ Chimirri. 
+ 
+ Visto, il Guardasigilli: B. Chimirri.

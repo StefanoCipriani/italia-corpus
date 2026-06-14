@@ -1,37 +1,28 @@
-REGIO DECRETO 19 aprile 1906 n. CLX
+---
+tipo: REGIO DECRETO
+numero: CLX
+data: 1906-04-19
+titolo: "Istituzione di un Collegio di probiviri per la industria della estrazione e della lavorazione dello zolfo in Cesena. (0600160R)"
+urn: urn:nir:stato:regio.decreto:1906-04-19;160
+codice_redazionale: 0600160R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 aprile 1906 n. CLX
-===================================
+E' istituito un collegio di probiviri per l'industria della estrazione e della lavorazione dello zolfo con sede in Cesena e giurisdizione sul territorio dello stesso Comune e di quelli di Mercato Saraceno, Sogliano al Rubicone, Teodorano, Roncofreddo, Predappio e Rimini.
 
-Istituzione di un Collegio di probiviri per la industria della estrazione e della lavorazione dello zolfo in Cesena. (0600160R)
--------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 24/06/1906
-
-Art. 1
-------
-
-  
-  
-E' istituito un collegio di probiviri per l'industria della estrazione e della lavorazione dello zolfo con sede in Cesena e giurisdizione sul territorio dello stesso Comune e di quelli di Mercato Saraceno, Sogliano al Rubicone, Teodorano, Roncofreddo, Predappio e Rimini.   
-  
-
-Art. 2
-------
-
-  
-  
-Il collegio stesso sara' composto di dieci probiviri, dei quali cinque industriali e cinque operai.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 aprile 1906.   
-  
-VITTORIO EMANUELE.   
-  
-E. SACCHI.   
-E. PANTANO.   
-  
-Visto, Il guardasigilli: E. SACCHI.   
-  
+Il collegio stesso sara' composto di dieci probiviri, dei quali cinque industriali e cinque operai. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 aprile 1906. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ E. SACCHI. 
+ E. PANTANO. 
+ 
+ Visto, Il guardasigilli: E. SACCHI.

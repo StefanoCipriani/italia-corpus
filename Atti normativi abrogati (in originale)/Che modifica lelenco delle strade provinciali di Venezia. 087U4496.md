@@ -1,16 +1,14 @@
-REGIO DECRETO 28 aprile 1887 n. 4496
-
-
-REGIO DECRETO 28 aprile 1887 n. 4496
-====================================
-
-Che modifica l'elenco delle strade provinciali di Venezia. (087U4496)
----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/06/1887
+---
+tipo: REGIO DECRETO
+numero: 4496
+data: 1887-04-28
+titolo: "Che modifica l'elenco delle strade provinciali di Venezia. (087U4496)"
+urn: urn:nir:stato:regio.decreto:1887-04-28;4496
+codice_redazionale: 087U4496
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,33 +26,22 @@ Visto che il Consiglio superiore dei Lavori Pubblici, giusta il suo voto emesso 
 
 Visti gli articoli 13, 14 e 25 della ricordata legge 20 marzo 1865 sui Lavori Pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' aggiunta all'elenco delle strade provinciali di Venezia quella da Mestre alla Riviera di S. Giuliano in prosecuzione delle strade provinciali che mettono capo a Mestre.
 
-  
-  
-E' aggiunta all'elenco delle strade provinciali di Venezia quella da Mestre alla Riviera di S. Giuliano in prosecuzione delle strade provinciali che mettono capo a Mestre.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' approvato il tracciamento generale della detta strada in conformita' della corografia prodotta dalla Deputazione provinciale e vistata d'ordine Nostro dal Ministro predetto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 aprile 1887.   
-  
-UMBERTO.   
-  
-G. Saracco.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+E' approvato il tracciamento generale della detta strada in conformita' della corografia prodotta dalla Deputazione provinciale e vistata d'ordine Nostro dal Ministro predetto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 aprile 1887. 
+ 
+ UMBERTO. 
+ 
+ G. Saracco. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

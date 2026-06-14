@@ -1,16 +1,14 @@
-REGIO DECRETO 15 giugno 1869 n. 5125
-
-
-REGIO DECRETO 15 giugno 1869 n. 5125
-====================================
-
-Che proroga la Sessione del Senato del Regno e della Camera dei Deputati. (069U5125)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/07/1869
+---
+tipo: REGIO DECRETO
+numero: 5125
+data: 1869-06-15
+titolo: "Che proroga la Sessione del Senato del Regno e della Camera dei Deputati. (069U5125)"
+urn: urn:nir:stato:regio.decreto:1869-06-15;5125
+codice_redazionale: 069U5125
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,31 +18,24 @@ Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'inter
 
 Udito il Consiglio dei Ministri;
 
-Veduto
-------
+Veduto l'art. 9 dello Statuto fondamentale del Regno; Abbiamo decretato e decretiamo:
 
-l'art. 9 dello Statuto fondamentale del Regno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'attuale Sessione del Senato del Regno e della Camera dei Deputati e' prorogata.   
-  
-Un altro Nostro Decreto determinera' il giorno della riconvocazione.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valdieri addi' 15 giugno 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 18 giugno 1869   
-  
-Reg. 47 Atti del Governo a c. 87. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Pironti.   
-  
-Luigi Ferraris   
-  
+L'attuale Sessione del Senato del Regno e della Camera dei Deputati e' prorogata. 
+ 
+ Un altro Nostro Decreto determinera' il giorno della riconvocazione. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valdieri addi' 15 giugno 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 18 giugno 1869 
+ 
+ Reg. 47 Atti del Governo a c. 87. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Pironti. 
+ 
+ Luigi Ferraris

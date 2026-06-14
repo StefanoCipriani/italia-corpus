@@ -1,16 +1,14 @@
-REGIO DECRETO 08 gennaio 1871 n. 48
-
-
-REGIO DECRETO 08 gennaio 1871 n. 48
-===================================
-
-Che aumenta il Ruolo del personale di Segreteria dell'Amministrazione provinciale. (071U0048)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/03/1871
+---
+tipo: REGIO DECRETO
+numero: 48
+data: 1871-01-08
+titolo: "Che aumenta il Ruolo del personale di Segreteria dell'Amministrazione provinciale. (071U0048)"
+urn: urn:nir:stato:regio.decreto:1871-01-08;48
+codice_redazionale: 071U0048
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,30 +18,24 @@ Visti i Reali Decreti 25 giugno 1868, n. 4451 e 5 ottobre 1869, n. 5295, coi qua
 
 Ritenuta la necessita' di costituire gli Uffizi governativi dell'Amministrazione provinciale in Roma e suoi Circondari in conformita' di quelli esistenti nelle altre Provincie del Regno;
 
-Sulla
------
+Sulla proposizione del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo.
 
-proposizione del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo.
+## Art. 1.
 
-Art. 1
-------
-
-  
-  
-Al Ruolo attualmente in vigore del personale di Segreteria dell'Amministrazione provinciale sono aggiunti, a partire dal 1° gennaio 1871, i seguenti Impiegati:   
-  
-Parte di provvedimento in formato grafico  
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 8 gennaio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 11 febbraio 1871   
-  
-Reg. 54 Atti del Governo a c. 121. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Lanza.   
+Al Ruolo attualmente in vigore del personale di Segreteria dell'Amministrazione provinciale sono aggiunti, a partire dal 1° gennaio 1871, i seguenti Impiegati: 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 8 gennaio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 11 febbraio 1871 
+ 
+ Reg. 54 Atti del Governo a c. 121. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Lanza.

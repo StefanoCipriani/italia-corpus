@@ -1,46 +1,37 @@
-REGIO DECRETO 20 settembre 1869 n. 5276
-
-
-REGIO DECRETO 20 settembre 1869 n. 5276
-=======================================
-
-Col quale i Comuni di Savignano e di S. Arcangelo di Romagna sono compresi nella zona di vigilanza doganale. (069U5276)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/10/1869
+---
+tipo: REGIO DECRETO
+numero: 5276
+data: 1869-09-20
+titolo: "Col quale i Comuni di Savignano e di S. Arcangelo di Romagna sono compresi nella zona di vigilanza doganale. (069U5276)"
+urn: urn:nir:stato:regio.decreto:1869-09-20;5276
+codice_redazionale: 069U5276
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'articolo 2 del Regolamento doganale approvato con [Legge del 21 dicembre 1862, n. 1061](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-12-21;1061);
+Veduto l'articolo 2 del Regolamento doganale approvato con [Legge del 21 dicembre 1862, n. 1061](Che%20prescrive%20la%20provvisoria%20osservanza%20del%20Regolamento%20doganale%20approvato%20col%20R.%20Decreto%2011%20settembre%201862.%20062U1061.md);
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Savignano di Romagna e di S. Arcangelo di Romagna sono compresi nella zona di vigilanza doganale.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Piero a Sieve addi' 20 settembre 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 25 settembre 1869   
-  
-Reg. 48 Atti del Governo a c. 116. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Pironti.   
-  
-L. G. Cambray Digny.   
-  
+I Comuni di Savignano di Romagna e di S. Arcangelo di Romagna sono compresi nella zona di vigilanza doganale. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Piero a Sieve addi' 20 settembre 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 25 settembre 1869 
+ 
+ Reg. 48 Atti del Governo a c. 116. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Pironti. 
+ 
+ L. G. Cambray Digny.

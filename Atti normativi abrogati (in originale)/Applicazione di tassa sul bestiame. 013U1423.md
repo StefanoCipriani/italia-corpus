@@ -1,19 +1,15 @@
-REGIO DECRETO 21 dicembre 1913 n. 1423
+---
+tipo: REGIO DECRETO
+numero: 1423
+data: 1913-12-21
+titolo: "Applicazione di tassa sul bestiame. (013U1423)"
+urn: urn:nir:stato:regio.decreto:1913-12-21;1423
+codice_redazionale: 013U1423
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 dicembre 1913 n. 1423
-======================================
-
-Applicazione di tassa sul bestiame. (013U1423)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 27/01/1914
-
-Art. 1
-------
-
-  
-N. 1423   
-  
-Regio Decreto 21 dicembre 1913, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Monopoli di applicare nell'anno 1913 la tassa sul bestiame in base alla tariffa deliberata nell'adunanza consiliare 17 giugno 1913.   
-  
+N. 1423 
+ 
+ Regio Decreto 21 dicembre 1913, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Monopoli di applicare nell'anno 1913 la tassa sul bestiame in base alla tariffa deliberata nell'adunanza consiliare 17 giugno 1913.

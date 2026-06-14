@@ -1,16 +1,14 @@
-REGIO DECRETO 21 agosto 1862 n. 772
-
-
-REGIO DECRETO 21 agosto 1862 n. 772
-===================================
-
-Che proroga la Sessione parlamentare del Senato e della Camera dei Deputati. (062U0772)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/09/1862
+---
+tipo: REGIO DECRETO
+numero: 772
+data: 1862-08-21
+titolo: "Che proroga la Sessione parlamentare del Senato e della Camera dei Deputati. (062U0772)"
+urn: urn:nir:stato:regio.decreto:1862-08-21;772
+codice_redazionale: 062U0772
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,29 +18,22 @@ Sulla proposta del Presidente del Consiglio, Ministro - Segretario di Stato per 
 
 Sentito il Consiglio dei Ministri;
 
-Visto
------
+Visto l'articolo 9 dello Statuto; Abbiamo ordinato ed ordiniamo quanto segue:
 
-l'articolo 9 dello Statuto; Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'attuale Sessione parlamentare del Senato e della Camera dei Deputati e' prorogata.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 21 agosto 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 23 agosto 1862   
-  
-Reg.° 20 Atti del Governo a c. 217. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
-  
-U. Rattazzi.   
-  
+L'attuale Sessione parlamentare del Senato e della Camera dei Deputati e' prorogata. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 21 agosto 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 23 agosto 1862 
+ 
+ Reg.° 20 Atti del Governo a c. 217. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ U. Rattazzi.

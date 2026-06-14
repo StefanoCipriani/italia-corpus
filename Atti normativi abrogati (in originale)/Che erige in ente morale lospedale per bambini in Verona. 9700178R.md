@@ -1,22 +1,19 @@
-REGIO DECRETO 08 giugno 1897 n. CLXXVIII
+---
+tipo: REGIO DECRETO
+numero: CLXXVIII
+data: 1897-06-08
+titolo: "Che erige in ente morale l'ospedale per bambini in Verona. (9700178R)"
+urn: urn:nir:stato:regio.decreto:1897-06-08;178
+codice_redazionale: 9700178R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 giugno 1897 n. CLXXVIII
-========================================
+Con cui l'ospedale per bambini in Verona, viene eretto in ente morale. - Firmato UMBERTO - Controfirmato Rudini' - Visto G. Costa. 
+ 
+ Registrato alla Corte dei Conti addi' 1° luglio
 
-Che erige in ente morale l'ospedale per bambini in Verona. (9700178R)
----------------------------------------------------------------------
+1897.
 
-Entrata in vigore del provvedimento: 22/07/1897
-
-Art. 1
-------
-
-Con cui l'ospedale per bambini in Verona, viene eretto in ente morale. - Firmato UMBERTO - Controfirmato Rudini' - Visto G. Costa.   
-  
-Registrato alla Corte dei Conti addi' 1° luglio
-
-1897. 
-  
-  
 Reg. 211. Atti del Governo a f. 53.

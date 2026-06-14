@@ -1,16 +1,14 @@
-REGIO DECRETO 31 ottobre 1904 n. 597
-
-
-REGIO DECRETO 31 ottobre 1904 n. 597
-====================================
-
-Che istituisce in Massa Marittima due uffici di conciliazione per le frazioni di Prata e Monterotondo. (004U0597)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/12/1904
+---
+tipo: REGIO DECRETO
+numero: 597
+data: 1904-10-31
+titolo: "Che istituisce in Massa Marittima due uffici di conciliazione per le frazioni di Prata e Monterotondo. (004U0597)"
+urn: urn:nir:stato:regio.decreto:1904-10-31;597
+codice_redazionale: 004U0597
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Viste le deliberazioni del consiglio comunale di Massa Marittima in data 13 febb
 
 Visto il rapporto del primo presidente della corte di appello di Firenze, in data 10 agosto 1904, n. 2227;
 
-Visti gli articoli 1° della [legge 16 giugno 1892, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;261), e 1° del relativo regolamento 26 dicembre stesso anno, numero 728;
+Visti gli articoli 1° della [legge 16 giugno 1892, n. 261](Sui%20conciliatori.%20092U0261.md), e 1° del relativo regolamento 26 dicembre stesso anno, numero 728;
 
-Sulla
------
+Sulla proposta del Nostro guardasigilli ministro segretario di Stato per gli affari di grazia e giustizia e dei culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro guardasigilli ministro segretario di Stato per gli affari di grazia e giustizia e dei culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal 1° gennaio 1905 sono istituiti nel comune di Massa Marittima, due separati uffici di conciliazione per le frazioni di Prata e Monterotondo; dei quali il primo con sede in Prata e giurisdizione sul territorio di tale frazione, ed il secondo con sede in Monterotondo e giurisdizione sul territorio di tale altra frazione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 31 ottobre 1904.   
-  
-VITTORIO EMANUELE.   
-  
-Ronchetti.   
-  
-Visto, Il Guardasigilli: Ronchetti.   
-  
+Dal 1° gennaio 1905 sono istituiti nel comune di Massa Marittima, due separati uffici di conciliazione per le frazioni di Prata e Monterotondo; dei quali il primo con sede in Prata e giurisdizione sul territorio di tale frazione, ed il secondo con sede in Monterotondo e giurisdizione sul territorio di tale altra frazione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 31 ottobre 1904. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Ronchetti. 
+ 
+ Visto, Il Guardasigilli: Ronchetti.

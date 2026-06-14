@@ -1,19 +1,15 @@
-REGIO DECRETO 24 febbraio 1907 n. CXVI
+---
+tipo: REGIO DECRETO
+numero: CXVI
+data: 1907-02-24
+titolo: "Trasformazione di Monti frumentari. (0700116R)"
+urn: urn:nir:stato:regio.decreto:1907-02-24;116
+codice_redazionale: 0700116R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 febbraio 1907 n. CXVI
-======================================
-
-Trasformazione di Monti frumentari. (0700116R)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 23/05/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CXVI (Dato a Roma, il 24 febbraio 1907), col quale i Monti frumentario e pecuniario esistenti nel comune di Isola del Gran Sasso (Teramo), sono stati trasformati in una Cassa di prestanza agrarie a col quale altresi' e' stato approvato lo statuto organico pel funzionamento dell'erigenda Cassa.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CXVI (Dato a Roma, il 24 febbraio 1907), col quale i Monti frumentario e pecuniario esistenti nel comune di Isola del Gran Sasso (Teramo), sono stati trasformati in una Cassa di prestanza agrarie a col quale altresi' e' stato approvato lo statuto organico pel funzionamento dell'erigenda Cassa.

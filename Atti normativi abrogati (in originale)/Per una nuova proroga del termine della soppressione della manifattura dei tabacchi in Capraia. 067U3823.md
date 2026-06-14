@@ -1,16 +1,14 @@
-REGIO DECRETO 21 luglio 1867 n. 3823
-
-
-REGIO DECRETO 21 luglio 1867 n. 3823
-====================================
-
-Per una nuova proroga del termine della soppressione della manifattura dei tabacchi in Capraia. (067U3823)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/08/1867
+---
+tipo: REGIO DECRETO
+numero: 3823
+data: 1867-07-21
+titolo: "Per una nuova proroga del termine della soppressione della manifattura dei tabacchi in Capraia. (067U3823)"
+urn: urn:nir:stato:regio.decreto:1867-07-21;3823
+codice_redazionale: 067U3823
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,28 +20,22 @@ Visto il Nostro Decreto in data 30 giugno prossimo passato, che prolunga il term
 
 Sulla proposizione del Presidente del Consiglio, provvisoriamente incaricato del Portafoglio delle Finanze;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il termine della soppressione della manifattura dei tabacchi in Capraia e' prolungato nuovamente fino al giorno 1° novembre prossimo venturo.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 21 luglio 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 1° agosto 1867   
-  
-Reg. 40 Atti del Governo a c. 175. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Tecchio.   
-  
-U. Rattazzi.   
+Il termine della soppressione della manifattura dei tabacchi in Capraia e' prolungato nuovamente fino al giorno 1° novembre prossimo venturo. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 21 luglio 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 1° agosto 1867 
+ 
+ Reg. 40 Atti del Governo a c. 175. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Tecchio. 
+ 
+ U. Rattazzi.

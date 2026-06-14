@@ -1,21 +1,21 @@
-REGIO DECRETO 02 maggio 1932 n. 733
+---
+tipo: REGIO DECRETO
+numero: 733
+data: 1932-05-02
+titolo: "Approvazione dello statuto organico dell'Opera pia «Fondazione Mauroyeni», in Venezia. (032U0733)"
+urn: urn:nir:stato:regio.decreto:1932-05-02;733
+codice_redazionale: 032U0733
+vigente: true
+---
 
-
-REGIO DECRETO 02 maggio 1932 n. 733
-===================================
-
-Approvazione dello statuto organico dell'Opera pia «Fondazione Mauroyeni», in Venezia. (032U0733)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/07/1932
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-733. R. decreto 2 maggio 1932, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, e' approvato lo statuto organico dell'Opera pia «Fondazione Mauroyeni», in Venezia.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 14 giugno 1932 - Anno X
+733.
+
+R. decreto 2 maggio 1932, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, e' approvato lo statuto organico dell'Opera pia «Fondazione Mauroyeni», in Venezia. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 14 giugno 1932 - Anno X

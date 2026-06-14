@@ -1,16 +1,14 @@
-REGIO DECRETO 13 febbraio 1870 n. 5506
-
-
-REGIO DECRETO 13 febbraio 1870 n. 5506
-======================================
-
-Col quale alla Scuola maschile normale di Firenze e' aggiunto un Incaricato per l'insegnamento della ginnastica e degli esercizi militari. (070U5506)
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/03/1870
+---
+tipo: REGIO DECRETO
+numero: 5506
+data: 1870-02-13
+titolo: "Col quale alla Scuola maschile normale di Firenze e' aggiunto un Incaricato per l'insegnamento della ginnastica e degli esercizi militari. (070U5506)"
+urn: urn:nir:stato:regio.decreto:1870-02-13;5506
+codice_redazionale: 070U5506
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,29 +18,22 @@ Veduto che nella Tabella del personale e degli insegnamenti, approvata per la Sc
 
 Ritenuta la necessita' di siffatto insegnamento;
 
-Sulla
------
+Sulla proposizione del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Alla Tabella del personale e degli insegnamenti, approvata col suddetto Nostro Decreto per la Scuola maschile normale di Firenze, e' aggiunto un Incaricato per l'insegnamento della ginnastica e degli esercizi militari, con l'annuo stipendio di lire seicento.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 13 febbraio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 24 febbraio 1870   
-  
-Reg. 50 Atti del Governo a c. 91. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-C. Correnti.   
-  
+Alla Tabella del personale e degli insegnamenti, approvata col suddetto Nostro Decreto per la Scuola maschile normale di Firenze, e' aggiunto un Incaricato per l'insegnamento della ginnastica e degli esercizi militari, con l'annuo stipendio di lire seicento. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 13 febbraio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 24 febbraio 1870 
+ 
+ Reg. 50 Atti del Governo a c. 91. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ C. Correnti.

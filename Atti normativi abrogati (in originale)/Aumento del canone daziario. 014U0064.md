@@ -1,19 +1,15 @@
-REGIO DECRETO 18 gennaio 1914 n. 64
+---
+tipo: REGIO DECRETO
+numero: 64
+data: 1914-01-18
+titolo: "Aumento del canone daziario. (014U0064)"
+urn: urn:nir:stato:regio.decreto:1914-01-18;64
+codice_redazionale: 014U0064
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 gennaio 1914 n. 64
-===================================
-
-Aumento del canone daziario. (014U0064)
----------------------------------------
-
-Entrata in vigore del provvedimento: 27/02/1914
-
-Art. 1
-------
-
-  
-N. 64   
-  
-Regio Decreto 18 gennaio 1914, col quale, sulla proposta del ministro delle finanze, viene parzialmente modificato il precedente [R. decreto 18 dicembre 1913, n. 1411](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-12-18;1411), e il canone annuo di dazio consumo assegnato al comune di Padova e' elevato da lire 614.537,85 a L. 614.757,45 con decorrenza dal 1° settembre 1913.   
-  
+N. 64 
+ 
+ Regio Decreto 18 gennaio 1914, col quale, sulla proposta del ministro delle finanze, viene parzialmente modificato il precedente [R. decreto 18 dicembre 1913, n. 1411](Elevazione%20di%20canone%20daziario.%20013U1411.md), e il canone annuo di dazio consumo assegnato al comune di Padova e' elevato da lire 614.537,85 a L. 614.757,45 con decorrenza dal 1° settembre 1913.

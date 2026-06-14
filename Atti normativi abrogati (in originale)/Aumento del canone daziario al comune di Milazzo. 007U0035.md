@@ -1,16 +1,14 @@
-REGIO DECRETO 24 gennaio 1907 n. 35
-
-
-REGIO DECRETO 24 gennaio 1907 n. 35
-===================================
-
-Aumento del canone daziario al comune di Milazzo. (007U0035)
-------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/03/1907
+---
+tipo: REGIO DECRETO
+numero: 35
+data: 1907-01-24
+titolo: "Aumento del canone daziario al comune di Milazzo. (007U0035)"
+urn: urn:nir:stato:regio.decreto:1907-01-24;35
+codice_redazionale: 007U0035
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,39 +22,28 @@ Veduto il censimento della popolazione del Regno, approvato col Nostro decreto 2
 
 Veduta la statistica del detto censimento, pubblicata nell'anno 1902 dal Ministero di agricoltura, industria e commercio;
 
-Viste le deliberazioni 21 giugno e 13 agosto 1906 del Consiglio comunale di Milazzo, con le quali esso chiede il passaggio di quel Comune dalla quarta alla terza classe, obbligandosi di corrispondere allo Stato un aumento di canone come all'[art. 4 della legge 14 luglio 1898, n. 302](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-07-14;302~art4);
+Viste le deliberazioni 21 giugno e 13 agosto 1906 del Consiglio comunale di Milazzo, con le quali esso chiede il passaggio di quel Comune dalla quarta alla terza classe, obbligandosi di corrispondere allo Stato un aumento di canone come all'[art. 4 della legge 14 luglio 1898, n. 302](Riforma%20dei%20dazi%20comunali%20di%20consumo.%20098U0302.md);
 
 Visto il Nostro decreto 14 gennaio 1906, n. 12, col quale venne stabilito in annue lire dodicimila trecentosessantacinque e centesimi quarantasei il canone daziario del detto comune di Milazzo;
 
-Vista la decisione in data 14 corrente mese della Commissione centrale istituita ai sensi delle [leggi 23 gennaio 1902, n. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-01-23;25), allegato A e 6 luglio 1905, n. 323;
+Vista la decisione in data 14 corrente mese della Commissione centrale istituita ai sensi delle [leggi 23 gennaio 1902, n. 25](Concernente%20sgravio%20di%20consumi%20ed%20altri%20provvedimenti%20finanziari%20002U0025.md), allegato A e 6 luglio 1905, n. 323;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il comune di Milazzo, in provincia di Messina, e' dichiarato di terza classe, rimanendo con la qualifica di aperto.
 
-  
-  
-Il comune di Milazzo, in provincia di Messina, e' dichiarato di terza classe, rimanendo con la qualifica di aperto.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il canone daziario governativo del Comune anzidetto e' aumentato da annue lire dodicimila trecentosessantacinque e centesimi quarantasei (L. 12,365.46) ad annue lire tredicimila novecentonovantotto e centesimi trentotto (L. 13,998.38).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 gennaio 1907.   
-  
-VITTORIO EMANUELE.   
-  
-Massimini.   
-  
-Visto, Il guardasigilli: Gallo.   
-  
+Il canone daziario governativo del Comune anzidetto e' aumentato da annue lire dodicimila trecentosessantacinque e centesimi quarantasei (L. 12,365.46) ad annue lire tredicimila novecentonovantotto e centesimi trentotto (L. 13,998.38). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 gennaio 1907. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Massimini. 
+ 
+ Visto, Il guardasigilli: Gallo.

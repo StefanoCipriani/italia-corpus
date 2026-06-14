@@ -1,16 +1,14 @@
-REGIO DECRETO 11 marzo 1880 n. 5336
-
-
-REGIO DECRETO 11 marzo 1880 n. 5336
-===================================
-
-Che separa il comune di Loro Piceno dalla sezione elettorale di San Ginesio e forma una sezione distinta del collegio di Tolentino. (080U5336)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/04/1880
+---
+tipo: REGIO DECRETO
+numero: 5336
+data: 1880-03-11
+titolo: "Che separa il comune di Loro Piceno dalla sezione elettorale di San Ginesio e forma una sezione distinta del collegio di Tolentino. (080U5336)"
+urn: urn:nir:stato:regio.decreto:1880-03-11;5336
+codice_redazionale: 080U5336
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Che gli elettori di Loro Piceno sono 52, numero questo alquanto superiore a quel
 
 Considerato che la istituzione di una sezione elettorale in Loro Piceno rende molto piu' facile a quegli elettori l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Loro Piceno e' separato dalla sezione elettorale di San Ginesio e formera' una sezione distinta del Collegio elettorale di Tolentino.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 marzo 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il comune di Loro Piceno e' separato dalla sezione elettorale di San Ginesio e formera' una sezione distinta del Collegio elettorale di Tolentino. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

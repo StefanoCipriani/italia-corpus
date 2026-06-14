@@ -1,17 +1,17 @@
-REGIO DECRETO 19 novembre 1922 n. 1855
+---
+tipo: REGIO DECRETO
+numero: 1855
+data: 1922-11-19
+titolo: "Erezione in Ente morale. (022U1855)"
+urn: urn:nir:stato:regio.decreto:1922-11-19;1855
+codice_redazionale: 022U1855
+vigente: true
+---
 
-
-REGIO DECRETO 19 novembre 1922 n. 1855
-======================================
-
-Erezione in Ente morale. (022U1855)
------------------------------------
-
-Entrata in vigore del provvedimento: 01/03/1923
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1855. Regio decreto 19 novembre 1922, col quale, sulla proposta del Ministro per la istruzione pubblica, la fondazione scolastica «Premi scolastici Leggio», con sede nel comune di Rosolini (Siracusa) viene eretta in Ente morale ed e' approvato il relativo statuto.
+1855.
+
+Regio decreto 19 novembre 1922, col quale, sulla proposta del Ministro per la istruzione pubblica, la fondazione scolastica «Premi scolastici Leggio», con sede nel comune di Rosolini (Siracusa) viene eretta in Ente morale ed e' approvato il relativo statuto.

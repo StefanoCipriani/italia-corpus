@@ -1,17 +1,17 @@
-REGIO DECRETO 21 aprile 1895 n. 149
+---
+tipo: REGIO DECRETO
+numero: 149
+data: 1895-04-21
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0149)"
+urn: urn:nir:stato:regio.decreto:1895-04-21;149
+codice_redazionale: 095U0149
+vigente: true
+---
 
-
-REGIO DECRETO 21 aprile 1895 n. 149
-===================================
-
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0149)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1895
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-149. I Comuni di Rapagnano, Francavilla d'Ete e Magliano di Tenna sono aggregati alla Sezione elettorale di Montegiorgio del Collegio di Montegiorgio.
+149.
+
+I Comuni di Rapagnano, Francavilla d'Ete e Magliano di Tenna sono aggregati alla Sezione elettorale di Montegiorgio del Collegio di Montegiorgio.

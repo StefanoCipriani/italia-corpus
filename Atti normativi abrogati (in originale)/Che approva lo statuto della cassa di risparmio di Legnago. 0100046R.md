@@ -1,23 +1,20 @@
-REGIO DECRETO 14 febbraio 1901 n. XLVI
+---
+tipo: REGIO DECRETO
+numero: XLVI
+data: 1901-02-14
+titolo: "Che approva lo statuto della cassa di risparmio di Legnago. (0100046R)"
+urn: urn:nir:stato:regio.decreto:1901-02-14;46
+codice_redazionale: 0100046R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 febbraio 1901 n. XLVI
-======================================
+Che approva il nuovo statuto della cassa di risparmio di Legnago. - Firmato VITTORIO EMANUELE - Controfirmato CARCANO - Visto E.
+Gianturco. 
+ 
+ Registrato alla Corte dei conti addi' 2 marzo
 
-Che approva lo statuto della cassa di risparmio di Legnago. (0100046R)
-----------------------------------------------------------------------
+1901.
 
-Entrata in vigore del provvedimento: 21/03/1901
-
-Art. 1
-------
-
-Che approva il nuovo statuto della cassa di risparmio di Legnago. - Firmato VITTORIO EMANUELE - Controfirmato CARCANO - Visto E.  
-Gianturco.   
-  
-Registrato alla Corte dei conti addi' 2 marzo
-
-1901. 
-  
-  
 Reg. 227. Atti del Governo a f. 153.

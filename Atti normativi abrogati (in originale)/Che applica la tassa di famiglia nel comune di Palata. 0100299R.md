@@ -1,21 +1,17 @@
-REGIO DECRETO 28 settembre 1901 n. CCXCIX
+---
+tipo: REGIO DECRETO
+numero: CCXCIX
+data: 1901-09-28
+titolo: "Che applica la tassa di famiglia nel comune di Palata. (0100299R)"
+urn: urn:nir:stato:regio.decreto:1901-09-28;299
+codice_redazionale: 0100299R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 settembre 1901 n. CCXCIX
-=========================================
-
-Che applica la tassa di famiglia nel comune di Palata. (0100299R)
------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/11/1901
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di Palata di applicare nel biennio 1901-902 la tassa di famiglia col limite massimo di lire 300 (trecento). - Firmato VITTORIO EMANUELE - Controfirmato Carcano - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 14 ottobre 1901.   
-  
-Reg. 231. Atti del Governo a f. 78.   
-  
+Col quale e' data facolta' al comune di Palata di applicare nel biennio 1901-902 la tassa di famiglia col limite massimo di lire 300 (trecento). - Firmato VITTORIO EMANUELE - Controfirmato Carcano - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 14 ottobre 1901. 
+ 
+ Reg. 231. Atti del Governo a f. 78.

@@ -1,16 +1,14 @@
-REGIO DECRETO 08 ottobre 1876 n. 3393
-
-
-REGIO DECRETO 08 ottobre 1876 n. 3393
-=====================================
-
-Col quale il comune di Caposele e' separato dalla sezione elettorale di Calabritto e formera' una sezione distinta del collegio elettorale di Campagna. (076U3393)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/10/1876
+---
+tipo: REGIO DECRETO
+numero: 3393
+data: 1876-10-08
+titolo: "Col quale il comune di Caposele e' separato dalla sezione elettorale di Calabritto e formera' una sezione distinta del collegio elettorale di Campagna. (076U3393)"
+urn: urn:nir:stato:regio.decreto:1876-10-08;3393
+codice_redazionale: 076U3393
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri,
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Caposele e' separato dalla sezione elettorale di Calabritto e formera' una sezione distinta del Collegio elettorale di Campagna.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 8 ottobre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
-  
+Il comune di Caposele e' separato dalla sezione elettorale di Calabritto e formera' una sezione distinta del Collegio elettorale di Campagna. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 8 ottobre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

@@ -1,16 +1,14 @@
-REGIO DECRETO 15 dicembre 1867 n. 4127
-
-
-REGIO DECRETO 15 dicembre 1867 n. 4127
-======================================
-
-Col quale la sede degli Uffizi comunali di Santa Teresa di Riva e' trasferita dalla borgata Fulci a quella di Bucalo. (067U4127)
---------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/01/1868
+---
+tipo: REGIO DECRETO
+numero: 4127
+data: 1867-12-15
+titolo: "Col quale la sede degli Uffizi comunali di Santa Teresa di Riva e' trasferita dalla borgata Fulci a quella di Bucalo. (067U4127)"
+urn: urn:nir:stato:regio.decreto:1867-12-15;4127
+codice_redazionale: 067U4127
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Vista la deliberazione emessa dal Consiglio comunale di Santa Teresa di Riva nel
 
 Visto il Decreto del Parlamento generale di Sicilia delli 9 settembre 1848;
 
-Visto
------
+Visto l'articolo 176 della Legge sull'amministrazione comunale e provinciale in data 20 marzo 1865; Abbiamo decretato e decretiamo:
 
-l'articolo 176 della Legge sull'amministrazione comunale e provinciale in data 20 marzo 1865; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A partire dal 1° gennaio 1868, la sede degli Uffizi comunali di Santa Teresa di Riva (Messina) e' trasferita dalla borgata Fulci a quella di Bucalo.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 15 dicembre 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 27 dicembre 1867   
-  
-Reg. 41 Atti del Governo a c. 219. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli A. Mari.   
-  
-Gualterio.   
-  
+A partire dal 1° gennaio 1868, la sede degli Uffizi comunali di Santa Teresa di Riva (Messina) e' trasferita dalla borgata Fulci a quella di Bucalo. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 15 dicembre 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 dicembre 1867 
+ 
+ Reg. 41 Atti del Governo a c. 219. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli A. Mari. 
+ 
+ Gualterio.

@@ -1,21 +1,17 @@
-REGIO DECRETO 11 aprile 1901 n. XCIX
+---
+tipo: REGIO DECRETO
+numero: XCIX
+data: 1901-04-11
+titolo: "Che applica la tassa di famiglia nel comune di Chianciano. (0100099R)"
+urn: urn:nir:stato:regio.decreto:1901-04-11;99
+codice_redazionale: 0100099R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 aprile 1901 n. XCIX
-====================================
-
-Che applica la tassa di famiglia nel comune di Chianciano. (0100099R)
----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/05/1901
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di Chianciano di applicare nel biennio 1901-1902 la tassa di famiglia col limite massimo di lire 100 (cento). - Firmato VITTORIO EMANUELE - Controfirmato L. Wollemborg - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 22 aprile 1901.   
-  
-Reg. 228. Atti del Governo a f. 69.   
-  
+Col quale e' data facolta' al comune di Chianciano di applicare nel biennio 1901-1902 la tassa di famiglia col limite massimo di lire 100 (cento). - Firmato VITTORIO EMANUELE - Controfirmato L. Wollemborg - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 22 aprile 1901. 
+ 
+ Reg. 228. Atti del Governo a f. 69.

@@ -1,17 +1,17 @@
-REGIO DECRETO 04 luglio 1920 n. 1035
+---
+tipo: REGIO DECRETO
+numero: 1035
+data: 1920-07-04
+titolo: "Erezione in Ente morale. (020U1035)"
+urn: urn:nir:stato:regio.decreto:1920-07-04;1035
+codice_redazionale: 020U1035
+vigente: true
+---
 
-
-REGIO DECRETO 04 luglio 1920 n. 1035
-====================================
-
-Erezione in Ente morale. (020U1035)
------------------------------------
-
-Entrata in vigore del provvedimento: 17/08/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1035. Regio decreto 4 luglio 1920, col quale, sulla proposta del ministro della guerra, l'offerta di L. 1600 fatta dal colonnello brigadiere d'artiglieria cav. Ernesto Pittaluga a favore del 5° reggimento bersaglieri, viene eretta in ente morale con la denominazione di «Fondazione Mario Pittaluga», e se ne approva lo statuto organico relativo.
+1035.
+
+Regio decreto 4 luglio 1920, col quale, sulla proposta del ministro della guerra, l'offerta di L. 1600 fatta dal colonnello brigadiere d'artiglieria cav. Ernesto Pittaluga a favore del 5° reggimento bersaglieri, viene eretta in ente morale con la denominazione di «Fondazione Mario Pittaluga», e se ne approva lo statuto organico relativo.

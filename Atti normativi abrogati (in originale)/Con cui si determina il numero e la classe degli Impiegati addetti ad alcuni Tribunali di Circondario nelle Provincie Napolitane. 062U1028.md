@@ -1,16 +1,14 @@
-REGIO DECRETO 14 dicembre 1862 n. 1028
-
-
-REGIO DECRETO 14 dicembre 1862 n. 1028
-======================================
-
-Con cui si determina il numero e la classe degli Impiegati addetti ad alcuni Tribunali di Circondario nelle Provincie Napolitane. (062U1028)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/01/1863
+---
+tipo: REGIO DECRETO
+numero: 1028
+data: 1862-12-14
+titolo: "Con cui si determina il numero e la classe degli Impiegati addetti ad alcuni Tribunali di Circondario nelle Provincie Napolitane. (062U1028)"
+urn: urn:nir:stato:regio.decreto:1862-12-14;1028
+codice_redazionale: 062U1028
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,45 +24,28 @@ Visto l'altro Decreto del 7 settembre ultimo, n.° 817, col quale venne stabilit
 
 Volendo ora stabilire con eguale classe e stipendio il numero del personale da assegnarsi alle Cancellerie ed alle Segreterie del Pubblico Ministero presso gli enunciati Tribunali, non che modificare quello gia' fissato per le altre, dei Tribunali di Avellino, Campobasso, Cosenza e Reggio;
 
-Sulla
------
+Sulla proposizione del Nostro Guardasigilli Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Guardasigilli Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il numero e la classe del personale degl'Impiegati dei novelli Tribunali di S. Angelo dei Lombardi, Larino, Rossano e Palmi resta stabilito, e quello dei Tribunali di Avellino, Campobasso, Cosenza e Reggio resta modificato nella conformita' apparente dalla tabella annessa al presente Decreto, firmata d'ordine Nostro dall'anzidetto Ministro Guardasigilli.
 
-  
-  
-Il numero e la classe del personale degl'Impiegati dei novelli Tribunali di S. Angelo dei Lombardi, Larino, Rossano e Palmi resta stabilito, e quello dei Tribunali di Avellino, Campobasso, Cosenza e Reggio resta modificato nella conformita' apparente dalla tabella annessa al presente Decreto, firmata d'ordine Nostro dall'anzidetto Ministro Guardasigilli.   
-  
-
-Art. 2
-------
+## Art. 2.
 
 Lo stipendio pei detti Impiegati sara' quello stesso assegnato nella tabella E dell'enunciato Decreto del 7 settembre
 
-1862. 
-  
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 14 dicembre 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 16 dicembre 1862   
-  
-Reg.º 21 Atti del Governo a c. 230. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Pisanelli.   
-  
-G. Pisanelli.
+1862.
 
-Tabella
-
-  
-Sede dei tribunali   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=062U102800100010110001&dgu=1862-12-22&art.dataPubblicazioneGazzetta=1862-12-22&art.codiceRedazionale=062U1028)
-  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 14 dicembre 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 16 dicembre 1862 
+ 
+ Reg.º 21 Atti del Governo a c. 230. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Pisanelli. 
+ 
+ G. Pisanelli.

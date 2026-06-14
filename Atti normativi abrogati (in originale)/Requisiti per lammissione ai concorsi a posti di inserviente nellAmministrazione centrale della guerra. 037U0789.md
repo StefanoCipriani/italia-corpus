@@ -1,16 +1,14 @@
-REGIO DECRETO 28 aprile 1937 n. 789
-
-
-REGIO DECRETO 28 aprile 1937 n. 789
-===================================
-
-Requisiti per l'ammissione ai concorsi a posti di inserviente nell'Amministrazione centrale della guerra. (037U0789)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/06/1937
+---
+tipo: REGIO DECRETO
+numero: 789
+data: 1937-04-28
+titolo: "Requisiti per l'ammissione ai concorsi a posti di inserviente nell'Amministrazione centrale della guerra. (037U0789)"
+urn: urn:nir:stato:regio.decreto:1937-04-28;789
+codice_redazionale: 037U0789
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -36,36 +34,30 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Per essere ammessi ai concorsi per la nomina ad inserviente in prova nel ruolo del personale subalterno dell'Amministrazione centrale della guerra e' necessario, oltre il possesso degli altri requisiti prescritti dalle vigenti disposizioni:   
-  
-a) avere prestato servizio militare;   
-  
-b) possedere un titolo di studio non inferiore al certificato di compimento alla fine della quinta classe elementare o alla licenza elementare secondo il precedente ordinamento scolastico;   
-  
-c) prestare servizio da almeno un anno quale salariato alle dipendenze delle Amministrazioni dello Stato.   
-  
-Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 aprile 1937 - Anno XV   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 5 giugno 1937 - Anno XV   
-  
-Atti del Governo, registro 386, foglio 32. - Mancini.   
+Per essere ammessi ai concorsi per la nomina ad inserviente in prova nel ruolo del personale subalterno dell'Amministrazione centrale della guerra e' necessario, oltre il possesso degli altri requisiti prescritti dalle vigenti disposizioni: 
+ 
+ a) avere prestato servizio militare; 
+ 
+ b) possedere un titolo di studio non inferiore al certificato di compimento alla fine della quinta classe elementare o alla licenza elementare secondo il precedente ordinamento scolastico; 
+ 
+ c) prestare servizio da almeno un anno quale salariato alle dipendenze delle Amministrazioni dello Stato. 
+ 
+ Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 aprile 1937 - Anno XV 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 5 giugno 1937 - Anno XV 
+ 
+ Atti del Governo, registro 386, foglio 32. - Mancini.

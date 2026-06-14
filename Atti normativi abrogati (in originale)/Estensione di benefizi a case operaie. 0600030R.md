@@ -1,19 +1,15 @@
-REGIO DECRETO 21 gennaio 1906 n. XXX
+---
+tipo: REGIO DECRETO
+numero: XXX
+data: 1906-01-21
+titolo: "Estensione di benefizi a case operaie. (0600030R)"
+urn: urn:nir:stato:regio.decreto:1906-01-21;30
+codice_redazionale: 0600030R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 gennaio 1906 n. XXX
-====================================
-
-Estensione di benefizi a case operaie. (0600030R)
--------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/03/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. XXX (Dato a Roma, il 21 gennaio 1906), col quale si estendono i benefizi della legge 3l maggio 1903, n. 254, a due porzioni di case operaie costruite dalla Societa' anonima cooperativa «San Giorgio» in Genova.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. XXX (Dato a Roma, il 21 gennaio 1906), col quale si estendono i benefizi della legge 3l maggio 1903, n. 254, a due porzioni di case operaie costruite dalla Societa' anonima cooperativa «San Giorgio» in Genova.

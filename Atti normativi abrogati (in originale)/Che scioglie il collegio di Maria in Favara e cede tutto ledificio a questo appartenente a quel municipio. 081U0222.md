@@ -1,16 +1,14 @@
-REGIO DECRETO 24 marzo 1881 n. 222
-
-
-REGIO DECRETO 24 marzo 1881 n. 222
-==================================
-
-Che scioglie il collegio di Maria in Favara, e cede tutto l'edificio a questo appartenente a quel municipio. (081U0222)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/07/1881
+---
+tipo: REGIO DECRETO
+numero: 222
+data: 1881-03-24
+titolo: "Che scioglie il collegio di Maria in Favara, e cede tutto l'edificio a questo appartenente a quel municipio. (081U0222)"
+urn: urn:nir:stato:regio.decreto:1881-03-24;222
+codice_redazionale: 081U0222
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,41 +28,26 @@ Considerato che lo scopo del municipio di Favara e' altamente lodevole; che i me
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il Collegio di Maria di Favara e' disciolto.
 
-  
-  
-Il Collegio di Maria di Favara e' disciolto.   
-  
+## Art. 2.
 
-Art. 2
-------
+Tutto l'edifizio, compresivi la chiesa ed il giardino, e le rendite di esso Collegio, passeranno in proprieta' al comune di Favara, il quale e' obbligato a destinare tanto l'uno che le altre ad esclusivo uso e vantaggio della pubblica istruzione.
 
-  
-  
-Tutto l'edifizio, compresivi la chiesa ed il giardino, e le rendite di esso Collegio, passeranno in proprieta' al comune di Favara, il quale e' obbligato a destinare tanto l'uno che le altre ad esclusivo uso e vantaggio della pubblica istruzione.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il comune di Favara paghera' tutte le passivita', gravanti sul patrimonio del Collegio e provvedera', al mantenimento delle oblate, che ora ne compongono la famiglia, assegnando loro una rendita vitalizia, e mettendo una casa a loro disposizione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 marzo 1881.   
-  
-UMBERTO.   
-  
-BACCELLI.   
-  
-Visto, il Guardasigilli: T. VILLA.   
-  
+Il comune di Favara paghera' tutte le passivita', gravanti sul patrimonio del Collegio e provvedera', al mantenimento delle oblate, che ora ne compongono la famiglia, assegnando loro una rendita vitalizia, e mettendo una casa a loro disposizione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 marzo 1881. 
+ 
+ UMBERTO. 
+ 
+ BACCELLI. 
+ 
+ Visto, il Guardasigilli: T. VILLA.

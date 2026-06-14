@@ -1,19 +1,15 @@
-REGIO DECRETO 16 febbraio 1913 n. 250
+---
+tipo: REGIO DECRETO
+numero: 250
+data: 1913-02-16
+titolo: "Approvazione di statuto e riconoscimento di corpo morale. (013U0250)"
+urn: urn:nir:stato:regio.decreto:1913-02-16;250
+codice_redazionale: 013U0250
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 febbraio 1913 n. 250
-=====================================
-
-Approvazione di statuto e riconoscimento di corpo morale. (013U0250)
---------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/04/1913
-
-Art. 1
-------
-
-  
-N. 250   
-  
-Regio Decreto 16 febbraio 1913, col quale, sulla proposta del ministro di agricoltura, industria e commercio, d'accordo col ministro dei lavori pubblici, viene riconosciuto come corpo morale il Consorzio autonomo delle cooperative della provincia di Ravenna, e ne e' approvato lo statuto.   
-  
+N. 250 
+ 
+ Regio Decreto 16 febbraio 1913, col quale, sulla proposta del ministro di agricoltura, industria e commercio, d'accordo col ministro dei lavori pubblici, viene riconosciuto come corpo morale il Consorzio autonomo delle cooperative della provincia di Ravenna, e ne e' approvato lo statuto.

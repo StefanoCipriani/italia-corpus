@@ -1,19 +1,15 @@
-REGIO DECRETO 02 aprile 1914 n. 279
+---
+tipo: REGIO DECRETO
+numero: 279
+data: 1914-04-02
+titolo: "Erezione in ente morale della fondazione «Ravaglia». (014U0279)"
+urn: urn:nir:stato:regio.decreto:1914-04-02;279
+codice_redazionale: 014U0279
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 aprile 1914 n. 279
-===================================
-
-Erezione in ente morale della fondazione «Ravaglia». (014U0279)
----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/05/1914
-
-Art. 1
-------
-
-  
-N. 279   
-  
-Regio Decreto 2 aprile 1914, col quale, sulla proposta del ministro dell'interno, la fondazione intitolata «Legato dotalizio Ravaglia» con sede nel comune di Castel del Rio (Bologna), e' eretta in ente morale, sotto l'amministrazione della Congregazione di carita' del luogo.   
-  
+N. 279 
+ 
+ Regio Decreto 2 aprile 1914, col quale, sulla proposta del ministro dell'interno, la fondazione intitolata «Legato dotalizio Ravaglia» con sede nel comune di Castel del Rio (Bologna), e' eretta in ente morale, sotto l'amministrazione della Congregazione di carita' del luogo.

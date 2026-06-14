@@ -1,16 +1,14 @@
-REGIO DECRETO 23 ottobre 1875 n. 2750
-
-
-REGIO DECRETO 23 ottobre 1875 n. 2750
-=====================================
-
-Che estende le disposizioni dell'art. 72 delle istruzioni disciplinari, approvate con decreto 8 novembre 1868, alle bevande distillate, agli olii minerali, ecc. (075U2750)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/11/1875
+---
+tipo: REGIO DECRETO
+numero: 2750
+data: 1875-10-23
+titolo: "Che estende le disposizioni dell'art. 72 delle istruzioni disciplinari, approvate con decreto 8 novembre 1868, alle bevande distillate, agli olii minerali, ecc. (075U2750)"
+urn: urn:nir:stato:regio.decreto:1875-10-23;2750
+codice_redazionale: 075U2750
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Visto l'art. 72 delle istruzioni disciplinari per l'applicazione del regolamento
 
 Sulla proposta del Presidente del Consiglio dei Ministri,
 
-Ministro
---------
+Ministro delle Finanze, Abbiamo decretato e decretiamo:
 
-delle Finanze, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le disposizioni dell'art. 72 delle istruzioni disciplinari approvate col Nostro decreto 8 novembre 1868, relativamente alle merci che per potersi spedire in cabotaggio devono venire racchiuse in colli bollati, sono estese alle bevande distillate, agli olii minerali, non che alla cicoria preparata e agli altri prodotti similari.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regio d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Milano, addi' 23 ottobre 1875.   
-  
-VITTORIO EMANUELE.   
-  
-M. Minghetti.   
-  
-  
+Le disposizioni dell'art. 72 delle istruzioni disciplinari approvate col Nostro decreto 8 novembre 1868, relativamente alle merci che per potersi spedire in cabotaggio devono venire racchiuse in colli bollati, sono estese alle bevande distillate, agli olii minerali, non che alla cicoria preparata e agli altri prodotti similari. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regio d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Milano, addi' 23 ottobre 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. Minghetti.

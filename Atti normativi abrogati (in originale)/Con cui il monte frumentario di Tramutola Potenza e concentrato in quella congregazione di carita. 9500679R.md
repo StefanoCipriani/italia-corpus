@@ -1,21 +1,17 @@
-REGIO DECRETO 20 ottobre 1895 n. DCLXXIX
+---
+tipo: REGIO DECRETO
+numero: DCLXXIX
+data: 1895-10-20
+titolo: "Con cui il monte frumentario di Tramutola (Potenza), e' concentrato in quella congregazione di carita'. (9500679R)"
+urn: urn:nir:stato:regio.decreto:1895-10-20;679
+codice_redazionale: 9500679R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 ottobre 1895 n. DCLXXIX
-========================================
-
-Con cui il monte frumentario di Tramutola (Potenza), e' concentrato in quella congregazione di carita'. (9500679R)
-------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/01/1896
-
-Art. 1
-------
-
-  
-Con cui il monte frumentario di Tramutola (Potenza), e' concentrato in quella congregazione di carita'. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei conti addi' 6 dicembre 1895.   
-  
-Reg. 202. Atti del Governo a f. 244.   
-  
+Con cui il monte frumentario di Tramutola (Potenza), e' concentrato in quella congregazione di carita'. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei conti addi' 6 dicembre 1895. 
+ 
+ Reg. 202. Atti del Governo a f. 244.

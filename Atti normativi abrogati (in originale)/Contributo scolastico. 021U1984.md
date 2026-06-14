@@ -1,17 +1,17 @@
-REGIO DECRETO 19 settembre 1921 n. 1984
+---
+tipo: REGIO DECRETO
+numero: 1984
+data: 1921-09-19
+titolo: "Contributo scolastico. (021U1984)"
+urn: urn:nir:stato:regio.decreto:1921-09-19;1984
+codice_redazionale: 021U1984
+vigente: true
+---
 
-
-REGIO DECRETO 19 settembre 1921 n. 1984
-=======================================
-
-Contributo scolastico. (021U1984)
----------------------------------
-
-Entrata in vigore del provvedimento: 05/02/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1984. Regio decreto 19 settembre 1921, col quale, sulla proposta del ministro dell'istruzione pubblica, il contributo scolastico che il comune di Margno, deve annualmente versare alla R. tesoreria dello Stato in applicazione dell'[art. 17 della legge 4 giugno 1911, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487~art17), gia' fissato in L. 387,83, col [Regio decreto 21 gennaio 1915, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-21;752), e' elevato a lire 1187,83, a decorrere dal 1° ottobre 1921.
+1984.
+
+Regio decreto 19 settembre 1921, col quale, sulla proposta del ministro dell'istruzione pubblica, il contributo scolastico che il comune di Margno, deve annualmente versare alla R. tesoreria dello Stato in applicazione dell'[art. 17 della legge 4 giugno 1911, n. 487](Riguardante%20i%20provvedimenti%20per%20la%20istruzione%20elementare%20e%20popolare.%20011U0487.md), gia' fissato in L. 387,83, col [Regio decreto 21 gennaio 1915, n. 752](Col%20quale%20lamministrazione%20delle%20scuole%20elementari%20e%20popolari%20di%20442%20comuni%20della%20provincia%20di%20Como%20e%20affidata%20al%20Consiglio%20scolastico%20della%20stessa%20Provincia.%20015U0752.md), e' elevato a lire 1187,83, a decorrere dal 1° ottobre 1921.

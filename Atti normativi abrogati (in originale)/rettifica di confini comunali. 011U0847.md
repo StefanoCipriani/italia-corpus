@@ -1,19 +1,15 @@
-REGIO DECRETO 18 luglio 1911 n. 847
+---
+tipo: REGIO DECRETO
+numero: 847
+data: 1911-07-18
+titolo: "rettifica di confini comunali. (011U0847)"
+urn: urn:nir:stato:regio.decreto:1911-07-18;847
+codice_redazionale: 011U0847
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 luglio 1911 n. 847
-===================================
-
-rettifica di confini comunali. (011U0847)
------------------------------------------
-
-Entrata in vigore del provvedimento: 01/09/1911
-
-Art. 1
-------
-
-  
-N. 847   
-  
-R. decreto 18 luglio 1911, col quale, sulla proposta del ministro dell'interno, e' respinto il ricorso del comune di Poggiomarino in data 12 luglio 1906 diretto ad ottenere la rettifica dei confini, in contrada Flocco, col comune di Boscoreale.   
-  
+N. 847 
+ 
+ R. decreto 18 luglio 1911, col quale, sulla proposta del ministro dell'interno, e' respinto il ricorso del comune di Poggiomarino in data 12 luglio 1906 diretto ad ottenere la rettifica dei confini, in contrada Flocco, col comune di Boscoreale.

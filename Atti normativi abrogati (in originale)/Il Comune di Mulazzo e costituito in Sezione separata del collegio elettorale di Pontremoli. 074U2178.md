@@ -1,16 +1,14 @@
-REGIO DECRETO 22 ottobre 1874 n. 2178
-
-
-REGIO DECRETO 22 ottobre 1874 n. 2178
-=====================================
-
-Il Comune di Mulazzo e' costituito in Sezione separata del collegio elettorale di Pontremoli. (074U2178)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/11/1874
+---
+tipo: REGIO DECRETO
+numero: 2178
+data: 1874-10-22
+titolo: "Il Comune di Mulazzo e' costituito in Sezione separata del collegio elettorale di Pontremoli. (074U2178)"
+urn: urn:nir:stato:regio.decreto:1874-10-22;2178
+codice_redazionale: 074U2178
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Mulazzo e' costituito in sezione separata del Collegio elettorale di Pontremoli n. 219.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 22 ottobre 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
+Il comune di Mulazzo e' costituito in sezione separata del Collegio elettorale di Pontremoli n. 219. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 22 ottobre 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

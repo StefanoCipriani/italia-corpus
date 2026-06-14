@@ -1,19 +1,15 @@
-REGIO DECRETO 12 maggio 1910 n. CXCIV
+---
+tipo: REGIO DECRETO
+numero: CXCIV
+data: 1910-05-12
+titolo: "Col quale si modifica lo statuto organico della Cassa di risparmio di Alba. (1000194R)"
+urn: urn:nir:stato:regio.decreto:1910-05-12;194
+codice_redazionale: 1000194R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 maggio 1910 n. CXCIV
-=====================================
-
-Col quale si modifica lo statuto organico della Cassa di risparmio di Alba. (1000194R)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/07/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. CXCIV (Dato a Roma, il 12 maggio 1910), col quale si modifica lo statuto organico della Cassa di risparmio di Alba.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. CXCIV (Dato a Roma, il 12 maggio 1910), col quale si modifica lo statuto organico della Cassa di risparmio di Alba.

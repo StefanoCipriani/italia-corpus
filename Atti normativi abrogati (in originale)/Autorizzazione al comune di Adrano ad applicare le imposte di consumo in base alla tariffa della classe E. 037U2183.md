@@ -1,16 +1,14 @@
-REGIO DECRETO 25 novembre 1937 n. 2183
-
-
-REGIO DECRETO 25 novembre 1937 n. 2183
-======================================
-
-Autorizzazione al comune di Adrano ad applicare le imposte di consumo in base alla tariffa della classe E. (037U2183)
----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/01/1938
+---
+tipo: REGIO DECRETO
+numero: 2183
+data: 1937-11-25
+titolo: "Autorizzazione al comune di Adrano ad applicare le imposte di consumo in base alla tariffa della classe E. (037U2183)"
+urn: urn:nir:stato:regio.decreto:1937-11-25;2183
+codice_redazionale: 037U2183
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,28 +24,23 @@ Visto l'art. 26 sopracitato;
 
 Udita la Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
-
-Art. 1
-------
+## Art. 1.
 
 Il comune di Adrano e' autorizzato ad applicare le imposte di consumo in base alla tariffa della classe E, fino a tutto il 31 dicembre
 
-1940. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 novembre 1937 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto, il Guardasigilli: SOLMI   
-  
-Registrato alla Corte dei conti, addi' 30 dicembre 1937 - Anno XVI   
-Atti del Governo, registro 392, foglio 1S3. - MANCINI.
+1940.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 novembre 1937 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+ Visto, il Guardasigilli: SOLMI 
+ 
+ Registrato alla Corte dei conti, addi' 30 dicembre 1937 - Anno XVI  
+ Atti del Governo, registro 392, foglio 1S3. - MANCINI.

@@ -1,22 +1,22 @@
-REGIO DECRETO 07 giugno 1937 n. 1418
+---
+tipo: REGIO DECRETO
+numero: 1418
+data: 1937-06-07
+titolo: "Modificazioni allo statuto della Cassa di previdenza «Ambrogio Necchi», con sede in Pavia. (037U1418)"
+urn: urn:nir:stato:regio.decreto:1937-06-07;1418
+codice_redazionale: 037U1418
+vigente: true
+---
 
-
-REGIO DECRETO 07 giugno 1937 n. 1418
-====================================
-
-Modificazioni allo statuto della Cassa di previdenza «Ambrogio Necchi», con sede in Pavia. (037U1418)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/09/1937
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1418. R. decreto 7 giugno 1937, col quale, sulla proposta del Ministro per le corporazioni, vengono apportate alcune modifiche alla denominazione ed allo statuto organico della Cassa di previdenza a favore degli impiegati e capi reparto, dipendenti dalla S. A.  
-Fonderie Ambrogio Necchi, con sede in Pavia.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 7 agosto 1937 - Anno XV
+1418.
+
+R. decreto 7 giugno 1937, col quale, sulla proposta del Ministro per le corporazioni, vengono apportate alcune modifiche alla denominazione ed allo statuto organico della Cassa di previdenza a favore degli impiegati e capi reparto, dipendenti dalla S. A.
+Fonderie Ambrogio Necchi, con sede in Pavia. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 7 agosto 1937 - Anno XV

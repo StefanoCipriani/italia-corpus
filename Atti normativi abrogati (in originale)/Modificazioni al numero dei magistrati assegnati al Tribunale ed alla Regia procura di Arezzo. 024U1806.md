@@ -1,16 +1,14 @@
-REGIO DECRETO 06 novembre 1924 n. 1806
-
-
-REGIO DECRETO 06 novembre 1924 n. 1806
-======================================
-
-Modificazioni al numero dei magistrati assegnati al Tribunale ed alla Regia procura di Arezzo. (024U1806)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/11/1924
+---
+tipo: REGIO DECRETO
+numero: 1806
+data: 1924-11-06
+titolo: "Modificazioni al numero dei magistrati assegnati al Tribunale ed alla Regia procura di Arezzo. (024U1806)"
+urn: urn:nir:stato:regio.decreto:1924-11-06;1806
+codice_redazionale: 024U1806
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,31 +24,24 @@ Sentito il Consiglio superiore della magistratura;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Guardasigilli Ministro Segretario di Stato per la giustizia e gli affari di culto; Abbiamo decretato e decretiamo:
 
-proposta del Guardasigilli Ministro Segretario di Stato per la giustizia e gli affari di culto; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al Tribunale di Arezzo sono assegnati cinque giudici; ed alla Regia procura presso il detto Tribunale un sostituto procuratore del Re, rimanendo cosi' modificata la tabella C annessa al Nostro decreto 3 maggio 1923, n. 1165.   
-  
-Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 6 novembre 1924.   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Oviglio.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 17 novembre 1924.   
-  
-Atti del Governo, registro 230, foglio 128. - Granata.   
-  
+Al Tribunale di Arezzo sono assegnati cinque giudici; ed alla Regia procura presso il detto Tribunale un sostituto procuratore del Re, rimanendo cosi' modificata la tabella C annessa al Nostro decreto 3 maggio 1923, n. 1165. 
+ 
+ Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 6 novembre 1924. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Oviglio. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 17 novembre 1924. 
+ 
+ Atti del Governo, registro 230, foglio 128. - Granata.

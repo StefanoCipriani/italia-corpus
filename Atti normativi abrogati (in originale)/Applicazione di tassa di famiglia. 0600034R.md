@@ -1,19 +1,15 @@
-REGIO DECRETO 25 febbraio 1906 n. XXXIV
+---
+tipo: REGIO DECRETO
+numero: XXXIV
+data: 1906-02-25
+titolo: "Applicazione di tassa di famiglia. (0600034R)"
+urn: urn:nir:stato:regio.decreto:1906-02-25;34
+codice_redazionale: 0600034R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 febbraio 1906 n. XXXIV
-=======================================
-
-Applicazione di tassa di famiglia. (0600034R)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 01/04/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. XXXIV (Dato a Roma, il 25 febbraio 1906), col quale e' data facolta' al comune di Pettinengo di applicare, nel triennio 1906-1908, la tassa di famiglia col limite massimo di L. 250 (duecentocinquanta).   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. XXXIV (Dato a Roma, il 25 febbraio 1906), col quale e' data facolta' al comune di Pettinengo di applicare, nel triennio 1906-1908, la tassa di famiglia col limite massimo di L. 250 (duecentocinquanta).

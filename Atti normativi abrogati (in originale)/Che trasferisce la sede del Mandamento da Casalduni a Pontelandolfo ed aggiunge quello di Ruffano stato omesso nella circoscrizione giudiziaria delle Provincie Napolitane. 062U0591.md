@@ -1,16 +1,14 @@
-REGIO DECRETO 04 maggio 1862 n. 591
-
-
-REGIO DECRETO 04 maggio 1862 n. 591
-===================================
-
-Che trasferisce la sede del Mandamento da Casalduni a Pontelandolfo, ed aggiunge quello di Ruffano stato omesso nella circoscrizione giudiziaria delle Provincie Napolitane. (062U0591)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/05/1862
+---
+tipo: REGIO DECRETO
+numero: 591
+data: 1862-05-04
+titolo: "Che trasferisce la sede del Mandamento da Casalduni a Pontelandolfo, ed aggiunge quello di Ruffano stato omesso nella circoscrizione giudiziaria delle Provincie Napolitane. (062U0591)"
+urn: urn:nir:stato:regio.decreto:1862-05-04;591
+codice_redazionale: 062U0591
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,35 +22,24 @@ Visti i ricorsi di vari Municipi componenti il Mandamento gia' di Pontelandolfo 
 
 Ritenuto che occorrerebbe anche riparare ad un errore materiale occorso nella Tabella A, annessa al citato Decreto 20 novembre 1861, n.° 329, in quanto si pretermise il Mandamento di Ruffano posto nella Provincia di Lecce, Circondario di Gallipoli;
 
-Sulla
------
+Sulla proposizione del Nostro Guardasigilli, Ministro di Grazia e Giustizia e de' Culti; Abbiamo decretato e decretiamo quanto segue:
 
-proposizione del Nostro Guardasigilli, Ministro di Grazia e Giustizia e de' Culti; Abbiamo decretato e decretiamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+A partire dal 15 corrente maggio il Mandamento che ha ora la sede in Casalduni avra' per Capoluogo il Comune di Pontelandolfo, e ne prendera' il nome.
 
-  
-  
-A partire dal 15 corrente maggio il Mandamento che ha ora la sede in Casalduni avra' per Capoluogo il Comune di Pontelandolfo, e ne prendera' il nome.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Fra i Mandamenti dipendenti dal Tribunale del Circondario di Lecce sara' annoverato anche quello di Ruffano che nella Tabella A annessa al Decreto 20 novembre 1861, n.° 329, si trova omesso.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli addi' 4 maggio 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 maggio 1862   
-Reg.° 19 Atti del Governo a c. 277. Wehrlin.   
-Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
-  
-Raffaele Conforti.   
-  
+Fra i Mandamenti dipendenti dal Tribunale del Circondario di Lecce sara' annoverato anche quello di Ruffano che nella Tabella A annessa al Decreto 20 novembre 1861, n.° 329, si trova omesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli addi' 4 maggio 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 maggio 1862 
+ Reg.° 19 Atti del Governo a c. 277. Wehrlin. 
+ Luogo del Sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ Raffaele Conforti.

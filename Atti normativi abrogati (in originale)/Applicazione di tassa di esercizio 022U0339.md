@@ -1,17 +1,17 @@
-REGIO DECRETO 19 febbraio 1922 n. 339
+---
+tipo: REGIO DECRETO
+numero: 339
+data: 1922-02-19
+titolo: "Applicazione di tassa di esercizio (022U0339)"
+urn: urn:nir:stato:regio.decreto:1922-02-19;339
+codice_redazionale: 022U0339
+vigente: true
+---
 
-
-REGIO DECRETO 19 febbraio 1922 n. 339
-=====================================
-
-Applicazione di tassa di esercizio (022U0339)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 16/04/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-339. Regio decreto 19 febbraio 1922, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Pomarance (Pisa), di applicare dal 1° gennaio al 31 dicembre 1921 la tassa di esercizio, col limite massimo fino a L. 2000.
+339.
+
+Regio decreto 19 febbraio 1922, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Pomarance (Pisa), di applicare dal 1° gennaio al 31 dicembre 1921 la tassa di esercizio, col limite massimo fino a L. 2000.

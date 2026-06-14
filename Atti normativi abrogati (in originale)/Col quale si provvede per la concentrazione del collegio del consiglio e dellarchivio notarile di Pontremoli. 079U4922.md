@@ -1,16 +1,14 @@
-REGIO DECRETO 15 giugno 1879 n. 4922
-
-
-REGIO DECRETO 15 giugno 1879 n. 4922
-====================================
-
-Col quale si provvede per la concentrazione del collegio, del consiglio e dell'archivio notarile di Pontremoli. (079U4922)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/07/1879
+---
+tipo: REGIO DECRETO
+numero: 4922
+data: 1879-06-15
+titolo: "Col quale si provvede per la concentrazione del collegio, del consiglio e dell'archivio notarile di Pontremoli. (079U4922)"
+urn: urn:nir:stato:regio.decreto:1879-06-15;4922
+codice_redazionale: 079U4922
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,31 +22,20 @@ Considerato che e' dimostrata la convenienza di riunire il Distretto di Pontremo
 
 In virtu' della facolta' concessa dall'articolo 145 della legge sul riordinamento del Notariato, per la quale il Governo del Re e' autorizzato a provvedere con decreto Reale alla sistemazione degli Archivi notarili attualmente esistenti;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il Collegio, il Consiglio e l'Archivio notarile di Pontremoli sono soppressi e riuniti al Distretto Notarile di Massa, capoluogo della provincia.
 
-  
-  
-Il Collegio, il Consiglio e l'Archivio notarile di Pontremoli sono soppressi e riuniti al Distretto Notarile di Massa, capoluogo della provincia.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il concentramento effettivo dell'attuale Archivio notarile di Massa, capoluogo della provincia, non avra' luogo che dopo la costituzione del nuovo Collegio notarile di Massa, formato dalla riunione dei due Distretti di Massa e Pontremoli, da effettuarsi ai termini dell'articolo 144 della legge, affinche' il Governo inteso il voto della medesima e della Corte d'appello, sia in grado di provvedere per l'eventuale sua conservazione come sussidiario, ai sensi dell'articolo 3 alinea 3° della legge, ovvero per la sua trasformazione in Archivio mandamentale o comunale, quando concorrano gli estimi voluti dagli articoli 101 e 146 della legge notarile sovracitata.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 15 giugno 1879.   
-  
-UMBERTO.   
-  
-Taiani.   
-  
+Il concentramento effettivo dell'attuale Archivio notarile di Massa, capoluogo della provincia, non avra' luogo che dopo la costituzione del nuovo Collegio notarile di Massa, formato dalla riunione dei due Distretti di Massa e Pontremoli, da effettuarsi ai termini dell'articolo 144 della legge, affinche' il Governo inteso il voto della medesima e della Corte d'appello, sia in grado di provvedere per l'eventuale sua conservazione come sussidiario, ai sensi dell'articolo 3 alinea 3° della legge, ovvero per la sua trasformazione in Archivio mandamentale o comunale, quando concorrano gli estimi voluti dagli articoli 101 e 146 della legge notarile sovracitata. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 15 giugno 1879. 
+ 
+ UMBERTO. 
+ 
+ Taiani.

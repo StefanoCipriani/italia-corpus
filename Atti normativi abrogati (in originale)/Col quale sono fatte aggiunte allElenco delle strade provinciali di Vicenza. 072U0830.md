@@ -1,16 +1,14 @@
-REGIO DECRETO 06 maggio 1872 n. 830
-
-
-REGIO DECRETO 06 maggio 1872 n. 830
-===================================
-
-Col quale sono fatte aggiunte all'Elenco delle strade provinciali di Vicenza. (072U0830)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/07/1872
+---
+tipo: REGIO DECRETO
+numero: 830
+data: 1872-05-06
+titolo: "Col quale sono fatte aggiunte all'Elenco delle strade provinciali di Vicenza. (072U0830)"
+urn: urn:nir:stato:regio.decreto:1872-05-06;830
+codice_redazionale: 072U0830
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -42,33 +40,22 @@ Che quindi le ragioni svolte in detto decreto per la inscrizione fra le provinci
 
 Sentito l'avviso del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono aggiunte all'elenco delle strade provinciali di Vicenza quella detta Priabona, che dalla nazionale di Villania mette alla provinciale Valdagnese in comune di Cornedo, e l'altra, detta Castellana, che da Rosa' giunge al confine Trevisano.
 
-  
-  
-Sono aggiunte all'elenco delle strade provinciali di Vicenza quella detta Priabona, che dalla nazionale di Villania mette alla provinciale Valdagnese in comune di Cornedo, e l'altra, detta Castellana, che da Rosa' giunge al confine Trevisano.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-I limiti della strada della Riviera, descritta al n. 8 del predetto elenco, sono stabiliti come segue:   
-  
-Dalla porta Santa Croce in Vicenza, per il Pozzo Rosso e le contrade delle Barche e di Santa Caterina, al confine colla provincia di Padova in comune di Noventa Vicentina, con diramazione per Barbarano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli, addi' 6 maggio 1872.   
-  
-VITTORIO EMANUELE.   
-  
-Devincenzi.   
-  
+I limiti della strada della Riviera, descritta al n. 8 del predetto elenco, sono stabiliti come segue: 
+ 
+ Dalla porta Santa Croce in Vicenza, per il Pozzo Rosso e le contrade delle Barche e di Santa Caterina, al confine colla provincia di Padova in comune di Noventa Vicentina, con diramazione per Barbarano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli, addi' 6 maggio 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Devincenzi.

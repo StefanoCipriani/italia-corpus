@@ -1,17 +1,17 @@
-REGIO DECRETO 30 novembre 1922 n. 1762
+---
+tipo: REGIO DECRETO
+numero: 1762
+data: 1922-11-30
+titolo: "Istituzione di ufficio di conciliazione. (022U1762)"
+urn: urn:nir:stato:regio.decreto:1922-11-30;1762
+codice_redazionale: 022U1762
+vigente: true
+---
 
-
-REGIO DECRETO 30 novembre 1922 n. 1762
-======================================
-
-Istituzione di ufficio di conciliazione. (022U1762)
----------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/02/1923
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1762. Regio decreto 30 novembre 1922, col quale, stalla proposta del Ministro della giustizia e degli affari di culto, viene istituito in Calvi, frazione del comune di San Nazzaro Calvi, un distinto ufficio di conciliazione con giurisdizione sul territorio della frazione stessa.
+1762.
+
+Regio decreto 30 novembre 1922, col quale, stalla proposta del Ministro della giustizia e degli affari di culto, viene istituito in Calvi, frazione del comune di San Nazzaro Calvi, un distinto ufficio di conciliazione con giurisdizione sul territorio della frazione stessa.

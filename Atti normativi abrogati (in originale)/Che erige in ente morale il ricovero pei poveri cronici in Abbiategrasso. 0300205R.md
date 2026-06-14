@@ -1,23 +1,19 @@
-REGIO DECRETO 11 giugno 1903 n. CCV
+---
+tipo: REGIO DECRETO
+numero: CCV
+data: 1903-06-11
+titolo: "Che erige in ente morale il ricovero pei poveri cronici in Abbiategrasso. (0300205R)"
+urn: urn:nir:stato:regio.decreto:1903-06-11;205
+codice_redazionale: 0300205R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 giugno 1903 n. CCV
-===================================
-
-Che erige in ente morale il ricovero pei poveri cronici in Abbiategrasso. (0300205R)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/07/1903
-
-Art. 1
-------
-
-  
-Con cui il ricovero pei poveri cronici del comune di Abbiategrasso viene eretto in ente morale e ne viene approvato lo statuto organico.  
-- Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F.  
-Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 25 giugno 1903.   
-  
-Reg. 10. Atti del Governo a f. 68.   
-  
+Con cui il ricovero pei poveri cronici del comune di Abbiategrasso viene eretto in ente morale e ne viene approvato lo statuto organico.
+- Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F.
+Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 25 giugno 1903. 
+ 
+ Reg. 10. Atti del Governo a f. 68.

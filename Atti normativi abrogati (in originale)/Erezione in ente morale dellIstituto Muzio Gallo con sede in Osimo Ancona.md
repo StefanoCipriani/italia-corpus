@@ -1,16 +1,16 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 06 settembre 1946 n. 247
+---
+tipo: DECRETO DEL CAPO PROVVISORIO DELLO STATO
+numero: 247
+data: 1946-09-06
+titolo: "Erezione in ente morale dell'Istituto Muzio Gallo, con sede in Osimo (Ancona)."
+urn: urn:nir:stato:decreto.del.capo.provvisorio.dello.stato:1946-09-06;247
+codice_redazionale: 046U0247
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 06 settembre 1946 n. 247
-=================================================================
+N. 247 Decreto del Capo provvisorio dello Stato 6 settembre 1946, col quale, sulla proposta del Ministro per l'interno, l'Istituto Muzio Gallo, con sede in Osimo, viene eretto in ente morale, sotto amministrazione autonoma, e ne viene approvato il relativo statuto organico.
 
-Erezione in ente morale dell'Istituto Muzio Gallo, con sede in Osimo (Ancona).
-------------------------------------------------------------------------------
-
-Art. 1
-------
-
-N. 247 Decreto del Capo provvisorio dello Stato 6 settembre 1946, col quale, sulla proposta del Ministro per l'interno, l'Istituto Muzio Gallo, con sede in Osimo, viene eretto in ente morale, sotto amministrazione autonoma, e ne viene approvato il relativo statuto organico.  
-  
-Visto, il Guardasigilli: GULLO  
-Registrato alla Corte dei conti addi' 22 ottobre 1946  
+Visto, il Guardasigilli: GULLO
+ Registrato alla Corte dei conti addi' 22 ottobre 1946

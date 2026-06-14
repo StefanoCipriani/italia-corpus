@@ -1,19 +1,15 @@
-REGIO DECRETO 12 febbraio 1865 n. MDLVII
+---
+tipo: REGIO DECRETO
+numero: MDLVII
+data: 1865-02-12
+titolo: "Portante derogazione ad altro dell'11 dicembre 1864, col quale erasi approvato un regolamento per la riscossione della tassa sul bestiame nel Comune di Filottrano della Provincia di Ancona. (6501557R)"
+urn: urn:nir:stato:regio.decreto:1865-02-12;1557
+codice_redazionale: 6501557R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 febbraio 1865 n. MDLVII
-========================================
-
-Portante derogazione ad altro dell'11 dicembre 1864, col quale erasi approvato un regolamento per la riscossione della tassa sul bestiame nel Comune di Filottrano della Provincia di Ancona. (6501557R)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/02/1865
-
-Art. 1
-------
-
-  
-Portante derogazione ad altro dell'11 dicembre 1864, col quale erasi approvato un regolamento per la riscossione della tassa sul bestiame nel Comune di Filottrano della Provincia di Ancona.   
-  
-Torino 12 febbraio 1865   
-  
+Portante derogazione ad altro dell'11 dicembre 1864, col quale erasi approvato un regolamento per la riscossione della tassa sul bestiame nel Comune di Filottrano della Provincia di Ancona. 
+ 
+ Torino 12 febbraio 1865

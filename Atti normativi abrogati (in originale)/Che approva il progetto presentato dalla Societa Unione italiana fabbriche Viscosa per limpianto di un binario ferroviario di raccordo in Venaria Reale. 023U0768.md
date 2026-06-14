@@ -1,16 +1,14 @@
-REGIO DECRETO 01 marzo 1923 n. 768
-
-
-REGIO DECRETO 01 marzo 1923 n. 768
-==================================
-
-Che approva il progetto presentato dalla Societa' «Unione italiana fabbriche Viscosa», per l'impianto di un binario ferroviario di raccordo in Venaria Reale. (023U0768)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/05/1923
+---
+tipo: REGIO DECRETO
+numero: 768
+data: 1923-03-01
+titolo: "Che approva il progetto presentato dalla Societa' «Unione italiana fabbriche Viscosa», per l'impianto di un binario ferroviario di raccordo in Venaria Reale. (023U0768)"
+urn: urn:nir:stato:regio.decreto:1923-03-01;768
+codice_redazionale: 023U0768
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 por grazia di Dio e per volonta' della Nazione
 
@@ -28,55 +26,32 @@ Udito il Consiglio superiore dei lavori pubblici;
 
 Sentito il Consiglio di Stato;
 
-Viste le [leggi 25 giugno 1865, n. 2359 e 18 dicembre 1879, n 5188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-12-18;5188), sulle espropriazioni per causa di pubblica utilita', nonche' il testo unico delle leggi ferroviarie 9 maggio 1912, n. 1447;
+Viste le [leggi 25 giugno 1865, n. 2359 e 18 dicembre 1879, n 5188](Che%20approva%20alcune%20modificazioni%20alla%20legge%20sulle%20espropriazioni%20per%20pubblica%20utilita%20del%2025%20giugno%201865%20n.%202359.%20079U5188.md), sulle espropriazioni per causa di pubblica utilita', nonche' il testo unico delle leggi ferroviarie 9 maggio 1912, n. 1447;
 
-Sulla
------
+Sulla proposta del Nostro Ministro segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvato, anche agli effetti della dichiarazione della pubblica utilita', il progetto presentato dalla Societa' «Unione italiana fabbriche Viscosa» per l'impianto e l'esercizio di un binario di raccordo allacciante il proprio stabilimento di solfuro di carbonio e l'attuale raccordo ferroviario della citta' di Torino, il quale e' collegato alla ferrovia Torino-Cirie-Lanzo-Ceres presso il fiume Stura.
 
-  
-  
-  
-E' approvato, anche agli effetti della dichiarazione della pubblica utilita', il progetto presentato dalla Societa' «Unione italiana fabbriche Viscosa» per l'impianto e l'esercizio di un binario di raccordo allacciante il proprio stabilimento di solfuro di carbonio e l'attuale raccordo ferroviario della citta' di Torino, il quale e' collegato alla ferrovia Torino-Cirie-Lanzo-Ceres presso il fiume Stura.   
-  
+## Art. 2.
 
-Art. 2
-------
+Per la esecuzione delle espropriazioni e dei lavori contemplati nel progetto succitato e' assegnato il termine di mesi 6 dalla data del presente decreto.
 
-  
-  
-  
-Per la esecuzione delle espropriazioni e dei lavori contemplati nel progetto succitato e' assegnato il termine di mesi 6 dalla data del presente decreto.   
-  
+## Art. 3.
 
-Art. 3
-------
+Il Governo si riserva ampia facolta' di modificare o sopprimere anche l'esercizio del raccordo, senza compenso, quando cio' ritenga necessario per esigenza di un pubblico servizio.
 
-  
-  
-  
-Il Governo si riserva ampia facolta' di modificare o sopprimere anche l'esercizio del raccordo, senza compenso, quando cio' ritenga necessario per esigenza di un pubblico servizio.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-  
-Il Nostro Ministro proponente e' incaricato della esecuzione del presente decreto.   
-  
-Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 1° marzo 1923.   
-  
-VITTORIO EMANUELE.   
-  
-CARNAZZA.   
-  
-Visto, il Guardasigilli: OVIGLIO.   
-  
+Il Nostro Ministro proponente e' incaricato della esecuzione del presente decreto. 
+ 
+ Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° marzo 1923. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ CARNAZZA. 
+ 
+ Visto, il Guardasigilli: OVIGLIO.

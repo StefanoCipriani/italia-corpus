@@ -1,19 +1,15 @@
-REGIO DECRETO 23 novembre 1862 n. DXCVI
+---
+tipo: REGIO DECRETO
+numero: DXCVI
+data: 1862-11-23
+titolo: "Che approva il regolamento di polizia rurale pel Comune di Bassano. (6200596R)"
+urn: urn:nir:stato:regio.decreto:1862-11-23;596
+codice_redazionale: 6200596R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 novembre 1862 n. DXCVI
-=======================================
-
-Che approva il regolamento di polizia rurale pel Comune di Bassano. (6200596R)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/11/1862
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia rurale adottato dalla Comunita' di Bassano (Provincia di Brescia) con deliberazione del 14 ottobre corrente anno.   
-  
-Torino 23 novembre 1862   
-  
+Che approva il regolamento di polizia rurale adottato dalla Comunita' di Bassano (Provincia di Brescia) con deliberazione del 14 ottobre corrente anno. 
+ 
+ Torino 23 novembre 1862

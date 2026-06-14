@@ -1,21 +1,21 @@
-REGIO DECRETO 02 dicembre 1923 n. 2805
+---
+tipo: REGIO DECRETO
+numero: 2805
+data: 1923-12-02
+titolo: "Nuovi contributi per il mantenimento del Regio laboratorio scuola per lavori femminili, in Siracusa. (023U2805)"
+urn: urn:nir:stato:regio.decreto:1923-12-02;2805
+codice_redazionale: 023U2805
+vigente: true
+---
 
-
-REGIO DECRETO 02 dicembre 1923 n. 2805
-======================================
-
-Nuovi contributi per il mantenimento del Regio laboratorio scuola per lavori femminili, in Siracusa. (023U2805)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/01/1924
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2805. Regio decreto 2 dicembre 1923, col quale, sulla proposta del Ministro per l'economia nazionale, vengono stabiliti i nuovi contributi per il mantenimento annuo del Regio laboratorio-scuola per lavori femminili, in Siracusa.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 4 gennaio 1924.
+2805.
+
+Regio decreto 2 dicembre 1923, col quale, sulla proposta del Ministro per l'economia nazionale, vengono stabiliti i nuovi contributi per il mantenimento annuo del Regio laboratorio-scuola per lavori femminili, in Siracusa. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 4 gennaio 1924.

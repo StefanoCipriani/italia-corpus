@@ -1,16 +1,14 @@
-REGIO DECRETO 05 aprile 1943 n. 287
-
-
-REGIO DECRETO 05 aprile 1943 n. 287
-===================================
-
-Anticipazione della data del sorteggio annuale delle obbligazioni del Prestito redimibile cinque per cento, emesso con R. decreto-legge 5 ottobre 1936-XIV, n. 1743, e composizione della serie F di detto prestito. (043U0287)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/05/1943
+---
+tipo: REGIO DECRETO
+numero: 287
+data: 1943-04-05
+titolo: "Anticipazione della data del sorteggio annuale delle obbligazioni del Prestito redimibile cinque per cento, emesso con R. decreto-legge 5 ottobre 1936-XIV, n. 1743, e composizione della serie F di detto prestito. (043U0287)"
+urn: urn:nir:stato:regio.decreto:1943-04-05;287
+codice_redazionale: 043U0287
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,50 +30,40 @@ Veduto l'art. 13 del detto R. decreto 24 novembre 1938-XVII, n. 1782, col quale 
 
 Ritenuto che occorre stabilire la composizione, per tagli, della sesta serie, inscritta nel Gran Libro, e anche essa interamente collocata;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I sorteggi annuali, al fine dell'ammortamento delle obbligazioni del prestito redimibile cinque per cento, emesso in forza del Regio decreto-legge 5 ottobre 1936-XIV, n. 1743, convertito nella legge 14 gennaio 1937-XV, n. 151, saranno eseguiti, a cominciare dall'anno 1943, anziche' nel mese di novembre, nel mese di luglio di ogni anno. 
+ 
+ Rimangono ferme tutte le altre norme considerate nel R. decreto 24 novembre 1938-XVII, n. 1782, sia per il sorteggio, sia per il rimborso delle obbligazioni, comprese nei gruppi estratti per ciascuna serie, che si continuera' a eseguire a decorrere dal 1 gennaio dell'anno successivo alla data del sorteggio.
 
-  
-  
-I sorteggi annuali, al fine dell'ammortamento delle obbligazioni del prestito redimibile cinque per cento, emesso in forza del Regio decreto-legge 5 ottobre 1936-XIV, n. 1743, convertito nella legge 14 gennaio 1937-XV, n. 151, saranno eseguiti, a cominciare dall'anno 1943, anziche' nel mese di novembre, nel mese di luglio di ogni anno.   
-  
-Rimangono ferme tutte le altre norme considerate nel R. decreto 24 novembre 1938-XVII, n. 1782, sia per il sorteggio, sia per il rimborso delle obbligazioni, comprese nei gruppi estratti per ciascuna serie, che si continuera' a eseguire a decorrere dal 1 gennaio dell'anno successivo alla data del sorteggio.   
+## Art. 2.
 
-Art. 2
-------
+La serie del prestito redimibile cinque per cento, contraddistinta con la lettera alfabetica F, inscritta sul Gran Libro del Debito pubblico, per il valore capitale di un miliardo di lire, e' costituita dai seguenti tagli:
 
-  
-  
-La serie del prestito redimibile cinque per cento, contraddistinta con la lettera alfabetica F, inscritta sul Gran Libro del Debito pubblico, per il valore capitale di un miliardo di lire, e' costituita dai seguenti tagli:   
-  
+Valore di ciascun taglio
+                                Quantita' dei titoli emessi
+                                capitale nominale
+                            Da L. 100 di capit. nom. »    500  »   » »  1.000  »   » »  2.000  »   » »  5 000  »   » » 10.000  »   » » 20.000  »   »
+                                1.077.735 175.807 68.360 35.244 24.607 23.728 15.258
+                                107.773.500 87.903.500 68.360.000 70.488.000 123.035.000 237.280.000 305.160.000
+                            Totale . . .
+                                1.420.739
+                                1.000.000.000
 
-|  |  |  |
-| --- | --- | --- |
-| Valore di ciascun taglio | Quantita' dei titoli emessi | capitale nominale |
-| Da L. 100 di capit. nom. » 500 » » » 1.000 » » » 2.000 » » » 5 000 » » » 10.000 » » » 20.000 » » | 1.077.735 175.807 68.360 35.244 24.607 23.728 15.258 | 107.773.500 87.903.500 68.360.000 70.488.000 123.035.000 237.280.000 305.160.000 |
-| Totale . . . | 1.420.739 | 1.000.000.000 |
-
-  
-  
-  
-  
-Ognuno dei duecento gruppi nei quali, a norma dell'art. 1 del R. decreto 10 novembre 1936-XV, n. 1933, e' ripartita la predetta serie, comprende 50.000 obbligazioni, da lire cento ciascuna, distribuite in varia misura fra i diversi tagli.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 aprile 1943-XXI   
-  
-VITTORIO EMANUELE   
-  
-ACERBO   
-  
-Visto, il Guardasigilli: DE MARSICO   
-  
-Registrato alla Corte dei conti, addi' 1° maggio 1943-XXI   
-  
-Atti del Governo, registro n. 457, foglio 4. - MANCINI   
+Ognuno dei duecento gruppi nei quali, a norma dell'art. 1 del R. decreto 10 novembre 1936-XV, n. 1933, e' ripartita la predetta serie, comprende 50.000 obbligazioni, da lire cento ciascuna, distribuite in varia misura fra i diversi tagli. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 aprile 1943-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ ACERBO 
+ 
+ Visto, il Guardasigilli: DE MARSICO 
+ 
+ Registrato alla Corte dei conti, addi' 1° maggio 1943-XXI 
+ 
+ Atti del Governo, registro n. 457, foglio 4. - MANCINI

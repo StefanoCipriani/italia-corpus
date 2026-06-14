@@ -1,16 +1,14 @@
-REGIO DECRETO 18 gennaio 1872 n. 645
-
-
-REGIO DECRETO 18 gennaio 1872 n. 645
-====================================
-
-Di convocazione del 4° Collegio elettorale di Milano. (072U0645)
-----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/02/1872
+---
+tipo: REGIO DECRETO
+numero: 645
+data: 1872-01-18
+titolo: "Di convocazione del 4° Collegio elettorale di Milano. (072U0645)"
+urn: urn:nir:stato:regio.decreto:1872-01-18;645
+codice_redazionale: 072U0645
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,31 +18,24 @@ Veduto il Messaggio in data del 16 gennaio corrente, col quale l'Ufficio di Pres
 
 Veduto l'articolo 63 della Legge per le elezioni politiche 17 dicembre 1860, n. 4513;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il 4° Collegio elettorale di Milano, n. 231, e' convocato pel giorno 11 febbraio prossimo venturo, affinche' proceda all'elezione del proprio Deputato.   
-  
-Occorrendo una seconda votazione, essa avra' luogo il giorno 18 dello stesso mese.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 18 gennaio 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 24 gennaio 1872   
-  
-Reg. 59 Atti del Governo a c. 46. D. Gherardi.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+Il 4° Collegio elettorale di Milano, n. 231, e' convocato pel giorno 11 febbraio prossimo venturo, affinche' proceda all'elezione del proprio Deputato. 
+ 
+ Occorrendo una seconda votazione, essa avra' luogo il giorno 18 dello stesso mese. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 18 gennaio 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 24 gennaio 1872 
+ 
+ Reg. 59 Atti del Governo a c. 46. D. Gherardi. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

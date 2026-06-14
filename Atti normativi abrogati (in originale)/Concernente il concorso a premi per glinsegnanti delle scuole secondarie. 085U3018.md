@@ -1,16 +1,14 @@
-REGIO DECRETO 12 marzo 1885 n. 3018
-
-
-REGIO DECRETO 12 marzo 1885 n. 3018
-===================================
-
-Concernente il concorso a premi per gl'insegnanti delle scuole secondarie. (085U3018)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/04/1885
+---
+tipo: REGIO DECRETO
+numero: 3018
+data: 1885-03-12
+titolo: "Concernente il concorso a premi per gl'insegnanti delle scuole secondarie. (085U3018)"
+urn: urn:nir:stato:regio.decreto:1885-03-12;3018
+codice_redazionale: 085U3018
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,23 +18,16 @@ Veduti i Nostri decreti dell'8 aprile 1880, n. 5394, 8 dicembre 1881, n. 530, e 
 
 Nell'intendimento di provvedere in modo efficace a che i lavori premiati in ogni disciplina fra le indicate nei mentovati decreti non rimangano, siccome avviene spesso, ignorati, ma sieno invece fatti di pubblica ragione a nobile eccitamento e a benefizio degli studiosi;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 marzo 1885.   
-  
-UMBERTO.   
-  
-COPPINO.   
-  
-Visto, Il Guardasigilli: PESSINA.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 marzo 1885. 
+ 
+ UMBERTO. 
+ 
+ COPPINO. 
+ 
+ Visto, Il Guardasigilli: PESSINA.

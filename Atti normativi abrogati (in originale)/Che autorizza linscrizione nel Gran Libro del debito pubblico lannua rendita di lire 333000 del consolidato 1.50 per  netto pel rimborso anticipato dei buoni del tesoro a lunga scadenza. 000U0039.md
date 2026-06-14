@@ -1,24 +1,22 @@
-REGIO DECRETO 08 febbraio 1900 n. 39
-
-
-REGIO DECRETO 08 febbraio 1900 n. 39
-====================================
-
-Che autorizza l'inscrizione nel Gran Libro del debito pubblico l'annua rendita di lire 333,000 del consolidato 1.50 per % netto pel rimborso anticipato dei buoni del tesoro a lunga scadenza. (000U0039)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/02/1900
+---
+tipo: REGIO DECRETO
+numero: 39
+data: 1900-02-08
+titolo: "Che autorizza l'inscrizione nel Gran Libro del debito pubblico l'annua rendita di lire 333,000 del consolidato 1.50 per % netto pel rimborso anticipato dei buoni del tesoro a lunga scadenza. (000U0039)"
+urn: urn:nir:stato:regio.decreto:1900-02-08;39
+codice_redazionale: 000U0039
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'[art. 2 della, legge 7 aprile 1892, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-04-07;111~art2), di creazione dei buoni del tesoro a lunga scadenza;
+Veduto l'[art. 2 della, legge 7 aprile 1892, n. 111](Che%20autorizza%20il%20Governo%20del%20Re%20ad%20emettere%20buoni%20del%20Tesoro%20a%20lunga%20scadenza%20per%20una%20somma%20fino%20a%20200%20milioni%20di%20lire.%20092U0111.md), di creazione dei buoni del tesoro a lunga scadenza;
 
-Veduto l'art. 19 del regolamento per l'emissione dei buoni suddetti approvato col [regio decreto 10 aprile 1892, numero 120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-04-10;120);
+Veduto l'art. 19 del regolamento per l'emissione dei buoni suddetti approvato col [regio decreto 10 aprile 1892, numero 120](Che%20approva%20il%20regolamento%20per%20la%20emissione%20dei%20buoni%20del%20Tesoro%20a%20lunga%20scadenza%20autorizzati%20con%20legge%207%20aprile%201892.%20092U0120.md);
 
 Veduto l'art. 6, dell'alleg. L, alla legge 8 agosto 1895, n, 486, sui provvedimenti di finanza e di tesoro;
 
@@ -78,35 +76,26 @@ Ritenuto che, in conseguenza, per realizzare la somma di L. 8,101,784.11 occorre
 
 Ritenuto che alle variazioni occorrenti nello stato di previsione della spesa del Ministero del tesoro per l'esercizio 1899-900 per diminuzione degli interessi relativi ai buoni estinti anticipatamente, sara', provveduto col rendiconto consuntivo per l'esercizio medesimo;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' autorizzata l'iscrizione sul Gran Libro del debito pubblico del Regno d'Italia dell'annua rendita consolidata 4.50% esente da ritenuta per qualsiasi imposta presente e futura, di lire trecentotrentatremila (333,000) con la decorrenza di godimento dal 1° gennaio 1900, da valere agli effetti del 2° comma dell'art. 6 dell'alleg. L alla [legge 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486);
 
-  
-  
-E' autorizzata l'iscrizione sul Gran Libro del debito pubblico del Regno d'Italia dell'annua rendita consolidata 4.50% esente da ritenuta per qualsiasi imposta presente e futura, di lire trecentotrentatremila (333,000) con la decorrenza di godimento dal 1° gennaio 1900, da valere agli effetti del 2° comma dell'art. 6 dell'alleg. L alla [legge 8 agosto 1895, n. 486](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486);   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Per effetto dell'iscrizione della rendita suddetta dovra' essere aumentato della somma di L. 166,500, corrispondente ai due trimestri di scadenza, 1° aprile e 1° luglio 1900, sulla rendita annua di L. 333,000, lo stanziamento al capitolo 4 dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1899-900 con la denominazione «Rendita consolidata, 4.50% netto».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 febbraio 1900.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 15 febbraio 1900.   
-  
-Reg. 222. Atti del Governo a f. 101. F. Rostagno.   
-  
-Luogo del Sigillo. V. Il Guardasigilli A. Ronasi.   
-  
-P. Boselli.   
+Per effetto dell'iscrizione della rendita suddetta dovra' essere aumentato della somma di L. 166,500, corrispondente ai due trimestri di scadenza, 1° aprile e 1° luglio 1900, sulla rendita annua di L. 333,000, lo stanziamento al capitolo 4 dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1899-900 con la denominazione «Rendita consolidata, 4.50% netto». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 febbraio 1900. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 15 febbraio 1900. 
+ 
+ Reg. 222. Atti del Governo a f. 101. F. Rostagno. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli A. Ronasi. 
+ 
+ P. Boselli.

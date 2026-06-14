@@ -1,17 +1,17 @@
-REGIO DECRETO 23 marzo 1922 n. 552
+---
+tipo: REGIO DECRETO
+numero: 552
+data: 1922-03-23
+titolo: "Erezione in corpo morale. (022U0552)"
+urn: urn:nir:stato:regio.decreto:1922-03-23;552
+codice_redazionale: 022U0552
+vigente: true
+---
 
-
-REGIO DECRETO 23 marzo 1922 n. 552
-==================================
-
-Erezione in corpo morale. (022U0552)
-------------------------------------
-
-Entrata in vigore del provvedimento: 19/05/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-552. Regio decreto 23 marzo 1922, col quale, sulla proposta del ministro per l'industria e il commercio, l'Istituto autonomo per le case popolari, con sede a Massa, viene riconosciuto come corpo morale e ne e' approvato lo statuto organico.
+552.
+
+Regio decreto 23 marzo 1922, col quale, sulla proposta del ministro per l'industria e il commercio, l'Istituto autonomo per le case popolari, con sede a Massa, viene riconosciuto come corpo morale e ne e' approvato lo statuto organico.

@@ -1,32 +1,27 @@
-REGIO DECRETO 25 febbraio 1892 n. CII
+---
+tipo: REGIO DECRETO
+numero: CII
+data: 1892-02-25
+titolo: "Che concentra nella congregazione di carita' di Novate Milanese, le opere pie Carrera, Bona, Binaghi e Bossi Montolo. (9200102R)"
+urn: urn:nir:stato:regio.decreto:1892-02-25;102
+codice_redazionale: 9200102R
+vigente: true
+---
 
+## Articolo unico.
 
-REGIO DECRETO 25 febbraio 1892 n. CII
-=====================================
-
-Che concentra nella congregazione di carita' di Novate Milanese, le opere pie Carrera, Bona, Binaghi e Bossi Montolo. (9200102R)
---------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/04/1892
-
-Articolo unico
---------------
-
-  
-  
-Le opere pie Carrera, Boni, Binaghi e Bossi Montolo sono concentrate nella congregazione di carita' di Novate Milanese.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 febbraio 1892.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 11 marzo 1892.   
-  
-Reg. 184. Atti del Governo a f. 39. Mandillo.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Chimirri.   
-  
-G. Nicotera.   
-  
+Le opere pie Carrera, Boni, Binaghi e Bossi Montolo sono concentrate nella congregazione di carita' di Novate Milanese. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 febbraio 1892. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 11 marzo 1892. 
+ 
+ Reg. 184. Atti del Governo a f. 39. Mandillo. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Chimirri. 
+ 
+ G. Nicotera.

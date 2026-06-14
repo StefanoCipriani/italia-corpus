@@ -1,17 +1,17 @@
-REGIO DECRETO 02 marzo 1922 n. 422
+---
+tipo: REGIO DECRETO
+numero: 422
+data: 1922-03-02
+titolo: "Modificazioni al regolamento di tassa di soggiorno (022U0422)"
+urn: urn:nir:stato:regio.decreto:1922-03-02;422
+codice_redazionale: 022U0422
+vigente: true
+---
 
-
-REGIO DECRETO 02 marzo 1922 n. 422
-==================================
-
-Modificazioni al regolamento di tassa di soggiorno (022U0422)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/05/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-422. Regio decreto 2 marzo 1922, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, si modificano gli articoli 3, 5 e 6 del regolamento per l'applicazione della tassa di soggiorno nel comune di Acqui, ai sensi della [legge 11 dicembre 1910, n. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-11;863).
+422.
+
+Regio decreto 2 marzo 1922, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, si modificano gli articoli 3, 5 e 6 del regolamento per l'applicazione della tassa di soggiorno nel comune di Acqui, ai sensi della [legge 11 dicembre 1910, n. 863](Che%20da%20facolta%20ai%20Comuni%20di%20istituire%20una%20tassa%20di%20soggiorno.%20010U0863.md).

@@ -1,19 +1,15 @@
-REGIO DECRETO 30 settembre 1907 n. DXXIII
+---
+tipo: REGIO DECRETO
+numero: DXXIII
+data: 1907-09-30
+titolo: "Trasformazione di Monte frumentario in Cassa di prestanze agrarie. (0700523R)"
+urn: urn:nir:stato:regio.decreto:1907-09-30;523
+codice_redazionale: 0700523R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 settembre 1907 n. DXXIII
-=========================================
-
-Trasformazione di Monte frumentario in Cassa di prestanze agrarie. (0700523R)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/01/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. DXXIII (Dato a Racconigi, il 30 settembre 1907), col quale il Monte frumentario di Roccagloriosa (Salerno) e' stato trasformato in una Cassa di prestanze agrarie o col quale altresi' la Cassa stessa e' stata concentrata nella Congregazione di carita' del luogo e fu approvato lo statuto organico del nuovo ente.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. DXXIII (Dato a Racconigi, il 30 settembre 1907), col quale il Monte frumentario di Roccagloriosa (Salerno) e' stato trasformato in una Cassa di prestanze agrarie o col quale altresi' la Cassa stessa e' stata concentrata nella Congregazione di carita' del luogo e fu approvato lo statuto organico del nuovo ente.

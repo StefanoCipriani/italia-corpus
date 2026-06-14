@@ -1,16 +1,14 @@
-REGIO DECRETO 22 novembre 1871 n. 558
-
-
-REGIO DECRETO 22 novembre 1871 n. 558
-=====================================
-
-Concernente gli insegnamenti delle quattro Sezioni dell'Istituto tecnico di Roma. (071U0558)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/01/1872
+---
+tipo: REGIO DECRETO
+numero: 558
+data: 1871-11-22
+titolo: "Concernente gli insegnamenti delle quattro Sezioni dell'Istituto tecnico di Roma. (071U0558)"
+urn: urn:nir:stato:regio.decreto:1871-11-22;558
+codice_redazionale: 071U0558
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,78 +16,110 @@ RE D'ITALIA
 
 Visto il R. decreto 17 settembre 1871, col quale fu fondato l'Istituto tecnico di Roma;
 
-Sulla
------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
-
-Art. 1
-------
+## Art. 1.
 
 Le quattro sezioni dell'Istituto tecnico di Roma comprenderanno gli insegnamenti seguenti:
 
-1. Agronomia, estimo e legislazione rurale.
+1.
 
-2. Chimica generale e chimica applicata.
+Agronomia, estimo e legislazione rurale.
 
-3. Fisica generale ed elementi di meccanica.
+2.
 
-4. Geologia e mineralogia.
+Chimica generale e chimica applicata.
 
-5. Botanica e zoologia.
+3.
 
-6. Geometria pratica e disegno topografico.
+Fisica generale ed elementi di meccanica.
 
-7. Costruzioni rurali e disegno di costruzioni.
+4.
 
-8. Matematiche elementari.
+Geologia e mineralogia.
 
-9. Matematiche superiori.
+5.
 
-10. Geometria descrittiva e disegno di questa materia.
+Botanica e zoologia.
 
-11. Disegno a mano libera e disegno ornamentale.
+6.
 
-12. Lettere italiane per le classi superiori.
+Geometria pratica e disegno topografico.
 
-13. Lettere italiane per le classi inferiori.
+7.
 
-14. Storia e geografia politica.
+Costruzioni rurali e disegno di costruzioni.
 
-15. Statistica ed economia.
+8.
 
-16. Diritto.
+Matematiche elementari.
 
-17. Computisteria e ragioneria.
+9.
 
-18. Lingua francese.
+Matematiche superiori.
 
-19. Lingua tedesca.
+10.
 
-20. Lingua inglese.   
-  
-I professori di geologia e mineralogia botanica e zoologia si ripartiranno l'insegnamento delle applicazioni di storia naturale all'agricoltura e al commercio e della geografia fisica.
+Geometria descrittiva e disegno di questa materia.
 
-Art. 2
-------
+11.
 
-  
-  
-Il personale dirigente ed insegnante sara' composto di:   
-  
-1 Preside a . . . . . . . . . L. 5000 5000   
-4 Professori a . . . . . . . » 2200 8800   
-6 Professori a . . . . . . . » 2000 12000   
-10 Professori a . . . . . . . » 1800 18000   
-1 Aggiunto per la chimica 1200 1200   
------   
-L. 45000   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 novembre 1871.   
-  
-VITTORIO EMANUELE.   
-  
-Castagnola.   
-  
+Disegno a mano libera e disegno ornamentale.
+
+12.
+
+Lettere italiane per le classi superiori.
+
+13.
+
+Lettere italiane per le classi inferiori.
+
+14.
+
+Storia e geografia politica.
+
+15.
+
+Statistica ed economia.
+
+16.
+
+Diritto.
+
+17.
+
+Computisteria e ragioneria.
+
+18.
+
+Lingua francese.
+
+19.
+
+Lingua tedesca.
+
+20.
+
+Lingua inglese. 
+ 
+ I professori di geologia e mineralogia botanica e zoologia si ripartiranno l'insegnamento delle applicazioni di storia naturale all'agricoltura e al commercio e della geografia fisica.
+
+## Art. 2.
+
+Il personale dirigente ed insegnante sara' composto di: 
+ 
+ 1 Preside a . . . . . . . . . L. 5000 5000 
+ 4 Professori a . . . . . . . » 2200 8800 
+ 6 Professori a . . . . . . . » 2000 12000 
+ 10 Professori a . . . . . . . » 1800 18000 
+ 1 Aggiunto per la chimica 1200 1200 
+ ----- 
+ L. 45000 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 novembre 1871. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Castagnola.

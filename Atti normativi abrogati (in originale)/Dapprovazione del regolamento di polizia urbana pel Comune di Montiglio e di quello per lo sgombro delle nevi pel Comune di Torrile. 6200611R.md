@@ -1,23 +1,19 @@
-REGIO DECRETO 14 dicembre 1862 n. DCXI
+---
+tipo: REGIO DECRETO
+numero: DCXI
+data: 1862-12-14
+titolo: "D'approvazione del regolamento di polizia urbana pel Comune di Montiglio, e di quello per lo sgombro delle nevi pel Comune di Torrile. (6200611R)"
+urn: urn:nir:stato:regio.decreto:1862-12-14;611
+codice_redazionale: 6200611R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 dicembre 1862 n. DCXI
-======================================
-
-D'approvazione del regolamento di polizia urbana pel Comune di Montiglio, e di quello per lo sgombro delle nevi pel Comune di Torrile. (6200611R)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/12/1862
-
-Art. 1
-------
-
-  
-Col quale sono approvati:   
-  
-1.° Il regolamento di polizia urbana deliberato dal Consiglio Comunale di Montiglio (Alessandria) nelle sedute delli 22 novembre 1861 e 31 luglio p.p.;   
-  
-2.° Il regolamento per lo sgombro delle nevi deliberato dal Consiglio Comunale di Torrile (Parma) nelle sedute 28 novembre 1861 e 17 novembre scorso.   
-  
-Torino 14 dicembre 1862   
-  
+Col quale sono approvati: 
+ 
+ 1.° Il regolamento di polizia urbana deliberato dal Consiglio Comunale di Montiglio (Alessandria) nelle sedute delli 22 novembre 1861 e 31 luglio p.p.; 
+ 
+ 2.° Il regolamento per lo sgombro delle nevi deliberato dal Consiglio Comunale di Torrile (Parma) nelle sedute 28 novembre 1861 e 17 novembre scorso. 
+ 
+ Torino 14 dicembre 1862

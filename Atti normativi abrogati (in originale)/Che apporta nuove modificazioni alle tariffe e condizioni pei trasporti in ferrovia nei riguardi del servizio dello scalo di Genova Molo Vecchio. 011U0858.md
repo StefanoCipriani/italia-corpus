@@ -1,16 +1,14 @@
-REGIO DECRETO 13 luglio 1911 n. 858
-
-
-REGIO DECRETO 13 luglio 1911 n. 858
-===================================
-
-Che apporta nuove modificazioni alle tariffe e condizioni pei trasporti in ferrovia, nei riguardi del servizio dello scalo di Genova Molo Vecchio. (011U0858)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/09/1911
+---
+tipo: REGIO DECRETO
+numero: 858
+data: 1911-07-13
+titolo: "Che apporta nuove modificazioni alle tariffe e condizioni pei trasporti in ferrovia, nei riguardi del servizio dello scalo di Genova Molo Vecchio. (011U0858)"
+urn: urn:nir:stato:regio.decreto:1911-07-13;858
+codice_redazionale: 011U0858
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,59 +20,20 @@ Ritenuto che lo svolgimento del servizio di chiatta, assunto dall'Amministrazion
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato pei lavori pubblici, d'accordo coi ministri, segretari di Stato pel tesoro, e per l'agricoltura, industria e commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato pei lavori pubblici, d'accordo coi ministri, segretari di Stato pel tesoro, e per l'agricoltura, industria e commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Nelle aggiunte alle «Tariffe e condizioni pel trasporto di merci a piccola velocita' degli scavi marittimi e lacuali alle stazioni omonime e viceversa» (di cui alla [legge 27 aprile 1885, n. 3048](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-04-27;3048) - serie 3ª - allegato E e successive varianti) approvate col Nostro decreto 22 novembre 1908, n. 725, sono fatte le modificazioni risultanti dall'unito prospetto, vistato, d'ordine Nostro, dai ministri proponenti.   
-  
-Tali modificazioni avranno effetto dal 1° ottobre 1911.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 luglio 1911.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti - Sacchi - Tedesco - Nitti.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-
-Modificazioni
-
-  
-Modificazioni da apportarsi alle aggiunte al capo I dell'allegato n. 8 alle tariffe e condizioni pei trasporti, approvate col [R. decreto 22 novembre 1908, n. 725](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-22;725).   
-  
-L'aggiunta fatta in fine dell'art. 2 e' sostituita dalla seguente:   
-«Nello scalo di Genova Molo Vecchio la ferrovia eseguisce tutte le operazioni per il passaggio delle merci dal carro ferroviario a bordo sopra coperta delle navi e sulle chiatte e su altri natanti, ivi accostati.   
-  
-Per tali operazioni sono da applicarsi i seguenti prezzi per tonnellata:   
-  
-L. 2,163 per i trasporti a piccola velocita' accelerata;   
-  
-L. 2,163 per i trasporti a piccola velocita' aventi tariffe nel cui diritto fisso e' dedotta la quota di scarico, ferma l'applicazione del diritto fisso medesimo;   
-  
-L. 1,648 per tutti gli altri trasporti a piccola velocita', oltre il diritto fisso integrale risultante dalla tariffa applicabile e salvo l'abbuono, quando ne sia il caso, della quota di carico afferente alla stazione di partenza.   
-  
-A richiesta delle parti la ferrovia eseguisce pure le operazioni doganali sotto l'osservanza delle norme e condizioni stabilite per l'eseguimento delle operazioni stesse».   
-  
-I due ultimi capoversi dell'aggiunta fatta dopo il primo capoverso dell'art. 7 sono soppressi.   
-  
-Visto, d'ordine di Sua Maesta':   
-  
-Il ministro dei lavori pubblici   
-SACCHI.   
-  
-Il ministro del tesoro   
-TEDESCO.   
-  
-Il ministro di agricoltura, industria e commercio   
-NITTI.   
-  
-  
+Nelle aggiunte alle «Tariffe e condizioni pel trasporto di merci a piccola velocita' degli scavi marittimi e lacuali alle stazioni omonime e viceversa» (di cui alla [legge 27 aprile 1885, n. 3048](Concernente%20lesercizio%20delle%20reti%20Mediterranea%20Adriatica%20e%20Sicula%20e%20costruzione%20delle%20strade%20ferrate%20complementari.%20085U3048.md) - serie 3ª - allegato E e successive varianti) approvate col Nostro decreto 22 novembre 1908, n. 725, sono fatte le modificazioni risultanti dall'unito prospetto, vistato, d'ordine Nostro, dai ministri proponenti. 
+ 
+ Tali modificazioni avranno effetto dal 1° ottobre 1911. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 luglio 1911. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti - Sacchi - Tedesco - Nitti. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

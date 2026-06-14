@@ -1,19 +1,15 @@
-REGIO DECRETO 10 gennaio 1909 n. XXIV
+---
+tipo: REGIO DECRETO
+numero: XXIV
+data: 1909-01-10
+titolo: "Riflettente erezione in ente morale. (0900024R)"
+urn: urn:nir:stato:regio.decreto:1909-01-10;24
+codice_redazionale: 0900024R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 10 gennaio 1909 n. XXIV
-=====================================
-
-Riflettente erezione in ente morale. (0900024R)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/03/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. XXIV. (Dato a Roma, il 10 gennaio 1909), col quale il legato dotalizio «Rosa Ferrara» di Caserta e' eretto in ente morale e concentrato nella locale Congregazione di carita'.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. XXIV. (Dato a Roma, il 10 gennaio 1909), col quale il legato dotalizio «Rosa Ferrara» di Caserta e' eretto in ente morale e concentrato nella locale Congregazione di carita'.

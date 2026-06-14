@@ -1,16 +1,14 @@
-REGIO DECRETO 04 giugno 1870 n. 5689
-
-
-REGIO DECRETO 04 giugno 1870 n. 5689
-====================================
-
-Col quale la spesa per il rimborso delle quote riscosse per errori occorsi nei ruoli delle imposte dirette e' aggiunta a quelle pagabili dai Contabili coi fondi della riscossione. (070U5689)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/06/1870
+---
+tipo: REGIO DECRETO
+numero: 5689
+data: 1870-06-04
+titolo: "Col quale la spesa per il rimborso delle quote riscosse per errori occorsi nei ruoli delle imposte dirette e' aggiunta a quelle pagabili dai Contabili coi fondi della riscossione. (070U5689)"
+urn: urn:nir:stato:regio.decreto:1870-06-04;5689
+codice_redazionale: 070U5689
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Considerato che anche siffatte spese furono riconosciute della natura di quelle 
 
 Sulla proposizione del Ministro delle Finanze;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Alle spese pagabili coi fondi della riscossione dai Contabili della Direzione generale delle Imposte dirette, del Catasto, dei Pesi e delle Misure, apparenti al progressivo n. 27 della Nota annessa al Reale Nostro Decreto del 21 dicembre 1869, n. 5411, si aggiungono quelle che si riferiscono al rimborso a favore dei contribuenti delle quote riscosse per errori occorsi nella formazione dei ruoli delle varie imposte dirette.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 4 giugno 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 11 giugno 1870   
-  
-Reg. 51 Atti del Governo a c. 114. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-Quintino Sella.   
-  
+Alle spese pagabili coi fondi della riscossione dai Contabili della Direzione generale delle Imposte dirette, del Catasto, dei Pesi e delle Misure, apparenti al progressivo n. 27 della Nota annessa al Reale Nostro Decreto del 21 dicembre 1869, n. 5411, si aggiungono quelle che si riferiscono al rimborso a favore dei contribuenti delle quote riscosse per errori occorsi nella formazione dei ruoli delle varie imposte dirette. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 4 giugno 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 11 giugno 1870 
+ 
+ Reg. 51 Atti del Governo a c. 114. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ Quintino Sella.

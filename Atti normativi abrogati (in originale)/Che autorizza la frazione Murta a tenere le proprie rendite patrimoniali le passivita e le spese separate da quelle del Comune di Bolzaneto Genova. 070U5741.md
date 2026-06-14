@@ -1,16 +1,14 @@
-REGIO DECRETO 30 giugno 1870 n. 5741
-
-
-REGIO DECRETO 30 giugno 1870 n. 5741
-====================================
-
-Che autorizza la frazione Murta a tenere le proprie rendite patrimoniali, le passivita' e le spese separate da quelle del Comune di Bolzaneto (Genova). (070U5741)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/08/1870
+---
+tipo: REGIO DECRETO
+numero: 5741
+data: 1870-06-30
+titolo: "Che autorizza la frazione Murta a tenere le proprie rendite patrimoniali, le passivita' e le spese separate da quelle del Comune di Bolzaneto (Genova). (070U5741)"
+urn: urn:nir:stato:regio.decreto:1870-06-30;5741
+codice_redazionale: 070U5741
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Veduta la domanda della maggioranza dei contribuenti della frazione Murta, diret
 
 Vista la deliberazione del Consiglio comunale di Bolzaneto, in data 8 febbraio 1870;
 
-Visto
------
+Visto l'articolo 16 della Legge sulla amministrazione comunale e provinciale, in data 20 marzo 1865, allegato A; Abbiamo decretato e decretiamo:
 
-l'articolo 16 della Legge sulla amministrazione comunale e provinciale, in data 20 marzo 1865, allegato A; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La frazione Murta e' autorizzata a tenere le proprie rendite patrimoniali, le passivita' e le spese separate da quelle del rimanente del Comune di Bolzaneto (Genova).   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 30 giugno 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 12 luglio 1870   
-  
-Reg. 51 Atti del Governo a c. 170. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Lanza.   
-  
+La frazione Murta e' autorizzata a tenere le proprie rendite patrimoniali, le passivita' e le spese separate da quelle del rimanente del Comune di Bolzaneto (Genova). 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 30 giugno 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 12 luglio 1870 
+ 
+ Reg. 51 Atti del Governo a c. 170. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Lanza.

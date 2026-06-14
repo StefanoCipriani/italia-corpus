@@ -1,58 +1,45 @@
-REGIO DECRETO 03 aprile 1924 n. 537
-
-
-REGIO DECRETO 03 aprile 1924 n. 537
-===================================
-
-Dichiarazione di opera di pubblica utilita' per la costruzione di un deposito per esplosivi presso il lago di Caldaro (Trento). (024U0537)
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/05/1924
+---
+tipo: REGIO DECRETO
+numero: 537
+data: 1924-04-03
+titolo: "Dichiarazione di opera di pubblica utilita' per la costruzione di un deposito per esplosivi presso il lago di Caldaro (Trento). (024U0537)"
+urn: urn:nir:stato:regio.decreto:1924-04-03;537
+codice_redazionale: 024U0537
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), sulle espropriazioni per causa di pubblica utilita';
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), sulle espropriazioni per causa di pubblica utilita';
 
-Vista la [legge 18 dicembre 1879, n. 5188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-12-18;5188), che approva alcune modificazioni a quella citata;
+Vista la [legge 18 dicembre 1879, n. 5188](Che%20approva%20alcune%20modificazioni%20alla%20legge%20sulle%20espropriazioni%20per%20pubblica%20utilita%20del%2025%20giugno%201865%20n.%202359.%20079U5188.md), che approva alcune modificazioni a quella citata;
 
-Visto il [R. decreto 25 marzo 1923, n. 913](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;913), che estende alle nuove Provincie le leggi citate;
+Visto il [R. decreto 25 marzo 1923, n. 913](Che%20estende%20ai%20territori%20annessi%20al%20Regno%20le%20disposizioni%20legislative%20e%20regolamentari%20sui%20lavori%20pubblici.%20023U0913.md), che estende alle nuove Provincie le leggi citate;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari della guerra; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari della guerra; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' dichiarata opera di pubblica utilita' la costruzione del deposito per esplosivi presso il lago di Caldaro (provincia di Trento).
 
-  
-  
-E' dichiarata opera di pubblica utilita' la costruzione del deposito per esplosivi presso il lago di Caldaro (provincia di Trento).   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-All'espropriazione dei beni immobili e dei diritti immobiliari a tal uopo occorrenti e che saranno designati dal predetto Ministro verra' provveduto a norma delle citate leggi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 aprile 1924.   
-  
-VITTORIO EMANUELE.   
-  
-A. Diaz.   
-  
-Visto, Il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 25 aprile 1924.   
-  
-Atti del Governo, registro 223, foglio 148. - Granata.   
-  
+All'espropriazione dei beni immobili e dei diritti immobiliari a tal uopo occorrenti e che saranno designati dal predetto Ministro verra' provveduto a norma delle citate leggi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 aprile 1924. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ A. Diaz. 
+ 
+ Visto, Il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 25 aprile 1924. 
+ 
+ Atti del Governo, registro 223, foglio 148. - Granata.

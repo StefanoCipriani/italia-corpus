@@ -1,37 +1,27 @@
-LEGGE 05 dicembre 1969 n. 959
-
-
-LEGGE 05 dicembre 1969 n. 959
-=============================
-
-Estensione della facolta' concessa al Ministro per la grazia e giustizia dall'articolo 127 del regio decreto 30 gennaio 1941, n. 12, concernente l'ordinamento giudiziario e successive modificazioni in merito al conferimento di posti di uditore giudiziario.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 959
+data: 1969-12-05
+titolo: "Estensione della facolta' concessa al Ministro per la grazia e giustizia dall'articolo 127 del regio decreto 30 gennaio 1941, n. 12, concernente l'ordinamento giudiziario e successive modificazioni in merito al conferimento di posti di uditore giudiziario."
+urn: urn:nir:stato:legge:1969-12-05;959
+codice_redazionale: 069U0959
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La facolta', concessa al Ministro per la grazia e giustizia nei modi di cui all'[articolo 127 del regio decreto 30 gennaio 1941, n. 12](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12~art127), e successive modificazioni, e estesa fino ad esaurimento della graduatoria degli idonei al concorso per esami a 200 posti di uditore giudiziario indetto con decreto ministeriale 30 novembre 1966.  
-Entro sei mesi dall'entrata in vigore della presente legge, si provvede alla nomina degli idonei, assegnando ad essi, secondo l'ordine della graduatoria, i posti vacanti o, in mancanza, quelli che si rendano disponibili nel predetto termine.  
-All'onere derivante dall'applicazione della presente legge si provvede a carico delle normali dotazioni dei competenti capitoli dello stato di previsione della spesa del Ministero di grazia e giustizia.  
-  
+La facolta', concessa al Ministro per la grazia e giustizia nei modi di cui all'[articolo 127 del regio decreto 30 gennaio 1941, n. 12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-01-30;12#art_127), e successive modificazioni, e estesa fino ad esaurimento della graduatoria degli idonei al concorso per esami a 200 posti di uditore giudiziario indetto con decreto ministeriale 30 novembre 1966.
+ Entro sei mesi dall'entrata in vigore della presente legge, si provvede alla nomina degli idonei, assegnando ad essi, secondo l'ordine della graduatoria, i posti vacanti o, in mancanza, quelli che si rendano disponibili nel predetto termine.
+ All'onere derivante dall'applicazione della presente legge si provvede a carico delle normali dotazioni dei competenti capitoli dello stato di previsione della spesa del Ministero di grazia e giustizia.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 5 dicembre 1969
+Data a Roma, addi' 5 dicembre 1969
 
-SARAGAT RUMOR - GAVA - COLOMBO
-
-Visto, il Guardasigilli: GAVA
+SARAGAT RUMOR - GAVA - COLOMBO Visto, il Guardasigilli: GAVA

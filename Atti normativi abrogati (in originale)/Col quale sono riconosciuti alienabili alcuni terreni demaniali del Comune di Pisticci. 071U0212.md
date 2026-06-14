@@ -1,16 +1,14 @@
-REGIO DECRETO 30 aprile 1871 n. 212
-
-
-REGIO DECRETO 30 aprile 1871 n. 212
-===================================
-
-Col quale sono riconosciuti alienabili alcuni terreni demaniali del Comune di Pisticci. (071U0212)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/06/1871
+---
+tipo: REGIO DECRETO
+numero: 212
+data: 1871-04-30
+titolo: "Col quale sono riconosciuti alienabili alcuni terreni demaniali del Comune di Pisticci. (071U0212)"
+urn: urn:nir:stato:regio.decreto:1871-04-30;212
+codice_redazionale: 071U0212
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,30 +20,22 @@ Viste le deliberazioni prese dal Consiglio comunale di Pisticci in Basilicata, d
 
 Visto l'avviso del Consiglio di Stato nella sua adunanza generale del 28 agosto 1869;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I terreni demaniali del Comune di Pisticci in Basilicata, denominati Spezzoni, nelle contrade dette Scorvi dei Tinghi e Rullo, Caporotondo, ed in altri modi, della complessiva estensione di ettari 635. 24. 61, sono riconosciuti alienabili con le medesime formalita' e cautele necessarie per l'alienazione degli altri terreni comunali, in adempimento della [Legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato A.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 30 aprile 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 12 maggio 1871   
-  
-Reg. 55 Atti del Governo a c. 3. Crodara Visconti.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-Castagnola.   
-  
-  
+I terreni demaniali del Comune di Pisticci in Basilicata, denominati Spezzoni, nelle contrade dette Scorvi dei Tinghi e Rullo, Caporotondo, ed in altri modi, della complessiva estensione di ettari 635. 24. 61, sono riconosciuti alienabili con le medesime formalita' e cautele necessarie per l'alienazione degli altri terreni comunali, in adempimento della [Legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato A. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 30 aprile 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 12 maggio 1871 
+ 
+ Reg. 55 Atti del Governo a c. 3. Crodara Visconti. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ Castagnola.

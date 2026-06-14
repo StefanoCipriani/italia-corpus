@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 20 luglio 1916 n. 995
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 995
+data: 1916-07-20
+titolo: "Trasformazione di fini patrimoniali a scopo elemosiniero. (016U0995)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-07-20;995
+codice_redazionale: 016U0995
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 20 luglio 1916 n. 995
-=============================================
-
-Trasformazione di fini patrimoniali a scopo elemosiniero. (016U0995)
---------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/09/1916
-
-Art. 1
-------
-
-  
-N. 995   
-  
-Decreto Luogotenenziale 20 luglio 1916, col quale, sulla proposta del ministro dell'interno, la rendita annua di L. 120, erogata dalla Confraternita di San Giovanni Decollato in Civita Castellana per sacri arredi, e' trasformata a favore dell'Ospedale Andosilla del luogo.   
-  
+N. 995 
+ 
+ Decreto Luogotenenziale 20 luglio 1916, col quale, sulla proposta del ministro dell'interno, la rendita annua di L. 120, erogata dalla Confraternita di San Giovanni Decollato in Civita Castellana per sacri arredi, e' trasformata a favore dell'Ospedale Andosilla del luogo.

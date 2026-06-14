@@ -1,16 +1,14 @@
-REGIO DECRETO 03 aprile 1879 n. 4841
-
-
-REGIO DECRETO 03 aprile 1879 n. 4841
-====================================
-
-Che separa il comune di Vailate dalla sezione elettorale di Pandino, e forma una sezione distinta del collegio elettorale di Crema. (079U4841)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/05/1879
+---
+tipo: REGIO DECRETO
+numero: 4841
+data: 1879-04-03
+titolo: "Che separa il comune di Vailate dalla sezione elettorale di Pandino, e forma una sezione distinta del collegio elettorale di Crema. (079U4841)"
+urn: urn:nir:stato:regio.decreto:1879-04-03;4841
+codice_redazionale: 079U4841
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Che Vailate dista da Pandino 9 chilometri, e le comunicazioni sono malagevoli, p
 
 Considerando che colla istituzione di una sezione elettorale in Vailate si rende piu' facile l'esercizio del diritto elettorale;
 
-Sulla
------
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Vailate e' separato dalla sezione elettorale di Pandino, e formera' una sezione distinta del Collegio elettorale di Crema.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 aprile 1879.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
+Il comune di Vailate e' separato dalla sezione elettorale di Pandino, e formera' una sezione distinta del Collegio elettorale di Crema. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 aprile 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.

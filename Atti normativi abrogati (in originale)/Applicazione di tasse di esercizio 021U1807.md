@@ -1,17 +1,13 @@
-REGIO DECRETO 27 novembre 1921 n. 1807
+---
+tipo: REGIO DECRETO
+numero: 1807
+data: 1921-11-27
+titolo: "Applicazione di tasse di esercizio (021U1807)"
+urn: urn:nir:stato:regio.decreto:1921-11-27;1807
+codice_redazionale: 021U1807
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 novembre 1921 n. 1807
-======================================
-
-Applicazione di tasse di esercizio (021U1807)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 12/01/1922
-
-Art. 1
-------
-
-  
-N. 1807 Regie decreto 27 novembre 1921 col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Caneva di Sacile (Udine) di applicare dal 1° gennaio al 31 dicembre 1921 la tassa di esercizio col limite massimo fino a L. 4000.   
-  
+N. 1807 Regie decreto 27 novembre 1921 col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Caneva di Sacile (Udine) di applicare dal 1° gennaio al 31 dicembre 1921 la tassa di esercizio col limite massimo fino a L. 4000.

@@ -1,16 +1,14 @@
-REGIO DECRETO-LEGGE 09 maggio 1936 n. 754
-
-
-REGIO DECRETO-LEGGE 09 maggio 1936 n. 754
-=========================================
-
-Dichiarazione della sovranita' piena ed intera del Regno d'Italia sull'Etiopia ed assunzione da parte del Re d'Italia del titolo di Imperatore d'Etiopia. (036U0754)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/05/1936. Regio Decreto-Legge convertito dalla [L. 18 maggio 1936, n. 867](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-05-18;867) (in G.U. 25/05/1936, n.120).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 754
+data: 1936-05-09
+titolo: "Dichiarazione della sovranita' piena ed intera del Regno d'Italia sull'Etiopia ed assunzione da parte del Re d'Italia del titolo di Imperatore d'Etiopia. (036U0754)"
+urn: urn:nir:stato:regio.decreto.legge:1936-05-09;754
+codice_redazionale: 036U0754
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,62 +26,40 @@ Udito il Gran Consiglio del Fascismo;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I territori e le genti che appartenevano all'Impero d'Etiopia vengono posti sotto la sovranita' piena ed intera del Regno d'Italia. 
+ 
+ Il titolo d'Imperatore d'Etiopia e' assunto per se' e per i suoi successori dal Re d'Italia.
 
-  
-  
-I territori e le genti che appartenevano all'Impero d'Etiopia vengono posti sotto la sovranita' piena ed intera del Regno d'Italia.   
-  
-Il titolo d'Imperatore d'Etiopia e' assunto per se' e per i suoi successori dal Re d'Italia.   
-  
-  
+## Art. 2.
 
-Art. 2
-------
+L'Etiopia e' retta e rappresentata da un Governatore generale che ha il titolo di Vice Re, da cui dipendono anche i Governatori dell'Eritrea e della Somalia. 
+ 
+ Dal Governatore generale, Vice Re d'Etiopia, dipendono tutte le autorita' civili e militari dei territori sottoposti alla sua giurisdizione. 
+ 
+ Il Governatore generale, Vice Re d'Etiopia, e' nominato con decreto Reale su proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per le colonie.
 
-  
-  
-L'Etiopia e' retta e rappresentata da un Governatore generale che ha il titolo di Vice Re, da cui dipendono anche i Governatori dell'Eritrea e della Somalia.   
-  
-Dal Governatore generale, Vice Re d'Etiopia, dipendono tutte le autorita' civili e militari dei territori sottoposti alla sua giurisdizione.   
-  
-Il Governatore generale, Vice Re d'Etiopia, e' nominato con decreto Reale su proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per le colonie.   
-  
-  
+## Art. 3.
 
-Art. 3
-------
+Con decreti Reali, da emanarsi su proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per le colonie, sara' provveduto a stabilire gli ordinamenti dell'Etiopia.
 
-  
-  
-Con decreti Reali, da emanarsi su proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per le colonie, sara' provveduto a stabilire gli ordinamenti dell'Etiopia.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-Il presente decreto, che ha vigore dal giorno della sua data, sara' presentato al Parlamento per la conversione in legge. Il Capo del Governo, Primo Ministro Segretario di Stato, proponente, e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 maggio 1936 - Anno XIV   
-  
-VITTORIO EMANUELE   
-  
-Mussolini.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 9 maggio 1936 - Anno XIV   
-  
-Atti del Governo, registro 372, foglio 54. - Mancini.   
-  
-  
+Il presente decreto, che ha vigore dal giorno della sua data, sara' presentato al Parlamento per la conversione in legge. Il Capo del Governo, Primo Ministro Segretario di Stato, proponente, e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 maggio 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 9 maggio 1936 - Anno XIV 
+ 
+ Atti del Governo, registro 372, foglio 54. - Mancini.

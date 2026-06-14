@@ -1,16 +1,14 @@
-REGIO DECRETO 26 novembre 1884 n. 2796
-
-
-REGIO DECRETO 26 novembre 1884 n. 2796
-======================================
-
-Che concede facolta' di derivare e di occupare tratti di spiaggia lacuale. (084U2796)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/01/1885
+---
+tipo: REGIO DECRETO
+numero: 2796
+data: 1884-11-26
+titolo: "Che concede facolta' di derivare e di occupare tratti di spiaggia lacuale. (084U2796)"
+urn: urn:nir:stato:regio.decreto:1884-11-26;2796
+codice_redazionale: 084U2796
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,33 +20,18 @@ Visto l'elenco in cui trovansi descritte n. 13 domande dirette ad ottenere la fa
 
 Vista la inchiesta amministrativa compiuta su ognuna di dette domande, dalle quali risulta che le chieste derivazioni ed occupazioni non recano alcun pregiudizio al buon governo della pubblica e della privata proprieta', quando si osservino le prescritte cautele;
 
-Visto
------
+Visto il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
 
-il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' concessa facolta', senza pregiudizio dei legittimi diritti dei terzi, agli individui, alla Ditta di commercio ed al comune, indicati nell'unito elenco, visto d'ordine Nostro dal Ministro delle Finanze, incaricato dell'interim del Ministero del Tesoro, di poter derivare le acque ed occupare le aree di spiaggia lacuale ivi descritte, ciascuna per l'uso, la durata e l'annua prestazione notate nell'elenco stesso, e sotto l'osservanza delle altre condizioni contenute nei singoli atti di sottomissione all'uopo stipulati.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 26 novembre 1884.   
-  
-UMBERTO.   
-  
-A. Magliani.   
-  
-Visto, Il Guardasigilli: Pessina.   
-  
-
-Elenco
-
-  
-ELENCO annesso al [R. decreto del 26 novembre 1884, di n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-11-26;13) domande dirette ad ottenere la facolta' di praticare ad uso privato alcune derivazioni da fiumi e torrenti del Demanio dello Stato e di occupare alcuni tratti di spiaggia lacuale.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=084U279600100010110001&dgu=1884-12-29&art.dataPubblicazioneGazzetta=1884-12-29&art.codiceRedazionale=084U2796)
-  
+E' concessa facolta', senza pregiudizio dei legittimi diritti dei terzi, agli individui, alla Ditta di commercio ed al comune, indicati nell'unito elenco, visto d'ordine Nostro dal Ministro delle Finanze, incaricato dell'interim del Ministero del Tesoro, di poter derivare le acque ed occupare le aree di spiaggia lacuale ivi descritte, ciascuna per l'uso, la durata e l'annua prestazione notate nell'elenco stesso, e sotto l'osservanza delle altre condizioni contenute nei singoli atti di sottomissione all'uopo stipulati. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 novembre 1884. 
+ 
+ UMBERTO. 
+ 
+ A. Magliani. 
+ 
+ Visto, Il Guardasigilli: Pessina.

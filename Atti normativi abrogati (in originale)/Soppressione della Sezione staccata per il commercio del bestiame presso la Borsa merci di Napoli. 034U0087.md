@@ -1,52 +1,44 @@
-REGIO DECRETO 15 gennaio 1934 n. 87
-
-
-REGIO DECRETO 15 gennaio 1934 n. 87
-===================================
-
-Soppressione della Sezione staccata per il commercio del bestiame presso la Borsa merci di Napoli. (034U0087)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/02/1934
+---
+tipo: REGIO DECRETO
+numero: 87
+data: 1934-01-15
+titolo: "Soppressione della Sezione staccata per il commercio del bestiame presso la Borsa merci di Napoli. (034U0087)"
+urn: urn:nir:stato:regio.decreto:1934-01-15;87
+codice_redazionale: 034U0087
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduta la [legge 20 marzo 1913, n. 272](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), sulle Borse di commercio, ed il relativo regolamento approvato con [R. decreto 4 agosto 1913, n. 1068](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068);
+Veduta la [legge 20 marzo 1913, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;272), sulle Borse di commercio, ed il relativo regolamento approvato con [R. decreto 4 agosto 1913, n. 1068](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-04;1068);
 
-Veduto il [R. decreto 28 dicembre 1924, n. 2178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-28;2178), che ha istituito in Napoli una Borsa per la contrattazione delle merci;
+Veduto il [R. decreto 28 dicembre 1924, n. 2178](Istituzione%20della%20Borsa%20per%20le%20contrattazioni%20delle%20merci%20in%20Napoli.%20024U2178.md), che ha istituito in Napoli una Borsa per la contrattazione delle merci;
 
-Veduto il [R. decreto 16 settembre 1926, n. 1728](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-09-16;1728), che ha istituita nella Borsa merci di Napoli una Sezione staccata per il commercio del bestiame, presso il mercato bestiame del comune di Napoli;
+Veduto il [R. decreto 16 settembre 1926, n. 1728](Istituzione%20di%20una%20sezione%20staccata%20della%20Borsa%20merci%20di%20Napoli.%20026U1728.md), che ha istituita nella Borsa merci di Napoli una Sezione staccata per il commercio del bestiame, presso il mercato bestiame del comune di Napoli;
 
 Veduta la deliberazione presa il 23 settembre 1933-XI dal Consiglio provinciale dell'economia corporativa di Napoli, con la quale si domanda la soppressione della Sezione per il commercio del bestiame presso il mercato bestiame del comune di Napoli;
 
 Ritenuta l'opportunita' di approvare la suddetta deliberazione del Consiglio provinciale dell'economia corporativa di Napoli;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e le foreste; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'agricoltura e le foreste; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Sezione staccata per il commercio del bestiame presso il mercato bestiame del comune di Napoli, istituita presso la Borsa merci di Napoli col [R. decreto 16 settembre 1926, n. 1728](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-09-16;1728), e' soppressa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 15 gennaio 1934 - Anno XII   
-  
-VITTORIO EMANUELE.   
-  
-Acerbo.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 2 febbraio 1934 - Anno XII   
-Atti del Governo, registro 344, foglio 33. - Mancini.   
+La Sezione staccata per il commercio del bestiame presso il mercato bestiame del comune di Napoli, istituita presso la Borsa merci di Napoli col [R. decreto 16 settembre 1926, n. 1728](Istituzione%20di%20una%20sezione%20staccata%20della%20Borsa%20merci%20di%20Napoli.%20026U1728.md), e' soppressa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 15 gennaio 1934 - Anno XII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Acerbo. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 2 febbraio 1934 - Anno XII  
+ Atti del Governo, registro 344, foglio 33. - Mancini.

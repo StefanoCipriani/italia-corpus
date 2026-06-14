@@ -1,20 +1,17 @@
-REGIO DECRETO 30 luglio 1863 n. DCCCXLVIII
+---
+tipo: REGIO DECRETO
+numero: DCCCXLVIII
+data: 1863-07-30
+titolo: "Approvativo del regolamento di polizia rurale del Comune di Pula. (6300848R)"
+urn: urn:nir:stato:regio.decreto:1863-07-30;848
+codice_redazionale: 6300848R
+vigente: true
+---
 
-
-REGIO DECRETO 30 luglio 1863 n. DCCCXLVIII
-==========================================
-
-Approvativo del regolamento di polizia rurale del Comune di Pula. (6300848R)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/07/1863
-
-Art. 1
-------
+## Art. 1.
 
 Che approva il regolamento di polizia rurale del Comune di Pula, Provincia di Cagliari, in data del 25 novembre
 
-1862. 
-  
-  
+1862.
+
 Torino 30 luglio 1863.

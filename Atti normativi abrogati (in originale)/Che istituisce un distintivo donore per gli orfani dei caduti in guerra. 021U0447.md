@@ -1,56 +1,35 @@
-REGIO DECRETO 24 marzo 1921 n. 447
+---
+tipo: REGIO DECRETO
+numero: 447
+data: 1921-03-24
+titolo: "Che istituisce un distintivo d'onore per gli orfani dei caduti in guerra. (021U0447)"
+urn: urn:nir:stato:regio.decreto:1921-03-24;447
+codice_redazionale: 021U0447
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 marzo 1921 n. 447
-==================================
+E' istituito un distintivo d'onore per gli orfani dei caduti in guerra.
 
-Che istituisce un distintivo d'onore per gli orfani dei caduti in guerra. (021U0447)
-------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 06/05/1921
+Il distintivo sara' conforme al modello che verra' depositato negli archivi di Stato unitamente a una copia del presente decreto.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-  
-E' istituito un distintivo d'onore per gli orfani dei caduti in guerra.   
-  
+Saranno autorizzati a fregiarsi del distintivo di cui nei precedenti articoli gli orfani e le orfane dei militari, militarizzati ed assimilati, morti in combattimento od in seguito a ferite causate dai mezzi d'offesa e di difesa del nemico.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-  
-Il distintivo sara' conforme al modello che verra' depositato negli archivi di Stato unitamente a una copia del presente decreto.   
-  
-
-Art. 3
-------
-
-  
-  
-  
-Saranno autorizzati a fregiarsi del distintivo di cui nei precedenti articoli gli orfani e le orfane dei militari, militarizzati ed assimilati, morti in combattimento od in seguito a ferite causate dai mezzi d'offesa e di difesa del nemico.   
-  
-
-Art. 4
-------
-
-  
-  
-  
-Le disposizioni contenute nel presente decreto si riferiscono anche agli orfani dei militari morti nelle condizioni indicate nell'art. 3, prestando servizio presso gli eserciti alleati.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 marzo 1921.   
-  
-VITTORIO EMANUELE.   
-  
-Bonomi - Sechi.   
-  
-Visto, Il guardasigilli: Fera.   
-  
+Le disposizioni contenute nel presente decreto si riferiscono anche agli orfani dei militari morti nelle condizioni indicate nell'art. 3, prestando servizio presso gli eserciti alleati. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 marzo 1921. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Bonomi - Sechi. 
+ 
+ Visto, Il guardasigilli: Fera.

@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 18 marzo 1917 n. 584
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 584
+data: 1917-03-18
+titolo: "Applicazione di tassa di esercizio. (017U0584)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-03-18;584
+codice_redazionale: 017U0584
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 18 marzo 1917 n. 584
-============================================
-
-Applicazione di tassa di esercizio. (017U0584)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 05/05/1917
-
-Art. 1
-------
-
-  
-N. 584   
-  
-Decreto Luogotenenziale 18 marzo 1917, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di San Quirico (Genova), di applicare la tassa di esercizio nella misura massima di L. 2000 dal 1° gennaio 1916 al 31 dicembre dell'anno in cui cessera' la guerra.   
-  
+N. 584 
+ 
+ Decreto Luogotenenziale 18 marzo 1917, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di San Quirico (Genova), di applicare la tassa di esercizio nella misura massima di L. 2000 dal 1° gennaio 1916 al 31 dicembre dell'anno in cui cessera' la guerra.

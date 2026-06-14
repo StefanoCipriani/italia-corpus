@@ -1,19 +1,15 @@
-REGIO DECRETO 05 ottobre 1862 n. DLI
+---
+tipo: REGIO DECRETO
+numero: DLI
+data: 1862-10-05
+titolo: "Col quale e' fatta facolta' al Comune di Seniga d'imporre una tassa sui cani. (6200551R)"
+urn: urn:nir:stato:regio.decreto:1862-10-05;551
+codice_redazionale: 6200551R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 ottobre 1862 n. DLI
-====================================
-
-Col quale e' fatta facolta' al Comune di Seniga d'imporre una tassa sui cani. (6200551R)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/10/1862
-
-Art. 1
-------
-
-  
-Col quale si autorizza il Comune di Seniga ad imporre una tassa sui cani.   
-  
-Torino 5 ottobre 1862   
-  
+Col quale si autorizza il Comune di Seniga ad imporre una tassa sui cani. 
+ 
+ Torino 5 ottobre 1862

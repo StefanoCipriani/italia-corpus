@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 06 luglio 1919 n. 1381
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1381
+data: 1919-07-06
+titolo: "Erezione in ente morale. (019U1381)"
+urn: urn:nir:stato:decreto.luogotenenziale:1919-07-06;1381
+codice_redazionale: 019U1381
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 06 luglio 1919 n. 1381
-==============================================
-
-Erezione in ente morale. (019U1381)
------------------------------------
-
-Entrata in vigore del provvedimento: 04/09/1919
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1381. Decreto Luogotenenziale 6 luglio 1919, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, il Consorzio reggiano fra le cooperative di lavoro della provincia di Reggio Emilia, con sede nel Comune medesimo, viene eretto in ente morale, approvandosene lo statuto organico relativo.
+1381.
+
+Decreto Luogotenenziale 6 luglio 1919, col quale, sulla proposta del ministro per l'industria, il commercio ed il lavoro, il Consorzio reggiano fra le cooperative di lavoro della provincia di Reggio Emilia, con sede nel Comune medesimo, viene eretto in ente morale, approvandosene lo statuto organico relativo.

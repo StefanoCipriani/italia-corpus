@@ -1,16 +1,14 @@
-REGIO DECRETO 01 febbraio 1874 n. 1819
-
-
-REGIO DECRETO 01 febbraio 1874 n. 1819
-======================================
-
-Che approva la Tabella del personale insegnante nelle Universita' del Regno. (074U1819)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/03/1874
+---
+tipo: REGIO DECRETO
+numero: 1819
+data: 1874-02-01
+titolo: "Che approva la Tabella del personale insegnante nelle Universita' del Regno. (074U1819)"
+urn: urn:nir:stato:regio.decreto:1874-02-01;1819
+codice_redazionale: 074U1819
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,28 +22,16 @@ Veduta l'altra legge del 16 febbraio 1861 sull'istruzione superiore nelle provin
 
 Vedute le altre disposizioni ancora in vigore in talune Universita' del Regno;
 
-Sulla
------
+Sulla proposizione del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il numero dei professori ordinari e straordinari e degli incaricati in ciascuna Universita' del Regno si manterra' ne' limiti indicati nella tabella annessa al presente decreto e firmata d'ordine Nostro dal Ministro Segretario di Stato per la Pubblica Istruzione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 1° febbraio 1874.   
-  
-VITTORIO EMANUELE.   
-  
-A. Scialoja.   
-
-Tabella
-
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=074U181900100010110001&dgu=1874-03-07&art.dataPubblicazioneGazzetta=1874-03-07&art.codiceRedazionale=074U1819)
-  
+Il numero dei professori ordinari e straordinari e degli incaricati in ciascuna Universita' del Regno si manterra' ne' limiti indicati nella tabella annessa al presente decreto e firmata d'ordine Nostro dal Ministro Segretario di Stato per la Pubblica Istruzione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° febbraio 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ A. Scialoja.

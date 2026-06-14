@@ -1,16 +1,14 @@
-REGIO DECRETO 11 marzo 1880 n. 5344
-
-
-REGIO DECRETO 11 marzo 1880 n. 5344
-===================================
-
-Separa i comuni di Zuccarello, Erli e Castelvecchio dalla sezione principale del collegio elettorale di Albenga e forma una sezione distinta dello stesso collegio con la sede a Zuccarello. (080U5344)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/04/1880
+---
+tipo: REGIO DECRETO
+numero: 5344
+data: 1880-03-11
+titolo: "Separa i comuni di Zuccarello, Erli e Castelvecchio dalla sezione principale del collegio elettorale di Albenga e forma una sezione distinta dello stesso collegio con la sede a Zuccarello. (080U5344)"
+urn: urn:nir:stato:regio.decreto:1880-03-11;5344
+codice_redazionale: 080U5344
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Che quei comuni contano complessivamente 87 elettori, numero questo piu' che dop
 
 Considerato che formando coi suddetti comuni una sezione elettorale distinta si rende piu' facile a quegli elettori l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Zuccarello, Erli e Castelvecchio sono separati dalla sezione principale del Collegio elettorale di Albenga, e formeranno una sezione distinta dello stesso Collegio con la sede a Zuccarello.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 marzo 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+I comuni di Zuccarello, Erli e Castelvecchio sono separati dalla sezione principale del Collegio elettorale di Albenga, e formeranno una sezione distinta dello stesso Collegio con la sede a Zuccarello. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

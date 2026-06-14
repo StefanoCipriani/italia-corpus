@@ -1,16 +1,14 @@
-REGIO DECRETO 01 giugno 1879 n. 4909
-
-
-REGIO DECRETO 01 giugno 1879 n. 4909
-====================================
-
-Che devolve al tribunale del circondario di Bologna la giurisdizione di quel tribunale di commercio. (079U4909)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/06/1879
+---
+tipo: REGIO DECRETO
+numero: 4909
+data: 1879-06-01
+titolo: "Che devolve al tribunale del circondario di Bologna la giurisdizione di quel tribunale di commercio. (079U4909)"
+urn: urn:nir:stato:regio.decreto:1879-06-01;4909
+codice_redazionale: 079U4909
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Attesoche' per siffatti motivi e' indispensabile provvedere secondo le disposizi
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli Ministro di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Nostro Guardasigilli Ministro di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La giurisdizione del Tribunale di commercio di Bologna e' provvisoriamente devoluta ai Tribunale civile e correzionale del circondario.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato Roma, addi' 1° giugno 1879.   
-  
-UMBERTO.   
-  
-Taiani.   
-  
+La giurisdizione del Tribunale di commercio di Bologna e' provvisoriamente devoluta ai Tribunale civile e correzionale del circondario. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato Roma, addi' 1° giugno 1879. 
+ 
+ UMBERTO. 
+ 
+ Taiani.

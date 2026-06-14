@@ -1,19 +1,15 @@
-REGIO DECRETO 01 agosto 1907 n. CCCXXVII
+---
+tipo: REGIO DECRETO
+numero: CCCXXVII
+data: 1907-08-01
+titolo: "Applicazione di tassa di famiglia. (0700327R)"
+urn: urn:nir:stato:regio.decreto:1907-08-01;327
+codice_redazionale: 0700327R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 agosto 1907 n. CCCXXVII
-========================================
-
-Applicazione di tassa di famiglia. (0700327R)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 11/09/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze.   
-  
-N. CCCXXVII (Dato a Racconigi, il 10 agosto 1907), col quale e' approvato il regolamento per l'applicazione della tassa di famiglia, modificato dalla Giunta provinciale amministrativa di Ascoli Piceno, con decisione 21 dicembre 1906, in sostituzione del regolamento approvato con R. decreto 21 dicembre 1905, n. CCCCXV.   
-  
+Sulla proposta del ministro delle finanze. 
+ 
+ N. CCCXXVII (Dato a Racconigi, il 10 agosto 1907), col quale e' approvato il regolamento per l'applicazione della tassa di famiglia, modificato dalla Giunta provinciale amministrativa di Ascoli Piceno, con decisione 21 dicembre 1906, in sostituzione del regolamento approvato con R. decreto 21 dicembre 1905, n. CCCCXV.

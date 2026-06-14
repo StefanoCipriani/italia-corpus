@@ -1,19 +1,15 @@
-REGIO DECRETO 16 febbraio 1913 n. 141
+---
+tipo: REGIO DECRETO
+numero: 141
+data: 1913-02-16
+titolo: "Aggiunte agli organici delle scuole normali di Vicenza. (013U0141)"
+urn: urn:nir:stato:regio.decreto:1913-02-16;141
+codice_redazionale: 013U0141
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 febbraio 1913 n. 141
-=====================================
-
-Aggiunte agli organici delle scuole normali di Vicenza. (013U0141)
-------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/03/1913
-
-Art. 1
-------
-
-  
-N. 141   
-  
-Regio Decreto 16 febbraio 1913, col quale, sulla proposta del ministro dell'istruzione pubblica, agli organici delle scuole normali e complementari, per l'anno scolastico 1912-913, sono aggiunti, dal 1° ottobre 1912, alcuni posti che sono assegnati alla R. scuola normale e complementare di Vicenza.   
-  
+N. 141 
+ 
+ Regio Decreto 16 febbraio 1913, col quale, sulla proposta del ministro dell'istruzione pubblica, agli organici delle scuole normali e complementari, per l'anno scolastico 1912-913, sono aggiunti, dal 1° ottobre 1912, alcuni posti che sono assegnati alla R. scuola normale e complementare di Vicenza.

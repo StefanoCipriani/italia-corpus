@@ -1,16 +1,14 @@
-REGIO DECRETO 09 dicembre 1894 n. 562
-
-
-REGIO DECRETO 09 dicembre 1894 n. 562
-=====================================
-
-Che istituisce un Ufficio distinto di conciliazione in San Lazzaro, frazione del comune di Motta San Giovanni. (094U0562)
--------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/01/1895
+---
+tipo: REGIO DECRETO
+numero: 562
+data: 1894-12-09
+titolo: "Che istituisce un Ufficio distinto di conciliazione in San Lazzaro, frazione del comune di Motta San Giovanni. (094U0562)"
+urn: urn:nir:stato:regio.decreto:1894-12-09;562
+codice_redazionale: 094U0562
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Viste le deliberazioni del Consiglio comunale di Motta San Giovanni, in data 12 
 
 Visto il rapporto del Primo Presidente della Corte d'Appello di Catanzaro in data 14 novembre p. p.;
 
-Visti gli [art. 1 della legge 16 giugno 1892 n. 261 e 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;1~art1)° del regolamento 26 dicembre dello stesso anno n. 728;
+Visti gli [art. 1 della legge 16 giugno 1892 n. 261 e 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;1#art_1)° del regolamento 26 dicembre dello stesso anno n. 728;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal 1° gennaio 1895 in San Lazzaro, frazione del comune di Motta San Giovanni, e' istituito un Ufficio di conciliazione con giurisdizione sull'intero territorio a cui si estende la frazione stessa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 dicembre 1894.   
-  
-UMBERTO.   
-  
-Calenda.   
-  
-Visto, il Guardasigilli: V. Calenda di Tavani.   
-  
+Dal 1° gennaio 1895 in San Lazzaro, frazione del comune di Motta San Giovanni, e' istituito un Ufficio di conciliazione con giurisdizione sull'intero territorio a cui si estende la frazione stessa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 dicembre 1894. 
+ 
+ UMBERTO. 
+ 
+ Calenda. 
+ 
+ Visto, il Guardasigilli: V. Calenda di Tavani.

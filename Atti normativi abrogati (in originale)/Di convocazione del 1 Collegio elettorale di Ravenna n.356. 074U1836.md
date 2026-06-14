@@ -1,16 +1,14 @@
-REGIO DECRETO 19 marzo 1874 n. 1836
-
-
-REGIO DECRETO 19 marzo 1874 n. 1836
-===================================
-
-Di convocazione del 1° Collegio elettorale di Ravenna, n.356. (074U1836)
-------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/04/1874
+---
+tipo: REGIO DECRETO
+numero: 1836
+data: 1874-03-19
+titolo: "Di convocazione del 1° Collegio elettorale di Ravenna, n.356. (074U1836)"
+urn: urn:nir:stato:regio.decreto:1874-03-19;1836
+codice_redazionale: 074U1836
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,25 +18,18 @@ Veduto il Messaggio in data del 15 corrente mese, col quale l'Ufficio di Preside
 
 Veduto l'articolo 63 della Legge per le elezioni politiche 17 dicembre 1860, n. 4513;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il 1° Collegio elettorale di Ravenna, n.356, e' convocato pel giorno 12 aprile prossimo venturo affinche' proceda alla elezione del proprio Deputato.   
-  
-Occorrendo una seconda votazione essa avra' luogo il giorno 19 dello stesso mese.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 marzo 1874   
-  
-VITTORIO EMANUELE   
-  
-G. Cantelli.   
-  
+Il 1° Collegio elettorale di Ravenna, n.356, e' convocato pel giorno 12 aprile prossimo venturo affinche' proceda alla elezione del proprio Deputato. 
+ 
+ Occorrendo una seconda votazione essa avra' luogo il giorno 19 dello stesso mese. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 marzo 1874 
+ 
+ VITTORIO EMANUELE 
+ 
+ G. Cantelli.

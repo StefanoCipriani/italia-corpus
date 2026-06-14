@@ -1,19 +1,15 @@
-REGIO DECRETO 03 gennaio 1915 n. 405
+---
+tipo: REGIO DECRETO
+numero: 405
+data: 1915-01-03
+titolo: "Approvazione di ruoli organici di R. istituto e di RR. scuole tecniche. (015U0405)"
+urn: urn:nir:stato:regio.decreto:1915-01-03;405
+codice_redazionale: 015U0405
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 gennaio 1915 n. 405
-====================================
-
-Approvazione di ruoli organici di R. istituto e di RR. scuole tecniche. (015U0405)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/04/1915
-
-Art. 1
-------
-
-  
-N. 405   
-  
-Regio Decreto 3 gennaio 1915, col quale, sulla proposta del ministro dell'istruzione pubblica, viene approvato il ruolo organico per la R. scuola tecnica di Pinerolo.   
-  
+N. 405 
+ 
+ Regio Decreto 3 gennaio 1915, col quale, sulla proposta del ministro dell'istruzione pubblica, viene approvato il ruolo organico per la R. scuola tecnica di Pinerolo.

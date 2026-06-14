@@ -1,16 +1,14 @@
-REGIO DECRETO 28 febbraio 1878 n. 4307
-
-
-REGIO DECRETO 28 febbraio 1878 n. 4307
-======================================
-
-Che separa il comune di Rotello dalla sezione elettorale di Santa Croce di Magliano e lo costituisce in sezione distinta del collegio di Larino. (078U4307)
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/03/1878
+---
+tipo: REGIO DECRETO
+numero: 4307
+data: 1878-02-28
+titolo: "Che separa il comune di Rotello dalla sezione elettorale di Santa Croce di Magliano e lo costituisce in sezione distinta del collegio di Larino. (078U4307)"
+urn: urn:nir:stato:regio.decreto:1878-02-28;4307
+codice_redazionale: 078U4307
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-II comune di Rotello e' separato dalla sezione elettorale di Santa Croce di Magliano, e formera' una sezione distinta del Collegio elettorale di Larino.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 febbraio 1878.   
-  
-UMBERTO.   
-  
-F. Crispi.   
-  
+II comune di Rotello e' separato dalla sezione elettorale di Santa Croce di Magliano, e formera' una sezione distinta del Collegio elettorale di Larino. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 febbraio 1878. 
+ 
+ UMBERTO. 
+ 
+ F. Crispi.

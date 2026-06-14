@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 16 gennaio 1941 n. 30
-
-
-REGIO DECRETO-LEGGE 16 gennaio 1941 n. 30
-=========================================
-
-Scioglimento del Consiglio di amministrazione dell'Istituto nazionale di credito per il lavoro degli italiani all'estero e nomina di un commissario straordinario. (041U0030)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/02/1941.  
-Regio Decreto-Legge convertito con modificazioni dalla [L. 19 maggio 1941, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-05-19;539) (in G.U. 25/06/1941, n. 147).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 30
+data: 1941-01-16
+titolo: "Scioglimento del Consiglio di amministrazione dell'Istituto nazionale di credito per il lavoro degli italiani all'estero e nomina di un commissario straordinario. (041U0030)"
+urn: urn:nir:stato:regio.decreto.legge:1941-01-16;30
+codice_redazionale: 041U0030
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -27,56 +24,38 @@ Ritenuta la necessita' di dare una diversa destinazione all'attivita' dell'Istit
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro per gli affari esteri di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo
 
-proposta del Ministro per gli affari esteri di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo
+## Art. 1.
 
-Art. 1
-------
+Il Governo del Re e' autorizzato a provvedere allo scioglimento del consiglio di amministrazione dell'Istituto nazionale di credito per il lavoro degli italiani all'estero ed alla nomina di un commissario straordinario al quale saranno attribuiti tutti i poteri gia' propri della Presidenza e del Consiglio stesso.
 
-  
-  
-Il Governo del Re e' autorizzato a provvedere allo scioglimento del consiglio di amministrazione dell'Istituto nazionale di credito per il lavoro degli italiani all'estero ed alla nomina di un commissario straordinario al quale saranno attribuiti tutti i poteri gia' propri della Presidenza e del Consiglio stesso.   
+## Art. 2.
 
-Art. 2
-------
+Il commissario straordinario, non oltre sei mesi dalla sua nomina, dovra' presentare al Governo del Re lo stato della consistenza patrimoniale dell'Istituto, accompagnato da concrete proposte per la migliore utilizzazione delle attivita' dell'Istituto medesimo al fine della sistemazione nell'Impero degli italiani rimpatriati dall'estero.
 
-  
-  
-Il commissario straordinario, non oltre sei mesi dalla sua nomina, dovra' presentare al Governo del Re lo stato della consistenza patrimoniale dell'Istituto, accompagnato da concrete proposte per la migliore utilizzazione delle attivita' dell'Istituto medesimo al fine della sistemazione nell'Impero degli italiani rimpatriati dall'estero.   
+## Art. 3.
 
-Art. 3
-------
+Il bilancio della gestione dell'Istituto per il 1940 sara' presentato dal commissario straordinario per l'approvazione ai Ministri per gli affari esteri e per le finanze.
 
-  
-  
-Il bilancio della gestione dell'Istituto per il 1940 sara' presentato dal commissario straordinario per l'approvazione ai Ministri per gli affari esteri e per le finanze.   
+## Art. 4.
 
-Art. 4
-------
+Il presente decreto-legge entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e verra' presentato alle Assemblee legislative per la sua conversione in legge.
 
-  
-  
-Il presente decreto-legge entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e verra' presentato alle Assemblee legislative per la sua conversione in legge.   
+## Art. 5.
 
-Art. 5
-------
-
-  
-  
-Il Ministro per gli affari esteri e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 gennaio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Ciano - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi 11 febbraio 1941-XIX   
-  
-Atti del Governo, registro 430, foglio 50. - Mancini   
+Il Ministro per gli affari esteri e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 gennaio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Ciano - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi 11 febbraio 1941-XIX 
+ 
+ Atti del Governo, registro 430, foglio 50. - Mancini

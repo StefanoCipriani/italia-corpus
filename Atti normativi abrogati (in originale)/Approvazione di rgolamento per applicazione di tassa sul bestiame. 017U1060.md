@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 14 giugno 1917 n. 1060
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1060
+data: 1917-06-14
+titolo: "Approvazione di rgolamento per applicazione di tassa sul bestiame. (017U1060)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-06-14;1060
+codice_redazionale: 017U1060
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 14 giugno 1917 n. 1060
-==============================================
-
-Approvazione di rgolamento per applicazione di tassa sul bestiame. (017U1060)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/07/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1060. Decreto Luogotenenziale 14 giugno 1917, col quale, sulla proposta del ministro delle finanze, e' approvato il regolamento per l'applicazione della tassa sul bestiame nei comuni della provincia di Genova, in sostituzione di quello approvato con [R. decreto 22 ottobre 1905, n. 334](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-10-22;334).
+1060.
+
+Decreto Luogotenenziale 14 giugno 1917, col quale, sulla proposta del ministro delle finanze, e' approvato il regolamento per l'applicazione della tassa sul bestiame nei comuni della provincia di Genova, in sostituzione di quello approvato con [R. decreto 22 ottobre 1905, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-10-22;334).

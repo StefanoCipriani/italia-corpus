@@ -1,16 +1,14 @@
-REGIO DECRETO 18 ottobre 1942 n. 1308
-
-
-REGIO DECRETO 18 ottobre 1942 n. 1308
-=====================================
-
-Autorizzazione al comune di San Giuseppe Jato ad applicare, fino al 31 dicembre 1943, le imposte di consumo con la tariffa della classe superiore G. (042U1308)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/12/1942
+---
+tipo: REGIO DECRETO
+numero: 1308
+data: 1942-10-18
+titolo: "Autorizzazione al comune di San Giuseppe Jato ad applicare, fino al 31 dicembre 1943, le imposte di consumo con la tariffa della classe superiore G. (042U1308)"
+urn: urn:nir:stato:regio.decreto:1942-10-18;1308
+codice_redazionale: 042U1308
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,28 +24,22 @@ Udita la Commissione centrale che nell'adunanza del 29 maggio 1942, ha approvata
 
 Visto l'art. 26 del testo unico per la finanza locale 14 settembre 1931, n. 1175 ;
 
-Sulla
------
+Sulla proposta dei Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo :
 
-proposta dei Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo :
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di San Giuseppe Jato e' autorizzato ad applicare fino al 31 dicembre 1943 le imposte di consumo con la tariffa della classe superiore G.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 18 ottobre 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 13 novembre 1942-XXI   
-  
-Atti del Governo, registro 451, foglio 30. - MANCINI   
+Il comune di San Giuseppe Jato e' autorizzato ad applicare fino al 31 dicembre 1943 le imposte di consumo con la tariffa della classe superiore G. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 18 ottobre 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 13 novembre 1942-XXI 
+ 
+ Atti del Governo, registro 451, foglio 30. - MANCINI

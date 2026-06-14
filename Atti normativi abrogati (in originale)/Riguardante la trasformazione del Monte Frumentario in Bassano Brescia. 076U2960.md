@@ -1,16 +1,14 @@
-REGIO DECRETO 03 febbraio 1876 n. 2960
-
-
-REGIO DECRETO 03 febbraio 1876 n. 2960
-======================================
-
-Riguardante la trasformazione del Monte Frumentario in Bassano (Brescia). (076U2960)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/03/1876
+---
+tipo: REGIO DECRETO
+numero: 2960
+data: 1876-02-03
+titolo: "Riguardante la trasformazione del Monte Frumentario in Bassano (Brescia). (076U2960)"
+urn: urn:nir:stato:regio.decreto:1876-02-03;2960
+codice_redazionale: 076U2960
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,23 +22,16 @@ Vista la deliberazione della Deputazione provinciale delli 21 dicembre p. p. ann
 
 Visto il parere del Consiglio di Stato del 12 gennaio corrente anno;
 
-Vista
------
+Vista la legge sulle opere pie del 3 agosto 1862, numero 753; Abbiamo decretato e decretiamo:
 
-la legge sulle opere pie del 3 agosto 1862, numero 753; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Monte Frumentario di Bassano (Brescia) e' soppresso. Il relativo capitale sara' a cura della Congregazione di carita', invertito nell'acquisto di rendita iscritta sul Gran Libro del Debito Pubblico per erogarla in sussidio ai poveri.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 febbraio 1876.   
-  
-VITTORIO EMANUELE   
-  
-G. Cantelli.   
-  
+Il Monte Frumentario di Bassano (Brescia) e' soppresso. Il relativo capitale sara' a cura della Congregazione di carita', invertito nell'acquisto di rendita iscritta sul Gran Libro del Debito Pubblico per erogarla in sussidio ai poveri. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 febbraio 1876. 
+ 
+ VITTORIO EMANUELE 
+ 
+ G. Cantelli.

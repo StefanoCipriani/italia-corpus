@@ -1,16 +1,14 @@
-REGIO DECRETO 23 novembre 1885 n. 3525
-
-
-REGIO DECRETO 23 novembre 1885 n. 3525
-======================================
-
-Col quale si autorizza prelevamenti di somme dal fondo di riserva per le Spese impreviste. (085U3525)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/12/1885
+---
+tipo: REGIO DECRETO
+numero: 3525
+data: 1885-11-23
+titolo: "Col quale si autorizza prelevamenti di somme dal fondo di riserva per le Spese impreviste. (085U3525)"
+urn: urn:nir:stato:regio.decreto:1885-11-23;3525
+codice_redazionale: 085U3525
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,25 +20,18 @@ Visto che sul fondo di riserva per le Spese impreviste inscritto in lire 4,000,0
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze ed incaricato degli affari del Tesoro, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le Finanze ed incaricato degli affari del Tesoro, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Questo decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 novembre 1885.   
-  
-UMBERTO.   
-  
-A. Magliani.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+Questo decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 novembre 1885. 
+ 
+ UMBERTO. 
+ 
+ A. Magliani. 
+ 
+ Visto, Il Guardasigilli: Tajani.

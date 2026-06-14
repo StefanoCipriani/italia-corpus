@@ -1,16 +1,14 @@
-REGIO DECRETO 08 ottobre 1908 n. 669
-
-
-REGIO DECRETO 08 ottobre 1908 n. 669
-====================================
-
-Che aggiunge nuovi posti di professori nella scuola tecnica di Fano. (008U0669)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/12/1908
+---
+tipo: REGIO DECRETO
+numero: 669
+data: 1908-10-08
+titolo: "Che aggiunge nuovi posti di professori nella scuola tecnica di Fano. (008U0669)"
+urn: urn:nir:stato:regio.decreto:1908-10-08;669
+codice_redazionale: 008U0669
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,52 +18,41 @@ Veduto il testo unico delle leggi sulla istituzione e regificazione di scuole me
 
 Veduto il Nostro decreto 14 settembre 1908, numero CCCLXXVI (parte supplementare) col quale la scuola tecnica comunale pareggiata di Fano e' dal 1° ottobre 1908 convertita in governativa;
 
-Vista la [legge 25 giugno 1908, n. 294](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-25;294), che approva il bilancio passivo della pubblica istruzione per l'esercizio 1908-909;
+Vista la [legge 25 giugno 1908, n. 294](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20dellistruzione%20pubblica%20per%20lesercizio%20finanziario%201908-909.%20008U0294.md), che approva il bilancio passivo della pubblica istruzione per l'esercizio 1908-909;
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Dal 1° ottobre 1908, agli organici per le scuole medie per l'anno scolastico 1908-909 sono aggiunti i seguenti posti: 
+ 
+ Cinque posti di professore ordinario o straordinario del 1° ordine di ruoli per l'insegnamento nelle scuole tecniche e cioe': 
+ 
+ 1 per l'insegnamento della lingila italiana; 
+ 
+ 1 » della matematica ; 
+ 
+ 1 » della lingua francese; 
+ 
+ 1 » della storia e geografla; 
+ 
+ 1 » del disegno. 
+ 
+ Un posto di professore ordinario o straordinario del 3° ordine di ruoli, gruppo B, per l'insegnamento della calligrafia nelle scuole tecniche.
 
-  
-  
-Dal 1° ottobre 1908, agli organici per le scuole medie per l'anno scolastico 1908-909 sono aggiunti i seguenti posti:   
-  
-Cinque posti di professore ordinario o straordinario del 1° ordine di ruoli per l'insegnamento nelle scuole tecniche e cioe':   
-  
-1 per l'insegnamento della lingila italiana;   
-  
-1 » della matematica ;   
-  
-1 » della lingua francese;   
-  
-1 » della storia e geografla;   
-  
-1 » del disegno.   
-  
-Un posto di professore ordinario o straordinario del 3° ordine di ruoli, gruppo B, per l'insegnamento della calligrafia nelle scuole tecniche.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-I suddetti posti sono assegnati alla R. scuola tecnica di Fano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 8 ottobre 1908.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti.   
-Rava.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+I suddetti posti sono assegnati alla R. scuola tecnica di Fano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 8 ottobre 1908. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti. 
+ Rava. 
+ 
+ Visto, Il guardasigilli: Orlando.

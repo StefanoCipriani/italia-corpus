@@ -1,19 +1,15 @@
-REGIO DECRETO 09 aprile 1905 n. LXXXV
+---
+tipo: REGIO DECRETO
+numero: LXXXV
+data: 1905-04-09
+titolo: "Applicazione di tassa di famiglia. (0500085R)"
+urn: urn:nir:stato:regio.decreto:1905-04-09;85
+codice_redazionale: 0500085R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 aprile 1905 n. LXXXV
-=====================================
-
-Applicazione di tassa di famiglia. (0500085R)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 16/05/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. LXXXV (Dato a Roma, il 9 aprile 1905), col quale data facolta' al comune di San Sepolcro di applicare nell'anno 1905 la tassa di famiglia col limite massimo di L. 200 (duecento).   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. LXXXV (Dato a Roma, il 9 aprile 1905), col quale data facolta' al comune di San Sepolcro di applicare nell'anno 1905 la tassa di famiglia col limite massimo di L. 200 (duecento).

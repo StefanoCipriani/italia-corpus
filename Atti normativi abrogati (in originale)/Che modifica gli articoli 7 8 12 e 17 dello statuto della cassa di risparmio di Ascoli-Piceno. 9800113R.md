@@ -1,22 +1,18 @@
-REGIO DECRETO 21 aprile 1898 n. CXIII
+---
+tipo: REGIO DECRETO
+numero: CXIII
+data: 1898-04-21
+titolo: "Che modifica gli articoli 7, 8, 12 e 17 dello statuto della cassa di risparmio di Ascoli-Piceno. (9800113R)"
+urn: urn:nir:stato:regio.decreto:1898-04-21;113
+codice_redazionale: 9800113R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 21 aprile 1898 n. CXIII
-=====================================
-
-Che modifica gli articoli 7, 8, 12 e 17 dello statuto della cassa di risparmio di Ascoli-Piceno. (9800113R)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/05/1898
-
-Art. 1
-------
-
-  
-Che modifica gli articoli 7, 8, 12 e 17 dello statuto della cassa di risparmio di Ascoli-Piceno. - Firmato UMBERTO - Controfirmato F.  
-Cocco-Ortu - Visto G. Zanardelli.   
-  
-Registrato alla Corte dei Conti addi' 29 aprile 1898.   
-  
-Reg. 215. Atti del Governo a f. 76.   
-  
+Che modifica gli articoli 7, 8, 12 e 17 dello statuto della cassa di risparmio di Ascoli-Piceno. - Firmato UMBERTO - Controfirmato F.
+Cocco-Ortu - Visto G. Zanardelli. 
+ 
+ Registrato alla Corte dei Conti addi' 29 aprile 1898. 
+ 
+ Reg. 215. Atti del Governo a f. 76.

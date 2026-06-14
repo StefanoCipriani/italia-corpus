@@ -1,21 +1,21 @@
-REGIO DECRETO 15 agosto 1924 n. 1315
+---
+tipo: REGIO DECRETO
+numero: 1315
+data: 1924-08-15
+titolo: "Modificazioni allo statuto della fondazione Pier Diego Siccardi, in Milano. (024U1315)"
+urn: urn:nir:stato:regio.decreto:1924-08-15;1315
+codice_redazionale: 024U1315
+vigente: true
+---
 
-
-REGIO DECRETO 15 agosto 1924 n. 1315
-====================================
-
-Modificazioni allo statuto della fondazione Pier Diego Siccardi, in Milano. (024U1315)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/09/1924
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1315. R. decreto 15 agosto 1924, col quale, su proposta del Ministro per la pubblica istruzione, viene modificato lo statuto della fondazione Pier Diego Siccardi, in Milano.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 2 settembre 1924.
+1315.
+
+R. decreto 15 agosto 1924, col quale, su proposta del Ministro per la pubblica istruzione, viene modificato lo statuto della fondazione Pier Diego Siccardi, in Milano. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 2 settembre 1924.

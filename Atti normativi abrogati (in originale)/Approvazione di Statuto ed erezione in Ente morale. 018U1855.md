@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 21 novembre 1918 n. 1855
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1855
+data: 1918-11-21
+titolo: "Approvazione di Statuto ed erezione in Ente morale. (018U1855)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-11-21;1855
+codice_redazionale: 018U1855
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 21 novembre 1918 n. 1855
-================================================
-
-Approvazione di Statuto ed erezione in Ente morale. (018U1855)
---------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/12/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1855. Decreto Luogotenenziale 21 novembre 1918, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'orfanotrofio «Gemma Dell'Aquila Visconti», con sede nel comune di Resina (Napoli), e' eretto in ente morale e ne e' approvato lo statuto organico relativo.
+1855.
+
+Decreto Luogotenenziale 21 novembre 1918, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'orfanotrofio «Gemma Dell'Aquila Visconti», con sede nel comune di Resina (Napoli), e' eretto in ente morale e ne e' approvato lo statuto organico relativo.

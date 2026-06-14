@@ -1,16 +1,14 @@
-REGIO DECRETO 14 agosto 1869 n. 5248
-
-
-REGIO DECRETO 14 agosto 1869 n. 5248
-====================================
-
-Che dichiara provinciali alcune strade scorrenti nella Provincia di Treviso. (069U5248)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/10/1869
+---
+tipo: REGIO DECRETO
+numero: 5248
+data: 1869-08-14
+titolo: "Che dichiara provinciali alcune strade scorrenti nella Provincia di Treviso. (069U5248)"
+urn: urn:nir:stato:regio.decreto:1869-08-14;5248
+codice_redazionale: 069U5248
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -46,37 +44,22 @@ Che per altro a codesta pretesa resiste il fatto che nella classificazione delle
 
 Che risulta intanto come la strada da Castelfranco a Rosa', che mette capo da un lato alla strada nazionale da Cittadella per Treviso, e per l'altro coll'altra strada nazionale, detta Tirolese o di Canal di Brenta, presenta i caratteri tutti che per Legge la debbono fare annoverare fra le strade provinciali;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate provinciali le sei strade nella Provincia di Treviso, indicate nell'Elenco che, visto d'ordine Nostro dal predetto Ministro, sta annesso al presente Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 14 agosto 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 26 agosto 1869   
-  
-Reg. 48 Atti del Governo a c. 53. Crodera Visconti.   
-  
-Luogo del sigillo. V. Il Guardasigilli Pironti   
-  
-A. Mordini.   
-  
-
-Elenco
-
-  
-Elenco delle strade provinciali di Treviso classificate tali con Reale Decreto in data d'oggi.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=069U524800100010110001&dgu=1869-09-16&art.dataPubblicazioneGazzetta=1869-09-16&art.codiceRedazionale=069U5248)
-  
+Sono dichiarate provinciali le sei strade nella Provincia di Treviso, indicate nell'Elenco che, visto d'ordine Nostro dal predetto Ministro, sta annesso al presente Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 14 agosto 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 26 agosto 1869 
+ 
+ Reg. 48 Atti del Governo a c. 53. Crodera Visconti. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Pironti 
+ 
+ A. Mordini.

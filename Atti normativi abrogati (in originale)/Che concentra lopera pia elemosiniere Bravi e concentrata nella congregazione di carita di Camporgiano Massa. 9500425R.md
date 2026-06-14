@@ -1,21 +1,17 @@
-REGIO DECRETO 18 aprile 1895 n. CCCCXXV
+---
+tipo: REGIO DECRETO
+numero: CCCCXXV
+data: 1895-04-18
+titolo: "Che concentra l'opera pia elemosiniere Bravi e' concentrata nella congregazione di carita' di Camporgiano (Massa). (9500425R)"
+urn: urn:nir:stato:regio.decreto:1895-04-18;425
+codice_redazionale: 9500425R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 aprile 1895 n. CCCCXXV
-=======================================
-
-Che concentra l'opera pia elemosiniere Bravi e' concentrata nella congregazione di carita' di Camporgiano (Massa). (9500425R)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/12/1895
-
-Art. 1
-------
-
-  
-Con cui l'opera pia elemosiniere Bravi e' concentrata nella congregazione di carita' di Camporgiano (Massa). - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei Conti addi' 30 novembre 1895.   
-  
-Reg. 201. Atti del Governo a f. 190.   
-  
+Con cui l'opera pia elemosiniere Bravi e' concentrata nella congregazione di carita' di Camporgiano (Massa). - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 30 novembre 1895. 
+ 
+ Reg. 201. Atti del Governo a f. 190.

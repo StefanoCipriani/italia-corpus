@@ -1,21 +1,21 @@
-REGIO DECRETO 12 febbraio 1930 n. 223
+---
+tipo: REGIO DECRETO
+numero: 223
+data: 1930-02-12
+titolo: "Modificazione dell'art. 15 dello statuto del Monte di pieta' di Bologna. (030U0223)"
+urn: urn:nir:stato:regio.decreto:1930-02-12;223
+codice_redazionale: 030U0223
+vigente: true
+---
 
-
-REGIO DECRETO 12 febbraio 1930 n. 223
-=====================================
-
-Modificazione dell'art. 15 dello statuto del Monte di pieta' di Bologna. (030U0223)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/04/1930
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-223. R. decreto 12 febbraio 1930, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, di concerto con il Ministro per l'interno, viene modificato l'art. 15 dello statuto organico del Monte di pieta' di Bologna.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 28 marzo 1930 - Anno VIII
+223.
+
+R. decreto 12 febbraio 1930, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, di concerto con il Ministro per l'interno, viene modificato l'art. 15 dello statuto organico del Monte di pieta' di Bologna. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 28 marzo 1930 - Anno VIII

@@ -1,19 +1,15 @@
-REGIO DECRETO 09 settembre 1912 n. 1038
+---
+tipo: REGIO DECRETO
+numero: 1038
+data: 1912-09-09
+titolo: "Approvazione di statuto (012U1038)"
+urn: urn:nir:stato:regio.decreto:1912-09-09;1038
+codice_redazionale: 012U1038
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 settembre 1912 n. 1038
-=======================================
-
-Approvazione di statuto (012U1038)
-----------------------------------
-
-Entrata in vigore del provvedimento: 19/10/1912
-
-Art. 1
-------
-
-  
-N. 1038   
-  
-Regio Decreto 9 settembre 1912, col quale, sulla proposta del ministro dell'interno, il lascito «Domenico Barone», in Acqui e' eretto in ente morale e ne e' approvato lo Statuto.   
-  
+N. 1038 
+ 
+ Regio Decreto 9 settembre 1912, col quale, sulla proposta del ministro dell'interno, il lascito «Domenico Barone», in Acqui e' eretto in ente morale e ne e' approvato lo Statuto.

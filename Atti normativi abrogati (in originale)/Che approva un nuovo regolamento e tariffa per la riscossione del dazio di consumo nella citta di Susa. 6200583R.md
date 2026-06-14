@@ -1,19 +1,15 @@
-REGIO DECRETO 09 novembre 1862 n. DLXXXIII
+---
+tipo: REGIO DECRETO
+numero: DLXXXIII
+data: 1862-11-09
+titolo: "Che approva un nuovo regolamento e tariffa per la riscossione del dazio di consumo nella citta' di Susa. (6200583R)"
+urn: urn:nir:stato:regio.decreto:1862-11-09;583
+codice_redazionale: 6200583R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 novembre 1862 n. DLXXXIII
-==========================================
-
-Che approva un nuovo regolamento e tariffa per la riscossione del dazio di consumo nella citta' di Susa. (6200583R)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/11/1862
-
-Art. 1
-------
-
-  
-Che approva un nuovo regolamento ed una nuova tariffa per la riscossione del dazio di consumo per esercizio nel Comune di Susa.   
-  
-Torino 9 novembre 1862   
-  
+Che approva un nuovo regolamento ed una nuova tariffa per la riscossione del dazio di consumo per esercizio nel Comune di Susa. 
+ 
+ Torino 9 novembre 1862

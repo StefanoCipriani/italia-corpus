@@ -1,16 +1,14 @@
-REGIO DECRETO 07 marzo 1865 n. 2192
-
-
-REGIO DECRETO 07 marzo 1865 n. 2192
-===================================
-
-Che costituisce il Comune di Giffoni-Valle-Piano Sezione elettorale separata. (065U2192)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/04/1865
+---
+tipo: REGIO DECRETO
+numero: 2192
+data: 1865-03-07
+titolo: "Che costituisce il Comune di Giffoni-Valle-Piano Sezione elettorale separata. (065U2192)"
+urn: urn:nir:stato:regio.decreto:1865-03-07;2192
+codice_redazionale: 065U2192
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune di Giffoni-Valle-Piano piu' di quaranta elettori e piu' d
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Giffoni-Valle-Piano, che sino ad ora fece parte della Sezione detta di Sancipriano, nel Collegio elettorale di Montecorvino Rovella, n.° 341, costituira' d'ora in poi una Sezione del Collegio medesimo.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Milano addi' 7 marzo 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 21 marzo 1865   
-  
-Reg.° 32 Atti del Governo a c. 189. Salvaja.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-G. Lanza.   
-  
+Il Comune di Giffoni-Valle-Piano, che sino ad ora fece parte della Sezione detta di Sancipriano, nel Collegio elettorale di Montecorvino Rovella, n.° 341, costituira' d'ora in poi una Sezione del Collegio medesimo. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Milano addi' 7 marzo 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 21 marzo 1865 
+ 
+ Reg.° 32 Atti del Governo a c. 189. Salvaja. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ G. Lanza.

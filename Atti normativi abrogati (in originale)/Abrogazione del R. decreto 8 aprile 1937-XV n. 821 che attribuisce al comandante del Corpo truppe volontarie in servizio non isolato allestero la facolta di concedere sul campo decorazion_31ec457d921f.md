@@ -1,16 +1,14 @@
-REGIO DECRETO 16 novembre 1939 n. 2007
-
-
-REGIO DECRETO 16 novembre 1939 n. 2007
-======================================
-
-Abrogazione del R. decreto 8 aprile 1937-XV, n. 821, che attribuisce al comandante del Corpo truppe volontarie in servizio non isolato all'estero, la facolta' di concedere sul campo decorazioni al valor militare. (039U2007)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/02/1940
+---
+tipo: REGIO DECRETO
+numero: 2007
+data: 1939-11-16
+titolo: "Abrogazione del R. decreto 8 aprile 1937-XV, n. 821, che attribuisce al comandante del Corpo truppe volontarie in servizio non isolato all'estero, la facolta' di concedere sul campo decorazioni al valor militare. (039U2007)"
+urn: urn:nir:stato:regio.decreto:1939-11-16;2007
+codice_redazionale: 039U2007
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,22 @@ Visto il R. decreto 8 aprile 1937-XV, n. 821, elle attribuisce al comandante il 
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, per la marina e per l'aeronautica, di concerto con i Ministri per gli affari esteri e per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, per la marina e per l'aeronautica, di concerto con i Ministri per gli affari esteri e per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il decreto 8 aprile 1937-XV, n. 821, che attribuisce al comandante del Corpo truppe volontarie in servizio non isolato all'estero, la facolta' di concedere sul campo decorazioni al valor militare, cessa di aver vigore a datare dal 30 aprile 1939-XVII.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 novembre 1939-XVIII   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - CIANO - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 14 gennaio 1940-XVIII   
-  
-Atti del Governo, registro 417, foglio 42. - MANCINI   
-  
-  
+Il decreto 8 aprile 1937-XV, n. 821, che attribuisce al comandante del Corpo truppe volontarie in servizio non isolato all'estero, la facolta' di concedere sul campo decorazioni al valor militare, cessa di aver vigore a datare dal 30 aprile 1939-XVII. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 novembre 1939-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - CIANO - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 14 gennaio 1940-XVIII 
+ 
+ Atti del Governo, registro 417, foglio 42. - MANCINI

@@ -1,16 +1,14 @@
-REGIO DECRETO 31 gennaio 1877 n. 3651
-
-
-REGIO DECRETO 31 gennaio 1877 n. 3651
-=====================================
-
-Col quale i comuni di Fiorano Modenese e Maranello sono separati dalla sezione elettorale di Sassuolo e costituiti in sezione distinta del 2° collegio di Modena, con la sede a Fiorano. (077U3651)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/02/1877
+---
+tipo: REGIO DECRETO
+numero: 3651
+data: 1877-01-31
+titolo: "Col quale i comuni di Fiorano Modenese e Maranello sono separati dalla sezione elettorale di Sassuolo e costituiti in sezione distinta del 2° collegio di Modena, con la sede a Fiorano. (077U3651)"
+urn: urn:nir:stato:regio.decreto:1877-01-31;3651
+codice_redazionale: 077U3651
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri,
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Fiorano Modenese e Maranello sono separati dalla sezione elettorale di Sassuolo e formeranno una sezione distinta del 2° Collegio elettorale di Modena num. 247, con la sede a Fiorano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli, addi' 31 gennaio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-Depretis.   
-  
+I comuni di Fiorano Modenese e Maranello sono separati dalla sezione elettorale di Sassuolo e formeranno una sezione distinta del 2° Collegio elettorale di Modena num. 247, con la sede a Fiorano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli, addi' 31 gennaio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Depretis.

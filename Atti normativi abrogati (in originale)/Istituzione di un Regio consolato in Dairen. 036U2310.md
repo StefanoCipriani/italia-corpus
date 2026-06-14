@@ -1,21 +1,21 @@
-REGIO DECRETO 28 dicembre 1936 n. 2310
+---
+tipo: REGIO DECRETO
+numero: 2310
+data: 1936-12-28
+titolo: "Istituzione di un Regio consolato in Dairen. (036U2310)"
+urn: urn:nir:stato:regio.decreto:1936-12-28;2310
+codice_redazionale: 036U2310
+vigente: true
+---
 
-
-REGIO DECRETO 28 dicembre 1936 n. 2310
-======================================
-
-Istituzione di un Regio consolato in Dairen. (036U2310)
--------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/02/1937
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2310. R. decreto 28 dicembre 1936, col quale, sulla proposta del Ministro per gli affari esteri, viene istituito in Dairen un Regio consolato, con giurisdizione sul «Kwantung Leased territory».   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 23 gennaio 1937 - Anno XV
+2310.
+
+R. decreto 28 dicembre 1936, col quale, sulla proposta del Ministro per gli affari esteri, viene istituito in Dairen un Regio consolato, con giurisdizione sul «Kwantung Leased territory». 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 23 gennaio 1937 - Anno XV

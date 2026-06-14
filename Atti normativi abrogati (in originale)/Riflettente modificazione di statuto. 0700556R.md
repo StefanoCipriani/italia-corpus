@@ -1,19 +1,15 @@
-REGIO DECRETO 15 dicembre 1907 n. DLVI
+---
+tipo: REGIO DECRETO
+numero: DLVI
+data: 1907-12-15
+titolo: "Riflettente modificazione di statuto. (0700556R)"
+urn: urn:nir:stato:regio.decreto:1907-12-15;556
+codice_redazionale: 0700556R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 dicembre 1907 n. DLVI
-======================================
-
-Riflettente modificazione di statuto. (0700556R)
-------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/02/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. DLVI (Dato a Roma, il 15 dicembre 1907), col quale si modifica lo statuto organico della Cassa di risparmio di Fossombrone.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. DLVI (Dato a Roma, il 15 dicembre 1907), col quale si modifica lo statuto organico della Cassa di risparmio di Fossombrone.

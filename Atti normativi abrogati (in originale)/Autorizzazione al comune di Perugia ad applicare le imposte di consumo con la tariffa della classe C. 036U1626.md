@@ -1,16 +1,14 @@
-REGIO DECRETO 21 agosto 1936 n. 1626
-
-
-REGIO DECRETO 21 agosto 1936 n. 1626
-====================================
-
-Autorizzazione al comune di Perugia ad applicare le imposte di consumo con la tariffa della classe C. (036U1626)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/09/1936
+---
+tipo: REGIO DECRETO
+numero: 1626
+data: 1936-08-21
+titolo: "Autorizzazione al comune di Perugia ad applicare le imposte di consumo con la tariffa della classe C. (036U1626)"
+urn: urn:nir:stato:regio.decreto:1936-08-21;1626
+codice_redazionale: 036U1626
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,27 +22,21 @@ Vista la domanda avanzata dal comune di Perugia per avvalersi della disposizione
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Perugia e' autorizzato ad applicare le imposte di consumo entro i limiti stabiliti per i Comuni della classe C.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna Valdieri, addi' 21 agosto 1936 - Anno XIV   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 7 settembre 1936 - Anno XIV   
-Atti dei Governo, registro 377, foglio 23. - .Mancini.   
+Il comune di Perugia e' autorizzato ad applicare le imposte di consumo entro i limiti stabiliti per i Comuni della classe C. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna Valdieri, addi' 21 agosto 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 7 settembre 1936 - Anno XIV  
+ Atti dei Governo, registro 377, foglio 23. - .Mancini.

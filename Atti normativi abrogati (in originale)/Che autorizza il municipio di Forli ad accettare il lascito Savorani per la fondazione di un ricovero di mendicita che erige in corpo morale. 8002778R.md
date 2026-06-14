@@ -1,47 +1,35 @@
-REGIO DECRETO 05 dicembre 1880 n. MMDCCLXXVIII
+---
+tipo: REGIO DECRETO
+numero: MMDCCLXXVIII
+data: 1880-12-05
+titolo: "Che autorizza il municipio di Forli' ad accettare il lascito Savorani per la fondazione di un ricovero di mendicita', che erige in corpo morale. (8002778R)"
+urn: urn:nir:stato:regio.decreto:1880-12-05;2778
+codice_redazionale: 8002778R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 dicembre 1880 n. MMDCCLXXVIII
-==============================================
+Il municipio di Forli' quale rappresentante del ricovero di mendicita' da fondarsi in quella citta' e' autorizzato ad accettare nell'interesse del detto pio istituto il lascito dei stabili a favore di esso disposto dal fu Quinto Savorani col precitato testamento.
 
-Che autorizza il municipio di Forli' ad accettare il lascito Savorani per la fondazione di un ricovero di mendicita', che erige in corpo morale. (8002778R)
------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 16/03/1881
+L'accennato ricovero di mendicita' e' costituito in corpo morale.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Il municipio di Forli' quale rappresentante del ricovero di mendicita' da fondarsi in quella citta' e' autorizzato ad accettare nell'interesse del detto pio istituto il lascito dei stabili a favore di esso disposto dal fu Quinto Savorani col precitato testamento.   
-  
-
-Art. 2
-------
-
-  
-  
-L'accennato ricovero di mendicita' e' costituito in corpo morale.   
-
-Art. 3
-------
-
-  
-  
-Entro il termine di tre mesi verra' presentato alla nostra approvazione il relativo statuto organico.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 5 dicembre 1880.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 17 dicembre 1880   
-  
-Reg. 111 Atti del Governo a f. 95. G. Crodara Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli T. Villa.   
-  
-Depretis.   
-  
+Entro il termine di tre mesi verra' presentato alla nostra approvazione il relativo statuto organico. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 5 dicembre 1880. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 17 dicembre 1880 
+ 
+ Reg. 111 Atti del Governo a f. 95. G. Crodara Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli T. Villa. 
+ 
+ Depretis.

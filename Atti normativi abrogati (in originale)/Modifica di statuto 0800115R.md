@@ -1,19 +1,15 @@
-REGIO DECRETO 23 febbraio 1908 n. CXV
+---
+tipo: REGIO DECRETO
+numero: CXV
+data: 1908-02-23
+titolo: "Modifica di statuto (0800115R)"
+urn: urn:nir:stato:regio.decreto:1908-02-23;115
+codice_redazionale: 0800115R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 febbraio 1908 n. CXV
-=====================================
-
-Modifica di statuto (0800115R)
-------------------------------
-
-Entrata in vigore del provvedimento: 05/05/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CXV (Dato a Roma, il 23 febbraio 1908), col quale si modifica lo statuto organico dell'istituzione perpetua Busatti in Laterina.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CXV (Dato a Roma, il 23 febbraio 1908), col quale si modifica lo statuto organico dell'istituzione perpetua Busatti in Laterina.

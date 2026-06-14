@@ -1,35 +1,26 @@
-LEGGE 20 novembre 1970 n. 951
-
-
-LEGGE 20 novembre 1970 n. 951
-=============================
-
-Proroga del termine previsto dall'articolo 4 della legge 27 ottobre 1969, n. 755, istitutiva della commissione parlamentare di inchiesta sui fenomeni di criminalita' in Sardegna.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 951
+data: 1970-11-20
+titolo: "Proroga del termine previsto dall'articolo 4 della legge 27 ottobre 1969, n. 755, istitutiva della commissione parlamentare di inchiesta sui fenomeni di criminalita' in Sardegna."
+urn: urn:nir:stato:legge:1970-11-20;951
+codice_redazionale: 070U0951
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-Il termine previsto dall'[articolo 4 della legge 27 ottobre 1969, n. 755](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-10-27;755~art4), e' prorogato di un anno.  
-La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.  
-  
+Il termine previsto dall'[articolo 4 della legge 27 ottobre 1969, n. 755](Inchiesta%20parlamentare%20sui%20fenomeni%20di%20criminalita%20in%20Sardegna.md), e' prorogato di un anno.
+ La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 20 novembre 1970
+Data a Roma, addi' 20 novembre 1970
 
-SARAGAT COLOMBO - REALE - RESTIVO
-
-Visto, il Guardasigilli: REALE
+SARAGAT COLOMBO - REALE - RESTIVO Visto, il Guardasigilli: REALE

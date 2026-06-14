@@ -1,47 +1,35 @@
-REGIO DECRETO 08 luglio 1880 n. MMDCXXVII
+---
+tipo: REGIO DECRETO
+numero: MMDCXXVII
+data: 1880-07-08
+titolo: "Che erige in corpo morale l'asilo infantile Sappa istituito nel comune di Armeno (Novara). (8002627R)"
+urn: urn:nir:stato:regio.decreto:1880-07-08;2627
+codice_redazionale: 8002627R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 luglio 1880 n. MMDCXXVII
-=========================================
+L'asilo infantile, gia' istituito nel comune di Armeno dalla signora Angela Marietti nata Sappa, e' eretto in corpo morale, col titolo di Asilo Sappa.
 
-Che erige in corpo morale l'asilo infantile Sappa istituito nel comune di Armeno (Novara). (8002627R)
------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 03/09/1880
+La congregazione di carita' di detto comune e' autorizzata ad accettare nell'interesse dell'asilo stesso la succennata donazione.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-L'asilo infantile, gia' istituito nel comune di Armeno dalla signora Angela Marietti nata Sappa, e' eretto in corpo morale, col titolo di Asilo Sappa.   
-  
-
-Art. 2
-------
-
-  
-  
-La congregazione di carita' di detto comune e' autorizzata ad accettare nell'interesse dell'asilo stesso la succennata donazione.   
-
-Art. 3
-------
-
-  
-  
-Entro tre mesi, gli amministratori designati dalla fondatrice presenteranno alla nostra approvazione lo statuto organico del pio istituto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 8 luglio 1880.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 25 luglio 1880   
-  
-Reg. 109 Atti del Governo a f. 49. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli T. Villa.   
-  
-Depretis.   
-  
+Entro tre mesi, gli amministratori designati dalla fondatrice presenteranno alla nostra approvazione lo statuto organico del pio istituto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 8 luglio 1880. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 25 luglio 1880 
+ 
+ Reg. 109 Atti del Governo a f. 49. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli T. Villa. 
+ 
+ Depretis.

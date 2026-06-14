@@ -1,16 +1,14 @@
-REGIO DECRETO 15 gennaio 1870 n. 5461
-
-
-REGIO DECRETO 15 gennaio 1870 n. 5461
-=====================================
-
-Che autorizza i Comuni di Pieve d'Alpago, Puos, Chies, Farra e Tambre a formare una Sezione elettorale separata dal Collegio di Belluno, con sede in Pieve d'Alpago. (070U5461)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/02/1870
+---
+tipo: REGIO DECRETO
+numero: 5461
+data: 1870-01-15
+titolo: "Che autorizza i Comuni di Pieve d'Alpago, Puos, Chies, Farra e Tambre a formare una Sezione elettorale separata dal Collegio di Belluno, con sede in Pieve d'Alpago. (070U5461)"
+urn: urn:nir:stato:regio.decreto:1870-01-15;5461
+codice_redazionale: 070U5461
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Noverandosi nei Comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Pieve d'Alpago, Puos, Chies, Farra e Tambre formeranno d'ora in poi una Sezione elettorale separata del Collegio di Belluno, con sede in Pieve d'Alpago.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 15 gennaio 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 20 gennaio 1870   
-Reg. 49 Atti del Governo a c. 180. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-G. Lanza.   
-  
+I Comuni di Pieve d'Alpago, Puos, Chies, Farra e Tambre formeranno d'ora in poi una Sezione elettorale separata del Collegio di Belluno, con sede in Pieve d'Alpago. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 15 gennaio 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 20 gennaio 1870 
+ Reg. 49 Atti del Governo a c. 180. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ G. Lanza.

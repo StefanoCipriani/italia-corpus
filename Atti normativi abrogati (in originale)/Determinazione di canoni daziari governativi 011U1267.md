@@ -1,19 +1,15 @@
-REGIO DECRETO 12 novembre 1911 n. 1267
+---
+tipo: REGIO DECRETO
+numero: 1267
+data: 1911-11-12
+titolo: "Determinazione di canoni daziari governativi (011U1267)"
+urn: urn:nir:stato:regio.decreto:1911-11-12;1267
+codice_redazionale: 011U1267
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 novembre 1911 n. 1267
-======================================
-
-Determinazione di canoni daziari governativi (011U1267)
--------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/12/1911
-
-Art. 1
-------
-
-  
-N. 1267   
-  
-R. Decreto 12 novembre 1911, col quale, sulla proposta del ministro delle finanze, viene provveduto alla determinazione dei canoni daziari governativi per i comuni di Monterubbiano e di Moresco.   
-  
+N. 1267 
+ 
+ R. Decreto 12 novembre 1911, col quale, sulla proposta del ministro delle finanze, viene provveduto alla determinazione dei canoni daziari governativi per i comuni di Monterubbiano e di Moresco.

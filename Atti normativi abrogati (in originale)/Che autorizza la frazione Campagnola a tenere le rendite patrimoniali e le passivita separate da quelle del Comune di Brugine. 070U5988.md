@@ -1,16 +1,14 @@
-REGIO DECRETO 24 ottobre 1870 n. 5988
-
-
-REGIO DECRETO 24 ottobre 1870 n. 5988
-=====================================
-
-Che autorizza la frazione Campagnola a tenere le rendite patrimoniali e le passivita' separate da quelle del Comune di Brugine. (070U5988)
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/11/1870
+---
+tipo: REGIO DECRETO
+numero: 5988
+data: 1870-10-24
+titolo: "Che autorizza la frazione Campagnola a tenere le rendite patrimoniali e le passivita' separate da quelle del Comune di Brugine. (070U5988)"
+urn: urn:nir:stato:regio.decreto:1870-10-24;5988
+codice_redazionale: 070U5988
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,31 +22,24 @@ Vista la deliberazione del Consiglio comunale di Brugine, in data 31 agosto 1870
 
 Visto l'art. 16 della Legge sull'amministrazione comunale e provinciale, in data 20 marzo 1865, allegato A;
 
-Vista
------
+Vista la Legge 18 agosto 1870, n. 5815; Abbiamo decretato e decretiamo:
 
-la Legge 18 agosto 1870, n. 5815; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La frazione Campagnola e' autorizzata a tenere le proprie rendite patrimoniali, le passivita' e le spese separate da quelle del rimanente del Comune di Brugine, in Provincia di Padova.   
-  
-I limiti territoriali di detta frazione restano determinati dalla linea segnata in color rosso nel tipo planimetrico del Comune, in data 5 settembre 1870, che sara' d'ordine Nostro vidimato dal Ministro proponente.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 24 ottobre 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 novembre 1870   
-  
-Reg. 53 Atti del Governo a c. 23. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Lanza.   
-  
+La frazione Campagnola e' autorizzata a tenere le proprie rendite patrimoniali, le passivita' e le spese separate da quelle del rimanente del Comune di Brugine, in Provincia di Padova. 
+ 
+ I limiti territoriali di detta frazione restano determinati dalla linea segnata in color rosso nel tipo planimetrico del Comune, in data 5 settembre 1870, che sara' d'ordine Nostro vidimato dal Ministro proponente. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 24 ottobre 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 novembre 1870 
+ 
+ Reg. 53 Atti del Governo a c. 23. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Lanza.

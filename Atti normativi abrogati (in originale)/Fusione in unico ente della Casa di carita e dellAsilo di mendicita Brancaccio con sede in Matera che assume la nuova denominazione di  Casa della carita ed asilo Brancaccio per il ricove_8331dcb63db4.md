@@ -1,21 +1,21 @@
-REGIO DECRETO 29 gennaio 1942 n. 291
+---
+tipo: REGIO DECRETO
+numero: 291
+data: 1942-01-29
+titolo: "Fusione in unico ente della Casa di carita' e dell'Asilo di mendicita' Brancaccio, con sede in Matera, che assume la nuova denominazione di « Casa della carita' ed asilo Brancaccio per il ricovero dei vecchi poveri ». (042U0291)"
+urn: urn:nir:stato:regio.decreto:1942-01-29;291
+codice_redazionale: 042U0291
+vigente: true
+---
 
-
-REGIO DECRETO 29 gennaio 1942 n. 291
-====================================
-
-Fusione in unico ente della Casa di carita' e dell'Asilo di mendicita' Brancaccio, con sede in Matera, che assume la nuova denominazione di « Casa della carita' ed asilo Brancaccio per il ricovero dei vecchi poveri ». (042U0291)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/04/1942
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-291. R. decreto 29 gennaio 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, la Casa di carita' e l'Asilo di mendicita' Brancaccio, con sede in Matera, sono fuse in unico ente, che assume la denominazione di « Casa della carita' ed asilo Brancaccio per il ricovero dei vecchi poveri ».   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 29 marzo 1942-XX
+291.
+
+R. decreto 29 gennaio 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, la Casa di carita' e l'Asilo di mendicita' Brancaccio, con sede in Matera, sono fuse in unico ente, che assume la denominazione di « Casa della carita' ed asilo Brancaccio per il ricovero dei vecchi poveri ». 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 29 marzo 1942-XX

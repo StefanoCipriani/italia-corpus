@@ -1,16 +1,14 @@
-REGIO DECRETO 12 maggio 1881 n. 228
-
-
-REGIO DECRETO 12 maggio 1881 n. 228
-===================================
-
-Che stabilisce alcune norme da osservrsi negli esami di licenza liceale. (081U0228)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/06/1881
+---
+tipo: REGIO DECRETO
+numero: 228
+data: 1881-05-12
+titolo: "Che stabilisce alcune norme da osservrsi negli esami di licenza liceale. (081U0228)"
+urn: urn:nir:stato:regio.decreto:1881-05-12;228
+codice_redazionale: 081U0228
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,57 +20,34 @@ Considerato lo stato presente del Consiglio superiore di pubblica istruzione;
 
 Considerata la stringente necessita' di provvedere sollecitamente alla nomina della Giunta che deve sopraintendere ai prossimi esami di licenza liceale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono abrogati gli articoli 10 e 18 del citato regolamento.
 
-  
-  
-Sono abrogati gli articoli 10 e 18 del citato regolamento.   
-  
+## Art. 2.
 
-Art. 2
-------
+Il Nostro Ministro predetto nominera' per quest'anno le persone che dovranno comporre la Giunta per l'esame di licenza liceale.
 
-  
-  
-Il Nostro Ministro predetto nominera' per quest'anno le persone che dovranno comporre la Giunta per l'esame di licenza liceale.   
-  
+## Art. 3.
 
-Art. 3
-------
+Le attribuzioni della Giunta saranno quelle stabilite all'articolo 10 del citato regolamento 29 aprile 1877, eccetto quella indicata col numero 1.
 
-  
-  
-Le attribuzioni della Giunta saranno quelle stabilite all'articolo 10 del citato regolamento 29 aprile 1877, eccetto quella indicata col numero 1.   
-  
+## Art. 4.
 
-Art. 4
-------
+Ciascun componente di essa Giunta avra' una indennita' proporzionata all'opera che prestera'.
 
-  
-  
-Ciascun componente di essa Giunta avra' una indennita' proporzionata all'opera che prestera'.   
-  
+## Art. 5.
 
-Art. 5
-------
-
-  
-  
-Ai delegati Regi che il Ministro mandasse ad assistere agli esami, oltre le spese di viaggio, saranno corrisposte lire quindici al giorno. Il preside e ciascun professore avra' diritto ad una propina di lire quattro per ogni candidato che abbia pagata la tassa e sostenuta piu' di una prova d'esame.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 maggio 1881.   
-  
-UMBERTO.   
-  
-Baccelli.   
-  
-Visto, il Guardasigilli: T. Villa.   
-  
+Ai delegati Regi che il Ministro mandasse ad assistere agli esami, oltre le spese di viaggio, saranno corrisposte lire quindici al giorno. Il preside e ciascun professore avra' diritto ad una propina di lire quattro per ogni candidato che abbia pagata la tassa e sostenuta piu' di una prova d'esame. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 maggio 1881. 
+ 
+ UMBERTO. 
+ 
+ Baccelli. 
+ 
+ Visto, il Guardasigilli: T. Villa.

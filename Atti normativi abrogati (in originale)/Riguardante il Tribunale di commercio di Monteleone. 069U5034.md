@@ -1,16 +1,14 @@
-REGIO DECRETO 26 aprile 1869 n. 5034
-
-
-REGIO DECRETO 26 aprile 1869 n. 5034
-====================================
-
-Riguardante il Tribunale di commercio di Monteleone. (069U5034)
----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1869
+---
+tipo: REGIO DECRETO
+numero: 5034
+data: 1869-04-26
+titolo: "Riguardante il Tribunale di commercio di Monteleone. (069U5034)"
+urn: urn:nir:stato:regio.decreto:1869-04-26;5034
+codice_redazionale: 069U5034
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Considerando che per tale deficienza di affari, non sarebbe conveniente destinar
 
 Visto l'articolo 62 della Legge sull'ordinamento giudiziario del 6 dicembre 1865, n. 2626;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La giurisdizione del Tribunale di commercio di Monteleone e' provvisoriamente devoluta al Tribunale civile e correzionale di quel Circondario.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 26 aprile 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 4 maggio 1869   
-  
-Reg. 46 Atti del Governo a c. 160. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-De Filippo.   
-  
+La giurisdizione del Tribunale di commercio di Monteleone e' provvisoriamente devoluta al Tribunale civile e correzionale di quel Circondario. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 26 aprile 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 4 maggio 1869 
+ 
+ Reg. 46 Atti del Governo a c. 160. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ De Filippo.

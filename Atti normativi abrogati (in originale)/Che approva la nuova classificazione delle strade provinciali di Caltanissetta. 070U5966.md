@@ -1,16 +1,14 @@
-REGIO DECRETO 13 ottobre 1870 n. 5966
-
-
-REGIO DECRETO 13 ottobre 1870 n. 5966
-=====================================
-
-Che approva la nuova classificazione delle strade provinciali di Caltanissetta. (070U5966)
-------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/11/1870
+---
+tipo: REGIO DECRETO
+numero: 5966
+data: 1870-10-13
+titolo: "Che approva la nuova classificazione delle strade provinciali di Caltanissetta. (070U5966)"
+urn: urn:nir:stato:regio.decreto:1870-10-13;5966
+codice_redazionale: 070U5966
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,37 +26,22 @@ Veduto il nuovo Elenco generale proposto da quella Deputazione provinciale in se
 
 Visti gli articoli 13 e 14 della Legge sulle opere pubbliche 20 marzo 1865;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata la nuova classificazione delle strade provinciali di Caltanissetta, a forma dell'Elenco adottato da quella Deputazione provinciale in seduta 12 settembre ultimo passato, il quale, visto d'ordine Nostro dal predetto Ministro pei Lavori Pubblici, stara' annesso al presente Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 13 ottobre 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 29 ottobre 1870   
-  
-Reg. 53 Atti dei Governo a c. 3. Ayres.   
-  
-Luogo del sigillo. V Il Guardasigilli M. Raeli.   
-  
-G. Gadda.   
-  
-
-Elenco
-
-  
-Elenco di tutte le strade provinciali di Caltanissetta, approvato con decreto Reale in data d'oggi.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=070U596600100010110001&dgu=1870-11-10&art.dataPubblicazioneGazzetta=1870-11-10&art.codiceRedazionale=070U5966)
-  
+E' approvata la nuova classificazione delle strade provinciali di Caltanissetta, a forma dell'Elenco adottato da quella Deputazione provinciale in seduta 12 settembre ultimo passato, il quale, visto d'ordine Nostro dal predetto Ministro pei Lavori Pubblici, stara' annesso al presente Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 13 ottobre 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 29 ottobre 1870 
+ 
+ Reg. 53 Atti dei Governo a c. 3. Ayres. 
+ 
+ Luogo del sigillo. V Il Guardasigilli M. Raeli. 
+ 
+ G. Gadda.

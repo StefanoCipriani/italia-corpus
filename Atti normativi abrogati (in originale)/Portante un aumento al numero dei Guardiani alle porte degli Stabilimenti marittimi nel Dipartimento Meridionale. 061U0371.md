@@ -1,16 +1,14 @@
-REGIO DECRETO 15 dicembre 1861 n. 371
-
-
-REGIO DECRETO 15 dicembre 1861 n. 371
-=====================================
-
-Portante un aumento al numero dei Guardiani alle porte degli Stabilimenti marittimi nel Dipartimento Meridionale. (061U0371)
-----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/01/1862
+---
+tipo: REGIO DECRETO
+numero: 371
+data: 1861-12-15
+titolo: "Portante un aumento al numero dei Guardiani alle porte degli Stabilimenti marittimi nel Dipartimento Meridionale. (061U0371)"
+urn: urn:nir:stato:regio.decreto:1861-12-15;371
+codice_redazionale: 061U0371
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,23 +18,16 @@ Visto l'articolo 146 dell'Ordinamento della Marina militare dello Stato, in data
 
 Considerando che il numero dei Guardiani alle porte degli Stabilimenti marittimi pel Dipartimento meridionale non sarebbe in proporzione ai bisogni di un tale servizio;
 
-Sulla
------
+Sulla proposizione del Ministro della Marina, Abbiamo decretato e decretiamo:
 
-proposizione del Ministro della Marina, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' aumentato di dieci il numero dei Guardiani alle porte degli Stabilimenti marittimi nel Dipartimento meridionale, e rimangono per conseguenza pure accresciuti di egual numero i supplementi mensili di lire 15 accordati ai sott'ufficiali destinati a quel servizio.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dat. Torino addi' 15 dicembre 1861.   
-  
-VITTORIO EMANUELE.   
-  
-L. F. Menabrea.   
-  
+E' aumentato di dieci il numero dei Guardiani alle porte degli Stabilimenti marittimi nel Dipartimento meridionale, e rimangono per conseguenza pure accresciuti di egual numero i supplementi mensili di lire 15 accordati ai sott'ufficiali destinati a quel servizio. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dat. Torino addi' 15 dicembre 1861. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ L. F. Menabrea.

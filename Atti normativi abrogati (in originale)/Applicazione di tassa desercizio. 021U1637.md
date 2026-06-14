@@ -1,17 +1,17 @@
-REGIO DECRETO 20 ottobre 1921 n. 1637
+---
+tipo: REGIO DECRETO
+numero: 1637
+data: 1921-10-20
+titolo: "Applicazione di tassa d'esercizio. (021U1637)"
+urn: urn:nir:stato:regio.decreto:1921-10-20;1637
+codice_redazionale: 021U1637
+vigente: true
+---
 
-
-REGIO DECRETO 20 ottobre 1921 n. 1637
-=====================================
-
-Applicazione di tassa d'esercizio. (021U1637)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 30/12/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1637. Regio decreto 20 ottobre 1921, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Iseo (Brescia), di applicare dal 1° gennaio al 31 dicembre 1921 la tassa di esercizio, col limite massimo fino a L. 4000.
+1637.
+
+Regio decreto 20 ottobre 1921, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Iseo (Brescia), di applicare dal 1° gennaio al 31 dicembre 1921 la tassa di esercizio, col limite massimo fino a L. 4000.

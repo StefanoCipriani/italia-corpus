@@ -1,16 +1,14 @@
-REGIO DECRETO 28 luglio 1939 n. 1472
-
-
-REGIO DECRETO 28 luglio 1939 n. 1472
-====================================
-
-Nomina dei componenti del Consiglio generale del R.A.C.I. (039U1472)
---------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/10/1939
+---
+tipo: REGIO DECRETO
+numero: 1472
+data: 1939-07-28
+titolo: "Nomina dei componenti del Consiglio generale del R.A.C.I. (039U1472)"
+urn: urn:nir:stato:regio.decreto:1939-07-28;1472
+codice_redazionale: 039U1472
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,56 +22,50 @@ Ritenuta la necessita' di provvedere alla nomina dei componenti del Consiglio ge
 
 Visto l'art. 6 dello statuto del R.A.C.I. approvato con R. decreto 24 novembre 1934-XII, n. 2323, modificato con provvedimento del commissario straordinario ai sensi dell'art. 3 del R. decreto-legge 4 marzo 1937-XV, n. 464, e ratificato con decreto interministeriale 31 dicembre 1938-XVII, pubblicato nella Gazzetta Ufficiale del 6 aprile 1939-XVII, n. 83;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la cultura popolare; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la cultura popolare; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono nominati componenti del Consiglio generale del R.A.C.I.:   
-  
-Consigliere nazionale avv. Carlo Peverelli in rappresentanza del Ministero della cultura popolare;   
-  
-Gr. uff. dott. Bindo Bindi in rappresentanza del Ministero dell'interno;   
-  
-Gr. uff. dott. Vincenzo Rogari in rappresentanza del Ministero delle finanze;   
-  
-Gr. uff. dott. Ernesto Santoro in rappresentanza del Ministero delle corporazioni;   
-  
-Gr. uff. Giuseppe Dell'Armi in rappresentanza del Ministero dell'Africa Italiana;   
-  
-Cav. di gr. cr. dott. Antonio Crispo in rappresentanza del Ministero delle comunicazioni;   
-  
-Ten. gen. S.T.A. Mario Manera in rappresentanza del Ministero della guerra;   
-  
-Gr. uff. dott. Giuseppe Bosco in rappresentanza del Ministero dei lavori pubblici;   
-  
-Gr. uff. dott. Francesco La Farina in rappresentanza dell'Azienda autonoma statale della strada.   
-  
-Gr. uff. dott. Probo Magrini in rappresentanza dell'Ente nazionale industrie turistiche;   
-  
-Gr. uff. Claudio Brunelli in rappresentanza dell'Ente turistico ed alberghiero della Libia;   
-  
-Gr. uff. dott. Italo Bonardi in rappresentanza della Consociazione turistica, italiana;   
-  
-Gr. uff. avv. Giuseppe Acutis in rappresentanza della Confederazione fascista degli industriali (ramo automobili);   
-  
-Comm. Angelo Iacono in rappresentanza della Federazione nazionale fascista dei commercianti di oli minerali carburanti e lubrificanti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 luglio 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-ALFIERI   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla corte dei conti, addi' 6 ottobre 1939-XVII   
-  
-Atti del Governo, registro 414, foglio 50. - MANCINI   
+Sono nominati componenti del Consiglio generale del R.A.C.I.: 
+ 
+ Consigliere nazionale avv. Carlo Peverelli in rappresentanza del Ministero della cultura popolare; 
+ 
+ Gr. uff. dott. Bindo Bindi in rappresentanza del Ministero dell'interno; 
+ 
+ Gr. uff. dott. Vincenzo Rogari in rappresentanza del Ministero delle finanze; 
+ 
+ Gr. uff. dott. Ernesto Santoro in rappresentanza del Ministero delle corporazioni; 
+ 
+ Gr. uff. Giuseppe Dell'Armi in rappresentanza del Ministero dell'Africa Italiana; 
+ 
+ Cav. di gr. cr. dott. Antonio Crispo in rappresentanza del Ministero delle comunicazioni; 
+ 
+ Ten. gen. S.T.A. Mario Manera in rappresentanza del Ministero della guerra; 
+ 
+ Gr. uff. dott. Giuseppe Bosco in rappresentanza del Ministero dei lavori pubblici; 
+ 
+ Gr. uff. dott. Francesco La Farina in rappresentanza dell'Azienda autonoma statale della strada. 
+ 
+ Gr. uff. dott. Probo Magrini in rappresentanza dell'Ente nazionale industrie turistiche; 
+ 
+ Gr. uff. Claudio Brunelli in rappresentanza dell'Ente turistico ed alberghiero della Libia; 
+ 
+ Gr. uff. dott. Italo Bonardi in rappresentanza della Consociazione turistica, italiana; 
+ 
+ Gr. uff. avv. Giuseppe Acutis in rappresentanza della Confederazione fascista degli industriali (ramo automobili); 
+ 
+ Comm. Angelo Iacono in rappresentanza della Federazione nazionale fascista dei commercianti di oli minerali carburanti e lubrificanti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 luglio 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ ALFIERI 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla corte dei conti, addi' 6 ottobre 1939-XVII 
+ 
+ Atti del Governo, registro 414, foglio 50. - MANCINI

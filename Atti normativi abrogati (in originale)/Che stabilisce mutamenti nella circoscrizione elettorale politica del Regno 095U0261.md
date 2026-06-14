@@ -1,20 +1,17 @@
-REGIO DECRETO 21 aprile 1895 n. 261
+---
+tipo: REGIO DECRETO
+numero: 261
+data: 1895-04-21
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno (095U0261)"
+urn: urn:nir:stato:regio.decreto:1895-04-21;261
+codice_redazionale: 095U0261
+vigente: true
+---
 
-
-REGIO DECRETO 21 aprile 1895 n. 261
-===================================
-
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno (095U0261)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/05/1895
-
-Art. 1
-------
+## Art. 1.
 
 Colla data del 21 aprile
 
-1895. 
-  
-  
+1895.
+
 N. 261. Il Comune di Valle Agricola e' aggregato alla Sezione elettorale di Ailano, del Collegio di Piedimonte d'Alife.

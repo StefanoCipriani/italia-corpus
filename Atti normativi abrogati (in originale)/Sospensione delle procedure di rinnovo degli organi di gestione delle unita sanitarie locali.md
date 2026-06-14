@@ -1,48 +1,37 @@
-DECRETO-LEGGE 24 luglio 1990 n. 199
-
-
-DECRETO-LEGGE 24 luglio 1990 n. 199
-===================================
-
-Sospensione delle procedure di rinnovo degli organi di gestione delle unita' sanitarie locali.
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 26/7/1990.Decreto-Legge decaduto per mancata conversione.
+---
+tipo: DECRETO-LEGGE
+numero: 541
+data: 1985-10-18
+titolo: "Sospensione delle procedure di rinnovo degli organi di gestione delle unita' sanitarie locali."
+urn: urn:nir:stato:decreto.legge:1985-10-18;541
+codice_redazionale: 085U0541
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 8 giugno 1990, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-08;142), recante ordinamento delle autonomie locali, ed in particolare gli articoli 32 e 36;
+Vista la [legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833), e successive modificazioni ed integrazioni, ed in particolare l'art. 15;
 
-Ritenuta la straordinaria necessita' ed urgenza di sospendere le procedure di rinnovo degli organi di gestione delle unita' sanitarie locali, tenuto conto che e' in fase di avanzato esame da parte del Parlamento il disegno di legge per il riordinamento del Servizio sanitario nazionale;
+Ritenuta la straordinaria necessita' ed urgenza di sospendere le procedure di rinnovo degli organi di gestione delle unita' sanitarie locali nelle more dell'approvazione da parte del Parlamento del disegno di legge di modifica di detti organi;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 luglio 1990;
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 ottobre 1985;
 
 Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della sanita';
 
-E M A N A il seguente decreto-legge:
+EMANA il seguente decreto:
 
-Art. 1
-------
+## Art. 1.
 
-1. Le procedure relative alla rinnovazione dei comitati di gestione e degli altri organi che svolgono esclusivamente funzioni per le unita' sanitarie locali sono sospese fino al 31 ottobre 1990.
+Le procedure relative alla rinnovazione delle assemblee e dei comitati di gestione delle unita' sanitarie locali sono sospese per la durata di novanta giorni dalla data di entrata in vigore del presente decreto.
 
-Art. 2
-------
+## Art. 2.
 
-1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
-### Dato a Roma, addi' 24 luglio 1990
+Dato a Roma, addi' 18 ottobre 1985
 
-COSSIGA
-
-ANDREOTTI, Presidente del Consiglio dei Ministri
-
-DE LORENZO, Ministro della sanita'
-
-Visto, il Giardasigilli: VASSALLI
+COSSIGA CRAXI, Presidente del Consiglio dei Ministri DEGAN, Ministro della sanita' Visto, il Guardasigilli: MARTINAZZOLI Registrato alla Corte dei conti, addi' 19 ottobre 1985 Atti di Governo, registro n. 57, foglio n. 4

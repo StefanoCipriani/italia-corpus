@@ -1,19 +1,15 @@
-REGIO DECRETO 02 agosto 1912 n. 933
+---
+tipo: REGIO DECRETO
+numero: 933
+data: 1912-08-02
+titolo: "Approvazione di statuto. (012U0933)"
+urn: urn:nir:stato:regio.decreto:1912-08-02;933
+codice_redazionale: 012U0933
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 agosto 1912 n. 933
-===================================
-
-Approvazione di statuto. (012U0933)
------------------------------------
-
-Entrata in vigore del provvedimento: 22/09/1912
-
-Art. 1
-------
-
-  
-N. 933   
-  
-Regio Decreto 2 agosto 1912, col quale, sulla proposta del Ministro di agricoltura, industria e commercio, e' approvato lo statuto della Cassa di risparmio di Pisa.   
-  
+N. 933 
+ 
+ Regio Decreto 2 agosto 1912, col quale, sulla proposta del Ministro di agricoltura, industria e commercio, e' approvato lo statuto della Cassa di risparmio di Pisa.

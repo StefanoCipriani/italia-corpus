@@ -1,16 +1,14 @@
-REGIO DECRETO 21 febbraio 1909 n. 142
-
-
-REGIO DECRETO 21 febbraio 1909 n. 142
-=====================================
-
-Che approva per taluni Comuni le variazioni nei canoni di abbonamento ai dazi di consumo governativi. (009U0142)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/04/1909
+---
+tipo: REGIO DECRETO
+numero: 142
+data: 1909-02-21
+titolo: "Che approva per taluni Comuni le variazioni nei canoni di abbonamento ai dazi di consumo governativi. (009U0142)"
+urn: urn:nir:stato:regio.decreto:1909-02-21;142
+codice_redazionale: 009U0142
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,33 +26,18 @@ Visto l'art. 110, lettera c) del testo unico di legge sui dazi interni di consum
 
 Vista la relazione della Commissione centrale che ha determinato le variazioni da apportarsi ai canoni daziari dei suindicati Comuni per effetto delle accennate modificazioni nella circoscrizione territoriale;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono approvate le variazioni nei canoni di abbonamento ai dazi di consumo governativi pei comuni di Penango, Moncalvo, Grazzanise e Palagiano, come all'annesso elenco, visto d'ordine Nostro, dal ministro proponente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 febbraio 1909.   
-  
-VITTORIO EMANUELE.   
-  
-LACAVA.   
-  
-Visto, Il guardasigilli: ORLANDO.   
-  
-
-Elenco
-
-  
-Elenco delle modificazioni che si apportano ai canoni in abbonamento di dazi di consumo governativi, pei sotto indicati Comuni, a seguito della variazioni avvenute nella loro circoscrizione territoriale.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=009U014200100010110001&dgu=1909-03-30&art.dataPubblicazioneGazzetta=1909-03-30&art.codiceRedazionale=009U0142)
-  
+Sono approvate le variazioni nei canoni di abbonamento ai dazi di consumo governativi pei comuni di Penango, Moncalvo, Grazzanise e Palagiano, come all'annesso elenco, visto d'ordine Nostro, dal ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 21 febbraio 1909. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ LACAVA. 
+ 
+ Visto, Il guardasigilli: ORLANDO.

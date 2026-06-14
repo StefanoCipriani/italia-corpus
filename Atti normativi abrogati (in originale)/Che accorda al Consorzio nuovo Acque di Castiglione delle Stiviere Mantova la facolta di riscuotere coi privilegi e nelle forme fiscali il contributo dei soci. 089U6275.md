@@ -1,16 +1,14 @@
-REGIO DECRETO 11 luglio 1889 n. 6275
-
-
-REGIO DECRETO 11 luglio 1889 n. 6275
-====================================
-
-Che accorda al Consorzio nuovo Acque di Castiglione delle Stiviere (Mantova) la facolta' di riscuotere, coi privilegi e nelle forme fiscali, il contributo dei soci. (089U6275)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/08/1889
+---
+tipo: REGIO DECRETO
+numero: 6275
+data: 1889-07-11
+titolo: "Che accorda al Consorzio nuovo Acque di Castiglione delle Stiviere (Mantova) la facolta' di riscuotere, coi privilegi e nelle forme fiscali, il contributo dei soci. (089U6275)"
+urn: urn:nir:stato:regio.decreto:1889-07-11;6275
+codice_redazionale: 089U6275
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,20 @@ Veduto l'atto di costituzione in data 6 giugno 1870, a rogito del dott. notaio E
 
 Vedute le deliberazioni del 26 febbraio 1889 dell'assemblea generale dei soci, colle quali sono accettate le modificazioni allo statuto suggerite dal Ministero di Agricoltura, Industria e Commercio, colle note 5 settembre 1887, e 20 aprile 1889, NN. 25789 e 10283;
 
-Veduta la [legge 29 maggio 1873, N. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (Serie 2ª);
+Veduta la [legge 29 maggio 1873, N. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md) (Serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' accordata al Consorzio nuovo Acque di Castiglione delle Stiviere, provincia di Mantova, la facolta' di riscuotere, coi privilegi e nelle forme fiscali, il contributo dei soci.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Doto a Roma, addi' 11 luglio 1889.   
-  
-UMBERTO.   
-  
-L. Miceli.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+E' accordata al Consorzio nuovo Acque di Castiglione delle Stiviere, provincia di Mantova, la facolta' di riscuotere, coi privilegi e nelle forme fiscali, il contributo dei soci. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Doto a Roma, addi' 11 luglio 1889. 
+ 
+ UMBERTO. 
+ 
+ L. Miceli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

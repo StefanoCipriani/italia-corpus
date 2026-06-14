@@ -1,19 +1,15 @@
-REGIO DECRETO 11 settembre 1910 n. CCCLXXIV
+---
+tipo: REGIO DECRETO
+numero: CCCLXXIV
+data: 1910-09-11
+titolo: "Col quale si modifica lo statuto della Cassa centrale di risparmi e depositi di Firenze. (1000374R)"
+urn: urn:nir:stato:regio.decreto:1910-09-11;374
+codice_redazionale: 1000374R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 settembre 1910 n. CCCLXXIV
-===========================================
-
-Col quale si modifica lo statuto della Cassa centrale di risparmi e depositi di Firenze. (1000374R)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/11/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. CCCLXXIV (Dato a Racconigi, l'11 settembre 1910), col quale si modifica lo statuto organico della Cassa centrale di risparmi e depositi di Firenze.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. CCCLXXIV (Dato a Racconigi, l'11 settembre 1910), col quale si modifica lo statuto organico della Cassa centrale di risparmi e depositi di Firenze.

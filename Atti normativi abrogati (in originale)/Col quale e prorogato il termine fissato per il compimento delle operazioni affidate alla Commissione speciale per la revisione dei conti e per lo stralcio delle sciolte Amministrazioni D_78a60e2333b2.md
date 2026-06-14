@@ -1,16 +1,14 @@
-REGIO DECRETO 01 febbraio 1865 n. 2147
-
-
-REGIO DECRETO 01 febbraio 1865 n. 2147
-======================================
-
-Col quale e' prorogato il termine fissato per il compimento delle operazioni affidate alla Commissione speciale per la revisione dei conti e per lo stralcio delle sciolte Amministrazioni Diocesane nelle Provincie Napoletane. (065U2147)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/03/1865
+---
+tipo: REGIO DECRETO
+numero: 2147
+data: 1865-02-01
+titolo: "Col quale e' prorogato il termine fissato per il compimento delle operazioni affidate alla Commissione speciale per la revisione dei conti e per lo stralcio delle sciolte Amministrazioni Diocesane nelle Provincie Napoletane. (065U2147)"
+urn: urn:nir:stato:regio.decreto:1865-02-01;2147
+codice_redazionale: 065U2147
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,37 +20,28 @@ Visto il Nostro Decreto in data del 14 gennaio 1864, N.° 1640, con cui il termi
 
 Considerato che la detta Commissione non pote' per difficolta' imprevedute adempiere al suo compito entro il termine prorogato, a cagione singolarmente di procedimenti giudiziarii che dovette iniziare per sostenere le ragioni e gli interessi delle disciolte Amministrazioni Diocesane;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti, di concerto col Nostro Ministro Segretario di Stato per le Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti, di concerto col Nostro Ministro Segretario di Stato per le Finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Viene prorogato a tutto il giugno del 1866 il termine assegnato alla Commissione speciale per la revisione dei conti e per lo stralcio delle sciolte Amministrazioni Diocesane nelle Provincie Napoletane entro cui dovra' compiere tale operazione.
 
-  
-  
-Viene prorogato a tutto il giugno del 1866 il termine assegnato alla Commissione speciale per la revisione dei conti e per lo stralcio delle sciolte Amministrazioni Diocesane nelle Provincie Napoletane entro cui dovra' compiere tale operazione.   
-  
-
-Art. 2
-------
+## Art. 2.
 
 Rimangono ferme tutte le altre disposizioni del succitato Nostro Decreto in data del 5 febbraio 1863, N.°
 
-1154. 
-  
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 1.° febbraio 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 13 febbraio 1865   
-  
-Reg.° 32 Atti del Governo a c. 116. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-G. Vacca.
+1154.
+
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 1.° febbraio 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 13 febbraio 1865 
+ 
+ Reg.° 32 Atti del Governo a c. 116. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ G. Vacca.

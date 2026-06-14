@@ -1,16 +1,14 @@
-REGIO DECRETO 13 marzo 1904 n. 124
-
-
-REGIO DECRETO 13 marzo 1904 n. 124
-==================================
-
-Edizione a cura e spese dello Stato delle opere di G. Mazzini. (004U0124)
--------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/04/1904
+---
+tipo: REGIO DECRETO
+numero: 124
+data: 1904-03-13
+titolo: "Edizione a cura e spese dello Stato delle opere di G. Mazzini. (004U0124)"
+urn: urn:nir:stato:regio.decreto:1904-03-13;124
+codice_redazionale: 004U0124
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,41 +20,26 @@ Considerando che con memorabile esempio di concordia, Governo ed ordini rapprese
 
 Considerando che non meno durevole ne' meno doveroso omaggio alla memoria di lui sia il raccoglierne in un'edizione nazionale tutti gli scritti;
 
-Sulla
------
+Sulla proposta del Nostro Ministro, Segretario di Stato per l'Istruzione Pubblica; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro, Segretario di Stato per l'Istruzione Pubblica; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sara' fatta a cura e spese dello Stato una edizione completa delle opere di Giuseppe Mazzini.
 
-  
-  
-Sara' fatta a cura e spese dello Stato una edizione completa delle opere di Giuseppe Mazzini.   
-  
+## Art. 2.
 
-Art. 2
-------
+A cominciare dall'anno finanziario 1904-905 e pel compimento della edizione predetta sara' vincolata per le spese occorrenti la somma di lire settemilacinquecento, sul capitolo del bilancio del Ministero della Pubblica Istruzione per incoraggiamento a pubblicazioni di opere scientifiche e letterarie, da erogarsi con le forme prescritte dal vigente regolamento di contabilita' generale dello Stato.
 
-  
-  
-A cominciare dall'anno finanziario 1904-905 e pel compimento della edizione predetta sara' vincolata per le spese occorrenti la somma di lire settemilacinquecento, sul capitolo del bilancio del Ministero della Pubblica Istruzione per incoraggiamento a pubblicazioni di opere scientifiche e letterarie, da erogarsi con le forme prescritte dal vigente regolamento di contabilita' generale dello Stato.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Una Commissione nominata per decreto Reale avra' la direzione dell'edizione predetta.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 marzo 1904.   
-  
-VITTORIO EMANUELE.   
-  
-Orlando.   
-  
-Visto, Il Guardasigilli: Ronchetti.   
-  
+Una Commissione nominata per decreto Reale avra' la direzione dell'edizione predetta. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 marzo 1904. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Orlando. 
+ 
+ Visto, Il Guardasigilli: Ronchetti.

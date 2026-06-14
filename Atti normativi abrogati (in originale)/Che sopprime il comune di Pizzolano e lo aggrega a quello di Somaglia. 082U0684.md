@@ -1,16 +1,14 @@
-REGIO DECRETO 16 febbraio 1882 n. 684
-
-
-REGIO DECRETO 16 febbraio 1882 n. 684
-=====================================
-
-Che sopprime il comune di Pizzolano e lo aggrega a quello di Somaglia. (082U0684)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/05/1882
+---
+tipo: REGIO DECRETO
+numero: 684
+data: 1882-02-16
+titolo: "Che sopprime il comune di Pizzolano e lo aggrega a quello di Somaglia. (082U0684)"
+urn: urn:nir:stato:regio.decreto:1882-02-16;684
+codice_redazionale: 082U0684
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,33 +22,24 @@ Vedute le deliberazioni del Consiglio provinciale di Milano in data 29 aprile e 
 
 Veduti gli articoli 13 e 14 della legge comunale e provinciale in data 20 marzo 1865, allegato 4;
 
-Veduto l'[articolo 2 della legge 18 agosto 1870, n. 5815](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-18;5815~art2);
+Veduto l'[articolo 2 della legge 18 agosto 1870, n. 5815](Con%20la%20quale%20sono%20mantenute%20le%20facolta%20accordate%20al%20Governo%20circa%20lunione%20di%20piu%20Comuni%20o%20la%20disgregazione%20delle%20loro%20frazioni.%20070U5815.md);
 
-Veduta
-------
+Veduta la legge 30 giugno 1880, n. 5516, Abbiamo decretato e decretiamo:
 
-la legge 30 giugno 1880, n. 5516, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A cominciare dal 1° luglio 1882 il comune di Pizzolano e' soppresso e unito a quello di Somaglia nella provincia di Milano.
 
-  
-  
-A cominciare dal 1° luglio 1882 il comune di Pizzolano e' soppresso e unito a quello di Somaglia nella provincia di Milano.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Fino alla costituzione del nuovo Consiglio comunale di Somaglia, a cui si procedera' non piu' tardi del mese di giugno prossimo venturo, in base alle liste elettorali, debitamente riformate, giusta le prescrizioni della legge, le attuali rappresentanze dei due comuni continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione del futuro Consiglio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 febbraio 1882.   
-  
-UMBERTO.   
-  
-DEPRETIS.   
-  
-Visto, il Guardasigilli: G. ZANARDELLI.   
+Fino alla costituzione del nuovo Consiglio comunale di Somaglia, a cui si procedera' non piu' tardi del mese di giugno prossimo venturo, in base alle liste elettorali, debitamente riformate, giusta le prescrizioni della legge, le attuali rappresentanze dei due comuni continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione del futuro Consiglio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 febbraio 1882. 
+ 
+ UMBERTO. 
+ 
+ DEPRETIS. 
+ 
+ Visto, il Guardasigilli: G. ZANARDELLI.

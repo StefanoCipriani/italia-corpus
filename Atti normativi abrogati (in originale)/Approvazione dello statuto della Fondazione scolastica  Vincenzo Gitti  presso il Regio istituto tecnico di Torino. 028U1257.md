@@ -1,21 +1,21 @@
-REGIO DECRETO 04 maggio 1928 n. 1257
+---
+tipo: REGIO DECRETO
+numero: 1257
+data: 1928-05-04
+titolo: "Approvazione dello statuto della Fondazione scolastica « Vincenzo Gitti » presso il Regio istituto tecnico di Torino. (028U1257)"
+urn: urn:nir:stato:regio.decreto:1928-05-04;1257
+codice_redazionale: 028U1257
+vigente: true
+---
 
-
-REGIO DECRETO 04 maggio 1928 n. 1257
-====================================
-
-Approvazione dello statuto della Fondazione scolastica « Vincenzo Gitti » presso il Regio istituto tecnico di Torino. (028U1257)
---------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/07/1928
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1257. R. decreto 4 maggio 1928, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto della Fondazione scolastica « Vincenzo Gitti » presso il Regio istituto tecnico di Torino.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 14 giugno 1928 - Anno VI
+1257.
+
+R. decreto 4 maggio 1928, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto della Fondazione scolastica « Vincenzo Gitti » presso il Regio istituto tecnico di Torino. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 14 giugno 1928 - Anno VI

@@ -1,55 +1,51 @@
-REGIO DECRETO 26 febbraio 1928 n. 279
+---
+tipo: REGIO DECRETO
+numero: 279
+data: 1928-02-26
+titolo: "Maggiori assegnazioni nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1927-28, per restituzione e rimborsi di tasse ed imposte. (028U0279)"
+urn: urn:nir:stato:regio.decreto:1928-02-26;279
+codice_redazionale: 028U0279
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 febbraio 1928 n. 279
-=====================================
-
-Maggiori assegnazioni nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1927-28, per restituzione e rimborsi di tasse ed imposte. (028U0279)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/03/1928
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
-  
-RE D'ITALIA   
-  
-Vista la [legge 16 giugno 1927, n. 943](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-16;943);   
-  
-Visto l'[art. 41, primo comma, del R. decreto 18 novembre 1923, n. 2440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440~art41-com1), sulla contabilita' generale dello Stato;   
-  
-Udito il Consiglio dei Ministri;   
-  
-Sulla proposta del Nostro Ministro Segretario di Stato per le finanze;   
-  
-Abbiamo decretato e decretiamo:   
-  
-Lo stanziamento dei seguenti capitoli dello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1927-28, e' aumentato della somma per ognuno di essi indicata:   
-  
-Cap. n. 139 - Restituzioni e rimborsi   
-(Tasse) . . . . . . . . . . . . . . . . . . . L. 8,000,000   
-  
-Cap. n. 183 - Restituzioni e rimborsi   
-(Imposte dirette). . . . . . . . . . . . . . . » 30,000,000   
-  
-Il presente decreto andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 26 febbraio 1928 - Anno VI   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Volpi.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 1° marzo 1928 - Anno VI.   
-  
-Atti del Governo, registro 270, foglio 11. - Sirovich.   
-  
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Vista la [legge 16 giugno 1927, n. 943](Stato%20di%20previsione%20della%20spesa%20del%20Ministero%20delle%20finanze%20e%20stato%20di%20previsione%20dellentrata%20per%20lesercizio%20finanziario%20dal%201%20luglio%201927%20al%2030%20giugno%201928.%20027U0943.md); 
+ 
+ Visto l'[art. 41, primo comma, del R. decreto 18 novembre 1923, n. 2440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440#art_41-com1), sulla contabilita' generale dello Stato; 
+ 
+ Udito il Consiglio dei Ministri; 
+ 
+ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ Lo stanziamento dei seguenti capitoli dello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1927-28, e' aumentato della somma per ognuno di essi indicata: 
+ 
+ Cap. n. 139 - Restituzioni e rimborsi 
+ (Tasse) . . . . . . . . . . . . . . . . . . . L. 8,000,000 
+ 
+ Cap. n. 183 - Restituzioni e rimborsi 
+ (Imposte dirette). . . . . . . . . . . . . . . » 30,000,000 
+ 
+ Il presente decreto andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 febbraio 1928 - Anno VI 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Volpi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 1° marzo 1928 - Anno VI. 
+ 
+ Atti del Governo, registro 270, foglio 11. - Sirovich.

@@ -1,32 +1,27 @@
-REGIO DECRETO 02 ottobre 1879 n. MMCCCXXXV
+---
+tipo: REGIO DECRETO
+numero: MMCCCXXXV
+data: 1879-10-02
+titolo: "Che autorizza il comune di Corteolona (Pavia) a portare al 30 settembre 1879 la esazione della prima rata della tassa di famiglia o fuocatico. (7902335R)"
+urn: urn:nir:stato:regio.decreto:1879-10-02;2335
+codice_redazionale: 7902335R
+vigente: true
+---
 
+## Articolo unico.
 
-REGIO DECRETO 02 ottobre 1879 n. MMCCCXXXV
-==========================================
-
-Che autorizza il comune di Corteolona (Pavia) a portare al 30 settembre 1879 la esazione della prima rata della tassa di famiglia o fuocatico. (7902335R)
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/11/1879
-
-Articolo unico
---------------
-
-  
-  
-E' approvata la deliberazione del 7 agosto 1879 della deputazione provinciale di Pavia, che autorizza il comune di Corteolona a portare al 30 settembre 1879 la esazione della prima rata della tassa di famiglia o fuocatico per l'anno corrente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza addi' 2 ottobre 1879.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 10 ottobre 1879   
-  
-Reg. 103 Atti del Governo a f. 139. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vare'.   
-  
-B. Grimaldi.   
-  
+E' approvata la deliberazione del 7 agosto 1879 della deputazione provinciale di Pavia, che autorizza il comune di Corteolona a portare al 30 settembre 1879 la esazione della prima rata della tassa di famiglia o fuocatico per l'anno corrente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza addi' 2 ottobre 1879. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 10 ottobre 1879 
+ 
+ Reg. 103 Atti del Governo a f. 139. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vare'. 
+ 
+ B. Grimaldi.

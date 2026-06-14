@@ -1,16 +1,14 @@
-REGIO DECRETO 14 maggio 1914 n. 497
-
-
-REGIO DECRETO 14 maggio 1914 n. 497
-===================================
-
-Col quale la Societa' anonima dei tramways di Torino e' autorizzata a trasformare e ad esercitare a trazione elettrica il tratto Barriera di Piacenza-Trofarello della tramvia Torino-Poirino (014U0497)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/06/1914
+---
+tipo: REGIO DECRETO
+numero: 497
+data: 1914-05-14
+titolo: "Col quale la Societa' anonima dei tramways di Torino e' autorizzata a trasformare e ad esercitare a trazione elettrica il tratto Barriera di Piacenza-Trofarello della tramvia Torino-Poirino (014U0497)"
+urn: urn:nir:stato:regio.decreto:1914-05-14;497
+codice_redazionale: 014U0497
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,20 @@ Ritenuto che, ai sensi dell'art. 272 del testo unico citato, deve essere determi
 
 Sentito il Consiglio superiore dei lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Societa' anonima dei tramways di Torino e' autorizzata a trasformare e ad esercitare a trazione elettrica il tratto Barriera di Piacenza-Trofarello della tramvia Torino-Poirino, in base al progetto allegato alla domanda 23 luglio 1903 della Societa' predetta, con le osservazioni ed avvertenze contenute nel [parere 24 novembre 1903, n.798, del Consiglio superiore dei lavori pubblici](http://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.superiore.lavori.pubblici:parere:1903-11-24;798).   
-  
-Per l'esercizio della predetta linea tramviaria dovranno osservarsi, oltre le disposizioni delle leggi e regolamenti sopra citati, e le premesse relative alla tassa di sorveglianza, anche le condizioni contenute nel disciplinare 27 aprile 1914, sottoscritto in segno di accettazione dal legale rappresentante della Societa', nonche' le disposizioni da prescriversi all'atto della visita di collaudo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 maggio 1914.   
-  
-VITTORIO EMANUELE.   
-  
-Ciuffelli.   
-  
-Visto, Il guardasigilli: Dari.   
-  
+La Societa' anonima dei tramways di Torino e' autorizzata a trasformare e ad esercitare a trazione elettrica il tratto Barriera di Piacenza-Trofarello della tramvia Torino-Poirino, in base al progetto allegato alla domanda 23 luglio 1903 della Societa' predetta, con le osservazioni ed avvertenze contenute nel [parere 24 novembre 1903, n.798, del Consiglio superiore dei lavori pubblici](https://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.superiore.lavori.pubblici:parere:1903-11-24;798). 
+ 
+ Per l'esercizio della predetta linea tramviaria dovranno osservarsi, oltre le disposizioni delle leggi e regolamenti sopra citati, e le premesse relative alla tassa di sorveglianza, anche le condizioni contenute nel disciplinare 27 aprile 1914, sottoscritto in segno di accettazione dal legale rappresentante della Societa', nonche' le disposizioni da prescriversi all'atto della visita di collaudo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 maggio 1914. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Ciuffelli. 
+ 
+ Visto, Il guardasigilli: Dari.

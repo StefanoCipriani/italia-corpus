@@ -1,16 +1,14 @@
-REGIO DECRETO 06 marzo 1864 n. 1706
-
-
-REGIO DECRETO 06 marzo 1864 n. 1706
-===================================
-
-Aumenta il numero dei componenti la Camera di disciplina degli Avvocati in Catania. (064U1706)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/03/1864
+---
+tipo: REGIO DECRETO
+numero: 1706
+data: 1864-03-06
+titolo: "Aumenta il numero dei componenti la Camera di disciplina degli Avvocati in Catania. (064U1706)"
+urn: urn:nir:stato:regio.decreto:1864-03-06;1706
+codice_redazionale: 064U1706
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,28 +20,20 @@ Visto il Decreto del Governo delle Due Sicilie relativo alla istituzione della C
 
 Visti gli articoli 2 e 15 del succitato Decreto 2 dicembre 1841;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Camera di disciplina degli Avvocati di Catania e' accresciuta di tre componenti, e constera' quindi di dodici Membri.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino il 6 marzo 1864.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 12 marzo 1864   
-Reg.° 28 Atti del Governo a c. 128. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI.   
-  
-G. PISANELLI.   
-  
-  
+La Camera di disciplina degli Avvocati di Catania e' accresciuta di tre componenti, e constera' quindi di dodici Membri. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino il 6 marzo 1864. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 12 marzo 1864 
+ Reg.° 28 Atti del Governo a c. 128. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI. 
+ 
+ G. PISANELLI.

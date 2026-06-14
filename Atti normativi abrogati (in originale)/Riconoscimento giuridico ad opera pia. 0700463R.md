@@ -1,19 +1,15 @@
-REGIO DECRETO 27 ottobre 1907 n. CCCCLXIII
+---
+tipo: REGIO DECRETO
+numero: CCCCLXIII
+data: 1907-10-27
+titolo: "Riconoscimento giuridico ad opera pia. (0700463R)"
+urn: urn:nir:stato:regio.decreto:1907-10-27;463
+codice_redazionale: 0700463R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 ottobre 1907 n. CCCCLXIII
-==========================================
-
-Riconoscimento giuridico ad opera pia. (0700463R)
--------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/12/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CCCCLXIII (Dato a Roma, il 27 ottobre 1907), col quale si accorda il giuridico riconoscimento all'Opera Pia Maccarrone-Marchetti in Acireale.   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CCCCLXIII (Dato a Roma, il 27 ottobre 1907), col quale si accorda il giuridico riconoscimento all'Opera Pia Maccarrone-Marchetti in Acireale.

@@ -1,16 +1,14 @@
-REGIO DECRETO 29 ottobre 1878 n. 4577
-
-
-REGIO DECRETO 29 ottobre 1878 n. 4577
-=====================================
-
-Che all'elenco delle strade provinciali della provincia di Siracusa aggiunge il tronco stradale che dal Colle Girgentano sulla provinciale da Noto al Dorillo per Ragusa Inferiore e Superiore si allaccia alla provinciale medesima. (078U4577)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/12/1878
+---
+tipo: REGIO DECRETO
+numero: 4577
+data: 1878-10-29
+titolo: "Che all'elenco delle strade provinciali della provincia di Siracusa aggiunge il tronco stradale che dal Colle Girgentano sulla provinciale da Noto al Dorillo per Ragusa Inferiore e Superiore si allaccia alla provinciale medesima. (078U4577)"
+urn: urn:nir:stato:regio.decreto:1878-10-29;4577
+codice_redazionale: 078U4577
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,29 +18,22 @@ Veduta la deliberazione 2 settembre 1877, colla quale il Consiglio provinciale d
 
 Veduto il R. decreto 26 maggio 1870, riguardante la classificazione delle strade provinciali della provincia di Siracusa;
 
-Veduti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della legge 20 marzo 1865, numero 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato F;
+Veduti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [14 della legge 20 marzo 1865, numero 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), allegato F;
 
 Considerando che nel tronco stradale in parola concorrono gli estremi previsti dall'art. 13 (D) della legge sopracitata, e che contro la preindicata deliberazione non vennero sollevate opposizioni;
 
 Udito l'avviso del Consiglio Superiore dei lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' aggiunto all'elenco delle strade provinciali della provincia di Siracusa il tronco stradale, che dal Colle Girgentano, sulla provinciale da Noto al Dorillo, per Ragusa Inferiore e Ragusa Superiore, si allaccia alla provinciale medesima.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 29 ottobre 1878.   
-  
-UMBERTO.   
-  
-A. Baccarini.   
-  
+E' aggiunto all'elenco delle strade provinciali della provincia di Siracusa il tronco stradale, che dal Colle Girgentano, sulla provinciale da Noto al Dorillo, per Ragusa Inferiore e Ragusa Superiore, si allaccia alla provinciale medesima. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 29 ottobre 1878. 
+ 
+ UMBERTO. 
+ 
+ A. Baccarini.

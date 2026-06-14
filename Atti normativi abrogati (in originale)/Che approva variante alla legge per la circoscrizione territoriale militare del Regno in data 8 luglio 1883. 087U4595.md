@@ -1,28 +1,23 @@
-LEGGE 23 giugno 1887 n. 4595
+---
+tipo: LEGGE
+numero: 4595
+data: 1887-06-23
+titolo: "Che approva variante alla legge per la circoscrizione territoriale militare del Regno in data 8 luglio 1883. (087U4595)"
+urn: urn:nir:stato:legge:1887-06-23;4595
+codice_redazionale: 087U4595
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 23 giugno 1887 n. 4595
-============================
-
-Che approva variante alla legge per la circoscrizione territoriale militare del Regno in data 8 luglio 1883. (087U4595)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/07/1887
-
-Art. 1
-------
-
-  
-  
-6 comandi territoriali d'artiglieria».   
-  
-Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Roma, addi' 23 giugno 1887.   
-  
-UMBERTO.   
-  
-E. Bertole-Viale.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+6 comandi territoriali d'artiglieria». 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Roma, addi' 23 giugno 1887. 
+ 
+ UMBERTO. 
+ 
+ E. Bertole-Viale. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

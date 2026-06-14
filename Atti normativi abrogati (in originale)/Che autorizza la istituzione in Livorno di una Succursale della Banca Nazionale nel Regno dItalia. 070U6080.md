@@ -1,16 +1,14 @@
-REGIO DECRETO 25 novembre 1870 n. 6080
-
-
-REGIO DECRETO 25 novembre 1870 n. 6080
-======================================
-
-Che autorizza la istituzione in Livorno di una Succursale della Banca Nazionale nel Regno d'Italia. (070U6080)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/01/1871
+---
+tipo: REGIO DECRETO
+numero: 6080
+data: 1870-11-25
+titolo: "Che autorizza la istituzione in Livorno di una Succursale della Banca Nazionale nel Regno d'Italia. (070U6080)"
+urn: urn:nir:stato:regio.decreto:1870-11-25;6080
+codice_redazionale: 070U6080
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Veduta la deliberazione dell'assemblea generale degli azionisti della suddetta B
 
 Veduta la deliberazione del Consiglio superiore della Banca stessa, presa in adunanza del 4 marzo 1870;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' autorizzata la instituzione nella citta' di Livorno di una Succursale della Banca Nazionale nel Regno d'Italia.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 25 novembre 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 1° dicembre 1870   
-  
-Reg. 53 Atti del Governo a c. 98. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-Quintino Sella.   
-  
+E' autorizzata la instituzione nella citta' di Livorno di una Succursale della Banca Nazionale nel Regno d'Italia. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 25 novembre 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 1° dicembre 1870 
+ 
+ Reg. 53 Atti del Governo a c. 98. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ Quintino Sella.

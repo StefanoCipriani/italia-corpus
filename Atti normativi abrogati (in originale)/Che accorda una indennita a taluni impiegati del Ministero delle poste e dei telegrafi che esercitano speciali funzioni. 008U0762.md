@@ -1,22 +1,20 @@
-REGIO DECRETO 02 luglio 1908 n. 762
-
-
-REGIO DECRETO 02 luglio 1908 n. 762
-===================================
-
-Che accorda una indennita' a taluni impiegati del Ministero delle poste e dei telegrafi che esercitano speciali funzioni. (008U0762)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/01/1909
+---
+tipo: REGIO DECRETO
+numero: 762
+data: 1908-07-02
+titolo: "Che accorda una indennita' a taluni impiegati del Ministero delle poste e dei telegrafi che esercitano speciali funzioni. (008U0762)"
+urn: urn:nir:stato:regio.decreto:1908-07-02;762
+codice_redazionale: 008U0762
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 15 luglio 1907, n. 506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-15;506), sul riscatto e l'esercizio di Stato dei telefoni;
+Vista la [legge 15 luglio 1907, n. 506](Riscatto%20di%20linee%20e%20reti%20telefoniche%20esercitate%20dallindustria%20privata%20e%20ordinamento%20dellazienda%20dei%20telefoni%20dello%20Stato.%20007U0506.md), sul riscatto e l'esercizio di Stato dei telefoni;
 
 Visti gli articoli 107 e 108 del regolamento organico dell'Amministrazione delle poste e dei telegrafi, approvato con Nostro decreto, n. 546, del 14 ottobre 1906, con i quali vengono fissati speciali indennita' per i dirigenti dei centralini telefonici interurbani con piu' di cinque linee e per gli impiegati che prestano servizio di interprete;
 
@@ -32,30 +30,23 @@ Su proposta del Nostro ministro segretario di Stato per le poste e telegrafi;
 
 Sentito il parere del Consiglio di Stato;
 
-Sentito
--------
+Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Con effetto dal 1° luglio 1907 agli impiegati che esercitano le funzioni appresso indicate sono accordate le seguenti indennita':   
-  
-a) indennita' da L. 15 a L. 25 mensili agli impiegati adibiti alle funzioni di dirigenti i centralini telefonici, con almeno cinque circuiti o a chi temporaneamente li sostituisce per oltre tre giorni;   
-  
-b) indennita' di L. 20 mensili per ogni lingua fino al numero di due agli impiegati che avevano gia' conseguita la nomina di interprete ai sensi dell'art. 66 del regolamento organico sopra citato, n. 546, del 14 ottobre 1906, o a coloro che esercitano le funzioni di interprete di lingue estere esclusa la francese.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 luglio 1908.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti.   
-Schanzer.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+Con effetto dal 1° luglio 1907 agli impiegati che esercitano le funzioni appresso indicate sono accordate le seguenti indennita': 
+ 
+ a) indennita' da L. 15 a L. 25 mensili agli impiegati adibiti alle funzioni di dirigenti i centralini telefonici, con almeno cinque circuiti o a chi temporaneamente li sostituisce per oltre tre giorni; 
+ 
+ b) indennita' di L. 20 mensili per ogni lingua fino al numero di due agli impiegati che avevano gia' conseguita la nomina di interprete ai sensi dell'art. 66 del regolamento organico sopra citato, n. 546, del 14 ottobre 1906, o a coloro che esercitano le funzioni di interprete di lingue estere esclusa la francese. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 luglio 1908. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti. 
+ Schanzer. 
+ 
+ Visto, Il guardasigilli: Orlando.

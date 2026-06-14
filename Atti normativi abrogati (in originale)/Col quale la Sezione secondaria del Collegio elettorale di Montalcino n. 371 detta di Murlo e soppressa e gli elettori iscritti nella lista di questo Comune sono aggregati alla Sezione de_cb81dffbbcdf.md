@@ -1,16 +1,14 @@
-REGIO DECRETO 22 ottobre 1874 n. 2173
-
-
-REGIO DECRETO 22 ottobre 1874 n. 2173
-=====================================
-
-Col quale la Sezione secondaria del Collegio elettorale di Montalcino, n. 371, detta di Murlo, e' soppressa e gli elettori iscritti nella lista di questo Comune sono aggregati alla Sezione del Collegio stesso, detta di Buonconvento. (074U2173)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/11/1874
+---
+tipo: REGIO DECRETO
+numero: 2173
+data: 1874-10-22
+titolo: "Col quale la Sezione secondaria del Collegio elettorale di Montalcino, n. 371, detta di Murlo, e' soppressa e gli elettori iscritti nella lista di questo Comune sono aggregati alla Sezione del Collegio stesso, detta di Buonconvento. (074U2173)"
+urn: urn:nir:stato:regio.decreto:1874-10-22;2173
+codice_redazionale: 074U2173
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,24 +20,16 @@ Considerando che nella lista del comune di Murlo, sezione del Collegio elettoral
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La sezione secondaria dei Collegio elettorale di Montalcino n. 371, detta di Murlo, e' soppressa, gli elettori iscritti nella lista di questo comune sono aggregati alla sezione del Collegio stesso detta di Buonconvento.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 22 ottobre 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
-  
+La sezione secondaria dei Collegio elettorale di Montalcino n. 371, detta di Murlo, e' soppressa, gli elettori iscritti nella lista di questo comune sono aggregati alla sezione del Collegio stesso detta di Buonconvento. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 22 ottobre 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

@@ -1,17 +1,17 @@
-REGIO DECRETO 29 settembre 1922 n. 1452
+---
+tipo: REGIO DECRETO
+numero: 1452
+data: 1922-09-29
+titolo: "Riordinamento di scuola e ai Regi istituti di legato. (022U1452)"
+urn: urn:nir:stato:regio.decreto:1922-09-29;1452
+codice_redazionale: 022U1452
+vigente: true
+---
 
-
-REGIO DECRETO 29 settembre 1922 n. 1452
-=======================================
-
-Riordinamento di scuola e ai Regi istituti di legato. (022U1452)
-----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/12/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1452. Regio decreto 29 settembre 1922, col quale, su proposta del ministro d'industria e commercio, si provvede per il riordinamento, del R. Istituto «Lorenzo Cobianchi» per industrie chimiche ed elettromeccaniche in Intra.
+1452.
+
+Regio decreto 29 settembre 1922, col quale, su proposta del ministro d'industria e commercio, si provvede per il riordinamento, del R. Istituto «Lorenzo Cobianchi» per industrie chimiche ed elettromeccaniche in Intra.

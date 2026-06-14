@@ -1,16 +1,14 @@
-REGIO DECRETO 13 novembre 1914 n. 1232
-
-
-REGIO DECRETO 13 novembre 1914 n. 1232
-======================================
-
-Col quale si vieta la rispedizione all' estero, con le forme del transito doganale o del trasbordo, delle merci cui sia vietata l'esportazione dal Regno. (014U1232)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/11/1914
+---
+tipo: REGIO DECRETO
+numero: 1232
+data: 1914-11-13
+titolo: "Col quale si vieta la rispedizione all' estero, con le forme del transito doganale o del trasbordo, delle merci cui sia vietata l'esportazione dal Regno. (014U1232)"
+urn: urn:nir:stato:regio.decreto:1914-11-13;1232
+codice_redazionale: 014U1232
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,35 +20,24 @@ Ritenuto che, per riguardo ai fini dei detti decreti, deve considerarsi come esp
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per le finanze, di concerto con quelli degli affari esteri e di agricoltura, industria e commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per le finanze, di concerto con quelli degli affari esteri e di agricoltura, industria e commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Le merci delle quali sia vietata l'esportazione dal Regno non possono essere rispedite all'estero con le forme del transito doganale o del trasbordo, quando siano arrivate ad un porto dello Stato con polizza che ne indichi la destinazione fissata dall'origine per l'Italia o manchi di destinazione certa. 
+ 
+ A tal fine i carichi muniti di polizza all'ordine, senza originaria destinazione nominativa all'estero, e quelli muniti di semplice polizza al portatore, sono considerati come destinati all'interno dello Stato.
 
-  
-  
-  
-Le merci delle quali sia vietata l'esportazione dal Regno non possono essere rispedite all'estero con le forme del transito doganale o del trasbordo, quando siano arrivate ad un porto dello Stato con polizza che ne indichi la destinazione fissata dall'origine per l'Italia o manchi di destinazione certa.   
-  
-A tal fine i carichi muniti di polizza all'ordine, senza originaria destinazione nominativa all'estero, e quelli muniti di semplice polizza al portatore, sono considerati come destinati all'interno dello Stato.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-  
-Il presente decreto avra' effetto dal giorno successivo a quello della sua pubblicazione nella Gazzetta ufficiale del Regno e sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 novembre 1914.   
-  
-VITTORIO EMANUELE.   
-  
-Salandra - Daneo - Sonnino - Cavasola.   
-  
-Visto, Il guardasigilli: Orlando.   
+Il presente decreto avra' effetto dal giorno successivo a quello della sua pubblicazione nella Gazzetta ufficiale del Regno e sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 novembre 1914. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Salandra - Daneo - Sonnino - Cavasola. 
+ 
+ Visto, Il guardasigilli: Orlando.

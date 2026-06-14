@@ -1,16 +1,14 @@
-REGIO DECRETO 03 luglio 1871 n. 305
-
-
-REGIO DECRETO 03 luglio 1871 n. 305
-===================================
-
-Col quale e' delegata alla Corte d'appello di Roma la nomina dei procuratori di quella Provincia. (071U0305)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/07/1871
+---
+tipo: REGIO DECRETO
+numero: 305
+data: 1871-07-03
+titolo: "Col quale e' delegata alla Corte d'appello di Roma la nomina dei procuratori di quella Provincia. (071U0305)"
+urn: urn:nir:stato:regio.decreto:1871-07-03;305
+codice_redazionale: 071U0305
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,30 +18,22 @@ Visto l'alinea dell'articolo 251 dell'Editto disciplinare 17 dicembre 1834, vige
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Fino a che non sara' provveduto con una Legge generale all'esercizio della professione di avvocato e procuratore, l'approvazione di cui all'alinea dell'articolo 251 del detto Editto disciplinare del 17 dicembre 1834, e' delegata alla Corte d'appello di Roma, che provvedero' sentito il Pubblico Ministero.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 3 luglio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 8 luglio 1871   
-  
-Reg. 56 Atti del Governo a c. 120. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. De Falco.   
-  
-  
+Fino a che non sara' provveduto con una Legge generale all'esercizio della professione di avvocato e procuratore, l'approvazione di cui all'alinea dell'articolo 251 del detto Editto disciplinare del 17 dicembre 1834, e' delegata alla Corte d'appello di Roma, che provvedero' sentito il Pubblico Ministero. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 3 luglio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 8 luglio 1871 
+ 
+ Reg. 56 Atti del Governo a c. 120. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. De Falco.

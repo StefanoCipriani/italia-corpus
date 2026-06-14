@@ -1,19 +1,15 @@
-REGIO DECRETO 11 febbraio 1912 n. 207
+---
+tipo: REGIO DECRETO
+numero: 207
+data: 1912-02-11
+titolo: "Trasformazione di Monte pegni e di Monte frumentario. (012U0207)"
+urn: urn:nir:stato:regio.decreto:1912-02-11;207
+codice_redazionale: 012U0207
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 febbraio 1912 n. 207
-=====================================
-
-Trasformazione di Monte pegni e di Monte frumentario. (012U0207)
-----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/04/1912
-
-Art. 1
-------
-
-  
-N. 207   
-  
-Regio Decreto 11 febbraio 1912, col quale, sulla proposta del ministro dell'interno, di concerto con quello di agricoltura, industria e commercio, il Monte pegni ed il Monte frumentario di Longobucco (Cosenza), sono trasformati in Cassa di prestanze agrarie e questa e' concentrata nella locale Congregazione di carita', e ne e' approvato lo statuto.   
-  
+N. 207 
+ 
+ Regio Decreto 11 febbraio 1912, col quale, sulla proposta del ministro dell'interno, di concerto con quello di agricoltura, industria e commercio, il Monte pegni ed il Monte frumentario di Longobucco (Cosenza), sono trasformati in Cassa di prestanze agrarie e questa e' concentrata nella locale Congregazione di carita', e ne e' approvato lo statuto.

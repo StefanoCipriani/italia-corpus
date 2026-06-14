@@ -1,20 +1,17 @@
-REGIO DECRETO 19 gennaio 1865 n. MDXXXII
+---
+tipo: REGIO DECRETO
+numero: MDXXXII
+data: 1865-01-19
+titolo: "Che approva il regolamento di polizia rurale della Comunita' di Marcianise, in Terra di Lavoro, del 30 maggio 1864. (6501532R)"
+urn: urn:nir:stato:regio.decreto:1865-01-19;1532
+codice_redazionale: 6501532R
+vigente: true
+---
 
-
-REGIO DECRETO 19 gennaio 1865 n. MDXXXII
-========================================
-
-Che approva il regolamento di polizia rurale della Comunita' di Marcianise, in Terra di Lavoro, del 30 maggio 1864. (6501532R)
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/01/1865
-
-Art. 1
-------
+## Art. 1.
 
 Che approva il regolamento di polizia rurale della Comunita' di Marcianise, in Terra di Lavoro, del 30 maggio
 
-1864. 
-  
-  
+1864.
+
 Torino 19 gennaio 1865

@@ -1,19 +1,15 @@
-REGIO DECRETO 08 gennaio 1911 n. 432
+---
+tipo: REGIO DECRETO
+numero: 432
+data: 1911-01-08
+titolo: "Trasformazione di Monte pegni in Cassa di prestanze agraria (011U0432)"
+urn: urn:nir:stato:regio.decreto:1911-01-08;432
+codice_redazionale: 011U0432
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 gennaio 1911 n. 432
-====================================
-
-Trasformazione di Monte pegni in Cassa di prestanze agraria (011U0432)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/06/1911
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. 432. R. decreto 8 gennaio 1911, col quale il Monte pegni e Cassa di prestanze agrarie di Fallascoso e' parzialmente trasformato ed e' approvato il relativo statuto organico.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. 432. R. decreto 8 gennaio 1911, col quale il Monte pegni e Cassa di prestanze agrarie di Fallascoso e' parzialmente trasformato ed e' approvato il relativo statuto organico.

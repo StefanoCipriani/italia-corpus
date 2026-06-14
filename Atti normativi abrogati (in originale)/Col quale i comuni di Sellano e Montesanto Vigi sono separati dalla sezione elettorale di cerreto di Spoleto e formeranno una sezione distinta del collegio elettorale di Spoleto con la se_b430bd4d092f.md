@@ -1,16 +1,14 @@
-REGIO DECRETO 14 aprile 1878 n. 4347
-
-
-REGIO DECRETO 14 aprile 1878 n. 4347
-====================================
-
-Col quale i comuni di Sellano e Montesanto Vigi sono separati dalla sezione elettorale di cerreto di Spoleto e formeranno una sezione distinta del collegio elettorale di Spoleto con la sede a Sellano. (078U4347)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/05/1878
+---
+tipo: REGIO DECRETO
+numero: 4347
+data: 1878-04-14
+titolo: "Col quale i comuni di Sellano e Montesanto Vigi sono separati dalla sezione elettorale di cerreto di Spoleto e formeranno una sezione distinta del collegio elettorale di Spoleto con la sede a Sellano. (078U4347)"
+urn: urn:nir:stato:regio.decreto:1878-04-14;4347
+codice_redazionale: 078U4347
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Sellano e Montesanto Vigi sono separati dalla sezione elettorale di Cerreto di Spoleto, e formeranno una sezione distinta del Collegio elettorale di Spoleto, con la sede a Sellano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 aprile 1878.   
-  
-UMBERTO.   
-  
-G. Zanardelli.   
-  
+I comuni di Sellano e Montesanto Vigi sono separati dalla sezione elettorale di Cerreto di Spoleto, e formeranno una sezione distinta del Collegio elettorale di Spoleto, con la sede a Sellano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 aprile 1878. 
+ 
+ UMBERTO. 
+ 
+ G. Zanardelli.

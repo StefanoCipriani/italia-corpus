@@ -1,16 +1,14 @@
-REGIO DECRETO 23 marzo 1893 n. CLXXVI
-
-
-REGIO DECRETO 23 marzo 1893 n. CLXXVI
-=====================================
-
-Che erige in ente autonomo la cassa di risparmio del banco di Napoli e ne approva lo statuto. (9300176R)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/04/1893
+---
+tipo: REGIO DECRETO
+numero: CLXXVI
+data: 1893-03-23
+titolo: "Che erige in ente autonomo la cassa di risparmio del banco di Napoli e ne approva lo statuto. (9300176R)"
+urn: urn:nir:stato:regio.decreto:1893-03-23;176
+codice_redazionale: 9300176R
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,32 +18,26 @@ Veduta la deliberazione del consiglio generale del banco di Napoli nella adunanz
 
 Vedute le deliberazioni prese dal consiglio di amministrazione centrale del banco di Napoli nelle adunanze dei 18 febbraio e 10 marzo 1893, intorno allo stesso argomento;
 
-Veduta la [legge 15 luglio 1888, n. 5546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-07-15;5546) (serie 3ª);
+Veduta la [legge 15 luglio 1888, n. 5546](Concernente%20il%20riordinamento%20delle%20Casse%20di%20risparmio.%20088U5546.md) (serie 3ª);
 
 Sentito il consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, industria e commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per l'agricoltura, industria e commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La cassa di risparmio del banco di Napoli e' eretta in ente autonomo ed e' approvato lo statuto di essa, composto di quarantotto articoli, visto, d'ordine Nostro, dal ministro proponente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 marzo 1893.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti addi' 7 aprile 1893.   
-  
-Reg. 191. Atti del Governo a f. 24. Gaffino.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Bonacci.   
-  
-P. Lacava.   
+La cassa di risparmio del banco di Napoli e' eretta in ente autonomo ed e' approvato lo statuto di essa, composto di quarantotto articoli, visto, d'ordine Nostro, dal ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 marzo 1893. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 7 aprile 1893. 
+ 
+ Reg. 191. Atti del Governo a f. 24. Gaffino. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Bonacci. 
+ 
+ P. Lacava.

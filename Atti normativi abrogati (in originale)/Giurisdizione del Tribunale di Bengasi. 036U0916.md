@@ -1,16 +1,14 @@
-REGIO DECRETO 26 marzo 1936 n. 916
-
-
-REGIO DECRETO 26 marzo 1936 n. 916
-==================================
-
-Giurisdizione del Tribunale di Bengasi. (036U0916)
---------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/06/1936
+---
+tipo: REGIO DECRETO
+numero: 916
+data: 1936-03-26
+titolo: "Giurisdizione del Tribunale di Bengasi. (036U0916)"
+urn: urn:nir:stato:regio.decreto:1936-03-26;916
+codice_redazionale: 036U0916
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,28 +20,22 @@ Visti gli articoli 3 e 9 dell'ordinamento giudiziario per la Libia approvato con
 
 Visto il R. decreto 28 gennaio 1935-XIII, n. 101, con il quale sono stati istituiti i Commissariati generali provinciali della Libia;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per le colonie, sentito il Governatore generale della Libia; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per le colonie, sentito il Governatore generale della Libia; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Tribunale di Bengasi con sede a Bengasi ha giurisdizione sul territorio dei Commissariati provinciali di Bengasi e di Derna.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 26 marzo 1936 - Anno XIV   
-  
-VITTORIO EMANUELE   
-  
-Mussolini.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 26 maggio 1936 - Anno XIV   
-  
-Atti del Governo, registro 373, foglio 57 - Mancini.   
+Il Tribunale di Bengasi con sede a Bengasi ha giurisdizione sul territorio dei Commissariati provinciali di Bengasi e di Derna. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 marzo 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 26 maggio 1936 - Anno XIV 
+ 
+ Atti del Governo, registro 373, foglio 57 - Mancini.

@@ -1,19 +1,15 @@
-REGIO DECRETO 20 luglio 1913 n. 924
+---
+tipo: REGIO DECRETO
+numero: 924
+data: 1913-07-20
+titolo: "Istituzione di un Consolato di 2ª categoria. (013U0924)"
+urn: urn:nir:stato:regio.decreto:1913-07-20;924
+codice_redazionale: 013U0924
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 20 luglio 1913 n. 924
-===================================
-
-Istituzione di un Consolato di 2ª categoria. (013U0924)
--------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/08/1913
-
-Art. 1
-------
-
-  
-N. 924   
-  
-Regio Decreto 20 luglio 1913, col quale, sulla proposta dal ministro degli affari esteri, e' istituito un consolato di 2ª categoria in Dar-Es-Saalam, con giurisdizione sull'Africa orientale tedesca, che viene percio' distaccata dal R. consolato in Mombasa.   
-  
+N. 924 
+ 
+ Regio Decreto 20 luglio 1913, col quale, sulla proposta dal ministro degli affari esteri, e' istituito un consolato di 2ª categoria in Dar-Es-Saalam, con giurisdizione sull'Africa orientale tedesca, che viene percio' distaccata dal R. consolato in Mombasa.

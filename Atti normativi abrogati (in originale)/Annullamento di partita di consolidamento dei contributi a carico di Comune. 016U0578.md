@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 09 aprile 1916 n. 578
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 578
+data: 1916-04-09
+titolo: "Annullamento di partita di consolidamento dei contributi a carico di Comune. (016U0578)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-04-09;578
+codice_redazionale: 016U0578
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 09 aprile 1916 n. 578
-=============================================
-
-Annullamento di partita di consolidamento dei contributi a carico di Comune. (016U0578)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/06/1916
-
-Art. 1
-------
-
-null
+## Art. 1. — null

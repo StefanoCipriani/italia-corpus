@@ -1,21 +1,21 @@
-REGIO DECRETO 10 gennaio 1938 n. 32
+---
+tipo: REGIO DECRETO
+numero: 32
+data: 1938-01-10
+titolo: "Autorizzazione al Collegio di Maria, di Polizzi Generosa, ad accettare un legato. (038U0032)"
+urn: urn:nir:stato:regio.decreto:1938-01-10;32
+codice_redazionale: 038U0032
+vigente: true
+---
 
-
-REGIO DECRETO 10 gennaio 1938 n. 32
-===================================
-
-Autorizzazione al Collegio di Maria, di Polizzi Generosa, ad accettare un legato. (038U0032)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/03/1938
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-32. R. decreto 10 gennaio 1938, col quale, sulla proposta del Ministro per l'educazione nazionale, il Collegio di Maria, di Polizzi Generosa, viene autorizzato ad accettare un legato di L. 10.000 nominali, in cartelle del Littorio, disposto in favore del Collegio stesso dal sig. Colluzio Gioacchino.   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 28 gennaio 1938 - Anno XVI
+32.
+
+R. decreto 10 gennaio 1938, col quale, sulla proposta del Ministro per l'educazione nazionale, il Collegio di Maria, di Polizzi Generosa, viene autorizzato ad accettare un legato di L. 10.000 nominali, in cartelle del Littorio, disposto in favore del Collegio stesso dal sig. Colluzio Gioacchino. 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 28 gennaio 1938 - Anno XVI

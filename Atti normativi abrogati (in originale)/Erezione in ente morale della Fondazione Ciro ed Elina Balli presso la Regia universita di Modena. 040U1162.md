@@ -1,21 +1,21 @@
-REGIO DECRETO 19 giugno 1940 n. 1162
+---
+tipo: REGIO DECRETO
+numero: 1162
+data: 1940-06-19
+titolo: "Erezione in ente morale della Fondazione «Ciro ed Elina Balli» presso la Regia universita' di Modena. (040U1162)"
+urn: urn:nir:stato:regio.decreto:1940-06-19;1162
+codice_redazionale: 040U1162
+vigente: true
+---
 
-
-REGIO DECRETO 19 giugno 1940 n. 1162
-====================================
-
-Erezione in ente morale della Fondazione «Ciro ed Elina Balli» presso la Regia universita' di Modena. (040U1162)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/09/1940
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1162. R. decreto 19 giugno 1940, col quale, sulla proposta del Ministro per l'educazione nazionale, la Fondazione «Ciro ed Elina Balli», con sede presso la Regia universita' di Modena, viene eretta in ente morale e ne viene approvato lo statuto.   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 21 agosto 1940-XVIII
+1162.
+
+R. decreto 19 giugno 1940, col quale, sulla proposta del Ministro per l'educazione nazionale, la Fondazione «Ciro ed Elina Balli», con sede presso la Regia universita' di Modena, viene eretta in ente morale e ne viene approvato lo statuto. 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 21 agosto 1940-XVIII

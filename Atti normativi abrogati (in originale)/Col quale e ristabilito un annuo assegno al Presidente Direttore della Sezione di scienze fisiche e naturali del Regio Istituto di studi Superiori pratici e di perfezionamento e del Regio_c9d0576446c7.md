@@ -1,16 +1,14 @@
-REGIO DECRETO 05 novembre 1868 n. 4677
-
-
-REGIO DECRETO 05 novembre 1868 n. 4677
-======================================
-
-Col quale e' ristabilito un annuo assegno al Presidente Direttore della Sezione di scienze fisiche e naturali del Regio Istituto di studi Superiori pratici e di perfezionamento, e del Regio Museo di scienze fisiche e naturali di Firenze. (068U4677)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/12/1868
+---
+tipo: REGIO DECRETO
+numero: 4677
+data: 1868-11-05
+titolo: "Col quale e' ristabilito un annuo assegno al Presidente Direttore della Sezione di scienze fisiche e naturali del Regio Istituto di studi Superiori pratici e di perfezionamento, e del Regio Museo di scienze fisiche e naturali di Firenze. (068U4677)"
+urn: urn:nir:stato:regio.decreto:1868-11-05;4677
+codice_redazionale: 068U4677
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,36 +24,24 @@ Considerando che gia' anteriormente al precitato Decreto del 23 ottobre 1865, e 
 
 Considerando da ultimo la convenienza di ritornare ad eguale sistema per la maggiore efficacia delle attribuzioni spettanti al Presidente Direttore, e per continuare le tradizioni dello stesso Museo;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+All'ufficio di Presidente Direttore della Sezione di scienze fisiche e naturali del Regio Istituto di studi superiori pratici e di perfezionamento, e del Regio Museo di scienze fisiche e naturali di Firenze, e' fatto un assegno annuo di lire mille cinquecento.
 
-  
-  
-All'ufficio di Presidente Direttore della Sezione di scienze fisiche e naturali del Regio Istituto di studi superiori pratici e di perfezionamento, e del Regio Museo di scienze fisiche e naturali di Firenze, e' fatto un assegno annuo di lire mille cinquecento.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Cessano gli effetti del precitato [Regio Decreto del 23 ottobre 1865, n. 2583](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-10-23;2583), e sono modificate nel senso del presente Decreto le disposizioni anteriori.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 5 novembre 1868.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 13 novembre 1868   
-Reg. 44 Atti del governo a c. 43. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli DE FILIPPO.   
-  
-BROGLIO.   
-  
-  
+Cessano gli effetti del precitato [Regio Decreto del 23 ottobre 1865, n. 2583](Che%20dichiara%20onoraria%20e%20senza%20stipendio%20la%20carica%20di%20Direttore%20e%20Presidente%20della%20Sezione%20di%20scienze%20fisiche%20e%20naturali%20dellIstituto%20di%20studi%20superiori%20pratici%20e%20di%20perfezionamento%20in%20Fir_d0e3800813d4.md), e sono modificate nel senso del presente Decreto le disposizioni anteriori. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 5 novembre 1868. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 13 novembre 1868 
+ Reg. 44 Atti del governo a c. 43. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli DE FILIPPO. 
+ 
+ BROGLIO.

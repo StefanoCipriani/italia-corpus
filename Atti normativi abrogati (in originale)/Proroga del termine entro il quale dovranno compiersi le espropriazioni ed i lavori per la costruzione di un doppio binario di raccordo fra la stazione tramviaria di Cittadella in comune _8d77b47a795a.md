@@ -1,16 +1,14 @@
-REGIO DECRETO 12 maggio 1927 n. 936
-
-
-REGIO DECRETO 12 maggio 1927 n. 936
-===================================
-
-Proroga del termine entro il quale dovranno compiersi le espropriazioni ed i lavori per la costruzione di un doppio binario di raccordo fra la stazione tramviaria di Cittadella, in comune di Porto Mantovano, ed il Lago di Mezzo. (027U0936)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/07/1927
+---
+tipo: REGIO DECRETO
+numero: 936
+data: 1927-05-12
+titolo: "Proroga del termine entro il quale dovranno compiersi le espropriazioni ed i lavori per la costruzione di un doppio binario di raccordo fra la stazione tramviaria di Cittadella, in comune di Porto Mantovano, ed il Lago di Mezzo. (027U0936)"
+urn: urn:nir:stato:regio.decreto:1927-05-12;936
+codice_redazionale: 027U0936
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,24 @@ Ritenuto che, per ragioni non imputabili alla Societa' concessionaria del raccor
 
 Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramale a trazione meccanica e gli automobili, approvato con Nostro decreto 9 maggio 1912, n. 1447;
 
-Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), sulle espropriazioni per causa di pubblica, utilita';
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md), sulle espropriazioni per causa di pubblica, utilita';
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il termine entro il quale dovranno compiersi le espropriazioni e i lavori per la costruzione di un doppio binario di raccordo fra la stazione tramviaria di Cittadella, in comune di Porto Mantovano, ed il Lago di Mezzo, lavori da eseguirsi in conformita' al progetto approvato con Nostro decreto 7 febbraio 1926, n. 499, e' prorogato sino a tre mesi dopo la data di pubblicazione del presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 maggio 1927 - Anno V   
-  
-VITTORIO EMANUELE.   
-  
-Giuriati.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 18 giugno 1927 - Anno V   
-  
-Atti del Governo, registro 261, foglio 84. - Ferretti.   
+Il termine entro il quale dovranno compiersi le espropriazioni e i lavori per la costruzione di un doppio binario di raccordo fra la stazione tramviaria di Cittadella, in comune di Porto Mantovano, ed il Lago di Mezzo, lavori da eseguirsi in conformita' al progetto approvato con Nostro decreto 7 febbraio 1926, n. 499, e' prorogato sino a tre mesi dopo la data di pubblicazione del presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 maggio 1927 - Anno V 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giuriati. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 18 giugno 1927 - Anno V 
+ 
+ Atti del Governo, registro 261, foglio 84. - Ferretti.

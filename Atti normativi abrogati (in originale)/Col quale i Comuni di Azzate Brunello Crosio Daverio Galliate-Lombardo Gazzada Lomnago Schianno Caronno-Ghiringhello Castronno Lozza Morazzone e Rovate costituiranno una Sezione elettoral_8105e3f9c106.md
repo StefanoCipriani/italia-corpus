@@ -1,16 +1,14 @@
-REGIO DECRETO 09 aprile 1871 n. 167
-
-
-REGIO DECRETO 09 aprile 1871 n. 167
-===================================
-
-Col quale i Comuni di Azzate, Brunello, Crosio, Daverio, Galliate-Lombardo, Gazzada, Lomnago, Schianno, Caronno-Ghiringhello, Castronno, Lozza, Morazzone e Rovate costituiranno una Sezione elettorale separata del Collegio di Appiano. (071U0167)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/04/1871
+---
+tipo: REGIO DECRETO
+numero: 167
+data: 1871-04-09
+titolo: "Col quale i Comuni di Azzate, Brunello, Crosio, Daverio, Galliate-Lombardo, Gazzada, Lomnago, Schianno, Caronno-Ghiringhello, Castronno, Lozza, Morazzone e Rovate costituiranno una Sezione elettorale separata del Collegio di Appiano. (071U0167)"
+urn: urn:nir:stato:regio.decreto:1871-04-09;167
+codice_redazionale: 071U0167
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,28 +24,20 @@ Noverandosi nei Comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I predetti Comuni di Azzate, Brunello, Crosio, Daverio, Galliate-Lombardo, Gazzada, Lomnago, Schianno, Caronno-Ghiringhello, Castronno, Lozza, Morazzone e Rovate costituiranno d'ora in poi una Sezione del Collegio elettorale di Appiano n. 137, con sede nel capoluogo del Comune di Morazzone.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 9 aprile 1871.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 18 aprile 1871   
-Reg. 55 Atti del Governo a c. 95. Crodara Visconti.   
-Luogo del sigillo. V. Il Guardasigilli DE FALCO.   
-  
-G. LANZA.   
-  
-  
+I predetti Comuni di Azzate, Brunello, Crosio, Daverio, Galliate-Lombardo, Gazzada, Lomnago, Schianno, Caronno-Ghiringhello, Castronno, Lozza, Morazzone e Rovate costituiranno d'ora in poi una Sezione del Collegio elettorale di Appiano n. 137, con sede nel capoluogo del Comune di Morazzone. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 9 aprile 1871. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 18 aprile 1871 
+ Reg. 55 Atti del Governo a c. 95. Crodara Visconti. 
+ Luogo del sigillo. V. Il Guardasigilli DE FALCO. 
+ 
+ G. LANZA.

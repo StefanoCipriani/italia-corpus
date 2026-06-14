@@ -1,28 +1,26 @@
-REGIO DECRETO 12 marzo 1903 n. 124
-
-
-REGIO DECRETO 12 marzo 1903 n. 124
-==================================
-
-col quale vengono introdotte variazioni nel bilancio della spesa del Ministero del Tesoro per effetto di conversioni di rendita consolidata 3,50 %. (003U0124)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/04/1903
+---
+tipo: REGIO DECRETO
+numero: 124
+data: 1903-03-12
+titolo: "col quale vengono introdotte variazioni nel bilancio della spesa del Ministero del Tesoro per effetto di conversioni di rendita consolidata 3,50 %. (003U0124)"
+urn: urn:nir:stato:regio.decreto:1903-03-12;124
+codice_redazionale: 003U0124
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduto l'[articolo 2 della legge 12 giugno 1902, numero 166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-06-12;166~art2), col quale venne autorizzata la creazione del nuovo titolo di debito consolidato, fruttante l'interesse annuo di L. 3,50 per cento netto;
+Veduto l'[articolo 2 della legge 12 giugno 1902, numero 166](Riflettente%20la%20creazione%20di%20un%20nuovo%20titolo%20consolidato%203%20e%20mezzo%20per%20cento%20e%20provvedimenti%20per%20i%20debiti%20redimibili.%20002U0166.md), col quale venne autorizzata la creazione del nuovo titolo di debito consolidato, fruttante l'interesse annuo di L. 3,50 per cento netto;
 
 Visti gli articoli 3, 4 e 5 della stessa legge, che autorizzano la conversione dei titoli di debito redimibile descritti nella tabella I nel nuovo titolo di debito consolidato a parita' di rendita netta o con premio, nelle misure indicate dal mentovato art. 4;
 
-Veduto il Regolamento per l'esecuzione della legge, approvato con [R. Decreto 2 agosto 1902, n. 317](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-08-02;317);
+Veduto il Regolamento per l'esecuzione della legge, approvato con [R. Decreto 2 agosto 1902, n. 317](Riguardante%20provvedimenti%20per%20il%20nuovo%20tipo%20di%20rendita%20consolidata%20350%20%20netto%20e%20per%20la%20conversione%20di%20alcuni%20debiti%20redimibili.%20002U0317.md);
 
-Vedute le [leggi 29 giugno 1902, n. 229 e 232](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-06-29;232), di approvazione degli stati di previsione dell'entrata e della spesa del Ministero del Tesoro, per l'esercizio finanziario 1902-903;
+Vedute le [leggi 29 giugno 1902, n. 229 e 232](Che%20approva%20gli%20stati%20di%20previsione%20della%20spesa%20del%20Ministero%20dellEntrata%20per%20lesercizio%20finanziario%201902-903.%20002U0232.md), di approvazione degli stati di previsione dell'entrata e della spesa del Ministero del Tesoro, per l'esercizio finanziario 1902-903;
 
 Veduto il Nostro decreto 18 agosto 1902, n. 380, col quale venne autorizzata l'istituzione di un nuovo capitolo col n. 4 bis, nello stato di previsione della spesa per il Ministero del Tesoro per l'esercizio 1902-903;
 
@@ -40,49 +38,39 @@ Ritenuto che il prorata trimestrale dal 1 luglio al 30 settembre 1902 decorso pe
 
 Ritenuto che trattandosi di operazioni gia' definitivamente compiute in virtu' delle leggi succitate e degli articoli 8, 9, 10 del Regolamento summentovato, occorre ora soltanto provvedere per le variazioni ai singoli capitoli, che ai mentovati debiti si riferiscono, tanto nello stato di previsione della spesa del Ministero del Tesoro, quanto in quello dell'entrata per l'esercizio 1902-903;
 
-Visto l'[art. 8 della legge 12 giugno 1902, n. 166](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-06-12;166~art8), e l'art. 14 del regolamento succitato;
+Visto l'[art. 8 della legge 12 giugno 1902, n. 166](Riflettente%20la%20creazione%20di%20un%20nuovo%20titolo%20consolidato%203%20e%20mezzo%20per%20cento%20e%20provvedimenti%20per%20i%20debiti%20redimibili.%20002U0166.md), e l'art. 14 del regolamento succitato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Per effetto delle conversioni in rendita consolidata 3,50 % netto di obbligazioni ferroviarie 3 % eseguite dalla Direzione Generale del Debito Pubblico nel 2° semestre 1902, saranno introdotte nel bilancio della spesa del Ministero del Tesoro per l'esercizio 1902-903, le variazioni seguenti: 
+ 
+ in diminuzione al capitolo 14 - Obbligazioni ferroviarie 3 % 
+ 
+ Annata d'interessi annullati col 1 luglio 1902 . L. 3.862.820,--  Interessi annullati dal 1 ottobre 1902 al 30 
+ giugno 1903 . . . . . . . . . . . . . . . . . . » 438,75 
+ -----------------  In complesso la somma di L. 3.368.258,75 
+ -----------------  
+ in aumento al Capitolo 4-bis - Rendita consolidata 3,50 % netto 
+ 
+ Annata della rendita inscritta dal 1 luglio 
+ 1902 . . . . . . . . . . . . . . . . . . . . . L. 2.754.323,45 
+ Tre trimestri della rendita di . . . . . . . . . L. 478,70 
+ inscritta dal 1 ottobre 1902 . . . . . . . . . . » 359,03 
+ -----------------  In complesso la somma di L. 2.754.682,48 
+ -----------------
 
-  
-  
-Per effetto delle conversioni in rendita consolidata 3,50 % netto di obbligazioni ferroviarie 3 % eseguite dalla Direzione Generale del Debito Pubblico nel 2° semestre 1902, saranno introdotte nel bilancio della spesa del Ministero del Tesoro per l'esercizio 1902-903, le variazioni seguenti:   
-  
-in diminuzione al capitolo 14 - Obbligazioni ferroviarie 3 %   
-  
-Annata d'interessi annullati col 1 luglio 1902 . L. 3.862.820,-- Interessi annullati dal 1 ottobre 1902 al 30   
-giugno 1903 . . . . . . . . . . . . . . . . . . » 438,75   
------------------ In complesso la somma di L. 3.368.258,75   
------------------   
-in aumento al Capitolo 4-bis - Rendita consolidata 3,50 % netto   
-  
-Annata della rendita inscritta dal 1 luglio   
-1902 . . . . . . . . . . . . . . . . . . . . . L. 2.754.323,45   
-Tre trimestri della rendita di . . . . . . . . . L. 478,70   
-inscritta dal 1 ottobre 1902 . . . . . . . . . . » 359,03   
------------------ In complesso la somma di L. 2.754.682,48   
------------------   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-In conseguenza della diminuzione autorizzata con lo articolo precedente sara' pure introdotta nel bilancio dell'entrata per l'esercizio 1902-903, la variazione per diminuzione al capitolo 22, art. 4 «Imposta sui redditi di ricchezza mobile, ritenuta sulle rendite di debito pubblico, annualita', ecc.» della somma di L. 672.651, 75, corrispondente, alla ritenuta in ragione del 20 % sulla somma di L. 3.363.258,75 diminuita al capitolo 14 del bilancio della spesa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia, inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 marzo 1903.   
-  
-VITTORIO EMANUELE.   
-  
-Di Broglio.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.   
-  
+In conseguenza della diminuzione autorizzata con lo articolo precedente sara' pure introdotta nel bilancio dell'entrata per l'esercizio 1902-903, la variazione per diminuzione al capitolo 22, art. 4 «Imposta sui redditi di ricchezza mobile, ritenuta sulle rendite di debito pubblico, annualita', ecc.» della somma di L. 672.651, 75, corrispondente, alla ritenuta in ragione del 20 % sulla somma di L. 3.363.258,75 diminuita al capitolo 14 del bilancio della spesa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia, inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 marzo 1903. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Di Broglio. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

@@ -1,16 +1,14 @@
-REGIO DECRETO 27 novembre 1933 n. 2416
-
-
-REGIO DECRETO 27 novembre 1933 n. 2416
-======================================
-
-Autorizzazione al comune di Bormio ad applicare le imposte di consumo sulle bevande con la tariffa della classe G. (033U2416)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/05/1934
+---
+tipo: REGIO DECRETO
+numero: 2416
+data: 1933-11-27
+titolo: "Autorizzazione al comune di Bormio ad applicare le imposte di consumo sulle bevande con la tariffa della classe G. (033U2416)"
+urn: urn:nir:stato:regio.decreto:1933-11-27;2416
+codice_redazionale: 033U2416
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,28 +20,22 @@ Vista la domanda prodotta dal comune di Bormio per avvalersi della disposizione 
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Ministro per l'interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Bormio e' autorizzato ad applicare, fino al 31 dicembre 1935, le imposte di consumo sulle bevande con aliquote stabilite per la classe G.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 novembre 1933 - Anno XII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Jung   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 16 aprile 1934 - Anno XII   
-  
-Atti del Governo, registro 346, foglio 73. - Mancini.   
+Il comune di Bormio e' autorizzato ad applicare, fino al 31 dicembre 1935, le imposte di consumo sulle bevande con aliquote stabilite per la classe G. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 novembre 1933 - Anno XII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Jung 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 16 aprile 1934 - Anno XII 
+ 
+ Atti del Governo, registro 346, foglio 73. - Mancini.

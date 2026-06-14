@@ -1,16 +1,14 @@
-REGIO DECRETO 13 febbraio 1877 n. 3676
-
-
-REGIO DECRETO 13 febbraio 1877 n. 3676
-======================================
-
-Che separa il comune di Nusco dalla sezione elettorale di Bagnoli Irpino e lo costituisce in sezione distinta del Collegio di S. Angelo dei Lombardi. (077U3676)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/03/1877
+---
+tipo: REGIO DECRETO
+numero: 3676
+data: 1877-02-13
+titolo: "Che separa il comune di Nusco dalla sezione elettorale di Bagnoli Irpino e lo costituisce in sezione distinta del Collegio di S. Angelo dei Lombardi. (077U3676)"
+urn: urn:nir:stato:regio.decreto:1877-02-13;3676
+codice_redazionale: 077U3676
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,17 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Nusco e' separato dalla sezione elettorale di Bagnoli Irpino e formera' una sezione distinta del Collegio elettorale di S.  
-Angelo dei Lombardi n. 354.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli, addi' 13 febbraio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il comune di Nusco e' separato dalla sezione elettorale di Bagnoli Irpino e formera' una sezione distinta del Collegio elettorale di S.
+Angelo dei Lombardi n. 354. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli, addi' 13 febbraio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

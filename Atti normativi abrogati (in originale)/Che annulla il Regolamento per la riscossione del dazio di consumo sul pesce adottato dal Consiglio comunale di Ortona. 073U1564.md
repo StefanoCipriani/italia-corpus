@@ -1,16 +1,14 @@
-REGIO DECRETO 31 agosto 1873 n. 1564
-
-
-REGIO DECRETO 31 agosto 1873 n. 1564
-====================================
-
-Che annulla il Regolamento per la riscossione del dazio di consumo sul pesce, adottato dal Consiglio comunale di Ortona. (073U1564)
------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/10/1873
+---
+tipo: REGIO DECRETO
+numero: 1564
+data: 1873-08-31
+titolo: "Che annulla il Regolamento per la riscossione del dazio di consumo sul pesce, adottato dal Consiglio comunale di Ortona. (073U1564)"
+urn: urn:nir:stato:regio.decreto:1873-08-31;1564
+codice_redazionale: 073U1564
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,28 +28,18 @@ Visto l'articolo 138 della Legge comunale 20 marzo 1865, n. 2248;
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze; Abbiamo ordinato ordiniamo quanto segue:
 
-proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze; Abbiamo ordinato ordiniamo quanto segue:
+## Articolo unico. — null
 
-Articolo unico
---------------
-
-null
-
-  
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 31 agosto 1873.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 13 settembre 1873   
-Vol. 71 Atti del Governo a c. 95. Ayres.   
-Luogo del sigillo. V. Il Guardasigilli VIGLIANI.   
-  
-M. MINGHETTI.   
-  
-  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 31 agosto 1873. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 13 settembre 1873 
+ Vol. 71 Atti del Governo a c. 95. Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli VIGLIANI. 
+ 
+ M. MINGHETTI.

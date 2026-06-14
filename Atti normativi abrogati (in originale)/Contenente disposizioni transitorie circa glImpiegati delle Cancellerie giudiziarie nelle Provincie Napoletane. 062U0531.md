@@ -1,16 +1,14 @@
-REGIO DECRETO 06 aprile 1862 n. 531
-
-
-REGIO DECRETO 06 aprile 1862 n. 531
-===================================
-
-Contenente disposizioni transitorie circa gl'Impiegati delle Cancellerie giudiziarie nelle Provincie Napoletane. (062U0531)
----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/04/1862
+---
+tipo: REGIO DECRETO
+numero: 531
+data: 1862-04-06
+titolo: "Contenente disposizioni transitorie circa gl'Impiegati delle Cancellerie giudiziarie nelle Provincie Napoletane. (062U0531)"
+urn: urn:nir:stato:regio.decreto:1862-04-06;531
+codice_redazionale: 062U0531
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,53 +22,34 @@ Considerando, che per poter formare con maturo giudizio le indicate tabelle, occ
 
 Che infrattanto convenga provvedere perche' gli attuali Impiegati non manchino di una conveniente provvisoria destinazione, e come gia' per l'articolo 14 del Decreto del 16 febbraio scorso, n.° 469, trovasi prescritta la continuazione dello stipendio a tutti coloro che lo ricevono dallo Stato, cosi' fa mestieri di un provvedimento relativo a quelli altri ch'erano retribuiti sui proventi di cancelleria;
 
-Sulla
------
+Sulla proposizione del Presidente del Consiglio dei Ministri, incaricato di reggere provvisoriamente il Ministero per gli Affari di Grazia e Giustizia e de' Culti; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposizione del Presidente del Consiglio dei Ministri, incaricato di reggere provvisoriamente il Ministero per gli Affari di Grazia e Giustizia e de' Culti; Abbiamo ordinato ed ordiniamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+Quelli tra gli Impiegati di cancelleria i cui averi, in quantita' determinata, gravitano sui provvedimenti giudiziali, riceveranno gli averi medesimi dalla finanza. Agli amanuensi della cancelleria del tribunale civile di Napoli, i quali, oltre un soldo mensile, percepivano il dritto de'ruoli, sara' corrisposto, oltre di quel soldo, quel di piu' che occorra' per giugnere a mensuali lire cinquanta.
 
-  
-  
-Quelli tra gli Impiegati di cancelleria i cui averi, in quantita' determinata, gravitano sui provvedimenti giudiziali, riceveranno gli averi medesimi dalla finanza. Agli amanuensi della cancelleria del tribunale civile di Napoli, i quali, oltre un soldo mensile, percepivano il dritto de'ruoli, sara' corrisposto, oltre di quel soldo, quel di piu' che occorra' per giugnere a mensuali lire cinquanta.   
-  
+## Art. 2.
 
-Art. 2
-------
+Gli attuali Sostituiti cancellieri dei Giudici di Mandamento riceveranno provvisoriamente lo stipendio di mensuali lire sessantasei, e gli altri Impiegati inferiori nelle cancellerie medesime, gia' riconosciuti negli stati censori anteriori al presente Decreto, avranno una indennita' di mensuali lire quarantacinque o trenta, secondo la classificazione che ne verra' fatta dalle Autorita' indicate nell'articolo seguente.
 
-  
-  
-Gli attuali Sostituiti cancellieri dei Giudici di Mandamento riceveranno provvisoriamente lo stipendio di mensuali lire sessantasei, e gli altri Impiegati inferiori nelle cancellerie medesime, gia' riconosciuti negli stati censori anteriori al presente Decreto, avranno una indennita' di mensuali lire quarantacinque o trenta, secondo la classificazione che ne verra' fatta dalle Autorita' indicate nell'articolo seguente.   
-  
+## Art. 3.
 
-Art. 3
-------
+Pel numero degli Impiegati, e per gli averi da corrispondere ai medesimi, saranno rimessi dai Presidenti delle Corti d'Appello al Ministero di Grazia e Giustizia e de' Culti, od al suo Delegato, i notamenti firmati da loro e dai Procuratori Generali, di tutti gli Impiegati compresi nella rispettiva giurisdizione.
 
-  
-  
-Pel numero degli Impiegati, e per gli averi da corrispondere ai medesimi, saranno rimessi dai Presidenti delle Corti d'Appello al Ministero di Grazia e Giustizia e de' Culti, od al suo Delegato, i notamenti firmati da loro e dai Procuratori Generali, di tutti gli Impiegati compresi nella rispettiva giurisdizione.   
-  
+## Art. 4.
 
-Art. 4
-------
-
-  
-  
-I Presidenti ed i Procuratori Generali delle Corti di Appello destineranno provvisoriamente ai vari collegi compresi nella rispettiva giurisdizione il personale delle cancellerie delle Gran Corti Criminali, degli Uffici dei Giudici d'istruzione, e di quelli del Pubblico Ministero Criminale, intorno ai quali non siasi fatto speciale provvedimento, non che i portieri che trovavansi addetti alle Autorita' medesime.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dat. a Torino addi' 6 aprile 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 9 aprile 1862   
-  
-Reg.° 19 Atti del Governo a c. 171. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli U.Rattazzi.   
-  
-U. Rattazzi.   
-  
+I Presidenti ed i Procuratori Generali delle Corti di Appello destineranno provvisoriamente ai vari collegi compresi nella rispettiva giurisdizione il personale delle cancellerie delle Gran Corti Criminali, degli Uffici dei Giudici d'istruzione, e di quelli del Pubblico Ministero Criminale, intorno ai quali non siasi fatto speciale provvedimento, non che i portieri che trovavansi addetti alle Autorita' medesime. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dat. a Torino addi' 6 aprile 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 9 aprile 1862 
+ 
+ Reg.° 19 Atti del Governo a c. 171. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli U.Rattazzi. 
+ 
+ U. Rattazzi.

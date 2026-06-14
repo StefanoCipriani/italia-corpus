@@ -1,16 +1,14 @@
-REGIO DECRETO 06 novembre 1880 n. 5714
-
-
-REGIO DECRETO 06 novembre 1880 n. 5714
-======================================
-
-Che autorizza il comune di Marsala (Trapani) a riscuotere un dazio di consumo sopra alcuni generi. (080U5714)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/12/1880
+---
+tipo: REGIO DECRETO
+numero: 5714
+data: 1880-11-06
+titolo: "Che autorizza il comune di Marsala (Trapani) a riscuotere un dazio di consumo sopra alcuni generi. (080U5714)"
+urn: urn:nir:stato:regio.decreto:1880-11-06;5714
+codice_redazionale: 080U5714
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,32 +18,25 @@ Vista la deliberazione del 21 aprile 1876 con cui il Consiglio comunale di Marsa
 
 Vista la deliberazione presa dal detto Consiglio il 10 passato settembre, nella quale havvi specificato che per la terraglia s'intendono i lavori fini di creta;
 
-Visto l'art. 11 dell'allegato L alla [legge 11 agosto 1870, numero 5784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784);
+Visto l'art. 11 dell'allegato L alla [legge 11 agosto 1870, numero 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md);
 
 Visto il parere della Camera di commercio ed arti di Trapani;
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Marsala, a seconda delle precitate sue deliberazioni, e' autorizzato a riscuotere un dazio di consumo di lire 3 40 al quintale sulla faenza o maiolica, e di lire 6 al quintale sulla terraglia, ossia sui lavori fini di creta.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 6 novembre 1880.   
-  
-UMBERTO.   
-  
-A. Magliani.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il comune di Marsala, a seconda delle precitate sue deliberazioni, e' autorizzato a riscuotere un dazio di consumo di lire 3 40 al quintale sulla faenza o maiolica, e di lire 6 al quintale sulla terraglia, ossia sui lavori fini di creta. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 6 novembre 1880. 
+ 
+ UMBERTO. 
+ 
+ A. Magliani. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

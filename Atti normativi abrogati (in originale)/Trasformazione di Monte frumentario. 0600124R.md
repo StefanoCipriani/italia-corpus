@@ -1,18 +1,15 @@
-REGIO DECRETO 22 marzo 1906 n. CXXIV
+---
+tipo: REGIO DECRETO
+numero: CXXIV
+data: 1906-03-22
+titolo: "Trasformazione di Monte frumentario. (0600124R)"
+urn: urn:nir:stato:regio.decreto:1906-03-22;124
+codice_redazionale: 0600124R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 marzo 1906 n. CXXIV
-====================================
-
-Trasformazione di Monte frumentario. (0600124R)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/06/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CXXIV (Dato a Roma, il 22 marzo 1906), col quale si provvede alla trasformazione del fine del Monte di carita' esistente in Vairano Patenora (Caserta) a favore della Cassa prestiti del luogo.   
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CXXIV (Dato a Roma, il 22 marzo 1906), col quale si provvede alla trasformazione del fine del Monte di carita' esistente in Vairano Patenora (Caserta) a favore della Cassa prestiti del luogo.

@@ -1,16 +1,14 @@
-REGIO DECRETO 24 agosto 1872 n. 988
-
-
-REGIO DECRETO 24 agosto 1872 n. 988
-===================================
-
-Che autorizza la Confraternita di Santa Maria Novella in Castiglion Fiorentino ad estendere il conferimento dei posti di studio di cui dispone. (072U0988)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/10/1872
+---
+tipo: REGIO DECRETO
+numero: 988
+data: 1872-08-24
+titolo: "Che autorizza la Confraternita di Santa Maria Novella in Castiglion Fiorentino ad estendere il conferimento dei posti di studio di cui dispone. (072U0988)"
+urn: urn:nir:stato:regio.decreto:1872-08-24;988
+codice_redazionale: 072U0988
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,24 +20,16 @@ Veduta la deliberazione del Consiglio comunale di Castiglion Fiorentino alla dat
 
 Sentito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposizione del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' fatta facolta' alla Confraternita di S. Maria Novella in Castiglion Fiorentino di estendere il conferimento dei posti, dei quali dispone in virtu' del Rescritto Granducale 29 aprile 1841, a quanti attendono agli insegnamenti superiori che si comprendono nei programmi governativi, e pei quali si conseguono diplomi nelle Universita' o negli Istituti superiori equiparati alle Universita'.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia Inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 24 agosto 1872.   
-  
-VITTORIO EMANUELE.   
-  
-A. Scialoja.   
-  
-  
+E' fatta facolta' alla Confraternita di S. Maria Novella in Castiglion Fiorentino di estendere il conferimento dei posti, dei quali dispone in virtu' del Rescritto Granducale 29 aprile 1841, a quanti attendono agli insegnamenti superiori che si comprendono nei programmi governativi, e pei quali si conseguono diplomi nelle Universita' o negli Istituti superiori equiparati alle Universita'. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia Inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 24 agosto 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ A. Scialoja.

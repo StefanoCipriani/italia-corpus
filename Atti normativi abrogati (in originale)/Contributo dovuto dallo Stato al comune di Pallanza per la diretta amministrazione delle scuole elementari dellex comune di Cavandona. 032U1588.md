@@ -1,19 +1,19 @@
-REGIO DECRETO 25 agosto 1932 n. 1588
+---
+tipo: REGIO DECRETO
+numero: 1588
+data: 1932-08-25
+titolo: "Contributo dovuto dallo Stato al comune di Pallanza per la diretta amministrazione delle scuole elementari dell'ex comune di Cavandona. (032U1588)"
+urn: urn:nir:stato:regio.decreto:1932-08-25;1588
+codice_redazionale: 032U1588
+vigente: true
+---
 
-
-REGIO DECRETO 25 agosto 1932 n. 1588
-====================================
-
-Contributo dovuto dallo Stato al comune di Pallanza per la diretta amministrazione delle scuole elementari dell'ex comune di Cavandona. (032U1588)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/01/1933
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1588. R. decreto 25 agosto 1932, col quale, sulla proposta del Ministro per l'educazione nazionale, di concerto con quello per le finanze, il contributo dovuto dallo Stato al comune di Pallanza per la diretta amministrazione delle scuole elementari dell'ex comune di Cavandona viene determinato in annue L. 6616,02 per il periodo dal 1° gennaio 1928 al 30 novembre 1930, ed in annue lire 5656,02 dal 1° dicembre 1930 al 31 dicembre 1930.   
-Visto, il Guardasigilli: DE FRANCISCI.   
-Registrato alla Corte dei conti, addi' 12 dicembre 1932 - Anno XI
+1588.
+
+R. decreto 25 agosto 1932, col quale, sulla proposta del Ministro per l'educazione nazionale, di concerto con quello per le finanze, il contributo dovuto dallo Stato al comune di Pallanza per la diretta amministrazione delle scuole elementari dell'ex comune di Cavandona viene determinato in annue L. 6616,02 per il periodo dal 1° gennaio 1928 al 30 novembre 1930, ed in annue lire 5656,02 dal 1° dicembre 1930 al 31 dicembre 1930. 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ Registrato alla Corte dei conti, addi' 12 dicembre 1932 - Anno XI

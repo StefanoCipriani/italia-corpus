@@ -1,19 +1,15 @@
-REGIO DECRETO 31 luglio 1911 n. 934
+---
+tipo: REGIO DECRETO
+numero: 934
+data: 1911-07-31
+titolo: "Trasformazione di patrimonio a scopo elemosiniero. (011U0934)"
+urn: urn:nir:stato:regio.decreto:1911-07-31;934
+codice_redazionale: 011U0934
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 luglio 1911 n. 934
-===================================
-
-Trasformazione di patrimonio a scopo elemosiniero. (011U0934)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/09/1911
-
-Art. 1
-------
-
-  
-N. 934   
-  
-Col quale, su proposta del ministro dell'interno, il fine inerente al patrimonio della confraternita di Santa Croce di Spoleto viene trasformato a favore del locale ospedale di San Matteo degli Infermi.   
-  
+N. 934 
+ 
+ Col quale, su proposta del ministro dell'interno, il fine inerente al patrimonio della confraternita di Santa Croce di Spoleto viene trasformato a favore del locale ospedale di San Matteo degli Infermi.

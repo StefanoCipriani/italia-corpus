@@ -1,16 +1,14 @@
-REGIO DECRETO-LEGGE 18 maggio 1943 n. 627
-
-
-REGIO DECRETO-LEGGE 18 maggio 1943 n. 627
-=========================================
-
-Aumento temporaneo dell'organico dei sottufficiali e militari di truppa dell'Arma dei carabinieri Reali. (043U0627)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/08/1943. Regio Decreto-Legge convertito dalla [L. 5 maggio 1949, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-05-05;178) (in G.U. 07/05/1949, n. 105).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 627
+data: 1943-05-18
+titolo: "Aumento temporaneo dell'organico dei sottufficiali e militari di truppa dell'Arma dei carabinieri Reali. (043U0627)"
+urn: urn:nir:stato:regio.decreto.legge:1943-05-18;627
+codice_redazionale: 043U0627
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,39 +24,30 @@ Ritenuto lo stato di necessita' per causa di guerra;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra e per l'interno, d'intesa col Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra e per l'interno, d'intesa col Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+L'organico dei sottufficiali e dei militari di truppa, dell'Arma dei carabinieri Reali, previsto dall'art. 6 del R. decreto-legge 26 luglio 1929-VII, n. 1430, e successive modificazioni, e' temporaneamente aumentato di 10.000 posti di carabinieri ausiliari.
 
-  
-  
-L'organico dei sottufficiali e dei militari di truppa, dell'Arma dei carabinieri Reali, previsto dall'art. 6 del R. decreto-legge 26 luglio 1929-VII, n. 1430, e successive modificazioni, e' temporaneamente aumentato di 10.000 posti di carabinieri ausiliari. 
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il riassorbimento dell'aumento di organico previsto dall'art. 1 del presente decreto sara' effettuato entro sei mesi a partire dalla cessazione dell'attuale stato di guerra.   
-  
-Il presente decreto sara' presentato alle Assemblee legislative per la sua conversione in legge.   
-  
-Il DUCE, proponente, e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 maggio 1943-XXI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - ACERBO   
-  
-Visto, il Guardasigilli: DE MARSICO   
-  
-Registrato alla Corte dei conti, addi' 16 luglio 1943-XXI   
-  
-Atti del Governo, registro n. 459, foglio 56. - MANCINI   
+Il riassorbimento dell'aumento di organico previsto dall'art. 1 del presente decreto sara' effettuato entro sei mesi a partire dalla cessazione dell'attuale stato di guerra. 
+ 
+ Il presente decreto sara' presentato alle Assemblee legislative per la sua conversione in legge. 
+ 
+ Il DUCE, proponente, e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 maggio 1943-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - ACERBO 
+ 
+ Visto, il Guardasigilli: DE MARSICO 
+ 
+ Registrato alla Corte dei conti, addi' 16 luglio 1943-XXI 
+ 
+ Atti del Governo, registro n. 459, foglio 56. - MANCINI

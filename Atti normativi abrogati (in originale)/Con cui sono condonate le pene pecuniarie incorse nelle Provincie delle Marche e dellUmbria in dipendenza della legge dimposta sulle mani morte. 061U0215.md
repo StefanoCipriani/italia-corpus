@@ -1,16 +1,14 @@
-REGIO DECRETO 05 settembre 1861 n. 215
-
-
-REGIO DECRETO 05 settembre 1861 n. 215
-======================================
-
-Con cui sono condonate le pene pecuniarie incorse nelle Provincie delle Marche e dell'Umbria in dipendenza della legge d'imposta sulle mani morte. (061U0215)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/10/1861
+---
+tipo: REGIO DECRETO
+numero: 215
+data: 1861-09-05
+titolo: "Con cui sono condonate le pene pecuniarie incorse nelle Provincie delle Marche e dell'Umbria in dipendenza della legge d'imposta sulle mani morte. (061U0215)"
+urn: urn:nir:stato:regio.decreto:1861-09-05;215
+codice_redazionale: 061U0215
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,33 +24,21 @@ Visti i Decreti 13 e 27 marzo 1861, n. 4693 e 4705;
 
 Visto l'art. 8 dello Statuto;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli Ministro di Grazia e Giustizia e del Nostro Ministro delle Finanze; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del Nostro Guardasigilli Ministro di Grazia e Giustizia e del Nostro Ministro delle Finanze; Abbiamo ordinato ed ordiniamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+E' concesso l'intiero condono delle pene pecuniarie non ancora pagate ed incorse, in dipendenza della legge 23 maggio 1851, n. 1184, dai Corpi morali e Stabilimenti di mano morta delle Provincie delle Marche e dell' Umbria, che hanno ritardato, oltre i termini stabiliti, la presentazione della consegna prescritta dall'art. 5 di detta legge.
 
-  
-  
-E' concesso l'intiero condono delle pene pecuniarie non ancora pagate ed incorse, in dipendenza della legge 23 maggio 1851, n. 1184, dai Corpi morali e Stabilimenti di mano morta delle Provincie delle Marche e dell' Umbria, che hanno ritardato, oltre i termini stabiliti, la presentazione della consegna prescritta dall'art. 5 di detta legge.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Un eguale condono e' concesso per simili pene pecuniarie, non ancora pagate ed incorse da quei Corpi morali e Stabilimenti di mano morta delle anzidette Provincie, che hanno del tutto ommesso di fare la consegna indicata nel precedente articolo, purche' la presentino entro tutto il mese di ottobre prossimo.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dat. a Torino addi' 5 settembre 1861.   
-  
-VITTORIO EMANUELE.   
-  
-MIGLIETTI.   
-PIETRO BASTOGI.   
-  
-  
+Un eguale condono e' concesso per simili pene pecuniarie, non ancora pagate ed incorse da quei Corpi morali e Stabilimenti di mano morta delle anzidette Provincie, che hanno del tutto ommesso di fare la consegna indicata nel precedente articolo, purche' la presentino entro tutto il mese di ottobre prossimo. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dat. a Torino addi' 5 settembre 1861. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ MIGLIETTI. 
+ PIETRO BASTOGI.

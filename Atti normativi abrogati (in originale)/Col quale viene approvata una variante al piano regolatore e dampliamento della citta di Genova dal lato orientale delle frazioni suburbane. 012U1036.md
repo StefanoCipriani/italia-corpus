@@ -1,16 +1,14 @@
-REGIO DECRETO 02 agosto 1912 n. 1036
-
-
-REGIO DECRETO 02 agosto 1912 n. 1036
-====================================
-
-Col quale viene approvata una variante al piano regolatore e d'ampliamento della citta' di Genova dal lato orientale delle frazioni suburbane. (012U1036)
----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/10/1912
+---
+tipo: REGIO DECRETO
+numero: 1036
+data: 1912-08-02
+titolo: "Col quale viene approvata una variante al piano regolatore e d'ampliamento della citta' di Genova dal lato orientale delle frazioni suburbane. (012U1036)"
+urn: urn:nir:stato:regio.decreto:1912-08-02;1036
+codice_redazionale: 012U1036
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -64,43 +62,32 @@ che nulla si oppone ad accogliere la domanda del Comune in quanto concerne l'app
 
 Che deve intendersi come non fatta come non fatta la richiesta di una clausola modificante il contributo, il quale venne imposto per legge e che solo per legge potrebbe essere modificato: del che e' persuasa la stessa amministrazione comunale;
 
-vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);
+vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md);
 
 Sentito il parere del consiglio superiore dei lavori pubblici e del consiglio di stato;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Respinte le apposizioni su menzionate, e' approvata la variante al piano regolatore e di ampliamento della citta' di Genova dal lato orientale delle frazioni suburbane, redatto dall'Ufficio tecnico municipale e visto, d'ordine Nostro, dal ministro proponente, in due planimetrie e dieci elenchi, approvati tutti dal Consiglio comunale in data 27 aprile e 22 novembre 1910, con le modifiche risultanti dalla convenzione colle ferrovie dello Stato dianzi citata. 
+ 
+ Resta fisso per l'esecuzione della variante approvata col presente decreto il termine stabilito dall'[art. 5 della legge 20 giugno 1877, n. 3908](Che%20approva%20il%20piano%20regolatore%20e%20di%20ampliamento%20della%20citta%20di%20Genova.%20077U3908.md).
 
-  
-  
-Respinte le apposizioni su menzionate, e' approvata la variante al piano regolatore e di ampliamento della citta' di Genova dal lato orientale delle frazioni suburbane, redatto dall'Ufficio tecnico municipale e visto, d'ordine Nostro, dal ministro proponente, in due planimetrie e dieci elenchi, approvati tutti dal Consiglio comunale in data 27 aprile e 22 novembre 1910, con le modifiche risultanti dalla convenzione colle ferrovie dello Stato dianzi citata.   
-  
-Resta fisso per l'esecuzione della variante approvata col presente decreto il termine stabilito dall'[art. 5 della legge 20 giugno 1877, n. 3908](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1877-06-20;3908~art5).   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' approvata l'aggiunta delle seguenti disposizioni al regolamento per l'esecuzione del piano regolatore e d'ampliamento della citta' dal lato orientale nella parte piana delle frazioni suburbane   
-  
-a) Il Consiglio comunale e' autorizzato a permettere la riunione in una sola di due o piu' aree fabbricabili contiguo, quando cioe' sia reso necessario dalle particolari esigenze di qualche costruzione (edifici pubblici, alberghi, laboratori, industrie). Tale concessione potra' limitarsi alla riunione dei piani inferiori nel caso di industrie. La riunione non dovra' per nulla modificare le linee stradali e dovra' conservare inalterati i distacchi verso le proprieta' dei confinati;   
-  
-b) E' vietato faro sterri a livello inferiore della strada o terreno, che dove regolare le altezze dei fabbricati, allo scopo di aggiungere piani a quelli consentiti dai regolamenti edilizi in relazione alle strade o spazi sui quali prospettano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 2 agosto 1912.   
-  
-VITTORIO EMANUELE.   
-  
-Sacchi.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+E' approvata l'aggiunta delle seguenti disposizioni al regolamento per l'esecuzione del piano regolatore e d'ampliamento della citta' dal lato orientale nella parte piana delle frazioni suburbane 
+ 
+ a) Il Consiglio comunale e' autorizzato a permettere la riunione in una sola di due o piu' aree fabbricabili contiguo, quando cioe' sia reso necessario dalle particolari esigenze di qualche costruzione (edifici pubblici, alberghi, laboratori, industrie). Tale concessione potra' limitarsi alla riunione dei piani inferiori nel caso di industrie. La riunione non dovra' per nulla modificare le linee stradali e dovra' conservare inalterati i distacchi verso le proprieta' dei confinati; 
+ 
+ b) E' vietato faro sterri a livello inferiore della strada o terreno, che dove regolare le altezze dei fabbricati, allo scopo di aggiungere piani a quelli consentiti dai regolamenti edilizi in relazione alle strade o spazi sui quali prospettano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 2 agosto 1912. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Sacchi. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

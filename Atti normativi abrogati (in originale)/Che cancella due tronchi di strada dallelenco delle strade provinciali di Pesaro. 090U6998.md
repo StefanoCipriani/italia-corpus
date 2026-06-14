@@ -1,16 +1,14 @@
-REGIO DECRETO 13 luglio 1890 n. 6998
-
-
-REGIO DECRETO 13 luglio 1890 n. 6998
-====================================
-
-Che cancella due tronchi di strada dall'elenco delle strade provinciali di Pesaro. (090U6998)
----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/08/1890
+---
+tipo: REGIO DECRETO
+numero: 6998
+data: 1890-07-13
+titolo: "Che cancella due tronchi di strada dall'elenco delle strade provinciali di Pesaro. (090U6998)"
+urn: urn:nir:stato:regio.decreto:1890-07-13;6998
+codice_redazionale: 090U6998
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -30,34 +28,24 @@ Che da quell'epoca in poi nessun fatto nuovo e nessuna nuova circostanza venne a
 
 Visti gli articoli 13 lettera d e 14 della legge sui lavori pubblici 20 marzo 1865;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Art. 1. — null
 
-Art. 1
-------
+## Art. 2.
 
-null
-
-Art. 2
-------
-
-  
-  
-La deliberazione stessa e' approvata per quanto riguarda la cancellazione dall'elenco delle strade provinciali di Pesaro dei seguenti due tronchi:   
-  
-1° tronco - che distaccandosi dalla strada Cesanese nei pressi della fornace Montevecchio, ed attraversando l'abitato di Monteporzio, si ricongiunge alla provinciale stessa presso l'Osteria di Triaca, della lunghezza di metri 2184.90, scorrente tutto nel territorio di Monteporzio;   
-  
-2° tronco - che da Porto Fano in Pesaro passando pel Monte Ardizii, si unisce alla provinciale litoranea di fronte alla Caserma delle guardie doganali presso il ponte sul fosso Seiore, della lunghezza di metri 5929.40, scorrente per metri 5479.40 nel territorio di Pesaro e per metri 450 in quello di Fano.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 luglio 1890.   
-  
-UMBERTO.   
-  
-G. Finali.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+La deliberazione stessa e' approvata per quanto riguarda la cancellazione dall'elenco delle strade provinciali di Pesaro dei seguenti due tronchi: 
+ 
+ 1° tronco - che distaccandosi dalla strada Cesanese nei pressi della fornace Montevecchio, ed attraversando l'abitato di Monteporzio, si ricongiunge alla provinciale stessa presso l'Osteria di Triaca, della lunghezza di metri 2184.90, scorrente tutto nel territorio di Monteporzio; 
+ 
+ 2° tronco - che da Porto Fano in Pesaro passando pel Monte Ardizii, si unisce alla provinciale litoranea di fronte alla Caserma delle guardie doganali presso il ponte sul fosso Seiore, della lunghezza di metri 5929.40, scorrente per metri 5479.40 nel territorio di Pesaro e per metri 450 in quello di Fano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 luglio 1890. 
+ 
+ UMBERTO. 
+ 
+ G. Finali. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

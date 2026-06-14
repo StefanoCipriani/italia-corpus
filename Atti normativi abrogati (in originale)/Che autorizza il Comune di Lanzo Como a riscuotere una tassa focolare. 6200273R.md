@@ -1,19 +1,15 @@
-REGIO DECRETO 23 gennaio 1862 n. CCLXXIII
+---
+tipo: REGIO DECRETO
+numero: CCLXXIII
+data: 1862-01-23
+titolo: "Che autorizza il Comune di Lanzo (Como) a riscuotere una tassa focolare. (6200273R)"
+urn: urn:nir:stato:regio.decreto:1862-01-23;273
+codice_redazionale: 6200273R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 gennaio 1862 n. CCLXXIII
-=========================================
-
-Che autorizza il Comune di Lanzo (Como) a riscuotere una tassa focolare. (6200273R)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/01/1862
-
-Art. 1
-------
-
-  
-Che autorizza il Comune di Lanzo (Circondario di Como) a riscuotere una tassa focolare a norma del relativo regolamento.   
-  
-Torino 23 gennaio 1862   
-  
+Che autorizza il Comune di Lanzo (Circondario di Como) a riscuotere una tassa focolare a norma del relativo regolamento. 
+ 
+ Torino 23 gennaio 1862

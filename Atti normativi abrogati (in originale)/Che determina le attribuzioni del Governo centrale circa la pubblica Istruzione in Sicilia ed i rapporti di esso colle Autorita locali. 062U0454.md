@@ -1,16 +1,14 @@
-REGIO DECRETO 06 febbraio 1862 n. 454
-
-
-REGIO DECRETO 06 febbraio 1862 n. 454
-=====================================
-
-Che determina le attribuzioni del Governo centrale circa la pubblica Istruzione in Sicilia, ed i rapporti di esso colle Autorita' locali. (062U0454)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/02/1862
+---
+tipo: REGIO DECRETO
+numero: 454
+data: 1862-02-06
+titolo: "Che determina le attribuzioni del Governo centrale circa la pubblica Istruzione in Sicilia, ed i rapporti di esso colle Autorita' locali. (062U0454)"
+urn: urn:nir:stato:regio.decreto:1862-02-06;454
+codice_redazionale: 062U0454
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,69 +24,46 @@ Desiderando di riordinare l'Amministrazione dell'Istruzione pubblica in Sicilia;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo determinato e determiniamo:
 
-proposta del Nostro Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo determinato e determiniamo:
+## Art. 1.
 
-Art. 1
-------
+Tutte le attribuzioni che dalle leggi sono date al Capo della pubblica Istruzione rappresentato fin qui da un Segretario Generale residente in Palermo, apparterranno d'ora innanzi solo al Ministro della pubblica Istruzione.
 
-  
-  
-Tutte le attribuzioni che dalle leggi sono date al Capo della pubblica Istruzione rappresentato fin qui da un Segretario Generale residente in Palermo, apparterranno d'ora innanzi solo al Ministro della pubblica Istruzione.   
-  
+## Art. 2.
 
-Art. 2
-------
+Una Segreteria composta d'Impiegati del Dicastero di pubblica Istruzione rimarra' in Palermo in diretta corrispondenza col Ministero per la contabilita' e la spedizione degli affari che le saranno affidati.
 
-  
-  
-Una Segreteria composta d'Impiegati del Dicastero di pubblica Istruzione rimarra' in Palermo in diretta corrispondenza col Ministero per la contabilita' e la spedizione degli affari che le saranno affidati.   
-  
+## Art. 3.
 
-Art. 3
-------
+Oltre ai Rettori delle Universita' Siciliane ed al Vice-Presidente del Consiglio superiore della pubblica Istruzione, che gia' corrispondono direttamente col Ministro, corrisponderanno direttamente con lui: 
+ 
+ Il Presidente della Commissione centrale di antichita' e belle arti; 
+ 
+ Il Deputato amministratore del conservatorio di musica; 
+ 
+ Il Bibliotecario della biblioteca nazionale.
 
-  
-  
-Oltre ai Rettori delle Universita' Siciliane ed al Vice-Presidente del Consiglio superiore della pubblica Istruzione, che gia' corrispondono direttamente col Ministro, corrisponderanno direttamente con lui:   
-  
-Il Presidente della Commissione centrale di antichita' e belle arti;   
-  
-Il Deputato amministratore del conservatorio di musica;   
-  
-Il Bibliotecario della biblioteca nazionale.   
-  
+## Art. 4.
 
-Art. 4
-------
+E' data facolta' al Ministro di nominare Delegati straordinari per ordinare i licei, i ginnasi, le scuole normali e primarie. 
+ 
+ Gli Ispettori e tutte le Autorita' scolastiche dell'Istruzione secondaria e primaria corrisponderanno coi sopradetti Delegati.
 
-  
-  
-E' data facolta' al Ministro di nominare Delegati straordinari per ordinare i licei, i ginnasi, le scuole normali e primarie.   
-  
-Gli Ispettori e tutte le Autorita' scolastiche dell'Istruzione secondaria e primaria corrisponderanno coi sopradetti Delegati.   
-  
+## Art. 5.
 
-Art. 5
-------
-
-  
-  
-L'attuale Consiglio di pubblica Istruzione in Palermo e' considerato come Sezione del Consiglio superiore di pubblica Istruzione. Esso dara' il suo parere negli affari di cui sara' incaricato dal Ministro.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 6 febbraio 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 febbraio 1862   
-  
-Reg.° 19 Atti del Governo a c. 16. Wehrlin.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Miglietti.   
-  
-F. De Sanctis.   
-  
+L'attuale Consiglio di pubblica Istruzione in Palermo e' considerato come Sezione del Consiglio superiore di pubblica Istruzione. Esso dara' il suo parere negli affari di cui sara' incaricato dal Ministro. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 6 febbraio 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 febbraio 1862 
+ 
+ Reg.° 19 Atti del Governo a c. 16. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Miglietti. 
+ 
+ F. De Sanctis.

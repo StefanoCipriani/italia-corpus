@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 22 agosto 1915 n. 1392
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1392
+data: 1915-08-22
+titolo: "Approvazione di statuto. (015U1392)"
+urn: urn:nir:stato:decreto.luogotenenziale:1915-08-22;1392
+codice_redazionale: 015U1392
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 22 agosto 1915 n. 1392
-==============================================
-
-Approvazione di statuto. (015U1392)
------------------------------------
-
-Entrata in vigore del provvedimento: 09/10/1915
-
-Art. 1
-------
-
-  
-N. 1392   
-  
-Decreto Luogotenenziale 22 agosto 1915, col quale, su proposta del ministro di agricoltura, industria e commercio, di concerto col ministro dell'interno, si approva lo statuto per il Monte di pieta' di Verona.   
-  
+N. 1392 
+ 
+ Decreto Luogotenenziale 22 agosto 1915, col quale, su proposta del ministro di agricoltura, industria e commercio, di concerto col ministro dell'interno, si approva lo statuto per il Monte di pieta' di Verona.

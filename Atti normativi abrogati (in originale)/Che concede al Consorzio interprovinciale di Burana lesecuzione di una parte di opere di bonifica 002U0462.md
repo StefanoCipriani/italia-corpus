@@ -1,22 +1,20 @@
-REGIO DECRETO 05 ottobre 1902 n. 462
-
-
-REGIO DECRETO 05 ottobre 1902 n. 462
-====================================
-
-Che concede al Consorzio interprovinciale di Burana l'esecuzione di una parte di opere di bonifica (002U0462)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/12/1902
+---
+tipo: REGIO DECRETO
+numero: 462
+data: 1902-10-05
+titolo: "Che concede al Consorzio interprovinciale di Burana l'esecuzione di una parte di opere di bonifica (002U0462)"
+urn: urn:nir:stato:regio.decreto:1902-10-05;462
+codice_redazionale: 002U0462
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 Per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la Convenzione 29 novembre 1892, approvata con la [legge 30 dicembre 1892, n. 736](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-12-30;736), per la concessione al Consorzio interprovinciale di Burana dell'esecuzione di una parte delle opere di detta bonifica;
+Vista la Convenzione 29 novembre 1892, approvata con la [legge 30 dicembre 1892, n. 736](Che%20concerne%20la%20esecuzione%20delle%20opere%20della%20bonifica%20di%20Burana.%20092U0736.md), per la concessione al Consorzio interprovinciale di Burana dell'esecuzione di una parte delle opere di detta bonifica;
 
 Visti i nove progetti redatti dall'Ufficio tecnico del Consorzio interprovinciale della bonifica di Burana per la costruzione di nuovi canali maestri in sinistra del diversivo delle acque alte modenesi;
 
@@ -62,59 +60,44 @@ Antonio Dall'Oglio, Prefetto di Modena, quale rappresentante l'Amministrazione d
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvata la Convenzione 12 settembre 1902, stipulata nella Prefettura di Modena fra i rappresentanti dell'Amministrazione governativa e del Comitato esecutivo del Consorzio interprovinciale di Burana, con la quale Convenzione si concede al Consorzio l'esecuzione dei seguenti canali maestri: 
+ 
+ 1. Scolo Cannucchio. 
+ 
+ 2. Canale Quarantoli San Martino. 
+ 
+ 3. Cavo di Sopra. 
+ 
+ 4. Cavo di Sotto. 
+ 
+ 5. Fossa Reggiana-Cavo Rusco. 
+ 
+ 6. Canaletta Bagnoli, 
+ 
+ pel complessivo importo di L. 1,600,000,00, giusta i sei progetti redatti dall'Ufficio tecnico del Consorzio, che rimangono pure approvati.
 
-  
-  
-E' approvata la Convenzione 12 settembre 1902, stipulata nella Prefettura di Modena fra i rappresentanti dell'Amministrazione governativa e del Comitato esecutivo del Consorzio interprovinciale di Burana, con la quale Convenzione si concede al Consorzio l'esecuzione dei seguenti canali maestri:   
-  
-1. Scolo Cannucchio.   
-  
-2. Canale Quarantoli San Martino.   
-  
-3. Cavo di Sopra.   
-  
-4. Cavo di Sotto.   
-  
-5. Fossa Reggiana-Cavo Rusco.   
-  
-6. Canaletta Bagnoli,   
-  
-pel complessivo importo di L. 1,600,000,00, giusta i sei progetti redatti dall'Ufficio tecnico del Consorzio, che rimangono pure approvati.   
-  
+## Art. 2.
 
-Art. 2
-------
+In corrispettivo di tutti gli obblighi assunti dal Consorzio con la Convenzione predetta, il Ministero dei Lavori Pubblici paghera' al Consorzio stesso trenta annualita' fisse ed invariabili di L. 41,600,00 (lire quarantunmilaseicento) corrispondenti ciascuna al 2,60% della spesa di L. 1,600,000, riconosciuta necessaria, a decorrere dalla data della collaudazione. 
+ 
+ Dell'impegno sara' tenuto conto sui fondi residui accertati per la bonifica di Burana col consuntivo dell'esercizio 1899-900, nonche' su quelli da stanziarsi per la stessa bonifica nei futuri bilanci del Ministero dei Lavori Pubblici, che resteranno disponibili in seguito agli altri pagamenti da effettuarsi. 
+ 
+ Sara' poi provveduto, mediante prelevamento dal fondo di riserva di cui all'[articolo 66 della legge 22 marzo 1900, n. 195](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-03-22;195#art_66), alle deficienze che potranno verificarsi su ogni singola assegnazione di bilancio, per residui e competenza, in confronto dell'annualita' di L. 41,600, da corrispondersi al Consorzio.
 
-  
-  
-In corrispettivo di tutti gli obblighi assunti dal Consorzio con la Convenzione predetta, il Ministero dei Lavori Pubblici paghera' al Consorzio stesso trenta annualita' fisse ed invariabili di L. 41,600,00 (lire quarantunmilaseicento) corrispondenti ciascuna al 2,60% della spesa di L. 1,600,000, riconosciuta necessaria, a decorrere dalla data della collaudazione.   
-  
-Dell'impegno sara' tenuto conto sui fondi residui accertati per la bonifica di Burana col consuntivo dell'esercizio 1899-900, nonche' su quelli da stanziarsi per la stessa bonifica nei futuri bilanci del Ministero dei Lavori Pubblici, che resteranno disponibili in seguito agli altri pagamenti da effettuarsi.   
-  
-Sara' poi provveduto, mediante prelevamento dal fondo di riserva di cui all'[articolo 66 della legge 22 marzo 1900, n. 195](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-03-22;195~art66), alle deficienze che potranno verificarsi su ogni singola assegnazione di bilancio, per residui e competenza, in confronto dell'annualita' di L. 41,600, da corrispondersi al Consorzio.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-E' respinta la protesta avanzata, con atto uscierile 19 maggio 1902, dai presidenti dei Consorzi di Carbonara, Pilastri e Redena.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 5 ottobre 1902.   
-  
-VITTORIO EMANUELE.   
-  
-N. Balenzano.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.   
-  
+E' respinta la protesta avanzata, con atto uscierile 19 maggio 1902, dai presidenti dei Consorzi di Carbonara, Pilastri e Redena. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 5 ottobre 1902. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ N. Balenzano. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

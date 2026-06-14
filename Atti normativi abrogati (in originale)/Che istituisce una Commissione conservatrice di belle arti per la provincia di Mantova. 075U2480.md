@@ -1,16 +1,14 @@
-REGIO DECRETO 02 maggio 1875 n. 2480
-
-
-REGIO DECRETO 02 maggio 1875 n. 2480
-====================================
-
-Che istituisce una Commissione conservatrice di belle arti per la provincia di Mantova. (075U2480)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/05/1875
+---
+tipo: REGIO DECRETO
+numero: 2480
+data: 1875-05-02
+titolo: "Che istituisce una Commissione conservatrice di belle arti per la provincia di Mantova. (075U2480)"
+urn: urn:nir:stato:regio.decreto:1875-05-02;2480
+codice_redazionale: 075U2480
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,29 +16,20 @@ RE D'ITALIA
 
 Visto il Nostro decreto 7 agosto 1874, n. 2032;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' istituita in Mantova una Commissione conservatrice dei monumenti e delle opere d'arte di quella provincia colle facolta' ed incombenze stabilite dal suddetto decreto.
 
-  
-  
-E' istituita in Mantova una Commissione conservatrice dei monumenti e delle opere d'arte di quella provincia colle facolta' ed incombenze stabilite dal suddetto decreto.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Detta Commissione sara' composta di sei commissari, tre eletti dal Governo e tre dal Consiglio provinciale, oltre il prefetto, che ne sara' il presidente, il quale nominera' un impiegato della prefettura a compiere l'ufficio di segretario.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 maggio 1875.   
-  
-VITTORIO EMANUELE.   
-  
-R. Bonghi.   
+Detta Commissione sara' composta di sei commissari, tre eletti dal Governo e tre dal Consiglio provinciale, oltre il prefetto, che ne sara' il presidente, il quale nominera' un impiegato della prefettura a compiere l'ufficio di segretario. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 maggio 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ R. Bonghi.

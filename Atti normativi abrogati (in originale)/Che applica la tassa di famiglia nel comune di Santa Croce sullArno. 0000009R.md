@@ -1,22 +1,22 @@
-REGIO DECRETO 14 gennaio 1900 n. IX
+---
+tipo: REGIO DECRETO
+numero: IX
+data: 1900-01-14
+titolo: "Che applica la tassa di famiglia nel comune di Santa Croce sull'Arno. (0000009R)"
+urn: urn:nir:stato:regio.decreto:1900-01-14;9
+codice_redazionale: 0000009R
+vigente: true
+---
 
-
-REGIO DECRETO 14 gennaio 1900 n. IX
-===================================
-
-Che applica la tassa di famiglia nel comune di Santa Croce sull'Arno. (0000009R)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/02/1900
-
-Art. 1
-------
+## Art. 1.
 
 Con cui e' data facolta' al comune di Santa Croce sull'Arno di applicare nell'anno 1900 la tassa di famiglia col limite massimo di lire
 
-275. - Firmato UMBERTO - Controfirmato Carmine - Visto A.  
-Bonasi.   
-  
-Registrato alla Corte dei conti addi' 25 gennaio 1900.   
-  
-Reg. 222. Atti del Governo a f. 55.
+275.
+
+- Firmato UMBERTO - Controfirmato Carmine - Visto A.
+Bonasi. 
+ 
+ Registrato alla Corte dei conti addi' 25 gennaio 1900. 
+ 
+ Reg. 222. Atti del Governo a f. 55.

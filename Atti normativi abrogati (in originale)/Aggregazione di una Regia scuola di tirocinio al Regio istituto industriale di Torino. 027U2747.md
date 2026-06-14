@@ -1,49 +1,40 @@
-REGIO DECRETO 08 dicembre 1927 n. 2747
-
-
-REGIO DECRETO 08 dicembre 1927 n. 2747
-======================================
-
-Aggregazione di una Regia scuola di tirocinio al Regio istituto industriale di Torino. (027U2747)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/02/1928
+---
+tipo: REGIO DECRETO
+numero: 2747
+data: 1927-12-08
+titolo: "Aggregazione di una Regia scuola di tirocinio al Regio istituto industriale di Torino. (027U2747)"
+urn: urn:nir:stato:regio.decreto:1927-12-08;2747
+codice_redazionale: 027U2747
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto il [R. decreto 19 giugno 1924, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-19;1217), concernente il riordinamento del Regio istituto industriale di Torino;
+Visto il [R. decreto 19 giugno 1924, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-19;1217), concernente il riordinamento del Regio istituto industriale di Torino;
 
-Visto il [R. decreto 5 agosto 1927, n. 1717](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-08-05;1717), concernente aumenti di contributo a favore del sopraindicato Regio istituto;
+Visto il [R. decreto 5 agosto 1927, n. 1717](Modificazione%20dellimporto%20dei%20contributi%20del%20Ministero%20e%20degli%20enti%20locali%20per%20il%20mantenimento%20del%20Regio%20istituto%20industriale%20di%20Torino.%20027U1717.md), concernente aumenti di contributo a favore del sopraindicato Regio istituto;
 
 Sentita la Sezione III del Consiglio superiore per l'istruzione agraria, industriale e commerciale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al Regio istituto industriale di Torino, riordinato in base al [R. decreto 19 giugno 1924, n. 1217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-19;1217), viene aggregata una Regia scuola di tirocinio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 dicembre 1927 - Anno VI   
-  
-VITTORIO EMANUELE.   
-  
-BELLUZZO.   
-  
-Visto, il Guardasigilli: ROCCO.   
-  
-Registrato alla Corte dei conti, addi' 6 febbraio 1928 - Anno VI   
-Atti del Governo, registro 269, foglio 53. - CASATI.   
-  
+Al Regio istituto industriale di Torino, riordinato in base al [R. decreto 19 giugno 1924, n. 1217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-06-19;1217), viene aggregata una Regia scuola di tirocinio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 dicembre 1927 - Anno VI 
+ 
+ VITTORIO EMANUELE. 
+ 
+ BELLUZZO. 
+ 
+ Visto, il Guardasigilli: ROCCO. 
+ 
+ Registrato alla Corte dei conti, addi' 6 febbraio 1928 - Anno VI  
+ Atti del Governo, registro 269, foglio 53. - CASATI.

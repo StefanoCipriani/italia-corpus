@@ -1,19 +1,15 @@
-REGIO DECRETO 11 maggio 1905 n. CLXXI
+---
+tipo: REGIO DECRETO
+numero: CLXXI
+data: 1905-05-11
+titolo: "Approvazione di statuto. (0500171R)"
+urn: urn:nir:stato:regio.decreto:1905-05-11;171
+codice_redazionale: 0500171R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 maggio 1905 n. CLXXI
-=====================================
-
-Approvazione di statuto. (0500171R)
------------------------------------
-
-Entrata in vigore del provvedimento: 01/08/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. CLXXI (Dato a Roma, l'11 maggio 1905), col quale si approva il nuovo statuto della Cassa di risparmio di Fabriano.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. CLXXI (Dato a Roma, l'11 maggio 1905), col quale si approva il nuovo statuto della Cassa di risparmio di Fabriano.

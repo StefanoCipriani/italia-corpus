@@ -1,16 +1,14 @@
-REGIO DECRETO 21 agosto 1879 n. 5066
-
-
-REGIO DECRETO 21 agosto 1879 n. 5066
-====================================
-
-Che autorizza il comune di Mezzate a riunire le rendite patrimoniali, le passivita' e le spese delle frazioni di Morsenchio e Zeloforomagno da primo gennaio 1880. (079U5066)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/10/1879
+---
+tipo: REGIO DECRETO
+numero: 5066
+data: 1879-08-21
+titolo: "Che autorizza il comune di Mezzate a riunire le rendite patrimoniali, le passivita' e le spese delle frazioni di Morsenchio e Zeloforomagno da primo gennaio 1880. (079U5066)"
+urn: urn:nir:stato:regio.decreto:1879-08-21;5066
+codice_redazionale: 079U5066
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,21 @@ in data 15 maggio 1876, colla quale chiede di unirei patrimoni e le spese suacce
 
 Vista la deliberazione del Consiglio provinciale 14 gennaio 1877;
 
-Visti
------
+Visti gli articoli 13 e 16 della legge comunale e provinciale 20 marzo 1805, allegato A, Abbiamo decretato e decretiamo:
 
-gli articoli 13 e 16 della legge comunale e provinciale 20 marzo 1805, allegato A, Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il comune di Mezzate e' autorizzato a riunire le rendite patrimoniali, le passivita' e le spese delle frazioni di Morsenchio e Zeloforamagno, a partire dal 1° gennaio
 
-1880. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 21 agosto 1879.   
-  
-UMBERTO.   
-  
-T. VILLA.   
-  
-Visto - Il Guardasigilli   
-VARE'.
+1880.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 21 agosto 1879. 
+ 
+ UMBERTO. 
+ 
+ T. VILLA. 
+ 
+ Visto - Il Guardasigilli 
+ VARE'.

@@ -1,21 +1,21 @@
-REGIO DECRETO 21 febbraio 1924 n. 355
+---
+tipo: REGIO DECRETO
+numero: 355
+data: 1924-02-21
+titolo: "Erezione in Ente morale della Federazione nazionale fascista per le case popolari in Sardegna. (024U0355)"
+urn: urn:nir:stato:regio.decreto:1924-02-21;355
+codice_redazionale: 024U0355
+vigente: true
+---
 
-
-REGIO DECRETO 21 febbraio 1924 n. 355
-=====================================
-
-Erezione in Ente morale della Federazione nazionale fascista per le case popolari in Sardegna. (024U0355)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/04/1924
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-355. R. decreto 21 febbraio 1924, col quale, sulla proposta del Ministro per l'economia nazionale, la Federazione nazionale fascista per le case popolari in Sardegna viene riconosciuta come Ente morale e ne e' approvato lo statuto.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 21 marzo 1924.
+355.
+
+R. decreto 21 febbraio 1924, col quale, sulla proposta del Ministro per l'economia nazionale, la Federazione nazionale fascista per le case popolari in Sardegna viene riconosciuta come Ente morale e ne e' approvato lo statuto. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 21 marzo 1924.

@@ -1,16 +1,14 @@
-REGIO DECRETO 18 settembre 1865 n. 2501
-
-
-REGIO DECRETO 18 settembre 1865 n. 2501
-=======================================
-
-Con cui dei Comuni di Accettura e Oliveto Lucano e' formata una sezione elettorale distinta. (065U2501)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/10/1865
+---
+tipo: REGIO DECRETO
+numero: 2501
+data: 1865-09-18
+titolo: "Con cui dei Comuni di Accettura e Oliveto Lucano e' formata una sezione elettorale distinta. (065U2501)"
+urn: urn:nir:stato:regio.decreto:1865-09-18;2501
+codice_redazionale: 065U2501
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nei Comuni di Accettura e Oliveto Lucano piu' di 40 elettori e piu' 
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Accettura e Oliveto Lucano che sin qui fecero parte della sezione del Collegio elettorale di Tricarico, n.° 54, detta di Sanmauroforte, costituiranno d'ora in poi una sezione separata del Collegio medesimo che si radunera' in Accettura.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Firenze addi' 18 settembre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 30 settembre 1865   
-  
-Reg.° 33 Atti del Governo a c. 221. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
-  
+I Comuni di Accettura e Oliveto Lucano che sin qui fecero parte della sezione del Collegio elettorale di Tricarico, n.° 54, detta di Sanmauroforte, costituiranno d'ora in poi una sezione separata del Collegio medesimo che si radunera' in Accettura. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Firenze addi' 18 settembre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 30 settembre 1865 
+ 
+ Reg.° 33 Atti del Governo a c. 221. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli.

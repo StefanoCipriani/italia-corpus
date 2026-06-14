@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 09 luglio 1936 n. 1540
-
-
-REGIO DECRETO-LEGGE 09 luglio 1936 n. 1540
-==========================================
-
-Disposizioni di carattere temporaneo per la scelta del comandante dell'aeronautica della Libia. (036U1540)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/02/1936.  
-Regio Decreto-Legge convertito dalla [L. 11 gennaio 1937, n. 294](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1937-01-11;294) (in G.U. 25/03/1937, n. 70).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1540
+data: 1936-07-09
+titolo: "Disposizioni di carattere temporaneo per la scelta del comandante dell'aeronautica della Libia. (036U1540)"
+urn: urn:nir:stato:regio.decreto.legge:1936-07-09;1540
+codice_redazionale: 036U1540
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -29,39 +26,28 @@ Ritenuta la necessita' assoluta ed urgente di provvedere;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le colonie, di concerto con i Ministri Segretari di Stato per l'aeronautica e per le finanze; Abbiamo, decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le colonie, di concerto con i Ministri Segretari di Stato per l'aeronautica e per le finanze; Abbiamo, decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il comandante di aeronautica della Libia puo' essere scelto anche fra i generali di divisione aerea.
 
-  
-  
-Il comandante di aeronautica della Libia puo' essere scelto anche fra i generali di divisione aerea.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto ha vigore dal 17 febbraio 1936-XIV al 30 giugno 1937-XV e sara' presentato al Parlamento per la conversione in legge.   
-  
-Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 9 luglio 1936 - Anno XIV   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Lessona - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 20 agosto 1936 - Anno XIV   
-  
-Atti del Governo, registro 376, foglio 102. - Mancini.   
-  
-  
+Il presente decreto ha vigore dal 17 febbraio 1936-XIV al 30 giugno 1937-XV e sara' presentato al Parlamento per la conversione in legge. 
+ 
+ Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 9 luglio 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Lessona - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 20 agosto 1936 - Anno XIV 
+ 
+ Atti del Governo, registro 376, foglio 102. - Mancini.

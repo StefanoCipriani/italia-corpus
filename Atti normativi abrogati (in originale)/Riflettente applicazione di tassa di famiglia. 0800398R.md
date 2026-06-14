@@ -1,19 +1,15 @@
-REGIO DECRETO 31 agosto 1908 n. CCCXCVIII
+---
+tipo: REGIO DECRETO
+numero: CCCXCVIII
+data: 1908-08-31
+titolo: "Riflettente applicazione di tassa di famiglia. (0800398R)"
+urn: urn:nir:stato:regio.decreto:1908-08-31;398
+codice_redazionale: 0800398R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 agosto 1908 n. CCCXCVIII
-=========================================
-
-Riflettente applicazione di tassa di famiglia. (0800398R)
----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/10/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CCCXCVIII (Dato sulla R. nave «Vittorio Emanuele», il 31 agosto 1908), col quale e' data facolta' al comune di Bisceglie di applicare, nell'anno 1908, la tassa di famiglia col minimo imponibile di L. 500 (cinquecento).   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CCCXCVIII (Dato sulla R. nave «Vittorio Emanuele», il 31 agosto 1908), col quale e' data facolta' al comune di Bisceglie di applicare, nell'anno 1908, la tassa di famiglia col minimo imponibile di L. 500 (cinquecento).

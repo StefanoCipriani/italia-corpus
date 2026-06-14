@@ -1,21 +1,21 @@
-REGIO DECRETO 15 dicembre 1932 n. 1914
+---
+tipo: REGIO DECRETO
+numero: 1914
+data: 1932-12-15
+titolo: "Erezione in ente morale della Cassa scolastica della Regia scuola secondaria di avviamento professionale di Atri. (032U1914)"
+urn: urn:nir:stato:regio.decreto:1932-12-15;1914
+codice_redazionale: 032U1914
+vigente: true
+---
 
-
-REGIO DECRETO 15 dicembre 1932 n. 1914
-======================================
-
-Erezione in ente morale della Cassa scolastica della Regia scuola secondaria di avviamento professionale di Atri. (032U1914)
-----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/02/1933
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1914. R. decreto 15 dicembre 1932, col quale, sulla proposta del Ministro per l'educazione nazionale, la Cassa scolastica della Regia scuola secondaria di avviamento professionale di Atri viene eretta in ente morale, e ne e' approvato lo statuto.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 23 gennaio 1933 - Anno XI
+1914.
+
+R. decreto 15 dicembre 1932, col quale, sulla proposta del Ministro per l'educazione nazionale, la Cassa scolastica della Regia scuola secondaria di avviamento professionale di Atri viene eretta in ente morale, e ne e' approvato lo statuto. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 23 gennaio 1933 - Anno XI

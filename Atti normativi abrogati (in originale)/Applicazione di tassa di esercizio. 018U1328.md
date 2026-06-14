@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 23 maggio 1918 n. 1328
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1328
+data: 1918-05-23
+titolo: "Applicazione di tassa di esercizio. (018U1328)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-05-23;1328
+codice_redazionale: 018U1328
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 23 maggio 1918 n. 1328
-==============================================
-
-Applicazione di tassa di esercizio. (018U1328)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 16/10/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1328. Decreto Luogotenenziale 23 maggio 1918, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Castellina Marittima (Pisa) di applicare, dal 1° gennaio 1918 al 31 dicembre dell'anno in cui cessera' la guerra, la tassa di esercizio col limite massimo di L. 2000.
+1328.
+
+Decreto Luogotenenziale 23 maggio 1918, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Castellina Marittima (Pisa) di applicare, dal 1° gennaio 1918 al 31 dicembre dell'anno in cui cessera' la guerra, la tassa di esercizio col limite massimo di L. 2000.

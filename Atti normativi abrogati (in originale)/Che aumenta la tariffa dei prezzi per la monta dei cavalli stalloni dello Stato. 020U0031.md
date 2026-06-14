@@ -1,16 +1,14 @@
-REGIO DECRETO 04 gennaio 1920 n. 31
-
-
-REGIO DECRETO 04 gennaio 1920 n. 31
-===================================
-
-Che aumenta la tariffa dei prezzi per la monta dei cavalli stalloni dello Stato. (020U0031)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/02/1920
+---
+tipo: REGIO DECRETO
+numero: 31
+data: 1920-01-04
+titolo: "Che aumenta la tariffa dei prezzi per la monta dei cavalli stalloni dello Stato. (020U0031)"
+urn: urn:nir:stato:regio.decreto:1920-01-04;31
+codice_redazionale: 020U0031
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,31 +22,26 @@ Sentito il Consiglio ippico:
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta nei Nostro ministro segretario di Stato per l'agricoltura, di concerto col Nostro ministro segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
 
-proposta nei Nostro ministro segretario di Stato per l'agricoltura, di concerto col Nostro ministro segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
+La tariffa dei prezzi per la monta dei cavalli stalloni dello Stato, non classificati in categorie speciali, e' stabilita come appresso: 
+ 
+ Stalloni di 1ª categoria, tassa di monta L.
 
-La tariffa dei prezzi per la monta dei cavalli stalloni dello Stato, non classificati in categorie speciali, e' stabilita come appresso:   
-  
-Stalloni di 1ª categoria, tassa di monta L.
+80.
 
-80. 
-  
-  
-Id. » 2ª id. id. id. » 60.   
-  
-Id. » 3ª id. id. id. » 25.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 gennaio 1920.   
-  
-VITTORIO EMANUELE.   
-  
-Mortara - Visacchi - Schanzer.   
-  
-Visto, Il guardasigilli: Mortara.
+Id. » 2ª id. id. id. » 60. 
+ 
+ Id. » 3ª id. id. id. » 25. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 gennaio 1920. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mortara - Visacchi - Schanzer. 
+ 
+ Visto, Il guardasigilli: Mortara.

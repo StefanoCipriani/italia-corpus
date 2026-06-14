@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 05 agosto 1917 n. 1645
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1645
+data: 1917-08-05
+titolo: "Erezione in ente morale. (017U1645)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-08-05;1645
+codice_redazionale: 017U1645
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 05 agosto 1917 n. 1645
-==============================================
-
-Erezione in ente morale. (017U1645)
------------------------------------
-
-Entrata in vigore del provvedimento: 13/11/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1645. Decreto Luogotenenziale 5 agosto 1917, con cui, sulla proposta del ministro dell'interno, il legato elemosiniero «Braj» in Soleto, e' costituito in ente morale e concentrato nella locale Congregazione di carita'.
+1645.
+
+Decreto Luogotenenziale 5 agosto 1917, con cui, sulla proposta del ministro dell'interno, il legato elemosiniero «Braj» in Soleto, e' costituito in ente morale e concentrato nella locale Congregazione di carita'.

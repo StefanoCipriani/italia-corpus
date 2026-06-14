@@ -1,16 +1,14 @@
-REGIO DECRETO 14 giugno 1941 n. 573
-
-
-REGIO DECRETO 14 giugno 1941 n. 573
-===================================
-
-Prelevazione dal fondo di riserva per le spese impreviste dell'Azienda dei tabacchi per l'esercizio finanziario 1940-41. (041U0573)
------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/07/1941
+---
+tipo: REGIO DECRETO
+numero: 573
+data: 1941-06-14
+titolo: "Prelevazione dal fondo di riserva per le spese impreviste dell'Azienda dei tabacchi per l'esercizio finanziario 1940-41. (041U0573)"
+urn: urn:nir:stato:regio.decreto:1941-06-14;573
+codice_redazionale: 041U0573
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,54 +24,48 @@ Considerato che il fondo di riserva per le spese impreviste dell'Azienda tabacch
 
 Sentito il Consiglio di amministrazione dei monopoli di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
+E' autorizzato il prelevamento della somma di L. 6.350.000 dal fondo di riserva dell'Azienda dei tabacchi da versarsi al cap. 17 dello stato di previsione dell'entrata del bilancio dell'Amministrazione medesima per l'esercizio 1940-41. 
+ 
+ E' autorizzata l'inscrizione delle somme prelevate ai seguenti capitoli della spesa del bilancio dell'Amministrazione dei monopoli di Stato per l'esercizio 1940-41: 
+ 
+ 
 
-  
-  
-E' autorizzato il prelevamento della somma di L. 6.350.000 dal fondo di riserva dell'Azienda dei tabacchi da versarsi al cap. 17 dello stato di previsione dell'entrata del bilancio dell'Amministrazione medesima per l'esercizio 1940-41.   
-  
-E' autorizzata l'inscrizione delle somme prelevate ai seguenti capitoli della spesa del bilancio dell'Amministrazione dei monopoli di Stato per l'esercizio 1940-41:   
-  
-  
-  
-Cap. n. 13. - Spese di ufficio e di  
-materiali di ufficio, di illuminazione  
-e riscaldamento -Spese postali,  
-telegrafiche e telefoniche - Spese  
-per stampati ed affini - Acquisto  
-di libri - Abbonamenti a giornali  
-e pubblicazioni periodiche -  
-(Servizi centrali e provinciali) . . . . . . L. 750.000  
-Cap. n. 27. - Spese per acquisto,  
-nolo e riparazione di macchine,  
-di materiali ed articoli vari e  
-per quanto altro occorra per i  
-servizi inerenti alla coltivazione  
-ed alla fabbricazione dei tabacchi . . . . » 5.600.000  
--------------  
-Totale . . L. 6.350.000  
-  
-  
-  
-  
-Il presente decreto sara' comunicato alle Assemblee legislative unitamente al rendiconto consuntivo dell'Amministrazione dei monopoli di Stato per l'esercizio 1940-41.   
-  
-Ordiniamo che il presente derceto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 14 giugno 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 30 giugno 1941-X1X   
-  
-Atti del Governo, registro 434, foglio 116. - Mancini   
+Cap. n. 13. - Spese di ufficio e di
+materiali di ufficio, di illuminazione
+e riscaldamento -Spese postali,
+telegrafiche e telefoniche - Spese
+per stampati ed affini - Acquisto
+di libri - Abbonamenti a giornali
+e pubblicazioni periodiche -
+(Servizi centrali e provinciali) . . . . . . L. 750.000
+Cap. n. 27. - Spese per acquisto,
+nolo e riparazione di macchine,
+di materiali ed articoli vari e
+per quanto altro occorra per i
+servizi inerenti alla coltivazione
+ed alla fabbricazione dei tabacchi . . . . » 5.600.000
+ -------------
+ Totale . . L. 6.350.000
+
+
+ 
+ 
+ Il presente decreto sara' comunicato alle Assemblee legislative unitamente al rendiconto consuntivo dell'Amministrazione dei monopoli di Stato per l'esercizio 1940-41. 
+ 
+ Ordiniamo che il presente derceto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 14 giugno 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 30 giugno 1941-X1X 
+ 
+ Atti del Governo, registro 434, foglio 116. - Mancini

@@ -1,21 +1,17 @@
-REGIO DECRETO 26 febbraio 1903 n. LXXXII
+---
+tipo: REGIO DECRETO
+numero: LXXXII
+data: 1903-02-26
+titolo: "Che approva il nuovo statuto del monte di pieta' di Fara Sabina. (0300082R)"
+urn: urn:nir:stato:regio.decreto:1903-02-26;82
+codice_redazionale: 0300082R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 febbraio 1903 n. LXXXII
-========================================
-
-Che approva il nuovo statuto del monte di pieta' di Fara Sabina. (0300082R)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/04/1903
-
-Art. 1
-------
-
-  
-Che approva il nuovo statuto del monte di pieta' di Fara Sabina. - Firmato VITTORIO EMANUELE - Controfirmati G. Baccelli - Giolitti - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 31 marzo 1903.   
-  
-Reg. 9. Atti del Governo a f. 10.   
-  
+Che approva il nuovo statuto del monte di pieta' di Fara Sabina. - Firmato VITTORIO EMANUELE - Controfirmati G. Baccelli - Giolitti - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 31 marzo 1903. 
+ 
+ Reg. 9. Atti del Governo a f. 10.

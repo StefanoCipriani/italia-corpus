@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 06 settembre 1917 n. 1629
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1629
+data: 1917-09-06
+titolo: "Trasformazione di fine patrimoniale. (017U1629)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-09-06;1629
+codice_redazionale: 017U1629
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 06 settembre 1917 n. 1629
-=================================================
-
-Trasformazione di fine patrimoniale. (017U1629)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/11/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1629. Decreto Luogotenenziale 6 settembre 1917, col quale, sulla proposta del ministro dell'interno, il fine inerente al patrimonio del legato Moles in Barletta e' trasformato a favore del locale Ospedale Principe Umberto, al quale il patrimonio stesso e' devoluto.
+1629.
+
+Decreto Luogotenenziale 6 settembre 1917, col quale, sulla proposta del ministro dell'interno, il fine inerente al patrimonio del legato Moles in Barletta e' trasformato a favore del locale Ospedale Principe Umberto, al quale il patrimonio stesso e' devoluto.

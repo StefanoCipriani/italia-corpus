@@ -1,16 +1,14 @@
-REGIO DECRETO 16 ottobre 1864 n. 1972
-
-
-REGIO DECRETO 16 ottobre 1864 n. 1972
-=====================================
-
-Col quale sono delegate ai Prefetti alcune attribuzioni in materia forestale. (064U1972)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/11/1864
+---
+tipo: REGIO DECRETO
+numero: 1972
+data: 1864-10-16
+titolo: "Col quale sono delegate ai Prefetti alcune attribuzioni in materia forestale. (064U1972)"
+urn: urn:nir:stato:regio.decreto:1864-10-16;1972
+codice_redazionale: 064U1972
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,48 +22,32 @@ Visto il Decreto del 14 agosto 1864, col quale furono abolite quelle due Amminis
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La facolta' di accordare il permesso di dissodamento pei terreni saldi e boscosi della estensione minore di un ettare e' demandata ai Prefetti delle singole Provincie, i quali l'accorderanno, tenuto nel debito conto le risultanze della visita della Commissione verificatrice, di cui all'art. 18 della legge forestale 21 agosto 1826 e del parere dell'Ispettore forestale. 
+ 
+ Pei terreni di estensione maggiore il permesso sara' accordato dopo l'avviso del Consiglio forestale dal Ministero d'Agricoltura, Industria e Commercio, conformemente alle Nostre Sovrane Risoluzioni.
 
-  
-  
-La facolta' di accordare il permesso di dissodamento pei terreni saldi e boscosi della estensione minore di un ettare e' demandata ai Prefetti delle singole Provincie, i quali l'accorderanno, tenuto nel debito conto le risultanze della visita della Commissione verificatrice, di cui all'art. 18 della legge forestale 21 agosto 1826 e del parere dell'Ispettore forestale.   
-  
-Pei terreni di estensione maggiore il permesso sara' accordato dopo l'avviso del Consiglio forestale dal Ministero d'Agricoltura, Industria e Commercio, conformemente alle Nostre Sovrane Risoluzioni.   
-  
+## Art. 2.
 
-Art. 2
-------
+E' parimente delegata ai Prefetti la facolta' di accettare, inteso l'Agente forestale, le offerte di transazione nei giudizi forestali, quando la pena pecuniaria incorsa non oltrepassi le lire 300.
 
-  
-  
-E' parimente delegata ai Prefetti la facolta' di accettare, inteso l'Agente forestale, le offerte di transazione nei giudizi forestali, quando la pena pecuniaria incorsa non oltrepassi le lire 300.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il presente Decreto sara' sottoposto al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 16 ottobre 1864.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 27 ottobre 1864   
-  
-Reg ° 31 Atti del Governo a c. 108. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-Torelli.   
-  
-  
+Il presente Decreto sara' sottoposto al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 16 ottobre 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 ottobre 1864 
+ 
+ Reg ° 31 Atti del Governo a c. 108. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ Torelli.

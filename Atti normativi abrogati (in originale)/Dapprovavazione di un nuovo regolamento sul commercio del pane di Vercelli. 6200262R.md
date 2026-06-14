@@ -1,20 +1,17 @@
-REGIO DECRETO 05 gennaio 1862 n. CCLXII
+---
+tipo: REGIO DECRETO
+numero: CCLXII
+data: 1862-01-05
+titolo: "D'approvavazione di un nuovo regolamento sul commercio del pane di Vercelli. (6200262R)"
+urn: urn:nir:stato:regio.decreto:1862-01-05;262
+codice_redazionale: 6200262R
+vigente: true
+---
 
-
-REGIO DECRETO 05 gennaio 1862 n. CCLXII
-=======================================
-
-D'approvavazione di un nuovo regolamento sul commercio del pane di Vercelli. (6200262R)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/01/1862
-
-Art. 1
-------
+## Art. 1.
 
 Che approva un nuovo regolamento sul commercio del pane deliberato dal Municipio di Vercelli (Novara) in seduta del 23 ottobre
 
-1861. 
-  
-  
+1861.
+
 Torino 5 gennaio 1862

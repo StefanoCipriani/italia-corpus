@@ -1,16 +1,14 @@
-REGIO DECRETO 05 febbraio 1871 n. 69
-
-
-REGIO DECRETO 05 febbraio 1871 n. 69
-====================================
-
-Concernente le strade provinciali scorrenti nella Provincia di Napoli. (071U0069)
----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/03/1871
+---
+tipo: REGIO DECRETO
+numero: 69
+data: 1871-02-05
+titolo: "Concernente le strade provinciali scorrenti nella Provincia di Napoli. (071U0069)"
+urn: urn:nir:stato:regio.decreto:1871-02-05;69
+codice_redazionale: 071U0069
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,39 +28,28 @@ Visto il voto del Consiglio superiore dei Lavori Pubblici in data 31 dicembre 18
 
 Visti gli articoli 11, 13, 14, 15, 88 e 90 della Legge 20 marzo 1865 sui lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La strada della salita di Capodichino, da Ottocalli alla barriera doganale, cessa di essere provinciale e passa nel novero delle strade comunali della citta' di Napoli.
 
-  
-  
-La strada della salita di Capodichino, da Ottocalli alla barriera doganale, cessa di essere provinciale e passa nel novero delle strade comunali della citta' di Napoli.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-All'elenco delle strade provinciali di Napoli resta aggiunta, e fa passaggio nello stato in cui ora si trova, la strada gia' nazionale delle Puglie, dall'estremo dell'abitato di Napoli fino al confine colla Provincia di Caserta, sotto l'osservanza ed alle condizioni degli articoli 88 e 90 della Legge sui lavori pubblici.   
-  
-Detto passaggio a carico della Provincia si intendera' avere avuto effetto col 1° del volgente mese.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 5 febbraio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 23 febbraio 1871   
-  
-Reg. 54 Atti del Governo a c. 146. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-Castagnola.   
-  
+All'elenco delle strade provinciali di Napoli resta aggiunta, e fa passaggio nello stato in cui ora si trova, la strada gia' nazionale delle Puglie, dall'estremo dell'abitato di Napoli fino al confine colla Provincia di Caserta, sotto l'osservanza ed alle condizioni degli articoli 88 e 90 della Legge sui lavori pubblici. 
+ 
+ Detto passaggio a carico della Provincia si intendera' avere avuto effetto col 1° del volgente mese. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 5 febbraio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 23 febbraio 1871 
+ 
+ Reg. 54 Atti del Governo a c. 146. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ Castagnola.

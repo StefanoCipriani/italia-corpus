@@ -1,16 +1,14 @@
-REGIO DECRETO 15 ottobre 1876 n. 3416
-
-
-REGIO DECRETO 15 ottobre 1876 n. 3416
-=====================================
-
-Col quale i comuni di Corte, Calolzio, Cavenno, Erve, Lorentino, Monte Marengo, Rossino e Vercurago sono separati dalla sezione principale del collegio elettorale di Caprino Bergamasco e formeranno una sezione distinta dello stesso collegio colla sede in Corte. (076U3416)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/11/1876
+---
+tipo: REGIO DECRETO
+numero: 3416
+data: 1876-10-15
+titolo: "Col quale i comuni di Corte, Calolzio, Cavenno, Erve, Lorentino, Monte Marengo, Rossino e Vercurago sono separati dalla sezione principale del collegio elettorale di Caprino Bergamasco e formeranno una sezione distinta dello stesso collegio colla sede in Corte. (076U3416)"
+urn: urn:nir:stato:regio.decreto:1876-10-15;3416
+codice_redazionale: 076U3416
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Corte, Calolzio, Carenno, Erre, Lorentino, Montemarengo, Rossino e Vercurago sono separati dalla sezione principale del Collegio elettorale di Caprino Bergamasco e formeranno una sezione distinta dello stesso collegio, colla sede in Corte.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Pollenzo, addi' 15 ottobre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
-  
+I comuni di Corte, Calolzio, Carenno, Erre, Lorentino, Montemarengo, Rossino e Vercurago sono separati dalla sezione principale del Collegio elettorale di Caprino Bergamasco e formeranno una sezione distinta dello stesso collegio, colla sede in Corte. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Pollenzo, addi' 15 ottobre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

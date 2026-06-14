@@ -1,21 +1,17 @@
-REGIO DECRETO 19 aprile 1896 n. CL
+---
+tipo: REGIO DECRETO
+numero: CL
+data: 1896-04-19
+titolo: "Che erige in ente morale e concentra nella congregazione di carita' di Brondello (Cuneo) il pio legato Rinaudo. (9600150R)"
+urn: urn:nir:stato:regio.decreto:1896-04-19;150
+codice_redazionale: 9600150R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 aprile 1896 n. CL
-==================================
-
-Che erige in ente morale e concentra nella congregazione di carita' di Brondello (Cuneo) il pio legato Rinaudo. (9600150R)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1896
-
-Art. 1
-------
-
-  
-Che erige in ente morale e concentra nella congregazione di carita' di Brondello (Cuneo) il pio legato Rinaudo. Firmato UMBERTO - Contrassegnato Rudini' - G. Costa.   
-  
-Registrato alla Corte dei Conti addi' 4 maggio 1896.   
-  
-Reg. 205. Atti del Governo a f. 179.   
-  
+Che erige in ente morale e concentra nella congregazione di carita' di Brondello (Cuneo) il pio legato Rinaudo. Firmato UMBERTO - Contrassegnato Rudini' - G. Costa. 
+ 
+ Registrato alla Corte dei Conti addi' 4 maggio 1896. 
+ 
+ Reg. 205. Atti del Governo a f. 179.

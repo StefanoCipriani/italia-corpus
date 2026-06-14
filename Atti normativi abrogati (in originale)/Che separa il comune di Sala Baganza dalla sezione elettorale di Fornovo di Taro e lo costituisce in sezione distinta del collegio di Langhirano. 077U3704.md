@@ -1,16 +1,14 @@
-REGIO DECRETO 04 marzo 1877 n. 3704
-
-
-REGIO DECRETO 04 marzo 1877 n. 3704
-===================================
-
-Che separa il comune di Sala Baganza dalla sezione elettorale di Fornovo di Taro e lo costituisce in sezione distinta del collegio di Langhirano. (077U3704)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/03/1877
+---
+tipo: REGIO DECRETO
+numero: 3704
+data: 1877-03-04
+titolo: "Che separa il comune di Sala Baganza dalla sezione elettorale di Fornovo di Taro e lo costituisce in sezione distinta del collegio di Langhirano. (077U3704)"
+urn: urn:nir:stato:regio.decreto:1877-03-04;3704
+codice_redazionale: 077U3704
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Sala Baganza e' separato dalla sezione elettorale di Fornovo di Taro e formera' una sezione distinta del Collegio di Langhirano n. 311.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 marzo 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il comune di Sala Baganza e' separato dalla sezione elettorale di Fornovo di Taro e formera' una sezione distinta del Collegio di Langhirano n. 311. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 marzo 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

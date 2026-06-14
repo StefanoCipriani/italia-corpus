@@ -1,19 +1,15 @@
-REGIO DECRETO 22 novembre 1914 n. 1334
+---
+tipo: REGIO DECRETO
+numero: 1334
+data: 1914-11-22
+titolo: "Erezione in Ente morale e approvazione di statuto (014U1334)"
+urn: urn:nir:stato:regio.decreto:1914-11-22;1334
+codice_redazionale: 014U1334
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 novembre 1914 n. 1334
-======================================
-
-Erezione in Ente morale e approvazione di statuto (014U1334)
-------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/12/1914
-
-Art. 1
-------
-
-  
-N. 1334   
-  
-Regio Decreto 22 novembre 1914, col quale, sulla proposta del ministro dell'interno, l'opera pia dotale «Pietro Malenchini», con sede in Livorno, e' eretta in ente morale, sotto l'amministrazione della Congregazione di carita', e ne e' approvato lo statuto organico.   
-  
+N. 1334 
+ 
+ Regio Decreto 22 novembre 1914, col quale, sulla proposta del ministro dell'interno, l'opera pia dotale «Pietro Malenchini», con sede in Livorno, e' eretta in ente morale, sotto l'amministrazione della Congregazione di carita', e ne e' approvato lo statuto organico.

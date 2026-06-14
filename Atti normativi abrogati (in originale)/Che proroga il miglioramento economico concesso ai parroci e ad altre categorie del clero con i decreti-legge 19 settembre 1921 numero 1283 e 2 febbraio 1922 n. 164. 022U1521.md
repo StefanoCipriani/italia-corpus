@@ -1,22 +1,20 @@
-REGIO DECRETO-LEGGE 15 novembre 1922 n. 1521
-
-
-REGIO DECRETO-LEGGE 15 novembre 1922 n. 1521
-============================================
-
-Che proroga il miglioramento economico concesso ai parroci e ad altre categorie del clero con i decreti-legge 19 settembre 1921, numero 1283 e 2 febbraio 1922, n. 164. (022U1521)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/12/1922 Regio Decreto-Legge convertito dalla [L. 17 aprile 1925, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473) (in G.U. 05/05/1925, n. 104).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1521
+data: 1922-11-15
+titolo: "Che proroga il miglioramento economico concesso ai parroci e ad altre categorie del clero con i decreti-legge 19 settembre 1921, numero 1283 e 2 febbraio 1922, n. 164. (022U1521)"
+urn: urn:nir:stato:regio.decreto.legge:1922-11-15;1521
+codice_redazionale: 022U1521
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduti i [decreti-legge 19 settembre 1921, n. 1283, e 2 febbraio 1922, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1922-02-02;164), coi quali fu concesso un miglioramento economico ai parroci e ad altre categorie del clero per i due esercizi 1920-921 e 1921-922;
+Veduti i [decreti-legge 19 settembre 1921, n. 1283, e 2 febbraio 1922, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1922-02-02;164), coi quali fu concesso un miglioramento economico ai parroci e ad altre categorie del clero per i due esercizi 1920-921 e 1921-922;
 
 Ritenuto che il primo decreto 19 settembre 1921 fu presentato alla Camera dei deputati nella seduta del 25 novembre 1921 per essere convertito in legge (doc. 959) e nel 14 luglio 1922 fu proposto al relativo disegno un emendamento diretto a prorogare la concessione per un altro esercizio ossia fino al giugno 1923;
 
@@ -26,33 +24,22 @@ Ritenuta la indilazionabile necessita' di affrettare il provvedimento, poiche' g
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del guardasigilli, ministro segretario di Stato per la giustizia e gli affari di culto, di concerto col ministro del tesoro; Abbiamo decretato e decretiamo:
 
-proposta del guardasigilli, ministro segretario di Stato per la giustizia e gli affari di culto, di concerto col ministro del tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il miglioramento economico concesso ai parroci e ad altre categorie del clero con i [decreti-legge 19 settembre 1921, n. 1283, e 2 febbraio 1922, n. 164](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1922-02-02;164), e' prorogato fino a tutto l'esercizio 1922-923.
 
-  
-  
-Il miglioramento economico concesso ai parroci e ad altre categorie del clero con i [decreti-legge 19 settembre 1921, n. 1283, e 2 febbraio 1922, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1922-02-02;164), e' prorogato fino a tutto l'esercizio 1922-923.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 15 novembre 1922.   
-  
-VITTORIO EMANUELE.   
-  
-MUSSOLINI - OVIGLIO - TANGORRA.   
-  
-Visto, il guardasigilli: OVIGLIO.   
-  
+Il presente decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 15 novembre 1922. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ MUSSOLINI - OVIGLIO - TANGORRA. 
+ 
+ Visto, il guardasigilli: OVIGLIO.

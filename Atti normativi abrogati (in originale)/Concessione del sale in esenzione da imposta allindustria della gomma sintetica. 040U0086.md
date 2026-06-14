@@ -1,16 +1,14 @@
-REGIO DECRETO 25 gennaio 1940 n. 86
-
-
-REGIO DECRETO 25 gennaio 1940 n. 86
-===================================
-
-Concessione del sale in esenzione da imposta all'industria della gomma sintetica. (040U0086)
---------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/03/1940
+---
+tipo: REGIO DECRETO
+numero: 86
+data: 1940-01-25
+titolo: "Concessione del sale in esenzione da imposta all'industria della gomma sintetica. (040U0086)"
+urn: urn:nir:stato:regio.decreto:1940-01-25;86
+codice_redazionale: 040U0086
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,28 +24,22 @@ Sentito il Consiglio di amministrazione dei monopoli di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposto del Nostro Ministro Segretario di Stato per le finanze, di concerto con il Ministro Segretario di Stato per le corporazioni; Abbiamo decretato e decretiamo:
 
-proposto del Nostro Ministro Segretario di Stato per le finanze, di concerto con il Ministro Segretario di Stato per le corporazioni; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-All'industria per la produzione della gomma sintetica e' concesso, per il quinquennio 1940-44, il beneficio, previsto dall'art. 23 della legge organica sul monopolio dei sali e dei tabacchi 21 gennaio 1929-VII, n. 97, dell'acquisto del sale in esenzione da imposta.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 gennaio 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL - RICCI   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte del conti, addi' 2 marzo 1940-XVIII   
-  
-Atti del Governo, registro 419, foglio 10. - MANCINI   
+All'industria per la produzione della gomma sintetica e' concesso, per il quinquennio 1940-44, il beneficio, previsto dall'art. 23 della legge organica sul monopolio dei sali e dei tabacchi 21 gennaio 1929-VII, n. 97, dell'acquisto del sale in esenzione da imposta. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 gennaio 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL - RICCI 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte del conti, addi' 2 marzo 1940-XVIII 
+ 
+ Atti del Governo, registro 419, foglio 10. - MANCINI

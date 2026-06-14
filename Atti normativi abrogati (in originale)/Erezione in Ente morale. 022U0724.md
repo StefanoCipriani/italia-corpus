@@ -1,17 +1,13 @@
-REGIO DECRETO 14 maggio 1922 n. 724
+---
+tipo: REGIO DECRETO
+numero: 724
+data: 1922-05-14
+titolo: "Erezione in Ente morale. (022U0724)"
+urn: urn:nir:stato:regio.decreto:1922-05-14;724
+codice_redazionale: 022U0724
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 14 maggio 1922 n. 724
-===================================
-
-Erezione in Ente morale. (022U0724)
------------------------------------
-
-Entrata in vigore del provvedimento: 30/06/1922
-
-Art. 1
-------
-
-  
-N.724.Regio decreto 14 maggio 1922, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il legato Contoli di Imola, viene eretto in Ente morale sotto l'Amministrazione della Congregazione di carita' locale e ne e' approvato lo statuto organico.   
-  
+N.724.Regio decreto 14 maggio 1922, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il legato Contoli di Imola, viene eretto in Ente morale sotto l'Amministrazione della Congregazione di carita' locale e ne e' approvato lo statuto organico.

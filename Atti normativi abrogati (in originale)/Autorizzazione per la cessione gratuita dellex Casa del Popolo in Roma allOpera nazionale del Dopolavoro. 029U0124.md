@@ -1,17 +1,14 @@
-REGIO DECRETO-LEGGE 24 gennaio 1929 n. 124
-
-
-REGIO DECRETO-LEGGE 24 gennaio 1929 n. 124
-==========================================
-
-Autorizzazione per la cessione gratuita dell'ex «Casa del Popolo» in Roma all'Opera nazionale del Dopolavoro. (029U0124)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/03/1929.  
-Regio Decreto-Legge convertito dalla [L. 20 giugno 1929, n. 1050](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-20;1050) (in G.U. 03/07/1929, n. 153).
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 124
+data: 1929-01-24
+titolo: "Autorizzazione per la cessione gratuita dell'ex «Casa del Popolo» in Roma all'Opera nazionale del Dopolavoro. (029U0124)"
+urn: urn:nir:stato:regio.decreto.legge:1929-01-24;124
+codice_redazionale: 029U0124
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -25,37 +22,30 @@ Vista la istanza del Commissario straordinario dell'Opera nazionale Dopolavoro i
 
 Ritenuta la necessita' assoluta ed urgente di provvedere al passaggio in proprieta' del detto immobile dallo Stato all'Opera nazionale Dopolavoro;
 
-Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100~art3-num2);
+Visto l'[art. 3, n. 2, della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Governo del Re e' autorizzato a cedere gratuitamente all'Opera nazionale del Dopolavoro il fabbricato con annesso terreno ex «Casa del Popolo» sito in Roma, via Capo d'Africa.   
-  
-La detta cessione sara' esente da qualsiasi tassa e spesa.   
-  
-Il presente decreto sara' presentato al Parlamento per la conversione in legge e il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 gennaio 1929 - Anno VII   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 13 febbraio 1929 - Anno VII   
-  
-Atti del Governo, registro 281, foglio 121. - Sirovich.   
-  
+Il Governo del Re e' autorizzato a cedere gratuitamente all'Opera nazionale del Dopolavoro il fabbricato con annesso terreno ex «Casa del Popolo» sito in Roma, via Capo d'Africa. 
+ 
+ La detta cessione sara' esente da qualsiasi tassa e spesa. 
+ 
+ Il presente decreto sara' presentato al Parlamento per la conversione in legge e il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 gennaio 1929 - Anno VII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 13 febbraio 1929 - Anno VII 
+ 
+ Atti del Governo, registro 281, foglio 121. - Sirovich.

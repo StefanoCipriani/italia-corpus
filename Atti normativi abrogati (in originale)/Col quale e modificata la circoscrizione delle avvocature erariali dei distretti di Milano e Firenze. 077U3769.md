@@ -1,16 +1,14 @@
-REGIO DECRETO 15 marzo 1877 n. 3769
-
-
-REGIO DECRETO 15 marzo 1877 n. 3769
-===================================
-
-Col quale e' modificata la circoscrizione delle avvocature erariali dei distretti di Milano e Firenze. (077U3769)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/05/1877
+---
+tipo: REGIO DECRETO
+numero: 3769
+data: 1877-03-15
+titolo: "Col quale e' modificata la circoscrizione delle avvocature erariali dei distretti di Milano e Firenze. (077U3769)"
+urn: urn:nir:stato:regio.decreto:1877-03-15;3769
+codice_redazionale: 077U3769
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,24 +20,17 @@ Sentito il Consiglio di Stato;
 
 Sulla proposizione del Presidente del Consiglio dei Ministri, Ministro delle Finanze, e del Ministro di Grazia e Giustizia;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo ordinato ed ordiniamo quanto segue:
 
-il Consiglio dei Ministri; Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le provincie di Modena e di Reggio Emilia, ora comprese nella circoscrizione del distretto della Regia Avvocatura erariale di Milano, faranno invece parte del distretto della Regia Avvocatura erariale di Firenze.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 15 marzo 1877.   
-  
-VITTORIO EMANUELE.   
-  
-Depretis.   
-Mancini.   
-  
+Le provincie di Modena e di Reggio Emilia, ora comprese nella circoscrizione del distretto della Regia Avvocatura erariale di Milano, faranno invece parte del distretto della Regia Avvocatura erariale di Firenze. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 15 marzo 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Depretis. 
+ Mancini.

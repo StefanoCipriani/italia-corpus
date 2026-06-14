@@ -1,21 +1,21 @@
-REGIO DECRETO 07 dicembre 1939 n. 2034
+---
+tipo: REGIO DECRETO
+numero: 2034
+data: 1939-12-07
+titolo: "Modificazioni all'art. 16 dello statuto organico del Regio collegio Ghislieri in Pavia. (039U2034)"
+urn: urn:nir:stato:regio.decreto:1939-12-07;2034
+codice_redazionale: 039U2034
+vigente: true
+---
 
-
-REGIO DECRETO 07 dicembre 1939 n. 2034
-======================================
-
-Modificazioni all'art. 16 dello statuto organico del Regio collegio Ghislieri in Pavia. (039U2034)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/02/1940
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2034. R. decreto 7 dicembre 1939, col quale, sulla proposta del Ministro per l'educazione nazionale, vengono apportate modificazioni all'art. 16 dello statuto organico del Regio collegio Ghislieri in Pavia.   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 14 gennaio 1940-XVIII
+2034.
+
+R. decreto 7 dicembre 1939, col quale, sulla proposta del Ministro per l'educazione nazionale, vengono apportate modificazioni all'art. 16 dello statuto organico del Regio collegio Ghislieri in Pavia. 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 14 gennaio 1940-XVIII

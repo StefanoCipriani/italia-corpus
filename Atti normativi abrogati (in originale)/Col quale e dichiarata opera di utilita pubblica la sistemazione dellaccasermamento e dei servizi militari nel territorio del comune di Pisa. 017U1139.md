@@ -1,38 +1,27 @@
-DECRETO LUOGOTENENZIALE 24 giugno 1917 n. 1139
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1139
+data: 1917-06-24
+titolo: "Col quale e' dichiarata opera di utilita' pubblica la sistemazione dell'accasermamento e dei servizi militari nel territorio del comune di Pisa. (017U1139)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-06-24;1139
+codice_redazionale: 017U1139
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 24 giugno 1917 n. 1139
-==============================================
+E' dichiarata opera di pubblica utilita' la sistemazione dell'accasermamento e dei servizi militari nel territorio del comune di Pisa.
 
-Col quale e' dichiarata opera di utilita' pubblica la sistemazione dell'accasermamento e dei servizi militari nel territorio del comune di Pisa. (017U1139)
------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 12/08/1917
-
-Art. 1
-------
-
-  
-  
-  
-E' dichiarata opera di pubblica utilita' la sistemazione dell'accasermamento e dei servizi militari nel territorio del comune di Pisa.   
-  
-
-Art. 2
-------
-
-  
-  
-  
-All'espropriazione dei beni immobili e dei diritti immobiliari a tal uopo occorrenti e che saranno designati dal predetto ministro verra' provveduto a norma delle citate leggi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 giugno 1917.   
-  
-TOMASO DI SAVOIA.   
-  
-Dallolio.   
-  
-Visto, Il guardasigilli: Sacchi.   
-  
+All'espropriazione dei beni immobili e dei diritti immobiliari a tal uopo occorrenti e che saranno designati dal predetto ministro verra' provveduto a norma delle citate leggi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 giugno 1917. 
+ 
+ TOMASO DI SAVOIA. 
+ 
+ Dallolio. 
+ 
+ Visto, Il guardasigilli: Sacchi.

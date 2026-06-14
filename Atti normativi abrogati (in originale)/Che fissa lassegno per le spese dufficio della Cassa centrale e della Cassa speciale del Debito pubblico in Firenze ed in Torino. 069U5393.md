@@ -1,16 +1,14 @@
-REGIO DECRETO 10 dicembre 1869 n. 5393
-
-
-REGIO DECRETO 10 dicembre 1869 n. 5393
-======================================
-
-Che fissa l'assegno per le spese d'ufficio della Cassa centrale e della Cassa speciale del Debito pubblico in Firenze ed in Torino. (069U5393)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/01/1870
+---
+tipo: REGIO DECRETO
+numero: 5393
+data: 1869-12-10
+titolo: "Che fissa l'assegno per le spese d'ufficio della Cassa centrale e della Cassa speciale del Debito pubblico in Firenze ed in Torino. (069U5393)"
+urn: urn:nir:stato:regio.decreto:1869-12-10;5393
+codice_redazionale: 069U5393
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Ritenuto che la Banca nazionale nel Regno d' Italia ha denunziata la cessazione 
 
 Occorrendo di stabilire gli assegni per le spese d'ufficio della Cassa centrale del Debito pubblico in Firenze, e della Cassa speciale del Debito pubblico in Torino, in corrispondenza ai bisogni del servizio creato dalle nuove circostante come sopra intervenute;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A cominciare dal 1° gennaio 1870 l'assegno per le spese d'ufficio della Cassa centrale del Debito pubblico in Firenze e' fissato in lire 16,000, e quello della Cassa speciale del Debito pubblico in Torino e' fissato in lire 20,000.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 10 dicembre 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 18 dicembre 1869   
-  
-Reg. 49 Atti del Governo a c. 117. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Vigliani.   
-  
-L. G. Cambray Digny.   
-  
+A cominciare dal 1° gennaio 1870 l'assegno per le spese d'ufficio della Cassa centrale del Debito pubblico in Firenze e' fissato in lire 16,000, e quello della Cassa speciale del Debito pubblico in Torino e' fissato in lire 20,000. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 10 dicembre 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 18 dicembre 1869 
+ 
+ Reg. 49 Atti del Governo a c. 117. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Vigliani. 
+ 
+ L. G. Cambray Digny.

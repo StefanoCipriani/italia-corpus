@@ -1,22 +1,20 @@
-REGIO DECRETO 02 agosto 1935 n. 1561
-
-
-REGIO DECRETO 02 agosto 1935 n. 1561
-====================================
-
-Proroga dei poteri affidati al presidente dell'Istituto nazionale fascista della previdenza sociale. (035U1561)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/09/1935
+---
+tipo: REGIO DECRETO
+numero: 1561
+data: 1935-08-02
+titolo: "Proroga dei poteri affidati al presidente dell'Istituto nazionale fascista della previdenza sociale. (035U1561)"
+urn: urn:nir:stato:regio.decreto:1935-08-02;1561
+codice_redazionale: 035U1561
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'[art. 6 del R. decreto-legge 27 marzo 1933, n. 371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-27;371~art6), convertito nella legge 3 gennaio 1934-XII, n. 166,
+Veduto l'[art. 6 del R. decreto-legge 27 marzo 1933, n. 371](Coordinamento%20degli%20organi%20amministrativi%20della%20Cassa%20nazionale%20per%20le%20assicurazioni%20sociali%20che%20assume%20la%20denominazione%20di%20Istituto%20nazionale%20fascista%20della%20previdenza%20sociale.%20033U0371.md), convertito nella legge 3 gennaio 1934-XII, n. 166,
 
 Veduto il R. decreto 31 gennaio 1935-XIII, n. 49, col quale l'on.
 
@@ -26,41 +24,29 @@ Ritenuta la necessita' di prorogare, per altri tre mesi, il conferimento dei pot
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per le corporazioni, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per le corporazioni, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo
+## Art. 1.
 
-Art. 1
-------
+Sono prorogati di mesi tre - a decorrere dal 31 luglio 1935-XIII - i poteri del Consiglio d'amministrazione, del Comitato esecutivo e dei Comitati speciali dell'Istituto nazionale fascista della previdenza sociale, gia' conferiti, col R. decreto 18 gennaio 1934 XII, n. 59, e prorogati, successivamente, col R. decreto 20 luglio 1934-XII, n. 1313, e col R. decreto 31 gennaio 1935-XIII, n. 49, nella persona del presidente dell'Istituto medesimo.
 
-  
-  
-Sono prorogati di mesi tre - a decorrere dal 31 luglio 1935-XIII - i poteri del Consiglio d'amministrazione, del Comitato esecutivo e dei Comitati speciali dell'Istituto nazionale fascista della previdenza sociale, gia' conferiti, col R. decreto 18 gennaio 1934 XII, n. 59, e prorogati, successivamente, col R. decreto 20 luglio 1934-XII, n. 1313, e col R. decreto 31 gennaio 1935-XIII, n. 49, nella persona del presidente dell'Istituto medesimo.   
+## Art. 2.
 
-Art. 2
-------
+Durante il periodo di applicazione del precedente articolo il presidente continuera' ad essere coadiuvato dai funzionari rappresentanti dei Ministeri delle corporazioni e delle finanze, di cui all'[art. 15 del R. decreto 30 dicembre 1923, n. 3184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184#art_15), modificato col sopracitato [R. decreto-legge 27 marzo 1933, n. 371](Coordinamento%20degli%20organi%20amministrativi%20della%20Cassa%20nazionale%20per%20le%20assicurazioni%20sociali%20che%20assume%20la%20denominazione%20di%20Istituto%20nazionale%20fascista%20della%20previdenza%20sociale.%20033U0371.md).
 
-  
-  
-Durante il periodo di applicazione del precedente articolo il presidente continuera' ad essere coadiuvato dai funzionari rappresentanti dei Ministeri delle corporazioni e delle finanze, di cui all'[art. 15 del R. decreto 30 dicembre 1923, n. 3184](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3184~art15), modificato col sopracitato [R. decreto-legge 27 marzo 1933, n. 371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-03-27;371).   
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Il collegio dei sindaci continuera' ad esercitare le proprie funzioni durante lo stesso periodo di applicazione dell'art. 1 del presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a S. Anna di Valdieri, addi' 2 agosto 1935 - Anno XIII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 30 agosto 1935 - Anno XIII   
-Atti del Governo, registro 363, foglio 150. - Mancini.   
+Il collegio dei sindaci continuera' ad esercitare le proprie funzioni durante lo stesso periodo di applicazione dell'art. 1 del presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Anna di Valdieri, addi' 2 agosto 1935 - Anno XIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 30 agosto 1935 - Anno XIII  
+ Atti del Governo, registro 363, foglio 150. - Mancini.

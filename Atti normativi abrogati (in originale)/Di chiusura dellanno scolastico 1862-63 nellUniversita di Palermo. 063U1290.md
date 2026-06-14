@@ -1,16 +1,14 @@
-REGIO DECRETO 08 giugno 1863 n. 1290
-
-
-REGIO DECRETO 08 giugno 1863 n. 1290
-====================================
-
-Di chiusura dell'anno scolastico 1862-63 nell'Universita' di Palermo. (063U1290)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/06/1863
+---
+tipo: REGIO DECRETO
+numero: 1290
+data: 1863-06-08
+titolo: "Di chiusura dell'anno scolastico 1862-63 nell'Universita' di Palermo. (063U1290)"
+urn: urn:nir:stato:regio.decreto:1863-06-08;1290
+codice_redazionale: 063U1290
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,36 +24,24 @@ Considerando che ove si continuasse l'insegnamento sarebbero da temere nuovi e p
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il corso dell'anno scolastico 1862-63 nell'Universita' di Palermo e' chiuso.
 
-  
-  
-Il corso dell'anno scolastico 1862-63 nell'Universita' di Palermo e' chiuso.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-La sessione degli esami per il corrente anno scolastico e' sospesa.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 8 giugno 1863.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 11 giugno 1863   
-Reg.° 24 Atti del Governo a c. 13. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI.   
-  
-M. AMARI.   
-  
-  
+La sessione degli esami per il corrente anno scolastico e' sospesa. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 8 giugno 1863. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 11 giugno 1863 
+ Reg.° 24 Atti del Governo a c. 13. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI. 
+ 
+ M. AMARI.

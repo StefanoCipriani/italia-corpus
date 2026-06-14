@@ -1,22 +1,20 @@
-REGIO DECRETO 30 maggio 1927 n. 863
-
-
-REGIO DECRETO 30 maggio 1927 n. 863
-===================================
-
-Annullamento, nei riguardi delle Societa' per le forze idrauliche della Sila e Meridionale di elettricita', delle disposizioni contenute nei Regi decreti 31 maggio 1923, n. 1341, e 28 novembre 1926, n. 2200. (027U0863)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/06/1927
+---
+tipo: REGIO DECRETO
+numero: 863
+data: 1927-05-30
+titolo: "Annullamento, nei riguardi delle Societa' per le forze idrauliche della Sila e Meridionale di elettricita', delle disposizioni contenute nei Regi decreti 31 maggio 1923, n. 1341, e 28 novembre 1926, n. 2200. (027U0863)"
+urn: urn:nir:stato:regio.decreto:1927-05-30;863
+codice_redazionale: 027U0863
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti i [Regi decreti 31 maggio 1923, n. 1341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-05-31;1341), e [28 novembre 1926, n. 2200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-11-28;2200), con i quali furono rispettivamente approvate le convenzioni 9 marzo 1923 per sessantacinque milioni e 14 settembre 1926 per novantacinque milioni di lire di mutui concessi alle Societa' per le forze idrauliche della Sila, Meridionale di elettricita' e Generale elettrica della Sicilia in base alla [legge 20 agosto 1921, n. 1177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-08-20;1177);
+Visti i [Regi decreti 31 maggio 1923, n. 1341](Convenzione%20per%20la%20concessione%20di%20un%20mutuo%20alle%20Societa%20della%20Sila%20Meridionale%20di%20Elettricita%20e%20Generale%20Elettrica%20della%20Sicilia%20per%20la%20costruzione%20di%20impianti%20idroelettrici%20nel%20Mezzogior_bd0040e5def9.md), e [28 novembre 1926, n. 2200](Approvazione%20della%20convenzione%20per%20la%20concessione%20di%20una%20seconda%20quota%20di%20mutuo%20alle%20Societa%20per%20le%20forze%20idrauliche%20della%20Sila%20Meridionale%20di%20elettricita%20e%20Generale%20elettrica%20della%20Sicil_87d234ec560c.md), con i quali furono rispettivamente approvate le convenzioni 9 marzo 1923 per sessantacinque milioni e 14 settembre 1926 per novantacinque milioni di lire di mutui concessi alle Societa' per le forze idrauliche della Sila, Meridionale di elettricita' e Generale elettrica della Sicilia in base alla [legge 20 agosto 1921, n. 1177](Che%20reca%20provvedimenti%20contro%20la%20disoccupazione.%20021U1177.md);
 
 Visto il decreto Ministeriale 8 febbraio 1927, col quale la Societa' meridionale di elettricita' e' stata autorizzata a contrarre un prestito estero;
 
@@ -26,39 +24,26 @@ Ritenuto che gli enti finanziatori interessati di cui alle cennate convenzioni, 
 
 Considerato che la Societa' per le forze idrauliche della Sila e la Societa' meridionale di elettricita' hanno depositato per il rimborso ai predetti enti finanziatori con vincolo a favore dello Stato garante degli enti stessi, le somme percepite in dipendenza della convenzione 9 marzo 1923, ed hanno formalmente rinunciato a servirsi del mutuo di cui alla convenzione 14 settembre 1926;
 
-Sulla
------
+Sulla conforme proposta del Ministro per le finanze, di concerto con quello per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-conforme proposta del Ministro per le finanze, di concerto con quello per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Art. 1. — null
 
-Art. 1
-------
+E' dichiarata cessata la responsabilita' solidale delle predette Societa' fra loro e con la Societa' generale elettrica della Sicilia.
 
-null
+## Art. 2.
 
-  
-  
-E' dichiarata cessata la responsabilita' solidale delle predette Societa' fra loro e con la Societa' generale elettrica della Sicilia.   
-  
-
-Art. 2
-------
-
-  
-  
-Il Ministro per le finanze, di concerto con quello per i lavori pubblici, e' autorizzato a provvedere per tutto quanto concerne l'esecuzione del presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 30 maggio 1927 - Anno V.   
-  
-VITTORIO EMANUELE.   
-  
-Volpi - Giuriati.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 10 giugno 1927 - Anno V   
-  
-Atti del Governo, registro 261, foglio 38. - Ferretti.   
-  
+Il Ministro per le finanze, di concerto con quello per i lavori pubblici, e' autorizzato a provvedere per tutto quanto concerne l'esecuzione del presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 30 maggio 1927 - Anno V. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Volpi - Giuriati. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 10 giugno 1927 - Anno V 
+ 
+ Atti del Governo, registro 261, foglio 38. - Ferretti.

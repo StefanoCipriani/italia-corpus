@@ -1,16 +1,14 @@
-REGIO DECRETO 23 dicembre 1871 n. 597
-
-
-REGIO DECRETO 23 dicembre 1871 n. 597
-=====================================
-
-Col quale il Comune di Ostiano costituira' una Sezione del Collegio elettorale di Asola, n. 74. (071U0597)
-----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/01/1872
+---
+tipo: REGIO DECRETO
+numero: 597
+data: 1871-12-23
+titolo: "Col quale il Comune di Ostiano costituira' una Sezione del Collegio elettorale di Asola, n. 74. (071U0597)"
+urn: urn:nir:stato:regio.decreto:1871-12-23;597
+codice_redazionale: 071U0597
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Ostiano costituira' d'ora in poi una Sezione del Collegio elettorale di Asola, n. 74, con sede nel capoluogo del Comune stesso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 23 dicembre 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 4 gennaio 1872   
-  
-Reg. 58 Atti del Governo a c. 140. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco   
-  
-G. Lanza.   
-  
+Il Comune di Ostiano costituira' d'ora in poi una Sezione del Collegio elettorale di Asola, n. 74, con sede nel capoluogo del Comune stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 23 dicembre 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 4 gennaio 1872 
+ 
+ Reg. 58 Atti del Governo a c. 140. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco 
+ 
+ G. Lanza.

@@ -1,16 +1,14 @@
-REGIO DECRETO 24 agosto 1872 n. 987
-
-
-REGIO DECRETO 24 agosto 1872 n. 987
-===================================
-
-Col quale e' estesa la facolta' di concorrere ai posti del Collegio Carlo Alberto agli studenti di chimica farmaceutica. (072U0987)
------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/10/1872
+---
+tipo: REGIO DECRETO
+numero: 987
+data: 1872-08-24
+titolo: "Col quale e' estesa la facolta' di concorrere ai posti del Collegio Carlo Alberto agli studenti di chimica farmaceutica. (072U0987)"
+urn: urn:nir:stato:regio.decreto:1872-08-24;987
+codice_redazionale: 072U0987
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,24 +30,16 @@ Ritenuto che lo scopo della istituzione dei posti gratuiti nel Collegio Carlo Al
 
 Sentito il parere del Consiglio Superiore di Pubblica Istruzione;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La facolta' di concorrere ai posti del Collegio Carlo Alberto per gli studenti delle provincie in Torino e' estesa agli studenti di chimica farmaceutica, sempre che si uniformino alle condizioni stabilite dalla legge 3 agosto 1857, e dal regolamento 10 maggio 1858, superiormente citati.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 24 agosto 1872.   
-  
-VITTORIO EMANUELE.   
-  
-A. Scialoja.   
-  
-  
+La facolta' di concorrere ai posti del Collegio Carlo Alberto per gli studenti delle provincie in Torino e' estesa agli studenti di chimica farmaceutica, sempre che si uniformino alle condizioni stabilite dalla legge 3 agosto 1857, e dal regolamento 10 maggio 1858, superiormente citati. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 24 agosto 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ A. Scialoja.

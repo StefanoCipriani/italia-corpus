@@ -1,35 +1,25 @@
-LEGGE 27 dicembre 1952 n. 2523
-
-
-LEGGE 27 dicembre 1952 n. 2523
-==============================
-
-Determinazione territoriale di applicazione delle leggi per il Mezzogiorno.
----------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 2523
+data: 1952-12-27
+titolo: "Determinazione territoriale di applicazione delle leggi per il Mezzogiorno."
+urn: urn:nir:stato:legge:1952-12-27;2523
+codice_redazionale: 052U2523
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I benefici comunque previsti da leggi in favore del Mezzogiorno d'Italia escluse quelle che hanno specifico riferimento ad una zona particolare, si intendono, in ogni caso, estesi a tutti i territori indicati dall'[art. 3 della legge 10 agosto 1950, n. 646](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;646~art3).  
-  
+I benefici comunque previsti da leggi in favore del Mezzogiorno d'Italia escluse quelle che hanno specifico riferimento ad una zona particolare, si intendono, in ogni caso, estesi a tutti i territori indicati dall'[art. 3 della legge 10 agosto 1950, n. 646](Istituzione%20della%20Cassa%20per%20opere%20straordinarie%20di%20pubblico%20interesse%20nellItalia%20meridionale%20Cassa%20per%20il%20Mezzogiorno.md).
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 27 dicembre 1952
+Data a Roma, addi' 27 dicembre 1952
 
-EINAUDI DE GASPERI - VANONI - PELLA - FANFANI - CAMPILLI
-
-Visto, il Guardasigilli: ZOLI
+EINAUDI DE GASPERI - VANONI - PELLA - FANFANI - CAMPILLI Visto, il Guardasigilli: ZOLI

@@ -1,28 +1,26 @@
-REGIO DECRETO 12 maggio 1930 n. 676
-
-
-REGIO DECRETO 12 maggio 1930 n. 676
-===================================
-
-Modificazione al R. decreto 3 ottobre 1929, n. 1886, riguardante l'ammissione nel ruolo degli ingegneri specializzati della Direzione generale delle poste e dei telegrafi. (030U0676)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/06/1930
+---
+tipo: REGIO DECRETO
+numero: 676
+data: 1930-05-12
+titolo: "Modificazione al R. decreto 3 ottobre 1929, n. 1886, riguardante l'ammissione nel ruolo degli ingegneri specializzati della Direzione generale delle poste e dei telegrafi. (030U0676)"
+urn: urn:nir:stato:regio.decreto:1930-05-12;676
+codice_redazionale: 030U0676
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 4 del R. decreto 30 dicembre 1923, n. 2960](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960~art4);
+Visto l'[art. 4 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_4);
 
-Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100~art1);
+Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](Sulla%20facolta%20del%20potere%20esecutivo%20di%20emanare%20norme%20giuridiche.%20026U0100.md);
 
-Visti i [Regi decreti 15 agosto 1926, n. 1733](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-15;1733), e [5 gennaio 1928, n. 10](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-05;10);
+Visti i [Regi decreti 15 agosto 1926, n. 1733](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), e [5 gennaio 1928, n. 10](Modificazioni%20al%20R.%20decreto%2015%20agosto%201926%20n.%201733%20riguardante%20lordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20028U0010.md);
 
-Visto il [R. decreto 3 ottobre 1929, n. 1886](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-03;1886);
+Visto il [R. decreto 3 ottobre 1929, n. 1886](Norme%20di%20ammissione%20nel%20ruolo%20degli%20ingegneri%20specializzati%20029U1886.md);
 
 Sentito il Consiglio di amministrazione per le poste e i telegrafi;
 
@@ -30,31 +28,24 @@ Sentito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il primo comma dell'articolo unico del [R. decreto 3 ottobre 1929, n. 1886](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-10-03;1886), e' sostituito dal seguente:   
-  
-«I posti attualmente vacanti nel ruolo degli ingegneri specializzati, di cui alla tabella n. 1 dell'allegato A del [R. decreto 15 agosto 1926, n. 1733](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-15;1733), possono, per non oltre la meta', essere conferiti ai sensi dell'[art. 4 del R. decreto 30 dicembre 1923, n. 2960](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960~art4), mediante concorso limitato ai soli funzionari di ruolo delle altre Amministrazioni dello Stato, muniti di laurea in ingegneria, fisica o chimica, previo consenso delle Amministrazioni interessate».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 maggio 1930 - Anno VIII   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - Ciano - Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 31 maggio 1930 - Anno VIII   
-  
-Atti del Governo, registro 296, foglio 175. - Mancini.   
-  
+Il primo comma dell'articolo unico del [R. decreto 3 ottobre 1929, n. 1886](Norme%20di%20ammissione%20nel%20ruolo%20degli%20ingegneri%20specializzati%20029U1886.md), e' sostituito dal seguente: 
+ 
+ «I posti attualmente vacanti nel ruolo degli ingegneri specializzati, di cui alla tabella n. 1 dell'allegato A del [R. decreto 15 agosto 1926, n. 1733](Approvazione%20dellordinamento%20del%20personale%20dellAmministrazione%20delle%20poste%20e%20dei%20telegrafi.%20026U1733.md), possono, per non oltre la meta', essere conferiti ai sensi dell'[art. 4 del R. decreto 30 dicembre 1923, n. 2960](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960#art_4), mediante concorso limitato ai soli funzionari di ruolo delle altre Amministrazioni dello Stato, muniti di laurea in ingegneria, fisica o chimica, previo consenso delle Amministrazioni interessate». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 maggio 1930 - Anno VIII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - Ciano - Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 31 maggio 1930 - Anno VIII 
+ 
+ Atti del Governo, registro 296, foglio 175. - Mancini.

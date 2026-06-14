@@ -1,19 +1,15 @@
-REGIO DECRETO 02 agosto 1912 n. 988
+---
+tipo: REGIO DECRETO
+numero: 988
+data: 1912-08-02
+titolo: "Dichiarazione di promiscuita'. (012U0988)"
+urn: urn:nir:stato:regio.decreto:1912-08-02;988
+codice_redazionale: 012U0988
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 agosto 1912 n. 988
-===================================
-
-Dichiarazione di promiscuita'. (012U0988)
------------------------------------------
-
-Entrata in vigore del provvedimento: 10/10/1912
-
-Art. 1
-------
-
-  
-N. 988   
-  
-Regio Decreto 2 agosto 1912, col quale, sulla proposta del ministro della istruzione pubblica, si dichiara promiscua, a titolo di esperimento per il solo anno scolastico 1911-912, la Regia scuola normale maschile di Lacedonia.   
-  
+N. 988 
+ 
+ Regio Decreto 2 agosto 1912, col quale, sulla proposta del ministro della istruzione pubblica, si dichiara promiscua, a titolo di esperimento per il solo anno scolastico 1911-912, la Regia scuola normale maschile di Lacedonia.

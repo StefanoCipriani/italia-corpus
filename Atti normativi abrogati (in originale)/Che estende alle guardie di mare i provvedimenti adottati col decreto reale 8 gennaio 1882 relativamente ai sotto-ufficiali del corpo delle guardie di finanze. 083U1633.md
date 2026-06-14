@@ -1,16 +1,14 @@
-REGIO DECRETO 01 ottobre 1883 n. 1633
-
-
-REGIO DECRETO 01 ottobre 1883 n. 1633
-=====================================
-
-Che estende alle guardie di mare i provvedimenti adottati col decreto reale 8 gennaio 1882, relativamente ai sotto-ufficiali del corpo delle guardie di finanze. (083U1633)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/11/1883
+---
+tipo: REGIO DECRETO
+numero: 1633
+data: 1883-10-01
+titolo: "Che estende alle guardie di mare i provvedimenti adottati col decreto reale 8 gennaio 1882, relativamente ai sotto-ufficiali del corpo delle guardie di finanze. (083U1633)"
+urn: urn:nir:stato:regio.decreto:1883-10-01;1633
+codice_redazionale: 083U1633
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,23 +22,16 @@ Udito il parere del Consiglio di Stato;
 
 Sulla proposta del Ministro delle Finanze,
 
-Udito
------
+Udito il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi 1° ottobre 1883.   
-  
-UMBERTO.   
-  
-A. MAGLIANI.   
-  
-Visto, Il Guardasigilli: SAVELLI.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi 1° ottobre 1883. 
+ 
+ UMBERTO. 
+ 
+ A. MAGLIANI. 
+ 
+ Visto, Il Guardasigilli: SAVELLI.

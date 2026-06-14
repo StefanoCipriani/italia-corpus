@@ -1,16 +1,14 @@
-REGIO DECRETO 13 aprile 1884 n. 2204
-
-
-REGIO DECRETO 13 aprile 1884 n. 2204
-====================================
-
-Che istituisce un posto di notaro nel comune di Simeri e Crichi. (084U2204)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/05/1884
+---
+tipo: REGIO DECRETO
+numero: 2204
+data: 1884-04-13
+titolo: "Che istituisce un posto di notaro nel comune di Simeri e Crichi. (084U2204)"
+urn: urn:nir:stato:regio.decreto:1884-04-13;2204
+codice_redazionale: 084U2204
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,24 +22,18 @@ Veduta la domanda fatta dal comune di Simeri e Crichi per la istituzione di un p
 
 Ritenuto che sarebbe giustificata la convenienza ed opportunita' dell'anzidetta domanda;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un posto di notaro nel comune di Simeri e Crichi, distretto del Collegio notarile di Catanzaro.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 aprile 1884.   
-  
-UMBERTO.   
-  
-N. FERRACCIU'.   
-  
-Visto, Il Guardasigilli: FERRACCIU'.   
+E' istituito un posto di notaro nel comune di Simeri e Crichi, distretto del Collegio notarile di Catanzaro. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 aprile 1884. 
+ 
+ UMBERTO. 
+ 
+ N. FERRACCIU'. 
+ 
+ Visto, Il Guardasigilli: FERRACCIU'.

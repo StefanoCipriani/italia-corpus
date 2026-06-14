@@ -1,21 +1,17 @@
-REGIO DECRETO 11 febbraio 1900 n. XXXVI
+---
+tipo: REGIO DECRETO
+numero: XXXVI
+data: 1900-02-11
+titolo: "Pel trasferimento della sede del municipio di Vo'. (0000036R)"
+urn: urn:nir:stato:regio.decreto:1900-02-11;36
+codice_redazionale: 0000036R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 febbraio 1900 n. XXXVI
-=======================================
-
-Pel trasferimento della sede del municipio di Vo'. (0000036R)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/03/1900
-
-Art. 1
-------
-
-  
-Che trasferisce la sede del municipio di Vo' dalla frazione Vo' a quella di Boccon nella localita' detta Ca' Erizzo. - Firmato UMBERTO - Controfirmato Pelloux - Visto A. Bonasi.   
-  
-Registrato alla Corte dei conti addi' 5 marzo 1900.   
-  
-Reg. 222. Atti del Governo a f. 131.   
-  
+Che trasferisce la sede del municipio di Vo' dalla frazione Vo' a quella di Boccon nella localita' detta Ca' Erizzo. - Firmato UMBERTO - Controfirmato Pelloux - Visto A. Bonasi. 
+ 
+ Registrato alla Corte dei conti addi' 5 marzo 1900. 
+ 
+ Reg. 222. Atti del Governo a f. 131.

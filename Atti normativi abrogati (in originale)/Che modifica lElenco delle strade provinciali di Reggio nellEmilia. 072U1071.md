@@ -1,16 +1,14 @@
-REGIO DECRETO 31 ottobre 1872 n. 1071
-
-
-REGIO DECRETO 31 ottobre 1872 n. 1071
-=====================================
-
-Che modifica l'Elenco delle strade provinciali di Reggio nell'Emilia. (072U1071)
---------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/12/1872
+---
+tipo: REGIO DECRETO
+numero: 1071
+data: 1872-10-31
+titolo: "Che modifica l'Elenco delle strade provinciali di Reggio nell'Emilia. (072U1071)"
+urn: urn:nir:stato:regio.decreto:1872-10-31;1071
+codice_redazionale: 072U1071
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,7 +24,7 @@ Veduti i ricorsi prodotti avverso la detta aggiunta dai comuni di Castelnuovo di
 
 Veduti i pareri 6 maggio 1870 e 14 giugno 1871 del Consiglio Superiore dei Lavori Pubblici;
 
-Veduti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13), [14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14) e [122 della legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art122), Allegato F;
+Veduti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14) e [122 della legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_122), Allegato F;
 
 Considerando riguardo alla strada tra Boretto e Brescello,
 
@@ -38,32 +36,22 @@ Che se altre strade di non minore importanza si trovano nella stessa condizione 
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvata la modificazione dell'elenco delle strade provinciali di Reggio dell'Emilia, relativa alla sostituzione del tratto della strada scorrente sull'argine del Po fra Boretto e Brescello a quello detto Via Bassa antecedentemente classificata in detto elenco.
 
-  
-  
-E' approvata la modificazione dell'elenco delle strade provinciali di Reggio dell'Emilia, relativa alla sostituzione del tratto della strada scorrente sull'argine del Po fra Boretto e Brescello a quello detto Via Bassa antecedentemente classificata in detto elenco.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-All'elenco predetto sono aggiunte le due strade seguenti:   
-  
-Parte di provvedimento in formato grafico  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli, addi' 31 ottobre 1872.   
-  
-VITTORIO EMANUELE.   
-  
-G. Devincenzi.   
+All'elenco predetto sono aggiunte le due strade seguenti: 
+ 
+ Parte di provvedimento in formato grafico
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli, addi' 31 ottobre 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Devincenzi.

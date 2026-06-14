@@ -1,21 +1,17 @@
-REGIO DECRETO 15 maggio 1904 n. CCXLV
+---
+tipo: REGIO DECRETO
+numero: CCXLV
+data: 1904-05-15
+titolo: "Con cui il patrimonio del monte di pieta' di Fontanellato e' trasformato a favore del locale ospedale. (0400245R)"
+urn: urn:nir:stato:regio.decreto:1904-05-15;245
+codice_redazionale: 0400245R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 maggio 1904 n. CCXLV
-=====================================
-
-Con cui il patrimonio del monte di pieta' di Fontanellato e' trasformato a favore del locale ospedale. (0400245R)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/07/1904
-
-Art. 1
-------
-
-  
-Con cui il patrimonio del monte di pieta' di Fontanellato e' trasformato a favore del locale ospedale. - Firmato VITTORIO EMANUELE - Controfirmati Giolitti - Rava - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 21 giugno 1904.   
-  
-Reg. 17. Atti del Governo a f. 47.   
-  
+Con cui il patrimonio del monte di pieta' di Fontanellato e' trasformato a favore del locale ospedale. - Firmato VITTORIO EMANUELE - Controfirmati Giolitti - Rava - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 21 giugno 1904. 
+ 
+ Reg. 17. Atti del Governo a f. 47.

@@ -1,16 +1,14 @@
-REGIO DECRETO 09 maggio 1875 n. 2495
-
-
-REGIO DECRETO 09 maggio 1875 n. 2495
-====================================
-
-Col quale la provincia di Caltanissetta e' autorizzata a stabilire la barriera concessale col regio decreto 29 settembre 1872. (075U2495)
------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/06/1875
+---
+tipo: REGIO DECRETO
+numero: 2495
+data: 1875-05-09
+titolo: "Col quale la provincia di Caltanissetta e' autorizzata a stabilire la barriera concessale col regio decreto 29 settembre 1872. (075U2495)"
+urn: urn:nir:stato:regio.decreto:1875-05-09;2495
+codice_redazionale: 075U2495
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,7 +24,7 @@ Veduta la deliberazione 25 ottobre 1871 del Consiglio provinciale, con cui e' da
 
 Veduto il parere 12 marzo ultimo scorso del Consiglio superiore dei Lavori Pubblici;
 
-Veduta la [legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegate E;
+Veduta la [legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegate E;
 
 Considerando
 
@@ -36,23 +34,16 @@ Che sebbene questa si trovi pressoche' al suo termine, tuttavia non si puo' anco
 
 Sentito l'avviso del Consiglio di Stato,
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' autorizzata la provincia di Caltanissetta a stabilire lungo il tratto della strada provinciale tra Valguarnera e la stazione ferroviaria di Milocca la barriera concessale col Regio decreto 29 settembre 1872 per il tratto precedente tra Grottacalda e Valguarnera, esigendone la relativa tassa di pedaggio in base alla tariffa annessa a detto decreto o per lo stesso periodo provvisorio di anni quattro assegnato dal medesimo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 maggio 1875.   
-  
-VITTORIO EMANUELE.   
-  
-S. Spaventa.   
-  
+E' autorizzata la provincia di Caltanissetta a stabilire lungo il tratto della strada provinciale tra Valguarnera e la stazione ferroviaria di Milocca la barriera concessale col Regio decreto 29 settembre 1872 per il tratto precedente tra Grottacalda e Valguarnera, esigendone la relativa tassa di pedaggio in base alla tariffa annessa a detto decreto o per lo stesso periodo provvisorio di anni quattro assegnato dal medesimo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 maggio 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ S. Spaventa.

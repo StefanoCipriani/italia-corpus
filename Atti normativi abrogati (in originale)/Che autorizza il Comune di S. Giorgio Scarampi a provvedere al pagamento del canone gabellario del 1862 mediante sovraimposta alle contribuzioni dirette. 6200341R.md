@@ -1,19 +1,15 @@
-REGIO DECRETO 30 marzo 1862 n. CCCXLI
+---
+tipo: REGIO DECRETO
+numero: CCCXLI
+data: 1862-03-30
+titolo: "Che autorizza il Comune di S. Giorgio Scarampi a provvedere al pagamento del canone gabellario del 1862 mediante sovraimposta alle contribuzioni dirette. (6200341R)"
+urn: urn:nir:stato:regio.decreto:1862-03-30;341
+codice_redazionale: 6200341R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 30 marzo 1862 n. CCCXLI
-=====================================
-
-Che autorizza il Comune di S. Giorgio Scarampi a provvedere al pagamento del canone gabellario del 1862 mediante sovraimposta alle contribuzioni dirette. (6200341R)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/03/1862
-
-Art. 1
-------
-
-  
-Che autorizza il Comune di S. Giorgio Scarampi del Circondario d'Acqui a provvedere al pagamento del canone gabellario del 1862 mediante sovraimposta alle contribuzioni dirette.   
-  
-Torino 30 marzo 1862   
-  
+Che autorizza il Comune di S. Giorgio Scarampi del Circondario d'Acqui a provvedere al pagamento del canone gabellario del 1862 mediante sovraimposta alle contribuzioni dirette. 
+ 
+ Torino 30 marzo 1862

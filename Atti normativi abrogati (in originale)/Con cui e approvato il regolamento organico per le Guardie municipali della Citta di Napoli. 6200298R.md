@@ -1,19 +1,15 @@
-REGIO DECRETO 23 febbraio 1862 n. CCXCVIII
+---
+tipo: REGIO DECRETO
+numero: CCXCVIII
+data: 1862-02-23
+titolo: "Con cui e' approvato il regolamento organico per le Guardie municipali della Citta' di Napoli. (6200298R)"
+urn: urn:nir:stato:regio.decreto:1862-02-23;298
+codice_redazionale: 6200298R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 febbraio 1862 n. CCXCVIII
-==========================================
-
-Con cui e' approvato il regolamento organico per le Guardie municipali della Citta' di Napoli. (6200298R)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/02/1862
-
-Art. 1
-------
-
-  
-Che approva il regolamento organico per le Guardie Municipali della Citta' di Napoli deliberato dal Municipio in seduta delli 11 settembre 1861 colle modificazioni adottate in quella successiva del 27 novembre stesso anno.   
-  
-Torino 23 febbraio 1862   
-  
+Che approva il regolamento organico per le Guardie Municipali della Citta' di Napoli deliberato dal Municipio in seduta delli 11 settembre 1861 colle modificazioni adottate in quella successiva del 27 novembre stesso anno. 
+ 
+ Torino 23 febbraio 1862

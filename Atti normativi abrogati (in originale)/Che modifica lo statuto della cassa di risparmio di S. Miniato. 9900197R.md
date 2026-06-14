@@ -1,24 +1,21 @@
-REGIO DECRETO 08 giugno 1899 n. CXCVII
+---
+tipo: REGIO DECRETO
+numero: CXCVII
+data: 1899-06-08
+titolo: "Che modifica lo statuto della cassa di risparmio di S. Miniato. (9900197R)"
+urn: urn:nir:stato:regio.decreto:1899-06-08;197
+codice_redazionale: 9900197R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 giugno 1899 n. CXCVII
-======================================
+Che modifica lo statuto organico della cassa di risparmio di S.
+Miniato. - Firmato UMBERTO - Controfirmato A. Salandra - Visto A.
+Bonasi. 
+ 
+ Registrato alla Corte dei Conti addi' 1° luglio
 
-Che modifica lo statuto della cassa di risparmio di S. Miniato. (9900197R)
---------------------------------------------------------------------------
+1899.
 
-Entrata in vigore del provvedimento: 21/07/1899
-
-Art. 1
-------
-
-Che modifica lo statuto organico della cassa di risparmio di S.  
-Miniato. - Firmato UMBERTO - Controfirmato A. Salandra - Visto A.  
-Bonasi.   
-  
-Registrato alla Corte dei Conti addi' 1° luglio
-
-1899. 
-  
-  
 Reg. 220. Atti del Governo a f. 38.

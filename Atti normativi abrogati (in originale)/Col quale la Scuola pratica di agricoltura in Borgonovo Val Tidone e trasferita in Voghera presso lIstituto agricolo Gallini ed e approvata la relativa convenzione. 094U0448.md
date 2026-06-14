@@ -1,16 +1,14 @@
-REGIO DECRETO 26 agosto 1894 n. 448
-
-
-REGIO DECRETO 26 agosto 1894 n. 448
-===================================
-
-Col quale la Scuola pratica di agricoltura in Borgonovo Val Tidone e' trasferita in Voghera, presso l'Istituto agricolo Gallini, ed e' approvata la relativa convenzione. (094U0448)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/11/1894
+---
+tipo: REGIO DECRETO
+numero: 448
+data: 1894-08-26
+titolo: "Col quale la Scuola pratica di agricoltura in Borgonovo Val Tidone e' trasferita in Voghera, presso l'Istituto agricolo Gallini, ed e' approvata la relativa convenzione. (094U0448)"
+urn: urn:nir:stato:regio.decreto:1894-08-26;448
+codice_redazionale: 094U0448
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -34,100 +32,26 @@ Veduta la convenzione stipulata fra il Presidente dell'Istituto stesso ed il Nos
 
 Udito l'avviso del Comitato per l'istruzione agraria;
 
-Sulla
------
+Sulla proposta del Nostro Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' approvata l'unita convenzione stipulata fra il Presidente dell'Istituto agricolo Gallini ed il Ministero di Agricoltura, mediante la quale l'Istituto agricolo stesso assume l'obbligo di contribuire nelle proporzioni stabilite dalla [legge 6 giugno 1885, num. 3141](Concernente%20le%20scuole%20pratiche%20e%20speciali%20dagricoltura.%20085U3141.md), al mantenimento della Scuola pratica di agricoltura di Voghera.
 
-  
-  
-E' approvata l'unita convenzione stipulata fra il Presidente dell'Istituto agricolo Gallini ed il Ministero di Agricoltura, mediante la quale l'Istituto agricolo stesso assume l'obbligo di contribuire nelle proporzioni stabilite dalla [legge 6 giugno 1885, num. 3141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-06-06;3141), al mantenimento della Scuola pratica di agricoltura di Voghera.   
-  
+## Art. 2.
 
-Art. 2
-------
+La Scuola pratica di agricoltura in Borgonovo Val Tidone cessera' al termine dell'anno scolastico 1893-94 e sara' trasferita in Voghera, presso quel pio Istituto agricolo, e funzionera' con le norme stabilite dalla [legge 6 giugno 1885, n. 3141](Concernente%20le%20scuole%20pratiche%20e%20speciali%20dagricoltura.%20085U3141.md).
 
-  
-  
-La Scuola pratica di agricoltura in Borgonovo Val Tidone cessera' al termine dell'anno scolastico 1893-94 e sara' trasferita in Voghera, presso quel pio Istituto agricolo, e funzionera' con le norme stabilite dalla [legge 6 giugno 1885, n. 3141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-06-06;3141).   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Al mantenimento della Scuola pratica di agricoltura in Voghera per la parte di contributo governativo, sara' erogata la somma iscritta nel bilancio del Ministero di Agricoltura, Industria e Commercio al capitolo 18 per la Scuola pratica di agricoltura in Borgonovo Val Tidone, e quelle corrispondenti degli esercizi successivi.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 26 agosto 1894.   
-  
-UMBERTO.   
-  
-A. Barazzuoli.   
-  
-Visto Il Guardasigilli: V. Calenda di Tavani.   
-  
-
-Convenzione-art. 1
-
-  
-CONVENZIONE fra S. E. il Ministro di Agricoltura ed il Presidente del pio Istituto agricolo vogherese per istituire in Voghera una Scuola pratica di agricoltura.   
-  
-Art. 1.   
-  
-Il pio Istituto agricolo Gallini in Voghera si obbliga, a tenore degli articoli 2, 26 fino a 34 dello statuto organico, approvato con R. decreto 11 gennaio 1894 a contribuire sulle proprie rendite ed a versare nelle Casse dello Stato, in rate bimestrali, una somma annua corrispondente ai due quinti della spesa totale stabilita pel mantenimento della R. Scuola pratica di agricoltura in Voghera, che sara' ordinata con le norme della [legge 6 giugno 1885, n. 3141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-06-06;3141) (serie 3a) e con le leggi successive sull'insegnamento agrario.   
-  
-
-Convenzione-art. 2
-
-  
-Art. 2.   
-  
-L'Istituto Gallini mettera' a disposizione della Scuola un terreno della superficie non minore di 20 ettari, situato nella vicinanza immediata di Voghera ad uso di azienda agraria, destinandone la intera rendita annua netta ai miglioramenti dell'azienda stessa, dei locali, del materiale dimostrativo e successivamente a promuovere e favorire il miglioramento agricolo locale con i mezzi dimostrativi e pratici stimati adatti.   
-  
-
-Convenzione-art. 3
-
-  
-Art. 3.   
-  
-Sul podere medesimo sara' eretto per Cura dell'Opera pia e mediante il concorso del comune di Voghera, stabilito con la deliberazione 29 aprile 1892, il casamento scolastico con convitto per non meno di 45 alunni, oltre ai fabbricati rustici necessari alla razionale conduzione del fondo, il tutto sui disegni approvati dal Ministero di Agricoltura.   
-  
-
-Convenzione-art. 4
-
-  
-Art. 4.   
-  
-Il pio Istituto agricolo Gallini provvedera' a proprie spese all'arredamento della nuova Scuola pratica di agricoltura in Voghera, valendosi all'uopo di tutto il materiale scolastico e scientifico ora esistente nella scuola pratica di agricoltura di Bolgonovo Val Tidone, mediante accordi con gli enti locali, per la parte del materiale stesso che ad essi spetta.   
-  
-Dal canto suo il Ministero di Agricoltura si obbliga a cedere alla nuova Scuola di Voghera la parte del materiale didattico e scolastico acquistato coi propri fondi.   
-  
-
-Convenzione-art. 5
-
-  
-Art. 5.   
-  
-All'Amministrazione della Scuola sopraintendera' un Comitato composto di due Delegati del Governo e di due del pio Istituto agricolo Gallini. Il Direttore della Scuola pratica di agricoltura di Voghera avra' voto nel Comitato ed esercitera' le funzioni di Segretario.   
-  
-
-Convenzione-art. 6
-
-  
-Art. 6.   
-  
-Con speciale regolamento organico saranno stabilite le norme pel funzionamento della Scuola pratica di agricoltura in Voghera, secondo le prescrizioni della [legge 6 giugno 1885, n. 3141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-06-06;3141).   
-  
-Data a Roma, li 16 luglio 1894.   
-  
-Il Presidente del pio Istituto agricolo F. Meandri.   
-  
-Il Ministro di Agricoltura, Industria e Commercio   
-A. Barazzuoli.   
-  
+Al mantenimento della Scuola pratica di agricoltura in Voghera per la parte di contributo governativo, sara' erogata la somma iscritta nel bilancio del Ministero di Agricoltura, Industria e Commercio al capitolo 18 per la Scuola pratica di agricoltura in Borgonovo Val Tidone, e quelle corrispondenti degli esercizi successivi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 26 agosto 1894. 
+ 
+ UMBERTO. 
+ 
+ A. Barazzuoli. 
+ 
+ Visto Il Guardasigilli: V. Calenda di Tavani.

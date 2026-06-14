@@ -1,19 +1,15 @@
-REGIO DECRETO 22 novembre 1906 n. CCCCXXXVI
+---
+tipo: REGIO DECRETO
+numero: CCCCXXXVI
+data: 1906-11-22
+titolo: "Applicazione di tassa di famiglia. (0600436R)"
+urn: urn:nir:stato:regio.decreto:1906-11-22;436
+codice_redazionale: 0600436R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 22 novembre 1906 n. CCCCXXXVI
-===========================================
-
-Applicazione di tassa di famiglia. (0600436R)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 30/12/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CCCCXXXVI (Dato a Roma, il 22 novembre 1906), col quale e' data facolta' al comune di Casalnuovo Monterotaro di applicare nel biennio 1906-907 la tassa di famiglia, col limite massimo di L. 60 (sessanta).   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CCCCXXXVI (Dato a Roma, il 22 novembre 1906), col quale e' data facolta' al comune di Casalnuovo Monterotaro di applicare nel biennio 1906-907 la tassa di famiglia, col limite massimo di L. 60 (sessanta).

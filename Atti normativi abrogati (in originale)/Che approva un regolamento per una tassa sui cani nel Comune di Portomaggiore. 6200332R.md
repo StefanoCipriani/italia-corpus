@@ -1,19 +1,15 @@
-REGIO DECRETO 16 marzo 1862 n. CCCXXXII
+---
+tipo: REGIO DECRETO
+numero: CCCXXXII
+data: 1862-03-16
+titolo: "Che approva un regolamento per una tassa sui cani nel Comune di Portomaggiore. (6200332R)"
+urn: urn:nir:stato:regio.decreto:1862-03-16;332
+codice_redazionale: 6200332R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 marzo 1862 n. CCCXXXII
-=======================================
-
-Che approva un regolamento per una tassa sui cani nel Comune di Portomaggiore. (6200332R)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/03/1862
-
-Art. 1
-------
-
-  
-Che approva un regolamento per una tassa sui cani nel Comune di Portomaggiore della Provincia di Ferrara.   
-  
-Torino 16 marzo 1862   
-  
+Che approva un regolamento per una tassa sui cani nel Comune di Portomaggiore della Provincia di Ferrara. 
+ 
+ Torino 16 marzo 1862

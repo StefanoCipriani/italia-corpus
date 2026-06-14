@@ -1,16 +1,14 @@
-REGIO DECRETO 12 novembre 1936 n. 2239
-
-
-REGIO DECRETO 12 novembre 1936 n. 2239
-======================================
-
-Estensione ai territori dei Governi della Somalia italiana, del Galla e Sidama e dell'Harar delle disposizioni dell'ordinamento fondiario per l'Eritrea in materia di espropriazione a causa di pubblica utilita'. (036U2239)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/01/1937
+---
+tipo: REGIO DECRETO
+numero: 2239
+data: 1936-11-12
+titolo: "Estensione ai territori dei Governi della Somalia italiana, del Galla e Sidama e dell'Harar delle disposizioni dell'ordinamento fondiario per l'Eritrea in materia di espropriazione a causa di pubblica utilita'. (036U2239)"
+urn: urn:nir:stato:regio.decreto:1936-11-12;2239
+codice_redazionale: 036U2239
+vigente: true
+---
 
 VITTORIO EMANUELE
------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,28 +28,22 @@ Udito il parere del Consiglio superiore coloniale;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le colonie; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le colonie; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le disposizioni del titolo IV dell'ordinamento fondiario per l'Eritrea, approvato con R. decreto 7 febbraio 1926-IV, n.269, sono estese ai territori dei Governi della Somalia Italiana, dei Galla e Sidama e dell'Harar.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 12 novembre 1936 - Anno XV   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 14 gennaio 1937 - Anno XV   
-  
-Atti del Governo, registro 381, foglio 41. - Mancini.   
+Le disposizioni del titolo IV dell'ordinamento fondiario per l'Eritrea, approvato con R. decreto 7 febbraio 1926-IV, n.269, sono estese ai territori dei Governi della Somalia Italiana, dei Galla e Sidama e dell'Harar. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 12 novembre 1936 - Anno XV 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 14 gennaio 1937 - Anno XV 
+ 
+ Atti del Governo, registro 381, foglio 41. - Mancini.

@@ -1,19 +1,15 @@
-REGIO DECRETO 25 aprile 1907 n. CXXXVIII
+---
+tipo: REGIO DECRETO
+numero: CXXXVIII
+data: 1907-04-25
+titolo: "Modificazione di statuto. (0700138R)"
+urn: urn:nir:stato:regio.decreto:1907-04-25;138
+codice_redazionale: 0700138R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 aprile 1907 n. CXXXVIII
-========================================
-
-Modificazione di statuto. (0700138R)
-------------------------------------
-
-Entrata in vigore del provvedimento: 01/06/1907
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. CXXXVIII (Dato a Roma, il 25 aprile 1907), col quale si modifica lo statuto della Cassa di risparmio di Arsita.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. CXXXVIII (Dato a Roma, il 25 aprile 1907), col quale si modifica lo statuto della Cassa di risparmio di Arsita.

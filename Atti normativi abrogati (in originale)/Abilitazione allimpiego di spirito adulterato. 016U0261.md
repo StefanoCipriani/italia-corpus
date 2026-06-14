@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 20 febbraio 1916 n. 261
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 261
+data: 1916-02-20
+titolo: "Abilitazione all'impiego di spirito adulterato. (016U0261)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-02-20;261
+codice_redazionale: 016U0261
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 20 febbraio 1916 n. 261
-===============================================
-
-Abilitazione all'impiego di spirito adulterato. (016U0261)
-----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/04/1916
-
-Art. 1
-------
-
-  
-N. 261   
-  
-Decreto Luogotenenziale 20 febbraio 1916, col quale, sulla proposta del ministro delle finanze, l'industria della produzione delle films cinematografiche viene abilitata all'impiego dell'alcool adulterato col denaturante generale, per la pulitura delle films medesime alle condizioni che saranno stabilite dal ministro proponente suddetto.   
-  
+N. 261 
+ 
+ Decreto Luogotenenziale 20 febbraio 1916, col quale, sulla proposta del ministro delle finanze, l'industria della produzione delle films cinematografiche viene abilitata all'impiego dell'alcool adulterato col denaturante generale, per la pulitura delle films medesime alle condizioni che saranno stabilite dal ministro proponente suddetto.

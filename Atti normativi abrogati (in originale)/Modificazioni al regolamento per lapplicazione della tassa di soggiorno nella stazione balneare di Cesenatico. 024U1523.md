@@ -1,21 +1,21 @@
-REGIO DECRETO 22 giugno 1924 n. 1523
+---
+tipo: REGIO DECRETO
+numero: 1523
+data: 1924-06-22
+titolo: "Modificazioni al regolamento per l'applicazione della tassa di soggiorno nella stazione balneare di Cesenatico. (024U1523)"
+urn: urn:nir:stato:regio.decreto:1924-06-22;1523
+codice_redazionale: 024U1523
+vigente: true
+---
 
-
-REGIO DECRETO 22 giugno 1924 n. 1523
-====================================
-
-Modificazioni al regolamento per l'applicazione della tassa di soggiorno nella stazione balneare di Cesenatico. (024U1523)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/10/1924
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1523. R. decreto 22 giugno 1924, col quale, sulla proposta del Ministro per l'interno, vengono apportate modificazioni al regolamento per l'applicazione della tassa di soggiorno nella stazione balneare di Cesenatico.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 7 ottobre 1924.
+1523.
+
+R. decreto 22 giugno 1924, col quale, sulla proposta del Ministro per l'interno, vengono apportate modificazioni al regolamento per l'applicazione della tassa di soggiorno nella stazione balneare di Cesenatico. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 7 ottobre 1924.

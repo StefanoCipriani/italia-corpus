@@ -1,16 +1,14 @@
-REGIO DECRETO 26 ottobre 1940 n. 1555
-
-
-REGIO DECRETO 26 ottobre 1940 n. 1555
-=====================================
-
-Autorizzazione al comune di Enna a mantenere in applicazione, fino al 31 dicembre 1945, le imposte di consumo con le aliquote stabilite per la classe D. (040U1555)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/12/1940
+---
+tipo: REGIO DECRETO
+numero: 1555
+data: 1940-10-26
+titolo: "Autorizzazione al comune di Enna a mantenere in applicazione, fino al 31 dicembre 1945, le imposte di consumo con le aliquote stabilite per la classe D. (040U1555)"
+urn: urn:nir:stato:regio.decreto:1940-10-26;1555
+codice_redazionale: 040U1555
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,27 +22,21 @@ Vista la istanza prodotta dal detto Comune per ottenere la proroga dell'accennat
 
 Udito il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Enna e' autorizzato a continuare a riscuotere, fino al 31 dicembre 1945, le imposte di consumo con le aliquote stabilite per la classe D.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 26 ottobre 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-Registrato alla Corte dei conti, addi' 16 novembre 1940-XIX   
-  
-Atti del Governo, registro 427, foglio 37. - MANCINI   
+Il comune di Enna e' autorizzato a continuare a riscuotere, fino al 31 dicembre 1945, le imposte di consumo con le aliquote stabilite per la classe D. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 26 ottobre 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+Visto, il Guardasigilli: GRANDI 
+ Registrato alla Corte dei conti, addi' 16 novembre 1940-XIX 
+ 
+ Atti del Governo, registro 427, foglio 37. - MANCINI

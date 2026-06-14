@@ -1,21 +1,17 @@
-REGIO DECRETO 24 gennaio 1901 n. XX
+---
+tipo: REGIO DECRETO
+numero: XX
+data: 1901-01-24
+titolo: "Che trasforma l'opera del SS. Sacramento in Scicli a favore del monte pignoratizio. (0100020R)"
+urn: urn:nir:stato:regio.decreto:1901-01-24;20
+codice_redazionale: 0100020R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 gennaio 1901 n. XX
-===================================
-
-Che trasforma l'opera del SS. Sacramento in Scicli a favore del monte pignoratizio. (0100020R)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/02/1901
-
-Art. 1
-------
-
-  
-Con cui l'opera pia del SS. Sacramento in Scicli e' trasformata a favore di quel monte pignoratizio. - Firmato VITTORIO EMANUELE - Controfirmato G. Saracco - Visto E. Gianturco.   
-  
-Registrato alla Corte dei conti addi' 4 febbraio 1901.   
-  
-Reg. 227. Atti del Governo a f. 92.   
-  
+Con cui l'opera pia del SS. Sacramento in Scicli e' trasformata a favore di quel monte pignoratizio. - Firmato VITTORIO EMANUELE - Controfirmato G. Saracco - Visto E. Gianturco. 
+ 
+ Registrato alla Corte dei conti addi' 4 febbraio 1901. 
+ 
+ Reg. 227. Atti del Governo a f. 92.

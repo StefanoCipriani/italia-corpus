@@ -1,16 +1,14 @@
-REGIO DECRETO 17 ottobre 1941 n. 1298
-
-
-REGIO DECRETO 17 ottobre 1941 n. 1298
-=====================================
-
-Soppressione dei posti di direttore e vice direttore amministrativo dei servizi elettrici (gruppo B, gradi 8° e 9°). (041U1298)
--------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/12/1941
+---
+tipo: REGIO DECRETO
+numero: 1298
+data: 1941-10-17
+titolo: "Soppressione dei posti di direttore e vice direttore amministrativo dei servizi elettrici (gruppo B, gradi 8° e 9°). (041U1298)"
+urn: urn:nir:stato:regio.decreto:1941-10-17;1298
+codice_redazionale: 041U1298
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,38 +30,27 @@ Udito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro Segretario di Stato per l'interno, di intesa col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro Segretario di Stato per l'interno, di intesa col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il posto di direttore amministrativo dei servizi elettrici, gruppo B, grado 8°, ed il posto di vice direttore amministrativo dei servizi predetti, gruppo B, grado 9°, istituiti con il R. decreto-legge 2 luglio 1925-III, n. 1205, sono soppressi.
 
-  
-  
-Il posto di direttore amministrativo dei servizi elettrici, gruppo B, grado 8°, ed il posto di vice direttore amministrativo dei servizi predetti, gruppo B, grado 9°, istituiti con il R. decreto-legge 2 luglio 1925-III, n. 1205, sono soppressi.   
-  
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Nei ruoli del personale di gruppo C dell'Amministrazione della P.  
-S. approvati con il R. decreto 24 settembre 1931-IX, n. 1234, e modificati col R. decreto-legge 12 maggio 1938-XVI, n. 555, sono aumentati un posto di impiegato di polizia di 1° classe (grado 9°), ed un posto di archivista capo di P. S. (grado 9°).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 17 ottobre 1941-X1X   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 2 dicembre 1941-XX   
-  
-Atti del Governo, registro 440, foglio 3. - MANCINI   
+Nei ruoli del personale di gruppo C dell'Amministrazione della P.
+S. approvati con il R. decreto 24 settembre 1931-IX, n. 1234, e modificati col R. decreto-legge 12 maggio 1938-XVI, n. 555, sono aumentati un posto di impiegato di polizia di 1° classe (grado 9°), ed un posto di archivista capo di P. S. (grado 9°). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 17 ottobre 1941-X1X 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 2 dicembre 1941-XX 
+ 
+ Atti del Governo, registro 440, foglio 3. - MANCINI

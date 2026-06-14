@@ -1,19 +1,15 @@
-REGIO DECRETO 24 gennaio 1915 n. 163
+---
+tipo: REGIO DECRETO
+numero: 163
+data: 1915-01-24
+titolo: "Erezione in ente morale e approvazione di statuto. (015U0163)"
+urn: urn:nir:stato:regio.decreto:1915-01-24;163
+codice_redazionale: 015U0163
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 gennaio 1915 n. 163
-====================================
-
-Erezione in ente morale e approvazione di statuto. (015U0163)
--------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/03/1915
-
-Art. 1
-------
-
-  
-N. 163   
-  
-Regio Decreto 24 gennaio 1915, col quale, sulla proposta del ministro di agricoltura, industria e commercio, d'accordo col ministro della istruzione pubblica, viene riconosciuta come ente morale la Societa' scolastica di M S. « Mutualita' scolastica udinese », con sede in Udine, e ne e' approvato lo statuto.   
-  
+N. 163 
+ 
+ Regio Decreto 24 gennaio 1915, col quale, sulla proposta del ministro di agricoltura, industria e commercio, d'accordo col ministro della istruzione pubblica, viene riconosciuta come ente morale la Societa' scolastica di M S. « Mutualita' scolastica udinese », con sede in Udine, e ne e' approvato lo statuto.

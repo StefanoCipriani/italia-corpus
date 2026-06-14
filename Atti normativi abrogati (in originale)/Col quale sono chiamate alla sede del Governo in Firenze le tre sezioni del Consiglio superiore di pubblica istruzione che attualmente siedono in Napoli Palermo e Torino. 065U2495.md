@@ -1,16 +1,14 @@
-REGIO DECRETO 01 settembre 1865 n. 2495
-
-
-REGIO DECRETO 01 settembre 1865 n. 2495
-=======================================
-
-Col quale sono chiamate alla sede del Governo in Firenze le tre sezioni del Consiglio superiore di pubblica istruzione, che attualmente siedono in Napoli, Palermo e Torino. (065U2495)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/10/1865
+---
+tipo: REGIO DECRETO
+numero: 2495
+data: 1865-09-01
+titolo: "Col quale sono chiamate alla sede del Governo in Firenze le tre sezioni del Consiglio superiore di pubblica istruzione, che attualmente siedono in Napoli, Palermo e Torino. (065U2495)"
+urn: urn:nir:stato:regio.decreto:1865-09-01;2495
+codice_redazionale: 065U2495
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,37 +24,26 @@ Vista la Legge dell'11 dicembre 1864 per il trasferimento della Capitale in Fire
 
 Nell'intendimento di dare all'Amministrazione scolastica un indirizzo uniforme, finche' per Legge non siano introdotti nuovi ordinamenti;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Entro la ultima quindicina del prossimo mese di ottobre tutte le sezioni del Consiglio superiore di pubblica Istruzione saranno riunite nella sede del Governo in Firenze.
 
-  
-  
-Entro la ultima quindicina del prossimo mese di ottobre tutte le sezioni del Consiglio superiore di pubblica Istruzione saranno riunite nella sede del Governo in Firenze.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Un Regolamento da approvarsi per Decreto Ministeriale determinera' le norme secondo le quali il predetto Consiglio a sezioni riunite o distinte avra' a compiere le sue attribuzioni.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze il 1.° settembre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 22 settembre 1865   
-  
-Reg.° 33 Atti del Governo a c. 207. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
-  
+Un Regolamento da approvarsi per Decreto Ministeriale determinera' le norme secondo le quali il predetto Consiglio a sezioni riunite o distinte avra' a compiere le sue attribuzioni. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze il 1.° settembre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 22 settembre 1865 
+ 
+ Reg.° 33 Atti del Governo a c. 207. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli.

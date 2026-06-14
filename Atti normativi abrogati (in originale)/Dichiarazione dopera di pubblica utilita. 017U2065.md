@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 12 dicembre 1917 n. 2065
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 2065
+data: 1917-12-12
+titolo: "Dichiarazione d'opera di pubblica utilita'. (017U2065)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-12-12;2065
+codice_redazionale: 017U2065
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 12 dicembre 1917 n. 2065
-================================================
-
-Dichiarazione d'opera di pubblica utilita'. (017U2065)
-------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/01/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2065. Decreto Luogotenenziale 12 dicembre 1917, col quale sulla proposta del ministro delle armi e munizioni, e' dichiarata opera di pubblica utilita' la sistemazione e l'ampliamento da parte della Ditta Baschieri e Pellagri di Bologna del suo polverificio a Castenaso (Bologna).
+2065.
+
+Decreto Luogotenenziale 12 dicembre 1917, col quale sulla proposta del ministro delle armi e munizioni, e' dichiarata opera di pubblica utilita' la sistemazione e l'ampliamento da parte della Ditta Baschieri e Pellagri di Bologna del suo polverificio a Castenaso (Bologna).

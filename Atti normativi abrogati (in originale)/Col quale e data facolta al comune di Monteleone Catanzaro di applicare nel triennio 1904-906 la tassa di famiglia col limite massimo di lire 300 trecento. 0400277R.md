@@ -1,21 +1,17 @@
-REGIO DECRETO 23 giugno 1904 n. CCLXXVII
+---
+tipo: REGIO DECRETO
+numero: CCLXXVII
+data: 1904-06-23
+titolo: "Col quale e' data facolta', al comune di Monteleone (Catanzaro) di applicare nel triennio 1904-906 la tassa di famiglia col limite massimo di lire 300 (trecento). (0400277R)"
+urn: urn:nir:stato:regio.decreto:1904-06-23;277
+codice_redazionale: 0400277R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 giugno 1904 n. CCLXXVII
-========================================
-
-Col quale e' data facolta', al comune di Monteleone (Catanzaro) di applicare nel triennio 1904-906 la tassa di famiglia col limite massimo di lire 300 (trecento). (0400277R)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/07/1904
-
-Art. 1
-------
-
-  
-Col quale e' data facolta', al comune di Monteleone (Catanzaro) di applicare nel triennio 1904-906 la tassa di famiglia col limite massimo di lire 300 (trecento). - Firmato VITTORIO EMANUELE - Controfirmati Giolitti - Rava - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 13 luglio 1904.   
-  
-Reg. 17. Atti del Governo a f. 103.   
-  
+Col quale e' data facolta', al comune di Monteleone (Catanzaro) di applicare nel triennio 1904-906 la tassa di famiglia col limite massimo di lire 300 (trecento). - Firmato VITTORIO EMANUELE - Controfirmati Giolitti - Rava - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 13 luglio 1904. 
+ 
+ Reg. 17. Atti del Governo a f. 103.

@@ -1,44 +1,32 @@
-LEGGE 13 febbraio 2001 n. 13
-
-
-LEGGE 13 febbraio 2001 n. 13
-============================
-
-Ulteriore finanziamento per la prima Conferenza degli italiani nel mondo.
--------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 13
+data: 2001-02-13
+titolo: "Ulteriore finanziamento per la prima Conferenza degli italiani nel mondo."
+urn: urn:nir:stato:legge:2001-02-13;13
+codice_redazionale: 001G0062
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Promulga
---------
+Promulga la seguente legge:
 
-la seguente legge:
+## Art. 1.
 
-Art. 1
-------
+1. E' autorizzato il finanziamento integrativo della [legge 24 maggio 2000, n. 138](Disposizioni%20per%20lorganizzazione%20ed%20il%20finanziamento%20della%20prima%20Conferenza%20degli%20italiani%20nel%20mondo.md), per l'importo di lire 2.400 milioni, allo scopo di portare a termine gli impegni organizzativi e finanziari necessari per la realizzazione della prima Conferenza degli italiani nel mondo.
+2. All'onere derivante dall'attuazione della presente legge, pari a lire 2.400 milioni per l'anno 2000, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2000-2002, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno finanziario 2000, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.
+3. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
-1. E' autorizzato il finanziamento integrativo della [legge 24 maggio 2000, n. 138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-05-24;138), per l'importo di lire 2.400 milioni, allo scopo di portare a termine gli impegni organizzativi e finanziari necessari per la realizzazione della prima Conferenza degli italiani nel mondo.  
-2. All'onere derivante dall'attuazione della presente legge, pari a lire 2.400 milioni per l'anno 2000, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2000-2002, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno finanziario 2000, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero degli affari esteri.  
-3. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.  
-  
+Avvertenza:
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Nota all'[art. 1, comma 1:
+ - La legge 24 maggio 2000, n. 138](Disposizioni%20per%20lorganizzazione%20ed%20il%20finanziamento%20della%20prima%20Conferenza%20degli%20italiani%20nel%20mondo.md), reca: "Disposizioni per l'organizzazione ed il finanziamento della prima Conferenza degli italiani nel mondo".
 
 La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 13 febbraio 2001
+Data a Roma, addi' 13 febbraio 2001
 
-CIAMPI
-
-Amato, Presidente del Consiglio dei Ministri
-
-Dini, Ministro degli affari esteri
-
-Visto, il Guardasigilli: Fassino
-
-Avvertenza:  
-Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
-Nota all'[art. 1, comma 1:  
-- La legge 24 maggio 2000, n. 138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-05-24;138~art1-com1), reca: "Disposizioni per l'organizzazione ed il finanziamento della prima Conferenza degli italiani nel mondo".
+CIAMPI Amato, Presidente del Consiglio dei Ministri Dini, Ministro degli affari esteri Visto, il Guardasigilli: Fassino

@@ -1,19 +1,15 @@
-REGIO DECRETO 11 gennaio 1912 n. 8
+---
+tipo: REGIO DECRETO
+numero: 8
+data: 1912-01-11
+titolo: "Erezione in ente morale e relativa approvazione di statuto. (012U0008)"
+urn: urn:nir:stato:regio.decreto:1912-01-11;8
+codice_redazionale: 012U0008
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 gennaio 1912 n. 8
-==================================
-
-Erezione in ente morale e relativa approvazione di statuto. (012U0008)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/02/1912
-
-Art. 1
-------
-
-  
-N. 8   
-  
-Regio Decreto 11 gennaio 1912, col quale, sulla proposta del ministro dell'interno, il ricovero di mendicita' «Giuseppe d'Auria» in Mottola, e' eretto in ente morale e ne e' approvato lo statuto organico.   
-  
+N. 8 
+ 
+ Regio Decreto 11 gennaio 1912, col quale, sulla proposta del ministro dell'interno, il ricovero di mendicita' «Giuseppe d'Auria» in Mottola, e' eretto in ente morale e ne e' approvato lo statuto organico.

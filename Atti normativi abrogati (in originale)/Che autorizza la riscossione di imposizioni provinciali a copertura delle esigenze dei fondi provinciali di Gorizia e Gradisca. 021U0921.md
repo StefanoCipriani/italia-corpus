@@ -1,16 +1,14 @@
-REGIO DECRETO 16 giugno 1921 n. 921
-
-
-REGIO DECRETO 16 giugno 1921 n. 921
-===================================
-
-Che autorizza la riscossione di imposizioni provinciali a copertura delle esigenze dei fondi provinciali di Gorizia e Gradisca. (021U0921)
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/08/1921
+---
+tipo: REGIO DECRETO
+numero: 921
+data: 1921-06-16
+titolo: "Che autorizza la riscossione di imposizioni provinciali a copertura delle esigenze dei fondi provinciali di Gorizia e Gradisca. (021U0921)"
+urn: urn:nir:stato:regio.decreto:1921-06-16;921
+codice_redazionale: 021U0921
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,87 +18,74 @@ Visti i regolamenti provinciali in vigore per la provincia di Gorizia e Gradisca
 
 Viste le deliberazioni della rappresentanza provinciale;
 
-Visto il [R. decreto 16 giugno 1921, n. 920](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-06-16;920), con cui si provvede all'approvazione di tasse a favore dei fondi provinciali di Gorizia e Gradisca;
+Visto il [R. decreto 16 giugno 1921, n. 920](Che%20stabilisce%20determinate%20tasse%20a%20favore%20dei%20fondi%20provinciali%20gestiti%20dalla%20Giunta%20provinciale%20di%20Gorizia%20e%20Gradisca.%20021U0920.md), con cui si provvede all'approvazione di tasse a favore dei fondi provinciali di Gorizia e Gradisca;
 
 Sulla proposta del presidente del Consiglio dei ministri, ministro segretario di Stato per l'interno, di concerto col ministro delle finanze;
 
-Udito
------
+Udito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A copertura delle esigenze dei fondi provinciali di Gorizia e Gradisca e dei territori aggregati, e' autorizzata la riscossione delle seguenti imposizioni provinciali: 
+ 
+ 1° per l'anno 1920: 
+ 
+ a) sull'imposta fondiaria e sull'imposta casatico classi la sovraimposta dell'80%; 
+ 
+ b) sull'imposta casatico pigioni la sovraimposta del 20%; 
+ 
+ c) sull'imposta generale d'industria (comprese le industrie girovaghe ed ambulanti) la sovraimposta del 100%; 
+ 
+ d) sull'imposta industriale delle imprese soggette a pubblica resa di conto e sull'imposta sulla rendita la sovraimposta del 100%; 
+ 
+ e) sull'imposta sugli emolumenti maggiori di impiegati privati la sovraimposta del 100%; 
+ 
+ f) sull'imposta sulla rendita personale accertata per gli anni 1918, 1919 e 1920 la sovraimposta del 40%; 
+ 
+ g) sull'imposta sui sopraprofitti di guerra, accertata per gli anni 1917, 1918 e 1919, la sovrimposta del 20%; 
+ 
+ h) sull'imposta dazio consumo erariale sul vino e mosto la sovraimposta ordinaria del 120% e la sovraimposta straordinaria del 200%; 
+ 
+ i) sull'imposta dazio consumo erariale sulle carni la sovraimposta del 120%; 
+ 
+ 2° per l'anno 1921: 
+ 
+ a) sull'imposta fondiaria e sull'importo casatico classi la sovraimposta dell'80%; 
+ 
+ b) sull'imposta casatico pigioni la sovraimposta del 20%; 
+ 
+ c) sull'imposta generale d'industria (comprese le industrie girovaghe e ambulanti) la sovraimposta del 100%; 
+ 
+ d) sull'imposta industriale delle imprese soggette a pubblica resa di conto e sull'imposta sulle rendite la sovraimposta del 100%; 
+ 
+ e) sull'imposta sugli emolumenti maggiori di impiegati privati e sulle tantiemes la sovraimposta del 100%; 
+ 
+ f) sull'imposta sulla rendita personale la sovraimposta del 40%; 
+ 
+ g) sull'imposta dazio consumo erariale sul vino e mosto la sovraimposta ordinaria del 120% e la sovraimposta straordinaria del 200%; 
+ 
+ h) sull'imposta dazio consumo erariale sulle carni la sovraimposta del 120%; 
+ 
+ i) la tassa ordinaria di L. 4 per ettolitro, e la tassa straordinaria di L. 16, per ettolitro sulla birra; 
+ 
+ l) la tassa di L. 15, per ettolitro, sul vino non sottostante al dazio consumo erariale; 
+ 
+ m) la tassa di L. 1,60 al litro, sugli spiriti e liquidi spiritosi distillati, sui vini spumanti od aromizzati, sui vini liquorosi, sui distillati dolcificati, sugli sciroppi, sugli estratti di frutta, sul mosto concentrato, sulle essenze e sugli amari. 
+ 
+ Le sovrimposte alle imposte dirette, di cui al n. 2 del presente articolo, s'intendono autorizzate anche a carico delle aggiunte di guerra.
 
-  
-  
-  
-A copertura delle esigenze dei fondi provinciali di Gorizia e Gradisca e dei territori aggregati, e' autorizzata la riscossione delle seguenti imposizioni provinciali:   
-  
-1° per l'anno 1920:   
-  
-a) sull'imposta fondiaria e sull'imposta casatico classi la sovraimposta dell'80%;   
-  
-b) sull'imposta casatico pigioni la sovraimposta del 20%;   
-  
-c) sull'imposta generale d'industria (comprese le industrie girovaghe ed ambulanti) la sovraimposta del 100%;   
-  
-d) sull'imposta industriale delle imprese soggette a pubblica resa di conto e sull'imposta sulla rendita la sovraimposta del 100%;   
-  
-e) sull'imposta sugli emolumenti maggiori di impiegati privati la sovraimposta del 100%;   
-  
-f) sull'imposta sulla rendita personale accertata per gli anni 1918, 1919 e 1920 la sovraimposta del 40%;   
-  
-g) sull'imposta sui sopraprofitti di guerra, accertata per gli anni 1917, 1918 e 1919, la sovrimposta del 20%;   
-  
-h) sull'imposta dazio consumo erariale sul vino e mosto la sovraimposta ordinaria del 120% e la sovraimposta straordinaria del 200%;   
-  
-i) sull'imposta dazio consumo erariale sulle carni la sovraimposta del 120%;   
-  
-2° per l'anno 1921:   
-  
-a) sull'imposta fondiaria e sull'importo casatico classi la sovraimposta dell'80%;   
-  
-b) sull'imposta casatico pigioni la sovraimposta del 20%;   
-  
-c) sull'imposta generale d'industria (comprese le industrie girovaghe e ambulanti) la sovraimposta del 100%;   
-  
-d) sull'imposta industriale delle imprese soggette a pubblica resa di conto e sull'imposta sulle rendite la sovraimposta del 100%;   
-  
-e) sull'imposta sugli emolumenti maggiori di impiegati privati e sulle tantiemes la sovraimposta del 100%;   
-  
-f) sull'imposta sulla rendita personale la sovraimposta del 40%;   
-  
-g) sull'imposta dazio consumo erariale sul vino e mosto la sovraimposta ordinaria del 120% e la sovraimposta straordinaria del 200%;   
-  
-h) sull'imposta dazio consumo erariale sulle carni la sovraimposta del 120%;   
-  
-i) la tassa ordinaria di L. 4 per ettolitro, e la tassa straordinaria di L. 16, per ettolitro sulla birra;   
-  
-l) la tassa di L. 15, per ettolitro, sul vino non sottostante al dazio consumo erariale;   
-  
-m) la tassa di L. 1,60 al litro, sugli spiriti e liquidi spiritosi distillati, sui vini spumanti od aromizzati, sui vini liquorosi, sui distillati dolcificati, sugli sciroppi, sugli estratti di frutta, sul mosto concentrato, sulle essenze e sugli amari.   
-  
-Le sovrimposte alle imposte dirette, di cui al n. 2 del presente articolo, s'intendono autorizzate anche a carico delle aggiunte di guerra.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-  
-Dalla sovraimposta alla imposta sulla rendita personale vanno esenti gli emolumenti di servizio percepiti da impiegati delle pubbliche amministrazioni, come pure, riguardo alla congrua, da sacerdoti in cura di anime.   
-  
-Dalle imposizioni, di cui al n. 2 lettera i) l) m) dell'art. 1, non verranno colpiti i quantitativi consumati sino al giorno in cui entrera' in vigore il presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 giugno 1921.   
-  
-VITTORIO EMANUELE.   
-  
-Giolitti - Facta.   
-  
-Visto, Il guardasigilli: Fera.   
-  
+Dalla sovraimposta alla imposta sulla rendita personale vanno esenti gli emolumenti di servizio percepiti da impiegati delle pubbliche amministrazioni, come pure, riguardo alla congrua, da sacerdoti in cura di anime. 
+ 
+ Dalle imposizioni, di cui al n. 2 lettera i) l) m) dell'art. 1, non verranno colpiti i quantitativi consumati sino al giorno in cui entrera' in vigore il presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 giugno 1921. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti - Facta. 
+ 
+ Visto, Il guardasigilli: Fera.

@@ -1,16 +1,14 @@
-REGIO DECRETO 13 febbraio 1879 n. 4748
-
-
-REGIO DECRETO 13 febbraio 1879 n. 4748
-======================================
-
-I comuni di Seregno, Albiate e Sovico sono distaccati dalla sezione principale del collegio elettorale di Desio, e formeranno una sezione distinta dello stesso collegio con la sede a Seregno. (079U4748)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/03/1879
+---
+tipo: REGIO DECRETO
+numero: 4748
+data: 1879-02-13
+titolo: "I comuni di Seregno, Albiate e Sovico sono distaccati dalla sezione principale del collegio elettorale di Desio, e formeranno una sezione distinta dello stesso collegio con la sede a Seregno. (079U4748)"
+urn: urn:nir:stato:regio.decreto:1879-02-13;4748
+codice_redazionale: 079U4748
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Che Seregno dista da Desio chilometri 4 15; Albiate ne dista 8 320, e Sovico 8 4
 
 Considerato che con la istituzione di una sezione elettorale a Seregno si rende piu' facile l'esercizio del diritto elettorale ad un ragguardevole numero di elettori;
 
-Sulla
------
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Seregno, Albiate e Sovico sono separati dalla sezione principale del Collegio elettorale di Desio, e formeranno una sezione distinta dello stesso Collegio, con la sede a Seregno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 febbraio 1879.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
+I comuni di Seregno, Albiate e Sovico sono separati dalla sezione principale del Collegio elettorale di Desio, e formeranno una sezione distinta dello stesso Collegio, con la sede a Seregno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 febbraio 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.

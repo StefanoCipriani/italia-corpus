@@ -1,16 +1,14 @@
-REGIO DECRETO 01 ottobre 1889 n. 6437
-
-
-REGIO DECRETO 01 ottobre 1889 n. 6437
-=====================================
-
-Che istituisce un secondo posto di notaro nel comune di Ventimiglia Sicula, distretto notarile di Termini Imerese. (089U6437)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/11/1889
+---
+tipo: REGIO DECRETO
+numero: 6437
+data: 1889-10-01
+titolo: "Che istituisce un secondo posto di notaro nel comune di Ventimiglia Sicula, distretto notarile di Termini Imerese. (089U6437)"
+urn: urn:nir:stato:regio.decreto:1889-10-01;6437
+codice_redazionale: 089U6437
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Veduto il nuovo testo della tabella del numero e della residenza dei notari del 
 
 Ritenuto che sarebbe giustificata la convenienza ed opportunita' di tale istituzione;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un secondo posto di notaro nel comune di Ventimiglia Sicula, distretto notarile di Termini Imerese.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 1° ottobre 1889.   
-  
-UMBERTO.   
-  
-G. Zanardelli.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+E' istituito un secondo posto di notaro nel comune di Ventimiglia Sicula, distretto notarile di Termini Imerese. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 1° ottobre 1889. 
+ 
+ UMBERTO. 
+ 
+ G. Zanardelli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

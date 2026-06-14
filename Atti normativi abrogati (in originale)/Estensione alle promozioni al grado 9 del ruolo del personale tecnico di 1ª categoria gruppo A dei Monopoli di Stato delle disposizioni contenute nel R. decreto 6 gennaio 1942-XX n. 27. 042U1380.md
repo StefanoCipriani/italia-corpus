@@ -1,16 +1,14 @@
-REGIO DECRETO 24 ottobre 1942 n. 1380
-
-
-REGIO DECRETO 24 ottobre 1942 n. 1380
-=====================================
-
-Estensione alle promozioni al grado 9° del ruolo del personale tecnico di 1ª categoria, gruppo A, dei Monopoli di Stato, delle disposizioni contenute nel R. decreto 6 gennaio 1942-XX, n. 27. (042U1380)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/12/1942
+---
+tipo: REGIO DECRETO
+numero: 1380
+data: 1942-10-24
+titolo: "Estensione alle promozioni al grado 9° del ruolo del personale tecnico di 1ª categoria, gruppo A, dei Monopoli di Stato, delle disposizioni contenute nel R. decreto 6 gennaio 1942-XX, n. 27. (042U1380)"
+urn: urn:nir:stato:regio.decreto:1942-10-24;1380
+codice_redazionale: 042U1380
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,32 +28,26 @@ Sentito il Consiglio di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le disposizioni del R. decreto 6 gennaio 1942-XX, n. 27, sono estese, in quanto applicabili, alle promozioni al grado 9° dei ruoli del personale tecnico di prima categoria, gruppo A, dei Monopoli di Stato, previste dall'art. 12, lettera a), del decreto Ministeriale 29 febbraio 1928-VI, che determina i ruoli speciali del personale dell'Amministrazione dei monopoli di Stato.   
-  
-Possono essere scrutinati per queste promozioni gli impiegati che abbiano l'anzianita' richiesta dal citato art. 12, lettera a), del decreto Ministeriale 29 febbraio 1928-VI.   
-  
-Coloro che avranno ottenuto la promozione al grado 9° in base alle disposizioni del presente decreto potranno essere scrutinati per la successiva promozione al grado 8° soltanto quando avranno compiuto due anni di effettivo servizio nel grado 9°.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 24 ottobre 1942-XX   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 4 dicembre 1942-XXI   
-  
-Atti del Governo, registro 452, foglio 7 - MANCINI   
+Le disposizioni del R. decreto 6 gennaio 1942-XX, n. 27, sono estese, in quanto applicabili, alle promozioni al grado 9° dei ruoli del personale tecnico di prima categoria, gruppo A, dei Monopoli di Stato, previste dall'art. 12, lettera a), del decreto Ministeriale 29 febbraio 1928-VI, che determina i ruoli speciali del personale dell'Amministrazione dei monopoli di Stato. 
+ 
+ Possono essere scrutinati per queste promozioni gli impiegati che abbiano l'anzianita' richiesta dal citato art. 12, lettera a), del decreto Ministeriale 29 febbraio 1928-VI. 
+ 
+ Coloro che avranno ottenuto la promozione al grado 9° in base alle disposizioni del presente decreto potranno essere scrutinati per la successiva promozione al grado 8° soltanto quando avranno compiuto due anni di effettivo servizio nel grado 9°. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 24 ottobre 1942-XX 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 4 dicembre 1942-XXI 
+ 
+ Atti del Governo, registro 452, foglio 7 - MANCINI

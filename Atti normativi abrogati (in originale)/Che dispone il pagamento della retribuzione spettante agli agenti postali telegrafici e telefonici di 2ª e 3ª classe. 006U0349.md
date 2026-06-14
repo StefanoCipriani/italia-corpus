@@ -1,16 +1,14 @@
-REGIO DECRETO 05 aprile 1906 n. 349
-
-
-REGIO DECRETO 05 aprile 1906 n. 349
-===================================
-
-Che dispone il pagamento della retribuzione spettante agli agenti postali, telegrafici e telefonici di 2ª e 3ª classe. (006U0349)
----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/08/1906
+---
+tipo: REGIO DECRETO
+numero: 349
+data: 1906-04-05
+titolo: "Che dispone il pagamento della retribuzione spettante agli agenti postali, telegrafici e telefonici di 2ª e 3ª classe. (006U0349)"
+urn: urn:nir:stato:regio.decreto:1906-04-05;349
+codice_redazionale: 006U0349
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,28 +22,20 @@ Sulla proposta del Nostro ministro segretario di Stato per le poste e per i tele
 
 Visto il parere favorevole del Consiglio di Stato;
 
-Sentito
--------
+Sentito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La retribuzione spettante alla fine di ogni mese agli agenti ai quali viene affidata la gestione di uffici postali, telegrafici, telefonici di 2ª e 3ª classe, e' pagata, durante il periodo di tempo occorrente per l'emissione dei decreti di nomina da parte del Ministero delle poste e dei telegrafi e per la debita registrazione da parte della Corte dei conti, che non potra' essere superiore a quattro mesi, in base a certificati di prestato servizio, da rilasciarsi dalle Direzioni provinciali in seguito ad ordine del Ministero.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 aprile 1906.   
-  
-VITTORIO EMANUELE.   
-  
-Sidney Sonnino.   
-A. Baccelli.   
-L. Luzzatti.   
-  
-Visto, Il guardasigilli: Sacchi.   
-  
-  
+La retribuzione spettante alla fine di ogni mese agli agenti ai quali viene affidata la gestione di uffici postali, telegrafici, telefonici di 2ª e 3ª classe, e' pagata, durante il periodo di tempo occorrente per l'emissione dei decreti di nomina da parte del Ministero delle poste e dei telegrafi e per la debita registrazione da parte della Corte dei conti, che non potra' essere superiore a quattro mesi, in base a certificati di prestato servizio, da rilasciarsi dalle Direzioni provinciali in seguito ad ordine del Ministero. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 aprile 1906. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Sidney Sonnino. 
+ A. Baccelli. 
+ L. Luzzatti. 
+ 
+ Visto, Il guardasigilli: Sacchi.

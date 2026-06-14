@@ -1,16 +1,14 @@
-REGIO DECRETO 17 gennaio 1895 n. 27
-
-
-REGIO DECRETO 17 gennaio 1895 n. 27
-===================================
-
-Che sopprime la scuola normale maschile in S. Bartolomeo in Galdo, e ne istituisce una a Ripatransone con sezione per insegnamento del lavoro educativo. (095U0027)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/02/1895
+---
+tipo: REGIO DECRETO
+numero: 27
+data: 1895-01-17
+titolo: "Che sopprime la scuola normale maschile in S. Bartolomeo in Galdo, e ne istituisce una a Ripatransone con sezione per insegnamento del lavoro educativo. (095U0027)"
+urn: urn:nir:stato:regio.decreto:1895-01-17;27
+codice_redazionale: 095U0027
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,41 +22,26 @@ Vista la convenienza d'istituire un centro di studi normali, specialmente per l'
 
 Vedute le leggi sulla Pubblica Istruzione;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La scuola normale maschile inferiore «Remigio del Grosso» in San Bartolomeo in Galdo, e' soppressa.
 
-  
-  
-La scuola normale maschile inferiore «Remigio del Grosso» in San Bartolomeo in Galdo, e' soppressa.   
-  
+## Art. 2.
 
-Art. 2
-------
+E' istituita in Ripatransone una scuola normale maschile inferiore col titolo «Luigi Mercantini». Questa scuola avra' una sezione per l'insegnamento del lavoro educativo.
 
-  
-  
-E' istituita in Ripatransone una scuola normale maschile inferiore col titolo «Luigi Mercantini». Questa scuola avra' una sezione per l'insegnamento del lavoro educativo.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Un regolamento, approvato con decreto Ministeriale, indichera' le norme per l'anzidetto insegnamento.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 17 gennaio 1895.   
-  
-UMBERTO.   
-  
-Baccelli.   
-  
-Visto, Il Guardasigilli: V. Calenda Di Tavani.   
-  
+Un regolamento, approvato con decreto Ministeriale, indichera' le norme per l'anzidetto insegnamento. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 gennaio 1895. 
+ 
+ UMBERTO. 
+ 
+ Baccelli. 
+ 
+ Visto, Il Guardasigilli: V. Calenda Di Tavani.

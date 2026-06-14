@@ -1,16 +1,14 @@
-REGIO DECRETO 27 luglio 1871 n. 386
-
-
-REGIO DECRETO 27 luglio 1871 n. 386
-===================================
-
-Concernente il dazio di consumo del Comune di Tribano. (071U0386)
------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/09/1871
+---
+tipo: REGIO DECRETO
+numero: 386
+data: 1871-07-27
+titolo: "Concernente il dazio di consumo del Comune di Tribano. (071U0386)"
+urn: urn:nir:stato:regio.decreto:1871-07-27;386
+codice_redazionale: 071U0386
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,35 +18,28 @@ Vista la deliberazione del Consiglio comunale di Tribano, in data 16 aprile 1871
 
 Visto il succitato Decreto della Deputazione provinciale di Padova;
 
-Visto l'[articolo 143 della Legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art143), allegato A;
+Visto l'[articolo 143 della Legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_143), allegato A;
 
-Visti gli [articoli 13 della Legge 3 luglio 1864, n. 1827, 1 e 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1864-07-03;6~art13) del [Regio Decreto 28 giugno 1866, n. 3018](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-06-28;3018), ed 11 della [Legge 11 agosto 1870, n. 5784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784), allegato L;
+Visti gli [articoli 13 della Legge 3 luglio 1864, n. 1827, 1 e 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1864-07-03;6#art_13) del [Regio Decreto 28 giugno 1866, n. 3018](Col%20quale%20sono%20stabilite%20le%20tariffe%20per%20limposta%20dei%20dazi%20di%20consumo%20e%20dei%20generi%20di%20privativa.%20066U3018.md), ed 11 della [Legge 11 agosto 1870, n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md), allegato L;
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' accolto il preindicato reclamo del Consiglio comunale di Tribano, il quale rimane pertanto autorizzato ad esigere il dazio di consumo sulla minuta vendita del pane in ragione di L. 1,50 il quintale.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche addi' 27 luglio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 4 agosto 1871   
-  
-Reg. 57 Atti del Governo a c. 24. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-Quintino Sella.   
-  
+E' accolto il preindicato reclamo del Consiglio comunale di Tribano, il quale rimane pertanto autorizzato ad esigere il dazio di consumo sulla minuta vendita del pane in ragione di L. 1,50 il quintale. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche addi' 27 luglio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 4 agosto 1871 
+ 
+ Reg. 57 Atti del Governo a c. 24. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ Quintino Sella.

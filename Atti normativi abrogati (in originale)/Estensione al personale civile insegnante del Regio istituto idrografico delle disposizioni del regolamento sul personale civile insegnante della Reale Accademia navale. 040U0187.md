@@ -1,16 +1,14 @@
-REGIO DECRETO 01 febbraio 1940 n. 187
-
-
-REGIO DECRETO 01 febbraio 1940 n. 187
-=====================================
-
-Estensione al personale civile insegnante del Regio istituto idrografico delle disposizioni del regolamento sul personale civile insegnante della Reale Accademia navale. (040U0187)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/04/1940
+---
+tipo: REGIO DECRETO
+numero: 187
+data: 1940-02-01
+titolo: "Estensione al personale civile insegnante del Regio istituto idrografico delle disposizioni del regolamento sul personale civile insegnante della Reale Accademia navale. (040U0187)"
+urn: urn:nir:stato:regio.decreto:1940-02-01;187
+codice_redazionale: 040U0187
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,7 +16,7 @@ RE D'ITALIA E DI ALBANIA
 
 IMPERATORE D'ETIOPIA
 
-Visto il [R. decreto 14 maggio 1908, n. 232](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-05-14;232), sull'ordinamento del Regio istituto idrografico, e successive modificazioni;
+Visto il [R. decreto 14 maggio 1908, n. 232](Che%20approva%20lannesso%20riordinamento%20dellIstituto%20idrografico%20della%20R.%20marina.%20008U0232.md), sull'ordinamento del Regio istituto idrografico, e successive modificazioni;
 
 Visto il R. decreto 18 giugno 1931-IX, n. 978, riguardante gli organici dei personali civili della Regia marina e successive modificazioni;
 
@@ -34,28 +32,22 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la marina, di concerto coi Ministri per le finanze e per l'educazione nazionale; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per la marina, di concerto coi Ministri per le finanze e per l'educazione nazionale; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le disposizioni del regolamento sull'ordinamento, avanzamento e stato giuridico del personale civile insegnante della Reale Accademia navale, approvato col R. decreto 15 ottobre 1936-XIV, n. 2135, sono estese, in quanto applicabili, ai professori del Regio istituto idrografico della Regia marina di cui all'art. 1 del R. decreto 18 giugno 1931-IX, n. 978, modificato dall'art. 5 del R. decreto 16 maggio 1932-X, n. 595.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 1° febbraio 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel - Bottai   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi 6 aprile 1940-XVIII   
-  
-Atti del Governo, registro 420, foglio 18. - Mancini   
+Le disposizioni del regolamento sull'ordinamento, avanzamento e stato giuridico del personale civile insegnante della Reale Accademia navale, approvato col R. decreto 15 ottobre 1936-XIV, n. 2135, sono estese, in quanto applicabili, ai professori del Regio istituto idrografico della Regia marina di cui all'art. 1 del R. decreto 18 giugno 1931-IX, n. 978, modificato dall'art. 5 del R. decreto 16 maggio 1932-X, n. 595. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° febbraio 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel - Bottai 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi 6 aprile 1940-XVIII 
+ 
+ Atti del Governo, registro 420, foglio 18. - Mancini

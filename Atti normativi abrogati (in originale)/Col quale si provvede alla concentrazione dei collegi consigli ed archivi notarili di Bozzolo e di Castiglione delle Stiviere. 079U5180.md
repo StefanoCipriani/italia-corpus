@@ -1,16 +1,14 @@
-REGIO DECRETO 04 dicembre 1879 n. 5180
-
-
-REGIO DECRETO 04 dicembre 1879 n. 5180
-======================================
-
-Col quale si provvede alla concentrazione dei collegi, consigli ed archivi notarili di Bozzolo e di Castiglione delle Stiviere. (079U5180)
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/12/1879
+---
+tipo: REGIO DECRETO
+numero: 5180
+data: 1879-12-04
+titolo: "Col quale si provvede alla concentrazione dei collegi, consigli ed archivi notarili di Bozzolo e di Castiglione delle Stiviere. (079U5180)"
+urn: urn:nir:stato:regio.decreto:1879-12-04;5180
+codice_redazionale: 079U5180
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,26 +22,19 @@ Ritenuto che quanto al distretto notarile di Bozzolo si verificherebbero inoltre
 
 Considerato che la circoscrizione dei distretti notarili segue la circoscrizione giudiziaria e che i distretti notarili di Bozzolo e di Castiglione delle Stiviere debbono necessariamente essere riuniti, come attualmente esistono, al distretto di Mantova, capoluogo della provincia, non restando nel territorio della medesima altri distretti notarili;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Collegi, i Consigli e gli Archivi notarili di Bozzolo e di Castiglione delle Stiviere sono soppressi e riuniti al distretto notarile di Mantova, capoluogo della provincia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 dicembre 1879.   
-  
-UMBERTO.   
-  
-T. Villa.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+I Collegi, i Consigli e gli Archivi notarili di Bozzolo e di Castiglione delle Stiviere sono soppressi e riuniti al distretto notarile di Mantova, capoluogo della provincia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 dicembre 1879. 
+ 
+ UMBERTO. 
+ 
+ T. Villa. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

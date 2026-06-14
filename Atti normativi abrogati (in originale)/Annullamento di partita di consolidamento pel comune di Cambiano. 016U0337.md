@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 17 febbraio 1916 n. 337
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 337
+data: 1916-02-17
+titolo: "Annullamento di partita di consolidamento pel comune di Cambiano. (016U0337)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-02-17;337
+codice_redazionale: 016U0337
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 17 febbraio 1916 n. 337
-===============================================
-
-Annullamento di partita di consolidamento pel comune di Cambiano. (016U0337)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/04/1916
-
-Art. 1
-------
-
-null
+## Art. 1. — null

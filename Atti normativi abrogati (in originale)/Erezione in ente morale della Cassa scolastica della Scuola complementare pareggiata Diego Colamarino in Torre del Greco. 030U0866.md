@@ -1,21 +1,21 @@
-REGIO DECRETO 05 giugno 1930 n. 866
+---
+tipo: REGIO DECRETO
+numero: 866
+data: 1930-06-05
+titolo: "Erezione in ente morale della Cassa scolastica della Scuola complementare pareggiata «Diego Colamarino», in Torre del Greco. (030U0866)"
+urn: urn:nir:stato:regio.decreto:1930-06-05;866
+codice_redazionale: 030U0866
+vigente: true
+---
 
-
-REGIO DECRETO 05 giugno 1930 n. 866
-===================================
-
-Erezione in ente morale della Cassa scolastica della Scuola complementare pareggiata «Diego Colamarino», in Torre del Greco. (030U0866)
----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/07/1930
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-866. R. decreto 5 giugno 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, viene eretta in ente morale la Cassa scolastica della Scuola complementare pareggiata «Diego Colamarino», in Torre del Greco e n'e' approvato lo statuto.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 1° luglio 1930 - Anno VIII
+866.
+
+R. decreto 5 giugno 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, viene eretta in ente morale la Cassa scolastica della Scuola complementare pareggiata «Diego Colamarino», in Torre del Greco e n'e' approvato lo statuto. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 1° luglio 1930 - Anno VIII

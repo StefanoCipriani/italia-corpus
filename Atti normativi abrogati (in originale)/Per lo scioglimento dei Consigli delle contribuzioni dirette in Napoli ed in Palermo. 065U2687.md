@@ -1,16 +1,14 @@
-REGIO DECRETO 21 dicembre 1865 n. 2687
-
-
-REGIO DECRETO 21 dicembre 1865 n. 2687
-======================================
-
-Per lo scioglimento dei Consigli delle contribuzioni dirette in Napoli ed in Palermo. (065U2687)
-------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/01/1866
+---
+tipo: REGIO DECRETO
+numero: 2687
+data: 1865-12-21
+titolo: "Per lo scioglimento dei Consigli delle contribuzioni dirette in Napoli ed in Palermo. (065U2687)"
+urn: urn:nir:stato:regio.decreto:1865-12-21;2687
+codice_redazionale: 065U2687
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,37 +26,26 @@ Visto l'art. 15 della Legge 20 marzo 1865, N.° 2248, (Allegato E) per la quale 
 
 Visto il parere del Consiglio di Stato, emesso in seduta del 9 agosto 1865;
 
-Sulla
------
+Sulla proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I Consigli delle contribuzioni dirette in Napoli ed in Palermo sono sciolti a cominciare dal 1.° gennaio 1866.
 
-  
-  
-I Consigli delle contribuzioni dirette in Napoli ed in Palermo sono sciolti a cominciare dal 1.° gennaio 1866.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Le carte e registri conservati negli archivi dei medesimi Consigli saranno consegnati ai rispettivi Uffici del Contenzioso finanziario di Napoli e di Palermo.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Firenze addi' 21 dicembre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 26 dicembre 1865   
-  
-Reg.° 34 Atti del Governo a c. 160. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Quintino Sella.   
-  
+Le carte e registri conservati negli archivi dei medesimi Consigli saranno consegnati ai rispettivi Uffici del Contenzioso finanziario di Napoli e di Palermo. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Firenze addi' 21 dicembre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 26 dicembre 1865 
+ 
+ Reg.° 34 Atti del Governo a c. 160. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Quintino Sella.

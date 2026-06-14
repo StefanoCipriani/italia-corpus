@@ -1,16 +1,14 @@
-REGIO DECRETO 01 marzo 1928 n. 708
-
-
-REGIO DECRETO 01 marzo 1928 n. 708
-==================================
-
-Proroga del termine per l'amministrazione temporanea dell'Associazione italiana degli albergatori e conferma nella carica del Regio commissario. (028U0708)
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/05/1928
+---
+tipo: REGIO DECRETO
+numero: 708
+data: 1928-03-01
+titolo: "Proroga del termine per l'amministrazione temporanea dell'Associazione italiana degli albergatori e conferma nella carica del Regio commissario. (028U0708)"
+urn: urn:nir:stato:regio.decreto:1928-03-01;708
+codice_redazionale: 028U0708
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Visto il Nostro decreto 23 giugno 1927, n. 1222, col quale fu approvato il nuovo
 
 Considerata l'opportunita' di prorogare l'amministrazione straordinaria dell'Associazione medesima per regolarizzarne il funzionamento;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' prorogato al 31 maggio 1928 il termine per la temporanea amministrazione dell'Associazione italiana degli albergatori e l'on.  
-dott. Ferruccio Lantini, deputato al Parlamento, e' confermato nella carica di Regio commissario per la straordinaria gestione dell'Associazione stessa.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 1° marzo 1928 - Anno VI   
-  
-VITTORIO EMANUELE   
-  
-Belluzzo.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 13 aprile 1928 - Anno VI   
-Atti del Governo, registro 271, foglio 111. - Casati.   
-  
+E' prorogato al 31 maggio 1928 il termine per la temporanea amministrazione dell'Associazione italiana degli albergatori e l'on.
+dott. Ferruccio Lantini, deputato al Parlamento, e' confermato nella carica di Regio commissario per la straordinaria gestione dell'Associazione stessa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° marzo 1928 - Anno VI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Belluzzo. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 13 aprile 1928 - Anno VI  
+ Atti del Governo, registro 271, foglio 111. - Casati.

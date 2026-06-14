@@ -1,22 +1,20 @@
-REGIO DECRETO 03 agosto 1873 n. 1521
-
-
-REGIO DECRETO 03 agosto 1873 n. 1521
-====================================
-
-Col quale il Comune di Reggio d'Emilia e' dichiarato di 3ª classe nei rapporti del dazio di consumo. (073U1521)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/09/1873
+---
+tipo: REGIO DECRETO
+numero: 1521
+data: 1873-08-03
+titolo: "Col quale il Comune di Reggio d'Emilia e' dichiarato di 3ª classe nei rapporti del dazio di consumo. (073U1521)"
+urn: urn:nir:stato:regio.decreto:1873-08-03;1521
+codice_redazionale: 073U1521
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Veduto l'[articolo 4 della legge 3 luglio 1864 n. 1827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1864-07-03;1827~art4), e l'art. 3° del legislativo decreto 28 giugno 1866 n. 3018;
+Veduto l'[articolo 4 della legge 3 luglio 1864 n. 1827](Sulla%20tassa%20governativa%20e%20dazio%20comunale%20di%20consumo.%20064U1827.md), e l'art. 3° del legislativo decreto 28 giugno 1866 n. 3018;
 
 Veduto il R. decreto 22 giugno 1870, col quale il comune di Reggio d'Emilia venne dichiarato di seconda classe nei rapporti del dazio di consumo;
 
@@ -24,23 +22,18 @@ Ritenuto che pel censimento del 1871 si ebbe a constatare che la popolazione del
 
 Sulla proposta del Ministro delle Finanze,
 
-Sentito
--------
+Sentito il parere del Consiglio di Stato, Abbiamo decretato e decretiamo quanto segue:
 
-il parere del Consiglio di Stato, Abbiamo decretato e decretiamo quanto segue:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il comune di Reggio d'Emilia nei rapporti dei dazi di consumo e' dichiarato di terza classe a far tempo dal primo giorno del mese di settembre
 
-1873. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, addi' 3 agosto 1873.   
-  
-VITTORIO EMANUELE.   
-  
-M. Minghetti.
+1873.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, addi' 3 agosto 1873. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. Minghetti.

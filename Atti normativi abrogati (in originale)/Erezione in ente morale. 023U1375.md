@@ -1,17 +1,17 @@
-REGIO DECRETO 23 giugno 1923 n. 1375
+---
+tipo: REGIO DECRETO
+numero: 1375
+data: 1923-06-23
+titolo: "Erezione in ente morale. (023U1375)"
+urn: urn:nir:stato:regio.decreto:1923-06-23;1375
+codice_redazionale: 023U1375
+vigente: true
+---
 
-
-REGIO DECRETO 23 giugno 1923 n. 1375
-====================================
-
-Erezione in ente morale. (023U1375)
------------------------------------
-
-Entrata in vigore del provvedimento: 20/07/1923
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1375. R. decreto 23 giugno 1923 col quale sulla proposta del Ministro per l'industria e il commercio l'Istituto per le case popolari con sede in Novara viene eretto in ente morale ed approvato lo statuto organico relativo.
+1375.
+
+R. decreto 23 giugno 1923 col quale sulla proposta del Ministro per l'industria e il commercio l'Istituto per le case popolari con sede in Novara viene eretto in ente morale ed approvato lo statuto organico relativo.

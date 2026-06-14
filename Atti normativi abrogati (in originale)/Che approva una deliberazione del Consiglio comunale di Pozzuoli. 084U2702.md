@@ -1,16 +1,14 @@
-REGIO DECRETO 22 settembre 1884 n. 2702
-
-
-REGIO DECRETO 22 settembre 1884 n. 2702
-=======================================
-
-Che approva una deliberazione del Consiglio comunale di Pozzuoli. (084U2702)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/11/1884
+---
+tipo: REGIO DECRETO
+numero: 2702
+data: 1884-09-22
+titolo: "Che approva una deliberazione del Consiglio comunale di Pozzuoli. (084U2702)"
+urn: urn:nir:stato:regio.decreto:1884-09-22;2702
+codice_redazionale: 084U2702
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,29 +24,22 @@ Visto l'art. 6 del legislativo decreto in data del 28 giugno 1866, n. 3018;
 
 Udita la Deputazione provinciale di Napoli;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata la succitata deliberazione del Consiglio comunale di Pozzuoli in data del 22 dicembre 1877, colla quale venne stabilito un dazio di consumo sulle farine, sul pane e sulle paste in misura eccedente il dieci per cento del valore da riscuotersi colla seguente tariffa tanto alla introduzione nella linea daziaria quanto al di fuori sulla vendita al minuto, cioe':   
-  
-Farina di frumento con crusca, al quintale . . . . . L. 4 --   
-  
-Fiore, biscotto, pane, pasta lavorata e semola, id . » 4 80   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 22 settembre 1884.   
-  
-UMBERTO.   
-  
-A. Magliani.   
-  
-Visto, Il Guardasigilli: Ferracciu'.   
-  
+E' approvata la succitata deliberazione del Consiglio comunale di Pozzuoli in data del 22 dicembre 1877, colla quale venne stabilito un dazio di consumo sulle farine, sul pane e sulle paste in misura eccedente il dieci per cento del valore da riscuotersi colla seguente tariffa tanto alla introduzione nella linea daziaria quanto al di fuori sulla vendita al minuto, cioe': 
+ 
+ Farina di frumento con crusca, al quintale . . . . . L. 4 -- 
+ 
+ Fiore, biscotto, pane, pasta lavorata e semola, id . » 4 80 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 22 settembre 1884. 
+ 
+ UMBERTO. 
+ 
+ A. Magliani. 
+ 
+ Visto, Il Guardasigilli: Ferracciu'.

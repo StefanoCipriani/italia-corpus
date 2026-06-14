@@ -1,16 +1,14 @@
-REGIO DECRETO 15 febbraio 1925 n. 247
-
-
-REGIO DECRETO 15 febbraio 1925 n. 247
-=====================================
-
-Aumento del contributo annuo dello Stato al Consorzio dei rimboschimenti della provincia di Perugia. (025U0247)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/04/1925
+---
+tipo: REGIO DECRETO
+numero: 247
+data: 1925-02-15
+titolo: "Aumento del contributo annuo dello Stato al Consorzio dei rimboschimenti della provincia di Perugia. (025U0247)"
+urn: urn:nir:stato:regio.decreto:1925-02-15;247
+codice_redazionale: 025U0247
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,32 +22,26 @@ Visto che la Provincia stessa ha portato il suo contributo a L. 16,000, come ris
 
 Vista la deliberazione 15 gennaio 1925 del Comitato di amministrazione dell'azienda del Demanio forestale di Stato;
 
-Visto l'[art. 75 del R. decreto 30 dicembre 1923, n. 3267](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267~art75);
+Visto l'[art. 75 del R. decreto 30 dicembre 1923, n. 3267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3267#art_75);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il contributo annuo dello Stato nei lavori di rimboschimento da eseguirsi nella provincia di Perugia, a cura di quel Comitato forestale, determinato sino alla somma di L. 3000 col [R. decreto 7 dicembre 1905 n. 615](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-12-07;615), e' aumentato, a decorrere dall'esercizio finanziario 1924-1925, sino alla somma di L. 16,000 corrispondente al contributo stabilito dalla Provincia interessata.   
-  
-La somma di L. 16.000 anzidetta sara' prelevata dal fondo stanziato nel bilancio passivo dell'azienda del Demanio forestale di Stato, all'art. 2, per l'esercizio 1924-1925, ed all'articolo corrispondente dei bilanci per gli esercizi futuri.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 15 febbraio 1925.   
-  
-VITTORIO EMANUELE   
-  
-Nava.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 13 marzo 1925.   
-  
-Atti del Governo, registro 234, foglio 70 - Granata.   
+Il contributo annuo dello Stato nei lavori di rimboschimento da eseguirsi nella provincia di Perugia, a cura di quel Comitato forestale, determinato sino alla somma di L. 3000 col [R. decreto 7 dicembre 1905 n. 615](Che%20da%20incarico%20al%20Comitato%20forestale%20di%20Perugia%20di%20promuovere%20il%20rimboscamento%20e%20il%20consolidamento%20di%20terreni%20montani%20nella%20provincia.%20005U0615.md), e' aumentato, a decorrere dall'esercizio finanziario 1924-1925, sino alla somma di L. 16,000 corrispondente al contributo stabilito dalla Provincia interessata. 
+ 
+ La somma di L. 16.000 anzidetta sara' prelevata dal fondo stanziato nel bilancio passivo dell'azienda del Demanio forestale di Stato, all'art. 2, per l'esercizio 1924-1925, ed all'articolo corrispondente dei bilanci per gli esercizi futuri. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 15 febbraio 1925. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Nava. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 13 marzo 1925. 
+ 
+ Atti del Governo, registro 234, foglio 70 - Granata.

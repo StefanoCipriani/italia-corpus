@@ -1,19 +1,15 @@
-REGIO DECRETO 17 luglio 1908 n. CCCLI
+---
+tipo: REGIO DECRETO
+numero: CCCLI
+data: 1908-07-17
+titolo: "Riflettente approvazione di statuto. (0800351R)"
+urn: urn:nir:stato:regio.decreto:1908-07-17;351
+codice_redazionale: 0800351R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 luglio 1908 n. CCCLI
-=====================================
-
-Riflettente approvazione di statuto. (0800351R)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/10/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro per l'agricoltura, industria e commercio:   
-  
-N. CCCLI (Dato a Racconigi, il 17 luglio 1908), col quale si approva lo statuto organico della Cassa agraria di Gibellina.   
-  
+Sulla proposta del ministro per l'agricoltura, industria e commercio: 
+ 
+ N. CCCLI (Dato a Racconigi, il 17 luglio 1908), col quale si approva lo statuto organico della Cassa agraria di Gibellina.

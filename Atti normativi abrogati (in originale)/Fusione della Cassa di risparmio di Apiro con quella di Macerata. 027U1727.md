@@ -1,21 +1,21 @@
-REGIO DECRETO 12 agosto 1927 n. 1727
+---
+tipo: REGIO DECRETO
+numero: 1727
+data: 1927-08-12
+titolo: "Fusione della Cassa di risparmio di Apiro con quella di Macerata. (027U1727)"
+urn: urn:nir:stato:regio.decreto:1927-08-12;1727
+codice_redazionale: 027U1727
+vigente: true
+---
 
-
-REGIO DECRETO 12 agosto 1927 n. 1727
-====================================
-
-Fusione della Cassa di risparmio di Apiro con quella di Macerata. (027U1727)
-----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/10/1927
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1727. R. decreto 12 agosto 1927, col quale, sulla proposta del Ministro per l'economia nazionale, si provvede per la fusione della Cassa di risparmio di Apiro con quella di Macerata.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 26 settembre 1927 - Anno V
+1727.
+
+R. decreto 12 agosto 1927, col quale, sulla proposta del Ministro per l'economia nazionale, si provvede per la fusione della Cassa di risparmio di Apiro con quella di Macerata. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 26 settembre 1927 - Anno V

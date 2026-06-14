@@ -1,16 +1,14 @@
-REGIO DECRETO 28 luglio 1939 n. 1688
-
-
-REGIO DECRETO 28 luglio 1939 n. 1688
-====================================
-
-Facolta' ai nativi dell'Africa Italiana analfabeti di poter riscuotere vaglia cambiari dell'Istituto di emissione, del Banco di Napoli e del Banco di Sicilia mediante impronta digitale. (039U1688)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/12/1939
+---
+tipo: REGIO DECRETO
+numero: 1688
+data: 1939-07-28
+titolo: "Facolta' ai nativi dell'Africa Italiana analfabeti di poter riscuotere vaglia cambiari dell'Istituto di emissione, del Banco di Napoli e del Banco di Sicilia mediante impronta digitale. (039U1688)"
+urn: urn:nir:stato:regio.decreto:1939-07-28;1688
+codice_redazionale: 039U1688
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,30 +28,24 @@ Udito il parere del Consiglio superiore coloniale;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro Segretario di Stato per l'Africa Italiana, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro Segretario di Stato per l'Africa Italiana, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ai cittadini italiani con statuto personale e successorio mussulmano, ai cittadini italiani libici ed ai sudditi dell'Africa Orientale Italiana ed assimilati, analfabeti, e' consentito di poter effettuare la girata dei vaglia cambiari dell'Istituto di emissione e dei titoli similari del Banco di Napoli e del Banco di Sicilia e di ogni altro titolo di credito all'ordine emesso a loro favore da tutti gli istituti di credito autorizzati eccedenti il Valore di lire cinquemila e limitatamente ai territori della Libia e dell'Africa Orientale Italiana, mediante impronta digitale.   
-  
-Il titolo di credito deve pero' essere controfirmato da due testimoni capaci di intervenire validamente negli atti pubblici a termini delle leggi vigenti e la loro firma deve essere autenticata da un notaio, o dal podesta', o dall'autorita' giudiziaria del luogo, od, in mancanza, dal Residente o dal Vice residente.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 luglio 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 19 novembre 1939-XVIII   
-  
-Atti del Governo, registro 415, foglio 52. - MANCINI   
+Ai cittadini italiani con statuto personale e successorio mussulmano, ai cittadini italiani libici ed ai sudditi dell'Africa Orientale Italiana ed assimilati, analfabeti, e' consentito di poter effettuare la girata dei vaglia cambiari dell'Istituto di emissione e dei titoli similari del Banco di Napoli e del Banco di Sicilia e di ogni altro titolo di credito all'ordine emesso a loro favore da tutti gli istituti di credito autorizzati eccedenti il Valore di lire cinquemila e limitatamente ai territori della Libia e dell'Africa Orientale Italiana, mediante impronta digitale. 
+ 
+ Il titolo di credito deve pero' essere controfirmato da due testimoni capaci di intervenire validamente negli atti pubblici a termini delle leggi vigenti e la loro firma deve essere autenticata da un notaio, o dal podesta', o dall'autorita' giudiziaria del luogo, od, in mancanza, dal Residente o dal Vice residente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 luglio 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 19 novembre 1939-XVIII 
+ 
+ Atti del Governo, registro 415, foglio 52. - MANCINI

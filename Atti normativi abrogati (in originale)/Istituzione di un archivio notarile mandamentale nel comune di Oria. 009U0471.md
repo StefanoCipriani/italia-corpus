@@ -1,16 +1,14 @@
-REGIO DECRETO 27 giugno 1909 n. 471
-
-
-REGIO DECRETO 27 giugno 1909 n. 471
-===================================
-
-Istituzione di un archivio notarile mandamentale nel comune di Oria. (009U0471)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/08/1909
+---
+tipo: REGIO DECRETO
+numero: 471
+data: 1909-06-27
+titolo: "Istituzione di un archivio notarile mandamentale nel comune di Oria. (009U0471)"
+urn: urn:nir:stato:regio.decreto:1909-06-27;471
+codice_redazionale: 009U0471
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Viste le deliberazioni dei Consigli comunali di Oria, Torre Santa Susanna ed Erc
 
 Visto il parere emesso al riguardo dalla Deputazione provinciale di Lecce nell'8 aprile 1908;
 
-Visti gli articoli 3, 101 e 105 della legge notarile, testo unico approvato con [R. decreto 25 maggio 1879, n. 4900](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1879-05-25;4900) (serie 2ª) nonche' l'articolo 94 del relativo regolamento 23 novembre stesso anno, n. 5170 (serie 2ª);
+Visti gli articoli 3, 101 e 105 della legge notarile, testo unico approvato con [R. decreto 25 maggio 1879, n. 4900](Che%20approva%20il%20testo%20unico%20delle%20leggi%20sul%20riordinamento%20del%20notariato.%20079U4900.md) (serie 2ª) nonche' l'articolo 94 del relativo regolamento 23 novembre stesso anno, n. 5170 (serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro guardasigilli, ministro segretario di Stato per gli affari di grazia e giustizia e dei culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro guardasigilli, ministro segretario di Stato per gli affari di grazia e giustizia e dei culti; Abbiamo decretato e decretiamo:
+## Articolo unico
 
-Articolo unico
---------------
-
-  
-  
-E' instituito l'archivio notarile mandamentale nel comune di Oria, distretto notarile di Lecco.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 27 giugno 1909.   
-  
-VITTORIO EMANUELE.   
-  
-ORLANDO.   
-  
-Visto, Il guardasigilli: ORLANDO.   
-  
+E' instituito l'archivio notarile mandamentale nel comune di Oria, distretto notarile di Lecco. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 giugno 1909. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ ORLANDO. 
+ 
+ Visto, Il guardasigilli: ORLANDO.

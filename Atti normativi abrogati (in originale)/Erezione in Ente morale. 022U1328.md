@@ -1,17 +1,17 @@
-REGIO DECRETO 20 settembre 1922 n. 1328
+---
+tipo: REGIO DECRETO
+numero: 1328
+data: 1922-09-20
+titolo: "Erezione in Ente morale. (022U1328)"
+urn: urn:nir:stato:regio.decreto:1922-09-20;1328
+codice_redazionale: 022U1328
+vigente: true
+---
 
-
-REGIO DECRETO 20 settembre 1922 n. 1328
-=======================================
-
-Erezione in Ente morale. (022U1328)
------------------------------------
-
-Entrata in vigore del provvedimento: 14/11/1922
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1328. Regio decreto 20 settembre 1922, col quale, sulla proposta del ministro dell'interno, il legato Tornielli di Adria viene eretto in Ente morale e concentrato nella locale Congregazione di carita'.
+1328.
+
+Regio decreto 20 settembre 1922, col quale, sulla proposta del ministro dell'interno, il legato Tornielli di Adria viene eretto in Ente morale e concentrato nella locale Congregazione di carita'.

@@ -1,16 +1,14 @@
-REGIO DECRETO 17 gennaio 1892 n. 25
-
-
-REGIO DECRETO 17 gennaio 1892 n. 25
-===================================
-
-Che accorda al Consorzio d'irrigazione di Tromello Lomellina (Pavia) la facolta' di riscuotere con i privilegi e nelle forme fiscali il contributo dei soci. (092U0025)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/02/1892
+---
+tipo: REGIO DECRETO
+numero: 25
+data: 1892-01-17
+titolo: "Che accorda al Consorzio d'irrigazione di Tromello Lomellina (Pavia) la facolta' di riscuotere con i privilegi e nelle forme fiscali il contributo dei soci. (092U0025)"
+urn: urn:nir:stato:regio.decreto:1892-01-17;25
+codice_redazionale: 092U0025
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,27 +22,20 @@ Visto il regolamento del Consorzio e gli altri atti relativi;
 
 Veduta la deliberazione dell'assemblea generale dei soci, con cui sono accettate le modificazioni al regolamento suggerite dal Nostro Ministro per l'Agricoltura, Industria e Commercio;
 
-Vista la [legge 29 maggio 1873 n. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (serie 2ª);
+Vista la [legge 29 maggio 1873 n. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md) (serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro Ministro per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al Consorzio d'irrigazione di Tromello Lomellina, in provincia di Pavia, e' accordata la facolta' di riscuotere con i privilegi e nelle forme fiscali, il contributo dei soci.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 17 gennaio 1892.   
-  
-UMBERTO.   
-  
-Di Rudini'.   
-  
-Visto, Il Guardasigilli: B. Chimirri.   
-  
+Al Consorzio d'irrigazione di Tromello Lomellina, in provincia di Pavia, e' accordata la facolta' di riscuotere con i privilegi e nelle forme fiscali, il contributo dei soci. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 gennaio 1892. 
+ 
+ UMBERTO. 
+ 
+ Di Rudini'. 
+ 
+ Visto, Il Guardasigilli: B. Chimirri.

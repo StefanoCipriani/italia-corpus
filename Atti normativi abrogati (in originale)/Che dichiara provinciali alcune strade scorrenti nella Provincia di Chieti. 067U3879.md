@@ -1,16 +1,14 @@
-REGIO DECRETO 22 agosto 1867 n. 3879
-
-
-REGIO DECRETO 22 agosto 1867 n. 3879
-====================================
-
-Che dichiara provinciali alcune strade scorrenti nella Provincia di Chieti. (067U3879)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/10/1867
+---
+tipo: REGIO DECRETO
+numero: 3879
+data: 1867-08-22
+titolo: "Che dichiara provinciali alcune strade scorrenti nella Provincia di Chieti. (067U3879)"
+urn: urn:nir:stato:regio.decreto:1867-08-22;3879
+codice_redazionale: 067U3879
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,38 +24,22 @@ Visto il voto espresso dal Consiglio superiore dei lavori pubblici nella sua adu
 
 Visto il parere del Consiglio di Stato, emesso in adunanza 13 corrente mese;
 
-Sulla
------
+Sulla proposta del Ministro dei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Ministro dei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate Provinciali le dieci strade comprese nel predetto Elenco, il quale restera' unito al presente Decreto, visto d'ordine Nostro dal Ministro dei Lavori Pubblici.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 22 agosto 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 29 agosto 1867   
-  
-Reg. 40 Atti del Governo a c. 213. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Tecchio.   
-  
-Giovanola.   
-  
-
-Elenco
-
-  
-ELENCO delle strade dichiarate provinciali dal Consiglio amministrativo della Provincia di Chieti, con deliberazione del 23 settembre 1866.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=067U387900100010110001&dgu=1867-09-16&art.dataPubblicazioneGazzetta=1867-09-16&art.codiceRedazionale=067U3879)
-  
-  
+Sono dichiarate Provinciali le dieci strade comprese nel predetto Elenco, il quale restera' unito al presente Decreto, visto d'ordine Nostro dal Ministro dei Lavori Pubblici. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 22 agosto 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 29 agosto 1867 
+ 
+ Reg. 40 Atti del Governo a c. 213. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Tecchio. 
+ 
+ Giovanola.

@@ -1,16 +1,14 @@
-REGIO DECRETO 14 agosto 1879 n. 5036
-
-
-REGIO DECRETO 14 agosto 1879 n. 5036
-====================================
-
-Che separa il comune di Buttigliera dalla sezione elettorale di Castelnuovo, formando una sezione distinta del collegio elettorale di Villanuova d'Asti. (079U5036)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/09/1879
+---
+tipo: REGIO DECRETO
+numero: 5036
+data: 1879-08-14
+titolo: "Che separa il comune di Buttigliera dalla sezione elettorale di Castelnuovo, formando una sezione distinta del collegio elettorale di Villanuova d'Asti. (079U5036)"
+urn: urn:nir:stato:regio.decreto:1879-08-14;5036
+codice_redazionale: 079U5036
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,26 +20,19 @@ Veduta l'istanza del comune di Buttigliera per essere costituito sezione del Col
 
 Noverandosi nel comune stesso piu' di 40 elettori inscritti, e la chiesta costituzione in sezione autonoma valendo ad agevolare agli elettori politici del comune di Buttigliera l'esercizio del diritto di voto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Buttigliera e' separato dalla sezione elettorale di Castelnuovo e formera' una sezione distinta del Collegio elettorale di Villanova d'Asti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 14 agosto 1879.   
-  
-UMBERTO.   
-  
-T. Villa.   
-  
-Visto - Il Guardasigilli   
-Vare'.   
-  
+Il comune di Buttigliera e' separato dalla sezione elettorale di Castelnuovo e formera' una sezione distinta del Collegio elettorale di Villanova d'Asti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 14 agosto 1879. 
+ 
+ UMBERTO. 
+ 
+ T. Villa. 
+ 
+ Visto - Il Guardasigilli 
+ Vare'.

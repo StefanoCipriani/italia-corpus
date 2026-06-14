@@ -1,16 +1,14 @@
-REGIO DECRETO 23 aprile 1882 n. 743
-
-
-REGIO DECRETO 23 aprile 1882 n. 743
-===================================
-
-Col quale viene modificata la tabella di riparto dei consiglieri della provincia di Genova. (082U0743)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/06/1882
+---
+tipo: REGIO DECRETO
+numero: 743
+data: 1882-04-23
+titolo: "Col quale viene modificata la tabella di riparto dei consiglieri della provincia di Genova. (082U0743)"
+urn: urn:nir:stato:regio.decreto:1882-04-23;743
+codice_redazionale: 082U0743
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,25 +20,18 @@ Visto il Nostro Regio decreto del 23 giugno 1867, col quale nel modificare il pr
 
 Viste le istanze fatte dal comune di Millesimo per ottenere che i citati due mandamenti di Cairo Montenotte e di Millesimo siano agli effetti delle elezioni provinciali dichiarati separati, assegnando un consigliere a ciascuno;
 
-Vista
------
+Vista la legge comunale e provinciale, Abbiamo decretato e decretiamo:
 
-la legge comunale e provinciale, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I mandamenti di Cairo Montenotte e di Millesimo formano due distinti distretti elettorali per la elezione di un consigliere provinciale per ciascuno, rimanendo di conformita' modificata la tabella di riparto dei consiglieri della provincia di Genova, annessa al succitato Nostro decreto del 23 giugno 1867.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 aprile 1882.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto, il Guardasigilli: G. Zanardelli.   
-  
+I mandamenti di Cairo Montenotte e di Millesimo formano due distinti distretti elettorali per la elezione di un consigliere provinciale per ciascuno, rimanendo di conformita' modificata la tabella di riparto dei consiglieri della provincia di Genova, annessa al succitato Nostro decreto del 23 giugno 1867. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 aprile 1882. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto, il Guardasigilli: G. Zanardelli.

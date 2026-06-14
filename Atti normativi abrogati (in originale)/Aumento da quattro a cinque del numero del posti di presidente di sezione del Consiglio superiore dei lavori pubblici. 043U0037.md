@@ -1,16 +1,14 @@
-REGIO DECRETO 11 gennaio 1943 n. 37
-
-
-REGIO DECRETO 11 gennaio 1943 n. 37
-===================================
-
-Aumento da quattro a cinque del numero del posti di presidente di sezione del Consiglio superiore dei lavori pubblici. (043U0037)
----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/03/1943
+---
+tipo: REGIO DECRETO
+numero: 37
+data: 1943-01-11
+titolo: "Aumento da quattro a cinque del numero del posti di presidente di sezione del Consiglio superiore dei lavori pubblici. (043U0037)"
+urn: urn:nir:stato:regio.decreto:1943-01-11;37
+codice_redazionale: 043U0037
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,28 +32,22 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' elevato da quattro a cinque il numero dei posti previsti per il grado 4° (presidenti di sezione del Consiglio superiore dei lavori pubblici) della pianta organica del ruolo del personale degli ingegneri del Real corpo del genio civile (gruppo A) di cui all'allegato B del R. decreto 11 luglio 1941-XIX, n. 675, modificato con l'art. 16 del R. decreto 27 luglio 1941-XII, n. 790.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 gennaio 1943-XXI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - GORLA - DI REVEL   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 19 febbraio 1943-XXI   
-  
-Atti dei Governo, registro 454, foglio 87. - MANCINI   
+E' elevato da quattro a cinque il numero dei posti previsti per il grado 4° (presidenti di sezione del Consiglio superiore dei lavori pubblici) della pianta organica del ruolo del personale degli ingegneri del Real corpo del genio civile (gruppo A) di cui all'allegato B del R. decreto 11 luglio 1941-XIX, n. 675, modificato con l'art. 16 del R. decreto 27 luglio 1941-XII, n. 790. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 gennaio 1943-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - GORLA - DI REVEL 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 19 febbraio 1943-XXI 
+ 
+ Atti dei Governo, registro 454, foglio 87. - MANCINI

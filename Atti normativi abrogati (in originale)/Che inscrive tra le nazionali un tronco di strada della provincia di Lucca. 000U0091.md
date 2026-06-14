@@ -1,24 +1,22 @@
-REGIO DECRETO 25 febbraio 1900 n. 91
-
-
-REGIO DECRETO 25 febbraio 1900 n. 91
-====================================
-
-Che inscrive tra le nazionali un tronco di strada della provincia di Lucca. (000U0091)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/04/1900
+---
+tipo: REGIO DECRETO
+numero: 91
+data: 1900-02-25
+titolo: "Che inscrive tra le nazionali un tronco di strada della provincia di Lucca. (000U0091)"
+urn: urn:nir:stato:regio.decreto:1900-02-25;91
+codice_redazionale: 000U0091
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduta la [legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248) (allegato F), sui Lavori Pubblici;
+Veduta la [legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248) (allegato F), sui Lavori Pubblici;
 
-Veduto il [R. decreto 23 marzo 1884, n. 2197](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-03-23;2197), di approvazione dell'elenco generale delle strade nazionali del Regno;
+Veduto il [R. decreto 23 marzo 1884, n. 2197](Che%20approva%20lannessovi%20elenco%20generale%20delle%20strade%20nazionali%20del%20Regno.%20084U2197.md), di approvazione dell'elenco generale delle strade nazionali del Regno;
 
 Ritenuto che, in conseguenza dell'apertura all'esercizio della ferrovia da Ponte a Moriano a Bagni di Lucca, passo' alla provincia di Lucca il tronco della strada nazionale n.39, compreso fra Ponte a Moriano e le Case del Gelso, presso la stazione ferroviaria di Bagni di Lucca;
 
@@ -32,33 +30,22 @@ Sentito il Consiglio Superiore dei Lavori Pubblici;
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato o decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato o decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il tratto della strada fra le Case del Gelso e la stazione ferroviaria di Bagni di Lucca, e' classificato nazionale e facente parte della strada nazionale n. 39.
 
-  
-  
-Il tratto della strada fra le Case del Gelso e la stazione ferroviaria di Bagni di Lucca, e' classificato nazionale e facente parte della strada nazionale n. 39.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-I limiti della predetta strada nazionale, di cui nell'elenco approvato col [R. decreto 23 marzo 1884, n. 2197](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-03-23;2197), sono conseguentemente determinati come segue:   
-  
-«Dalla stazione ferroviaria di Bagni di Lucca a Revere».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Roma, addi' 25 febbraio 1900.   
-  
-UMBERTO.   
-  
-Lacava.   
-  
-Visto, Il Guardasigilli: A. Bonasi.   
-  
+I limiti della predetta strada nazionale, di cui nell'elenco approvato col [R. decreto 23 marzo 1884, n. 2197](Che%20approva%20lannessovi%20elenco%20generale%20delle%20strade%20nazionali%20del%20Regno.%20084U2197.md), sono conseguentemente determinati come segue: 
+ 
+ «Dalla stazione ferroviaria di Bagni di Lucca a Revere». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Roma, addi' 25 febbraio 1900. 
+ 
+ UMBERTO. 
+ 
+ Lacava. 
+ 
+ Visto, Il Guardasigilli: A. Bonasi.

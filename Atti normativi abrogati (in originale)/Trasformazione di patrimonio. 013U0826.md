@@ -1,19 +1,15 @@
-REGIO DECRETO 12 giugno 1913 n. 826
+---
+tipo: REGIO DECRETO
+numero: 826
+data: 1913-06-12
+titolo: "Trasformazione di patrimonio. (013U0826)"
+urn: urn:nir:stato:regio.decreto:1913-06-12;826
+codice_redazionale: 013U0826
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 giugno 1913 n. 826
-===================================
-
-Trasformazione di patrimonio. (013U0826)
-----------------------------------------
-
-Entrata in vigore del provvedimento: 07/08/1913
-
-Art. 1
-------
-
-  
-N. 826   
-  
-Regio Decreto 12 giugno 1913, col quale, sulla proposta del ministro dell'interno, il fine inerente al patrimonio del Conservatorio di Santa Teresa in Castel Bolognese, e' parzialmente trasformato a favore del locale Orfanotrofio femminile.   
-  
+N. 826 
+ 
+ Regio Decreto 12 giugno 1913, col quale, sulla proposta del ministro dell'interno, il fine inerente al patrimonio del Conservatorio di Santa Teresa in Castel Bolognese, e' parzialmente trasformato a favore del locale Orfanotrofio femminile.

@@ -1,16 +1,14 @@
-REGIO DECRETO 22 gennaio 1911 n. 59
-
-
-REGIO DECRETO 22 gennaio 1911 n. 59
-===================================
-
-Che nomina il presidente della Commissione reale per le benemerenze del terremoto del 1908. (011U0059)
-------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/03/1911
+---
+tipo: REGIO DECRETO
+numero: 59
+data: 1911-01-22
+titolo: "Che nomina il presidente della Commissione reale per le benemerenze del terremoto del 1908. (011U0059)"
+urn: urn:nir:stato:regio.decreto:1911-01-22;59
+codice_redazionale: 011U0059
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,33 +22,24 @@ Ritenuto che dovendosi provvedere alla nomina di altro presidente a seguito dell
 
 Sulla proposta del Nostro ministro, segretario di Stato per gli affari dell'interno, presidente del Consiglio dei ministri;
 
-Udito
------
+Udito il Consiglio dei ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' abrogato il comma a) dell'[art. 4 del R. decreto 6 maggio 1909, n. 338](Istituzione%20di%20attestati%20di%20benemerenza%20in%20occasione%20del%20terremoto%20del%2028%20dicembre%201908%20in%20Calabria%20e%20in%20Sicilia.%20009U0338.md).
 
-  
-  
-E' abrogato il comma a) dell'[art. 4 del R. decreto 6 maggio 1909, n. 338](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-05-06;338~art4).   
-  
-
-Art. 2
-------
+## Art. 2.
 
 L'on. conte Rinaldo Taverna, presidente della Croce Rossa Italiana, e' nominato presidente della Commissione Reale per le benemerenze del terremoto calabro-siculo del 28 dicembre
 
-1908. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 gennaio 1911.   
-  
-VITTORIO EMANUELE.   
-  
-Luzzatti.   
-  
-Visto, Il guardasigilli: Fani.
+1908.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 gennaio 1911. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Luzzatti. 
+ 
+ Visto, Il guardasigilli: Fani.

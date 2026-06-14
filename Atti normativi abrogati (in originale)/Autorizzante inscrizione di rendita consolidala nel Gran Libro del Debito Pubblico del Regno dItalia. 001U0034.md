@@ -1,26 +1,24 @@
-REGIO DECRETO 20 gennaio 1901 n. 34
-
-
-REGIO DECRETO 20 gennaio 1901 n. 34
-===================================
-
-Autorizzante inscrizione di rendita consolidala nel Gran Libro del Debito Pubblico del Regno d'Italia. (001U0034)
------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/02/1901
+---
+tipo: REGIO DECRETO
+numero: 34
+data: 1901-01-20
+titolo: "Autorizzante inscrizione di rendita consolidala nel Gran Libro del Debito Pubblico del Regno d'Italia. (001U0034)"
+urn: urn:nir:stato:regio.decreto:1901-01-20;34
+codice_redazionale: 001U0034
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'[articolo 2 della legge 7 aprile 1892, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-04-07;111~art2), di creazione dei buoni del Tesoro a lunga scadenza;
+Visto l'[articolo 2 della legge 7 aprile 1892, n. 111](Che%20autorizza%20il%20Governo%20del%20Re%20ad%20emettere%20buoni%20del%20Tesoro%20a%20lunga%20scadenza%20per%20una%20somma%20fino%20a%20200%20milioni%20di%20lire.%20092U0111.md), di creazione dei buoni del Tesoro a lunga scadenza;
 
-Veduto l'articolo 19 del Regolamento per l'emissione dei buoni suddetti, approvato con [R. decreto 10 aprile 1892, n. 120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-04-10;120);
+Veduto l'articolo 19 del Regolamento per l'emissione dei buoni suddetti, approvato con [R. decreto 10 aprile 1892, n. 120](Che%20approva%20il%20regolamento%20per%20la%20emissione%20dei%20buoni%20del%20Tesoro%20a%20lunga%20scadenza%20autorizzati%20con%20legge%207%20aprile%201892.%20092U0120.md);
 
-Veduto l'articolo 6 dell'allegato L alla [legge 8 agosto 1895, n. 486](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486);
+Veduto l'articolo 6 dell'allegato L alla [legge 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486);
 
 Veduto il Nostro decreto 10 gennaio corrente mese, col quale il Ministro del Tesoro e' autorizzato a provvedere col giorno 25 gennaio corrente al pagamento anticipato del buono del Tesoro a lunga scadenza pel capitale di L. 100000, segnato col n. 50 della serie E, emissione 1894-95;
 
@@ -94,33 +92,22 @@ la rendita ora da creare si riduce alla somma di . . . L. 2727 --
 
 Ritenuto che alle variazioni occorrenti nello stato di previsione della spesa del Ministero del Tesoro per l'esercizio 1900-901 per diminuzione degli interessi relativi al buono estinto anticipatamente sara' provveduto col progetto di assestamento del bilancio stesso;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' autorizzata l'iscrizione sul Gran Libro del Debito pubblico del Regno d'Italia dell'annua rendita consolidata 4,50 % esente da ritenuta per qualsiasi imposta presente e futura, di lire duemilasettecentoventisette (L. 2727) con decorrenza di godimento dal 1° gennaio 1901, da valere agli effetti del secondo comma dell'articolo 6, allegato L, alla [legge 8 agosto 1895, n. 486](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486).
 
-  
-  
-E' autorizzata l'iscrizione sul Gran Libro del Debito pubblico del Regno d'Italia dell'annua rendita consolidata 4,50 % esente da ritenuta per qualsiasi imposta presente e futura, di lire duemilasettecentoventisette (L. 2727) con decorrenza di godimento dal 1° gennaio 1901, da valere agli effetti del secondo comma dell'articolo 6, allegato L, alla [legge 8 agosto 1895, n. 486](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;486).   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Per effetto dell'iscrizione di rendita suddetta, dovra' essere aumentato della somma di L. 1363.50, corrispondente a due rate trimestrali della rendita stessa, lo stanziamento del Capitolo 4 dello stato di previsione della spesa del Ministero del Tesoro per l'esercizio 1900.901, con la denominazione: t Rendita consolidata 4,50 % netto».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 20 gennaio 1901.   
-  
-VITTORIO EMANUELE.   
-  
-Finali.   
-  
-Visto, 11 Guardasigilli: Gianturco.   
-  
+Per effetto dell'iscrizione di rendita suddetta, dovra' essere aumentato della somma di L. 1363.50, corrispondente a due rate trimestrali della rendita stessa, lo stanziamento del Capitolo 4 dello stato di previsione della spesa del Ministero del Tesoro per l'esercizio 1900.901, con la denominazione: t Rendita consolidata 4,50 % netto». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 20 gennaio 1901. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Finali. 
+ 
+ Visto, 11 Guardasigilli: Gianturco.

@@ -1,19 +1,15 @@
-REGIO DECRETO 25 febbraio 1915 n. 281
+---
+tipo: REGIO DECRETO
+numero: 281
+data: 1915-02-25
+titolo: "Radiazione di strade dal novero delle militari. (015U0281)"
+urn: urn:nir:stato:regio.decreto:1915-02-25;281
+codice_redazionale: 015U0281
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 25 febbraio 1915 n. 281
-=====================================
-
-Radiazione di strade dal novero delle militari. (015U0281)
-----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/04/1915
-
-Art. 1
-------
-
-  
-N. 281   
-  
-Regio Decreto 25 febbraio 1915, col quale, sulla proposta del ministro della guerra, e' radiata dal novero delle militari, la strada Santa Marta-bivio Noviziato-Casazza e sua diramazione a Cataratti, della piazza di Messina.   
-  
+N. 281 
+ 
+ Regio Decreto 25 febbraio 1915, col quale, sulla proposta del ministro della guerra, e' radiata dal novero delle militari, la strada Santa Marta-bivio Noviziato-Casazza e sua diramazione a Cataratti, della piazza di Messina.

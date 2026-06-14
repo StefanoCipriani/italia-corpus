@@ -1,16 +1,14 @@
-REGIO DECRETO 22 febbraio 1877 n. 3689
-
-
-REGIO DECRETO 22 febbraio 1877 n. 3689
-======================================
-
-Che separa le frazioni di Oncino e Grazie, la prima dal comune di Boscotrecase e la seconda da quella di Boscoreale e le unisce al comune di Torre Annunziata. (077U3689)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/03/1877
+---
+tipo: REGIO DECRETO
+numero: 3689
+data: 1877-02-22
+titolo: "Che separa le frazioni di Oncino e Grazie, la prima dal comune di Boscotrecase e la seconda da quella di Boscoreale e le unisce al comune di Torre Annunziata. (077U3689)"
+urn: urn:nir:stato:regio.decreto:1877-02-22;3689
+codice_redazionale: 077U3689
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,33 +26,22 @@ Udito il parere del Consiglio di Stato;
 
 Visto l'articolo 15 § 2 della legge comunale e provinciale 20 marzo 1865, allegato A;
 
-Vista
------
+Vista la legge 29 giugno 1875, n. 2612, Abbiamo decretato e decretiamo:
 
-la legge 29 giugno 1875, n. 2612, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A cominciare dal 1° maggio 1877 le frazioni di Oncino e Grazie sono distaccate, la prima dal comune di Boscotrecase e la seconda da quello di Boscoreale ed unite al comune di Torre Annunziata. 
+ 
+ I confini dei suddetti tre comuni sono rispettivamente diminuiti ed aumentati della porzione di territorio risultante dalla pianta topografica redatta dall'architetto Salvatore Pennasilico in data 1° maggio 1874 ed autenticata dall'ingegnere capo del Genio civile di Napoli in data 9 febbraio 1877, che sara' d'ordine nostro vidimata dal Ministro proponente.
 
-  
-  
-A cominciare dal 1° maggio 1877 le frazioni di Oncino e Grazie sono distaccate, la prima dal comune di Boscotrecase e la seconda da quello di Boscoreale ed unite al comune di Torre Annunziata.   
-  
-I confini dei suddetti tre comuni sono rispettivamente diminuiti ed aumentati della porzione di territorio risultante dalla pianta topografica redatta dall'architetto Salvatore Pennasilico in data 1° maggio 1874 ed autenticata dall'ingegnere capo del Genio civile di Napoli in data 9 febbraio 1877, che sara' d'ordine nostro vidimata dal Ministro proponente.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Fino alla costituzione dei nuovi Consigli comunali di Torre Annunziata, Boscotrecase e Boscoreale, a cui si procedera' entro il mese di aprile, in base alle liste elettorali debitamente riformate, giusta le prescrizioni della legge comunale, le attuali rappresentanze dei tre comuni continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione dei futuri consigli.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 febbraio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Fino alla costituzione dei nuovi Consigli comunali di Torre Annunziata, Boscotrecase e Boscoreale, a cui si procedera' entro il mese di aprile, in base alle liste elettorali debitamente riformate, giusta le prescrizioni della legge comunale, le attuali rappresentanze dei tre comuni continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione dei futuri consigli. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 febbraio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

@@ -1,19 +1,15 @@
-REGIO DECRETO 16 novembre 1908 n. DLXV
+---
+tipo: REGIO DECRETO
+numero: DLXV
+data: 1908-11-16
+titolo: "Riflettente approvazione di statuto. (0800565R)"
+urn: urn:nir:stato:regio.decreto:1908-11-16;565
+codice_redazionale: 0800565R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 novembre 1908 n. DLXV
-======================================
-
-Riflettente approvazione di statuto. (0800565R)
------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/04/1909
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. DLXV (Dato a San Rossore, il 16 novembre 1908), col quale si approva lo statuto organico della Cassa agraria di Calatabiano.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. DLXV (Dato a San Rossore, il 16 novembre 1908), col quale si approva lo statuto organico della Cassa agraria di Calatabiano.

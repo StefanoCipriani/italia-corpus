@@ -1,16 +1,14 @@
-REGIO DECRETO 05 ottobre 1878 n. 4546
-
-
-REGIO DECRETO 05 ottobre 1878 n. 4546
-=====================================
-
-Che provvede alla nomina dei membri componenti il comitato del genio civile. (078U4546)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/11/1878
+---
+tipo: REGIO DECRETO
+numero: 4546
+data: 1878-10-05
+titolo: "Che provvede alla nomina dei membri componenti il comitato del genio civile. (078U4546)"
+urn: urn:nir:stato:regio.decreto:1878-10-05;4546
+codice_redazionale: 078U4546
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,51 +22,42 @@ Visto l'altro Reale decreto del 1° gennaio 1878, n. 4253 (Serie 2ª);
 
 Sulla proposta del Nostro Ministro Segretario di Stato pei lavori Pubblici,
 
-Sentito
--------
+Sentito il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il Comitato permanente del Genio civile, di cui agli articoli 1, 3 ed 11 del regolamento approvato col Nostro decreto del 6 giugno 1863, n. 1320, sara' d'ora innanzi composto nel modo seguente: 
+ 
+ Presidente: 
+ 
+ Il Ministro Segretario di Stato pei Lavori Pubblici. 
+ 
+ Membri: 
+ 
+ Il segretario generale del Ministero dei Lavori Pubblici; 
+ 
+ Il vicepresidente del Consiglio superiore dei lavori Pubblici; 
+ 
+ Il direttore generale dei ponti e strade; 
+ 
+ Il direttore generale delle opere idrauliche; 
+ 
+ Il direttore generale delle strade ferrate; 
+ 
+ I due presidenti delle sezioni del Consiglio superiore dei Lavori Pubblici; 
+ 
+ Nove ispettori del Genio civile, da nominarsi con decreto Ministeriale a tempo determinato; 
+ 
+ Il segretario capo del Consiglio superiore dei Lavori Pubblici e' segretario anche del Comitato.
 
-  
-  
-Il Comitato permanente del Genio civile, di cui agli articoli 1, 3 ed 11 del regolamento approvato col Nostro decreto del 6 giugno 1863, n. 1320, sara' d'ora innanzi composto nel modo seguente:   
-  
-Presidente:   
-  
-Il Ministro Segretario di Stato pei Lavori Pubblici.   
-  
-Membri:   
-  
-Il segretario generale del Ministero dei Lavori Pubblici;   
-  
-Il vicepresidente del Consiglio superiore dei lavori Pubblici;   
-  
-Il direttore generale dei ponti e strade;   
-  
-Il direttore generale delle opere idrauliche;   
-  
-Il direttore generale delle strade ferrate;   
-  
-I due presidenti delle sezioni del Consiglio superiore dei Lavori Pubblici;   
-  
-Nove ispettori del Genio civile, da nominarsi con decreto Ministeriale a tempo determinato;   
-  
-Il segretario capo del Consiglio superiore dei Lavori Pubblici e' segretario anche del Comitato.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il capo della divisione che tratta gli affari del personale potra' essere invitato alle sedute per dare schiarimenti ed anche per riferire, quando ne abbia avuto speciale incarico.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 5 ottobre 1878.   
-  
-UMBERTO.   
-  
-A. Baccarini.   
+Il capo della divisione che tratta gli affari del personale potra' essere invitato alle sedute per dare schiarimenti ed anche per riferire, quando ne abbia avuto speciale incarico. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 5 ottobre 1878. 
+ 
+ UMBERTO. 
+ 
+ A. Baccarini.

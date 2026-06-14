@@ -1,16 +1,14 @@
-REGIO DECRETO 21 luglio 1866 n. 3107
-
-
-REGIO DECRETO 21 luglio 1866 n. 3107
-====================================
-
-Col quale il quadro organico del Corpo di Commissariato della Marina militare e' aumentato di n° 6 Scrivani. (066U3107)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/08/1866
+---
+tipo: REGIO DECRETO
+numero: 3107
+data: 1866-07-21
+titolo: "Col quale il quadro organico del Corpo di Commissariato della Marina militare e' aumentato di n° 6 Scrivani. (066U3107)"
+urn: urn:nir:stato:regio.decreto:1866-07-21;3107
+codice_redazionale: 066U3107
+vigente: true
+---
 
 EUGENIO
--------
 
 PRINCIPE DI SAVOJA-CARIGNANO
 
@@ -32,30 +30,22 @@ Ritenuto che tale deficienza e' maggiormente sentita nell'ultima classe;
 
 Sulla proposta del Ministro Segretario di Stato per gli Affari della Marina;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il quadro organico del Corpo di Commissariato della Marina militare e' aumentato di n° 6 Scrivani.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 21 luglio 1866.   
-  
-EUGENIO DI SAVOJA   
-  
-Registrato alla Corte dei conti addi' 31 luglio 1866   
-  
-Reg.° 36 dal del Governo a c. 226. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Borgatti.   
-  
-Depretis.   
-  
-  
+Il quadro organico del Corpo di Commissariato della Marina militare e' aumentato di n° 6 Scrivani. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 21 luglio 1866. 
+ 
+ EUGENIO DI SAVOJA 
+ 
+ Registrato alla Corte dei conti addi' 31 luglio 1866 
+ 
+ Reg.° 36 dal del Governo a c. 226. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ Depretis.

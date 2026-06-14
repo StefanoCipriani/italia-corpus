@@ -1,18 +1,15 @@
-REGIO DECRETO 24 ottobre 1912 n. 1236
+---
+tipo: REGIO DECRETO
+numero: 1236
+data: 1912-10-24
+titolo: "Modificazione a statuto di Cassa di risparmio. (012U1236)"
+urn: urn:nir:stato:regio.decreto:1912-10-24;1236
+codice_redazionale: 012U1236
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 ottobre 1912 n. 1236
-=====================================
-
-Modificazione a statuto di Cassa di risparmio. (012U1236)
----------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/12/1912
-
-Art. 1
-------
-
-  
-N. 1236   
-  
-Regio Decreto 24 ottobre 1912, col quale, sulla proposta del ministro di agricoltura, industria e commercio, vengono approvate alcune modificazioni allo statuto della Cassa di risparmio di Udine.   
+N. 1236 
+ 
+ Regio Decreto 24 ottobre 1912, col quale, sulla proposta del ministro di agricoltura, industria e commercio, vengono approvate alcune modificazioni allo statuto della Cassa di risparmio di Udine.

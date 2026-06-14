@@ -1,16 +1,14 @@
-REGIO DECRETO 08 ottobre 1876 n. 3410
-
-
-REGIO DECRETO 08 ottobre 1876 n. 3410
-=====================================
-
-Col quale il comune di Premilcuore e' separato dalla sezione principale del collegio elettorale di Rocca S. Casciano e formera' una sezione distinta dello stesso collegio. (076U3410)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/10/1876
+---
+tipo: REGIO DECRETO
+numero: 3410
+data: 1876-10-08
+titolo: "Col quale il comune di Premilcuore e' separato dalla sezione principale del collegio elettorale di Rocca S. Casciano e formera' una sezione distinta dello stesso collegio. (076U3410)"
+urn: urn:nir:stato:regio.decreto:1876-10-08;3410
+codice_redazionale: 076U3410
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglia dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Premilcuore e' separato dalla sezione principale del Collegio elettorale di Rocca S. Casciano e formera' una sezione distinta dello stesso Collegio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 8 ottobre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
-  
+Il comune di Premilcuore e' separato dalla sezione principale del Collegio elettorale di Rocca S. Casciano e formera' una sezione distinta dello stesso Collegio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 8 ottobre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

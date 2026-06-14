@@ -1,16 +1,14 @@
-REGIO DECRETO 28 luglio 1866 n. 3088
-
-
-REGIO DECRETO 28 luglio 1866 n. 3088
-====================================
-
-Che manda pubblicare nelle Provincie italiane liberate dalla dominazione austriaca lo Statuto del Regno del 4 marzo 1848. (066U3088)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/08/1866
+---
+tipo: REGIO DECRETO
+numero: 3088
+data: 1866-07-28
+titolo: "Che manda pubblicare nelle Provincie italiane liberate dalla dominazione austriaca lo Statuto del Regno del 4 marzo 1848. (066U3088)"
+urn: urn:nir:stato:regio.decreto:1866-07-28;3088
+codice_redazionale: 066U3088
+vigente: true
+---
 
 EUGENIO
--------
 
 PRINCIPE DI SAVOJA-CARIGNANO
 
@@ -28,37 +26,26 @@ Visto l'articolo 18 del Reale Decreto 18 luglio corrente, n° 3064;
 
 Sulla proposta del Presidente del Consiglio, Ministro Segretario di Stato per gli Affari dell'Interno;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sara' pubblicato nelle Provincie italiane liberate dalla dominazione austriaca lo Statuto del Regno del 4 marzo 1848.
 
-  
-  
-Sara' pubblicato nelle Provincie italiane liberate dalla dominazione austriaca lo Statuto del Regno del 4 marzo 1848.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente Decreto insieme al testo del detto Statuto verra', a cura dei Commissari del Re, affisso in ciascun Comune delle Provincie suddette.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 28 luglio 1866.   
-  
-EUGENIO DI SAVOJA   
-  
-Registrato alla Corte dei Conti addi' 31 luglio 1866   
-  
-Reg.° 36 Atti del Governo a c. 224. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Borgatti.   
-  
-Ricasoli.   
-  
+Il presente Decreto insieme al testo del detto Statuto verra', a cura dei Commissari del Re, affisso in ciascun Comune delle Provincie suddette. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 28 luglio 1866. 
+ 
+ EUGENIO DI SAVOJA 
+ 
+ Registrato alla Corte dei Conti addi' 31 luglio 1866 
+ 
+ Reg.° 36 Atti del Governo a c. 224. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ Ricasoli.

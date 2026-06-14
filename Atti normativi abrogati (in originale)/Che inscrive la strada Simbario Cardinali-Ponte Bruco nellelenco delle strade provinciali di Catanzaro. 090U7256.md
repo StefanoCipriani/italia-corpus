@@ -1,16 +1,14 @@
-REGIO DECRETO 27 settembre 1890 n. 7256
-
-
-REGIO DECRETO 27 settembre 1890 n. 7256
-=======================================
-
-Che inscrive la strada Simbario, Cardinali-Ponte Bruco nell'elenco delle strade provinciali di Catanzaro. (090U7256)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/12/1890
+---
+tipo: REGIO DECRETO
+numero: 7256
+data: 1890-09-27
+titolo: "Che inscrive la strada Simbario, Cardinali-Ponte Bruco nell'elenco delle strade provinciali di Catanzaro. (090U7256)"
+urn: urn:nir:stato:regio.decreto:1890-09-27;7256
+codice_redazionale: 090U7256
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,33 +24,22 @@ Visti i voti 13 novembre 1886 e 14 giugno e 13 settembre 1890 del Consiglio supe
 
 Visti gli articoli 14 e 25 della legge sui Lavori Pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La strada Simbario, Cardinali-Ponte Bruco e' inscritta nell'elenco delle strade provinciali di Catanzaro.
 
-  
-  
-La strada Simbario, Cardinali-Ponte Bruco e' inscritta nell'elenco delle strade provinciali di Catanzaro.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' approvato il tracciamento generale di detta strada in conformita' del piano presentato dall' ingegnere capo di detta provincia in data 21 agosto 1890, il quale sara' vidimato dal Ministro predetto lasciando facolta' alla provincia di variare il tracciato fra le sezioni 221 e 231 del detto piano, per diminuire la spesa ed evitare possibilmente l'abbattimento di alcune case nell'abitato di Simbario.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 27 settembre 1890.   
-  
-UMBERTO.   
-  
-G. Finali.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+E' approvato il tracciamento generale di detta strada in conformita' del piano presentato dall' ingegnere capo di detta provincia in data 21 agosto 1890, il quale sara' vidimato dal Ministro predetto lasciando facolta' alla provincia di variare il tracciato fra le sezioni 221 e 231 del detto piano, per diminuire la spesa ed evitare possibilmente l'abbattimento di alcune case nell'abitato di Simbario. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 27 settembre 1890. 
+ 
+ UMBERTO. 
+ 
+ G. Finali. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

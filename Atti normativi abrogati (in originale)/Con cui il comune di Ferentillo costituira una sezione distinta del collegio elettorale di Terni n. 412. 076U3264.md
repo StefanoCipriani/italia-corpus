@@ -1,16 +1,14 @@
-REGIO DECRETO 01 agosto 1876 n. 3264
-
-
-REGIO DECRETO 01 agosto 1876 n. 3264
-====================================
-
-Con cui il comune di Ferentillo costituira' una sezione distinta del collegio elettorale di Terni, n. 412. (076U3264)
----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/08/1876
+---
+tipo: REGIO DECRETO
+numero: 3264
+data: 1876-08-01
+titolo: "Con cui il comune di Ferentillo costituira' una sezione distinta del collegio elettorale di Terni, n. 412. (076U3264)"
+urn: urn:nir:stato:regio.decreto:1876-08-01;3264
+codice_redazionale: 076U3264
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E comune di Ferentillo e' costituito in sezione distinta del Collegio elettorale di Terni n. 442.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella Raccolta, ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, addi' 1° agosto 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+E comune di Ferentillo e' costituito in sezione distinta del Collegio elettorale di Terni n. 442. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella Raccolta, ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, addi' 1° agosto 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

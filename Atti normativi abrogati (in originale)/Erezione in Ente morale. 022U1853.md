@@ -1,17 +1,17 @@
-REGIO DECRETO 28 dicembre 1922 n. 1853
+---
+tipo: REGIO DECRETO
+numero: 1853
+data: 1922-12-28
+titolo: "Erezione in Ente morale. (022U1853)"
+urn: urn:nir:stato:regio.decreto:1922-12-28;1853
+codice_redazionale: 022U1853
+vigente: true
+---
 
-
-REGIO DECRETO 28 dicembre 1922 n. 1853
-======================================
-
-Erezione in Ente morale. (022U1853)
------------------------------------
-
-Entrata in vigore del provvedimento: 01/03/1923
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1853. Regio decreto 28 dicembre 1922, col quale, sulla proposta del ministro dell'istruzione pubblica, viene eretta in Ente morale la Fondazione «Ernesta Besso» di Venezia, in Roma, e si approva il relativo statuto.
+1853.
+
+Regio decreto 28 dicembre 1922, col quale, sulla proposta del ministro dell'istruzione pubblica, viene eretta in Ente morale la Fondazione «Ernesta Besso» di Venezia, in Roma, e si approva il relativo statuto.

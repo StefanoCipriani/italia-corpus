@@ -1,19 +1,15 @@
-REGIO DECRETO 13 agosto 1914 n. 959
+---
+tipo: REGIO DECRETO
+numero: 959
+data: 1914-08-13
+titolo: "Approvazione di statuto. (014U0959)"
+urn: urn:nir:stato:regio.decreto:1914-08-13;959
+codice_redazionale: 014U0959
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 agosto 1914 n. 959
-===================================
-
-Approvazione di statuto. (014U0959)
------------------------------------
-
-Entrata in vigore del provvedimento: 27/09/1914
-
-Art. 1
-------
-
-  
-N. 959   
-  
-Regio Decreto 13 agosto 1914, col quale, sulla proposta del ministro di agricoltura, industria e commercio, di concerto col ministro dell'interno, e' approvato lo statuto per il Monte di pieta' di Bassano.   
-  
+N. 959 
+ 
+ Regio Decreto 13 agosto 1914, col quale, sulla proposta del ministro di agricoltura, industria e commercio, di concerto col ministro dell'interno, e' approvato lo statuto per il Monte di pieta' di Bassano.

@@ -1,16 +1,14 @@
-REGIO DECRETO 28 marzo 1880 n. 5361
-
-
-REGIO DECRETO 28 marzo 1880 n. 5361
-===================================
-
-Che separa i comuni di Clivio, Saltrio e Viggiu' dalla sezione elettorale di Arcisate e forma una sezione distinta del collegio di Varese con sede in Viggiu'. (080U5361)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/05/1880
+---
+tipo: REGIO DECRETO
+numero: 5361
+data: 1880-03-28
+titolo: "Che separa i comuni di Clivio, Saltrio e Viggiu' dalla sezione elettorale di Arcisate e forma una sezione distinta del collegio di Varese con sede in Viggiu'. (080U5361)"
+urn: urn:nir:stato:regio.decreto:1880-03-28;5361
+codice_redazionale: 080U5361
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Che gli elettori dei tre comuni sono 87; e cosi' in numero piu' del doppio super
 
 Considerando che per la istituzione di una sezione in Viggiu' sara' agevolato agli elettoti dei tre comuni instanti l'esercizio del loro diritto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Clivio, Saltrio e Viggiu' sono separati dalla sezione elettorale di Arcisate, e formeranno una sezione distinta del Collegio di Varese, con sede in Viggiu'.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 marzo 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+I comuni di Clivio, Saltrio e Viggiu' sono separati dalla sezione elettorale di Arcisate, e formeranno una sezione distinta del Collegio di Varese, con sede in Viggiu'. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

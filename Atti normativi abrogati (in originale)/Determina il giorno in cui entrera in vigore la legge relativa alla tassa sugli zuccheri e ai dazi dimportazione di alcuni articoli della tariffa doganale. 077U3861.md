@@ -1,16 +1,14 @@
-REGIO DECRETO 02 giugno 1877 n. 3861
-
-
-REGIO DECRETO 02 giugno 1877 n. 3861
-====================================
-
-Determina il giorno in cui entrera' in vigore la legge relativa alla tassa sugli zuccheri e ai dazi d'importazione di alcuni articoli della tariffa doganale. (077U3861)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/06/1877
+---
+tipo: REGIO DECRETO
+numero: 3861
+data: 1877-06-02
+titolo: "Determina il giorno in cui entrera' in vigore la legge relativa alla tassa sugli zuccheri e ai dazi d'importazione di alcuni articoli della tariffa doganale. (077U3861)"
+urn: urn:nir:stato:regio.decreto:1877-06-02;3861
+codice_redazionale: 077U3861
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -18,21 +16,14 @@ RE D'ITALIA
 
 Veduto l'articolo 10 della legge in data d'oggi, num. 3860 (Serie 2ª);
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze, Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 giugno 1877.   
-  
-VITTORIO EMANUELE.   
-  
-Depretis.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 giugno 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Depretis.

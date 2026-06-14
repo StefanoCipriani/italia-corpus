@@ -1,19 +1,15 @@
-REGIO DECRETO 01 maggio 1913 n. 439
+---
+tipo: REGIO DECRETO
+numero: 439
+data: 1913-05-01
+titolo: "Erezione in Ente morale e relativa approvazione di statuto. (013U0439)"
+urn: urn:nir:stato:regio.decreto:1913-05-01;439
+codice_redazionale: 013U0439
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 maggio 1913 n. 439
-===================================
-
-Erezione in Ente morale e relativa approvazione di statuto. (013U0439)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/06/1913
-
-Art. 1
-------
-
-  
-N. 439   
-  
-Regio Decreto 1° maggio 1913, col quale, sulla propoposta del ministro dell'interno, l'asilo infantile della frazione Piano del comune di Torre Mondovi' e' eretto in ente morale, con amministrazione autonoma, e ne e' approvato lo statuto.   
-  
+N. 439 
+ 
+ Regio Decreto 1° maggio 1913, col quale, sulla propoposta del ministro dell'interno, l'asilo infantile della frazione Piano del comune di Torre Mondovi' e' eretto in ente morale, con amministrazione autonoma, e ne e' approvato lo statuto.

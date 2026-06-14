@@ -1,16 +1,14 @@
-REGIO DECRETO 22 aprile 1940 n. 419
-
-
-REGIO DECRETO 22 aprile 1940 n. 419
-===================================
-
-Incorporazione del Monte di credito su pegno dell'Aquila da parte della Cassa di risparmio dell'Aquila. (040U0419)
-------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/06/1940
+---
+tipo: REGIO DECRETO
+numero: 419
+data: 1940-04-22
+titolo: "Incorporazione del Monte di credito su pegno dell'Aquila da parte della Cassa di risparmio dell'Aquila. (040U0419)"
+urn: urn:nir:stato:regio.decreto:1940-04-22;419
+codice_redazionale: 040U0419
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,22 @@ Veduta la legge 10 maggio 1938-XVI, n. 745, sull'ordinamento dei Monti di credit
 
 Vedute le deliberazioni prese in data 18 gennaio 1940-XVIII dal Consiglio di amministrazione della Cassa di risparmio dell'Aquila, e in data 19 gennaio 1940-XVIII dal commissario per la temporanea amministrazione del Monte di credito su pegno dell'Aquila, in ordine alla progettata incorporazione di questa ultima azienda nella prima;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Presidente del Comitato dei Ministri per la difesa del risparmio e per l'esercizio del credito; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Presidente del Comitato dei Ministri per la difesa del risparmio e per l'esercizio del credito; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Monte di credito su pegno dell'Aquila e' incorporato nella Cassa, di risparmio dell'Aquila, con le modalita' che saranno approvate con decreto del DUCE del Fascismo, Capo del Governo, Presidente del Comitato dei Ministri per la difesa del risparmio e per l'esercizio del credito, ai sensi dell'art. 47, comma 1° del R. decreto-legge 12 marzo 1936-XIV, n. 375, modificato con le leggi 7 marzo 1938-XVI, n. 141, e 7 aprile 1938-XVI, n. 636.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 aprile 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 20 maggio 1940-XVIII   
-  
-Atti del Governo, registro 421, foglio 54. - MANCINI   
-  
-  
+Il Monte di credito su pegno dell'Aquila e' incorporato nella Cassa, di risparmio dell'Aquila, con le modalita' che saranno approvate con decreto del DUCE del Fascismo, Capo del Governo, Presidente del Comitato dei Ministri per la difesa del risparmio e per l'esercizio del credito, ai sensi dell'art. 47, comma 1° del R. decreto-legge 12 marzo 1936-XIV, n. 375, modificato con le leggi 7 marzo 1938-XVI, n. 141, e 7 aprile 1938-XVI, n. 636. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 aprile 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 20 maggio 1940-XVIII 
+ 
+ Atti del Governo, registro 421, foglio 54. - MANCINI

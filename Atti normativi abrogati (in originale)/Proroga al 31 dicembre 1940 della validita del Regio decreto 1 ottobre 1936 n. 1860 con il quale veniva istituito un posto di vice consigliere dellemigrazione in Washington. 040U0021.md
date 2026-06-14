@@ -1,16 +1,14 @@
-REGIO DECRETO 09 gennaio 1940 n. 21
-
-
-REGIO DECRETO 09 gennaio 1940 n. 21
-===================================
-
-Proroga al 31 dicembre 1940 della validita' del Regio decreto 1° ottobre 1936, n. 1860, con il quale veniva istituito un posto di vice consigliere dell'emigrazione in Washington. (040U0021)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/02/1940
+---
+tipo: REGIO DECRETO
+numero: 21
+data: 1940-01-09
+titolo: "Proroga al 31 dicembre 1940 della validita' del Regio decreto 1° ottobre 1936, n. 1860, con il quale veniva istituito un posto di vice consigliere dell'emigrazione in Washington. (040U0021)"
+urn: urn:nir:stato:regio.decreto:1940-01-09;21
+codice_redazionale: 040U0021
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,24 @@ Visto il Nostro decreto 12 dicembre 1938, n. 2190, con il quale veniva prorogata
 
 Riconosciuta l'assoluta necessita' di prorogare ulteriormente la validita' di quel provvedimento.
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di stato per gli affari esteri, di concerto col Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di stato per gli affari esteri, di concerto col Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 La validita' del Nostro decreto 1° ottobre 1936, n. 1860, prorogata fino al 31 dicembre
 
-1940. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 gennaio 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-Ciano - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 4 febbraio 1940-XVIII   
-  
-Atti del Governo, registro 418, foglio 19. - Mancini
+1940.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 gennaio 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Ciano - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 4 febbraio 1940-XVIII 
+ 
+ Atti del Governo, registro 418, foglio 19. - Mancini

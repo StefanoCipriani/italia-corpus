@@ -1,19 +1,15 @@
-REGIO DECRETO 17 marzo 1912 n. 289
+---
+tipo: REGIO DECRETO
+numero: 289
+data: 1912-03-17
+titolo: "Approvazione di statuto. (012U0289)"
+urn: urn:nir:stato:regio.decreto:1912-03-17;289
+codice_redazionale: 012U0289
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 marzo 1912 n. 289
-==================================
-
-Approvazione di statuto. (012U0289)
------------------------------------
-
-Entrata in vigore del provvedimento: 30/04/1912
-
-Art. 1
-------
-
-  
-N. 289   
-  
-Regio Decreto 17 marzo 1912, col quale, sulla proposta del ministro d'agricoltura, industria e commercio, viene approvato lo statuto della Cassa agraria di Cesaro'.   
-  
+N. 289 
+ 
+ Regio Decreto 17 marzo 1912, col quale, sulla proposta del ministro d'agricoltura, industria e commercio, viene approvato lo statuto della Cassa agraria di Cesaro'.

@@ -1,21 +1,17 @@
-REGIO DECRETO 15 maggio 1904 n. CCX
+---
+tipo: REGIO DECRETO
+numero: CCX
+data: 1904-05-15
+titolo: "Col quale e' data facolta' al comune di Preci di applicare nell'anno 1904 la tassa sulle capre in base alla tariffa di lire 2.05 (due e centesimi cinque) per capo. (0400210R)"
+urn: urn:nir:stato:regio.decreto:1904-05-15;210
+codice_redazionale: 0400210R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 maggio 1904 n. CCX
-===================================
-
-Col quale e' data facolta' al comune di Preci di applicare nell'anno 1904 la tassa sulle capre in base alla tariffa di lire 2.05 (due e centesimi cinque) per capo. (0400210R)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/06/1904
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di Preci di applicare nell'anno 1904 la tassa sulle capre in base alla tariffa di lire 2.05 (due e centesimi cinque) per capo. - Firmato VITTORIO EMANUELE - Controfirmato L. Luzzatti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 21 maggio 1904.   
-  
-Reg. 16. Atti del Governo a f. 190.   
-  
+Col quale e' data facolta' al comune di Preci di applicare nell'anno 1904 la tassa sulle capre in base alla tariffa di lire 2.05 (due e centesimi cinque) per capo. - Firmato VITTORIO EMANUELE - Controfirmato L. Luzzatti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 21 maggio 1904. 
+ 
+ Reg. 16. Atti del Governo a f. 190.

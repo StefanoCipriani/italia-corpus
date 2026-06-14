@@ -1,16 +1,14 @@
-REGIO DECRETO 28 giugno 1865 n. 2402
-
-
-REGIO DECRETO 28 giugno 1865 n. 2402
-====================================
-
-Che approva la pianta numerica degli Insegnanti, Impiegati e Serventi dell'Accademia Scientifico-Letteraria di Milano. (065U2402)
----------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/08/1865
+---
+tipo: REGIO DECRETO
+numero: 2402
+data: 1865-06-28
+titolo: "Che approva la pianta numerica degli Insegnanti, Impiegati e Serventi dell'Accademia Scientifico-Letteraria di Milano. (065U2402)"
+urn: urn:nir:stato:regio.decreto:1865-06-28;2402
+codice_redazionale: 065U2402
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,38 +22,22 @@ Visto il Nostro Decreto del 19 ottobre 1864, col quale si mantenne in vigore per
 
 Visto il bilancio passivo della pubblica Istruzione pel 1865;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata la pianta numerica degli Insegnanti, Impiegati e Serventi dell'Accademia Scientifico-Letteraria di Milano annessa al presente Decreto e firmata d'ordine Nostro dal Ministro Segretario di Stato per la pubblica Istruzione.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 28 giugno 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 20 luglio 1865   
-  
-Reg ° 33 Atti del Governo a c. 96. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-Natoli.   
-  
-  
-
-Pianta numerica
-
-  
-Pianta numerica degli Insegnanti, Impiegati e Serventi nell'Accademia Scientifico-Letteraria di Milano.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=065U240200100010110001&dgu=1865-07-29&art.dataPubblicazioneGazzetta=1865-07-29&art.codiceRedazionale=065U2402)
-  
+E' approvata la pianta numerica degli Insegnanti, Impiegati e Serventi dell'Accademia Scientifico-Letteraria di Milano annessa al presente Decreto e firmata d'ordine Nostro dal Ministro Segretario di Stato per la pubblica Istruzione. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 28 giugno 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 20 luglio 1865 
+ 
+ Reg ° 33 Atti del Governo a c. 96. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ Natoli.

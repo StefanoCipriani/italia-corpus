@@ -1,16 +1,14 @@
-REGIO DECRETO 28 dicembre 1902 n. 553
-
-
-REGIO DECRETO 28 dicembre 1902 n. 553
-=====================================
-
-Modificante il Regolamento per la carriera degli impiegati dell'Amministrazione centrale e provinciale dell'Interno. (002U0553)
--------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/02/1903
+---
+tipo: REGIO DECRETO
+numero: 553
+data: 1902-12-28
+titolo: "Modificante il Regolamento per la carriera degli impiegati dell'Amministrazione centrale e provinciale dell'Interno. (002U0553)"
+urn: urn:nir:stato:regio.decreto:1902-12-28;553
+codice_redazionale: 002U0553
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,29 +20,22 @@ Sentito il Consiglio di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-All'articolo 62 del Regolamento sopracitato e' aggiunto il seguente capoverso:   
-  
-Gli scrivani ora in servizio nell' amministrazione centrale, i quali superino l'esame di idoneita', che sara' indetto, con decreto del Ministro, entro il gennaio 1903, saranno nominati ufficiali d'ordine di 3ª classe della amministrazione stessa nei posti vacanti, salve le disposizioni della [legge 8 luglio 1883, n. 1470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1883-07-08;1470) serie 3ª.  
-All'esame saranno ammessi gli scrivani, i quali non abbiano compiuto piu' di 50 anni di eta' alla data del decreto che indice l'esame, e dalla Commissione di cui all'articolo 37 ne siano dichiarati meritevoli per diligenza e buona condotta. Con lo stesso decreto saranno stabilite le norme dell'esame.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 dicembre 1902.   
-  
-VITTORIO EMANUELE.   
-  
-ZANARDELLI.   
-GIOLITTI.   
-  
-Visto, Il Guardasigilli: COCCO-ORTU.   
-  
+All'articolo 62 del Regolamento sopracitato e' aggiunto il seguente capoverso: 
+ 
+ Gli scrivani ora in servizio nell' amministrazione centrale, i quali superino l'esame di idoneita', che sara' indetto, con decreto del Ministro, entro il gennaio 1903, saranno nominati ufficiali d'ordine di 3ª classe della amministrazione stessa nei posti vacanti, salve le disposizioni della [legge 8 luglio 1883, n. 1470](Concernente%20lo%20stato%20dei%20sotto%20ufficiali%20del%20regio%20esercito.%20083U1470.md) serie 3ª.
+All'esame saranno ammessi gli scrivani, i quali non abbiano compiuto piu' di 50 anni di eta' alla data del decreto che indice l'esame, e dalla Commissione di cui all'articolo 37 ne siano dichiarati meritevoli per diligenza e buona condotta. Con lo stesso decreto saranno stabilite le norme dell'esame. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 dicembre 1902. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ ZANARDELLI. 
+ GIOLITTI. 
+ 
+ Visto, Il Guardasigilli: COCCO-ORTU.

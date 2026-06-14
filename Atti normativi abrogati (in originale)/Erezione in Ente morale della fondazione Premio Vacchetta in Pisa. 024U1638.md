@@ -1,21 +1,21 @@
-REGIO DECRETO 11 settembre 1924 n. 1638
+---
+tipo: REGIO DECRETO
+numero: 1638
+data: 1924-09-11
+titolo: "Erezione in Ente morale della fondazione Premio Vacchetta, in Pisa. (024U1638)"
+urn: urn:nir:stato:regio.decreto:1924-09-11;1638
+codice_redazionale: 024U1638
+vigente: true
+---
 
-
-REGIO DECRETO 11 settembre 1924 n. 1638
-=======================================
-
-Erezione in Ente morale della fondazione Premio Vacchetta, in Pisa. (024U1638)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/11/1924
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1638. R. decreto 11 settembre 1924. col quale, sulla proposta del Ministro per l'economia nazionale, viene eretta in Ente morale la fondazione Premio Vacchetta, in Pisa, ed e' approvato lo statuto organico relativo.   
-  
-visto, il Guardasigilli: Oviglio.   
-  
-Registrato atta Corte dei conti, addi' 23 ottobre 1924.
+1638.
+
+R. decreto 11 settembre 1924. col quale, sulla proposta del Ministro per l'economia nazionale, viene eretta in Ente morale la fondazione Premio Vacchetta, in Pisa, ed e' approvato lo statuto organico relativo. 
+ 
+ visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato atta Corte dei conti, addi' 23 ottobre 1924.

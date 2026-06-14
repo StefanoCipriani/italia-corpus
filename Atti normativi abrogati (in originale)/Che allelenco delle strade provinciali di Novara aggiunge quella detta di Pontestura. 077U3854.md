@@ -1,16 +1,14 @@
-REGIO DECRETO 06 maggio 1877 n. 3854
-
-
-REGIO DECRETO 06 maggio 1877 n. 3854
-====================================
-
-Che all'elenco delle strade provinciali di Novara aggiunge quella detta di Pontestura. (077U3854)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/06/1877
+---
+tipo: REGIO DECRETO
+numero: 3854
+data: 1877-05-06
+titolo: "Che all'elenco delle strade provinciali di Novara aggiunge quella detta di Pontestura. (077U3854)"
+urn: urn:nir:stato:regio.decreto:1877-05-06;3854
+codice_redazionale: 077U3854
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,7 +18,7 @@ Veduta la deliberazione 21 ottobre 1876 del Consiglio provinciale di Novara, con
 
 Veduti i Regi decreti 9 maggio e 1° dicembre 1867, riguardanti la classificazione delle strade provinciali della provincia di Novara;
 
-Veduti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della legge 20 marzo 1865, numero 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato F;
+Veduti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [14 della legge 20 marzo 1865, numero 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), allegato F;
 
 Considerando,
 
@@ -32,21 +30,14 @@ Che contro la suindicata deliberazione del Consiglio provinciale di Novara non f
 
 Udito l'avviso del Consiglio Superiore dei Lavori Pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 maggio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Zanardelli.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 maggio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Zanardelli.

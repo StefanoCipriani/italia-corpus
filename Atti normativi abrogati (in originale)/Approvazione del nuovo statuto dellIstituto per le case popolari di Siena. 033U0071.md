@@ -1,21 +1,21 @@
-REGIO DECRETO 12 gennaio 1933 n. 71
+---
+tipo: REGIO DECRETO
+numero: 71
+data: 1933-01-12
+titolo: "Approvazione del nuovo statuto dell'Istituto per le case popolari di Siena. (033U0071)"
+urn: urn:nir:stato:regio.decreto:1933-01-12;71
+codice_redazionale: 033U0071
+vigente: true
+---
 
-
-REGIO DECRETO 12 gennaio 1933 n. 71
-===================================
-
-Approvazione del nuovo statuto dell'Istituto per le case popolari di Siena. (033U0071)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/03/1933
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-71. R. decreto 12 gennaio 1933, col quale, sulla proposta del Ministro per i lavori pubblici, viene approvato il nuovo statuto dell'Istituto per le case popolari in Siena.   
-  
-Visto il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 6 febbraio 1933 - Anno XI
+71.
+
+R. decreto 12 gennaio 1933, col quale, sulla proposta del Ministro per i lavori pubblici, viene approvato il nuovo statuto dell'Istituto per le case popolari in Siena. 
+ 
+ Visto il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 6 febbraio 1933 - Anno XI

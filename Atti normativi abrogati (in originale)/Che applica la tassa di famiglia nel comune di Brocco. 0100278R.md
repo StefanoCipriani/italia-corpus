@@ -1,21 +1,17 @@
-REGIO DECRETO 31 agosto 1901 n. CCLXXVIII
+---
+tipo: REGIO DECRETO
+numero: CCLXXVIII
+data: 1901-08-31
+titolo: "Che applica la tassa di famiglia nel comune di Brocco. (0100278R)"
+urn: urn:nir:stato:regio.decreto:1901-08-31;278
+codice_redazionale: 0100278R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 agosto 1901 n. CCLXXVIII
-=========================================
-
-Che applica la tassa di famiglia nel comune di Brocco. (0100278R)
------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/10/1901
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di Brocco di applicare nel triennio 1901-903 la tassa di famiglia col limite massimo di lire 20 (venti). - Firmato VITTORIO EMANUELE - Controfirmato Carcano - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 16 settembre 1901.   
-  
-Reg. 231. Atti del Governo a f. 35.   
-  
+Col quale e' data facolta' al comune di Brocco di applicare nel triennio 1901-903 la tassa di famiglia col limite massimo di lire 20 (venti). - Firmato VITTORIO EMANUELE - Controfirmato Carcano - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 16 settembre 1901. 
+ 
+ Reg. 231. Atti del Governo a f. 35.

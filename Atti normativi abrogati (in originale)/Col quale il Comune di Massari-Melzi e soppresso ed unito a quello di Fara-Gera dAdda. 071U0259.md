@@ -1,16 +1,14 @@
-REGIO DECRETO 01 giugno 1871 n. 259
-
-
-REGIO DECRETO 01 giugno 1871 n. 259
-===================================
-
-Col quale il Comune di Massari-Melzi e' soppresso ed unito a quello di Fara-Gera d'Adda. (071U0259)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/07/1871
+---
+tipo: REGIO DECRETO
+numero: 259
+data: 1871-06-01
+titolo: "Col quale il Comune di Massari-Melzi e' soppresso ed unito a quello di Fara-Gera d'Adda. (071U0259)"
+urn: urn:nir:stato:regio.decreto:1871-06-01;259
+codice_redazionale: 071U0259
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,37 +20,26 @@ Viste le deliberazioni dei Consigli comunali di Fara-Gera d'Adda e Massari-Melzi
 
 Visto l'articolo 13 della Legge sull'amministrazione comunale e provinciale, in data 20 marzo 1865, allegato A;
 
-Vista
------
+Vista la Legge 18 agosto 1870, n. 5815; Abbiamo decretato e decretiamo:
 
-la Legge 18 agosto 1870, n. 5815; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A partire dal 1° agosto 1871, il Comune di Massari-Melzi e' soppresso ed unito a quello di Fara-Gera d'Adda, in Provincia di Bergamo.
 
-  
-  
-A partire dal 1° agosto 1871, il Comune di Massari-Melzi e' soppresso ed unito a quello di Fara-Gera d'Adda, in Provincia di Bergamo.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Fino alla costituzione del novello Consiglio comunale di Fara-Gera d'Adda, cui si procedera' a cura del Prefetto della Provincia, nei modi di Legge, entro il mese di luglio 1871, le attuali Rappresentanze dei Comuni suddetti continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione del futuro Consiglio.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 1° giugno 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 12 giugno 1871   
-  
-Reg. 56 Atti del Governo a c. 58. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+Fino alla costituzione del novello Consiglio comunale di Fara-Gera d'Adda, cui si procedera' a cura del Prefetto della Provincia, nei modi di Legge, entro il mese di luglio 1871, le attuali Rappresentanze dei Comuni suddetti continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione del futuro Consiglio. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 1° giugno 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 12 giugno 1871 
+ 
+ Reg. 56 Atti del Governo a c. 58. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

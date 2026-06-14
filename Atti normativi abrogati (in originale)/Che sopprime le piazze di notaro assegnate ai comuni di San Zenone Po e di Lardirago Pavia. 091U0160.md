@@ -1,16 +1,14 @@
-REGIO DECRETO 29 marzo 1891 n. 160
-
-
-REGIO DECRETO 29 marzo 1891 n. 160
-==================================
-
-Che sopprime le piazze di notaro assegnate ai comuni di San Zenone Po e di Lardirago (Pavia). (091U0160)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/05/1891
+---
+tipo: REGIO DECRETO
+numero: 160
+data: 1891-03-29
+titolo: "Che sopprime le piazze di notaro assegnate ai comuni di San Zenone Po e di Lardirago (Pavia). (091U0160)"
+urn: urn:nir:stato:regio.decreto:1891-03-29;160
+codice_redazionale: 091U0160
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Ritenuto che e' dimostrata la opportunita' della soppressione dei suddetti due p
 
 Visto l'art. 4 della legge sul notariato, approvato con Nostro decreto 25 maggio 1879, n. 4900 (serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le piazze di notaro assegnate ai comuni di San Zenone Po e di Lardirago, del distretto notarile di Pavia, sono soppresse.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 marzo 1891.   
-  
-UMBERTO.   
-  
-L. Ferraris.   
-  
-Visto, Il Guardasigilli: L. Ferraris.   
-  
+Le piazze di notaro assegnate ai comuni di San Zenone Po e di Lardirago, del distretto notarile di Pavia, sono soppresse. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 marzo 1891. 
+ 
+ UMBERTO. 
+ 
+ L. Ferraris. 
+ 
+ Visto, Il Guardasigilli: L. Ferraris.

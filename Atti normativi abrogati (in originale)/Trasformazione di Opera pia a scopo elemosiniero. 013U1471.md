@@ -1,19 +1,15 @@
-REGIO DECRETO 28 dicembre 1913 n. 1471
+---
+tipo: REGIO DECRETO
+numero: 1471
+data: 1913-12-28
+titolo: "Trasformazione di Opera pia a scopo elemosiniero. (013U1471)"
+urn: urn:nir:stato:regio.decreto:1913-12-28;1471
+codice_redazionale: 013U1471
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 dicembre 1913 n. 1471
-======================================
-
-Trasformazione di Opera pia a scopo elemosiniero. (013U1471)
-------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/02/1914
-
-Art. 1
-------
-
-  
-N. 1471   
-  
-Regio Decreto 28 dicembre 1913, col quale, sulla proposta del ministro dell'interno, viene trasformata a favore di scopi elemosinieri l'opera pia di culto Gio. Maria Franchetti, amministrata dalla Congregazione di carita' di Vicenza.   
-  
+N. 1471 
+ 
+ Regio Decreto 28 dicembre 1913, col quale, sulla proposta del ministro dell'interno, viene trasformata a favore di scopi elemosinieri l'opera pia di culto Gio. Maria Franchetti, amministrata dalla Congregazione di carita' di Vicenza.

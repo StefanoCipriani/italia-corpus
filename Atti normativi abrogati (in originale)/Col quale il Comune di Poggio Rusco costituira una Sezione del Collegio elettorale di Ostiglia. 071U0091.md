@@ -1,16 +1,14 @@
-REGIO DECRETO 26 febbraio 1871 n. 91
-
-
-REGIO DECRETO 26 febbraio 1871 n. 91
-====================================
-
-Col quale il Comune di Poggio Rusco costituira' una Sezione del Collegio elettorale di Ostiglia. (071U0091)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/03/1871
+---
+tipo: REGIO DECRETO
+numero: 91
+data: 1871-02-26
+titolo: "Col quale il Comune di Poggio Rusco costituira' una Sezione del Collegio elettorale di Ostiglia. (071U0091)"
+urn: urn:nir:stato:regio.decreto:1871-02-26;91
+codice_redazionale: 071U0091
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Poggio Rusco costituira' d'ora in poi una Sezione elettorale del Collegio di Ostiglia, n. 449, con sede nel Capoluogo dello stesso Comune.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 26 febbraio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei Conti addi' 6 marzo 1871   
-  
-Reg. 54 Atti del Governo a c. 179. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+Il Comune di Poggio Rusco costituira' d'ora in poi una Sezione elettorale del Collegio di Ostiglia, n. 449, con sede nel Capoluogo dello stesso Comune. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 26 febbraio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei Conti addi' 6 marzo 1871 
+ 
+ Reg. 54 Atti del Governo a c. 179. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

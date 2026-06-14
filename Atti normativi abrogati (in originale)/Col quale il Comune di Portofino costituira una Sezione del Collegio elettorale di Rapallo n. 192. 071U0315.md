@@ -1,16 +1,14 @@
-REGIO DECRETO 06 luglio 1871 n. 315
-
-
-REGIO DECRETO 06 luglio 1871 n. 315
-===================================
-
-Col quale il Comune di Portofino costituira' una Sezione del Collegio elettorale di Rapallo, n. 192. (071U0315)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/07/1871
+---
+tipo: REGIO DECRETO
+numero: 315
+data: 1871-07-06
+titolo: "Col quale il Comune di Portofino costituira' una Sezione del Collegio elettorale di Rapallo, n. 192. (071U0315)"
+urn: urn:nir:stato:regio.decreto:1871-07-06;315
+codice_redazionale: 071U0315
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIOE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Portofino costituira' d'ora in poi una Sezione elettorale del Collegio di Rapallo, n. 192, con sede nel capoluogo del Comune stesso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 6 luglio 1874.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 10 luglio 1871   
-  
-Reg. 56 Atti del Governo a c. 128. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Lanza.   
-  
+Il Comune di Portofino costituira' d'ora in poi una Sezione elettorale del Collegio di Rapallo, n. 192, con sede nel capoluogo del Comune stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 6 luglio 1874. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 10 luglio 1871 
+ 
+ Reg. 56 Atti del Governo a c. 128. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Lanza.

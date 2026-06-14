@@ -1,39 +1,45 @@
-REGIO DECRETO 23 luglio 1865 n. MDCLXI
+---
+tipo: REGIO DECRETO
+numero: MDCLXI
+data: 1865-07-23
+titolo: "Approvativo dello statuto della Societa' anonima intitolata Societa' degli Omnibus di Milano. (6501661R)"
+urn: urn:nir:stato:regio.decreto:1865-07-23;1661
+codice_redazionale: 6501661R
+vigente: true
+---
 
+VITTORIO EMANUELE II
 
-REGIO DECRETO 23 luglio 1865 n. MDCLXI
-======================================
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
-Approvativo dello statuto della Societa' anonima intitolata Societa' degli Omnibus di Milano. (6501661R)
---------------------------------------------------------------------------------------------------------
+RE D'ITALIA
 
-Entrata in vigore del provvedimento: 31/08/1865
+Vista la deliberazione dell'Assemblea generale della Societa' anonima intitolata Societa' degli Omnibus di Milano del 23 aprile 1865;
 
-Art. 1
-------
+Visti i Reali Decreti 15 agosto 1861 e 2 marzo 1862 concernenti detta Societa';
 
-  
-  
-E' approvato lo statuto della Societa' anonima intitolata Societa' degli Omnibus di Milano, modificato in conformita' delle deliberazioni prese dall'Assemblea generate degli Azionisti il 23 aprile 1865.   
-  
+Decreti sulla vigilanza governativa del 4 gennaio 1864 e del 12 febbraio 1865, N.i MLXII e 2157;
 
-Art. 2
-------
+Sentito il parere del Consiglio di Stato;
 
-  
-  
-La Societa' suddetta contribuira' annualmente per lire centocinquanta nelle spese della vigilanza governativa, alla quale e' sottoposta.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 25 luglio 1865.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 4 agosto 1865   
-Reg.° 33 Atti del Governo a c. 120. Crodara-Visconti.   
-Luogo del Sigillo. V. Il Guardasigilli VACCA.   
-  
-TORELLI.   
-  
-  
+Sulla proposta del Ministro di Agricoltura, Industria Commercio; Abbiamo decretato e decretiamo:
+
+## Art. 1.
+
+E' approvato lo statuto della Societa' anonima intitolata Societa' degli Omnibus di Milano, modificato in conformita' delle deliberazioni prese dall'Assemblea generate degli Azionisti il 23 aprile 1865.
+
+## Art. 2.
+
+La Societa' suddetta contribuira' annualmente per lire centocinquanta nelle spese della vigilanza governativa, alla quale e' sottoposta. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 25 luglio 1865. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 4 agosto 1865 
+ Reg.° 33 Atti del Governo a c. 120. Crodara-Visconti. 
+ Luogo del Sigillo. V. Il Guardasigilli VACCA. 
+ 
+ TORELLI.

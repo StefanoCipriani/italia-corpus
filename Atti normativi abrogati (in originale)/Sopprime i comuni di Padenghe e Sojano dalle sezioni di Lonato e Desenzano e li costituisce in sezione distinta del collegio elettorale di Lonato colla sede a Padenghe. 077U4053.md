@@ -1,16 +1,14 @@
-REGIO DECRETO 12 settembre 1877 n. 4053
-
-
-REGIO DECRETO 12 settembre 1877 n. 4053
-=======================================
-
-Sopprime i comuni di Padenghe e Sojano dalle sezioni di Lonato e Desenzano e li costituisce in sezione distinta del collegio elettorale di Lonato, colla sede a Padenghe. (077U4053)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/10/1877
+---
+tipo: REGIO DECRETO
+numero: 4053
+data: 1877-09-12
+titolo: "Sopprime i comuni di Padenghe e Sojano dalle sezioni di Lonato e Desenzano e li costituisce in sezione distinta del collegio elettorale di Lonato, colla sede a Padenghe. (077U4053)"
+urn: urn:nir:stato:regio.decreto:1877-09-12;4053
+codice_redazionale: 077U4053
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Padenghe e Sojano sono separati respettivamente dalle sezioni di Lonato e Desenzano, e formeranno una sezione distinta del Collegio elettorale di Lonato colla sede a Padenghe.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dai decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Pollenzo, addi' 12 settembre 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+I comuni di Padenghe e Sojano sono separati respettivamente dalle sezioni di Lonato e Desenzano, e formeranno una sezione distinta del Collegio elettorale di Lonato colla sede a Padenghe. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dai decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Pollenzo, addi' 12 settembre 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

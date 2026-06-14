@@ -1,16 +1,14 @@
-REGIO DECRETO 15 ottobre 1871 n. 514
-
-
-REGIO DECRETO 15 ottobre 1871 n. 514
-====================================
-
-Portante la costituzione di una nuota Sezione del Collegio elettorale di San Benedetto del Tronto. (071U0514)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/11/1871
+---
+tipo: REGIO DECRETO
+numero: 514
+data: 1871-10-15
+titolo: "Portante la costituzione di una nuota Sezione del Collegio elettorale di San Benedetto del Tronto. (071U0514)"
+urn: urn:nir:stato:regio.decreto:1871-10-15;514
+codice_redazionale: 071U0514
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Monsampolo del Tronto, Spinetoli e Colli del Tronto, costituiranno d'ora in poi una sezione del collegio di S. Benedetto del Tronto, con sede nel capoluogo del comune di Monsampolo del Tronto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 15 ottobre 1871.   
-  
-VITTORIO EMANUELE   
-  
-G. Lanza.   
-  
+I Comuni di Monsampolo del Tronto, Spinetoli e Colli del Tronto, costituiranno d'ora in poi una sezione del collegio di S. Benedetto del Tronto, con sede nel capoluogo del comune di Monsampolo del Tronto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 15 ottobre 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ G. Lanza.

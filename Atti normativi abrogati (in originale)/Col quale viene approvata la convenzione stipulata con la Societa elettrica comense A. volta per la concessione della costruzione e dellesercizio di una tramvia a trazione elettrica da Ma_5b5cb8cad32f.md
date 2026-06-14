@@ -1,16 +1,14 @@
-REGIO DECRETO 12 giugno 1913 n. 686
-
-
-REGIO DECRETO 12 giugno 1913 n. 686
-===================================
-
-Col quale viene approvata la convenzione stipulata con la Societa' elettrica comense «A. volta» per la concessione della costruzione e dell'esercizio di una tramvia a trazione elettrica da Maslianico a Ponte Chiasso (013U0686)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/06/1913
+---
+tipo: REGIO DECRETO
+numero: 686
+data: 1913-06-12
+titolo: "Col quale viene approvata la convenzione stipulata con la Societa' elettrica comense «A. volta» per la concessione della costruzione e dell'esercizio di una tramvia a trazione elettrica da Maslianico a Ponte Chiasso (013U0686)"
+urn: urn:nir:stato:regio.decreto:1913-06-12;686
+codice_redazionale: 013U0686
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,25 +20,18 @@ Visto il testo unico delle disposizioni di legge sulle ferrovie concesse all'ind
 
 Sentito il Consiglio superiore dei lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata e resa esecutoria la convenzione stipulata il 4 giugno 1913 fra l'ispettore generale direttore dell'ufficio speciale delle ferrovie, in rappresentanza del ministro dei lavori pubblici, per conto dell'Amministrazione dello Stato ed i legali rappresentanti della Societa' elettrica comense A. Volta per la concessione della costruzione ed esercizio di una tramvia a trazione elettrica da Maslianico a Ponte Chiasso in prolungamento della esistente Como-(Villa Salazar)-Cernobbio-Maslianico.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 giugno 1913.   
-  
-VITTORIO EMANUELE.   
-  
-Sacchi.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+E' approvata e resa esecutoria la convenzione stipulata il 4 giugno 1913 fra l'ispettore generale direttore dell'ufficio speciale delle ferrovie, in rappresentanza del ministro dei lavori pubblici, per conto dell'Amministrazione dello Stato ed i legali rappresentanti della Societa' elettrica comense A. Volta per la concessione della costruzione ed esercizio di una tramvia a trazione elettrica da Maslianico a Ponte Chiasso in prolungamento della esistente Como-(Villa Salazar)-Cernobbio-Maslianico. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 giugno 1913. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Sacchi. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

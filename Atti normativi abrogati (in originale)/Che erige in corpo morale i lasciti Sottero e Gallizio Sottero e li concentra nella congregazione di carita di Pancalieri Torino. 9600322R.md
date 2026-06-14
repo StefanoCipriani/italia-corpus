@@ -1,22 +1,18 @@
-REGIO DECRETO 11 agosto 1896 n. CCCXXII
+---
+tipo: REGIO DECRETO
+numero: CCCXXII
+data: 1896-08-11
+titolo: "Che erige in corpo morale i lasciti «Sottero» e «Gallizio Sottero» e li concentra nella congregazione di carita' di Pancalieri (Torino). (9600322R)"
+urn: urn:nir:stato:regio.decreto:1896-08-11;322
+codice_redazionale: 9600322R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 agosto 1896 n. CCCXXII
-=======================================
-
-Che erige in corpo morale i lasciti «Sottero» e «Gallizio Sottero» e li concentra nella congregazione di carita' di Pancalieri (Torino). (9600322R)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/09/1896
-
-Art. 1
-------
-
-  
-Che erige in corpo morale i lasciti «Sottero» e «Gallizio Sottero» e li concentra nella congregazione di carita' di Pancalieri (Torino).  
-- Firmato UMBERTO - Contrassegnato Rudini' - Visto G. Costa.   
-  
-Registrato alla Corte dei Conti addi' 25 agosto 1896.   
-  
-Reg. 207. Atti del Governo a f. 79.   
-  
+Che erige in corpo morale i lasciti «Sottero» e «Gallizio Sottero» e li concentra nella congregazione di carita' di Pancalieri (Torino).
+- Firmato UMBERTO - Contrassegnato Rudini' - Visto G. Costa. 
+ 
+ Registrato alla Corte dei Conti addi' 25 agosto 1896. 
+ 
+ Reg. 207. Atti del Governo a f. 79.

@@ -1,21 +1,21 @@
-REGIO DECRETO 30 marzo 1931 n. 384
+---
+tipo: REGIO DECRETO
+numero: 384
+data: 1931-03-30
+titolo: "Modificazione dello statuto organico della Cassa di risparmio della Marca Trivigiana e di Castelfranco Veneto. (031U0384)"
+urn: urn:nir:stato:regio.decreto:1931-03-30;384
+codice_redazionale: 031U0384
+vigente: true
+---
 
-
-REGIO DECRETO 30 marzo 1931 n. 384
-==================================
-
-Modificazione dello statuto organico della Cassa di risparmio della Marca Trivigiana e di Castelfranco Veneto. (031U0384)
--------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/05/1931
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-384. R. decreto 30 marzo 1931, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene modificato lo statuto organico della Cassa di risparmio della Marca Trivigiana e di Castelfranco Veneto.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registralo alla Corte dei conti, addi' 28 aprile 1931 - Anno IX
+384.
+
+R. decreto 30 marzo 1931, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene modificato lo statuto organico della Cassa di risparmio della Marca Trivigiana e di Castelfranco Veneto. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registralo alla Corte dei conti, addi' 28 aprile 1931 - Anno IX

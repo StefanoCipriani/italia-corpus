@@ -1,16 +1,14 @@
-REGIO DECRETO 18 aprile 1872 n. 770
-
-
-REGIO DECRETO 18 aprile 1872 n. 770
-===================================
-
-Col quale il Comune di Osiglia costituira' una Sezione del Collegio elettorale di Cairo-Montenotte. (072U0770)
---------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/05/1872
+---
+tipo: REGIO DECRETO
+numero: 770
+data: 1872-04-18
+titolo: "Col quale il Comune di Osiglia costituira' una Sezione del Collegio elettorale di Cairo-Montenotte. (072U0770)"
+urn: urn:nir:stato:regio.decreto:1872-04-18;770
+codice_redazionale: 072U0770
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,29 +24,22 @@ Noverandosi nel Comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Osiglia costituira' d'ora in poi una Sezione del Collegio elettorale di Cairo-Montenotte, con sede nel capoluogo dello stesso Comune, ferma rimanendo la Sezione principale di Cairo-Montenotte.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 18 aprile 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 22 aprile 1872   
-  
-Reg. 60 Atti del Governo c. 112. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli: De Falco.   
-  
-G. Lanza.   
-  
+Il Comune di Osiglia costituira' d'ora in poi una Sezione del Collegio elettorale di Cairo-Montenotte, con sede nel capoluogo dello stesso Comune, ferma rimanendo la Sezione principale di Cairo-Montenotte. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 18 aprile 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 22 aprile 1872 
+ 
+ Reg. 60 Atti del Governo c. 112. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli: De Falco. 
+ 
+ G. Lanza.

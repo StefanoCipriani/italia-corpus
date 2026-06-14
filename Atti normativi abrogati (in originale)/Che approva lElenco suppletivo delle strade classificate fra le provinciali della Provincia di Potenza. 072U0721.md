@@ -1,16 +1,14 @@
-REGIO DECRETO 25 febbraio 1872 n. 721
-
-
-REGIO DECRETO 25 febbraio 1872 n. 721
-=====================================
-
-Che approva l'Elenco suppletivo delle strade classificate fra le provinciali della Provincia di Potenza. (072U0721)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/04/1872
+---
+tipo: REGIO DECRETO
+numero: 721
+data: 1872-02-25
+titolo: "Che approva l'Elenco suppletivo delle strade classificate fra le provinciali della Provincia di Potenza. (072U0721)"
+urn: urn:nir:stato:regio.decreto:1872-02-25;721
+codice_redazionale: 072U0721
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,37 +24,22 @@ Veduto il parere 20 febbraio 1872 del Consiglio superiore dei Lavori Pubblici;
 
 Considerato che non vennero presentate opposizioni alla deliberata aggiunta, e che nelle preaccennate strade concorrono i caratteri di provincialita' prescritti dalla Legge;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono aggiunte alle strade provinciali della Provincia di Potenza le due descritte nell'unito Elenco, visto d'ordine Nostro dal Ministro Segretario di Stato pei Lavori Pubblici.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 25 febbraio 1872.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 16 marzo 1872   
-  
-Reg. 60 Atti del Governo a c. 26. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-G. Devincenzi.   
-  
-
-Elenco
-
-  
-Elenco suppletivo delle strade classificate fra le provinciali della provincia di Potenza.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=072U072100100010110001&dgu=1872-03-24&art.dataPubblicazioneGazzetta=1872-03-24&art.codiceRedazionale=072U0721)
-  
+Sono aggiunte alle strade provinciali della Provincia di Potenza le due descritte nell'unito Elenco, visto d'ordine Nostro dal Ministro Segretario di Stato pei Lavori Pubblici. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 25 febbraio 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 16 marzo 1872 
+ 
+ Reg. 60 Atti del Governo a c. 26. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ G. Devincenzi.

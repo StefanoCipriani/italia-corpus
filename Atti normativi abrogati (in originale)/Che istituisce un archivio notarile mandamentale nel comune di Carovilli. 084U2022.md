@@ -1,16 +1,14 @@
-REGIO DECRETO 06 marzo 1884 n. 2022
-
-
-REGIO DECRETO 06 marzo 1884 n. 2022
-===================================
-
-Che istituisce un archivio notarile mandamentale nel comune di Carovilli. (084U2022)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/04/1884
+---
+tipo: REGIO DECRETO
+numero: 2022
+data: 1884-03-06
+titolo: "Che istituisce un archivio notarile mandamentale nel comune di Carovilli. (084U2022)"
+urn: urn:nir:stato:regio.decreto:1884-03-06;2022
+codice_redazionale: 084U2022
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,24 +18,18 @@ Visti gli articoli 3, 101 e 105 del testo unico delle leggi sul riordinamento de
 
 Viste le deliberazioni dei comuni interessati alla istituzione di un Archivio notarile mandamentale in Carovilli, nonche' quella presa dal comune capoluogo del mandamento in adunanza del 13 febbraio 1883, stata debitamente approvata dalla Deputazione provinciale di Campobasso nella seduta del 4 luglio successivo;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un Archivio notarile mandamentale nel comune di Carovilli, capoluogo di mandamento, distretto di Isernia.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 marzo 1884.   
-  
-UMBERTO.   
-  
-Savelli.   
-  
-Visto, Il Guardasigilli: Savelli.   
+E' istituito un Archivio notarile mandamentale nel comune di Carovilli, capoluogo di mandamento, distretto di Isernia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 marzo 1884. 
+ 
+ UMBERTO. 
+ 
+ Savelli. 
+ 
+ Visto, Il Guardasigilli: Savelli.

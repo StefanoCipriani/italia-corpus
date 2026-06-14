@@ -1,16 +1,14 @@
-REGIO DECRETO 10 maggio 1862 n. 609
-
-
-REGIO DECRETO 10 maggio 1862 n. 609
-===================================
-
-Contenente una modificazione intorno alla dipendenza del Circondario giudiziario di Pavia. (062U0609)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/07/1862
+---
+tipo: REGIO DECRETO
+numero: 609
+data: 1862-05-10
+titolo: "Contenente una modificazione intorno alla dipendenza del Circondario giudiziario di Pavia. (062U0609)"
+urn: urn:nir:stato:regio.decreto:1862-05-10;609
+codice_redazionale: 062U0609
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,43 +24,30 @@ Visto l'articolo 33 della legge 27 marzo 1862, n.° 516;
 
 Volendo provvedere alle esigenze dell'amministrazione giudiziaria accennate di sopra;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli Ministro di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo quanto segue:
 
-proposta del Nostro Guardasigilli Ministro di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo quanto segue:
+## Art. 1.
 
-Art. 1
-------
+Il Circondario giudiziario di Pavia, ad eccezione dei Mandamenti di Cava e Sannazzaro, fara' per ora parte del Distretto della Corte d'Appello di Milano, anziche' di quello della Corte d'Appello di Casale.
 
-  
-  
-Il Circondario giudiziario di Pavia, ad eccezione dei Mandamenti di Cava e Sannazzaro, fara' per ora parte del Distretto della Corte d'Appello di Milano, anziche' di quello della Corte d'Appello di Casale.   
-  
+## Art. 2.
 
-Art. 2
-------
+La Corte di Assisie risiedente in Pavia avra' giurisdizione sul Circondario di cui nel precedente articolo.
 
-  
-  
-La Corte di Assisie risiedente in Pavia avra' giurisdizione sul Circondario di cui nel precedente articolo.   
-  
-
-Art. 3
-------
+## Art. 3.
 
 Le suddette disposizioni avranno vigore a cominciare dal 1.° luglio
 
-1862. 
-  
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli addi' 10 maggio 1862.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 19 maggio 1862   
-Reg.° 19 Atti del Governo a c. 512. Wehrlin.   
-Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
-  
-Raffaele Conforti.
+1862.
+
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli addi' 10 maggio 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 19 maggio 1862 
+ Reg.° 19 Atti del Governo a c. 512. Wehrlin. 
+ Luogo del Sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ Raffaele Conforti.

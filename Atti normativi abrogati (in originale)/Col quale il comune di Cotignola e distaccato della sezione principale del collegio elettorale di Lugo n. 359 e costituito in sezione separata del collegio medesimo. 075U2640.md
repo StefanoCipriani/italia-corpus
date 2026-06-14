@@ -1,16 +1,14 @@
-REGIO DECRETO 01 agosto 1875 n. 2640
-
-
-REGIO DECRETO 01 agosto 1875 n. 2640
-====================================
-
-Col quale il comune di Cotignola e' distaccato della sezione principale del collegio elettorale di Lugo, n. 359, e costituito in sezione separata del collegio medesimo. (075U2640)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/08/1875
+---
+tipo: REGIO DECRETO
+numero: 2640
+data: 1875-08-01
+titolo: "Col quale il comune di Cotignola e' distaccato della sezione principale del collegio elettorale di Lugo, n. 359, e costituito in sezione separata del collegio medesimo. (075U2640)"
+urn: urn:nir:stato:regio.decreto:1875-08-01;2640
+codice_redazionale: 075U2640
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Cotignola e' distaccato dalla sezione principale del Collegio elettorale di Lugo n. 359, e costituito in sezione separata del Collegio stesso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, addi' 1° agosto 1875.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
+Il comune di Cotignola e' distaccato dalla sezione principale del Collegio elettorale di Lugo n. 359, e costituito in sezione separata del Collegio stesso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, addi' 1° agosto 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

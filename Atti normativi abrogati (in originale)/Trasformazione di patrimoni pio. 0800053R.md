@@ -1,20 +1,16 @@
-REGIO DECRETO 26 gennaio 1908 n. LIII
+---
+tipo: REGIO DECRETO
+numero: LIII
+data: 1908-01-26
+titolo: "Trasformazione di patrimoni pio. (0800053R)"
+urn: urn:nir:stato:regio.decreto:1908-01-26;53
+codice_redazionale: 0800053R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 gennaio 1908 n. LIII
-=====================================
-
-Trasformazione di patrimoni pio. (0800053R)
--------------------------------------------
-
-Entrata in vigore del provvedimento: 27/03/1908
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. LIII (Dato a Roma, il 26 gennaio 1908), col quale il dotalizio monastico «Palladi», istituito dalla benefattrice Silvia Palladi, con testamento 25 giugno 1645, gia' a carico della confraternita del SS.  
-Crocifisso in S. Marcello di Roma, ed ora dipendente dalla Congregazione di carita', e' stato trasformato in dote di maritaggio, riservata la facolta' di scelta della beneficanda al sig. Nicola Stazi, discendente della benefattrice, e suoi successori.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. LIII (Dato a Roma, il 26 gennaio 1908), col quale il dotalizio monastico «Palladi», istituito dalla benefattrice Silvia Palladi, con testamento 25 giugno 1645, gia' a carico della confraternita del SS.
+Crocifisso in S. Marcello di Roma, ed ora dipendente dalla Congregazione di carita', e' stato trasformato in dote di maritaggio, riservata la facolta' di scelta della beneficanda al sig. Nicola Stazi, discendente della benefattrice, e suoi successori.

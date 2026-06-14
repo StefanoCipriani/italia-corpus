@@ -1,19 +1,15 @@
-REGIO DECRETO 02 gennaio 1862 n. CCLX
+---
+tipo: REGIO DECRETO
+numero: CCLX
+data: 1862-01-02
+titolo: "Che approva il regolamento di polizia rurale pel Comune di Parodi. (6200260R)"
+urn: urn:nir:stato:regio.decreto:1862-01-02;260
+codice_redazionale: 6200260R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 gennaio 1862 n. CCLX
-=====================================
-
-Che approva il regolamento di polizia rurale pel Comune di Parodi. (6200260R)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/01/1862
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia rurale della Comunita' di Parodi (Provincia di Alessandria).   
-  
-Torino 2 gennaio 1862   
-  
+Che approva il regolamento di polizia rurale della Comunita' di Parodi (Provincia di Alessandria). 
+ 
+ Torino 2 gennaio 1862

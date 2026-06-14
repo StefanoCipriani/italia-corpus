@@ -1,19 +1,15 @@
-REGIO DECRETO 05 maggio 1861 n. XVIII
+---
+tipo: REGIO DECRETO
+numero: XVIII
+data: 1861-05-05
+titolo: "Che autorizza a favore del Comune di Lodi alcune modificazioni alle addizionali al dazio consumo. (6100018R)"
+urn: urn:nir:stato:regio.decreto:1861-05-05;18
+codice_redazionale: 6100018R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 maggio 1861 n. XVIII
-=====================================
-
-Che autorizza a favore del Comune di Lodi alcune modificazioni alle addizionali al dazio consumo. (6100018R)
-------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/05/1861
-
-Art. 1
-------
-
-  
-Che autorizza a favore del Comune di Lodi alcune modificazioni alle addizionali al dazio consumo murato.   
-  
-Torino 5 maggio 1861   
-  
+Che autorizza a favore del Comune di Lodi alcune modificazioni alle addizionali al dazio consumo murato. 
+ 
+ Torino 5 maggio 1861

@@ -1,17 +1,17 @@
-REGIO DECRETO 18 aprile 1895 n. 169
+---
+tipo: REGIO DECRETO
+numero: 169
+data: 1895-04-18
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0169)"
+urn: urn:nir:stato:regio.decreto:1895-04-18;169
+codice_redazionale: 095U0169
+vigente: true
+---
 
-
-REGIO DECRETO 18 aprile 1895 n. 169
-===================================
-
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0169)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/05/1895
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-169. Il Comune di Scagnello e' aggregato alla Sezione elettorale di Battifollo del Collegio di Ceva.
+169.
+
+Il Comune di Scagnello e' aggregato alla Sezione elettorale di Battifollo del Collegio di Ceva.

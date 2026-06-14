@@ -1,21 +1,17 @@
-REGIO DECRETO 07 luglio 1898 n. CCXVIII
+---
+tipo: REGIO DECRETO
+numero: CCXVIII
+data: 1898-07-07
+titolo: "Che riconosce come ente morale l'istituto «Esposizione permanente artistico-industriale di Reggio Emilia» e ne approva lo statuto. (9800218R)"
+urn: urn:nir:stato:regio.decreto:1898-07-07;218
+codice_redazionale: 9800218R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 07 luglio 1898 n. CCXVIII
-=======================================
-
-Che riconosce come ente morale l'istituto «Esposizione permanente artistico-industriale di Reggio Emilia» e ne approva lo statuto. (9800218R)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/08/1898
-
-Art. 1
-------
-
-  
-Che riconosce come ente morale l'istituto «Esposizione permanente artistico-industriale di Reggio Emilia» e ne approva lo statuto - Firmato UMBERTO - Controfirmato Fortis - Visto C. Finocchiaro Aprile.   
-  
-Registrato alla Corte dei Conti addi' 27 luglio 1898.   
-  
-Reg. 216. Atti del Governo a f. 70.   
-  
+Che riconosce come ente morale l'istituto «Esposizione permanente artistico-industriale di Reggio Emilia» e ne approva lo statuto - Firmato UMBERTO - Controfirmato Fortis - Visto C. Finocchiaro Aprile. 
+ 
+ Registrato alla Corte dei Conti addi' 27 luglio 1898. 
+ 
+ Reg. 216. Atti del Governo a f. 70.

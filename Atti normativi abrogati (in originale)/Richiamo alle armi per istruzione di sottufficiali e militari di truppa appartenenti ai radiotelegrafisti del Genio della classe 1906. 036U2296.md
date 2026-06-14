@@ -1,16 +1,14 @@
-REGIO DECRETO 21 dicembre 1936 n. 2296
-
-
-REGIO DECRETO 21 dicembre 1936 n. 2296
-======================================
-
-Richiamo alle armi, per istruzione, di sottufficiali e militari di truppa appartenenti ai radiotelegrafisti del Genio della classe 1906. (036U2296)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/01/1937
+---
+tipo: REGIO DECRETO
+numero: 2296
+data: 1936-12-21
+titolo: "Richiamo alle armi, per istruzione, di sottufficiali e militari di truppa appartenenti ai radiotelegrafisti del Genio della classe 1906. (036U2296)"
+urn: urn:nir:stato:regio.decreto:1936-12-21;2296
+codice_redazionale: 036U2296
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,50 +20,32 @@ Visto l'art. 177 del testo unico delle leggi sul reclutamento del Regio esercito
 
 Visto l'art. 4 della legge 22 gennaio 1934-XII, n. 115, sui soccorsi giornalieri alle famiglie bisognose dei militari richiamati o trattenuti alle armi, modificato dal R. decreto-legge 13 maggio 1935-XIII, n. 1101;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Nei primi mesi del prossimo anno 1937 saranno richiamati alle armi, per istruzione, i sottufficiali e militari di truppa in congedo illimitato del Regio esercito, residenti nel Regno, appartenenti ai radiotelegrafisti del Genio della classe 1906.
 
-  
-  
-Nei primi mesi del prossimo anno 1937 saranno richiamati alle armi, per istruzione, i sottufficiali e militari di truppa in congedo illimitato del Regio esercito, residenti nel Regno, appartenenti ai radiotelegrafisti del Genio della classe 1906.   
-  
-  
+## Art. 2.
 
-Art. 2
-------
+I militari richiamati a norma del precedente articolo riceveranno apposita partecipazione personale nella quale sara' anche indicato il giorno della presentazione.
 
-  
-  
-I militari richiamati a norma del precedente articolo riceveranno apposita partecipazione personale nella quale sara' anche indicato il giorno della presentazione.   
-  
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-La durata del richiamo sara' di due mesi ed avra' luogo nel tempo e nei modi che, d'ordine Nostro, saranno stabiliti dal Ministro per la guerra.   
-  
-Il presente decreto ha vigore dal 10 gennaio 1937-XV.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 dicembre 1936 - Anno XV   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 21 gennaio 1937 - Anno XV   
-  
-Atti del Governo, registro 381, foglio 82. - Mancini.   
-  
-  
+La durata del richiamo sara' di due mesi ed avra' luogo nel tempo e nei modi che, d'ordine Nostro, saranno stabiliti dal Ministro per la guerra. 
+ 
+ Il presente decreto ha vigore dal 10 gennaio 1937-XV. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 21 dicembre 1936 - Anno XV 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 21 gennaio 1937 - Anno XV 
+ 
+ Atti del Governo, registro 381, foglio 82. - Mancini.

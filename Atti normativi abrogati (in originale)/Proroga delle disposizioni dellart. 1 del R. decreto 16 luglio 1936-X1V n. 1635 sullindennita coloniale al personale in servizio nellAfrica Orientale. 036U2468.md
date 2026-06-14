@@ -1,16 +1,14 @@
-REGIO DECRETO 12 novembre 1936 n. 2468
-
-
-REGIO DECRETO 12 novembre 1936 n. 2468
-======================================
-
-Proroga delle disposizioni dell'art. 1 del R. decreto 16 luglio 1936-X1V, n. 1635, sull'indennita' coloniale al personale in servizio nell'Africa Orientale. (036U2468)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/03/1937
+---
+tipo: REGIO DECRETO
+numero: 2468
+data: 1936-11-12
+titolo: "Proroga delle disposizioni dell'art. 1 del R. decreto 16 luglio 1936-X1V, n. 1635, sull'indennita' coloniale al personale in servizio nell'Africa Orientale. (036U2468)"
+urn: urn:nir:stato:regio.decreto:1936-11-12;2468
+codice_redazionale: 036U2468
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,27 +28,21 @@ Udito il parere del Consiglio superiore coloniale;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per le Colonie, di concerto coi Ministri Segretari di Stato per le finanze, per la guerra, per la marina, e per l'aeronautica; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per le Colonie, di concerto coi Ministri Segretari di Stato per le finanze, per la guerra, per la marina, e per l'aeronautica; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le disposizioni del R. decreto 26 luglio 1935-XIII, n. 1603, prorogate al 30 settembre 1936-XIV dall'art. 1 del R. decreto 16 luglio 1936-XIV, n. 1635, sono ulteriormente prorogate al 31 dicembre 1936-XV.   
-  
-Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 12 novembre 1936 - Anno XV   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 25 febbraio 1937 - Anno XV   
-Atti del Governo, registro 382, foglio 144. - Mancini.   
+Le disposizioni del R. decreto 26 luglio 1935-XIII, n. 1603, prorogate al 30 settembre 1936-XIV dall'art. 1 del R. decreto 16 luglio 1936-XIV, n. 1635, sono ulteriormente prorogate al 31 dicembre 1936-XV. 
+ 
+ Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 12 novembre 1936 - Anno XV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 25 febbraio 1937 - Anno XV  
+ Atti del Governo, registro 382, foglio 144. - Mancini.

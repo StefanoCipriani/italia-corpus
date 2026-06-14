@@ -1,64 +1,44 @@
-LEGGE 06 giugno 1907 n. 287
+---
+tipo: LEGGE
+numero: 287
+data: 1907-06-06
+titolo: "Che nomina una commissione con l'incarico di indagare tutto quanto concerne l'organizzazione dei servizi dipendenti dal Ministero della guerra. (007U0287)"
+urn: urn:nir:stato:legge:1907-06-06;287
+codice_redazionale: 007U0287
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 06 giugno 1907 n. 287
-===========================
+Sara' nominata una commissione con l'incarico di indagare tutto quanto concerne l'organizzazione e l'amministrazione dei servizi dipendenti dal Ministero della guerra.
 
-Che nomina una commissione con l'incarico di indagare tutto quanto concerne l'organizzazione dei servizi dipendenti dal Ministero della guerra. (007U0287)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/06/1907
+La commissione sara' composta di sei senatori eletti dal Senato, di sei deputati eletti dalla Camera a norma dell'art. 13, paragrafo penultimo del proprio regolamento, e di cinque membri nominati con decreto reale, udito il consiglio dei ministri. 
+ 
+ Eleggera' nel suo seno il proprio presidente. 
+ 
+ I deputati membri della commissione continueranno nel proprio ufficio anche se in loro cessera' il mandato legislativo.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-Sara' nominata una commissione con l'incarico di indagare tutto quanto concerne l'organizzazione e l'amministrazione dei servizi dipendenti dal Ministero della guerra.   
-  
+Per la esecuzione del suo mandato, la commissione potra' citare e sentire testimoni, eseguire ispezioni, ordinare perizie, richiedere e sequestrare documenti, e fare tutte quelle altre indagini che possono condurre all'accertamento della verita', il tutto con i poteri relativi attribuiti al magistrato inquirente dal [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e con le pene corrispondenti stabilite dal [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398), da applicarsi dalla competente autorita' giudiziaria.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-La commissione sara' composta di sei senatori eletti dal Senato, di sei deputati eletti dalla Camera a norma dell'art. 13, paragrafo penultimo del proprio regolamento, e di cinque membri nominati con decreto reale, udito il consiglio dei ministri.   
-  
-Eleggera' nel suo seno il proprio presidente.   
-  
-I deputati membri della commissione continueranno nel proprio ufficio anche se in loro cessera' il mandato legislativo.   
-  
+La commissione riferira' al Parlamento entro un anno dalla sua costituzione.
 
-Art. 3
-------
+## Art. 5.
 
-  
-  
-Per la esecuzione del suo mandato, la commissione potra' citare e sentire testimoni, eseguire ispezioni, ordinare perizie, richiedere e sequestrare documenti, e fare tutte quelle altre indagini che possono condurre all'accertamento della verita', il tutto con i poteri relativi attribuiti al magistrato inquirente dal [codice di procedura penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447) e con le pene corrispondenti stabilite dal [codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398), da applicarsi dalla competente autorita' giudiziaria.   
-  
-
-Art. 4
-------
-
-  
-  
-La commissione riferira' al Parlamento entro un anno dalla sua costituzione.   
-
-Art. 5
-------
-
-  
-  
-E' autorizzata la spesa straordinaria di lire cinquantamila da iscriversi in apposito capitolo nella parte straordinaria del bilancio del Ministero della guerra per l'esercizio finanziario 1906-907 col titolo: «Spesa per inchiesta sui servizi dipendenti dal Ministero della guerra».   
-  
-Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Roma, addi' 6 giugno 1907.   
-  
-VITTORIO EMANUELE   
-  
-GIOLITTI.   
-VIGANO'.   
-  
-Visto, Il Guardasigilli: ORLANDO.   
-  
+E' autorizzata la spesa straordinaria di lire cinquantamila da iscriversi in apposito capitolo nella parte straordinaria del bilancio del Ministero della guerra per l'esercizio finanziario 1906-907 col titolo: «Spesa per inchiesta sui servizi dipendenti dal Ministero della guerra». 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Roma, addi' 6 giugno 1907. 
+ 
+ VITTORIO EMANUELE 
+ 
+ GIOLITTI. 
+ VIGANO'. 
+ 
+ Visto, Il Guardasigilli: ORLANDO.

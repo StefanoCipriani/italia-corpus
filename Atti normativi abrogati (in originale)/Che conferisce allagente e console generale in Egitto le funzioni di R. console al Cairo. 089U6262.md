@@ -1,28 +1,23 @@
-REGIO DECRETO 14 luglio 1889 n. 6262
+---
+tipo: REGIO DECRETO
+numero: 6262
+data: 1889-07-14
+titolo: "Che conferisce all'agente e console generale in Egitto le funzioni di R. console al Cairo. (089U6262)"
+urn: urn:nir:stato:regio.decreto:1889-07-14;6262
+codice_redazionale: 089U6262
+vigente: true
+---
 
+## Articolo unico.
 
-REGIO DECRETO 14 luglio 1889 n. 6262
-====================================
-
-Che conferisce all'agente e console generale in Egitto le funzioni di R. console al Cairo. (089U6262)
------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/08/1889
-
-Articolo unico
---------------
-
-  
-  
-Il Nostro Agente e Console generale in Fgitto disimpegnera' anche le funzioni di R. Console al Cairo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 luglio 1889.   
-  
-UMBERTO.   
-  
-Crispi.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+Il Nostro Agente e Console generale in Fgitto disimpegnera' anche le funzioni di R. Console al Cairo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 luglio 1889. 
+ 
+ UMBERTO. 
+ 
+ Crispi. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

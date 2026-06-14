@@ -1,16 +1,14 @@
-REGIO DECRETO 06 marzo 1887 n. 4393
-
-
-REGIO DECRETO 06 marzo 1887 n. 4393
-===================================
-
-Che istituisce un posto di notaro nel comune di Pescaglia. (087U4393)
----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/04/1887
+---
+tipo: REGIO DECRETO
+numero: 4393
+data: 1887-03-06
+titolo: "Che istituisce un posto di notaro nel comune di Pescaglia. (087U4393)"
+urn: urn:nir:stato:regio.decreto:1887-03-06;4393
+codice_redazionale: 087U4393
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Veduta la domanda fatta dal comune di Pescaglia per la istituzione di un posto d
 
 Ritenuto che sarebbe giustificata la convenienza ed opportunita' dell'anzidetta domanda;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un posto di notaro nel comune di Pescaglia, distretto del collegio notarile di Lucca.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 6 marzo 1887.   
-  
-UMBERTO.   
-  
-D. Tajani.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+E' istituito un posto di notaro nel comune di Pescaglia, distretto del collegio notarile di Lucca. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 6 marzo 1887. 
+ 
+ UMBERTO. 
+ 
+ D. Tajani. 
+ 
+ Visto, Il Guardasigilli: Tajani.

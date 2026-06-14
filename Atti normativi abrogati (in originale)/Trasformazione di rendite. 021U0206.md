@@ -1,17 +1,17 @@
-REGIO DECRETO 27 gennaio 1921 n. 206
+---
+tipo: REGIO DECRETO
+numero: 206
+data: 1921-01-27
+titolo: "Trasformazione di rendite. (021U0206)"
+urn: urn:nir:stato:regio.decreto:1921-01-27;206
+codice_redazionale: 021U0206
+vigente: true
+---
 
-
-REGIO DECRETO 27 gennaio 1921 n. 206
-====================================
-
-Trasformazione di rendite. (021U0206)
--------------------------------------
-
-Entrata in vigore del provvedimento: 31/03/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-206. Regio decreto 27 gennaio 1921, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il fine inerente al patrimonio del Monte frumentario di Lapedona e' trasformato nel senso che le relative rendite sono destinate a favore del locale ospedale del Buon Gesu', al quale il patrimonio stesso e' interamente devoluto.
+206.
+
+Regio decreto 27 gennaio 1921, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il fine inerente al patrimonio del Monte frumentario di Lapedona e' trasformato nel senso che le relative rendite sono destinate a favore del locale ospedale del Buon Gesu', al quale il patrimonio stesso e' interamente devoluto.

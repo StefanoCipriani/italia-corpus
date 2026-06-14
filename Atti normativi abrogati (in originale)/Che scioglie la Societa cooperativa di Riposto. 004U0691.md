@@ -1,22 +1,20 @@
-REGIO DECRETO 11 dicembre 1904 n. 691
-
-
-REGIO DECRETO 11 dicembre 1904 n. 691
-=====================================
-
-Che scioglie la Societa' cooperativa di Riposto. (004U0691)
------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/01/1905
+---
+tipo: REGIO DECRETO
+numero: 691
+data: 1904-12-11
+titolo: "Che scioglie la Societa' cooperativa di Riposto. (004U0691)"
+urn: urn:nir:stato:regio.decreto:1904-12-11;691
+codice_redazionale: 004U0691
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduti la legge 26 gennaio 1902 e il [regolamento 21 luglio 1902, n. 346](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1902-07-21;346), sulle Associazioni o Imprese tontinarie o di ripartizione;
+Veduti la legge 26 gennaio 1902 e il [regolamento 21 luglio 1902, n. 346](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1902-07-21;346), sulle Associazioni o Imprese tontinarie o di ripartizione;
 
 Veduta l'istanza che la Societa' anonima cooperativa denominata «Cassa Universale Lord Ferodesin» con sede in Riposto, costituita nel 1897, ha presentato per essere autorizzata a continuare le operazioni a' termini della legge e del regolamento precitati;
 
@@ -30,27 +28,20 @@ Considerato inoltre che le riforme statutarie proposte all'assemblea del 6 e 21 
 
 Veduti i pareri espressi dal Consiglio della Providenza;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La Societa' anonima cooperativa denominata «Cassa Universale Lord Ferodesin» con sede in Riposto (Catania) e' sciolta e messa in liquidazione.   
-  
-Il sig. Salvatore Trincali, ragioniere presso la Prefettura di Catania, e' nominato liquidatore della Cassa predetta a decorrere dal quinto giorno successivo alla data della pubblicazione del presente decreto nella Gazzetta ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 dicembre 1904.   
-  
-VITTORIO EMANUELE.   
-  
-Rava.   
-  
-Visto, Il guardasigilli: Ronchetti.   
-  
+La Societa' anonima cooperativa denominata «Cassa Universale Lord Ferodesin» con sede in Riposto (Catania) e' sciolta e messa in liquidazione. 
+ 
+ Il sig. Salvatore Trincali, ragioniere presso la Prefettura di Catania, e' nominato liquidatore della Cassa predetta a decorrere dal quinto giorno successivo alla data della pubblicazione del presente decreto nella Gazzetta ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 dicembre 1904. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Rava. 
+ 
+ Visto, Il guardasigilli: Ronchetti.

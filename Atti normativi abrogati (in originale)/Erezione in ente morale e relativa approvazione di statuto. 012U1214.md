@@ -1,19 +1,15 @@
-REGIO DECRETO 09 settembre 1912 n. 1214
+---
+tipo: REGIO DECRETO
+numero: 1214
+data: 1912-09-09
+titolo: "Erezione in ente morale e relativa approvazione di statuto. (012U1214)"
+urn: urn:nir:stato:regio.decreto:1912-09-09;1214
+codice_redazionale: 012U1214
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 settembre 1912 n. 1214
-=======================================
-
-Erezione in ente morale e relativa approvazione di statuto. (012U1214)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/12/1912
-
-Art. 1
-------
-
-  
-N. 1214   
-  
-Regio Decreto 9 settembre 1912, col quale, sulla proposta del ministro della pubblica istruzione, la Fondazione «Premio Andrea Gloria» presso la R. Universita' di Padova e' eretta in ente morale e ne e' approvato lo statuto.   
-  
+N. 1214 
+ 
+ Regio Decreto 9 settembre 1912, col quale, sulla proposta del ministro della pubblica istruzione, la Fondazione «Premio Andrea Gloria» presso la R. Universita' di Padova e' eretta in ente morale e ne e' approvato lo statuto.

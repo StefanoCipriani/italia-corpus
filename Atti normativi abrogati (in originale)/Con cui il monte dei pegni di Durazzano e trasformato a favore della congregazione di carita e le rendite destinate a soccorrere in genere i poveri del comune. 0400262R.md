@@ -1,21 +1,17 @@
-REGIO DECRETO 26 maggio 1904 n. CCLXII
+---
+tipo: REGIO DECRETO
+numero: CCLXII
+data: 1904-05-26
+titolo: "Con cui il monte dei pegni di Durazzano e' trasformato a favore della congregazione di carita', e le rendite destinate a soccorrere in genere i poveri del comune. (0400262R)"
+urn: urn:nir:stato:regio.decreto:1904-05-26;262
+codice_redazionale: 0400262R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 maggio 1904 n. CCLXII
-======================================
-
-Con cui il monte dei pegni di Durazzano e' trasformato a favore della congregazione di carita', e le rendite destinate a soccorrere in genere i poveri del comune. (0400262R)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/07/1904
-
-Art. 1
-------
-
-  
-Con cui il monte dei pegni di Durazzano e' trasformato a favore della congregazione di carita', e le rendite destinate a soccorrere in genere i poveri del comune. - Firmato VITTORIO EMANUELE - Controfirmati Giolitti -Rava - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 2 luglio 1904.   
-  
-Reg. 17. Atti del Governo a f. 75.   
-  
+Con cui il monte dei pegni di Durazzano e' trasformato a favore della congregazione di carita', e le rendite destinate a soccorrere in genere i poveri del comune. - Firmato VITTORIO EMANUELE - Controfirmati Giolitti -Rava - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 2 luglio 1904. 
+ 
+ Reg. 17. Atti del Governo a f. 75.

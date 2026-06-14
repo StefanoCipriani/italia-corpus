@@ -1,16 +1,14 @@
-REGIO DECRETO 20 dicembre 1891 n. 741
-
-
-REGIO DECRETO 20 dicembre 1891 n. 741
-=====================================
-
-Che istituisce un posto di notaro nel comune di Montegiordano. (091U0741)
--------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/02/1892
+---
+tipo: REGIO DECRETO
+numero: 741
+data: 1891-12-20
+titolo: "Che istituisce un posto di notaro nel comune di Montegiordano. (091U0741)"
+urn: urn:nir:stato:regio.decreto:1891-12-20;741
+codice_redazionale: 091U0741
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Visto l'art. 4 della legge sul notariato, approvata con Nostro Decreto 25 maggio
 
 Ritenuto esser dimostrata la necessita' della istituzione del posto anzidetto;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un posto di notaro nel Comune di Montegiordano, distretto notarile di Castrovillari.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 20 dicembre 1891.   
-  
-UMBERTO.   
-  
-Luigi Ferraris.   
-  
-Visto, Il Guardasigilli: B. Chimirri.   
-  
+E' istituito un posto di notaro nel Comune di Montegiordano, distretto notarile di Castrovillari. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 20 dicembre 1891. 
+ 
+ UMBERTO. 
+ 
+ Luigi Ferraris. 
+ 
+ Visto, Il Guardasigilli: B. Chimirri.

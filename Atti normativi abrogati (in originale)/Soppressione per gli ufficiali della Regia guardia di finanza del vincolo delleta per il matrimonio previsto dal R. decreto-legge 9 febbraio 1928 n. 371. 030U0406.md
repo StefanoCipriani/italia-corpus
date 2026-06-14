@@ -1,38 +1,27 @@
-LEGGE 20 marzo 1930 n. 406
+---
+tipo: LEGGE
+numero: 406
+data: 1930-03-20
+titolo: "Soppressione, per gli ufficiali della Regia guardia di finanza, del vincolo dell'eta' per il matrimonio, previsto dal R. decreto-legge 9 febbraio 1928, n. 371. (030U0406)"
+urn: urn:nir:stato:legge:1930-03-20;406
+codice_redazionale: 030U0406
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 20 marzo 1930 n. 406
-==========================
+Il secondo comma dell'articolo primo del testo unico delle leggi sul matrimonio degli ufficiali del Regio esercito, della Regia marina, della Regia aeronautica e della Regia guardia di finanza, approvato con [R. decreto 9 febbraio 1928, n. 371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-09;371), e' modificato nel senso che, per gli ufficiali della Regia guardia di finanza, il limite di eta' di 25 anni per contrarre matrimonio e' soppresso.
 
-Soppressione, per gli ufficiali della Regia guardia di finanza, del vincolo dell'eta' per il matrimonio, previsto dal R. decreto-legge 9 febbraio 1928, n. 371. (030U0406)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 28/04/1930
-
-Art. 1
-------
-
-  
-  
-  
-Il secondo comma dell'articolo primo del testo unico delle leggi sul matrimonio degli ufficiali del Regio esercito, della Regia marina, della Regia aeronautica e della Regia guardia di finanza, approvato con [R. decreto 9 febbraio 1928, n. 371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-09;371), e' modificato nel senso che, per gli ufficiali della Regia guardia di finanza, il limite di eta' di 25 anni per contrarre matrimonio e' soppresso.   
-  
-
-Art. 2
-------
-
-  
-  
-  
-La presente legge entra in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Roma, addi' 20 marzo 1930 - Anno VIII   
-  
-VITTORIO EMANUELE.   
-  
-Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
+La presente legge entra in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Roma, addi' 20 marzo 1930 - Anno VIII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco.

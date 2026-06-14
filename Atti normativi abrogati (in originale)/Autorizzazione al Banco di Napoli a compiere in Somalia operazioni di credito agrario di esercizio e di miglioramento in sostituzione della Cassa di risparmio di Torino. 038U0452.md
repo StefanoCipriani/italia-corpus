@@ -1,16 +1,14 @@
-REGIO DECRETO 17 marzo 1938 n. 452
-
-
-REGIO DECRETO 17 marzo 1938 n. 452
-==================================
-
-Autorizzazione al Banco di Napoli a compiere in Somalia operazioni di credito agrario di esercizio e di miglioramento in sostituzione della Cassa di risparmio di Torino. (038U0452)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/05/1938
+---
+tipo: REGIO DECRETO
+numero: 452
+data: 1938-03-17
+titolo: "Autorizzazione al Banco di Napoli a compiere in Somalia operazioni di credito agrario di esercizio e di miglioramento in sostituzione della Cassa di risparmio di Torino. (038U0452)"
+urn: urn:nir:stato:regio.decreto:1938-03-17;452
+codice_redazionale: 038U0452
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -30,28 +28,22 @@ Udito il parere del Consiglio superiore coloniale;
 
 Sentito il Consiglio del Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per l'Africa italiana, di concerto coi Ministri Segretari di Stato per le finanze e per l'agricoltura e foreste; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per l'Africa italiana, di concerto coi Ministri Segretari di Stato per le finanze e per l'agricoltura e foreste; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Banco di Napoli e' autorizzato a compiere in Somalia, per mezzo della filiale di Mogadiscio, operazioni di credito agrario di esercizio e di miglioramento, in sostituzione della Cassa di risparmio di Torino, con l'osservanza delle disposizioni contenute nel R. decreto 7 marzo 1933-XI, n. 452.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella, raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 17 marzo 1938 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - DI REVEL - ROSSONI   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 7 maggio 1938 - Anno XVI   
-  
-Atti del Governo, registro 397, foglio 28. - MANCINI.   
+Il Banco di Napoli e' autorizzato a compiere in Somalia, per mezzo della filiale di Mogadiscio, operazioni di credito agrario di esercizio e di miglioramento, in sostituzione della Cassa di risparmio di Torino, con l'osservanza delle disposizioni contenute nel R. decreto 7 marzo 1933-XI, n. 452. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella, raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 marzo 1938 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL - ROSSONI 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 7 maggio 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 397, foglio 28. - MANCINI.

@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 16 dicembre 1915 n. 1912
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1912
+data: 1915-12-16
+titolo: "Erezione in Ente morale e relativa approvazione di Statuto. (015U1912)"
+urn: urn:nir:stato:decreto.luogotenenziale:1915-12-16;1912
+codice_redazionale: 015U1912
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 16 dicembre 1915 n. 1912
-================================================
-
-Erezione in Ente morale e relativa approvazione di Statuto. (015U1912)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/02/1916
-
-Art. 1
-------
-
-  
-N. 1912   
-  
-Col quale, sulla proposta del ministro d'agricoltura, industria e commercio, viene eretta in ente morale la Cassa agraria per il mandamento di San Severino Marche, e ne e' approvato lo statuto.   
-  
+N. 1912 
+ 
+ Col quale, sulla proposta del ministro d'agricoltura, industria e commercio, viene eretta in ente morale la Cassa agraria per il mandamento di San Severino Marche, e ne e' approvato lo statuto.

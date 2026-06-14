@@ -1,16 +1,14 @@
-REGIO DECRETO 20 novembre 1870 n. 6024
-
-
-REGIO DECRETO 20 novembre 1870 n. 6024
-======================================
-
-Che manda pubblicare nella Provincia di Roma la Legge ed il Regolamento pel servizio semaforico, e la Legge relativa alla riforma della tariffa telegrafica. (070U6024)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/12/1870
+---
+tipo: REGIO DECRETO
+numero: 6024
+data: 1870-11-20
+titolo: "Che manda pubblicare nella Provincia di Roma la Legge ed il Regolamento pel servizio semaforico, e la Legge relativa alla riforma della tariffa telegrafica. (070U6024)"
+urn: urn:nir:stato:regio.decreto:1870-11-20;6024
+codice_redazionale: 070U6024
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Visto l'articolo 82 dello Statuto fondamentale del Regno;
 
 Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici;
 
-Sentito
--------
+Sentito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono pubblicati nella Provincia di Roma la [Legge 5 maggio 1869, n. 5041](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1869-05-05;5041), che istituisce il servizio semaforico, il Decreto 22 maggio 1870, n. 5686, che approva il Regolamento per lo stesso servizio, e la [Legge 18 agosto 1870, n. 5821](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-18;5821), relativa alla riforma della tariffa telegrafica.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 20 novembre 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 24 novembre 1870   
-  
-Reg. 53 Atti del Governo a c. 72. Ayres.   
-  
-Luogo del sigillo, V. il Guardasigilli M. Raeli.   
-  
-G. Gadda.   
-  
+Sono pubblicati nella Provincia di Roma la [Legge 5 maggio 1869, n. 5041](Riguardante%20il%20servizio%20semaforico.%20069U5041.md), che istituisce il servizio semaforico, il Decreto 22 maggio 1870, n. 5686, che approva il Regolamento per lo stesso servizio, e la [Legge 18 agosto 1870, n. 5821](Con%20cui%20si%20approva%20una%20nuova%20tariffa%20pei%20telegrammi%20nell%20interno%20del%20Regno%20e%20si%20danno%20altre%20disposizioni%20circa%20il%20servizio%20e%20la%20rete%20telegrafica.%20070U5821.md), relativa alla riforma della tariffa telegrafica. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 20 novembre 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 24 novembre 1870 
+ 
+ Reg. 53 Atti del Governo a c. 72. Ayres. 
+ 
+ Luogo del sigillo, V. il Guardasigilli M. Raeli. 
+ 
+ G. Gadda.

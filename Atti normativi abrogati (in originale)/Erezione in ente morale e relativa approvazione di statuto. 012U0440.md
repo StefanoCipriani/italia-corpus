@@ -1,19 +1,15 @@
-REGIO DECRETO 02 maggio 1912 n. 440
+---
+tipo: REGIO DECRETO
+numero: 440
+data: 1912-05-02
+titolo: "Erezione in ente morale e relativa approvazione di statuto. (012U0440)"
+urn: urn:nir:stato:regio.decreto:1912-05-02;440
+codice_redazionale: 012U0440
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 maggio 1912 n. 440
-===================================
-
-Erezione in ente morale e relativa approvazione di statuto. (012U0440)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/06/1912
-
-Art. 1
-------
-
-  
-N. 440   
-  
-Regio Decreto 2 maggio 1912, col quale, sulla proposta del ministro dell'interno, la «Cucina di Beneficenza» di Belluno viene eretta in ente morale con amministrazione propria e ne e' approvato lo statuto organico.   
-  
+N. 440 
+ 
+ Regio Decreto 2 maggio 1912, col quale, sulla proposta del ministro dell'interno, la «Cucina di Beneficenza» di Belluno viene eretta in ente morale con amministrazione propria e ne e' approvato lo statuto organico.

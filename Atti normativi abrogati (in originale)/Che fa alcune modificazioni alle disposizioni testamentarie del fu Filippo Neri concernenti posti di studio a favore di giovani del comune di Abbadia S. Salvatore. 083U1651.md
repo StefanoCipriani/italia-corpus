@@ -1,16 +1,14 @@
-REGIO DECRETO 27 settembre 1883 n. 1651
-
-
-REGIO DECRETO 27 settembre 1883 n. 1651
-=======================================
-
-Che fa alcune modificazioni alle disposizioni testamentarie del fu Filippo Neri, concernenti posti di studio a favore di giovani del comune di Abbadia S. Salvatore. (083U1651)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/11/1883
+---
+tipo: REGIO DECRETO
+numero: 1651
+data: 1883-09-27
+titolo: "Che fa alcune modificazioni alle disposizioni testamentarie del fu Filippo Neri, concernenti posti di studio a favore di giovani del comune di Abbadia S. Salvatore. (083U1651)"
+urn: urn:nir:stato:regio.decreto:1883-09-27;1651
+codice_redazionale: 083U1651
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -28,27 +26,20 @@ Vista la domanda del Consiglio comunale di Abbadia San Salvatore, alla quale ha 
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Possono concorrere ai posti, di cui si tratta, i giovani che non abbiano superati i 18 anni, e che provino d'avere tutti i requisiti per essere ammessi al Liceo.   
-  
-I giovani, ai quali son conferiti i posti suddetti, possono continuare a goderli, purche' per un tempo non eccedente il decennio, fino al compimento degli studi universitari; ove pero' non facciano buona prova negli esami annuali, s' intenderanno decaduti dai posti medesimi, che verranno colle norme stabilite, conferiti ad altri.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 27 settembre 1883.   
-  
-UMBERTO.   
-  
-BACCELLI.   
-  
-Visto, Il Guardasigilli: SAVELLI.   
-  
+Possono concorrere ai posti, di cui si tratta, i giovani che non abbiano superati i 18 anni, e che provino d'avere tutti i requisiti per essere ammessi al Liceo. 
+ 
+ I giovani, ai quali son conferiti i posti suddetti, possono continuare a goderli, purche' per un tempo non eccedente il decennio, fino al compimento degli studi universitari; ove pero' non facciano buona prova negli esami annuali, s' intenderanno decaduti dai posti medesimi, che verranno colle norme stabilite, conferiti ad altri. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 27 settembre 1883. 
+ 
+ UMBERTO. 
+ 
+ BACCELLI. 
+ 
+ Visto, Il Guardasigilli: SAVELLI.

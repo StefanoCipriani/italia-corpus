@@ -1,16 +1,14 @@
-REGIO DECRETO 19 novembre 1893 n. 722
-
-
-REGIO DECRETO 19 novembre 1893 n. 722
-=====================================
-
-Che concerne la Commissione permanente per le arti musicale e drammatica. (093U0722)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/02/1894
+---
+tipo: REGIO DECRETO
+numero: 722
+data: 1893-11-19
+titolo: "Che concerne la Commissione permanente per le arti musicale e drammatica. (093U0722)"
+urn: urn:nir:stato:regio.decreto:1893-11-19;722
+codice_redazionale: 093U0722
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,51 +24,34 @@ Riconosciuta altresi' la necessita' di determinare le norme per la Presidenza de
 
 Ritenuto equo ed opportuno stabilire la misura delle indennita' che saranno dovute ai commissarii;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il numero dei componenti la sezione musicale della Commissione permanente per le Arti musicale e drammatica e' portato da cinque a sette.
 
-  
-  
-Il numero dei componenti la sezione musicale della Commissione permanente per le Arti musicale e drammatica e' portato da cinque a sette.   
-  
+## Art. 2.
 
-Art. 2
-------
+Le adunanze sono presiedute dal Ministro o dalla persona chiamata da lui a rappresentarlo.
 
-  
-  
-Le adunanze sono presiedute dal Ministro o dalla persona chiamata da lui a rappresentarlo.   
-  
+## Art. 3.
 
-Art. 3
-------
+Cosi' dalla sezione musicale come dalla sezione drammatica e' escluso chi abbia ufficio od impegni coi corrispondenti Istituti d'arte che dipendono dal Governo, o sono dal medesimo sovvenuti.
 
-  
-  
-Cosi' dalla sezione musicale come dalla sezione drammatica e' escluso chi abbia ufficio od impegni coi corrispondenti Istituti d'arte che dipendono dal Governo, o sono dal medesimo sovvenuti.   
-  
-
-Art. 4
-------
+## Art. 4.
 
 I commissarii presenti alle adunanze hanno diritto alla indennita' giornaliera di L.
 
-15. 
-  
-  
-Ai commissarii residenti fuori di Roma e che prendono parte alle riunioni spetta la indennita' giornaliera di L. 20, oltre al rimborso delle spese di viaggio in 1ª classe, con l'aumento del dieci per cento.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 19 novembre 1893.   
-  
-UMBERTO.   
-  
-Martini.   
-  
-Visto, Il Guardasigilli: G. Armo'.
+15.
+
+Ai commissarii residenti fuori di Roma e che prendono parte alle riunioni spetta la indennita' giornaliera di L. 20, oltre al rimborso delle spese di viaggio in 1ª classe, con l'aumento del dieci per cento. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 19 novembre 1893. 
+ 
+ UMBERTO. 
+ 
+ Martini. 
+ 
+ Visto, Il Guardasigilli: G. Armo'.

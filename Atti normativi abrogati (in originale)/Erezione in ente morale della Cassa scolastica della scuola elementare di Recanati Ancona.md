@@ -1,18 +1,20 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 02 aprile 1947 n. 562
+---
+tipo: DECRETO DEL CAPO PROVVISORIO DELLO STATO
+numero: 562
+data: 1947-04-02
+titolo: "Erezione in ente morale della Cassa scolastica della scuola elementare di Recanati (Ancona)."
+urn: urn:nir:stato:decreto.del.capo.provvisorio.dello.stato:1947-04-02;562
+codice_redazionale: 047U0562
+vigente: true
+---
 
-
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 02 aprile 1947 n. 562
-==============================================================
-
-Erezione in ente morale della Cassa scolastica della scuola elementare di Recanati (Ancona).
---------------------------------------------------------------------------------------------
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-562. Decreto del Capo provvisorio dello Stato 2 aprile 1947, col quale, sulla proposta dei Ministro per la pubblica istruzione, la Cassa scolastica della scuola elementare di Recanati (Ancona), viene eretta in ente morale e ne viene approvato lo statuto.  
-  
-Visto, il Guardasigilli: GULLO  
-Registrato alla Corte dei Conti, addi' 18 giugno 1947
+562.
+
+Decreto del Capo provvisorio dello Stato 2 aprile 1947, col quale, sulla proposta dei Ministro per la pubblica istruzione, la Cassa scolastica della scuola elementare di Recanati (Ancona), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GULLO
+ Registrato alla Corte dei Conti, addi' 18 giugno 1947

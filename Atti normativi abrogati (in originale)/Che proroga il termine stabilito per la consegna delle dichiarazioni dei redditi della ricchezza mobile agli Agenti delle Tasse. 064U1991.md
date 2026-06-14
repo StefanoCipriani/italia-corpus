@@ -1,16 +1,14 @@
-REGIO DECRETO 13 novembre 1864 n. 1991
-
-
-REGIO DECRETO 13 novembre 1864 n. 1991
-======================================
-
-Che proroga il termine stabilito per la consegna delle dichiarazioni dei redditi della ricchezza mobile agli Agenti delle Tasse. (064U1991)
--------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/11/1864
+---
+tipo: REGIO DECRETO
+numero: 1991
+data: 1864-11-13
+titolo: "Che proroga il termine stabilito per la consegna delle dichiarazioni dei redditi della ricchezza mobile agli Agenti delle Tasse. (064U1991)"
+urn: urn:nir:stato:regio.decreto:1864-11-13;1991
+codice_redazionale: 064U1991
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Veduto il Nostro Decreto in data 14 agosto 1864, n.° 1834, col quale venne appr
 
 Veduti gli articoli 32 e 50 del regolamento suddetto;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il termine stabilito al giorno 15 novembre dall'articolo 32 del regolamento stesso pel rinvio delle dichiarazioni dei redditi dei contribuenti all'Agente delle Tasse, viene prorogato a tutto il 30 dello stesso mese, ed il termine stabilito dall' articolo 50 per le dichiarazioni tardive soggette ad ammenda o multa vien portato dal 15 al 30 gennaio 1865.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 13 novembre 1864.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 14 novembre 1864   
-  
-Reg.° 51 Atti del Governo a c. 157. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Vacca.   
-  
-Quintino Sella.   
-  
+Il termine stabilito al giorno 15 novembre dall'articolo 32 del regolamento stesso pel rinvio delle dichiarazioni dei redditi dei contribuenti all'Agente delle Tasse, viene prorogato a tutto il 30 dello stesso mese, ed il termine stabilito dall' articolo 50 per le dichiarazioni tardive soggette ad ammenda o multa vien portato dal 15 al 30 gennaio 1865. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 13 novembre 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 14 novembre 1864 
+ 
+ Reg.° 51 Atti del Governo a c. 157. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Vacca. 
+ 
+ Quintino Sella.

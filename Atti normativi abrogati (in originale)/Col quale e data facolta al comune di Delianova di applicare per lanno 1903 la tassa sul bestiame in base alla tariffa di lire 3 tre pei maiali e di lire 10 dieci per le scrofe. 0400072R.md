@@ -1,21 +1,17 @@
-REGIO DECRETO 03 marzo 1904 n. LXXII
+---
+tipo: REGIO DECRETO
+numero: LXXII
+data: 1904-03-03
+titolo: "Col quale e' data facolta' al comune di Delianova di applicare per l'anno 1903 la tassa sul bestiame in base alla tariffa di lire 3 (tre) pei maiali e di lire 10 (dieci) per le scrofe. (0400072R)"
+urn: urn:nir:stato:regio.decreto:1904-03-03;72
+codice_redazionale: 0400072R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 marzo 1904 n. LXXII
-====================================
-
-Col quale e' data facolta' al comune di Delianova di applicare per l'anno 1903 la tassa sul bestiame in base alla tariffa di lire 3 (tre) pei maiali e di lire 10 (dieci) per le scrofe. (0400072R)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/04/1904
-
-Art. 1
-------
-
-  
-Col quale e' data facolta' al comune di Delianova di applicare per l'anno 1903 la tassa sul bestiame in base alla tariffa di lire 3 (tre) pei maiali e di lire 10 (dieci) per le scrofe. - Firmato VITTORIO EMANUELE - Controfirmato L. Luzzatti - Visto Ronchetti.   
-  
-Registrato alla Corte dei conti addi' 15 marzo 1904.   
-  
-Reg. 15. Atti del Governo a f. 144.   
-  
+Col quale e' data facolta' al comune di Delianova di applicare per l'anno 1903 la tassa sul bestiame in base alla tariffa di lire 3 (tre) pei maiali e di lire 10 (dieci) per le scrofe. - Firmato VITTORIO EMANUELE - Controfirmato L. Luzzatti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 15 marzo 1904. 
+ 
+ Reg. 15. Atti del Governo a f. 144.

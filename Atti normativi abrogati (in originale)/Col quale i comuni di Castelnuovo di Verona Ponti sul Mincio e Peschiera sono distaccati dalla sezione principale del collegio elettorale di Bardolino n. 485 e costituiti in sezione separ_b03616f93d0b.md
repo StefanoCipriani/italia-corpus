@@ -1,16 +1,14 @@
-REGIO DECRETO 01 agosto 1876 n. 3262
-
-
-REGIO DECRETO 01 agosto 1876 n. 3262
-====================================
-
-Col quale i comuni di Castelnuovo di Verona, Ponti sul Mincio e Peschiera sono distaccati dalla sezione principale del collegio elettorale di Bardolino, n. 485, e costituiti in sezione separata del collegio medesimo. (076U3262)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/08/1876
+---
+tipo: REGIO DECRETO
+numero: 3262
+data: 1876-08-01
+titolo: "Col quale i comuni di Castelnuovo di Verona, Ponti sul Mincio e Peschiera sono distaccati dalla sezione principale del collegio elettorale di Bardolino, n. 485, e costituiti in sezione separata del collegio medesimo. (076U3262)"
+urn: urn:nir:stato:regio.decreto:1876-08-01;3262
+codice_redazionale: 076U3262
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA'DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla da proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-da proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Castelnuovo di Verona, Ponti sul Mincio e Peschiera sono separati dalla sezione principale del Collegio elettorale di Bardolino n. 485, e costituiranno da oggi innanzi una sezione distinta del Collegio medesimo con sede in Peschiera.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, addi' 1° agosto 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+I comuni di Castelnuovo di Verona, Ponti sul Mincio e Peschiera sono separati dalla sezione principale del Collegio elettorale di Bardolino n. 485, e costituiranno da oggi innanzi una sezione distinta del Collegio medesimo con sede in Peschiera. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, addi' 1° agosto 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

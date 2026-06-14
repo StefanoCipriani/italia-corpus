@@ -1,16 +1,14 @@
-REGIO DECRETO 06 maggio 1906 n. 218
-
-
-REGIO DECRETO 06 maggio 1906 n. 218
-===================================
-
-Istituzione di un ufficio di conciliazione nella frazione Marina di Ciro', in comune di Ciro' (Catanzaro). (006U0218)
----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/06/1906
+---
+tipo: REGIO DECRETO
+numero: 218
+data: 1906-05-06
+titolo: "Istituzione di un ufficio di conciliazione nella frazione Marina di Ciro', in comune di Ciro' (Catanzaro). (006U0218)"
+urn: urn:nir:stato:regio.decreto:1906-05-06;218
+codice_redazionale: 006U0218
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Vista la deliberazione del Consiglio comunale di Ciro' del 6 dicembre 1905, con 
 
 Visto il rapporto 9 marzo 1906, n. 1211 del primo presidente della Corte d'appello di Catanzaro, col quale si propone la istituzione dell'ufficio predetto;
 
-Visti gli [articoli 1 della legge 16 giugno 1892, n. 261 e 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;1~art1) del relativo regolamento 26 dicembre stesso anno, n. 728:
+Visti gli [articoli 1 della legge 16 giugno 1892, n. 261 e 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;1#art_1) del relativo regolamento 26 dicembre stesso anno, n. 728:
 
-Sulla
------
+Sulla proposta del Nostro guardasigilli ministro segretario di Stato per gli affari di grazia e giustizia e dei culti; Abbiamo decretato e decretiamo:
 
-proposta del Nostro guardasigilli ministro segretario di Stato per gli affari di grazia e giustizia e dei culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituite un distinto Ufficio di conciliazione, nella frazione Marina di Ciro', del comune di Ciro'.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 maggio 1906.   
-  
-VITTORIO EMANUELE.   
-  
-E. Sacchi.   
-  
-Visto, Il guardasigilli: E Sacchi.   
-  
+E' istituite un distinto Ufficio di conciliazione, nella frazione Marina di Ciro', del comune di Ciro'. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 maggio 1906. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ E. Sacchi. 
+ 
+ Visto, Il guardasigilli: E Sacchi.

@@ -1,16 +1,14 @@
-REGIO DECRETO 21 marzo 1869 n. 4984
-
-
-REGIO DECRETO 21 marzo 1869 n. 4984
-===================================
-
-Col quale sono dichiarate provinciali nella Provincia di Teramo le quattro strade indicate nell'Elenco annesso al presente Decreto. (069U4984)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/05/1869
+---
+tipo: REGIO DECRETO
+numero: 4984
+data: 1869-03-21
+titolo: "Col quale sono dichiarate provinciali nella Provincia di Teramo le quattro strade indicate nell'Elenco annesso al presente Decreto. (069U4984)"
+urn: urn:nir:stato:regio.decreto:1869-03-21;4984
+codice_redazionale: 069U4984
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -44,37 +42,22 @@ Egidio, Cepagatti, Penne, Pianella, il nuovo Elenco di classificazione ha soddis
 
 Che i ricorsi dei Comuni di Atri, Collecorvino, Alanno e Cervaro, contro la classificazione fra le provinciali della strada della Vibrata e di quella da Penne a Chieti, non che le istanze di Civitaquana e Loreto Aprutino, per l'inclusione sull'Elenco di altri tronchi, non sono ammissibili, dacche' si trovano gia' confutati o dal loro enunciato stesso, o dai documenti prodotti;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono dichiarate provinciali nella Provincia di Teramo le quattro strade indicate nell'Elenco, che visto d'odine Nostro dal predetto Ministro, sta annesso al presente Decreto.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 21 marzo 1869.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 8 aprile 1869   
-  
-Reg. 46 Atti del Governo a c. 104. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-L. Pasini.   
-  
-
-Elenco
-
-  
-ELENCO delle strade provinciali di Teramo dichiarate tali con R. decreto in data d'oggi.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=069U498400100010110001&dgu=1869-04-26&art.dataPubblicazioneGazzetta=1869-04-26&art.codiceRedazionale=069U4984)
-  
+Sono dichiarate provinciali nella Provincia di Teramo le quattro strade indicate nell'Elenco, che visto d'odine Nostro dal predetto Ministro, sta annesso al presente Decreto. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 21 marzo 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 8 aprile 1869 
+ 
+ Reg. 46 Atti del Governo a c. 104. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ L. Pasini.

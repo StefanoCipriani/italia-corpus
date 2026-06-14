@@ -1,19 +1,15 @@
-REGIO DECRETO 29 gennaio 1914 n. 141
+---
+tipo: REGIO DECRETO
+numero: 141
+data: 1914-01-29
+titolo: "Modificazione di regolamento per applicazione di tassa di soggiorno. (014U0141)"
+urn: urn:nir:stato:regio.decreto:1914-01-29;141
+codice_redazionale: 014U0141
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 gennaio 1914 n. 141
-====================================
-
-Modificazione di regolamento per applicazione di tassa di soggiorno. (014U0141)
--------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/03/1914
-
-Art. 1
-------
-
-  
-N. 141   
-  
-Regio Decreto 29 gennaio 1914, col quale, sulla proposta del ministro dell'interno, di concerto con quello delle finanze, e' modificato il regolamento per l'applicazione della tassa di soggiorno nel comune di Nervi (Genova).   
-  
+N. 141 
+ 
+ Regio Decreto 29 gennaio 1914, col quale, sulla proposta del ministro dell'interno, di concerto con quello delle finanze, e' modificato il regolamento per l'applicazione della tassa di soggiorno nel comune di Nervi (Genova).

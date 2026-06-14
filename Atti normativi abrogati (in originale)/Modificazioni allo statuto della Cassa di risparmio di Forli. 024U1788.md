@@ -1,21 +1,21 @@
-REGIO DECRETO 16 ottobre 1924 n. 1788
+---
+tipo: REGIO DECRETO
+numero: 1788
+data: 1924-10-16
+titolo: "Modificazioni allo statuto della Cassa di risparmio di Forli'. (024U1788)"
+urn: urn:nir:stato:regio.decreto:1924-10-16;1788
+codice_redazionale: 024U1788
+vigente: true
+---
 
-
-REGIO DECRETO 16 ottobre 1924 n. 1788
-=====================================
-
-Modificazioni allo statuto della Cassa di risparmio di Forli'. (024U1788)
--------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 06/12/1924
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1788. R. decreto 16 ottobre 1924, col quale, sulla proposta del Ministro per l'economia nazionale, vengono apportate alcune modificazioni ed aggiunte allo statuto organico della Cassa di risparmio di Forli'.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 14 novembre 1924.
+1788.
+
+R. decreto 16 ottobre 1924, col quale, sulla proposta del Ministro per l'economia nazionale, vengono apportate alcune modificazioni ed aggiunte allo statuto organico della Cassa di risparmio di Forli'. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 14 novembre 1924.

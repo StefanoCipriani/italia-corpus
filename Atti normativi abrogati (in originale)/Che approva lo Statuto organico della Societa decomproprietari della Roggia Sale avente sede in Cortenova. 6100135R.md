@@ -1,20 +1,17 @@
-REGIO DECRETO 25 agosto 1861 n. CXXXV
+---
+tipo: REGIO DECRETO
+numero: CXXXV
+data: 1861-08-25
+titolo: "Che approva lo Statuto organico della Societa' de'comproprietari della Roggia Sale avente sede in Cortenova. (6100135R)"
+urn: urn:nir:stato:regio.decreto:1861-08-25;135
+codice_redazionale: 6100135R
+vigente: true
+---
 
-
-REGIO DECRETO 25 agosto 1861 n. CXXXV
-=====================================
-
-Che approva lo Statuto organico della Societa' de'comproprietari della Roggia Sale avente sede in Cortenova. (6100135R)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/08/1861
-
-Art. 1
-------
+## Art. 1.
 
 Che approva lo statuto organico della Societa' de'comproprietari della Roggia Sale avente sede in Cortenova (Provincia di Bergamo) deliberato nell'adunanza del 21 giugno
 
-1858. 
-  
-  
+1858.
+
 Torino 25 agosto 1861

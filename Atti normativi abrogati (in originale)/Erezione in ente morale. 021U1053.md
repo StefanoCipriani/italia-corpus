@@ -1,17 +1,17 @@
-REGIO DECRETO 03 luglio 1921 n. 1053
+---
+tipo: REGIO DECRETO
+numero: 1053
+data: 1921-07-03
+titolo: "Erezione in ente morale. (021U1053)"
+urn: urn:nir:stato:regio.decreto:1921-07-03;1053
+codice_redazionale: 021U1053
+vigente: true
+---
 
-
-REGIO DECRETO 03 luglio 1921 n. 1053
-====================================
-
-Erezione in ente morale. (021U1053)
------------------------------------
-
-Entrata in vigore del provvedimento: 27/08/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1053. Regio decreto 3 luglio 1921, col quale, sulla proposta del ministro per l'industria ed il commercio, l'Istituto autonomo per le case popolari, con sede in Lanciano viene eretto in Ente morale, ed approvato lo statuto organico relativo.
+1053.
+
+Regio decreto 3 luglio 1921, col quale, sulla proposta del ministro per l'industria ed il commercio, l'Istituto autonomo per le case popolari, con sede in Lanciano viene eretto in Ente morale, ed approvato lo statuto organico relativo.

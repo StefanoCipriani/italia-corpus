@@ -1,16 +1,14 @@
-REGIO DECRETO 02 luglio 1925 n. 1216
-
-
-REGIO DECRETO 02 luglio 1925 n. 1216
-====================================
-
-Estensione al personale della Regia aeronautica delle disposizioni contenute nel R. viglietto 26 marzo 1833 e nel R. decreto 8 dicembre 1887 e successive modificazioni, relativamente alla concessione delle medaglie d'oro, d'argento e di bronzo al valor militare. (025U1216)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/08/1925
+---
+tipo: REGIO DECRETO
+numero: 1216
+data: 1925-07-02
+titolo: "Estensione al personale della Regia aeronautica delle disposizioni contenute nel R. viglietto 26 marzo 1833 e nel R. decreto 8 dicembre 1887 e successive modificazioni, relativamente alla concessione delle medaglie d'oro, d'argento e di bronzo al valor militare. (025U1216)"
+urn: urn:nir:stato:regio.decreto:1925-07-02;1216
+codice_redazionale: 025U1216
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,31 +18,24 @@ Visto il R. viglietto in data 26 marzo 1833, con cui fu istituita la medaglia d'
 
 Visto il R. decreto in data 8 dicembre 1887, con cui fu istituita la medaglia di bronzo al valor militare;
 
-Visto il [R. decreto-legge 4 maggio 1925, n. 627](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-05-04;627), relativo all'ordinamento della Regia aeronautica;
+Visto il [R. decreto-legge 4 maggio 1925, n. 627](Ordinamento%20della%20Regia%20aeronautica.%20025U0627.md), relativo all'ordinamento della Regia aeronautica;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Commissario per l'aeronautica, Ministro ad interim per gli affari della guerra e per quelli della marina; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Commissario per l'aeronautica, Ministro ad interim per gli affari della guerra e per quelli della marina; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono estese al personale della Regia aeronautica le disposizioni contenute nel R. viglietto 26 marzo 1833 e nel R. decreto 8 dicembre 1887 e successive modificazioni, relativamente alla concessione delle medaglie d'oro, d'argento e di bronzo al valor militare.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 2 luglio 1925.   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini.   
-  
-Visto, Il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 23 luglio 1925.   
-  
-Atti del Governo, registro 238, foglio 141. - Casati.   
-  
+Sono estese al personale della Regia aeronautica le disposizioni contenute nel R. viglietto 26 marzo 1833 e nel R. decreto 8 dicembre 1887 e successive modificazioni, relativamente alla concessione delle medaglie d'oro, d'argento e di bronzo al valor militare. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 2 luglio 1925. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, Il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 23 luglio 1925. 
+ 
+ Atti del Governo, registro 238, foglio 141. - Casati.

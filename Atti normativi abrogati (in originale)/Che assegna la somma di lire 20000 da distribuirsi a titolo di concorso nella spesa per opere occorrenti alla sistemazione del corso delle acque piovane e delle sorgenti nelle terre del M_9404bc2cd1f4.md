@@ -1,64 +1,43 @@
-REGIO DECRETO 19 aprile 1896 n. CLV
+---
+tipo: REGIO DECRETO
+numero: CLV
+data: 1896-04-19
+titolo: "Che assegna la somma di lire 20,000 da distribuirsi a titolo di concorso nella spesa per opere occorrenti alla sistemazione del corso delle acque piovane e delle sorgenti nelle terre del Montello, in provincia di Treviso. (9600155R)"
+urn: urn:nir:stato:regio.decreto:1896-04-19;155
+codice_redazionale: 9600155R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 19 aprile 1896 n. CLV
-===================================
+E' assegnata una somma di lire 20,000 da distribuirsi a titolo di concorso nella spesa per opere occorrenti alla sistemazione del corso delle acque piovane e delle sorgenti nelle terre del Montello.
 
-Che assegna la somma di lire 20,000 da distribuirsi a titolo di concorso nella spesa per opere occorrenti alla sistemazione del corso delle acque piovane e delle sorgenti nelle terre del Montello, in provincia di Treviso. (9600155R)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 26/05/1896
+La concessione e' fatta a favore dei quotisti e degli acquirenti dei poderi a seconda della importanza dei lavori eseguiti ed in una misura non superiore al trenta per cento del complessivo importo dei lavori medesimi.
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-E' assegnata una somma di lire 20,000 da distribuirsi a titolo di concorso nella spesa per opere occorrenti alla sistemazione del corso delle acque piovane e delle sorgenti nelle terre del Montello.   
-  
+I concorrenti dovranno presentare le domande non piu' tardi del 31 dicembre 1897.
 
-Art. 2
-------
+## Art. 4.
 
-  
-  
-La concessione e' fatta a favore dei quotisti e degli acquirenti dei poderi a seconda della importanza dei lavori eseguiti ed in una misura non superiore al trenta per cento del complessivo importo dei lavori medesimi.   
-  
+I lavori dovranno esser compiuti non piu' tardi del 31 dicembre 1898.
 
-Art. 3
-------
+## Art. 5.
 
-  
-  
-I concorrenti dovranno presentare le domande non piu' tardi del 31 dicembre 1897.   
-  
-
-Art. 4
-------
-
-  
-  
-I lavori dovranno esser compiuti non piu' tardi del 31 dicembre 1898.   
-  
-
-Art. 5
-------
-
-  
-  
-Con decreto ministeriale saranno fissate le norme per la esecuzione del concorso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 aprile 1896.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei canti addi' 5 maggio 1896.   
-  
-Reg. 205. Atti del Governo a f. 136. E. Angelotti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli G. Costa.   
-  
-Guicciardini.   
-  
+Con decreto ministeriale saranno fissate le norme per la esecuzione del concorso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 aprile 1896. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei canti addi' 5 maggio 1896. 
+ 
+ Reg. 205. Atti del Governo a f. 136. E. Angelotti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Costa. 
+ 
+ Guicciardini.

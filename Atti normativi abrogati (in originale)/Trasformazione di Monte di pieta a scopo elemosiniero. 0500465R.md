@@ -1,19 +1,15 @@
-REGIO DECRETO 17 dicembre 1905 n. CCCCLXV
+---
+tipo: REGIO DECRETO
+numero: CCCCLXV
+data: 1905-12-17
+titolo: "Trasformazione di Monte di pieta' a scopo elemosiniero. (0500465R)"
+urn: urn:nir:stato:regio.decreto:1905-12-17;465
+codice_redazionale: 0500465R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 17 dicembre 1905 n. CCCCLXV
-=========================================
-
-Trasformazione di Monte di pieta' a scopo elemosiniero. (0500465R)
-------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/04/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCCCLXV (Dato a Roma, il 17 dicembre 1905), col quale il Monte di pieta' di Otricoli e' stato trasformato in istituto di beneficenza avente per iscopo di prestare soccorso ed assistenza agli ammalati poveri a domicilio.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCCLXV (Dato a Roma, il 17 dicembre 1905), col quale il Monte di pieta' di Otricoli e' stato trasformato in istituto di beneficenza avente per iscopo di prestare soccorso ed assistenza agli ammalati poveri a domicilio.

@@ -1,26 +1,24 @@
-REGIO DECRETO 29 gennaio 1899 n. 141
-
-
-REGIO DECRETO 29 gennaio 1899 n. 141
-====================================
-
-Determinante i limiti di alcune strade nazionali. (099U0141)
-------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/05/1899
+---
+tipo: REGIO DECRETO
+numero: 141
+data: 1899-01-29
+titolo: "Determinante i limiti di alcune strade nazionali. (099U0141)"
+urn: urn:nir:stato:regio.decreto:1899-01-29;141
+codice_redazionale: 099U0141
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Veduta la [legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248) (allegato F) sui Lavori Pubblici;
+Veduta la [legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248) (allegato F) sui Lavori Pubblici;
 
-Veduta la legge comunale e provinciale, testo unico approvato col [Regio decreto 4 maggio 1898, n. 164](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-05-04;164);
+Veduta la legge comunale e provinciale, testo unico approvato col [Regio decreto 4 maggio 1898, n. 164](Che%20approva%20il%20testo%20unico%20della%20legge%20comunale%20e%20provinciale.%20098U0164.md);
 
-Veduto il [Regio decreto 23 marzo 1884, n. 2197](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-03-23;2197), d'approvazione dell'elenco generale delle strade nazionali del Regno;
+Veduto il [Regio decreto 23 marzo 1884, n. 2197](Che%20approva%20lannessovi%20elenco%20generale%20delle%20strade%20nazionali%20del%20Regno.%20084U2197.md), d'approvazione dell'elenco generale delle strade nazionali del Regno;
 
 Ritenuto che in conseguenza dell'apertura all'esercizio delle ferrovie da Sant'Eufemia (biforcazione) a Marcellinara; da Sant'Eufemia a Pizzo e da Catanzaro Sala a Catanzaro Marina, passarono alla provincia di Catanzaro:
 
@@ -52,39 +50,28 @@ Sentito il Consiglio Superiore dei Lavori Pubblici;
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I limiti delle strade nazionali nn. 62, 63 e 64, di cui nell'elenco approvato col [R. decreto 23 marzo 1884, n. 2197](Che%20approva%20lannessovi%20elenco%20generale%20delle%20strade%20nazionali%20del%20Regno.%20084U2197.md), sono stabiliti come segue: 
+ 
+ Nazionale n. 62: dal piazzale della stazione ferroviaria di Cosenza al piazzale della stazione ferroviaria di Marcellinara; dal piazzale della stazione ferroviaria di Francavilla Angitola al ponte sul fiume Angitola; da sopra Pizzo alla Marina omonima con diramazione al piazzale della stazione ferroviaria di Pizzo; dall'innesto del tronco Pizzo-Marina all'innesto con la strada comunale di accesso alla stazione ferroviaria di Rosarno. 
+ 
+ Nazionale n. 63: dall'innesto con la strada nazionale n. 62, presso l'abitato di Soveria Mannelli, al piazzale della stazione ferroviaria di Nicastro. 
+ 
+ Nazionale n. 64: dall'innesto con la strada nazionale n. 62, sotto Tiriolo, al piazzale della stazione ferroviaria di Catanzaro Sala; dalla diramazione per la stazione di Catanzaro Marina al Villaggio Marina di Catanzaro.
 
-  
-  
-I limiti delle strade nazionali nn. 62, 63 e 64, di cui nell'elenco approvato col [R. decreto 23 marzo 1884, n. 2197](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-03-23;2197), sono stabiliti come segue:   
-  
-Nazionale n. 62: dal piazzale della stazione ferroviaria di Cosenza al piazzale della stazione ferroviaria di Marcellinara; dal piazzale della stazione ferroviaria di Francavilla Angitola al ponte sul fiume Angitola; da sopra Pizzo alla Marina omonima con diramazione al piazzale della stazione ferroviaria di Pizzo; dall'innesto del tronco Pizzo-Marina all'innesto con la strada comunale di accesso alla stazione ferroviaria di Rosarno.   
-  
-Nazionale n. 63: dall'innesto con la strada nazionale n. 62, presso l'abitato di Soveria Mannelli, al piazzale della stazione ferroviaria di Nicastro.   
-  
-Nazionale n. 64: dall'innesto con la strada nazionale n. 62, sotto Tiriolo, al piazzale della stazione ferroviaria di Catanzaro Sala; dalla diramazione per la stazione di Catanzaro Marina al Villaggio Marina di Catanzaro.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' cancellato dall'elenco delle strade provinciali di Catanzaro (Calabria Ulteriore Seconda) il tratto della strada provinciale Pizzo-Santa Venere, compreso fra la strada nazionale n. 62, presso il ponticello Vallisdea, e la strada d'accesso alla stazione ferroviaria di Pizzo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 gennaio 1899.   
-  
-UMBERTO.   
-  
-LACAVA.   
-  
-Visto, Il Guardasigilli: C. FINOCCHIARO-APRILE.   
-  
+E' cancellato dall'elenco delle strade provinciali di Catanzaro (Calabria Ulteriore Seconda) il tratto della strada provinciale Pizzo-Santa Venere, compreso fra la strada nazionale n. 62, presso il ponticello Vallisdea, e la strada d'accesso alla stazione ferroviaria di Pizzo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 gennaio 1899. 
+ 
+ UMBERTO. 
+ 
+ LACAVA. 
+ 
+ Visto, Il Guardasigilli: C. FINOCCHIARO-APRILE.

@@ -1,35 +1,25 @@
-LEGGE 31 luglio 1954 n. 608
-
-
-LEGGE 31 luglio 1954 n. 608
-===========================
-
-Abolizione dell'imposta sulle rendite degli enti di manomorta.
---------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 608
+data: 1954-07-31
+titolo: "Abolizione dell'imposta sulle rendite degli enti di manomorta."
+urn: urn:nir:stato:legge:1954-07-31;608
+codice_redazionale: 054U0608
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge:
 
-la seguente legge:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' abolita, con effetto dal 1 gennaio 1954, l'imposta di manomorta prevista dal [regio decreto 30 dicembre 1923, n. 3271](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3271), e successive aggiunte e modificazioni.  
-  
+E' abolita, con effetto dal 1 gennaio 1954, l'imposta di manomorta prevista dal [regio decreto 30 dicembre 1923, n. 3271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3271), e successive aggiunte e modificazioni.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 31 luglio 1954
+Data a Roma, addi' 31 luglio 1954
 
-EINAUDI SCELBA - TREMELLONI - GAVA
-
-Visto, il Guardasigilli: DE PIETRO
+EINAUDI SCELBA - TREMELLONI - GAVA Visto, il Guardasigilli: DE PIETRO

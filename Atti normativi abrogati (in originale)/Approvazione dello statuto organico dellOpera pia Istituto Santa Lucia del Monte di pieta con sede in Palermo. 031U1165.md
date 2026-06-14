@@ -1,19 +1,19 @@
-REGIO DECRETO 07 agosto 1931 n. 1165
+---
+tipo: REGIO DECRETO
+numero: 1165
+data: 1931-08-07
+titolo: "Approvazione dello statuto organico dell'Opera pia «Istituto Santa Lucia del Monte di pieta'» con sede in Palermo. (031U1165)"
+urn: urn:nir:stato:regio.decreto:1931-08-07;1165
+codice_redazionale: 031U1165
+vigente: true
+---
 
-
-REGIO DECRETO 07 agosto 1931 n. 1165
-====================================
-
-Approvazione dello statuto organico dell'Opera pia «Istituto Santa Lucia del Monte di pieta'» con sede in Palermo. (031U1165)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/10/1931
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1165. R. decreto 7 agosto 1931, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno e' approvato lo statuto organico dell'Opera pia «Istituto Santa Lucia del Monte di pieta'» con sede in Palermo.   
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 18 settembre 1931 - Anno IX
+1165.
+
+R. decreto 7 agosto 1931, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno e' approvato lo statuto organico dell'Opera pia «Istituto Santa Lucia del Monte di pieta'» con sede in Palermo. 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 18 settembre 1931 - Anno IX

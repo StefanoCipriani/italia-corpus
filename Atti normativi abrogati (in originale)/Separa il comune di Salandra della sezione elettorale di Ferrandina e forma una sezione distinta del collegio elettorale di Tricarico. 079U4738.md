@@ -1,16 +1,14 @@
-REGIO DECRETO 13 febbraio 1879 n. 4738
-
-
-REGIO DECRETO 13 febbraio 1879 n. 4738
-======================================
-
-Separa il comune di Salandra della sezione elettorale di Ferrandina, e forma una sezione distinta del collegio elettorale di Tricarico. (079U4738)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/03/1879
+---
+tipo: REGIO DECRETO
+numero: 4738
+data: 1879-02-13
+titolo: "Separa il comune di Salandra della sezione elettorale di Ferrandina, e forma una sezione distinta del collegio elettorale di Tricarico. (079U4738)"
+urn: urn:nir:stato:regio.decreto:1879-02-13;4738
+codice_redazionale: 079U4738
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,16 @@ Che Salandra dista da Ferrandina 17 chilometri, e la strada fra i due comuni e' 
 
 Considerato che, istituendo una sezione elettorale in Salandra, si rende piu' facile l'esercizio del diritto elettorale;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Salandra e' separato dalla sezione elettorale di Ferrandina, e formera' una sezione distinta del Collegio di Tricarico.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 febbraio 1879.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
+Il comune di Salandra e' separato dalla sezione elettorale di Ferrandina, e formera' una sezione distinta del Collegio di Tricarico. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 febbraio 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.

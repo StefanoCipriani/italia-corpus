@@ -1,51 +1,47 @@
-REGIO DECRETO-LEGGE 17 giugno 1923 n. 1447
+---
+tipo: REGIO DECRETO-LEGGE
+numero: 1447
+data: 1923-06-17
+titolo: "Storno di fondi nello stato di previsione della spesa del Ministero per le poste e i telegrafi, per l'esercizio finanziario 1922-23. (023U1447)"
+urn: urn:nir:stato:regio.decreto.legge:1923-06-17;1447
+codice_redazionale: 023U1447
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO-LEGGE 17 giugno 1923 n. 1447
-==========================================
-
-Storno di fondi nello stato di previsione della spesa del Ministero per le poste e i telegrafi, per l'esercizio finanziario 1922-23. (023U1447)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/07/1923  
-Regio Decreto-Legge convertito dalla [L. 17 aprile 1925, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473) (in G.U. 05/05/1925, n. 104).
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
-  
-RE D'ITALIA   
-  
-Vista la [legge 30 novembre 1922, n. 1549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1922-11-30;1549);   
-  
-Sentito il Consiglio dei Ministri;   
-  
-Sulla proposta del Nostro Ministro Segretario di Stato per le finanze di concerto con quello per le poste ed i telegrafi;   
-  
-Abbiamo decretato e decretiamo:   
-  
-Nello stato di previsione della spesa del Ministero per le poste ed i telegrafi, per l'esercizio finanziario 1922-23, sono introdotte le seguenti variazioni:   
-  
-In aumento:   
-  
-Cap. n. 63: «Spesa per il servizio di recapito dei telegrammi, ecc.» lire cinquecentomila (L. 500,000).   
-  
-In diminuzione:   
-  
-Cap. n. 3: «Compensi per maggiori prestazioni oltre il normale orario, ecc.» lire cinquecentomila (L. 500,000).   
-  
-Il presente decreto sara' presentato al Parlamento per essere convertito in legge, ed andra' in vigore il giorno stesso della sua pubblicazione sulla Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 17 giugno 1923.   
-  
-VITTORIO EMANUELE.   
-  
-Mussolini - De' Stefani - Colonna Di Cesaro'.   
-  
-Visto, il Guardasigilli: Oviglio.   
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Vista la [legge 30 novembre 1922, n. 1549](Concernente%20la%20proroga%20dellesercizio%20provvisorio%20fino%20a%20quando%20siano%20tradotti%20in%20legge%20degli%20stati%20di%20previsione%20dellentrata%20e%20della%20spesa%20per%20lanno%20finanziario%201922-923%20non%20ancora%20approvati.%20022U1549.md); 
+ 
+ Sentito il Consiglio dei Ministri; 
+ 
+ Sulla proposta del Nostro Ministro Segretario di Stato per le finanze di concerto con quello per le poste ed i telegrafi; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ Nello stato di previsione della spesa del Ministero per le poste ed i telegrafi, per l'esercizio finanziario 1922-23, sono introdotte le seguenti variazioni: 
+ 
+ In aumento: 
+ 
+ Cap. n. 63: «Spesa per il servizio di recapito dei telegrammi, ecc.» lire cinquecentomila (L. 500,000). 
+ 
+ In diminuzione: 
+ 
+ Cap. n. 3: «Compensi per maggiori prestazioni oltre il normale orario, ecc.» lire cinquecentomila (L. 500,000). 
+ 
+ Il presente decreto sara' presentato al Parlamento per essere convertito in legge, ed andra' in vigore il giorno stesso della sua pubblicazione sulla Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 17 giugno 1923. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini - De' Stefani - Colonna Di Cesaro'. 
+ 
+ Visto, il Guardasigilli: Oviglio.

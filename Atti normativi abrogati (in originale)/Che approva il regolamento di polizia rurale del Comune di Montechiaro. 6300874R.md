@@ -1,18 +1,15 @@
-REGIO DECRETO 11 agosto 1863 n. DCCCLXXIV
+---
+tipo: REGIO DECRETO
+numero: DCCCLXXIV
+data: 1863-08-11
+titolo: "Che approva il regolamento di polizia rurale del Comune di Montechiaro. (6300874R)"
+urn: urn:nir:stato:regio.decreto:1863-08-11;874
+codice_redazionale: 6300874R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 agosto 1863 n. DCCCLXXIV
-=========================================
-
-Che approva il regolamento di polizia rurale del Comune di Montechiaro. (6300874R)
-----------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/08/1863
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia rurale del Municipio di Montechiaro, Provincia di Brescia, in data del 19 luglio p.p.   
-  
-Torino 11 agosto 1863.   
+Che approva il regolamento di polizia rurale del Municipio di Montechiaro, Provincia di Brescia, in data del 19 luglio p.p. 
+ 
+ Torino 11 agosto 1863.

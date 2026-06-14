@@ -1,16 +1,14 @@
-REGIO DECRETO 08 ottobre 1876 n. 3387
-
-
-REGIO DECRETO 08 ottobre 1876 n. 3387
-=====================================
-
-Col quale i comuni di Acquanegra sul Chiese e Marina sono separati dalla sezione elettorale di Canneto sull'Oglio e formeranno una sezione distinta del collegio elettorale di Asola, colla sede in Acquanegra. (076U3387)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/10/1876
+---
+tipo: REGIO DECRETO
+numero: 3387
+data: 1876-10-08
+titolo: "Col quale i comuni di Acquanegra sul Chiese e Marina sono separati dalla sezione elettorale di Canneto sull'Oglio e formeranno una sezione distinta del collegio elettorale di Asola, colla sede in Acquanegra. (076U3387)"
+urn: urn:nir:stato:regio.decreto:1876-10-08;3387
+codice_redazionale: 076U3387
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Consiglio dei Ministri;
 
-Sulla
------
+Sulla preposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-preposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Acquanegra sul Chiese e Mariana sono separati dalla sezione elettorale di Canneto sull'Oglio e formeranno una sezione distinta del Collegio elettorale di Asola, colla sede in Acquanegra.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 8 ottobre 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
-  
+I comuni di Acquanegra sul Chiese e Mariana sono separati dalla sezione elettorale di Canneto sull'Oglio e formeranno una sezione distinta del Collegio elettorale di Asola, colla sede in Acquanegra. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 8 ottobre 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

@@ -1,19 +1,15 @@
-REGIO DECRETO 28 aprile 1906 n. CXLIV
+---
+tipo: REGIO DECRETO
+numero: CXLIV
+data: 1906-04-28
+titolo: "Trasformazione di oneri di culto. (0600144R)"
+urn: urn:nir:stato:regio.decreto:1906-04-28;144
+codice_redazionale: 0600144R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 28 aprile 1906 n. CXLIV
-=====================================
-
-Trasformazione di oneri di culto. (0600144R)
---------------------------------------------
-
-Entrata in vigore del provvedimento: 19/06/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CXLIV (Dato a Roma, il 28 aprile 1906), col quale si provvedo alla trasformazione degli oneri di culto gravanti l'Istituto «Pubblica Beneficenza» di Russi (Ravenna), per destinarne le rendite al mantenimento degli ammalati cronici e poveri.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CXLIV (Dato a Roma, il 28 aprile 1906), col quale si provvedo alla trasformazione degli oneri di culto gravanti l'Istituto «Pubblica Beneficenza» di Russi (Ravenna), per destinarne le rendite al mantenimento degli ammalati cronici e poveri.

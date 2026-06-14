@@ -1,16 +1,14 @@
-REGIO DECRETO 01 giugno 1879 n. 4917
-
-
-REGIO DECRETO 01 giugno 1879 n. 4917
-====================================
-
-Concernente la classificazione di dieci linee nell'elenco delle strade provinciali della provincia di Pavia. (079U4917)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/07/1879
+---
+tipo: REGIO DECRETO
+numero: 4917
+data: 1879-06-01
+titolo: "Concernente la classificazione di dieci linee nell'elenco delle strade provinciali della provincia di Pavia. (079U4917)"
+urn: urn:nir:stato:regio.decreto:1879-06-01;4917
+codice_redazionale: 079U4917
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -42,7 +40,7 @@ Cristina;
 
 Veduto il sopracitato Regio decreto 15 settembre 1866;
 
-Veduti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della legge 20 marzo 1865, numero 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato F;
+Veduti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [14 della legge 20 marzo 1865, numero 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), allegato F;
 
 Considerando:
 
@@ -52,31 +50,16 @@ Che la pubblicazione delle sopradette deliberazioni non ha dato luogo ad alcun r
 
 Udito l'avviso del Consiglio superiore dei lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono aggiunte all'elenco delle strade provinciali della provincia di Pavia le dieci linee descritte nel quadro, che, visto d'ordine Nostro dal predetto Ministro, stara' unito al presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 1° giugno 1879.   
-  
-UMBERTO.   
-  
-R. Mezzanotte.   
-  
-
-Quadro
-
-  
-QUADRO delle strade che si aggiungono all'elenco delle provinciali di Pavia.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=079U491700100010110001&dgu=1879-06-23&art.dataPubblicazioneGazzetta=1879-06-23&art.codiceRedazionale=079U4917)
-  
+Sono aggiunte all'elenco delle strade provinciali della provincia di Pavia le dieci linee descritte nel quadro, che, visto d'ordine Nostro dal predetto Ministro, stara' unito al presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° giugno 1879. 
+ 
+ UMBERTO. 
+ 
+ R. Mezzanotte.

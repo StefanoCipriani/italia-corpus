@@ -1,16 +1,14 @@
-REGIO DECRETO 07 aprile 1941 n. 400
-
-
-REGIO DECRETO 07 aprile 1941 n. 400
-===================================
-
-Prelevamento dal fondo di riserva per impreviste e maggiori spese nello stato di previsione della spesa dell'Azienda autonoma statale della strada per l'esercizio finanziario 1940-41. (041U0400)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/06/1941
+---
+tipo: REGIO DECRETO
+numero: 400
+data: 1941-04-07
+titolo: "Prelevamento dal fondo di riserva per impreviste e maggiori spese nello stato di previsione della spesa dell'Azienda autonoma statale della strada per l'esercizio finanziario 1940-41. (041U0400)"
+urn: urn:nir:stato:regio.decreto:1941-04-07;400
+codice_redazionale: 041U0400
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,46 +26,38 @@ Sentito il Consiglio di amministrazione dell'Azienda autonoma statale della stra
 
 Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con quello per le finanze;
 
-Vista
------
+Vista la delega rilasciata al Sottosegretario di Stato del Ministero dei lavori pubblici; Abbiamo decretato e decretiamo:
 
-la delega rilasciata al Sottosegretario di Stato del Ministero dei lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal fondo di riserva per impreviste e maggiori spese di personale e di carattere generale, inscritto al capitolo 35 dello stato di previsione della spesa dell'Azienda autonoma statale della strada, per l'esercizio 1940-41-XIX e' autorizzato il prelevamento di L. 400.000 che vengono assegnate ai seguenti capitoli dello stato di previsione stesso:   
-  
-Cap. 6. - Premio di operosita' e rendimento agli impiegati ed agenti dell'Azienda ed ai funzionari dello Stato non dipendenti da essa L. 125.000   
-  
-Cap. 18. - Manutenzione e riparazione di locali - Riparazione, manutenzione e trasporto di mobili e di strumenti geodetici - Spese di cancelleria e di stampa - Spese postali, telegrafiche e telefoniche, illuminazione e riscaldamento ed altre varie relative al funzionamento degli uffici » 100.000   
-  
-Cap. n. 22. - Imposte, sovrimposte, contributi consortili ed altri oneri gravanti sugli immobili di proprieta' dell'Amministrazione, ecc. » 150.000   
-  
-Cap. n. 28. - Spese casuali » 25.000   
-  
-L. 400.000   
-  
-Questo decreto sara' comunicato alle Assemblee legislative, unitamente al conto consuntivo dell'Azienda autonoma statale della strada, per l'esercizio 1940-41-XIX.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 aprile 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-CALLETTI - DI REVEL   
-  
-Visto:   
-  
-(ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76)   
-  
-MUSSOLINI   
-  
-Registrato alla Corte dei conti, addi' 24 maggio 1941-XIX   
-  
-Atti del Governo, registro 433, foglio 105. - MANCINI   
-  
-  
+Dal fondo di riserva per impreviste e maggiori spese di personale e di carattere generale, inscritto al capitolo 35 dello stato di previsione della spesa dell'Azienda autonoma statale della strada, per l'esercizio 1940-41-XIX e' autorizzato il prelevamento di L. 400.000 che vengono assegnate ai seguenti capitoli dello stato di previsione stesso: 
+ 
+ Cap. 6. - Premio di operosita' e rendimento agli impiegati ed agenti dell'Azienda ed ai funzionari dello Stato non dipendenti da essa L. 125.000 
+ 
+ Cap. 18. - Manutenzione e riparazione di locali - Riparazione, manutenzione e trasporto di mobili e di strumenti geodetici - Spese di cancelleria e di stampa - Spese postali, telegrafiche e telefoniche, illuminazione e riscaldamento ed altre varie relative al funzionamento degli uffici » 100.000 
+ 
+ Cap. n. 22. - Imposte, sovrimposte, contributi consortili ed altri oneri gravanti sugli immobili di proprieta' dell'Amministrazione, ecc. » 150.000 
+ 
+ Cap. n. 28. - Spese casuali » 25.000 
+ 
+ L. 400.000 
+ 
+ Questo decreto sara' comunicato alle Assemblee legislative, unitamente al conto consuntivo dell'Azienda autonoma statale della strada, per l'esercizio 1940-41-XIX. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 aprile 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ CALLETTI - DI REVEL 
+ 
+ Visto: 
+ 
+ (ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76) 
+ 
+ MUSSOLINI 
+ 
+ Registrato alla Corte dei conti, addi' 24 maggio 1941-XIX 
+ 
+ Atti del Governo, registro 433, foglio 105. - MANCINI

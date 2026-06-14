@@ -1,16 +1,14 @@
-REGIO DECRETO 28 luglio 1872 n. 946
-
-
-REGIO DECRETO 28 luglio 1872 n. 946
-===================================
-
-Relativo ad un ricorso del Municipio di Napoli in materia di dazio di consumo. (072U0946)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/09/1872
+---
+tipo: REGIO DECRETO
+numero: 946
+data: 1872-07-28
+titolo: "Relativo ad un ricorso del Municipio di Napoli in materia di dazio di consumo. (072U0946)"
+urn: urn:nir:stato:regio.decreto:1872-07-28;946
+codice_redazionale: 072U0946
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,27 +24,20 @@ Visto l'art. 143 della legge comunale 20 marzo 1865, n. 2248;
 
 Sentito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo quanto segue:
 
-proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il preaccennato ricorso del Municipio di Napoli e' accolto in quanto concerne il dazio di consumo sui mobili nuovi, sia di lusso, sia ordinari. Tale dazio potra' riscuotersi nella forma e misura adottata dal Consiglio comunale colla citata deliberazione; salvo il diritto nel contribuente a farlo ridurre entro il limite legale, qualora rispetto a qualche partita di mobili da introdursi il dazio superasse quel limite.   
-  
-Lo stesso ricorso e' respinto rispetto al dazio sui vari metalli in pani e masse grezze, pel quale resta confermato il decreto della Deputazione provinciale che vi negava il suo assenso.   
-  
-Pel dazio poi sui vasellami e lavori di creta, sui pianoforti e sulle carrozze, il Municipio dovra' conformarsi anzi tratto al procedimento prescritto dall'art. 11 dell'allegato L alla [legge 11 agosto 1870, n. 5784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784).   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, addi' 28 luglio 1872.   
-  
-VITTORIO EMANUELE.   
-  
-Quintino Sella.   
-  
+Il preaccennato ricorso del Municipio di Napoli e' accolto in quanto concerne il dazio di consumo sui mobili nuovi, sia di lusso, sia ordinari. Tale dazio potra' riscuotersi nella forma e misura adottata dal Consiglio comunale colla citata deliberazione; salvo il diritto nel contribuente a farlo ridurre entro il limite legale, qualora rispetto a qualche partita di mobili da introdursi il dazio superasse quel limite. 
+ 
+ Lo stesso ricorso e' respinto rispetto al dazio sui vari metalli in pani e masse grezze, pel quale resta confermato il decreto della Deputazione provinciale che vi negava il suo assenso. 
+ 
+ Pel dazio poi sui vasellami e lavori di creta, sui pianoforti e sulle carrozze, il Municipio dovra' conformarsi anzi tratto al procedimento prescritto dall'art. 11 dell'allegato L alla [legge 11 agosto 1870, n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md). 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, addi' 28 luglio 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Quintino Sella.

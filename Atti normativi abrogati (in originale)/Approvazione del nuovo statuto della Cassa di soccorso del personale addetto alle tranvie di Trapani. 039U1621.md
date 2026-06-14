@@ -1,21 +1,21 @@
-REGIO DECRETO 07 settembre 1939 n. 1621
+---
+tipo: REGIO DECRETO
+numero: 1621
+data: 1939-09-07
+titolo: "Approvazione del nuovo statuto della Cassa di soccorso del personale addetto alle tranvie di Trapani. (039U1621)"
+urn: urn:nir:stato:regio.decreto:1939-09-07;1621
+codice_redazionale: 039U1621
+vigente: true
+---
 
-
-REGIO DECRETO 07 settembre 1939 n. 1621
-=======================================
-
-Approvazione del nuovo statuto della Cassa di soccorso del personale addetto alle tranvie di Trapani. (039U1621)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/11/1939
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1621. R. decreto 7 settembre 1939, col quale, sulla proposta del Ministro per le corporazioni, viene approvato il nuovo statuto della Cassa di soccorso del personale addetto alle tranvie di Trapani.   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 25 ottobre 1939-XVII
+1621.
+
+R. decreto 7 settembre 1939, col quale, sulla proposta del Ministro per le corporazioni, viene approvato il nuovo statuto della Cassa di soccorso del personale addetto alle tranvie di Trapani. 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 25 ottobre 1939-XVII

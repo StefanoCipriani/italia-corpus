@@ -1,16 +1,14 @@
-REGIO DECRETO 25 settembre 1891 n. 582
-
-
-REGIO DECRETO 25 settembre 1891 n. 582
-======================================
-
-Che stabilisce la retribuzione da corrispondersi alle Amministrazioni degli ospedali della R. Marina, dagli ufficiali, dagli impiegati civili e dai borghesi, nonche' la retta pei militari di bassa forza in essi ricoverati. (091U0582)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/11/1891
+---
+tipo: REGIO DECRETO
+numero: 582
+data: 1891-09-25
+titolo: "Che stabilisce la retribuzione da corrispondersi alle Amministrazioni degli ospedali della R. Marina, dagli ufficiali, dagli impiegati civili e dai borghesi, nonche' la retta pei militari di bassa forza in essi ricoverati. (091U0582)"
+urn: urn:nir:stato:regio.decreto:1891-09-25;582
+codice_redazionale: 091U0582
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,80 +20,57 @@ Visto il R. decreto 17 agosto 1882 che stabilisce le rette da corrispondersi dai
 
 Sentito il parere del Consiglio superiore di Marina;
 
-Sulla
------
+Sulla proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La retribuzione che gli ufficiali in effettivo servizio, in disponibilita' ed in aspettativa, ammessi a cura negli ospedali della R. Marina dovranno corrispondere alle Amministrazioni degli ospedali medesimi, e' stabilita, per ogni giornata, nelle proporzioni seguenti: 
+ 
+ Ufficiale ammiraglio . . . . . . . . lire 8,00 al giorno 
+ Ufficiale superiore . . . . . . . . » 5,00 id. 
+ Tenente di vascello o capitano . . . » 3,50 id. 
+ Ufficiale subalterno . . . . . . . . » 2,50 id.
 
-  
-  
-La retribuzione che gli ufficiali in effettivo servizio, in disponibilita' ed in aspettativa, ammessi a cura negli ospedali della R. Marina dovranno corrispondere alle Amministrazioni degli ospedali medesimi, e' stabilita, per ogni giornata, nelle proporzioni seguenti:   
-  
-Ufficiale ammiraglio . . . . . . . . lire 8,00 al giorno   
-Ufficiale superiore . . . . . . . . » 5,00 id.   
-Tenente di vascello o capitano . . . » 3,50 id.   
-Ufficiale subalterno . . . . . . . . » 2,50 id.   
-  
+## Art. 2.
 
-Art. 2
-------
+Gli ufficiali ammalati a bordo non perderanno ne' il trattamento tavola, ne' la razione viveri; essi figureranno come presenti nell'ospedale per la sola somministrazione di medicinali, il cui costo andra' a loro carico.
 
-  
-  
-Gli ufficiali ammalati a bordo non perderanno ne' il trattamento tavola, ne' la razione viveri; essi figureranno come presenti nell'ospedale per la sola somministrazione di medicinali, il cui costo andra' a loro carico.   
-  
+## Art. 3.
 
-Art. 3
-------
+La retribuzione da corrispondersi dagli impiegati civili ammessi a cura negli ospedali della R. Marina, e' stabilita nelle seguenti proporzioni: 
+ 
+ Impiegato con stipendio superiore a L. 7000 . . . L. 8,00 al giorno 
+ Id. di L. 4500 a » 7000 . . . » 5,00 id. 
+ Id. di » 3500 a » 4000 . . . » 3,50 id. 
+ Id. di » 2000 a » 3000 . . . » 3,00 id. 
+ Id. inferiore a » 2000 . . . » 2,00 id. 
+ Uscieri e simili corrisponderanno 
+ la retribuzione di . . . . . . . . . . . . . . » 1,60 id.
 
-  
-  
-La retribuzione da corrispondersi dagli impiegati civili ammessi a cura negli ospedali della R. Marina, e' stabilita nelle seguenti proporzioni:   
-  
-Impiegato con stipendio superiore a L. 7000 . . . L. 8,00 al giorno   
-Id. di L. 4500 a » 7000 . . . » 5,00 id.   
-Id. di » 3500 a » 4000 . . . » 3,50 id.   
-Id. di » 2000 a » 3000 . . . » 3,00 id.   
-Id. inferiore a » 2000 . . . » 2,00 id.   
-Uscieri e simili corrisponderanno   
-la retribuzione di . . . . . . . . . . . . . . » 1,60 id.   
-  
+## Art. 4.
 
-Art. 4
-------
+I borghesi accolti di urgenza negli ospedali della R. Marina corrisponderanno le seguenti rette: 
+ 
+ a) se indigenti L. 1,60 al giorno a carico dei Municipii; 
+ 
+ b) se persone agiate da L. 5,00 a L. 8,00, secondo il trattamento.
 
-  
-  
-I borghesi accolti di urgenza negli ospedali della R. Marina corrisponderanno le seguenti rette:   
-  
-a) se indigenti L. 1,60 al giorno a carico dei Municipii;   
-  
-b) se persone agiate da L. 5,00 a L. 8,00, secondo il trattamento.   
+## Art. 5.
 
-Art. 5
-------
+La retta da corrispondersi alle Direzioni degli ospedali dipartimentali militari marittimi per i militari di bassa forza dei Corpi della R. Marina, ricoverati negli ospedali marittimi di terra ed in quelli secondarii di bordo e' fissata indistintamente per ogni giornata di cura in L. 1,60.
 
-  
-  
-La retta da corrispondersi alle Direzioni degli ospedali dipartimentali militari marittimi per i militari di bassa forza dei Corpi della R. Marina, ricoverati negli ospedali marittimi di terra ed in quelli secondarii di bordo e' fissata indistintamente per ogni giornata di cura in L. 1,60.   
-
-Art. 6
-------
+## Art. 6.
 
 Il presente decreto andra' in vigore dal primo novembre
 
-1891. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 25 settembre 1891.   
-  
-UMBERTO.   
-  
-S. De Saint Bon.   
-  
-Visto, Il Guardasigilli: L. Ferraris.
+1891.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 25 settembre 1891. 
+ 
+ UMBERTO. 
+ 
+ S. De Saint Bon. 
+ 
+ Visto, Il Guardasigilli: L. Ferraris.

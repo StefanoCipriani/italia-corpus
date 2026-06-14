@@ -1,16 +1,14 @@
-REGIO DECRETO 13 settembre 1863 n. 1474
-
-
-REGIO DECRETO 13 settembre 1863 n. 1474
-=======================================
-
-Col quale sono demandate ai Procuratori Generali del Re presso le Corti d'Appello delle Romagne, delle Marche e dell'Umbria, le attribuzioni dapprima esercitate dai Prefetti. (063U1474)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/10/1863
+---
+tipo: REGIO DECRETO
+numero: 1474
+data: 1863-09-13
+titolo: "Col quale sono demandate ai Procuratori Generali del Re presso le Corti d'Appello delle Romagne, delle Marche e dell'Umbria, le attribuzioni dapprima esercitate dai Prefetti. (063U1474)"
+urn: urn:nir:stato:regio.decreto:1863-09-13;1474
+codice_redazionale: 063U1474
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,27 +20,20 @@ Ritenuto che, per effetto dei Reali Decreti 5 marzo e 26 luglio 1863, nn. 1169 e
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposizione del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Guardasigilli, Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le attribuzioni commesse ai Prefetti delle Provincie delle Romagne, delle Marche e dell'Umbria dall'articolo 1 del Regio Decreto 9 maggio 1861, n.° 22, saranno quind'innanzi esercitate dai Procuratori Generali del Re presso le Corti d'Appello delle Provincie stesse, entro i limiti determinati dallo articolo sovraccennato.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 13 settembre 1863.   
-  
-VITTORIO EMANUELE.   
-  
-Registrato alla Corte dei conti addi' 27 settembre 1863   
-Reg° 25 Atti del Governo a c. 157. Ayres.   
-Luogo del Sigillo. V. Il Guardasigilli: G. PISANELLI.   
-  
-G. PISANELLI.   
-  
+Le attribuzioni commesse ai Prefetti delle Provincie delle Romagne, delle Marche e dell'Umbria dall'articolo 1 del Regio Decreto 9 maggio 1861, n.° 22, saranno quind'innanzi esercitate dai Procuratori Generali del Re presso le Corti d'Appello delle Provincie stesse, entro i limiti determinati dallo articolo sovraccennato. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 13 settembre 1863. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 27 settembre 1863 
+ Reg° 25 Atti del Governo a c. 157. Ayres. 
+ Luogo del Sigillo. V. Il Guardasigilli: G. PISANELLI. 
+ 
+ G. PISANELLI.

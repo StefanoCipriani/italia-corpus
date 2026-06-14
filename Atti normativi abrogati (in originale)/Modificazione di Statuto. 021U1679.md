@@ -1,17 +1,17 @@
-REGIO DECRETO 08 novembre 1921 n. 1679
+---
+tipo: REGIO DECRETO
+numero: 1679
+data: 1921-11-08
+titolo: "Modificazione di Statuto. (021U1679)"
+urn: urn:nir:stato:regio.decreto:1921-11-08;1679
+codice_redazionale: 021U1679
+vigente: true
+---
 
-
-REGIO DECRETO 08 novembre 1921 n. 1679
-======================================
-
-Modificazione di Statuto. (021U1679)
-------------------------------------
-
-Entrata in vigore del provvedimento: 30/12/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1679. Regio decreto 8 novembre 1921, col quale, sulla proposta del ministro dell'industria e il commercio, sono apportate modificazioni allo statuto organico della Cassa di risparmio di San Clemente (Forli').
+1679.
+
+Regio decreto 8 novembre 1921, col quale, sulla proposta del ministro dell'industria e il commercio, sono apportate modificazioni allo statuto organico della Cassa di risparmio di San Clemente (Forli').

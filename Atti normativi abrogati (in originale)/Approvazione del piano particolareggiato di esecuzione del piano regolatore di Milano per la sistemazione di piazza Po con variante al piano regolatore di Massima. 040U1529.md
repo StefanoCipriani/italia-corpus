@@ -1,16 +1,14 @@
-REGIO DECRETO 04 settembre 1940 n. 1529
-
-
-REGIO DECRETO 04 settembre 1940 n. 1529
-=======================================
-
-Approvazione del piano particolareggiato di esecuzione del piano regolatore di Milano per la sistemazione di piazza Po, con variante al piano regolatore di Massima. (040U1529)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/11/1940
+---
+tipo: REGIO DECRETO
+numero: 1529
+data: 1940-09-04
+titolo: "Approvazione del piano particolareggiato di esecuzione del piano regolatore di Milano per la sistemazione di piazza Po, con variante al piano regolatore di Massima. (040U1529)"
+urn: urn:nir:stato:regio.decreto:1940-09-04;1529
+codice_redazionale: 040U1529
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -38,40 +36,34 @@ Considerata l'opportunita', in accoglimento del voto del Consiglio superiore dei
 
 Visti i pareri n. 792 del 28 maggio 1938-XVI, n. 2614 del 28 dicembre 1938-XVII, e n. 1696 del 28 luglio 1939-XVII, del Consiglio superiore dei lavori pubblici;
 
-Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);
+Vista la [legge 25 giugno 1865, n. 2359](Sulle%20espropriazioni%20per%20causa%20di%20utilita%20pubblica.%20065U2359.md);
 
 Visto l'art. 4 del R. decreto-legge 21 giugno 1938-XVI, n. 1094, convertito nella legge 5 gennaio 1939-XVII, n. 35;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro segretario di Stato per i lavori pubblici, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro segretario di Stato per i lavori pubblici, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Ai sensi e per gli effetti della citata legge 19 febbraio 1934-XII, n. 433, e successive modificazioni, e' approvato il piano particolareggiato di esecuzione del piano regolatore di Milano per la sistemazione di piazza Po, con variante al piano regolatore di massima.   
-  
-Detto piano, vistato d'ordine Nostro dal Ministro proponente in una planimetria in scala 1:2000 ed in un elenco descrittivo dei beni da espropriare e soggetti a contributo, documenti in data 23 dicembre 1939-XVIII ed a firma dell'ingegnere Bonicatti, sara' depositato all'Archivio di Stato.   
-  
-E' assegnato al comune di Milano il termine di anni cinque dalla data del presente decreto per compiere tanto le espropriazioni quanto i lavori occorrenti per la esecuzione del piano.   
-  
-Tutte le costruzioni e ricostruzioni eseguite sia dai privati che dal Comune o suoi concessionari per l'attuazione del presente piano particolareggiato, saranno esenti per venticinque anni dalla normale imposta sui fabbricati e dalle relative sovrimposte, comunale e provinciale.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 4 settembre 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - SERENA - DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 13 novembre 1940-XIX   
-  
-Atti del Governo, registro 427, foglio n. 22. - MANCINI   
+Ai sensi e per gli effetti della citata legge 19 febbraio 1934-XII, n. 433, e successive modificazioni, e' approvato il piano particolareggiato di esecuzione del piano regolatore di Milano per la sistemazione di piazza Po, con variante al piano regolatore di massima. 
+ 
+ Detto piano, vistato d'ordine Nostro dal Ministro proponente in una planimetria in scala 1:2000 ed in un elenco descrittivo dei beni da espropriare e soggetti a contributo, documenti in data 23 dicembre 1939-XVIII ed a firma dell'ingegnere Bonicatti, sara' depositato all'Archivio di Stato. 
+ 
+ E' assegnato al comune di Milano il termine di anni cinque dalla data del presente decreto per compiere tanto le espropriazioni quanto i lavori occorrenti per la esecuzione del piano. 
+ 
+ Tutte le costruzioni e ricostruzioni eseguite sia dai privati che dal Comune o suoi concessionari per l'attuazione del presente piano particolareggiato, saranno esenti per venticinque anni dalla normale imposta sui fabbricati e dalle relative sovrimposte, comunale e provinciale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 4 settembre 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - SERENA - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 13 novembre 1940-XIX 
+ 
+ Atti del Governo, registro 427, foglio n. 22. - MANCINI

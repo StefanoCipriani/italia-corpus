@@ -1,16 +1,14 @@
-REGIO DECRETO 19 dicembre 1875 n. 2857
-
-
-REGIO DECRETO 19 dicembre 1875 n. 2857
-======================================
-
-Col quale il comune di Savigno e' distaccato dalla sezione secondaria del 1° collegio elettorale di Bologna, n.65, detta di Bazzano, e costituito in sezione separata del collegio medesimo (075U2857)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/01/1876
+---
+tipo: REGIO DECRETO
+numero: 2857
+data: 1875-12-19
+titolo: "Col quale il comune di Savigno e' distaccato dalla sezione secondaria del 1° collegio elettorale di Bologna, n.65, detta di Bazzano, e costituito in sezione separata del collegio medesimo (075U2857)"
+urn: urn:nir:stato:regio.decreto:1875-12-19;2857
+codice_redazionale: 075U2857
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Savigno e' distaccato dalla sezione secondaria del 1° Collegio elettorale di Bologna n. 65, detta di Bazzano, e costituito in sezione separata del Collegio medesimo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo delle Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 19 dicembre 1875.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli.   
-  
+Il comune di Savigno e' distaccato dalla sezione secondaria del 1° Collegio elettorale di Bologna n. 65, detta di Bazzano, e costituito in sezione separata del Collegio medesimo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo delle Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 dicembre 1875. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli.

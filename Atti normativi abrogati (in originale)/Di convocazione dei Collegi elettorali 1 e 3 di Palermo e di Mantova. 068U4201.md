@@ -1,16 +1,14 @@
-REGIO DECRETO 16 gennaio 1868 n. 4201
-
-
-REGIO DECRETO 16 gennaio 1868 n. 4201
-=====================================
-
-Di convocazione dei Collegi elettorali 1° e 3° di Palermo, e di Mantova. (068U4201)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/01/1868
+---
+tipo: REGIO DECRETO
+numero: 4201
+data: 1868-01-16
+titolo: "Di convocazione dei Collegi elettorali 1° e 3° di Palermo, e di Mantova. (068U4201)"
+urn: urn:nir:stato:regio.decreto:1868-01-16;4201
+codice_redazionale: 068U4201
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,31 +18,24 @@ Veduto il Messaggio in data del 13 gennaio corrente, col quale l'Ufficio di Pres
 
 Veduto l'articolo 63 della Legge per le elezioni politiche 17 dicembre 1860, n. 4513;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Collegi elettorali 1° di Palermo, n. 296, 3° di Palermo, n. 298, e di Mantova, n. 447, sono convocati pel giorno 26 gennaio corrente, affinche' procedano alla elezione del proprio Deputato.   
-  
-Occorrendo una seconda votazione, essa avra' luogo il giorno 2 del prossimo venturo mese di febbraio.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 16 gennaio 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 18 gennaio 1868   
-  
-Reg. 42 Atti del Governo a c. 12. Crodara Visconti.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-C. Cadorna.   
-  
+I Collegi elettorali 1° di Palermo, n. 296, 3° di Palermo, n. 298, e di Mantova, n. 447, sono convocati pel giorno 26 gennaio corrente, affinche' procedano alla elezione del proprio Deputato. 
+ 
+ Occorrendo una seconda votazione, essa avra' luogo il giorno 2 del prossimo venturo mese di febbraio. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 16 gennaio 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 18 gennaio 1868 
+ 
+ Reg. 42 Atti del Governo a c. 12. Crodara Visconti. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ C. Cadorna.

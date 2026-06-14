@@ -1,16 +1,14 @@
-REGIO DECRETO 23 dicembre 1937 n. 2621
-
-
-REGIO DECRETO 23 dicembre 1937 n. 2621
-======================================
-
-Estensione alla Libia del R. decreto-legge 4 febbraio 1937-XV, n. 463, contenente modificazioni al R. decreto-legge 4 ottobre 1935-XIII, n. 1827, sul perfezionamento e coordinamento legislativo della previdenza sociale. (037U2621)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/03/1938
+---
+tipo: REGIO DECRETO
+numero: 2621
+data: 1937-12-23
+titolo: "Estensione alla Libia del R. decreto-legge 4 febbraio 1937-XV, n. 463, contenente modificazioni al R. decreto-legge 4 ottobre 1935-XIII, n. 1827, sul perfezionamento e coordinamento legislativo della previdenza sociale. (037U2621)"
+urn: urn:nir:stato:regio.decreto:1937-12-23;2621
+codice_redazionale: 037U2621
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,37 +26,26 @@ Udito il parere del Consiglio superiore coloniale;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per l'Africa Italiana, di concerto con i Ministri Segretari di Stato per le finanze e per le corporazioni; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per l'Africa Italiana, di concerto con i Ministri Segretari di Stato per le finanze e per le corporazioni; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono estesi alla Libia, limitatamente ai cittadini italiani metropolitani e ai cittadini stranieri, gli articoli 1 e 2 del R. decreto-legge 4 febbraio 1937-XV, n. 463.
 
-  
-  
-Sono estesi alla Libia, limitatamente ai cittadini italiani metropolitani e ai cittadini stranieri, gli articoli 1 e 2 del R. decreto-legge 4 febbraio 1937-XV, n. 463.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto si applica anche al territorio militare del Sud ed entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserito nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 dicembre 1937 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel - Lantini.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 2 marzo 1938 - Anno XVI   
-  
-Atti del Governo, registro 395, foglio 5. - Mancini.   
-  
-  
+Il presente decreto si applica anche al territorio militare del Sud ed entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserito nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 dicembre 1937 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel - Lantini. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 2 marzo 1938 - Anno XVI 
+ 
+ Atti del Governo, registro 395, foglio 5. - Mancini.

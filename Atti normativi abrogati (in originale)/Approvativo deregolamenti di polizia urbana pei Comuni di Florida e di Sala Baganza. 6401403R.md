@@ -1,23 +1,19 @@
-REGIO DECRETO 05 ottobre 1864 n. MCCCCIII
+---
+tipo: REGIO DECRETO
+numero: MCCCCIII
+data: 1864-10-05
+titolo: "Approvativo de'regolamenti di polizia urbana pei Comuni di Florida e di Sala Baganza. (6401403R)"
+urn: urn:nir:stato:regio.decreto:1864-10-05;1403
+codice_redazionale: 6401403R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 ottobre 1864 n. MCCCCIII
-=========================================
-
-Approvativo de'regolamenti di polizia urbana pei Comuni di Florida e di Sala Baganza. (6401403R)
-------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/10/1864
-
-Art. 1
-------
-
-  
-Con cui vengono approvati:   
-  
-1.° Il regolamento di polizia urbana deliberato dal Consiglio Comunale di Sala Baganza (Parma).   
-  
-2.° Il regolamento di polizia urbana deliberato dal Consiglio Comunale di Florida (Noto) in seduta delli 31 luglio scorso.   
-  
-Torino 5 ottobre 1864   
-  
+Con cui vengono approvati: 
+ 
+ 1.° Il regolamento di polizia urbana deliberato dal Consiglio Comunale di Sala Baganza (Parma). 
+ 
+ 2.° Il regolamento di polizia urbana deliberato dal Consiglio Comunale di Florida (Noto) in seduta delli 31 luglio scorso. 
+ 
+ Torino 5 ottobre 1864

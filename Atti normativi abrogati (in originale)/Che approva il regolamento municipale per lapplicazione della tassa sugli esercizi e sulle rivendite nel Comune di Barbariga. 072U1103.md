@@ -1,22 +1,20 @@
-REGIO DECRETO 21 novembre 1872 n. 1103
-
-
-REGIO DECRETO 21 novembre 1872 n. 1103
-======================================
-
-Che approva il regolamento municipale per l'applicazione della tassa sugli esercizi e sulle rivendite nel Comune di Barbariga. (072U1103)
------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/12/1872
+---
+tipo: REGIO DECRETO
+numero: 1103
+data: 1872-11-21
+titolo: "Che approva il regolamento municipale per l'applicazione della tassa sugli esercizi e sulle rivendite nel Comune di Barbariga. (072U1103)"
+urn: urn:nir:stato:regio.decreto:1872-11-21;1103
+codice_redazionale: 072U1103
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Visto l'[articolo 1 della legge 11 agosto 1870, n. 5784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784~art1) (Allegato O),
+Visto l'[articolo 1 della legge 11 agosto 1870, n. 5784](Portante%20lapprovazione%20di%20provvedimenti%20finanziarii.%20070U5784.md) (Allegato O),
 
 Visto il regolamento per la esecuzione dell'articolo 12 di detta legge, approvato con Nostro decreto 24 dicembre 1870, n. 6137;
 
@@ -30,23 +28,14 @@ Visto il ricorso stesso;
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+## Articolo unico. — null
 
-Articolo unico
---------------
-
-null
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Napoli, addi' 21 novembre 1872.   
-  
-VITTORIO EMANUELE.   
-  
-Quintino Sella.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Napoli, addi' 21 novembre 1872. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Quintino Sella.

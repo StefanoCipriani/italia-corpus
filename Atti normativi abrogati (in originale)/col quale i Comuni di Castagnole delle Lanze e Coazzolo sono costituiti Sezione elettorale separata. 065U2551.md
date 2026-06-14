@@ -1,16 +1,14 @@
-REGIO DECRETO 19 ottobre 1865 n. 2551
-
-
-REGIO DECRETO 19 ottobre 1865 n. 2551
-=====================================
-
-col quale i Comuni di Castagnole delle Lanze e Coazzolo sono costituiti Sezione elettorale separata. (065U2551)
----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/11/1865
+---
+tipo: REGIO DECRETO
+numero: 2551
+data: 1865-10-19
+titolo: "col quale i Comuni di Castagnole delle Lanze e Coazzolo sono costituiti Sezione elettorale separata. (065U2551)"
+urn: urn:nir:stato:regio.decreto:1865-10-19;2551
+codice_redazionale: 065U2551
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,30 +20,22 @@ Vedute le istanze del Comune di Castagnole delle Lanze (Provincia di Alessandria
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I Comuni di Castagnole delle Lanze e Coazzolo, che fin qui fecero parte della Sezione del Collegio elettorale di Nizza Monferrato, n.° 25, data di Costigliole d'Asti, costituiranno d'ora in poi una Sezione separata del Collegio medesimo, che si radunera' in Castagnole delle Lanze.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze, addi' 19 ottobre 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 23 ottobre 1863   
-  
-Reg.° 34 Atti del Governo a c. 21. Crodara-Visconti.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Cortese.   
-  
-Natoli.   
-  
-  
+I Comuni di Castagnole delle Lanze e Coazzolo, che fin qui fecero parte della Sezione del Collegio elettorale di Nizza Monferrato, n.° 25, data di Costigliole d'Asti, costituiranno d'ora in poi una Sezione separata del Collegio medesimo, che si radunera' in Castagnole delle Lanze. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 19 ottobre 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 23 ottobre 1863 
+ 
+ Reg.° 34 Atti del Governo a c. 21. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Cortese. 
+ 
+ Natoli.

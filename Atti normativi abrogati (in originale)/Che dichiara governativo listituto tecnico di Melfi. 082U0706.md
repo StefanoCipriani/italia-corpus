@@ -1,16 +1,14 @@
-REGIO DECRETO 02 aprile 1882 n. 706
-
-
-REGIO DECRETO 02 aprile 1882 n. 706
-===================================
-
-Che dichiara governativo l'istituto tecnico di Melfi. (082U0706)
-----------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/05/1882
+---
+tipo: REGIO DECRETO
+numero: 706
+data: 1882-04-02
+titolo: "Che dichiara governativo l'istituto tecnico di Melfi. (082U0706)"
+urn: urn:nir:stato:regio.decreto:1882-04-02;706
+codice_redazionale: 082U0706
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,34 +20,26 @@ Viste le deliberazioni del Consiglio provinciale di Basilicata del 27 settembre 
 
 Vista la legge 13 novembre 1859, n. 3725, sulla pubblica istruzione;
 
-Vista la [legge 25 dicembre 1881, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-12-25;539), con cui viene approvato il bilancio di prima previsione per l'anno 1882;
+Vista la [legge 25 dicembre 1881, n. 539](Che%20approva%20lo%20stato%20di%20prima%20previsione%20della%20spesa%20del%20Ministero%20dellIstruzione%20Pubblica%20pel%201882.%20081U0539.md), con cui viene approvato il bilancio di prima previsione per l'anno 1882;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+## Art. 2.
 
-Art. 2
-------
+## Art. 3.
 
-Art. 3
-------
+## Art. 4.
 
-Art. 4
-------
+1859.
 
-1859. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 aprile 1882.   
-  
-UMBERTO.   
-  
-BACCELLI.   
-  
-Visto, il Guardasigilli: G. ZANARDELLI.
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 aprile 1882. 
+ 
+ UMBERTO. 
+ 
+ BACCELLI. 
+ 
+ Visto, il Guardasigilli: G. ZANARDELLI.

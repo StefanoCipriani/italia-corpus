@@ -1,19 +1,15 @@
-REGIO DECRETO 27 settembre 1914 n. 1522
+---
+tipo: REGIO DECRETO
+numero: 1522
+data: 1914-09-27
+titolo: "Conversione in governative di una lezione di tecnica in Torino. (014U1522)"
+urn: urn:nir:stato:regio.decreto:1914-09-27;1522
+codice_redazionale: 014U1522
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 27 settembre 1914 n. 1522
-=======================================
-
-Conversione in governative di una lezione di tecnica in Torino. (014U1522)
---------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/04/1915
-
-Art. 1
-------
-
-  
-N. 1522   
-  
-Regio Decreto 27 settembre 1914, col quale, sulla proposta dei ministri della pubblica istruzione e del tesoro, la scuola tecnica « M. Laetitia » in Torino viene convertita in governativa.   
-  
+N. 1522 
+ 
+ Regio Decreto 27 settembre 1914, col quale, sulla proposta dei ministri della pubblica istruzione e del tesoro, la scuola tecnica « M. Laetitia » in Torino viene convertita in governativa.

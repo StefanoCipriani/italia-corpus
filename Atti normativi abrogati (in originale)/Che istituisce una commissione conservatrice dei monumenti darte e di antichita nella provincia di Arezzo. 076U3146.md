@@ -1,16 +1,14 @@
-REGIO DECRETO 21 maggio 1876 n. 3146
-
-
-REGIO DECRETO 21 maggio 1876 n. 3146
-====================================
-
-Che istituisce una commissione conservatrice dei monumenti d'arte e di antichita' nella provincia di Arezzo. (076U3146)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/06/1876
+---
+tipo: REGIO DECRETO
+numero: 3146
+data: 1876-05-21
+titolo: "Che istituisce una commissione conservatrice dei monumenti d'arte e di antichita' nella provincia di Arezzo. (076U3146)"
+urn: urn:nir:stato:regio.decreto:1876-05-21;3146
+codice_redazionale: 076U3146
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,39 +18,24 @@ Visto l'art. 5 del Nostro decreto 7 giugno 1866, n. 2991, che istituisce una Com
 
 Visto l'altro nostro decreto 5 marzo 1876, n. 3028 (Serie 2ª), riguardante la istituzione di una Commissione conservatrice dei monumenti d'arte e d'antichita' in ciascuna provincia del Regno;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+La provincia di Arezzo avra' una Commissione conservatrice dei monumenti d'arte e d'antichita' a se' ed indipendente da quella di Firenze, colle facolta' ed incumbenze stabilite dal decreto 5 marzo 1876.
 
-  
-  
-La provincia di Arezzo avra' una Commissione conservatrice dei monumenti d'arte e d'antichita' a se' ed indipendente da quella di Firenze, colle facolta' ed incumbenze stabilite dal decreto 5 marzo 1876.   
-  
+## Art. 2.
 
-Art. 2
-------
+Detta Commissione sara' composta di quattro commissari, due eletti da Noi e due dal Consiglio provinciale, oltre il prefetto che ne sara' il presidente, il quale nominera' un impiegato della prefettura a compiere l'ufficio di segretario.
 
-  
-  
-Detta Commissione sara' composta di quattro commissari, due eletti da Noi e due dal Consiglio provinciale, oltre il prefetto che ne sara' il presidente, il quale nominera' un impiegato della prefettura a compiere l'ufficio di segretario.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-E' abrogata ogni disposizione contraria al presente decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 21 maggio 1876.   
-  
-VITTORIO EMANUELE.   
-  
-M. Coppino.   
-  
+E' abrogata ogni disposizione contraria al presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 21 maggio 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M. Coppino.

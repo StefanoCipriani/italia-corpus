@@ -1,18 +1,16 @@
-DECRETO-LEGGE 29 agosto 1994 n. 518
-
-
-DECRETO-LEGGE 29 agosto 1994 n. 518
-===================================
-
-Disposizioni urgenti in materia di assistenza farmaceutica e di sanita'.
-------------------------------------------------------------------------
-
-Entrata in vigore del decreto: 30/8/1994.Decreto-Legge decaduto per mancata conversione.
+---
+tipo: DECRETO-LEGGE
+numero: 518
+data: 1994-08-29
+titolo: "Disposizioni urgenti in materia di assistenza farmaceutica e di sanita'."
+urn: urn:nir:stato:decreto.legge:1994-08-29;518
+codice_redazionale: 094G0561
+vigente: true
+---
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+Visti gli [articoli 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_77) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
 Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni in materia di assistenza farmaceutica e di sanita';
 
@@ -22,129 +20,171 @@ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della sa
 
 E M A N A il seguente decreto-legge:
 
-Art. 1
-------
+## Art. 1.
 
-1. A decorrere dal 1 luglio 1994 gli istituti di ricovero e cura a carattere scientifico con personalita' giuridica di diritto pubblico sono gestiti da commissari straordinari fino alla data di nomina degli organi di cui al [decreto legislativo 30 giugno 1993, n. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269). A partire dalla stessa data cessano tutti gli organi di amministrazione attualmente in carica. L'atto di nomina del commissario straordinario determina anche il compenso spettante allo stesso. Contestualmente alla nomina dei commissari straordinari si provvede alla conferma del collegio dei revisori o alla loro costituzione, ove mancanti.
+1.
 
-2. La disposizione del comma 1 non si applica al consiglio di amministrazione dell'istituto "Giannina Gaslini" di Genova.
+A decorrere dal 1 luglio 1994 gli istituti di ricovero e cura a carattere scientifico con personalita' giuridica di diritto pubblico sono gestiti da commissari straordinari fino alla data di nomina degli organi di cui al [decreto legislativo 30 giugno 1993, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-06-30;269). A partire dalla stessa data cessano tutti gli organi di amministrazione attualmente in carica. L'atto di nomina del commissario straordinario determina anche il compenso spettante allo stesso. Contestualmente alla nomina dei commissari straordinari si provvede alla conferma del collegio dei revisori o alla loro costituzione, ove mancanti.
 
-3. Per i dipendenti pubblici la nomina a commissario straordinario presso le unita' sanitarie locali determina il collocamento in aspettativa senza assegni; il periodo di aspettativa e' utile ai fini del trattamento di quiescenza e di previdenza e dell'anzianita' di servizio. Le amministrazioni di appartenenza provvedono ad effettuare il versamento dei relativi contributi, comprensivi delle quote a carico del dipendente, nonche' dei contributi assistenziali calcolati sul trattamento stipendiale spettante al medesimo, ed a richiedere il rimborso del correlativo onere alle unita' sanitarie locali interessate, le quali procedono al recupero delle quote a carico dell'interessato.
+2.
 
-Art. 2
-------
+La disposizione del comma 1 non si applica al consiglio di amministrazione dell'istituto "Giannina Gaslini" di Genova.
 
-1. A decorrere dal 1 gennaio 1995 la contabilita' economico-finanziaria e patrimoniale e la contabilita' finanziaria delle unita' sanitarie locali e delle aziende ospedaliere previste dall'[articolo 5 del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art5), e successive modificazioni e integrazioni, dovranno essere tenute separate rispetto a quella degli anni 1994 e precedenti.
+3.
 
-2. Le disposizioni di cui al presente articolo si applicano anche agli istituti di ricovero e cura a carattere scientifico aventi personalita' giuridica di diritto pubblico e agli istituti zooprofilattici sperimentali.
+Per i dipendenti pubblici la nomina a commissario straordinario presso le unita' sanitarie locali determina il collocamento in aspettativa senza assegni; il periodo di aspettativa e' utile ai fini del trattamento di quiescenza e di previdenza e dell'anzianita' di servizio. Le amministrazioni di appartenenza provvedono ad effettuare il versamento dei relativi contributi, comprensivi delle quote a carico del dipendente, nonche' dei contributi assistenziali calcolati sul trattamento stipendiale spettante al medesimo, ed a richiedere il rimborso del correlativo onere alle unita' sanitarie locali interessate, le quali procedono al recupero delle quote a carico dell'interessato.
 
-Art. 3
-------
+## Art. 2.
 
-1. Il primo periodo del [comma 14 dell'articolo 8 della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art8-com14), e' sostituito dal seguente:  
-"I farmaci collocati nella classe di cui al comma 10, lettera a), sono a totale carico del Servizio sanitario nazionale con la corresponsione, da parte dell'assistito, di una quota per ricetta pari a lire 3.000, nel caso in cui sia prescritta una sola confezione, e a lire 5.000, nel caso in cui siano prescritte due o piu' confezioni, nelle ipotesi consentite dalla legge.".
+1.
 
-2. Il quarto periodo del [comma 16 dell'articolo 8 della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art8-com16), e' sostituito dal seguente:  
-"Per l'assistenza farmaceutica, i cittadini esenti, con esclusione degli invalidi di guerra, titolari di pensione diretta vitalizia, dei grandi invalidi per servizio e degli invalidi civili al 100 per cento, sono tenuti, comunque, al pagamento della quota per ricetta prevista dal comma 14; per le prestazioni di cui al comma 15, gli stessi sono tenuti al pagamento di una quota fissa per ricetta di lire 5.000.".
+A decorrere dal 1 gennaio 1995 la contabilita' economico-finanziaria e patrimoniale e la contabilita' finanziaria delle unita' sanitarie locali e delle aziende ospedaliere previste dall'[articolo 5 del decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502#art_5), e successive modificazioni e integrazioni, dovranno essere tenute separate rispetto a quella degli anni 1994 e precedenti.
 
-3. Qualora un assistito del Servizio sanitario nazionale abbia assoluta necessita', in ragione della particolare patologia cronica o di lunga durata della quale soffre, di essere trattato con i medicinali di cui all'[articolo 8, comma 10, lettera c), della legge 24 dicembre 1993, n. 537](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537~art8-com10-letc), la USL competente provvede alla dispensazione gratuita dei medicinali, purche' l'assoluta necessita' del trattamento sia stata riconosciuta dalla stessa USL, in conformita' dei criteri che saranno a tal fine adottati dalla Commissione unica del farmaco entro 30 giorni dalla data di entrata in vigore del presente decreto. La spesa complessiva non puo' superare l'importo massimo di lire 76 miliardi; detto limite e' riferito a ciacuna regione in proporzione alla popolazione residente.
+2.
 
-4. Le regioni e le province autonome di Trento e di Bolzano impartiscono alle unita' sanitarie locali le istruzioni necessarie per l'applicazione delle disposizioni del comma 3 e per la verifica del rispetto delle medesime.
+Le disposizioni di cui al presente articolo si applicano anche agli istituti di ricovero e cura a carattere scientifico aventi personalita' giuridica di diritto pubblico e agli istituti zooprofilattici sperimentali.
 
-Art. 4
-------
+## Art. 3.
 
-1. Il [comma 3 dell'articolo 5 del decreto legislativo 30 dicembre 1992, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;539~art5-com3), e successive modificazioni, e' sostituito dal seguente: " 3. Le ricette mediche relative ai medicinali di cui al comma 1 hanno validita' limitata a tre mesi; esse devono essere ritirate dal farmacista che e' tenuto a conservarle per sei mesi, qualora non le consegni all'autorita' competente per rimborso del prezzo a carico del Servizio sanitario nazionale.".
+1.
 
-2. All'[articolo 123, comma primo, lettera c), del testo unico delle leggi sanitarie](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art123-com1-letc), approvato con [regio decreto 27 luglio 1934, n. 1265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni, le parole: "sia conservata copia di tutte le ricette e" sono soppresse.
+Il primo periodo del [comma 14 dell'articolo 8 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_8-com14), e' sostituito dal seguente:
+ "I farmaci collocati nella classe di cui al comma 10, lettera a), sono a totale carico del Servizio sanitario nazionale con la corresponsione, da parte dell'assistito, di una quota per ricetta pari a lire 3.000, nel caso in cui sia prescritta una sola confezione, e a lire 5.000, nel caso in cui siano prescritte due o piu' confezioni, nelle ipotesi consentite dalla legge.".
 
-3. All'articolo 38, comma quarto, del regolamento per il servizio farmaceutico approvato con [regio decreto 30 settembre 1938, n. 1706](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1706), le parole: "i farmacisti debbono conservare per la durata di cinque anni copia di tutte le ricette spedite" sono sostituite dalle seguenti: "i farmacisti debbono conservare per sei mesi le ricette spedite concernenti preparazioni estemporanee".
+2.
 
-4. Il [comma 3 dell'articolo 15 del decreto legislativo 29 maggio 1991, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-05-29;178~art15-com3), e' sostituito dal seguente:  
-" 3. In caso di vendita o di detenzione per la vendita di specialita' medicinali per le quali sono intervenuti provvedimenti del Ministero della sanita' di sospensione o di revoca, e' applicata la sanzione amministrativa da lire cinquecentomila a lire unmilionecinquecentomila.".
+Il quarto periodo del [comma 16 dell'articolo 8 della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_8-com16), e' sostituito dal seguente:
+ "Per l'assistenza farmaceutica, i cittadini esenti, con esclusione degli invalidi di guerra, titolari di pensione diretta vitalizia, dei grandi invalidi per servizio e degli invalidi civili al 100 per cento, sono tenuti, comunque, al pagamento della quota per ricetta prevista dal comma 14; per le prestazioni di cui al comma 15, gli stessi sono tenuti al pagamento di una quota fissa per ricetta di lire 5.000.".
 
-5. Il [comma 4 dell'articolo 15 del decreto legislativo 29 maggio 1991, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1991-05-29;178~art15-com4), e' sostituito dal seguente:  
-" 4. Il farmacista e' soggetto alla sanzione amministrativa da lire un milione a lire tre milioni qualora nel corso di un anno si ripetano per piu' di due volte le infrazioni previste dal comma 1.".
+3.
 
-6. Il farmacista che vende un medicinale disciplinato dagli [articoli 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;539~art5) e [8 del decreto legislativo 30 dicembre 1992, n. 539](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;539~art8), senza presentazione di ricetta medica o su presentazione di ricette prive di validita', ovvero senza presentazione di ricetta di un centro medico specializzato, non e' soggetto alla chiusura della farmacia.
+Qualora un assistito del Servizio sanitario nazionale abbia assoluta necessita', in ragione della particolare patologia cronica o di lunga durata della quale soffre, di essere trattato con i medicinali di cui all'[articolo 8, comma 10, lettera c), della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_8-com10-letc), la USL competente provvede alla dispensazione gratuita dei medicinali, purche' l'assoluta necessita' del trattamento sia stata riconosciuta dalla stessa USL, in conformita' dei criteri che saranno a tal fine adottati dalla Commissione unica del farmaco entro 30 giorni dalla data di entrata in vigore del presente decreto. La spesa complessiva non puo' superare l'importo massimo di lire 76 miliardi; detto limite e' riferito a ciacuna regione in proporzione alla popolazione residente.
 
-Art. 5
-------
+4.
 
-1. Il [comma 9 dell'articolo 5 del decreto legislativo 18 aprile 1994, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-04-18;286~art5-com9), e' sostituito dal seguente:  
-" 9. Le autorizzazioni rilasciate, ai sensi del [regio decreto 20 dicembre 1928, n. 3298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298), e della [legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), agli impianti in attivita' alla data di entata in vigore del presente decreto, devono essere rinnovate entro il 28 febbraio 1995, a richiesta dell'interessato da presentare all'autorita' competente secondo le vigenti disposizioni entro il 30 settembre 1994; in sede di rinnovo viene assegnato all'impianto il numero di identificazione e viene indicata la potenzialita' oraria definita in rapporto ai requisiti igienici e funzionali presenti.".
+Le regioni e le province autonome di Trento e di Bolzano impartiscono alle unita' sanitarie locali le istruzioni necessarie per l'applicazione delle disposizioni del comma 3 e per la verifica del rispetto delle medesime.
 
-2. Il [comma 6 dell'articolo 6 del decreto legislativo 18 aprile 1994, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-04-18;286~art6-com6), e' sostituito dal seguente:  
-" 6. Le autorizzazioni rilasciate, ai sensi del [regio decreto 20 dicembre 1928, n. 3298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298), e della [legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), ai laboratori in attivita' alla data di entrata in vigore del presente decreto, devono essere rinnovate entro il 28 febbraio 1995, a richiesta dell'interessato da presentare all'autorita' competente secondo le vigenti disposizioni entro il 30 settembre 1994; in sede di rinnovo viene assegnato al laboratorio il numero di identificazione.".
+## Art. 4.
 
-3. Il [comma 2 dell'articolo 19 del decreto legislativo 18 aprile 1994, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1994-04-18;286~art19-com2), e' sostituito dal seguente:  
-" 2. Fatto salvo quanto stabilito agli articoli 5, 6 e 14, le autorizzazioni rilasciate ai sensi del [regio decreto 20 dicembre 1928, n. 3298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298), e della [legge 30 aprile 1962, n. 283](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), cessano di avere efficacia il 28 febbraio 1995, a meno che venga presentata entro tale termine domanda di riconoscimento CE ai sensi dell'articolo 13.".
+1.
 
-Art. 6
-------
+Il [comma 3 dell'articolo 5 del decreto legislativo 30 dicembre 1992, n. 539](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-26-CEE%20riguardante%20la%20classificazione%20nella%20fornitura%20dei%20medicinali%20per%20uso%20umano.md), e successive modificazioni, e' sostituito dal seguente: " 3. Le ricette mediche relative ai medicinali di cui al comma 1 hanno validita' limitata a tre mesi; esse devono essere ritirate dal farmacista che e' tenuto a conservarle per sei mesi, qualora non le consegni all'autorita' competente per rimborso del prezzo a carico del Servizio sanitario nazionale.".
 
-1. I prezzi delle specialita' medicinali per uso umano, in vigore al 31 dicembre 1993, vengono applicati fino al 20 marzo 1994.
+2.
 
-2. IL CIPE fissa i criteri per la definizione del prezzo medio europeo delle specialita' medicinali, compresi i farmaci preconfezionati prodotti industrialmente, rimborsabili dal Servizio sanitario nazionale ed emana la conseguente disciplina, stabilendo le procedure relative al regime di sorveglianza applicabile.
+All'[articolo 123, comma primo, lettera c), del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_123-com1-letc), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni, le parole: "sia conservata copia di tutte le ricette e" sono soppresse.
 
-3. Per le specialita' non confrontabili il CIPE indica le forme ed i metodi per l'individuazione dei prodotti similari ai fini della determinazione dei relativi prezzi.
+3.
 
-Art. 7
-------
+All'articolo 38, comma quarto, del regolamento per il servizio farmaceutico approvato con [regio decreto 30 settembre 1938, n. 1706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-09-30;1706), le parole: "i farmacisti debbono conservare per la durata di cinque anni copia di tutte le ricette spedite" sono sostituite dalle seguenti: "i farmacisti debbono conservare per sei mesi le ricette spedite concernenti preparazioni estemporanee".
 
-1. Il [comma 2 dell'articolo 19 della legge 4 maggio 1990, n. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-04;107~art19-com2), e' sostituito dal seguente:  
-" 2. I centri trasfusionali della Croce rossa italiana, ivi compreso il Centro nazionale trasfusione sangue, con i relativi servizi, restano attribuiti alla Croce rossa italiana.".
+4.
 
-2. Il [comma 3 dell'articolo 19 della legge 4 maggio 1990, n. 107](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-04;107~art19-com3), e' sostituito dal seguente:  
-" 3. Il trasferimento dei beni di cui al comma 1 e' effettuato con provvedimento del presidente della giunta regionale in conformita' con le disposizioni di cui agli [articoli 65](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art65) e [66 della legge 23 dicembre 1978, n. 833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833~art66).".
+Il [comma 3 dell'articolo 15 del decreto legislativo 29 maggio 1991, n. 178](Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md), e' sostituito dal seguente:
+ " 3. In caso di vendita o di detenzione per la vendita di specialita' medicinali per le quali sono intervenuti provvedimenti del Ministero della sanita' di sospensione o di revoca, e' applicata la sanzione amministrativa da lire cinquecentomila a lire unmilionecinquecentomila.".
 
-3. L'[articolo 1 del decreto del Presidente della Repubblica 31 luglio 1980, n. 613](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1980-07-31;613~art1), e' abrogato. Lo statuto della Croce rossa italiana deve essere approvato, entro 30 giorni dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto del Presidente del Consiglio dei Ministri.
+5.
 
-4. Per effetto della abrogazione di cui al comma 3 la Croce rossa italiana acquista la qualificazione e natura di ente dotato di personalita' giuridica di diritto pubblico e, in quanto tale, e' soggetta alla disciplina normativa e giuridica degli enti pubblici.
+Il [comma 4 dell'articolo 15 del decreto legislativo 29 maggio 1991, n. 178](Recepimento%20delle%20direttive%20della%20Comunita%20economica%20europea%20in%20materia%20di%20specialita%20medicinali.md), e' sostituito dal seguente:
+ " 4. Il farmacista e' soggetto alla sanzione amministrativa da lire un milione a lire tre milioni qualora nel corso di un anno si ripetano per piu' di due volte le infrazioni previste dal comma 1.".
 
-Art. 8
-------
+6.
 
-1. L'[articolo 2 della legge 25 febbraio 1992, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;210~art2), e' sostituito dal seguente:  
-"Art. 2. - 1. L'indennizzo di cui all'articolo 1, comma 1, consiste in un assegno non reversibile determinato nella misura di cui alla tabella B allegata alla [legge 29 aprile 1976, n. 177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-29;177), come modificata dall'[articolo 8 della legge 2 maggio 1984, n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-05-02;111~art8). L'indennizzo e' cumulabile con ogni altro emolumento a qualsiasi titolo percepito.  
-2. L'indennizzo di cui al comma 1 e' integrato da una somma corrispondente all'importo dell'indennita' integrativa speciale di cui alla [legge 27 maggio 1959, n. 324](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-05-27;324), e successive modificazioni, prevista per la prima qualifica funzionale degli impiegati civili dello Stato ed ha decorrenza dal primo giorno del mese successivo a quello della presentazione della domanda. La predetta somma integrativa e' cumulabile con l'indennita' integrativa speciale o altra analoga indennita' collegata alla variazione del costo della vita.  
-3. Qualora a causa delle vaccinazioni o delle patologie previste dalla presente legge sia derivata o derivi la morte, spetta un assegno una tantum nella misura di lire 50 milioni da erogare ai soggetti nel seguente ordine: coniuge, figli, genitori, fratelli.  
-4. Qualora la persona sia deceduta in eta' minore l'indennizzo spetta ai genitori o a chi esercita la potesta' parentale.".
+Il farmacista che vende un medicinale disciplinato dagli [articoli 5](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-26-CEE%20riguardante%20la%20classificazione%20nella%20fornitura%20dei%20medicinali%20per%20uso%20umano.md) e [8 del decreto legislativo 30 dicembre 1992, n. 539](../Atti%20di%20recepimento%20direttive%20UE/Attuazione%20della%20direttiva%2092-26-CEE%20riguardante%20la%20classificazione%20nella%20fornitura%20dei%20medicinali%20per%20uso%20umano.md), senza presentazione di ricetta medica o su presentazione di ricette prive di validita', ovvero senza presentazione di ricetta di un centro medico specializzato, non e' soggetto alla chiusura della farmacia.
 
-Art. 9
-------
+## Art. 5.
 
-1. A decorrere dal 1 novembre 1994 sono istituiti corsi di alta formazione di dirigenti amministrativi e sanitari del Servizio sanitario nazionale, di durata biennale.
+1.
 
-2. I requisiti di ammissione ai corsi di cui al comma 1 sono stabiliti con decreto del Ministro della sanita', d'intesa con il Ministro per la funzione pubblica, da emanare entro il 31 agosto 1994.
+Il [comma 9 dell'articolo 5 del decreto legislativo 18 aprile 1994, n. 286](Attuazione%20delle%20direttive%2091-497-CEE%20e%2091-498-CEE%20concernenti%20problemi%20sanitari%20in%20materia%20di%20produzione%20ed%20emissione%20sul%20mercato%20di%20carni%20fresche.md), e' sostituito dal seguente:
+ " 9. Le autorizzazioni rilasciate, ai sensi del [regio decreto 20 dicembre 1928, n. 3298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298), e della [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), agli impianti in attivita' alla data di entata in vigore del presente decreto, devono essere rinnovate entro il 28 febbraio 1995, a richiesta dell'interessato da presentare all'autorita' competente secondo le vigenti disposizioni entro il 30 settembre 1994; in sede di rinnovo viene assegnato all'impianto il numero di identificazione e viene indicata la potenzialita' oraria definita in rapporto ai requisiti igienici e funzionali presenti.".
 
-3. Il programma formativo e l'organizzazione dei corsi sono oggetto di specifiche convenzioni, da stipularsi entro il 30 settembre 1994 tra il Ministro della sanita' e la Scuola superiore della pubblica amministrazione, istituzioni universitarie o idonee istituzioni private. La Scuola superiore della pubblica amministrazione e le istituzioni universitarie possono utilizzare per l'organizzazione dei corsi, mediante specifiche convenzioni, istituzioni universitarie, di ricerca o di formazione superiore, pubbliche e private, anche tra loro consorziate o collegate. L'idoneita' delle istituzioni private e' verificata da una apposita commissione scientifica nominata dal Ministro della sanita', di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica, della quale fanno parte esperti in discipline attinenti all'organizzazione e all'amministrazione sanitarie e alla metodologia didattica.
+2.
 
-4. Agli oneri relativi al presente articolo si fa fronte per un importo non superiore a lire 1 miliardo per anno con i fondi di cui all'[articolo 12, comma 2, lettera b), del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art12-com2-letb), e successive integrazioni e modificazioni.
+Il [comma 6 dell'articolo 6 del decreto legislativo 18 aprile 1994, n. 286](Attuazione%20delle%20direttive%2091-497-CEE%20e%2091-498-CEE%20concernenti%20problemi%20sanitari%20in%20materia%20di%20produzione%20ed%20emissione%20sul%20mercato%20di%20carni%20fresche.md), e' sostituito dal seguente:
+ " 6. Le autorizzazioni rilasciate, ai sensi del [regio decreto 20 dicembre 1928, n. 3298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298), e della [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), ai laboratori in attivita' alla data di entrata in vigore del presente decreto, devono essere rinnovate entro il 28 febbraio 1995, a richiesta dell'interessato da presentare all'autorita' competente secondo le vigenti disposizioni entro il 30 settembre 1994; in sede di rinnovo viene assegnato al laboratorio il numero di identificazione.".
 
-Art. 10
--------
+3.
 
-1. L'autorizzazione alla produzione, al commercio ed alla detenzione di coloranti per alimenti, di cui all'[articolo 57, comma 4, della legge 19 febbraio 1992, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-19;142~art57-com4), e' rilasciata dalle regioni o dall'autorita' sanitaria locale competente per territorio.
+Il [comma 2 dell'articolo 19 del decreto legislativo 18 aprile 1994, n. 286](Attuazione%20delle%20direttive%2091-497-CEE%20e%2091-498-CEE%20concernenti%20problemi%20sanitari%20in%20materia%20di%20produzione%20ed%20emissione%20sul%20mercato%20di%20carni%20fresche.md), e' sostituito dal seguente:
+ " 2. Fatto salvo quanto stabilito agli articoli 5, 6 e 14, le autorizzazioni rilasciate ai sensi del [regio decreto 20 dicembre 1928, n. 3298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-12-20;3298), e della [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), cessano di avere efficacia il 28 febbraio 1995, a meno che venga presentata entro tale termine domanda di riconoscimento CE ai sensi dell'articolo 13.".
 
-Art. 11
--------
+## Art. 6.
 
-1. Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+1.
+
+I prezzi delle specialita' medicinali per uso umano, in vigore al 31 dicembre 1993, vengono applicati fino al 20 marzo 1994.
+
+2.
+
+IL CIPE fissa i criteri per la definizione del prezzo medio europeo delle specialita' medicinali, compresi i farmaci preconfezionati prodotti industrialmente, rimborsabili dal Servizio sanitario nazionale ed emana la conseguente disciplina, stabilendo le procedure relative al regime di sorveglianza applicabile.
+
+3.
+
+Per le specialita' non confrontabili il CIPE indica le forme ed i metodi per l'individuazione dei prodotti similari ai fini della determinazione dei relativi prezzi.
+
+## Art. 7.
+
+1.
+
+Il [comma 2 dell'articolo 19 della legge 4 maggio 1990, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-04;107#art_19-com2), e' sostituito dal seguente:
+ " 2. I centri trasfusionali della Croce rossa italiana, ivi compreso il Centro nazionale trasfusione sangue, con i relativi servizi, restano attribuiti alla Croce rossa italiana.".
+
+2.
+
+Il [comma 3 dell'articolo 19 della legge 4 maggio 1990, n. 107](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-05-04;107#art_19-com3), e' sostituito dal seguente:
+ " 3. Il trasferimento dei beni di cui al comma 1 e' effettuato con provvedimento del presidente della giunta regionale in conformita' con le disposizioni di cui agli [articoli 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_65) e [66 della legge 23 dicembre 1978, n. 833](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-12-23;833#art_66).".
+
+3.
+
+L'[articolo 1 del decreto del Presidente della Repubblica 31 luglio 1980, n. 613](Riordinamento%20della%20Croce%20rossa%20italiana%20art.%2070%20della%20legge%20n.%20833%20del%201978.md), e' abrogato. Lo statuto della Croce rossa italiana deve essere approvato, entro 30 giorni dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto del Presidente del Consiglio dei Ministri.
+
+4.
+
+Per effetto della abrogazione di cui al comma 3 la Croce rossa italiana acquista la qualificazione e natura di ente dotato di personalita' giuridica di diritto pubblico e, in quanto tale, e' soggetta alla disciplina normativa e giuridica degli enti pubblici.
+
+## Art. 8.
+
+1.
+
+L'[articolo 2 della legge 25 febbraio 1992, n. 210](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-25;210#art_2), e' sostituito dal seguente:
+ "Art. 2. - 1. L'indennizzo di cui all'articolo 1, comma 1, consiste in un assegno non reversibile determinato nella misura di cui alla tabella B allegata alla [legge 29 aprile 1976, n. 177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-29;177), come modificata dall'[articolo 8 della legge 2 maggio 1984, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-05-02;111#art_8). L'indennizzo e' cumulabile con ogni altro emolumento a qualsiasi titolo percepito.
+ 2. L'indennizzo di cui al comma 1 e' integrato da una somma corrispondente all'importo dell'indennita' integrativa speciale di cui alla [legge 27 maggio 1959, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1959-05-27;324), e successive modificazioni, prevista per la prima qualifica funzionale degli impiegati civili dello Stato ed ha decorrenza dal primo giorno del mese successivo a quello della presentazione della domanda. La predetta somma integrativa e' cumulabile con l'indennita' integrativa speciale o altra analoga indennita' collegata alla variazione del costo della vita.
+ 3. Qualora a causa delle vaccinazioni o delle patologie previste dalla presente legge sia derivata o derivi la morte, spetta un assegno una tantum nella misura di lire 50 milioni da erogare ai soggetti nel seguente ordine: coniuge, figli, genitori, fratelli.
+ 4. Qualora la persona sia deceduta in eta' minore l'indennizzo spetta ai genitori o a chi esercita la potesta' parentale.".
+
+## Art. 9.
+
+1.
+
+A decorrere dal 1 novembre 1994 sono istituiti corsi di alta formazione di dirigenti amministrativi e sanitari del Servizio sanitario nazionale, di durata biennale.
+
+2.
+
+I requisiti di ammissione ai corsi di cui al comma 1 sono stabiliti con decreto del Ministro della sanita', d'intesa con il Ministro per la funzione pubblica, da emanare entro il 31 agosto 1994.
+
+3.
+
+Il programma formativo e l'organizzazione dei corsi sono oggetto di specifiche convenzioni, da stipularsi entro il 30 settembre 1994 tra il Ministro della sanita' e la Scuola superiore della pubblica amministrazione, istituzioni universitarie o idonee istituzioni private. La Scuola superiore della pubblica amministrazione e le istituzioni universitarie possono utilizzare per l'organizzazione dei corsi, mediante specifiche convenzioni, istituzioni universitarie, di ricerca o di formazione superiore, pubbliche e private, anche tra loro consorziate o collegate. L'idoneita' delle istituzioni private e' verificata da una apposita commissione scientifica nominata dal Ministro della sanita', di concerto con il Ministro dell'universita' e della ricerca scientifica e tecnologica, della quale fanno parte esperti in discipline attinenti all'organizzazione e all'amministrazione sanitarie e alla metodologia didattica.
+
+4.
+
+Agli oneri relativi al presente articolo si fa fronte per un importo non superiore a lire 1 miliardo per anno con i fondi di cui all'[articolo 12, comma 2, lettera b), del decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502#art_12-com2-letb), e successive integrazioni e modificazioni.
+
+## Art. 10.
+
+1.
+
+L'autorizzazione alla produzione, al commercio ed alla detenzione di coloranti per alimenti, di cui all'[articolo 57, comma 4, della legge 19 febbraio 1992, n. 142](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), e' rilasciata dalle regioni o dall'autorita' sanitaria locale competente per territorio.
+
+## Art. 11.
+
+1.
+
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 29 agosto 1994
+Dato a Roma, addi' 29 agosto 1994
 
-SCALFARO
-
-BERLUSCONI, Presidente del Consiglio dei Ministri
-
-COSTA, Ministro della sanita'
-
-PAGLIARINI, Ministro del bilancio e della programmazione economica
-
-DINI, Ministro del tesoro
-
-Visto, il Guardasigilli: BIONDI
+SCALFARO BERLUSCONI, Presidente del Consiglio dei Ministri COSTA, Ministro della sanita' PAGLIARINI, Ministro del bilancio e della programmazione economica DINI, Ministro del tesoro Visto, il Guardasigilli: BIONDI

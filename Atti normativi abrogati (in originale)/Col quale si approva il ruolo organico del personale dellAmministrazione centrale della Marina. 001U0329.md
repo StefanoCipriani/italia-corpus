@@ -1,44 +1,41 @@
-REGIO DECRETO 16 giugno 1901 n. 329
+---
+tipo: REGIO DECRETO
+numero: 329
+data: 1901-06-16
+titolo: "Col quale si approva il ruolo organico del personale dell'Amministrazione centrale della Marina. (001U0329)"
+urn: urn:nir:stato:regio.decreto:1901-06-16;329
+codice_redazionale: 001U0329
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 16 giugno 1901 n. 329
-===================================
-
-Col quale si approva il ruolo organico del personale dell'Amministrazione centrale della Marina. (001U0329)
------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/08/1901
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-per grazia di Dio e per volonta' della Nazione   
-  
-RE D'ITALIA   
-  
-Vista la [legge 13 giugno 1901, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-06-13;206), che approva lo stato di previsione della spesa pel Ministero della Marina, per l'esercizio finanziario 1901-902;   
-  
-Visto il [R. decreto 17 dicembre 1899, n. 450](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-12-17;450), che approva il ruolo organico dell'Amministrazione centrale della Marina;   
-  
-Udito il Consiglio dei Ministri;   
-  
-Sulla proposta del Nostro Ministro della Marina;   
-  
-Abbiamo decretato e decretiamo:   
-  
-Il ruolo organico del personale dell'Amministrazione centrale della Marina, e' stabilito come segue:   
-  
-Parte di provvedimento in formato grafico   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 16 giugno 1901.   
-  
-VITTORIO EMANUELE.   
-  
-E. Morin.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.   
+VITTORIO EMANUELE III 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Vista la [legge 13 giugno 1901, n. 206](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20della%20Marina%20per%20lesercizio%20finanziario%201901-1902.%20001U0206.md), che approva lo stato di previsione della spesa pel Ministero della Marina, per l'esercizio finanziario 1901-902; 
+ 
+ Visto il [R. decreto 17 dicembre 1899, n. 450](Concernente%20i%20varii%20ruoli%20organici%20del%20personale%20del%20Ministero%20della%20Marina.%20099U0450.md), che approva il ruolo organico dell'Amministrazione centrale della Marina; 
+ 
+ Udito il Consiglio dei Ministri; 
+ 
+ Sulla proposta del Nostro Ministro della Marina; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ Il ruolo organico del personale dell'Amministrazione centrale della Marina, e' stabilito come segue: 
+ 
+ Parte di provvedimento in formato grafico 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 16 giugno 1901. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ E. Morin. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

@@ -1,16 +1,14 @@
-REGIO DECRETO 25 gennaio 1940 n. 30
-
-
-REGIO DECRETO 25 gennaio 1940 n. 30
-===================================
-
-Radiazione dalla tariffa di vendita dei tabacchi lavorati nazionali di due tipi di sigarette. (040U0030)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/03/1940
+---
+tipo: REGIO DECRETO
+numero: 30
+data: 1940-01-25
+titolo: "Radiazione dalla tariffa di vendita dei tabacchi lavorati nazionali di due tipi di sigarette. (040U0030)"
+urn: urn:nir:stato:regio.decreto:1940-01-25;30
+codice_redazionale: 040U0030
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,22 @@ Sentito il Consiglio di amministrazione dei monopoli di Stato;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decreto e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decreto e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le sigarette « Virginia » e « Tigrina » sono radiate dalla tariffa di vendita dei tabacchi lavorati nazionali.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 gennaio 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 7 febbraio 1940-XVIII   
-  
-Atti del Governo, registro 418. foglio 33. - Mancini   
-  
-  
+Le sigarette « Virginia » e « Tigrina » sono radiate dalla tariffa di vendita dei tabacchi lavorati nazionali. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 gennaio 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 7 febbraio 1940-XVIII 
+ 
+ Atti del Governo, registro 418. foglio 33. - Mancini

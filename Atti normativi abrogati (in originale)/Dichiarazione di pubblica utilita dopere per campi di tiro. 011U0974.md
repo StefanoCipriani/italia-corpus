@@ -1,19 +1,15 @@
-REGIO DECRETO 12 agosto 1911 n. 974
+---
+tipo: REGIO DECRETO
+numero: 974
+data: 1911-08-12
+titolo: "Dichiarazione di pubblica utilita' d'opere per campi di tiro. (011U0974)"
+urn: urn:nir:stato:regio.decreto:1911-08-12;974
+codice_redazionale: 011U0974
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 agosto 1911 n. 974
-===================================
-
-Dichiarazione di pubblica utilita' d'opere per campi di tiro. (011U0974)
-------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/09/1911
-
-Art. 1
-------
-
-  
-N. 974   
-  
-Regio decreto 12 agosto 1911, col quale, sulla proposta del ministro della guerra, sono dichiarate di pubblica utilita' le opere occorrenti per l'ampliamento del campo di tiro e per la sistemazione dei servizi militari a Bari.   
-  
+N. 974 
+ 
+ Regio decreto 12 agosto 1911, col quale, sulla proposta del ministro della guerra, sono dichiarate di pubblica utilita' le opere occorrenti per l'ampliamento del campo di tiro e per la sistemazione dei servizi militari a Bari.

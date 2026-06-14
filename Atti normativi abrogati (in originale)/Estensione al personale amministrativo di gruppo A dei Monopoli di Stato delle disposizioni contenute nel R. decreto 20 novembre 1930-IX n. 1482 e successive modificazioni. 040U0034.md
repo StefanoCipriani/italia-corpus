@@ -1,16 +1,14 @@
-REGIO DECRETO 25 gennaio 1940 n. 34
-
-
-REGIO DECRETO 25 gennaio 1940 n. 34
-===================================
-
-Estensione al personale amministrativo di gruppo A dei Monopoli di Stato delle disposizioni contenute nel R. decreto 20 novembre 1930-IX, n. 1482 e successive modificazioni. (040U0034)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/03/1940
+---
+tipo: REGIO DECRETO
+numero: 34
+data: 1940-01-25
+titolo: "Estensione al personale amministrativo di gruppo A dei Monopoli di Stato delle disposizioni contenute nel R. decreto 20 novembre 1930-IX, n. 1482 e successive modificazioni. (040U0034)"
+urn: urn:nir:stato:regio.decreto:1940-01-25;34
+codice_redazionale: 040U0034
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -36,28 +34,22 @@ Udito il Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono estese al personale amministrativo di 1ª categoria, gruppo A, dell'Amministrazione dei monopoli di Stato le disposizioni di cui al R. decreto 20 novembre 1930-IX, n. 1482, e successive modificazioni.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 gennaio 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 14 febbraio 1940-XVIII   
-  
-Atti del Governo, registro 418, foglio 63. - Mancini   
+Sono estese al personale amministrativo di 1ª categoria, gruppo A, dell'Amministrazione dei monopoli di Stato le disposizioni di cui al R. decreto 20 novembre 1930-IX, n. 1482, e successive modificazioni. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 gennaio 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 14 febbraio 1940-XVIII 
+ 
+ Atti del Governo, registro 418, foglio 63. - Mancini

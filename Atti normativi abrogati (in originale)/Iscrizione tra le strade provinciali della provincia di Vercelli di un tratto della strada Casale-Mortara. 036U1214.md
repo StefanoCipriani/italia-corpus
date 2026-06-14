@@ -1,24 +1,22 @@
-REGIO DECRETO 23 aprile 1936 n. 1214
-
-
-REGIO DECRETO 23 aprile 1936 n. 1214
-====================================
-
-Iscrizione tra le strade provinciali della provincia di Vercelli di un tratto della strada Casale-Mortara. (036U1214)
----------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/07/1936
+---
+tipo: REGIO DECRETO
+numero: 1214
+data: 1936-04-23
+titolo: "Iscrizione tra le strade provinciali della provincia di Vercelli di un tratto della strada Casale-Mortara. (036U1214)"
+urn: urn:nir:stato:regio.decreto:1936-04-23;1214
+codice_redazionale: 036U1214
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'art. 14 dell'allegato F alla [legge 20 marzo 1865, n. 3248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;3248), che detta disposizioni di carattere generale in materia di strade provinciali;
+Visto l'art. 14 dell'allegato F alla [legge 20 marzo 1865, n. 3248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;3248), che detta disposizioni di carattere generale in materia di strade provinciali;
 
-Visto il [R. decreto 24 febbraio 1870, n. 5542](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-02-24;5542), con cui fra le altre fu dichiarata provinciale la strada Casale-Mortara e ne fu assegnata alla provincia di Alessandria la parte che da Casale, passando per Terranova, va fino alla Roggia Bona, limite della provincia di Pavia;
+Visto il [R. decreto 24 febbraio 1870, n. 5542](Che%20dichiara%20provinciali%20alcune%20strade%20scorrenti%20nella%20Provincia%20di%20Alessandria.%20070U5542.md), con cui fra le altre fu dichiarata provinciale la strada Casale-Mortara e ne fu assegnata alla provincia di Alessandria la parte che da Casale, passando per Terranova, va fino alla Roggia Bona, limite della provincia di Pavia;
 
 Ritenuto che di tale strada, circa 351 metri partendo dalla mezzaria della Roggia Bona ed andando verso Casale, scorrono nel territorio del comune di Motta dei Conti, appartenente alla provincia di Vercelli, succeduta a quella di Novara;
 
@@ -28,7 +26,7 @@ Visto il memoriale 27 novembre 1929, col quale il preside della Amministrazione 
 
 1° perche' la provincia di Vercelli non ritrae utile alcuno dal tratto di strada in esame, servendo esso a collegare esclusivamente Comuni della provincia di Alessandria non Comuni della provincia di Pavia, fra i quali si hanno attivi scambi commerciali, e non anche i Comuni della provincia di Vercelli adiacenti al tratto di strada in esame con i Comuni della provincia di Pavia avendo essi una identica produzione agricola;
 
-2° perche', cio' premesso, e' possibile derogare all'[art. 12 della legge 27 giugno 1869, n. 5147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1869-06-27;5147~art12), il quale sancisce il criterio della territorialita' per la competenza passiva della spesa;
+2° perche', cio' premesso, e' possibile derogare all'[art. 12 della legge 27 giugno 1869, n. 5147](Relativa%20alla%20costruzione%20di%20strade%20nazionali%20e%20provinciali%20nelle%20Provincie%20meridionali%20continentali.%20069U5147.md), il quale sancisce il criterio della territorialita' per la competenza passiva della spesa;
 
 Ritenuto invece che il tratto di strada in esame costituisce la piu' diretta comunicazione tra il Basso Vercellese e la Lomellina e che senza di esso occorrerebbe risalire la Sesia sino al ponte di Vercelli;
 
@@ -40,30 +38,24 @@ Visto il voto 12 febbraio 1936, n. 157, del Consiglio superiore dei lavori pubbl
 
 Visto il voto 10 marzo 1936, n. 136, del Consiglio di Stato;
 
-Visto l'[art. 12 della legge 27 giugno 1869, n. 5147](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1869-06-27;5147~art12);
+Visto l'[art. 12 della legge 27 giugno 1869, n. 5147](Relativa%20alla%20costruzione%20di%20strade%20nazionali%20e%20provinciali%20nelle%20Provincie%20meridionali%20continentali.%20069U5147.md);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-- A decorrere dal 4 marzo 1929 il tratto della strada Casale-Mortara scorrente in territorio della provincia di Vercelli per metri 351 circa a partire dalla mezzaria della Roggia Bona, gia' incluso nell'elenco delle strade della provincia di Alessandria, approvato con [R. decreto 24 febbraio 1870, n. 5542](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-02-24;5542), e' cancellato da tale elenco ed e' assegnato, con ogni obbligo relativo, alla provincia di Vercelli.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 aprile 1936 - Anno XIV   
-  
-VITTORIO EMANUELE   
-  
-COBOLLI-GIGLI   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 23 giugno 1936 - Anno XIV   
-  
-Atti del Governo, registro 374, foglio 153. - MANCINI.   
+- A decorrere dal 4 marzo 1929 il tratto della strada Casale-Mortara scorrente in territorio della provincia di Vercelli per metri 351 circa a partire dalla mezzaria della Roggia Bona, gia' incluso nell'elenco delle strade della provincia di Alessandria, approvato con [R. decreto 24 febbraio 1870, n. 5542](Che%20dichiara%20provinciali%20alcune%20strade%20scorrenti%20nella%20Provincia%20di%20Alessandria.%20070U5542.md), e' cancellato da tale elenco ed e' assegnato, con ogni obbligo relativo, alla provincia di Vercelli. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 aprile 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE 
+ 
+ COBOLLI-GIGLI 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 23 giugno 1936 - Anno XIV 
+ 
+ Atti del Governo, registro 374, foglio 153. - MANCINI.

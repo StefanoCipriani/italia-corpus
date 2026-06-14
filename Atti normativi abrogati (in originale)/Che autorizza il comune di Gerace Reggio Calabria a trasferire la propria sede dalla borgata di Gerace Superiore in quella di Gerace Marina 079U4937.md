@@ -1,16 +1,14 @@
-REGIO DECRETO 12 giugno 1879 n. 4937
-
-
-REGIO DECRETO 12 giugno 1879 n. 4937
-====================================
-
-Che autorizza il comune di Gerace (Reggio Calabria) a trasferire la propria sede dalla borgata di Gerace Superiore in quella di Gerace Marina (079U4937)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/07/1879
+---
+tipo: REGIO DECRETO
+numero: 4937
+data: 1879-06-12
+titolo: "Che autorizza il comune di Gerace (Reggio Calabria) a trasferire la propria sede dalla borgata di Gerace Superiore in quella di Gerace Marina (079U4937)"
+urn: urn:nir:stato:regio.decreto:1879-06-12;4937
+codice_redazionale: 079U4937
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,25 +22,18 @@ Vista la deliberazione del Consiglio provinciale di Reggio Calabria in data 14 o
 
 Vista la legge comunale e provinciale 20 marzo 1865, allegato A;
 
-Udito
------
+Udito il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
 
-il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Gerace, nella provincia di Reggio Calabria, e' autorizzato a trasferire la propria sede dalla borgata di Gerace Superiore in quella di Gerace Marina.   
-  
-Tale facolta' sara' esercitabile dalla data della pubblicazione del presente decreto a tutto il 31 dicembre 1880.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 giugno 1879.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
+Il comune di Gerace, nella provincia di Reggio Calabria, e' autorizzato a trasferire la propria sede dalla borgata di Gerace Superiore in quella di Gerace Marina. 
+ 
+ Tale facolta' sara' esercitabile dalla data della pubblicazione del presente decreto a tutto il 31 dicembre 1880. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 giugno 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.

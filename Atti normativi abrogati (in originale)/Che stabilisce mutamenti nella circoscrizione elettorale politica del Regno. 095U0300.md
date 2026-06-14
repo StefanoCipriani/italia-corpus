@@ -1,20 +1,17 @@
-REGIO DECRETO 21 aprile 1895 n. 300
+---
+tipo: REGIO DECRETO
+numero: 300
+data: 1895-04-21
+titolo: "Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0300)"
+urn: urn:nir:stato:regio.decreto:1895-04-21;300
+codice_redazionale: 095U0300
+vigente: true
+---
 
-
-REGIO DECRETO 21 aprile 1895 n. 300
-===================================
-
-Che stabilisce mutamenti nella circoscrizione elettorale politica del Regno. (095U0300)
----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/05/1895
-
-Art. 1
-------
+## Art. 1.
 
 Colla data del 21 aprile
 
-1895. 
-  
-  
+1895.
+
 N. 300. I Comuni di Borgo Velino e Castel St. Angelo sono costituiti in Sezione elettorale politica del Collegio di Cittaducale, con sede in Borgo Velino.

@@ -1,16 +1,14 @@
-REGIO DECRETO 03 dicembre 1905 n. 662
-
-
-REGIO DECRETO 03 dicembre 1905 n. 662
-=====================================
-
-Concernente l'emissione dei mandati di anticipazione a favore dell'economo-cassiere del Ministero d'agricoltura, industria e commercio (005U0662)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/06/1906
+---
+tipo: REGIO DECRETO
+numero: 662
+data: 1905-12-03
+titolo: "Concernente l'emissione dei mandati di anticipazione a favore dell'economo-cassiere del Ministero d'agricoltura, industria e commercio (005U0662)"
+urn: urn:nir:stato:regio.decreto:1905-12-03;662
+codice_redazionale: 005U0662
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,51 +22,36 @@ Ritenuto che per le speciali esigenze del Ministero di agricoltura, industria e 
 
 Sentito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, industria e commercio, di concerto con quello del tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro segretario di Stato per l'agricoltura, industria e commercio, di concerto con quello del tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Oltre che per le spese di cui al [R. decreto 26 novembre 1896, n. 513](Relativo%20al%20pagamento%20delle%20spese%20dUfficio%20dei%20Ministeri.%20096U0513.md), e al [R. decreto 29 maggio 1898, n. 206](Che%20autorizza%20a%20trarre%20anche%20mandati%20di%20anticipazione%20a%20favore%20degli%20economi-cassieri%20dei%20Ministeri%20sui%20capitoli%20di%20spesa%20destinati%20esclusivamente%20ai%20sussidi.%20098U0206.md), potranno essere tratti mandati di anticipazione a favore dell'economo-cassiere del Ministero di agricoltura, industria e commercio; 
+ 
+ a) sul capitolo delle spese di posta; 
+ 
+ b) sul capitolo per ispezioni e missioni all'interno ed all'estero, e rappresentanze a Congressi ed a Esposizioni, nonche' sui vari capitoli riguardanti indennita' di missione agli impiegati del Ministero, osservata per i capitoli di carattere promiscuo, la norma di limitare, con espressa avvertenza sui mandati, la erogazione delle somme anticipate alle sole indennita' predette; 
+ 
+ c) sui capitoli per le spese ed indennita' dell'Ufficio del lavoro, della Commissione consultiva per il Credito agrario e del Consiglio della previdenza, con l'espressa avvertenza di cui al comma precedente, e cioe', che le somme siano erogate solamente per le indennita' da pagarsi ai membri dei Consigli stessi e del Comitato permanente del lavoro; 
+ 
+ d) sui capitoli riguardanti: Mostre, Esposizioni e Congressi quando si presenti la necessita' di fare spese in economia.
 
-  
-  
-Oltre che per le spese di cui al [R. decreto 26 novembre 1896, n. 513](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-11-26;513), e al [R. decreto 29 maggio 1898, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-05-29;206), potranno essere tratti mandati di anticipazione a favore dell'economo-cassiere del Ministero di agricoltura, industria e commercio;   
-  
-a) sul capitolo delle spese di posta;   
-  
-b) sul capitolo per ispezioni e missioni all'interno ed all'estero, e rappresentanze a Congressi ed a Esposizioni, nonche' sui vari capitoli riguardanti indennita' di missione agli impiegati del Ministero, osservata per i capitoli di carattere promiscuo, la norma di limitare, con espressa avvertenza sui mandati, la erogazione delle somme anticipate alle sole indennita' predette;   
-  
-c) sui capitoli per le spese ed indennita' dell'Ufficio del lavoro, della Commissione consultiva per il Credito agrario e del Consiglio della previdenza, con l'espressa avvertenza di cui al comma precedente, e cioe', che le somme siano erogate solamente per le indennita' da pagarsi ai membri dei Consigli stessi e del Comitato permanente del lavoro;   
-  
-d) sui capitoli riguardanti: Mostre, Esposizioni e Congressi quando si presenti la necessita' di fare spese in economia.   
-  
+## Art. 2.
 
-Art. 2
-------
+Alle anticipazioni, di cui al precedente articolo, sono applicabili le procedure e le cautele speciali prescritte nel gia' citato [R. decreto 26 novembre 1896, n. 513](Relativo%20al%20pagamento%20delle%20spese%20dUfficio%20dei%20Ministeri.%20096U0513.md), per la gestione degli economi-cassieri dei Ministeri.
 
-  
-  
-Alle anticipazioni, di cui al precedente articolo, sono applicabili le procedure e le cautele speciali prescritte nel gia' citato [R. decreto 26 novembre 1896, n. 513](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-11-26;513), per la gestione degli economi-cassieri dei Ministeri.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-La emissione dei mandati di anticipazione sara' sempre limitata ai casi di assoluta necessita' ed urgenza per i quali non sia possibile di provvedere con mandati diretti a favore dei creditori e per non oltre L. 30,000 complessive.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 dicembre 1905.   
-  
-VITTORIO EMANUELE.   
-  
-A.Fortis.   
-Carcano.   
-Rava.   
-  
-Visto, Il guardasigilli: C. Finocchiaro-Aprile.   
-  
+La emissione dei mandati di anticipazione sara' sempre limitata ai casi di assoluta necessita' ed urgenza per i quali non sia possibile di provvedere con mandati diretti a favore dei creditori e per non oltre L. 30,000 complessive. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 dicembre 1905. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ A.Fortis. 
+ Carcano. 
+ Rava. 
+ 
+ Visto, Il guardasigilli: C. Finocchiaro-Aprile.

@@ -1,19 +1,15 @@
-REGIO DECRETO 31 agosto 1910 n. CCCLIX
+---
+tipo: REGIO DECRETO
+numero: CCCLIX
+data: 1910-08-31
+titolo: "Col quale il comune di Altamura e' autorizzato ad applicare, nell'anno 1910, la tassa di famiglia. (1000359R)"
+urn: urn:nir:stato:regio.decreto:1910-08-31;359
+codice_redazionale: 1000359R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 31 agosto 1910 n. CCCLIX
-======================================
-
-Col quale il comune di Altamura e' autorizzato ad applicare, nell'anno 1910, la tassa di famiglia. (1000359R)
--------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 29/10/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CCCLIX (Dato a Venezia, il 31 agosto 1910), col quale e' data facolta' al comune di Altamura di applicare, nell'anno 1910, la tassa di famiglia in misura eccedente i limiti normali.   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CCCLIX (Dato a Venezia, il 31 agosto 1910), col quale e' data facolta' al comune di Altamura di applicare, nell'anno 1910, la tassa di famiglia in misura eccedente i limiti normali.

@@ -1,50 +1,42 @@
-REGIO DECRETO 07 dicembre 1933 n. 1983
-
-
-REGIO DECRETO 07 dicembre 1933 n. 1983
-======================================
-
-Partecipazione degli ispettori agrari compartimentali alle sedute dei Consigli di amministrazione degli Istituti zootecnici consorziali. (033U1983)
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/02/1934
+---
+tipo: REGIO DECRETO
+numero: 1983
+data: 1933-12-07
+titolo: "Partecipazione degli ispettori agrari compartimentali alle sedute dei Consigli di amministrazione degli Istituti zootecnici consorziali. (033U1983)"
+urn: urn:nir:stato:regio.decreto:1933-12-07;1983
+codice_redazionale: 033U1983
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Vista la [legge 6 luglio 1912, n. 832](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;832), concernente provvedimenti a tutela e ad incremento della produzione zootecnica nazionale;
+Vista la [legge 6 luglio 1912, n. 832](Concernente%20provvedimenti%20a%20tutela%20e%20ad%20incremento%20della%20produzione%20zootecnica%20nazionale.%20012U0832.md), concernente provvedimenti a tutela e ad incremento della produzione zootecnica nazionale;
 
-Visto il [R. decreto 6 settembre 1923, n. 2125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-06;2125);
+Visto il [R. decreto 6 settembre 1923, n. 2125](Costituzione%20e%20ordinamento%20degli%20uffici%20e%20dei%20servizi%20del%20Ministero%20delleconomia%20nazionale.%20023U2125.md);
 
 Visto l'art. 2, comma a), del R. decreto 18 novembre 1929-VIII, n. 2071, con il quale gli ispettori agrari vengono chiamati a coordinare e invigilare, nei riguardi tecnici, l'attivita' degli organi locali dipendenti o sottoposti alla vigilanza del Ministero dell'agricoltura;
 
 Ritenuta la opportunita' che gli ispettori agrari partecipino alle adunanze dei Consigli di amministrazione degli Istituti zootecnici ai fini del migliore coordinamento dell'azione che i vari enti locali svolgono in favore della produzione zootecnica;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e le foreste; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'agricoltura e le foreste; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Gli ispettori agrari compartimentali partecipano alle sedute dei Consigli di amministrazione degli Istituti zootecnici consorziali autonomi aventi sede nelle rispettive circoscrizioni territoriali, e regolati dalla [legge 6 luglio 1912, n. 832](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;832), e sue successive modificazioni.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 7 dicembre 1933 - Anno XII   
-  
-VITTORIO EMANUELE   
-  
-ACERBO.   
-  
-Visto, il Guardasigilli: DE FRANCISCI.   
-  
-Registrato alla Corte dei conti, addi' 1° febbraio 1934 - Anno XII   
-Atti del Governo, registro 344, foglio 4. - MANCINI.   
+Gli ispettori agrari compartimentali partecipano alle sedute dei Consigli di amministrazione degli Istituti zootecnici consorziali autonomi aventi sede nelle rispettive circoscrizioni territoriali, e regolati dalla [legge 6 luglio 1912, n. 832](Concernente%20provvedimenti%20a%20tutela%20e%20ad%20incremento%20della%20produzione%20zootecnica%20nazionale.%20012U0832.md), e sue successive modificazioni. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 dicembre 1933 - Anno XII 
+ 
+ VITTORIO EMANUELE 
+ 
+ ACERBO. 
+ 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ 
+ Registrato alla Corte dei conti, addi' 1° febbraio 1934 - Anno XII  
+ Atti del Governo, registro 344, foglio 4. - MANCINI.

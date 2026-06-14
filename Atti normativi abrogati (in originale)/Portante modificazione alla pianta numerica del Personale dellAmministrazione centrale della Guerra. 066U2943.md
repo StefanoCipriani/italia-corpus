@@ -1,16 +1,14 @@
-REGIO DECRETO 31 maggio 1866 n. 2943
-
-
-REGIO DECRETO 31 maggio 1866 n. 2943
-====================================
-
-Portante modificazione alla pianta numerica del Personale dell'Amministrazione centrale della Guerra. (066U2943)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/06/1866
+---
+tipo: REGIO DECRETO
+numero: 2943
+data: 1866-05-31
+titolo: "Portante modificazione alla pianta numerica del Personale dell'Amministrazione centrale della Guerra. (066U2943)"
+urn: urn:nir:stato:regio.decreto:1866-05-31;2943
+codice_redazionale: 066U2943
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,29 +20,22 @@ Considerando che l'esperienza ha dimostrato la necessita' di modificare, nell'in
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposizione del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo quanto segue:
 
-proposizione del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A partire dal 1° luglio del 1866, la pianta numerica del Personale dell'Amministrazione centrale della Guerra stabilita dall'art. 1 del succitato Nostro Decreto, e' ridotta di otto Capi-Sezione, ed aumentata di quattro Applicati per ciascuna classe.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 31 maggio 1866.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 3 giugno 1866   
-  
-Reg.° 36 Atti del Governo a c. 63. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-Pettinengo.   
-  
+A partire dal 1° luglio del 1866, la pianta numerica del Personale dell'Amministrazione centrale della Guerra stabilita dall'art. 1 del succitato Nostro Decreto, e' ridotta di otto Capi-Sezione, ed aumentata di quattro Applicati per ciascuna classe. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 31 maggio 1866. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 3 giugno 1866 
+ 
+ Reg.° 36 Atti del Governo a c. 63. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ Pettinengo.

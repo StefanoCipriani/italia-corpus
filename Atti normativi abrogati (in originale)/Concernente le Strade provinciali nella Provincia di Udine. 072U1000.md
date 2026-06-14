@@ -1,16 +1,14 @@
-REGIO DECRETO 24 agosto 1872 n. 1000
-
-
-REGIO DECRETO 24 agosto 1872 n. 1000
-====================================
-
-Concernente le Strade provinciali nella Provincia di Udine. (072U1000)
-----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/10/1872
+---
+tipo: REGIO DECRETO
+numero: 1000
+data: 1872-08-24
+titolo: "Concernente le Strade provinciali nella Provincia di Udine. (072U1000)"
+urn: urn:nir:stato:regio.decreto:1872-08-24;1000
+codice_redazionale: 072U1000
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -60,26 +58,19 @@ Che per contro la strada da S. Giorgio di Nogaro al Taglio si dirama a S. Giorgi
 
 Sentito l'avviso del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per i Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per i Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' aggiunta alle strade provinciali di Udine quella che da S.  
-Giorgio di Nogaro per Torre Zuino giunge al fiume Taglio sulla frontiera Austriaca, lasciando all'Autorita' competente di provvedere per la classificazione della strada da Cividale all'Iudri a senso di Legge.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 24 agosto 1872.   
-  
-VITTORIO EMANUELE   
-  
-G. De Vincenzi.   
-  
-Visto, Il Guardasigilli: De Falco.   
-  
+E' aggiunta alle strade provinciali di Udine quella che da S.
+Giorgio di Nogaro per Torre Zuino giunge al fiume Taglio sulla frontiera Austriaca, lasciando all'Autorita' competente di provvedere per la classificazione della strada da Cividale all'Iudri a senso di Legge. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 24 agosto 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ G. De Vincenzi. 
+ 
+ Visto, Il Guardasigilli: De Falco.

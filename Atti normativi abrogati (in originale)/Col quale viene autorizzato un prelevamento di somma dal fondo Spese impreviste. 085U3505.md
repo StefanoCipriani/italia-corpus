@@ -1,16 +1,14 @@
-REGIO DECRETO 05 novembre 1885 n. 3505
-
-
-REGIO DECRETO 05 novembre 1885 n. 3505
-======================================
-
-Col quale viene autorizzato un prelevamento di somma dal fondo Spese impreviste. (085U3505)
--------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/12/1885
+---
+tipo: REGIO DECRETO
+numero: 3505
+data: 1885-11-05
+titolo: "Col quale viene autorizzato un prelevamento di somma dal fondo Spese impreviste. (085U3505)"
+urn: urn:nir:stato:regio.decreto:1885-11-05;3505
+codice_redazionale: 085U3505
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,20 @@ Visto che sul fondo di lire 4,000,000, inscritto per le Spese impreviste nello s
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze ed incaricato degli affari del Tesoro, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le Finanze ed incaricato degli affari del Tesoro, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Dal fondo di riserva per le Spese impreviste, inscritto al capitolo n. 84 dello stato di previsione della spesa del Ministero del Tesoro per l'esercizio finanziario pel 1885-86, approvato colla [legge 28 giugno 1885, n. 3172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-06-28;3172) (Serie 3ª), e' autorizzata una diciottesima prelevazione nella somma di lire duemiladieci (L. 2010), da inscriversi al nuovo capitolo n. 122-ter: Costruzione di una caserma alle saline di Cervia (Ravenna) ad uso della guardia di finanza, dello stato di previsione della spesa del Ministero delle Finanze per l'esercizio medesimo.   
-  
-Questo decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 5 novembre 1885.   
-  
-UMBERTO.   
-  
-A. Magliani.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+Dal fondo di riserva per le Spese impreviste, inscritto al capitolo n. 84 dello stato di previsione della spesa del Ministero del Tesoro per l'esercizio finanziario pel 1885-86, approvato colla [legge 28 giugno 1885, n. 3172](Che%20approva%20lo%20Stato%20di%20previsione%20per%20lesercizio%20finanziario%201885-86%20del%20Ministero%20del%20Tesoro.%20085U3172.md) (Serie 3ª), e' autorizzata una diciottesima prelevazione nella somma di lire duemiladieci (L. 2010), da inscriversi al nuovo capitolo n. 122-ter: Costruzione di una caserma alle saline di Cervia (Ravenna) ad uso della guardia di finanza, dello stato di previsione della spesa del Ministero delle Finanze per l'esercizio medesimo. 
+ 
+ Questo decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 5 novembre 1885. 
+ 
+ UMBERTO. 
+ 
+ A. Magliani. 
+ 
+ Visto, Il Guardasigilli: Tajani.

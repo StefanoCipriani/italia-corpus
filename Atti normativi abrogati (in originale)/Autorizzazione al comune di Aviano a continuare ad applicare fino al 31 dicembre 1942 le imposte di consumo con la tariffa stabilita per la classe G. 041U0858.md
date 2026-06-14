@@ -1,16 +1,14 @@
-REGIO DECRETO 08 agosto 1941 n. 858
-
-
-REGIO DECRETO 08 agosto 1941 n. 858
-===================================
-
-Autorizzazione al comune di Aviano a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo con la tariffa stabilita per la classe G. (041U0858)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/09/1941
+---
+tipo: REGIO DECRETO
+numero: 858
+data: 1941-08-08
+titolo: "Autorizzazione al comune di Aviano a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo con la tariffa stabilita per la classe G. (041U0858)"
+urn: urn:nir:stato:regio.decreto:1941-08-08;858
+codice_redazionale: 041U0858
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,28 +24,22 @@ Visto il parere della Commissione centrale per la finanza locale espresso nella 
 
 Visto l'art. 26 del testo unico sulla finanza locale, approvato con Nostro decreto 14 settembre 1931, n. 1175;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Aviano e' autorizzato a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo con la tariffa stabilita per la classe G.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 8 agosto 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI.   
-  
-Registralo alla Corte dei conti, addi' 26 agosto 1941-XIX   
-  
-Atti del Governo, registro 436, foglio 90. - MANCINI   
+Il comune di Aviano e' autorizzato a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo con la tariffa stabilita per la classe G. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 8 agosto 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI. 
+ 
+ Registralo alla Corte dei conti, addi' 26 agosto 1941-XIX 
+ 
+ Atti del Governo, registro 436, foglio 90. - MANCINI

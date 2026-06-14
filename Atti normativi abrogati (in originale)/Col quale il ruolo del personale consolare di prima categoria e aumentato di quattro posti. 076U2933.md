@@ -1,16 +1,14 @@
-REGIO DECRETO 13 gennaio 1876 n. 2933
-
-
-REGIO DECRETO 13 gennaio 1876 n. 2933
-=====================================
-
-Col quale il ruolo del personale consolare di prima categoria e' aumentato di quattro posti. (076U2933)
--------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/02/1876
+---
+tipo: REGIO DECRETO
+numero: 2933
+data: 1876-01-13
+titolo: "Col quale il ruolo del personale consolare di prima categoria e' aumentato di quattro posti. (076U2933)"
+urn: urn:nir:stato:regio.decreto:1876-01-13;2933
+codice_redazionale: 076U2933
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,31 +20,24 @@ Vista la tabella A annessa al Nostro decreto 25 gennaio 1872;
 
 Visto il Nostro decreto 19 gennaio 1873;
 
-Vista la [legge 23 dicembre 1875, n. 2829](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1875-12-23;2829) (Serie 2ª), con cui fu approvato il bilancio di prima previsione delle spese del Ministero degli Affari Esteri per l'anno 1875;
+Vista la [legge 23 dicembre 1875, n. 2829](Che%20approva%20lo%20stato%20di%20prima%20previsione%20della%20spesa%20del%20Ministero%20degli%20affari%20esteri%20per%20lanno%201876.%20075U2829.md) (Serie 2ª), con cui fu approvato il bilancio di prima previsione delle spese del Ministero degli Affari Esteri per l'anno 1875;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il ruolo del personale consolare di 1ª categoria e' aumentato di   
-  
-1 Viceconsole di 1ª classe . . . L. 3000   
-1 Id. di 2ª classe . . . » 2500   
-2 Id. di 3ª classe . . . » 4000   
------   
-Totale . . . L. 9500   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 gennaio 1876.   
-  
-VITTORIO EMANUELE.   
-  
-Visconti-Venosta.   
-  
+Il ruolo del personale consolare di 1ª categoria e' aumentato di 
+ 
+ 1 Viceconsole di 1ª classe . . . L. 3000 
+ 1 Id. di 2ª classe . . . » 2500 
+ 2 Id. di 3ª classe . . . » 4000 
+ ----- 
+ Totale . . . L. 9500 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 gennaio 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Visconti-Venosta.

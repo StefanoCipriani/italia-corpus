@@ -1,21 +1,17 @@
-REGIO DECRETO 05 luglio 1896 n. CCLXXXI
+---
+tipo: REGIO DECRETO
+numero: CCLXXXI
+data: 1896-07-05
+titolo: "Con cui si trasformano i monti frumentari di Amatrice (Aquila) in una cassa di prestanze agrarie e se ne affida l'amministrazione alla locale congregazione di carita'. (9600281R)"
+urn: urn:nir:stato:regio.decreto:1896-07-05;281
+codice_redazionale: 9600281R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 luglio 1896 n. CCLXXXI
-=======================================
-
-Con cui si trasformano i monti frumentari di Amatrice (Aquila) in una cassa di prestanze agrarie e se ne affida l'amministrazione alla locale congregazione di carita'. (9600281R)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/08/1896
-
-Art. 1
-------
-
-  
-Con cui si trasformano i monti frumentari di Amatrice (Aquila) in una cassa di prestanze agrarie e se ne affida l'amministrazione alla locale congregazione di carita'. - Firmato UMBERTO - Contrassegnato Rudini' - Visto G. Costa.   
-  
-Registrato alla Corte dei Conti addi' 21 luglio 1896.   
-  
-Reg. 206. Atti del Governo a f. 221.   
-  
+Con cui si trasformano i monti frumentari di Amatrice (Aquila) in una cassa di prestanze agrarie e se ne affida l'amministrazione alla locale congregazione di carita'. - Firmato UMBERTO - Contrassegnato Rudini' - Visto G. Costa. 
+ 
+ Registrato alla Corte dei Conti addi' 21 luglio 1896. 
+ 
+ Reg. 206. Atti del Governo a f. 221.

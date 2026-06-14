@@ -1,21 +1,21 @@
-REGIO DECRETO 20 dicembre 1932 n. 1693
+---
+tipo: REGIO DECRETO
+numero: 1693
+data: 1932-12-20
+titolo: "Ordinamento e ripartizione in uffici del Comando del Corpo di stato maggiore. (032U1693)"
+urn: urn:nir:stato:regio.decreto:1932-12-20;1693
+codice_redazionale: 032U1693
+vigente: true
+---
 
-
-REGIO DECRETO 20 dicembre 1932 n. 1693
-======================================
-
-Ordinamento e ripartizione in uffici del Comando del Corpo di stato maggiore. (032U1693)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/01/1933
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1693. R. decreto 20 dicembre 1932, col quale, sulla proposta del Ministro per la guerra, vengono date disposizioni riguardanti l'ordinamento e la ripartizione in uffici del Comando del Corpo di stato maggiore.   
-  
-Visto, il Guardasigilli: De Francisci.   
-  
-Registrato alla Corte dei conti, addi' 4 gennaio 1933 - Anno XI.
+1693.
+
+R. decreto 20 dicembre 1932, col quale, sulla proposta del Ministro per la guerra, vengono date disposizioni riguardanti l'ordinamento e la ripartizione in uffici del Comando del Corpo di stato maggiore. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 4 gennaio 1933 - Anno XI.

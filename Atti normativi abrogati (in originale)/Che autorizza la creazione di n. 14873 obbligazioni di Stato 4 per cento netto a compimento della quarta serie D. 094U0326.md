@@ -1,26 +1,24 @@
-REGIO DECRETO 12 luglio 1894 n. 326
-
-
-REGIO DECRETO 12 luglio 1894 n. 326
-===================================
-
-Che autorizza la creazione di n. 14873 obbligazioni di Stato 4 per cento netto, a compimento della quarta serie D. (094U0326)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/07/1894
+---
+tipo: REGIO DECRETO
+numero: 326
+data: 1894-07-12
+titolo: "Che autorizza la creazione di n. 14873 obbligazioni di Stato 4 per cento netto, a compimento della quarta serie D. (094U0326)"
+urn: urn:nir:stato:regio.decreto:1894-07-12;326
+codice_redazionale: 094U0326
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visto l'[art. 3 della legge 27 aprile 1885, n. 3048](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-04-27;3048~art3) (serie 3ª);
+Visto l'[art. 3 della legge 27 aprile 1885, n. 3048](Concernente%20lesercizio%20delle%20reti%20Mediterranea%20Adriatica%20e%20Sicula%20e%20costruzione%20delle%20strade%20ferrate%20complementari.%20085U3048.md) (serie 3ª);
 
-Veduta la [legge 2 luglio 1890, n. 6930](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-02;6930) (serie 3ª), con la quale venne stabilita la emissione di obbligazioni di Stato 4 per cento esenti da ritenuta per qualsiasi imposta presente e futura;
+Veduta la [legge 2 luglio 1890, n. 6930](Con%20la%20quale%20si%20provvede%20a%20che%20le%20spese%20fatte%20con%20emissione%20di%20Obbligazioni%20ferroviarie%203%20%20siano%20fatte%20da%20ora%20innanzi%20mediante%20emissione%20di%20Obbligazioni%20di%20Stato%20del%20valore%20nominale%20di%20li_0fd73b4fdaa0.md) (serie 3ª), con la quale venne stabilita la emissione di obbligazioni di Stato 4 per cento esenti da ritenuta per qualsiasi imposta presente e futura;
 
-Veduto il [regio decreto 23 agosto 1890, n. 7078](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-08-23;7078), che stabilisce le norme di esecuzione della precitata [legge 2 luglio 1890, n. 6930](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-02;6930);
+Veduto il [regio decreto 23 agosto 1890, n. 7078](Che%20autorizza%20la%20Direzione%20Generale%20del%20Debito%20pubblico%20ad%20emettere%20le%20obbligazioni%20di%20Stato%20del%20valore%20nominale%20di%20lire%20cinquecento%20di%20cui%20la%20legge%202%20luglio%201890%20n.%206930%20Serie%203ª.%20090U7078.md), che stabilisce le norme di esecuzione della precitata [legge 2 luglio 1890, n. 6930](Con%20la%20quale%20si%20provvede%20a%20che%20le%20spese%20fatte%20con%20emissione%20di%20Obbligazioni%20ferroviarie%203%20%20siano%20fatte%20da%20ora%20innanzi%20mediante%20emissione%20di%20Obbligazioni%20di%20Stato%20del%20valore%20nominale%20di%20li_0fd73b4fdaa0.md);
 
 Veduti i reali decreti 6 settembre 1890, n. 7079, 6 luglio 1891, n. 339, 28 giugno 1892, n. 305, 2 marzo, 4 maggio, 4 giugno e 23 luglio 1893, nn. 60, 214, 263, 408, con i quali venne provveduto alla creazione di n. 661,576 obbligazioni di Stato 4 per cento netto di cui n. 323500 di serie A, n. 193500 di serie B, n. 79226 di serie C e n. 65350 di serie D;
 
@@ -62,7 +60,7 @@ corrispondente importo di rendita consolidato
 
 somma di . . . . . . . . . . . . . . . . . . . » 310,394 --
 
-Vista la [legge 12 luglio 1894, n. 289](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-12;289),
+Vista la [legge 12 luglio 1894, n. 289](Che%20approva%20le%20variazioni%20per%20lassestamento%20del%20bilancio%20di%20previsione%20dellesercizio%20finanziario%201893-94.%20094U0289.md),
 
 d'assestamento del bilancio per l'esercizio
 
@@ -82,45 +80,30 @@ Ritenuto che per il momento possa limitarsi a sole lire 5,913,000 la somma da pr
 
 Salvo e riservato ogni effetto della liquidazione finale e di saldo;
 
-Sulla
------
+Sulla proposta del Nostro ministro del tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro del tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' autorizzata la creazione di n. 14783 obbligazioni di Stato a compimento della quarta serie D, ammortizzabili e fruttanti interesse del 4 per cento, esente da ritenuta per qualunque siasi imposta presente e futura di cui alla [legge 2 luglio 1890, n. 6930](Con%20la%20quale%20si%20provvede%20a%20che%20le%20spese%20fatte%20con%20emissione%20di%20Obbligazioni%20ferroviarie%203%20%20siano%20fatte%20da%20ora%20innanzi%20mediante%20emissione%20di%20Obbligazioni%20di%20Stato%20del%20valore%20nominale%20di%20li_0fd73b4fdaa0.md).
 
-  
-  
-E' autorizzata la creazione di n. 14783 obbligazioni di Stato a compimento della quarta serie D, ammortizzabili e fruttanti interesse del 4 per cento, esente da ritenuta per qualunque siasi imposta presente e futura di cui alla [legge 2 luglio 1890, n. 6930](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-02;6930).   
-  
+## Art. 2.
 
-Art. 2
-------
+Le obbligazioni di cui al precedente articolo avranno la decorrenza degli interessi dal 1° aprile 1894, saranno ripartite per un decimo in titoli unitari da lire 500 ciascuno, per quattro decimi in titoli quintupli da lire 2,500 ciascuno, e per cinque decimi in titoli decupli da lire 5,000 ciascuno, ed avranno gli stessi segni caratteristici indicati nell'[art. 3 del regio decreto 6 settembre 1890, numero 7079](Che%20autorizza%20la%20creazione%20della%20prima%20serie%20A%20di%20numero%20325500%20obbligazioni%20di%20Stato%20ammortizzabili%20fruttanti%20linteresse%20del%204.%20090U7079.md).
 
-  
-  
-Le obbligazioni di cui al precedente articolo avranno la decorrenza degli interessi dal 1° aprile 1894, saranno ripartite per un decimo in titoli unitari da lire 500 ciascuno, per quattro decimi in titoli quintupli da lire 2,500 ciascuno, e per cinque decimi in titoli decupli da lire 5,000 ciascuno, ed avranno gli stessi segni caratteristici indicati nell'[art. 3 del regio decreto 6 settembre 1890, numero 7079](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-09-06;7079~art3).   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Le obbligazioni di cui al precedente articolo potranno, agli effetti di che all'[art. 4 della legge 29 giugno 1893, n. 330](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-06-29;330~art4), e cioe' per il loro deposito nella cassa dei depositi e prestiti a garanzia dei biglietti di Stato, essere rappresentate da apposito certificato a firma del Nostro ministro del tesoro col visto della corte dei conti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 12 luglio 1894.   
-  
-UMBERTO   
-  
-Registrato alla Corte dei conti con riserva addi' 31 luglio 1894.   
-  
-Reg. 195. Atti del Governo a f. 308. G. Cappiello.   
-  
-Luogo del Sigillo. V. Il Guardasigilli V. CALENDA.   
-  
-Sidney Sonnino.   
-  
+Le obbligazioni di cui al precedente articolo potranno, agli effetti di che all'[art. 4 della legge 29 giugno 1893, n. 330](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20del%20tesoro%20per%20lesercizio%20finanziario%201893-94%20093U0330.md), e cioe' per il loro deposito nella cassa dei depositi e prestiti a garanzia dei biglietti di Stato, essere rappresentate da apposito certificato a firma del Nostro ministro del tesoro col visto della corte dei conti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 luglio 1894. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti con riserva addi' 31 luglio 1894. 
+ 
+ Reg. 195. Atti del Governo a f. 308. G. Cappiello. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli V. CALENDA. 
+ 
+ Sidney Sonnino.

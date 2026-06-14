@@ -1,16 +1,14 @@
-REGIO DECRETO 11 marzo 1880 n. 5346
-
-
-REGIO DECRETO 11 marzo 1880 n. 5346
-===================================
-
-Che separa il comune di Santa Margherita Ligure dalla sezione principale del collegio elettorale di Rapallo o forma una sezione distinta dello stesso collegio. (080U5346)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/04/1880
+---
+tipo: REGIO DECRETO
+numero: 5346
+data: 1880-03-11
+titolo: "Che separa il comune di Santa Margherita Ligure dalla sezione principale del collegio elettorale di Rapallo o forma una sezione distinta dello stesso collegio. (080U5346)"
+urn: urn:nir:stato:regio.decreto:1880-03-11;5346
+codice_redazionale: 080U5346
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,26 +24,19 @@ Che gli elettori di Santa Margherita sono 391 numero questo di molto superiore a
 
 Considerato che con la istituzione della sezione di Santa Margherita Ligure si agevola l'esercizio del diritto elettorale ad un ragguardevole numero di elettori;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Santa Margherita Ligure e' separato dalla sezione principale del Collegio elettorale di Rapallo e formera' una sezione distinta dello stesso Collegio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 marzo 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il comune di Santa Margherita Ligure e' separato dalla sezione principale del Collegio elettorale di Rapallo e formera' una sezione distinta dello stesso Collegio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

@@ -1,17 +1,17 @@
-REGIO DECRETO 04 ottobre 1920 n. 1552
+---
+tipo: REGIO DECRETO
+numero: 1552
+data: 1920-10-04
+titolo: "Autorizzazione a Comuni per applicazione di tassa di soggiorno. (020U1552)"
+urn: urn:nir:stato:regio.decreto:1920-10-04;1552
+codice_redazionale: 020U1552
+vigente: true
+---
 
-
-REGIO DECRETO 04 ottobre 1920 n. 1552
-=====================================
-
-Autorizzazione a Comuni per applicazione di tassa di soggiorno. (020U1552)
---------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/12/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1552. Regio decreto 4 ottobre 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, si autorizza il comune di Stresa ad applicare la tassa di soggiorno e se ne omologa il regolamento.
+1552.
+
+Regio decreto 4 ottobre 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, si autorizza il comune di Stresa ad applicare la tassa di soggiorno e se ne omologa il regolamento.

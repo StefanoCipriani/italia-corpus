@@ -1,21 +1,17 @@
-REGIO DECRETO 18 agosto 1895 n. DLXXVI
+---
+tipo: REGIO DECRETO
+numero: DLXXVI
+data: 1895-08-18
+titolo: "Che concentra l'opera pia Tommaso Cattaneo Bava nella congregazione di carita' di Genova. (9500576R)"
+urn: urn:nir:stato:regio.decreto:1895-08-18;576
+codice_redazionale: 9500576R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 agosto 1895 n. DLXXVI
-======================================
-
-Che concentra l'opera pia Tommaso Cattaneo Bava nella congregazione di carita' di Genova. (9500576R)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/12/1895
-
-Art. 1
-------
-
-  
-Con cui l'opera pia Tommaso Cattaneo Bava e' concentrata nella congregazione di carita' di Genova. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei conti addi' 6 dicembre 1895.   
-  
-Reg. 202. Atti del Governo a f. 169.   
-  
+Con cui l'opera pia Tommaso Cattaneo Bava e' concentrata nella congregazione di carita' di Genova. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei conti addi' 6 dicembre 1895. 
+ 
+ Reg. 202. Atti del Governo a f. 169.

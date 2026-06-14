@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 06 gennaio 1918 n. 283
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 283
+data: 1918-01-06
+titolo: "Annullamento di partita. (018U0283)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-01-06;283
+codice_redazionale: 018U0283
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 06 gennaio 1918 n. 283
-==============================================
-
-Annullamento di partita. (018U0283)
------------------------------------
-
-Entrata in vigore del provvedimento: 04/04/1918
-
-Art. 1
-------
-
-null
+## Art. 1. — null

@@ -1,21 +1,17 @@
-REGIO DECRETO 03 luglio 1902 n. CCXLI
+---
+tipo: REGIO DECRETO
+numero: CCXLI
+data: 1902-07-03
+titolo: "Che approva il nuovo statuto del monte di pieta' di Velletri. (0200241R)"
+urn: urn:nir:stato:regio.decreto:1902-07-03;241
+codice_redazionale: 0200241R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 luglio 1902 n. CCXLI
-=====================================
-
-Che approva il nuovo statuto del monte di pieta' di Velletri. (0200241R)
-------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/08/1902
-
-Art. 1
-------
-
-  
-Che approva il nuovo statuto del monte di pieta' di Velletri. - Firmato VITTORIO EMANUELE - Controfirmati G. Baccelli, Giolitti - Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 7 agosto 1902.   
-  
-Reg. 4. Atti del Governo a f. 138.   
-  
+Che approva il nuovo statuto del monte di pieta' di Velletri. - Firmato VITTORIO EMANUELE - Controfirmati G. Baccelli, Giolitti - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 7 agosto 1902. 
+ 
+ Reg. 4. Atti del Governo a f. 138.

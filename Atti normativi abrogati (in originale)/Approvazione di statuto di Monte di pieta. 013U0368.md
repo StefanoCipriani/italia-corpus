@@ -1,19 +1,15 @@
-REGIO DECRETO 03 aprile 1913 n. 368
+---
+tipo: REGIO DECRETO
+numero: 368
+data: 1913-04-03
+titolo: "Approvazione di statuto di Monte di pieta'. (013U0368)"
+urn: urn:nir:stato:regio.decreto:1913-04-03;368
+codice_redazionale: 013U0368
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 03 aprile 1913 n. 368
-===================================
-
-Approvazione di statuto di Monte di pieta'. (013U0368)
-------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/05/1913
-
-Art. 1
-------
-
-  
-N. 368   
-  
-Regio Decreto 3 aprile 1913, col quale, sulla proposta del ministro di agricoltura, industria e commercio, di concerto col ministro dell'interno, viene approvato lo statuto del Monte di pieta' di Ravenna.   
-  
+N. 368 
+ 
+ Regio Decreto 3 aprile 1913, col quale, sulla proposta del ministro di agricoltura, industria e commercio, di concerto col ministro dell'interno, viene approvato lo statuto del Monte di pieta' di Ravenna.

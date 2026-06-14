@@ -1,21 +1,21 @@
-REGIO DECRETO 06 maggio 1929 n. 906
+---
+tipo: REGIO DECRETO
+numero: 906
+data: 1929-05-06
+titolo: "Approvazione del nuovo statuto della « Societa' dei naturalisti », in Napoli. (029U0906)"
+urn: urn:nir:stato:regio.decreto:1929-05-06;906
+codice_redazionale: 029U0906
+vigente: true
+---
 
-
-REGIO DECRETO 06 maggio 1929 n. 906
-===================================
-
-Approvazione del nuovo statuto della « Societa' dei naturalisti », in Napoli. (029U0906)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/06/1929
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-906. R decreto 6 maggio 1929, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto della « Societa' dei naturalisti » di Napoli.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 8 giugno 1929 - Anno VII
+906.
+
+R decreto 6 maggio 1929, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto della « Societa' dei naturalisti » di Napoli. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 8 giugno 1929 - Anno VII

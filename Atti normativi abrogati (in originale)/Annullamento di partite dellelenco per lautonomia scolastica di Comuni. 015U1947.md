@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 12 dicembre 1915 n. 1947
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1947
+data: 1915-12-12
+titolo: "Annullamento di partite dell'elenco per l'autonomia scolastica di Comuni. (015U1947)"
+urn: urn:nir:stato:decreto.luogotenenziale:1915-12-12;1947
+codice_redazionale: 015U1947
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 12 dicembre 1915 n. 1947
-================================================
-
-Annullamento di partite dell'elenco per l'autonomia scolastica di Comuni. (015U1947)
-------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/02/1916
-
-Art. 1
-------
-
-null
+## Art. 1. — null

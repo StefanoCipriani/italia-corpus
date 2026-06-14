@@ -1,16 +1,14 @@
-REGIO DECRETO 15 luglio 1900 n. 290
-
-
-REGIO DECRETO 15 luglio 1900 n. 290
-===================================
-
-Che modifica in parte le disposizioni relative alle cauzioni dei funzionari di gestione e di controllo alla dipendenza della Direzione generale del tesoro compresi nel ruolo organico, approvato col regio decreto 11 luglio 1899, n. 319. (000U0290)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/07/1900
+---
+tipo: REGIO DECRETO
+numero: 290
+data: 1900-07-15
+titolo: "Che modifica in parte le disposizioni relative alle cauzioni dei funzionari di gestione e di controllo alla dipendenza della Direzione generale del tesoro compresi nel ruolo organico, approvato col regio decreto 11 luglio 1899, n. 319. (000U0290)"
+urn: urn:nir:stato:regio.decreto:1900-07-15;290
+codice_redazionale: 000U0290
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,129 +20,81 @@ Ritenuta la opportunita' di modificare in parte le disposizioni relative a dette
 
 Sulla proposta del Nostro ministro segretario di Stato per il tesoro;
 
-Sentito
--------
+Sentito il Consiglio di Stato; Abbiamo decretato e decretiamo:
 
-il Consiglio di Stato; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+I funzionari di gestione e di controllo compresi nel ruolo organico approvato col [regio decreto 11 luglio 1899, n. 319](Concernente%20il%20Ruolo%20organico%20del%20personale%20di%20gestione%20e%20di%20controllo%20nella%20Tesoreria%20centrale%20del%20Regno%20nellUfficio%20dellAgente%20contabile%20dei%20titoli%20del%20Debito%20Pubblico%20nella%20Cassa%20speci_5b4b172b97bc.md), sono tenuti a prestare cauzione nella misura stabilita dalla tabella annessa al presente decreto, vista d'ordine Nostro dal ministro del tesoro. 
+ 
+ Quest'obbligo non cessa pel fatto che i detti funzionari vengano temporaneamente assegnati ad uffici nei quali non vi sia gestione di valori. 
+ 
+ Parimenti sono tenuti a dare malleveria i funzionari di altre categorie che fossero assegnati con la loro adesione, e per un periodo di tempo superiore a tre mesi, ad uffici di gestione e di controllo. In questo caso l'ammontare della cauzione sara' determinato tenendo conto, sia delle funzioni che essi saranno chiamati a disimpegnare, sia del grado rispettivo parificato a quello degli ufficiali gestori e di controllo di cui faranno le veci.
 
-  
-  
-I funzionari di gestione e di controllo compresi nel ruolo organico approvato col [regio decreto 11 luglio 1899, n. 319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-07-11;319), sono tenuti a prestare cauzione nella misura stabilita dalla tabella annessa al presente decreto, vista d'ordine Nostro dal ministro del tesoro.   
-  
-Quest'obbligo non cessa pel fatto che i detti funzionari vengano temporaneamente assegnati ad uffici nei quali non vi sia gestione di valori.   
-  
-Parimenti sono tenuti a dare malleveria i funzionari di altre categorie che fossero assegnati con la loro adesione, e per un periodo di tempo superiore a tre mesi, ad uffici di gestione e di controllo. In questo caso l'ammontare della cauzione sara' determinato tenendo conto, sia delle funzioni che essi saranno chiamati a disimpegnare, sia del grado rispettivo parificato a quello degli ufficiali gestori e di controllo di cui faranno le veci.   
-  
+## Art. 2.
 
-Art. 2
-------
+La cauzione puo' essere prestata: 
+ 
+ a) col deposito in numerario presso la Cassa dei depositi e prestiti della somma corrispondente al suo ammontare; 
+ 
+ b) col deposito presso la Cassa medesima di titoli al portatore dei consolidati 5 e 3 per cento, 4 e 4 1/2 per cento al netto da ogni imposta presente e futura; 
+ 
+ c) col vincolo di certificati nominativi dei consolidati preindicati. 
+ 
+ Il valore dei titoli o dei certificati viene determinato in ragione della media dei prezzi fatti nelle Borse del Regno nel semestre precedente al tempo in cui la cauzione deve essere data e per nove decimi del detto valore.
 
-  
-  
-La cauzione puo' essere prestata:   
-  
-a) col deposito in numerario presso la Cassa dei depositi e prestiti della somma corrispondente al suo ammontare;   
-  
-b) col deposito presso la Cassa medesima di titoli al portatore dei consolidati 5 e 3 per cento, 4 e 4 1/2 per cento al netto da ogni imposta presente e futura;   
-  
-c) col vincolo di certificati nominativi dei consolidati preindicati.   
-  
-Il valore dei titoli o dei certificati viene determinato in ragione della media dei prezzi fatti nelle Borse del Regno nel semestre precedente al tempo in cui la cauzione deve essere data e per nove decimi del detto valore.   
-  
-
-Art. 3
-------
+## Art. 3.
 
 I funzionari di gestione e di controllo prima di assumere servizio devono provare di avere prestata la cauzione di cui all'art.
 
-1. 
-  
-  
-In difetto di questa prova sono immessi in funzione quali gerenti, per un periodo, che non puo' eccedere i sei mesi, ed assoggettati alla ritenuta del quinto del loro stipendio.   
-  
-Tale temperamento non e' tuttavia estensibile al tesoriere centrale, all'agente contabile dei titoli ed al cassiere speciale dei biglietti di Stato i quali debbono costituire la prescritta cauzione prima di essere immessi in funzione.
+1.
 
-Art. 4
-------
+In difetto di questa prova sono immessi in funzione quali gerenti, per un periodo, che non puo' eccedere i sei mesi, ed assoggettati alla ritenuta del quinto del loro stipendio. 
+ 
+ Tale temperamento non e' tuttavia estensibile al tesoriere centrale, all'agente contabile dei titoli ed al cassiere speciale dei biglietti di Stato i quali debbono costituire la prescritta cauzione prima di essere immessi in funzione.
 
-  
-  
-Quando i funzionari di gestione e di controllo giustifichino, entro il termine stabilito dall'articolo precedente, di avere prestata la cauzione, vengono immessi definitivamente in funzione ed e' ad essi restituito l'importo delle ritenute fatte sul loro stipendio.   
-  
-I detti funzionari, che lascino trascorrere il termine di sei mesi senza prestare la dovuta cauzione, ove non possano essere rimessi nell' impiego precedentemente occupato e da essi dismesso, non gia' per domanda fatta dall'ufficio contabile cui furono nominati, ma per semplice disposto dell'Amministrazione o per promozione di carriera, potranno essere destinati ad un altro impiego analogo a quello precedente.   
-  
-E' in facolta' dell'Amministrazione di disporre, anche in questo caso, la restituzione agli interessati dell'importo delle ritenute, come sopra fatte sul loro stipendio, dopo che siano stati liberati da ogni responsabilita' derivante dalla tenuta gestione.   
-  
+## Art. 4.
 
-Art. 5
-------
+Quando i funzionari di gestione e di controllo giustifichino, entro il termine stabilito dall'articolo precedente, di avere prestata la cauzione, vengono immessi definitivamente in funzione ed e' ad essi restituito l'importo delle ritenute fatte sul loro stipendio. 
+ 
+ I detti funzionari, che lascino trascorrere il termine di sei mesi senza prestare la dovuta cauzione, ove non possano essere rimessi nell' impiego precedentemente occupato e da essi dismesso, non gia' per domanda fatta dall'ufficio contabile cui furono nominati, ma per semplice disposto dell'Amministrazione o per promozione di carriera, potranno essere destinati ad un altro impiego analogo a quello precedente. 
+ 
+ E' in facolta' dell'Amministrazione di disporre, anche in questo caso, la restituzione agli interessati dell'importo delle ritenute, come sopra fatte sul loro stipendio, dopo che siano stati liberati da ogni responsabilita' derivante dalla tenuta gestione.
 
-  
-  
-Le varie formule dell'annotazione di vincolo, da apporsi sui certificati di rendita nominativa o sulle polizze di deposito della Cassa dei depositi e prestiti, costituenti le singole cauzioni, sono stabilite dal Ministero del tesoro (Direzione generale del tesoro).   
-  
-Pei gestori principali l'annotazione di vincolo deve essere formulata in modo che la garanzia della cauzione sia estesa all'operato dei loro sostituti.   
-  
+## Art. 5.
 
-Art. 6
-------
+Le varie formule dell'annotazione di vincolo, da apporsi sui certificati di rendita nominativa o sulle polizze di deposito della Cassa dei depositi e prestiti, costituenti le singole cauzioni, sono stabilite dal Ministero del tesoro (Direzione generale del tesoro). 
+ 
+ Pei gestori principali l'annotazione di vincolo deve essere formulata in modo che la garanzia della cauzione sia estesa all'operato dei loro sostituti.
 
-  
-  
-Le cauzioni sono soggette a revisione quando i funzionari di gestione e di controllo passino da uno ad altro ufficio.   
-  
-Sono pure soggette a revisione nel caso in cui per diminuzione del prezzo dei titoli che le costituiscono, il valore ne venga a ridursi di un ventesimo.   
-  
+## Art. 6.
 
-Art. 7
-------
+Le cauzioni sono soggette a revisione quando i funzionari di gestione e di controllo passino da uno ad altro ufficio. 
+ 
+ Sono pure soggette a revisione nel caso in cui per diminuzione del prezzo dei titoli che le costituiscono, il valore ne venga a ridursi di un ventesimo.
 
-  
-  
-Spetta al ministro del tesoro l'accettare le cauzioni costituite dai funzionari di gestione e di controllo.   
-  
-Allo stesso ministro compete l'autorizzarne le variazioni in aumento od in diminuzione, la sostituzione, lo svincolo.   
-  
-I relativi decreti sono sottoposti al visto della Corte dei conti.   
+## Art. 7.
 
-Art. 8
-------
+Spetta al ministro del tesoro l'accettare le cauzioni costituite dai funzionari di gestione e di controllo. 
+ 
+ Allo stesso ministro compete l'autorizzarne le variazioni in aumento od in diminuzione, la sostituzione, lo svincolo. 
+ 
+ I relativi decreti sono sottoposti al visto della Corte dei conti.
 
-  
-  
-Le disposizioni del presente decreto, riguardanti l'aumento di talune cauzioni per i funzionari attualmente in carica anderanno in vigore entro 18 mesi dalla data della pubblicazione del decreto medesimo sulla Gazzetta Ufficiale.   
-  
-La maggiore cauzione potra' essere costituita anche rateatamente nel detto termine.   
-  
+## Art. 8.
 
-Art. 9
-------
+Le disposizioni del presente decreto, riguardanti l'aumento di talune cauzioni per i funzionari attualmente in carica anderanno in vigore entro 18 mesi dalla data della pubblicazione del decreto medesimo sulla Gazzetta Ufficiale. 
+ 
+ La maggiore cauzione potra' essere costituita anche rateatamente nel detto termine.
 
-  
-  
-Ogni disposizione contraria al presente decreto e' abrogata.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 15 luglio 1900.   
-  
-UMBERTO.   
-G. RUBINI.   
-  
-Visto, Il Guardasigilli: E. Gianturco.   
-  
+## Art. 9.
 
-Tabella
-
-  
-TABELLA   
-  
-indicante l'ammontare della cauzione che debbono prestare i funzionari di gestione e di controllo compresi nel ruolo organico approvato col [regio decreto 11 luglio 1899, n. 319](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-07-11;319).   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=000U029000100010110001&dgu=1900-07-15&art.dataPubblicazioneGazzetta=1900-07-15&art.codiceRedazionale=000U0290)
-  
-  
-(Tabella pubblicata nella Raccolta Ufficiale - anno 1900 - Volume Secondo)   
+Ogni disposizione contraria al presente decreto e' abrogata. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 15 luglio 1900. 
+ 
+ UMBERTO. 
+ G. RUBINI. 
+ 
+ Visto, Il Guardasigilli: E. Gianturco.

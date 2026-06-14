@@ -1,16 +1,14 @@
-REGIO DECRETO 15 marzo 1891 n. 134
-
-
-REGIO DECRETO 15 marzo 1891 n. 134
-==================================
-
-Che iscrive sei strade nell'elenco delle strade provinciali della Provincia Romana. (091U0134)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/04/1891
+---
+tipo: REGIO DECRETO
+numero: 134
+data: 1891-03-15
+titolo: "Che iscrive sei strade nell'elenco delle strade provinciali della Provincia Romana. (091U0134)"
+urn: urn:nir:stato:regio.decreto:1891-03-15;134
+codice_redazionale: 091U0134
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,34 +22,42 @@ Visto il voto 14 febbraio 1891 del Consiglio Superiore dei Lavori Pubblici;
 
 Visto l'art. 13 della legge 20 marzo 1865, all. F, numero 2248;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Sono inscritte nell'elenco delle strade provinciali della Provincia Romana le seguenti strade:
 
-1. La via delle Gugliette o Valle Fratte lunga chilometri 18, la quale, dalla provinciale Marittima dopo Prassedi immette alla provinciale Frosinone-Gaeta.
+1.
 
-2. La via Canepinese, lunga chilometri 26, la quale, dalla Provinciale Ortana, presso Orte, immette nella Nazionale, Cassia al miglio 46.
+La via delle Gugliette o Valle Fratte lunga chilometri 18, la quale, dalla provinciale Marittima dopo Prassedi immette alla provinciale Frosinone-Gaeta.
 
-3. Braccio della via Maremmana Inferiore lungo metri 225, che dalla provinciale Maremmana Inferiore mette alla stazione di Caroceto della ferrovia Cecchina-Anzio-Nettuno.
+2.
 
-4. La via Setina lunga chilometri 18, la quale, dalla provinciale Appia presso Foro Appio, immette alla provinciale Marittima.
+La via Canepinese, lunga chilometri 26, la quale, dalla Provinciale Ortana, presso Orte, immette nella Nazionale, Cassia al miglio 46.
 
-5. La via Maremmana Superiore lunga chilometri 19, la quale, dal bivio della Castagnola sulla provinciale Tiburtina-Valeria-Subiacense mette a Ponteorsino sulla strada provinciale Prenestina Nuova.
+3.
 
-6. La via Frascati-Colonna lunga chilometri 9, la quale, dalla provinciale Maremmana Inferiore, presso Frascati, immette alla Casilina sotto Colonna.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 15 marzo 1891.   
-  
-UMBERTO   
-  
-A. Branca.   
-  
-Visto, Il Guardasigilli: L. Ferraris.
+Braccio della via Maremmana Inferiore lungo metri 225, che dalla provinciale Maremmana Inferiore mette alla stazione di Caroceto della ferrovia Cecchina-Anzio-Nettuno.
+
+4.
+
+La via Setina lunga chilometri 18, la quale, dalla provinciale Appia presso Foro Appio, immette alla provinciale Marittima.
+
+5.
+
+La via Maremmana Superiore lunga chilometri 19, la quale, dal bivio della Castagnola sulla provinciale Tiburtina-Valeria-Subiacense mette a Ponteorsino sulla strada provinciale Prenestina Nuova.
+
+6.
+
+La via Frascati-Colonna lunga chilometri 9, la quale, dalla provinciale Maremmana Inferiore, presso Frascati, immette alla Casilina sotto Colonna. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 15 marzo 1891. 
+ 
+ UMBERTO 
+ 
+ A. Branca. 
+ 
+ Visto, Il Guardasigilli: L. Ferraris.

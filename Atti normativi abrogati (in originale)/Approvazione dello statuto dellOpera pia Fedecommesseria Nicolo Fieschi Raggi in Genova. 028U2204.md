@@ -1,21 +1,21 @@
-REGIO DECRETO 13 settembre 1928 n. 2204
+---
+tipo: REGIO DECRETO
+numero: 2204
+data: 1928-09-13
+titolo: "Approvazione dello statuto dell'Opera pia «Fedecommesseria Nicolo' Fieschi Raggi», in Genova. (028U2204)"
+urn: urn:nir:stato:regio.decreto:1928-09-13;2204
+codice_redazionale: 028U2204
+vigente: true
+---
 
-
-REGIO DECRETO 13 settembre 1928 n. 2204
-=======================================
-
-Approvazione dello statuto dell'Opera pia «Fedecommesseria Nicolo' Fieschi Raggi», in Genova. (028U2204)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/11/1928
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2204. R. decreto 13 settembre 1928, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato lo statuto organico dell'Opera pia «Fedecommesseria Nicolo' Fieschi Raggi» con sede in Genova.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 11 ottobre 1928 - Anno VI
+2204.
+
+R. decreto 13 settembre 1928, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato lo statuto organico dell'Opera pia «Fedecommesseria Nicolo' Fieschi Raggi» con sede in Genova. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 11 ottobre 1928 - Anno VI

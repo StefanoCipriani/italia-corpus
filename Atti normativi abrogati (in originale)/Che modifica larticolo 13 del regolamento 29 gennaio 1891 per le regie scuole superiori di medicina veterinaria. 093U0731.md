@@ -1,16 +1,14 @@
-REGIO DECRETO 20 novembre 1893 n. 731
-
-
-REGIO DECRETO 20 novembre 1893 n. 731
-=====================================
-
-Che modifica l'articolo 13 del regolamento 29 gennaio 1891 per le regie scuole superiori di medicina veterinaria. (093U0731)
-----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/02/1894
+---
+tipo: REGIO DECRETO
+numero: 731
+data: 1893-11-20
+titolo: "Che modifica l'articolo 13 del regolamento 29 gennaio 1891 per le regie scuole superiori di medicina veterinaria. (093U0731)"
+urn: urn:nir:stato:regio.decreto:1893-11-20;731
+codice_redazionale: 093U0731
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,20 @@ Considerando che il concentramento nei professori delle Scuole e nei loro aiuti 
 
 Sentito il Consiglio Superiore della Pubblica Istruzione;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Istruzione Pubblica; Abbiamo decretato e decretiamo
 
-proposta del Nostro Ministro Segretario di Stato per l'Istruzione Pubblica; Abbiamo decretato e decretiamo
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-All'art. 14 del regolamento per le Scuole superiori di medicina veterinaria, approvato col Nostro decreto del 29 gennaio 1891 n. 120, e' sostituito il seguente:   
-  
-« Art. 14. Le materie fondamentali veterinarie saranno distribuite fra i professori ordinari e straordinari, compreso il direttore; e quelle complementari obbligatorie, che formano oggetto di esame, verranno date per incarico. »   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 20 novembre 1893.   
-  
-UMBERTO.   
-  
-Martini.   
-  
-Visto, Il Guardasigilli: G. Armo'   
-  
+All'art. 14 del regolamento per le Scuole superiori di medicina veterinaria, approvato col Nostro decreto del 29 gennaio 1891 n. 120, e' sostituito il seguente: 
+ 
+ « Art. 14. Le materie fondamentali veterinarie saranno distribuite fra i professori ordinari e straordinari, compreso il direttore; e quelle complementari obbligatorie, che formano oggetto di esame, verranno date per incarico. » 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 20 novembre 1893. 
+ 
+ UMBERTO. 
+ 
+ Martini. 
+ 
+ Visto, Il Guardasigilli: G. Armo'

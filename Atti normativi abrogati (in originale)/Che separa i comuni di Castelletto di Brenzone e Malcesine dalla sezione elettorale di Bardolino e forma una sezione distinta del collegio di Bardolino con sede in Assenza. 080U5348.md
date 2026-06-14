@@ -1,16 +1,14 @@
-REGIO DECRETO 14 marzo 1880 n. 5348
-
-
-REGIO DECRETO 14 marzo 1880 n. 5348
-===================================
-
-Che separa i comuni di Castelletto di Brenzone e Malcesine dalla sezione elettorale di Bardolino, e forma una sezione distinta del collegio di Bardolino con sede in Assenza. (080U5348)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/04/1880
+---
+tipo: REGIO DECRETO
+numero: 5348
+data: 1880-03-14
+titolo: "Che separa i comuni di Castelletto di Brenzone e Malcesine dalla sezione elettorale di Bardolino, e forma una sezione distinta del collegio di Bardolino con sede in Assenza. (080U5348)"
+urn: urn:nir:stato:regio.decreto:1880-03-14;5348
+codice_redazionale: 080U5348
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,26 +24,19 @@ Che gli elettori di Castelletto di Brenzone e di Malcesine sono 73, e cosi' in n
 
 Considerando che per l'istituzione di una sezione in Assenza sara' reso piu' agevole l'esercizio del loro diritto agli elettori dei comuni di Castelletto di Brenzone e di Malcesine;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Castelletto di Brenzone e Malcesine sono separati dalla sezione di Bardolino e formeranno una sezione distinta del Collegio elettorale di Bardolino, con sede in Assenza.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 marzo 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+I comuni di Castelletto di Brenzone e Malcesine sono separati dalla sezione di Bardolino e formeranno una sezione distinta del Collegio elettorale di Bardolino, con sede in Assenza. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

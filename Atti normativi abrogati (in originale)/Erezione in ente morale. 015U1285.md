@@ -1,19 +1,15 @@
-DECRETO LUOGOTENENZIALE 05 agosto 1915 n. 1285
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1285
+data: 1915-08-05
+titolo: "Erezione in ente morale. (015U1285)"
+urn: urn:nir:stato:decreto.luogotenenziale:1915-08-05;1285
+codice_redazionale: 015U1285
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO LUOGOTENENZIALE 05 agosto 1915 n. 1285
-==============================================
-
-Erezione in ente morale. (015U1285)
------------------------------------
-
-Entrata in vigore del provvedimento: 16/09/1915
-
-Art. 1
-------
-
-  
-N. 1285   
-  
-Decreto Luogotenenziale 5 agosto 1915, col quale, sulla proposta del ministro dell'interno, l'ospizio di mendicita' di Petralia Sottana e' eretto in ente morale e ne e' approvato lo statuto organico.   
-  
+N. 1285 
+ 
+ Decreto Luogotenenziale 5 agosto 1915, col quale, sulla proposta del ministro dell'interno, l'ospizio di mendicita' di Petralia Sottana e' eretto in ente morale e ne e' approvato lo statuto organico.

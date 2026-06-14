@@ -1,16 +1,14 @@
-REGIO DECRETO 14 marzo 1880 n. 5341
-
-
-REGIO DECRETO 14 marzo 1880 n. 5341
-===================================
-
-Separa i comuni di Dolce' e di Sant'Ambrogio dalla sezione elettorale di San Pietro Incariano, e forma una sezione distinta del collegio di Bardolino con sede in Sant'Ambrogio. (080U5341)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/04/1880
+---
+tipo: REGIO DECRETO
+numero: 5341
+data: 1880-03-14
+titolo: "Separa i comuni di Dolce' e di Sant'Ambrogio dalla sezione elettorale di San Pietro Incariano, e forma una sezione distinta del collegio di Bardolino con sede in Sant'Ambrogio. (080U5341)"
+urn: urn:nir:stato:regio.decreto:1880-03-14;5341
+codice_redazionale: 080U5341
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Che gli elettori dei due comuni sono 66, e cosi' in numero superiore a quello de
 
 Considerando che per la costituzione di una sezione in Sant'Ambrogio sara' reso piu' agevole l'esercizio del loro diritto agli elettori del comune stesso e di Dolce';
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Dolce' e di Sant'Ambrogio sono separati dalla sezione elettorale di San Pietro Incariano e costituiti in sezione distinta del Collegio di Bardolino, con sede in Sant'Ambrogio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 14 marzo 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+I comuni di Dolce' e di Sant'Ambrogio sono separati dalla sezione elettorale di San Pietro Incariano e costituiti in sezione distinta del Collegio di Bardolino, con sede in Sant'Ambrogio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

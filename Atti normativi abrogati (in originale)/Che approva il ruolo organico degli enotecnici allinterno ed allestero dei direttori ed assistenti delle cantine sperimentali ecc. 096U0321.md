@@ -1,56 +1,48 @@
-REGIO DECRETO 09 luglio 1896 n. 321
-
-
-REGIO DECRETO 09 luglio 1896 n. 321
-===================================
-
-Che approva il ruolo organico degli enotecnici all'interno ed all'estero, dei direttori ed assistenti delle cantine sperimentali, ecc. (096U0321)
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/08/1896
+---
+tipo: REGIO DECRETO
+numero: 321
+data: 1896-07-09
+titolo: "Che approva il ruolo organico degli enotecnici all'interno ed all'estero, dei direttori ed assistenti delle cantine sperimentali, ecc. (096U0321)"
+urn: urn:nir:stato:regio.decreto:1896-07-09;321
+codice_redazionale: 096U0321
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 30 giugno 1896 n. 250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-06-30;250), che approva il bilancio del Ministero di Agricoltura, Industria e Commercio per l'anno finanziario 1896-97;
+Vista la [legge 30 giugno 1896 n. 250](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20del%20Ministero%20di%20Agricoltura%20Industria%20e%20Commercio.%20096U0250.md), che approva il bilancio del Ministero di Agricoltura, Industria e Commercio per l'anno finanziario 1896-97;
 
-Sulla
------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
+E' approvato il seguente organico degli enotecnici all'interno ed all'estero, dei direttori ed assistenti delle cantine sperimentali, dei direttori degli Oleifici sperimentali, dei professori ambulanti di zootecnia e di caseificio, dei direttori ed assistenti dei vivai di viti americane, e cioe': 
+ 
 
-  
-  
-E' approvato il seguente organico degli enotecnici all'interno ed all'estero, dei direttori ed assistenti delle cantine sperimentali, dei direttori degli Oleifici sperimentali, dei professori ambulanti di zootecnia e di caseificio, dei direttori ed assistenti dei vivai di viti americane, e cioe':   
-  
-  
-Cinque enotecnici di 1ª classe a . . . . . . . . L. 3000 ciascuno  
-Sei » » 2ª » a . . . . . . . . » 2400 »  
-Due direttori di cantine e di oleifici  
-di 1ª classe a . . . . . . . . . . . . . . » 3000 »  
-Tre direttori id. id. di 2ª classe a . . . . . . » 2400 »  
-Tre assistenti di 1ª classe a . . . . . . . . . » 1800 »  
-Tre » » 2ª » a . . . . . . . . » 1500 »  
-Un professore di zootecnia e di caseificio a . . » 2400 »  
-Quattro direttori di vivai di viti americane  
-di 1ª classe a . . . . . . . . . . . . . . » 3000 »  
-Quattro id. id. di 2ª classe a . . . . . . . . . » 2400 »  
-Un assistente di 1ª classe a . . . . . . . . . » 1800 »  
-Due assistenti di 2ª classe a . . . . . . . . . » 1500 »  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 luglio 1896.   
-  
-UMBERTO.   
-  
-Guicciardini.   
-  
-Visto, Il Guardasigilli: G. Costa.   
+ Cinque enotecnici di 1ª classe a . . . . . . . . L. 3000 ciascuno
+ Sei » » 2ª » a . . . . . . . . » 2400 »
+ Due direttori di cantine e di oleifici
+ di 1ª classe a . . . . . . . . . . . . . . » 3000 »
+ Tre direttori id. id. di 2ª classe a . . . . . . » 2400 »
+ Tre assistenti di 1ª classe a . . . . . . . . . » 1800 »
+ Tre » » 2ª » a . . . . . . . . » 1500 »
+ Un professore di zootecnia e di caseificio a . . » 2400 »
+ Quattro direttori di vivai di viti americane
+ di 1ª classe a . . . . . . . . . . . . . . » 3000 »
+ Quattro id. id. di 2ª classe a . . . . . . . . . » 2400 »
+ Un assistente di 1ª classe a . . . . . . . . . » 1800 »
+ Due assistenti di 2ª classe a . . . . . . . . . » 1500 »
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 luglio 1896. 
+ 
+ UMBERTO. 
+ 
+ Guicciardini. 
+ 
+ Visto, Il Guardasigilli: G. Costa.

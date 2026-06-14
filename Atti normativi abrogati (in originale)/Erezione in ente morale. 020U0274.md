@@ -1,17 +1,17 @@
-REGIO DECRETO 29 febbraio 1920 n. 274
+---
+tipo: REGIO DECRETO
+numero: 274
+data: 1920-02-29
+titolo: "Erezione in ente morale. (020U0274)"
+urn: urn:nir:stato:regio.decreto:1920-02-29;274
+codice_redazionale: 020U0274
+vigente: true
+---
 
-
-REGIO DECRETO 29 febbraio 1920 n. 274
-=====================================
-
-Erezione in ente morale. (020U0274)
------------------------------------
-
-Entrata in vigore del provvedimento: 27/04/1920
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-274. Regio Decreto 29 febbraio 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'«Opera pia Salvatore Noto», con sede nel comune di Sutera (Caltanissetta), viene eretta in ente morale con amministrazione autonoma.
+274.
+
+Regio Decreto 29 febbraio 1920, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'«Opera pia Salvatore Noto», con sede nel comune di Sutera (Caltanissetta), viene eretta in ente morale con amministrazione autonoma.

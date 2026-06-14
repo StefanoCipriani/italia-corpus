@@ -1,19 +1,15 @@
-REGIO DECRETO 12 marzo 1911 n. 384
+---
+tipo: REGIO DECRETO
+numero: 384
+data: 1911-03-12
+titolo: "Erezione in ente morale (011U0384)"
+urn: urn:nir:stato:regio.decreto:1911-03-12;384
+codice_redazionale: 011U0384
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 12 marzo 1911 n. 384
-==================================
-
-Erezione in ente morale (011U0384)
-----------------------------------
-
-Entrata in vigore del provvedimento: 27/05/1911
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro di agricoltura, industria e commercio:   
-  
-N. 384 (Dato a Roma, il 12 marzo 1911), col quale si riconosce come corpo morale l'«Ente autonomo per le case popolari in Carpi» e se ne approva lo statuto.   
-  
+Sulla proposta del ministro di agricoltura, industria e commercio: 
+ 
+ N. 384 (Dato a Roma, il 12 marzo 1911), col quale si riconosce come corpo morale l'«Ente autonomo per le case popolari in Carpi» e se ne approva lo statuto.

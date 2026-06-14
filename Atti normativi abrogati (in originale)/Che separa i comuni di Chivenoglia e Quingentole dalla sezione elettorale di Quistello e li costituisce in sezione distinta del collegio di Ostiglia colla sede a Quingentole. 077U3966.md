@@ -1,16 +1,14 @@
-REGIO DECRETO 23 luglio 1877 n. 3966
-
-
-REGIO DECRETO 23 luglio 1877 n. 3966
-====================================
-
-Che separa i comuni di Chivenoglia e Quingentole dalla sezione elettorale di Quistello e li costituisce in sezione distinta del collegio di Ostiglia colla sede a Quingentole. (077U3966)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/08/1877
+---
+tipo: REGIO DECRETO
+numero: 3966
+data: 1877-07-23
+titolo: "Che separa i comuni di Chivenoglia e Quingentole dalla sezione elettorale di Quistello e li costituisce in sezione distinta del collegio di Ostiglia colla sede a Quingentole. (077U3966)"
+urn: urn:nir:stato:regio.decreto:1877-07-23;3966
+codice_redazionale: 077U3966
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,22 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Schivenoglia e Quingentole sono separati dalla sezione elettorale di Quistello e formeranno una sezione distinta del Collegio elettorale di Ostiglia, colla sede a Quingentole.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Sant'Anna di Valdieri, addi' 23 luglio 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. NICOTERA.   
+I comuni di Schivenoglia e Quingentole sono separati dalla sezione elettorale di Quistello e formeranno una sezione distinta del Collegio elettorale di Ostiglia, colla sede a Quingentole. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 23 luglio 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. NICOTERA.

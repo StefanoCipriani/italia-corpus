@@ -1,16 +1,14 @@
-REGIO DECRETO 22 agosto 1866 n. 3170
-
-
-REGIO DECRETO 22 agosto 1866 n. 3170
-====================================
-
-Col quale si aumenta lo stipendio degli Assistenti nella R. Scuola Normale Superiore di Pisa. (066U3170)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/09/1866
+---
+tipo: REGIO DECRETO
+numero: 3170
+data: 1866-08-22
+titolo: "Col quale si aumenta lo stipendio degli Assistenti nella R. Scuola Normale Superiore di Pisa. (066U3170)"
+urn: urn:nir:stato:regio.decreto:1866-08-22;3170
+codice_redazionale: 066U3170
+vigente: true
+---
 
 EUGENIO
--------
 
 PRINCIPE DI SAVOJA-CARIGNANO
 
@@ -32,29 +30,22 @@ Riconosciuta la convenienza di aumentare lo stipendio degli Assistenti, essendos
 
 Visto lo stanziamento fatto nel bilancio del Ministero della pubblica Istruzione per l'anno 1866 (capitolo n° 11, allegato n° 10 - D);
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La pianta organica degli Impiegati e Serventi nella R. Scuola Normale Superiore di Pisa, approvata col citato Reale Decreto del 17 agosto 1862, e' modificata in quanto all'emolumento degli Assistenti nel modo seguente: l'emolumento degli Assistenti dalle annue lire 800 (ottocento) viene portato a lire 1100 (mille e cento).   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 22 agosto 1866.   
-  
-EUGENIO DI SAVOJA   
-  
-Registrato alla Corte dei conti addi' 31 agosto 1866   
-  
-Reg.° 37 Atti del Governo a c. 59. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli Borgatti.   
-  
-Berti.   
-  
+La pianta organica degli Impiegati e Serventi nella R. Scuola Normale Superiore di Pisa, approvata col citato Reale Decreto del 17 agosto 1862, e' modificata in quanto all'emolumento degli Assistenti nel modo seguente: l'emolumento degli Assistenti dalle annue lire 800 (ottocento) viene portato a lire 1100 (mille e cento). 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 22 agosto 1866. 
+ 
+ EUGENIO DI SAVOJA 
+ 
+ Registrato alla Corte dei conti addi' 31 agosto 1866 
+ 
+ Reg.° 37 Atti del Governo a c. 59. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ Berti.

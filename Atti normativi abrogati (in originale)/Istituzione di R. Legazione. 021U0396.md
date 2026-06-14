@@ -1,17 +1,17 @@
-REGIO DECRETO 13 marzo 1921 n. 396
+---
+tipo: REGIO DECRETO
+numero: 396
+data: 1921-03-13
+titolo: "Istituzione di R. Legazione. (021U0396)"
+urn: urn:nir:stato:regio.decreto:1921-03-13;396
+codice_redazionale: 021U0396
+vigente: true
+---
 
-
-REGIO DECRETO 13 marzo 1921 n. 396
-==================================
-
-Istituzione di R. Legazione. (021U0396)
----------------------------------------
-
-Entrata in vigore del provvedimento: 08/05/1921
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-396. Regio decreto 13 marzo 1921, col quale, sulla proposta del ministro degli affari esteri, viene istituita una R. Legazione in Reval, fissandosi l'assegno annuo del titolare in L 50.000.
+396.
+
+Regio decreto 13 marzo 1921, col quale, sulla proposta del ministro degli affari esteri, viene istituita una R. Legazione in Reval, fissandosi l'assegno annuo del titolare in L 50.000.

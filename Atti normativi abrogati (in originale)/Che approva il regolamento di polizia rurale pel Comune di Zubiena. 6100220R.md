@@ -1,19 +1,15 @@
-REGIO DECRETO 05 dicembre 1861 n. CCXX
+---
+tipo: REGIO DECRETO
+numero: CCXX
+data: 1861-12-05
+titolo: "Che approva il regolamento di polizia rurale pel Comune di Zubiena. (6100220R)"
+urn: urn:nir:stato:regio.decreto:1861-12-05;220
+codice_redazionale: 6100220R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 05 dicembre 1861 n. CCXX
-======================================
-
-Che approva il regolamento di polizia rurale pel Comune di Zubiena. (6100220R)
-------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 05/12/1861
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia rurale deliberato dalla Comunita' di Zubiena (Provincia di Novara) con ordinato del 2 novembre corrente anno.   
-  
-Torino 5 dicembre 1861   
-  
+Che approva il regolamento di polizia rurale deliberato dalla Comunita' di Zubiena (Provincia di Novara) con ordinato del 2 novembre corrente anno. 
+ 
+ Torino 5 dicembre 1861

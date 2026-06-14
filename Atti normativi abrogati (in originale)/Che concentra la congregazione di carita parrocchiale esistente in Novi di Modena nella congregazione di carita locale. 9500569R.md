@@ -1,21 +1,17 @@
-REGIO DECRETO 18 agosto 1895 n. DLXIX
+---
+tipo: REGIO DECRETO
+numero: DLXIX
+data: 1895-08-18
+titolo: "Che concentra la congregazione di carita' parrocchiale esistente in Novi di Modena nella congregazione di carita' locale. (9500569R)"
+urn: urn:nir:stato:regio.decreto:1895-08-18;569
+codice_redazionale: 9500569R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 18 agosto 1895 n. DLXIX
-=====================================
-
-Che concentra la congregazione di carita' parrocchiale esistente in Novi di Modena nella congregazione di carita' locale. (9500569R)
-------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/12/1895
-
-Art. 1
-------
-
-  
-Con cui la congregazione di carita' parrocchiale esistente in Novi di Modena e' concentrata nella congregazione di carita' locale. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
-  
-Registrato alla Corte dei conti addi' 6 dicembre 1895.   
-  
-Reg. 202. Atti del Governo a f. 162.   
-  
+Con cui la congregazione di carita' parrocchiale esistente in Novi di Modena e' concentrata nella congregazione di carita' locale. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei conti addi' 6 dicembre 1895. 
+ 
+ Reg. 202. Atti del Governo a f. 162.

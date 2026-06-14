@@ -1,16 +1,14 @@
-REGIO DECRETO 28 maggio 1871 n. 265
-
-
-REGIO DECRETO 28 maggio 1871 n. 265
-===================================
-
-Che abolisce il posto di Aggiunto straordinario nella Biblioteca Nazionale di Firenze. (071U0265)
--------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/07/1871
+---
+tipo: REGIO DECRETO
+numero: 265
+data: 1871-05-28
+titolo: "Che abolisce il posto di Aggiunto straordinario nella Biblioteca Nazionale di Firenze. (071U0265)"
+urn: urn:nir:stato:regio.decreto:1871-05-28;265
+codice_redazionale: 071U0265
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,29 +18,22 @@ Visto il Ruolo normale della Biblioteca Nazionale di Firenze, approvato col Nost
 
 Visto il bilancio;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Si abolisce, nella Biblioteca Nazionale di Firenze, il posto di Aggiunto straordinario, e si porta a lire 2,410 (lire duemila quattrocento dieci) lo stipendio annuo del Vice-Bibliotecario della medesima.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 28 maggio 1871.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 16 giugno 1871   
-  
-Reg. 56 Atti del Governo a c. 63. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli De Falco.   
-  
-C. Correnti.   
-  
+Si abolisce, nella Biblioteca Nazionale di Firenze, il posto di Aggiunto straordinario, e si porta a lire 2,410 (lire duemila quattrocento dieci) lo stipendio annuo del Vice-Bibliotecario della medesima. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 28 maggio 1871. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 16 giugno 1871 
+ 
+ Reg. 56 Atti del Governo a c. 63. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Falco. 
+ 
+ C. Correnti.

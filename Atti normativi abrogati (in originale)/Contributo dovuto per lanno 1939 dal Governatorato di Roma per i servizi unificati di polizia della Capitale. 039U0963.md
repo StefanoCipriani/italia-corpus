@@ -1,16 +1,14 @@
-REGIO DECRETO 22 maggio 1939 n. 963
-
-
-REGIO DECRETO 22 maggio 1939 n. 963
-===================================
-
-Contributo dovuto per l'anno 1939 dal Governatorato di Roma per i servizi unificati di polizia della Capitale. (039U0963)
--------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/07/1939
+---
+tipo: REGIO DECRETO
+numero: 963
+data: 1939-05-22
+titolo: "Contributo dovuto per l'anno 1939 dal Governatorato di Roma per i servizi unificati di polizia della Capitale. (039U0963)"
+urn: urn:nir:stato:regio.decreto:1939-05-22;963
+codice_redazionale: 039U0963
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,27 +22,21 @@ Ritenuta la necessita di stabilire per l'anno 1939 il contributo del Governatora
 
 Udito il Governatore di Roma;
 
-Sulla
------
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, di concerto con il Ministro per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il contributo dovuto per l'anno 1939 dal Governatorato di Roma per i servizi unificati di polizia della Capitale e' stabilito nella somma di lire diciotto milioni.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sa inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 maggio 1939-XVII   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel   
-  
-Visto, il Guardasigilli: Solmi   
-  
-Registrato alla Corte dei conti, addi' 10 luglio 1939-XVII   
-Atti del Governo, registro 411, foglio 28. - Mancini   
+Il contributo dovuto per l'anno 1939 dal Governatorato di Roma per i servizi unificati di polizia della Capitale e' stabilito nella somma di lire diciotto milioni. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sa inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 maggio 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel 
+ 
+ Visto, il Guardasigilli: Solmi 
+ 
+ Registrato alla Corte dei conti, addi' 10 luglio 1939-XVII 
+ Atti del Governo, registro 411, foglio 28. - Mancini

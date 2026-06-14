@@ -1,16 +1,14 @@
-REGIO DECRETO 06 settembre 1874 n. 2072
-
-
-REGIO DECRETO 06 settembre 1874 n. 2072
-=======================================
-
-Col quale al Consorzio di irrigazione di San Giovannino in Casal Monferrato (Alessandria) e' concessa la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci. (074U2072)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/10/1874
+---
+tipo: REGIO DECRETO
+numero: 2072
+data: 1874-09-06
+titolo: "Col quale al Consorzio di irrigazione di San Giovannino in Casal Monferrato (Alessandria) e' concessa la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci. (074U2072)"
+urn: urn:nir:stato:regio.decreto:1874-09-06;2072
+codice_redazionale: 074U2072
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,25 +20,18 @@ Visto l'atto di costituzione del Consorzio, rogato in Casale Monferrato dal nota
 
 Vista la deliberazione dell'Assemblea generale dei consortisti del di' 12 luglio 1874, con cui vengono accettate le modificazioni suggerite con nota del Ministero di Agricoltura, Industria e Commercio del di' 4 giugno ultimo numeri 20834/6918;
 
-Vista la [legge 29 maggio 1873, num. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (Serie 2ª);
+Vista la [legge 29 maggio 1873, num. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md) (Serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al Consorzio di S. Giovannino costituitesi in Casale Monferrato, provincia di Alessandria, con atto rogato dal notaio Giuseppe Faldella addi' 1° gennaio 1874 per la irrigazione di terreni situati in quel comune con acqua derivata dai canali Cavour (Cavo Alto), e' concessa la facolta' di riscuotere il contributo dei socii coi privilegi e nelle forme fiscali.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, il 6 settembre 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. Finali.   
-  
+Al Consorzio di S. Giovannino costituitesi in Casale Monferrato, provincia di Alessandria, con atto rogato dal notaio Giuseppe Faldella addi' 1° gennaio 1874 per la irrigazione di terreni situati in quel comune con acqua derivata dai canali Cavour (Cavo Alto), e' concessa la facolta' di riscuotere il contributo dei socii coi privilegi e nelle forme fiscali. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, il 6 settembre 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Finali.

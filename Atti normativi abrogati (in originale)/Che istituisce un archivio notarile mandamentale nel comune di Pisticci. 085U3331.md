@@ -1,16 +1,14 @@
-REGIO DECRETO 29 agosto 1885 n. 3331
-
-
-REGIO DECRETO 29 agosto 1885 n. 3331
-====================================
-
-Che istituisce un archivio notarile mandamentale nel comune di Pisticci. (085U3331)
------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/10/1885
+---
+tipo: REGIO DECRETO
+numero: 3331
+data: 1885-08-29
+titolo: "Che istituisce un archivio notarile mandamentale nel comune di Pisticci. (085U3331)"
+urn: urn:nir:stato:regio.decreto:1885-08-29;3331
+codice_redazionale: 085U3331
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,25 +18,18 @@ Visti gli articoli 3, 101 e 105 del testo unico delle leggi sul riordinamento de
 
 Viste le deliberazioni dei comuni interessati per l'istituzione di un Archivio notarile mandamentale in Pisticci, nonche' quella della Deputazione provinciale di Potenza;
 
-Sulla
------
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito un Archivio notarile mandamentale nel comune di Pisticci, capoluogo di mandamento, distretto notarile di Matera.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 29 agosto 1885.   
-  
-UMBERTO.   
-  
-Tajani.   
-  
-Visto, Il Guardasigilli: Tajani.   
-  
+E' istituito un Archivio notarile mandamentale nel comune di Pisticci, capoluogo di mandamento, distretto notarile di Matera. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 29 agosto 1885. 
+ 
+ UMBERTO. 
+ 
+ Tajani. 
+ 
+ Visto, Il Guardasigilli: Tajani.

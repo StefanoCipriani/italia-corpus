@@ -1,16 +1,14 @@
-REGIO DECRETO 10 marzo 1873 n. 1298
-
-
-REGIO DECRETO 10 marzo 1873 n. 1298
-===================================
-
-sull'ordinamento delle Commissioni per l'acquisto dei libri nelle Biblioteche. (073U1298)
------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/04/1873
+---
+tipo: REGIO DECRETO
+numero: 1298
+data: 1873-03-10
+titolo: "sull'ordinamento delle Commissioni per l'acquisto dei libri nelle Biblioteche. (073U1298)"
+urn: urn:nir:stato:regio.decreto:1873-03-10;1298
+codice_redazionale: 073U1298
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,37 +20,26 @@ Considerando che nelle citta' dove esistono piu' Biblioteche governative sarebbe
 
 Considerando che questo benefizio si puo' conseguire piu' facilmente riducendo ad una sola le Commissioni delle diverse Biblioteche d'una stessa citta';
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Nelle citta' dove esistono piu' Biblioteche governative, si formera' per tutte una sola Commissione per la proposta degli acquisti dei libri, e ne faranno parte, assieme con le persone indicate nell'articolo sopracitato, i Bibliotecari di ciascuna di dette Biblioteche. Un Bibliotecario, designato dal Nostro Ministro della Pubblica Istruzione, ne sara' Presidente.
 
-  
-  
-Nelle citta' dove esistono piu' Biblioteche governative, si formera' per tutte una sola Commissione per la proposta degli acquisti dei libri, e ne faranno parte, assieme con le persone indicate nell'articolo sopracitato, i Bibliotecari di ciascuna di dette Biblioteche. Un Bibliotecario, designato dal Nostro Ministro della Pubblica Istruzione, ne sara' Presidente.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Nelle citta' dove esistono Biblioteche governative e comunali o provinciali, il Nostro Ministro dell'Istruzione Pubblica potra', sulla domanda delle Autorita' comunali e provinciali, stabilire accordi per regolare l'acquisto dei libri delle suddette Biblioteche, con indirizzo comune e possibilmente tornando una sola Commissione mista.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 10 marzo 1875.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 24 marzo 1873.   
-  
-Vol. 67 Atti del Governo a c. 83. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli. De Falco.   
-  
-A. Scialoja.   
-  
+Nelle citta' dove esistono Biblioteche governative e comunali o provinciali, il Nostro Ministro dell'Istruzione Pubblica potra', sulla domanda delle Autorita' comunali e provinciali, stabilire accordi per regolare l'acquisto dei libri delle suddette Biblioteche, con indirizzo comune e possibilmente tornando una sola Commissione mista. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 10 marzo 1875. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 24 marzo 1873. 
+ 
+ Vol. 67 Atti del Governo a c. 83. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli. De Falco. 
+ 
+ A. Scialoja.

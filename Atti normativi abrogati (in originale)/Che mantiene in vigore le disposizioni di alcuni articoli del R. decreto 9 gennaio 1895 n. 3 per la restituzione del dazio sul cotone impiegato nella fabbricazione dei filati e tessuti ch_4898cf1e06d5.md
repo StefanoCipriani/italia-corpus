@@ -1,16 +1,14 @@
-REGIO DECRETO 04 agosto 1895 n. 545
-
-
-REGIO DECRETO 04 agosto 1895 n. 545
-===================================
-
-Che mantiene in vigore le disposizioni di alcuni articoli del R. decreto 9 gennaio 1895 n. 3 per la restituzione del dazio sul cotone impiegato nella fabbricazione dei filati e tessuti che si esportano. (095U0545)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/09/1895
+---
+tipo: REGIO DECRETO
+numero: 545
+data: 1895-08-04
+titolo: "Che mantiene in vigore le disposizioni di alcuni articoli del R. decreto 9 gennaio 1895 n. 3 per la restituzione del dazio sul cotone impiegato nella fabbricazione dei filati e tessuti che si esportano. (095U0545)"
+urn: urn:nir:stato:regio.decreto:1895-08-04;545
+codice_redazionale: 095U0545
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,25 +22,18 @@ Considerato che le disposizioni per la restituzione del dazio sul cotone impiega
 
 Udito il Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le Finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le disposizioni degli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-01-09;3~art2), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-01-09;3~art3), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-01-09;3~art4) e [5 del Regio decreto del 9 gennaio 1895, n. 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-01-09;3~art5) per la restituzione del dazio sul cotone impiegato nella fabbricazione dei filati e dei tessuti che si esportano, sono mantenute in vigore, a modo di esperimento, fino al 31 agosto 1895, e saranno, prima di detto giorno, confermate o modificate con altro decreto Reale, udito il Consiglio di Stato.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 agosto 1895.   
-  
-UMBERTO.   
-  
-P. Boselli.   
-  
-Visto, Il Guardasigilli: V. Calenda di Tavani.   
-  
+Le disposizioni degli [articoli 2](Circa%20la%20restituzione%20del%20dazio%20pagato%20sul%20cotone%20greggio%20impiegato%20nella%20fabbricazione%20dei%20filati%20e%20dei%20tessuti%20che%20si%20esportano%20allestero.%20095U0003.md), [3](Circa%20la%20restituzione%20del%20dazio%20pagato%20sul%20cotone%20greggio%20impiegato%20nella%20fabbricazione%20dei%20filati%20e%20dei%20tessuti%20che%20si%20esportano%20allestero.%20095U0003.md), [4](Circa%20la%20restituzione%20del%20dazio%20pagato%20sul%20cotone%20greggio%20impiegato%20nella%20fabbricazione%20dei%20filati%20e%20dei%20tessuti%20che%20si%20esportano%20allestero.%20095U0003.md) e [5 del Regio decreto del 9 gennaio 1895, n. 3](Circa%20la%20restituzione%20del%20dazio%20pagato%20sul%20cotone%20greggio%20impiegato%20nella%20fabbricazione%20dei%20filati%20e%20dei%20tessuti%20che%20si%20esportano%20allestero.%20095U0003.md) per la restituzione del dazio sul cotone impiegato nella fabbricazione dei filati e dei tessuti che si esportano, sono mantenute in vigore, a modo di esperimento, fino al 31 agosto 1895, e saranno, prima di detto giorno, confermate o modificate con altro decreto Reale, udito il Consiglio di Stato. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 agosto 1895. 
+ 
+ UMBERTO. 
+ 
+ P. Boselli. 
+ 
+ Visto, Il Guardasigilli: V. Calenda di Tavani.

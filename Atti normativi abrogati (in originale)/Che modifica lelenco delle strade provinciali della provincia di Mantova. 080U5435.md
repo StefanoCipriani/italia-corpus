@@ -1,16 +1,14 @@
-REGIO DECRETO 22 aprile 1880 n. 5435
-
-
-REGIO DECRETO 22 aprile 1880 n. 5435
-====================================
-
-Che modifica l'elenco delle strade provinciali della provincia di Mantova. (080U5435)
--------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/06/1880
+---
+tipo: REGIO DECRETO
+numero: 5435
+data: 1880-04-22
+titolo: "Che modifica l'elenco delle strade provinciali della provincia di Mantova. (080U5435)"
+urn: urn:nir:stato:regio.decreto:1880-04-22;5435
+codice_redazionale: 080U5435
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -38,7 +36,7 @@ Veduti i ricorsi dei comuni di Asola e di Moglia contro le sopraddette deliberaz
 
 Veduti i pareri 18 ottobre 1879 e 7 febbraio 1880 del Consiglio Superiore dei Lavori Pubblici;
 
-Veduti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13), [14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14) e [15 della legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art15), allegato F;
+Veduti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14) e [15 della legge 20 marzo 1865, n. 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_15), allegato F;
 
 Ritenuto che il comune di Asola si oppone a che sia sostituita alla linea Asola-Sorbara-Canneto, sulla destra del Chiese, l'altra Asola-Acquanegra-Canneto, poiche' l'andamento di quest'ultima passa fuori del suo abitato e riesce piu' lungo, tortuoso ed incomodo;
 
@@ -52,26 +50,19 @@ Che riguardo all'aggiunta nell'elenco delle altre quattro strade sopra notate no
 
 Udito il parere del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sono approvate per tutti gli effetti di legge le deliberazioni 10 settembre 1878 e 17 novembre 1879 colle quali il Consiglio provinciale di Mantova apporto' nell'elenco delle strade provinciali le sopracitate modificazioni.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 aprile 1880.   
-  
-UMBERTO.   
-  
-A. Baccarini.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Sono approvate per tutti gli effetti di legge le deliberazioni 10 settembre 1878 e 17 novembre 1879 colle quali il Consiglio provinciale di Mantova apporto' nell'elenco delle strade provinciali le sopracitate modificazioni. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 aprile 1880. 
+ 
+ UMBERTO. 
+ 
+ A. Baccarini. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

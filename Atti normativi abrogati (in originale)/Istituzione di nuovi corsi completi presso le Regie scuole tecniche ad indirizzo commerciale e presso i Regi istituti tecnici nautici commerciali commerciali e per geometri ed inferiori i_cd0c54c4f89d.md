@@ -1,16 +1,14 @@
-REGIO DECRETO 22 novembre 1937 n. 2295
-
-
-REGIO DECRETO 22 novembre 1937 n. 2295
-======================================
-
-Istituzione di nuovi corsi completi presso le Regie scuole tecniche ad indirizzo commerciale e presso i Regi istituti tecnici nautici, commerciali, commerciali e per geometri ed inferiori isolati ed approvazione delle relative tabelle organiche. (037U2295)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/02/1938
+---
+tipo: REGIO DECRETO
+numero: 2295
+data: 1937-11-22
+titolo: "Istituzione di nuovi corsi completi presso le Regie scuole tecniche ad indirizzo commerciale e presso i Regi istituti tecnici nautici, commerciali, commerciali e per geometri ed inferiori isolati ed approvazione delle relative tabelle organiche. (037U2295)"
+urn: urn:nir:stato:regio.decreto:1937-11-22;2295
+codice_redazionale: 037U2295
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,139 +30,99 @@ Riconosciuta la necessita' di sopprimere ed istituire nuovi corsi completi press
 
 Riconosciuta, inoltre, la necessita', di stabilire per le scuole ed istituti indicati nelle annesse tabelle i posti di ruolo del personale direttivo ed insegnante al fine di assicurare il regolare funzionamento delle scuole e istituti madesimi.
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A decorrere dal 16 settembre 1936-XIV sono istituiti, in aggiunta a quelli gia' esistenti: 
+ 
+ a) un corso completo' della sezione commerciale presso il Regio istituto tecnico commerciale ad indirizzo amministrativo «Schiaparelli» di Milano; 
+ 
+ b) un corso completo della sezione per geometri presso il Regio istituto tecnico commerciale e per geometri « Cattaneo» di Milano; 
+ 
+ c) un corso inferiore completo presso il su detto Regio istituto tecnico commerciale «Schiaparelli» di Milano.
 
-  
-  
-A decorrere dal 16 settembre 1936-XIV sono istituiti, in aggiunta a quelli gia' esistenti:   
-  
-a) un corso completo' della sezione commerciale presso il Regio istituto tecnico commerciale ad indirizzo amministrativo «Schiaparelli» di Milano;   
-  
-b) un corso completo della sezione per geometri presso il Regio istituto tecnico commerciale e per geometri « Cattaneo» di Milano;   
-  
-c) un corso inferiore completo presso il su detto Regio istituto tecnico commerciale «Schiaparelli» di Milano.   
+## Art. 2.
 
-Art. 2
-------
+A decorrere dal 1° gennaio 1937-XV viene istituito un corso completo presso la Regia scuola tecnica ad indirizzo commerciale di Napoli.
 
-  
-  
-A decorrere dal 1° gennaio 1937-XV viene istituito un corso completo presso la Regia scuola tecnica ad indirizzo commerciale di Napoli.   
+## Art. 3.
 
-Art. 3
-------
+A decorrere dai 16 settembre 1936-XIV sono soppressi: 
+ 
+a) un corso della sezione commerciale presso il Regio istituto tecnico commerciale e per geometri di Alessandria; 
+ 
+b) un corso inferiore completo presso i Regi istituti tecnici commerciali e per geometri di Firenze «Galilei» e di Ancona «Benincasa».
 
-  
-  
-A decorrere dai 16 settembre 1936-XIV sono soppressi:   
-  
-a) un corso della sezione commerciale presso il Regio istituto tecnico commerciale e per geometri di Alessandria;   
-  
-b) un corso inferiore completo presso i Regi istituti tecnici commerciali e per geometri di Firenze «Galilei» e di Ancona «Benincasa».   
+## Art. 4.
 
-Art. 4
-------
+A decorrere pure dal 16 settembre 1936-XIV viene istituito, in aggiunta a quelli gia' esistenti, un corso inferiore completo, presso i Regi istituti tecnici commerciali e per geometri di Asti, Ascoli Piceno, Avellino, Bologna « Crescenzi», Chieti, Cuneo, Ferrara, Lucca, Sassari e Treviso; presso i Regi istituti tecnici commerciali di Barletta, Biella, Carrara, La Spezia, Milano «Verri», Padova «P.
+Calvi», Siracusa; presso il Regio istituto tecnico nautico di Sorrento e presso i Regi istituti tecnici inferiori isolati di Pordenone, Stradella, Tolmezzo, Torre Annunziata e Viadana, mediante contemporanea soppressione delle seguenti classi collaterali stabili: 
+ 
+ Asti, prima, seconda e terza; 
+ 
+ Ascoli Piceno, prima, seconda e terza; 
+ 
+ Avellino, prima, seconda e terza; 
+ 
+ Bologna «Crescenzi», due prime, seconda e terza; 
+ 
+ Chieti, prima, seconda e terza; 
+ 
+ Cuneo, prima, seconda e terza; 
+ 
+ Ferrara, una prima, seconda e terza; 
+ 
+ Lucca, prima, seconda e terza; 
+ 
+ Sassari, prima, seconda e terza; 
+ 
+ Treviso, prima, seconda o terza; 
+ 
+ Barletta, prima, seconda e terza; 
+ 
+ Biella, una prima, seconda e terza; 
+ 
+ Carrara, prima, seconda e terza; 
+ 
+ La Spezia, prima, seconda e terza; 
+ 
+ Milano «Verri», una prima, due seconde e terza; 
+ 
+ Padova «Calvi», prima e terza; 
+ 
+ Siracusa, prima, seconda e terza; 
+ 
+ Sorrento, prima, seconda e terza; 
+ 
+ Pordenone, prima, seconda e terza; 
+ 
+ Stradella, prima, seconda e terza; 
+ 
+ Tolmezzo, prima, seconda e terza; 
+ 
+ Torre Annunziata, una prima, una seconda e terza; 
+ 
+ Viadana, prima, seconda e terza.
 
-  
-  
-A decorrere pure dal 16 settembre 1936-XIV viene istituito, in aggiunta a quelli gia' esistenti, un corso inferiore completo, presso i Regi istituti tecnici commerciali e per geometri di Asti, Ascoli Piceno, Avellino, Bologna « Crescenzi», Chieti, Cuneo, Ferrara, Lucca, Sassari e Treviso; presso i Regi istituti tecnici commerciali di Barletta, Biella, Carrara, La Spezia, Milano «Verri», Padova «P.  
-Calvi», Siracusa; presso il Regio istituto tecnico nautico di Sorrento e presso i Regi istituti tecnici inferiori isolati di Pordenone, Stradella, Tolmezzo, Torre Annunziata e Viadana, mediante contemporanea soppressione delle seguenti classi collaterali stabili:   
-  
-Asti, prima, seconda e terza;   
-  
-Ascoli Piceno, prima, seconda e terza;   
-  
-Avellino, prima, seconda e terza;   
-  
-Bologna «Crescenzi», due prime, seconda e terza;   
-  
-Chieti, prima, seconda e terza;   
-  
-Cuneo, prima, seconda e terza;   
-  
-Ferrara, una prima, seconda e terza;   
-  
-Lucca, prima, seconda e terza;   
-  
-Sassari, prima, seconda e terza;   
-  
-Treviso, prima, seconda o terza;   
-  
-Barletta, prima, seconda e terza;   
-  
-Biella, una prima, seconda e terza;   
-  
-Carrara, prima, seconda e terza;   
-  
-La Spezia, prima, seconda e terza;   
-  
-Milano «Verri», una prima, due seconde e terza;   
-  
-Padova «Calvi», prima e terza;   
-  
-Siracusa, prima, seconda e terza;   
-  
-Sorrento, prima, seconda e terza;   
-  
-Pordenone, prima, seconda e terza;   
-  
-Stradella, prima, seconda e terza;   
-  
-Tolmezzo, prima, seconda e terza;   
-  
-Torre Annunziata, una prima, una seconda e terza;   
-  
-Viadana, prima, seconda e terza.   
+## Art. 5.
 
-Art. 5
-------
+A decorrere dal 16 settembre 1936-XIV per i Regi istituti tecnici nautici, commerciali, commerciali e per geometri e inferiori isolati sopra richiamati e dal 1° gennaio 1937-XV per la Regia scuola tecnica commerciale di Napoli, i posti di ruolo del personale direttivo ed insegnante sono stabiliti in conformita' delle tabelle A, B, C annesse al presente decreto firmato, d'ordine Nostro, dai Ministri Segretari di i Stato per l'educazione nazionale e per le finanze.
 
-  
-  
-A decorrere dal 16 settembre 1936-XIV per i Regi istituti tecnici nautici, commerciali, commerciali e per geometri e inferiori isolati sopra richiamati e dal 1° gennaio 1937-XV per la Regia scuola tecnica commerciale di Napoli, i posti di ruolo del personale direttivo ed insegnante sono stabiliti in conformita' delle tabelle A, B, C annesse al presente decreto firmato, d'ordine Nostro, dai Ministri Segretari di i Stato per l'educazione nazionale e per le finanze.   
+## Art. 6.
 
-Art. 6
-------
-
-  
-  
-Con successivi Regi decreti saranno modificate le tabelle organiche annesse agli statuti di ciascuno degli Istituti e delle Scuole citati nelle tabelle A, B, C allegate al presente Nostro decreto.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 22 novembre 1937 - Anno XVI   
-  
-VITTORIO EMANUELE   
-  
-BOTTAI - DI REVEL   
-  
-Visto, il Guardasigilli: SOLMI.   
-  
-Registrato alla Corte dei conti, addi' 20 gennaio 193 - Anno XVI   
-  
-Atti del Governo, registro 393, foglio 103. - MANCINI.   
-
-Tabelle
-
-  
-TABELLA A   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=037U229500100010110001&dgu=1938-01-24&art.dataPubblicazioneGazzetta=1938-01-24&art.codiceRedazionale=037U2295)
-  
-  
-TABELLA B   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=037U229500100010110002&dgu=1938-01-24&art.dataPubblicazioneGazzetta=1938-01-24&art.codiceRedazionale=037U2295)
-  
-  
-TABELLA C   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=037U229500100010110003&dgu=1938-01-24&art.dataPubblicazioneGazzetta=1938-01-24&art.codiceRedazionale=037U2295)
-  
-  
+Con successivi Regi decreti saranno modificate le tabelle organiche annesse agli statuti di ciascuno degli Istituti e delle Scuole citati nelle tabelle A, B, C allegate al presente Nostro decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 22 novembre 1937 - Anno XVI 
+ 
+ VITTORIO EMANUELE 
+ 
+ BOTTAI - DI REVEL 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 20 gennaio 193 - Anno XVI 
+ 
+ Atti del Governo, registro 393, foglio 103. - MANCINI.

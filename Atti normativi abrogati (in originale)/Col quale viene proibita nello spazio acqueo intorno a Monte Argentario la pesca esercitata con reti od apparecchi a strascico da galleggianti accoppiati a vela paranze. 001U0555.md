@@ -1,16 +1,14 @@
-REGIO DECRETO 15 dicembre 1901 n. 555
-
-
-REGIO DECRETO 15 dicembre 1901 n. 555
-=====================================
-
-Col quale viene proibita, nello spazio acqueo intorno a Monte Argentario, la pesca esercitata con reti od apparecchi a strascico da galleggianti accoppiati a vela (paranze). (001U0555)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/01/1902
+---
+tipo: REGIO DECRETO
+numero: 555
+data: 1901-12-15
+titolo: "Col quale viene proibita, nello spazio acqueo intorno a Monte Argentario, la pesca esercitata con reti od apparecchi a strascico da galleggianti accoppiati a vela (paranze). (001U0555)"
+urn: urn:nir:stato:regio.decreto:1901-12-15;555
+codice_redazionale: 001U0555
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,33 +24,22 @@ Ritenuto che lo spazio acqueo intorno al Monte Argentario si presta a tali indag
 
 Sentito l'avviso del Consiglio dei lavori pubblici, della Commissione consultiva per la pesca e del Consiglio di Stato nel caso particolare;
 
-Sulla
------
+Sulla proposta del Nostro Ministro per gli Affari di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro per gli Affari di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' proibita dal 1° maggio al 30 settembre di ogni anno, sino a tutto settembre 1903, nello spazio acqueo intorno a Monte Argentario, e limitato a nord dalla foce dell'Ombrone ed a sud dalla torre detta della Tagliata, entro i limiti del mare territoriale, la pesca esercitata con reti od apparecchi a strascico da galleggianti accoppiati a vela (paranze).
 
-  
-  
-E' proibita dal 1° maggio al 30 settembre di ogni anno, sino a tutto settembre 1903, nello spazio acqueo intorno a Monte Argentario, e limitato a nord dalla foce dell'Ombrone ed a sud dalla torre detta della Tagliata, entro i limiti del mare territoriale, la pesca esercitata con reti od apparecchi a strascico da galleggianti accoppiati a vela (paranze).   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Ai trasgressori di questo divieto saranno inflitte le peno sancita dagli articoli 90 e 96 del Regolamento sulla pesca marittima 13 novembre 1882, n. 1090.   
-  
-Ordiniamo, che il presenta decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 15 dicembre 1901.   
-  
-VITTORIO EMANUELE.   
-  
-G. Baccelli.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.   
-  
+Ai trasgressori di questo divieto saranno inflitte le peno sancita dagli articoli 90 e 96 del Regolamento sulla pesca marittima 13 novembre 1882, n. 1090. 
+ 
+ Ordiniamo, che il presenta decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 15 dicembre 1901. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Baccelli. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

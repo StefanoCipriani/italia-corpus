@@ -1,37 +1,35 @@
-LEGGE 08 giugno 1933 n. 774
+---
+tipo: LEGGE
+numero: 774
+data: 1933-06-08
+titolo: "Conversione in legge del R. decreto-legge 13 aprile 1933, n. 366, concernente l'autorizzazione a sistemare alcune questioni pendenti fra il Tesoro dello Stato e l'Istituto di emissione. (033U0774)"
+urn: urn:nir:stato:legge:1933-06-08;774
+codice_redazionale: 033U0774
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 08 giugno 1933 n. 774
-===========================
-
-Conversione in legge del R. decreto-legge 13 aprile 1933, n. 366, concernente l'autorizzazione a sistemare alcune questioni pendenti fra il Tesoro dello Stato e l'Istituto di emissione. (033U0774)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/07/1933
-
-Art. 1
-------
-
- VITTORIO EMANUELE III   
-  
-PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
-  
-RE D'ITALIA   
-  
-Il senato e la Camera dei deputati hanno approvato;   
-  
-Noi abbiamo sanzionato e promulghiamo quanto segue:   
-  
-Articolo Unico.   
-  
-E' convertito in legge il [R. decreto-legge 13 aprile 1933, n. 366](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-04-13;366), concernente l'autorizzazione a sistemare alcune questioni pendenti fra il Tesoro dello Stato e l'Istituto di emissione.   
-  
-Ordiniamo che la presente, munita del sigillo dello Stato sia inserta, nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
-  
-Data a Roma, addi' 8 giugno 1933 - Anno XI   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Jung   
-  
-Visto, il Guardasigilli: De Francisci.   
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Il senato e la Camera dei deputati hanno approvato; 
+ 
+ Noi abbiamo sanzionato e promulghiamo quanto segue: 
+ 
+ Articolo Unico. 
+ 
+ E' convertito in legge il [R. decreto-legge 13 aprile 1933, n. 366](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-04-13;366), concernente l'autorizzazione a sistemare alcune questioni pendenti fra il Tesoro dello Stato e l'Istituto di emissione. 
+ 
+ Ordiniamo che la presente, munita del sigillo dello Stato sia inserta, nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Roma, addi' 8 giugno 1933 - Anno XI 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Jung 
+ 
+ Visto, il Guardasigilli: De Francisci.

@@ -1,21 +1,21 @@
-REGIO DECRETO 05 giugno 1930 n. 868
+---
+tipo: REGIO DECRETO
+numero: 868
+data: 1930-06-05
+titolo: "Erezione in ente morale della Cassa scolastica del Liceo classico pareggiato «G. Gentile», in Castelvetrano. (030U0868)"
+urn: urn:nir:stato:regio.decreto:1930-06-05;868
+codice_redazionale: 030U0868
+vigente: true
+---
 
-
-REGIO DECRETO 05 giugno 1930 n. 868
-===================================
-
-Erezione in ente morale della Cassa scolastica del Liceo classico pareggiato «G. Gentile», in Castelvetrano. (030U0868)
------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/07/1930
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-868. R. decreto 5 giugno 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, la Cassa scolastica del Liceo classico pareggiato «G. Gentile», in Castelvetrano, viene eretta in ente morale e n'e' approvato lo statuto.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 1° luglio 1980 - Anno VIII
+868.
+
+R. decreto 5 giugno 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, la Cassa scolastica del Liceo classico pareggiato «G. Gentile», in Castelvetrano, viene eretta in ente morale e n'e' approvato lo statuto. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 1° luglio 1980 - Anno VIII

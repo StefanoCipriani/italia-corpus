@@ -1,16 +1,14 @@
-REGIO DECRETO 25 luglio 1880 n. 5564
-
-
-REGIO DECRETO 25 luglio 1880 n. 5564
-====================================
-
-Che al personale della biblioteca Universitaria di Bologna aggiunge un posto di assistente di 2ª classe. (080U5564)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/08/1880
+---
+tipo: REGIO DECRETO
+numero: 5564
+data: 1880-07-25
+titolo: "Che al personale della biblioteca Universitaria di Bologna aggiunge un posto di assistente di 2ª classe. (080U5564)"
+urn: urn:nir:stato:regio.decreto:1880-07-25;5564
+codice_redazionale: 080U5564
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,26 +18,21 @@ Visto il ruolo della Biblioteca universitaria di Bologna, approvato con Regio de
 
 Visto il bilancio di 1ª previsione per l'anno 1880;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Al ruolo del personale della Biblioteca universitaria di Bologna e' aggiunto un posto di assistente di 2ª classe coll'annuo stipendio di lire
 
-2200. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 25 luglio 1880.   
-  
-UMBERTO.   
-  
-F. De Sanctis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.
+2200.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 25 luglio 1880. 
+ 
+ UMBERTO. 
+ 
+ F. De Sanctis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

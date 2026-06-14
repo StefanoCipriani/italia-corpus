@@ -1,19 +1,15 @@
-REGIO DECRETO 02 dicembre 1909 n. CCCCLXVI
+---
+tipo: REGIO DECRETO
+numero: CCCCLXVI
+data: 1909-12-02
+titolo: "Che applica la tassa di famiglia nel comune di Tramonti. (0900466R)"
+urn: urn:nir:stato:regio.decreto:1909-12-02;466
+codice_redazionale: 0900466R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 dicembre 1909 n. CCCCLXVI
-==========================================
-
-Che applica la tassa di famiglia nel comune di Tramonti. (0900466R)
--------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/01/1910
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro delle finanze:   
-  
-N. CCCCLXVI (Dato a Roma, il 2 dicembre 1909), col quale e' data facolta' al comune di Tramonti di applicare, nell'anno 1909, la tassa di famiglia con l'aliquota del 2%.   
-  
+Sulla proposta del ministro delle finanze: 
+ 
+ N. CCCCLXVI (Dato a Roma, il 2 dicembre 1909), col quale e' data facolta' al comune di Tramonti di applicare, nell'anno 1909, la tassa di famiglia con l'aliquota del 2%.

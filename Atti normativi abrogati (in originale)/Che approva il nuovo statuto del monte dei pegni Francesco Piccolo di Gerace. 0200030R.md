@@ -1,22 +1,18 @@
-REGIO DECRETO 23 gennaio 1902 n. XXX
+---
+tipo: REGIO DECRETO
+numero: XXX
+data: 1902-01-23
+titolo: "Che approva il nuovo statuto del monte dei pegni «Francesco Piccolo» di Gerace. (0200030R)"
+urn: urn:nir:stato:regio.decreto:1902-01-23;30
+codice_redazionale: 0200030R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 gennaio 1902 n. XXX
-====================================
-
-Che approva il nuovo statuto del monte dei pegni «Francesco Piccolo» di Gerace. (0200030R)
-------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/03/1902
-
-Art. 1
-------
-
-  
-Che approva il nuovo statuto del monte dei pegni «Francesco Piccolo» di Gerace. - Firmato VITTORIO EMANUELE - Controfirmati G.  
-Baccelli, Giolitti Visto F. Cocco-Ortu.   
-  
-Registrato alla Corte dei conti addi' 28 febbraio 1902.   
-  
-Reg. 1. Atti del Governo a f. 115.   
-  
+Che approva il nuovo statuto del monte dei pegni «Francesco Piccolo» di Gerace. - Firmato VITTORIO EMANUELE - Controfirmati G.
+Baccelli, Giolitti Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 28 febbraio 1902. 
+ 
+ Reg. 1. Atti del Governo a f. 115.

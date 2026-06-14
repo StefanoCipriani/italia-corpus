@@ -1,60 +1,51 @@
-REGIO DECRETO 24 giugno 1894 n. 282
-
-
-REGIO DECRETO 24 giugno 1894 n. 282
-===================================
-
-Che fissa gli assegni locali da corrispondersi ad alcuni ufficiali diplomatici, capi missione. (094U0282)
----------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/07/1894
+---
+tipo: REGIO DECRETO
+numero: 282
+data: 1894-06-24
+titolo: "Che fissa gli assegni locali da corrispondersi ad alcuni ufficiali diplomatici, capi missione. (094U0282)"
+urn: urn:nir:stato:regio.decreto:1894-06-24;282
+codice_redazionale: 094U0282
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge 7 giugno 1894 n. 213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-06-07;213), che approva lo Stato di previsione della spesa del Ministero degli Affari Esteri per l'esercizio finanziario 1894-1895;
+Vista la [legge 7 giugno 1894 n. 213](Che%20approva%20lo%20stato%20di%20previsione%20della%20spesa%20per%20lesercizio%20finanziario%201894%2095%20del%20Ministero%20degli%20affari%20esteri.%20094U0213.md), che approva lo Stato di previsione della spesa del Ministero degli Affari Esteri per l'esercizio finanziario 1894-1895;
 
 Visti i Nostri decreti in data 28 giugno 1891, n. 412 e 25 giugno 1893 n. 380;
 
-Visto l'[articolo 2 del R. decreto 29 novembre 1870 n. 6090](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-11-29;6090~art2);
+Visto l'[articolo 2 del R. decreto 29 novembre 1870 n. 6090](Concernente%20le%20Legazioni%20allestero%20ed%20il%20personale%20alle%20medesime%20addetto.%20070U6090.md);
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Gli assegni locali da corrispondersi agli ufficiali diplomatici, capi missione, sotto indicati, sono fissati, a decorrere dal 1° luglio 1894, come segue:   
-  
-Berlino, L. 90,000.   
-  
-Costantinopoli, L. 70,000.   
-  
-Londra, L. 90,000.   
-  
-Madrid, L. 60,000.   
-  
-Parigi, L. 90,000.   
-  
-Pietroburgo, L. 90,000.   
-  
-Vienna, L. 90,000.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 24 giugno 1894.   
-  
-UMBERTO.   
-  
-A. Blanc.   
-  
-Visto, Il Guardasigilli: V. Calenda di Tavani.   
-  
+Gli assegni locali da corrispondersi agli ufficiali diplomatici, capi missione, sotto indicati, sono fissati, a decorrere dal 1° luglio 1894, come segue: 
+ 
+ Berlino, L. 90,000. 
+ 
+ Costantinopoli, L. 70,000. 
+ 
+ Londra, L. 90,000. 
+ 
+ Madrid, L. 60,000. 
+ 
+ Parigi, L. 90,000. 
+ 
+ Pietroburgo, L. 90,000. 
+ 
+ Vienna, L. 90,000. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 24 giugno 1894. 
+ 
+ UMBERTO. 
+ 
+ A. Blanc. 
+ 
+ Visto, Il Guardasigilli: V. Calenda di Tavani.

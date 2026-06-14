@@ -1,16 +1,14 @@
-REGIO DECRETO 11 settembre 1892 n. 624
-
-
-REGIO DECRETO 11 settembre 1892 n. 624
-======================================
-
-Che concerne il Convitto Nazionale Vittorio Emanuele II in Roma. (092U0624)
----------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/11/1892
+---
+tipo: REGIO DECRETO
+numero: 624
+data: 1892-09-11
+titolo: "Che concerne il Convitto Nazionale Vittorio Emanuele II in Roma. (092U0624)"
+urn: urn:nir:stato:regio.decreto:1892-09-11;624
+codice_redazionale: 092U0624
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,27 +18,20 @@ Visto l'art. 5 del Nostro decreto 12 marzo 1891, riguardante il Convitto Naziona
 
 Vista la deliberazione del Consiglio provinciale di Roma in data 9 giugno 1892;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-L'art. 5 del R. decreto 12 marzo 1891 e' cosi' modificato:   
-  
-La Provincia avra' perpetuamente il diritto di disporre di dieci posti gratuiti e di dieci posti semigratuiti nel Convitto Nazionale, che la Deputazione conferira' secondo le norme da stabilirsi con apposito regolamento, e cio' in corrispettivo delle cessioni e concessioni fatte colla deliberazione della Deputazione provinciale di Roma in data 29 dicembre 1890.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Genova, addi' 11 settembre 1892.   
-  
-UMBERTO.   
-  
-Martini.   
-  
-Visto, Il Guardasigilli: Bonacci.   
-  
+L'art. 5 del R. decreto 12 marzo 1891 e' cosi' modificato: 
+ 
+ La Provincia avra' perpetuamente il diritto di disporre di dieci posti gratuiti e di dieci posti semigratuiti nel Convitto Nazionale, che la Deputazione conferira' secondo le norme da stabilirsi con apposito regolamento, e cio' in corrispettivo delle cessioni e concessioni fatte colla deliberazione della Deputazione provinciale di Roma in data 29 dicembre 1890. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Genova, addi' 11 settembre 1892. 
+ 
+ UMBERTO. 
+ 
+ Martini. 
+ 
+ Visto, Il Guardasigilli: Bonacci.

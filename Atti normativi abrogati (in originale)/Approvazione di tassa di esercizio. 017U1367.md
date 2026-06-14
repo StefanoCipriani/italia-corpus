@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 14 giugno 1917 n. 1367
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1367
+data: 1917-06-14
+titolo: "Approvazione di tassa di esercizio. (017U1367)"
+urn: urn:nir:stato:decreto.luogotenenziale:1917-06-14;1367
+codice_redazionale: 017U1367
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 14 giugno 1917 n. 1367
-==============================================
-
-Approvazione di tassa di esercizio. (017U1367)
-----------------------------------------------
-
-Entrata in vigore del provvedimento: 22/09/1917
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1367. Decreto Luogotenenziale 14 giugno 1917, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Pescia (Lucca) di applicare la tassa di esercizio nella misura massima di L. 1800 dal 1° gennaio 1916 al 31 dicembre dell'anno in cui cessera' la guerra.
+1367.
+
+Decreto Luogotenenziale 14 giugno 1917, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Pescia (Lucca) di applicare la tassa di esercizio nella misura massima di L. 1800 dal 1° gennaio 1916 al 31 dicembre dell'anno in cui cessera' la guerra.

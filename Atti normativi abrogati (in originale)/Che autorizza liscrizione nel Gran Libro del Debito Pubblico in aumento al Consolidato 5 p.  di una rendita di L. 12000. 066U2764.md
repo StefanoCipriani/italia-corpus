@@ -1,16 +1,14 @@
-REGIO DECRETO 18 gennaio 1866 n. 2764
-
-
-REGIO DECRETO 18 gennaio 1866 n. 2764
-=====================================
-
-Che autorizza l'iscrizione nel Gran Libro del Debito Pubblico, in aumento al Consolidato 5 p. %, di una rendita di L. 12,000. (066U2764)
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/02/1866
+---
+tipo: REGIO DECRETO
+numero: 2764
+data: 1866-01-18
+titolo: "Che autorizza l'iscrizione nel Gran Libro del Debito Pubblico, in aumento al Consolidato 5 p. %, di una rendita di L. 12,000. (066U2764)"
+urn: urn:nir:stato:regio.decreto:1866-01-18;2764
+codice_redazionale: 066U2764
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,46 +22,31 @@ Veduti i Reali Decreti dei 4 febbraio e 10 luglio 1864, 12 febbraio e 26 luglio 
 
 Ritenuto che un successivo versamento di lire duecento quarantamila fu fatto il 1.° gennaio 1866 dalla Amministrazione della Cassa Ecclesiastica nella Tesoreria provinciale di Torino in conto Proventi demaniali - Esercizio 1865, quale ricavo di vendite di beni effettuate sotto le condizioni contemplate dalle suavvertite transitorie disposizioni;
 
-Sulla
------
+Sulla proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
 
-proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+E' autorizzata l'iscrizione nel Gran Libro del Debito Pubblico in aumento al Consolidato 5 p. % di una rendita di lire dodicimila (L.
+12,000) con decorrenza di godimento dal 1.° gennaio 1866.
 
-  
-  
-E' autorizzata l'iscrizione nel Gran Libro del Debito Pubblico in aumento al Consolidato 5 p. % di una rendita di lire dodicimila (L.  
-12,000) con decorrenza di godimento dal 1.° gennaio 1866.   
-  
+## Art. 2.
 
-Art. 2
-------
+Per tale rendita sara' emesso dalla Direzione generale del Debito Pubblico corrispondente Certificato in favore dell'Amministrazione della Cassa Ecclesiastica dello Stato.
 
-  
-  
-Per tale rendita sara' emesso dalla Direzione generale del Debito Pubblico corrispondente Certificato in favore dell'Amministrazione della Cassa Ecclesiastica dello Stato.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Pel servizio della rendita di cui agli articoli precedenti e' fatta, sulla Tesoreria Centrale del Regno, cominciando dal 1.° gennaio 1866, l'annua assegnazione di lire 12,000.   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 18 gennaio 1866.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 29 gennaio 1866   
-  
-Reg.° 35 Atti del Governo a c. 67. Ayres.   
-  
-Luogo del Sigillo. V. Il Guardasigilli De Falco.   
-  
-A. Scialoja.   
-  
+Pel servizio della rendita di cui agli articoli precedenti e' fatta, sulla Tesoreria Centrale del Regno, cominciando dal 1.° gennaio 1866, l'annua assegnazione di lire 12,000. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 18 gennaio 1866. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 29 gennaio 1866 
+ 
+ Reg.° 35 Atti del Governo a c. 67. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli De Falco. 
+ 
+ A. Scialoja.

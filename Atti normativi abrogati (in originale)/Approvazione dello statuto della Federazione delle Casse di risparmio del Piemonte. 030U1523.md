@@ -1,22 +1,22 @@
-REGIO DECRETO 13 novembre 1930 n. 1523
+---
+tipo: REGIO DECRETO
+numero: 1523
+data: 1930-11-13
+titolo: "Approvazione dello statuto della Federazione delle Casse di risparmio del Piemonte. (030U1523)"
+urn: urn:nir:stato:regio.decreto:1930-11-13;1523
+codice_redazionale: 030U1523
+vigente: true
+---
 
-
-REGIO DECRETO 13 novembre 1930 n. 1523
-======================================
-
-Approvazione dello statuto della Federazione delle Casse di risparmio del Piemonte. (030U1523)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/12/1930
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1523. R. decreto 13 novembre 1930, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene approvato lo statuto organico della Federazione delle Casse di risparmio del Piemonte.   
-  
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 3 dicembre 1930 - Anno IX
+1523.
+
+R. decreto 13 novembre 1930, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene approvato lo statuto organico della Federazione delle Casse di risparmio del Piemonte. 
+ 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 3 dicembre 1930 - Anno IX

@@ -1,38 +1,24 @@
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 13 luglio 1946 n. 26
-
-
-DECRETO DEL CAPO PROVVISORIO DELLO STATO 13 luglio 1946 n. 26
-=============================================================
-
-Istituzione del Ministero della marina mercantile.
---------------------------------------------------
+---
+tipo: DECRETO DEL CAPO PROVVISORIO DELLO STATO
+numero: 26
+data: 1946-07-13
+titolo: "Istituzione del Ministero della marina mercantile."
+urn: urn:nir:stato:decreto.del.capo.provvisorio.dello.stato:1946-07-13;26
+codice_redazionale: 046U0026
+vigente: true
+---
 
 IL CAPO PROVVISORIO DELLO STATO
--------------------------------
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segretario di Stato; Decreta:
 
-proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segretario di Stato; Decreta:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' istituito il Ministero della marina mercantile.  
-Le attribuzioni relative saranno determinate con successivo decreto.  
-  
+E' istituito il Ministero della marina mercantile.
+ Le attribuzioni relative saranno determinate con successivo decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Dato a Roma, addi' 13 luglio 1946
+Dato a Roma, addi' 13 luglio 1946
 
-DE NICOLA DE GASPERI
-
-Visto, il Guardasigilli: GULLO Registra
-
-to alla Corte dei Conti, addi' 23 luglio 1946 Atti del
-
-Governo, registro n. 1, Foglio n. 25. - FRASCA
+DE NICOLA DE GASPERI Visto, il Guardasigilli: GULLO Registra to alla Corte dei Conti, addi' 23 luglio 1946 Atti del Governo, registro n. 1, Foglio n. 25. - FRASCA

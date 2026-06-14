@@ -1,16 +1,14 @@
-REGIO DECRETO 20 ottobre 1868 n. 4654
-
-
-REGIO DECRETO 20 ottobre 1868 n. 4654
-=====================================
-
-Che dichiara provinciale il tronco di strada da S. Potito per Sorbo a Salsa, denominato deviazione al primo tratto. (068U4654)
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/11/1868
+---
+tipo: REGIO DECRETO
+numero: 4654
+data: 1868-10-20
+titolo: "Che dichiara provinciale il tronco di strada da S. Potito per Sorbo a Salsa, denominato deviazione al primo tratto. (068U4654)"
+urn: urn:nir:stato:regio.decreto:1868-10-20;4654
+codice_redazionale: 068U4654
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,27 +18,20 @@ Veduto il Nostro Decreto in data del 23 d'agosto ultimo scorso, con cui venne ap
 
 Richiamata la deliberazione di quel Consiglio provinciale in data dell'11 maggio 1868, con cui si dichiarava provinciale, oltre la strada Melfi, anche la sua deviazione al primo tratto;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Fra le strade provinciali, dichiarate tali col predetto Nostro Decreto del 23 agosto ultimo, e' compreso, oltre la strada Melfi, il tronco da S. Potito per Sorbo a Salsa, denominato deviazione al primo tratto.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 20 ottobre 1868.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 2 novembre 1868   
-Reg. 44 Atti del Governo a c. 22 Ayres.   
-Luogo del sigillo. V. Il Guardasigilli De Filippo.   
-  
-G. Cantelli.   
-  
+Fra le strade provinciali, dichiarate tali col predetto Nostro Decreto del 23 agosto ultimo, e' compreso, oltre la strada Melfi, il tronco da S. Potito per Sorbo a Salsa, denominato deviazione al primo tratto. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 20 ottobre 1868. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 2 novembre 1868 
+ Reg. 44 Atti del Governo a c. 22 Ayres. 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ G. Cantelli.

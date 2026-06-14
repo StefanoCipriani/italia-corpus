@@ -1,20 +1,16 @@
-REGIO DECRETO 01 febbraio 1914 n. 121
+---
+tipo: REGIO DECRETO
+numero: 121
+data: 1914-02-01
+titolo: "Accettazione di legato « Graf ». (014U0121)"
+urn: urn:nir:stato:regio.decreto:1914-02-01;121
+codice_redazionale: 014U0121
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 01 febbraio 1914 n. 121
-=====================================
-
-Accettazione di legato « Graf ». (014U0121)
--------------------------------------------
-
-Entrata in vigore del provvedimento: 25/03/1914
-
-Art. 1
-------
-
-  
-N. 121   
-  
-Regio Decreto 1 febbraio 1914, col quale, sulla proposta del Ministro dell'istruzione pubblica, la R. Universita' di Torino e' autorizzata ad accettare il legato, disposto a favore della Biblioteca di quella Facolta' di filosofia e lettere, dal prof.  
-Arturo Graf, e costituito da tutti i libri e da tutte le carte di detto professore.   
-  
+N. 121 
+ 
+ Regio Decreto 1 febbraio 1914, col quale, sulla proposta del Ministro dell'istruzione pubblica, la R. Universita' di Torino e' autorizzata ad accettare il legato, disposto a favore della Biblioteca di quella Facolta' di filosofia e lettere, dal prof.
+Arturo Graf, e costituito da tutti i libri e da tutte le carte di detto professore.

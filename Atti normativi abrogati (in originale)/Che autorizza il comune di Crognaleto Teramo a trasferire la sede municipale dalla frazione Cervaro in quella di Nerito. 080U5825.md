@@ -1,16 +1,14 @@
-REGIO DECRETO 05 dicembre 1880 n. 5825
-
-
-REGIO DECRETO 05 dicembre 1880 n. 5825
-======================================
-
-Che autorizza il comune di Crognaleto (Teramo) a trasferire la sede municipale dalla frazione Cervaro in quella di Nerito. (080U5825)
--------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/04/1881
+---
+tipo: REGIO DECRETO
+numero: 5825
+data: 1880-12-05
+titolo: "Che autorizza il comune di Crognaleto (Teramo) a trasferire la sede municipale dalla frazione Cervaro in quella di Nerito. (080U5825)"
+urn: urn:nir:stato:regio.decreto:1880-12-05;5825
+codice_redazionale: 080U5825
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,26 +20,19 @@ Vedute le istanze fatte dal Consiglio comunale di Crognaleto con deliberazione 9
 
 Vista la deliberazione del Consiglio provinciale di Teramo in data 8 settembre 1880;
 
-Vista
------
+Vista la legge comunale e provinciale 20 marzo 1865, allegato A; Abbiamo decretato e decretiamo:
 
-la legge comunale e provinciale 20 marzo 1865, allegato A; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Crognaleto, nella provincia di Teramo, e' autorizzato a trasferire la sede municipale dalla frazione di Cervaro a quella di Nerito.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 dicembre 1880.   
-  
-UMBERTO.   
-  
-DEPRETIS.   
-  
-Visto - Il Guardasigilli   
-T. VILLA.   
-  
+Il comune di Crognaleto, nella provincia di Teramo, e' autorizzato a trasferire la sede municipale dalla frazione di Cervaro a quella di Nerito. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 dicembre 1880. 
+ 
+ UMBERTO. 
+ 
+ DEPRETIS. 
+ 
+ Visto - Il Guardasigilli 
+ T. VILLA.

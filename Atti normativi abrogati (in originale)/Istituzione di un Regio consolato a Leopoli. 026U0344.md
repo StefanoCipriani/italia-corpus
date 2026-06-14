@@ -1,21 +1,21 @@
-REGIO DECRETO 07 febbraio 1926 n. 344
+---
+tipo: REGIO DECRETO
+numero: 344
+data: 1926-02-07
+titolo: "Istituzione di un Regio consolato a Leopoli. (026U0344)"
+urn: urn:nir:stato:regio.decreto:1926-02-07;344
+codice_redazionale: 026U0344
+vigente: true
+---
 
-
-REGIO DECRETO 07 febbraio 1926 n. 344
-=====================================
-
-Istituzione di un Regio consolato a Leopoli. (026U0344)
--------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/03/1926
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-344. R. decreto 7 febbraio 1926, col quale, sulla proposta del Ministro per gli affari esteri, viene istituito un Regio consolato di seconda categoria a Leopoli con giurisdizione sulle provincie di Leopoli, Tarnopoli e Stanislawow.   
-  
-Visto, il Guardasigilli: Rocco.   
-  
-Registrato alla Corte dei conti, addi' 6 marzo 1926.
+344.
+
+R. decreto 7 febbraio 1926, col quale, sulla proposta del Ministro per gli affari esteri, viene istituito un Regio consolato di seconda categoria a Leopoli con giurisdizione sulle provincie di Leopoli, Tarnopoli e Stanislawow. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 6 marzo 1926.

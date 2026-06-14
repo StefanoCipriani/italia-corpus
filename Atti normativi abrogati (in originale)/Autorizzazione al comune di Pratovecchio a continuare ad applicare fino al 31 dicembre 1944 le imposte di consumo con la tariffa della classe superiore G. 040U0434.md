@@ -1,16 +1,14 @@
-REGIO DECRETO 04 aprile 1940 n. 434
-
-
-REGIO DECRETO 04 aprile 1940 n. 434
-===================================
-
-Autorizzazione al comune di Pratovecchio a continuare ad applicare, fino al 31 dicembre 1944, le imposte di consumo con la tariffa della classe superiore G. (040U0434)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/06/1940
+---
+tipo: REGIO DECRETO
+numero: 434
+data: 1940-04-04
+titolo: "Autorizzazione al comune di Pratovecchio a continuare ad applicare, fino al 31 dicembre 1944, le imposte di consumo con la tariffa della classe superiore G. (040U0434)"
+urn: urn:nir:stato:regio.decreto:1940-04-04;434
+codice_redazionale: 040U0434
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,28 +24,22 @@ Ritenuto che la domanda del Comune e' giustificata da imprescindibili necessita'
 
 Visto l'art. 26 del testo unico per la finanza locale 14 settembre 1931, n. 1175;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Pratovecchio e' autorizzato a continuare ad applicare le imposte di consumo con la tariffa della classe superiore G fino al 31 dicembre 1944;   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 aprile 1940-XVIII   
-  
-VITTORIO EMANUELE   
-  
-Di Revel   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 22 maggio 1940-XVIII   
-  
-Atti del Governo, registro 421, foglio 68. - MANCINI   
+Il comune di Pratovecchio e' autorizzato a continuare ad applicare le imposte di consumo con la tariffa della classe superiore G fino al 31 dicembre 1944; 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 aprile 1940-XVIII 
+ 
+ VITTORIO EMANUELE 
+ 
+ Di Revel 
+ 
+Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 22 maggio 1940-XVIII 
+ 
+ Atti del Governo, registro 421, foglio 68. - MANCINI

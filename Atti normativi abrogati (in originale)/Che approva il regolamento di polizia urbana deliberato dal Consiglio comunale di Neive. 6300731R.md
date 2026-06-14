@@ -1,20 +1,17 @@
-REGIO DECRETO 08 aprile 1863 n. DCCXXXI
+---
+tipo: REGIO DECRETO
+numero: DCCXXXI
+data: 1863-04-08
+titolo: "Che approva il regolamento di polizia urbana deliberato dal Consiglio comunale di Neive. (6300731R)"
+urn: urn:nir:stato:regio.decreto:1863-04-08;731
+codice_redazionale: 6300731R
+vigente: true
+---
 
-
-REGIO DECRETO 08 aprile 1863 n. DCCXXXI
-=======================================
-
-Che approva il regolamento di polizia urbana deliberato dal Consiglio comunale di Neive. (6300731R)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/04/1863
-
-Art. 1
-------
+## Art. 1.
 
 Con cui e' approvato il regolamento di polizia urbana deliberato dal Consiglio comunale di Neive (Cuneo) nella seduta 13 ottobre
 
-1862. 
-  
-  
+1862.
+
 Torino 8 aprile 1863.

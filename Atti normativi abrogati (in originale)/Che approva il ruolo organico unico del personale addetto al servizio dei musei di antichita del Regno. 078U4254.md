@@ -1,16 +1,14 @@
-REGIO DECRETO 03 gennaio 1878 n. 4254
-
-
-REGIO DECRETO 03 gennaio 1878 n. 4254
-=====================================
-
-Che approva il ruolo organico unico del personale addetto al servizio dei musei di antichita' del Regno. (078U4254)
--------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 22/02/1878
+---
+tipo: REGIO DECRETO
+numero: 4254
+data: 1878-01-03
+titolo: "Che approva il ruolo organico unico del personale addetto al servizio dei musei di antichita' del Regno. (078U4254)"
+urn: urn:nir:stato:regio.decreto:1878-01-03;4254
+codice_redazionale: 078U4254
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,39 +26,20 @@ Veduto l'altro Nostro decreto 30 novembre 1877, riguardante l'ufficio di diretto
 
 Considerata l'utilita' che reca al servizio dei Musei dello Stato il riunire in un ruolo unico tutto il personale che vi e' addetto, a fine di destinare a ciascuno Istituto quel numero d'impiegati che secondo le circostanze potra' esservi necessario;
 
-Sulla
------
+Sulla proposizione del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
 
-proposizione del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Sono aboliti tutti i ruoli organici sopra citati, per la parte che riguardano gl'impiegati dei Musei di antichita' e del Museo egizio-etrusco di Firenze.
 
-  
-  
-Sono aboliti tutti i ruoli organici sopra citati, per la parte che riguardano gl'impiegati dei Musei di antichita' e del Museo egizio-etrusco di Firenze.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' approvato il ruolo unico degl'impiegati addetti al servizio dei Musei di antichita' annesso al presente decreto e firmato d'ordine Nostro dal Ministro Segretario di Stato per la Pubblica Istruzione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 gennaio 1878.   
-  
-VITTORIO EMANUELE.   
-  
-Coppino.   
-  
-
-Tabella
-
-  
-RUOLO UNICO degl'impiegati addetti al servizio dei Musei di antichita'.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=078U425400100010110001&dgu=1878-02-07&art.dataPubblicazioneGazzetta=1878-02-07&art.codiceRedazionale=078U4254)
-  
+E' approvato il ruolo unico degl'impiegati addetti al servizio dei Musei di antichita' annesso al presente decreto e firmato d'ordine Nostro dal Ministro Segretario di Stato per la Pubblica Istruzione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 gennaio 1878. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Coppino.

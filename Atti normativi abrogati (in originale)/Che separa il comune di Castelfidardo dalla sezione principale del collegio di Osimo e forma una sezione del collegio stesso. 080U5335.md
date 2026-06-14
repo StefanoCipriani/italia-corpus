@@ -1,16 +1,14 @@
-REGIO DECRETO 11 marzo 1880 n. 5335
-
-
-REGIO DECRETO 11 marzo 1880 n. 5335
-===================================
-
-Che separa il comune di Castelfidardo dalla sezione principale del collegio di Osimo e forma una sezione del collegio stesso. (080U5335)
-----------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 14/04/1880
+---
+tipo: REGIO DECRETO
+numero: 5335
+data: 1880-03-11
+titolo: "Che separa il comune di Castelfidardo dalla sezione principale del collegio di Osimo e forma una sezione del collegio stesso. (080U5335)"
+urn: urn:nir:stato:regio.decreto:1880-03-11;5335
+codice_redazionale: 080U5335
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,26 +24,19 @@ Che il comune di Castelfidardo conta 68 elettori, numero questo alquanto superio
 
 Considerato che istituendo una sezione elettorale in Castelfidardo si agevola a quegli elettori l'esercizio dei loro diritti;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Castelfidardo e' separato dalla sezione principale del Collegio elettorale di Osimo, e formera' una sezione distinta dello stesso Collegio.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 marzo 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Il comune di Castelfidardo e' separato dalla sezione principale del Collegio elettorale di Osimo, e formera' una sezione distinta dello stesso Collegio. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 marzo 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

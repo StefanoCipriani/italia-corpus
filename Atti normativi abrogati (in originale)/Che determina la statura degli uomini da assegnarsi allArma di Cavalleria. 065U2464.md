@@ -1,16 +1,14 @@
-REGIO DECRETO 24 agosto 1865 n. 2464
-
-
-REGIO DECRETO 24 agosto 1865 n. 2464
-====================================
-
-Che determina la statura degli uomini da assegnarsi all'Arma di Cavalleria. (065U2464)
---------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/09/1865
+---
+tipo: REGIO DECRETO
+numero: 2464
+data: 1865-08-24
+titolo: "Che determina la statura degli uomini da assegnarsi all'Arma di Cavalleria. (065U2464)"
+urn: urn:nir:stato:regio.decreto:1865-08-24;2464
+codice_redazionale: 065U2464
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,38 +20,31 @@ Visto il Decreto 31 marzo 1855 con cui e' approvato il Regolamento per l'esecuzi
 
 Sentito il rapporto del Nostro Ministro della Guerra sulla convenienza di ridurre in meno la statura fio qui prescritta per gli uomini da destinarsi all'Arma di Cavalleria;
 
-Sulla
------
+Sulla proposta dello stesso Ministro della Guerra; Abbiamo decretato e decretiamo quanto segue:
 
-proposta dello stesso Ministro della Guerra; Abbiamo decretato e decretiamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le prescrizioni contenute nel paragrafo 242 del vigente Regolamento sul reclutamento dell'Esercito intorno la statura degli uomini da assegnarsi all'Arma di Cavalleria sono abrogate, ed in sostituzione ad esse viene stabilito, che d'ora in avanti la misura per tali uomini sia quella indicata nella seguente tabella.   
-  
-minimum maximum   
-  
-Per la Cavalleria di linea metri 1.70 1.76   
-Per i Lancieri. . . . . . . » 1.66 1.72   
-» Cavalleggeri . . . . » )   
-» Ussari di Piacenza. . » > 1.63 1.69   
-» Guide . . . . . . . . » )   
-  
-Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino addi' 24 agosto 1865.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 9 settembre 1865   
-  
-Reg.° 33 Atti del Governo a c. 175. Crodara-Visconti.   
-  
-Luogo del sigillo. V. Il Guardasigilli Cortese.   
-  
-A. Petitti.   
-G. Lanza.   
-  
+Le prescrizioni contenute nel paragrafo 242 del vigente Regolamento sul reclutamento dell'Esercito intorno la statura degli uomini da assegnarsi all'Arma di Cavalleria sono abrogate, ed in sostituzione ad esse viene stabilito, che d'ora in avanti la misura per tali uomini sia quella indicata nella seguente tabella. 
+ 
+ minimum maximum 
+ 
+ Per la Cavalleria di linea metri 1.70 1.76 
+ Per i Lancieri. . . . . . . » 1.66 1.72 
+ » Cavalleggeri . . . . » ) 
+ » Ussari di Piacenza. . » > 1.63 1.69 
+ » Guide . . . . . . . . » ) 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 24 agosto 1865. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 9 settembre 1865 
+ 
+ Reg.° 33 Atti del Governo a c. 175. Crodara-Visconti. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Cortese. 
+ 
+ A. Petitti. 
+ G. Lanza.

@@ -1,16 +1,14 @@
-REGIO DECRETO 06 novembre 1913 n. 1340
-
-
-REGIO DECRETO 06 novembre 1913 n. 1340
-======================================
-
-Col quale e' approvata la convenzione con la Societa' trazione ed imprese elettriche con sede in Milano, per la trasformazione a trazione elettrica della tramvia a vapore Milano-Gallarate. (013U1340)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/12/1913
+---
+tipo: REGIO DECRETO
+numero: 1340
+data: 1913-11-06
+titolo: "Col quale e' approvata la convenzione con la Societa' trazione ed imprese elettriche con sede in Milano, per la trasformazione a trazione elettrica della tramvia a vapore Milano-Gallarate. (013U1340)"
+urn: urn:nir:stato:regio.decreto:1913-11-06;1340
+codice_redazionale: 013U1340
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,25 +18,18 @@ Visto il testo unico delle disposizioni di legge sulle ferrovie concesse all'ind
 
 Sentito il Consiglio superiore dei lavori pubblici;
 
-Sulla
------
+Sulla proposta del Nostro ministro, segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
 
-proposta del Nostro ministro, segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' approvata e resa esecutoria la convenzione stipulata il 10 luglio 1913 fra l'ispettore generale direttore dell'ufficio speciale delle ferrovie, per conto dell'Amministrazione dello Stato, ed il legale rappresentante della «Societa' trazione ed imprese elettriche», con sede in Milano, per la trasformazione a trazione elettrica della tramvia a vapore Milano-Gallarate di cui la Societa' stessa e' concessionaria.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 6 novembre 1913.   
-  
-VITTORIO EMANUELE.   
-  
-Sacchi.   
-  
-Visto, Il guardasigilli: Finocchiaro-Aprile.   
-  
+E' approvata e resa esecutoria la convenzione stipulata il 10 luglio 1913 fra l'ispettore generale direttore dell'ufficio speciale delle ferrovie, per conto dell'Amministrazione dello Stato, ed il legale rappresentante della «Societa' trazione ed imprese elettriche», con sede in Milano, per la trasformazione a trazione elettrica della tramvia a vapore Milano-Gallarate di cui la Societa' stessa e' concessionaria. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 6 novembre 1913. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Sacchi. 
+ 
+ Visto, Il guardasigilli: Finocchiaro-Aprile.

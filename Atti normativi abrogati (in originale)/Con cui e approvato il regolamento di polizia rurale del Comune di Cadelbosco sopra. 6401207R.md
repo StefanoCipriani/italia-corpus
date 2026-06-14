@@ -1,19 +1,15 @@
-REGIO DECRETO 24 aprile 1864 n. MCCVII
+---
+tipo: REGIO DECRETO
+numero: MCCVII
+data: 1864-04-24
+titolo: "Con cui e' approvato il regolamento di polizia rurale del Comune di Cadelbosco sopra. (6401207R)"
+urn: urn:nir:stato:regio.decreto:1864-04-24;1207
+codice_redazionale: 6401207R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 24 aprile 1864 n. MCCVII
-======================================
-
-Con cui e' approvato il regolamento di polizia rurale del Comune di Cadelbosco sopra. (6401207R)
-------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/04/1864
-
-Art. 1
-------
-
-  
-Che approva il regolamento di polizia rurale del Comune di Cadelbosco sopra, Provincia di Reggio nell'Emilia, in data del 9 marzo corrente anno.   
-  
-Torino 24 aprile 1864   
-  
+Che approva il regolamento di polizia rurale del Comune di Cadelbosco sopra, Provincia di Reggio nell'Emilia, in data del 9 marzo corrente anno. 
+ 
+ Torino 24 aprile 1864

@@ -1,16 +1,14 @@
-REGIO DECRETO 08 giugno 1876 n. 3152
-
-
-REGIO DECRETO 08 giugno 1876 n. 3152
-====================================
-
-Col quale i comuni di Suzzare e Motteggiana sono distaccati dalla sezione del collegio elettorale di Gonzaga, n. 448, e costituiti in sezione separata del collegio medesimo. (076U3152)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/06/1876
+---
+tipo: REGIO DECRETO
+numero: 3152
+data: 1876-06-08
+titolo: "Col quale i comuni di Suzzare e Motteggiana sono distaccati dalla sezione del collegio elettorale di Gonzaga, n. 448, e costituiti in sezione separata del collegio medesimo. (076U3152)"
+urn: urn:nir:stato:regio.decreto:1876-06-08;3152
+codice_redazionale: 076U3152
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Suzzara e Motteggiana sono separati, il primo dalla sezione elettorale di Gonzaga, ed il secondo da quella di San Benedetto, e costituiranno una sezione distinta del Collegio elettorale di Gonzaga, con sede a Suzzara.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 8 giugno 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+I comuni di Suzzara e Motteggiana sono separati, il primo dalla sezione elettorale di Gonzaga, ed il secondo da quella di San Benedetto, e costituiranno una sezione distinta del Collegio elettorale di Gonzaga, con sede a Suzzara. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 giugno 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

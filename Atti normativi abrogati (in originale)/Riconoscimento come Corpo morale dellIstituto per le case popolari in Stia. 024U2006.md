@@ -1,21 +1,21 @@
-REGIO DECRETO 23 novembre 1924 n. 2006
+---
+tipo: REGIO DECRETO
+numero: 2006
+data: 1924-11-23
+titolo: "Riconoscimento come Corpo morale dell'Istituto per le case popolari, in Stia. (024U2006)"
+urn: urn:nir:stato:regio.decreto:1924-11-23;2006
+codice_redazionale: 024U2006
+vigente: true
+---
 
-
-REGIO DECRETO 23 novembre 1924 n. 2006
-======================================
-
-Riconoscimento come Corpo morale dell'Istituto per le case popolari, in Stia. (024U2006)
-----------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 31/12/1924
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-2006. R. decreto 23 novembre 1924, col quale, sulla proposta del Ministro per l'economia nazionale, l'Istituto per le case popolari, con sede nel comune di Stia, viene riconosciuto come Corpo morale ed e' approvato lo statuto organico relativo.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 12 dicembre 1924.
+2006.
+
+R. decreto 23 novembre 1924, col quale, sulla proposta del Ministro per l'economia nazionale, l'Istituto per le case popolari, con sede nel comune di Stia, viene riconosciuto come Corpo morale ed e' approvato lo statuto organico relativo. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 12 dicembre 1924.

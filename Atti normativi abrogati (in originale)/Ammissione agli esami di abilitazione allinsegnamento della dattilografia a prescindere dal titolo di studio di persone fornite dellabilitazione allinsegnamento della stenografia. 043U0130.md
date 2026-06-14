@@ -1,16 +1,14 @@
-REGIO DECRETO 04 febbraio 1943 n. 130
-
-
-REGIO DECRETO 04 febbraio 1943 n. 130
-=====================================
-
-Ammissione agli esami di abilitazione all'insegnamento della dattilografia, a prescindere dal titolo di studio, di persone fornite dell'abilitazione all'insegnamento della stenografia. (043U0130)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/04/1943
+---
+tipo: REGIO DECRETO
+numero: 130
+data: 1943-02-04
+titolo: "Ammissione agli esami di abilitazione all'insegnamento della dattilografia, a prescindere dal titolo di studio, di persone fornite dell'abilitazione all'insegnamento della stenografia. (043U0130)"
+urn: urn:nir:stato:regio.decreto:1943-02-04;130
+codice_redazionale: 043U0130
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -34,27 +32,21 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Le persone fornite di titolo legale di abilitazione all'insegnamento della stenografia per uno o piu' sistemi nelle pubbliche scuole di ogni ordine e grado sono ammesse agli esami di abilitazione all'insegnamento della dattilografia anche se non posseggano i titoli di studio di cui all'art. 94 del R. decreto 5 luglio 1934-XII, n. 1185, e sono dispensati dall'obbligo di sostenere la prova scritta di cultura generale, prevista dalla lettera A, n. 1, del programma di esame per l'abilitazione all'insegnamento della dattilografia, approvato con Regio decreto 20 luglio 1934-XII, n. 1186.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 4 febbraio 1943-XXI   
-  
-VITTORIO EMANUELE   
-  
-MUSSOLINI - BOTTAI - DI REVEL   
-  
-Visto, il Guardasigilli: DE MARSICO   
-  
-Registrato alla Corte dei conti, addi' 30 marzo 1943-XXI   
-Atti del Governo, registro 455, foglio 106. - MANCINI   
+Le persone fornite di titolo legale di abilitazione all'insegnamento della stenografia per uno o piu' sistemi nelle pubbliche scuole di ogni ordine e grado sono ammesse agli esami di abilitazione all'insegnamento della dattilografia anche se non posseggano i titoli di studio di cui all'art. 94 del R. decreto 5 luglio 1934-XII, n. 1185, e sono dispensati dall'obbligo di sostenere la prova scritta di cultura generale, prevista dalla lettera A, n. 1, del programma di esame per l'abilitazione all'insegnamento della dattilografia, approvato con Regio decreto 20 luglio 1934-XII, n. 1186. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 febbraio 1943-XXI 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - BOTTAI - DI REVEL 
+ 
+ Visto, il Guardasigilli: DE MARSICO 
+ 
+ Registrato alla Corte dei conti, addi' 30 marzo 1943-XXI 
+ Atti del Governo, registro 455, foglio 106. - MANCINI

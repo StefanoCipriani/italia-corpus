@@ -1,16 +1,14 @@
-REGIO DECRETO 02 febbraio 1896 n. 37
-
-
-REGIO DECRETO 02 febbraio 1896 n. 37
-====================================
-
-Che sopprime la carica di R. Ispettore superiore Sanitario alla dipendenza dell'Ispettore Generale delle Strade Ferrate. (096U0037)
------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 15/03/1896
+---
+tipo: REGIO DECRETO
+numero: 37
+data: 1896-02-02
+titolo: "Che sopprime la carica di R. Ispettore superiore Sanitario alla dipendenza dell'Ispettore Generale delle Strade Ferrate. (096U0037)"
+urn: urn:nir:stato:regio.decreto:1896-02-02;37
+codice_redazionale: 096U0037
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,25 +20,18 @@ Riconosciuta l'opportunita' di sopprimere il posto di R. Ispettore superiore San
 
 Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici;
 
-Udito
------
+Udito il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
 
-il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La carica di R. Ispettore superiore Sanitario alla dipendenza dell'Ispettore Generale delle Strade Ferrate e' soppressa, a datare dal 1° corrente mese.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 2 febbraio 1896.   
-  
-UMBERTO.   
-  
-G. Saracco.   
-  
-Visto, Il Guardasigilli: V. Calenda di Tavani.   
-  
+La carica di R. Ispettore superiore Sanitario alla dipendenza dell'Ispettore Generale delle Strade Ferrate e' soppressa, a datare dal 1° corrente mese. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 febbraio 1896. 
+ 
+ UMBERTO. 
+ 
+ G. Saracco. 
+ 
+ Visto, Il Guardasigilli: V. Calenda di Tavani.

@@ -1,16 +1,14 @@
-REGIO DECRETO 09 marzo 1870 n. 5556
-
-
-REGIO DECRETO 09 marzo 1870 n. 5556
-===================================
-
-La frazione di Leognano passa a far parte della Sezione di Montorio al Vomano del Collegio elettorale di Teramo. (070U5556)
----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 04/04/1870
+---
+tipo: REGIO DECRETO
+numero: 5556
+data: 1870-03-09
+titolo: "La frazione di Leognano passa a far parte della Sezione di Montorio al Vomano del Collegio elettorale di Teramo. (070U5556)"
+urn: urn:nir:stato:regio.decreto:1870-03-09;5556
+codice_redazionale: 070U5556
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Veduti gli articoli 63, 64, 65 e 66 della Legge per le elezioni politiche 17 dic
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-La frazione di Leognano e' staccata dalla Sezione di Tossiccia del Collegio elettorale di Teramo, n. 8, cui fu sino ad ora unita, e passa a far parte di quella detta di Montorio al Vomano dello stesso Collegio.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Firenze addi' 9 marzo 1870.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 18 marzo 1870   
-  
-Reg. 50 Atti del Governo a c. 142. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
-  
-G. Lanza.   
-  
+La frazione di Leognano e' staccata dalla Sezione di Tossiccia del Collegio elettorale di Teramo, n. 8, cui fu sino ad ora unita, e passa a far parte di quella detta di Montorio al Vomano dello stesso Collegio. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 9 marzo 1870. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 18 marzo 1870 
+ 
+ Reg. 50 Atti del Governo a c. 142. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli M. Raeli. 
+ 
+ G. Lanza.

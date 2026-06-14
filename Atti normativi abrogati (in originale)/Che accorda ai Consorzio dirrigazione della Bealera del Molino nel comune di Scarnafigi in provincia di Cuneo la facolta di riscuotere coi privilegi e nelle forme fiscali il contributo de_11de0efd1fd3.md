@@ -1,16 +1,14 @@
-REGIO DECRETO 24 settembre 1889 n. 6429
-
-
-REGIO DECRETO 24 settembre 1889 n. 6429
-=======================================
-
-Che accorda ai Consorzio d'irrigazione della Bealera del Molino nel comune di Scarnafigi, in provincia di Cuneo, la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci (089U6429)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/11/1889
+---
+tipo: REGIO DECRETO
+numero: 6429
+data: 1889-09-24
+titolo: "Che accorda ai Consorzio d'irrigazione della Bealera del Molino nel comune di Scarnafigi, in provincia di Cuneo, la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci (089U6429)"
+urn: urn:nir:stato:regio.decreto:1889-09-24;6429
+codice_redazionale: 089U6429
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,27 +22,20 @@ Veduto lo statuto e gli atti relativi;
 
 Veduta la deliberazione in data 21 luglio 1889 dell'Assemblea generale dei soci, con la quale sono accettate le modificazioni allo statuto suggerite dal Ministero di Agricoltura, Industria e Commercio, con nota 17 giugno 1889, N. 17797;
 
-Veduta la [legge 29 maggio 1873, N. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (Serie 2ª);
+Veduta la [legge 29 maggio 1873, N. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md) (Serie 2ª);
 
-Sulla
------
+Sulla proposta del Nostro Ministro per l'Agricoltura Industria e Commercio; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro per l'Agricoltura Industria e Commercio; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al Consorzio d'irrigazione della Bealera del Molino nel comune di Scarnafigi, in provincia di Cuneo, e' accordata la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Monza, addi' 24 settembre 1889.   
-  
-UMBERTO.   
-  
-L. Miceli.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+Al Consorzio d'irrigazione della Bealera del Molino nel comune di Scarnafigi, in provincia di Cuneo, e' accordata la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 24 settembre 1889. 
+ 
+ UMBERTO. 
+ 
+ L. Miceli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

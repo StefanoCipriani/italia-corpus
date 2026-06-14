@@ -1,22 +1,18 @@
-REGIO DECRETO 09 aprile 1899 n. XCIV
+---
+tipo: REGIO DECRETO
+numero: XCIV
+data: 1899-04-09
+titolo: "Che applica la tassa di famiglia nel comune di Latiano. (9900094R)"
+urn: urn:nir:stato:regio.decreto:1899-04-09;94
+codice_redazionale: 9900094R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 09 aprile 1899 n. XCIV
-====================================
-
-Che applica la tassa di famiglia nel comune di Latiano. (9900094R)
-------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/05/1899
-
-Art. 1
-------
-
-  
-Con cui e' data facolta' al comune di Latiano di applicare per l'anno 1899 la tassa di famiglia col limite massimo di lire duecento (L. 200). - Firmato UMBERTO - Controfirmato Carcano - Visto C.  
-Finocchiaro Aprile.   
-  
-Registrato alla Corte dei Conti addi' 22 aprile 1899.   
-  
-Reg. 219. Atti del Governo a f. 49.   
-  
+Con cui e' data facolta' al comune di Latiano di applicare per l'anno 1899 la tassa di famiglia col limite massimo di lire duecento (L. 200). - Firmato UMBERTO - Controfirmato Carcano - Visto C.
+Finocchiaro Aprile. 
+ 
+ Registrato alla Corte dei Conti addi' 22 aprile 1899. 
+ 
+ Reg. 219. Atti del Governo a f. 49.

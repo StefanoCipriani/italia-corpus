@@ -1,16 +1,14 @@
-REGIO DECRETO 13 febbraio 1936 n. 448
-
-
-REGIO DECRETO 13 febbraio 1936 n. 448
-=====================================
-
-Precedenza assoluta nell'ammissione ai corsi regolari della Regia accademia aeronautica degli allievi dei collegi militari che abbiano conseguito la maturita' classica o scientifica. (036U0448)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 12/04/1936
+---
+tipo: REGIO DECRETO
+numero: 448
+data: 1936-02-13
+titolo: "Precedenza assoluta nell'ammissione ai corsi regolari della Regia accademia aeronautica degli allievi dei collegi militari che abbiano conseguito la maturita' classica o scientifica. (036U0448)"
+urn: urn:nir:stato:regio.decreto:1936-02-13;448
+codice_redazionale: 036U0448
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -32,35 +30,26 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra e per l'aeronautica, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra e per l'aeronautica, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Gli allievi dei collegi militari che abbiano conseguito la maturita' classica o scientifica, sempreche' riuniscano le condizioni prescritte, avranno la precedenza assoluta nell'ammissione ai corsi regolari della Regia accademia aeronautica, salvo l'accertamento dell'idoneita' negli appositi esami di concorso.
 
-  
-  
-Gli allievi dei collegi militari che abbiano conseguito la maturita' classica o scientifica, sempreche' riuniscano le condizioni prescritte, avranno la precedenza assoluta nell'ammissione ai corsi regolari della Regia accademia aeronautica, salvo l'accertamento dell'idoneita' negli appositi esami di concorso.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Il presente decreto andra' in vigore dall'anno scolastico 1936-1937.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 13 febbraio 1936 - Anno XIV   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Di Revel.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 25 marzo 1936 - Anno XIV   
-  
-Atti del Governo, registro 370, foglio 144 - Mancini.   
+Il presente decreto andra' in vigore dall'anno scolastico 1936-1937. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 febbraio 1936 - Anno XIV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Di Revel. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 25 marzo 1936 - Anno XIV 
+ 
+ Atti del Governo, registro 370, foglio 144 - Mancini.

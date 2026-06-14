@@ -1,16 +1,14 @@
-REGIO DECRETO 30 aprile 1876 n. 3078
-
-
-REGIO DECRETO 30 aprile 1876 n. 3078
-====================================
-
-Col quale il comune di Tredozio costituira' una sezione elettorale separata del collegio di Rocca san Casciano. (076U3078)
---------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 17/05/1876
+---
+tipo: REGIO DECRETO
+numero: 3078
+data: 1876-04-30
+titolo: "Col quale il comune di Tredozio costituira' una sezione elettorale separata del collegio di Rocca san Casciano. (076U3078)"
+urn: urn:nir:stato:regio.decreto:1876-04-30;3078
+codice_redazionale: 076U3078
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Tredozio e' distaccato dalla seziono elettorale di Rocca San Casciano n. 178, e costituito in sezione separata del Collegio medesimo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di Osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 30 aprile 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il comune di Tredozio e' distaccato dalla seziono elettorale di Rocca San Casciano n. 178, e costituito in sezione separata del Collegio medesimo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di Osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 30 aprile 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

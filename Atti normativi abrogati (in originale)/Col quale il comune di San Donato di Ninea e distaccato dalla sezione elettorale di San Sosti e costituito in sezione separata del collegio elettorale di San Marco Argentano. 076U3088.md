@@ -1,16 +1,14 @@
-REGIO DECRETO 11 maggio 1876 n. 3088
-
-
-REGIO DECRETO 11 maggio 1876 n. 3088
-====================================
-
-Col quale il comune di San Donato di Ninea e' distaccato dalla sezione elettorale di San Sosti e costituito in sezione separata del collegio elettorale di San Marco Argentano. (076U3088)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/05/1876
+---
+tipo: REGIO DECRETO
+numero: 3088
+data: 1876-05-11
+titolo: "Col quale il comune di San Donato di Ninea e' distaccato dalla sezione elettorale di San Sosti e costituito in sezione separata del collegio elettorale di San Marco Argentano. (076U3088)"
+urn: urn:nir:stato:regio.decreto:1876-05-11;3088
+codice_redazionale: 076U3088
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di San Donato di Ninea e' separato dalla sezione elettorale di San Sosti e costituito in sezione separata del Collegio elettorale di San Marco Argentaro.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 11 maggio 1876.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il comune di San Donato di Ninea e' separato dalla sezione elettorale di San Sosti e costituito in sezione separata del Collegio elettorale di San Marco Argentaro. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 11 maggio 1876. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

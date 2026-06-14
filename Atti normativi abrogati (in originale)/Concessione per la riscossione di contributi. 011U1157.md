@@ -1,19 +1,15 @@
-REGIO DECRETO 13 ottobre 1911 n. 1157
+---
+tipo: REGIO DECRETO
+numero: 1157
+data: 1911-10-13
+titolo: "Concessione per la riscossione di contributi. (011U1157)"
+urn: urn:nir:stato:regio.decreto:1911-10-13;1157
+codice_redazionale: 011U1157
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 13 ottobre 1911 n. 1157
-=====================================
-
-Concessione per la riscossione di contributi. (011U1157)
---------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/11/1911
-
-Art. 1
-------
-
-  
-N. 1157   
-  
-Regio decreto 13 ottobre 1911, col quale, sulla proposta del ministro di agricoltura, industria e commercio, al Consorzio di irrigazione con le acque del costruendo canale Molinari, con sede in Pontevico (Brescia), e' accordata la facolta' di riscuotere contributo dei soci coi privilegi e nelle forme fiscali.   
-  
+N. 1157 
+ 
+ Regio decreto 13 ottobre 1911, col quale, sulla proposta del ministro di agricoltura, industria e commercio, al Consorzio di irrigazione con le acque del costruendo canale Molinari, con sede in Pontevico (Brescia), e' accordata la facolta' di riscuotere contributo dei soci coi privilegi e nelle forme fiscali.

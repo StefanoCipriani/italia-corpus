@@ -1,16 +1,14 @@
-REGIO DECRETO 29 novembre 1888 n. 5854
-
-
-REGIO DECRETO 29 novembre 1888 n. 5854
-======================================
-
-Concernente compensi da corrispondersi, attivita' e passivita' fra il nuovo comune di Ponte Buggianese e quello di Buggiano (Lucca). (088U5854)
------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/01/1889
+---
+tipo: REGIO DECRETO
+numero: 5854
+data: 1888-11-29
+titolo: "Concernente compensi da corrispondersi, attivita' e passivita' fra il nuovo comune di Ponte Buggianese e quello di Buggiano (Lucca). (088U5854)"
+urn: urn:nir:stato:regio.decreto:1888-11-29;5854
+codice_redazionale: 088U5854
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,33 +22,22 @@ Viste le deliberazioni dei Consigli comunali di Buggiano e di Ponte Buggianese i
 
 Visti gli altri atti della pratica;
 
-Vista
------
+Vista la legge comunale e provinciale 20 marzo 1865, Allegato A; Abbiamo decretato e decretiamo:
 
-la legge comunale e provinciale 20 marzo 1865, Allegato A; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Seno approvate le citate deliberazioni 1° agosto e 28 dicembre dei Consigli comunali di Buggiano e di Ponte Buggianese in virtu' delle quali fu concordato che il congruo compenso da corrispondersi, in ordine all'art. 1 del R. decreto 3 maggio 1883, dal nuovo comune di Ponte Buggianese all'altro di Buggiano sia costituito dalla somma di lire venticinquemila per una volta tanto, piu' gli interessi al cinque per cento fino al giorno dell'effettivo pagamento.
 
-  
-  
-Seno approvate le citate deliberazioni 1° agosto e 28 dicembre dei Consigli comunali di Buggiano e di Ponte Buggianese in virtu' delle quali fu concordato che il congruo compenso da corrispondersi, in ordine all'art. 1 del R. decreto 3 maggio 1883, dal nuovo comune di Ponte Buggianese all'altro di Buggiano sia costituito dalla somma di lire venticinquemila per una volta tanto, piu' gli interessi al cinque per cento fino al giorno dell'effettivo pagamento.   
-  
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-E' approvata la divisione e rispettivo assegno fra i due nuovi comuni delle attivita' e passivita' appartenenti al comune di Buggiano avanti il 1° giugno 1883, secondo che risulta dalla relazione del prefetto di Lucca del 10 ottobre 1888 e dai prospetti n. 1, 1ª e 1b, n. 2, 2ª, e 2b e n. 3 che fanno parte integrante di detta relazione.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 novembre 1888.   
-  
-UMBERTO.   
-  
-Crispi.   
-  
-Visto, Il Guardasigilli: Zanardelli.   
-  
+E' approvata la divisione e rispettivo assegno fra i due nuovi comuni delle attivita' e passivita' appartenenti al comune di Buggiano avanti il 1° giugno 1883, secondo che risulta dalla relazione del prefetto di Lucca del 10 ottobre 1888 e dai prospetti n. 1, 1ª e 1b, n. 2, 2ª, e 2b e n. 3 che fanno parte integrante di detta relazione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 novembre 1888. 
+ 
+ UMBERTO. 
+ 
+ Crispi. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.

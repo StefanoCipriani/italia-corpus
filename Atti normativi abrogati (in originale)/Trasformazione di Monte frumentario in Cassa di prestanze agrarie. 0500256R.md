@@ -1,19 +1,15 @@
-REGIO DECRETO 02 luglio 1905 n. CCLVI
+---
+tipo: REGIO DECRETO
+numero: CCLVI
+data: 1905-07-02
+titolo: "Trasformazione di Monte frumentario in Cassa di prestanze agrarie. (0500256R)"
+urn: urn:nir:stato:regio.decreto:1905-07-02;256
+codice_redazionale: 0500256R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 02 luglio 1905 n. CCLVI
-=====================================
-
-Trasformazione di Monte frumentario in Cassa di prestanze agrarie. (0500256R)
------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/10/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCLVI (Dato a Racconigi, il 2 luglio 1905), col quale il Monte frumentario di Altamura (Bari), viene trasformato in una Cassa di prestanze agrarie.   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCLVI (Dato a Racconigi, il 2 luglio 1905), col quale il Monte frumentario di Altamura (Bari), viene trasformato in una Cassa di prestanze agrarie.

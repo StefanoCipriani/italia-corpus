@@ -1,16 +1,14 @@
-REGIO DECRETO 23 marzo 1902 n. 109
-
-
-REGIO DECRETO 23 marzo 1902 n. 109
-==================================
-
-Proroga del termine stabilito per il versamento della cauzione definitiva per la concessione della costruzione e dell'esercizio della ferrovia economica Cento-San Giovanni in Persiceto. (002U0109)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/05/1902
+---
+tipo: REGIO DECRETO
+numero: 109
+data: 1902-03-23
+titolo: "Proroga del termine stabilito per il versamento della cauzione definitiva per la concessione della costruzione e dell'esercizio della ferrovia economica Cento-San Giovanni in Persiceto. (002U0109)"
+urn: urn:nir:stato:regio.decreto:1902-03-23;109
+codice_redazionale: 002U0109
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -20,26 +18,21 @@ Visto il Nostro decreto 10 luglio 1901, n. 424, col quale venne approvata la Con
 
 Ritenuto che i concessionari hanno dimostrata l'impossibilita', per circostanze impreviste, di versare nel tempo stabilito il complemento della cauzione fissata nella suddetta Convenzione, ed hanno domandato, con istanza 17 marzo corrente, una proroga del termine stesso sino al 24 giugno 1902;
 
-Sulla
------
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di Stato interim dei Lavori Pubblici e del Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di Stato interim dei Lavori Pubblici e del Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
-
-Articolo unico
---------------
+## Articolo unico.
 
 Il termine di mesi sei stabilito all'articolo 2 della Convenzione 8 luglio 1901 pel versamento della cauzione definitiva, viene prorogato sino a tutto il 24 giugno
 
-1902. 
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 23 marzo 1902.   
-  
-VITTORIO EMANUELE.   
-  
-G. Zanardelli.   
-Di Broglio.   
-  
-Visto, Il Guardasigilli: Cocco-Ortu.
+1902.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 23 marzo 1902. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Zanardelli. 
+ Di Broglio. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.

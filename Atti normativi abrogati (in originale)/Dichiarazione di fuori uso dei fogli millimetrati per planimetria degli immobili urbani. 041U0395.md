@@ -1,16 +1,14 @@
-REGIO DECRETO 01 maggio 1941 n. 395
-
-
-REGIO DECRETO 01 maggio 1941 n. 395
-===================================
-
-Dichiarazione di fuori uso dei fogli millimetrati per planimetria degli immobili urbani. (041U0395)
----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/06/1941
+---
+tipo: REGIO DECRETO
+numero: 395
+data: 1941-05-01
+titolo: "Dichiarazione di fuori uso dei fogli millimetrati per planimetria degli immobili urbani. (041U0395)"
+urn: urn:nir:stato:regio.decreto:1941-05-01;395
+codice_redazionale: 041U0395
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,30 +22,22 @@ Visto il R. decreto 23 novembre 1939-XVIII, n. 1846, che ha istituito appositi f
 
 Ritenuto che, in conseguenza della scadenza degli ultimi termini per la presentazione delle planimetrie degli immobili urbani, e' opportuno mettere fuori uso i precitati fogli millimetrati da L. 0,25 e da L. 0,40 l'uno rimasti esuberanti;
 
-Sulla
------
+Sulla proposta del Nostro Ministro, Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro, Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-A decorrere dal 15 maggio prossimo venturo i fogli millimetrati da L. 0,25 per ogni foglio semplice e da L. 0,40 per ogni foglio doppio, istituiti col R. decreto 23 novembre 1939-XVIII, n. 1846, sono dichiarati fuori uso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 1° maggio 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-DI REVEL   
-  
-Visto, il Guardasigilli: GRANDI   
-  
-Registrato alla Corte dei conti, addi' 23 maggio 1941-XIX   
-  
-Atti del Governo, registro n. 433, foglio 99. - MANCINI   
-  
-  
+A decorrere dal 15 maggio prossimo venturo i fogli millimetrati da L. 0,25 per ogni foglio semplice e da L. 0,40 per ogni foglio doppio, istituiti col R. decreto 23 novembre 1939-XVIII, n. 1846, sono dichiarati fuori uso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° maggio 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 23 maggio 1941-XIX 
+ 
+ Atti del Governo, registro n. 433, foglio 99. - MANCINI

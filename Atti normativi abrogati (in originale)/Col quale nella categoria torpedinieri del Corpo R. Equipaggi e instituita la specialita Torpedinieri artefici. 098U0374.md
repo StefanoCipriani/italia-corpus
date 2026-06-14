@@ -1,16 +1,14 @@
-REGIO DECRETO 29 luglio 1898 n. 374
-
-
-REGIO DECRETO 29 luglio 1898 n. 374
-===================================
-
-Col quale nella categoria torpedinieri del Corpo R. Equipaggi e' instituita la specialita' «Torpedinieri artefici». (098U0374)
-------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/09/1898
+---
+tipo: REGIO DECRETO
+numero: 374
+data: 1898-07-29
+titolo: "Col quale nella categoria torpedinieri del Corpo R. Equipaggi e' instituita la specialita' «Torpedinieri artefici». (098U0374)"
+urn: urn:nir:stato:regio.decreto:1898-07-29;374
+codice_redazionale: 098U0374
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -24,53 +22,38 @@ Visto il R. decreto 4 febbraio 1897 che approva il Regolamento per gli assegni s
 
 Sentito il Consiglio Superiore di Marina;
 
-Sulla
------
+Sulla proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Nella categoria torpedinieri del Corpo R. Equipaggi e' instituita la specialita' «Torpedinieri artefici». Tutti i militari appartenenti a detta specialita' sono ascritti ai reparti costieri di detto Corpo.
 
-  
-  
-Nella categoria torpedinieri del Corpo R. Equipaggi e' instituita la specialita' «Torpedinieri artefici». Tutti i militari appartenenti a detta specialita' sono ascritti ai reparti costieri di detto Corpo.   
-  
+## Art. 2.
 
-Art. 2
-------
+La progressione dei gradi nella specialita' artefici della categoria torpedinieri e' la seguente: 
+ 
+ Torpediniere artefice (Comune di 1ª classe); 
+ 
+ Sotto Capo Torpediniere artefice; 
+ 
+ Secondo Capo Torpediniere artefice; 
+ 
+ Capo Torpediniere artefice di 3ª classe; 
+ 
+ Capo Torpediniere artefice di 2ª classe; 
+ 
+ Capo Torpediniere artefice di 1ª classe;
 
-  
-  
-La progressione dei gradi nella specialita' artefici della categoria torpedinieri e' la seguente:   
-  
-Torpediniere artefice (Comune di 1ª classe);   
-  
-Sotto Capo Torpediniere artefice;   
-  
-Secondo Capo Torpediniere artefice;   
-  
-Capo Torpediniere artefice di 3ª classe;   
-  
-Capo Torpediniere artefice di 2ª classe;   
-  
-Capo Torpediniere artefice di 1ª classe;   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Per quanto riguarda gli assegni dovuti per destinazione di imbarco, o a terra, i militari inscritti alla suddetta specialita', sono pareggiati a quelli appartenenti alla specialita' Siluristi ed Elettricisti.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 29 luglio 1898.   
-  
-UMBERTO.   
-  
-G. Palumbo.   
-  
-Visto, Il Guardasigilli: C. Finocchiaro-Aprile.   
-  
+Per quanto riguarda gli assegni dovuti per destinazione di imbarco, o a terra, i militari inscritti alla suddetta specialita', sono pareggiati a quelli appartenenti alla specialita' Siluristi ed Elettricisti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 29 luglio 1898. 
+ 
+ UMBERTO. 
+ 
+ G. Palumbo. 
+ 
+ Visto, Il Guardasigilli: C. Finocchiaro-Aprile.

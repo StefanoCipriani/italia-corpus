@@ -1,45 +1,41 @@
-REGIO DECRETO 29 aprile 1915 n. 666
+---
+tipo: REGIO DECRETO
+numero: 666
+data: 1915-04-29
+titolo: "Col quale e' approvata la convenzione stipulata il 20 aprile 1915 con la « Societa' per le ferrovie meridionali sarde » per la concessione della costruzione e dell'esercizio della ferrovia da Siliqua a Calasetta con diramazione da Palmas Suergiu ad Iglesias (015U0666)"
+urn: urn:nir:stato:regio.decreto:1915-04-29;666
+codice_redazionale: 015U0666
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 29 aprile 1915 n. 666
-===================================
-
-Col quale e' approvata la convenzione stipulata il 20 aprile 1915 con la « Societa' per le ferrovie meridionali sarde » per la concessione della costruzione e dell'esercizio della ferrovia da Siliqua a Calasetta con diramazione da Palmas Suergiu ad Iglesias (015U0666)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 11/06/1915
-
-Art. 1
-------
-
-  
-VITTORIO EMANUELE III   
-  
-per grazia di Dio e per volonta' della Nazione   
-  
-RE D'ITALIA   
-  
-Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con Nostro decreto 9 maggio 1912, n. 1447;   
-  
-Viste le [leggi 27 giugno 1912, n. 638 ; 14 luglio 1912, n. 835 ; 29 dicembre 1912, n. 1365 ; 8 giugno 1913, n. 631 ; 23 luglio 1914, n. 742](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-23;742), ed il Nostro decreto 8 marzo 1914, n. 428;   
-  
-Sentiti il Consiglio superiore dei lavori pubblici ed il Consiglio di Stato;   
-  
-Udito il Consiglio dei ministri;   
-  
-Sulla proposta dei Nostri ministri, segretari di Stato per i lavori pubblici e per il tesoro;   
-  
-Abbiamo decretato e decretiamo:   
-  
-E' approvata e resa esecutoria la convenzione stipulata il 20 aprile 1915 fra i rappresentanti dei ministri dei lavori pubblici e del tesoro per conto dell'Amministrazione dello Stato ed il legale rappresentante della Societa' per le ferrovie meridionali sarde per la concessione della costruzione e dell'esercizio della ferrovia a binario ridotto e trazione a vapore da Siliqua a Calasetta, con diramazione da Palmas Suergiu ad Iglesias.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 aprile 1915.   
-  
-VITTORIO EMANUELE.   
-  
-Salandra - Carcano - Ciuffelli.   
-  
-Visto, Il guardasigilli: Orlando.   
-  
+VITTORIO EMANUELE III 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con Nostro decreto 9 maggio 1912, n. 1447; 
+ 
+ Viste le [leggi 27 giugno 1912, n. 638 ; 14 luglio 1912, n. 835 ; 29 dicembre 1912, n. 1365 ; 8 giugno 1913, n. 631 ; 23 luglio 1914, n. 742](Concernente%20disposizioni%20per%20il%20personale%20delle%20ferrovie%20dello%20Stato%20e%20per%20modificazioni%20di%20tariffe.%20014U0742.md), ed il Nostro decreto 8 marzo 1914, n. 428; 
+ 
+ Sentiti il Consiglio superiore dei lavori pubblici ed il Consiglio di Stato; 
+ 
+ Udito il Consiglio dei ministri; 
+ 
+ Sulla proposta dei Nostri ministri, segretari di Stato per i lavori pubblici e per il tesoro; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ E' approvata e resa esecutoria la convenzione stipulata il 20 aprile 1915 fra i rappresentanti dei ministri dei lavori pubblici e del tesoro per conto dell'Amministrazione dello Stato ed il legale rappresentante della Societa' per le ferrovie meridionali sarde per la concessione della costruzione e dell'esercizio della ferrovia a binario ridotto e trazione a vapore da Siliqua a Calasetta, con diramazione da Palmas Suergiu ad Iglesias. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 aprile 1915. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Salandra - Carcano - Ciuffelli. 
+ 
+ Visto, Il guardasigilli: Orlando.

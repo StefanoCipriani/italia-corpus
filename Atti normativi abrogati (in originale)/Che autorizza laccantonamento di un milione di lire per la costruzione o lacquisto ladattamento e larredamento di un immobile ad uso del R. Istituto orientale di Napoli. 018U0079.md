@@ -1,17 +1,14 @@
-DECRETO-LEGGE LUOGOTENENZIALE 06 gennaio 1918 n. 79
-
-
-DECRETO-LEGGE LUOGOTENENZIALE 06 gennaio 1918 n. 79
-===================================================
-
-Che autorizza l'accantonamento di un milione di lire, per la costruzione o l'acquisto, l'adattamento e l'arredamento di un immobile ad uso del R. Istituto orientale di Napoli. (018U0079)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 21/02/1918  
-Decreto-Legge Luogotenenziale convertito dalla [L. 15 ottobre 1923, n. 2293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-10-15;2293) (in G.U. 12/11/1923, n.265).
+---
+tipo: DECRETO-LEGGE LUOGOTENENZIALE
+numero: 79
+data: 1918-01-06
+titolo: "Che autorizza l'accantonamento di un milione di lire, per la costruzione o l'acquisto, l'adattamento e l'arredamento di un immobile ad uso del R. Istituto orientale di Napoli. (018U0079)"
+urn: urn:nir:stato:decreto.legge.luogotenenziale:1918-01-06;79
+codice_redazionale: 018U0079
+vigente: true
+---
 
 TOMASO DI SAVOIA DUCA DI GENOVA
--------------------------------
 
 Luogotenente Generale di Sua Maesta'
 
@@ -23,36 +20,29 @@ RE D'ITALIA
 
 In virtu' dell'autorita' a Noi delegata;
 
-Vista la [legge 17 giugno 1913, n. 800](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-17;800);
+Vista la [legge 17 giugno 1913, n. 800](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-17;800);
 
-Visto l'[art. 2 della legge 16 dicembre 1912, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-12-16;1312~art2);
+Visto l'[art. 2 della legge 16 dicembre 1912, n. 1312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-12-16;1312#art_2);
 
-Visto l'[art. 2 del decreto-legge Luogotenenziale 9 luglio 1916, n. 843](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1916-07-09;843~art2);
+Visto l'[art. 2 del decreto-legge Luogotenenziale 9 luglio 1916, n. 843](Riguardante%20adozione%20di%20disposizioni%20di%20carattere%20continuativo%20contenute%20nei%20disegni%20di%20legge%20dei%20bilanci%20per%20lesercizio%20finanziario%201915-916%20non%20tradotti%20in%20legge.%20016U0843.md);
 
 Udito il Consiglio dei ministri;
 
-Sulla
------
+Sulla proposta del ministro segretario di Stato per le colonie; Abbiamo decretato e decretiamo:
 
-proposta del ministro segretario di Stato per le colonie; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Sui fondi del conto corrente instituito con la [legge 16 dicembre 1912, n. 1312](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-12-16;1312), fra il tesoro dello Stato ed il Ministero delle colonie, e' autorizzato l'accantonamento della somma di lire un milione necessaria per provvedere alla costruzione od acquisto, adattamento ed arredamento di un immobile da adibirsi a sede del R.  
-Istituto orientale di Napoli.   
-  
-Questo decreto sara' presentato al Parlamento per essere convertito in legge.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 6 gennaio 1918.   
-  
-TOMASO DI SAVOIA.   
-  
-Orlando - Colosimo.   
-  
-Visto, Il guardasigilli: Sacchi.   
-  
+Sui fondi del conto corrente instituito con la [legge 16 dicembre 1912, n. 1312](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-12-16;1312), fra il tesoro dello Stato ed il Ministero delle colonie, e' autorizzato l'accantonamento della somma di lire un milione necessaria per provvedere alla costruzione od acquisto, adattamento ed arredamento di un immobile da adibirsi a sede del R.
+Istituto orientale di Napoli. 
+ 
+ Questo decreto sara' presentato al Parlamento per essere convertito in legge. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 gennaio 1918. 
+ 
+ TOMASO DI SAVOIA. 
+ 
+ Orlando - Colosimo. 
+ 
+ Visto, Il guardasigilli: Sacchi.

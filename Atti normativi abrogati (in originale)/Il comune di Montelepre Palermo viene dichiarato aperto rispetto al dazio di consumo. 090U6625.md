@@ -1,16 +1,14 @@
-REGIO DECRETO 09 febbraio 1890 n. 6625
-
-
-REGIO DECRETO 09 febbraio 1890 n. 6625
-======================================
-
-Il comune di Montelepre (Palermo) viene dichiarato aperto rispetto al dazio di consumo. (090U6625)
---------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/03/1890
+---
+tipo: REGIO DECRETO
+numero: 6625
+data: 1890-02-09
+titolo: "Il comune di Montelepre (Palermo) viene dichiarato aperto rispetto al dazio di consumo. (090U6625)"
+urn: urn:nir:stato:regio.decreto:1890-02-09;6625
+codice_redazionale: 090U6625
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,27 +20,20 @@ Veduto il Nostro decreto 13 maggio 1888, n. 5411, col quale il comune di Montele
 
 Veduta la deliberazione 8 settembre 1889, colla quale il Consiglio comunale di Montelepre domanda che quel comune sia nuovamente dichiarato aperto;
 
-Veduti gli [articoli 5 della legge 3 luglio 1864, N. 1827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1864-07-03;1827~art5), e 3 del legislativo decreto 28 giugno 1866, N. 3018;
+Veduti gli [articoli 5 della legge 3 luglio 1864, N. 1827](Sulla%20tassa%20governativa%20e%20dazio%20comunale%20di%20consumo.%20064U1827.md), e 3 del legislativo decreto 28 giugno 1866, N. 3018;
 
-Udito
------
+Udito il Consiglio di Stato; Abbiamo ordinato ed ordiniamo quanto segue:
 
-il Consiglio di Stato; Abbiamo ordinato ed ordiniamo quanto segue:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Montelepre e' dichiarato aperto, rispetto al dazio di consumo, a far data dal primo del mese successivo a quello in cui il presente decreto sara' pubblicato nella Gazzetta Ufficiale del Regno.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 febbraio 1890.   
-  
-UMBERTO.   
-  
-F. SEISMIT-DODA.   
-  
-Visto, Il Guardasigilli: ZANARDELLI.   
-  
+Il comune di Montelepre e' dichiarato aperto, rispetto al dazio di consumo, a far data dal primo del mese successivo a quello in cui il presente decreto sara' pubblicato nella Gazzetta Ufficiale del Regno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 febbraio 1890. 
+ 
+ UMBERTO. 
+ 
+ F. SEISMIT-DODA. 
+ 
+ Visto, Il Guardasigilli: ZANARDELLI.

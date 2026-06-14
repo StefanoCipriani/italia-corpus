@@ -1,21 +1,21 @@
-DECRETO LUOGOTENENZIALE 17 novembre 1918 n. 1978
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1978
+data: 1918-11-17
+titolo: "Concernente esenzione dalle tasse postali concessa al R. commissario del porto di Genova. (018U1978)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-11-17;1978
+codice_redazionale: 018U1978
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 17 novembre 1918 n. 1978
-================================================
-
-Concernente esenzione dalle tasse postali concessa al R. commissario del porto di Genova. (018U1978)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/01/1919
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1978. Decreto Luogotenenziale 17 novembre 1918, col quale, sulla proposta del ministro per le poste ed i telegrafi, e' concessa la esenzione dalle tasse postali al R. commissario per l'esercizio del porto di Genova, come e' indicato nella seguente tabella:   
+1978.
 
-|  |  |  |
-| --- | --- | --- |
-| Uffici mittenti | Uffici con i quali possono corrispondere | Modi di spedizione del carteggio |
+Decreto Luogotenenziale 17 novembre 1918, col quale, sulla proposta del ministro per le poste ed i telegrafi, e' concessa la esenzione dalle tasse postali al R. commissario per l'esercizio del porto di Genova, come e' indicato nella seguente tabella:
+
+Uffici mittenti
+                                Uffici con i quali possono corrispondere
+                                Modi di spedizione del carteggio

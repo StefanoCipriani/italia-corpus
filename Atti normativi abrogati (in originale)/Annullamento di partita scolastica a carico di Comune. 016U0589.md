@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 16 aprile 1916 n. 589
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 589
+data: 1916-04-16
+titolo: "Annullamento di partita scolastica a carico di Comune. (016U0589)"
+urn: urn:nir:stato:decreto.luogotenenziale:1916-04-16;589
+codice_redazionale: 016U0589
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 16 aprile 1916 n. 589
-=============================================
-
-Annullamento di partita scolastica a carico di Comune. (016U0589)
------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 09/06/1916
-
-Art. 1
-------
-
-null
+## Art. 1. — null

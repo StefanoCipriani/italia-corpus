@@ -1,16 +1,14 @@
-REGIO DECRETO 22 aprile 1941 n. 760
-
-
-REGIO DECRETO 22 aprile 1941 n. 760
-===================================
-
-Annessione di Regie scuole secondarie di avviamento professionale alle Regie scuole tecniche commerciali. (041U0760)
---------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 26/08/1941
+---
+tipo: REGIO DECRETO
+numero: 760
+data: 1941-04-22
+titolo: "Annessione di Regie scuole secondarie di avviamento professionale alle Regie scuole tecniche commerciali. (041U0760)"
+urn: urn:nir:stato:regio.decreto:1941-04-22;760
+codice_redazionale: 041U0760
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 per grazia di dio e per volonta' della nazione
 
@@ -36,53 +34,28 @@ Veduti i Regi decreti 24 agosto 1933-XI, n. 2100, 2105 e 2106, con cui furono tr
 
 Veduta la delega rilasciata al Sottosegretario di Stato per il Ministero dell'educazione nazionale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A decorrere dal 16 ottobre 1940-XVIII, le Regie scuole secondarie di avviamento professionale a tipo commerciale «Severino» di Cosenza, «Saffi» di Firenze, di Ivrea, di Pavia, di Reggio Emilia, «Della Valle» di Roma, e di Siracusa sono annesse rispettivamente alle Regie scuole tecniche commerciali « Severino » di Cosenza, di Firenze (nuova scuola) di Ivrea, di Pavia, di Reggio Emilia, di Roma (nuova scuola) e di Siracusa. 
+ 
+ Dalla stessa data gli organici delle Regie scuole tecniche commerciali predette con annesse scuole secondarie di avviamento professionale sono stabiliti nella tabella A, annessa al presente decreto, vista e firmata d'ordine Nostro, dal Ministro per l'educazione nazionale e da quello per le finanze.
 
-  
-  
-A decorrere dal 16 ottobre 1940-XVIII, le Regie scuole secondarie di avviamento professionale a tipo commerciale «Severino» di Cosenza, «Saffi» di Firenze, di Ivrea, di Pavia, di Reggio Emilia, «Della Valle» di Roma, e di Siracusa sono annesse rispettivamente alle Regie scuole tecniche commerciali « Severino » di Cosenza, di Firenze (nuova scuola) di Ivrea, di Pavia, di Reggio Emilia, di Roma (nuova scuola) e di Siracusa.   
-  
-Dalla stessa data gli organici delle Regie scuole tecniche commerciali predette con annesse scuole secondarie di avviamento professionale sono stabiliti nella tabella A, annessa al presente decreto, vista e firmata d'ordine Nostro, dal Ministro per l'educazione nazionale e da quello per le finanze.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-A decorrere dal 16 ottobre 1940-XVIII, gli organici delle Regie scuole tecniche commerciali di Apuania-Carrara, Arezzo, Cagliari, Genova-Nervi, Livorno, Montecatini-Terme, Salerno, Torino, Treviso e Voghera sono stabiliti nella tabella B, annessa al presente decreto, vista e firmata, d'ordine Nostro, dal Ministro per l'educazione nazionale e da quello per le finanze.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dalla Zona di operazioni, addi' 22 aprile 1941-XIX   
-  
-VITTORIO EMANUELE   
-  
-Bodrero - Di Revel   
-  
-Visto, il guardasigilli: Grandi   
-  
-Registrato alla Corte dei conti, addi' 7 agosto 1941-XIX   
-  
-Atti del Governo, registro 436, foglio 14. - Mancini   
-  
-  
-
-Tabella A
-
- Tabella A.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=041U076000100010110001&dgu=1941-08-11&art.dataPubblicazioneGazzetta=1941-08-11&art.codiceRedazionale=041U0760)
-  
-
-Tabella B
-
- Tabella B.   
-  
-[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=041U076000200010110001&dgu=1941-08-11&art.dataPubblicazioneGazzetta=1941-08-11&art.codiceRedazionale=041U0760)
-  
+A decorrere dal 16 ottobre 1940-XVIII, gli organici delle Regie scuole tecniche commerciali di Apuania-Carrara, Arezzo, Cagliari, Genova-Nervi, Livorno, Montecatini-Terme, Salerno, Torino, Treviso e Voghera sono stabiliti nella tabella B, annessa al presente decreto, vista e firmata, d'ordine Nostro, dal Ministro per l'educazione nazionale e da quello per le finanze. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dalla Zona di operazioni, addi' 22 aprile 1941-XIX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Bodrero - Di Revel 
+ 
+ Visto, il guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 7 agosto 1941-XIX 
+ 
+ Atti del Governo, registro 436, foglio 14. - Mancini

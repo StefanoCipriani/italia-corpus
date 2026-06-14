@@ -1,16 +1,14 @@
-REGIO DECRETO 06 giugno 1867 n. 3743
-
-
-REGIO DECRETO 06 giugno 1867 n. 3743
-====================================
-
-Col quale si stabilisce che il Comune di Sannicandro costituira' una Sezione del Collegio elettorale di Acquaviva. (067U3743)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/07/1867
+---
+tipo: REGIO DECRETO
+numero: 3743
+data: 1867-06-06
+titolo: "Col quale si stabilisce che il Comune di Sannicandro costituira' una Sezione del Collegio elettorale di Acquaviva. (067U3743)"
+urn: urn:nir:stato:regio.decreto:1867-06-06;3743
+codice_redazionale: 067U3743
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,29 +22,22 @@ Noverandosi nel Comune stesso piu' di 40 elettori inscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Comune di Sannicandro costituira' d'ora in poi una Sezione del Collegio elettorale di Acquaviva n. 378, la quale avra' sede nel capoluogo del Comune stesso.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato in Firenze addi' 6 giugno 1867.   
-  
-VITTORIO EMANUELE   
-  
-Registrato alla Corte dei conti addi' 15 giugno 1867   
-  
-Reg. 44 Atti dei Governo a c. 85. Ayres.   
-  
-Luogo del sigillo. V. Il Guardasigilli Tecchio.   
-  
-U. Rattazzi.   
-  
+Il Comune di Sannicandro costituira' d'ora in poi una Sezione del Collegio elettorale di Acquaviva n. 378, la quale avra' sede nel capoluogo del Comune stesso. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Firenze addi' 6 giugno 1867. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 15 giugno 1867 
+ 
+ Reg. 44 Atti dei Governo a c. 85. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Tecchio. 
+ 
+ U. Rattazzi.

@@ -1,16 +1,14 @@
-REGIO DECRETO 05 dicembre 1875 n. 2847
-
-
-REGIO DECRETO 05 dicembre 1875 n. 2847
-======================================
-
-che all'elenco delle strade provinciali di Livorno aggiunge quella che da Portoferraio mette alla marina di Marciana nell'isola dell'Elba (075U2847)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/01/1876
+---
+tipo: REGIO DECRETO
+numero: 2847
+data: 1875-12-05
+titolo: "che all'elenco delle strade provinciali di Livorno aggiunge quella che da Portoferraio mette alla marina di Marciana nell'isola dell'Elba (075U2847)"
+urn: urn:nir:stato:regio.decreto:1875-12-05;2847
+codice_redazionale: 075U2847
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -22,7 +20,7 @@ Vista l'impugnata deliberazione, non che le altre prese dallo stesso Consiglio p
 
 Visti i pareri 13 marzo e 24 luglio 1875 del Consiglio, Superiore dei Lavori Pubblici;
 
-Visti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della legge 20 marzo 1865; numero 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato F;
+Visti gli [articoli 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_13) e [14 della legge 20 marzo 1865; numero 2248](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248#art_14), allegato F;
 
 Considerando
 
@@ -34,23 +32,16 @@ Che volendo anche prescindere dal ricercare nel suddetta comma e il carattere di
 
 Udito l'avviso del Consiglio di Stato;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' aggiunta all'elenco delle strade provinciali della provincia di Livorno quella che da Portoferrajo mette alla Marina di Marciana nell'Isola dell'Elba.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti dei Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 5 dicembre 1875.   
-  
-VITTORIO EMANUELE   
-  
-S. Spaventa.   
-  
+E' aggiunta all'elenco delle strade provinciali della provincia di Livorno quella che da Portoferrajo mette alla Marina di Marciana nell'Isola dell'Elba. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti dei Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 dicembre 1875. 
+ 
+ VITTORIO EMANUELE 
+ 
+ S. Spaventa.

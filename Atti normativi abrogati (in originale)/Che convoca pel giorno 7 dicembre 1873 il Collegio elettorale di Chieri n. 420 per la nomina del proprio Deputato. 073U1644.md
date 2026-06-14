@@ -1,16 +1,14 @@
-REGIO DECRETO 13 novembre 1873 n. 1644
-
-
-REGIO DECRETO 13 novembre 1873 n. 1644
-======================================
-
-Che convoca pel giorno 7 dicembre 1873 il Collegio elettorale di Chieri, n. 420, per la nomina del proprio Deputato. (073U1644)
--------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 02/12/1873
+---
+tipo: REGIO DECRETO
+numero: 1644
+data: 1873-11-13
+titolo: "Che convoca pel giorno 7 dicembre 1873 il Collegio elettorale di Chieri, n. 420, per la nomina del proprio Deputato. (073U1644)"
+urn: urn:nir:stato:regio.decreto:1873-11-13;1644
+codice_redazionale: 073U1644
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,25 +18,18 @@ Veduto il Messaggio in data dell'8 novembre, col quale l'Ufficio di Presidenza d
 
 Veduto l'articolo 63 della Legge per le elezioni politiche del 17 dicembre 1860, n. 4513;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il Collegio elettorale di Chieri, n. 420, e' convocato pel giorno 7 prossimo dicembre affinche' proceda all'elezione del proprio Deputato.   
-  
-Occorrendo una seconda votazione, essa avra' luogo il giorno 14 stesso mese.   
-  
-Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma addi' 13 novembre 1873.   
-  
-VITTORIO EMANUELE   
-  
-G. Cantelli.   
-  
+Il Collegio elettorale di Chieri, n. 420, e' convocato pel giorno 7 prossimo dicembre affinche' proceda all'elezione del proprio Deputato. 
+ 
+ Occorrendo una seconda votazione, essa avra' luogo il giorno 14 stesso mese. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 13 novembre 1873. 
+ 
+ VITTORIO EMANUELE 
+ 
+ G. Cantelli.

@@ -1,16 +1,14 @@
-REGIO DECRETO 01 luglio 1937 n. 1233
-
-
-REGIO DECRETO 01 luglio 1937 n. 1233
-====================================
-
-Ripartizione in uffici del Ministero dell'Africa Italiana. (037U1233)
----------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/07/1937
+---
+tipo: REGIO DECRETO
+numero: 1233
+data: 1937-07-01
+titolo: "Ripartizione in uffici del Ministero dell'Africa Italiana. (037U1233)"
+urn: urn:nir:stato:regio.decreto:1937-07-01;1233
+codice_redazionale: 037U1233
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -28,66 +26,48 @@ Udito il parere del Consiglio di Stato;
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato, per l'Africa Italiana; Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato, per l'Africa Italiana; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Il Ministero dell'Africa Italiana, e' ripartito nei seguenti uffici: 
+ 
+ Direzione generale degli affari politici; 
+ 
+ Direzione generale degli affari civili; 
+ 
+ Direzione generale degli affari economici e finanziari; 
+ 
+ Direzione generale degli affari della colonizzazione e del lavoro; 
+ 
+ Direzione generale del personale e degli affari generali; 
+ 
+ Comando generale del Corpo della polizia coloniale; 
+ 
+ Ufficio militare; 
+ 
+ Ufficio studi; 
+ 
+ Ufficio legislativo.
 
-  
-  
-Il Ministero dell'Africa Italiana, e' ripartito nei seguenti uffici:   
-  
-Direzione generale degli affari politici;   
-  
-Direzione generale degli affari civili;   
-  
-Direzione generale degli affari economici e finanziari;   
-  
-Direzione generale degli affari della colonizzazione e del lavoro;   
-  
-Direzione generale del personale e degli affari generali;   
-  
-Comando generale del Corpo della polizia coloniale;   
-  
-Ufficio militare;   
-  
-Ufficio studi;   
-  
-Ufficio legislativo.   
-  
-  
+## Art. 2.
 
-Art. 2
-------
+La suddivisione degli uffici e la ripartizione degli affari e dei servizi fra i medesimi, sono stabilite con decreto del Ministro per l'Africa Italiana.
 
-  
-  
-La suddivisione degli uffici e la ripartizione degli affari e dei servizi fra i medesimi, sono stabilite con decreto del Ministro per l'Africa Italiana.   
-  
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Le precedenti disposizioni in materia sono abrogate. Il presente decreto ha vigore dal 1° luglio 1937-XV.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a San Rossore, addi' 1° luglio 1937 - Anno XV   
-  
-VITTORIO EMANUELE   
-  
-Mussolini - Lessona   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 29 luglio 1937 - Anno XV.   
-  
-Atti del Governo, registro 387, foglio 156. - Mancini.   
-  
-  
+Le precedenti disposizioni in materia sono abrogate. Il presente decreto ha vigore dal 1° luglio 1937-XV. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 1° luglio 1937 - Anno XV 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini - Lessona 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 29 luglio 1937 - Anno XV. 
+ 
+ Atti del Governo, registro 387, foglio 156. - Mancini.

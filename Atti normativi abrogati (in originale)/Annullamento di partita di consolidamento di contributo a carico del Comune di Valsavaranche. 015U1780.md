@@ -1,15 +1,11 @@
-DECRETO LUOGOTENENZIALE 11 novembre 1915 n. 1780
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 1780
+data: 1915-11-11
+titolo: "Annullamento di partita di consolidamento di contributo a carico del Comune di Valsavaranche. (015U1780)"
+urn: urn:nir:stato:decreto.luogotenenziale:1915-11-11;1780
+codice_redazionale: 015U1780
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 11 novembre 1915 n. 1780
-================================================
-
-Annullamento di partita di consolidamento di contributo a carico del Comune di Valsavaranche. (015U1780)
---------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/01/1916
-
-Art. 1
-------
-
-null
+## Art. 1. — null

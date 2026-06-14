@@ -1,16 +1,14 @@
-REGIO DECRETO 01 marzo 1877 n. 3698
-
-
-REGIO DECRETO 01 marzo 1877 n. 3698
-===================================
-
-Che separa i comuni di Salcito e Pietracupa dalla sezione elettorale di Trivento e li costituisce in sezione distinta del collegio elettorale di Agnone, colla sede a Salcito. (077U3698)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 16/03/1877
+---
+tipo: REGIO DECRETO
+numero: 3698
+data: 1877-03-01
+titolo: "Che separa i comuni di Salcito e Pietracupa dalla sezione elettorale di Trivento e li costituisce in sezione distinta del collegio elettorale di Agnone, colla sede a Salcito. (077U3698)"
+urn: urn:nir:stato:regio.decreto:1877-03-01;3698
+codice_redazionale: 077U3698
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-I comuni di Salcito e Pietracupa sono separati dalla sezione elettorale di Trivento e formeranno una sezione distinta del Collegio elettorale di Agnone, con la sede a Salcito.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 1° marzo 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+I comuni di Salcito e Pietracupa sono separati dalla sezione elettorale di Trivento e formeranno una sezione distinta del Collegio elettorale di Agnone, con la sede a Salcito. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° marzo 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

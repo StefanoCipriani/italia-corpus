@@ -1,19 +1,15 @@
-REGIO DECRETO 15 dicembre 1904 n. DXXX
+---
+tipo: REGIO DECRETO
+numero: DXXX
+data: 1904-12-15
+titolo: "Modificazione di statuto. (0400530R)"
+urn: urn:nir:stato:regio.decreto:1904-12-15;530
+codice_redazionale: 0400530R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 dicembre 1904 n. DXXX
-======================================
-
-Modificazione di statuto. (0400530R)
-------------------------------------
-
-Entrata in vigore del provvedimento: 28/01/1905
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro d'agricoltura, industria e commercio:   
-  
-N. DXXX (Dato a Roma, il 15 dicembre 1904), col quale si modifica lo statuto della Cassa di risparmio di Savigliano.   
-  
+Sulla proposta del ministro d'agricoltura, industria e commercio: 
+ 
+ N. DXXX (Dato a Roma, il 15 dicembre 1904), col quale si modifica lo statuto della Cassa di risparmio di Savigliano.

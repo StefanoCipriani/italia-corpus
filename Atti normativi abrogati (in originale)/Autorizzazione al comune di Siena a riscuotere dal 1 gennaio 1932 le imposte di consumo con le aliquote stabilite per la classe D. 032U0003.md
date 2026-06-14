@@ -1,46 +1,37 @@
-REGIO DECRETO 11 gennaio 1932 n. 3
-
-
-REGIO DECRETO 11 gennaio 1932 n. 3
-==================================
-
-Autorizzazione al comune di Siena a riscuotere, dal 1° gennaio 1932, le imposte di consumo con le aliquote stabilite per la classe D. (032U0003)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/02/1932
+---
+tipo: REGIO DECRETO
+numero: 3
+data: 1932-01-11
+titolo: "Autorizzazione al comune di Siena a riscuotere, dal 1° gennaio 1932, le imposte di consumo con le aliquote stabilite per la classe D. (032U0003)"
+urn: urn:nir:stato:regio.decreto:1932-01-11;3
+codice_redazionale: 032U0003
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
 RE D'ITALIA
 
-Visti gli articoli 11, 27 e 95 del testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175);
+Visti gli articoli 11, 27 e 95 del testo unico per la finanza locale, approvato con [R. decreto 14 settembre 1931, n. 1175](Testo%20unico%20per%20la%20finanza%20locale.%20031U1175.md);
 
 Vista la motivata domanda avanzata dal comune di Siena per avvalersi della disposizione dell'art. 27 suaccennato;
 
 Visto il parere della Commissione centrale per la finanza locale;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Siena e' autorizzato a riscuotere, dal 1° gennaio 1932, le imposte di consumo con le aliquote stabilite per la classe D.   
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-Dato a Roma, addi' 11 gennaio 1932 - Anno X   
-  
-VITTORIO EMANUELE.   
-  
-  
-Mosconi.   
-  
-Visto, il Guardasigilli: Rocco.   
-Registrato alla Corte dei conti, addi' 20 gennaio 1932 - Anno X Atti del Governo, registro 316, foglio 95. - Mancini.   
-  
+Il comune di Siena e' autorizzato a riscuotere, dal 1° gennaio 1932, le imposte di consumo con le aliquote stabilite per la classe D. 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 11 gennaio 1932 - Anno X 
+ 
+ VITTORIO EMANUELE. 
+ 
+ 
+ Mosconi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 20 gennaio 1932 - Anno X  Atti del Governo, registro 316, foglio 95. - Mancini.

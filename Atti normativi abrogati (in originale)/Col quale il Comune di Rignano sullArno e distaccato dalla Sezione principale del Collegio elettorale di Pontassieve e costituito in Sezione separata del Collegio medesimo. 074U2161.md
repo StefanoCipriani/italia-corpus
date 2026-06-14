@@ -1,16 +1,14 @@
-REGIO DECRETO 15 ottobre 1874 n. 2161
-
-
-REGIO DECRETO 15 ottobre 1874 n. 2161
-=====================================
-
-Col quale il Comune di Rignano sull'Arno e' distaccato dalla Sezione principale del Collegio elettorale di Pontassieve e costituito in Sezione separata del Collegio medesimo. (074U2161)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 13/11/1874
+---
+tipo: REGIO DECRETO
+numero: 2161
+data: 1874-10-15
+titolo: "Col quale il Comune di Rignano sull'Arno e' distaccato dalla Sezione principale del Collegio elettorale di Pontassieve e costituito in Sezione separata del Collegio medesimo. (074U2161)"
+urn: urn:nir:stato:regio.decreto:1874-10-15;2161
+codice_redazionale: 074U2161
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Rignano sull'Arno e' distaccato dalla sezione principale del Collegio elettorale di Pontassieve n. 176, e costituito in sezione separata del Collegio medesimo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia Inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 15 ottobre 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. Cantelli   
-  
-  
+Il comune di Rignano sull'Arno e' distaccato dalla sezione principale del Collegio elettorale di Pontassieve n. 176, e costituito in sezione separata del Collegio medesimo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia Inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 15 ottobre 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Cantelli

@@ -1,21 +1,17 @@
-REGIO DECRETO 23 agosto 1897 n. CCLX
+---
+tipo: REGIO DECRETO
+numero: CCLX
+data: 1897-08-23
+titolo: "Che applica la tassa di famiglia nel Comune di Vezzi Portio. (9700260R)"
+urn: urn:nir:stato:regio.decreto:1897-08-23;260
+codice_redazionale: 9700260R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 23 agosto 1897 n. CCLX
-====================================
-
-Che applica la tassa di famiglia nel Comune di Vezzi Portio. (9700260R)
------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 25/09/1897
-
-Art. 1
-------
-
-  
-Che da' facolta' al comune di Vezzi Portio di applicare nel corrente anno la tassa di famiglia col limite massimo di lire cinquanta (L. 50). - Firmato UMBERTO - Controfirmato Branca - Visto Rudini'.   
-  
-Registrato alla Corte dei Conti addi' 4 settembre 1897.   
-  
-Reg. 212. Atti del Governo a f. 163.   
-  
+Che da' facolta' al comune di Vezzi Portio di applicare nel corrente anno la tassa di famiglia col limite massimo di lire cinquanta (L. 50). - Firmato UMBERTO - Controfirmato Branca - Visto Rudini'. 
+ 
+ Registrato alla Corte dei Conti addi' 4 settembre 1897. 
+ 
+ Reg. 212. Atti del Governo a f. 163.

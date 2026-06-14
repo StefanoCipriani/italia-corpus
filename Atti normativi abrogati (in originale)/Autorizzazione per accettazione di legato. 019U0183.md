@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 12 gennaio 1919 n. 183
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 183
+data: 1919-01-12
+titolo: "Autorizzazione per accettazione di legato. (019U0183)"
+urn: urn:nir:stato:decreto.luogotenenziale:1919-01-12;183
+codice_redazionale: 019U0183
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 12 gennaio 1919 n. 183
-==============================================
-
-Autorizzazione per accettazione di legato. (019U0183)
------------------------------------------------------
-
-Entrata in vigore del provvedimento: 19/03/1919
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-183. Decreto Luogotenenziale 12 gennaio 1919, col quale, sulla proposta del ministro della istruzione pubblica, la Societa' nazionale «Dante Alighieri» e' autorizzata ad accettare il legato di L. 5000 disposto in suo favore dall'avv. Erasmo Lucini.
+183.
+
+Decreto Luogotenenziale 12 gennaio 1919, col quale, sulla proposta del ministro della istruzione pubblica, la Societa' nazionale «Dante Alighieri» e' autorizzata ad accettare il legato di L. 5000 disposto in suo favore dall'avv. Erasmo Lucini.

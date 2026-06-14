@@ -1,16 +1,14 @@
-REGIO DECRETO 03 maggio 1874 n. 1922
-
-
-REGIO DECRETO 03 maggio 1874 n. 1922
-====================================
-
-Che revoca la concessione fatta nel 1857 a Valentino Bragadin per una derivazione di acqua del fiume Bacchiglione. (074U1922)
------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 20/06/1874
+---
+tipo: REGIO DECRETO
+numero: 1922
+data: 1874-05-03
+titolo: "Che revoca la concessione fatta nel 1857 a Valentino Bragadin per una derivazione di acqua del fiume Bacchiglione. (074U1922)"
+urn: urn:nir:stato:regio.decreto:1874-05-03;1922
+codice_redazionale: 074U1922
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E VOLONTA' DELLA NAZIONE
 
@@ -26,23 +24,14 @@ Ritenuto che con l'esecuzione delle opere summenzionate il tratto di alveo del B
 
 Ritenuto che, giusta le condizioni del succitato atto 20 luglio 1857, sia il caso di annullare la investitura concessa al Bragadin, e cio' per evidenti riguardi di pubblico interesse;
 
-Udito
------
+Udito il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
 
-il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
+## Articolo unico. — null
 
-Articolo unico
---------------
-
-null
-
-  
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 3 maggio 1874.   
-  
-VITTORIO EMANUELE.   
-  
-M Minghetti.   
-  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 maggio 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ M Minghetti.

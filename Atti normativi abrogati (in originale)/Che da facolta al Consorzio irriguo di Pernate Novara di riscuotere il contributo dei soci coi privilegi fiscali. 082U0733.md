@@ -1,46 +1,37 @@
-REGIO DECRETO 09 aprile 1882 n. 733
-
-
-REGIO DECRETO 09 aprile 1882 n. 733
-===================================
-
-Che da' facolta' al Consorzio irriguo di Pernate (Novara) di riscuotere il contributo dei soci coi privilegi fiscali. (082U0733)
---------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 24/06/1882
+---
+tipo: REGIO DECRETO
+numero: 733
+data: 1882-04-09
+titolo: "Che da' facolta' al Consorzio irriguo di Pernate (Novara) di riscuotere il contributo dei soci coi privilegi fiscali. (082U0733)"
+urn: urn:nir:stato:regio.decreto:1882-04-09;733
+codice_redazionale: 082U0733
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
 RE D'ITALIA
 
-Vista la [legge del 29 maggio 1873, n. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (Serie 2ª);
+Vista la [legge del 29 maggio 1873, n. 1387](Sui%20Consorzi%20di%20irrigazione.%20073U1387.md) (Serie 2ª);
 
 Vista la domanda fatta dal Consorzio irriguo di Pernate per ottenere la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci;
 
 Visto lo statuto e gli altri atti relativi;
 
-Sulla
------
+Sulla proposta del Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
 
-proposta del Ministro di Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Al Consorzio irriguo di Pernate, provincia di Novara, costituitosi per l'irrigazione di terreni posti in territorio di Pernate e territori adiacenti mediante derivazione d'acqua del canale Cavour, e' concessa facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 9 aprile 1882.   
-  
-UMBERTO.   
-  
-Berti.   
-  
-Visto, Il Guardasigilli: G. Zanardelli.   
-  
+Al Consorzio irriguo di Pernate, provincia di Novara, costituitosi per l'irrigazione di terreni posti in territorio di Pernate e territori adiacenti mediante derivazione d'acqua del canale Cavour, e' concessa facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 9 aprile 1882. 
+ 
+ UMBERTO. 
+ 
+ Berti. 
+ 
+ Visto, Il Guardasigilli: G. Zanardelli.

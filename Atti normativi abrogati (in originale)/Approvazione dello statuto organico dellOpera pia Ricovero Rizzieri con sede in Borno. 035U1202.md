@@ -1,21 +1,21 @@
-REGIO DECRETO 20 maggio 1935 n. 1202
+---
+tipo: REGIO DECRETO
+numero: 1202
+data: 1935-05-20
+titolo: "Approvazione dello statuto organico dell'Opera pia «Ricovero Rizzieri» con sede in Borno. (035U1202)"
+urn: urn:nir:stato:regio.decreto:1935-05-20;1202
+codice_redazionale: 035U1202
+vigente: true
+---
 
-
-REGIO DECRETO 20 maggio 1935 n. 1202
-====================================
-
-Approvazione dello statuto organico dell'Opera pia «Ricovero Rizzieri» con sede in Borno. (035U1202)
-----------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 27/07/1935
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-1202. R. decreto 20 maggio 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato lo statuto organico dell'Opera pia «Ricovero Rizzieri» con sede in Borno.   
-  
-Visto, il Guardasigilli: Solmi.   
-  
-Registrato alla Corte dei conti, addi' 28 giugno 1935 - Anno XIII
+1202.
+
+R. decreto 20 maggio 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene approvato lo statuto organico dell'Opera pia «Ricovero Rizzieri» con sede in Borno. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 28 giugno 1935 - Anno XIII

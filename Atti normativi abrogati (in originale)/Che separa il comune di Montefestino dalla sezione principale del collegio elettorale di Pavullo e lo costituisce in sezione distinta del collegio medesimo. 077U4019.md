@@ -1,16 +1,14 @@
-REGIO DECRETO 12 agosto 1877 n. 4019
-
-
-REGIO DECRETO 12 agosto 1877 n. 4019
-====================================
-
-Che separa il comune di Montefestino dalla sezione principale del collegio elettorale di Pavullo e lo costituisce in sezione distinta del collegio medesimo. (077U4019)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/09/1877
+---
+tipo: REGIO DECRETO
+numero: 4019
+data: 1877-08-12
+titolo: "Che separa il comune di Montefestino dalla sezione principale del collegio elettorale di Pavullo e lo costituisce in sezione distinta del collegio medesimo. (077U4019)"
+urn: urn:nir:stato:regio.decreto:1877-08-12;4019
+codice_redazionale: 077U4019
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Montefestino e' separato dalla sezione principale del Collegio elettorale di Pavullo, e formera' d'ora innanzi una sezione distinta del Collegio stesso.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Valsavaranche, addi' 12 agosto 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
-  
+Il comune di Montefestino e' separato dalla sezione principale del Collegio elettorale di Pavullo, e formera' d'ora innanzi una sezione distinta del Collegio stesso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, addi' 12 agosto 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

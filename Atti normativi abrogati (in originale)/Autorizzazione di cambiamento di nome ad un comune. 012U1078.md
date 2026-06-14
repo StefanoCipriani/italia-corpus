@@ -1,19 +1,15 @@
-REGIO DECRETO 26 settembre 1912 n. 1078
+---
+tipo: REGIO DECRETO
+numero: 1078
+data: 1912-09-26
+titolo: "Autorizzazione di cambiamento di nome ad un comune. (012U1078)"
+urn: urn:nir:stato:regio.decreto:1912-09-26;1078
+codice_redazionale: 012U1078
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 26 settembre 1912 n. 1078
-=======================================
-
-Autorizzazione di cambiamento di nome ad un comune. (012U1078)
---------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 01/11/1912
-
-Art. 1
-------
-
-  
-N. 1078   
-  
-Regio Decreto 26 settembre 1912, col quale, sulla proposta del ministro dell'interno, viene autorizzato il cambiamento del nome del comune di Beregazzo (provincia di Como) in quello di «Beregazzo con Figliaro».   
-  
+N. 1078 
+ 
+ Regio Decreto 26 settembre 1912, col quale, sulla proposta del ministro dell'interno, viene autorizzato il cambiamento del nome del comune di Beregazzo (provincia di Como) in quello di «Beregazzo con Figliaro».

@@ -1,19 +1,15 @@
-REGIO DECRETO 15 luglio 1906 n. CCLXXXIV
+---
+tipo: REGIO DECRETO
+numero: CCLXXXIV
+data: 1906-07-15
+titolo: "Trasformazione di patrimonio. (0600284R)"
+urn: urn:nir:stato:regio.decreto:1906-07-15;284
+codice_redazionale: 0600284R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 15 luglio 1906 n. CCLXXXIV
-========================================
-
-Trasformazione di patrimonio. (0600284R)
-----------------------------------------
-
-Entrata in vigore del provvedimento: 06/09/1906
-
-Art. 1
-------
-
-  
-Sulla proposta del ministro dell'interno:   
-  
-N. CCLXXXIV (Dato a Racconigi, il 15 luglio 1906), col quale e' stato trasformato il fine inerente al patrimonio della Confraternita di Santa Maria del Carmine di Terni (Perugia), nel senso di destinarne le rendite a favore delle Opere pie «Teofili» e «Fabrizi».   
-  
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCLXXXIV (Dato a Racconigi, il 15 luglio 1906), col quale e' stato trasformato il fine inerente al patrimonio della Confraternita di Santa Maria del Carmine di Terni (Perugia), nel senso di destinarne le rendite a favore delle Opere pie «Teofili» e «Fabrizi».

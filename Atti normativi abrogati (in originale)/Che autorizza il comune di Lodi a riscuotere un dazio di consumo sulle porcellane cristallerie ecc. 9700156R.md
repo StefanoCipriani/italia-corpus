@@ -1,21 +1,17 @@
-REGIO DECRETO 08 giugno 1897 n. CLVI
+---
+tipo: REGIO DECRETO
+numero: CLVI
+data: 1897-06-08
+titolo: "Che autorizza il comune di Lodi a riscuotere un dazio di consumo sulle porcellane, cristallerie, ecc. (9700156R)"
+urn: urn:nir:stato:regio.decreto:1897-06-08;156
+codice_redazionale: 9700156R
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 08 giugno 1897 n. CLVI
-====================================
-
-Che autorizza il comune di Lodi a riscuotere un dazio di consumo sulle porcellane, cristallerie, ecc. (9700156R)
-----------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 08/07/1897
-
-Art. 1
-------
-
-  
-Col quale il comune di Lodi e' autorizzato a riscuotere un dazio di consumo sulle porcellane, cristallerie e terraglie di qualunque foggia e qualita'; come pure sui lavori in vetro anche colorato. - Firmato UMBERTO - controfirmato Branca - Visto G. Costa.   
-  
-Registrato alla Corte dei Conti addi' 19 giugno 1897.   
-  
-Reg. 211. Atti del Governo a f. 26.   
-  
+Col quale il comune di Lodi e' autorizzato a riscuotere un dazio di consumo sulle porcellane, cristallerie e terraglie di qualunque foggia e qualita'; come pure sui lavori in vetro anche colorato. - Firmato UMBERTO - controfirmato Branca - Visto G. Costa. 
+ 
+ Registrato alla Corte dei Conti addi' 19 giugno 1897. 
+ 
+ Reg. 211. Atti del Governo a f. 26.

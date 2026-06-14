@@ -1,16 +1,14 @@
-REGIO DECRETO 14 ottobre 1874 n. 2151
-
-
-REGIO DECRETO 14 ottobre 1874 n. 2151
-=====================================
-
-Col quale il Comune di Boscoreale e' distaccato dalla Sezione principale del Collegio elettorale di Torre Annunziata e costituito Sezione separata del Collegio medesimo. (074U2151)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 10/11/1874
+---
+tipo: REGIO DECRETO
+numero: 2151
+data: 1874-10-14
+titolo: "Col quale il Comune di Boscoreale e' distaccato dalla Sezione principale del Collegio elettorale di Torre Annunziata e costituito Sezione separata del Collegio medesimo. (074U2151)"
+urn: urn:nir:stato:regio.decreto:1874-10-14;2151
+codice_redazionale: 074U2151
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,24 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Boscoreale e' distaccato dalla sezione principale del Collegio elettorale di Torre Annunziata num. 275, e costituito in sezione separata del Collegio medesimo.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Torino, addi' 14 ottobre 1874.   
-  
-VITTORIO EMANUELE.   
-  
-G. CANTELLI.   
-  
-  
+Il comune di Boscoreale e' distaccato dalla sezione principale del Collegio elettorale di Torre Annunziata num. 275, e costituito in sezione separata del Collegio medesimo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 14 ottobre 1874. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. CANTELLI.

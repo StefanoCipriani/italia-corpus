@@ -1,16 +1,14 @@
-REGIO DECRETO 28 novembre 1880 n. 5777
-
-
-REGIO DECRETO 28 novembre 1880 n. 5777
-======================================
-
-che distacca dai comuni di Zumaglia e Chiavazza la frazione Vaglio e la aggrega al comune di Pettinengo (Novara). (080U5777)
-----------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 03/02/1881
+---
+tipo: REGIO DECRETO
+numero: 5777
+data: 1880-11-28
+titolo: "che distacca dai comuni di Zumaglia e Chiavazza la frazione Vaglio e la aggrega al comune di Pettinengo (Novara). (080U5777)"
+urn: urn:nir:stato:regio.decreto:1880-11-28;5777
+codice_redazionale: 080U5777
+vigente: true
+---
 
 UMBERTO I
----------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -26,43 +24,29 @@ Vedute le deliberazioni del Consiglio provinciale di Novara in data 4 settembre 
 
 Veduto l'articolo 15 della legge comunale e provinciale 20 marzo 1865, allegato A;
 
-Veduta la [legge 30 giugno 1880, n. 5516](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1880-06-30;5516);
+Veduta la [legge 30 giugno 1880, n. 5516](Che%20proroga%20la%20facolta%20al%20Governo%20per%20decretare%20lunione%20e%20la%20disgregazione%20dei%20comuni%20nelle%20loro%20frazioni.%20080U5516.md);
 
-Udito
------
+Udito il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
 
-il parere del Consiglio di Stato, Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A cominciare dal 1° marzo 1881 la frazione Vaglio e' distaccata dai comuni di Zumaglia e Chiavazza ed aggregata a quello di Pettinengo.
 
-  
-  
-A cominciare dal 1° marzo 1881 la frazione Vaglio e' distaccata dai comuni di Zumaglia e Chiavazza ed aggregata a quello di Pettinengo.   
+## Art. 2.
 
-Art. 2
-------
+I terreni dei comuni di Zumaglia, Chiavazza e Pettinengo sono rispettivamente diminuiti ed aumentati della porzione risultante dalla pianta topografica in data 25 aprile 1865, firmata Corte Carlo geometra, che sara' d'ordine Nostro vidimata dal Ministro proponente.
 
-  
-  
-I terreni dei comuni di Zumaglia, Chiavazza e Pettinengo sono rispettivamente diminuiti ed aumentati della porzione risultante dalla pianta topografica in data 25 aprile 1865, firmata Corte Carlo geometra, che sara' d'ordine Nostro vidimata dal Ministro proponente.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-Fino alla costituzione dei nuovi Consigli comunali di Zumaglia, Chiavazza e Pettinengo, a cui si procedera' nel mese di febbraio prossimo venturo, in base alle liste elettorali debitamente riformate, giusta le prescrizioni della legge, le attuali Rappresentanze dei tre comuni continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione dei futuri Consigli.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 28 novembre 1880.   
-  
-UMBERTO.   
-  
-Depretis.   
-  
-Visto - Il Guardasigilli   
-T. Villa.   
-  
+Fino alla costituzione dei nuovi Consigli comunali di Zumaglia, Chiavazza e Pettinengo, a cui si procedera' nel mese di febbraio prossimo venturo, in base alle liste elettorali debitamente riformate, giusta le prescrizioni della legge, le attuali Rappresentanze dei tre comuni continueranno nell'esercizio delle loro attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione dei futuri Consigli. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 novembre 1880. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto - Il Guardasigilli 
+ T. Villa.

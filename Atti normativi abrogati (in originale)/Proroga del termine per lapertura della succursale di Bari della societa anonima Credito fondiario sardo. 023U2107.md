@@ -1,16 +1,14 @@
-REGIO DECRETO 15 settembre 1923 n. 2107
-
-
-REGIO DECRETO 15 settembre 1923 n. 2107
-=======================================
-
-Proroga del termine per l'apertura della succursale di Bari della societa' anonima «Credito fondiario sardo». (023U2107)
-------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 30/10/1923
+---
+tipo: REGIO DECRETO
+numero: 2107
+data: 1923-09-15
+titolo: "Proroga del termine per l'apertura della succursale di Bari della societa' anonima «Credito fondiario sardo». (023U2107)"
+urn: urn:nir:stato:regio.decreto:1923-09-15;2107
+codice_redazionale: 023U2107
+vigente: true
+---
 
 VITTORIO EMANUELE III
----------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -20,32 +18,24 @@ Veduto il R. decreto 4 giugno 1922 con cui si autorizza la societa' anonima «Cr
 
 Ritenuto che, mentre sono state aperte le agenzie di Napoli e Palermo, non e' stato ancora possibile alla societa' predetta, per assoluta mancanza di locali, di aprire la succursale di Bari;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-E' prorogato di un anno il termine fissatiti dall'art. 3 del R. decreto 4 giugno 1922 per l'apertura della succursale di Bari della societa' anonima «Credito fondiario sardo».   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Racconigi, addi' 15 settembre 1923.   
-  
-  
-VITTORIO EMANUELE.   
-  
-  
-Corbino.   
-  
-Visto, il Guardasigilli: Oviglio.   
-  
-Registrato alla Corte dei conti, addi' 11 ottobre 1923   
-  
-Atti del Governo, registro 217, foglio 107. - Granata.   
-  
-  
+E' prorogato di un anno il termine fissatiti dall'art. 3 del R. decreto 4 giugno 1922 per l'apertura della succursale di Bari della societa' anonima «Credito fondiario sardo». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 15 settembre 1923. 
+ 
+ 
+ VITTORIO EMANUELE. 
+ 
+ 
+ Corbino. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 11 ottobre 1923 
+ 
+ Atti del Governo, registro 217, foglio 107. - Granata.

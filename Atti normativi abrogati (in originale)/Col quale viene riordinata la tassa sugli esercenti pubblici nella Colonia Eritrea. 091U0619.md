@@ -1,16 +1,14 @@
-REGIO DECRETO 01 ottobre 1891 n. 619
-
-
-REGIO DECRETO 01 ottobre 1891 n. 619
-====================================
-
-Col quale viene riordinata la tassa sugli esercenti pubblici nella Colonia Eritrea. (091U0619)
-----------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 18/11/1891
+---
+tipo: REGIO DECRETO
+numero: 619
+data: 1891-10-01
+titolo: "Col quale viene riordinata la tassa sugli esercenti pubblici nella Colonia Eritrea. (091U0619)"
+urn: urn:nir:stato:regio.decreto:1891-10-01;619
+codice_redazionale: 091U0619
+vigente: true
+---
 
 UMBERTO I.
-----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -22,39 +20,24 @@ Visti gli articoli 2 e 3 della legge 1° luglio 1890, per l'applicazione delle l
 
 Sulla proposta del Presidente del Consiglio, Ministro degli Affari Esteri;
 
-Udito
------
+Udito il parere del Consiglio di Stato; Abbiamo decretato e decretiamo:
 
-il parere del Consiglio di Stato; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+A decorrere dal 1° gennaio 1892 la tassa d'apertura o di trasferimento dei pubblici esercizi nella colonia Eritrea (meno Assab) sara' di L. 50, L. 25 e L. 10, a seconda dell'importanza dell'esercizio da aprirsi o da trasferirsi.
 
-  
-  
-A decorrere dal 1° gennaio 1892 la tassa d'apertura o di trasferimento dei pubblici esercizi nella colonia Eritrea (meno Assab) sara' di L. 50, L. 25 e L. 10, a seconda dell'importanza dell'esercizio da aprirsi o da trasferirsi.   
-  
+## Art. 2.
 
-Art. 2
-------
+Tutte le altre disposizioni che riguardo agli esercizi pubblici saranno in vigore nella colonia al 31 dicembre 1891 saranno integralmente osservate anche dopo la pubblicazione del presente decreto.
 
-  
-  
-Tutte le altre disposizioni che riguardo agli esercizi pubblici saranno in vigore nella colonia al 31 dicembre 1891 saranno integralmente osservate anche dopo la pubblicazione del presente decreto.   
-  
+## Art. 3.
 
-Art. 3
-------
-
-  
-  
-I contribuenti per cio' che riguarda la tassa che saranno chiamati a pagare a tenore dell'art. 1, dovranno poter reclamare ad una commissione da nominarsi dal governo della colonia e composta di 5 membri, di cui almeno due estranei all'amministrazione pubblica.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Monza, addi' 1 ottobre 1891.   
-  
-UMBERTO.   
-  
-Di Rudini'.   
-  
-Visto, Il Guardasigilli: L. Ferraris.   
-  
+I contribuenti per cio' che riguarda la tassa che saranno chiamati a pagare a tenore dell'art. 1, dovranno poter reclamare ad una commissione da nominarsi dal governo della colonia e composta di 5 membri, di cui almeno due estranei all'amministrazione pubblica. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Monza, addi' 1 ottobre 1891. 
+ 
+ UMBERTO. 
+ 
+ Di Rudini'. 
+ 
+ Visto, Il Guardasigilli: L. Ferraris.

@@ -1,16 +1,14 @@
-REGIO DECRETO 18 novembre 1877 n. 4136
-
-
-REGIO DECRETO 18 novembre 1877 n. 4136
-======================================
-
-Che separa il comune di Roccagloriosa dalla sezione elettorale di Torre Orsaia e lo costituisce in sezione distinta del collegio di Vallo della Lucania. (077U4136)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 07/12/1877
+---
+tipo: REGIO DECRETO
+numero: 4136
+data: 1877-11-18
+titolo: "Che separa il comune di Roccagloriosa dalla sezione elettorale di Torre Orsaia e lo costituisce in sezione distinta del collegio di Vallo della Lucania. (077U4136)"
+urn: urn:nir:stato:regio.decreto:1877-11-18;4136
+codice_redazionale: 077U4136
+vigente: true
+---
 
 VITTORIO EMANUELE II
---------------------
 
 PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
 
@@ -24,23 +22,16 @@ Noverandosi nel comune stesso piu' di 40 elettori iscritti;
 
 Udito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
 
-proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il comune di Roccagloriosa e' separato dalla sezione elettorale di Torre Orsaia, e formera' una sezione distinta del Collegio elettorale di Vallo della Lucania.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 18 novembre 1877.   
-  
-VITTORIO EMANUELE.   
-  
-G. Nicotera.   
-  
+Il comune di Roccagloriosa e' separato dalla sezione elettorale di Torre Orsaia, e formera' una sezione distinta del Collegio elettorale di Vallo della Lucania. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 18 novembre 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.

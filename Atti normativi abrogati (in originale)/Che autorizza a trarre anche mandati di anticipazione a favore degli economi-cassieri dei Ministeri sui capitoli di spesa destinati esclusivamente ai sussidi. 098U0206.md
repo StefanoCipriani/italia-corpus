@@ -1,16 +1,14 @@
-REGIO DECRETO 29 maggio 1898 n. 206
-
-
-REGIO DECRETO 29 maggio 1898 n. 206
-===================================
-
-Che autorizza a trarre anche mandati di anticipazione a favore degli economi-cassieri dei Ministeri sui capitoli di spesa destinati esclusivamente ai sussidi. (098U0206)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Entrata in vigore del provvedimento: 28/06/1898
+---
+tipo: REGIO DECRETO
+numero: 206
+data: 1898-05-29
+titolo: "Che autorizza a trarre anche mandati di anticipazione a favore degli economi-cassieri dei Ministeri sui capitoli di spesa destinati esclusivamente ai sussidi. (098U0206)"
+urn: urn:nir:stato:regio.decreto:1898-05-29;206
+codice_redazionale: 098U0206
+vigente: true
+---
 
 UMBERTO I
----------
 
 per grazia di Dio e per volonta' della Nazione
 
@@ -26,31 +24,22 @@ Ritenuto che a raggiungere tale intento occorre annoverare fra i capitoli di bil
 
 Sentito il Consiglio dei Ministri;
 
-Sulla
------
+Sulla proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
 
-proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
+## Art. 1.
 
-Art. 1
-------
+Oltreche' per le spese di cui all'alinea dell'articolo 1° del Reale decreto 26 novembre 1896, n. 513, potranno essere tratti mandati di anticipazione a favore degli economi-cassieri dei Ministeri sui capitoli di spesa destinati esclusivamente ai sussidi, e cio' allo scopo di mettere in grado gli stessi economi di corrispondere, senza indugio, i sussidi aventi carattere di urgenza, accordati dai singoli Ministri.
 
-  
-  
-Oltreche' per le spese di cui all'alinea dell'articolo 1° del Reale decreto 26 novembre 1896, n. 513, potranno essere tratti mandati di anticipazione a favore degli economi-cassieri dei Ministeri sui capitoli di spesa destinati esclusivamente ai sussidi, e cio' allo scopo di mettere in grado gli stessi economi di corrispondere, senza indugio, i sussidi aventi carattere di urgenza, accordati dai singoli Ministri.   
+## Art. 2.
 
-Art. 2
-------
-
-  
-  
-Alle anticipazioni di cui nel precedente articolo sono applicabili le procedure e le cautele speciali prescritte nel gia' citato Reale decreto 26 novembre 1896, n. 513, per le gestioni degli economi-cassieri dei Ministeri.   
-  
-Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
-  
-Dato a Roma, addi' 29 maggio 1898.   
-  
-UMBERTO.   
-  
-L. Luzzatti.   
-  
-Visto, Il Guardasigilli: Bonacci.   
+Alle anticipazioni di cui nel precedente articolo sono applicabili le procedure e le cautele speciali prescritte nel gia' citato Reale decreto 26 novembre 1896, n. 513, per le gestioni degli economi-cassieri dei Ministeri. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 maggio 1898. 
+ 
+ UMBERTO. 
+ 
+ L. Luzzatti. 
+ 
+ Visto, Il Guardasigilli: Bonacci.

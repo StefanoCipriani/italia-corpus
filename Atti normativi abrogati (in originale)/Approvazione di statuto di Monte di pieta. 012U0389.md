@@ -1,19 +1,15 @@
-REGIO DECRETO 11 aprile 1912 n. 389
+---
+tipo: REGIO DECRETO
+numero: 389
+data: 1912-04-11
+titolo: "Approvazione di statuto di Monte di pieta'. (012U0389)"
+urn: urn:nir:stato:regio.decreto:1912-04-11;389
+codice_redazionale: 012U0389
+vigente: true
+---
 
+## Art. 1.
 
-REGIO DECRETO 11 aprile 1912 n. 389
-===================================
-
-Approvazione di statuto di Monte di pieta'. (012U0389)
-------------------------------------------------------
-
-Entrata in vigore del provvedimento: 23/05/1912
-
-Art. 1
-------
-
-  
-N. 389   
-  
-Regio Decreto 11 aprile 1912, col quale, sulla proposta del ministro di agricoltura, industria e commercio, di concerto col ministro dell'interno, viene approvato lo statuto organico per il Monte di pieta' di Belluno.   
-  
+N. 389 
+ 
+ Regio Decreto 11 aprile 1912, col quale, sulla proposta del ministro di agricoltura, industria e commercio, di concerto col ministro dell'interno, viene approvato lo statuto organico per il Monte di pieta' di Belluno.

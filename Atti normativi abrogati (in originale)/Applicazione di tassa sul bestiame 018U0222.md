@@ -1,17 +1,17 @@
-DECRETO LUOGOTENENZIALE 17 gennaio 1918 n. 222
+---
+tipo: DECRETO LUOGOTENENZIALE
+numero: 222
+data: 1918-01-17
+titolo: "Applicazione di tassa sul bestiame (018U0222)"
+urn: urn:nir:stato:decreto.luogotenenziale:1918-01-17;222
+codice_redazionale: 018U0222
+vigente: true
+---
 
-
-DECRETO LUOGOTENENZIALE 17 gennaio 1918 n. 222
-==============================================
-
-Applicazione di tassa sul bestiame (018U0222)
----------------------------------------------
-
-Entrata in vigore del provvedimento: 27/03/1918
-
-Art. 1
-------
+## Art. 1.
 
 N.
 
-222. Decreto Luogotenenziale 17 gennaio 1918, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Cento (Ferrara) di applicare, agli effetti dell'anno 1917, la tassa sul bestiame in base alla tariffa eccedente il limite massimo normale.
+222.
+
+Decreto Luogotenenziale 17 gennaio 1918, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Cento (Ferrara) di applicare, agli effetti dell'anno 1917, la tassa sul bestiame in base alla tariffa eccedente il limite massimo normale.
