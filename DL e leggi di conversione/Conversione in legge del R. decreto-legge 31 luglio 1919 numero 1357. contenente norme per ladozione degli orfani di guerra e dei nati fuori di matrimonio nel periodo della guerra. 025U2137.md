@@ -1,55 +1,45 @@
-LEGGE 06 dicembre 1925 n. 2137
+---
+tipo: LEGGE
+numero: 2137
+data: 1925-12-06
+titolo: "Conversione in legge del R. decreto-legge 31 luglio 1919, numero 1357. contenente norme per l'adozione degli orfani di guerra e dei nati fuori di matrimonio nel periodo della guerra. (025U2137)"
+urn: urn:nir:stato:legge:1925-12-06;2137
+codice_redazionale: 025U2137
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 06 dicembre 1925 n. 2137
-==============================
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
 
-Conversione in legge del R. decreto-legge 31 luglio 1919, numero 1357. contenente norme per l'adozione degli orfani di guerra e dei nati fuori di matrimonio nel periodo della guerra. (025U2137)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 10/12/1925
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
 
-Art. 1
-------
+## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
 
-Art. 2
-------
+## Art. 4.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
 
-Art. 3
-------
+## Art. 5.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
 
-Art. 4
-------
+## Art. 6.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
 
-Art. 5
-------
+## Art. 7.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
 
-Art. 6
-------
+## Art. 8.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
 
-Art. 7
-------
+## Art. 9.
 
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 8
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
-
-Art. 9
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 13 DICEMBRE 2010, N. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-12-13;212)))

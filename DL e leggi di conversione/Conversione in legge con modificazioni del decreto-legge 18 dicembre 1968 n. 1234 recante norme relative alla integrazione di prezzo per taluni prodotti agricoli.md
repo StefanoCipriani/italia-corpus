@@ -1,23 +1,21 @@
-LEGGE 12 febbraio 1969 n. 5
+---
+tipo: LEGGE
+numero: 5
+data: 1969-02-12
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 18 dicembre 1968, n. 1234, recante norme relative alla integrazione di prezzo per taluni prodotti agricoli."
+urn: urn:nir:stato:legge:1969-02-12;5
+codice_redazionale: 069U0005
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 12 febbraio 1969 n. 5
-===========================
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
 
-Conversione in legge, con modificazioni, del decreto-legge 18 dicembre 1968, n. 1234, recante norme relative alla integrazione di prezzo per taluni prodotti agricoli.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Art. 1
-------
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
 
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
+## Art. 3.
 
-Art. 2
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
-
-Art. 3
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))

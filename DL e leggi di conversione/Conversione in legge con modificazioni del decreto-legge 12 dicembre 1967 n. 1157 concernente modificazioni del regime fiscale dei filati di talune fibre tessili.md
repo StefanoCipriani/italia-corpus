@@ -1,13 +1,13 @@
-LEGGE 30 gennaio 1968 n. 24
+---
+tipo: LEGGE
+numero: 24
+data: 1968-01-30
+titolo: "Conversione in legge, con modificazioni, del decreto-legge 12 dicembre 1967, n. 1157, concernente modificazioni del regime fiscale dei filati di talune fibre tessili."
+urn: urn:nir:stato:legge:1968-01-30;24
+codice_redazionale: 068U0024
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 30 gennaio 1968 n. 24
-===========================
-
-Conversione in legge, con modificazioni, del decreto-legge 12 dicembre 1967, n. 1157, concernente modificazioni del regime fiscale dei filati di talune fibre tessili.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))

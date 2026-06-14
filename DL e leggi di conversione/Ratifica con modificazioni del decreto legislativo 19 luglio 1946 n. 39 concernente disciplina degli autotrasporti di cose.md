@@ -1,13 +1,13 @@
-LEGGE 05 gennaio 1953 n. 33
+---
+tipo: LEGGE
+numero: 33
+data: 1953-01-05
+titolo: "Ratifica, con modificazioni, del decreto legislativo 19 luglio 1946, n. 39, concernente disciplina degli autotrasporti di cose."
+urn: urn:nir:stato:legge:1953-01-05;33
+codice_redazionale: 053U0033
+vigente: true
+---
 
+## Art. 1.
 
-LEGGE 05 gennaio 1953 n. 33
-===========================
-
-Ratifica, con modificazioni, del decreto legislativo 19 luglio 1946, n. 39, concernente disciplina degli autotrasporti di cose.
--------------------------------------------------------------------------------------------------------------------------------
-
-Art. 1
-------
-
-((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))  
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO, CON MODIFICAZIONI, DALLA [L. 6 AGOSTO 2008, N. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))

@@ -1,35 +1,25 @@
-LEGGE 28 gennaio 1953 n. 64
-
-
-LEGGE 28 gennaio 1953 n. 64
-===========================
-
-Ratifica del decreto legislativo 24 aprile 1948, n. 832, concernente modificazioni al decreto legislativo luogotenenziale 29 marzo 1946, n. 503, riguardante provvidenze a favore dei tesorieri comunali e provinciali.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+tipo: LEGGE
+numero: 64
+data: 1953-01-28
+titolo: "Ratifica del decreto legislativo 24 aprile 1948, n. 832, concernente modificazioni al decreto legislativo luogotenenziale 29 marzo 1946, n. 503, riguardante provvidenze a favore dei tesorieri comunali e provinciali."
+urn: urn:nir:stato:legge:1953-01-28;64
+codice_redazionale: 053U0064
+vigente: true
+---
 
 La Camera dei deputati ed il Senato della Repubblica hanno approvato;
 
 IL PRESIDENTE DELLA REPUBBLICA
-------------------------------
 
-PROMULGA
---------
+PROMULGA la seguente legge;
 
-la seguente legge;
+## Articolo unico.
 
-Articolo unico
---------------
-
-  
-  
-Il [decreto legislativo 24 aprile 1948, n. 832](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-24;832), e' ratificato.  
-  
+Il [decreto legislativo 24 aprile 1948, n. 832](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-04-24;832), e' ratificato.
 
 La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Data a Roma, addi' 28 gennaio 1953
+Data a Roma, addi' 28 gennaio 1953
 
-EINAUDI DE GASPERI - SCELBA - VANONI - PELLA
-
-Visto, il Guardasigilli: ZOLI
+EINAUDI DE GASPERI - SCELBA - VANONI - PELLA Visto, il Guardasigilli: ZOLI
