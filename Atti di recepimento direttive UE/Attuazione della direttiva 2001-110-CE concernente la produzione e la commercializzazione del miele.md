@@ -58,7 +58,13 @@ b) secondo il metodo di produzione o di estrazione:
 3) miele scolato: miele ottenuto mediante scolatura dei favi disopercolati non contenenti covata;   
 4) miele centrifugato: miele ottenuto mediante centrifugazione dei favi disopercolati non contenenti covata;   
 5) miele torchiato: miele ottenuto mediante pressione dei favi non contenenti covata, senza riscaldamento o con riscaldamento moderato a un massimo di 45 °C;   
-6) miele filtrato: miele ottenuto eliminando sostanze organiche o inorganiche estranee in modo da avere come risultato un'eliminazione significativa dei pollini.
+6)
+
+((NUMERO ABROGATO DAL [D.LGS. 30 DICEMBRE 2025, N. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-30;207)))
+
+.
+
+((4))
 
 3. Il miele per uso industriale e' il miele che e' adatto all'uso industriale o come ingrediente in altri prodotti alimentari destinati ad essere successivamente lavorati e che puo':
 
@@ -68,11 +74,7 @@ b) avere iniziato un processo di fermentazione, o essere effervescente;
 
 c) essere stato surriscaldato;
 
-c-bis)
-
-((essere stato ottenuto eliminando sostanze organiche o inorganiche estranee in modo da avere come risultato un'eliminazione significativa dei pollini.))
-
-((4))
+c-bis) essere stato ottenuto eliminando sostanze organiche o inorganiche estranee in modo da avere come risultato un'eliminazione significativa dei pollini. (4)
 
 -----------
 
@@ -89,82 +91,42 @@ Art. 2
 Art. 3
 ------
 
-1. 
-
-((Al miele si applica il [regolamento (UE) n. 1169/2011 del Parlamento europeo e del Consiglio del 25 ottobre 2011](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32011R1169), relativo alla fornitura di informazioni sugli alimenti ai consumatori, nonche' le disposizioni indicate ai commi 2 e 3.))
-
-((4))
+1. Al miele si applica il [regolamento (UE) n. 1169/2011 del Parlamento europeo e del Consiglio del 25 ottobre 2011](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32011R1169), relativo alla fornitura di informazioni sugli alimenti ai consumatori, nonche' le disposizioni indicate ai commi 2 e 3. (4)
 
 2. Al miele si applicano le seguenti particolari disposizioni:
 
 a) la denominazione di vendita "miele" e' riservata al miele definito nell'articolo 1, comma 1, ed e' utilizzata nel commercio per designare tale prodotto;
 
-b) la denominazione di vendita di cui all'articolo 1, commi 2 e 3, sono riservate ai prodotti in esso definiti e sono utilizzate nel commercio per designarli. Queste denominazioni possono essere sostituite dalla denominazione di vendita "miele", ad eccezione
+b) la denominazione di vendita di cui all'articolo 1, commi 2 e 3, sono riservate ai prodotti in esso definiti e sono utilizzate nel commercio per designarli. Queste denominazioni possono essere sostituite dalla denominazione di vendita "miele", ad eccezione del miele in favo, del miele con pezzi di favo o favo tagliato nel miele e del miele per uso industriale; (4)
 
-((...))
+c) il miele per uso industriale deve riportare, nell' immediata prossimita' della denominazione del prodotto, la menzione "unicamente ad uso culinario"; (4)
 
-del miele in favo, del miele con pezzi di favo o favo tagliato nel miele e del miele per uso industriale;
-
-((4))
-
-c)
-
-((il miele per uso industriale deve riportare, nell' immediata prossimita' della denominazione del prodotto, la menzione "unicamente ad uso culinario";))
-
-((4))
-
-d)
-
-((ad esclusione del miele per uso industriale, le denominazioni possono essere completate da indicazioni che fanno riferimento:))
-
-  
-1)
-
-((all'origine floreale o vegetale, se il prodotto e' interamente o principalmente ottenuto dalla pianta indicata e presenta le caratteristiche organolettiche, fisicochimiche e microscopiche dell'origine indicata;))
-
-  
-2)
-
-((all'origine regionale, territoriale o topografica, se il prodotto proviene interamente dall'origine indicata;))
-
-  
-3)
-
-((a criteri di qualita' specifici, previsti dalla normativa europea;))
-
-((4))
+d) ad esclusione del miele per uso industriale, le denominazioni possono essere completate da indicazioni che fanno riferimento:   
+1) all'origine floreale o vegetale, se il prodotto e' interamente o principalmente ottenuto dalla pianta indicata e presenta le caratteristiche organolettiche, fisicochimiche e microscopiche dell'origine indicata;   
+2) all'origine regionale, territoriale o topografica, se il prodotto proviene interamente dall'origine indicata;   
+3) a criteri di qualita' specifici, previsti dalla normativa europea; (4)
 
 e) il miele per uso industriale utilizzato come ingrediente di un prodotto alimentare composto puo' essere designato con il solo termine "miele" nella denominazione di vendita di tale prodotto alimentare composto. Tuttavia, l'elenco degli ingredienti deve riportare la denominazione completa di miele per uso industriale;
 
-f)
+f) sull'etichetta deve essere indicato il Paese d'origine in cui il miele e' stato raccolto. Se il miele e' originario di piu' Paesi, i paesi d'origine in cui il miele e' stato raccolto sono indicati sull'etichetta nel campo visivo principale, in ordine decrescente rispetto alla loro quota di peso, unitamente alla percentuale rappresentata da ciascuno di tali Paesi di origine. Per ogni singola quota della miscela e' ammessa una tolleranza del 5 per cento, calcolata sulla base della documentazione relativa alla tracciabilita' dell'operatore. Quando in una miscela il numero di Paesi d'origine del miele e' superiore a quattro e le quattro quote maggiori rappresentano oltre il 60 per cento della miscela, e' consentito indicare con la percentuale solo tali quattro quote maggiori e gli altri Paesi d'origine in ordine decrescente senza percentuale; (4)
 
-((sull'etichetta deve essere indicato il Paese d'origine in cui il miele e' stato raccolto. Se il miele e' originario di piu' Paesi, i paesi d'origine in cui il miele e' stato raccolto sono indicati sull'etichetta nel campo visivo principale, in ordine decrescente rispetto alla loro quota di peso, unitamente alla percentuale rappresentata da ciascuno di tali Paesi di origine. Per ogni singola quota della miscela e' ammessa una tolleranza del 5 per cento, calcolata sulla base della documentazione relativa alla tracciabilita' dell'operatore. Quando in una miscela il numero di Paesi d'origine del miele e' superiore a quattro e le quattro quote maggiori rappresentano oltre il 60 per cento della miscela, e' consentito indicare con la percentuale solo tali quattro quote maggiori e gli altri Paesi d'origine in ordine decrescente senza percentuale;))
+f-bis) Per gli imballaggi contenenti quantita' nette di miele di peso inferiore a 30 grammi, i nomi dei Paesi d'origine possono essere sostituiti da un codice a due lettere conforme a quello dell'ultima versione della norma internazionale ISO 3166-1 (alfa-2) in vigore; (4)
 
-((4))
-
-f-bis)
-
-((Per gli imballaggi contenenti quantita' nette di miele di peso inferiore a 30 grammi, i nomi dei Paesi d'origine possono essere sostituiti da un codice a due lettere conforme a quello dell'ultima versione della norma internazionale ISO 3166-1 (alfa-2) in vigore;))
-
-((4))
-
-g)
-
-((ove si tratti di miele per uso industriale, i contenitori per merce alla rinfusa, gli imballaggi e i documenti commerciali indicano chiaramente la denominazione completa del prodotto di cui all'articolo 1, comma 3;))
-
-((4))
+g) ove si tratti di miele per uso industriale, i contenitori per merce alla rinfusa, gli imballaggi e i documenti commerciali indicano chiaramente la denominazione completa del prodotto di cui all'articolo 1, comma 3; (4)
 
 g-bis) il polline non e' considerato un ingrediente, ai sensi dell'[articolo 2, paragrafo 2, lettera f), del regolamento (UE) n. 1169/2011 del Parlamento europeo e del Consiglio](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32011R1169), dei prodotti di cui all'articolo 1 del presente decreto, essendo una componente naturale specifica del miele. (3)
 
-3. 
-
-((Le denominazioni di cui al comma 2, lettere a), b), c), d), e), f), f-bis) e g), devono figurare in lingua italiana.))
-
-((4))
+3. Le denominazioni di cui al comma 2, lettere a), b), c), d), e), f), f-bis) e g), devono figurare in lingua italiana. (4)
 
 4. Il miele destinato ai consumatori deve essere preconfezionato all'origine in contenitori chiusi.
 
-4-bis. Le disposizioni di cui al comma 2, lettera f), non si applicano ai mieli prodotti e confezionati in altri Stati membri nel rispetto delle definizioni e delle norme di cui alla [direttiva 2001/110/CE del Consiglio, del 20 dicembre 2001](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0110).
+4-bis. 
+
+((COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2025, N. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-30;207)))
+
+.
+
+((4))
 
 -----------
 
@@ -252,12 +214,15 @@ Art. 8
 Art. 9
 ------
 
-1. In relazione a quanto disposto dall'[articolo 117, quinto comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art117-com5), le norme del presente decreto afferenti a materie di competenza legislativa delle regioni e delle province autonome di Trento e di Bolzano che non abbiano ancora provveduto al recepimento della [direttiva 2001/110/CE](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32001L0110), si applicano sino alla data di entrata in vigore della normativa di attuazione di ciascuna regione e provincia autonoma, adottata nel rispetto dei vincoli derivanti dall'ordinamento comunitario e, per gli aspetti che concernono materie di competenza concorrente, dei principi fondamentali desumibili dal presente decreto.
+((ARTICOLO ABROGATO DAL [D.LGS. 30 DICEMBRE 2025, N. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-30;207)))
 
-Note all'[art. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art9):   
-- L'[art. 117, quinto comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art117-com5), cosi' recita:   
-«Le regioni e le province autonome di Trento e di Bolzano, nelle materie di loro competenza, partecipano alle decisioni dirette alla formazione degli atti normativi comunitari e provvedono all'attuazione e all'esecuzione degli accordi internazionali e degli atti dell'Unione europea, nel rispetto delle norme di procedura stabilite da legge dello Stato, che disciplina le modalita' di esercizio del potere sostitutivo in caso di inadempienza».   
-- Per la direttiva 200 1/110/CE, vedi note alle premesse.
+((4))
+
+-----------
+
+AGGIORNAMENTO (4)
+
+Il [D.Lgs. 30 dicembre 2025, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-30;207) ha disposto (con l'art. 5, comma 2) che "I prodotti immessi sul mercato o etichettati anteriormente al 14 giugno 2026, in conformita' alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono essere commercializzati fino all'esaurimento delle scorte".
 
 Art. 10
 -------

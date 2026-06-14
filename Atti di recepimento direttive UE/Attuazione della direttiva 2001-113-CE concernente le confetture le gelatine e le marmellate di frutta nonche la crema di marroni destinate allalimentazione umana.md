@@ -102,25 +102,29 @@ Art. 3
 
 Denominazioni di vendita e altre indicazioni
 
-1. 
-
-((Ai prodotti di cui all'articolo 1, comma 1, si applicano le disposizioni del [regolamento (UE) n. 1169/2011 del Parlamento europeo e del Consiglio, del 25 ottobre 2011](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32011R1169), e le disposizioni di cui al presente articolo.))
-
-((1))
+1. Ai prodotti di cui all'articolo 1, comma 1, si applicano le disposizioni del [regolamento (UE) n. 1169/2011 del Parlamento europeo e del Consiglio, del 25 ottobre 2011](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32011R1169), e le disposizioni di cui al presente articolo. (1)
 
 2. Si applicano le seguenti particolari disposizioni:
 
 a) la dicitura concernente il contenuto di frutta: «frutta utilizzata: ... grammi (g) per 100 grammi (g)» di prodotto finito, se del caso previa detrazione del peso dell'acqua utilizzata per la preparazione degli estratti acquosi;
 
-b) la dicitura concernente il tenore di zuccheri: «zuccheri totali: ... grammi (g) per 100 grammi (g)»; la cifra indicata rappresenta il valore rifrattometrico del prodotto finito, determinato a 20 gradi centigradi con una tolleranza di piu' o meno 3 gradi rifrattometrici. Tale menzione puo' non essere riportata, nel caso in cui figura in etichettatura la tabella nutrizionale ai sensi del [decreto legislativo 16 febbraio 1993, n. 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-16;77).
+b)
 
-3. 
+((LETTERA ABROGATA DAL [D.LGS. 30 DICEMBRE 2025, N. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-30;207)))
 
-((Le indicazioni di cui al comma 2 figurano, a caratteri chiaramente leggibili, nello stesso campo visivo della denominazione del prodotto.))
+.
 
 ((1))
 
-4. Se il tenore residuo di anidride solforosa e' superiore a 10 milligrammi per chilogrammo, la sua presenza deve essere menzionata nell'elenco degli ingredienti.
+3. Le indicazioni di cui al comma 2 figurano, a caratteri chiaramente leggibili, nello stesso campo visivo della denominazione del prodotto. (1)
+
+4. 
+
+((COMMA ABROGATO DAL [D.LGS. 30 DICEMBRE 2025, N. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-30;207)))
+
+.
+
+((1))
 
 5. Le denominazioni di vendita elencate all'allegato I sono riservate ai prodotti in esso definiti e sono utilizzate per designarli nel commercio; tuttavia tali denominazioni di vendita possono essere utilizzate, a titolo complementare e conformemente agli usi, per designare altri prodotti che non possono essere confusi con i prodotti disciplinati dal presente decreto.
 
@@ -308,10 +312,25 @@ Trattamenti delle materie prime
 a) trattamenti mediante il calore o il freddo;   
 b) liofilizzazione;   
 c) concentrazione, se il prodotto si presta tecnicamente;   
-d) uso di anidride solforosa (E 220) e suoi sali (E 221, 222, 223, 224, 226 e 227) come coadiuvante per la produzione, purche' il tenore massimo di anidride solforosa fissato dal [decreto del Ministro della sanita' 27 febbraio 1996, n. 209](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1996-02-27;209), non sia superato nei prodotti definiti nell'allegato I. L'uso di tali sostanze e' vietato nella preparazione di materie prime destinate alla fabbricazione di confetture extra e di gelatine extra;   
+d)
+
+((LETTERA ABROGATA DAL [D.LGS. 30 DICEMBRE 2025, N. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-30;207)))
+
+;
+
+((1))
+
+  
 e) le albicocche e le prugne destinate alla produzione di confetture possono anche subire trattamenti di disidratazione, diversi dalla liofilizzazione;   
   
 2. La scorza di agrumi puo' essere conservata in salamoia.   
+  
+
+-----------
+
+AGGIORNAMENTO (1)
+
+Il [D.Lgs. 30 dicembre 2025, n. 207](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-30;207) ha disposto (con l'art. 5, comma 2) che "I prodotti immessi sul mercato o etichettati anteriormente al 14 giugno 2026, in conformita' alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono essere commercializzati fino all'esaurimento delle scorte".
 
 Allegato IV
 
