@@ -1,82 +1,63 @@
-DECRETO-LEGGE 10 gennaio 1983 n. 3
+---
+tipo: DECRETO-LEGGE
+numero: 3
+data: 1983-01-10
+titolo: "Misure urgenti in materia previdenziale."
+urn: urn:nir:stato:decreto.legge:1983-01-10;3
+codice_redazionale: 083U0003
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 10 gennaio 1983 n. 3
-==================================
+DECRETO DECADUTO
 
-Misure urgenti in materia previdenziale.
-----------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO
+ SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1983, N. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO; GLI EFFETTI DEL COMMA 3 DEL PRESENTE ARTICOLO
+ SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1983, N. 638](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638)
 
-Art. 3
-------
+## Art. 5.
 
- DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO  
-SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1983, N. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638)
-  
+DECRETO DECADUTO
 
-Art. 4
-------
+## Art. 6.
 
- DECRETO DECADUTO; GLI EFFETTI DEL COMMA 3 DEL PRESENTE ARTICOLO  
-SONO STATI FATTI SALVI DALLA [L. 11 NOVEMBRE 1983, N. 638](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-11-11;638)
-  
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 6
-------
+## Art. 8.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 7
-------
+## Art. 9.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 8
-------
+## Art. 10.
 
-DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 9
-------
+## Art. 11.
 
- DECRETO DECADUTO  
+DECRETO DECADUTO
 
-Art. 10
--------
+## Art. 12.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 11
--------
+## Art. 13.
 
- DECRETO DECADUTO  
-
-Art. 12
--------
-
- DECRETO DECADUTO  
-
-Art. 13
--------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

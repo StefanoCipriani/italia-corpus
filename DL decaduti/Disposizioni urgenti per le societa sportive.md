@@ -1,34 +1,25 @@
-DECRETO-LEGGE 17 maggio 1996 n. 272
+---
+tipo: DECRETO-LEGGE
+numero: 272
+data: 1996-05-17
+titolo: "Disposizioni urgenti per le societa' sportive."
+urn: urn:nir:stato:decreto.legge:1996-05-17;272
+codice_redazionale: 096G0281
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 17 maggio 1996 n. 272
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 18 NOVEMBRE 1996, N. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-18;586)
 
-Disposizioni urgenti per le societa' sportive.
-----------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 19-5-1996.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 18 NOVEMBRE 1996, N. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-18;586)
 
-Art. 1
-------
+## Art. 3.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 18 NOVEMBRE 1996, N. 586](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-18;586)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 18 NOVEMBRE 1996, N. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-18;586)
 
-Art. 2
-------
+## Art. 4.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 18 NOVEMBRE 1996, N. 586](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-18;586)
-  
-
-Art. 3
-------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 18 NOVEMBRE 1996, N. 586](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-18;586)
-  
-
-Art. 4
-------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 18 NOVEMBRE 1996, N. 586](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-18;586)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 18 NOVEMBRE 1996, N. 586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-18;586)

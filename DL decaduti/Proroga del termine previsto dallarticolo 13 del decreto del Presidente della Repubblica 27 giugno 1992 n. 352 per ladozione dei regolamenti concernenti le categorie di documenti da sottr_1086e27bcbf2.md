@@ -1,34 +1,24 @@
-DECRETO-LEGGE 15 luglio 1993 n. 227
+---
+tipo: DECRETO-LEGGE
+numero: 227
+data: 1993-07-15
+titolo: "Proroga del termine previsto dall'articolo 13 del decreto del Presidente della Repubblica 27 giugno 1992, n. 352, per l'adozione dei regolamenti concernenti le categorie di documenti da sottrarre all'accesso, nonche' dei termini previsti dal decreto legislativo 3 febbraio 1993, n. 29, ai fini della emanazione di specifiche disposizioni regolamentari."
+urn: urn:nir:stato:decreto.legge:1993-07-15;227
+codice_redazionale: 093G0301
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 15 luglio 1993 n. 227
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 12 NOVEMBRE 1993, N. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-12;448)
 
-Proroga del termine previsto dall'articolo 13 del decreto del Presidente della Repubblica 27 giugno 1992, n. 352, per l'adozione dei regolamenti concernenti le categorie di documenti da sottrarre all'accesso, nonche' dei termini previsti dal decreto legislativo 3 febbraio 1993, n. 29, ai fini della emanazione di specifiche disposizioni regolamentari.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 17-7-1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 12 NOVEMBRE 1993, N. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-12;448)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 12 NOVEMBRE 1993, N. 448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-12;448)
-  
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 12 NOVEMBRE 1993, N. 448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-12;448)
-  
-
-Art. 3
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 12 NOVEMBRE 1993, N. 448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-12;448)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 12 NOVEMBRE 1993, N. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-11-12;448)

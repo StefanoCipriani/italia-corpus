@@ -1,42 +1,21 @@
-DECRETO-LEGGE 31 ottobre 2013 n. 126
+---
+tipo: DECRETO-LEGGE
+numero: 126
+data: 2013-10-31
+titolo: "Misure finanziarie urgenti in favore di regioni ed enti locali ed interventi localizzati nel territorio. (13G00170)"
+urn: urn:nir:stato:decreto.legge:2013-10-31;126
+codice_redazionale: 13G00170
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 31 ottobre 2013 n. 126
-====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 2 MAGGIO 2014, N. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-05-02;68)
 
-Misure finanziarie urgenti in favore di regioni ed enti locali ed interventi localizzati nel territorio. (13G00170)
--------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del provvedimento: 31/10/2013  
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 2 MAGGIO 2014, N. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-05-02;68)
 
-Art. 1
-------
+## Art. 3.
 
-  
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 2 MAGGIO 2014, N. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-05-02;68)
-  
-
-Art. 2
-------
-
-  
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 2 MAGGIO 2014, N. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-05-02;68)
-  
-
-Art. 3
-------
-
-  
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 2 MAGGIO 2014, N. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-05-02;68)
-  
-
-Allegato 1
-
- Allegato 1   
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 2 MAGGIO 2014, N. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-05-02;68)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 2 MAGGIO 2014, N. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-05-02;68)

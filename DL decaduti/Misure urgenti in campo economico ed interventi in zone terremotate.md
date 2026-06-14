@@ -1,74 +1,51 @@
-DECRETO-LEGGE 21 gennaio 1992 n. 14
+---
+tipo: DECRETO-LEGGE
+numero: 14
+data: 1992-01-21
+titolo: "Misure urgenti in campo economico ed interventi in zone terremotate."
+urn: urn:nir:stato:decreto.legge:1992-01-21;14
+codice_redazionale: 092G0036
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 21 gennaio 1992 n. 14
-===================================
+DECRETO DECADUTO
 
-Misure urgenti in campo economico ed interventi in zone terremotate.
---------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 22/1/1992.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO 
+ SONO STATI FATTI SALVI DALLA [L. 24 MARZO 1993, N. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO   
-SONO STATI FATTI SALVI DALLA [L. 24 MARZO 1993, N. 75](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-24;75)
-  
+DECRETO DECADUTO
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO 
+ SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1993, N. 292](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-08-09;292)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO   
-SONO STATI FATTI SALVI DALLA [L. 9 AGOSTO 1993, N. 292](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-08-09;292)
-  
-
-Art. 9
-------
-
-  
-DECRETO DECADUTO   
-
-Art. 10
--------
-
-  
-DECRETO DECADUTO   
+DECRETO DECADUTO

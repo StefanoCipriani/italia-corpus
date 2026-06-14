@@ -1,100 +1,77 @@
-DECRETO-LEGGE 27 giugno 2012 n. 87
+---
+tipo: DECRETO-LEGGE
+numero: 87
+data: 2012-06-27
+titolo: "Misure urgenti in materia di efficientamento, valorizzazione e dismissione del patrimonio pubblico, di razionalizzazione dell'amministrazione economico-finanziaria, nonche' misure di rafforzamento del patrimonio delle imprese del settore bancario. (12G0110)"
+urn: urn:nir:stato:decreto.legge:2012-06-27;87
+codice_redazionale: 012G0110
+vigente: true
+---
 
+## Efficientamento, valorizzazione e dismissione del patrimonio pubblico, e misure di razionalizzazione dell'amministrazione  economico-finanziaria
 
-DECRETO-LEGGE 27 giugno 2012 n. 87
-==================================
+Capo I
 
-Misure urgenti in materia di efficientamento, valorizzazione e dismissione del patrimonio pubblico, di razionalizzazione dell'amministrazione economico-finanziaria, nonche' misure di rafforzamento del patrimonio delle imprese del settore bancario. (12G0110)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 1.
 
-Entrata in vigore del provvedimento: 27/06/2012.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
 
-CAPO I Capo I Efficientamento, valorizzazione e dismissione del patrimonio pubblico, e misure di razionalizzazione dell'amministrazione economico-finanziaria
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Art. 2.
 
-### Art. 1
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+### Art. 3.
 
-### Art. 2
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+### Art. 4.
 
-### Art. 3
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+## Misure di rafforzamento patrimoniale delle imprese del settore  bancario
 
-### Art. 4
+Capo II
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+### Art. 5.
 
-CAPO II Capo II Misure di rafforzamento patrimoniale delle imprese del settore bancario
----------------------------------------------------------------------------------------
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
 
-### Art. 5
+### Art. 6.
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
 
-### Art. 6
+### Art. 7.
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
 
-### Art. 7
+### Art. 8.
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
 
-### Art. 8
+### Art. 9.
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
 
-### Art. 9
+### Art. 10.
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
 
-### Art. 10
+### Art. 11.
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
 
-### Art. 11
+### Art. 12.
 
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
-
-### Art. 12
-
-  
-DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 7 AGOSTO 2012, N. 135](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 7 AGOSTO 2012, N. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135)

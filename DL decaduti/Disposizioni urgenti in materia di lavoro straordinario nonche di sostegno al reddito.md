@@ -1,0 +1,24 @@
+---
+tipo: DECRETO-LEGGE
+numero: 248
+data: 1998-07-27
+titolo: "Disposizioni urgenti in materia di lavoro straordinario, nonche' di sostegno al reddito."
+urn: urn:nir:stato:decreto.legge:1998-07-27;248
+codice_redazionale: 098G0309
+vigente: true
+---
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 NOVEMBRE 1998, N. 409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-11-27;409)
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 NOVEMBRE 1998, N. 409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-11-27;409)
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 27 NOVEMBRE 1998, N. 409](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-11-27;409)

@@ -1,58 +1,39 @@
-DECRETO-LEGGE 17 marzo 1992 n. 236
+---
+tipo: DECRETO-LEGGE
+numero: 236
+data: 1992-03-17
+titolo: "Rivalutazione delle pensioni erogate dai Fondi speciali gestiti dall'I.N.P.S."
+urn: urn:nir:stato:decreto.legge:1992-03-17;236
+codice_redazionale: 092G0272
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 17 marzo 1992 n. 236
-==================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 MARZO 1993, N. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;70)
 
-Rivalutazione delle pensioni erogate dai Fondi speciali gestiti dall'I.N.P.S.
------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 22/3/1992.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 MARZO 1993, N. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;70)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 MARZO 1993, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;70)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 MARZO 1993, N. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;70)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 MARZO 1993, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;70)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 MARZO 1993, N. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;70)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 MARZO 1993, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;70)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 MARZO 1993, N. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;70)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 MARZO 1993, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;70)
-  
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 MARZO 1993, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;70)
-  
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 MARZO 1993, N. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;70)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 MARZO 1993, N. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-03-19;70)

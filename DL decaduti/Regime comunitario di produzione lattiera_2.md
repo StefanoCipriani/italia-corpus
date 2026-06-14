@@ -1,31 +1,24 @@
-DECRETO-LEGGE 16 maggio 1996 n. 260
+---
+tipo: DECRETO-LEGGE
+numero: 260
+data: 1996-05-16
+titolo: "Regime comunitario di produzione lattiera."
+urn: urn:nir:stato:decreto.legge:1996-05-16;260
+codice_redazionale: 096G0277
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 16 maggio 1996 n. 260
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 20 DICEMBRE 1996, N. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;642)
 
-Regime comunitario di produzione lattiera.
-------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 16/5/1996.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 20 DICEMBRE 1996, N. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;642)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 20 DICEMBRE 1996, N. 642](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;642)
-  
-
-Art. 2
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 20 DICEMBRE 1996, N. 642](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;642)
-  
-
-Art. 3
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 20 DICEMBRE 1996, N. 642](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;642)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 20 DICEMBRE 1996, N. 642](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-20;642)

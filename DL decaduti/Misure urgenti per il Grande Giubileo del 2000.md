@@ -1,31 +1,24 @@
-DECRETO-LEGGE 26 aprile 1996 n. 225
+---
+tipo: DECRETO-LEGGE
+numero: 225
+data: 1996-04-26
+titolo: "Misure urgenti per il Grande Giubileo del 2000."
+urn: urn:nir:stato:decreto.legge:1996-04-26;225
+codice_redazionale: 096G0242
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 26 aprile 1996 n. 225
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 23 DICEMBRE 1996, N. 651](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;651)
 
-Misure urgenti per il Grande Giubileo del 2000.
------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 30-4-1996.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 23 DICEMBRE 1996, N. 651](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;651)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 23 DICEMBRE 1996, N. 651](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;651)
-  
-
-Art. 2
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 23 DICEMBRE 1996, N. 651](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;651)
-  
-
-Art. 3
-------
-
- DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI  
-DALLA [L. 23 DICEMBRE 1996, N. 651](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;651)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA [L. 23 DICEMBRE 1996, N. 651](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;651)

@@ -1,0 +1,63 @@
+---
+tipo: DECRETO-LEGGE
+numero: 790
+data: 1984-11-28
+titolo: "Ripiano dei disavanzi di amministrazione delle unita' sanitarie locali al 31 dicembre 1983 e norme in materia di convenzioni sanitarie."
+urn: urn:nir:stato:decreto.legge:1984-11-28;790
+codice_redazionale: 084U0790
+vigente: true
+---
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL
+ [D.L. 25 GENNAIO 1985 N. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-01-25;8), CONVERTITO CON MODIFICAZIONI DALLA
+[L. 27 MARZO 1985 N. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-03-27;103)
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL
+ [D.L. 25 GENNAIO 1985 N. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-01-25;8), CONVERTITO CON MODIFICAZIONI DALLA
+[L. 27 MARZO 1985 N. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-03-27;103)
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL
+ [D.L. 25 GENNAIO 1985 N. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-01-25;8), CONVERTITO CON MODIFICAZIONI DALLA
+[L. 27 MARZO 1985 N. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-03-27;103)
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL
+ [D.L. 25 GENNAIO 1985 N. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-01-25;8), CONVERTITO CON MODIFICAZIONI DALLA
+[L. 27 MARZO 1985 N. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-03-27;103)
+
+## Art. 5.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL
+ [D.L. 25 GENNAIO 1985 N. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-01-25;8), CONVERTITO CON MODIFICAZIONI DALLA
+[L. 27 MARZO 1985 N. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-03-27;103)
+
+## Art. 6.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL
+ [D.L. 25 GENNAIO 1985 N. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-01-25;8), CONVERTITO CON MODIFICAZIONI DALLA
+[L. 27 MARZO 1985 N. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-03-27;103)
+
+## Art. 7.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL
+ [D.L. 25 GENNAIO 1985 N. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-01-25;8), CONVERTITO CON MODIFICAZIONI DALLA
+[L. 27 MARZO 1985 N. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-03-27;103)
+
+## Art. 8.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL
+ [D.L. 25 GENNAIO 1985 N. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-01-25;8), CONVERTITO CON MODIFICAZIONI DALLA
+[L. 27 MARZO 1985 N. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-03-27;103)
+
+## Art. 9.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL
+ [D.L. 25 GENNAIO 1985 N. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1985-01-25;8), CONVERTITO CON MODIFICAZIONI DALLA
+[L. 27 MARZO 1985 N. 103](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-03-27;103)

@@ -1,90 +1,59 @@
-DECRETO-LEGGE 20 ottobre 1992 n. 414
+---
+tipo: DECRETO-LEGGE
+numero: 414
+data: 1992-10-20
+titolo: "Soppressione dell'Ente partecipazioni e finanziamento industria manifatturiera - EFIM."
+urn: urn:nir:stato:decreto.legge:1992-10-20;414
+codice_redazionale: 092G0460
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 20 ottobre 1992 n. 414
-====================================
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)
 
-Soppressione dell'Ente partecipazioni e finanziamento industria manifatturiera - EFIM.
---------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 20/10/1992.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)
-  
+DECRETO DECADUTO; I SUOI EFFETTI PERALTRO 
+ SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)
-  
+DECRETO DECADUTO; I SUOI EFFETTI PERALTRO 
+ SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI PERALTRO   
-SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)
-  
+DECRETO DECADUTO; I SUOI EFFETTI PERALTRO 
+ SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI PERALTRO   
-SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)
-  
-
-Art. 9
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI PERALTRO   
-SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)
-  
-
-Art. 10
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI PERALTRO   
-SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)
-  
+DECRETO DECADUTO; I SUOI EFFETTI PERALTRO 
+ SONO STATI FATTI SALVI DALLA [L. 17 FEBBRAIO 1993, N. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-02-17;33)

@@ -1,26 +1,19 @@
-DECRETO-LEGGE 06 maggio 1994 n. 277
+---
+tipo: DECRETO-LEGGE
+numero: 277
+data: 1994-05-06
+titolo: "Disposizioni urgenti sulla estinzione dell'obbligo di cessione di quota parte dei rischi delle imprese che esercitano l'assicurazione vita."
+urn: urn:nir:stato:decreto.legge:1994-05-06;277
+codice_redazionale: 094G0335
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 06 maggio 1994 n. 277
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 23 GIUGNO 1994, N. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-23;403)
 
-Disposizioni urgenti sulla estinzione dell'obbligo di cessione di quota parte dei rischi delle imprese che esercitano l'assicurazione vita.
--------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 11/05/1994.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 GIUGNO 1994, N. 403](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-23;403)
-  
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 GIUGNO 1994, N. 403](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-23;403)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 23 GIUGNO 1994, N. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-23;403)

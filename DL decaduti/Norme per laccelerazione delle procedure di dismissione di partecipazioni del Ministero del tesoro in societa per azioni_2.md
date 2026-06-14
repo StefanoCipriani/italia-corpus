@@ -1,82 +1,54 @@
-DECRETO-LEGGE 29 novembre 1993 n. 486
+---
+tipo: DECRETO-LEGGE
+numero: 486
+data: 1993-11-29
+titolo: "Norme per l'accelerazione delle procedure di dismissione di partecipazioni del Ministero del tesoro in societa' per azioni."
+urn: urn:nir:stato:decreto.legge:1993-11-29;486
+codice_redazionale: 093G0566
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 29 novembre 1993 n. 486
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 30 LUGLIO 1994, N. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474)
 
-Norme per l'accelerazione delle procedure di dismissione di partecipazioni del Ministero del tesoro in societa' per azioni.
----------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 02-12-1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 30 LUGLIO 1994, N. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 30 LUGLIO 1994, N. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 30 LUGLIO 1994, N. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 30 LUGLIO 1994, N. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 30 LUGLIO 1994, N. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 30 LUGLIO 1994, N. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 30 LUGLIO 1994, N. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 30 LUGLIO 1994, N. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 30 LUGLIO 1994, N. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 30 LUGLIO 1994, N. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 30 LUGLIO 1994, N. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 30 LUGLIO 1994, N. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 30 LUGLIO 1994, N. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 30 LUGLIO 1994, N. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474)
-  
-
-Art. 8
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 30 LUGLIO 1994, N. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474)
-  
-
-Art. 9
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 30 LUGLIO 1994, N. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 30 LUGLIO 1994, N. 474](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-30;474)

@@ -1,26 +1,19 @@
-DECRETO-LEGGE 14 febbraio 1994 n. 103
+---
+tipo: DECRETO-LEGGE
+numero: 103
+data: 1994-02-14
+titolo: "Disposizioni urgenti per l'attuazione del piano di ristrutturazione del comparto siderurgico."
+urn: urn:nir:stato:decreto.legge:1994-02-14;103
+codice_redazionale: 094G0123
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 14 febbraio 1994 n. 103
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 3 AGOSTO 1994, N. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-08-03;481)
 
-Disposizioni urgenti per l'attuazione del piano di ristrutturazione del comparto siderurgico.
----------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 16/2/1994.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 3 AGOSTO 1994, N. 481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-08-03;481)
-  
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 3 AGOSTO 1994, N. 481](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-08-03;481)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 3 AGOSTO 1994, N. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-08-03;481)

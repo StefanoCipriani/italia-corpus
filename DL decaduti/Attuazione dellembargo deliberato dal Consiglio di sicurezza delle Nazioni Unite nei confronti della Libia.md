@@ -1,50 +1,34 @@
-DECRETO-LEGGE 02 dicembre 1993 n. 488
+---
+tipo: DECRETO-LEGGE
+numero: 488
+data: 1993-12-02
+titolo: "Attuazione dell'embargo deliberato dal Consiglio di sicurezza delle Nazioni Unite nei confronti della Libia."
+urn: urn:nir:stato:decreto.legge:1993-12-02;488
+codice_redazionale: 093G0568
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 02 dicembre 1993 n. 488
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 27 LUGLIO 1994, N. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;472)
 
-Attuazione dell'embargo deliberato dal Consiglio di sicurezza delle Nazioni Unite nei confronti della Libia.
-------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 2-12-1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 27 LUGLIO 1994, N. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;472)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 27 LUGLIO 1994, N. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;472)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 27 LUGLIO 1994, N. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;472)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 27 LUGLIO 1994, N. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;472)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 27 LUGLIO 1994, N. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;472)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 27 LUGLIO 1994, N. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;472)
-  
-
-Art. 4
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 27 LUGLIO 1994, N. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;472)
-  
-
-Art. 5
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 27 LUGLIO 1994, N. 472](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;472)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 27 LUGLIO 1994, N. 472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;472)

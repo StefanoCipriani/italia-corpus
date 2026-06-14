@@ -1,0 +1,34 @@
+---
+tipo: DECRETO-LEGGE
+numero: 677
+data: 1994-12-09
+titolo: "Attuazione delle risoluzioni ONU numeri 942 e 944 del 1994, relative all'embargo nei confronti della Bosnia Erzegovina ed alla revoca dell'embargo nei confronti di Haiti."
+urn: urn:nir:stato:decreto.legge:1994-12-09;677
+codice_redazionale: 094G0724
+vigente: true
+---
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 7 GIUGNO 1995, N. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-07;222)
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 7 GIUGNO 1995, N. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-07;222)
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 7 GIUGNO 1995, N. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-07;222)
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 7 GIUGNO 1995, N. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-07;222)
+
+## Art. 5.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 7 GIUGNO 1995, N. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-06-07;222)

@@ -1,82 +1,54 @@
-DECRETO-LEGGE 23 novembre 1993 n. 471
+---
+tipo: DECRETO-LEGGE
+numero: 471
+data: 1993-11-23
+titolo: "Norme di interpretazione e di modificazione del decreto-legge 19 dicembre 1992, n. 487, convertito, con modificazioni, dalla legge 17 febbraio 1993, n. 33, e successive integrazioni, concernente soppressione dell'EFIM."
+urn: urn:nir:stato:decreto.legge:1993-11-23;471
+codice_redazionale: 093G0553
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 23 novembre 1993 n. 471
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 27 DICEMBRE 1994, N. 738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738)
 
-Norme di interpretazione e di modificazione del decreto-legge 19 dicembre 1992, n. 487, convertito, con modificazioni, dalla legge 17 febbraio 1993, n. 33, e successive integrazioni, concernente soppressione dell'EFIM.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 25-11-1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 27 DICEMBRE 1994, N. 738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 27 DICEMBRE 1994, N. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 27 DICEMBRE 1994, N. 738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 27 DICEMBRE 1994, N. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 27 DICEMBRE 1994, N. 738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 27 DICEMBRE 1994, N. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 27 DICEMBRE 1994, N. 738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 27 DICEMBRE 1994, N. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 27 DICEMBRE 1994, N. 738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 27 DICEMBRE 1994, N. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 27 DICEMBRE 1994, N. 738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 27 DICEMBRE 1994, N. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 27 DICEMBRE 1994, N. 738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 27 DICEMBRE 1994, N. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738)
-  
-
-Art. 8
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 27 DICEMBRE 1994, N. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738)
-  
-
-Art. 9
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI   
-SONO STATI FATTI SALVI DALLA [L. 27 DICEMBRE 1994, N. 738](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738)
-  
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA [L. 27 DICEMBRE 1994, N. 738](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-27;738)

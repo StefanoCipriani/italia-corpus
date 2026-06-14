@@ -1,130 +1,89 @@
-DECRETO-LEGGE 16 febbraio 1996 n. 65
+---
+tipo: DECRETO-LEGGE
+numero: 65
+data: 1996-02-16
+titolo: "Interventi urgenti a favore del settore portuale e marittimo."
+urn: urn:nir:stato:decreto.legge:1996-02-16;65
+codice_redazionale: 096G0077
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 16 febbraio 1996 n. 65
-====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Interventi urgenti a favore del settore portuale e marittimo.
--------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 19/2/1996.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 1
-------
+## Art. 3.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 2
-------
+## Art. 4.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 3
-------
+## Art. 5.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 4
-------
+## Art. 6.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 5
-------
+## Art. 7.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 6
-------
+## Art. 8.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 7
-------
+## Art. 9.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 8
-------
+## Art. 10.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 9
-------
+## Art. 11.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 10
--------
+## Art. 12.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 11
--------
+## Art. 13.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 12
--------
+## Art. 14.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 13
--------
+## Art. 15.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 14
--------
+## Art. 16.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 15
--------
+## Art. 17.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 16
--------
+## Art. 18.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 17
--------
+## Art. 19.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 18
--------
+## Art. 20.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
-
-Art. 19
--------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
-
-Art. 20
--------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)

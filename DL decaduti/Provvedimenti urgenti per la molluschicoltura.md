@@ -1,31 +1,24 @@
-DECRETO-LEGGE 02 gennaio 1981 n. 3
+---
+tipo: DECRETO-LEGGE
+numero: 3
+data: 1981-01-02
+titolo: "Provvedimenti urgenti per la molluschicoltura."
+urn: urn:nir:stato:decreto.legge:1981-01-02;3
+codice_redazionale: 081U0003
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 02 gennaio 1981 n. 3
-==================================
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 20 LUGLIO 1981, N. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-07-20;381)
 
-Provvedimenti urgenti per la molluschicoltura.
-----------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 20 LUGLIO 1981, N. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-07-20;381)
 
-Art. 1
-------
+## Art. 3.
 
- DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 20 LUGLIO 1981, N. 381](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-07-20;381)
-  
-
-Art. 2
-------
-
- DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 20 LUGLIO 1981, N. 381](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-07-20;381)
-  
-
-Art. 3
-------
-
- DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA  
-[L. 20 LUGLIO 1981, N. 381](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-07-20;381)
-  
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 20 LUGLIO 1981, N. 381](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-07-20;381)

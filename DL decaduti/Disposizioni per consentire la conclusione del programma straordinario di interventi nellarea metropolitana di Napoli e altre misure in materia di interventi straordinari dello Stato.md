@@ -1,82 +1,57 @@
-DECRETO-LEGGE 03 dicembre 1987 n. 492
+---
+tipo: DECRETO-LEGGE
+numero: 492
+data: 1987-12-03
+titolo: "Disposizioni per consentire la conclusione del programma straordinario di interventi nell'area metropolitana di Napoli e altre misure in materia di interventi straordinari dello Stato."
+urn: urn:nir:stato:decreto.legge:1987-12-03;492
+codice_redazionale: 087U0492
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 03 dicembre 1987 n. 492
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL 
+ [D.L. 23 GIUGNO 1995, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244), CONVERTITO, CON MODIFICAZIONI, 
+ DALLA [L. 8 AGOSTO 1995, N. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341)
 
-Disposizioni per consentire la conclusione del programma straordinario di interventi nell'area metropolitana di Napoli e altre misure in materia di interventi straordinari dello Stato.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL 
+ [D.L. 23 GIUGNO 1995, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244), CONVERTITO, CON MODIFICAZIONI, 
+ DALLA [L. 8 AGOSTO 1995, N. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL   
-[D.L. 23 GIUGNO 1995, N. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244), CONVERTITO, CON MODIFICAZIONI,   
-DALLA [L. 8 AGOSTO 1995, N. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL 
+ [D.L. 23 GIUGNO 1995, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244), CONVERTITO, CON MODIFICAZIONI, 
+ DALLA [L. 8 AGOSTO 1995, N. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL   
-[D.L. 23 GIUGNO 1995, N. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244), CONVERTITO, CON MODIFICAZIONI,   
-DALLA [L. 8 AGOSTO 1995, N. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL 
+ [D.L. 23 GIUGNO 1995, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244), CONVERTITO, CON MODIFICAZIONI, 
+ DALLA [L. 8 AGOSTO 1995, N. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL   
-[D.L. 23 GIUGNO 1995, N. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244), CONVERTITO, CON MODIFICAZIONI,   
-DALLA [L. 8 AGOSTO 1995, N. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL 
+ [D.L. 23 GIUGNO 1995, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244), CONVERTITO, CON MODIFICAZIONI, 
+ DALLA [L. 8 AGOSTO 1995, N. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL   
-[D.L. 23 GIUGNO 1995, N. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244), CONVERTITO, CON MODIFICAZIONI,   
-DALLA [L. 8 AGOSTO 1995, N. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL 
+ [D.L. 23 GIUGNO 1995, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244), CONVERTITO, CON MODIFICAZIONI, 
+ DALLA [L. 8 AGOSTO 1995, N. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL   
-[D.L. 23 GIUGNO 1995, N. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244), CONVERTITO, CON MODIFICAZIONI,   
-DALLA [L. 8 AGOSTO 1995, N. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL 
+ [D.L. 23 GIUGNO 1995, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244), CONVERTITO, CON MODIFICAZIONI, 
+ DALLA [L. 8 AGOSTO 1995, N. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL   
-[D.L. 23 GIUGNO 1995, N. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244), CONVERTITO, CON MODIFICAZIONI,   
-DALLA [L. 8 AGOSTO 1995, N. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341)
-  
-
-Art. 7
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL   
-[D.L. 23 GIUGNO 1995, N. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244), CONVERTITO, CON MODIFICAZIONI,   
-DALLA [L. 8 AGOSTO 1995, N. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341)
-  
-
-Art. 8
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL   
-[D.L. 23 GIUGNO 1995, N. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244), CONVERTITO, CON MODIFICAZIONI,   
-DALLA [L. 8 AGOSTO 1995, N. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL 
+ [D.L. 23 GIUGNO 1995, N. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-06-23;244), CONVERTITO, CON MODIFICAZIONI, 
+ DALLA [L. 8 AGOSTO 1995, N. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;341)

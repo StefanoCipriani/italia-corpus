@@ -1,26 +1,19 @@
-DECRETO-LEGGE 08 novembre 1993 n. 439
+---
+tipo: DECRETO-LEGGE
+numero: 439
+data: 1993-11-08
+titolo: "Disposizioni urgenti sulla estinzione dell'obbligo di cessione di quota parte dei rischi delle imprese che esercitano l'assicurazione vita."
+urn: urn:nir:stato:decreto.legge:1993-11-08;439
+codice_redazionale: 093G0517
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 08 novembre 1993 n. 439
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 23 GIUGNO 1994, N. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-23;403)
 
-Disposizioni urgenti sulla estinzione dell'obbligo di cessione di quota parte dei rischi delle imprese che esercitano l'assicurazione vita.
--------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 09-11-1993.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 23 GIUGNO 1994, N. 403](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-23;403)
-  
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 23 GIUGNO 1994, N. 403](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-23;403)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 23 GIUGNO 1994, N. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-06-23;403)

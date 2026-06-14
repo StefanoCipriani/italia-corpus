@@ -1,98 +1,64 @@
-DECRETO-LEGGE 07 giugno 1993 n. 181
+---
+tipo: DECRETO-LEGGE
+numero: 181
+data: 1993-06-07
+titolo: "Disposizioni per la determinazione dei canoni relativi a concessioni demaniali marittime."
+urn: urn:nir:stato:decreto.legge:1993-06-07;181
+codice_redazionale: 093G0250
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 07 giugno 1993 n. 181
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
 
-Disposizioni per la determinazione dei canoni relativi a concessioni demaniali marittime.
------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 9/6/1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 494](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 494](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 494](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 494](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 494](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 494](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 494](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 494](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
 
-Art. 9
-------
+## Art. 11.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 494](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
-  
-
-Art. 10
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 494](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
-  
-
-Art. 11
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 4 DICEMBRE 1993, N. 494](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 4 DICEMBRE 1993, N. 494](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-04;494)

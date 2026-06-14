@@ -1,52 +1,37 @@
-DECRETO-LEGGE 01 marzo 1996 n. 99
+---
+tipo: DECRETO-LEGGE
+numero: 99
+data: 1996-03-01
+titolo: "Partecipazione italiana alla missione di pace in Bosnia."
+urn: urn:nir:stato:decreto.legge:1996-03-01;99
+codice_redazionale: 096G0110
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 01 marzo 1996 n. 99
-=================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
 
-Partecipazione italiana alla missione di pace in Bosnia.
---------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 3/3/1996.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
 
-Art. 1
-------
+## Art. 3.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
 
-Art. 2
-------
+## Art. 4.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
 
-Art. 3
-------
+## Art. 5.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
 
-Art. 4
-------
+## Art. 6.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
 
-Art. 5
-------
+## Art. 7.
 
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
-  
-
-Art. 6
-------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
-  
-
-Art. 7
-------
-
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 8 AGOSTO 1996, N. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-08-08;428)

@@ -1,0 +1,21 @@
+---
+tipo: DECRETO-LEGGE
+numero: 69
+data: 1980-03-17
+titolo: "Norme per la regolazione del mercato interno dei prodotti ottenuti dalla distillazione del vino."
+urn: urn:nir:stato:decreto.legge:1980-03-17;69
+codice_redazionale: 080U0069
+vigente: true
+---
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL
+ [D. L. 16 MAGGIO 1980, N. 180](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-05-16;180), CONVERTITO CON MODIFICAZIONI DALLA
+ [L. 18 LUGLIO 1980, N. 338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-18;338)
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DAL
+ [D. L. 16 MAGGIO 1980, N. 180](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-05-16;180), CONVERTITO CON MODIFICAZIONI DALLA
+ [L. 18 LUGLIO 1980, N. 338](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-18;338)

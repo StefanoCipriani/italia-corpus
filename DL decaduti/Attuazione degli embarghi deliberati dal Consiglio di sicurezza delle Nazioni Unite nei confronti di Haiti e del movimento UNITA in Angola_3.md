@@ -1,42 +1,29 @@
-DECRETO-LEGGE 04 marzo 1994 n. 163
+---
+tipo: DECRETO-LEGGE
+numero: 163
+data: 1994-03-04
+titolo: "Attuazione degli embarghi deliberati dal Consiglio di sicurezza delle Nazioni Unite nei confronti di Haiti e del movimento UNITA in Angola."
+urn: urn:nir:stato:decreto.legge:1994-03-04;163
+codice_redazionale: 094G0186
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 04 marzo 1994 n. 163
-==================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 5 LUGLIO 1994, N. 434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-05;434)
 
-Attuazione degli embarghi deliberati dal Consiglio di sicurezza delle Nazioni Unite nei confronti di Haiti e del movimento UNITA in Angola.
--------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 10-3-1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 5 LUGLIO 1994, N. 434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-05;434)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 5 LUGLIO 1994, N. 434](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-05;434)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 5 LUGLIO 1994, N. 434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-05;434)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 5 LUGLIO 1994, N. 434](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-05;434)
-  
-
-Art. 3
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 5 LUGLIO 1994, N. 434](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-05;434)
-  
-
-Art. 4
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 5 LUGLIO 1994, N. 434](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-05;434)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 5 LUGLIO 1994, N. 434](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-05;434)

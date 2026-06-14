@@ -1,0 +1,30 @@
+---
+tipo: DECRETO-LEGGE
+numero: 369
+data: 1995-09-01
+titolo: "Provvedimenti urgenti per il personale dell'Amministrazione penitenziaria e per il servizio di traduzione dei detenuti."
+urn: urn:nir:stato:decreto.legge:1995-09-01;369
+codice_redazionale: 095G0408
+vigente: true
+---
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 15 NOVEMBRE 1996, N. 579](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-15;579), AD ECCEZIONE DEGLI EFFETTI PRODOTTISI
+ E DEI RAPPORTI GIURIDICI SORTI IN RELAZIONE ALL'ARTICOLO 1, COMMA 6
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 15 NOVEMBRE 1996, N. 579](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-15;579)
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 15 NOVEMBRE 1996, N. 579](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-15;579)
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 15 NOVEMBRE 1996, N. 579](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-11-15;579)

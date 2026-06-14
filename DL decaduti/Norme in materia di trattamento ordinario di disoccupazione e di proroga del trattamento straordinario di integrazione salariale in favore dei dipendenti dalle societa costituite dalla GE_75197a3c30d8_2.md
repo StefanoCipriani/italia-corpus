@@ -1,74 +1,44 @@
-DECRETO-LEGGE 07 dicembre 1989 n. 390
+---
+tipo: DECRETO-LEGGE
+numero: 215
+data: 1989-06-05
+titolo: "Norme in materia di trattamento ordinario di disoccupazione e di proroga del trattamento straordinario di integrazione salariale in favore dei dipendenti dalle societa' costituite dalla GEPI S.p.a. e dei lavoratori edili del Mezzogiorno, nonche' di pensionamento anticipato."
+urn: urn:nir:stato:decreto.legge:1989-06-05;215
+codice_redazionale: 089G0292
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 07 dicembre 1989 n. 390
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 1 GIUGNO 1991, N. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
 
-Norme in materia di trattamento ordinario di disoccupazione e di proroga del trattamento straordinario di integrazione salariale in favore dei dipendenti dalle societa' costituite dalla GEPI S.p.a. e dei lavoratori edili del Mezzogiorno, nonche' di pensionamento anticipato.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 10/12/1989.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 1 GIUGNO 1991, N. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 1 GIUGNO 1991, N. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 1 GIUGNO 1991, N. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 1 GIUGNO 1991, N. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 1 GIUGNO 1991, N. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
-
-Art. 7
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
-
-Art. 8
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ [L. 1 GIUGNO 1991, N. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)

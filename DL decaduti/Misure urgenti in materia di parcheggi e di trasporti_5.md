@@ -1,66 +1,44 @@
-DECRETO-LEGGE 31 marzo 1994 n. 220
+---
+tipo: DECRETO-LEGGE
+numero: 220
+data: 1994-03-31
+titolo: "Misure urgenti in materia di parcheggi e di trasporti."
+urn: urn:nir:stato:decreto.legge:1994-03-31;220
+codice_redazionale: 094G0249
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 31 marzo 1994 n. 220
-==================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 30 MAGGIO 1995, N. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;204)
 
-Misure urgenti in materia di parcheggi e di trasporti.
-------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 2/4/1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 30 MAGGIO 1995, N. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;204)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 30 MAGGIO 1995, N. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;204)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 30 MAGGIO 1995, N. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;204)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 30 MAGGIO 1995, N. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;204)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 30 MAGGIO 1995, N. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;204)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 30 MAGGIO 1995, N. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;204)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 30 MAGGIO 1995, N. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;204)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 30 MAGGIO 1995, N. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;204)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 30 MAGGIO 1995, N. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;204)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 30 MAGGIO 1995, N. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;204)
-  
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 30 MAGGIO 1995, N. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;204)
-  
-
-Art. 7
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 30 MAGGIO 1995, N. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;204)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 30 MAGGIO 1995, N. 204](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-05-30;204)

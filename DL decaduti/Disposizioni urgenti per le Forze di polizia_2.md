@@ -1,59 +1,37 @@
-DECRETO-LEGGE 08 marzo 1994 n. 156
+---
+tipo: DECRETO-LEGGE
+numero: 156
+data: 1994-03-08
+titolo: "Disposizioni urgenti per le Forze di polizia."
+urn: urn:nir:stato:decreto.legge:1994-03-08;156
+codice_redazionale: 094G0196
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 08 marzo 1994 n. 156
-==================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 6 LUGLIO 1994, N. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-06;433)
 
-Disposizioni urgenti per le Forze di polizia.
----------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 9-3-1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 6 LUGLIO 1994, N. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-06;433)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 6 LUGLIO 1994, N. 433](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-06;433)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 6 LUGLIO 1994, N. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-06;433)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 6 LUGLIO 1994, N. 433](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-06;433)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 6 LUGLIO 1994, N. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-06;433)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 6 LUGLIO 1994, N. 433](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-06;433)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 6 LUGLIO 1994, N. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-06;433)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 6 LUGLIO 1994, N. 433](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-06;433)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 6 LUGLIO 1994, N. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-06;433)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 6 LUGLIO 1994, N. 433](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-06;433)
-  
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 6 LUGLIO 1994, N. 433](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-06;433)
-  
-
-Art. 7
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 6 LUGLIO 1994, N. 433](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-06;433)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA [L. 6 LUGLIO 1994, N. 433](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-06;433)

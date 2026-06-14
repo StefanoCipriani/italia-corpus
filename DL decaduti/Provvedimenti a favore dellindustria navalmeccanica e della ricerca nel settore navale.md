@@ -1,186 +1,119 @@
-DECRETO-LEGGE 29 ottobre 1993 n. 431
+---
+tipo: DECRETO-LEGGE
+numero: 431
+data: 1993-10-29
+titolo: "Provvedimenti a favore dell'industria navalmeccanica e della ricerca nel settore navale."
+urn: urn:nir:stato:decreto.legge:1993-10-29;431
+codice_redazionale: 093G0510
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 29 ottobre 1993 n. 431
-====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Provvedimenti a favore dell'industria navalmeccanica e della ricerca nel settore navale.
-----------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 31-10-1993.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 9
-------
+## Art. 11.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 10
--------
+## Art. 12.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 11
--------
+## Art. 13.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 12
--------
+## Art. 14.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 13
--------
+## Art. 15.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 14
--------
+## Art. 16.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 15
--------
+## Art. 17.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 16
--------
+## Art. 18.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 17
--------
+## Art. 19.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 18
--------
+## Art. 20.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 19
--------
+## Art. 21.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
 
-Art. 20
--------
+## Art. 22.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
-
-Art. 21
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
-
-Art. 22
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 22 FEBBRAIO 1994, N. 132](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 22 FEBBRAIO 1994, N. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;132)

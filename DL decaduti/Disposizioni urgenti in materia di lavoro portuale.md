@@ -1,66 +1,44 @@
-DECRETO-LEGGE 19 ottobre 1992 n. 409
+---
+tipo: DECRETO-LEGGE
+numero: 409
+data: 1992-10-19
+titolo: "Disposizioni urgenti in materia di lavoro portuale."
+urn: urn:nir:stato:decreto.legge:1992-10-19;409
+codice_redazionale: 092G0457
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 19 ottobre 1992 n. 409
-====================================
+DECRETO DECADUTO; GLI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Disposizioni urgenti in materia di lavoro portuale.
----------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 20/10/1992.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; GLI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; GLI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; GLI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; GLI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; GLI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; GLI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; GLI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; GLI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; GLI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; GLI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
-
-Art. 6
-------
-
-  
-DECRETO DECADUTO; GLI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
-
-Art. 7
-------
-
-  
-DECRETO DECADUTO; GLI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; GLI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)

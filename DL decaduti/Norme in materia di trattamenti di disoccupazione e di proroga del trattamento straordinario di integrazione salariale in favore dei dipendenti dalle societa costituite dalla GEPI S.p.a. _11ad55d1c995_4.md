@@ -1,82 +1,54 @@
-DECRETO-LEGGE 15 settembre 1990 n. 259
+---
+tipo: DECRETO-LEGGE
+numero: 259
+data: 1990-09-15
+titolo: "Norme in materia di trattamenti di disoccupazione e di proroga del trattamento straordinario di integrazione salariale in favore dei dipendenti dalle societa' costituite dalla GEPI S.p.a. e dei lavoratori edili nel Mezzogiorno, nonche' di pensionamento anticipato."
+urn: urn:nir:stato:decreto.legge:1990-09-15;259
+codice_redazionale: 090G0309
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 15 settembre 1990 n. 259
-======================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 1 GIUGNO 1991, N. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
 
-Norme in materia di trattamenti di disoccupazione e di proroga del trattamento straordinario di integrazione salariale in favore dei dipendenti dalle societa' costituite dalla GEPI S.p.a. e dei lavoratori edili nel Mezzogiorno, nonche' di pensionamento anticipato.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 17/9/1990.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 1 GIUGNO 1991, N. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 1 GIUGNO 1991, N. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 1 GIUGNO 1991, N. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 1 GIUGNO 1991, N. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 1 GIUGNO 1991, N. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 1 GIUGNO 1991, N. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 1 GIUGNO 1991, N. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
-
-Art. 8
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
-
-Art. 9
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 1 GIUGNO 1991, N. 169](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 1 GIUGNO 1991, N. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-06-01;169)

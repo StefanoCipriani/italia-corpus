@@ -1,74 +1,49 @@
-DECRETO-LEGGE 31 marzo 1994 n. 222
+---
+tipo: DECRETO-LEGGE
+numero: 222
+data: 1994-03-31
+titolo: "Semplificazione di talune disposizioni in materia tributaria."
+urn: urn:nir:stato:decreto.legge:1994-03-31;222
+codice_redazionale: 094G0251
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 31 marzo 1994 n. 222
-==================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 LUGLIO 1994, N. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;473)
 
-Semplificazione di talune disposizioni in materia tributaria.
--------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 2-4-1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 LUGLIO 1994, N. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;473)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 LUGLIO 1994, N. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;473)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 LUGLIO 1994, N. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;473)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 LUGLIO 1994, N. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;473)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 LUGLIO 1994, N. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;473)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 LUGLIO 1994, N. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;473)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 LUGLIO 1994, N. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;473)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 LUGLIO 1994, N. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;473)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 LUGLIO 1994, N. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;473)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 LUGLIO 1994, N. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;473)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 LUGLIO 1994, N. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;473)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 LUGLIO 1994, N. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;473)
-  
-
-Art. 7
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 LUGLIO 1994, N. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;473)
-  
-
-Art. 8
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 27 LUGLIO 1994, N. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;473)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 27 LUGLIO 1994, N. 473](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-27;473)

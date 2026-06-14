@@ -1,34 +1,24 @@
-DECRETO-LEGGE 12 febbraio 1994 n. 100
+---
+tipo: DECRETO-LEGGE
+numero: 100
+data: 1994-02-12
+titolo: "Interventi urgenti a favore del settore portuale e marittimo."
+urn: urn:nir:stato:decreto.legge:1994-02-12;100
+codice_redazionale: 094G0122
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 12 febbraio 1994 n. 100
-=====================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Interventi urgenti a favore del settore portuale e marittimo.
--------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 14/2/1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
-
-Art. 3
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 23 DICEMBRE 1996, N. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 23 DICEMBRE 1996, N. 647](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;647)

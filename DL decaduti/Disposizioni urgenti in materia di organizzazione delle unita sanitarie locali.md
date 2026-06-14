@@ -1,26 +1,19 @@
-DECRETO-LEGGE 24 giugno 1994 n. 401
+---
+tipo: DECRETO-LEGGE
+numero: 401
+data: 1994-06-24
+titolo: "Disposizioni urgenti in materia di organizzazione delle unita' sanitarie locali."
+urn: urn:nir:stato:decreto.legge:1994-06-24;401
+codice_redazionale: 094G0446
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 24 giugno 1994 n. 401
-===================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 17 OTTOBRE 1994, N. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-17;590)
 
-Disposizioni urgenti in materia di organizzazione delle unita' sanitarie locali.
---------------------------------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 24/06/1994.Decreto-Legge decaduto per mancata conversione.
-
-Art. 1
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 17 OTTOBRE 1994, N. 590](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-17;590)
-  
-
-Art. 2
-------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA   
-[L. 17 OTTOBRE 1994, N. 590](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-17;590)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ [L. 17 OTTOBRE 1994, N. 590](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-10-17;590)

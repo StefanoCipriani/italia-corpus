@@ -1,122 +1,79 @@
-DECRETO-LEGGE 18 marzo 1994 n. 185
+---
+tipo: DECRETO-LEGGE
+numero: 185
+data: 1994-03-18
+titolo: "Ulteriori interventi urgenti a sostegno dell'occupazione."
+urn: urn:nir:stato:decreto.legge:1994-03-18;185
+codice_redazionale: 094G0228
+vigente: true
+---
 
+## Art. 1.
 
-DECRETO-LEGGE 18 marzo 1994 n. 185
-==================================
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
 
-Ulteriori interventi urgenti a sostegno dell'occupazione.
----------------------------------------------------------
+## Art. 2.
 
-Entrata in vigore del decreto: 21/3/1994.Decreto-Legge decaduto per mancata conversione.
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
 
-Art. 1
-------
+## Art. 3.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
 
-Art. 2
-------
+## Art. 4.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
 
-Art. 3
-------
+## Art. 5.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
 
-Art. 4
-------
+## Art. 6.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
 
-Art. 5
-------
+## Art. 7.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
 
-Art. 6
-------
+## Art. 8.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
 
-Art. 7
-------
+## Art. 9.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
 
-Art. 8
-------
+## Art. 10.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
 
-Art. 9
-------
+## Art. 11.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
 
-Art. 10
--------
+## Art. 12.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
 
-Art. 11
--------
+## Art. 13.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
 
-Art. 12
--------
+## Art. 14.
 
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
-  
-
-Art. 13
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
-  
-
-Art. 14
--------
-
-  
-DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI   
-DALLA [L. 19 LUGLIO 1994, N. 451](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
-  
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA [L. 19 LUGLIO 1994, N. 451](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-07-19;451)
