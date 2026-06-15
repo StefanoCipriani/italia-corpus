@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 8 agosto 1977, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;572), recante le norme di attuazione delle direttive del Consiglio delle Comunita' europee concernenti il ravvicinamento delle legislazioni degli Stati membri relativi all'omologazione dei trattori agricoli o forestali a ruote;
+Vista la [legge 8 agosto 1977, n. 572](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20delle%20direttive%20delle%20Comunita%20europee%20concernenti%20il%20riavvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20allomologazione%20dei%20trattori%20agricoli%20o%20forestali%20a%20ruote.md), recante le norme di attuazione delle direttive del Consiglio delle Comunita' europee concernenti il ravvicinamento delle legislazioni degli Stati membri relativi all'omologazione dei trattori agricoli o forestali a ruote;
 
 Visto in particolare l'art. 3 della predetta legge che prevede l'emanazione delle prescrizioni tecniche adeguate alle corrispondenti disposizioni approvate dai competenti organi delle Comunita' europee;
 
@@ -28,7 +28,7 @@ Attesa la necessita' di conformarsi alle prescrizioni tecniche adottate con le p
 
 Visto il capo I del [decreto del Presidente della Repubblica 11 gennaio 1980, n. 76](Disposizioni%20di%20carattere%20generale%20relative%20alla%20omologazione%20C.E.E.%20di%20trattori%20agricoli%20o%20forestali%20a%20ruote%20e%20norme%20di%20attuazione%20delle%20prescrizioni%20tecniche%20concernenti%20taluni%20loro%20ele_9252db2bbebe.md);
 
-Attesa altresi' l'opportunita', su conforme parere espresso dal comitato interministeriale istituito con [decreto del Presidente della Repubblica 19 aprile 1979, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-04-19;212), di modificare l'[art. 6 del decreto del Presidente della Repubblica 11 gennaio 1980, n. 76](Disposizioni%20di%20carattere%20generale%20relative%20alla%20omologazione%20C.E.E.%20di%20trattori%20agricoli%20o%20forestali%20a%20ruote%20e%20norme%20di%20attuazione%20delle%20prescrizioni%20tecniche%20concernenti%20taluni%20loro%20ele_9252db2bbebe.md);
+Attesa altresi' l'opportunita', su conforme parere espresso dal comitato interministeriale istituito con [decreto del Presidente della Repubblica 19 aprile 1979, n. 212](../DPR/Modalita%20di%20coordinamento%20delle%20attribuzioni%20delle%20amministrazioni%20preposte%20alla%20vigilanza%20sullapplicazione%20delle%20direttive%20particolari%20concernenti%20lomologazione%20comunitaria%20dei%20trattori%20_ef3f2af64c44.md), di modificare l'[art. 6 del decreto del Presidente della Repubblica 11 gennaio 1980, n. 76](Disposizioni%20di%20carattere%20generale%20relative%20alla%20omologazione%20C.E.E.%20di%20trattori%20agricoli%20o%20forestali%20a%20ruote%20e%20norme%20di%20attuazione%20delle%20prescrizioni%20tecniche%20concernenti%20taluni%20loro%20ele_9252db2bbebe.md);
 
 Udito il parere del Consiglio di Stato;
 
@@ -53,7 +53,7 @@ Per l'esame del tipo, ai fini del rilascio dell'omologazione CEE ai tipi di trat
 
 ## Art. 2.
 
-Ai Fini dell'omologazione nazionale del tipo di trattore agricolo o forestale a ruote per quanto riguarda i dispositivi e le caratteristiche di cui al precedente articolo, il costruttore od altro soggetto legalmente abilitato ha facolta', ai sensi dell'[art. 9 della legge 8 agosto 1977, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;572#art_9), di richiedere l'applicazione delle prescrizioni tecniche indicate negli allegati da 1 a 3.
+Ai Fini dell'omologazione nazionale del tipo di trattore agricolo o forestale a ruote per quanto riguarda i dispositivi e le caratteristiche di cui al precedente articolo, il costruttore od altro soggetto legalmente abilitato ha facolta', ai sensi dell'[art. 9 della legge 8 agosto 1977, n. 572](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20delle%20direttive%20delle%20Comunita%20europee%20concernenti%20il%20riavvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20allomologazione%20dei%20trattori%20agricoli%20o%20forestali%20a%20ruote.md), di richiedere l'applicazione delle prescrizioni tecniche indicate negli allegati da 1 a 3.
 
 ## Art. 3.
 
@@ -65,7 +65,7 @@ A tutti gli effetti fanno parte integrante del presente decreto i seguenti docum
 ## Art. 4.
 
 L'[art. 6 del decreto del Presidente della Repubblica 11 gennaio 1980, n. 76](Disposizioni%20di%20carattere%20generale%20relative%20alla%20omologazione%20C.E.E.%20di%20trattori%20agricoli%20o%20forestali%20a%20ruote%20e%20norme%20di%20attuazione%20delle%20prescrizioni%20tecniche%20concernenti%20taluni%20loro%20ele_9252db2bbebe.md), e' abrogato e sostituito dal seguente:
- "Ai fini dell'omologazione nazionale del tipo di trattore agricolo o forestale ruote per quanto riguarda le caratteristiche di cui al precedente art. 5, il costruttore od altro soggetto legalmente abilitato ha facolta', ai sensi dell'[articolo 9 della legge 8 agosto 1977, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;572#art_9), di richiedere l'applicazione delle prescrizioni tecniche indicate negli allegati da IV a IX.
+ "Ai fini dell'omologazione nazionale del tipo di trattore agricolo o forestale ruote per quanto riguarda le caratteristiche di cui al precedente art. 5, il costruttore od altro soggetto legalmente abilitato ha facolta', ai sensi dell'[articolo 9 della legge 8 agosto 1977, n. 572](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20delle%20direttive%20delle%20Comunita%20europee%20concernenti%20il%20riavvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20allomologazione%20dei%20trattori%20agricoli%20o%20forestali%20a%20ruote.md), di richiedere l'applicazione delle prescrizioni tecniche indicate negli allegati da IV a IX.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale delle leggi e dei decreti Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

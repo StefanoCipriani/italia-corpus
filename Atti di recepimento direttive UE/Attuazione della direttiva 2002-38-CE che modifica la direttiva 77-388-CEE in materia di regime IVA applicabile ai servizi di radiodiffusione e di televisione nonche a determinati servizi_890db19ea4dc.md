@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 3 febbraio 2003, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-02-03;14), ed in particolare l'articolo 1 e l'allegato A;
+Vista la [legge 3 febbraio 2003, n. 14](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202002.md), ed in particolare l'articolo 1 e l'allegato A;
 
 Vista la [direttiva 2002/38/CE del Consiglio, del 7 maggio 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;38), che modifica temporaneamente la [direttiva 77/388/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;388) per quanto riguarda il regime di imposta sul valore aggiunto applicabile ai servizi di radiodiffusione e di televisione e a determinati servizi prestati tramite mezzi elettronici;
 
-Visto l'[articolo 7 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_7), e successive modificazioni;
+Visto l'[articolo 7 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e successive modificazioni;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 31 luglio 2003;
 
@@ -30,7 +30,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633), sono apportate le seguenti modifiche:
+Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), sono apportate le seguenti modifiche:
                         a)
                             all'articolo 7, quarto comma, lettera d), dopo le parole: «servizi di telecomunicazione,» sono inserite le seguenti: «di radiodiffusione e di televisione, le prestazioni di servizi rese tramite mezzi elettronici,»;
                         b)
@@ -69,20 +69,20 @@ Al [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www
 
 2.
 
-Con provvedimenti del direttore dell'Agenzia delle entrate, emanati entro trenta giorni dalla data di entrata in vigore del presente decreto, sono approvati i modelli di dichiarazione di cui ai [commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_74quinquies-com1), [4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_74quinquies-com4) e [6 dell'articolo 74-quinquies del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_74quinquies-com6), e sono definite le specifiche tecniche per l'invio telematico delle stesse nonche' le ulteriori procedure necessarie per l'attuazione della disciplina prevista dallo stesso articolo; con provvedimento interdirettoriale sono stabilite le modalita' di versamento dell'imposta dovuta ai sensi del comma 9 dell'articolo 74-quinquies.
+Con provvedimenti del direttore dell'Agenzia delle entrate, emanati entro trenta giorni dalla data di entrata in vigore del presente decreto, sono approvati i modelli di dichiarazione di cui ai [commi 1](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), [4](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md) e [6 dell'articolo 74-quinquies del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), e sono definite le specifiche tecniche per l'invio telematico delle stesse nonche' le ulteriori procedure necessarie per l'attuazione della disciplina prevista dallo stesso articolo; con provvedimento interdirettoriale sono stabilite le modalita' di versamento dell'imposta dovuta ai sensi del comma 9 dell'articolo 74-quinquies.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione della legge, sull'emanazione del decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione della legge, sull'emanazione del decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive ed i regolamenti CE vengono forniti gli estremi di pubblicazioni nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
  - La legge 3 febbraio n. 2003, n. 14 reca: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2002».
  - La [direttiva 2002/38/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;38) e' pubblicata in G.U.C.E. 15 maggio 2002, n. L 128.
- - Il [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633) reca; «Istituzione e disciplina dell'imposta sul valore aggiunto».
+ - Il [decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md) reca; «Istituzione e disciplina dell'imposta sul valore aggiunto».
  Per il testo dell'art. 7, si veda nelle note all'art. 1.
  Note all'[art. 1:
- - Per il decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-26;633#art_1), vedi note alle premesse. L'art. 7, cosi' come modificato dal decreto qui pubblicato, cosi' recita:
+ - Per il decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), vedi note alle premesse. L'art. 7, cosi' come modificato dal decreto qui pubblicato, cosi' recita:
  «Art. 7 - Agli effetti del presente decreto:
  a) per «Stato» o «territorio dello Stato» si intende il territorio della Repubblica italiana, con esclusione dei comuni di Livigno e di Campione d'Italia e delle acque italiane del lago di Lugano;
  b) per «Comunita» o «territorio della Comunita» si intende il territorio corrispondente al campo di applicazione del Trattato istitutivo della Comunita' economica europea con le seguenti esclusioni, oltre quella indicata nella lettera a):

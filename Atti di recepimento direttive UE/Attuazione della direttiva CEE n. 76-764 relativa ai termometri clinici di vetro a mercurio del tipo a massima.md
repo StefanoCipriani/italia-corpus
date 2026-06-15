@@ -10,12 +10,12 @@ vigente: true
 
 ## Art. 1.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 27 GIUGNO 1990, N. 171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-27;171)))
+((PROVVEDIMENTO ABROGATO DALLA [L. 27 GIUGNO 1990, N. 171](Disciplina%20metrologica%20dei%20termometri%20clinici%20in%20attuazione%20delle%20direttive%20CEE%20n.%2083-128%20e%20n.%2084-414.md)))
 
 ## Art. 2.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 27 GIUGNO 1990, N. 171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-27;171)))
+((PROVVEDIMENTO ABROGATO DALLA [L. 27 GIUGNO 1990, N. 171](Disciplina%20metrologica%20dei%20termometri%20clinici%20in%20attuazione%20delle%20direttive%20CEE%20n.%2083-128%20e%20n.%2084-414.md)))
 
 ## Art. 3.
 
-((PROVVEDIMENTO ABROGATO DALLA [L. 27 GIUGNO 1990, N. 171](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-27;171)))
+((PROVVEDIMENTO ABROGATO DALLA [L. 27 GIUGNO 1990, N. 171](Disciplina%20metrologica%20dei%20termometri%20clinici%20in%20attuazione%20delle%20direttive%20CEE%20n.%2083-128%20e%20n.%2084-414.md)))

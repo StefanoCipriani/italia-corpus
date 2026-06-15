@@ -12,19 +12,19 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 7 ottobre 2014, n. 154](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-10-07;154), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013 - secondo semestre, ed in particolare l'articolo 1 e l'allegato B;
+Vista la [legge 7 ottobre 2014, n. 154](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013%20-%20secondo%20semestre.%2014G00167.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013 - secondo semestre, ed in particolare l'articolo 1 e l'allegato B;
 
-Visto il [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), approvato con [regio decreto 30 marzo 1942, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327);
+Visto il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
-Visto il regolamento per l'esecuzione del [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-15;328);
+Visto il regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
 
 Visto l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14);
 
-Visto il [decreto legislativo 1° agosto 2003, n. 259](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-08-01;259);
+Visto il [decreto legislativo 1° agosto 2003, n. 259](../Decreti%20Legislativi/Codice%20delle%20comunicazioni%20elettroniche.md);
 
 Vista la [legge 21 novembre 1985, n. 739](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-11-21;739), recante adesione alla Convenzione del 1978 sulle norme relative alla formazione della gente di mare, al rilascio dei brevetti ed alla guardia, adottata a Londra il 7 luglio 1978, e sua esecuzione;
 
-Visto il [decreto legislativo 27 luglio 1999, n. 271](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-27;271), recante adeguamento della normativa sulla sicurezza e salute dei lavoratori marittimi a bordo delle navi mercantili e da pesca nazionali;
+Visto il [decreto legislativo 27 luglio 1999, n. 271](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Adeguamento%20della%20normativa%20sulla%20sicurezza%20e%20salute%20dei%20lavoratori%20marittimi%20a%20bordo%20delle%20navi%20mercantili%20da%20pesca%20nazionali%20a%20norma%20della%20legge%2031%20dicembre%201998%20n.%20485.md), recante adeguamento della normativa sulla sicurezza e salute dei lavoratori marittimi a bordo delle navi mercantili e da pesca nazionali;
 
 Visto il [decreto del Ministro delle infrastrutture e dei trasporti 13 ottobre 2003, n. 305](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.infrastrutture.trasporti:decreto:2003-10-13;305);
 
@@ -36,7 +36,7 @@ Visto il [decreto legislativo 7 luglio 2011, n. 136](Attuazione%20della%20dirett
 
 Viste le Risoluzioni 1 e 2 adottate in Manila dalla Conferenza delle Parti alla Convenzione Internazionale sugli standards di addestramento e tenuta della Guardia (Convenzione STCW'78) dal 21 al 25 giugno 2010;
 
-Visto il [decreto del Presidente del Consiglio dei ministri 11 febbraio 2014, n. 72](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72), recante regolamento di organizzazione del Ministero delle infrastrutture e dei trasporti, ai sensi dell'[articolo 2 del decreto-legge 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95#art_2), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-08-07;135);
+Visto il [decreto del Presidente del Consiglio dei ministri 11 febbraio 2014, n. 72](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.consiglio:decreto:2014-02-11;72), recante regolamento di organizzazione del Ministero delle infrastrutture e dei trasporti, ai sensi dell'[articolo 2 del decreto-legge 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95#art_2), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md);
 
 Visto il decreto del Ministro delle infrastrutture e dei trasporti del 4 agosto 2014, pubblicato nella Gazzetta Ufficiale n. 297 del 23 dicembre 2014 concernente la rimodulazione, il numero ed i compiti degli uffici dirigenziali di livello non generale;
 
@@ -78,9 +78,9 @@ Ai fini del presente decreto si intende per:
                         b)
                             Comando generale del Corpo delle Capitanerie di porto: cosi' come disciplinato dall'articolo 13 del decreto del Presidente del Consiglio dei ministri ((23 dicembre 2020, n. 190));
                         c)
-                            direzione marittima: l'ufficio della zona marittima, ai sensi del combinato disposto dell'[articolo 16, secondo comma, del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_16-com2) e dell'articolo 2, primo comma, del regolamento per l'esecuzione del [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-15;328);
+                            direzione marittima: l'ufficio della zona marittima, ai sensi del combinato disposto dell'[articolo 16, secondo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) e dell'articolo 2, primo comma, del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md);
                         d)
-                            autorita' marittima: gli uffici di cui all'[articolo 17 del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_17), competenti per l'iscrizione della gente di mare;
+                            autorita' marittima: gli uffici di cui all'[articolo 17 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), competenti per l'iscrizione della gente di mare;
                         e)
                             lavoratore marittimo: ogni persona che svolge, a qualsiasi titolo, servizio o attivita' lavorativa a bordo di una nave che ha ricevuto una formazione ed e' in possesso di un certificato di competenza o di un certificato di addestramento o di una prova documentale;
                         f)
@@ -110,7 +110,7 @@ Ai fini del presente decreto si intende per:
                         t)
                             comune di guardia in macchina: un membro dell'equipaggio di una nave diverso dal direttore o dall'ufficiale di macchina;
                         u)
-                            equipaggio: qualsiasi lavoratore marittimo imbarcato a bordo di una nave ai sensi dell'[articolo 316 del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_316);
+                            equipaggio: qualsiasi lavoratore marittimo imbarcato a bordo di una nave ai sensi dell'[articolo 316 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
                         v)
                             ufficiale elettrotecnico: ufficiale qualificato in conformita' dell'allegato I, capo III;
                         z)
@@ -136,7 +136,7 @@ Ai fini del presente decreto si intende per:
                         ll)
                             nave da passeggeri ro-ro: la nave da passeggeri avente spazi per il carico roll on-roll off o spazi delle categorie speciali come definite dalla SOLAS 74, di volta in volta vigente;
                         mm)
-                            viaggi costieri: i viaggi effettuati in prossimita' della costa come definiti dall'articolo 1, comma 1, punti 37, 39 e 40, del regolamento per la sicurezza della navigazione e della vita umana in mare, approvato con [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-11-08;435);
+                            viaggi costieri: i viaggi effettuati in prossimita' della costa come definiti dall'articolo 1, comma 1, punti 37, 39 e 40, del regolamento per la sicurezza della navigazione e della vita umana in mare, approvato con [decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md);
                         nn)
                             potenza di propulsione: la potenza di uscita totale massima nominale continua in chilowatt sviluppata da tutti gli apparati di propulsione principali della nave che appare sul certificato di iscrizione della nave o su altro documento ufficiale;
                         oo)
@@ -199,8 +199,8 @@ Ai fini del presente decreto si intende per:
  2) ore diurne; 
  3) visibilita' buona; 
  4) distanza massima di 0,5 miglia dalla costa ed entro i limiti del circondario marittimo; 
- 5) vento non superiore a forza 2, come descritto dall'[articolo 255 del decreto del Presidente della Repubblica 8 novembre 1991, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-11-08;435#art_255); 
- 6) mare non superiore a forza 2, come descritto dall'[articolo 255 del decreto del Presidente della Repubblica 8 novembre 1991, n. 435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-11-08;435#art_255);
+ 5) vento non superiore a forza 2, come descritto dall'[articolo 255 del decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md); 
+ 6) mare non superiore a forza 2, come descritto dall'[articolo 255 del decreto del Presidente della Repubblica 8 novembre 1991, n. 435](../DPR/Approvazione%20del%20regolamento%20per%20la%20sicurezza%20della%20navigazione%20e%20della%20vita%20umana%20in%20mare_2.md);
                         qqq-quater)
                             acque adiacenti alle acque protette: zona di mare che si discosta dal limite delle acque protette per una distanza non superiore 0,5 miglia di navigazione dove operano le navi non adibite a navigazione marittima, con i medesimi limiti operativi di cui alla lettera qqq-ter.
 
@@ -218,7 +218,7 @@ Il Comando Generale del Corpo delle Capitanerie di porto, di cui all'articolo 2,
 
 3.
 
-Le autorita' marittime, di cui all'articolo 2, comma 1, lettera d), secondo il riparto di cui all'articolo 219 del regolamento per l'esecuzione del [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-15;328), sono competenti per il rilascio dei certificati di competenza, dei certificati di addestramento e delle eventuali prove documentali, nonche' dell'attestato di addestramento conseguito, con le modalita' e le procedure indicate nel presente decreto.
+Le autorita' marittime, di cui all'articolo 2, comma 1, lettera d), secondo il riparto di cui all'articolo 219 del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), sono competenti per il rilascio dei certificati di competenza, dei certificati di addestramento e delle eventuali prove documentali, nonche' dell'attestato di addestramento conseguito, con le modalita' e le procedure indicate nel presente decreto.
 
 4.
 
@@ -262,7 +262,7 @@ Il Ministero delle infrastrutture e dei trasporti comunica alla Commissione euro
 
 1.
 
-L'addestramento dei lavoratori marittimi e' disciplinato ai sensi dell'[articolo 123, primo comma, del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_123-com1) ed e' oggetto di appositi corsi, il cui svolgimento puo' essere affidato a istituti, enti e societa' ritenuti idonei ed autorizzati con provvedimenti dell'autorita' competente di cui all'articolo 3, comma 2.
+L'addestramento dei lavoratori marittimi e' disciplinato ai sensi dell'[articolo 123, primo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) ed e' oggetto di appositi corsi, il cui svolgimento puo' essere affidato a istituti, enti e societa' ritenuti idonei ed autorizzati con provvedimenti dell'autorita' competente di cui all'articolo 3, comma 2.
 
 2.
 
@@ -350,7 +350,7 @@ I certificati di competenza di cui all'articolo 2, comma 1, lettera uu), i relat
 
 9.
 
-A bordo delle navi battenti bandiera italiana, il comandante ed il primo ufficiale di coperta, se quest'ultimo svolge funzioni del comandante, devono essere cittadini di uno Stato membro dell'Unione europea o di un altro Stato facente parte dell'accordo sullo Spazio economico europeo. L'accesso a tali funzioni e' disciplinato dall'[articolo 292-bis del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_292bis).
+A bordo delle navi battenti bandiera italiana, il comandante ed il primo ufficiale di coperta, se quest'ultimo svolge funzioni del comandante, devono essere cittadini di uno Stato membro dell'Unione europea o di un altro Stato facente parte dell'accordo sullo Spazio economico europeo. L'accesso a tali funzioni e' disciplinato dall'[articolo 292-bis del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 10.
 
@@ -372,7 +372,7 @@ Fatto salvo quanto previsto dal comma 9, a tutela della sicurezza della navigazi
 
 12-ter.
 
-La conoscenza richiesta ai sensi del comma 12-bis e' certificata dalla compagnia di navigazione, ai sensi degli [articoli 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445#art_47), [75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445#art_75) e [76 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445#art_76), al momento della richiesta della convalida di riconoscimento.
+La conoscenza richiesta ai sensi del comma 12-bis e' certificata dalla compagnia di navigazione, ai sensi degli [articoli 47](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), [75](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) e [76 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), al momento della richiesta della convalida di riconoscimento.
 
 ))
 
@@ -496,9 +496,9 @@ Per il rilascio di uno dei certificati di competenza e dei certificati di addest
                         a)
                             possedere eta' non inferiore a quella prevista per ciascun certificato di competenza e dei certificati di addestramento nelle regole dell'annesso alla Convenzione STCW;
                         b)
-                            possedere i requisiti di idoneita' fisica, in particolare per quanto riguarda la vista e l'udito, previsti ed accertati ai sensi del [regio decreto-legge 14 dicembre 1933, n. 1773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-14;1773), convertito dalla [legge 22 gennaio 1934, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-01-22;244), e ((della legge 28 ottobre 1962, n. 1602));
+                            possedere i requisiti di idoneita' fisica, in particolare per quanto riguarda la vista e l'udito, previsti ed accertati ai sensi del [regio decreto-legge 14 dicembre 1933, n. 1773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-14;1773), convertito dalla [legge 22 gennaio 1934, n. 244](../DL%20e%20leggi%20di%20conversione/Conversione%20il%20legge%20del%20R.%20decreto-degge%2014%20dicembre%201933%20n.%201773%20relativo%20allaccertamento%20dellidoneita%20fisica%20della%20gente%20di%20mare%20di%20prima%20categoria.%20034U0244.md), e ((della legge 28 ottobre 1962, n. 1602));
                         c)
-                            aver effettuato servizio di navigazione e le attivita' di formazione e di addestramento prescritte dalle regole dell'annesso alla Convenzione STCW e dalle corrispondenti sezioni del codice STCW, come rese attuative con decreto del Ministro delle infrastrutture e dei trasporti ai sensi dell'[articolo 123 del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_123);
+                            aver effettuato servizio di navigazione e le attivita' di formazione e di addestramento prescritte dalle regole dell'annesso alla Convenzione STCW e dalle corrispondenti sezioni del codice STCW, come rese attuative con decreto del Ministro delle infrastrutture e dei trasporti ai sensi dell'[articolo 123 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
                         d)
                             aver sostenuto, con esito favorevole, l'esame atto a dimostrare il possesso delle competenze del livello prescritte dalle regole dell'annesso alla Convenzione STCW e dalle corrispondenti sezioni del codice STCW ((con le modalita' stabilite con provvedimento delle autorita' competenti di cui all'articolo 3)).
 
@@ -580,7 +580,7 @@ I lavoratori marittimi, titolari di un certificato di competenza o di un certifi
 
 2.
 
-I certificati di cui al comma 1 sono rilasciati dal Ministero della salute, ai sensi della [legge 28 ottobre 1962, n. 1602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-10-28;1602), e successive modificazioni. Ai lavoratori marittimi che non hanno diritto alle prestazioni medico legali ai sensi del [decreto del Presidente della Repubblica 31 luglio 1980, n. 620](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;620), si applicano le seguenti tariffe che, unitamente alle tariffe per le prestazioni di cui al [decreto del Presidente della Repubblica 31 luglio 1980, n. 620](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-31;620), affluiscono all'entrata del bilancio dello Stato e sono assoggettate al regime di cui all'[articolo 5, comma 12, della legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407#art_5-com12):
+I certificati di cui al comma 1 sono rilasciati dal Ministero della salute, ai sensi della [legge 28 ottobre 1962, n. 1602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-10-28;1602), e successive modificazioni. Ai lavoratori marittimi che non hanno diritto alle prestazioni medico legali ai sensi del [decreto del Presidente della Repubblica 31 luglio 1980, n. 620](../DPR/Disciplina%20dellassistenza%20sanitaria%20al%20personale%20navigante%20marittimo%20e%20dellaviazione%20civile%20art.%2037%20ultimo%20comma%20della%20legge%20n.%20833%20del%201978.md), si applicano le seguenti tariffe che, unitamente alle tariffe per le prestazioni di cui al [decreto del Presidente della Repubblica 31 luglio 1980, n. 620](../DPR/Disciplina%20dellassistenza%20sanitaria%20al%20personale%20navigante%20marittimo%20e%20dellaviazione%20civile%20art.%2037%20ultimo%20comma%20della%20legge%20n.%20833%20del%201978.md), affluiscono all'entrata del bilancio dello Stato e sono assoggettate al regime di cui all'[articolo 5, comma 12, della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md):
                         a)
                             visita di medicina generale: si applicano le tariffe previste per le visite mediche di idoneita' per ottenere licenze, abilitazioni o iscrizioni in elenchi o albi professionali di cui all'allegato 1 del decreto del Ministro della sanita' 14 febbraio 1991, pubblicato nella Gazzetta Ufficiale n. 63 del 15 marzo 1991, e successive modificazioni;
                         b)
@@ -592,7 +592,7 @@ Avverso il giudizio di idoneita' ed avverso il giudizio di limitazione dell'idon
 
 4.
 
-L'idoneita' all'iscrizione dei lavoratori nelle matricole della gente di mare, ai sensi degli articoli 238 e 239 del regolamento per l'esecuzione del [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-15;328), e' effettuata ai sensi del [regio decreto-legge 14 dicembre 1933, n. 1773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-14;1773), convertito dalla [legge 22 gennaio 1934, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-01-22;244), e successive modificazioni, in conformita' alla regola I/9 del codice STCW.
+L'idoneita' all'iscrizione dei lavoratori nelle matricole della gente di mare, ai sensi degli articoli 238 e 239 del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima), approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e' effettuata ai sensi del [regio decreto-legge 14 dicembre 1933, n. 1773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-14;1773), convertito dalla [legge 22 gennaio 1934, n. 244](../DL%20e%20leggi%20di%20conversione/Conversione%20il%20legge%20del%20R.%20decreto-degge%2014%20dicembre%201933%20n.%201773%20relativo%20allaccertamento%20dellidoneita%20fisica%20della%20gente%20di%20mare%20di%20prima%20categoria.%20034U0244.md), e successive modificazioni, in conformita' alla regola I/9 del codice STCW.
 
 5.
 
@@ -884,7 +884,7 @@ Fatto salvo quanto previsto all'articolo 6, comma 9, a tutela della sicurezza de
 
 9.
 
-La conoscenza richiesta ai sensi del comma 8 e' certificata dalla compagnia di navigazione, ai sensi degli [articoli 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445#art_47), [75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445#art_75) e [76 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445#art_76), al momento della richiesta della convalida di riconoscimento ovvero al momento dell'imbarco.
+La conoscenza richiesta ai sensi del comma 8 e' certificata dalla compagnia di navigazione, ai sensi degli [articoli 47](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), [75](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md) e [76 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), al momento della richiesta della convalida di riconoscimento ovvero al momento dell'imbarco.
 
 ## Art. 21. — Controllo dello Stato di approdo e procedure di controllo
 
@@ -1016,7 +1016,7 @@ A decorrere dalla data di entrata in vigore del presente decreto sono abrogati:
                         a)
                             il [decreto legislativo 7 luglio 2011, n. 136](Attuazione%20della%20direttiva%202008-106-CE%20concernente%20i%20requisiti%20minimi%20di%20formazione%20per%20la%20gente%20di%20mare.%2011G0175.md);
                         b)
-                            le lettere a), b) e d), del numero 2. del secondo comma, dell'articolo 270-bis, del regolamento per l'esecuzione del [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) (navigazione marittima) approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328, nonche' le lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-15;328#art_leta) e
+                            le lettere a), b) e d), del numero 2. del secondo comma, dell'articolo 270-bis, del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) (navigazione marittima) approvato con [decreto del Presidente della Repubblica 15 febbraio 1952, n. 328, nonche' le lettere a)](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md) e
                         c)
                             del numero 2. del secondo comma, dell'articolo 271 del medesimo regolamento; 
  c) l'[articolo 4, comma 3, della legge 28 ottobre 1962, n. 1602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-10-28;1602#art_4-com3), e successive modificazioni;
@@ -1025,7 +1025,7 @@ A decorrere dalla data di entrata in vigore del presente decreto sono abrogati:
 
 Note all'art. 25: 
  Per i riferimenti al [decreto legislativo 07/07/2011, n. 136](Attuazione%20della%20direttiva%202008-106-CE%20concernente%20i%20requisiti%20minimi%20di%20formazione%20per%20la%20gente%20di%20mare.%2011G0175.md), si veda nelle note alle premesse. 
- Il testo dell'[articolo 270-bis lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-15;328#art_270bis-leta), [b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-15;328#art_270bis-letb) e [d), comma 2, numero 2 del D.P.R. 15/02/1952, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-15;328#art_270bis-com2-letd-num2) (Approvazione del regolamento per l'esecuzione del [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327) - Navigazione marittima) pubblicato nella Gazz. Uff. 21 aprile 1952, n. 94, S.O., e' il seguente: 
+ Il testo dell'[articolo 270-bis lettere a)](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), [b)](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md) e [d), comma 2, numero 2 del D.P.R. 15/02/1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md) (Approvazione del regolamento per l'esecuzione del [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) - Navigazione marittima) pubblicato nella Gazz. Uff. 21 aprile 1952, n. 94, S.O., e' il seguente: 
  "Art. 270-bis. (Meccanico navale di prima classe) 
  (Omissis). 
  Il meccanico navale di prima classe puo': 
@@ -1035,7 +1035,7 @@ Note all'art. 25:
  b. di navi da passeggeri dotate di apparato motore di potenza non superiore ai 400 cavalli asse o ai 450 cavalli indicati purche' dopo il conseguimento del titolo abbia effettuato 3 anni di navigazione di cui almeno 1 in servizio di guardia in macchina; 
  c. (Omissis). 
  d. di navi di qualsiasi tipo o potenza di macchina adibite alla navigazione a distanza non superiore alle venti miglia dalla costa, purche' dopo il conseguimento del titolo abbia effettuato 3 anni di navigazione dei quali almeno 1 in servizio di guardia in macchina". 
- Il testo dell'articolo 271 lettere a) e c) comma 2, numero 2, del citato [D.P.R. 15/02/1952, n. 328](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-15;328), e' il seguente: 
+ Il testo dell'articolo 271 lettere a) e c) comma 2, numero 2, del citato [D.P.R. 15/02/1952, n. 328](../DPR/Approvazione%20del%20Regolamento%20per%20lesecuzione%20del%20Codice%20della%20navigazione%20Navigazione%20marittima.md), e' il seguente: 
  "Art. 271. (Meccanico navale di seconda classe per motonavi) 
  (Omissis). 
  Il meccanico navale di seconda classe per motonavi puo': 
@@ -1045,7 +1045,7 @@ Note all'art. 25:
  b. (Omissis). 
  c. su motonavi da passeggeri dotate di apparato motore di potenza non superiore a 200 cavalli asse; 
  (Omissis).". 
- Il testo dell'[articolo 4, terzo comma, della L. 28/10/1962, n. 1602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-10-28;1602#art_4-com3) (Modifiche ed integrazioni del [regio decreto-legge 14 dicembre 1933, n. 1773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-14;1773), convertito nella [legge 22 gennaio 1934, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-01-22;244), concernente l'accertamento della idoneita' fisica della gente di mare),pubblicata nella Gazz. Uff. 29 novembre 1962, n. 304, e' il seguente:  " Art. 4. 
+ Il testo dell'[articolo 4, terzo comma, della L. 28/10/1962, n. 1602](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-10-28;1602#art_4-com3) (Modifiche ed integrazioni del [regio decreto-legge 14 dicembre 1933, n. 1773](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-12-14;1773), convertito nella [legge 22 gennaio 1934, n. 244](../DL%20e%20leggi%20di%20conversione/Conversione%20il%20legge%20del%20R.%20decreto-degge%2014%20dicembre%201933%20n.%201773%20relativo%20allaccertamento%20dellidoneita%20fisica%20della%20gente%20di%20mare%20di%20prima%20categoria.%20034U0244.md), concernente l'accertamento della idoneita' fisica della gente di mare),pubblicata nella Gazz. Uff. 29 novembre 1962, n. 304, e' il seguente:  " Art. 4. 
  (Omissis). 
  Con decreto del Ministro della salute, di concerto con il Ministro delle infrastrutture e dei trasporti, adottato ai sensi dell' [articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3), sono disciplinati i casi in cui, per comprovate ragioni di urgenza, ovvero se il periodo di validita' del certificato scade nel corso di un viaggio, un marittimo puo' essere autorizzato a lavorare sulla base di certificazione medica provvisoria, valida fino al porto di scalo successivo e di durata comunque non superiore ai tre mesi.".
 

@@ -18,7 +18,7 @@ b) possedere l'adeguata capacita' finanziaria;
 
 c) soddisfare al requisito della capacita' professionale;
 
-Visto l'[art. 11, secondo comma, del decreto-legge 6 febbraio 1987, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-02-06;16#art_11-com2), convertito, con modificazioni, nella [legge 30 marzo 1987, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-30;132);
+Visto l'[art. 11, secondo comma, del decreto-legge 6 febbraio 1987, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-02-06;16#art_11-com2), convertito, con modificazioni, nella [legge 30 marzo 1987, n. 132](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20febbraio%201987%20n.%2016%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autotrasporto%20di%20cose%20e%20di%20sicurezza%20stradale.md);
 
 Considerato che in attuazione delle disposizioni di cui alla predetta direttiva CEE n. 561/74, ai fini della iscrizione all'albo degli autotrasportatori di cose per conto di terzi, le imprese richiedenti l'iscrizione devono dimostrare anche di essere in possesso dei requisiti previsti dalla direttiva sopra citata; Decreta:
 
@@ -33,7 +33,7 @@ Col presente decreto si da' attuazione alle disposizioni contenute nella diretti
 
 AVVERTENZA:
 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
  NOTE
 
@@ -48,12 +48,12 @@ AVVERTENZA:
  1) avere la cittadinanza italiana per i titolari di imprese individuali, salvo quanto previsto dal successivo art. 14;
  2) avere la disponibilita' di mezzi tecnici ed economici adeguati all'attivita' da svolgere.
  Con il regolamento di esecuzione saranno stabilite le misure minime dei predetti mezzi e le quote di libera proprieta' degli stessi giudicate necessarie per i vari gradi di attivita' e per le diverse specializzazioni.
- Coloro che sono qualificati artigiani a norma della [legge 25 luglio 1956, n. 860](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-07-25;860), sono esenti dall'obbligo di fornire la prova del possesso dei requisiti di cui al presente n. 2);
+ Coloro che sono qualificati artigiani a norma della [legge 25 luglio 1956, n. 860](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20la%20disciplina%20giuridica%20delle%20imprese%20artigiane.md), sono esenti dall'obbligo di fornire la prova del possesso dei requisiti di cui al presente n. 2);
  3) essere iscritto alla camera di commercio, industria, artigianato ed agricoltura, per l'attivita' di autotrasporto di cose per conto di terzi;
  4) aver stipulato contratto di assicurazione per la responsabilita' civile dipendente dall'uso degli autoveicoli e per i danni alle cose da trasportare, con i massimali prescritti nel regolamento di esecuzione, che comunque non possono essere inferiori a quelli previsti in altre disposizioni legislative in vigore;
  5) aver ottemperato alle norme di legge in materie di previdenza ed assicurazioni sociali per i propri dipendenti;
  6) essere iscritto nei ruoli delle imprese sui redditi delle persone fisiche o giuridiche relativamente al reddito di impresa o avere presentato la dichiarazione relativamente a tale reddito;
- 7) non aver riportato condanne a pene che importino la interdizione da una professione o da un'arte o l'incapacita' ad esercitare uffici direttivi presso qualsiasi impresa, salvo che sia intervenuta riabilitazione a norma degli [articoli 178 e seguenti del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_178).
+ 7) non aver riportato condanne a pene che importino la interdizione da una professione o da un'arte o l'incapacita' ad esercitare uffici direttivi presso qualsiasi impresa, salvo che sia intervenuta riabilitazione a norma degli [articoli 178 e seguenti del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md).
  Per i titolari di imprese artigiane, l'incapacita' ad esercitare uffici direttivi non impedisce l'iscrizione nell'albo;
  8) non aver in corso procedura di fallimento, ne' essere stato soggetto a procedura fallimentare, salvo che sia intervenuta riabilitazione a norma degli [articoli 142 e seguenti del regio decreto 16 marzo 1942, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-16;267#art_142).
  I requisiti e le condizioni di cui ai numeri 7) e 8) devono essere posseduti:
@@ -79,7 +79,7 @@ Note all'art. 2:
 
 ## Art. 3.
 
-In via transitoria e fino al 30 novembre 1988 l'iscrizione in via provvisoria di nuove imprese e' comunque consentita ai sensi del [comma 2-bis dell'art. 11 della legge 30 marzo 1987, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-30;132#art_11-com2bis), a condizione che vengano soddisfatti i requisiti della onorabilita' e della capacita' finanziaria con riserva di accertamento entro il predetto termine del requisito della capacita' professionale.
+In via transitoria e fino al 30 novembre 1988 l'iscrizione in via provvisoria di nuove imprese e' comunque consentita ai sensi del [comma 2-bis dell'art. 11 della legge 30 marzo 1987, n. 132](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20febbraio%201987%20n.%2016%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autotrasporto%20di%20cose%20e%20di%20sicurezza%20stradale.md), a condizione che vengano soddisfatti i requisiti della onorabilita' e della capacita' finanziaria con riserva di accertamento entro il predetto termine del requisito della capacita' professionale.
 
 Nota all'[art. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987;16#art_3):
  Il [comma 2-bis del decreto-legge n. 16/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987;16#art_com2bis) (Disposizioni urgenti in materia di autotrasporto di cose e di sicurezza stradale), aggiunto dalla legge di conversione n. 132/1987, prevede che: "L'iscrizione in via provvisoria di nuove imprese nell'albo nazionale degli autotrasportatori di cose per conto terzi e' comunque consentita, a partire dal 1 giugno 1987, a condizione che vengano soddisfatti i requisiti dell'onorabilita' e della capacita' finanziaria, di cui alla citata [direttiva n. 561/74](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1974;561), con riserva di accertamento, entro diciotto mesi dal predetto termine, del requisito della capacita' professionale".
@@ -87,7 +87,7 @@ Nota all'[art. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.l
 ## Art. 4.
 
 Ai fini del soddisfacimento del requisito di cui alla lettera a) del precedente art. 2 - ad integrazione dei punti 7 e 8 dell'[art. 13 della legge 6 giugno 1974, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-06;298#art_13) - gli interessati devono:
- 1) non aver riportato, con sentenza passata in giudicato, condanne superiori a due anni di reclusione per delitti non colposi o una qualsiasi condanna a pena detentiva per delitti contro il patrimonio, la fede pubblica, l'ordine pubblico o per reati puniti a norma degli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-20;75#art_3) e [4 della legge 20 febbraio 1958, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-20;75#art_4), ovvero condanne che comportino interdizione dalla professione o incapacita' di esercitare uffici direttivi presso qualsiasi impresa, per il periodo di durata della pena accessoria, salvo che sia intervenuta precedentemente riabilitazione a norma dell'[art. 178 e seguenti del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_178); per coloro i quali abbiano in corso procedimenti penali in cui sia stata gia' pronunciata una sentenza di condanna del tipo sopra indicato, l'iscrizione all'albo viene effettuata con riserva;
+ 1) non aver riportato, con sentenza passata in giudicato, condanne superiori a due anni di reclusione per delitti non colposi o una qualsiasi condanna a pena detentiva per delitti contro il patrimonio, la fede pubblica, l'ordine pubblico o per reati puniti a norma degli [articoli 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-20;75#art_3) e [4 della legge 20 febbraio 1958, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-20;75#art_4), ovvero condanne che comportino interdizione dalla professione o incapacita' di esercitare uffici direttivi presso qualsiasi impresa, per il periodo di durata della pena accessoria, salvo che sia intervenuta precedentemente riabilitazione a norma dell'[art. 178 e seguenti del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); per coloro i quali abbiano in corso procedimenti penali in cui sia stata gia' pronunciata una sentenza di condanna del tipo sopra indicato, l'iscrizione all'albo viene effettuata con riserva;
  2) non essere sottoposto, con provvedimento esecutivo, ad una delle misure di prevenzione previste dalle vigenti disposizioni.
  Il predetto requisito dell'onorabilita' deve essere posseduto:
  quando si tratti di impresa individuale, dal titolare di essa;
@@ -120,7 +120,7 @@ Note all'art. 4:
  5) se il fatto e' commesso ai danni di persone aventi rapporti di servizio domestico o d'impiego;
  6) se il fatto e' commesso da pubblici ufficiali nell'esercizio delle loro funzioni;
  7) se il fatto e' commesso ai danni di piu' persone.
- - La rubrica degli [articoli 178 e seguenti del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_178) (fino all'art. 181) e' la seguente:
+ - La rubrica degli [articoli 178 e seguenti del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) (fino all'art. 181) e' la seguente:
  art. 178: riabilitazione;
  art. 179: condizioni per la riabilitazione;
  art. 180: revoca della sentenza di riabilitazione;

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 20 della legge 19 dicembre 1992, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489#art_20), recante delega al Governo per l'attuazione della [direttiva 91/492/CEE del Consiglio del 15 luglio 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;492);
+Visto l'[art. 20 della legge 19 dicembre 1992, n. 489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md), recante delega al Governo per l'attuazione della [direttiva 91/492/CEE del Consiglio del 15 luglio 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;492);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 dicembre 1992;
 
@@ -102,7 +102,7 @@ E M A N A il seguente decreto legislativo:
 
 1.
 
-E' abrogata la [legge 2 maggio 1977, n. 192](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-05-02;192).
+E' abrogata la [legge 2 maggio 1977, n. 192](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20igienico-sanitarie%20per%20la%20produzione%20commercio%20e%20vendita%20dei%20molluschi%20eduli%20lamellibranchi.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

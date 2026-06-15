@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 25 della legge 19 febbraio 1992, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-19;142#art_25), recante delega al Governo per l'attuazione della [direttiva 89/646/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;646), seconda direttiva del Consiglio del 15 dicembre 1989, relativa al coordinamento delle disposizioni legislative, regolamentari e amministrative riguardanti l'accesso all'attivita' degli enti creditizi e il suo esercizio e recante modifica della [direttiva 77/780/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;780);
+Visto l'[art. 25 della legge 19 febbraio 1992, n. 142](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), recante delega al Governo per l'attuazione della [direttiva 89/646/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;646), seconda direttiva del Consiglio del 15 dicembre 1989, relativa al coordinamento delle disposizioni legislative, regolamentari e amministrative riguardanti l'accesso all'attivita' degli enti creditizi e il suo esercizio e recante modifica della [direttiva 77/780/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;780);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 settembre 1992;
 
@@ -232,21 +232,21 @@ Capo VIII
 
 1.
 
-Il [comma 2 dell'art. 11 del decreto legislativo 20 novembre 1990, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-11-20;356#art_11-com2), e' sostituito dal seguente: 
+Il [comma 2 dell'art. 11 del decreto legislativo 20 novembre 1990, n. 356](../Decreti%20Legislativi/Disposizioni%20per%20la%20ristrutturazione%20e%20per%20la%20disciplina%20del%20gruppo%20creditizio.md), e' sostituito dal seguente: 
  "2. A tali enti, che hanno piena capacita' di diritto pubblico e di diritto privato, continuano ad applicarsi le disposizioni di legge relative alle procedure di nomina degli organi amministrativi e di controllo.".
 
 2.
 
-Dopo il [comma 2 dell'art. 12 del decreto legislativo 20 novembre 1990, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-11-20;356#art_12-com2), e' aggiunto il seguente: 
+Dopo il [comma 2 dell'art. 12 del decreto legislativo 20 novembre 1990, n. 356](../Decreti%20Legislativi/Disposizioni%20per%20la%20ristrutturazione%20e%20per%20la%20disciplina%20del%20gruppo%20creditizio.md), e' aggiunto il seguente: 
  "3. Le modificazioni statutarie degli enti di cui all'art. 11, comma 1, sono approvate dal Ministro del tesoro entro sessanta giorni dal ricevimento della relativa documentazione. Decorso tale termine le modificazioni si intendono approvate.".
 
 3.
 
-Dopo il [comma 2 dell'art. 21 del decreto legislativo 20 novembre 1990, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-11-20;356#art_21-com2), e' aggiunto il seguente: 
+Dopo il [comma 2 dell'art. 21 del decreto legislativo 20 novembre 1990, n. 356](../Decreti%20Legislativi/Disposizioni%20per%20la%20ristrutturazione%20e%20per%20la%20disciplina%20del%20gruppo%20creditizio.md), e' aggiunto il seguente: 
  "3. Per le finalita' indicate al comma precedente, il Ministro del tesoro, previa deliberazione del Consiglio dei Ministri e sentite le competenti commissioni parlamentari, puo' impartire agli enti conferenti direttive, generali o relative a singoli enti, per il trasferimento di azioni con diritto di voto nell'assemblea ordinaria o di diritti di opzione sulle medesime che comporti la perdita della partecipazione maggioritaria diretta o indiretta di enti pubblici nelle societa' bancarie indicate al comma 1, fissandone condizioni e modalita'. In tal caso, il trasferimento e' soggetto al controllo della Banca d'Italia che ne verifica la conformita' alle direttive del Ministro del tesoro nonche' il rispetto delle condizioni dettate dal titolo V della [legge 10 ottobre 1990, n. 287, e dall'art. 13, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287#art_13-com1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287#art_13-com2) e [3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287#art_13-com3) del presente decreto.".
 
 Note all'art. 43:
- - Il testo degli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-11-20;356#art_11), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-11-20;356#art_12) e [21 del decreto legislativo 20 novembre 1990, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-11-20;356#art_21) (citato in nota all'art. 1), come modificato dal presente decreto, risulta rispettivamente, il seguente:
+ - Il testo degli [articoli 11](../Decreti%20Legislativi/Disposizioni%20per%20la%20ristrutturazione%20e%20per%20la%20disciplina%20del%20gruppo%20creditizio.md), [12](../Decreti%20Legislativi/Disposizioni%20per%20la%20ristrutturazione%20e%20per%20la%20disciplina%20del%20gruppo%20creditizio.md) e [21 del decreto legislativo 20 novembre 1990, n. 356](../Decreti%20Legislativi/Disposizioni%20per%20la%20ristrutturazione%20e%20per%20la%20disciplina%20del%20gruppo%20creditizio.md) (citato in nota all'art. 1), come modificato dal presente decreto, risulta rispettivamente, il seguente:
  "Art. 11 (Norme applicabili). - 1. Gli enti di cui all'art. 1, comma 1, che hanno effettuato il conferimento dell'intera azienda sono disciplinati dal presente titolo e dai loro statuti.
  2. A tali enti, che hanno piena capacita' di diritto pubblico e di diritto privato, continuano ad applicarsi le disposizioni di legge relative alle procedure di nomina degli organi amministrativi e di controllo.
  Art. 12 (Statuti). - 1. Gli statuti degli enti di cui all'art. 11, comma 1, aventi il fondo di dotazione a composizione non associativa devono conformarsi ai seguenti principi:
@@ -328,7 +328,7 @@ Dall'[art. 1, comma 1, della legge 30 luglio 1990, n. 218](https://www.normattiv
 
 6.
 
-Dall'[art. 1, comma 1, del decreto legislativo 20 novembre 1990, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1990-11-20;356#art_1-com1), sono soppresse le parole "nel rispetto della distinzione tra enti che raccolgono risparmio a breve termine ed enti che raccolgono il risparmio a medio e lungo termine".
+Dall'[art. 1, comma 1, del decreto legislativo 20 novembre 1990, n. 356](../Decreti%20Legislativi/Disposizioni%20per%20la%20ristrutturazione%20e%20per%20la%20disciplina%20del%20gruppo%20creditizio.md), sono soppresse le parole "nel rispetto della distinzione tra enti che raccolgono risparmio a breve termine ed enti che raccolgono il risparmio a medio e lungo termine".
 
 7.
 

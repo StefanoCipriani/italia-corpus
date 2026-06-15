@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 38 della legge 19 febbraio 1992, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-19;142#art_38), recante delega al Governo per l'attuazione delle [direttive 89/284/CEE del Consiglio del 13 aprile 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;284) e [89/530/CEE del Consiglio del 18 settembre 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;530) concernenti il riavvicinamento delle legislazioni degli Stati membri relative ai concimi;
+Visto l'[art. 38 della legge 19 febbraio 1992, n. 142](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), recante delega al Governo per l'attuazione delle [direttive 89/284/CEE del Consiglio del 13 aprile 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;284) e [89/530/CEE del Consiglio del 18 settembre 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;530) concernenti il riavvicinamento delle legislazioni degli Stati membri relative ai concimi;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 novembre 1992;
 
@@ -28,7 +28,7 @@ E M A N A il seguente decreto legislativo:
 
 1.
 
-L'[art. 1 della legge 19 ottobre 1984, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748#art_1) "Nuove norme per la disciplina dei fertilizzanti", e' sostituito dal seguente:
+L'[art. 1 della legge 19 ottobre 1984, n. 748](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20la%20disciplina%20dei%20fertilizzanti.md) "Nuove norme per la disciplina dei fertilizzanti", e' sostituito dal seguente:
  "Art. 1 (Classificazione dei fertilizzanti) . - 1. Il termine 'fertilizzante' comprende prodotti minerali, organici e organo- minerali, che si suddividono in 'concimi' ed 'ammendanti e correttivi'.
  2. I concimi minerali possono essere:
  semplici: azotati, fosfatici, potassici;
@@ -46,7 +46,7 @@ L'[art. 1 della legge 19 ottobre 1984, n. 748](https://www.normattiva.it/uri-res
 
 1.
 
-I [commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748#art_2-com2) e [4 dell'art. 2 della legge 19 ottobre 1984, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748#art_2-com4) "Nuove norme per la disciplina dei fertilizzanti", sono sostituiti dai seguenti:
+I [commi 2](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20la%20disciplina%20dei%20fertilizzanti.md) e [4 dell'art. 2 della legge 19 ottobre 1984, n. 748](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20la%20disciplina%20dei%20fertilizzanti.md) "Nuove norme per la disciplina dei fertilizzanti", sono sostituiti dai seguenti:
  "2. Concime.
  Per concime si intende qualsiasi sostanza, naturale o sintetica, minerale od organica, idonea a fornire alle colture l'elemento o gli elementi chimici della fertilita' a queste necessarie per lo svolgimento del loro ciclo vegetativo e produttivo, secondo le forme e le solubilita' prescritte dalla presente legge.
  4. Elementi chimici della fertilita'.
@@ -59,7 +59,7 @@ I [commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-1
 
 1.
 
-L'[art. 3 della legge 19 ottobre 1984, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748#art_3) "Nuove norme per la disciplina dei fertilizzanti", e' sostituito dal seguente:
+L'[art. 3 della legge 19 ottobre 1984, n. 748](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20la%20disciplina%20dei%20fertilizzanti.md) "Nuove norme per la disciplina dei fertilizzanti", e' sostituito dal seguente:
  "Art. 3 (Dichiarazioni) . - 1. Il titolo dei vari elementi presenti in qualunque forma o solubilita', che dovranno essere specificate secondo il 'tipo' di prodotto, deve essere espresso ai fini della dichiarazione come segue:
  a) Azoto - Con il nome ed il simbolo chimico dell'elemento 'Azoto (N)'. Titolo minimo dichiarabile: 8% N nei concimi minerali semplici, 3% N nei concimi minerali composti e nei concimi organo-minerali; in questi ultimi l'aliquota minima dell'azoto organico, cosi' come definito nell'articolo 2, punto 6, non deve essere inferiore all'1%.
 Per i concimi organici i titoli minimi dichiarabili sono quelli indicati, caso per caso, nell'allegato 1 B;
@@ -77,7 +77,7 @@ Per i concimi organici i titoli minimi dichiarabili sono quelli indicati, caso p
 
 1.
 
-All'[art. 5 della legge 19 ottobre 1984, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748#art_5) "Nuove norme per la disciplina dei fertilizzanti", dopo il comma 2, vengono aggiunti i seguenti commi:
+All'[art. 5 della legge 19 ottobre 1984, n. 748](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20la%20disciplina%20dei%20fertilizzanti.md) "Nuove norme per la disciplina dei fertilizzanti", dopo il comma 2, vengono aggiunti i seguenti commi:
  "3. Concimi minerali a base di elementi secondari.
  Sono concimi a base di elementi secondari i prodotti, naturali o sintetici, che contengano espressamente dichiarato uno degli elementi secondari: calcio, magnesio, sodio e zolfo. Possono anche contenere altri elementi secondari e microelementi, ma non quantita' dichiarabili degli elementi chimici principali della fertilita'.
  4. Concimi minerali a base di microelementi (oligo elementi).
@@ -87,7 +87,7 @@ All'[art. 5 della legge 19 ottobre 1984, n. 748](https://www.normattiva.it/uri-r
 
 1.
 
-Il [comma 1 dell'art. 8 della legge 19 ottobre 1984, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748#art_8-com1) "Nuove norme per la disciplina dei fertilizzanti", e' sostituito dal seguente:
+Il [comma 1 dell'art. 8 della legge 19 ottobre 1984, n. 748](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20la%20disciplina%20dei%20fertilizzanti.md) "Nuove norme per la disciplina dei fertilizzanti", e' sostituito dal seguente:
  "1. Concimi C.E.E.
  L'indicazione di 'Concime CEE' puo' essere usata unicamente per i
 concimi appartenenti ad uno dei "TIPI" di cui all'allegato 1 A della presente legge.
@@ -103,7 +103,7 @@ Per l'emanazione dei decreti di modifica degli allegati 1 B , 1 C, 2 e 3 e' rich
 
 1.
 
-L'[art. 10 della legge 19 ottobre 1984, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748#art_10), "Nuove norme per la disciplina dei fertilizzanti", e' sostituito dal seguente:
+L'[art. 10 della legge 19 ottobre 1984, n. 748](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20la%20disciplina%20dei%20fertilizzanti.md), "Nuove norme per la disciplina dei fertilizzanti", e' sostituito dal seguente:
  "Art. 10 (Commissione tecnico-consultiva per i fertilizzanti) . - 1. Presso il Ministero dell'agricoltura e delle foreste e' istituita una commissione tecnico-consultiva per i fertilizzanti con il compito di esprimere il proprio parere - esperiti, ove necessario, anche con la collaborazione di istituti pubblici, gli opportuni accertamenti tecnici - su questioni di particolare rilevanza attinenti al settore dei fertilizzanti, nonche' sulle modifiche da apportare agli allegati alla presente legge.
  2. Tale commissione, nominata con decreto del Ministro dell'agricoltura e delle foreste, e' composta da:
  a) un rappresentante della Presidenza del Consiglio dei Ministri;
@@ -128,7 +128,7 @@ foreste, di cui uno con funzioni di presidente;
 
 1.
 
-Gli allegati 1 A , 1 B , 1 C, 2 e 3 della [legge 19 ottobre 1984, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-10-19;748), "Nuove norme per la disciplina dei fertilizzanti", sono modificati come riportato nell'allegato al presente decreto legislativo.
+Gli allegati 1 A , 1 B , 1 C, 2 e 3 della [legge 19 ottobre 1984, n. 748](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20la%20disciplina%20dei%20fertilizzanti.md), "Nuove norme per la disciplina dei fertilizzanti", sono modificati come riportato nell'allegato al presente decreto legislativo.
 
 ## Art. 9.
 

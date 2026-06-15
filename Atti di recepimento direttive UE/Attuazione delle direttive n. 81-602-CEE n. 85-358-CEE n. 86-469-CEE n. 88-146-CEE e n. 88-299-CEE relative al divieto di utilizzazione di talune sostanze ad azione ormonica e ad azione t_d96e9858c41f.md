@@ -68,7 +68,7 @@ vigente: true
 
 1.
 
-E' abrogata la [legge 3 febbraio 1961, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-02-03;4), ed ogni altra disposizione in contrasto o incompatibile con il presente decreto.
+E' abrogata la [legge 3 febbraio 1961, n. 4](../Atti%20normativi%20abrogati%20%28in%20originale%29/Divieto%20dellimpiego%20degli%20estrogeni%20come%20fattori%20di%20crescita%20o%20di%20neutralizzazione%20sessuale%20negli%20animali%20le%20cui%20carni%20e%20prodotti%20sono%20destinati%20allalimentazione%20umana.md), ed ogni altra disposizione in contrasto o incompatibile con il presente decreto.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

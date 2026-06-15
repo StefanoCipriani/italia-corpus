@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 50 della legge 29 dicembre 1990, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;428#art_50), recante delega al Governo per l'attuazione della [direttiva 89/398/CEE del Consiglio del 3 maggio 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;398), relativa al ravvicinamento delle legislazioni degli Stati membri concernenti i prodotti alimentari destinati ad una alimentazione particolare.
+Visto l'[art. 50 della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), recante delega al Governo per l'attuazione della [direttiva 89/398/CEE del Consiglio del 3 maggio 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;398), relativa al ravvicinamento delle legislazioni degli Stati membri concernenti i prodotti alimentari destinati ad una alimentazione particolare.
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 luglio 1991;
 
@@ -113,7 +113,7 @@ Sulla confezione dei prodotti alimentari di cui all'art. 1, comma 2, lettere a) 
 
 AGGIORNAMENTO (2)
 
-Il [D. Lgs. 16 febbraio 1993, n. 77](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-16;77) ha disposto (con l'art. 9, comma 2) che "Le diciture "glucidi", "protodi" e "lipidi" di cui alla [lettera h) dell'art. 4 del decreto legislativo 27 gennaio 1992, n. 111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;111#art_4-leth), sono equivalenti alle diciture "carboidrati", "proteine" e "grassi"."
+Il [D. Lgs. 16 febbraio 1993, n. 77](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2090-496-CEE%20del%20Consiglio%20del%2024%20settembre%201990%20relativa%20alletichettatura%20nutrizionale%20dei%20prodotti%20alimentari.md) ha disposto (con l'art. 9, comma 2) che "Le diciture "glucidi", "protodi" e "lipidi" di cui alla [lettera h) dell'art. 4 del decreto legislativo 27 gennaio 1992, n. 111](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), sono equivalenti alle diciture "carboidrati", "proteine" e "grassi"."
 
 ## Art. 5. — Confezionamento e imballaggio
 
@@ -193,7 +193,7 @@ Il Ministero della sanita' informa immediatamente la Commissione CEE e gli altri
 
 4.
 
-I laboratori dei servizi di igiene pubblica delle unita' sanitarie locali realizzano, con il coordinamento dell'Istituto superiore di sanita', un apposito programma di vigilanza annuale sui prodotti destinati ad una alimentazione particolare, fabbricati in Italia o all'estero, i cui risultati sono riportati nella relazione di cui all'[art. 8 della legge 7 agosto 1986, n. 462](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-07;462#art_8).
+I laboratori dei servizi di igiene pubblica delle unita' sanitarie locali realizzano, con il coordinamento dell'Istituto superiore di sanita', un apposito programma di vigilanza annuale sui prodotti destinati ad una alimentazione particolare, fabbricati in Italia o all'estero, i cui risultati sono riportati nella relazione di cui all'[art. 8 della legge 7 agosto 1986, n. 462](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20giugno%201986%20n.%20282%20recante%20misure%20urgenti%20in%20materia%20di%20prevenzione%20e%20repressione%20delle%20sofisticazioni%20alimentari.md).
 
 ## Art. 9. — Disposizioni specifiche
 
@@ -211,7 +211,7 @@ Con la stessa procedura di cui al comma 1 vengono indicati, in attuazione delle 
 
 1.
 
-Ai sensi dell'[articolo 2 del decreto legislativo 6 novembre 2007, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-06;193#art_2), gli stabilimenti di produzione e confezionamento dei prodotti di cui all'articolo 1 sono riconosciuti dalle regioni, dalle province autonome di Trento e di Bolzano e dalle aziende sanitarie locali.
+Ai sensi dell'[articolo 2 del decreto legislativo 6 novembre 2007, n. 193](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202004-41-CE%20relativa%20ai%20controlli%20in%20materia%20di%20sicurezza%20alimentare%20e%20applicazione%20dei%20regolamenti%20comunitari%20nel%20medesimo%20settore.md), gli stabilimenti di produzione e confezionamento dei prodotti di cui all'articolo 1 sono riconosciuti dalle regioni, dalle province autonome di Trento e di Bolzano e dalle aziende sanitarie locali.
 
 2.
 
@@ -277,7 +277,7 @@ Le spese relative alle prestazioni rese dal Ministero della salute ((...)) per l
 
 1.
 
-Per quanto non espressamente previsto dal presente decreto ai prodotti alimentari di cui all'art. 1 si applicano le modalita' di etichettatura, di presentazione e di pubblicita' previsti dal [decreto del Presidente della Repubblica 18 maggio 1982, n. 322](Attuazione%20della%20direttiva%20CEE%20n.%2079-112%20relativa%20alletichettatura%20dei%20prodotti%20alimentari%20destinati%20al%20consumatore%20finale%20ed%20alla%20relativa%20pubblicita%20nonche%20della%20direttiva%20CEE%20n.%2077-94%20_1b442d5f130f.md), nonche' le disposizioni della [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), come modificata dalla [legge 26 febbraio 1963, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-26;441) e del [decreto-legge 18 giugno 1986, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-06-18;282), convertito, con modificazioni, nella [legge 7 agosto 1986, n. 462](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-07;462).
+Per quanto non espressamente previsto dal presente decreto ai prodotti alimentari di cui all'art. 1 si applicano le modalita' di etichettatura, di presentazione e di pubblicita' previsti dal [decreto del Presidente della Repubblica 18 maggio 1982, n. 322](Attuazione%20della%20direttiva%20CEE%20n.%2079-112%20relativa%20alletichettatura%20dei%20prodotti%20alimentari%20destinati%20al%20consumatore%20finale%20ed%20alla%20relativa%20pubblicita%20nonche%20della%20direttiva%20CEE%20n.%2077-94%20_1b442d5f130f.md), nonche' le disposizioni della [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), come modificata dalla [legge 26 febbraio 1963, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-26;441) e del [decreto-legge 18 giugno 1986, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-06-18;282), convertito, con modificazioni, nella [legge 7 agosto 1986, n. 462](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20giugno%201986%20n.%20282%20recante%20misure%20urgenti%20in%20materia%20di%20prevenzione%20e%20repressione%20delle%20sofisticazioni%20alimentari.md).
 
 ## Art. 14. — E s e n z i o n i
 
@@ -345,7 +345,7 @@ Fino all'emanazione di disposizioni specifiche in materia di additivi edulcorant
 
 1.
 
-Sono abrogate la [legge 29 marzo 1951, n. 327, e l'art. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-03-29;327#art_15) del [decreto del Presidente della Repubblica 18 maggio 1982, n. 322](Attuazione%20della%20direttiva%20CEE%20n.%2079-112%20relativa%20alletichettatura%20dei%20prodotti%20alimentari%20destinati%20al%20consumatore%20finale%20ed%20alla%20relativa%20pubblicita%20nonche%20della%20direttiva%20CEE%20n.%2077-94%20_1b442d5f130f.md).
+Sono abrogate la [legge 29 marzo 1951, n. 327, e l'art. 15](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20produzione%20e%20vendita%20di%20alimenti%20per%20la%20prima%20infanzia%20e%20di%20prodotti%20dietetici.md) del [decreto del Presidente della Repubblica 18 maggio 1982, n. 322](Attuazione%20della%20direttiva%20CEE%20n.%2079-112%20relativa%20alletichettatura%20dei%20prodotti%20alimentari%20destinati%20al%20consumatore%20finale%20ed%20alla%20relativa%20pubblicita%20nonche%20della%20direttiva%20CEE%20n.%2077-94%20_1b442d5f130f.md).
 
 ## Art. 18. — Regolamento di attuazione
 
@@ -355,7 +355,7 @@ Con decreto del Presidente della Repubblica su proposta del Ministro della sanit
 
 2.
 
-Le disposizioni del [decreto del Presidente della Repubblica del 30 maggio 1953, n. 578](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1953-05-30;578), modificato con [decreto del Presidente della Repubblica 24 gennaio 1991, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1991-01-24;56), continuano ad applicarsi, in quanto compatibili, fino all'entrata in vigore del regolamento di esecuzione di cui al comma 1.
+Le disposizioni del [decreto del Presidente della Repubblica del 30 maggio 1953, n. 578](../DPR/Approvazione%20del%20regolamento%20per%20lesecuzione%20della%20legge%2029%20marzo%201951%20n.%20327%20che%20disciplina%20la%20produzione%20e%20il%20commercio%20degli%20alimenti%20per%20la%20prima%20Infanzia%20e%20prodotti%20dietetici.md), modificato con [decreto del Presidente della Repubblica 24 gennaio 1991, n. 56](../DPR/Regolamento%20recante%20modificazione%20al%20decreto%20del%20Presidente%20della%20Repubblica%2030%20maggio%201953%20n.%20578%20concernente%20il%20regolamento%20di%20esecuzione%20della%20legge%2029%20marzo%201951%20n.%20327%20sulla%20discipli_8535a0614472.md), continuano ad applicarsi, in quanto compatibili, fino all'entrata in vigore del regolamento di esecuzione di cui al comma 1.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

@@ -83,7 +83,7 @@ Note all'art. 1:
  g) acqua minerale naturale, come definita nel [decreto legislativo 25 gennaio 1992, n. 105](Attuazione%20della%20direttiva%20n.%2080-777-CEE%20relativa%20alla%20utilizzazione%20e%20alla%20commercializzazione%20delle%20acque%20minerali%20naturali.md), e acqua di sorgente;
  h) caffe' (escluso il caffe' istantaneo aromatizzato) ed estratti di caffe';
  i) te' in foglie non aromatizzato;
- l) zuccheri, come definiti nella [legge 31 marzo 1980, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-31;139);
+ l) zuccheri, come definiti nella [legge 31 marzo 1980, n. 139](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recepimento%20della%20direttiva%20adottata%20dal%20Consiglio%20della%20Comunita%20economica%20europea%20riguardante%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20concernenti%20determinati%20tipi%20di%20zucch_6f7de1cb98ea.md);
  m) paste alimentari secche;
  n) latticello naturale non aromatizzato (escluso il latticello sterilizzato);
  o) alimenti per lattanti e per la prima infanzia, come definiti nel [decreto legislativo 27 gennaio 1992, n. 111](Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), compresi gli alimenti per lattanti e la prima infanzia in cattive condizioni di salute. Questi prodotti alimentari sono oggetto delle disposizioni riportate nell'allegato XIII;

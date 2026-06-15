@@ -14,11 +14,11 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Visto l'[articolo 117 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117);
 
-((Vista la [legge 22 aprile 2021, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-04-22;53) e, in particolare, l'articolo 1 e l'allegato A;
+((Vista la [legge 22 aprile 2021, n. 53](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202019-2020.%2021G00063.md) e, in particolare, l'articolo 1 e l'allegato A;
 
 Vista la [direttiva (UE) 2019/1024 del Parlamento europeo e del Consiglio, del 20 giugno 2019](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2019;1024), relativa all'apertura dei dati e al riutilizzo dell'informazione del settore pubblico;))
 
-Vista la [legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62), ed in particolare l'articolo 1 e l'allegato A;
+Vista la [legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), ed in particolare l'articolo 1 e l'allegato A;
 
 Vista la [direttiva 2003/98/CE del Parlamento europeo e del Consiglio del 17 novembre 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;98), relativa al riutilizzo dell'informazione del settore pubblico;
 
@@ -26,7 +26,7 @@ Vista la [direttiva 2003/98/CE del Parlamento europeo e del Consiglio del 17 nov
 
 Vista la [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633);
 
-Vista la [legge 24 ottobre 1977, n. 801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-10-24;801);
+Vista la [legge 24 ottobre 1977, n. 801](../Atti%20normativi%20abrogati%20%28in%20originale%29/Istituzione%20e%20ordinamento%20dei%20servizi%20per%20le%20informazioni%20e%20la%20sicurezza%20e%20disciplina%20del%20segreto%20di%20Stato.md);
 
 Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
 
@@ -34,25 +34,25 @@ Visto il [decreto legislativo 17 marzo 1995, n. 157](Attuazione%20della%20dirett
 
 Vista la [legge 7 giugno 2000, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-06-07;150);
 
-Visto il [decreto legislativo 18 agosto 2000, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267);
+Visto il [decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md);
 
 Visto il [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md);
 
 Visto il [decreto legislativo 11 novembre 2003, n. 333](Attuazione%20della%20direttiva%202000-52-CE%20che%20modifica%20la%20direttiva%2080-723-CEE%20relativa%20alla%20trasparenza%20delle%20relazioni%20finanziarie%20tra%20gli%20Stati%20membri%20e%20le%20loro%20imprese%20pubbliche%20nonche%20al_93ca34a40abf.md);
 
-Vista la [legge 30 dicembre 2004, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311);
+Vista la [legge 30 dicembre 2004, n. 311](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md);
 
-Visto il [decreto legislativo 7 marzo 2005, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82);
+Visto il [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md);
 
 ((Vista la [legge 3 agosto 2007, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-08-03;124);
 
-Visto il [decreto legislativo 27 gennaio 2010, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;32);
+Visto il [decreto legislativo 27 gennaio 2010, n. 32](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202007-2-CE%20che%20istituisce%20uninfrastruttura%20per%20linformazione%20territoriale%20nella%20Comunita%20europea%20INSPIRE.%2010G0043.md);
 
-Visto il [decreto legislativo 14 marzo 2013, n. 33](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-03-14;33);
+Visto il [decreto legislativo 14 marzo 2013, n. 33](../Decreti%20Legislativi/Riordino%20della%20disciplina%20riguardante%20il%20diritto%20di%20accesso%20civico%20e%20gli%20obblighi%20di%20pubblicita%20trasparenza%20e%20diffusione%20di%20informazioni%20da%20parte%20delle%20pubbliche%20amministrazioni.%2013G00076.md);
 
-Visto il [decreto legislativo 18 maggio 2015, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-05-18;102);
+Visto il [decreto legislativo 18 maggio 2015, n. 102](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-37-UE%20che%20modifica%20la%20direttiva%202003-98-CE%20relativa%20al%20riutilizzo%20dellinformazione%20del%20settore%20pubblico.%2015G00116.md);
 
-Visto il [decreto legislativo 18 aprile 2016, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-18;50);))
+Visto il [decreto legislativo 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md);))
 
 Acquisito il parere del Garante per la protezione dei dati personali;
 
@@ -70,7 +70,7 @@ Il presente decreto legislativo disciplina le modalita' di riutilizzo dei docume
 
 2.
 
-Le pubbliche amministrazioni e gli organismi di diritto pubblico provvedono affinche' i documenti cui si applica il presente decreto legislativo siano riutilizzabili a fini commerciali o non commerciali secondo le modalita' previste dal medesimo decreto, inclusi i documenti i cui diritti di proprieta' intellettuale sono detenuti da biblioteche, comprese le biblioteche universitarie, i musei e gli archivi, qualora il riutilizzo di questi ultimi documenti sia autorizzato in conformita' alle disposizioni di cui alla Parte II, Titolo II, ((Capo I e)) Capo III, del [decreto legislativo 22 gennaio 2004, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-22;42), nonche' a quelle di cui alla Parte II, Titolo VII, Capo II, del [decreto legislativo 30 giugno 2003 n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md).
+Le pubbliche amministrazioni e gli organismi di diritto pubblico provvedono affinche' i documenti cui si applica il presente decreto legislativo siano riutilizzabili a fini commerciali o non commerciali secondo le modalita' previste dal medesimo decreto, inclusi i documenti i cui diritti di proprieta' intellettuale sono detenuti da biblioteche, comprese le biblioteche universitarie, i musei e gli archivi, qualora il riutilizzo di questi ultimi documenti sia autorizzato in conformita' alle disposizioni di cui alla Parte II, Titolo II, ((Capo I e)) Capo III, del [decreto legislativo 22 gennaio 2004, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), nonche' a quelle di cui alla Parte II, Titolo VII, Capo II, del [decreto legislativo 30 giugno 2003 n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md).
 
 ((
 
@@ -82,7 +82,7 @@ Il presente decreto si applica ai dati della ricerca conformemente alle condizio
 
 Fatto salvo quanto previsto all'articolo 3, comma 1, lettera a-bis), il presente decreto disciplina, altresi', il riutilizzo dei documenti nella disponibilita' delle imprese pubbliche:
                         a)
-                            attive nei settori di cui agli [articoli da 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-18;50#art_115) [a 121 del decreto legislativo 18 aprile 2016, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-04-18;50#art_121);
+                            attive nei settori di cui agli [articoli da 115](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md) [a 121 del decreto legislativo 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md);
                         b)
                             che agiscono in qualita' di operatori di servizio pubblico ai sensi dell'articolo 2 del regolamento (CE) n. 1370/2007;
                         c)
@@ -96,7 +96,7 @@ La disciplina di cui al comma 2-ter si applica anche alle imprese private di tra
 
 2-quinquies.
 
-Il presente decreto disciplina altresi' il riutilizzo dei documenti ai quali si applica il [decreto legislativo 27 gennaio 2010, n. 32](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-01-27;32), di recepimento della [direttiva 2007/2/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2007;2).
+Il presente decreto disciplina altresi' il riutilizzo dei documenti ai quali si applica il [decreto legislativo 27 gennaio 2010, n. 32](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202007-2-CE%20che%20istituisce%20uninfrastruttura%20per%20linformazione%20territoriale%20nella%20Comunita%20europea%20INSPIRE.%2010G0043.md), di recepimento della [direttiva 2007/2/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2007;2).
 
 ))
 
@@ -106,7 +106,7 @@ Il presente decreto si applica altresi' quando i documenti di cui al comma 1 son
 
 4.
 
-COMMA ABROGATO DAL [D.LGS. 18 MAGGIO 2015, N. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-05-18;102).
+COMMA ABROGATO DAL [D.LGS. 18 MAGGIO 2015, N. 102](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-37-UE%20che%20modifica%20la%20direttiva%202003-98-CE%20relativa%20al%20riutilizzo%20dellinformazione%20del%20settore%20pubblico.%2015G00116.md).
 
 ## Art. 2. — Definizioni
 
@@ -119,7 +119,7 @@ Ai fini del presente decreto si intende per:
  b-bis) universita': qualsiasi organismo pubblico che fornisce istruzione post-secondaria superiore che conduce a titoli di studio accademici; 
  c) documento: la rappresentazione di atti, fatti e dati a prescindere dal supporto ((, cartaceo o elettronico, registrazione sonora, visiva o audiovisiva o qualsiasi parte di tale contenuto)) nella disponibilita' della pubblica amministrazione o dell'organismo di diritto pubblico. La definizione di documento non comprende i programmi informatici; 
  c-bis) formato leggibile meccanicamente: un formato di file strutturato in modo tale da consentire alle applicazioni software di individuare, riconoscere ed estrarre facilmente dati specifici, comprese dichiarazioni individuali di fatto e la loro struttura interna; 
- c-ter) formato aperto: il formato di cui all'articolo ((1, comma 1, lettera l-bis, del decreto legislativo 7 marzo 2005, n. 82)), del [decreto legislativo 7 marzo 2005, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82), e successive modificazioni;  ((c-quater) dati di tipo aperto: dati come definiti dall'articolo 1, comma 1, lettera l-ter), del decreto legislativo 7 marzo 2005, n. 82;))
+ c-ter) formato aperto: il formato di cui all'articolo ((1, comma 1, lettera l-bis, del decreto legislativo 7 marzo 2005, n. 82)), del [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), e successive modificazioni;  ((c-quater) dati di tipo aperto: dati come definiti dall'articolo 1, comma 1, lettera l-ter), del decreto legislativo 7 marzo 2005, n. 82;))
                             ((c-quinquies) anonimizzazione: la procedura mirante a rendere anonimi documenti, rendendoli non riconducibili a una persona fisica identificata o identificabile, ovvero la procedura mirante a rendere anonimi dati personali in modo da impedire o da non consentire piu' l'identificazione dell'interessato; 
  c-sexies) dati dinamici: documenti informatici, soggetti ad aggiornamenti frequenti o in tempo reale, in particolare a causa della loro volatilita' o rapida obsolescenza; 
  c-septies) dati della ricerca: documenti informatici, diversi dalle pubblicazioni scientifiche, raccolti o prodotti nel corso della ricerca scientifica e utilizzati come elementi di prova nel processo di ricerca, o comunemente accettati nella comunita' di ricerca come necessari per convalidare le conclusioni e i risultati della ricerca; 
@@ -156,19 +156,19 @@ Ai fini del presente decreto si intende per:
                         e)
                             quelli comunque nella disponibilita' degli organismi di cui ((alla legge 3 agosto 2007, n. 124));
                         f)
-                            LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-06-04;96);
+                            LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md);
                         g)
                             quelli esclusi dall'accesso ai sensi dell'[articolo 24 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_24), ((nonche' ai sensi dell'articolo 5-bis del decreto legislativo 14 marzo 2013, n. 33,)) o per motivi di tutela del segreto statistico, quali disciplinati dall'articolo 9 del decreto legislativo 6 settembre 1989. n. 322;
                         h)
-                            quelli sui cui terzi detengono diritti di proprieta' intellettuale ai sensi della [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), ovvero diritti di proprieta' industriale ai sensi del [decreto legislativo 10 febbraio 2005, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30).
+                            quelli sui cui terzi detengono diritti di proprieta' intellettuale ai sensi della [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), ovvero diritti di proprieta' industriale ai sensi del [decreto legislativo 10 febbraio 2005, n. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md).
                         h-bis)
                             quelli, non contenenti dati pubblici, il cui accesso e' disciplinato dal Capo V della [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
                         h-ter)
                             parti di documenti contenenti solo logotipi, stemmi e distintivi;
                         h-quater)
-                            quelli il cui accesso, ai sensi delle previsioni del [regolamento UE 2016/679](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;679) e del [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) nonche' del [decreto legislativo 18 maggio 2018, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2018-05-18;51), e' escluso o limitato, ovvero risulti pregiudizievole per la tutela della vita privata e dell'integrita' degli individui, nonche' alle parti di documenti accessibili che contengono dati personali il cui riutilizzo e' stato definito per legge incompatibile con le previsioni delle suddette disposizioni normative;
+                            quelli il cui accesso, ai sensi delle previsioni del [regolamento UE 2016/679](https://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:2016;679) e del [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md) nonche' del [decreto legislativo 18 maggio 2018, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202016-680%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2027%20aprile%202016%20relativa%20alla%20protezione%20delle%20persone%20fisiche%20con%20riguardo%20al%20trattamento%20dei%20dati%20person_64bbd5b37b8b.md), e' escluso o limitato, ovvero risulti pregiudizievole per la tutela della vita privata e dell'integrita' degli individui, nonche' alle parti di documenti accessibili che contengono dati personali il cui riutilizzo e' stato definito per legge incompatibile con le previsioni delle suddette disposizioni normative;
                         h-quinquies)
-                            quelli il cui accesso e' escluso o limitato per motivi di protezione delle informazioni sensibili relative alle infrastrutture critiche definite all'[articolo 2 del decreto legislativo 11 aprile 2011, n. 61](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-04-11;61#art_2);
+                            quelli il cui accesso e' escluso o limitato per motivi di protezione delle informazioni sensibili relative alle infrastrutture critiche definite all'[articolo 2 del decreto legislativo 11 aprile 2011, n. 61](../Decreti%20Legislativi/Attuazione%20della%20Direttiva%202008-114-CE%20recante%20lindividuazione%20e%20la%20designazione%20delle%20infrastrutture%20critiche%20europee%20e%20la%20valutazione%20della%20necessita%20di%20migliorarne%20la%20protezione.%2011G0101.md);
                         h-sexies)
                             documenti diversi da quelli di cui all'articolo 2, comma 1, lettera c-septies), nella disponibilita' di organizzazioni che svolgono attivita' di ricerca e di organizzazioni che finanziano la ricerca, comprese le organizzazioni preposte al trasferimento dei risultati della ricerca.
 
@@ -188,15 +188,15 @@ Sono fatte salve:
                         a)
                             la disciplina sulla protezione dei dati personali di cui al [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md);
                         b)
-                            la disciplina sulla protezione del diritto d'autore di cui alla [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633). Gli obblighi previsti dal presente decreto legislativo si applicano compatibilmente con le disposizioni degli accordi internazionali sulla protezione dei diritti di proprieta' intellettuale e, in particolare, della Convenzione di Berna per la protezione delle opere letterarie ed artistiche del 1886, ratificata ai sensi della [legge 20 giugno 1978, n. 399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-20;399), dell'Accordo TRIPS sugli aspetti dei diritti di proprieta' intellettuale attinenti al commercio del 1994, ratificato e reso esecutivo ai sensi della [legge 29 dicembre 1994, n. 747](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-29;747), e del Trattato sul diritto d'autore (WCT), adottato a Ginevra il 20 dicembre 1996 ed entrato in vigore per tutti gli Stati membri dell'Unione Europea il 14 marzo 2010;
+                            la disciplina sulla protezione del diritto d'autore di cui alla [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633). Gli obblighi previsti dal presente decreto legislativo si applicano compatibilmente con le disposizioni degli accordi internazionali sulla protezione dei diritti di proprieta' intellettuale e, in particolare, della Convenzione di Berna per la protezione delle opere letterarie ed artistiche del 1886, ratificata ai sensi della [legge 20 giugno 1978, n. 399](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20di%20Berna%20per%20la%20protezione%20delle%20opere%20letterarie%20ed%20artistiche%20firmata%20il%209%20settembre%201886%20completata%20a%20Parigi%20il%204%20maggio%201896%20riveduta%20a%20Berlin_aaf093302758.md), dell'Accordo TRIPS sugli aspetti dei diritti di proprieta' intellettuale attinenti al commercio del 1994, ratificato e reso esecutivo ai sensi della [legge 29 dicembre 1994, n. 747](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20degli%20atti%20concernenti%20i%20risultati%20dei%20negoziati%20dellUruguay%20Round%20adottati%20a%20Marrakech%20il%2015%20aprile%201994.md), e del Trattato sul diritto d'autore (WCT), adottato a Ginevra il 20 dicembre 1996 ed entrato in vigore per tutti gli Stati membri dell'Unione Europea il 14 marzo 2010;
                         c)
                             la disciplina in materia di accesso ai documenti amministrativi, di cui al Capo V della [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);
                         d)
-                            LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-06-04;96);
+                            LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md);
                         e)
-                            le disposizioni in materia di proprieta' industriale di cui al [decreto legislativo 10 febbraio 2005, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30);
+                            le disposizioni in materia di proprieta' industriale di cui al [decreto legislativo 10 febbraio 2005, n. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md);
                         f)
-                            LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-06-04;96).
+                            LETTERA ABROGATA DALLA [L. 4 GIUGNO 2010, N. 96](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md).
 
 ## Art. 5. — (( (Richiesta di riutilizzo di documenti). ))
 
@@ -306,7 +306,7 @@ L'elenco delle pubbliche amministrazioni e degli organismi di diritto pubblico d
 
 4.
 
-Per i casi di cui al comma 3, lettere b) e c), l'importo totale delle tariffe e' calcolato in base a parametri oggettivi, trasparenti e verificabili ed e' determinato secondo il criterio del costo marginale del servizio con decreti dei Ministri competenti, di concerto con il Ministro dell'economia e delle finanze sentita l'Agenzia per l'Italia digitale, sono fatte salve le disposizioni di cui agli [articoli 1, commi 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;5#art_1-com370), [371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;5#art_1-com371) e [372, della legge 30 dicembre 2004, n. 311 e 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;5#art_1-com372), [comma 4-bis, del decreto-legge 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_com4bis), convertito, con modificazioni, dalla [legge 12 luglio 2011, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-07-12;106).
+Per i casi di cui al comma 3, lettere b) e c), l'importo totale delle tariffe e' calcolato in base a parametri oggettivi, trasparenti e verificabili ed e' determinato secondo il criterio del costo marginale del servizio con decreti dei Ministri competenti, di concerto con il Ministro dell'economia e delle finanze sentita l'Agenzia per l'Italia digitale, sono fatte salve le disposizioni di cui agli [articoli 1, commi 370](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;5#art_1-com370), [371](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;5#art_1-com371) e [372, della legge 30 dicembre 2004, n. 311 e 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;5#art_1-com372), [comma 4-bis, del decreto-legge 13 maggio 2011, n. 70](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-05-13;70#art_com4bis), convertito, con modificazioni, dalla [legge 12 luglio 2011, n. 106](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2013%20maggio%202011%20n.%2070%20concernente%20Semestre%20Europeo%20-%20Prime%20disposizioni%20urgenti%20per%20leconomia.%2011G0152.md).
 
 ))
 
@@ -332,7 +332,7 @@ Nei casi di cui al comma 3, lettere b) e c), il totale delle entrate ricavate, p
 
 8.
 
-Gli introiti delle tariffe di cui ai commi ((precedenti)) sono versati all'entrata del bilancio dello Stato, per essere riassegnati, ai sensi del [decreto del Presidente della Repubblica 10 novembre 1999, n. 469](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1999-11-10;469), allo stato di previsione delle Amministrazioni interessate.
+Gli introiti delle tariffe di cui ai commi ((precedenti)) sono versati all'entrata del bilancio dello Stato, per essere riassegnati, ai sensi del [decreto del Presidente della Repubblica 10 novembre 1999, n. 469](../DPR/Regolamento%20recante%20norme%20di%20semplificazione%20del%20procedimento%20per%20il%20versamento%20di%20somme%20allentrata%20e%20la%20riassegnazione%20alle%20unita%20previsionali%20di%20base%20per%20la%20spesa%20del%20bilancio%20dello%20Sta_31ec44e7f0e7.md), allo stato di previsione delle Amministrazioni interessate.
 
 9.
 
@@ -391,7 +391,7 @@ Per la ricerca di dati in formato aperto, le pubbliche amministrazioni, gli orga
 
 3.
 
-Le pubbliche amministrazioni e gli organismi di diritto pubblico utilizzano le modalita' per facilitare la conservazione dei documenti disponibili per il riutilizzo secondo quanto previsto dall'[articolo 44 del decreto legislativo 7 marzo 2005, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82#art_44).
+Le pubbliche amministrazioni e gli organismi di diritto pubblico utilizzano le modalita' per facilitare la conservazione dei documenti disponibili per il riutilizzo secondo quanto previsto dall'[articolo 44 del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
 
 ))
 
@@ -401,7 +401,7 @@ Le pubbliche amministrazioni e gli organismi di diritto pubblico utilizzano le m
 
 1.
 
-I dati della ricerca sono riutilizzabili a fini commerciali o non commerciali conformemente a quanto previsto dal presente decreto legislativo, nel rispetto della disciplina sulla protezione dei dati personali, ove applicabile, degli interessi commerciali, nonche' della normativa in materia di diritti di proprieta' intellettuale ai sensi della [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), e dei diritti di proprieta' industriale ai sensi del [decreto legislativo 10 febbraio 2005, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-10;30).
+I dati della ricerca sono riutilizzabili a fini commerciali o non commerciali conformemente a quanto previsto dal presente decreto legislativo, nel rispetto della disciplina sulla protezione dei dati personali, ove applicabile, degli interessi commerciali, nonche' della normativa in materia di diritti di proprieta' intellettuale ai sensi della [legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633), e dei diritti di proprieta' industriale ai sensi del [decreto legislativo 10 febbraio 2005, n. 30](../Decreti%20Legislativi/Codice%20della%20proprieta%20industriale%20a%20norma%20dellarticolo%2015%20della%20legge%2012%20dicembre%202002%20n.%20273.md).
 
 2.
 
@@ -447,7 +447,7 @@ I diritti di esclusiva esistenti al 17 luglio 2013 non conformi alle condizioni 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 18 maggio 2015, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-05-18;102) ha disposto (con l'art. 3, comma 1) che "Gli accordi di esclusiva di cui all'articolo 1, comma 9, lettera a), del presente decreto legislativo stipulati dopo il 17 luglio 2013 sono adeguati alle disposizioni del predetto comma 9 entro il termine di sei mesi dalla data di entrata in vigore del medesimo decreto. Decorso tale termine, la durata dei predetti accordi e' ridotta, ove superiore, a dieci anni, fermo restando la possibilita' di riesame ai sensi del secondo periodo della medesima lettera a) del comma 9".
+Il [D.Lgs. 18 maggio 2015, n. 102](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202013-37-UE%20che%20modifica%20la%20direttiva%202003-98-CE%20relativa%20al%20riutilizzo%20dellinformazione%20del%20settore%20pubblico.%2015G00116.md) ha disposto (con l'art. 3, comma 1) che "Gli accordi di esclusiva di cui all'articolo 1, comma 9, lettera a), del presente decreto legislativo stipulati dopo il 17 luglio 2013 sono adeguati alle disposizioni del predetto comma 9 entro il termine di sei mesi dalla data di entrata in vigore del medesimo decreto. Decorso tale termine, la durata dei predetti accordi e' ridotta, ove superiore, a dieci anni, fermo restando la possibilita' di riesame ai sensi del secondo periodo della medesima lettera a) del comma 9".
 
 ## Art. 12. — (( (Regole tecniche). ))
 
@@ -455,7 +455,7 @@ Il [D.Lgs. 18 maggio 2015, n. 102](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 1.
 
-L'Agenzia per l'Italia digitale adotta entro 180 giorni le Linee guida contenenti le regole tecniche per l'attuazione del presente decreto con le modalita' previste dall'[articolo 71, del decreto legislativo 7 marzo 2005, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82#art_71). In caso di violazione delle disposizioni introdotte dalle Linee guida, il soggetto interessato puo' rivolgersi al difensore civico per il digitale di cui all'[articolo 17, comma 1-quater, del Codice dell'amministrazione digitale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82#art_17-com1quater) e si applicano le sanzioni previste dall'articolo 18-bis, comma 5, dello stesso Codice.
+L'Agenzia per l'Italia digitale adotta entro 180 giorni le Linee guida contenenti le regole tecniche per l'attuazione del presente decreto con le modalita' previste dall'[articolo 71, del decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md). In caso di violazione delle disposizioni introdotte dalle Linee guida, il soggetto interessato puo' rivolgersi al difensore civico per il digitale di cui all'[articolo 17, comma 1-quater, del Codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md) e si applicano le sanzioni previste dall'articolo 18-bis, comma 5, dello stesso Codice.
 
 ))
 

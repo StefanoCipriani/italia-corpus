@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 21 dicembre 1999, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-21;526);
+Vista la [legge 21 dicembre 1999, n. 526](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md);
 
 Visto il [decreto legislativo 6 novembre 2007, n. 191](Attuazione%20della%20direttiva%202004-23-CE%20sulla%20definizione%20delle%20norme%20di%20qualita%20e%20di%20sicurezza%20per%20la%20donazione%20lapprovvigionamento%20il%20controllo%20la%20lavorazione%20la%20conservazione%20lo%20stoccagg_8283b17d3d40.md), recante attuazione della [direttiva del Parlamento europeo e del Consiglio 2004/23/CE del 31 marzo 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;23), sulla definizione di norme di qualita' e di sicurezza per la donazione, l'approvvigionamento, il controllo, la lavorazione, la conservazione, lo stoccaggio e la distribuzione di tessuti e cellule umani, con particolare riguardo per i suoi articoli 8, 11, comma 4, e 28, comma 1, lettere a), b) c), d), e), f), g), h) ed i);
 
@@ -20,7 +20,7 @@ Vista la [direttiva 2006/17/CE della Commissione dell'8 febbraio 2006](https://w
 
 Vista la [direttiva 2006/86/CE della Commissione del 24 ottobre 2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;86) che attua la [direttiva 2004/23/CE del Parlamento europeo e del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;23) per quanto riguarda le prescrizioni in tema di rintracciabilita', la notifica di reazioni ed eventi avversi gravi e determinate prescrizioni tecniche per la codifica, la lavorazione, la conservazione, lo stoccaggio e la distribuzione di tessuti e cellule umani;
 
-Vista la [legge 7 luglio 2009, n. 88](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-07;88), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2008;
+Vista la [legge 7 luglio 2009, n. 88](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202008.%2009G0100.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2008;
 
 Vista la [legge 1° aprile 1999, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-01;91), recante disposizioni in materia di trapianti di organi e di tessuti;
 
@@ -30,7 +30,7 @@ Vista la [legge 6 marzo 2001, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 Visto il decreto del Presidente della Repubblica 14 gennaio 1997, pubblicato nella Gazzetta Ufficiale n. 42 del 20 febbraio 1997, recante approvazione dell'atto di indirizzo e coordinamento alle regioni e alle province autonome di Trento e di Bolzano, in materia di requisiti strutturali, tecnologici ed organizzativi minimi per l'esercizio delle attivita' sanitarie da parte delle strutture pubbliche e private;
 
-Visto il [decreto legislativo 30 dicembre 1992, n. 502](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502), come modificato dalla [legge 30 novembre 1998, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-11-30;419), recante delega al Governo per la razionalizzazione del Servizio sanitario nazionale;
+Visto il [decreto legislativo 30 dicembre 1992, n. 502](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), come modificato dalla [legge 30 novembre 1998, n. 419](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20razionalizzazione%20del%20Servizio%20sanitario%20nazionale%20e%20per%20ladozione%20di%20un%20testo%20unico%20in%20materia%20di%20organizzazione%20e%20funzionamento%20del%20Servizio%20sanitario%20nazionale_e43e1f3577a8.md), recante delega al Governo per la razionalizzazione del Servizio sanitario nazionale;
 
 Visto il decreto del Presidente del Consiglio dei Ministri in data 1° settembre 2000, pubblicato nella Gazzetta Ufficiale n. 274 del 23 novembre 2000, recante approvazione dell'atto di indirizzo e coordinamento in materia di requisiti strutturali, tecnologici ed organizzativi minimi per l'esercizio delle attivita' sanitarie relative alla medicina trasfusionale;
 
@@ -56,7 +56,7 @@ Visto l'Accordo 10 luglio 2003 tra il Ministero della salute, le regioni e le pr
 
 Visto l'Accordo 5 ottobre 2006 tra il Ministero della salute, le regioni e le province autonome di Trento e di Bolzano in materia di ricerca e reperimento di cellule staminali emopoietiche presso registri e banche italiane ed estere;
 
-Visto il [decreto legislativo 20 dicembre 2007, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-12-20;261), di revisione del [decreto legislativo 19 agosto 2005, n. 191](Attuazione%20della%20direttiva%202002-98-CE%20che%20stabilisce%20norme%20di%20qualita%20e%20di%20sicurezza%20per%20la%20raccolta%20il%20controllo%20la%20lavorazione%20la%20conservazione%20e%20la%20distribuzione%20del%20sangue%20umano%20e%20dei_efd6f1eae042.md), recante attuazione della [direttiva 2002/98/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;98), che stabilisce norme di qualita' e di sicurezza per la raccolta, il controllo, la lavorazione, la conservazione e la distribuzione del sangue umano e dei suoi componenti;
+Visto il [decreto legislativo 20 dicembre 2007, n. 261](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20del%20decreto%20legislativo%2019%20agosto%202005%20n.%20191%20recante%20attuazione%20della%20direttiva%202002-98-CE%20che%20stabilisce%20norme%20di%20qualita%20e%20di%20sicurezza%20per%20la%20raccolta%20il%20controllo%20la%20lavora_6c5b6162708c.md), di revisione del [decreto legislativo 19 agosto 2005, n. 191](Attuazione%20della%20direttiva%202002-98-CE%20che%20stabilisce%20norme%20di%20qualita%20e%20di%20sicurezza%20per%20la%20raccolta%20il%20controllo%20la%20lavorazione%20la%20conservazione%20e%20la%20distribuzione%20del%20sangue%20umano%20e%20dei_efd6f1eae042.md), recante attuazione della [direttiva 2002/98/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2002;98), che stabilisce norme di qualita' e di sicurezza per la raccolta, il controllo, la lavorazione, la conservazione e la distribuzione del sangue umano e dei suoi componenti;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 ottobre 2009;
 
@@ -120,7 +120,7 @@ Ai fini del presente decreto si intendono per:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 16 dicembre 2016, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-12-16;256) ha disposto (con l'art. 8, comma 1) che le presenti modifiche si applicano a decorrere dal 29 aprile 2017.
+Il [D.Lgs. 16 dicembre 2016, n. 256](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202015-565-UE%20che%20modifica%20la%20direttiva%202006-86-CE%20per%20quanto%20riguarda%20determinate%20prescrizioni%20tecniche%20relative%20alla%20codifica%20di%20tessuti%20e%20cellule%20umani.%2017G00004.md) ha disposto (con l'art. 8, comma 1) che le presenti modifiche si applicano a decorrere dal 29 aprile 2017.
 
 ## Art. 3. — Approvvigionamento di tessuti e cellule umani
 
@@ -357,7 +357,7 @@ L'Istituto dei tessuti e l'organizzazione responsabile delle applicazioni sull'u
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 16 dicembre 2016, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-12-16;256) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
+Il [D.Lgs. 16 dicembre 2016, n. 256](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202015-565-UE%20che%20modifica%20la%20direttiva%202006-86-CE%20per%20quanto%20riguarda%20determinate%20prescrizioni%20tecniche%20relative%20alla%20codifica%20di%20tessuti%20e%20cellule%20umani.%2017G00004.md) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
 
 ## Art. 15. — (( (Sistema di codifica europeo).))
 
@@ -377,7 +377,7 @@ c) ai tessuti e alle cellule importati in Italia in caso di emergenza allorche' 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 16 dicembre 2016, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-12-16;256) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
+Il [D.Lgs. 16 dicembre 2016, n. 256](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202015-565-UE%20che%20modifica%20la%20direttiva%202006-86-CE%20per%20quanto%20riguarda%20determinate%20prescrizioni%20tecniche%20relative%20alla%20codifica%20di%20tessuti%20e%20cellule%20umani.%2017G00004.md) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
 
 ## Art. 15-bis. — (( (Formato del codice unico europeo).))
 
@@ -399,7 +399,7 @@ Il codice unico europeo, in formato leggibile all'occhio umano, e' preceduto dal
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 16 dicembre 2016, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-12-16;256) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
+Il [D.Lgs. 16 dicembre 2016, n. 256](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202015-565-UE%20che%20modifica%20la%20direttiva%202006-86-CE%20per%20quanto%20riguarda%20determinate%20prescrizioni%20tecniche%20relative%20alla%20codifica%20di%20tessuti%20e%20cellule%20umani.%2017G00004.md) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
 
 ## Art. 15-ter. — (( (Prescrizioni relative all'applicazione del codice unico europeo).))
 
@@ -467,7 +467,7 @@ Le regioni e le province autonome sono tenute a comunicare al CNT qualsiasi modi
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 16 dicembre 2016, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-12-16;256) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
+Il [D.Lgs. 16 dicembre 2016, n. 256](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202015-565-UE%20che%20modifica%20la%20direttiva%202006-86-CE%20per%20quanto%20riguarda%20determinate%20prescrizioni%20tecniche%20relative%20alla%20codifica%20di%20tessuti%20e%20cellule%20umani.%2017G00004.md) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
 
 ## Art. 16. — Recepimento
 
@@ -485,20 +485,20 @@ Con accordo da sancire in sede di Conferenza Stato-regioni sono stabilite le mod
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 16 dicembre 2016, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-12-16;256) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
+Il [D.Lgs. 16 dicembre 2016, n. 256](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202015-565-UE%20che%20modifica%20la%20direttiva%202006-86-CE%20per%20quanto%20riguarda%20determinate%20prescrizioni%20tecniche%20relative%20alla%20codifica%20di%20tessuti%20e%20cellule%20umani.%2017G00004.md) ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.
 
 ## Art. 17. — Clausola di cedevolezza
 
 1.
 
-In relazione a quanto disposto dall'[articolo 117, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117-com5) e dall'[articolo 16, comma 3, della legge 4 febbraio 2005, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-02-04;11#art_16-com3), le disposizioni del presente decreto legislativo riguardanti ambiti di competenza legislativa delle regioni e delle province autonome di Trento e di Bolzano si applicano, nell'esercizio del potere sostitutivo dello Stato e con carattere di cedevolezza, a decorrere dalla data di entrata in vigore del presente decreto legislativo nelle regioni e nelle province autonome nelle quali non sia ancora adottata la normativa di attuazione regionale o provinciale e perdono comunque efficacia dalla data di entrata in vigore di quest'ultima, fermi restando i principi fondamentali ai sensi dell'articolo 117, comma terzo, della Costituzione.
+In relazione a quanto disposto dall'[articolo 117, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117-com5) e dall'[articolo 16, comma 3, della legge 4 febbraio 2005, n. 11](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20dellUnione%20europea%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), le disposizioni del presente decreto legislativo riguardanti ambiti di competenza legislativa delle regioni e delle province autonome di Trento e di Bolzano si applicano, nell'esercizio del potere sostitutivo dello Stato e con carattere di cedevolezza, a decorrere dalla data di entrata in vigore del presente decreto legislativo nelle regioni e nelle province autonome nelle quali non sia ancora adottata la normativa di attuazione regionale o provinciale e perdono comunque efficacia dalla data di entrata in vigore di quest'ultima, fermi restando i principi fondamentali ai sensi dell'articolo 117, comma terzo, della Costituzione.
 
 Note all'[art. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_17): 
  - L'[art. 117, terzo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117-com3) e [quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117-com5), cosi' recita: 
  «Sono materie di legislazione concorrente quelle relative a: rapporti internazionali e con l'Unione europea delle regioni; commercio con l'estero; tutela e sicurezza del lavoro; istruzione, salva l'autonomia delle istituzioni scolastiche e con esclusione della istruzione e della formazione professionale; professioni; ricerca scientifica e tecnologica e sostegno all'innovazione per i settori produttivi; tutela della salute; alimentazione; ordinamento sportivo; protezione civile; governo del territorio; porti e aeroporti civili; grandi reti di trasporto e di navigazione; ordinamento della comunicazione; produzione, trasporto e distribuzione nazionale dell'energia; previdenza complementare e integrativa; armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica e del sistema tributario; valorizzazione dei beni culturali e ambientali e promozione e organizzazione di attivita' culturali; casse di risparmio, casse rurali, aziende di credito a carattere regionale; enti di credito fondiario e agrario a carattere regionale. Nelle materie di legislazione concorrente spetta alle Regioni la potesta' legislativa, salvo che per la determinazione dei principi fondamentali, riservata alla legislazione dello Stato. 
  (Omissis). 
  Le Regioni e le Province autonome di Trento e di Bolzano, nelle materie di loro competenza, partecipano alle decisioni dirette alla formazione degli atti normativi comunitari e provvedono all'attuazione e all'esecuzione degli accordi internazionali e degli atti dell'Unione europea, nel rispetto delle norme di procedura stabilite da legge dello Stato, che disciplina le modalita' di esercizio del potere sostitutivo in caso di inadempienza.» 
- - L'[art. 16, comma 3, della legge 4 febbraio 2005, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-02-04;11#art_16-com3), pubblicata nella Gazzetta Ufficiale 15 febbraio 2005, n. 37, cosi' recita: 
+ - L'[art. 16, comma 3, della legge 4 febbraio 2005, n. 11](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20dellUnione%20europea%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), pubblicata nella Gazzetta Ufficiale 15 febbraio 2005, n. 37, cosi' recita: 
  «3. Ai fini di cui all'[art. 117, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_117-com5), le disposizioni legislative adottate dallo Stato per l'adempimento degli obblighi comunitari, nelle materie di competenza legislativa delle regioni e delle province autonome, si applicano, per le regioni e le province autonome, alle condizioni e secondo la procedura di cui all'art. 11, comma 8, secondo periodo.».
 
 ## Art. 18. — Disposizioni finanziarie
@@ -523,7 +523,7 @@ Note all'[art. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:19
  b) le somme erogate dalle istituzioni delle Comunita' europee per contributi e sovvenzioni a favore dell'Italia; 
  c) le somme da individuare annualmente in sede di legge finanziaria, sulla base delle indicazioni del comitato interministeriale per la programmazione economica (CIPE) ai sensi dell'art. 2, comma 1, lettera c), nell'ambito delle autorizzazioni di spesa recate da disposizioni di legge aventi le stesse finalita' di quelle previste dalle norme comunitarie da attuare; 
  d) le somme annualmente determinate con la legge di approvazione del bilancio dello Stato, sulla base dei dati di cui all'art. 7. 
- 3. Restano salvi i rapporti finanziari direttamente intrattenuti con le Comunita' europee dalle amministrazioni e dagli organismi di cui all'[art. 2 del decreto del Presidente della Repubblica 16 aprile 1971, n. 321](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1971-04-16;321#art_2) , ed alla [legge 26 novembre 1975, n. 748](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-11-26;748).».
+ 3. Restano salvi i rapporti finanziari direttamente intrattenuti con le Comunita' europee dalle amministrazioni e dagli organismi di cui all'[art. 2 del decreto del Presidente della Repubblica 16 aprile 1971, n. 321](../DPR/Attuazione%20della%20decisione%20del%20Consiglio%20dei%20Ministri%20delle%20Comunita%20europee%20relativa%20alla%20sostituzione%20dei%20contributi%20finanziari%20degli%20Stati%20membri%20con%20risorse%20proprie%20delle%20Comunita%20ado_d4f0aa4a924a.md) , ed alla [legge 26 novembre 1975, n. 748](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Proroga%20del%20termine%20previsto%20dalla%20legge%2023%20dicembre%201970%20n.%201185%20recante%20delega%20al%20Governo%20ad%20emanare%20le%20norme%20di%20attuazione%20della%20decisione%20del%20consiglio%20delle%20Comunita%20europee%20relativa_d02004e32766.md).».
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

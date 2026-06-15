@@ -55,7 +55,7 @@ C) l'allegato IX e' modificato come segue:
 
 Avvertenza:
 
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico approvato [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico approvato [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il testo dell'[art. 5, lettera g), della legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283#art_5-letg) (Disciplina igienica della produzione della vendita delle sostanze alimentari e delle bevande), e' il seguente:
  "Art. 5. - E' vietato impiegare nella preparazione di alimenti o bevande, vendere, detenere per vendere o somministrare come mercede ai propri dipendenti, o comunque distribuire per il consumo, sostanze alimentari:
@@ -95,7 +95,7 @@ Avvertenza:
  g) acqua minerale naturale, come definita nel [decreto legislativo 25 gennaio 1992, n. 105](Attuazione%20della%20direttiva%20n.%2080-777-CEE%20relativa%20alla%20utilizzazione%20e%20alla%20commercializzazione%20delle%20acque%20minerali%20naturali.md), e acqua di sorgente;
  h) caffe' (escluso il caffe' istantaneo aromatizzato) ed estratti di caffe';
  i) the in foglie non aromatizzato;
- l) zuccheri, come definiti nella [legge 31 marzo 1980, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-31;139);
+ l) zuccheri, come definiti nella [legge 31 marzo 1980, n. 139](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recepimento%20della%20direttiva%20adottata%20dal%20Consiglio%20della%20Comunita%20economica%20europea%20riguardante%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20concernenti%20determinati%20tipi%20di%20zucch_6f7de1cb98ea.md);
  m) pasta alimentare secca, esclusa la pasta esente da glutine e/o la pasta per diete ipoproteiche ai sensi del [decreto legislativo 27 gennaio 1992, n. 111](Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md);
  n) latticello naturale non aromatizzato (escluso il latticello sterilizzato);
  o) alimenti per lattanti e per la prima infanzia, come definiti nel [decreto legislativo 27 gennaio 1992, n. 111](Attuazione%20della%20direttiva%20n.%2089-398-CEE%20concernente%20i%20prodotti%20alimentari%20destinati%20ad%20una%20alimentazione%20particolare.md), compresi gli alimenti per lattanti e la prima infanzia in cattive condizioni di salute. Questi prodotti alimentari sono oggetto delle disposizioni riportate nell'allegato XIII;

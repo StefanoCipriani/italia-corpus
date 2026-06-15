@@ -63,7 +63,7 @@ TITOLO I
  3. Per "prodotti alimentari non lavorati" si intendono i prodotti che non sono stati sottoposti a trattamenti che comportano un cambiamento sostanziale dello stato originario del prodotto. Essi possono tuttavia essere stati separati, sezionati, disossati, tritati, scorticati, pelati, sbucciati, macinati, tagliati, puliti, privati degli scarti, selezionati, surgelati, congelati, refrigerati, triturati, sgusciati, imballati o meno.
  4. La dizione "quanto basta", riportata negli allegati, significa che non viene indicata una dose massima. Tuttavia, gli additivi alimentari devono essere utilizzati secondo le norme di buona fabbricazione ad una dose non superiore a quella necessaria per raggiungere lo scopo prefissato e a condizione che non traggano in inganno il consumatore.
  AVVERTENZA :
-Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
 Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse
 Il testo dell'[art. 5 lettera g), della legge n. 283/1962](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962;283#art_5-letg) e' il seguente:
@@ -464,7 +464,7 @@ Salvo laddove sia specificamente previsto, le disposizioni di cui al comma 2 non
                             i)
                                 te' in foglie non aromatizzato;
                             l)
-                                zuccheri, come definiti nella [legge 31 marzo 1980, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-31;139);
+                                zuccheri, come definiti nella [legge 31 marzo 1980, n. 139](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recepimento%20della%20direttiva%20adottata%20dal%20Consiglio%20della%20Comunita%20economica%20europea%20riguardante%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20concernenti%20determinati%20tipi%20di%20zucch_6f7de1cb98ea.md);
                             n)
                                 latticello naturale non aromatizzato (escluso il latticello sterilizzato);
                             o)

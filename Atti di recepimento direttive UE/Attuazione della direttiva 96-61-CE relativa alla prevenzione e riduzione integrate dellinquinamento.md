@@ -14,13 +14,13 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [direttiva 96/61/CE del 24 settembre 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;61) sulla prevenzione e riduzione integrate dell'inquinamento;
 
-Vista la [legge 24 aprile 1998, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-04-24;128), ed in particolare gli articoli, 1 comma 3, 2 e 21, nonche' l'allegato B, recante la delega al Governo per l'attuazione della [direttiva 96/61/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;61);
+Vista la [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), ed in particolare gli articoli, 1 comma 3, 2 e 21, nonche' l'allegato B, recante la delega al Governo per l'attuazione della [direttiva 96/61/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;61);
 
-Considerato che l'[articolo 21 della legge 24 aprile 1998, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-04-24;128#art_21), prevede la delega per il recepimento della [direttiva 96/61/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;61) con esclusione della disciplina relativa al rilascio dell'autorizzazione per la realizzazione dei nuovi impianti la cui regolamentazione e' demandata alla normativa emanata in recepimento della [direttiva 85/337/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;337) come modificata dalla [direttiva 97/11/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;11);
+Considerato che l'[articolo 21 della legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), prevede la delega per il recepimento della [direttiva 96/61/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;61) con esclusione della disciplina relativa al rilascio dell'autorizzazione per la realizzazione dei nuovi impianti la cui regolamentazione e' demandata alla normativa emanata in recepimento della [direttiva 85/337/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;337) come modificata dalla [direttiva 97/11/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;11);
 
-Vista la [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), recante "Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa";
+Vista la [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), recante "Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa";
 
-Visto il [decreto legislativo 31 marzo 1998, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;112), sul conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed enti locali, in attuazione del capo I della [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59);
+Visto il [decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), sul conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed enti locali, in attuazione del capo I della [legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Vista la [legge 8 luglio 1986, n. 349](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-07-08;349), recante "Istituzione del Ministero dell'ambiente e norme in materia di danno ambientale";
 
@@ -32,7 +32,7 @@ Visto il [decreto legislativo 11 maggio 1999, n. 152](Disposizioni%20sulla%20tut
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400);
 
-Vista la [legge 21 gennaio 1994, n. 61](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-21;61), recante "Disposizioni urgenti sulla riorganizzazione dei controlli ambientali e istituzione dell'Agenzia nazionale per la protezione dell'ambiente (ANPA)";
+Vista la [legge 21 gennaio 1994, n. 61](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20dicembre%201993%20n.%20496%20recante%20disposizioni%20urgenti%20sulla%20riorganizzazione%20dei%20controlli%20ambientali%20e%20istituzione%20dellAgenzia%20nazi_281314b446f7.md), recante "Disposizioni urgenti sulla riorganizzazione dei controlli ambientali e istituzione dell'Agenzia nazionale per la protezione dell'ambiente (ANPA)";
 
 Visto il [decreto del Presidente della Repubblica 8 giugno 1997, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1997-06-08;335), riguardante il regolamento concernente la disciplina delle modalita' di organizzazione dell'Agenzia nazionale per la protezione dell'ambiente in strutture operative;
 
@@ -144,7 +144,7 @@ La domanda di autorizzazione integrata ambientale deve contenere anche una sinte
 
 ## Art. 13.
 
-(( ARTICOLO ABROGATO DAL [D.LGS. 18 FEBBRAIO 2005, N. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-18;59) ))
+(( ARTICOLO ABROGATO DAL [D.LGS. 18 FEBBRAIO 2005, N. 59](../Decreti%20Legislativi/Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md) ))
 
 ## Art. 14.
 

@@ -37,7 +37,7 @@ I decreti di cui all'articolo 1 sono emanati su proposta del Presidente del Cons
 
 ## Art. 4.
 
-E' attribuita al Ministro della sanita' facolta' di assegnare cinque delle venti unita' di personale di cui all'[articolo 5 del decreto del Presidente della Repubblica 23 agosto 1982, n. 791](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-08-23;791#art_5), alla Direzione generale dei servizi veterinari per le esigenze connesse al fabbisogno di specifiche professionalita' ad alta specializzazione per la trattazione di affari derivanti da impegni comunitari ed internazionali.
+E' attribuita al Ministro della sanita' facolta' di assegnare cinque delle venti unita' di personale di cui all'[articolo 5 del decreto del Presidente della Repubblica 23 agosto 1982, n. 791](../DPR/Norme%20per%20il%20potenziamento%20delle%20strutture%20dellUfficio%20centrale%20della%20programmazione%20sanitaria.md), alla Direzione generale dei servizi veterinari per le esigenze connesse al fabbisogno di specifiche professionalita' ad alta specializzazione per la trattazione di affari derivanti da impegni comunitari ed internazionali.
 
 ## Art. 5.
 

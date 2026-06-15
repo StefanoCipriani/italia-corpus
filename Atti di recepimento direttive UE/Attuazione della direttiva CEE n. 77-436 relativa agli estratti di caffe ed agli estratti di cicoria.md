@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
+Vista la [legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
 
 Vista la [direttiva n. 77/436 del 27 giugno 1977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;436), emanata dal Consiglio delle Comunita' europee, concernente il ravvicinamento delle legislazioni degli Stati membri in materia di estratti di caffe' e di estratti di cicoria;
 
-Considerato che in data 30 aprile 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42#art_1), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
+Considerato che in data 30 aprile 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
 
 Tenuto conto delle osservazioni formulate in sede parlamentare;
 
@@ -74,7 +74,7 @@ Il Ministro della sanita' puo' autorizzare con proprio decreto, sentito il Consi
 
 1.
 
-Agli estratti di caffe' ed agli estratti di cicoria si applicano le disposizioni del [decreto legislativo 27 gennaio 1992, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;109), e successive modificazioni. Tuttavia:
+Agli estratti di caffe' ed agli estratti di cicoria si applicano le disposizioni del [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md), e successive modificazioni. Tuttavia:
                         a)
                             la denominazione di vendita e' completata dalla dicitura:
  1) "in pasta o "in forma pastosa per i prodotti di cui all'allegato I, punto 1, lettera b) e all'allegato II, punto 1, lettera b);
@@ -96,7 +96,7 @@ Agli estratti di caffe' ed agli estratti di cicoria si applicano le disposizioni
 
 ## Art. 7.
 
-Le disposizioni del [decreto del Presidente della Repubblica 16 febbraio 1973, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-02-16;470), incompatibili con quelle contenute nel presente decreto sono abrogate.
+Le disposizioni del [decreto del Presidente della Repubblica 16 febbraio 1973, n. 470](../DPR/Regolamento%20per%20la%20disciplina%20igienica%20della%20produzione%20e%20del%20commercio%20del%20caffe%20e%20dei%20suoi%20derivati.md), incompatibili con quelle contenute nel presente decreto sono abrogate.
 
 ## Art. 8.
 

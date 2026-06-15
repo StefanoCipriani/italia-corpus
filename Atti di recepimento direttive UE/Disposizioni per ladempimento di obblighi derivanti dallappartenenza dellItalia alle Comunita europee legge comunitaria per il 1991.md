@@ -37,7 +37,7 @@ Gli schemi dei decreti legislativi recanti attuazione delle direttive comprese n
 
  
 AGGIORNAMENTO (4) 
- La [L. 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146) ha disposto (con l'art. 6, comma 5) che il termine di cui al comma 1 del presente articolo "per quanto attiene alle direttive di cui agli articoli 9, 14, 41, commi 1 e 2, 44, 45 e 65 della legge medesima, e' sostituito dal termine di cui all'articolo 1, comma 1, della presente legge."
+ La [L. 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md) ha disposto (con l'art. 6, comma 5) che il termine di cui al comma 1 del presente articolo "per quanto attiene alle direttive di cui agli articoli 9, 14, 41, commi 1 e 2, 44, 45 e 65 della legge medesima, e' sostituito dal termine di cui all'articolo 1, comma 1, della presente legge."
 
 ### Art. 2. — (Criteri e principi direttivi generali della delega legislativa)
 
@@ -47,13 +47,13 @@ Salvi gli specifici criteri e principi direttivi dettati negli articoli seguenti
                             a)
                                 le amministrazioni direttamente interessate dovranno provvedere all'attuazione dei decreti legislativi con le ordinarie strutture amministrative;
                             b)
-                                nelle materie di competenza delle regioni a statuto speciale e ordinario e delle province autonome di Trento e di Bolzano saranno osservati l'[articolo 9 della legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86#art_9), e l'[articolo 6, primo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_6-com1);
+                                nelle materie di competenza delle regioni a statuto speciale e ordinario e delle province autonome di Trento e di Bolzano saranno osservati l'[articolo 9 della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), e l'[articolo 6, primo comma, del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md);
                             c)
                                 per evitare disarmonie con le discipline vigenti per i singoli settori interessati della normativa da attuare saranno introdotte le occorrenti modifiche o integrazioni alle discipline stesse;
                             d)
                                 saranno previste, ove necessario per assicurare l'osservanza delle disposizioni contenute nei decreti legislativi, salve le norme penali vigenti, norme contenenti le sanzioni penali e amministrative per le infrazioni alle disposizioni dei decreti stessi, nei limiti, rispettivamente, dell'ammenda fino a tre anni, da comminare in via alternativa o congiunta, e della sanzione amministrativa consistente nel pagamento di una somma fino a lire cento milioni. Le sanzioni penali saranno previste solo nei casi in cui le infrazioni alle norme di attuazione delle direttive ledano interessi generali dell'ordinamento interno, individuati in base ai criteri ispiratori degli [articoli 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_34) e [35 della legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689#art_35). La pena dell'ammenda sara' comminata per le infrazioni formali; la pena dell'arresto per le infrazioni che espongono a pericolo grave; la pena dell'arresto e dell'ammenda per le infrazioni che espongono a danno l'interesse protetto;
                             e)
-                                eventuali spese non contemplate da leggi vigenti e che non riguardino l'attivita' ordinaria delle amministrazioni statali o regionali potranno essere previste nei soli limiti per l'adempimento degli obblighi di attuazione delle direttive; alla relativa copertura, in quanto non sia possibile far fronte con i fondi gia' assegnati alle competenti amministrazioni, si provvedera' a norma degli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_5) e [21 della legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_21), osservando altresi' il disposto dell'[articolo 11-ter, comma 2, della legge 5 agosto 1978, n. 468](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468#art_11ter-com2), introdotto dall'[articolo 7 della legge 23 agosto 1988, n. 362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;362#art_7);
+                                eventuali spese non contemplate da leggi vigenti e che non riguardino l'attivita' ordinaria delle amministrazioni statali o regionali potranno essere previste nei soli limiti per l'adempimento degli obblighi di attuazione delle direttive; alla relativa copertura, in quanto non sia possibile far fronte con i fondi gia' assegnati alle competenti amministrazioni, si provvedera' a norma degli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_5) e [21 della legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_21), osservando altresi' il disposto dell'[articolo 11-ter, comma 2, della legge 5 agosto 1978, n. 468](../Atti%20normativi%20abrogati%20%28in%20originale%29/Riforma%20di%20alcune%20norme%20di%20contabilita%20generale%20dello%20Stato%20in%20materia%20di%20bilancio.md), introdotto dall'[articolo 7 della legge 23 agosto 1988, n. 362](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;362#art_7);
                             f)
                                 i decreti legislativi assicureranno in ogni caso che, nelle materie trattate dalle direttive da attuare, la disciplina disposta sia pienamente conforme alle prescrizioni delle direttive medesime, tenuto anche conto delle eventuali modificazioni intervenute entro il termine della delega.
 
@@ -61,13 +61,13 @@ Salvi gli specifici criteri e principi direttivi dettati negli articoli seguenti
 
 1.
 
-Il Governo e' autorizzato ad attuare in via regolamentare, a norma degli articoli 3 comma 1, lettera c), e 4 della [legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86), le direttive comprese nell'elenco di cui all'allegato C alla presente legge, applicando anche il disposto dell'articolo 5, comma 1, della medesima [legge n. 86 del 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;86).
+Il Governo e' autorizzato ad attuare in via regolamentare, a norma degli articoli 3 comma 1, lettera c), e 4 della [legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), le direttive comprese nell'elenco di cui all'allegato C alla presente legge, applicando anche il disposto dell'articolo 5, comma 1, della medesima [legge n. 86 del 1989](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989;86).
 
 ### Art. 4. — (Attuazione di direttive comunitarie in via amministrativa)
 
 1.
 
-Ai sensi dell'[articolo 4, comma 8, della legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86#art_4-com8), le direttive da attuare in via amministrativa sono comprese nell'elenco di cui all'allegato D alla presente legge.
+Ai sensi dell'[articolo 4, comma 8, della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), le direttive da attuare in via amministrativa sono comprese nell'elenco di cui all'allegato D alla presente legge.
 
 ### Art. 5. — (Provvedimenti amministrativi di attuazione)
 
@@ -97,7 +97,7 @@ L'attuazione delle [direttive del Consiglio 90/364/CEE](https://www.normattiva.i
 
 1.
 
-All'articolo 26 della tabella dei diritti da riscuotersi dagli Uffici diplomatici e consolari, annessa al [decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-05;200), come sostituita dalla tabella annessa alla [legge 2 maggio 1983, n. 185](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-05-02;185), sono aggiunte, in fine, le parole: "Nessun diritto e' percepito per il rilascio del visto al coniuge ai figli di eta' inferiore a ventuno anni dei cittadini degli Stati membri delle Comunita' europee, nonche' agli ascendenti e discendenti dei cittadini suddetti e del coniuge di tali cittadini che sono a loro carico, qualunque sia la loro cittadinanza".
+All'articolo 26 della tabella dei diritti da riscuotersi dagli Uffici diplomatici e consolari, annessa al [decreto del Presidente della Repubblica 5 gennaio 1967, n. 200](../DPR/Disposizioni%20sulle%20funzioni%20e%20sui%20poteri%20consolari.md), come sostituita dalla tabella annessa alla [legge 2 maggio 1983, n. 185](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifica%20della%20tabella%20dei%20diritti%20da%20riscuotersi%20dagli%20uffici%20diplomatici%20e%20consolari.md), sono aggiunte, in fine, le parole: "Nessun diritto e' percepito per il rilascio del visto al coniuge ai figli di eta' inferiore a ventuno anni dei cittadini degli Stati membri delle Comunita' europee, nonche' agli ascendenti e discendenti dei cittadini suddetti e del coniuge di tali cittadini che sono a loro carico, qualunque sia la loro cittadinanza".
 
 2.
 
@@ -118,7 +118,7 @@ L'attuazione delle [direttive del Consiglio 89/594/CEE](https://www.normattiva.i
                             a)
                                 che siano apportate alle norme di legge vigenti concernenti le professioni di medico, dentista, infermiere, veterinario e ostetrica nonche' la formazione di infermiere, le modifiche necessarie per adeguarle alle direttive da attuare;
                             b)
-                                che siano fatte salve le disposizioni contenute nell'[articolo 9, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341#art_9-com1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341#art_9-com2) e [3 della legge 19 novembre 1990, n. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341#art_9-com3), nell'[articolo 1, terzo comma, della legge 22 maggio 1978, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-05-22;217#art_1-com3), nell'[articolo 7, quarto comma, della legge 24 luglio 1985, n. 409](Istituzione%20della%20professione%20sanitaria%20di%20odontoiatra%20e%20disposizioni%20relative%20al%20diritto%20di%20stabilimento%20ed%20alla%20libera%20prestazione%20di%20servizi%20da%20parte%20dei%20dentisti%20cittadini%20di%20Stati%20me_a6fb5546cb07.md) nell'[articolo 1, terzo comma, della legge 18 dicembre 1980, n. 905](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-12-18;905#art_1-com3), nell'[articolo 1, terzo comma, della legge 8 novembre 1984, n. 750](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-11-08;750#art_1-com3), nell'[articolo 1, terzo comma, della legge 13 giugno 1985, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-06-13;296#art_1-com3).
+                                che siano fatte salve le disposizioni contenute nell'[articolo 9, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341#art_9-com1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341#art_9-com2) e [3 della legge 19 novembre 1990, n. 341](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-11-19;341#art_9-com3), nell'[articolo 1, terzo comma, della legge 22 maggio 1978, n. 217](../Atti%20normativi%20abrogati%20%28in%20originale%29/Diritto%20di%20stabilimento%20e%20libera%20prestazione%20dei%20servizi%20da%20parte%20dei%20medici%20cittadini%20di%20Stati%20membri%20delle%20Comunita%20europee.md), nell'[articolo 7, quarto comma, della legge 24 luglio 1985, n. 409](Istituzione%20della%20professione%20sanitaria%20di%20odontoiatra%20e%20disposizioni%20relative%20al%20diritto%20di%20stabilimento%20ed%20alla%20libera%20prestazione%20di%20servizi%20da%20parte%20dei%20dentisti%20cittadini%20di%20Stati%20me_a6fb5546cb07.md) nell'[articolo 1, terzo comma, della legge 18 dicembre 1980, n. 905](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-12-18;905#art_1-com3), nell'[articolo 1, terzo comma, della legge 8 novembre 1984, n. 750](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-11-08;750#art_1-com3), nell'[articolo 1, terzo comma, della legge 13 giugno 1985, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-06-13;296#art_1-com3).
 
 ### Art. 10. — (Trasportatori di merci per via navigabile)
 
@@ -136,7 +136,7 @@ Cno decreti del Ministro dei trasporti sono indicati, sulla base delle comunicaz
 
 4.
 
-Con atto di indirizzo e coordinamento ai sensi dell'[articolo 9, commi 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86#art_9-com5) e [6, della legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86#art_9-com6), da emanarsi entro sessanta giorni dalla data di entrata in vigore della presente legge, saranno armonizzate le procedure necessarie al rilascio delle autorizzazioni per l'esercizio dell'attivita' di trasportatore di merci per via navigabile.
+Con atto di indirizzo e coordinamento ai sensi dell'[articolo 9, commi 5](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md) e [6, della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), da emanarsi entro sessanta giorni dalla data di entrata in vigore della presente legge, saranno armonizzate le procedure necessarie al rilascio delle autorizzazioni per l'esercizio dell'attivita' di trasportatore di merci per via navigabile.
 
 ### Art. 11. — (Formazione professionale di conducenti dei veicoli che trasportano merci pericolose su strada)
 
@@ -150,7 +150,7 @@ Il certificato di formazione professionale per i conducenti di cui al comma 1 pu
 
 3.
 
-Per la violazione delle disposizioni che disciplinano i trasporti di cui al comma 1 si applicano agli articoli 80 commi undicesimo e dodicesimo, e 80-bis del [testo unico delle norme sulla circolazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-01-18;54) stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-06-15;393), e successive modificazioni ed integrazioni.
+Per la violazione delle disposizioni che disciplinano i trasporti di cui al comma 1 si applicano agli articoli 80 commi undicesimo e dodicesimo, e 80-bis del [testo unico delle norme sulla circolazione](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), e successive modificazioni ed integrazioni.
 
 4.
 
@@ -208,13 +208,13 @@ Il Comitato tecnico-consultivo riferisce al Ministro per il coordinamento delle 
 
 5.
 
-Se la risposta prevede la necessita' di adottare misure correttive e l'autorita' aggiudicatrice e' un ente pubblico diverso dallo Stato, il Ministro per il coordinamento delle politiche comunitarie la trasmette preventivamente al Presidente del Consiglio dei ministri con valore di proposta ai sensi dell'[articolo 12 della legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86#art_12). ((13)) 
+Se la risposta prevede la necessita' di adottare misure correttive e l'autorita' aggiudicatrice e' un ente pubblico diverso dallo Stato, il Ministro per il coordinamento delle politiche comunitarie la trasmette preventivamente al Presidente del Consiglio dei ministri con valore di proposta ai sensi dell'[articolo 12 della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md). ((13)) 
  
 ---------------
 
  
 AGGIORNAMENTO (13) 
- Il [D.P.R. 14 maggio 2007, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2007-05-14;91) ha disposto (con l'art. 7, comma 1, lettera b)) che e' abrogato il presente articolo "nella parte in cui prevede l'istituzione del "Comitato tecnico-consultivo per la riparazione delle violazioni comunitarie in materia di appalti e forniture"".
+ Il [D.P.R. 14 maggio 2007, n. 91](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20nel%20Dipartimento%20per%20il%20coordinamento%20delle%20politiche%20comunitarie%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20conve_9b2efe6d69f2.md) ha disposto (con l'art. 7, comma 1, lettera b)) che e' abrogato il presente articolo "nella parte in cui prevede l'istituzione del "Comitato tecnico-consultivo per la riparazione delle violazioni comunitarie in materia di appalti e forniture"".
 
 ### Art. 13.
 
@@ -228,7 +228,7 @@ AGGIORNAMENTO (13)
 
 1.
 
-L'[articolo 3 del decreto-legge 30 gennaio 1976, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-01-30;8#art_3), convertito, con modificazioni dalla [legge 27 marzo 1976, n. 60, l'articolo 15, secondo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-03-27;60#art_15-com2), della [legge 26 aprile 1982, n. 181, l'articolo 7, secondo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-04-26;181#art_7-com2), del [decreto-legge 30 settembre 1982, n. 688](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-09-30;688), convertito con modificazioni della [legge 27 novembre 1982, n. 873, l'articolo 15, primo comma](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-27;873#art_15-com1), della [legge 4 giugno 1984, n. 194, e l'articolo 4, comma 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-06-04;194#art_4-com20), del [decreto-legge 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853), convertito, con modificazioni, dalla [legge 17 febbraio 1985, n. 17](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-17;17), sono abrogati limitatamente alla parte in cui obbligatoriamente prevedono l'affidamento delle prestazioni ivi contemplate a societa' costituite con prevalente partecipazione statale, anche indiretta.
+L'[articolo 3 del decreto-legge 30 gennaio 1976, n. 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1976-01-30;8#art_3), convertito, con modificazioni dalla [legge 27 marzo 1976, n. 60, l'articolo 15, secondo comma](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20gennaio%201976%20n.%208%20recante%20norme%20per%20lattuazione%20del%20sistema%20informativo%20del%20Ministero%20delle%20finanze%20e%20per%20il%20funzionamento%20dell_b505d0233d20.md), della [legge 26 aprile 1982, n. 181, l'articolo 7, secondo comma](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201982.md), del [decreto-legge 30 settembre 1982, n. 688](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-09-30;688), convertito con modificazioni della [legge 27 novembre 1982, n. 873, l'articolo 15, primo comma](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%201982%20n.%20688%20recante%20misure%20urgenti%20in%20materia%20di%20entrate%20fiscali.md), della [legge 4 giugno 1984, n. 194, e l'articolo 4, comma 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-06-04;194#art_4-com20), del [decreto-legge 19 dicembre 1984, n. 853](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1984-12-19;853), convertito, con modificazioni, dalla [legge 17 febbraio 1985, n. 17](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2019%20dicembre%201984%20n.%20853%20recante%20disposizioni%20in%20materia%20di%20imposta%20sul%20valore%20aggiunto%20e%20di%20imposte%20sul%20reddito%20e%20disposizioni%20rel_0b6b4cacfea3.md), sono abrogati limitatamente alla parte in cui obbligatoriamente prevedono l'affidamento delle prestazioni ivi contemplate a societa' costituite con prevalente partecipazione statale, anche indiretta.
 
 ### Art. 16. — (Pubblicita' degli atti delle succursali di societa' criteri di delega)
 
@@ -355,7 +355,7 @@ L'attuazione della [direttiva del Consiglio 89/646/CEE](https://www.normattiva.i
 
 2.
 
-Il Governo, su proposta del Ministro del tesoro e sentito il parere delle competenti Commissioni permanenti della Camera dei deputati e del Senato della Repubblica, da esprimersi entro quarantacinque giorni, e' delegato ad emanare, entro diciotto mesi dalla data di entrata in vigore della presente legge, un testo unico delle disposizioni adottate ai sensi del comma 1, coordinato con le altre disposizioni vigenti nella stessa materia, apportandovi le modifiche necessarie a tal fine. Restano comunque ferme le disposizioni contenute nella [legge 10 ottobre 1990, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287), e nella [legge 2 gennaio 1991 n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-01-02;1).
+Il Governo, su proposta del Ministro del tesoro e sentito il parere delle competenti Commissioni permanenti della Camera dei deputati e del Senato della Repubblica, da esprimersi entro quarantacinque giorni, e' delegato ad emanare, entro diciotto mesi dalla data di entrata in vigore della presente legge, un testo unico delle disposizioni adottate ai sensi del comma 1, coordinato con le altre disposizioni vigenti nella stessa materia, apportandovi le modifiche necessarie a tal fine. Restano comunque ferme le disposizioni contenute nella [legge 10 ottobre 1990, n. 287](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-10;287), e nella [legge 2 gennaio 1991 n. 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20dellattivita%20di%20intermediazione%20mobiliare%20e%20disposizioni%20sullorganizzazione%20dei%20mercati%20mobiliari.md).
 
 3.
 
@@ -373,14 +373,14 @@ TITOLO II
 
 1.
 
-Il [secondo comma dell'articolo 1 della legge 24 dicembre 1969, n. 990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-24;990#art_1-com2), e successive modificazioni, e' sostituito dal seguente: 
+Il [secondo comma dell'articolo 1 della legge 24 dicembre 1969, n. 990](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md), e successive modificazioni, e' sostituito dal seguente: 
  "L'assicurazione deve comprendere anche la responsabilita' per i danni alla persona causati ai trasportati, qualunque sia il titolo in base al quale e' effettuato il trasporto".
 
 ### Art. 28. — (Attuazione della direttiva del Consiglio 84/5/CEE in materia di assicurazione obbligatoria per la responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti. Estensione soggettiva della garanzia)
 
 1.
 
-L'[articolo 4 della legge 24 dicembre 1969, n. 990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-24;990#art_4) e successive modificazioni, e' sostituito dal seguente: 
+L'[articolo 4 della legge 24 dicembre 1969, n. 990](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md) e successive modificazioni, e' sostituito dal seguente: 
  "Art. 4. - 1. Non e' considerato terzo e non ha diritto ai benefici derivanti dal contratto di assicurazione obbligatoria stipulato a norma della presente legge il solo conducente del veicolo responsabile del sinistro. 
  2. Ferme restando la disposizione di cui al secondo comma dell'articolo 1 e quella di cui al comma 1 del presente articolo, non sono inoltre considerati terzi e non hanno diritto ai benefici derivanti dai contratti di assicurazione stipulati a norma della presente legge, limitatamente ai danni alle cose: 
  a) i soggetti di cui all'[articolo 2054, terzo comma, del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2054-com3): 
@@ -391,7 +391,7 @@ L'[articolo 4 della legge 24 dicembre 1969, n. 990](https://www.normattiva.it/ur
 
 1.
 
-Dopo l'[articolo 1 della legge 24 dicembre 1969, n. 990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-24;990#art_1) e suc- cessive modificazioni e' inserito il seguente: 
+Dopo l'[articolo 1 della legge 24 dicembre 1969, n. 990](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md) e suc- cessive modificazioni e' inserito il seguente: 
  "Art. 1-bis. - 1. L'assicurazione stipulata ai sensi dell'articolo 1 copre anche la responsabilita' per i danni causati nel territorio degli Stati membri della Comunita' economica europea, secondo le condizioni ed entro i limiti stabiliti dalle legislazioni nazionali di ciascuno di tali Stati, concernenti l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore, ferme le maggiori garanzie eventualmente previste dal contratto o dalla legislazione dello Stato in cui stazionano abitualmente".
 
 ### Art. 30.
@@ -403,8 +403,8 @@ Dopo l'[articolo 1 della legge 24 dicembre 1969, n. 990](https://www.normattiva.
 1.
 
 Il [secondo comma dell'articolo 19 della legge 24 dicembre 1969, 
-n. 990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-12-24;990#art_19-com2), e successive modificazioni, e' sostituito dal seguente: 
- "Nell'ipotesi di cui alla lettera a), il risarcimento e' dovuto solo per i danni alla persona. Nell'ipotesi di cui alla lettera b) il risarcimento e' dovuto per i danni alla persona nonche' per i danni alle cose il cui ammontare sia superiore al controvalore in lire di 500 unita' di conto europee di cui all'[articolo 3 della legge 22 ottobre 1986, n. 742](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-22;742#art_3), e per la parte eccedente tale ammontare.
+n. 990](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assicurazione%20obbligatoria%20della%20responsabilita%20civile%20derivante%20dalla%20circolazione%20dei%20veicoli%20a%20motore%20e%20dei%20natanti.md), e successive modificazioni, e' sostituito dal seguente: 
+ "Nell'ipotesi di cui alla lettera a), il risarcimento e' dovuto solo per i danni alla persona. Nell'ipotesi di cui alla lettera b) il risarcimento e' dovuto per i danni alla persona nonche' per i danni alle cose il cui ammontare sia superiore al controvalore in lire di 500 unita' di conto europee di cui all'[articolo 3 della legge 22 ottobre 1986, n. 742](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuove%20norme%20per%20lesercizio%20delle%20assicurazioni%20private%20sulla%20vita.md), e per la parte eccedente tale ammontare.
 Nell'ipotesi di cui alla lettera c) il risarcimento e' dovuto per i danni alla persona nonche' per i danni alle cose".
 
 ### Art. 32. — (Decorrenza dell'efficacia)
@@ -454,7 +454,7 @@ Il Governo e' delegato ad emanare, entro il termine di un anno dalla data di ent
                             c)
                                 gli elementi dell'attivo e del passivo trasferiti per effetto della scissione devono mantenere i valori fiscali che avevano presso la societa' scissa;
                             d)
-                                le riserve e i fondi in sospensione di imposta, esistenti nel bilancio della societa' scissa, devono essere ricostituiti, sulla base dei criteri desumibili dall'articolo 123, comma 4, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), nei bilanci delle societa' che ricevono il trasferimento del patrimonio sociale proporzionalmente alla quota di patrimonio sociale della societa' scissa a ciascuna di esse spettante;
+                                le riserve e i fondi in sospensione di imposta, esistenti nel bilancio della societa' scissa, devono essere ricostituiti, sulla base dei criteri desumibili dall'articolo 123, comma 4, del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), nei bilanci delle societa' che ricevono il trasferimento del patrimonio sociale proporzionalmente alla quota di patrimonio sociale della societa' scissa a ciascuna di esse spettante;
                             e)
                                 le perdite fiscali formatesi nel quinquennio anteriore alla data da cui ha effetto la scissione sono riportabili da parte di ciascuna societa' cui e' trasferito il patrimonio sociale della societa' scissa, proporzionalmente alla quota di patrimonio sociale della societa' scissa a ciascuna di esse spettante;
                             f)
@@ -475,7 +475,7 @@ L'attuazione della [direttiva del Consiglio 90/435/CEE](https://www.normattiva.i
                             b)
                                 previsione del riconoscimento della qualita' di societa' madre alle societa' o enti residenti di uno Stato membro della Comunita' che abbiano una partecipazione diretta nel capitale di una societa' residente in un altro Stato membro non inferiore al 25 per cento e che detengano tale partecipazione per un periodo ininterrotto non inferiore ad un anno;
                             c)
-                                coordinamento delle emanande disposizioni con quelle contenute nel testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-12-22;917), adottando l'esenzione dall'imposizione ordinaria degli utili distribuiti da una societa' figlia di uno Stato membro della CEE alla societa' madre italiana, fermo restando il potere dell'Amministrazione finanziaria di disapplicare o revocare i benefici fiscali in caso di frode o abuso, anche con riguardo al re- gime della ritenuta alla fonte previsto dalla lettera d). Ai fini della maggiorazione di conguaglio i predetti utili si aggiungono all'importo distribuibile senza applicazione della maggiorazione stessa;
+                                coordinamento delle emanande disposizioni con quelle contenute nel testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), adottando l'esenzione dall'imposizione ordinaria degli utili distribuiti da una societa' figlia di uno Stato membro della CEE alla societa' madre italiana, fermo restando il potere dell'Amministrazione finanziaria di disapplicare o revocare i benefici fiscali in caso di frode o abuso, anche con riguardo al re- gime della ritenuta alla fonte previsto dalla lettera d). Ai fini della maggiorazione di conguaglio i predetti utili si aggiungono all'importo distribuibile senza applicazione della maggiorazione stessa;
                             d)
                                 modifiche alla disciplina del regime della ritenuta alla fonte per adeguarla al trattamento esonerativo previsto dalla direttiva, tenendo conto delle condizioni ivi stabilite;
                             e)
@@ -537,7 +537,7 @@ L'attuazione delle [direttive del Consiglio 89/284/CEE](https://www.normattiva.i
 
 L'attuazione della [direttiva del Consiglio 90/385/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;385) sara' informata ai seguenti principi e criteri direttivi:
                             a)
-                                la produzione e il commercio dei dispositivi impiantabili attivi, diversi dai dispositivi su misura e da quelli destinati ad indagini cliniche, dovranno essere sottoposti alla disciplina prevista dall'[articolo 189 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_189), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni, sulla base di quanto stabilito dall'articolo 3 del regolamento approvato con [decreto del Presidente della Repubblica 13 marzo 1986, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-03-13;128);
+                                la produzione e il commercio dei dispositivi impiantabili attivi, diversi dai dispositivi su misura e da quelli destinati ad indagini cliniche, dovranno essere sottoposti alla disciplina prevista dall'[articolo 189 del testo unico delle leggi sanitarie](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265#art_189), approvato con [regio decreto 27 luglio 1934, n. 1265](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265), e successive modificazioni, sulla base di quanto stabilito dall'articolo 3 del regolamento approvato con [decreto del Presidente della Repubblica 13 marzo 1986, n. 128](../DPR/Regolamento%20di%20esecuzione%20delle%20norme%20di%20cui%20allart.%20189%20del%20testo%20unico%20delle%20leggi%20sanitarie%20approvato%20con%20regio%20decreto%2027%20luglio%201934%20n.%201265%20e%20successive%20modificazioni%20in%20materia%20di%20_85245d4a2ad5.md);
                             b)
                                 per i dispositivi impiantabili attivi su misura o destinati ad indagini cliniche sara' previsto, a carico delle aziende interessate, l'obbligo di dimostrazione della corrispondenza dei dispositivi ai requisiti previsti dalla direttiva;
                             c)
@@ -587,12 +587,12 @@ Gli schemi dei decreti legislativi recanti attuazione delle [direttive 90/219/CE
 
 1.
 
-L'attuazione della [direttiva 89/618/EURATOM](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;618) sara' informata ai princi'pi e criteri direttivi stabiliti dall'[articolo 4 della legge 30 luglio 1990, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-30;212#art_4), relativo all'attuazione delle direttive sulla tutela dalle radiazioni ionizzanti di cui all'allegato B alla legge predetta.
+L'attuazione della [direttiva 89/618/EURATOM](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;618) sara' informata ai princi'pi e criteri direttivi stabiliti dall'[articolo 4 della legge 30 luglio 1990, n. 212](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lattuazione%20di%20direttive%20delle%20Comunita%20europee%20in%20materia%20di%20sanita%20e%20di%20protezione%20dei%20lavoratori.md), relativo all'attuazione delle direttive sulla tutela dalle radiazioni ionizzanti di cui all'allegato B alla legge predetta.
 
 2.
 
 Allo scopo di assicurare una organica attuazione delle direttive di cui al comma 1, il termine di cui all'articolo 1, comma 1, della presente legge si applica anche ai decreti legislativi di attuazione delle direttive di cui all'allegato B alla [legge 30 luglio 
-1990, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-07-30;212).
+1990, n. 212](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lattuazione%20di%20direttive%20delle%20Comunita%20europee%20in%20materia%20di%20sanita%20e%20di%20protezione%20dei%20lavoratori.md).
 
 ### Art. 42. — (Requisiti costruttivi dei dispositivi di protezione individuale: criteri di delega)
 
@@ -648,7 +648,7 @@ dalla data di entrata in vigore della presente legge. (4)
 
 AGGIORNAMENTO (4)
 
-La [L. 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146) ha disposto (con l'art. 6, comma 7)
+La [L. 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md) ha disposto (con l'art. 6, comma 7)
 che il termine di cui al comma 3 del presente articolo "e' prorogato fino a
 sei mesi dalla data di entrata in vigore della presente legge."
 ---------------
@@ -656,7 +656,7 @@ sei mesi dalla data di entrata in vigore della presente legge."
 
  
 AGGIORNAMENTO (7) 
-La [L. 24 aprile 1998, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-04-24;128) ha disposto (con l'art. 51, comma 2) che il numero 2) della lettera g) del comma 1 del presente articolo "deve intendersi nel senso che gli oneri derivanti dalle attivita' di informazione, consulenza ed assistenza in materia antinfortunistica e di prevenzione svolte da istituzioni ed enti pubblici di formazione in detta materia sono a carico del datore di lavoro; qualora il datore di lavoro sia un'amministrazione pubblica, ai predetti oneri si provvede con le ordinarie risorse di bilancio dell'amministrazione interessata".
+La [L. 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md) ha disposto (con l'art. 51, comma 2) che il numero 2) della lettera g) del comma 1 del presente articolo "deve intendersi nel senso che gli oneri derivanti dalle attivita' di informazione, consulenza ed assistenza in materia antinfortunistica e di prevenzione svolte da istituzioni ed enti pubblici di formazione in detta materia sono a carico del datore di lavoro; qualora il datore di lavoro sia un'amministrazione pubblica, ai predetti oneri si provvede con le ordinarie risorse di bilancio dell'amministrazione interessata".
 
 ### Art. 44. — (Sostanze e preparati pericolosi: criteri di delega)
 
@@ -788,7 +788,7 @@ Le regioni e le province autonome di Trento e di Bolzano trasmettono entro il 31
 
 5.
 
-Nei casi in cui le regioni e le province autonome non provvedano si applica il disposto di cui all'[articolo 11 della legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86#art_11).
+Nei casi in cui le regioni e le province autonome non provvedano si applica il disposto di cui all'[articolo 11 della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md).
 
 ### Art. 53. — (Formaggi)
 
@@ -802,7 +802,7 @@ L'etichettatura dei formaggi per i quali non e' previsto un contenuto minimo di 
 
 3.
 
-Il [regio decreto-legge 17 maggio 1938, n. 1177](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-05-17;1177), convertito, con modificazioni, dalla [legge 2 febbraio 1939, n. 396](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-02-02;396), e' abrogato.
+Il [regio decreto-legge 17 maggio 1938, n. 1177](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20integrative%20della%20disciplina%20della%20produzione%20e%20della%20vendita%20dei%20formaggi.%20038U1177.md), convertito, con modificazioni, dalla [legge 2 febbraio 1939, n. 396](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20R.%20decreto-legge%2017%20maggio%201938-XVI%20n.%201177%20recante%20disposizioni%20integrative%20della%20disciplina%20della%20produzione%20e%20delle%20vendita%20dei%20formaggi.%20039U0396.md), e' abrogato.
 
 ### Art. 54. — (Burro)
 
@@ -817,7 +817,7 @@ L'[articolo 3 della legge 23 dicembre 1956, n. 1526](https://www.normattiva.it/u
 
 1.
 
-L'[articolo 6 della legge 4 novembre 1951, n. 1316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-11-04;1316#art_6), e' sostituito dal seguente: 
+L'[articolo 6 della legge 4 novembre 1951, n. 1316](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20produzione%20e%20del%20commercio%20della%20margarina%20e%20dei%20grassi%20idrogenati%20alimentari.md), e' sostituito dal seguente: 
  "Art. 6. - 1. Le miscele ed emulsioni confezionate con grassi alimentari di origine animale o vegetale diversi dal burro e dai grassi suini contenenti piu' del 2 per cento di umidita' ed un contenuto di materia grassa non inferiore all'80 per cento hanno denominazione generica ed obbligatoria di "margarina". 
  2. E' consentita la produzione e la commercializzazione, con la denominazione "margarina leggera a ridotto tenore di grassi", delle miscele ed emulsioni confezionate con grassi alimentari di origine animale o vegetale diversi dal burro e dai grassi suini aventi un contenuto di materia grassa compreso tra il 60 e il 62 per cento. 
  3. E' consentita la produzione e la commercializzazione, con la denominazione "margarina leggera a basso tenore di grassi", dei prodotti di cui al comma 2 aventi un contenuto di materia grassa compreso tra il 40 e il 42 per cento. 
@@ -826,7 +826,7 @@ L'[articolo 6 della legge 4 novembre 1951, n. 1316](https://www.normattiva.it/ur
 
 2.
 
-E' abrogata la disposizione di cui al [primo comma, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-11-04;1316#art_com1-num1)), dell'[articolo 7 della legge 4 novembre 1951, n. 1316](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1951-11-04;1316#art_7), che fissa all'84 per cento il tenore minimo di materia grassa nella margarina.
+E' abrogata la disposizione di cui al [primo comma, n. 1](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20produzione%20e%20del%20commercio%20della%20margarina%20e%20dei%20grassi%20idrogenati%20alimentari.md)), dell'[articolo 7 della legge 4 novembre 1951, n. 1316](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20produzione%20e%20del%20commercio%20della%20margarina%20e%20dei%20grassi%20idrogenati%20alimentari.md), che fissa all'84 per cento il tenore minimo di materia grassa nella margarina.
 
 ### Art. 56. — (Rivelatori)
 
@@ -846,7 +846,7 @@ La commercializzazione dei grassi e degli oli gia' prodotti in conformita' alle 
 
 1.
 
-Gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-05-07;150#art_2) e [3 del decreto-legge 7 maggio 1980, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-05-07;150#art_3), convertito, con modificazioni, dalla [legge 7 luglio 1980, n. 297](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-07-07;297), sono abrogati.
+Gli [articoli 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-05-07;150#art_2) e [3 del decreto-legge 7 maggio 1980, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1980-05-07;150#art_3), convertito, con modificazioni, dalla [legge 7 luglio 1980, n. 297](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20maggio%201980%20n.%20150%20concernente%20la%20disciplina%20della%20produzione%20dellimpiego%20e%20dellimportazione%20della%20saccarina%20e%20degli%20altri%20edulc_68c06442e410.md), sono abrogati.
 
 2.
 
@@ -958,11 +958,11 @@ L'attuazione della [direttiva del Consiglio 89/104/CEE](https://www.normattiva.i
 
 2.
 
-Ai fini dell'attuazione della direttiva di cui al comma 1, saranno apportate le necessarie modifiche alle norme del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), alle disposizioni di cui al [regio decreto 21 giugno 1942, n. 929](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-06-21;929), alle disposizioni approvate con [decreto del Presidente della Repubblica 8 maggio 1948, n. 795](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948-05-08;795), nonche' ad ogni altra disposizione incompatibile.
+Ai fini dell'attuazione della direttiva di cui al comma 1, saranno apportate le necessarie modifiche alle norme del [codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262), alle disposizioni di cui al [regio decreto 21 giugno 1942, n. 929](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), alle disposizioni approvate con [decreto del Presidente della Repubblica 8 maggio 1948, n. 795](../DPR/Testo%20delle%20disposizioni%20regolamentari%20in%20materia%20di%20marchi%20registrati.md), nonche' ad ogni altra disposizione incompatibile.
 
 3.
 
-Le disposizioni transitorie dovranno tener conto. oltreche' dei criteri fissati nella direttiva, di quelli derivanti dagli [articoli 81 e seguenti del regio decreto 21 giugno 1942, n. 929](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-06-21;929#art_81), in quanto applicabili.
+Le disposizioni transitorie dovranno tener conto. oltreche' dei criteri fissati nella direttiva, di quelli derivanti dagli [articoli 81 e seguenti del regio decreto 21 giugno 1942, n. 929](../Atti%20normativi%20abrogati%20%28in%20originale%29/Testo%20delle%20disposizioni%20legislative%20in%20materia%20di%20brevetti%20per%20marchi%20dimpresa.%20042U0929.md), in quanto applicabili.
 
 ### Art. 63. — (Transito di energia elettrica sulle grandi reti)
 
@@ -1002,7 +1002,7 @@ TITOLO II
 
 1.
 
-Il [secondo comma dell'articolo 50 del testo unico delle norme sulla circolazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-01-18;54#art_50-com2) stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-06-15;393), e' sostituito dal seguente:  "Sia le ruote che i pneumatici, o sistemi equivalenti, montati sui predetti veicoli dovranno essere in perfetta efficienza, privi di lesioni che possano comprometterne la sicurezza. Il battistrada dovra' avere il disegno a rilievo ben visibile su tutta la sua larghezza e su tutta la sua circonferenza; la profondita' degli intagli principali del battistrada dovra' essere di almeno 1,60 millimetri per gli autoveicoli, i filoveicoli e rimorchi, di almeno 1,00 millimetri per i motoveicoli e di almeno 0,50 millimetri per i ciclomotori".
+Il [secondo comma dell'articolo 50 del testo unico delle norme sulla circolazione](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20circolazione%20e%20soggiorno%20dei%20cittadini%20degli%20Stati%20membri%20dellUnione%20europea.%20Testo%20A.md) stradale, approvato con [decreto del Presidente della Repubblica 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), e' sostituito dal seguente:  "Sia le ruote che i pneumatici, o sistemi equivalenti, montati sui predetti veicoli dovranno essere in perfetta efficienza, privi di lesioni che possano comprometterne la sicurezza. Il battistrada dovra' avere il disegno a rilievo ben visibile su tutta la sua larghezza e su tutta la sua circonferenza; la profondita' degli intagli principali del battistrada dovra' essere di almeno 1,60 millimetri per gli autoveicoli, i filoveicoli e rimorchi, di almeno 1,00 millimetri per i motoveicoli e di almeno 0,50 millimetri per i ciclomotori".
 
 2.
 
@@ -1013,7 +1013,7 @@ Dopo il secondo comma dell'articolo 50 del citato testo unico, approvato con [de
 
 1.
 
-La [lettera a) del primo comma dell'articolo 31 della legge 6 giugno 1974, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-06;298#art_31-com1-leta), gia' sostituita dall'[articolo 2 del decreto legge 6 febbraio 1987, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-02-06;16#art_2), convertito, con modificazioni, dalla [legge 30 marzo 1987, n. 132](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-03-30;132), e' sostituita dalla seguente: 
+La [lettera a) del primo comma dell'articolo 31 della legge 6 giugno 1974, n. 298](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-06-06;298#art_31-com1-leta), gia' sostituita dall'[articolo 2 del decreto legge 6 febbraio 1987, n. 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-02-06;16#art_2), convertito, con modificazioni, dalla [legge 30 marzo 1987, n. 132](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20febbraio%201987%20n.%2016%20recante%20disposizioni%20urgenti%20in%20materia%20di%20autotrasporto%20di%20cose%20e%20di%20sicurezza%20stradale.md), e' sostituita dalla seguente: 
  "a) il trasporto avvenga con mezzi di proprieta' o in usufrutto delle persone fisiche o giuridiche, enti privati o pubblici che lo esercitano o da loro acquistati con patto di riservato dominio o presi in locazione con facolta' di compera oppure noleggiati senza conducenti nel caso di veicoli di peso totale a pieno carico autorizzato sino a 6.000 chilogrammi, ed i preposti alla guida ed alla scorta dei veicoli, se non esercitate personalmente dal titolare della licenza, risultino lavoratori dipendenti;".
 
 ### Art. 68. — (Utilizzazione di veicoli noleggiati senza conducente per il trasporto di merci su strada per conto terzi)
@@ -1086,8 +1086,8 @@ TITOLO II
 
 1.
 
-Il [comma 1 dell'articolo 2 della legge 23 dicembre 1986, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-23;898#art_2-com1), e' sostituito dal seguente: 
- "1. Ove il fatto non configuri il piu' grave reato previsto dall'[articolo 640-bis del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_640bis), chiunque, mediante l'esposizione di dati o notizie falsi, consegue indebitamente, per se' o per altri, aiuti, premi, indennita', restituzioni, contributi o altre erogazioni a carico totale o parziale del Fondo europeo agricolo di orientamento e garanzia e' punito con la reclusione da sei mesi a tre anni. Quando l somma indebitamente percepita e' pari od inferiore a lire venti milioni si applica soltanto la sanzione amministrativa di cui agli articoli seguenti".
+Il [comma 1 dell'articolo 2 della legge 23 dicembre 1986, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20ottobre%201986%20n.%20701%20recante%20misure%20urgenti%20in%20materia%20di%20controlli%20degli%20aiuti%20comunitari%20alla%20produzione%20dellolio%20di%20oliva.%20Sa_82d5604472c2.md), e' sostituito dal seguente: 
+ "1. Ove il fatto non configuri il piu' grave reato previsto dall'[articolo 640-bis del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), chiunque, mediante l'esposizione di dati o notizie falsi, consegue indebitamente, per se' o per altri, aiuti, premi, indennita', restituzioni, contributi o altre erogazioni a carico totale o parziale del Fondo europeo agricolo di orientamento e garanzia e' punito con la reclusione da sei mesi a tre anni. Quando l somma indebitamente percepita e' pari od inferiore a lire venti milioni si applica soltanto la sanzione amministrativa di cui agli articoli seguenti".
 
 ### Art. 74. — (Fondo di rotazione)
 
@@ -1128,7 +1128,7 @@ TITOLO II
 
 1.
 
-Nell'ambito della Commissione di cui all'[articolo 19 della legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_19), il Ministro per il coordinamento delle politiche comunitarie puo' istituire, in aggiunta alle sottocommissioni per l'attuazione delle direttive comunitarie, anche sottocommissioni per specifici problemi comunque attinenti all'adempimento di obblighi comunitari, nonche' per predisporre la relazione di cui all'[articolo 7 della legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86#art_7).
+Nell'ambito della Commissione di cui all'[articolo 19 della legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_19), il Ministro per il coordinamento delle politiche comunitarie puo' istituire, in aggiunta alle sottocommissioni per l'attuazione delle direttive comunitarie, anche sottocommissioni per specifici problemi comunque attinenti all'adempimento di obblighi comunitari, nonche' per predisporre la relazione di cui all'[articolo 7 della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md).
 
 2.
 

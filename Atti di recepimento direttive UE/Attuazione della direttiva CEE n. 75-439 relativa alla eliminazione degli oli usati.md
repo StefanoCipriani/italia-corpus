@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
+Vista la [legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
 
 Vista la [direttiva n. 75/439 del 16 giugno 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;439), emanata dal Consiglio delle Comunita' europee, concernente l'eliminazione degli oli usati;
 
-Considerato che in data 10 giugno 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42#art_1), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
+Considerato che in data 10 giugno 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
 
 Tenuto conto delle osservazioni formulate in sede parlamentare;
 
@@ -42,7 +42,7 @@ La detenzione e la raccolta per la riutilizzazione nonche' l'eliminazione degli 
 
 A decorrere dalla scadenza del termine di novanta giorni dalla data di pubblicazione nella Gazzetta Ufficiale del decreto ministeriale di approvazione dello statuto, di cui al terzo comma dell'art. 4, chiunque ottiene oli usati, compresi quelli che derivano da lubrificanti utilizzati in usi ammessi ad agevolazioni ed esenzioni fiscali, e' obbligato al loro stivaggio in modo idoneo ad evitarne la contaminazione con sostanze estranee, ed al loro conferimento al consorzio di cui al successivo art. 4, secondo le modalita' dal consorzio stesso indicate.
  Gli oli usati contenenti acqua e altre impurita' in misura complessivamente superiore ad un limite massimo da fissarsi nello statuto del consorzio devono essere sottoposti, a cura del detentore, prima del conferimento, ad un trattamento idoneo a riportare il contenuto di acqua e impurita' al di sotto di tale limite. Ove il detentore non vi provveda, e' tenuto ad immagazzinarli separatamente, denunciandone le quantita', al momento della consegna, al consorzio il quale addebita al cedente i costi di trattamento.
- In deroga al primo comma, il Ministero dell'industria, del commercio e dell'artigianato puo' autorizzare, per singole partite, le imprese ad utilizzare nei propri impianti, per la combustione, gli oli usati da esse stesse ottenuti da cicli di produzione e di impiego, salvo comunque il rispetto della [legge 13 luglio 1966, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-13;615), e successive disposizioni, in materia di inquinamento atmosferico.
+ In deroga al primo comma, il Ministero dell'industria, del commercio e dell'artigianato puo' autorizzare, per singole partite, le imprese ad utilizzare nei propri impianti, per la combustione, gli oli usati da esse stesse ottenuti da cicli di produzione e di impiego, salvo comunque il rispetto della [legge 13 luglio 1966, n. 615](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20contro%20linquinamento%20atmosferico.md), e successive disposizioni, in materia di inquinamento atmosferico.
  Le amministrazioni militari dello Stato hanno facolta' di provvedere per proprio conto alla riutilizzazione ed eliminazione degli oli usati di loro proprieta'.
 
 ## Art. 4.
@@ -84,7 +84,7 @@ Chiunque ottiene, raccoglie, riutilizza o elimina oli usati in quantitativi supe
 ## Art. 9.
 
 La vigilanza sull'applicazione del presente decreto e' demandata al Ministero dell'industria, del commercio e dell'artigianato congiuntamente al Ministero delle finanze.
- Il consorzio dovra' trasmettere al Ministero dell'industria, del commercio e dell'artigianato, entro un mese dall'approvazione, il bilancio consuntivo delle gestioni annuali sottoposto a revisione da parte di societa' a cio' autorizzate ai sensi e per gli effetti del [decreto del Presidente della Repubblica 31 marzo 1975, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-03-31;136).
+ Il consorzio dovra' trasmettere al Ministero dell'industria, del commercio e dell'artigianato, entro un mese dall'approvazione, il bilancio consuntivo delle gestioni annuali sottoposto a revisione da parte di societa' a cio' autorizzate ai sensi e per gli effetti del [decreto del Presidente della Repubblica 31 marzo 1975, n. 136](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md).
  E' inoltre in facolta' del Ministero dell'industria, del commercio e dell'artigianato delegare un proprio funzionario ad assistere alle riunioni degli organi deliberanti del consorzio.
 
 ## Art. 10.

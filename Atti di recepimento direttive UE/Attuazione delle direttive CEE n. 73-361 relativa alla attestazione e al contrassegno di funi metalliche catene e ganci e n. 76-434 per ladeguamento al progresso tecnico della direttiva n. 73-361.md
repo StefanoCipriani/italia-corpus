@@ -10,11 +10,11 @@ vigente: true
 
 Visti gli articoli 76 e 87 della Costituzione;
 
-Vista la [legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
+Vista la [legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
 
 Viste le [direttive n. 73/361 del 19 novembre 1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1973;361) e [n. 76/434 del 13 aprile 1976](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;434) emanate rispettivamente dal Consiglio e dalla commissione delle Comunita' europee, concernenti l'attestazione ed il contrassegno di funi metalliche, catene e ganci;
 
-Considerato che in data 30 aprile 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42#art_1), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
+Considerato che in data 30 aprile 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
 
 Tenuto conto delle osservazioni formulate in sede parlamentare;
 
@@ -39,8 +39,8 @@ I mezzi di sollevamento possono essere immessi sul mercato solo se muniti di una
 
 AGGIORNAMENTO (1)
 
-La [L. 19 dicembre 1992, n.489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489) ha disposto(con l'art. 2, comma 2 lettera a)) che "Con l'entrata in vigore del decreto legislativo di attuazione della [direttiva 91/368/CEE del Consiglio, del 20 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;368), sono abrogate: a) con decorrenza dal 31 dicembre 1994, le disposizioni di cui al [decreto del Presidente della Repubblica 21 
-luglio 1982, n. 673](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-21;673)."
+La [L. 19 dicembre 1992, n.489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md) ha disposto(con l'art. 2, comma 2 lettera a)) che "Con l'entrata in vigore del decreto legislativo di attuazione della [direttiva 91/368/CEE del Consiglio, del 20 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;368), sono abrogate: a) con decorrenza dal 31 dicembre 1994, le disposizioni di cui al [decreto del Presidente della Repubblica 21 
+luglio 1982, n. 673](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2073-361%20relativa%20alla%20attestazione%20e%20al%20contrassegno%20di%20funi%20metalliche%20catene%20e%20ganci%20e%20n.%2076-434%20per%20ladeguamento%20al%20progresso%20tecnico%20della%20direttiva%20n.%2073-361.md)."
 
 ## Art. 2.
 
@@ -53,18 +53,18 @@ Ai fini del precedente art. 1:
 
 AGGIORNAMENTO (1)
 
-La [L. 19 dicembre 1992, n.489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489) ha disposto(con l'art. 2, comma 2 lettera a)) che "Con l'entrata in vigore del decreto legislativo di attuazione della [direttiva 91/368/CEE del Consiglio, del 20 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;368), sono abrogate: a) con decorrenza dal 31 dicembre 1994, le disposizioni di cui al [decreto del Presidente della Repubblica 21 luglio 1982, n. 673](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-21;673)."
+La [L. 19 dicembre 1992, n.489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md) ha disposto(con l'art. 2, comma 2 lettera a)) che "Con l'entrata in vigore del decreto legislativo di attuazione della [direttiva 91/368/CEE del Consiglio, del 20 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;368), sono abrogate: a) con decorrenza dal 31 dicembre 1994, le disposizioni di cui al [decreto del Presidente della Repubblica 21 luglio 1982, n. 673](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2073-361%20relativa%20alla%20attestazione%20e%20al%20contrassegno%20di%20funi%20metalliche%20catene%20e%20ganci%20e%20n.%2076-434%20per%20ladeguamento%20al%20progresso%20tecnico%20della%20direttiva%20n.%2073-361.md)."
 
 ## Art. 3.
 
 Il presente decreto non si applica ai mezzi di sollevamento gia' in uso ovvero destinati ad essere impiegati a bordo di navi, per le ferrovie e per il relativo materiale rotabile, per le funicolari e teleferiche e corrispondenti cabine o seggiovie.
- E' fatto salvo quanto previsto e disposto dall'[art. 171, terzo comma, del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1955-04-27;547#art_171-com3).((1))
+ E' fatto salvo quanto previsto e disposto dall'[art. 171, terzo comma, del decreto del Presidente della Repubblica 27 aprile 1955, n. 547](../DPR/Norme%20per%20la%20prevenzione%20degli%20infortuni%20sul%20lavoro.md).((1))
 
 -----------
 
 AGGIORNAMENTO (1)
 
-La [L. 19 dicembre 1992, n.489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489) ha disposto(con l'art. 2, comma 2 lettera a)) che "Con l'entrata in vigore del decreto legislativo di attuazione della [direttiva 91/368/CEE del Consiglio, del 20 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;368), sono abrogate: a) con decorrenza dal 31 dicembre 1994, le disposizioni di cui al [decreto del Presidente della Repubblica 21 luglio 1982, n. 673](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-21;673)."
+La [L. 19 dicembre 1992, n.489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md) ha disposto(con l'art. 2, comma 2 lettera a)) che "Con l'entrata in vigore del decreto legislativo di attuazione della [direttiva 91/368/CEE del Consiglio, del 20 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;368), sono abrogate: a) con decorrenza dal 31 dicembre 1994, le disposizioni di cui al [decreto del Presidente della Repubblica 21 luglio 1982, n. 673](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2073-361%20relativa%20alla%20attestazione%20e%20al%20contrassegno%20di%20funi%20metalliche%20catene%20e%20ganci%20e%20n.%2076-434%20per%20ladeguamento%20al%20progresso%20tecnico%20della%20direttiva%20n.%2073-361.md)."
 
 ## Art. 4.
 
@@ -76,8 +76,8 @@ Salvo che il fatto costituisca reato, chiunque viola le disposizioni di cui al p
 
 AGGIORNAMENTO (1)
 
-La [L. 19 dicembre 1992, n.489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489) ha disposto(con l'art. 2, comma 2 lettera a)) che "Con l'entrata in vigore del decreto legislativo di attuazione della [direttiva 91/368/CEE del Consiglio, del 20 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;368), sono abrogate: a) con decorrenza dal 31 dicembre 1994, le disposizioni di cui al [decreto del Presidente della Repubblica 21 
-luglio 1982, n. 673](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-21;673)."
+La [L. 19 dicembre 1992, n.489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md) ha disposto(con l'art. 2, comma 2 lettera a)) che "Con l'entrata in vigore del decreto legislativo di attuazione della [direttiva 91/368/CEE del Consiglio, del 20 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;368), sono abrogate: a) con decorrenza dal 31 dicembre 1994, le disposizioni di cui al [decreto del Presidente della Repubblica 21 
+luglio 1982, n. 673](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2073-361%20relativa%20alla%20attestazione%20e%20al%20contrassegno%20di%20funi%20metalliche%20catene%20e%20ganci%20e%20n.%2076-434%20per%20ladeguamento%20al%20progresso%20tecnico%20della%20direttiva%20n.%2073-361.md)."
 
 ## Art. 5.
 
@@ -87,7 +87,7 @@ Il Ministro dell'industria, del commercio e dell'artigianato, con proprio decret
 
 AGGIORNAMENTO (1)
 
-La [L. 19 dicembre 1992, n.489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489) ha disposto(con l'art. 2, comma 2 lettera a)) che "Con l'entrata in vigore del decreto legislativo di attuazione della [direttiva 91/368/CEE del Consiglio, del 20 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;368), sono abrogate: a) con decorrenza dal 31 dicembre 1994, le disposizioni di cui al [decreto del Presidente della Repubblica 21 luglio 1982, n. 673](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-21;673)."
+La [L. 19 dicembre 1992, n.489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md) ha disposto(con l'art. 2, comma 2 lettera a)) che "Con l'entrata in vigore del decreto legislativo di attuazione della [direttiva 91/368/CEE del Consiglio, del 20 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;368), sono abrogate: a) con decorrenza dal 31 dicembre 1994, le disposizioni di cui al [decreto del Presidente della Repubblica 21 luglio 1982, n. 673](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2073-361%20relativa%20alla%20attestazione%20e%20al%20contrassegno%20di%20funi%20metalliche%20catene%20e%20ganci%20e%20n.%2076-434%20per%20ladeguamento%20al%20progresso%20tecnico%20della%20direttiva%20n.%2073-361.md)."
 
 ## Art. 6.
 
@@ -98,7 +98,7 @@ Il Ministero dell'industria, del commercio e dell'artigianato vigila sulla appli
 
 AGGIORNAMENTO (1)
 
-La [L. 19 dicembre 1992, n.489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489) ha disposto(con l'art. 2, comma 2 lettera a)) che "Con l'entrata in vigore del decreto legislativo di attuazione della [direttiva 91/368/CEE del Consiglio, del 20 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;368), sono abrogate: a) con decorrenza dal 31 dicembre 1994, le disposizioni di cui al [decreto del Presidente della Repubblica 21 luglio 1982, n. 673](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-21;673)."
+La [L. 19 dicembre 1992, n.489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md) ha disposto(con l'art. 2, comma 2 lettera a)) che "Con l'entrata in vigore del decreto legislativo di attuazione della [direttiva 91/368/CEE del Consiglio, del 20 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;368), sono abrogate: a) con decorrenza dal 31 dicembre 1994, le disposizioni di cui al [decreto del Presidente della Repubblica 21 luglio 1982, n. 673](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2073-361%20relativa%20alla%20attestazione%20e%20al%20contrassegno%20di%20funi%20metalliche%20catene%20e%20ganci%20e%20n.%2076-434%20per%20ladeguamento%20al%20progresso%20tecnico%20della%20direttiva%20n.%2073-361.md)."
 
 ## Art. 7.
 
@@ -110,8 +110,8 @@ Il presente decreto entra in vigore il giorno successivo a quello della sua pubb
 
 AGGIORNAMENTO (1)
 
-La [L. 19 dicembre 1992, n.489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489) ha disposto(con l'art. 2, comma 2 lettera a)) che "Con l'entrata in vigore del decreto legislativo di attuazione della [direttiva 91/368/CEE del Consiglio, del 20 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;368), sono abrogate: a) con decorrenza dal 31 dicembre 1994, le disposizioni di cui al [decreto del Presidente della Repubblica 21 
-luglio 1982, n. 673](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-21;673)."
+La [L. 19 dicembre 1992, n.489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md) ha disposto(con l'art. 2, comma 2 lettera a)) che "Con l'entrata in vigore del decreto legislativo di attuazione della [direttiva 91/368/CEE del Consiglio, del 20 giugno 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;368), sono abrogate: a) con decorrenza dal 31 dicembre 1994, le disposizioni di cui al [decreto del Presidente della Repubblica 21 
+luglio 1982, n. 673](../DPR/Attuazione%20delle%20direttive%20CEE%20n.%2073-361%20relativa%20alla%20attestazione%20e%20al%20contrassegno%20di%20funi%20metalliche%20catene%20e%20ganci%20e%20n.%2076-434%20per%20ladeguamento%20al%20progresso%20tecnico%20della%20direttiva%20n.%2073-361.md)."
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.((2))
 

@@ -14,15 +14,15 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [direttiva 97/67/CE del Parlamento europeo e del Consiglio del 15 dicembre 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;67), concernente regole comuni per lo sviluppo del mercato interno dei servizi postali comunitari e il miglioramento della qualita' del servizio;
 
-Visto l'[articolo 1, commi 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-05;25#art_1-com1) e [3, della legge 5 febbraio 1999, n. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-05;25#art_1-com3), che ha delegato il Governo a recepire la predetta [direttiva 97/67/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;67);
+Visto l'[articolo 1, commi 1](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201998.md) e [3, della legge 5 febbraio 1999, n. 25](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201998.md), che ha delegato il Governo a recepire la predetta [direttiva 97/67/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;67);
 
-Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-29;156);
+Visto il codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md);
 
-Visto il [decreto del Presidente della Repubblica 29 maggio 1982, n. 655](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-05-29;655), che ha approvato il regolamento riguardante i servizi delle corrispondenze e dei pacchi;
+Visto il [decreto del Presidente della Repubblica 29 maggio 1982, n. 655](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20dei%20libri%20I%20e%20II%20del%20codice%20postale%20e%20delle%20telecomunicazioni%20norme%20generali%20e%20servizi%20delle%20corrispondenze%20e%20dei%20pacchi.md), che ha approvato il regolamento riguardante i servizi delle corrispondenze e dei pacchi;
 
-Visto il [decreto-legge 1 dicembre 1993, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-01;487), convertito, con modificazioni, dalla [legge 29 gennaio 1994, n. 71](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-29;71);
+Visto il [decreto-legge 1 dicembre 1993, n. 487](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-12-01;487), convertito, con modificazioni, dalla [legge 29 gennaio 1994, n. 71](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20dicembre%201993%20n.%20487%20recante%20trasformazione%20dellAmministrazione%20delle%20poste%20e%20delle%20telecomunicazioni%20in%20ente%20pubblico%20economico_f513628cd1cd.md);
 
-Visto il [decreto del Presidente della Repubblica 24 marzo 1995, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1995-03-24;166), concernente il regolamento di riorganizzazione del Ministero delle poste e delle telecomunicazioni;
+Visto il [decreto del Presidente della Repubblica 24 marzo 1995, n. 166](../DPR/Regolamento%20recante%20riorganizzazione%20del%20Ministero%20delle%20poste%20e%20delle%20telecomunicazioni.md), concernente il regolamento di riorganizzazione del Ministero delle poste e delle telecomunicazioni;
 
 Visto il decreto del Ministro delle comunicazioni in data 5 agosto 1997, recante proroga delle concessioni postali, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 260 del 7 novembre 1997;
 
@@ -77,7 +77,7 @@ Ai fini del presente decreto si intendono per:
                         o)
                             "fornitore del servizio universale": il fornitore di un servizio postale, pubblico o privato, che fornisce un servizio postale universale sul territorio nazionale e la cui identita' e' stata notificata alla Commissione;
                         p)
-                            LETTERA SOPPRESSA DAL [D.LGS. 31 MARZO 2011, N. 58](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-31;58);
+                            LETTERA SOPPRESSA DAL [D.LGS. 31 MARZO 2011, N. 58](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202008-6-CE%20che%20modifica%20la%20direttiva%2097-67-CE%20per%20quanto%20riguarda%20il%20pieno%20completamento%20del%20mercato%20interno%20dei%20servizi%20postali%20della%20Comunita.%2011G0099.md);
                         q)
                             "autorizzazioni": ogni titolo abilitativo che stabilisce i diritti e gli obblighi specifici nel settore postale e che consente alle imprese di fornire servizi postali e, se del caso, creare ovvero gestire le proprie reti per la fornitura di tali servizi, sotto forma di "autorizzazione generale" oppure di "licenza individuale", definite come segue: 
  1) "autorizzazione generale": ogni autorizzazione che non richiede al fornitore di un servizio postale interessato di ottenere una esplicita decisione da parte dell'amministrazione competente prima dell'esercizio dei diritti derivanti dall'autorizzazione, indipendentemente dal fatto che questa sia regolata da una "licenza per categoria" o da norme di legge generali e che sia prevista o meno per essa una procedura di registrazione o di dichiarazione; 
@@ -113,7 +113,7 @@ L'Agenzia e' soggetto giuridicamente distinto e funzionalmente indipendente risp
 
 3.
 
-L'Agenzia opera sulla base di principi di autonomia organizzativa, tecnico-operativa, gestionale, di trasparenza e di economicita'. Per quanto non previsto dal presente articolo, all'Agenzia si applicano gli [articoli 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300#art_8) e [9 del decreto legislativo 30 luglio 1999, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300#art_9).
+L'Agenzia opera sulla base di principi di autonomia organizzativa, tecnico-operativa, gestionale, di trasparenza e di economicita'. Per quanto non previsto dal presente articolo, all'Agenzia si applicano gli [articoli 8](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md) e [9 del decreto legislativo 30 luglio 1999, n. 300](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md).
 
 4.
 
@@ -139,67 +139,67 @@ L'Agenzia e' dotata di potere sanzionatorio, nel rispetto delle disposizioni del
 
 6.
 
-COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96).
+COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md).
 
 7.
 
-COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96).
+COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md).
 
 8.
 
-COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96).
+COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md).
 
 9.
 
-COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96).
+COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md).
 
 10.
 
-COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96).
+COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md).
 
 11.
 
-COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96).
+COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md).
 
 12.
 
-COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96).
+COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md).
 
 13.
 
-COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96).
+COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md).
 
 14.
 
-COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96). ((9))
+COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md). ((9))
 
 15.
 
-COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96).
+COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md).
 
 16.
 
-COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96).
+COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md).
 
 17.
 
-COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96).
+COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md).
 
 18.
 
-COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96).
+COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md).
 
 19.
 
-COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96).
+COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md).
 
 20.
 
-COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96).
+COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md).
 
 21.
 
-COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-06-21;96).
+COMMA ABROGATO DAL [D.L. 24 APRILE 2017, N. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2017-04-24;50), CONVERTITO CON MODIFICAZIONI DALLA [L. 21 GIUGNO 2017, N. 96](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202017%20n.%2050%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria%20iniziative%20a%20favore%20degli%20enti%20territoriali%20ulteriori%20int_61cabed4daef.md).
 
 22.
 
@@ -340,7 +340,7 @@ L'offerta al pubblico di singoli servizi non riservati, che rientrano nel campo 
 
 2.
 
-Il rilascio della licenza individuale, tenuto conto della situazione del mercato e dell'organizzazione dei servizi postali, puo' essere subordinato a specifici obblighi del servizio universale con riguardo anche alla qualita', alla disponibilita' ed all'esecuzione dei servizi in questione ((...)). Il rilascio della licenza individuale per i servizi riguardanti le notificazioni di atti a mezzo della posta e di comunicazioni a mezzo della posta connesse con la notificazione di atti giudiziari di cui alla [legge 20 novembre 1982, n. 890](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-20;890), nonche' per i servizi riguardanti le notificazioni a mezzo della posta previste dall'[articolo 201 del codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_201), di cui al [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285), e successive modificazioni, deve essere subordinato a specifici obblighi del servizio universale con riguardo alla sicurezza, alla qualita', alla continuita', alla disponibilita' e all'esecuzione dei servizi medesimi.
+Il rilascio della licenza individuale, tenuto conto della situazione del mercato e dell'organizzazione dei servizi postali, puo' essere subordinato a specifici obblighi del servizio universale con riguardo anche alla qualita', alla disponibilita' ed all'esecuzione dei servizi in questione ((...)). Il rilascio della licenza individuale per i servizi riguardanti le notificazioni di atti a mezzo della posta e di comunicazioni a mezzo della posta connesse con la notificazione di atti giudiziari di cui alla [legge 20 novembre 1982, n. 890](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-20;890), nonche' per i servizi riguardanti le notificazioni a mezzo della posta previste dall'[articolo 201 del codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), e successive modificazioni, deve essere subordinato a specifici obblighi del servizio universale con riguardo alla sicurezza, alla qualita', alla continuita', alla disponibilita' e all'esecuzione dei servizi medesimi.
 
 3.
 
@@ -443,7 +443,7 @@ Le disposizioni di cui al comma 1 si applicano a tutti gli operatori che svolgon
 
 1.
 
-L'autorita' di regolamentazione, al fine di garantire un servizio postale di buona qualita', stabilisce, sentito il consiglio nazionale dei consumatori e degli utenti, gli standard qualitativi del servizio universale, adeguandoli a quelli realizzati a livello europeo, essenzialmente con riguardo ai tempi di istradamento e di recapito ed alla regolarita' ed affidabilita' dei servizi . Detti standard sono recepiti nella carta della qualita' del servizio pubblico postale, ai sensi dell'[articolo 2 della legge 11 luglio 1995, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-07-11;273#art_2), e della direttiva del Presidente del Consiglio dei Ministri del 27 gennaio 1994, pubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 43 del 22 febbraio 1994.
+L'autorita' di regolamentazione, al fine di garantire un servizio postale di buona qualita', stabilisce, sentito il consiglio nazionale dei consumatori e degli utenti, gli standard qualitativi del servizio universale, adeguandoli a quelli realizzati a livello europeo, essenzialmente con riguardo ai tempi di istradamento e di recapito ed alla regolarita' ed affidabilita' dei servizi . Detti standard sono recepiti nella carta della qualita' del servizio pubblico postale, ai sensi dell'[articolo 2 della legge 11 luglio 1995, n. 273](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20maggio%201995%20n.%20163%20recante%20misure%20urgenti%20per%20la%20semplificazione%20dei%20procedimenti%20amministrativi%20e%20per%20il%20miglioramento%20delleff_5ae7f6a3e032.md), e della direttiva del Presidente del Consiglio dei Ministri del 27 gennaio 1994, pubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 43 del 22 febbraio 1994.
 
 2.
 
@@ -520,7 +520,7 @@ Qualora il reclamo non abbia avuto esito ritenuto soddisfacente, l'interessato p
 
 4.
 
-E' fatta salva la facolta' di adire l'Autorita' giurisdizionale indipendentemente dalla presentazione dei reclami di cui ai commi 1 e 2 ovvero, in alternativa, di attivare meccanismi di risoluzione extragiudiziale delle controversie, ai sensi del [decreto legislativo 4 marzo 2010, n. 28](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-04;28).
+E' fatta salva la facolta' di adire l'Autorita' giurisdizionale indipendentemente dalla presentazione dei reclami di cui ai commi 1 e 2 ovvero, in alternativa, di attivare meccanismi di risoluzione extragiudiziale delle controversie, ai sensi del [decreto legislativo 4 marzo 2010, n. 28](../Decreti%20Legislativi/Attuazione%20dellarticolo%2060%20della%20legge%2018%20giugno%202009%20n.%2069%20in%20materia%20di%20mediazione%20finalizzata%20alla%20conciliazione%20delle%20controversie%20civili%20e%20commerciali.%2010G0050.md).
 
 5.
 
@@ -565,7 +565,7 @@ Gli invii postali rientranti nel servizio universale e nei servizi riservati, pe
 
 2.
 
-Sono abrogati gli articoli 41, 44 e 54 del codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-29;156).
+Sono abrogati gli articoli 41, 44 e 54 del codice postale e delle telecomunicazioni, approvato con [decreto del Presidente della Repubblica 29 marzo 1973, n. 156](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20postale%20di%20bancoposta%20e%20di%20telecomunicazioni.md).
 
 3.
 
@@ -599,13 +599,13 @@ L'emissione di carte valori postali e' prerogativa dello Stato.
 
 1.
 
-Le persone addette ai servizi postali, da chiunque gestiti, sono considerate incaricate di pubblico servizio in conformita' all'[articolo 358 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_358). ((Le persone addette ai servizi di notificazione a mezzo posta sono considerate pubblici ufficiali a tutti gli effetti)).((10))
+Le persone addette ai servizi postali, da chiunque gestiti, sono considerate incaricate di pubblico servizio in conformita' all'[articolo 358 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md). ((Le persone addette ai servizi di notificazione a mezzo posta sono considerate pubblici ufficiali a tutti gli effetti)).((10))
 
 --------------
 
 AGGIORNAMENTO (10)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190), come modificata dalla [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 1, comma 97-quinquies) che "Le disposizioni di cui ai commi da 97-bis a 97-quater si applicano a decorrere dalla data di entrata in vigore del provvedimento del Ministero dello sviluppo economico che disciplina le procedure per il rilascio delle licenze di cui all'articolo 5, comma 2, secondo periodo, del [decreto legislativo 22 luglio 1999, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-22;261)".
+La [L. 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md), come modificata dalla [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 1, comma 97-quinquies) che "Le disposizioni di cui ai commi da 97-bis a 97-quater si applicano a decorrere dalla data di entrata in vigore del provvedimento del Ministero dello sviluppo economico che disciplina le procedure per il rilascio delle licenze di cui all'articolo 5, comma 2, secondo periodo, del [decreto legislativo 22 luglio 1999, n. 261](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2097-67-CE%20concernente%20regole%20comuni%20per%20lo%20sviluppo%20del%20mercato%20interno%20dei%20servizi%20postali%20comunitari%20e%20per%20il%20miglioramento%20della%20qualita%20del%20servizio.md)".
 
 ## Art. 18-bis.
 
@@ -693,11 +693,11 @@ Le condizioni generali di servizio, ((predisposte)) dal fornitore del servizio u
 
 2-bis.
 
-All'aggiornamento e alla modifica delle disposizioni dell'allegato al presente decreto legislativo derivanti da aggiornamenti e modifiche della [direttiva 97/67/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;67) si provvede con decreto del Ministro dello sviluppo economico ai sensi dell'[articolo 11, comma 5, della legge 4 febbraio 2005, n. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-02-04;11#art_11-com5).
+All'aggiornamento e alla modifica delle disposizioni dell'allegato al presente decreto legislativo derivanti da aggiornamenti e modifiche della [direttiva 97/67/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;67) si provvede con decreto del Ministro dello sviluppo economico ai sensi dell'[articolo 11, comma 5, della legge 4 febbraio 2005, n. 11](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20dellUnione%20europea%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md).
 
 2-ter.
 
-Le disposizioni di cui al presente decreto prevalgono sulle disposizioni di cui al [decreto legislativo 26 marzo 2010, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-26;59), recante attuazione della [direttiva 2006/123/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;123) relativa ai servizi nel mercato interno.
+Le disposizioni di cui al presente decreto prevalgono sulle disposizioni di cui al [decreto legislativo 26 marzo 2010, n. 59](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202006-123-CE%20relativa%20ai%20servizi%20nel%20mercato%20interno.%2010G0080.md), recante attuazione della [direttiva 2006/123/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2006;123) relativa ai servizi nel mercato interno.
 
 ))
 

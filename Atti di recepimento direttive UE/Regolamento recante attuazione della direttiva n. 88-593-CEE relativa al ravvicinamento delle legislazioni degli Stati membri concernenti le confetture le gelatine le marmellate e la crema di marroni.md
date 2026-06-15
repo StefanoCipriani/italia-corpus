@@ -18,7 +18,7 @@ IL MINISTRO DELLA SANITA'
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Visto l'[art. 5 della legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86#art_5);
+Visto l'[art. 5 della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md);
 
 Visto l'[art. 20 della legge 16 aprile 1987, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-04-16;183#art_20);
 
@@ -41,7 +41,7 @@ A D O T T A il seguente regolamento:
 Al punto 1 dell'[art. 2 del decreto del Presidente della Repubblica 8 giugno 1982, n. 401](Attuazione%20della%20direttiva%20CEE%20n.%2079-693%20relativa%20alle%20confetture%20gelatine%20e%20marmellate%20di%20frutta%20e%20crema%20di%20marroni.md), e' aggiunto il seguente periodo: "La confettura extra di cinorrodi puo' essere ottenuta totalmente o parzialmente dalla purea di cinorrodi".
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il [comma 3 dell'art. 17 della legge n. 400/1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988;400#art_17-com3) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
  Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
@@ -149,7 +149,7 @@ L'[art. 5 del decreto del Presidente della Repubblica 8 giugno 1982, n. 401](Att
  6. I succhi di frutta possono essere sottoposti ai trattamenti previsti dal [decreto del Presidente della Repubblica 18 maggio 1982, n. 489](Attuazione%20delle%20direttive%20CEE%20n.%2075-726%20e%20n.%2079-168%20relative%20ai%20succhi%20di%20frutta%20e%20prodotti%20simili.md), nonche' a quelli previsti al punto 2 allorche' siano destinati alla fabbricazione dei prodotti definiti all'art. 2, punti 4 e 5.
  7. Le scorze di agrumi possono essere conservate in salamoia.
  8. I tipi di zucchero che possono essere utilizzati nella
-preparazione dei prodotti di cui al presente decreto sono quelli indicati all'[art. 1 della legge 31 marzo 1980, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-31;139#art_1), nonche' il fruttosio".
+preparazione dei prodotti di cui al presente decreto sono quelli indicati all'[art. 1 della legge 31 marzo 1980, n. 139](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recepimento%20della%20direttiva%20adottata%20dal%20Consiglio%20della%20Comunita%20economica%20europea%20riguardante%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20concernenti%20determinati%20tipi%20di%20zucch_6f7de1cb98ea.md), nonche' il fruttosio".
 
 ## Art. 5.
 

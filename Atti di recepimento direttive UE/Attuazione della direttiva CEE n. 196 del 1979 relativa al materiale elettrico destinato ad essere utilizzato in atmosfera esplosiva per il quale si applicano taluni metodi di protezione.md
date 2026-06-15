@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
+Vista la [legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
 
 Vista la [direttiva n. 79/196 del 6 febbraio 1979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;196), emanata dal Consiglio delle Comunita' europee, concernente il materiale elettrico destinato ad essere utilizzato in atmosfera esplosiva, per il quale si applicano taluni metodi di protezione;
 
-Considerato che in data 14 maggio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42#art_1), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
+Considerato che in data 14 maggio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
 
 Tenuto conto delle osservazioni formulate in sede parlamentare;
 
@@ -43,7 +43,7 @@ Il presente decreto riguarda il materiale elettrico destinato ad essere utilizza
 
 AGGIORNAMENTO (2)
 
-Il Decreto 6 agosto 1998, (in G.U. 19/8/1998, n. 192), ha disposto (con l'art. 2, comma 1) che "Il materiale elettrico di cui all'[art. 1 del decreto del Presidente della Repubblica 21 luglio 1982, n. 675](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-21;675#art_1), la cui conformita' alle norme armonizzate sia comprovata da un certificato rilasciato, ai sensi dell'[art. 4 del decreto del Presidente della Repubblica 21 luglio 1982, n. 727](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-07-21;727#art_4), prima del 30 settembre 1998, puo' essere messo in commercio, venduto ed essere utilizzato fino al 30 giugno 2003".
+Il Decreto 6 agosto 1998, (in G.U. 19/8/1998, n. 192), ha disposto (con l'art. 2, comma 1) che "Il materiale elettrico di cui all'[art. 1 del decreto del Presidente della Repubblica 21 luglio 1982, n. 675](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%20196%20del%201979%20relativa%20al%20materiale%20elettrico%20destinato%20ad%20essere%20utilizzato%20in%20atmosfera%20esplosiva%20per%20il%20quale%20si%20applicano%20taluni%20metodi%20di%20protezione.md), la cui conformita' alle norme armonizzate sia comprovata da un certificato rilasciato, ai sensi dell'[art. 4 del decreto del Presidente della Repubblica 21 luglio 1982, n. 727](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2076-117%20relativa%20al%20materiale%20elettrico%20destinato%20ad%20essere%20utilizzato%20in%20atmosfera%20esplosiva.md), prima del 30 settembre 1998, puo' essere messo in commercio, venduto ed essere utilizzato fino al 30 giugno 2003".
 
 ## Art. 2.
 
@@ -67,7 +67,7 @@ Il Ministro dell'industria, del commercio e dell'artigianato, con proprio decret
 Chiunque viola le disposizioni di cui all'art. 2 e' punito con l'ammenda da L. 100.000 a lire 5 milioni o con l'arresto sino ad un anno.
  Salvo che il fatto costituisca reato, chiunque viola le disposizioni di cui all'art. 4 e' soggetto alla sanzione amministrativa del pagamento di una somma da lire 100.000 a lire 2 milioni.
  Per l'irrogazione della predetta sanzione amministrativa e per l'applicazione delle relative sanzioni accessorie si applicano le disposizioni di cui alla [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689).
- Fino all'emanazione del decreto del Presidente della Repubblica previsto all'art. 17, settimo comma, della legge di cui al comma precedente, si applicano, in via transitoria, le disposizioni di cui al decreto del Presidente della Repubblica 13 maggio 1976 che individuano gli uffici periferici dei Ministeri cui sono demandate attribuzioni per l'applicazione del sistema sanzionatorio previsto dalla [legge 24 dicembre 1975, n. 706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-24;706), nonche' le disposizioni di cui agli articoli da 3 a 9 e 13 di quest'ultima.
+ Fino all'emanazione del decreto del Presidente della Repubblica previsto all'art. 17, settimo comma, della legge di cui al comma precedente, si applicano, in via transitoria, le disposizioni di cui al decreto del Presidente della Repubblica 13 maggio 1976 che individuano gli uffici periferici dei Ministeri cui sono demandate attribuzioni per l'applicazione del sistema sanzionatorio previsto dalla [legge 24 dicembre 1975, n. 706](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sistema%20sanzionatorio%20delle%20norme%20che%20prevedono%20contravvenzioni%20punibili%20con%20lammenda.md), nonche' le disposizioni di cui agli articoli da 3 a 9 e 13 di quest'ultima.
 
 ## Art. 7.
 

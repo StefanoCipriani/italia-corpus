@@ -20,7 +20,7 @@ Visto il regolamento (CE) n. 1435/2003 del Consiglio, del 22 luglio 2003, relati
 
 Vista la [direttiva 2003/72/CE del Consiglio, del 22 luglio 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;72), che completa lo statuto della Societa' cooperativa europea per quanto riguarda il coinvolgimento dei lavoratori;
 
-Vista la [legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 2004);
+Vista la [legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 2004);
 
 Visto l'[articolo 410 e seguenti del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_410);
 
@@ -45,7 +45,7 @@ Il presente decreto legislativo disciplina il coinvolgimento dei lavoratori nell
 A tale fine sono stabilite modalita' relative al coinvolgimento dei lavoratori in ciascuna SCE, secondo la procedura di negoziazione di cui agli articoli da 3 a 6 del presente decreto o, nelle circostanze di cui agli articoli 7 e 8 del presente decreto, quella prevista nell'allegato al presente decreto legislativo.
 
 Avvertenze:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3 del testo unico sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3 del testo unico sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale dell'Unione europea (GUCE).
 
  Note alle premesse:
@@ -55,7 +55,7 @@ Avvertenze:
  - Il [decreto legislativo 30 giugno 2003, n. 196](Codice%20in%20materia%20di%20protezione%20dei%20dati%20personali%20%20recante%20disposizioni%20per%20ladeguamento%20dellordinamento%20nazionale%20al%20regolamento%20UE%20n.%202016-679%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20de_1077588393e9.md), e' pubblicato nella Gazzetta Ufficiale della Repubblica italiana del 29 luglio 2003, n. 174, S.O.
  - Il regolamento (CE) n. 1435/2003 del Consiglio, del 22 luglio 2003, e' pubblicato nella G.U.C.E. del 18 agosto 2003, n. L 207.
  - La [direttiva 2003/72/CE del Consiglio, del 22 luglio 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;72), e' pubblicata nella G.U.C.E. del 18 agosto 2003, n. L 207.
- - La [legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62), e' pubblicata nella Gazzetta Ufficiale della Repubblica italiana del 27 aprile 2005, n. 96, S.O.
+ - La [legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), e' pubblicata nella Gazzetta Ufficiale della Repubblica italiana del 27 aprile 2005, n. 96, S.O.
  - Gli [articoli da 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_109) [a 412-quater, del codice di procedura civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.procedura.civile:1940-10-28;1443#art_412quater) sono compresi nel Titolo IV - Norme per le controversie in materia di lavoro - Capo I - Delle controversie individuali di lavoro - Sezione I - Disposizioni generali.
 
  Nota all'art. 1:

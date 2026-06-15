@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 22 della legge 19 dicembre 1992, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489#art_22), recante delega al Governo per l'attuazione della [direttiva 91/682/CEE del Consiglio del 19 dicembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;682);
+Visto l'[art. 22 della legge 19 dicembre 1992, n. 489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md), recante delega al Governo per l'attuazione della [direttiva 91/682/CEE del Consiglio del 19 dicembre 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;682);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 dicembre 1992;
 
@@ -46,7 +46,7 @@ E M A N A il seguente decreto legislativo:
 
  
 AGGIORNAMENTO (2) 
- Il [D. Lgs. 19 maggio 2000, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-19;151) ha disposto (con l'art. 13, comma 2) che " Fino all'emanazione del decreto previsto dall'articolo 7, comma 2, si applicano le disposizioni di cui agli articoli 5, comma 1, lettera f), e 14, comma 1, del citato [decreto legislativo n. 535 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;535)."
+ Il [D. Lgs. 19 maggio 2000, n. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-56-CE%20relativa%20alla%20commercializzazione%20dei%20materiali%20di%20moltiplicazione%20delle%20piante%20ornamentali.md) ha disposto (con l'art. 13, comma 2) che " Fino all'emanazione del decreto previsto dall'articolo 7, comma 2, si applicano le disposizioni di cui agli articoli 5, comma 1, lettera f), e 14, comma 1, del citato [decreto legislativo n. 535 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;535)."
 
 ## Art. 6.
 
@@ -110,7 +110,7 @@ L'ammontare dei diritti dovra' coprire tutti gli oneri necessari all'istituzione
 
  
 AGGIORNAMENTO (2) 
- Il [D. Lgs. 19 maggio 2000, n. 151](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-05-19;151) ha disposto (con l'art. 13, comma 2) che " Fino all'emanazione del decreto previsto dall'articolo 7, comma 2, si applicano le disposizioni di cui agli articoli 5, comma 1, lettera f), e 14, comma 1, del citato [decreto legislativo n. 535 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;535)."
+ Il [D. Lgs. 19 maggio 2000, n. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2098-56-CE%20relativa%20alla%20commercializzazione%20dei%20materiali%20di%20moltiplicazione%20delle%20piante%20ornamentali.md) ha disposto (con l'art. 13, comma 2) che " Fino all'emanazione del decreto previsto dall'articolo 7, comma 2, si applicano le disposizioni di cui agli articoli 5, comma 1, lettera f), e 14, comma 1, del citato [decreto legislativo n. 535 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;535)."
 
 ## Art. 15.
 

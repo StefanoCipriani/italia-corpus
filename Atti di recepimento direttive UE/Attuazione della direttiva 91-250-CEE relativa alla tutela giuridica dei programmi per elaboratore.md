@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 7 della legge 19 dicembre 1992, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489#art_7), recante delega al Governo per l'attuazione della [direttiva 91/250/CEE del Consiglio del 14 maggio 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;250), relativa alla tutela giuridica dei programmi per elaboratore;
+Visto l'[art. 7 della legge 19 dicembre 1992, n. 489](../Leggi%20di%20delegazione%20europea/Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md), recante delega al Governo per l'attuazione della [direttiva 91/250/CEE del Consiglio del 14 maggio 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;250), relativa alla tutela giuridica dei programmi per elaboratore;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 dicembre 1992;
 
@@ -25,9 +25,9 @@ E M A N A il seguente decreto legislativo:
 1.
 
 All'[art. 1 della legge 22 aprile 1941, n. 633](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1941-04-22;633#art_1), e' aggiunto il seguente comma:
- "Sono altresi' protetti i programmi per elaboratore come opere letterarie ai sensi della Convenzione di Berna sulla protezione delle opere letterarie ed artistiche ratificata e resa esecutiva con [legge 20 giugno 1978, n. 399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-20;399)".
+ "Sono altresi' protetti i programmi per elaboratore come opere letterarie ai sensi della Convenzione di Berna sulla protezione delle opere letterarie ed artistiche ratificata e resa esecutiva con [legge 20 giugno 1978, n. 399](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20di%20Berna%20per%20la%20protezione%20delle%20opere%20letterarie%20ed%20artistiche%20firmata%20il%209%20settembre%201886%20completata%20a%20Parigi%20il%204%20maggio%201896%20riveduta%20a%20Berlin_aaf093302758.md)".
  AVVERTENZA:
- Per ragioni di urgenza si omette la pubblicazione delle note al presente decreto legislativo, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 14 marzo 1986, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-03-14;217).
+ Per ragioni di urgenza si omette la pubblicazione delle note al presente decreto legislativo, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
 
 ## Art. 2.
 
@@ -74,7 +74,7 @@ Dopo la sezione V del capo IV del titolo I della [legge 22 aprile 1941, n. 633](
  b) siano comunicate a terzi, fatta salva la necessita' di consentire l'interoperabilita' del programma creato autonomamente;
  c) siano utilizzate per lo sviluppo, la produzione o la commercializzazione di un programma per elaboratore sostanzialmente simile nella sua forma espressiva, o per ogni altra attivita' che violi il diritto di autore.
  3. Gli accordi contrattuali conclusi in violazione dei commi 1 e 2 sono nulli.
- 4. Conformemente alla convenzione di Berna sulla tutela delle opere letterarie ed artistiche ratificata e resa esecutiva con [legge 20 giugno 1978, n. 399](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-06-20;399), le disposizioni del presente articolo non possono essere interpretate in modo da consentire che la loro applicazione arrechi indebitamente pregiudizio agli interessi legittimi del titolare dei diritti o sia in conflitto con il normale sfruttamento del programma".
+ 4. Conformemente alla convenzione di Berna sulla tutela delle opere letterarie ed artistiche ratificata e resa esecutiva con [legge 20 giugno 1978, n. 399](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20di%20Berna%20per%20la%20protezione%20delle%20opere%20letterarie%20ed%20artistiche%20firmata%20il%209%20settembre%201886%20completata%20a%20Parigi%20il%204%20maggio%201896%20riveduta%20a%20Berlin_aaf093302758.md), le disposizioni del presente articolo non possono essere interpretate in modo da consentire che la loro applicazione arrechi indebitamente pregiudizio agli interessi legittimi del titolare dei diritti o sia in conflitto con il normale sfruttamento del programma".
 
 ## Art. 6.
 

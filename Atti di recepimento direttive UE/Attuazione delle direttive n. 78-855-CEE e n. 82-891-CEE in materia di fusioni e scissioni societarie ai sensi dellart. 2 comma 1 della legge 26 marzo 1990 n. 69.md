@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 26 marzo 1990, n. 69, che all'art. 2, comma 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-03-26;69#art_2-com1), prevede l'emanazione di un decreto legislativo per dare attuazione alle direttive del Consiglio delle Comunita' europee n. 78/855 e n. 82/891 in materia di fusioni e scissioni societarie;
+Vista la [legge 26 marzo 1990, n. 69, che all'art. 2, comma 1](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20lattuazione%20di%20direttive%20comunitarie%20in%20materia%20societaria.md), prevede l'emanazione di un decreto legislativo per dare attuazione alle direttive del Consiglio delle Comunita' europee n. 78/855 e n. 82/891 in materia di fusioni e scissioni societarie;
 
 Udito il parere delle competenti Commissioni parlamentari;
 
@@ -32,7 +32,7 @@ L'intitolazione del capo VIII del titolo V del libro V del [codice civile](https
  E DELLA SCISSIONE DELLE SOCIETA'"
 
 AVVERTENZA: 
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 2, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 2, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2.
 
@@ -265,7 +265,7 @@ L'[art. 2623 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 1.
 
-L'[art. 7 del decreto del Presidente della Repubblica 31 marzo 1975, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1975-03-31;136#art_7), e' sostituito dal seguente: 
+L'[art. 7 del decreto del Presidente della Repubblica 31 marzo 1975, n. 136](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%202%20lettera%20a%20della%20legge%207%20giugno%201974%20n.%20216%20concernente%20il%20controllo%20contabile%20e%20la%20certificazione%20dei%20bilanci%20delle%20societa%20per%20azioni%20quotate%20in%20borsa.md), e' sostituito dal seguente: 
  "Art. 7 (Proposte di aumento di capitale). - Nelle societa' con azioni quotate in borsa le proposte di aumento del capitale sociale con esclusione o limitazione del diritto di opzione devono essere comunicate alla societa' incaricata della revisione, unitamente alla relazione illustrativa degli amministratori di cui al [sesto comma dell'art. 2441 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2441-com6), almeno quarantacinque giorni prima di quello fissato per l'assemblea che deve discuterle. 
  Entro trenta giorni dal ricevimento della proposta la societa' di revisione esprime per iscritto il proprio parere sulla congruita' del prezzo di emissione delle azioni, sottoscrivendolo a norma del secondo comma del precedente art. 4. 
  In caso di aumento del capitale mediante conferimenti in natura, i compiti attribuiti ai sindaci dall'[art. 2440 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_2440) sono svolti dalla societa' di revisione. 
@@ -285,7 +285,7 @@ Per operazioni di fusione o di scissione in corso si intendono quelle per le qua
 
 1.
 
-La [legge 19 novembre 1942, n. 1472](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-11-19;1472), recante provvedimenti per le fusioni di societa' commerciali, e' abrogata.
+La [legge 19 novembre 1942, n. 1472](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20per%20le%20fusioni%20di%20societa%20commerciali.%20042U1472.md), recante provvedimenti per le fusioni di societa' commerciali, e' abrogata.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

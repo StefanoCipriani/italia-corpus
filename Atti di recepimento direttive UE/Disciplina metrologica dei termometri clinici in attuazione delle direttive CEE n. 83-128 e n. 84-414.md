@@ -21,7 +21,7 @@ PROMULGA la seguente legge:
 La presente legge si applica ai termometri clinici di vetro a mercurio del tipo a massima, destinati ad indicare la temperatura corporea umana o degli animali, di seguito denominati "termometri clinici".
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 
 ## Art. 2. — Disposizioni generali
@@ -67,7 +67,7 @@ La verificazione prima dei termometri clinici deve accertare la loro conformita'
 
 4.
 
-L'esito positivo della verificazione prima viene attestato da apposito bollo legale, la cui impronta e' riprodotta nell'allegato al [decreto del Presidente della Repubblica 8 maggio 1948, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1948-05-08;734), accompagnato dal numero distintivo dell'ufficio provinciale metrico, oppure, nei casi di delega ad enti pubblici o a loro aziende, del laboratorio che ha eseguito la verificazione prima.
+L'esito positivo della verificazione prima viene attestato da apposito bollo legale, la cui impronta e' riprodotta nell'allegato al [decreto del Presidente della Repubblica 8 maggio 1948, n. 734](../DPR/Approvazione%20della%20tabella%20dei%20bolli%20per%20il%20servizio%20metrico.md), accompagnato dal numero distintivo dell'ufficio provinciale metrico, oppure, nei casi di delega ad enti pubblici o a loro aziende, del laboratorio che ha eseguito la verificazione prima.
 
 5.
 

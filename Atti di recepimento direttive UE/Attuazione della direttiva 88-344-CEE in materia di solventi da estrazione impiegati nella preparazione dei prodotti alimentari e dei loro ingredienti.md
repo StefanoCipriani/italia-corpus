@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 49 della legge 19 febbraio 1992, n. 142](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-19;142#art_49), recante delega al Governo per l'attuazione della [direttiva 88/344/CEE del Consiglio del 13 giugno 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;344) concernente il riavvicinamento delle legislazioni degli Stati membri riguardanti i solventi da estrazione impiegati nella preparazione dei prodotti alimentari e dei loro ingredienti;
+Visto l'[art. 49 della legge 19 febbraio 1992, n. 142](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20legge%20comunitaria%20per%20il%201991.md), recante delega al Governo per l'attuazione della [direttiva 88/344/CEE del Consiglio del 13 giugno 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;344) concernente il riavvicinamento delle legislazioni degli Stati membri riguardanti i solventi da estrazione impiegati nella preparazione dei prodotti alimentari e dei loro ingredienti;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 10 dicembre 1992;
 
@@ -130,7 +130,7 @@ Il Ministro della sanita', sentito il Consiglio superiore di sanita', determina,
 
 1.
 
-Per quanto non espressamente previsto dal presente decreto si applicano le disposizioni di cui alla [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), modificata dalla [legge 26 febbraio 1963, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-26;441) e al [decreto-legge 18 giugno 1986, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-06-18;282), convertito, con modificazioni, dalla [legge 7 agosto 1986, n. 462](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-07;462).
+Per quanto non espressamente previsto dal presente decreto si applicano le disposizioni di cui alla [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), modificata dalla [legge 26 febbraio 1963, n. 441](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1963-02-26;441) e al [decreto-legge 18 giugno 1986, n. 282](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-06-18;282), convertito, con modificazioni, dalla [legge 7 agosto 1986, n. 462](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20giugno%201986%20n.%20282%20recante%20misure%20urgenti%20in%20materia%20di%20prevenzione%20e%20repressione%20delle%20sofisticazioni%20alimentari.md).
 
 ## Art. 9. — S a n z i o n i
 

@@ -188,7 +188,7 @@ Chiunque produce o importa bottiglie recipienti-misura munite del contrassegno d
 
 ### Art. 18. — Modalita' di applicazione delle sanzioni
 
-Le sanzioni amministrative previste dal presente decreto sono applicate dagli uffici metrici provinciali con l'osservanza delle disposizioni di cui agli [articoli da 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-24;706#art_3) [a 9 della legge 24 dicembre 1975, n. 706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-24;706#art_9).
+Le sanzioni amministrative previste dal presente decreto sono applicate dagli uffici metrici provinciali con l'osservanza delle disposizioni di cui agli [articoli da 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sistema%20sanzionatorio%20delle%20norme%20che%20prevedono%20contravvenzioni%20punibili%20con%20lammenda.md) [a 9 della legge 24 dicembre 1975, n. 706](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sistema%20sanzionatorio%20delle%20norme%20che%20prevedono%20contravvenzioni%20punibili%20con%20lammenda.md).
 
 ### Art. 19.
 

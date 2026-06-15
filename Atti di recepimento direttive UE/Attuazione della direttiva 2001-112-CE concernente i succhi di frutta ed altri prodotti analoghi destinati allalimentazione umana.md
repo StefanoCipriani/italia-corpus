@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 3 febbraio 2003, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-02-03;14), ed in particolare gli articoli 1 e 2 e l'allegato B;
+Vista la [legge 3 febbraio 2003, n. 14](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202002.md), ed in particolare gli articoli 1 e 2 e l'allegato B;
 
 Vista la [direttiva 2001/112/CE del Consiglio del 20 dicembre 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;112), concernente i succhi di frutta e altri prodotti analoghi destinati all'alimentazione umana;
 
@@ -22,7 +22,7 @@ Visto il [decreto legislativo 16 febbraio 1993, n. 77](Attuazione%20della%20dire
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 9 gennaio 2004;
 
-Considerato che la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano non ha espresso il prescritto parere nel termine di cui all'[articolo 2, comma 3, del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_2-com3);
+Considerato che la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano non ha espresso il prescritto parere nel termine di cui all'[articolo 2, comma 3, del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
 Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
 
@@ -89,7 +89,7 @@ I prodotti di cui all'articolo 1, comma 1, possono essere sottoposti ai trattame
 
 Si applicano le seguenti particolari disposizioni:
                         a)
-                            LETTERA SOPPRESSA DAL [D.LGS. 19 FEBBRAIO 2014, N. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2014-02-19;20);
+                            LETTERA SOPPRESSA DAL [D.LGS. 19 FEBBRAIO 2014, N. 20](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202012-12-UE%20che%20modifica%20la%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20e%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.%2014G00032.md);
                         b)
                             le diciture "da concentrato", "da concentrati", "parzialmente da concentrato" o "parzialmente da concentrati" devono figurare nell'etichettatura delle miscele di succo di frutta e di succo di frutta ottenuto da concentrato e di nettare di frutta ottenuto interamente o parzialmente da concentrato immediatamente accanto alla denominazione di vendita, in evidenza rispetto all'intero contesto e a caratteri chiaramente visibili;
                         b-bis)
@@ -136,7 +136,7 @@ Agli effetti del comma 5, se il prodotto e' fabbricato con una sola specie di fr
 
 AGGIORNAMENTO (4)
 
-Il [D.Lgs. 30 dicembre 2025, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2025-12-30;207) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
+Il [D.Lgs. 30 dicembre 2025, n. 207](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202024-1438%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2014%20maggio%202024%20che%20modifica%20la%20direttiva%202001-110-CE%20del%20Consiglio%20concernente%20il%20miele%20la%20direttiva%20200_421beedf840d.md) ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
  Ha inoltre disposto (con l'art. 5, comma 2) che "I prodotti immessi sul mercato o etichettati anteriormente al 14 giugno 2026, in conformita' alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono essere commercializzati fino all'esaurimento delle scorte".
 
 ## Art. 5. — Abrogazione
@@ -191,7 +191,7 @@ L'indicazione "Dal 28 aprile 2015 i succhi di frutta non possono contenere zucch
 
 1.
 
-All'aggiornamento e alla modifica delle disposizioni degli allegati al presente decreto legislativo derivanti da aggiornamenti e modifiche della [direttiva 2001/112/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;112) si provvede con decreto del Ministro dello sviluppo economico ai sensi dell'[articolo 35, comma 3, della legge 24 dicembre 2012, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234#art_35-com3).
+All'aggiornamento e alla modifica delle disposizioni degli allegati al presente decreto legislativo derivanti da aggiornamenti e modifiche della [direttiva 2001/112/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;112) si provvede con decreto del Ministro dello sviluppo economico ai sensi dell'[articolo 35, comma 3, della legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md).
 
 ))
 

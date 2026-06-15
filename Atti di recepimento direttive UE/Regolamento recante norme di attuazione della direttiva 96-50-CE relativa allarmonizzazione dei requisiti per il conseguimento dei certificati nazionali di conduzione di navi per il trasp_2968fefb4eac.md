@@ -14,17 +14,17 @@ Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.i
 
 Vista la [direttiva 96/50/CE del Consiglio del 23 luglio 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;50) riguardante l'armonizzazione dei requisiti per il conseguimento dei certificati nazionali di conduzione di navi per il trasporto di merci e di persone nella Comunita' nel settore della navigazione interna;
 
-Vista la [legge 24 aprile 1998, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-04-24;128), recante: "Disposizioni derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1995-1997" ed in particolare l'articolo 5 e l'allegato C;
+Vista la [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), recante: "Disposizioni derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1995-1997" ed in particolare l'articolo 5 e l'allegato C;
 
-Visto l'[articolo 134 del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_134), approvato con [regio decreto 30 marzo 1942, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327);
+Visto l'[articolo 134 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md);
 
-Visti gli articoli da 49 a 53 del regolamento per la navigazione interna approvato con [decreto del Presidente della Repubblica 28 giugno 1949, n. 631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-06-28;631);
+Visti gli articoli da 49 a 53 del regolamento per la navigazione interna approvato con [decreto del Presidente della Repubblica 28 giugno 1949, n. 631](../DPR/Approvazione%20del%20regolamento%20per%20la%20navigazione%20interna.md);
 
 Visto il decreto ministeriale 16 febbraio 1971, che ha istituito il titolo professionale di pilota motorista per il personale navigante della navigazione interna, pubblicato nella Gazzetta Ufficiale n. 75 del 25 marzo 1971;
 
 Visto il decreto ministeriale 28 luglio 1979, che ha istituito, tra l'altro, il titolo professionale di timoniere per il personale navigante della navigazione interna, pubblicato nella Gazzetta Ufficiale n. 239 del 31 agosto 1979;
 
-Visto il [decreto del Presidente della Repubblica 19 gennaio 1957, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-19;332), recante norme relative agli accertamenti sanitari per l'iscrizione nelle matricole del personale navigante della navigazione interna e per il conseguimento dei rispettivi titoli professionali;
+Visto il [decreto del Presidente della Repubblica 19 gennaio 1957, n. 332](../DPR/Norme%20relative%20agli%20accertamenti%20sanitari%20per%20liscrizione%20nelle%20matricole%20del%20personale%20navigante%20della%20navigazione%20interna%20e%20per%20il%20conseguimento%20dei%20rispettivi%20titoli%20professionali.md), recante norme relative agli accertamenti sanitari per l'iscrizione nelle matricole del personale navigante della navigazione interna e per il conseguimento dei rispettivi titoli professionali;
 
 Visto il decreto del Presidente della Repubblica 7 aprile 1959, pubblicato nella Gazzetta Ufficiale n. 137 dell'11 giugno 1959, e successive modifiche e integrazioni, recante norme sullo svolgimento degli esami e la composizione delle rispettive commissioni esaminatrici per il conferimento dei titoli professionali e delle qualifiche di autorizzato della navigazione;
 
@@ -57,19 +57,19 @@ Ai fini del presente regolamento, si intende per:
                             "membro del personale di coperta", una persona che regolarmente partecipa alla conduzione ed alla tenuta del timone di una nave per la navigazione interna.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
  Note alle premesse:
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e di regolamenti.
  - La [direttiva 96/50/CE del Consiglio del 23 luglio 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;50) e' stata pubblicata nella Gazzetta Ufficiale delle Comunita' europee L 235 del 17 settembre 1996.
- - La [legge 24 aprile 1998, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-04-24;128), reca: "Disposizioni per l'adempimento di obblighi derivanti dalla appartenenza dell'Italia alle Comunita' europee (Legge comunitaria 1995-1997)". L'art. 5 e l'allegato C cosi' recitano:
+ - La [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), reca: "Disposizioni per l'adempimento di obblighi derivanti dalla appartenenza dell'Italia alle Comunita' europee (Legge comunitaria 1995-1997)". L'art. 5 e l'allegato C cosi' recitano:
  "Art. 5 (Attuazione di direttive comunitarie con regolamento autorizzato). - 1. Il Governo e' autorizzato a dare attuazione alle direttive comprese nell'elenco di cui all'allegato C con uno o piu' regolamenti ai sensi dell'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), adottati previo parere delle commissioni parlamentari e del Consiglio di Stato, attenendosi a principi e criteri direttivi corrispondenti a quelli enunciati nelle lettere b), e), f) e g) del comma 1 dell'art. 2.
- 2. Fermo restando il disposto dell'[art. 5, comma 1, della legge 9 marzo 1989, n. 86](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-03-09;86#art_5-com1), i regolamenti di cui al comma 1 del presente articolo possono altresi', per tutte le materie non coperte da riserva assoluta di legge, dare attuazione alle direttive anche se precedentemente trasposte, di cui le direttive comprese nell'allegato C costituiscano la modifica, l'aggiornamento od il completamento.
+ 2. Fermo restando il disposto dell'[art. 5, comma 1, della legge 9 marzo 1989, n. 86](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20al%20processo%20normativo%20comunitario%20e%20sulle%20procedure%20di%20esecuzione%20degli%20obblighi%20comunitari.md), i regolamenti di cui al comma 1 del presente articolo possono altresi', per tutte le materie non coperte da riserva assoluta di legge, dare attuazione alle direttive anche se precedentemente trasposte, di cui le direttive comprese nell'allegato C costituiscano la modifica, l'aggiornamento od il completamento.
  3. Ove le direttive cui essi danno attuazione prescrivano di adottare discipline sanzionatorie, il Governo, in deroga a quanto stabilito nell'art. 8, puo' prevedere nei regolamenti di cui al comma 1, per le fattispecie individuate dalle direttive stesse, adeguate sanzioni amministrative, che dovranno essere determinate in ottemperanza ai principi stabiliti in materia dalla lettera e) del comma 1 dell'art. 2".
  "Allegato C
  (Omissis). 96/50/CE: direttiva del Consiglio del 23 luglio 1996, riguardante l'armonizzazione dei requisiti per il conseguimento dei certificati nazionali di conduzione di navi per il trasporto di merci e di persone nella Comunita' nel settore della navigazione interna.
  (Omissis)"
- - L'[art. 134 del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_134), approvato con [regio decreto 30 marzo 1942, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;137), cosi' recita:
+ - L'[art. 134 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), approvato con [regio decreto 30 marzo 1942, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;137), cosi' recita:
  "Art. 134 (Titoli professionali del personale). - Per i servizi di coperta i titoli professionali sono:
  a) capitano;
  b) capo timoniere;
@@ -83,7 +83,7 @@ Avvertenza:
  I requisiti per il conseguimento dei titoli, i limiti dell'abilitazione professionale propria a ciascun titolo e le modalita' del rilascio sono stabiliti da regolamento.
  Il Ministro per i trasporti, in relazione alle caratteristiche e alle esigenze dei trasporti, puo' determinare altre qualifiche relative all'esercizio della navigazione interna, stabilendo le condizioni e le modalita' per il conseguimento dei relativi titoli professionali.
  I limiti e le abilitazioni professionali del personale addetto ai servizi portuali sono stabiliti da leggi o regolamenti speciali".
- - Il [decreto del Presidente della Repubblica del 28 giugno 1949, n. 631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-06-28;631), reca: "Approvazione del regolamento per la navigazione interna". Gli articoli da 49 a 53 cosi' recitano:
+ - Il [decreto del Presidente della Repubblica del 28 giugno 1949, n. 631](../DPR/Approvazione%20del%20regolamento%20per%20la%20navigazione%20interna.md), reca: "Approvazione del regolamento per la navigazione interna". Gli articoli da 49 a 53 cosi' recitano:
  "Art. 49 (Capitano). - Per conseguire il titolo di capitano occorrono i seguenti requisiti:
  1) essere iscritto nella prima categoria del personale navigante;
  2) aver compiuto i ventuno anni di eta';
@@ -192,10 +192,10 @@ Il presente regolamento si applica ai conduttori delle seguenti navi per la navi
 
 2.
 
-Ai conduttori di cui al comma 1, lettera c), continuano ad essere rilasciati i titoli professionali nazionali secondo le modalita' stabilite dal [decreto del Presidente della Repubblica 28 giugno 1949, n. 631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-06-28;631), e successive modifiche ed integrazioni.
+Ai conduttori di cui al comma 1, lettera c), continuano ad essere rilasciati i titoli professionali nazionali secondo le modalita' stabilite dal [decreto del Presidente della Repubblica 28 giugno 1949, n. 631](../DPR/Approvazione%20del%20regolamento%20per%20la%20navigazione%20interna.md), e successive modifiche ed integrazioni.
 
 Nota all'[art. 3:
- - Per il decreto del Presidente della Repubblica 28 giugno 1949, n. 631](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1949-06-28;631#art_3), vedi nelle note alle premesse.
+ - Per il decreto del Presidente della Repubblica 28 giugno 1949, n. 631](../DPR/Approvazione%20del%20regolamento%20per%20la%20navigazione%20interna.md), vedi nelle note alle premesse.
 
 ## Art. 4. — Procedura e requisiti minimi per il conseguimento del certificato
 
@@ -207,7 +207,7 @@ Per conseguire il "certificato" sia del tipo A che del tipo B, il richiedente de
                         b)
                             aver conseguito il diploma di scuola secondaria di primo grado;
                         c)
-                            essere fisicamente e mentalmente idoneo; avere adeguata motricita' degli arti superiori ed inferiori; non presentare menomazioni tali da diminuire notevolmente la capacita' lavorativa o da costituire pericolo per se' e per gli altri, ne' sintomi manifesti di malattie psichiatriche e vascolari; avere, per quanto riguarda la vista, l'udito e il senso cromatico, i requisiti minimi previsti dalla tabella B annessa al [decreto del Presidente della Repubblica 19 gennaio 1957, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-19;332);
+                            essere fisicamente e mentalmente idoneo; avere adeguata motricita' degli arti superiori ed inferiori; non presentare menomazioni tali da diminuire notevolmente la capacita' lavorativa o da costituire pericolo per se' e per gli altri, ne' sintomi manifesti di malattie psichiatriche e vascolari; avere, per quanto riguarda la vista, l'udito e il senso cromatico, i requisiti minimi previsti dalla tabella B annessa al [decreto del Presidente della Repubblica 19 gennaio 1957, n. 332](../DPR/Norme%20relative%20agli%20accertamenti%20sanitari%20per%20liscrizione%20nelle%20matricole%20del%20personale%20navigante%20della%20navigazione%20interna%20e%20per%20il%20conseguimento%20dei%20rispettivi%20titoli%20professionali.md);
                         d)
                             aver maturato un'esperienza professionale di almeno quattro anni in qualita' di membro di personale di coperta a bordo di una nave per la navigazione interna;
                         e)
@@ -242,7 +242,7 @@ Gli esami di cui al comma 1, lettera e), sono sostenuti, ai sensi del decreto de
 Le spese relative alle visite mediche di cui ai commi 2 e 3 sono a carico dei richiedenti.
 
 Note all'[art. 4:
- - Il decreto del Presidente della Repubblica 19 gennaio 1957, n. 332](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-19;332#art_4), reca: "Norme relative agli accertamenti sanitari per l'iscrizione delle matricole del personale navigante della navigazione interna e per il conseguimento dei rispettivi titoli professionali". La tabella contenuta nell'allegato B cosi' recita:
+ - Il decreto del Presidente della Repubblica 19 gennaio 1957, n. 332](../DPR/Norme%20relative%20agli%20accertamenti%20sanitari%20per%20liscrizione%20nelle%20matricole%20del%20personale%20navigante%20della%20navigazione%20interna%20e%20per%20il%20conseguimento%20dei%20rispettivi%20titoli%20professionali.md), reca: "Norme relative agli accertamenti sanitari per l'iscrizione delle matricole del personale navigante della navigazione interna e per il conseguimento dei rispettivi titoli professionali". La tabella contenuta nell'allegato B cosi' recita:
  ----> vedere tabella a pagina 21 della G. U. <---- -
  Per il decreto del Presidente della Repubblica 7 aprile 1959 vedi in nota all'art. 1.
 

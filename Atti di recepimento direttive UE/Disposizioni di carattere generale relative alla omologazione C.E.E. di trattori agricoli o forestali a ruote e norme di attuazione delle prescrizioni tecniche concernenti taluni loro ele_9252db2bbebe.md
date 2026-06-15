@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 8 agosto 1977, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;572), recante le norme di attuazione delle direttive del Consiglio delle Comunita' europee concernenti il ravvicinamento delle legislazioni degli Stati membri relative all'omologazione dei trattori agricoli o forestali a ruote;
+Vista la [legge 8 agosto 1977, n. 572](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20delle%20direttive%20delle%20Comunita%20europee%20concernenti%20il%20riavvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20allomologazione%20dei%20trattori%20agricoli%20o%20forestali%20a%20ruote.md), recante le norme di attuazione delle direttive del Consiglio delle Comunita' europee concernenti il ravvicinamento delle legislazioni degli Stati membri relative all'omologazione dei trattori agricoli o forestali a ruote;
 
 Visto in particolare l'art. 3 della predetta legge che prevede l'emanazione delle prescrizioni tecniche adeguate alle corrispondenti disposizioni approvate dai competenti organi delle Comunita' europee;
 
@@ -58,7 +58,7 @@ Il "certificato di conformita'" e' il documento mediante il quale il costruttore
 
 ### Art. 4.
 
-Nelle more dell'emanazione di tutte le prescrizioni tecniche previste dalla scheda di omologazione, il Ministero dei trasporti, qualora il tipo di trattore agricolo o forestale a ruote soddisfi ai controlli effettuati in conformita' alle singole prescrizioni tecniche gia' adottate, in applicazione dell'[art. 9 della legge 8 agosto 1977, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;572#art_9) e su richiesta dell'interessato, rilascia la scheda di omologazione compilata per la sola parte relativa ai controlli effettuati in conformita' alle predette prescrizioni.
+Nelle more dell'emanazione di tutte le prescrizioni tecniche previste dalla scheda di omologazione, il Ministero dei trasporti, qualora il tipo di trattore agricolo o forestale a ruote soddisfi ai controlli effettuati in conformita' alle singole prescrizioni tecniche gia' adottate, in applicazione dell'[art. 9 della legge 8 agosto 1977, n. 572](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20delle%20direttive%20delle%20Comunita%20europee%20concernenti%20il%20riavvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20allomologazione%20dei%20trattori%20agricoli%20o%20forestali%20a%20ruote.md) e su richiesta dell'interessato, rilascia la scheda di omologazione compilata per la sola parte relativa ai controlli effettuati in conformita' alle predette prescrizioni.
 
 ## ATTUAZIONE DELLE PRESCRIZIONI TECNICHE DI CUI ALLA DIRETTIVA PARTICOLARE N. 74/151/CEE
 

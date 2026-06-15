@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 24 aprile 1998, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-04-24;128);
+Vista la [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md);
 
 Vista la [direttiva 97/12/CE del Consiglio, del 17 marzo 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1997;12), che modifica e aggiorna la [direttiva 64/432/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1964;432) relativa ai problemi di polizia sanitaria in materia di scambi intracomunitari di animali della specie bovina e suina, come modificata dalle [direttive 98/46/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;46) e [98/99/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;99);
 
 Vista la decisione 90/424/CEE;
 
-Vista la [legge 30 aprile 1976, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;397), e successive modifiche;
+Vista la [legge 30 aprile 1976, n. 397](Norme%20sanitarie%20sugli%20scambi%20di%20animali%20tra%20lItalia%20e%20gli%20altri%20Stati%20membri%20della%20Comunita%20economica%20europea.md), e successive modifiche;
 
 Visto il [decreto legislativo 30 gennaio 1993, n. 28](Attuazione%20delle%20direttive%2089-662-CEE%20e%2090-425-CEE%20relative%20ai%20controlli%20veterinari%20e%20zootecnici%20di%20taluni%20animali%20vivi%20e%20su%20prodotti%20di%20origine%20animale%20applicabili%20negli%20scambi%20intracomunitari.md), e successive modifiche;
 
@@ -26,7 +26,7 @@ Visto il [decreto legislativo 3 marzo 1993, n. 93](Attuazione%20delle%20direttiv
 
 Visto il regolamento (CE) n. 820/97 del Consiglio, del 21 aprile 1997, che istituisce un sistema d'identificazione e di registrazione dei bovini e relativo all'etichettatura delle carni bovine e dei prodotti a base di carni bovine;
 
-Visto il [decreto legislativo 31 marzo 1998, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;112);
+Visto il [decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md);
 
 Sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano;
 

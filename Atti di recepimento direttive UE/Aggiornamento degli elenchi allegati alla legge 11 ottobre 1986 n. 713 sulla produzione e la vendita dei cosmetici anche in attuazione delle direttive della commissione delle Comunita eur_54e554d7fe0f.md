@@ -14,7 +14,7 @@ DI CONCERTO CON
 
 IL MINISTRO DELL'INDUSTRIA, DEL COMMERCIO E DELL'ARTIGIANATO
 
-Vista la [legge 11 ottobre 1986, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-11;713), recante norme per l'attuazione delle direttive della Comunita' economica europea sulla produzione e la vendita dei cosmetici;
+Vista la [legge 11 ottobre 1986, n. 713](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea%20sulla%20produzione%20e%20la%20vendita%20dei%20cosmetici.md), recante norme per l'attuazione delle direttive della Comunita' economica europea sulla produzione e la vendita dei cosmetici;
 
 Visto l'art. 2, comma 6, della predetta legge, che stabilisce che gli elenchi e le prescrizioni di cui agli allegati della stessa sono aggiornati, tenuto conto anche delle direttive della Comunita' economica europea, con decreto del Ministro della sanita', di concerto con il Ministro dell'industria, del commercio e dell'artigianato;
 
@@ -24,7 +24,7 @@ perossido di benzoile; formaldeide; minoxidil; sostanze derivate dalla distillaz
 
 Visto il decreto ministeriale 31 luglio 1985, pubblicato nella Gazzetta Ufficiale n. 197 del 22 agosto 1985, con il quale e' stato riammesso, a particolari condizioni, l'impiego di due sostanze utilizzate nelle tinture per capelli (mfenilendiamina e 2,5 diaminotoluene, con relativi derivati sostituiti all'azoto e sali) oggetto del divieto di cui al precedente decreto ministeriale 18 giugno 1976;
 
-Rilevato che la richiamata [legge 11 ottobre 1986, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-11;713), ha confermato soltanto alcuni dei divieti e delle limitazioni previsti dai decreti ministeriali sopra elencati;
+Rilevato che la richiamata [legge 11 ottobre 1986, n. 713](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea%20sulla%20produzione%20e%20la%20vendita%20dei%20cosmetici.md), ha confermato soltanto alcuni dei divieti e delle limitazioni previsti dai decreti ministeriali sopra elencati;
 
 Ritenuta l'opportunita' di ribadire, provvisoriamente, il divieto di impiego delle sostanze 2,4-diaminoanisolo; 4-nitro-o-fenilendiamina; 2-nitro-p-fenilendiamina; 2,5-diaminoanisolo; 2-amino-5-nitrofenolo; 2-amino-4-nitrofenolo, in attesa delle prossime valutazioni che, su di esse, interverranno in sede comunitaria;
 
@@ -32,7 +32,7 @@ Ritenuta, altresi', l'opportunita' di confermare anche gli altri divieti e limit
 
 Visto il parere espresso, al riguardo, dall'Istituto superiore di sanita' in data 4 novembre 1986;
 
-Ritenuta, inoltre, la necessita' di conformare gli allegati della [legge 11 ottobre 1986, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-11;713), alle direttive della commissione delle Comunita' europee n. 85/391/CEE, 86/179/CEE e 86/199/CEE, adottate, rispettivamente, il 16 luglio 1985, il 28 febbraio 1986 e il 26 marzo 1986;
+Ritenuta, inoltre, la necessita' di conformare gli allegati della [legge 11 ottobre 1986, n. 713](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea%20sulla%20produzione%20e%20la%20vendita%20dei%20cosmetici.md), alle direttive della commissione delle Comunita' europee n. 85/391/CEE, 86/179/CEE e 86/199/CEE, adottate, rispettivamente, il 16 luglio 1985, il 28 febbraio 1986 e il 26 marzo 1986;
 
 Visto il parere favorevole espresso, anche a tal riguardo, dall'Istituto superiore di sanita' il 4 novembre 1986;
 
@@ -42,7 +42,7 @@ Considerato che i coloranti per capelli devono essere oggetto di apposita lista,
 
 1.
 
-All'elenco delle sostanze che non possono entrare nella composizione dei prodotti cosmetici, costituente l'allegato II della [legge 11 ottobre 1986, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-11;713), sono aggiunte le voci seguenti, relative a sostanze il cui impiego nei cosmetici era gia' stato vietato anteriormente all'entrata in vigore della stessa legge: 
+All'elenco delle sostanze che non possono entrare nella composizione dei prodotti cosmetici, costituente l'allegato II della [legge 11 ottobre 1986, n. 713](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea%20sulla%20produzione%20e%20la%20vendita%20dei%20cosmetici.md), sono aggiunte le voci seguenti, relative a sostanze il cui impiego nei cosmetici era gia' stato vietato anteriormente all'entrata in vigore della stessa legge: 
  368. 2,4-diaminoanisolo; 
  369. 4 nitro-o-fenilendiamina (4-NOPD); 
  370. 2 nitro-p-fenilendiamina (4-NPPD); 
@@ -55,7 +55,7 @@ All'elenco delle sostanze che non possono entrare nella composizione dei prodott
 
 2.
 
-Allo stesso elenco costituente l'allegato II della [legge 11 ottobre 1986, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-11;713) sono aggiunte le seguenti ulteriori voci: 
+Allo stesso elenco costituente l'allegato II della [legge 11 ottobre 1986, n. 713](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea%20sulla%20produzione%20e%20la%20vendita%20dei%20cosmetici.md) sono aggiunte le seguenti ulteriori voci: 
  377. 2, 3, 7, 8-tetraclorodibenzo-p-diossina;. 
  378. 6-acetossi-2,4-dimetil-1,3-diossano (dimetossano); 
  379. N-ossido-2 tiol piridina sale sodico (piritione sodico).
@@ -121,7 +121,7 @@ Il divieto di impiego delle sostanze previste dal comma 1 dell'art. 1 ha effetto
 
 2.
 
-Alle limitazioni di impiego delle sostanze di cui alle voci 49 e 50 riportate nel comma 3 dell'art. 2 si applicano i termini previsti dall'[art. 15, commi 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-11;713#art_15-com3) e [4 della legge 11 ottobre 1986, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-11;713#art_15-com4).
+Alle limitazioni di impiego delle sostanze di cui alle voci 49 e 50 riportate nel comma 3 dell'art. 2 si applicano i termini previsti dall'[art. 15, commi 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea%20sulla%20produzione%20e%20la%20vendita%20dei%20cosmetici.md) e [4 della legge 11 ottobre 1986, n. 713](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea%20sulla%20produzione%20e%20la%20vendita%20dei%20cosmetici.md).
 
 3.
 

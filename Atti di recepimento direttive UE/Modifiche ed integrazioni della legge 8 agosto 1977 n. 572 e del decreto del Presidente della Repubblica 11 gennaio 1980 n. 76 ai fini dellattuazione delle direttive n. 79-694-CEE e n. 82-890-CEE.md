@@ -16,7 +16,7 @@ PROMULGA la seguente legge:
 
 ## Art. 1.
 
-Ai fini della presente legge, il termine entita' tecnica indicato nella [direttiva n. 79/694/CEE del 24 luglio 1979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;694) assume la definizione di unita' tecnica, cosi' come riportato nella [legge 10 febbraio 1982, n. 38](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-10;38).
+Ai fini della presente legge, il termine entita' tecnica indicato nella [direttiva n. 79/694/CEE del 24 luglio 1979](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;694) assume la definizione di unita' tecnica, cosi' come riportato nella [legge 10 febbraio 1982, n. 38](../Atti%20normativi%20abrogati%20%28in%20originale%29/Modifiche%20ad%20alcuni%20articoli%20del%20codice%20della%20strada%20approvato%20con%20decreto%20del%20Presidente%20della%20Repubblica%2015%20giugno%201959%20n.%20393%20e%20successive%20modificazioni%20riguardanti%20i%20pesi%20e%20le%20misure%20_e71a5450987f.md).
 
 NOTE
 
@@ -26,12 +26,12 @@ NOTE
 
 
  Nota all'art. 1:
- La legge n. 38, 1982 (pubblicata nella Gazzetta Ufficiale n. 48 del 18 febbraio 1982) concerne modifiche ad alcuni articoli del [codice della strada](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285) approvato con [D.P.R. 15 giugno 1959, n. 393](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-06-15;393), e successive modificazioni, riguardanti i pesi e le misure dei veicoli, nonche' alla [legge 27 novembre 1980, n. 815](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-11-27;815).
+ La legge n. 38, 1982 (pubblicata nella Gazzetta Ufficiale n. 48 del 18 febbraio 1982) concerne modifiche ad alcuni articoli del [codice della strada](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) approvato con [D.P.R. 15 giugno 1959, n. 393](../DPR/Testo%20unico%20delle%20norme%20sulla%20circolazione%20stradale.md), e successive modificazioni, riguardanti i pesi e le misure dei veicoli, nonche' alla [legge 27 novembre 1980, n. 815](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-11-27;815).
 
 ## Art. 2.
 
 Per unita' tecnica si intende un dispositivo o parte di trattore agricolo, che puo' espletare la sua funzione indipendentemente oppure in collegamento con altri elementi del trattore stesso; tali unita' sono individuate in direttive particolari CEE.
- Per omologazione CEE del tipo di unita' tecnica si intende il provvedimento emanato ai sensi dell'[articolo 5 della legge 8 agosto 1977, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;572#art_5), attestante che l'unita' tecnica soddisfa alle prescrizioni tecniche emanate con uno o piu' decreti in conformita' a quanto disposto dall'articolo 3 della medesima legge, cosi' come modificato dall'articolo 11 della presente legge.
+ Per omologazione CEE del tipo di unita' tecnica si intende il provvedimento emanato ai sensi dell'[articolo 5 della legge 8 agosto 1977, n. 572](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20delle%20direttive%20delle%20Comunita%20europee%20concernenti%20il%20riavvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20allomologazione%20dei%20trattori%20agricoli%20o%20forestali%20a%20ruote.md), attestante che l'unita' tecnica soddisfa alle prescrizioni tecniche emanate con uno o piu' decreti in conformita' a quanto disposto dall'articolo 3 della medesima legge, cosi' come modificato dall'articolo 11 della presente legge.
 
 Nota all'art. 2:
  Il testo dell'art. 5 della legge n. 572/197.7 (per l'argomento della legge v. nelle note al titolo) e' il seguente:
@@ -44,7 +44,7 @@ Nota all'art. 2:
 
 Qualora l'unita' tecnica esplichi la sua funzione solo se combinata con altri elementi del trattore, tale restrizione d'uso e/o di montaggio deve essere trascritta nella relativa scheda di omologazione.
  La medesima procedura si applica anche nel caso che l'unita' tecnica presenti una caratteristica particolare solo se combinata ad altri elementi del trattore.
- In occasione dell'omologazione CEE del tipo di trattore di cui all'[articolo 3 della legge 8 agosto 1977, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;572#art_3), e' verificato il rispetto di tali restrizioni e prescrizioni.
+ In occasione dell'omologazione CEE del tipo di trattore di cui all'[articolo 3 della legge 8 agosto 1977, n. 572](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20delle%20direttive%20delle%20Comunita%20europee%20concernenti%20il%20riavvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20allomologazione%20dei%20trattori%20agricoli%20o%20forestali%20a%20ruote.md), e' verificato il rispetto di tali restrizioni e prescrizioni.
 
 Nota all'art. 3:
  Per il nuovo testo dell'[art. 3 della legge n. 572/1977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977;572#art_3) v.
@@ -52,7 +52,7 @@ Nota all'art. 3:
 
 ## Art. 4.
 
-Le procedure per il rilascio dei provvedimenti di omologazione CEE del tipo di unita' tecnica, la sospensione e la risoluzione di controversie concernenti l'omologazione stessa, sono regolate dalle disposizioni della [legge 8 agosto 1977, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;572).
+Le procedure per il rilascio dei provvedimenti di omologazione CEE del tipo di unita' tecnica, la sospensione e la risoluzione di controversie concernenti l'omologazione stessa, sono regolate dalle disposizioni della [legge 8 agosto 1977, n. 572](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20delle%20direttive%20delle%20Comunita%20europee%20concernenti%20il%20riavvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20allomologazione%20dei%20trattori%20agricoli%20o%20forestali%20a%20ruote.md).
 
 Nota all'art. 4:
  Per l'argomento della [legge n. 572/1977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977;572) v. nelle note al titolo.
@@ -63,7 +63,7 @@ Il titolare del provvedimento di omologazione CEE del tipo di unita' tecnica dev
 
 ## Art. 6.
 
-Il [secondo comma dell'articolo 1 della legge 8 agosto 1977, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;572#art_1-com2) e' sostituito dal seguente:
+Il [secondo comma dell'articolo 1 della legge 8 agosto 1977, n. 572](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20delle%20direttive%20delle%20Comunita%20europee%20concernenti%20il%20riavvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20allomologazione%20dei%20trattori%20agricoli%20o%20forestali%20a%20ruote.md) e' sostituito dal seguente:
  "La presente legge si applica ai trattori, definiti nel comma precedente, montati su pneumatici, muniti di due assi ed aventi una velocita' massima di costruzione compresa tra 6 e 30 chilometri orari".
 
 Nota all'art. 6:
@@ -140,8 +140,8 @@ Nota all'art. 10:
 
 ## Art. 11.
 
-L'[articolo 3 della legge 8 agosto 1977, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;572#art_3), e' sostituito dal seguente: 
- "Art. 3. - il tipo del trattore ottiene l'omologazione CEE quando e' stata preventivamente accertata la sua rispondenza alle prescrizioni tecniche, emanate con uno o piu' decreti del Ministro dei trasporti di concerto con Ministri di volta in volta interessati, sentito il parare del Comitato interministeriale costituito con il [decreto del Presidente della Repubblica 19 aprile 1979, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1979-04-19;212). 
+L'[articolo 3 della legge 8 agosto 1977, n. 572](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20delle%20direttive%20delle%20Comunita%20europee%20concernenti%20il%20riavvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20allomologazione%20dei%20trattori%20agricoli%20o%20forestali%20a%20ruote.md), e' sostituito dal seguente: 
+ "Art. 3. - il tipo del trattore ottiene l'omologazione CEE quando e' stata preventivamente accertata la sua rispondenza alle prescrizioni tecniche, emanate con uno o piu' decreti del Ministro dei trasporti di concerto con Ministri di volta in volta interessati, sentito il parare del Comitato interministeriale costituito con il [decreto del Presidente della Repubblica 19 aprile 1979, n. 212](../DPR/Modalita%20di%20coordinamento%20delle%20attribuzioni%20delle%20amministrazioni%20preposte%20alla%20vigilanza%20sullapplicazione%20delle%20direttive%20particolari%20concernenti%20lomologazione%20comunitaria%20dei%20trattori%20_ef3f2af64c44.md). 
  Le prescrizioni di cui al comma precedente devono adeguarsi alle disposizioni tecniche approvate dai competenti organi delle Comunita' europee. 
  Con decreto del Presidente della Repubblica sono stabilite le modalita' di coordinamento delle attribuzioni delle amministrazioni preposte alla vigilanza sulla applicazione delle direttive particolari".
 

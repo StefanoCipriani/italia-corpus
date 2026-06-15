@@ -12,15 +12,15 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
+Vista la [legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
 
-Vista la [legge 22 maggio 1973, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-05-22;269), che, in attuazione della direttiva del Consiglio (CEE) n. 66/404 del 14 giugno 1966, reca la disciplina della produzione e del commercio di sementi e piante da rimboschimento;
+Vista la [legge 22 maggio 1973, n. 269](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20produzione%20e%20del%20commercio%20di%20sementi%20e%20piante%20da%20rimboschimento.md), che, in attuazione della direttiva del Consiglio (CEE) n. 66/404 del 14 giugno 1966, reca la disciplina della produzione e del commercio di sementi e piante da rimboschimento;
 
 Vista la direttiva del Consiglio (CEE) n. 75/445 del 26 giugno 1975, che modifica alcune disposizioni della citata [direttiva n. 66/404 del 14 giugno 1966](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1966;404);
 
 Ritenuta la necessita' di emanare le necessarie disposizioni per dare attuazione alla citata [direttiva n. 75/445 del 26 giugno 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;445);
 
-Considerato che in data 25 febbraio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42#art_1), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
+Considerato che in data 25 febbraio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
 
 Tenuto conto delle osservazioni formulate in sede parlamentare;
 
@@ -34,7 +34,7 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-L'[art. 6 della legge 22 maggio 1973, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-05-22;269#art_6), e' sostituito dal seguente: 
+L'[art. 6 della legge 22 maggio 1973, n. 269](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20produzione%20e%20del%20commercio%20di%20sementi%20e%20piante%20da%20rimboschimento.md), e' sostituito dal seguente: 
  "Durante le fasi di raccolta, lavorazione, immagazzinamento, trasporto, allevamento e conservazione i materiali di propagazione devono essere tenuti in lotti separati ed identificati secondo: 
  a) la specie e, se necessario, la sottospecie, la varieta' ed il clone; 
  b) la categoria: materiali di propagazione selezionati o materiali di propagazione controllati; 
@@ -46,7 +46,7 @@ L'[art. 6 della legge 22 maggio 1973, n. 269](https://www.normattiva.it/uri-res/
 
 ## Art. 2.
 
-L'[art. 7 della legge 22 maggio 1973, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-05-22;269#art_7), e' sostituito dal seguente:
+L'[art. 7 della legge 22 maggio 1973, n. 269](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20produzione%20e%20del%20commercio%20di%20sementi%20e%20piante%20da%20rimboschimento.md), e' sostituito dal seguente:
  "Ai fini della presente legge si intendono per:
  1) materiali forestali di base:
  a) per la produzione di sementi: i boschi, le piante e gli arboreti da seme;
@@ -63,7 +63,7 @@ L'[art. 7 della legge 22 maggio 1973, n. 269](https://www.normattiva.it/uri-res/
 
 ## Art. 3.
 
-Dopo l'[art. 7 della legge 22 maggio 1973, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-05-22;269#art_7), sono inseriti i seguenti:
+Dopo l'[art. 7 della legge 22 maggio 1973, n. 269](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20produzione%20e%20del%20commercio%20di%20sementi%20e%20piante%20da%20rimboschimento.md), sono inseriti i seguenti:
  "Art. 7-bis. - Possono essere ammessi alla produzione di materiali di propagazione controllati soltanto i materiali di base da cui derivano materiali di propagazione aventi valore di utilizzazione superiore.
  Il valore di utilizzazione superiore e' valutato mediante le prove comparative, condotte secondo le norme di cui all'allegato C della presente legge".
  "Art. 7-ter. - Ai fini della presente legge si intende per valore di utilizzazione superiore: il valore dato dalle caratteristiche genetiche dei materiali di propagazione, che globalmente considerati rappresentano, rispetto ai testimoni scelti conformemente all'allegato C, un netto miglioramento per la silvicoltura in generale o per la coltura nelle regioni in cui tali testimoni sono normalmente utilizzati".
@@ -71,25 +71,25 @@ Dopo l'[art. 7 della legge 22 maggio 1973, n. 269](https://www.normattiva.it/uri
 
 ## Art. 4.
 
-Il [primo comma dell'art. 9 della legge 22 maggio 1973, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-05-22;269#art_9-com1), e' sostituito dal seguente:
+Il [primo comma dell'art. 9 della legge 22 maggio 1973, n. 269](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20produzione%20e%20del%20commercio%20di%20sementi%20e%20piante%20da%20rimboschimento.md), e' sostituito dal seguente:
  "Il materiale forestale di propagazione di cui al precedente art. 1 destinato ai rimboschimenti, compresi quelli eseguiti dallo Stato, deve derivare dai materiali di cui all'art. 7, punti 3) e 4), e deve essere prodotto nei vivai controllati ai sensi della presente legge".
  Dopo il primo comma, e' inserito il seguente:
  "I materiali di propagazione di specie iscritti nel registro nazionale dei cloni forestali devono derivare solo dai materiali di cui all'art. 7, punto 4), della presente legge".
 
 ## Art. 5.
 
-Dopo il [primo comma dell'art. 10 della legge 22 maggio 1973, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-05-22;269#art_10-com1), sono inseriti i seguenti:
+Dopo il [primo comma dell'art. 10 della legge 22 maggio 1973, n. 269](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20produzione%20e%20del%20commercio%20di%20sementi%20e%20piante%20da%20rimboschimento.md), sono inseriti i seguenti:
  "Sul cartellino del produttore alla voce "provenienza" dovra' essere indicato "materiali di propagazione di arboreto da seme" per le sementi di arboreto da seme e per i materiali di propagazione prodotti partendo da tali sementi.
  Sul cartellino medesimo alla voce "provenienza" dovra' essere indicato il termine "ammissione provvisoria" per i materiali di propagazione controllati, i cui materiali di base sono stati ammessi in conformita' di quanto disposto dall'art. 15".
 
 ## Art. 6.
 
-Il [terzo comma dell'art. 11 della legge 22 maggio 1973, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-05-22;269#art_11-com3), e' sostituito dal seguente:
+Il [terzo comma dell'art. 11 della legge 22 maggio 1973, n. 269](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20produzione%20e%20del%20commercio%20di%20sementi%20e%20piante%20da%20rimboschimento.md), e' sostituito dal seguente:
  "Detti certificati redatti in conformita' allo schema di cui all'allegato D della presente legge, sono rilasciati, a seguito di richiesta degli interessati da presentarsi almeno quindici giorni prima dell'inizio delle operazioni di preparazione del materiale, dal competente organo regionale".
 
 ## Art. 7.
 
-L'[art. 15 della legge 22 maggio 1973, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-05-22;269#art_15), e' sostituito dal seguente: 
+L'[art. 15 della legge 22 maggio 1973, n. 269](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20produzione%20e%20del%20commercio%20di%20sementi%20e%20piante%20da%20rimboschimento.md), e' sostituito dal seguente: 
  "Per l'iscrizione nei libri o nei registri nazionali previsti dalla presente legge, i materiali di base destinati alla produzione di materiali di propagazione selezionati debbono rispondere ai requisiti indicati nell'allegato B della presente legge. 
  Le caratteristiche esteriori dei materiali forestali di propagazione, su proposta della commissione di cui al successivo art. 
 16, saranno stabilite con decreto del Ministro dell'agricoltura e delle foreste, da pubblicarsi nella Gazzetta Ufficiale della Repubblica italiana. 
@@ -97,7 +97,7 @@ L'[art. 15 della legge 22 maggio 1973, n. 269](https://www.normattiva.it/uri-res
 
 ## Art. 8.
 
-Gli allegati A, B, C alla [legge 22 maggio 1973, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-05-22;269), sono sostituiti dagli allegati A, B, C, D uniti al presente decreto.
+Gli allegati A, B, C alla [legge 22 maggio 1973, n. 269](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20della%20produzione%20e%20del%20commercio%20di%20sementi%20e%20piante%20da%20rimboschimento.md), sono sostituiti dagli allegati A, B, C, D uniti al presente decreto.
 
 ## Art. 9.
 

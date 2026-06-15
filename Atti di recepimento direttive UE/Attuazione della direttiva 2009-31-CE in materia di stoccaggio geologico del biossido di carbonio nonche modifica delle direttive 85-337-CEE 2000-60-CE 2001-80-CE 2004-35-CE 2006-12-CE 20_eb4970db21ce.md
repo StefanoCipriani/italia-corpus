@@ -12,29 +12,29 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 4 giugno 2010, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-06-04;96), Legge comunitaria 2009, recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alla Comunita' europea, ed in particolare l'articolo 16;
+Vista la [legge 4 giugno 2010, n. 96](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202009.%2010G0119.md), Legge comunitaria 2009, recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alla Comunita' europea, ed in particolare l'articolo 16;
 
-Visto il [decreto del Presidente della Repubblica 9 aprile 1959, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-04-09;128), recante norme di polizia delle miniere e delle cave, nonche' le successive modificazioni;
+Visto il [decreto del Presidente della Repubblica 9 aprile 1959, n. 128](../DPR/Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), recante norme di polizia delle miniere e delle cave, nonche' le successive modificazioni;
 
 Vista la [legge 26 aprile 1974, n. 170](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-04-26;170), recante disciplina dello stoccaggio di gas naturale in giacimenti di idrocarburi, come modificata dal [decreto legislativo 23 maggio 2000, n. 164](Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md);
 
-Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), recante norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi, come modificata dalla [legge 8 febbraio 2005, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-02-08;15) e dal [decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122);
+Vista la [legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), recante norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi, come modificata dalla [legge 8 febbraio 2005, n. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-02-08;15) e dal [decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md);
 
 Visto il [decreto legislativo 25 novembre 1996, n. 624](Attuazione%20della%20direttiva%2092-91-CEE%20relativa%20alla%20sicurezza%20e%20salute%20dei%20lavoratori%20nelle%20industrie%20estrattive%20per%20trivellazione%20e%20della%20direttiva%2092-104-CEE%20relativa%20alla%20sicurezza%20e%20sa_3c99c2196a3f.md), recante attuazione della [direttiva 92/91/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;91) relativa alla sicurezza e salute dei lavoratori nelle industrie estrattive per trivellazione e della [direttiva 92/104/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;104) relativa alla sicurezza e salute dei lavoratori nelle industrie estrattive a cielo aperto o sotterranee;
 
 Visto il [decreto legislativo 16 marzo 1999, n. 79](Attuazione%20della%20direttiva%2096-92-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20dellenergia%20elettrica.md), recante attuazione della [direttiva 96/92/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;92) concernente norme comuni per il mercato interno dell'energia elettrica;
 
-Visto il [decreto legislativo 23 maggio 2000, n. 164](Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), recante l'attuazione della [direttiva n. 98/30/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;30) relativa a norme comuni per il mercato interno del gas naturale, a norma dell'[articolo 41 della legge 17 maggio 1999, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144#art_41);
+Visto il [decreto legislativo 23 maggio 2000, n. 164](Attuazione%20della%20direttiva%20n.%2098-30-CE%20recante%20norme%20comuni%20per%20il%20mercato%20interno%20del%20gas%20naturale%20a%20norma%20dellarticolo%2041%20della%20legge%2017%20maggio%201999%20n.%20144.md), recante l'attuazione della [direttiva n. 98/30/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;30) relativa a norme comuni per il mercato interno del gas naturale, a norma dell'[articolo 41 della legge 17 maggio 1999, n. 144](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md);
 
-Visto il [decreto del Presidente della Repubblica 8 giugno 2001, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-08;327), recante il [testo unico delle disposizioni legislative e regolamentari in materia di espropriazione per pubblica utilita'](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-08;327), come modificato dal [decreto legislativo 27 dicembre 2004, n. 330](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-12-27;330);
+Visto il [decreto del Presidente della Repubblica 8 giugno 2001, n. 327](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20espropriazione%20per%20pubblica%20utilita.%20Testo%20A.md), recante il [testo unico delle disposizioni legislative e regolamentari in materia di espropriazione per pubblica utilita'](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20espropriazione%20per%20pubblica%20utilita.%20Testo%20A.md), come modificato dal [decreto legislativo 27 dicembre 2004, n. 330](../Decreti%20Legislativi/Integrazioni%20al%20decreto%20del%20Presidente%20della%20Repubblica%208%20giugno%202001%20n.%20327%20in%20materia%20di%20espropriazione%20per%20la%20realizzazione%20di%20infrastrutture%20lineari%20energetiche.md);
 
-Visti la Convenzione quadro delle Nazioni Unite sui cambiamenti climatici, ratificata con [legge 15 gennaio 1994, n. 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-15;65), e il Protocollo di Kyoto, ratificato con [legge 1° giugno 2002, n. 120](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-06-01;120);
+Visti la Convenzione quadro delle Nazioni Unite sui cambiamenti climatici, ratificata con [legge 15 gennaio 1994, n. 65](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20della%20convenzione%20quadro%20delle%20Nazioni%20Unite%20sui%20cambiamenti%20climatici%20con%20allegati%20fatta%20a%20New%20York%20il%209%20maggio%201992.md), e il Protocollo di Kyoto, ratificato con [legge 1° giugno 2002, n. 120](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20del%20Protocollo%20di%20Kyoto%20alla%20Convenzione%20quadro%20delle%20Nazioni%20Unite%20sui%20cambiamenti%20climatici%20fatto%20a%20Kyoto%20l11%20dicembre%201997.md);
 
 Vista la [direttiva n. 2003/87/CE del Parlamento europeo e del Consiglio, del 13 ottobre 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;87), e successive modificazioni, che istituisce un sistema per lo scambio di quote di emissione dei gas a effetto serra nella Comunita' e che modifica la [direttiva 96/61/CE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;61);
 
-Vista la [legge 23 agosto 2004, n. 239](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-08-23;239), sul riordino del settore energetico, nonche' delega al Governo per il riassetto delle disposizioni vigenti in materia di energia;
+Vista la [legge 23 agosto 2004, n. 239](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20settore%20energetico%20nonche%20delega%20al%20Governo%20per%20il%20riassetto%20delle%20disposizioni%20vigenti%20in%20materia%20di%20energia.md), sul riordino del settore energetico, nonche' delega al Governo per il riassetto delle disposizioni vigenti in materia di energia;
 
-Visto il [decreto legislativo 18 febbraio 2005, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-02-18;59), recante attuazione integrale della [direttiva 96/61/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;61) relativa alla prevenzione e riduzione integrate dell'inquinamento;
+Visto il [decreto legislativo 18 febbraio 2005, n. 59](../Decreti%20Legislativi/Attuazione%20integrale%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md), recante attuazione integrale della [direttiva 96/61/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;61) relativa alla prevenzione e riduzione integrate dell'inquinamento;
 
 Visto il decreto del Ministero dello sviluppo economico del 21 gennaio 2011, recante modalita' di conferimento della concessione di stoccaggio di gas naturale in sotterraneo e relativo disciplinare tipo, pubblicato nella Gazzetta Ufficiale n. 26 del 2 febbraio 2011;
 
@@ -42,17 +42,17 @@ Visto il decreto direttoriale del 4 febbraio 2011, recante procedure operative d
 
 Visto il [decreto legislativo 4 aprile 2006, n. 216](Attuazione%20delle%20direttive%202003-87%20e%202004-101-CE%20in%20materia%20di%20scambio%20di%20quote%20di%20emissioni%20dei%20gas%20a%20effetto%20serra%20nella%20Comunita%20con%20riferimento%20ai%20meccanismi%20di%20progetto%20del%20Protocollo%20di%20Kyoto.md), e successive modificazioni, recante attuazione delle [direttive 2003/87](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1987;2003) e [2004/101/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;101) in materia di scambio di quote di emissione dei gas a effetto serra nella Comunita', con riferimento ai meccanismi di progetto del Protocollo di Kyoto;
 
-Visto il [decreto legislativo 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), e successive modificazioni, recante norme in materia ambientale;
+Visto il [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e successive modificazioni, recante norme in materia ambientale;
 
 Visto il regolamento (CE) n. 1013/2006 del Parlamento europeo e del Consiglio del 14 giugno 2006, e successive modificazioni, recante norme in materia di spedizioni di rifiuti;
 
 Vista la decisione della Commissione 2007/589/CE del 18 luglio 2007, che istituisce le linee guida per il monitoraggio e la comunicazione delle emissioni di gas a effetto serra ai sensi della [direttiva 2003/87/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;87) e la relativa [deliberazione n. 14 del 10 aprile 2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:2009-04-10;14) del Comitato di gestione della [direttiva 2003/87/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;87) e per il supporto nelle attivita' di progetto del Protocollo di Kyoto;
 
-Visto il [decreto-legge 18 giugno 2007, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-06-18;73), convertito, con modificazioni, dalla [legge 3 agosto 2007, n. 125](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-08-03;125), recante misure urgenti per l'attuazione di disposizioni comunitarie in materia di liberalizzazione dei mercati dell'energia;
+Visto il [decreto-legge 18 giugno 2007, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-06-18;73), convertito, con modificazioni, dalla [legge 3 agosto 2007, n. 125](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2018%20giugno%202007%20n.%2073%20recante%20misure%20urgenti%20per%20lattuazione%20di%20disposizioni%20comunitarie%20in%20materia%20di%20liberalizzazione%20dei%20mercati%20dellenergia.md), recante misure urgenti per l'attuazione di disposizioni comunitarie in materia di liberalizzazione dei mercati dell'energia;
 
-Visto il [decreto legislativo 9 aprile 2008, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2008-04-09;81), di attuazione dell'[articolo 1 della legge 3 agosto 2007, n. 123](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-08-03;123#art_1), recante norme in materia di tutela della salute e della sicurezza nei luoghi di lavoro e il [decreto legislativo 3 agosto 2009, n. 106](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2009-08-03;106), recante disposizioni integrative e correttive;
+Visto il [decreto legislativo 9 aprile 2008, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20dellarticolo%201%20della%20legge%203%20agosto%202007%20n.%20123%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.md), di attuazione dell'[articolo 1 della legge 3 agosto 2007, n. 123](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Misure%20in%20tema%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20sul%20lavoro%20e%20delega%20al%20Governo%20per%20il%20riassetto%20e%20la%20riforma%20della%20normativa%20in%20materia.md), recante norme in materia di tutela della salute e della sicurezza nei luoghi di lavoro e il [decreto legislativo 3 agosto 2009, n. 106](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%209%20aprile%202008%20n.%2081%20in%20materia%20di%20tutela%20della%20salute%20e%20della%20sicurezza%20nei%20luoghi%20di%20lavoro.%2009G0119.md), recante disposizioni integrative e correttive;
 
-Visto il [decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), convertito, con modificazioni, dalla [legge 6 agosto 2008, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133), recante disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitivita', la stabilizzazione della finanza pubblica e la perequazione tributaria, ed in particolare l'articolo 28 con il quale viene istituito l'Istituto superiore per la ricerca e per la protezione ambientale (ISPRA);
+Visto il [decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), convertito, con modificazioni, dalla [legge 6 agosto 2008, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md), recante disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitivita', la stabilizzazione della finanza pubblica e la perequazione tributaria, ed in particolare l'articolo 28 con il quale viene istituito l'Istituto superiore per la ricerca e per la protezione ambientale (ISPRA);
 
 Vista la [legge 23 luglio 2009, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-07-23;99), recante disposizioni per lo sviluppo e l'internazionalizzazione delle imprese, nonche' in materia di energia;
 
@@ -82,7 +82,7 @@ Il presente decreto reca le disposizioni per la trasposizione nell'ordinamento n
 
 Al fine di contribuire alla lotta al cambiamento climatico attraverso la riduzione delle emissioni in atmosfera di gas a effetto serra, da conseguirsi con il massimo livello possibile di efficienza e sostenibilita' ambientale nonche' di sicurezza e tutela della salute della popolazione, il presente decreto stabilisce un quadro di misure volte a garantire lo stoccaggio geologico di CO2 in formazioni geologiche idonee.
 
-((2-bis. I progetti sperimentali di esplorazione e stoccaggio geologico di CO2 possono essere inclusi nel decreto del Presidente del Consiglio dei ministri di cui all'[articolo 7-bis, comma 2-bis, del decreto legislativo 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152#art_7bis-com2bis)))
+((2-bis. I progetti sperimentali di esplorazione e stoccaggio geologico di CO2 possono essere inclusi nel decreto del Presidente del Consiglio dei ministri di cui all'[articolo 7-bis, comma 2-bis, del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md)))
 
 ### Art. 2. — Ambito di applicazione e divieti
 
@@ -133,7 +133,7 @@ condizioni alle quali lo stoccaggio puo' aver luogo;
                             o)
                                 flusso di CO2 : un flusso di sostanze derivanti dai processi di cattura di CO2 ;
                             p)
-                                rifiuto: le sostanze definite come rifiuto all'[articolo 183, comma 1, lettera a), del decreto legislativo 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152#art_183-com1-leta), e successive modificazioni;
+                                rifiuto: le sostanze definite come rifiuto all'[articolo 183, comma 1, lettera a), del decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), e successive modificazioni;
                             q)
                                 pennacchio di CO2 : il volume di CO2 diffuso nella formazione geologica;
                             r)
@@ -192,11 +192,11 @@ Per l'adempimento dei compiti previsti dal presente decreto, e' istituito, press
 
 2.
 
-Il Comitato e' un organo collegiale composto da cinque membri con diritto di voto, nominati con decreto del Ministro dell'ambiente e della sicurezza energetica, di cui tre, ((compresi)) il presidente e il vicepresidente, designati dal Ministro dell'ambiente e della sicurezza energetica, uno dall'Istituto superiore per la protezione e la ricerca ambientale (ISPRA) e uno dalla Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_8).
+Il Comitato e' un organo collegiale composto da cinque membri con diritto di voto, nominati con decreto del Ministro dell'ambiente e della sicurezza energetica, di cui tre, ((compresi)) il presidente e il vicepresidente, designati dal Ministro dell'ambiente e della sicurezza energetica, uno dall'Istituto superiore per la protezione e la ricerca ambientale (ISPRA) e uno dalla Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md).
 
 3.
 
-I membri del Comitato sono scelti tra persone di elevata qualifica professionale e comprovata esperienza nei settori interessati dal presente decreto e non devono trovarsi in situazione di conflitto di interessi rispetto alle funzioni loro attribuite. I membri dichiarano la insussistenza di tale conflitto all'atto dell'accettazione della nomina e sono tenuti a comunicare tempestivamente al Ministero dell'ambiente e della sicurezza energetica ogni sopravvenuta situazione di conflitto di interessi. La comunicazione di cui al secondo periodo comporta la decadenza automatica dalla carica di membro del Comitato e il soggetto ((che ha designato il membro decaduto)) provvede alla individuazione del sostituto, che viene nominato con decreto del Ministro dell'ambiente e della sicurezza energetica. Resta ferma la disciplina di inconferibilita' e incompatibilita' di cui al [decreto legislativo 8 aprile 2013, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-04-08;39).
+I membri del Comitato sono scelti tra persone di elevata qualifica professionale e comprovata esperienza nei settori interessati dal presente decreto e non devono trovarsi in situazione di conflitto di interessi rispetto alle funzioni loro attribuite. I membri dichiarano la insussistenza di tale conflitto all'atto dell'accettazione della nomina e sono tenuti a comunicare tempestivamente al Ministero dell'ambiente e della sicurezza energetica ogni sopravvenuta situazione di conflitto di interessi. La comunicazione di cui al secondo periodo comporta la decadenza automatica dalla carica di membro del Comitato e il soggetto ((che ha designato il membro decaduto)) provvede alla individuazione del sostituto, che viene nominato con decreto del Ministro dell'ambiente e della sicurezza energetica. Resta ferma la disciplina di inconferibilita' e incompatibilita' di cui al [decreto legislativo 8 aprile 2013, n. 39](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20inconferibilita%20e%20incompatibilita%20di%20incarichi%20presso%20le%20pubbliche%20amministrazioni%20e%20presso%20gli%20enti%20privati%20in%20controllo%20pubblico%20a%20norma%20dellarticolo%201%20commi%20_d33471567a28.md).
 
 4.
 
@@ -216,9 +216,9 @@ Ai fini del supporto istruttorio, tecnico e operativo al Comitato, e' istituita,
                             e)
                                 uno e' designato dal Ministero dell'interno tra appartenenti al Corpo nazionale dei vigili del fuoco;
                             f)
-                                uno e' designato dal Comitato centrale per la sicurezza tecnica della transizione energetica e per la gestione dei rischi connessi ai cambiamenti climatici, di cui all'[articolo 9 del decreto-legge 24 febbraio 2023, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-24;13#art_9), convertito, con modificazioni, dalla [legge 21 aprile 2023, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2023-04-21;41);
+                                uno e' designato dal Comitato centrale per la sicurezza tecnica della transizione energetica e per la gestione dei rischi connessi ai cambiamenti climatici, di cui all'[articolo 9 del decreto-legge 24 febbraio 2023, n. 13](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-02-24;13#art_9), convertito, con modificazioni, dalla [legge 21 aprile 2023, n. 41](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20febbraio%202023%20n.%2013%20recante%20disposizioni%20urgenti%20per%20lattuazione%20del%20Piano%20nazionale%20di%20ripresa%20e%20resilienza%20PNRR%20e%20del%20Piano%20n_ab2ee2e027d3.md);
                             g)
-                                uno e' designato dalla Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_8).
+                                uno e' designato dalla Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md).
 
 6.
 
@@ -230,7 +230,7 @@ Con decreto del Ministro dell'ambiente e della sicurezza energetica sono definit
 
 8.
 
-Con decreto del Ministro dell'ambiente e della sicurezza energetica, di concerto con il Ministro dell'economia e delle finanze, sono definiti i compensi dei componenti del Comitato e della Segreteria tecnica, nei limiti della quota delle risorse assegnate al Ministero dell'ambiente e della sicurezza energetica ai sensi del ((comma 7 dell'articolo)) 23 del [decreto legislativo 9 giugno 2020, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2020-06-09;47), destinate a finalita' coerenti con lo sviluppo dello stoccaggio geologico di CO2.
+Con decreto del Ministro dell'ambiente e della sicurezza energetica, di concerto con il Ministro dell'economia e delle finanze, sono definiti i compensi dei componenti del Comitato e della Segreteria tecnica, nei limiti della quota delle risorse assegnate al Ministero dell'ambiente e della sicurezza energetica ai sensi del ((comma 7 dell'articolo)) 23 del [decreto legislativo 9 giugno 2020, n. 47](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20direttive%20UE%202018-410%20UE%202023-958%20e%20UE%202023-959%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2010%20maggio%202023%20che%20modificano%20la%20direttiva%202003-87-CE%20che%20istituisce%20un%20sistema_b900a189e076.md), destinate a finalita' coerenti con lo sviluppo dello stoccaggio geologico di CO2.
 
 ### Art. 5.
 
@@ -265,7 +265,7 @@ Note all'[art. 5:
 
 1.
 
-E' istituita presso il Ministero dello sviluppo economico, senza nuovi e maggiori oneri a carico del bilancio dello Stato, una banca dati alla quale dovranno confluire, nei formati stabiliti dal Ministero dello sviluppo economico e dal Ministero dell'ambiente, su proposta del Comitato, i dati acquisiti ed elaborati nel corso delle varie fasi delle attivita' di esplorazione e di stoccaggio di CO 2 , secondo le disposizioni contenute nel [decreto legislativo 7 marzo 2005, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82).
+E' istituita presso il Ministero dello sviluppo economico, senza nuovi e maggiori oneri a carico del bilancio dello Stato, una banca dati alla quale dovranno confluire, nei formati stabiliti dal Ministero dello sviluppo economico e dal Ministero dell'ambiente, su proposta del Comitato, i dati acquisiti ed elaborati nel corso delle varie fasi delle attivita' di esplorazione e di stoccaggio di CO 2 , secondo le disposizioni contenute nel [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md).
 
 2.
 
@@ -294,7 +294,7 @@ Nel caso di siti di stoccaggio di CO 2 per i quali e' stata presentata richiesta
 Il Ministero dello sviluppo economico promuove la stipula di accordi tra gli operatori minerari, petroliferi e geotermici ed i titolari di licenza di esplorazione per lo scambio di dati geologici, geofisici e geominerari acquisiti durante le attivita' minerarie pregresse.
 
 Note all'[art. 6: 
- - Il decreto legislativo 7 marzo 2005, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82#art_6) ([Codice dell'amministrazione digitale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82)), e' pubblicato nella Gazz.
+ - Il decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md) ([Codice dell'amministrazione digitale](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md)), e' pubblicato nella Gazz.
  Uff. 16 maggio 2005, n. 112, S.O.
 
 ## Stoccaggio
@@ -305,7 +305,7 @@ Capo II
 
 1.
 
-Il Ministero dell'ambiente ed il Ministero dello sviluppo economico, sulla base dei dati elaborati dal Comitato, sentito il Ministero della difesa ai sensi dell'[articolo 334 del decreto legislativo 15 marzo 2010, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66#art_334), d'intesa con la Conferenza Stato-regioni per la parte in terraferma, individuano, con apposito decreto, entro 24 mesi dalla data di entrata in vigore del presente decreto, le aree del territorio nazionale e della zona economica esclusiva all'interno delle quali possono essere selezionati i siti di stoccaggio ai sensi del presente decreto e le aree nelle quali lo stoccaggio non e' permesso.
+Il Ministero dell'ambiente ed il Ministero dello sviluppo economico, sulla base dei dati elaborati dal Comitato, sentito il Ministero della difesa ai sensi dell'[articolo 334 del decreto legislativo 15 marzo 2010, n. 66](../Decreti%20Legislativi/Codice%20dellordinamento%20militare.%2010G0089.md), d'intesa con la Conferenza Stato-regioni per la parte in terraferma, individuano, con apposito decreto, entro 24 mesi dalla data di entrata in vigore del presente decreto, le aree del territorio nazionale e della zona economica esclusiva all'interno delle quali possono essere selezionati i siti di stoccaggio ai sensi del presente decreto e le aree nelle quali lo stoccaggio non e' permesso.
 
 2.
 
@@ -401,7 +401,7 @@ La modifica o integrazione delle attivita' di esplorazione autorizzate e' consen
 
 1.
 
-Le opere necessarie all'esplorazione sono dichiarate di pubblica utilita' a tutti gli effetti del [decreto del Presidente della Repubblica 8 giugno 2001, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-08;327), e successive modificazioni.
+Le opere necessarie all'esplorazione sono dichiarate di pubblica utilita' a tutti gli effetti del [decreto del Presidente della Repubblica 8 giugno 2001, n. 327](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20espropriazione%20per%20pubblica%20utilita.%20Testo%20A.md), e successive modificazioni.
 
 2.
 
@@ -442,7 +442,7 @@ In caso di revoca della licenza di esplorazione o rinuncia da parte del titolare
 
 1.
 
-La domanda per il rilascio della licenza di esplorazione e' redatta in forma cartacea e su supporto informatico ed e' trasmessa al Ministero dello sviluppo economico e per conoscenza al Ministero dell'ambiente, alla regione territorialmente interessata e al Comitato esclusivamente su supporto informatico. L'operatore garantisce la conformita' della domanda redatta in forma cartacea con quella presentata su supporto informatico e sottoscritta con firma digitale basata su un certificato qualificato, rilasciato da un certificatore accreditato ai sensi del [decreto legislativo 7 marzo 2005, n. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82), e successive modificazioni. All'atto della domanda il richiedente presenta quietanza dell'avvenuto pagamento della tariffa di cui all'articolo 27, comma 1. Nella domanda il richiedente deve specificare le finalita' dell'indagine e gli obiettivi tecnici che si intendono conseguire. Inoltre dovra' essere indicata l'area di indagine riportata in una mappa nella scala adeguata nonche' il programma dei lavori con la descrizione delle attivita' esplorative che intende eseguire.
+La domanda per il rilascio della licenza di esplorazione e' redatta in forma cartacea e su supporto informatico ed e' trasmessa al Ministero dello sviluppo economico e per conoscenza al Ministero dell'ambiente, alla regione territorialmente interessata e al Comitato esclusivamente su supporto informatico. L'operatore garantisce la conformita' della domanda redatta in forma cartacea con quella presentata su supporto informatico e sottoscritta con firma digitale basata su un certificato qualificato, rilasciato da un certificatore accreditato ai sensi del [decreto legislativo 7 marzo 2005, n. 82](../Decreti%20Legislativi/Codice%20dellamministrazione%20digitale.md), e successive modificazioni. All'atto della domanda il richiedente presenta quietanza dell'avvenuto pagamento della tariffa di cui all'articolo 27, comma 1. Nella domanda il richiedente deve specificare le finalita' dell'indagine e gli obiettivi tecnici che si intendono conseguire. Inoltre dovra' essere indicata l'area di indagine riportata in una mappa nella scala adeguata nonche' il programma dei lavori con la descrizione delle attivita' esplorative che intende eseguire.
 
 2.
 
@@ -458,7 +458,7 @@ Il Ministero dello sviluppo economico, ai fini del rilascio della licenza di esp
 
 5.
 
-La licenza di esplorazione e' rilasciata entro 180 giorni dal termine di scadenza della concorrenza di cui al comma 2. La regione rende l'intesa di cui all'articolo 8, comma 2, entro 120 giorni dal termine di scadenza della concorrenza fatto salvo quanto previsto dal [decreto legislativo 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), parte II.
+La licenza di esplorazione e' rilasciata entro 180 giorni dal termine di scadenza della concorrenza di cui al comma 2. La regione rende l'intesa di cui all'articolo 8, comma 2, entro 120 giorni dal termine di scadenza della concorrenza fatto salvo quanto previsto dal [decreto legislativo 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), parte II.
 
 6.
 
@@ -654,7 +654,7 @@ In caso di inadempienze gravi, il Ministero dello sviluppo economico di concerto
 
 9.
 
-Le opere necessarie allo stoccaggio di CO2 e quelle necessarie per il trasporto al sito di stoccaggio, cosi' come individuate nella domanda di autorizzazione allo stoccaggio di cui all'articolo 13, sono dichiarate di pubblica utilita' a tutti gli effetti del [decreto del Presidente della Repubblica 8 giugno 2001, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-08;327), relativo al [testo unico delle disposizioni legislative e regolamentari in materia di espropriazione per pubblica utilita'](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-08;327), e successive modificazioni.
+Le opere necessarie allo stoccaggio di CO2 e quelle necessarie per il trasporto al sito di stoccaggio, cosi' come individuate nella domanda di autorizzazione allo stoccaggio di cui all'articolo 13, sono dichiarate di pubblica utilita' a tutti gli effetti del [decreto del Presidente della Repubblica 8 giugno 2001, n. 327](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20espropriazione%20per%20pubblica%20utilita.%20Testo%20A.md), relativo al [testo unico delle disposizioni legislative e regolamentari in materia di espropriazione per pubblica utilita'](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20espropriazione%20per%20pubblica%20utilita.%20Testo%20A.md), e successive modificazioni.
 
 ### Art. 13. — Domande di autorizzazione allo stoccaggio
 
@@ -804,7 +804,7 @@ Il Ministero dello sviluppo economico notifica la decisione finale alla Commissi
 
 12.
 
-COMMA ABROGATO DAL [D.L. 9 DICEMBRE 2023, N. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-12-09;181), CONVERTITO CON MODIFICAZIONI DALLA [L. 2 FEBBRAIO 2024, N. 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-02-02;11).
+COMMA ABROGATO DAL [D.L. 9 DICEMBRE 2023, N. 181](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-12-09;181), CONVERTITO CON MODIFICAZIONI DALLA [L. 2 FEBBRAIO 2024, N. 11](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20dicembre%202023%20n.%20181%20recante%20disposizioni%20urgenti%20per%20la%20sicurezza%20energetica%20del%20Paese%20la%20promozione%20del%20ricorso%20alle%20fonti%20rin_9da98f93688b.md).
 
 ### Art. 17. — Modifica, riesame, aggiornamento, revoca e decadenza dell'autorizzazione allo stoccaggio
 
@@ -939,7 +939,7 @@ In caso di revoca o di decadenza dell'autorizzazione allo stoccaggio di cui all'
 
 Tutte le attivita' di esplorazione, realizzazione degli impianti, iniezione di CO2 e gestione dei siti, regolate ai sensi 
 del presente decreto, sono soggette a vigilanza e controllo. Per le attivita' di esplorazione e stoccaggio geologico di CO2 , trovano 
-applicazione le norme di polizia mineraria di cui al [decreto del Presidente della Repubblica 9 aprile 1959, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1959-04-09;128), e successive modificazioni, nonche' le norme relative alla sicurezza e salute dei lavoratori nelle industrie estrattive per trivellazione di cui al [decreto legislativo 25 novembre 1996, n. 624](Attuazione%20della%20direttiva%2092-91-CEE%20relativa%20alla%20sicurezza%20e%20salute%20dei%20lavoratori%20nelle%20industrie%20estrattive%20per%20trivellazione%20e%20della%20direttiva%2092-104-CEE%20relativa%20alla%20sicurezza%20e%20sa_3c99c2196a3f.md), e successive modificazioni.
+applicazione le norme di polizia mineraria di cui al [decreto del Presidente della Repubblica 9 aprile 1959, n. 128](../DPR/Norme%20di%20polizia%20delle%20miniere%20e%20delle%20cave.md), e successive modificazioni, nonche' le norme relative alla sicurezza e salute dei lavoratori nelle industrie estrattive per trivellazione di cui al [decreto legislativo 25 novembre 1996, n. 624](Attuazione%20della%20direttiva%2092-91-CEE%20relativa%20alla%20sicurezza%20e%20salute%20dei%20lavoratori%20nelle%20industrie%20estrattive%20per%20trivellazione%20e%20della%20direttiva%2092-104-CEE%20relativa%20alla%20sicurezza%20e%20sa_3c99c2196a3f.md), e successive modificazioni.
 
 2.
 

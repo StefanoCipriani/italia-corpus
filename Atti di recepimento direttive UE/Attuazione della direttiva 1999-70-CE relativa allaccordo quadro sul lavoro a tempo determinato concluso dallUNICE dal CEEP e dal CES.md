@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [direttiva 1999/70/CE del Consiglio, del 28 giugno 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;70), relativa all'accordo quadro sul lavoro a tempo determinato concluso dalla CES, dall'UNICE e dal CEEP;
 
-Vista la [legge 29 dicembre 2000, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-29;422), ed, in particolare, l'articolo 1, commi 1 e 3, e l'allegato B;
+Vista la [legge 29 dicembre 2000, n. 422](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202000.md), ed, in particolare, l'articolo 1, commi 1 e 3, e l'allegato B;
 
 Vista la deliberazione preliminare del Consiglio dei Ministri, adottata nella riunione del 28 giugno 2001;
 
@@ -35,7 +35,7 @@ Emana il seguente decreto legislativo:
 
 AGGIORNAMENTO (18)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122).
+Il [D.Lgs. 15 giugno 2015, n. 81](../Decreti%20Legislativi/Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md).
 
 ## Art. 2.
 
@@ -46,7 +46,7 @@ Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (18)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122).
+Il [D.Lgs. 15 giugno 2015, n. 81](../Decreti%20Legislativi/Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md).
 
 ## Art. 3.
 
@@ -57,7 +57,7 @@ Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (18)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122).
+Il [D.Lgs. 15 giugno 2015, n. 81](../Decreti%20Legislativi/Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md).
 
 ## Art. 4.
 
@@ -68,7 +68,7 @@ Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (18)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122).
+Il [D.Lgs. 15 giugno 2015, n. 81](../Decreti%20Legislativi/Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md).
 
 ## Art. 4-bis.
 
@@ -79,7 +79,7 @@ Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (18)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122).
+Il [D.Lgs. 15 giugno 2015, n. 81](../Decreti%20Legislativi/Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md).
 
 ## Art. 5.
 
@@ -90,7 +90,7 @@ Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (18)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122).
+Il [D.Lgs. 15 giugno 2015, n. 81](../Decreti%20Legislativi/Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md).
 
 ## Art. 6.
 
@@ -101,7 +101,7 @@ Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (18)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122).
+Il [D.Lgs. 15 giugno 2015, n. 81](../Decreti%20Legislativi/Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md).
 
 ## Art. 7.
 
@@ -112,7 +112,7 @@ Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (18)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122).
+Il [D.Lgs. 15 giugno 2015, n. 81](../Decreti%20Legislativi/Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md).
 
 ## Art. 8.
 
@@ -123,7 +123,7 @@ Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (18)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122).
+Il [D.Lgs. 15 giugno 2015, n. 81](../Decreti%20Legislativi/Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md).
 
 ## Art. 9.
 
@@ -134,7 +134,7 @@ Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (18)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122).
+Il [D.Lgs. 15 giugno 2015, n. 81](../Decreti%20Legislativi/Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md).
 
 ## Art. 10.
 
@@ -145,7 +145,7 @@ Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (18)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122).
+Il [D.Lgs. 15 giugno 2015, n. 81](../Decreti%20Legislativi/Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md).
 
 ## Art. 11.
 
@@ -156,7 +156,7 @@ Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (18)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122).
+Il [D.Lgs. 15 giugno 2015, n. 81](../Decreti%20Legislativi/Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md).
 
 ## Art. 12.
 
@@ -167,7 +167,7 @@ Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (18)
 
-Il [D.Lgs. 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-07-30;122).
+Il [D.Lgs. 15 giugno 2015, n. 81](../Decreti%20Legislativi/Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md) ha disposto (con l'art. 55, comma 1, lettera b)) l'abrogazione del presente provvedimento fermo restando quanto disposto dall'[articolo 9, comma 28, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_9-com28), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md).
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

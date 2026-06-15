@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 31 ottobre 2003, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-10-31;306), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee, legge comunitaria 2003, ed in particolare l'allegato A;
+Vista la [legge 31 ottobre 2003, n. 306](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202003.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee, legge comunitaria 2003, ed in particolare l'allegato A;
 
 Vista la [direttiva 2003/8/CE del Consiglio, del 27 gennaio 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;8), intesa a migliorare l'accesso alla giustizia nelle controversie transfrontaliere attraverso la definizione di norme minime comuni relative al patrocinio a spese dello Stato in tali controversie;
 
-Visto il [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115), recante [testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115);
+Visto il [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md), recante [testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 maggio 2005;
 
@@ -39,14 +39,14 @@ Il presente decreto reca le disposizioni relative al miglioramento dell'accesso 
 Le disposizioni del presente decreto non trovano applicazione nei processi amministrativi, contabili e tributari.
 
 Avvertenza
- Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
 
  Note alle premesse:
 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - Si riporta il testo dell'allegato A alla [legge 31 ottobre 2003, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-10-31;306) (Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2003):
+ - Si riporta il testo dell'allegato A alla [legge 31 ottobre 2003, n. 306](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202003.md) (Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2003):
  «Allegato A (art. 1, commi 1 e 3) 2001/40/CE del Consiglio, del 28 maggio 2001, relativa al riconoscimento reciproco delle decisioni di allontanamento dei cittadini di Paesi terzi.
  2002/6/CE del Parlamento europeo e del Consiglio, del 18 febbraio 2002, sulle formalita' di dichiarazione delle navi in arrivo e/o in partenza da porti degli Stati membri della Comunita'.
  2002/33/CE del Parlamento europeo e del Consiglio, del 21 ottobre 2002, che modifica le [direttive 90/425/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;425) e [92/118/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;118) con riguardo alle norme sanitarie relative ai sottoprodotti di origine animale.
@@ -66,7 +66,7 @@ Avvertenza
  2003/49/CE del Consiglio, del 3 giugno 2003, concernente il regime fiscale comune applicabile ai pagamenti di interessi e di canoni fra societa' consociate di Stati membri diversi.
  2003/61/CE del Consiglio, del 18 giugno 2003, recante modifica delle [direttive 66/401/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1966;401) relativa alla commercializzazione delle sementi di piante foraggere, 66/402/CEE relativa alla commercializzazione delle sementi di cereali, 68/193/CEE relativa alla commercializzazione dei materiali di moltiplicazione vegetativa della vite, 92/33/CEE relativa alla commercializzazione delle piantine di ortaggi e dei materiali di moltiplicazione di ortaggi, ad eccezione delle sementi, 92/34/CEE relativa alla commercializzazione dei materiali di moltiplicazione delle piante da frutto e delle piante da frutto destinate alla produzione di frutti, 98/56/CE relativa alla commercializzazione dei materiali di moltiplicazione delle piante ornamentali, 2002/54/CE relativa alla commercializzazione delle sementi di barbabietole, 2002/55/CE relativa alla commercializzazione delle sementi di ortaggi, 2002/56/CE relativa alla commercializzazione dei tuberi seme di patate, e 2002/57/CE relativa alla commercializzazione delle sementi di piante oleaginose e da fibra, per quanto riguarda le analisi comparative comunitarie.».
  - La [direttiva 2003/8/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;8) e' pubblicata in GUCE n. L 026 del 31 gennaio 2003.
- - Il [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115), reca: «[Testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115).».
+ - Il [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md), reca: «[Testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md).».
 
 ### Art. 2. — Definizioni
 
@@ -123,7 +123,7 @@ Il patrocinio non e' concesso al richiedente che puo', nella fattispecie, dispor
 
 6.
 
-Si applica l'[articolo 77 del decreto del Presidente della Repubblica 30 maggio 2002, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115#art_77).
+Si applica l'[articolo 77 del decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md).
 
 Nota all'art. 4:
  - Si riporta il testo dell'[art. 77 del decreto del Presidente della Repubblica n. 115 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002;115#art_77):
@@ -163,7 +163,7 @@ Il patrocinio a spese dello Stato non copre le spese sostenute dalla parte avver
 
 4.
 
-Si applicano gli [articoli 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115#art_133), [134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115#art_134) e [136 del decreto del Presidente della Repubblica 30 maggio 2002, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115#art_136).
+Si applicano gli [articoli 133](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md), [134](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md) e [136 del decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md).
 
 Nota all'art. 6:
  - Si riporta il testo degli [articoli 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002;115#art_133), [134](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002;115#art_134) e [136 del decreto del Presidente della Repubblica n. 115 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002;115#art_136):
@@ -237,7 +237,7 @@ Salvo quanto previsto dall'articolo 8, la domanda di ammissione al patrocinio e'
 
 2.
 
-Per i giudizi pendenti sul territorio nazionale e' competente il consiglio dell'ordine degli avvocati individuato ai sensi dell'[articolo 124, comma 2, del decreto del Presidente della Repubblica 30 maggio 2002, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115#art_124-com2).
+Per i giudizi pendenti sul territorio nazionale e' competente il consiglio dell'ordine degli avvocati individuato ai sensi dell'[articolo 124, comma 2, del decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md).
 
 Nota all'art. 12:
  - Si riporta il [comma 2 dell'art. 124 del decreto del Presidente della Repubblica n. 115 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002;115#art_124-com2):
@@ -298,15 +298,15 @@ Il Ministero della giustizia, quale autorita' preposta alla trasmissione, assist
 
 3.
 
-Si applicano, in quanto compatibili, gli articoli 78, comma 2, e 79 del [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115).
+Si applicano, in quanto compatibili, gli articoli 78, comma 2, e 79 del [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md).
 
 Note all'art. 14:
  - Gli articoli 78, comma 2, e 79, del [decreto del Presidente della Repubblica n. 115 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002;115), cosi' recitano:
- «2. L'istanza e' sottoscritta dall'interessato a pena di inammissibilita'. La sottoscrizione e' autenticata dal difensore, ovvero con le modalita' di cui all'[art. 38, comma 3, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445#art_38-com3).».
+ «2. L'istanza e' sottoscritta dall'interessato a pena di inammissibilita'. La sottoscrizione e' autenticata dal difensore, ovvero con le modalita' di cui all'[art. 38, comma 3, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md).».
  «Art. 79 (Contenuto dell'istanza). - 1. L'istanza e' redatta in carta semplice e, a pena di inammissibilita', contiene:
  a) la richiesta di ammissione al patrocinio e l'indicazione del processo cui si riferisce, se gia' pendente;
  b) le generalita' dell'interessato e dei componenti la famiglia anagrafica, unitamente ai rispettivi codici fiscali;
- c) una dichiarazione sostitutiva di certificazione da parte dell'interessato, ai sensi dell'[art. 46, comma 1, lettera o), del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2000-12-28;445#art_46-com1-leto), attestante la sussistenza delle condizioni di reddito previste per l'ammissione, con specifica determinazione del reddito complessivo valutabile a tali fini, determinato secondo le modalita' indicate nell'art. 76;
+ c) una dichiarazione sostitutiva di certificazione da parte dell'interessato, ai sensi dell'[art. 46, comma 1, lettera o), del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20documentazione%20amministrativa.%20Testo%20A.md), attestante la sussistenza delle condizioni di reddito previste per l'ammissione, con specifica determinazione del reddito complessivo valutabile a tali fini, determinato secondo le modalita' indicate nell'art. 76;
  d) l'impegno a comunicare, fino a che il processo non sia definito, le variazioni rilevanti dei limiti di reddito, verificatesi nell'anno precedente, entro trenta giorni dalla scadenza del termine di un anno, dalla data di presentazione dell'istanza o della eventuale precedente comunicazione di variazione.
  2. Per i redditi prodotti all'estero, il cittadino di Stati non appartenenti all'Unione europea correda l'istanza con una certificazione dell'autorita' consolare competente, che attesta la veridicita' di quanto in essa indicato.
  3. Gli interessati, se il giudice procedente o il consiglio dell'ordine degli avvocati competente a provvedere in via anticipata lo richiedono, sono tenuti, a pena di inammissibilita' dell'istanza, a produrre la documentazione necessaria ad accertare la veridicita' di quanto in essa indicato.».
@@ -323,7 +323,7 @@ I provvedimenti di rigetto sono succintamente motivati.
 
 3.
 
-Si applica l'[articolo 126, commi 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115#art_126-com2) e [3, del decreto del Presidente della Repubblica 30 maggio 2002, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115#art_126-com3).
+Si applica l'[articolo 126, commi 2](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md) e [3, del decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md).
 
 Nota all'[art. 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002;115#art_15):
  - L'[art. 126 del decreto del Presidente della Repubblica n. 115 del 2002](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002;115#art_126), cosi' recita:
@@ -353,7 +353,7 @@ Nei rapporti tra gli Stati dell'Unione europea e in relazione alle disposizioni 
 
 2.
 
-Si applicano, in quanto compatibili, le disposizioni dei Titoli I e IV, della Parte III, del [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;115).
+Si applicano, in quanto compatibili, le disposizioni dei Titoli I e IV, della Parte III, del [decreto del Presidente della Repubblica 30 maggio 2002, n. 115](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20di%20spese%20di%20giustizia.%20Testo%20A.md).
 
 Note all'art. 17:
  - La convenzione dell'Aja del 25 ottobre 1980 tende a facilitare l'accesso internazionale alla giustizia (RS 0.274.133) e l'accordo europeo del 27 gennaio 1977 sulla trasmissione di domande d'assistenza giudiziaria (RS 0.274.137).

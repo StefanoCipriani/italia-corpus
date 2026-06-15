@@ -14,9 +14,9 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [direttiva 2000/79/CE del Consiglio, del 27 novembre 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;79), relativa all'attuazione dell'accordo sull'organizzazione dell'orario di lavoro del personale di volo nell'aviazione civile concluso da AEA, ETF, ECA, ERA e IACA;
 
-Vista la [legge 31 ottobre 2003, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-10-31;306), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (Legge comunitaria 2003), ed in particolare l'allegato B che delega il Governo ad emanare uno o piu' decreti legislativi recanti le norme per l'attuazione della citata [direttiva 2000/79/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;79);
+Vista la [legge 31 ottobre 2003, n. 306](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202003.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (Legge comunitaria 2003), ed in particolare l'allegato B che delega il Governo ad emanare uno o piu' decreti legislativi recanti le norme per l'attuazione della citata [direttiva 2000/79/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;79);
 
-Visto il [codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), di cui al [regio decreto 30 marzo 1942, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327), come modificato dal [decreto legislativo 9 maggio 2005, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-05-09;96);
+Visto il [codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), di cui al [regio decreto 30 marzo 1942, n. 327](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), come modificato dal [decreto legislativo 9 maggio 2005, n. 96](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Revisione%20della%20parte%20aeronautica%20del%20Codice%20della%20navigazione%20a%20norma%20dellarticolo%202%20della%20legge%209%20novembre%202004%20n.%20265.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 maggio 2005;
 
@@ -36,7 +36,7 @@ Le disposizioni del presente decreto si applicano al personale di volo dell'avia
 
 Avvertenza:
 
- Nella Gazzetta Ufficiale - serie generale - del 5 ottobre 2005 si procedera' alla ripubblicazione del testo della presente legge corredata delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1986-03-14;217).
+ Nella Gazzetta Ufficiale - serie generale - del 5 ottobre 2005 si procedera' alla ripubblicazione del testo della presente legge corredata delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](../DPR/Approvazione%20del%20regolamento%20di%20esecuzione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblica_e0836c31af30.md).
 
 ## Art. 2. — Definizioni
 
@@ -46,7 +46,7 @@ Per «Orario di lavoro» si intende qualsiasi periodo di tempo in cui il lavorat
 
 2.
 
-Per «Personale di volo dell'aviazione civile» si intende il personale di cui all'[articolo 732 del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_732) impiegato da un'azienda con sede legale o base delle operazioni nello Stato italiano.
+Per «Personale di volo dell'aviazione civile» si intende il personale di cui all'[articolo 732 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md) impiegato da un'azienda con sede legale o base delle operazioni nello Stato italiano.
 
 3.
 

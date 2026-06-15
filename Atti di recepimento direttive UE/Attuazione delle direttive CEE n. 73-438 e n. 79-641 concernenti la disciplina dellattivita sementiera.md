@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
+Vista la [legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
 
 Viste in particolare le direttive del Consiglio (CEE) n. 73/438 dell'11 dicembre 1973, n. 78/55 del 19 dicembre 1977, n. 78/692 del 25 luglio 1978 e la direttiva della commissione (CEE) n. 79/641 del 27 giugno 1979 contenute nell'elenco allegato alla citata [legge n. 42/82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982;42);
 
@@ -22,7 +22,7 @@ Vista la [legge 20 aprile 1976, n. 195](https://www.normattiva.it/uri-res/N2Ls?u
 
 Ritenuto che al fine di recepire nell'ordinamento nazionale le sopramenzionate direttive (CEE) occorre modificare ed integrare le cennate [leggi n. 1096/71 e 195/76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976;195);
 
-Considerato che in data 25 febbraio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42#art_1), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
+Considerato che in data 25 febbraio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
 
 Tenuto conto delle osservazioni formulate in sede parlamentare;
 
@@ -51,7 +51,7 @@ L'[art. 3 della legge 20 aprile 1976, n. 195](https://www.normattiva.it/uri-res/
  di un cartellino del produttore recante le indicazioni del nome e della sede della ditta produttrice, degli estremi della licenza di cui all'[art. 2 della legge 25 novembre 1971, n. 1096](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-11-25;1096#art_2);
  b) all'interno: di un attestato ufficiale, dello stesso colore del cartellino ufficiale, di cui al precedente punto a), che riporti le indicazioni previste ai punti 4, 5, 6 e 7 dell'allegato n. 1 della presente legge. Esso non e' indispensabile quando, conformemente al medesimo punto a), il cartellino figura all'interno dell'imballaggio trasparente, o e' utilizzata un'etichetta adesiva od, infine, il cartellino sia costituito da materiale non lacerabile.
  Gli imballaggi di sementi standard ed i piccoli imballaggi di sementi della categoria "sementi certificate" devono essere muniti di un cartellino del produttore.
- I rivenditori di sementi, muniti della apposita autorizzazione prefettizia di cui alla [legge 18 giugno 1931, n. 987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-18;987), possono sconfezionare e riconfezionare sementi della categoria standard a condizione che appongano alle nuove confezioni poste in vendita un proprio cartellino, in sostituzione di quello del produttore.
+ I rivenditori di sementi, muniti della apposita autorizzazione prefettizia di cui alla [legge 18 giugno 1931, n. 987](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20per%20la%20difesa%20delle%20piante%20coltivate%20e%20dei%20prodotti%20agrari%20dalle%20cause%20nemiche%20e%20sui%20relativi%20servizi.%20031U0987.md), possono sconfezionare e riconfezionare sementi della categoria standard a condizione che appongano alle nuove confezioni poste in vendita un proprio cartellino, in sostituzione di quello del produttore.
  Il cartellino, prescritto dai precedenti due commi, deve essere conforme all'allegato n. 2 della presente legge e, di colore azzurro, per le sementi certificate e, giallo scuro, per le sementi "standard". Nel caso di imballaggi trasparenti il cartellino puo' figurare all'interno quando esso e' leggibile attraverso l'imballaggio. Tale cartellino puo' essere sostituito da una scritta impressa in modo indelebile sull'involucro.
  Per le varieta' notoriamente conosciute alla data del 1 luglio 1970 e' consentito di menzionare sul cartellino una determinata selezione conservatrice. In tal caso gli interessati dovranno dame preventiva comunicazione al Ministero dell'agricoltura e delle foreste. E' fatto comunque divieto di fare riferimento a particolari proprieta' relative alla selezione conservatrice".
 

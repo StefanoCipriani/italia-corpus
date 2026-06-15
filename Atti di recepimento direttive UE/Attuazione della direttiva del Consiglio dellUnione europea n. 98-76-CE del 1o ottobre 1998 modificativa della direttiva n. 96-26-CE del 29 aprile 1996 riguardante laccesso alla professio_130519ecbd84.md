@@ -14,7 +14,7 @@ VISTI gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 VISTO l'[articolo 14 della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_14), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
 
-VISTO l'articolo 1, comma 1 e comma 2 e l'allegato A della [legge 21 dicembre 1999, n. 526](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-21;526), recante "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee " (Legge comunitaria 1999);
+VISTO l'articolo 1, comma 1 e comma 2 e l'allegato A della [legge 21 dicembre 1999, n. 526](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201999.md), recante "Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee " (Legge comunitaria 1999);
 
 VISTA la [direttiva del Consiglio dell'Unione Europea n. 98/76/CE del 1 ottobre 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1998;76) che modifica la [direttiva del Consiglio dell'Unione Europea n. 96/26/CE del 29 aprile 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;26);
 
@@ -42,7 +42,7 @@ Ai fini del presente decreto, costituisce esercizio della professione di traspor
 
 3.
 
-Ai fini del presente decreto, costituisce esercizio della professione di trasportatore su strada di persone l'attivita' dell'impresa che, fuori della fattispecie prevista dall'[articolo 83, comma 1 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_83-com1), esegue - mediante autoveicoli destinati, a norma dell'articolo 82, comma 1, del medesimo decreto legislativo, a trasportare piu' di nove persone, autista compreso - il trasferimento di persone con offerta al pubblico, o a talune categorie di utenti, verso corrispettivo.
+Ai fini del presente decreto, costituisce esercizio della professione di trasportatore su strada di persone l'attivita' dell'impresa che, fuori della fattispecie prevista dall'[articolo 83, comma 1 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), esegue - mediante autoveicoli destinati, a norma dell'articolo 82, comma 1, del medesimo decreto legislativo, a trasportare piu' di nove persone, autista compreso - il trasferimento di persone con offerta al pubblico, o a talune categorie di utenti, verso corrispettivo.
 
 3-bis. E' impresa di trasporto su strada, ai fini del presente decreto, qualsiasi persona fisica o persona giuridica, con o senza scopo di lucro, od associazione o gruppo di persone senza personalita' giuridica, con o senza scopo di lucro, nonche' qualsiasi ente dipendente dall'autorita' pubblica, il quale abbia personalita' giuridica o dipenda da un'autorita' avente personalita' giuridica, che svolge l'attivita' di cui ai commi 2 o 3.))
 
@@ -57,7 +57,7 @@ Quest'ultima condizione non e' richiesta se la persona effettua un soggiorno in 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 2. — Esenzioni
 
@@ -73,13 +73,13 @@ Le disposizioni del presente decreto non si applicano alle imprese di cui all'ar
 
 3.
 
-COMMA ABROGATO DAL [D.LGS. 28 DICEMBRE 2001, N. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478).
+COMMA ABROGATO DAL [D.LGS. 28 DICEMBRE 2001, N. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md).
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 3. — Direzione dell'attivita'
 
@@ -103,7 +103,7 @@ La persona di cui al comma 1 deve essere, alternativamente:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 4. — Requisiti
 
@@ -133,7 +133,7 @@ I requisiti di cui ai commi 1 e 3 devono permanere per il periodo di iscrizione 
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 5. — Onorabilita'
 
@@ -151,15 +151,15 @@ Per le imprese di cui all'articolo 1, commi 2 e 3, il requisito dell'onorabilita
 
 Non sussiste, o cessa di sussistere, il requisito dell'onorabilita' in capo alla persona che:
                         a)
-                            sia stata dichiarata delinquente abituale, professionale o per tendenza, oppure sia sottoposta a misure di sicurezza personali o a misure di prevenzione previste dalla [legge 27 dicembre 1956, n. 1423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-27;1423), e dalla [legge 31 maggio 1965, n. 575](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-31;575);
+                            sia stata dichiarata delinquente abituale, professionale o per tendenza, oppure sia sottoposta a misure di sicurezza personali o a misure di prevenzione previste dalla [legge 27 dicembre 1956, n. 1423](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20di%20prevenzione%20nei%20confronti%20delle%20persone%20pericolose%20per%20la%20sicurezza%20e%20per%20la%20pubblica%20moralita.md), e dalla [legge 31 maggio 1965, n. 575](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20contro%20la%20mafia.md);
                         b)
-                            sia sottoposto, con sentenza definitiva, ad una delle pene accessorie previste dall'articolo 19, comma f, numeri 2 e 4 dei [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398);
+                            sia sottoposto, con sentenza definitiva, ad una delle pene accessorie previste dall'articolo 19, comma f, numeri 2 e 4 dei [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md);
                         c)
                             abbia riportato, con sentenza definitiva, una o piu' condanne, per reato non colposo, a pena detentiva complessivamente superiore a due anni e sei mesi;
                         d)
-                            abbia riportato, con sentenza definitiva, una condanna a pena detentiva per uno dei delitti di cui al capo I del titolo II o ai capi II e III del titolo VII del libro secondo del [codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) o per uno dei delitti di cui agli articoli, 416, 416-bis, 513-bis, [589, comma 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_589-com2), [624](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_589-com624), [628](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_589-com628), [629](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_589-com629), [630](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_589-com630), [640](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_589-com640), [641](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_589-com641), [644](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_589-com644), [648](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_589-com648), [648-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_589-com648bis) e [648-ter del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_589-com648ter); per uno dei delitti di cui all'[articolo 3 della legge 20 febbraio 1958, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-20;75#art_3); per uno dei delitti di cui alla [legge 2 ottobre 1967, n. 895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-10-02;895); per uno dei delitti di cui agli articoli 73, comma 1, e 74 del [d.p.r. 9 ottobre 1990, n. 309](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1990-10-09;309); per il delitto di cui all'[articolo 189, comma 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_189-com6) e [comma 7, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_189-com7); per uno dei delitti di cui all'[articolo 12 del decreto legislativo 25 luglio 1998, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-07-25;286#art_12);
+                            abbia riportato, con sentenza definitiva, una condanna a pena detentiva per uno dei delitti di cui al capo I del titolo II o ai capi II e III del titolo VII del libro secondo del [codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) o per uno dei delitti di cui agli articoli, 416, 416-bis, 513-bis, [589, comma 2](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [624](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [628](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [629](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [630](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [640](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [641](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [644](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [648](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), [648-bis](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [648-ter del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md); per uno dei delitti di cui all'[articolo 3 della legge 20 febbraio 1958, n. 75](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-02-20;75#art_3); per uno dei delitti di cui alla [legge 2 ottobre 1967, n. 895](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-10-02;895); per uno dei delitti di cui agli articoli 73, comma 1, e 74 del [d.p.r. 9 ottobre 1990, n. 309](../DPR/Testo%20unico%20delle%20leggi%20in%20materia%20di%20disciplina%20degli%20stupefacenti%20e%20sostanze%20psicotrope%20prevenzione%20cura%20e%20riabilitazione%20dei%20relativi%20stati%20di%20tossicodipendenza.md); per il delitto di cui all'[articolo 189, comma 6](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md) e [comma 7, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md); per uno dei delitti di cui all'[articolo 12 del decreto legislativo 25 luglio 1998, n. 286](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20concernenti%20la%20disciplina%20dellimmigrazione%20e%20norme%20sulla%20condizione%20dello%20straniero.md);
                         e)
-                            abbia riportato, con sentenza definitiva, una condanna per il delitto di cui all'[articolo 282 del d.p.r. 23 gennaio 1973, n. 43](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973-01-23;43#art_282); per il delitto di cui all'[articolo 18, comma 3 della legge 18 aprile 1975, n. 110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110#art_18-com3); per la contravvenzione di cui all'articolo 186, comma 2, anche in combinato disposto con l'[articolo 187, comma 4, del decreto legislativo 285/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285#art_187-com4);
+                            abbia riportato, con sentenza definitiva, una condanna per il delitto di cui all'[articolo 282 del d.p.r. 23 gennaio 1973, n. 43](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20in%20materia%20doganale.md); per il delitto di cui all'[articolo 18, comma 3 della legge 18 aprile 1975, n. 110](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110#art_18-com3); per la contravvenzione di cui all'articolo 186, comma 2, anche in combinato disposto con l'[articolo 187, comma 4, del decreto legislativo 285/1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285#art_187-com4);
                         f)
                             abbia subito, in via definitiva, l'applicazione della sanzione amministrativa di cui all'[articolo 26 della legge n. 298 del 1974](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974;298#art_26), o di qualunque sanzione amministrativa per l'esercizio abusivo della professione di cui all'articolo 1, commi 2 o 3, ovvero, per cinque volte nel corso dell'ultimo quinquennio, cumulativamente, abbia subito la sanzione amministrativa accessoria della sospensione della patente di guida o sia stato effettuato nei suoi confronti l'accertamento di cui all'[articolo 167, comma 10 del decreto legislativo n. 285 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;285#art_167-com10);
                         g)
@@ -181,7 +181,7 @@ L'applicazione delle sanzioni di cui alle lettere e), f) e g) dei comma 2 e' ril
 
 6.
 
-La persona che esercita la direzione dell'attivita' perde comunque il requisito dell'onorabilita' anche nel caso di violazione degli [articoli 589, comma 2, del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_589-com2), 189, commi 6 e 7, 186, comma 2, 187, comma 4, del decreto legislativo n. 28511992 o delle violazioni di cui al comma 2, lettera f),commesse dal lavoratore dipendente, nell'esercizio della propria attivita', qualora il fatto che ha dato luogo alla violazione sia riconducibile a istruzioni o disposizioni impartite o ad omessa vigilanza con riferimento a piu' precedenti violazioni.
+La persona che esercita la direzione dell'attivita' perde comunque il requisito dell'onorabilita' anche nel caso di violazione degli [articoli 589, comma 2, del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), 189, commi 6 e 7, 186, comma 2, 187, comma 4, del decreto legislativo n. 28511992 o delle violazioni di cui al comma 2, lettera f),commesse dal lavoratore dipendente, nell'esercizio della propria attivita', qualora il fatto che ha dato luogo alla violazione sia riconducibile a istruzioni o disposizioni impartite o ad omessa vigilanza con riferimento a piu' precedenti violazioni.
 
 7.
 
@@ -193,9 +193,9 @@ La sussistenza del requisito dell'onorabilita' cessa, di diritto, come conseguen
 
 9.
 
-Fermi restando gli effetti degli [articoli 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_166) e [167 dei codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_167) e 445 del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), e di ogni disposizione che comunque prevede l'estinzione del reato, il requisito dell'onorabilita' e' riacquistato:
+Fermi restando gli effetti degli [articoli 166](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e [167 dei codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md) e 445 del [codice di procedura penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:codice.procedura.penale:1988-09-22;447), e di ogni disposizione che comunque prevede l'estinzione del reato, il requisito dell'onorabilita' e' riacquistato:
                         a)
-                            a seguito di concessione della riabilitazione di cui all'[articolo 178 del codice penale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398#art_178), sempreche' non intervenga la revoca di cui all'articolo 180 del medesimo codice;
+                            a seguito di concessione della riabilitazione di cui all'[articolo 178 del codice penale](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20Penale.%20030U1398.md), sempreche' non intervenga la revoca di cui all'articolo 180 del medesimo codice;
                         b)
                             in caso di cessazione delle misure di sicurezza o di prevenzione applicate;
                         c)
@@ -205,7 +205,7 @@ Fermi restando gli effetti degli [articoli 166](https://www.normattiva.it/uri-re
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 6. — Requisito della capacita' finanziaria
 
@@ -235,7 +235,7 @@ La prova della sussistenza della capacita' finanziaria puo' essere fornita media
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 7. — Requisito dell'idoneita' professionale
 
@@ -272,7 +272,7 @@ Per gli effetti del comma 4 l'esperienza pratica ivi contemplata:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 8. — Esame di idoneita' professionale
 
@@ -308,7 +308,7 @@ Possono partecipare alle prove d'esame di cui al comma 1 le persone, maggiori d'
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 9. — Attestato di idoneita' professionale
  ed elenco degli idonei
@@ -331,7 +331,7 @@ Il Ministero delle infrastrutture e dei trasporti provvede, nei limiti delle ord
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 10. — Proseguimento provvisorio dell'attivita'
 
@@ -355,7 +355,7 @@ Nei casi in cui ai sensi del presente articolo e' disposta la cancellazione dell
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che la presente modifia ha efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che la presente modifia ha efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 11. — Perdita dell'onorabilita'
 
@@ -387,7 +387,7 @@ Nei casi in cui ai sensi del presente articolo e' disposta la sospensione o la c
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che la presente modifia ha efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che la presente modifia ha efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 12. — Perdita della capacita' finanziaria
 
@@ -413,7 +413,7 @@ Nei casi in cui ai sensi del presente articolo e' disposta la cancellazione dell
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 13. — Perdita dell'idoneita' professionale
 
@@ -432,7 +432,7 @@ Nei casi in cui ai sensi del presente articolo e' disposta la cancellazione dell
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che la presente modifia ha efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che la presente modifia ha efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 13-bis. — (( (Partecipazione al procedimento). ))
 
@@ -443,7 +443,7 @@ Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che la presente modifia ha efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che la presente modifia ha efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Articolo 14 — (Riconoscimento reciproco di atti in materia di onorabilita')
 
@@ -455,14 +455,14 @@ Per gli effetti dell'articolo 5, e' dato riconoscimento:
 
 2.
 
-Se non e' previsto il rilascio degli atti di cui al comma 1, si applica il disposto del [d.p.r. 20 ottobre 1998, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1998-10-20;403).
+Se non e' previsto il rilascio degli atti di cui al comma 1, si applica il disposto del [d.p.r. 20 ottobre 1998, n. 403](../DPR/Regolamento%20di%20attuazione%20degli%20articoli%201%202%20e%203%20della%20legge%2015%20maggio%201997%20n.%20127%20in%20materia%20di%20semplificazione%20delle%20certificazioni%20amministrative.md).
 
 3.
 
 Gli atti di cui ai commi 1 e 2 sono riconosciuti se prodotti entro sei mesi dalla data di rilascio.
 
 Nota all'[art. 14:
- - Il decreto del Presidente della Repubblica 20 ottobre 1998, n. 403](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1998-10-20;403#art_14) recante "Regolamento di attuazione degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_2) e [3 della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_3), in materia di semplificazione delle certificazioni amministrative e' pubblicato nella Gazzetta Ufficiale 24 novembre 1998, n. 275.
+ - Il decreto del Presidente della Repubblica 20 ottobre 1998, n. 403](../DPR/Regolamento%20di%20attuazione%20degli%20articoli%201%202%20e%203%20della%20legge%2015%20maggio%201997%20n.%20127%20in%20materia%20di%20semplificazione%20delle%20certificazioni%20amministrative.md) recante "Regolamento di attuazione degli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_1), [2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_2) e [3 della legge 15 maggio 1997, n. 127](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127#art_3), in materia di semplificazione delle certificazioni amministrative e' pubblicato nella Gazzetta Ufficiale 24 novembre 1998, n. 275.
 
 ## Art. 15. — Riconoscimento reciproco di atti
  in materia di capacita' finanziaria
@@ -483,7 +483,7 @@ Per gli effetti dell'articolo 6, e' dato riconoscimento:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che la presente modifia hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che la presente modifia hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 16. — Riconoscimento reciproco di atti
  in materia di idoneita' professionale
@@ -501,7 +501,7 @@ L'attivita' non deve essere cessata da piu' di cinque anni alla data di presenta
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che la presente modifica ha efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che la presente modifica ha efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 17. — Informazioni alle Autorita' di altri Stati membri
 
@@ -516,7 +516,7 @@ Con il regolamento di cui all'articolo 21 sono stabilite le modalita' della comu
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che la presente modifica ha efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che la presente modifica ha efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 18. — Verifiche ed adeguamenti
 
@@ -538,7 +538,7 @@ Con il regolamento di cui all'articolo 21 sono determinate le modalita' per la v
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Articolo 19 — (Sanzioni)
 
@@ -573,7 +573,7 @@ Le sanzioni previste dal presente articolo sono applicate dall'autorita' compete
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che la presente modifica ha efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che la presente modifica ha efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 21. — (( (Regolamento di attuazione). ))
 
@@ -584,13 +584,13 @@ Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che le presenti modifiche hanno efficacia dal giorno della pubblicazione del suddetto decreto.
 
 ## Art. 22. — Disposizioni transitorie
 
 1.
 
-Il termine di cui all'[articolo 1, comma 1, del decreto legislativo 14 marzo 1998, n. 85](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-14;85#art_1-com1), e' prorogato alla data di entrata in vigore del regolamento di cui all'articolo 21 e comunque non oltre il 1 luglio 2001.
+Il termine di cui all'[articolo 1, comma 1, del decreto legislativo 14 marzo 1998, n. 85](../Decreti%20Legislativi/Riordino%20della%20disciplina%20concernente%20il%20rilascio%20delle%20autorizzazioni%20per%20lesercizio%20dellattivita%20di%20autotrasporto%20di%20cose%20per%20conto%20di%20terzi%20a%20norma%20dellarticolo%207%20comma%202%20della%20legge%202_5f366e26d637.md), e' prorogato alla data di entrata in vigore del regolamento di cui all'articolo 21 e comunque non oltre il 1 luglio 2001.
 
 1-bis.
 
@@ -598,13 +598,13 @@ A decorrere dalla data del 1 luglio 2001 e fino alla data del ((31 dicembre 2007
 
 1-ter.
 
-Fino all'entrata in vigore del regolamento di cui all'articolo 21 continuano ad applicarsi le disposizioni contenute nei [decreti del Ministro dei trasporti 16 maggio 1991, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.trasporti:decreto:1991-05-16;198), e [20 dicembre 1991, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.trasporti:decreto:1991-12-20;448). (2)
+Fino all'entrata in vigore del regolamento di cui all'articolo 21 continuano ad applicarsi le disposizioni contenute nei [decreti del Ministro dei trasporti 16 maggio 1991, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.trasporti:decreto:1991-05-16;198), e [20 dicembre 1991, n. 448](Regolamento%20di%20attuazione%20della%20direttiva%20del%20Consiglio%20delle%20Comunita%20europee%20n.%20438%20del%2021%20giugno%201989%20che%20modifica%20la%20direttiva%20del%20Consiglio%20n.%20562%20del%2012%20novembre%201974%20riguardante%20la_a1a3936615b3.md). (2)
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 28 dicembre 2001, n. 478](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-12-28;478) ha disposto (con l'art. 22, comma 1) che "Le disposizioni del presente decreto hanno efficacia dal giorno della pubblicazione".
+Il [D.Lgs. 28 dicembre 2001, n. 478](../Decreti%20Legislativi/Disposizioni%20integrative%20e%20correttive%20del%20decreto%20legislativo%2022%20dicembre%202000%20n.%20395%20in%20materia%20di%20accesso%20alla%20professione%20di%20trasportatore%20su%20strada%20di%20cose%20per%20conto%20terzi.md) ha disposto (con l'art. 22, comma 1) che "Le disposizioni del presente decreto hanno efficacia dal giorno della pubblicazione".
 
 ## Articolo 23 — (Entrata in vigore)
 

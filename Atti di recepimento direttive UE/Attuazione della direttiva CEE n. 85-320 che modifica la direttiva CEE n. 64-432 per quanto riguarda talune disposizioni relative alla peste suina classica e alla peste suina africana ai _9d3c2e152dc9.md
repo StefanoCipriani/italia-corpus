@@ -18,7 +18,7 @@ Vista la [direttiva CEE n. 85/320](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 Vista la [direttiva CEE n. 64/432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1964;432) che stabilisce le condizioni sanitarie cui devono soddisfare gli animali vivi delle specie bovina e suina destinati agli scambi intracomunitari;
 
-Vista la [legge 30 aprile 1976, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;397), concernente norme sanitarie sugli scambi di animali tra l'Italia e gli Stati membri della Comunita' economica europea, che attua tra l'altro la [direttiva CEE n. 64/432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1964;432);
+Vista la [legge 30 aprile 1976, n. 397](Norme%20sanitarie%20sugli%20scambi%20di%20animali%20tra%20lItalia%20e%20gli%20altri%20Stati%20membri%20della%20Comunita%20economica%20europea.md), concernente norme sanitarie sugli scambi di animali tra l'Italia e gli Stati membri della Comunita' economica europea, che attua tra l'altro la [direttiva CEE n. 64/432](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1964;432);
 
 Visto il [decreto del Presidente della Repubblica 21 luglio 1982, n. 728](Attuazione%20della%20direttiva%20CEE%20n.%2072-461%20relativa%20a%20problemi%20di%20polizia%20sanitaria%20in%20materia%20di%20scambi%20intracomunitari%20di%20carni%20fresche.md), di attuazione della [direttiva CEE n. 72/461](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1972;461) relativa a problemi di polizia sanitaria in materia di scambi intracomunitari di carni fresche;
 
@@ -36,7 +36,7 @@ E M A N A il seguente decreto:
 
 1.
 
-Dopo l'[art. 17 della legge 30 aprile 1976, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;397#art_17), e' inserito il seguente:
+Dopo l'[art. 17 della legge 30 aprile 1976, n. 397](Norme%20sanitarie%20sugli%20scambi%20di%20animali%20tra%20lItalia%20e%20gli%20altri%20Stati%20membri%20della%20Comunita%20economica%20europea.md), e' inserito il seguente:
  "Art. 17- bis. - Quando si manifesti la presenza di peste suina africana il Ministro della sanita', con propria ordinanza, vieta immediatamente la spedizione di suini vivi verso gli altri Stati membri:
  a) da tutto il territorio nazionale se tale malattia sia gia' stata riscontrata da meno di dodici mesi, salvo deroghe stabilite con decisioni comunitarie;
  b) soltanto dalla zona o dalle zone in cui si e' verificata la malattia, qualora la stessa non si e' riscontrata nel territorio nazionale almeno nei dodici mesi precedenti.
@@ -48,20 +48,20 @@ Dopo l'[art. 17 della legge 30 aprile 1976, n. 397](https://www.normattiva.it/ur
  e) delle misure adottate per limitare e controllare il movimento dei suini nelle zone predette e fuori di tali zone".
 
 AVVERTENZA:
- Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge ivi indicata e della quale restano invariati il valore e l'efficacia.
+ Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge ivi indicata e della quale restano invariati il valore e l'efficacia.
  Nota all'[articolo 1:
- La legge 30 aprile 1976, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;397#art_1), reca: "Norme sanitarie sugli scambi di animali tra l'Italia e gli altri Stati membri della Comunita' economica europea".
+ La legge 30 aprile 1976, n. 397](Norme%20sanitarie%20sugli%20scambi%20di%20animali%20tra%20lItalia%20e%20gli%20altri%20Stati%20membri%20della%20Comunita%20economica%20europea.md), reca: "Norme sanitarie sugli scambi di animali tra l'Italia e gli altri Stati membri della Comunita' economica europea".
 
 ## Art. 2.
 
 1.
 
-L'[art. 29 della legge 30 aprile 1976, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;397#art_29), e' sostituito dal seguente:
- "Art. 29. - All'[art. 78 del decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-08;320#art_78), e' aggiunto, in fine, il seguente comma:
+L'[art. 29 della legge 30 aprile 1976, n. 397](Norme%20sanitarie%20sugli%20scambi%20di%20animali%20tra%20lItalia%20e%20gli%20altri%20Stati%20membri%20della%20Comunita%20economica%20europea.md), e' sostituito dal seguente:
+ "Art. 29. - All'[art. 78 del decreto del Presidente della Repubblica 8 febbraio 1954, n. 320](../DPR/Regolamento%20di%20polizia%20veterinaria.md), e' aggiunto, in fine, il seguente comma:
  'Il raggio della zona infetta stabilita intorno ai ricoveri o localita' infetti non puo' essere inferiore a tre chilometri'".
 
 Nota all'[articolo 2:
- La legge 30 aprile 1976, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;397#art_2), reca: "Norme sanitarie sugli scambi di animali tra l'Italia e gli altri Stati membri della Comunita' economica europea".
+ La legge 30 aprile 1976, n. 397](Norme%20sanitarie%20sugli%20scambi%20di%20animali%20tra%20lItalia%20e%20gli%20altri%20Stati%20membri%20della%20Comunita%20economica%20europea.md), reca: "Norme sanitarie sugli scambi di animali tra l'Italia e gli altri Stati membri della Comunita' economica europea".
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

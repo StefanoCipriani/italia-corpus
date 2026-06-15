@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 57 della legge 29 dicembre 1990, n. 428](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;428#art_57), recante delega al Governo per l'attuazione della (([direttiva 88/667/CEE)) del Consiglio del 21 dicembre 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;667), recante quarta modifica alla [direttiva 76/768/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;768) concernente il ravvicinamento delle legislazioni degli Stati membri relative ai prodotti cosmetici;
+Visto l'[art. 57 della legge 29 dicembre 1990, n. 428](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%20per%20il%201990.md), recante delega al Governo per l'attuazione della (([direttiva 88/667/CEE)) del Consiglio del 21 dicembre 1988](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;667), recante quarta modifica alla [direttiva 76/768/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;768) concernente il ravvicinamento delle legislazioni degli Stati membri relative ai prodotti cosmetici;
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 luglio 1991;
 
@@ -24,7 +24,7 @@ EMANA il seguente decreto legislativo:
 
 1.
 
-La [legge 11 ottobre 1986, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-11;713), recante norme per l'attuazione delle direttive della Comunita' economica europea, sulla produzione e la vendita dei cosmetici, di seguito indicata come "legge", e' modificata in conformita' a quanto previsto dagli articoli successivi.
+La [legge 11 ottobre 1986, n. 713](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea%20sulla%20produzione%20e%20la%20vendita%20dei%20cosmetici.md), recante norme per l'attuazione delle direttive della Comunita' economica europea, sulla produzione e la vendita dei cosmetici, di seguito indicata come "legge", e' modificata in conformita' a quanto previsto dagli articoli successivi.
 
 ## Art. 2.
 
@@ -53,7 +53,7 @@ L'art. 8 della legge e' sostituito dal seguente:
  3. I cosmetici posti in vendita allo stato sfuso devono essere venduti unitamente a un foglio riportante le indicazioni di cui al comma 1. 
  4. Sugli imballaggi, recipienti od etichette dei prodotti cosmetici e' consentito l'uso di espressioni che facciano riferimento ad acque minerali, a sorgenti o fanghi termali, soltanto se i prodotti stessi contengono sali minerali o fango maturato in acqua termale o fitoestratti da vegetazione termale, provenienti dagli stabilimenti termali di cui all'[art. 14, lettera a), del regio decreto 28 settembre 1919, n. 1924](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-09-28;1924#art_14-leta), o da stabilimenti termali esteri riconosciuti dalle competenti autorita' nazionali. 
  5. Ai prodotti cosmetici non si applicano le disposizioni di cui gli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-04-26;136#art_5) e [7 della legge 26 aprile 1983, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-04-26;136#art_7). 
- 6. I prodotti cosmetici non sono altresi' assoggettati alle norme di cui alla [legge 29 maggio 1974, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-05-29;256), e relative norme di attuazione, concernenti la classificazione e la disciplina dell'imballaggio e della etichettatura delle sostanze e dei preparati pericolosi. 
+ 6. I prodotti cosmetici non sono altresi' assoggettati alle norme di cui alla [legge 29 maggio 1974, n. 256](../Atti%20normativi%20abrogati%20%28in%20originale%29/Classificazione%20e%20disciplina%20dellimballaggio%20e%20delletichettatura%20delle%20sostanze%20e%20dei%20preparati%20pericolosi.md), e relative norme di attuazione, concernenti la classificazione e la disciplina dell'imballaggio e della etichettatura delle sostanze e dei preparati pericolosi. 
  7. Le indicazioni di cui alle lettere b), c), e d) del comma 1 devono essere redatte in lingua italiana. 
  8. Chiunque contravviene alle disposizioni del presente articolo soggiace alla sanzione amministrativa da lire trecentomila a lire tremilioni. 
  9. Il Ministro della sanita', di concerto con il Ministro dell'industria, del commercio e dell'artigianato, provvede, con decreto, ad adeguare le disposizioni sull'etichettatura dei prodotti cosmetici ad eventuali ulteriori direttive della Comunita' economica europea.". 

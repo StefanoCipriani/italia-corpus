@@ -14,7 +14,7 @@ DI CONCERTO CON
 
 IL MINISTRO DELL'INDUSTRIA, DEL COMMERCIO E DELL'ARTIGIANATO
 
-Vista la [legge 11 ottobre 1986, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-11;713), recante norme per l'attuazione delle direttive della Comunita' economica europea sulla produzione e la vendita dei cosmetici;
+Vista la [legge 11 ottobre 1986, n. 713](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea%20sulla%20produzione%20e%20la%20vendita%20dei%20cosmetici.md), recante norme per l'attuazione delle direttive della Comunita' economica europea sulla produzione e la vendita dei cosmetici;
 
 Visto l'art. 2, comma 6, della predetta legge, il quale stabilisce che gli elenchi e le prescrizioni di cui agli allegati della stessa sono aggiornati, tenuto conto anche delle direttive della Comunita' economica europea, con decreto del Ministro della sanita', di concerto con il Ministro dell'industria, del commercio e dell'artigianato;
 
@@ -30,7 +30,7 @@ Visti i pareri e le proposte dell'Istituto superiore di sanita', formulati in da
 
 1.
 
-All'elenco delle sostanze che non possono entrare nella composizione dei prodotti cosmetici, costituente l'allegato II della [legge 11 ottobre 1986, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-11;713), modificato con [decreto ministeriale 24 gennaio 1987, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-01-24;91), sono aggiunte le voci seguenti: 
+All'elenco delle sostanze che non possono entrare nella composizione dei prodotti cosmetici, costituente l'allegato II della [legge 11 ottobre 1986, n. 713](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea%20sulla%20produzione%20e%20la%20vendita%20dei%20cosmetici.md), modificato con [decreto ministeriale 24 gennaio 1987, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-01-24;91), sono aggiunte le voci seguenti: 
  "380 N-(triclorometiltio)-4-cicloesen-1,2 - dicarbossimmide (Captano) 
  381 2,2'-diidrossi-3,3',5,5',6,6'-esaclorodifenilmetano (Esaclorofene)".
 
@@ -94,7 +94,7 @@ Nell'allegato V, sezione prima, parte seconda della legge, come sostituito dal [
 NOTE
 
  Nota alle premesse:
- Il testo dell'[art. 17 della legge 11 ottobre 1986, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-11;713#art_17) e' il seguente:
+ Il testo dell'[art. 17 della legge 11 ottobre 1986, n. 713](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea%20sulla%20produzione%20e%20la%20vendita%20dei%20cosmetici.md) e' il seguente:
  "Art. 17. - 1. Entro centoventi giorni dalla data di entrata in vigore della presente legge, a cura del Ministro della sanita' sono pubblicati nella Gazzetta Ufficiale della Repubblica italiana gli elenchi di cui agli allegati II, III, IV, e V, con aggiunta, accanto alle denominazioni ivi indicate, della denominazione comune italiana o internazionale o di sinonimi o numeri di codice di identificazione utili ad una piu' agevole comprensione degli elenchi medesimi".
 
  Nota all'art. 1 e all'art. 2:
@@ -104,7 +104,7 @@ NOTE
 
 1.
 
-Sono approvati i nuovi testi degli allegati II, III, IV e V della [legge 11 ottobre 1986, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-11;713), riportati nell'allegato al presente decreto. Essi sostituiscono, ad ogni effetto, i corrispondenti testi annessi alla legge predetta, modificati dal [decreto ministeriale 24 gennaio 1987, n. 91 e dall'art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-01-24;91#art_1) del presente decreto.
+Sono approvati i nuovi testi degli allegati II, III, IV e V della [legge 11 ottobre 1986, n. 713](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea%20sulla%20produzione%20e%20la%20vendita%20dei%20cosmetici.md), riportati nell'allegato al presente decreto. Essi sostituiscono, ad ogni effetto, i corrispondenti testi annessi alla legge predetta, modificati dal [decreto ministeriale 24 gennaio 1987, n. 91 e dall'art. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-01-24;91#art_1) del presente decreto.
 
 ## Art. 3.
 
@@ -118,10 +118,10 @@ I prodotti non conformi alle disposizioni dell'art. 1 non possono essere piu' ve
 
 3.
 
-Restano ferme le disposizioni di cui all'[art. 15 della legge 11 ottobre 1986, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-11;713#art_15) e quelle di cui all'[art. 4 del decreto ministeriale 24 gennaio 1987, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-01-24;91#art_4), per quanto attiene ai termini di decorrenza dei divieti e delle limitazioni previsti, rispettivamente, dagli allegati originari della legge predetta e dalle modifiche che essi hanno subito per effetto del richiamato [decreto ministeriale n. 91/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987;91).
+Restano ferme le disposizioni di cui all'[art. 15 della legge 11 ottobre 1986, n. 713](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea%20sulla%20produzione%20e%20la%20vendita%20dei%20cosmetici.md) e quelle di cui all'[art. 4 del decreto ministeriale 24 gennaio 1987, n. 91](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987-01-24;91#art_4), per quanto attiene ai termini di decorrenza dei divieti e delle limitazioni previsti, rispettivamente, dagli allegati originari della legge predetta e dalle modifiche che essi hanno subito per effetto del richiamato [decreto ministeriale n. 91/1987](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1987;91).
 
-Nota all'[art. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-11;713#art_3):
- L'[art. 15 della legge 11 ottobre 1986, n. 713](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-11;713#art_15) stabilisce, come segue, nei primi sei commi, i termini di decorrenza dei divieti e delle limitazioni previsti dagli allegati:
+Nota all'[art. 3](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea%20sulla%20produzione%20e%20la%20vendita%20dei%20cosmetici.md):
+ L'[art. 15 della legge 11 ottobre 1986, n. 713](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea%20sulla%20produzione%20e%20la%20vendita%20dei%20cosmetici.md) stabilisce, come segue, nei primi sei commi, i termini di decorrenza dei divieti e delle limitazioni previsti dagli allegati:
  "Art. 15. - 1. Dalla data di entrata in vigore della presente legge e' vietato impiegare nella preparazione di cosmetici sostanze incluse nell'allegato II. I produttori e gli importatori di cosmetici contenenti tali sostanze devono ritirare i prodotti dal commercio entro trenta giorni dalla data predetta.
  2. I prodotti cosmetici non conformi alle prescrizioni di cui al precedente articolo 8, salvo quanto previsto ai commi successivi, non possono essere immessi in commercio da produttori ed importatori dopo sei mesi dalla data di entrata in vigore della presente legge.
  3. I prodotti cosmetici non conformi alle prescrizioni di cui agli allegati III, IV e V, sezione prima, della presente legge, non possono essere immessi in commercio da produttori e importatori dopo sei mesi dall'entrata in vigore della presente legge.

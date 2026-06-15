@@ -14,7 +14,7 @@ Visto l'[articolo 87, quinto comma, della Costituzione](https://www.normattiva.i
 
 Visto l'[articolo 17, comma 1, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com1);
 
-Visti gli articoli 4 e 46 e gli allegati C e D della [legge 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146);
+Visti gli articoli 4 e 46 e gli allegati C e D della [legge 22 febbraio 1994, n. 146](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md);
 
 Vista la [direttiva 92/46/CEE del Consiglio del 16 giugno 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;46) che stabilisce le norme sanitarie per la produzione e la commercializzazione di latte crudo, di latte trattato termicamente e di prodotti a base di latte;
 
@@ -24,9 +24,9 @@ Vista la [direttiva 94/71/CE del Consiglio del 13 dicembre 1994](https://www.nor
 
 Vista la [legge 30 aprile 1962, n. 283](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-04-30;283), e successive modifiche;
 
-Visto il [decreto legislativo 25 gennaio 1992, n. 108](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-25;108);
+Visto il [decreto legislativo 25 gennaio 1992, n. 108](../Decreti%20Legislativi/Attuazione%20della%20direttiva%20n.%2089-109-CEE%20concernente%20i%20materiali%20e%20gli%20oggetti%20destinati%20a%20venire%20a%20contatto%20con%20i%20prodotti%20alimentari.md);
 
-Visto il [decreto legislativo 27 gennaio 1992, n. 109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-01-27;109);
+Visto il [decreto legislativo 27 gennaio 1992, n. 109](../Decreti%20Legislativi/Attuazione%20delle%20direttive%20n.%2089-395-CEE%20e%20n.%2089-396-CEE%20concernenti%20letichettatura%20la%20presentazione%20e%20la%20pubblicita%20dei%20prodotti%20alimentari.md);
 
 Vista la decisione 94/330/CE della Commissione del 25 maggio 1994 che modifica l'articolo 5, punto 9, della [direttiva 92/46/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;46) per quanto riguarda il punto di congelazione;
 
@@ -167,9 +167,9 @@ Sono abrogati:
                         b)
                             il [decreto del Ministero della sanita' 14 maggio 1988, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1988-05-14;212),  pubblicato nel Supplemento ordinario alla Gazzetta Ufficiale della Repubblica italiana 18 giugno 1991, n. 142;
                         c)
-                            il [decreto del Ministero della sanita' 9 maggio 1991, n. 184](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1991-05-09;184),  pubblicato nella Gazzetta Ufficiale della Repubblica italiana 19 giugno 1991, n. 142;
+                            il [decreto del Ministero della sanita' 9 maggio 1991, n. 184](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20concernente%20le%20condizioni%20di%20produzione%20zootecnica%20i%20requisiti%20di%20composizione%20ed%20igienico-sanitari%20del%20latte%20crudo%20destinato%20alla%20utilizzazione%20per%20la%20produzione%20di%20latte%20ali_ea8a8b342503.md),  pubblicato nella Gazzetta Ufficiale della Repubblica italiana 19 giugno 1991, n. 142;
                         d)
-                            il [decreto del Ministro della sanita' 29 maggio 1991, n. 222](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1991-05-29;222),  pubblicato nella Gazzetta Ufficiale della Repubblica italiana 25 luglio 1991, n. 173;
+                            il [decreto del Ministro della sanita' 29 maggio 1991, n. 222](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20di%20attuazione%20della%20direttiva%20della%20Commissione%20della%20Comunita%20economica%20europea%20n.%2089-362-CEE%20del%2026%20maggio%201989%20relativa%20alle%20condizioni%20di%20igiene%20da%20rispettare%20nelle%20aziend_56bd37888ebf.md),  pubblicato nella Gazzetta Ufficiale della Repubblica italiana 25 luglio 1991, n. 173;
                         e)
                             gli [articoli 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991-12-02;446#art_4) e [5 del decreto ministeriale 2 dicembre 1991, n. 
  446](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1991-12-02;446#art_5), pubblicata nella Gazzetta Ufficiale della Repubblica italiana 13 febbraio 1992, n. 36.

@@ -12,17 +12,17 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 25 gennaio 2006, n. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-01-25;29), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2005, ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
+Vista la [legge 25 gennaio 2006, n. 29](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202005.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2005, ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
 
 Vista la [direttiva 2004/108/CE del Parlamento europeo e del Consiglio, del 15 dicembre 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;108), concernente il ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica e che abroga la [direttiva 89/336/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;336);
 
-Vista la [legge 6 febbraio 1996, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-02-06;52), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1994, ed in particolare l'articolo 47, comma 4;
+Vista la [legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 1994, ed in particolare l'articolo 47, comma 4;
 
 Visto il [decreto legislativo 12 novembre 1996, n. 615](Attuazione%20della%20direttiva%2089-336-CEE%20del%20Consiglio%20del%203%20maggio%201989%20in%20materia%20di%20ravvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20alla%20compatibilita%20elettromagnetica%20modif_f10d34c04a81.md);
 
 Visto il [decreto legislativo 23 novembre 2000, n. 427](Modifiche%20ed%20integrazioni%20alla%20legge%2021%20giugno%201986%20n.%20317%20concernenti%20la%20procedura%20di%20informazione%20nel%20settore%20delle%20norme%20e%20regolamentazioni%20tecniche%20e%20delle%20regole%20relative%20ai%20servizi%20_dc279226938d.md);
 
-Visto il [decreto legislativo 9 maggio 2001, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-05-09;269), recante attuazione della [direttiva 1999/5/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;5);
+Visto il [decreto legislativo 9 maggio 2001, n. 269](../Decreti%20Legislativi/Attuazione%20della%20direttiva%201999-5-CE%20riguardante%20le%20apparecchiature%20radio%20le%20apparecchiature%20terminali%20di%20telecomunicazione%20ed%20il%20reciproco%20riconoscimento%20della%20loro%20conformita.md), recante attuazione della [direttiva 1999/5/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;5);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 settembre 2007;
 
@@ -48,7 +48,7 @@ Il presente decreto disciplina la compatibilita' elettromagnetica delle apparecc
 
 Il presente decreto non si applica:
                             a)
-                                alle apparecchiature radio e ai terminali di telecomunicazioni oggetto del [decreto legislativo 9 maggio 2001, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-05-09;269), di recepimento della [direttiva 1999/5/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;5);
+                                alle apparecchiature radio e ai terminali di telecomunicazioni oggetto del [decreto legislativo 9 maggio 2001, n. 269](../Decreti%20Legislativi/Attuazione%20della%20direttiva%201999-5-CE%20riguardante%20le%20apparecchiature%20radio%20le%20apparecchiature%20terminali%20di%20telecomunicazione%20ed%20il%20reciproco%20riconoscimento%20della%20loro%20conformita.md), di recepimento della [direttiva 1999/5/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;5);
                             b)
                                 ai prodotti aeronautici, parti e pertinenze di cui al regolamento (CE) n. 216/2008 del Parlamento europeo e del Consiglio, del 20 febbraio 2008, recante regole comuni nel settore dell'aviazione civile e che istituisce un'Agenzia europea per la sicurezza aerea, e che abroga la [direttiva 91/670/CEE del Consiglio](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;670), il regolamento (CE) n. 1592/2002 e la [direttiva 2004/36/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;36);
                             c)
@@ -450,7 +450,7 @@ Per le apparecchiature immesse nel mercato o messe in servizio, le verifiche e i
                             c)
                                 l'acquisizione di tutte le informazioni necessarie all'accertamento;
                             d)
-                                il prelievo di campioni, a titolo gratuito, secondo le disposizioni di cui all'[articolo 47 della legge 6 febbraio 1996, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-02-06;52#art_47), e successive modificazioni, presso la catena di commercializzazione, per l'esecuzione di esami e prove;
+                                il prelievo di campioni, a titolo gratuito, secondo le disposizioni di cui all'[articolo 47 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md), e successive modificazioni, presso la catena di commercializzazione, per l'esecuzione di esami e prove;
                             e)
                                 l'esame della documentazione in possesso del responsabile dell'immissione dell'apparecchio nel mercato o del responsabile dell'installazione dell'impianto fisso.
 
@@ -825,7 +825,7 @@ Qualora sia accertata una delle violazioni di cui ai commi 1, 2, 3, 4 e 5, l'org
 
 1.
 
-Alle attivita' di designazione e di rinnovo degli organismi di cui all'articolo 14, ai controlli successivi sui medesimi organismi ed ai controlli successivi dei prodotti sul mercato, si applicano le disposizioni di cui all'[articolo 47 della legge 6 febbraio 1996, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-02-06;52#art_47).
+Alle attivita' di designazione e di rinnovo degli organismi di cui all'articolo 14, ai controlli successivi sui medesimi organismi ed ai controlli successivi dei prodotti sul mercato, si applicano le disposizioni di cui all'[articolo 47 della legge 6 febbraio 1996, n. 52](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201994.md).
 
 ((
 

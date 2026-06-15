@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87, quinto comma, della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5);
 
-Visto l'[articolo 1 della legge 9 luglio 2015, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-07-09;114#art_1), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2014 ed in particolare, l'allegato B;
+Visto l'[articolo 1 della legge 9 luglio 2015, n. 114](../Leggi%20di%20delegazione%20europea/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202014.%2015G00127.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2014 ed in particolare, l'allegato B;
 
 Vista la [direttiva 96/71/CE del Parlamento europeo e del Consiglio, del 16 dicembre 1996](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;71), relativa al distacco dei lavoratori nell'ambito di una prestazione di servizi;
 
@@ -26,11 +26,11 @@ Visto il regolamento (UE) n. 1024/2012 del Parlamento europeo e del Consiglio, d
 
 Visto il [decreto legislativo 25 febbraio 2000, n. 72](Attuazione%20della%20direttiva%2096-71-CE%20in%20materia%20di%20distacco%20dei%20lavoratori%20nellambito%20di%20una%20prestazione%20di%20servizi.md), recante attuazione della [direttiva 96/71/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1996;71) in materia di distacco dei lavoratori nell'ambito di una prestazione di servizi;
 
-Visto il [decreto legislativo 10 settembre 2003, n. 276](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-09-10;276), recante attuazione delle deleghe in materia di occupazione e mercato del lavoro, di cui alla [legge 14 febbraio 2003, n. 30](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-02-14;30);
+Visto il [decreto legislativo 10 settembre 2003, n. 276](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md), recante attuazione delle deleghe in materia di occupazione e mercato del lavoro, di cui alla [legge 14 febbraio 2003, n. 30](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro.md);
 
-Visto il [decreto legislativo 15 giugno 2015, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-06-15;81), recante disciplina organica dei contratti di lavoro e revisione della normativa in tema di mansioni, a norma dell'[articolo 1, comma 7, della legge 10 dicembre 2014, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-10;183#art_1-com7);
+Visto il [decreto legislativo 15 giugno 2015, n. 81](../Decreti%20Legislativi/Disciplina%20organica%20dei%20contratti%20di%20lavoro%20e%20revisione%20della%20normativa%20in%20tema%20di%20mansioni%20a%20norma%20dellarticolo%201%20comma%207%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00095.md), recante disciplina organica dei contratti di lavoro e revisione della normativa in tema di mansioni, a norma dell'[articolo 1, comma 7, della legge 10 dicembre 2014, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-10;183#art_1-com7);
 
-Visto il [decreto legislativo 14 settembre 2015, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;149), recante disposizioni per la razionalizzazione e la semplificazione dell'attivita' ispettiva in materia di lavoro e legislazione sociale, in attuazione della [legge 10 dicembre 2014, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-10;183);
+Visto il [decreto legislativo 14 settembre 2015, n. 149](../Decreti%20Legislativi/Disposizioni%20per%20la%20razionalizzazione%20e%20la%20semplificazione%20dellattivita%20ispettiva%20in%20materia%20di%20lavoro%20e%20legislazione%20sociale%20in%20attuazione%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00161.md), recante disposizioni per la razionalizzazione e la semplificazione dell'attivita' ispettiva in materia di lavoro e legislazione sociale, in attuazione della [legge 10 dicembre 2014, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-10;183);
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 15 aprile 2016;
 
@@ -236,11 +236,11 @@ L'osservatorio formula proposte circa le informazioni relative alle condizioni d
 
 2.
 
-L'osservatorio e' composto da tre rappresentanti designati dalle organizzazioni sindacali dei lavoratori comparativamente piu' rappresentative a livello nazionale dei lavoratori, tre rappresentanti designati dalle organizzazioni sindacali comparativamente piu' rappresentative a livello nazionale dei datori di lavoro, due rappresentanti del Ministero del lavoro e delle politiche sociali, di cui uno con funzione di presidente, un rappresentante dell'Agenzia nazionale delle politiche attive del lavoro, un rappresentante dell'INPS, un rappresentante dell'Istituto di cui all'[articolo 10 del decreto legislativo 14 settembre 2015, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;150#art_10), e un rappresentante designato dalla Presidenza del Consiglio dei ministri. Ai componenti dell'osservatorio non spetta alcun compenso, indennita', gettone di presenza, rimborso spese o emolumento comunque denominato.
+L'osservatorio e' composto da tre rappresentanti designati dalle organizzazioni sindacali dei lavoratori comparativamente piu' rappresentative a livello nazionale dei lavoratori, tre rappresentanti designati dalle organizzazioni sindacali comparativamente piu' rappresentative a livello nazionale dei datori di lavoro, due rappresentanti del Ministero del lavoro e delle politiche sociali, di cui uno con funzione di presidente, un rappresentante dell'Agenzia nazionale delle politiche attive del lavoro, un rappresentante dell'INPS, un rappresentante dell'Istituto di cui all'[articolo 10 del decreto legislativo 14 settembre 2015, n. 150](../Decreti%20Legislativi/Disposizioni%20per%20il%20riordino%20della%20normativa%20in%20materia%20di%20servizi%20per%20il%20lavoro%20e%20di%20politiche%20attive%20ai%20sensi%20dellarticolo%201%20comma%203%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00162.md), e un rappresentante designato dalla Presidenza del Consiglio dei ministri. Ai componenti dell'osservatorio non spetta alcun compenso, indennita', gettone di presenza, rimborso spese o emolumento comunque denominato.
 
 Note all'art. 6: 
  Note all'art. 6: 
- - Il testo dell'[art. 10 del decreto legislativo 14 settembre 2015, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2015-09-14;150#art_10) (Disposizioni per il riordino della normativa in materia di servizi per il lavoro e di politiche attive, ai sensi dell'[articolo 1, comma 3, della legge 10 dicembre 2014, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-10;183#art_1-com3)), pubblicato nella Gazzetta Ufficiale 23 settembre 2015, n. 221, S.O., cosi' recita: 
+ - Il testo dell'[art. 10 del decreto legislativo 14 settembre 2015, n. 150](../Decreti%20Legislativi/Disposizioni%20per%20il%20riordino%20della%20normativa%20in%20materia%20di%20servizi%20per%20il%20lavoro%20e%20di%20politiche%20attive%20ai%20sensi%20dellarticolo%201%20comma%203%20della%20legge%2010%20dicembre%202014%20n.%20183.%2015G00162.md) (Disposizioni per il riordino della normativa in materia di servizi per il lavoro e di politiche attive, ai sensi dell'[articolo 1, comma 3, della legge 10 dicembre 2014, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-10;183#art_1-com3)), pubblicato nella Gazzetta Ufficiale 23 settembre 2015, n. 221, S.O., cosi' recita: 
  «Art. 10. (Funzioni e compiti dell'Istituto per lo sviluppo della formazione professionale dei lavoratori). - 1. Entro quarantacinque giorni dalla data di entrata in vigore del presente decreto il Ministro del lavoro e delle politiche sociali provvede al rinnovo degli organi dell'ISFOL, con riduzione del consiglio di amministrazione a tre membri, di cui due designati dal Ministro del lavoro e delle politiche sociali, tra cui il presidente, e uno dalla Conferenza dei presidenti delle regioni, individuati nell'ambito degli assessorati regionali competenti nelle materie oggetto di attivita' dell'Istituto. In relazione a tale riduzione, il contributo istituzionale per l'ISFOL e' ridotto di euro centomila a decorrere dall'anno 2016 e trasferito all'ANPAL. 
  2. Entro i sessanta giorni successivi al rinnovo degli organi dell'ISFOL di cui al comma 1, si provvede alla modifica dello statuto e del regolamento dell'ISFOL cui sono assegnate le seguenti funzioni: 
  a) studio, ricerca, monitoraggio e valutazione, coerentemente con gli indirizzi strategici stabiliti dal Ministro del lavoro e delle politiche sociali, degli esiti delle politiche statali e regionali in materia di istruzione e formazione professionale, formazione in apprendistato e percorsi formativi in alternanza, formazione continua, integrazione dei disabili nel mondo del lavoro, inclusione sociale dei soggetti che presentano maggiori difficolta' e misure di contrasto alla poverta', servizi per il lavoro e politiche attive del lavoro, anche avvalendosi dei dati di cui all'articolo 13; 
@@ -385,7 +385,7 @@ Con decreto del Ministero del lavoro e delle politiche sociali da emanare entro 
 
 Durante il periodo del distacco e fino a due anni dalla sua cessazione, l'impresa distaccante ha l'obbligo di:
                             a)
-                                conservare, predisponendone copia in lingua italiana, il contratto di lavoro o altro documento contenente le informazioni di cui agli [articoli 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-05-26;152#art_1) e [2 del decreto legislativo 26 maggio 1997, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-05-26;152#art_2), i prospetti paga, i prospetti che indicano l'inizio, la fine e la durata dell'orario di lavoro giornaliero, la documentazione comprovante il pagamento delle retribuzioni o i documenti equivalenti, la comunicazione pubblica di instaurazione del rapporto di lavoro o documentazione equivalente e il certificato relativo alla legislazione di sicurezza sociale applicabile;
+                                conservare, predisponendone copia in lingua italiana, il contratto di lavoro o altro documento contenente le informazioni di cui agli [articoli 1](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-533-CEE%20concernente%20lobbligo%20del%20datore%20di%20lavoro%20di%20informare%20il%20lavoratore%20delle%20condizioni%20applicabili%20al%20contratto%20o%20al%20rapporto%20di%20lavoro.md) e [2 del decreto legislativo 26 maggio 1997, n. 152](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-533-CEE%20concernente%20lobbligo%20del%20datore%20di%20lavoro%20di%20informare%20il%20lavoratore%20delle%20condizioni%20applicabili%20al%20contratto%20o%20al%20rapporto%20di%20lavoro.md), i prospetti paga, i prospetti che indicano l'inizio, la fine e la durata dell'orario di lavoro giornaliero, la documentazione comprovante il pagamento delle retribuzioni o i documenti equivalenti, la comunicazione pubblica di instaurazione del rapporto di lavoro o documentazione equivalente e il certificato relativo alla legislazione di sicurezza sociale applicabile;
                             b)
                                 designare un referente elettivamente domiciliato in Italia incaricato di inviare e ricevere atti e documenti. In difetto, la sede dell'impresa distaccante si considera il luogo dove ha sede legale o risiede il destinatario della prestazione di servizi.
 
@@ -429,7 +429,7 @@ La violazione degli obblighi di comunicazione di cui all'articolo 10, comma 1, e
 
 2.
 
-All'[articolo 1, comma 651, della legge 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208#art_1-com651), dopo il primo periodo e' inserito il seguente: "Tale esonero e' riconosciuto entro i limiti e secondo le disposizioni del regolamento (UE) n. 1407/ 2013 della Commissione, del 18 dicembre 2013". 
+All'[articolo 1, comma 651, della legge 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), dopo il primo periodo e' inserito il seguente: "Tale esonero e' riconosciuto entro i limiti e secondo le disposizioni del regolamento (UE) n. 1407/ 2013 della Commissione, del 18 dicembre 2013". 
  2. La violazione degli obblighi di cui all'articolo 10, comma 3, lettera a), e' punita con la sanzione amministrativa pecuniaria da 500 a 3.000 euro per ogni lavoratore interessato.
 
 3.
@@ -454,8 +454,8 @@ In ogni caso, le sanzioni di cui ai commi 1, 2 e 3-ter non possono essere superi
 
 AGGIORNAMENTO (2)
 
-La [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145) ha disposto (con l'art. 1, comma 445, lettera d)) che "gli importi delle seguenti sanzioni in materia di lavoro e legislazione sociale sono aumentati nella misura di seguito indicata: 
- 1) del 20 per cento per quanto riguarda gli importi dovuti per la violazione delle disposizioni di cui [...] all'[articolo 12 del decreto legislativo 17 luglio 2016, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-07-17;136#art_12)".
+La [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md) ha disposto (con l'art. 1, comma 445, lettera d)) che "gli importi delle seguenti sanzioni in materia di lavoro e legislazione sociale sono aumentati nella misura di seguito indicata: 
+ 1) del 20 per cento per quanto riguarda gli importi dovuti per la violazione delle disposizioni di cui [...] all'[articolo 12 del decreto legislativo 17 luglio 2016, n. 136](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%202014-67-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20lapplicazione%20della%20direttiva%2096-71-CE%20relativa%20al%20distacco%20dei%20lavoratori%20nell_eacb73182ba0.md)".
 
 ## Disposizioni specifiche per le prestazioni transnazionali   di servizi di trasporto su strada))
 
@@ -538,7 +538,7 @@ A decorrere dalla data di entrata in vigore dell'obbligo di cui all'articolo 8, 
 
 1.
 
-Alle prestazioni transnazionali di servizi di cui all'articolo 12-bis, commi 1 e 2, si applicano le disposizioni di cui agli articoli 3 e 4, commi 1 e 1-bis, e di cui agli articoli 5, 7 e 8 del presente decreto, nonche' le disposizioni dell'[articolo 83-bis, commi da 4-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112#art_83bis-com4bis) [a 4-sexies, del decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112#art_83bis-com4sexies), convertito, con modificazioni, dalla [legge 6 agosto 2008, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133).
+Alle prestazioni transnazionali di servizi di cui all'articolo 12-bis, commi 1 e 2, si applicano le disposizioni di cui agli articoli 3 e 4, commi 1 e 1-bis, e di cui agli articoli 5, 7 e 8 del presente decreto, nonche' le disposizioni dell'[articolo 83-bis, commi da 4-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112#art_83bis-com4bis) [a 4-sexies, del decreto-legge 25 giugno 2008, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112#art_83bis-com4sexies), convertito, con modificazioni, dalla [legge 6 agosto 2008, n. 133](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20giugno%202008%20n.%20112%20recante%20disposizioni%20urgenti%20per%20lo%20sviluppo%20economico%20la%20semplificazione%20la%20competitivita%20la%20stabilizzazion_29f97015e2f4.md).
 
 2.
 
@@ -592,19 +592,19 @@ Il trasportatore deve assicurare che il conducente abbia a disposizione in forma
 
 5.
 
-In occasione del controllo su strada, l'adempimento degli obblighi di cui ai commi 1, 2, 3 e 4 e' verificato dagli organi di polizia stradale di cui all'[articolo 12 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_12).
+In occasione del controllo su strada, l'adempimento degli obblighi di cui ai commi 1, 2, 3 e 4 e' verificato dagli organi di polizia stradale di cui all'[articolo 12 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
 
 6.
 
-Il conducente ha l'obbligo di conservare e mettere a disposizione degli organi di polizia stradale, di cui all'[articolo 12 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_12), in occasione del controllo su strada, la documentazione di cui al comma 4, lettere a), b) e c). Nei casi previsti dall'articolo 12-quater, commi 1, 2 e 3, il conducente deve conservare e mettere a disposizione degli organi di polizia stradale, su carta o in formato elettronico, qualsiasi prova del trasporto internazionale pertinente che sia idonea a dimostrare l'operazione di trasporto bilaterale o le operazioni aggiuntive che danno luogo all'esenzione.
+Il conducente ha l'obbligo di conservare e mettere a disposizione degli organi di polizia stradale, di cui all'[articolo 12 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), in occasione del controllo su strada, la documentazione di cui al comma 4, lettere a), b) e c). Nei casi previsti dall'articolo 12-quater, commi 1, 2 e 3, il conducente deve conservare e mettere a disposizione degli organi di polizia stradale, su carta o in formato elettronico, qualsiasi prova del trasporto internazionale pertinente che sia idonea a dimostrare l'operazione di trasporto bilaterale o le operazioni aggiuntive che danno luogo all'esenzione.
 
 7.
 
-Il trasportatore, previa richiesta formulata dall'Ispettorato nazionale del lavoro o dagli organi di polizia stradale di cui all'[articolo 12 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_12), ha l'obbligo di trasmettere dopo il periodo del distacco ed entro otto settimane dalla richiesta, tramite il sistema di interfaccia pubblico connesso all'IMI, le copie dei documenti di cui al comma 4, lettere b) e c), nonche':
+Il trasportatore, previa richiesta formulata dall'Ispettorato nazionale del lavoro o dagli organi di polizia stradale di cui all'[articolo 12 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), ha l'obbligo di trasmettere dopo il periodo del distacco ed entro otto settimane dalla richiesta, tramite il sistema di interfaccia pubblico connesso all'IMI, le copie dei documenti di cui al comma 4, lettere b) e c), nonche':
                             a)
                                 la documentazione riguardante la retribuzione percepita dal conducente durante il periodo del distacco;
                             b)
-                                il contratto di lavoro o un documento equivalente ai sensi dell'[articolo 1 del decreto legislativo 26 maggio 1997, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-05-26;152#art_1);
+                                il contratto di lavoro o un documento equivalente ai sensi dell'[articolo 1 del decreto legislativo 26 maggio 1997, n. 152](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2091-533-CEE%20concernente%20lobbligo%20del%20datore%20di%20lavoro%20di%20informare%20il%20lavoratore%20delle%20condizioni%20applicabili%20al%20contratto%20o%20al%20rapporto%20di%20lavoro.md);
                             c)
                                 i prospetti orari relativi alle attivita' del conducente e le prove del pagamento della retribuzione.
 
@@ -614,7 +614,7 @@ Qualora il trasportatore non rispetti il termine di cui al comma 7, l'Ispettorat
 
 9.
 
-Nell'ambito di una prestazione di servizi di trasporto di merci, il committente e il vettore in caso di subvezione, come definiti dall'[articolo 2 del decreto legislativo 21 novembre 2005, n. 286](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-11-21;286#art_2), e lo spedizioniere di cui all'[articolo 1741 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1741), sono tenuti a verificare che il trasportatore adempia agli obblighi previsti dal comma 1 del presente articolo.
+Nell'ambito di una prestazione di servizi di trasporto di merci, il committente e il vettore in caso di subvezione, come definiti dall'[articolo 2 del decreto legislativo 21 novembre 2005, n. 286](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20il%20riassetto%20normativo%20in%20materia%20di%20liberalizzazione%20regolata%20dellesercizio%20dellattivita%20di%20autotrasportatore.md), e lo spedizioniere di cui all'[articolo 1741 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_1741), sono tenuti a verificare che il trasportatore adempia agli obblighi previsti dal comma 1 del presente articolo.
 
 10.
 
@@ -656,7 +656,7 @@ Il trasportatore che commette la violazione dell'obbligo di cui all'articolo 12-
 
 4.
 
-Il conducente che non adempie a ciascuno degli obblighi previsti dall'articolo 12-sexies, comma 6, e' soggetto alla sanzione amministrativa pecuniaria da euro 150 a euro 600. Nel verbale di contestazione e' imposto l'obbligo di esibizione della documentazione mancante entro il termine di trenta giorni. All'accertamento delle violazioni consegue l'applicazione della sanzione accessoria del fermo amministrativo fino all'esibizione della documentazione richiesta o comunque, per non piu' di trenta giorni, con affidamento in custodia a uno dei soggetti indicati dall'[articolo 214-bis del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_214bis). Si applicano le disposizioni di cui all'[articolo 214 del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_214), in quanto compatibili.
+Il conducente che non adempie a ciascuno degli obblighi previsti dall'articolo 12-sexies, comma 6, e' soggetto alla sanzione amministrativa pecuniaria da euro 150 a euro 600. Nel verbale di contestazione e' imposto l'obbligo di esibizione della documentazione mancante entro il termine di trenta giorni. All'accertamento delle violazioni consegue l'applicazione della sanzione accessoria del fermo amministrativo fino all'esibizione della documentazione richiesta o comunque, per non piu' di trenta giorni, con affidamento in custodia a uno dei soggetti indicati dall'[articolo 214-bis del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md). Si applicano le disposizioni di cui all'[articolo 214 del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md), in quanto compatibili.
 
 5.
 
@@ -686,7 +686,7 @@ I proventi delle sanzioni di cui al presente articolo sono versati in apposito c
 
 1.
 
-All'accertamento e alla contestazione delle infrazioni di cui al presente Capo si applicano le disposizioni di cui al titolo VI, Capo I, Sezioni I e II, del [decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285).
+All'accertamento e alla contestazione delle infrazioni di cui al presente Capo si applicano le disposizioni di cui al titolo VI, Capo I, Sezioni I e II, del [decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
 
 2.
 
@@ -694,7 +694,7 @@ La notifica delle sanzioni applicate al trasportatore, ai sensi dell'articolo 12
 
 3.
 
-La misura delle sanzioni amministrative pecuniarie previste dal presente decreto e' aggiornata ai sensi dell'[articolo 195, comma 3, del decreto legislativo 30 aprile 1992, n. 285](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285#art_195-com3).
+La misura delle sanzioni amministrative pecuniarie previste dal presente decreto e' aggiornata ai sensi dell'[articolo 195, comma 3, del decreto legislativo 30 aprile 1992, n. 285](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuovo%20codice%20della%20strada.md).
 
 ))
 
@@ -714,10 +714,10 @@ Le disposizioni del presente capo si applicano alle sanzioni amministrative pecu
 
 3.
 
-Ai fini di cui al comma 1, trovano applicazione le disposizioni del presente capo e non si applica la disciplina di cui alla [legge 21 marzo 1983, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-21;149), sulla notifica e l'ottenimento all'estero di documenti, informazioni e prove in materia amministrativa.
+Ai fini di cui al comma 1, trovano applicazione le disposizioni del presente capo e non si applica la disciplina di cui alla [legge 21 marzo 1983, n. 149](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20europee%20sulla%20notifica%20e%20lottenimento%20allestero%20di%20documenti%20informazioni%20e%20prove%20in%20materia%20amministrativa%20adottate%20a%20Strasburgo%20rispettivamente%20_6cf0fda904cb.md), sulla notifica e l'ottenimento all'estero di documenti, informazioni e prove in materia amministrativa.
 
 Note all'[art. 13: 
- - La legge 21 marzo 1983, n. 149](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1983-03-21;149#art_13) (Ratifica ed esecuzione delle convenzioni europee sulla notifica e l'ottenimento all'estero di documenti, informazioni e prove in materia amministrativa, adottate a Strasburgo, rispettivamente, il 24 novembre 1977 ed il 15 marzo 1978) e' pubblicata nella Gazzetta Ufficiale 5 maggio 1983, n. 122, S.O.
+ - La legge 21 marzo 1983, n. 149](../Leggi%20di%20ratifica/Ratifica%20ed%20esecuzione%20delle%20convenzioni%20europee%20sulla%20notifica%20e%20lottenimento%20allestero%20di%20documenti%20informazioni%20e%20prove%20in%20materia%20amministrativa%20adottate%20a%20Strasburgo%20rispettivamente%20_6cf0fda904cb.md) (Ratifica ed esecuzione delle convenzioni europee sulla notifica e l'ottenimento all'estero di documenti, informazioni e prove in materia amministrativa, adottate a Strasburgo, rispettivamente, il 24 novembre 1977 ed il 15 marzo 1978) e' pubblicata nella Gazzetta Ufficiale 5 maggio 1983, n. 122, S.O.
 
 ## Richiesta di notifica e di recupero ad altri Stati membri
 

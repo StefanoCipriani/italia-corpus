@@ -20,7 +20,7 @@ IL MINISTRO DELLE ATTIVITA' PRODUTTIVE
 
 Visto l'[articolo 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
-Vista la [legge 29 dicembre 2000, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-29;422), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2000;
+Vista la [legge 29 dicembre 2000, n. 422](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%202000.md), recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2000;
 
 Vista la [direttiva 1999/13/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1999;13), sulla limitazione delle emissioni dei composti organici volatili dovute all'uso dei solventi organici in talune attivita' ed in taluni impianti;
 
@@ -36,7 +36,7 @@ Visto il decreto del Ministro dell'ambiente 21 dicembre 1995, pubblicato nella G
 
 Visto il [decreto legislativo 4 agosto 1999, n. 372](Attuazione%20della%20direttiva%2096-61-CE%20relativa%20alla%20prevenzione%20e%20riduzione%20integrate%20dellinquinamento.md), concernente la prevenzione e la riduzione integrata dell'inquinamento;
 
-Visto il [decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52), e successive modifiche, concernente la classificazione, l'etichettatura e l'imballaggio delle sostanze pericolose;
+Visto il [decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), e successive modifiche, concernente la classificazione, l'etichettatura e l'imballaggio delle sostanze pericolose;
 
 Sentita la Conferenza unificata nella seduta del 24 luglio 2003;
 
@@ -57,13 +57,13 @@ Il presente decreto disciplina, in attuazione della [direttiva 99/13/CE e dell'a
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), come modificato dal [D.Lgs. 15 novembre 2017, n. 183](Attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015%20relativa%20alla%20limitazione%20delle%20emissioni%20nellatmosfera%20di%20taluni%20inquinanti%20originati%20_3444e1ca6923.md), ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza.
+Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), come modificato dal [D.Lgs. 15 novembre 2017, n. 183](Attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015%20relativa%20alla%20limitazione%20delle%20emissioni%20nellatmosfera%20di%20taluni%20inquinanti%20originati%20_3444e1ca6923.md), ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza.
 
 ## Art. 2. — Definizioni
 
@@ -149,13 +149,13 @@ Ai fini del presente decreto, si intende per:
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), come modificato dal [D.Lgs. 15 novembre 2017, n. 183](Attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015%20relativa%20alla%20limitazione%20delle%20emissioni%20nellatmosfera%20di%20taluni%20inquinanti%20originati%20_3444e1ca6923.md), ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza.
+Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), come modificato dal [D.Lgs. 15 novembre 2017, n. 183](Attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015%20relativa%20alla%20limitazione%20delle%20emissioni%20nellatmosfera%20di%20taluni%20inquinanti%20originati%20_3444e1ca6923.md), ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza.
 
 ## Art. 3. — Valori limite di emissione
 
@@ -193,7 +193,7 @@ L'autorita' competente puo' esentare il gestore dall'obbligo di conformarsi alle
 
 9.
 
-Le sostanze o i preparati, classificati ai sensi del [decreto legislativo 3 febbraio 1997, n. 52](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-02-03;52), e successive modifiche, come cancerogeni, mutageni o tossici per la riproduzione, a causa del loro tenore di COV, e ai quali sono state assegnate etichette con le frasi di rischio R45, R46, R49, R60, R61, sono sostituiti quanto prima con sostanze o preparati meno nocivi, tenendo conto delle linee guida della Commissione europea, ove emanate.
+Le sostanze o i preparati, classificati ai sensi del [decreto legislativo 3 febbraio 1997, n. 52](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-32-CEE%20concernente%20classificazione%20imballaggio%20ed%20etichettatura%20delle%20sostanze%20pericolose.md), e successive modifiche, come cancerogeni, mutageni o tossici per la riproduzione, a causa del loro tenore di COV, e ai quali sono state assegnate etichette con le frasi di rischio R45, R46, R49, R60, R61, sono sostituiti quanto prima con sostanze o preparati meno nocivi, tenendo conto delle linee guida della Commissione europea, ove emanate.
 
 10.
 
@@ -224,13 +224,13 @@ Il gestore adotta tutte le precauzioni opportune per ridurre al minimo le emissi
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), come modificato dal [D.Lgs. 15 novembre 2017, n. 183](Attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015%20relativa%20alla%20limitazione%20delle%20emissioni%20nellatmosfera%20di%20taluni%20inquinanti%20originati%20_3444e1ca6923.md), ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza.
+Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), come modificato dal [D.Lgs. 15 novembre 2017, n. 183](Attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015%20relativa%20alla%20limitazione%20delle%20emissioni%20nellatmosfera%20di%20taluni%20inquinanti%20originati%20_3444e1ca6923.md), ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza.
 
 ## Art. 4. — Controlli
 
@@ -255,13 +255,13 @@ In alternativa alle apparecchiature di cui al comma 2, l'autorita' competente pu
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), come modificato dal [D.Lgs. 15 novembre 2017, n. 183](Attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015%20relativa%20alla%20limitazione%20delle%20emissioni%20nellatmosfera%20di%20taluni%20inquinanti%20originati%20_3444e1ca6923.md), ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza.
+Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), come modificato dal [D.Lgs. 15 novembre 2017, n. 183](Attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015%20relativa%20alla%20limitazione%20delle%20emissioni%20nellatmosfera%20di%20taluni%20inquinanti%20originati%20_3444e1ca6923.md), ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza.
 
 ## Art. 5. — Conformita' ai valori limite di emissione
 
@@ -320,13 +320,13 @@ In caso di inosservanza delle prescrizioni autorizzatorie si applicano le dispos
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), come modificato dal [D.Lgs. 15 novembre 2017, n. 183](Attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015%20relativa%20alla%20limitazione%20delle%20emissioni%20nellatmosfera%20di%20taluni%20inquinanti%20originati%20_3444e1ca6923.md), ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza.
+Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), come modificato dal [D.Lgs. 15 novembre 2017, n. 183](Attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015%20relativa%20alla%20limitazione%20delle%20emissioni%20nellatmosfera%20di%20taluni%20inquinanti%20originati%20_3444e1ca6923.md), ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza.
 
 ## Art. 6. — Criteri temporali di applicazione
 
@@ -351,13 +351,13 @@ In caso di impianto sottoposto a modifica sostanziale o di impianto al quale, a 
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), come modificato dal [D.Lgs. 15 novembre 2017, n. 183](Attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015%20relativa%20alla%20limitazione%20delle%20emissioni%20nellatmosfera%20di%20taluni%20inquinanti%20originati%20_3444e1ca6923.md), ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza.
+Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), come modificato dal [D.Lgs. 15 novembre 2017, n. 183](Attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015%20relativa%20alla%20limitazione%20delle%20emissioni%20nellatmosfera%20di%20taluni%20inquinanti%20originati%20_3444e1ca6923.md), ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza.
 
 ## Art. 7. — Accesso del pubblico all'informazione
 
@@ -374,13 +374,13 @@ Il provvedimento di autorizzazione e i suoi successivi aggiornamenti, nonche' le
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), come modificato dal [D.Lgs. 15 novembre 2017, n. 183](Attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015%20relativa%20alla%20limitazione%20delle%20emissioni%20nellatmosfera%20di%20taluni%20inquinanti%20originati%20_3444e1ca6923.md), ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza.
+Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), come modificato dal [D.Lgs. 15 novembre 2017, n. 183](Attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015%20relativa%20alla%20limitazione%20delle%20emissioni%20nellatmosfera%20di%20taluni%20inquinanti%20originati%20_3444e1ca6923.md), ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza.
 
 ## Art. 8. — Relazione alla Commissione europea
 
@@ -397,13 +397,13 @@ Il Ministero dell'ambiente e della tutela del territorio invia le informazioni d
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), come modificato dal [D.Lgs. 15 novembre 2017, n. 183](Attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015%20relativa%20alla%20limitazione%20delle%20emissioni%20nellatmosfera%20di%20taluni%20inquinanti%20originati%20_3444e1ca6923.md), ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza.
+Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), come modificato dal [D.Lgs. 15 novembre 2017, n. 183](Attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015%20relativa%20alla%20limitazione%20delle%20emissioni%20nellatmosfera%20di%20taluni%20inquinanti%20originati%20_3444e1ca6923.md), ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza.
 
 ## Art. 9. — Disposizioni transitorie e finali
 
@@ -428,13 +428,13 @@ Al fine di valutare e di proporre revisioni della normativa riguardante le emiss
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152) ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
+Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md) ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'[articolo 14 del decreto legislativo 4 agosto 1999, n. 351](Attuazione%20della%20direttiva%2096-62-CE%20in%20materia%20di%20valutazione%20e%20di%20gestione%20della%20qualita%20dellaria%20ambiente.md).
 
 -------------
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. 3 aprile 2006, n. 152](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-03;152), come modificato dal [D.Lgs. 15 novembre 2017, n. 183](Attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015%20relativa%20alla%20limitazione%20delle%20emissioni%20nellatmosfera%20di%20taluni%20inquinanti%20originati%20_3444e1ca6923.md), ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza.
+Il [D.Lgs. 3 aprile 2006, n. 152](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20ambientale.md), come modificato dal [D.Lgs. 15 novembre 2017, n. 183](Attuazione%20della%20direttiva%20UE%202015-2193%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2025%20novembre%202015%20relativa%20alla%20limitazione%20delle%20emissioni%20nellatmosfera%20di%20taluni%20inquinanti%20originati%20_3444e1ca6923.md), ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il [D.lgs. 152/2006](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006;152) preveda l'ulteriore vigenza.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
 

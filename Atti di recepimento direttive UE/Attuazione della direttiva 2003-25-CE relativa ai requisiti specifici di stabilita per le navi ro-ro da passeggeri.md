@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 31 ottobre 2003, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-10-31;306), ed in particolare gli articoli 1 e 2 e l'allegato B;
+Vista la [legge 31 ottobre 2003, n. 306](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202003.md), ed in particolare gli articoli 1 e 2 e l'allegato B;
 
 Vista la [direttiva 2003/25/CE del Parlamento europeo e del Consiglio, del 14 aprile 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2003;25), recante requisiti specifici di stabilita' per le navi ro/ro da passeggeri;
 
@@ -48,7 +48,7 @@ Ai fini del presente decreto s'intende per:
                         c)
                             amministrazione dello Stato di bandiera: le autorita' competenti dello Stato la cui bandiera la nave ro/ro da passeggeri e' autorizzata a battere;
                         d)
-                            autorita' marittima: gli uffici locali di cui all'[articolo 17 del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_17), secondo funzioni delegate con direttive del Comando generale del Corpo delle capitanerie di porto;
+                            autorita' marittima: gli uffici locali di cui all'[articolo 17 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md), secondo funzioni delegate con direttive del Comando generale del Corpo delle capitanerie di porto;
                         e)
                             bordo libero residuo (fr): la distanza minima fra il ponte ro/ro danneggiato e la linea di galleggiamento finale nel punto in cui si e' verificata l'avaria, senza tenere conto degli ulteriori effetti prodotti dall'acqua accumulatasi sul ponte ro/ro danneggiato;
                         f)
@@ -94,9 +94,9 @@ Il presente decreto si applica a tutte le navi ro/ro da passeggeri che effettuan
 
 Prima di adibire una nave a servizi di linea in viaggi internazionali da o verso porti dello Stato, l'autorita' marittima accerta la conformita' ai requisiti del presente decreto:
                         a)
-                            durante le ispezioni di cui all'[articolo 19 del decreto legislativo 24 marzo 2011, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2011-03-24;53#art_19), per le navi ro/ro da passeggeri battenti bandiera diversa da quella italiana;
+                            durante le ispezioni di cui all'[articolo 19 del decreto legislativo 24 marzo 2011, n. 53](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202009-16-CE%20recante%20le%20norme%20internazionali%20per%20la%20sicurezza%20delle%20navi%20la%20prevenzione%20dellinquinamento%20e%20le%20condizioni%20di%20vita%20e%20di%20lavoro%20a%20bordo%20per%20le%20navi%20c_76d00427a6be.md), per le navi ro/ro da passeggeri battenti bandiera diversa da quella italiana;
                         b)
-                            durante le ispezioni di cui all'[articolo 3 del decreto legislativo 22 aprile 2020, n. 37](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2020-04-22;37#art_3), per le navi ro/ro da passeggeri battenti bandiera italiana.
+                            durante le ispezioni di cui all'[articolo 3 del decreto legislativo 22 aprile 2020, n. 37](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Attuazione%20della%20direttiva%20UE%202017-2110%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20novembre%202017%20relativa%20ad%20un%20sistema%20di%20ispezioni%20per%20lesercizio%20in%20condizioni%20di%20sicurezza%20di%20navi%20r_6cf6badfbf03.md), per le navi ro/ro da passeggeri battenti bandiera italiana.
 
 ))
 
@@ -216,11 +216,11 @@ Con decreto del Ministro delle infrastrutture e dei trasporti sono apportate le 
 
 1.
 
-L'armatore, l'esercente o il comandante che violano le norme di cui ((all'articolo 5)) sono puniti con la sanzione di cui all'[articolo 1215, primo comma, del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_1215-com1).
+L'armatore, l'esercente o il comandante che violano le norme di cui ((all'articolo 5)) sono puniti con la sanzione di cui all'[articolo 1215, primo comma, del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md).
 
 2.
 
-L'armatore o l'esercente che violano le norme di cui agli articoli 7, comma 1, e 8, commi 1 e 2, sono puniti con la sanzione di cui all'[articolo 1216 del codice della navigazione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1942-03-30;327#art_1216). La stessa pena si applica al comandante ma la pena e' ridotta.
+L'armatore o l'esercente che violano le norme di cui agli articoli 7, comma 1, e 8, commi 1 e 2, sono puniti con la sanzione di cui all'[articolo 1216 del codice della navigazione](../Codici/Approvazione%20del%20testo%20definitivo%20del%20Codice%20della%20navigazione.%20042U0327.md). La stessa pena si applica al comandante ma la pena e' ridotta.
 
 ## Art. 11. — Norma di salvaguardia
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visto l'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 8 agosto 1977, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;572), recante le norme di attuazione delle direttive del Consiglio delle Comunita' europee concernenti il ravvicinamento delle legislazioni degli Stati membri relative all'omologazione dei trattori agricoli o forestali a ruote;
+Vista la [legge 8 agosto 1977, n. 572](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20delle%20direttive%20delle%20Comunita%20europee%20concernenti%20il%20riavvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20allomologazione%20dei%20trattori%20agricoli%20o%20forestali%20a%20ruote.md), recante le norme di attuazione delle direttive del Consiglio delle Comunita' europee concernenti il ravvicinamento delle legislazioni degli Stati membri relative all'omologazione dei trattori agricoli o forestali a ruote;
 
 Visto in particolare l'art. 3 della predetta legge che prevede l'emanazione delle prescrizioni tecniche adeguate alle corrispondenti disposizioni approvate dai competenti organi delle Comunita' europee;
 
@@ -90,7 +90,7 @@ dell'allegato 8
 
 ## Art. 2.
 
-Ai fini dell'omologazione nazionale del tipo di trattore agricolo o forestale a ruote per quanto riguarda i dispositivi e le caratteristiche di cui al precedente articolo, il costruttore o altro soggetto legalmente abilitato ha facolta', ai sensi dell'[art. 9 della legge 8 agosto 1977, n. 572](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;572#art_9), di richiedere l'applicazione delle prescrizioni tecniche indicate negli allegati da 1 a 12.
+Ai fini dell'omologazione nazionale del tipo di trattore agricolo o forestale a ruote per quanto riguarda i dispositivi e le caratteristiche di cui al precedente articolo, il costruttore o altro soggetto legalmente abilitato ha facolta', ai sensi dell'[art. 9 della legge 8 agosto 1977, n. 572](../Atti%20normativi%20abrogati%20%28in%20originale%29/Norme%20di%20attuazione%20delle%20direttive%20delle%20Comunita%20europee%20concernenti%20il%20riavvicinamento%20delle%20legislazioni%20degli%20Stati%20membri%20relative%20allomologazione%20dei%20trattori%20agricoli%20o%20forestali%20a%20ruote.md), di richiedere l'applicazione delle prescrizioni tecniche indicate negli allegati da 1 a 12.
 
 ## Art. 3.
 

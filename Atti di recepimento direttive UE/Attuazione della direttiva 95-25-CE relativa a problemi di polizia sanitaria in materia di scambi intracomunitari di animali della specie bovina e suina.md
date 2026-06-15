@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 24 aprile 1998, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-04-24;128);
+Vista la [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md);
 
 Vista la [direttiva 95/25/CE del Consiglio del 22 giugno 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;25) che modifica la [direttiva 64/432/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1964;432) relativa a problemi di polizia sanitaria in materia di scambi intracomunitari di animali della specie bovina e suina;
 
-Vista la [legge 30 aprile 1976, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;397), e successive modificazioni e integrazioni;
+Vista la [legge 30 aprile 1976, n. 397](Norme%20sanitarie%20sugli%20scambi%20di%20animali%20tra%20lItalia%20e%20gli%20altri%20Stati%20membri%20della%20Comunita%20economica%20europea.md), e successive modificazioni e integrazioni;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 maggio 1998;
 
@@ -34,7 +34,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-La [legge 30 aprile 1976, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;397), come integrata dal [decreto del Presidente della Repubblica 1 marzo 1992, n. 230](Regolamento%20di%20attuazione%20delle%20direttive%20CEE%2079-109%2079-111%2080-219%2080-1098%2080-1099%2080-1274%2082-893%2083-646%2084-336%2085-586%2087-489%20e%2088-406%20concernenti%20norme%20sanitarie%20in%20materia%20di%20scambi%20int_ad08716ee994.md), e' modificata come segue:
+La [legge 30 aprile 1976, n. 397](Norme%20sanitarie%20sugli%20scambi%20di%20animali%20tra%20lItalia%20e%20gli%20altri%20Stati%20membri%20della%20Comunita%20economica%20europea.md), come integrata dal [decreto del Presidente della Repubblica 1 marzo 1992, n. 230](Regolamento%20di%20attuazione%20delle%20direttive%20CEE%2079-109%2079-111%2080-219%2080-1098%2080-1099%2080-1274%2082-893%2083-646%2084-336%2085-586%2087-489%20e%2088-406%20concernenti%20norme%20sanitarie%20in%20materia%20di%20scambi%20int_ad08716ee994.md), e' modificata come segue:
                         a)
                             all'articolo 6, dopo il primo comma, sono aggiunti, in fine, i seguenti:
  "I bovini di eta' inferiore a trenta mesi, destinati alla produzione di carne, possono, in deroga a quanto previsto alle lettere b) e c) del primo comma, non essere sottoposti alle prove indicate in dette lettere solo qualora:
@@ -63,13 +63,13 @@ Note alle premesse:
  Presiede il Consiglio superiore della magistratura.
  Puo' concedere grazia e commutare le pene.
  Conferisce le onorificenze della Repubblica".
- - La [legge 24 aprile 1998, n. 128](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-04-24;128), reca: "Disposizioni per l'adempimento di obblighi derivanti dalla appartenenza dell'Italia alle Comunita' europee.
+ - La [legge 24 aprile 1998, n. 128](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dalla%20appartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%201995-1997.md), reca: "Disposizioni per l'adempimento di obblighi derivanti dalla appartenenza dell'Italia alle Comunita' europee.
  Legge comunitaria 1995-1997".
  - La [direttiva 95/25/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1995;25) e' pubblicata in G.U.C.E. n. L 243 dell'11 ottobre 1995.
  - La [direttiva 64/432/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1964;432) e' pubblicata in G.U.C.E. n. L 32 del 24 febbraio 1966.
- - La [legge 30 aprile 1976, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;397), concerne le "Norme sanitarie sugli scambi di animali tra l'Italia e gli altri Stati membri della Comunita' economica europea".
+ - La [legge 30 aprile 1976, n. 397](Norme%20sanitarie%20sugli%20scambi%20di%20animali%20tra%20lItalia%20e%20gli%20altri%20Stati%20membri%20della%20Comunita%20economica%20europea.md), concerne le "Norme sanitarie sugli scambi di animali tra l'Italia e gli altri Stati membri della Comunita' economica europea".
  Note all'art. 1:
- - Per quanto concerne la [legge 30 aprile 1976, n. 397](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;397), vedi nelle note alle premesse.
+ - Per quanto concerne la [legge 30 aprile 1976, n. 397](Norme%20sanitarie%20sugli%20scambi%20di%20animali%20tra%20lItalia%20e%20gli%20altri%20Stati%20membri%20della%20Comunita%20economica%20europea.md), vedi nelle note alle premesse.
  - Il [decreto del Presidente della Repubblica 1 marzo 1992, n. 230](Regolamento%20di%20attuazione%20delle%20direttive%20CEE%2079-109%2079-111%2080-219%2080-1098%2080-1099%2080-1274%2082-893%2083-646%2084-336%2085-586%2087-489%20e%2088-406%20concernenti%20norme%20sanitarie%20in%20materia%20di%20scambi%20int_ad08716ee994.md), concerne il "Regolamento di attuazione delle [direttive CEE 79/109](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;109), [79/111](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1979;111), [80/219](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;219), [80/1098](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;1098), [80/1099](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;1099), [80/1274](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1980;1274), [82/893](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1982;893), [83/646](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1983;646), [84/336](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1984;336), [85/586](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1985;586), [87/489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1987;489) e [88/406](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1988;406), concernenti norme sanitarie in materia di scambi intracomunitari di animali della specie bovina e suina, tenuto anche conto delle [direttive 84/643](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1984;643), [90/422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;422) e [90/423](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;423)".
  - Il [decreto legislativo 30 gennaio 1993, n. 28](Attuazione%20delle%20direttive%2089-662-CEE%20e%2090-425-CEE%20relative%20ai%20controlli%20veterinari%20e%20zootecnici%20di%20taluni%20animali%20vivi%20e%20su%20prodotti%20di%20origine%20animale%20applicabili%20negli%20scambi%20intracomunitari.md), reca: "Attuazione delle [direttive 89/662/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1989;662) e [90/425/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1990;425) relative ai controlli veterinari e zootecnici di taluni animali vici e su prodotti di origine animale applicabili negli scambi intracomunitari". Il comma 5, lettera a), dell'art. 11, del citato decreto legislativo, cosi' recita:
  "5. Tutti i destinatari che figurano sul certificato o documento previsti all'art. 9, comma 2, lettera d):

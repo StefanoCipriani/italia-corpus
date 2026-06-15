@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
+Vista la [legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
 
 Vista la [direttiva n. 76/117 del 18 dicembre 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1976;117), emanata dal Consiglio delle Comunita' europee, concernente il materiale elettrico destinato ad essere utilizzato in atmosfera esplosiva;
 
-Considerato che in data 14 maggio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42#art_1), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
+Considerato che in data 14 maggio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
 
 Tenuto conto delle osservazioni formulate in sede parlamentare;
 
@@ -92,7 +92,7 @@ Chiunque viola le disposizioni di cui al primo comma del precedente art. 4 e' pu
  a) chiunque viola la disposizione di cui al secondo comma del precedente art. 7 e' soggetto alla sanzione pecuniaria amministrativa del pagamento di una somma da L. 100.000 a lire 2 milioni; 
  b) chiunque viola la disposizione di cui al quarto comma del precedente art. 7 e' soggetto alla sanzione pecuniaria amministrativa del pagamento di una somma da L. 30.000 a L. 100.000. 
  Per l'irrogazione delle predette sanzioni amministrative pecuniarie e per l'applicazione delle relative sanzioni accessorie si applicano le disposizioni di cui alla [legge 24 novembre 1981, n. 689](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-11-24;689). 
- Fino all'emanazione del decreto del Presidente della Repubblica previsto all'art. 17, settimo comma, della legge di cui al comma precedente, si applicano in via transitoria le disposizioni di cui al [decreto del Presidente della Repubblica 13 maggio 1976, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-05-13;407), che individuano gli uffici periferici dei Ministeri cui sono demandate attribuzioni per l'applicazione del sistema sanzionatorio previsto dalla [legge 24 dicembre 1975, n. 706](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-24;706), nonche' le disposizioni di cui agli articoli da 3 a 9 e 13 di quest'ultima legge.
+ Fino all'emanazione del decreto del Presidente della Repubblica previsto all'art. 17, settimo comma, della legge di cui al comma precedente, si applicano in via transitoria le disposizioni di cui al [decreto del Presidente della Repubblica 13 maggio 1976, n. 407](../DPR/Individuazione%20degli%20uffici%20periferici%20dei%20Ministeri%20cui%20sono%20demandate%20attribuzioni%20per%20lapplicazione%20del%20sistema%20sanzionatorio%20previsto%20dalla%20legge%2024%20dicembre%201975%20n.%20706.md), che individuano gli uffici periferici dei Ministeri cui sono demandate attribuzioni per l'applicazione del sistema sanzionatorio previsto dalla [legge 24 dicembre 1975, n. 706](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sistema%20sanzionatorio%20delle%20norme%20che%20prevedono%20contravvenzioni%20punibili%20con%20lammenda.md), nonche' le disposizioni di cui agli articoli da 3 a 9 e 13 di quest'ultima legge.
 
 ## Art. 11.
 

@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
+Vista la [legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), recante delega al Governo ad emanare norme per l'attuazione delle direttive della Comunita' economica europea;
 
 Vista la [direttiva n. 75/716 del 24 novembre 1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;716), emanata dal Consiglio delle Comunita' europee, concernente il tenore di zolfo di taluni combustibili liquidi;
 
-Considerato che in data 25 febbraio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-02-09;42#art_1), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
+Considerato che in data 25 febbraio 1982, ai termini dell'[art. 1 della legge 9 febbraio 1982, n. 42](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20ad%20emanare%20norme%20per%20lattuazione%20delle%20direttive%20della%20Comunita%20economica%20europea.md), e' stato inviato lo schema del presente provvedimento ai Presidenti della Camera dei deputati e del Senato della Repubblica per gli adempimenti ivi previsti;
 
 Tenuto conto delle osservazioni formulate in sede parlamentare;
 
@@ -30,22 +30,22 @@ EMANA il seguente decreto:
 
 ## Art. 1.
 
-L'[art. 11 della legge 13 luglio 1966, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-13;615#art_11), e' modificato come segue:
+L'[art. 11 della legge 13 luglio 1966, n. 615](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20contro%20linquinamento%20atmosferico.md), e' modificato come segue:
  "I combustibili usati per il funzionamento degli impianti termici di cui al precedente art. 8 nei comuni appartenenti alle zone A e B devono possedere determinate caratteristiche merceologiche ed il loro impiego deve essere subordinato alle condizioni specificate negli articoli seguenti, salvo quanto disposto dagli stessi articoli limitatamente ai distillati di petrolio".
 
 ## Art. 2.
 
-L'[art. 12 della legge 13 luglio 1966, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-13;615#art_12), alla voce distillati di petrolio, e' modificato come segue:
+L'[art. 12 della legge 13 luglio 1966, n. 615](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20contro%20linquinamento%20atmosferico.md), alla voce distillati di petrolio, e' modificato come segue:
  "distillati di petrolio (kerosene, gasolio, ecc.) con contenuto in zolfo non superiore allo 0,3% in peso; fino al 30 giugno 1985 e' ammesso un contenuto in zolfo non superiore allo 0,5% in peso".
 
 ## Art. 3.
 
-All'[art. 13 della legge 13 luglio 1966, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-13;615#art_13), dopo la frase "sono consentiti con le limitazioni appresso indicate, i seguenti combustibili", aggiungere il seguente punto:
+All'[art. 13 della legge 13 luglio 1966, n. 615](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20contro%20linquinamento%20atmosferico.md), dopo la frase "sono consentiti con le limitazioni appresso indicate, i seguenti combustibili", aggiungere il seguente punto:
  "distillati di petrolio con contenuto in zolfo non superiore allo 0,8% in peso fino al 30 settembre 1983 e contenuto in zolfo non superiore allo 0,5% in peso a partire dal 10 ottobre 1983. Il loro impiego e' consentito nelle parti del territorio nazionale non comprese nelle zone di controllo A e B, salvo quanto disposto dall'articolo 12".
 
 ## Art. 4.
 
-Alla [legge 13 luglio 1966, n. 615](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-07-13;615), e' aggiunto, dopo l'art. 14, l'art. 14-bis:
+Alla [legge 13 luglio 1966, n. 615](../Atti%20normativi%20abrogati%20%28in%20originale%29/Provvedimenti%20contro%20linquinamento%20atmosferico.md), e' aggiunto, dopo l'art. 14, l'art. 14-bis:
  "I contenuti di zolfo riportati nei precedenti articoli 12 e 13 si intendono riferiti anche ai distillati di petrolio destinati ad usi diversi da quelli per il funzionamento degli impianti termici.
  Le disposizioni di cui al precedente art. 14 si applicano anche all'impiego di distillati di petrolio per usi diversi da quelli per il funzionamento degli impianti termici.
  I commi precedenti non si applicano ai distillati di petrolio:

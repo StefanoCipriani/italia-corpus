@@ -10,7 +10,7 @@ vigente: true
 
 IL PRESIDENTE DELLA REPUBBLICA
 
-Visti gli [articoli 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-05-29;256#art_5), [7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-05-29;256#art_7) e [16 della legge 29 maggio 1974, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-05-29;256#art_16), concernente la classificazione e disciplina dell'imballaggio e dell'etichettatura delle sostanze e dei preparati pericolosi;
+Visti gli [articoli 5](../Atti%20normativi%20abrogati%20%28in%20originale%29/Classificazione%20e%20disciplina%20dellimballaggio%20e%20delletichettatura%20delle%20sostanze%20e%20dei%20preparati%20pericolosi.md), [7](../Atti%20normativi%20abrogati%20%28in%20originale%29/Classificazione%20e%20disciplina%20dellimballaggio%20e%20delletichettatura%20delle%20sostanze%20e%20dei%20preparati%20pericolosi.md) e [16 della legge 29 maggio 1974, n. 256](../Atti%20normativi%20abrogati%20%28in%20originale%29/Classificazione%20e%20disciplina%20dellimballaggio%20e%20delletichettatura%20delle%20sostanze%20e%20dei%20preparati%20pericolosi.md), concernente la classificazione e disciplina dell'imballaggio e dell'etichettatura delle sostanze e dei preparati pericolosi;
 
 Viste le direttive del consiglio delle Comunita' economiche europee n. 67/548 del 27 giugno 1967 e numero 75/409 del 24 giugno 1975 concernenti il ravvicinamento delle disposizioni legislative, regolamentari ed amministrative relative alla classificazione, all'imballaggio e all'etichettatura delle sostanze pericolose;
 
@@ -18,12 +18,12 @@ Sulla proposta del Ministro della sanita', di concerto con i Ministri dell'inter
 
 ## Art. 1.
 
-L'art. 5, punto 4), della [legge 29 maggio 1974, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-05-29;256), e' completato con il seguente periodo:
+L'art. 5, punto 4), della [legge 29 maggio 1974, n. 256](../Atti%20normativi%20abrogati%20%28in%20originale%29/Classificazione%20e%20disciplina%20dellimballaggio%20e%20delletichettatura%20delle%20sostanze%20e%20dei%20preparati%20pericolosi.md), e' completato con il seguente periodo:
  "Per le sostanze nocive, irritanti, facilmente infiammabili, infiammabili o comburenti non e' necessario rammentare i rischi specifici se il contenuto dell'imballaggio non supera i 125 ml".
 
 ## Art. 2.
 
-L'[art. 7 della legge 29 maggio 1974, n. 256](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1974-05-29;256#art_7), e' sostituito dal seguente: 
+L'[art. 7 della legge 29 maggio 1974, n. 256](../Atti%20normativi%20abrogati%20%28in%20originale%29/Classificazione%20e%20disciplina%20dellimballaggio%20e%20delletichettatura%20delle%20sostanze%20e%20dei%20preparati%20pericolosi.md), e' sostituito dal seguente: 
  "Quando le indicazioni di cui all'art. 5 si trovano su una etichetta, questa deve essere apposta su uno o piu' lati dell'imballaggio in modo da assicurare la lettura orizzontale, quando il collo si trova in posizione normale. Le dimensioni delle etichette devono corrispondere ai seguenti formati: 
  
 

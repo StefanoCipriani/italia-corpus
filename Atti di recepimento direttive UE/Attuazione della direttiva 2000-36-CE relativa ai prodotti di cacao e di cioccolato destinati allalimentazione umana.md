@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 28 della legge 1° marzo 2002, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-03-01;39#art_28), recante delega al Governo per l'attuazione della [direttiva 2000/36/CE del Parlamento europeo e del Consiglio, del 23 giugno 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;36), relativa ai prodotti di cacao e cioccolato destinati all'alimentazione umana;
+Visto l'[articolo 28 della legge 1° marzo 2002, n. 39](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), recante delega al Governo per l'attuazione della [direttiva 2000/36/CE del Parlamento europeo e del Consiglio, del 23 giugno 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;36), relativa ai prodotti di cacao e cioccolato destinati all'alimentazione umana;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 marzo 2003;
 
@@ -35,14 +35,14 @@ Il presente decreto disciplina le denominazioni di vendita, le relative definizi
 Il presente decreto non si applica al ripieno dei prodotti di cui all'allegato I punti 7 e 10 qualora esso sia diverso dai prodotti di cacao e di cioccolato.
 
 Avvertenza:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione della legge, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione della legge, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Per le direttive CEE vengono forniti gli estremi di pubblicazione nella Gazzetta Ufficiale delle Comunita' europee (GUCE).
 
  Note alle premesse:
 
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) stabilisce che l'esercizio della funzione legislativa non puo' essere delegato al Governo se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87 della costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87), conferisce, tra l'altro, al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge ed i regolamenti.
- - La [legge 1° marzo 2002, n. 39](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-03-01;39), reca: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2001.». L'art. 28, cosi' recita:
+ - La [legge 1° marzo 2002, n. 39](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), reca: «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee. Legge comunitaria 2001.». L'art. 28, cosi' recita:
  «Art. 28 (Attuazione della [direttiva 2000/36/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;36), relativa ai prodotti di cacao e di cioccolato destinati all'alimentazione umana). - 1. L'attuazione della [direttiva 2000/36/CE del Parlamento europeo e del Consiglio, del 23 giugno 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2000;36), relativa ai prodotti di cacao e di cioccolato destinati all'alimentazione umana, sara' informata ai seguenti principi e criteri direttivi:
  a) garantire che l'etichettatura dei prodotti di cacao e di cioccolato, oltre ad assicurare la trasparenza, rechi una distinta indicazione a seconda che il bene sia prodotto con aggiunta di grassi vegetali diversi dal burro di cacao o che sia prodotto utilizzando esclusivamente burro di cacao; nel primo caso l'etichetta dovra' contenere la dizione "cioccolato" mentre nel secondo caso potra' essere utilizzata la dizione "cioccolato puro";
  b) individuare meccanismi di certificazione di qualita' per i prodotti tipici che utilizzano esclusivamente burro di cacao per la produzione di cioccolato.».
@@ -84,10 +84,10 @@ Per i prodotti di cui all'allegato I, punti 7 e 10, il tenore di cioccolato e' c
 
 1.
 
-Nella preparazione dei prodotti di cui all'allegato I, oltre agli zuccheri disciplinati dalla [legge 31 marzo 1980, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-31;139), possono essere utilizzati anche altri tipi di zucchero.
+Nella preparazione dei prodotti di cui all'allegato I, oltre agli zuccheri disciplinati dalla [legge 31 marzo 1980, n. 139](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recepimento%20della%20direttiva%20adottata%20dal%20Consiglio%20della%20Comunita%20economica%20europea%20riguardante%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20concernenti%20determinati%20tipi%20di%20zucch_6f7de1cb98ea.md), possono essere utilizzati anche altri tipi di zucchero.
 
 Nota all'[art. 4:
- - La legge 31 marzo 1980, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-03-31;139#art_4), reca: «Recepimento della direttiva adottata dal Consiglio della Comunita' economica europea riguardante l'armonizzazione delle legislazioni degli Stati membri, concernenti determinati tipi di zucchero destinati all'alimentazione umana.».
+ - La legge 31 marzo 1980, n. 139](../Atti%20normativi%20abrogati%20%28in%20originale%29/Recepimento%20della%20direttiva%20adottata%20dal%20Consiglio%20della%20Comunita%20economica%20europea%20riguardante%20larmonizzazione%20delle%20legislazioni%20degli%20Stati%20membri%20concernenti%20determinati%20tipi%20di%20zucch_6f7de1cb98ea.md), reca: «Recepimento della direttiva adottata dal Consiglio della Comunita' economica europea riguardante l'armonizzazione delle legislazioni degli Stati membri, concernenti determinati tipi di zucchero destinati all'alimentazione umana.».
 
 ## Art. 5. — Etichettatura
 
@@ -178,7 +178,7 @@ Chiunque utilizza le denominazioni previste all'allegato I per indicare prodotti
 
 1.
 
-A decorrere dal 3 agosto 2003 e' abrogata la [legge 30 aprile 1976, n. 351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;351).
+A decorrere dal 3 agosto 2003 e' abrogata la [legge 30 aprile 1976, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuova%20disciplina%20della%20produzione%20e%20del%20commercio%20dei%20prodotti%20di%20cacao%20e%20di%20cioccolato%20destinati%20allalimentazione%20umana.md).
 
 ## Art. 9. — Disciplina transitoria ed entrata in vigore
 
@@ -188,10 +188,10 @@ Il presente decreto legislativo entra in vigore il giorno 3 agosto 2003.
 
 2.
 
-Dopo la data di entrata in vigore del presente decreto, i prodotti, etichettati anteriormente al 3 agosto 2003 a norma della [legge 30 aprile 1976, n. 351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;351), possono essere venduti fino al completo smaltimento delle scorte.
+Dopo la data di entrata in vigore del presente decreto, i prodotti, etichettati anteriormente al 3 agosto 2003 a norma della [legge 30 aprile 1976, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuova%20disciplina%20della%20produzione%20e%20del%20commercio%20dei%20prodotti%20di%20cacao%20e%20di%20cioccolato%20destinati%20allalimentazione%20umana.md), possono essere venduti fino al completo smaltimento delle scorte.
 
 Nota all'[art. 9:
- - La legge 30 aprile 1976, n. 351](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-30;351#art_9), reca: «Nuova disciplina della produzione e del commercio dei prodotti di cacao e di cioccolato destinati all'alimentazione umana.».
+ - La legge 30 aprile 1976, n. 351](../Atti%20normativi%20abrogati%20%28in%20originale%29/Nuova%20disciplina%20della%20produzione%20e%20del%20commercio%20dei%20prodotti%20di%20cacao%20e%20di%20cioccolato%20destinati%20allalimentazione%20umana.md), reca: «Nuova disciplina della produzione e del commercio dei prodotti di cacao e di cioccolato destinati all'alimentazione umana.».
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 
