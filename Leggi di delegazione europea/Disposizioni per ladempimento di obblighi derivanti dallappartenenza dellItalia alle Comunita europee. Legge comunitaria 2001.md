@@ -51,7 +51,7 @@ Il [D.L. 25 ottobre 2002, n. 236](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (2)
 
-La [L. 3 febbraio 2003, n. 14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-02-03;14) ha disposto (con l'art. 29, comma 1) che "Ai fini del recepimento della [direttiva 2001/24/CE del Parlamento europeo e del Consiglio, del 4 aprile 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;24), in materia di risanamento e liquidazione degli enti creditizi, il termine di cui all'[articolo 1, comma 1, della legge 1° marzo 2002, n. 39](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), e' prorogato di un anno".
+La [L. 3 febbraio 2003, n. 14](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202002.md) ha disposto (con l'art. 29, comma 1) che "Ai fini del recepimento della [direttiva 2001/24/CE del Parlamento europeo e del Consiglio, del 4 aprile 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;24), in materia di risanamento e liquidazione degli enti creditizi, il termine di cui all'[articolo 1, comma 1, della legge 1° marzo 2002, n. 39](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), e' prorogato di un anno".
 Ha inoltre disposto (con l'art. 30, comma 1) "Il termine per il recepimento della [direttiva 2001/65/CE del Parlamento europeo e del Consiglio, del 27 settembre 2001](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;65), che modifica le [direttive 78/660](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1978;660)/ CEE, 83/349/CEE e 86/635/CEE per quanto riguarda le regole di valutazione per i conti annuali e consolidati di taluni tipi di societa' nonche' di banche e di altre istituzioni finanziarie, previsto all'[articolo 1, comma 1, della legge 1 marzo 2002, n. 39](../Atti%20di%20recepimento%20direttive%20UE/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202001.md), e' prorogato di sei mesi".
 
 ### Art. 2. — (Principi e criteri direttivi generali della delega legislativa).
@@ -1018,7 +1018,7 @@ Al [decreto legislativo 30 dicembre 1992, n. 540](../Decreti%20Legislativi/Attua
 
 2.
 
-Il [comma 14 dell'articolo 85 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_85-com14), e' abrogato.
+Il [comma 14 dell'articolo 85 della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e' abrogato.
 
 3.
 
@@ -1030,7 +1030,7 @@ Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propr
 
 Note all'[art. 40:
  - Il decreto legislativo 30 dicembre 1992, n. 540](../Decreti%20Legislativi/Attuazione%20della%20direttiva%2092-27-CEE%20concernente%20letichettatura%20ed%20il%20foglietto%20illustrativo%20dei%20medicinali%20per%20uso%20umano.md) reca: "Attuazione della [direttiva 92/27/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1992;27) concernente l'etichettatura ed il foglietto illustrativo dei medicinali per uso umano".
- - La [legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388), pubblicata nella Gazzetta Ufficiale 29 dicembre 2000, n. 302 reca: "Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2001)".
+ - La [legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), pubblicata nella Gazzetta Ufficiale 29 dicembre 2000, n. 302 reca: "Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2001)".
 
 ### Art. 41. — Delega al Governo per l'attuazione integrale della direttiva 96/61/CE sulla prevenzione e riduzione integrate dell'inquinamento).
 

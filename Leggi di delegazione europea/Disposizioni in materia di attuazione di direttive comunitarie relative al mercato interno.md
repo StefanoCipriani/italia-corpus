@@ -35,7 +35,7 @@ decreti sono comunque emanati. ((1))
 
  
 AGGIORNAMENTO (1) 
- La [L. 22 febbraio 1994, n. 146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-02-22;146) ha disposto (con l'art. 6, comma 2) che" Il termine di cui all'[articolo 1 della legge 19 dicembre 1992, n. 489](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-19;489#art_1), e' differito di sei mesi a decorrere dalla data di entrata in vigore della presente legge, limitatamente all'emanazione dei decreti legislativi di attuazione delle [direttive del Consiglio 91/497/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;497) e [91/498/CEE del 29 luglio 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;498), secondo i criteri ed i principi direttivi di cui all'articolo 19 della medesima legge."
+ La [L. 22 febbraio 1994, n. 146](Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20Legge%20comunitaria%201993.md) ha disposto (con l'art. 6, comma 2) che" Il termine di cui all'[articolo 1 della legge 19 dicembre 1992, n. 489](Disposizioni%20in%20materia%20di%20attuazione%20di%20direttive%20comunitarie%20relative%20al%20mercato%20interno.md), e' differito di sei mesi a decorrere dalla data di entrata in vigore della presente legge, limitatamente all'emanazione dei decreti legislativi di attuazione delle [direttive del Consiglio 91/497/CEE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;497) e [91/498/CEE del 29 luglio 1991](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1991;498), secondo i criteri ed i principi direttivi di cui all'articolo 19 della medesima legge."
 
 ## Art. 2. — Criteri e principi direttivi generali della delega legislativa
 
@@ -223,7 +223,7 @@ L'attuazione della [direttiva 92/26/CEE del Consiglio, del 31 marzo 1992](https:
                         b)
                             con riferimento a taluni tipi di medicinali vendibili dietro presentazione di ricetta medica, in relazione alla particolare pericolosita' degli stessi, potranno essere stabilite specifiche modalita', sia di compilazione della ricetta, sia di fornitura dei prodotti, per una maggiore tutela della salute pubblica;
                         c)
-                            in relazione alla nuova disciplina, saranno modificate le disposizioni sulla classificazione contenute nell'[articolo 19, comma 4, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_19-com4).
+                            in relazione alla nuova disciplina, saranno modificate le disposizioni sulla classificazione contenute nell'[articolo 19, comma 4, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md).
 
 ## Art. 15. — Etichettatura dei medicinali per uso umano: criteri di delega
 
@@ -253,7 +253,7 @@ L'attuazione della [direttiva 92/28/CEE del Consiglio, del 31 marzo 1992](https:
                         e)
                             dovranno essere stabilite le condizioni per i contributi finanziari delle aziende farmaceutiche a congressi e convegni 
 scientifici attinenti, anche indiretta 
-mente, ai medicinali, con previsione di eventuali autorizzazioni e di relative tariffe per le prestazioni rese dal Ministero della sanita', ai sensi dell'[articolo 5, comma 12, della legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407#art_5-com12);
+mente, ai medicinali, con previsione di eventuali autorizzazioni e di relative tariffe per le prestazioni rese dal Ministero della sanita', ai sensi dell'[articolo 5, comma 12, della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md);
                         f)
                             saranno indicati i requisiti minimi del servizio scientifico da istituire presso ogni azienda titolare dell'autorizzazione all'immissione in commercio dei medicinali, ai sensi dell'articolo 13 della direttiva;
                         g)
