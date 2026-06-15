@@ -182,13 +182,13 @@ Le norme delegate di cui al comma 1 saranno emanate con uno o piu' decreti del P
 
 AGGIORNAMENTO (1a)
 
-La [L. 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413) ha disposto (con l'art. 75, comma 7) che le disposizioni di cui alla lettera b) del comma 1 del presente articolo, devono intendersi rivolte ad escludere le imprese industriali ed artigiane che impiegano gas metano come combustibile sia dall'addizionale regionale all'imposta erariale di consumo sia dalla imposta regionale sostitutiva.
+La [L. 30 dicembre 1991, n. 413](Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md) ha disposto (con l'art. 75, comma 7) che le disposizioni di cui alla lettera b) del comma 1 del presente articolo, devono intendersi rivolte ad escludere le imprese industriali ed artigiane che impiegano gas metano come combustibile sia dall'addizionale regionale all'imposta erariale di consumo sia dalla imposta regionale sostitutiva.
 
 ---------------
 
 AGGIORNAMENTO (4)
 
-La [L. 30 dicembre 2020, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178) ha disposto (con l'art. 1, comma 628) che "Sono fatti salvi gli effetti delle obbligazioni tributarie gia' insorte".
+La [L. 30 dicembre 2020, n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md) ha disposto (con l'art. 1, comma 628) che "Sono fatti salvi gli effetti delle obbligazioni tributarie gia' insorte".
 
 ## Art. 7.
 

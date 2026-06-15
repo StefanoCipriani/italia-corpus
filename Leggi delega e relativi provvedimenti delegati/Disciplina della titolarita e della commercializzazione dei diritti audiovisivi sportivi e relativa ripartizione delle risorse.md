@@ -642,7 +642,7 @@ c) i criteri per la determinazione del pubblico di riferimento di ciascuna squad
 
 AGGIORNAMENTO (6)
 
-La [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145) ha disposto (con l'art. 1, comma 642) che le modifiche di cui al presente articolo "acquistano efficacia a decorrere dalla stagione sportiva 2021/2022. Fino a tale decorrenza, le disposizioni dell'[articolo 26 del decreto legislativo 9 gennaio 2008, n. 9](../Decreti%20Legislativi/Disciplina%20della%20titolarita%20e%20della%20commercializzazione%20dei%20diritti%20audiovisivi%20sportivi%20e%20relativa%20ripartizione%20delle%20risorse.md), continuano ad applicarsi nel testo vigente prima della data di entrata in vigore della presente legge".
+La [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md) ha disposto (con l'art. 1, comma 642) che le modifiche di cui al presente articolo "acquistano efficacia a decorrere dalla stagione sportiva 2021/2022. Fino a tale decorrenza, le disposizioni dell'[articolo 26 del decreto legislativo 9 gennaio 2008, n. 9](../Decreti%20Legislativi/Disciplina%20della%20titolarita%20e%20della%20commercializzazione%20dei%20diritti%20audiovisivi%20sportivi%20e%20relativa%20ripartizione%20delle%20risorse.md), continuano ad applicarsi nel testo vigente prima della data di entrata in vigore della presente legge".
 
 ## DISPOSIZIONI TRANSITORIE DI COORDINAMENTO E FINALI
 
@@ -705,7 +705,7 @@ Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri 
 
 2.
 
-All'onere derivante dal funzionamento della struttura di cui all'articolo 19, comma 2, si provvede mediante un contributo di importo annuale non superiore allo 0,50 per mille dei ricavi di ciascun anno derivanti dalla commercializzazione dei diritti audiovisivi da parte dell'organizzatore della competizione. Il contributo e' versato entro il 31 luglio di ogni anno nella misura e secondo le modalita' stabilite dall'Autorita' per le garanzie nelle comunicazioni, ai sensi dell'[articolo 1, commi 65](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com65) e [66, della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com66). ((2))
+All'onere derivante dal funzionamento della struttura di cui all'articolo 19, comma 2, si provvede mediante un contributo di importo annuale non superiore allo 0,50 per mille dei ricavi di ciascun anno derivanti dalla commercializzazione dei diritti audiovisivi da parte dell'organizzatore della competizione. Il contributo e' versato entro il 31 luglio di ogni anno nella misura e secondo le modalita' stabilite dall'Autorita' per le garanzie nelle comunicazioni, ai sensi dell'[articolo 1, commi 65](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md) e [66, della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md). ((2))
 
 --------------
 

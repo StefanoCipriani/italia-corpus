@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 1, comma 2, della legge 21 dicembre 2001, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-21;443#art_1-com2);
+Visto l'[articolo 1, comma 2, della legge 21 dicembre 2001, n. 443](Delega%20al%20Governo%20in%20materia%20di%20infrastrutture%20ed%20insediamenti%20produttivi%20strategici%20ed%20altri%20interventi%20per%20il%20rilancio%20delle%20attivita%20produttive.md);
 
 Vista la deliberazione CIPE n. 121 del 21 dicembre 2001, pubblicata nel supplemento ordinario alla Gazzetta Ufficiale n. 68 del 21 marzo 2002, ed in particolare la sintesi del piano degli interventi nel comparto delle telecomunicazioni;
 
@@ -32,7 +32,7 @@ Emana il seguente decreto legislativo:
 
 1.
 
-Il presente decreto legislativo detta principi fondamentali in materia di installazione e modifica delle categorie di infrastrutture di telecomunicazioni, considerate strategiche ai sensi dell'[articolo 1, comma 1, della legge 21 dicembre 2001, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-21;443#art_1-com1), al fine di:
+Il presente decreto legislativo detta principi fondamentali in materia di installazione e modifica delle categorie di infrastrutture di telecomunicazioni, considerate strategiche ai sensi dell'[articolo 1, comma 1, della legge 21 dicembre 2001, n. 443](Delega%20al%20Governo%20in%20materia%20di%20infrastrutture%20ed%20insediamenti%20produttivi%20strategici%20ed%20altri%20interventi%20per%20il%20rilancio%20delle%20attivita%20produttive.md), al fine di:
                         a)
                             agevolare la liberalizzazione del settore delle telecomunicazioni, consentendo a tutti gli operatori di installare proprie infrastrutture celermente, creando cosi' un mercato effettivamente concorrenziale;
                         b)
@@ -76,7 +76,7 @@ La Corte costituzionale, con sentenza 25 settembre-1° ottobre 2003, n. 303 (in 
 
 1.
 
-Le categorie di infrastrutture di telecomunicazioni, considerate strategiche ai sensi dell'[articolo 1, comma 1, della legge 21 dicembre 2001, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-21;443#art_1-com1), sono opere di interesse nazionale, realizzabili esclusivamente sulla base delle procedure definite dal presente decreto, anche in deroga alle disposizioni di cui all'[articolo 8, comma 1, lettera c), della legge 22 febbraio 2001, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-02-22;36#art_8-com1-letc).
+Le categorie di infrastrutture di telecomunicazioni, considerate strategiche ai sensi dell'[articolo 1, comma 1, della legge 21 dicembre 2001, n. 443](Delega%20al%20Governo%20in%20materia%20di%20infrastrutture%20ed%20insediamenti%20produttivi%20strategici%20ed%20altri%20interventi%20per%20il%20rilancio%20delle%20attivita%20produttive.md), sono opere di interesse nazionale, realizzabili esclusivamente sulla base delle procedure definite dal presente decreto, anche in deroga alle disposizioni di cui all'[articolo 8, comma 1, lettera c), della legge 22 febbraio 2001, n. 36](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-02-22;36#art_8-com1-letc).
 
 2.
 

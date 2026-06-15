@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), recante delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa, e successive modificazioni ed integrazioni;
+Vista la [legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), recante delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa, e successive modificazioni ed integrazioni;
 
-Vista la [legge 29 luglio 1999, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-07-29;241);
+Vista la [legge 29 luglio 1999, n. 241](Proroga%20dei%20termini%20per%20lesercizio%20delle%20deleghe%20di%20cui%20agli%20articoli%2010%20e%2011%20della%20legge%2015%20marzo%201997%20n.%2059%20in%20relazione%20alladozione%20del%20parere%20parlamentare.md);
 
 Visto il [decreto legislativo 4 giugno 1997, n. 143](Conferimento%20alle%20regioni%20delle%20funzioni%20amministrative%20in%20materia%20di%20agricoltura%20e%20pesca%20e%20riorganizzazione%20dellAmministrazione%20centrale.md), recante conferimento alle regioni delle funzioni amministrative in materia di agricoltura e pesca e riorganizzazione dell'amministrazione centrale;
 
@@ -28,7 +28,7 @@ Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella ri
 
 Acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, ai sensi del [decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md);
 
-Acquisito il parere della Commissione parlamentare di cui all'articolo 5 della citata [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59);
+Acquisito il parere della Commissione parlamentare di cui all'articolo 5 della citata [legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Vista la deliberazione del Consiglio dei Ministri adottata nella riunione del 27 ottobre 1999;
 
@@ -167,7 +167,7 @@ Il regolamento di amministrazione e contabilita', entro il termine di cui al com
 
 4.
 
-Il regolamento del personale e' deliberato, entro il termine di cui al comma 1, dal consiglio di amministrazione e approvato con decreto del Ministro, di concerto con il Ministro per la funzione pubblica e il Ministro del tesoro, del bilancio e della programmazione economica. Il regolamento determina la dotazione organica dell'ente e prevede il rispetto, nelle nuove assunzioni, delle disposizioni dell'[articolo 39 della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_39).
+Il regolamento del personale e' deliberato, entro il termine di cui al comma 1, dal consiglio di amministrazione e approvato con decreto del Ministro, di concerto con il Ministro per la funzione pubblica e il Ministro del tesoro, del bilancio e della programmazione economica. Il regolamento determina la dotazione organica dell'ente e prevede il rispetto, nelle nuove assunzioni, delle disposizioni dell'[articolo 39 della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md).
 
 5.
 
@@ -196,7 +196,7 @@ Nota all'[art. 7:
 
 Note aIl'[art. 8:
  - Il decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), reca: "Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego".
- - Il [decreto legislativo 21 aprile 1993, n. 124](Disciplina%20delle%20forme%20pensionistiche%20complementari%20a%20norma%20dellart.%203%20comma%201%20lettera%20v%20della%20legge%2023%20ottobre%201992%20n.%20421.md), reca: "Disciplina delle forme pensionistiche complementari, a norma dell'[art. 3, comma 1, lettera v), della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_3-com1-letv)".
+ - Il [decreto legislativo 21 aprile 1993, n. 124](Disciplina%20delle%20forme%20pensionistiche%20complementari%20a%20norma%20dellart.%203%20comma%201%20lettera%20v%20della%20legge%2023%20ottobre%201992%20n.%20421.md), reca: "Disciplina delle forme pensionistiche complementari, a norma dell'[art. 3, comma 1, lettera v), della legge 23 ottobre 1992, n. 421](Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)".
 
 ## Art. 9. — Risorse finanziarie
 
@@ -204,7 +204,7 @@ Note aIl'[art. 8:
 
 Le entrate dell'UNIRE sono costituite:
                         a)
-                            dai proventi derivanti dalle disposizioni di cui all'[articolo 3, comma 78, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com78);
+                            dai proventi derivanti dalle disposizioni di cui all'[articolo 3, comma 78, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md);
                         b)
                             dalle rendite del patrimonio;
                         c)
@@ -223,7 +223,7 @@ Le entrate dell'UNIRE sono costituite:
 Il bilancio consuntivo dell'UNIRE e' sottoposto a certificazione, ai sensi degli [articoli 155 e seguenti del decreto legislativo 24 febbraio 1998, n. 58](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20in%20materia%20di%20intermediazione%20finanziaria%20ai%20sensi%20degli%20articoli%208%20e%2021%20della%20legge%206%20febbraio%201996%20n.%2052.md), e successive modificazioni.
 
 Note all'art. 9:
- - Si trascrive il testo del [comma 78 dell'art. 3 della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com78) (Misure di razionalizzazione della finanza pubblica):
+ - Si trascrive il testo del [comma 78 dell'art. 3 della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md) (Misure di razionalizzazione della finanza pubblica):
  "78. Con regolamento di emanare ai sensi dell'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2), entro tre mesi dalla data di entrata in vigore della presente legge, previo parere delle competenti commissioni parlamentari, si provvede al riordino della materia dei giochi e delle scommesse relativi alle corse dei cavalli, per quanto attiene agli aspetti organizzativi, funzionali e fiscali, nonche' al riparto dei relativi proventi. Il regolamento e' ispirato ai seguenti principi:
  a) individuazione dei casi in cui alla organizzazione ed alla gestione dei giochi, secondo criteri di efficienza e di economicita', provvede direttamente l'amministrazione ovvero e' opportuno rivolgersi a terzi;
  b) scelta del terzo concessionario secondo criteri di trasparenza ed in conformita' alle disposizioni, anche comunitarie;

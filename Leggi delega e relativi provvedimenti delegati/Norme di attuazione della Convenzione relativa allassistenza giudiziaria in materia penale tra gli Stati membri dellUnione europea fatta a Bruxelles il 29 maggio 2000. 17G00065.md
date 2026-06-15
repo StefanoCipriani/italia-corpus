@@ -257,7 +257,7 @@ Fuori dei casi previsti dagli [articoli 75 e seguenti del decreto legislativo 22
 La richiesta di consegna e' accolta quando non vi e' dubbio sull'appartenenza delle cose e quando non e' necessario mantenere il sequestro a fini di prova o di confisca.
 
 Note all'[art. 10: 
- - Il decreto legislativo 22 gennaio 2004, n. 42](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ([Codice dei beni culturali e del paesaggio](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[art. 10 della legge 6 luglio 2002, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137#art_10)) e' pubblicato nella Gazzetta Ufficiale 24 febbraio 2004, n. 45, S.O.
+ - Il decreto legislativo 22 gennaio 2004, n. 42](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md) ([Codice dei beni culturali e del paesaggio](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md), ai sensi dell'[art. 10 della legge 6 luglio 2002, n. 137](Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md)) e' pubblicato nella Gazzetta Ufficiale 24 febbraio 2004, n. 45, S.O.
 
 ### Art. 11. — Trasferimento temporaneo in territorio nazionale 
  di persona detenuta

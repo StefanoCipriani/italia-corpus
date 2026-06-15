@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge 6 marzo 1992, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), di conversione, con modificazioni, del [decreto-legge 7 gennaio 1992, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5), ed in particolare l'art. 3;
 
-Vista la [legge 29 aprile 1995, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-29;130);
+Vista la [legge 29 aprile 1995, n. 130](Delega%20al%20Governo%20in%20materia%20di%20procedure%20per%20la%20disciplina%20del%20rapporto%20dimpiego%20e%20per%20il%20riordino%20delle%20carriere%20delle%20attribuzioni%20e%20dei%20trattamenti%20economici%20delle%20Forze%20di%20polizia%20e%20_5f3cd1dee5c8.md);
 
 Acquisiti i pareri degli organismi di rappresentanza del personale militare;
 
@@ -59,7 +59,7 @@ AVVERTENZA:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) regola la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87) conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti.
  - La [legge 6 marzo 1992, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md) reca: "Conversione in legge, con modificazioni, del [decreto-legge 7 gennaio 1992, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1992-01-07;5), recante autorizzazione di spesa per la perequazione del trattamento economico dei sottufficiali dell'Arma dei carabinieri in relazione alla sentenza della Corte costituzionale n. 277 del 3-12 giugno 1991 e all'esecuzione di giudicati, nonche' perequazione dei trattamenti economici relativi al personale delle altre forze di polizia. Delega al Governo per disciplinare i contenuti del rapporto d'impiego delle Forze di polizia e del personale delle Forze armate nonche' per il riordino delle relative carriere, attribuzione e trattamento economici".
- - La [legge 29 aprile 1995, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-29;130) reca: "Delega al Governo in materia di procedure per la disciplina del rapporto d'impiego e per il riordino delle carriere, delle attribuzioni e dei trattamenti economici delle Forze di polizia e delle Forze armate".
+ - La [legge 29 aprile 1995, n. 130](Delega%20al%20Governo%20in%20materia%20di%20procedure%20per%20la%20disciplina%20del%20rapporto%20dimpiego%20e%20per%20il%20riordino%20delle%20carriere%20delle%20attribuzioni%20e%20dei%20trattamenti%20economici%20delle%20Forze%20di%20polizia%20e%20_5f3cd1dee5c8.md) reca: "Delega al Governo in materia di procedure per la disciplina del rapporto d'impiego e per il riordino delle carriere, delle attribuzioni e dei trattamenti economici delle Forze di polizia e delle Forze armate".
 
 ## RUOLO APPUNTATI E FINANZIERI Capo I ORDINAMENTO DEL PERSONALE DEL RUOLO APPUNTATI E FINANZIERI
 
@@ -221,7 +221,7 @@ Per il reclutamento degli allievi finanzieri da destinare ai gruppi sportivi in 
 
 2.
 
-Possono inoltre essere ammessi al corso per la promozione a finanziere, nell'ambito delle vacanze disponibili, il coniuge ed i figli superstiti, nonche' i fratelli o le sorelle del personale delle Forze di' polizia, deceduto o reso permanentemente invalido al servizio, con invalidita' non inferiore all'ottanta per cento della capacita' lavorativa, in conseguenza delle azioni criminose di cui all'[articolo 82, comma 1, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_82-com1) ed alle leggi ivi richiamate ovvero per effetto di ferite o lesioni riportate nell'espletamento di servizi di polizia o di soccorso pubblico, i quali ne facciano richiesta, purche' siano in possesso dei requisiti di cui al comma 1.
+Possono inoltre essere ammessi al corso per la promozione a finanziere, nell'ambito delle vacanze disponibili, il coniuge ed i figli superstiti, nonche' i fratelli o le sorelle del personale delle Forze di' polizia, deceduto o reso permanentemente invalido al servizio, con invalidita' non inferiore all'ottanta per cento della capacita' lavorativa, in conseguenza delle azioni criminose di cui all'[articolo 82, comma 1, della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) ed alle leggi ivi richiamate ovvero per effetto di ferite o lesioni riportate nell'espletamento di servizi di polizia o di soccorso pubblico, i quali ne facciano richiesta, purche' siano in possesso dei requisiti di cui al comma 1.
 
 3.
 
@@ -2320,7 +2320,7 @@ La disposizione di cui al comma 1 si applica anche nei confronti del personale c
 
 3.
 
-La previsione di cui al comma 2 non si applica nei confronti di coloro che, ai sensi dell'[articolo 14, comma 5, della legge 28 luglio 1999, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-07-28;266#art_14-com5), hanno ottenuto il transito nelle qualifiche funzionali del personale civile del Ministero delle Finanze.
+La previsione di cui al comma 2 non si applica nei confronti di coloro che, ai sensi dell'[articolo 14, comma 5, della legge 28 luglio 1999, n. 266](Delega%20al%20Governo%20per%20il%20riordino%20delle%20carriere%20diplomatica%20e%20prefettizia%20nonche%20disposizioni%20per%20il%20restante%20personale%20del%20Ministero%20degli%20affari%20esteri%20per%20il%20personale%20militare%20del%20Mi_e5eff0d6dddc.md), hanno ottenuto il transito nelle qualifiche funzionali del personale civile del Ministero delle Finanze.
 
 4.
 
@@ -3054,10 +3054,10 @@ Capo V
 
 1.
 
-All'onere derivante dall'applicazione del presente decreto si provvede ai sensi dell'[art. 1 della legge 29 aprile 1995, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-29;130#art_1).
+All'onere derivante dall'applicazione del presente decreto si provvede ai sensi dell'[art. 1 della legge 29 aprile 1995, n. 130](Delega%20al%20Governo%20in%20materia%20di%20procedure%20per%20la%20disciplina%20del%20rapporto%20dimpiego%20e%20per%20il%20riordino%20delle%20carriere%20delle%20attribuzioni%20e%20dei%20trattamenti%20economici%20delle%20Forze%20di%20polizia%20e%20_5f3cd1dee5c8.md).
 
-Nota all'[art. 82](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-29;130#art_82):
- - L'[art. 1 della legge 29 aprile 1995, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-04-29;130#art_1) (Delega al Governo in materia di procedure per la disciplina del rapporto d'impiego e per il riordino delle carriere, delle attribuzioni e dei trattamenti economici delle Forze di polizia e delle Forze armate), reca:
+Nota all'[art. 82](Delega%20al%20Governo%20in%20materia%20di%20procedure%20per%20la%20disciplina%20del%20rapporto%20dimpiego%20e%20per%20il%20riordino%20delle%20carriere%20delle%20attribuzioni%20e%20dei%20trattamenti%20economici%20delle%20Forze%20di%20polizia%20e%20_5f3cd1dee5c8.md):
+ - L'[art. 1 della legge 29 aprile 1995, n. 130](Delega%20al%20Governo%20in%20materia%20di%20procedure%20per%20la%20disciplina%20del%20rapporto%20dimpiego%20e%20per%20il%20riordino%20delle%20carriere%20delle%20attribuzioni%20e%20dei%20trattamenti%20economici%20delle%20Forze%20di%20polizia%20e%20_5f3cd1dee5c8.md) (Delega al Governo in materia di procedure per la disciplina del rapporto d'impiego e per il riordino delle carriere, delle attribuzioni e dei trattamenti economici delle Forze di polizia e delle Forze armate), reca:
  "Art. 1. - 1. I decreti legislativi di cui agli [articoli 2](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md) e [3 della legge 6 marzo 1992, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), sono adottati entro il 15 maggio 1995.
  2. Restano salvi gli affetti prodottisi e gli atti compiuti in applicazione delle disposizioni richiamate al comma 1 e dei successivi decreti-legge di proroga.
  3. Gli effetti giuridici ed economici del decreto legislativo di cui all'[art. 3 della legge 6 marzo 1992, n. 216](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20gennaio%201992%20n.%205%20recante%20autorizzazione%20di%20spesa%20per%20la%20perequazione%20del%20trattamento%20economico%20dei%20sottufficiali%20dellArma%20dei%20c_54831fc6293c.md), decorrono dalla data del 1 settembre 1995.

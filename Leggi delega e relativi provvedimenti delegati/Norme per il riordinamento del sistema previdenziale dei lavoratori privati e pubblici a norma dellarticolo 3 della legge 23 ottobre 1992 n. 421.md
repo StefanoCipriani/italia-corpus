@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 3 della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_3);
+Visto l'[articolo 3 della legge 23 ottobre 1992, n. 421](Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 17 novembre 1992;
 
@@ -36,13 +36,13 @@ Il diritto alla pensione di vecchiaia a carico dell'assicurazione generale obbli
 
 2.
 
-Il limite di eta' previsto per l'applicazione delle disposizioni contenute nell'[articolo 6 della legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407#art_6), e' elevato fino al compimento del 65 anno; gli assicurati che alla data di entrata in vigore del presente decreto prestano ancora attivita' lavorativa, pur avendo maturato i requisiti per aver diritto alla pensione di vecchiaia, sono esonerati dall'obbligo della comunicazione di cui al richiamato articolo 6, comma 2; sono altresi' esonerati dall'anzidetto obbligo gli assicurati che maturino i requisiti previsti entro sei mesi successivi alla data di entrata in vigore del presente decreto, fermo restando l'obbligo per gli assicurati stessi di effettuare la comunicazione sopra considerata non oltre la data in cui i predetti requisiti sono maturati. ((10))
+Il limite di eta' previsto per l'applicazione delle disposizioni contenute nell'[articolo 6 della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md), e' elevato fino al compimento del 65 anno; gli assicurati che alla data di entrata in vigore del presente decreto prestano ancora attivita' lavorativa, pur avendo maturato i requisiti per aver diritto alla pensione di vecchiaia, sono esonerati dall'obbligo della comunicazione di cui al richiamato articolo 6, comma 2; sono altresi' esonerati dall'anzidetto obbligo gli assicurati che maturino i requisiti previsti entro sei mesi successivi alla data di entrata in vigore del presente decreto, fermo restando l'obbligo per gli assicurati stessi di effettuare la comunicazione sopra considerata non oltre la data in cui i predetti requisiti sono maturati. ((10))
 
 3.
 
 La percentuale annua di commisurazione della pensione per ogni anno di anzianita' contributiva acquisita per effetto di opzione esercitata ai sensi dell'[articolo 4 della legge 9 dicembre 1977, n. 903](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-12-09;903#art_4), e dell'[articolo 6 del decreto-legge 22 dicembre 1981, n. 791](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-12-22;791#art_6), convertito con modificazioni dalla [legge 26 febbraio 1982, n. 54](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20dicembre%201981%20n.%20791%20recante%20disposizioni%20in%20materia%20previdenziale.md), ai fini della permanenza in servizio oltre le eta' di cui al comma 1, e' 
 incrementata di un punto percentuale fino al compimento del 60 anno di eta' per le donne e 65 per gli uomini e di mezzo punto 
-percentuale negli altri casi, anche in deroga all'[articolo 11, comma 2, della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_11-com2). Gli incentivi indicati sono attribuiti, comunque, fino al raggiungimento dell'anzianita' contributiva massima utile. Per gli anni successivi viene riconosciuta la maggiorazione della pensione di cui al [comma 6 dell'articolo 6 della legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407#art_6-com6).
+percentuale negli altri casi, anche in deroga all'[articolo 11, comma 2, della legge 30 aprile 1969, n. 153](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1969-04-30;153#art_11-com2). Gli incentivi indicati sono attribuiti, comunque, fino al raggiungimento dell'anzianita' contributiva massima utile. Per gli anni successivi viene riconosciuta la maggiorazione della pensione di cui al [comma 6 dell'articolo 6 della legge 29 dicembre 1990, n. 407](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md).
 
 4.
 
@@ -68,7 +68,7 @@ L'elevazione dei limiti di eta' di cui al comma 1 non si applica agli invalidi i
 
  
 AGGIORNAMENTO (10) 
- La Corte costituzionale, con sentenza 5-6 maggio 1997, n. 117 (in G.U. 1a s.s. 14.05.1997, n. 20) ha dichiarato "l'illegittimita' costituzionale dell'art. 1, comma 2, ultima proposizione, del [d.lgs. 30 dicembre 1992, n. 503](../Decreti%20Legislativi/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md) (Norme per il riordinamento del sistema previdenziale dei lavoratori privati e pubblici, a norma dell'[art. 3 della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_3)), nella parte in cui non prevede che il termine per l'esercizio della facolta' di opzione non possa comunque scadere prima che siano trascorsi sei mesi dalla data di entrata in vigore del decreto legislativo medesimo".
+ La Corte costituzionale, con sentenza 5-6 maggio 1997, n. 117 (in G.U. 1a s.s. 14.05.1997, n. 20) ha dichiarato "l'illegittimita' costituzionale dell'art. 1, comma 2, ultima proposizione, del [d.lgs. 30 dicembre 1992, n. 503](../Decreti%20Legislativi/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md) (Norme per il riordinamento del sistema previdenziale dei lavoratori privati e pubblici, a norma dell'[art. 3 della legge 23 ottobre 1992, n. 421](Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md)), nella parte in cui non prevede che il termine per l'esercizio della facolta' di opzione non possa comunque scadere prima che siano trascorsi sei mesi dalla data di entrata in vigore del decreto legislativo medesimo".
 
 ### Art. 2. — Requisiti assicurativi e contributivi per il pensionamento di vecchiaia
 
@@ -340,23 +340,23 @@ Ai lavoratori, che alla data del 31 dicembre 1994 sono titolari di pensione, ovv
 
 1.
 
-Gli aumenti a titolo di perequazione automatica delle pensioni previdenziali ed assistenziali si applicano, con decorrenza dal 1994, sulla base del solo adeguamento al costo vita con cadenza annuale ed effetto dal primo novembre di ogni anno, Tali aumenti sono calcolati applicando all'importo della pensione spettante alla fine di ciascun periodo la percentuale di variazione che si determina rapportando il valore medio dell'indice ISTAT dei prezzi al consumo per famiglie di operai ed impiegati, relativo all'anno precedente il mese di decorrenza dell'aumento, all'analogo valore medio relativo all'anno precedente . Si applicano i criteri e le modalita' di cui ai [commi 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_24-com4) e [5 dell'articolo 24 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_24-com5). ((7))
+Gli aumenti a titolo di perequazione automatica delle pensioni previdenziali ed assistenziali si applicano, con decorrenza dal 1994, sulla base del solo adeguamento al costo vita con cadenza annuale ed effetto dal primo novembre di ogni anno, Tali aumenti sono calcolati applicando all'importo della pensione spettante alla fine di ciascun periodo la percentuale di variazione che si determina rapportando il valore medio dell'indice ISTAT dei prezzi al consumo per famiglie di operai ed impiegati, relativo all'anno precedente il mese di decorrenza dell'aumento, all'analogo valore medio relativo all'anno precedente . Si applicano i criteri e le modalita' di cui ai [commi 4](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md) e [5 dell'articolo 24 della legge 28 febbraio 1986, n. 41](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md). ((7))
 
 2.
 
-Ulteriori aumenti possono essere stabiliti con legge finanziaria in relazione all'andamento dell'economia e tenuto conto degli obiettivi rispetto al PIL indicati nell'[articolo 3, comma 1, della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_3-com1), sentite le organizzazioni sindacali maggiormente rappresentative sul piano nazionale.(( Con effetto dal 1 gennaio 2009 i predetti aumenti saranno stabiliti nel limite di un punto percentuale della base imponibile a valere sulle fasce di pensione fino a lire dieci milioni annui )). 
+Ulteriori aumenti possono essere stabiliti con legge finanziaria in relazione all'andamento dell'economia e tenuto conto degli obiettivi rispetto al PIL indicati nell'[articolo 3, comma 1, della legge 23 ottobre 1992, n. 421](Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md), sentite le organizzazioni sindacali maggiormente rappresentative sul piano nazionale.(( Con effetto dal 1 gennaio 2009 i predetti aumenti saranno stabiliti nel limite di un punto percentuale della base imponibile a valere sulle fasce di pensione fino a lire dieci milioni annui )). 
  
 -------------
 
  
 AGGIORNAMENTO (7) 
- La [L. 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724) ha disposto (con l'art. 14, comma 1) che "Con effetto dal 1995 il termine stabilito, ai fini della perequazione automatica delle pensioni, dall'[articolo 11, comma 1, del decreto legislativo 30 dicembre 1992, n. 503](../Decreti%20Legislativi/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, e' differito al 1 gennaio successivo di ogni anno.
+ La [L. 23 dicembre 1994, n. 724](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md) ha disposto (con l'art. 14, comma 1) che "Con effetto dal 1995 il termine stabilito, ai fini della perequazione automatica delle pensioni, dall'[articolo 11, comma 1, del decreto legislativo 30 dicembre 1992, n. 503](../Decreti%20Legislativi/Norme%20per%20il%20riordinamento%20del%20sistema%20previdenziale%20dei%20lavoratori%20privati%20e%20pubblici%20a%20norma%20dellarticolo%203%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni ed integrazioni, e' differito al 1 gennaio successivo di ogni anno.
 
 ### Art. 12. — Aliquote di rendimento
 
 1.
 
-La tabella di cui all'[articolo 21, comma 6, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_21-com6), e' cosi' modificata: 
+La tabella di cui all'[articolo 21, comma 6, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), e' cosi' modificata: 
  
 
  Quote di pensione
@@ -403,7 +403,7 @@ COMMA ABROGATO DAL [D.LGS. 26 MARZO 2001, N. 151](../Decreti%20Legislativi/Testo
 
 AGGIORNAMENTO (26)
 
-La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208), ha disposto (con l'art. 1, comma 298) che "La conseguente cumulabilita' opera anche con riferimento a periodi antecedenti alla data di entrata in vigore della presente legge".
+La [L. 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), ha disposto (con l'art. 1, comma 298) che "La conseguente cumulabilita' opera anche con riferimento a periodi antecedenti alla data di entrata in vigore della presente legge".
 
 ### Art. 15. — Accredito dei contributi figurativi
 

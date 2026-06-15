@@ -429,7 +429,7 @@ La violazione degli obblighi di comunicazione di cui all'articolo 10, comma 1, e
 
 2.
 
-All'[articolo 1, comma 651, della legge 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208#art_1-com651), dopo il primo periodo e' inserito il seguente: "Tale esonero e' riconosciuto entro i limiti e secondo le disposizioni del regolamento (UE) n. 1407/ 2013 della Commissione, del 18 dicembre 2013". 
+All'[articolo 1, comma 651, della legge 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md), dopo il primo periodo e' inserito il seguente: "Tale esonero e' riconosciuto entro i limiti e secondo le disposizioni del regolamento (UE) n. 1407/ 2013 della Commissione, del 18 dicembre 2013". 
  2. La violazione degli obblighi di cui all'articolo 10, comma 3, lettera a), e' punita con la sanzione amministrativa pecuniaria da 500 a 3.000 euro per ogni lavoratore interessato.
 
 3.
@@ -454,7 +454,7 @@ In ogni caso, le sanzioni di cui ai commi 1, 2 e 3-ter non possono essere superi
 
 AGGIORNAMENTO (2)
 
-La [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145) ha disposto (con l'art. 1, comma 445, lettera d)) che "gli importi delle seguenti sanzioni in materia di lavoro e legislazione sociale sono aumentati nella misura di seguito indicata: 
+La [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md) ha disposto (con l'art. 1, comma 445, lettera d)) che "gli importi delle seguenti sanzioni in materia di lavoro e legislazione sociale sono aumentati nella misura di seguito indicata: 
  1) del 20 per cento per quanto riguarda gli importi dovuti per la violazione delle disposizioni di cui [...] all'[articolo 12 del decreto legislativo 17 luglio 2016, n. 136](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202014-67-UE%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2015%20maggio%202014%20concernente%20lapplicazione%20della%20direttiva%2096-71-CE%20relativa%20al%20distacco%20dei%20lavoratori%20nell_eacb73182ba0.md)".
 
 ## Disposizioni specifiche per le prestazioni transnazionali   di servizi di trasporto su strada))

@@ -12,13 +12,13 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visti gli [articoli 11, comma 1, lettera a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11-com1-leta), e l'[articolo 12, comma 1, lettere s)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_12-com1-lets) e [t), della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_12-com1-lett);
+Visti gli [articoli 11, comma 1, lettera a)](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e l'[articolo 12, comma 1, lettere s)](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e [t), della legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Visto il [decreto legislativo 3 febbraio 1993, n. 29](Razionalizzazione%20della%20organizzazione%20delle%20Amministrazioni%20pubbliche%20e%20revisione%20della%20disciplina%20in%20materia%20di%20pubblico%20impiego%20a%20norma%20dellarticolo%202%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modifiche ed integrazioni;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 9 giugno 1999;
 
-Acquisito il parere della commissione bicamerale consultiva in ordine all'attuazione della riforma amministrativa ai sensi della [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59);
+Acquisito il parere della commissione bicamerale consultiva in ordine all'attuazione della riforma amministrativa ai sensi della [legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 luglio 1999;
 

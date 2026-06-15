@@ -704,7 +704,7 @@ Conseguentemente le aliquote di accisa sulle benzine e sul gasolio impiegato com
 
 2.
 
-COMMA ABROGATO DALLA [L. 30 DICEMBRE 2025, N. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199).
+COMMA ABROGATO DALLA [L. 30 DICEMBRE 2025, N. 199](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202026%20e%20bilancio%20pluriennale%20per%20il%20triennio%202026-2028.%2025G00212.md).
 
 3.
 
@@ -885,7 +885,7 @@ A decorrere dal 1° gennaio 2026 sono abrogati:
                         a)
                             l'[articolo 51, comma 6, del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_51-com6), convertito, con modificazioni, dalla [legge 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md);
                         b)
-                            l'[articolo 1, comma 435, della legge 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207#art_1-com435).
+                            l'[articolo 1, comma 435, della legge 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md).
 
 Note all'art. 9: 
  Si riporta l'[art. 51 del decreto-legge 31 maggio 2010, n. 78](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-05-31;78#art_51), recante: «Misure urgenti in materia di stabilizzazione finanziaria e di competitivita' economica», pubblicato nella Gazzetta Ufficiale n. 125 del 31 maggio 2010, convertito con modificazioni dalla [L. 30 luglio 2010, n. 122](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20maggio%202010%20n.%2078%20recante%20misure%20urgenti%20in%20materia%20di%20stabilizzazione%20finanziaria%20e%20di%20competitivita%20economica.%2010G0146.md), come modificato dal presente decreto a decorrere dal 1° gennaio 2026: 
@@ -899,7 +899,7 @@ Note all'art. 9:
  5. Gli impianti aventi i requisiti previsti dal presente articolo, non necessitano, in ogni caso, di autorizzazione in materia di prevenzione incendi. E' fatta salva la possibilita' da parte dell'autorita' competente per la prevenzione incendi, di effettuare controlli, anche a campione, ed emettere prescrizioni. La mancata esibizione della dichiarazione di conformita' dell'impianto, in occasione dei controlli, comporta l'applicazione delle sanzioni, in relazione alla tipologia di attivita' in cui viene accertata la violazione, previste dal decreto adottato ai sensi dell'[art. 11-quaterdecies, comma 13, lettera a), del decreto-legge 30 settembre 2005, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-09-30;203#art_11quaterdecies-com13-leta), convertito, con modificazioni, dalla [legge 2 dicembre 2005, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202005%20n.%20203%20recante%20misure%20di%20contrasto%20allevasione%20fiscale%20e%20disposizioni%20urgenti%20in%20materia%20tributaria%20e%20finanziaria.md) e del [decreto legislativo 19 dicembre 1994, n. 758](Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md). 
  6. (abrogato) 
  7. Al [comma 3 dell'articolo 2 del decreto-legge 25 marzo 2010, n. 40](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2010-03-25;40#art_2-com3), convertito, con modificazioni, dalla [legge 22 maggio 2010, n. 73](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20marzo%202010%20n.%2040%20recante%20disposizioni%20urgenti%20tributarie%20e%20finanziarie%20in%20materia%20di%20contrasto%20alle%20frodi%20fiscali%20internazional_2b4ba0e3e0c4.md), le parole: "entro e non oltre il termine di sessanta giorni decorrenti dalla data di entrata in vigore del presente decreto" sono sostituite dalle seguenti: "entro e non oltre il 31 dicembre 2010".». 
- - La [legge 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207) recante: «Bilancio di previsione dello Stato per l'anno finanziario 2025 e bilancio pluriennale per il triennio 2025-2027» e' pubblicata nella Gazzetta Ufficiale n. 305 del 31 dicembre 2024.
+ - La [legge 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md) recante: «Bilancio di previsione dello Stato per l'anno finanziario 2025 e bilancio pluriennale per il triennio 2025-2027» e' pubblicata nella Gazzetta Ufficiale n. 305 del 31 dicembre 2024.
 
 ## Art. 10. — Disposizioni finanziarie
 

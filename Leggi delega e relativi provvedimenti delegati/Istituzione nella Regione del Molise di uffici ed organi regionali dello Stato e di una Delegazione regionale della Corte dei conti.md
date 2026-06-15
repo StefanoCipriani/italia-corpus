@@ -33,13 +33,13 @@ Sono istituite, con sede in Campobasso, la Ragioneria regionale dello Stato per 
 
 AGGIORNAMENTO (1)
 
-Il [D. Lgs. 5 dicembre 1997, n. 430](Unificazione%20dei%20Ministeri%20del%20tesoro%20e%20del%20bilancio%20e%20della%20programmazione%20economica%20e%20riordino%20delle%20competenze%20del%20CIPE%20a%20norma%20dellarticolo%207%20della%20legge%203%20aprile%201997%20n.%2094.md) ha disposto (con l'art. 14, comma 1, lettera f)) che e' abrogato l'[articolo 3 della legge 13 luglio 1965, n. 883](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;883#art_3), limitatamente all'istituzione della ragioneria regionale dello Stato con sede in Campobasso.
+Il [D. Lgs. 5 dicembre 1997, n. 430](Unificazione%20dei%20Ministeri%20del%20tesoro%20e%20del%20bilancio%20e%20della%20programmazione%20economica%20e%20riordino%20delle%20competenze%20del%20CIPE%20a%20norma%20dellarticolo%207%20della%20legge%203%20aprile%201997%20n.%2094.md) ha disposto (con l'art. 14, comma 1, lettera f)) che e' abrogato l'[articolo 3 della legge 13 luglio 1965, n. 883](Istituzione%20nella%20Regione%20del%20Molise%20di%20uffici%20ed%20organi%20regionali%20dello%20Stato%20e%20di%20una%20Delegazione%20regionale%20della%20Corte%20dei%20conti.md), limitatamente all'istituzione della ragioneria regionale dello Stato con sede in Campobasso.
 
 ------------------
 
 AGGIORNAMENTO (2)
 
-Il [D.P.R. 20 febbraio 1998, n. 38](../DPR/Regolamento%20recante%20le%20attribuzioni%20dei%20Dipartimenti%20del%20Ministero%20del%20tesoro%20del%20bilancio%20e%20della%20programmazione%20economica%20nonche%20disposizioni%20in%20materia%20di%20organizzazione%20e%20di%20personale_614cbf00a83e.md) ha confermato (con l'art. 15, comma 1, lettera g)) l'abrogazione dell'[art. 3 della legge 13 luglio 1965, n. 883](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-07-13;883#art_3), limitatamente all'istituzione della ragioneria regionale dello Stato con sede in Campobasso.
+Il [D.P.R. 20 febbraio 1998, n. 38](../DPR/Regolamento%20recante%20le%20attribuzioni%20dei%20Dipartimenti%20del%20Ministero%20del%20tesoro%20del%20bilancio%20e%20della%20programmazione%20economica%20nonche%20disposizioni%20in%20materia%20di%20organizzazione%20e%20di%20personale_614cbf00a83e.md) ha confermato (con l'art. 15, comma 1, lettera g)) l'abrogazione dell'[art. 3 della legge 13 luglio 1965, n. 883](Istituzione%20nella%20Regione%20del%20Molise%20di%20uffici%20ed%20organi%20regionali%20dello%20Stato%20e%20di%20una%20Delegazione%20regionale%20della%20Corte%20dei%20conti.md), limitatamente all'istituzione della ragioneria regionale dello Stato con sede in Campobasso.
 
 ## Art. 4.
 

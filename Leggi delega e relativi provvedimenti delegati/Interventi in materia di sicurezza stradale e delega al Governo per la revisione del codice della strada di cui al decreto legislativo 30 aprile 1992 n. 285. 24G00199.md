@@ -656,7 +656,7 @@ Titolo II
 
 1.
 
-All'[articolo 1 della legge 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160#art_1), sono apportate le seguenti modificazioni:
+All'[articolo 1 della legge 27 dicembre 2019, n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), sono apportate le seguenti modificazioni:
                             a)
                                 al comma 75, la lettera a) e' sostituita dalla seguente: 
  «a) le caratteristiche tecnico-costruttive definite con decreto del Ministero delle infrastrutture e dei trasporti»;
@@ -692,7 +692,7 @@ Chiunque circola con un monopattino a propulsione prevalentemente elettrica viol
 Chiunque circola con un dispositivo di micromobilita' elettrica, diverso dai monopattini, avente caratteristiche tecniche e costruttive non conformi a quelle definite con apposito decreto del Ministro delle infrastrutture e dei trasporti, ovvero fuori dell'ambito territoriale della sperimentazione di cui al medesimo decreto, e' soggetto alla sanzione amministrativa del pagamento di una somma da euro 200 a euro 800. Alla violazione consegue la sanzione amministrativa accessoria della confisca del dispositivo, ai sensi del titolo VI, capo I, sezione II, del [codice della strada](Nuovo%20codice%20della%20strada.md), di cui al [decreto legislativo 30 aprile 1992, n. 285](Nuovo%20codice%20della%20strada.md), quando il dispositivo ha un motore termico o un motore elettrico avente potenza nominale continua superiore a 1 kW.
 
 Note all'art. 14: 
- - Si riporta il testo dei commi 75, 75-ter, 75-quater, 75-quinquies, 75-novies, 75-undecies, 75-terdecies, 75-quinquiesdecies, 75-undevicies, 75-vicies bis, 75-vicies quater, 75-vicies quinquies della [legge 27 dicembre 2019 n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160) recante: "Bilancio di previsione dello Stato per l'anno finanziario 2020 e bilancio pluriennale per il triennio 2020-2022", pubblicata nella Gazzetta Ufficiale n. 304 del 30 dicembre 2019, S.O., n. 45, come modificato dalla presente legge: 
+ - Si riporta il testo dei commi 75, 75-ter, 75-quater, 75-quinquies, 75-novies, 75-undecies, 75-terdecies, 75-quinquiesdecies, 75-undevicies, 75-vicies bis, 75-vicies quater, 75-vicies quinquies della [legge 27 dicembre 2019 n. 160](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md) recante: "Bilancio di previsione dello Stato per l'anno finanziario 2020 e bilancio pluriennale per il triennio 2020-2022", pubblicata nella Gazzetta Ufficiale n. 304 del 30 dicembre 2019, S.O., n. 45, come modificato dalla presente legge: 
  «75. I monopattini a propulsione prevalentemente elettrica possiedono i seguenti requisiti: 
  a) le caratteristiche tecnico-costruttive definite con decreto del Ministero delle infrastrutture e dei trasporti; 
  b) assenza di posti a sedere; 

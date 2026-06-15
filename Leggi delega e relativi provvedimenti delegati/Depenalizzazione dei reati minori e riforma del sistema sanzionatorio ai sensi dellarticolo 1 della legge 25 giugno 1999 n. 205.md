@@ -1495,7 +1495,7 @@ Per i ministeri l'individuazione ha luogo con decreto del Ministro adottato entr
 
 1.
 
-Per le funzioni ed i compiti conferiti dai decreti legislativi emanati in attuazione della [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), la competenza ad applicare le sanzioni amministrative per le violazioni depenalizzate dal presente decreto legislativo spetta alle regioni ed agli enti locali a decorrere dalla data di effettivo trasferimento delle risorse a norma dell'articolo 7 della medesima [legge n. 59 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997;59).
+Per le funzioni ed i compiti conferiti dai decreti legislativi emanati in attuazione della [legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), la competenza ad applicare le sanzioni amministrative per le violazioni depenalizzate dal presente decreto legislativo spetta alle regioni ed agli enti locali a decorrere dalla data di effettivo trasferimento delle risorse a norma dell'articolo 7 della medesima [legge n. 59 del 1997](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997;59).
 
 2.
 

@@ -16,7 +16,7 @@ Vista la [legge 9 agosto 2023, n. 111](../Leggi%20contenenti%20deleghe/Delega%20
 
 Visti, in particolare, gli articoli 4, comma 1, lettera h) e 19 comma 1, lettere da a) a h) recanti principi e criteri direttivi, rispettivamente, in materia di autotutela e di revisione della disciplina del contenzioso tributario;
 
-Visto il [decreto legislativo 31 dicembre 1992, n. 546](Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md), recante «Disposizioni sul processo tributario in attuazione della delega al Governo contenuta nell'[articolo 30 della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_30)»;
+Visto il [decreto legislativo 31 dicembre 1992, n. 546](Disposizioni%20sul%20processo%20tributario%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20dicembre%201991%20n.%20413.md), recante «Disposizioni sul processo tributario in attuazione della delega al Governo contenuta nell'[articolo 30 della legge 30 dicembre 1991, n. 413](Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md)»;
 
 Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 16 novembre 2023;
 

@@ -22,7 +22,7 @@ Vista la [legge 13 agosto 1980, n. 462](../Atti%20normativi%20abrogati%20%28in%2
 
 Vista la [legge 27 ottobre 1988, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-27;470);
 
-Vista la [legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662);
+Vista la [legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md);
 
 Vista la [legge 25 agosto 1982, n. 604](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20disciplina%20sulla%20destinazione%20del%20personale%20di%20ruolo%20dello%20Stato%20alle%20istituzioni%20scolastiche%20e%20culturali%20italiane%20funzionanti%20allestero%20nonche%20ai%20connessi%20servizi%20del%20Min_ec5940a07994.md);
 
@@ -130,7 +130,7 @@ e) condanna passata in giudicato per reati che comportino, in Italia, l'interdiz
 Avvertenza:
  Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
 Nota al titolo:
- - La [legge 28 luglio 1999, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-07-28;266), reca: "Delega al Governo per il riordino delle carriere diplomatica e prefettizia, nonche' disposizioni per il restante personale del Ministero degli affari esteri, per il personale militare del Ministero della difesa, per il personale dell'amministrazione penitenziaria e per il personale del Consiglio superiore della magistratura". Si riporta il testo dell'art. 4 della succitata legge:
+ - La [legge 28 luglio 1999, n. 266](Delega%20al%20Governo%20per%20il%20riordino%20delle%20carriere%20diplomatica%20e%20prefettizia%20nonche%20disposizioni%20per%20il%20restante%20personale%20del%20Ministero%20degli%20affari%20esteri%20per%20il%20personale%20militare%20del%20Mi_e5eff0d6dddc.md), reca: "Delega al Governo per il riordino delle carriere diplomatica e prefettizia, nonche' disposizioni per il restante personale del Ministero degli affari esteri, per il personale militare del Ministero della difesa, per il personale dell'amministrazione penitenziaria e per il personale del Consiglio superiore della magistratura". Si riporta il testo dell'art. 4 della succitata legge:
  Art. 4 (Personale assunto localmente dalle rappresentanze diplomatiche, dagli uffici consolari e dagli istituti italiani di cultura all'estero). - 1. Il Governo e' delegato ad emanare, entro nove mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi in materia di personale assunto localmente dalle rappresentanze diplomatiche, dagli uffici consolari e, ai sensi dell'[art. 17, comma 1, della legge 22 dicembre 1990, n. 401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-22;401#art_17-com1), dagli istituti italiani di cultura all'estero. Nell'esercizio della delega verranno osservati i seguenti principi e criteri direttivi, tenuto conto della contrattazione collettiva esistente in materia, senza determinare maggiori oneri a carico del bilancio dello Stato:
  a) revisione delle disposizioni di cui ai titolo VI del [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), e successive modificazioni;
  b) semplificazione e omogeneizzazione dei differenti regimi esistenti;
@@ -154,12 +154,12 @@ Note alle premesse:
  Presiede il Consiglio superiore della magistratura.
  Puo' concedere grazia e commutare le pene.
  Conferisce le onorificenze della Repubblica".
- - Per la [legge 28 luglio 1999, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-07-28;266), si veda in nota al titolo.
+ - Per la [legge 28 luglio 1999, n. 266](Delega%20al%20Governo%20per%20il%20riordino%20delle%20carriere%20diplomatica%20e%20prefettizia%20nonche%20disposizioni%20per%20il%20restante%20personale%20del%20Ministero%20degli%20affari%20esteri%20per%20il%20personale%20militare%20del%20Mi_e5eff0d6dddc.md), si veda in nota al titolo.
  - Il [decreto del Presidente della Repubblica 5 gennaio 1967, n. 18](../DPR/Ordinamento%20dellAmministrazione%20degli%20affari%20esteri.md), reca: "Ordinamento dell'amministrazione degli affari esteri".
  - Il [decreto del Presidente della Repubblica 31 luglio 1980, n. 618](../DPR/Assistenza%20sanitaria%20ai%20cittadini%20italiani%20allestero%20art.%2037%20primo%20comma%20lettere%20a%20e%20b%20della%20legge%20n.%20833%20del%201978.md), reca: "Assistenza sanitaria ai cittadini italiani all'estero ([art. 37, primo comma, lettere a)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;833#art_37-com1-leta) e [b) della legge n. 833 del 1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978;833#art_37-com1-letb))".
  - La [legge 13 agosto 1980, n. 462](../Atti%20normativi%20abrogati%20%28in%20originale%29/Assunzione%20di%20impiegati%20a%20contratto%20per%20le%20esigenze%20delle%20rappresentanze%20diplomatiche%20e%20degli%20uffici%20consolari.md), reca: "Assunzione di impiegati a contratto per le esigenze delle rappresentanze diplomatiche e degli uffici consolari".
  - La [legge 27 ottobre 1988, n. 470](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-10-27;470), reca: "Anagrafe e censimento degli italiani all'estero".
- - La [legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662), reca: "Misure di razionalizzazione della finanza pubblica".
+ - La [legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), reca: "Misure di razionalizzazione della finanza pubblica".
  - La [legge 25 agosto 1982, n. 604](../Atti%20normativi%20abrogati%20%28in%20originale%29/Revisione%20della%20disciplina%20sulla%20destinazione%20del%20personale%20di%20ruolo%20dello%20Stato%20alle%20istituzioni%20scolastiche%20e%20culturali%20italiane%20funzionanti%20allestero%20nonche%20ai%20connessi%20servizi%20del%20Min_ec5940a07994.md), reca: "Revisione della disciplina sulla destinazione del personale di ruolo dello Stato alle istituzioni scolastiche e culturali italiane funzionanti all'estero nonche' ai connessi servizi del Ministero degli affari esteri".
  - La [legge 22 dicembre 1990, n. 401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-22;401), reca: "Riforma degli Istituti italiani di cultura e interventi per la promozione della cultura e della lingua italiana all'estero".
 Note all'art. 1:
@@ -228,7 +228,7 @@ Fatta eccezione per i contratti stipulati ai sensi del comma 4, sono altresi' fa
 
 AGGIORNAMENTO (2)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 1, comma 271) che la presente modifica decorre dal 1 aprile 2018.
+La [L. 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 1, comma 271) che la presente modifica decorre dal 1 aprile 2018.
 
 ## Art. 3.
 
@@ -246,7 +246,7 @@ Sono abrogate le seguenti disposizioni:
                         e)
                             l'[articolo 17, comma 1, della legge 22 dicembre 1990, n. 401](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-22;401#art_17-com1);
                         f)
-                            l'[articolo 1, comma 132, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_1-com132), limitatamente alle parole: "fatti salvi i rapporti contrattuali in atto", e comma 133.
+                            l'[articolo 1, comma 132, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), limitatamente alle parole: "fatti salvi i rapporti contrattuali in atto", e comma 133.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

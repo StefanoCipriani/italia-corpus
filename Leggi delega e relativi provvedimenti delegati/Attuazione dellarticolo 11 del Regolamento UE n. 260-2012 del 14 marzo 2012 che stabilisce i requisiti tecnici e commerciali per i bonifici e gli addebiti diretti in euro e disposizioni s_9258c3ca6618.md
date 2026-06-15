@@ -28,7 +28,7 @@ Visto il [decreto legislativo 27 gennaio 2010, n. 11](../Decreti%20Legislativi/A
 
 Visto il [decreto legislativo 21 gennaio 2011, n. 3](../Decreti%20Legislativi/Disposizioni%20sanzionatorie%20per%20le%20violazioni%20del%20regolamento%20UE%202021-1230%20relativo%20ai%20pagamenti%20transfrontalieri%20nellUnione.%2011G0037.md), recante disposizioni sanzionatorie per le violazioni del regolamento (CE) n. 924/2009 relativo ai pagamenti transfrontalieri nella Comunita';
 
-Vista la [legge 24 dicembre 2012, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234), ed in particolare gli articoli 30, comma 2, lettera d), e 33;
+Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md), ed in particolare gli articoli 30, comma 2, lettera d), e 33;
 
 Vista la [legge 6 agosto 2013, n. 96](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013.%2013G00137.md), ed in particolare l'articolo 2;
 

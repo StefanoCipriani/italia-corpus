@@ -610,7 +610,7 @@ A decorrere dalla data di entrata in vigore del presente decreto sono abrogati:
                         i)
                             l'[articolo 5 della legge 18 gennaio 1994, n. 50](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-18;50#art_5);
                         l)
-                            l'[articolo 20 della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_20);
+                            l'[articolo 20 della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md);
                         m)
                             gli articoli 2, 4, 6, 7, 8, commi 1 e 4, e 9 della [legge 25 luglio 2000, n. 213](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-25;213);
                         n)

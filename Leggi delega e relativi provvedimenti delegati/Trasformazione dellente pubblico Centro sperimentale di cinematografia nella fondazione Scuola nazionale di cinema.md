@@ -20,13 +20,13 @@ Visto il [decreto-legge 29 marzo 1995, n. 97](https://www.normattiva.it/uri-res/
 
 Visto il [decreto-legge 14 gennaio 1994, n. 26](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1994-01-14;26), convertito, con modificazioni, dalla [legge 1 marzo 1994, n. 153](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2014%20gennaio%201994%20n.%2026%20recante%20interventi%20urgenti%20in%20favore%20del%20cinema.md);
 
-Vista la [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), ed in particolare gli articoli 11, comma 1, lettera b), e 14;
+Vista la [legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), ed in particolare gli articoli 11, comma 1, lettera b), e 14;
 
 Ravvisata l'esigenza di trasformare l'ente pubblico "Centro sperimentale di cinematografia" in fondazione, non essendo necessaria, per l'espletamento dei suoi compiti, la personalita' giuridica di diritto pubblico, consentendo anzi la veste giuridica privata la possibilita' di un migliore e piu' razionale svolgimento delle funzioni dell'ente;
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 agosto 1997;
 
-Acquisito il prescritto parere della Commissione parlamentare bicamerale istituita ai sensi dell'[articolo 5 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_5);
+Acquisito il prescritto parere della Commissione parlamentare bicamerale istituita ai sensi dell'[articolo 5 della legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 14 novembre 1997;
 

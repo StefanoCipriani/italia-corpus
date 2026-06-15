@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), e successive modificazioni;
+Vista la [legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e successive modificazioni;
 
 Visto il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), e successive modificazioni;
 
@@ -20,7 +20,7 @@ Visto il [decreto legislativo 30 luglio 1999, n. 300](Riforma%20dellorganizzazio
 
 Visto il [decreto del Presidente della Repubblica 26 marzo 2001, n. 177](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20infrastrutture%20e%20dei%20trasporti.md);
 
-Vista la [legge 6 luglio 2002, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137);
+Vista la [legge 6 luglio 2002, n. 137](Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md);
 
 Vista la [legge 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145);
 
@@ -30,7 +30,7 @@ Viste le preliminari deliberazioni del Consiglio dei Ministri, adottate nelle ri
 
 Sentite le organizzazioni sindacali maggiormente rappresentative;
 
-Acquisito il parere della Commissione bicamerale prevista dall'[articolo 5 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_5);
+Acquisito il parere della Commissione bicamerale prevista dall'[articolo 5 della legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 14 marzo 2003;
 
@@ -64,11 +64,11 @@ Avvertenza:
  Presiede il Consiglio superiore della magistratura.
  Puo' concedere grazia e commutare le pene.
  Conferisce le onorificenze della Repubblica».
- - La [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), reca: «Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa» ed e' pubblicata nella Gazzetta Ufficiale del 17 marzo 1997, n. 63.
+ - La [legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), reca: «Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa» ed e' pubblicata nella Gazzetta Ufficiale del 17 marzo 1997, n. 63.
  - Il [decreto legislativo 30 marzo 2001, n. 165](../Decreti%20Legislativi/Norme%20generali%20sullordinamento%20del%20lavoro%20alle%20dipendenze%20delle%20amministrazioni%20pubbliche.md), reca: «Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche» ed e' pubblicato nella Gazzetta Ufficiale del 9 maggio 2001, n. 106 S.O. n. 112.
- - Il [decreto legislativo 30 luglio 1999, n. 300](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), reca: «Riforma dell'organizzazione del Governo, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11)» ed e' pubblicato nella Gazzetta Ufficiale del 30 agosto 1999, n. 203 S.O. n. 163.
+ - Il [decreto legislativo 30 luglio 1999, n. 300](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), reca: «Riforma dell'organizzazione del Governo, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)» ed e' pubblicato nella Gazzetta Ufficiale del 30 agosto 1999, n. 203 S.O. n. 163.
  - Il [decreto del Presidente della Repubblica 26 marzo 2001, n. 177](../DPR/Regolamento%20di%20organizzazione%20del%20Ministero%20delle%20infrastrutture%20e%20dei%20trasporti.md), reca: «Regolamento di organizzazione del Ministero delle infrastrutture e dei trasporti» ed e' pubblicato nella Gazzetta Ufficiale del 18 maggio 2001, n. 114 S.O. n. 120.
- - La [legge 6 luglio 2002, n. 137](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137), reca: «Delega per la riforma dell'organizzazione del Governo e della Presidenza del Consiglio dei Ministri, nonche' di enti pubblici» ed e' pubblicata nella Gazzetta Ufficiale n. 158 dell'8 luglio 2002.
+ - La [legge 6 luglio 2002, n. 137](Delega%20per%20la%20riforma%20dellorganizzazione%20del%20Governo%20e%20della%20Presidenza%20del%20Consiglio%20dei%20Ministri%20nonche%20di%20enti%20pubblici.md), reca: «Delega per la riforma dell'organizzazione del Governo e della Presidenza del Consiglio dei Ministri, nonche' di enti pubblici» ed e' pubblicata nella Gazzetta Ufficiale n. 158 dell'8 luglio 2002.
  - La [legge 15 luglio 2002, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-15;145), reca: «Disposizioni per il riordino della dirigenza statale e per favorire lo scambio di esperienze e l'interazione tra pubblico e privato» ed e' pubblicata nella Gazzetta Ufficiale n. 172 del 24 luglio 2002.
  Note all'art. 1:
  - Il testo dell'[art. 42 del decreto legislativo 30 luglio 1999, n. 300](Riforma%20dellorganizzazione%20del%20Governo%20a%20norma%20dellarticolo%2011%20della%20legge%2015%20marzo%201997%20n.%2059.md), come modificato dal decreto qui pubblicato, e' il seguente:

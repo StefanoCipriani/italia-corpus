@@ -58,15 +58,15 @@ Ai fini dell'individuazione ed attuazione degli interventi di sviluppo infrastru
 
 2.
 
-Allo scopo di dare organica attuazione agli interventi individuati ai sensi del comma 1, la cui realizzazione e' perseguita mediante una piu' stretta cooperazione tra i diversi livelli istituzionali di governo, Roma capitale stipula una apposita intesa istituzionale di programma con la Regione Lazio e con le amministrazioni centrali competenti, che costituisce il quadro di riferimento per la sottoscrizione degli strumenti attuativi di cui all'[articolo 2, comma 203, lettera c), della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_2-com203-letc), e, in quanto applicabile, all'[articolo 6 del decreto legislativo 31 maggio 2011, n. 88](Disposizioni%20in%20materia%20di%20risorse%20aggiuntive%20ed%20interventi%20speciali%20per%20la%20rimozione%20di%20squilibri%20economici%20e%20sociali%20a%20norma%20dellarticolo%2016%20della%20legge%205%20maggio%202009%20n.%2042.%2011G0130.md).
+Allo scopo di dare organica attuazione agli interventi individuati ai sensi del comma 1, la cui realizzazione e' perseguita mediante una piu' stretta cooperazione tra i diversi livelli istituzionali di governo, Roma capitale stipula una apposita intesa istituzionale di programma con la Regione Lazio e con le amministrazioni centrali competenti, che costituisce il quadro di riferimento per la sottoscrizione degli strumenti attuativi di cui all'[articolo 2, comma 203, lettera c), della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), e, in quanto applicabile, all'[articolo 6 del decreto legislativo 31 maggio 2011, n. 88](Disposizioni%20in%20materia%20di%20risorse%20aggiuntive%20ed%20interventi%20speciali%20per%20la%20rimozione%20di%20squilibri%20economici%20e%20sociali%20a%20norma%20dellarticolo%2016%20della%20legge%205%20maggio%202009%20n.%2042.%2011G0130.md).
 
 3.
 
-L'intesa istituzionale di programma di cui al comma 2 e' approvata dal CIPE, su proposta del Presidente del Consiglio dei Ministri, sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md). Gli interventi previsti dall'intesa istituzionale di programma possono essere inseriti nel programma di cui all'[articolo 1, comma 1, della legge 21 dicembre 2001, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-21;443#art_1-com1), con le modalita' previste dai commi 1 e 1-bis del medesimo articolo 1.
+L'intesa istituzionale di programma di cui al comma 2 e' approvata dal CIPE, su proposta del Presidente del Consiglio dei Ministri, sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md). Gli interventi previsti dall'intesa istituzionale di programma possono essere inseriti nel programma di cui all'[articolo 1, comma 1, della legge 21 dicembre 2001, n. 443](Delega%20al%20Governo%20in%20materia%20di%20infrastrutture%20ed%20insediamenti%20produttivi%20strategici%20ed%20altri%20interventi%20per%20il%20rilancio%20delle%20attivita%20produttive.md), con le modalita' previste dai commi 1 e 1-bis del medesimo articolo 1.
 
 4.
 
-All'[articolo 1 della legge 21 dicembre 2001, n. 443](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-21;443#art_1), sono apportate le seguenti modificazioni:
+All'[articolo 1 della legge 21 dicembre 2001, n. 443](Delega%20al%20Governo%20in%20materia%20di%20infrastrutture%20ed%20insediamenti%20produttivi%20strategici%20ed%20altri%20interventi%20per%20il%20rilancio%20delle%20attivita%20produttive.md), sono apportate le seguenti modificazioni:
                             a)
                                 al comma 1, secondo periodo, dopo le parole «e le regioni o province autonome interessate», sono inserite le seguenti: «, nonche' l'ente Roma capitale ove interessato,»;
                             b)
@@ -112,7 +112,7 @@ Note all'art. 4:
  a) esprime parere: 
  1) sul disegno di legge finanziaria e sui disegni di legge collegati; 
  2) sul documento di programmazione economica e finanziaria; 
- 3) sugli schemi di decreto legislativo adottati in base all'[art. 1 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1) ; 
+ 3) sugli schemi di decreto legislativo adottati in base all'[art. 1 della legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) ; 
  b) promuove e sancisce intese tra Governo, regioni, province, comuni e comunita' montane. Nel caso di mancata intesa o di urgenza si applicano le disposizioni di cui all'art. 3, commi 3 e 4; 
  c) promuove e sancisce accordi tra Governo, regioni, province, comuni e comunita' montane, al fine di coordinare l'esercizio delle rispettive competenze e svolgere in collaborazione attivita' di interesse comune; 
  d) acquisisce le designazioni dei rappresentanti delle autonomie locali indicati, rispettivamente, dai presidenti delle regioni e province autonome di Trento e di Bolzano, dall'ANCI, dall'UPI e dall'UNCEM nei casi previsti dalla legge; 
@@ -130,7 +130,7 @@ Note all'art. 4:
  c) di ogni altro problema connesso con gli scopi di cui al presente comma che venga sottoposto, anche su richiesta del Presidente dell'ANCI, dell'UPI e dell'UNCEM, al parere della Conferenza dal Presidente del Consiglio dei Ministri o dal Presidente delegato. 
  7. La Conferenza Stato-citta' ed autonomie locali ha inoltre il compito di favorire: 
  a) l'informazione e le iniziative per il miglioramento dell'efficienza dei servizi pubblici locali; 
- b) la promozione di accordi o contratti di programma ai sensi dell'[art. 12 della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_12) ; 
+ b) la promozione di accordi o contratti di programma ai sensi dell'[art. 12 della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md) ; 
  c) le attivita' relative alla organizzazione di manifestazioni che coinvolgono piu' comuni o province da celebrare in ambito nazionale».
 
 ## Beni storici, ambientali e fluviali
@@ -316,7 +316,7 @@ Roma capitale concorre, con il Ministero per i beni e le attivita' culturali, la
                                 alle attivita' di vigilanza sui beni paesaggistici del territorio di Roma capitale tutelati dal [codice dei beni culturali e del paesaggio](Codice%20dei%20beni%20culturali%20e%20del%20paesaggio%20ai%20sensi%20dellarticolo%2010%20della%20legge%206%20luglio%202002%20n.%20137.md).
 
 Note all'art. 7: 
- - Si riporta il testo dell'[art. 78, comma 2, del decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della [L. 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59)) : 
+ - Si riporta il testo dell'[art. 78, comma 2, del decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della [L. 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)) : 
  «2. Con atto di indirizzo e coordinamento sono individuate, sulla base di criteri stabiliti d'intesa con la Conferenza Stato-regioni, le riserve statali, non collocate nei parchi nazionali, la cui gestione viene affidata a regioni o enti locali.». 
  - Si riporta il testo dell'art. 133 del citato [decreto legislativo n. 42 del 2004](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004;42): 
  «Art. 133. Cooperazione tra amministrazioni pubbliche per la conservazione e la valorizzazione del paesaggio. 
@@ -335,7 +335,7 @@ Capo III
 Sono conferite a Roma capitale le funzioni amministrative di cui all'[articolo 40 del decreto legislativo 31 marzo 1998, n. 112](Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), concernenti il coordinamento dei tempi di svolgimento delle manifestazioni fieristiche di rilevanza internazionale e nazionale, promosse sul territorio di Roma capitale.
 
 Note all'art. 8: 
- - Si riporta il testo dell'art. 40 del citato [decreto legislativo n. 112 del 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;112) (Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della [L. 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59)): 
+ - Si riporta il testo dell'art. 40 del citato [decreto legislativo n. 112 del 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;112) (Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della [L. 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)): 
  «Art. 40. Funzioni e compiti conservati allo Stato. 
  1. Sono conservate allo Stato le funzioni amministrative concernenti: 
  a) le competenze attribuite allo Stato dal decreto legislativo recante riforma della disciplina in materia di commercio; 
@@ -439,7 +439,7 @@ Nel saldo finanziario utile ai fini del rispetto del patto di stabilita' interno
 
 2-bis.
 
-Il [comma 22 dell'articolo 31 della legge 12 novembre 2011, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-12;183#art_31-com22), e' abrogato.
+Il [comma 22 dell'articolo 31 della legge 12 novembre 2011, n. 183](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202012.%2011G0234.md), e' abrogato.
 
 ))
 

@@ -215,7 +215,7 @@ Ferme restando le competenze delle regioni in materia di regolazione e organizza
                                 vengono abrogate tutte le disposizioni incompatibili con la nuova regolamentazione del mercato del lavoro e viene introdotto un nuovo regime sanzionatorio.
 
 Note all'art. 3:
- - Il testo del [decreto legislativo 23 dicembre 1997, n. 469](Conferimento%20alle%20regioni%20e%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20mercato%20del%20lavoro%20a%20norma%20dellarticolo%201%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Conferimento alle regioni e agli enti locali di funzioni e compiti in materia di mercato del lavoro, a norma dell'[art. 1 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1)), e' pubblicato nella Gazzetta Ufficiale 8 gennaio 1998, n. 5.
+ - Il testo del [decreto legislativo 23 dicembre 1997, n. 469](Conferimento%20alle%20regioni%20e%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20mercato%20del%20lavoro%20a%20norma%20dellarticolo%201%20della%20legge%2015%20marzo%201997%20n.%2059.md) (Conferimento alle regioni e agli enti locali di funzioni e compiti in materia di mercato del lavoro, a norma dell'[art. 1 della legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md)), e' pubblicato nella Gazzetta Ufficiale 8 gennaio 1998, n. 5.
 
 ## Regime autorizzatorio e accreditamenti
 
@@ -406,7 +406,7 @@ I provvedimenti regionali istitutivi dell'elenco di cui al comma 1 disciplinano 
                                 le modalita' di tenuta dell'elenco e di verifica del mantenimento dei requisiti.
 
 Note all'art. 7:
- - Il testo dell'[art. 3 del decreto legislativo 21 aprile 2000, n. 181](Disposizioni%20per%20agevolare%20lincontro%20fra%20domanda%20ed%20offerta%20di%20lavoro%20in%20attuazione%20dellarticolo%2045%20comma%201%20lettera%20a%20della%20legge%2017%20maggio%201999%20n.%20144.md) (Disposizioni per agevolare l'incontro fra domanda ed offerta di lavoro, in attuazione dell'[art. 45, comma 1, lettera a), della legge 17 maggio 1999, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144#art_45-com1-leta).), e' il seguente:
+ - Il testo dell'[art. 3 del decreto legislativo 21 aprile 2000, n. 181](Disposizioni%20per%20agevolare%20lincontro%20fra%20domanda%20ed%20offerta%20di%20lavoro%20in%20attuazione%20dellarticolo%2045%20comma%201%20lettera%20a%20della%20legge%2017%20maggio%201999%20n.%20144.md) (Disposizioni per agevolare l'incontro fra domanda ed offerta di lavoro, in attuazione dell'[art. 45, comma 1, lettera a), della legge 17 maggio 1999, n. 144](Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md).), e' il seguente:
  «Art. 3 (Indirizzi generali ai servizi competenti ai fini della prevenzione della disoccupazione di lunga durata). - 1. Le Regioni definiscono gli obiettivi e gli indirizzi operativi delle azioni che i servizi competenti, di cui all'art. 1, comma 2, lettera g), effettuano al fine di favorire l'incontro tra domanda e offerta di lavoro e contrastare la disoccupazione di lunga durata, sottoponendo i soggetti di cui all'art. 1, comma 2, ad interviste periodiche e ad altre misure di politica attiva secondo le modalita' definite ed offrendo almeno i seguenti interventi:
  a) colloquio di orientamento entro tre mesi dall'inizio dello stato di disoccupazione;
  b) proposta di adesione ad iniziative di inserimento lavorativo o di formazione o di riqualificazione professionale od altra misura che favorisca l'integrazione professionale:
@@ -804,7 +804,7 @@ L'importo delle pene pecuniarie proporzionali previste dal presente articolo, an
 
 5-sexies.
 
-Il venti per cento dell'importo delle somme versate in sede amministrativa, ai sensi dell'[articolo 15 del decreto legislativo 23 aprile 2004, n. 124](../Decreti%20Legislativi/Razionalizzazione%20delle%20funzioni%20ispettive%20in%20materia%20di%20previdenza%20sociale%20e%20di%20lavoro%20a%20norma%20dellarticolo%208%20della%20legge%2014%20febbraio%202003%20n.%2030.md) e dell'articolo 21, comma 2, primo periodo, del [decreto legislativo 19 dicembre 1994, n. 758](Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md), per l'estinzione degli illeciti di cui al presente articolo, sono destinate alle finalita' di cui all'articolo 1, comma 445, lettera e), secondo periodo, della [legge 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145), secondo le modalita' ivi previste, fermi restando i limiti di cui alla lettera g) del medesimo comma 445.
+Il venti per cento dell'importo delle somme versate in sede amministrativa, ai sensi dell'[articolo 15 del decreto legislativo 23 aprile 2004, n. 124](../Decreti%20Legislativi/Razionalizzazione%20delle%20funzioni%20ispettive%20in%20materia%20di%20previdenza%20sociale%20e%20di%20lavoro%20a%20norma%20dellarticolo%208%20della%20legge%2014%20febbraio%202003%20n.%2030.md) e dell'articolo 21, comma 2, primo periodo, del [decreto legislativo 19 dicembre 1994, n. 758](Modificazioni%20alla%20disciplina%20sanzionatoria%20in%20materia%20di%20lavoro.md), per l'estinzione degli illeciti di cui al presente articolo, sono destinate alle finalita' di cui all'articolo 1, comma 445, lettera e), secondo periodo, della [legge 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md), secondo le modalita' ivi previste, fermi restando i limiti di cui alla lettera g) del medesimo comma 445.
 
 6.
 
@@ -816,7 +816,7 @@ Entro sei mesi dalla data di entrata in vigore del presente decreto, il Ministro
 
 AGGIORNAMENTO (42)
 
-La [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145) ha disposto (con l'art. 1, comma 445, lettera d)) che "gli importi delle seguenti sanzioni in materia di lavoro e legislazione sociale sono aumentati nella misura di seguito indicata: 
+La [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md) ha disposto (con l'art. 1, comma 445, lettera d)) che "gli importi delle seguenti sanzioni in materia di lavoro e legislazione sociale sono aumentati nella misura di seguito indicata: 
  1) del 20 per cento per quanto riguarda gli importi dovuti per la violazione delle disposizioni di cui [...] all'[articolo 18 del decreto legislativo 10 settembre 2003, n. 276](../Decreti%20Legislativi/Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md)".
 
 ### Art. 19. — Sanzioni amministrative
@@ -839,7 +839,7 @@ La violazione degli obblighi di cui all'[articolo 4-bis, comma 4, del decreto le
 
 5.
 
-COMMA ABROGATO DALLA [L. 27 DICEMBRE 2006, N. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296).
+COMMA ABROGATO DALLA [L. 27 DICEMBRE 2006, N. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md).
 
 -------------
 
@@ -1597,7 +1597,7 @@ Dinnanzi al tribunale amministrativo regionale nella cui giurisdizione ha sede l
 
 AGGIORNAMENTO (15)
 
-La [L. 4 novembre 2010, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-11-04;183) ha disposto (con l'art. 31, comma 2) che "Il tentativo di conciliazione di cui all'[articolo 80, comma 4, del decreto legislativo 10 settembre 2003, n. 276](../Decreti%20Legislativi/Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md), e' obbligatorio"
+La [L. 4 novembre 2010, n. 183](Deleghe%20al%20Governo%20in%20materia%20di%20lavori%20usuranti%20di%20riorganizzazione%20di%20enti%20di%20congedi%20aspettative%20e%20permessi%20di%20ammortizzatori%20sociali%20di%20servizi%20per%20limpiego%20di%20incentivi%20alloccupazion_2fbcb692cb82.md) ha disposto (con l'art. 31, comma 2) che "Il tentativo di conciliazione di cui all'[articolo 80, comma 4, del decreto legislativo 10 settembre 2003, n. 276](../Decreti%20Legislativi/Attuazione%20delle%20deleghe%20in%20materia%20di%20occupazione%20e%20mercato%20del%20lavoro%20di%20cui%20alla%20legge%2014%20febbraio%202003%20n.%2030.md), e' obbligatorio"
 
 ### Art. 81. — Attivita' di consulenza e assistenza alle parti
 

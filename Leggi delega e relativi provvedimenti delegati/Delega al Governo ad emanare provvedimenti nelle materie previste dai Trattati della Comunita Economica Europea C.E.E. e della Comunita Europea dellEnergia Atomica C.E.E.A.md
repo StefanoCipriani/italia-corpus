@@ -15,7 +15,7 @@ vigente: true
 ## Art. 2.
 
 ((COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212)).
- COMMA ABROGATO DALLA [L. 5 FEBBRAIO 1999, N. 25](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-02-05;25).
+ COMMA ABROGATO DALLA [L. 5 FEBBRAIO 1999, N. 25](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee%20-%20legge%20comunitaria%201998.md).
 
 ## Art. 3.
 

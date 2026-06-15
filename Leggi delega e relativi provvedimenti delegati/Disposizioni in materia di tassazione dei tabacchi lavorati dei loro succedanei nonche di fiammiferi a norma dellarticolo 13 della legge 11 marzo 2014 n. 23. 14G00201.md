@@ -120,7 +120,7 @@ Copia del decreto di cui ai commi 2 e 3, e della relativa relazione tecnica, e' 
 ----------------
  
 AGGIORNAMENTO (1) 
- La [L. 30 dicembre 2018, n. 145](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2018-12-30;145) ha disposto (con l'art. 1, comma 1078) che le presenti modifiche si applicano a decorrere dalla data di applicazione delle tabelle di ripartizione dei prezzi di vendita al pubblico rideterminate, per l'anno 2019, ai sensi dell'articolo 39-quinquies del testo unico di cui al [decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md).
+ La [L. 30 dicembre 2018, n. 145](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202019%20e%20bilancio%20pluriennale%20per%20il%20triennio%202019-2021.%2018G00172.md) ha disposto (con l'art. 1, comma 1078) che le presenti modifiche si applicano a decorrere dalla data di applicazione delle tabelle di ripartizione dei prezzi di vendita al pubblico rideterminate, per l'anno 2019, ai sensi dell'articolo 39-quinquies del testo unico di cui al [decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md).
 
 ## Art. 2. — Disposizioni di coordinamento, 
  finanziarie e finali

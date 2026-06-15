@@ -12,9 +12,9 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 30 della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_30), recante delega al Governo per l'emanazione di decreti legislativi concernenti disposizioni per la revisione della disciplina e l'organizzazione del contenzioso tributario;
+Visto l'[art. 30 della legge 30 dicembre 1991, n. 413](Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md), recante delega al Governo per l'emanazione di decreti legislativi concernenti disposizioni per la revisione della disciplina e l'organizzazione del contenzioso tributario;
 
-Vista la deliberazione del Consiglio dei Ministri, adottata il 30 settembre 1992, che ha autorizzato l'invio, per il prescritto parere, alla commissione parlamentare istituita a norma dell'[art. 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17), nella composizione stabilita dall'[art. 1, comma 4, della legge 29 dicembre 1987, n. 550](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-12-29;550#art_1-com4);
+Vista la deliberazione del Consiglio dei Ministri, adottata il 30 settembre 1992, che ha autorizzato l'invio, per il prescritto parere, alla commissione parlamentare istituita a norma dell'[art. 17 della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), nella composizione stabilita dall'[art. 1, comma 4, della legge 29 dicembre 1987, n. 550](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-12-29;550#art_1-com4);
 
 Udito il parere della predetta commissione parlamentare;
 
@@ -356,7 +356,7 @@ I componenti delle ((corti di giustizia tributaria di primo e secondo grado)) de
                             e-bis)
                                 essere muniti di laurea magistrale o quadriennale in materie giuridiche o economico-aziendalistiche;
                             f)
-                                LETTERA ABROGATA DALLA [L. 12 NOVEMBRE 2011, N. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-12;183).
+                                LETTERA ABROGATA DALLA [L. 12 NOVEMBRE 2011, N. 183](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202012.%2011G0234.md).
 
 ### Art. 8. — Incompatibilita'
 
@@ -508,7 +508,7 @@ La [L. 31 agosto 2022, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 AGGIORNAMENTO (36)
 
-La [L. 31 agosto 2022, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-08-31;130), come modificato dalla [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207), ha disposto (con l'art. 8, comma 1) che "La disposizione di cui all'articolo 1, comma 1, lettera n), numero 2.2), si applica a decorrere dal 1° gennaio 2029. Fino al 31 dicembre 2028, i componenti delle corti di giustizia tributaria di primo e secondo grado, indipendentemente dalle funzioni svolte, cessano dall'incarico, in ogni caso: 
+La [L. 31 agosto 2022, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-08-31;130), come modificato dalla [L. 30 dicembre 2024, n. 207](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md), ha disposto (con l'art. 8, comma 1) che "La disposizione di cui all'articolo 1, comma 1, lettera n), numero 2.2), si applica a decorrere dal 1° gennaio 2029. Fino al 31 dicembre 2028, i componenti delle corti di giustizia tributaria di primo e secondo grado, indipendentemente dalle funzioni svolte, cessano dall'incarico, in ogni caso: 
  a) il 1° gennaio 2026 qualora abbiano compiuto settantatre' anni di eta' entro il 31 dicembre 2025, ovvero al compimento del settantatreesimo anno di eta' nel corso dell'anno 2026; 
  b) il 1° gennaio 2027 qualora abbiano compiuto settantadue anni di eta' entro il 31 dicembre 2026, ovvero al compimento del settantaduesimo anno di eta' nel corso dell'anno 2027; 
  c) il 1° gennaio 2028 qualora abbiano compiuto settantuno anni di eta' entro il 31 dicembre 2027, ovvero al compimento del settantunesimo anno di eta' nel corso dell'anno 2028".
@@ -517,7 +517,7 @@ La [L. 31 agosto 2022, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 AGGIORNAMENTO (37)
 
-La [L. 31 agosto 2022, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-08-31;130), come modificata dalla [L. 30 dicembre 2025, n. 199](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-12-30;199), ha disposto (con l'art. 8, comma 1) che "La disposizione di cui all'articolo 1, comma 1, lettera n), numero 2.2), si applica a decorrere dal 1° gennaio 2029. Fino al 31 dicembre 2028, i componenti delle corti di giustizia tributaria di primo e secondo grado, indipendentemente dalle funzioni svolte, cessano dall'incarico, in ogni caso: 
+La [L. 31 agosto 2022, n. 130](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-08-31;130), come modificata dalla [L. 30 dicembre 2025, n. 199](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202026%20e%20bilancio%20pluriennale%20per%20il%20triennio%202026-2028.%2025G00212.md), ha disposto (con l'art. 8, comma 1) che "La disposizione di cui all'articolo 1, comma 1, lettera n), numero 2.2), si applica a decorrere dal 1° gennaio 2029. Fino al 31 dicembre 2028, i componenti delle corti di giustizia tributaria di primo e secondo grado, indipendentemente dalle funzioni svolte, cessano dall'incarico, in ogni caso: 
  a) il 1° gennaio 2027 qualora abbiano compiuto settantadue anni di eta' entro il 31 dicembre 2026, ovvero al compimento del settantaduesimo anno di eta' nel corso dell'anno 2027; 
  b) il 1° gennaio 2028 qualora abbiano compiuto settantuno anni di eta' entro il 31 dicembre 2027, ovvero al compimento del settantunesimo anno di eta' nel corso dell'anno 2028".
 
@@ -545,7 +545,7 @@ La decadenza e' dichiarata con decreto del Ministro delle finanze previa deliber
 
 1.
 
-Il Ministro delle finanze con proprio decreto di concerto con il Ministro del tesoro determina il compenso fisso mensile spettante ai componenti delle corti di giustizia tributarie di primo e secondo grado presenti nel ruolo unico di cui all'[articolo 4, comma 39-bis, della legge 12 novembre 2011, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-12;183#art_4-com39bis).
+Il Ministro delle finanze con proprio decreto di concerto con il Ministro del tesoro determina il compenso fisso mensile spettante ai componenti delle corti di giustizia tributarie di primo e secondo grado presenti nel ruolo unico di cui all'[articolo 4, comma 39-bis, della legge 12 novembre 2011, n. 183](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202012.%2011G0234.md).
 
 2.
 
@@ -720,7 +720,7 @@ I componenti del consiglio di presidenza sono eletti da tutti i componenti delle
 
 4.
 
-COMMA ABROGATO DALLA [L. 21 NOVEMBRE 2000, N. 342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-21;342).
+COMMA ABROGATO DALLA [L. 21 NOVEMBRE 2000, N. 342](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20in%20materia%20fiscale.md).
 
 ---------------
 
@@ -797,7 +797,7 @@ Con regolamento del Consiglio di Presidenza sono stabilite le disposizioni di at
 
 AGGIORNAMENTO (12)
 
-La [L. 21 novembre 2000, n. 342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-21;342) ha disposto (con l'art. 84, comma 3) che i termini di cui al comma 1 del presente articolo, decorrono dal centoventesimo giorno successivo alla scadenza del periodo di cui al comma 2 della stessa legge.
+La [L. 21 novembre 2000, n. 342](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20in%20materia%20fiscale.md) ha disposto (con l'art. 84, comma 3) che i termini di cui al comma 1 del presente articolo, decorrono dal centoventesimo giorno successivo alla scadenza del periodo di cui al comma 2 della stessa legge.
 
 ---------------
 
@@ -997,7 +997,7 @@ Ai componenti del consiglio di presidenza spetta, se con residenza fuori Roma, i
 
 AGGIORNAMENTO (12)
 
-La [L. 21 novembre 2000, n. 342](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-11-21;342) ha disposto (con l'art. 85, comma 2) che sono ridotte le indennita' di cui al presente articolo, spettanti ai componenti del consiglio di presidenza.
+La [L. 21 novembre 2000, n. 342](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20in%20materia%20fiscale.md) ha disposto (con l'art. 85, comma 2) che sono ridotte le indennita' di cui al presente articolo, spettanti ai componenti del consiglio di presidenza.
 
 ---------------
 
@@ -1282,7 +1282,7 @@ Prima della costituzione del consiglio di presidenza della giustizia tributaria,
 
 AGGIORNAMENTO (9)
 
-La [L. 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449) ha disposto (con l'art. 31, comma 4) che la suddetta modifica ha effetto dal 1 aprile 1998.
+La [L. 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md) ha disposto (con l'art. 31, comma 4) che la suddetta modifica ha effetto dal 1 aprile 1998.
 
 ---------------
 
@@ -1438,7 +1438,7 @@ Il presente decreto entra in vigore il 15 gennaio 1993.
 
 2.
 
-Le disposizioni contenute nel capo II si applicano ai componenti delle commissioni tributarie provinciali e regionali e quelle contenute nel capo IV hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali, salvo quelle di cui all'articolo 35 che hanno effetto a decorrere dalla data di ultimazione delle procedure selettive previste dall'[articolo 3, comma 205, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_3-com205). ((27))
+Le disposizioni contenute nel capo II si applicano ai componenti delle commissioni tributarie provinciali e regionali e quelle contenute nel capo IV hanno effetto dalla data di insediamento delle commissioni tributarie provinciali e regionali, salvo quelle di cui all'articolo 35 che hanno effetto a decorrere dalla data di ultimazione delle procedure selettive previste dall'[articolo 3, comma 205, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md). ((27))
 
 ---------------
 

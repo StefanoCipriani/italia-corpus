@@ -192,7 +192,7 @@ L'allegato V e' sostituito dall'allegato V al presente decreto legislativo.
 6.
 
 Dopo l'[articolo 7 del decreto legislativo 21 maggio 2004, n. 151](../Decreti%20Legislativi/Attuazione%20della%20direttiva%202001-112-CE%20concernente%20i%20succhi%20di%20frutta%20ed%20altri%20prodotti%20analoghi%20destinati%20allalimentazione%20umana.md), e' inserito il seguente: 
- «Art. 7-bis (Aggiornamento degli allegati). - 1. All'aggiornamento e alla modifica delle disposizioni degli allegati al presente decreto legislativo derivanti da aggiornamenti e modifiche della [direttiva 2001/112/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;112) si provvede con decreto del Ministro dello sviluppo economico ai sensi dell'[articolo 35, comma 3, della legge 24 dicembre 2012, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234#art_35-com3).».
+ «Art. 7-bis (Aggiornamento degli allegati). - 1. All'aggiornamento e alla modifica delle disposizioni degli allegati al presente decreto legislativo derivanti da aggiornamenti e modifiche della [direttiva 2001/112/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2001;112) si provvede con decreto del Ministro dello sviluppo economico ai sensi dell'[articolo 35, comma 3, della legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md).».
 
 ## Art. 8. — Clausola di invarianza finanziaria
 

@@ -14,7 +14,7 @@ Visti gli [articoli 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cost
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri, e in particolare l'articolo 14;
 
-Vista la [legge 24 dicembre 2012, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234), recante norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea, e in particolare l'articolo 31;
+Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md), recante norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea, e in particolare l'articolo 31;
 
 Vista la [legge 22 aprile 2021, n. 53](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202019-2020.%2021G00063.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2019-2020 e, in particolare, l'articolo 14, comma 2, lettere a), b), n), o), p) e q);
 
@@ -240,7 +240,7 @@ Il divieto di cui al comma 1, non si applica ai detentori di animali impiegati n
                         g)
                             rifugi per animali sequestrati o confiscati: 
  1) centri di accoglienza di animali pericolosi attivati dal Ministero della transizione ecologica ai sensi dell'[articolo 4, comma 11, della legge 8 ottobre 1997, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-10-08;344#art_4-com11); 
- 2) centro nazionale di accoglienza attivato ai sensi dell'[articolo 1, comma 755, della legge 30 dicembre 2020, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178#art_1-com755); 
+ 2) centro nazionale di accoglienza attivato ai sensi dell'[articolo 1, comma 755, della legge 30 dicembre 2020, n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md); 
  3) reparti per la biodiversita' dell'Arma dei Carabinieri; 
  4) centri di detenzione di animali di specie esotiche invasive attivati dalle regioni ai sensi del [decreto legislativo 15 dicembre 2017, n. 230](Adeguamento%20della%20normativa%20nazionale%20alle%20disposizioni%20del%20regolamento%20UE%20n.%201143-2014%20del%20Parlamento%20europeo%20e%20del%20Consiglio%20del%2022%20ottobre%202014%20recante%20disposizioni%20volte%20a%20prevenire%20e_ef60decab1e6.md), unicamente nel caso di esemplari di specie incluse nell'elenco delle specie esotiche invasive di rilevanza unionale o nell'elenco delle specie esotiche invasive di rilevanza nazionale.
 
@@ -506,7 +506,7 @@ Gli esemplari delle specie di cui al presente decreto che sono oggetto di seques
                         a)
                             centri di accoglienza di animali pericolosi attivati dal Ministero della transizione ecologica ai sensi dell'[articolo 4, comma 11, della legge 8 ottobre 1997, n. 344](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-10-08;344#art_4-com11);
                         b)
-                            centro nazionale di accoglienza attivato ai sensi dell'[articolo 1, comma 755, della legge 30 dicembre 2020, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178#art_1-com755);
+                            centro nazionale di accoglienza attivato ai sensi dell'[articolo 1, comma 755, della legge 30 dicembre 2020, n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md);
                         c)
                             reparti per la biodiversita' dell'Arma dei Carabinieri;
                         d)
@@ -605,7 +605,7 @@ Alla [legge 7 febbraio 1992, n. 150, l'articolo 5-bis, il comma 8](https://www.n
 
 2.
 
-Alla [legge 30 dicembre 2020, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178), ((articolo 1,)) sono apportate le seguenti modificazioni:
+Alla [legge 30 dicembre 2020, n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md), ((articolo 1,)) sono apportate le seguenti modificazioni:
                         a)
                             al comma 755, le parole «centro nazionale di accoglienza degli animali confiscati ai sensi della [legge 7 febbraio 1992, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-07;150)» sono sostituite dalle seguenti: «centro nazionale di accoglienza degli animali sequestrati e confiscati ai sensi della [legge 7 febbraio 1992, n. 150](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-07;150)»;
                         b)

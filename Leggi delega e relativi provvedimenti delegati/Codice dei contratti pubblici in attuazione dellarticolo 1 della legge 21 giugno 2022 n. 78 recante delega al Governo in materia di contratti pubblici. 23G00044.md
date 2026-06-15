@@ -20,7 +20,7 @@ Vista la [direttiva 2014/24/UE del Parlamento europeo e del Consiglio, del 26 fe
 
 Vista la [direttiva 2014/25/UE del Parlamento europeo e del Consiglio, del 26 febbraio 2014](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2014;25), sulle procedure d'appalto degli enti erogatori nei settori dell'acqua, dell'energia, dei trasporti e dei servizi postali e che abroga la [direttiva 2004/17/CE](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:2004;17);
 
-Vista la [legge 24 dicembre 2012, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234), recante «Norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea»;
+Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md), recante «Norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea»;
 
 Visto il [decreto legislativo 18 aprile 2016, n. 50](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici.%2016G00062.md), recante «[Codice dei contratti pubblici](../Decreti%20Legislativi/Codice%20dei%20contratti%20pubblici%20relativi%20a%20lavori%20servizi%20e%20forniture%20in%20attuazione%20delle%20direttive%202004-17-CE%20e%202004-18-CE.md)»;
 
@@ -976,7 +976,7 @@ Il Ministero dell'economia e delle finanze, anche avvalendosi di Consip S.p.a., 
 
 15.
 
-Gli accordi quadro di cui all'articolo 59 e le convenzioni di cui all'[articolo 26 della legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_26), possono essere stipulati in sede di aggiudicazione di appalti specifici basati su un sistema dinamico di acquisizione. A essi si applica il termine dilatorio di cui all'articolo 18, comma 3, se di importo pari o superiore alle soglie di rilevanza europea.
+Gli accordi quadro di cui all'articolo 59 e le convenzioni di cui all'[articolo 26 della legge 23 dicembre 1999, n. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), possono essere stipulati in sede di aggiudicazione di appalti specifici basati su un sistema dinamico di acquisizione. A essi si applica il termine dilatorio di cui all'articolo 18, comma 3, se di importo pari o superiore alle soglie di rilevanza europea.
 
 ### Articolo 33. — Aste elettroniche
 
@@ -1903,7 +1903,7 @@ Le disposizioni del codice relative ai settori ordinari non si applicano agli ap
                             p)
                                 concernenti servizi connessi a campagne politiche, identificati con i codici CPV 79341400-0, 92111230-3 e 92111240-6, se aggiudicati da un partito politico nel contesto di una campagna elettorale per gli appalti relativi ai settori ordinari e alle concessioni;
                             q)
-                                aventi ad oggetto l'acquisto di prodotti agricoli e alimentari per un valore non superiore a 20.000 euro annui per ciascuna impresa, da imprese agricole singole o associate situate in comuni classificati totalmente montani di cui all'elenco dei comuni italiani predisposto dall'ISTAT, ovvero ricompresi nella [circolare del Ministero delle finanze n. 9 del 14 giugno 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:circolare:1993-06-14;9), pubblicata nel supplemento ordinario n. 53 alla Gazzetta Ufficiale della Repubblica italiana n. 141 del 18 giugno 1993, nonche' nei comuni delle isole minori di cui all'allegato A annesso alla [legge 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448).
+                                aventi ad oggetto l'acquisto di prodotti agricoli e alimentari per un valore non superiore a 20.000 euro annui per ciascuna impresa, da imprese agricole singole o associate situate in comuni classificati totalmente montani di cui all'elenco dei comuni italiani predisposto dall'ISTAT, ovvero ricompresi nella [circolare del Ministero delle finanze n. 9 del 14 giugno 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:circolare:1993-06-14;9), pubblicata nel supplemento ordinario n. 53 alla Gazzetta Ufficiale della Repubblica italiana n. 141 del 18 giugno 1993, nonche' nei comuni delle isole minori di cui all'allegato A annesso alla [legge 28 dicembre 2001, n. 448](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md).
 
 2.
 
@@ -4135,7 +4135,7 @@ Non si configurano come attivita' affidate in subappalto, per la loro specificit
                             b)
                                 la subfornitura a catalogo di prodotti informatici;
                             c)
-                                l'affidamento di servizi di importo inferiore a 20.000 euro annui a imprenditori agricoli nei comuni classificati totalmente montani di cui all'elenco dei comuni italiani predisposto dall'ISTAT, oppure ricompresi nella [circolare del Ministero delle finanze n. 9 del 14 giugno 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:circolare:1993-06-14;9), pubblicata nel supplemento ordinario n. 53 alla Gazzetta Ufficiale della Repubblica italiana n. 141 del 18 giugno 1993, nonche' nei comuni delle isole minori di cui all'allegato A annesso alla [legge 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448);
+                                l'affidamento di servizi di importo inferiore a 20.000 euro annui a imprenditori agricoli nei comuni classificati totalmente montani di cui all'elenco dei comuni italiani predisposto dall'ISTAT, oppure ricompresi nella [circolare del Ministero delle finanze n. 9 del 14 giugno 1993](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:circolare:1993-06-14;9), pubblicata nel supplemento ordinario n. 53 alla Gazzetta Ufficiale della Repubblica italiana n. 141 del 18 giugno 1993, nonche' nei comuni delle isole minori di cui all'allegato A annesso alla [legge 28 dicembre 2001, n. 448](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md);
                             d)
                                 le prestazioni secondarie, accessorie o sussidiarie rese in favore dei soggetti affidatari in forza di contratti continuativi di cooperazione, servizio o fornitura sottoscritti in epoca anteriore alla indizione della procedura finalizzata alla aggiudicazione dell'appalto. I relativi contratti sono trasmessi alla stazione appaltante prima o contestualmente alla sottoscrizione del contratto di appalto.
 
@@ -4226,7 +4226,7 @@ Le stazioni appaltanti rilasciano i certificati necessari per la partecipazione 
 
 Fermo quanto previsto dall'articolo 60 per le clausole di revisione dei prezzi, i contratti di appalto possono essere modificati senza una nuova procedura di affidamento nei casi seguenti, sempre che, nelle ipotesi previste dalle lettere a) e c), nonostante le modifiche, la struttura del contratto o dell'accordo quadro e l'operazione economica sottesa possano ritenersi inalterate:
                             a)
-                                se le modifiche, a prescindere dal loro valore monetario, sono state previste in clausole chiare, precise e inequivocabili dei documenti di gara iniziali, che possono consistere anche in clausole di opzione; per i contratti relativi a servizi o forniture stipulati dai soggetti aggregatori restano ferme le disposizioni di cui all'[articolo 1, comma 511, della legge 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208#art_1-com511);
+                                se le modifiche, a prescindere dal loro valore monetario, sono state previste in clausole chiare, precise e inequivocabili dei documenti di gara iniziali, che possono consistere anche in clausole di opzione; per i contratti relativi a servizi o forniture stipulati dai soggetti aggregatori restano ferme le disposizioni di cui all'[articolo 1, comma 511, della legge 28 dicembre 2015, n. 208](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md);
                             b)
                                 per la sopravvenuta necessita' di lavori, servizi o forniture supplementari, non previsti nell'appalto iniziale, ove un cambiamento del contraente nel contempo: 
  1) risulti impraticabile per motivi economici o tecnici; 
@@ -7300,7 +7300,7 @@ Presso l'ANAC opera la Camera arbitrale per i contratti pubblici relativi a lavo
 
 12.
 
-Resta fermo quanto previsto dall'[articolo 1, comma 67, della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com67).
+Resta fermo quanto previsto dall'[articolo 1, comma 67, della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md).
 
 13.
 
@@ -7346,7 +7346,7 @@ Nello svolgimento delle funzioni di cui al comma 1, il Ministero delle infrastru
 
 3.
 
-Per le attivita' di indirizzo e pianificazione strategica, ricerca, supporto e alta consulenza, valutazione, revisione della progettazione, monitoraggio e alta sorveglianza delle infrastrutture, il Ministero delle infrastrutture e dei trasporti puo' avvalersi di una struttura tecnica di missione composta da dipendenti nei limiti dell'organico approvato e dirigenti delle pubbliche amministrazioni, da tecnici individuati dalle regioni o province autonome territorialmente coinvolte, nonche', sulla base di specifici incarichi professionali o rapporti di collaborazione coordinata e continuativa, da progettisti ed esperti nella gestione di lavori pubblici e privati e di procedure amministrative. La struttura tecnica di missione e' istituita con decreto del Ministro delle infrastrutture e dei trasporti. La struttura puo', altresi', avvalersi di personale di alta specializzazione e professionalita', previa selezione, con contratti a tempo determinato di durata non superiore al quinquennio rinnovabile per una sola volta, nonche' quali advisor, di universita' statali e non statali legalmente riconosciute, di enti di ricerca e di societa' specializzate nella progettazione e gestione di lavori pubblici e privati. La struttura svolge, altresi', le funzioni del Nucleo di valutazione e verifica degli investimenti pubblici, previste dall'[articolo 1 della legge 17 maggio 1999, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144#art_1) e dall'[articolo 7 del decreto legislativo 29 dicembre 2011, n. 228](../Decreti%20Legislativi/Attuazione%20dellarticolo%2030%20comma%209%20lettere%20a%20b%20c%20e%20d%20della%20legge%2031%20dicembre%202009%20n.%20196%20in%20materia%20di%20valutazione%20degli%20investimenti%20relativi%20ad%20opere%20pubbliche.%2012G0015.md).
+Per le attivita' di indirizzo e pianificazione strategica, ricerca, supporto e alta consulenza, valutazione, revisione della progettazione, monitoraggio e alta sorveglianza delle infrastrutture, il Ministero delle infrastrutture e dei trasporti puo' avvalersi di una struttura tecnica di missione composta da dipendenti nei limiti dell'organico approvato e dirigenti delle pubbliche amministrazioni, da tecnici individuati dalle regioni o province autonome territorialmente coinvolte, nonche', sulla base di specifici incarichi professionali o rapporti di collaborazione coordinata e continuativa, da progettisti ed esperti nella gestione di lavori pubblici e privati e di procedure amministrative. La struttura tecnica di missione e' istituita con decreto del Ministro delle infrastrutture e dei trasporti. La struttura puo', altresi', avvalersi di personale di alta specializzazione e professionalita', previa selezione, con contratti a tempo determinato di durata non superiore al quinquennio rinnovabile per una sola volta, nonche' quali advisor, di universita' statali e non statali legalmente riconosciute, di enti di ricerca e di societa' specializzate nella progettazione e gestione di lavori pubblici e privati. La struttura svolge, altresi', le funzioni del Nucleo di valutazione e verifica degli investimenti pubblici, previste dall'[articolo 1 della legge 17 maggio 1999, n. 144](Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md) e dall'[articolo 7 del decreto legislativo 29 dicembre 2011, n. 228](../Decreti%20Legislativi/Attuazione%20dellarticolo%2030%20comma%209%20lettere%20a%20b%20c%20e%20d%20della%20legge%2031%20dicembre%202009%20n.%20196%20in%20materia%20di%20valutazione%20degli%20investimenti%20relativi%20ad%20opere%20pubbliche.%2012G0015.md).
 
 4.
 
@@ -7354,7 +7354,7 @@ Per agevolare, sin dall'inizio della fase istruttoria, la realizzazione di infra
 
 5.
 
-Gli oneri per il funzionamento della struttura tecnica di missione di cui al comma 3 trovano copertura sui fondi di cui all'[articolo 1, comma 238, della legge 30 dicembre 2004, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311#art_1-com238), nonche' sulle risorse assegnate annualmente al Ministero delle infrastrutture e dei trasporti ai sensi della [legge n. 144 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999;144).
+Gli oneri per il funzionamento della struttura tecnica di missione di cui al comma 3 trovano copertura sui fondi di cui all'[articolo 1, comma 238, della legge 30 dicembre 2004, n. 311](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md), nonche' sulle risorse assegnate annualmente al Ministero delle infrastrutture e dei trasporti ai sensi della [legge n. 144 del 1999](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999;144).
 
 6.
 
@@ -7522,7 +7522,7 @@ Fermo restando quanto previsto dall'articolo 225, sono abrogati dal 1° luglio 2
                             a)
                                 il [regio decreto 3 maggio 1923, n. 1612](../Atti%20normativi%20abrogati%20%28in%20originale%29/Regolamento%20per%20lordinamento%20interno%20del%20Consiglio%20superiore%20dei%20lavori%20pubblici.%20023U1612.md);
                             b)
-                                l'[articolo 11, comma 5, lettere d)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_11-com5-letd) e [f), della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_11-com5-letf);
+                                l'[articolo 11, comma 5, lettere d)](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md) e [f), della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md);
                             c)
                                 il [decreto del Presidente della Repubblica 27 aprile 2006, n. 204](../DPR/Regolamento%20di%20riordino%20del%20Consiglio%20superiore%20dei%20lavori%20pubblici.md);
                             d)

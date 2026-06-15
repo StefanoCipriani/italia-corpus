@@ -70,7 +70,7 @@ Nell'esercizio della delega di cui al comma 1, il Governo provvede altresi' al r
                         b)
                             applicazione dell'imposta unica anche alle scommesse accettate nel territorio italiano di qualunque tipo e relative a qualunque evento, anche se svolto all'estero;
                         c)
-                            revisione del sistema sanzionatorio secondo i criteri di cui all'[articolo 3, comma 133, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_3-com133), e di cui al [decreto legislativo 18 dicembre 1997, n. 472](../Decreti%20Legislativi/Disposizioni%20generali%20in%20materia%20di%20sanzioni%20amministrative%20per%20le%20violazioni%20di%20norme%20tributarie%20a%20norma%20dellarticolo%203%20comma%20133%20della%20legge%2023%20dicembre%201996%20n.%20662.md);
+                            revisione del sistema sanzionatorio secondo i criteri di cui all'[articolo 3, comma 133, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), e di cui al [decreto legislativo 18 dicembre 1997, n. 472](../Decreti%20Legislativi/Disposizioni%20generali%20in%20materia%20di%20sanzioni%20amministrative%20per%20le%20violazioni%20di%20norme%20tributarie%20a%20norma%20dellarticolo%203%20comma%20133%20della%20legge%2023%20dicembre%201996%20n.%20662.md);
                         d)
                             possibilita' di stabilire un'aliquota percentuale differenziata, commisurata all'entita' del prelievo riferito alle scommesse;
                         e)

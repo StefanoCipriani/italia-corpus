@@ -104,7 +104,7 @@ Capo II
 
 1.
 
-Il Ministero della giustizia, nell'ambito della dotazione organica come rideterminata ai sensi dell'articolo 7, esercita, con organi periferici di livello dirigenziale non generale, sulla base di programmi, indirizzi e direttive disposti dall'amministrazione centrale, le funzioni e i compiti in materia di organizzazione e funzionamento dei servizi relativi alla giustizia anche derivanti dal trasferimento delle competenze di cui all'[articolo 1, comma 526, della legge 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190#art_1-com526).
+Il Ministero della giustizia, nell'ambito della dotazione organica come rideterminata ai sensi dell'articolo 7, esercita, con organi periferici di livello dirigenziale non generale, sulla base di programmi, indirizzi e direttive disposti dall'amministrazione centrale, le funzioni e i compiti in materia di organizzazione e funzionamento dei servizi relativi alla giustizia anche derivanti dal trasferimento delle competenze di cui all'[articolo 1, comma 526, della legge 23 dicembre 2014, n. 190](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md).
 
 2.
 

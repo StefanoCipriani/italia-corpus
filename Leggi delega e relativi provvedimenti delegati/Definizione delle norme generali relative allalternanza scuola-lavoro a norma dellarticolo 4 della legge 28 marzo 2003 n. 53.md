@@ -22,7 +22,7 @@ Visto il [decreto legislativo 10 settembre 2003, n. 276](Attuazione%20delle%20de
 
 Visto il [decreto legislativo 16 aprile 1994, n. 297](../Decreti%20Legislativi/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20legislative%20vigenti%20in%20materia%20di%20istruzione%20relative%20alle%20scuole%20di%20ogni%20ordine%20e%20grado.md), e successive modificazioni;
 
-Vista la [legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59), e successive modificazioni, ed in particolare l'articolo 21;
+Vista la [legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e successive modificazioni, ed in particolare l'articolo 21;
 
 Vista la [legge 24 giugno 1997, n. 196](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-06-24;196), che fissa norme in materia di promozione dell'occupazione;
 
@@ -213,7 +213,7 @@ Nota all'[art. 8:
 
 1.
 
-All'onere derivante dall'attuazione degli interventi del presente decreto nel sistema dell'istruzione, nel limite massimo di 10 milioni di euro per l'anno 2005 e di 30 milioni di euro a decorrere dall'anno 2006, si provvede a valere sull'autorizzazione di spesa di cui all'[articolo 4 della legge 18 dicembre 1997, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-18;440#art_4), come determinata dalla tabella C, allegata alla [legge 30 dicembre 2004, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311).
+All'onere derivante dall'attuazione degli interventi del presente decreto nel sistema dell'istruzione, nel limite massimo di 10 milioni di euro per l'anno 2005 e di 30 milioni di euro a decorrere dall'anno 2006, si provvede a valere sull'autorizzazione di spesa di cui all'[articolo 4 della legge 18 dicembre 1997, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-18;440#art_4), come determinata dalla tabella C, allegata alla [legge 30 dicembre 2004, n. 311](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md).
 
 2.
 
@@ -221,14 +221,14 @@ Nell'ambito delle risorse di cui al comma 1, per il funzionamento del Comitato p
 
 3.
 
-Per la realizzazione degli interventi di cui al presente decreto nel sistema dell'istruzione e formazione professionale concorrono, nella percentuale stabilita nella programmazione regionale, le risorse destinate ai percorsi di formazione professionale a valere sugli stanziamenti previsti dall'[articolo 68, comma 4, lettera a), della legge 17 maggio 1999, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144#art_68-com4-leta), e successive modificazioni.
+Per la realizzazione degli interventi di cui al presente decreto nel sistema dell'istruzione e formazione professionale concorrono, nella percentuale stabilita nella programmazione regionale, le risorse destinate ai percorsi di formazione professionale a valere sugli stanziamenti previsti dall'[articolo 68, comma 4, lettera a), della legge 17 maggio 1999, n. 144](Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md), e successive modificazioni.
 
 Note all'art. 9:
  - Si riporta il testo dell'[art. 4 della legge 18 dicembre 1997, n. 440](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-18;440#art_4):
  «Art. 4 (Dotazione del fondo). - 1. La dotazione del fondo di cui all'art. 1 e' determinata in lire 100 miliardi per l'anno 1997, in lire 400 miliardi per l'anno 1998 e in lire 345 miliardi annue a decorrere dall'anno 1999.
  All'onere relativo agli anni 1997, 1998 e 1999 si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1997-1999, al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1997, all'uopo parzialmente utilizzando, per lire 100 miliardi per ciascuno degli anni 1997, 1998 e 1999, l'accantonamento relativo al Ministero della pubblica istruzione e per lire 300 miliardi per l'anno 1998 e lire 245 miliardi per l'anno 1999, l'accantonamento relativo alla Presidenza del Consiglio dei Ministri.
  2. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.».
- - Si riporta il testo dell'[art. 68, comma 4, lettera a) della legge 17 maggio 1999, n. 144](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-17;144#art_68-com4-leta):
+ - Si riporta il testo dell'[art. 68, comma 4, lettera a) della legge 17 maggio 1999, n. 144](Misure%20in%20materia%20di%20investimenti%20delega%20al%20Governo%20per%20il%20riordino%20degli%20incentivi%20alloccupazione%20e%20della%20normativa%20che%20disciplina%20lINAIL%20nonche%20disposizioni%20per%20il%20riordino%20degli%20enti%20previdenziali.md):
  «4. Agli oneri derivanti dall'intervento di cui al comma 1 si provvede:
  a) a carico del Fondo di cui all'[art. 1, comma 7, del decreto-legge 20 maggio 1993, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148#art_1-com7), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20maggio%201993%20n.%20148%20recante%20interventi%20urgenti%20a%20sostegno%20delloccupazione.md), per i seguenti importi: lire 200 miliardi per l'anno 1999, lire 430 miliardi per il 2000, lire 562 miliardi per il 2001 e fino a lire 590 miliardi a decorrere dall'anno 2002;».
 

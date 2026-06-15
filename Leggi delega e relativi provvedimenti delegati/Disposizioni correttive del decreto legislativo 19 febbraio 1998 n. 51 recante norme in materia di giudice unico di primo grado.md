@@ -12,11 +12,11 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 1, comma 4, della legge 16 luglio 1997, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-16;254#art_1-com4), che abilita il Governo ad emanare disposizioni correttive dei decreti legislativi recanti le norme in materia di istituzione del giudice unico di primo grado nel termine di due anni dalla loro entrata in vigore;
+Visto l'[articolo 1, comma 4, della legge 16 luglio 1997, n. 254](Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md), che abilita il Governo ad emanare disposizioni correttive dei decreti legislativi recanti le norme in materia di istituzione del giudice unico di primo grado nel termine di due anni dalla loro entrata in vigore;
 
 Vista le preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 3 dicembre 1998;
 
-Acquisiti i pareri delle competenti commissioni permanenti del Senato della Repubblica e della Camera dei deputati, a norma dell'articolo 1, comma 3, della citata [legge 16 luglio 1997, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-16;254);
+Acquisiti i pareri delle competenti commissioni permanenti del Senato della Repubblica e della Camera dei deputati, a norma dell'articolo 1, comma 3, della citata [legge 16 luglio 1997, n. 254](Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 aprile 1999;
 
@@ -39,7 +39,7 @@ Avvertenza:
  Note alle premesse:
  - L'[art. 76 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) disciplina la delega al Governo dell'esercizio della funzione legislativa e stabilisce che essa non puo' avvenire se non con determinazione di principi e criteri direttivi e soltanto per tempo limitato e per oggetti definiti.
  - L'[art. 87, quinto comma della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87-com5), conferisce al Presidente della Repubblica il potere di promulgare le leggi e di emanare i decreti aventi valore di legge e i regolamenti.
- - Si riporta il testo dell'[art. 1 della legge 16 luglio 1997, n. 254](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-07-16;254#art_1) (Delega del Governo per l'istituzione del giudice unico di primo grado):
+ - Si riporta il testo dell'[art. 1 della legge 16 luglio 1997, n. 254](Delega%20al%20Governo%20per%20listituzione%20del%20giudice%20unico%20di%20primo%20grado.md) (Delega del Governo per l'istituzione del giudice unico di primo grado):
  "Art. 1. - Il Governo e' delegato ad emanare, entro sei mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi per realizzare una piu' razionale distribuzione delle competenze degli uffici giudiziari, con l'osservanza dei seguenti principi e criteri direttivi:
  a) ristrutturare gli uffici giudiziari di primo grado secondo il modello del giudice unico;
  b) sopprimere l'ufficio del pretore, trasferendo le competenze di tale giudice al tribunale;

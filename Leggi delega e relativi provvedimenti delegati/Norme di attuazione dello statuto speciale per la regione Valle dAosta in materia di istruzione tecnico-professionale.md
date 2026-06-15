@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md), e successive modificazioni;
 
-Vista la [legge 5 agosto 1981, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;453), e successive modificazioni;
+Vista la [legge 5 agosto 1981, n. 453](Rinnovo%20della%20delega%20prevista%20dallarticolo%2072%20della%20legge%2016%20maggio%201978%20n.%20196%20gia%20rinnovata%20con%20legge%206%20dicembre%201978%20n.%20827%20per%20lestensione%20alla%20regione%20Valle%20dAosta%20delle%20disposizioni_95073b35df97.md), e successive modificazioni;
 
 Sentita la commissione parlamentare per le questioni regionali;
 

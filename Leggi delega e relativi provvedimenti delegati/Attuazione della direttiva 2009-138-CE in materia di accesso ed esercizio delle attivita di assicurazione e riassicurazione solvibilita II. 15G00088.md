@@ -28,7 +28,7 @@ Vista la [legge 4 giugno 2010, n. 96](../Atti%20normativi%20abrogati%20%28in%20o
 
 Visto il [decreto-legge 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito, con modificazioni, dalla [legge 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md);
 
-Vista la [legge 24 dicembre 2012, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234), recante norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea;
+Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md), recante norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea;
 
 Vista la [legge 7 ottobre 2014, n. 154](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202013%20-%20secondo%20semestre.%2014G00167.md), recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013 - secondo semestre;
 

@@ -269,7 +269,7 @@ I contributi agli interessi possono essere estesi anche ai finanziamenti relativ
 
 3.
 
-PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2017, N. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205). La tipologia e le caratteristiche delle operazioni ammissibili al contributo e Le condizioni e le modalita' della concessione dei contributi sono stabiliti con decreto del Ministro del tesoro, del bilancio e della programmazione economica, di concerto con il Ministro degli affari esteri e della cooperazione internazionale.
+PERIODO SOPPRESSO DALLA [L. 27 DICEMBRE 2017, N. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md). La tipologia e le caratteristiche delle operazioni ammissibili al contributo e Le condizioni e le modalita' della concessione dei contributi sono stabiliti con decreto del Ministro del tesoro, del bilancio e della programmazione economica, di concerto con il Ministro degli affari esteri e della cooperazione internazionale.
 
 4.
 
@@ -310,7 +310,7 @@ Il soggetto gestore del Fondo di cui all'[articolo 3 della legge 28 maggio 1973,
 
 1.
 
-Il Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile, su proposta del Ministro dell'economia e delle finanze, di concerto con il Ministro degli affari esteri e della cooperazione internazionale, delibera il piano strategico annuale e il piano previsionale dei fabbisogni finanziari del fondo di cui al [secondo comma dell'articolo 37 del decreto-legge 26 ottobre 1970, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1970-10-26;745#art_37-com2), convertito, con modificazioni, dalla [legge 18 dicembre 1970, n. 1034](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20ottobre%201970%20n.%20745%20concernente%20provvedimenti%20straordinari%20per%20la%20ripresa%20economica.md), per l'anno successivo, previamente approvati dal Comitato agevolazioni di cui all'[articolo 1, comma 270, della legge 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205#art_1-com270).
+Il Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile, su proposta del Ministro dell'economia e delle finanze, di concerto con il Ministro degli affari esteri e della cooperazione internazionale, delibera il piano strategico annuale e il piano previsionale dei fabbisogni finanziari del fondo di cui al [secondo comma dell'articolo 37 del decreto-legge 26 ottobre 1970, n. 745](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1970-10-26;745#art_37-com2), convertito, con modificazioni, dalla [legge 18 dicembre 1970, n. 1034](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2026%20ottobre%201970%20n.%20745%20concernente%20provvedimenti%20straordinari%20per%20la%20ripresa%20economica.md), per l'anno successivo, previamente approvati dal Comitato agevolazioni di cui all'[articolo 1, comma 270, della legge 27 dicembre 2017, n. 205](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md).
 
 2.
 
@@ -438,7 +438,7 @@ All'[articolo 1, comma 1, della legge 26 febbraio 1992, n. 212](https://www.norm
 
 3.
 
-I criteri e le procedure di concessione dei contributi erogati dal ((Ministero degli affari esteri e della cooperazione internazionale)) ai sensi delle disposizioni richiamate ai commi 1 e 2 e le modalita' di verifica, anche ad opera di terzi, dei risultati sono stabiliti, ai sensi dell'[articolo 12 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_12), e successive modifiche ed integrazioni, nel rispetto dei principi stabiliti dall'[articolo 20, comma 5, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_20-com5).
+I criteri e le procedure di concessione dei contributi erogati dal ((Ministero degli affari esteri e della cooperazione internazionale)) ai sensi delle disposizioni richiamate ai commi 1 e 2 e le modalita' di verifica, anche ad opera di terzi, dei risultati sono stabiliti, ai sensi dell'[articolo 12 della legge 7 agosto 1990, n. 241](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241#art_12), e successive modifiche ed integrazioni, nel rispetto dei principi stabiliti dall'[articolo 20, comma 5, della legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md).
 
 4.
 
@@ -535,7 +535,7 @@ Il Comitato di cui al [decreto-legge 28 maggio 1981, n. 251](https://www.normatt
 
 8.
 
-Con decreto legislativo da emanare ai sensi degli [articoli 10](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_10) e [11, comma 3, della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11-com3), entro il 31 dicembre 1998, sono dettate norme integrative e correttive delle disposizioni di cui al presente articolo in relazione al trasferimento alla Simest della gestione degli interventi indicati al comma 1.
+Con decreto legislativo da emanare ai sensi degli [articoli 10](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) e [11, comma 3, della legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), entro il 31 dicembre 1998, sono dettate norme integrative e correttive delle disposizioni di cui al presente articolo in relazione al trasferimento alla Simest della gestione degli interventi indicati al comma 1.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
 

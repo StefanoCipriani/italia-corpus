@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge costituzionale 26 febbraio 1948, n. 4](../Leggi%20costituzionali/Statuto%20speciale%20per%20la%20Valle%20dAosta.md), e successive modificazioni;
 
-Vista la [legge 5 agosto 1981, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;453), e successive modificazioni;
+Vista la [legge 5 agosto 1981, n. 453](Rinnovo%20della%20delega%20prevista%20dallarticolo%2072%20della%20legge%2016%20maggio%201978%20n.%20196%20gia%20rinnovata%20con%20legge%206%20dicembre%201978%20n.%20827%20per%20lestensione%20alla%20regione%20Valle%20dAosta%20delle%20disposizioni_95073b35df97.md), e successive modificazioni;
 
 Sentita la commissione parlamentare per le questioni regionali;
 
@@ -93,7 +93,7 @@ La regione puo' assumere a carico del proprio bilancio tutti o parte degli oneri
 
 1.
 
-Le funzioni amministrative concernenti agevolazioni di credito, gia' trasferite alla regione a termini dell'[art. 70 del decreto del Presidente della Repubblica 22 febbraio 1982, n. 182](../DPR/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Valle%20dAosta%20per%20la%20estensione%20alla%20regione%20delle%20disposizioni%20del%20decreto%20del%20Presidente%20della%20Repubblica%2024%20luglio%201977%20n.%20616%20e_ed44efac4b68.md), comprendono anche quelle relative alle materie previste dai decreti legislativi emanati in forza della delega di cui all'[art. 2 della legge 5 agosto 1981, n. 453](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;453#art_2), e successive disposizioni recanti proroghe dei termini finali della delega stessa.
+Le funzioni amministrative concernenti agevolazioni di credito, gia' trasferite alla regione a termini dell'[art. 70 del decreto del Presidente della Repubblica 22 febbraio 1982, n. 182](../DPR/Norme%20di%20attuazione%20dello%20statuto%20speciale%20della%20regione%20Valle%20dAosta%20per%20la%20estensione%20alla%20regione%20delle%20disposizioni%20del%20decreto%20del%20Presidente%20della%20Repubblica%2024%20luglio%201977%20n.%20616%20e_ed44efac4b68.md), comprendono anche quelle relative alle materie previste dai decreti legislativi emanati in forza della delega di cui all'[art. 2 della legge 5 agosto 1981, n. 453](Rinnovo%20della%20delega%20prevista%20dallarticolo%2072%20della%20legge%2016%20maggio%201978%20n.%20196%20gia%20rinnovata%20con%20legge%206%20dicembre%201978%20n.%20827%20per%20lestensione%20alla%20regione%20Valle%20dAosta%20delle%20disposizioni_95073b35df97.md), e successive disposizioni recanti proroghe dei termini finali della delega stessa.
 
 2.
 

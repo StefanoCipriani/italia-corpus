@@ -14,7 +14,7 @@ Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:cos
 
 Vista la [legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), recante «Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri» e, in particolare, l'articolo 14;
 
-Vista la [legge 24 dicembre 2012, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;234), recante «Norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea» e, in particolare, l'articolo 31, comma 5;
+Vista la [legge 24 dicembre 2012, n. 234](../Leggi%20di%20delegazione%20europea/Norme%20generali%20sulla%20partecipazione%20dellItalia%20alla%20formazione%20e%20allattuazione%20della%20normativa%20e%20delle%20politiche%20dellUnione%20europea.%2013G00003.md), recante «Norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea» e, in particolare, l'articolo 31, comma 5;
 
 Vista la [legge 22 aprile 2021, n. 53](../Leggi%20contenenti%20deleghe/Delega%20al%20Governo%20per%20il%20recepimento%20delle%20direttive%20europee%20e%20lattuazione%20di%20altri%20atti%20dellUnione%20europea%20-%20Legge%20di%20delegazione%20europea%202019-2020.%2021G00063.md), recante «Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - legge di delegazione europea 2019-2020» e, in particolare, l'articolo 4;
 
@@ -378,7 +378,7 @@ All'articolo 52 del codice di cui al [decreto legislativo n. 259 del 2003](https
 
 All'articolo 54 del codice di cui al [decreto legislativo n. 259 del 2003](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003;259) sono apportate le seguenti modificazioni:
                         a)
-                            al comma 1, dopo le parole: «per ragioni di viabilita' o di realizzazione di opere pubbliche, oneri» sono inserite le seguenti: «di qualsiasi natura» e dopo le parole: «[legge 30 dicembre 2020 n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178)» sono inserite le seguenti: «, nel rispetto dei presupposti previsti dalla normativa in materia»;
+                            al comma 1, dopo le parole: «per ragioni di viabilita' o di realizzazione di opere pubbliche, oneri» sono inserite le seguenti: «di qualsiasi natura» e dopo le parole: «[legge 30 dicembre 2020 n. 178](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md)» sono inserite le seguenti: «, nel rispetto dei presupposti previsti dalla normativa in materia»;
                         b)
                             il comma 4 e' sostituito dal seguente: 
  «4. Il contributo previsto dal comma 2, per le attivita' che comprendono la stima del fondo ambientale, e il contributo previsto al comma 3 sono calcolati in base al tariffario nazionale di riferimento adottato con decreto del Ministro dell'ambiente e della tutela del territorio e del mare 14 ottobre 2016, pubblicato nella Gazzetta Ufficiale n. 258 del 4 novembre 2016.».

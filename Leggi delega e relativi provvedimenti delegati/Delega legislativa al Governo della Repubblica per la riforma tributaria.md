@@ -30,17 +30,17 @@ Il Governo della Repubblica e' delegato ad emanare le disposizioni occorrenti pe
 
 AGGIORNAMENTO (1)
 
-La [L. 6 dicembre 1971, n.1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036), ha disposto (con l'art.1, comma 1) che " l'abolizione dei tributi indicati al n. II e la revisione di quelli indicati al n. IV dell'[articolo 1 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_1), 
+La [L. 6 dicembre 1971, n.1036](Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md), ha disposto (con l'art.1, comma 1) che " l'abolizione dei tributi indicati al n. II e la revisione di quelli indicati al n. IV dell'[articolo 1 della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), 
 entreranno in vigore il 1 luglio 1972."
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-La [L. 6 dicembre 1971, n.1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036), come modificata dal [D.L. 25 maggio 1972, n.202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito con modificazioni dalla [L. 24 luglio 1972, n. 
-321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), ha disposto (con l'art.1) che "Le disposizioni per l'attuazione della riforma tributaria, prevista dalla [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), relative ai punti II, III, IV e V dell'articolo 1 di tale legge, nonche' quelle di cui ai numeri 14 e 15 dell'articolo 10, ai numeri 2, 3, 4, 5 e 14 dell'articolo 11, al numero 1 del secondo comma dell'articolo 12 ed all'ottavo comma dell'articolo 15 della stessa 
+La [L. 6 dicembre 1971, n.1036](Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md), come modificata dal [D.L. 25 maggio 1972, n.202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito con modificazioni dalla [L. 24 luglio 1972, n. 
+321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), ha disposto (con l'art.1) che "Le disposizioni per l'attuazione della riforma tributaria, prevista dalla [legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), relative ai punti II, III, IV e V dell'articolo 1 di tale legge, nonche' quelle di cui ai numeri 14 e 15 dell'articolo 10, ai numeri 2, 3, 4, 5 e 14 dell'articolo 11, al numero 1 del secondo comma dell'articolo 12 ed all'ottavo comma dell'articolo 15 della stessa 
 legge, entreranno in vigore il 1 gennaio 1973." 
-Ha inoltre disposto che " Le disposizioni previste dalla [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), relative al punto I, dell'articolo 1 di tale 
+Ha inoltre disposto che " Le disposizioni previste dalla [legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), relative al punto I, dell'articolo 1 di tale 
 legge, entreranno in vigore il 1 gennaio 1974."
 
 ## Art. 2.
@@ -73,7 +73,7 @@ La disciplina dell'imposta sul reddito delle persone fisiche sara' informata ai 
 
 AGGIORNAMENTO (7)
 
-La Corte Costituzionale con sentenza 14-15 luglio 1976, n. 179 (in G.U. 1a s.s. 21/7/1976, n.191) ha dichiarato l'illegittimita' costituzionale dell'[art. 2 n. 3 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_2-num3) (delega legislativa al Governo della Repubblica per la riforma tributaria) nelle parti in cui la norma dispone: a) che per la determinazione del reddito complessivo sono imputati al marito, quale soggetto passivo dell'imposta sul reddito delle persone fisiche, oltre ai redditi propri, i redditi della moglie (eccettuati quelli che sono nella libera disponibilita' della moglie legalmente ed effettivamente separata), e che i redditi dei coniugi sono cumulati al fine dell'applicazione dell'imposta; b) che non e' soggetto passivo dell'imposta la moglie, i cui redditi siano imputati al marito ai sensi dell'[art. 4, lett. a), del d.P.R. n. 597 del 1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973;597#art_4-leta); c) che la dichiarazione delle persone fisiche e' unica, oltreche' per i redditi propri del soggetto passivo, per quelli della moglie a lui imputabili a norma dell'[art. 4 del d.P.R. n. 597 del 1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973;597#art_4); d) che la moglie, la quale non sia legalmente ed effettivamente separata, e' tenuta ad indicare al marito, quale soggetto passivo dell'imposta, gli elementi, i dati e le notizie a questo occorrenti perche' possa adempiere l'obbligo della dichiarazione dei redditi come sopra a lui imputati.
+La Corte Costituzionale con sentenza 14-15 luglio 1976, n. 179 (in G.U. 1a s.s. 21/7/1976, n.191) ha dichiarato l'illegittimita' costituzionale dell'[art. 2 n. 3 della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md) (delega legislativa al Governo della Repubblica per la riforma tributaria) nelle parti in cui la norma dispone: a) che per la determinazione del reddito complessivo sono imputati al marito, quale soggetto passivo dell'imposta sul reddito delle persone fisiche, oltre ai redditi propri, i redditi della moglie (eccettuati quelli che sono nella libera disponibilita' della moglie legalmente ed effettivamente separata), e che i redditi dei coniugi sono cumulati al fine dell'applicazione dell'imposta; b) che non e' soggetto passivo dell'imposta la moglie, i cui redditi siano imputati al marito ai sensi dell'[art. 4, lett. a), del d.P.R. n. 597 del 1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973;597#art_4-leta); c) che la dichiarazione delle persone fisiche e' unica, oltreche' per i redditi propri del soggetto passivo, per quelli della moglie a lui imputabili a norma dell'[art. 4 del d.P.R. n. 597 del 1973](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1973;597#art_4); d) che la moglie, la quale non sia legalmente ed effettivamente separata, e' tenuta ad indicare al marito, quale soggetto passivo dell'imposta, gli elementi, i dati e le notizie a questo occorrenti perche' possa adempiere l'obbligo della dichiarazione dei redditi come sopra a lui imputati.
 
 ## Art. 3.
 
@@ -106,7 +106,7 @@ La disciplina dell'imposta locale sui redditi sara' informata ai seguenti princi
 
 AGGIORNAMENTO (9)
 
-La Corte Costituzionale con sentenza 25-26 marzo 1980, n.42 (in G.U. 1a s.s. 2/4/1980, n.92) ha dichiarato l'illegittimita' costituzionale dell'[art. 4, n. 1, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_4-num1), in quanto non esclude i redditi di lavoro autonomo, che non siano assimilabili ai redditi d'impresa, dall'imposta locale sui redditi.
+La Corte Costituzionale con sentenza 25-26 marzo 1980, n.42 (in G.U. 1a s.s. 2/4/1980, n.92) ha dichiarato l'illegittimita' costituzionale dell'[art. 4, n. 1, della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), in quanto non esclude i redditi di lavoro autonomo, che non siano assimilabili ai redditi d'impresa, dall'imposta locale sui redditi.
 
 ## Art. 5.
 
@@ -185,7 +185,7 @@ Saranno abrogati il primo e il [secondo comma dell'articolo 5](https://www.norma
 
 AGGIORNAMENTO (2)
 
-La [L. 6 dicembre 1971, n.1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036), come modificata dal [D.L. 25 maggio 1972, n.202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito con modificazioni dalla [L. 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), ha disposto (con l'art.1) che " Le disposizioni previste dalla [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), relative ai numeri 3 e 4 dell'articolo 9 della stessa legge, entreranno in vigore il 1 gennaio 1974."
+La [L. 6 dicembre 1971, n.1036](Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md), come modificata dal [D.L. 25 maggio 1972, n.202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito con modificazioni dalla [L. 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), ha disposto (con l'art.1) che " Le disposizioni previste dalla [legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), relative ai numeri 3 e 4 dell'articolo 9 della stessa legge, entreranno in vigore il 1 gennaio 1974."
 
 ## Art. 10.
 
@@ -213,13 +213,13 @@ Le disposizioni da emanare in materia di accertamento, riscossione, sanzioni e c
 
 AGGIORNAMENTO (1)
 
-La [L. 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036), ha disposto (con l'art.19 che " Le disposizioni da emanare in base alla delega legislativa per la riforma tributaria, concernenti l'imposta sul valore aggiunto, l'abolizione dei tributi indicati al n. II e la revisione di quelli indicati al n. IV dell'[articolo 1 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_1), nonche' quelle previste al n. 16 dell'articolo 10, ai numeri 2, 4, 5 e 10 dell'articolo 11 entreranno in vigore il 1 luglio 1972."
+La [L. 6 dicembre 1971, n. 1036](Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md), ha disposto (con l'art.19 che " Le disposizioni da emanare in base alla delega legislativa per la riforma tributaria, concernenti l'imposta sul valore aggiunto, l'abolizione dei tributi indicati al n. II e la revisione di quelli indicati al n. IV dell'[articolo 1 della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), nonche' quelle previste al n. 16 dell'articolo 10, ai numeri 2, 4, 5 e 10 dell'articolo 11 entreranno in vigore il 1 luglio 1972."
 
 --------------
 
 AGGIORNAMENTO (2)
 
-La [L. 6 dicembre 1971, n.1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036), come modificata dal [D.L. 25 maggio 1972, n.202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito con modificazioni dalla [L. 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), ha disposto (con l'art.1) che "Le disposizioni per l'attuazione della riforma tributaria, prevista dalla [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), relative ai punti II, III, IV e V dell'articolo 1 di tale legge, nonche' quelle di cui ai numeri 14 e 15 dell'articolo 10, ai numeri 2, 3, 4, 5 e 14 dell'articolo 11, al numero 1 del secondo comma dell'articolo 12 ed all'ottavo comma dell'articolo 15 della stessa legge, entreranno in vigore il 1 gennaio 1973."
+La [L. 6 dicembre 1971, n.1036](Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md), come modificata dal [D.L. 25 maggio 1972, n.202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito con modificazioni dalla [L. 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), ha disposto (con l'art.1) che "Le disposizioni per l'attuazione della riforma tributaria, prevista dalla [legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), relative ai punti II, III, IV e V dell'articolo 1 di tale legge, nonche' quelle di cui ai numeri 14 e 15 dell'articolo 10, ai numeri 2, 3, 4, 5 e 14 dell'articolo 11, al numero 1 del secondo comma dell'articolo 12 ed all'ottavo comma dell'articolo 15 della stessa legge, entreranno in vigore il 1 gennaio 1973."
 
 ## Art. 11.
 
@@ -245,14 +245,14 @@ Le disposizioni relative all'amministrazione finanziaria saranno intese ad adegu
 
 AGGIORNAMENTO (1)
 
-La [L. 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036), ha disposto (con l'art.1, comma 1) che " Le disposizioni da emanare in base alla delega legislativa per la riforma tributaria, concernenti l'imposta sul valore aggiunto, l'abolizione dei tributi indicati al n. II e la revisione di quelli indicati al n. IV dell'[articolo 1 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_1), nonche' quelle previste al n. 16 dell'articolo 10, ai numeri 2, 4, 5 e 10 dell'articolo 11 entreranno in vigore il 1 luglio 1972."
+La [L. 6 dicembre 1971, n. 1036](Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md), ha disposto (con l'art.1, comma 1) che " Le disposizioni da emanare in base alla delega legislativa per la riforma tributaria, concernenti l'imposta sul valore aggiunto, l'abolizione dei tributi indicati al n. II e la revisione di quelli indicati al n. IV dell'[articolo 1 della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), nonche' quelle previste al n. 16 dell'articolo 10, ai numeri 2, 4, 5 e 10 dell'articolo 11 entreranno in vigore il 1 luglio 1972."
 
 --------------
 
 AGGIORNAMENTO (2)
 
-La [L. 6 dicembre 1971, n.1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036), come modificata dal [D.L. 25 maggio 1972, n.202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito con modificazioni dalla [L. 24 luglio 1972, n. 
-321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), ha disposto (con l'art.1) che "Le disposizioni per l'attuazione della riforma tributaria, prevista dalla [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), relative ai punti II, III, IV e V dell'articolo 1 di tale legge, nonche' quelle di cui ai numeri 14 e 15 dell'articolo 10, ai numeri 2, 3, 4, 5 e 14 dell'articolo 11, al numero 1 del secondo comma dell'articolo 12 ed all'ottavo comma dell'articolo 15 della stessa legge, entreranno in vigore il 1 gennaio 1973."
+La [L. 6 dicembre 1971, n.1036](Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md), come modificata dal [D.L. 25 maggio 1972, n.202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito con modificazioni dalla [L. 24 luglio 1972, n. 
+321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), ha disposto (con l'art.1) che "Le disposizioni per l'attuazione della riforma tributaria, prevista dalla [legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), relative ai punti II, III, IV e V dell'articolo 1 di tale legge, nonche' quelle di cui ai numeri 14 e 15 dell'articolo 10, ai numeri 2, 3, 4, 5 e 14 dell'articolo 11, al numero 1 del secondo comma dell'articolo 12 ed all'ottavo comma dell'articolo 15 della stessa legge, entreranno in vigore il 1 gennaio 1973."
 
 ## Art. 12.
 
@@ -271,7 +271,7 @@ Il Consiglio dei Ministri, con l'intervento del presidente della regione, ai sen
 
 AGGIORNAMENTO (2)
 
-La [L. 6 dicembre 1971, n.1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036), come modificata dal [D.L. 25 maggio 1972, n.202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito con modificazioni dalla [L. 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), ha disposto (con l'art.1) che "Le disposizioni per l'attuazione della riforma tributaria, prevista dalla [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), relative ai punti II, III, IV e V dell'articolo 1 di tale legge, nonche' quelle di cui ai numeri 14 e 15 dell'articolo 10, ai numeri 2, 3, 4, 5 e 14 dell'articolo 11, al numero 1 del secondo comma dell'articolo 12 ed all'ottavo comma dell'articolo 15 della stessa legge, entreranno in vigore il 1 gennaio 1973."
+La [L. 6 dicembre 1971, n.1036](Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md), come modificata dal [D.L. 25 maggio 1972, n.202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito con modificazioni dalla [L. 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), ha disposto (con l'art.1) che "Le disposizioni per l'attuazione della riforma tributaria, prevista dalla [legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), relative ai punti II, III, IV e V dell'articolo 1 di tale legge, nonche' quelle di cui ai numeri 14 e 15 dell'articolo 10, ai numeri 2, 3, 4, 5 e 14 dell'articolo 11, al numero 1 del secondo comma dell'articolo 12 ed all'ottavo comma dell'articolo 15 della stessa legge, entreranno in vigore il 1 gennaio 1973."
 
 ## Art. 13.
 
@@ -304,7 +304,7 @@ f) diritto speciale sulle acque da tavola;
 --------------------
  
 AGGIORNAMENTO (1) 
-La [L. 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036), ha disposto (con l'art.2) che " Il termine del 31 dicembre 1971, previsto dal secondo comma del medesimo 
+La [L. 6 dicembre 1971, n. 1036](Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md), ha disposto (con l'art.2) che " Il termine del 31 dicembre 1971, previsto dal secondo comma del medesimo 
 articolo 14, e' prorogato di un anno."
 
 ## Art. 15.
@@ -324,7 +324,7 @@ Il Governo della Repubblica, nell'esercizio della delega, emanera' le disposizio
 
 AGGIORNAMENTO (2)
 
-La [L. 6 dicembre 1971, n.1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036), come modificata dal [D.L. 25 maggio 1972, n.202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito con modificazioni dalla [L. 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), ha disposto (con l'art.1) che "Le disposizioni per l'attuazione della riforma tributaria, prevista dalla [legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825), relative ai punti II, III, IV e V dell'articolo 1 di tale legge, nonche' quelle di cui ai numeri 14 e 15 dell'articolo 10, ai numeri 2, 3, 4, 5 e 14 dell'articolo 11, al numero 1 del secondo comma dell'articolo 12 ed all'ottavo comma dell'articolo 15 della stessa legge, entreranno in vigore il 1 gennaio 1973."
+La [L. 6 dicembre 1971, n.1036](Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md), come modificata dal [D.L. 25 maggio 1972, n.202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito con modificazioni dalla [L. 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), ha disposto (con l'art.1) che "Le disposizioni per l'attuazione della riforma tributaria, prevista dalla [legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), relative ai punti II, III, IV e V dell'articolo 1 di tale legge, nonche' quelle di cui ai numeri 14 e 15 dell'articolo 10, ai numeri 2, 3, 4, 5 e 14 dell'articolo 11, al numero 1 del secondo comma dell'articolo 12 ed all'ottavo comma dell'articolo 15 della stessa legge, entreranno in vigore il 1 gennaio 1973."
 
 ## Art. 16.
 
@@ -357,92 +357,92 @@ Saranno stabilite norme particolari per la organizzazione di corsi di aggiorname
 
 AGGIORNAMENTO (1)
 
-La [L. 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036), ha disposto (con l'art.1) che "Il termine del 31 dicembre 1972, stabilito nel secondo comma 
+La [L. 6 dicembre 1971, n. 1036](Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md), ha disposto (con l'art.1) che "Il termine del 31 dicembre 1972, stabilito nel secondo comma 
 dell'articolo 17, e' prorogato di un anno."
 
 --------------
 
 AGGIORNAMENTO (3)
 
-La [L. 24 luglio 1972, n.321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), ha disposto (con l'art.2.) che " I termini previsti nel [secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com2) e [terzo comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com3), sono stabiliti rispettivamente al 31 
+La [L. 24 luglio 1972, n.321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), ha disposto (con l'art.2.) che " I termini previsti nel [secondo](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md) e [terzo comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), sono stabiliti rispettivamente al 31 
 dicembre 1974 e al 31 dicembre 1976."
 
 ---------------
 
 AGGIORNAMENTO (4)
 
-La [L. 15 novembre 1973, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-15;734), ha disposto (con l'art.39, comma 1) che "il [comma sesto dell'articolo 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com6), per la parte che prevede la concessione di una indennita' 
+La [L. 15 novembre 1973, n. 734](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1973-11-15;734), ha disposto (con l'art.39, comma 1) che "il [comma sesto dell'articolo 17 della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), per la parte che prevede la concessione di una indennita' 
 temporanea di aggiornamento professionale."
 
 ------------
 
 AGGIORNAMENTO (5)
 
-La L. 14 agsoto 1974, n.354 ha disposto (con l'art.2) che "I termini previsti nel secondo e nel [terzo comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com3), gia' prorogati con l'articolo 2, ultimo comma, della [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), sono ulteriormente prorogati 
+La L. 14 agsoto 1974, n.354 ha disposto (con l'art.2) che "I termini previsti nel secondo e nel [terzo comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), gia' prorogati con l'articolo 2, ultimo comma, della [legge 24 luglio 1972, n. 321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), sono ulteriormente prorogati 
 rispettivamente al 31 dicembre 1975 ed al 31 dicembre 1977."
 
 --------------
 
 AGGIORNAMENTO (6)
 
-La [L. 2 dicembre 1975, n.576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-02;576), ha disposto (con l'art.30) che "I termini previsti nel [secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com2) e [terzo comma dello articolo 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com3), gia' prorogati con l'articolo 2, ultimo comma, della [legge 24 luglio 1972, n. 321, e con l'articolo 2, primo comma](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), della [legge 14 agosto 1974, n. 354](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%201974%20n.%20260%20concernente%20norme%20per%20la%20migliore%20realizzazione%20della%20perequazione%20tributaria%20e%20della%20repressione%20dellevasion_2db0f4f8413b.md), sono ulteriormente prorogati rispettivamente al 31 dicembre 1976 ed al 31 dicembre 
+La [L. 2 dicembre 1975, n.576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-02;576), ha disposto (con l'art.30) che "I termini previsti nel [secondo](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md) e [terzo comma dello articolo 17 della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), gia' prorogati con l'articolo 2, ultimo comma, della [legge 24 luglio 1972, n. 321, e con l'articolo 2, primo comma](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md), della [legge 14 agosto 1974, n. 354](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%201974%20n.%20260%20concernente%20norme%20per%20la%20migliore%20realizzazione%20della%20perequazione%20tributaria%20e%20della%20repressione%20dellevasion_2db0f4f8413b.md), sono ulteriormente prorogati rispettivamente al 31 dicembre 1976 ed al 31 dicembre 
 1978."
 
 --------------
 
 AGGIORNAMENTO (8)
 
-La [L. 13 aprile 1977, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-04-13;114), ha disposto (con l'art.22) che "I termini previsti nel secondo e nel [terzo comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com3), prorogati al 31 dicembre 1976 e al 31 dicembre 1978 con l'[articolo 30, primo comma, della legge 2 dicembre 1975, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-02;576#art_30-com1), sono ulteriormente prorogati rispettivamente al 31 
+La [L. 13 aprile 1977, n. 114](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-04-13;114), ha disposto (con l'art.22) che "I termini previsti nel secondo e nel [terzo comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), prorogati al 31 dicembre 1976 e al 31 dicembre 1978 con l'[articolo 30, primo comma, della legge 2 dicembre 1975, n. 576](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-12-02;576#art_30-com1), sono ulteriormente prorogati rispettivamente al 31 
 dicembre 1979 e al 31 dicembre 1980." 
  
 ----------------
  
 AGGIORNAMENTO (10) 
-La [L. 24 aprile 1980, n.146](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-04-24;146), ha disposto (con l'art.48) che "I termini previsti nel [secondo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com2) e [terzo comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com3), e successive modificazioni, sono ulteriormente prorogati, rispettivamente, al 31 dicembre 1981 e al 31 
+La [L. 24 aprile 1980, n.146](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201980.md), ha disposto (con l'art.48) che "I termini previsti nel [secondo](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md) e [terzo comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), e successive modificazioni, sono ulteriormente prorogati, rispettivamente, al 31 dicembre 1981 e al 31 
 dicembre 1982." 
-Ha inoltre disposto che " L'autorizzazione di cui all'[articolo 17, quinto comma, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com5), e' estesa fino al 31 dicembre 1982".
+Ha inoltre disposto che " L'autorizzazione di cui all'[articolo 17, quinto comma, della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), e' estesa fino al 31 dicembre 1982".
 
 -------------
 
 AGGIORNAMENTO (11)
 
-La [L. 12 aprile 1984, n.68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-12;68), ha disposto (con l'art.1) che "Il termine per l'emanazione dei testi unici di cui al [terzo comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com3), e' prorogato al 31 dicembre 
+La [L. 12 aprile 1984, n.68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1984-04-12;68), ha disposto (con l'art.1) che "Il termine per l'emanazione dei testi unici di cui al [terzo comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), e' prorogato al 31 dicembre 
 1985." 
-Ha inoltre disposto che " L'autorizzazione di cui al [quinto comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com5), e estesa fino alla data indicata nel primo comma della presente legge".
+Ha inoltre disposto che " L'autorizzazione di cui al [quinto comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), e estesa fino alla data indicata nel primo comma della presente legge".
 
 ------------
 
 AGGIORNAMENTO (12)
 
-La [L. 24 dicembre 1985, n.777](../Atti%20normativi%20abrogati%20%28in%20originale%29/Differimento%20del%20termine%20per%20lemanazione%20dei%20testi%20unici%20previsti%20dallarticolo%2017%20della%20legge%209%20ottobre%201971%20n.%20825%20e%20successive%20modificazioni.md), ha disposto (con l'articolo unico, comma 2) che " L'autorizzazione di cui al [quinto comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com5), e' estesa fino al 31 dicembre 1986."
+La [L. 24 dicembre 1985, n.777](../Atti%20normativi%20abrogati%20%28in%20originale%29/Differimento%20del%20termine%20per%20lemanazione%20dei%20testi%20unici%20previsti%20dallarticolo%2017%20della%20legge%209%20ottobre%201971%20n.%20825%20e%20successive%20modificazioni.md), ha disposto (con l'articolo unico, comma 2) che " L'autorizzazione di cui al [quinto comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), e' estesa fino al 31 dicembre 1986."
 
 --------------
 
 AGGIORNAMENTO (13)
 
-La [L. 29 dicembre 1987, n.550](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-12-29;550), ha disposto (con l'articolo unico, comma 4) che "La commissione parlamentare di cui all'[articolo 17, terzo comma, della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com3), e' composta da quindici senatori e quindici deputati nominati dai Presidenti delle rispettive Assemblee in rappresentanza proporzionale dei gruppi 
+La [L. 29 dicembre 1987, n.550](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-12-29;550), ha disposto (con l'articolo unico, comma 4) che "La commissione parlamentare di cui all'[articolo 17, terzo comma, della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), e' composta da quindici senatori e quindici deputati nominati dai Presidenti delle rispettive Assemblee in rappresentanza proporzionale dei gruppi 
 parlamentari." 
-Ha inoltre disposto che "Fino alla stessa data del 31 dicembre 1988 e' estesa l'autorizzazione di cui al [quinto comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com5), e successive modificazioni ed 
+Ha inoltre disposto che "Fino alla stessa data del 31 dicembre 1988 e' estesa l'autorizzazione di cui al [quinto comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), e successive modificazioni ed 
 integrazioni."
 
 -------------
 
 AGGIORNAMENTO (14)
 
-La [L. 10 febbraio 1989, n.48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-10;48), ha disposto (con l'art.17, comma 3) che "Fino alla stessa data del 31 dicembre 1990 e' estesa l'autorizzazione di cui al [quinto comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com5), e successive modificazioni ed integrazioni." Ha inoltre disposto (con l'art.22, comma 1) che " Le disposizioni 
+La [L. 10 febbraio 1989, n.48](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-02-10;48), ha disposto (con l'art.17, comma 3) che "Fino alla stessa data del 31 dicembre 1990 e' estesa l'autorizzazione di cui al [quinto comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md), e successive modificazioni ed integrazioni." Ha inoltre disposto (con l'art.22, comma 1) che " Le disposizioni 
 della presente legge hanno effetto a decorrere dal 1 gennaio 1989."
 
 -------------
 
 AGGIORNAMENTO (15)
 
-La [L. 26 giugno 1990, n.165](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20aprile%201990%20n.%2090%20recante%20disposizioni%20in%20materia%20di%20determinazione%20del%20reddito%20ai%20fini%20delle%20imposte%20sui%20redditi%20di%20rimborsi%20d_30659e7e2a97.md), ha disposto (con l'articolo unico, comma 3) che "Fino alla stessa data del 31 dicembre 1992 e' estesa l'autorizzazione di cui al [quinto comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com5)."
+La [L. 26 giugno 1990, n.165](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20aprile%201990%20n.%2090%20recante%20disposizioni%20in%20materia%20di%20determinazione%20del%20reddito%20ai%20fini%20delle%20imposte%20sui%20redditi%20di%20rimborsi%20d_30659e7e2a97.md), ha disposto (con l'articolo unico, comma 3) che "Fino alla stessa data del 31 dicembre 1992 e' estesa l'autorizzazione di cui al [quinto comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md)."
 
 --------------
 
 AGGIORNAMENTO (16)
 
-La [L. 24 marzo 1993, n.75](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201993%20n.%2016%20recante%20disposizioni%20in%20materia%20di%20imposte%20sui%20redditi%20sui%20trasferimenti%20di%20immobili%20di%20civile%20abitazione%20di_d7e44fdc9d83.md), ha disposto (con l'art.3, comma 2) che "Fino alla data del 31 dicembre 1994 e' estesa l'autorizzazione di cui al [quinto comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-10-09;825#art_17-com5)."
+La [L. 24 marzo 1993, n.75](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2023%20gennaio%201993%20n.%2016%20recante%20disposizioni%20in%20materia%20di%20imposte%20sui%20redditi%20sui%20trasferimenti%20di%20immobili%20di%20civile%20abitazione%20di_d7e44fdc9d83.md), ha disposto (con l'art.3, comma 2) che "Fino alla data del 31 dicembre 1994 e' estesa l'autorizzazione di cui al [quinto comma dell'articolo 17 della legge 9 ottobre 1971, n. 825](Delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20riforma%20tributaria.md)."
 
 ## Art. 18.
 

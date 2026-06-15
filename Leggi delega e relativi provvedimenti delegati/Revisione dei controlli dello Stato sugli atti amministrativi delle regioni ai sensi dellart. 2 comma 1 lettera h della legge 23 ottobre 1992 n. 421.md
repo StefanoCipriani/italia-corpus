@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 2, comma 1, lettera h), della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_2-com1-leth);
+Visto l'[art. 2, comma 1, lettera h), della legge 23 ottobre 1992, n. 421](Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 10 dicembre 1992;
 

@@ -5073,7 +5073,7 @@ Qualora non sia possibile evitare la riduzione di personale, e' esaminata la pos
 
 7.
 
-Sono esclusi dall'ambito di applicazione dell'[articolo 1, commi da 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234#art_1-com224) [a 238, della legge 30 dicembre 2021, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234#art_1-com238), i licenziamenti intimati ai sensi del comma 6.
+Sono esclusi dall'ambito di applicazione dell'[articolo 1, commi da 224](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202022%20e%20bilancio%20pluriennale%20per%20il%20triennio%202022-2024.%2021G00256.md) [a 238, della legge 30 dicembre 2021, n. 234](../Leggi%20finanziarie%20e%20di%20bilancio/Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202022%20e%20bilancio%20pluriennale%20per%20il%20triennio%202022-2024.%2021G00256.md), i licenziamenti intimati ai sensi del comma 6.
 
 8.
 
@@ -8435,7 +8435,7 @@ Dopo l'[articolo 16-bis, comma 4, del decreto-legge 18 ottobre 2012, n. 179](htt
 
 Note all'art. 360: 
  
- - Per l'articolo 16-bis del citato [decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179), convertito, con modificazioni, dalla [legge 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228) vedi note all'articolo 358 del presente decreto legislativo.
+ - Per l'articolo 16-bis del citato [decreto-legge 18 ottobre 2012, n. 179](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179), convertito, con modificazioni, dalla [legge 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) vedi note all'articolo 358 del presente decreto legislativo.
 
 ### Art. 361.
 

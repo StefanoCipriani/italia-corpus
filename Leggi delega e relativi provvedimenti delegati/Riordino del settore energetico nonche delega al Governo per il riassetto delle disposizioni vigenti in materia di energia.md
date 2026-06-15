@@ -465,7 +465,7 @@ Ai fini della diversificazione delle fonti energetiche a tutela della sicurezza 
 
 71.
 
-COMMA ABROGATO DALLA [L. 27 DICEMBRE 2006, N. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296).
+COMMA ABROGATO DALLA [L. 27 DICEMBRE 2006, N. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md).
 
 72.
 
@@ -683,7 +683,7 @@ Al fine di garantire la maggiore funzionalita' dei compiti assegnati al Minister
 
 117.
 
-All'onere derivante dall'attuazione del comma 116, pari a euro 2.000.000 per ciascuno degli anni 2004, 2005 e 2006, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 1, comma 43, della legge 28 dicembre 1995, n. 549](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549#art_1-com43), come da ultimo rifinanziata dalla tabella C, voce "Ministero delle attivita' produttive", allegata alla [legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350).
+All'onere derivante dall'attuazione del comma 116, pari a euro 2.000.000 per ciascuno degli anni 2004, 2005 e 2006, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 1, comma 43, della legge 28 dicembre 1995, n. 549](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_2.md), come da ultimo rifinanziata dalla tabella C, voce "Ministero delle attivita' produttive", allegata alla [legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md).
 
 118.
 

@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Vista la [legge 17 gennaio 1994, n. 47](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-01-17;47), recante delega al Governo per l'emanazione di nuove disposizioni in materia di comunicazioni e certificazioni di cui alla [legge 31 maggio 1965, n. 575](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20contro%20la%20mafia.md);
+Vista la [legge 17 gennaio 1994, n. 47](Delega%20al%20Governo%20per%20lemanazione%20di%20nuove%20disposizioni%20in%20materia%20di%20comunicazioni%20e%20certificazioni%20di%20cui%20alla%20legge%2031%20maggio%201965%20n.%20575.md), recante delega al Governo per l'emanazione di nuove disposizioni in materia di comunicazioni e certificazioni di cui alla [legge 31 maggio 1965, n. 575](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disposizioni%20contro%20la%20mafia.md);
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 5 agosto 1994;
 

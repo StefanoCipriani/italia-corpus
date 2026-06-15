@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[art. 1, comma 1, lettera h), della legge 23 ottobre 1992, n. 421](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421#art_1-com1-leth);
+Visto l'[art. 1, comma 1, lettera h), della legge 23 ottobre 1992, n. 421](Delega%20al%20Governo%20per%20la%20razionalizzazione%20e%20la%20revisione%20delle%20discipline%20in%20materia%20di%20sanita%20di%20pubblico%20impiego%20di%20previdenza%20e%20di%20finanza%20territoriale.md);
 
 Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione dell'11 giugno 1993;
 
@@ -181,7 +181,7 @@ Per consentire all'Agenzia di fare fronte tempestivamente e compiutamente ai pro
 
 5.
 
-Alle spese di funzionamento dell'Agenzia si fa fronte con un contributo annuo a carico dello Stato pari a lire 12,8 miliardi a partire dall'anno 2001. Al relativo onere si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 12, comma 2, lettera b), del decreto legislativo 30 dicembre 1992, n. 502](Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, come rideterminata dalla tabella C della [legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388) (legge finanziaria 2001).
+Alle spese di funzionamento dell'Agenzia si fa fronte con un contributo annuo a carico dello Stato pari a lire 12,8 miliardi a partire dall'anno 2001. Al relativo onere si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 12, comma 2, lettera b), del decreto legislativo 30 dicembre 1992, n. 502](Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, come rideterminata dalla tabella C della [legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) (legge finanziaria 2001).
 
 6.
 
@@ -191,7 +191,7 @@ Sono abrogati i [commi 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:
 
  
 AGGIORNAMENTO (7) 
- La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 2, comma 357) che "La gestione amministrativa del programma di ECM e il supporto alla Commissione nazionale per la formazione continua di cui all'[articolo 16-ter del decreto legislativo 30 dicembre 1992, n. 502](Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, sono trasferiti all'Agenzia per i servizi sanitari regionali, istituita dall'[articolo 5 del decreto legislativo 30 giugno 1993, n. 266](../Decreti%20Legislativi/Riordinamento%20del%20Ministero%20della%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, che, a decorrere dalla data di entrata in vigore della presente legge, assume la denominazione di Agenzia nazionale per i servizi sanitari regionali, organo tecnico-scientifico del Servizio sanitario nazionale, che svolge attivita' di ricerca e di supporto nei confronti del Ministro della salute, delle regioni e delle province autonome di Trento e di Bolzano".
+ La [L. 24 dicembre 2007, n. 244](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 2, comma 357) che "La gestione amministrativa del programma di ECM e il supporto alla Commissione nazionale per la formazione continua di cui all'[articolo 16-ter del decreto legislativo 30 dicembre 1992, n. 502](Riordino%20della%20disciplina%20in%20materia%20sanitaria%20a%20norma%20dellarticolo%201%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, sono trasferiti all'Agenzia per i servizi sanitari regionali, istituita dall'[articolo 5 del decreto legislativo 30 giugno 1993, n. 266](../Decreti%20Legislativi/Riordinamento%20del%20Ministero%20della%20sanita%20a%20norma%20dellart.%201%20comma%201%20lettera%20h%20della%20legge%2023%20ottobre%201992%20n.%20421.md), e successive modificazioni, che, a decorrere dalla data di entrata in vigore della presente legge, assume la denominazione di Agenzia nazionale per i servizi sanitari regionali, organo tecnico-scientifico del Servizio sanitario nazionale, che svolge attivita' di ricerca e di supporto nei confronti del Ministro della salute, delle regioni e delle province autonome di Trento e di Bolzano".
 
 ## Art. 6. — Organi periferici
 

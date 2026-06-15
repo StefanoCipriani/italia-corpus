@@ -118,7 +118,7 @@ Le disposizioni previste nei precedenti articoli saranno emanate entro dodici me
 
 AGGIORNAMENTO (1)
 
-La [L. 3 ottobre 1987, n. 403, (con l'art.1, comma 2](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20agosto%201987%20n.%20326%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20delle%20aliquote%20dellimposta%20sugli%20spettacoli%20per%20i%20settori%20sport_da30e997990a.md)) ha disposto che"Il termine previsto dall'[articolo 3 della legge 4 ottobre 1986, n. 657](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-10-04;657#art_3), e' prorogato al 31 gennaio 1988."
+La [L. 3 ottobre 1987, n. 403, (con l'art.1, comma 2](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20agosto%201987%20n.%20326%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20delle%20aliquote%20dellimposta%20sugli%20spettacoli%20per%20i%20settori%20sport_da30e997990a.md)) ha disposto che"Il termine previsto dall'[articolo 3 della legge 4 ottobre 1986, n. 657](Delega%20al%20Governo%20per%20la%20istituzione%20e%20la%20disciplina%20del%20servizio%20di%20riscossione%20dei%20tributi.md), e' prorogato al 31 gennaio 1988."
 
 ## Art. 4.
 

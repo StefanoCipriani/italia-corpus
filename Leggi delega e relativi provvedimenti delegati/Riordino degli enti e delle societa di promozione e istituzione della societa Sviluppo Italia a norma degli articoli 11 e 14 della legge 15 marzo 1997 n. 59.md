@@ -12,7 +12,7 @@ IL PRESIDENTE DELLA REPUBBLICA
 
 Visti gli [articoli 76](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_76) e [87 della Costituzione](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27;const#art_87);
 
-Visto l'[articolo 11, comma 1, lettera b)](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_11-com1-letb), e l'[articolo 14 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_14);
+Visto l'[articolo 11, comma 1, lettera b)](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e l'[articolo 14 della legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md);
 
 Vista la [legge 30 giugno 1998, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-30;208);
 
@@ -104,7 +104,7 @@ Con apposite convenzioni sono disciplinati i rapporti con le amministrazioni sta
 
 AGGIORNAMENTO (2)
 
-La [L. 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296) ha disposto (con l'art. 1, comma 464) che "All'[articolo 2, comma 6, del decreto legislativo 9 gennaio 1999, n. 1](../Decreti%20Legislativi/Riordino%20degli%20enti%20e%20delle%20societa%20di%20promozione%20e%20istituzione%20della%20societa%20Sviluppo%20Italia%20a%20norma%20degli%20articoli%2011%20e%2014%20della%20legge%2015%20marzo%201997%20n.%2059.md), le parole: "e con il Ministro per le politiche agricole" sono soppresse".
+La [L. 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md) ha disposto (con l'art. 1, comma 464) che "All'[articolo 2, comma 6, del decreto legislativo 9 gennaio 1999, n. 1](../Decreti%20Legislativi/Riordino%20degli%20enti%20e%20delle%20societa%20di%20promozione%20e%20istituzione%20della%20societa%20Sviluppo%20Italia%20a%20norma%20degli%20articoli%2011%20e%2014%20della%20legge%2015%20marzo%201997%20n.%2059.md), le parole: "e con il Ministro per le politiche agricole" sono soppresse".
 
 ## Art. 3.
 

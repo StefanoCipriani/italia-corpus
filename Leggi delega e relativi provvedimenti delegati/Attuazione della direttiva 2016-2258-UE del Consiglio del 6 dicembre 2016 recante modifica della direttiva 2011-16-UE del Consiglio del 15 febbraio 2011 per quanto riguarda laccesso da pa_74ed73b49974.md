@@ -92,7 +92,7 @@ N O T E
  a) esprime parere: 
  1) sul disegno di legge finanziaria e sui disegni di legge collegati; 
  2) sul documento di programmazione economica e finanziaria; 
- 3) sugli schemi di decreto legislativo adottati in base all'[articolo 1 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_1); 
+ 3) sugli schemi di decreto legislativo adottati in base all'[articolo 1 della legge 15 marzo 1997, n. 59](Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md); 
  b) promuove e sancisce intese tra Governo, regioni, province, comuni e comunita' montane. Nel caso di mancata intesa o di urgenza si applicano le disposizioni di cui all'articolo 3, commi 3 e 4; 
  c) promuove e sancisce accordi tra Governo, regioni, province, comuni e comunita' montane, al fine di coordinare l'esercizio delle rispettive competenze e svolgere in collaborazione attivita' di interesse comune; 
  d) acquisisce le designazioni dei rappresentanti delle autonomie locali indicati, rispettivamente, dai presidenti delle regioni e province autonome di Trento e di Bolzano, dall'ANCI, dall'UPI e dall'UNCEM nei casi previsti dalla legge; 
@@ -110,7 +110,7 @@ N O T E
  c) di ogni altro problema connesso con gli scopi di cui al presente comma che venga sottoposto, anche su richiesta del Presidente dell'ANCI, dell'UPI e dell'UNCEM, al parere della Conferenza dal Presidente del Consiglio dei Ministri o dal Presidente delegato. 
  7. La Conferenza Stato-citta' ed autonomie locali ha inoltre il compito di favorire: 
  a) l'informazione e le iniziative per il miglioramento dell'efficienza dei servizi pubblici locali; 
- b) la promozione di accordi o contratti di programma ai sensi dell'[articolo 12 della legge 23 dicembre 1992, n. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498#art_12); 
+ b) la promozione di accordi o contratti di programma ai sensi dell'[articolo 12 della legge 23 dicembre 1992, n. 498](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md); 
  c) le attivita' relative alla organizzazione di manifestazioni che coinvolgono piu' comuni o province da celebrare in ambito nazionale.». 
  
  Note all'art. 1: 

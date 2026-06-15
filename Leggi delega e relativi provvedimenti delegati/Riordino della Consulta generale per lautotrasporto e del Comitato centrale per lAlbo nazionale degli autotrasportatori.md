@@ -387,7 +387,7 @@ Il Comitato centrale e' composto dai seguenti membri effettivi, nominati con dec
  6) essere stata firmataria, nel corso degli ultimi dieci anni, di rinnovi del contratto collettivo nazionale di lavoro logistica, trasporto merci e spedizione; 
  7) essere rappresentata in seno al Consiglio nazionale dell'economia e del lavoro, direttamente o per il tramite ((della Confederazione alla quale aderisce; ove sia rappresentata per il tramite della Confederazione, tale Confederazione deve aver fatto parte dell'Assemblea Generale del Consiglio nazionale dell'economia e del lavoro almeno per tre mandati negli ultimi cinque e puo' indicare una sola associazione di categoria));
                             g)
-                                LETTERA ABROGATA DALLA [L. 27 DICEMBRE 2013, N. 147](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-12-27;147).
+                                LETTERA ABROGATA DALLA [L. 27 DICEMBRE 2013, N. 147](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202014.%2013G00191.md).
 
 2.
 
@@ -401,7 +401,7 @@ I componenti del Comitato centrale durano in carica tre anni e possono essere co
 
 AGGIORNAMENTO (3)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228), nel modificare l'[art. 12, comma 84, del D.L. 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95#art_12-com84), convertito con modificazioni dalla [L. 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), ha conseguentemente disposto (con l'art. 1, comma 388) che le presenti modifiche entrano in vigore il 30 giugno 2013.
+La [L. 24 dicembre 2012, n. 228](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md), nel modificare l'[art. 12, comma 84, del D.L. 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95#art_12-com84), convertito con modificazioni dalla [L. 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), ha conseguentemente disposto (con l'art. 1, comma 388) che le presenti modifiche entrano in vigore il 30 giugno 2013.
 
 ### Art. 11.
 

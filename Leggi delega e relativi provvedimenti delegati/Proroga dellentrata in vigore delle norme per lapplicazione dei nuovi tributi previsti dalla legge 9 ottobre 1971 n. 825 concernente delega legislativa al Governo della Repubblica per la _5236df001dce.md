@@ -51,7 +51,7 @@ E' prorogata al 30 giugno 1972, l'applicazione della addizionale straordinaria a
 
 AGGIORNAMENTO (1)
 
-Il [D.L. 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito con modificazioni dalla [L. 24 luglio 1972, n.321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md) ha disposto (con l'art.6, comma 1) che " Il termine del 30 giugno 1972, indicato nell'[art. 4 della legge 6 dicembre 1971, n. 1036](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1971-12-06;1036#art_4), e' sostituito da quello del 31 dicembre 1972."
+Il [D.L. 25 maggio 1972, n. 202](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-05-25;202), convertito con modificazioni dalla [L. 24 luglio 1972, n.321](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20maggio%201972%20n.%20202%20recante%20modifiche%20e%20integrazioni%20alla%20legge%206%20dicembre%201971%20n.%201036%20in%20materia%20di%20riforma%20tributaria.md) ha disposto (con l'art.6, comma 1) che " Il termine del 30 giugno 1972, indicato nell'[art. 4 della legge 6 dicembre 1971, n. 1036](Proroga%20dellentrata%20in%20vigore%20delle%20norme%20per%20lapplicazione%20dei%20nuovi%20tributi%20previsti%20dalla%20legge%209%20ottobre%201971%20n.%20825%20concernente%20delega%20legislativa%20al%20Governo%20della%20Repubblica%20per%20la%20_5236df001dce.md), e' sostituito da quello del 31 dicembre 1972."
 
 ## Art. 5.
 
