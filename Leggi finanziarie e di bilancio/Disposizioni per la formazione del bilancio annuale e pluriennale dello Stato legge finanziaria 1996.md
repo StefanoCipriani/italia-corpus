@@ -89,7 +89,7 @@ Le somme di cui ai commi 9, 10 e 12 sono comprensive degli oneri contributivi pe
 
 AGGIORNAMENTO (3)
 
-La [L. 2 ottobre 1997, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-10-02;334) ha disposto (con l'art. 3, comma 1) che "L'[articolo 2, comma 11, della legge 28 dicembre 1995, n. 550](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;550#art_2-com11), si interpreta nel senso che l'erogazione dei buoni pasto e' dovuta, secondo le modalita' previste negli specifici accordi, anche ai dipendenti civili delle Amministrazioni e loro articolazioni del comparto Ministeri, nelle quali, per le particolari esigenze fatte salve dall'[articolo 22 della legge 23 dicembre 1994, n. 724](Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), non sia attivato l'orario di servizio e di lavoro su cinque giorni."
+La [L. 2 ottobre 1997, n. 334](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-10-02;334) ha disposto (con l'art. 3, comma 1) che "L'[articolo 2, comma 11, della legge 28 dicembre 1995, n. 550](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201996.md), si interpreta nel senso che l'erogazione dei buoni pasto e' dovuta, secondo le modalita' previste negli specifici accordi, anche ai dipendenti civili delle Amministrazioni e loro articolazioni del comparto Ministeri, nelle quali, per le particolari esigenze fatte salve dall'[articolo 22 della legge 23 dicembre 1994, n. 724](Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md), non sia attivato l'orario di servizio e di lavoro su cinque giorni."
 
 ## DISPOSIZIONI IN MATERIA DI ENTRATA E PER LA FAMIGLIA
 
@@ -169,7 +169,7 @@ Il versamento delle rate annuali di cui all'[articolo 6, comma 2, della legge 23
 
 AGGIORNAMENTO (2)
 
-La [L. 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662) ha disposto (con l'art. 2, comma 136) che "L'autorizzazione di spesa prevista dall'[articolo 4, comma 6, della legge 28 dicembre 1995, n. 550](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;550#art_4-com6) (legge finanziaria 1996), e' ridotta di lire 370 miliardi per l'anno 1996, di lire 550 miliardi per l'anno 1997 e di lire 600 miliardi per l'anno 1998."
+La [L. 23 dicembre 1996, n. 662](Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md) ha disposto (con l'art. 2, comma 136) che "L'autorizzazione di spesa prevista dall'[articolo 4, comma 6, della legge 28 dicembre 1995, n. 550](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201996.md) (legge finanziaria 1996), e' ridotta di lire 370 miliardi per l'anno 1996, di lire 550 miliardi per l'anno 1997 e di lire 600 miliardi per l'anno 1998."
 
 ## DISPOSIZIONI IN MATERIA DI PREVIDENZA
 

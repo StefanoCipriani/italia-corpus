@@ -88,7 +88,7 @@ La Corte Costituzionale, con sentenza 25 febbraio-2 marzo 1987, n. 61 (in G.U. 1
 
 AGGIORNAMENTO (10)
 
-La [L. 11 marzo 1988, n.67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67) ha disposto (con l'art.8 comma 2) che"La tassa erariale automobilistica, nella misura risultante dall'applicazione dell'[articolo 3, comma 3, della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_3-com3), e' aumentata del 25 per cento."
+La [L. 11 marzo 1988, n.67](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md) ha disposto (con l'art.8 comma 2) che"La tassa erariale automobilistica, nella misura risultante dall'applicazione dell'[articolo 3, comma 3, della legge 28 febbraio 1986, n. 41](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), e' aumentata del 25 per cento."
 
 ### Art. 4.
 
@@ -132,7 +132,7 @@ E' abrogata ogni altra disposizione in contrasto con quanto previsto nel present
 
 AGGIORNAMENTO (25)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228) ha disposto (con l'art. 1, comma 7) che "Le risorse disponibili per gli interventi recati dalle autorizzazioni di spesa di cui all'elenco n. 2, allegato alla presente legge, sono ridotte per ciascuno degli anni 2013, 2014, 2015 e successivi per gli importi ivi indicati."
+La [L. 24 dicembre 2012, n. 228](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 7) che "Le risorse disponibili per gli interventi recati dalle autorizzazioni di spesa di cui all'elenco n. 2, allegato alla presente legge, sono ridotte per ciascuno degli anni 2013, 2014, 2015 e successivi per gli importi ivi indicati."
 
 ## DISPOSIZIONI IN MATERIA DI FINANZA REGIONALE E LOCALE
 
@@ -386,13 +386,13 @@ Il D.P.C.M. 24 ottobre 1986 (in G.U. 22/11/1986, n. 272) ha disposto (con l'art.
 
 AGGIORNAMENTO (3)
 
-La [L. 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910) ha disposto (con l'art. 8, comma 12) che "In materia di assunzioni di personale continuano ad applicarsi nell'anno 1987 le disposizioni di cui ai commi da 10 a 22 dell'articolo 6 e le disposizioni dell'[articolo 7 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_7), intendendosi corrispondentemente sostituiti i riferimenti temporali in essi contenuti".
+La [L. 22 dicembre 1986, n. 910](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md) ha disposto (con l'art. 8, comma 12) che "In materia di assunzioni di personale continuano ad applicarsi nell'anno 1987 le disposizioni di cui ai commi da 10 a 22 dell'articolo 6 e le disposizioni dell'[articolo 7 della legge 28 febbraio 1986, n. 41](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), intendendosi corrispondentemente sostituiti i riferimenti temporali in essi contenuti".
 
 --------------
 
 AGGIORNAMENTO (6)
 
-Il D.P.C.M. 26 giugno 1987 (in G.U. 23/09/1987, n. 222) ha disposto (con l'art. 1, comma 1) che, in base all'[art. 8, comma 12 della L. 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910#art_8-com12), il quale stabilisce l'applicazione anche per l'anno 1987 delle disposizioni dei commi da 10 a 22 del presente articolo, e' approvato, nell'ambito del piano annuale delle assunzioni, il progetto di assunzioni in deroga al divieto di cui al comma 10 del presente articolo.
+Il D.P.C.M. 26 giugno 1987 (in G.U. 23/09/1987, n. 222) ha disposto (con l'art. 1, comma 1) che, in base all'[art. 8, comma 12 della L. 22 dicembre 1986, n. 910](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md), il quale stabilisce l'applicazione anche per l'anno 1987 delle disposizioni dei commi da 10 a 22 del presente articolo, e' approvato, nell'ambito del piano annuale delle assunzioni, il progetto di assunzioni in deroga al divieto di cui al comma 10 del presente articolo.
 
 ### Art. 7.
 
@@ -414,7 +414,7 @@ Per la individuazione dei posti da mettere a concorso alle varie qualifiche funz
 
 AGGIORNAMENTO (3)
 
-La [L. 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910) ha disposto (con l'art. 8, comma 12) che "In materia di assunzioni di personale continuano ad applicarsi nell'anno 1987 le disposizioni di cui ai commi da 10 a 22 dell'articolo 6 e le disposizioni dell'[articolo 7 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_7), intendendosi corrispondentemente sostituiti i riferimenti temporali in essi contenuti".
+La [L. 22 dicembre 1986, n. 910](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md) ha disposto (con l'art. 8, comma 12) che "In materia di assunzioni di personale continuano ad applicarsi nell'anno 1987 le disposizioni di cui ai commi da 10 a 22 dell'articolo 6 e le disposizioni dell'[articolo 7 della legge 28 febbraio 1986, n. 41](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), intendendosi corrispondentemente sostituiti i riferimenti temporali in essi contenuti".
 
 ### Art. 8.
 
@@ -712,9 +712,9 @@ Le richieste di liquidazioni relative a concessioni accordate ai sensi delle [le
 AGGIORNAMENTO (21)
 
 Il [D.P.R. 20 agosto 2001, n.361](../DPR/Regolamento%20di%20semplificazione%20concernente%20labrogazione%20della%20normativa%20sul%20procedimento%20per%20gli%20interventi%20a%20favore%20dei%20centri%20commerciali%20allingrosso%20e%20dei%20mercati%20agroalimentari.md) ha disposto (con l'art.1) che"Con decreto del Ministro delle attivita' produttive, adottato successivamente all'adozione dell'ultimo provvedimento di liquidazione, erogazione e controllo dei relativi contributi, e' dichiarata la cessazione dell'operativita' delle procedure di concessione delle agevolazioni di cui all'[articolo 11, comma 16, 
-della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_11-com16), e successive modificazioni. " 
+della legge 28 febbraio 1986, n. 41](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), e successive modificazioni. " 
 Ha inoltre disposto (con l'art.2 comma 1) che"Fermo restando quanto previsto dal [decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), e dal decreto del Presidente del Consiglio dei Ministri 26 maggio 2000, pubblicato nella Gazzetta Ufficiale n. 149 del 28 giugno 2000, sono soppressi i procedimenti per la concessione di contributi a favore dei centri commerciali all'ingrosso e dei mercati agro-alimentari di cui 
-all'[articolo 11, comma 16, della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_11-com16)."
+all'[articolo 11, comma 16, della legge 28 febbraio 1986, n. 41](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md)."
 
 ### Art. 12.
 
@@ -882,19 +882,19 @@ Per l'attuazione di quanto previsto al precedente comma 10, il Ministro per l'ec
 
 AGGIORNAMENTO (3)
 
-La [L. 22 dicembre 1986, n.910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910) ha disposto (con l'art. 5 comma 2) che "L'ammontare dei mutui di cui all'[articolo 14, comma 3, della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_14-com3), e' elevato a lire 2.000 miliardi".
+La [L. 22 dicembre 1986, n.910](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md) ha disposto (con l'art. 5 comma 2) che "L'ammontare dei mutui di cui all'[articolo 14, comma 3, della legge 28 febbraio 1986, n. 41](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), e' elevato a lire 2.000 miliardi".
 
 ------------
 
 AGGIORNAMENTO (10)
 
-La [L 11 marzo 1988, n.67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67) ha disposto (con l'art.17 comma 33) che "La commissione tecnico-scientifica, di cui all'[articolo 14 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_14), e' integrata da nove membri scelti tra le categorie indicate nel [comma 2 dell'articolo 3 della legge 17 dicembre 1986, n. 878](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-17;878#art_3-com2)".
+La [L 11 marzo 1988, n.67](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md) ha disposto (con l'art.17 comma 33) che "La commissione tecnico-scientifica, di cui all'[articolo 14 della legge 28 febbraio 1986, n. 41](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), e' integrata da nove membri scelti tra le categorie indicate nel [comma 2 dell'articolo 3 della legge 17 dicembre 1986, n. 878](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-17;878#art_3-com2)".
 
 -------------
 
 AGGIORNAMENTO (23)
 
-Il [D.P.R. 14 maggio 2007, n.90](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20dellambiente%20e%20della%20tutela%20del%20territorio%20e%20del%20mare%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%202_56b8492b8646.md) ha disposto (con l'art.2 comma 1) che "Dalla data di entrata in vigore del presente regolamento la Commissione tecnico scientifica, istituita ai sensi dell'[articolo 14, comma 7, della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_14-com7), e del [decreto del Presidente della Repubblica 23 novembre 1991, n. 438](../DPR/Regolamento%20per%20lorganizzazione%20e%20il%20funzionamento%20della%20commissione%20tecnico-scientifica%20per%20la%20valutazione%20dei%20progetti%20di%20protezione%20e%20risanamento%20ambientale%20del%20Ministero%20dellambiente.md), e' ridenominata "Commissione di valutazione degli investimenti e di supporto alla programmazione e gestione degli interventi ambientali".
+Il [D.P.R. 14 maggio 2007, n.90](../DPR/Regolamento%20per%20il%20riordino%20degli%20organismi%20operanti%20presso%20il%20Ministero%20dellambiente%20e%20della%20tutela%20del%20territorio%20e%20del%20mare%20a%20norma%20dellarticolo%2029%20del%20decreto-legge%204%20luglio%202006%20n.%202_56b8492b8646.md) ha disposto (con l'art.2 comma 1) che "Dalla data di entrata in vigore del presente regolamento la Commissione tecnico scientifica, istituita ai sensi dell'[articolo 14, comma 7, della legge 28 febbraio 1986, n. 41](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), e del [decreto del Presidente della Repubblica 23 novembre 1991, n. 438](../DPR/Regolamento%20per%20lorganizzazione%20e%20il%20funzionamento%20della%20commissione%20tecnico-scientifica%20per%20la%20valutazione%20dei%20progetti%20di%20protezione%20e%20risanamento%20ambientale%20del%20Ministero%20dellambiente.md), e' ridenominata "Commissione di valutazione degli investimenti e di supporto alla programmazione e gestione degli interventi ambientali".
 
 ### Art. 15.
 
@@ -1433,7 +1433,7 @@ Il [D.L. 30 dicembre 1987, n. 536](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (10)
 
-La [L. 11 marzo 1988, n.67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67) ha disposto (con l'art.10 comma 6) che" In ogni caso le quote capitarie di cui all'[articolo 31 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_31), si intendono dovute salvo prova contraria da parte del contribuente, sulla base dell'aliquota dovuta ai sensi dell'articolo 31 della medesima legge, come modificato dalle presenti disposizioni, e dell'imponibile effettivo".
+La [L. 11 marzo 1988, n.67](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md) ha disposto (con l'art.10 comma 6) che" In ogni caso le quote capitarie di cui all'[articolo 31 della legge 28 febbraio 1986, n. 41](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), si intendono dovute salvo prova contraria da parte del contribuente, sulla base dell'aliquota dovuta ai sensi dell'articolo 31 della medesima legge, come modificato dalle presenti disposizioni, e dell'imponibile effettivo".
 
 --------------
 
@@ -1446,13 +1446,13 @@ Il [D.L. 19 settembre 1992, n.384](https://www.normattiva.it/uri-res/N2Ls?urn:ni
 
 AGGIORNAMENTO (15)
 
-La [L. 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537) ha disposto (con l'art.8 comma 19) che" L'importo previsto dall'[articolo 31, comma 14, della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_31-com14), e successive modificazioni, e' elevato a lire 150.000.000 annue".
+La [L. 24 dicembre 1993, n. 537](Interventi%20correttivi%20di%20finanza%20pubblica.md) ha disposto (con l'art.8 comma 19) che" L'importo previsto dall'[articolo 31, comma 14, della legge 28 febbraio 1986, n. 41](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), e successive modificazioni, e' elevato a lire 150.000.000 annue".
 
 --------------
 
 AGGIORNAMENTO (17)
 
-Il [D.Lgs. 15 dicembre 1997, n.446](../Decreti%20Legislativi/Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md) ha disposto (con l'art.36 comma 1 lettera a) che"Salvo quanto disposto dall'articolo 37, l'imposta regionale sulle attivita' produttive si applica a decorrere dalla data di entrata in vigore del presente decreto e dalla medesima data sono aboliti: a) i contributi per il servizio sanitario nazionale di cui all'[articolo 31 della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_31)".
+Il [D.Lgs. 15 dicembre 1997, n.446](../Decreti%20Legislativi/Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md) ha disposto (con l'art.36 comma 1 lettera a) che"Salvo quanto disposto dall'articolo 37, l'imposta regionale sulle attivita' produttive si applica a decorrere dalla data di entrata in vigore del presente decreto e dalla medesima data sono aboliti: a) i contributi per il servizio sanitario nazionale di cui all'[articolo 31 della legge 28 febbraio 1986, n. 41](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md)".
 
 ## DISPOSIZIONI DIVERSE
 
@@ -1591,7 +1591,7 @@ Per la gestione del piano generale dei trasporti, fino all'entrata in funzione d
 
 AGGIORNAMENTO (3)
 
-La [L. 22 dicembre 1986, n. 910](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-22;910) ha disposto (con l'art. 7, comma 10) che "L'autorizzazione di spesa di lire 500 miliardi recata dall'[articolo 34, comma 2, della legge 28 febbraio 1986, n. 41](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-02-28;41#art_34-com2), per il completamento della linea 1 della metropolitana di Napoli e' incrementata di lire 250 miliardi per il triennio 1988-1990, in ragione di lire 50 miliardi nell'anno 1988 e di lire 100 miliardi per ciascuno degli anni 1989 e 1990."
+La [L. 22 dicembre 1986, n. 910](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201987.md) ha disposto (con l'art. 7, comma 10) che "L'autorizzazione di spesa di lire 500 miliardi recata dall'[articolo 34, comma 2, della legge 28 febbraio 1986, n. 41](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201986.md), per il completamento della linea 1 della metropolitana di Napoli e' incrementata di lire 250 miliardi per il triennio 1988-1990, in ragione di lire 50 miliardi nell'anno 1988 e di lire 100 miliardi per ciascuno degli anni 1989 e 1990."
 
 ### Art. 35.
 

@@ -231,13 +231,13 @@ Gli oneri derivanti dai mutui contratti per l'edilizia sanitaria, ai sensi dell'
 
 AGGIORNAMENTO (1)
 
-Il [D.L. 22 maggio 1993, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-22;155), convertito con modificazioni dalla [L. 19 luglio 1993, n. 243](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20maggio%201993%20n.%20155%20recante%20misure%20urgenti%20per%20la%20finanza%20pubblica.md), ha disposto (con l'art. 8-bis, comma 1) che "Per l'anno 1993 non si fa luogo alla corresponsione della quota variabile del fondo per il finanziamento dei programmi regionali di sviluppo, quale determinata dall'[articolo 4, comma 1, della legge 23 dicembre 1992, n. 500](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;500#art_4-com1)".
+Il [D.L. 22 maggio 1993, n. 155](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-22;155), convertito con modificazioni dalla [L. 19 luglio 1993, n. 243](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20maggio%201993%20n.%20155%20recante%20misure%20urgenti%20per%20la%20finanza%20pubblica.md), ha disposto (con l'art. 8-bis, comma 1) che "Per l'anno 1993 non si fa luogo alla corresponsione della quota variabile del fondo per il finanziamento dei programmi regionali di sviluppo, quale determinata dall'[articolo 4, comma 1, della legge 23 dicembre 1992, n. 500](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201993.md)".
 
 --------------
 
 AGGIORNAMENTO (2)
 
-La [L. 12 novembre 2011, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2011-11-12;183) ha disposto (con l'art. 4, comma 101) che "Le risorse disponibili per gli interventi di cui all'[articolo 4, comma 7, della legge 23 dicembre 1992, n. 500](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;500#art_4-com7), sono ridotte per un importo di 17 milioni a decorrere dall'anno 2012."
+La [L. 12 novembre 2011, n. 183](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202012.%2011G0234.md) ha disposto (con l'art. 4, comma 101) che "Le risorse disponibili per gli interventi di cui all'[articolo 4, comma 7, della legge 23 dicembre 1992, n. 500](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201993.md), sono ridotte per un importo di 17 milioni a decorrere dall'anno 2012."
 
 ## DISPOSIZIONI IN MATERIA DI PREVIDENZA
 

@@ -258,9 +258,9 @@ Nel testo unico delle imposte sui redditi, approvato con [decreto del Presidente
  6. Le disposizioni di cui al comma 1, lettera a), e al comma 2 non hanno effetto ai fini della determinazione delle imposte da versare a titolo di acconto dovute per il periodo di imposta 1999.
  7. Nell'[articolo 1, quarto comma, lettere b)](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), [b-bis)](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md) e [c), del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](../DPR/Disposizioni%20comuni%20in%20materia%20di%20accertamento%20delle%20imposte%20sui%20redditi.md), le parole: " di cui all'articolo 34, comma 4-quater " sono sostituite dalle seguenti: " di cui all'articolo 10, comma 3-bis ".
  8. Per il periodo d'imposta 2000, ai soli fini dell'imposta sul reddito delle persone fisiche, la misura dell'acconto e' ridotta dal 98 al 92 per cento. (4)
- 9. COMMA ABROGATO DALLA [L. 23 DICEMBRE 2000, N. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388). (7)
- 10. COMMA ABROGATO DALLA [L. 23 DICEMBRE 2000, N. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388). (7)
- 11. COMMA ABROGATO DALLA [L. 23 DICEMBRE 2000, N. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388). (7)
+ 9. COMMA ABROGATO DALLA [L. 23 DICEMBRE 2000, N. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md). (7)
+ 10. COMMA ABROGATO DALLA [L. 23 DICEMBRE 2000, N. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md). (7)
+ 11. COMMA ABROGATO DALLA [L. 23 DICEMBRE 2000, N. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md). (7)
  12. Il [comma 5 dell'articolo 1 del decreto legislativo 28 settembre 1998, n. 360](../Decreti%20Legislativi/Istituzione%20di%20una%20addizionale%20comunale%20allIRPEF%20a%20norma%20dellarticolo%2048%20comma%2010%20della%20legge%2027%20dicembre%201997%20n.%20449%20come%20modificato%20dallarticolo%201%20comma%2010%20della%20legge%2016%20giugno%201998%20n.%20191.md), come sostituito dall'[articolo 12, comma 1, lettera d), della legge 13 maggio 1999, n. 133](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-05-13;133#art_12-com1-letd), concernente le modalita' di effettuazione della trattenuta relativa all'addizionale provinciale e comunale all'IRPEF, e' sostituito dal seguente:
  " 5. Relativamente ai redditi di lavoro dipendente e ai redditi assimilati a quelli di lavoro dipendente di cui agli articoli 46 e 47 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), per le modalita' di determinazione dell'addizionale provinciale e comunale e per l'effettuazione delle relative trattenute da parte dei sostituti di imposta si applicano le disposizioni previste per l'addizionale regionale all'imposta sul reddito delle persone fisiche di cui all'[articolo 50, comma 4, del decreto legislativo 15 dicembre 1997, n. 446](../Decreti%20Legislativi/Istituzione%20dellimposta%20regionale%20sulle%20attivita%20produttive%20revisione%20degli%20scaglioni%20delle%20aliquote%20e%20delle%20detrazioni%20dellIrpef%20e%20istituzione%20di%20una%20addizionale%20regionale%20a%20tale%20imposta_576f8a3bbc05.md) ".
  13. Sono esenti dall'imposta sul reddito delle persone fisiche le somme erogate a titolo di borse di studio bandite, a decorrere dal 1 gennaio 2000, nell'ambito del programma Socrates, istituito con decisione n. 819/95/CE del Parlamento europeo e del Consiglio, del 14 marzo 1995, come modificata dalla decisione n. 576/98/CE del Parlamento europeo e del Consiglio, del 23 febbraio 1998, nonche' le somme aggiuntive corrisposte dalle universita', a condizione che l'importo complessivo annuo non sia superiore a lire 15.000.000.
@@ -298,7 +298,7 @@ Il [D.L. 30 settembre 2000, n. 268](https://www.normattiva.it/uri-res/N2Ls?urn:n
 
 AGGIORNAMENTO (7)
 
-La [L. 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388) ha disposto (con l'art. 2, comma 8) che le presenti modifiche si applicano a decorrere dal periodo d'imposta successivo a quello in corso alla data del 31 dicembre 1999.
+La [L. 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) ha disposto (con l'art. 2, comma 8) che le presenti modifiche si applicano a decorrere dal periodo d'imposta successivo a quello in corso alla data del 31 dicembre 1999.
 
 ### Art. 7.
 
@@ -405,50 +405,50 @@ Il [D.L. 12 ottobre 2000, n. 279](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 AGGIORNAMENTO (7)
 
-La [L. 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388) ha disposto (con l'art. 64, comma 7) che il termine del 31 dicembre 2000 previsto dal comma 5 del presente articolo, per le variazioni delle iscrizioni in catasto dei fabbricati gia' rurali, e' ulteriormente prorogato al 31 dicembre 2001.
+La [L. 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) ha disposto (con l'art. 64, comma 7) che il termine del 31 dicembre 2000 previsto dal comma 5 del presente articolo, per le variazioni delle iscrizioni in catasto dei fabbricati gia' rurali, e' ulteriormente prorogato al 31 dicembre 2001.
 
 ---------------
 
 AGGIORNAMENTO (23)
 
-Il [D.L. 24 dicembre 2003, n. 355](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.md), convertito con modificazioni dalla [L. 27 febbraio 2004, n. 47](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20dicembre%202003%20n.%20355%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.md), ha disposto (con l'art. 23-bis, comma 1, lettera c)) che "Sono prorogate per gli anni 2004 e 2005, nella misura e alle condizioni ivi previste, le agevolazioni tributarie in materia di recupero del patrimonio edilizio relative [...] alle prestazioni di cui all'[articolo 7, comma 1, lettera b), della legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_7-com1-letb), fatturate dal 1° gennaio 2004."
+Il [D.L. 24 dicembre 2003, n. 355](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.md), convertito con modificazioni dalla [L. 27 febbraio 2004, n. 47](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20dicembre%202003%20n.%20355%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.md), ha disposto (con l'art. 23-bis, comma 1, lettera c)) che "Sono prorogate per gli anni 2004 e 2005, nella misura e alle condizioni ivi previste, le agevolazioni tributarie in materia di recupero del patrimonio edilizio relative [...] alle prestazioni di cui all'[articolo 7, comma 1, lettera b), della legge 23 dicembre 1999, n. 488](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), fatturate dal 1° gennaio 2004."
 
 ---------------
 
 AGGIORNAMENTO (29)
 
-Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223), convertito con modificazioni dalla [L. 4 agosto 2006, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20economico%20e%20sociale%20per%20il%20contenimento%20e%20la%20razionalizzazione%20d_5fc851984c00.md) ha disposto (con l'art. 35, comma 35-ter) che "E' prorogata per l'anno 2006, nella misura e alle condizioni ivi previste, l'agevolazione tributaria in materia di recupero del patrimonio edilizio relativa alle prestazioni di cui all'[articolo 7, comma 1, lettera b), della legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_7-com1-letb), fatturate dal 1° ottobre 2006."
+Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223), convertito con modificazioni dalla [L. 4 agosto 2006, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20economico%20e%20sociale%20per%20il%20contenimento%20e%20la%20razionalizzazione%20d_5fc851984c00.md) ha disposto (con l'art. 35, comma 35-ter) che "E' prorogata per l'anno 2006, nella misura e alle condizioni ivi previste, l'agevolazione tributaria in materia di recupero del patrimonio edilizio relativa alle prestazioni di cui all'[articolo 7, comma 1, lettera b), della legge 23 dicembre 1999, n. 488](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), fatturate dal 1° ottobre 2006."
 
 ---------------
 
 AGGIORNAMENTO (30)
 
-La [L. 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296) ha disposto (con l'art. 1, comma 387, lettera b)) che "Sono prorogate per l'anno 2007, per una quota pari al 36 per cento delle spese sostenute, nel limite di 48.000 euro per unita' immobiliare, ferme restando le altre condizioni ivi previste, le agevolazioni tributarie in materia di recupero del patrimonio edilizio relative [...] alle prestazioni di cui all'[articolo 7, comma 1, lettera b), della legge 23 dicembre 1999, n. 
-488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_7-com1-letb), fatturate dal l° gennaio 2007."
+La [L. 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md) ha disposto (con l'art. 1, comma 387, lettera b)) che "Sono prorogate per l'anno 2007, per una quota pari al 36 per cento delle spese sostenute, nel limite di 48.000 euro per unita' immobiliare, ferme restando le altre condizioni ivi previste, le agevolazioni tributarie in materia di recupero del patrimonio edilizio relative [...] alle prestazioni di cui all'[articolo 7, comma 1, lettera b), della legge 23 dicembre 1999, n. 
+488](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), fatturate dal l° gennaio 2007."
 
 ---------------
 
 AGGIORNAMENTO (32)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244) ha disposto (con l'art. 1, comma 18) che e' prorogata, per gli anni 2008, 2009 e 2010, nella misura e alle condizioni ivi previste, l'agevolazione tributaria in materia di recupero del patrimonio edilizio relativa alle prestazioni di al comma 1, lettera b) del presente articolo fatturate dal 1° gennaio 2008.
+La [L. 24 dicembre 2007, n. 244](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md) ha disposto (con l'art. 1, comma 18) che e' prorogata, per gli anni 2008, 2009 e 2010, nella misura e alle condizioni ivi previste, l'agevolazione tributaria in materia di recupero del patrimonio edilizio relativa alle prestazioni di al comma 1, lettera b) del presente articolo fatturate dal 1° gennaio 2008.
 
 ---------------
 
 AGGIORNAMENTO (33)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244), come modificata dalla [L. 22 dicembre 2008, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-12-22;203), ha disposto (con l'art. 1, comma 18) che e' prorogata, per gli anni 2008, 2009, 2010 e 2011, nella misura e alle condizioni ivi previste, l'agevolazione tributaria in materia di recupero del patrimonio edilizio relativa alle prestazioni di al comma 1, lettera b) del presente articolo fatturate dal 1° gennaio 2008.
+La [L. 24 dicembre 2007, n. 244](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), come modificata dalla [L. 22 dicembre 2008, n. 203](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202009.md), ha disposto (con l'art. 1, comma 18) che e' prorogata, per gli anni 2008, 2009, 2010 e 2011, nella misura e alle condizioni ivi previste, l'agevolazione tributaria in materia di recupero del patrimonio edilizio relativa alle prestazioni di al comma 1, lettera b) del presente articolo fatturate dal 1° gennaio 2008.
 
 ---------------
 
 AGGIORNAMENTO (35)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244), come modificata dalla [L. 23 dicembre 2009, n. 191](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-23;191) ha disposto (con l'art. 1, comma 18) che e' prorogata, per gli anni 2008, 2009, 2010, 2011, 2012 e successivi, nella misura e alle condizioni ivi previste, l'agevolazione tributaria in materia di recupero del patrimonio edilizio relativa alle prestazioni di al comma 1, lettera b) del presente articolo fatturate dal 1° gennaio 2008.
+La [L. 24 dicembre 2007, n. 244](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), come modificata dalla [L. 23 dicembre 2009, n. 191](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202010.%2009G0205.md) ha disposto (con l'art. 1, comma 18) che e' prorogata, per gli anni 2008, 2009, 2010, 2011, 2012 e successivi, nella misura e alle condizioni ivi previste, l'agevolazione tributaria in materia di recupero del patrimonio edilizio relativa alle prestazioni di al comma 1, lettera b) del presente articolo fatturate dal 1° gennaio 2008.
 
 ---------------
 
 AGGIORNAMENTO (41)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205), ha disposto (con l'art. 1, comma 19) che "Ai sensi dell'[articolo 1, comma 2, della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_1-com2), l'[articolo 7, comma 1, lettera b), della legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_7-com1-letb), nonche' il decreto del Ministro delle finanze 29 dicembre 1999, pubblicato nella Gazzetta Ufficiale n. 306 del 31 dicembre 1999, si interpretano nel senso che l'individuazione dei beni che costituiscono una parte significativa del valore delle forniture effettuate nell'ambito delle prestazioni aventi per oggetto interventi di recupero del patrimonio edilizio e delle parti staccate si effettua in base all'autonomia funzionale delle parti rispetto al manufatto principale, come individuato nel citato decreto ministeriale; come valore dei predetti beni deve essere assunto quello risultante dall'accordo contrattuale stipulato dalle parti contraenti, che deve tenere conto solo di tutti gli oneri che concorrono alla produzione dei beni stessi e, dunque, sia delle materie prime che della manodopera impiegata per la produzione degli stessi e che, comunque, non puo' essere inferiore al prezzo di acquisto dei beni stessi".
+La [L. 27 dicembre 2017, n. 205](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md), ha disposto (con l'art. 1, comma 19) che "Ai sensi dell'[articolo 1, comma 2, della legge 27 luglio 2000, n. 212](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-27;212#art_1-com2), l'[articolo 7, comma 1, lettera b), della legge 23 dicembre 1999, n. 488](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), nonche' il decreto del Ministro delle finanze 29 dicembre 1999, pubblicato nella Gazzetta Ufficiale n. 306 del 31 dicembre 1999, si interpretano nel senso che l'individuazione dei beni che costituiscono una parte significativa del valore delle forniture effettuate nell'ambito delle prestazioni aventi per oggetto interventi di recupero del patrimonio edilizio e delle parti staccate si effettua in base all'autonomia funzionale delle parti rispetto al manufatto principale, come individuato nel citato decreto ministeriale; come valore dei predetti beni deve essere assunto quello risultante dall'accordo contrattuale stipulato dalle parti contraenti, che deve tenere conto solo di tutti gli oneri che concorrono alla produzione dei beni stessi e, dunque, sia delle materie prime che della manodopera impiegata per la produzione degli stessi e che, comunque, non puo' essere inferiore al prezzo di acquisto dei beni stessi".
 
 ### Art. 8.
 
@@ -517,7 +517,7 @@ Laddove la legislazione vigente prevede il pagamento mediante speciali marche pe
 
 AGGIORNAMENTO (7)
 
-La [L. 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388) ha disposto (con l'art. 158, comma 3) che la presente modifica acquista efficacia dal 30/12/2000.
+La [L. 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) ha disposto (con l'art. 158, comma 3) che la presente modifica acquista efficacia dal 30/12/2000.
 
 ### Art. 10.
 
@@ -893,7 +893,7 @@ Per l'esercizio finanziario 2000 il costo d'uso viene transitoriamente determina
 
 AGGIORNAMENTO (30)
 
-La [L. 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296), ha disposto (con l'art. 1, comma 209) che "Dalla data di entrata in vigore del decreto di cui al comma 208, sono abrogati [...] gli [articoli 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_24) e [26 della legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_26)".
+La [L. 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), ha disposto (con l'art. 1, comma 209) che "Dalla data di entrata in vigore del decreto di cui al comma 208, sono abrogati [...] gli [articoli 24](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md) e [26 della legge 23 dicembre 1999, n. 488](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md)".
 
 ### Art. 25.
 
@@ -935,13 +935,13 @@ Il Ministro del tesoro, del bilancio e della programmazione economica presenta a
 
 AGGIORNAMENTO (30)
 
-La [L. 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296), ha disposto (con l'art. 1, comma 209) che "Dalla data di entrata in vigore del decreto di cui al comma 208, sono abrogati [...] gli [articoli 24](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_24) e [26 della legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_26)".
+La [L. 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), ha disposto (con l'art. 1, comma 209) che "Dalla data di entrata in vigore del decreto di cui al comma 208, sono abrogati [...] gli [articoli 24](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md) e [26 della legge 23 dicembre 1999, n. 488](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md)".
 
 ---------------
 
 AGGIORNAMENTO (31)
 
-La [L. 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296), come modificata dal [D.L. 2 luglio 2007, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-07-02;81), convertito, con modificazioni dalla [L. 3 agosto 2007, n. 127](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20luglio%202007%20n.%2081%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), ha disposto (con l'art. 1, comma 209) che dalla data di entrata in vigore del decreto di cui all'art. 1, comma 208 della predetta legge e' abrogato il solo articolo 24.
+La [L. 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), come modificata dal [D.L. 2 luglio 2007, n. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-07-02;81), convertito, con modificazioni dalla [L. 3 agosto 2007, n. 127](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20luglio%202007%20n.%2081%20recante%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), ha disposto (con l'art. 1, comma 209) che dalla data di entrata in vigore del decreto di cui all'art. 1, comma 208 della predetta legge e' abrogato il solo articolo 24.
 
 ---------------
 
@@ -952,7 +952,7 @@ Il [D.L. 6 luglio 2011, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 ----------------
  
 AGGIORNAMENTO (38) 
- Il [D.L. 6 luglio 2012 n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito con modificazioni dalla [L. 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), ha disposto (con l'art. 1, comma 15) che "Con riferimento alle convenzioni di cui all'[articolo 26 della legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_26), alle quali, alla data di entrata in vigore della legge di conversione del presente decreto, sia possibile ricorrere, le quantita' ovvero gli importi massimi complessivi ivi previsti sono incrementati in misura pari alla quantita' ovvero all'importo originario, a decorrere dalla data di esaurimento della convenzione stessa, ove questa intervenga prima del 31 dicembre 2012 e fatta salva la facolta' di recesso dell'aggiudicatario da esercitarsi entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto." 
+ Il [D.L. 6 luglio 2012 n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito con modificazioni dalla [L. 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), ha disposto (con l'art. 1, comma 15) che "Con riferimento alle convenzioni di cui all'[articolo 26 della legge 23 dicembre 1999, n. 488](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), alle quali, alla data di entrata in vigore della legge di conversione del presente decreto, sia possibile ricorrere, le quantita' ovvero gli importi massimi complessivi ivi previsti sono incrementati in misura pari alla quantita' ovvero all'importo originario, a decorrere dalla data di esaurimento della convenzione stessa, ove questa intervenga prima del 31 dicembre 2012 e fatta salva la facolta' di recesso dell'aggiudicatario da esercitarsi entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto." 
  Ha inoltre disposto (con l'art. 1, comma 16) che "La durata delle convenzioni di cui al precedente comma 15 e' prorogata fino al 30 giugno 2013, a decorrere dalla data di esaurimento della convenzione originaria e solo se a tale data non sia gia' intervenuta da parte della medesima centrale di committenza la pubblicazione di una procedura di gara per la stipula di una convenzione avente ad oggetto prodotti o servizi analoghi. L'aggiudicatario ha facolta' di recesso, da esercitarsi secondo le modalita' di cui al precedente comma 15".
 
 ### Art. 27. — (Disposizioni varie di razionalizzazione in materia contabile)
@@ -979,7 +979,7 @@ Gli stanziamenti per consumi intermedi del Ministero della difesa non impegnati 
 
 6.
 
-COMMA ABROGATO DALLA [L. 24 DICEMBRE 2003, N. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350).
+COMMA ABROGATO DALLA [L. 24 DICEMBRE 2003, N. 350](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md).
 
 7.
 
@@ -1049,7 +1049,7 @@ Il [comma 1 dell'articolo 2 del decreto legislativo 16 aprile 1997, n. 146](../D
 
 AGGIORNAMENTO (14)
 
-La [L. 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448) ha disposto (con l'art. 52, comma 18) che il finanziamento annuale di cui al comma 10, sesto periodo, del presente articolo e' incrementato, a decorrere dal 2002, di un importo pari a 20 milioni di euro in ragione di anno.
+La [L. 28 dicembre 2001, n. 448](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md) ha disposto (con l'art. 52, comma 18) che il finanziamento annuale di cui al comma 10, sesto periodo, del presente articolo e' incrementato, a decorrere dal 2002, di un importo pari a 20 milioni di euro in ragione di anno.
 
 ---------------
 
@@ -1061,7 +1061,7 @@ Il [D.L. 6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:st
 
 AGGIORNAMENTO (40)
 
-Il [D.L. 24 aprile 2014, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66), convertito con modificazioni dalla [L. 23 giugno 2014, n. 89](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202014%20n.%2066%20recante%20misure%20urgenti%20per%20la%20competitivita%20e%20la%20giustizia%20sociale.%20Deleghe%20al%20Governo%20per%20il%20completamento%20d_83bebe792254.md), ha disposto (con l'art. 21, comma 4) che "Le somme da riversare alla concessionaria del servizio pubblico radiotelevisivo, di cui all'articolo 27, comma 8, primo periodo, della [legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488), sono ridotte, per l'anno 2014, di euro 150 milioni".
+Il [D.L. 24 aprile 2014, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2014-04-24;66), convertito con modificazioni dalla [L. 23 giugno 2014, n. 89](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20aprile%202014%20n.%2066%20recante%20misure%20urgenti%20per%20la%20competitivita%20e%20la%20giustizia%20sociale.%20Deleghe%20al%20Governo%20per%20il%20completamento%20d_83bebe792254.md), ha disposto (con l'art. 21, comma 4) che "Le somme da riversare alla concessionaria del servizio pubblico radiotelevisivo, di cui all'articolo 27, comma 8, primo periodo, della [legge 23 dicembre 1999, n. 488](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), sono ridotte, per l'anno 2014, di euro 150 milioni".
 
 ### Art. 28.
 
@@ -1146,7 +1146,7 @@ In ragione dell'autofinanziamento del settore sanitario, le disposizioni di cui 
 
 AGGIORNAMENTO (7)
 
-La [L. 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388) ha disposto (con l'art 96, comma 1) che "Al fine di consentire la prosecuzione di quanto previsto dall'[articolo 28, comma 12, della legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_28-com12), per le strutture di radioterapia e' riservato, nell'ambito dei programmi previsti dal citato articolo, un finanziamento di lire 20 miliardi per ciascuno degli anni 2001 e 2002."
+La [L. 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) ha disposto (con l'art 96, comma 1) che "Al fine di consentire la prosecuzione di quanto previsto dall'[articolo 28, comma 12, della legge 23 dicembre 1999, n. 488](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), per le strutture di radioterapia e' riservato, nell'ambito dei programmi previsti dal citato articolo, un finanziamento di lire 20 miliardi per ciascuno degli anni 2001 e 2002."
 
 ### Art. 29.
 
@@ -1452,7 +1452,7 @@ La disposizione di cui al comma 5 si applica anche ai periodi contributivi antec
 
 AGGIORNAMENTO (46)
 
-Il [D.L 31 dicembre 2020, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-12-31;183), convertito con modificazioni dalla [L. 26 febbraio 2021, n. 21](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202020%20n.%20183%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20legislativi%20di%20realizzazione%20di%20collegamenti%20digitali%20d_28f6a6729b35.md), ha disposto (con l'art. 11, comma 1-bis) che "Per il solo anno 2019, i termini di cui all'[articolo 3, comma 3, del decreto legislativo 16 settembre 1996, n. 564](../Decreti%20Legislativi/Attuazione%20della%20delega%20conferita%20dallart.%201%20comma%2039%20della%20legge%208%20agosto%201995%20n.%20335%20in%20materia%20di%20contribuzione%20figurativa%20e%20di%20copertura%20assicurativa%20per%20periodi%20non%20coperti%20da%20contribuzione.md), e all'[articolo 38, comma 3, della legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_38-com3), sono differiti al 31 dicembre 2020".
+Il [D.L 31 dicembre 2020, n. 183](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-12-31;183), convertito con modificazioni dalla [L. 26 febbraio 2021, n. 21](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202020%20n.%20183%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20legislativi%20di%20realizzazione%20di%20collegamenti%20digitali%20d_28f6a6729b35.md), ha disposto (con l'art. 11, comma 1-bis) che "Per il solo anno 2019, i termini di cui all'[articolo 3, comma 3, del decreto legislativo 16 settembre 1996, n. 564](../Decreti%20Legislativi/Attuazione%20della%20delega%20conferita%20dallart.%201%20comma%2039%20della%20legge%208%20agosto%201995%20n.%20335%20in%20materia%20di%20contribuzione%20figurativa%20e%20di%20copertura%20assicurativa%20per%20periodi%20non%20coperti%20da%20contribuzione.md), e all'[articolo 38, comma 3, della legge 23 dicembre 1999, n. 488](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), sono differiti al 31 dicembre 2020".
 
 ### Art. 39.
 
@@ -1474,7 +1474,7 @@ Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro 
 
 AGGIORNAMENTO (27)
 
-La [L. 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266) ha disposto (con l'art. 1, comma 151) che il decreto di cui al comma 2 del presente articolo e' adottato entro il 15 gennaio 2006.
+La [L. 23 dicembre 2005, n. 266](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md) ha disposto (con l'art. 1, comma 151) che il decreto di cui al comma 2 del presente articolo e' adottato entro il 15 gennaio 2006.
 
 ### Art. 40.
 
@@ -1509,7 +1509,7 @@ Con decreto del Ministro del lavoro e della previdenza sociale, di concerto con 
 
 AGGIORNAMENTO (7)
 
-La [L. 23 dicembre 2000, n. 388 (con l'art. 68, comma 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_68-com7)) ha disposto che il comma 3 del presente articolo 41 si interpreta nel senso che ciascuna rata annuale del contributo straordinario va ripartita tra i datori di lavoro i quali, alla fine del mese antecedente la scadenza del pagamento delle rate medesime, abbiano in servizio lavoratori che risultavano gia' iscritti al 31 dicembre 1996 ai Fondi speciali soppressi, in misura proporzionale al numero dei lavoratori stessi, ponderato con le relative anzianita' contributive medie risultanti a detta data.
+La [L. 23 dicembre 2000, n. 388 (con l'art. 68, comma 7](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md)) ha disposto che il comma 3 del presente articolo 41 si interpreta nel senso che ciascuna rata annuale del contributo straordinario va ripartita tra i datori di lavoro i quali, alla fine del mese antecedente la scadenza del pagamento delle rate medesime, abbiano in servizio lavoratori che risultavano gia' iscritti al 31 dicembre 1996 ai Fondi speciali soppressi, in misura proporzionale al numero dei lavoratori stessi, ponderato con le relative anzianita' contributive medie risultanti a detta data.
 
 ### Art. 42.
 
@@ -1931,7 +1931,7 @@ Presso il Ministero delle politiche agricole e forestali e' istituito un comitat
 
 AGGIORNAMENTO (48)
 
-La [L. 9 marzo 2022, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-03-09;23) ha disposto (con l'art. 9, comma 7) che "Dalla data di entrata in vigore della presente legge, il Fondo di cui all'[articolo 59, comma 2, della legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_59-com2), e' soppresso e le disponibilita' esistenti nello stesso alla predetta data sono trasferite al Fondo di cui al comma 1 del presente articolo".
+La [L. 9 marzo 2022, n. 23](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-03-09;23) ha disposto (con l'art. 9, comma 7) che "Dalla data di entrata in vigore della presente legge, il Fondo di cui all'[articolo 59, comma 2, della legge 23 dicembre 1999, n. 488](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), e' soppresso e le disponibilita' esistenti nello stesso alla predetta data sono trasferite al Fondo di cui al comma 1 del presente articolo".
 
 ### Art. 60.
 
@@ -2003,15 +2003,15 @@ Il [decreto-legge 2 novembre 1999, n. 390](../DL%20decaduti/Disposizioni%20per%2
 
 AGGIORNAMENTO (7)
 
-La [L. 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388) ha disposto (con l'art. 78, comma 15, lettera a)) che "Nei limiti delle risorse rispettivamente indicate a carico del Fondo di cui all'[articolo 1, comma 7, del decreto-legge 20 maggio 1993, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148#art_1-com7), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20maggio%201993%20n.%20148%20recante%20interventi%20urgenti%20a%20sostegno%20delloccupazione.md), per l'anno 2001: 
- a) sono prorogati, in attesa della riforma degli ammortizzatori sociali e comunque non oltre il 31 dicembre 2001, i trattamenti di cassa integrazione guadagni straordinaria e di mobilita' di cui all'[articolo 62, comma 1, lettera g), della legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_62-com1-letg), limitatamente alle imprese esercenti attivita' commerciali con piu' di cinquanta addetti."
+La [L. 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) ha disposto (con l'art. 78, comma 15, lettera a)) che "Nei limiti delle risorse rispettivamente indicate a carico del Fondo di cui all'[articolo 1, comma 7, del decreto-legge 20 maggio 1993, n. 148](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-05-20;148#art_1-com7), convertito, con modificazioni, dalla [legge 19 luglio 1993, n. 236](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2020%20maggio%201993%20n.%20148%20recante%20interventi%20urgenti%20a%20sostegno%20delloccupazione.md), per l'anno 2001: 
+ a) sono prorogati, in attesa della riforma degli ammortizzatori sociali e comunque non oltre il 31 dicembre 2001, i trattamenti di cassa integrazione guadagni straordinaria e di mobilita' di cui all'[articolo 62, comma 1, lettera g), della legge 23 dicembre 1999, n. 488](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), limitatamente alle imprese esercenti attivita' commerciali con piu' di cinquanta addetti."
 
 ---------------
 
 AGGIORNAMENTO (11)
 
-Il Decreto 6 giugno 2001 (in G.U. 5/9/2001, n. 206) ha disposto (con l'art. 1, comma 1) che "E' prorogato, fino al 30 giugno 2002, il trattamento di integrazione salariale straordinario, di cui all'[art. 62, comma 1, lettera a), della legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_62-com1-leta), nel limite di 35 miliardi di lire, onde consentire, anche mediante appositi corsi di riqualificazione, la riammissione in azienda dei lavoratori interessati al predetto trattamento ovvero la loro riallocazione: qualora al termine della presente proroga risultino residue eccedenze di personale a carattere strutturale, ovvero non ricorrono le condizioni sopra indicate, le stesse saranno gestite attraverso le disposizioni in materia di mobilita', di cui alla [legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223). La misura del sopra richiamato trattamento e' ridotta del 20%". 
- Ha inoltre disposto (con l'art. 2, comma 1) che "E' prorogato, fino al 31 dicembre 2001, il trattamento di integrazione salariale straordinaria, di cui all'[art. 62, comma 1, lettera b), della legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_62-com1-letb), nel limite di 2 miliardi di lire. La misura del sopra richiamato trattamento e' ridotta del 20%".
+Il Decreto 6 giugno 2001 (in G.U. 5/9/2001, n. 206) ha disposto (con l'art. 1, comma 1) che "E' prorogato, fino al 30 giugno 2002, il trattamento di integrazione salariale straordinario, di cui all'[art. 62, comma 1, lettera a), della legge 23 dicembre 1999, n. 488](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), nel limite di 35 miliardi di lire, onde consentire, anche mediante appositi corsi di riqualificazione, la riammissione in azienda dei lavoratori interessati al predetto trattamento ovvero la loro riallocazione: qualora al termine della presente proroga risultino residue eccedenze di personale a carattere strutturale, ovvero non ricorrono le condizioni sopra indicate, le stesse saranno gestite attraverso le disposizioni in materia di mobilita', di cui alla [legge 23 luglio 1991, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-07-23;223). La misura del sopra richiamato trattamento e' ridotta del 20%". 
+ Ha inoltre disposto (con l'art. 2, comma 1) che "E' prorogato, fino al 31 dicembre 2001, il trattamento di integrazione salariale straordinaria, di cui all'[art. 62, comma 1, lettera b), della legge 23 dicembre 1999, n. 488](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), nel limite di 2 miliardi di lire. La misura del sopra richiamato trattamento e' ridotta del 20%".
 
 ### Art. 63.
 

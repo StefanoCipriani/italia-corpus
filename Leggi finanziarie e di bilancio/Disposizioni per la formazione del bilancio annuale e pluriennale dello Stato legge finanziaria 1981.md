@@ -281,7 +281,7 @@ Gli enti pubblici di cui agli [articoli 25](../Atti%20normativi%20abrogati%20%28
 
 AGGIORNAMENTO (2a)
 
-La Corte Costituzionale, con sentenza 19 - 22 ottobre 1982, n. 162 (in G.U. 1a s.s. 27/10/1982, n. 297), ha dichiarato "l'illegittimita' costituzionale dell'[ottavo comma dell'art. 40 della legge 30 marzo 1981, n. 119](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-03-30;119#art_40-com8), nella parte in cui attribuisce al Ministro del tesoro la facolta' di variare con proprio decreto la percentuale o il livello massimo delle disponibilita' delle Regioni e delle Province autonome di Trento e Bolzano che le aziende di credito, incaricate del servizio di tesoreria, possono tenere presso di se'".
+La Corte Costituzionale, con sentenza 19 - 22 ottobre 1982, n. 162 (in G.U. 1a s.s. 27/10/1982, n. 297), ha dichiarato "l'illegittimita' costituzionale dell'[ottavo comma dell'art. 40 della legge 30 marzo 1981, n. 119](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201981.md), nella parte in cui attribuisce al Ministro del tesoro la facolta' di variare con proprio decreto la percentuale o il livello massimo delle disponibilita' delle Regioni e delle Province autonome di Trento e Bolzano che le aziende di credito, incaricate del servizio di tesoreria, possono tenere presso di se'".
 
 -----------------
 

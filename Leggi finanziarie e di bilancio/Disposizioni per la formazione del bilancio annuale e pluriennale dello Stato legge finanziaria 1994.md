@@ -99,14 +99,14 @@ Ai sensi dell'[articolo 52, comma 4, del decreto legislativo 3 febbraio 1993, n.
 
  
 AGGIORNAMENTO (1) 
- La [L. 23 dicembre 1994, n. 725](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;725) ha disposto (con l'art. 2, comma 12) che "In relazione a quanto stabilito dai commi 9 e 10 del presente articolo, la spesa prevista al [comma 9 dell'articolo 2 della legge 24 dicembre 1993, n. 538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;538#art_2-com9), e' incrementata, rispettivamente, per gli anni 1995 e 1996, di lire 500 miliardi e di lire 960 miliardi." 
+ La [L. 23 dicembre 1994, n. 725](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201995.md) ha disposto (con l'art. 2, comma 12) che "In relazione a quanto stabilito dai commi 9 e 10 del presente articolo, la spesa prevista al [comma 9 dell'articolo 2 della legge 24 dicembre 1993, n. 538](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201994.md), e' incrementata, rispettivamente, per gli anni 1995 e 1996, di lire 500 miliardi e di lire 960 miliardi." 
  
 
 -----------------
 
  
 AGGIORNAMENTO (2) 
- Il [D.L. 27 marzo 1995, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-03-27;89), convertito senza modificazioni dalla [legge 17 maggio 1995, n. 186](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2027%20marzo%201995%20n.%2089%20recante%20misure%20urgenti%20in%20materia%20di%20trattamento%20economico%20del%20personale%20statale%20e%20in%20materia%20di%20pubblico%20impiego.md) ha disposto (con l'art. 4, comma 1) che "La spesa di cui all'[articolo 2, commi 9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;538#art_2-com9) e [10, della legge 24 dicembre 1993, n. 538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;538#art_2-com10), e' integrata, per l'anno 1994, di lire 220 miliardi ed il relativo onere fa carico ai pertinenti capitoli del bilancio dello Stato per l'anno medesimo."
+ Il [D.L. 27 marzo 1995, n. 89](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1995-03-27;89), convertito senza modificazioni dalla [legge 17 maggio 1995, n. 186](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2027%20marzo%201995%20n.%2089%20recante%20misure%20urgenti%20in%20materia%20di%20trattamento%20economico%20del%20personale%20statale%20e%20in%20materia%20di%20pubblico%20impiego.md) ha disposto (con l'art. 4, comma 1) che "La spesa di cui all'[articolo 2, commi 9](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201994.md) e [10, della legge 24 dicembre 1993, n. 538](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201994.md), e' integrata, per l'anno 1994, di lire 220 miliardi ed il relativo onere fa carico ai pertinenti capitoli del bilancio dello Stato per l'anno medesimo."
 
 ## DISPOSIZIONI IN MATERIA DI ENTRATA
 
@@ -204,7 +204,7 @@ A decorrere dal 1994, i rapporti tra lo Stato e la societa' Ferrovie dello Stato
 
  
 AGGIORNAMENTO (1) 
- La [L. 23 dicembre 1994, n. 725](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;725) ha disposto (con l'art. 6, comma 3) che "Il versamento delle rate annuali di cui all'[articolo 4, comma 2, della legge 24 dicembre 1993, n. 538](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;538#art_4-com2), ha luogo a decorrere dall'anno 1996."
+ La [L. 23 dicembre 1994, n. 725](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201995.md) ha disposto (con l'art. 6, comma 3) che "Il versamento delle rate annuali di cui all'[articolo 4, comma 2, della legge 24 dicembre 1993, n. 538](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201994.md), ha luogo a decorrere dall'anno 1996."
 
 ## DISPOSIZIONI IN MATERIA DI FINANZA REGIONALE
 

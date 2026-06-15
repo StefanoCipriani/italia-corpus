@@ -67,7 +67,7 @@ AGGIORNAMENTO (3)
 
  
 AGGIORNAMENTO (4) 
- La [L. 30 dicembre 1991, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412) ha disposto (con l'art. 5, comma 2) che i riferimenti temporali gia' prorogati dal comma 2 del presente articolo, sono ulteriormente prorogati di un anno, ad eccezione di quelli relativi all'utilizzo delle graduatorie esistenti nelle varie amministrazioni.
+ La [L. 30 dicembre 1991, n. 412](Disposizioni%20in%20materia%20di%20finanza%20pubblica.md) ha disposto (con l'art. 5, comma 2) che i riferimenti temporali gia' prorogati dal comma 2 del presente articolo, sono ulteriormente prorogati di un anno, ad eccezione di quelli relativi all'utilizzo delle graduatorie esistenti nelle varie amministrazioni.
 
 ## DISPOSIZIONI IN MATERIA DI PERSONALE
 
@@ -156,7 +156,7 @@ Dalla medesima data perdono di efficacia le relative attestazioni di esenzione r
 4.
 
 Il limite massimo di partecipazione per ogni ricetta farmaceutica e' elevato a lire 40.000. La quota fissa per ricetta e' determinata in lire 1.500 per ogni singolo prezzo ad eccezione dei farmaci di cui all'[articolo 10, comma 2, del decreto-legge 12 settembre 1983, n. 463](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1983-09-12;463#art_10-com2), convertito, con modificazioni, dalla [legge 11 novembre 1983, n. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md). Per i prodotti a base di antibiotici in confezione monodose e per i prodotti in fleboclisi in confezione monodose, la quota fissa per ricetta e' determinata in lire 1.000 per ogni pezzo. Tale quota e' dovuta da tutti i cittadini, esclusi i pensionati esenti dalla partecipazione alla spesa sanitaria per motivi di reddito. PERIODO SOPPRESSO DALLA [L. 30 DICEMBRE 1991, N.
-412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412). (4)
+412](Disposizioni%20in%20materia%20di%20finanza%20pubblica.md). (4)
 
 5.
 
@@ -203,7 +203,7 @@ A decorrere dal 1 gennaio 1991, nei confronti degli artigiani, degli esercenti a
 
  
 AGGIORNAMENTO (4) 
- La [L. 30 dicembre 1991, n. 412](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;412) ha disposto (con l'art. 4, comma 4) che "il limite massimo di partecipazione alla spesa per prestazioni specialistiche e di diagnostica strumentale e di laboratorio e per prestazioni di medicina fisica e di riabilitazione e' fissato in lire 70.000 per prescrizioni contemporanee di ciascuna branca specialistica oltre al pagamento della quota fissa per singola ricetta". 
+ La [L. 30 dicembre 1991, n. 412](Disposizioni%20in%20materia%20di%20finanza%20pubblica.md) ha disposto (con l'art. 4, comma 4) che "il limite massimo di partecipazione alla spesa per prestazioni specialistiche e di diagnostica strumentale e di laboratorio e per prestazioni di medicina fisica e di riabilitazione e' fissato in lire 70.000 per prescrizioni contemporanee di ciascuna branca specialistica oltre al pagamento della quota fissa per singola ricetta". 
  
 ---------------
 
@@ -215,13 +215,13 @@ AGGIORNAMENTO (5)
 
  
 AGGIORNAMENTO (9) 
- La [L. 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537) ha disposto (con l'art. 8, comma 16) che sono esenti le prestazioni diagnostiche e terapeutiche di cui all'ultimo periodo del comma 3 del presente articolo. 
+ La [L. 24 dicembre 1993, n. 537](Interventi%20correttivi%20di%20finanza%20pubblica.md) ha disposto (con l'art. 8, comma 16) che sono esenti le prestazioni diagnostiche e terapeutiche di cui all'ultimo periodo del comma 3 del presente articolo. 
  
 ---------------
 
  
 AGGIORNAMENTO (12) 
- La [L. 23 dicembre 1994, n. 724](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1994-12-23;724) ha disposto (con l'art. 1, comma 16-bis) che sono esenti le prestazioni diagnostiche e terapeutiche di cui all'ultimo periodo del comma 3 del presente articolo.
+ La [L. 23 dicembre 1994, n. 724](Misure%20di%20razionalizzazione%20della%20finanza%20pubblica.md) ha disposto (con l'art. 1, comma 16-bis) che sono esenti le prestazioni diagnostiche e terapeutiche di cui all'ultimo periodo del comma 3 del presente articolo.
 
 ### Art. 6. — (Eta' pensionabile e prosecuzione del rapporto di lavoro)
 
@@ -342,7 +342,7 @@ Il [D.L. 16 maggio 1994, n. 299](https://www.normattiva.it/uri-res/N2Ls?urn:nir:
 
 AGGIORNAMENTO (15)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 121) che "I benefici contributivi di cui all'[articolo 8, comma 9, della legge 29 dicembre 1990, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;407#art_8-com9), e successive modificazioni, sono soppressi con riferimento alle assunzioni dei lavoratori ivi indicati decorrenti dal 1º gennaio 2015".
+La [L. 23 dicembre 2014, n. 190](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 121) che "I benefici contributivi di cui all'[articolo 8, comma 9, della legge 29 dicembre 1990, n. 407](Disposizioni%20diverse%20per%20lattuazione%20della%20manovra%20di%20finanza%20pubblica%201991-1993.md), e successive modificazioni, sono soppressi con riferimento alle assunzioni dei lavoratori ivi indicati decorrenti dal 1º gennaio 2015".
 
 ### Art. 9. — (Aliquote contributive).
 
@@ -434,14 +434,14 @@ Alle finalita' di cui al comma 1, il predetto Fondo provvede utilizzando le disp
 
 3.
 
-COMMA ABROGATO DALLA [L. 23 DICEMBRE 1992, N. 498](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-12-23;498). (( 13 )) 
+COMMA ABROGATO DALLA [L. 23 DICEMBRE 1992, N. 498](Interventi%20urgenti%20in%20materia%20di%20finanza%20pubblica.md). (( 13 )) 
  
 ---------------
 
 
  
 AGGIORNAMENTO (13) 
- La [L. 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296), ha disposto (con l'art. 1, comma 1021) che il sovrapprezzo tariffario autostradale previsto dal presente articolo e' soppresso. A decorrere dal l° gennaio 2007 e' istituito, sulle tariffe di pedaggio di tutte le autostrade, un sovrapprezzo il cui importo e' pari:
+ La [L. 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), ha disposto (con l'art. 1, comma 1021) che il sovrapprezzo tariffario autostradale previsto dal presente articolo e' soppresso. A decorrere dal l° gennaio 2007 e' istituito, sulle tariffe di pedaggio di tutte le autostrade, un sovrapprezzo il cui importo e' pari:
                             a)
                                 per le classi di pedaggio A e B, a 2 millesimi di euro a chilometro dal l° gennaio 2007, a 2,5 millesimi di euro a chilometro dal l° gennaio 2008 e a 3 millesimi di euro a chilometro dal l° gennaio 2009;
                             b)

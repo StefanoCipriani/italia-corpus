@@ -113,7 +113,7 @@ L'importo massimo delle garanzie per il rischio di cambio che il Ministro del te
 -------------
  
  AGGIORNAMENTO (1) 
- Il [D.L. 15 settembre 1990, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-09-15;261), convertito, con modificazioni dalla [L. 12 novembre 1990, n. 331](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20settembre%201990%20n.%20261%20recante%20disposizioni%20fiscali%20urgenti%20in%20materia%20di%20finanza%20locale%20di%20accertamenti%20in%20base%20ad%20elementi%20seg_112c7b82afa6.md) ha disposto (con l'art. 12, comma 1) che l'ammontare del fondo di cui al comma 9 del presente articolo e' ulteriormente integrato di lire 1.534 miliardi per l'anno 1990 e di lire 4.017 miliardi per l'anno 1991; inoltre ha disposto (con l'art. 12, comma 2) che alla copertura del relativo onere si provvede, anche in deroga a quanto previsto dall'[articolo 2, comma 1, della legge 27 dicembre 1989, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-12-27;407#art_2-com1), con quota parte delle maggiori entrate previste dal suddetto decreto 261/1990.
+ Il [D.L. 15 settembre 1990, n. 261](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1990-09-15;261), convertito, con modificazioni dalla [L. 12 novembre 1990, n. 331](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2015%20settembre%201990%20n.%20261%20recante%20disposizioni%20fiscali%20urgenti%20in%20materia%20di%20finanza%20locale%20di%20accertamenti%20in%20base%20ad%20elementi%20seg_112c7b82afa6.md) ha disposto (con l'art. 12, comma 1) che l'ammontare del fondo di cui al comma 9 del presente articolo e' ulteriormente integrato di lire 1.534 miliardi per l'anno 1990 e di lire 4.017 miliardi per l'anno 1991; inoltre ha disposto (con l'art. 12, comma 2) che alla copertura del relativo onere si provvede, anche in deroga a quanto previsto dall'[articolo 2, comma 1, della legge 27 dicembre 1989, n. 407](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201990.md), con quota parte delle maggiori entrate previste dal suddetto decreto 261/1990.
 
 ## DISPOSIZIONI IN MATERIA DI ENTRATE
 
@@ -134,7 +134,7 @@ Il termine del 31 dicembre 1989 previsto dall'[articolo 2, commi 1](https://www.
 
  
 AGGIORNAMENTO (2) 
- La [L. 29 dicembre 1990, n. 405](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-12-29;405) ha disposto (con l'art. 10, comma 3) che il termine del 31 dicembre 1990 previsto dal comma 2 del presente articolo e' ulteriormente prorogato al 31 dicembre 1991.
+ La [L. 29 dicembre 1990, n. 405](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201991.md) ha disposto (con l'art. 10, comma 3) che il termine del 31 dicembre 1990 previsto dal comma 2 del presente articolo e' ulteriormente prorogato al 31 dicembre 1991.
 
 ## DISPOSIZIONI PER IL SETTORE DEI TRASPORTI
 

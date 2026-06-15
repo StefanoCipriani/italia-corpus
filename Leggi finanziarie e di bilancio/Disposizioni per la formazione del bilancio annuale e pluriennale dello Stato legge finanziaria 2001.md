@@ -176,7 +176,7 @@ In deroga all'[articolo 17, comma 1, del decreto legislativo 9 luglio 1997, n. 2
 
 AGGIORNAMENTO (13)
 
-La [L. 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448) ha disposto (con l'art. 2, comma 6) che "Il disposto dell'[articolo 2, comma 1, lettera c), della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_2-com1-letc), e' sospeso per l'anno 2002".
+La [L. 28 dicembre 2001, n. 448](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md) ha disposto (con l'art. 2, comma 6) che "Il disposto dell'[articolo 2, comma 1, lettera c), della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e' sospeso per l'anno 2002".
 
 ### Art. 3. — (Disposizioni fiscali in materia di pensioni, assegni di fonte estera, nonche' di redditi da lavoro dipendente prestato all'estero)
 
@@ -378,7 +378,7 @@ Ai fini delle agevolazioni previste dal presente articolo, i soci lavoratori di 
 
 AGGIORNAMENTO (52)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244), ha disposto (con l'art. 1, comma 65) che "In relazione a quanto previsto dal primo periodo del presente comma e in considerazione dell'effettivo utilizzo dei crediti d'imposta previsti dagli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_7) e [8 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_8), le risorse finanziarie a tale fine preordinate, esistenti presso la contabilita' speciale 1778 - Fondi di bilancio, sono ridotte di 1.500 milioni di euro. Le predette risorse sono versate al bilancio dello Stato nella misura di 450 milioni di euro per l'anno 2008 e di 525 milioni di euro per ciascuno degli anni 2009 e 2010".
+La [L. 24 dicembre 2007, n. 244](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), ha disposto (con l'art. 1, comma 65) che "In relazione a quanto previsto dal primo periodo del presente comma e in considerazione dell'effettivo utilizzo dei crediti d'imposta previsti dagli [articoli 7](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) e [8 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), le risorse finanziarie a tale fine preordinate, esistenti presso la contabilita' speciale 1778 - Fondi di bilancio, sono ridotte di 1.500 milioni di euro. Le predette risorse sono versate al bilancio dello Stato nella misura di 450 milioni di euro per l'anno 2008 e di 525 milioni di euro per ciascuno degli anni 2009 e 2010".
 
 ### Art. 8. — Agevolazione per gli investimenti nelle aree svantaggiate
 
@@ -396,7 +396,7 @@ L'Agenzia delle entrate rilascia, in via telematica e con procedura automatizzat
 
 1-quater.
 
-COMMA ABROGATO DALLA [L. 27 DICEMBRE 2002, N. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289).
+COMMA ABROGATO DALLA [L. 27 DICEMBRE 2002, N. 289](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md).
 
 1-quinquies.
 
@@ -447,13 +447,13 @@ Con uno o piu' decreti del Ministero delle finanze, di concerto con il Ministero
 
 AGGIORNAMENTO (40)
 
-Il [D.L. 30 settembre 2005, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-09-30;203), convertito con modificazioni dalla [L. 2 dicembre 2005, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202005%20n.%20203%20recante%20misure%20di%20contrasto%20allevasione%20fiscale%20e%20disposizioni%20urgenti%20in%20materia%20tributaria%20e%20finanziaria.md), ha disposto (con l'art. 7, comma 1-bis) che "La disposizione di cui al secondo periodo del [comma 7 dell'articolo 8 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_8-com7), si interpreta nel senso che gli immobili strumentali per natura, ai sensi dell' articolo 43, comma 2, secondo periodo, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), i quali costituiscono un complesso immobiliare unitario polifunzionale destinato allo svolgimento di attivita' commerciale, qualora siano locati a terzi, non si intendono destinati a struttura produttiva diversa, a condizione che gli stessi vengano destinati allo svolgimento di attivita' d'impresa ai sensi dell' articolo 55 del citato testo unico".
+Il [D.L. 30 settembre 2005, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-09-30;203), convertito con modificazioni dalla [L. 2 dicembre 2005, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202005%20n.%20203%20recante%20misure%20di%20contrasto%20allevasione%20fiscale%20e%20disposizioni%20urgenti%20in%20materia%20tributaria%20e%20finanziaria.md), ha disposto (con l'art. 7, comma 1-bis) che "La disposizione di cui al secondo periodo del [comma 7 dell'articolo 8 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), si interpreta nel senso che gli immobili strumentali per natura, ai sensi dell' articolo 43, comma 2, secondo periodo, del testo unico delle imposte sui redditi, di cui al [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](../DPR/Approvazione%20del%20testo%20unico%20delle%20imposte%20sui%20redditi.md), i quali costituiscono un complesso immobiliare unitario polifunzionale destinato allo svolgimento di attivita' commerciale, qualora siano locati a terzi, non si intendono destinati a struttura produttiva diversa, a condizione che gli stessi vengano destinati allo svolgimento di attivita' d'impresa ai sensi dell' articolo 55 del citato testo unico".
 
 -------------
 
 AGGIORNAMENTO (52)
 
-La [L. 24 dicembre 2007, n. 244](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244), ha disposto (con l'art. 1, comma 65) che in relazione alla soppressione del suddetto periodo e in considerazione dell'effettivo utilizzo dei crediti d'imposta previsti dagli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_7) e [8 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_8), le risorse finanziarie a tale fine preordinate, esistenti presso la contabilita' speciale 1778 - Fondi di bilancio, sono ridotte di 1.500 milioni di euro.
+La [L. 24 dicembre 2007, n. 244](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202008.md), ha disposto (con l'art. 1, comma 65) che in relazione alla soppressione del suddetto periodo e in considerazione dell'effettivo utilizzo dei crediti d'imposta previsti dagli [articoli 7](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) e [8 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), le risorse finanziarie a tale fine preordinate, esistenti presso la contabilita' speciale 1778 - Fondi di bilancio, sono ridotte di 1.500 milioni di euro.
 
 ### Art. 9. — (Tassazione del reddito d'impresa con aliquota proporzionale)
 
@@ -537,25 +537,25 @@ Per la salvaguardia dell'occupazione della gente di mare, i benefici di cui agli
 
 AGGIORNAMENTO (31)
 
-La [L. 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350) ha disposto (con l'art. 2, comma 5) che "Per l'anno 2004 sono prorogate le disposizioni di cui all'[articolo 11 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_11)".
+La [L. 24 dicembre 2003, n. 350](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md) ha disposto (con l'art. 2, comma 5) che "Per l'anno 2004 sono prorogate le disposizioni di cui all'[articolo 11 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md)".
 
 -------------
 
 AGGIORNAMENTO (36)
 
-La [L. 30 dicembre 2004, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311) ha disposto (con l'art. 1, comma 510) che "Per l'anno 2005 sono prorogate le disposizioni di cui all'[articolo 11 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_11)".
+La [L. 30 dicembre 2004, n. 311](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md) ha disposto (con l'art. 1, comma 510) che "Per l'anno 2005 sono prorogate le disposizioni di cui all'[articolo 11 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md)".
 
 -------------
 
 AGGIORNAMENTO (43)
 
-La [L. 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266), ha disposto (con l'art. 1, comma 119) che "Per l'anno 2006 sono prorogate le disposizioni di cui all'[articolo 11 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_11)".
+La [L. 23 dicembre 2005, n. 266](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md), ha disposto (con l'art. 1, comma 119) che "Per l'anno 2006 sono prorogate le disposizioni di cui all'[articolo 11 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md)".
 
 -------------
 
 AGGIORNAMENTO (49)
 
-La [L. 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296), ha disposto (con l'art. 1, comma 391) che "Per l'anno 2007 sono prorogate le disposizioni di cui all'[articolo 11 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_11)".
+La [L. 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), ha disposto (con l'art. 1, comma 391) che "Per l'anno 2007 sono prorogate le disposizioni di cui all'[articolo 11 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md)".
 
 ### Art. 12. — (Trattamento fiscale degli avanzi di gestione di Consorzi)
 
@@ -572,7 +572,7 @@ Il trattamento fiscale degli avanzi di gestione, di cui al [comma 2-bis dell'art
 
 AGGIORNAMENTO (82)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 89) che la presente abrogazione ha effetto a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2014.
+La [L. 23 dicembre 2014, n. 190](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 89) che la presente abrogazione ha effetto a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2014.
 
 ### Art. 14.
 
@@ -792,19 +792,19 @@ A decorrere dal 1 gennaio 2001 e fino al 30 giugno 2001, l'accisa sul gas metano
 
 AGGIORNAMENTO (6)
 
-Il [D.L. 30 giugno 2001, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-06-30;246), convertito con modificazioni dalla [L. 4 agosto 2001, n. 330](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%202001%20n.%20246%20recante%20disposizioni%20in%20materia%20di%20accise%20sui%20prodotti%20petroliferi%20ed%20altre%20misure%20urgenti.md), ha disposto (con l'art. 1, comma 2) che "Le aliquote delle accise sui prodotti petroliferi indicati nell'[articolo 24, comma 1, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_24-com1), sono prorogate, fino al 30 settembre 2001, nella misura ivi fissata".
+Il [D.L. 30 giugno 2001, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-06-30;246), convertito con modificazioni dalla [L. 4 agosto 2001, n. 330](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%202001%20n.%20246%20recante%20disposizioni%20in%20materia%20di%20accise%20sui%20prodotti%20petroliferi%20ed%20altre%20misure%20urgenti.md), ha disposto (con l'art. 1, comma 2) che "Le aliquote delle accise sui prodotti petroliferi indicati nell'[articolo 24, comma 1, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), sono prorogate, fino al 30 settembre 2001, nella misura ivi fissata".
 
 -------------
 
 AGGIORNAMENTO (10)
 
-Il [D.L. 1 ottobre 2001, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-10-01;356), convertito con modificazioni dalla [L. 30 novembre 2001, n. 418](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%202001%20n.%20356%20recante%20interventi%20in%20materia%20di%20accise%20sui%20prodotti%20petroliferi.md), ha disposto (con l'art. 1, comma 2) che "Le aliquote di accisa sui prodotti petroliferi indicati nell'[articolo 24, comma 1, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_24-com1), sono prorogate, fino al 31 ottobre 2001, nelle misure ivi fissate, e le sole aliquote di accisa sulle emulsioni stabilizzate di cui all'[articolo 24, comma 1, lettera d), della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_24-com1-letd), restano ulteriormente prorogate fino al 31 dicembre 2001".
+Il [D.L. 1 ottobre 2001, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-10-01;356), convertito con modificazioni dalla [L. 30 novembre 2001, n. 418](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%202001%20n.%20356%20recante%20interventi%20in%20materia%20di%20accise%20sui%20prodotti%20petroliferi.md), ha disposto (con l'art. 1, comma 2) che "Le aliquote di accisa sui prodotti petroliferi indicati nell'[articolo 24, comma 1, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), sono prorogate, fino al 31 ottobre 2001, nelle misure ivi fissate, e le sole aliquote di accisa sulle emulsioni stabilizzate di cui all'[articolo 24, comma 1, lettera d), della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), restano ulteriormente prorogate fino al 31 dicembre 2001".
 
 -------------
 
 AGGIORNAMENTO (14)
 
-Il [D.L. 28 dicembre 2001, n. 452](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;452), convertito con modificazioni dalla [L. 27 febbraio 2002, n. 16](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202001%20n.%20452%20recante%20disposizioni%20urgenti%20in%20tema%20di%20accise%20di%20gasolio%20per%20autotrazione%20di%20smaltimento%20di%20oli%20usati%20di%20_5283adbb5342.md) ha disposto (con l'art. 1, comma 1) che "Le aliquote di accisa sulle emulsioni stabilizzate di cui all'[articolo 24, comma 1, lettera d), della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_24-com1-letd), sono prorogate fino al 30 giugno 2002".
+Il [D.L. 28 dicembre 2001, n. 452](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-12-28;452), convertito con modificazioni dalla [L. 27 febbraio 2002, n. 16](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202001%20n.%20452%20recante%20disposizioni%20urgenti%20in%20tema%20di%20accise%20di%20gasolio%20per%20autotrazione%20di%20smaltimento%20di%20oli%20usati%20di%20_5283adbb5342.md) ha disposto (con l'art. 1, comma 1) che "Le aliquote di accisa sulle emulsioni stabilizzate di cui all'[articolo 24, comma 1, lettera d), della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), sono prorogate fino al 30 giugno 2002".
 
 -------------
 
@@ -816,7 +816,7 @@ Il [D.L. 8 luglio 2002, n. 138](https://www.normattiva.it/uri-res/N2Ls?urn:nir:s
 
 AGGIORNAMENTO (25)
 
-La [L. 27 dicembre 2002, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289) ha disposto (con l'art. 21, comma 1) che le disposizioni in materia di riduzione di aliquote di accisa sulle emulsioni stabilizzate, di cui all'[articolo 24, comma 1, lettera d), della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_24-com1-letd) sono ulteriormente prorogate fino al 30 giugno 2003.
+La [L. 27 dicembre 2002, n. 289](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md) ha disposto (con l'art. 21, comma 1) che le disposizioni in materia di riduzione di aliquote di accisa sulle emulsioni stabilizzate, di cui all'[articolo 24, comma 1, lettera d), della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) sono ulteriormente prorogate fino al 30 giugno 2003.
 
 ### Art. 25. — (Agevolazioni sul gasolio per autotrazione impiegato dagli autotrasportatori)
 
@@ -846,7 +846,7 @@ Per ottenere il rimborso di quanto spettante, anche mediante la compensazione di
 
 AGGIORNAMENTO (14)
 
-Il Decreto 9 ottobre 2001 (in G.U. 12/10/2001, n.238) ha disposto (con l'art. 1, comma 1) che "Per il periodo dal 1 gennaio al 30 giugno 2001, l'importo della riduzione di accisa di cui all'[art. 25, comma 1, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_25-com1), come modificato dall'[art. 8, comma 1, del decreto-legge 1 ottobre 2001, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-10-01;356#art_8-com1), e' stabilita in lire 112.000 per mille litri di gasolio".
+Il Decreto 9 ottobre 2001 (in G.U. 12/10/2001, n.238) ha disposto (con l'art. 1, comma 1) che "Per il periodo dal 1 gennaio al 30 giugno 2001, l'importo della riduzione di accisa di cui all'[art. 25, comma 1, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), come modificato dall'[art. 8, comma 1, del decreto-legge 1 ottobre 2001, n. 356](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-10-01;356#art_8-com1), e' stabilita in lire 112.000 per mille litri di gasolio".
 
 ### Art. 26. — (Soggetti obbligati nel settore dell'accisa sul gas metano)
 
@@ -897,13 +897,13 @@ Per il periodo dal 1 gennaio al 30 giugno 2001, l'ammontare della agevolazione f
 
 AGGIORNAMENTO (25)
 
-La [L. 27 dicembre 2002, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289) ha disposto (con l'art. 21, comma 5) che "Le disposizioni in materia di aliquote di accisa sul gas metano per combustione per usi civili, di cui all'[articolo 27, comma 4, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_27-com4), sono prorogate al 30 giugno 2003".
+La [L. 27 dicembre 2002, n. 289](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md) ha disposto (con l'art. 21, comma 5) che "Le disposizioni in materia di aliquote di accisa sul gas metano per combustione per usi civili, di cui all'[articolo 27, comma 4, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), sono prorogate al 30 giugno 2003".
 
 -------------
 
 AGGIORNAMENTO (29)
 
-Il [D.L. 30 settembre 2003, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269), convertito con modificazioni dalla [L. 24 novembre 2003, n. 326](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202003%20n.%20269%20recante%20disposizioni%20urgenti%20per%20favorire%20lo%20sviluppo%20e%20per%20la%20correzione%20dellandamento%20dei%20conti%20pubblici.md), ha disposto (con l'art. 25, comma 1) che "Le disposizioni in materia di aliquote di accisa sul gas metano per combustione per usi civili, di cui all'[articolo 27, comma 4, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_27-com4), si applicano dalla data di entrata in vigore del presente decreto al 31 dicembre 2004".
+Il [D.L. 30 settembre 2003, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269), convertito con modificazioni dalla [L. 24 novembre 2003, n. 326](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202003%20n.%20269%20recante%20disposizioni%20urgenti%20per%20favorire%20lo%20sviluppo%20e%20per%20la%20correzione%20dellandamento%20dei%20conti%20pubblici.md), ha disposto (con l'art. 25, comma 1) che "Le disposizioni in materia di aliquote di accisa sul gas metano per combustione per usi civili, di cui all'[articolo 27, comma 4, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), si applicano dalla data di entrata in vigore del presente decreto al 31 dicembre 2004".
 
 ### Art. 28. — (Razionalizzazione delle imposte e norme in materia di energia elettrica)
 
@@ -1168,31 +1168,31 @@ All'[articolo 38, secondo comma, del decreto del Presidente della Repubblica 29 
 
 AGGIORNAMENTO (48)
 
-Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223), convertito con modificazioni dalla [L. 4 agosto 2006, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20economico%20e%20sociale%20per%20il%20contenimento%20e%20la%20razionalizzazione%20d_5fc851984c00.md), ha disposto (con l'art. 35, comma 6-ter) che "Per i soggetti subappaltatori ai quali si applica l'[articolo 17, sesto comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), resta ferma la possibilita' di effettuare la compensazione infrannuale ai sensi dell'articolo 8, comma 3, del regolamento di cui al [decreto del Presidente della Repubblica 14 ottobre 1999, n. 542](../DPR/Regolamento%20recante%20modificazioni%20alle%20disposizioni%20relative%20alla%20presentazione%20delle%20dichiarazioni%20dei%20redditi%20dellIRAP%20e%20dellIVA.md), e successive modificazioni. Qualora il volume di affari registrato dai predetti soggetti nell'anno precedente sia costituito per almeno l'80 per cento da prestazioni rese in esecuzione di contratti di subappalto, il limite di cui all'[articolo 34, comma 1, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_34-com1), e' elevato a 1.000.000 di euro".
+Il [D.L. 4 luglio 2006, n. 223](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-07-04;223), convertito con modificazioni dalla [L. 4 agosto 2006, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%204%20luglio%202006%20n.%20223%20recante%20disposizioni%20urgenti%20per%20il%20rilancio%20economico%20e%20sociale%20per%20il%20contenimento%20e%20la%20razionalizzazione%20d_5fc851984c00.md), ha disposto (con l'art. 35, comma 6-ter) che "Per i soggetti subappaltatori ai quali si applica l'[articolo 17, sesto comma, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633](../DPR/Istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto.md), resta ferma la possibilita' di effettuare la compensazione infrannuale ai sensi dell'articolo 8, comma 3, del regolamento di cui al [decreto del Presidente della Repubblica 14 ottobre 1999, n. 542](../DPR/Regolamento%20recante%20modificazioni%20alle%20disposizioni%20relative%20alla%20presentazione%20delle%20dichiarazioni%20dei%20redditi%20dellIRAP%20e%20dellIVA.md), e successive modificazioni. Qualora il volume di affari registrato dai predetti soggetti nell'anno precedente sia costituito per almeno l'80 per cento da prestazioni rese in esecuzione di contratti di subappalto, il limite di cui all'[articolo 34, comma 1, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e' elevato a 1.000.000 di euro".
 
 ---------------
 
 AGGIORNAMENTO (79)
 
-Il [D.L. 8 aprile 2013, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-04-08;35), convertito con modificazioni dalla [L. 6 giugno 2013, n. 64](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20aprile%202013%20n.%2035%20recante%20disposizioni%20urgenti%20per%20il%20pagamento%20dei%20debiti%20scaduti%20della%20pubblica%20amministrazione%20per%20il%20riequil_28ec5efdf6f1.md) ha disposto (con l'art. 9, comma 2) che "A decorrere dall'anno 2014, il limite di 516.000 euro previsto dall'[articolo 34, comma 1, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_34-com1) e' aumentato a 700.000 euro".
+Il [D.L. 8 aprile 2013, n. 35](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2013-04-08;35), convertito con modificazioni dalla [L. 6 giugno 2013, n. 64](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%208%20aprile%202013%20n.%2035%20recante%20disposizioni%20urgenti%20per%20il%20pagamento%20dei%20debiti%20scaduti%20della%20pubblica%20amministrazione%20per%20il%20riequil_28ec5efdf6f1.md) ha disposto (con l'art. 9, comma 2) che "A decorrere dall'anno 2014, il limite di 516.000 euro previsto dall'[articolo 34, comma 1, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) e' aumentato a 700.000 euro".
 
 ---------------
 
 AGGIORNAMENTO (100)
 
-Il [D.L. 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34) ha disposto (con l'art. 147, comma 1) che "Per l'anno 2020, il limite previsto dall'articolo 34, comma 1, primo periodo, della [legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388) e' elevato a 1 milione di euro".
+Il [D.L. 19 maggio 2020, n. 34](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2020-05-19;34) ha disposto (con l'art. 147, comma 1) che "Per l'anno 2020, il limite previsto dall'articolo 34, comma 1, primo periodo, della [legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) e' elevato a 1 milione di euro".
 
 ---------------
 
 AGGIORNAMENTO (102)
 
-Il [D.L. 25 maggio 2021, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-25;73), ha disposto (con l'art. 22, comma 1) che "Per l'anno 2021, il limite previsto dall'articolo 34, comma 1, primo periodo, della [legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388), e' elevato a 2 milioni di euro".
+Il [D.L. 25 maggio 2021, n. 73](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-05-25;73), ha disposto (con l'art. 22, comma 1) che "Per l'anno 2021, il limite previsto dall'articolo 34, comma 1, primo periodo, della [legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e' elevato a 2 milioni di euro".
 
 ---------------
 
 AGGIORNAMENTO (104)
 
-La [L. 30 dicembre 2021, n. 234](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-12-30;234) ha disposto (con l'art. 1, comma 72) che "A decorrere dal 1° gennaio 2022, il limite previsto dall'articolo 34, comma 1, primo periodo, della [legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388), e' elevato a 2 milioni di euro".
+La [L. 30 dicembre 2021, n. 234](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202022%20e%20bilancio%20pluriennale%20per%20il%20triennio%202022-2024.%2021G00256.md) ha disposto (con l'art. 1, comma 72) che "A decorrere dal 1° gennaio 2022, il limite previsto dall'articolo 34, comma 1, primo periodo, della [legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e' elevato a 2 milioni di euro".
 
 ### Art. 35. — (Regime fiscale di proventi spettanti a istituzioni o a soggetti stranieri e internazionali)
 
@@ -1257,11 +1257,11 @@ All'[articolo 4 della legge 13 dicembre 1989, n. 401](https://www.normattiva.it/
 
 1.
 
-COMMA ABROGATO DALLA [L. 30 DICEMBRE 2004, N. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311).
+COMMA ABROGATO DALLA [L. 30 DICEMBRE 2004, N. 311](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md).
 
 2.
 
-COMMA ABROGATO DALLA [L. 30 DICEMBRE 2004, N. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311).
+COMMA ABROGATO DALLA [L. 30 DICEMBRE 2004, N. 311](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md).
 
 3.
 
@@ -1514,7 +1514,7 @@ Il contingente degli ausiliari di leva da assumere in sovrannumero a tempo deter
 
 AGGIORNAMENTO (13)
 
-La [L. 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448) ha disposto (con l'art. 16, comma 3) che "Per la prosecuzione delle iniziative dirette alla valorizzazione professionale del personale docente della scuola, ed in aggiunta a quanto previsto dal comma 1, l'apposito fondo costituito ai sensi dell'[articolo 50, comma 3, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_50-com3), da utilizzare in sede di contrattazione integrativa, e' incrementato di 108,46 milioni di euro a decorrere dall'anno 2002. Il predetto fondo e' incrementato, per l'anno 2003, di 381,35 milioni di euro e, a decorrere dall'anno 2004, della somma complessiva di 726,75 milioni di euro, subordinatamente al conseguimento delle economie derivanti dal processo attuativo delle disposizioni contenute nei commi 1 e 4 dell'articolo 22 della presente legge".
+La [L. 28 dicembre 2001, n. 448](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md) ha disposto (con l'art. 16, comma 3) che "Per la prosecuzione delle iniziative dirette alla valorizzazione professionale del personale docente della scuola, ed in aggiunta a quanto previsto dal comma 1, l'apposito fondo costituito ai sensi dell'[articolo 50, comma 3, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), da utilizzare in sede di contrattazione integrativa, e' incrementato di 108,46 milioni di euro a decorrere dall'anno 2002. Il predetto fondo e' incrementato, per l'anno 2003, di 381,35 milioni di euro e, a decorrere dall'anno 2004, della somma complessiva di 726,75 milioni di euro, subordinatamente al conseguimento delle economie derivanti dal processo attuativo delle disposizioni contenute nei commi 1 e 4 dell'articolo 22 della presente legge".
 
 ### Art. 51. — (Programmazione delle assunzioni e norme interpretative)
 
@@ -1579,7 +1579,7 @@ All'ultimo periodo del [comma 23 dell'articolo 45 del decreto legislativo 31 mar
 
 AGGIORNAMENTO (108)
 
-La Corte Costituzionale, con sentenza 6 dicembre 2023 - 11 gennaio 2024, n. 4 (in G.U. 1ª s.s. 17/01/2024, n. 3), ha dichiarato "l'illegittimita' costituzionale dell'[art. 51, comma 3, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_51-com3), recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2001)»".
+La Corte Costituzionale, con sentenza 6 dicembre 2023 - 11 gennaio 2024, n. 4 (in G.U. 1ª s.s. 17/01/2024, n. 3), ha dichiarato "l'illegittimita' costituzionale dell'[art. 51, comma 3, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2001)»".
 
 ## SPESE DELLE AMMINISTRAZIONI PUBBLICHE
 
@@ -1754,7 +1754,7 @@ Gli enti locali con popolazione inferiore a cinquemila abitanti fatta salva l'ip
 
 AGGIORNAMENTO (99)
 
-La [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160) ha disposto (con l'art. 1, comma 779) che "Per l'anno 2020, i comuni, in deroga all'[articolo 1, comma 169, della legge 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296#art_1-com169), all'[articolo 53, comma 16, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_53-com16), e all'articolo 172, comma 1, lettera c), del testo unico delle leggi sull'ordinamento degli enti locali, di cui al [decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), possono approvare le delibere concernenti le aliquote e il regolamento dell'imposta oltre il termine di approvazione del bilancio di previsione per gli anni 2020-2022 e comunque non oltre il 30 giugno 2020. Dette deliberazioni, anche se approvate successivamente all'inizio dell'esercizio, purche' entro il termine innanzi indicato, hanno effetto dal 1° gennaio dell'anno 2020".
+La [L. 27 dicembre 2019, n. 160](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md) ha disposto (con l'art. 1, comma 779) che "Per l'anno 2020, i comuni, in deroga all'[articolo 1, comma 169, della legge 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), all'[articolo 53, comma 16, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e all'articolo 172, comma 1, lettera c), del testo unico delle leggi sull'ordinamento degli enti locali, di cui al [decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), possono approvare le delibere concernenti le aliquote e il regolamento dell'imposta oltre il termine di approvazione del bilancio di previsione per gli anni 2020-2022 e comunque non oltre il 30 giugno 2020. Dette deliberazioni, anche se approvate successivamente all'inizio dell'esercizio, purche' entro il termine innanzi indicato, hanno effetto dal 1° gennaio dell'anno 2020".
 
 ### Art. 54.
 
@@ -2127,7 +2127,7 @@ Per i comuni ((e le province)) delle regioni a statuto speciale, all'attuazione 
 
 AGGIORNAMENTO (25)
 
-La [L. 27 dicembre 2002, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289) ha disposto (con l'art. 31, comma 8) che "Per l'anno 2003 l'aliquota di compartecipazione dei comuni al gettito dell'IRPEF di cui all'[articolo 67, comma 3, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_67-com3), come sostituito dall'[articolo 25, comma 5, della legge 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448#art_25-com5), e' stabilita nella misura del 6,5 per cento".
+La [L. 27 dicembre 2002, n. 289](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md) ha disposto (con l'art. 31, comma 8) che "Per l'anno 2003 l'aliquota di compartecipazione dei comuni al gettito dell'IRPEF di cui all'[articolo 67, comma 3, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), come sostituito dall'[articolo 25, comma 5, della legge 28 dicembre 2001, n. 448](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md), e' stabilita nella misura del 6,5 per cento".
 
 ## INTERVENTI IN MATERIA PREVIDENZIALE E SOCIALE
 
@@ -2265,19 +2265,19 @@ Al fine di sopperire alle necessita' della gestione del Fondo credito per i dipe
 
 AGGIORNAMENTO (13)
 
-La [L. 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448) ha disposto (con l'art. 43, comma 3) che "La disposizione di cui al [comma 7 dell'articolo 69 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_69-com7), si applica a decorrere dalla data di entrata in vigore della [legge 11 novembre 1983, n. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md)".
+La [L. 28 dicembre 2001, n. 448](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md) ha disposto (con l'art. 43, comma 3) che "La disposizione di cui al [comma 7 dell'articolo 69 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), si applica a decorrere dalla data di entrata in vigore della [legge 11 novembre 1983, n. 638](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2012%20settembre%201983%20n.%20463%20recante%20misure%20urgenti%20in%20materia%20previdenziale%20e%20sanitaria%20e%20per%20il%20contenimento%20della%20spesa%20pubblica%20di_f3f924b1a07d.md)".
 
 -------------
 
 AGGIORNAMENTO (94)
 
-La [L. 27 dicembre 2017, n. 205](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-12-27;205) ha disposto (con l'art. 1, comma 185) che "La disposizione di cui all'[articolo 69, comma 15, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_69-com15), si applica a tutte le gestioni amministrate dall'INPS".
+La [L. 27 dicembre 2017, n. 205](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202018%20e%20bilancio%20pluriennale%20per%20il%20triennio%202018-2020.%2017G00222.md) ha disposto (con l'art. 1, comma 185) che "La disposizione di cui all'[articolo 69, comma 15, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), si applica a tutte le gestioni amministrate dall'INPS".
 
 ---------------
 
 AGGIORNAMENTO (117)
 
-Il [D.L. 31 ottobre 2025, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-10-31;159) ha disposto (con l'art. 11, comma 1) che "A decorrere dal 1° gennaio 2026 la disposizione di cui all'[articolo 69, comma 15, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_69-com15), si applica a tutte le gestioni assicurative amministrate dall'INAIL".
+Il [D.L. 31 ottobre 2025, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2025-10-31;159) ha disposto (con l'art. 11, comma 1) che "A decorrere dal 1° gennaio 2026 la disposizione di cui all'[articolo 69, comma 15, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), si applica a tutte le gestioni assicurative amministrate dall'INAIL".
 
 ### Art. 70. — (Maggiorazioni)
 
@@ -2337,8 +2337,8 @@ L'importo aggiuntivo di cui al comma 7 non costituisce reddito ne' ai fini fisca
 
 AGGIORNAMENTO (13)
 
-La [L. 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448) ha disposto (con l'art. 38, comma 1, lettera b)) che "A decorrere dal 1 gennaio 2002 e' incrementata, a favore dei soggetti di eta' pari o superiore a settanta anni e fino a garantire un reddito proprio pari a 516,46 euro al mese per tredici mensilita', la misura delle maggiorazioni sociali dei trattamenti pensionistici di cui: 
- b) all'[articolo 70, comma 1, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_70-com1), con riferimento ai titolari dell'assegno sociale di cui all'[articolo 3, comma 6, della legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335#art_3-com6)".
+La [L. 28 dicembre 2001, n. 448](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md) ha disposto (con l'art. 38, comma 1, lettera b)) che "A decorrere dal 1 gennaio 2002 e' incrementata, a favore dei soggetti di eta' pari o superiore a settanta anni e fino a garantire un reddito proprio pari a 516,46 euro al mese per tredici mensilita', la misura delle maggiorazioni sociali dei trattamenti pensionistici di cui: 
+ b) all'[articolo 70, comma 1, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), con riferimento ai titolari dell'assegno sociale di cui all'[articolo 3, comma 6, della legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335#art_3-com6)".
 
 ### Art. 71.
 
@@ -2569,67 +2569,67 @@ Nei limiti delle risorse rispettivamente indicate a carico del Fondo di cui all'
 
 AGGIORNAMENTO (31)
 
-La [L. 24 dicembre 2003,n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350) ha disposto (con l'art. 3, comma 77) che "In presenza delle convenzioni di cui al comma 76 il termine di cui all'articolo 78, comma 2, alinea, della [legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388), e' prorogato al 31 dicembre 2004".
+La [L. 24 dicembre 2003,n. 350](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md) ha disposto (con l'art. 3, comma 77) che "In presenza delle convenzioni di cui al comma 76 il termine di cui all'articolo 78, comma 2, alinea, della [legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e' prorogato al 31 dicembre 2004".
 
 -------------
 
 AGGIORNAMENTO (36)
 
-La [L. 30 dicembre 2004, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311) ha disposto (con l'art. 1, comma 262) che in presenza delle convenzioni di cui all'art. 1, comma 262 della suddetta legge il termine di cui all'[articolo 78, comma 2, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_78-com2), e' prorogato al 31 dicembre 2005.
+La [L. 30 dicembre 2004, n. 311](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md) ha disposto (con l'art. 1, comma 262) che in presenza delle convenzioni di cui all'art. 1, comma 262 della suddetta legge il termine di cui all'[articolo 78, comma 2, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e' prorogato al 31 dicembre 2005.
 
 -------------
 
 AGGIORNAMENTO (43)
 
-La [L. 23 dicembre 2006, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-23;266) ha disposto (con l'art. 1, comma 430) che in presenza delle convenzioni di cui all'art. 1, comma 430 della suddetta legge il termine di cui all'[articolo 78, comma 2, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_78-com2), e' prorogato al 31 dicembre 2006".
+La [L. 23 dicembre 2006, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-23;266) ha disposto (con l'art. 1, comma 430) che in presenza delle convenzioni di cui all'art. 1, comma 430 della suddetta legge il termine di cui all'[articolo 78, comma 2, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e' prorogato al 31 dicembre 2006".
 
 -------------
 
 AGGIORNAMENTO (49)
 
-La [L. 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296), ha disposto (con l'art. 1, comma 1166) che in presenza delle convenzioni previste dal comma 1166 dell'art. 1 della suddetta legge, il termine di cui al comma 2 del presente articolo e' prorogato al 31 dicembre 2007.
+La [L. 27 dicembre 2006, n. 296](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), ha disposto (con l'art. 1, comma 1166) che in presenza delle convenzioni previste dal comma 1166 dell'art. 1 della suddetta legge, il termine di cui al comma 2 del presente articolo e' prorogato al 31 dicembre 2007.
 
 -------------
 
 AGGIORNAMENTO (99)
 
-La [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160), ha disposto (con l'art. 1, comma 162) che "Le convenzioni stipulate ai sensi dell'[articolo 78, comma 2, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_78-com2), per l'utilizzazione di lavoratori socialmente utili di cui all'[articolo 2, comma 1, del decreto legislativo 28 febbraio 2000, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Integrazioni%20e%20modifiche%20della%20disciplina%20dei%20lavori%20socialmente%20utili%20a%20norma%20dellarticolo%2045%20comma%202%20della%20legge%2017%20maggio%201999%20n.%20144.md), sono prorogate al 31 dicembre 2020 nei limiti della spesa gia' sostenuta e senza nuovi o maggiori oneri a carico della finanza pubblica".
+La [L. 27 dicembre 2019, n. 160](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), ha disposto (con l'art. 1, comma 162) che "Le convenzioni stipulate ai sensi dell'[articolo 78, comma 2, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), per l'utilizzazione di lavoratori socialmente utili di cui all'[articolo 2, comma 1, del decreto legislativo 28 febbraio 2000, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Integrazioni%20e%20modifiche%20della%20disciplina%20dei%20lavori%20socialmente%20utili%20a%20norma%20dellarticolo%2045%20comma%202%20della%20legge%2017%20maggio%201999%20n.%20144.md), sono prorogate al 31 dicembre 2020 nei limiti della spesa gia' sostenuta e senza nuovi o maggiori oneri a carico della finanza pubblica".
 
 --------------
 
 AGGIORNAMENTO (101)
 
-La [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160), come modificata dalla [L. 30 dicembre 2020, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2020-12-30;178), ha disposto (con l'art. 1, comma 162) che "Le convenzioni stipulate ai sensi dell'[articolo 78, comma 2, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_78-com2), per l'utilizzazione di lavoratori socialmente utili di cui all'[articolo 2, comma 1, del decreto legislativo 28 febbraio 2000, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Integrazioni%20e%20modifiche%20della%20disciplina%20dei%20lavori%20socialmente%20utili%20a%20norma%20dellarticolo%2045%20comma%202%20della%20legge%2017%20maggio%201999%20n.%20144.md), sono prorogate al 31 dicembre 2021 nei limiti della spesa gia' sostenuta e senza nuovi o maggiori oneri a carico della finanza pubblica".
+La [L. 27 dicembre 2019, n. 160](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), come modificata dalla [L. 30 dicembre 2020, n. 178](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202021%20e%20bilancio%20pluriennale%20per%20il%20triennio%202021-2023.%2020G00202.md), ha disposto (con l'art. 1, comma 162) che "Le convenzioni stipulate ai sensi dell'[articolo 78, comma 2, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), per l'utilizzazione di lavoratori socialmente utili di cui all'[articolo 2, comma 1, del decreto legislativo 28 febbraio 2000, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Integrazioni%20e%20modifiche%20della%20disciplina%20dei%20lavori%20socialmente%20utili%20a%20norma%20dellarticolo%2045%20comma%202%20della%20legge%2017%20maggio%201999%20n.%20144.md), sono prorogate al 31 dicembre 2021 nei limiti della spesa gia' sostenuta e senza nuovi o maggiori oneri a carico della finanza pubblica".
 
 --------------
 
 AGGIORNAMENTO (103)
 
-La [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160), come modificata dal [D.L. 30 dicembre 2021, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-12-30;228), convertito con modificazioni dalla [L. 25 febbraio 2022, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202021%20n.%20228%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20legislativi.%2022G00022.md), ha disposto (con l'art. 1, comma 162) che "Le convenzioni stipulate ai sensi dell'[articolo 78, comma 2, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_78-com2), per l'utilizzazione di lavoratori socialmente utili di cui all'[articolo 2, comma 1, del decreto legislativo 28 febbraio 2000, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Integrazioni%20e%20modifiche%20della%20disciplina%20dei%20lavori%20socialmente%20utili%20a%20norma%20dellarticolo%2045%20comma%202%20della%20legge%2017%20maggio%201999%20n.%20144.md), sono prorogate al 31 dicembre 2022 nei limiti della spesa gia' sostenuta e senza nuovi o maggiori oneri a carico della finanza pubblica".
+La [L. 27 dicembre 2019, n. 160](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), come modificata dal [D.L. 30 dicembre 2021, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-12-30;228), convertito con modificazioni dalla [L. 25 febbraio 2022, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202021%20n.%20228%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20legislativi.%2022G00022.md), ha disposto (con l'art. 1, comma 162) che "Le convenzioni stipulate ai sensi dell'[articolo 78, comma 2, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), per l'utilizzazione di lavoratori socialmente utili di cui all'[articolo 2, comma 1, del decreto legislativo 28 febbraio 2000, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Integrazioni%20e%20modifiche%20della%20disciplina%20dei%20lavori%20socialmente%20utili%20a%20norma%20dellarticolo%2045%20comma%202%20della%20legge%2017%20maggio%201999%20n.%20144.md), sono prorogate al 31 dicembre 2022 nei limiti della spesa gia' sostenuta e senza nuovi o maggiori oneri a carico della finanza pubblica".
 
 ---------------
 
 AGGIORNAMENTO (106)
 
-La [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160), come modificata dal [D.L. 29 dicembre 2022, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198), ha disposto (con l'art. 1, comma 162) che "Le convenzioni stipulate ai sensi dell'[articolo 78, comma 2, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_78-com2), per l'utilizzazione di lavoratori socialmente utili di cui all'[articolo 2, comma 1, del decreto legislativo 28 febbraio 2000, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Integrazioni%20e%20modifiche%20della%20disciplina%20dei%20lavori%20socialmente%20utili%20a%20norma%20dellarticolo%2045%20comma%202%20della%20legge%2017%20maggio%201999%20n.%20144.md), sono prorogate al 31 dicembre 2023 nei limiti della spesa gia' sostenuta e senza nuovi o maggiori oneri a carico della finanza pubblica".
+La [L. 27 dicembre 2019, n. 160](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), come modificata dal [D.L. 29 dicembre 2022, n. 198](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2022-12-29;198), ha disposto (con l'art. 1, comma 162) che "Le convenzioni stipulate ai sensi dell'[articolo 78, comma 2, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), per l'utilizzazione di lavoratori socialmente utili di cui all'[articolo 2, comma 1, del decreto legislativo 28 febbraio 2000, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Integrazioni%20e%20modifiche%20della%20disciplina%20dei%20lavori%20socialmente%20utili%20a%20norma%20dellarticolo%2045%20comma%202%20della%20legge%2017%20maggio%201999%20n.%20144.md), sono prorogate al 31 dicembre 2023 nei limiti della spesa gia' sostenuta e senza nuovi o maggiori oneri a carico della finanza pubblica".
 
 ---------------
 
 AGGIORNAMENTO (107)
 
-La [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160), come modificata dal [D.L. 30 dicembre 2023, n. 215](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2023G00227.md) ha disposto (con l'art. 1, comma 162) che "Le convenzioni stipulate ai sensi dell'[articolo 78, comma 2, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_78-com2), per l'utilizzazione di lavoratori socialmente utili di cui all'[articolo 2, comma 1, del decreto legislativo 28 febbraio 2000, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Integrazioni%20e%20modifiche%20della%20disciplina%20dei%20lavori%20socialmente%20utili%20a%20norma%20dellarticolo%2045%20comma%202%20della%20legge%2017%20maggio%201999%20n.%20144.md), sono prorogate al 30 giugno 2024 nei limiti della spesa gia' sostenuta e senza nuovi o maggiori oneri a carico della finanza pubblica".
+La [L. 27 dicembre 2019, n. 160](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), come modificata dal [D.L. 30 dicembre 2023, n. 215](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2023G00227.md) ha disposto (con l'art. 1, comma 162) che "Le convenzioni stipulate ai sensi dell'[articolo 78, comma 2, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), per l'utilizzazione di lavoratori socialmente utili di cui all'[articolo 2, comma 1, del decreto legislativo 28 febbraio 2000, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Integrazioni%20e%20modifiche%20della%20disciplina%20dei%20lavori%20socialmente%20utili%20a%20norma%20dellarticolo%2045%20comma%202%20della%20legge%2017%20maggio%201999%20n.%20144.md), sono prorogate al 30 giugno 2024 nei limiti della spesa gia' sostenuta e senza nuovi o maggiori oneri a carico della finanza pubblica".
 
 ---------------
 
 AGGIORNAMENTO (111)
 
-La [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160), come modificata dal [D.L. 7 maggio 2024, n. 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-05-07;60), convertito con modificazioni dalla [L. 4 luglio 2024, n. 95](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20maggio%202024%20n.%2060%20recante%20ulteriori%20disposizioni%20urgenti%20in%20materia%20di%20politiche%20di%20coesione.%2024G00113.md), ha disposto (con l'art. 1, comma 162) che "Le convenzioni stipulate ai sensi dell'[articolo 78, comma 2, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_78-com2), per l'utilizzazione di lavoratori socialmente utili di cui all'[articolo 2, comma 1, del decreto legislativo 28 febbraio 2000, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Integrazioni%20e%20modifiche%20della%20disciplina%20dei%20lavori%20socialmente%20utili%20a%20norma%20dellarticolo%2045%20comma%202%20della%20legge%2017%20maggio%201999%20n.%20144.md), sono prorogate al 31 dicembre 2024 nei limiti della spesa gia' sostenuta e senza nuovi o maggiori oneri a carico della finanza pubblica".
+La [L. 27 dicembre 2019, n. 160](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), come modificata dal [D.L. 7 maggio 2024, n. 60](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2024-05-07;60), convertito con modificazioni dalla [L. 4 luglio 2024, n. 95](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%207%20maggio%202024%20n.%2060%20recante%20ulteriori%20disposizioni%20urgenti%20in%20materia%20di%20politiche%20di%20coesione.%2024G00113.md), ha disposto (con l'art. 1, comma 162) che "Le convenzioni stipulate ai sensi dell'[articolo 78, comma 2, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), per l'utilizzazione di lavoratori socialmente utili di cui all'[articolo 2, comma 1, del decreto legislativo 28 febbraio 2000, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Integrazioni%20e%20modifiche%20della%20disciplina%20dei%20lavori%20socialmente%20utili%20a%20norma%20dellarticolo%2045%20comma%202%20della%20legge%2017%20maggio%201999%20n.%20144.md), sono prorogate al 31 dicembre 2024 nei limiti della spesa gia' sostenuta e senza nuovi o maggiori oneri a carico della finanza pubblica".
 
 ---------------
 
 AGGIORNAMENTO (115)
 
-La [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160), come modificata dalla [L. 30 dicembre 2024, n. 207](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207), ha disposto (con l'art. 1, comma 162) che "Le convenzioni stipulate ai sensi dell'[articolo 78, comma 2, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_78-com2), per l'utilizzazione di lavoratori socialmente utili di cui all'[articolo 2, comma 1, del decreto legislativo 28 febbraio 2000, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Integrazioni%20e%20modifiche%20della%20disciplina%20dei%20lavori%20socialmente%20utili%20a%20norma%20dellarticolo%2045%20comma%202%20della%20legge%2017%20maggio%201999%20n.%20144.md), sono prorogate al 31 dicembre 2025 nei limiti della spesa gia' sostenuta e senza nuovi o maggiori oneri a carico della finanza pubblica".
+La [L. 27 dicembre 2019, n. 160](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), come modificata dalla [L. 30 dicembre 2024, n. 207](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202025%20e%20bilancio%20pluriennale%20per%20il%20triennio%202025-2027.%2024G00229.md), ha disposto (con l'art. 1, comma 162) che "Le convenzioni stipulate ai sensi dell'[articolo 78, comma 2, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), per l'utilizzazione di lavoratori socialmente utili di cui all'[articolo 2, comma 1, del decreto legislativo 28 febbraio 2000, n. 81](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Integrazioni%20e%20modifiche%20della%20disciplina%20dei%20lavori%20socialmente%20utili%20a%20norma%20dellarticolo%2045%20comma%202%20della%20legge%2017%20maggio%201999%20n.%20144.md), sono prorogate al 31 dicembre 2025 nei limiti della spesa gia' sostenuta e senza nuovi o maggiori oneri a carico della finanza pubblica".
 
 ### Art. 79. — (Norme in materia di ENPALS)
 
@@ -2792,7 +2792,7 @@ In caso di rinuncia all'azione giudiziaria promossa da parte dei lavoratori espo
 
 AGGIORNAMENTO (7)
 
-Il [D.L. 2 luglio 2001, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-07-02;247), convertito senza modificazioni dalla [legge 4 agosto 2001, n. 332](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%202%20luglio%202001%20n.%20247%20recante%20disposizioni%20in%20materia%20di%20rilascio%20di%20immobili%20adibiti%20ad%20uso%20abitativo.md), ha disposto (con l'art. 1, comma 1) che "La sospensione delle procedure esecutive di rilascio di immobili adibiti ad uso abitativo, gia' disposta ai sensi dell'[articolo 80, comma 22, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_80-com22), iniziate nei confronti degli inquilini in possesso dei requisiti indicati al comma 20 del medesimo articolo 80, e' differita fino al 31 dicembre 2001".
+Il [D.L. 2 luglio 2001, n. 247](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-07-02;247), convertito senza modificazioni dalla [legge 4 agosto 2001, n. 332](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%202%20luglio%202001%20n.%20247%20recante%20disposizioni%20in%20materia%20di%20rilascio%20di%20immobili%20adibiti%20ad%20uso%20abitativo.md), ha disposto (con l'art. 1, comma 1) che "La sospensione delle procedure esecutive di rilascio di immobili adibiti ad uso abitativo, gia' disposta ai sensi dell'[articolo 80, comma 22, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), iniziate nei confronti degli inquilini in possesso dei requisiti indicati al comma 20 del medesimo articolo 80, e' differita fino al 31 dicembre 2001".
 
 -------------
 
@@ -2816,25 +2816,25 @@ La Corte Costituzionale, con sentenza 26 - 28 maggio 2010, n. 187 (in G.U. 1a s.
 
 AGGIORNAMENTO (68)
 
-La Corte Costituzionale, con sentenza 12 - 16 dicembre 2011, n. 329 (in G.U. 1a s.s. 21/12/2011, n. 53) ha dichiarato "l'illegittimita' costituzionale dell'[art. 80, comma 19, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_80-com19) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2001), nella parte in cui subordina al requisito della titolarita' della carta di soggiorno la concessione ai minori extracomunitari legalmente soggiornanti nel territorio dello Stato della indennita' di frequenza di cui all'[art. 1 della legge 11 ottobre 1990, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-11;289#art_1) (Modifiche alla disciplina delle indennita' di accompagnamento di cui alla [legge 21 novembre 1988, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-21;508), recante norme integrative in materia di assistenza economica agli invalidi civili, ai ciechi civili ed ai sordomuti e istituzione di un'indennita' di frequenza per i minori invalidi)".
+La Corte Costituzionale, con sentenza 12 - 16 dicembre 2011, n. 329 (in G.U. 1a s.s. 21/12/2011, n. 53) ha dichiarato "l'illegittimita' costituzionale dell'[art. 80, comma 19, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2001), nella parte in cui subordina al requisito della titolarita' della carta di soggiorno la concessione ai minori extracomunitari legalmente soggiornanti nel territorio dello Stato della indennita' di frequenza di cui all'[art. 1 della legge 11 ottobre 1990, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-11;289#art_1) (Modifiche alla disciplina delle indennita' di accompagnamento di cui alla [legge 21 novembre 1988, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-21;508), recante norme integrative in materia di assistenza economica agli invalidi civili, ai ciechi civili ed ai sordomuti e istituzione di un'indennita' di frequenza per i minori invalidi)".
 
 -------------
 
 AGGIORNAMENTO (78)
 
-La Corte Costituzionale, con sentenza 11 - 15 marzo 2013 n. 40 (in G.U. 1a s.s. 20/3/2013, n. 12), ha dichiarato "l'illegittimita' costituzionale dell'[articolo 80, comma 19, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_80-com19) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2001) nella parte in cui subordina al requisito della titolarita' della carta di soggiorno la concessione agli stranieri legalmente soggiornanti nel territorio dello Stato della indennita' di accompagnamento di cui all'[art. 1 della legge 11 febbraio 1980, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-11;18#art_1) (Indennita' di accompagnamento agli invalidi civili totalmente inabili) e della pensione di inabilita' di cui all'[art. 12 della legge 30 marzo 1971, n. 118](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2030%20gennaio%201971%20n.%205%20e%20nuove%20norme%20in%20favore%20dei%20mutilati%20ed%20invalidi%20civili.md) (Conversione in legge del [decreto-legge 30 gennaio 1971, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1971-01-30;5) e nuove norme in favore di mutilati ed invalidi civili)".
+La Corte Costituzionale, con sentenza 11 - 15 marzo 2013 n. 40 (in G.U. 1a s.s. 20/3/2013, n. 12), ha dichiarato "l'illegittimita' costituzionale dell'[articolo 80, comma 19, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2001) nella parte in cui subordina al requisito della titolarita' della carta di soggiorno la concessione agli stranieri legalmente soggiornanti nel territorio dello Stato della indennita' di accompagnamento di cui all'[art. 1 della legge 11 febbraio 1980, n. 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-02-11;18#art_1) (Indennita' di accompagnamento agli invalidi civili totalmente inabili) e della pensione di inabilita' di cui all'[art. 12 della legge 30 marzo 1971, n. 118](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20del%20decreto-legge%2030%20gennaio%201971%20n.%205%20e%20nuove%20norme%20in%20favore%20dei%20mutilati%20ed%20invalidi%20civili.md) (Conversione in legge del [decreto-legge 30 gennaio 1971, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1971-01-30;5) e nuove norme in favore di mutilati ed invalidi civili)".
 
 -------------
 
 AGGIORNAMENTO (83)
 
-La Corte Costituzionale, con sentenza 27 gennaio - 27 febbraio 2015, n. 22 (in G.U. 1a s.s 4/3/2015, n. 9), ha dichiarato "l'illegittimita' costituzionale dell'[art. 80, comma 19, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_80-com19) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2001), nella parte in cui subordina al requisito della titolarita' della carta di soggiorno la concessione agli stranieri legalmente soggiornanti nel territorio dello Stato della pensione di cui all'[art. 8 della legge 10 febbraio 1962, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-02-10;66#art_8) (Nuove disposizioni relative all'Opera nazionale per i ciechi civili) e dell'indennita' di cui all'[art. 3, comma 1, della legge 21 novembre 1988, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-21;508#art_3-com1) (Norme integrative in materia di assistenza economica agli invalidi civili, ai ciechi civili ed ai sordomuti)".
+La Corte Costituzionale, con sentenza 27 gennaio - 27 febbraio 2015, n. 22 (in G.U. 1a s.s 4/3/2015, n. 9), ha dichiarato "l'illegittimita' costituzionale dell'[art. 80, comma 19, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2001), nella parte in cui subordina al requisito della titolarita' della carta di soggiorno la concessione agli stranieri legalmente soggiornanti nel territorio dello Stato della pensione di cui all'[art. 8 della legge 10 febbraio 1962, n. 66](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-02-10;66#art_8) (Nuove disposizioni relative all'Opera nazionale per i ciechi civili) e dell'indennita' di cui all'[art. 3, comma 1, della legge 21 novembre 1988, n. 508](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-11-21;508#art_3-com1) (Norme integrative in materia di assistenza economica agli invalidi civili, ai ciechi civili ed ai sordomuti)".
 
 -------------
 
 AGGIORNAMENTO (87)
 
-La Corte Costituzionale, con sentenza 7 ottobre - 11 novembre 2015, n. 230 (in G.U. 1ª s.s. 18/11/2015, n. 46), ha dichiarato "l'illegittimita' costituzionale dell'[art. 80, comma 19, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_80-com19) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2001), nella parte in cui subordina al requisito della titolarita' della carta di soggiorno la concessione agli stranieri legalmente soggiornanti nel territorio dello Stato della pensione di invalidita' civile per sordi e della indennita' di comunicazione".
+La Corte Costituzionale, con sentenza 7 ottobre - 11 novembre 2015, n. 230 (in G.U. 1ª s.s. 18/11/2015, n. 46), ha dichiarato "l'illegittimita' costituzionale dell'[art. 80, comma 19, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2001), nella parte in cui subordina al requisito della titolarita' della carta di soggiorno la concessione agli stranieri legalmente soggiornanti nel territorio dello Stato della pensione di invalidita' civile per sordi e della indennita' di comunicazione".
 
 ### Art. 81. — (Interventi in materia di solidarieta' sociale)
 
@@ -2896,7 +2896,7 @@ Alla [legge 23 novembre 1998, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn
 
 AGGIORNAMENTO (30)
 
-Il [D.L. 28 novembre 2003, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-11-28;337), convertito con modificazioni dalla [L. 24 dicembre 2003, n. 369](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20novembre%202003%20n.%20337%20recante%20disposizioni%20urgenti%20in%20favore%20delle%20vittime%20militari%20e%20civili%20di%20attentati%20terroristici%20allestero.md), ha disposto (con l'art. 3, comma 1) che "Il [comma 1 dell'articolo 82 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_82-com1), si interpreta nel senso che al personale di cui all'[articolo 3 della legge 13 agosto 1980, n. 466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-08-13;466#art_3), compreso il personale appartenente agli organismi di informazione e sicurezza, ovvero ai superstiti dello stesso personale, le disposizioni di cui alla [legge 20 ottobre 1990, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-20;302), e alla [legge 23 novembre 1998, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-11-23;407), si applicano anche per eventi occorsi al di fuori del territorio nazionale".
+Il [D.L. 28 novembre 2003, n. 337](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-11-28;337), convertito con modificazioni dalla [L. 24 dicembre 2003, n. 369](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20novembre%202003%20n.%20337%20recante%20disposizioni%20urgenti%20in%20favore%20delle%20vittime%20militari%20e%20civili%20di%20attentati%20terroristici%20allestero.md), ha disposto (con l'art. 3, comma 1) che "Il [comma 1 dell'articolo 82 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), si interpreta nel senso che al personale di cui all'[articolo 3 della legge 13 agosto 1980, n. 466](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1980-08-13;466#art_3), compreso il personale appartenente agli organismi di informazione e sicurezza, ovvero ai superstiti dello stesso personale, le disposizioni di cui alla [legge 20 ottobre 1990, n. 302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-10-20;302), e alla [legge 23 novembre 1998, n. 407](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-11-23;407), si applicano anche per eventi occorsi al di fuori del territorio nazionale".
 
 ## INTERVENTI NEL SETTORE SANITARIO
 
@@ -3117,7 +3117,7 @@ Entro centoventi giorni dalla data di entrata in vigore della presente legge, le
 
 AGGIORNAMENTO (6)
 
-Il [D.L.30 giugno 2001, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-06-30;246), convertito con modificazioni dalla [L. 4 agosto 2001, n. 330](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%202001%20n.%20246%20recante%20disposizioni%20in%20materia%20di%20accise%20sui%20prodotti%20petroliferi%20ed%20altre%20misure%20urgenti.md), ha disposto (con l'art. 4, comma 2) che "Il termine del 1° luglio 2001 previsto dall'[articolo 85, comma 26, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_85-com26), e' differito al 1° settembre 2001".
+Il [D.L.30 giugno 2001, n. 246](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-06-30;246), convertito con modificazioni dalla [L. 4 agosto 2001, n. 330](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20giugno%202001%20n.%20246%20recante%20disposizioni%20in%20materia%20di%20accise%20sui%20prodotti%20petroliferi%20ed%20altre%20misure%20urgenti.md), ha disposto (con l'art. 4, comma 2) che "Il termine del 1° luglio 2001 previsto dall'[articolo 85, comma 26, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e' differito al 1° settembre 2001".
 
 ### Art. 86. — (Dotazione finanziaria complessiva dei medici e medicina generale, dei pediatri di libera scelta, degli specialisti ambulatoriali e convenzionati e dei medici di continuita' assistenziale del distretto)
 
@@ -3321,13 +3321,13 @@ Per l'attivazione o la realizzazione delle strutture di cui all'[articolo 1, com
 
 AGGIORNAMENTO (13)
 
-La [L. 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448) ha disposto (con l'art. 52, comma 8) che "L'autorizzazione di spesa prevista per l'anno 2002 dall'[articolo 92, comma 1, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_92-com1), e' soppressa e il relativo importo costituisce economia di bilancio".
+La [L. 28 dicembre 2001, n. 448](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md) ha disposto (con l'art. 52, comma 8) che "L'autorizzazione di spesa prevista per l'anno 2002 dall'[articolo 92, comma 1, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e' soppressa e il relativo importo costituisce economia di bilancio".
 
 -------------
 
 AGGIORNAMENTO (62)
 
-Il [D.L. 30 dicembre 2009, n. 194](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2009G0206.md), convertito con modificazioni dalla [L. 26 febbraio 2010, n. 25](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202009%20n.%20194%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2010G0042.md), ha disposto (con l'art. 6, comma 7) che "Il termine per lo svolgimento delle attivita' di cui all'[articolo 92, comma 7, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_92-com7), e' prorogato al 31 dicembre 2010".
+Il [D.L. 30 dicembre 2009, n. 194](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2009G0206.md), convertito con modificazioni dalla [L. 26 febbraio 2010, n. 25](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202009%20n.%20194%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%2010G0042.md), ha disposto (con l'art. 6, comma 7) che "Il termine per lo svolgimento delle attivita' di cui all'[articolo 92, comma 7, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e' prorogato al 31 dicembre 2010".
 
 ### Art. 93. — (Ridefinizione di alcune misure di medicina preventiva)
 
@@ -3425,7 +3425,7 @@ Utilizzando la proiezione pluriennale di tale somma la regione e' autorizzata a 
  
 ------------- 
 AGGIORNAMNETO (24) 
- La [L. 27 dicembre 2002, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289) ha disposto (con l'art. 30, comma 8) che "Per la copertura del maggiore fabbisogno della spesa sanitaria di cui all'[articolo 101 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_101), come modificato dall'[articolo 52, comma 3, della legge 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448#art_52-com3), quantificato in 196 milioni di euro annui, alla regione Friuli Venezia Giulia e' riconosciuta, a decorrere dall'anno 2003, una maggiore compartecipazione ai tributi statali di pari importo".
+ La [L. 27 dicembre 2002, n. 289](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md) ha disposto (con l'art. 30, comma 8) che "Per la copertura del maggiore fabbisogno della spesa sanitaria di cui all'[articolo 101 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), come modificato dall'[articolo 52, comma 3, della legge 28 dicembre 2001, n. 448](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md), quantificato in 196 milioni di euro annui, alla regione Friuli Venezia Giulia e' riconosciuta, a decorrere dall'anno 2003, una maggiore compartecipazione ai tributi statali di pari importo".
 
 ## STRUMENTI DI GESTIONE DEL DEBITO PUBBLICO
 
@@ -3477,7 +3477,7 @@ Una quota del fondo di cui al comma 1, pari a lire 50 miliardi nell'anno 2001, e
 
 4.
 
-COMMA ABROGATO DALLA [L. 27 DICEMBRE 2002, N. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289). 
+COMMA ABROGATO DALLA [L. 27 DICEMBRE 2002, N. 289](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md). 
  5.((COMMA ABROGATO DAL D.L. 22 GIUGNO 2012, N. 83, CONVERTITO, CON MODIFICAZIONI, DALLA L. 7 AGOSTO 2012, N. 134)).((71)) 
  6.((COMMA ABROGATO DAL D.L. 22 GIUGNO 2012, N. 83, CONVERTITO, CON MODIFICAZIONI, DALLA L. 7 AGOSTO 2012, N. 134)).((71))
 
@@ -3485,13 +3485,13 @@ COMMA ABROGATO DALLA [L. 27 DICEMBRE 2002, N. 289](https://www.normattiva.it/uri
 
 AGGIORNAMENTO (13)
 
-La [L. 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448) ha disposto (con l'art. 59, comma 1) che "La somma di lire 110 miliardi di cui all'[articolo 103, comma 6, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_103-com6), e' aumentata per l'anno 2002 di 1,50 milioni di euro, e per l'anno 2003 di 1 milione di euro, interamente finalizzati alla concessione di contributi in conto capitale nei limiti degli aiuti de minimis per il settore produttivo tessile, dell'abbigliamento e calzaturiero".
+La [L. 28 dicembre 2001, n. 448](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md) ha disposto (con l'art. 59, comma 1) che "La somma di lire 110 miliardi di cui all'[articolo 103, comma 6, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e' aumentata per l'anno 2002 di 1,50 milioni di euro, e per l'anno 2003 di 1 milione di euro, interamente finalizzati alla concessione di contributi in conto capitale nei limiti degli aiuti de minimis per il settore produttivo tessile, dell'abbigliamento e calzaturiero".
 
 -------------
 
 AGGIORNAMENTO (44)
 
-Il [D.L. 30 dicembre 2005,n. 273](../DL%20proroghe/Definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.md), convertito con modificazioni dalla [L. 23 febbraio 2006, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202005%20n.%20273%20recante%20definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.%20Proroga%20di%20termini%20relat_8fa6bc6dddf9.md), ha disposto (con l'art. 23, comma 5-bis) che "I termini scaduti nel 2005 per la presentazione delle domande di liquidazione degli interventi per le finalita' di cui all'[articolo 103, comma 5, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_103-com5), sono prorogati fino al 31 marzo 2006".
+Il [D.L. 30 dicembre 2005,n. 273](../DL%20proroghe/Definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.md), convertito con modificazioni dalla [L. 23 febbraio 2006, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202005%20n.%20273%20recante%20definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.%20Proroga%20di%20termini%20relat_8fa6bc6dddf9.md), ha disposto (con l'art. 23, comma 5-bis) che "I termini scaduti nel 2005 per la presentazione delle domande di liquidazione degli interventi per le finalita' di cui all'[articolo 103, comma 5, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), sono prorogati fino al 31 marzo 2006".
 
 -------------
 
@@ -3534,7 +3534,7 @@ All'articolo 5, comma 3, quarto periodo, della [legge 7 agosto 1997, n. 266](htt
 AGGIORNAMENTO (71)
 
 Il [D.L. 22 giugno 2012, n. 83](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-06-22;83), convertito, con modificazioni, dalla [L. 7 agosto 2012, n. 134](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2022%20giugno%202012%20n.%2083%20recante%20misure%20urgenti%20per%20la%20crescita%20del%20Paese.%2012G0152.md) ha disposto (con l'art. 63, comma 1, lettera a)) che "A decorrere dalla data di entrata in vigore del decreto di cui all'articolo 62, comma 2, sono abrogati: 
- a) l'[articolo 104 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_104), a eccezione del comma 5; [...]".
+ a) l'[articolo 104 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), a eccezione del comma 5; [...]".
 
 ### Art. 105. — (Modifiche ai decreti legislativi 27 luglio 1999, n. 297 e 
  29 ottobre 1999, n. 419)
@@ -3921,14 +3921,14 @@ Il pagamento della contribuzione previdenziale, effettuato in buona fede ad un e
 
 AGGIORNAMENTO (103)
 
-Il [D.L. 30 dicembre 2021, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-12-30;228) ha disposto (con l'art. 9, comma 4) che le disposizioni di cui ai [commi 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_116-com8) e [9 dell'articolo 116 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_116-com9), non si applicano fino al 31 dicembre 2022 agli obblighi relativi alle contribuzioni di previdenza e di assistenza sociale obbligatoria di cui al [comma 10-bis dell'articolo 3 della legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335#art_3-com10bis), come modificato dal comma 3 del presente articolo, e al comma 10-ter del medesimo [articolo 3 della legge n. 335 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995;335#art_3), introdotto dal comma 3 del presente articolo.
+Il [D.L. 30 dicembre 2021, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-12-30;228) ha disposto (con l'art. 9, comma 4) che le disposizioni di cui ai [commi 8](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) e [9 dell'articolo 116 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), non si applicano fino al 31 dicembre 2022 agli obblighi relativi alle contribuzioni di previdenza e di assistenza sociale obbligatoria di cui al [comma 10-bis dell'articolo 3 della legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335#art_3-com10bis), come modificato dal comma 3 del presente articolo, e al comma 10-ter del medesimo [articolo 3 della legge n. 335 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995;335#art_3), introdotto dal comma 3 del presente articolo.
 Non si fa luogo a rimborso di quanto gia' versato.
 
 ------------
 
 AGGIORNAMENTO (107)
 
-Il [D.L. 30 dicembre 2021, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-12-30;228), convertito con modificazioni dalla [L. 25 febbraio 2022, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202021%20n.%20228%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20legislativi.%2022G00022.md), come modificato dal [D.L. 30 dicembre 2023, n. 215](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2023G00227.md), ha disposto (con l'art. 9, comma 4) che "Le disposizioni di cui ai [commi 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_116-com8) e [9 dell'articolo 116 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_116-com9), non si applicano fino al 31 dicembre 2024 agli obblighi relativi alle contribuzioni di previdenza e di assistenza sociale obbligatoria di cui al [comma 10-bis dell'articolo 3 della legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335#art_3-com10bis), come modificato dal comma 3 del presente articolo, e al comma 10-ter del medesimo [articolo 3 della legge n. 335 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995;335#art_3), introdotto dal comma 3 del presente articolo. Non si fa luogo a rimborso di quanto gia' versato".
+Il [D.L. 30 dicembre 2021, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-12-30;228), convertito con modificazioni dalla [L. 25 febbraio 2022, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202021%20n.%20228%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20legislativi.%2022G00022.md), come modificato dal [D.L. 30 dicembre 2023, n. 215](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2023G00227.md), ha disposto (con l'art. 9, comma 4) che "Le disposizioni di cui ai [commi 8](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) e [9 dell'articolo 116 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), non si applicano fino al 31 dicembre 2024 agli obblighi relativi alle contribuzioni di previdenza e di assistenza sociale obbligatoria di cui al [comma 10-bis dell'articolo 3 della legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335#art_3-com10bis), come modificato dal comma 3 del presente articolo, e al comma 10-ter del medesimo [articolo 3 della legge n. 335 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995;335#art_3), introdotto dal comma 3 del presente articolo. Non si fa luogo a rimborso di quanto gia' versato".
 
 ------------
 
@@ -3940,19 +3940,19 @@ Il [D.L. 2 marzo 2024, n. 19](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 AGGIORNAMENTO (111)
 
-Il [D.L. 30 dicembre 2021, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-12-30;228), convertito con modificazioni dalla [L. 25 febbraio 2022, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202021%20n.%20228%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20legislativi.%2022G00022.md), come modificato dal [D.L. 27 dicembre 2024, n. 202](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2024G00227.md), ha disposto (con l'art. 9, comma 4) che "Le disposizioni di cui ai [commi 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_116-com8) e [9 dell'articolo 116 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_116-com9), non si applicano fino al 31 dicembre 2025 agli obblighi relativi alle contribuzioni di previdenza e di assistenza sociale obbligatoria di cui al [comma 10-bis dell'articolo 3 della legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335#art_3-com10bis), come modificato dal comma 3 del presente articolo, e al comma 10-ter del medesimo [articolo 3 della legge n. 335 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995;335#art_3), introdotto dal comma 3 del presente articolo. Non si fa luogo a rimborso di quanto gia' versato".
+Il [D.L. 30 dicembre 2021, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-12-30;228), convertito con modificazioni dalla [L. 25 febbraio 2022, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202021%20n.%20228%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20legislativi.%2022G00022.md), come modificato dal [D.L. 27 dicembre 2024, n. 202](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2024G00227.md), ha disposto (con l'art. 9, comma 4) che "Le disposizioni di cui ai [commi 8](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) e [9 dell'articolo 116 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), non si applicano fino al 31 dicembre 2025 agli obblighi relativi alle contribuzioni di previdenza e di assistenza sociale obbligatoria di cui al [comma 10-bis dell'articolo 3 della legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335#art_3-com10bis), come modificato dal comma 3 del presente articolo, e al comma 10-ter del medesimo [articolo 3 della legge n. 335 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995;335#art_3), introdotto dal comma 3 del presente articolo. Non si fa luogo a rimborso di quanto gia' versato".
 
 ------------
 
 AGGIORNAMENTO (112)
 
-La [L. 13 dicembre 2024, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-13;203), ha disposto (con l'art. 23, comma 2) che "A decorrere dal 1° gennaio 2025, il [comma 17 dell'articolo 116 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_116-com17), cessa di applicarsi all'Istituto nazionale della previdenza sociale (INPS) e all'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro".
+La [L. 13 dicembre 2024, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-13;203), ha disposto (con l'art. 23, comma 2) che "A decorrere dal 1° gennaio 2025, il [comma 17 dell'articolo 116 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), cessa di applicarsi all'Istituto nazionale della previdenza sociale (INPS) e all'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro".
 
 ---------------
 
 AGGIORNAMENTO (118)
 
-Il [D.L. 30 dicembre 2021, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-12-30;228), convertito con modificazioni dalla [L. 25 febbraio 2022, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202021%20n.%20228%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20legislativi.%2022G00022.md), come modificato dal [D.L. 31 dicembre 2025, n. 200](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2025G00213.md), ha disposto (con l'art. 9, comma 4) che "Le disposizioni di cui ai [commi 8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_116-com8) e [9 dell'articolo 116 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_116-com9), non si applicano fino al 31 dicembre 2026 agli obblighi relativi alle contribuzioni di previdenza e di assistenza sociale obbligatoria di cui al [comma 10-bis dell'articolo 3 della legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335#art_3-com10bis), come modificato dal comma 3 del presente articolo, e al comma 10-ter del medesimo [articolo 3 della legge n. 335 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995;335#art_3), introdotto dal comma 3 del presente articolo. Non si fa luogo a rimborso di quanto gia' versato".
+Il [D.L. 30 dicembre 2021, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2021-12-30;228), convertito con modificazioni dalla [L. 25 febbraio 2022, n. 15](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202021%20n.%20228%20recante%20disposizioni%20urgenti%20in%20materia%20di%20termini%20legislativi.%2022G00022.md), come modificato dal [D.L. 31 dicembre 2025, n. 200](../DL%20proroghe/Disposizioni%20urgenti%20in%20materia%20di%20termini%20normativi.%2025G00213.md), ha disposto (con l'art. 9, comma 4) che "Le disposizioni di cui ai [commi 8](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) e [9 dell'articolo 116 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), non si applicano fino al 31 dicembre 2026 agli obblighi relativi alle contribuzioni di previdenza e di assistenza sociale obbligatoria di cui al [comma 10-bis dell'articolo 3 della legge 8 agosto 1995, n. 335](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-08-08;335#art_3-com10bis), come modificato dal comma 3 del presente articolo, e al comma 10-ter del medesimo [articolo 3 della legge n. 335 del 1995](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995;335#art_3), introdotto dal comma 3 del presente articolo. Non si fa luogo a rimborso di quanto gia' versato".
 
 ### Art. 117. — (Disposizioni in materia di Lavoro temporaneo. Modifiche all'articolo 10 del decreto legislativo 23 dicembre 1997, n. 469)
 
@@ -4056,7 +4056,7 @@ Ciascun fondo e' istituito, sulla base di accordi interconfederali stipulati dal
 
 7.
 
-COMMA ABROGATO DALLA [L. 27 DICEMBRE 2002, N. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289).
+COMMA ABROGATO DALLA [L. 27 DICEMBRE 2002, N. 289](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md).
 
 8.
 
@@ -4102,13 +4102,13 @@ Il Ministero del lavoro e della previdenza sociale, con proprio decreto, destina
 
 AGGIORNAMENTO (13)
 
-La [L. 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448) ha disposto (con l'art. 52, comma 19) che sono prorogati per l'anno 2002 gli interventi previsti dal comma 9 del presente articolo entro il limite massimo di 21 milioni di euro.
+La [L. 28 dicembre 2001, n. 448](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md) ha disposto (con l'art. 52, comma 19) che sono prorogati per l'anno 2002 gli interventi previsti dal comma 9 del presente articolo entro il limite massimo di 21 milioni di euro.
 
 ------------
 
 AGGIORNAMENTO (25)
 
-Successivamente la Corte Costituzionale, con sentenza 13 - 28 gennaio 2005, n.51 (in G.U. 1a s.s. 02/02/2005, n. 5), ha dichiarato l'illegittimita' costituzionale dell'[art. 48 della L. 27 dicembre 2002, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_48) (che ha modificato i commi 1, 2, 3, 6, 8 e 12 e ha abrogato il comma 7) "nella parte in cui non prevede strumenti idonei a garantire una leale collaborazione fra Stato e Regioni".
+Successivamente la Corte Costituzionale, con sentenza 13 - 28 gennaio 2005, n.51 (in G.U. 1a s.s. 02/02/2005, n. 5), ha dichiarato l'illegittimita' costituzionale dell'[art. 48 della L. 27 dicembre 2002, n. 289](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md) (che ha modificato i commi 1, 2, 3, 6, 8 e 12 e ha abrogato il comma 7) "nella parte in cui non prevede strumenti idonei a garantire una leale collaborazione fra Stato e Regioni".
 
 ### Art. 119. — (Potenziamento dell'attivita' ispettiva del Ministero del lavoro e della previdenza sociale)
 
@@ -4305,7 +4305,7 @@ Le spese derivanti dall'attuazione del presente articolo, sono comprese nell'amb
 
 AGGIORNAMENTO (54)
 
-Il [D.Lgs. 18 aprile 2008, n. 82](../Decreti%20Legislativi/Modifiche%20al%20decreto%20legislativo%2029%20marzo%202004%20n.%20102%20recante%20interventi%20finanziari%20a%20sostegno%20delle%20imprese%20agricole%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20i%20della%20legge%207%20marzo%202003%20n.%2038.md) ha disposto (con l'art. 2, comma 1) che "Al fine di sostenere la competitivita' delle imprese agricole e di favorire la riduzione delle conseguenze derivanti dai rischi atmosferici e di mercato, la dotazione del fondo di cui all'[articolo 127, comma 3, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_127-com3), e' incrementata, per l'anno 2008, della somma di 30 milioni di euro".
+Il [D.Lgs. 18 aprile 2008, n. 82](../Decreti%20Legislativi/Modifiche%20al%20decreto%20legislativo%2029%20marzo%202004%20n.%20102%20recante%20interventi%20finanziari%20a%20sostegno%20delle%20imprese%20agricole%20a%20norma%20dellarticolo%201%20comma%202%20lettera%20i%20della%20legge%207%20marzo%202003%20n.%2038.md) ha disposto (con l'art. 2, comma 1) che "Al fine di sostenere la competitivita' delle imprese agricole e di favorire la riduzione delle conseguenze derivanti dai rischi atmosferici e di mercato, la dotazione del fondo di cui all'[articolo 127, comma 3, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e' incrementata, per l'anno 2008, della somma di 30 milioni di euro".
 
 ### Art. 128. — (Disposizioni in materia di credito agrario)
 
@@ -4430,7 +4430,7 @@ L'attuazione delle disposizioni di cui al comma 1 e' affidata alla regione Sicil
 
 AGGIORNAMENTO(36)
 
-La [L. 30 dicembre 2004, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311) ha disposto (con l'art. 1, comma 528) che "In virtu' del combinato disposto dell'[articolo 45, comma 14, della legge 23 dicembre 1998, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-23;448#art_45-com14), e dell'articolo 36 della legge della Regione siciliana 31 maggio 2004, n. 9, e successive modificazioni, i benefici di cui all'[articolo 133 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_133), si intendono trasferiti, alle medesime condizioni di cofinanziamento regionale ivi previste, all'articolo 134 della medesima [legge n. 388 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;388), nei limiti delle norme di contabilita' di Stato".
+La [L. 30 dicembre 2004, n. 311](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md) ha disposto (con l'art. 1, comma 528) che "In virtu' del combinato disposto dell'[articolo 45, comma 14, della legge 23 dicembre 1998, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-23;448#art_45-com14), e dell'articolo 36 della legge della Regione siciliana 31 maggio 2004, n. 9, e successive modificazioni, i benefici di cui all'[articolo 133 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), si intendono trasferiti, alle medesime condizioni di cofinanziamento regionale ivi previste, all'articolo 134 della medesima [legge n. 388 del 2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000;388), nei limiti delle norme di contabilita' di Stato".
 
 ### Art. 134. — (Riqualificazione del settore trasporto merci nella regione Sicilia)
 
@@ -4486,7 +4486,7 @@ Per le compensazioni degli oneri di servizio pubblico accettati dai vettori cons
 
 AGGIORNAMENTO (99)
 
-La [L. 27 dicembre 2019, n. 160](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-12-27;160), ha disposto (con l'art. 1, comma 709) che "L'autorizzazione di spesa di cui all'[articolo 135, comma 6, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_135-com6), e' integrata di 25 milioni di euro per ciascuno degli anni 2021 e 2022".
+La [L. 27 dicembre 2019, n. 160](Bilancio%20di%20previsione%20dello%20Stato%20per%20lanno%20finanziario%202020%20e%20bilancio%20pluriennale%20per%20il%20triennio%202020-2022.%2019G00165.md), ha disposto (con l'art. 1, comma 709) che "L'autorizzazione di spesa di cui all'[articolo 135, comma 6, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e' integrata di 25 milioni di euro per ciascuno degli anni 2021 e 2022".
 
 ### Art. 136. — (Oneri di pubblico servizio per i servizi aerei di linea)
 
@@ -4514,7 +4514,7 @@ Alla regione Sicilia e' assegnato un limite di impegno di 21 miliardi di lire de
 
 AGGIORNAMENTO (31)
 
-La [L. 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350) ha disposto (con l'art. 4, comma 148) che "Per l'attuazione della [lettera c-bis) del comma 1 dell'articolo 137 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_137-com1-letcbis), introdotta dal presente comma, e' autorizzata una ulteriore spesa pari a 25 milioni di euro per l'anno 2004".
+La [L. 24 dicembre 2003, n. 350](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md) ha disposto (con l'art. 4, comma 148) che "Per l'attuazione della [lettera c-bis) del comma 1 dell'articolo 137 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), introdotta dal presente comma, e' autorizzata una ulteriore spesa pari a 25 milioni di euro per l'anno 2004".
 
 ## INTERVENTI DI PROTEZIONE CIVILE, DI RIASSETTO IDROGEOLOGICO, DI TUTELA DEL PATRIMONIO STORICO ARTISTICO
 
@@ -4603,13 +4603,13 @@ Sui fondi assegnati a tutto il 2003, l'Ente nazionale per le strade (ANAS) e' te
 
 AGGIORNAMENTO (31)
 
-La [L. 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350) ha disposto (con l'art. 2, comma 66) che il termine di cui al comma 1 del presente articolo e' differito, limitatamente alle somme dovute per contributi, al 30 giugno 2005.
+La [L. 24 dicembre 2003, n. 350](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md) ha disposto (con l'art. 2, comma 66) che il termine di cui al comma 1 del presente articolo e' differito, limitatamente alle somme dovute per contributi, al 30 giugno 2005.
 
 -------------
 
 AGGIORNAMENTO (35)
 
-Il [D.L. 9 novembre 2004, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-11-09;266) convertito con modificazioni dalla [L. 27 dicembre 2004, n. 306](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20novembre%202004%20n.%20266%20recante%20proroga%20o%20differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Disposizioni%20di%20proroga%20di%20_0cc04a338fda.md), ha disposto (con l'art. 19-sexies, comma 1) che "L'operativita' del Fondo regionale di protezione civile, di cui all'[articolo 138, commi 16](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_138-com16) e [17, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_138-com17), e' prorogata per gli anni 2005, 2006 e 2007, anche al fine di fronteggiare le esigenze connesse all'impiego delle risorse umane necessarie al funzionamento della rete dei Centri funzionali di protezione civile".
+Il [D.L. 9 novembre 2004, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-11-09;266) convertito con modificazioni dalla [L. 27 dicembre 2004, n. 306](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20novembre%202004%20n.%20266%20recante%20proroga%20o%20differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Disposizioni%20di%20proroga%20di%20_0cc04a338fda.md), ha disposto (con l'art. 19-sexies, comma 1) che "L'operativita' del Fondo regionale di protezione civile, di cui all'[articolo 138, commi 16](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) e [17, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e' prorogata per gli anni 2005, 2006 e 2007, anche al fine di fronteggiare le esigenze connesse all'impiego delle risorse umane necessarie al funzionamento della rete dei Centri funzionali di protezione civile".
 
 ### Art. 139. — (Differimento dei termini e altre disposizioni per la ultimazione dei lavori nelle zone colpite dalla catastrofe del Vajont)
 
@@ -4791,19 +4791,19 @@ Per il cofinanziamento di interventi per alloggi e residenze per studenti univer
 
 AGGIORNAMENTO (13)
 
-La [L. 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448) ha disposto (con l'art. 45, comma 4) che "Per la prosecuzione ed il completamento degli interventi di cui all'[articolo 144, comma 5, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_144-com5), e' autorizzata la spesa di 7 milioni di euro a decorrere dall'anno 2003".
+La [L. 28 dicembre 2001, n. 448](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md) ha disposto (con l'art. 45, comma 4) che "Per la prosecuzione ed il completamento degli interventi di cui all'[articolo 144, comma 5, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e' autorizzata la spesa di 7 milioni di euro a decorrere dall'anno 2003".
 
 -------------
 
 AGGIORNAMENTO (72)
 
-La [L. 24 dicembre 2012, n. 228](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2012-12-24;228) ha disposto (con l'art. 1, comma 7) che "Le risorse disponibili per gli interventi recati dalle autorizzazioni di spesa di cui all'elenco n. 2, allegato alla presente legge, sono ridotte per ciascuno degli anni 2013, 2014, 2015 e successivi per gli importi ivi indicati".
+La [L. 24 dicembre 2012, n. 228](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20Legge%20di%20stabilita%202013.%2012G0252.md) ha disposto (con l'art. 1, comma 7) che "Le risorse disponibili per gli interventi recati dalle autorizzazioni di spesa di cui all'elenco n. 2, allegato alla presente legge, sono ridotte per ciascuno degli anni 2013, 2014, 2015 e successivi per gli importi ivi indicati".
 
 ---------------
 
 AGGIORNAMENTO (82)
 
-La [L. 23 dicembre 2014, n. 190](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190) ha disposto (con l'art. 1, comma 361) che "L'autorizzazione di spesa relativa al contributo straordinario al comune di Reggio Calabria di cui all'[articolo 144, comma 1, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_144-com1), e' ridotta di 3 milioni di euro a decorrere dall'anno 2015".
+La [L. 23 dicembre 2014, n. 190](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202015.%2014G00203.md) ha disposto (con l'art. 1, comma 361) che "L'autorizzazione di spesa relativa al contributo straordinario al comune di Reggio Calabria di cui all'[articolo 144, comma 1, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e' ridotta di 3 milioni di euro a decorrere dall'anno 2015".
 
 ### Art. 145. — (Altri interventi)
 
@@ -5164,7 +5164,7 @@ La scadenza dei termini di centottanta giorni e di centoventi giorni, previsti r
 
 82.
 
-COMMA ABROGATO DALLA [L. 28 DICEMBRE 2001, N. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448).
+COMMA ABROGATO DALLA [L. 28 DICEMBRE 2001, N. 448](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md).
 
 83.
 
@@ -5252,19 +5252,19 @@ La [L. 1 agosto 2002, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:sta
 
 AGGIORNAMENTO (24)
 
-La [L. 12 dicembre 2002, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-12;273) ha disposto (con l'art. 28, comma 1) che "Per le finalita' previste dall'[articolo 1 del decreto-legge 25 settembre 1997, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-09-25;324#art_1), convertito, con modificazioni, dalla [legge 25 novembre 1997, n. 403](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20settembre%201997%20n.%20324%20recante%20ulteriori%20interventi%20in%20materia%20di%20incentivi%20per%20la%20rottamazione.md), concernente la concessione di contributi per la rottamazione degli autoveicoli, e' autorizzata la spesa, in aggiunta a quella prevista dall'[articolo 145, comma 6, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_145-com6), di 5 milioni di euro per ciascuno degli anni 2002, 2003 e 2004, da destinare alla concessione di contributi per l'acquisto di autoveicoli alimentati a metano o a GPL, di motocicli e ciclomotori elettrici, di biciclette a pedalata assistita, nonche' per l'installazione, sui veicoli a benzina esistenti, di un impianto di alimentazione a metano o a GPL, in conformita' delle definizioni adottate con decreto del Ministro dell'ambiente 5 aprile 2001, pubblicato nella Gazzetta Ufficiale n. 117 del 22 maggio 2001".
+La [L. 12 dicembre 2002, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-12;273) ha disposto (con l'art. 28, comma 1) che "Per le finalita' previste dall'[articolo 1 del decreto-legge 25 settembre 1997, n. 324](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-09-25;324#art_1), convertito, con modificazioni, dalla [legge 25 novembre 1997, n. 403](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20settembre%201997%20n.%20324%20recante%20ulteriori%20interventi%20in%20materia%20di%20incentivi%20per%20la%20rottamazione.md), concernente la concessione di contributi per la rottamazione degli autoveicoli, e' autorizzata la spesa, in aggiunta a quella prevista dall'[articolo 145, comma 6, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), di 5 milioni di euro per ciascuno degli anni 2002, 2003 e 2004, da destinare alla concessione di contributi per l'acquisto di autoveicoli alimentati a metano o a GPL, di motocicli e ciclomotori elettrici, di biciclette a pedalata assistita, nonche' per l'installazione, sui veicoli a benzina esistenti, di un impianto di alimentazione a metano o a GPL, in conformita' delle definizioni adottate con decreto del Ministro dell'ambiente 5 aprile 2001, pubblicato nella Gazzetta Ufficiale n. 117 del 22 maggio 2001".
 
 -------------
 
 AGGIORNAMENTO (25)
 
-La [L. 27 dicembre 2002, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289) ha disposto (con l'art. 80, comma 38) che "Il contributo previsto dall'[articolo 145, comma 17, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_145-com17), in favore del Club alpino italiano (CAI), per le attivita' del Corpo nazionale soccorso alpino e speleologico (CNSAS), e' incrementato, a decorrere dall'anno 2003, di 200.000 euro".
+La [L. 27 dicembre 2002, n. 289](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md) ha disposto (con l'art. 80, comma 38) che "Il contributo previsto dall'[articolo 145, comma 17, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), in favore del Club alpino italiano (CAI), per le attivita' del Corpo nazionale soccorso alpino e speleologico (CNSAS), e' incrementato, a decorrere dall'anno 2003, di 200.000 euro".
 
 -------------
 
 AGGIORNAMENTO (45)
 
-Il [D.L 10 gennaio 2006, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-01-10;4), convertito con modificazioni dalla [L. 9 marzo 2006, n. 80](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20gennaio%202006%20n.%204%20recante%20misure%20urgenti%20in%20materia%20di%20organizzazione%20e%20funzionamento%20della%20pubblica%20amministrazione.md), ha disposto (con l'art. 31, comma 1) che "Le regolazioni debitorie dei disavanzi delle ferrovie concesse e in ex gestione commissariale governativa, comprensivi degli oneri di trattamento di fine rapporto maturati alla data del 31 dicembre 2000, previste dall'[articolo 145, comma 30, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_145-com30), si intendono definite nei termini delle istruttorie effettuate congiuntamente dal Ministero delle infrastrutture e dei trasporti e dal Ministero dell'economia e delle finanze a seguito delle comunicazioni effettuate e delle istanze formulate dalle aziende interessate entro il 31 agosto 2005".
+Il [D.L 10 gennaio 2006, n. 4](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-01-10;4), convertito con modificazioni dalla [L. 9 marzo 2006, n. 80](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2010%20gennaio%202006%20n.%204%20recante%20misure%20urgenti%20in%20materia%20di%20organizzazione%20e%20funzionamento%20della%20pubblica%20amministrazione.md), ha disposto (con l'art. 31, comma 1) che "Le regolazioni debitorie dei disavanzi delle ferrovie concesse e in ex gestione commissariale governativa, comprensivi degli oneri di trattamento di fine rapporto maturati alla data del 31 dicembre 2000, previste dall'[articolo 145, comma 30, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), si intendono definite nei termini delle istruttorie effettuate congiuntamente dal Ministero delle infrastrutture e dei trasporti e dal Ministero dell'economia e delle finanze a seguito delle comunicazioni effettuate e delle istanze formulate dalle aziende interessate entro il 31 agosto 2005".
 
 -------------
 
@@ -5276,7 +5276,7 @@ Successivamente la Corte Costituzionale, con sentenza 6 febbraio - 20 marzo 2019
 
 AGGIORNAMENTO (53)
 
-Il [D.L. 31 dicembre 2007, n. 248](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), convertito con modificazioni dalla [L. 28 febbraio 2008, n. 31](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202007%20n.%20248%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), ha disposto (con l'art. 26, comma 7-ter) che "Il [comma 96 dell'articolo 145 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_145-com96), si interpreta nel senso che gli atti ivi indicati possono essere redatti e sottoscritti anche dai soggetti in possesso del titolo di cui alla [legge 6 giugno 1986, n. 251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-06-06;251), e successive modificazioni".
+Il [D.L. 31 dicembre 2007, n. 248](../DL%20proroghe/Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), convertito con modificazioni dalla [L. 28 febbraio 2008, n. 31](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20dicembre%202007%20n.%20248%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20urgenti%20in%20materia%20finanziaria.md), ha disposto (con l'art. 26, comma 7-ter) che "Il [comma 96 dell'articolo 145 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), si interpreta nel senso che gli atti ivi indicati possono essere redatti e sottoscritti anche dai soggetti in possesso del titolo di cui alla [legge 6 giugno 1986, n. 251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-06-06;251), e successive modificazioni".
 
 ------------
 
@@ -5301,16 +5301,16 @@ Il Il D.P.C.M. 25 marzo 2011 (in G.U. 31/03/2011, n. 74) ha disposto (con l'art.
 
 AGGIORNAMENTO (92)
 
-La [L. 4 agosto 2017, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124) ha disposto (con l'art. 1, comma 151) che "Il [comma 96 dell'articolo 145 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_145-com96), si interpreta nel senso che gli atti catastali, sia urbani che rurali, possono essere redatti e sottoscritti anche dai soggetti in possesso del titolo di cui alla [legge 6 giugno 1986, n. 251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-06-06;251)".
+La [L. 4 agosto 2017, n. 124](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2017-08-04;124) ha disposto (con l'art. 1, comma 151) che "Il [comma 96 dell'articolo 145 della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), si interpreta nel senso che gli atti catastali, sia urbani che rurali, possono essere redatti e sottoscritti anche dai soggetti in possesso del titolo di cui alla [legge 6 giugno 1986, n. 251](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-06-06;251)".
 
 -------------
 
 AGGIORNAMENTO (90)
 
-- La [L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208) ha disposto (con l'art. 1, comma 164, lettera b)) che "Con effetto a decorrere dalla data di entrata in vigore del regolamento di cui al comma 163, sono abrogate le disposizioni vigenti relative alle provvidenze in favore delle emittenti radiofoniche e televisive operanti in ambito locale, e in particolare le seguenti: 
+- La [L. 28 dicembre 2015, n. 208](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) ha disposto (con l'art. 1, comma 164, lettera b)) che "Con effetto a decorrere dalla data di entrata in vigore del regolamento di cui al comma 163, sono abrogate le disposizioni vigenti relative alle provvidenze in favore delle emittenti radiofoniche e televisive operanti in ambito locale, e in particolare le seguenti: 
  [...] 
- b) [articolo 145, commi 18](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_145-com18) e [19, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_145-com19)". 
- - Il regolamento di cui all'[art. 1, comma 164, lettera b) della L. 28 dicembre 2015, n. 208](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2015-12-28;208#art_1-com164-letb) e' stato emanato con [D.P.R. 23 agosto 2017, n. 146](../DPR/Regolamento%20concernente%20i%20criteri%20di%20riparto%20tra%20i%20soggetti%20beneficiari%20e%20le%20procedure%20di%20erogazione%20delle%20risorse%20del%20Fondo%20per%20il%20pluralismo%20e%20linnovazione%20dellinformazione%20in%20favore%20de_f856f69f7c3a.md), pubblicato in G.U. 12/10/2017, n. 239.
+ b) [articolo 145, commi 18](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md) e [19, della legge 23 dicembre 2000, n. 388](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md)". 
+ - Il regolamento di cui all'[art. 1, comma 164, lettera b) della L. 28 dicembre 2015, n. 208](Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20di%20stabilita%202016.%2015G00222.md) e' stato emanato con [D.P.R. 23 agosto 2017, n. 146](../DPR/Regolamento%20concernente%20i%20criteri%20di%20riparto%20tra%20i%20soggetti%20beneficiari%20e%20le%20procedure%20di%20erogazione%20delle%20risorse%20del%20Fondo%20per%20il%20pluralismo%20e%20linnovazione%20dellinformazione%20in%20favore%20de_f856f69f7c3a.md), pubblicato in G.U. 12/10/2017, n. 239.
 
 ## DISPOSIZIONI IN SETTORI DIVERSI
 
