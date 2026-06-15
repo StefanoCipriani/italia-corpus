@@ -49,7 +49,7 @@ Nelle controversie non ancora definite per la determinazione del valore venale i
 
 AGGIORNAMENTO (1)
 
-Il [Decreto Legislativo del Capo Provvisorio dello Stato 16 novembre 1946, n. 476](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-11-16;476) ha disposto (con l'art. 3, comma 1) che "Il termine stabilito dall'[art. 1 del decreto legislativo luogotenenziale 26 marzo 1946, n. 221](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-26;221#art_1), per l'esercizio della facolta' di abbuono, e' prorogato fino a sei mesi dopo l'entrata in vigore del presente decreto."
+Il [Decreto Legislativo del Capo Provvisorio dello Stato 16 novembre 1946, n. 476](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-11-16;476) ha disposto (con l'art. 3, comma 1) che "Il termine stabilito dall'[art. 1 del decreto legislativo luogotenenziale 26 marzo 1946, n. 221](Provvedimenti%20vari%20in%20materia%20di%20tasse%20ed%20imposte%20indirette%20sugli%20affari.md), per l'esercizio della facolta' di abbuono, e' prorogato fino a sei mesi dopo l'entrata in vigore del presente decreto."
 
 ## Art. 2.
 

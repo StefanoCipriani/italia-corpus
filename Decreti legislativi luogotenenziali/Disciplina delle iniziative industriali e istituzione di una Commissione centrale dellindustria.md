@@ -75,21 +75,21 @@ E' data facolta' al Ministro per l'industria e il commercio di vietare con propr
 
 AGGIORNAMENTO (1)
 
-Il [decreto legislativo del Capo provvisorio dello Stato 29 giugno 1947, n. 543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-06-29;543) ha disposto (con l'art. 1) che "Il termine stabilito nel [primo comma dell'art. 3 del decreto legislativo luogotenenziale 12 marzo 1946, numero 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-12;211#art_3-com1), e' prorogato al 30 settembre 1947".
+Il [decreto legislativo del Capo provvisorio dello Stato 29 giugno 1947, n. 543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-06-29;543) ha disposto (con l'art. 1) che "Il termine stabilito nel [primo comma dell'art. 3 del decreto legislativo luogotenenziale 12 marzo 1946, numero 211](Disciplina%20delle%20iniziative%20industriali%20e%20istituzione%20di%20una%20Commissione%20centrale%20dellindustria.md), e' prorogato al 30 settembre 1947".
  Ha inoltre disposto (con l'art. 2) che "Il presente decreto [...] ha effetto dal 1° luglio 1947".
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-Il [decreto legislativo del Capo provvisorio dello Stato 30 settembre 1947, n. 1032](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-30;1032) ha disposto (con l'art. 1) che "Il termine stabilito nel [primo comma dell'art. 3 del decreto legislativo luogotenenziale 12 marzo 1946, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-12;211#art_3-com1), gia' prorogato col [decreto legislativo del Capo provvisorio dello Stato 29 giugno 1947, n. 543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-06-29;543), e' ulteriormente prorogato al 30 novembre 1947".
+Il [decreto legislativo del Capo provvisorio dello Stato 30 settembre 1947, n. 1032](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-09-30;1032) ha disposto (con l'art. 1) che "Il termine stabilito nel [primo comma dell'art. 3 del decreto legislativo luogotenenziale 12 marzo 1946, n. 211](Disciplina%20delle%20iniziative%20industriali%20e%20istituzione%20di%20una%20Commissione%20centrale%20dellindustria.md), gia' prorogato col [decreto legislativo del Capo provvisorio dello Stato 29 giugno 1947, n. 543](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-06-29;543), e' ulteriormente prorogato al 30 novembre 1947".
  Ha inoltre disposto (con l'art. 2) che "Il presente decreto ha effetto dal 1° ottobre 1947".
 
 ---------------
 
 AGGIORNAMENTO (3)
 
-Il [decreto legislativo del Capo provvisorio dello Stato 29 novembre 1947, n. 1523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-11-29;1523) ha disposto (con l'art. 2) che "E' prorogato altresi' al 31 marzo 1948 il termine stabilito nel [primo comma dell'art. 3 del decreto legislativo luogotenenziale 12 marzo 1946, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-12;211#art_3-com1), concernente la disciplina delle iniziative industriali, prorogato con [decreto legislativo 30 settembre 1947, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-09-30;1302)".
+Il [decreto legislativo del Capo provvisorio dello Stato 29 novembre 1947, n. 1523](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-11-29;1523) ha disposto (con l'art. 2) che "E' prorogato altresi' al 31 marzo 1948 il termine stabilito nel [primo comma dell'art. 3 del decreto legislativo luogotenenziale 12 marzo 1946, n. 211](Disciplina%20delle%20iniziative%20industriali%20e%20istituzione%20di%20una%20Commissione%20centrale%20dellindustria.md), concernente la disciplina delle iniziative industriali, prorogato con [decreto legislativo 30 settembre 1947, n. 1302](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1947-09-30;1302)".
  Ha inoltre disposto (con l'art. 3) che "Il presente decreto [...] ha effetto dal 1 dicembre 1947".
 
 ## Art. 4.
@@ -118,7 +118,7 @@ Alle riunioni della Commissione partecipano con voto deliberativo, anche i rappr
 
 AGGIORNAMENTO (4)
 
-La [L. 5 gennaio 1957, n. 33](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20e%20attribuzioni%20del%20Consiglio%20nazionale%20delleconomia%20e%20del%20lavoro.md) ha disposto (con l'art. 19) che "Sono soppressi: la Commissione centrale dell'industria, istituita con [decreto legislativo luogotenenziale 12 marzo 1946, n. 211](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-12;211)".
+La [L. 5 gennaio 1957, n. 33](../Atti%20normativi%20abrogati%20%28in%20originale%29/Ordinamento%20e%20attribuzioni%20del%20Consiglio%20nazionale%20delleconomia%20e%20del%20lavoro.md) ha disposto (con l'art. 19) che "Sono soppressi: la Commissione centrale dell'industria, istituita con [decreto legislativo luogotenenziale 12 marzo 1946, n. 211](Disciplina%20delle%20iniziative%20industriali%20e%20istituzione%20di%20una%20Commissione%20centrale%20dellindustria.md)".
 
 ## Art. 6.
 

@@ -78,7 +78,7 @@ A favore degli enti ai quali verranno applicati i benefici di cui all'art. 1 e p
 
 AGGIORNAMENTO (2)
 
-Il [D.Lgs. Luogotenenziale 21 novembre 1945, n. 722](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722) ha disposto (con l'art. 22, comma 1) che la presente modifica ha effetto dal 1 ottobre 1945.
+Il [D.Lgs. Luogotenenziale 21 novembre 1945, n. 722](Provvedimenti%20economici%20a%20favore%20dei%20dipendenti%20statali.%20045U0722.md) ha disposto (con l'art. 22, comma 1) che la presente modifica ha effetto dal 1 ottobre 1945.
 
 ## Art. 6.
 

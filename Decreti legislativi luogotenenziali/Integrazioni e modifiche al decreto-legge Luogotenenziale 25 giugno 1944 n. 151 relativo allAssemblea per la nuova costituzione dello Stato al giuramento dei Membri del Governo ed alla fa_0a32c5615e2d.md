@@ -57,13 +57,13 @@ L'Assemblea Costituente terra' la sua prima riunione in Roma, nel Palazzo di Mon
 
 AGGIORNAMENTO (1)
 
-La [L. Costituzionale 21 febbraio 1947, n. 1](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1947-02-21;1) ha disposto che "La durata dell'Assemblea Costituente, iniziatasi il 25 giugno 1946, e' prorogata al 24 giugno 1947."
+La [L. Costituzionale 21 febbraio 1947, n. 1](../Leggi%20costituzionali/Proroga%20del%20termine%20di%20otto%20mesi%20previsto%20dallart.%204%20del%20decreto%20legislativo%2016%20marzo%201946%20n.%2098%20per%20la%20durata%20dellAssemblea%20Costituente.md) ha disposto che "La durata dell'Assemblea Costituente, iniziatasi il 25 giugno 1946, e' prorogata al 24 giugno 1947."
 
 ---------------
 
 AGGIORNAMENTO (2)
 
-La [L. Costituzionale 17 giugno 1947, n. 2](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:1947-06-17;2) ha disposto che "Il termine stabilito dall'[art. 4 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_4), per la durata dell'Assemblea Costituente, e' prorogato non oltre il 31 dicembre 1947."
+La [L. Costituzionale 17 giugno 1947, n. 2](../Leggi%20costituzionali/Proroga%20del%20termine%20previsto%20dallart.%204%20del%20decreto%20legislativo%2016%20marzo%201946%20n.%2098%20per%20la%20durata%20dellAssemblea%20Costituente.md) ha disposto che "Il termine stabilito dall'[art. 4 del decreto legislativo 16 marzo 1946, n. 98](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1946-03-16;98#art_4), per la durata dell'Assemblea Costituente, e' prorogato non oltre il 31 dicembre 1947."
 
 ## Art. 5.
 

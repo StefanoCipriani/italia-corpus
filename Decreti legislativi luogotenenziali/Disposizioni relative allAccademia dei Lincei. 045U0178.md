@@ -49,7 +49,7 @@ Un Comitato di sette soci, nominato con decreto del Ministro per la pubblica ist
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. Luogotenenziale 16 novembre 1945, n. 801](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-16;801), ha disposto (7, comma 1) che "Il termine posto al Comitato dalla [lettera a) dell'art. 3 del decreto legislativo Luogotenenziale 12 aprile 1945, n. 178](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-04-12;178#art_3-leta), perche' stabilisca quali soci debbano essere radiati dall'Accademia, e' prorogato di tre mesi."
+Il [D.Lgs. Luogotenenziale 16 novembre 1945, n. 801](Disposizioni%20concernenti%20lAccademia%20nazionale%20dei%20Lincei.md), ha disposto (7, comma 1) che "Il termine posto al Comitato dalla [lettera a) dell'art. 3 del decreto legislativo Luogotenenziale 12 aprile 1945, n. 178](Disposizioni%20relative%20allAccademia%20dei%20Lincei.%20045U0178.md), perche' stabilisca quali soci debbano essere radiati dall'Accademia, e' prorogato di tre mesi."
 
 ## Art. 4.
 

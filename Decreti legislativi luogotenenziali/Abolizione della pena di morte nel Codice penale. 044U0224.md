@@ -37,7 +37,7 @@ Per i delitti preveduti nel [Codice penale](../Codici/Approvazione%20del%20testo
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. 22 gennaio 1948, n. 21](../Decreti%20Legislativi/Disposizioni%20di%20coordinamento%20in%20conseguenza%20dellabolizione%20della%20pena%20di%20morte.md) ha disposto (con l'art. 1, comma 1) che "Le disposizioni dei [commi primo](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224#art_1-com1) e [secondo dell'art. 1 del decreto legislativo luogotenenziale 10 agosto 1944, n. 224](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-10;224#art_1-com2), sono estese ai delitti previsti dalle leggi speciali, diverse da quelle militari di guerra".
+Il [D.Lgs. 22 gennaio 1948, n. 21](../Decreti%20Legislativi/Disposizioni%20di%20coordinamento%20in%20conseguenza%20dellabolizione%20della%20pena%20di%20morte.md) ha disposto (con l'art. 1, comma 1) che "Le disposizioni dei [commi primo](Abolizione%20della%20pena%20di%20morte%20nel%20Codice%20penale.%20044U0224.md) e [secondo dell'art. 1 del decreto legislativo luogotenenziale 10 agosto 1944, n. 224](Abolizione%20della%20pena%20di%20morte%20nel%20Codice%20penale.%20044U0224.md), sono estese ai delitti previsti dalle leggi speciali, diverse da quelle militari di guerra".
 
 ## Art. 2.
 

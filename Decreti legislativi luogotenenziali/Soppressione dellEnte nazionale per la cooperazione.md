@@ -48,7 +48,7 @@ Il Ministro per il lavoro e la previdenza, sociale nomina, con decreto da pubbli
 
 AGGIORNAMENTO (1)
 
-La [L. 15 novembre 1952, n. 1974](../Atti%20normativi%20abrogati%20%28in%20originale%29/Integrazioni%20e%20modificazioni%20al%20decreto%20legislativo%209%20aprile%201946%20n.%20426%20sulla%20soppressione%20dellEnte%20nazionale%20della%20cooperazione.md) ha disposto (con l'art. 2) che "Il Comitato di sorveglianza previsto dall'[art. 3 del decreto legislativo luogotenenziale 9 aprile 1946, n. 426](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-09;426#art_3), e' composto di cinque membri di cui due nominati in rappresentanza rispettivamente del Ministero del tesoro e del Ministero del lavoro e della previdenza sociale, uno scelto fra i creditori e due designati dalle associazioni di rappresentanza e tutela del movimento cooperativo riconosciute.
+La [L. 15 novembre 1952, n. 1974](../Atti%20normativi%20abrogati%20%28in%20originale%29/Integrazioni%20e%20modificazioni%20al%20decreto%20legislativo%209%20aprile%201946%20n.%20426%20sulla%20soppressione%20dellEnte%20nazionale%20della%20cooperazione.md) ha disposto (con l'art. 2) che "Il Comitato di sorveglianza previsto dall'[art. 3 del decreto legislativo luogotenenziale 9 aprile 1946, n. 426](Soppressione%20dellEnte%20nazionale%20per%20la%20cooperazione.md), e' composto di cinque membri di cui due nominati in rappresentanza rispettivamente del Ministero del tesoro e del Ministero del lavoro e della previdenza sociale, uno scelto fra i creditori e due designati dalle associazioni di rappresentanza e tutela del movimento cooperativo riconosciute.
  Il Comitato e' nominato con decreto del Ministro per il lavoro e la previdenza sociale."
 
 ## Art. 4.

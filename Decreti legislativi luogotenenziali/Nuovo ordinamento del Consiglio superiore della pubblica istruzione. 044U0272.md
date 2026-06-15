@@ -106,7 +106,7 @@ Nella prima applicazione del presente del decreto i ventisette membri del Consig
 
 AGGIORNAMENTO (1)
 
-Il [D.Lgs. del Capo Provvisorio dello Stato 15 ottobre 1946, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-15;373) ha disposto (con l'articolo unico, comma 1) che "In deroga a quanto stabilito dall'[art. 10 del decreto legislativo luogotenenziale 7 settembre 1944, n. 272](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-07;272#art_10), il Consiglio superiore della pubblica istruzione, cosi' come e' attualmente composto, durera' in carica fino a nuova disposizione e, comunque, non oltre il 16 ottobre 1947".
+Il [D.Lgs. del Capo Provvisorio dello Stato 15 ottobre 1946, n. 373](https://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1946-10-15;373) ha disposto (con l'articolo unico, comma 1) che "In deroga a quanto stabilito dall'[art. 10 del decreto legislativo luogotenenziale 7 settembre 1944, n. 272](Nuovo%20ordinamento%20del%20Consiglio%20superiore%20della%20pubblica%20istruzione.%20044U0272.md), il Consiglio superiore della pubblica istruzione, cosi' come e' attualmente composto, durera' in carica fino a nuova disposizione e, comunque, non oltre il 16 ottobre 1947".
 
 ## Art. 11.
 

@@ -86,13 +86,13 @@ Fino alla elezione del Consiglio, l'amministrazione di ciascuna Camera rimarra' 
 
 AGGIORNAMENTO (1)
 
-La [L. 12 luglio 1951, n. 560](../Atti%20normativi%20abrogati%20%28in%20originale%29/Partecipazione%20di%20rappresentanti%20degli%20artigiani%20e%20dei%20coltivatori%20diretti%20nelle%20Giunte%20delle%20Camere%20di%20commercio%20industria%20ed%20agricoltura.md) ha disposto (con l'articolo unico) che "Fanno parte della Giunta di ciascuna Camera di commercio, industria ed agricoltura, con voto deliberativo, oltre i quattro membri indicati nell'[art. 9 del decreto legislativo luogotenenziale 21 settembre 1944, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-21;315#art_9), anche un rappresentante degli artigiani ed uno dei coltivatori diretti".
+La [L. 12 luglio 1951, n. 560](../Atti%20normativi%20abrogati%20%28in%20originale%29/Partecipazione%20di%20rappresentanti%20degli%20artigiani%20e%20dei%20coltivatori%20diretti%20nelle%20Giunte%20delle%20Camere%20di%20commercio%20industria%20ed%20agricoltura.md) ha disposto (con l'articolo unico) che "Fanno parte della Giunta di ciascuna Camera di commercio, industria ed agricoltura, con voto deliberativo, oltre i quattro membri indicati nell'[art. 9 del decreto legislativo luogotenenziale 21 settembre 1944, n. 315](Soppressione%20dei%20Consigli%20e%20degli%20Uffici%20provinciali%20delleconomia%20e%20istituzione%20delle%20Camere%20di%20commercio%20industria%20e%20agricoltura%20nonche%20degli%20Uffici%20provinciali%20del%20commercio%20e%20dellindus_d702b8b2a697.md), anche un rappresentante degli artigiani ed uno dei coltivatori diretti".
 
 --------------
 
 AGGIORNAMENTO (2)
 
-Il Decreto Ministeriale 25 gennaio 1974 (in G.U. 15/02/1974, n. 43) ha disposto (con l'art. 1, comma 1) che "Un membro scelto in rappresentanza del settore degli scambi con l'estero fa parte della giunta della camera di commercio, industria, artigianato e agricoltura di Venezia, oltre ai membri indicati dal [decreto legislativo luogotenenziale 21 settembre 1944, n. 315](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1944-09-21;315), dalle [leggi 12 luglio 1951, n. 560, e 29 dicembre 1956, n. 1560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-29;1560)".
+Il Decreto Ministeriale 25 gennaio 1974 (in G.U. 15/02/1974, n. 43) ha disposto (con l'art. 1, comma 1) che "Un membro scelto in rappresentanza del settore degli scambi con l'estero fa parte della giunta della camera di commercio, industria, artigianato e agricoltura di Venezia, oltre ai membri indicati dal [decreto legislativo luogotenenziale 21 settembre 1944, n. 315](Soppressione%20dei%20Consigli%20e%20degli%20Uffici%20provinciali%20delleconomia%20e%20istituzione%20delle%20Camere%20di%20commercio%20industria%20e%20agricoltura%20nonche%20degli%20Uffici%20provinciali%20del%20commercio%20e%20dellindus_d702b8b2a697.md), dalle [leggi 12 luglio 1951, n. 560, e 29 dicembre 1956, n. 1560](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-29;1560)".
 
 ## Art. 10.
 
