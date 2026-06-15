@@ -357,7 +357,7 @@ Note all'[art. 2:
  2. Se, in relazione a tale limite, sia necessaria una riduzione dei posti da riservare secondo legge, essa si attua in misura proporzionale per ciascuna categoria di aventi diritto a riserva. 
  3. Qualora tra i concorrenti dichiarati idonei nella graduatoria di merito ve ne siano alcuni che appartengono a piu' categorie che danno titolo a differenti riserve di posti, si tiene conto prima del titolo che da' diritto ad una maggiore riserva nel seguente ordine: 
  1) riserva di posti a favore di coloro che appartengono alle categorie di cui alla [legge 2 aprile 1968, n. 482](../Atti%20normativi%20abrogati%20%28in%20originale%29/Disciplina%20generale%20delle%20assunzioni%20obbligatorie%20presso%20le%20pubbliche%20amministrazioni%20e%20le%20aziende%20private.md) , e successive modifiche ed integrazioni, o equiparate, calcolata sulle dotazioni organiche dei singoli profili professionali o categorie nella percentuale del 15%, senza computare gli appartenenti alle categorie stesse vincitori del concorso; 
- 2) riserva di posti ai sensi dell' [art. 3, comma 65, della legge 24 dicembre 1993, n. 537](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-12-24;537#art_3-com65), a favore dei militari in ferma di leva prolungata e di volontari specializzati delle tre Forze armate congedati senza demerito al termine della ferma o rafferma contrattuale nel limite del 20 per cento delle vacanze annuali dei posti messi a concorso; 
+ 2) riserva di posti ai sensi dell' [art. 3, comma 65, della legge 24 dicembre 1993, n. 537](../Leggi%20finanziarie%20e%20di%20bilancio/Interventi%20correttivi%20di%20finanza%20pubblica.md), a favore dei militari in ferma di leva prolungata e di volontari specializzati delle tre Forze armate congedati senza demerito al termine della ferma o rafferma contrattuale nel limite del 20 per cento delle vacanze annuali dei posti messi a concorso; 
  3) riserva del 2 per cento dei posti destinati a ciascun concorso, ai sensi dell' [art. 40, secondo comma, della legge 20 settembre 1980, n. 574](../Atti%20normativi%20abrogati%20%28in%20originale%29/Unificazione%20e%20riordinamento%20dei%20ruoli%20normali%20speciali%20e%20di%20complemento%20degli%20ufficiali%20dellEsercito%20della%20Marina%20e%20dellAeronautica.md), per gli ufficiali di complemento dell'Esercito, della Marina e dell'Aeronautica che hanno terminato senza demerito la ferma biennale. 
  4. Le categorie di cittadini che nei pubblici concorsi hanno preferenza a parita' di merito e a parita' di titoli sono appresso elencate. A parita' di merito i titoli di preferenza sono: 
  1) gli insigniti di medaglia al valor militare; 
@@ -546,7 +546,7 @@ Disposizioni per le regioni Trentino-Alto Adige/Südtirol e Valle d'Aosta/Vallee
 
 1.
 
-Le disposizioni di cui alla presente legge si applicano alle regioni Trentino-Alto Adige/Südtirol e Valle d'Aosta/Vallee d'Aoste compatibilmente con le disposizioni dei rispettivi statuti e le relative norme di attuazione, anche con riferimento alla [legge costituzionale 18 ottobre 2001, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-10-18;3).
+Le disposizioni di cui alla presente legge si applicano alle regioni Trentino-Alto Adige/Südtirol e Valle d'Aosta/Vallee d'Aoste compatibilmente con le disposizioni dei rispettivi statuti e le relative norme di attuazione, anche con riferimento alla [legge costituzionale 18 ottobre 2001, n. 3](../Leggi%20costituzionali/Modifiche%20al%20titolo%20V%20della%20parte%20seconda%20della%20Costituzione.md).
 
 2.
 
@@ -557,7 +557,7 @@ Ulteriori disposizioni, dirette ad armonizzare la riforma della magistratura ono
 Nell'esercizio della delega di cui all'articolo 1, comma 1, lettera p), il Governo adotta le disposizioni necessarie ad attribuire alla competenza dell'ufficio del giudice di pace i procedimenti in affari tavolari relativi a contratti ricevuti da notaio e connotati da minore complessita'.
 
 Note all'[art. 8: 
- - La legge costituzionale 18 ottobre 2001, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-10-18;3#art_8) (Modifiche al titolo V della parte seconda della Costituzione), e' pubblicata nella Gazzetta Ufficiale 24 ottobre 2001, n. 248.
+ - La legge costituzionale 18 ottobre 2001, n. 3](../Leggi%20costituzionali/Modifiche%20al%20titolo%20V%20della%20parte%20seconda%20della%20Costituzione.md) (Modifiche al titolo V della parte seconda della Costituzione), e' pubblicata nella Gazzetta Ufficiale 24 ottobre 2001, n. 248.
 
 ## Art. 9. — Invarianza finanziaria
 

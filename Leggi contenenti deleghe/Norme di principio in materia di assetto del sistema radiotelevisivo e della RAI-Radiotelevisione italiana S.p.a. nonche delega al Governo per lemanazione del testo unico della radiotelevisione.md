@@ -494,7 +494,7 @@ Le disposizioni normative statali vigenti alla data di entrata in vigore della p
 
 AGGIORNAMENTO (1)
 
-La [L. 27 dicembre 2004, n. 306](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20novembre%202004%20n.%20266%20recante%20proroga%20o%20differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Disposizioni%20di%20proroga%20di%20_0cc04a338fda.md) ha disposto (con l'art. 8, comma 1) che "Il termine di dodici mesi indicato al [comma 1 dell'articolo 16 della legge 3 maggio 2004, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-05-03;112#art_16-com1), e' prorogato di tre mesi."
+La [L. 27 dicembre 2004, n. 306](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20novembre%202004%20n.%20266%20recante%20proroga%20o%20differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Disposizioni%20di%20proroga%20di%20_0cc04a338fda.md) ha disposto (con l'art. 8, comma 1) che "Il termine di dodici mesi indicato al [comma 1 dell'articolo 16 della legge 3 maggio 2004, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20di%20principio%20in%20materia%20di%20assetto%20del%20sistema%20radiotelevisivo%20e%20della%20RAI-Radiotelevisione%20italiana%20S.p.a.%20nonche%20delega%20al%20Governo%20per%20lemanazione%20del%20testo%20unico%20della%20radiotelevisione.md), e' prorogato di tre mesi."
 
 ## COMPITI DEL SERVIZIO PUBBLICO GENERALE RADIOTELEVISIVO E RIFORMA DELLA RAI-RADIOTELEVISIONE ITALIANA SPA
 

@@ -693,10 +693,10 @@ Nell'esercizio della delega di cui all'articolo 1, per la riforma della liquidaz
 
 2.
 
-Le disposizioni del presente articolo e quelle dei decreti legislativi emanati in attuazione dello stesso sono applicabili nelle regioni a statuto speciale e nelle province autonome di Trento e di Bolzano compatibilmente con i rispettivi statuti e le relative norme di attuazione, anche con riferimento alla [legge costituzionale 18 ottobre 2001, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-10-18;3).
+Le disposizioni del presente articolo e quelle dei decreti legislativi emanati in attuazione dello stesso sono applicabili nelle regioni a statuto speciale e nelle province autonome di Trento e di Bolzano compatibilmente con i rispettivi statuti e le relative norme di attuazione, anche con riferimento alla [legge costituzionale 18 ottobre 2001, n. 3](../Leggi%20costituzionali/Modifiche%20al%20titolo%20V%20della%20parte%20seconda%20della%20Costituzione.md).
 
 Note all'[art. 15: 
- - La legge costituzionale 18 ottobre 2001, n. 3](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge.costituzionale:2001-10-18;3#art_15) (Modifiche al titolo V della parte seconda della Costituzione), e' pubblicata nella Gazzetta Ufficiale n. 248 del 24 ottobre 2001.
+ - La legge costituzionale 18 ottobre 2001, n. 3](../Leggi%20costituzionali/Modifiche%20al%20titolo%20V%20della%20parte%20seconda%20della%20Costituzione.md) (Modifiche al titolo V della parte seconda della Costituzione), e' pubblicata nella Gazzetta Ufficiale n. 248 del 24 ottobre 2001.
 
 ## Disposizioni finanziarie
 

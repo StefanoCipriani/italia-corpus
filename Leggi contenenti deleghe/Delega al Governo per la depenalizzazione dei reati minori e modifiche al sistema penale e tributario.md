@@ -225,7 +225,7 @@ Il decreto legislativo sara' informato ai seguenti principi e criteri direttivi:
                         e)
                             prevedere meccanismi premiali idonei a favorire il risarcimento del danno;
                         f)
-                            prevedere la non punibilita' di chi si sia uniformato al parere del comitato consultivo per l'applicazione delle norme antielusive, istituito ai sensi dell'[articolo 21 della legge 30 dicembre 1991, n. 413](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-30;413#art_21);
+                            prevedere la non punibilita' di chi si sia uniformato al parere del comitato consultivo per l'applicazione delle norme antielusive, istituito ai sensi dell'[articolo 21 della legge 30 dicembre 1991, n. 413](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Disposizioni%20per%20ampliare%20le%20basi%20imponibili%20per%20razionalizzare%20facilitare%20e%20potenziare%20lattivita%20di%20accertamento%20disposizioni%20per%20la%20rivalutazione%20obbligatoria%20dei%20beni%20immobili%20delle%20im_715eda796591.md);
                         g)
                             uniformare la disciplina della prescrizione dei reati a quella generale, salvo le deroghe rese opportune dalla particolarita' della materia penale tributaria;
                         h)
