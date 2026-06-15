@@ -24,9 +24,9 @@ Visto il regolamento CEE della Commissione n. 1273/88 del 29 aprile 1988, che st
 
 Visti i decreti ministeriali 12 e 26 settembre 1985 e 26 marzo 1986 recanti disposizioni di attuazione del regolamento CEE n. 797/85;
 
-Visto l'[art. 6 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_6), che trasferisce alle regioni le funzioni amministrative relative all'applicazione dei regolamenti delle Comunita' europee, nelle materie di loro competenza;
+Visto l'[art. 6 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), che trasferisce alle regioni le funzioni amministrative relative all'applicazione dei regolamenti delle Comunita' europee, nelle materie di loro competenza;
 
-Visto il [decreto-legge 27 ottobre 1986, n. 701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-10-27;701), convertito, con modificazioni, nella [legge 23 dicembre 1986, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-23;898), con cui sono state stabilite sanzioni amministrative e penali in materia di aiuti comunitari al settore agricolo;
+Visto il [decreto-legge 27 ottobre 1986, n. 701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-10-27;701), convertito, con modificazioni, nella [legge 23 dicembre 1986, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20ottobre%201986%20n.%20701%20recante%20misure%20urgenti%20in%20materia%20di%20controlli%20degli%20aiuti%20comunitari%20alla%20produzione%20dellolio%20di%20oliva.%20Sa_82d5604472c2.md), con cui sono state stabilite sanzioni amministrative e penali in materia di aiuti comunitari al settore agricolo;
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -47,7 +47,7 @@ A parziale modifica del [decreto del Ministro dell'agricoltura e delle foreste n
 E' altresi' sospesa la disposizione del quarto comma dello stesso articolo.
 
 AVVERTENZA:
- Il testo delle note qui' pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui' pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il regolamento CEE n. 797/85 e' stato pubblicato nella "Gazzetta Ufficiale" delle Comunita' europee n. L 93 del 30 marzo 1985.

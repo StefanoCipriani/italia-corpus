@@ -331,7 +331,7 @@ Le caratteristiche del burro prodotto in Italia, che usufruisce di un aiuto, deb
 
 1.
 
-Gli aggiudicatari che provvedono alla concentrazione del burro ed eventualmente all'aggiunta di rivelatori, alla denaturazione del burro devono annotare giornalmente nel registro di cui al precedente art. 10: le quantita' di burro aggiudicate e quelle introdotte negli stabilimenti e la loro composizione, la quantita' ed il tipo dei prodotti denaturanti utilizzati, con riferimento agli estremi delle fatture di acquisto o delle bolle doganali o provvisoriamente del documento di accompagnamento di cui al [decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-10-06;627), i quantitativi di prodotto ottenuto indicandone la composizione ed il tenore di materie grasse butirriche, ed i quantitativi ceduti con l'indicazione della data di cessione ed il nome e l'indirizzo degli acquirenti, specificando la destinazione (formula A, C, B o D).
+Gli aggiudicatari che provvedono alla concentrazione del burro ed eventualmente all'aggiunta di rivelatori, alla denaturazione del burro devono annotare giornalmente nel registro di cui al precedente art. 10: le quantita' di burro aggiudicate e quelle introdotte negli stabilimenti e la loro composizione, la quantita' ed il tipo dei prodotti denaturanti utilizzati, con riferimento agli estremi delle fatture di acquisto o delle bolle doganali o provvisoriamente del documento di accompagnamento di cui al [decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](../DPR/Norme%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%20concernente%20istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto%20in%20attuazione%20della%20_fb2fcca84c3a.md), i quantitativi di prodotto ottenuto indicandone la composizione ed il tenore di materie grasse butirriche, ed i quantitativi ceduti con l'indicazione della data di cessione ed il nome e l'indirizzo degli acquirenti, specificando la destinazione (formula A, C, B o D).
 
 2.
 
@@ -347,7 +347,7 @@ Gli stabilimenti che utilizzano burro o burro concentrato con o senza aggiunta d
 
 5.
 
-Gli importatori e i rivenditori di burro denaturato, di burro concentrato e denaturato, di prodotti intermedi per essere utilizzati ai sensi del "regolamento" e del presente decreto, devono annotare nel registro previsto al precedente art. 10 le quantita' dei prodotti medesimi importati o acquistati, gli estremi delle fatture di acquisto o delle bollette di accompagnamento di cui al [decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1978-10-06;627), oppure delle bolle doganali, nonche' la quantita' di prodotti ceduti con a fianco riportate le generalita' e gli indirizzi di ogni singolo acquirente e le relative date di cessione e la destinazione prevista.
+Gli importatori e i rivenditori di burro denaturato, di burro concentrato e denaturato, di prodotti intermedi per essere utilizzati ai sensi del "regolamento" e del presente decreto, devono annotare nel registro previsto al precedente art. 10 le quantita' dei prodotti medesimi importati o acquistati, gli estremi delle fatture di acquisto o delle bollette di accompagnamento di cui al [decreto del Presidente della Repubblica 6 ottobre 1978, n. 627](../DPR/Norme%20integrative%20e%20correttive%20del%20decreto%20del%20Presidente%20della%20Repubblica%2026%20ottobre%201972%20n.%20633%20concernente%20istituzione%20e%20disciplina%20dellimposta%20sul%20valore%20aggiunto%20in%20attuazione%20della%20_fb2fcca84c3a.md), oppure delle bolle doganali, nonche' la quantita' di prodotti ceduti con a fianco riportate le generalita' e gli indirizzi di ogni singolo acquirente e le relative date di cessione e la destinazione prevista.
 
 6.
 
@@ -447,7 +447,7 @@ I controlli sulle operazioni di concentrazione e/o di denaturazione sono effettu
 
 2.
 
-In relazione ad ogni quantita' aggiudicata l'"organo di controllo" deve procedere al prelevamento dei campioni di burro concentrato o del burro denaturato o del burro concentrato denaturato. Il prelievo dei campioni deve avvenire in conformita' alle disposizioni previste dal [decreto del Presidente della Repubblica 26 marzo 1980, n. 327](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1980-03-26;327).
+In relazione ad ogni quantita' aggiudicata l'"organo di controllo" deve procedere al prelevamento dei campioni di burro concentrato o del burro denaturato o del burro concentrato denaturato. Il prelievo dei campioni deve avvenire in conformita' alle disposizioni previste dal [decreto del Presidente della Repubblica 26 marzo 1980, n. 327](../DPR/Regolamento%20di%20esecuzione%20della%20legge%2030%20aprile%201962%20n.%20283%20e%20successive%20modificazioni%20in%20materia%20di%20disciplina%20igienica%20della%20produzione%20e%20della%20vendita%20delle%20sostanze%20alimentari%20e%20delle%20bevande.md).
 
 3.
 

@@ -30,9 +30,9 @@ Visto il telex 12 giugno 1989 con il quale la Commissione CEE ha chiarito che, i
 
 Visti i propri decreti n. 34 del 16 gennaio 1989 e n. 35 dell'8 febbraio 1990 e considerata la necessita' di sostituire quest'ultimo con il presente provvedimento a valere dalla campagna 1990-91 per tener conto dell'esperienza acquisita durante le passate campagne di applicazione del regime di aiuti e delle modifiche intervenute nella normativa comunitaria, nonche' dei chiarimenti interpretativi verificatisi;
 
-Visto l'[art. 6 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_6), che trasferisce alle regioni le funzioni amministrative relative all'applicazione dei regolamenti delle Comunita' europee, nelle materie di loro competenza;
+Visto l'[art. 6 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), che trasferisce alle regioni le funzioni amministrative relative all'applicazione dei regolamenti delle Comunita' europee, nelle materie di loro competenza;
 
-Visto il [decreto-legge 27 ottobre 1986, n. 701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-10-27;701), convertito, con modificazioni, nella [legge 23 dicembre 1986, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-23;898), con cui sono state stabilite sanzioni amministrative e penali in materia di aiuti comunitari al settore agricolo;
+Visto il [decreto-legge 27 ottobre 1986, n. 701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-10-27;701), convertito, con modificazioni, nella [legge 23 dicembre 1986, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20ottobre%201986%20n.%20701%20recante%20misure%20urgenti%20in%20materia%20di%20controlli%20degli%20aiuti%20comunitari%20alla%20produzione%20dellolio%20di%20oliva.%20Sa_82d5604472c2.md), con cui sono state stabilite sanzioni amministrative e penali in materia di aiuti comunitari al settore agricolo;
 
 Visto l'[art. 17, comma 3, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com3);
 
@@ -61,7 +61,7 @@ L'intervento e' attuato dal Ministero dell'agricoltura e delle foreste (in appre
 La provincia autonoma di Trento e' esentata dall'applicazione del regime di ritiro dei seminativi dalla produzione ai sensi del regolamento CEE n. 1273/88.
 
 AVVERTENZA:
- Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](../DPR/Approvazione%20del%20testo%20unico%20delle%20disposizioni%20sulla%20promulgazione%20delle%20leggi%20sulla%20emanazione%20dei%20decreti%20del%20Presidente%20della%20Repubblica%20e%20sulle%20pubblicazioni%20ufficiali%20della%20Repubblica%20italiana.md), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio.
  Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
  Note alle premesse:
  - Il regolamento CEE n. 797/85 e' stato pubblicato nella "Gazzetta Ufficiale" delle Comunita' europee n. L 93 del 30 marzo 1985.
@@ -259,7 +259,7 @@ Sulla base delle proposte presentate dalle regioni e dalla provincia autonoma di
                         d)
                             territori costieri compresi in una fascia della profondita' di 300 metri dalla linea di battigia, anche se elevati sul mare di cui alla gia' citata [legge n. 431 dell'8 agosto 1985](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-08-08;431);
                         e)
-                            zone umide incluse nell'elenco di cui al [decreto del Presidente della Repubblica 13 marzo 1976, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1976-03-13;448);
+                            zone umide incluse nell'elenco di cui al [decreto del Presidente della Repubblica 13 marzo 1976, n. 448](../DPR/Esecuzione%20della%20convenzione%20relativa%20alle%20zone%20umide%20dimportanza%20internazionale%20sopratutto%20come%20habitat%20degli%20uccelli%20acquatici%20firmata%20a%20Ramsar%20il%202%20febbraio%201971.md);
                         f)
                             aziende faunistico-venatorie e agro-venatorie;
                         g)
@@ -267,7 +267,7 @@ Sulla base delle proposte presentate dalle regioni e dalla provincia autonoma di
                         h)
                             territori a gestione sociale della caccia, ex [legge n. 968/1977](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977;968);
                         i)
-                            aree di salvaguardia delle risorse idriche di cui all'[art. 4 del decreto del Presidente della Repubblica 24 maggio 1988, n. 236](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-05-24;236#art_4);
+                            aree di salvaguardia delle risorse idriche di cui all'[art. 4 del decreto del Presidente della Repubblica 24 maggio 1988, n. 236](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2080-778%20concernente%20la%20qualita%20delle%20acque%20destinate%20al%20consumo%20umano%20ai%20sensi%20dellart.%2015%20della%20legge%2016%20aprile%201987%20n.%20183.md);
                         l)
                             zone svantaggiate di cui all'[art. 3, paragrafi 3 e 4, della direttiva CEE n. 75/268](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1975;268). 
  Il Ministero, d'intesa con le predette amministrazioni, con successivo regolamento, potra' limitare la superficie delle zone preferenziali e in particolare di quelle indicate alla lettera l).(1) 

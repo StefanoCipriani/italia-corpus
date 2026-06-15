@@ -36,7 +36,7 @@ alla disciplina del sistema di aiuto alla produzione di concentrato di pomodoro,
 
 ai termini e condizioni di pagamento del prezzo minimo;
 
-Visto l'[art. 5, par. 1, del decreto-legge 2 luglio 1986, n. 319](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-07-02;319#art_5-par1) approvato, con modificazioni, nella legge di conversione 1° agosto 1986, n. 445;
+Visto l'[art. 5, par. 1, del decreto-legge 2 luglio 1986, n. 319](../Atti%20normativi%20abrogati%20%28in%20originale%29/Misure%20urgenti%20per%20far%20fronte%20alla%20crisi%20di%20mercato%20dei%20settori%20ortofrutticolo%20e%20lattiero-caseario%20conseguente%20allincidente%20alla%20centrale%20elettronucleare%20di%20Chernobyl.md) approvato, con modificazioni, nella legge di conversione 1° agosto 1986, n. 445;
 
 Considerata l'opportunita' di affidare ad un unico organismo l'attivita' di vigilanza e controllo per gli accertamenti di conformita' degli ortofrutticoli trasformati, che beneficiano degli aiuti CEE, alle norme di qualita' comunitarie e nazionali, al fine di conseguire la necessaria uniformita' di indirizzi e comportamenti su tutto il territorio nazionale;
 
@@ -58,7 +58,7 @@ Il quantitativo di pomodoro fresco destinato alla trasformazione industriale per
 
 ## Art. 2.
 
-Le imprese di trasformazione che ricadono nell'applicazione dell'[art. 5, par. 1, della legge 1° agosto 1986, n. 445](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-08-01;445#art_5-par1), non avendo rispettato gli obblighi contrattuali relativi al pagamento di tutta o parte della materia prima conferita dai produttori agricoli nelle campagne di trasformazione 1985-86 e/o 1986-87, non potranno utilizzare, ne' far utilizzare da altri i relativi impianti di trasformazione, al fine di conseguire l'aiuto comunitario per i prodotti trasformati a base di pomodoro.
+Le imprese di trasformazione che ricadono nell'applicazione dell'[art. 5, par. 1, della legge 1° agosto 1986, n. 445](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%202%20luglio%201986%20n.%20319%20recante%20misure%20urgenti%20per%20far%20fronte%20alla%20crisi%20di%20mercato%20dei%20settori%20ortofrutticolo%20e%20lattiero-caseario%20co_2286516aad03.md), non avendo rispettato gli obblighi contrattuali relativi al pagamento di tutta o parte della materia prima conferita dai produttori agricoli nelle campagne di trasformazione 1985-86 e/o 1986-87, non potranno utilizzare, ne' far utilizzare da altri i relativi impianti di trasformazione, al fine di conseguire l'aiuto comunitario per i prodotti trasformati a base di pomodoro.
 
 ## Art. 3.
 
@@ -81,7 +81,7 @@ Entro il 20 marzo 1987, copia dei contratti preliminari di vendita di cui al pri
 
 ## Art. 6.
 
-Gli accertamenti di conformita' dei prodotti ortofrutticoli trasformati, usufruenti degli aiuti comunitari, alle norme di qualita' di cui ai regolamenti CEE n. 1709/84 dei 19 giugno 1984, n. 885/85 del 2 aprile 1985, numeri 1289/85 e 1290/85 del 21 maggio 1985, n. 2022/85 del 22 luglio 1985, n. 1764/86 del 27 maggio 1986, sono affidati direttamente all'Istituto nazionale per le conserve alimentari (INCA) ente di diritto pubblico istituito con [regio decreto-legge 8 febbraio 1923, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-02-08;501) e riordinato con [decreto del Presidente della Repubblica 27 dicembre 1953, n. 1260](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1953-12-27;1260). 
+Gli accertamenti di conformita' dei prodotti ortofrutticoli trasformati, usufruenti degli aiuti comunitari, alle norme di qualita' di cui ai regolamenti CEE n. 1709/84 dei 19 giugno 1984, n. 885/85 del 2 aprile 1985, numeri 1289/85 e 1290/85 del 21 maggio 1985, n. 2022/85 del 22 luglio 1985, n. 1764/86 del 27 maggio 1986, sono affidati direttamente all'Istituto nazionale per le conserve alimentari (INCA) ente di diritto pubblico istituito con [regio decreto-legge 8 febbraio 1923, n. 501](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-02-08;501) e riordinato con [decreto del Presidente della Repubblica 27 dicembre 1953, n. 1260](../DPR/Modificazioni%20allordinamento%20dellIstituto%20nazionale%20delle%20conserve%20alimentari.md). 
  Detto istituto espletera' i predetti controlli su tutto il territorio nazionale.
 
 Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.

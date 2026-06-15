@@ -22,9 +22,9 @@ Visto il regolamento CEE della commissione n. 1273/8z8 del 29 aprile 1988, che s
 
 Visti i decreti ministeriali 12 e 26 settembre 1985 e il decreto ministeriale 26 marzo 1986 recanti disposizioni nazionali di attuazione del regolamento CEE n. 797/85;
 
-Visto l'[art. 6 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1977-07-24;616#art_6), che trasferisce alle regioni le funzioni amministrative relative all'applicazione dei regolamenti delle Comunita' europee, nelle materie di loro competenza;
+Visto l'[art. 6 del decreto del Presidente della Repubblica 24 luglio 1977, n. 616](../DPR/Attuazione%20della%20delega%20di%20cui%20allart.%201%20della%20legge%2022%20luglio%201975%20n.%20382.md), che trasferisce alle regioni le funzioni amministrative relative all'applicazione dei regolamenti delle Comunita' europee, nelle materie di loro competenza;
 
-Visto il [decreto-legge 27 ottobre 1986, n. 701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-10-27;701), convertito, con modificazioni, nella [legge del 23 dicembre 1986, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-23;898), con cui sono state stabilite sanzioni amministrative e penali in materia di aiuti comunitari al settore agricolo;
+Visto il [decreto-legge 27 ottobre 1986, n. 701](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-10-27;701), convertito, con modificazioni, nella [legge del 23 dicembre 1986, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20ottobre%201986%20n.%20701%20recante%20misure%20urgenti%20in%20materia%20di%20controlli%20degli%20aiuti%20comunitari%20alla%20produzione%20dellolio%20di%20oliva.%20Sa_82d5604472c2.md), con cui sono state stabilite sanzioni amministrative e penali in materia di aiuti comunitari al settore agricolo;
 
 Considerata l'urgenza di dare immediata attuazione alla nuova azione comune sin dalla campagna 1988-89, ferma restando la competenza in materia delle regioni e delle province autonome;
 
@@ -193,11 +193,11 @@ Dei casi di accertata, grave, irregolarita' viene data comunicazione al Minister
 
 5.
 
-Per quanto espressamente non previsto dal presente articolo, si applicano, in quanto compatibili, le disposizioni in materia di controlli previsti dal [decreto del Presidente della Repubblica 8 giugno 1982, n. 447](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1982-06-08;447), di attuazione della [direttiva CEE n. 77/435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;435).
+Per quanto espressamente non previsto dal presente articolo, si applicano, in quanto compatibili, le disposizioni in materia di controlli previsti dal [decreto del Presidente della Repubblica 8 giugno 1982, n. 447](../DPR/Attuazione%20della%20direttiva%20CEE%20n.%2077-435%20relativa%20ai%20controlli%20da%20parte%20degli%20Stati%20membri%20delle%20operazioni%20che%20rientrano%20nel%20sistema%20di%20finanziamento%20del%20Fondo%20europeo%20agricolo%20di%20orient_b8cb17c08278.md), di attuazione della [direttiva CEE n. 77/435](https://www.normattiva.it/uri-res/N2Ls?urn:nir:eu:direttiva.ue:1977;435).
 
 ## Art. 9. — S a n z i o n i
 
-Il mancato rispetto degli impegni sottoscritti, tranne il caso di forza maggiore, comporta l'applicazione delle sanzioni previste dalla [legge 23 dicembre 1986, n. 898](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-23;898), citata nelle premesse.
+Il mancato rispetto degli impegni sottoscritti, tranne il caso di forza maggiore, comporta l'applicazione delle sanzioni previste dalla [legge 23 dicembre 1986, n. 898](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2027%20ottobre%201986%20n.%20701%20recante%20misure%20urgenti%20in%20materia%20di%20controlli%20degli%20aiuti%20comunitari%20alla%20produzione%20dellolio%20di%20oliva.%20Sa_82d5604472c2.md), citata nelle premesse.
 
 ## Art. 10. — Comunicazioni
 
