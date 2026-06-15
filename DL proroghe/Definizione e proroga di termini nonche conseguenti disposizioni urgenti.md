@@ -25,7 +25,7 @@ Emana il seguente decreto-legge:
 
 1.
 
-All'[articolo 9-bis, comma 2, del decreto legislativo 3 aprile 1993, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-04-03;96#art_9bis-com2), e successive modificazioni, le parole: "31 dicembre 2005" sono sostituite dalle seguenti: "31 dicembre 2006".
+All'[articolo 9-bis, comma 2, del decreto legislativo 3 aprile 1993, n. 96](../Decreti%20Legislativi/Trasferimento%20delle%20competenze%20dei%20soppressi%20Dipartimento%20per%20gli%20interventi%20straordinari%20nel%20Mezzogiorno%20e%20Agenzia%20per%20la%20promozione%20dello%20sviluppo%20del%20Mezzogiorno%20a%20norma%20dellart.%203%20del_01145d8ccfec.md), e successive modificazioni, le parole: "31 dicembre 2005" sono sostituite dalle seguenti: "31 dicembre 2006".
 
 2.
 
@@ -37,7 +37,7 @@ Entro novanta giorni dalla data di entrata in vigore della legge di conversione 
 
 1.
 
-Tra i servizi a domanda individuale di cui agli articoli 172, comma 1, lettera e), e 243, comma 2, lettera a), del testo unico di cui al [decreto legislativo 18 agosto 2000, n. 267](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-08-18;267), sono compresi quelli inerenti i collegamenti con le centrali operative della Polizia locale degli impianti di allarme collocati presso abitazioni private ed attivita' produttive e dei servizi.
+Tra i servizi a domanda individuale di cui agli articoli 172, comma 1, lettera e), e 243, comma 2, lettera a), del testo unico di cui al [decreto legislativo 18 agosto 2000, n. 267](../Decreti%20Legislativi/Testo%20unico%20delle%20leggi%20sullordinamento%20degli%20enti%20locali.md), sono compresi quelli inerenti i collegamenti con le centrali operative della Polizia locale degli impianti di allarme collocati presso abitazioni private ed attivita' produttive e dei servizi.
 
 ))
 
@@ -52,7 +52,7 @@ All'articolo 12, comma 8, del decreto legislativo (( . . .)) 22 gennaio 2004, n.
 
 1.
 
-Il termine di cui al secondo periodo del [comma 2 dell'articolo 2 del decreto legislativo 29 ottobre 1999, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;419#art_2-com2), da ultimo prorogato al 31 dicembre 2005 dall'[articolo 15 del decreto-legge 9 novembre 2004, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-11-09;266#art_15), convertito, con modificazioni, dalla [legge 27 dicembre 2004, n. 306](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20novembre%202004%20n.%20266%20recante%20proroga%20o%20differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Disposizioni%20di%20proroga%20di%20_0cc04a338fda.md), e' ulteriormente prorogato al 31 dicembre 2006, limitatamente agli enti di cui alla tabella "A" del medesimo decreto legislativo, per i quali non sia intervenuto il prescritto decreto del Presidente del Consiglio dei Ministri.
+Il termine di cui al secondo periodo del [comma 2 dell'articolo 2 del decreto legislativo 29 ottobre 1999, n. 419](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20del%20sistema%20degli%20enti%20pubblici%20nazionali%20a%20norma%20degli%20articoli%2011%20e%2014%20della%20legge%2015%20marzo%201997%20n.%2059.md), da ultimo prorogato al 31 dicembre 2005 dall'[articolo 15 del decreto-legge 9 novembre 2004, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-11-09;266#art_15), convertito, con modificazioni, dalla [legge 27 dicembre 2004, n. 306](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20novembre%202004%20n.%20266%20recante%20proroga%20o%20differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Disposizioni%20di%20proroga%20di%20_0cc04a338fda.md), e' ulteriormente prorogato al 31 dicembre 2006, limitatamente agli enti di cui alla tabella "A" del medesimo decreto legislativo, per i quali non sia intervenuto il prescritto decreto del Presidente del Consiglio dei Ministri.
 
 2.
 
@@ -62,7 +62,7 @@ Il termine per la revisione dello statuto, l'approvazione del regolamento di org
 
 2-bis.
 
-All'articolo 18, comma 3-ter, alinea, del [decreto legislativo 19 novembre 1997, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-11-19;422), e successive modificazioni, le parole: "un anno" sono sostituite dalle seguenti: "due anni".
+All'articolo 18, comma 3-ter, alinea, del [decreto legislativo 19 novembre 1997, n. 422](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20alle%20regioni%20ed%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20trasporto%20pubblico%20locale%20a%20norma%20dellarticolo%204%20comma%204%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni, le parole: "un anno" sono sostituite dalle seguenti: "due anni".
 
 ))
 
@@ -80,7 +80,7 @@ All'articolo 18, comma 3-ter, alinea, del [decreto legislativo 19 novembre 1997,
 
 1.
 
-All'[articolo 3 della legge 27 dicembre 2002, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_3), e successive modificazioni, sono apportate le seguenti modificazioni:
+All'[articolo 3 della legge 27 dicembre 2002, n. 289](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md), e successive modificazioni, sono apportate le seguenti modificazioni:
                         a)
                             al comma 1, lettera b), sesto periodo, le parole: "30 settembre 2005" sono sostituite dalle seguenti: "30 settembre 2006";
                         b)
@@ -100,7 +100,7 @@ All'[articolo 3 della legge 27 dicembre 2002, n. 289](https://www.normattiva.it/
 
 3.
 
-Al [comma 40 dell'articolo 1 della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com40), e' aggiunto, in fine, il seguente periodo: "Una quota del predetto importo, pari a 250 milioni di euro, e' destinata, per 50 milioni di euro, al rifinanziamento dell'autorizzazione di spesa di cui all'[articolo 2 della legge 19 maggio 1975, n. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-05-19;169#art_2); ((...))".
+Al [comma 40 dell'articolo 1 della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md), e' aggiunto, in fine, il seguente periodo: "Una quota del predetto importo, pari a 250 milioni di euro, e' destinata, per 50 milioni di euro, al rifinanziamento dell'autorizzazione di spesa di cui all'[articolo 2 della legge 19 maggio 1975, n. 169](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-05-19;169#art_2); ((...))".
 
 ## Art. 5. — Adeguamento alle prescrizioni antincendio
  per le strutture ricettive
@@ -113,7 +113,7 @@ Il termine per il completamento degli investimenti per gli adempimenti relativi 
 
 1.
 
-All'[articolo 7, comma 4, della legge 28 marzo 2003, n. 53](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-03-28;53#art_7-com4), le parole: "2003-2004, 2004-2005 e 2005-2006" sono sostituite dalle seguenti: "2003-2004, 2004-2005, 2005-2006 e 2006-2007".
+All'[articolo 7, comma 4, della legge 28 marzo 2003, n. 53](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20la%20definizione%20delle%20norme%20generali%20sullistruzione%20e%20dei%20livelli%20essenziali%20delle%20prestazioni%20in%20materia%20di%20istruzione%20e%20formazione%20professionale.md), le parole: "2003-2004, 2004-2005 e 2005-2006" sono sostituite dalle seguenti: "2003-2004, 2004-2005, 2005-2006 e 2006-2007".
 
 ## Art. 7. — Universita' "Carlo Bo" di Urbino
 
@@ -131,7 +131,7 @@ Gli effetti dell'[articolo 5 del decreto-legge 7 aprile 2004, n. 97](https://www
 
 1.
 
-L'istituto nazionale di documentazione per l'innovazione e la ricerca educativa di cui all'[articolo 2 del decreto legislativo 20 luglio 1999, n. 258](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-20;258#art_2), e' autorizzato ad avvalersi fino al ((31 dicembre 2006 )), per la realizzazione del programma Socrates, del personale di cui all'[articolo 11 del decreto-legge 9 novembre 2004, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-11-09;266#art_11), convertito, con modificazioni, dalla [legge 27 dicembre 2004, n. 306](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20novembre%202004%20n.%20266%20recante%20proroga%20o%20differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Disposizioni%20di%20proroga%20di%20_0cc04a338fda.md).
+L'istituto nazionale di documentazione per l'innovazione e la ricerca educativa di cui all'[articolo 2 del decreto legislativo 20 luglio 1999, n. 258](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordino%20del%20Centro%20europeo%20delleducazione%20della%20biblioteca%20di%20documentazione%20pedagogica%20e%20trasformazione%20in%20Fondazione%20del%20museo%20nazionale%20della%20scienza%20e%20della%20tecnica%20Leonardo%20da%20Vinci_fe0b1c9a11a2.md), e' autorizzato ad avvalersi fino al ((31 dicembre 2006 )), per la realizzazione del programma Socrates, del personale di cui all'[articolo 11 del decreto-legge 9 novembre 2004, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2004-11-09;266#art_11), convertito, con modificazioni, dalla [legge 27 dicembre 2004, n. 306](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20novembre%202004%20n.%20266%20recante%20proroga%20o%20differimento%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Disposizioni%20di%20proroga%20di%20_0cc04a338fda.md).
 
 ## Art. 10. — Garanzie di sicurezza nel trattamento dei dati personali
 
@@ -162,7 +162,7 @@ All'[articolo 44, comma 2, della legge 12 dicembre 2002, n. 273](https://www.nor
 
 1.
 
-All'[articolo 4, comma 150, della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_4-com150), (( e successive modificazioni )) le parole: "ai sensi dell'[articolo 11 della legge 30 aprile 1999, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-30;136#art_11)" sono sostituite dalle seguenti: "ai sensi degli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-30;136#art_11) e [12 della legge 30 aprile 1999, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-30;136#art_12)" e le parole: "da ratificare entro trentasei mesi dalla data di entrata in vigore della presente legge" sono sostituite dalle seguenti: "da ratificare entro il 31 dicembre 2007".
+All'[articolo 4, comma 150, della legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md), (( e successive modificazioni )) le parole: "ai sensi dell'[articolo 11 della legge 30 aprile 1999, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-30;136#art_11)" sono sostituite dalle seguenti: "ai sensi degli [articoli 11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-30;136#art_11) e [12 della legge 30 aprile 1999, n. 136](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-04-30;136#art_12)" e le parole: "da ratificare entro trentasei mesi dalla data di entrata in vigore della presente legge" sono sostituite dalle seguenti: "da ratificare entro il 31 dicembre 2007".
 
 2.
 
@@ -213,7 +213,7 @@ All'[articolo 19, comma 1, n. 3), della legge 27 aprile 1982, n. 186](https://ww
 
 3.
 
-La disposizione di cui alla [lettera e) del comma 97 dell'articolo 1 della legge 30 dicembre 2004, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311#art_1-com97-lete), si interpreta nel senso che e' consentita l'assunzione prioritaria degli idonei dell'ultimo concorso a posti di consigliere di Stato espletato entro la data del 31 dicembre 2004.
+La disposizione di cui alla [lettera e) del comma 97 dell'articolo 1 della legge 30 dicembre 2004, n. 311](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md), si interpreta nel senso che e' consentita l'assunzione prioritaria degli idonei dell'ultimo concorso a posti di consigliere di Stato espletato entro la data del 31 dicembre 2004.
 
 4.
 
@@ -223,11 +223,11 @@ Per le finalita' di cui al comma 3 la dotazione organica del Consiglio di Stato 
 
 4-bis.
 
-All'[articolo 245, comma 1, del decreto legislativo 19 febbraio 1998, n. 51](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-02-19;51#art_245-com1), le parole: "sette anni" sono sostituite dalle seguenti: "nove anni".
+All'[articolo 245, comma 1, del decreto legislativo 19 febbraio 1998, n. 51](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Norme%20in%20materia%20di%20istituzione%20del%20giudice%20unico%20di%20primo%20grado.md), le parole: "sette anni" sono sostituite dalle seguenti: "nove anni".
 
 4-ter.
 
-Per assicurare il completamento della redistribuzione territoriale e della razionalizzazione dell'impiego delle risorse umane e strumentali presso gli organi di giustizia tributaria, con l'obiettivo del piu' spedito conseguimento della definitivita' dei giudizi necessaria ad assicurare la stabilizzazione delle entrate tributarie connesse agli accertamenti tributari oggetto di contenzioso, in coerenza con le modifiche apportate alla giurisdizione tributaria e alla durata dell'incarico dei singoli componenti degli organi giudicanti, ai sensi dell'[articolo 3-bis del decreto-legge 30 settembre 2005, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-09-30;203#art_3bis), convertito, con modificazioni, dalla [legge 2 dicembre 2005, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202005%20n.%20203%20recante%20misure%20di%20contrasto%20allevasione%20fiscale%20e%20disposizioni%20urgenti%20in%20materia%20tributaria%20e%20finanziaria.md), nonche¨ con la riforma del sistema della riscossione, entro il termine previsto dall'articolo 3, comma 8, del medesimo decreto-legge, si provvede alla revisione del numero dei componenti degli organi di giustizia tributaria e delle relative sezioni con l'obiettivo della progressiva concentrazione e contenimento del numero degli stessi rispetto alle consistenze accertate alla data del 31 dicembre 2005, senza nuovi o maggiori oneri a carico della finanza pubblica. Per consentire l'adeguamento delle sezioni di ciascun organo di giustizia tributaria e dei relativi componenti in funzione del relativo flusso medio dei processi, come previsto ai sensi dell'[articolo 1, comma 4, del decreto legislativo 31 dicembre 1992, n. 545](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-31;545#art_1-com4), si procede alle occorrenti rilevazioni statistiche sulla base dell'andamento di un triennio, successivamente alla data di entrata in vigore della legge di conversione del presente decreto. Fino alla definizione del processo di cui al primo e al secondo periodo del presente comma e' prorogato il termine di cui all'[articolo 18, comma 1, del decreto legislativo n. 545 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;545#art_18-com1).
+Per assicurare il completamento della redistribuzione territoriale e della razionalizzazione dell'impiego delle risorse umane e strumentali presso gli organi di giustizia tributaria, con l'obiettivo del piu' spedito conseguimento della definitivita' dei giudizi necessaria ad assicurare la stabilizzazione delle entrate tributarie connesse agli accertamenti tributari oggetto di contenzioso, in coerenza con le modifiche apportate alla giurisdizione tributaria e alla durata dell'incarico dei singoli componenti degli organi giudicanti, ai sensi dell'[articolo 3-bis del decreto-legge 30 settembre 2005, n. 203](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-09-30;203#art_3bis), convertito, con modificazioni, dalla [legge 2 dicembre 2005, n. 248](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202005%20n.%20203%20recante%20misure%20di%20contrasto%20allevasione%20fiscale%20e%20disposizioni%20urgenti%20in%20materia%20tributaria%20e%20finanziaria.md), nonche¨ con la riforma del sistema della riscossione, entro il termine previsto dall'articolo 3, comma 8, del medesimo decreto-legge, si provvede alla revisione del numero dei componenti degli organi di giustizia tributaria e delle relative sezioni con l'obiettivo della progressiva concentrazione e contenimento del numero degli stessi rispetto alle consistenze accertate alla data del 31 dicembre 2005, senza nuovi o maggiori oneri a carico della finanza pubblica. Per consentire l'adeguamento delle sezioni di ciascun organo di giustizia tributaria e dei relativi componenti in funzione del relativo flusso medio dei processi, come previsto ai sensi dell'[articolo 1, comma 4, del decreto legislativo 31 dicembre 1992, n. 545](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Ordinamento%20degli%20organi%20speciali%20di%20giurisdizione%20tributaria%20ed%20organizzazione%20degli%20uffici%20di%20collaborazione%20in%20attuazione%20della%20delega%20al%20Governo%20contenuta%20nellart.%2030%20della%20legge%2030%20d_f1692b541111.md), si procede alle occorrenti rilevazioni statistiche sulla base dell'andamento di un triennio, successivamente alla data di entrata in vigore della legge di conversione del presente decreto. Fino alla definizione del processo di cui al primo e al secondo periodo del presente comma e' prorogato il termine di cui all'[articolo 18, comma 1, del decreto legislativo n. 545 del 1992](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992;545#art_18-com1).
 
 ))
 
@@ -347,19 +347,19 @@ I termini, non ancora scaduti alla data di entrata in vigore del presente decret
 
 5-bis.
 
-I termini scaduti nel 2005 per la presentazione delle domande di liquidazione degli interventi per le finalita' di cui all'[articolo 103, comma 5, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_103-com5), sono prorogati fino al 31 marzo 2006. Le disponibilita' finanziarie per i medesimi interventi che a tale data dovessero risultare ancora non liquidate possono essere destinate alla prosecuzione delle incentivazioni al commercio elettronico con provvedimento del Ministero delle attivita' produttive da adottare entro il 30 giugno 2006.
+I termini scaduti nel 2005 per la presentazione delle domande di liquidazione degli interventi per le finalita' di cui all'[articolo 103, comma 5, della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), sono prorogati fino al 31 marzo 2006. Le disponibilita' finanziarie per i medesimi interventi che a tale data dovessero risultare ancora non liquidate possono essere destinate alla prosecuzione delle incentivazioni al commercio elettronico con provvedimento del Ministero delle attivita' produttive da adottare entro il 30 giugno 2006.
 
 -------------
 
 AGGIORNAMENTO (6)
 
-Il [D.L. 1 ottobre 2007, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-10-01;159), convertito con modificazioni dalla [L. 29 novembre 2007, n. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%202007%20n.%20159%20recante%20interventi%20urgenti%20in%20materia%20economico-finanziaria%20per%20lo%20sviluppo%20e%20lequita%20sociale.md), ha disposto (con l'art. 46-bis, comma 3) che "Al fine di incentivare le operazioni di aggregazione di cui al comma 2, i termini del 31 dicembre 2007 e del 31 dicembre 2009 stabiliti dall'[articolo 23, comma 1, del decreto-legge 30 dicembre 2005, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-12-30;273#art_23-com1), convertito, con modificazioni, dalla [legge 23 febbraio 2006, n. 51](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202005%20n.%20273%20recante%20definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.%20Proroga%20di%20termini%20relat_8fa6bc6dddf9.md), sono prorogati di due anni."
+Il [D.L. 1 ottobre 2007, n. 159](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2007-10-01;159), convertito con modificazioni dalla [L. 29 novembre 2007, n. 222](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%201%20ottobre%202007%20n.%20159%20recante%20interventi%20urgenti%20in%20materia%20economico-finanziaria%20per%20lo%20sviluppo%20e%20lequita%20sociale.md), ha disposto (con l'art. 46-bis, comma 3) che "Al fine di incentivare le operazioni di aggregazione di cui al comma 2, i termini del 31 dicembre 2007 e del 31 dicembre 2009 stabiliti dall'[articolo 23, comma 1, del decreto-legge 30 dicembre 2005, n. 273](Definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.md), convertito, con modificazioni, dalla [legge 23 febbraio 2006, n. 51](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202005%20n.%20273%20recante%20definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.%20Proroga%20di%20termini%20relat_8fa6bc6dddf9.md), sono prorogati di due anni."
 
 -------------
 
 AGGIORNAMENTO (8)
 
-IL [D.L. 9 febbraio 2012, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5), convertito con modificazioni dalla [L. 4 aprile 2012, n. 35](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20febbraio%202012%20n.%205%20recante%20disposizioni%20urgenti%20in%20materia%20di%20semplificazione%20e%20di%20sviluppo.%2012G0056.md), ha disposto (con l'art. 57, comma 12) che "Per gli interventi di metanizzazione di cui all'[articolo 23, comma 4, del decreto-legge 30 dicembre 2005, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-12-30;273#art_23-com4), convertito, con modificazioni, dalla [legge 23 febbraio 2006, n. 51](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202005%20n.%20273%20recante%20definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.%20Proroga%20di%20termini%20relat_8fa6bc6dddf9.md), i quali siano ancora in corso di esecuzione e non collaudati decorsi dodici mesi dalla data di entrata in vigore del presente provvedimento, i termini di cui allo stesso comma 4 decorrono dalla entrata in esercizio dell'impianto".
+IL [D.L. 9 febbraio 2012, n. 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-02-09;5), convertito con modificazioni dalla [L. 4 aprile 2012, n. 35](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%209%20febbraio%202012%20n.%205%20recante%20disposizioni%20urgenti%20in%20materia%20di%20semplificazione%20e%20di%20sviluppo.%2012G0056.md), ha disposto (con l'art. 57, comma 12) che "Per gli interventi di metanizzazione di cui all'[articolo 23, comma 4, del decreto-legge 30 dicembre 2005, n. 273](Definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.md), convertito, con modificazioni, dalla [legge 23 febbraio 2006, n. 51](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202005%20n.%20273%20recante%20definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.%20Proroga%20di%20termini%20relat_8fa6bc6dddf9.md), i quali siano ancora in corso di esecuzione e non collaudati decorsi dodici mesi dalla data di entrata in vigore del presente provvedimento, i termini di cui allo stesso comma 4 decorrono dalla entrata in esercizio dell'impianto".
 
 ## Art. 23-bis.
 
@@ -425,7 +425,7 @@ Le disposizioni di cui agli articoli 8, comma 2, 11, comma 2, lettere b) e c), e
 
 1.
 
-Il termine di due anni, da ultimo stabilito con provvedimento adottato ai sensi dell'[articolo 7 della legge 15 marzo 1997, n. 59](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_7), e dell'[articolo 7 del decreto legislativo 31 marzo 1998, n. 112](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;112#art_7), per l'esercizio delle funzioni previste dall'articolo 66 del citato [decreto legislativo n. 112 del 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;112), e' prorogato di un anno.
+Il termine di due anni, da ultimo stabilito con provvedimento adottato ai sensi dell'[articolo 7 della legge 15 marzo 1997, n. 59](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md), e dell'[articolo 7 del decreto legislativo 31 marzo 1998, n. 112](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20di%20funzioni%20e%20compiti%20amministrativi%20dello%20Stato%20alle%20regioni%20ed%20agli%20enti%20locali%20in%20attuazione%20del%20capo%20I%20della%20legge%2015%20marzo%201997%20n.%2059.md), per l'esercizio delle funzioni previste dall'articolo 66 del citato [decreto legislativo n. 112 del 1998](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;112), e' prorogato di un anno.
 
 ## Art. 26. — Fondo per lo sviluppo della meccanizzazione in agricoltura
 
@@ -461,7 +461,7 @@ Per assicurare il rispetto degli obblighi derivanti da impegni internazionali, l
 
 AGGIORNAMENTO (5)
 
-Il [D.L. 28 dicembre 2006, n. 300](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2006-12-28;300), convertito con modificazioni dalla [L. 26 febbraio 2007, n. 17](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202006%20n.%20300%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Disposizioni%20di%20delegazione%20legislativa.md) ha disposto (con l'art. 1, comma 3) che le disposizioni di cui al comma 1 del presente articolo, sono prorogate al 30 aprile 2007 limitatamente all'assunzione di personale del Ministero degli affari esteri.
+Il [D.L. 28 dicembre 2006, n. 300](Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative%20e%20disposizioni%20diverse.md), convertito con modificazioni dalla [L. 26 febbraio 2007, n. 17](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2028%20dicembre%202006%20n.%20300%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.%20Disposizioni%20di%20delegazione%20legislativa.md) ha disposto (con l'art. 1, comma 3) che le disposizioni di cui al comma 1 del presente articolo, sono prorogate al 30 aprile 2007 limitatamente all'assunzione di personale del Ministero degli affari esteri.
 
 ## Art. 28-bis. — (( (Riconoscimento della cittadinanza italiana agli emigrati
  dai territori attualmente italiani, gia' austroungarici,
@@ -479,13 +479,13 @@ Per le persone di cui all'[articolo 1, comma 1, lettera a), della legge 14 dicem
 
 1.
 
-All'[articolo 28, comma 1, della legge 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448#art_28-com1),(( e successive modificazioni,)) le parole: "31 dicembre 2005" sono sostituite dalle seguenti: "31 dicembre 2006".
+All'[articolo 28, comma 1, della legge 28 dicembre 2001, n. 448](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md),(( e successive modificazioni,)) le parole: "31 dicembre 2005" sono sostituite dalle seguenti: "31 dicembre 2006".
 
 ## Art. 30. — Credito d'imposta per giovani imprenditori agricoli
 
 1.
 
-All'[articolo 3, comma 3, del decreto legislativo 29 marzo 2004, n. 99](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-03-29;99#art_3-com3), (( e successive modificazioni, )) le parole: "nel limite della somma di 9.921.250 euro per l'anno 2004 e nei limiti della somma di dieci milioni di euro annui per ciascuno degli anni dal 2005 al 2009" sono sostituite dalle seguenti: "nel limite della somma di dieci milioni di euro annui per ciascuno degli anni dal 2006 al 2010" e le parole: "da emanarsi entro il 31 dicembre 2004" sono sostituite dalle seguenti: "da emanarsi entro trenta giorni dalla decisione della Commissione europea di approvazione del regime di aiuti di cui al presente comma".
+All'[articolo 3, comma 3, del decreto legislativo 29 marzo 2004, n. 99](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20soggetti%20e%20attivita%20integrita%20aziendale%20e%20semplificazione%20amministrativa%20in%20agricoltura%20a%20norma%20dellarticolo%201%20comma%202%20lettere%20d%20f%20g%20l%20ee%20della%20legge%207%20marzo%202003%20n.%2038.md), (( e successive modificazioni, )) le parole: "nel limite della somma di 9.921.250 euro per l'anno 2004 e nei limiti della somma di dieci milioni di euro annui per ciascuno degli anni dal 2005 al 2009" sono sostituite dalle seguenti: "nel limite della somma di dieci milioni di euro annui per ciascuno degli anni dal 2006 al 2010" e le parole: "da emanarsi entro il 31 dicembre 2004" sono sostituite dalle seguenti: "da emanarsi entro trenta giorni dalla decisione della Commissione europea di approvazione del regime di aiuti di cui al presente comma".
 
 ## Art. 31. — Disposizioni in materia di fiscalita' di impresa
 
@@ -495,7 +495,7 @@ I termini per effettuare le comunicazioni di cui all'[articolo 1, comma 4, del d
 
 2.
 
-La disposizione di cui al [comma 337 dell'articolo 1 della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com337), riferita all'anno finanziario 2006, e' specificata nel senso che la stessa si applica al periodo di imposta 2005; conseguentemente il decreto di cui al comma 340 e' adottato senza l'acquisizione dell'avviso di cui al primo periodo del medesimo comma.
+La disposizione di cui al [comma 337 dell'articolo 1 della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md), riferita all'anno finanziario 2006, e' specificata nel senso che la stessa si applica al periodo di imposta 2005; conseguentemente il decreto di cui al comma 340 e' adottato senza l'acquisizione dell'avviso di cui al primo periodo del medesimo comma.
 
 ## Art. 31-bis. — (( (Differimento di termini in materia di etichettatura) ))
 
@@ -522,19 +522,19 @@ Il termine previsto dalle disposizioni vigenti per l'invio ai Ministeri vigilant
 
 AGGIORNAMENTO (9)
 
-Il [D.L.6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito con modificazioni dalla [L. 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), ha disposto (con l'art. 12, comma 59) che "A decorrere dal 1º gennaio 2014 La Fondazione Valore Italia di cui all'[articolo 33 del decreto-legge 30 dicembre 2005, n. 273](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-12-30;273#art_33), convertito in [legge 23 febbraio 2006, n. 51](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202005%20n.%20273%20recante%20definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.%20Proroga%20di%20termini%20relat_8fa6bc6dddf9.md) e' soppressa e i relativi organi, oggetto di scioglimento ai sensi dell'[articolo 25 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_25), decadono, fatti salvi gli adempimenti di cui al comma 62."
+Il [D.L.6 luglio 2012, n. 95](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-07-06;95), convertito con modificazioni dalla [L. 7 agosto 2012, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%206%20luglio%202012%20n.%2095%20recante%20disposizioni%20urgenti%20per%20la%20revisione%20della%20spesa%20pubblica%20con%20invarianza%20dei%20servizi%20ai%20cittadini.%2012G0157.md), ha disposto (con l'art. 12, comma 59) che "A decorrere dal 1º gennaio 2014 La Fondazione Valore Italia di cui all'[articolo 33 del decreto-legge 30 dicembre 2005, n. 273](Definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.md), convertito in [legge 23 febbraio 2006, n. 51](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20dicembre%202005%20n.%20273%20recante%20definizione%20e%20proroga%20di%20termini%20nonche%20conseguenti%20disposizioni%20urgenti.%20Proroga%20di%20termini%20relat_8fa6bc6dddf9.md) e' soppressa e i relativi organi, oggetto di scioglimento ai sensi dell'[articolo 25 del codice civile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262#art_25), decadono, fatti salvi gli adempimenti di cui al comma 62."
 
 ## Art. 34. — Servizi pubblici di motorizzazione
 
 1.
 
-In relazione alla pubblica utilita' del servizio erogato dal Centro elaborazione dati (CED) del Dipartimento per i trasporti terrestri del Ministero delle infrastrutture e dei trasporti, al fine di garantire la piena continuita' nelle more del completamento delle procedure per il nuovo affidamento della gestione del servizio medesimo, in deroga a quanto previsto dall'[articolo 23 della legge 18 aprile 2005, n. 62](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-04-18;62#art_23), e' autorizzata, nei limiti della quota di risorse disponibili per le attivita' del CED, ai sensi del comma 2 del medesimo articolo 23 della citata [legge n. 62 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005;62), l'ulteriore proroga del contratto vigente fino al (( 31 dicembre)) 2006 e, comunque, per il tempo strettamente necessario al completamento delle procedure per il nuovo affidamento.
+In relazione alla pubblica utilita' del servizio erogato dal Centro elaborazione dati (CED) del Dipartimento per i trasporti terrestri del Ministero delle infrastrutture e dei trasporti, al fine di garantire la piena continuita' nelle more del completamento delle procedure per il nuovo affidamento della gestione del servizio medesimo, in deroga a quanto previsto dall'[articolo 23 della legge 18 aprile 2005, n. 62](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202004.md), e' autorizzata, nei limiti della quota di risorse disponibili per le attivita' del CED, ai sensi del comma 2 del medesimo articolo 23 della citata [legge n. 62 del 2005](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005;62), l'ulteriore proroga del contratto vigente fino al (( 31 dicembre)) 2006 e, comunque, per il tempo strettamente necessario al completamento delle procedure per il nuovo affidamento.
 
 ## Art. 35. — Procedure di reclutamento docenti universitari
 
 1.
 
-All'articolo 1, comma 6, secondo periodo, della [legge 4 novembre 2005, n. 230](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-04;230), le parole: "alla medesima data" sono sostituite dalle seguenti: "alla data di entrata in vigore del decreto legislativo di attuazione della delega di cui al comma 5 e, comunque, non oltre il 30 giugno 2006, nel rispetto dei limiti di cui all'[articolo 51, comma 4, della legge 27 dicembre 1997, n. 449](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449#art_51-com4), e all'[articolo 1, comma 105, della legge 30 dicembre 2004, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311#art_1-com105)".
+All'articolo 1, comma 6, secondo periodo, della [legge 4 novembre 2005, n. 230](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Nuove%20disposizioni%20concernenti%20i%20professori%20e%20i%20ricercatori%20universitari%20e%20delega%20al%20Governo%20per%20il%20riordino%20del%20reclutamento%20dei%20professori%20universitari.md), le parole: "alla medesima data" sono sostituite dalle seguenti: "alla data di entrata in vigore del decreto legislativo di attuazione della delega di cui al comma 5 e, comunque, non oltre il 30 giugno 2006, nel rispetto dei limiti di cui all'[articolo 51, comma 4, della legge 27 dicembre 1997, n. 449](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20per%20la%20stabilizzazione%20della%20finanza%20pubblica.md), e all'[articolo 1, comma 105, della legge 30 dicembre 2004, n. 311](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md)".
 
 ## Art. 36. — Equiparazione dello stato di crisi a quello di insolvenza
 
@@ -552,7 +552,7 @@ Al fine di concorrere alla soluzione delle crisi industriali, gli interventi di 
 
 1.
 
-Al fine di favorire il mantenimento di un'efficiente rete di assistenza farmaceutica territoriale anche nelle zone disagiate, le percentuali di sconto a carico delle farmacie con un fatturato annuo in regime di Servizio sanitario nazionale al netto dell'IVA non superiore ad euro 258.228,45 sono ulteriormente ridotte, limitatamente all'arco temporale decorrente dal 1° marzo al 31 dicembre 2006, rispetto alla riduzione prevista dall'ultimo periodo dell'[articolo 1, comma 40, della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_1-com40), e successive modificazioni, nella misura stabilita con decreto del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, per una maggiore spesa complessiva, a carico del Servizio sanitario nazionale, non superiore a 2,1 milioni di euro per l'anno 2006.
+Al fine di favorire il mantenimento di un'efficiente rete di assistenza farmaceutica territoriale anche nelle zone disagiate, le percentuali di sconto a carico delle farmacie con un fatturato annuo in regime di Servizio sanitario nazionale al netto dell'IVA non superiore ad euro 258.228,45 sono ulteriormente ridotte, limitatamente all'arco temporale decorrente dal 1° marzo al 31 dicembre 2006, rispetto alla riduzione prevista dall'ultimo periodo dell'[articolo 1, comma 40, della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), e successive modificazioni, nella misura stabilita con decreto del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, per una maggiore spesa complessiva, a carico del Servizio sanitario nazionale, non superiore a 2,1 milioni di euro per l'anno 2006.
 
 2.
 
@@ -566,7 +566,7 @@ Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propr
 
 AGGIORNAMENTO (4)
 
-La [L. 27 dicembre 2006, n. 296](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296), ha disposto (con l'art. 1, comma 286) che al fine di favorire il mantenimento di un'efficiente rete di assistenza farmaceutica territoriale anche nelle zone disagiate, l'ulteriore riduzione delle percentuali di sconto a carico delle farmacie con un fatturato annuo in regime di Servizio sanitario nazionale al netto dell'imposta sul valore aggiunto non superiore ad euro 258.228,45 rispetto alla riduzione prevista dal quinto periodo del [comma 40 dell'articolo 1 della legge 23 dicembre 1996, n. 662](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1996-12-23;662#art_1-com40), e successive modificazioni, disposta, limitatamente all'arco temporale decorrente dal 1° marzo al 31 dicembre 2006, dal presente articolo e' prorogata per il triennio 2007-2009. La misura dell'ulteriore riduzione e' annualmente stabilita con decreto del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, per una maggiore spesa complessiva, a carico del Servizio sanitario nazionale, non superiore a 2,5 milioni di euro per ciascuno degli anni 2007, 2008 e 2009. Per la copertura dei relativi oneri e' autorizzata la spesa di 2,5 milioni di euro per ciascuno degli anni 2007, 2008 e 2009.
+La [L. 27 dicembre 2006, n. 296](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202007.md), ha disposto (con l'art. 1, comma 286) che al fine di favorire il mantenimento di un'efficiente rete di assistenza farmaceutica territoriale anche nelle zone disagiate, l'ulteriore riduzione delle percentuali di sconto a carico delle farmacie con un fatturato annuo in regime di Servizio sanitario nazionale al netto dell'imposta sul valore aggiunto non superiore ad euro 258.228,45 rispetto alla riduzione prevista dal quinto periodo del [comma 40 dell'articolo 1 della legge 23 dicembre 1996, n. 662](../Leggi%20finanziarie%20e%20di%20bilancio/Misure%20di%20razionalizzazione%20della%20finanza%20pubblica_3.md), e successive modificazioni, disposta, limitatamente all'arco temporale decorrente dal 1° marzo al 31 dicembre 2006, dal presente articolo e' prorogata per il triennio 2007-2009. La misura dell'ulteriore riduzione e' annualmente stabilita con decreto del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, per una maggiore spesa complessiva, a carico del Servizio sanitario nazionale, non superiore a 2,5 milioni di euro per ciascuno degli anni 2007, 2008 e 2009. Per la copertura dei relativi oneri e' autorizzata la spesa di 2,5 milioni di euro per ciascuno degli anni 2007, 2008 e 2009.
 
 ## Art. 39. — Conservazione delle quote dei limiti
  di impegno per le infrastrutture
@@ -611,7 +611,7 @@ Al [comma 4 dell'articolo 2 della legge 28 dicembre 2005, n. 263](https://www.no
 
 1.
 
-Nell'[articolo 1, comma 68, della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com68), l'ultimo periodo e' soppresso e dopo il medesimo comma e' inserito il seguente:
+Nell'[articolo 1, comma 68, della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md), l'ultimo periodo e' soppresso e dopo il medesimo comma e' inserito il seguente:
  "68-bis. Fermo restando il comma 66 del presente articolo, l'entita' della contribuzione a carico dei soggetti operanti nei settori dell'energia elettrica e del gas, gia' determinata ai sensi dell'[articolo 2, comma 38, lettera b), della legge 14 novembre 1995, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481#art_2-com38-letb), resta fissata in una misura non superiore all'uno per mille dei ricavi risultanti dall'ultimo bilancio approvato prima della data di entrata in vigore della presente legge. Successive variazioni della misura, necessarie ai fini della copertura dei costi relativi al proprio funzionamento, e delle modalita' della contribuzione possono essere adottate dalla Autorita' per l'energia elettrica e il gas entro il predetto limite massimo dell'uno per mille dei ricavi risultanti dal bilancio approvato relativo all'esercizio immediatamente precedente la variazione stessa, con la medesima procedura disciplinata dal comma 65. L'[articolo 2, comma 39, della legge 14 novembre 1995, n. 481](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-11-14;481#art_2-com39), e' abrogato".
 
 ))
@@ -622,7 +622,7 @@ Nell'[articolo 1, comma 68, della legge 23 dicembre 2005, n. 266](https://www.no
 
 1.
 
-All'[articolo 118, comma 16, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_118-com16), e successive modificazioni, le parole: "e di 100 milioni di euro per ciascuno degli anni 2003, 2004 e 2005" sono sostituite dalle seguenti: "e di 100 milioni di euro per ciascuno degli anni 2003, 2004, 2005 e 2006".
+All'[articolo 118, comma 16, della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e successive modificazioni, le parole: "e di 100 milioni di euro per ciascuno degli anni 2003, 2004 e 2005" sono sostituite dalle seguenti: "e di 100 milioni di euro per ciascuno degli anni 2003, 2004, 2005 e 2006".
 
 ))
 
@@ -669,7 +669,7 @@ Al [quarto comma dell'articolo 4 della legge 10 marzo 1955, n. 96](https://www.n
 
 1.
 
-Per il completamento degli interventi di cui all'[articolo 17, comma 5, della legge 11 marzo 1988, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-03-11;67#art_17-com5), e' autorizzato un contributo triennale di 5 milioni di euro annui a decorrere dal 2006.
+Per il completamento degli interventi di cui all'[articolo 17, comma 5, della legge 11 marzo 1988, n. 67](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%201988.md), e' autorizzato un contributo triennale di 5 milioni di euro annui a decorrere dal 2006.
 
 2.
 
@@ -761,7 +761,7 @@ All'[articolo 6 della legge 2 maggio 1974, n. 195](https://www.normattiva.it/uri
 
 1.
 
-La rideterminazione dei contributi previsti per gli anni 2006 e 2007 dall'[articolo 1, comma 28, della legge 30 dicembre 2004, n. 311](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311#art_1-com28), e successive modificazioni, e dall'[articolo 2-bis del decreto-legge 31 gennaio 2005, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-01-31;7#art_2bis), convertito, con modificazioni, dalla [legge 31 marzo 2005, n. 43](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20gennaio%202005%20n.%207%20recante%20disposizioni%20urgenti%20per%20luniversita%20e%20la%20ricerca%20per%20i%20beni%20e%20le%20attivita%20culturali%20per%20il%20completam_d7cb095e42be.md), per effetto delle rimodulazioni operate dalla [legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266), e' effettuata in misura proporzionale all'entita' dei contributi individuati per ciascun ente beneficiario negli elenchi allegati ai decreti del Ministro dell'economia e delle finanze del 18 marzo 2005, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 68 del 23 marzo 2005, e dell'8 luglio 2005, pubblicato nella Gazzetta Ufficiale n. 159 dell'11 luglio 2005.
+La rideterminazione dei contributi previsti per gli anni 2006 e 2007 dall'[articolo 1, comma 28, della legge 30 dicembre 2004, n. 311](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202005.md), e successive modificazioni, e dall'[articolo 2-bis del decreto-legge 31 gennaio 2005, n. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2005-01-31;7#art_2bis), convertito, con modificazioni, dalla [legge 31 marzo 2005, n. 43](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2031%20gennaio%202005%20n.%207%20recante%20disposizioni%20urgenti%20per%20luniversita%20e%20la%20ricerca%20per%20i%20beni%20e%20le%20attivita%20culturali%20per%20il%20completam_d7cb095e42be.md), per effetto delle rimodulazioni operate dalla [legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md), e' effettuata in misura proporzionale all'entita' dei contributi individuati per ciascun ente beneficiario negli elenchi allegati ai decreti del Ministro dell'economia e delle finanze del 18 marzo 2005, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 68 del 23 marzo 2005, e dell'8 luglio 2005, pubblicato nella Gazzetta Ufficiale n. 159 dell'11 luglio 2005.
 
 2.
 
@@ -785,7 +785,7 @@ Il termine di cui al decreto del Presidente del Consiglio dei ministri 13 maggio
 
 1.
 
-Al [testo unico delle disposizioni sull'edilizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380) popolare ed economica, di cui al [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165), sono apportate le seguenti modificazioni:
+Al [testo unico delle disposizioni sull'edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md) popolare ed economica, di cui al [regio decreto 28 aprile 1938, n. 1165](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1938-04-28;1165), sono apportate le seguenti modificazioni:
                         a)
                             all'articolo 97: 
  1) alla lettera b), le parole: ", gli ufficiali generali e i colonnelli comandanti di corpo o capi di servizio dell'Esercito, nonche' gli ufficiali di grado e carica corrispondenti delle altre Forze Armate dello Stato" sono soppresse; 
@@ -875,7 +875,7 @@ Le somme iscritte nello stato di previsione del Ministero dell'istruzione, dell'
  43. All'[articolo 23, comma 5, della legge 23 agosto 2004, n. 226](../Atti%20normativi%20abrogati%20%28in%20originale%29/Sospensione%20anticipata%20del%20servizio%20obbligatorio%20di%20leva%20e%20disciplina%20dei%20volontari%20di%20truppa%20in%20ferma%20prefissata%20nonche%20delega%20al%20Governo%20per%20il%20conseguente%20coordinamento%20con%20la%20normativa%20di%20settore.md), sono apportate le seguenti modificazioni: 
  a) alla lettera b), le parole: "821 unita" sono sostituite dalle seguenti: "478 unita"; 
  b) alla lettera c), le parole: "749 unita" sono sostituite dalle seguenti: "406 unita". 
- 44. Agli oneri derivanti dall'attuazione del presente articolo, esclusi i commi 42 e 43, pari complessivamente a euro 324.508.207 per l'anno 2006, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa recata dall'[articolo 1, comma 97, della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com97). 
+ 44. Agli oneri derivanti dall'attuazione del presente articolo, esclusi i commi 42 e 43, pari complessivamente a euro 324.508.207 per l'anno 2006, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa recata dall'[articolo 1, comma 97, della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md). 
  45. II Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
 
 ## Art. 39-vicesbis.
@@ -920,11 +920,11 @@ Al [comma 3 dell'articolo 38 della legge 4 maggio 1983, n. 184](https://www.norm
 
 1.
 
-All'[articolo 1, comma 213, della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1-com213), le parole: "nonche' alle Forze di polizia ad ordinamento civile e militare, ed in quelli di recepimento dello schema di concertazione per il personale delle Forze armate" sono soppresse.
+All'[articolo 1, comma 213, della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md), le parole: "nonche' alle Forze di polizia ad ordinamento civile e militare, ed in quelli di recepimento dello schema di concertazione per il personale delle Forze armate" sono soppresse.
 
 2.
 
-All'[articolo 1 della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1), dopo il comma 213, e' inserito il seguente: 
+All'[articolo 1 della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md), dopo il comma 213, e' inserito il seguente: 
  "213-bis. Le disposizioni di cui al comma 213 non si applicano al personale delle Forze armate e di polizia, fermi restando gli ordinari stanziamenti di bilancio".
 
 ))
@@ -936,7 +936,7 @@ All'[articolo 1 della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/
 
 1.
 
-Al comma 100, quinto periodo, dell'[articolo 1 della legge 23 dicembre 2005, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-12-23;266#art_1), le parole: "articolo 5" sono sostituite dalle seguenti: "articolo 15".
+Al comma 100, quinto periodo, dell'[articolo 1 della legge 23 dicembre 2005, n. 266](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202006.md), le parole: "articolo 5" sono sostituite dalle seguenti: "articolo 15".
 
 ))
 

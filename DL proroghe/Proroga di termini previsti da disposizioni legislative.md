@@ -24,7 +24,7 @@ Emana il seguente decreto-legge:
 
 1.
 
-Il termine del 31 gennaio previsto dal [comma 19 dell'articolo 145 della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_145-com19), per la emanazione del bando di concorso ivi previsto, relativamente all'anno 2004, e' prorogato al 31 maggio.
+Il termine del 31 gennaio previsto dal [comma 19 dell'articolo 145 della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), per la emanazione del bando di concorso ivi previsto, relativamente all'anno 2004, e' prorogato al 31 maggio.
 
 ## Art. 2. — Aliquote sui prodotti della coltivazione di idrocarburi
 
@@ -155,7 +155,7 @@ Il termine di cui all'[articolo 11 del decreto-legge 24 giugno 2003, n. 147](Pro
 
 1.
 
-In attuazione del disposto della [legge 15 marzo 1997, n. 59, al comma 1 dell'articolo 6](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59#art_6-com1) del [decreto legislativo 18 febbraio 2000, n. 56](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-02-18;56), le parole: "a decorrere dal 1° gennaio 2004" sono sostituite dalle seguenti: "a decorrere dal 1° gennaio 2005".
+In attuazione del disposto della [legge 15 marzo 1997, n. 59, al comma 1 dell'articolo 6](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Delega%20al%20Governo%20per%20il%20conferimento%20di%20funzioni%20e%20compiti%20alle%20regioni%20ed%20enti%20locali%20per%20la%20riforma%20della%20pubblica%20amministrazione%20e%20per%20la%20semplificazione%20amministrativa.md) del [decreto legislativo 18 febbraio 2000, n. 56](../Decreti%20Legislativi/Disposizioni%20in%20materia%20di%20federalismo%20fiscale%20a%20norma%20dellarticolo%2010%20della%20legge%2013%20maggio%201999%20n.%20133.md), le parole: "a decorrere dal 1° gennaio 2004" sono sostituite dalle seguenti: "a decorrere dal 1° gennaio 2005".
 
 ))
 
@@ -170,7 +170,7 @@ All'[articolo 14, comma 3 del decreto legislativo 5 aprile 2002, n. 77](../Atti%
 
 1.
 
-All'[articolo 86, comma 2, della legge 27 dicembre 2002, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_86-com2), (( e successive modificazioni, )) le parole: (( "entro otto mesi" )) sono sostituite dalle seguenti: "entro ventiquattro mesi".
+All'[articolo 86, comma 2, della legge 27 dicembre 2002, n. 289](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md), (( e successive modificazioni, )) le parole: (( "entro otto mesi" )) sono sostituite dalle seguenti: "entro ventiquattro mesi".
 
 ## Art. 13-bis. — (( (Riordino fondiario nelle zone del Friuli-Venezia Giulia). ))
 
@@ -178,7 +178,7 @@ All'[articolo 86, comma 2, della legge 27 dicembre 2002, n. 289](https://www.nor
 
 1.
 
-All'[articolo 140, comma 1, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_140-com1), le parole: "31 dicembre 2003", ovunque ricorrano, sono sostituite dalle seguenti: "31 dicembre 2005".
+All'[articolo 140, comma 1, della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), le parole: "31 dicembre 2003", ovunque ricorrano, sono sostituite dalle seguenti: "31 dicembre 2005".
 
 2.
 
@@ -190,7 +190,7 @@ All'onere di cui al comma 1, pari a 1.500.000 euro per ciascuno degli anni 2004 
 
 1.
 
-Le disposizioni del capo quinto della parte seconda del [testo unico delle disposizioni legislative e regolamentari in materia edilizia](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380), (( di cui al )) [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-06;380), hanno effetto a decorrere dal 1° gennaio 2005.
+Le disposizioni del capo quinto della parte seconda del [testo unico delle disposizioni legislative e regolamentari in materia edilizia](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), (( di cui al )) [decreto del Presidente della Repubblica 6 giugno 2001, n. 380](../DPR/Testo%20unico%20delle%20disposizioni%20legislative%20e%20regolamentari%20in%20materia%20edilizia.%20Testo%20A.md), hanno effetto a decorrere dal 1° gennaio 2005.
 La proroga non si applica agli edifici scolastici di ogni ordine e grado.
 
 ## Art. 15. — Acque potabili trattate
@@ -214,14 +214,14 @@ Il [D.L. 9 novembre 2004, n. 266](https://www.normattiva.it/uri-res/N2Ls?urn:nir
 
 ## Art. 17. — Privatizzazione, trasformazione e fusione di enti pubblici
 
-1 . Il termine di cui al secondo periodo del [comma 2 dell'articolo 2 del decreto legislativo 29 ottobre 1999, n. 419](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;419#art_2-com2), e' prorogato al 31 dicembre 2004, limitatamente agli enti di cui alla tabella A del medesimo decreto legislativo per i quali non sia intervenuto il prescritto decreto del Presidente del Consiglio dei Ministri e, in caso di fusione o unificazione strutturale, il regolamento da emanarsi ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2).
+1 . Il termine di cui al secondo periodo del [comma 2 dell'articolo 2 del decreto legislativo 29 ottobre 1999, n. 419](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Riordinamento%20del%20sistema%20degli%20enti%20pubblici%20nazionali%20a%20norma%20degli%20articoli%2011%20e%2014%20della%20legge%2015%20marzo%201997%20n.%2059.md), e' prorogato al 31 dicembre 2004, limitatamente agli enti di cui alla tabella A del medesimo decreto legislativo per i quali non sia intervenuto il prescritto decreto del Presidente del Consiglio dei Ministri e, in caso di fusione o unificazione strutturale, il regolamento da emanarsi ai sensi dell'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400#art_17-com2).
  (( 1-bis. Il termine di sessanta giorni di cui all'articolo 5, comma 26, del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, entro il quale il personale gia' dipendente dalla Cassa depositi e prestiti puo' richiedere l'attivazione delle procedure di mobilita', e' differito al 31 luglio 2004. Il collocamento del personale proveniente dai ruoli della Cassa depositi e prestiti e' effettuato entro il predetto termine, ferme restando le modalita' previste al citato articolo 5, comma 26, anche in soprannumero nel limite complessivo di trenta unita', con priorita' per i dipendenti gia' in servizio presso gli uffici periferici. All'onere derivante dalle conseguenti assunzioni, si provvede, nel limite massimo di 1.200.000 euro annui, a decorrere dall'anno 2004, mediante utilizzo delle risorse di cui all'articolo 3, comma 54, della legge 24 dicembre 2003, n. 350, intendendosi corrispondentemente ridotta la relativa autorizzazione di spesa. ))
 
 ## Art. 18. — Definizione transattiva delle controversie per opere pubbliche di competenza dell'ex Agensud
 
 1.
 
-Al [comma 2 dell'articolo 9-bis del decreto legislativo 3 aprile 1993, n. 96](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-04-03;96#art_9bis-com2), e successive modificazioni, le parole: "31 dicembre 2003"" sono sostituite dalle seguenti: "31 dicembre 2004".
+Al [comma 2 dell'articolo 9-bis del decreto legislativo 3 aprile 1993, n. 96](../Decreti%20Legislativi/Trasferimento%20delle%20competenze%20dei%20soppressi%20Dipartimento%20per%20gli%20interventi%20straordinari%20nel%20Mezzogiorno%20e%20Agenzia%20per%20la%20promozione%20dello%20sviluppo%20del%20Mezzogiorno%20a%20norma%20dellart.%203%20del_01145d8ccfec.md), e successive modificazioni, le parole: "31 dicembre 2003"" sono sostituite dalle seguenti: "31 dicembre 2004".
 
 ## Art. 19. — Funzionamento del Parco Nazionale Abruzzo, Lazio, Molise
 
@@ -231,7 +231,7 @@ Nelle more della definizione della nuova pianta organica e della conclusione del
 
 2.
 
-La proroga di cui al comma 1 opera nel limite del contributo speciale previsto per il Parco nazionale d'Abruzzo, Lazio e Molise, per gli anni 2003-2004-2005, dall'[articolo 94, comma 12, della legge 27 dicembre 2002, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_94-com12).
+La proroga di cui al comma 1 opera nel limite del contributo speciale previsto per il Parco nazionale d'Abruzzo, Lazio e Molise, per gli anni 2003-2004-2005, dall'[articolo 94, comma 12, della legge 27 dicembre 2002, n. 289](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md).
 
 ## Art. 20. — Proroga e completamento degli interventi per la ricostruzione
  Nei comuni colpiti da eventi sismici e da altre calamita'
@@ -242,7 +242,7 @@ I termini di cui ai decreti del Presidente del Consiglio dei Ministri del 31 ott
 
 2.
 
-All'onere di cui al comma 1, pari ad euro 5.000.000 per l'anno 2005 e ad euro 10.000.000 a decorrere dall'anno 2006, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 13, comma 1, della legge 1° agosto 2002, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-08-01;166#art_13-com1), cosi' come rifinanziata dall'[articolo 4, comma 176, della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_4-com176).
+All'onere di cui al comma 1, pari ad euro 5.000.000 per l'anno 2005 e ad euro 10.000.000 a decorrere dall'anno 2006, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 13, comma 1, della legge 1° agosto 2002, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-08-01;166#art_13-com1), cosi' come rifinanziata dall'[articolo 4, comma 176, della legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md).
 
 ## Art. 20-bis. — (( (Proroga degli interventi nei comuni
  del Friuli-Venezia Giulia e della provincia
@@ -302,13 +302,13 @@ AGGIORNAMENTO (10)
 
 La [L. 16 dicembre 2024, n. 193](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-16;193), ha disposto (con l'art. 16, comma 8, lettera d)) che "Alla data di scadenza dell'ultima concessione in vigore alla data di entrata in vigore della presente legge sono abrogati: 
  [...] 
- d) l'[articolo 21 del decreto-legge 24 dicembre 2003, n. 355](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-12-24;355#art_21), convertito, con modificazioni, dalla [legge 27 febbraio 2004, n. 47](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20dicembre%202003%20n.%20355%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.md)".
+ d) l'[articolo 21 del decreto-legge 24 dicembre 2003, n. 355](Proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.md), convertito, con modificazioni, dalla [legge 27 febbraio 2004, n. 47](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2024%20dicembre%202003%20n.%20355%20recante%20proroga%20di%20termini%20previsti%20da%20disposizioni%20legislative.md)".
 
 ## Art. 22. — Gestione dei servizi di trasporto ferroviario
 
 1.
 
-I servizi ferroviari di interesse regionale e locale, con esclusione dei servizi automobilistici integrativi di cui all'[articolo 8 del decreto legislativo 19 novembre 1997, n. 422](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-11-19;422#art_8), e successive modificazioni, per i quali non risulti raggiunto almeno il rapporto dello 0,35 tra ricavi del traffico e costi operativi del trasporto al netto di quelli di infrastruttura, continuano ad essere affidati, unitamente alla gestione delle stesse infrastrutture, alle aziende che attualmente li svolgono, fino al 31 dicembre 2004, nell'ambito dei finanziamenti esistenti a legislazione vigente.
+I servizi ferroviari di interesse regionale e locale, con esclusione dei servizi automobilistici integrativi di cui all'[articolo 8 del decreto legislativo 19 novembre 1997, n. 422](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Conferimento%20alle%20regioni%20ed%20agli%20enti%20locali%20di%20funzioni%20e%20compiti%20in%20materia%20di%20trasporto%20pubblico%20locale%20a%20norma%20dellarticolo%204%20comma%204%20della%20legge%2015%20marzo%201997%20n.%2059.md), e successive modificazioni, per i quali non risulti raggiunto almeno il rapporto dello 0,35 tra ricavi del traffico e costi operativi del trasporto al netto di quelli di infrastruttura, continuano ad essere affidati, unitamente alla gestione delle stesse infrastrutture, alle aziende che attualmente li svolgono, fino al 31 dicembre 2004, nell'ambito dei finanziamenti esistenti a legislazione vigente.
 
 ## Art. 23.
 
@@ -316,9 +316,9 @@ Finanziamento del rinnovo contrattuale per il settore del trasporto pubblico loc
  trasporto pubblico regionale e locale e differimento del nuovo
  regime di ricorsi in materia di invalidita' civile ))
 
- 1. Al fine di assicurare il rinnovo del contratto collettivo relativo al settore del trasporto pubblico locale (( e' autorizzata la spesa di euro 337.500.000 per l'anno 2004 e di euro 214.300.000 annui a decorrere dall'anno 2005 )) i trasferimenti erariali conseguenti sono effettuati con le procedure e le modalita' stabilite con decreto del Ministro delle infrastrutture e dei trasporti, sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-28;281#art_8).
+ 1. Al fine di assicurare il rinnovo del contratto collettivo relativo al settore del trasporto pubblico locale (( e' autorizzata la spesa di euro 337.500.000 per l'anno 2004 e di euro 214.300.000 annui a decorrere dall'anno 2005 )) i trasferimenti erariali conseguenti sono effettuati con le procedure e le modalita' stabilite con decreto del Ministro delle infrastrutture e dei trasporti, sentita la Conferenza unificata di cui all'[articolo 8 del decreto legislativo 28 agosto 1997, n. 281](../Leggi%20delega%20e%20relativi%20provvedimenti%20delegati/Definizione%20ed%20ampliamento%20delle%20attribuzioni%20della%20Conferenza%20permanente%20per%20i%20rapporti%20tra%20lo%20Stato%20le%20regioni%20e%20le%20province%20autonome%20di%20Trento%20e%20Bolzano%20ed%20unificazione%20per%20le%20materie%20_0f948c71aa72.md).
  2. L'efficacia delle disposizioni di cui all'[articolo 42, comma 3, del decreto-legge 30 settembre 2003, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269#art_42-com3), convertito, con modificazioni, dalla [legge 24 novembre 2003, n. 326](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202003%20n.%20269%20recante%20disposizioni%20urgenti%20per%20favorire%20lo%20sviluppo%20e%20per%20la%20correzione%20dellandamento%20dei%20conti%20pubblici.md), e' differita al 31 dicembre 2004. A tal fine e' autorizzata la spesa di 2.000.000 di euro per l'anno 2004.
- 3. All'onere complessivo, pari a euro 339.500.000 per l'anno 2004 e a (( euro 214.300.000 annui a decorrere dall'anno 2005 )) derivante dal presente articolo, si provvede con le maggiori entrate per accisa conseguenti all'aumento a euro 558,64 per mille litri dell'aliquota di accisa sulla benzina e sulla benzina senza piombo di cui all'allegato I del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con [decreto legislativo 26 ottobre 1995, n. 504](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-10-26;504), e successive modificazioni.
+ 3. All'onere complessivo, pari a euro 339.500.000 per l'anno 2004 e a (( euro 214.300.000 annui a decorrere dall'anno 2005 )) derivante dal presente articolo, si provvede con le maggiori entrate per accisa conseguenti all'aumento a euro 558,64 per mille litri dell'aliquota di accisa sulla benzina e sulla benzina senza piombo di cui all'allegato I del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con [decreto legislativo 26 ottobre 1995, n. 504](../Decreti%20Legislativi/Testo%20unico%20delle%20disposizioni%20legislative%20concernenti%20le%20imposte%20sulla%20produzione%20e%20sui%20consumi%20e%20relative%20sanzioni%20penali%20e%20amministrative.md), e successive modificazioni.
  (( 3-bis. Il termine del 31 dicembre 2003, previsto dall'articolo 18, comma 3-bis, del decreto legislativo 19 novembre 1997, n. 422, per l'affidamento dello svolgimento dei servizi di trasporto automobilistici e' prorogato al 31 dicembre 2005. Il Ministro dell'economia e delle finanze, di concerto con il Ministro delle infrastrutture e dei trasporti, sentita la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, provvede annualmente alla ricognizione e alla individuazione delle risorse al fine di emanare provvedimenti per contribuire al risanamento e allo sviluppo del trasporto pubblico locale, al potenziamento del trasporto rapido di massa nonche' al corretto svolgimento delle procedure di affidamento dei servizi. ))
 
 ## Art. 23-bis. — (( (Proroga di termini in materia di benefici tributari
@@ -330,15 +330,15 @@ Finanziamento del rinnovo contrattuale per il settore del trasporto pubblico loc
 
 Sono prorogate per gli anni 2004 e 2005, nella misura e alle condizioni ivi previste, le agevolazioni tributarie in materia di recupero del patrimonio edilizio relative:
                         a)
-                            agli interventi di cui all'[articolo 2, comma 5, della legge 27 dicembre 2002, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_2-com5), per le spese sostenute dal 1° gennaio 2004 al 31 dicembre 2005;
+                            agli interventi di cui all'[articolo 2, comma 5, della legge 27 dicembre 2002, n. 289](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md), per le spese sostenute dal 1° gennaio 2004 al 31 dicembre 2005;
                         b)
-                            agli interventi di cui all'[articolo 9, comma 2, della legge 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448#art_9-com2), nel testo vigente al 31 dicembre 2003, eseguiti entro il 31 dicembre 2005 dai soggetti ivi indicati che provvedano alla successiva alienazione o assegnazione dell'immobile entro il 30 giugno 2006;
+                            agli interventi di cui all'[articolo 9, comma 2, della legge 28 dicembre 2001, n. 448](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md), nel testo vigente al 31 dicembre 2003, eseguiti entro il 31 dicembre 2005 dai soggetti ivi indicati che provvedano alla successiva alienazione o assegnazione dell'immobile entro il 30 giugno 2006;
                         c)
-                            alle prestazioni di cui all'[articolo 7, comma 1, lettera b), della legge 23 dicembre 1999, n. 488](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-12-23;488#art_7-com1-letb), fatturate dal 1° gennaio 2004.
+                            alle prestazioni di cui all'[articolo 7, comma 1, lettera b), della legge 23 dicembre 1999, n. 488](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202000.md), fatturate dal 1° gennaio 2004.
 
 2.
 
-Sono abrogati i [commi 15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_2-com15) e [16 dell'articolo 2 della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_2-com16).
+Sono abrogati i [commi 15](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md) e [16 dell'articolo 2 della legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md).
 
 ))
 
@@ -366,7 +366,7 @@ Il termine di cui al [comma 2 dell'articolo 13-bis del decreto-legge 25 ottobre 
 
 1.
 
-La disposizione di cui all'[articolo 80, comma 28, della legge 27 dicembre 2002, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_80-com28), e' prorogata, con le medesime finalita', a valere sugli stanziamenti destinati dalla [legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350), a finanziare gli interventi previsti dall'[articolo 13 della legge 1° agosto 2002, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-08-01;166#art_13).
+La disposizione di cui all'[articolo 80, comma 28, della legge 27 dicembre 2002, n. 289](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md), e' prorogata, con le medesime finalita', a valere sugli stanziamenti destinati dalla [legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md), a finanziare gli interventi previsti dall'[articolo 13 della legge 1° agosto 2002, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-08-01;166#art_13).
 
 ))
 
@@ -376,7 +376,7 @@ La disposizione di cui all'[articolo 80, comma 28, della legge 27 dicembre 2002,
 
 1.
 
-Il regime transitorio previsto dall'[articolo 18, comma 3, della legge 12 marzo 1999, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68#art_18-com3), gia' prorogato dall'[articolo 19, comma 1, della legge 28 dicembre 2001, n. 448](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-12-28;448#art_19-com1), e dall'[articolo 34, comma 24, della legge 27 dicembre 2002, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_34-com24), e' ulteriormente differito fino al 31 dicembre 2004.
+Il regime transitorio previsto dall'[articolo 18, comma 3, della legge 12 marzo 1999, n. 68](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-03-12;68#art_18-com3), gia' prorogato dall'[articolo 19, comma 1, della legge 28 dicembre 2001, n. 448](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202002.md), e dall'[articolo 34, comma 24, della legge 27 dicembre 2002, n. 289](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md), e' ulteriormente differito fino al 31 dicembre 2004.
 
 ))
 
@@ -396,11 +396,11 @@ Il termine di cui all'[articolo 6, comma 1, della legge 3 aprile 2001, n. 142](h
 
 1.
 
-All'[articolo 138, comma 17, della legge 23 dicembre 2000, n. 388](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388#art_138-com17), e' aggiunto, in fine, il seguente periodo: "Per l'anno 2004 il Fondo e' alimentato esclusivamente da un contributo dello Stato pari a 154.970.000 euro".
+All'[articolo 138, comma 17, della legge 23 dicembre 2000, n. 388](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202001.md), e' aggiunto, in fine, il seguente periodo: "Per l'anno 2004 il Fondo e' alimentato esclusivamente da un contributo dello Stato pari a 154.970.000 euro".
 
 2.
 
-All'onere derivante dall'attuazione del comma 1, pari a 154.970.000 euro per l'anno 2004, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 3 della legge 24 febbraio 1992, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225#art_3), come determinata dalla tabella C allegata alla [legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350).
+All'onere derivante dall'attuazione del comma 1, pari a 154.970.000 euro per l'anno 2004, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 3 della legge 24 febbraio 1992, n. 225](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-24;225#art_3), come determinata dalla tabella C allegata alla [legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md).
 
 ))
 
@@ -412,7 +412,7 @@ All'onere derivante dall'attuazione del comma 1, pari a 154.970.000 euro per l'a
 
 1.
 
-L'[articolo 23 della legge 31 ottobre 2003, n. 306](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-10-31;306#art_23), si applica ai lavori in corso alla data del 30 novembre 2003 a decorrere dal 31 dicembre 2004.
+L'[articolo 23 della legge 31 ottobre 2003, n. 306](../Leggi%20di%20delegazione%20europea/Disposizioni%20per%20ladempimento%20di%20obblighi%20derivanti%20dallappartenenza%20dellItalia%20alle%20Comunita%20europee.%20Legge%20comunitaria%202003.md), si applica ai lavori in corso alla data del 30 novembre 2003 a decorrere dal 31 dicembre 2004.
 
 ))
 
@@ -431,15 +431,15 @@ All'[articolo 1 del decreto-legge 24 giugno 2003, n. 143](https://www.normattiva
 
 2.
 
-Al [comma 2-ter dell'articolo 12 della legge 27 dicembre 2002, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_12-com2ter), come da ultimo modificato dall'[articolo 34 del decreto-legge 30 settembre 2003, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269#art_34), convertito, con modificazioni, dalla [legge 24 novembre 2003, n. 326](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202003%20n.%20269%20recante%20disposizioni%20urgenti%20per%20favorire%20lo%20sviluppo%20e%20per%20la%20correzione%20dellandamento%20dei%20conti%20pubblici.md), le parole: "16 marzo 2004" e "16 febbraio 2004" sono sostituite, rispettivamente, dalle seguenti: "16 aprile 2004" e "16 marzo 2004".
+Al [comma 2-ter dell'articolo 12 della legge 27 dicembre 2002, n. 289](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md), come da ultimo modificato dall'[articolo 34 del decreto-legge 30 settembre 2003, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269#art_34), convertito, con modificazioni, dalla [legge 24 novembre 2003, n. 326](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202003%20n.%20269%20recante%20disposizioni%20urgenti%20per%20favorire%20lo%20sviluppo%20e%20per%20la%20correzione%20dellandamento%20dei%20conti%20pubblici.md), le parole: "16 marzo 2004" e "16 febbraio 2004" sono sostituite, rispettivamente, dalle seguenti: "16 aprile 2004" e "16 marzo 2004".
 
 3.
 
-All'[articolo 16 della legge 27 dicembre 2002, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_16), come da ultimo modificato dall'[articolo 34 del decreto-legge 30 settembre 2003, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269#art_34), convertito, con modificazioni, dalla [legge 24 novembre 2003, n. 326, al comma 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202003%20n.%20269%20recante%20disposizioni%20urgenti%20per%20favorire%20lo%20sviluppo%20e%20per%20la%20correzione%20dellandamento%20dei%20conti%20pubblici.md), le parole: "30 aprile 2004", ovunque ricorrano, sono sostituite dalle seguenti: "1° giugno 2004", e, al comma 8, le parole: "16 maggio 2004" sono sostituite dalle seguenti: "15 giugno 2004".
+All'[articolo 16 della legge 27 dicembre 2002, n. 289](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md), come da ultimo modificato dall'[articolo 34 del decreto-legge 30 settembre 2003, n. 269](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-09-30;269#art_34), convertito, con modificazioni, dalla [legge 24 novembre 2003, n. 326, al comma 6](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2030%20settembre%202003%20n.%20269%20recante%20disposizioni%20urgenti%20per%20favorire%20lo%20sviluppo%20e%20per%20la%20correzione%20dellandamento%20dei%20conti%20pubblici.md), le parole: "30 aprile 2004", ovunque ricorrano, sono sostituite dalle seguenti: "1° giugno 2004", e, al comma 8, le parole: "16 maggio 2004" sono sostituite dalle seguenti: "15 giugno 2004".
 
 4.
 
-All'[articolo 2 della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_2), sono apportate le seguenti modificazioni:
+All'[articolo 2 della legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md), sono apportate le seguenti modificazioni:
                         a)
                             ai commi da 44 a 49, le parole: "16 marzo 2004", ovunque ricorrano, sono sostituite dalle seguenti: "16 aprile 2004";
                         b)
@@ -449,7 +449,7 @@ All'[articolo 2 della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/
 
 5.
 
-Gli ulteriori termini connessi, contenuti nelle disposizioni degli [articoli 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_7), [8](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_8), [9](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_9), [9-bis](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_9bis), [11](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_11), [12](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_12), [14](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_14), [15](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_15) e [16 della legge 27 dicembre 2002, n. 289](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-12-27;289#art_16), nonche' quelli per la mera trasmissione in via telematica delle dichiarazioni previste dai predetti articoli, sono rideterminati, rispettivamente, con decreti del Ministro dell'economia e delle finanze e del direttore dell'Agenzia delle entrate.
+Gli ulteriori termini connessi, contenuti nelle disposizioni degli [articoli 7](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md), [8](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md), [9](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md), [9-bis](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md), [11](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md), [12](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md), [14](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md), [15](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md) e [16 della legge 27 dicembre 2002, n. 289](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202003.md), nonche' quelli per la mera trasmissione in via telematica delle dichiarazioni previste dai predetti articoli, sono rideterminati, rispettivamente, con decreti del Ministro dell'economia e delle finanze e del direttore dell'Agenzia delle entrate.
 
 6.
 
@@ -467,11 +467,11 @@ All'onere derivante dall'attuazione dell'articolo 23-bis, valutato in 213.800.00
 
 1.
 
-All'[articolo 4, comma 153, della legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350#art_4-com153), dopo le parole: "di cui alla [legge 5 febbraio 1992, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;139)," sono inserite le seguenti: "nonche' per le finalita' di cui all'[articolo 5 del decreto-legge 25 marzo 1997, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-25;67#art_5), convertito, con modificazioni, dalla [legge 23 maggio 1997, n. 135, e all'articolo 1, commi 1](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20marzo%201997%20n.%2067%20recante%20disposizioni%20urgenti%20per%20favorire%20loccupazione.md) e [2](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20marzo%201997%20n.%2067%20recante%20disposizioni%20urgenti%20per%20favorire%20loccupazione.md), della [legge 18 giugno 1998, n. 194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-18;194)".
+All'[articolo 4, comma 153, della legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md), dopo le parole: "di cui alla [legge 5 febbraio 1992, n. 139](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;139)," sono inserite le seguenti: "nonche' per le finalita' di cui all'[articolo 5 del decreto-legge 25 marzo 1997, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-25;67#art_5), convertito, con modificazioni, dalla [legge 23 maggio 1997, n. 135, e all'articolo 1, commi 1](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20marzo%201997%20n.%2067%20recante%20disposizioni%20urgenti%20per%20favorire%20loccupazione.md) e [2](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20marzo%201997%20n.%2067%20recante%20disposizioni%20urgenti%20per%20favorire%20loccupazione.md), della [legge 18 giugno 1998, n. 194](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-06-18;194)".
 
 2.
 
-Per lo sviluppo e la realizzazione delle infrastrutture aeroportuali di cui alla [legge 5 febbraio 1992, n. 139, all'articolo 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;139#art_5) del [decreto-legge 25 marzo 1997, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-25;67), convertito, con modificazioni, dalla [legge 23 maggio 1997, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20marzo%201997%20n.%2067%20recante%20disposizioni%20urgenti%20per%20favorire%20loccupazione.md), e alla [legge 1° agosto 2002, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-08-01;166), e successive modificazioni, e' autorizzato, in favore dell'Ente nazionale per l'aviazione civile (ENAC) un contributo annuo a decorrere dal 2004 di 10 milioni di euro. Al relativo onere si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 7, comma 1, lettera a), del decreto legislativo 25 luglio 1997, n. 250](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-07-25;250#art_7-com1-leta), come determinata dalla tabella C allegata alla [legge 24 dicembre 2003, n. 350](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2003-12-24;350).
+Per lo sviluppo e la realizzazione delle infrastrutture aeroportuali di cui alla [legge 5 febbraio 1992, n. 139, all'articolo 5](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-02-05;139#art_5) del [decreto-legge 25 marzo 1997, n. 67](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-03-25;67), convertito, con modificazioni, dalla [legge 23 maggio 1997, n. 135](../DL%20e%20leggi%20di%20conversione/Conversione%20in%20legge%20con%20modificazioni%20del%20decreto-legge%2025%20marzo%201997%20n.%2067%20recante%20disposizioni%20urgenti%20per%20favorire%20loccupazione.md), e alla [legge 1° agosto 2002, n. 166](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-08-01;166), e successive modificazioni, e' autorizzato, in favore dell'Ente nazionale per l'aviazione civile (ENAC) un contributo annuo a decorrere dal 2004 di 10 milioni di euro. Al relativo onere si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[articolo 7, comma 1, lettera a), del decreto legislativo 25 luglio 1997, n. 250](../Decreti%20Legislativi/Istituzione%20dellEnte%20nazionale%20per%20laviazione%20civile%20E.N.A.C.md), come determinata dalla tabella C allegata alla [legge 24 dicembre 2003, n. 350](../Leggi%20finanziarie%20e%20di%20bilancio/Disposizioni%20per%20la%20formazione%20del%20bilancio%20annuale%20e%20pluriennale%20dello%20Stato%20legge%20finanziaria%202004.md).
 
 ))
 

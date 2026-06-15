@@ -54,7 +54,7 @@ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occor
 
 1.
 
-I rapporti di lavoro dei medici inquadrati ai sensi dell'[articolo 110 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-20;270#art_110), e del [decreto del Ministro della sanita' 18 novembre 1987, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1987-11-18;503), in essere alla data del 30 dicembre 1990, sono confermati ad esaurimento.
+I rapporti di lavoro dei medici inquadrati ai sensi dell'[articolo 110 del decreto del Presidente della Repubblica 20 maggio 1987, n. 270](../DPR/Norme%20risultanti%20dalla%20disciplina%20prevista%20dallaccordo%20sindacale%20per%20il%20triennio%201985-1987%20relativa%20al%20comparto%20del%20personale%20dipendente%20del%20Servizio%20sanitario%20nazionale.md), e del [decreto del Ministro della sanita' 18 novembre 1987, n. 503](https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.sanita:decreto:1987-11-18;503), in essere alla data del 30 dicembre 1990, sono confermati ad esaurimento.
 
 ## Art. 6.
 
